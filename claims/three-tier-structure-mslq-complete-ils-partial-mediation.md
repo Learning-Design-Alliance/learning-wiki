@@ -65,3 +65,4 @@ Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships be
 - [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — a broader claim this one bears on
 - [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md) — related
 - [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — related
+- [Conceptions of self-regulated learning had small, non-significant relationships with actual reported self-regulation activities](srl-conceptions-nonsignificant-with-reported-srl.md) — related

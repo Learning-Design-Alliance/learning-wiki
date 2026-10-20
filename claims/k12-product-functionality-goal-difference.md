@@ -43,3 +43,5 @@ Descriptive survey results comparing K-12 and higher education rankings of resea
 ## Related Claims
 - [Manual adaptation is slightly superior to automatic adaptation in adaptive training of manual control](manual-adaptation-slightly-superior-automatic-adaptive-training.md) — related
 - [Gain-effective time constant product is slightly superior to forcing function amplitude as an adaptive variable](gain-time-constant-product-superior-forcing-function-amplitude.md) — related
+- [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md) — related
+- [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

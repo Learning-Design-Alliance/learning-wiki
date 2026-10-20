@@ -45,3 +45,4 @@ Narrative review of pharmaco-epidemiological analyses of large-scale register da
 ## Related Claims
 
 - [A large Swedish register-based study found treatment with ADHD medication significantly reduces the risk for criminality in adults with ADHD](adhd-medication-reduces-criminality-risk-adults.md)
+- [A third systematic review concluded ADHD medication reduced symptoms and impairments but found limited and inconsistent evidence for long-term medication effects on social functioning, academic achievement, employment status, and psychiatric comorbidity](adhd-medication-limited-long-term-functional-effects.md) — related

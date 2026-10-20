@@ -44,3 +44,4 @@ One-sample t-test on questionnaire data from 76 valid MARSI-based responses (α 
 
 ## Related Claims
 - [Metacognitive strategy use correlates positively with EFL reading comprehension achievement (r = .54)](metacognitive-strategy-use-reading-achievement-correlation.md) — related
+- [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — related

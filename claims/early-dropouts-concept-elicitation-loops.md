@@ -45,3 +45,4 @@ First-order transition matrices over six core practices comparing N=252 early dr
 ## Related Claims
 - [Student impasses in LLM chemistry tutoring concentrate in the relevant-concepts planning phase, and impasse type depends strongly on problem-solving practice](impasses-concentrate-relevant-concepts-practice.md) — related
 - [The association between tutor questioning and impasse recovery decays as impasses persist, while addressing the student's error becomes more beneficial](questioning-benefit-decays-with-impasse-depth.md) — related
+- [Next-turn recovery from impasses declines steadily as impasse depth increases, with help-seeking impasses declining most sharply](recovery-declines-with-impasse-depth.md) — related

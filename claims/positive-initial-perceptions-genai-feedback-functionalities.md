@@ -46,3 +46,5 @@ Thematic analysis of data from the study's introductory lab sessions, the first 
 - [Student perceptions of GenAI feedback functionalities diverged, with some finding them redundant when feedback was perceived as clear](divergent-perceptions-genai-feedback-redundancy.md) — related
 - Students in initial deployment perceived AI-assisted feedback as highly coherent and useful, with excellent usability acceptance — related
 - [Students rate a Socratic AI chatbot highest for knowledge-based skills (median ≈ 4.0/5) and positively for overall effectiveness (median ≈ 3.4/5) in an introductory mechanics course](socratic-ai-chatbot-survey-ratings-physics-problem-solving.md) — related
+- [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related
+- [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — related

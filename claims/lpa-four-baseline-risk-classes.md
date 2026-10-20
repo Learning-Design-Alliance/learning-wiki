@@ -48,3 +48,4 @@ Latent profile analysis of baseline Teacher Observation of Classroom Adaptation-
 - [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence](four-hbr-ability-profiles-lta.md) — related
+- [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related

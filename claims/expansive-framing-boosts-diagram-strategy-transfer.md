@@ -46,3 +46,8 @@ Randi A. Engle, Phi D. Nguyen, Adam Mendelson. (2011). The influence of framing 
 
 - [General biology students in the expansive condition transferred more of what they learned about the differential pressure principle (d = 1.2)](general-biology-transfer-of-learning-differential-pressure.md)
 - [A non-significant trend favored expansive framing on transfer-of-learning of facts (36% vs. 13%, p = .09)](transfer-of-learning-facts-trend-expansive.md)
+- [Expansive framing increased transfer-of-knowing of the differential pressure principle (d = .95)](expansive-framing-boosts-differential-pressure-transfer-of-knowing.md) — related
+- [Expansive framing increased high school biology students' transfer-of-knowing of facts between body systems (d = .89)](expansive-framing-boosts-transfer-of-knowing-facts.md) — related
+- [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
+- [Students perceived the intended expansive versus bounded framing manipulation (d = 1.4)](students-perceived-framing-manipulation.md) — related
+- [Expansive framing increased transfer-after-exposure of facts (d = .94)](expansive-framing-boosts-transfer-after-exposure-facts.md) — related

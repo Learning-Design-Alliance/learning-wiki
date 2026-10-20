@@ -47,3 +47,7 @@ Correlational analyses in Study 1 replicated prior mindset findings before the i
 
 ## Related Claims
 - [In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)](revised-mindset-intervention-greater-challenge-seeking-study1.md) — related
+- [In Study 1, the revised intervention reduced fixed-trait attributions and performance-avoidance goals relative to the original, with small effects](revised-mindset-intervention-attributions-goals-study1.md) — related
+- [In Study 1, the revised intervention reduced hypothetical choice of the easy math assignment from 60% to 51% relative to the original (d=.19)](revised-mindset-intervention-hypothetical-challenge-choice.md) — related
+- [In Study 1, the revised intervention reduced self-reported fixed mindset more than the original intervention](revised-mindset-intervention-larger-fixed-mindset-reduction.md) — related
+- [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related

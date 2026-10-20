@@ -43,4 +43,7 @@ The editorial reports that audio-recorded small-group discourse in a computer-su
 
 
 ## Related Claims
--
+- [Task-level and process-level prompts in support software mediate and alter students' group argumentation discourse practice and potentially their individual argumentation style](task-process-prompts-alter-argumentation-style.md) — related
+- [Meta-level (meta-strategic and epistemic) talk in the two conditions followed a comparable pattern until reflective activities were introduced, after which the patterns differed](meta-level-talk-diverges-after-reflection-introduced.md) — related
+- [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md) — related
+- [The more skilled adult partners displayed skilled counterargument, evidence use, frequent questioning, and meta-talk about the discourse](skilled-partner-discourse-moves.md) — related

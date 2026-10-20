@@ -46,3 +46,5 @@ Per-class results from the confusion-matrix analysis of the 192-text evaluation 
 - [Originality outperformed Turnitin in overall accuracy and macro-average recall on a balanced EFL-relevant dataset, but both showed limited consistency across classes](originality-outperforms-turnitin-accuracy-recall.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — a broader claim this one bears on
 - [Originality showed a borderline non-significant trend toward higher accuracy on professional than EFL student writing, while Turnitin showed no significant difference](originality-borderline-efl-accuracy-trend.md) — related
+- [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
+- [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](detectors-lower-accuracy-scientific-writing.md) — related

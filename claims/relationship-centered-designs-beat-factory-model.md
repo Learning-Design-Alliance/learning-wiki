@@ -49,3 +49,7 @@ The Priority 5 section opens by citing research comparing relationship-centered 
 ## Related Claims
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
+- [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related
+- [Ivy's principal identifies building culture and relationships as his foremost leadership responsibility for student learning](ivy-principal-culture-relationships-priority.md) — related
+- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — a narrower finding that bears on this claim

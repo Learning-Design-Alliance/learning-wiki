@@ -51,3 +51,5 @@ Exploratory affect modeling within the PFA-based logistic regression: confusion 
 
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — the general claim this finding bears on, with the studies behind it
 - [Unsuccessful retrieval attempts confer a smaller benefit to future performance than successful retrievals, whose advantage grows with item difficulty](unsuccessful-retrieval-smaller-benefit-than-successful.md) — related
+- [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related

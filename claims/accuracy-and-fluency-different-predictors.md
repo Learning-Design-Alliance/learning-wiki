@@ -46,3 +46,5 @@ Longitudinal opportunity–propensity analysis of Belgian children in Grades 1�
 - [Intrinsic motivation was related to mathematical accuracy but not to fluency in Grade 3](intrinsic-motivation-accuracy-not-fluency-grade-3.md) — a narrower finding that bears on this claim
 - [Prior mathematical accuracy is the dominant propensity factor: over half of January accuracy variance and under one-fifth of fluency variance predicted June performance](prior-math-accuracy-dominant-propensity-factor.md) — a narrower finding that bears on this claim
 - [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
+- [Fluency can have a high effect on accuracy, whereas accuracy will not lead to fluency](fluency-precedes-accuracy-oral-l2.md) — related
+- [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](postdiction-skills-related-to-math-accuracy-grades-1-6.md) — related

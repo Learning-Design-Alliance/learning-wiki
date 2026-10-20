@@ -67,3 +67,5 @@ The Results section describes the interaction pattern plotted in Figure 4a with 
 - [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](need-for-cognition-moderates-trust-reliance.md) — related
 - [The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data](nonlinear-trust-reliance-no-optimal-trust.md) — related
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
+- [AI literacy interventions recalibrate reliance on ML systems rather than simply increasing trust](ai-literacy-recalibrates-rather-than-increases-trust.md) — a broader claim this one bears on
+- [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related

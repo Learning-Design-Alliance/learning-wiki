@@ -51,3 +51,5 @@ The article's interpretive claim, stated in the abstract, that its seasonal-loss
 - [Summer Bridge gains were relatively uniform across demographic and achievement groups, with highest-risk third graders benefiting most](summer-bridge-uniform-gains-across-groups.md) — related
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related
 - [The research program includes related work on summer learning loss and the relationship between school-year gains and summer loss](related-work-summer-loss-and-gain-loss-relationship.md) — related
+- [The reality of summer learning loss is more complex than the long-standing gap-widening account](summer-loss-more-complex-than-gap-account.md) — related
+- [Students who made the greatest school-year gains experienced the greatest summer learning loss](greatest-gains-greatest-summer-loss.md) — related

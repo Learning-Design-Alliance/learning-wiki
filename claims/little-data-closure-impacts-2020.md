@@ -48,3 +48,4 @@ The presentation's stated motivation: a data gap on closure impacts. The article
 - [Research on seasonal learning and summer learning loss offers insights into the potential achievement impacts of COVID-19 school closures](summer-learning-loss-insights-covid-closures.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — related
+- [The forum addressed modeling of school openings, closings, and learning loss during COVID-19](covid-modeling-openings-closings-learning-loss.md) — related

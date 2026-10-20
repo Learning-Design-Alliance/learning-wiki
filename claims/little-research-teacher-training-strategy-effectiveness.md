@@ -47,3 +47,5 @@ The report's framing statement, offered without cited evidence, asserts that alt
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [Little is known about teachers certified through alternative certification programs and their experiences after certification](limited-knowledge-alt-cert-teachers-experiences.md) — related
 - [Online college courses are a rapidly expanding feature of higher education, with little prior research on their relative effects](online-courses-expanding-little-research.md) — related
+- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related
+- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related

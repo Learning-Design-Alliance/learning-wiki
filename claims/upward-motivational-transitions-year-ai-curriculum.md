@@ -48,3 +48,4 @@ Latent transition analysis of 2,086 students across one academic year estimated 
 - [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related
 - [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related
 - [Positive adaptation showed the highest temporal stability while maladaptive adaptation was the least stable profile across the semester](positive-adaptation-highest-stability-maladaptive-least.md) — related
+- [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related

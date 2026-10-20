@@ -45,3 +45,6 @@ The review attributes to Fang et al. (2025) a four-week randomised controlled tr
 ## Related Claims
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — related
 - [A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention](quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) — reports the opposite
+- [One-to-one social support, advice and information, or health-needs assessment interventions were largely ineffective at reducing social isolation and loneliness among older people](one-to-one-support-interventions-ineffective-older-people-isolation.md) — related
+- [Loneliness functions as a biological social-feedback signal that motivates relationship cultivation, and AI companions may silence that signal](loneliness-as-social-feedback-signal-ai-companions-silence.md) — related
+- [Educational and social activity group interventions targeting specific groups can alleviate social isolation and loneliness among older people](educational-social-group-interventions-alleviate-older-people-isolation.md) — related

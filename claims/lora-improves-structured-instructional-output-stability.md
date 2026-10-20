@@ -64,3 +64,4 @@ Paired bootstrap analysis of Teaching Points coverage gains (Fig. 5). The articl
 ## Related Claims
 - [LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes](lora-improves-reference-answer-similarity-control-systems.md) — related
 - [Increasing LoRA rank raises absolute ROUGE-L gains but produces diminishing returns in performance per million adapter parameters](lora-rank-diminishing-parameter-efficiency-returns.md) — related
+- [Bootstrap stability of LoRA gains is not uniform: the ROUGE-1 confidence interval crossed zero at 7B-r4, so that increase is a trend rather than a stable improvement](bootstrap-stability-lora-gains-7b-r4-rouge1.md) — related

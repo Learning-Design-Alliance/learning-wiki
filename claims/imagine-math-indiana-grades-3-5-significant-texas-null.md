@@ -48,3 +48,5 @@ A quasi-experimental study during the 2023–2024 school year in two public scho
 - Across grades 1-5, the overall effect of Imagine Math Facts on Ren Star math growth was small (effect size +0.05) — related
 - Imagine Math Facts use was not associated with statistically significant growth for upper elementary students (grades 3-5) — related
 - TalkingPoints use is associated with significant math score improvements in grades 3-8 — related
+- [In a Maryland rural fringe district study of over 700 students in grades K-5, Imagine IM showed significant impacts on Acadience Math (+0.26) and Grade 2 NWEA MAP Growth Math (+0.39), with positive but non-significant effects on the state MCAP assessment](imagine-im-maryland-study-acadience-nwea.md) — related
+- [Prior HQIM mathematics impact studies show mixed results, with positive effects for Desmos and some Illustrative Mathematics contexts but no significant grade-6 difference](hqim-math-impact-studies-mixed-results.md) — related

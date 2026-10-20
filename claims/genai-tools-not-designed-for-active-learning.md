@@ -45,3 +45,5 @@ The commentary reports, citing Gupta et al. (2025), that GenAI training regimes 
 ## Related Claims
 - [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related
 - [Small input perturbations such as minor spelling errors can reduce state-of-the-art dialogue and assessment model accuracy by over 30%](its-dialogue-models-brittleness-perturbations.md) — related
+- [LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard](cdpk-accuracy-range-28-89-closed-models-lead.md) — related
+- [Classroom-scale data (5-80 samples per misconception) is insufficient for reliable tutor-model misconception acquisition](tutor-model-sample-efficiency-classroom-insufficient.md) — related

@@ -49,3 +49,9 @@ Findings on the ChatGPT feedback group in the case study. Students such as John 
 - [Survey items on critical evaluation and validation of ChatGPT outputs (Q11–Q13) received the lowest scores in both courses despite explicit validation instructions](critical-evaluation-items-lowest-scores.md) — reports the opposite
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - Transparency about AI involvement appeared to function as an instructional intervention, shifting student reflection from feedback quality toward authority, trust, and assessment legitimacy — related
+- [Open questions for learnity graphs include validation, legitimacy, grading avoidance, algorithmic guidance balance, and privacy](learnity-graph-open-questions.md) — related
+- [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
+- [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related

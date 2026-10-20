@@ -54,3 +54,4 @@ SEM results for the SDT model (n = 511) show standardized path coefficients to i
 - SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — a narrower finding that bears on this claim
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
+- [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related

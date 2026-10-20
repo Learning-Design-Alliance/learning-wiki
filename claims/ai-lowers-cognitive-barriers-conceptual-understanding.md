@@ -48,3 +48,5 @@ Qualitative thematic analysis of interviews and open-ended questionnaires with f
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
 - [AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry](ai-reshaping-experimental-approaches-learning-opportunities.md) — related
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
+- [AI raises the ceiling on problem complexity by reducing access complexity rather than cognitive demand](ai-raises-problem-complexity-ceiling.md) — related
+- [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](chatgpt-qualitative-engagement-comprehension-quantum.md) — related

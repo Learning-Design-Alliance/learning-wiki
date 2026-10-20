@@ -72,3 +72,10 @@ Planned pre-to-post gain contrasts in the randomized four-group trial: "Groups C
 - [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](no-group-differences-other-metacognition.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
 - [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — related
+- [Reflection increased in the adaptable and non-adaptable script conditions, but only the adaptable script had positive effects on monitoring, supporting overall positive effects on self-regulation](adaptable-script-monitoring-self-regulation-effects.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Extending mandated daily study time from three to four hours produces no significant performance gains for novices](extra-time-on-task-no-gain-novices.md) — related
+- [LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters](lassi-self-regulation-gains-adhd-coaching.md) — related
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
+- [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related

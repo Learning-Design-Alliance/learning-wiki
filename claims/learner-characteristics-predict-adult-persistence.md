@@ -45,3 +45,6 @@ The editorial reports, from Greenberg, Wise, Frijters, and Morris's profiling of
 ## Related Claims
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related
 - [Teachers' ratings on 16 English-readiness KEA items at kindergarten entry predicted Hispanic/Latino children's English literacy achievement almost 6 years later](kea-english-readiness-ratings-predict-literacy-six-years.md) — related
+- [Persistence behaviors in the face of challenge differed significantly by age and gender](persistence-differs-by-age-and-gender.md) — related
+- [Struggling adult readers made significant reading gains across all instructional groups, but all improvements were associated with small effect sizes](adult-literacy-significant-gains-small-effect-sizes.md) — related
+- [ESL participants showed significantly higher posttest word attack scores than native English speakers](esl-speakers-higher-word-attack-posttest.md) — related

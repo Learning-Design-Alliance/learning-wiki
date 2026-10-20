@@ -47,3 +47,4 @@ The paper states this concern as motivation for the study; the article offers no
 - [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](lower-ceilings-shrink-value-added-toward-average.md) — related
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related
 - The paper clarifies confusion about the use of value-added information in teacher evaluation — a broader claim this one bears on
+- [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related

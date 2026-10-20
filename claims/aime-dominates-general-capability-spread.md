@@ -44,3 +44,5 @@ Per-component General Capability results (Figure 3, Appendix A Table 4) for the 
 
 ## Related Claims
 - [The top six models are statistically indistinguishable on overall ELBench score yet differ substantially at the module level, so module profiles are more informative than a single aggregate](top-six-indistinguishable-overall-module-profile.md) — related
+- [Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points](capability-boundaries-and-universal-failures-academiclaw.md) — related
+- [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — related

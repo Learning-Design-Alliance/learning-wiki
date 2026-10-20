@@ -47,3 +47,4 @@ In the assisted math assignment, graded by four anonymized Gemini grading agents
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
 - [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related
 - Student effort on assignments, measured by time-on-task and keystrokes, showed no evidence of decrease when AI use was allowed — related
+- [Learners receiving ChatGPT-generated hints showed statistically significant learning gains compared to a no-hint control in an online mathematics tutoring experiment](chatgpt-hints-significant-gains-versus-control.md) — related

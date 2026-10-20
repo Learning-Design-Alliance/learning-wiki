@@ -71,3 +71,7 @@ The review attributes to Makransky et al. (2025) that a chatbot prompting studen
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
 - [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](strategic-offloading-intentional-transformative-learning.md) — related
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
+- [Teachers experienced AI as expanding design possibilities while increasing the burden of verification and professional responsibility](ai-opportunities-and-verification-burden.md) — related
+- [Users experienced a trade-off between conversational depth and interaction efficiency between the fine-tuned and baseline chatbots](depth-efficiency-tradeoff-instructional-chatbots.md) — a narrower finding that bears on this claim
+- [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — a narrower finding that bears on this claim
+- [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related

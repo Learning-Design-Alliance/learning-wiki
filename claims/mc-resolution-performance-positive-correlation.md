@@ -46,3 +46,4 @@ Reanalysis of six experiments (1A-F) with middle school and undergraduate sample
 - [Performance-resolution correlation is significant in 2AFC but much smaller and mostly non-significant in free-response testing](resolution-performance-correlation-2afc-not-free-response.md) — related
 - [Observed performance-resolution slopes in the mathematics data were not greater than those produced by guessing in simulation](observed-slopes-not-greater-than-simulated.md) — reports the opposite
 - [In simulations, resolution metrics become strongly positively related to knowledge once guessing is possible, even when true resolution is constant](simulation-guessing-biases-resolution-metrics.md) — related
+- [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related

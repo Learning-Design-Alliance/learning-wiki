@@ -48,3 +48,6 @@ HLM analysis of the early intervention high-risk sample with gender as a Level 1
 ## Related Claims
 - [Early comprehensive (Level C) intervention effects on high-risk children's aggression interacted with community type, decreasing aggression in Aurora but increasing it in Chicago](level-c-early-aggression-community-interaction.md) — related
 - [For children receiving both early and late intervention, the Level C Community × Treatment interaction replicated: Aurora treated children decreased in aggression while Chicago treated children increased](level-c-early-plus-late-replication.md) — related
+- [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related
+- [Bullied boys show greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression domains](bullied-boys-greater-behavioral-problems-than-bullied-girls.md) — related
+- [Early-delivered Level A (classroom-only) and Level B (classroom plus small-group) interventions showed no significant effects on high-risk children's aggression](early-level-a-b-no-aggression-effect.md) — related

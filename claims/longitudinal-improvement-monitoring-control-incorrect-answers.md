@@ -71,3 +71,4 @@ Longitudinal ANOVA on true-false question CJs. Confidence in incorrect answers d
 - [Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions](overconfidence-incorrect-answers-higher-true-false.md) — related
 - [Children's test performance is stable over six months but monitoring and control accuracy shows little inter-individual stability](performance-stable-metacognitive-accuracy-unstable.md) — reports the opposite
 - [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
+- [Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points](monitoring-overconfidence-declines-but-persists-into-grade-2.md) — related

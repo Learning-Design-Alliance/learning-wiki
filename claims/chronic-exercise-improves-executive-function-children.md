@@ -77,3 +77,10 @@ Meta-analysis of chronic exercise studies on cognitive flexibility, showing "a s
 ## Related Claims
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — a narrower finding that bears on this claim
 - [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md) — related
+- [Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)](acute-exercise-improves-cognitive-flexibility-children.md) — related
+- [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
+- [Exercise session time of 30 minutes or less yields a larger working memory effect than longer sessions in chronic exercise interventions](shorter-session-time-larger-working-memory-effect.md) — a narrower finding that bears on this claim
+- [Metacognition interventions positively impact children's executive functions, a novel outcome in this literature](metacognition-interventions-improve-executive-functions.md) — related
+- [Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory](age-moderates-exercise-effects-opposite-directions.md) — related
+- [Acute exercise significantly improves inhibitory control in children and adolescents with a small effect size (SMD = −0.25)](acute-exercise-improves-inhibitory-control-children.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related

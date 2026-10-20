@@ -65,3 +65,5 @@ Paired t test on graphing application scores (n = 120) showed a significant but 
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — related
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
 - [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — a broader claim this one bears on
+- [AI-generated revision podcasts produce statistically significant immediate learning gains in medical students at both study centres](ai-revision-podcasts-immediate-learning-gains-medical-students.md) — related
+- [AI-enabled personalized STEM education yields a statistically significant overall effect of g = 0.455, which its authors class as small, compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related

@@ -43,4 +43,7 @@ Same questionnaire analysis across the remaining three courses found no signific
 
 
 ## Related Claims
--
+- [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
+- [No differences between student and staff tutors in focus on cooperation among group members](no-difference-tutor-cooperation-orientation.md) — related
+- [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related

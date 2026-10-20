@@ -42,3 +42,6 @@ Self-reported finding from the two co-design workshops, where participants onboa
 
 ## Related Claims
 - [Roughly half of co-design participants completed LER technology onboarding within an allotted 15–20 minute window](half-participants-complete-ler-onboarding-15-20-minutes.md) — related
+- [Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem](transcript-integration-inaccuracies-pervasive.md) — related
+- [HSE participants found the LER value proposition unclear, questioning how it differed from Indeed and LinkedIn and feeling excluded by linear-journey prompts](unclear-ler-value-proposition-hse-participants.md) — related
+- [Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related

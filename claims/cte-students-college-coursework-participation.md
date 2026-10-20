@@ -55,3 +55,7 @@ Descriptive analysis of CPS data on CTE enrollment linked to college-level cours
 - Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree — related
 - [CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields](cte-three-plus-courses-focused-study-effects.md) — related
 - [CTE course-taking generally has little or no effect on academic achievement, but math-enhanced CTE lessons significantly improved standardized math performance](math-enhanced-cte-lessons-math-gains.md) — related
+- [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related
+- [Fewer than one-fifth of DCPS AP teachers participated in the APSI at least once every three years](fewer-one-fifth-ap-teachers-apsi-every-three-years.md) — related
+- [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](years-science-study-sat-achievement.md) — related
+- [Oakland Unified high school participation in Linked Learning career pathways rose from 49% in 2014 to 87.7% in 2020–21](linked-learning-pathway-participation-growth.md) — related

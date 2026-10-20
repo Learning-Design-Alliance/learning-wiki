@@ -52,3 +52,4 @@ Shahrokni's (2009) empirical study assigned 90 Iranian EFL learners to three gro
 - [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
 - [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
+- [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related

@@ -46,3 +46,4 @@ Website and phone contact search across the national district sample. The review
 - [District websites rarely specify which department or administrator oversees services for English Learners](district-websites-rarely-specify-el-leader.md) — related
 - [Contact information for district EL leaders is often incomplete, and few web-form or superintendent emails receive responses](incomplete-contact-info-few-responses.md) — related
 - [Districts use no consistent way of referring to English Learner programs and their offices](no-consistent-el-program-terminology.md) — related
+- [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related

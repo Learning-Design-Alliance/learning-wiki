@@ -83,3 +83,5 @@ A 2 (school type) by 2 (group) ANOVA showed parents rated social success higher 
 ## Related Claims
 - [Hearing children are rated as more capable in reading and more socially successful than deaf children by both children and parents](hearing-children-rated-more-capable-reading-social.md) — related
 - [Parents rate their children as more socially successful than the children rate themselves, regardless of hearing status](parents-overestimate-childrens-social-success.md) — related
+- [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related
+- [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related

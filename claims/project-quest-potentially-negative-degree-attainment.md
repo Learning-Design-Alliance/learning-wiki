@@ -50,3 +50,5 @@ WWC review of degree attainment across two RCTs (1,301 students). Table 4 report
 - [Dual enrollment programs have positive effects on college degree attainment, with an average improvement index of +25 percentile points](dual-enrollment-positive-degree-attainment.md) — related
 - [InsideTrack© Coaching shows no discernible effects on college degree completion (attainment)](insidetrack-coaching-no-discernible-attainment-effect.md) — related
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — related
+- [I-BEST has positive effects on industry-recognized credential, certificate, or license completion (improvement index +18 across three studies)](ibest-positive-effects-credential-completion.md) — related
+- [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related

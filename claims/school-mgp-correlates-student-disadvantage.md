@@ -53,3 +53,4 @@ Observational analysis of pilot data finds school median student growth percenti
 - [Several component measure ratings and the overall rating had low, negative correlations with student socioeconomic disadvantage, suggesting possible bias against principals of more disadvantaged schools](principal-ratings-negative-correlation-socioeconomic-disadvantage.md) — a broader claim this one bears on
 - [Principals evaluated on school median student growth percentiles were less likely to receive highly effective overall ratings than principals not evaluated on that measure](sgp-evaluation-lower-highly-effective-ratings.md) — related
 - [Composition effects on ratings point to evaluator bias rather than genuine changes in teacher effectiveness](evaluator-bias-not-effectiveness-drives-composition-effect.md) — reports the opposite
+- [School poverty (%FRL) accounts for about 50% of a school's median student achievement](frl-accounts-for-half-of-school-achievement.md) — related

@@ -46,3 +46,7 @@ Illustrative analysis of two open-ended survey questions about benefits and draw
 - [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
 - [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — a broader claim this one bears on
+- [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related
+- [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
+- [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
+- [Emotional discomfort from viewing medical images was the dominant drawback of the annotation task, alongside repetitiveness](emotional-discomfort-medical-images-main-drawback.md) — related

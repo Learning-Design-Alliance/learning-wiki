@@ -52,3 +52,5 @@ A second-hand research claim in section 4 of the brief, attributed in endnote 22
 - [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — related
 - [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — related
 - [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — related
+- [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
+- [Equity-oriented leadership preparation through applied and reflective learning can deepen aspiring principals' understanding of bias and equitable practices](equity-oriented-principal-preparation.md) — related

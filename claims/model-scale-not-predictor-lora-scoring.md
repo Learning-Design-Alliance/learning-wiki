@@ -54,3 +54,5 @@ Head-to-head comparison of the two LoRA-adapted open-weight models on the 360-es
 - [Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics](llama-3-underperforms-other-8b-models.md) — related
 - [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related
 - [Fine-tuned GPT-4o achieves state-of-the-art scoring of TOEFL argumentative essays with QWK 0.84 and RMSE 0.44 against official scores](wraft-finetuned-gpt4o-scoring-qwk-084.md) — related
+- [Adaptation gains grow monotonically with model capacity under the same LoRA recipe, though three data points cannot establish a scaling law](adaptation-gains-grow-with-model-capacity.md) — related
+- [Carbon per Accuracy as a sustainability metric likely rewards under-trained models because accuracy scales non-linearly with compute](carbon-per-accuracy-rewards-undertrained-models.md) — related

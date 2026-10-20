@@ -47,3 +47,4 @@ The review reports, citing Pinto (2019), a study of two TAs' tutorial discourse 
 - Communication problems between university and school regarding epistemological and ontological questions affect teaching and learning of subject knowledge — related
 - [Review reports lecturers' discourse contains endorsed and enacted meta-rules about doing mathematics that can model mathematical behavior](lecturer-meta-rules-endorsed-and-enacted.md) — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
+- [Review reports lecturers' discourses vary: distinct teaching styles and routine profiles despite superficially similar lectures](lecturer-discourse-variability-in-styles-and-routines.md) — related

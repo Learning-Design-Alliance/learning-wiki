@@ -66,3 +66,6 @@ Interviews with 30 external partners of Annenberg networks. Almost two-thirds no
 - [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
 - [Most principals in implementation networks reported moderate reductions in school-community isolation as a result of network participation](networks-reduce-school-community-isolation.md) — related
 - [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
+- [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
+- [The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas](nsf-exp-network-238-researchers-87-projects.md) — related
+- [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related

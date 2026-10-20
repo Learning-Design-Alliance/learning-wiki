@@ -41,4 +41,5 @@ Hierarchical regression controlling general intellectual ability predicting the 
 
 
 ## Related Claims
--
+- [Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does](cool-ef-predicts-academic-performance.md) — related
+- [Cool EF measures correlate with each other, but no association is found between cool and hot EF measures](cool-hot-ef-uncorrelated.md) — related

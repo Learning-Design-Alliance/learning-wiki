@@ -64,3 +64,4 @@ Frequency distribution of final-test scores in the control class, presented as F
 ## Related Claims
 - [Post-test mean learning outcomes were 81.81 in the ChatGPT class versus 70.45 in the conventional class](chatgpt-experimental-mean-81-81-vs-control-70-45.md) — a broader claim this one bears on
 - [Using ChatGPT during technology learning produces significantly higher post-test learning outcomes than conventional learning in a quasi-experiment of two classes of 31 students](chatgpt-technology-learning-higher-outcomes.md) — related
+- [CPS ninth-grade math final grade distributions show sharp peaks at 60, 70, 80, and 90 points, with students on the cusp between two grades much more likely to receive the higher grade](cps-gradebook-cusp-grades-higher-grade-peaks.md) — related

@@ -41,4 +41,5 @@ Repeated-measures ANOVA on 121 experimental and 120 control children; the group�
 
 
 ## Related Claims
--
+- [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md) — related
+- [The classroom training improves inhibitory control as measured by the Tongue Task](classroom-training-improves-tongue-task-inhibition.md) — related

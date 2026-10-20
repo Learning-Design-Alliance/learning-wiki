@@ -122,3 +122,8 @@ A meta-analysis of 57 independent effect sizes from 33 experimental reports, mos
 - [Working memory is limited in capacity and includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
+- [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](system-paced-moderates-verbal-redundancy.md) — related
+- [Redundant text in the diagram did not affect posttest accuracy or difficulty ratings](redundant-text-no-effect-posterior-probability-lesson.md) — reports the opposite
+- [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — related
+- [Spoken–written presentations do not outperform written-only presentations but do outperform spoken-only presentations](spoken-written-beats-spoken-only-not-written-only.md) — related
+- [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — related

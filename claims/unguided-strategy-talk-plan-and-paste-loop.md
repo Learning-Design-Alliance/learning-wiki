@@ -58,3 +58,8 @@ Epistemic network analysis of group chat logs from the Week 2 unguided task (13 
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
 - [Teachers observe AI tools foster students' scientific identity and agency, shifting them from knowledge learners toward scientific practitioners](ai-fosters-scientific-identity-agency.md) — related
 - [Without explicit guidance and scaffolding, unguided GenAI use may disproportionately benefit already advantaged students and widen performance gaps](unguided-genai-benefits-advantaged-students.md) — related
+- [Human–GenAI collaborative interactions show promise for supporting metacognition and sociometacognition, based on an exploratory expert case study](genai-collaboration-supports-metacognition-feasibility.md) — related
+- [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
+- [Efficiency trap: human critical thinking may decline when AI performs most of the cognitive work](efficiency-trap-critical-thinking-decline.md) — a broader claim this one bears on
+- [Only 11.1% of interactions pair mastery-oriented aims with advanced strategies such as epistemic justification](high-epistemic-engagement-111-percent-mastery-justification.md) — related
+- [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — reports the opposite

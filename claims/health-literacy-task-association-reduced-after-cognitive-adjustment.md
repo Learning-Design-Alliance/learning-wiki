@@ -51,3 +51,5 @@ Multivariable regression analysis in the LitCog study (n = 882) showing the heal
 - [Health literacy measures are strongly correlated with fluid and crystallized cognitive abilities in older adults](health-literacy-measures-correlate-strongly-with-cognitive-abilities.md) — related
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
 - [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related
+- [Poorer current cognitive functioning in all domains is associated with low health literacy in older adults](poorer-current-cognition-associated-low-health-literacy-older-adults.md) — related
+- [Poorer past cognitive functioning (measured 10 years earlier) is associated with low health literacy in older adults](poorer-past-cognition-associated-low-health-literacy.md) — related

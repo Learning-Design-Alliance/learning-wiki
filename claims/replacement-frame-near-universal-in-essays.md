@@ -48,3 +48,5 @@ Descriptive coding of the 49-essay corpus found the AI students recognize as bet
 - [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — reports the opposite
 - [AI-section students framed the AI as a collaborative partner even when logs showed one-shot imperatives and rapid acceptance (Illusion of Dialogue)](illusion-of-dialogue-partnership-framing.md) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — reports the opposite
+- [Practitioners near-universally reject AI as a replacement for instructor expertise while affirming its supportive, collaborative role](rejection-of-ai-replacing-instructor-expertise.md) — reports the opposite
+- [Agency erosion appeared in 88% of student essays, most often as erosion of independent effort](agency-erosion-in-88-percent-of-essays.md) — related

@@ -48,3 +48,4 @@ In Experiment 1's Endorse trials, children saw same-size shapes after a computer
 - [Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning](children-detect-relative-error-magnitude-informants.md)
 - [In Experiment 2, children's confidence-task performance correlated with Winner and Ask choices but not Endorse choices, controlling for age](exp2-confidence-winner-ask-correlation.md)
 - [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md)
+- [Children as young as 4 years can reason about their relative confidence by selecting which of two questions they feel most sure of answering](relative-confidence-reasoning-age-four.md) — related

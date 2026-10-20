@@ -45,3 +45,5 @@ Theoretical argument in the article's exploration section: control over learning
 ## Related Claims
 
 - [Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees](cognitive-ability-moderates-exploration-metacognition.md)
+- [Contrary to expectation, the worked-example group applied suboptimal criteria more often, and fewer suboptimal applications mediated inventing's transfer](suboptimal-criteria-application-worked-example-contrary-hypothesis.md) — related
+- [Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer](canonical-criteria-application-mediates-transfer-advantage.md) — related

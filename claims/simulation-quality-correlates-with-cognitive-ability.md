@@ -46,3 +46,6 @@ Correlational analysis in Section 5.3 relating average Con2 score to student cog
 - [Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)](model-capability-negatively-correlates-sfs.md) — related
 - BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data — related
 - [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related
+- [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related
+- [In the Pychometrik item parameter recovery simulation across 27 conditions (Grades K-8, sample sizes 500, 1,000, and 2,000), recovery accuracy increased with sample size and was best for Grade 8 simulees](pychometrik-recovery-sample-size-and-grade-effects.md) — related
+- [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related

@@ -65,3 +65,7 @@ Log-data analysis of hint use per completed step (three hints available per step
 
 ## Related Claims
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
+- [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
+- [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
+- [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
+- [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — related

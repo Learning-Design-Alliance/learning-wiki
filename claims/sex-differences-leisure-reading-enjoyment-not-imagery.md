@@ -48,3 +48,5 @@ Chi-square analyses among 696 higher-track students. The article reports "Ninete
 - [Leisure readers are far more likely than non-leisure readers to enjoy reading and to engage in mental imagery, in both educational tracks](leisure-readers-enjoy-imagery-both-tracks.md) — related
 - [Only a minority of Dutch seventh graders read for leisure, with lower prevalence in the pre-vocational track (19.5%) than the pre-academic track (32.5%)](leisure-reading-minority-dutch-seventh-graders.md) — related
 - [Mental imagery shows no direct relation to school achievement among non-leisure readers, though a ceiling effect limits this null finding](mental-imagery-no-achievement-relation-ceiling.md) — related
+- [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
+- [A majority of non-leisure readers report enjoying reading in general (59% lower track, 69% higher track)](non-leisure-readers-still-enjoy-reading.md) — related

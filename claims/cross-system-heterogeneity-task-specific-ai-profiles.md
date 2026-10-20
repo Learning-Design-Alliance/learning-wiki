@@ -49,3 +49,4 @@ Multivariate random-effects model retaining within-system covariance among the t
 - [Teachers experiencing higher average demand across lesson planning, assessment/marking, and special-education adaptation report higher odds of AI adoption](focal-task-demand-associated-teacher-ai-adoption.md) — related
 - [The prespecified task–demand mapping produces the strongest within-teacher alignment of all six possible one-to-one assignments, supporting task-specific rather than arbitrary demand alignment](task-demand-mapping-specificity-ai-use.md) — related
 - [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — related
+- [AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association](professional-learning-no-moderation-allocation-association.md) — related

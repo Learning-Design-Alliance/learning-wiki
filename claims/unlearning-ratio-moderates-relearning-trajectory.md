@@ -46,3 +46,4 @@ Qualitative analysis of interaction trajectories (Fig. 5, Exception Handling top
 - [Coach-guided interactive teaching yields higher and more progressive recovery than static relearning, particularly under moderate forgetting levels (10%–30%)](coach-guided-relearning-beats-static.md) — a broader claim this one bears on
 - [Teachable agents measurably but incompletely relearn unlearned knowledge, with the recovery gap to the base model widening under higher unlearning ratios (30%–50%)](relearning-recovers-knowledge-incompletely.md) — a broader claim this one bears on
 - [Machine unlearning induces progressively stronger novice-level performance in an LLM teachable agent, with accuracy and F1 declining as the unlearning ratio increases](unlearning-induces-novice-level-degradation.md) — related
+- [Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days](educlaw-bench-plateau-within-days.md) — related

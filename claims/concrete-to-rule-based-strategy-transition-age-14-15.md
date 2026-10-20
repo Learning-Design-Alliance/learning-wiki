@@ -63,3 +63,4 @@ Figure 5 shows strategy-type proportions by grade: "the proportion of concrete s
 ## Related Claims
 - [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
 - [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
+- [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md) — related

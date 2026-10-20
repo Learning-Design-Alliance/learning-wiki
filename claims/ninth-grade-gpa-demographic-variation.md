@@ -63,3 +63,7 @@ Descriptive, unadjusted analyses of pooled 2006-13 CPS cohorts (Figures 2-7): ge
 - [The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course](peer-assessment-effect-size-versus-achievement-gaps.md) — related
 - [Girls report higher school engagement at time 1 and higher cumulative GPA than boys](girls-higher-engagement-and-gpa-than-boys.md) — related
 - [Teacher-rated grades show girls rated slightly higher than boys, but gender is unrelated to test performance](gender-grades-not-test-performance.md) — related
+- [Higher absence rates are the most important factor explaining why students with disabilities fail more courses and earn lower GPAs than students without identified disabilities](absences-explain-course-performance-gaps-disabilities.md) — related
+- [Class of 1997 outcomes differed by gender, with girls graduating at higher counts than boys within five years](kenwood-class-1997-gender-outcomes.md) — related
+- [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
+- [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related

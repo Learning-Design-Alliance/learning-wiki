@@ -49,3 +49,4 @@ Meta-analysis of intervention studies in higher education (Cohen's d effect size
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related

@@ -50,3 +50,4 @@ Authors' comparison of the present experiment's posttest results with prior meta
 - [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — a broader claim this one bears on
 - [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](theoretical-perspectives-cf-uptake-instruction-purpose.md) — related
 - [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related
+- [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — a broader claim this one bears on

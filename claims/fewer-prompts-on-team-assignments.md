@@ -45,3 +45,5 @@ Paired comparison of self-reported prompt counts across HW (mean = 3.31) and TP 
 ## Related Claims
 - [Prompting technique distribution shifts in teams, driven by students reporting no technique at all](prompting-technique-disengagement-in-teams.md) — related
 - [Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering](verification-degrades-in-team-contexts.md) — related
+- [Prompt-count distributions differ significantly across assignments, with moderate prompting most common and extended prompting (10+) rare except in Algorithms (18.0%)](prompt-count-distributions-differ-across-assignments.md) — related
+- [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related

@@ -54,3 +54,9 @@ Theoretical argument, not a tested result: the article formalizes Hypothesis 3 a
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a broader claim this one bears on
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](ai-assisted-performance-no-unassisted-transfer.md) — related
+- [The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs](llm-fallacy-empirical-validation-agenda.md) — related
+- [RAIL-Ed's integrative commitment holds that the absence of any pillar produces a characteristic pedagogical failure](rail-ed-integrative-failure-modes.md) — related
+- [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
+- [Prompt-literacy guidance was associated with higher transcript-coded rule-following compliance than unrestricted LLM access, mainly in process-over-answer and stepwise-hint behaviors](guided-llm-training-raises-rule-following-compliance.md) — related
+- [Transfer task performance is the critical measure of what adaptive training accomplishes](transfer-task-measures-adaptive-training-effectiveness.md) — related

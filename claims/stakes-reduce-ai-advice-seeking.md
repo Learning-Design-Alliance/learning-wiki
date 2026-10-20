@@ -67,3 +67,5 @@ Study 3 replication of the advice-seeking reduction with incentives reminded bef
 - [Monetary incentives for accuracy improve answer correctness specifically when AI advice is available, by reducing reliance on that advice](stakes-improve-accuracy-specifically-with-ai.md) — related
 - [Monetary stakes for accuracy act independently of AI availability on judgment suspension, with no significant AI × stakes interaction](stakes-independent-of-ai-on-suspension.md) — related
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — related
+- [Participants seek help less often than they withhold answers when both strategies are available or compared across conditions](help-seeking-less-frequent-than-withholding.md) — related
+- [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md) — related

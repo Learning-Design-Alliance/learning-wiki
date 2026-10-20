@@ -48,3 +48,4 @@ Descriptive statement about the report's analytic contributions within the Natio
 - [Upward Bound impact estimates are accompanied by extensive subgroup and sensitivity analyses](upward-bound-subgroup-sensitivity-analyses.md) — related
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
 - [Find the Fit led to some changes in advising within Upward Bound and in students' actions related to enrolling in a more selective college](find-the-fit-changed-upward-bound-advising-practices.md) — related
+- [Find the Fit did not affect the share of students completing the FAFSA early](find-the-fit-no-effect-early-fafsa-completion.md) — related

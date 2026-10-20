@@ -48,3 +48,5 @@ Covariate results from the word-decoding mediation model in 55 children with dys
 ## Related Claims
 - [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related
 - [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related
+- [No significant total or direct effect of semantic knowledge on word or pseudoword decoding in children with dyslexia](no-direct-semantic-effect-decoding-dyslexia.md) — related
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related

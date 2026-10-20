@@ -43,4 +43,7 @@ Within-group concept-map comparison: younger adults' maps "indicating an improve
 
 
 ## Related Claims
--
+- [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
+- [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related
+- [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](ena-network-structure-age-differences-icap.md) — related
+- [When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles](knowledge-relevance-reverses-age-trends.md) — reports the opposite

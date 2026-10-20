@@ -44,3 +44,6 @@ In-depth qualitative case analysis of group three's spatial reasoning session, t
 
 ## Related Claims
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — a broader claim this one bears on
+- [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related
+- [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related
+- [Three recurring challenges disrupt parent-child math tutoring: cognitive misalignment, emotional escalation, and method mismatch](three-challenges-parent-child-math-tutoring.md) — related

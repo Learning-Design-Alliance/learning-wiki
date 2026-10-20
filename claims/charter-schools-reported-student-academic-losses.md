@@ -49,3 +49,5 @@ School-reported perceptions of individual student losses (Figure 9), a descripti
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — a broader claim this one bears on
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — related
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
+- [Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses](learning-time-decreases-proficiency-moderation.md) — related

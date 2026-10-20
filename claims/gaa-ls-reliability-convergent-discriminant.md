@@ -48,3 +48,7 @@ Study 2 reliability and validity analysis. "AVE values ranged from .60 to .66, s
 - [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — related
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
+- [Existing online SRL questionnaires show reliability problems, with most having at least one scale outside the acceptable Cronbach's alpha range](existing-online-srl-scales-reliability-issues.md) — related
+- [SFAILQ shows high reliability, convergent validity with digital literacy (r = 0.49–0.68), and discriminant validity (HTMT below 0.80)](sfailq-reliability-convergent-discriminant.md) — related
+- [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related
+- [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related

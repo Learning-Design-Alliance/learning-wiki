@@ -54,3 +54,8 @@ Authors' interpretation in the Discussion connecting the RQ2 modification result
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Student narratives complicated the educator assumption that copied AI answers imply no learning, revealing invisible post-AI learning activities](invisible-learning-beyond-ai-answers.md) — related
 - [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related
+- [Coded prompt logs show different prompting strategies foreground different pedagogical themes, with technical prompts the largest strategy total (398 instances)](prompt-strategies-foreground-different-pedagogical-themes.md) — related
+- [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
+- [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — related
+- [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md) — related

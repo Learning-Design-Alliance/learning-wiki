@@ -49,3 +49,4 @@ Meta-analytic moderator analysis across 40 effect sizes for games used as a supp
 - [The review reports that students learning with serious games often perform better on content knowledge assessments than those in traditional settings](serious-games-better-content-knowledge-than-traditional.md) — a broader claim this one bears on
 - [Simulation games are more effective when they actively rather than passively convey course material](simulation-games-effective-when-instruction-active.md) — related
 - [Trainees learn more from simulation games when they have unlimited access to the game](unlimited-access-enhances-simulation-game-learning.md) — related
+- [The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions](simulation-games-higher-skill-based-knowledge.md) — related

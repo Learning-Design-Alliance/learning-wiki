@@ -45,3 +45,4 @@ Cross-case qualitative finding from interviews with local leaders at two city ca
 ## Related Claims
 - [Large pay disparities persist between TK teachers and other publicly funded preschool teachers, and only San Francisco raised teacher qualifications and compensation at scale](tk-preschool-teacher-pay-disparities-persist.md) — related
 - [Community listening sessions identified shared themes of access and affordability, market shifts, workforce development, wages, outreach, inclusion, family supports, and facilities](listening-session-shared-findings-themes.md) — related
+- [Strong, consistent early childhood leadership coupled with long-term strategic planning is essential to local preschool system coherence in mixed delivery systems](ece-leadership-strategic-planning-local-coherence.md) — related

@@ -45,3 +45,5 @@ Theoretical argument tracing the Good Language Learner construct from the 1980s 
 ## Related Claims
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
 - [Within the CoP model, learners who do not progress toward the centre through nonparticipation are relegated to the fringes with invalidated identities](cop-nonparticipation-invalidates-learner-identities.md) — related
+- [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — related
+- [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related

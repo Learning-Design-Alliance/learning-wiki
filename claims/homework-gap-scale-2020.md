@@ -63,3 +63,8 @@ The report cites the late-2020 Common Sense Media and Boston Consulting Group do
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
 - [Digital access among adults on the margins is not a one-time event but an ongoing, contingent accomplishment requiring an assemblage of resources](digital-access-ongoing-accomplishment.md) — related
+- [Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults](laissez-faire-digital-policy-gaps.md) — related
+- [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
+- [A rural district that closed device and connectivity divides and trained teachers saw graduation rates rise from 67 percent to over 94 percent and college enrollment double](lindsay-usd-digital-equity-outcomes.md) — related
+- [Rural students are characterized as a substantially sized but overlooked group, comprising about 20 percent of the national student population](rural-students-forgotten-20-percent-framing.md) — related
+- [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](thirty-percent-students-lacked-internet-or-devices-2018.md) — possibly the same claim (merge candidate)

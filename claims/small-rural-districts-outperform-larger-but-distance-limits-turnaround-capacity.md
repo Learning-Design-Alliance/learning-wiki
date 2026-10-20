@@ -48,3 +48,4 @@ The CST handbook chapter on 'Building Rural District Capacity for Turnaround', b
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - Smaller districts report an easier procurement process overall, while smaller providers feel procurement inefficiencies more acutely than larger firms — related
 - [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related

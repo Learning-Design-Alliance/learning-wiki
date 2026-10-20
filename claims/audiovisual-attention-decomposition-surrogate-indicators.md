@@ -65,3 +65,7 @@ The authors' own scope limit on the decomposition: the components "do not direct
 - [Avoiding double load on the visual channel improves visual knowledge (channel-overload effect)](voice-media-outperform-picture-text-overall.md) — related
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related
+- [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related
+- [Children with higher auditory-alone spoken word recognition scores show higher audiovisual gain, for easy-word measures but not the hardest tests](auditory-word-recognition-predicts-av-gain-ci-children.md) — related
+- [No significant group-level difference between auditory-alone and visual-alone sentence recognition, with substantial individual modality preferences](no-group-difference-auditory-visual-alone.md) — related
+- [Audiovisual presentation yields significantly higher sentence recognition than auditory-alone presentation for most children with cochlear implants](av-sentence-recognition-exceeds-auditory-alone-ci-children.md) — related

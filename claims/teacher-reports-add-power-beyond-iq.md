@@ -48,3 +48,4 @@ The longitudinal study reports that "teacher reports add predictive power beyond
 - [Teacher reports of noncognitive skills are the most predictive of children's later cognitive outcomes and school behavior](teacher-reports-most-predictive-later-outcomes.md) — related
 - [Teacher reports of children's noncognitive skills have the highest internal consistency among child, guardian, and teacher reports](teacher-reports-highest-internal-consistency-noncognitive.md) — related
 - [Reports of children's noncognitive skills from children, guardians, and teachers are correlated with each other](three-respondent-reports-correlated.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related

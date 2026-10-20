@@ -51,3 +51,5 @@ Observational comparison of CPS graduation cohorts' outcomes six years after hig
 - [Immediate four-year enrollees were far more likely than immediate two-year enrollees to complete a four-year degree within six years (48 percent vs 7 percent)](four-year-immediate-enrollment-completion-advantage.md) — related
 - OneGoal students are 40% more likely to earn postsecondary degrees than students from similar backgrounds, per a University of Chicago study — related
 - [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)
+- [CPS graduates took more than 6,000 distinct post-secondary paths, so continuous enrollment at one college was not the standard route to a credential](cps-graduates-6000-college-paths.md) — related
+- [Students who enroll in developmental education courses attain degrees at lower rates than comparable entrants who do not](dev-ed-enrollment-lower-degree-attainment.md) — related

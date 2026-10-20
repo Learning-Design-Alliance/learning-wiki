@@ -51,3 +51,6 @@ Reliability validation of the LLM coding pipeline: an expert independently coded
 - [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
 - [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](agentic-assessment-rater-agreement-and-helpfulness.md) — related
 - [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md)
+- [The qualitative coding achieved 82% exact interrater agreement, indicating acceptable reliability](82-percent-interrater-agreement-coding.md) — related
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking](llm-human-agreement-ct-practices.md) — related

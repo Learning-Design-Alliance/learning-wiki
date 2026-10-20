@@ -46,3 +46,4 @@ Mixed-methods study of two gameful assessment prototypes with 391 Grades 3–7 s
 - [Traditional assessments are commonly perceived to suffer from student motivation deficits that gameful assessments propose to address](traditional-assessments-motivation-deficits.md) — related
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — a broader claim this one bears on
+- [In one mixed-methods study of university students, reported in a review, gamified vocabulary learning gave better test results, motivation and satisfaction than traditional instruction](gamification-raises-motivation-satisfaction.md) — related

@@ -46,3 +46,4 @@ Psychometric analysis of FFT scores across both pilot phases (2011-2012 and 2012
 - [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](fft-pilot-ratings-concentrated-top-two-categories.md) — related
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) — related
+- [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related

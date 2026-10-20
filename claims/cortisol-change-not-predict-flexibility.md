@@ -49,3 +49,5 @@ Secondary null analysis in the randomized experiment relating cortisol change to
 - [Acute stress impaired cognitive flexibility in men (more perseverative errors than male controls)](acute-stress-impairs-flexibility-men.md) — related
 - [Acute stress did not significantly affect women's cognitive flexibility](acute-stress-no-effect-women-flexibility.md) — related
 - [Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)](acute-stress-sex-specific-cognitive-flexibility.md) — related
+- [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](menstrual-phase-no-moderation-flexibility.md) — related
+- [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related

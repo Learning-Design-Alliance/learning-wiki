@@ -47,3 +47,4 @@ Authors' interpretation (type e) in the Discussion: for drawing, every screen sw
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — the general claim this finding bears on, with the studies behind it
 - [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on
+- [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related

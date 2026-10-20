@@ -53,3 +53,6 @@ Post hoc Mann-Whitney comparisons with Bonferroni correction (.05/7 = .007) on e
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
 - [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](s-shaped-reading-time-decrease-repeated-exposure.md) — a broader claim this one bears on
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related
+- [Longer online reading times on unknown words are associated with higher vocabulary recall test scores](longer-reading-times-linked-higher-recall.md) — related
+- [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — related
+- [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related

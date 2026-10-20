@@ -45,3 +45,4 @@ Case analysis of one CourseGraph mapping (Table II) shows cosine similarity of 0
 ## Related Claims
 - [In a worked example from real Erasmus+ decisions, some of CourseGraph's nearest-neighbor course mappings matched the program director's and others did not, one plausibly because it ignores differences in learning methods](coursegraph-mappings-align-with-program-director.md) — related
 - [NCA scores of IIU input vectors order action types identically to the main-effects ordering (Spearman's ρ = 1)](nca-scores-align-with-main-effects.md) — related
+- [On the TU/e CS overlap dataset, supervised NLP classifiers (Random Forest, XGBoost) outperform thresholding and zero-shot LLM baselines at detecting course overlap](rf-xgboost-beat-thresholds-and-llms-on-course-overlap.md) — related

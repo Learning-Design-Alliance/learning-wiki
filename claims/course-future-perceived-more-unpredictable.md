@@ -45,3 +45,6 @@ Self-reported change quoted from student Nora in the phenomenographic interview 
 ## Related Claims
 - [After the futures-and-quantum-computing course, upper-secondary students reported a more optimistic or hopeful outlook on the future](course-fostered-optimistic-futures-outlook.md) — related
 - [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](course-pluralised-futures-questioned-determinism.md) — related
+- [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
+- [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md) — related
+- [Students adopted nondeterministic (SCOT-like) views in which humans influence technological change, supporting agency](students-scot-views-human-steering-technology.md) — related

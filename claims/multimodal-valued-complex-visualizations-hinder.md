@@ -49,3 +49,4 @@ Across the ET and MR conditions of the user study, participants reported that ov
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [In a 24-participant three-modality user study, learners' workflows and engagement with fundamental mechanics problems varied across instructional modalities](workflows-vary-across-mr-et-tc-modalities.md) — a broader claim this one bears on
+- [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](learnmate2-final-study-improved-outcomes-experience.md) — related

@@ -44,3 +44,5 @@ State-level CRDC analysis of secondary school suspension rates (Figure 4). The r
 
 ## Related Claims
 - [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](suspension-declines-48-states-substitution.md) — related
+- [Secondary school students are suspended at more than three times the rate of elementary school students, and recent declines were concentrated in secondary schools](secondary-suspension-three-times-elementary.md) — related
+- [National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels](suspension-rates-rose-then-declined-1973-2018.md) — related

@@ -48,3 +48,4 @@ The review's synthesis of multiple studies (Grimaldi & Karpicke; Huelser & Metca
 - [Learners fail to recognize the benefits of pre-instruction testing, ranking it as least effective despite benefiting from it](metacognitive-illusion-pretesting-underrated.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — a broader claim this one bears on
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related
+- [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related

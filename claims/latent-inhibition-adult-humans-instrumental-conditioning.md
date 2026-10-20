@@ -46,3 +46,4 @@ Controlled experiment with 40 Tel-Aviv University undergraduates randomly divide
 - [Latent inhibition in adults occurs even when the CS is preexposed under severe conditions of inattention](latent-inhibition-under-inattention-preexposure.md) — related
 - [Latent inhibition occurs irrespective of whether preexposure was to the monitored or the nonmonitored ear](latent-inhibition-irrespective-monitored-ear.md) — related
 - [The inattention manipulation was behaviorally verified: only one of 10 nonmonitored-ear subjects reported hearing the CS during preexposure versus eight of 10 monitored-ear subjects](inattention-manipulation-verified-by-report.md) — related
+- [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — a broader claim this one bears on

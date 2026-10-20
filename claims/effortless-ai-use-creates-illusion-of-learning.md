@@ -68,3 +68,6 @@ The article reports, citing the Shen and Tamkin (2026) preprint (a randomized co
 - [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related
 - [A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)](engineered-ai-tutor-doubled-learning-vs-active-learning.md) — related
 - [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — possibly the same claim (merge candidate)
+- [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](anonymous-online-peer-review-differential-responses.md) — related
+- [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — a narrower finding that bears on this claim
+- [An early-semester presentation on fluency and feeling of learning improved students' attitudes toward active learning](early-fluency-intervention-improved-attitudes.md) — related

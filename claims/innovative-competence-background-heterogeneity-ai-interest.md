@@ -69,3 +69,5 @@ Null difference test from the same 3003-participant survey: no statistically sig
 - [AI technological support is positively associated with innovative competence at all quantiles, with stronger associations at medium-to-high competence levels](ai-technological-support-rising-quantile-pattern.md) — related
 - [Pre-service teachers' innovative competence is at a medium-to-high level, with innovation practice the lowest subdimension](preservice-innovative-competence-medium-high-practice-lowest.md) — related
 - [School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels](intelligent-environment-support-inverted-u-quantile.md) — related
+- [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
+- [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related

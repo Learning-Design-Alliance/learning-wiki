@@ -47,3 +47,5 @@ Expert-scored pedagogical evaluation of 280 personalized lectures (40 per model,
 - CDP improves item-difficulty recovery in both rank order and absolute alignment, with the largest gains for reasoning-enabled Gemini configurations — related
 - [LecturaAgents scores higher than Instructional Agents, GenMentor, and Learn Your Way on lecture content, personalization, and assessment quality](lecturaagents-outperforms-baselines-lcq-pq-aq.md) — related
 - [GPT-series models and LangChain dominate educational agentic implementations, while frontier paradigms such as OpenClaw remain largely absent](frontier-agent-paradigms-absent-education.md) — related
+- [Expert evaluation finds larger, more capable LLM backbones produce higher-quality multi-domain graphs, with GPT-5 pro rated best](llm-backbone-graph-quality-expert-evaluation.md) — related
+- [A single difficulty-weighted SFT run on a vision-language base model reaches 61.64% overall accuracy on TutorBench, surpassing Gemini-3 Pro (58.52%)](difficulty-weighted-sft-transfers-tutorbench.md) — related

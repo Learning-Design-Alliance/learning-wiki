@@ -48,3 +48,8 @@ This is the report's own synthesis section ('What the Science Says' framing in t
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - Nature and nurture interact dynamically: children's experiences shape their biology as much as biology shapes development — possibly the same claim (merge candidate)
 - Principals' strongest impact on student learning comes through building a positive, measurable, and malleable school climate — related
+- [Experiences and environments in a baby's first three years significantly shape brain structure and functioning](first-three-years-shape-brain-structure-functioning.md) — related
+- [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — a narrower finding that bears on this claim
+- [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
+- [Anxiety and toxic stress from stereotypes, bullying, and exclusionary practices impede learning by preoccupying the brain with worry and fear](toxic-stress-impedes-learning.md) — related

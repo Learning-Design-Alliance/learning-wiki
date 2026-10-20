@@ -46,3 +46,4 @@ Analytical result reported in the Preface, attributed to Polyak and Juditsky. Th
 - [For tracking time-varying systems, the step size is kept strictly away from zero](constant-step-size-tracking-nonstationary-systems.md) — related
 - [Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type](learning-algorithms-stochastic-approximation-recursive-forms.md) — related
 - [Diminishing step sizes in stochastic approximation induce implicit averaging that eliminates noise effects in the long run](robbins-monro-diminishing-step-sizes-implicit-averaging.md) — a broader claim this one bears on
+- [Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges](hyperparameter-sweeps-reproduce-lesson-claims.md) — related

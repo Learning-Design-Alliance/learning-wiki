@@ -45,3 +45,10 @@ The 2024 Educational Attainment report's headline finding, stated in the release
 ## Related Claims
 - Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment — related
 - [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related
+- [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md) — related
+- [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related
+- [CPS immediate college enrollment rate outperforms the most recent national rate by 5 percentage points (66% vs. 61%)](cps-college-enrollment-beats-national-5-points.md) — reports the opposite
+- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md) — related
+- [CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs. 40.8% in 2020)](cps-2020-four-year-enrollment-steady.md) — related
+- [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related

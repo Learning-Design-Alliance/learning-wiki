@@ -46,3 +46,4 @@ WWC synthesis of cumulative grade point average outcomes from two QED studies to
 - [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on cumulative college GPA](linkow-2017-significant-gpa-effect.md) — related
 - [In the Linkow et al. (2019) scale-up QED, coaching showed no statistically significant effect on cumulative college GPA (effect size 0.01, p = 0.82)](linkow-2019-null-gpa-effect.md) — related
 - [Success Boston Coaching has potentially positive effects on progressing in college, based on two quasi-experimental studies meeting WWC standards with reservations](success-boston-coaching-potentially-positive-progressing-in-college.md) — related
+- [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on second-year college enrollment](linkow-2017-significant-persistence-effect.md) — related

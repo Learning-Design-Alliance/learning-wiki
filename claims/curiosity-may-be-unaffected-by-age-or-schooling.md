@@ -45,3 +45,4 @@ The authors' preliminary cross-sectional data on curiosity in pre-school through
 ## Related Claims
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
 - No universally accepted operational definition of children's curiosity exists, and operational measures vary widely across studies — related
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related

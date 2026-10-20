@@ -46,3 +46,6 @@ Supplementary ANN (5–3–1 network, repeated 10-fold cross-validation with 10 
 ## Related Claims
 - Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
 - [Perceived usefulness negatively moderates the relationship between academic self-efficacy and academic stress](perceived-usefulness-moderates-efficacy-stress.md) — related
+- [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related
+- [Technological self-efficacy significantly but modestly predicts faculty AI well-being](technological-self-efficacy-modest-predictor-ai-well-being.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

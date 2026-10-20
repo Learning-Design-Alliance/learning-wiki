@@ -47,3 +47,5 @@ In the pre-registered Study 1 between-subjects experiment (175 university studen
 - [Initial failure did not hurt subsequent learning during instruction: no condition differences on example generation or immediate learning tests](no-condition-differences-example-generation-immediate-tests.md) — related
 - [In Study 1, ChatTutor students answered significantly more new follow-up conceptual knowledge items correctly than teaching-as-usual students, controlling for the testing effect](chattutor-new-items-testing-effect-study1.md) — related
 - [In Study 1, differences in self-efficacy between the three conditions did not reach significance](chattutor-self-efficacy-null-study1.md) — related
+- [In Study 1, ChatTutor produced significantly higher trust, enjoyment, and behavioral intentions than ChatGPT, while students were blind to condition](chattutor-trust-enjoyment-intentions-study1.md) — related
+- [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related

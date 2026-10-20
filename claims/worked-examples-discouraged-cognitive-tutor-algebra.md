@@ -45,3 +45,4 @@ An authors' historical note about the Cognitive Tutor Algebra deployment: instru
 ## Related Claims
 - [No studies of Cognitive Tutor® Algebra II or Integrated Math I–III meet WWC standards, so the report makes no effectiveness findings for those courses](cognitive-tutor-no-evidence-algebra-ii-integrated.md) — related
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
+- [In a Web-based teacher education course, screen-capture videos and Flash animations modeling the instructor's internal problem-solving processes were the elements students most strongly associated with cognitive apprenticeship modeling](oms-videos-animations-most-impactful-modeling.md) — related

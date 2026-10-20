@@ -62,4 +62,9 @@ Cross-lagged panel model including inhibition and monitoring at T1 and T2 in the
 
 
 ## Related Claims
--
+- [Inhibition–monitoring links were cross-sectionally significant in kindergarten but not in 2nd grade](cross-sectional-inhibition-monitoring-link-fades-by-grade-2.md) — related
+- [Working memory and shifting in kindergarten were not significant predictors of later metacognitive monitoring](working-memory-shifting-not-predict-monitoring.md) — related
+- [Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency](inhibition-improves-kindergarten-to-grade-2.md) — related
+- [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](monitoring-does-not-predict-later-inhibition.md) — related
+- [Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points](monitoring-overconfidence-declines-but-persists-into-grade-2.md) — related
+- [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related

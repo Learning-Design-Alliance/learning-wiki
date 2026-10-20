@@ -47,3 +47,6 @@ The article reports, citing prior work, that raw agreement often exceeded 90% wh
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](clickstream-tagging-transforms-logs-into-contextualized-events.md) — related
 - [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
 - [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md)
+- [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
+- [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](regex-rules-improve-fewshot-llm-labeling-accuracy.md) — related
+- [On CK items, GradeOpt showed near-perfect alignment with human codes (κ = .88 and .85; QWK = .89 and .94), comparable to human–human agreement](gradeopt-near-perfect-ck-agreement.md) — related

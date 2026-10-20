@@ -67,3 +67,4 @@ Multilevel multinomial regression with teacher ECBQ ratings (50 teachers, 81%) s
 - [Self-distraction and avoidance behaviours occur in nearly all successful toddlers but in a minority of unsuccessful ones](delay-behaviours-occur-in-successful-but-not-unsuccessful-toddlers.md)
 - [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](rapid-initiation-delay-behaviours-successful-toddlers.md)
 - [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)
+- [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md) — related

@@ -48,3 +48,5 @@ Trend analysis of NCES Schools and Staffing Survey data shows attrition rose fro
 - [Between 2020–21 and 2021–22, 15.1% of U.S. public school teachers moved schools or left the profession, and turnover is now about 20% higher than in 1992](us-teacher-turnover-15-percent-2021-22.md) — related
 - Michigan's inflation-adjusted teacher salaries fell more than 20% between 1999 and 2019, the second largest decline in the country — related
 - [Texas teacher attrition has exceeded the national average by about 25% over the past decade, reaching nearly 12% in 2021–22](texas-attrition-above-national-average.md) — related
+- [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
+- [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related

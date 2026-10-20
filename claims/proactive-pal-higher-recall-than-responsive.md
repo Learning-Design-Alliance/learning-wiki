@@ -62,4 +62,6 @@ The same reported study's secondary analysis of learner academic strength is des
 
 
 ## Related Claims
--
+- [A proactive PAL improves learners' recall of the agent's ideas more than a responsive PAL (d = 0.78)](proactive-pal-improves-recall.md) — possibly the same claim (merge candidate)
+- [A responsive PAL does not improve learner attitudes toward the agent, and competency and interaction type show no significant interaction](responsive-pal-no-attitude-benefit-no-interaction.md) — related
+- [In the responsive condition, learners requested less than half of the information the PAL was designed to deliver](responsive-pal-requests-underused.md) — related

@@ -47,3 +47,5 @@ Comparative evaluation in the Results section reports the proposed DMO-GRU model
 - [DMO-GRU trains faster than the deep learning baselines, with a 98 s training time versus 150 s for CNN-GRU and 138 s for LSTM](dmo-gru-faster-training-time.md) — related
 - [TRACE outperforms LSTM, GNN and XGBoost baselines on grade prediction](trace-outperforms-lstm-gnn-xgboost.md) — related
 - [Machine learning methods outperformed logistic regression in classification accuracy across reviewed studies](ml-outperforms-logistic-regression-aied.md) — a broader claim this one bears on
+- [Deep learning models (LSTM, GRU, transformer) achieve high and comparable accuracy (0.90–0.93) on physiological exam-outcome prediction](deep-learning-models-comparable-accuracy-physiological-exam-prediction.md) — related
+- [GRU is the lowest-performing model across both single-task and multi-task competency modeling, likely due to its two gating units versus LSTMs' three](gru-lowest-performing-competency-model.md) — reports the opposite

@@ -72,3 +72,6 @@ edge outcome in this study."
 - [Level of implementation moderates Dialogic Reading's effects on children's oral language](implementation-level-moderates-dialogic-reading-effects.md) — related
 - [The potentially negative oral language effect of phonological awareness plus letter knowledge training is likely an artifact of the comparison condition, not the intervention](pat-lk-oral-language-negative-artifact-of-comparison.md) — related
 - [Dialogic Reading's average oral-language improvement index is +19 percentile points, ranging from –6 to +48 across findings](dialogic-reading-oral-language-improvement-index.md) — related
+- [Dialogic reading favored significant gains on lexical diversity during play and total utterances during book reading, but not on four other measures (Dale et al., 1996)](dale-1996-significant-lexical-diversity-play-total-utterances-book-reading.md) — related
+- [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
+- [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related

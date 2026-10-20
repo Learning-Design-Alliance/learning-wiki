@@ -46,3 +46,4 @@ Two longitudinal studies following students across elementary school in the US a
 - [Associations between classroom-level interactions and elementary students' regulation of motivation are mixed across studies](classroom-level-motivation-mixed-findings.md) — related
 - [Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school](dyadic-conflict-lower-metacognition.md) — related
 - [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](closeness-benefits-concurrent-not-prospective.md) — related
+- [Elementary students' perceptions of interactions with their teacher become more positive over time in classrooms characterized by positive teacher-student interactions](positive-teacher-student-interactions-improve-student-perceptions-over-time.md) — related

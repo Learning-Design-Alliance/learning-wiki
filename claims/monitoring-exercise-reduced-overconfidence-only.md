@@ -61,4 +61,8 @@ Multilevel exam-score analysis found no main effect of the Monitoring Exercise; 
 
 
 ## Related Claims
--
+- [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone showed no significant effect](mrs-strategy-increased-exam-scores.md) — related
+- [The level of reflection support (practice-only, grade comparison, or reflection prompts) did not differentially affect the improvement of secondary students' calibration accuracy over time](reflection-support-no-differential-calibration-gain.md) — related
+- [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
+- [Grandiose narcissism predicted overconfidence in exam score predictions at both time points, while vulnerable narcissism predicted less overconfidence only at course start and optimism was unrelated](narcissism-predicts-overconfidence.md) — related
+- [Monitoring accuracy in exam score predictions and in key-term definition judgments during the Monitoring Exercise were uncorrelated, suggesting different cues underlie the two measures](prediction-accuracy-measures-uncorrelated.md) — related

@@ -45,3 +45,6 @@ Univariate follow-up to the MANOVA on the 10-item Environmental Protection Scale
 ## Related Claims
 
 - [Knowledge-test scores differed strongly between German school types, with academic-track students scoring highest](knowledge-test-school-type-differences.md)
+- [Neither the VR application nor the traditional lesson produced a significant positive change in pro-environmental attitudes](no-attitude-change-either-condition.md) — related
+- [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](school-type-significant-condition-not.md) — related
+- [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md) — related

@@ -67,3 +67,7 @@ The associated working paper listed on the page, "English Language Learners, sel
 
 - [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](ell-non-ell-gaps-math-reading-self-efficacy.md) — related
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — a narrower finding that bears on this claim
+- [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — possibly the same claim (merge candidate)
+- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth](ell-lower-start-faster-reading-growth-only.md) — related
+- [Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow](self-efficacy-declines-middle-school-achievement-grows.md) — related
+- [Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores](self-efficacy-survey-partial-longitudinal-invariance.md) — related

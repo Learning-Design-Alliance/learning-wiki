@@ -68,3 +68,5 @@ Narrative synthesis of 11 cross-sectional studies (10,838 participants); GRADE q
 - [Shorter sleep duration is associated with more screen time in children aged 0–4 years (5 of 5 studies)](shorter-sleep-more-screen-time-early-years.md)
 - [Sleep duration shows no association with gross and fine motor skills in children aged 0–4 years](sleep-motor-development-null-early-years.md)
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md)
+- [Sleep restriction impairs emotional self-regulation in toddlers, with randomized-trial evidence of moderate-to-large effects](sleep-restriction-emotional-regulation-toddlers.md) — related
+- [Evidence linking massage to early childhood sleep is mixed: null in a meta-analysis of infants ages 0-6 mo but positive in small studies of older infants, toddlers, and preschoolers](massage-sleep-evidence-mixed-by-age.md) — related

@@ -45,3 +45,8 @@ The ANCOVA on transfer scores found no significant difference between control an
 ## Related Claims
 
 - [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md)
+- [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](separation-prompt-fails-disruption-disfavored.md) — related
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — reports the opposite
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — reports the opposite
+- [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](individual-interest-predicts-achievement.md) — reports the opposite
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md) — related

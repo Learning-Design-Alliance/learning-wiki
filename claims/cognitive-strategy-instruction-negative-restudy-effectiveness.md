@@ -44,4 +44,7 @@ Multilevel regression of strategy instruction on restudy effectiveness (Table 4b
 
 
 ## Related Claims
--
+- [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](teacher-directed-instruction-negative-metacognition.md) — related
+- [Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation](cognitive-strategy-instruction-better-self-monitoring.md) — reports the opposite
+- [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](effective-restudy-distinguishes-metacognition-profiles.md) — related
+- [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md) — related

@@ -42,3 +42,4 @@ In the Anderson et al. (2017) QED (Accelerating Opportunity, propensity score ma
 
 ## Related Claims
 - [Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial](broda-2018-indeterminate-effects-large-trial.md) — possibly the same claim (merge candidate)
+- [First year experience courses show potentially positive effects on credit accumulation, with two of three qualifying studies showing statistically significant positive retention effects and one showing no significant effect](fye-courses-potentially-positive-credit-accumulation.md) — related

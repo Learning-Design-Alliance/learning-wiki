@@ -44,3 +44,4 @@ Anecdotal observational analysis of the authors' own longitudinal testing on a B
 
 ## Related Claims
 - [The Shape Stroop, Bear/Dragon, and Tower tasks showed a pronounced drop in average performance from about 25 to 30 months of age, possibly reflecting systematic missingness rather than declining ability](inhibitory-tasks-performance-drop-25-30-months.md) — related
+- [Performance on inhibitory control measures improves with age, with some tasks reaching performance plateaus beginning around 4 years of age](inhibitory-control-performance-improves-plateaus-age-4.md) — related

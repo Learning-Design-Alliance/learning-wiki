@@ -48,3 +48,9 @@ Qualitative case-study interview data reported in the Teaching is My Favorite Co
 ## Related Claims
 - [One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose](admiral-squad-confidence-beloning-impact.md) — related
 - A teacher mentioning her own less-celebrated identities opens the door for students to include their perspectives and identities — related
+- [A teacher whose home culture was excluded from school brought her home culture into her teaching so students could express and maintain their identities](teacher-brings-home-culture-into-teaching.md) — related
+- [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — a broader claim this one bears on
+- [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
+- [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
+- [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — related
+- [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — related

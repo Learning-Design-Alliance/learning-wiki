@@ -50,3 +50,4 @@ MANCOVA on Task 1 log files comparing Exploration-first (n = 35) and Instruction
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
 - [Exploration-first students show more advanced MVC reasoning on the transfer task than Instruction-first students](exploration-first-transfer-mvc-reasoning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [PS-I with a virus transmission simulation showed better transfer of multivariable causality to a new context, despite similar end-of-intervention performance to I-PS](ps-i-simulation-better-mvc-transfer.md) — related

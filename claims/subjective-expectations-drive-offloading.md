@@ -54,3 +54,6 @@ Experimental study (Dunn & Risko, 2016) manipulating word rotation and layout fr
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — a narrower finding that bears on this claim
 - [Students' self-reports of task effortfulness do not validly indicate a task's object-level cognitive requirements](effort-self-reports-not-valid-cognitive-requirements.md) — related
 - [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
+- [Social comparison information affects the magnitude of metacognitive judgments, with greater magnitude for higher peer performance](social-comparisons-affect-metacognitive-judgments.md) — related
+- [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
+- [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related

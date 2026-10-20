@@ -56,3 +56,4 @@ WWC improvement-index computation across the nine alphabetics findings in Hecht 
 - Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts — reports the opposite
 - [Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement](blended-learning-effects-vary-by-intervention-and-domain.md) — related
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
+- [In the qualifying quasi-experimental study, at-risk Kindergarten students using Waterford Level One for 15-minute daily sessions were matched to comparison students and pretested in fall and posttested in spring](werp-hecht-close-study-design.md) — related

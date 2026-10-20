@@ -46,3 +46,4 @@ Final exam analysis in the same crossover RCT, 320 students analyzed, with blind
 - [The peer assessment effect size is comparable in magnitude to a substantial fraction of measured achievement gaps in the course](peer-assessment-effect-size-versus-achievement-gaps.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
+- [Participating in peer assessment produced a statistically significant but negligible improvement (d = .115) in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related

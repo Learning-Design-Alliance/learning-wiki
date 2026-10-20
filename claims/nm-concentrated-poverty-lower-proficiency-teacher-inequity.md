@@ -66,3 +66,6 @@ LPI analysis of New Mexico Public Education Department data (2018–19), shown i
 - [New Mexico's K–3 Plus evaluation found faithful implementation raised proficiency, with the largest gains for low-income students](k3-plus-fidelity-proficiency-gains.md) — related
 - [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related
 - [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
+- [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — related
+- [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related

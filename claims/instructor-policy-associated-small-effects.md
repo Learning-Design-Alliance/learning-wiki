@@ -46,3 +46,5 @@ Kruskal–Wallis tests across the three substantive policy categories (encourage
 - [Multi-tool GenAI users report higher support, reliance, and benefit than single-tool users, but lower confidence working without GenAI](multi-tool-users-benefits-lower-independent-confidence.md) — related
 - [Premium-access GenAI users report greater perceived benefits than free-only users, largest for tasks beyond current expertise](premium-access-greater-perceived-benefits.md) — related
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [Early reliance is associated with both academic benefit and negative impact, while cognitive reliance is associated with positive impact](reliance-type-differential-outcomes-regression.md) — related
+- [Perceived learning benefits are higher when GenAI augments students' capabilities and lower when it hurts critical thinking or causes stress](genai-augmentation-associated-perceived-learning.md) — related

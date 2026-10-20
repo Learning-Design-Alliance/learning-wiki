@@ -46,3 +46,5 @@ Thematic analysis of four open-response survey items following Braun and Clarke 
 ## Related Claims
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
+- [In a small case study, students given ChatGPT feedback valued its immediacy and alternative analytical perspectives, but one distrusted its answers as 'often made up' for complex data analysis](chatgpt-feedback-hallucination-undermines-trust.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

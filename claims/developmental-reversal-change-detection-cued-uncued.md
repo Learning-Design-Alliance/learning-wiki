@@ -65,3 +65,8 @@ The same mixed ANOVA on A-prime change detection accuracies (2 Age x 2 Shape Typ
 - [Net change detection accuracy does not differ significantly between children and adults](net-accuracy-no-difference-change-detection.md) — related
 - [In a visual search task, children recognize search-irrelevant features better than adults while relevant-feature recognition is comparable](developmental-reversal-visual-search-irrelevant-features.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
+- [Adults show greater visual search accuracy than young children](adults-greater-visual-search-accuracy.md) — related
+- [Age correlates with detection performance: hits and d′ increase and false alarms decrease with age](age-correlates-detection-performance.md) — related
+- [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
+- [Children use qualitatively different strategies from adults for flexible cognition, shifting control strategies around 8 to 9 years of age](children-qualitatively-different-flexibility-strategies.md) — related
+- [Changes were detected more easily on screens presenting fewer objects (66.66%)](fewer-objects-easier-change-detection.md) — related

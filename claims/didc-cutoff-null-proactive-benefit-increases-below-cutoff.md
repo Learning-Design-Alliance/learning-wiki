@@ -66,3 +66,7 @@ DiDC heterogeneity estimate (Equation 4) on the IK-bandwidth subsample. The inte
 - [Introducing human-AI tutoring improves relative MAP academic growth by 61% over an AI-only baseline within the IK bandwidth](human-ai-tutoring-improves-map-growth-over-ai-only.md) — related
 - [Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups](human-ai-tutoring-increases-time-on-task.md) — related
 - [Human-AI tutoring is associated with a 36% rise in IXL skill proficiency, but the gap widened in favor of reactively tutored students (difference-in-differences preprint)](human-ai-tutoring-skill-proficiency-gap-widens.md) — reports the opposite
+- [Proactive tutoring increases learners' use of metacognitive help tools compared with reactive tutoring](proactive-tutoring-increases-metacognitive-help-use.md) — related
+- [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](proactive-tutoring-increases-lexical-help-use.md) — related
+- [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — a broader claim this one bears on
+- [Grade cutoffs are arbitrary because adjacent scores receiving different grades are not significantly different, per the author's statistical argument](grade-cutoffs-arbitrary-adjacent-scores.md) — related

@@ -53,3 +53,4 @@ Survey-based analysis using perceived safety measures constructed from My Voice,
 - [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — related
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related
 - [Experts report reduced suspensions and expulsions and improved school climate as RJ implementation successes](rj-successes-reduced-suspensions-improved-climate.md) — related
+- [Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor](minority-success-damns-reform-program.md) — related

@@ -62,4 +62,5 @@ Anchoring analysis of study–test items by Cycle-1 recall status found the "Rec
 
 
 ## Related Claims
--
+- [Resolution of JOLs increases across study–test cycles, improving between Cycles 1 and 2 but not from Cycle 2 to Cycle 3](jol-resolution-increases-across-cycles.md) — related
+- [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](enactment-impairs-jol-resolution.md) — related

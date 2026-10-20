@@ -49,3 +49,4 @@ Coding of the 176 Freeman et al. (2014) articles for dosage found equal dosage i
 - [No active learning intervention study in the Freeman et al. (2014) set or the 2015–2022 sample met all 12 internal validity controls](no-active-learning-studies-meet-all-internal-validity-controls.md) — related
 - [Implementation fidelity was assessed in fewer than 8% of active learning intervention studies](implementation-fidelity-rarely-assessed-active-learning.md) — related
 - [Most active learning studies did not report group equivalence measures directly related to the dependent variable](group-equivalence-directly-related-rarely-reported.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on

@@ -89,3 +89,5 @@ Analysis of second-grade reading outcomes by cumulative years of chronic absente
 - [Kindergarten test scores from more than 400,000 U.S. students contain patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories-400000-students.md) — related
 - [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related
 - Chronically absent students show worse reading, test, suspension, dropout, and postsecondary outcomes — related
+- [Kindergarten test scores show patterns that can predict academic success or identify students at risk of falling further behind by third grade](kindergarten-scores-predict-third-grade-trajectories.md) — related
+- [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related

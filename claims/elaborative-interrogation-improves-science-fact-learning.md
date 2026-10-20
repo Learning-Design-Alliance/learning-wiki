@@ -70,3 +70,4 @@ Experiment 2: 80 grade 6 and 7 students in four conditions (strategy x activatio
 - [Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study](durable-elaborative-interrogation-gains-six-months.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
+- [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) — related

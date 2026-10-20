@@ -57,3 +57,11 @@ Questionnaire with five-point Likert scales and open-text feedback in both user-
 - [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](both-feedback-modalities-prompt-hard-evaluative-judgement.md) — related
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on
 - [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md) — related
+- [Students rarely mentioned the adaptive prompts and those who did perceived them as generic and ignored them](adaptive-prompts-perceived-generic-ignored.md) — related
+- [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
+- [Students perceived eight GenAI roles but lacked engagement and a sense of achievement](eight-perceived-genai-roles-low-achievement.md) — related
+- [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
+- [Teacher-provided correct answers and pre-prompting reduce erroneous LLM output and hallucinations compared with open chatbot use](leap-pre-prompting-reduces-hallucinations.md) — related
+- [Assessing AI feedback within PAIRR helped students develop AI literacy and writerly agency, with very few showing overconfidence in AI](assessing-ai-feedback-builds-ai-literacy-and-agency.md) — related
+- [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — related
+- [A student-facing chatbot was pulled after it reinforced a student's self-deprecating views about math, illustrating substantial risk of direct AI engagement with students](student-facing-chatbot-toxicity-risk.md) — related

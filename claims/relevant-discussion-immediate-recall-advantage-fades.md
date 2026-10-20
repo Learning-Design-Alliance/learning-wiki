@@ -62,4 +62,9 @@ Planned contrast on delayed recall in the same experiment: the combined relevant
 
 
 ## Related Claims
--
+- [The immediate advantage of deep-processing prompts does not persist at a 5-month follow-up, with a Bayesian test confirming the null](deep-prompt-advantage-fades-at-follow-up.md) — related
+- [On a delayed assessment 1 to 3 months later, many students transferred their appreciation of variation to another context and could explain the meaning of variation](delayed-assessment-variation-transfer.md) — related
+- [Immediately after the discussion, participants who explained did not recall more than participants who only listened](no-immediate-advantage-of-explaining-over-listening.md) — related
+- [Providing explanations during a small-group discussion yields better recall of subsequently studied text one month later than only listening to the discussion](explaining-during-discussion-improves-delayed-recall.md) — related
+- [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
+- [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related

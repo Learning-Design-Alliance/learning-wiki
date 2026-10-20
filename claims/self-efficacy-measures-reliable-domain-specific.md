@@ -70,3 +70,6 @@ Validity discussion of construct validity: self-efficacy for long division corre
 - Teaching style scales show moderate inter-scale correlations (.50-.70) and observer agreement on ratings between .50 and .60 — related
 - [Mathematics teachers differ from other teachers in data use, attitudes, and self-efficacy for DBDM](math-teachers-data-use-attitudes-self-efficacy.md) — related
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — a narrower finding that bears on this claim
+- [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](full-survey-internal-consistency-alpha-094.md) — a narrower finding that bears on this claim
+- [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — a narrower finding that bears on this claim
+- [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related

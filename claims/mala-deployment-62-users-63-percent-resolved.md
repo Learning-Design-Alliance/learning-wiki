@@ -44,3 +44,6 @@ Observational deployment during the final three weeks of an undergraduate statis
 
 ## Related Claims
 - [Informational harm is the sole dimension that decreases in multi-turn interaction, dropping from 60.52% to 11.90%](informational-harm-drops-multi-turn.md) — related
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — a broader claim this one bears on
+- [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
+- [In deployment, 13% of sampled LLM agent responses were faulty and 37% very useful, with response quality improving over weeks of use](llm-agent-response-quality-evaluation.md) — related

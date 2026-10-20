@@ -57,3 +57,5 @@ The page's abstract reports a comparison study of disengagement on an adaptive i
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [In-person proctored nursing cohorts achieved significantly higher HESI scores and NCLEX readiness than remotely proctored (ProctorU) cohorts](in-person-proctored-higher-hesi-than-remote.md) — related
+- [Remote and in-person MAP Growth test scores showed consistent trends for students in grades 3-8 in fall 2020](map-growth-remote-in-person-consistent-score-trends-grades-3-8.md) — related
+- [Findings of reliability, engagement, and consistent score trends increase confidence in the quality of remotely administered MAP Growth data in grades 3 and up](remote-map-growth-data-quality-confidence-grades-3-up.md) — related

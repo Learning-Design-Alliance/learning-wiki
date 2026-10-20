@@ -45,3 +45,4 @@ Logistic regression analyses of self-reported AI use with the factor score as pr
 ## Related Claims
 - [In joint analysis, Practice codes correlate most strongly with AI pedagogical orientation, while Epistemic codes show a weaker positive association](practice-codes-correlate-strongest-with-orientation-factor.md) — related
 - [Faculty with negative versus positive AI pedagogical orientation differ in how they interpret AI's role in thinking: cautious peripheral use versus integrated use with managed concerns](orientation-extremes-differ-in-epistemic-interpretation-of-ai.md) — related
+- [Self-efficacy predicts cluster membership, with the article concluding self-efficacy may play a foundational role in the cluster difference](self-efficacy-predicts-cluster-membership.md) — related

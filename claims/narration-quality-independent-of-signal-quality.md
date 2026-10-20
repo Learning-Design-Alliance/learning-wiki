@@ -45,3 +45,4 @@ Simulation study narration faithfulness dimension across all four cells of the 2
 ## Related Claims
 - [Mentee fidelity on HSLS:09 test split: attribution transmits far better than decisions, and 98.8% of narrations pass the faithfulness audit](hsls-mentee-fidelity-attribution-better-than-decisions.md) — related
 - [Under a realistic estimator, remaining error originates upstream rather than from the distillation step](estimator-loss-dominates-llm-distillation-error.md) — related
+- [Distillation step is nearly lossless when the mentor signal is an oracle](distillation-step-nearly-lossless-oracle-signal.md) — related

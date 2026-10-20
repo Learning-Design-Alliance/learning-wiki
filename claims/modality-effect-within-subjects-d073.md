@@ -45,3 +45,6 @@ Meta-analysis of four within-subjects design effects from two published journal 
 ## Related Claims
 - [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — related
 - [Graphics with spoken text outperform graphics with printed text for learning (overall modality effect, d = 0.72)](modality-effect-narration-over-text.md) — related
+- [The review reports that the modality effect reverses with expertise: audio-visual presentations helped inexperienced learners, but after further training a diagram-only condition showed a substantial advantage](expertise-reversal-modality-effect-review.md) — related
+- [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
+- [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related

@@ -45,3 +45,5 @@ Group comparison in the survey of 109 academics found non-users reported signifi
 ## Related Claims
 - [Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)](anticipatory-ai-guilt-exceeds-experienced-guilt.md) — related
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
+- [AI-related guilt decreases with career stage, with early-career academics reporting the highest guilt](ai-guilt-decreases-with-career-stage.md) — related
+- [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related

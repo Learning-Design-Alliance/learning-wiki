@@ -68,3 +68,6 @@ The phi correlation matrix among the seven binary labels (Figure 3a) shows gener
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — the general claim this finding bears on, with the studies behind it
 - [78.8% of student-GenAI turns lack mastery-oriented aims and reliable epistemic strategies](low-epistemic-engagement-788-percent-non-mastery.md) — related
 - The three collaboration behavior sub-scales are strongly intercorrelated, and mastery correlates with ego-social orientation — related
+- [Adding regex-based rules to few-shot LLM labeling improves agreement with human annotation (0.818 to 0.852 overall)](regex-rules-improve-fewshot-llm-labeling-accuracy.md) — related
+- [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — related
+- [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related

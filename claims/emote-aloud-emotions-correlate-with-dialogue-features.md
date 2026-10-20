@@ -43,4 +43,9 @@ The review reports Graesser et al.'s (2008) emote-aloud analysis: "significant c
 
 
 ## Related Claims
--
+- [Prior research established correlations between observable student experiences such as frustration and clickstream data in ASSISTments, enabling experience-variable equity research without demographic data](bromp-frustration-clickstream-correlations.md) — related
+- [The emote-aloud procedure is limited by non-reporting and floor effects: 2 of 7 participants did not verbalise affective states and four states were removed from analysis](emote-aloud-floor-effects-limitation.md) — related
+- [Frustration during learning is associated with facial action units 1, 2, and 14, with a mutual trigger rule between the inner and outer brow raises](frustration-facial-action-units-1-2-14.md) — related
+- [Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow](confusion-facial-action-units-4-7-12.md) — related
+- [Boredom during learning shows a significant association with facial action unit 43 (eye closure), but no association rules between action units](boredom-facial-action-unit-43-eye-closure.md) — related
+- [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related

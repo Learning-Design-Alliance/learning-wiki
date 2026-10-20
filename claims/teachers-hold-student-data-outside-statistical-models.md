@@ -44,3 +44,5 @@ The abstract asserts, without data, that "teachers are a veritable treasure trov
 
 ## Related Claims
 - [Teachers have far more power to shape what happens to students than investors or scouts, partly through their opinions of each child](teachers-shape-student-outcomes-through-opinions.md) — related
+- [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](ccs-student-local-expertise-perception-growth.md) — related
+- [Machine perception and learning depend on large, unbiased training data](ai-big-ideas-data-and-knowledge-dependence.md) — related

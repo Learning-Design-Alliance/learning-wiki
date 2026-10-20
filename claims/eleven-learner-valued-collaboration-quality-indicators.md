@@ -43,4 +43,4 @@ Qualitative survey study of 290 university students after 12 weeks of CA tool-me
 
 
 ## Related Claims
--
+- [Students' generative AI use in upper secondary schoolwork clusters into four practices — explanation, creation, inspiration, and improvement — comprising eleven sub-processes](four-ai-practices-eleven-subprocesses-upper-secondary.md) — related

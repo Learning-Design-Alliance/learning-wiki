@@ -46,3 +46,4 @@ Self-reported plans from the same Spring 2020 survey of 71 K-8 teachers: "most t
 - [K-8 teachers responding to the sudden 2020 shift to distance learning engaged in three of the core practices of adaptive experts](covid-distance-teaching-three-adaptive-expert-practices.md) — related
 - [30% of surveyed K-8 teachers planned to adopt transformative teaching practices after pandemic distance teaching](thirty-percent-teachers-transformative-practices-plans.md) — related
 - [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related
+- [Adopting mastery goals rather than performance goals during initial learning promotes transfer](mastery-goals-promote-transfer.md) — related

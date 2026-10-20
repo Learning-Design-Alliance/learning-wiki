@@ -47,3 +47,6 @@ The overview identifies inclusive school leadership as a critical element of the
 - An innovation and improvement space in local school communities brought forward new leaders — related
 - Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear — related
 - [Building capacity is critical for educational reform](reform-progress-depends-on-teacher-and-school-capacity.md) — a broader claim this one bears on
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related

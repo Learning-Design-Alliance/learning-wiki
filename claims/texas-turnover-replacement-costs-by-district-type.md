@@ -46,3 +46,4 @@ Cost estimates cited in the Teacher Turnover section of the report. The report s
 
 - [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md)
+- [High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement](high-teacher-turnover-costly-disruptive-lowers-achievement.md) — a broader claim this one bears on

@@ -44,3 +44,6 @@ Conceptual claim advanced by the framework: each pillar corresponds to a documen
 
 ## Related Claims
 - [Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support](faculty-engagement-essential-for-ca-assessment-success.md) — related
+- [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
+- [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
+- [An internal program review found absence of a consistent pedagogical framework and need for active case-based materials](program-review-five-design-findings.md) — related

@@ -44,3 +44,4 @@ Word-manipulation experiments on Reddit Expressive Narrative Stories compared BE
 
 ## Related Claims
 - [BERT and MentalBERT remain resilient under sentence shuffling in ENS-based mental health classification](bert-mentalbert-resilient-sentence-shuffling.md) — related
+- [The fine-tuned BERT model's classification performance is consistent across stereotype-threatened and non-threatened students and other demographic subgroups](bert-consistent-performance-across-student-subgroups.md) — related

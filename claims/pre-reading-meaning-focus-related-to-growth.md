@@ -46,3 +46,4 @@ The Key Findings list names this pre-reading practice among those most consisten
 - [Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension](word-defining-during-after-reading-related-to-growth.md) — related
 - [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related
 - [Promoting higher-order thinking through questions requiring analysis, explanation, and idea development is among the practices most consistently related to student growth](higher-order-thinking-questions-related-to-growth.md) — related
+- [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — related

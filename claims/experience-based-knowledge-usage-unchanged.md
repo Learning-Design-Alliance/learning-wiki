@@ -45,3 +45,6 @@ Repeated-measures ANOVA on the experience-based analysis scale (Omega 0.94 pre, 
 ## Related Claims
 - [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](both-interventions-increase-theory-based-knowledge-usage.md) — related
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](no-group-difference-theory-usage-increase.md) — related
+- [Studying theoretical content with text-based cases yields a small advantage in productive scientific knowledge application over studying the same content with theoretical models](text-based-cases-small-advantage-knowledge-application.md) — related
+- [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](text-based-cases-higher-situational-interest.md) — related
+- [The authors argue that analysing interpretations of video situations gives a more reliable view of teachers’ conceptions than self-report Likert questionnaires](video-interpretation-more-reliable-than-self-report-conceptions.md) — related

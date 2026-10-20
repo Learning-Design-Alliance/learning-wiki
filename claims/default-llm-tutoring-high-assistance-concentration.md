@@ -47,3 +47,6 @@ Observational analysis of 14,637 paired turns from 203 students using a GPT-4o-m
 - [The relationship between scaffolding level and students' subsequent provide-context turns is not monotonic](provide-context-rate-nonmonotonic.md) — related
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Random assignment to AI access produces a strong first stage: about 70 percent of treated students use AI, most often to explain concepts](genai-first-stage-usage-patterns.md) — related
+- [First-year physics students overwhelmingly believe LLMs can solve introductory physics problems with high accuracy before instruction](physics-students-believe-llms-solve-intro-problems-accurately.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related

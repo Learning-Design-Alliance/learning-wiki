@@ -47,3 +47,4 @@ Qualitative focus groups and a follow-up survey conducted in Phase 1 with CCC st
 - Students, teachers, and principals are perceived to have limited involvement in ed-tech procurement decisions, and providers are far less satisfied with end-user involvement than district stakeholders — related
 - [Youth advisors report students are inadequately involved in school decision-making and want more transparent communication](youth-advisors-report-inadequate-involvement-in-decisions.md) — related
 - [No reviewed participatory design method satisfies all seven criteria for designing disruptive socio-technical systems](no-reviewed-method-meets-all-seven-criteria.md) — related
+- [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — related

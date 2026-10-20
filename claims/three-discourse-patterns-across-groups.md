@@ -63,3 +63,8 @@ Group-level coding analysis of group 3's discussion: "40%" of actions during the
 
 ## Related Claims
 - [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](qualitative-cases-interaction-quality-variation.md) — related
+- [Productive interactions in long-term small-group collaboration take different forms, with discourse-based and object-oriented patterns the most relevant](productive-interactions-discourse-and-object-oriented-forms.md) — related
+- [Student blogging supports transactive building and emergent common knowledge in a persistent community blogosphere](blogging-transactive-community-blogosphere.md) — related
+- [During group discussion, students either relied primarily on their own synthesis artifacts or frequently drew on peers' syntheses, with use patterns related to artifact nature and emergent group roles](two-patterns-of-synthesis-artifact-use.md) — related
+- [Across all three groups, discussion was dominated by epistemic actions—especially generative collaborative actions—with sharing knowledge more common in the synthesis phase and generative collaboration more prevalent in the application phase](generative-collaborative-actions-dominant-across-groups.md) — related
+- [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](group-interaction-type-profiles-differ.md) — related

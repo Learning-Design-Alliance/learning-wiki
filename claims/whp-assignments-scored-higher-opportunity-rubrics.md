@@ -51,3 +51,4 @@ Rubric pilot scoring of assignments including five World History Project lessons
 - [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
 - [World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends](whp-first-year-engagement-negative-trend.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — possibly the same claim (merge candidate)
+- [Students learning from World History Project demonstrate more understanding of continuity and change over time in history than comparison students](whp-students-continuity-change-outcomes.md) — related

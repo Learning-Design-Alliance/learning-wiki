@@ -47,3 +47,4 @@ Descriptive analysis of 469 Knowledge Forum notes coded with the four-level syst
 - [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](model-and-discourse-correlate-with-domain-knowledge.md) — related
 - [Student model sophistication increased significantly across successive iterations during the KBM unit](kbm-model-sophistication-iterated-gains.md) — related
 - [Grade 5 students in a KBM environment significantly increased their Earth Science domain knowledge from pretest to post-test](kbm-domain-knowledge-gains-earth-science.md) — related
+- [Identifying interconnections and feedback is the most universally reported systems thinking aspect, proposed by all 27 reviewed manuscripts](st3-feedback-universal-across-st-literature.md) — related

@@ -48,3 +48,5 @@ The review cites cross-cultural studies (Gordon, 2004; Pica et al., 2004) and, s
 - [In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors](deaf-more-number-string-errors-object-counting.md) — related
 - [Deaf children produce shorter conventional number strings in abstract counting than hearing children of the same school level, with a roughly 2-year delay](deaf-children-abstract-counting-delay.md) — related
 - [Deaf children's abstract-counting errors reflect the rule-bound base-5 structure of Belgian French Sign Language: they stop at production-rule boundaries and make fewer omission errors than hearing children](sign-language-structure-shapes-counting-errors.md) — related
+- [Deaf and hearing children do not differ in accuracy of object counting or creating sets of a given cardinality up to 14 items](no-group-difference-object-counting-accuracy.md) — related
+- [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related

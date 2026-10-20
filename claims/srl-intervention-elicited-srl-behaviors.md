@@ -43,4 +43,11 @@ Qualitative interview theme from inductive two-cycle coding of five purposively 
 
 
 ## Related Claims
--
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
+- [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](interviews-shallow-reflection-score-derived-planning.md) — related
+- [Stronger self-reported SRL skills manifest in more revisiting of previously completed course materials, especially assessments](srl-manifests-in-revisiting-assessments.md) — related
+- [Web-based SRL training interventions produced statistically significant group by time interactions on the SRL subscales planning, self-motivation, volition, elaboration and metacognition, but not on goal-setting or reflection](web-based-srl-training-subscale-interactions-planning-metacognition-volition.md) — related
+- [In a randomized trial of SRL interventions in an online mathematics preparation course, group and time interacted significantly on SRL knowledge, self-efficacy and the SRL overall score, with Group TDP (training + diary + peer feedback) showing the most prominent gains](srl-web-training-peer-feedback-group-by-time-interaction-online-math-prep.md) — related
+- [Systematic role rotation structured pre-service educational psychologists' engagement in AI-supported case-based learning by distributing problem-framing, analytical, intervention-oriented, and reflective responsibilities](role-rotation-distributes-professional-engagement-ai-cases.md) — related
+- [Students developed varied perceptions of video annotation, citing benefits for SRL and acting alongside embarrassment and added workload](varied-student-perceptions-video-annotation.md) — related

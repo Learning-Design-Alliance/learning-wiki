@@ -67,3 +67,6 @@ The chapter reports Blunt and Karpicke (2014): on a 1-week short-answer assessme
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Concept Maps Improve Learning](concept-mapping-improves-learning.md)
 - [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
+- [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](retrieval-practice-review-50-classroom-experiments.md) — a broader claim this one bears on
+- [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — a broader claim this one bears on
+- [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related

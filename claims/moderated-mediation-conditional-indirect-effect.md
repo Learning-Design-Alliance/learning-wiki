@@ -49,3 +49,5 @@ Bootstrap conditional indirect effect analysis (5,000 resamples) on the 1,198-st
 - [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related
 - [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related
 - [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related
+- [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related
+- [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related

@@ -55,3 +55,4 @@ Repeated-measures ANOVA on self-reported metacognitive strategy use (t1–t4) in
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — a broader claim this one bears on
 - [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](short-term-prompts-do-not-change-self-efficacy.md) — related
+- [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related

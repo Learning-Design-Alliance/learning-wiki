@@ -84,3 +84,4 @@ A scatter plot with marginal histograms (Fig. 4) comparing high- and low-achieve
 - [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](cps-outperformed-ips-on-epst-posttest.md) — related
 - [Eighth graders in a CPS group outperformed those in an IPS group on physics problem solving, with CPS narrowing high–low achievement gaps](cps-outperformed-ips-problem-solving-gap.md) — possibly the same claim (merge candidate)
 - [CPS students proposed better problem-solving solutions and allocated more time to solutions, evidence-based reasoning, and simulation/data recording than IPS students](cps-more-time-and-better-ps-solutions.md) — related
+- [CPS and IPS raised electromagnetism concept-test performance equally, so CPS's advantage was specific to problem-solving performance](cps-ips-equal-concept-test-gains.md) — related

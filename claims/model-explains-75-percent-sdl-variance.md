@@ -48,3 +48,6 @@ Coefficient of determination reported in the structural model assessment (Table 
 - [Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)](tuga-negative-direct-effect-sdl.md) — related
 - [Thoughtless use of generative AI significantly and negatively predicts both self-efficacy and motivation](tuga-negative-effect-se-mov.md) — related
 - [An emotional connection to nature, rather than conservation knowledge, is a powerful predictor of children's conservation behavior](emotional-connection-predicts-conservation-behavior.md) — related
+- [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related
+- [Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway](se-mov-partial-mediation-tuga-sdl.md) — related
+- [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related

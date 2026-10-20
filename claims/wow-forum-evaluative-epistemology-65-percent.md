@@ -46,3 +46,5 @@ Epistemology coding of the forum corpus (Kuhn 1992 framework) found "65% of the 
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
 - [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md) — related
 - [Model-based reasoning appears in about one tenth of WoW forum posts, with model testing, mathematical modeling, and explicit computation progressively rarer](wow-model-based-reasoning-proportions.md) — related
+- [Over half of WoW forum posts evince systems-based reasoning, most also showing understanding of feedback among system components](wow-posts-systems-based-reasoning-58-percent.md) — related
+- [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — related

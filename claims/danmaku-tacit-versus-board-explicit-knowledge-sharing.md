@@ -46,3 +46,7 @@ Qualitative content analysis of knowledge-sharing excerpts found "Tacit knowledg
 - [All discussion-board contributors sent significantly more text per person than all danmaku contributors in every shared category](board-contributors-more-text-per-person.md) — related
 - [Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories](danmaku-socio-emotional-vs-board-cognitive-categories.md) — related
 - [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](mass-participation-depends-on-tools.md) — a broader claim this one bears on
+- [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](danmaku-collective-flow-vs-threaded-small-groups.md) — related
+- [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
+- [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](a3c-joint-interaction-levels-in-scaled-mooc-tools.md) — related
+- [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](parasocial-greetings-and-co-learning-presence-in-danmaku.md) — related

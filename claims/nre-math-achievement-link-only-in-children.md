@@ -48,3 +48,4 @@ Separate whole-brain regression analyses per age group (children, adolescents, a
 - [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related
 - [Math achievement correlates with ventral occipital-temporal NRE in both children and adults, with children relying on extrastriate and adults on anterior higher-order visual regions](vot-nre-achievement-developmental-reorganization.md) — related
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
+- [In children, the BOLD numerical ratio effect correlates with individual differences in the behavioral ratio effect in right OTC, left superior parietal cortex, and bilateral IFG; no such correlation reaches significance in adults](brain-behavior-ratio-correlations-children.md) — related

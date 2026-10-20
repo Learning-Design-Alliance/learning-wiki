@@ -46,3 +46,4 @@ The report cites this second-hand finding (Pardos et al., 2014) to argue researc
 - EDM methods have enabled real-time inference of a broader range of student attributes, including gaming the system, self-efficacy, off-task behavior, boredom, and frustration — related
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — related
 - [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related
+- [Emote-aloud protocols show learner emotions correlate systematically with AutoTutor dialogue features](emote-aloud-emotions-correlate-with-dialogue-features.md) — related

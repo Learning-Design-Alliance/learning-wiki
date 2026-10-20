@@ -64,3 +64,7 @@ The paper observes that pupils "often quickly check whether the teacher is looki
 ## Related Claims
 
 - [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md)
+- [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related
+- [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md) — related
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — a broader claim this one bears on
+- [Teachers spent most CSCL class time on task management, content knowledge, technical support and observing, with minimal socio-emotional support](teacher-guidance-focus-distribution-cscl-science.md) — related

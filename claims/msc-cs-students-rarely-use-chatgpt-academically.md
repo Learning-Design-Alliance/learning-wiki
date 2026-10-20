@@ -48,3 +48,6 @@ Descriptive analysis of a 12-question multiple-choice Canvas questionnaire admin
 - [Familiarity with ChatGPT among MSc computer science students is spread across levels, with about one-fifth not familiar at all](cs-students-chatgpt-familiarity-distribution.md) — related
 - [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md) — related
 - [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)
+- [Students regard reduced critical thinking and originality as the biggest threat of ChatGPT use in academia](students-see-reduced-critical-thinking-as-biggest-chatgpt-threat.md) — related
+- [Academic use of ChatGPT correlates most strongly with its use for language-related tasks](chatgpt-academic-use-correlates-language-use.md) — related
+- [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md) — related

@@ -48,3 +48,4 @@ Cue-locked ERP analysis at FCz in the preparatory interval of the Stroop task. T
 - [Old high performers reach a Stroop performance level comparable to middle-aged or even young adults](old-high-performers-comparable-middle-aged-young.md) — related
 - [Old high performers show larger target-locked P2/N2 amplitudes than old low performers, exceeding middle-aged or young adults in some conditions](old-high-performers-larger-p2n2-reactive-control.md) — related
 - [The magnitude of ERP prediction markers correlates with the behavioral reaction-time benefit of predictability](erp-prediction-markers-correlate-rt-benefit.md) — related
+- [CNV and P3 scalp topographies show a frontal shift with increasing age during adolescence](frontal-shift-cnv-p3-topographies-adolescence.md) — related

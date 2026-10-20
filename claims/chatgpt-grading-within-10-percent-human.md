@@ -47,3 +47,5 @@ The review reports, citing Flodén (2025), that AI-based grading systems showed 
 - [ChatGPT-3.5 feedback on EAP argumentative essays aligns closely with human instructor scoring and identifies surface-level issues, but is less effective on rhetorical structure and contextual nuance](chatgpt-feedback-aligns-with-human-scoring-but-weak-on-rhetorical-structure.md) — related
 - [Claude3 and PaLM2 show substantial agreement but fall short on identifying failing grades](claude3-palm2-substantial-agreement-failing-grades.md) — related
 - [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
+- [Agentic assessment systems report grading time reductions of 50–70% with 90–95% agreement with human graders](agentic-grading-time-reduction-agreement.md) — related
+- [ChatGPT in thinking mode shows the strongest agreement with human examiners on essay-style exam grading (weighted kappa 0.718)](chatgpt-thinking-mode-strongest-human-grading-agreement.md) — related

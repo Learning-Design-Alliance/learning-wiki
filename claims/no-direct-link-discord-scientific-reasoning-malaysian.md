@@ -43,4 +43,6 @@ A questionnaire-based survey of 549 Form 4 (age approximately 16) science studen
 
 
 ## Related Claims
--
+- [Scientific reasoning levels are linked directly to sophistication of epistemological beliefs among Malaysian Muslim students](scientific-reasoning-linked-epistemological-sophistication.md) — related
+- [Malaysian Muslim students' discord scores are inversely related to sophistication of epistemological beliefs](discord-inversely-related-epistemological-beliefs.md) — related
+- [Australian and Malaysian Muslim learners ranked discord items differently, with Australian students most resistant to anti-science statements and most accepting of divine-cause statements](australian-malaysian-discord-item-differences.md) — related

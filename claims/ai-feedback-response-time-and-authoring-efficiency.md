@@ -69,3 +69,5 @@ A proxy comparison of word counts: the prompt template contained 356 words versu
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) — related
 - [Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request](load-test-100-concurrent-users-30-second-response.md) — related
 - [LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system](learnlens-reduces-teacher-feedback-time.md) — related
+- [LearnLens's modular pipeline outperforms direct-prompt baselines on scoring quality while matching latency and cost on 100 authentic student answers](learnlens-modular-pipeline-beats-baselines-scoring.md) — related
+- [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related

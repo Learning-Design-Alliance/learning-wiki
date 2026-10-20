@@ -45,3 +45,5 @@ Comparative analysis of the 28 percent of 42,456 matched students who reached AC
 ## Related Claims
 - CPS students' PLAN-to-ACT gains fall well short of national expected gains, dropping 0.5 points below the average expected gain — related
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — a broader claim this one bears on
+- [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
+- [A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark](explore-17-tipping-point-act-20.md) — related

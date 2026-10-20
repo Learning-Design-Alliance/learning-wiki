@@ -43,3 +43,5 @@ The review reports, citing Cugusi et al. [2021], a meta-analysis of 34 studies w
 ## Related Claims
 - [Meta-regression identifies exercise type, age, and study quality as significant moderators of chronic exercise effects on executive function](meta-regression-moderators-chronic-exercise-ef.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
+- [KOKU improves lower-limb function, concerns about falling and health-related quality of life, but not mood, physical activity, fatigue or fall rate](koku-secondary-outcomes-mixed.md) — related

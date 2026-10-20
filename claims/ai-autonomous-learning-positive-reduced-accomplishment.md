@@ -46,3 +46,4 @@ Structural equation model on the same 1,264-student survey sample, with reduced 
 - [AI-assisted autonomous learning is negatively associated with hardiness among vocational college students](ai-autonomous-learning-negatively-associated-hardiness.md) — related
 - [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related
 - [Hardiness is negatively associated with reduced academic accomplishment](hardiness-negative-reduced-accomplishment.md) — related
+- [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — related

@@ -47,3 +47,6 @@ Simulation study calibrating Rasch, 2PL, and bifactor data with Mplus under five
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — reports the opposite
 - [MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4](mcar-missingness-linear-tests-no-fit-effect.md) — related
 - CAT development decisions influence and might threaten content alignment — related
+- [The trifactor model's performance across sample sizes and model specifications was examined via simulation studies comparing model fit, bias, and convergence rates](trifactor-simulation-performance-sample-size-specification.md) — related
+- [Existing item fit statistics are derived for linear tests under assumptions of no missing responses and normal ability distributions, leaving adaptive testing contexts understudied](item-fit-statistics-derived-for-linear-tests-only.md) — related
+- [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](parceling-overfits-factor-models.md) — related

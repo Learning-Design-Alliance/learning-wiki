@@ -47,3 +47,5 @@ Demonstration with two student cases: Student 1 scored 83.75 academic with an ov
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
 - [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — a broader claim this one bears on
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related

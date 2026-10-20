@@ -45,3 +45,4 @@ The paper reports that "policies promoting the use of data to guide teachers’ 
 ## Related Claims
 - [High-dosage tutoring, frequent teacher feedback and coaching, and data-driven instructional practices show moderately strong evidence of association with charter-school achievement impacts](tutoring-coaching-data-use-charter-impacts.md) — a broader claim this one bears on
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — related
+- [Frequent feedback and coaching for teachers is positively associated with charter school achievement impacts](teacher-feedback-coaching-associated-charter-success.md) — related

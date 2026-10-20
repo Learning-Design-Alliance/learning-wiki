@@ -45,3 +45,6 @@ Across the field study and station study, parents and caregivers rated app helpf
 ## Related Claims
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
 - [In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science](deeper-app-use-linked-stronger-attitude-changes.md) — related
+- [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](splash-bubbles-activities-section-high-ratings-multiple-completion.md) — related
+- [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) — related
+- [The Splash and Bubbles show was positively received, with most families reporting children enjoyed it and learned ocean science concepts](splash-bubbles-show-positive-reception-science-learning.md) — related

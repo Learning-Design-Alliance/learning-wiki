@@ -46,3 +46,5 @@ Intervention meta-analysis of 91 effect sizes from 28 studies with active contro
 
 - [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md)
 - [No significant moderators of the action video game effect were found in either meta-analysis](no-significant-moderators-avg-meta-analysis.md)
+- [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — a narrower finding that bears on this claim
+- [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](video-game-and-mind-brain-training-selective-attention.md) — a broader claim this one bears on

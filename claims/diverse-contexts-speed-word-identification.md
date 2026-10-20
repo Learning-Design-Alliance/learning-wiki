@@ -48,3 +48,5 @@ Response time measure of the same pseudolexical decision task: "Subjects were si
 
 - [Words higher in contextual diversity and semantic richness are processed more accurately and efficiently in lexical tasks](cd-semantic-richness-improves-lexical-processing.md) — the general claim this finding bears on, with the studies behind it
 - [Words encountered in diverse contexts are recognized more accurately in a pseudolexical decision task](diverse-contexts-improve-pseudoword-recognition-accuracy.md) — related
+- [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
+- [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — a broader claim this one bears on

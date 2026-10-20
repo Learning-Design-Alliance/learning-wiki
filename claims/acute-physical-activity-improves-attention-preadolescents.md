@@ -46,3 +46,7 @@ Meta-analysis pooling 6 acute physical activity intervention studies in children
 
 - [Evidence for effects of acute bouts of physical activity on children's attention is weak and inconclusive](acute-physical-activity-children-attention-weak-evidence.md) — reports the opposite
 - [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](longitudinal-physical-activity-improves-attention-single-study.md)
+- [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
+- [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
+- [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](two-bouts-better-than-one-selective-attention.md) — a narrower finding that bears on this claim

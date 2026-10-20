@@ -50,3 +50,5 @@ Three-time-point CLMM on the Repeated Reasoning dataset with polynomial contrast
 - [Ability to Reason (SMP 2) benchmark levels improved linearly across all three time points (d ≈ 0.78) with no significant quadratic trend](mindsets-smp2-linear-trend.md) — related
 - [Students showed a large, statistically significant pre-to-post improvement in ability to reason (SMP 2) in the Mindsets program (d ≈ 1.20)](mindsets-smp2-pre-post-improvement.md) — related
 - [Students showed a large, statistically significant pre-to-post improvement in repeated reasoning (SMP 8) in the Mindsets program (d ≈ 1.19)](mindsets-smp8-pre-post-improvement.md) — related
+- [Engagement peaked at the middle of the Mindsets program and declined slightly by post-test, showing a significant negative quadratic trend](mindsets-engagement-peaks-midpoint.md) — related
+- [Students showed a large, statistically significant increase in engagement from pre- to post-intervention in the 5-week Mindsets program (d ≈ 1.11)](mindsets-engagement-pre-post-increase.md) — related

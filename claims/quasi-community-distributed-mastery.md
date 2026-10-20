@@ -43,4 +43,5 @@ Ethnographic analysis of video recordings, interviews, and field notes in a Cana
 
 
 ## Related Claims
--
+- [A cluster of highly active learners driving the learning communities included equally many low-hierarchy as high-hierarchy members](active-driver-cluster-includes-low-hierarchy-leaders.md) — related
+- [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](quasi-community-storytelling-knowledge.md) — related

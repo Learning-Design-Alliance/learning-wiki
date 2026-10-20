@@ -45,3 +45,5 @@ Same qualitative interview study of steering committee members. Participants des
 ## Related Claims
 - [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related
+- [School co-locations or partnerships, aspiring-leader programs, and shared Common Core preparation are the most promising avenues for cross-sector collaboration](district-charter-promising-collaboration-avenues.md) — related
+- [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related

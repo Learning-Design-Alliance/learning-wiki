@@ -52,3 +52,5 @@ Experiment 2 pretest-posttest analysis: 132 students completed a 90-item pretest
 - [Answers to elaborative interrogation questions were mostly poor in quality, and answer quality correlated positively with posttest scores](elaborative-interrogation-answer-quality-poor-correlates-with-posttest.md) — related
 - [The quality of elaborative-interrogation answers had little effect on retention; even failed or inadequate why-answers facilitated learning relative to reading](response-quality-little-effect-on-elaborative-interrogation-retention.md) — related
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
+- [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related
+- [Elaborative interrogation instructions produce better recall and recognition of science facts than reading-for-understanding instructions](elaborative-interrogation-improves-science-fact-learning.md) — related

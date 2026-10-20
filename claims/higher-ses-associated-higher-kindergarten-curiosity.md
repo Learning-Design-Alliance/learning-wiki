@@ -51,3 +51,5 @@ Adjusted main-effects regression on the weighted ECLS-B sample of 4,750 children
 - [In very safe neighborhoods, curiosity does not differ between lower-resourced and higher-resourced children, while a gap appears in fairly safe neighborhoods](very-safe-neighborhood-closes-curiosity-gap.md) — related
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
 - [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](positive-parenting-associated-higher-kindergarten-curiosity.md) — related
+- [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md) — related
+- [The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.](ses-behavior-relationship-weaker-curvilinear.md) — related

@@ -48,3 +48,6 @@ The report's review cites studies of successful programs at Bank Street College,
 - [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
 - [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related
 - [Working conditions shape educator retention and also influence recruitment decisions and the effectiveness of collaborative evaluation and induction](working-conditions-shape-retention-and-recruitment.md) — related
+- [In Irving ISD, 56% of educators who served as program coaches since 2017 were promoted to new positions](irving-isd-56-percent-coaches-promoted.md) — related
+- [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — related
+- [KIPP identifies principal candidates primarily from a talent pool of assistant principals, similar to the approach used by school districts](kipp-principal-candidates-from-ap-talent-pool.md) — related

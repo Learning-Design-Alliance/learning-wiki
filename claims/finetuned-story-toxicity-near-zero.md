@@ -44,3 +44,6 @@ Qualitative analysis of toxicity outliers in the generated stories identified bo
 
 ## Related Claims
 - [Rewarded SFT produces the most stable outputs among the SFT designs, nearly free of hallucinations and story-irrelevant material](rewarded-sft-most-stable-outputs.md) — related
+- [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — related
+- [Fine-tuned 8B models show suboptimal inter-story diversity, repeating names, animals, locations, and activities across narratives](finetuned-story-repetition-suboptimal-diversity.md) — related
+- [Among the three 8B LLMs, Llama 3 underperforms Apertus and Granite 3.3 on most evaluation metrics](llama-3-underperforms-other-8b-models.md) — related

@@ -74,3 +74,4 @@ Theoretical analysis in the paper's framing of the problem: pretests collected a
 - [Empirical examples using real-world education RCT data demonstrate the design-based grouped-data theory](empirical-examples-education-rct-data-demonstrate-theory.md) — related
 - The RCT is considered the gold standard of research evidence because randomization ensures only the intervention could cause treatment-control outcome differences — related
 - Results for high school achievement are less clear because data limitations precluded a credible impact analysis — related
+- [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) — related

@@ -45,3 +45,4 @@ Standardised OLS regression on report-level ratings (n = 140) with Johnson's rel
 - [Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model](gaa-ls-feedback-engagement-indirect-association.md) — related
 - [The PNT–LOU association remains positive after adjustment for guidance clarity, demographic covariates, institution exclusion, and ordinal estimation](pnt-lou-association-robustness-adjustments.md) — related
 - [Students rate LLM-generated consolidated reports favourably, with cognitive load rated lowest](llm-consolidated-report-cognitive-load-lowest.md) — related
+- [Feedback Contemplators with High Emotional Strain perceived poorly structured feedback content—lacking depth, clarity, actionable information, and personalisation—as their biggest challenge in making sense of feedback](contemplators-poorly-structured-feedback-challenge.md) — related

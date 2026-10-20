@@ -120,3 +120,11 @@ either. Any design that rests on this claim is resting on a mechanism, and shoul
 - [Automaticity does not predict decoding or reading comprehension in middle-school students](automaticity-not-predict-decoding-comprehension.md) — related
 - [Attention is more strongly associated with reading and cognitive measures than hyperactivity, which correlates mainly with phonemic decoding and memory](attention-more-associated-reading-than-hyperactivity.md) — related
 - [Reading and writing are similar but not symmetric processes, with writing more demanding than reading](reading-writing-asymmetric-processes.md) — related
+- [Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud](self-recorded-reading-playback-improved-accuracy-case.md) — a narrower finding that bears on this claim
+- [Experts have reduced access to memory traces of their own cognitive processes due to automatization, and large domain knowledge can disadvantage performance on certain tasks](expert-automaticity-reduces-access-to-processes.md) — related
+- [Poor beginning readers overrely on a single information source rather than integrating all available cues](poor-readers-overrely-single-information-source.md) — related
+- [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — related
+- [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](phonological-automatization-improves-esp-reading-comprehension.md) — a narrower finding that bears on this claim
+- [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related
+- [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' theater alone](readers-theater-alone-no-unique-eb-gains-evidence.md) — related
+- [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related

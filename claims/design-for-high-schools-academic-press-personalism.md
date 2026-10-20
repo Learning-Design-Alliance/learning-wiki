@@ -44,3 +44,6 @@ The publication overview states the Reform Board of Trustees adopted the Design 
 
 ## Related Claims
 - [Student reports of academic personalism increased dramatically in Culture of Calm schools relative to non-CoC schools (d = 1.1), though the substantive meaning is uncertain](coc-academic-personalism-increased.md) — related
+- [Academic achievement is more likely in classrooms that combine personalism with a strong press toward academic work](personalism-plus-press-toward-academic-work-achievement.md) — a broader claim this one bears on
+- [Schools high on both personalism and academic press show substantially higher student academic engagement than schools high on either alone](personalism-plus-academic-press-elevates-engagement.md) — possibly the same claim (merge candidate)
+- [Personalism and academic press each had only small influences on engagement, but their combination elevated student academic engagement substantially](personalism-press-combined-engagement.md) — possibly the same claim (merge candidate)

@@ -50,3 +50,4 @@ WWC synthesis of 1 study meeting standards (Somers et al., 2010; 447 grade 9 stu
 - [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](reading-apprenticeship-uncertain-life-sciences.md) — related
 - [Reading Apprenticeship® shows no effect on vocabulary (effect size 0.00)](reading-apprenticeship-no-vocabulary-effect.md) — related
 - [Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study](reading-apprenticeship-potentially-positive-gpa.md) — related
+- [Reading Apprenticeship® has potentially positive effects on student science achievement in grades 7–9, based on one qualifying study](reading-apprenticeship-potentially-positive-science-achievement.md) — related

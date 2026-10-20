@@ -45,3 +45,9 @@ Interview-derived listing of teacher and contextual variables related to adoptio
 ## Related Claims
 
 - [Perceived power distance correlates with expert and authority roles, collaboration with facilitator and delegator roles, and competition correlates with all five teacher roles](cultural-environment-correlates-with-teacher-roles.md)
+- [Chinese university teachers stress the expert, authority and model teacher roles to a larger extent than Flemish teachers, with no group difference in facilitator or delegator roles](chinese-teachers-stress-expert-authority-model-roles-more.md) — related
+- [Flemish faculty adopt e-learning and online collaborative learning at higher rates than Chinese faculty (about 95% vs 30% e-learning; 27% vs 8% online collaboration)](flemish-faculty-adopt-e-learning-more-than-chinese.md) — related
+- [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — related
+- [Chinese teachers emphasize competition among students more than Flemish teachers, while perceived power distance and collaboration are similar across the two groups](chinese-teachers-emphasize-competition-more.md) — related
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related
+- [A constructivist, process-oriented syllabus was suggested to be more effective than a knowledge-based approach for cross-cultural learning (Wright, 2000, as reported)](constructivist-syllabus-beats-knowledge-based-culture-teaching.md) — related

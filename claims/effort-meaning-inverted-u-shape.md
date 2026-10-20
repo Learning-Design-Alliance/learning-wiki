@@ -53,3 +53,5 @@ Theoretical argument in the comment, citing prior research on effort and meaning
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
 - [(Nor)epinephrine follows an inverted-U for learning: low levels aid learning, high levels trigger quitting, and production fades after about 90 minutes but habituates with repeated safe exposure](norepinephrine-inverted-u-90-minute-limit-habituation.md) — a narrower finding that bears on this claim
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)
+- [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — a narrower finding that bears on this claim
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related

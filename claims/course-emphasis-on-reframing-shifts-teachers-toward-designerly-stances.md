@@ -53,3 +53,6 @@ This is a quasi-experimental, within-course comparison (not a randomized trial) 
 - [By 2026, opening-lecture polls in two AI-focused MSc courses show pronounced shifts toward investing in human intelligence, most notably 90% in Design Thinking for AI](2026-classroom-poll-shift-toward-human-intelligence.md) — related
 - Linguistic analysis of abstracts shows shifts from knowledge to learning and toward more stakeholders — related
 - [Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — related
+- [The report calls for reframing edtech certification applications to help developers identify equity gaps in the research they use](certification-equity-gap-reframing.md) — related
+- [Providing a learner profile shifts an LLM's selected instructional strategies from content-focused to learner-centered](learner-profile-shifts-llm-instructional-strategy-selection.md) — related
+- [A 13-week TPACK-based course significantly improves pre-service preschool teachers' instructional design competence compared with traditional instruction](tpack-course-improves-preservice-preschool-idc.md) — related

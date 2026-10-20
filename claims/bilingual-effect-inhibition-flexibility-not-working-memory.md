@@ -42,3 +42,5 @@ Systematic review (PRISMA) of 53 studies with bilingual and monolingual groups a
 
 ## Related Claims
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
+- [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related
+- [Working memory and inhibition both contribute to spontaneous flexibility, whereas only inhibition contributes to reactive flexibility](wm-inhibition-differential-flexibility-contributions.md) — related

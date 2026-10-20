@@ -46,3 +46,5 @@ Student attitude survey across three semesters of Contemporary Biology N100. The
 
 - [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md)
 - [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)
+- [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md) — related
+- [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md) — related

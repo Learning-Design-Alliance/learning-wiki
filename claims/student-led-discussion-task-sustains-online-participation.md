@@ -49,3 +49,8 @@ Observational analysis of SNAPP visualisations of discussion-board interactions 
 - [Creating community and interacting with students online required deliberate, planned effort unlike spontaneous face-to-face co-presence](online-community-requires-conscious-effort.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
 - [Social awareness had much greater effects on interaction and individual performance than knowledge awareness](social-awareness-stronger-effect-than-knowledge-awareness.md) — related
+- [Higher numbers of interactions are associated with higher posttest scores in asynchronous online small group work](interaction-quantity-correlates-posttest-online-groups.md) — related
+- [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md) — related
+- [Discussion participation shifted from teacher-driven exchanges with few contributors to broader student participation and student-to-student argumentation](discussion-participation-shift-over-module.md) — possibly the same claim (merge candidate)
+- [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md) — related
+- [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related

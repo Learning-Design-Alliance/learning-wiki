@@ -51,3 +51,4 @@ Summary statement of the first report from the six-year study of enhanced colleg
 - [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](find-the-fit-no-impact-importance-academic-quality.md) — related
 - [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related
 - [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](upward-bound-first-postsecondary-completion-estimates.md) — related
+- [Regular Upward Bound shows no detectable effects on postsecondary enrollment, financial aid application or receipt, or bachelor's or associate's degree completion](upward-bound-no-detectable-degree-enrollment-aid-effects.md) — related

@@ -51,3 +51,5 @@ Cross-sectional MRI study of 48 children (24 higher fit, 24 lower fit) screened 
 - [The brain regions showing fitness-related thinning overlap with regions undergoing typical developmental cortical thinning between ages 5 and 11](fitness-thinning-regions-overlap-developmental-thinning.md) — related
 - [Cortical thinning in anterior and superior frontal cortex is associated with better arithmetic achievement across all children](frontal-cortical-thinning-associated-better-arithmetic.md) — related
 - [Higher fit children show superior mathematics achievement but no reading or spelling advantage over lower fit children](higher-fit-children-superior-arithmetic-no-reading-spelling-difference.md) — related
+- [The authors hypothesize that brain-reading cortical thickness correlations are positive in early reading acquisition and negative at later, consolidated stages](developmental-sign-flip-ct-reading-correlation-hypothesis.md) — related
+- [SES moderates the brain-behavior relationship in children's arithmetic, with higher and lower SES children engaging different neurocognitive systems](ses-moderates-arithmetic-brain-behavior-relationship.md) — related

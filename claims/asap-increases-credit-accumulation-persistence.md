@@ -54,3 +54,7 @@ Findings table from the WWC review reporting the Scrivener et al. (2015) RCT of 
 - [DCMP has positive effects on progressing in college, based on two studies meeting WWC standards](dcmp-positive-effects-progressing-college.md) — related
 - [InsideTrack© Coaching has potentially positive effects on college credit accumulation and persistence, based on one RCT meeting WWC standards](insidetrack-coaching-potentially-positive-persistence.md) — related
 - [Project QUEST may increase credit accumulation (improvement index +14, one study, 958 students)](project-quest-credit-accumulation.md) — related
+- [ASAP showed no statistically significant effect on enrollment in any college at the sixth semester in the Scrivener et al. (2015) trial](asap-null-sixth-semester-any-college-enrollment.md) — a narrower finding that bears on this claim
+- [Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education](linked-learning-communities-no-discernible-effects-five-domains.md) — reports the opposite
+- [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related
+- [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](flight-potentially-positive-college-enrollment.md) — related

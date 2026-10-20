@@ -47,3 +47,4 @@ Descriptive post-engagement survey (15 Likert and open-ended items via Qualtrics
 - [Solution providers reported high satisfaction with facilitator preparedness, networking, and solution mapping, with some dissatisfaction on other components](providers-satisfied-salon-components.md) — related
 - Teachers and school directors were uniformly satisfied with digital content training, and coaches observed 96% fidelity in blended-learning implementation — related
 - Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools — related
+- [In the first Learning Salon, half of providers felt unable to showcase their solution's impact and a quarter felt unable to collaborate on co-design](first-salon-showcase-codesign-limits.md) — related

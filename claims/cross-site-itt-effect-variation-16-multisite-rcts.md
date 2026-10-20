@@ -46,3 +46,5 @@ The article's abstract states the study's central empirical contribution: estima
 - [The study explores hypotheses about factors that predict the magnitude of cross-site impact variation](hypotheses-predicting-cross-site-impact-variation.md) — related
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — a broader claim this one bears on
 - [Cross-site impact variation has implications for the statistical precision of multisite trials](cross-site-variation-implications-trial-precision.md) — related
+- [Quantitative methods exist for assessing how impacts of educational interventions on instructional practices and student learning differ across students, educators, and schools](methods-assess-impact-variation-across-students-educators-schools.md) — a broader claim this one bears on
+- [A multi-site randomized controlled trial found Woot Math's adaptivity contributed significant effects in learning and retention](woot-math-rct-adaptivity-significant-effects.md) — related

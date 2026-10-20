@@ -47,3 +47,9 @@ Null direct association between global trait EI (TEIQue) and GPA in this sample,
 - [Cognitive ability (inductive reasoning) showed no significant association with university GPA in any analysis](inductive-reasoning-no-association-university-gpa.md)
 - [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md)
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md)
+- [A latent global non-cognitive factor predicts a latent three-year GPA factor, explaining 27–29% of its variance](latent-noncognitive-factor-predicts-latent-gpa-27-29-percent.md) — related
+- [Academic self-efficacy was not significantly associated with final test performance](self-efficacy-no-direct-path-final-test.md) — related
+- [Emotion regulation variables predict academic outcomes (GPA and academic honors) beyond Big Five personality traits and gender in high school students](era-predicts-academic-outcomes-beyond-big-five.md) — related
+- [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
+- [Previous academic performance is the strongest predictor of university GPA, and adding cognitive predictors raises explained variance to about 44–50%](previous-ap-strongest-predictor-gpa-up-to-50-percent.md) — related
+- [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related

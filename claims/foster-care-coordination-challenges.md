@@ -50,3 +50,11 @@ Qualitative analysis of interviews and focus groups with 11 FYSCP county coordin
 - California's Local Control Funding Formula provides districts supplemental grants for each student in foster care that must increase or improve services — related
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
 - Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care — related
+- [Among LCAP planned actions referencing students in foster care in the 10 largest districts, very few were unique to foster care and an even smaller fraction of funds was](lcap-actions-rarely-unique-to-foster-care.md) — related
+- [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
+- [Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences](interview-barriers-evidence-use-government.md) — related
+- [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
+- [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related
+- [A partnership developed an approach for identifying at-risk students using school data linked with child welfare, justice, human services, and public benefits data.](linked-school-human-services-data-identify-near-term-academic-risk.md) — related
+- [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related
+- [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related

@@ -48,3 +48,6 @@ Interview finding from the 14-participant study: participants relied on GenAI to
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — a broader claim this one bears on
 - [Synergy is more likely in simpler content generation tasks and when humans exceed AI performance](synergy-conditions-task-complexity-human-superiority.md) — related
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — a broader claim this one bears on
+- [GenAI compresses traditional sysadmin expertise pathways by shortcutting hands-on practice, mentorship, and iterative problem solving](genai-compresses-sysadmin-expertise-pathways.md) — related
+- [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
+- [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related

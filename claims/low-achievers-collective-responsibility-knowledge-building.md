@@ -46,3 +46,5 @@ Qualitative analysis of 148 notes across nine inquiry threads from 20 Grade 11 l
 
 - [Collaboration and synthesis indicators in Knowledge Forum increased over time among low-achieving students.](collaboration-synthesis-indicators-increased-over-time.md)
 - [Knowledge-building discourse improved significantly from before to during reflective assessment, with students contributing more explanation-seeking questions, explanations, and metacognitive questions and statements.](discourse-improved-during-reflective-assessment.md)
+- [Most inquiry threads produced by low-achieving students were classified as knowledge construction or knowledge building rather than knowledge sharing.](inquiry-threads-knowledge-construction-building.md) — a narrower finding that bears on this claim
+- [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related

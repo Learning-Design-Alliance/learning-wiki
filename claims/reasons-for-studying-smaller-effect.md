@@ -48,3 +48,4 @@ Correlated and Hierarchical Effects model with robust variance estimation (ρ = 
 - [Creating products as part of problem-driven learning does not change its effect on motivation](product-creation-no-motivation-difference.md) — related
 - [Problem-based, project-based, and case-based learning do not differ in their effects on students' motivation](no-difference-pbl-pjbl-cbl-motivation.md) — related
 - [Effects on affirming motivations and reading comprehension are trivial at delayed post-tests and do not significantly differ from immediate-posttest effects](delayed-posttest-effects-trivial.md) — related
+- [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](problem-driven-learning-small-positive-effect-motivation.md) — related

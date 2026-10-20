@@ -52,3 +52,5 @@ Meta-analysis of 16 single-subject studies with 28 unique participants; the arti
 - [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — the general claim this finding bears on, with the studies behind it
 - [Self-monitoring intervention effects rest on four key components: selecting a target behavior, defining it, self-assessment, and self-recording](self-monitoring-four-key-components.md) — related
 - [Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies](self-management-ebd-overall-es-1-80.md) — related
+- [There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools](lack-of-consensus-sm-variables.md) — related
+- [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — a broader claim this one bears on

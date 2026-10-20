@@ -44,3 +44,4 @@ Survey finding from the validated Negative Attitude scales for staff and student
 - [Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint](performance-expectancy-staff-student-gap.md) — related
 - Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School — related
 - [Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves](staff-overestimate-student-gai-use.md) — related
+- [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related

@@ -43,4 +43,5 @@ Pretest phase of Experiment 1 with general reading instructions only. One-sample
 
 
 ## Related Claims
--
+- [Application reading instructions did not reduce overestimation of application performance (no debiasing effect), with effects varying by text](application-instruction-no-debiasing-effect.md) — related
+- [Text topic moderates judgment bias: the CLT text produced higher overconfidence for application performance than the CVT text](text-topic-moderates-application-overconfidence.md) — a narrower finding that bears on this claim

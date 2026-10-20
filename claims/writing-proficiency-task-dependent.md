@@ -49,3 +49,5 @@ Cross-sectional analysis of 372 preschoolers' performance across five writing ta
 - [Writing features develop sequentially: universal features (linearity, segmentation, simple units) are acquired before language-specific features](universal-writing-features-before-language-specific.md) — related
 - [Children's name writing knowledge is more advanced than their other writing skills, with substantial letter knowledge of their own names by age 3-4](name-writing-most-advanced-emergent-skill.md) — related
 - [Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings](prephonological-spellers-match-language-letter-statistics.md) — related
+- [Physicians revert to basic biomedical knowledge when faced with challenging clinical problems](physicians-revert-to-biomedical-knowledge-on-challenging-problems.md) — related
+- [Prephonological spellers do not show the syllable-length signature predicted by the hypothesized syllabic stage](no-syllabic-stage-in-prephonological-spelling.md) — related

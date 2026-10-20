@@ -69,3 +69,4 @@ Experiment 3 analysis of words repeated within List 3, presented and tested in t
 - [Eliminating differential storage of structural components reduces the free-recall spacing effect at moderate to long lags](free-recall-lag-effect-structural-components.md) — related
 - [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related
 - [Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect](verbal-learning-tasks-test-discriminative-contrast.md) — related
+- [Unintentional learning of word associations occurs when items co-occur in the focus of attention](focus-of-attention-incidental-binding.md) — related

@@ -46,3 +46,4 @@ Policy analysis of the City of Vancouver Digital Strategy's "A day in the life..
 - [Digital access among adults on the margins is not a one-time event but an ongoing, contingent accomplishment requiring an assemblage of resources](digital-access-ongoing-accomplishment.md) — related
 - [Internet connection rates in Canada differ sharply by income, with 97% of the highest income quartile connected versus 58% of the lowest](income-internet-connection-gap.md) — related
 - [Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults](laissez-faire-digital-policy-gaps.md) — related
+- [User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities](imagined-affordances-filter-gai-engagement.md) — related

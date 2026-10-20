@@ -45,3 +45,5 @@ Correlations between looking time differences and outcome measures at two and fo
 ## Related Claims
 - [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — a broader claim this one bears on
 - [Pre-implant aided hearing levels significantly predict word-learning performance in children with cochlear implants](pre-ci-hearing-predicts-word-learning.md) — related
+- [Behavioral inhibition (dCPT) performance is strongly and significantly correlated with vocabulary and receptive language outcomes in prelingually deaf children with cochlear implants](dcpt-behavioral-inhibition-correlates-vocabulary-receptive-language-ci-children.md) — related
+- [Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation](behavioral-inhibition-related-audiological-outcomes-ci-children.md) — related

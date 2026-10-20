@@ -48,3 +48,5 @@ Nested behavioral genetic models showed that "skill-specific genetic variance in
 - [Cognitive and reading skills share large amounts of genetic variance within domains](cognitive-reading-domains-share-genetic-variance.md) — a broader claim this one bears on
 - [Non-graphomotor processing speed (residualized Coding) predicts oral reading fluency similarly in children with and without ADHD](coding-r-predicts-oral-reading-fluency.md) — related
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related

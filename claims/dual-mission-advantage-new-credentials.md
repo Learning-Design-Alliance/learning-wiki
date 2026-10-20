@@ -45,3 +45,4 @@ First of the paper's three stated reasons, offered as the authors' argument. It 
 ## Related Claims
 - [Community colleges are well positioned to lead the emerging credentialing market for three stated reasons](community-colleges-positioned-lead-credentialing-market.md) — possibly the same claim (merge candidate)
 - [Fixed degree structures struggle to keep pace with evolving knowledge, leading to program proliferation with marginal differentiation](fixed-degrees-struggle-with-evolving-knowledge.md) — related
+- [In Georgia, a two-month accelerated manufacturing program with micro-credentials led to recent high school graduates being hired, including employers making an exception to their under-21 hiring practice](tcsg-manufacturing-microcredentials-led-to-hiring.md) — a narrower finding that bears on this claim

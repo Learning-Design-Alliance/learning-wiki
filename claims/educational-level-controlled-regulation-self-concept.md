@@ -45,3 +45,6 @@ Independent t tests comparing 99 participants below secondary education with 89 
 ## Related Claims
 - [Adult learners score much higher in autonomous than controlled regulation, with autonomous regulation mean 3.44 versus controlled 2.42](adults-higher-autonomous-than-controlled-regulation.md) — related
 - [Controlled motivation showed no negative effects on the desirable outcomes measured, and no profile differences emerged in academic self-concept or teacher-reported engagement](controlled-motivation-no-negative-effects-desirable-outcomes.md) — reports the opposite
+- [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes](autonomous-regulation-correlations-outcomes.md) — related
+- [Men show significantly lower autonomous regulation than women among adult learners](gender-difference-autonomous-regulation-adults.md) — related

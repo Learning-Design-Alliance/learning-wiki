@@ -48,3 +48,6 @@ WWC synthesis of two studies meeting evidence standards and one meeting standard
 - [Lexia Reading has potentially positive effects on comprehension](lexia-reading-potentially-positive-comprehension.md) — related
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
 - [Lexia Reading shows no discernible effects on reading fluency](lexia-reading-no-discernible-fluency.md) — related
+- [Ladders to Literacy shows potentially positive effects on alphabetics, with an average improvement index of +25 percentile points and a domain average effect size of 0.69](ladders-to-literacy-potentially-positive-alphabetics.md) — related
+- [SpellRead™ shows potentially positive effects on alphabetics for adolescent readers, with an average improvement index of +23 across two studies](spellread-potentially-positive-alphabetics.md) — related
+- [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related

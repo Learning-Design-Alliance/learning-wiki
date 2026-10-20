@@ -71,3 +71,6 @@ A delayed-final-test experiment by Fazio, Marsh, and Roediger (2006), cited in t
 - [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](feedback-timing-moderates-pretesting.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — a broader claim this one bears on
+- [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related
+- [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
+- [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related

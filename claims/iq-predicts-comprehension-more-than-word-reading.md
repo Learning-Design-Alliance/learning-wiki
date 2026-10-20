@@ -48,3 +48,7 @@ Alternative SEM adding Full-scale IQ (WISC-R or WISC-III) as a predictor, with d
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — reports the opposite
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](memory-report-complexity-predicts-reading-ability.md) — related
+- [Age differences in text processing are examined in terms of the roles of working memory, inhibition, and processing speed](age-differences-text-processing-working-memory-inhibition-processing-speed.md) — related
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
+- [Processing speed is the most impaired Wechsler cognitive domain among youth referred for neuropsychiatric evaluation](ps-lowest-wechsler-index-referred-youth.md) — related

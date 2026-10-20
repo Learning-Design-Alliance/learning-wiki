@@ -54,3 +54,5 @@ Regression models with a male indicator controlling for algebra/geometry and hon
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [Class size, course level, and discipline did not explain significant variation in how achievement gaps changed under active learning](class-size-level-discipline-not-significant-moderators.md) — related
+- [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
+- [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related

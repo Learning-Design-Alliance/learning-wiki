@@ -43,4 +43,9 @@ Four-level multilevel null model (test times within students within dyads within
 
 
 ## Related Claims
--
+- [Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry](dyad-composition-not-confounding-knowledge.md) — related
+- [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](no-gender-difference-knowledge-web-inquiry.md) — a narrower finding that bears on this claim
+- [Web-based collaborative inquiry produces a small but significant improvement in students' interest in science](small-significant-interest-gain-web-inquiry.md) — related
+- [Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry](female-low-achiever-general-track-highest-gain.md) — related
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md) — related
+- [General-track students reported significantly lower initial interest in science than science-track students, with no difference in interest gain](general-track-lower-initial-interest.md) — related

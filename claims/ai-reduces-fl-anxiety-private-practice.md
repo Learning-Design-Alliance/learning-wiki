@@ -93,3 +93,11 @@ Thematic synthesis codes 31 studies to self-efficacy and self-confidence enhance
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
 - [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
+- [88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals](ai-feedback-88-percent-self-efficacy-increase.md) — a narrower finding that bears on this claim
+- [Combining AI-generated information with teacher intervention is associated with improved student performance, participation, confidence, and reduced anxiety in K-12 AI-based instruction](ai-plus-teacher-intervention-student-benefits.md) — related
+- [Sociocultural factors, learner motivation, self-efficacy and perceptions of the classroom environment influence FLCA learning outcomes and oral performance](flca-influences-outcomes-four-factors.md) — related
+- [Students view games as relaxing and fun, building confidence for speaking](games-relaxing-fun-confidence.md) — related
+- [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
+- [Student-centered writing environments are argued to lower anxiety, increase confidence, and provide natural language contexts](student-centered-environments-lower-anxiety-increase-confidence.md) — related
+- [Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)](er-no-change-practical-value-attitude.md) — related
+- [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related

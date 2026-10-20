@@ -44,3 +44,4 @@ Narrative review attribution in the Context (microsystem) section: the article s
 
 ## Related Claims
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
+- [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](challenging-behaviour-major-teacher-demand.md) — related

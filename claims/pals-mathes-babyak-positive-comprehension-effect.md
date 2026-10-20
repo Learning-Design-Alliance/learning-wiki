@@ -47,3 +47,5 @@ Study meeting WWC evidence standards with reservations: 130 first graders in fiv
 - [For first-grade nonresponders, PALS showed a substantively important negative (but statistically non-significant) effect on reading comprehension versus adult tutoring](pals-mcmaster-comprehension-negative-effect.md) — related
 - [The effect on SAT math scores was positive but not statistically significant, though large enough to be substantively important (effect size at least 0.25)](core-plus-sat-math-substantively-important.md) — related
 - [Early literacy intervention reduced the proportion of nonresponders to 7.05% versus 25.35% among controls](intervention-reduces-nonresponder-rate.md)
+- [For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring](pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring.md) — related
+- [Teachers and students report generally favorable impressions of PALS, with least favorability toward team-based structure components](pals-favorable-teacher-student-impressions.md) — related

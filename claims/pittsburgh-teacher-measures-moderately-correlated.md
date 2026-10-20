@@ -46,3 +46,5 @@ Correlational analysis of the three district measures found they are "positively
 - The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
 - [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) — related
+- [Observation scores and student surveys were moderately correlated with student learning and likely captured different dimensions of teaching quality](ratings-moderately-correlated-with-student-learning.md) — related
+- [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related

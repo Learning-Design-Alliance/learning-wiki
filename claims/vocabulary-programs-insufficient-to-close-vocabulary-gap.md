@@ -50,3 +50,4 @@ Authors' conclusion from the meta-analysis of 43 studies, in which vocabulary in
 - A disadvantaged-child program with heavy oral language emphasis led all compared programs in cognitive gains — reports the opposite
 - [A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language](formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md) — related
 - [Available second language research indicates extensive reading programs are generally more effective than systematic vocabulary instruction using decontextualized exercises](l2-extensive-reading-beats-decontextualized-vocabulary-exercises.md) — related
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related

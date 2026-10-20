@@ -44,3 +44,5 @@ Second study evaluating Bridge to Reading as a Tier 2 intervention during 2024-2
 
 ## Related Claims
 - First graders using Bridge to Reading significantly outperformed control-school peers on MAP Growth Reading (ES +0.16) after one semester — related
+- [IMSE's OG+ improves early literacy outcomes in grades K–3, with effect sizes of +0.33 and +0.21 across two quasi-experimental studies](imse-og-plus-improves-early-literacy.md) — related
+- [In a full-year subset analysis, 95 PLL students showed significant reading gains relative to comparison on Acadience (+0.19), MAP (+0.30), and the Ohio State Test (+0.54, fifth grade)](pll-full-year-subset-gains.md) — related

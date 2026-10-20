@@ -48,3 +48,4 @@ Randomized two-group pretest–posttest field experiment with 132 second-graders
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [The Expert Mathematician shows a positive but not statistically significant effect on middle school math achievement (effect size 0.35, improvement index +14 percentile points)](expert-mathematician-potentially-positive-math-achievement.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
+- [Exploratory ANCOVA controlling for mastery probability favored the adaptive condition, but is not interpretable as a causal treatment effect](mastery-probability-covariate-ancova-favors-adaptive.md) — reports the opposite

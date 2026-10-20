@@ -49,3 +49,4 @@ Authors' interpretation drawn from the survey findings on instructional mode, te
 - [About 200 online charter schools operate in the United States, serving about 200,000 students across elementary, middle, and high school grades](online-charter-schools-200-schools-200000-students.md) — related
 - [Online charter school students receive less live teacher contact time in a week than conventional-school students receive in a day](online-charters-low-live-teacher-contact-time.md) — a narrower finding that bears on this claim
 - The article examines whether the type of charter-school authorizer relates to charter-school effectiveness as measured by student achievement trajectories in Ohio — related
+- [Online charter schools place significant expectations on parents, with 43, 56, and 78 percent at high school, middle, and elementary levels expecting active parental participation in instruction](online-charters-parent-participation-expectations.md) — related

@@ -50,3 +50,6 @@ RQ1 theme on transformation of learner identity and agency, drawn from teacher a
 - [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — related
 - [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — related
 - [Teachers reported redesigning instruction toward learner question formulation, comparison, and inquiry when using AI](designing-for-learner-agency-dimension.md) — related
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
+- [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — related
+- [Placement students reported enhanced agency and ownership from the open-ended cGPT co-creation project](cgpt-co-creation-enhances-student-agency-ownership.md) — related

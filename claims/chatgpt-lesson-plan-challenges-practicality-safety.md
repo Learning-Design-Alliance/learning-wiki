@@ -50,3 +50,5 @@ Thematic analysis of semi-structured teacher interviews on challenges of AI-assi
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Teachers adopted three distinct methods for AI-assisted lesson planning, with most (60%) preferring to outline a framework first and then use ChatGPT to refine it](three-teacher-methods-chatgpt-lesson-planning.md) — related
 - [Generative AI platforms cannot yet independently lead meaningful innovation; at best they augment human intelligence for innovation](generative-ai-augments-not-leads-innovation.md) — related
+- [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
+- [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — related

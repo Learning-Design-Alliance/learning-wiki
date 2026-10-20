@@ -48,3 +48,4 @@ Teacher-report outcome from the same randomized trial of Preschool PATHS in Head
 ## Related Claims
 - [Preschool PATHS increases emotion knowledge and parent- and teacher-rated social competence in Head Start children](paths-preschool-improves-emotion-knowledge-social-competence.md) — related
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related

@@ -48,3 +48,5 @@ The guide's cohort-view section explains that this view shows students who teste
 - [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related
 - [State-level dashboard results are reported only when at least 20% of students were tested across most grades and the sample contains at least 10 students](dashboard-state-inclusion-thresholds-20-percent-10-students.md) — related
 - [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related
+- [Sensitivity analyses restricting to students assessed in all 15 terms reproduced the full-sample between-group comparisons](sensitivity-15-term-subsample-same-comparisons.md) — related
+- [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — related

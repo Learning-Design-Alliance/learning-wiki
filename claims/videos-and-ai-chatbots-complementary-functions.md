@@ -43,4 +43,7 @@ The review reports a true experimental 2 × 2 factorial RCT (n = 160 seventh-gra
 
 
 ## Related Claims
--
+- [ADA use shows a modest non-significant tendency toward increased intrinsic and extrinsic cognitive load, contrary to prior chatbot research](ada-cognitive-load-slightly-increased-non-significant.md) — related
+- [Both agent-based model and visualization video conditions produce comparable gains in declarative nanoscience knowledge, with no Group × Time interaction](abm-video-equal-declarative-knowledge-gains.md) — related
+- [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — a broader claim this one bears on
+- [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related

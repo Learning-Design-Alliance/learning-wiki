@@ -46,3 +46,4 @@ The authors' interpretive conclusion from the semantic structure of the TIMSS fr
 ## Related Claims
 - [Triangulation showed Mathematics Applying and Science Applying share fewer codes and weaker links than other domain pairs, which differ in procedural versus empirical emphasis](ma-sa-weaker-links-triangulation.md) — related
 - [TIMSS framework descriptions show minimal direct alignment between mathematics reasoning and science reasoning, alongside structural commonalities among reasoning and applying components](minimal-direct-alignment-mr-sr-timss.md) — related
+- [Task-level account of upskilling and the Triad of Skill Failure (deskilling, never-skilling, mis-skilling) with differing empirical support](triad-of-skill-failure-task-level.md) — related

@@ -48,3 +48,4 @@ Simple-slope analysis at ±1 SD of reflective thinking in the moderated mediatio
 ## Related Claims
 - [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](genai-use-positive-association-critical-thinking-total-effect.md) — related
 - [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](moderated-mediation-indirect-effect-conditional-reflective-thinking.md) — related
+- [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related

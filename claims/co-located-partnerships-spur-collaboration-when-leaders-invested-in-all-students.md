@@ -48,3 +48,6 @@ Qualitative implementation analysis based on semistructured interviews with cent
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - Interviews with 13 education leaders from Kentucky and California, two states with contrasting teacher-evaluation approaches, provided the data for the collaborative grounded theory analysis — related
 - State administrators stress building trust with schools and districts as a foundation for supportive school improvement relationships — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — a broader claim this one bears on

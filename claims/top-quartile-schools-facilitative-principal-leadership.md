@@ -50,3 +50,5 @@ Survey report summary of Principal Leadership scale results for teachers in top-
 - [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
 - [Teacher-reported trust and influence vary sharply between top- and bottom-quartile schools on leadership measures](teacher-trust-influence-quartile-differences.md) — related
 - [Teacher-principal trust is far more prevalent in top-quartile schools than bottom-quartile schools](teacher-principal-trust-top-vs-bottom-quartile.md) — related
+- [An estimated 46 percent of Chicago elementary principals display inclusive leadership](principals-inclusive-leadership-46-percent.md) — related
+- [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](teacher-influence-quartile-contrast.md) — related

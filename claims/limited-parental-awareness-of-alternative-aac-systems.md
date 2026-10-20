@@ -50,3 +50,4 @@ Item-level survey results on AAC knowledge and perceived general suitability. "A
 - [Perceived AAC benefit score is positively correlated with the seven-item AAC implementation experience score](perceived-benefit-correlates-with-aac-experience.md) — related
 - [Many children with communication needs who require AAC lack access to appropriate supports, and embedding AAC interventions in the classroom is challenging](aac-classroom-access-barriers-challenge.md) — related
 - [Parental factors including emotional unreadiness, feeling overwhelmed, and unrealistic expectations can contribute to AAC device abandonment](parent-factors-aac-abandonment.md) — related
+- [Systems-level barriers to school AAC use include limited clinical expertise, need–system mismatch, funding difficulty, and unfamiliar communication partners](systems-level-aac-implementation-barriers.md) — related

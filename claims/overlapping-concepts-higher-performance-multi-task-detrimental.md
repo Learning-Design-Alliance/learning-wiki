@@ -66,3 +66,5 @@ Model selection analysis for overlapping concepts in the hybrid framework. The a
 - [GRU is the lowest-performing model across both single-task and multi-task competency modeling, likely due to its two gating units versus LSTMs' three](gru-lowest-performing-competency-model.md)
 - [The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts](single-task-rf-best-average-not-universally-optimal.md)
 - [A hybrid stealth assessment framework selecting the optimal model per concept outperforms any single homogeneous modeling technique for predicting student competencies](hybrid-stealth-assessment-outperforms-single-model.md)
+- [Sequential deep learning models outperform static models for concepts mapped to multiple post-test questions](sequential-models-outperform-static-multi-question-concepts.md) — related
+- [Concepts associated with only a single post-test question yield markedly low predictive performance across all modeling approaches](single-question-concepts-low-predictive-performance.md) — related

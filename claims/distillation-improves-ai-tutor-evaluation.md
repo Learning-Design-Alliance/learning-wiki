@@ -45,3 +45,4 @@ Experimental comparison on the BEA 2025 development set using the selected Llama
 ## Related Claims
 - [Dialogue-shuffling augmentation improves evaluator performance while downsampling reduces it](dialogue-shuffling-augmentation-improves-evaluator.md) — related
 - [A model trained only on the 300-conversation BEA dataset plateaus at 74.84% average macro F1 due to limited data size and diversity](small-labeled-data-plateaus-evaluator.md) — related
+- [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — reports the opposite

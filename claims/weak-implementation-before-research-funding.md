@@ -48,3 +48,4 @@ Expert-opinion finding from the interview and focus-group study; the article rep
 - [Time, funding, competing priorities, culture change, resistance, measurement gaps, and sustainability are the main challenges to implementing RJ in schools](rj-implementation-challenges-time-funding-sustainability.md) — related
 - Experts call for rigorous outcome-based research, readiness research, a clear RJ definition, and leader training research on RJ in schools — related
 - [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](school-data-systems-do-not-track-rj.md) — related
+- [Implementing restorative justice in schools requires staff time, buy-in, training, and resources beyond traditional sanctions, with full climate shifts estimated to take three to five years](rj-implementation-demands-and-timeline.md) — related

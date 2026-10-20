@@ -106,3 +106,9 @@ This meta-analysis synthesized 24 quantitative studies of higher-education stude
 - [The Trainer is expected to develop feedback literacy capacities](trainer-expected-develop-feedback-literacy.md) — a narrower finding that bears on this claim
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — a narrower finding that bears on this claim
 - [Peer discussion and poster activities prompted students to articulate and revise their ideas, with metaconceptual awareness and evaluation observed](peer-discussion-revision-metaconceptual-awareness.md) — related
+- [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
+- [Multiple peer reviews produced greater improvement between draft and final paper than a single expert reviewer in a SWoRD evaluation](multiple-peer-reviews-beat-single-expert-reviewer-sword.md) — a narrower finding that bears on this claim
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — a broader claim this one bears on
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — reports the opposite

@@ -47,3 +47,5 @@ The report's framing statement asserts that organizing performance measure data 
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
 - [The three Pittsburgh teacher effectiveness measures are positively, moderately correlated, suggesting they are valid and complementary](pittsburgh-teacher-measures-moderately-correlated.md) — related
 - Psychometric reporting in character education evaluation research is inconsistent: reliability was reported for 62 of 95 scales and validity information was available for only 5 of 36 programs — related
+- [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — related
+- [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — related

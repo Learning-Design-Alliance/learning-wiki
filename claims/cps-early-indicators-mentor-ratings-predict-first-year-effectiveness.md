@@ -67,3 +67,5 @@ In the same linked cohort analysis, mentor teachers' ratings of their student te
 - [CPS mentor teachers were more qualified than other teachers, but their qualifications were generally unrelated to student teachers' preparedness or first-year performance](cps-mentor-teachers-more-qualified-qualifications-unrelated-to-outcomes.md) — related
 - [Student teaching in higher- or lower-achieving CPS schools made no difference in teachers' first-year REACH ratings](cps-placement-school-characteristics-unrelated-first-year-effectiveness.md) — related
 - States that survey new teachers typically do so in the first year of teaching — related
+- [Teachers' years of experience and most self-reported instructional practices did not significantly predict students' AES-measured writing growth](teacher-experience-practices-no-growth-prediction.md) — related
+- [Student teachers hired by CPS showed no differences in mentor ratings or feelings of preparation compared with those not hired](cps-hired-vs-not-hired-no-difference-mentor-ratings.md) — related

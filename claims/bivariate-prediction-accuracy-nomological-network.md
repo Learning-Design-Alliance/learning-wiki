@@ -46,3 +46,4 @@ Descriptive Pred-vs-Obs summary (Table 3) of bivariate associations between the 
 - [The BPNSFS 3×2 six-facet structure (three needs × satisfaction/frustration) fits Australian school-leader data excellently and better than models collapsing valence](bpnsfs-3x2-structure-excellent-fit-school-leaders.md) — related
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](three-facet-mtmm-content-valence.md) — related
 - [Classic two-facet MTMM analysis supports convergent and discriminant validity of the six BPNSFS facets across time](mtmm-two-facet-bpnsfs-validity.md) — related
+- [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — a narrower finding that bears on this claim

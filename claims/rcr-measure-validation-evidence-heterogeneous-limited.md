@@ -66,3 +66,6 @@ Review synthesis of validity evidence: most validity evidence was content or fac
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — a broader claim this one bears on
 - [Fifteen unique RCR outcome measures with supporting validation evidence were identified, all covering research integrity but only ten covering research ethics](fifteen-validated-rcr-measures-ri-re-coverage.md)
 - [Validated RCR measures omit emerging and social-safety topics including EDI, whistleblower protections, AI use in research, predatory journals and open-science practices](validated-rcr-measures-missing-topics-edi-ai-open-science.md)
+- [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md) — related
+- [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
+- [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md) — related

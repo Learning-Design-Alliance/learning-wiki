@@ -67,3 +67,4 @@ Linear regression in the mediation test (PROCESS Model 4) with gender, age, grad
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [Trust in AI is positively associated with university students' dependence on GenAI](trust-in-ai-positively-associated-genai-dependence.md) — related
 - [Perceived AI empowerment is positively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-empowerment-positively-associated-trust-genai-dependence.md) — related
+- [Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust](ai-literacy-does-not-moderate-mediation-pathways.md) — related

@@ -46,3 +46,6 @@ Narrative review attribution in Section 2.2: the paper reports Sailer et al.'s e
 - [Direct GenAI-supported feedback improves immediate argument-quality gain over peer feedback, while reflective and hybrid designs outperform direct GenAI feedback](genai-feedback-design-argument-quality-gain.md) — the general claim this finding bears on, with the studies behind it
 -
 - [Pre-service teachers' collaborative diagnostic accuracy does not per se exceed individual diagnostic accuracy, but collaboration support can significantly enhance the added value of collaborative diagnosis](collaboration-support-enhances-added-value-collaborative-diagnosis.md) — related
+- [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — related
+- [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
+- [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](nlp-feedback-reduced-grading-effort-85-percent.md) — related

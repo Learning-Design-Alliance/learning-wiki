@@ -46,3 +46,4 @@ Moderation analysis adding Pre × Depth interaction terms to task-quality, post-
 - [Interaction depth is not associated with immediate recall or gains once baseline knowledge is controlled](depth-not-associated-with-immediate-recall.md) — related
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](depth-predicts-task-quality.md) — related
 - [Exploratory, non-significant pattern suggests students with stronger learner profiles may show larger AI-assisted exam gains](exploratory-profile-interaction-ai-gains.md) — related
+- [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related

@@ -46,3 +46,4 @@ Correlational survey of 1,057 university students at 35 universities in Türkiye
 - [Negative AI attitudes correlate positively with job finding anxiety more strongly than positive AI attitudes](negative-ai-attitudes-correlate-job-finding-anxiety.md) — related
 - [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](ai-anxiety-correlates-job-search-anxiety-health-students.md) — related
 - [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related
+- [Age, gender, class level and voluntary programme choice do not significantly predict job search anxiety in the adjusted model](demographics-null-predictors-job-search-anxiety.md) — related

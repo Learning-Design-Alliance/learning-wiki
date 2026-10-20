@@ -49,3 +49,5 @@ Table 5 reports SSMR forming the majority of social MR turns in both the veterin
 - [In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group](opposite-ssmr-foci-engineering.md) — related
 - [VMSR occurred at low levels across all groups and contexts](vmsr-low-across-contexts.md) — related
 - [American university engineering students showed the opposite foci pattern: the less successful group manifested more high-level MR than the more successful group](opposite-foci-pattern-engineering.md) — related
+- [MR of less successful outcome groups focused more on low-level cognitive activity in Finnish high school and Australian veterinary contexts](low-focus-mr-less-successful-two-contexts.md) — related
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](ssmr-contributions-higher-vs-lower-performing-groups.md) — related

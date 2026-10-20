@@ -48,3 +48,4 @@ Thematic synthesis of 34 review articles (RQ1) reporting the percentage of revie
 - CAI-in-education review literature is concentrated in higher education and in language, health, and general education domains — related
 - [AI support in higher education is concentrated in instructional, assessment, and feedback decisions, with curriculum and learning-environment decisions least supported](ai-support-concentrated-instructional-assessment-feedback-decisions.md) — related
 - Only 34 of 156 AI-motivation studies explicitly named a pedagogical approach; game-based learning was the most common — related
+- [CAI-in-education research shows a framework gap: no end-to-end design guidance, weak CAI-specific usability methods, unclear pedagogical guidance, and limited AI literacy support](cai-framework-gaps-design-guidance-usability-ai-literacy.md) — related

@@ -43,4 +43,7 @@ Across all six sessions, "Every pair used some mechanism to separate the text of
 
 
 ## Related Claims
--
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — related
+- [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — related
+- [Specific pedagogic design characteristics supported students' joint interaction in the wiki: initial text propositions, Thinking Together preparation, a collectively created artefact, and asynchrony](pedagogic-design-characteristics-wiki-collaboration.md) — related
+- [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — related

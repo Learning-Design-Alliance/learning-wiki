@@ -52,3 +52,6 @@ Experiment 2, a within-subjects study of 80 Columbia/Barnard students with yes/n
 - [Yes/no feedback that one was wrong increased curiosity selectively for high-confidence errors, leaving curiosity about low-confidence errors largely unchanged](yes-no-feedback-high-confidence-errors-increase-curiosity.md) — related
 - [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](second-order-metacognition-smaller-error-difference.md) — related
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md)
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
+- [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
+- [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related

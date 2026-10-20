@@ -45,3 +45,4 @@ Survey responses from the first (SEL and Family Engagement) Learning Salon, wher
 ## Related Claims
 - [90% of surveyed district leaders and solution providers would participate in another Learning Salon even if no changes were made](ninety-percent-would-repeat-salon.md) — related
 - [Solution providers reported high satisfaction with facilitator preparedness, networking, and solution mapping, with some dissatisfaction on other components](providers-satisfied-salon-components.md) — related
+- [District leaders reported high satisfaction with the key features of the Learning Salon model across all three surveyed salons](district-leaders-satisfied-learning-salon-features.md) — related

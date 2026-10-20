@@ -49,3 +49,4 @@ Ablation study (Table 4) comparing Selector-only, Reasoner-only, S+R, and S+R+J 
 - [SRJudge consistently outperforms state-of-the-art baselines on three knowledge concept tagging datasets](srjudge-outperforms-baselines-three-datasets.md) — related
 - [Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time](pruning-mechanism-improves-f1-and-training-time.md) — related
 - [Fine-tuned SLMs retrieve the correct concept within a top-K shortlist but have limited top-1 accuracy](slm-topk-shortlist-limited-top1-accuracy.md) — related
+- [Ablations show removing the strategy selector substantially increases leakage and replacing the NLI verifier with same-model self-check reduces performance](eduguard-ablation-component-removal.md) — related

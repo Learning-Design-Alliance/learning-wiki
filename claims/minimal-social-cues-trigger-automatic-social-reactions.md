@@ -43,4 +43,9 @@ The review summarizes HCI evaluation studies (e.g., Reeves and Nass; Sproull et 
 
 
 ## Related Claims
--
+- [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — reports the opposite
+- [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
+- [A 2024 vendor white paper cites research that avatars provide social presence and that realistic avatars in intelligent tutoring systems can increase student-tutor engagement](avatar-social-presence-increases-tutor-engagement.md) — related
+- [Participants remain socially sensitive to conversational stance even while categorical identity inference fails](stance-sensitivity-persists-despite-identity-failure.md) — related
+- [Human embodiment in video: perceived social presence benefits learning ratings, but instructor-face inclusion shows no significant learning-performance difference, and learners prefer human over robot presenters with mixed recall](human-embodiment-video-presence-effects.md) — related
+- [Users alter expectations and behavior based on perceived AI capabilities even when actual AI performance is unchanged (the placebo effect of AI)](placebo-effect-of-ai-perceived-capabilities.md) — a narrower finding that bears on this claim

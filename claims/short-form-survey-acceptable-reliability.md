@@ -66,3 +66,4 @@ The same short-form evaluation reports test-retest reliability of 0.75 and item 
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [CMS shows acceptable test-retest reliability and internal consistency](cms-reliability-icc-alpha.md) — related
+- [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — related

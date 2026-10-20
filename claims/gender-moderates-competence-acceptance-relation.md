@@ -47,3 +47,6 @@ The review reports, from van der Wilt et al. (2016) (N = 54 children aged 3.83�
 - [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md)
 - [Children's oral communicative competence is significantly related to their sociometric status in childhood](oral-communicative-competence-related-sociometric-status.md) — related
 - [Children with poorer oral communicative competence experience higher levels of peer rejection after controlling for gender, age, and SES](poorer-communicative-competence-higher-peer-rejection.md) — related
+- [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) — related
+- [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
+- [The relation between oral communicative competence and sociometric status is expected to be interactional and transactional rather than unidirectional](transactional-competence-sociometric-relation.md) — related

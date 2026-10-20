@@ -65,3 +65,4 @@ Pairwise t-tests between the three behavior types on model complexity and variet
 - Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists — related
 - [Self-directed online learners' modeling behaviors cluster into three patterns—Observation, Construction, and Exploration—differing in engagement level](three-behavioral-patterns-self-directed-modeling.md) — a broader claim this one bears on
 - [No evidence that learning effects differ by variety of player actions or by inclusion of additional nongame instruction](variety-actions-and-supplemental-instruction-null.md) — related
+- [The three pattern types differed significantly on behavioural codes (Type 1 > Type 2 > Type 3 for concept mapping) and on several interactive, cognitive and regulative codes, but not on socio-emotional codes](dimension-frequency-differences-pattern-types.md) — related

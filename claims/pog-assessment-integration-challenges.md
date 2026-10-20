@@ -53,3 +53,7 @@ The brief's analysis section on assessing POGs, an author interpretation drawn f
 - [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](performance-assessments-complement-multiple-choice-tests.md) — related
 - [Case-study states use performance-based assessments to provide more opportunities for students to demonstrate mastery of skills and content](performance-assessments-expand-mastery-demonstration-opportunities.md) — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
+- [Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies](sel-measurement-narrow-skills-versus-broad-competency-tradeoff.md) — related
+- [Implementation of competency-based progression was limited by a perceived need to emphasize grade-level content and external policy constraints](competency-progression-limited-grade-level-emphasis.md) — related
+- [An analysis of 69 district Portraits of a Graduate finds six Skill Sets that capture 90 percent of the attributes districts articulate](six-skill-sets-capture-90-percent-portrait-attributes.md) — related
+- [POG frameworks most frequently emphasize communication, critical thinking, collaboration, and perseverance/adaptability among their competencies](pog-competencies-communication-critical-thinking-most-frequent.md) — related

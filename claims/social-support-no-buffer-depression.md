@@ -51,3 +51,4 @@ Prospective observational analysis: multivariate logistic models on RELACHS foll
 - [High family social support is associated with lower odds of depressive symptoms](high-family-support-lower-depression.md) — related
 - [Findings are mixed on whether friendship buffers the negative effects of peer rejection for children with ADHD](friendship-buffering-peer-rejection-mixed-evidence.md) — related
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — related
+- [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — related

@@ -71,3 +71,5 @@ Survey trend analysis of student-reported climate measures (Chapter 7). The repo
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
 - [Chicago high school teachers reported better communication and more positive relationships with parents in 1997 than in 1994](teacher-parent-communication-improved-1994-1997.md) — related
 - [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related
+- [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — related
+- [High schools improving instruction and teacher collaboration also showed the largest improvements in parent communication](instructional-improvement-linked-parent-communication-gains.md) — related

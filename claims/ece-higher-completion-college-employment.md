@@ -57,3 +57,5 @@ The summary reports, citing Carneiro and Ginja (2013) on Head Start, higher rate
 - More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment — related
 - [Dual language learners especially benefit from high-quality early care and dual language immersion programs, and multilingualism is associated with cognitive, linguistic, social, and cultural strengths](dual-language-learners-benefit-from-immersion-programs.md) — related
 - [Pre-kindergarten attendance predicts college enrollment across racial and ethnic groups, most strongly four-year enrollment among Black and Hispanic students](prek-predicts-college-enrollment.md)
+- [Early numeracy mastery at 54 months predicts high school math course-taking](early-numeracy-mastery-predicts-hs-math-course-taking.md) — related
+- [Michigan's GSRP participants showed better kindergarten readiness, fewer grade repetitions, better reading and math proficiency, and better on-time graduation rates than non-participants, per a HighScope longitudinal evaluation](gsrp-longitudinal-evaluation-positive-outcomes.md) — a narrower finding that bears on this claim

@@ -44,3 +44,9 @@ Systematic literature search across education, career technical, medical, higher
 
 ## Related Claims
 - [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md) — related
+- [Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact](unstandardised-ai-reporting-harms-reproducibility-and-review.md) — related
+- [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — related
+- [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](curriculum-equivalence-moderates-effect-size.md) — related
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
+- [Online learning effectiveness was broadly positive across content areas and learner types, but the mean effect was not significant for the seven K–12 contrasts and the learner-type moderator test was nonsignificant.](learner-type-moderator-nonsignificant-k12-null.md) — related
+- [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — related

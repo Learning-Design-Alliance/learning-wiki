@@ -46,3 +46,5 @@ A demonstration of the pipeline to a group of students and teachers with collect
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](feasible-synchronized-video-generation-from-textbook-queries.md) — related
 - [PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics](pivot-best-automatic-video-quality-scores.md) — related
+- [Expert evaluators rate PIVOT higher than TheoremExplainAgent across nearly all instructional dimensions, with the largest gains in Physics and Computer Science](expert-evaluation-pivot-outperforms-baseline.md) — related
+- [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related

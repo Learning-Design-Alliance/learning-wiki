@@ -50,3 +50,7 @@ ANCOVA in the same randomized experiment (n=91) controlling for prior knowledge.
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
 - [Students using ChatGPT 3.5 experience lower germane cognitive load than students using Google, the strongest of the three load differences](llm-search-lower-germane-cognitive-load.md) — related
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
+- [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related
+- [Pragmatic and contingent LLM rewrites reduced perceived cognitive load relative to standard interpreter messages](llm-rewrites-lower-perceived-cognitive-load.md) — related
+- [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related

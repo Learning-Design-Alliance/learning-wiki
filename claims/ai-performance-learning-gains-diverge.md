@@ -73,3 +73,8 @@ The article reports, citing prior work on scientific inquiry with ChatGPT, that 
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [Frequent generative AI use for essay writing can foster metacognitive laziness, reducing intrinsic motivation and learning autonomy](genai-metacognitive-laziness-and-autonomy.md) — possibly the same claim (merge candidate)
 - [Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.](chatgpt-convenient-tool-personal-benefit-motivation.md) — related
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
+- [Convenience–learning divergence proposition: satisfaction and adaptation may rise under AI mediation while intercultural engagement and frame revision fall](convenience-learning-divergence-proposition.md) — a narrower finding that bears on this claim
+- [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
+- [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related
+- [Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality](metacognitive-analysis-transfer-association.md) — related

@@ -48,3 +48,6 @@ Panel guidance in Recommendation 1 on reviewing ABC indicators from the previous
 - Middle school social-emotional learning skills predict being off-track to graduate high school — related
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](transition-depends-on-academic-and-sel-preparation.md) — related
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](transition-pivotal-for-remaining-on-track.md) — related
+- [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — related
+- [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
+- [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](self-management-growth-predicts-off-track-beyond-status.md) — related

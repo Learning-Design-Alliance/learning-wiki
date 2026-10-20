@@ -46,3 +46,4 @@ Abstract-level summary of the interview findings framed by Fink's (2013) Integra
 - [Higher education instructional designers recognize dispositions as important learning goals in their course designs](ids-recognize-dispositions-as-learning-goals.md) — related
 - [Educator- and institutional-level challenges include curricular misalignment, need for teacher mediation, unequal access, privacy concerns, academic integrity risks, and algorithmic bias](chatgpt-steam-ibl-educator-institutional-challenges.md) — a broader claim this one bears on
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
+- [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related

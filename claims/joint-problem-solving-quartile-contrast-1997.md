@@ -52,3 +52,5 @@ Descriptive quartile comparison from the Joint Problem Solving scale summary, wh
 - [Teachers rate principal instructional leadership highly even in many bottom-quartile schools](principal-instructional-leadership-ratings-distribution.md) — related
 - [More than half of teachers in bottom-quartile schools describe little or no program coherence](program-coherence-bottom-quartile-little-or-none.md) — related
 - [Two-thirds of teachers in bottom-quartile schools describe no or minimal teacher-parent trust](teacher-parent-trust-bottom-quartile-low.md) — related
+- [Teacher survey reports of instructional program coherence correlate strongly with researchers' field-based ratings of coherence](survey-field-rating-correlation-coherence.md) — related
+- [Teacher influence over school decisions is minimal or limited for most teachers in bottom quartile schools but extensive or moderate for most in top quartile schools](teacher-influence-quartile-contrast.md) — related

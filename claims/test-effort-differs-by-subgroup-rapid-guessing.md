@@ -54,3 +54,5 @@ The study compared rates of rapid guessing, a behavioral proxy for test effort, 
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related
 - [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — possibly the same claim (merge candidate)
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
+- [Little was known before this study about students who rapidly guess over the course of several tests](little-known-repeated-rapid-guessing-gap.md) — related
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — related

@@ -47,3 +47,4 @@ HLM analysis restricted to CoC schools compared the six pilot schools with the o
 - [Teacher-Principal Trust improved only marginally significantly, and Student-Teacher Trust, Program Coherence, Quality Professional Development, and Teacher-Parent Trust showed no significant differential change](coc-other-climate-measures-null.md) — related
 - [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — related
 - [Teachers' reports of disorder and crime decreased at a faster rate in Culture of Calm schools than in non-CoC schools between 2009 and 2011 (d = 0.4)](coc-teacher-disorder-crime-decreased-faster.md) — related
+- [Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined](safety-perceptions-improved-as-oss-declined.md) — related

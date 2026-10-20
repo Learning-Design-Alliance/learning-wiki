@@ -45,3 +45,5 @@ Historical statement in the article's extract dating the identification of a dis
 ## Related Claims
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
+- [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — related
+- [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related

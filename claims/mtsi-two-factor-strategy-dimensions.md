@@ -64,3 +64,7 @@ Confirmatory factor analysis in Mplus 6 on the same 216-student sample tested th
 ## Related Claims
 
 - [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)
+- [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md) — related
+- [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](strategy-dimensions-uncorrelated-opposite-correlations.md) — related
+- [The metacognitive scale yields two factors: Global/Monitoring and Problem Solving](metacognitive-scale-two-factors-global-monitoring-problem-solving.md) — related
+- [Metacognitive awareness among multidisciplinary university students emerges as two dimensions: knowledge about cognition and regulation of cognition](two-dimensions-metacognitive-awareness-university-students.md) — related

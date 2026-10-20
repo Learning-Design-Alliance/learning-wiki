@@ -56,3 +56,4 @@ The publication's framing statement, offered by the authors as an interpretation
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](covid-schools-statistical-challenges-forum.md) — related
 - COVID-19 learning losses are expected to be concentrated in the early grades and among students who were already struggling before the pandemic — a narrower finding that bears on this claim
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related

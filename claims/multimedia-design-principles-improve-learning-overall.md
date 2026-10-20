@@ -80,3 +80,9 @@ Moderation analysis across 16 pooled effects found the design principle itself e
 - [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — a narrower finding that bears on this claim
 - [Signaling Improves Learning](signaling-improves-learning.md) — a narrower finding that bears on this claim
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle](2d-agents-tend-more-effective-than-3d.md) — related
+- [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](pretraining-principle-mayer-2008.md) — a narrower finding that bears on this claim
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — related
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — a narrower finding that bears on this claim
+- [Clear Structure Improves Learning](clear-structure-improves-learning.md) — a narrower finding that bears on this claim
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — a narrower finding that bears on this claim

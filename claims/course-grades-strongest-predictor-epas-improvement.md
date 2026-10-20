@@ -44,3 +44,5 @@ Quantitative analysis of CPS transcript grades and EPAS scores finds students wh
 
 ## Related Claims
 - [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related
+- [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — possibly the same claim (merge candidate)
+- [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related

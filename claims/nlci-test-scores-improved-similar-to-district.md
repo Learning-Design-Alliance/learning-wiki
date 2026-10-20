@@ -45,3 +45,4 @@ Population-based trend analysis of NWEA scores in grades 3-8 (and second-grade N
 ## Related Claims
 - [High student mobility limited the vertical-integration strategy: only about one-third of the 2014-15 NLCI pre-k cohort remained at NLCI schools by second grade](nlci-student-mobility-limits-vertical-integration-gains.md) — related
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](nlci-high-school-outcomes-lower-than-similar-students.md) — related
+- [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related

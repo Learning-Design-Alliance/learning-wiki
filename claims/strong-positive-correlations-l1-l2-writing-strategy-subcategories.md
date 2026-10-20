@@ -46,3 +46,7 @@ Bivariate correlation analysis of the 502-participant dataset (Table 3) showed L
 
 - [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md)
 - [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md)
+- [L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies](cross-language-facilitation-l1-strategies-l2-writing-via-mediation.md) — related
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related
+- [L2 writing proficiency was more highly correlated with L1 writing proficiency than with L2 linguistic knowledge or its accessibility](l2-writing-correlates-more-with-l1-writing-than-l2-knowledge.md) — related

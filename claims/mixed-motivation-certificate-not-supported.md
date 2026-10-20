@@ -70,3 +70,5 @@ to justify such a type of motivation, at least in this group of students."
 - [Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item](low-introjected-regulation-esp-learners.md) — related
 - [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — related
 - [Turkish EFL learners in this sample were generally extrinsically motivated, indicating moderate self-determination](turkish-efl-learners-generally-extrinsically-motivated.md) — related
+- [Children with ADHD show higher external regulation, introjected regulation and amotivation, and lower intrinsic motivation and identified regulation, toward learning than TD children](adhd-motivation-profile-sdt-dimensions.md) — related
+- [Lack of knowledge of cognition, regulation of cognition, and intrinsic motivation hinder learners' metacognitive strategy use](problems-hindering-metacognitive-strategy-use.md) — related

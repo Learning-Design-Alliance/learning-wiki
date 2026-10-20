@@ -47,3 +47,6 @@ Multivariate multilevel Model 1 for domain knowledge (N=54): problematizing scaf
 - [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md)
 - [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](problematizing-scaffolds-elicit-constructive-interaction.md)
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related
+- [Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge](metacognitive-activities-mediate-scaffolding-effects.md) — related
+- [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](problematizing-scaffolds-most-domain-knowledge.md) — related
+- [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — reports the opposite

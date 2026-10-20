@@ -44,3 +44,4 @@ The article reports, citing Bordt and colleagues, that models can reproduce popu
 
 ## Related Claims
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
+- [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related

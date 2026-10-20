@@ -47,3 +47,4 @@ Randomized controlled trial of the Vermont LLC demonstration with 803 recruited 
 - [LLC increased postsecondary education enrollment: 31 percent of participants enrolled versus 22 percent of the control group](llc-increased-postsecondary-enrollment-31-vs-22.md) — related
 - [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](way2work-increased-vr-agency-engagement.md) — a narrower finding that bears on this claim
 - [LLC did not affect employment for all participants within the first 24 months of enrollment](llc-no-employment-impact-all-participants-24-months.md) — related
+- [Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid](way2work-maryland-most-participants-multiple-work-experiences.md) — related

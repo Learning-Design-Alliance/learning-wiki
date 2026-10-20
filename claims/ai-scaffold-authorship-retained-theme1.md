@@ -69,3 +69,6 @@ Descriptive analysis of the structured reflection instrument (Table 4): AI impro
 - [Students framed AI as replacement rather than scaffolding in 48 of 49 essays](replacement-frame-near-universal-in-essays.md) — reports the opposite
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — related
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
+- [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
+- [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
+- [Minority of undergraduate health science students reported using GenAI for reflective writing, mostly to support rather than replace reflection](minority-health-students-genai-reflective-writing.md) — a narrower finding that bears on this claim

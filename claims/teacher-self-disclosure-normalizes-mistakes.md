@@ -49,3 +49,6 @@ This is the authors' reflective assertion in the abstract of a practice-based ar
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
+- [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
+- [Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)](negative-evaluation-vocabulary-anxiety-ranks.md) — related

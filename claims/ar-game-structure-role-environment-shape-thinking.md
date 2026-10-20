@@ -46,3 +46,6 @@ The abstract states these as the study's research questions rather than reportin
 - [Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis](play-based-learning-improves-outcomes.md) — related
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
 - [The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation](mad-city-mystery-ar-argumentation-cases.md) — related
+- [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
+- [Specific game features scaffold scientific thinking in ways the authors claim are non-existent in most inquiry-based learning environments](ar-game-features-scaffold-argumentation.md) — related
+- [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related

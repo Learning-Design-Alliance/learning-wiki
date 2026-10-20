@@ -44,3 +44,5 @@ Secondary correlational analysis in the MANCOVA section of the quasi-experimenta
 
 ## Related Claims
 - [Prior OSL research shows highly inconsistent cognitive and motivational effects of authentic setting features, and few studies measured perceived authenticity](osl-authenticity-studies-inconsistent-effects.md) — related
+- [In an out-of-school lab for social sciences, the authenticity level of the learning activity (Productive Failure vs. Direct Instruction) did not affect students' perceived authenticity or situational interest](pf-vs-di-no-effect-perceived-authenticity-situational-interest.md) — related
+- [Students' perceived authenticity of the learning activity correlated with their situational interest but not with their knowledge acquisition](perceived-authenticity-correlates-interest-not-knowledge.md) — related

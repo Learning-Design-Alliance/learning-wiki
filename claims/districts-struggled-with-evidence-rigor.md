@@ -49,3 +49,8 @@ Interview data show teams initially relied on state test scores, then interim an
 - Education stakeholders report that limited, hard-to-find, and rarely trustworthy information about edtech products creates significant barriers to selection — related
 - [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
 - University–district research partnership models vary widely and many struggle to develop collaboratively designed research that assists districts and improves the profession — related
+- [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](calli-districts-valued-peer-learning-experts-structure.md) — related
+- [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
+- [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
+- [Applying the adapted CTA framework in the discharge pilot uncovered previously unknown stakeholders and barriers](cta-application-revealed-hidden-process-knowledge.md) — related
+- [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related

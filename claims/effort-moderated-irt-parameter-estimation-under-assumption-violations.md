@@ -43,3 +43,5 @@ A conference presentation by Soland and Rios at the 2020 NCME virtual conference
 ## Related Claims
 - Ability-distribution mismatch with the TESTFACT default does not significantly affect item difficulty estimates but slightly improves discrimination estimates — related
 - [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related
+- [Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses](em-scoring-excludes-disengaged-responses.md) — related
+- [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related

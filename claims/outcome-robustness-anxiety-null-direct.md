@@ -69,3 +69,5 @@ Bivariate correlation reported in the discussion of the moderation result for th
 - [The serial indirect effect of AI literacy on continued use is weaker at higher levels of AI anxiety (moderated mediation)](moderated-mediation-anxiety-serial-path.md) — related
 - [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
 - [Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations](self-efficacy-course-type-not-predict-continued-ai-conversations.md) — related
+- [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related
+- [Focal paths are robust to background controls, which did not directly predict AI integration intention](focal-paths-robust-to-background-controls.md) — related

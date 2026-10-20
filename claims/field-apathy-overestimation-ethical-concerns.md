@@ -48,3 +48,5 @@ Fisher's exact test comparison of self view vs perceived field view regarding la
 - [Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications](syllabus-coverage-matches-concern-variation.md) — related
 - [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
 - [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related
+- [Most surveyed job-seeking CS students applied to at least one Big Tech company, with significant subgroup differences in application rates](big-tech-application-rates-subgroup-differences.md) — related
+- [Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply](minority-act-on-ethical-concerns-job-applications.md) — related

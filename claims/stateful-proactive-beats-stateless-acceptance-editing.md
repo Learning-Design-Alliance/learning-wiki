@@ -64,3 +64,4 @@ The same controlled simulation across 16 writing domains shows the domain contra
 ## Related Claims
 - [Acceptance rates increase with writing progress, with the L2-over-L1 advantage widening in later stages](acceptance-increases-with-writing-progress.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
+- [No single control-timing paradigm dominates across subjective measures: eight of ten questionnaire items show no significant differences between paradigms](no-single-paradigm-dominates-subjective-ratings.md) — related

@@ -43,4 +43,8 @@ Gerry Stahl. (2013). Learning across levels. Computer-Supported Collaborative Le
 
 
 ## Related Claims
--
+- [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](pbl-skills-interpersonal-problem-solving-group.md) — related
+- [A dynamic geometry model of the quilt problem helped an informal educator understand its spatial relations](geometry-software-model-helped-informal-educator-understand-spatial-relations.md) — related
+- [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
+- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
+- [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related

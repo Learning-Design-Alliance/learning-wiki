@@ -52,3 +52,7 @@ The review reports meta-analyses of SRL training programmes (citing de Boer et a
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
+- [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — a broader claim this one bears on
+- [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
+- [Review evidence: students' SRL improves from cognitive-approach PD interventions only when students themselves participate, not when only their teachers are trained](student-srl-improves-only-with-direct-student-intervention.md) — related
+- [Feedback in course design predicts larger SRL training effects for metacognitive strategies, resource management strategies, and motivation](feedback-moderates-srl-training-effects.md) — a narrower finding that bears on this claim

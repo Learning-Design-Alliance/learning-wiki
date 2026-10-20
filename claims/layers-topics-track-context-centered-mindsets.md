@@ -53,3 +53,4 @@ Topic-prevalence analysis of Layers responses (N = 7,429 sentence rows) against 
 - [IDC's interest cycle requires educators to treat interests as launching points for deeper immersion, not static topics](interest-cycle-triggering-immersing-extending.md) — related
 - [Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it](students-perceive-statistics-as-neutral-subject.md) — related
 - [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
+- [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md) — related

@@ -47,3 +47,5 @@ Quantitative finding from the mixed methods study: overall acceptance of both so
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related
 - [Group-by-cycle interactions were significant for diagnostic accuracy, comprehension, revision quality, and self-assessment accuracy, but not for actionability](group-cycle-interactions-formative-outcomes.md) — related
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
+- [Diagnostic Review reflection records contained fewer misunderstanding codes and higher reflection quality than Control follow-up records](reflective-uptake-fewer-misunderstandings.md) — related

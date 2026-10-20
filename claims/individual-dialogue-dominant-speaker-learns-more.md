@@ -48,3 +48,4 @@ The authors' theoretical interpretation of dialogue patterns, offered as an expl
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Students interpreted discourse visualisation accurately and expressed motivation to contribute more to rank highly](students-interpret-visualisation-and-motivated-to-contribute.md) — related
+- [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related

@@ -46,3 +46,5 @@ Controlled within-subjects laboratory experiment with 50 undergraduates, each le
 - [One-level and two-level external disequilibrium conditions did not differ significantly, and all Modal Level advances occurred to exactly one level above the subject's mode](one-step-advance-regardless-of-discrepancy-size.md) — related
 - [The testing benefit for map learning holds under both quadrant-based and relative-position-based scoring, liberal and stringent](testing-benefit-all-four-scoring-procedures.md) — related
 - [Field-independent subjects more accurately reconstruct spatial arrays than field-dependent subjects](field-independent-better-map-feature-placement.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related

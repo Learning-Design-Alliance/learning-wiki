@@ -51,3 +51,4 @@ ANOVA comparing six learning style groups (n=410) on the four-dimension Epistemo
 - [Preservice teachers' reflective thinking tendencies differ statistically by learning style in all seven dimensions](reflective-thinking-differs-by-learning-style.md) — related
 - [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
 - [Independent-style preservice teachers score higher on open-mindedness than avoidant, collaborative, and competitive styles](independent-style-higher-open-mindedness.md) — a narrower finding that bears on this claim
+- [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related

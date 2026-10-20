@@ -82,3 +82,8 @@ Bradley-Terry model fit to all 801 decisive blind comparisons over the eight ver
 - [LLM graders show model-specific precision/recall trade-offs, so a single metric is insufficient to judge grading quality](llm-grader-precision-recall-tradeoffs-single-metric-insufficient.md) — related
 - [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
+- [GPT-4.1-Mini with back-translation matches the best LLM-judge (GPT-5) at 10.3x lower evaluation cost](gpt-4-1-mini-backtranslation-matches-frontier-judge-cost.md) — related
+- [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
+- [No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures](no-difference-gpt35-turbo-claude3-opus.md) — related
+- [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related
+- [Hierarchical Acceptance Rate aligns with expert acceptance decisions better than single-dimension and holistic LLM judges](har-outperforms-llm-judge-acceptance-alignment.md) — related

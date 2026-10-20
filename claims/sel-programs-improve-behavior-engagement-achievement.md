@@ -77,3 +77,7 @@ The review reports this meta-analysis of longer-term SEL effects as evidence of 
 - [Well-implemented, well-attended summer programs show positive outcomes in academic, social, and behavioral areas](well-attended-summer-programs-positive-outcomes.md) — a narrower finding that bears on this claim
 - [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md)
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — a narrower finding that bears on this claim
+- [Research on summer programs addresses their implementation, design, and efficacy for literacy, math, and social-emotional learning outcomes](summer-programs-research-implementation-design-efficacy.md) — related
+- [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related
+- [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](sel-constructs-predict-long-term-achievement-attainment.md) — a narrower finding that bears on this claim
+- [A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates](sel-meta-analysis-graduation-increases.md) — related

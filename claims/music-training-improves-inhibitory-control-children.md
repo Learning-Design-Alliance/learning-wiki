@@ -77,3 +77,5 @@ The review reports the Alemán et al. (2017) randomized trial of El Sistema in V
 ## Related Claims
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
 - [The review concludes music training has a beneficial effect on core executive function performance, primarily in inhibitory control and to a lesser extent in working memory and cognitive flexibility](review-concludes-music-training-benefits-core-executive-functions.md) — related
+- [In adolescents, prior music training was associated with faster test completion times but no executive function performance differences](music-training-adolescents-faster-completion-times.md) — related
+- [Music training shows mixed effects on cognitive flexibility: positive in some preschool DCCS studies, null in ten others](music-training-cognitive-flexibility-mixed.md) — related

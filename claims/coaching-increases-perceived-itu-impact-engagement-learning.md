@@ -47,3 +47,4 @@ Year 2 DLP teacher post-survey contrast of coached versus non-coached teachers o
 - [Coached teachers report more frequent impactful technology use practices developing student skills](coaching-increases-impactful-technology-use-practices.md) — related
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
+- [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related

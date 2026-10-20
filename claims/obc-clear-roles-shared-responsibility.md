@@ -47,3 +47,5 @@ Cohort learning reported from the qualitative interview study of the first edtec
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
 - [Providers gained super users of their products and learnings for product design and effective implementation support through OBC engagement.](obc-provider-super-users-product-learning.md) — related
 - The current learning ecosystem serving frontline workers is siloed and does not support the flow of data between stakeholders or workers — related
+- [Lack of pricing transparency in the edtech market made OBC pricing decisions challenging, with pricing varying up to 40% between districts.](edtech-pricing-transparency-challenges-obc.md) — related
+- [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related

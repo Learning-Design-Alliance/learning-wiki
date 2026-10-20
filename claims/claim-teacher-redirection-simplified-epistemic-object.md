@@ -45,3 +45,5 @@ On-site observational finding about the Sunny team reported in the Findings sect
 ## Related Claims
 - [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — related
 - [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](claim-3d-modeling-task-halted-engineering-practices.md) — related
+- [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — related
+- [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — related

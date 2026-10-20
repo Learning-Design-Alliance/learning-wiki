@@ -103,3 +103,7 @@ A systematic review evaluating ten learning techniques against generalisability,
 - [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
 - [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related
+- [Students in active learning environments learned more but felt they learned less, mistaking mental effort for failure](active-learning-felt-learning-paradox.md) — related
+- [A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — related
+- [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related
+- [Neither rereading nor self-explanation changed comprehension test performance itself; effects were specific to monitoring accuracy](monitoring-effects-without-test-performance-gains.md) — related

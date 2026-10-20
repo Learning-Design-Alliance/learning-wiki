@@ -64,3 +64,11 @@ A cited study reported in the review found highly rated principals reduced teach
 ## Related Claims
 - [Working conditions, especially accountability pressures and administrative support, shape teachers' decisions to leave or stay](working-conditions-drive-teacher-exit-decisions.md) — a broader claim this one bears on
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — related
+- [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — related
+- [Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree](administrative-support-strongest-turnover-predictor.md) — related
+- [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
+- [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
+- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](merit-award-winners-increased-principal-exit.md) — related
+- [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave teaching than comprehensively prepared teachers](underprepared-teachers-leave-at-2-3-times-rate.md) — related

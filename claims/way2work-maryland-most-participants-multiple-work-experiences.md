@@ -49,3 +49,6 @@ Implementation evaluation reporting on participants' service use in the Way2Work
 - [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](way2work-increased-vr-agency-engagement.md) — related
 - [The vocational rehabilitation agency and the University of Maryland implemented the Way2Work Maryland model as designed, and participants received the model services as intended](way2work-maryland-implemented-as-designed.md) — a broader claim this one bears on
 - [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](way2work-no-employment-expectation-effects.md) — related
+- [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
+- [LLC produced large impacts on service use in the two years after enrollment, particularly services the program intended to offer](llc-large-impact-service-use-two-years.md) — related
+- [Participants reported satisfaction with selected Way2Work Maryland service components](way2work-participant-satisfaction-service-components.md) — related

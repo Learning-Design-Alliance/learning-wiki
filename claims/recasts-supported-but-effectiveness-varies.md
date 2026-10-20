@@ -87,3 +87,5 @@ Lyster and Saito (2010), a meta-analysis of 15 classroom studies, supports recas
 - [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
 - [Recasts were provided more predominantly than prompts and explicit correction in both French immersion and Japanese immersion elementary classrooms](recasts-predominate-over-prompts-explicit-correction-immersion.md) — related
 - [Effectiveness of pedagogical tools depends on learners' initial grasp of the object of learning (aptitude–treatment interaction)](tool-effectiveness-depends-initial-grasp.md) — related
+- [The study compared feedback-uptake relationships across two immersion settings totaling 18.3 hr of French and 14.8 hr of Japanese classroom interaction](comparative-feedback-analysis-french-japanese-immersion-hours.md) — related
+- [CF effectiveness is mediated by multiple variables, including linguistic targets and learners' age](cf-effectiveness-mediated-by-linguistic-targets-and-age.md) — related

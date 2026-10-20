@@ -47,3 +47,8 @@ Experiment 4 between-participants comparison (42 subjective-uncertainty, 56 curi
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md) — related
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
+- [Yes/no feedback that one was wrong increased curiosity selectively for high-confidence errors, leaving curiosity about low-confidence errors largely unchanged](yes-no-feedback-high-confidence-errors-increase-curiosity.md) — related
+- [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
+- [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related
+- [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — reports the opposite

@@ -51,3 +51,4 @@ Figure 2 of the brief, using California Department of Education DataQuest absent
 - Chronic absenteeism roughly doubled nationwide to about 16 million students after the pandemic — related
 - [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related
 - [Absenteeism severity varies by grade level, peaking in kindergarten, middle school, and 12th grade](absenteeism-severity-grade-level-pattern.md) — related
+- [By 2021–22, 36 percent of English learners were chronically absent versus 30 percent of students overall, reversing a prepandemic attendance advantage](english-learners-36-percent-chronically-absent-2021-22.md) — related

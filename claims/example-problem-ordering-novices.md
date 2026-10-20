@@ -46,3 +46,4 @@ Narrative review reporting van Gog et al. (2010), which compared examples-only, 
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — possibly the same claim (merge candidate)
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — a broader claim this one bears on
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — related
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — a broader claim this one bears on

@@ -47,3 +47,8 @@ The review's own synthesis statement about its body of reviewed experiments. It 
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a narrower finding that bears on this claim
 - [Supplemental computer-based spaced repetition activities nearly triple long-term vocabulary retention in EFL students compared with conventional instruction alone](spaced-repetition-supplement-triples-vocabulary-retention.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related
+- [Schools using the ASSISTment formative assessment platform significantly outperformed matched schools on the state mathematics test](assistment-schools-outperformed-matched-schools.md) — related
+- [Cognitive Tutor® Algebra I shows no discernible effects on general mathematics achievement for secondary students](cognitive-tutor-algebra-i-no-discernible-general-math.md) — reports the opposite
+- [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant](drl-benefits-high-prior-knowledge-students.md) — related

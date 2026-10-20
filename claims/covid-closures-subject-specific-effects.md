@@ -53,3 +53,4 @@ Review synthesis across the eleven included studies. The review reports medians 
 - The learning-loss estimates are robust to restricting the sample to constant schools, adding school fixed effects, and coarsened exact matching — related
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](covid-closures-younger-students-more-affected.md) — related
 - [Learning loss showed little evidence of differing by sex, school grade, subject, or prior performance](learning-loss-no-difference-sex-grade-subject-prior-performance.md) — related
+- [Most New York charter schools reported decreases in learning time across subjects during closure, with low prior reading proficiency associated with larger ELA/Reading time losses](learning-time-decreases-proficiency-moderation.md) — related

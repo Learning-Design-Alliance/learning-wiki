@@ -44,3 +44,4 @@ The editorial reports a university test of AI browsers on Canvas assessments, ci
 
 ## Related Claims
 - [An AI browser's refusal on academic integrity grounds was bypassed with a single unverified claim of instructor status](comet-integrity-refusal-bypassed.md) — related
+- [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on

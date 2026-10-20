@@ -44,3 +44,4 @@ The authors state this caution in their considerations section, reporting that t
 - The principals' personal ethic of care, rooted in motherhood, transferred to their professional leadership roles — related
 - [Agentic engagement with lively data supports epistemically just crisis sensemaking](lively-data-and-agentic-positions-support-epistemically-just-crisis-sensemaking.md) — related
 - Ethical considerations are a sidelined research theme, addressed by only seven of 183 publications, mostly on stereotype perpetuation by generative AI — related
+- [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related

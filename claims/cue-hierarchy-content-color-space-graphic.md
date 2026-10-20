@@ -65,3 +65,5 @@ Proportions of feature mentions across all judgment explanations: direction 25.7
 - [Color, especially green for arguments in favor and red for arguments against, is widely used by producers to categorize for and against arguments](color-green-red-separate-for-against-arguments.md) — related
 - [Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text](reading-position-judgments-cue-conditions.md) — related
 - [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](self-assessments-more-accurate-than-comprehension-judgments.md) — related
+- [No credible spacing or color cue effects on the BKT learning rate were observed in the perceptual-cue reanalysis](no-credible-cue-effects-learning-rate.md) — related
+- [In a perceptual-cue intervention reanalysis, incongruent spacing and incongruent color conditions were associated with reduced guessing relative to neutral conditions](incongruent-perceptual-cues-reduce-guessing-bkt.md) — related

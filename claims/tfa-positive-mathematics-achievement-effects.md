@@ -65,3 +65,4 @@ This is a systematic review synthesis (WWC Intervention Report, mathematics achi
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
 - [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — reports the opposite
+- [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — a narrower finding that bears on this claim

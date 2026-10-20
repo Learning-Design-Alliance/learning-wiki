@@ -56,3 +56,4 @@ The guide asserts, in its Paradigm of Safety section, that "Attempts to bring sa
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
 - [District leaders filtered student and community voices through their own perspectives, so neither district fully removed security personnel despite calls to end policing in schools](leaders-filter-community-voices-security-retained.md) — related
+- [Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use](security-cameras-and-metal-detectors-lack-safety-evidence.md) — a narrower finding that bears on this claim

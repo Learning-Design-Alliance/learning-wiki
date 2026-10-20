@@ -46,3 +46,4 @@ Cross-sectional comparison of examinee RIT scores to item difficulties (Table 4.
 - [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
 - [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — related
 - [Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms](spanish-math-item-difficulty-discrimination-stable.md) — related
+- [Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items](spanish-reading-item-statistics-stable.md) — related

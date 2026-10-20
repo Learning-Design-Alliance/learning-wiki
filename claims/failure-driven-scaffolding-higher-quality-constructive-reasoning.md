@@ -48,3 +48,4 @@ In the same classroom intervention (N = 221), the failure-driven scaffolding con
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
+- [Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school](early-math-exposure-supports-reasoning-and-later-success.md) — related

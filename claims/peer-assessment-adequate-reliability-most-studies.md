@@ -66,3 +66,7 @@ The review's summary of its 31 reliability/validity studies: a majority support 
 - [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related
 - [Peer assessment through tests, marks, and grades produces learning gains and reduced anxiety, with most participants reporting learning benefits](peer-marks-tests-learning-gains.md) — related
 - [Peer assessment of professional skills shows adequate reliability including in medicine, with outcomes generally at least equivalent to teacher assessment](peer-professional-skills-reliability-outcomes.md) — a narrower finding that bears on this claim
+- [Grading students on the quality of their reviews rather than on peer-assessed marks reduced tensions and improved student-instructor mark correlations](grading-review-quality-reduces-tensions-improves-correlations.md) — related
+- [Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes](peer-assessment-valid-exact-science-exams.md) — a narrower finding that bears on this claim
+- [Peer assessment of writing yields outcomes at least as good as teacher assessment and sometimes better](peer-writing-assessment-as-good-as-teacher.md) — related
+- [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](peerscholar-accountability-improves-expert-peer-correlation.md) — a narrower finding that bears on this claim

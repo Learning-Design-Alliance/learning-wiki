@@ -50,3 +50,5 @@ Cohort technical findings on speech detection, reported in Table 5. Projects suc
 - [CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals](cobi-technical-feasibility-classrooms.md) — related
 - [In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers](hmm-timing-outperforms-fixed-and-dwell-triggers.md)
 - [Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time](students-recommend-chatgpt-suggest-improvements.md) — related
+- [Across 28 K-12 AI pilot projects, AI demonstrated success at categorizing and coding datasets, translating language, and triangulating qualitative findings with quantitative data](ai-success-coding-datasets-translation-triangulation.md) — related
+- [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — reports the opposite

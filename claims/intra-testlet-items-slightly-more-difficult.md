@@ -45,3 +45,6 @@ Descriptive item-difficulty comparison across the midterm and final exams, where
 ## Related Claims
 - [IF-AT-scored physics midterm and final exams yield good test reliability (α = 0.71 and 0.82; α50 = 0.86 and 0.90)](if-at-exams-good-reliability.md) — related
 - [An item positioned later in one booklet was found more difficult by that booklet's test takers, attributed to fatigue effect](later-position-item-more-difficult-fatigue-effect.md) — related
+- [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
+- [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related

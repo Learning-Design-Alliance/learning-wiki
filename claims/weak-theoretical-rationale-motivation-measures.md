@@ -45,3 +45,4 @@ Systematic review quality assessment: the review reports that 19 studies explici
 ## Related Claims
 - [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related
 - [ARCS motivation did not significantly predict behavioral intention but exerted a strong direct effect on use behavior, dominating its explanation](arcs-motivation-drives-use-behavior-not-intention.md) — related
+- [University learners of Italian in two surveys report ideal-self motivation rather than instrumental motivation; a contrast with their teachers' view is reported but not confirmed in the text read.](italian-l2-motivation-is-ideal-self-not-instrumental.md) — related

@@ -55,3 +55,7 @@ Perception finding from interviews with central office administrators and school
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
 - [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Strong leadership is central to rapid school improvement, per the article's summary of research](leadership-central-rapid-school-improvement.md) — related
+- [School leaders should be viewed and trained as instructional leaders](school-leaders-as-instructional-leaders.md) — related
+- [Time constraints, student attendance, and slow central-office approval of Statements of Work were the major implementation barriers reported by coordinators, principals, and vendors](coc-implementation-barriers-time-attendance-sow.md) — related
+- [Teachers give the most negative impact ratings to distant governance bodies: state policy (32 percent positive), subdistricts (30 percent), and central office (27 percent)](external-governance-bodies-rated-negatively.md) — related

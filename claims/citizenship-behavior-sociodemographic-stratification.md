@@ -70,3 +70,5 @@ The review reports, citing Bukowski et al. (2017, 2020), that low-SES children "
 - [Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth](warmth-trajectory-classes-elementary.md) — related
 - [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
+- [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
+- [In the early intervention sample, boys increased more in aggression than girls, but intervention effects did not differ by gender](gender-aggression-increase-no-treatment-difference.md) — related

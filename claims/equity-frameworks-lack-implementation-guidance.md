@@ -44,3 +44,6 @@ The article reports this second-hand, attributing it to the National Collaborati
 
 ## Related Claims
 - [In the Jeremy's Journal simulation, Equality-mindset participants more often cited school policy while Equity-mindset participants prioritized the student's health](jeremy-journal-topics-track-equality-equity-mindsets.md) — related
+- [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
+- [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — a broader claim this one bears on

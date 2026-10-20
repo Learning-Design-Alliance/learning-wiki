@@ -45,3 +45,5 @@ Quantitative portion using administrative data from 2008-09 through 2016-17 for 
 
 ## Related Claims
 - [School closures had no effect on absence or suspension rates for students in closed or welcoming schools](closures-no-effect-absences-suspensions.md) — related
+- [Welcoming-school students transferred out at higher-than-expected rates just before the merger, driven exclusively by the 14 welcoming schools that had to relocate into closed-school buildings](welcoming-school-mobility-spike-relocating-schools.md) — related
+- [Displaced students changed schools a second time at roughly twice the rate of comparison students during the first year and the following summer](elevated-subsequent-mobility-after-displacement.md) — related

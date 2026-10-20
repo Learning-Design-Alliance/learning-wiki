@@ -50,3 +50,5 @@ CATPCA in SPSS version 24 on the coded openness components of the 594 analyzed u
 - [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](social-openness-components-less-followup.md)
 - [At the discourse-act level, notes expressing uncertainty are associated with more follow-up and notes open on community orientation with less, and notes lacking building-knowledge openness receive less follow-up](uncertainty-discourse-act-more-followup.md)
 - [Context characteristics (community type, trimester, teacher-student role) have little impact on openness; teachers contribute more social openness and receive less follow-up](context-effects-on-openness-and-teacher-followup.md)
+- [Student blogging supports transactive building and emergent common knowledge in a persistent community blogosphere](blogging-transactive-community-blogosphere.md) — related
+- [Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic](dialogue-codes-three-component-pca-solution.md) — related

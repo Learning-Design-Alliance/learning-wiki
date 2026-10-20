@@ -44,3 +44,4 @@ Chi-square test reported in the 30-participant user study comparing adoption int
 
 ## Related Claims
 - [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related
+- [Gender does not moderate AI adoption among Gen Z university students](gender-no-impact-gen-z-ai-adoption.md) — related

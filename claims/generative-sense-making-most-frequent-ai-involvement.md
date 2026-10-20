@@ -45,3 +45,4 @@ Structured classroom observation of 27 lower secondary students across six sessi
 ## Related Claims
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — related
 - [Observed AI-mediated interpretive episodes distribute across three developmental trajectories — AI-dependent (35.71%), AI-enhanced (38.10%), and AI-critical (26.19%) — with fully critical engagement least frequent](three-developmental-trajectories-episode-distribution.md) — related
+- [Generative AI makes knowledge mobilizable, converting external knowledge into immediately usable task output within seconds](generative-ai-makes-knowledge-mobilizable.md) — related

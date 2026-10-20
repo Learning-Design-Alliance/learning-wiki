@@ -69,3 +69,5 @@ National Education Longitudinal Study of 1988 panel of 17,224 students in roughl
 - [Family engagement typically declines from elementary to middle school for several identified reasons](family-engagement-declines-elementary-to-middle.md) — a broader claim this one bears on
 - [The relationships among perceived parental involvement in homework, student homework behaviors, and academic achievement differ among elementary, junior high, and high school students.](parental-homework-involvement-homework-behaviors-achievement-grade-differences.md) — related
 - [Chicago public high school seniors do considerably less homework than high school seniors nationally](cps-seniors-less-homework-than-national.md) — related
+- [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — related
+- [Nearly half of Chicago eighth graders and more than a third of tenth graders rate their classes as disruptive or very disruptive, and teachers corroborate frequent disruption](chicago-classroom-disruption-widespread.md) — related

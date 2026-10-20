@@ -44,3 +44,4 @@ Teacher review records summarized by group and cycle across the three writing cy
 - [The Diagnostic Review class scored higher on diagnostic accuracy, actionability, comprehension, revision quality, and self-assessment accuracy across all three cycles](diagnostic-review-higher-process-indicators.md) — related
 - [The Diagnostic Review class gained more writing points across three cycles than the Control class (Hedges' g = 1.12)](diagnostic-review-larger-writing-gains.md) — related
 - [AI-teacher diagnostic agreement was higher in the Diagnostic Review class and varied by issue type, with local language issues best diagnosed](ai-teacher-agreement-issue-type-variation.md) — related
+- [Diagnostic Review revisions contained larger shares of meaning-change, organization, and content/argument work, while Control revisions remained more dependent on surface-level editing](revision-architecture-meaning-change-versus-surface.md) — related

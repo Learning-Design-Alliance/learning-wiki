@@ -52,3 +52,5 @@ Structural equation model of survey and telephone recall data from 119 undergrad
 - [Dispositional performance goals negatively predict memory self-efficacy in younger and older adults](performance-goals-predict-lower-memory-self-efficacy.md) — related
 - [Age negatively and education positively predict memory self-efficacy, and age negatively predicts memory performance](age-education-predict-memory-self-efficacy-and-performance.md) — related
 - [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — a broader claim this one bears on
+- [In a cross-sectional model of adults, memory self-efficacy is positively associated with memory performance and carries a significant indirect path from learning goals and a marginal one (p = .07) from performance goals](memory-self-efficacy-predicts-performance-mediation.md) — related
+- [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related

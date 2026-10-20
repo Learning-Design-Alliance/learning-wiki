@@ -45,3 +45,6 @@ Background battery (PPVT, animal span, sequencing span, Corsi blocks, trail-maki
 ## Related Claims
 - [Bilingual children in Canada and India perform equivalently, supporting bilingualism rather than culture or immigration as the advantage's source](bilingual-advantage-generalizes-across-two-cultures.md) — related
 - [Controlling for SES, monolingual children outperform both simultaneous and sequential bilinguals on single-language English receptive and expressive vocabulary measures](monolinguals-outperform-bilinguals-single-language-english-vocabulary.md) — related
+- [DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so](dll-catch-up-over-time.md) — related
+- [Bilingual children solve the Sky Search selective attention task faster than monolinguals across the studies using it](bilingual-faster-sky-search-selective-attention.md) — related
+- [Bilingual 8-year-olds are more accurate than monolingual 8-year-olds on a computerized spatial perspective-taking task](bilingual-advantage-spatial-perspective-taking.md) — related

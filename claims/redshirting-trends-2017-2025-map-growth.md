@@ -44,3 +44,4 @@ An observational analysis of national MAP Growth K-2 assessment records covering
 
 ## Related Claims
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
+- [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](redshirted-cohort-third-grade-outcomes.md) — related

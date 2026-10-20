@@ -47,3 +47,4 @@ Independent-samples t-tests (alpha .05) compared all contributors per category, 
 - [Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge](danmaku-tacit-versus-board-explicit-knowledge-sharing.md) — related
 - [Danmaku hosts mass participation as a continuous collective flow while the discussion board divides learners into threaded small groups](danmaku-collective-flow-vs-threaded-small-groups.md) — related
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
+- [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](mass-participation-depends-on-tools.md) — related

@@ -48,3 +48,4 @@ Narrative review summarizing the Hunter-Schmidt meta-analytic tradition in indus
 ## Related Claims
 - [Meta-analyses reveal little or no systematic relation between age and job performance, with a meta-analytic correlation of 0.06](age-job-performance-null-meta-analysis.md) — related
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
+- [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md) — related

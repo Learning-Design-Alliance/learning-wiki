@@ -84,3 +84,4 @@ The cognition-based motivations sub-analysis included 116 effect sizes from 16 s
 - [Cognitive engagement did not emerge as the strongest predictor of any correlate, leaving its specialized function ambiguous](cognitive-engagement-no-specialized-relation.md) — related
 - [Relative weights analysis identifies behavioral engagement for achievement, agentic for social support, and emotional for motivation and well-being](relative-weights-engagement-correlates.md) — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
+- [Emotional engagement is the strongest predictor of student well-being](emotional-engagement-strongest-predictor-well-being.md) — related

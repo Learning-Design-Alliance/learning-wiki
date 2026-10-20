@@ -45,3 +45,6 @@ The report's introductory rationale asserts, without presenting data on this pag
 ## Related Claims
 - Before this study, no focused studies demonstrated what faculty mentors and advisors do to promote research integrity — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related

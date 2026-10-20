@@ -70,3 +70,6 @@ The review summarises the authors' separate cross-sectional study (Hertzog, Sinc
 - [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related
 - [Judgments of learning are higher for easy than difficult items at all ages and increase with age, confirming the difficulty manipulation aligned with subjective difficulty](jol-difficulty-and-age-effects.md) — related
 - [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related
+- [FOK resolution for general-knowledge information is similar for younger and older adults, whereas the literature argues for a deficit in FOK resolution for episodic memory tasks in older adults](fok-resolution-generalknowledge-spared-episodic-mixed.md) — related
+- [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — a narrower finding that bears on this claim
+- [Metacognitive awareness of VSTM performance becomes less accurate with age but remains well above chance across the adult life span](metacognitive-accuracy-declines-slightly-with-age.md) — related

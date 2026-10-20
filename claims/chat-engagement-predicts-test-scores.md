@@ -49,3 +49,5 @@ Correlational analysis of over 100,000 learning records from the MAIC pilot, reg
 - [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
 - [Students' participation in preparatory exercises positively predicted their final exam grade in every intervention year (β = 0.16–0.31; R² = 0.03–0.16)](participation-preparatory-exercises-predicts-exam-grade.md) — related
+- [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related
+- [Behavioral-only metrics from an instrumented online textbook support early prediction of final course grades in flipped statistics courses](behavioral-only-early-prediction-flipped-statistics.md) — related

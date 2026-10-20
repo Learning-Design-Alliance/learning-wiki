@@ -46,3 +46,5 @@ The article states this as an attributed proposal (citing Odlin, 2006) about dia
 ## Related Claims
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
 - Writing programs should move decision-making from intuition and chance to conscious, explicit, efficient deciding, at the cost of slower early production — related
+- [EFL instructors were unaware of most OCF strategy types and did not consider students' cognition when deciding on corrective feedback](teachers-unaware-ocf-strategies-cognition-absent.md) — related
+- [Teachers who positioned AI as a partner remained instructional leaders, weaving the tool into rich instruction and using score data to decide what to re-teach](partner-positioning-instructional-leadership.md) — related

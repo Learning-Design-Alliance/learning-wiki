@@ -46,3 +46,4 @@ Post hoc Johnson–Neyman probing of the non-significant interaction (Figures 1�
 - [Post hoc findings question whether all students benefit equally from efforts to foster trait self-control](self-control-fostering-unequal-benefit-questioned.md) — possibly the same claim (merge candidate)
 - [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related
 - [No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores](no-tsc-fluid-reasoning-interaction-achievement.md) — related
+- [Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades](tsc-conscientiousness-overlap-and-comparison.md) — related

@@ -48,3 +48,4 @@ Task-level analysis of the six-model evaluation (Table 7). The most discriminati
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
 - [LLM accuracy on the CDPK pedagogy benchmark ranges from 28% to 89%, with closed-weight reasoning models dominating the top of the leaderboard](cdpk-accuracy-range-28-89-closed-models-lead.md) — related
 - [Frontier LLM prompting strategies cluster at joint integrity scores of 0.81-0.88 while non-frontier references collapse to 0.50-0.55, a 25-31 point capability-tier gap](varia-frontier-nonfrontier-tier-gap.md) — related
+- [Within General Capability, model spread concentrates in competition mathematics (AIME), which dominates the aggregate score](aime-dominates-general-capability-spread.md) — related

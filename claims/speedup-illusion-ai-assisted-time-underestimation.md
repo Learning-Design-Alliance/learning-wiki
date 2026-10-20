@@ -83,3 +83,5 @@ Pre-registered Study 2 (prediction sample N=600, completion sample N=1001 on Pro
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite
 - [Students' actual task selections deviate about half a difficulty level and half a support level from SRLTS model-based selections](selections-deviate-half-level-from-srlts.md) — related
+- [Prior AI use carries over: brief AI exposure increases subsequent AI adoption and exacerbates the speedup illusion, while independent exposure does not reduce AI use](ai-exposure-carryover-effect.md) — related
+- [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related

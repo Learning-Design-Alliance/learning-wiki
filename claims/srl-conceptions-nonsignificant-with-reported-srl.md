@@ -45,3 +45,7 @@ SEM path analysis (N = 98); the path from conceptions of self-regulated learning
 ## Related Claims
 - [Conceptions of knowledge construction showed no significant relationships with students' reported regulation strategies](knowledge-construction-conceptions-no-regulation-relationships.md) — related
 - [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — related
+- [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md) — related
+- [Students who doubt their own learning capacity are at risk of adopting an inadequate lack-of-regulation strategy](self-perceived-inability-predicts-lack-of-regulation.md) — related
+- [A three-tiered conceptual-controlling-operational structure is fully valid for MSLQ variables but only partially for ILS variables](three-tier-structure-mslq-complete-ils-partial-mediation.md) — related
+- [Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities](conceptions-diverge-from-srl-activities.md) — possibly the same claim (merge candidate)

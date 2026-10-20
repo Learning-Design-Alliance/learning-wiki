@@ -69,3 +69,6 @@ Fairness analysis across gender and free or reduced-price lunch status found "no
 - Fine-tuned GPT-4o-mini delivers equitable name-detection performance across cultural and gender groups, reducing cultural biases present in baseline models — related
 - GPT-4 classifies self-affirmation essays reasonably in zero-shot mode but below fine-tuned BERT, and few-shot prompting does not appreciably improve it — related
 - [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related
+- [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — related
+- [The naive Bayes model achieved the highest precision (0.75) for ethnic bias detection on the test set](naive-bayes-highest-precision-bias-detection.md) — related
+- [Conventional classifiers and MentalBERT depend heavily on explicit mental health terms in Expressive Narrative Stories, while BERT(128) maintains robust accuracy without keyword cues](ens-classifiers-depend-on-explicit-terms.md) — related

@@ -45,3 +45,4 @@ Re-analysis of Rau et al.'s (2017) study comparing sense-making-first versus flu
 ## Related Claims
 - [Across two studies that differed in the duration of the initial problem-solving phase, the PS-I versus WS-I transfer advantage reversed](ps-phase-duration-reverses-ps-i-ws-i-transfer.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [Across studies, high solution rates in the initial problem-solving phase co-occur with beneficial PS-I effects and low rates with no beneficial effects, a cross-study pattern not yet tested in a shared sample](solution-rate-moderates-ps-i-benefits.md) — related

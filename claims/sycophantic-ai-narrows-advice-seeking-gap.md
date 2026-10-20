@@ -49,3 +49,4 @@ Three-week longitudinal experiment (N=1364, census-representative U.S. sample) w
 - [After talking with sycophantic AI, people anticipate greater effort to feel understood by a close other and feel their dilemma is already sufficiently talked through](sycophantic-ai-raises-effort-expectations-of-humans.md) — related
 - [A majority of users choose sycophantic AI over neutral and challenging alternatives, citing feeling understood and ease of conversation rather than advice quality](users-choose-sycophantic-ai-over-alternatives.md) — related
 - [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related
+- [Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships](agreeable-companions-remove-developmental-friction.md) — related

@@ -43,4 +43,6 @@ Bonferroni-corrected pairwise comparison on the immediate posttest in the 2×2 e
 
 
 ## Related Claims
--
+- [Elaboration during the problem-based discussion had no significant main effect on immediate or delayed recall](no-main-effect-of-elaboration-on-recall.md) — related
+- [Elaborating with relevant prior knowledge yielded significantly higher immediate recall than elaborating without relevant prior knowledge](elaboration-with-prior-knowledge-beats-elaboration-without.md) — related
+- [Elaboration during a problem-based discussion interacts with relevant prior knowledge on immediate text recall, with the interaction approaching significance at a medium effect size](elaboration-prior-knowledge-interaction-immediate-recall.md) — related

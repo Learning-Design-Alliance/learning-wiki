@@ -71,3 +71,7 @@ The review attributes this long-term-use finding to Huang et al. (2024), and sep
 - [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — related
 - [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](anthropomorphism-no-clear-effect-autonomy-agency.md) — related
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
+- [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — related
+- [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — related
+- [Degree of anthropomorphism attributed to the agent was shaped by both interaction modality and, within audio conditions, voice accent](anthropomorphism-shaped-by-modality-and-accent.md) — related
+- [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](robot-exposure-mixed-direction-autonomy-agency.md) — related

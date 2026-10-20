@@ -49,3 +49,4 @@ Thematic synthesis of 19 included K–12 mathematics studies; the review reports
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](teacher-dbdm-use-increases-dls-effectiveness.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Students with high initial performance profit more from area-specific practice while students with low initial performance profit more from general practice](initial-performance-moderates-practice-type-benefit.md)
+- [Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning](covid-closures-achieving-level-differential-effects.md) — related

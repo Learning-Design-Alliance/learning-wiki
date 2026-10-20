@@ -46,3 +46,4 @@ Handwriting quality was rated with the Lorenzini Dysgraphia Scale (dysgraphia at
 - [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related
 - [No significant difference was found between grade groups in the classification distribution of VMI, VP and MC performance levels](no-group-difference-performance-classification.md) — related
 - [Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5](nonlinear-grade-progression-visomotor-skills.md) — related
+- [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related

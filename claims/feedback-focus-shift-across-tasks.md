@@ -45,3 +45,4 @@ Independent-samples t-test on second-task feedback items per student in the two 
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
 - [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — reports the opposite
 - [Epistemic network analysis linked the PS-GenAI-PF group to negative emotions and higher-order feedback content associations](ena-ps-genai-pf-negative-emotions-higher-order-content.md) — related
+- [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related

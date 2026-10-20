@@ -53,3 +53,4 @@ Trend statement from the report's key findings comparing the 9th-grade on-track 
 - [9th-grade on-track NSI improved GPA by about 0.11 points on a 4-point scale](9th-grade-on-track-nsi-gpa-improvement.md) — related
 - [College-ready on-track NSI did not impact GPA, advanced course taking, math and ELA test scores, graduation, or college enrollment](college-ready-on-track-nsi-null-outcomes.md) — related
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
+- [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](9th-grade-on-track-nsi-pass-rates-suspension.md) — related

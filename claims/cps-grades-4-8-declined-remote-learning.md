@@ -49,3 +49,4 @@ Descriptive analysis of fourth-quarter course grades for grades 4-8 students in 
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — reports the opposite
 - Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
+- [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](attendance-predictive-of-grades-remote-learning.md) — related

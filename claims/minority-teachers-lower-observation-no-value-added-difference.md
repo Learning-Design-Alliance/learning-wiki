@@ -51,3 +51,4 @@ Analysis of 2013-14 REACH scores by teacher race/ethnicity, adjusted for the sch
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
 - [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related
+- [Teachers with the lowest value-added and observation scores are overrepresented in schools serving the most disadvantaged students](lowest-scoring-teachers-overrepresented-in-highest-poverty-schools.md) — related

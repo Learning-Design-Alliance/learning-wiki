@@ -45,3 +45,4 @@ Exploratory analysis in the N = 131 experiment correlated learners' ratings with
 ## Related Claims
 - [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
+- [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — a broader claim this one bears on

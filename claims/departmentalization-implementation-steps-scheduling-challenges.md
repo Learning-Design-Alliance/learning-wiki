@@ -45,3 +45,4 @@ The report's key findings state that in the study of 90 schools switching to or 
 ## Related Claims
 - [Departmentalized elementary teachers' experiences matched some, but not all, hypothesized benefits and challenges of departmentalized instruction](departmentalized-teacher-experiences-partial-consistency.md) — related
 - [The effects of departmentalized instruction on student achievement and teacher retention remain unclear](departmentalization-effects-achievement-retention-unclear.md) — related
+- [Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach](one-in-six-elementary-teachers-linked-to-untaught-subject.md) — related

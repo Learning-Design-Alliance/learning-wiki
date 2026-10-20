@@ -69,3 +69,8 @@ Conditional effect in the same regression analysis for the control group reading
 - [Completing a think sheet yields higher response-confidence accuracy than reading a refutation text or a standard text with a misconception list](think-sheet-higher-response-confidence-accuracy.md) — related
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related
 - [Misconceptions decreased over time in all three instructional methods, with no difference between methods](misconceptions-decreased-similarly-all-methods.md)
+- [Completing the think sheet more accurately was associated with higher comprehension, transfer, and regulation decision adequacy](think-sheet-quality-relates-outcomes.md) — related
+- [Think sheets counteracted the positive effect of misconceptions on transfer in the control group, though the overall interaction only approached significance](think-sheet-misconception-effect-transfer.md) — related
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related
+- [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](misconception-refutation-conceptual-change-strategies.md) — related
+- [Under reading-only, students with more misconceptions achieved better comprehension, but completing a think sheet removed this effect of misconceptions on comprehension](think-sheet-removes-misconception-effect-comprehension.md) — reports the opposite

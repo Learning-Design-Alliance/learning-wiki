@@ -69,3 +69,4 @@ Dunn's post-hoc comparisons beyond the significant Answer–Combination contrast
 - [Chatbot preference groups differed in total EBAPS and Axis 4/5 scores at the nominal level, with small effect sizes, but not after Bonferroni adjustment](chatbot-preference-ebaps-omnibus-kw-results.md) — related
 - [Combination-preferring students scored higher than answer-preferring students on evolving-knowledge (Axis 4) and source-of-ability (Axis 5) EBAPS dimensions](combination-preferrers-higher-axis4-axis5-scores.md) — related
 - [Students preferring combination-style chatbots had higher total EBAPS scores than students preferring direct-answer chatbots (nominal significance only)](combination-preferrers-higher-total-ebaps-than-answer-preferrers.md) — related
+- [Most introductory physics students preferred a combination chatbot (guidance first, answers when stuck), while few preferred pure guided Q&A](students-prefer-combination-chatbot-over-guided-qa.md) — related

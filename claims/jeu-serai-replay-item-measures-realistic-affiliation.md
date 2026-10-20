@@ -62,4 +62,5 @@ The same analysis found the replay item's highest correlation was with Realistic
 
 
 ## Related Claims
--
+- [In JEU SERAI, questionnaire-like in-game items (diary ordering, mini game ranking, narrative questionnaires) correlated best with RIASEC questionnaire results, while other item types correlated poorly](jeu-serai-item-type-correlation-quality-ranking.md) — related
+- [Enterprising-type items in JEU SERAI did not work correctly, attributed to panel underrepresentation and weak action-verb rationalization](jeu-serai-enterprising-items-failed.md) — related

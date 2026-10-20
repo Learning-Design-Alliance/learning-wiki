@@ -64,3 +64,6 @@ Survey findings on early-admittance TK (ETK), which LEAs may offer at their disc
 ## Related Claims
 - [Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year](california-leas-tk-offering-2023-24.md) — related
 - California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments — related
+- [LEAs steadily expanded TK access, with 94% offering TK and 70% of multi-site LEAs offering TK at all elementary sites in 2024–25](lea-tk-access-expansion-2024-25.md) — related
+- [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](majority-leas-all-sites-full-day-tk.md) — related
+- [Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs](full-day-tk-and-expanded-day-by-lea-size.md) — related

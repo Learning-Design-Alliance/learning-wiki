@@ -46,3 +46,5 @@ Nonparametric Kruskal-Wallis tests comparing L2 participants' (n = 23) reading o
 - [Longer online reading times on unknown words are associated with higher vocabulary recall test scores](longer-reading-times-linked-higher-recall.md) — related
 - [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related
 - [The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process](l1-l2-distinction-rate-not-outcome.md) — related
+- [After eight encounters in reading, L2 learners recognize the form and meaning of unknown words better than they can recall their meaning](eight-encounters-form-meaning-recognition-exceed-recall.md) — related
+- [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md) — related

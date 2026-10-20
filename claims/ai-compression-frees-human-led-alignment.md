@@ -48,3 +48,5 @@ Authors' practitioner claim (core insight) about AI-enabled workflows, presented
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — related
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
+- [Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints](ai-generation-compresses-learning-processes.md) — reports the opposite
+- [Operation Warp Speed illustrates that purpose-built agile R&D structures can compress time-to-impact during systemic disruption](ows-agile-rd-compressed-vaccine-timeline.md) — related

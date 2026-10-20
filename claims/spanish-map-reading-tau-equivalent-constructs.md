@@ -47,3 +47,5 @@ Internal-structure validity analysis (Chapter 8) of goodness-of-fit indices for 
 - [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related
 - [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related
+- [TRC-Spanish is the assessment least correlated with the others, though strongly correlated with TRC-English](trc-spanish-least-correlated-with-other-assessments.md) — related

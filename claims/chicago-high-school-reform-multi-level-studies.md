@@ -44,3 +44,5 @@ This is a descriptive statement from the publication overview about the scope of
 
 ## Related Claims
 - [Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades](cps-math-incremental-reading-flat.md) — related
+- [Teachers and principals report district inflexibility and insufficient support for teacher-led, shared-decision-making leadership in small-school reform](chsri-district-inflexibility-teacher-led-reform.md) — related
+- [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related

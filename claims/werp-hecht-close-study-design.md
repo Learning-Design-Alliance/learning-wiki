@@ -49,3 +49,5 @@ Study characteristics reported in WWC Appendix A1: a quasi-experimental design i
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
 - Waterford Upstart participation shows statistically significant positive effects on early literacy skills in matched quasi-experimental cohorts — related
 - Across two quasi-experimental studies, Istation Reading shows a weighted mean effect size of +0.08, qualifying it for a Promising evidence rating — related
+- [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related
+- [Waterford Early Reading Program™ showed no discernible effects on comprehension, with a small non-significant effect size on vocabulary](werp-no-discernible-comprehension.md) — related

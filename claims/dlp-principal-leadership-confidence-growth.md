@@ -45,3 +45,4 @@ Pre/post survey of principals (90 percent completed both surveys) in the 50 pilo
 ## Related Claims
 - [Coaches reported significantly greater confidence in their coaching skills by year end, rising from 62 to 89 percent rating themselves high or extremely high](dlp-coach-confidence-growth.md) — related
 - [Coaches and principals in the DLP grew in confidence and skills over the year](dlp-coach-principal-growth.md) — related
+- [Direct Instruction schools' ratings rose significantly only when the program was fully supported with training and coaching](direct-instruction-gains-depend-on-implementation-support.md) — related

@@ -56,3 +56,4 @@ Controlled intervention study in inner-city kindergarten classrooms with 84 trea
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — reports the opposite
 - [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related
 - [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — reports the opposite
+- [PA Lessons implementation included testing students with the Phonological Awareness Screener for Intervention every three weeks to target instruction](pa-screener-every-three-weeks-targeting.md) — related

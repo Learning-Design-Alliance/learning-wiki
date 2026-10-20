@@ -46,3 +46,4 @@ The article's abstract attributes this finding to prior research: "significant c
 - [High school course-taking differs substantially among English learners depending on years spent as an EL](course-taking-heterogeneity-by-years-as-el.md) — related
 - [Years-as-EL course-taking differences disappear once eighth-grade test scores are considered](el-course-taking-gaps-explained-by-prior-achievement.md) — related
 - [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — a broader claim this one bears on
+- [English learners lag behind their peers in achievement and attainment; limited exposure to academic content is offered as a partial explanation, not tested](el-lag-limited-academic-content-exposure.md) — related

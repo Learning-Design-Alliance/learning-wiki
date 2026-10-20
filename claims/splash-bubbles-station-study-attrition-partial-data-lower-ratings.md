@@ -66,3 +66,4 @@ Attrition analyses comparing survey responses between partial data (survey only)
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](splash-bubbles-app-section-variability-by-child-age-interest.md) — related
 - [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](splash-bubbles-activities-section-high-ratings-multiple-completion.md) — related
 - [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](splash-bubbles-app-section-use-dive-in-conversation-starters.md) — related
+- [Over 70% of participants in the field and station studies rated the app a 4 or 5 for supporting children's science learning](over-70-percent-rated-app-helpful.md) — related

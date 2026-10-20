@@ -44,3 +44,4 @@ From the PSID-CDS mixed-effects models: "27% of the variation in Forward Digit S
 
 ## Related Claims
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related
+- [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related

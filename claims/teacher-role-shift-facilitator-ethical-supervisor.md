@@ -70,3 +70,7 @@ RQ2 theme establishing the teacher as supervisor and ethicist of AI use. Teacher
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — related
 - [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](teacher-roles-vary-by-orchestration-type.md) — related
+- [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related
+- [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
+- [Blended teaching shifted the teacher's self-identity from facilitator to co-facilitator and co-designer with students](blended-teaching-shifts-identity-to-co-facilitator.md) — related
+- [In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion](dm-four-ethical-tensions.md) — related

@@ -47,3 +47,10 @@ Interview finding from the 25-player subset: participants perceived difficulty a
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — a narrower finding that bears on this claim
 - [The authors concluded transfer of motivational engagement from entertainment gaming to educational contexts was unlikely](gaming-engagement-transfer-to-classroom-unlikely.md)
 - [Players decided to engage in gaming primarily for escapism and fun, social connectivity, and achievement of task-related goals through control](gaming-engagement-decision-factors.md)
+- [Task design balancing challenge and accessibility determines the success of AI-powered collaborative learning environments](task-design-challenge-accessibility-balance-ai-collaborative.md) — possibly the same claim (merge candidate)
+- [In-game willingness to solve hard levels with complex code is positively associated with posttest coding knowledge, controlling for pretest](hards-solved-complex-predicts-posttest.md) — related
+- [EF training demands must keep increasing as children improve, or few gains will be seen](progressive-challenge-ef-training.md) — a broader claim this one bears on
+- [Relative-Hards Solved Complex, a log measure of using complex code on personally difficult levels, predicts time spent on an unsolvable challenge task](relative-hards-solved-complex-predicts-challenge-time.md) — related
+- [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md) — related
+- [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
+- [Learning pitched at the edge of students' current abilities — the ZPD — is more effective than learning that is too easy or too frustrating](zpd-edge-learning-english-learners.md) — related

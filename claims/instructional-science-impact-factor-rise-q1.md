@@ -51,3 +51,4 @@ Analysis of Journal Citation Reports data (Table 2) tracking the journal's IF, 5
 - [The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations)](most-cited-instructional-science-papers-sadler-marton.md)
 - [Among references cited by Instructional Science publications, Cohen's 1988 Statistical Power Analysis (66 citations) and Sweller's 1998 cognitive load theory article are the most referenced works](most-cited-references-cohen-sweller-cognitive-load.md)
 - [ijCSCL ranked #11 of 203 ISI-ranked journals in Education and Educational Research, with a 2011 impact factor of 2.243](ijcscl-2011-impact-factor-ranking.md)
+- [ijCSCL was selected for coverage in Thomson Reuters Web of Science beginning with Volume 3, Number 1, 2008, with its first Impact Factor to be calculated for 2010](ijcscl-web-of-science-indexing-2008.md) — related

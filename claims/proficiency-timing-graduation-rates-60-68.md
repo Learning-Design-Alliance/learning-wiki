@@ -47,3 +47,5 @@ Co-author Julia Gwynne states "Only 60 percent of Hispanic ELL students who gain
 - [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups](early-proficiency-better-ninth-grade-performance.md) — related
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related
 - Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
+- [Hispanic students graduated at far lower rates than white and Asian ELL students despite similar course performance patterns](hispanic-lower-graduation-than-white-asian.md) — related
+- [Timing of English learner reclassification is associated with later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — a broader claim this one bears on

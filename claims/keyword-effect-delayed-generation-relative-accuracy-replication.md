@@ -45,3 +45,6 @@ Contrast analysis in the between-subject experiment (N = 108 university students
 ## Related Claims
 
 - [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md)
+- [Generating delayed keywords does not reduce bias in comprehension judgments](keyword-generation-does-not-reduce-bias.md) — related
+- [Comprehension-test expectancy tended to be more effective than delayed-keywords listing and rereading, though interventions did not substantially differ overall](test-expectancy-tendency-larger-than-keywords-rereading.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — a broader claim this one bears on

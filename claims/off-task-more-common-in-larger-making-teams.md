@@ -44,3 +44,7 @@ Visual analysis of the teams' Making-Process-Rugs in Fig. 1, a hedges-level obse
 
 ## Related Claims
 - [Student teams differed markedly in their application of computer engineering and product design practices and in their share of off-task activity](claim-team-variation-off-task.md) — related
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — related
+- [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — related
+- [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — a broader claim this one bears on

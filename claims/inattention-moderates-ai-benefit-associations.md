@@ -88,3 +88,4 @@ Same latent interaction analysis reported null results for the remaining tested 
 - [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
 - [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related
 - [Perceived competence predicts isomorphic test performance and perceived autonomy predicts transfer performance](perceived-competence-autonomy-predict-test-performance.md) — related
+- [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related

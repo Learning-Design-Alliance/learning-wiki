@@ -44,3 +44,5 @@ Descriptive finding from the study's examination of state content standards and 
 
 ## Related Claims
 - [Most states adopted and most principals and teachers reported implementing college- and career-readiness-focused state standards in 2013-14](most-states-adopted-college-career-readiness-standards-2013-14.md) — related
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
+- [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — related

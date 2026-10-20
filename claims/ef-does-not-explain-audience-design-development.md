@@ -64,3 +64,4 @@ Corresponding Bayesian GLM (Model 1b) on the same data; BF10 = 16.30 for AGE GRO
 ## Related Claims
 - [World knowledge-based audience design improves between ages 11–12 and 15–16 during online referential production](audience-design-improves-ages-11-12-to-15-16.md) — related
 - [Executive function increases with age between 11–12 and 15–16, but knowledge attribution assumptions do not](ef-increases-with-age-kas-does-not.md) — possibly the same claim (merge candidate)
+- [Executive function does not explain the age-related decline in perceptual metacognitive efficiency](executive-function-does-not-explain-metacognitive-decline.md) — related

@@ -57,3 +57,4 @@ The paper presents itself as "the first to estimate charter schools' effects on 
 - [Charter high schools have positive effects on educational attainment in Florida and Chicago](charter-high-schools-positive-attainment-effects-florida-chicago.md) — a broader claim this one bears on
 - [Chicago charter high schools have large positive effects on earnings in adulthood](chicago-charter-high-schools-large-earnings-effects.md) — related
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related
+- [Attending a charter high school is associated with a 7 to 15 percentage point higher likelihood of earning a standard diploma than attending a traditional public high school](charter-high-schools-higher-diploma-completion.md) — related

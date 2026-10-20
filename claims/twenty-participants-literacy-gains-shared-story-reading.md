@@ -48,3 +48,4 @@ Summary of participant outcomes across the six included single-subject studies, 
 ## Related Claims
 - [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](spellread-potentially-positive-comprehension.md) — related
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — related
+- [The consonants-in-noise model predicts concurrent reading in school-aged children and reliably classifies externally diagnosed learning disability, being most effective at clearing children as unlikely to have an LD](consonants-in-noise-model-predicts-reading-and-diagnostic-category-older-children.md) — related

@@ -69,3 +69,4 @@ Same Model B path analysis: the direct belonging-to-mastery effect was significa
 ## Related Claims
 - [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](no-efficacy-moderation-value-path.md) — related
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — related
+- [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — related

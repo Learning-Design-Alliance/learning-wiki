@@ -51,3 +51,4 @@ succeed in this course
 - [Feeling comfortable asking questions in class is the strongest classroom-climate predictor of students' behavioral academic engagement in introductory STEM courses](comfort-asking-questions-predicts-engagement.md) — related
 - [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md) — related
 - [Perceived collaboration among peers positively predicts academic engagement, but competitive climates can undercut collaboration](peer-collaboration-predicts-engagement.md) — related
+- [Predominantly lecture-based courses are associated with less engagement, while class discussion and group work time are associated with more](lecture-decreases-discussion-groupwork-increase-engagement.md) — related

@@ -46,3 +46,5 @@ Descriptive analysis of the scan data summarized in Table 1, reporting the numbe
 ## Related Claims
 - [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related
 - [In its first 3-year grant cycle, 21CSLA served approximately 8,300 California leaders through 333 communities of practice and localized professional learning offerings plus coaching for hundreds of leaders](21csla-served-8300-leaders-first-cycle.md) — related
+- [At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23](26-states-statewide-leadership-initiatives.md) — related
+- [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related

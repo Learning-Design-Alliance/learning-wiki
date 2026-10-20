@@ -43,4 +43,6 @@ A 3×2 between-participants ANCOVA (medium: texts, videos, mixed; context: Faceb
 
 
 ## Related Claims
--
+- [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](no-medium-context-effect-integration.md) — related
+- [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related
+- [Greater time and effort invested in the task correlate with better integration and smaller calibration error](engagement-correlates-integration-calibration.md) — related

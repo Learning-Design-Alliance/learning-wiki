@@ -67,3 +67,6 @@ This is the weakest-evidence claim in this ingest batch: a qualitative synthesis
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [Building educator capacity to use performance assessments in practice is a repeated finding for implementing performance assessments in accountability systems](educator-capacity-needed-for-performance-assessment-use.md) — related
+- [Research questions are rarely conceived in partnership with practitioners, which undermines research impact on educational decision making](research-questions-rarely-designed-with-practitioners.md) — related
+- [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](rpp-equity-workshops-influenced-instructor-practice.md) — related
+- [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — a narrower finding that bears on this claim

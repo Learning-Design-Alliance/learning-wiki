@@ -45,3 +45,4 @@ Spearman's rank correlation analysis across all six coders combined on the coded
 ## Related Claims
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
 - Exploratory factor analysis of coder-assigned feedback codes yields 12 latent factors, several combining multiple codes with inverse loadings — related
+- [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related

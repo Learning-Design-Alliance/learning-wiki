@@ -51,3 +51,4 @@ Two-sample t-tests with Bonferroni correction comparing ENA networks of students
 - [Cheat sheet type was not significantly associated with exam performance on either exam, though a moderate non-significant trend favoured self-created sheets on the final](cheatsheet-type-no-significant-performance-difference.md) — related
 - [University students with high versus low GenAI literacy scores show significantly different ENA interaction structures during an AI-assisted abstract writing task](genai-literacy-groups-differ-in-ena-interaction-structure.md) — related
 - [No significant urban–rural difference in AI literacy scores, though the p-value approaches threshold](no-urban-rural-ai-literacy-difference.md) — related
+- [ENA revealed high CT students had significantly more coherent SRL cognitive networks spanning planning, execution, and self-reflection than low CT students](ena-cognitive-network-ct-groups.md) — related

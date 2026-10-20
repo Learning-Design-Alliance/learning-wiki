@@ -69,3 +69,4 @@ Same intervention trial, control schools keeping the 7:30am start time; Table 6 
 - [In the intervention trial, short sleep prevalence fell sharply in delayed-start schools (intervention 2: 40.47% to 11.87%) while sufficient-sleep prevalence remained low overall](delayed-start-reduced-short-sleep-prevalence.md) — a narrower finding that bears on this claim
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
 - [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
+- [School-based sleep education improves children's sleep duration and quality](sleep-education-improves-childrens-sleep.md) — related

@@ -45,3 +45,8 @@ Implementation analysis across the 32 NGLC schools drawing on administrator inte
 
 - [Gatekeeper course completion rates were slightly lower for CBE participants than for comparison students, and credential completion differences varied by college](cbe-gatekeeper-completion-lower-than-comparison.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — a broader claim this one bears on
+- [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
+- [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
+- [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related

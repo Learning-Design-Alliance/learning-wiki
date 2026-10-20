@@ -45,3 +45,4 @@ Development-phase guardrails testing with approximately 200 test inputs. Interes
 ## Related Claims
 - Most student project reports exceed the BART model's 1024-token input limit, motivating a select-then-generate design because truncation can lose critical information — related
 - [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](uat-84-percent-rate-personalization-beneficial.md) — related
+- [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related

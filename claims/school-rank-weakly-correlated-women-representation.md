@@ -44,3 +44,5 @@ Threat-to-validity analysis addressing whether higher-ranked schools' greater re
 
 - [Programs with higher representation of women require a smaller share of core CS credits (26% vs 33%) and offer more flexibility](core-requirements-share-lower-in-high-representation-programs.md)
 - [Blocking factors of CS 1 and CS 2 differ significantly across women-representation groups, with lower-blocking programs having higher representation of women](cs1-cs2-blocking-factor-differs-by-women-representation.md)
+- [CS programs with higher structural curricular complexity have lower representation of women graduates (ANOVA across three representation groups)](cs-curricular-complexity-inversely-related-women-representation.md) — related
+- [Required CS credits and math credits do not differ significantly across women-representation groups](cs-math-credits-not-significant-across-groups.md) — related

@@ -45,3 +45,6 @@ The WWC computed improvement indices based on effect sizes, representing the dif
 ## Related Claims
 - [The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42](tgfdv-positive-effects-rating.md) — related
 - [Too Good for Violence shows a substantively important but not statistically significant effect on students' knowledge, attitudes, and values](tgv-kav-substantively-important-not-significant.md) — related
+- [In a randomized controlled trial, Too Good for Drugs and Violence produced statistically significant gains in perceptions of social and resistance skills and emotional competence](tgfdv-rct-significant-skill-perceptions.md) — related
+- [The average effect across all four behavior outcome measures in the Page & D'Agostino study is positive and statistically significant (effect size 0.40)](cwk-domain-average-behavior-effect.md) — related
+- [CSC/CDP shows no discernible effects on knowledge, attitudes, and values](csc-no-discernible-kav-effects.md) — related

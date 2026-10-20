@@ -53,3 +53,4 @@ The commentary reports, citing Anderson et al. (1994) and educational demonstrat
 - [Multiple-choice testing increases the later production of multiple-choice lures as answers on cued recall tests, even under warning against guessing](mc-testing-increases-lure-production.md) — related
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
 - [Incorrect information learned from a multiple-choice test is applied and reasoned with on conceptually related transfer questions](lures-transfer-erroneous-reasoning.md) — related
+- [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related

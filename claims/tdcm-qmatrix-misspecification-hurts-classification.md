@@ -50,3 +50,6 @@ The article attributes this finding to previous research studies, cited as backg
 - [Model selection, not feedback condition, explains LLM diagnostic accuracy in three-way logic proof classification](model-selection-dominates-feedback-condition-diagnosis.md) — related
 - [A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix](discrimination-index-identifies-replaces-misspecified-q-matrix-entries.md) — a narrower finding that bears on this claim
 - [Q-matrix misspecification, if left unchecked, can have important practical implications](q-matrix-misspecification-practical-implications.md) — a narrower finding that bears on this claim
+- [Classification accuracy met or exceeded benchmarks for 19 of 22 LO-assessment combinations, with three EMCS energy LOs below the acceptable range](classification-accuracy-22-lo-combinations.md) — a narrower finding that bears on this claim
+- [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) — related
+- [Expert Q-matrix coding closely matched DINA-recovered structure, with only 2.7% of item-LO codings changed during validation](qmatrix-validation-low-change-rate.md) — a narrower finding that bears on this claim

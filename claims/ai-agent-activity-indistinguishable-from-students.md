@@ -46,3 +46,5 @@ The editorial cites an Anthology statement from late 2025 that AI agents look id
 - [AI agents can now navigate and complete tasks within learning management systems](ai-agents-navigate-and-complete-lms-tasks.md) — a broader claim this one bears on
 - [In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)](beagle-traces-turing-test-indistinguishable.md) — related
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
+- [After humanization with Undetectable AI, fewer than 4% of AI-labeled rewrites remain detectable (FNR > 96%) for Pangram and GPTZero](humanization-drives-detection-below-4-percent.md) — related
+- [Students cannot reliably distinguish AI-generated slides from human-created slides](students-cannot-identify-ai-slides.md) — related

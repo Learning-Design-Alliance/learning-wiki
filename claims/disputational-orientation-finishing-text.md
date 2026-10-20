@@ -43,4 +43,10 @@ Qualitative analysis of the final episode in both groups, where one pair made se
 
 
 ## Related Claims
--
+- [Specific pedagogic design characteristics supported students' joint interaction in the wiki: initial text propositions, Thinking Together preparation, a collectively created artefact, and asynchrony](pedagogic-design-characteristics-wiki-collaboration.md) — related
+- [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](four-episodes-exploratory-content-generation.md) — related
+- [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — related
+- [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
+- [Summary writing produced no significant comprehension improvement and the most disputational talk, and did not significantly differ from completing a map in learning outcomes](summary-task-weaker-outcomes-and-disputational-talk.md) — related
+- [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — related
+- [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — related

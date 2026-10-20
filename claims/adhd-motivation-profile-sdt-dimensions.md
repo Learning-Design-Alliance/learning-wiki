@@ -45,3 +45,9 @@ SMS-15 questionnaire comparison of the 30 ADHD and 30 TD children; the article r
 ## Related Claims
 
 - [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md)
+- [Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means](esp-learners-mixed-motivational-propensities.md) — related
+- [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
+- [Introjected regulation was low among Chinese ESP learners except for an identity-maintenance item](low-introjected-regulation-esp-learners.md) — related
+- [Within SDT, intrinsic motivation predicts intended effort most strongly, followed by identified regulation, with introjected regulation much weaker](sdt-path-strengths-effort.md) — related
+- [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
+- [An SDT-based questionnaire yields seven distinct, reliable motivation subtypes for Chinese college ESP learners](sdt-seven-factor-esp-motivation-structure.md) — related

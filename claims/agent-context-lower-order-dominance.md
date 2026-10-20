@@ -66,3 +66,4 @@ Distribution of Bloom-based cognitive codes across interaction paradigms shows a
 - [University examination questions concentrate at the lower cognitive levels of Bloom's Taxonomy, dominated by comprehension and knowledge](exam-questions-concentrate-lower-bloom-levels.md) — related
 - [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md) — related
 - [Students' stated pre-interaction intentions only weakly correspond to their enacted help-seeking with an LLM](stated-intentions-weakly-match-enacted-help-seeking.md) — related
+- [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — reports the opposite

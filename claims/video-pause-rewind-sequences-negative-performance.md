@@ -49,3 +49,5 @@ Students recruited from one Precalculus course at a US university (a convenience
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Low-performing students tended to procrastinate more on graded problem-solving exercises and on video watching with formative MCQs](low-performers-procrastinated-exercises-and-videos.md) — related
 - [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — reports the opposite
+- [Video-only documentation created a pause-act-rewind cycle, with orientation and navigation-continuity clarity scoring lowest and wiring identification the primary difficulty for first-time builders](video-documentation-pause-act-rewind-bottleneck.md) — related
+- [Providing strategy guidance leads learners to pause and scroll back on the video timeline more often than unguided learner control](strategy-guidance-increases-pauses-and-scrollbacks.md) — related

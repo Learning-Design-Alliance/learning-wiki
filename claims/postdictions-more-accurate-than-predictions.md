@@ -42,4 +42,8 @@ Narrative review attributing the finding to Pressley and Ghatala (1990) and Maki
 
 
 ## Related Claims
--
+- [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related
+- [Global predictions rely on domain-specific self-concept but not on test performance, unlike postdictions](predictions-rely-on-self-concept-not-performance.md) — related
+- [Test performance is the strongest predictor of local and global postdicted judgments after test taking](test-performance-strongest-predictor-postdictions.md) — related
+- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Three emotion profiles (positive, neutral, negative) differ in prediction and postdiction magnitude and accuracy, with the positive group most overconfident in predictions and least underconfident in postdictions](emotion-profile-groups-judgment-differences.md) — related

@@ -46,3 +46,4 @@ In the same 36-participant three-group experiment, the process-knowledge measure
 - [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
 - [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — a broader claim this one bears on
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — reports the opposite

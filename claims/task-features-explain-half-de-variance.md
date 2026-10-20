@@ -45,3 +45,5 @@ Model-fit comparison in the Results section of the dynamic structural equation m
 ## Related Claims
 
 - [Disciplinary engagement at one interval positively predicts subsequent behavioral and collaborative engagement](de-predicts-subsequent-be-and-ce.md)
+- [Open-ended tasks are associated with higher disciplinary engagement in the same observation interval](open-ended-tasks-higher-disciplinary-engagement.md) — related
+- [The structural model explains about half the variance in critical thinking and technical problem-solving and about a third in metacognitive self-regulation](sem-variance-explained-outcomes.md) — related

@@ -49,3 +49,4 @@ The matched comparison group evaluation compared suspension rates between the Ka
 - [Kauffman students were less likely to be suspended than other similar students in Kansas City](kauffman-students-less-likely-suspended.md) — reports the opposite
 - [In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension](kauffman-school-2021-22-suspensions-12-points-higher.md) — related
 - [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — related
+- [In 2021-22 the Kauffman School increased attendance rates by approximately 1 percentage point](kauffman-school-2021-22-attendance-increase.md) — related

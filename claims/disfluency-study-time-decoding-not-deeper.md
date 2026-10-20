@@ -49,3 +49,5 @@ Editorial synthesis citing Eitel and Kühl (2015) and Rummer et al. (2015, Exp. 
 - [Disfluency affected metacognitive monitoring (JOLs) only under specific conditions: within-subjects manipulation with unrelated word pairs, or on screen rather than paper](disfluency-jol-boundary-conditions.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related
+- [Disfluency does not automatically elicit effortful processing; test expectancy improves retention and transfer while disfluency has no effect](disfluency-no-effect-test-expectancy.md) — related
+- [The learning benefits of perceptual disfluency reported by Diemand-Yauman et al. (2011) do not replicate in any general way](disfluency-benefits-do-not-replicate.md) — related

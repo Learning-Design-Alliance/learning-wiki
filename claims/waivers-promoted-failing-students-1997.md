@@ -48,3 +48,4 @@ Administrative-data analysis of 1997 promotional outcomes; among 16,744 students
 - [Retained students made up 15 percent of tested third graders, 10 percent of sixth graders, and 4.6 percent of eighth graders in 1998](retained-student-proportions-1998.md) — related
 - [Only 43% of retained third graders and 47% of retained sixth graders met the test criteria by summer 1998 despite four chances, yet over two-thirds were promoted the next year largely due to waivers](retained-students-low-second-year-passing.md) — related
 - [Passing rates improved from 1997 to 1998 in third and sixth grades, but retention rates did not decline because fewer students received waivers](passing-up-retention-flat-1998-fewer-waivers.md) — related
+- [Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade](early-grade-retention-rise-double-retention.md) — related

@@ -46,3 +46,7 @@ In a seven-day experience-sampling study, twelve visually impaired high school s
 
 - [School interactions of students with visual impairments were dominated by receiving help, with few involving giving help](school-interactions-receiving-help-not-giving.md)
 - [Daily diary evidence links lower daily self-concept fit to stronger same-day mental burnout and concerns about academic abilities](daily-self-concept-fit-burnout-diary.md) — related
+- [Doing nothing at school was the least positively rated activity for students with visual impairments](doing-nothing-at-school-least-positive.md) — related
+- [Students with visual impairments rated leisure and structured recreation in other locations as their most enjoyable activities](leisure-other-locations-most-enjoyable.md) — related
+- [Participants spent much of their out-of-school time alone at home](vi-students-alone-at-home-out-of-school.md) — related
+- [Students with visual impairments and additional disabilities reported more school social challenges than peers who were only visually impaired](additional-disabilities-more-school-social-challenges.md) — related

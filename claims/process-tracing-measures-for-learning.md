@@ -45,3 +45,6 @@ This is the review's argumentative claim in Section 3.2, drawing on Processing E
 ## Related Claims
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — a narrower finding that bears on this claim
+- [Monkey neurophysiology shows adolescent-to-adult antisaccade improvement reflects enhanced representation of the goal and vector inversion, not stronger filtering of the stimulus](monkey-goal-representation-enhancement-not-filtering.md) — a narrower finding that bears on this claim
+- [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](online-behaviour-transforms-discourse-knowledge.md) — related

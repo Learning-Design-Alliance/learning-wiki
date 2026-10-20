@@ -45,3 +45,4 @@ The description states the report examines "how program design and implementatio
 ## Related Claims
 - [Post-pandemic summer school is studied for its effects on student achievement and district academic recovery](post-pandemic-summer-school-achievement-recovery-effects.md) — related
 - [The size of tutoring programs' effects on student math knowledge aligned with the quality of their implementation](tutoring-effect-size-aligned-with-implementation-quality.md) — related
+- [The brief compares the scale and impact of summer school with other interventions such as tutoring](summer-school-compared-tutoring-scale-impact.md) — related

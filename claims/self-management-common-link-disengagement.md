@@ -45,3 +45,6 @@ The study's results link the two disengagement forms, "including through a commo
 ## Related Claims
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - [Few New York charter teachers reported technology challenges during the remote transition (66% of schools said under a quarter of teachers did), with attention and engagement the more common difficulties](teacher-remote-challenges-attention-not-technology.md) — related
+- [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — a narrower finding that bears on this claim
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
+- [Computer-based test advantages can be used to manage the effects of test anxiety as a construct-irrelevant factor](cbt-manages-anxiety-construct-irrelevance.md) — related

@@ -48,3 +48,4 @@ Loglinear model comparison (Table 3) on the 37-teacher sample showed Model II fi
 ## Related Claims
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — a narrower finding that bears on this claim
 - [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — a narrower finding that bears on this claim
+- [Expert and novice teachers do not differ significantly in the number of classroom events they notice when reflecting on their own MET video footage](expert-novice-no-difference-noticed-events-met.md) — related

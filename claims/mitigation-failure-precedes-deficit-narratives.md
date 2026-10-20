@@ -46,3 +46,6 @@ From the Discussion, synthesizing the two discourse-analytic cases: mitigation m
 
 - [Deficit narratives are co-constructed in teacher collegial talk in response to teacher vulnerability under emotional regimes that disallow strong negative emotions](deficit-narratives-arise-from-vulnerability-under-emotional-regimes.md)
 - [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](emotional-regimes-vulnerability-deficit-narratives.md)
+- [In Case 1, sustained self-critique by the focal teacher led colleagues to attribute students' mathematics failure to parenting and parental lack of authority](case1-blame-shifted-from-shitty-teacher-to-parents.md) — related
+- [In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers](case2-students-foils-missed-opportunities.md) — a narrower finding that bears on this claim
+- [Mitigating and normalizing the emotion recognizes it more than acknowledging-to-prevent but limits exploration to attributions that avoid critique of PD design](mitigating-normalizing-limited-exploration.md) — related

@@ -52,3 +52,5 @@ In the same ten-participant think-aloud dataset, 24 syntactical LREs were identi
 - [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related
 - [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related
 - [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](experanto-interaction-design-four-l2-structures.md) — related
+- [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
+- [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — related

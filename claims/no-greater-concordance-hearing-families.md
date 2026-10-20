@@ -47,3 +47,4 @@ Across the 2 by 2 ANOVAs on the four scales, no hearing-status by group interact
 
 ## Related Claims
 - [Parents rate their children as more socially successful than the children rate themselves, regardless of hearing status](parents-overestimate-childrens-social-success.md) — related
+- [Hearing children are rated as more capable in reading and more socially successful than deaf children by both children and parents](hearing-children-rated-more-capable-reading-social.md) — related

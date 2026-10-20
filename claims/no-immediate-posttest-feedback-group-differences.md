@@ -50,3 +50,5 @@ ANCOVA on the oral imitation test immediate posttest for the three groups (n = 3
 - [Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — related
 - [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related
+- [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related
+- [Metalinguistic feedback outperforms recasts on the immediate post-test, but the two do not differ significantly on the delayed post-test](metalinguistic-beats-recasts-immediate-not-delayed.md) — reports the opposite

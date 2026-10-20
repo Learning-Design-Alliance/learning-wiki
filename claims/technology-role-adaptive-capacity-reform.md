@@ -48,3 +48,6 @@ The editors' synthesis of the volume's chapters states that "Technology can play
 - Case studies of six actively restructuring schools show the principal's role recast, growing social support for change, and external ideas and information brought to bear — related
 - [Building capacity is critical for educational reform](reform-progress-depends-on-teacher-and-school-capacity.md) — related
 - [Assessing the impacts of a package of interventions whose pieces touch the entire student population is a common reform challenge](assessing-intervention-package-impacts-challenge.md)
+- [Adaptive leadership is a critical enabler of successful AI adoption and institutional transformation in higher education](adaptive-leadership-enables-ai-adoption.md) — a broader claim this one bears on
+- [Inclusive school leadership plays a critical role in building teachers' capacity for school improvement](inclusive-leadership-builds-teacher-capacity.md) — related
+- [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related

@@ -48,3 +48,4 @@ Hierarchical regression in the same 92-participant paired-associate study, with 
 - [A combined model of demographics, aerobic fitness, and the two critical activity windows accounts for over 30% of variance in long-term memory retention](combined-model-memory-retention-variance.md) — related
 - [Physical activity in the hour before memory retrieval is associated with superior memory retention, while sedentary time in that window is negatively associated](pre-retrieval-activity-benefits-memory.md) — related
 - [Memory recall declines over the 12-hour retention interval between encoding and retrieval](memory-declines-over-12-hour-interval.md) — related
+- [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related

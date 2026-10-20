@@ -47,3 +47,6 @@ The review reports, citing Duffy and Kabance (1982) among others, that a readabl
 - [Iterative prompting to revise overly complex responses raised readability alignment, with most regenerated responses falling at or below target grade levels](iterative-prompting-improves-readability-alignment.md) — related
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Rewriting MATHia word problems for struggling readers, by human experts or LLMs, sped completion by 30% and improved mastery rate](rewritten-word-problems-faster-completion-mastery.md) — reports the opposite
+- [Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered](product-view-reflects-who-formulated-text.md) — related
+- [The three fine-tuned LLMs differ significantly in response length, readability, and similarity to posts](llm-response-length-readability-differences.md) — related
+- [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related

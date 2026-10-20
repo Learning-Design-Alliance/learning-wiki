@@ -45,3 +45,4 @@ Meta-analysis of 34 randomised comparisons (n = 64 effect sizes) where one condi
 ## Related Claims
 - [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](video-replacement-small-learning-benefit.md) — related
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
+- [Video replacing static media (e.g., text) benefits learning more than video replacing a teacher](video-vs-static-media-stronger-than-vs-teacher.md) — related

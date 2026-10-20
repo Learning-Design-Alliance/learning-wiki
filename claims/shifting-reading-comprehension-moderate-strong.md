@@ -62,4 +62,5 @@ Pattern across six studies reporting large associations (Barber et al., 2020; Ca
 
 
 ## Related Claims
--
+- [Shifting is generally moderately to strongly associated with word reading, with reading-specific shifting tasks most strongly linked to accuracy-based word reading assessments](shifting-word-reading-moderate-strong.md) — related
+- [Inhibition shows moderate to large associations with reading comprehension in most studies, but the association depends on the inhibition task used](inhibition-reading-comprehension-task-dependent.md) — related

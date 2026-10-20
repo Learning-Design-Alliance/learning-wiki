@@ -66,3 +66,6 @@ The review's own interpretive caution in the discussion: more AI-enabled iterati
 - Rapid prototyping methods can amplify novice designers' tendency to commit to a solution too early. — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related
+- [AI tools compress idea-to-prototype time, freeing UX teams for human-led connection and alignment](ai-compression-frees-human-led-alignment.md) — reports the opposite
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
+- [Designing and building robot costumes supported students' learning about robot structure and factors affecting precise motion](costume-design-supports-robot-structure-learning.md) — related

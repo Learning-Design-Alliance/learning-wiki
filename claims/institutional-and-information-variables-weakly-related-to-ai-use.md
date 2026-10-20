@@ -66,3 +66,4 @@ Correlations between factor score and demographic variables in the same survey. 
 - Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - [Demographic variables (gender, year of study, fields of study, age) have trivial effects on prospective teachers' conception values and practices](demographics-trivial-effects-conceptions.md) — related
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
+- [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related

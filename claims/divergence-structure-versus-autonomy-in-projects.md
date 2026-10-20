@@ -46,3 +46,5 @@ Cross-workshop comparison of the faculty and student workshops' differing views 
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - Educators grew more confident supporting student autonomy and leading media production through the program — related
 - [Both workshops proposed a dual assessment approach combining controlled AI-free testing and open AI-allowed assignments](dual-assessment-ai-free-and-ai-allowed.md) — related
+- [Students rated real-world projects and discussions with structured or guiding questions as the most beneficial learner-to-content strategies](real-world-projects-structured-questions-top-content-strategies.md) — related
+- [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related

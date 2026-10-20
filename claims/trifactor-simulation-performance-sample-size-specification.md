@@ -44,3 +44,5 @@ The article's abstract describes its simulation design: performance of the trifa
 
 ## Related Claims
 - [Little was known about the circumstances under which the trifactor model performs well versus poorly prior to this study](trifactor-performance-circumstances-little-known.md) — related
+- [CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT](cat-item-level-construct-recovery-impossible.md) — related
+- [MCAR item and response missingness in linear tests shows no differential effect on model fit across Designs 1 to 4](mcar-missingness-linear-tests-no-fit-effect.md) — related

@@ -69,3 +69,7 @@ Meta-analytic moderator analysis of quiz–exam format consistency; the review r
 - [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — possibly the same claim (merge candidate)
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](practice-retrieval-scores-no-condition-differences.md) — related
 - [Group testing shows advantages in some studies but mixed results overall for long-term retention and transfer](collaborative-testing-mixed-results.md) — related
+- [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](retrieval-practice-review-50-classroom-experiments.md) — related
+- [TAP theory has received mixed empirical support as an account of the testing effect](tap-theory-mixed-empirical-support.md) — related
+- [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — a narrower finding that bears on this claim
+- [Taking a practice test before a final test produces a moderately large, statistically significant benefit for learning overall (g = 0.61 fixed-effects; g = 0.70 random-effects)](practice-testing-overall-meta-analytic-benefit.md) — a broader claim this one bears on

@@ -85,3 +85,6 @@ Thematic synthesis codes 3 studies to over-reliance on AI, reporting that "Exces
 - [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related
 - [Effective AI use increases AI over-reliance, which negatively affects sustainable learning performance](effective-ai-use-increases-over-reliance-harming-learning.md) — related
 - [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](vocal-metrics-lack-fixed-pedagogical-meaning.md) — related
+- [Over-reliance on AI in chemical experimentation carries ethical considerations and pitfalls as AI automates routine tasks and alters how experiments are conceptualized](ai-overreliance-pitfalls-chemistry-experimentation.md) — related
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
+- [A 2025 systematic review reports that AI tools raising social presence and emotional engagement may improve AI-supported collaborative learning outcomes](emotional-engagement-social-presence-ai-collaborative-learning.md) — related

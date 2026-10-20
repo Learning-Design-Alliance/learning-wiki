@@ -45,3 +45,4 @@ Same SDA of the 24 Week-4 CSR discussions; the autoregressive terms show "signif
 ## Related Claims
 - [Low-level prompting, modeling, and information provision do not predict students' social reasoning at any lag](low-level-prompting-modeling-information-no-social-reasoning-effect.md) — related
 - [High-level prompting and specific praise continue to predict students' social reasoning one turn later (Lag-2), suggesting a vicarious reinforcing experience](prompting-praise-delayed-effect-social-reasoning-lag2.md) — related
+- [Students' social reasoning is less likely to be followed by teachers' high-level prompting and more likely to be followed by specific praise](social-reasoning-predicts-teacher-subsequent-moves.md) — related

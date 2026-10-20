@@ -44,3 +44,7 @@ Planned comparisons of the control group against both scaffolding conditions on 
 
 ## Related Claims
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — reports the opposite
+- [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — reports the opposite
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md) — related
+- [Metacognitive scaffolding produced a small significant positive effect on the individual metacognitive knowledge students acquired](scaffolding-small-effect-metacognitive-knowledge.md) — related
+- [Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge](metacognitive-activities-mediate-scaffolding-effects.md) — related

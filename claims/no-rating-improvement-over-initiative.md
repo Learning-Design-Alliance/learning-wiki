@@ -46,3 +46,4 @@ Analysis of rating patterns across the full 201-lesson sample over six observati
 - [Across 201 observed K–8 math lessons, the majority (108, or 54 percent) did not receive a High/Expert rating on any of the eight observation dimensions](majority-lessons-no-high-expert-rating.md) — related
 - [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
 - [Challenge based lessons scored significantly higher than NGSS practices-aligned lessons on three of six deeper learning dimensions and equivalent on the other three](cbl-vs-ngss-practices-aligned-three-of-six-higher.md) — related
+- [Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present](dimension-rating-distributions-vary.md) — related

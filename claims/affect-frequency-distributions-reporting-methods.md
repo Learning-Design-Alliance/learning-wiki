@@ -45,3 +45,4 @@ Descriptive frequency analysis of all RCR affect reports (Figure 2(a)) shows "Cu
 ## Related Claims
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
 - [Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states](reporting-method-shapes-affective-network-structure.md) — related
+- [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](faster-slower-groups-affective-transition-differences.md) — related

@@ -67,3 +67,4 @@ Same MARS analysis applied to 29,708 non-immersion learners with at least 30 yea
 - [Permutation tests show early-starting immersion and non-immersion learners are indistinguishable from the earliest learners, while later starters learn significantly more slowly](permutation-early-starters-indistinguishable-later-slower.md) — related
 - [Native and non-native learners require around 30 years to reach asymptotic performance](thirty-years-to-asymptotic-performance.md) — related
 - [Blocked-format span declines after age 20 but mixed-format span does not, implicating proactive interference in aging declines](blocked-decline-mixed-no-decline-aging-span.md) — related
+- [The age of learning-rate decline is similar for easy and difficult syntactic items](learning-rate-decline-similar-easy-difficult-items.md) — related

@@ -48,3 +48,4 @@ Whole-group random-effects fMRI main-effect analysis of model-derived RPEs enter
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
 - [Lifetime stress severity correlates with poorer learning performance and reduced putamen/ACC activation](lifetime-stress-dose-learning-correlation.md) — related
 - [A risk-sensitive reinforcement learning model with anticorrelated valuation fit reversal learning behavior better than standard models](rsav-model-outperformed-standard-rl-models.md) — related
+- [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related

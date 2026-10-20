@@ -46,3 +46,7 @@ Random-effects meta-analysis reporting heterogeneity statistics: I2 ranges from 
 
 - [School level shows a marginal moderating effect on motivational outcomes, with secondary students experiencing a lower motivating effect than primary students](school-level-motivation-moderating-effect-marginal.md)
 - [Design parameters for preschool outcomes show substantial heterogeneity across populations, as reflected in wide 95% prediction intervals](preschool-design-parameter-heterogeneity.md) — related
+- [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
+- [The positive GenAI writing effect is robust across dependence-aware, sensitivity, and risk-of-bias specifications, but the wide prediction interval spans near-zero to large effects](genai-writing-effect-robustness-checks.md) — a narrower finding that bears on this claim
+- [School level moderates cognitive effects of game-based learning in STEM: games are less effective for secondary than primary school students](school-level-moderates-game-cognitive-effects.md) — related
+- [Game-based learning in primary and early secondary STEM education shows moderate positive effects on cognition, motivation, and behaviour compared to traditional classrooms](games-stem-moderate-positive-effects-cognition-motivation-behaviour.md) — related

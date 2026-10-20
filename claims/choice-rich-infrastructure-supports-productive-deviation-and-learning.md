@@ -59,3 +59,7 @@ The authors explicitly frame this as an extreme case chosen to illustrate a *pos
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - K-2 students showed sustained high engagement with Puzzlets, choosing it as their first station choice 27 out of 36 times — related
 - [Co-design dialogue with museum educators revealed an unmet need for digital infrastructure, which students addressed with a bilingual cultural map extending the museum's spatial storytelling](museum-codesign-revealed-digital-infrastructure-need.md) — related
+- [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related
+- [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — related
+- [Students in interdisciplinary design studio courses reported high authentic motivation stemming from the problems rather than grades](studio-authentic-motivation-beyond-grades.md) — related
+- [Detailed case study shows a spell checker's affordances are enacted in rich, creative ways beyond designers' intentions](spell-checker-situated-affordances.md) — related

@@ -69,3 +69,4 @@ Survey-based analysis linking parent beliefs about the importance of preschool a
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
 - Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start — related
 - Punitive responses to absence do not improve attendance and can worsen it — related
+- [Chronic absenteeism is extremely common among preschool students and declines substantially when children enter kindergarten](preschool-chronic-absenteeism-extremely-high-declines-in-kindergarten.md) — related

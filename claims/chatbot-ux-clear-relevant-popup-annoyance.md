@@ -65,3 +65,8 @@ Reflexive thematic analysis of non-user open-ended comments (Fig. 5): "Usability
 - [Usability testing with educators and developers identified chatbot strengths for independent challenge-solving but limited feedback for low-participation learners](usability-test-strengths-and-limits.md) — related
 - [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
+- [In an 18-participant user study, the system received a 4.00/5 overall recommendation, with hallucination resistance rated 4.44/5 and highest ratings for ease of starting a conversation (4.39/5) and response relevance and accuracy (4.06/5)](user-study-18-participants-recommendation-4-of-5.md) — related
+- [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
+- [Participants rated SOPHIE 2.0 as engaging, easy to use, and clinically relevant in a self-service format](sophie2-high-perceived-usability-and-value.md) — related
+- [91% of UAT participants rated the Taklif.AI user interface as intuitive](uat-91-percent-rate-interface-intuitive.md) — related
+- [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related

@@ -43,4 +43,6 @@ The review asserts, citing Ausubel's cognitive-structure theory and schema resea
 
 
 ## Related Claims
--
+- [In the exploratory recall analysis, participants with relatively high domain knowledge showed better recall performance than participants with relatively low domain knowledge.](domain-knowledge-predicts-recall.md) — related
+- [Cognitive Load Management](cognitive-load-management.md) — related
+- [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — reports the opposite

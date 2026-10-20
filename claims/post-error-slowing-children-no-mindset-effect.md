@@ -46,3 +46,4 @@ Repeated-measures ANOVA on post-error behavioral adjustments in the 123-child go
 
 - [Post-error slowing occurs in the 2-back condition despite absence of feedback](post-error-slowing-two-back-no-feedback.md) — related
 - [Growth mindset endorsement is associated with higher post-error accuracy but not post-correct accuracy in children](growth-mindset-post-error-accuracy-children.md)
+- [Growth mindset is unrelated to the ERN (early, automatic error-processing component) in children](mindset-unrelated-ern-children.md) — related

@@ -66,3 +66,4 @@ Regression Model 4 in the Results section, same sample and outcome. Large-set pr
 - [Parent number talk is infrequent but varies widely, and most of it concerns counting or labeling sets, with present-object small-set talk the most common type](parent-number-talk-frequency-description.md) — related
 - [Parent SES significantly predicts children's cardinal-number knowledge at 46 months, accounting for 24 percent of variance](parent-ses-predicts-cardinal-knowledge.md) — related
 - [Small-number parent talk predicts children's performance only on low-number items, whereas large-number talk predicts both low- and high-number Point-to-X items](small-talk-low-items-large-talk-both.md) — a narrower finding that bears on this claim
+- [Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity](number-talk-domain-specific-not-vocabulary.md) — related

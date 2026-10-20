@@ -51,3 +51,4 @@ Bootstrap mediation test (5,000 bias-corrected resamples) in the PLS-SEM model o
 - [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related
 - [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](genai-use-positive-association-critical-thinking-total-effect.md) — related
 - [The indirect effect of GenAI use on critical thinking via feedback literacy is conditional on reflective thinking, strengthening as reflectivity rises](moderated-mediation-indirect-effect-conditional-reflective-thinking.md) — related
+- [Reflective thinking moderates the direct GenAI use–critical thinking path: positive at low reflectivity, non-significant at high reflectivity](reflective-thinking-moderates-direct-genai-critical-thinking-path.md) — related

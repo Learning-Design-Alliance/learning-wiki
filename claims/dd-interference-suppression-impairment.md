@@ -45,3 +45,4 @@ Across five experiments (animal Stroop, numerical and physical size Stroop, non-
 ## Related Claims
 - [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related
 - [Adults with DD show a reduced Number Stroop effect during physical comparison, suggesting weaker automatic activation of number magnitude](dd-adults-reduced-number-stroop-effect.md) — reports the opposite
+- [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related

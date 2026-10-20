@@ -100,3 +100,5 @@ Open questions include how to measure load reliably in real classrooms (subjecti
 - [Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels](prior-knowledge-moderates-scaffolding-effectiveness.md) — related
 - [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](task-design-depends-on-effort-allocation.md) — related
 - [Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text](segmentation-idea-units-improve-learning.md) — a narrower finding that bears on this claim
+- [Related prior knowledge is the single most powerful influence mediating subsequent learning, so multimedia should layer information by complexity](prior-knowledge-most-powerful-influence-multimedia-layering.md) — related
+- [Current cognitive load measures cannot detect overload because the critical level indicating overload is unknown](load-measures-cannot-detect-overload.md) — related

@@ -45,3 +45,4 @@ The study's child analyses of multiplication ability found that "Within-grade ab
 ## Related Claims
 - [Primary school children's multiplication ability falls into three groups: single digit problem solvers, multidigit problem solvers, and high performers.](multiplication-three-ability-groups-primary-children.md) — related
 - [Retrieval is faster and procedural execution more efficient on addition than on multiplication problems, and these operation effects persist across the primary school years](addition-more-efficient-than-multiplication-children.md) — related
+- [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — related

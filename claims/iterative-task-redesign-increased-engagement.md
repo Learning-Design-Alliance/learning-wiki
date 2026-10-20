@@ -46,3 +46,6 @@ Stimulated-recall and class-recording evidence from Period 3: Week 2 Text Chat f
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related
+- [Early-stage IDC growth shows simplification, linearity, and dogmatism, with focal points shifting from format to content to technology across rounds](novice-idc-growth-simplification-linearity-dogmatism.md) — related
+- [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — related
+- [Repeated negative alerts for one student prompted the teacher to revisit her and shift from explanation to inquiry, and reorganization of her engagement occurred only after this second intervention](repeated-alerts-prompt-iterative-instructional-revision.md) — related

@@ -51,3 +51,6 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
 - [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related
+- [Video is more effective for teaching skills than for transmitting knowledge](video-more-effective-for-skills-than-knowledge.md) — related
+- [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — related

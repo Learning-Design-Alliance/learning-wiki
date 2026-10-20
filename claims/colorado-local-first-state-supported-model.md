@@ -52,3 +52,5 @@ Case study of Colorado based on interviews with 13 state and local leaders and a
 - [States used four approaches to generate political support for summer learning investment](four-approaches-garnering-summer-support.md) — related
 - State administrators report using external entities such as regional centers and nonprofits to extend school improvement capacity and reach local needs — related
 - [The coordinated school health approach saw scattered US adoption, hindered by pressures on administrators and lack of integration into School Improvement Plans](csh-scattered-adoption-barriers.md) — related
+- [State policy activity toward competency-based and personalized learning is broad but shallow: seventeen states reached advanced adoption while most efforts remain limited to pilots](state-cbl-policy-activity-pilots-limited.md) — related
+- [In both Colorado and Washington, youth in foster care and youth experiencing homelessness are consistently prioritized in policy and practice, while migrant and justice-involved youth remain less reliably supported](hmy-foster-homeless-prioritized-migrant-justice-overlooked.md) — related

@@ -45,3 +45,4 @@ The article attributes this finding to Charles and Trenkic (2015), saying the im
 
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
+- [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — a broader claim this one bears on

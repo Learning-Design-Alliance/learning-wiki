@@ -43,3 +43,4 @@ Literature-review narrative in which the report describes Sesame Street, citing 
 ## Related Claims
 - [Expanded participation and new forms of evidence: breakthroughs reach previously excluded populations and may require new metrics](breakthrough-expanded-participation-new-evidence-forms.md) — related
 - [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related
+- [More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media](brief-skill-based-multimedia-sessions-moderator.md) — related

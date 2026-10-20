@@ -45,3 +45,4 @@ Descriptive survey finding reported in the conclusion: 127 of 151 respondents re
 ## Related Claims
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — a broader claim this one bears on
 - [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](low-student-awareness-institutional-genai-regulations.md) — related
+- [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related

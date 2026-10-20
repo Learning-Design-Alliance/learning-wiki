@@ -65,3 +65,4 @@ Methodological validation of the comment taxonomy: "Two authors in-dependently c
 - [AI agent communities exhibit extreme participation inequality (comment Gini = 0.91), exceeding human online learning communities](ai-agent-communities-extreme-participation-inequality.md) — related
 - [AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes](ai-agents-statement-bias-11-to-1.md) — related
 - [Community topic framing shifts AI agent discourse: the philosophy submolt shows a 31.3% question rate versus 7.4% in general](community-framing-shifts-ai-agent-questioning.md) — related
+- [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related

@@ -47,3 +47,5 @@ Latent profile analyses at each of three waves using five technostress dimension
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
 - [Latent learner profiles did not moderate the effectiveness of the adaptive ITS](learner-profiles-no-moderation-adaptive-its.md) — related
 - [Latent transition analysis extracted four ability-profiles of hypothesis-based reasoning across affirmative, refuting, and irrelevant evidence](four-hbr-ability-profiles-lta.md) — related
+- [Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance](four-ai-attitude-latent-profiles-university-students.md) — related
+- [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related

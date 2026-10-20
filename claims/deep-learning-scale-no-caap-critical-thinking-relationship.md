@@ -49,3 +49,7 @@ HLM models predicting the CAAP Critical Thinking module (national mean 61.65, SD
 - Variance in first-year critical thinking is far more institutional (32.0%) than variance in self-reported gains (3.1-6.2%) — related
 - First-year students' engagement in deep learning activities is positively related to their self-reported gains in general education, practical competence, and personal and social development — related
 - [External Mandate shows no significant direct relationship with Deep Revision Engagement](external-mandate-no-direct-effect-deep-revision.md) — related
+- [A critical thinking instruction program (ARDESOS-DIAPROVE) improved students' metacognition, with significant pre-post gains in the metaknowledge total and most MAI dimensions](ct-instruction-improves-metacognition-mai.md) — related
+- [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
+- [Text-based reflective use from Copilot Critical Engagement responses does not predict productive engagement, with limited coder reliability and a TA ceiling effect (exploratory null)](copilot-text-reflective-use-null.md) — related
+- [The ARDESOS-DIAPROVE intervention significantly improved critical thinking skills, with higher PENCRISAL medians after intervention in the total score and all five factors](ardesos-diaprove-improves-pencrisal-scores.md) — related

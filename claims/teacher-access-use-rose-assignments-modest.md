@@ -69,3 +69,6 @@ Trend analysis of teacher reports on assigning technology to students (Chapter 3
 - [Only 20 percent of U.S. teachers felt well prepared to integrate educational technology into classroom instruction (1998)](only-20-percent-teachers-prepared-integrate-technology.md) — related
 - [Most Chicago public school students use technology infrequently and for a narrow range of low-level activities](cps-students-infrequent-narrow-technology-use.md) — related
 - [Teachers had abundant student data but most needed help translating data into instructional steps](teachers-need-help-translating-data-to-instruction.md)
+- [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
+- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](pl-student-choice-limited-teacher-driven.md) — related
+- [Principals' email communication with teachers and parents expanded substantially by 2005, though most elementary principals still never emailed parents](principals-email-teachers-parents-expanded-2005.md) — related

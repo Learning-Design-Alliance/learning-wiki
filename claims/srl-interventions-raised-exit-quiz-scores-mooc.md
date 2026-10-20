@@ -46,3 +46,5 @@ One-way ANOVA on the 20-item course exit quiz across control (M = 8.46, SD = 7.6
 - [Personalized SRL email interventions increased post-course self-regulation scores relative to control in a MOOC, while the general intervention did not](personalized-srl-interventions-raised-srl-scores-mooc.md) — related
 - [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](srl-interventions-increased-chat-activity-participation.md) — related
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
+- [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related

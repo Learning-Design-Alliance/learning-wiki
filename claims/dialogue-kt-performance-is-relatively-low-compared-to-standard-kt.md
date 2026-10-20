@@ -76,3 +76,4 @@ Authors' explanation of the low performance, not a tested result: "student behav
 - [Extended multi-turn dialogue does not produce effective tutoring: learning gains remain uniformly low and misconception reduction peaks around 24-25%](multi-turn-learning-gains-remain-low.md) — related
 - [Learner attributes differ sharply in how reliably they can be recovered from tutoring dialogue, with behavioral traits slow to surface](differential-observability-learner-attributes-dialogue.md) — related
 - [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md)
+- [Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points](llms-barely-exceed-trivial-baseline-kt.md) — related

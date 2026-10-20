@@ -46,3 +46,7 @@ The Background section's access discussion argues the ECE system is highly socio
 - [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md) — possibly the same claim (merge candidate)
 - [ECE programs are on average more racially segregated than elementary and high schools](ece-more-segregated-than-k12.md) — a narrower finding that bears on this claim
 - [Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color](preschool-racial-isolation-black-hispanic.md) — a narrower finding that bears on this claim
+- [Schools in the United States have resegregated since 1988, with the share of intensely segregated non-white schools more than tripling from about 6% to 19% of all public schools](resegregation-intensely-segregated-schools-tripled.md) — a broader claim this one bears on
+- [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — related
+- [Children from low-income families in economically diverse preschools show greater language gains than peers in less diverse programs](economically-diverse-preschool-language-gains.md) — related
+- [Children's language and math outcomes improve as average classroom income and socioeconomic diversity increase](classroom-income-composition-language-math.md) — related

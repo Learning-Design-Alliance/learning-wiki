@@ -43,4 +43,7 @@ ANCOVA in a randomized 2×2 experiment (N = 181, prior mathematics score as cova
 
 
 ## Related Claims
--
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
+- [Instruction before problem solving leads students to generate fewer but higher-quality solution attempts than problem solving before instruction](instruction-first-fewer-better-solution-attempts.md) — related
+- [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
+- [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related

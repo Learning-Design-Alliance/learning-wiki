@@ -64,3 +64,6 @@ Descriptive analysis of missing performance task data in 2012-13: "Thirty-six pe
 ## Related Claims
 - [FFT-based teacher ratings in Pennsylvania's pilot were overwhelmingly concentrated in the top two performance categories, with less than 0.1 percent rated failing](fft-pilot-ratings-concentrated-top-two-categories.md) — related
 - [Rating distributions and FFT-VAM relationships were broadly similar across the two pilot phases, though top-two-category ratings decreased somewhat in Pittsburgh](fft-findings-similar-across-pilot-phases-pittsburgh-decline.md) — related
+- [REACH evaluation ratings rose over time, with nearly 9 in 10 teachers receiving one of the top two ratings by 2016-17](reach-ratings-increased-over-time.md) — related
+- [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related
+- [Missed observations left 24 percent of non-tenured teachers without a REACH rating, concentrated in a smaller number of schools undergoing organizational change](reach-missed-observations-inability-to-rate.md) — related

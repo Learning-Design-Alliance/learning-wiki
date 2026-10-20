@@ -45,3 +45,4 @@ Retrospective rubric scoring of two independent four-to-five-member senior teams
 ## Related Claims
 - [The no-thin-pillar rule was diagnostically informative in three of four cases and the binding constraint in one](no-thin-pillar-rule-diagnostic-four-cases.md) — related
 - [The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles](wrl-rubric-transferred-across-sectors.md) — related
+- [Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework](wrl-6-to-7-gated-by-industry-embedded-exposure.md) — related

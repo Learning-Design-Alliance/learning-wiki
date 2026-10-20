@@ -48,3 +48,5 @@ Theoretical argument from the article's abstract, presented as the second perspe
 ## Related Claims
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — related
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](emotion-as-intrinsic-load-emotion-regulation.md) — related
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — related
+- [A dual-channel assumption for emotions is discussed as part of integrating emotion into cognitive load theory](dual-channel-assumption-emotions-clt.md) — related

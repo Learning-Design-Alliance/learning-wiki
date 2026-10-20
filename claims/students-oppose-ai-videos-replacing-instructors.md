@@ -54,3 +54,7 @@ Likert items on future inclusion of AI videos in coursework, from the same post-
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related
 - [Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest](stable-mean-rank-ordering-four-video-types.md) — reports the opposite
 - [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
+- [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — reports the opposite
+- [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
+- [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](human-presence-preference-smaller-than-personalization.md) — related
+- [Participants reported preferring learning from videos over learning from digital texts](students-prefer-learning-from-videos.md) — related

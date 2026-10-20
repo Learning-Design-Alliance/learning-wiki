@@ -50,3 +50,5 @@ Secondary behavioral measure from the same probabilistic reversal learning task 
 - [Adolescents show increased anterior insula responses specifically to negative reward prediction errors](adolescent-ains-increased-negative-rpe-response.md) — related
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — a broader claim this one bears on
 - [Group-by-RPE interaction in the anterior insula without a general group effect in overall activation](ains-group-by-rpe-interaction-omnibus.md) — related
+- [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
+- [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related

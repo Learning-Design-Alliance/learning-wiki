@@ -44,3 +44,5 @@ The author's caution, citing prior anonymization work, that applying noise-intro
 
 ## Related Claims
 - [Machine perception and learning depend on large, unbiased training data](ai-big-ideas-data-and-knowledge-dependence.md) — related
+- [Researchers may need to treat all remotely collected data as potentially identifiable personal data](treat-remote-data-as-potentially-identifiable.md) — related
+- [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related

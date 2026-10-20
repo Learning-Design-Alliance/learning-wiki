@@ -49,3 +49,5 @@ The author, Dale's mentee, corrects the misconception that Dale was a realism th
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - Relational-domain programs are argued to be workable only under highly individualized instruction matched to learners' concrete-abstract developmental stage — related
 - A theoretical gap exists between delivery-system/media theory and instructional strategy theory and other ISD steps — related
+- [Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes](teachers-highlight-tactical-decisions-debriefing.md) — related
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related

@@ -64,3 +64,7 @@ ANCOVA on the MST_T at T2 in the same randomized study showed a significant cond
 ## Related Claims
 
 - [The four aggregated non-hybrid training groups did not differ on the dependent variables of the analyses](non-hybrid-groups-no-difference-dependent-variables.md)
+- [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — related
+- [Cognitive strategy application in a far-transfer task after hybrid training depends on the specific strategy: text highlighting transferred, conducting experiments did not versus non-hybrid training](far-transfer-cognitive-strategy-application-strategy-dependent.md) — related
+- [Hybrid training fosters far transfer of metacognitive skills to a new cognitive strategy, though one hybrid condition did not beat control](hybrid-training-fosters-far-transfer-metacognitive-skills.md) — related
+- [Before metacognitive skill training, fifth graders possessed none of the metacognitive skills later trained, so metacognitive skills are task-specific at first and become domain-general only through transfer](fifth-graders-lack-metacognitive-skills-before-training.md) — related

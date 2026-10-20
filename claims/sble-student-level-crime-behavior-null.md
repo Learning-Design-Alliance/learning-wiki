@@ -51,3 +51,5 @@ Robust variance estimation meta-analysis of 349 student-level effect sizes from 
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
 - [SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes](sble-no-effect-crime-subcategories.md) — related
+- [Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes](sble-student-level-exclusionary-discipline.md) — related
+- [SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses](sble-associated-higher-crime-behavior-school-level.md) — related

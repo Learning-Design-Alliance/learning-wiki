@@ -53,3 +53,4 @@ Same 120-participant experiment; absolute error was the absolute difference betw
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
+- [Instructional condition did not significantly affect readers' predictive judgments of understanding](no-condition-effect-predictive-judgments.md) — related

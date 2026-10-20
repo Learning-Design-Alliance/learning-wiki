@@ -46,3 +46,7 @@ Authors' interpretation in the abstract, elaborated in the introduction: people 
 
 - [Participants seek help less often than they withhold answers when both strategies are available or compared across conditions](help-seeking-less-frequent-than-withholding.md)
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md)
+- [The association between confidence and help seeking is weaker than the association between confidence and withholding answers](weaker-confidence-help-seeking-than-withholding.md) — related
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](withholding-improves-output-bound-accuracy-help-seeking-not.md) — a narrower finding that bears on this claim
+- [The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers](larger-confidence-overlap-help-seeking.md) — a narrower finding that bears on this claim
+- [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related

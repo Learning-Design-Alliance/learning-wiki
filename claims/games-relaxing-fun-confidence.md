@@ -48,3 +48,4 @@ Content analysis of general views on games (Table 1) found relaxing and fun were
 - Students most frequently attribute fluency and pronunciation gains to games — related
 - [Students report games make the classroom atmosphere fun and increase participation](games-fun-atmosphere-participation.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related

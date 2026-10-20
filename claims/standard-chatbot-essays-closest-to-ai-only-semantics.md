@@ -44,3 +44,4 @@ Exploratory joint PCA of participant and AI-only essay embeddings (Gemini Embedd
 
 ## Related Claims
 - [Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants](engage-to-unlock-lower-ai-text-coverage.md) — related
+- [In this experiment, drafts—human-written or AI-generated—anchored the final essay, with AI-generated drafts revised somewhat more but underlying phrases largely retained across conditions.](drafts-anchor-final-essay-text.md) — related

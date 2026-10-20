@@ -44,3 +44,4 @@ Qualitative finding from interviews with Design Team members across the LEAs. Pa
 - [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](centering-teacher-of-color-voice-distributed-leadership.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - [LEA Design Teams came to believe that focusing first on teacher-of-color retention builds conditions that later support recruitment](retention-first-pays-recruitment-dividends.md) — related
+- [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related

@@ -48,3 +48,6 @@ The article's concluding argument, offered without empirical data: the epistemol
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Cognitive partnerships with AI enable students to engage in theoretical and empirical reflection that the authors characterize as genuinely novel epistemic practices](ai-partnership-novel-theoretical-empirical-reflection.md) — a narrower finding that bears on this claim
+- [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
+- [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — related

@@ -45,3 +45,4 @@ Authors' interpretation in the discussion, from their co-development experience 
 ## Related Claims
 - The authors argue that co-establishing the service-learning project with the community partner secures partner buy-in and lasting community value — related
 - [Community partners report that co-planning under the CSL model gives them a voice in what the service project will be and how it is implemented](csl-co-planning-gives-community-partners-voice-in-project.md) — related
+- [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related

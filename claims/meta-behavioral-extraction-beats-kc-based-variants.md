@@ -48,3 +48,7 @@ Ablation on ASSISTments2009 across six architectures (DKT, DKVMN, AKT, SAINT, Re
 - [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — a narrower finding that bears on this claim
 - The expert-designed KC model adds little predictive power on most datasets, with significant contributions only on the two KDD Cup 2010 datasets — related
 - [In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones](tsdr-ablation-smoothness-on-imputation-branch.md) — related
+- [Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty](kt-encoders-entity-isolated-deterministic-limits.md) — related
+- [TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets](tsdr-improves-kt-backbone-auc-benchmarks.md) — related
+- [A Bayesian DINA model converges successfully on educational response data with 91.3% sparsity where the EM algorithm failed](bayesian-dina-converges-sparse-data.md) — related
+- [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related

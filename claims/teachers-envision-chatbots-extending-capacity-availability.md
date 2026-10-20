@@ -51,3 +51,6 @@ Focus-group thematic analysis identified two complementary ways teachers envisio
 - [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related
 - [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — related
+- [Teachers envision AI companion literacy as shared work across stakeholders, starting early and spiraling across grade levels, but disagree on which level owns it](ai-companion-literacy-shared-stakeholder-responsibility.md) — related
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related
+- [Pedagogical considerations and workload reduction potential are additional factors influencing teachers' acceptance of AI-EdTech, beyond trust](pedagogical-considerations-workload-reduction-acceptance-factors.md) — related

@@ -46,3 +46,4 @@ The review reports, citing Bettinger and Slonim (2007), an experiment in which c
 
 - [Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish](adolescent-impatience-predicts-high-school-dropout.md)
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md)
+- [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md) — related

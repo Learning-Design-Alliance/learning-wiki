@@ -44,3 +44,5 @@ The WWC's extent-of-evidence categorization across the three outcome domains, ea
 
 ## Related Claims
 - [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — related
+- [The evidence base for CWPT in beginning reading is small, with no standards-meeting studies of alphabetics, fluency, or comprehension](cwpt-evidence-base-small-reading-domains.md) — related
+- [The evidence base for Corrective Reading in grades K–3 is small: one of 25 reviewed studies met WWC standards, and no studies addressed general reading achievement](corrective-reading-small-evidence-base.md) — related

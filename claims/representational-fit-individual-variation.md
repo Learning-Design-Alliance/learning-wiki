@@ -51,3 +51,7 @@ Qualitative theme from interview accounts in the same study: some students found
 - [Interviews indicate individualized AI-generated identity-based relevance was perceived as overly abstract, while collective AI dialogue connected math to current concerns and cross-domain applications](ai-relevance-perceptions-abstract-versus-proximal.md) — related
 - [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — related
 - [A single representation can be abstract along one dimension and concrete along another, and concrete for one learner but abstract for another](representation-abstract-one-dimension-concrete-another.md) — related
+- [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](prior-experience-shapes-view-engagement.md) — related
+- [Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible](interactive-visual-grounding-relational-interpretation.md) — related
+- [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
+- [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related

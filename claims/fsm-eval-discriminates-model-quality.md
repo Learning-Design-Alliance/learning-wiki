@@ -68,3 +68,5 @@ Same discriminative-power analysis (RQ2, Fig. 4) reporting that interaction qual
 - [HAL's text-based human-likeness advantage did not transfer to embodied audiovisual interaction, and measured 3E performance was virtually identical between models](hal-human-likeness-did-not-transfer-embodied.md) — related
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related
 - [No significant differences emerged between GPT-3.5 Turbo and Claude 3 Opus on affective, collaborative, or performance measures](no-difference-gpt35-turbo-claude3-opus.md) — related
+- [Cross-model validation shows consistent degradation under multi-strategy attack across Llama-3.3-70B, GPT-4o-mini, and Claude-3.5-Haiku, with significant differences between models](cross-model-rpla-degradation-consistent.md) — related
+- [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related

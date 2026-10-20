@@ -48,3 +48,6 @@ Moderator analysis of context of scaffolding use (problem-based, case-based, des
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — related
 - [Scaffolding's effect was greatest among adult learners, though based on a single outcome](scaffolding-effect-greatest-adult-learners.md) — related
+- [Scaffolding's influence was greater when measured at the principles assessment level than at the concept level](principles-level-assessment-highest-scaffolding-effect.md) — related
+- [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related
+- [Teaching type, intervention duration, subject area, group size, and learning scaffold significantly moderate the effect of collaborative problem-solving on critical thinking](five-significant-moderators-cps-critical-thinking.md) — related

@@ -51,3 +51,4 @@ Independent t-test comparing posttest scores of the two test-sequence groups (n=
 - [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related
 - [No significant gender difference in word-problem performance on either formatted or unformatted test forms](no-gender-difference-either-test-form.md) — related
 - [Embedding computational thinking in a sixth-grade mathematics classroom significantly increased students' understanding of mathematical processes versus control](ct-embedded-sixth-grade-math-increased-understanding.md) — related
+- [Student interviews indicate the formatted plan demanded more work and time, with mixed perceptions of step helpfulness](interview-perceptions-problem-solving-plan-steps.md) — related

@@ -52,3 +52,5 @@ The authors' interpretation of process-mining findings: TFA groups showed high m
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [PIA and TFA types differ structurally in deliberative networks, with PIA centred on establishing strategy, educating, agreeing and monitoring](ena-structural-differences-pia-tfa.md) — related
+- [PIA and TFA clusters differ significantly in both deliberative and regulatory interaction proportions](pia-tfa-significant-differences-chi-square.md) — related

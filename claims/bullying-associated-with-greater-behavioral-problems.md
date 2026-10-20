@@ -50,3 +50,8 @@ Cross-sectional ABCD analysis using caregiver-reported CBCL. The study reports "
 - [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](bullying-nssi-suicidality-compounded-outcomes.md) — related
 - [Bullied preadolescent children have poorer academic grades than non-bullied peers](bullying-associated-with-poorer-academic-grades.md) — related
 - [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related
+- [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — related
+- [Boys are more likely than girls to be reported as bullied in preadolescence](boys-more-likely-bullied-than-girls-preadolescent.md) — related
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — related
+- [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
+- [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](bullying-associated-with-nssi-and-suicidality-preadolescents.md) — related

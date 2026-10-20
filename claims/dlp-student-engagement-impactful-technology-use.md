@@ -68,3 +68,6 @@ Teacher-reported perceived impact on student engagement and learning across the 
 - [After one year of DLP coaching, coached teachers reported more frequent and more powerful technology use than non-participating colleagues](dlp-teachers-more-frequent-powerful-technology-use.md) — related
 - [Coached teachers report more frequent impactful technology use practices developing student skills](coaching-increases-impactful-technology-use-practices.md) — related
 - [Coached teachers report greater impact of their technology use on student engagement and learning](coaching-increases-perceived-itu-impact-engagement-learning.md) — related
+- [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](dlp-multiple-cycles-greater-progress.md) — related
+- [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — related
+- [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related

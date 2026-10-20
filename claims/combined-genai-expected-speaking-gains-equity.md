@@ -67,3 +67,5 @@ Theoretical expectation (Expectation 8) on equity, informed by cited research th
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
 - [The Trainer is expected to improve attitudes toward peer feedback relative to rubric-only instruction](trainer-expected-improve-peer-feedback-attitudes.md) — related
 - [Over eight weeks, university learners receiving reinforcement learning-optimized oral practice sequencing attained normalized learning gains approximately 2.2 times higher than learners following fixed curricula](rl-sequencing-beats-fixed-oral-curriculum.md) — related
+- [The Synthesizer is expected to reduce perceived overload and support affect relative to unstructured comment lists](synthesizer-expected-reduce-overload-support-affect.md) — related
+- [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](synthesizer-expected-support-uptake-action-planning.md) — related

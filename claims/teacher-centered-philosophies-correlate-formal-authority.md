@@ -47,3 +47,5 @@ Correlation analysis (Pearson, N=301) after Kolmogorov-Smirnov tests showed all 
 - Physical education teachers working in high school endorse perennialism more than those in secondary school, with no significant school-type difference in the other four philosophies — related
 - [Adopted educational philosophy is significantly positively related to teaching style](philosophy-significantly-related-teaching-style.md) — a broader claim this one bears on
 - [Student-centered philosophies correlate with personal, facilitator and delegator teaching styles](student-centered-philosophies-correlate-student-centered-styles.md) — related
+- [Majority of classroom teachers adopt experimentalist philosophy](classroom-teachers-mostly-adopt-experimentalism.md) — related
+- [In Grossman's case study, English teachers without formal teacher education adopted text-centered instruction, while teacher education graduates adopted student-centered instruction](teacher-education-graduates-student-centered-text-selection.md) — related

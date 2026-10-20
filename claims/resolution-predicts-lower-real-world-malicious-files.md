@@ -65,3 +65,4 @@ Logistic regression (Model 2, Table 3) predicting presence of malicious files in
 - [Individual and task factors fail to predict resolution, while perceived consequences predict calibration in opposite directions for phishing and legitimate emails](predictors-of-metacognition-null-resolution-consequences-calibration.md) — related
 - [Email-detection confidence judgments show good calibration but poor resolution, with aggregate overconfidence of 18%](phishing-metacognition-good-calibration-poor-resolution.md) — related
 - [Future anti-phishing interventions should measure both performance and metacognition, aiming to shift the phishing calibration curve toward the legitimate-email pattern](measure-performance-and-metacognition-in-interventions.md) — related
+- [Calibration is worse and resolution better for phishing emails than for legitimate emails](calibration-worse-resolution-better-phishing-versus-legitimate.md) — related

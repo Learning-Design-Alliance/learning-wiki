@@ -45,3 +45,6 @@ The review reports that it draws on "evidence from the laboratory and the field"
 ## Related Claims
 - Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — a narrower finding that bears on this claim
 - [Students perceived a jump in accountable disciplinary knowledge in the advanced laboratory, describing more authentic, less prescribed work than in previous labs](adlab-students-perceived-adk-jump-and-authentic-practice.md) — a narrower finding that bears on this claim
+- [Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains](favorability-moderates-format-benefit-low-self-efficacy.md) — related
+- [Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects](genai-cbl-faculty-guided-conditional-benefits.md) — related
+- [Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method](favorability-not-associated-with-posttest-scores.md) — related

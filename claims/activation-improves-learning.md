@@ -129,3 +129,4 @@ Open questions include how much guidance activation prompts need (open recall vs
 - [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](checkpoints-and-definitions-improved-clarity.md) — related
 - [Advance organizers facilitate conceptual retention and far transfer of unfamiliar technical material for learners lacking relevant prior knowledge](advance-organizers-far-transfer-unfamiliar-technical-material.md) — related
 - [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — related
+- [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — related

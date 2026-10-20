@@ -45,3 +45,4 @@ Director interview findings on SSSC funding across 29 states. More than half of 
 ## Related Claims
 - [Over 65% of surveyed states reported having a state school safety center, and over 96% of those centers were still operational](over-65-percent-states-report-sssc-operational.md) — related
 - [Over 70% of operational SSSCs are situated within larger state agencies and are funded mainly through state appropriations and federal or state grants](ssscs-housed-in-state-agencies-state-federal-funding.md) — related
+- [Most grant-funded residency programs have not yet broadened funding sources or adopted cost-reduction strategies beyond the one-time grant](programs-not-broadening-funding-sources.md) — related

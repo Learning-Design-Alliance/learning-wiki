@@ -85,3 +85,7 @@ Analysis of credential-type distribution among inexperienced (2 or fewer years) 
 - In Michigan districts where most students are Black, students are far more likely than peers in majority-white districts to have inexperienced or out-of-field teachers — related
 - [Most survey respondents said the GSTG influenced their decision to pursue teaching, complete preparation, and teach in a priority school, with strongest perceived impacts among candidates of color](gstg-perceived-impact-career-decisions.md) — related
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
+- [Approximately four fifths of LEAs reported not having enough qualified staff to teach TK](tk-teacher-shortage-four-fifths.md) — related
+- [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](tk-workforce-lead-sufficiency-aide-vacancies.md) — related
+- [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — related
+- [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related

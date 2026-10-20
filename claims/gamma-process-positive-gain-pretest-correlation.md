@@ -73,3 +73,4 @@ The article's summary of existing experimental studies (Section IV) documenting 
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — reports the opposite
+- [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](prior-knowledge-moderates-feeling-of-learning-accuracy.md) — related

@@ -48,3 +48,4 @@ In this opinion paper Cummins clarifies that the sequential nature of BICS/CALP 
 - [Immigrant children acquire peer-appropriate conversational fluency in English within about 2 years but require considerably longer (5-10 years) to catch up academically in English](bics-acquired-faster-than-calc-immigrant-children.md) — related
 - [Assuming conversational fluency indicates English proficiency has led to bilingual children being misdiagnosed as learning disabled or retarded and to premature exit from support programs](conversational-fluency-misleading-proficiency-indicator.md) — related
 - Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — related
+- [BICS-level language can be acquired in about two years regardless of age on arrival and first language](bics-acquired-two-years-all-ages.md) — related

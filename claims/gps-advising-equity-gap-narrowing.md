@@ -46,3 +46,7 @@ The paper's review of the GPS Advising deployment, which tracks more than 40,000
 - Georgia State's Panther Retention Grant program was followed by 82% of recipients graduating or remaining enrolled one year later — related
 - In the A2S baseline, the average six-year graduation rate for Pell recipients was 45 percent versus 57 percent for higher-income students — related
 - Pell Grant recipients at four-year institutions graduate at a rate 14 percentage points lower than non-Pell students nationally (51% vs. 65% in six years) — related
+- [A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets](sequential-risk-policy-concentrates-failures.md) — related
+- [Graduation rates improved for all racial, ethnic, and economic groups, but racial and ethnic gaps increased while gender, poverty, and disability gaps declined](graduation-gaps-racial-widened-others-narrowed.md) — related
+- [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related

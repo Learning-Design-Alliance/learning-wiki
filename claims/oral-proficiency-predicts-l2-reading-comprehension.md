@@ -56,3 +56,8 @@ The article reports, citing Droop and Verhoeven (2003), that bilingual Turkish-D
 - Reading development proceeds from oral language through decoding and fluency to comprehension, but as an interwoven lattice rather than a simple linear process — related
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite
 - [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](l2-decoding-strong-relationship-english-comprehension.md) — reports the opposite
+- [L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older](l1-decoding-positive-relationship-english-comprehension.md) — reports the opposite
+- [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
+- [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](l2-oral-language-correlates-english-reading-comprehension.md) — related
+- [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — related
+- [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related

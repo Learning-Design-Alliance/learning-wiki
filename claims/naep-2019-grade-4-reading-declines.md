@@ -48,3 +48,4 @@ The NAEP 2019 results infographic reports grade 4 reading trends, printing "Decr
 - [Grade 8 reading scores in 2019 decreased across the performance distribution, with greater decreases at the 10th and 25th percentiles](naep-2019-grade-8-reading-declines.md) — related
 - [Average reading scores in 2019 were lower in more than half of states at grade 8 and in approximately one-third of states at grade 4, while mathematics scores were mainly steady across states](naep-2019-state-reading-declines.md) — related
 - Fourth-grade reading gains were concentrated among lower- and middle-performing students at the 10th, 25th, and 50th percentiles, whose 2007 scores exceeded all previous assessments — related
+- [Percentages of students at or above NAEP Proficient were unchanged in mathematics and lower in reading since 2017 at grades 4 and 8](naep-2019-proficient-unchanged-math-lower-reading.md) — related

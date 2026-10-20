@@ -44,3 +44,5 @@ Figure-reported completion times by number of image modifications show AIfred fa
 
 ## Related Claims
 - [Drawings produced with AIfred are ranked best by independent art and design professors in 33 of 36 cases](aifred-drawing-quality-ranked-first.md) — related
+- [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
+- [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related

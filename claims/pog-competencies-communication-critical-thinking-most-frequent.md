@@ -45,3 +45,6 @@ WestEd's calculations from a scan of publicly available district and state POGs,
 ## Related Claims
 - [POG development approaches vary across states, with about a dozen state education agencies leading standardized statewide frameworks and other states leaving development to individual districts](pog-development-approaches-vary-state-versus-district.md) — related
 - [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — related
+- [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
+- [Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels](districts-use-varied-pog-assessment-methods.md) — related
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related

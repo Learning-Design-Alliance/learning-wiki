@@ -51,3 +51,4 @@ The abstract states that the article discusses "how these advantages can be used
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related
 - [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
+- [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related

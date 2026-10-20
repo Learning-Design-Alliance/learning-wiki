@@ -45,3 +45,4 @@ Content analysis of 50 teacher essays on approaching markers. The article states
 - [Structural and dynamical future-scaffolding skills appeared in teachers' visions, led by causal-relationship identification and present-future shifting](future-scaffolding-skills-teacher-essays.md) — related
 - [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related
 - [Students' perceptions of futures broadened and pluralised, and deterministic thought patterns were questioned](course-pluralised-futures-questioned-determinism.md) — related
+- [Imagining preferable futures, especially via backcasting, was seen by students as creating possibilities for agency](preferable-futures-backcasting-agency.md) — related

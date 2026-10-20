@@ -51,3 +51,5 @@ The brief's narrative synthesis of prior work (Daniels, Royster & Vecchi 2007; N
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
 - School leaders varied widely in implementing district security protocols, such as metal detector and bag-check enforcement — a narrower finding that bears on this claim
+- [Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings](crisis-response-does-not-prevent-shootings.md) — related
+- [Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use](security-cameras-and-metal-detectors-lack-safety-evidence.md) — related

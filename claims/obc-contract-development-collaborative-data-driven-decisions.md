@@ -82,3 +82,5 @@ Interview finding on outcomes selection; the report notes assessment selection "
 - [OBCs drove increased edtech implementation rates, boosted by provider implementation support, despite challenges including buy-in, staff workload, unclear terms, leadership turnover, and time constraints.](obc-increased-implementation-rates.md) — related
 - [Providers gained super users of their products and learnings for product design and effective implementation support through OBC engagement.](obc-provider-super-users-product-learning.md) — related
 - [Consolidating edtech tools enabled DPS to pursue vendor partnerships that systematically compare app usage with student data to evaluate tool effectiveness](dps-consolidation-enables-impact-analysis.md) — related
+- [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — related
+- [Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences](seernet-wave1-coherence-challenge.md) — related

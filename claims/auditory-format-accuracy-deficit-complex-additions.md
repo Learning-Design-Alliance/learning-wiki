@@ -44,3 +44,4 @@ The format × age-group interaction on complex-addition CRs (η² = 0.153) showe
 - [Language effects on complex-addition accuracy are larger in auditory than visual presentation format](language-effect-larger-auditory-format.md) — related
 - [Calculation complexity strongly modulates language, format and age-group effects on bilingual arithmetic](complexity-modulates-language-effects-arithmetic.md) — a broader claim this one bears on
 - [Complex additions are solved faster and more accurately in German than French across all five bilingual proficiency stages](complex-additions-german-advantage-bilinguals.md) — related
+- [Simple additions are retrieved with equal accuracy in both languages from grade 10 onward, though still faster in German](simple-additions-equal-accuracy-higher-grades.md) — related

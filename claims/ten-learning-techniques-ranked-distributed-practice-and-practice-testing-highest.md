@@ -63,3 +63,10 @@ Even the lowest techniques average d = 0.44, but the outcomes were mostly surfac
 - [Learning-technique effects do not shrink across test delays from the same day to six months](learning-technique-effects-stable-over-test-delays-up-to-six-months.md) — the same synthesis
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — a narrower finding that bears on this claim
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — a narrower finding that bears on this claim
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
+- [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related
+- [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) — related
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
+- [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — related
+- [Practice testing and distributed practice receive high utility assessments because their benefits generalize widely across learners, tasks, and educational contexts](practice-testing-distributed-practice-high-utility.md) — related
+- [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](nz-undergrads-endorse-effective-strategies-more.md) — related

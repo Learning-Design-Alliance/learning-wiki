@@ -48,3 +48,4 @@ The report's special education section states that because LEAs are obligated to
 ## Related Claims
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
 - [Additional special education costs vary substantially by primary disability category](disability-category-cost-variation.md) — related
+- [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](differentiated-special-education-funding-improves-outcomes.md) — related

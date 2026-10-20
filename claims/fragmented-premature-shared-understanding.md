@@ -49,3 +49,5 @@ Interaction analysis (Extract 3) of group 7 choosing between two aerial photos: 
 - [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](social-and-technology-objects-reconstruction-phase.md) — related
 - [The four Special Issue learning communities mediated members toward consensus, with no reports of longstanding dissent](special-issue-communities-mediated-toward-consensus.md) — related
 - [The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus](facilitator-role-shifting-shared-account.md) — related
+- [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](information-sharing-without-interpretation-prevalent.md) — related
+- [Scripted roles scaffold students' cognitive responsibility for building common knowledge in knowledge-building environments](scripted-roles-scaffold-cognitive-responsibility-knowledge-building.md) — related

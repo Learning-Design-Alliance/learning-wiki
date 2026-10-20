@@ -46,3 +46,5 @@ Synthetic within-study comparison generating RD datasets from two experimental e
 - Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — a narrower finding that bears on this claim
 - Regression discontinuity estimates show high internal validity, with average bias below 0.01 standard deviations relative to RCT estimates at the same cutoff — a narrower finding that bears on this claim
 - Shrunken study-specific RD bias estimates stay below 0.07 standard deviations, indicating good external validity — a narrower finding that bears on this claim
+- [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related
+- [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related

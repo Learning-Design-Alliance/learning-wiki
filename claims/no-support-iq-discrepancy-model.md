@@ -53,3 +53,5 @@ Pearson correlations between the KBIT-2 Matrices measure and Year 1 measures in 
 - [Cascade models in which IQ mediates the WM-to-achievement path fit comparably to, but not significantly better than, the original correlated models](cascade-model-iq-mediation-comparable-fit.md) — related
 - [PA and RAN deficit profiles are over-represented in low-SES schools, while the double-deficit profile distribution is proportional to school SES group size](pa-ran-deficits-overrepresented-low-ses.md) — related
 - [Latent profile analysis of kindergarten pre-reading measures yields six distinct performance profiles, including PA risk, RAN risk, and double-deficit risk groups](six-latent-prereading-profiles-kindergarten.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [Crowding effects, pre-cue dependence and set size effects each correlate significantly with reading and spelling measures](attention-measures-correlate-literacy.md) — related

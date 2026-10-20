@@ -46,3 +46,5 @@ Descriptive end-of-year survey of NAMI On Campus Club participants (Table 1, n =
 - [The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions](nami-club-network-growth-stanislaus.md) — related
 - Educators and students reported that the 360 Filmmakers Challenge built students' technical and creative production skills with emerging media technologies — related
 - [Developers unanimously agreed Prompt Coach improved their prompt-writing skills and reported strong trust, personalization, and adoption readiness](prompt-coach-positive-learner-perceptions.md) — related
+- [Project Cal-Well in Stanislaus County trained 1,750 mental health workforce members and more than 12,000 non-workforce individuals between fall 2019 and December 2023](cal-well-stanislaus-training-reach.md) — related
+- [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related

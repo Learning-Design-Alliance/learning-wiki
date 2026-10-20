@@ -47,3 +47,4 @@ Bivariate correlations in the grade 5 study (effective n=39) show the VisA instr
 - [The think-aloud measure predicts word problem solving performance, explaining 33 percent of variance](think-aloud-measure-predicts-problem-solving.md)
 - [The VisA instrument and think-aloud measure converge moderately and each contributes unique predictive variance for word problem solving](visa-think-aloud-moderate-overlap-unique-variance.md)
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md)
+- [Several sophisticated metacognitive regulation activities showed little to no variance among grade 5 students during think-aloud problem solving](grade5-metacognitive-activities-no-variance.md) — related

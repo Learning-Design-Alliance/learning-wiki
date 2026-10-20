@@ -46,3 +46,9 @@ Comparative synthesis within the review's literature analysis, citing multiple p
 
 - [Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools](positive-campus-racial-climate-vital-black-student-success.md)
 - [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md)
+- [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](deficit-thinking-negative-climate-relationships.md) — related
+- [Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools](racism-psychological-implications-belonging.md) — related
+- [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related
+- [Within the same neighborhoods and schools, boys and Black students are more likely to be overage for grade, a proxy for prior retention](boys-black-students-more-likely-overage.md) — related
+- [Most measured dimensions of school racial climate are significantly correlated with students' school belonging across educational levels](racial-climate-dimensions-significantly-correlated-belonging.md) — related
+- [Teachers of color in focus groups report five workforce challenges: antagonistic culture, feeling undervalued, deprived agency and autonomy, unfavorable working conditions, and high personal costs](five-challenges-teachers-of-color-face.md) — related

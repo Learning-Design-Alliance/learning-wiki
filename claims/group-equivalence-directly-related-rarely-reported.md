@@ -49,3 +49,4 @@ Coding of the 176 Freeman et al. (2014) articles found "a group equivalence meas
 - [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](active-learning-results-favor-experimental-group.md) — related
 - [Most active learning studies did not operationally define the control (lecture) condition](control-condition-operational-definition-missing.md) — related
 - [Implementation fidelity was assessed in fewer than 8% of active learning intervention studies](implementation-fidelity-rarely-assessed-active-learning.md) — related
+- [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related

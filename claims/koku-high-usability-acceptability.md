@@ -52,3 +52,6 @@ Descriptive summarisation of usability and acceptability questionnaires complete
 - [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — related
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
+- [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
+- [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related

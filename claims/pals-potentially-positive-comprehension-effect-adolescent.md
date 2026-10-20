@@ -87,3 +87,6 @@ The Effectiveness Summary section states the WWC rating rationale: one study sho
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](pals-no-discernible-math-effects-ld.md) — related
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
 - [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related
+- [Clustering effects in education random-assignment trials vary by design but are typically large, requiring large school samples](clustering-effects-large-school-samples-education-trials.md) — related
+- [Disciplinary Literacy Instruction Improves Comprehension](disciplinary-literacy-instruction-improves-comprehension.md) — related
+- [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — a narrower finding that bears on this claim

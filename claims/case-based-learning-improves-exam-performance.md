@@ -68,7 +68,7 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 |---|---|---|---|
 | [Bonney 2015](https://doi.org/10.1128/jmbe.v16i1.846) | q2 · causal · r2 | i? | this claim |
 | [Thistlethwaite et al. 2012](https://doi.org/10.3109/0142159x.2012.680939) | q3 · review · r3 | i? | this claim |
-| [Zhao J 2026](https://doi.org/10.3389/feduc.2026.1907589) | q2 · review · r2 | i? | [Case-based learning benefits depended on faculty-guided embedding, while complex cases and](genai-cbl-faculty-guided-conditional-benefits.md) (qualifies) |
+| [Zhao J 2026](https://doi.org/10.3389/feduc.2026.1907589) | q2 · review · r2 | i? | [Case-based learning benefits were reported particularly when GenAI was embedded in faculty](genai-cbl-faculty-guided-conditional-benefits.md) (qualifies) |
 | [Alrazeeni 2026](https://doi.org/10.1177/23779608261424597) | q2 · review · r2 | i? | [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticip](ai-ambulatory-case-simulations-diagnostic-reasoning.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -98,3 +98,5 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — related
 - [In one NVCC summer bridge cohort, 100 percent of students continued to the next semester, described as much higher than normal retention rates](nvcc-bridge-program-full-retention.md) — related
 - [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — related
+- [For introductory biology students with low topic-specific prior knowledge, problem-solving-first (PS-I) outperformed instruction-first (I-PS) on a near-transfer test](ps-i-beats-i-ps-near-transfer-low-prior-knowledge.md) — related
+- [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related

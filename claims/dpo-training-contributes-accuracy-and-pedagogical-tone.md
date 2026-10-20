@@ -46,3 +46,4 @@ Model-level ablation (Table 3): full VietEduQwen rated High pedagogical quality 
 - [VietEduQwen achieves 87.02% accuracy on the 2025 Vietnamese National High School Examination, a 6.10-percentage-point gain over the base Qwen3-8B model](vieteduqwen-87-exam-accuracy-gain-over-qwen3-8b.md) — related
 - [Both RL stages are needed: removing DPO and GRPO training causes the largest performance drop in student simulation](rl-stages-needed-faithful-student-simulation.md) — related
 - [Federated aggregation is the primary driver of performance gains, contributing an average 11.99% improvement](federated-aggregation-primary-performance-driver.md) — related
+- [VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration](vieteduqwen-subject-wise-stem-gains-error-modes.md) — related

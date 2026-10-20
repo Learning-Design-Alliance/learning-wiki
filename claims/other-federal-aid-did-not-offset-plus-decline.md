@@ -75,3 +75,6 @@ Institution-level analysis of HBCU financial aid in 2012-13 and 2013-14; the art
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - Credit disparities make private loans harder to access for Black, Native American, and Latino communities — related
 - [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related
+- [A dynamic model of education, borrowing, and work decisions is used to assess how raising government-sponsored loan limits would affect educational attainment and college entry timing](dynamic-model-borrowing-constraints-college-entry.md) — related
+- [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related
+- [PLUS loans at HBCUs increased somewhat in 2013-14 after the Department of Education streamlined the PLUS appeals process](plus-loans-increased-somewhat-2013-14-appeals-streamlined.md) — related

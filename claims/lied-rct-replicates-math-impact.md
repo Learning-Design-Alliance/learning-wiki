@@ -50,3 +50,4 @@ Randomized controlled trial exploiting Lied's oversubscription lottery: 1,023 fi
 - [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
 - [The evaluation has not yet rigorously examined whether the magnet schools reduce, eliminate, or prevent minority group isolation; this is deferred to the final report](minority-group-isolation-outcome-deferred.md)
+- [Attendance at Gehring STEM Academy had statistically significant positive impacts on mathematics and reading achievement in grades 1-5 after up to 1.5 years, with no significant science impacts](gehring-magnet-qed-math-reading-impacts.md) — related

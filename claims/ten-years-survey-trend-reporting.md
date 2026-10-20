@@ -46,3 +46,7 @@ Descriptive statement from the report overview. The document states that a decad
 - [School survey reports benchmark each school against demographically similar schools and the whole system over a ten-year period](survey-reports-benchmark-similar-schools-over-time.md) — possibly the same claim (merge candidate)
 - [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
 - [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related
+- [Survey data came primarily from teacher and student surveys conducted in 1994, with school counts varying by measure and wave](survey-waves-1994-primary-school-counts-vary.md) — related
+- [The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools](2005-ccsr-survey-participation-454-schools.md) — related
+- [The 2005 Chicago survey reached nearly 130,000 students, teachers, and principals](2005-chicago-survey-nearly-130000-participants.md) — related
+- [School survey reports compare each school's responses to demographically similar schools and to the system as a whole](survey-reports-compare-demographically-similar-schools.md) — a broader claim this one bears on

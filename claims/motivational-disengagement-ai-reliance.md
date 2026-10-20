@@ -54,3 +54,5 @@ Frequency counts from the grounded theory coding of student accounts. Representa
 - [Students with a better understanding of how AI systems work show higher academic self-efficacy](ai-understanding-higher-self-efficacy.md) — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related
+- [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related
+- [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](reliance-awareness-most-valued-outcome.md) — related

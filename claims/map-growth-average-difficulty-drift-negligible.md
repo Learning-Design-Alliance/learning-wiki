@@ -47,3 +47,4 @@ Item recalibration of items analyzed after excluding those with fewer than 1,000
 - [Students encountered substantial numbers of items with changed parameter estimates, averaging 11–38% of test length by subject](drifted-items-encountered-per-test.md) — related
 - [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](map-growth-scales-remaining-stable.md) — a broader claim this one bears on
 - [Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items](map-growth-ongrade-allgrade-mean-difference-under-01-logit.md) — related
+- [Flagged items showed no clear pattern by original difficulty, spreading across the entire scale like unflagged items](flagged-items-no-difficulty-pattern.md) — related

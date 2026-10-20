@@ -74,3 +74,7 @@ Hypothesis 5 was supported in the experiment: visual-knowledge means were 10.18 
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
 - [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](media-rich-videos-more-engaging-than-text-only.md) — related
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — related
+- [Congruent pictures paired with text facilitate reading comprehension better than text alone or pictures alone](congruent-pictures-with-text-facilitate-comprehension.md) — related
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — related

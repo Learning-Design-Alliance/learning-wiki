@@ -62,3 +62,9 @@ This is the review's synthesis of the direct instruction category of its 33 incl
 - [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](implicit-strategies-inconclusive-domain-specific-only.md) — possibly the same claim (merge candidate)
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
+- [Proportions of significant CT gains vary by instructional approach, but approach alone does not determine effectiveness](instructional-approach-alone-does-not-determine-ct-effectiveness.md) — related
+- [Purposely teaching for higher order thinking skills enhances high school students' critical thinking compared with traditional teaching](hots-teaching-enhances-critical-thinking.md) — related
+- [The type of CT measure employed (standardized vs. non-standardized; item format) influences evaluation of intervention effectiveness](ct-measure-type-influences-effectiveness-evaluation.md) — related
+- [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](year-level-moderates-ct-instruction-effectiveness.md) — related
+- [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — related
+- [Critical thinking instruction transfers better when taught alongside academic content than as a standalone subject](critical-thinking-transfer-better-alongside-content.md) — related

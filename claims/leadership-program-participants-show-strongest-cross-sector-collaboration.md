@@ -52,3 +52,6 @@ Semi-structured interviews with central-office administrators and school princip
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
+- [Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff](central-office-relationships-stronger-at-top-with-rifts-among-other-staff.md) — related
+- [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
+- [School leaders should be viewed and trained as instructional leaders](school-leaders-as-instructional-leaders.md) — related

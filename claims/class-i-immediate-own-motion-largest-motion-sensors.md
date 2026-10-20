@@ -64,3 +64,4 @@ Descriptive analysis of Class I environments found that in "30 out of the 34" mo
 ## Related Claims
 - [Review analysis uncovered eight mediating factors for students' understanding of graphing motion, mentioned in 127 instances across the 62 learning environments](eight-mediating-factors-embodied-graphing-motion.md) — related
 - [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](immediate-own-motion-most-effective-graphing-motion.md) — related
+- [PDE studies embodying the four design principles most strongly were associated with the strongest PDE outcomes](pde-principle-strength-associated-outcomes.md) — related

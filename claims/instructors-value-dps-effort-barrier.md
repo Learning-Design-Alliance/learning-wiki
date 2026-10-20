@@ -64,3 +64,6 @@ The same survey found that although 71.0% said they explicitly assess HOT, only 
 ## Related Claims
 - [Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions](dp-grades-uncorrelated-with-project-grades.md) — related
 - [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related
+- [Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower](student-perceptions-of-dps-differ-from-experts.md) — related
+- [Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode](dp-performance-varies-by-administration-mode.md) — related
+- [Half of LLM-generated design problems received perfect expert ratings, though common failure modes included scenarios too similar to the original project and ambiguous scope](llm-dp-quality-failure-modes.md) — related

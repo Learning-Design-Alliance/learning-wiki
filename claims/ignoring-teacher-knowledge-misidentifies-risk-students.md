@@ -49,3 +49,4 @@ The abstract warns, as an argument rather than a finding, that ignoring the diff
 - [Including demographic variables as predictors can reduce actionability by de-emphasizing correlated actionable risk factors and by discounting intervention effects](demographic-predictors-reduce-actionability.md) — related
 - Early-stage performance data is particularly important for predicting attrition, while demographic data has limited predictive value once performance data is available — related
 - [Predictive learning analytics can generate early warnings of dropout risk and trigger targeted interventions in adult education](predictive-analytics-early-warning-dropout-adults.md) — related
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related

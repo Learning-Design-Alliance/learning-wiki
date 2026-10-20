@@ -53,3 +53,5 @@ The brief's key findings state that despite grade gains, "evidence of changes in
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related
+- [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
+- [Students reported statistically significant pre-post improvements in attitudes about learning after the summer ed-tech programs](summer-edtech-attitude-gains-significant.md) — related

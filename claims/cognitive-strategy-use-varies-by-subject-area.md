@@ -86,3 +86,4 @@ In the regression analyses predicting cognitive strategy use, the gender coeffic
 - [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](task-value-higher-mathematics-both-genders.md) — related
 - [Graduate attribute scores vary by gender and by subject, with language-based subjects scoring well on communication](gender-and-subject-differences-graduate-attributes.md) — related
 - [The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies](motivation-cognition-relations-similar-across-subjects.md) — related
+- [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related

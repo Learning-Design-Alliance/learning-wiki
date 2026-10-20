@@ -46,3 +46,4 @@ Mixed ANOVA on Trail Making Test-Part A times in the wait-list controlled study.
 - [No significant differences in attention or working memory were found between intervention and control groups at either follow-up](no-attention-working-memory-effects-social-media-training.md) — related
 - [CCT shows no significant effects on executive functions or attention in healthy older adults](cct-no-effect-executive-attention.md) — related
 - [The training shows no significant transfer to academic learning tasks, with only a marginal post-test advantage in number conservation](weak-academic-transfer-number-conservation-marginal.md) — related
+- [Between groups, the intervention showed a moderate inhibitory-control advantage at 4 weeks (p = .052) and a large advantage at 4 months (η2 = .135), with a significant main effect of time for both groups](inhibitory-control-between-group-advantage-4-months.md) — related

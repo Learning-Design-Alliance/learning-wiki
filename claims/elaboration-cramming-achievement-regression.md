@@ -46,3 +46,6 @@ Regression of self-reported achievement on rehearsal, elaboration, spacing, cram
 
 - [Self-control was not a significant predictor of any learning strategy or of self-reported achievement, and MCSR predicted only elaboration](self-control-null-predictor-strategies-achievement.md)
 - [Cramming was negatively correlated with spacing (r = -0.54) and with all other learning strategies investigated](cramming-negatively-correlated-spacing-and-strategies.md) — related
+- [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](effort-regulation-engagement-consistent-predictors.md) — related
+- [Students' strategy use formed mixed constellations: organisation and elaboration correlated strongly (r = 0.64), and effective strategies were also positively related to less effective ones such as rehearsal](mixed-strategy-constellations.md) — related
+- [Students self-reported less cramming and more class preparation in the JiTT course than in their non-JiTT courses, except students receiving D or F grades](jitt-improves-study-habits-self-report.md) — related

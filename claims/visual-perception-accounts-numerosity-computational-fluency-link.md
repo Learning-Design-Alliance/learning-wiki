@@ -49,3 +49,4 @@ Hierarchical multiple regression with 424 third- to fifth-grade children showed 
 - [Neither numerosity processing nor figure matching predicts general mathematical achievement](numerosity-figure-matching-not-predict-math-achievement.md) — related
 - [Figure-matching ability correlates more strongly with numerosity processing and computational fluency than other cognitive factors](figure-matching-strongest-correlate-numerosity-fluency.md) — related
 - [The relation between visual perception and computational fluency holds for simple subtraction across all grades but only for higher grades in complex arithmetic](visual-perception-fluency-grade-limits-complex-arithmetic.md) — related
+- [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related

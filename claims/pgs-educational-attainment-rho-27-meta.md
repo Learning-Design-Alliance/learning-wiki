@@ -47,3 +47,6 @@ Preregistered three-level multilevel meta-analysis (metafor rma.mv) of studies r
 - [Polygenic scores show a meta-analytic association of ρ = 0.24 with educational achievement](pgs-educational-achievement-rho-24-meta.md)
 - [Polygenic score predictions of education strengthen as GWAS discovery sample sizes increase](pgs-prediction-strength-grows-gwas-sample-size.md)
 - [Polygenic score predictions are reduced in African American relative to European ancestry samples, significantly so only for educational attainment](pgs-predictions-reduced-african-american-samples.md)
+- [Sample ancestry significantly moderates polygenic score predictions of educational attainment, with stronger predictions in European-ancestry samples](pgs-attainment-ancestry-moderator.md) — related
+- [Age at assessment and achievement measure moderate polygenic score predictions of educational achievement; the adjusted pooled estimate rises to ρ = 0.50](pgs-achievement-age-grade-moderators-rho-50.md) — related
+- [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md) — related

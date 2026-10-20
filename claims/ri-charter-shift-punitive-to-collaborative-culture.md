@@ -52,3 +52,5 @@ In the same qualitative interview study of 14 Rhode Island key officials, partic
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
 - [Technical restorative practices implementation falls short when the adaptive components of values, mindsets, and beliefs have not shifted](adaptive-shift-precedes-technical-restorative-success.md) — related
 - State administrators stress building trust with schools and districts as a foundation for supportive school improvement relationships — related
+- [An article on narrative inquiry asserts, without data, that teachers' internal drive rather than top-down prescriptions leads to the most successful change in educational practice](teacher-internal-drive-successful-change.md) — related
+- [The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric](quality-assessments-accurate-timely-information-maximize-learning.md) — related

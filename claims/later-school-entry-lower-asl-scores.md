@@ -62,3 +62,4 @@ In the grouped-entry regression (Table 3), the beta weight for the 13–18 entry
 - [Non-native signers entering a signing school before age 6 had better ASL abilities than those entering later, but did not equal native signers](early-entry-non-native-better-asl.md) — related
 - [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related
 - [The age of learning-rate decline is similar for easy and difficult syntactic items](learning-rate-decline-similar-easy-difficult-items.md) — related
+- [Grammar-learning ability is preserved until about age 17.4 and then declines steadily, per the best-fitting ELSD model](grammar-learning-rate-declines-after-17-4-years.md) — related

@@ -46,3 +46,6 @@ BANOVA on 1017 correct-solution Intuition ratings across the 20 RAPM items. The 
 - [Correct RAPM solutions yield higher Suddenness and Certainty and lower Intuition than incorrect solutions, with a Certainty-by-difficulty interaction](correctness-effects-rapm-ratings.md) — related
 - [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](suddenness-certainty-decrease-rapm-difficulty.md) — related
 - [Across participants, RAPM scores correlate positively with Certainty but not with Intuition or Suddenness](rapm-score-correlates-certainty-only.md) — related
+- [Mean solution time almost perfectly predicts item-level Suddenness and Certainty, and fast performance signals easy items while deliberation signals hard ones](solution-time-predicts-insight-like-ratings.md) — related
+- [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related
+- [Subjective experience on the easiest RAPM items matches that of insight problems, while difficult items resemble analytic problems](easy-rapm-items-insight-like-experience.md) — related

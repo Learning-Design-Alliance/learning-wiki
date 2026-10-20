@@ -49,3 +49,6 @@ The review reports, citing Schweder (2026), a latent-profile study of German sec
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [Chatbot support systems in online learning are associated with higher learner satisfaction and engagement when perceived as useful](chatbot-support-raises-satisfaction.md) — related
 - Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students — related
+- [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
+- [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
+- [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — related

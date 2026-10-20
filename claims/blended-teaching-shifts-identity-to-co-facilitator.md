@@ -46,3 +46,5 @@ Written Reflection data from one teacher at semester's end. The article gives tw
 - [Challenges of blended delivery catalyse opportunities for teacher agency growth](blended-challenges-catalyse-agency-growth.md) — related
 - [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teachers-widen-object-toward-independent-learning.md) — related
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related

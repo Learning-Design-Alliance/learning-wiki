@@ -48,3 +48,5 @@ Anonymous voluntary end-of-module surveys rating the statement that the provided
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
+- [Computing students rate short AI-generated Markdown videos favorably across quality, comprehension, and accuracy dimensions](students-rate-ai-markdown-videos-favorably.md) — related
+- [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related

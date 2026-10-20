@@ -43,4 +43,5 @@ Spearman correlation analysis of SRL strategies against three personal course go
 
 
 ## Related Claims
--
+- [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related
+- [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related

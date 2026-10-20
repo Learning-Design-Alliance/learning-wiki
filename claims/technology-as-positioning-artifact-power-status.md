@@ -44,4 +44,5 @@ The editorial summarizes Simpson, Bannister, and Matthews' qualitative video ana
 
 
 ## Related Claims
--
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
+- [Group B showed a shift toward intrapersonal voices (I–you/I–we) during its later empirical evaluation, while group A remained interpersonal (I–it/I–me) even when investigating, with un-negotiated inputs](shift-toward-intrapersonal-voices-successful-group.md) — related

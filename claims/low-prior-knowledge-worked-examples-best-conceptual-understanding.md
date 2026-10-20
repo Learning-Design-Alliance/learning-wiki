@@ -46,3 +46,4 @@ Pairwise comparison within the low prior knowledge group of the randomized betwe
 - [High prior knowledge students learned most conceptual understanding from questions plus arguments; answering questions alone was least effective](high-prior-knowledge-arguments-best-conceptual-understanding.md) — related
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related

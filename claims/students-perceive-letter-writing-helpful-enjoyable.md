@@ -65,3 +65,4 @@ Interview data on attitudes toward the writing task: "Most (63%) claimed that wr
 - [Writing to the teacher led students to treat writing as evaluation and reproduce transmitted content rather than construct their own knowledge](teacher-audience-promotes-evaluation-not-construction.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
+- [Writing scores differed significantly by audience, with younger-student letters rated highest and teacher-directed letters lowest](writing-scores-differ-by-audience.md) — related

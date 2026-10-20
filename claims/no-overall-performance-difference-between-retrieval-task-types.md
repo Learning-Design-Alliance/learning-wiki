@@ -44,3 +44,7 @@ Analysis of overall delayed posttest performance in the 54-participant within-su
 
 ## Related Claims
 - [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](targeted-retrieval-improves-targeted-information-retention.md) — related
+- [Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest](holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md) — related
+- [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related
+- [Holistic retrieval via free-recall raises self-efficacy, fully mediated by performance during retrieval practice](free-recall-raises-self-efficacy-via-perceived-success.md) — related
+- [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](free-recall-increases-situational-interest-performance-mediated.md) — related

@@ -68,3 +68,8 @@ This is a single case study of four graduate students already trained in embodie
 - [Virtual objects serve as effective media for collaborative knowledge building in shared VR environments](virtual-objects-effective-media-collaborative-knowledge-vr.md) — related
 - [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](virtual-objects-shared-vr-collaborative-knowledge-building.md) — related
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
+- [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — a broader claim this one bears on
+- [Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR](body-movement-signals-collaborative-events-vr.md) — related
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — related
+- [VET teachers use body gestures and pointing to recreate the three-dimensional machine space represented two-dimensionally on the simulator screen.](teacher-gestures-recreate-3d-space-on-2d-screen.md) — related
+- [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](oner-coordinated-math-social-resources.md) — related

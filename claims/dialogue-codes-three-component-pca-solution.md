@@ -48,3 +48,5 @@ Principal components analysis (Oblimin rotation, Kaiser normalization) of turn-c
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md)
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md)
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
+- [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md) — related
+- [Prior attainment predicted several dialogue variables in preliminary regression analyses](prior-attainment-predicts-dialogue-frequencies.md) — related

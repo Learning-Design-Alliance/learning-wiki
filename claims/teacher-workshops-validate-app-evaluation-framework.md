@@ -45,3 +45,5 @@ Section 4 reports two workshop evaluations: 18 language teachers in Ireland (Oct
 ## Related Claims
 - [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
+- [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
+- [A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice](formative-study-four-design-themes-ai-sp.md) — related

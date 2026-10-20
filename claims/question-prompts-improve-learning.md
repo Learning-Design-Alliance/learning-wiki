@@ -99,3 +99,7 @@ This paper synthesizes meta-analytic evidence on learning strategies into a mode
 - [Elaborative interrogation improved true/false test performance in an introductory biology course context](elaborative-interrogation-biology-course-context.md) — related
 - [Underlining and adjunct questions may hinder rather than help recall in young readers, reflecting a comprehension rather than a metacomprehension deficit](underlining-adjunct-questions-hinder-young-readers-comprehension-deficit.md) — reports the opposite
 - [Adjunct aids such as learning objectives and embedded questions show limited effects and may interfere with competent readers' natural strategies](adjunct-aids-limited-effects-interference.md) — reports the opposite
+- [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md) — related
+- [Reviews of classroom studies, read from their abstracts, associate longer teacher wait time with longer, higher-cognitive-level student responses, with no effect size recorded](increasing-wait-time-improves-response-quality.md) — related
+- [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md) — related
+- [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — related

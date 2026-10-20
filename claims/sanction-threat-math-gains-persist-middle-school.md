@@ -47,3 +47,5 @@ A regression discontinuity study of students who attended threatened elementary 
 - [Evidence for persistence of threat-induced reading improvements is less consistent than for math](sanction-threat-reading-gains-persistence-inconsistent.md) — related
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — a broader claim this one bears on
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
+- [The study evaluates the relative importance of educational reforms and gaming behavior in generating test score gains by threatened schools](evaluating-reforms-versus-gaming-in-threatened-schools.md) — related
+- [Schools that missed AYP showed some positive subsequent achievement impacts under NCLB accountability](missing-ayp-positive-achievement-impacts.md) — related

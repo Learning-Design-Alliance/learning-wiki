@@ -52,3 +52,7 @@ Model refinement regressions (M2–M5, N = 98) adding IQ variables to the five s
 - [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](precursors-reduce-iq-wmc-prediction.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — reports the opposite
 - [Number sense measures are non-significant predictors of math once more robust predictors are included](number-sense-non-predictor-of-math.md) — related
+- [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Verbal STM/WM and several executive and sensorimotor measures show no robust relation with math in children with normal reading skill](no-relation-verbal-memory-executive-math.md) — related
+- [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related

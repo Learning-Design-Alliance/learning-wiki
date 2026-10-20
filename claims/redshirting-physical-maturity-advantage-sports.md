@@ -47,3 +47,4 @@ The fact sheet lists potential advantages in sports among the benefits of redshi
 - [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — related
 - [Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades](redshirting-rate-stable-about-5-percent.md) — related
+- [Multiple non-academic competencies (leadership, sports-related skills, work habits, prosocial behavior, locus of control) appear to predict students' later success in higher education and the labor market](non-academic-competencies-predict-later-success.md) — related

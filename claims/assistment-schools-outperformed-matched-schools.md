@@ -46,3 +46,4 @@ The chapter describes ASSISTment as "a Web-based platform that allows teachers t
 - [Intelligent tutoring systems have been shown to improve upon typical classroom instruction](its-improve-upon-typical-classroom-instruction.md) — a broader claim this one bears on
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — a narrower finding that bears on this claim
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — related
+- [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related

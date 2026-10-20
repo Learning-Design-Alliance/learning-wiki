@@ -48,3 +48,4 @@ Summary of Weinstein's plenary paper 'Critical Thinking Across the Disciplines' 
 - [Critical science education requires explicit attention to philosophy of science and rival theories](critical-science-education-philosophy-of-science.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — a broader claim this one bears on
 - In the fully regulative context, critique proceeds by methodological correctness or paradigmatic positioning — related
+- [Epistemic games reveal unacknowledged disciplinary differences in interdisciplinary teams](epistemic-games-reveal-unacknowledged-disciplinary-differences-in-teams.md) — related

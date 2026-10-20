@@ -44,3 +44,4 @@ Meta-analysis of five non-STAR studies (USA, Netherlands, France; one RCT, five 
 
 ## Related Claims
 - [Class size reduction shows a negative, statistically non-significant effect on mathematics achievement (pooled SMD ‐0.03)](class-size-reduction-negative-nonsignificant-math-effect.md) — related
+- [All four meta-analysable STAR studies report positive, statistically significant effects of small classes, but average effects are small](star-studies-positive-small-effects-reading-math.md) — related

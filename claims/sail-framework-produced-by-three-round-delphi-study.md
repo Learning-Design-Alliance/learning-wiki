@@ -47,3 +47,4 @@ Delphi expert-consultation study conducted in Aotearoa New Zealand with three su
 - [Delphi and wider-review feedback led Level 4 to be repositioned as beyond AI literacy, clarifying the boundary of AI literacy](sail-level-four-beyond-ai-literacy-boundary.md) — a narrower finding that bears on this claim
 - [SAIL is designed to address second- and third-level digital divides through scaffolded skills and explicitly embedded equity competencies](sail-addresses-second-third-level-digital-divides.md) — a narrower finding that bears on this claim
 - [A review of 13 recent AI literacy frameworks found most lack explicit scaffolded progression and are context-bound](recent-ai-literacy-frameworks-lack-scaffolded-progression.md) — related
+- [Delphi experts reached 80% or higher consensus on all major CSM-SU components](delphi-consensus-csm-su-components.md) — related

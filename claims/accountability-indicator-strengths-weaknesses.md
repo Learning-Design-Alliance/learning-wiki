@@ -52,3 +52,4 @@ Indicator-level descriptive results from the Malang City questionnaire survey (T
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — related
 - [CHSRI small schools lack a shared vision of high-quality instruction, and the link between school themes and curriculum remains weak in year two](chsri-no-shared-vision-quality-instruction.md) — related
 - [Districts most often cite quality and integrity of the testing program as its strength, followed by identifying student strengths and weaknesses](district-testing-strengths-quality-integrity.md) — related
+- [Teacher communication-technology competence scores highest while virtualizing-process technology use scores lowest among digital transformation indicators](digital-transformation-indicator-strengths-weaknesses.md) — related

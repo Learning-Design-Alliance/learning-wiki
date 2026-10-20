@@ -67,3 +67,5 @@ Simultaneous regression models (Table 3) tested process praise against confounds
 - [Parents' person praise at 14-38 months was not associated with children's later entity frameworks](person-praise-toddlerhood-null-relation.md) — related
 - [Parents' praise styles were stable across child ages 14-38 months, with person praise declining and other praise increasing](praise-style-stability-toddlerhood.md) — related
 - [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — a broader claim this one bears on
+- [Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement](praise-effects-robust-to-parent-talk-and-ses-controls.md) — related
+- [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related

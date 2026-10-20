@@ -46,3 +46,4 @@ Case study analysis of the 11 copy-typed sessions. The article states "Copy-typi
 - [Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session](process-view-reflects-how-text-was-entered.md) — related
 - [Product measures distinguish LLM-formulated text from classroom-formulated text regardless of how it was entered](product-view-reflects-who-formulated-text.md) — related
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
+- [In a five-teacher pilot in a 160-student introductory programming course, teachers valued rapid process-level insight and the pilot drove iterative usability improvements](teacher-pilot-thonny-log-visualizer-160-students.md) — related

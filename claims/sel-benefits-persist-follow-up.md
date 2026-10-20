@@ -125,3 +125,9 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
 - [School belonging has powerful long- and short-term implications for students' positive psychological and academic outcomes](school-belonging-implications-psychological-academic-outcomes.md) — related
+- [Social and personal skills interventions were highly effective, with only 2 of 6 studies (33%) reporting a small and statistically insignificant change.](social-personal-skills-interventions-highly-effective-4-of-6.md) — related
+- [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
+- [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — related
+- [SEL programs improve students' engagement and academic performance, with an 11-percentile-point achievement gain in the Durlak meta-analysis](sel-programs-improve-academic-performance.md) — related
+- [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — a narrower finding that bears on this claim
+- [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related

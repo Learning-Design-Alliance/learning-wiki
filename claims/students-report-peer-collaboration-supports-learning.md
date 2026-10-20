@@ -50,3 +50,5 @@ Focus-group findings on Learning and Engagement. One 11th-grade student said "wo
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
 - The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related
+- [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — related
+- [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](individual-dialogue-dominant-speaker-learns-more.md) — related

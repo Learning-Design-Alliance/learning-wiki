@@ -49,3 +49,5 @@ WWC review of the evidence base: seven studies failed screens for lacking valid 
 - Only one of eight unit outcomes in the qualifying study met WWC evidence standards; seven were excluded — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
 - The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
+- [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related
+- [Four of seven knowledge, attitudes, and values outcomes favor the comparison group, including ethnic identity (effect size -0.19) and both moral reasoning measures, none statistically significant](fhao-four-outcomes-favor-comparison-group.md) — related

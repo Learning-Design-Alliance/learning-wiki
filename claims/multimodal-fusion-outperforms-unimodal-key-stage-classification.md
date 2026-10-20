@@ -66,3 +66,4 @@ Paired t-tests compared unimodal and multimodal models on accuracy, precision, r
 - [Unimodal classification confuses Key Stage 4 with Key Stage 3, while the best multimodal model classifies Key Stages 4 and 5 perfectly](confusion-ks4-unimodal-vs-multimodal.md) — a narrower finding that bears on this claim
 - [Adding the linguistic neural network to a transformer does not significantly change inference time (p = 0.244)](fusion-no-inference-time-penalty.md) — related
 - [Neural networks on linguistic features classify Key Stages poorly, with deeper networks performing worse; the best (one hidden layer, 175 ReLU) reached F1 = 0.392](linguistic-ann-weak-deeper-worse.md) — related
+- [Multimodal input consistently improves accuracy but not F1, model size correlates moderately with performance, and reasoning models show mixed results](multimodality-size-reasoning-mixed-effects.md) — reports the opposite

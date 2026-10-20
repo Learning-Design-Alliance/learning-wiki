@@ -46,3 +46,4 @@ Theme 6 (Reframing Pedagogy) of the thematic analysis. One participant reported 
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Academic staff experienced the AIAS as a shared language that legitimised GenAI use in teaching and assessment](aias-shared-language-legitimises-genai-use.md) — related
+- [The article claims LLM-assisted workflows weaken the validity of output-based evaluation in hiring, education, and certification](output-based-evaluation-misaligned-llm-assistance.md) — a broader claim this one bears on

@@ -65,3 +65,4 @@ Thematic content analysis of the same outcome coding. The review reports that in
 - [AI applications in science and chemistry education most frequently affect learning-process outcomes, reported in 9 of 18 studies](ai-applications-mostly-affect-learning-process-outcomes.md) — related
 - [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [A professional development masterclass produces a 24% overall improvement in educators' AI utilization competence with large effect sizes](pd-masterclass-24-percent-ai-competence-gain.md) — related

@@ -46,3 +46,4 @@ Coding of the 1,984-post priest forum corpus against AAAS-based systems reasonin
 - [Systems-based reasoning and understanding feedback correlate moderately with discussion of the priest talent tree](talent-tree-discussion-correlates-systems-reasoning.md) — related
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
 - [Model-based reasoning appears in about one tenth of WoW forum posts, with model testing, mathematical modeling, and explicit computation progressively rarer](wow-model-based-reasoning-proportions.md) — related
+- [65% of codable WoW forum posts display an evaluative epistemology, contrasting with Kuhn's finding that only 15% of interviewed Americans held one](wow-forum-evaluative-epistemology-65-percent.md) — related

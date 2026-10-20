@@ -46,3 +46,5 @@ Pearson correlations in the same 1,057-student correlational survey. The study r
 - [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [AI anxiety is positively and significantly correlated with job search anxiety among health sciences students](ai-anxiety-correlates-job-search-anxiety-health-students.md) — related
+- [Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes](social-science-students-higher-job-finding-anxiety.md) — related
+- [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related

@@ -48,3 +48,6 @@ The article's narrative of the Algebra Initiative reports that the double-dose i
 - Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later — related
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — reports the opposite
 - Extended learning time interventions, including week-long acceleration academies with highly effective teachers and some double-dose math structures, show strong evidence of effectiveness — a broader claim this one bears on
+- [Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff](double-dose-algebra-test-score-gains-targeted-students.md) — related
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
+- [Double-dose algebra support courses improved algebra test scores for targeted low-skilled students but only modestly affected grades and failure rates](double-dose-algebra-improved-test-scores-modest-grades-effects.md) — related

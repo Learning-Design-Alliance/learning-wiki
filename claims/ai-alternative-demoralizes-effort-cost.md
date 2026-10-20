@@ -45,3 +45,4 @@ In the findings section of this interview study of 13 engineering majors, six st
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
 - [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — related
 - [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](reliance-awareness-most-valued-outcome.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

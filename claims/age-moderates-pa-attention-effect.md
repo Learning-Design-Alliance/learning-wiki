@@ -52,3 +52,9 @@ Review's discussion of Caterino & Polak (1999), a school experiment with 177 chi
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
 - [Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time](laboratory-studies-acute-pa-attention-accuracy.md) — related
 - [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](closed-skill-exercise-improves-stm-older-children-only.md) — related
+- [Acute moderate aerobic exercise speeds children's reaction times without improving accuracy, with greater speed gains on choice than simple reaction time tasks](acute-exercise-speeds-reaction-time-not-accuracy.md) — related
+- [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — related
+- [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — related
+- [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](anthropomorphic-explanations-lessen-with-age.md) — related
+- [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](time-age-exercise-interaction-stm.md) — related
+- [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — related

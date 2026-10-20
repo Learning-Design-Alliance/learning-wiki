@@ -43,4 +43,6 @@ The review reports Chi's (1993) study of male college students on a physical exe
 
 
 ## Related Claims
--
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
+- [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

@@ -71,3 +71,8 @@ The brief's summary of its analysis of academic gains in the 2022-23 school year
 - [Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services](compensatory-education-distinct-from-recovery-services.md) — related
 - [The average student needs an estimated 4.5 additional months of schooling to catch up in math](math-catchup-4-point-5-months.md) — related
 - [The average student needs the equivalent of 4.8 additional months of schooling to catch up in reading and 4.3 months in math](months-of-schooling-needed-to-catch-up-2023-24.md) — related
+- [Growth for all race/ethnicity groups lagged pre-pandemic trends in 2023-24, with marginalized students furthest from recovery](marginalized-students-furthest-from-recovery-2023-24.md) — related
+- [Math achievement improved by about .045 standard deviations from 2022 to 2023 in the 28 states included in the ERS math sample](ers-math-recovery-045-sd-28-states.md) — related
+- [Post-pandemic summer school is studied for its effects on student achievement and district academic recovery](post-pandemic-summer-school-achievement-recovery-effects.md) — related
+- [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
+- [The gap between pre-COVID and COVID test score averages widened in 2023-24 in nearly all grades, by an average of 36% in reading and 18% in math](pre-covid-covid-gap-widened-2023-24.md) — related

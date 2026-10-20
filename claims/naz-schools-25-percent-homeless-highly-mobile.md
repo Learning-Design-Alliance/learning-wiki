@@ -45,3 +45,4 @@ Site profile reporting a school administrative indicator: "Public schools in the
 ## Related Claims
 - [In 2010, just 29 percent of children entering kindergarten in and near the NAZ Zone met literacy benchmarks on kindergarten readiness tests](naz-29-percent-kindergarten-literacy-benchmarks-2010.md) — related
 - [The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators](naz-selected-for-highest-concentration-negative-indicators.md) — related
+- [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related

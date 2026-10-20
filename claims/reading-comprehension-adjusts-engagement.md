@@ -45,3 +45,7 @@ Covariate effects within the ANCOVAs on behavioral engagement for the 255 partic
 ## Related Claims
 - [Greater time and effort invested in the task correlate with better integration and smaller calibration error](engagement-correlates-integration-calibration.md) — related
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related
+- [No significant medium, context, or medium-by-context effects on written response length as a measure of behavioral engagement](no-medium-context-effect-response-length.md) — related
+- [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — related
+- [University students spent longer processing time watching two complementary videos than reading two complementary digital texts](videos-longer-processing-time-than-texts.md) — related
+- [No significant medium, context, or interaction effects on integration of information across complementary texts or videos](no-medium-context-effect-integration.md) — related

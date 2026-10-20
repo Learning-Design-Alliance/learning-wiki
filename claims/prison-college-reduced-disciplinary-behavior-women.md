@@ -66,3 +66,4 @@ Faculty interview in the same pilot qualitative study. Michael, who had taught a
 - [All surveyed former students strongly agreed that prison college participation positively affected their lives, behavior in prison, and post-release lives](prison-college-students-strongly-agree-positive-effects.md) — possibly the same claim (merge candidate)
 - [Former students reported positive changes in self-perception and self-confidence after participating in prison higher education](prison-college-improved-self-perception-women.md) — related
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
+- [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related

@@ -47,3 +47,4 @@ The study's comparative assertion that its observed declines are "more substanti
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - The COVID-19 pandemic increased classroom disruptions and negatively affected students' social and emotional development — related
 - [COVID-19 restrictions inhibited implementation of later activities in the learning sequence](covid-restrictions-later-activities-inhibited.md) — related
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related

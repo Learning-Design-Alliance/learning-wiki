@@ -43,4 +43,5 @@ Theoretical argument in the introduction, attributed to de Bruin et al. (2020), 
 
 
 ## Related Claims
--
+- [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — a broader claim this one bears on
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related

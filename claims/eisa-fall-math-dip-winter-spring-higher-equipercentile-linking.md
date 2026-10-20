@@ -52,3 +52,4 @@ Section 2.6 reports concordance studies (attributed to Lewis and Kuhfeld 2024) c
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](norms-prediction-rmsd-math-reading.md) — related
 - [Spanish MAP Growth Reading universal screening cut scores correspond to the 40th percentile of Spanish norms, established by linking to English cut scores](spanish-map-growth-reading-40th-percentile-cut-scores.md) — related
 - [The enhanced item-selection algorithm (EISA) causes shifts in math scores that were fully accounted for in the 2025 norms and the dashboard](eisa-causes-math-score-shifts-accounted-in-2025-norms.md) — related
+- [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](spanish-map-reading-adaptive-lower-sem.md) — related

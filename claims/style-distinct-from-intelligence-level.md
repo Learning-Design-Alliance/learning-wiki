@@ -50,3 +50,4 @@ Theoretical argument in Sternberg's chapter contrasting standard ability theorie
 - A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — related
 - [Intellectual styles are partly socialized and therefore modifiable to some degree](styles-socialized-and-modifiable.md) — related
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related
+- [Intelligence is positively associated with SPT accuracy, with strength varying by measure](intelligence-correlates-with-spt-accuracy.md) — related

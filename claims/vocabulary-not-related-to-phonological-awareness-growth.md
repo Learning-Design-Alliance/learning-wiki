@@ -49,3 +49,4 @@ In the letter-name predictive models of 358 preschoolers, vocabulary (PPVT-R sta
 
 ## Related Claims
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — related
+- [Children with higher initial letter-name knowledge show faster growth in phonological awareness across the preschool year](initial-letter-name-knowledge-predicts-phonological-awareness-growth.md) — related

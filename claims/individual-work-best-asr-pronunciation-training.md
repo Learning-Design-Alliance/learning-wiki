@@ -71,3 +71,6 @@ Ngo et al. (2024) point the other way from this claim: across ASR studies, pract
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
 - [Students responded positively to ASR pronunciation training and the Rainbow passage, but were mixed on technical aspects of recording and voice typing](positive-student-response-asr-pronunciation-training.md) — related
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
+- [In this inquiry, student pairs work better than groups of three because larger groups risk disengaging members](pairs-better-than-triads-in-stellar-inquiry.md) — related
+- [Positive attitudes towards English and high motivation are associated with better pronunciation outcomes](motivation-associated-better-pronunciation-outcomes.md) — related
+- [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md) — related

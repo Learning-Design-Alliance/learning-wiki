@@ -67,3 +67,8 @@ School-level descriptive analysis (Figure 7, 649 schools). The report notes nota
 - [Teachers' ability to deliver strong instruction depends substantially on the school context, family resources and challenges, and the larger community](instruction-delivery-depends-on-school-context.md) — related
 - Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01 — related
 - [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related
+- [Participation rates rose with eligibility index score, reflecting program prioritization](chicago-connected-participation-rose-with-eligibility-index.md) — related
+- [About 70% of continuously enrolled grade 5-8 CPS students were eligible for Chicago Connected, and approximately 30% of eligible students opted to participate](chicago-connected-eligibility-and-participation-rates.md) — related
+- [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related
+- [28% of eligible CPS students participated in Chicago Connected by May 2021](chicago-connected-28-percent-eligible-participated.md) — related
+- [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — related

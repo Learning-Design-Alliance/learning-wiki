@@ -43,4 +43,5 @@ In the same three-condition ITS comparison, "the combined condition had higher l
 
 
 ## Related Claims
--
+- [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md) — related
+- [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — related

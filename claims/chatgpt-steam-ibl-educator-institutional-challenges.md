@@ -58,3 +58,6 @@ The review's summary of educator- and institutional-level challenges (Table 5, e
 - [Integrating AI in collaborative learning raises challenges including algorithmic bias, over-reliance on technology, and teacher training needs](ai-collaborative-learning-challenges-bias-overreliance.md) — related
 - Only a small fraction of AIEd research addresses ethical implications, challenges and risks — related
 - [The gap between dispositions as learning goals and their assessment indicates misalignment among Integrated Course Design components](misalignment-dispositions-goals-assessment-fink.md) — a narrower finding that bears on this claim
+- [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
+- [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — related
+- [Regional context moderates GenAI effects: positive in China and Pakistan, negative in Korea and Turkey](genai-effects-vary-by-country.md) — related

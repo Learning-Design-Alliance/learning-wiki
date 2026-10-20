@@ -48,3 +48,4 @@ The review attributes this to a previous study (Van de Pol et al., 2021b) invest
 - [Teachers are largely aware which cues are diagnostic, but often mistakenly treat students' interest in the text topic as diagnostic](teacher-awareness-of-cue-diagnosticity-partial.md) — related
 - [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](diagnostic-cues-improve-teacher-judgment-accuracy.md) — related
 - [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md) — related
+- [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) — related

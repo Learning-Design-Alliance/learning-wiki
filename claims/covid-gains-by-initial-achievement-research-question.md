@@ -45,3 +45,6 @@ The appendix page prints the brief's second main research question verbatim, con
 ## Related Claims
 - [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related
 - [The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.](spring-2022-achievement-compared-to-pre-pandemic-levels.md) — related
+- [The achievement divide between high and low achievers widened significantly over the last two years of the pandemic](achievement-divide-widened-significantly.md) — related
+- [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — a broader claim this one bears on
+- [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related

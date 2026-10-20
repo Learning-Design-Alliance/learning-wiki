@@ -45,3 +45,4 @@ Subgroup analysis in the crossover RCT: significant subpopulations spanned the t
 ## Related Claims
 - [Instruction type predicts post-test performance with a large effect size after controls (linear and quantile regression)](ai-tutor-regression-large-effect-size.md) — related
 - [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related
+- [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — reports the opposite

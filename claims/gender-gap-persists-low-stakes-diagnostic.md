@@ -47,3 +47,4 @@ A 15-item multiple-choice diagnostic assessment (Cronbach's alpha = 0.724) with 
 - [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md)
 - [High-school grades do not capture the preparation gap: controlling for high-school scores did not eliminate the gap, possibly due to a ceiling effect](high-school-grades-ceiling-effect-gap.md)
 - [Once undergraduate-level mathematics and physics preparation is controlled, gender no longer significantly predicts performance in advanced STEM courses](preparedness-eliminates-gender-effect.md)
+- [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related

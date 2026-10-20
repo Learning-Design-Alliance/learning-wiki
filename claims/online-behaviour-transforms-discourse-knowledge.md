@@ -47,3 +47,7 @@ Authors' interpretation of the pattern-type results (KS, KM, KD means reflected 
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
 - [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) — related
 - [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](self-constructed-cm-deep-exploratory-talk.md) — related
+- [Tacit knowledge in CSCL is co-constructed through socialization, externalization, combination, and internalization processes](tacit-knowledge-four-processes-cscl.md) — related
+- [High cognitive activities were positively associated with essay quality but not with concept maps](high-cognition-essay-not-concept-maps.md) — related
+- [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
+- [Process-tracing measures should accompany outcome measures because process changes may not be immediately reflected in outcomes](process-tracing-measures-for-learning.md) — related

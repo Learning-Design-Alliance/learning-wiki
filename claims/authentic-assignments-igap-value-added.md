@@ -49,3 +49,4 @@ Value-added analysis of IGAP reading, mathematics, and writing outcomes for clas
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — related
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](high-and-low-achievers-benefit-authentic-assignments.md) — related
 - [In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains](high-and-low-achievers-benefit-from-quality-assignments.md) — related
+- [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related

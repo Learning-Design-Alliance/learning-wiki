@@ -45,3 +45,5 @@ Engagement analysis of district log data using rate of attempting multiple choic
 ## Related Claims
 - [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
+- [In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments](readworks-assignment-difficulty-growth-association.md) — related
+- [Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substantial variation across teachers](readworks-feature-use-broad-equitable-teacher-variation.md) — related

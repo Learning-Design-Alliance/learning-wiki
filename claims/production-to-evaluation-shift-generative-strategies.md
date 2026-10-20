@@ -49,3 +49,4 @@ Conceptual analysis of the eight generative learning strategies under AI mediati
 - [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
 - [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
+- [The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions](levers-map-to-tru-dimensions.md) — related

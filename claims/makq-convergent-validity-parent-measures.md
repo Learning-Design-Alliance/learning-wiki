@@ -45,3 +45,4 @@ Convergent validity analysis in Study Two (N = 83) correlating MAKQ dimensions w
 ## Related Claims
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
 - [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](makq-strategy-knowledge-inhibitory-control.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

@@ -47,3 +47,4 @@ Themes 5 and 6 from the interview thematic analysis. Participants also said they
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — related
 - [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md) — related
 - [In a recent survey, 100 percent of polled Academy graduates said they would recommend participation to a colleague](academy-graduates-recommend-survey.md) — related
+- [Educators identify real-time translation, dialect handling, and speech recognition as potentially transformative for multilingual learners and students with disabilities, but current speech tools fail on accents and dialects](ai-multilingual-disability-speech-tool-gaps.md) — related

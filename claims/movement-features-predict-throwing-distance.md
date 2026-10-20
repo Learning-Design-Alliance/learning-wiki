@@ -45,3 +45,6 @@ Multiple linear regression across all tested subjects (mirroring the secondary-s
 ## Related Claims
 
 - [Declarative knowledge of movement features was not significantly related to actual improvements in physical execution of those features](declarative-knowledge-not-related-feature-performance.md)
+- [Adding a practice phase after instruction (PS-I + P) did not improve javelin throwing performance over PS-I alone](additional-practice-no-effect-primary-javelin.md) — related
+- [Primary school children improved execution of movement features but showed no improvement in javelin throwing distance across all conditions](features-improved-distance-did-not-primary-javelin.md) — related
+- [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md) — related

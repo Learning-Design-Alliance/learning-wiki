@@ -45,3 +45,6 @@ Experimental vignette study with 108 preservice teachers in a between-subjects d
 ## Related Claims
 
 - [Preservice teachers judged the ethnic minority student more negatively than the ethnic majority student on parental support, achievement, and working behavior](ethnic-minority-student-judged-more-negatively-study1.md)
+- [Student achievement level, not ethnic background, predicted preservice teachers' text-versus-video material choice in Study 2](achievement-level-predicts-material-choice-study2.md) — reports the opposite
+- [Simply inserting a name indicating Turkish-origin background produced less favorable judgments of otherwise identical student descriptions](name-activates-ethnic-stereotyping-judgments.md) — related
+- [Path analysis showed material choice reasons tracked attributions: text was chosen for perceived high ability and effort, video for low evaluations of both](attribution-paths-material-choice-study2.md) — related

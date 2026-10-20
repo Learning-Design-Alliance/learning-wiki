@@ -50,3 +50,5 @@ The commentary reports that Dinsmore's (2017) systematic review examined 134 stu
 - [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md)
 - [Review findings on college strategic processing: development under-studied, quality of strategy use matters more than frequency, and learner and environmental conditions determine effectiveness](strategy-use-quality-conditionality-over-frequency.md)
 - [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related
+- [S-SRL strategy use is dynamic over time, contexts and student characteristics, supporting an event-based conceptualization of self and socially regulated learning](ssrl-strategy-use-dynamic-event-based.md) — a narrower finding that bears on this claim
+- [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related

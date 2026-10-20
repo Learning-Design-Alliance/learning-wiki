@@ -54,3 +54,5 @@ Agglomerative hierarchical clustering of 42 three-minute deliberation sequences 
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
+- [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
+- [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — related

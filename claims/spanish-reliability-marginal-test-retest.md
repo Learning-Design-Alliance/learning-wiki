@@ -73,3 +73,5 @@ Test-retest reliability with alternate forms across consecutive windows (Table 4
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
 - [AI grading of the exam is highly stable across five independent runs at the total-score level (ICC(A,1) = 0.967), with lower but still strong cell-level stability (ICC(A,1) = 0.836)](ai-grading-run-to-run-reliability-icc.md) — related
 - [The SYMP Test shows satisfactory test-retest reliability, with overall-score correlations between .72 and .86 across Grades 1–6](symp-test-reliable-test-retest-overall-scores.md) — related
+- [Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms](spanish-math-item-difficulty-discrimination-stable.md) — related
+- [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — related

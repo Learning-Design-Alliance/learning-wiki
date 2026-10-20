@@ -49,3 +49,4 @@ Reported result of a quasi-experimental, propensity-score-matched comparison of 
 - [Improvements in planning skills mediated SRSD's effect on text quality, via better-structured stories containing more ideas](planning-skill-gains-mediate-srsd-writing-quality.md) — related
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
+- [Some SRSD students, particularly those with poor working memory, struggled to implement the planning strategies they were taught](poor-working-memory-hinders-srsd-planning-implementation.md) — related

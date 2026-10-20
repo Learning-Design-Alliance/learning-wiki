@@ -48,3 +48,6 @@ A research brief synthesizing published research on early math development. The 
 - [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
 - [Early math and literacy development intertwine in early childhood](early-math-literacy-development-intertwine.md) — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
+- [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
+- [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — a narrower finding that bears on this claim

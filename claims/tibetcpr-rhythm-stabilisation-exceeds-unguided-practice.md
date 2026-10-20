@@ -47,3 +47,4 @@ Randomised controlled study (T1 pre-test, T2 10-minute intervention, T3 post-tes
 - [TibetCPR training produced depth-accuracy gains that substantially exceeded unguided practice and transferred to an unscaffolded post-test](tibetcpr-depth-accuracy-gains-exceed-control.md) — related
 - [Depth accuracy rose progressively during the intervention, with the experimental group improving roughly three percentage points per minute faster than the control group](tibetcpr-depth-progressive-within-session-gain.md) — related
 - [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
+- [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related

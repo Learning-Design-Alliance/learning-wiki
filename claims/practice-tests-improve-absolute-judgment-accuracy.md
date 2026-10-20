@@ -43,4 +43,7 @@ Hierarchical regression in Study 1 (N = 201, no feedback) predicting posttest ab
 
 
 ## Related Claims
--
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](practice-tests-improve-judgment-sensitivity.md) — related
+- [In authentic undergraduate courses, taking more voluntary practice tests predicts higher final-exam performance, with and without corrective feedback](practice-test-frequency-predicts-exam-performance.md) — related
+- [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](practice-test-specificity-negative-without-feedback.md) — related
+- [Students who received corrective feedback post-processed practice tests more intensely and rated the tests as more useful for monitoring than students without feedback](feedback-raises-post-processing-and-perceived-usefulness.md) — related

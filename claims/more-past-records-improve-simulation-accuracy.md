@@ -46,3 +46,4 @@ Analysis of past learning record volumes shown in Figure 4(a), a plotted numeric
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
 - [Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation](prototype-mapping-outperforms-behavior-prediction-baselines.md) — related
 - [Sycophantic failure manifests as indiscriminate correct flips rather than explicit sycophantic agreement, and SFT shifts behavior toward pushback and maintain under non-targeted feedback](sycophancy-via-correct-flip-not-verbal-agreement.md) — related
+- [High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior](self-consistency-does-not-imply-student-alignment.md) — related

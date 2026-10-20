@@ -48,3 +48,6 @@ Video assemblage analysis of student-loom intra-actions across the weaving unit.
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
 - [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
+- [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on
+- [Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production](algorithms-expand-over-time-youth-material-changes.md) — related
+- [A regularity view of causation is less suited than practice analysis to explaining how interaction patterns unfold over time](regularity-view-less-suited-interaction-explanations.md) — related

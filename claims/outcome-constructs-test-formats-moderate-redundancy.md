@@ -49,3 +49,5 @@ Moderator analysis of outcome constructs and test formats (Table 6): retention o
 - [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — related
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — related
 - [Practice tests benefit retention (g = 0.63) and transfer (g = 0.53) outcomes without a significant difference between them](practice-tests-aid-retention-and-transfer.md) — related
+- [Testing effects are stronger when practice and final test formats are identical (g = 0.63) than dissimilar (g = 0.53), supporting transfer-appropriate processing](tap-identical-formats-stronger-effect.md) — related
+- [Short-answer (production) and multiple-choice (recognition) retrieval practice produce no statistically significant difference in undergraduates' reading comprehension on a final MCQ test](production-vs-recognition-retrieval-practice-no-significant-difference-reading-comprehension.md) — related

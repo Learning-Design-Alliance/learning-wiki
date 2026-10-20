@@ -65,3 +65,10 @@ The digest reports, citing Ostwald and Williams, studies on aging showing that "
 - No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related
 - Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning — related
 - [Older adults can think as divergently as young adults but do so at a slower rate and require more time](older-adults-divergent-thinking-slower-rate.md) — related
+- [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
+- [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — reports the opposite
+- [Federally-funded adult ESL programs and citizenship classes largely exclude older beginner immigrants because instruction is designed for workforce-bound younger adults](older-beginners-excluded-from-standard-adl-esl.md) — reports the opposite
+- [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](modifications-essential-for-vulnerable-learners.md) — reports the opposite
+- [When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles](knowledge-relevance-reverses-age-trends.md) — related
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — reports the opposite

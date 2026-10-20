@@ -61,3 +61,6 @@ Finding from the thematic analysis of institutional and scholarly documents, rep
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
 - [A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias](universities-discourage-ai-detection-tools.md) — a narrower finding that bears on this claim
+- [Fairness of AI outputs remains under-evaluated in edtech research](ai-output-fairness-under-evaluated-edtech.md) — a broader claim this one bears on
+- [The review reports that AI detection tools disproportionately flag multilingual writers, which the authors frame as digital structural violence](detection-tools-disproportionately-flag-multilingual-writers.md) — related
+- [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — related

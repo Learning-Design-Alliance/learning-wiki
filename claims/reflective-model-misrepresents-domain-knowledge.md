@@ -44,3 +44,4 @@ Analytical argument from the article's misrepresentation section. It reasons tha
 - [Domain knowledge is theoretically a formative construct formed by distinct, not necessarily associated, aspects](domain-knowledge-formative-construct.md) — related
 - Research practice misaligns with theory: domain knowledge is usually assessed with reflective models without argument for that choice — a broader claim this one bears on
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related

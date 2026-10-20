@@ -49,3 +49,4 @@ Follow-up comparison across the median-split groups (Table 3) showed low-prior h
 - [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](kbr-predicts-tutor-posttest-conceptual-procedural.md) — related
 - [%KBR correlated with prior knowledge only among high-prior students, not among low-prior students](kbr-prior-correlation-only-high-prior.md) — related
 - [Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses](prior-knowledge-does-not-predict-kbr.md) — related
+- [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related

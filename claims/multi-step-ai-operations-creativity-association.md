@@ -48,3 +48,4 @@ The review reports, citing Zhu et al. (2025a), a study categorising students' pr
 ## Related Claims
 - A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
+- [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — a broader claim this one bears on

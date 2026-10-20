@@ -48,3 +48,5 @@ An analysis of Chicago graduates from the classes of 1998 and 1999 designed to d
 - [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce high-school variance](act-adds-little-beyond-hsgpa.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — a broader claim this one bears on
+- [HSGPA strongly predicts six-year college graduation among four-year college enrollees, with odds of graduating doubling per standard deviation of HSGPA](hsgpa-strongly-predicts-college-graduation.md) — related
+- [High school GPA is a better predictor of college graduation than standardized test scores, yet districts continue to rely on test-based readiness benchmarks](gpa-better-predictor-than-test-scores.md) — related

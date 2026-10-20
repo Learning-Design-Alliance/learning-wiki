@@ -49,3 +49,4 @@ The editor's report of journal operating statistics: "In 2011, we received 89 ma
 - [EDPR's time to first decision decreased from 50 days in 2006 to 25 days in 2013](edpr-decision-time-50-to-25-days.md) — related
 - [Educational Psychology Review publishes a variety of article types, not only review articles](edpr-publishes-variety-of-article-types.md) — related
 - [Manuscript submissions to Educational Psychology Review increased sharply between 2006 and 2008, which the editor attributes to timely, high-quality reviews and increasing journal visibility](epr-submissions-increased-2006-2008.md) — related
+- [The EDPR editorial board spans 50 members from 10 countries across 4 continents, and the editor sees more diversity as valuable](edpr-board-geographic-diversity.md) — related

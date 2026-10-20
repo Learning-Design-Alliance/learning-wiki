@@ -67,3 +67,6 @@ In the 2015-16 cohort, career plans differed by pathway: "about two-thirds (66 p
 - [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
 - [Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so](unequal-access-clinical-pathways-race-specialists.md) — related
 - [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — related
+- [Most alternatively certified teachers completed some coursework before entering the classroom, though this varied by state](alt-cert-coursework-timing-varies-by-state.md) — related
+- [Residents reported more intensive clinical experiences than other pathways, with 66% completing at least 600 hours of student teaching versus 51% of traditional student teachers](residents-more-clinical-hours-than-student-teachers.md) — related
+- [Coursework hour requirements varied widely across certification programs and did not consistently differ by route](coursework-hours-vary-by-route-and-state.md) — related

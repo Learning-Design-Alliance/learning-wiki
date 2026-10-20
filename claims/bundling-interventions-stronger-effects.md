@@ -46,3 +46,5 @@ A panel assertion in the guide's introduction, offered without a specific effect
 - [Almost 10 percent of students from the first two cohorts of the CNMCC Breaking Through Construction Apprenticeship Program entered a formal apprenticeship](breaking-through-cohorts-enter-apprenticeships.md) — related
 - [High dosage tutoring can produce accelerated academic growth for academically at-risk students if implemented effectively and at proper scale](high-dosage-tutoring-accelerated-growth-at-risk.md) — related
 - High-dosage tutoring directly tied to classroom content can substantially accelerate learning in math and reading for the most struggling students — related
+- [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — a narrower finding that bears on this claim
+- [The between-cohort exam gain is attributable only to a composite intervention (autograding plus corrections plus expanded office hours), not to LaTA alone](composite-intervention-exam-confound.md) — related

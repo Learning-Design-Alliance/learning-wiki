@@ -43,4 +43,6 @@ Path analysis for effective self-regulators (N=421); Table 2 part (a) reports st
 
 
 ## Related Claims
--
+- [For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition](mastery-goals-large-positive-avoidance-negative-metacognition.md) — related
+- [Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies](metacognition-positive-effect-four-strategies.md) — related
+- [Six relationships in the model differ for less effective self-regulators, including performance-avoidance goals being unrelated to metacognition](model-differences-less-effective-self-regulators.md) — related

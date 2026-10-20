@@ -51,3 +51,6 @@ Nested SEM comparison constraining regression coefficients equal across middle (
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [Perceived racial discrimination at Time 1 is negatively linked to public regard at Time 2 among African American adolescents](discrimination-negatively-predicts-public-regard.md) — related
 - [School level moderates the correlation non-linearly, with grades 7–12 showing the most negative correlation](school-level-nonlinear-moderator.md) — related
+- [Perceived discrimination is negatively related to later public regard, and low public regard buffers discrimination's impact on adjustment](public-regard-discrimination-longitudinal-buffering.md) — related
+- [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
+- [No cross-lag effects were observed between racial discrimination and racial centrality over three years](no-cross-lag-discrimination-centrality.md) — related

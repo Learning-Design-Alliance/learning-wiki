@@ -45,3 +45,7 @@ Secondary correlational analysis in the quantitative results of the n = 416 surv
 ## Related Claims
 - [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md) — related
 - [Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)](seen-opportunities-correlate-with-ai-use.md) — related
+- [Response length is only weakly correlated with originality for most LLMs, suggesting CPIG's originality gains are not purely elaboration](length-originality-correlation-weak.md) — related
+- [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md) — related
+- [Daily AI use duration shows a weak positive correlation with academic motivation among university students](daily-ai-use-weakly-positively-correlated-academic-motivation.md) — related
+- [GenAI usage behavior dimensions correlate positively with perceived learning outcomes (r = 0.106–0.418), with usage habits showing the strongest correlation](genai-usage-habits-strongest-correlation-learning-outcomes.md) — related

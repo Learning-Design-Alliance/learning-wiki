@@ -46,3 +46,4 @@ Cohort 1 random-assignment evaluation summary: treatment teachers were "more lik
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [Playworks made transitions from recess to classroom learning less difficult, per teacher reports](playworks-easier-recess-to-classroom-transitions.md) — related
 - [Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers](playworks-reduced-teacher-reported-recess-bullying.md) — related
+- [Playworks improved teachers' perceptions of students' safety and feeling included during recess in a randomized experiment](playworks-improved-teacher-perceived-recess-safety-inclusion.md) — related

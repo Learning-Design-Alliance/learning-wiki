@@ -48,3 +48,4 @@ The review reports the consistent finding from prospective, longitudinal studies
 ## Related Claims
 - [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
 - [A close bond with at least one caring adult is the most critical protective factor for resilient children](one-caring-adult-protective-bond.md) — related
+- [Students' success in school and beyond is inextricably linked to healthy social and emotional development](school-success-linked-social-emotional-development.md) — related

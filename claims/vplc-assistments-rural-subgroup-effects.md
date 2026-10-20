@@ -67,3 +67,5 @@ Subgroup analysis of low-performing rural students (n = 733 per Table 3). The ta
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
 - [vPLC-augmented ASSISTments did not significantly improve overall middle school math achievement relative to a virtual comparison group](vplc-assistments-no-significant-overall-effect.md) — a broader claim this one bears on
 - eMINTS produces a statistically significant positive effect on state math measures (ES +0.15) in a 3-year rural Missouri study — related
+- [Students with lower baseline performance (below the 50th percentile) showed significantly greater math achievement gains with ASSISTments than matched virtual peers](assistments-low-performers-significant-gains.md) — related
+- [Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points](assistments-rural-q2-significant-gains.md) — a narrower finding that bears on this claim

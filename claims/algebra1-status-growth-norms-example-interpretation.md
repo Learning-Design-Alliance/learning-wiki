@@ -51,3 +51,4 @@ Worked example using the Algebra 1 norms snapshot (Figure 3.5). The report state
 - [The course-specific MAP Growth norms were built from 747,936 test events administered to 342,821 students in Grades 6–12 across 50 states between Fall 2017 and Spring 2019.](map-course-specific-norms-sample-747936-events.md) — related
 - [Aspirational Growth defaults to 60th-percentile growth (met by about 40% of similar students) and is selectable from the 55th to 95th percentile in 5-percentile increments](aspirational-growth-percentile-options.md) — related
 - [Average growth maintains rather than improves a student's achievement percentile; growth must exceed average for a student to gain ground](average-growth-maintains-percentile.md) — related
+- [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — related

@@ -47,3 +47,7 @@ Evaluation on log data from four large-scale online programming courses (approxi
 - [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related
 - [CFS and GR feature selection shrink decision trees to 3.2-4.7 leaf nodes without degrading predictive performance](feature-selection-reduces-tree-size-maintains-accuracy.md) — related
 - [Completion of prior problem slides is the most critical predictor of completing a module's final exercise, consistent with the doer effect](problem-slide-completion-top-predictor-doer-effect.md) — a narrower finding that bears on this claim
+- [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
+- [All three trained classifiers outperformed the zero-rule baseline (28.4% accuracy) for classifying cognitive engagement in discussion posts](classifiers-beat-zero-rule-baseline-engagement.md) — related
+- [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
+- [Academic word list count, word count, and Flesch-Kincaid grade level are the most important features for predicting cognitive engagement in discussion posts](awl-count-word-count-feature-importance-engagement.md) — related

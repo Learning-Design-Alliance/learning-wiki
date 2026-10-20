@@ -48,3 +48,4 @@ Robust linear mixed models nesting 221 students within 19 classes tested learnin
 - [Training on AI interaction strategies does not further improve AI-assisted learning design quality](ai-interaction-training-no-added-design-quality-gain.md) — related
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related
 - [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — related
+- [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further](apca-improves-self-assessment-accuracy-overconfidence.md) — related

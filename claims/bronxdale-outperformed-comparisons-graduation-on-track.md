@@ -50,3 +50,5 @@ NYC DOE 2017–18 indicator data show Bronxdale 9th- and 10th-graders "earned su
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [Eighth grade EL reclassification shows positive but imprecise estimates for on-track-to-graduate status in 10th and 11th grades](el-reclassification-on-track-positive-imprecise.md) — related
 - [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — a broader claim this one bears on
+- [Chicago's graduation-rate improvements have been credited to changed ninth-grade dropout-prevention practices triggered by on-track accountability and real-time data reports, and the review states accountability by itself was not sufficient](ontrack-accountability-realtime-data-graduation-gains.md) — related

@@ -45,3 +45,4 @@ Validation experiment on the Ottoman Empire corpus: accommodation scores were co
 ## Related Claims
 
 - [Speech-style accommodation correlates with prevalence of other-oriented transactions, enabling acoustic prediction of transactivity](speech-accommodation-predicts-transactivity.md)
+- [An automatic measure of speech style accommodation significantly positively correlates with prevalence of other-oriented transacts in dyadic debates (R = .36, p < .05)](speech-accommodation-correlates-other-oriented-transacts.md) — related

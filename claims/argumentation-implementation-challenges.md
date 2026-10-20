@@ -48,3 +48,6 @@ Practitioner perspectives in the primer identify these barriers: scaffolding and
 - [Integrating academic learning into CTE classes is challenging for educators and curriculum developers](integrating-academics-into-cte-challenging.md) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
 - [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related
+- [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](knowledge-barriers-language-development-procedural.md) — related
+- [Facilitating professional learning poses challenges for teacher leaders, including unfamiliarity with colleagues' instructional strategies and lacking skills to support teachers in applying them](teacher-leader-facilitation-challenges.md) — related
+- [Four current challenges impede AI literacy implementation: inconsistent policies, uneven knowledge, resistance, and cost barriers](four-challenges-ai-literacy-implementation.md) — related

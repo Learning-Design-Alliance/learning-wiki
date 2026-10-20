@@ -43,4 +43,7 @@ Study 2 matched 36 native and 36 non-native speaking fourth graders and repeated
 
 
 ## Related Claims
--
+- [Metacognitive monitoring deficits are unlikely to be the primary source of academic performance differences between native and non-native speaking students](monitoring-not-primary-source-of-performance-differences.md) — a broader claim this one bears on
+- [Native and non-native speaking fourth graders do not differ in recognition or metacognitive monitoring resolution in a paired-associates task (Study 1)](study1-no-group-differences-paired-associates-monitoring.md) — related
+- [Native and non-native speaking fourth graders do not differ in monitoring resolution of their open-ended text comprehension answers (Study 2)](no-group-differences-text-comprehension-monitoring.md) — related
+- [Native speaking fourth graders answered more open-ended text comprehension questions correctly than non-native speakers (Study 2)](native-speakers-outperform-text-comprehension.md) — related

@@ -47,3 +47,7 @@ The authors' interpretive conclusion drawn from the pilot's findings on internal
 - [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — reports the opposite
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — reports the opposite
 - [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related
+- [School leaders' FFL scores are moderately stable year to year (correlation of .54)](ffl-moderate-year-to-year-stability.md) — related
+- [The FFL shows good internal consistency across its full scale and its four categories of leadership practices](ffl-good-internal-consistency.md) — related
+- [School leaders who scored higher in one category of FFL leadership practices tended to score higher in the other categories](ffl-practice-categories-correlated.md) — related
+- [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related

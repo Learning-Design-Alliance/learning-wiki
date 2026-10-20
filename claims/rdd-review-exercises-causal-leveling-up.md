@@ -49,3 +49,4 @@ Logistic regression with a regression discontinuity design on approximately two 
 - [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — related
 - [Diagrams improved posttest accuracy only in the read-twice condition, not in the questioning conditions](diagrams-help-posttest-only-read-twice-condition.md) — related
 - [Robust RDD methods protect against model misspecification but require much larger sample sizes to detect small effects](rdd-robust-methods-need-larger-samples.md) — related
+- [A single practice test produced a larger effect (g = 0.70) than two or more practice tests (g = 0.51)](single-practice-test-larger-effect.md) — related

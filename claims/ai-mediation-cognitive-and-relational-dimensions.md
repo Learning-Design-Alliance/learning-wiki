@@ -46,3 +46,5 @@ Inductive thematic analysis of co-design workshop transcripts and written artifa
 - [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related
 - [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — a narrower finding that bears on this claim
 - [Shared mental model development mediates the effect of team learning behaviors on actual team performance](shared-mental-models-mediate-team-learning-performance.md) — related
+- [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — related
+- [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related

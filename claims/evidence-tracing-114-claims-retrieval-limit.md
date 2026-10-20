@@ -67,3 +67,5 @@ Same evidence-tracing analysis noting that despite a mean retrieval score of 0.8
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [A git-history audit found 96.3% of AI-generated answer-key question blocks needed no post-release semantic repair](ai-answer-keys-mostly-correct-git-audit.md) — related
 - [NLI analysis reveals reference-based grading is limited: many semantically correct responses contradict reference answers](nli-reference-based-grading-limitation.md) — related
+- [KITE's non-procedural responses show strong retrieval grounding (faithfulness 0.85, context relevance 0.94) and answer similarity 0.76, with lower factual correctness 0.45](kite-strong-grounding-lower-factual-correctness.md) — related
+- [Retrieval failure explained only 2 of vector RAG's 11 ungrounded answers; 9 answers retrieved the correct material and were still ungrounded, suggesting chunked context invites fabrication](fabrication-despite-successful-retrieval.md) — related

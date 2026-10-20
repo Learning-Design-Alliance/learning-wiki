@@ -50,3 +50,4 @@ This is the guide's expert assertion (type e) about why context familiarity matt
 
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
+- [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related

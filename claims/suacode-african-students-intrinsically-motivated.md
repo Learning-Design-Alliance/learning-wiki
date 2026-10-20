@@ -48,3 +48,7 @@ Open-ended survey of SuaCode enrollees analyzed with a grounded theory approach;
 ## Related Claims
 - [Free, understandable, and accessible content ranked low (4%) as an enrollment motivator for SuaCode students, unlike in comparable MOOC motivation studies](free-accessible-content-weak-enrollment-motivator-suacode.md) — related
 - The most frequent specific enrollment reasons among analyzed SuaCode students were interest in learning to code (20.3%), contributing to society (19.2%), and developing skills for advanced work (12.0%) — a narrower finding that bears on this claim
+- [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](intrinsic-motivation-higher-order-metacognition.md) — related
+- [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
+- [Motivational orientation is strongly associated with the role students assign to GenAI: intrinsically motivated students most often position it as an instructor, extrinsically motivated students as a replacement tool](motivation-shapes-genai-role-assignment.md) — related
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — a broader claim this one bears on

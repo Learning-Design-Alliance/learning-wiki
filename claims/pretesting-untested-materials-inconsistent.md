@@ -47,3 +47,4 @@ The review's synthesis of Richland et al. (2009) reports that untested-informati
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [Transfer of test-enhanced learning is weakest to rearranged stimulus-response items, to untested materials seen during initial study, and to problems involving worked examples](transfer-weakest-rearranged-untested-materials-worked-examples.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
+- [Social skills are positively related only to evidence elicitation quality, with inconsistent support across studies](social-skills-relate-evidence-elicitation-only.md) — related

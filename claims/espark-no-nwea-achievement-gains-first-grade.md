@@ -46,3 +46,5 @@ Analysis of NWEA reading percentiles from fall, winter, and spring assessments f
 - [Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement](2025-norms-raise-reading-achievement-percentiles.md) — related
 - [Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve](norm-shifts-raise-school-percentiles-struggling-students.md) — related
 - [First- and second-grade spring 2022 achievement in reading and math was lower than spring 2019 prepandemic achievement](early-elementary-spring-2022-achievement-below-2019.md) — related
+- [Norm shifts can change teacher evaluation CGP outcomes independently of instructional quality](cgp-norm-shifts-change-teacher-evaluation-outcomes.md) — related
+- [Student achievement remained below typical-year levels in fall 2022, with full recovery projected several years away](achievement-below-typical-recovery-years-away.md) — related

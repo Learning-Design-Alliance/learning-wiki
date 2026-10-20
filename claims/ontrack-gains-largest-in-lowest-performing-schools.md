@@ -54,3 +54,5 @@ Figure 4 analysis comparing 2005 and 2013 on-track rates by school performance q
 - [On-track rates after ninth grade rose from 42.2 to 50.6 percent, with slightly less than half the adjusted improvement attributable to better-prepared entering students](chicago-on-track-rates-rose-half-beyond-composition.md) — related
 - [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related
+- [On-track gains were largest for students with the lowest incoming skills and for African American males](on-track-gains-largest-for-lowest-skills-and-black-males.md) — related
+- [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](chicago-2006-2017-attainment-indicator-gains.md) — related

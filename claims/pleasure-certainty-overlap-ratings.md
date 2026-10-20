@@ -45,3 +45,5 @@ Correlational validation of the four ratings: Pleasure and Certainty correlated 
 ## Related Claims
 - [Correct RAPM solutions yield higher Suddenness and Certainty and lower Intuition than incorrect solutions, with a Certainty-by-difficulty interaction](correctness-effects-rapm-ratings.md) — related
 - [Across participants, RAPM scores correlate positively with Certainty but not with Intuition or Suddenness](rapm-score-correlates-certainty-only.md) — related
+- [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related
+- [Risk indices are positively inter-correlated, and cumulative risk correlates more strongly with outcomes than any single risk factor](cumulative-risk-correlates-stronger-than-single-risks.md) — related

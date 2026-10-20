@@ -47,3 +47,4 @@ From the Philp (2015) RCT, weighted GPA in the third year of the intervention fo
 - [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related
 - [Broda et al. (2018) found indeterminate effects on GPA, full-time enrollment, and credits completed in a large randomized trial](broda-2018-indeterminate-effects-large-trial.md) — related
 - [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
+- [FLIGHT may increase college enrollment among disadvantaged students, with 97% of the FLIGHT group versus 83% of the comparison group enrolling in college](flight-potentially-positive-college-enrollment.md) — related

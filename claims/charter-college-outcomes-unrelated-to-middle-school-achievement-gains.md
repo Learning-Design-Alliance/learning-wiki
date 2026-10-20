@@ -68,3 +68,5 @@ The brief relates each school's earlier achievement results from the National Ev
 - [Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools](charter-middle-admission-no-effect-college-enrollment.md) — related
 - [Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college](charter-middle-admission-no-effect-degree-attainment-persistence.md) — related
 - [The study also examines persistence in college over the first two postsecondary years](kipp-study-examines-college-persistence-two-years.md) — related
+- [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related

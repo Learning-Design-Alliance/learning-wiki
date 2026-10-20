@@ -48,3 +48,5 @@ Hierarchical regression on 92 undergraduates' paired-associate retention across 
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
 - [Spending more time sedentary 1 to 2 hours after encoding is associated with better long-term memory retention, implying physical activity in that window is detrimental](post-encoding-activity-detrimental-to-memory.md) — related
 - [Physical activity in the hour before memory retrieval is associated with superior memory retention, while sedentary time in that window is negatively associated](pre-retrieval-activity-benefits-memory.md) — related
+- [Memory recall declines over the 12-hour retention interval between encoding and retrieval](memory-declines-over-12-hour-interval.md) — related
+- [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related

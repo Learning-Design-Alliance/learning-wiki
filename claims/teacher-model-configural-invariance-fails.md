@@ -64,3 +64,7 @@ Measurement invariance testing of the teacher measurement model across the seven
 ## Related Claims
 
 - [The five-dimensional student model achieved metric but not scalar measurement invariance across the seven countries, permitting association comparisons but not latent mean comparisons](student-model-metric-invariance-holds.md)
+- [Teacher-reported mathematics instructional quality in pooled TALIS 2013 data from seven countries has three dimensions: classroom disciplinary climate, teacher support, and cognitive activation](teacher-three-dimensions-math-iq-talis.md) — reports the opposite
+- [Mexico's measurement models differed from all other countries, so Mexico was excluded and the study reports seven countries](mexico-excluded-different-measurement-models.md) — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
+- [A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data](higher-order-general-factor-student-only.md) — related

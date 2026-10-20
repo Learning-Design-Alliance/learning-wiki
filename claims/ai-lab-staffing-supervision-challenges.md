@@ -45,3 +45,5 @@ The report's Challenges section describes design challenges of the YCHS lab, inc
 ## Related Claims
 - [Anaheim High School's lab showed sustained and expanded impact in year two, with student-led use outpacing teacher engagement](anaheim-lab-year-two-expanded-impact.md) — related
 - [Equity commitments in technology adoption face ongoing constraints from infrastructure, funding, and organizational capacity](equity-commitments-constrained-infrastructure-capacity.md) — related
+- [Secondary teachers conceptualize LLM-powered chatbots as bounded experts operating under human supervision](teachers-conceptualize-llm-chatbots-as-bounded-experts.md) — related
+- [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related

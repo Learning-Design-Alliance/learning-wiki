@@ -51,3 +51,4 @@ Stepwise regression on the familiar "a + b = c" format; "the symbolic mental num
 - [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](transcoding-in-symbolic-approximate-addition.md) — related
 - [More accurate symbolic number line representations relate to better performance in exact, but not approximate, addition formats](symbolic-number-line-relates-to-exact-addition.md) — related
 - [The visuospatial sketchpad is the best and only unique predictor of kindergarteners' nonsymbolic approximate addition](vssp-predicts-nonsymbolic-approximate-addition.md) — related
+- [Kindergarteners perform significantly better in nonsymbolic than symbolic single-digit addition problem formats](nonsymbolic-easier-than-symbolic-single-digit-addition.md) — related

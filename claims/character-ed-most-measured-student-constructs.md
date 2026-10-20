@@ -45,3 +45,4 @@ Cross-program analysis of the 36 reviewed programs' studies (Findings chapter, F
 ## Related Claims
 - [Studies of character education programs most often measure student-level outcomes, with behavioral outcomes measured for 31 of 36 programs, affective for 28, and cognitive for 25](character-ed-studies-mostly-measure-student-outcomes.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
+- [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related

@@ -46,3 +46,6 @@ The authors' interpretation in the Discussion of their single-session dynamic as
 
 - [CVS use relates positively to age but not to gender in kindergartners](cvs-use-age-not-gender.md)
 - [Second-year kindergartners outperform first-year kindergartners on CVS scores with large differences](k2-outperforms-k1-cvs-scores.md)
+- [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](cvs-level-difficulty-ordering.md) — related
+- [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md) — related
+- [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related

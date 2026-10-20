@@ -44,3 +44,6 @@ Kruskal-Wallis tests on think-aloud protocol codes for the three elaborative sub
 
 ## Related Claims
 - [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related
+- [Observational learning devotes a significantly lower percentage of learning activity to elaborative processing than the other three approaches](observational-learning-lowest-elaborative-percentage.md) — related
+- [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](generation-approaches-elicit-more-learning-processes.md) — related
+- [The self-explanation-based environment elicits the most (self-)explanations and the inquiry environment elicits high hypothesis generation](approach-specific-process-profiles.md) — possibly the same claim (merge candidate)

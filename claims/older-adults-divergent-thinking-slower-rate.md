@@ -45,3 +45,4 @@ The review reports, citing Foos and Boone (2008), that "older adults can think a
 ## Related Claims
 - [Older adults were slower than young adults overall on solution times, with no age difference in accuracy](age-slowness-no-accuracy-difference.md) — related
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — related
+- [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related

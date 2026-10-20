@@ -49,3 +49,4 @@ Discussion-section argument citing prior work: "performance on a spatial perspec
 ## Related Claims
 - [Transfer task performance is the critical measure of what adaptive training accomplishes](transfer-task-measures-adaptive-training-effectiveness.md) — related
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
+- [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](performance-not-indicator-learning-open-ended.md) — related

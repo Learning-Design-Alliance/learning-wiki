@@ -47,3 +47,5 @@ Qualitative coding of 764 notes across three discussion views using seven discou
 - [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md)
 - [The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies](idea-dimension-most-frequent-fact-vs-opinion.md)
 - [Students showed low competence with Knowledge Forum features designed to support linking ideas, which may explain the lower-than-expected linking index](low-competence-kf-linking-features.md) — related
+- [Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation](lrk-underrepresented-core-competency.md) — related
+- [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](meta-discourse-groups-higher-individual-learning.md) — related

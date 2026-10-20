@@ -47,3 +47,4 @@ Theoretical rationale in the reply, applied to reinterpret prior findings: signa
 - [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — a broader claim this one bears on
 - [Stronger reward manipulations are predicted to yield learning gains with higher likelihood (magnitude-of-change condition)](magnitude-of-change-condition.md) — a broader claim this one bears on
 - [Reward prediction error: achieving less than expected causes a dopamine dip below baseline that discourages future effort, while external reward surges are followed by compensatory dips](dopamine-reward-prediction-error-crash.md) — related
+- [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related

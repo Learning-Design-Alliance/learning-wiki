@@ -50,3 +50,6 @@ The article reports, citing Hulstijn and Laufer (2001), a study of advanced L2 l
 - [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — possibly the same claim (merge candidate)
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — a broader claim this one bears on
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](grades-detrimental-creative-thinking-retention.md) — related
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related

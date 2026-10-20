@@ -49,3 +49,5 @@ The article's characterization of the current guidance landscape, stated in the 
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
+- [Many institutions are adding dedicated AI courses and majors, and academic dishonesty changes form rather than increasing with GenAI](ai-courses-and-integrity-findings.md) — related
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related

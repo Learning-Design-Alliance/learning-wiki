@@ -46,3 +46,5 @@ Quoted from Sana et al.'s commentary as reported in this article: in Ostrow et a
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [Interleaved practice produces higher mathematics test scores than blocked practice in a classroom experiment](interleaved-practice-higher-math-test-scores.md) — related
 - [The interleaving benefit is not caused by spacing, and the benefit extends to delayed tests](interleaving-not-spacing-persists-over-delay.md) — related
+- [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
+- [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related

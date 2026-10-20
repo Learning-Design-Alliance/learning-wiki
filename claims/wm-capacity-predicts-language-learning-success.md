@@ -50,3 +50,4 @@ The article's narrative review asserts, citing a large body of prior research (e
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — related
 - [After controlling for age, WM correlates significantly only with the most demanding condition (priming task, noncanonical word order)](wm-partial-correlation-only-priming-noncanonical.md) — related
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
+- [Cascade models in which IQ mediates the WM-to-achievement path fit comparably to, but not significantly better than, the original correlated models](cascade-model-iq-mediation-comparable-fit.md) — related

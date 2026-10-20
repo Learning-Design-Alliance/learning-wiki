@@ -45,3 +45,5 @@ The article reports the developmental trajectory of the entrance-age association
 ## Related Claims
 - [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — related
 - [The entrance-age achievement association is especially pronounced among children from upper-income families](entrance-age-gap-largest-upper-income-families.md) — related
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related
+- [Older entrants show higher kindergarten growth rates but lower growth rates in 1st and 2nd grades](entry-age-growth-rate-tradeoff.md) — related

@@ -49,3 +49,6 @@ Descriptive comparisons between the younger group (n = 196) and older group (n =
 - [Age differences on composing tasks (Picture Description, Sentence Retell) were not significant, unlike letter, name, and spelling tasks](composing-task-age-differences-not-significant.md) — possibly the same claim (merge candidate)
 - [Children's writing proficiency is task dependent: children use more advanced features on easier tasks and regress to basic features on harder tasks](writing-proficiency-task-dependent.md) — related
 - [The same three-factor model of emergent writing fits both younger and older preschool children despite skill-level differences](three-factor-model-invariance-across-preschool-ages.md) — related
+- [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
+- [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — related
+- [Writing features develop sequentially: universal features (linearity, segmentation, simple units) are acquired before language-specific features](universal-writing-features-before-language-specific.md) — related

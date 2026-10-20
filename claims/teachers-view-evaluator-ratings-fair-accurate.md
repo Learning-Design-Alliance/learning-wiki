@@ -45,3 +45,4 @@ Spring 2013 teacher survey administered to all CPS teachers. Teachers credited t
 ## Related Claims
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [Teachers view classroom observations as a fair way to evaluate their performance but largely reject student growth measures as unfair](reach-teachers-fair-observations-unfair-student-growth.md) — related
+- [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related

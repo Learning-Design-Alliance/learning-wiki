@@ -47,3 +47,5 @@ Content analysis of learning outcomes across the 18 included studies, organized 
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
 - ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies — related
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
+- [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
+- [AI-driven methodologies in chemistry laboratory classes foster deeper understanding of chemical phenomena while raising questions about human intuition and creativity](ai-lab-methodologies-deeper-understanding-questions-intuition.md) — related

@@ -45,3 +45,5 @@ The manual summarizes a key finding from earlier CARP baseline reports (Newmann 
 ## Related Claims
 - [Students showed more authentic intellectual work in writing than in mathematics](authentic-work-greater-in-writing-than-math.md) — related
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related
+- [A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories](chicago-assignments-majority-low-challenge.md) — related
+- [Writing assignments in 1999 showed more intellectual challenge than mathematics, with 48 to 64 percent reaching moderate or extensive challenge depending on grade](writing-assignments-more-challenge-than-math-1999.md) — related

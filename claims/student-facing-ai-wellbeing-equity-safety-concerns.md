@@ -76,3 +76,4 @@ Interview finding in the student-facing AI concerns section. The executive direc
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — related
 - [Teachers sought to preserve student thinking and authorship by bounding chatbot answer-giving and maintaining teacher control over scope](teachers-preserve-student-thinking-bound-answer-giving.md) — related
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — a broader claim this one bears on
+- [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](genai-two-speed-culture-uneven-team-access.md) — related

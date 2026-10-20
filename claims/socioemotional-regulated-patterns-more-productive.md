@@ -43,4 +43,8 @@ The article reports this association between regulation pattern membership and p
 
 
 ## Related Claims
--
+- [SSRL-directed question prompts enhanced individual participation in collaborative problem-solving, and socioemotional interaction diversity related to regulation contributions (reported findings)](ssrl-support-and-socioemotional-diversity-findings.md) — related
+- [In-service teachers more often followed socioemotional challenges with monitoring, and the groups differed in recurrent self-loops of controlling versus monitoring](in-service-socioemotional-monitoring-and-self-loops.md) — related
+- [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](cognitive-regulation-negotiation-direction-reversed.md) — related
+- [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md) — related
+- [Model-based clustering of tied durations identifies four weekly regulation patterns in PBL group discussions](four-weekly-regulation-patterns-pbl.md) — related

@@ -64,3 +64,5 @@ Figure 4 analysis of simulated-human alignment across struggling levels. Claude 
 ## Related Claims
 - [LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned](llm-error-alignment-depends-on-model-and-prompting-strategy.md) — related
 - [LLMs across five models generate diverse erroneous Java code, with mean AST edit distances varying by model and prompting strategy](llms-generate-diverse-erroneous-java-code-varying-by-model-and-prompt.md) — related
+- [LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions](error-simulation-accurate-but-longer-solutions-harder.md) — related
+- [On tightly specified functions, LLMs converged on a few exact AST forms (1–14 per 1,000 files) while an open-ended function remained diverse, and source was associated with exact form for all five functions](exact-ast-form-convergence-constrained-functions.md) — related

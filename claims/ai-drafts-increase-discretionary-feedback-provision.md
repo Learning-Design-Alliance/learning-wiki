@@ -48,3 +48,4 @@ Pre-registered semester-long randomized field experiment in a 300-level ML cours
 - [AI-assisted feedback drafts increase total feedback length by 39.79 characters per submission](ai-drafts-increase-feedback-length.md) — related
 - [TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)](tas-adapt-rather-than-copy-ai-drafts.md) — related
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](draft-usefulness-varies-by-grading-context.md) — related
+- [In the Enacted Feedback workflow most resources moved from AI feedback to suggestion selection, while optional AI assistance was rarely entered](event-flow-selection-versus-optional-assistance-use.md) — related

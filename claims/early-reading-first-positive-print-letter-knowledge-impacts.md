@@ -48,3 +48,9 @@ The national evaluation report to Congress states the program "had positive, sta
 ## Related Claims
 - [Early Reading First improved instructional content and practices in preschool classrooms](early-reading-first-classroom-practice-impacts.md) — related
 - [The PD program had a large and significant impact on classroom print environments in rural Rwanda](rwanda-literacy-boost-print-environment.md) — related
+- [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [Waterford Early Reading Level One™ and Let's Begin with the Letter People® produce similar outcomes in oral language and print knowledge](waterford-versus-letter-people-similar-outcomes.md) — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
+- [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' early reading/writing](pat-lk-potentially-positive-early-reading-writing.md) — related
+- [Kindergarten follow-up shows statistically significant positive effects of Curiosity Corner on two print knowledge measures, not included in the effectiveness rating](curiosity-corner-kindergarten-followup-print-gains.md) — related
+- [Phonemic segmentation training favored over rhyme/alliteration training on print knowledge, phonological processing, and early reading/writing (Yeh 2003), with substantively important but non-significant differences](phonemic-segmentation-favored-over-rhyme-alliteration-yeh.md) — related

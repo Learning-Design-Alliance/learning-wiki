@@ -72,3 +72,4 @@ The key findings report that for continuing KIPP students, KIPP high schools "ha
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
 - [Schools with stronger college-going cultures have higher student ACT scores, regardless of student backgrounds](college-going-culture-associated-higher-act-scores.md) — related
 - [The authors interpret the combined middle-and-high-school college gains as possibly driven by college preparatory culture and college-related supports at KIPP high schools](kipp-college-culture-supports-interpretation.md) — related
+- [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related

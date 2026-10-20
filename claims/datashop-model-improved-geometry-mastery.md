@@ -42,3 +42,5 @@ The article reports, citing Koedinger and Stamper (2013), a study where fine-gra
 
 ## Related Claims
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — a broader claim this one bears on
+- [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](lfa-discovered-models-beat-hand-generated-eleven-datasets.md) — related
+- [LFA discovered that backward application of the circle area formula is a distinct, harder skill with no transfer from forward application](lfa-circle-area-backward-separate-skill.md) — related

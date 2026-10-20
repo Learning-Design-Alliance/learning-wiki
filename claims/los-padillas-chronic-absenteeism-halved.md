@@ -50,3 +50,5 @@ Outcome reporting in the brief's "Progress at Los Padillas Elementary School" se
 - Los Padillas kindergartners increased year-over-year performance on a local formative assessment in both ELA and math since 2021–22 — related
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](los-padillas-student-belonging-above-district.md) — related
 - [Los Padillas 3rd-graders in 2023–24 outperformed peers in other APS community schools in both ELA and math](los-padillas-third-grade-outperforms-community-schools.md) — related
+- [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [The Los Padillas 4th-grade cohort improved markedly in ELA from 3rd to 4th grade (13% to 34% proficient) and outperformed APS community school peers](los-padillas-fourth-grade-ela-gains.md) — related

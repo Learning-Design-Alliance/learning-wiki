@@ -52,3 +52,4 @@ Structural model (latent-variable SEM) of survey responses from 400 students wit
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
+- [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — reports the opposite

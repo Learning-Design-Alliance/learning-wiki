@@ -45,3 +45,4 @@ ANOVA on perceived group status across grade levels. The study reports "fourth g
 ## Related Claims
 - [Ethnic-minority elementary-age children report higher awareness of ethnicity-based stigma than European-American children](ethnic-minority-children-higher-stigma-awareness-middle-childhood.md) — related
 - [The association between public regard and intrinsic motivation differs by gender, and between status and motivation differs by ethnicity](stigma-motivation-moderation-gender-ethnicity.md) — related
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related

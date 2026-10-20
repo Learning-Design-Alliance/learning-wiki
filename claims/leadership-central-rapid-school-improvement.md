@@ -44,3 +44,7 @@ The article's introductory statement asserts, without citing specific studies, t
 
 ## Related Claims
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](balanced-leadership-retention-not-statistically-significant.md) — related
+- [Improving schools secured external resources aligned with a development agenda and employed them strategically, and cultivated strong distributive leadership with a make-or-break principal role](aligned-resources-and-distributive-leadership-distinguish-improving-schools.md) — a narrower finding that bears on this claim
+- [Schools implementing MTSS demonstrate the framework's hallmarks, including stronger collaboration, data use, and aligned improvement initiatives](kansas-mtss-strong-implementation-hallmarks.md) — related
+- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — a broader claim this one bears on
+- [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related

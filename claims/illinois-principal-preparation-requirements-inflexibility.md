@@ -51,3 +51,6 @@ Challenge identified in the I-PREP statewide scan. The combination of multiple r
 - [A consortium led by Sinclair Community College implemented competency-based information technology programs in three community colleges, documented at or near baseline](sinclair-consortium-competency-based-it-programs-baseline.md) — related
 - [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related
 - [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — related
+- [The new policy strengthened university-district partnerships so principal preparation reflects local school needs](policy-strengthened-university-district-partnerships.md) — related
+- [The value of the proposed interventions depends on the stakeholder's vantage point, desired outcomes, youth subpopulation, and available resources](intervention-value-depends-stakeholder-vantage-point.md) — related
+- [Stakeholders worry administrative and managerial skills have been de-emphasized despite instructional leadership being a clear focus](managerial-skills-deemphasized-worry.md) — related

@@ -53,3 +53,4 @@ Online experiment with 102 Mechanical Turk participants studying photos of eight
 - The most effective intervention types provided counterstereotypical exemplar experience, evaluative conditioning, or strategies to override biases — related
 - [Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories](infrequent-alternation-higher-accuracy.md) — reports the opposite
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
+- [Frequent alternation of categories yields more interrelated concepts than infrequent alternation, as indicated by a diagnosticity-by-alternation interaction](frequent-category-alternation-interrelated-concepts.md) — related

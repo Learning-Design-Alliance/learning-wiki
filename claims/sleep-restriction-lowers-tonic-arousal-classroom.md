@@ -48,3 +48,4 @@ EEG-monitored subset (n=8) of the counterbalanced sleep manipulation; tonic arou
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
 - [Sleepy behaviors (eyes closed, head down) showed medium-sized but non-significant effects of sleep restriction](sleepy-behaviors-nonsignificant-medium-effects.md) — related
 - [Children with ADHD exhibit a higher theta/beta power ratio than typically developing children at C3, Cz and C4 in the midline](adhd-higher-tbr-midline-c3-cz-c4.md) — related
+- [Acute exercise increases cortical delta, theta, alpha, and beta EEG power, with a moderately large effect size of 0.38 to 0.75 standard deviations](acute-exercise-increases-eeg-band-power.md) — related

@@ -49,3 +49,5 @@ Per-technique analysis in Section 6.2 of cross-lingual transfer from bilingual p
 - Process and enact SRL categories transfer slightly better from German to English than English to German — related
 - LLM embedding-based SRL classifiers trained on one language reliably classify SRL categories in the other language within the same instructional domain — related
 - Cross-language SRL classifier transfer shows about 0.1 AUC degradation relative to within-language performance, except for realizing errors — related
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](cross-linguistic-transfer-skill-specific.md) — a broader claim this one bears on
+- [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related

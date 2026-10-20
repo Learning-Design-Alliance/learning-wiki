@@ -45,3 +45,6 @@ The intended-uses chapter describes linking studies (e.g., Hu, 2021) whose resul
 ## Related Claims
 - [MAP Growth reliability coefficients average about 0.95, with lower values in Science and early grades and stronger test-retest reliability over shorter intervals](map-growth-reliability-095-subject-and-interval-variation.md) — related
 - [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](map-growth-linking-studies-predictions.md) — related
+- [Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores](map-growth-proficiency-projections-rit.md) — a narrower finding that bears on this claim
+- [MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study](map-growth-rit-strongly-correlates-state-summative-mca-iii.md) — related
+- [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](map-growth-cut-scores-classification-accuracy-mca-iii.md) — a narrower finding that bears on this claim

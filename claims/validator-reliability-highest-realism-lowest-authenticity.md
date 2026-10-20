@@ -46,3 +46,4 @@ Human evaluation in which three annotators with college-level mathematics backgr
 - [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related
 - [Authenticity and realism are the most frequent failure modes in initial LLM-personalized math problems, and a single refinement iteration substantially reduces failures](single-refinement-iteration-reduces-personalization-failures.md) — related
 - [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related
+- [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related

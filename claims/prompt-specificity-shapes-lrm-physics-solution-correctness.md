@@ -49,3 +49,5 @@ Phase I analysis of o4-mini outputs to three prompt variants (five submissions e
 - [Interpretable, well-specified AI mechanisms tend to produce clearer learning benefits than technically sophisticated but pedagogically underspecified ones](interpretable-ai-mechanisms-clearer-benefits.md) — related
 - [Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement](prompt-writing-new-feedback-literacy-capacity.md) — related
 - [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](wm-model-underspecified-components-criticism.md) — related
+- [MAPS-guided critique preparation led students to identify more expert-aligned weaknesses in an AI solution than independent problem-solving preparation](maps-guided-critique-supports-expert-aligned-evaluation-of-ai-solutions.md) — related
+- [The authors observe that more specific physical descriptions in generation prompts tend to produce more physically coherent AI-generated motion](prompt-specificity-shapes-physical-coherence.md) — related

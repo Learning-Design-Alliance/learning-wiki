@@ -62,3 +62,5 @@ This is a single-school qualitative discourse study without a comparison school 
 - [Reflective methods carry inherent dangers of overanalysis and of becoming ends rather than means, and can go wrong](reflective-methods-overanalysis-limits.md) — related
 - [Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value](surprise-responses-identify-outliers.md) — related
 - [Linguistic-level discourse analysis of students restating animation descriptions in their own words documents collaborative behavior and informs task redesign](karlsson-linguistic-discourse-analysis-restating.md) — related
+- [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](network-of-intuitive-ideas-stabilizes-thinking.md) — related
+- [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](differing-values-no-agreed-environmental-decision.md) — related

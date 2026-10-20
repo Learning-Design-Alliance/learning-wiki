@@ -45,3 +45,5 @@ Analysis of test-event counts in the norming sample by domain, term, grade, and 
 ## Related Claims
 - [The 2025 MAP Growth norms were derived from one of the largest norming samples ever created, spanning 116,225,831 test events from 13,804,182 students in 29,720 schools across 7,000 districts over six testing terms](map-growth-2025-norms-massive-norming-sample.md) — related
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — related
+- [Pilot user norms provide basic contextual information but are drawn from a limited, non-representative pool of test events](spanish-map-reading-pilot-norms-limited-pool.md) — related
+- [Foundational Skills test scores generally increased across terms and grades, with less growth observed at higher grades](foundational-skills-scores-increase-across-terms-and-grades.md) — related

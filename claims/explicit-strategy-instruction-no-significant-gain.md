@@ -62,3 +62,6 @@ A single-classroom pre-test/post-test comparison of 10-item word problem tests f
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related
 - [GBSRI significantly improved Thai undergraduates' overall English paragraph writing scores after eight weeks](gbsri-improves-thai-undergraduate-writing-scores.md) — related
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
+- [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](verbal-problem-scores-resistant-to-forgetting.md) — reports the opposite
+- [After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison](progenitor-x-play-significant-prepost-gain.md) — reports the opposite
+- [Sixth graders scored significantly higher on posttests that included the seven-step problem-solving plan than on unformatted posttests](formatted-problem-solving-plan-posttest-advantage.md) — related

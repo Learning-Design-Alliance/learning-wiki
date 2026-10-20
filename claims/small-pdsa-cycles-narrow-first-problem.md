@@ -47,3 +47,5 @@ Interview participants described adopting PDSA cycles after years of planning wi
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — related
 - [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related
 - [Gameplay changed students' perceptions of themselves as learners and their learning practice](gameplay-changed-learner-self-perceptions.md) — related
+- [PDSA testing of instructional routines provided a durable structure for teachers to reflect on and improve instruction over time](pdsa-testing-routines-structure-teacher-reflection.md) — related
+- [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](four-plus-improvement-cycles-improve-conditions.md) — related

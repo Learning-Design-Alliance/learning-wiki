@@ -48,3 +48,4 @@ Null finding from the same adjusted main-effects regression on the weighted ECLS
 ## Related Claims
 - [Higher-quality home environments are associated with higher parent-reported curiosity at kindergarten](home-environment-quality-associated-kindergarten-curiosity.md) — related
 - [More positive parenting is associated with higher parent-reported curiosity at kindergarten in a nationally representative US sample](positive-parenting-associated-higher-kindergarten-curiosity.md) — related
+- [Living in a very safe neighborhood is associated with higher kindergarten curiosity, but only for lower- and middle-resourced children](very-safe-neighborhood-higher-curiosity-lower-middle-ses.md) — related

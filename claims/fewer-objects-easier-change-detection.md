@@ -48,3 +48,4 @@ Descriptive eye-tracking finding from the multimedia animation study: on the sce
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
 - [Change in the most-focused central object was detected at a low rate (41.66%) unless it was signalled and cued](central-object-change-detection-low-without-cueing.md) — related
 - [The change on the object being verbally described was the most detected change, seen by 10 of 12 participants (83.33%)](signalled-and-cued-object-change-most-detected.md) — related
+- [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related

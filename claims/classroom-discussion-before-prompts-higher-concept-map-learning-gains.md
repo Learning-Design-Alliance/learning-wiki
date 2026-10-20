@@ -65,3 +65,6 @@ Mixed MANOVA on pre- and posttest scores (conceptual and application level as de
 - [Individually processed reflection prompts alone were insufficient to foster knowledge acquisition in secondary vocational students](individual-reflection-prompts-insufficient-vocational-students.md) — related
 - [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](modeling-outlasts-scripting-after-withdrawal.md) — related
 - [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](expert-example-alone-no-learning-gain-concept-mapping.md) — related
+- [Learners who reflected collaboratively on their prior collaboration gained more knowledge about effective collaboration than learners guided by an external collaboration script or unsupported learners](reflection-scaffold-beats-script-collaboration-knowledge.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — a broader claim this one bears on
+- [No significant differences in learning measures across teacher-coached, researcher-coached, and BioWorld-alone conditions](bioworld-coaching-condition-null-manova.md) — related

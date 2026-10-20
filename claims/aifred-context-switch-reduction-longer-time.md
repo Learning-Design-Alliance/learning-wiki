@@ -70,3 +70,6 @@ Across all tasks, mean completion time was "higher with AIfred (349.5 seconds vs
 - [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](spatial-colocation-benefit-task-dependent.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
 - [Pico-projector interaction with maps improves task completion time, errors and satisfaction over smart phone screens](pico-projector-interaction-advantages-over-smartphone-screens.md) — related
+- [AIfred is faster for early image-generation modifications but ChatGPT becomes faster at four modifications, with no overall significant time difference](aifred-image-generation-completion-time.md) — related
+- [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
+- [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related

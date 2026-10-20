@@ -49,3 +49,6 @@ Narrative review principle attributed to Klingberg et al. (2005) and framed as c
 - [Deliberate practice can expand short-term memory capacity beyond the conventional seven-item limit](deliberate-practice-expands-memory-capacity.md) — related
 - [Amount of accumulated deliberate practice distinguishes more from less accomplished musicians](deliberate-practice-hours-differentiate-musicians.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related
+- [Largest EF-training benefits emerge on the most demanding EF tasks and task conditions, so outcome measures must test the limits of children's EF abilities](demanding-tasks-reveal-ef-training-benefits.md) — related
+- [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — related
+- [Traditional Tae-Kwon-Do training produces greater gains than standard physical education on all studied dimensions of EFs, with gains greatest for older children and boys](taekwondo-greater-ef-gains-than-pe.md) — related

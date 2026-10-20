@@ -45,3 +45,6 @@ Quantitative analysis of coded video data (Table 3) from the five teams' session
 ## Related Claims
 - [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — related
 - [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](process-mining-successful-unsuccessful-srl-models.md) — related
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on
+- [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — related
+- [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — a broader claim this one bears on

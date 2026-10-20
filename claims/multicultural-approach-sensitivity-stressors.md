@@ -49,3 +49,5 @@ Narrative review attribution in the Person dimension section: the article states
 - [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
 - [Some SSWs hold deficit-based racial attitudes, conflating structural constraints with immigrant cultural values and misreading trauma responses](ssws-deficit-racial-attitudes.md) — related
 - [The six key principles of a trauma-informed approach span safety, trustworthiness, peer support, collaboration, empowerment, and cultural issues](six-key-principles-trauma-informed-approach.md) — related
+- [Culturally and religiously grounded educational contexts function as sensitivity amplifiers revealing conditional dynamics of AI integration](value-based-contexts-sensitivity-amplifiers.md) — related
+- [Review reports a multicultural collaborative competence model offering a more vivid image of online intergroup discussion quality than a general model](editorial-mcc-vivid-image-collaboration-sensitive-topics.md) — related

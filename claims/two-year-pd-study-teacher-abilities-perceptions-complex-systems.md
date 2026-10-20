@@ -46,3 +46,4 @@ The article describes a 2-year professional development study in which the autho
 - [Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work](little-research-on-teacher-supports-for-complex-systems.md) — a broader claim this one bears on
 - [Students' classroom experiences and learning over the 2 years illustrate the impact of the instructional supports](student-experiences-and-learning-illustrate-support-impact.md) — related
 - [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related
+- [United States next generation science standards emphasize learning about complex systems as a core feature of science learning](ngss-emphasize-complex-systems-learning.md) — related

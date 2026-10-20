@@ -45,3 +45,5 @@ Pre-study with 33 undergraduate students randomly assigned to distinguish either
 ## Related Claims
 
 - [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md)
+- [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md) — related
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md) — related

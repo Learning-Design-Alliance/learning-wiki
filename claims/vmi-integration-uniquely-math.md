@@ -51,3 +51,4 @@ From the abstract's summary of the backward-entry regression results in 39 child
 - [Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD](motor-coordination-adhd-symptoms-predict-written-language.md) — related
 - [Visual-motor integration, visual perception, and motor coordination each independently predict math achievement in school-aged children with and without ADHD](visual-motor-components-predict-math.md) — related
 - [Better visual perception and motor coordination uniquely predict better reading skills in school-aged children with and without ADHD, controlling for IQ and ADHD symptoms](visual-perception-motor-coordination-predict-reading.md) — related
+- [Visual-motor integration is a predictor of orthographic skills in children](visual-motor-integration-predicts-orthographic-skills.md) — related

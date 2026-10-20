@@ -46,3 +46,4 @@ Experiment 1 exploratory bivariate correlations showed "moderate-to-large correl
 - [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](paired-flashcards-improve-immediate-metacognitive-calibration.md) — related
 - [Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning](overt-retrieval-drives-paired-metacognitive-benefit.md) — related
 - [Individual and paired flashcard learning yield comparable final cued-recall test performance](paired-vs-individual-flashcards-similar-test-performance.md) — related
+- [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related

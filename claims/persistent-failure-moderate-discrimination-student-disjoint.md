@@ -46,3 +46,5 @@ Retrospective computational study of 2993 failed-submission states from 215 stud
 - [The selected MLP outperformed gradient boosting for persistent-failure prediction in paired student bootstrap comparison](mlp-outperformed-gradient-boosting-persistent-failure.md) — related
 - Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind — related
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](secondary-outcomes-varied-predictability.md) — related
+- [Question and observed-coverage features retrospectively predict high-divergence questions with AUC 0.774, but the model is not validated for new-query routing](retrospective-prediction-high-divergence-questions-auc-077.md) — related
+- [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related

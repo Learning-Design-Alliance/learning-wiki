@@ -47,3 +47,4 @@ Comparison of LT-MKT against eleven baselines (DKT, GKT, AKT, SINKT, promptKT, T
 - [A qualitative case study shows LT-MKT jointly captures beneficial knowledge transfer and load-induced learning friction](case-study-transfer-and-load-friction.md) — related
 - [Modeling knowledge transfer within and across domains alleviates the cold-start problem on unseen concepts](knowledge-transfer-alleviates-cold-start-kt.md) — a narrower finding that bears on this claim
 - [Performance is best at moderate difficulty granularity and a limited recent window for domain transitions](moderate-difficulty-granularity-window-optimal.md) — related
+- [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](lfa-discovered-models-beat-hand-generated-eleven-datasets.md) — related

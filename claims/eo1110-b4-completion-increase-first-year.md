@@ -44,3 +44,5 @@ Comparison using additional Chancellor's Office data on prior-year cohorts. The 
 
 ## Related Claims
 - [EO 1110 significantly increased first-year completion of the quantitative reasoning (B4) requirement, roughly doubling completion among students needing additional support](eo1110-increased-first-year-b4-completion.md) — possibly the same claim (merge candidate)
+- [Under EO 1110, students in QR placement categories III and IV attempted and earned more baccalaureate credits in their first year than comparable 'not college ready' students did in 2017](eo1110-supported-placement-more-first-year-credits.md) — related
+- [Despite gains in credits and B4 completion, retention declines under EO 1110 were similar to baseline: 2018 Category III/IV students retained at the same rates as 2017 'not college ready' students](eo1110-retention-unchanged-for-support-students.md) — related

@@ -50,3 +50,5 @@ Regression discontinuity estimates from the large California district administra
 - [Effects of summer credit recovery on 4- and 5-year graduation rates for newcomer ELs were imprecisely estimated](credit-recovery-graduation-effects-imprecise.md) — related
 - [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related
 - [Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18](bronxdale-outperformed-comparisons-graduation-on-track.md) — related
+- [Eighth grade EL reclassification shows a fairly large negative effect on SAT reading, with a confidence interval of −0.27 to 0.05 SDs](el-reclassification-negative-sat-reading.md) — related
+- [Students who meet Criterion 1 achieve at the same level whether they remain in EL status or exit, suggesting retention in EL status after proficiency provides no clear academic benefit](retained-versus-exited-equivalent-achievement.md) — related

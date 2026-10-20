@@ -45,3 +45,6 @@ The editorial reports, from Friesen's article in the issue, that student discour
 ## Related Claims
 
 - [New teachers introduced to Knowledge Forum first tended to use it for teacher-directed instruction rather than collaborative knowledge building](premature-knowledge-forum-lethal-mutation.md)
+- [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) — related
+- [Becoming knowledge-creating learners requires developing specific metaskills](knowledge-creation-requires-metaskills.md) — related
+- [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related

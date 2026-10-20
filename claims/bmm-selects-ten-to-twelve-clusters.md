@@ -46,3 +46,5 @@ BMM cluster-count selection via Bayesian Information Criterion across k training
 - [Cluster profiles of student mathematics performance are dominated by overall ability, with most clusters being linear rescalings of average exam performance](cluster-profiles-dominated-by-overall-ability.md) — related
 - [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](diversity-specialisation-inverse-u-pattern.md) — related
 - [Explainable models including logistic regression, kNN and a Bernoulli Mixture Model all reach around 78% accuracy in predicting question-level pass/fail, with well-calibrated probabilities](explainable-models-78-percent-accuracy-calibrated.md) — related
+- [Using performance on each individual question as features yields only a small improvement over a single-ability logistic regression model](small-gain-from-question-level-features.md) — a narrower finding that bears on this claim
+- [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related

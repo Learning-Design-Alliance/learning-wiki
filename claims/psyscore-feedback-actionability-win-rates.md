@@ -63,3 +63,4 @@ Ablation arm of the same pairwise evaluation (Figure 3d, PsyScore-AEF vs No IRT)
 
 ## Related Claims
 - [Three education experts rate PsyScore feedback significantly higher than all LLM baselines on every dimension (p < .001), with the No-IRT ablation declining in Adaptivity and Accuracy (p < .05)](psyscore-expert-evaluation-outperforms-baselines.md) — possibly the same claim (merge candidate)
+- [Teacher-agent comparisons show backbone-dependent patterns consistent with ZPD-informed adaptation](teacher-agent-backbone-dependent-zpd-patterns.md) — related

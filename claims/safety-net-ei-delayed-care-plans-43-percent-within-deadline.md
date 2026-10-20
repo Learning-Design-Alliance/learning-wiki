@@ -44,3 +44,4 @@ Descriptive analysis of linked Denver Health and RMHS EI records for 722 childre
 
 ## Related Claims
 - [Greater clinical severity and older child age were associated with more timely EI care plan receipt in a safety-net cohort](ei-timeliness-severity-and-age-associations.md) — related
+- [EI service intensity was low in the safety-net cohort, with a median of 2.7 hours per month across all services](low-ei-service-intensity-median-hours-per-month.md) — related

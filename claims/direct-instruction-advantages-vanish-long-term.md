@@ -79,3 +79,9 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related
 - [Long-term learning gains may be optimized in collaborative situations that display discouraging short-term process costs](process-costs-tradeoff-long-term-gains.md) — related
+- [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
+- [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
+- [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
+- [Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — a narrower finding that bears on this claim
+- [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related

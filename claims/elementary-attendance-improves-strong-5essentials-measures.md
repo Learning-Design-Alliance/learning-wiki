@@ -89,3 +89,4 @@ School fixed effects model comparing schools to themselves across years; for all
 - [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — a broader claim this one bears on
 - [5Essentials Survey measures predicted school improvement in both high- and low-poverty schools at elementary and high school levels](5essentials-predicts-improvement-high-low-poverty.md) — a broader claim this one bears on
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](freshman-ontrack-strong-5essentials-measures.md) — related
+- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strength-linked-academic-improvement.md) — related

@@ -46,3 +46,4 @@ Ablation study on GeoVAD-Bench under the Auto-Aux setting comparing base model, 
 - [GeoWeave-8B achieves the highest open-source final-answer accuracy and process average on GeoVAD-Bench, gaining 25.3 and 30.4 percentage points over its base model](geoweave-8b-gains-over-basemodel.md) — related
 - [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](gt-aux-consistently-outperforms-no-aux-geometry.md) — related
 - [Four process-level error categories account for roughly nine in ten attributed failures in VCoT geometry solving](four-process-error-categories-dominate-failures.md) — related
+- [Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation](process-metrics-separate-correct-incorrect-solutions.md) — related

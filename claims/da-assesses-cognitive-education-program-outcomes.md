@@ -45,3 +45,4 @@ The review reports that DA served as an outcome measure for cognitive education 
 ## Related Claims
 - [Dynamic assessment reflects young children's learning potential more accurately than static tests, especially with minority and learning disabled children](da-more-accurate-than-static-tests-young-children.md) — related
 - [Open issues for dynamic assessment include cost-effectiveness, training, reliability and validity, and generalization](da-open-issues-cost-training-reliability-validity.md) — related
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — a broader claim this one bears on

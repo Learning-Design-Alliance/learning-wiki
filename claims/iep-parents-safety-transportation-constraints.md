@@ -53,3 +53,6 @@ Interview findings report that "Parents’ choices were constrained by fears for
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
 - [After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings](proximity-decided-post-closing-enrollment.md) — related
 - Interviewed families enrolled in designated welcoming schools because the schools matched their priorities, because they believed enrollment there was mandatory, or because barriers limited other options — related
+- [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related
+- [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related

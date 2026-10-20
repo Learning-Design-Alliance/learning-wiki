@@ -58,3 +58,4 @@ Within-item context arms on the shipped grading prompt, single runs of 150 strat
 - [Showing an LLM grader a learner's prior performance biases the grade.](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — context about the learner, which moves the mark on identical work
 - [Graded exemplars shift an LLM grader by the level they are marked at.](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — a targeted form of task context, which shifts the grade by its marked level
 - [Cognitive overload degrades learning.](cognitive-overload-degrades-learning.md) — the analogous trade in human readers, and a caution against pressing the analogy
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related

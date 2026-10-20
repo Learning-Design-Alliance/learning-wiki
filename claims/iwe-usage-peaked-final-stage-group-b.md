@@ -45,3 +45,5 @@ Interpretation of the visualized collaborative learning sequences (Figs. 5 and 6
 ## Related Claims
 
 - [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)
+- [Group B showed a shift toward intrapersonal voices (I–you/I–we) during its later empirical evaluation, while group A remained interpersonal (I–it/I–me) even when investigating, with un-negotiated inputs](shift-toward-intrapersonal-voices-successful-group.md) — related
+- [Group A's two most common I-positions were I–it and I–me, while group B's were I–me and I–we, indicating different reliance on interpersonal versus intrapersonal voices](iposition-distribution-two-groups-cscl.md) — related

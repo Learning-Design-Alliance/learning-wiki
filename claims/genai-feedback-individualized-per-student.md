@@ -45,3 +45,5 @@ Qualitative content analysis of the weekly AI feedback texts collected from the 
 ## Related Claims
 - [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — a broader claim this one bears on
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — a broader claim this one bears on
+- [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related

@@ -49,3 +49,4 @@ Observational analysis of linked Arizona Department of Education and Department 
 - [Arizona students in foster care changed schools during the school year at about four times the rate of other students](foster-care-high-school-mobility-arizona.md) — related
 - [Students in foster care were consistently outperformed by low-SES students and scored at the two lowest performance levels at twice the statewide rate](foster-care-outperformed-by-low-ses.md) — related
 - [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related
+- [Students in foster care had the lowest proficiency of any group on California's grades 2-7 mathematics test](foster-care-lowest-math-proficiency.md) — related

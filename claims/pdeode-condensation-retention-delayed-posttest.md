@@ -46,3 +46,4 @@ Delayed post-test administered 3 months after the intervention to the sample (N 
 - [A PDEODE teaching activity reduced first-year students' alternative conceptions about condensation from pre-test to post-test](pdeode-teaching-reduces-condensation-alternative-conceptions.md) — related
 - [Responses classified as sound understanding on open-ended condensation items rose after the intervention and were still above pre-test levels at delayed post-test](pdeode-sound-understanding-increase-open-ended-items.md) — related
 - [Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention](pdeode-interviews-improved-understanding-three-levels.md) — related
+- [Participants' pre-teaching conceptions of the republic conflated it with democracy or associated it with Atatürk](pre-teaching-republic-alternative-conceptions.md) — related

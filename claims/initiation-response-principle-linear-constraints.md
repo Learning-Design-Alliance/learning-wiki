@@ -47,3 +47,4 @@ Episode analysis of group 1 shows early placement of contributions affected subs
 - [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — a broader claim this one bears on
 - [Weak initial organization enables experimentation with alternative graphical organizing principles](weak-organization-enables-principle-experimentation.md) — related
 - [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — related
+- [Recurring functional/conceptual spaces (personal space, shared work area, conclusions, discard) emerged in every interaction, and pairs resisted re-designating designated spaces](functional-conceptual-workspace-spaces.md) — related

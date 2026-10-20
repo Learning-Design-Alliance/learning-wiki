@@ -46,3 +46,4 @@ Category-level Spearman analysis in Section 4.2 over the four benchmark datasets
 - [Interaction patterns of benchmark datasets and real-world deployment categories are statistically distinct in the scaffolding-uptake space](benchmark-and-realworld-interaction-categories-statistically-distinct.md) — related
 - [Students in real-world chatbot deployments exhibit lower scaffolding uptake than benchmarks assume, frequently bypassing the chatbot's pedagogical framing](real-world-students-bypass-chatbot-scaffolding.md) — related
 - [Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments](weak-inconsistent-scaffolding-uptake-correlation-real-world.md) — related
+- [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related

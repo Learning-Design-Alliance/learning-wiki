@@ -47,3 +47,4 @@ Analysis of data from a large urban district shows a monotonic pattern: "the low
 - [Test scores at the floor of a test's score scale contain real information about students' performance, so floor scores do not distort teacher value-added estimates](floor-test-scores-contain-real-information-value-added.md) — related
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — a broader claim this one bears on
 - The paper clarifies confusion about the use of value-added information in teacher evaluation — a broader claim this one bears on
+- [Multiple sources of student information can be accumulated to estimate teacher effectiveness](multiple-sources-accumulate-teacher-effectiveness.md) — related

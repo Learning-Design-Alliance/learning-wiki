@@ -53,3 +53,4 @@ Structural equation modeling of data from 224 fourth-grade children, controlling
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Children showing higher metacognition and self-regulation felt the task would be difficult but that they would be able to solve it](higher-metacognition-children-felt-difficult-but-solvable.md) — related
+- [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related

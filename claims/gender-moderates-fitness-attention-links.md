@@ -47,3 +47,7 @@ Gender comparison across the correlation (Table 2) and regression (Table 3) anal
 ## Related Claims
 - [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
 - [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related
+- [Commissions scores do not differ significantly between fitness clusters in either gender](commissions-no-cluster-difference.md) — related
+- [Girls show significantly higher task orientation than boys in preschool](girls-higher-task-orientation-preschool.md) — related
+- [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](vo2max-main-predictor-attention-concentration.md) — related
+- [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — a broader claim this one bears on

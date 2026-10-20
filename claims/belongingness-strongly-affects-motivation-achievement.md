@@ -40,7 +40,7 @@ In its What Does the Research Say? section, the primer attributes this synthesis
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (5 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a stronger sense of belonging go with more engagement, achievement and persistence?* This table gathers the studies behind this claim and the 9 narrower claims that bear on it: **9 distinct studies** (5 review, 2 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q3`, 1 of 9 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -63,3 +63,12 @@ In its What Does the Research Say? section, the primer attributes this synthesis
 - [Genetic differences in learning motivation are more strongly predictive of math achievement among four-year-olds in higher-SES homes](genetic-motivation-math-link-moderated-by-ses.md) — related
 - [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — a narrower finding that bears on this claim
 - [Academic emotions moderate the relationship between belonging and achievement](emotions-moderate-belonging-achievement.md) — related
+- [Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels](belonging-predicts-knowledge-building-contributions.md) — a narrower finding that bears on this claim
+- [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — a narrower finding that bears on this claim
+- [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](sense-of-belonging-predicts-persistence-intentions.md) — related
+- [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a narrower finding that bears on this claim
+- [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](belonging-mediates-identity-achievement.md) — a narrower finding that bears on this claim
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — a narrower finding that bears on this claim
+- [A belonging-enhancing intervention produced a smaller decline in sense of belonging over the first year than the control groups](belonging-intervention-smaller-decline.md) — a narrower finding that bears on this claim
+- [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — a narrower finding that bears on this claim

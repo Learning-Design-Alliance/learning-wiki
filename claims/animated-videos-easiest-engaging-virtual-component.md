@@ -49,3 +49,4 @@ Teacher interview and survey data from Study 1's Results section: teachers "cons
 - [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](educator-adaptations-greater-access-virtual-content.md) — related
 - [Students were highly engaged in the in-school environment, with engagement increasing over the implementation duration.](hero-elementary-in-school-student-engagement-increased.md) — related
 - Virtual implementation of Hero Elementary varied widely across classrooms, with teachers mixing synchronous and asynchronous instructional strategies — related
+- [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related

@@ -64,3 +64,6 @@ Correlational and regression analyses at discussion level (n = 36) found less ar
 ## Related Claims
 
 - [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)
+- [Anchored discussion produces more meaning-oriented discussion of academic texts than traditional forum discussion](anchored-discussion-more-meaning-oriented.md) — related
+- [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md) — related
+- [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md) — related

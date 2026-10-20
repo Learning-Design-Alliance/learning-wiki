@@ -52,3 +52,5 @@ Study 2 completion/prediction samples measured subjective mental effort with the
 - [People are well-calibrated about their own independent completion times](accurate-independent-completion-time-predictions.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — reports the opposite
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
+- [People use AI on simple tasks at a rate significantly higher than they predict for themselves (self-estimate miscalibration), especially on easy task variants](self-estimate-miscalibration-ai-use-simple-tasks.md) — related
+- [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related

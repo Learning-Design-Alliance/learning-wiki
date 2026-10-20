@@ -48,3 +48,4 @@ SEM mediation analysis (MLR estimation) in the quasi-experiment; the model showe
 - [Human–human pair programming fostered the highest perceptions of collaboration and social presence, surpassing both AI-assisted and individual conditions](human-pairing-highest-collaboration-social-presence.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Self-efficacy and motivation partially mediate the negative relationship between thoughtless GenAI use and self-directed learning, including a sequential SE→MOV pathway](se-mov-partial-mediation-tuga-sdl.md) — related
+- [AI-assisted pair programming groups outperformed both individual and human–human pair groups on programming performance](ai-assisted-pair-programming-outperforms-on-performance.md) — related

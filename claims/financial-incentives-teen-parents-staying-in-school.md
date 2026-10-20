@@ -86,3 +86,4 @@ Randomized controlled trial of Ohio's LEAP program meeting WWC standards; survey
 - [Financial incentives for teen parents show no discernible effects on progressing in school](financial-incentives-teen-parents-progressing-in-school.md) — related
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related
 - [The WWC rates Connect with Kids as having potentially positive effects on behavior, limited by only one qualifying study](cwk-potentially-positive-rating-single-study.md) — related
+- [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — related

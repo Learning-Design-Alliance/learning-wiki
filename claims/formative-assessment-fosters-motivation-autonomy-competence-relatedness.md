@@ -52,3 +52,6 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](autonomy-support-training-effective-d63.md) — related
 - [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related
 - [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related
+- [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — related
+- [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — a broader claim this one bears on
+- [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related

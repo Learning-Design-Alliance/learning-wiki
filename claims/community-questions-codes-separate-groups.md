@@ -43,4 +43,6 @@ Chi-square analysis of main code frequencies (Table 5) using Cohen's guidelines 
 
 
 ## Related Claims
--
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [Learning agility, digital literacy, future work self salience, and perceived university digital support prospectively differentiate AI-attitude profile membership, especially separating Low-Perception Detached from engaged profiles](resources-prospectively-differentiate-ai-profile-membership.md) — related
+- [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](knowledge-creation-coding-scheme-distinguishes-groups.md) — a broader claim this one bears on

@@ -81,3 +81,8 @@ The review reports Sheese et al.'s 12-week deployment with 52 students and more 
 - Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
 - [Student-agent interaction produced far more help-seeking but a non-uniform cognitive distribution dominated by lower-order engagement (54.52%), unlike the balanced distribution of student-instructor interaction](agent-context-lower-order-dominance.md) — related
 - [More than half of participants' ChatGPT queries sought knowledge or advice, with methodological knowledge and classroom management the largest prompt categories](chatgpt-queries-sought-knowledge-advice.md)
+- [HelpCoach led to greater knowledge retention one week later than pre-task help-seeking training alone](helpcoach-greater-knowledge-retention-one-week.md) — related
+- [Not requesting any hints in at least one problem is related to greater wheel-spinning, consistent with help avoidance](hint-avoidance-related-greater-wheel-spinning.md) — related
+- [The Coach's hint budget was managed poorly: students split into early-spenders and savers, and within the Coach condition only those with a deliberate hint strategy scored higher](hint-budget-mismanaged-two-patterns.md) — related
+- [Students' critical examination of AI-generated outputs increased across learning cycles, though unevenly, with some participants continuing to seek confirmation from AI](critical-evaluation-of-ai-outputs-increased-unevenly.md) — related
+- [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic](students-avoid-help-seeking-despite-need.md) — related

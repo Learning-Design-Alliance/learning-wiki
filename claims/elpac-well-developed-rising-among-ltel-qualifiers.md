@@ -49,3 +49,4 @@ Trend analysis shown in Figure 3 of CDE summative ELPAC results. The report stat
 - [ELPAC overall PL 4 remains the appropriate Criterion 1 reclassification threshold, with 2017-18 and 2022-23 data converging on the same level](elpac-pl4-threshold-validated-replication.md) — related
 - [English Learner students at ELPAC PL 4 perform as well as, or better than, matched English-only peers on the state English language arts achievement test](pl4-el-students-comparable-to-peers.md) — related
 - [The number of students classified as LTEL in California dropped from almost 380,000 (18% of ever-ELs) in 2021–22 to just over 226,500 (about 11%) in 2022–23](ltel-count-declining-post-pandemic.md) — related
+- [Students who meet Criterion 1 achieve at the same level whether they remain in EL status or exit, suggesting retention in EL status after proficiency provides no clear academic benefit](retained-versus-exited-equivalent-achievement.md) — related

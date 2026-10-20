@@ -45,3 +45,6 @@ Exposure check on coded final ChatGPT recommendations across AI-assisted task-le
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
+- [Open ChatGPT support produces stronger self-serving attribution bias than ChatGPT support with reflection](chatgpt-support-attribution-bias.md) — related
+- [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
+- [Better awareness calibration co-occurs with lower incorrect-advice acceptance and lower attribution bias, interpreted associationally only](calibration-negatively-associated-overreliance.md) — related

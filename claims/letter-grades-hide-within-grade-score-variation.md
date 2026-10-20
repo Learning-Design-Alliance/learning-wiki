@@ -46,3 +46,5 @@ Analysis of Oklahoma student reading score distributions plotted by A–F letter
 - [Percent meeting standards is an imprecise metric whose cut-score concentration produced the Era 2 misconception that Chicago taught basic skills better than high-level skills](percent-meeting-standards-imprecise-metric.md) — related
 - Low and Growing states have nearly identical average math scale scores, but students in Low states are more likely to improve or maintain grade level (64% vs. 60%) — related
 - [Oklahoma achievement declined rather than grew across 2012–2014 under the A–F letter grade system, with the largest drops in F schools](oklahoma-achievement-declined-2012-2014-under-a-f.md) — related
+- [Composite accountability indicators such as A–F letter grades fail to capture the cognitive and noncognitive competencies of deeper learning and college and career readiness](composite-indicators-poor-conceptual-alignment-deeper-learning.md) — a broader claim this one bears on
+- [In Oklahoma A and B schools, FRL students scored lower in reading than Non-FRL students, with the gap widening in 2014](frl-reading-gap-a-b-schools-2012-2014.md) — related

@@ -63,3 +63,4 @@ Sensitivity analysis re-estimating the interaction model after excluding flagged
 - [The RT propensity–learning relationship is strongest early in the class session and attenuates later](rt-learning-relationship-strongest-early-session.md) — related
 - [Response-time propensities show moderate to strong within-student stability across practice session slices](rt-propensities-moderate-strong-stability.md) — related
 - [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related
+- [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related

@@ -50,3 +50,4 @@ Comparative analysis adjusting for special education status, age relative to gra
 - [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
 - [Schools serving similar students from similar neighborhoods had substantially different absence rates, with over half of school variation unexplained by student backgrounds or prior absences](school-absence-variation-net-of-students-neighborhoods.md) — related
+- [Rising ninth-grade on-track rates did not negatively affect schools' average ACT scores](on-track-gains-did-not-lower-act-scores.md) — related

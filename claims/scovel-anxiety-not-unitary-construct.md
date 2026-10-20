@@ -45,3 +45,6 @@ The article reports, citing Scovel (1978), that anxiety is 'not a simple, unitar
 ## Related Claims
 - [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](learning-genai-anxiety-moderates-intention-procrastination.md) — related
 - [Early identification and treatment of math anxiety is important because early anxieties can snowball into avoidance of mathematics](early-identification-math-anxiety-importance.md) — related
+- [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related
+- [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](vague-vs-numeric-frequency-measurement-models-differ.md) — related
+- [Data-based recording of educational processes risks narrowing education to quantifiable output indicators and raises data sovereignty and algorithmic ethics issues](datafication-risks-narrowing-educational-processes.md) — related

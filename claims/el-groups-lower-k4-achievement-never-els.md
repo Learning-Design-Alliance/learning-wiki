@@ -45,3 +45,6 @@ Longitudinal observational study of kindergarten-to-4th-grade achievement and gr
 ## Related Claims
 - [All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade](el-groups-lower-achievement-than-never-els-k4.md) — possibly the same claim (merge candidate)
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
+- [All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten](el-groups-lower-kindergarten-achievement.md) — related
+- [Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading](dually-identified-smaller-gains.md) — related
+- [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related

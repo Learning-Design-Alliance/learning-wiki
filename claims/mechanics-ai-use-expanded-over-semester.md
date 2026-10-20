@@ -47,3 +47,5 @@ Pre/post survey in an undergraduate engineering mechanics course (pre n=100, pos
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [A majority of physics students (76%) perceived a positive change in their Gen AI interactions after prompt-engineering training](prompt-engineering-training-improves-perceived-gen-ai-interactions.md) — related
 - [Students' mean self-rated impact of AI on their mechanics learning rose from 5.85 to 6.35 on a 0-10 scale](perceived-ai-impact-rating-rose.md) — related
+- [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [In an AI-permitted course with research-shaped homework, most students remained engaged throughout, with 33 of 42 earning credit on at least eight of ten sheets](kt1-sustained-engagement-research-homework.md) — related

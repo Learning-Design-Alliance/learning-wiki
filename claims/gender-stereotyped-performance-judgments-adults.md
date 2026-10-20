@@ -72,3 +72,5 @@ Descriptive comparison of weighted bias indicators showed men's and women's bias
 - [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Women scored about 33 SAT-M points lower than men who took the same math course and received the same grade](women-33-sat-points-lower-matched-course-grade.md) — related
+- [Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ](global-judgments-more-trait-driven-than-local.md) — related
+- [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related

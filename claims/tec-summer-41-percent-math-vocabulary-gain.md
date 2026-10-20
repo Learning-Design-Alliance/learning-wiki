@@ -46,3 +46,5 @@ Findings section of the mixed-methods formative evaluation reports the pre-to-po
 - [Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills](tec-summer-20-percent-numeracy-gain.md) — related
 - [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](math-vocabulary-levels-improve-post-test.md) — a narrower finding that bears on this claim
 - [Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills](tec-summer-17-percent-phonics-gain.md) — related
+- [Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary](explanation-levels-improve-post-test.md) — related
+- [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related

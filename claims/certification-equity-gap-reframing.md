@@ -43,3 +43,5 @@ Authors' stated rationale for the certification's 2022 update; this is the organ
 ## Related Claims
 - [Certified edtech developers report that learning sciences research helps them name and evaluate their product's expected impact on learning](edtech-developers-report-research-clarifies-impact.md) — related
 - [A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning](survey-products-rooted-in-research-greatest-impact.md) — related
+- [Course-based emphasis on reframing and stakeholder inquiry shifts pre-service teachers toward informed-designer stances](course-emphasis-on-reframing-shifts-teachers-toward-designerly-stances.md) — related
+- [Only 20% of the 100 most used edtech products have a research rationale](only-20-percent-top-edtech-research-rationale.md) — related

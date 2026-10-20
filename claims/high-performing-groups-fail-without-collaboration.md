@@ -54,3 +54,4 @@ The review attributes this finding to Barron (2003) as the rationale for assessi
 - Introducing CT as a problem-solving approach that often involves digital technology helped teachers — related
 - [Group diversity problems stem from coordination failures rather than categorisation differences](diversity-coordination-failures-not-categorisation.md) — related
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — related
+- [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related

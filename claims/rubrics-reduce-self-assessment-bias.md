@@ -47,3 +47,8 @@ Same randomized experiment (N = 93) measuring signed difference between student 
 - [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related
 - [In Experiment 1, the feedback intervention reduced pre-task signed metacognitive bias (underconfidence) but the group difference did not persist at post-task](feedback-reduces-pretask-metacognitive-bias.md) — related
 - [In Experiment 2, signed metacognitive bias scores showed no significant group effect or linear trend, failing to replicate the Experiment 1 signed-bias finding](exp2-signed-metacognitive-bias-not-replicated.md) — related
+- [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related
+- [Providing expert example standards reduces bias in learners' evaluations of self-generated examples](expert-example-standards-reduce-bias.md) — related
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — related
+- [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
+- [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) — related

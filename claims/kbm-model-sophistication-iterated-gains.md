@@ -46,3 +46,4 @@ A paired Wilcoxon signed-rank test on 153 student models coded with a five-level
 - [Grade 5 students in a KBM environment significantly increased their Earth Science domain knowledge from pretest to post-test](kbm-domain-knowledge-gains-earth-science.md) — related
 - [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related
 - [Systems thinking discourse shifted away from lower-level moves toward higher-level interconnections and feedback moves across the KBM unit](systems-thinking-discourse-shift-toward-higher-level-moves.md) — related
+- [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](model-and-discourse-correlate-with-domain-knowledge.md) — related

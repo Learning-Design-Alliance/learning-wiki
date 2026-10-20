@@ -50,3 +50,5 @@ A study of 21 emergency care professionals, which its authors call quasi-experim
 - [The 4C/ID group scored higher on consent-taking OSCEs than the lecture group, but the difference was not statistically significant](osce-advantage-4cid-not-significant.md) — related
 - [Focus group participants described role-play as transformative for conceptual clarity and confidence in consent-taking](role-play-transformative-consent-clarity-confidence.md) — related
 - Workshop students achieved modestly higher final task-performance scores — related
+- [A 4C/ID-based online learning environment improves upper secondary students' research skills test scores from pretest to posttest](4cid-environment-improves-lrst-scores.md) — related
+- [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](no-group-difference-tat-posttest-cls.md) — related

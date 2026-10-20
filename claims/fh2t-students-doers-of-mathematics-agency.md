@@ -49,3 +49,5 @@ Thematic analysis of confirmatory study interviews with 11 educators. Educator R
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — related
 - [The seven levers can describe environments for robust understanding with or without AI, mapping onto the TRU dimensions](levers-map-to-tru-dimensions.md) — related
+- [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
+- [Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties](fh2t-teacher-console-instructional-modification.md) — related

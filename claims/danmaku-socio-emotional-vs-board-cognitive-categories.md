@@ -49,3 +49,4 @@ Quantitative content analysis coded all messages with a scheme built from Rourke
 - [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](parasocial-greetings-and-co-learning-presence-in-danmaku.md) — related
 - [Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge](danmaku-tacit-versus-board-explicit-knowledge-sharing.md) — related
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
+- [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](a3c-joint-interaction-levels-in-scaled-mooc-tools.md) — related

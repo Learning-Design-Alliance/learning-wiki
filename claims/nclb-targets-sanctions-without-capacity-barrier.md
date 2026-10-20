@@ -45,3 +45,5 @@ The author's retrospective assessment, stated in the Executive Summary of this p
 ## Related Claims
 - [Most state ESSA plans emphasized the district's role in school improvement over the state agency's role, a shift from No Child Left Behind.](districts-emphasized-over-seas-in-essa-plans.md) — related
 - [States used ESEA flexibility to move away from the 100 percent proficiency goal and target a narrower set of low-performing schools for support](esea-flexibility-narrowed-accountability-focus.md) — related
+- [NCLB had negative effects on AI/AN education, including declines in Navajo students' standardized test scores of up to 50 percent over three years under scripted English-only programs](nclb-negative-effects-ai-an-students.md) — related
+- [Decentralization and accountability acted as sorting mechanisms stratifying schools by initial capacity to respond](decentralization-accountability-sorting-mechanisms-school-capacity.md) — related

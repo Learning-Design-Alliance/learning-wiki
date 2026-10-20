@@ -65,3 +65,8 @@ The report states "Student outcomes were consistently positive, even with variat
 - [Teachers rated Session 1 DVD episodes and Prankster Planet as the most appealing TEC elements and worksheets as least appealing](tec-element-appeal-rankings.md) — related
 - [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
+- [Evidence of changes in growth mindset or math confidence after the summer programs was minimal](summer-math-programs-minimal-mindset-confidence-change.md) — related
+- [Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills](tec-summer-17-percent-phonics-gain.md) — related
+- [Vista students using Mathspace showed statistically significant math gains over the summer, while benchmark scores were not significantly different in the other two districts](vista-mathspace-significant-summer-math-gains.md) — related
+- [Delayed Treatment teachers more frequently simplified GC/CoV-lean lessons in ways that removed opportunities for figuring out, while Treatment teachers added graphing-skill opportunities](lesson-modifications-differed-by-group.md) — related
+- [Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary](tec-summer-41-percent-math-vocabulary-gain.md) — related

@@ -47,3 +47,4 @@ GEE models with gamma log link on clustered repeated measures; Table 1 shows pre
 - [Improved post-task understanding, higher task difficulty ratings and higher physiological arousal predict better learning outcomes](arousal-and-task-perceptions-predict-learning-outcomes.md)
 - [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md)
 - [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](physiological-synchrony-occurs-with-difficulties.md)
+- [Physiological arousal is higher in sessions where the task is perceived as less difficult at the end](higher-eda-when-task-perceived-easier-at-end.md) — possibly the same claim (merge candidate)

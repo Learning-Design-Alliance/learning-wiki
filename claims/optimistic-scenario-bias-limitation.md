@@ -48,3 +48,4 @@ Authors' stated methodological limitation: the positive framing of the visioning
 - [Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability](conjecture-map-surfaces-theory-technical-tension.md) — related
 - Learning analytics and EDM researchers raise practical concerns: impoverished ontologies, easy-to-collect data bias, interdisciplinary demands, and negative consequences for students — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
+- [Control-group students framed sustainability as an external obligation and held techno-optimistic views of AI centered on efficiency with little ethical reflection](control-external-obligation-techno-optimism.md) — related

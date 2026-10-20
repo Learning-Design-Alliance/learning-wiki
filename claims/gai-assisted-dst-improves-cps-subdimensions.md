@@ -48,3 +48,6 @@ ANCOVA sub-dimension analyses from the same 60-student randomized experiment. Th
 - [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related
+- [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](ci-higher-self-regulation-no-coreg-differences.md) — related
+- [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related

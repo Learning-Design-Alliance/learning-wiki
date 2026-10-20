@@ -50,3 +50,4 @@ In the Stage 2 student interview, the student described reading code, analyzing 
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — related
 - [Passive instructional events such as texts do not explicitly prompt students to produce written or spoken output](passive-instruction-no-production-prompt.md) — related
+- [Oral and explanation-based evaluation of AI-leveraged projects is complicated because students may break down on counterfactual questions even when they did the work](counterfactual-breakdown-complicates-oral-evaluation.md) — related

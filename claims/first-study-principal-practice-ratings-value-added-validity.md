@@ -51,3 +51,7 @@ Authors' framing statement about the research gap: although states and districts
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
 - [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related
+- [Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014](value-added-models-estimate-charleston-teacher-principal-effectiveness-2013-14.md) — related
+- [Nearly all teacher survey domains and scales correlate small-to-moderately (0.26 to 0.46) with supervisors' ratings of principals' leadership](survey-supervisor-rating-correlations-026-046.md) — related
+- [The study assessed rating stability for 2,424 principals and predictive validity for 123 principals using Pennsylvania statewide data](principal-measure-stability-2424-predictive-123-principals.md) — related
+- [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related

@@ -64,3 +64,6 @@ In the same mixed-effects models with modality as a fixed effect, the studying-r
 ## Related Claims
 
 - [Text amount and slide position strongly influenced studying durations, but picture type did not affect studying rate in either modality](slide-characteristics-drive-studying-duration.md)
+- [A forward linear review strategy predicted lower cognitive load regardless of modality, while scanning and slowing predicted higher cognitive load](linear-strategy-lower-cognitive-load.md) — related
+- [Fifth graders study videos significantly faster than content-equivalent illustrated texts during the initial pass](videos-studied-faster-than-illustrated-texts-fifth-graders.md) — related
+- [Fifth graders review videos mostly linearly forward, whereas review of illustrated texts combines varied strategies](review-strategies-vary-by-modality.md) — related

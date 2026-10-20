@@ -63,3 +63,4 @@ Composite expert rating from the same blind evaluation (printed r=.770); both ra
 
 ## Related Claims
 - [VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction](veriforge-creativity-support-workload.md) — related
+- [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related

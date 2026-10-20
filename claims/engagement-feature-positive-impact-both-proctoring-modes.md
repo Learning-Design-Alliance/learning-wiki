@@ -51,3 +51,4 @@ The study evaluated the assessment's engagement feature, which "automatically pa
 - [Proctor notification after rapid-guessing detection improved test performance and yielded higher convergent validation evidence](proctor-notification-improves-performance-and-validity.md) — related
 - [Proctor notification when students disengage makes a significant impact on student test engagement](proctor-notification-improves-test-engagement.md) — possibly the same claim (merge candidate)
 - [After a proctor notification triggered by rapid-guessing detection, test-taking engagement tended to increase](proctor-notification-increases-engagement.md) — related
+- [Findings of reliability, engagement, and consistent score trends increase confidence in the quality of remotely administered MAP Growth data in grades 3 and up](remote-map-growth-data-quality-confidence-grades-3-up.md) — related

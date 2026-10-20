@@ -48,3 +48,5 @@ Frequency counts from grounded theory coding. Representative statements include 
 ## Related Claims
 - Grounded theory analysis of 1,054 university students identifies five dimensions of AI fatigue, each with two indicators — a broader claim this one bears on
 - [Motivational Disengagement, reported by 270 participants, captures reduced initiative and eroding confidence linked to AI reliance](motivational-disengagement-ai-reliance.md) — related
+- [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
+- [Physical Strain, reported by 120 participants, comprises visual fatigue and session exhaustion from reading and verifying AI outputs](physical-strain-visual-fatigue-session-exhaustion.md) — related

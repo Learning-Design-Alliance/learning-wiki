@@ -44,3 +44,4 @@ Field study of 11 Chicago Annenberg Challenge elementary schools rated on 13 coh
 
 ## Related Claims
 - [Teacher survey reports of instructional program coherence correlate strongly with researchers' field-based ratings of coherence](survey-field-rating-correlation-coherence.md) — related
+- [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related

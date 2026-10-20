@@ -56,3 +56,4 @@ Subgroup analysis in Table 1 of 2005 versus 2013 on-track rates by EXPLORE categ
 - [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average](long-term-els-no-iep-lowest-ontrack-graduation.md) — related
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — related
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
+- [Freshman OnTrack improvements were largest in the lowest-performing schools, with bottom-quartile schools gaining 33 percentage points](ontrack-gains-largest-in-lowest-performing-schools.md) — related

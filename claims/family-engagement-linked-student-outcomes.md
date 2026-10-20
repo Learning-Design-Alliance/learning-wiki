@@ -49,3 +49,5 @@ The playbook's opening research summary states that "family engagement in school
 ## Related Claims
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — reports the opposite
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
+- [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
+- [Meaningful family and community engagement is associated with reduced absenteeism, improved academic outcomes, and more positive school climates](family-community-engagement-positive-outcomes.md) — related

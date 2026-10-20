@@ -50,3 +50,4 @@ Conditional indirect effects from 5,000 bootstrap resamples (N = 421). Index = a
 - [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](genai-use-positive-association-critical-thinking-total-effect.md) — related
 - [GenAI feedback literacy mediates the association between GenAI use and critical thinking, with near-complete mediation](genai-feedback-literacy-mediation-critical-thinking.md) — related
 - [Reflective thinking moderates the direct GenAI use–critical thinking path: positive at low reflectivity, non-significant at high reflectivity](reflective-thinking-moderates-direct-genai-critical-thinking-path.md) — related
+- [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related

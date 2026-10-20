@@ -50,3 +50,4 @@ Longitudinal case study with a pre-, post-, and post–post experimental design 
 - The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls — related
 - [HOTS-oriented teaching improves disposition towards critical thinking subscales including truth-seeking, open-mindedness, self-confidence, and maturity](hots-teaching-improves-ct-dispositions.md) — a narrower finding that bears on this claim
 - [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on

@@ -64,3 +64,4 @@ The editorial reports that in Park et al.'s analysis, signs of learning appeared
 ## Related Claims
 - [Group engagement can be operationalized as a differentiated, evolving, multi-faceted construct at the group unit of analysis](group-engagement-multifaceted-group-level.md) — related
 - [Gender prompts shift feedback stance: female students receive affective, first-person, empathy-oriented feedback while male students receive objective, task-oriented critique](gender-prompt-emotional-connection-pedagogy.md) — related
+- [Students' collaborative historical reasoning evolved over two days while co-constructing network representations with Net.Create, per the editorial's report of Craig et al.](netcreate-collaborative-historical-reasoning-evolved.md) — related

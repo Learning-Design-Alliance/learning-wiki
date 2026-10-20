@@ -62,3 +62,7 @@ The article's abstract states the central finding of the two computer-based expe
 - [Fading support promotes the transfer of responsibility from instructor to learner.](fading-support-promotes-transfer-of-responsibility.md) — a broader claim this one bears on
 - [Worked examples reduce unnecessary search for novices.](worked-examples-reduce-novice-search.md) — related
 - [Example–problem pairs and examples-only are more effective than problem–example pairs for novices, with no significant difference between the first two](example-problem-ordering-novices.md) — related
+- [Adaptive fading of worked examples based on current skill level produced better learning outcomes than fixed fading or tutored problem solving](adaptive-fading-worked-examples-benefits.md) — related
+- [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — a narrower finding that bears on this claim
+- [Faded steps were hypothesized to trigger specific self-explanation activities, tested via think-aloud protocols in Experiment 2](faded-steps-hypothesized-trigger-self-explanations.md) — related
+- [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](faded-step-position-no-learning-outcome-effect.md) — related

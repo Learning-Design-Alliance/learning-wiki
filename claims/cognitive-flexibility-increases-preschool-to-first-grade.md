@@ -52,3 +52,7 @@ Descriptive analysis of DCCS percent-accuracy composites in the longitudinal sam
 - [Mothers' engagement in positive activities with children remains stable over early childhood while fathers' engagement shows significant linear growth](mothers-stable-fathers-growing-engagement-trajectories.md) — related
 - [Foster children who received the ABC intervention in infancy showed stronger cognitive flexibility at preschool age than foster children who received a control intervention](abc-intervention-improves-cognitive-flexibility-foster-preschoolers.md) — related
 - [Cognitive flexibility in children is not a unified construct](cognitive-flexibility-not-unified-construct.md) — related
+- [Preliminary cross-sectional data suggest curiosity may be unaffected by age or schooling in early childhood](curiosity-may-be-unaffected-by-age-or-schooling.md) — related
+- [No assessed children reached the good or excellent levels for cognitive flexibility](cognitive-flexibility-no-good-excellent-levels.md) — reports the opposite
+- [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](young-children-self-initiate-external-metacognitive-strategies.md) — related
+- [Foster children who received a control intervention showed a specific post-switch (set-shifting) deficit on the card-sort task, with no group difference on the pre-switch trials](foster-control-children-post-switch-set-shifting-deficit.md) — related

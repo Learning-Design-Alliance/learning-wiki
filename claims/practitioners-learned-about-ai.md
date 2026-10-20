@@ -44,3 +44,4 @@ Post-participation survey of the six Advisory Board members, self-reported learn
 - [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — related
 - [All six Practitioner Advisory Board members reported that engaging with Merlyn Mind was a valuable use of their time and that their feedback was taken seriously](pab-engagement-mutually-valued.md) — related
 - [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related
+- [Industry partners reported learning about working with schools and educators, including contracting and teacher community building](industry-learned-working-with-schools.md) — related

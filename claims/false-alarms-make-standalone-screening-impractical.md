@@ -46,3 +46,5 @@ Deployment-scale analysis of the best model's TM detection at the natural preval
 - A reasoning-capable open-weight model detects 84% of hidden misconceptions but at realistic prevalence false alarms outnumber genuine detections roughly 8 to 1 — related
 - [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
 - Including a mark scheme in the prompt does not change misconception detection but significantly reduces false positives against correct-reasoning students — related
+- [Combining the pattern detector with an LLM fallback does not improve joint detection accuracy over the LLM alone](pattern-plus-llm-fallback-no-gain.md) — related
+- [Free-tier LLM detection performance varies widely and differs by corpus: gemini-2.0-flash leads on real data while the pattern detector leads on synthetic data for intent detection](llm-detection-variability-across-corpus.md) — related

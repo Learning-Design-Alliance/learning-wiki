@@ -69,3 +69,5 @@ ANOVA on postdiction accuracy across the three emotion-profile groups was signif
 - [Stronger positive emotions are associated with less underconfident postdictions, and anxiety and shame with more underconfident postdictions](emotions-postdiction-accuracy-underconfidence.md) — related
 - [Students also use achievement emotions as cues when making postdictions about their comprehension](emotions-as-cues-postdictions.md) — related
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](emotions-as-cues-predictions.md) — related
+- [Simulation feedback predicts sadness and neutral facial expressions and metacognitive judgement, but not perceived task difficulty](feedback-predicts-facial-expressions-and-judgement.md) — related
+- [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related

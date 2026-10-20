@@ -44,3 +44,4 @@ Capability outcome reported in Section IV-B: a systematic risk analysis of a bas
 
 ## Related Claims
 - [Three learners who studied only the framework's knowledge base all passed the NVIDIA Certified Professional in Agentic AI exam](three-learners-passed-ncp-aai-knowledge-base-only.md) — related
+- [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — related

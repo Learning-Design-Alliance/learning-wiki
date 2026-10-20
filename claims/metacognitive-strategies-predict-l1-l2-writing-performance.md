@@ -46,3 +46,10 @@ SEM analysis of questionnaire and writing-score data from 502 Chinese EFL underg
 
 - [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md)
 - [Fluency measures correlated with overall writing performance in both L1 and L2, but added no predictive value beyond linguistic knowledge](fluency-no-additional-value-beyond-linguistic-knowledge-writing.md)
+- [Metacognitive knowledge was examined as a component of writing proficiency alongside linguistic knowledge and fluency](metacognitive-knowledge-component-writing-sem.md) — related
+- [Metacognition is significantly and positively related to EFL students' academic writing performance (Model 1)](metacognition-positively-related-efl-academic-writing.md) — related
+- [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md) — related
+- [L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies](cross-language-facilitation-l1-strategies-l2-writing-via-mediation.md) — related
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related
+- [Students unanimously report positive effects of metacognitive strategy use on writing in both L1 and L2, with strategies compensating for limited L2 linguistic knowledge](interview-evidence-metacognitive-strategies-help-l2-writing-compensatorily.md) — related
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related

@@ -43,4 +43,4 @@ This is the review's abstract-level synthesis answering RQ4 concerning influenci
 
 
 ## Related Claims
--
+- [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related

@@ -49,3 +49,6 @@ Synthesis of acceptance evidence from 8 studies using standardized instruments (
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
 - [After design adjustments, the LAD achieved good–excellent usability (SUS M = 4.13, equal to 78.25%)](thermos-lad-sus-good-excellent-usability.md) — related
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — reports the opposite
+- [The Bloom classification UI shows low perceived workload and high usability in a 50-participant user study](bloom-ui-low-workload-high-usability.md) — a narrower finding that bears on this claim
+- [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — a narrower finding that bears on this claim
+- [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related

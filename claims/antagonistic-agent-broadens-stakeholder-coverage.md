@@ -46,3 +46,6 @@ Qualitative comparison of stakeholders considered during the intervention across
 - [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](agent-enacted-conflict-shifts-design-thinking.md) — related
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related
 - [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related
+- [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](constructive-conflict-guidance-increases-reconsideration.md) — related
+- [Stepwise constructive-conflict guidance reduced new idea generation, while the antagonistic agent played a more balanced role](stepwise-conflict-guidance-reduces-idea-addition.md) — related
+- [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related

@@ -48,3 +48,4 @@ The review's analysis names learner characteristics as the second reason hyperme
 - Lack of conceptual foundations and methodological shortcomings of many hypermedia studies contribute to ambiguous effectiveness findings — related
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related

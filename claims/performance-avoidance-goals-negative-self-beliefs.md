@@ -47,3 +47,4 @@ SEM path analysis of fifth-grade data (n = 213) showed performance-avoidance goa
 - [Domain knowledge predicts science achievement directly and indirectly via self-concept at all three grade levels](knowledge-predicts-achievement-via-self-concept.md)
 - [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](moller-2020-dimensional-comparisons-path-coefficients.md) — related
 - [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
+- [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related

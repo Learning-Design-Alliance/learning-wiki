@@ -67,3 +67,4 @@ In the AI-Only condition, learners verified programs through on-screen inspectio
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [Students' help requests to the AI tutor were predominantly instrumental rather than executive, with procedural content and low verification](instrumental-help-seeking-procedural-low-verification.md) — related
 - [Scaffolded task progression shifts novice reasoning from local completion toward diagnosis and systematic debugging as task demands increase](scaffolded-task-progression-diagnostic-shift.md) — related
+- [A language-based AI facilitator has access only to verbal traces of embodied inquiry and steers inquiry toward what can be put into words](language-facilitator-verbal-channel-limit.md) — related

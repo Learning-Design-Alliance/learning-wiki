@@ -47,3 +47,5 @@ Moderator analysis of retention interval (Table 4): <1 day k = 117 (g = 0.56), 1
 - [Retrieval practice effects are larger at retention intervals greater than 1 day (g = 0.69) than at intervals less than 1 day (g = 0.41) in Rowland's (2014) meta-analysis](retrieval-practice-effects-larger-at-retention-intervals-over-one-day.md) — related
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
 - [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — related
+- [Learning-technique effects do not shrink across test delays from the same day to six months](learning-technique-effects-stable-over-test-delays-up-to-six-months.md) — reports the opposite
+- [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related

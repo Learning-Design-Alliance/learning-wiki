@@ -52,3 +52,4 @@ Subgroup pattern reported in the lottery-based study of 33 charter middle school
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
 - [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — a broader claim this one bears on
+- [In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement](charter-middle-schools-no-average-achievement-effect.md) — related

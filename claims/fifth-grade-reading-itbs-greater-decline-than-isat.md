@@ -48,3 +48,4 @@ Citywide trend analysis of standardized average scale scores (Figures 6 and 7), 
 - [ITBS and ISAT scores are highly correlated among CPS students in reading (r = 0.83 to 0.85) and mathematics (r = 0.86 to 0.87)](itbs-isat-highly-correlated-cps.md) — related
 - [ISAT scores are not comparable over time: students with identical earlier and later test scores earned different seventh-grade ISAT scores depending on the year tested](isat-scores-noncomparable-over-time.md) — related
 - [ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics](itbs-computation-isat-higher-order-math-content.md) — related
+- [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related

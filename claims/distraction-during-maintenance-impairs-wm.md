@@ -50,3 +50,7 @@ Review synthesis of ERP and fMRI studies of delay-period distraction. The review
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [Older adults show performance decrements in divided-attention visual localization tasks, exacerbated by distractors and greater eccentricity, despite intact central-task performance](older-adults-divided-attention-distractor-decrements.md) — related
 - [In a visual search task, children recognize search-irrelevant features better than adults while relevant-feature recognition is comparable](developmental-reversal-visual-search-irrelevant-features.md) — related
+- [Older adults show greater distractibility than younger adults during episodic retrieval of long-term memory details](aging-increases-distractibility-ltm-retrieval.md) — related
+- [Irrelevant visual stimuli present during a memory test diminish the fidelity of episodic details retrieved from long-term memory in younger adults](visual-distractors-reduce-ltm-retrieval-fidelity.md) — related
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
+- [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](retro-cues-dynamically-modulate-wm-maintenance.md) — related

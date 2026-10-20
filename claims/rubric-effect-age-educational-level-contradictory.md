@@ -64,3 +64,5 @@ Moderator analysis of standardized mean changes by educational level; secondary 
 ## Related Claims
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — a broader claim this one bears on
 - [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — related
+- [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
+- [Elementary classrooms score significantly higher on the PERTS academic mindset scale than middle school classrooms](elementary-classrooms-higher-perts-than-middle.md) — related

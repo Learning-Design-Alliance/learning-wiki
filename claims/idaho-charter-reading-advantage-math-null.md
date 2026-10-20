@@ -74,3 +74,7 @@ The same statewide VCR comparison finds no statistically significant math differ
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
 - [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related
 - [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related
+- [Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers](wa-charter-overall-gains-no-significant-difference.md) — related
+- [First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs](idaho-charter-years-of-enrollment-null.md) — reports the opposite
+- [Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects](pa-charter-impact-by-grade-configuration.md) — related
+- [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — related

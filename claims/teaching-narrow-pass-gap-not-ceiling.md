@@ -46,3 +46,5 @@ Analysis of Pass@4, Pass@16, and Pass@64 results on the Gaokao Mathematics subse
 - [Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone](multi-turn-teaching-beats-knowledge-point-exposure.md) — related
 - [AI's democratizing capacity is structurally contradictory: it amplifies existing capabilities rather than closing gaps between users](ai-democratization-contradiction-multiplier.md) — related
 - [Most ITS applications augment existing mathematics teaching practices rather than transform instruction, indicating technological sophistication does not independently determine pedagogical value](its-applications-augment-not-transform.md) — related
+- [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related
+- [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](llm-judge-small-incremental-differences-ceiling.md) — related

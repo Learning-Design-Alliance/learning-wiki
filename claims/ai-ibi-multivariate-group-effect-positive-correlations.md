@@ -60,3 +60,8 @@ Secondary correlational analysis within both the experimental and control groups
 ## Related Claims
 - [AI-supported inquiry-based learning significantly improved secondary students' attitudes toward mathematics compared with traditional instruction](ai-ibi-improves-attitudes-toward-mathematics.md) — related
 - [Reliance type membership significantly predicts all ten writing-process and outcome variables, supporting criterion validity of the typology](reliance-type-predicts-writing-process-outcomes.md) — related
+- [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — a narrower finding that bears on this claim
+- [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — related
+- [Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only](profiles-predict-self-efficacy-strategies-engagement.md) — related
+- [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — related
+- [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related

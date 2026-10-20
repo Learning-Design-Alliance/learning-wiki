@@ -47,3 +47,4 @@ Parallel process latent growth curve model (conditional model fit CFI = 0.986, R
 - [Mothers' initial growth mindset positively predicted children's growth mindset two-and-a-half years later](maternal-initial-mindset-predicts-child-later-mindset.md)
 - [Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period](parent-growth-mindset-declines-longitudinally.md)
 - [Neither the initial level nor the decline of fathers' growth mindset significantly predicted children's growth mindset development](paternal-mindset-no-significant-prediction.md)
+- [Fathers' initial growth mindset predicted girls' later growth mindset but not boys', a gender-moderated path](paternal-mindset-predicts-girls-not-boys.md) — related

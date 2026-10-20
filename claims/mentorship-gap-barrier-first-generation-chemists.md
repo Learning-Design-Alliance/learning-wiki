@@ -53,3 +53,4 @@ Reflective editorial section reporting the authors' collective structured writin
 - [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
 - [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
 - [GenAI lowers the barrier to advanced tasks, letting less-experienced practitioners achieve outcomes once requiring formal training or mentorship](genai-lowers-barrier-to-advanced-it-tasks.md) — related
+- [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related

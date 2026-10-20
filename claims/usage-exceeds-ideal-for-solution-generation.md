@@ -45,3 +45,6 @@ Comparison of self-reported usage frequency against beliefs about ideal usage fo
 ## Related Claims
 - [First-year physics students overwhelmingly believe LLMs can solve introductory physics problems with high accuracy before instruction](physics-students-believe-llms-solve-intro-problems-accurately.md) — related
 - [A reflective lesson on LLM functioning and educational impacts shifted physics students toward greater skepticism about LLM learning impacts](reflective-lesson-increases-llm-skepticism.md) — related
+- [Despite skepticism about learning benefits, physics students report using LLMs regularly, motivated primarily by convenience and deadline pressure](llm-use-motivated-by-convenience-and-deadlines.md) — related
+- [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
+- [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related

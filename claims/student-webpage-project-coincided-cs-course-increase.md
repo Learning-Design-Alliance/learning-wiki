@@ -43,3 +43,4 @@ In the Engagement section, Mr. Duarte describes tasking his AP computer science 
 ## Related Claims
 
 - [Exposure to the HP Learning Studio raised student awareness that spread peer-to-peer and broadened students' sense of future possibilities](learning-studio-exposure-builds-student-awareness.md)
+- [Collaborative critique-and-redesign instruction shifts students from a value-free view of objectivity toward a procedural one](collaborative-evidence-critique-shifts-students-toward-procedural-objectivity.md) — related

@@ -50,3 +50,5 @@ Descriptive time-on-task report from the instruction phases of the guidance-sequ
 - [Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs](phase4-truncation-mastered-variables.md) — related
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
 - [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
+- [Both hint conditions took more time-on-task than control, but ChatGPT and human tutor conditions did not differ in session time](hint-conditions-time-on-task.md) — related
+- [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related

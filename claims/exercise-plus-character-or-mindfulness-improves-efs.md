@@ -89,3 +89,4 @@ Narrative review noting most aerobic-exercise studies involved adults or single 
 - [Mindfulness training improves EFs most in 7–9 year-olds with initially poorer EFs, and yoga improves EFs where physical training alone does not](mindfulness-yoga-ef-gains-poorest-gain-most.md) — related
 - [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — a broader claim this one bears on
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
+- [Sport-specific disciplines relate to distinct executive functions: tennis and football with inhibitory control and working memory, with a larger tennis association in males](sport-disciplines-executive-functions-tennis-football.md) — related

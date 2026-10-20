@@ -45,3 +45,4 @@ The editorial reports, citing Jeong, Hmelo-Silver & Yu (2014), that constructivi
 ## Related Claims
 
 - [Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches](cscl-2005-2009-corpus-questionnaire-code-and-count-dominance.md)
+- [Analyses of the CSCL literature show statistical measures at the individual unit of analysis dominate published CSCL research despite calls for group-level analysis](individual-unit-analysis-dominates-cscl-methods.md) — related

@@ -45,3 +45,4 @@ Observational analysis of 2006 ISAT math scale scores comparing CPS to the rest 
 ## Related Claims
 - [The gap between Chicago Public Schools students and other Illinois students in ISAT reading is about half as large in eighth grade as in third grade](cps-isat-reading-gap-narrows-upper-grades.md) — related
 - [When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts](within-race-comparison-erases-cps-gaps.md) — related
+- [ISAT cut scores differ by grade and subject, with eighth-grade mathematics requiring a high score and eighth-grade reading a relatively low one to meet standards](isat-cut-scores-vary-grade-subject.md) — related

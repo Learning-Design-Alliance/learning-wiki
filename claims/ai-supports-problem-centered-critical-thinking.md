@@ -73,3 +73,5 @@ Critical-thinking theme: participants wanted AI to challenge them to ask better 
 - [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related
 - [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticipatory thinking in nursing education](ai-ambulatory-case-simulations-diagnostic-reasoning.md) — related
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](problem-experience-builds-content-and-thinking-strategies.md) — related
+- [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](generative-learning-reorganizing-integrating-prior-knowledge.md) — related
+- [Simulated student reasoning shifted teachers from task-solvers to teacher-reasoners who interpreted misconceptions as student logic](simulated-student-reasoning-pck-rehearsal.md) — related

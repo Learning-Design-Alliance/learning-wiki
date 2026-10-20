@@ -53,3 +53,5 @@ PLS-SEM structural model with the three psychological needs predicting objective
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related
+- [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
+- [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related

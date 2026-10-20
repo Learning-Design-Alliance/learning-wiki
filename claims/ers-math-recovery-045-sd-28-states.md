@@ -44,3 +44,5 @@ Reconciliation analysis comparing ERS and NWEA district-level estimates of 2022-
 
 ## Related Claims
 - [In the full samples, NWEA data show far smaller math recovery (.015 SDs) and negative ELA change (-.008 SDs) than ERS (.045 and .019 SDs)](full-sample-nwea-ers-estimate-gap.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related
+- [After excluding Illinois and Ohio, ELA scores showed essentially no recovery from 2022 to 2023 in the remaining 24 ERS states](ela-no-recovery-24-states-excluding-il-oh.md) — related

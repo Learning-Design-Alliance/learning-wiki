@@ -45,3 +45,4 @@ Descriptive analysis of eight binary application-potential items in the survey o
 ## Related Claims
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related
 - [Ukrainian education managers' personal AI readiness significantly exceeds their perceived system readiness (d = 0.73)](personal-exceeds-system-ai-readiness-gap-managers.md) — related
+- [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related

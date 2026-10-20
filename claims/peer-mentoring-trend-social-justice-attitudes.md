@@ -45,3 +45,5 @@ The same MANOVA on CASQ posttest scores found the social justice attitudes subsc
 ## Related Claims
 - [Service-learning students with a SLAM peer mentor scored higher on posttest civic action than non-mentored students, in a non-randomised comparison](peer-mentoring-increases-civic-action-service-learning.md) — related
 - [Positive SLAM-student relationship qualities correlate with civic action](slam-relationship-quality-correlates-civic-action.md) — related
+- [Conflict and antagonism with community partners negatively correlate with social justice and diversity attitudes](community-partner-conflict-negatively-correlates-social-justice.md) — related
+- [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related

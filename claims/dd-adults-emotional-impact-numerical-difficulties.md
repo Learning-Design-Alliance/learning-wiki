@@ -45,3 +45,5 @@ Qualitative description of psychological and clinical histories obtained through
 ## Related Claims
 - [Adults with developmental dyscalculia are aware of their numerical difficulties in everyday life](dd-adults-aware-of-numerical-difficulties.md) — related
 - [MA correlates negatively with mathematics performance in the whole sample (rs = -.30) but not within the DD or DD+RD groups](ma-performance-correlation-dissociates-in-dd.md) — related
+- [Adults with developmental dyscalculia score significantly lower than controls on the formal NADL test of school-acquired numerical abilities](dd-adults-lower-formal-nadl.md) — related
+- [Adults with developmental dyscalculia are impaired in everyday numerical tasks, particularly time estimation, measure, and money usage](dd-adults-impaired-informal-nadl.md) — related

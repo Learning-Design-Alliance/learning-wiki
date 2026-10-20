@@ -46,3 +46,5 @@ Per-student turn-code percentages in Table 2 for Red City. The article states So
 
 - [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md)
 - [Groups' anger-talk proportion was inversely related to science-talk proportion across two teams](anger-science-talk-inverse-groups.md) — related
+- [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](anger-drives-real-world-game-linking.md) — related
+- [Anger-related science talk rose in parallel until an apparent tipping point in group dynamics](anger-science-talk-tipping-point.md) — related

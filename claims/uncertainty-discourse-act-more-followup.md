@@ -45,3 +45,6 @@ Chi-square tests relating the four discourse acts to follow-up among the 594 ana
 ## Related Claims
 
 - [CATPCA of openness components yielded two dimensions largely matching the theoretical cognitive/social framework, with transactivity not included](catpca-two-dimensions-openness.md)
+- [Context characteristics (community type, trimester, teacher-student role) have little impact on openness; teachers contribute more social openness and receive less follow-up](context-effects-on-openness-and-teacher-followup.md) — related
+- [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](social-openness-components-less-followup.md) — related
+- [In Knowledge Forum discourse, three components (connecting knowledge, transactivity, authority) dominated notes, and cognitive openness components predicted follow-up while social openness components predicted slightly reduced follow-up](openness-components-frequency-follow-up-knowledge-forum.md) — related

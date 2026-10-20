@@ -46,3 +46,6 @@ Experiment 3: 80 respondents rated blinded human and ChatGPT feedback on 5-point
 - [AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -48.1%)](ai-literacy-warning-halves-ai-political-persuasion.md) — related
 - [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — related
 - [In Study 1, the general warning significantly reduced persuasive effects on housing-policy attitudes (b=−1.81, p= 0.001)](study1-warning-reduces-housing-persuasion.md) — related
+- [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
+- [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
+- [Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance](children-perceive-llm-feedback-more-helpful-motivating.md) — related

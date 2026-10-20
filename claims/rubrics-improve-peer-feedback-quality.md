@@ -87,3 +87,5 @@ In a MOOC writing course, the study compared students given "guided rubric" trai
 - [Students are typically passive users of assessment rubrics in authentic assessment designs](aa-students-passive-users-of-rubrics.md) — related
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
 - [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
+- [Students and researchers gave systematically different types of explanatory comments about the visual argument, with students rejecting pictures as proofs](student-visual-argument-norm-comments.md) — related
+- [Peer ratings of programming assignments correlated significantly with instructor ratings, with students more accurate on objective than subjective judgements](sitthiworachart-peer-ratings-objective-judgements.md) — related

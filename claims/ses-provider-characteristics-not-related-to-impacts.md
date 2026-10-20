@@ -67,3 +67,6 @@ Exploratory analyses of provider characteristics (organization type, staff, grou
 - The RD evaluation was powered to detect overall SES impacts of 0.12 standard deviations or larger — related
 - [Participants in supplemental educational services experienced significant gains in achievement](ses-participants-significant-achievement-gains.md) — related
 - [Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars](intensive-one-on-one-service-more-important-than-multi-pillar-breadth.md) — related
+- [Enhanced math instruction adapted to after-school settings produced modest but statistically significant math gains after one year, while enhanced reading instruction showed no differences](enhanced-academic-instruction-math-gains-reading-null.md) — related
+- [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](wraparound-ses-improves-math-achievement.md) — related
+- [EI service intensity was low in the safety-net cohort, with a median of 2.7 hours per month across all services](low-ei-service-intensity-median-hours-per-month.md) — related

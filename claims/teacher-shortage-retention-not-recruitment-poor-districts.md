@@ -52,3 +52,4 @@ The report attributes this argument to researchers in its opening motivation par
 - [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
 - [The report recommends four policy strategies: competitive equitable compensation, targeted supply in shortage fields, improved retention, and a national teacher labor market](four-policy-strategies-teacher-shortages.md) — related
 - [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related
+- [Four-day school week cost savings are relatively small but may help maintain instructional expenses during revenue shortages](four-day-week-small-cost-savings.md) — related

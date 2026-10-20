@@ -58,3 +58,6 @@ The fairness and administration chapters describe test engagement functionality,
 - [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related
 - [AI agent activity in an LMS is indistinguishable from normal student activity, defeating detection and proctoring](ai-agent-activity-indistinguishable-from-students.md) — related
 - [A systematic review identifies four overarching themes of factors affecting student engagement in adaptive learning platforms: system quality, information quality, learner characteristics and preferences, and affordances that mimic real-life social interactions](four-themes-engagement-adaptive-platforms.md) — related
+- [Low examinee effort is a major threat to valid uses of many test scores](low-examinee-effort-threat-to-score-validity.md) — related
+- [Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge](rapid-guessing-reflects-disengagement-not-lack-of-knowledge.md) — related
+- [A proposed effort-guided adaptive test alleviates item difficulty mistargeting caused by unmotivated test taking, as shown by simulation](effort-guided-adaptive-test-alleviates-mistargeting.md) — related

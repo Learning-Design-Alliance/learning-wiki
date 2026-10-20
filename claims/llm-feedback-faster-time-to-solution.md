@@ -50,3 +50,4 @@ Observational analysis of assignment–user pairs from an online introductory We
 - [Feedback effects on time to solution did not differ significantly between novice and advanced students, though predicted trends suggest feedback was more beneficial for advanced students](no-significant-feedback-expertise-interaction.md) — related
 - [Natural language AI feedback is associated with faster convergence to correct solutions](nl-feedback-faster-convergence-correctness.md) — related
 - [All three LLM feedback types credibly reduced attempts to success relative to the baseline, with the largest reduction for Diagnostic Feedback](llm-feedback-fewer-attempts.md) — related
+- [Student-voted Good feedback was associated with far fewer attempts and shorter solution times than Poor feedback, and thematic analysis identified outdated references and false positives as common failure modes](student-voted-poor-feedback-failure-modes.md) — related

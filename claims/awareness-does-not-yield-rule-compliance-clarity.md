@@ -45,3 +45,7 @@ Exploratory cross-tabulation (visualized as a heatmap in Fig. 1) of regulatory a
 ## Related Claims
 - [Most undergraduate students in computer science–related programs are unaware of their institution's GenAI regulations (62.25% not aware; 25.83% aware)](low-student-awareness-institutional-genai-regulations.md) — related
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
+- [Students' perceptions of ethicality and of rule compliance were strongly and positively correlated, with rule ratings consistently higher than ethicality ratings](ethicality-and-rule-compliance-perceptions-strongly-correlated.md) — related
+- [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) — related
+- [Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear](rule-clarity-depends-on-discipline.md) — related
+- [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on

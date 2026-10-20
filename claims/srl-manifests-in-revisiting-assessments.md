@@ -43,4 +43,5 @@ Session-level correlation analysis of log data from N = 2,949 learners with more
 
 
 ## Related Claims
--
+- [Goal setting and strategic planning positively predict attainment of personal course goals in MOOCs](goal-setting-strategic-planning-predict-mooc-goal-attainment.md) — related
+- [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related

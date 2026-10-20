@@ -46,3 +46,4 @@ Thematic analysis of open-ended least-enjoyable responses from the 43-student su
 ## Related Claims
 - [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related
 - [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related
+- [Open-ended student feedback highlighted relevance and conciseness as benefits of personalized AI videos, alongside concerns about unnaturalness, uncanny-valley discomfort, and trust](student-feedback-benefits-and-concerns-ai-videos.md) — related

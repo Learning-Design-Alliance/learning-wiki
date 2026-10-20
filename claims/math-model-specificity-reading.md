@@ -45,3 +45,4 @@ Specificity test applying the best math model (Figure 2C) to the Hodder Group Re
 ## Related Claims
 - [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](executive-memory-predictors-of-math-9yo.md) — related
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — related
+- [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related

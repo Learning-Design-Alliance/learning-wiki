@@ -46,3 +46,4 @@ Survey of 915 Chinese HSS students (Figure 2a) on perceived efficiency impact. T
 - [Perceived GenAI gains differ by discipline: arts and economics/management students report stronger cognitive and motivational gains than education and law students](genai-disciplinary-differences-hss.md) — related
 - [Perceived gains in creativity, independent thinking and motivation rise sharply among students with more than three years of GenAI experience, though the comparison is cross-sectional](genai-duration-related-cognitive-gains.md) — related
 - [Nearly four in five Chinese HSS students perceived academic performance gains from GenAI, which the authors caution may reflect assessment limitations](genai-performance-gains-assessment-caution.md) — related
+- [Perceived effects of GenAI on independent thinking and creativity are polarized among Chinese HSS students, with substantial minorities reporting declines](genai-mixed-independent-thinking-creativity.md) — related

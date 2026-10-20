@@ -44,3 +44,6 @@ ANCOVA on conceptual understanding in the randomized 2×2 experiment (N = 181). 
 
 ## Related Claims
 - [In Experiment 2, I-PS students outperformed PS-I students on problem-solving, idea generation, and embedded video quizzes](exp2-process-measures-problem-solving-and-quiz.md) — related
+- [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
+- [Micro productive failure (problem solving before instruction) improved sixth-graders' isomorphic algebraic procedural problem solving, with the advantage stable across one-day and one-week delays](micro-productive-failure-improves-isomorphic-procedural-problems.md) — reports the opposite

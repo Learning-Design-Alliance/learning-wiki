@@ -47,3 +47,4 @@ Pearson correlations in the 40 ADHD patients between Myklebust learning disabili
 - [ADHD children show significantly prolonged ABR wave III, IV, V and interpeak I-III, III-V, I-V latencies compared with controls](adhd-prolonged-abr-latencies.md) — related
 - [Epileptiform EEG activity is more prevalent in the inattentive ADHD subtype](epileptiform-eeg-inattentive-adhd.md) — related
 - [The inattentive ADHD subtype shows the most delayed ABR latencies in waves III and V and intervals I-III and I-V](inattentive-adhd-most-delayed-abr.md) — related
+- [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related

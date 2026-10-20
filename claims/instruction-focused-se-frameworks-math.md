@@ -45,3 +45,4 @@ Review synthesis of theoretical grounding across the 48 papers (Table 1). Instru
 ## Related Claims
 - [Most undergraduate mathematics SE studies aim to evaluate instructional methods and tools, with fewer aiming to understand learning behavior or examine factors of academic success](se-math-three-research-aims.md) — related
 - [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related
+- [SE measurement in undergraduate mathematics relies predominantly on log files for online behavioral engagement and self-reports for course participation, with behavioral engagement the most examined dimension](se-measurement-logfiles-selfreports-math.md) — related

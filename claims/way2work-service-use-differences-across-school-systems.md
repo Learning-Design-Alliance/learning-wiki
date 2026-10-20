@@ -50,3 +50,4 @@ The report's overview states it summarizes "differences in service use across lo
 - [Participants reported satisfaction with selected Way2Work Maryland service components](way2work-participant-satisfaction-service-components.md) — related
 - [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related
 - [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](way2work-increased-vr-agency-engagement.md) — related
+- [Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid](way2work-maryland-most-participants-multiple-work-experiences.md) — related

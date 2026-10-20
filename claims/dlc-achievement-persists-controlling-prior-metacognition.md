@@ -48,3 +48,4 @@ Hierarchical regression analysis with N=272 students who completed the MSLQ pret
 - [Topic-specificity of reflection modules is not essential for developing strategic approach, unlike for conceptual understanding](topic-specificity-not-essential-strategic-approach.md) — related
 - [Students who completed more DLC reflection modules exhibited a more strategic approach to solving an exam problem on angular momentum](dlc-interaction-strategic-approach.md) — related
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
+- [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related

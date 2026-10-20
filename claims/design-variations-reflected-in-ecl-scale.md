@@ -62,4 +62,6 @@ Between-subject experiment (N = 51) comparing split-source versus integrated tex
 
 
 ## Related Claims
--
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related

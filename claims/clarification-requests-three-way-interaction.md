@@ -45,3 +45,4 @@ Three-way interaction from the generalized linear mixed model on clarification r
 ## Related Claims
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related
 - [Mixed proficiency dyads negotiate for meaning more than matched proficiency dyads, irrespective of time and language](mixed-dyads-negotiate-more-than-matched.md) — related
+- [Within-language strategy profiles differ: other-repetition prevails in the L2 while clarification requests prevail in the L1, with negative feedback least used](strategy-profiles-l2-other-repetition-l1-clarification.md) — related

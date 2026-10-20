@@ -49,3 +49,4 @@ Comparative evaluation of tuned machine learning models on a test set of 49,299 
 - [Pairwise statistical tests confirm random forest's performance differences from other models are statistically significant (p < 0.05)](statistical-tests-confirm-random-forest-superiority.md) — related
 - [Random forest feature importance identifies EDA, ACC, and TEMP as the top three physiological predictors of exam outcomes](eda-acc-temp-top-three-predictors-exam-outcomes.md) — related
 - Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset — reports the opposite
+- [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](lstm-strategy-temporal-analytics-outperforms-baselines.md) — reports the opposite

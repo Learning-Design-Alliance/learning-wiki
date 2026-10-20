@@ -46,3 +46,5 @@ Survey and thematic analysis of 287 teachers across 27 countries and regions, an
 - [Teachers' awareness of situational factors may weaken the link between perceived artificial autonomy and GenAI adoption intention](situational-awareness-weakens-autonomy-adoption-link.md) — related
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
+- [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
+- [Both teachers and students preferred collaboration to begin when students signaled readiness rather than giving students full control over timing.](claim-collab-starts-when-students-ready.md) — related

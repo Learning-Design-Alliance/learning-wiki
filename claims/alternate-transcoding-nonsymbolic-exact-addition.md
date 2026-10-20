@@ -53,3 +53,4 @@ Stepwise regression on the nonsymbolic exact task; the VSSP was the best WM pred
 - [Symbolic exact addition is predicted by symbolic number line representation and the phonological loop, reflecting phonological storage of numerical information](phonological-storage-symbolic-exact-addition.md) — related
 - [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](transcoding-in-symbolic-approximate-addition.md) — related
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related
+- [Kindergarteners perform significantly better in nonsymbolic than symbolic single-digit addition problem formats](nonsymbolic-easier-than-symbolic-single-digit-addition.md) — related

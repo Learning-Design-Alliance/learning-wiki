@@ -44,3 +44,4 @@ District-reported outcome from the Sunnyside Unified School District Inclusive I
 
 ## Related Claims
 - [In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality](compact-writing-assignments-student-choice-engagement.md) — related
+- [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](wts-local-coach-higher-activity-completion.md) — related

@@ -48,3 +48,5 @@ Cost analysis using the ingredients method, in which researchers identified all 
 - [Most study teachers received all ERWC materials and sufficient professional learning: 82.1 percent met professional-learning thresholds and all 56 received materials](erwc-high-materials-professional-learning-fidelity.md) — related
 - [Integrating cognitive apprenticeship methods in a Web-based course required a significant and largely unbounded instructor time investment](web-based-ca-instructor-time-burden.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
+- [Most ERWC teachers completed required professional learning (82-99 percent), but only 0-3 percent taught the curriculum with fidelity across the three study years](erwc-high-pd-fidelity-low-curriculum-fidelity.md) — related
+- [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related

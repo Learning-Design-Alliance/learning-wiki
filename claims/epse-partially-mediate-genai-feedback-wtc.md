@@ -62,3 +62,5 @@ Total-effect analysis reported alongside the mediation results: the total effect
 - [GenAI feedback perceptions, pronunciation self-efficacy, and WTC are all positively intercorrelated, and learners report positive feedback perceptions and moderate self-efficacy and WTC](genai-epse-wtc-positive-correlations-descriptives.md) — related
 - [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
 - [Chinese EFL learners' positive perceptions of GenAI-based pronunciation feedback are positively associated with their English pronunciation self-efficacy](genai-pronunciation-feedback-associated-with-pronunciation-self-efficacy.md) — related
+- [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
+- [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md) — related

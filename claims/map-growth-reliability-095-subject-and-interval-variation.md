@@ -49,3 +49,6 @@ The report's reliability chapter summary reports marginal (IRT internal consiste
 - [Measurement precision is strongest for students in the middle of the Spanish score distribution, with CSEM near the 3.3 RIT target](spanish-csem-middle-deciles-most-precise.md) — related
 - [Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)](cbe-colo-reliability-comparable-cbe-higher-precision.md) — a narrower finding that bears on this claim
 - [Marginal reliabilities for Spanish MAP Growth Reading are in the 0.90s across all grades](spanish-map-reading-marginal-reliability-090s.md) — a narrower finding that bears on this claim
+- [Spanish MAP Growth Reading test-retest reliability ranges from 0.50 at Grade K to 0.83 at Grade 5, with no estimate for Grades 6–8](spanish-map-reading-test-retest-reliability-050-083.md) — a narrower finding that bears on this claim
+- [Fall 2020 MAP Growth tests showed high levels of marginal reliability across all grades in both remote and in-person administration](map-growth-fall-2020-high-marginal-reliability.md) — a narrower finding that bears on this claim
+- [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related

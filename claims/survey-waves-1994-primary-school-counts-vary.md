@@ -45,3 +45,6 @@ Descriptive statement from the appendix introduction identifying the primary dat
 ## Related Claims
 - Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis — related
 - Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators — related
+- [Over two decades, Chicago teachers reported increasing program coherence and higher trust in their principals](teacher-reports-coherence-trust-increased.md) — related
+- [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related
+- [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — related

@@ -48,3 +48,6 @@ Qualitative content analysis of semi-structured interviews with six experimental
 - [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md)
 - [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md)
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md)
+- [ADI students' item-level gains concentrated on items about determining variables for a research question and on scientific inquiry questions](adi-item-level-gains-variables-inquiry-items.md) — related
+- [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
+- [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md) — related

@@ -46,3 +46,4 @@ Qualitative coding of focus groups, interviews, and open-ended surveys plus coac
 - [Competing priorities for instructional time (environmental context) was the most salient barrier to teachers' implementation of a supplemental language curriculum](competing-time-priorities-dominant-barrier-language-curriculum.md) — related
 - [Limited teacher knowledge of language development and curriculum procedures was the third key implementation barrier](knowledge-barriers-language-development-procedural.md) — related
 - [Habit change and memory/attention difficulties were conditional barriers for some teachers, contrary to expectations](memory-habit-barriers-contextual.md) — related
+- [VR/AR implementation challenges fall on three fronts: learner distraction and discomfort, teacher classroom-management and design burdens, and school cost and infrastructure limits](vr-ar-challenges-learners-teachers-schools.md) — related

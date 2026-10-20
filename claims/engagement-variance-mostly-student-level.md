@@ -45,3 +45,4 @@ Fully unconditional three-level HLM run to justify multilevel modeling. The auth
 ## Related Claims
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related
 - [Between-student differences explain a large fraction of CASED label variance, limiting what any clip-level visual model can learn](between-student-label-variance-limits-clip-models.md) — related
+- [Most variance in students' epistemic emotions was situational (within-person) fluctuation, with 18–37% due to between-person variability.](within-person-fluctuation-dominates-epistemic-emotions.md) — related

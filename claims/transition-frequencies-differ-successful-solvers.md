@@ -46,3 +46,5 @@ The review attributes to Dörner and Wearing (1995) an analysis of process data 
 
 - [Most students solved BioWorld cases, and successful solvers took less time and fewer actions than unsuccessful solvers](bioworld-successful-solvers-faster-fewer-actions.md) — related
 - [Nasty task environments increased negative affect and improved complex problem solving performance relative to nice environments](nasty-environments-improve-cps-performance.md)
+- [Dyad pairs with one member high in both social and cognitive CPS skills show more actions and higher frequency of action transitions than other pairs](high-social-cognitive-cps-pairs-more-action-transitions.md) — related
+- [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — related

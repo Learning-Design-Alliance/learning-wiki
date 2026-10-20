@@ -50,3 +50,5 @@ The digest reports, citing Krashen, Long, and Scarcella (1979), studies comparin
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — the general claim this finding bears on, with the studies behind it
 - [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
 - No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related
+- [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
+- [A practitioner digest asserts, without cited studies, that no research evidence suggests older adults cannot succeed in learning another language](no-evidence-older-adults-cannot-learn-language.md) — related

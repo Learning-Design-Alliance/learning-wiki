@@ -49,3 +49,8 @@ Qualitative analysis found that while all districts intended to use pilot data t
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [Districts rely more on peer recommendations and pilots than on rigorous evidence when choosing ed-tech products](districts-rely-peer-recommendations-pilots-over-rigorous-evidence.md) — related
 - [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md) — related
+- [No readily accessible sources of rigorous evidence exist for most ed-tech products](no-rigorous-evidence-ed-tech-products.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
+- [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related
+- [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
+- [Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments](no-common-definition-of-risk-across-screeners.md) — related

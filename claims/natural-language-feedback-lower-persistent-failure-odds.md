@@ -64,3 +64,5 @@ Same historical binomial GLM analysis of the randomized course subset. "The test
 ## Related Claims
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [A fixed-threshold sequential risk policy concentrated persistent-failure alerts within restricted alert budgets](sequential-risk-policy-concentrates-failures.md) — related
+- [Pre-tests reduced adult learners' persistence in a MOOC, though they improved post-test scores among those who completed it](pretesting-can-harm-motivation.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

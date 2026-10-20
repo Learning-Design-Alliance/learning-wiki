@@ -44,3 +44,7 @@ In the same moderation analyses of 225 children, identity measures showed no ind
 
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — related
 - [Turkish and German identity interactively predicted accuracy on mixed Dot Task trials requiring cognitive flexibility among immigrant-origin children](bicultural-identity-interaction-predicts-cognitive-flexibility.md)
+- [Children's age did not moderate the link between bicultural identity and cognitive flexibility](age-does-not-moderate-biculturalism-flexibility-link.md) — related
+- [The identity interaction on mixed-trial accuracy held marginally when controlling for language abilities, which themselves did not predict performance](biculturalism-not-bilingualism-explains-flexibility.md) — related
+- [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md) — related
+- [The link between Turkish identity and mixed-trial accuracy was negative when German identity was low and marginally positive when German identity was high](johnson-neyman-regions-identity-flexibility.md) — related

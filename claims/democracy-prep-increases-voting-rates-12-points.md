@@ -75,3 +75,4 @@ Same randomized lottery-based analysis of the 2016 election. The report states t
 - [There is a 98 percent probability that enrolling in Democracy Prep produced positive impacts on both voter registration and voting](democracy-prep-98-percent-probability-positive-civic-impacts.md) — related
 - [Democracy Prep charter schools boost student voting, according to the article's headline finding](democracy-prep-charter-schools-boost-student-voting.md) — possibly the same claim (merge candidate)
 - [U.S. civic engagement and civics knowledge fall short of the democratic-preparation goal of schooling](us-civic-engagement-and-civics-knowledge-fall-short.md) — related
+- [A mission that prioritizes boosting student achievement is associated with positive charter-school impacts](achievement-focused-mission-charter-impacts.md) — related

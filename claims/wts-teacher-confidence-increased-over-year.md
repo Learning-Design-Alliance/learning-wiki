@@ -68,3 +68,5 @@ Survey-based comparison of average confidence gains from beginning to end of yea
 - [More time with coaches was significantly associated with better teaching outcomes and higher teacher self-reported technological proficiency](vils-coach-time-associated-better-teaching-outcomes.md) — related
 - [The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students](swell-teacher-self-efficacy-short-term-outcomes.md) — a broader claim this one bears on
 - [Ongoing professional development and mentorship are critical to coaches' growth and confidence in their coaching skills](ongoing-pd-mentorship-critical-coach-growth.md) — related
+- [Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled](wts-materials-and-modeling-rated-helpful.md) — related
+- [The SWELL logic model posits medium-term improvements in teachers' literacy instruction and ability to accommodate language learning and embed CLRI](swell-medium-term-teacher-instruction-outcomes.md) — related

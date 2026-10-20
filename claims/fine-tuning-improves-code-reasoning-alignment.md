@@ -48,3 +48,4 @@ Failure-type distribution analysis on DSReal comparing base and fine-tuned Qwen2
 - [Fine-tuning on clean synthetic data yields limited gains on hand-drawn tasks, indicating limited robustness to out-of-distribution hand-drawn inputs](fine-tuning-limited-gains-hand-drawn-tasks.md) — related
 - [All evaluated models struggle with spatial reasoning and precise visual replication on Turtle Graphics tasks](vlms-struggle-spatial-reasoning-visual-precision.md) — related
 - [Current vision-language models struggle on education-oriented Turtle Graphics tasks, with even top models far below reliable performance on real-world tasks for grades 3-6](vlms-struggle-turtleai-real-world-tasks.md) — related
+- [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](lecturaagents-taq-spatial-strong-temporal-variable.md) — related

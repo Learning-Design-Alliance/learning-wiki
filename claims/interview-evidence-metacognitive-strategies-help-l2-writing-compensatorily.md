@@ -43,4 +43,8 @@ Stimulated-recall interviews with 20 students (10 English majors, 10 non-English
 
 
 ## Related Claims
--
+- [Metacognitive knowledge was examined as a component of writing proficiency alongside linguistic knowledge and fluency](metacognitive-knowledge-component-writing-sem.md) — related
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md) — related
+- [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md) — related
+- [Participants unanimously reported increased confidence in acting performance over the course of the intervention](srl-intervention-increased-acting-confidence.md) — related
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related

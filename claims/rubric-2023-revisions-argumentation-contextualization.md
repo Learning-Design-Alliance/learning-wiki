@@ -45,3 +45,4 @@ The version-update note records the authors' own 2023 revisions to the rubric de
 ## Related Claims
 - [Six historical thinking dimensions — historical argumentation, causation, comparison, contextualization, continuity and change over time, and sourcing — were selected as rubric assessment targets based on convergence across U.S. national frameworks and the WHP course guide](six-historical-thinking-dimensions-rubric-targets.md) — related
 - [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
+- [The historical thinking rubrics were developed with construct and validity evidence from the literature and teacher/reviewer review](historical-thinking-rubrics-validity-evidence.md) — related

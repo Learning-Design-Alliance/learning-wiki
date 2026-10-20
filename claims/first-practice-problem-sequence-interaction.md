@@ -50,3 +50,4 @@ ANCOVA on first practice problem showed a significant interaction, F(1, 121) = 1
 - [Example–problem pairs are more efficient than problem–example pairs for both gifted and nongifted primary school students](example-problem-pairs-more-efficient-both-gifted-nongifted.md) — related
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](example-problem-pairs-raise-perceived-competence.md) — related
 - [Gifted primary students report higher need for cognition, perceived competence and perceived autonomy than nongifted students](gifted-students-higher-nfc-competence-autonomy.md) — related
+- [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](giftedness-instruction-interaction-significant.md) — related

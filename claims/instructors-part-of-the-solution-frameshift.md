@@ -45,3 +45,4 @@ Authors' account of the case-study dialogue: after CIRCLS co-PI Judi Fusco sugge
 ## Related Claims
 - [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — related
+- [Interdisciplinary collaboration is fundamentally relational; tools assist but relationships make or break it](collaboration-fundamentally-relational.md) — related

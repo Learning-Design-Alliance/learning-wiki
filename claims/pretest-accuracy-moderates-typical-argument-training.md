@@ -50,3 +50,5 @@ Follow-up simple-slopes analysis of the pretest × training condition interactio
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
 - [DRL scaffolding significantly benefits high prior knowledge students while BKT does not, and condition-by-prior-knowledge interactions are not significant](drl-benefits-high-prior-knowledge-students.md) — related
 - [Argument structure training improved identification of atypical full-fledged arguments at posttest, but not at the 4-week follow-up](training-improved-atypical-arguments-posttest-only.md) — related
+- [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
+- [Argument structure training did not generally improve component identification, but specifically improved identification of warrants at posttest](training-improved-warrant-identification-only.md) — related

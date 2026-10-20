@@ -46,3 +46,5 @@ Descriptive pattern across the seven GRE domains shown in Figure 1A, with 95% co
 - [Both AI and human tutoring produce larger GRE learning gains than a no-tutoring control](ai-human-tutoring-beat-control-gre-gains.md) — related
 - [Pooled AI tutoring produces statistically equivalent GRE learning gains to expert human tutoring](pooled-ai-tutoring-equivalent-gre-learning-gains.md) — related
 - [In Quantitative AI sessions, faster AI replies were associated with more engagement, more correct practice, and larger learning gains; these associations were not significant in Verbal](faster-ai-replies-linked-engagement-practice-gains.md) — related
+- [Six AI tutors individually matched human tutoring, with Gemma 4 31B equivalent at 918× lower cost per percentage point of learning gain](gemma-4-31b-equivalent-human-tutoring-918x-cheaper.md) — related
+- [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related

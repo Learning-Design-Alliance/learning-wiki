@@ -45,3 +45,4 @@ The experiment's omnibus group*modality interaction on meta-d' was significant w
 ## Related Claims
 
 - [Inferential word learning accuracy differs between Arabic, Chinese and Portuguese speakers only in the visual modality, with Arabic speakers lower than both Chinese and Portuguese speakers](writing-script-visual-modality-word-learning-accuracy.md)
+- [Metacognitive sensitivity (meta-d') in the visual modality is highest among Chinese speakers and lowest among Arabic speakers, with no group differences in the auditory modality](writing-script-visual-modality-metacognitive-sensitivity.md) — related

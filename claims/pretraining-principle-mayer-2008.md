@@ -48,3 +48,4 @@ The one entry is Mayer's summary of five experiments, all with computer-based le
 
 - [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — the general claim this finding bears on, with the studies behind it
 - [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — related

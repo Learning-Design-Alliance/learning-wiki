@@ -43,4 +43,7 @@ In his editorial summary, Stahl reports Bennerstedt, Ivarsson and Linderoth's et
 
 
 ## Related Claims
--
+- [The authors hypothesize that violent role-playing games appear to engage individuals in ethical reasoning that may foster empathy, tolerance, and understanding rather than inuring them to violence](rpgs-may-foster-empathy-not-inure.md) — related
+- [Argumentation quality in multiplayer game chat is an attribute of group interaction, not of individual utterances](group-argumentation-attribute-of-group-interaction.md) — related
+- [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related

@@ -48,3 +48,4 @@ Qualitative analysis of publicly available mission statements from the Canadian 
 - [Educational rhetoric on the home/school relation and parent involvement spans a century](century-rhetoric-home-school-relation.md) — related
 - [Academic misconduct emerges primarily from systemic pressures rather than individual moral failure, and academic integrity is a collective epistemic practice institutions must sustain](misconduct-from-systemic-pressures-integrity-collective.md) — related
 - [Current ideas about the home/school relation and parent involvement may inhibit justice, equity, and excellence in education](parent-involvement-ideas-inhibit-equity.md) — related
+- [Single composite accountability indicators are susceptible to gaming and Campbell's Law corruption pressures](composite-indicators-gaming-campbells-law.md) — related

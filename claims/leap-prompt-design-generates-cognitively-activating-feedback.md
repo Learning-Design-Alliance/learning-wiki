@@ -48,3 +48,6 @@ The authors' demonstration of LEAP on a Newton's cradle video task, with prompts
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - [More complex prompts tend to elicit superior results with advanced LLM versions (authors' observation)](complex-prompts-elicit-better-llm-results.md) — related
+- [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — reports the opposite
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](computer-generated-self-explanation-prompts-recommendation.md) — related

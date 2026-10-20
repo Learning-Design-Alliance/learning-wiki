@@ -52,3 +52,4 @@ Case-study interview finding about an emerging vendor partnership under the cons
 - [Denver Public Schools' cross-functional AI-edtech review cut its edtech portfolio from over 1,000 tools to fewer than 350 while saving millions of dollars](denver-cross-functional-review-shrunk-edtech-portfolio.md) — related
 - [Districts are not yet systematically using TPE-generated information, with technology serving mainly as a repository](districts-not-systematically-using-tpe-data.md) — related
 - Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact — related
+- [Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation](student-modules-online-use-cmooc-reuse.md) — related

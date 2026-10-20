@@ -65,3 +65,4 @@ Key finding from the randomized controlled trial of LLI in Oakland secondary sch
 - [In an RCT in Oakland secondary schools, LLI had no impact on students' reading comprehension](lli-no-impact-adolescent-reading-comprehension.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
 - [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related
+- [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](lli-positive-effects-general-reading-achievement-k-2.md) — reports the opposite

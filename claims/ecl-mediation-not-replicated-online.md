@@ -45,3 +45,10 @@ Mediation analysis testing the cognitive load hypothesis found the no-prompt vs.
 ## Related Claims
 
 - [An irrelevance prompt eliminates the recall cost of seductive details, supporting the diversion explanation](irrelevance-prompt-eliminates-seductive-details-recall-cost.md)
+- [Seductive detail amount did not increase extraneous cognitive load in either study](sd-amount-no-extraneous-load-effect.md) — related
+- [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](anger-does-not-mediate-concession-effects.md) — related
+- [Seductive detail amount did not significantly affect transfer performance in Study 1](sd-amount-no-transfer-effect-study1.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — a broader claim this one bears on
+- [A separation prompt does not improve learning with seductive details, and higher integration avoidance predicts worse transfer, disfavouring the disruption explanation](separation-prompt-fails-disruption-disfavored.md) — related
+- [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md) — related

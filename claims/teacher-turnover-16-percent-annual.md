@@ -52,3 +52,5 @@ Descriptive analysis of the nationally representative Schools and Staffing Surve
 - [Turnover is higher in charter schools (17.8%) than traditional public schools (14.9%) and higher in city schools (17.7%) than other locales](school-type-locale-turnover-differences.md) — related
 - [Teachers with little or no pedagogical preparation are 2 to 3 times more likely to leave the profession than those with the most comprehensive preparation](underprepared-teachers-leave-at-2-3-times-rate.md) — related
 - [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — related
+- [Teacher attrition rose from 5.1% in 1992 to 8.4% in 2005 and has hovered around 8% since](teacher-attrition-increase-since-1992.md) — related
+- [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — a narrower finding that bears on this claim

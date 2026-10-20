@@ -43,4 +43,5 @@ Editorial summary of the Tee and Karney qualitative case study of how tacit know
 
 
 ## Related Claims
--
+- [Identification is closely related to how and what knowledge students construct in online group discussions](identification-related-to-knowledge-construction.md) — related
+- [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](online-behaviour-transforms-discourse-knowledge.md) — related

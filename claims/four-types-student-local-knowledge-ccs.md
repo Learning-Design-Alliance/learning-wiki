@@ -44,3 +44,4 @@ Thematic analysis of open-ended City at Play survey responses from 7–9th grade
 
 ## Related Claims
 - [Students' perception of possessing local knowledge that professional urban planners lack rose from 9% at baseline to 45% at endline in City at Play](ccs-student-local-expertise-perception-growth.md) — related
+- [Students entered the projects strongly motivated to shape their neighborhood, and disagreement that the area was fine as it is rose to 84%](ccs-student-motivation-change-neighborhood.md) — related

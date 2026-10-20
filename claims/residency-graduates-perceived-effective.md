@@ -72,3 +72,4 @@ A 2020 survey of more than 200 principals who hired graduates of NCTR network pr
 - [Claremont residency completers rate the program highly and show strong hiring and retention outcomes](claremont-residency-high-ratings-hiring-retention.md) — a narrower finding that bears on this claim
 - [CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey](csub-residents-rate-programs-4-3-of-5.md) — a narrower finding that bears on this claim
 - [Residents reported more intensive clinical experiences than other pathways, with 66% completing at least 600 hours of student teaching versus 51% of traditional student teachers](residents-more-clinical-hours-than-student-teachers.md) — related
+- [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related

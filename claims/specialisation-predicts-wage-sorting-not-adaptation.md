@@ -46,3 +46,4 @@ Regression analysis of a longitudinal LinkedIn panel of approximately 2.4 millio
 - [Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations](diversity-predicts-adaptive-outcomes.md) — related
 - [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](diversity-specialisation-inverse-u-pattern.md) — related
 - [Workers closest to the diversity frontier show the strongest adaptive outcomes, while frontier position is not associated with stronger wage sorting](diversity-frontier-predicts-adaptive-capacity.md) — related
+- [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](specialisation-demographic-stratification-linkedin.md) — related

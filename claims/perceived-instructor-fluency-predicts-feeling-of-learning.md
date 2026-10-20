@@ -44,3 +44,5 @@ Linear regression predicting feeling of learning from perceived instructor fluen
 
 ## Related Claims
 - [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — related
+- [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related

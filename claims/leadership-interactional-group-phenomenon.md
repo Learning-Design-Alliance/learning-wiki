@@ -43,4 +43,7 @@ The editorial describes the Mercier, Higgins and da Costa analysis of student gr
 
 
 ## Related Claims
--
+- [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md) — a narrower finding that bears on this claim
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related
+- [A student's animated off-worksheet statements can function as bids for a frame change that the group may accept or ignore](behavioral-bids-for-frame-change.md) — related
+- [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related

@@ -48,3 +48,4 @@ The review's teaching-expectancy section describes Fiorella and Mayer's (2014) 2
 ## Related Claims
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review](generative-strategies-boundary-conditions.md) — a broader claim this one bears on
+- [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](prior-knowledge-moderates-noninteractive-teaching.md) — related

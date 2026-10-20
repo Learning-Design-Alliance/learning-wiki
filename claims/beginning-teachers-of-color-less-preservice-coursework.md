@@ -45,3 +45,5 @@ Descriptive analysis of national survey data on beginning-teacher preparation ex
 ## Related Claims
 - [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
+- [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related
+- [Teachers of color earn a smaller share of non-teacher college-graduate wages than teachers overall](teachers-of-color-compensation-gap.md) — related

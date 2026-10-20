@@ -45,3 +45,4 @@ Multiple regression with post-test AI knowledge as outcome, post-test biology kn
 ## Related Claims
 - [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related
 - [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](prior-biology-predicts-ai-lessons-one-two-not-three-four.md) — related
+- [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related

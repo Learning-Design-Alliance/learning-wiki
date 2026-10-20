@@ -43,4 +43,6 @@ Bayesian multilevel beta regression on 20 videotaped small-group discussions (13
 
 
 ## Related Claims
--
+- [The intervention increased teachers' talk moves but decreased authentic teacher questions, contradicting the dialogic-practice hypothesis for questions](qt-increases-talk-moves-decreases-authentic-teacher-questions.md) — related
+- [Students in the intervention group asked more authentic questions and used more student-directed turn allocation and reasoning in literary discussions](qt-students-higher-quality-contributions.md) — related
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](qt-increases-explanations-cumulative-exploratory-talk.md) — related

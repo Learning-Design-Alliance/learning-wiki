@@ -43,4 +43,6 @@ Parental attitudes tracked through interviews, WeChat messages, phone calls, and
 
 
 ## Related Claims
--
+- [Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning](divergent-academic-attitudes-genai-nursing.md) — related
+- [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](aida-hands-on-use-improves-attitudes.md) — related
+- [Initial improvements in Annenberg schools' organizational capacity by 1999 largely disappeared by 2001, leaving little net change](annenberg-capacity-gains-eroded-by-2001.md) — related

@@ -66,3 +66,5 @@ This is a solid, single-context qualitative case study (q2) with real methodolog
 - The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling — related
 - [Student–AI interactions in authentic coursework concentrate in a small number of recurring patterns rather than idiosyncratic use](student-ai-interactions-concentrate-recurring-patterns.md) — related
 - [Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis](makerspace-video-dataset-111hours-350min.md)
+- [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding in student group discourse](modeling-task-elicits-four-interdisciplinary-processes.md) — related
+- [Analog artefacts such as the nautical paper chart serve as public inscriptions and arenas for reasoning about rule following, making students' intentions assessable to instructors and teammates](paper-chart-inscription-assessment-arena.md) — related

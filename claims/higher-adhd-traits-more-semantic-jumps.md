@@ -48,3 +48,5 @@ Linear regressions on per-child mean and SD of word2vec semantic distances in th
 - [Children with higher ADHD rating-scale scores make longer transitions between consecutively retrieved items in a visual search task](higher-adhd-traits-longer-visual-search-transitions.md) — related
 - [The exploration advantage in semantic search is interpreted as context-dependent, potentially beneficial in sparsely distributed target environments](exploration-bias-benefit-context-dependent.md) — related
 - [Exploratory search behaviour in visual and semantic tasks is not correlated across children once ADHD score is controlled](no-cross-domain-correlation-exploratory-search.md) — related
+- [Longer inter-item response times follow larger semantic distances in children's semantic search paths](semantic-distance-predicts-longer-response-times.md) — related
+- [Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children](higher-adhd-traits-better-semantic-fluency.md) — related

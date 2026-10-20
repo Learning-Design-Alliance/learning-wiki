@@ -47,3 +47,4 @@ Meta-analytic moderator analysis of effect sizes by type of learning material (k
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — a broader claim this one bears on
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — a narrower finding that bears on this claim
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related

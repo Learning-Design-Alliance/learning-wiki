@@ -47,3 +47,5 @@ The brief reports, citing Charles (1992), that research on classroom management 
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [A brief online empathic-discipline exercise for teachers halved suspensions in one randomized field experiment, while its preregistered replication found a small, marginal overall effect but narrowed group disparities](brief-intervention-empathic-discipline-cuts-suspensions.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related
+- [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — related
+- [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — related

@@ -48,3 +48,7 @@ The issue brief's own summary of its analysis of how students' high school compe
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — related
 - [NELS indicators of math skills, work habits, leadership, teamwork and sports-related skills, and locus of control are related to postsecondary earnings and to the likelihood of attending and completing postsecondary education](nels-competencies-predict-postsecondary-attainment-earnings.md) — possibly the same claim (merge candidate)
 - [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md)
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
+- [Redshirting kindergartners likely carries costs that outweigh its academic benefits](redshirting-costs-outweigh-academic-benefits.md) — related
+- [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related

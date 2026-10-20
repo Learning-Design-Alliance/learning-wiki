@@ -64,3 +64,4 @@ The WWC's extent-of-evidence categorization, which takes into account the number
 ## Related Claims
 - [The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small](challengge-single-rct-small-evidence-base.md) — related
 - [New Chance produced a statistically significant increase in the likelihood of earning a high school diploma or GED certificate](new-chance-significant-increase-diploma-or-ged.md) — related
+- [JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment](jobstart-increased-diploma-or-ged-completion.md) — related

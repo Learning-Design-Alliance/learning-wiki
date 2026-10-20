@@ -62,4 +62,8 @@ Repeated-measures ANOVA with Level as within-subjects factor and gender as betwe
 
 
 ## Related Claims
--
+- [Younger and older adults select study items in an easy-to-difficult order, consistent with the region of proximal learning model](rpl-easy-to-difficult-selection-both-ages.md) — related
+- [High school teachers' rankings of algebra problem difficulty were uncorrelated with student performance, while middle school teachers' rankings were accurate](high-school-teacher-rankings-uncorrelated-student-performance.md) — related
+- [Younger students solve letter equations less accurately than number equations, but this difference disappears by age 16–17](number-letter-accuracy-gap-disappears-by-16-17.md) — related
+- [Dynamic assessment can teach kindergartners the CVS within a single session](dynamic-assessment-teaches-cvs-single-session.md) — related
+- [Mokken scale analysis establishes content validity of the ramp task as a unidimensional measure of CVS use](mokken-content-validity-ramp-task.md) — a broader claim this one bears on

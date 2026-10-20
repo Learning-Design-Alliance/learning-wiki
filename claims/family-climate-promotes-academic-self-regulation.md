@@ -46,3 +46,4 @@ In the four-wave cross-lag model, family climate predicted ASR increases in all 
 - [School attachment predicts later school adjustment but not GPA; family climate shows only a marginal association with school adjustment and none with GPA](school-attachment-family-climate-school-adjustment-not-gpa.md) — related
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](family-climate-school-attachment-reciprocal-influences.md) — related
 - [School attachment unidirectionally predicts increases in academic self-regulation over the middle school years](school-attachment-promotes-academic-self-regulation.md) — related
+- [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related

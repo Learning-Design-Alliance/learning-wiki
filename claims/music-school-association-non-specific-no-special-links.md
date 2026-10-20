@@ -47,3 +47,5 @@ Authors' interpretation (Discussion) of their per-subject results, aligned with 
 - [Musical training remains a significant predictor of overall marks in multiple regression with income and grade, which have higher partial correlations](music-predictor-multiple-regression-school-marks.md) — related
 - [Music-control mark difference emerges with training duration: no difference in grade 3, significant by grade 6, with control marks declining over grades](music-training-duration-dose-response-marks.md) — related
 - [Accumulated deliberate practice is associated with performance, explaining a domain-dependent share of its variance: about a quarter in games, 4% in education and under 1% in professions](deliberate-practice-improves-performance.md) — related
+- [Children taking optional handicraft lessons scored significantly worse overall than controls, and handicraft did not significantly predict marks in regression](handicraft-lessons-worse-marks-not-significant-predictor.md) — related
+- [Children practicing music achieve significantly better overall average school marks than controls](music-practice-higher-overall-school-marks.md) — related

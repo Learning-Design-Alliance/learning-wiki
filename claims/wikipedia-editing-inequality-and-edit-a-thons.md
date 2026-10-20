@@ -45,3 +45,6 @@ Conceptual analysis of Wikipedia's workings, citing prior studies (e.g. Greenste
 ## Related Claims
 - [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on
 - [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
+- [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](wikipedia-contributors-confirmation-bias-editing.md) — related
+- [In the analyzed school setting, black girls experience testimonial injustice as direct discrimination and hermeneutical injustice as indirect, structural discrimination that personal effort cannot erode](black-girls-face-testimonial-and-structural-hermeneutical-injustice-in-school.md) — related
+- [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — a broader claim this one bears on

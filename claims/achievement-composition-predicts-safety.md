@@ -50,3 +50,7 @@ Statistical models of school safety using CPS survey data, census data, and poli
 - [Schools with strong essential supports were more likely to sit in communities with strong social capital, low crime, and low density of abused or neglected children](strong-supports-linked-community-social-capital-low-crime.md) — related
 - [Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse](community-social-networks-lower-problem-rates.md) — related
 - [Perceived neighborhood safety is protective for school attachment among low-income youth in high-disorder neighborhoods, and mediates the affluence-school attachment link only among non-low-income youth](safety-attachment-moderation-and-mediation-by-income.md) — related
+- [School poverty (%FRL) accounts for about 50% of a school's median student achievement](frl-accounts-for-half-of-school-achievement.md) — related
+- [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
+- [Census-based neighborhood poverty is positively associated with school attachment after controls](neighborhood-poverty-positive-school-attachment.md) — related
+- [Neighborhood crime rates differ dramatically between elementary schools students rate as safest and least safe](neighborhood-crime-differs-safest-least-safe-schools.md) — related

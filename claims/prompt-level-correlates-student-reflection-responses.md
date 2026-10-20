@@ -44,3 +44,4 @@ Correlational analysis of all reflective prompts and student responses across bo
 
 ## Related Claims
 - [Topic-level assistant question volume correlates significantly with student self-reported topic difficulty (Spearman ρ = 0.491, p = 0.008, 28 matched topics)](question-volume-correlates-self-reported-difficulty.md) — related
+- [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](voice-usage-preference-correlation.md) — related

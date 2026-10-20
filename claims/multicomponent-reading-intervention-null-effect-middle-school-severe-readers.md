@@ -45,3 +45,8 @@ Randomized experiment in one urban middle school: 38 students in grades 6–8 ra
 ## Related Claims
 
 - [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md)
+- [Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study](no-significant-growth-severe-adolescent-readers-either-condition.md) — related
+- [Two years of multicomponent fluency intervention produced greater word-reading and fluency growth than one year or control, with no comprehension differences](two-year-fluency-intervention-greater-word-reading-growth.md) — related
+- [Four remedial reading interventions combined improved phonemic decoding, word reading accuracy and fluency, and reading comprehension for third-grade struggling readers one year after the interventions ended, though not on all measures](four-reading-interventions-improved-third-grade-reading-one-year-later.md) — related
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [Group size in grades 4–9 reading interventions typically varies, with smaller groups in grades 4 and 5 than in middle and high school elective reading courses](reading-intervention-group-size-varies-by-grade-band.md) — related

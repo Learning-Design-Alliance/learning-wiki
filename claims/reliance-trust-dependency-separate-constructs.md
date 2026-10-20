@@ -74,3 +74,6 @@ Review's synthesis of the Generative AI Dependency Scale (Goh et al., 2025), dev
 - [Strategic users score lowest on standard AI-outcome measures, reflecting instrument validity limits that reward AI-driven outcomes over writing quality](strategic-users-score-lowest-outcome-measures.md) — related
 - Verification initiation, process quality, and success are distinct constructs that should not be collapsed — a narrower finding that bears on this claim
 - [Available AI-dependence and attachment instruments follow three non-interchangeable measurement logics and do not converge on one stable construct](ai-dependence-scales-three-non-interchangeable-logics.md) — related
+- [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — related
+- [Recurring mechanism clusters — self-regulation, metacognition, critical thinking, self-efficacy, trust, feedback literacy, AI literacy — link GenAI use to agency outcomes](genai-agency-mechanism-clusters.md) — related
+- [Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving](higher-trust-lower-appropriate-reliance-ai-assistant.md) — related

@@ -49,3 +49,4 @@ Hierarchical regression for the fluency outcome showed the symbolic number step 
 - [Conceptual counting uniquely predicts fluency, computation, and applied problems but not story problems; procedural counting uniquely predicts only applied problems](counting-type-specificity-grade1-outcomes.md) — related
 - [Kindergarten predictors correlate robustly with grade 1 math outcomes, weakest for computation](predictor-outcome-correlations-weakest-computation.md) — related
 - [Kindergarten symbolic number variables uniquely predict grade 1 math outcomes over and above counting and domain general predictors](symbolic-number-predictors-unique-over-counting.md) — possibly the same claim (merge candidate)
+- [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related

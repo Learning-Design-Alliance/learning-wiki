@@ -43,3 +43,7 @@ Post hoc regression analyses with seventh graders only added self-reported Turki
 ## Related Claims
 
 - [Dot Task accuracy decreased from congruent to incongruent to mixed trials, with condition accuracies positively correlated](dot-task-accuracy-gradient-congruent-incongruent-mixed.md)
+- [Turkish and German identity interactively predicted accuracy on mixed Dot Task trials requiring cognitive flexibility among immigrant-origin children](bicultural-identity-interaction-predicts-cognitive-flexibility.md) — related
+- [The link between Turkish identity and mixed-trial accuracy was negative when German identity was low and marginally positive when German identity was high](johnson-neyman-regions-identity-flexibility.md) — related
+- [Children's age did not moderate the link between bicultural identity and cognitive flexibility](age-does-not-moderate-biculturalism-flexibility-link.md) — related
+- [Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials](bicultural-identity-no-effect-working-memory-inhibition.md) — related

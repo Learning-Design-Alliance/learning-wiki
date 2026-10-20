@@ -43,4 +43,11 @@ The dissertation reports, citing Azevedo, Cuthrie, & Seibert (2004) and Shapiro 
 
 
 ## Related Claims
--
+- [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — possibly the same claim (merge candidate)
+- [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](process-mining-successful-unsuccessful-srl-models.md) — possibly the same claim (merge candidate)
+- [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](process-mining-successful-learners-orientation-planning.md) — possibly the same claim (merge candidate)
+- [The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods](weak-methods-shared-strong-methods-expert-only.md) — reports the opposite
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
+- [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related

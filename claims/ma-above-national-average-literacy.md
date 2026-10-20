@@ -64,3 +64,4 @@ Growth analysis using publisher-provided growth norms compares the share of Mass
 ## Related Claims
 - [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — related
 - [Lowest-income schools show more variable growth than highest-income schools, with more schools both below the 50th and above the 82nd growth percentile](lowest-income-schools-more-variable-growth.md) — related
+- [77% of the lowest 5% achieving schools (spring reading) grow their typical student better than the 30th percentile](77-percent-low-achieving-schools-growth-above-30th-percentile.md) — related

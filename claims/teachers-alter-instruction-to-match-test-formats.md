@@ -45,3 +45,4 @@ A multi-state listening tour asked teachers and district instructional leaders w
 ## Related Claims
 - [The book argues that quality assessments can provide accurate and timely information to maximize student learning, in contrast to punitive testing rhetoric](quality-assessments-accurate-timely-information-maximize-learning.md) — related
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — related
+- [Wise's simulation under continuous learning recommended projection-based weighted averages for aggregating interim scores](wise-weighted-averages-projection-continuous-learning.md) — related

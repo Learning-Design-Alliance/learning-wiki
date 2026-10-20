@@ -46,3 +46,4 @@ Hierarchical models of CPS test-score and grade records with individual and scho
 - [Juniors in the first CHSRI cohort were seven percentage points less likely to have dropped out by junior year, marginally significant](chsri-junior-cumulative-dropout-lower.md) — related
 - [CHSRI freshman on-track rates were typically higher than similar students' but the difference was not statistically significant and converged by 2007-08](chsri-on-track-rates-converged.md) — related
 - [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related
+- [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related

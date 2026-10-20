@@ -48,3 +48,4 @@ The report's key findings state there were "few differences between the groups i
 - [PROMISE treatment and control group youth enrolled in education and training at similar rates five years after random assignment](promise-similar-education-enrollment-treatment-control.md) — related
 - [PROMISE youth experienced worse education and employment outcomes than ACS youth with and without disabilities](promise-youth-worse-outcomes-than-acs-peers.md) — related
 - The Roads to Success evaluation used a treatment-control design with baseline comparison of groups — related
+- [The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics](jobstart-rct-baseline-balance.md) — related

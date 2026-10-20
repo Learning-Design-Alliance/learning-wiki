@@ -64,3 +64,6 @@ DID analysis of survey reports among sixth- through eighth-grade students; rigor
 ## Related Claims
 - [Eleventh-grade ACT math scores changed similarly across schools regardless of their level of standards-related professional development](act-scores-similar-across-pd-levels.md) — related
 - [In elementary grades, students in schools with extensive standards-related professional development reported significantly larger improvements in academic demand, rigor, instructional clarity, and teacher support than students in schools with limited professional development](extensive-pd-larger-instructional-improvements-elementary.md) — related
+- [Student reports of standards-aligned instructional practices improved more in Chicago middle-grade schools with more extensive CCSS-M professional learning](standards-aligned-practice-reports-improved-with-pl.md) — related
+- [Strong school academic culture (academic press and college-going culture) raises ACT scores by about 0.6 points after controlling for prior PLAN scores](academic-culture-raises-act-scores.md) — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related

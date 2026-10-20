@@ -57,3 +57,16 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — a narrower finding that bears on this claim
 - [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](memory-report-complexity-predicts-reading-ability.md) — related
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related
+- [Neither IQ nor WMC significantly predicted early mathematics when both were in the same model, explaining only about 5% of variance](early-math-not-predicted-by-iq-or-wmc.md) — reports the opposite
+- [Teacher reports of noncognitive skills add predictive power beyond baseline IQ for most school outcomes](teacher-reports-add-power-beyond-iq.md) — related
+- [In Grade 3, both problem solving and arithmetical facts are predicted by the preschool WM–flexibility component](wm-flexibility-predicts-grade-3-problem-solving-and-facts.md) — related
+- [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related
+- [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](precursors-reduce-iq-wmc-prediction.md) — related
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — a narrower finding that bears on this claim
+- [Neither first-grade whole number magnitude nor arithmetic knowledge uniquely predicted eighth-grade reading achievement](early-wn-knowledge-does-not-predict-middle-school-reading.md) — related
+- [Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure](ef-and-spatial-predict-70-percent-preschool-math-variance.md) — related
+- [Verbal WM correlates with intelligence but visuospatial WM does not in kindergarten children](verbal-wm-intelligence-visuospatial-null.md) — related
+- [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related
+- [The best math-predicting model is specific to mathematics; reading requires a different model](math-model-specificity-reading.md) — related
+- [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — related

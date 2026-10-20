@@ -64,3 +64,6 @@ One-sample t tests of the bias index against zero in N = 84 children showed sign
 ## Related Claims
 - [Children's test performance is stable over six months but monitoring and control accuracy shows little inter-individual stability](performance-stable-metacognitive-accuracy-unstable.md) — reports the opposite
 - [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
+- [Children of both age groups improved monitoring and control accuracy from T1 to T2 for both test formats, mainly for incorrect rather than correct answers](longitudinal-improvement-monitoring-control-incorrect-answers.md) — related
+- [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
+- [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related

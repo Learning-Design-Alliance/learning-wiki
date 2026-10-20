@@ -49,3 +49,5 @@ The executive summary describes Chapter III, where a descriptive approach and an
 
 - [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — the general claim this finding bears on, with the studies behind it
 - There is a conceptual disconnect between meeting the Title III English proficient standard and exiting EL status under Title I — related
+- [In both analysis years and all tested grades, EL students reach a 50 percent chance of SBAC ELA proficiency within ELPAC overall PL 4](logistic-regression-50-percent-proficiency-pl4.md) — related
+- [Timing of English learner reclassification is associated with later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related

@@ -43,4 +43,7 @@ Multilevel model predicting % metacognition (N=54, Table 4): structuring 0.017 (
 
 
 ## Related Claims
--
+- [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md) — related
+- [Problematizing scaffolds elicit constructive, interaction-embedded metacognitive activities, whereas structuring scaffolds elicit application of examples](problematizing-scaffolds-elicit-constructive-interaction.md) — related
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md) — reports the opposite
+- [Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge](metacognitive-activities-mediate-scaffolding-effects.md) — related

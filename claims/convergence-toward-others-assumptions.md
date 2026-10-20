@@ -48,3 +48,5 @@ Within-subject experiment (N = 60) in which participants re-judged statements af
 - [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related
 - [The more confident a learning partner's answers, the more competent the partner is perceived](partner-confidence-raises-perceived-competence.md) — related
 - [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](strong-convergence-resource-use-during-collaboration.md) — related
+- [After learners adjust their confidence, the degree of socio-cognitive conflict is equivalent to zero as a predictor of information requests](conflict-regulation-dwindles-after-adjustment.md) — related

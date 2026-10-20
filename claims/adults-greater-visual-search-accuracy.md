@@ -44,3 +44,5 @@ Visual search accuracy in Experiment 2: both groups exceeded chance (children 75
 
 ## Related Claims
 - [In a visual search task, children recognize search-irrelevant features better than adults while relevant-feature recognition is comparable](developmental-reversal-visual-search-irrelevant-features.md) — related
+- [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related
+- [Older adults show performance decrements in divided-attention visual localization tasks, exacerbated by distractors and greater eccentricity, despite intact central-task performance](older-adults-divided-attention-distractor-decrements.md) — related

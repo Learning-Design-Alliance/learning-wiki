@@ -69,3 +69,4 @@ Same intervention simulations comparing the two weaker levers. Damping social pr
 - [In the model, high-quality AI on hard tasks produces the highest regret despite moderate overreliance, because agents over-defer and rarely self-rely](high-regret-overdeferral-good-ai-hard-tasks.md) — related
 - [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related
 - [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md)
+- [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related

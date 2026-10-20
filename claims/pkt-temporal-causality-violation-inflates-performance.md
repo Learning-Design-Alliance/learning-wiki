@@ -45,3 +45,5 @@ Audit of the official open-source Code-DKT implementation on CodeWorkout. The au
 
 - [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — the general claim this finding bears on, with the studies behind it
 - [Code-DKT's attention softmax applied across the temporal dimension (dim=1) is causally invalid and inflates reported performance; rectifying it to the path dimension (dim=2) removes the artificial gain](pkt-attention-softmax-dimension-causal-flaw.md) — related
+- [Under causally valid, tuned settings, code-level embeddings do not consistently improve performance: rectified Code-DKT underperforms tuned DKT on several assignments, while ECKT remains competitive](code-embeddings-inconsistent-under-rectified-settings.md) — related
+- [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related

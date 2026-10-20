@@ -67,3 +67,4 @@ Allen et al. (2011) study of Virginia high school teachers in My Teaching Partne
 - [Active learning was incorporated in 34 of 35 reviewed effective PD studies](pd-active-learning-prevalence.md) — related
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related
 - [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](pd-models-and-curriculum-support.md) — related
+- [STeLLA content-plus-pedagogy PD produced greater student science gains than content-only training](stella-outperformed-content-only-pd.md) — a narrower finding that bears on this claim

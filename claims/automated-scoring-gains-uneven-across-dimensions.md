@@ -50,3 +50,5 @@ Four dimension-level ANOVAs on pre/post sub-scores found significant interaction
 - [Automated scoring practice produced a significant time × group interaction on total interpreting scores](automated-scoring-time-group-interaction-total-scores.md) — a broader claim this one bears on
 - Gains concentrated in proposed-question scores rather than diagnosis scores, with the largest improvement on Hazard C diagnosis — a narrower finding that bears on this claim
 - [Higher education students' interactions with an AI automated feedback tool can support the development of their feedback literacy capabilities](ai-feedback-tool-supports-feedback-literacy-development.md) — related
+- [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
+- [Student interpreters who practiced with an automated scoring system outperformed the control group on total interpreting scores at post-test](automated-scoring-improves-interpreting-total-scores.md) — a broader claim this one bears on

@@ -70,3 +70,4 @@ ANCOVA testing the group status × ethnicity interaction on intrinsic motivation
 - [Fourth graders report lower perceived group status than second graders, qualified by an ethnicity × grade interaction](grade-differences-perceived-group-status-interaction.md) — related
 - [Perceived group status mediates the ethnic differences in academic anxiety for African-American, Chinese, and Dominican children but not Russians](group-status-mediation-ethnic-academic-anxiety.md) — related
 - [Stigma awareness is associated with higher academic anxiety and lower intrinsic motivation among elementary-age children](stigma-awareness-academic-anxiety-intrinsic-motivation-children.md) — related
+- [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related

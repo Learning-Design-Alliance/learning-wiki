@@ -46,3 +46,6 @@ Correlation of the challenge-response measure with challenge time in the log-dat
 
 - [In-game willingness to solve hard levels with complex code is positively associated with posttest coding knowledge, controlling for pretest](hards-solved-complex-predicts-posttest.md)
 - [Traditional challenge-navigation measures (level choice, replays, careful retries, hint reading, coding time) did not relate to learning outcomes](traditional-challenge-measures-not-related-to-learning.md)
+- [Relative-Hards Solved Complex, a log measure of using complex code on personally difficult levels, predicts time spent on an unsolvable challenge task](relative-hards-solved-complex-predicts-challenge-time.md) — related
+- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md) — related
+- [The simple machine used to solve a problem predicts persistence, ranked NONE < RAMP < PEN < LEVER < SB](simple-machine-predicts-persistence.md) — related

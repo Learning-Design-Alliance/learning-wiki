@@ -45,3 +45,4 @@ In the same linear mixed effects model on JOL minus performance, the second Helm
 ## Related Claims
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
 - [Drawing quality was diagnostic for later test performance only when drawings were made with spatial scaffolds, not when made from scratch](scaffolded-drawing-quality-diagnostic-for-performance.md) — related
+- [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](drawing-quality-predicts-jols-similarly-both-conditions.md) — related

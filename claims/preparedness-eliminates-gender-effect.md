@@ -46,3 +46,5 @@ Mixed-effects model on 10 multiple-imputation datasets (1575 observations, 315 s
 
 - [A gender gap of ~9 points appears even on a low-stakes diagnostic assessment, contradicting prior findings that the gap disappears in low-stakes assessments](gender-gap-persists-low-stakes-diagnostic.md)
 - [High school girls and boys take largely similar math and science coursework, with girls more likely to complete biology and chemistry and boys more likely to complete physics and calculus](gender-parity-high-school-math-science-course-taking.md)
+- [Women score lower than men in high-stakes final exams across advanced undergraduate STEM courses, with mean differences of 2.5 to ~7 points on a 100-point scale](gender-gap-high-stakes-exams-advanced-stem.md) — related
+- [High-school grades do not capture the preparation gap: controlling for high-school scores did not eliminate the gap, possibly due to a ceiling effect](high-school-grades-ceiling-effect-gap.md) — related

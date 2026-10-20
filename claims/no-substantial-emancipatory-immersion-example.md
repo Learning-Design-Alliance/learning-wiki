@@ -46,3 +46,6 @@ In the vignette-sampling procedure of the qualitative analysis, the authors repo
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — reports the opposite
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](multiple-immersive-processes-at-microsites.md) — related
+- [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](sensory-immersion-prompted-geoscientific-observation.md) — related
+- [Students characterized their VR experience through a feeling of taking part in conversations, showing co-presence with the people in the film during collaborative reflection](feeling-of-taking-part-in-vr-conversations.md) — related
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](gps-wayfinding-actional-immersion-accessible.md) — related

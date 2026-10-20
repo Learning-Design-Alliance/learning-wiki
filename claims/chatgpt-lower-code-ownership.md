@@ -66,3 +66,5 @@ Four-item Psychological Ownership Scale (Cronbach's alpha = 0.94) with the targe
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [AI support during drafting lowers ownership substantially more than support during planning or revision, and planning support preserves more ownership than revision support.](drafting-support-largest-ownership-decrease.md) — related
 - [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related
+- [Any AI writing support decreases feelings of ownership compared to no AI support, with ownership following a gradient by stage (highest with no AI, then planning, revision, and AI-generated draft lowest).](ai-support-any-stage-decreases-ownership.md) — related
+- [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — related

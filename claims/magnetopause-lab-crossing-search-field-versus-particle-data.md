@@ -64,3 +64,4 @@ Instructor-reported observation from the spacecraft-data results section: some a
 ## Related Claims
 - [Students achieve reasonable agreement between their magnetopause-crossing findings and model predictions, gaining exposure to the tools and techniques of space physics](magnetopause-lab-reasonable-agreement-with-model-predictions.md) — related
 - [Students' empirical fits of simulated magnetopause locations show good internal agreement, though student estimates and simulation-calculated locations often disagree beyond uncertainties](magnetopause-lab-student-fits-agree-internally-but-differ-from-simulation-values.md) — related
+- [Using a stair-step pattern of solar wind input conditions in the simulation portion of the lab led to much better student results than linearly varying conditions](stair-step-solar-wind-inputs-improve-lab-results.md) — related

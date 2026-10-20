@@ -45,3 +45,5 @@ This is the authors' interpretation offered in the abstract after the moderator 
 ## Related Claims
 - [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](srl-partial-mediation-achievement-higher-ed.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — related
+- [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — related
+- [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related

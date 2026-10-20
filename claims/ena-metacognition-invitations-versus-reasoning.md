@@ -54,3 +54,4 @@ Epistemic network analysis of co-occurrence among coded behaviors (model fit Pea
 - [The Most Improved profile showed an integrated AI-support pattern with strong ENA connections among coaching, modeling, and reflection and frequent model uptake in group discussion](most-improved-profile-integrated-ai-support-pattern.md) — related
 - [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
 - [Turn-level dialogue codes cluster into three components: Elaborated, Reasoned and Non-Dialogic](dialogue-codes-three-component-pca-solution.md)
+- [The Concerted Interpretation group reported significantly higher self-regulation than Delegated Reasoning, with no profile differences in co-regulation or socially-shared regulation](ci-higher-self-regulation-no-coreg-differences.md) — related

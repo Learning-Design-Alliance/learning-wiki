@@ -48,3 +48,6 @@ Intraclass correlation coefficients computed from the school- and student-level 
 - Over a quarter of variance in student growth lies at the school level, and 12-16% of schools significantly overperform average growth — related
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related
+- [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](grade2-math-growth-descriptives-cp-model.md) — related
+- [Within-year fall-to-spring gains are largest in second grade (about 13.4 RIT in math) and slow by roughly 1.4 RIT per year as students progress through elementary school](within-year-gains-largest-second-grade-then-slow.md) — related
+- [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related

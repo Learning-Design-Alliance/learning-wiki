@@ -45,3 +45,4 @@ Translation-task results across four groups (G1, G2, G3, G5): transitive accurac
 ## Related Claims
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — related
 - [Translation accuracy rises with proficiency but varies substantially across individual constructions](translation-accuracy-varies-by-construction.md) — possibly the same claim (merge candidate)
+- [Light verbs drive construction-based sorting in intermediate-level but not beginner or advanced EFL learners](light-verbs-modulate-intermediate-sorting.md) — related

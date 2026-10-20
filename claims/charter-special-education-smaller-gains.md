@@ -48,3 +48,6 @@ Subgroup analysis of students receiving special education services in the nation
 ## Related Claims
 - Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS — reports the opposite
 - [TEP's student population was similar to other neighborhood schools: high poverty, mostly Hispanic, with similar rates of special education services](tep-student-population-comparable-to-neighborhood-schools.md) — related
+- [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — a broader claim this one bears on
+- [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related

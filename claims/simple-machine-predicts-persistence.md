@@ -43,4 +43,5 @@ HLM dummy-coded contrasts against the lever reference group showed all four cate
 
 
 ## Related Claims
--
+- [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md) — related
+- [Relative-Hards Solved Complex, a log measure of using complex code on personally difficult levels, predicts time spent on an unsolvable challenge task](relative-hards-solved-complex-predicts-challenge-time.md) — related

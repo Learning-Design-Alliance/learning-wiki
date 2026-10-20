@@ -48,3 +48,4 @@ Age (young, old) × Feedback (high, low) ANOVA on final self-evaluation of perfo
 - Random assignment to feedback conditions produced groups comparable in cognitive ability and control beliefs within each age group — related
 - [Feedback effects on attention to conceptual integration are moderated by age and control beliefs: only older adults with high control beliefs allocate more attention after high-performance feedback](feedback-attention-moderated-by-age-and-control-beliefs.md) — related
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related
+- [Problem solving accuracy showed age-related declines but no significant main effect of feedback; a marginal Age × Feedback interaction reflected age differences only within the high-PFB group](problem-solving-accuracy-age-declines-no-feedback-effect.md) — related

@@ -48,3 +48,5 @@ This finding comes from the mixed-methods study combining districtwide surveys w
 - [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
 - [Non-participation in intensive professional development reflected enjoyment, preparation, and conceptions of professional development, not experience or science background](nonparticipant-barriers-professional-development.md) — related
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
+- [Time for teacher learning and collaboration is scarce and fragmented under the standard CPS contract, limiting reform and professional community](teacher-collaboration-time-scarce-contract.md) — related
+- [Math and science instruction improved in Chicago during the years of standards reform, based on student survey reports of classroom experiences before and after reform](chicago-instruction-improved-standards-reform.md) — related

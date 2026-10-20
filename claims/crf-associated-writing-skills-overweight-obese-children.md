@@ -49,3 +49,4 @@ Cross-sectional linear regression analysis (Model 1, adjusted for age, sex, mate
 - [Speed-agility fitness is associated with writing and written expression skills in children with overweight/obesity](speed-agility-associated-writing-skills.md)
 - [Fitness associations with academic achievement are attenuated or disappear after adjustment for BMI and cardiorespiratory fitness, indicating inter-dependence](fitness-academic-associations-interdependent-bmi-crf.md) — reports the opposite
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
+- [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related

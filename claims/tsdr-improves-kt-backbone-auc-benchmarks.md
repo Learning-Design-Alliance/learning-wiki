@@ -47,3 +47,5 @@ Empirical benchmark study (RQ1, Table 1) applying TSDR to DKT, AKT, simpleKT, Fo
 - [In ablations, temporal smoothness works best on the imputation branch, and the full TSDR variant achieves the best AUC and ACC on all six backbones](tsdr-ablation-smoothness-on-imputation-branch.md) — related
 - [TSDR is robust to the smoothness coefficient, with a stable sweet spot for lambda in (0.3, 1.0)](tsdr-lambda-sweet-spot-robustness.md) — a narrower finding that bears on this claim
 - [Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma > 0.8](tsdr-robust-across-mnar-spectrum.md) — related
+- [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
+- [TSDR's AUC gains are largest on open-ended platforms and limited on EdNet, whose mandatory bundle completion policy constrains selection bias](tsdr-gain-magnitude-depends-on-collection-mechanism.md) — a narrower finding that bears on this claim

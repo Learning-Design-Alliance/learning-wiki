@@ -69,3 +69,5 @@ Model 5 results for 3-year-olds, whose referent predicted probability of correct
 - [Letter-writing difficulty varies widely across letters, with O easiest and K hardest, and knowing the letter name raises per-letter probabilities substantially](per-letter-difficulty-and-name-knowledge-gains.md) — related
 - [Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge](letter-sound-pa-smaller-contribution.md) — related
 - [Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing](letter-features-null-for-letter-writing.md) — related
+- [Most variance in preschoolers' letter-writing skills is due to differences between students rather than between letters](student-level-dominates-letter-writing-variance.md) — related
+- [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related

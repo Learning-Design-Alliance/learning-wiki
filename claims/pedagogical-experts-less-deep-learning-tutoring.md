@@ -43,4 +43,5 @@ The editorial reports, citing Herppich et al. (this issue), that pedagogical exp
 
 
 ## Related Claims
--
+- [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
+- [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — related

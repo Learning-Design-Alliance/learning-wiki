@@ -50,3 +50,4 @@ Retrospective predictive analysis on one stratified 75/25 question-level split (
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
 - [The deterministic pattern detector achieves high pair precision (73.21%) with explicit abstention but covers only 32% of real queries](pattern-detector-high-precision-low-coverage.md) — related
 - [DeBERTa achieved the highest overall accuracy (86.36%) among the evaluated NLP models for classifying learner-generated questions, yet struggled with contextual nuances in complex queries](deberta-highest-accuracy-86-36-learner-question-classification.md) — related
+- [Current-submission evidence and prior traces predict near-term persistent failure with moderate discrimination under student-disjoint evaluation](persistent-failure-moderate-discrimination-student-disjoint.md) — related

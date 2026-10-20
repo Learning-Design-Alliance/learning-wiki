@@ -61,3 +61,6 @@ Cohort comparison of fall-to-fall MAP Growth gains: the pandemic cohort (fall 20
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students — related
 - [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related
+- [Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort](covid19-year3-low-icsea-two-months-less-math-growth.md) — related
+- [The webinar presents research comparing student academic trends during the pandemic year to a more typical school year](pandemic-year-trends-compared-typical-year.md) — related
+- [Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools](covid-achievement-impacts-disproportionate-marginalized-high-poverty.md) — a broader claim this one bears on

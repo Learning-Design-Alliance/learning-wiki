@@ -48,3 +48,4 @@ The publisher's description of the 2019 NWEA research brief frames the study's q
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — a broader claim this one bears on
 - [Effort-moderated scoring estimates disengaged test takers' performance by excluding disengaged responses and scoring the remaining responses](em-scoring-excludes-disengaged-responses.md) — related
 - [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related

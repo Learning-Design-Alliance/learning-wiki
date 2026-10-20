@@ -44,3 +44,5 @@ Fragment 3: an observing student notes reported feelings 'did not show' in the c
 
 ## Related Claims
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related
+- [Facilitators' questions, regularly posed in terms of seeing, make it relevant for students to discuss how situations appeared audiovisually and how these appearances contrasted with their experiences](seeing-questions-guide-audiovisual-contrast.md) — related
+- [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related

@@ -60,3 +60,4 @@ Baseline and improvement finding from the three-group pretest-posttest experimen
 - [The clearest AI-assisted advantages appeared on the stakeholder engagement, alternatives, implementation, and monitoring decision-making steps](ai-advantages-stakeholder-alternatives-implementation-monitoring.md) — related
 - [Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only](ai-assisted-effect-sizes-large-vs-traditional.md) — related
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — related
+- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](checking-ai-claims-predicts-gains.md) — related

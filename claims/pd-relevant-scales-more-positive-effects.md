@@ -46,3 +46,5 @@ A cross-class chi-square on the direction of ANOVA effects found 16 of 25 signif
 
 - [Co-designers' perceptions improved in some classes but unexpectedly decreased more than controls in others](pd-codesigner-perceptions-mixed.md)
 - [Teachers who held participatory design meetings reported changes in educational practice far more frequently than control teachers](pd-teachers-reported-more-changes.md)
+- [Perceived-desired discrepancies decreased for co-designers but often increased or decreased less for the rest of the class](pd-discrepancy-negative-for-rest-of-class.md) — related
+- [Student awareness of improvement differed sharply by role: most co-designers noticed improvement, most control students noticed none](pd-student-change-question-differences.md) — related

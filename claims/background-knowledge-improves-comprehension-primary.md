@@ -48,3 +48,5 @@ Critical review synthesis of 23 empirical studies (quasi-experimental and correl
 - [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](misconceptions-inhibit-reading-comprehension.md) — related
 - [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related
 - [Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing](knowledge-compensates-textbase-not-inference.md) — a narrower finding that bears on this claim
+- [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
+- [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related

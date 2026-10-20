@@ -43,3 +43,8 @@ Friedman test on complete cases (N = 43) comparing personal experience (median 9
 ## Related Claims
 - [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](approaching-markers-future-attainability.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
+- [Teachers rated personal efficiency, caring for learners' needs, and societal contribution as similarly highly important purposes of AI](no-difference-ai-purpose-ratings.md) — related
+- [Structural and dynamical future-scaffolding skills appeared in teachers' visions, led by causal-relationship identification and present-future shifting](future-scaffolding-skills-teacher-essays.md) — related
+- [Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety](broadening-markers-teacher-ai-visions.md) — related
+- [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
+- [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related

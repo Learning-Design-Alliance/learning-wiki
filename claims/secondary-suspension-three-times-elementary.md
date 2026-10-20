@@ -48,3 +48,5 @@ CRDC trend analysis by school level (Figure 2). The report finds "more than thre
 ## Related Claims
 - [Intersecting identities compound suspension risk: 0.1% of Asian girls without special education services in elementary schools were suspended versus 27% of Black boys with disabilities in secondary schools](intersectional-suspension-risk.md) — related
 - [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](suspension-declines-48-states-substitution.md) — related
+- [Secondary school suspension rates varied greatly across states in 2017–18, from 15% in Mississippi, South Carolina, and Washington, DC to 3% in Utah](state-variation-secondary-suspension-rates.md) — related
+- [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related

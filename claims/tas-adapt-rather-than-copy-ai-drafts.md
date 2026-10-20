@@ -47,3 +47,5 @@ Descriptive treatment-only analysis of similarity scores (N = 432) computed via 
 - [AI-assisted feedback drafts do not reduce TAs' time spent per character of feedback](ai-drafts-no-reduction-time-per-character.md) — related
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](draft-usefulness-varies-by-grading-context.md) — related
 - [In the Enacted Feedback workflow most resources moved from AI feedback to suggestion selection, while optional AI assistance was rarely entered](event-flow-selection-versus-optional-assistance-use.md) — related
+- [AI-assisted feedback drafts increase total feedback length by 39.79 characters per submission](ai-drafts-increase-feedback-length.md) — related
+- [AI-assisted feedback does not reduce student-perceived usefulness of rated feedback](ai-assisted-feedback-preserves-student-usefulness.md) — related

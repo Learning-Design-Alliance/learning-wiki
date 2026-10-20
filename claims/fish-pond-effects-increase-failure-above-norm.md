@@ -52,3 +52,5 @@ Logistic models predicting algebra pass rates for above-norm students post-polic
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](sorting-effect-comparable-to-curriculum-content.md) — a broader claim this one bears on
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
 - [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](sorting-raises-test-scores-via-high-skill-gains.md) — related
+- [When classes are sorted by skill level, low-skilled students are at higher risk of being in disruptive classrooms, weakening their instructional environment](sorting-puts-low-skilled-in-disruptive-classrooms.md) — related
+- [Average course-specific test scores decrease as grade level increases, reflecting ability self-selection](cross-grade-score-decline-self-selection.md) — related

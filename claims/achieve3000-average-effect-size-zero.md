@@ -47,3 +47,5 @@ The Program Outcomes summary reports three studies with 35,070 students and an "
 - [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — a narrower finding that bears on this claim
 - [WWC rates Achieve3000® as having potentially positive effects on comprehension and general literacy achievement for adolescent readers](achieve3000-potentially-positive-literacy-effects.md) — related
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
+- [Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect](achieve3000-comprehension-mixed-findings.md) — related
+- [Tracey and Young (2004): grade 5 students using differentiated KidBiz3000® outscored comparison students on the SRI (effect size 0.29)](kidbiz-differentiated-sri-positive-effect.md) — related

@@ -45,3 +45,4 @@ MANOVA on AUT-brick measures showed a significant age group effect driven by flu
 ## Related Claims
 - [More solutions are generated in the OC condition than the AU condition, and adults generate more answers than adolescents in general, with no condition-specific age difference](condition-and-age-effects-solution-generation.md) — related
 - [Adults show larger left IFG/MFG condition effects (AU relative to baseline) than adolescents, indicating adolescents do not yet recruit left lateral PFC at an adult level for creative thinking](adolescents-immature-left-lateral-pfc-recruitment.md) — related
+- [AU and OC conditions show distinct correlation patterns with external creativity and fluency measures, supporting their differentiation as divergent thinking versus verbal ability conditions](au-oc-conditions-distinct-correlation-patterns.md) — related

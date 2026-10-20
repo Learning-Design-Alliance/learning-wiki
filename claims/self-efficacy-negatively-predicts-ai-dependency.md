@@ -53,3 +53,6 @@ Regression analysis of the same 478-student survey. Academic self-efficacy was a
 - [AI dependency mediates the relationship between academic self-efficacy and learning burnout](ai-dependency-mediates-self-efficacy-burnout.md) — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
 - [The eight-predictor model explains 27.3% of variance in AI dependency, and multidimensional AI literacy adds explanatory value over a single aggregate score](multidimensional-ai-literacy-model-explains-27-percent-dependency-variance.md)
+- [AI dependency is positively associated with learning burnout among university students](ai-dependency-positively-associated-learning-burnout.md) — related
+- [Effort regulation negatively predicts, and general academic help seeking positively predicts, reported AI dependency; time management is non-significant](effort-regulation-buffers-help-seeking-predicts-ai-dependency.md) — related
+- [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](suboptimal-design-hints-trigger-costly-self-management.md) — related

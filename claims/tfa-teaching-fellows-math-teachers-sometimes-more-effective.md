@@ -55,3 +55,4 @@ The random assignment study reports that the alternative-certification teachers 
 - [Secondary math students taught by Teaching Fellows teachers had test scores similar to peers taught by traditional-route teachers](teaching-fellows-secondary-math-similar-traditional.md) — related
 - Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — reports the opposite
+- [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) — related

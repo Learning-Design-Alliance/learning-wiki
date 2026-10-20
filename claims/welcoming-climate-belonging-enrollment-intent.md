@@ -45,3 +45,10 @@ The review reports, citing Hausmann et al. (2007), an experimental study finding
 ## Related Claims
 
 - [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md)
+- [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
+- [Positive campus racial climate is vital for Black students' success, while negative climate remains detrimental to students of color in predominantly White schools](positive-campus-racial-climate-vital-black-student-success.md) — possibly the same claim (merge candidate)
+- [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](sense-of-belonging-predicts-persistence-intentions.md) — related
+- [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
+- [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](deficit-thinking-negative-climate-relationships.md) — related
+- [Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools](racism-psychological-implications-belonging.md) — related
+- [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related

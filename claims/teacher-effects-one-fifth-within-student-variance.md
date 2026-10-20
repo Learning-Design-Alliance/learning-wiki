@@ -45,3 +45,5 @@ Cross-classified model 2a on the full CPS grade dataset shows teacher random mai
 ## Related Claims
 - [School-level differences in grades are small and largely explained by attendance and course characteristics](school-grade-variance-small-explained.md) — related
 - [Within-student differences in noncognitive factors are associated with differences in course grades across the same student's classes](within-student-noncognitive-factors-relate-to-grades.md) — related
+- [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — a broader claim this one bears on
+- [Student-by-classroom interaction accounts for a substantial share of variation in noncognitive factors, indicating context-specific malleability](student-classroom-interaction-variance-noncognitive-factors.md) — related

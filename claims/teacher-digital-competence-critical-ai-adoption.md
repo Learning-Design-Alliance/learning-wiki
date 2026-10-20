@@ -49,3 +49,4 @@ The review's synthesis identifies teachers' digital competence as influencing bo
 - [Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers](three-factors-sst-tool-adoption.md) — related
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
 - [About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching](teachers-access-but-low-skill-and-use.md) — related
+- [A teacher-initiated report card comment generator built in Solara saw immediate high adoption without formal rollout or training](teacher-initiated-tool-high-adoption.md) — related

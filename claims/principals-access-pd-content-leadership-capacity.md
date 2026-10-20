@@ -48,3 +48,7 @@ Descriptive statistics from the NAESP-LPI national survey of 407 elementary prin
 - [Access to mentors and coaches is inequitably distributed, with high-poverty schools far less likely to have supported principals](mentor-coach-access-inequity-poverty.md) — related
 - [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related
+- [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
+- [More than two thirds of principals want equity-focused professional development, with significant differences by community type](principals-want-equity-pd-community-differences.md) — related
+- [Access to high-quality principal learning varies by school poverty level: principals in high-poverty schools report fewer opportunities](principal-learning-access-poverty-disparities.md) — related
+- [Almost all LEAs planned professional development for principals and site leaders on early childhood topics](almost-all-leas-leader-pd.md) — related

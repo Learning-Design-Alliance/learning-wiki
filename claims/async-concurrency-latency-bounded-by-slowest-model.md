@@ -45,3 +45,5 @@ Architectural analysis in Section 3.1 of the asynchronous concurrency model. The
 ## Related Claims
 - [Code-augmented interaction consistently increases median and tail latency, and costs per correct answer typically increase, with Gemini 2.5 Pro a notable outlier](code-augmented-latency-cost-increases.md) — related
 - [Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request](load-test-100-concurrent-users-30-second-response.md) — related
+- [Teaching interactions typically conclude within 30 dialogue turns, motivating a 30-turn cap to prevent dead loops](teaching-sessions-conclude-within-30-turns.md) — related
+- [The ELEVATE server pipeline runs locally on two heterogeneous consumer machines, keeping LLM and TTS models fully resident in memory for low-latency inference](elevate-local-two-machine-low-latency-deployment.md) — related

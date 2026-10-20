@@ -48,3 +48,6 @@ Within-student process contrasts from platform telemetry and the voice provider'
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
 - [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](media-rich-videos-more-engaging-than-text-only.md) — related
+- [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
+- [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](tts-narration-equivalent-instructor-voice-retrospective.md) — related
+- [In one reviewed study, Anatomage virtual dissection increased medical student engagement by 34% over cadaver-based practice, constrained by equipment costs exceeding $72,000 per station](anatomage-vr-engagement-34-percent.md) — related

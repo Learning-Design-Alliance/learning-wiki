@@ -50,3 +50,8 @@ Cohort analysis of first-time ninth-graders at Collins Academy and of NLCI eight
 - [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related
 - [Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing](no-effect-high-school-on-track-rates.md) — related
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](transition-pivotal-for-remaining-on-track.md) — related
+- [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — a broader claim this one bears on
+- [Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative](nlci-test-scores-improved-similar-to-district.md) — related
+- [CPS students' core GPAs continue to decline between eighth and ninth grade despite steady improvement in both eighth- and ninth-grade grades](core-gpa-declines-eighth-to-ninth-grade-cps.md) — related
+- [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related
+- [High student mobility limited the vertical-integration strategy: only about one-third of the 2014-15 NLCI pre-k cohort remained at NLCI schools by second grade](nlci-student-mobility-limits-vertical-integration-gains.md) — related

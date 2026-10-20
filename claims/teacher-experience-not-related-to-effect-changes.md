@@ -44,3 +44,4 @@ The report's summary finding on the second student cohort: teacher experience us
 
 ## Related Claims
 - [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related
+- [Impacts of the curricula were not statistically significantly larger after schools had one year of experience using them (Cohort 2 fifth graders).](school-experience-did-not-enlarge-curriculum-impacts.md) — related

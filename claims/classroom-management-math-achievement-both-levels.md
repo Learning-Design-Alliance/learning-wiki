@@ -45,3 +45,5 @@ Final MSEM Model C5 added BOOKS, LANG and GENDER controls. The study reports cla
 ## Related Claims
 - [At the classroom level in the joint Model E, only aggregated classroom management, aggregated SES and aggregated language background related significantly to mathematics achievement](classroom-level-model-e-composition-effects.md) — related
 - [SES and language spoken at home are strongly related to mathematics achievement especially at the classroom level, and teaching-quality estimates reduce these background estimates](ses-language-achievement-gap-teaching-quality-reduction.md) — related
+- [In the joint final model, instructional clarity shows an unexpected negative and significant relation with mathematics achievement at the student level](instructional-clarity-negative-achievement-student-level.md) — related
+- [Interaction effects between student background variables (BOOKS, LANG, GENDER) and outcomes were statistically insignificant in both achievement and confidence models](background-interactions-insignificant.md) — related

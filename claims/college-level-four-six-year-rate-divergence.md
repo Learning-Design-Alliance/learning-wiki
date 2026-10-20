@@ -45,3 +45,4 @@ Analysis of the 41 colleges most commonly attended by 2012–14 CPS immediate en
 ## Related Claims
 - [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related
 - Across nearly all CPS high schools, six-year completion rates exceeded four-year rates, including at selective enrollment high schools where gaps reached 30 percentage points — related
+- [Four- versus six-year completion gaps of 15–25 percentage points appeared across academic and demographic groups, with Black young men at 13% four-year and 31% six-year completion](student-characteristics-completion-gaps.md) — related

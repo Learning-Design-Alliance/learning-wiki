@@ -43,4 +43,7 @@ Pairwise Kruskal-Wallis analyses across the three clusters (Table 4: Negative Va
 
 
 ## Related Claims
--
+- [Speech activity and speech overlap distinguish gainer dyads from non-gainer Silent Wanderers across both gainer profiles](speech-overlap-distinguishes-gainers-from-non-gainers.md) — related
+- [Among 32 dyads in an open-ended collaborative tabletop task, three behavioral clusters split into two learning (gainer) profiles and one non-learning profile despite similar task performance](three-multimodal-collaborative-learning-profiles.md) — related
+- [The two gainer profiles differ in problem-solving strategy: Expressive Explorers enact global exploration with reflection on past solutions, Calm Tinkerers enact local exploration with in-the-moment correction](global-versus-local-exploration-strategies-gainers.md) — related
+- [Multimodal behavioral profiles of dyads' collaborative learning are identifiable by integrating video, audio, and log data, with emergent processes more explanatory than individual behaviors](multimodal-profiles-dyad-collaboration.md) — a broader claim this one bears on

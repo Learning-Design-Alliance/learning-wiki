@@ -46,3 +46,5 @@ SEM analysis across the three studies: hypotheses sharing showed no significant 
 ## Related Claims
 - [Evidence elicitation relates positively to diagnostic accuracy and diagnostic efficiency](evidence-elicitation-relates-accuracy-efficiency.md) — related
 - [Evidence sharing relates positively to diagnostic justification quality](evidence-sharing-relates-diagnostic-justification.md) — related
+- [Collaboration knowledge is positively and consistently related to the quality of evidence sharing across all three studies](collaboration-knowledge-relates-evidence-sharing.md) — related
+- [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related

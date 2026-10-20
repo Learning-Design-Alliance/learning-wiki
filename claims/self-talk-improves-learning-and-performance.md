@@ -90,3 +90,5 @@ Open questions include how durable the effects are beyond immediate performance,
 - [Thought and language become increasingly interdependent in the first few years, with private speech evolving into inner speech as self-regulation](vygotsky-private-speech-inner-speech.md) — related
 - [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — related
+- [Universal self-regulation interventions improve self-regulation in children and adolescents, with a pooled effect size of d = 0.42 (95% CI, 0.32-0.53) on task performance scores.](universal-sr-interventions-improve-sr-pooled-d-042.md) — related
+- [Process-oriented (bottom-up) therapies for DCD show weak or null effects, while task-oriented approaches are effective in improving motor performance](process-oriented-weak-task-oriented-effective-dcd.md) — related

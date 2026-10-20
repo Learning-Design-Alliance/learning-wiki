@@ -50,3 +50,4 @@ The WWC reviewed 40 eligible studies against group design standards; 39 did not 
 - [Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort](head-start-supplemental-subgroup-subscale-effects.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
+- [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — related

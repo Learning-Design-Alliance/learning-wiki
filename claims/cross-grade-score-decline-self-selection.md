@@ -47,3 +47,4 @@ Descriptive analysis of summary statistics (Table 3.1) for the norming sample of
 
 ## Related Claims
 - [Cross-grade score patterns show self-selection: lower-grade students taking a course-specific test tend to outperform students at the grade the course targets, and upper-grade students tend to underperform them.](course-specific-norms-cross-grade-self-selection.md) — possibly the same claim (merge candidate)
+- [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related

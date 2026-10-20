@@ -54,3 +54,5 @@ The review reports, citing Butkowsky and Willows (1980), an experimental study m
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](frustration-epistemic-motivates-external-impairs.md) — related
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — related
+- [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
+- [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related

@@ -47,3 +47,5 @@ The paper attributes to Kestin et al. a comparison in which "Students using thes
 - [In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course](genai-chat-tutor-rct-physics-improved-performance.md) — related
 - [A pedagogically informed Tutor Prompt yields higher Success@N and lower Telling@N than MathDial's Base Prompt in simulated tutor-student dialogues](tutor-prompt-outperforms-base-prompt-mathdial.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — a broader claim this one bears on
+- [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related

@@ -48,3 +48,4 @@ Univariate ANCOVA on letter fluency (COWAT F-A-S) controlling for the processing
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](curve-estimation-differential-age-trajectories.md) — related
 - [Processing speed has a significant effect on both letter and category fluency in older adults, while IQ does not](processing-speed-significant-covariate-both-fluencies.md) — reports the opposite
 - [When relevant knowledge can be drawn upon, age trends in performance can reverse, with older adults outperforming younger adults on crossword puzzles](knowledge-relevance-reverses-age-trends.md) — related
+- [Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder](letter-fluency-decline-clinical-red-flag.md) — reports the opposite

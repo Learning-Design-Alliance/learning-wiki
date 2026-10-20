@@ -66,3 +66,4 @@ Follow-up subscale analyses against the two WIAT-II math subtests in the same sa
 - [Math anxiety is not significantly correlated with reading achievement in young children](math-anxiety-not-correlated-reading-achievement.md) — related
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — related
 - [Math anxiety is not significantly correlated with trait anxiety in young children](math-anxiety-uncorrelated-trait-anxiety-children.md) — related
+- [Math anxiety correlates strongly and negatively with mathematics achievement among third graders](math-anxiety-negative-correlation-third-graders.md) — a broader claim this one bears on

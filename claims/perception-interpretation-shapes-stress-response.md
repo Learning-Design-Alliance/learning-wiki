@@ -65,3 +65,5 @@ Narrative review synthesis of two child studies on perception versus event expos
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
 - [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related
+- [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related

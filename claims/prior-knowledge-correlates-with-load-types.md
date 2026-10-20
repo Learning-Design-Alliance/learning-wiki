@@ -47,3 +47,4 @@ Correlational analysis in the main study between self-assessed prior knowledge (
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model](criterion-validity-supports-three-factor-model.md) — related
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — related
+- [Passage familiarity (prior related knowledge) correlates .52 with recall, and only familiarity, not imageability, affected one-week delayed recall](passage-familiarity-correlates-with-recall.md) — related

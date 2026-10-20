@@ -55,3 +55,5 @@ Qualitative thematic analysis of workshop metaphors. Three themes emerged: GenAI
 - [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
 - [Students spontaneously use language and metaphors of addiction to describe their AI use, framed as loss of control rather than enjoyment](addiction-metaphors-ai-use.md) — related
 - [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
+- [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](anvil-educators-instructor-control-editability.md) — related

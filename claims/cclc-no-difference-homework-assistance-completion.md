@@ -46,3 +46,6 @@ The evaluation found "no difference between the treatment and control groups on 
 - [21st Century after-school programs had only limited influence on academic performance, including test scores, grades, and homework completion](21st-cclc-limited-academic-influence.md) — a broader claim this one bears on
 - [The 21st Century Community Learning Centers program had few impacts on student achievement overall](21st-cclc-national-evaluation-no-academic-improvement.md) — a broader claim this one bears on
 - [21st CCLC elementary programs did not affect students' academic outcomes](21st-cclc-no-effect-academic-outcomes-elementary.md) — a broader claim this one bears on
+- [21st CCLC participation showed no statistically significant effect on the incidence of self-care after school](21st-cclc-no-significant-effect-self-care.md) — related
+- [21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time](21st-cclc-changed-after-school-time-location-and-companions.md) — related
+- [Elementary participants in the 21st Century Community Learning Centers program were more likely to engage in negative behaviors than students not enrolled](cclc-elementary-participants-more-negative-behaviors.md) — related

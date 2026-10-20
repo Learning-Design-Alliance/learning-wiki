@@ -47,3 +47,6 @@ The article's stated key finding, offered as an expert assertion about how found
 - [Waterford Early Reading Level One™ shows no discernible effects on preschool children's print knowledge](waterford-level-one-no-discernible-print-knowledge-effects.md) — related
 - [Randomized A/B tests of interventions encouraging higher-level study increased lessons completed per level by more than 10% and increased overall studying activity](ab-tests-level-interventions-increase-lessons.md) — related
 - Magnetic Reading use had a positive, statistically significant effect on spring i-Ready Diagnostic scores (ES = +0.23) in a 2021-2022 Iowa quasi-experiment — related
+- [Educational and social activity group interventions targeting specific groups can alleviate social isolation and loneliness among older people](educational-social-group-interventions-alleviate-older-people-isolation.md) — related
+- [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
+- [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related

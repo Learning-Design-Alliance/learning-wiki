@@ -47,3 +47,5 @@ Delayed cued-recall quiz administered 48 hours after the session to all particip
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [Review reports a randomized trial in which unrestricted ChatGPT study produced lower delayed retention than traditional methods](chatgpt-unrestricted-lower-delayed-retention-rct.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related

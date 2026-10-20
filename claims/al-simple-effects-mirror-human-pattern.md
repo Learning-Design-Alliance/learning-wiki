@@ -45,3 +45,4 @@ Simple-effects analysis of the AL simulation with forgetting showed the human-li
 ## Related Claims
 - [Adding a memory (forgetting) mechanism slightly decreases simulated learning gains overall yet improves alignment with human results, apparently by letting agents discard incorrect rules](forgetting-mechanism-decreases-gains-improves-alignment.md) — related
 - [In a human experiment, verbatim facts are learned better from practice-only training while general skills are learned better from example-integrated training (cross-over content-treatment interaction)](crossover-content-treatment-interaction-facts-practice-skills-examples.md) — related
+- [The training-by-content interaction is not specific to test question type, indicating transfer between skill and fact learning](no-three-way-interaction-test-question-type-transfer.md) — related

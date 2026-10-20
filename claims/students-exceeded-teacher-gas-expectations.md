@@ -45,3 +45,5 @@ Secondary outcome measure: the Goal Attainment Scale, completed by teachers at b
 ## Related Claims
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — related
 - [Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group](self-determined-learning-model-of-instruction-improves-self-determination.md) — related
+- [Teacher performance goals are often focused on attaining measurable student achievement or learning targets](teacher-goals-focused-on-measurable-student-targets.md) — related
+- [All students in the self-determination skill intervention achieved their goals at better than average levels](students-achieved-goals-better-than-average.md) — possibly the same claim (merge candidate)

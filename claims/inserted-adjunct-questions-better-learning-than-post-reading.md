@@ -49,3 +49,5 @@ Randomized between-subjects experiment with 76 freshmen (39 inserted, 37 post-re
 - [Post-reading-question students spend more time reading the questions for the first time than inserted-question students](post-reading-longer-task-model-formation.md)
 - [Post-reading-question students search significantly more text segments than inserted-question students, indicating less efficient search](post-reading-questions-inefficient-search.md)
 - [Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students](question-timing-by-relevance-rereading-interaction.md)
+- [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [Adjunct aids such as learning objectives and embedded questions show limited effects and may interfere with competent readers' natural strategies](adjunct-aids-limited-effects-interference.md) — reports the opposite

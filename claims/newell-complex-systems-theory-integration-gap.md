@@ -48,3 +48,4 @@ The article reviews the debate over Newell's 'A Theory of Interdisciplinary Stud
 - Interdisciplinarity is almost impossible to practice without the integrative power of texts, which are foundational to the disciplines — related
 - Complex systems function properly only when self-assertive and integrative tendencies are in equilibrium — related
 - No special pedagogy or unique strategy set exists for teaching interdisciplinarity; a variety of pedagogies is required — related
+- [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding in student group discourse](modeling-task-elicits-four-interdisciplinary-processes.md) — related

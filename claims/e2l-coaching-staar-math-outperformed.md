@@ -46,3 +46,4 @@ Second matched study using propensity score matching to create a well-matched co
 ## Related Claims
 - [Students of engage2learn teachers scored significantly higher on NWEA MAP than students of non-e2L teachers in the same schools and in comparison schools](e2l-teachers-students-higher-nwea-map.md) — related
 - STAAR results in the first e2L study were conflicting: positive versus separate control schools but negative versus non-e2L teachers in the same schools — related
+- [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related

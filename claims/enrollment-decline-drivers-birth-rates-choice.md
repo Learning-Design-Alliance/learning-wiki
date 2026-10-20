@@ -44,3 +44,4 @@ The brief's analysis of enrollment drivers reports that "the primary overall dri
 
 ## Related Claims
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
+- [US public education could lose $11.5 billion in annual state revenues by 2030–31 as enrollment declines, with 40 states and DC projected to see further declines](enrollment-decline-11-5b-revenue-loss-2030-31.md) — related

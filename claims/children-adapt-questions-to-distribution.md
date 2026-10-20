@@ -46,3 +46,4 @@ The review reports, citing Ruggeri and Lombrozo (2015), that children aged 7 to 
 - [Five-year-olds select the more informative question under both uniform and skewed hypothesis distributions despite weak question generation](preschoolers-select-informative-questions.md) — related
 - [Children as young as 3 adapt their exploratory actions to the statistical structure of a search task](three-year-olds-adapt-exploratory-strategies.md) — a broader claim this one bears on
 - [Explicit training in constraint-seeking questions showed only moderate, non-generalizing benefits, whereas prompting explanation supports better question asking](question-asking-interventions-mixed-success.md) — related
+- [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related

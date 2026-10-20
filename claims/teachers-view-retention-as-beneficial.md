@@ -45,3 +45,5 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 ## Related Claims
 - [Principals expressed somewhat greater concern about retention's negative effects than teachers](principals-more-concerned-about-retention.md) — related
 - [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related
+- [Two-thirds of teachers and 72 percent of principals believed the threat of retention motivated students to work harder](retention-threat-motivates-students-teacher-beliefs.md) — related
+- [Teachers and principals reported the policy made them feel extra responsibility and more sensitive to student needs](policy-increased-teacher-responsibility-sensitivity.md) — related

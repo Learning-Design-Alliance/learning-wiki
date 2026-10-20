@@ -48,3 +48,6 @@ First quasi-experimental study comparing students in a small-city South Carolina
 - [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](morphology-plus-significant-reading-gain-third-grade.md) — related
 - Core5 use for one year yields significantly higher MAP reading scores than control for K-5 special education students (ES = +0.23) — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related
+- [South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year](sc-charter-overall-math-weaker-reading-similar.md) — related
+- [Coursemojo use was associated with higher STAAR reading and NWEA MAP scores in a Texas quasi-experiment](coursemojo-tx-reading-gains.md) — related
+- [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](zearn-rct-nwea-map-effect-011.md) — related

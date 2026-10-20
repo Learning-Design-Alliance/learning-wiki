@@ -48,3 +48,7 @@ The review reports the Kang et al. (2009) curiosity induction study, in which su
 - [Monkeys pay for non-strategic information: information about a reward is worth about 25% of the reward's value](monkeys-value-information-25-percent-of-reward.md) — related
 - [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
+- [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — related
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — possibly the same claim (merge candidate)
+- [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md) — related
+- [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — a narrower finding that bears on this claim

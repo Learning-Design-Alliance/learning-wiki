@@ -46,3 +46,7 @@ Topic modeling of Spanish-language open-ended responses using LDA (following Ble
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
+- [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
+- [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md) — related
+- [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
+- [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related

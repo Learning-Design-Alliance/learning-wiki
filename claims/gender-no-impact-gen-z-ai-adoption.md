@@ -48,3 +48,5 @@ Multigroup analysis in IBM Amos compared constrained and unconstrained models ac
 ## Related Claims
 - [Course major moderates the predictive effects on Gen Z students' AI adoption](course-major-moderates-gen-z-ai-adoption.md) — related
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
+- [Experience influences all predictive factors of AI adoption, but its impact diminishes as experience increases](experience-moderates-diminishes-gen-z-ai.md) — related
+- [Adoption intent does not differ significantly across teacher prior-practice groups, with every cohort exceeding 65% willingness to continue using LearnLens](learnlens-adoption-intent-stable-across-groups.md) — related

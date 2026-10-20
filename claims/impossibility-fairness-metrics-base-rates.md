@@ -49,3 +49,4 @@ The article states this as a mathematical constraint shaping its whole evaluatio
 - [Post-processing mitigation with ThresholdOptimizer reduced bias on most fairness metrics while maintaining accuracy reasonably well, with a slight performance drop](thresholdoptimizer-reduces-bias-accuracy-tradeoff.md) — related
 - [Preprocessing bias mitigation (DIR, RW, SUP) reduced subgroup disparities in TPR on OULAD, with effectiveness varying by demographic attribute](preprocessing-mitigation-reduces-disparities-oulad.md) — related
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — a narrower finding that bears on this claim
+- [The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36](xorder-intractable-institutional-scale.md) — related

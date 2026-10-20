@@ -45,3 +45,6 @@ The article reports, citing Sawyer (2012), that "groups outperform individuals" 
 ## Related Claims
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — related
 - [Homogeneous grouping for reading instruction and heterogeneous grouping for discussion groups each serve distinct purposes](mixed-homogeneous-heterogeneous-grouping.md) — related
+- [Classifying and combining group ideas generated new ideas in the quarry problem, including acoustic volume measurement](idea-classification-generated-new-ideas.md) — a narrower finding that bears on this claim
+- [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related
+- [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related

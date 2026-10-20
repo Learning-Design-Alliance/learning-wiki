@@ -50,3 +50,4 @@ Logistic regression analyses (bootstrapped, 1000 resamples) with age as covariat
 - [Self-distraction and avoidance behaviours occur in nearly all successful toddlers but in a minority of unsuccessful ones](delay-behaviours-occur-in-successful-but-not-unsuccessful-toddlers.md)
 - [Actively withholding the hands from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](hands-withholding-predicts-toddler-delay-success.md)
 - [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](rapid-initiation-delay-behaviours-successful-toddlers.md)
+- [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related

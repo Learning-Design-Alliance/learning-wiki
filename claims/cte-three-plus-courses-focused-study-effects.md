@@ -47,3 +47,4 @@ The review reports observational findings on earnings for CTE concentrators who 
 - [College was the most prevalent postsecondary pathway selection, with CTE/non-CTE differences narrowing over time](pathway-selection-college-prevalent-cte-gaps-narrowing.md) — related
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
 - [Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework](wrl-6-to-7-gated-by-industry-embedded-exposure.md) — related
+- [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related

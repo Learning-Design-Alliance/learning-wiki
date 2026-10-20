@@ -44,3 +44,4 @@ The report summarizes behavioral outcomes from its study of the initiative: "day
 
 ## Related Claims
 - [Boston's Focus on High Schools initiative was associated with reductions in student math and English scores after implementation](focus-high-schools-math-english-score-reductions.md) — related
+- [Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy](person-oriented-predicts-absence-better-than-categorical.md) — related

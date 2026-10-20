@@ -46,3 +46,6 @@ The agenda's mental health priority reports, citing multiple endnoted studies on
 - [Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement](neighborhood-disadvantage-higher-retention-odds.md) — related
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — a narrower finding that bears on this claim
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — a narrower finding that bears on this claim
+- [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — a narrower finding that bears on this claim
+- [Classroom views of greenery improve children's concentration compared with built views or windowless classrooms](green-classroom-views-boost-concentration.md) — a narrower finding that bears on this claim
+- [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim

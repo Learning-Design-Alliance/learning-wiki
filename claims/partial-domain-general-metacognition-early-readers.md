@@ -65,3 +65,5 @@ Task-level comparison of metacognitive efficiency across the three analysed task
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
 - [Metacognitive sensitivity increases with age between 5 and 8 years, similarly across number and emotion domains](metacognitive-sensitivity-increases-age-5-to-8.md) — related
+- [Metacognitive sensitivity is domain-specific in early childhood: number-domain and emotion-domain measures are uncorrelated](metacognition-domain-specific-early-childhood.md) — reports the opposite
+- [Memory metacognitive efficiency correlates with Wechsler Memory Scale scores, but perceptual metacognition does not](memory-metacognition-correlates-with-wms-scores.md) — related

@@ -67,3 +67,5 @@ Correlational analysis of transfer-problem scores with strategy use showed "a st
 
 ## Related Claims
 - [ABM students engage more frequently in embodied reasoning strategies—first-to-third-person perspective shifts, causal inference making, and gestures—than video students, who rely more on third-person perspectives and information retrieval](abm-students-more-embodied-reasoning-strategies.md) — related
+- [Undergraduate students learning nanoscience with agent-based models show greater gains in explanatory knowledge than students learning with visualization videos](abm-greater-explanatory-knowledge-gains-nanoscience.md) — related
+- [The agent-based model group outperforms the visualization video group on transfer problems applying size-dependent properties to novel contexts](abm-outperforms-video-transfer-problems.md) — related

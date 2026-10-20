@@ -51,3 +51,5 @@ The review-style article attributes this position to Peter Reason (1994) and his
 - Writing Program Administrators' responses to conflict are frequently somatic, with conflict becoming a physical trope expressed as illness — related
 - [Somatically informed dance teachers use six facilitation strategies to deepen movement sensation](somatically-informed-teachers-six-movement-awareness-strategies.md) — related
 - [Students who got stuck on the desk-scale number line proactively returned to the body-scale number line to validate their answers, achieving perspectival mutuality](returning-to-bnl-perspectival-mutuality.md) — a narrower finding that bears on this claim
+- [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
+- [Walking the body-scale number line disrupted students' prior misconceptions and erroneous rules, which resurfaced when they returned to the desk-scale number line](walking-disrupts-misconceptions-which-resurface.md) — a narrower finding that bears on this claim

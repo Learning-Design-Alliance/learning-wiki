@@ -49,3 +49,6 @@ The report asserts, citing Priniski et al., that purpose fosters meaning in lear
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — a narrower finding that bears on this claim
 - [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related
+- [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — a broader claim this one bears on
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
+- [Students use strategies to regulate their own motivation and affect](students-regulate-motivation-affect-strategies.md) — related

@@ -52,3 +52,6 @@ Randomized field trial by McMaster et al. (2005) with 41 first-grade nonresponde
 - [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
 - [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — related
 - [Early literacy intervention reduced the proportion of nonresponders to 7.05% versus 25.35% among controls](intervention-reduces-nonresponder-rate.md)
+- [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
+- [Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders](pals-mathes-babyak-positive-comprehension-effect.md) — related
+- [PALS shows strong evidence of positive effects on first-grade literacy, with an average effect size of +0.23 across three studies](pals-strong-evidence-first-grade-literacy-es-023.md) — related

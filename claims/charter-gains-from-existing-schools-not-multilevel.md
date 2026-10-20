@@ -66,3 +66,4 @@ School-level analysis by grade configuration finds stronger charter advantages i
 - [Charter elementary schools show stronger reading growth while multi-level charter schools show significantly weaker growth in both subjects](pa-charter-impact-by-grade-configuration.md) — related
 - [Chicago multi-grade charter high schools appear to produce substantial positive effects on ACT scores](chicago-multigrade-charter-high-schools-act-gains.md) — reports the opposite
 - [Chicago multi-grade charter high schools appear to increase the probability of graduating high school](chicago-multigrade-charter-high-schools-graduation-gains.md) — related
+- [Middle-grade Idaho charter schools show the weakest growth while multi-level charters show the strongest reading growth](idaho-charter-grade-configuration-effects.md) — related

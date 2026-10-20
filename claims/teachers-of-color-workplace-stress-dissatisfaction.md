@@ -48,3 +48,7 @@ Descriptive analysis of teacher satisfaction indicators by race/ethnicity from t
 - [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
 - [Teachers of color are judged more harshly in evaluations: within the same schools, Black teachers were 50 percent more likely than white teachers to receive a low rating.](biased-teacher-evaluations.md) — related
 - All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers — related
+- [Dissatisfaction is the most-cited reason for leaving, cited by 55% of profession-leavers and 66% of school-movers](dissatisfaction-top-reason-for-turnover.md) — related
+- [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — related
+- [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
+- [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related

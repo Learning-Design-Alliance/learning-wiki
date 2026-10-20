@@ -47,3 +47,6 @@ Qualitative open coding of seven interviews (October-December 2024) with public 
 - [Existing MLL-focused edtech overwhelmingly offers English and Spanish, with a third offering only those two languages](mll-edtech-landscape-english-spanish-dominant.md) — related
 - Most research articles on technology for young multilingual learners did not evaluate impacts on learning outcomes — related
 - Research on technology for young multilingual learners concentrates on literacy, with few studies in science, mathematics, or social studies — related
+- [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
+- [Multidisciplinary teams often provide home language support and delay referral to rule out lack of opportunity to learn before evaluating ML children](home-language-support-rules-out-opportunity.md) — related
+- [Existing ML educational tools rarely integrate intermodal transfer, computational thinking, and explanatory thinking in one resource](ml-tools-rarely-integrate-three-didactic-facets.md) — related

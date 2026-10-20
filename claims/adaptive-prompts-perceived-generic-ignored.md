@@ -43,4 +43,4 @@ Qualitative analysis of students' open-ended answers about the collaboration sup
 
 
 ## Related Claims
--
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related

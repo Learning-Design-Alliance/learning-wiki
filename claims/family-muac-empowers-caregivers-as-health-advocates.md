@@ -49,3 +49,4 @@ Theme from caregiver focus groups: some caregivers were recognized as community 
 - [Inconsistent MUAC measurements, negative social influences, and phone sharing compromised uptake, especially among low interactors](family-muac-uptake-barriers.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
 - Program participation benefited participants' family roles and intergenerational communication, including parenting, advising relatives on health, and reduced reliance on children as translators — related
+- [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related

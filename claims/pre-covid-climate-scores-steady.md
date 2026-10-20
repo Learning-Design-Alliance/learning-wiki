@@ -46,3 +46,4 @@ Longitudinal analysis of school climate survey scores in the same Pennsylvania s
 - [The U.S. Bureau of Labor estimates 567,000 fewer teachers in public schools in 2022 than prior to the COVID-19 pandemic](bls-estimates-567000-fewer-public-school-teachers-2022.md) — related
 - [Students and teachers reported more positive school climate perceptions in 2020/21 during hybrid and remote learning than in 2018/19 and 2021/22](pandemic-year-climate-positive-bump-pennsylvania.md) — related
 - [No evidence of a significant decline in school climate scores between 2018/19 and 2021/22 in the Pennsylvania sample](no-lasting-pandemic-climate-decline.md) — related
+- [Students' perceptions of their classes and schools matter more for attendance in post-pandemic years than before the pandemic](student-perceptions-attendance-post-pandemic.md) — related

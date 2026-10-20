@@ -48,3 +48,4 @@ The survey study states: "This study also analyzed age, gender, and online learn
 - [Demographic characteristics (gender, age, race, major) showed no significant association with lower digital distraction in the rule-mining profiles](demographics-not-associated-lower-distraction.md)
 - [Gender differences in AI perception scores appear only in the overall score and attitudes dimension, with males scoring higher](gender-differences-ai-perceptions-limited-dimensions.md)
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md)
+- [Pre-experimental knowledge and education level relate to specific knowledge categories](prior-knowledge-education-relate-knowledge-categories.md) — related

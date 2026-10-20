@@ -44,3 +44,6 @@ Survey of 524 teachers in a Midwestern state with recent dyslexia legislation, a
 
 ## Related Claims
 - [Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not](training-confidence-predict-dyslexia-knowledge-not-experience.md) — related
+- [Teachers' dyslexia knowledge differs depending on whether an item presents a term or an explanation of the term](dyslexia-knowledge-term-versus-explanation-items.md) — related
+- [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md) — related
+- [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related

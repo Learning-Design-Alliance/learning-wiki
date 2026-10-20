@@ -49,3 +49,4 @@ Descriptive analysis of post-interaction questionnaires and qualitative feedback
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed](amico-pilot-identity-transparency-accepted.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
+- [Students in MAIC tend to prefer the passive continuous mode over interactive mode](students-prefer-continuous-mode.md) — related

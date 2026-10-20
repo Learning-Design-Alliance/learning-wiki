@@ -65,3 +65,7 @@ Qualitative case study of two Japanese adult EFL learners using reflective journ
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
 - [A 15-week extensive reading course increased Japanese EFL learners' feelings of comfort with foreign-language reading (r = .54)](er-increased-comfort-efl-reading-attitude.md) — related
 - [A unique form of anxiety experienced in response to learning or using an L2 was identified in the mid-1980s](fla-identified-mid-1980s.md) — related
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
+- [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
+- [Extensive reading reduced Japanese EFL learners' anxiety about foreign-language reading (r = .34)](er-reduced-anxiety-efl-reading-attitude.md) — related
+- [Extensive reading produced no measurable change in the perceived Practical Value of foreign-language reading (r = .09)](er-no-change-practical-value-attitude.md) — related

@@ -50,3 +50,6 @@ Mann-Whitney U comparison of post-intervention cognitive load in the cluster-ran
 - [ADA produces directional but non-significant trends toward more positive-activating and less negative-deactivating emotions versus conventional materials](ada-emotions-directional-non-significant.md) — related
 - [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related
 - [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](ada-significantly-raises-situational-interest.md) — related
+- [Learning performance improved over time and differed by group, but ADA showed no significant group-by-time interaction advantage over conventional materials](ada-no-significant-performance-interaction.md) — related
+- [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related
+- [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](videos-and-ai-chatbots-complementary-functions.md) — related

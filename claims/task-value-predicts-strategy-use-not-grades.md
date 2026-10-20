@@ -70,3 +70,5 @@ In the same regression set predicting teacher-assigned grades, "task value indic
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
 - [Math self-concept is a stronger predictor of math achievement, whereas value beliefs are stronger predictors of self-reported effort](self-concept-predicts-achievement-value-predicts-effort.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
+- [Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males](cognitive-strategy-use-varies-by-subject-area.md) — related

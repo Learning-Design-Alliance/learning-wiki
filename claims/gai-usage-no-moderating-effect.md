@@ -46,3 +46,5 @@ Subgroup analysis comparing GAI-related tools (k = 21) with GAI-unrelated tools 
 - [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](arvr-largest-effect-ai-application-type.md) — related
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
+- [AI-enabled personalized STEM education yields a statistically significant overall effect of g = 0.455, which its authors class as small, compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — related
+- [Sample size category (21–40 vs. >40 participants) does not significantly moderate GenAI writing effects](sample-size-nonsignificant-moderator-genai-writing.md) — related

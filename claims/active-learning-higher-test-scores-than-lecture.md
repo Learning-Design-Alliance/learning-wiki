@@ -45,3 +45,10 @@ Fixed-effects regression (model 2) on pooled data from a randomized crossover ex
 
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Active Learning Lower Feeling Of Learning](active-learning-lower-feeling-of-learning.md)
+- [Perceived instructor fluency, not instruction type, predicted students' feeling of learning (0.51 SD, P < 0.001)](perceived-instructor-fluency-predicts-feeling-of-learning.md) — related
+- [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
+- [High school students taught with self-study followed by discussion achieved higher immediate retention and near-transfer scores than those taught with lecture followed by discussion](self-study-discussion-immediate-retention-transfer-high-school.md) — related
+- [Interviewed students described active classrooms as disjointed and frustrating and preferred the fluent passive lecture](interviews-active-classrooms-disjointed-frustrating.md) — related
+- [Wireless keypads with immediate-response questions convert a passive lecture audience into active learners by providing rapid feedback](wireless-keypads-convert-passive-audience-to-active-learners.md) — related
+- [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
+- [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related

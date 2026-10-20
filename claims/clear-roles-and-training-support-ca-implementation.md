@@ -55,3 +55,4 @@ Cross-case qualitative finding (RQ1-3) from documents, interviews, and walkthrou
 - [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
 - [High-integrity CoBi implementation requires significant teacher professional learning, and teachers adapt the system in diverse ways](cobi-requires-professional-learning-for-integrity.md) — related
 - [AI integration shifted staff roles from direct instruction to facilitation and increased workload](ai-integration-shifted-staff-roles-facilitation.md) — reports the opposite
+- [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related

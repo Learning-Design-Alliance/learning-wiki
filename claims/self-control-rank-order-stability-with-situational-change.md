@@ -46,3 +46,4 @@ Descriptive stability statistics from Study 2's summary correlations; Study 1 re
 - [Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics](negative-life-events-predict-self-control-decreases.md) — a narrower finding that bears on this claim
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
 - [The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events](stress-self-control-vicious-cycle-hypothesis.md) — related
+- [Perceived stress mediates the effect of negative life events on self-control decreases when measured at temporally separated occasions (Study 3)](perceived-stress-mediation-study3.md) — related

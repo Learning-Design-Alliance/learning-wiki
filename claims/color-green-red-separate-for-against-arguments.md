@@ -45,3 +45,4 @@ Production study of 20 diagrams: color use to categorize for/against arguments w
 ## Related Claims
 - [Readers' judgment explanations support a cautious hierarchy of perceptual cues: content, then color, then space, then graphic features](cue-hierarchy-content-color-space-graphic.md) — related
 - [Readers judge a diagram's argumentative position above chance in all conditions except when both text and color are absent, and deleting graphics is more detrimental than deleting text](reading-position-judgments-cue-conditions.md) — related
+- [Producers signal their own argumentative position with arrows pointing toward their own arguments and more boxes around own arguments](arrows-and-boxes-signal-own-position.md) — related

@@ -47,3 +47,4 @@ CSEM analysis by subject, grade, decile score group, and term (Figure 4.3, Table
 - [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — a broader claim this one bears on
 - [DC estimates tend to be lowest when the cut score is set at the peak of the score distribution, where inconsistent decisions are most likely](dc-lowest-at-score-distribution-peak.md) — related
 - [Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability](spanish-rit-scores-increase-by-grade.md) — related
+- [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related

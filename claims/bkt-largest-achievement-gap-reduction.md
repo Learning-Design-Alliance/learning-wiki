@@ -56,3 +56,6 @@ Descriptive gap analysis in the N=113 study defining the test gap as the differe
 - [No significant differences in posttest rule accuracy across scaffolding conditions](no-rule-accuracy-difference-across-conditions.md) — related
 - [Adaptive task difficulty in an ITS did not improve second-graders' mathematics posttest performance compared with an identical non-adaptive ITS](task-difficulty-adaptation-no-learning-benefit-second-grade.md) — related
 - [Study performance moderated the training effect: high-achieving students benefited at posttest, low performers did not](study-performance-moderates-training-effect.md) — related
+- [Pretest accuracy moderated the training effect for typical full-fledged arguments: students with high pretest scores benefited most](pretest-accuracy-moderates-typical-argument-training.md) — related
+- [Scaffolding mitigated the limiting effect of low prior knowledge: prior knowledge predicted posttest irrelevant-evidence reasoning only under the control condition](scaffolds-mitigate-prior-knowledge-limit.md) — related
+- [Teacher-judged logical reasoning combined with prior knowledge to predict learning only under the control condition; scaffolding almost fully diminished the disadvantage of lower logical reasoning](scaffolds-diminish-logical-reasoning-disadvantage.md) — related

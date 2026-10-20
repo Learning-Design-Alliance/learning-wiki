@@ -47,3 +47,4 @@ Curriculum analysis of a random 43-page sample (851 pages total) of Holt Earth S
 - [Holt Earth Science inquiry tasks emphasize making multiple observations and developing theories about mechanisms but omit several authentic scientific inquiry features](holt-earth-science-missing-authentic-inquiry-features.md) — related
 - Emancipating problem solvers tend toward skeptical, inductive, critical thinking while technical solvers tend toward pre-determined, deductive methods — related
 - [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](spatial-curriculum-transfers-to-verbal-reasoning.md) — related
+- [Forestructures of understanding are associated with the majority of several key authentic inquiry features, up to 100% for complex transformation of observation and developing theories about mechanisms](forestructures-associated-authentic-features.md) — related

@@ -42,3 +42,4 @@ Cluster randomized controlled trial in central Florida (2007–08 and 2008–09)
 
 ## Related Claims
 - [The effect of GEMS® Space Science Sequence on the Space Science Content test is smaller and not statistically significant at the five-month follow-up](gems-space-science-followup-effect-nonsignificant.md) — related
+- [The WWC rates GEMS® Space Science Sequence as having potentially positive effects on general science achievement, with a small extent of evidence](gems-space-science-wwc-potentially-positive-rating.md) — a broader claim this one bears on

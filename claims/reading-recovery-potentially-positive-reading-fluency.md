@@ -71,3 +71,7 @@ Table 1 reports a "Potentially positive effects" rating for reading fluency base
 - [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — related
 - [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related
 - Reading Recovery shows an average effect size of +0.43 across four qualifying studies, earning a Strong evidence rating — related
+- [Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention](reading-recovery-uncertain-longterm-academic-achievement.md) — related
+- [Failure Free Reading shows no discernible effects on reading fluency](failure-free-reading-no-discernible-effects-fluency.md) — related
+- [Across two randomized studies, Air Reading shows a weighted average effect size of +0.20 on reading achievement, meeting the Strong standard](air-reading-weighted-average-effect-020.md) — related
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related

@@ -45,3 +45,5 @@ Simulation result from the structural model's baseline thought experiment: paren
 ## Related Claims
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
 - [Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production](younger-children-hurt-more-by-closures.md) — related
+- [Average child welfare loss from the schooling and income shock is −0.75% in consumption-equivalent terms, with 87% attributed to the school closures themselves](welfare-loss-consumption-equivalent-075-percent.md) — related
+- [Model simulations imply Covid-19 school closures plus recession raise the future share of children without a high school degree by 3.8% and reduce the college-degree share by 2.7%](covid-school-closure-model-attainment-losses.md) — related

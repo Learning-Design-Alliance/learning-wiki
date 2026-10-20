@@ -46,3 +46,4 @@ The review reports that the RANCH cross-sectional study, often cited only for th
 ## Related Claims
 - [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
 - [Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills](chronic-indoor-classroom-noise-reading-prereading.md) — related
+- [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](meaningful-speech-impairs-prose-memory-teenagers.md) — related

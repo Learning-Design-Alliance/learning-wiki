@@ -50,3 +50,4 @@ Analysis of SBAC ELA and math gains by number of teacher-completed PLI PD classe
 - [PLI was associated with positive SBAC gains for African American, Hispanic, and Asian elementary students and no negative impact on any ethnic group](pli-gains-african-american-hispanic-asian-students.md) — related
 - [PLI students outscored non-PLI peers on adjusted SBAC ELA and math assessments in most tested elementary and middle grades](pli-higher-adjusted-sbac-ela-math.md) — related
 - [Principals' access to professional development is positively related to student gains in both ELA and mathematics, with the strongest and most consistent relationships in mathematics](principal-pd-access-student-achievement.md) — related
+- [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) — related

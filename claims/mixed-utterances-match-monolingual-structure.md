@@ -46,3 +46,5 @@ Longitudinal study of five Swedish-French/Italian bilingual children aged 2-4, c
 - [The Ivy Hypothesis differs from the Dominant Language Hypothesis and Bilingual Bootstrapping Hypothesis in developmental scope and hierarchical prediction](ivy-hypothesis-differs-from-prior-accounts.md) — related
 - [Code-mixing decreases and ceases as the weaker language syntactic structure develops to CP level](mixing-ceases-when-cp-acquired-in-weaker-language.md) — related
 - [Vocabulary is poorer in the weaker language, with roughly one-third the word types of the stronger language](vocabulary-poorer-in-weaker-language.md) — related
+- [Children with uneven bilingual development prefer the stronger language and mix sentence-internally mainly in weaker-language interactions](stronger-language-preference-and-mixing-asymmetry.md) — related
+- [The amount of input in each language is related to syntactic development and language dominance](input-amount-relates-to-syntactic-development.md) — related

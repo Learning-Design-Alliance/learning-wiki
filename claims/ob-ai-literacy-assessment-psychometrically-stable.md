@@ -45,3 +45,5 @@ Rasch (1PL) analysis of the objective-based assessment (N = 288) found high inte
 - [Teachers' self-reported AI literacy correlates only weakly with their objectively measured performance (r = 0.07–0.24)](weak-sr-ob-correlation-ai-literacy.md) — related
 - Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — a broader claim this one bears on
+- [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
+- [A large-scale long-term study examined the measurement stability of Rasch measurement scales that had been in place for almost 40 years](long-term-study-rasch-scale-stability-almost-40-years.md) — related

@@ -67,3 +67,5 @@ In an extended student-class experiment comparing text-only, voice, diagram, and
 - [Dual coding theory](../theories/dual-coding-theory.md) — the theoretical framework underlying Alty's media experiments
 - [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows](expertise-reversal-effect.md) — related
 - [MLM-script presentations fall between the other two groups: above the Textbook group but below the MLM group, as multimedia learning theory predicts](mlm-script-intermediate-between-mlm-and-textbook.md) — related
+- [Massa and Mayer's three experiments found no support for matching instruction to visualizer–verbalizer preferences](massa-mayer-no-meshing-support.md) — related
+- [Study preferences exist and show some stability, but this alone does not justify learning-styles assessment in education](study-preferences-exist-but-insufficient.md) — related

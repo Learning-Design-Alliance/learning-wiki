@@ -67,3 +67,5 @@ Study 1 t-test on the three-item enjoyment measure at follow-up showed "The Chat
 ## Related Claims
 - [In Study 1, university students using ChatTutor scored significantly higher than teaching-as-usual students on a delayed conceptual knowledge test four weeks after the lesson, but did not differ significantly from ChatGPT students](chattutor-delayed-conceptual-knowledge-study1.md) — related
 - [In Study 1, ChatTutor students answered significantly more new follow-up conceptual knowledge items correctly than teaching-as-usual students, controlling for the testing effect](chattutor-new-items-testing-effect-study1.md) — related
+- [In Study 1, the three conditions did not differ significantly on the immediate post-test of conceptual knowledge](chattutor-immediate-posttest-null-study1.md) — related
+- [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related

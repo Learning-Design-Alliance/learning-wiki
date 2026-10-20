@@ -49,3 +49,6 @@ Subgroup analysis across school levels within the meta-analysis of 99 effect siz
 - [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](arvr-largest-effect-ai-application-type.md) — related
 - [GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes](gai-usage-no-moderating-effect.md) — related
 - [Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)](hybrid-learning-models-outperform-fully-automated.md) — related
+- [Coaching effects do not differ significantly across school levels, and in-person versus virtual delivery shows no significant difference](coaching-no-school-level-or-mode-differences.md) — related
+- [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related
+- [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — reports the opposite

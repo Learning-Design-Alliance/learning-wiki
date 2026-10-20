@@ -44,3 +44,6 @@ The editorial's narrative overview of the developmental literature, citing Fuste
 - [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related
 - [Left ventrolateral prefrontal cortex activation shows linear age-related increases during reappraisal](left-vlpfc-linear-age-increase-reappraisal.md) — related
 - [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](developmental-capacity-gain-primary.md) — related
+- [Earlier studies suggested mature active-learning patterns emerge only in late childhood, but the article attributes this to paradigm limitations](late-emergence-findings-paradigm-limited.md) — related
+- [In the one longitudinal fMRI study, dorsolateral prefrontal engagement reached adult levels by adolescence while dorsal anterior cingulate engagement continued increasing and mediated behavioral improvement](dlpfc-adult-by-adolescence-dacc-mediation.md) — related
+- [Task-switching ability matures earlier than task maintenance and selection abilities in childhood](switching-matures-earlier-than-maintenance.md) — related

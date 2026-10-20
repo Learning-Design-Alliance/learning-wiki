@@ -53,3 +53,7 @@ A quasi-experiment in a courseware project compared two classes: one randomly as
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
 - [Project-based and experiential learning approaches are reported as most effective for AI literacy education, and early exposure enhances learners' self-efficacy](early-exposure-enhances-ai-self-efficacy.md) — related
 - [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](creative-inquiry-course-creative-self-efficacy-increase.md) — related
+- [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
+- [GCLA use enhances higher-order thinking skills—critical thinking, problem-solving, and creativity—compared with traditional ChatGPT use](gcla-improves-hots.md) — related
+- [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — reports the opposite
+- [Individual factors supportive of adolescent creativity include openness to experience, intrinsic motivation, creative self-efficacy, and external attributions for adversity](individual-supportive-factors-adolescent-creativity.md) — related

@@ -49,3 +49,5 @@ Randomized comparison in Gale (2006) of Lexia Early Reading versus Earobics Step
 - [Subgroup advantages for low performers and Title I students exceed full-sample effects in two qualifying studies](lexia-subgroup-advantages-low-performers-title-i.md) — related
 - [Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations](lexia-versus-control-kindergarten-alphabetics.md) — related
 - Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls — related
+- [Earobics® has potentially positive effects on reading fluency, with no statistically significant fluency findings](earobics-potentially-positive-reading-fluency.md) — related
+- [In a Los Angeles RCT, Earobics® plus Open Court improved phonological awareness but not letter knowledge, phonics, or fluency](earobics-cognitive-concepts-2003-phonological-awareness-gains.md) — related

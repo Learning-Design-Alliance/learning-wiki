@@ -43,3 +43,6 @@ Narrative review attribution, not this review's own synthesis: the review report
 
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Intelligent tutoring systems can improve learning outcomes, particularly with immediate actionable feedback](its-improve-learning-outcomes-with-actionable-feedback.md) — related
+- [AI-supported adaptive systems are reported to enhance adult learner engagement, motivation, and outcomes when aligned with learner goals and prior knowledge](ai-adaptive-systems-enhance-adult-engagement.md) — related
+- [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related

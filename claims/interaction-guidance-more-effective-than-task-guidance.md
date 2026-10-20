@@ -43,4 +43,5 @@ Editorial summary of the experiment by Zahn, Krauskopf, Hesse & Pea reported in 
 
 
 ## Related Claims
--
+- [Teacher guidance distribution tracked perceived willingness to collaborate, not group outcome level or prior science competence](guidance-follows-willingness-not-outcome.md) — related
+- [Collaborative knowledge construction episodes are significantly longer in the conceptual physics task but almost three times more frequent in the robotics task](ckc-longer-simsketch-more-frequent-simua.md) — related

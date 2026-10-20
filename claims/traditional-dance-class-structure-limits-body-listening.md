@@ -45,3 +45,4 @@ Theoretical argument opening the article, citing Fortin (2002) on dancers becomi
 ## Related Claims
 - [Somatically informed dance teachers use six facilitation strategies to deepen movement sensation](somatically-informed-teachers-six-movement-awareness-strategies.md) — related
 - Barriers to situated learning fall into three categories: the traditional school system, the traditional educational approach, and teacher training and practice — related
+- [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — related

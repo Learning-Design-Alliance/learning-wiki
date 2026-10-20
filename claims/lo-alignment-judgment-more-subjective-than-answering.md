@@ -65,3 +65,4 @@ Average pairwise Cohen's kappa with human judges on LO alignment was 0.65 (SE = 
 - [Phi-2's answers to its own generated MCQs align with human experts at least as strongly as the experts agree with each other](phi2-answers-align-with-human-experts.md) — related
 - [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
 - [Student-perceived curricular alignment did not differ between AI and NLE MCQs or among ChatGPT, Gemini and NLE](perceived-alignment-does-not-differ-ai-vs-nle.md) — related
+- [Inter-annotator agreement was moderate (combined mean Fleiss's κ of 0.62 across 23 groups), yet most students reported having reached consensus](moderate-kappa-versus-perceived-consensus-gap.md) — related

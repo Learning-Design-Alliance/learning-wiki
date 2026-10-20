@@ -48,3 +48,4 @@ Multiple regression with traditional game genres predicting SPSIC scores (R=.344
 - [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
 - [British children spend more daily time on videogames while Turkish children spend more on traditional games](cross-cultural-game-time-differences-children.md) — related
 - [Teaching Games for Understanding improves tactical decision-making more than traditional physical education instruction.](teaching-games-for-understanding-improves-tactical-decision-making.md) — related
+- [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](girls-higher-spsic-turkish-not-british.md) — related

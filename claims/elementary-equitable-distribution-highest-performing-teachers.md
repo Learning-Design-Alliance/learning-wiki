@@ -49,3 +49,4 @@ Same district-level observational analysis (elementary panel, N=5,812 teachers a
 - Main results are robust to grouping schools into four poverty quartiles instead of five quintiles — related
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](elementary-underrepresentation-four-of-eight-districts.md) — related
 - [Across ten districts combined, high-poverty middle schools have significantly fewer highest-performing teachers than low-poverty middle schools](high-poverty-middle-schools-underrepresented-highest-performing-teachers.md) — related
+- [Mentoring experiences did not differ statistically significantly across districts with different poverty, achievement, or rurality levels](mentoring-did-not-vary-by-district-characteristics.md) — related

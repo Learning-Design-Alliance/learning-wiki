@@ -47,3 +47,4 @@ Theoretical argument in the formalization section: the article argues the compet
 - [Stronger problem-solving capability predicts lower misconception faithfulness: flip rate under generic feedback correlates negatively with SFS (Pearson r = -0.94, p = 0.002)](model-capability-negatively-correlates-sfs.md) — related
 - [Multi-turn reflective interaction does not restore selective updating and destabilizes weaker simulators](multi-turn-reflection-does-not-restore-sfs.md) — related
 - [Chain-of-Thought rationale quality shows no direct correlation with the accuracy of simulated student responses](cot-rationale-quality-no-correlation-simulated-accuracy.md) — related
+- [EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction](educasim-llm-oracle-multi-agent-speaker-selection.md) — related

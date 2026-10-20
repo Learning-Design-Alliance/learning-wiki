@@ -48,3 +48,4 @@ Survey item on social setting of LLM-based learning among 678 LLM learners. "An 
 - [Role framing shifts toward non-use in team contexts, with non-use more than doubling](role-framing-shifts-toward-non-use-in-teams.md) — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)
+- [The study examined how LLMs affected group dynamics, idea generation, consensus building, and overall productivity in team-based projects](llm-effects-on-group-dynamics-idea-generation-consensus-productivity.md) — related

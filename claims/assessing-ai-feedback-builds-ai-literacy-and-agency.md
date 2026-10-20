@@ -46,4 +46,8 @@ Thematic coding of the stratified sub-sample's reflections; students also deline
 - [Digital Literacy](../learner-variables/digital-literacy.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — possibly the same claim (merge candidate)
+- [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related

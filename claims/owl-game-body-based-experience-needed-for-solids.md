@@ -70,3 +70,4 @@ Observation of the researcher's intervention during the owl game: the boys touch
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — the general claim this finding bears on, with the studies behind it
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [A teacher's awareness of why a learning object must be treated in accordance with variation theory and embodiment promotes a more constructive and effective way to direct children's learning](variation-embodiment-awareness-promotes-constructive-teaching-montessori.md) — a broader claim this one bears on
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — reports the opposite

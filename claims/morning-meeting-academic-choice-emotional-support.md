@@ -45,3 +45,4 @@ Structural path models conducted in the context of a randomized controlled trial
 ## Related Claims
 - [Teachers' use of Academic Choice relates to higher levels of instructional interactions in grade 3–5 classrooms](academic-choice-instructional-interactions.md) — related
 - [Better emotional scaffolding is associated with higher ECERS-R Interaction scores](emotional-scaffolding-associated-with-ecers-interactions.md) — related
+- [Baseline interaction quality moderates component-outcome relations, with strongest relations for teachers with the lowest baseline quality](baseline-quality-moderates-component-relations.md) — related

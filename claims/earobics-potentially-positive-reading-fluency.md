@@ -49,3 +49,5 @@ WWC synthesis of fluency findings from Cognitive Concepts (2003) and Gale (2006)
 ## Related Claims
 - [Read Naturally® shows potentially positive effects on writing for students with learning disabilities, with a substantively important but non-significant effect size on the WIAT Written Expression subtest](read-naturally-potentially-positive-writing-effects.md) — related
 - [LiPS shows potentially positive effects on reading fluency: authors found significant effects on GORT–III Reading Accuracy and Reading Rate, but WWC analyses did not confirm significance](lips-reading-fluency-potentially-positive.md) — related
+- [The WWC rated Waterford Early Reading Program™ as having potentially positive effects on alphabetics, based on a substantively important average effect size with no statistically significant individual outcomes](werp-potentially-positive-alphabetics.md) — a broader claim this one bears on
+- [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — related

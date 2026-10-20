@@ -42,3 +42,6 @@ PROCESS macro Model 4 mediation analysis with 5,000 bootstrap samples, controlli
 
 ## Related Claims
 - [Career adaptability partially mediates the negative effect of AI anxiety on career decisions, accounting for 63.35% of the total effect](career-adaptability-mediation-ai-anxiety-career-decisions.md) — related
+- [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
+- [Career adapt-abilities significantly and negatively predict AI anxiety among English majors](career-adapt-abilities-negatively-predict-ai-anxiety-english-majors.md) — related
+- [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related

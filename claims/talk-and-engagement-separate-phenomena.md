@@ -43,4 +43,5 @@ Pearson partial correlation analysis in the same sample; the printed coefficient
 
 
 ## Related Claims
--
+- [QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition](qcge-dimensions-weak-intercorrelations-condition-null.md) — related
+- [High internal behavioral engagement without classroom talk does not guarantee achievement: the diligent profile ranked fourth](engagement-without-talk-no-guarantee.md) — related

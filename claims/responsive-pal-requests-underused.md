@@ -43,4 +43,6 @@ A secondary log analysis of student requests in the responsive condition of the 
 
 
 ## Related Claims
--
+- [A responsive PAL does not improve learner attitudes toward the agent, and competency and interaction type show no significant interaction](responsive-pal-no-attitude-benefit-no-interaction.md) — related
+- [A proactive PAL improves learners' recall of the agent's ideas more than a responsive PAL (d = 0.78)](proactive-pal-improves-recall.md) — related
+- [Proactive PALs yielded higher recall than responsive PALs, with the advantage differing by learner academic strength](proactive-pal-higher-recall-than-responsive.md) — related

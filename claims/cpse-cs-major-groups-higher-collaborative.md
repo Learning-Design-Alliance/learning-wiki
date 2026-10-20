@@ -44,3 +44,6 @@ Kruskal-Wallis test on post-collaboration CPSE of 13 participants in three group
 
 ## Related Claims
 - [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — related
+- [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md) — related
+- [Different group compositions adopted different collaboration strategies: homogeneous groups split interface and programming work, while the heterogeneous CS/non-CS pair showed the most divergent behavior patterns](grouping-type-different-collaboration-strategies.md) — related
+- [In the collaborative MIT App Inventor study, significant interaction patterns signified coordination of behavior between team participants, and no lower self-efficacy emerged for non-CS-background participants](coordination-patterns-app-inventor-collaboration.md) — reports the opposite

@@ -59,3 +59,5 @@ Observational comparison in the 2007-08 class: only ~10% of the class attended t
 - [Support measures introduced in 2007-08 raised the level 1 physics passrate by approximately 8%](learning-support-raises-level1-physics-passrate.md) — related
 - [For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best](instructor-quality-matters-with-prior-knowledge.md) — related
 - [Seeking tutoring and attending supplemental instruction sessions are associated with significantly higher academic engagement](tutoring-si-attendance-engage-stem-students.md)
+- [Online students' learning needs centre on course support and communication with tutors and other students](online-students-learning-needs-support-communication.md) — related
+- [Tutoring center visits usually showed no significant difference in individual course performance, and sometimes tutored students performed worse](tutoring-visits-no-course-grade-advantage.md) — reports the opposite

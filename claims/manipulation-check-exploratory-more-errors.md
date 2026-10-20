@@ -44,3 +44,4 @@ Manipulation-check analysis reported at the end of training: the instructional m
 
 ## Related Claims
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
+- [Acute stress impaired cognitive flexibility in men (more perseverative errors than male controls)](acute-stress-impairs-flexibility-men.md) — related

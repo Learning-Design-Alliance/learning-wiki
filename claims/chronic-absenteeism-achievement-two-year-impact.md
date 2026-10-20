@@ -47,3 +47,4 @@ The brief's own description states the study explores "the impact of chronic abs
 - Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — related
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
 - [Excused-unexcused absence distinctions show few outcome differences and delay intervention](excused-unexcused-absence-few-differences.md) — related
+- [Students chronically absent (10%+) in the prior year start the following school year 0.22 to 0.47 SDs lower in mathematics than peers with no prior-year absences](prior-year-chronic-absence-lower-fall-math-achievement.md) — related

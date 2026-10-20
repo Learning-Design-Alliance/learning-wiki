@@ -50,3 +50,4 @@ CHKS survey results for PUSD grades 7, 9, and 11 displayed in Table 2 across 202
 - [School staff reports of mental health communication, emphasis, and referrals increased in DNUSD between 2021/22 and 2022/23](cal-well-dnusd-staff-mental-health-perceptions-increase.md) — related
 - [School-based mental health supports benefit students, but staffing ratios and service availability fall far short of recommendations](school-mental-health-supports-benefits-and-shortages.md) — related
 - National average school support-staff ratios fall far below recommended levels for psychologists, counselors, and social workers — related
+- [Staff agreement that schools provide adequate counseling and support services rose from 59 percent in 2021 to 70 percent in 2023](cal-well-staff-adequate-services-59-to-70-percent.md) — related

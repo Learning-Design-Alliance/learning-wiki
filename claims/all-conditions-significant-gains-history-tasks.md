@@ -66,3 +66,8 @@ Prior-knowledge check: the three conditions were statistically comparable at pre
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
 - [Lessons using contrasts between critical aspects produced greater long-term retention than the other lessons in each learning study cycle, though not significantly so in individual experiments](contrast-lessons-greater-long-term-retention.md) — related
+- [Both instructional conditions produced statistically significant pre-test to post-test gains in NOS and SK views, with larger effect sizes in the experimental group](both-conditions-significant-prepost-gains-larger-experimental-effect-sizes.md) — related
+- [Students in all three conditions learned significantly from the CSCL environment, with significant pretest-to-posttest gains in each condition](all-conditions-learned-from-cscl-environment.md) — possibly the same claim (merge candidate)
+- [The Timeline condition's advantage was concentrated in time-related test items and disappeared in the long run](timeline-advantage-driven-by-time-related-items.md) — related
+- [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md) — related
+- [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related

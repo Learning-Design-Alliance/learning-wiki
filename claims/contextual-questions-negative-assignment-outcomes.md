@@ -44,3 +44,4 @@ Regression analysis of dialogue act counts against normalized assessment scores 
 - [Students' conceptual-question and editing-request LLM usage is positively correlated with exam outcomes in the spring semester](conceptual-questions-editing-positive-exam-outcomes.md) — related
 - [Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores](math-conceptual-questions-negative-a6.md) — a narrower finding that bears on this claim
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
+- [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — a broader claim this one bears on

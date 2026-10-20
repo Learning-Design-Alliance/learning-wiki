@@ -47,3 +47,4 @@ Review coding of social collaboration across the 37 studies. It reports 'Only fi
 - [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](aa-cognitive-challenges-knowledge-and-21st-century-skills.md) — related
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — related
+- [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related

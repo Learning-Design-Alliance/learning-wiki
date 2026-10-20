@@ -46,3 +46,5 @@ Qualitative finding from the authors' three-year coaching study: ongoing profess
 ## Related Claims
 - [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related
 - [A 2007 report on an online peer-assisted learning community asserts, citing no studies, that peer coaching has proved a highly effective form of teacher professional development in the UK, US and other countries since the 1980s](peer-coaching-supports-teacher-professional-development.md) — related
+- [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](wts-local-coach-higher-activity-completion.md) — related
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related

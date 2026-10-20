@@ -50,3 +50,6 @@ The RQ2 MANOVA showed a moderate multivariate complexity effect (η² = 0.11); u
 - [Constantly high task complexity improves delayed posttest performance compared with gradually increasing complexity](constantly-high-complexity-improves-posttest-performance.md) — related
 - [Intrinsic cognitive load is a strong predictor of metacognitive strategy use](icl-predicts-metacognitive-strategy-use.md) — related
 - [Variations in task difficulty are reflected in the intrinsic cognitive load scale, with boredom conditions reporting the lowest ICL](difficulty-variations-reflected-in-icl-scale.md) — related
+- [The interaction of complexity and desirable difficulty does not significantly affect posttest performance](complexity-difficulty-interaction-not-significant-performance.md) — related
+- [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](delayed-assessments-invariant-to-sequence.md) — related
+- [Real-life complex tasks carry high intrinsic cognitive load, requiring new load-management methods](real-life-tasks-high-intrinsic-load-need-management.md) — reports the opposite

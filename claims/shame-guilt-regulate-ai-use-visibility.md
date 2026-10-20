@@ -48,3 +48,4 @@ Interview study of 19 computing students: in the results on hiding behaviors and
 - [Students shame themselves, peers, and in one case a faculty member for using AI](shaming-self-peers-faculty-ai-use.md) — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
+- [Students fear that declaring AI use will lead to lower marks even when permitted, creating a 'Disclosure Trap' that drives AI use underground](disclosure-trap-penalty-for-transparency.md) — a broader claim this one bears on

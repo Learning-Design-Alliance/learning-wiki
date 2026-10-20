@@ -49,3 +49,4 @@ Bivariate correlational analysis in a stratified random sample of 330 urban kind
 - [DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)](dibels-engaged-literacy-learning-canonical.md) — related
 - [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — related
 - [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related
+- [Nonsense Word Fluency adds no unique predictive information about first-grade reading when considered simultaneously with other DIBELS subtests](nwf-no-unique-predictive-contribution.md) — related

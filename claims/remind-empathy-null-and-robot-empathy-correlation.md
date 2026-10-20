@@ -67,3 +67,7 @@ Spearman correlation in the same study between pre-test human-directed and post-
 ## Related Claims
 - [LLM-annotated EPITOME scores show the Non-Empathetic chatbot expresses significantly lower empathy on all three dimensions, while Standard and Empathetic chatbots are not significantly different](llm-epitome-scores-differentiate-nonempathetic.md) — related
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
+- [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
+- [Playing REMind significantly increased children's perceived self-efficacy for defending peers](remind-increased-self-efficacy-for-defending.md) — related
+- [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
+- [After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint](remind-calibrated-bully-outcome-expectations.md) — related

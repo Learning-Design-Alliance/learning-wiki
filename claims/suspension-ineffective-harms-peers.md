@@ -71,3 +71,7 @@ The report's review of research on spillover effects, reporting that one study f
 - [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](suspension-lower-test-scores-days-related.md) — related
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
 - [School exclusionary policies paradoxically worsen dropout, delinquency, and achievement](school-exclusion-paradox-worse-outcomes.md) — a narrower finding that bears on this claim
+- [SEL programs cannot produce meaningful long-term growth in authoritarian, punitive, or exclusionary environments; restorative practices are needed](sel-requires-educative-inclusive-environments.md) — related
+- [Evidence suggests RJ improves school climate, including student connectedness and staff-perceived climate gains](rj-improves-school-climate-evidence-limited.md) — related
+- [Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration](restorative-practice-exposure-improves-achievement-reduces-suspension.md) — related
+- [Elementary schools with high poverty and high suspension rates have higher grade retention odds among similar-achieving students](elementary-school-poverty-suspension-retention-odds.md) — related

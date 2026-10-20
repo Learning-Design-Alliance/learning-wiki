@@ -47,3 +47,4 @@ Structural model evaluation in the PLS-SEM survey of 122 teachers reported R² =
 - [Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)](ai-use-in-green-energy-teaching-predicts-integration-ability.md) — related
 - [Teacher involvement in developing ESD-based teaching materials significantly predicts AI integration ability (β = 0.236, p < 0.05, f² = 0.127)](esd-material-development-predicts-ai-integration.md) — related
 - [The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit](model-explains-variance-in-ai-teaching-innovation-behavior.md) — related
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related

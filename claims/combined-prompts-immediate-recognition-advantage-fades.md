@@ -45,3 +45,6 @@ Mixed ANOVA three-way interaction on recognition scores with printed effect size
 ## Related Claims
 - [Embedded source credibility rating scales during video viewing improve middle-schoolers' source identity recognition, especially at delayed posttest](embedded-rating-scales-improve-source-recognition-videos.md) — related
 - [Students exposed to embedded rating scales mention interviewees' expertise more often in their convincingness justifications](embedded-rating-scales-expertise-justifications.md) — related
+- [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
+- [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](instructional-video-no-effect-source-consideration.md) — related
+- [Embedded rating scales make middle-schoolers more likely to judge the expert (researcher) speaker as the most convincing](embedded-rating-scales-researcher-most-convincing.md) — related

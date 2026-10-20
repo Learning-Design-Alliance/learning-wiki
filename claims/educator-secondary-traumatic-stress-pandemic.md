@@ -67,3 +67,5 @@ The brief asserts that community trauma, including "grief and collective hardshi
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
 - [Participants described significant psychosocial stress related to uncorrected poor vision, with different etiologies for parents, teachers, and students](uncorrected-poor-vision-causes-stress.md) — related
+- [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related
+- [Trauma exposure is widespread among school students and is associated with adverse cognitive, academic, behavioral, and socioemotional outcomes](trauma-exposure-adverse-school-outcomes.md) — related

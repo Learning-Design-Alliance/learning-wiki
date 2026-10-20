@@ -66,3 +66,4 @@ Regions-of-significance analysis (Bauer and Curran) of the interaction, plotted 
 - [Fluency in the Alternative Uses Task was unaffected by stimulus condition and unrelated to selective attention](fluency-unaffected-by-stimulus-condition-and-attention.md)
 - [Children produced more original alternative uses (net of fluency and flexibility) in a low stimulus environment than in a high stimulus environment](low-stimulus-environment-higher-originality-children.md)
 - [Children with better selective attention were more flexible (used more different conceptual categories) in the Alternative Uses Task](selective-attention-predicts-flexibility.md)
+- [The multivariate effect of stimulus condition and selective attention on the combined creativity measures showed a significant condition × selective attention interaction](manova-interaction-combined-creativity-measures.md) — related

@@ -50,3 +50,4 @@ Figure 5 analysis of learning gains by growth period (2014-2015 to 2016-2017) ag
 - [South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year](sc-charter-overall-math-weaker-reading-similar.md) — related
 - [Charter learning gains in each of the three growth periods do not differ statistically from TPS peers](wa-charter-gains-by-growth-period.md) — reports the opposite
 - [Charter school quality varies greatly, and virtual charters perform significantly worse, while charters often increase segregation and underrepresent students with disabilities](charter-variation-segregation-disabilities.md) — related
+- [First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs](idaho-charter-years-of-enrollment-null.md) — reports the opposite

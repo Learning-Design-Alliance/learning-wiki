@@ -48,3 +48,5 @@ Semi-structured crafting interviews with each student at least once per unit. On
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
 - [In fabric manipulation, the algorithmic performance was contingent on repeated combinations of components paired with steps of the craft](fabric-manipulation-algorithm-component-confluence.md) — related
+- [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on
+- [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related

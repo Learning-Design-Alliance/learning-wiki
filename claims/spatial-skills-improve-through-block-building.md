@@ -64,3 +64,4 @@ Boundary conditions and open questions remain. It is not established whether gai
 - [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](nico-nor-math-null-with-item-gains.md) — related
 - [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — related
+- [Tetris cognitive gains mostly appear on tests resembling the game itself, with training studies finding no gains on general cognitive tasks](tetris-gains-test-resemblance-only.md) — related

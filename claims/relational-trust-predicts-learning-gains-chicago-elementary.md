@@ -46,3 +46,4 @@ Overview of a three-year study of reform in 12 Chicago elementary schools drawin
 ## Related Claims
 - [Many Annenberg schools had weak human and social resources, including low trust among teachers, limiting their capacity for school development](annenberg-schools-weak-capacity-low-trust.md) — related
 - [Fewer than 10 percent of elementary schools with a sustained weakness in one essential support showed improvements in student outcomes (attributed to Bryk et al., 2010)](sustained-weakness-one-support-few-improve.md) — a broader claim this one bears on
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — a broader claim this one bears on

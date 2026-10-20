@@ -54,3 +54,5 @@ The report's synthesis of retention studies, summarized in Table 1, compiles des
 - Ohio meets criteria on high-retention teaching pathways and early-career induction with mentoring — a narrower finding that bears on this claim
 - [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — related
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — related
+- [UCLA-CS reports high teacher retention and above-district student and parent satisfaction alongside its academic outcomes](ucla-cs-teacher-retention-and-satisfaction.md) — related
+- [UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years](ucla-impact-ece-50-teachers-87-percent-retained.md) — a narrower finding that bears on this claim

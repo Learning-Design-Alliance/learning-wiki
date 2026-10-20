@@ -77,3 +77,8 @@ The review's conclusion over the 12 included studies, most of which were randomi
 - [Effect sizes across classroom management studies are homogeneous, with no significant moderator variability](homogeneous-effect-sizes-classroom-management.md) — related
 - [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — a narrower finding that bears on this claim
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [More teacher time using A2i software is associated with less classroom time in disruption and discipline events](a2i-use-fewer-disruptions.md) — related
+- [Classroom management interventions in primary education show small but significant average effects (g = 0.22) on academic, behavioral, and social-emotional outcomes but not on motivational outcomes](classroom-management-small-significant-effects-g022.md) — a broader claim this one bears on
+- [Teachers who effectively implement classroom management can engage students in learning activities for more than 90 percent of allocated time](effective-classroom-management-engages-students-over-90-percent-of-time.md) — related
+- [Universal school-based SEL programs improve students' behaviour, with a small and, in recent randomised trials, negligible effect on academic achievement](sel-programs-improve-behavior-and-achievement.md) — related
+- [ISI teachers demonstrate stronger classroom management than control teachers, with more instructional time and fewer disruptions](isi-teachers-stronger-classroom-management.md) — a narrower finding that bears on this claim

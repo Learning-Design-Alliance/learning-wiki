@@ -46,3 +46,4 @@ A Top-1 identification analysis per triad "correctly identified the AI teammate 
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — reports the opposite
 - [Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments](judgment-truth-dissociation-cues.md) — related
 - [Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification](persona-adaptation-perceptible-to-raters.md) — related
+- [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — related

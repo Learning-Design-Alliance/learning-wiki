@@ -78,3 +78,4 @@ PLS-MGA path difference tests (Table 12: H10 difference −0.21, p = .005; H12 d
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — related
 - [No gender differences in writing self-efficacy were found in any included postsecondary study](no-gender-differences-writing-self-efficacy.md) — related
+- [Gender moderates the association between emotion regulation and academic motivation, with a stronger positive association among male students](gender-moderates-emotion-regulation-motivation-association.md) — related

@@ -62,4 +62,5 @@ Same experiment: a MANOVA on unique and duplicated experiment counts showed no s
 
 
 ## Related Claims
--
+- [Hypothesis specificity differed by task type: intermediate participants stated fewer partially-specified hypotheses than abstract participants, but more fully-specified hypotheses than concrete participants](hypothesis-specificity-varies-by-task-type.md) — reports the opposite
+- [Concrete-task participants conducted a significantly lower percentage of exploratory experiments than intermediate-task participants, whose exploratory percentage matched the abstract condition](concrete-task-lower-exploratory-experiments.md) — related

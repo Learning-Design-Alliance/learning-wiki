@@ -55,3 +55,4 @@ The entry reports one year of score averages for one group (Black test-takers) f
 - [Research on minority group testing has focused on test bias, linguistic minorities, and culture-fair tests, rarely on alternative symbolic forms](minority-testing-research-neglects-alternative-symbolic-forms.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
+- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related

@@ -68,3 +68,5 @@ Post hoc pairwise tests following the Kruskal-Wallis analysis in the survey stud
 - [Interviews confirm students use AI across all four challenge domains throughout the migration timeline, including for academic communication support](interviews-confirm-cross-domain-ai-usage.md) — related
 - [Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted](dual-speed-homework-ai-adoption-subjects.md) — related
 - [Most students reported no change in study habits, but students who adapted their study strategies rated GenAI-evaluation assignments as significantly more helpful](study-habit-adapters-rate-genai-grading-helpful.md) — related
+- [Sentiment differs significantly across target audiences, with faculty-targeted guidelines more positive than student-targeted ones](audience-sentiment-difference-faculty-students.md) — related
+- [Prompt-count distributions differ significantly across assignments, with moderate prompting most common and extended prompting (10+) rare except in Algorithms (18.0%)](prompt-count-distributions-differ-across-assignments.md) — related

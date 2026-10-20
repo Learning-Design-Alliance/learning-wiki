@@ -43,4 +43,7 @@ Editorial summary of Gómez, Nussbaum, Weitz, Lopez, Mena and Torres's experimen
 
 
 ## Related Claims
--
+- [Sharing a projected display with multiple mice produced significant collaborative-learning gains for a whole classroom](multiple-mice-shared-display-collaborative-gains.md) — related
+- [Type of interdependence shifts the nature of interactions: no-structure groups show the most cognitive interactions, role groups the most group processing, and reward groups the most off-task behavior](interdependence-type-shifts-interaction-nature.md) — related
+- [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](interdependence-type-no-achievement-effect-asynchronous.md) — related
+- [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related

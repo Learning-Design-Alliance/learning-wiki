@@ -67,3 +67,5 @@ Moderator analysis across six types of computer-based environments in the 29 stu
 - [SRL scaffolds in computer-based learning environments produce a medium, significantly positive effect on academic performance (ES = 0.438)](srl-scaffolds-positive-effect-academic-performance.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
 - [Presence versus absence of individual scaffolding types did not support the added-value hypothesis, but scaffolding combinations partly did](scaffolding-added-value-partly-supported.md) — related
+- [Scaffolds supporting the whole SRL process are more helpful than scaffolds supporting a single phase](whole-process-srl-scaffolding-more-effective.md) — related
+- [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related

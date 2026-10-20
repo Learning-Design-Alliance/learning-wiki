@@ -46,3 +46,5 @@ Classical item analysis of the large-scale field test (552 retained responses af
 - [A 12-item short form of the survey retains acceptable-to-good reliability (alpha = 0.85; test-retest = 0.75)](short-form-survey-acceptable-reliability.md) — related
 - [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
 - [The full survey's test-retest reliability coefficient is 0.79, considered acceptable bordering on good](test-retest-reliability-079-full-survey.md) — related
+- [Self-efficacy measures show high reliability and domain-specific validity](self-efficacy-measures-reliable-domain-specific.md) — a broader claim this one bears on
+- [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related

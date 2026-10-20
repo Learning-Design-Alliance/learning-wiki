@@ -47,3 +47,4 @@ Related-sample Friedman's two-way ANOVA on the aggregated teacher sample (N = 15
 - [Teachers' overall SRL level is significantly associated with their externally assessed reflection level](teacher-srl-level-correlates-reflection-level.md) — related
 - [Teachers' and students' SRL profiles differ more than they are alike, sharing only insufficient reflection practice](teacher-student-srl-profiles-differ-except-reflection.md) — related
 - [Students' baseline SRL profiles show help-seeking as the highest and reflection FOR action as the lowest skill in both cohorts](baseline-srl-help-seeking-highest-reflection-for-action-lowest.md) — related
+- [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related

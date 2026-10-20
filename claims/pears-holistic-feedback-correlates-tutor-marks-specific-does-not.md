@@ -44,3 +44,6 @@ An evaluation study comparing holistic with specific feedback using the PEARS sy
 
 ## Related Claims
 - [Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis](peer-marks-mean-correlation-069-with-teacher-marks.md) — related
+- [An accountability feature allowing students to grade received reviews improved the correlation between expert and peer marks in peerScholar](peerscholar-accountability-improves-expert-peer-correlation.md) — related
+- [Rank-based metrics can be misleading for analytic assessment: systems prompted for holistic scoring achieve strong, sometimes stronger, correlations with analytic scores than when prompted for those aspects](rank-based-metrics-misleading-analytic-assessment.md) — related
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related

@@ -47,3 +47,6 @@ Descriptive analysis with Student's t-test comparing males (n=336) and females (
 - [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](pf-components-map-onto-ef-domains.md) — related
 - [Bilingual effect evidence appears for inhibition and cognitive flexibility but disappears for working memory in children and adolescents](bilingual-effect-inhibition-flexibility-not-working-memory.md) — related
 - [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related
+- [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
+- [Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does](cool-ef-predicts-academic-performance.md) — related
+- [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](ef-academic-performance-small-to-medium-meta-analytic.md) — related

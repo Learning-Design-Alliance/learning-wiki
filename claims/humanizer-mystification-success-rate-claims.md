@@ -63,3 +63,5 @@ MCDA of Website 3, which had the most sophisticated deployment of trust props, i
 ## Related Claims
 - [Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address](humanizer-frontstage-leakage.md) — related
 - [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
+- [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
+- [Humanizer sites frame AI humanization as a rational, ethically defensible response to flawed surveillance and false positives](humanizers-frame-evasion-as-rational-self-defense.md) — related

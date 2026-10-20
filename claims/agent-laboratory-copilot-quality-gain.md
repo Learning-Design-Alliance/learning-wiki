@@ -47,3 +47,5 @@ Industry-reported evaluation of the Agent Laboratory framework (Johns Hopkins Un
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — a broader claim this one bears on
 - [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — a broader claim this one bears on
 - [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — a broader claim this one bears on
+- [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
+- [Human oversight remained necessary alongside AI-based tutoring, especially for misconceptions and advanced topics](human-oversight-necessary-alongside-ai-tutoring.md) — related

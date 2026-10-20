@@ -66,3 +66,5 @@ Grade-moderated transfer from the same summarized laboratory study: third and fo
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
 - [High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test](hh-guidance-beats-ll-cvs-children.md) — related
 - [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md) — related
+- [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
+- [Instruction increased robust CVS use — designing unconfounded experiments plus providing a CVS rationale — in individual interviews](robust-cvs-use-interview-gains.md) — related

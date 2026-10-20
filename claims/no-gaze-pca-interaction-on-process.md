@@ -48,3 +48,5 @@ results show that there were no interactions; therefore, H1c-1 is not supported.
 - [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related
 - [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
 - [Consensus reaching and task division together predict learning gains across conditions](process-codes-predict-learning-gains.md) — related
+- [PCA metacognitive suggestions improve consensus reaching, task division and reciprocal interaction during collaboration](pca-suggestions-improve-consensus-and-task-division.md) — related
+- [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — reports the opposite

@@ -46,3 +46,4 @@ Mann–Whitney U comparison of teams with versus without a t1→t3 perception re
 - [Perception alignment improves mainly in the early weeks and does not consistently decrease through the project](ai-use-perception-alignment-improves-early-then-plateaus.md) — related
 - [Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores](early-ai-use-perception-misalignment-lower-team-scores.md) — related
 - [Prior programming performance moderates the misalignment–performance association, with the cost concentrated in lower-performing teams](prior-performance-moderates-ai-perception-misalignment-cost.md) — related
+- [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related

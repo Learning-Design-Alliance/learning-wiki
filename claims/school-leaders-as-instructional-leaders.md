@@ -48,3 +48,5 @@ A key finding from the report's Key Findings section, one of three themes the au
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — a narrower finding that bears on this claim
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — related
 - [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related
+- [Cross-sector collaboration is less widespread among school leaders than central office administrators but is particularly strong among participants in grant-funded intensive leadership training or principal residency programs](leadership-program-participants-show-strongest-cross-sector-collaboration.md) — related
+- [Leaders at city, central office, and school levels are perceived to play a key role in promoting cross-sector collaboration](leaders-key-to-cross-sector-collaboration.md) — related

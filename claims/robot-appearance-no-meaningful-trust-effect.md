@@ -45,3 +45,6 @@ Bonferroni-adjusted post hoc robot comparisons in the N = 81 repeated-measures e
 ## Related Claims
 - [The interaction between robot appearance and task on trust was only marginal, suggesting appearance may slightly modulate expectations without determining trust](marginal-robot-task-interaction-trust.md) — related
 - [Task type strongly determines trust in educational robots, with highest trust for procedural instruction, moderate trust for teaching, and lowest trust when robots request personal information](task-type-strong-determinant-robot-trust.md) — related
+- [Trust evaluations were strongly and positively correlated across all robot–task combinations, suggesting trust in social robots may be a stable, generalized attitude](trust-stable-generalized-attitude-robots.md) — related
+- [Instructional approaches do not differ significantly in monitoring or reflecting, and omnibus differences in orienting and planning show no significant pairwise differences](no-approach-differences-monitoring-reflecting.md) — related
+- [Hypotheses that specific robot appearances would be trusted more in matching tasks (humanoids for teaching, task-oriented robots for instructions, soft robots for personal disclosure) were not confirmed](appearance-task-matching-hypotheses-not-confirmed.md) — possibly the same claim (merge candidate)

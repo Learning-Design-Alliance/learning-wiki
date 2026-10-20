@@ -66,3 +66,4 @@ Local-cost models showed significant trial-type effects at all ages (e.g., γ = 
 - [Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
 - [Higher inhibition and working-memory scores predict better overall Shape School accuracy at some ages, independent of trial type](gng-nb-main-effects-overall-accuracy.md) — related
 - [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](perseverator-proportion-declines-preschool.md) — related
+- [Executive task accuracy and processing speed improve dramatically with age across the preschool period, with no cohort effect from repeated testing](executive-performance-improves-with-age-no-cohort-effect.md) — related

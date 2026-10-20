@@ -46,3 +46,4 @@ Meta-analytic results: 5 contrasts targeted communication initiated by the child
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — related
 - [Technology-enhanced stories show no significant additional effect on code-related literacy skills](technology-stories-no-code-related-literacy-effect.md) — related
+- [Technology-enhanced stories yield a small but significant additional benefit over traditional story presentations for story comprehension and expressive vocabulary in young children](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) — related

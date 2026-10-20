@@ -52,3 +52,4 @@ Quasi-experimental study (Bacon, 2001b) with 394 students in 11 classrooms in on
 - [The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42](tgfdv-positive-effects-rating.md) — related
 - [In a randomized controlled trial, Too Good for Drugs and Violence produced statistically significant gains in perceptions of social and resistance skills and emotional competence](tgfdv-rct-significant-skill-perceptions.md) — related
 - [Too Good for Drugs shows no discernible effects on student knowledge, attitudes, and values across two randomized controlled trials](too-good-for-drugs-no-discernible-kav-effects.md) — related
+- [Too Good for Violence shows a substantively important but not statistically significant effect on students' knowledge, attitudes, and values](tgv-kav-substantively-important-not-significant.md) — related

@@ -47,3 +47,4 @@ Two-stage multilevel modeling of three waves of data from 164 Head Start childre
 - [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related
 - [Social communication skills uniquely predict teacher-rated kindergarten learning behaviors after accounting for vocabulary](social-communication-uniquely-predicts-kindergarten-learning-behaviors.md) — related
 - [Social communication skills uniquely predict kindergarten executive functions after accounting for vocabulary, which does not predict EF](social-communication-uniquely-predicts-kindergarten-executive-functions.md) — related
+- [Positive preschool interpersonal relationships predict kindergarten academic achievement controlling for initial achievement](preschool-relationships-predict-kindergarten-achievement.md) — related

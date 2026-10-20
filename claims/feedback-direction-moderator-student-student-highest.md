@@ -43,3 +43,4 @@ Mixed-effects moderator analysis by feedback direction (Table 3). Student-to-stu
 
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](automated-ai-assessment-high-impact-moderate-challenge.md) — related
+- [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related

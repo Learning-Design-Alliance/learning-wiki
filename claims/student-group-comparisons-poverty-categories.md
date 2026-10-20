@@ -45,3 +45,4 @@ The guide's student-group section describes visualizations of test counts, media
 ## Related Claims
 - [The dashboard reports median achievement percentiles normed to a nationally representative pre-COVID sample and projected proficiency against state cut scores](dashboard-metrics-percentiles-and-proficiency-projections.md) — related
 - [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — related
+- [The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools](dashboard-sample-seven-million-students-20000-schools.md) — related

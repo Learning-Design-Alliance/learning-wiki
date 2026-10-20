@@ -51,3 +51,4 @@ Review reports Sánchez and Schmitt (2010): 20 Spanish EFL students read the aut
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
 - [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related
 - [Viewing a single full-length L2 TV program results in incidental vocabulary learning at the level of meaning recall and meaning recognition](viewing-full-length-tv-incidental-vocabulary-learning.md) — related
+- [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related

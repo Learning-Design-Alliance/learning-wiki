@@ -43,3 +43,7 @@ Document analysis of 69 publicly available district Portraits (31 from League of
 ## Related Claims
 - [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related
 - Student portfolios are reported to be a useful method for noticing student growth on Portrait of a Graduate competencies — related
+- [Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels](districts-use-varied-pog-assessment-methods.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
+- [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related
+- [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related

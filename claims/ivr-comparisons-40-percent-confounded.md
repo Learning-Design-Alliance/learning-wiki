@@ -46,3 +46,5 @@ Frequency analysis of 50 coded comparisons from the systematic review. A compari
 
 - [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md)
 - [IVR conditions outperformed conventional conditions in only 24% of comparisons, with 54% tied, and the review finds no strong evidence IVR is more effective](no-strong-evidence-ivr-more-effective-stem.md) — related
+- [When activities were not controlled, the confound favored the IVR condition in 14 of 17 comparisons](activity-confounds-favor-ivr-condition.md) — related
+- [Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria](ivr-comparisons-only-26-percent-fully-controlled.md) — related

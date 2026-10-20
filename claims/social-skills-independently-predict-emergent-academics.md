@@ -50,3 +50,7 @@ HLM models with 467 children in 84 classrooms, using the SSRS teacher-rated soci
 - [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
 - [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](attention-problems-predict-poorer-emergent-academics.md) — related
 - [Ethnicity moderates several social-functioning–academic relationships, which are stronger for African American than Caucasian children](ethnicity-moderates-social-academic-relations.md) — related
+- [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
+- [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
+- [Children's positive feelings about school attenuate the relationship between aggression and academic development](feelings-about-school-protective-moderator.md) — related
+- [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related

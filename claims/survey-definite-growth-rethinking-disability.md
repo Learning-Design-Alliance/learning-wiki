@@ -44,3 +44,5 @@ Post-course Qualtrics survey completed by 33 of the 45 course participants, rate
 
 ## Related Claims
 - [Educators in a UDL Math and Design Thinking professional development attributed shifts in their beliefs and practices to empathy, both as a value and as a practice of empathy interviews](empathy-attributed-shifts-beliefs-practices-udl-math-pd.md) — related
+- [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — a broader claim this one bears on
+- [Redesigned PD pairing the Language Storybook and Jonathan and the Sun discussion with tailored facilitation shifted the community toward anti-deficit, transformative perspectives](redesigned-pd-shifted-toward-equity-as-transformation.md) — related

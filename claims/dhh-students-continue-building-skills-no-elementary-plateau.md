@@ -52,3 +52,4 @@ Longitudinal analysis of NWEA MAP Growth data from grades 2 to 8 across seven re
 - Deaf students plateau at fourth-grade reading skill despite prolonged schooling — reports the opposite
 - [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](dhh-growth-trajectories-grades-2-8-study.md) — related
 - [Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8](dhh-students-continue-literacy-growth-into-middle-school.md) — possibly the same claim (merge candidate)
+- [Most adolescents with cochlear implants maintain their reading standing relative to hearing norms from elementary school to high school](ci-students-maintain-reading-standing-over-time.md) — related

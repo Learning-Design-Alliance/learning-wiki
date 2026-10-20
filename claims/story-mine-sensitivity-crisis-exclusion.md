@@ -46,3 +46,4 @@ Exploratory sensitivity analysis in the pilot RCT excluding 2 intervention parti
 - [STORY MINE is rated feasible and acceptable as a supplement to specialized mental health care, with positive user-friendliness ratings](story-mine-feasible-acceptable-pilot.md) — related
 - [Exploratory ITT analyses showed small to medium negative effect estimates favoring control on confidence, hope, self-stigma, and personal recovery](story-mine-negative-exploratory-effects.md) — related
 - [Intervention engagement (narratives consumed) showed no clear association with outcome changes](story-mine-engagement-outcome-null-association.md) — related
+- [Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks](story-mine-low-engagement-unguided.md) — related

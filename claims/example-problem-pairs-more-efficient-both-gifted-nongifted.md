@@ -48,3 +48,4 @@ Quasi-experiment with 126 Dutch primary students quasi-randomly matched by gende
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](example-problem-pairs-raise-perceived-competence.md) — related
 - [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — a broader claim this one bears on
 - [Gifted primary students report higher need for cognition, perceived competence and perceived autonomy than nongifted students](gifted-students-higher-nfc-competence-autonomy.md) — related
+- [Perceived competence predicts isomorphic test performance and perceived autonomy predicts transfer performance](perceived-competence-autonomy-predict-test-performance.md) — related

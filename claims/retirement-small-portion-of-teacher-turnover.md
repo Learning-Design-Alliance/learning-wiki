@@ -47,3 +47,5 @@ Descriptive analysis of SASS/TFS national data on turnover flows. In 1994-1995 a
 - [Nearly three quarters (74%) of teacher turnover between 2020–21 and 2021–22 was voluntary and preretirement](voluntary-preretirement-turnover-74-percent.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](aging-teacher-workforce-retirement-wave.md) — related
+- [Retirements and resignations rose in some districts during the pandemic and leaders expect higher retirement rates next year](pandemic-rising-teacher-retirements-resignations.md) — related
+- [California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning](calsaas-excludes-turnover-retention.md) — related

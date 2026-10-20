@@ -71,3 +71,6 @@ Experiment 3: eight paid volunteers from an introductory college physics course,
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [Proportions of variance explained follow a curvilinear pattern across the six taxonomy levels](curvilinear-variance-pattern-across-taxonomy-levels.md) — related
 - [Kit+TA students spontaneously transferred the TA's hierarchical spatial organization to open-ended post-test answers, unlike Kit-Only students](ta-transfer-spatial-hierarchy-organization.md) — related
+- [Participants in higher hierarchy positions were more active and showed better learning performance than those at lower levels](higher-hierarchy-position-more-active-better-performance.md) — related
+- [Strong acquisition tasks explicating the organization produce better internalization than weak tasks asking only for a structured summary](strong-acquisition-tasks-improve-internalization.md) — related
+- [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — related

@@ -45,3 +45,6 @@ The review reports, citing Wang et al. (2026), that "clear rules strengthened bo
 ## Related Claims
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [In the pooled OLS model of current AI-use intensity, perceived usefulness (β = 0.322) and competence (β = 0.268) are the strongest positive associations, while institutional policy clarity shows no association after adjustment](policy-clarity-not-associated-with-use-intensity.md) — related
+- [Perceived usefulness has the strongest standardized positive association with trust in AI (β = 0.402), with institutional policy clarity positively but more weakly associated (β = 0.223) in the pooled OLS trust model](usefulness-and-policy-clarity-associate-with-trust.md) — related
+- [Perceived clarity of AI rules is significantly dependent on discipline, with the most restrictive subjects also the least clear](rule-clarity-depends-on-discipline.md) — related
+- [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — a broader claim this one bears on

@@ -64,3 +64,6 @@ End-of-year-1 classroom observations in the Kim et al. (2011) randomized trial f
 ## Related Claims
 - [The Pathway to Academic Success Project has potentially positive effects on writing quality for English learners in grades 7-12](pathway-project-potentially-positive-writing-quality.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12](pathway-project-potentially-positive-writing-conventions.md) — related
+- [Classroom observations confirmed that SRI teachers modeled and evaluated strategies more frequently than control teachers](sri-implementation-observations-modeling-evaluation.md) — related
+- [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
+- [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related

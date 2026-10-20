@@ -47,3 +47,6 @@ The authors' account of keypad use in their introductory college physics lecture
 - Computer-based keypad systems permit up to ten alternatives per question and per-answer scoring, unlike optical scanners — related
 - The review reports that formative assessment produces significant and often substantial learning gains, citing Black and Wiliam — a broader claim this one bears on
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
+- [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related

@@ -43,4 +43,6 @@ The chapter classifies help seeking as a behavioral regulation strategy that als
 
 
 ## Related Claims
--
+- [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
+- [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
+- [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related

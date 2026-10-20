@@ -47,3 +47,5 @@ Prevalence analysis across 86 children with ADHD-C assessed on visuospatial WM t
 - [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — related
 - [STM and WM performance is worse in ADHD-C than in ADHD-I, while CE-related performance does not differ between subtypes](adhd-c-worse-stm-wm-than-adhd-i.md) — related
 - [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — related
+- [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
+- [In the ADHD-I restrictive subtype, visuospatial WM impairments are more prevalent than in controls but STM impairments are not](adhd-i-wm-impaired-stm-not-more-common.md) — related

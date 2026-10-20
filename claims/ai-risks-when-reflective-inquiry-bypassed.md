@@ -46,3 +46,8 @@ Theoretical argument in this field-notes article: the authors assert, without re
 - [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — related
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — related
 - Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners](ai-benefits-differ-by-developmental-stage.md) — related
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related

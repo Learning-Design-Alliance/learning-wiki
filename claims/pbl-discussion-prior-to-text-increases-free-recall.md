@@ -44,3 +44,9 @@ Randomized experiment with 48 first-year medical students assigned to discuss ei
 
 ## Related Claims
 - [The PBL assumption that student-generated learning issues guide self-directed learning had never been empirically tested before this study](pbl-learning-issues-assumption-untested.md) — related
+- [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](pbl-recall-benefit-general-not-explanation-specific.md) — related
+- [Prior problem-based discussion does not change the number of inaccurate propositions recalled](pbl-discussion-no-change-in-inaccurate-recall.md) — related
+- [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
+- [Providing explanations during a small-group discussion yields better recall of subsequently studied text one month later than only listening to the discussion](explaining-during-discussion-improves-delayed-recall.md) — related
+- [Cook et al. (2009) found no support for sensing/intuitive style-by-sequence interaction in medical education](cook-medical-education-no-style-interaction.md) — related
+- [Prior-knowledge activation instructions before study had little effect on retention in Experiment 2](prior-knowledge-activation-little-effect-on-retention.md) — reports the opposite

@@ -64,3 +64,10 @@ Experiment 1 repeated measures ANOVA on self-assessed performance showed self-as
 ## Related Claims
 
 - [In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased](exp2-mental-effort-condition-interaction.md)
+- [In Experiment 1, task-selection accuracy during the no-feedback test phase did not differ between feedback and control conditions](exp1-test-phase-task-selection-null.md) — a narrower finding that bears on this claim
+- [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further](apca-improves-self-assessment-accuracy-overconfidence.md) — reports the opposite
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — reports the opposite
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
+- [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](self-assessment-feedback-reduced-learning-phase-task-selection.md) — related
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](exp2-feedback-correct-answers-no-gain.md) — a narrower finding that bears on this claim

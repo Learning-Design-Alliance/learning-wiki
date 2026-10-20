@@ -50,3 +50,4 @@ The summary reports, citing Gray-Lobe, Pathak, and Walters (2023) on universal p
 - [Early childhood education attendance is associated with statistically significant reductions in special education placement and grade retention](ece-reduces-special-education-retention.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — related
 - [High-quality early care is associated with school readiness, math and language gains, and reduced grade repetition and special education placement](high-quality-early-care-school-readiness-benefits.md) — related
+- [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related

@@ -51,3 +51,4 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [Total training hours significantly moderate MBI effects on negative behaviour across all RCTs, with more hours associated with larger reductions](training-dose-moderates-negative-behaviour.md) — related

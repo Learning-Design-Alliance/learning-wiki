@@ -46,3 +46,6 @@ Authors' interpretation (type e) drawn from the think-aloud corpus, applying Csi
 
 - [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](imagined-past-self-greater-entry.md)
 - [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md)
+- [Educators' understanding of UDL shifted from a static framework to a dynamic way of thinking emphasizing moment-to-moment responsiveness to students' access needs](udl-reconceived-moment-to-moment-responsiveness.md) — related
+- [All four participants used all four self perspectives, with rapid shifts among them during HPT](all-four-participants-used-all-four-self-perspectives.md) — a narrower finding that bears on this claim
+- [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](hpt-multiple-selves-intertwined.md) — a narrower finding that bears on this claim

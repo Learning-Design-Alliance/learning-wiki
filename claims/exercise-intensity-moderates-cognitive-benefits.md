@@ -73,3 +73,9 @@ Narrative review describing a treadmill-walking study in individuals with Down s
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — a narrower finding that bears on this claim
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
+- [Five of six laboratory studies found significant effects of acute PA on cognitive control of attention, mainly on accuracy not reaction time](laboratory-studies-acute-pa-attention-accuracy.md) — related
+- [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
+- [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](task-type-moderates-reward-effect-on-inhibitory-control.md) — related
+- [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related
+- [Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood](self-chosen-exercise-greatest-mood-benefit.md) — related

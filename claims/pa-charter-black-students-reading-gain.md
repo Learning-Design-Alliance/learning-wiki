@@ -55,3 +55,4 @@ Figure 8a comparison of Black charter students against their Black TPS VCR peers
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
 - [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on
 - [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related
+- [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — related

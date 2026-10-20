@@ -43,4 +43,6 @@ Theoretical argument in the editorial's framing section: researchers discussing 
 
 
 ## Related Claims
--
+- [Small-group interaction generates and retains resources across all three planes](small-group-interaction-generates-shared-resources.md) — related
+- [All CSCL research is necessarily theory-laden; unreflective research adopts commonsense folk theories](cscl-research-necessarily-theory-laden.md) — a broader claim this one bears on
+- [Journal papers function as resources traversing planes of community knowledge building](journal-papers-traverse-knowledge-building-planes.md) — related

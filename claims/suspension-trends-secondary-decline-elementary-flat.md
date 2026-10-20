@@ -71,3 +71,9 @@ District trend analysis identifying the largest increases in secondary out-of-sc
 - [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [Student perceptions of safety and teacher perceptions of order improved in CPS high schools during the same period that OSS rates declined](safety-perceptions-improved-as-oss-declined.md) — related
+- [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](suspension-declines-48-states-substitution.md) — related
+- [Out-of-school suspension rates in CPS high schools declined each year from 24 percent in 2009-10 to 16 percent in 2013-14](cps-high-school-oss-rates-declined-2009-2014.md) — related
+- [Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers](black-secondary-students-82-more-days-lost.md) — related
+- [Secondary school students are suspended at more than three times the rate of elementary school students, and recent declines were concentrated in secondary schools](secondary-suspension-three-times-elementary.md) — related
+- [In many large districts, secondary students lost more than a year of instruction per 100 enrolled, up to 416 days in Grand Rapids, MI](districts-lost-over-year-instruction-per-100.md) — related
+- [National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels](suspension-rates-rose-then-declined-1973-2018.md) — a broader claim this one bears on

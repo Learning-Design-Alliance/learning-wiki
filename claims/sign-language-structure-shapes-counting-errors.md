@@ -68,3 +68,4 @@ Descriptive analysis of stopping points: deaf children's stops clustered at BFSL
 - [Deaf children produce shorter conventional number strings in abstract counting than hearing children of the same school level, with a roughly 2-year delay](deaf-children-abstract-counting-delay.md) — a broader claim this one bears on
 - [In object counting, deaf and hearing children make similar attention and principle errors, but deaf children make more number-string errors](deaf-more-number-string-errors-object-counting.md) — related
 - [Deaf and hearing children do not differ in accuracy of object counting or creating sets of a given cardinality up to 14 items](no-group-difference-object-counting-accuracy.md) — related
+- [Linguistic delay may affect verbal mathematical abilities without impairing conceptual counting development, as deaf children's one-to-one correspondence understanding was age-appropriate](linguistic-delay-spares-conceptual-counting.md) — related

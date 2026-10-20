@@ -49,3 +49,6 @@ Wilcoxon rank-sum comparison of 26 adults with DD and 26 controls on the NADL Fo
 - [Adults with developmental dyscalculia are impaired in everyday numerical tasks, particularly time estimation, measure, and money usage](dd-adults-impaired-informal-nadl.md) — related
 - [Adults with developmental dyscalculia are aware of their numerical difficulties in everyday life](dd-adults-aware-of-numerical-difficulties.md) — related
 - [Arithmetic deficits in adults with DD concentrate in mental calculation, arithmetical rules, and written calculation, with number comprehension and transcoding preserved](dd-adults-calculation-deficits-comprehension-preserved.md) — related
+- [Children with ADHD show significantly lower learning ability scores than control children](adhd-lower-learning-ability-scores-than-controls.md) — related
+- [Developmental dyscalculia persists into adulthood when untreated, affecting 5–7% of the general population](dd-persists-into-adulthood-untreated.md) — related
+- [Numerical difficulties in adults with DD are associated with negative emotions and psychosomatic symptoms traceable to primary school age](dd-adults-emotional-impact-numerical-difficulties.md) — related

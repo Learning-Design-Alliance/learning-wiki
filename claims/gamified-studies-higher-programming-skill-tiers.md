@@ -48,3 +48,4 @@ Global χ² and ordinal logistic trend test over skill tiers (none/basic/interme
 - [GBL approaches are more prevalent in informal settings while gamification dominates formal classrooms in robotics education](gbl-informal-gamification-formal-robotics-coupling.md) — related
 - [Gamified robotics studies favor project-based learning while GBL studies favor constructivist pedagogy](gamification-pbl-gbl-constructivist-robotics.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains](formal-context-predicts-learning-gains-robotics.md) — related

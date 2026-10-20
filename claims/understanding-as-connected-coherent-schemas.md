@@ -48,3 +48,5 @@ Theoretical argument reviewing expertise research: adaptive experts' knowledge i
 - [Presenting multiple cases from different perspectives supports transfer in ill-structured domains](cognitive-flexibility-theory-multiple-cases.md) — related
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related
+- [Classroom testing benefits facts (g = 0.524), concept learning (g = 0.644), and knowledge application in problem solving (g = 0.453).](testing-benefits-facts-concepts-problem-solving.md) — a narrower finding that bears on this claim
+- [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — a narrower finding that bears on this claim

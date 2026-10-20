@@ -51,3 +51,9 @@ The report's narrative review of in-service learning describes networks and prof
 - [Far fewer elementary principals participate in authentic, job-embedded professional learning than have access to professional development content](principals-lack-authentic-job-embedded-learning.md) — related
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - League district leaders rated professional development highly and reported extensive peer networking and best-practice sharing — related
+- [Schools with distinct educational models show positive achievement effects when they feature small size, personalization, positive relationships, and educator collaboration](model-schools-common-features.md) — related
+- [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
+- [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
+- [Network learning spread beyond the network through a website, conference presentations, school and district sharing, and AIR-led professional learning communities](bmtn-external-spread-channels.md) — related
+- [Mathematics teacher educators foregrounded engagement-oriented activities such as hands-on problem-solving and group work as key teaching-and-learning activities](teacher-educators-foreground-engagement-tlas.md) — related
+- [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related

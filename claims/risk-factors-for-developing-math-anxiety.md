@@ -67,3 +67,4 @@ The review cites Hembree (1990) reporting that "those who average the highest ar
 - [Teacher-rated general anxiety is associated with lower verbal working memory performance](general-anxiety-undermines-wm.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related

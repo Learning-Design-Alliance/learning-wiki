@@ -46,3 +46,6 @@ The editorial reports, citing Saba et al. (2025), a comparison of PS-I and I-PS 
 - [Exploration-first students show more advanced MVC reasoning on the transfer task than Instruction-first students](exploration-first-transfer-mvc-reasoning.md) — related
 - [Exploration-first students transfer MVC-strategy Efficiency better, with condition-by-Task-2 interactions for Efficiency and Quality](exploration-first-transfers-mvc-efficiency.md) — a narrower finding that bears on this claim
 - [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — a broader claim this one bears on
+- [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
+- [Instruction before exploration yields immediate MVC-strategy advantages in the first exploration task, driven by shorter exploration time](instruction-first-immediate-mvc-strategy-task1.md) — related
+- [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related

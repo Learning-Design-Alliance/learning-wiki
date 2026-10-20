@@ -78,3 +78,8 @@ Outcome of the rubric-revision intervention in the online class. The paper repor
 
 - [Raters differed significantly in severity/leniency in the MFRM analysis](raters-differed-severity-mfrm.md) — the general claim this finding bears on, with the studies behind it
 - [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
+- [Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot](hts-rubrics-low-consistency-claims-evidence-comparison.md) — related
+- [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
+- [The VCP rubric was difficult for teams to use because it lacked standardized calibration and its process and content categories were unclear](vcp-rubric-lacked-calibration-and-clarity.md) — related

@@ -47,3 +47,5 @@ Gamma correlations between self-assessments and performance across the four crit
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
+- [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related
+- [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](rubric-benefits-independent-of-task-performance.md) — related

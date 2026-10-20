@@ -54,3 +54,5 @@ Narrative review statement attributed to Baddeley (1996) and Morris & Gruneberg 
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — related
 - [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](wm-model-underspecified-components-criticism.md) — related
 - [Phonological short-term memory capacity selectively predicts new vocabulary learning](phonological-memory-predicts-vocabulary-learning.md) — a narrower finding that bears on this claim
+- [The phonological loop plays a significant role in vocabulary acquisition and second language learning](phonological-loop-vocabulary-acquisition-l2.md) — related
+- [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md) — related

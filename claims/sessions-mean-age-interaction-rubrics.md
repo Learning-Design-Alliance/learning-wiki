@@ -47,3 +47,8 @@ Posteriori secondary meta-regression on standardized mean differences for academ
 
 ## Related Claims
 - [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](ena-network-structure-age-differences-icap.md) — related
+- [Age moderated change in metacognitive regulation, with younger children decreasing and older children increasing between pre- and post-test](age-moderates-metacognitive-regulation-change.md) — related
+- [For standardized mean changes, rubric effects on performance decrease with mean age, yet secondary-education studies show larger effects than primary and middle school — contradictory moderator results](rubric-effect-age-educational-level-contradictory.md) — related
+- [Most moderator variables are not significantly related to rubric effects on academic performance, including rubric design specifics](rubric-moderators-mostly-non-significant.md) — reports the opposite
+- [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — related
+- [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related

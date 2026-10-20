@@ -65,3 +65,5 @@ Case study focus groups and interviews report that induction experiences gave pa
 - [Induction works especially well when coordinated with administrators' existing professional supports: district-run programs were most likely to be rated very effective](district-alignment-strengthens-induction.md) — related
 - Organizational climate can influence people's behavior and may be linked to teaching practices (attributed to Milem) — related
 - [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related
+- [Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities](vils-career-advancement-survey-majorities.md) — related
+- [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — related

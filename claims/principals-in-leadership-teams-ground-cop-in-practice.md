@@ -46,3 +46,4 @@ Qualitative evaluation of inflection point 4 in the 2016-17 school year: princip
 - [Availability of CAASPP statewide assessment data changed MiC leadership teams' discussions and appeared to accelerate districts' ability to monitor improvement](caaspp-data-accelerated-improvement-monitoring.md) — related
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](engaged-principals-prioritize-teacher-math-learning.md) — related
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — related
+- [Leadership coaching partnerships and instructional leadership team collaboration increased schools' capacity to use survey data](coaching-and-team-collaboration-support-data-use.md) — related

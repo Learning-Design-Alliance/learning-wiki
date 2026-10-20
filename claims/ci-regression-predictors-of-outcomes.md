@@ -63,3 +63,6 @@ Same regression analyses of parent survey data. The authors state they cannot kn
 
 ## Related Claims
 - [Among children with cochlear implants, later implantation correlates with more positive math self-views and longer use correlates negatively with math and scholastic self-views](implant-timing-correlates-academic-self-perceptions.md) — related
+- [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
+- [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related
+- [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](ci-group-conversation-difficulty.md) — related

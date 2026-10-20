@@ -49,3 +49,4 @@ The review reports Sekuler and Ball's laboratory analog using brief 125 ms displ
 - [Visual distraction impairs categorization in older adults but not younger adults, who perform equivalently without distraction](aging-distractibility-categorization-morphed-prototypes.md) — related
 - [Older adults show greater distractibility than younger adults during episodic retrieval of long-term memory details](aging-increases-distractibility-ltm-retrieval.md) — related
 - [Distraction during maintenance impairs working memory, with distractor processing inversely related to recognition accuracy](distraction-during-maintenance-impairs-wm.md) — related
+- [Adults show greater visual search accuracy than young children](adults-greater-visual-search-accuracy.md) — related

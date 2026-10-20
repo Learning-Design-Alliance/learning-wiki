@@ -53,3 +53,4 @@ Figure 8 takeaway from this descriptive report on immediate college enrollment o
 - CPS two-year enrollment rose modestly between 2006 and 2015 but declined as a share of college-going while four-year enrollment climbed after 2013 — related
 - Growth in CPS graduates' two-year enrollment was largely at City Colleges of Chicago and much of it predates the system's reform efforts — related
 - [CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs. 40.8% in 2020)](cps-2020-four-year-enrollment-steady.md)
+- [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related

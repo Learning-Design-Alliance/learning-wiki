@@ -51,3 +51,4 @@ The guide's own synthesis of the studies supporting Recommendation 3, stated in 
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — related
+- [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related

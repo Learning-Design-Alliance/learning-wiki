@@ -46,3 +46,4 @@ Controlled experiments on paper-based and computer-based lessons on brakes, pump
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — a narrower finding that bears on this claim
 - [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related

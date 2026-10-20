@@ -49,3 +49,5 @@ Annual Project Cal-Well School Staff Survey administered by Cohort 2 LEAs to ass
 - [From fall 2020 through December 2023, 79 percent of the 828 students referred to mental health services in NHUHSD received services from school-based or community-based providers](nhuhsd-79-percent-referred-students-received-services.md) — related
 - [From fall 2020 through December 2023, 78 percent of the 969 students referred to mental health services in PUSD received services](pusd-referred-students-service-access-rate.md) — related
 - Nearly 70% of school principals said they could not meet students' growing pandemic-era mental health needs with existing staff — related
+- [El Segundo Unified secured board funding for middle and high school wellness centers after observing Melbourne school wellness centers amid rising mental health needs](el-segundo-wellness-center-funding.md) — related
+- [Secondary students in PUSD increasingly reported open mental health conversations at school and knowing where to go for help from 2020/21 to 2022/23](pusd-chks-open-talk-help-seeking-increase.md) — related

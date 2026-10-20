@@ -51,3 +51,4 @@ Cross-sectional ABCD analysis of caregiver-reported academic grades. The study r
 - [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related
 - [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md) — related
 - [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — related
+- [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](bullying-associated-with-nssi-and-suicidality-preadolescents.md) — related

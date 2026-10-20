@@ -44,3 +44,5 @@ Theoretical argument in the article's framing of the mid-life narrative of value
 
 ## Related Claims
 - [Open education is asserted to lack a solid theoretical or philosophical foundation](open-education-lacks-theoretical-foundation.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related

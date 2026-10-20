@@ -45,3 +45,10 @@ Cross-sectional regression results across three grade cohorts (243, 284, and 203
 
 ## Related Claims
 - [Attention problems are more important than executive functioning for predicting first-grade calculation, while executive functioning is more important for applied problems](differential-prediction-attention-calculation-ef-applied-problems.md) — related
+- [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — related
+- [Cognitive flexibility does not add unique explained variance to literacy or mathematics achievement in Grade 2](cognitive-flexibility-no-unique-contribution-grade-2.md) — a narrower finding that bears on this claim
+- [Cognitive flexibility uniquely predicts mathematics achievement in Grades 4 and 6, with a larger effect in Grade 6 than in Grade 4](cognitive-flexibility-unique-predictor-math-grades-4-6.md) — a narrower finding that bears on this claim
+- [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
+- [Creativity, crystallized intelligence, fluid intelligence and executive functions are all correlated in children aged 8 to 13](cognitive-variables-creativity-correlations-children.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
+- [Cognitive flexibility's unique contribution to academic marks emerges only once EF components become differentiated, around Grades 4–6](flexibility-contribution-emerges-with-ef-differentiation.md) — a narrower finding that bears on this claim

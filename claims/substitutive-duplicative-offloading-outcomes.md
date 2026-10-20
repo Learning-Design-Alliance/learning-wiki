@@ -45,3 +45,4 @@ This distinction appears in the review's Fig. 2 framework caption describing its
 ## Related Claims
 - [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
+- [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — a broader claim this one bears on

@@ -48,3 +48,8 @@ A conceptual synthesis in the framework overview, citing prior literature (Smith
 - [Repeating one short lesson six times with small groups gave the mentee repeated opportunities to review and modify her classroom management strategies and build confidence](repeated-short-lessons-scaffold-mentee-behaviour-management.md) — related
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related
 - [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related
+- [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](deep-coaching-online-next-year-plans.md) — related
+- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](mentor-modeling-shapes-novice-advocacy-beliefs.md) — related
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related
+- [Intensive three-year professional development changed Leader Teachers' practice dramatically, but peer diffusion of reform was uneven](leader-teacher-diffusion-uneven.md) — related
+- [Teachers' concerns follow a developmental trend from lower to higher stages during curriculum implementation](stages-of-concern-developmental-trend.md) — related

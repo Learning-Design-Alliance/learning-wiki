@@ -43,3 +43,5 @@ The review reports, citing Pine and colleagues [2020], a meta-analysis of 13 stu
 ## Related Claims
 - [Casual games yield social and emotional benefits when sought for those purposes, played mindfully, and used within robust social contexts, but negative effects in other contexts](casual-games-social-emotional-benefits-context-dependent.md) — related
 - [Casual games show weak to no cognitive benefits compared to other interventions, except for elderly adults and people with specific cognitive impairments](casual-games-weak-cognitive-benefits-except-elderly.md) — related
+- [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — related
+- [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related

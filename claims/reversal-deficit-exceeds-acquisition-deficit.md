@@ -47,3 +47,4 @@ A 2 (condition) × 2 (trial type) × 2 (group) ANOVA on blocks 2–8 found a con
 - [Stress-exposed adolescents show impaired cognitive flexibility in reversal learning](early-stress-impaired-reversal-flexibility.md) — related
 - [Stress-exposed adolescents learn reward-punishment associations more slowly than controls during acquisition](early-stress-slower-acquisition-learning.md) — related
 - [Lifetime stress severity correlates with poorer learning performance and reduced putamen/ACC activation](lifetime-stress-dose-learning-correlation.md) — related
+- [Nonmaltreated adolescents are more accurate than maltreated adolescents on a go/no go task, with the group difference more pronounced on no go trials requiring inhibitory control](maltreated-adolescents-less-accurate-no-go-trials.md) — related

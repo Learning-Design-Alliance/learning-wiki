@@ -47,3 +47,4 @@ Observational and student-reaction evidence from the last six lectures, which us
 - Students found one-hour telelectures too short and wanted more time for listening and questioning — related
 - Graduate students generally enjoyed a seminar taught through expert telelectures and telediscussion — related
 - Students valued the up-to-dateness of telelectures and the chance to talk back to outstanding field experts — related
+- [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related

@@ -48,3 +48,6 @@ WWC-computed improvement indices across the two reviewed studies, representing t
 - [CSC/CDP shows no discernible effects on academic achievement](csc-no-discernible-academic-effects.md) — related
 - [Lessons in Character shows no discernible effects on student behavior](lessons-in-character-no-discernible-behavior-effects.md) — related
 - [Lessons in Character has potentially positive effects on academic achievement, with statistically significant effects on mathematics grades and attendance in one randomized controlled trial](lessons-in-character-potentially-positive-academic-achievement.md) — related
+- [The average effect across all four behavior outcome measures in the Page & D'Agostino study is positive and statistically significant (effect size 0.40)](cwk-domain-average-behavior-effect.md) — related
+- [The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points](csc-potentially-positive-behavior-effects.md) — related
+- [Lessons in Character shows no discernible effects on knowledge, attitudes, and values](lessons-in-character-no-discernible-kav-effects.md) — related

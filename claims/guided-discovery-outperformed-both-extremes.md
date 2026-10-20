@@ -51,3 +51,7 @@ The article cites Kittel's (1957) three-condition experiment on logic problems, 
 
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — possibly the same claim (merge candidate)
+- [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — related
+- [Highest-outcome groups did not receive more guidance than other groups](high-outcome-groups-not-guided-more.md) — related
+- [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related

@@ -53,3 +53,6 @@ Latent class analysis on three indicator dimensions (devices, learning contexts,
 - [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related
 - [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related
 - [Latent class analysis failed to discriminate ACE clusters in the Millennium Cohort Study data](lca-failed-discriminate-ace-clusters.md) — reports the opposite
+- [Secondary students in AI learning fall into three distinct SDT-based motivational profiles — Disengaged, Developing, and Self-Determined — at both pre- and post-test](three-sdt-motivational-profiles-ai-learning.md) — related
+- [Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)](four-chatgpt-acceptance-profiles-lpa.md) — related
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

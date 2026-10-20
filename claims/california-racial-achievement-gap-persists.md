@@ -53,3 +53,5 @@ Analysis of student self-reported grades from the California Healthy Kids Survey
 - [A racial school-climate gap exists: White and Asian students generally report higher safety, support, and connectedness than African American, American Indian, and Hispanic students](racial-school-climate-gap-students.md) — related
 - [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
 - [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — a narrower finding that bears on this claim
+- [Higher proportions of Black and Hispanic students than White and Asian students are off-track for college readiness throughout middle school](black-hispanic-students-off-track-throughout-middle-school.md) — related
+- [White and Asian staff report more positive school climates than African American and Hispanic staff, irrespective of their school's student racial composition](staff-climate-perceptions-vary-by-staff-race.md) — related

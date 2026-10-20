@@ -47,3 +47,5 @@ Hierarchical multiple regression with 162 students' integration quality as the d
 - [Expressive vocabulary uniquely explains variance in reading comprehension of adult struggling readers](expressive-vocabulary-predicts-adult-reading-comprehension.md) — related
 - [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — a broader claim this one bears on
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related
+- [Intratextual integration dominates while intertextual integration is rare in sixth graders' multiple-text writing](intratextual-dominates-intertextual-rare-sixth-graders.md) — related
+- [Nearly half of sixth graders' written products from multiple texts show poor integration quality](poor-integration-quality-sixth-graders-written-products.md) — related

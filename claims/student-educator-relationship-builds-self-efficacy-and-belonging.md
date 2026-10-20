@@ -54,3 +54,6 @@ A theoretical argument advanced in this discussion paper, not an empirical test:
 - [Formative assessment is theorized to foster motivation by supporting autonomy, competence, and relatedness](formative-assessment-fosters-motivation-autonomy-competence-relatedness.md) — related
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](relationships-pathways-self-efficacy-motivation-identity.md) — related
 - [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](ai-generated-responses-positive-self-efficacy.md) — related
+- [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related
+- [Students' sense of belonging predicts their contributions to classroom knowledge building at both student and teacher levels](belonging-predicts-knowledge-building-contributions.md) — related
+- [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related

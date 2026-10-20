@@ -50,3 +50,5 @@ Program-element moderator analysis in the meta-analysis, drawing on "feedback fr
 - [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — a broader claim this one bears on
 - [Work with peers in anti-bullying programs is associated with an increase in victimization](peer-work-associated-with-increased-victimization.md) — related
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on
+- [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — related
+- [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — a broader claim this one bears on

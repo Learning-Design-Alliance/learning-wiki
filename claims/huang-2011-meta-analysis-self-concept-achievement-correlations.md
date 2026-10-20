@@ -48,3 +48,4 @@ The review reports Huang's meta-analysis of "data from 39 independent samples", 
 ## Related Claims
 - [Meta-analyses show prior academic self-concept predicts subsequent achievement, controlling prior achievement](meta-analyses-asc-predicts-achievement.md) — a broader claim this one bears on
 - [A meta-analysis of 68 longitudinal studies found prior achievement predicted subsequent self-concept and prior self-concept predicted subsequent achievement](wu-2021-meta-analysis-reciprocal-self-concept-achievement.md) — related
+- [Self-efficacy correlates positively with subsequent motivation and performance across cognitive and sport domains](self-efficacy-predicts-motivation-and-performance.md) — related

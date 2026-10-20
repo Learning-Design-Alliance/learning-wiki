@@ -47,3 +47,5 @@ Matched-samples comparison of seven CPS cohorts (171,471 students) followed to a
 - [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related
 - [Students delayed by promotion gates recovered on-schedule status more easily than those delayed by course failure](gate-delays-easier-to-recover-than-course-failure.md) — related
 - [Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little](off-schedule-earlier-but-stable-by-age-16.md) — related
+- [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
+- [The requirement structure decreased the percentage of graduates completing both chemistry and physics, because mandated earth or environmental science pushed the combination into a fourth year](cps-requirement-reduced-chemistry-physics-combination.md) — related

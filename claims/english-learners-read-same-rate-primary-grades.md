@@ -52,3 +52,4 @@ The guide reports, in Recommendation 1, criterion-related validity and growth st
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related
 - [Primary-language (Spanish) oral instructions yielded significantly higher English reading comprehension than English-only instructions](primary-language-support-higher-english-comprehension.md) — related
 - [Bilingual school-age children's microstructure converged with monolinguals', consistent with bilinguals exceeding the ~60% input benchmark for typical development](sufficient-input-convergence-school-age-microstructure.md) — related
+- [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related

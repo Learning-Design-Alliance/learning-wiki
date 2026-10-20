@@ -75,3 +75,7 @@ Comparison of EXPLORE benchmark-meeting rates for the 2005 ACT-taking cohort aga
 - CPS students' PLAN-to-ACT gains fall well short of national expected gains, dropping 0.5 points below the average expected gain — a narrower finding that bears on this claim
 - [A ninth-grade EXPLORE composite score of 17 is the tipping point for reaching an ACT score of 20, and can serve as an interim benchmark](explore-17-tipping-point-act-20.md) — related
 - [Higher course grades predict larger ACT gains regardless of starting PLAN score; students with Ds or Fs lose ground](good-grades-predict-act-gains.md) — related
+- [The ACT does not distinguish well among low-achieving students, while WorkKeys differentiates achievement levels among these students](act-weak-at-low-end-workkeys-differentiates.md) — related
+- [Combined strong academic culture and high grades more than double EXPLORE-to-ACT gains at every starting score, including moving students from an EXPLORE of 17 to an average ACT of 20.7](culture-and-grades-combined-act-gains.md) — related
+- [Renaissance 2010 high schools showed a similar pattern of failing to meet EXPLORE-to-PLAN growth expectations](renaissance2010-similar-growth-pattern.md) — a narrower finding that bears on this claim
+- [Deep Support schools showed significantly larger test-score improvements but smaller improvements in academic demand, teacher support, and elementary grades than non-Deep-Support schools](deep-support-schools-mixed-effects.md) — related

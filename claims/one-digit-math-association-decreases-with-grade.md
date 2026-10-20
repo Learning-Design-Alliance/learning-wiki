@@ -49,3 +49,6 @@ Fisher's z comparison of correlation coefficients across grades in the correlati
 - [SYMP Test performance correlates moderately and significantly with mathematics achievement in every grade of primary school, for both one-digit and two-digit comparison](symp-correlates-math-achievement-all-grades.md) — related
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
 - [Children's symbolic magnitude comparison performance improves significantly across all primary school grades](symp-performance-improves-across-grades.md) — related
+- [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
+- [The SYMP Test shows convergent validity with a computerized version of the task and discriminant validity against spelling achievement](symp-convergent-discriminant-validity.md) — related
+- [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](symp-mld-lower-except-grade-6.md) — related

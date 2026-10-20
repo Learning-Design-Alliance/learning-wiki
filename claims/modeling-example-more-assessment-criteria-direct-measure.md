@@ -45,3 +45,4 @@ Mann–Whitney exact test on the direct measure compared assessment-criteria ref
 ## Related Claims
 - [Directly after training, students who observed a modeling example generated significantly more overall feedback than students who practiced giving feedback](modeling-example-more-overall-feedback-direct-measure.md) — related
 - [Directly after training, the modeling example condition produced significantly more positive and negative judgments than the practice condition, but did not differ on elaborations or feed-forward](modeling-example-more-judgments-not-elaborations-feedforward.md) — related
+- [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related

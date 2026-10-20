@@ -45,3 +45,4 @@ Observational rating distributions across 201 lessons observed in nine MiC distr
 ## Related Claims
 - [Mathematical sense-making received High ratings most frequently among the MQI dimensions, while linking representations and multiple solutions/procedures were most often rated Not Present](dimension-rating-distributions-vary.md) — related
 - [Lesson ratings showed no statistically significant differences between lessons observed earlier versus later in the initiative on any dimension](no-rating-improvement-over-initiative.md) — related
+- [Observation scores are modestly positively associated with individual value-added (adjusted correlation 0.349) but only weakly associated with performance tasks (0.108) and school-wide literacy value-added (0.119)](reach-observation-value-added-correlation-0349.md) — related

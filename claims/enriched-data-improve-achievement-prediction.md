@@ -48,3 +48,7 @@ The white paper attributes these assertions to prior studies (Bernacki et al., 2
 - [Sequence analysis of online course logs found group coordination predicted successful outcomes better than raw activity levels (review-attributed to Hoppe et al., 2021)](sequence-analysis-coordination-predicts-group-outcomes.md) — a narrower finding that bears on this claim
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md) — a narrower finding that bears on this claim
 - Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance — related
+- [Course-level sample truncation can produce M-bias that helps explain difficult-to-interpret negative associations between LMS behaviour and student success](m-bias-gasevic-2016-lms-behaviour.md) — related
+- [The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model](srem-outperforms-discrete-time-hazard-accuracy.md) — related
+- [Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster](seeing-algorithm-perform-reduces-choice-of-algorithm.md) — related
+- [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related

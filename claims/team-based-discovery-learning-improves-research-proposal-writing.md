@@ -47,3 +47,4 @@ Classroom action research with two cycles of seven meetings each; pretest-postte
 - [Simplifying journal articles and providing glossaries of unfamiliar terms preceded the second-cycle improvement in proposal writing](simplification-and-glossary-supported-second-cycle-gains.md) — related
 - [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Schools running four or more planned continuous improvement cycles show marked improvements in learning conditions, while ad hoc or two-cycle implementations do not](four-plus-improvement-cycles-improve-conditions.md) — related

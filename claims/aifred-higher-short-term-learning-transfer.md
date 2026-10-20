@@ -48,3 +48,6 @@ In the study's unassisted second math assignment, administered on average thirty
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — related
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related
+- [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](spatial-colocation-benefit-task-dependent.md) — related
+- [AIfred reduces observed physical-digital context switches by 98% relative to screen-based assistance, while task completion time is longer](aifred-context-switch-reduction-longer-time.md) — related
+- [AIfred users report higher perceived learning support, innovation, satisfaction, and cognitive demand, with no difference in perceived productivity](aifred-user-experience-ratings.md) — related

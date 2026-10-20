@@ -63,3 +63,6 @@ The fidelity analysis checked crucial tasks in sampled workbooks (26 per panel):
 
 ## Related Claims
 - [Students in both panels were generally positive about the creative writing unit's instructional design, with only two items scoring below neutral and a group difference on one scale](students-positive-creative-writing-unit-design.md) — related
+- [Meeting four or more implementation fidelity criteria is associated with course grades about 0.24 points higher than expected, a 0.58 grade-point swing versus meeting only two criteria.](implementation-fidelity-grade-residuals.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related
+- [Creative writing instruction improved creative text quality in panel 1 and showed a transfer effect on argumentative text quality moderated by Creative Self-Concept, a pattern the second panel did not replicate](cwi-transfer-to-argumentative-quality-moderated-by-csc.md) — related

@@ -47,3 +47,5 @@ mentation switching decreased (transition probabilities decreased by 0.12 and 0.
 ## Related Claims
 - [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related
 - [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
+- [87% of K-12 teachers ceased meaningful AI agent creation within three weeks of completing a two-day professional development workshop](87-percent-teachers-cease-ai-agent-creation-three-weeks.md) — related
+- [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](iterative-testing-predicts-self-efficacy-gains.md) — related

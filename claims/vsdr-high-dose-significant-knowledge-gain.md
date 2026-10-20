@@ -43,4 +43,4 @@ Paired-samples t-test of pre–post ICT subject knowledge in a 3-month case stud
 
 
 ## Related Claims
--
+- [Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR](vsdr-increased-student-talk-proportion.md) — related

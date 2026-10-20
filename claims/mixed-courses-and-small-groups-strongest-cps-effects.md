@@ -44,3 +44,4 @@ Subgroup analysis by group size (Table 4): 2–3 persons (17 effect quantities, 
 
 ## Related Claims
 - [The collective intelligence of groups is higher when members have greater social sensitivity](collective-intelligence-social-sensitivity.md) — related
+- [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related

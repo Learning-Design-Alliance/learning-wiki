@@ -43,4 +43,8 @@ Simultaneous treatments design with eight fourth-grade struggling readers; postt
 
 
 ## Related Claims
--
+- [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
+- [Lesson-probe data paths showed clear separation favoring the peer tutoring condition for most probes across all eight participants](probe-data-path-separation-peer-tutoring.md) — related
+- [Combining intentional and incidental vocabulary learning produces greater gains and better retention than either mode alone](combined-intentional-incidental-greater-gains.md) — related
+- [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related
+- [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related

@@ -50,3 +50,6 @@ A narrative review synthesizing worked-example experiments, mostly with highly s
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — reports the opposite
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [General problem-solving heuristics used in controlled conscious problem solving are biologically secondary skills requiring explicit learning](secondary-heuristics-require-explicit-learning.md) — related
+- [Example-first conditions outperformed problem-first conditions on an immediate circuit test](worked-example-problem-sequences.md) — related
+- [The argument that retrieval practice effects do not occur with materials high in element interactivity is contested, and the chapter judges its research base not convincing](whether-element-interactivity-limits-retrieval-practice-effects-is-contested.md) — related
+- [Studying solved problems improves algebra achievement compared to solving practice problems alone, though the evidence base is rated minimal and one study found negative effects](solved-problems-improve-algebra-achievement.md) — a narrower finding that bears on this claim

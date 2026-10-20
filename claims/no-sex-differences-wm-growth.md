@@ -51,3 +51,5 @@ Robustness check interacting biological sex with age in the PSID-CDS cubic model
 - [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
 - [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related
 - [Female children and adolescents recognize vocal emotions more accurately than males, with no interaction between sex and age](female-advantage-vocal-emotion-recognition-stable.md) — related
+- [Cool executive function measures show ascending age-related growth across adolescence, with a growth spurt around age 14–15](cool-ef-ascending-growth-adolescence.md) — related
+- [The simulation advantage and interest differences hold across subgroups of age, gender, school form, and grade](no-subgroup-differences-method-comparison.md) — related

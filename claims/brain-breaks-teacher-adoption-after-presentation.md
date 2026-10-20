@@ -45,3 +45,4 @@ Case-study report of knowledge brokering during site visits: the principal's own
 
 ## Related Claims
 - [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
+- [Around half of teachers reported meeting in grade-level teams at least weekly and observing colleagues' classrooms at least quarterly to implement the CCSS](ccss-teacher-collaboration-grade-level-teams-observations.md) — related

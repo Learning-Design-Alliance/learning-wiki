@@ -47,3 +47,4 @@ A theoretical analysis in the general discussion estimated the independent-encod
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [A rehearsal-based deficient-processing account cannot explain the developmental emergence of the spacing effect](rehearsal-account-inconsistent-with-developmental-spacing-pattern.md) — related
+- [The TTST advantage persists when no further presentations follow the retrieval manipulation, ruling out encoding-effort strategies (Experiment 3)](ttst-advantage-not-encoding-strategy.md) — related

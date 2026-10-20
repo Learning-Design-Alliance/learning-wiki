@@ -46,3 +46,5 @@ Reading-time experiment (Experiment 2) with 69 undergraduates (9 excluded), 30 p
 - [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](misconception-refutation-conceptual-change-strategies.md) — related
 - [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](misconceptions-inhibit-reading-comprehension.md) — related
 - [Readers with misconceptions recall less textual information than readers without misconceptions, regardless of text structure](misconceptions-reduce-recall-regardless-of-structure.md) — related
+- [The frequency of associations produced during think-aloud reading predicts sentence reading times during silent reading](associations-predict-reading-times.md) — related
+- [Readers with misconceptions generate more incorrect and fewer correct knowledge-based inferences than readers without misconceptions, in both text structures](misconceptions-inference-content-during-reading.md) — related

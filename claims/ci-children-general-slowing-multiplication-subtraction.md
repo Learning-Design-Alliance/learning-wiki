@@ -67,3 +67,4 @@ Two-digit subtraction choice reaction task (40 problems) in the same matched gro
 - [Children with cochlear implants show an increased rate of dyscalculia indications on a standardized arithmetic test](ci-children-increased-dyscalculia-indications.md)
 - [In children with cochlear implants, hearing age correlates with fewer non-table multiplication errors and faster borrow subtraction, unlike in hearing peers](ci-hearing-age-correlates-arithmetic-error-patterns.md)
 - [Number line estimation error increases more strongly for children with cochlear implants when the range extends from 0–100 to 0–1000](ci-number-line-place-value-range-interaction.md)
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related

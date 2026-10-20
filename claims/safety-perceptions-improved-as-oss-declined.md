@@ -52,3 +52,5 @@ Trend analysis of My Voice, My School survey responses from spring 2007 and 2009
 - [Student reports of safety did not improve faster in Culture of Calm schools than in other similar high schools](coc-student-safety-no-faster-improvement.md) — a narrower finding that bears on this claim
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
 - [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related
+- [Teachers' reports of disorder and crime decreased at a faster rate in Culture of Calm schools than in non-CoC schools between 2009 and 2011 (d = 0.4)](coc-teacher-disorder-crime-decreased-faster.md) — related
+- [Pilot CoC schools did not improve faster than non-pilot CoC schools or non-CoC schools on any measure](coc-pilot-schools-no-differential-improvement.md) — related

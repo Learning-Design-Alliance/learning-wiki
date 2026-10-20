@@ -48,3 +48,4 @@ A second-order synthesis of 12 meta-analyses in CALL (derived largely from Plons
 - Prior meta-analyses of feedback (Li 2010; Kang & Han 2015; Van der Kleij et al. 2015) reported positive effects but none was devoted entirely to feedback in CALL — related
 - Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — a broader claim this one bears on
 - [A meta-analysis of corpus use in language learning was published in Language Learning in 2017 by Boulton and Cobb.](boulton-cobb-2017-corpus-use-meta-analysis.md) — related
+- [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](glossing-medium-large-effects-l2-vocabulary.md) — related

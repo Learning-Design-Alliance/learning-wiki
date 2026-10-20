@@ -53,3 +53,6 @@ Narrative synthesis of seven studies with longer retention intervals (24 hours t
 - [When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
 - [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — a narrower finding that bears on this claim
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
+- [Alternating example-practice pairs produce faster and more accurate near-transfer solutions than blocked presentation of examples followed by practice](alternating-example-problem-pairs.md) — related
+- [The interleaving benefit appears in three of four problem-type-by-delay comparisons; the slope-problem effect at 1 day was not statistically significant](interleaving-benefit-by-problem-type-and-delay.md) — related
+- [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related

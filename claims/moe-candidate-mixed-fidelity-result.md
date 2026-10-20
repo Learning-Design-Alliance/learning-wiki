@@ -64,3 +64,5 @@ The fidelity comparison section reports the mixed pattern: "corrected earlier ac
 ## Related Claims
 - [Current best learner performance models are severely biased outside the interval containing most of the data, hindering downstream adaptive policies and open learner models](learner-models-miscalibrated-outside-data-interval.md) — related
 - Logistic regression with the best feature vector outperforms all other approaches on 4 of 9 datasets while DKT leads on the remaining 5, and Markov process methods lag behind — related
+- [Larger dense generators passed smoke probes but all exceeded the +30% classroom latency limit in bake-off round 1](larger-generators-fail-classroom-speed-gate.md) — related
+- [LLM output can be misleading or erroneous because a stochastic element in text generation sometimes selects less likely continuations, so it requires continuous supervision and critical evaluation by domain experts.](llm-stochastic-output-requires-domain-expertise.md) — a broader claim this one bears on

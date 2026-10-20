@@ -65,3 +65,7 @@ The review reports, citing studies such as Declerck, Koch, and Philipp (2012), t
 
 - [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md)
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [Language proficiency moderates switch cost asymmetry, but highly proficient bilinguals still show n-2 language repetition costs consistent with inhibition](proficiency-moderates-switch-cost-asymmetry.md) — related
+- [Sentence-level (lemma) processing affects language switching: switch costs occur between sentences and depend on syntactic structure](sentence-processing-affects-language-switching.md) — related
+- [N-2 language repetition costs are a less ambiguous marker of inhibition in language switching, though their pattern across languages is inconsistent](n2-language-repetition-costs-inhibition-marker.md) — related
+- [Orthographic specificity moderates comprehension-based switching costs: language-specific orthography can abolish or alter mixing and switch costs](orthography-role-in-comprehension-switching.md) — related

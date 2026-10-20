@@ -64,3 +64,5 @@ Same survey, reflection-through-talking theme, Item 13. "81.9 per cent agreed th
 ## Related Claims
 
 - [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](trainee-trainer-response-contradiction-ten-items.md)
+- [Some SQU ELT trainers used prescriptive practices contrary to reflective preparation: telling trainees how to teach (74.2% agreement), restricting lesson planning to the teachers guide (53.4%), and training them to teach only the national textbook (66.8%)](prescriptive-training-practices-contrary-to-reflection.md) — related
+- [Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman](gaps-collaborative-talk-and-written-assignments.md) — related

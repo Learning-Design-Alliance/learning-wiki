@@ -64,3 +64,7 @@ Category 4 groups stayed mostly in the task enactment phase; the study reports "
 - [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — related
 - [Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs](groups-stable-deliberation-patterns-fail-adapt.md) — related
 - [Novices showed marginally higher complexity of SRL phase sequences than experts (frequent but predictable transitions), with no group differences in entropy or transition number](novices-higher-srl-complexity-experts-moderate-diversity.md) — related
+- [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md) — related
+- [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — related
+- [Progress in evidence-based solution development is not always linear; evidence determines phase movement](evidence-determines-nonlinear-phase-movement.md) — related
+- [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related

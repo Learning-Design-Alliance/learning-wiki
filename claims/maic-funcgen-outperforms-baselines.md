@@ -44,3 +44,4 @@ Annotation study of generated lecture scripts: each slide was rated by three ind
 
 ## Related Claims
 - [Artifact-grounded agent responses are rated significantly higher than transcript-only responses on groundedness, analytical depth, helpfulness, relevance, and overall quality](artifact-grounded-responses-rated-higher.md) — related
+- [PIVOT achieves the best automatic video-quality scores among the compared educational video generation methods on 40 STEM topics](pivot-best-automatic-video-quality-scores.md) — related

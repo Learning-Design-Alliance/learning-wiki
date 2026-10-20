@@ -49,3 +49,6 @@ The review reports, citing Laurienti et al. and Peiffer et al., that older adult
 - [Older adults show reduced accuracy in severe noise (SNR -5) but perform comparably to younger adults in quiet and moderate noise (SNR 20)](older-adults-reduced-accuracy-severe-noise-only.md) — related
 - [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](dyslexia-audiovisual-integration-impairments.md) — related
 - [Autistic individuals show reduced multisensory integration, most consistently for speech-related stimuli](autism-reduced-mcgurk-fusion-meta-analysis.md) — related
+- [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
+- [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related
+- [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related

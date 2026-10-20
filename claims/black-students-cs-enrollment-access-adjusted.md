@@ -48,3 +48,6 @@ Analysis of CS enrollment by race/ethnicity with and without adjustment for scho
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
 - Participating districts report large enrollment gaps in CS courses by income and gender — related
 - [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md) — related
+- [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
+- [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — a broader claim this one bears on
+- [CS course offerings in CPS high schools more than doubled between 2009 and 2018, with 80 percent of schools offering at least one CS course by 2018](cps-cs-offerings-doubled-2009-2018.md) — related

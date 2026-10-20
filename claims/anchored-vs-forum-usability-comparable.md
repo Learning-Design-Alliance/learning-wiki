@@ -45,3 +45,5 @@ Usage and questionnaire check (111 questionnaires) for confounds: task-related m
 ## Related Claims
 
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md)
+- [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
+- [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md) — related

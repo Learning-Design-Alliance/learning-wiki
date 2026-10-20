@@ -46,3 +46,5 @@ The article's central thesis, argued from examples of everyday speech, classroom
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related
 - [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related
+- [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a narrower finding that bears on this claim
+- [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — related

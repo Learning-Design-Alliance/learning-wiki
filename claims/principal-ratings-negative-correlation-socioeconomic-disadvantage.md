@@ -48,3 +48,4 @@ Correlational analysis of 2013/14 ratings against school student characteristics
 - The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
 - [Principals evaluated on school median student growth percentiles were less likely to receive highly effective overall ratings than principals not evaluated on that measure](sgp-evaluation-lower-highly-effective-ratings.md) — related
 - [Composition effects on ratings point to evaluator bias rather than genuine changes in teacher effectiveness](evaluator-bias-not-effectiveness-drives-composition-effect.md) — related
+- [Nearly all New Jersey principals (99 percent) received effective or highly effective overall ratings in the first year of statewide evaluation, with limited variation](nj-principals-99-percent-effective-ratings-limited-variation.md) — related

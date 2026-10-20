@@ -51,3 +51,4 @@ Moderation analysis (model 8 in Table 4) in the same randomized field experiment
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related
 - [Mathematics test practice does not improve domain-general problem-solving ability](math-practice-no-effect-domain-general-problem-solving.md) — related
+- [Mathematics anxiety does not moderate the effect of mathematics test practice on subsequent performance](math-anxiety-does-not-moderate-practice-effect.md) — related

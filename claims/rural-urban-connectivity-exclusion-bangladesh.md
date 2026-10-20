@@ -52,3 +52,4 @@ Synthesis of the Bangladesh Bureau of Statistics ICT Access and Use Survey FY202
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
 - [General-purpose large language models perform substantially worse on Bengali downstream tasks than on equivalent English tasks, with gaps consistent with data-volume explanations](llms-underperform-bengali-tasks.md)
+- [English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries](english-dominance-ca-programming-prototypes.md) — related

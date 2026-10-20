@@ -68,3 +68,4 @@ Descriptive analysis of turnover by school locale (Table 3). The report finds "c
 - [The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover](philadelphia-charter-evaluation-multiple-moderators.md) — related
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
 - [Teachers who are not fully certified have higher turnover than fully certified teachers (20.1% vs. 14.7%), with a larger gap among early-career teachers](uncertified-teachers-higher-turnover.md) — related
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related

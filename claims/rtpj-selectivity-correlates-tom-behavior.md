@@ -47,3 +47,7 @@ Brain-behavior correlation in the combined sample of 11 blind and 16 blindfolded
 - [RTPJ selectivity for mental state content does not differ between blind and sighted children](rtpj-selectivity-similar-blind-sighted-children.md)
 - [Blind and sighted children do not differ in performance on false-belief items of the non-visual ToM task](no-group-difference-false-belief-items.md)
 - [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related
+- [The condition-dependent response profile of ToM brain regions is quantitatively weaker in blind than sighted children](weaker-tom-region-response-profile-blind-children.md) — related
+- [Blind children reason about visually sourced mental states similarly to sighted children](blind-children-similar-visual-experience-items.md) — related
+- [Congenitally blind children perform slightly less accurately on a non-visual behavioral ToM task than sighted children, controlling for age](blind-children-slightly-lower-tom-task-performance.md) — related
+- [Explicit mentalizing (false-belief understanding) emerges robustly between ages 4 and 6](explicit-mentalizing-emerges-ages-4-6.md) — related

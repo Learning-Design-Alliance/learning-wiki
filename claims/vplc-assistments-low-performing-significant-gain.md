@@ -52,3 +52,7 @@ Subgroup analysis of the same QED using the partially nested model on the low-pe
 - [Early trends suggest students of teachers using ASSISTments as the sole math edtech tool may have benefited more than students where it was part of a suite of tools](assistments-sole-tool-early-trends.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related
 - Fourth-grade reading gains were concentrated among lower- and middle-performing students at the 10th, 25th, and 50th percentiles, whose 2007 scores exceeded all previous assessments — related
+- [Videos were especially beneficial for slower readers, with the largest studying-rate advantages at the lowest percentiles](videos-especially-beneficial-slower-readers.md) — related
+- [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
+- [Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points](assistments-rural-q2-significant-gains.md) — related
+- [Impacts varied across teachers: 40 of 59 teachers had a majority of their students outperform their virtual comparison counterparts](assistments-teacher-variation-outperformance.md) — related

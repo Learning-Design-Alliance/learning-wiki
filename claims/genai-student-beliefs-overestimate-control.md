@@ -46,3 +46,4 @@ Belief elicitation from the Session Two exit survey of the randomized experiment
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Learning outcomes differ by how students use AI: augmentation and mixed users show gains in both sessions, while automation users' Session One essay advantage is absent from their unaided essays](genai-outcomes-differ-by-use-type.md) — related
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
+- [Participants substantially overestimated their performance in all trace conditions, with the largest overestimation under full traces](overestimation-largest-under-full-traces.md) — related

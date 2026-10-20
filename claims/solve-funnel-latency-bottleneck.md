@@ -61,3 +61,5 @@ Latency telemetry from the same deployment; the authors state prolonged waits "d
 ## Related Claims
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](followup-low-initiation-high-completion.md) — related
 - [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](transfer-practice-timing-mismatch-delayed-review.md) — related
+- [Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request](load-test-100-concurrent-users-30-second-response.md) — related
+- [On the live single-node deployment, short-answer rounds take ≈32 s (≈$0.015/round) while multiple-choice rounds are ≈4× faster (≈7.6 s, ≈$0.005/round) because grading is deterministic](collearn-latency-cost-efficiency.md) — related

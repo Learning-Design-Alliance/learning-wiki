@@ -45,3 +45,5 @@ Postdiction study of 302 secondary school students who estimated grades and SOJs
 ## Related Claims
 - [Among university students, poorer calibration accuracy is accompanied by lower confidence in the performance estimate, independent of performance level](university-students-soj-tracks-calibration-accuracy.md) — related
 - [Subjective confidence ratings did not differ between performance quartiles for university or secondary school students, failing to replicate Miller and Geraci](sojs-do-not-differ-by-performance-quartile.md) — related
+- [Calibration accuracy improvements on French did not transfer to German and Math courses without the intervention, arguing against a maturation explanation](no-calibration-transfer-german-math.md) — related
+- [Students in the Reflection condition became more confident in their grade estimates over the school year, unlike students in the Practice and Grade comparison conditions](reflection-condition-increased-second-order-judgements.md) — related

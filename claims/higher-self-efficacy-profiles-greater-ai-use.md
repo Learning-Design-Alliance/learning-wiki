@@ -45,3 +45,7 @@ One-way ANOVA comparing reported AI use across the three LPA profiles (N = 102),
 ## Related Claims
 - [Self-efficacy profiles differ in AI use for educational support (η² = .36), the highest-rated support type in the high profile](educational-support-ai-use-profile-differences.md) — possibly the same claim (merge candidate)
 - [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — a narrower finding that bears on this claim
+- [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
+- [AI-attitude profiles differ significantly in career crafting, with High-Perception High-Vigilance and Positive Empowerment highest and Low-Perception Detached lowest](profiles-differ-in-career-crafting.md) — related
+- [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
+- [Three academic self-efficacy profiles (low, moderate, high) are identified among university students with motor disabilities using Latent Profile Analysis](three-academic-self-efficacy-profiles-motor-disabilities.md) — related

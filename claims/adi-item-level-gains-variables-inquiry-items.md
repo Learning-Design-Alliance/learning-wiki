@@ -46,3 +46,6 @@ Item-level percent-correct analysis of the SLA-D reported in Results (Tables 5 a
 
 - [Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry](adi-higher-sla-d-posttest-than-structured-inquiry.md)
 - [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md)
+- [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
+- [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md) — related
+- [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md) — related

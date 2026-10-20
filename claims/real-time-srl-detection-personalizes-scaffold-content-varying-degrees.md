@@ -44,4 +44,6 @@ Descriptive frequency analysis of personalization with data from 18 participants
 
 
 ## Related Claims
--
+- [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
+- [Personalized scaffolds increased frequencies of high cognition and monitoring relative to control, but learning outcomes did not differ between conditions.](scaffolds-changed-srl-processes-not-outcomes.md) — related
+- [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](policy-multilabel-concentrated-constraints-scaffolding-personalization.md) — a broader claim this one bears on

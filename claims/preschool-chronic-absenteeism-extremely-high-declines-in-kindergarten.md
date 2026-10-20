@@ -49,3 +49,5 @@ Descriptive analysis of CPS administrative attendance records for roughly 26,000
 ## Related Claims
 - Chronic absenteeism is extremely common among CPS preschoolers, with 45 percent of three-year-olds and 36 percent of four-year-olds missing at least 10 percent of enrolled days — related
 - [Chronically absent preschoolers are much more likely to stay chronically absent, and each successive year of chronic absenteeism compounds risk of low second-grade reading](preschool-absence-predicts-later-chronic-absence-and-reading-risk.md) — related
+- [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
+- [Family circumstances pile up to worsen preschool attendance, and parent beliefs about attendance importance are related to absence rates](family-circumstances-and-parent-beliefs-relate-to-preschool-attendance.md) — related

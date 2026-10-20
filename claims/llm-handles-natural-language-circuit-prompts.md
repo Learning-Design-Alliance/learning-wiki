@@ -51,3 +51,5 @@ Qualitative analysis of three GPT-4o chat logs from one student. The article rep
 - More students embraced LLMs for debugging from Spring to Fall 2025 despite declining course enrollment — related
 - [Some students lacked fundamental understanding of basic circuit concepts and offloaded critical thinking to AI during collaborative debugging](students-offload-critical-thinking-ai-debugging.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
+- [Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs](students-use-images-capturing-circuits-chat-debugging.md) — related
+- [LLM-assisted hardware debugging requires consistent human feedback because the LLM's understanding of the circuit drifts](llm-debugging-requires-consistent-human-feedback.md) — related

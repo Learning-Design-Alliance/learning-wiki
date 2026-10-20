@@ -50,3 +50,6 @@ Descriptive and regression analysis of Δ pass rate over valid submission transi
 - [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related
 - [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related
 - [Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)](feedback-no-significant-moderation.md) — related
+- [Feedback type shifts engagement by question type: educator feedback yields more MCQ submissions while AI feedback trends toward more open-ended revisions, with no overall difference](feedback-type-shifts-engagement-by-question-type.md) — related
+- [Effects of AI-generated test case feedback depend critically on feedback validity](test-case-feedback-effects-depend-on-validity.md) — related
+- [Baseline-to-final performance change was centered near zero with a mean of −1.83](baseline-final-change-near-zero.md) — related

@@ -43,4 +43,4 @@ Analysis of verbatim transcripts of verbal interaction and stimulated recall pro
 
 
 ## Related Claims
--
+- [Conceptual change by students during PBL problem analysis can be made visible in stimulated recall protocols](stimulated-recall-makes-conceptual-change-visible.md) — related

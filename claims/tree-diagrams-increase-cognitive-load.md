@@ -49,3 +49,4 @@ Self-report cognitive load questionnaire (9-point Likert scales, six items) admi
 - [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related
 - [Learners working with tree diagrams performed fewer manipulations in the simulations than learners in other conditions](diagram-condition-fewer-simulation-manipulations.md) — related
 - [In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores](text-arithmetic-outperformed-diagram-total-posttest.md) — related
+- [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related

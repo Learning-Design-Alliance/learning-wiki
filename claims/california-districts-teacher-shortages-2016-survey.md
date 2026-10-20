@@ -48,3 +48,4 @@ Survey of over 200 representative California districts conducted in fall 2016, r
 - [Increased retirements and resignations contributed to shortages in most large districts surveyed](retirements-resignations-contributed-shortages.md) — related
 - [About 75% of surveyed California districts report a shortage of qualified teachers for 2016-17, and over 80% of these say shortages have worsened since 2013-14](california-districts-report-worsening-teacher-shortages-2016.md) — possibly the same claim (merge candidate)
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related
+- [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](bclad-supply-low-and-misaligned-with-demand.md) — related

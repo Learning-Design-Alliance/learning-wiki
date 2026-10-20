@@ -47,3 +47,4 @@ Descriptive secondary analysis (Figure S1) of public enrollment data from the Br
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — the general claim this finding bears on, with the studies behind it
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
+- [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related

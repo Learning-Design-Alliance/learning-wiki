@@ -44,3 +44,6 @@ Descriptive result from the theoretical-quality labeling analysis of agent outpu
 
 ## Related Claims
 - [Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)](theoretical-quality-correlates-benchmark-performance.md) — related
+- [Across rubric dimensions, content scored highest (A = 4.03) while production scored lowest (D = 3.41), driven by synthetic voice quality (D1 = 3.16)](bespoke-content-strongest-production-weakest-voice.md) — related
+- [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
+- [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related

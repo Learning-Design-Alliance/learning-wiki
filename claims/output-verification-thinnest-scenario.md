@@ -47,3 +47,5 @@ Scenario coverage analysis across the 30-package corpus. It reports "Only 23% of
 - [Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs](guided-ai-use-verification-rules.md) — related
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related
+- [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
+- [University AI policies score higher on delegation boundaries than on evidence standards](boundary-evidence-asymmetry-ai-policy-audit.md) — related

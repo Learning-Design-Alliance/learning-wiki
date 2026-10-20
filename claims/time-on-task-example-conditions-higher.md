@@ -45,3 +45,4 @@ Brown–Forsythe one-way ANOVA on logged practice time (after a significant Leve
 ## Related Claims
 
 - [Contrasting examples, correct examples, erroneous examples, and practice problems produced no differences in learning gains or transfer of unbiased-reasoning skills](no-condition-differences-ct-practice-formats.md)
+- [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md) — related

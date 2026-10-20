@@ -69,3 +69,6 @@ Definitional/conceptual claim in the integrity section, citing Balalle & Pannila
 - [Nursing academics link student GenAI misconduct to future unprofessional and unsafe clinical conduct](genai-misconduct-linked-to-professional-conduct.md) — related
 - [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](mission-statement-rhetorical-corruptions.md) — related
 - [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](plagiarism-cultural-conduct-frustration.md) — a narrower finding that bears on this claim
+- [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
+- [Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity](normative-friction-equity-epistemic-integrity-interdependent.md) — related
+- [Single composite accountability indicators are susceptible to gaming and Campbell's Law corruption pressures](composite-indicators-gaming-campbells-law.md) — a narrower finding that bears on this claim

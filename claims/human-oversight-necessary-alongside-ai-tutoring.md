@@ -64,3 +64,7 @@ Observation from the study's thematic analysis: occasional human intervention wa
 - [Situational-level real-time AI guidance for tutors raised students' topic mastery, especially for students of lower-rated tutors](tutor-copilot-raises-exit-ticket-mastery-4pp.md) — related
 - Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
 - [Iterative prompt refinement shifted a generative-AI tutor from tutorial-style explanation delivery toward dialogic Socratic support for K-12 beginners](prompt-refinement-shifts-genai-toward-socratic-support.md) — related
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — a broader claim this one bears on
+- [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related

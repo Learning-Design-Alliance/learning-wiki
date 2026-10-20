@@ -43,3 +43,4 @@ Content analysis of 50 essays coded for structural and dynamical future-scaffold
 ## Related Claims
 - [Teachers perceived AI-supported futures as increasingly imaginable and linked to present actions](approaching-markers-future-attainability.md) — related
 - [Teachers' visions most often broadened through wider action strategies, futures thinking, and methodological variety](broadening-markers-teacher-ai-visions.md) — related
+- [Personal experience influenced teachers' visions of AI futures more than organizational culture or societal factors](personal-experience-over-organizational-culture.md) — related

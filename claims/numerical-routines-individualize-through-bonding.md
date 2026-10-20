@@ -53,3 +53,5 @@ This is a theory-building empirical case study, not an intervention trial: there
 - (none yet linked)
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
 - [Early numeracy mastery is measurable at 54 months across three competencies in a large longitudinal sample](numeracy-measurable-54-months-three-competencies.md) — related
+- [Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months](ans-performance-webers-law-ratio-dependence.md) — related
+- [Children as young as 3½ years perform significantly above chance identifying and comparing multidigit numerals](preschoolers-above-chance-multidigit-numerals.md) — related

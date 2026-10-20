@@ -47,3 +47,4 @@ As reported in the article's abstract, Study 3 was a quasi-experimental evaluati
 - [PSD dimensions correlate with trait curiosity, and playfulness correlates with designing fun but not designing competition, supporting the scale's convergent and discriminant validity](psd-convergent-discriminant-validity.md) — related
 - [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related
 - [Exam grades correlate positively with designing competition and near-zero with designing fun in the Study 1 correlation table](designing-competition-exam-grades.md) — related
+- [Designing fun explains additional variance in peer interactions and popularity beyond core self-evaluations and PsyCap, whereas designing competition does not](designing-fun-social-integration.md) — related

@@ -46,3 +46,5 @@ WWC calculations across the four student survey outcomes in the quasi-experiment
 - [Positive Action has positive effects on elementary school students' behavior, with a WWC domain average effect size of 0.51 and an improvement index of +19 percentile points](positive-action-positive-effects-behavior.md) — related
 - [Connect with Kids shows no statistically significant effects on elementary school students' assessments of their own or classmates' behavior](cwk-elementary-null-behavior-effects.md) — reports the opposite
 - [Connect with Kids shows statistically significant positive effects on middle and high school students' reports of their own and classmates' behavior](cwk-middle-high-school-behavior-gains.md) — a narrower finding that bears on this claim
+- [Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement](lessons-in-character-improvement-index-all-domains.md) — related
+- [WWC improvement indices for Too Good for Violence are +18 percentile points for behavior and +16 for knowledge, attitudes, and values](tgv-improvement-indices-18-16.md) — related

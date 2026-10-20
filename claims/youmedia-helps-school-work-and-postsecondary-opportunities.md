@@ -44,3 +44,4 @@ Self-reported outcome from the Consortium report on YOUmedia Chicago covering tw
 
 ## Related Claims
 - [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
+- [A majority of YOUmedia participants report improved digital media skills due to the program](youmedia-majority-report-improved-digital-media-skills.md) — related

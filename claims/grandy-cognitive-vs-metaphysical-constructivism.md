@@ -49,3 +49,7 @@ The preface summarizes Grandy's chapter 'Constructivism and Objectivity: Disenta
 - Slezak argues the Edinburgh strong programme's core claims are flawed, while Suchting defends Bloor's social constructivist account against those criticisms — related
 - [Empirical studies of constructivist learning environments do not always show the expected learning outcomes](constructivist-effects-not-always-expected.md) — reports the opposite
 - [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related
+- [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
+- [A review's historical account reports that Taiwan's constructivist mathematics reform, introduced in 1993, was stopped in 2003 amid debate over its students underperforming traditionally taught peers in high school](taiwan-constructivist-math-reform-stopped-2003.md) — related
+- [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related

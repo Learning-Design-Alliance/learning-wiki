@@ -45,3 +45,4 @@ The summary's rating rationale rests on one randomized study (1 study, 1,843 stu
 ## Related Claims
 - [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) — related
 - [Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)](edpuzzle-caaspp-math-effect-009.md) — related
+- [The evaluation used a school-level cluster-randomized quasi-experiment (N = 50) that was powered only to detect large effects (d = 0.81)](cluster-randomized-quasi-experiment-powered-for-large-effects.md) — related

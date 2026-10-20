@@ -49,3 +49,5 @@ Sensitivity analysis repeating the peer-problem mediation with the SDQ victimisa
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related
 - [Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms](peer-problems-mediate-adhd-depression-link.md) — related
 - [Childhood ADHD symptoms are associated with higher late-adolescent depressive symptoms in a population cohort](childhood-adhd-predicts-adolescent-depressive-symptoms.md) — a broader claim this one bears on
+- [Academic attainment (GCSE results) at age 16 mediates the association between childhood ADHD symptoms and late-adolescent depressive symptoms](academic-attainment-mediate-adhd-depression-link.md) — related
+- [Clinical ADHD diagnosis in childhood is associated with increased odds of clinically significant adolescent depressive symptoms](clinical-adhd-diagnosis-increased-odds-adolescent-depression.md) — related

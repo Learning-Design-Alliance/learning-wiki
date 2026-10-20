@@ -51,3 +51,4 @@ Hypothesis test in the PLS-SEM structural model of 327 valid survey responses; t
 - [Engagement in deep learning activities, as measured by NSSE's DEEP Learning scale, shows no statistically significant relationship with objectively measured critical thinking at the end of the first year](deep-learning-scale-no-caap-critical-thinking-relationship.md) — related
 - Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related

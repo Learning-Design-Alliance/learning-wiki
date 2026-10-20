@@ -48,3 +48,5 @@ Grade 3 data from the longitudinal Belgian sample tested in January and June. Th
 ## Related Claims
 - [Mathematical accuracy and fluency have overlapping yet different predictors, supporting attention to both aspects in mathematics teaching](accuracy-and-fluency-different-predictors.md) — a broader claim this one bears on
 - [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related
+- [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](postdiction-skills-related-to-math-accuracy-grades-1-6.md) — related
+- [Intrinsic math motivation is positively correlated with arithmetic skills and negatively correlated with explicitly measured math anxiety in sixth graders](intrinsic-math-motivation-correlates-skills-anxiety.md) — related

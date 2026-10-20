@@ -50,3 +50,4 @@ Qualitative analysis of posttest written comments, coded independently by two re
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [Collingwood's ideas about how historical knowledge is produced offer teachers sound reasons for using constructivist approaches in their classrooms](collingwood-supports-constructivist-history-teaching.md) — related
 - [Added interpretive support did not significantly affect the evolution of student teachers' educational beliefs](additional-support-no-significant-belief-impact.md) — related
+- [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related

@@ -61,3 +61,4 @@ This is one of the stronger-evidence sources in this ingestion round: a randomiz
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
 - [Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant](demand-for-power-specific-hands-on-ai-examples.md) — related
 - Adding prediction and discussion to lecture demonstrations significantly improves students' ability to explain the outcomes compared with merely observing — related
+- [Physical access to AI-provided material does not automatically produce epistemological access; facilitation converts one into the other](facilitation-converts-physical-to-epistemological-access.md) — reports the opposite

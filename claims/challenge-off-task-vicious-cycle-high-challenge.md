@@ -63,3 +63,7 @@ Fuzzy Miner process model of the 18 low-challenge dyads; although challenge was 
 
 ## Related Claims
 - [High-cognition appears only in the low challenge process model and off-task activities only in the high challenge process model](high-cognition-only-low-challenge-model.md) — related
+- [In low challenge dyads the metacognitive activities are closely interconnected, whereas in high challenge dyads monitoring is disconnected from other metacognitive activities](metacognitive-connectivity-differs-by-challenge.md) — related
+- [High social challenge dyads show more off-task activities than low social challenge dyads](high-challenge-dyads-more-off-task.md) — related
+- [Low social challenge dyads verbalize more cognitive processing and more high-cognition than high social challenge dyads](low-challenge-dyads-more-cognition-frequencies.md) — related
+- [Low social challenge dyads produce higher-quality written assignments than high social challenge dyads, controlling for prior knowledge](low-social-challenge-dyads-higher-assignment-quality.md) — related

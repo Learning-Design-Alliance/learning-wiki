@@ -68,3 +68,4 @@ Observational analysis of CPS administrative data (2009-11 cohorts) using models
 - Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Prediction and intervention are different problems: highly predictive features such as prior GPA are often ones an institution cannot change](prediction-versus-causal-intervention-distinction.md) — related
 - [A course whose DFW grades produced no expected persistence drop suggests some courses may act as guardrails associated with retained persistence after failure](guardrail-courses-attenuate-persistence-drop-after-dfw.md) — related
+- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](gpa-most-predictive-attainment-english-learners.md) — related

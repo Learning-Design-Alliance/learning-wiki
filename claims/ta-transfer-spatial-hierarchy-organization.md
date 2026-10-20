@@ -47,3 +47,5 @@ Coding of spontaneous spatial/hierarchical content in answers to open-ended adde
 - [A hierarchical internal knowledge organization facilitates performance on complex recall and problem-solving tasks more than a single-level organization of the same knowledge](hierarchical-organization-improves-complex-task-performance.md) — a broader claim this one bears on
 - [Information at higher levels of an acquired hierarchical organization is recalled better than information at lower levels](higher-hierarchy-levels-recalled-better.md) — related
 - Free-response LOA techniques produce high non-response rates because many respondents answer in non-hierarchical or uncodable terms — related
+- [The treatment-by-time interaction was significant, and results replicated across both yearly cohorts for both measures](ta-time-treatment-interaction-replicated.md) — related
+- [Before instruction, control students started significantly higher on basic-value measures, yet were overtaken after instruction](control-started-higher-basic-value.md) — related

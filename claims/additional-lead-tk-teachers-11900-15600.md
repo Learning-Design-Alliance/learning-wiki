@@ -46,3 +46,4 @@ County-level projection model (Findings section) multiplying projected enrollmen
 - [California's universal TK expansion will require an additional 11,900 to 15,600 credentialed teachers with early childhood expertise by 2025–26](tk-expansion-requires-11900-15600-credentialed-teachers.md) — possibly the same claim (merge candidate)
 - [County differences in TK uptake and population size translate into varying hiring needs, with the five largest counties accounting for over half of increased demand](county-variation-tk-hiring-demand.md) — a narrower finding that bears on this claim
 - [California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing](assistant-tk-teachers-16000-19700.md) — related
+- [TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios](tk-enrollment-291k-358k-by-2025-26.md) — related

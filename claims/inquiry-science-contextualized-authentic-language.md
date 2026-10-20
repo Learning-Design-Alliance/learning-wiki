@@ -50,3 +50,4 @@ Theoretical argument from the Montebello project team, quoted from Gomez-Zwiep e
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — related

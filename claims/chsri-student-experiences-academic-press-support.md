@@ -46,3 +46,7 @@ Rasch-scaled measures from the 2005 Consortium student survey (865 freshmen in 1
 - [CHSRI students did not score differently on the PSAE in reading or math, and freshmen were not significantly more likely to be on-track](chsri-no-achievement-ontrack-difference.md) — related
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
 - [Juniors in the first CHSRI cohort were seven percentage points less likely to have dropped out by junior year, marginally significant](chsri-junior-cumulative-dropout-lower.md) — related
+- [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related
+- [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related
+- [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related

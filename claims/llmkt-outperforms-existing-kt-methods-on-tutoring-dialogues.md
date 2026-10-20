@@ -85,3 +85,6 @@ MathDial results from the same benchmark comparison, where existing methods impr
 - [Among deep learning KT models, simpler DKT performs comparably to complex architectures under limited dialogue data](dkt-comparable-to-complex-kt-architectures.md) — related
 - [An IRT-based difficulty-aware conversational KT framework improves AUC over the LLMKT baseline on both QATD2k and MathDial](irt-difficulty-aware-kt-beats-llmkt-auc.md) — related
 - Deep Knowledge Tracing substantially outperforms Bayesian Knowledge Tracing on knowledge tracing benchmarks — related
+- [LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly](llm-optimism-bias-knowledge-tracing.md) — related
+- [Hybrid approaches combining LLMs with traditional knowledge-tracing algorithms outperform either method alone for learner modelling](hybrid-llm-knowledge-tracing-outperforms-either-alone.md) — related
+- [Frontier LLMs barely exceed a trivial baseline on knowledge tracing, with the best model surpassing always-predict-correct by only about five percentage points](llms-barely-exceed-trivial-baseline-kt.md) — related

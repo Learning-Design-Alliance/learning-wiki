@@ -46,3 +46,5 @@ Criterion validity analyses correlated ICL, ECL, and GCL separately with retenti
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [Germane load measurement is problematic: GCL-outcome correlations and item understanding show weaknesses across instruments](germane-load-measurement-problems.md) — reports the opposite
 - [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related
+- [Subjective cognitive load questionnaires show satisfactory internal consistency across the four most frequently used instruments in experimental multimedia learning research](cognitive-load-questionnaires-satisfactory-internal-consistency.md) — related
+- [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related

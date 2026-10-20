@@ -47,3 +47,5 @@ The review reports, citing Hava (2021), that "behavioral engagement showed no si
 - [The AI-enhanced flipped classroom raises post-class assignment accuracy over the traditional classroom, an advantage the standard flipped classroom did not show](ai-enhancement-raises-assignment-accuracy.md) — related
 - [The AI-enhanced flipped classroom yields significantly higher in-class response rates than both the flipped and traditional classrooms in pharmacology for international medical students](ai-flipped-classroom-higher-response-rate.md) — related
 - [Both flipped and AI-enhanced flipped classrooms achieve higher in-class question accuracy than the traditional classroom](flipped-models-higher-question-accuracy.md) — related
+- [The AI-enhanced flipped classroom improves comprehensive assessment and pre-class preparation/PPT quality over the flipped classroom, but not in-class presentation performance or professional knowledge mastery](ai-flipped-boundary-deep-mastery.md) — related
+- [Gamification has small positive effects on cognitive, motivational and behavioral learning outcomes](gamification-has-small-positive-effects-on-learning-outcomes.md) — related

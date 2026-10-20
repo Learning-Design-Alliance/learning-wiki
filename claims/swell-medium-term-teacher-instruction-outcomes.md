@@ -46,3 +46,4 @@ A planned medium-term outcome statement in the SWELL logic model, positioned bet
 - [The SWELL logic model posits long-term positive impacts on English learner English proficiency and on literacy achievement, including writing, for all students served](swell-long-term-student-literacy-outcomes.md) — related
 - [The SWELL logic model posits that participating teachers will increase self-efficacy in literacy instruction and in supporting English learner students](swell-teacher-self-efficacy-short-term-outcomes.md) — related
 - [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](wts-clri-increased-collaboration-unchanged.md) — related
+- [Teacher confidence in teaching literacy and English learner students increased over the pilot year, especially with a local coach](wts-teacher-confidence-increased-over-year.md) — related

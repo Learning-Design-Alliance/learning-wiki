@@ -49,3 +49,6 @@ Analysis of MAP Growth assessment data from nearly 4.4 million students in grade
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [The visualizations address how students performed in fall 2020 compared to a typical school year](fall-2020-performance-compared-typical-year.md) — a broader claim this one bears on
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
+- [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
+- [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
+- [The visualizations compare observed fall 2020 student achievement to NWEA’s projections](fall-2020-achievement-versus-nwea-projections.md) — related

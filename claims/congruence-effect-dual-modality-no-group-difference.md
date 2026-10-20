@@ -65,3 +65,5 @@ Bialystok Ellen. (2011). Coordination of Executive Functions in Monolingual and 
 - [The dual-task condition is more difficult than the single-task condition, with a condition-by-modality interaction in reaction time](dual-task-difficulty-condition-modality-interaction.md) — related
 - [Bilingual children maintain higher accuracy than monolingual children in a dual-modality classification task, with the advantage limited to the visual task](bilingual-advantage-dual-modality-accuracy-visual-task.md) — reports the opposite
 - [Monolingual and bilingual children perform comparably on single-modality classification tasks in accuracy and speed](no-group-difference-single-modality-classification.md) — related
+- [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
+- [Children are more accurate and faster on NonStroop than Stroop trials of the Pet Store Stroop task](nonstroop-more-accurate-faster-than-stroop.md) — related

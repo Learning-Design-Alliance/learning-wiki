@@ -62,4 +62,7 @@ In the same observational analysis, the S2 and S6 pairs exploited the speed asym
 
 
 ## Related Claims
--
+- [The acknowledgment rate — how often partners give feedback of having perceived, understood, and accepted contributions — varies according to the medium and the content of interactions](acknowledgment-rate-varies-media-and-content.md) — related
+- [In a networked second-language classroom, different small groups of students evolve alternative approaches to appropriating a representational tool during collaborative L2 writing](groups-evolve-alternative-approaches-appropriating-representational-tool.md) — related
+- [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](awareness-attention-management-shared-workspaces.md) — related
+- [Dyads collaborating via flexible written paper media exhibit invariant communicative practices across media, participants and topics](invariant-communicative-practices-artifact-mediated-collaboration.md) — a broader claim this one bears on

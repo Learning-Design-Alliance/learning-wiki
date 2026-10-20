@@ -44,3 +44,6 @@ The brief's framing statement asserts, without reporting data, that teacher-stud
 
 ## Related Claims
 - [Effective teachers compound their advantage over consecutive years, and low-achieving students are disproportionately assigned to ineffective ones](teacher-effectiveness-compounds-over-consecutive-years.md) — related
+- [Policy decisions such as shortening or extending the school year depend on accurate within-year learning estimates](school-year-policy-depends-on-growth-estimates.md) — related
+- [Growth measures offer a clearer, more accurate picture of learning than achievement data, while achievement data remains critical for tracking student progress](growth-measures-clearer-picture-of-learning.md) — related
+- [Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions](systemwide-actors-shape-instruction-via-assessment.md) — related

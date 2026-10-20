@@ -71,3 +71,7 @@ The report cites research suggesting residency graduates are "generally effectiv
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — related
 - [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](uh-residency-completers-retention-above-state-average.md) — related
+- [Students of residency graduates show achievement outcomes comparable to or better than other novices, with gains emerging over time](residency-graduates-student-achievement.md) — related
+- [Residencies prepare teachers for high-need subjects and schools, with most NCTR-network graduates hired in shortage fields and Title I schools](residencies-fill-high-need-positions.md) — related
+- [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — possibly the same claim (merge candidate)
+- [Claremont residency completers rate the program highly and show strong hiring and retention outcomes](claremont-residency-high-ratings-hiring-retention.md) — related

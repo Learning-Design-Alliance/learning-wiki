@@ -45,3 +45,7 @@ Drawing on teacher interviews and contract analysis, the report finds the 8:30 a
 ## Related Claims
 - [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
+- [Professional learning, broadly defined to include teacher collaboration, coaching, and workshops, was the most important support strategy for instructional change](professional-learning-most-important-support.md) — related
+- [Network participation faced challenges of teacher time, resources, and fragmentation, with about 40 percent of principals reporting few useful resources](network-participation-time-resource-challenges.md) — related
+- [Professional development from CHSRI and CPS is valued by some small-school staff but viewed by others as irrelevant, hard to schedule, and poorly connected to school needs](chsri-professional-development-mixed-reception.md) — related
+- [Teachers drawing on a combination of professional development sources experience higher quality development than those drawing primarily on one source](multiple-pd-sources-higher-quality.md) — related

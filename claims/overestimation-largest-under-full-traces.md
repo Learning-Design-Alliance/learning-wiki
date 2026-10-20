@@ -70,3 +70,4 @@ Omnibus ANOVA on overestimation (perceived minus achieved) was significant with 
 - [Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction](trace-exposure-raises-trust-and-hedonic-appeal.md) — related
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
 - [Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3](task-type-directional-bias-partner-ai-estimates.md) — related
+- [Students expect AI to help their test scores, but control students overestimate the effect relative to the experimental estimate](genai-student-beliefs-overestimate-control.md) — related

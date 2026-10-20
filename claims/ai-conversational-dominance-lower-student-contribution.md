@@ -46,3 +46,8 @@ Paired-samples t-tests on student-level means from the same within-subjects stud
 - [In elementary book talk, students spent significantly more time interacting with a fixed-role AI peer than with their homeroom teacher in both grades](ai-peer-longer-book-talk-sessions.md) — related
 - [For Grade 4 students, the human teacher elicited significantly more utterances than the AI peer in every 4F reflection category, most pronouncedly for Future-oriented talk](grade4-teacher-superior-all-4f-categories.md) — related
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
+- [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
+- [For Grade 5 students the AI peer elicited more factual statements but far fewer Feelings utterances than the teacher, with no significant differences in Findings or Future](grade5-ai-facts-strong-feelings-weak.md) — related
+- [Talk-time analysis showed the mentor spoke more than the mentee in video-recorded dialogues, with classroom management talk ranging from 3% to 39% of total talk time](mentor-mentee-talk-time-classroom-management-dialogues.md) — related
+- [Student proportion of words spoken in whole-class talk increased in both dose groups after VSDR](vsdr-increased-student-talk-proportion.md) — related
+- [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related

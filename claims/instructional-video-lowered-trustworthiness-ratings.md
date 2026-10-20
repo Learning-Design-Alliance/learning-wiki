@@ -44,3 +44,7 @@ Mixed ANOVA on perceived trustworthiness ratings with effect size "η²p=.046" (
 
 ## Related Claims
 - [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](instructional-video-no-effect-source-consideration.md) — related
+- [Students exposed to embedded rating scales mention interviewees' expertise more often in their convincingness justifications](embedded-rating-scales-expertise-justifications.md) — related
+- [Embedded rating scales make middle-schoolers more likely to judge the expert (researcher) speaker as the most convincing](embedded-rating-scales-researcher-most-convincing.md) — related
+- [Middle-schoolers judge a speaker presented as a researcher as more expert and more trustworthy than one presented as a consumer](researcher-judged-more-credible-than-consumer.md) — related
+- [Combining the instructional video with embedded rating scales yielded the highest immediate recognition, but the advantage faded by delayed posttest](combined-prompts-immediate-recognition-advantage-fades.md) — related

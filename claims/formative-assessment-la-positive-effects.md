@@ -87,3 +87,4 @@ The review reports Yang and Lu's (2021) finding that reading time predicted lear
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — related
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](teacher-dbdm-use-increases-dls-effectiveness.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

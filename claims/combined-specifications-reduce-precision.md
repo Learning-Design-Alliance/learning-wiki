@@ -48,3 +48,4 @@ Analysis of urban school district data across value-added specifications. The pa
 - [Including track indicators in value-added models may reduce tracking-related bias for high school reading teachers](track-indicators-reduce-bias-high-school-reading.md) — related
 - [A K-3 school-level growth measure was estimated and examined, with validity and precision concerns suggesting cautious use for accountability](k3-growth-measure-validity-precision-caution.md) — related
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
+- [Administering the Kindergarten Readiness Assessment to a subset of students per classroom greatly reduces precision of schools' K-3 growth estimates](kra-subset-administration-greatly-reduces-growth-precision.md) — related

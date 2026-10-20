@@ -47,3 +47,7 @@ Hierarchical regression in the 526-student survey with the same six control vari
 - [Growth mindset moderates the negative effect of AI employment threat perception on perceived employability, weakening it at higher mindset levels](growth-mindset-moderates-ai-threat-employability-link.md) — related
 - [Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability](growth-mindset-weakens-moderated-mediation-indirect-effect.md) — related
 - [GenAI use is positively associated with self-perceived employability among business students](genai-use-positive-employability.md) — related
+- [AI anxiety directly and negatively predicts college students' career decisions](ai-anxiety-negatively-predicts-career-decisions.md) — related
+- [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related
+- [Career adaptability positively predicts college students' career decisions](career-adaptability-positively-predicts-career-decisions.md) — related
+- [Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students](ct-disposition-positive-employability.md) — related

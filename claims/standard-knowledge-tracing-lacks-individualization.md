@@ -48,3 +48,5 @@ This is the authors' characterizing statement, not an empirical result: despite 
 - BKT learning-rate parameters estimated from simulated student data correlate positively with those estimated from human data — related
 - [Fixed point analysis of the Knowledge Tracing Algorithm yields parameter constraints P(G)+P(S)<1 and 0<P(T)<(1−P(S))/(1−P(G)) for sensible behavior](kt-algorithm-fixed-point-parameter-constraints.md) — related
 - Under standard BKT with non-degenerate parameters, the mastery probability stays above the learn rate even after unboundedly many incorrect responses — related
+- [A multi-skill prior strategy yielded lower prediction error in 33 of 42 problem sets](multi-skill-prior-strategy-best-prediction-error.md) — related
+- [Individualized Knowledge Tracing parameters fit student data significantly better and change mastery-learning practice decisions for many students](individualized-kt-parameters-change-practice-decisions.md) — related

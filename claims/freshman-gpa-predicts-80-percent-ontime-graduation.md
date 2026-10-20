@@ -46,3 +46,5 @@ The article reports, citing Allensworth's analysis for the Consortium on Chicago
 - [On-track status predicts graduation better than eighth-grade test scores](on-track-better-predictor-than-eighth-grade-tests.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
+- [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related
+- [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related

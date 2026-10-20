@@ -48,3 +48,4 @@ Descriptive analysis of CPS graduates. Late-arriving English Learners enrolled i
 - [Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs](el-subgroup-indicator-distributions.md) — related
 - [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average](long-term-els-no-iep-lowest-ontrack-graduation.md) — related
 - [Late-arriving English Learners had cumulative GPAs similar to the district average but substantially lower SAT scores](late-arriving-els-strong-gpas-low-sat.md) — related
+- [Long-term English Learners with IEPs were on-track in ninth grade at near district-average rates but graduated at substantially lower rates, similar to non-English Learners with IEPs](long-term-els-ieps-ontrack-then-fall-behind.md) — related

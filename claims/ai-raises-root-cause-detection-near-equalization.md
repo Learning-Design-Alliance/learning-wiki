@@ -51,3 +51,4 @@ Preregistered "detected root cause" indicator analysis in the results section of
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
 - [Intensive AI assistance predicts strong task performance even with low engagement, but follow-up performance is substantially higher only when intensive AI use is combined with sustained task engagement](intensive-ai-use-carryover-requires-task-engagement.md) — related
 - [Hardware debugging with an LLM assistant takes multiple prompts and more patience than software debugging](hardware-debugging-takes-multiple-prompts.md) — related
+- [ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)](chatgpt-near-passing-threshold-usmle.md) — related

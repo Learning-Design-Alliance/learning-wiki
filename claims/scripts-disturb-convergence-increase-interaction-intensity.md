@@ -43,4 +43,7 @@ Theoretical argument from the article's abstract presenting the perturbation mec
 
 
 ## Related Claims
--
+- [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](conflicting-evidence-increases-argumentation.md) — related
+- [A regulation macro script structured collaboration to support socio-cognitive and socio-emotional monitoring among teacher-education students](regulation-macro-script-monitoring-support.md) — related
+- [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related
+- [Macro scripts foster knowledge-productive interactions: argumentation, explanations and mutual regulation](macro-scripts-foster-productive-interactions.md) — reports the opposite

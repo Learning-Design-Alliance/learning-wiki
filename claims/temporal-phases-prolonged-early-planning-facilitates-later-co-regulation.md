@@ -43,4 +43,9 @@ Analysis of co-regulation activities across early, middle and later phases in th
 
 
 ## Related Claims
--
+- [Medical students using an interactive whiteboard with a structured argument template show deeper collaborative and regulatory discourse and better patient-management outcomes than students using traditional whiteboards](interactive-whiteboard-supports-shared-regulation-medical-decision-making.md) — a broader claim this one bears on
+- [The S-Reg tool prompting groups' awareness of motivational, emotional, and cognitive conditions increased co-regulation, especially early in collaboration](s-reg-tool-increased-co-regulation.md) — related
+- [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
+- [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](high-cognitive-kindles-high-cognitive.md) — related
+- [Epistemic network analysis provides a better account of temporal patterns between socio-cognitive events than coding-and-counting](ena-outperforms-coding-and-counting-temporality.md) — related
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related

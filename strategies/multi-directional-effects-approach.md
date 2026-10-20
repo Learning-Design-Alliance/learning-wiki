@@ -17,7 +17,7 @@ sources:
 # Evaluate constructivist learning environments with a multi-directional approach covering non-cognitive variables alongside achievement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (1 for, 4 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (1 for, 4 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
 
 ## Description
 The article argues effect studies "do not have to exclusively focus on curriculum features" and cognitive effects such as performance, but should "take stock of a broader range of variables influencing the learning process," making understanding and improvement a multi-directional effort. Variables named include approaches to learning, perceptions of assessment demands, assessment preferences, conceptions of learning, personal and role interest, self-regulated strategy development, and how students use resources in computer supported collaborative environments.

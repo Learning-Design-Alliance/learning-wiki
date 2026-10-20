@@ -50,3 +50,6 @@ Post-survey analysis at UofT (N=398) using CAP engagement instruments and MSLQ e
 - [Generative (Constructive) engagement by young children produces better learning than attentive (Passive) engagement](constructive-beats-passive-young-children.md) — related
 - [GATs produced no reliable immediate learning-experience effects on frustration, cognitive load, or situational interest at either institution](gats-no-immediate-experience-effects.md) — related
 - [In the Python-based CS1 course at UofT, GATs produced no significant overall or topic-specific immediate performance effects](gats-no-immediate-performance-effect-uoft.md) — related
+- [Across both institutions, GATs showed no significant effect on long-term summative exam performance](gats-no-long-term-exam-effect.md) — related
+- [In the Java-based CS1 course at TU Delft, GATs significantly improved immediate post-intervention performance pooled across topics, driven mainly by the While-loop intervention](gats-improve-immediate-performance-tu-delft.md) — related
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on

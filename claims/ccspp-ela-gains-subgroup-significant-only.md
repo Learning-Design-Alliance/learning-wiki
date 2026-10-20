@@ -47,3 +47,4 @@ Matched difference-in-differences analysis of first-cohort CCSPP schools reports
 - [By 2023–24, CCSPP Cohort 1 community schools' math and ELA scores exceeded their prepandemic achievement levels, an outcome not observed in comparable non-CCSPP schools](ccspp-cohort1-exceeded-prepandemic.md) — related
 - [Benefits of CCSPP community schools were largest for Black students, English learners, and socioeconomically disadvantaged students](ccspp-largest-benefits-underserved-students.md) — a broader claim this one bears on
 - [CCSPP community schools improved math achievement by 0.06 standard deviations, roughly 43 additional days of learning](ccspp-math-gains-0-point-06-sd.md) — related
+- [CCSPP community schools reduced suspension rates by roughly 15% (0.5 percentage point) relative to matched comparison schools](ccspp-suspension-reduction-15-percent.md) — related

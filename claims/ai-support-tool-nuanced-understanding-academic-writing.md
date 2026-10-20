@@ -47,3 +47,6 @@ The article reports course-level results from an English course for Academic and
 - [Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short](genai-implicit-rules-self-directed-efficient-learning.md) — related
 - Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
+- [AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations](ai-as-support-not-substitute-for-judgment.md) — related
+- [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — a broader claim this one bears on
+- [Universities pair academic-integrity guidance with AI literacy and student readiness supports, treating literacy as strategic rather than punitive](genai-integrity-paired-with-ai-literacy.md) — related

@@ -47,3 +47,5 @@ Experiment 1 solved-versus-not-solved outcome analysis: AS JOS effect η²p = .3
 - [In a self-regulated solving phase, S JOSs predicted solving success and AS and NS JOSs predicted effort regulation](exp3-s-jos-predictive-self-regulated-solving.md) — related
 - [Training improved the predictiveness of AS and NS JOSs but not S JOSs, indicating training increased solving during the JOS task rather than JOS predictiveness](training-improved-as-ns-not-s-jos-predictiveness.md) — related
 - [Solvable judgments of solvability discriminate solvable from unsolvable anagrams even after excluding already-solved judgments](s-jos-discriminating-after-excluding-as.md) — related
+- [Training with longer-duration anagrams improved AS JOS discrimination in blocks 1–3 but not S JOS discrimination](training-improved-as-not-s-jos-discrimination.md) — related
+- [JOS discrimination decreased across blocks as anagram presentation duration was reduced, driven by different mechanisms for AS versus S JOSs](jos-discrimination-decreases-shorter-duration.md) — related

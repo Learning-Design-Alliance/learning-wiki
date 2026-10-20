@@ -46,3 +46,5 @@ The report's key findings synthesize WSSN implementation and outcomes studies, s
 - [Colleges may reach more students with less intensive group-delivered services, while one-on-one services can be customized to individual needs and goals](group-services-reach-more-one-on-one-customized.md) — related
 - [PROMISE's primary innovations over usual services were intensive case management, facilitating early work experiences, and a family focus](promise-innovations-case-management-early-work-family-focus.md) — related
 - [Intensity of SES services and other provider characteristics are not significantly related to estimated impacts](ses-provider-characteristics-not-related-to-impacts.md) — related
+- [One-on-one service delivery may not be the only way to target services to individual student needs](targeting-possible-without-one-on-one-delivery.md) — related
+- [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related

@@ -50,3 +50,5 @@ Meta-analytic synthesis of 39 treatment-control comparisons across 20 experiment
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — possibly the same claim (merge candidate)
 - [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — a narrower finding that bears on this claim
 - [Writing interventions improve writing quality, the most frequently assessed outcome, with an effect of 0.33 for US ELL students](writing-quality-effect-us-ell.md) — possibly the same claim (merge candidate)
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
+- [Strategy instruction significantly improves the writing of US ELL students (g = 0.36)](strategy-instruction-significant-us-ell-writing.md) — a narrower finding that bears on this claim

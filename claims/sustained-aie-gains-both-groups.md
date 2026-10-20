@@ -46,3 +46,4 @@ Within-group Wilcoxon analysis of the instructional follow-up sample (n1 = 57) f
 - [Experiential instruction produces larger immediate pre-post gains than instructional lecture in AI engagement and metacognitive knowledge of cognition](experiential-beats-instructional-immediate-aie-mkc.md) — related
 - [Immediate experiential advantages in knowledge of cognition and engagement converged with the instructional group by five weeks](five-week-convergence-aie-mkc.md) — related
 - [The experiential group showed a delayed, continued within-group increase in regulation of cognition that the instructional group did not show](experiential-delayed-mrc-increase.md) — related
+- [Instructional lecture produced no immediate significant change in metacognitive knowledge or regulation of cognition](instructional-no-immediate-mkc-mrc-change.md) — related

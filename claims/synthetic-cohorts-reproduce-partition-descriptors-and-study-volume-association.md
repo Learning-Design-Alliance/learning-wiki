@@ -66,3 +66,6 @@ Per-learner Spearman correlation using no outcome labels: negative in every coho
 - [Real cohorts separate from marginal-preserving surrogates of themselves in all four years, while three of four synthetic cohorts do not](real-cohorts-separate-from-marginal-surrogates-synthetic-do-not.md) — related
 - [Synthetic cohorts reproduce the level and shape of the weekly β0 partition but vary 2.6–4.9 times less across the term than real cohorts at a common working point](synthetic-cohorts-understate-weekly-beta0-variation.md) — related
 - [The variation gap traces to what the generator was disclosed: no released statistic constrains which band and which week are zero together](disclosed-statistics-do-not-constrain-band-week-co-occurrence.md) — related
+- [In a control experiment on data of known construction, the check is calibrated, can be passed, and separability from marginals is not fidelity](structural-check-calibrated-passable-separability-not-fidelity.md) — related
+- [Synthetic cohorts place week-to-week change in the term's examination weeks, which real cohorts do not](synthetic-cohorts-misplace-examination-week-structure.md) — related
+- [The routine rule for selecting the graph threshold makes naive comparisons of β0 between two datasets invalid](rule-selected-thresholds-make-cross-dataset-beta0-comparison-invalid.md) — related

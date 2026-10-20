@@ -45,3 +45,4 @@ The review reports, citing Van Dyck et al. (2005), that error management culture
 ## Related Claims
 - [Former participants desired more follow-up with their cohort and more support developing talent, managing resources, and cultivating organizational culture](kipp-leadership-participants-desire-more-support.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
+- [Shared mental models of the task predict actual team performance in a business simulation game](shared-mental-models-predict-actual-team-performance.md) — related

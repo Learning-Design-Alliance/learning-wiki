@@ -47,3 +47,5 @@ Interaction-view analysis of the classroom setting, in which 32 of 81 students u
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
+- [The majority of AI-assisted participants self-report using the AI primarily to get answers directly, a pattern validated against chatlogs](majority-use-ai-for-direct-answers.md) — related
+- [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related

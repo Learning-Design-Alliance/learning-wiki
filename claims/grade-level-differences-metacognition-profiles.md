@@ -43,4 +43,7 @@ In the initial full-sample LPA with grade as an active nominal covariate, the Wa
 
 
 ## Related Claims
--
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — a broader claim this one bears on
+- [Generalizability of metacognitive skills across tasks increases between ages eight and eleven](metacognition-generalizability-develops-with-age.md) — related
+- [Task performance relates to metacognition profile membership at the first measurement point but not one year later](performance-profile-relation-dissociates-over-time.md) — related
+- [Fourth graders with low metacognition tend to remain low one year later, particularly showing ineffective restudy decisions](fourth-graders-at-risk-metacognition-persists.md) — related

@@ -46,3 +46,5 @@ Thematic analysis of think-aloud and observation data from the case study. The a
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related
 - Platform users were more convinced than non-users that immediate, imperfect AI feedback is more useful than delayed demonstrator feedback (79% versus 59%) — related
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related
+- [GPT-4 scoring errors clustered on multiple possible answers, unrecognized vocabulary, and missed incorrect or missing answers, while faculty were overly generous graders](gpt4-faculty-error-patterns-oeq-scoring.md) — related
+- [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related

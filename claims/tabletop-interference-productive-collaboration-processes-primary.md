@@ -43,4 +43,5 @@ The editorial summarizes the Price and Pontual Falcão analysis of interaction p
 
 
 ## Related Claims
--
+- [Tabletops tend to be small-group environments, contrasting with personal devices and public whiteboards](tabletops-small-group-environments-contrast-desktops-whiteboards.md) — related
+- [Boundary spanning perceptions and actions are critical mechanisms for productive divergent collaboration](bsp-bsa-critical-mechanisms-divergent-collaboration.md) — related

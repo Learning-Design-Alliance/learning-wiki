@@ -44,3 +44,4 @@ Subset moderator analysis of text length as a four-category variable in the mult
 
 ## Related Claims
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
+- [The TC effect grows with prime time: it is significantly larger at 300 ms than at 60 ms and 150 ms, and does not decrease with longer prime time](tc-effect-increases-with-prime-time.md) — related

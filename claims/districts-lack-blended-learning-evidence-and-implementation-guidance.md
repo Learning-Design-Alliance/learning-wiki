@@ -49,3 +49,5 @@ The authors' stated motivation for the review and infographic: districts want bl
 - [Blended implementation models matched to learner skill level: high-touch blended for lowest-skilled learners, online courses for more advanced students](blended-high-touch-lowest-skilled-adults.md) — related
 - [K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data](officials-unsure-how-to-use-postsecondary-data.md) — related
 - Texas's non-binding tutoring guidance leaves no mechanism to ensure districts follow outlined best practices — related
+- [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related
+- [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — possibly the same claim (merge candidate)

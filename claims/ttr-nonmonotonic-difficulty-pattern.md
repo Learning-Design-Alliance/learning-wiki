@@ -46,3 +46,7 @@ Partial dependence plot for type-token ratio (Figure 2) from the random forest. 
 
 - [Partial dependence plots showed higher word count, more dependent clauses, and higher custom magnitude raised predicted flag probability, with non-linear relationships](partial-dependence-nonlinear-relationships.md)
 - [In the random forest, word count was the most important readability feature while traditional readability formulas ranked near the bottom](word-count-top-traditional-formulas-unimportant.md)
+- [Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax](humanization-suppresses-detector-salient-cues.md) — related
+- [GPT-assisted writing shows higher lexical diversity, richness, and noun/non-stopword ratios, while independently authored writing shows higher adverb ratio and sentence-length variability](stylometric-feature-differences-gpt-vs-human.md) — related
+- [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries](ai-questions-deepen-reflective-writing-quality.md) — related
+- [Revising texts to improve readability-formula scores often produces nonexistent or insignificant comprehension gains](readability-revision-gains-nonexistent-insignificant.md) — related

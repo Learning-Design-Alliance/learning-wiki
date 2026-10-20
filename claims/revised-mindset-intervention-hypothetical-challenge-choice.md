@@ -46,3 +46,5 @@ Secondary analysis in the same Study 1 sample used a dichotomous hypothetical ex
 - [In Study 1, the revised intervention reduced fixed-trait attributions and performance-avoidance goals relative to the original, with small effects](revised-mindset-intervention-attributions-goals-study1.md) — related
 - [In Study 1, the revised growth mindset intervention reduced choosing easy over hard math problems more than the original intervention (d=.19)](revised-mindset-intervention-greater-challenge-seeking-study1.md) — possibly the same claim (merge candidate)
 - [In Study 1, the revised intervention reduced self-reported fixed mindset more than the original intervention](revised-mindset-intervention-larger-fixed-mindset-reduction.md) — related
+- [In Study 1, measured fixed mindset correlated with fixed-trait attributions (r=.28), performance avoidance goals (r=.23), and hypothetical easy-problem choice (r=.12)](fixed-mindset-correlates-study1-replication.md) — related
+- [In Study 1, students rated the revised intervention as more interesting and more informative than the original intervention](revised-intervention-rated-more-interesting-study1.md) — related

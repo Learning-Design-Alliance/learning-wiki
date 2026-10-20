@@ -47,3 +47,5 @@ Descriptive resource table in this REL document listing educator professional de
 - [School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits](algebra-toolkit-school-leader-time-requirements.md) — related
 - [Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection](algebra-toolkit-space-technology-requirements.md) — related
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week](sustained-coaching-contact-hours.md) — related
+- [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related

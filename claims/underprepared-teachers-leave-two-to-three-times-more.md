@@ -49,3 +49,7 @@ The brief reports, citing research, that unprepared entrants to teaching are far
 - Comprehensive preparation and quality mentoring reduce early-career teacher attrition — possibly the same claim (merge candidate)
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — possibly the same claim (merge candidate)
+- [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — related
+- [Students in the highest-poverty schools are almost twice as likely to be taught by inexperienced teachers](highest-poverty-schools-inexperienced-teachers.md) — related
+- [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — related
+- [Fully prepared novice teachers are less than half as likely to leave teaching after their first year than those lacking key training elements](full-preparation-retention-first-year.md) — possibly the same claim (merge candidate)

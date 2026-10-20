@@ -63,3 +63,9 @@ The review reports Domagk's (2008) finding that "likeable agents lead to a highe
 
 ## Related Claims
 - [The mere presence of another person with different knowledge slows egocentric judgements, unaffected by cognitive load](implicit-representation-of-others-knowledge-perspective.md) — related
+- [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — a broader claim this one bears on
+- [Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence](agent-effects-due-to-voice-not-visual-presence.md) — related
+- [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — reports the opposite
+- [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — a narrower finding that bears on this claim
+- [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
+- [Conversational narration style produces a large effect on learning from multimedia instruction, likely via social partnership](conversational-narration-style-large-learning-effect.md) — related

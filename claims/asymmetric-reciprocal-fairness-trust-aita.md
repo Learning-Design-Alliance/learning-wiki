@@ -64,3 +64,4 @@ Chi-square difference tests comparing the focal RI-CLPM against constrained mode
 ## Related Claims
 - [Within-person increases in student trust in AI teaching assistants predict subsequent within-person increases in perceived fairness, with ability trust the strongest antecedent](within-person-trust-predicts-subsequent-fairness-aita.md) — related
 - [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](within-person-fairness-mediates-trust-motivation.md) — related
+- [Procedural justice shows a within-person association with subsequent intrinsic motivation that is numerically larger than its association with extrinsic motivation, though the coefficient difference is not statistically significant](procedural-justice-intrinsic-motivation-within-person.md) — related

@@ -45,3 +45,4 @@ In the time-use log analysis of approximately 100 elementary schools, principals
 ## Related Claims
 - [Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support](principals-third-workweek-instructional-support.md) — related
 - [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related
+- [Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not](principal-pd-teachers-report-less-instructional-support.md) — related

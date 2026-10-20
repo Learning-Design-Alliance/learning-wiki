@@ -64,3 +64,6 @@ Campus interviewee feedback on the implementation process. The executive summary
 ## Related Claims
 - [CSU campuses implementing EO 1110 use corequisite support models in both math/quantitative reasoning and written communication courses, in three main configurations](csu-eo1110-corequisite-models-three-types.md) — related
 - [Campus interviewees identified the one-year implementation timeline as their greatest challenge in implementing EO 1110](one-year-timeline-greatest-implementation-challenge.md) — related
+- [QR faculty on several CSU campuses are incorporating active-learning and problem-solving pedagogies into redesigned entry-level math courses](active-learning-pedagogies-qr-redesign.md) — related
+- [Campuses report success with Directed Self-Placement for written communication, but face challenges with multiple measures placement, especially timely high school transcript availability](dsp-success-multiple-measures-transcript-challenges.md) — related
+- [Committee members hold that driving systems-level change requires actively and directly engaging local communities rather than passively asking for feedback](active-community-engagement-over-passive-feedback.md) — related

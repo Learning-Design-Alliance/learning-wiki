@@ -51,3 +51,5 @@ WWC synthesis of two studies (12,698 students in 36 schools) reporting: Tracey a
 - [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related
 - [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — related
 - [SFA® shows mixed effects on general reading achievement for beginning readers](sfa-mixed-effects-general-reading-achievement.md) — related
+- [Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00](achieve3000-average-effect-size-zero.md) — related
+- [In the comprehension domain, one study of Fast ForWord showed statistically significant positive effects, two showed substantively important positive effects, and three showed indeterminate effects](fast-forword-comprehension-mixed-findings.md) — a broader claim this one bears on

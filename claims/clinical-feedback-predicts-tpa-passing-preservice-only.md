@@ -67,3 +67,5 @@ The same observational analysis found the clinical-support rating did not predic
 - [Elementary candidates have lower TPA passing rates than secondary and special education candidates, possibly due to added assessment complexity](elementary-candidates-lower-tpa-passing-rates.md) — related
 - [Teacher licensure exams disproportionately fail teacher candidates of color without predicting teaching effectiveness](licensure-exams-disparate-fail-rates-no-effectiveness-prediction.md) — related
 - [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](clinical-support-related-to-preparedness-600-hours.md) — related
+- [Elementary and special education candidates from programs rated higher on literacy and math preparation have higher odds of passing the TPA](literacy-math-preparation-predicts-tpa-passing.md) — related
+- [Preservice candidates pass teaching performance assessments at higher rates than intern candidates](preservice-candidates-outpass-interns-on-tpas.md) — related

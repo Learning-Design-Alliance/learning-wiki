@@ -50,3 +50,4 @@ Correlation analysis relating Spanish receptive vocabulary (TVIP) to negative-pr
 - [Stroop inhibition correlates with linguistic competition resolution in bilinguals but not monolinguals](stroop-correlates-competitor-inhibition-bilinguals-not-monolinguals.md) — related
 - [Competitor activation relates to negative priming at different time windows in monolinguals and bilinguals](competitor-activation-priming-timecourse-group-differences.md) — related
 - [Language proficiency moderates switch cost asymmetry, but highly proficient bilinguals still show n-2 language repetition costs consistent with inhibition](proficiency-moderates-switch-cost-asymmetry.md)
+- [Bilinguals show a marginally smaller Stroop effect and higher overall Stroop accuracy than monolinguals](bilinguals-marginally-smaller-stroop-effect.md) — related

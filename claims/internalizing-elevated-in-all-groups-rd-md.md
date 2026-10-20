@@ -64,3 +64,4 @@ Comparisons among the three LD groups in the CLDRC sample found "the group with 
 ## Related Claims
 - [Comorbidity with ODD and CD in RD and MD is restricted to individuals who also meet criteria for ADHD](odd-cd-comorbidity-restricted-to-adhd-subset.md) — related
 - [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related
+- [Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself](peer-rejection-predicts-subsequent-maladjustment-adhd.md) — related

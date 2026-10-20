@@ -48,3 +48,5 @@ Descriptive analysis of weighted fall MAP Growth K-2 scores from over two millio
 - [Black-White and Hispanic-White achievement gaps at kindergarten entry narrowed significantly between 2010 and 2017 in both math and reading](racial-ethnic-entry-gaps-narrowed-2010-2017.md) — related
 - [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
 - [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — a broader claim this one bears on
+- [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — possibly the same claim (merge candidate)

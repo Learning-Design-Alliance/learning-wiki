@@ -48,3 +48,5 @@ FAQ documentation of the norms' data source. The guide states the 2025 norms use
 - [Updated 2025 MAP Growth screening thresholds are set at the 35th percentile with adjustments for the Enhanced Item-Selection Algorithm](map-growth-2025-thresholds-35th-percentile-eisa.md) — related
 - [Under the 2025 MAP Growth norms, the same reading RIT score can rank higher in achievement percentile due to national declines in achievement](2025-norms-raise-reading-achievement-percentiles.md) — related
 - [The MAP Growth National Dashboard draws on a sample of over seven million students in 20,000 schools, about one in four US public schools](dashboard-sample-seven-million-students-20000-schools.md) — related
+- [Under the 2025 norms, higher math growth expectations lower conditional growth percentiles for higher-growth students](2025-norms-lower-math-cgp-higher-growth-students.md) — related
+- [The 2025 MAP Growth norms were derived from one of the largest norming samples ever created, spanning 116,225,831 test events from 13,804,182 students in 29,720 schools across 7,000 districts over six testing terms](map-growth-2025-norms-massive-norming-sample.md) — related

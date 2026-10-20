@@ -51,3 +51,4 @@ Observational finding reported from the Leading the Way research into teaching a
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - Children managed conflict between Indigenous and Western teachings by holding both belief systems side by side or switching by context — related
 - Participating in Elder-led Indigenous teaching changed the teacher's pedagogical practice and deepened her connection to the community — related
+- [The assessment system determined whether an exam-directed focus inhibited or enhanced discussion behaviors](assessment-system-determines-discussion-focus.md) — related

@@ -64,3 +64,4 @@ The same regression analyses found "individuals with reading weaknesses were mor
 ## Related Claims
 - [Children with MD only receive extra math assistance far less often than children with comorbid RD+MD](md-only-less-extra-math-assistance.md) — related
 - [In a small randomized pilot study, children with ADHD showed better sociometric peer functioning when the MOSAIC classroom inclusion components were added to behavioral management and social skills training](mosaic-classroom-inclusion-pilot-gains.md) — related
+- [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related

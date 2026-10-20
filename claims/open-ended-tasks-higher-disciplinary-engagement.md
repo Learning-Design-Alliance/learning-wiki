@@ -47,3 +47,4 @@ Open-ended taskt → DEt 0.08*"
 ## Related Claims
 
 - [Disciplinary engagement at one interval positively predicts subsequent behavioral and collaborative engagement](de-predicts-subsequent-be-and-ce.md)
+- [Adding time-varying task features roughly halves unexplained variance in disciplinary engagement ratings](task-features-explain-half-de-variance.md) — related

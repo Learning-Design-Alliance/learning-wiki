@@ -46,3 +46,5 @@ Analysis of verifications plus clarifications divided by the number of contribut
 
 - [Cognitive load did not clearly increase during group work under high coercion; a three-way interaction of session time, cognitive load and coercion emerged, with a marginal main effect of coercion](cognitive-load-coercion-interaction.md)
 - [Psychological safety is positively associated with negotiation activities (verification, clarification, agreement) in ICT-supported collaborative problem-solving](psychological-safety-facilitates-grounding.md)
+- [Contrary to expectation, common ground after collaboration was highest in the low-coercion (Idiosyncratic) NTool groups, not the Stringent groups](common-ground-highest-idiosyncratic.md) — related
+- [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related

@@ -53,3 +53,4 @@ The study's reported college-attendance finding for the same comparison group as
 - [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
 - [Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment](charter-high-school-effects-both-locations-with-controls.md) — a broader claim this one bears on
 - [Attending a charter high school is associated with an 8 to 10 percentage point higher likelihood of attending college](charter-high-schools-higher-college-attendance.md) — a broader claim this one bears on
+- [Attending a charter high school is associated with a 7 to 15 percentage point higher likelihood of earning a standard diploma than attending a traditional public high school](charter-high-schools-higher-diploma-completion.md) — related

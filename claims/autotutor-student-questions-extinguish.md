@@ -47,3 +47,6 @@ The article reports that when students ask questions, answer relevance and corre
 - [AutoTutor achieved learning gains comparable to human tutors in physics and computer literacy](autotutor-learning-gains-comparable-human-tutors.md) — related
 - [Intelligent tutoring systems are reported to improve learning outcomes, especially in structured knowledge domains](its-improve-outcomes-structured-domains.md) — a broader claim this one bears on
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — related
+- [In a case study, LLM-generated assessment conversations handled common student speech acts more naturalistically than RegExp/LSA conversations](llm-cba-more-naturalistic-than-regexp-lsa.md) — related
+- [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](meta-procedural-requests-socratic-ai-tutor.md) — related
+- [AutoTutor yields average learning gains of 0.3 to 0.8 sigma compared to reading text for an equivalent amount of time](autotutor-learning-gains-0-3-to-0-8-sigma-vs-reading.md) — related

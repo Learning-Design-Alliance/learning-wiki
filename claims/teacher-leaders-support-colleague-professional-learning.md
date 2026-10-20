@@ -57,3 +57,8 @@ The brief's opening statement of the teacher-leader role, offered as the authors
 - [Creating and leading professional learning for colleagues enhances teacher leaders' sense of professionalism and efficacy](ilc-membership-enhances-teacher-leader-efficacy.md) — related
 - [Creating and leading professional learning for colleagues increases teacher leaders' sense of professional efficacy](leading-colleague-learning-builds-teacher-efficacy.md) — a narrower finding that bears on this claim
 - [More experienced teachers confer benefits to their colleagues and to the school as a whole, as well as to their own students](experienced-teachers-spillover-colleagues-school.md) — related
+- [Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled](wts-materials-and-modeling-rated-helpful.md) — related
+- [Teachers prefer professional learning led by their colleagues over training from outside consultants](teachers-prefer-colleague-led-professional-learning.md) — a narrower finding that bears on this claim
+- [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits](algebra-toolkit-school-leader-time-requirements.md) — related
+- [The LEAD Partnership delivers professional development on play-based learning and high-quality teacher-student interactions to school leaders and preK and kindergarten teachers](lead-pd-play-based-learning-high-quality-interactions.md) — related

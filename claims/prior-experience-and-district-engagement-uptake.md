@@ -45,3 +45,5 @@ Qualitative interview and document-analysis study of TCLAS implementation at thr
 ## Related Claims
 - [Coherence with preexisting initiatives made relationship-centered change more readily embraced](coherence-preexisting-initiatives-uptake.md) — related
 - [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](stipends-enable-full-residency-participation.md) — related
+- [Many programs face partnership alignment, hiring-placement, and administrative capacity challenges that limit financial sustainability](partnership-and-capacity-challenges-residencies.md) — related
+- [The Teacher Residency Grant Program supported nearly 1,400 funded residents through 2023, with residency programs graduating nearly 5,000 residents between 2021 and 2024, many in shortage fields and most residents people of color](trgp-supported-residents-shortage-fields.md) — related

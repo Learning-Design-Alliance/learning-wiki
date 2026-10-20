@@ -47,3 +47,5 @@ Evaluation of the Early College High School model reported in the report's Dual 
 - [The study examines charter high school effects on educational attainment in two settings, Florida and Chicago](charter-attainment-study-florida-chicago-scope.md) — related
 - [Charter high school students had comparable high school graduation but much higher four-year college enrollment, selective-college enrollment, and four-semester college completion than comparable non-charter students](cps-charter-better-college-outcomes.md) — related
 - Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
+- [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
+- [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — related

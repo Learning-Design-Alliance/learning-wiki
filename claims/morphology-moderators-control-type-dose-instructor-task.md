@@ -48,3 +48,6 @@ Moderator analyses across 172 effect sizes. Against passive controls the effect 
 - [In exploratory between-subject analyses, embodied learning showed larger effects against passive non-embodied controls (g = 0.43) than against active non-embodied controls (g = 0.86)](control-group-characteristics-moderate-embodied-effects.md) — related
 - [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](non-significant-moderators-embodied-vocabulary.md) — related
 - [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](morphology-no-child-factor-moderators.md) — related
+- [Effects of morphology instruction are large for directly trained words in both reading and spelling](morphology-instruction-large-effects-trained-words.md) — related
+- [Explicit morphology instruction raises EFL secondary students' morphological awareness more than regular EFL instruction alone](emi-raises-efl-morphological-awareness.md) — related
+- [Linguistic comprehension instruction shows no clear immediate effect on generalized reading comprehension outcomes](linguistic-comprehension-instruction-no-immediate-reading-comprehension-effect.md) — related

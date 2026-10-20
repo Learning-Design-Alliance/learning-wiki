@@ -47,3 +47,5 @@ Latent growth curve modeling of parent-reported EATQ-R inhibitory control across
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
 - [Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior](inhibitory-control-growth-rate-unrelated-delinquency.md) — related
 - [Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence](sst-inhibitory-control-curvilinear-growth-adolescence.md) — related
+- [Child IQ, sex, and parental income do not predict initial levels or growth of task-based inhibitory control](covariates-null-task-inhibitory-control-growth.md) — related
+- [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](self-regulation-proactive-response-slowing-children.md) — related

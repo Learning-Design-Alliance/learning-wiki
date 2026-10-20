@@ -46,3 +46,5 @@ Results section reports median change per decade across all linked surveys, comp
 - [Estimates of cohort achievement trends vary substantially by survey agent, with PISA reporting negative math trends](agency-effects-varying-trend-estimates.md) — related
 - [Fourth-grade cohorts in other countries also show larger math than reading gains, suggesting moderators more general than the United States](international-math-reading-differential.md) — related
 - [Achievement progress is steeper for students tested at younger ages, especially in math](younger-students-steeper-achievement-gains.md) — related
+- [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related
+- [Average scores on intelligence tests have risen substantially across generations worldwide](flynn-effect-rising-iq-scores-over-generations.md) — related

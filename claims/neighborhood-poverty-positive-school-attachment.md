@@ -44,3 +44,5 @@ SEM full model predicting age-15 school attachment in the SECCYD sample (n = 924
 
 ## Related Claims
 - [Perceived neighborhood safety is positively associated with school attachment among 15-year-olds after controlling for individual, family, school, and external neighborhood factors](perceived-neighborhood-safety-school-attachment-association.md) — related
+- [Perceived neighborhood safety is protective for school attachment among low-income youth in high-disorder neighborhoods, and mediates the affluence-school attachment link only among non-low-income youth](safety-attachment-moderation-and-mediation-by-income.md) — related
+- [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related

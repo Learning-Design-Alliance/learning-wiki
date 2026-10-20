@@ -48,3 +48,8 @@ Hierarchical multiple regression of inquiry task factor scores of 232 young adul
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
 - [Content knowledge does not significantly predict the number of experiments conducted; general cognitive ability shows a quadratic association and self-concept a negative linear association](null-ck-number-of-experiments-gca-quadratic.md) — related
 - [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md)
+- [Functional correspondence predicts simulation learning outcomes better than physical resemblance or appeals to authenticity](functional-correspondence-predicts-outcomes.md) — related
+- [Dispositional factors add little to predicting inquiry performance except physics self-concept, and extraneous load has a significant negative effect](dispositions-load-little-inquiry-prediction.md) — related
+- [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related
+- [The four collaborative-activity factors jointly explain almost 50% of the variance in group performance](collaboration-factors-explain-half-performance-variance.md) — related
+- [Canfield's learning style variables predicted academic success where cognitive style did not](canfield-learning-style-predicts-academic-success.md) — related

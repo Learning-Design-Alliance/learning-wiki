@@ -60,3 +60,7 @@ Within-item arms on one public, teacher-graded corpus of undergraduate computer-
 - [Pooling repeated LLM grades does not improve agreement on short answers.](pooling-repeated-llm-grades-does-not-improve-agreement.md) — the other candidate for the same budget
 - [Showing an LLM grader a learner's prior performance biases the grade.](showing-a-grader-a-learners-prior-performance-biases-the-grade.md) — context about the work shifts the grade by its marked level; context about the learner shifts it by who the learner is said to be
 - [Rubrics improve peer feedback quality.](rubrics-improve-peer-feedback-quality.md) — the same mechanism, in human assessors
+- [Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — related
+- [The strict-persona vulnerability replicates on an independent machine-learning exam, but its direction is exam-specific: seven of 17 models improve because the persona cancels their over-marking](strict-persona-effect-exam-specific.md) — related
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — related
+- [Students who accessed exemplar examination answers on the LMS achieved higher grades than those who did not](lms-exemplar-access-associated-with-higher-grades.md) — related

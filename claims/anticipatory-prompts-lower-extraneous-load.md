@@ -43,4 +43,8 @@ ANOVA on posttest-only load measures in the prompt-condition comparison; extrane
 
 
 ## Related Claims
--
+- [Lower-prior-knowledge apprentices experienced higher germane cognitive load when learning with retrospective prompts than with anticipatory prompts](retrospective-prompts-higher-germane-load-low-prior-knowledge.md) — related
+- [Anticipatory self-explanation prompts benefited higher-prior-knowledge apprentices on diagnostic strategy description scores, whereas retrospective prompts benefited lower-prior-knowledge apprentices](prior-knowledge-moderates-prompt-direction-strategy-description.md) — related
+- [Lower-prior-knowledge apprentices gained more self-efficacy with retrospective prompts, while anticipatory prompts were detrimental for them](prior-knowledge-moderates-prompt-direction-self-efficacy.md) — related
+- [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related
+- [Self-explanation prompts increase intrinsic and extraneous cognitive load but not germane load in instructional video learning](self-explanation-prompts-increase-intrinsic-extraneous-load.md) — related

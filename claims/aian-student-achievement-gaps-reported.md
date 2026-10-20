@@ -45,3 +45,5 @@ Background statistics the report attributes to the Education Trust (2013), cover
 ## Related Claims
 - [Publicly reported statistics based only on active ELs give a biased picture of EL performance because proficient students exit the subgroup](active-el-reporting-bias.md) — related
 - [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related
+- [In 2013, 195 of 286 eligible LEAs (68 percent) in Arizona, Nevada, and Utah received no Title VII funding, leaving an estimated 18 percent of AI/AN students in the three states unserved](title-vii-eligible-but-unfunded-leas.md) — related
+- [Students who began as English Learners graduated from high school at a slightly higher rate than never-classified EL students and enrolled in college at about the same rate, with more two-year enrollment](cps-english-learner-attainment-2020.md) — related

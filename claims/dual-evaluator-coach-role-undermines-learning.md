@@ -48,3 +48,5 @@ Interview data from teachers in six randomly selected CPS schools. One teacher r
 - [Teachers and administrators diverged on using evaluation ratings for personnel decisions, with 85 percent of administrators supportive](diverging-views-personnel-decisions-reach.md) — related
 - [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related
 - [REACH observations consumed substantial administrator time—about six hours per observation cycle and roughly two to three full weeks per year](observation-workload-administrator-time.md) — related
+- [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
+- [The complexity of coaching responsibilities may fragment the coaching process and reduce its impact](coaching-complexity-may-fragment-impact.md) — related

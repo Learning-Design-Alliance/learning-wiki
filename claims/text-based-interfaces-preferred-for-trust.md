@@ -47,3 +47,5 @@ The review reports two interface-design studies in healthcare contexts (average 
 - Nine interaction design factors recur in post-2023 research on trust in AI-enabled systems, with explainability the most studied — a broader claim this one bears on
 - [Manipulating anthropomorphism shows no clear causal effect on trust in controlled post-generative-AI studies, though long-term use and cue type condition its effects](anthropomorphism-no-clear-causal-effect-on-trust.md) — related
 - [Embodied teaching actions are spatially accurate across models, but temporal action–speech alignment remains more variable](lecturaagents-taq-spatial-strong-temporal-variable.md) — related
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
+- [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related

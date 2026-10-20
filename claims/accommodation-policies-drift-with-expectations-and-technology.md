@@ -44,3 +44,4 @@ The author's abstract-level claim that accommodation policies are unstable over 
 
 ## Related Claims
 - [Assessment accommodations, once adopted, tend to feel transitional rather than fully equal parts of an assessment](accommodations-feel-transitional-not-fully-equal.md) — related
+- [Wikipedia history analysis shows external accommodation: the AIDS origin article progressively weakened and integrated the contentious polio vaccine theory](wikipedia-aids-origin-external-accommodation.md) — related

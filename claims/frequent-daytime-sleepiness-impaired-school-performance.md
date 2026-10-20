@@ -73,3 +73,8 @@ Same prospective cohort, baseline sleepiness predicting follow-up school perform
 - [Sleepy behaviors (eyes closed, head down) showed medium-sized but non-significant effects of sleep restriction](sleepy-behaviors-nonsignificant-medium-effects.md) — related
 - [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — related
 - [Sleep problems are common in school-aged children, with prevalence estimates ranging widely depending on assessment mode and definition](child-sleep-problem-prevalence-range.md)
+- [The association between sleep duration and school performance is nonlinear (p = 0.04) in generalized additive models](nonlinear-sleep-duration-school-performance-association.md) — related
+- [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related
+- [Only 22.34% of Chinese school-aged children get sufficient sleep (≥10 hours), while 37.96% have short sleep duration (<9 hours)](insufficient-sleep-prevalence-chinese-children.md) — related
+- [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — a narrower finding that bears on this claim
+- [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related

@@ -63,3 +63,4 @@ The review reports Quinn and Alessi's influenza epidemic simulation experiment, 
 
 ## Related Claims
 - [A systematic review of bias-mitigation training names considering the opposite as a previously validated way to reduce judgment biases, without testing it itself](considering-the-opposite-reduces-bias.md) — related
+- [Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play](stimulus-and-baseraate-manipulations-shape-exploratory-play.md) — related

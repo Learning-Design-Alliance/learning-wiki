@@ -45,3 +45,4 @@ Analysis of reading and math MAP Growth assessment data from a sample of 8 milli
 ## Related Claims
 - [Post-COVID classrooms show increased academic diversity in the composition and spread of student achievement levels](post-covid-classrooms-academically-diverse-achievement-spread.md) — a broader claim this one bears on
 - [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related
+- [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related

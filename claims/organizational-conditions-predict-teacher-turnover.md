@@ -67,3 +67,5 @@ Same multilevel logistic regression analysis (model 6, N = 5643). Faculty influe
 - [Teachers who find their administrators unsupportive are more than twice as likely to leave as those who feel well-supported](administrative-support-double-attrition-odds.md) — possibly the same claim (merge candidate)
 - [Teachers who strongly disagree that their administration is supportive are more than twice as likely to leave as those who strongly agree](administrative-support-strongest-turnover-predictor.md) — related
 - [Both younger and older teachers are more likely to depart than middle-aged teachers](u-shaped-age-turnover-relationship.md) — related
+- [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related
+- [After controlling for teacher and school background, school demographic characteristics were not significantly related to minority teacher turnover](school-demographics-not-related-to-minority-teacher-turnover.md) — related

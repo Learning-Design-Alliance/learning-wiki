@@ -55,3 +55,4 @@ Random-effects meta-analysis of five PBL studies; pooled ES 1.560 (95% CI 0.768�
 - [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — a narrower finding that bears on this claim
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
 - [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](problem-driven-learning-small-positive-effect-motivation.md) — related
+- [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — related

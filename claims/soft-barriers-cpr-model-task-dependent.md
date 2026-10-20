@@ -43,3 +43,4 @@ Automated evaluation of four perturbation families across Claude Sonnet 4.5, Dee
 ## Related Claims
 - [In an exploratory pilot, a soft barrier shifted participants from direct copying toward editing, understanding, and iterative resubmission without preventing task completion](soft-barrier-shifts-users-toward-editing.md) — a narrower finding that bears on this claim
 - [Pass@1 is not a sufficient success metric for soft barriers because it conflates successful barriers with model generation failures](pass1-false-narrative-soft-barriers.md) — related
+- [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — related

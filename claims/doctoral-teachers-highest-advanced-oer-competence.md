@@ -46,3 +46,5 @@ Descriptive classification by educational level and competence level (Table 3) f
 - [MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules](mooc-oer-competencies-mostly-advanced-similar-across-modules.md) — related
 - [Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — a broader claim this one bears on
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](oer-diffusion-strategy-implementation-self-reports.md) — related
+- [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — related
+- [Teachers' ICT-use competence is high and statistically independent of educational level](ict-competence-independent-of-education-level.md) — related

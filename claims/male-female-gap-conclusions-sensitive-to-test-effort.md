@@ -56,3 +56,4 @@ Sensitivity analysis of achievement gap estimates with and without adjustment fo
 - Boys are increasingly overrepresented among high-achieving elementary math students, with male-to-female ratios rising across grades — related
 - Gender differences in elementary math vary substantially across subdomains, with early female advantages in Geometry reversing by Grades 3-4 — related
 - [The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap](gap-estimates-sensitive-to-test-motivation-investigation.md) — a broader claim this one bears on
+- [Achievement gap estimates are widely used to measure the effectiveness and fairness of the education system, so their accuracy and unbiasedness are necessary for appropriate conclusions](gap-estimates-accuracy-necessary-for-conclusions.md) — related

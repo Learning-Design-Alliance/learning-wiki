@@ -64,3 +64,6 @@ Regression analysis with age as the independent variable on all participant samp
 - [The adolescent improvement in metacognitive ability is independent of perceptual task performance, which was clamped and uncorrelated with age](metacognitive-development-independent-of-task-performance.md) — related
 - [Both the quantity and the quality of metacognitive skills in math increase between the second and third year of secondary education (ages 13–15)](metacognitive-quantity-quality-increase-ages-13-15.md) — a narrower finding that bears on this claim
 - [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
+- [Metacognitive components differ in developmental trajectory: planning and evaluation grow in quantity and quality, orientation quantity decreases, and elaboration grows in frequency but not quality](metacognitive-components-differential-development.md) — related
+- [CMS metacognition correlates with AQ-J-50 social skills and total scores, but self-judgment accuracy does not](cms-criterion-validity-aq.md) — related
+- [CMS metacognition correlates with BCIS self-reflectiveness and CMS self-judgment accuracy correlates with BCIS self-certainty](cms-criterion-validity-bcis.md) — related

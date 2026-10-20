@@ -44,3 +44,4 @@ A descriptive claim from the Executive Summary, part of the paper's argument tha
 
 ## Related Claims
 - [68 percent of K–12 districts experienced enrollment declines between 2018–19 and 2023–24 while still operating roughly the same number of schools](68-percent-districts-declining-enrollment-same-schools.md) — related
+- [Budget cuts reduced North Carolina's teaching force by 5 percent from 2009 to 2018 even as enrollment grew, with rural districts losing more than 20 percent of teachers in a single year and 1,621 unfilled vacancies in 2017-18](nc-teacher-workforce-cuts-vacancies-rural-turnover.md) — related

@@ -46,3 +46,4 @@ Classroom study of the G4L intelligent tutoring system with 45 university studen
 ## Related Claims
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related
 - [The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension](g4l-integrated-approach-supports-navigation.md) — related
+- [Logged time investment on an online mathematics preparation platform differed significantly across SRL intervention groups, rising from control through diary and training + diary to training + diary + peer feedback groups](srl-interventions-increase-logged-time-investment-online-math-prep-course.md) — related

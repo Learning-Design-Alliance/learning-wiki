@@ -43,4 +43,6 @@ Figure 1 shows distributions of pre and posttest total scores for both classes; 
 
 
 ## Related Claims
--
+- [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](tps-roundtable-cooperative-learning-critical-thinking-gains.md) — related
+- [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](cooperative-learning-skill-specific-ct-gains.md) — related
+- [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related

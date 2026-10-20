@@ -47,3 +47,4 @@ The brief asserts, without cited evidence, that individuals with autism are "oft
 
 ## Related Claims
 - [Teens with ASD are described as vulnerable to compulsive internet use that limits in-person social interaction](asd-teens-vulnerable-compulsive-internet-use.md) — related
+- [Existing digital citizenship and online safety frameworks were appraised as too broad and not addressing serious online risks](existing-frameworks-not-comprehensive-online-safety.md) — related

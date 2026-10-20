@@ -66,3 +66,5 @@ Simple slopes analyses (Preacher, Curran, & Bauer technique) at 1 SD below mean 
 - [Among Latino sixth graders, increases in same-ethnic representation from elementary to middle school are associated with higher school belonging and GPA, qualified by school ethnic diversity](latino-representation-change-belonging-gpa-main-effect.md) — a broader claim this one bears on
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [School racial/ethnic diversity and same-racial/ethnic peer proportion jointly predict higher reading achievement in kindergarten, with matching benefits concentrated in more diverse schools](school-diversity-matching-jointly-predict-reading-achievement.md) — related
+- [School belonging and GPA were modestly positively correlated among Latino sixth graders (r = .20)](belonging-gpa-correlation-latino-sixth-graders.md) — related
+- [Positive ethnic-racial affect is usually promotive but was linked to declining academic adjustment for Latino early adolescents in one study](eri-affirmation-academic-adjustment-context-dependent.md) — related

@@ -45,3 +45,5 @@ Whole-brain linear regression of the voxelwise neural ratio effect on the natura
 ## Related Claims
 - [A reliable positive relationship between parietal NRE and math achievement appears only in children, not adolescents or adults](nre-math-achievement-link-only-in-children.md) — related
 - [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related
+- [In children, the BOLD numerical ratio effect correlates with individual differences in the behavioral ratio effect in right OTC, left superior parietal cortex, and bilateral IFG; no such correlation reaches significance in adults](brain-behavior-ratio-correlations-children.md) — related
+- [Behavioral ratio sensitivity for reaction time increases with age, with adults showing greater RT ratio sensitivity than children](rt-ratio-sensitivity-increases-with-age.md) — related

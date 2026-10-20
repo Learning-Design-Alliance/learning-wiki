@@ -55,3 +55,4 @@ RQ2 thematic analysis found ethical acceptability framed around whether GenAI us
 - [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — related
 - [Hybridization of authorship blends human and AI-generated content, often without learners' explicit awareness of the boundary, normalizing formulaic rhetorical structures](hybridization-of-authorship-argumentation.md) — related
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — related
+- [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](judgement-bearing-assistance-central-pivot.md) — related

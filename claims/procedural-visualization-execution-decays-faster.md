@@ -46,3 +46,5 @@ LMM analysis of technical-execution rubric scores for the same 40-student cohort
 
 - [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](conceptual-procedural-correlation-weakens-over-time.md)
 - [Technologically oriented help requests comprised 11.5% of requests and declined steeply from the first to the last post-experiment activity](tech-help-requests-steep-decline-across-activities.md)
+- [Procedural losses were steepest for axis labeling and annotations, while conceptual losses were steepest for explanation of scales and terminology](criterion-level-decline-patterns-visualization.md) — related
+- [Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction](conceptual-visualization-knowledge-declines-twelve-months.md) — related

@@ -45,3 +45,7 @@ Descriptive analysis of post-assignment reflection surveys from 211 students who
 ## Related Claims
 
 - [Student LLM usage patterns varied across data science courses: Course-BD showed the highest frequency and over-reliance with near-zero perceived learning effect](llm-usage-varied-across-data-science-courses.md)
+- [Verification strategy type varies by assignment context: testing is more common in structured tasks (Algorithms 87.8%) while web search is more common in open-ended tasks (HCI 56.0%)](verification-type-varies-by-assignment-context.md) — related
+- [Prompt-count distributions differ significantly across assignments, with moderate prompting most common and extended prompting (10+) rare except in Algorithms (18.0%)](prompt-count-distributions-differ-across-assignments.md) — related
+- [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related
+- [Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one](verification-nearly-universal-multiple-strategies.md) — related

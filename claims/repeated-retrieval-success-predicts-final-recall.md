@@ -72,3 +72,5 @@ Separate multilevel logistic regression models for each Experiment 2 session; th
 - [Map B was self-scored as easier to learn than Map A during the test/study phase](map-b-easier-than-map-a-self-scored.md) — related
 - [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](skipping-feedback-fixed-time-improves-recall.md) — related
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related
+- [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
+- [Completing more skill levels is associated with higher Checkpoint Quiz post-test accuracy, with positive coefficients for Levels 1, 2, and 4](leveling-up-associated-checkpoint-quiz-accuracy.md) — related

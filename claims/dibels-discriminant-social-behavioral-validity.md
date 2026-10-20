@@ -44,3 +44,6 @@ Bivariate correlations with teacher-rated Penn Interactive Peer Play Scale dimen
 
 ## Related Claims
 - [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
+- [Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning](dibels-convergent-math-learning-behaviors.md) — related
+- [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related
+- [DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)](dibels-engaged-literacy-learning-canonical.md) — related

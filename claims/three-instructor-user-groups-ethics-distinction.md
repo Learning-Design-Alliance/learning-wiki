@@ -47,3 +47,4 @@ Cluster analysis of the instructor sample (n = 256) from the questionnaire study
 - [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
 - [Cluster analysis identifies three stable learner profiles: Engaged and Literate, Uncritical Reliant, and Skeptical Minimal users](three-genai-learner-profiles.md) — related
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
+- [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related

@@ -49,3 +49,4 @@ Hierarchical linear regression predicting end-of-year fluency in the 153-child s
 - [End-of-year decoding was not predicted by any mid-year anxiety subscale](decoding-not-predicted-by-anxiety.md) — related
 - [Better mid-year decoding performance positively predicts end-of-year harm avoidance symptoms](decoding-predicts-higher-harm-avoidance.md) — related
 - [Total anxiety predicts later fluency for girls only, via a significant gender-by-anxiety interaction](gender-moderates-anxiety-fluency-relation.md) — related
+- [Better mid-year oral reading fluency predicts lower separation anxiety symptoms at end of first grade](fluency-predicts-lower-separation-anxiety.md) — related

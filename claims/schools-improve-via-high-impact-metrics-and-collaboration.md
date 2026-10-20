@@ -46,3 +46,6 @@ This is the article's own promotional assertion about the book's argument, not a
 - BARR reduces ninth-grade chronic absenteeism in a large school-level randomized study — a narrower finding that bears on this claim
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
+- [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
+- [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related

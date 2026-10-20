@@ -47,3 +47,4 @@ Study 2 ANOVA on draw relative accuracy (Pearson) with 48 undergraduates reading
 - [In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) — related
 - [Text-only students based draw judgments on internal mental images while image-condition students recalled external visuals](internal-vs-external-visual-cue-use-draw-judgments.md) — related
 - [Students reported using visual cues for draw judgments but not for test or explain judgments](visual-cues-reported-only-for-draw-judgments.md) — related
+- [Students in the image condition gave higher draw judgment magnitude than text-only students in Study 1a](image-condition-inflated-draw-judgment-magnitude.md) — related

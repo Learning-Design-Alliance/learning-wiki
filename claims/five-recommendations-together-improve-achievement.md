@@ -46,3 +46,4 @@ The panel's synthesis of the WWC-reviewed intervention studies reports that comb
 ## Related Claims
 - [All five of the guide's data-use recommendations are supported by low levels of evidence](data-use-recommendations-low-evidence.md) — reports the opposite
 - [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](no-direct-evidence-developmental-progression-versus-unguided.md) — related
+- [Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations](advocacy-and-engagement-direct-test-evidence.md) — reports the opposite

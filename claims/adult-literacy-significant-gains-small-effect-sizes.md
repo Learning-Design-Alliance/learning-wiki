@@ -47,3 +47,6 @@ Repeated measures ANCOVAs collapsed across instructional group with the four WJ 
 - [Correlations among reading and reading-related measures were much lower than expected, indicating poor integration of skills in struggling adult readers](poor-integration-low-correlations-adult-readers.md) — related
 - [No significant instructional-group effects were detected at the six-month follow-up assessment](no-follow-up-group-effects.md) — related
 - [ESL participants showed significantly higher posttest word attack scores than native English speakers](esl-speakers-higher-word-attack-posttest.md) — related
+- [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [Non-native English learners made significantly greater reading gains than native learners on 7 of 11 measures, while native learners gained more on vocabulary](non-native-learners-larger-reading-gains.md) — related
+- [Learner characteristics, class assignment, and WIC benefits significantly predicted persistence in adult literacy classes (Greenberg et al.)](learner-characteristics-predict-adult-persistence.md) — related

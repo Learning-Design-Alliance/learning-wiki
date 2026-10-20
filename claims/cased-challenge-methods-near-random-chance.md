@@ -46,3 +46,4 @@ Official CASED challenge leaderboard results (Tables 1 and 2) reported by the au
 - [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related
 - [Secondary outcomes differed in predictability: near-term related-task performance was hardest while 7–28-day performance showed a longitudinal signal](secondary-outcomes-varied-predictability.md) — related
 - [Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction](course-prediction-metrics-auxiliary-task.md) — related
+- [Including grader bias and reliability as features improves prediction of future course participation from AUC 0.93 to 0.98, capturing an engagement dimension missed by assignment grade](grader-bias-reliability-predict-future-participation.md) — related

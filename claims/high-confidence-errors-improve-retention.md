@@ -81,3 +81,4 @@ The effect is dependent on receiving immediate, non-punitive, and clear correcti
 - [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Corrective feedback facilitates L2 grammatical development, with explicit feedback stronger immediately and implicit feedback better maintained over time](cf-facilitates-l2-grammar-explicit-implicit-durability.md) — related

@@ -46,3 +46,5 @@ Theoretical argument from the Prototypes, Caricatures, and Concept Definition se
 - [Concepts become more interrelated with practice under discriminate instructions, and more isolated with practice under image instructions](practice-changes-concept-interrelatedness.md) — related
 - [Imagery instructions yield more isolated concepts than discriminating-feature instructions, as shown by greater influence of nondiagnostic features on categorization accuracy](image-instructions-isolated-concepts-nondiagnostic-features.md) — related
 - [Frequent alternation of categories yields more interrelated concepts than infrequent alternation, as indicated by a diagnosticity-by-alternation interaction](frequent-category-alternation-interrelated-concepts.md) — related
+- [Subjects given image instructions include more nondiagnostic features in their drawings of concepts than subjects given discriminate instructions](drawings-image-group-more-nondiagnostic-features.md) — related
+- [Categorization accuracy was significantly higher for infrequently alternated categories than for frequently alternated categories](infrequent-alternation-higher-accuracy.md) — related

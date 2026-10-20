@@ -46,3 +46,6 @@ Qualitative analysis of Callie's response to Józefów Document A, in which she 
 
 - [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](imagined-past-self-greater-entry.md)
 - [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md)
+- [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](self-perspective-shifts-as-learning.md) — a broader claim this one bears on
+- [All four participants used all four self perspectives, with rapid shifts among them during HPT](all-four-participants-used-all-four-self-perspectives.md) — related
+- [Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77)](self-perspective-coding-interrater-agreement.md) — related

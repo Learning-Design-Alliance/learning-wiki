@@ -45,3 +45,4 @@ Theoretical proposal in the Motivational processes section: motivation for equil
 ## Related Claims
 
 - [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md)
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related

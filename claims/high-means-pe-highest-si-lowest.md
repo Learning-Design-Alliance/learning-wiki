@@ -46,3 +46,5 @@ Descriptive analysis of the 349-sample survey shows "construct SI having the low
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — related
+- [Course major moderates the predictive effects on Gen Z students' AI adoption](course-major-moderates-gen-z-ai-adoption.md) — related
+- [Experience influences all predictive factors of AI adoption, but its impact diminishes as experience increases](experience-moderates-diminishes-gen-z-ai.md) — related

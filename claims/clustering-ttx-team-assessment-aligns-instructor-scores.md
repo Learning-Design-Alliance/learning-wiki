@@ -47,3 +47,5 @@ Quantitative comparison (RQ1) of DBSCAN-based consensus clustering outputs again
 - [GPT-4o's rubric-guided grading of team communication disagreed with instructors at near-chance levels (55% RMSE), while GPT-5.2 improved but remained insufficiently aligned (35%)](llm-communication-grading-insufficient-alignment-ttx.md) — related
 - Q-matrices clustered from DKT and skip-gram item embeddings do not outperform dAFM models but do outperform a randomly initialized Q-matrix — related
 - [Technology-enhanced tabletop exercises delivered via IXP across 25 exercises and 743 participants showed increased student engagement and collaboration and clearer instructor visibility.](ttx-ixp-25-exercises-743-participants-engagement.md) — related
+- [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
+- [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](milestones-adapt-exercise-pace-per-team.md) — related

@@ -63,3 +63,4 @@ Reliability analysis of the same five-annotator content review (Results §4.4). 
 
 ## Related Claims
 - [LLM difficulty predictions for fraction items are less stable across repeated runs than for the overall item set](llm-fraction-predictions-run-to-run-instability.md) — related
+- [CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation](cpig-improves-response-originality-over-iterations.md) — related

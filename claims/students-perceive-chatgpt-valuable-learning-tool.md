@@ -46,3 +46,7 @@ Semi-structured interviews with 25 male and 30 female students who had used Chat
 - [Male and female students used ChatGPT differently: females used it more frequently and for questions, males more sporadically and to check answers](gender-differences-chatgpt-use-patterns.md) — related
 - [Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time](students-recommend-chatgpt-suggest-improvements.md) — related
 - [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](chatgpt-qualitative-engagement-comprehension-quantum.md) — related
+- [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
+- [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](students-perceive-genai-academic-benefits.md) — possibly the same claim (merge candidate)
+- [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — related

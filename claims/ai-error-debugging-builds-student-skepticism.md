@@ -53,3 +53,6 @@ Authors' observational reflection from a single cohort of two high-school studen
 - [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — a broader claim this one bears on
 - [K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions](students-teachers-see-ai-imperfect-prefer-human-control.md)
 - [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
+- [Teachers report AI tools foster collaborative, socially constructed learning through shared data and critical negotiation of AI outputs](ai-fosters-collaborative-social-construction.md) — related
+- [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related
+- [GenAI use in creative contexts tends toward regression to the mean: less skilled users improve while higher skilled users decline](genai-creativity-regression-to-the-mean.md) — related

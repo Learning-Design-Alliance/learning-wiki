@@ -43,4 +43,7 @@ Exploratory qualitative and quantitative analyses within the same study. The art
 
 
 ## Related Claims
--
+- [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related
+- [Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence](intersubjectivity-amid-persistently-opposed-perspectives.md) — related
+- [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md) — related
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](strong-convergence-resource-use-during-collaboration.md) — related

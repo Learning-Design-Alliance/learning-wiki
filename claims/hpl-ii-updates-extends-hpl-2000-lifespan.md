@@ -45,3 +45,10 @@ The project's statement of task, as printed on the activity page, defines the st
 ## Related Claims
 - The expanded edition of How People Learn draws on two NRC committee efforts, the second of which was formed to link learning research to classroom practice — related
 - The study calls for integrative research designs that combine knowledge from multiple fields, including network, multi-level, and simulation modeling — related
+- [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
+- [Spacing enhances learning across various domains and across the lifespan, with emphasis on applied educational settings](spacing-enhances-learning-across-domains-lifespan.md) — related
+- [Designers develop cultural awareness through both informal exposure and formal intentional means](awareness-developed-informal-formal-means.md) — related
+- [The paper reports that delayed entry into adulthood has increased role ambiguity and individualized identity development in emerging adulthood](emerging-adulthood-delay-increases-role-ambiguity.md) — related
+- [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
+- [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
+- [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — related

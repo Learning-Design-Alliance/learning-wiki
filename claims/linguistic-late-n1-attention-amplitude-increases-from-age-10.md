@@ -48,3 +48,4 @@ In the dichotic story ERP study, linguistic-probe late-N1 amplitude showed signi
 ## Related Claims
 - [Linguistic-probe late-N1 latency decreases with age, unlike the stable early-N1 latency for nonlinguistic probes](linguistic-late-n1-latency-decreases-with-age.md) — related
 - [The effect of attention on linguistic-probe P1 latency interacts with age group](age-by-attention-interaction-linguistic-p1-latency.md) — related
+- [Attention increases nonlinguistic-probe P1 amplitude in adults and 13-year-olds, but modulation is weak or absent in 16-year-olds](nonlinguistic-p1-attention-modulation-varies-by-age.md) — related

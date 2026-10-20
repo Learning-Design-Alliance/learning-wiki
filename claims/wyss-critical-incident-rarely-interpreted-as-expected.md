@@ -66,3 +66,4 @@ Eye-tracking data from the same Wyss et al. study; combining verbal protocols wi
 - [Certain multimodal data combinations improve predictive model performance, with audio plus eye-tracking data most effective in one K–8 study](mmla-k8-modality-combinations-prediction.md) — related
 - [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related
 - [Eye tracking can identify which words a second-language reader had trouble understanding](eye-tracking-identifies-difficult-words-l2-reading.md) — related
+- [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related

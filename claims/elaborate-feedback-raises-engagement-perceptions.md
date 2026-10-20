@@ -52,3 +52,5 @@ The review reports, citing an included study, that "providing elaborate explanat
 - [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — related
+- [Learners reported higher perceived learning and satisfaction and lower mental effort with the instructor video, despite no performance gains — a perception-performance gap](instructor-presence-perception-performance-gap.md) — related
+- [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related

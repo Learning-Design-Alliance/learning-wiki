@@ -65,3 +65,5 @@ Same Experiment 3 analysis comparing invalid-cue costs across hemifield configur
 
 - [Covert attention facilitates detection within the foveola at locations only 20 arcminutes apart, with an effect similar in magnitude to the parafovea](covert-attention-facilitates-foveolar-detection.md)
 - [Fine foveolar attentional effects persist during normal, non-stabilized fixation with natural retinal image motion](foveolar-attention-persists-normal-fixation.md)
+- [Endogenous spatial cueing speeds detection at the attended parafoveal location and slows it at the unattended location](covert-cueing-speeds-parafoveal-detection.md) — related
+- [Detection is slower for targets within the foveola than in the parafovea despite equal detectability](foveolar-detection-slower-than-parafoveal.md) — related

@@ -45,3 +45,5 @@ Linear mixed-effects model on prompting self-efficacy (0–10 scale) from 106 ob
 
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — the general claim this finding bears on, with the studies behind it
 - [A 45-minute prompt-based programming lesson produced greater pre-to-post gains in Promptly problem solving than a code-tracing control, though not statistically significant](brief-prompting-lesson-modest-performance-gains.md) — related
+- [Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy](prior-experience-predicts-prompting-outcomes.md) — related
+- [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](prompts-increase-self-efficacy-during-learning.md) — related

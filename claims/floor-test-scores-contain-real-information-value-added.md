@@ -47,3 +47,4 @@ Analysis of data from a large urban district finds that "students who score at t
 - [The lower a test's score ceiling, the more teacher value-added estimates shrink toward the average teacher, because ceiling scores contain imprecise information about achievement](lower-ceilings-shrink-value-added-toward-average.md) — related
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — reports the opposite
 - The paper clarifies confusion about the use of value-added information in teacher evaluation — a broader claim this one bears on
+- [Reliability of state test scores is highest near cut-scores or the mean and much lower for very high- or low-performing students](conditional-reliability-low-at-score-tails.md) — related

@@ -44,3 +44,7 @@ Implementation study component assessing program and scale-up fidelity during th
 
 ## Related Claims
 - [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — related
+- [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related
+- [After two years, TLTS raised student math achievement by 0.09 standard deviations relative to comparison schools](tlts-two-year-math-effect-009-sd.md) — related
+- [After two years, TLTS raised student ELA achievement by 0.05 standard deviations relative to comparison schools](tlts-two-year-ela-effect-005-sd.md) — related
+- [Grade 8 students in TLTS schools scored 0.12 standard deviations lower in social studies than comparison students](tlts-grade8-social-studies-negative-effect.md) — related

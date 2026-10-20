@@ -45,3 +45,7 @@ Experiment 2a strategy-use frequencies (Table 1: 17.27% help requests vs 48.09% 
 ## Related Claims
 
 - [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md)
+- [The association between confidence and help seeking is weaker than the association between confidence and withholding answers](weaker-confidence-help-seeking-than-withholding.md) — related
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](withholding-improves-output-bound-accuracy-help-seeking-not.md) — related
+- [The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers](larger-confidence-overlap-help-seeking.md) — related
+- [Participants seek AI advice less frequently when accuracy carries monetary stakes](stakes-reduce-ai-advice-seeking.md) — related

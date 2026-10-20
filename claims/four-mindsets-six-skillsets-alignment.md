@@ -43,3 +43,4 @@ The report attributes this alignment finding to its authors' prior work (Mills e
 ## Related Claims
 - [K-12 stakeholders across sectors report enthusiasm for competency-based learning, assessment, and recognition technologies](cross-sector-enthusiasm-competency-recognition-k12.md) — related
 - [The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles](wrl-rubric-transferred-across-sectors.md) — related
+- [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related

@@ -69,3 +69,5 @@ The review reports, citing Rodríguez et al. (2022), systemic inequality issues 
 - [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related
 - [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related
+- [Common risks of AI integration in nursing education include technological inequities, faculty preparedness gaps, and ethical concerns around privacy and bias](ai-nursing-education-risks-inequity-ethics.md) — related
+- [The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations](ai-teaching-enhancement-and-equity-analysis-reported.md) — related

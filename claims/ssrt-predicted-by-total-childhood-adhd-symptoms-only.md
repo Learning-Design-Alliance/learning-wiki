@@ -67,3 +67,6 @@ Null finding from the path analyses in the same longitudinal sample. The article
 - [Early precursors predict adolescent N2 directly, not indirectly through childhood inattention symptoms](direct-not-indirect-paths-early-precursors-n2.md) — related
 - [Lower temperamental effortful control at 36 months directly predicts reduced N2 amplitude in adolescence, above and beyond ADHD symptoms](early-effortful-control-predicts-adolescent-n2.md) — related
 - [Paternal inattention symptoms measured in early infancy predict adolescent N2 amplitude almost 17 years later, suggesting a parent-of-origin effect](paternal-inattention-infancy-predicts-adolescent-n2.md) — related
+- [Adolescents in the lowest quartile of concurrent inattention symptoms show larger negative N2 amplitudes than the other three quartiles, with no linear concurrent correlation](lowest-inattention-quartile-larger-n2-concurrent.md) — related
+- [Inhibitory control did not relate to adolescents' communicative perspective-taking](inhibitory-control-not-related-perspective-taking.md) — related
+- [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related

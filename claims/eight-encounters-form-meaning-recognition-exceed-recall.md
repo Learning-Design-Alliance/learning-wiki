@@ -47,3 +47,5 @@ One-way within-groups ANOVA on the three vocabulary tests of 23 L2 participants 
 - [L2 learners report higher certainty for meaning recognition than for meaning recall or form recognition of newly encountered words](certainty-higher-meaning-recognition-than-recall.md) — related
 - [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related
 - [Recognition tests yield higher word-learning effect sizes than recall tests](recognition-tests-higher-effect-sizes-than-recall.md) — related
+- [Unknown words are read significantly longer than known control words in all four eye-tracking measures](targets-read-longer-than-controls-all-measures.md) — related
+- [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related

@@ -47,3 +47,5 @@ Analysis of strategy use in the coding of the N = 87 sample (analytic sample red
 
 ## Related Claims
 - [Students are far more inclined to use conceptual and textual representational tools than arithmetical ones, and collaboration does not stimulate arithmetical tool use](format-affects-inclination-to-use-tool.md) — related
+- [Most preservice teachers were overconfident in the completeness of their fraction comparison explanations at both first draft and revision](pst-overconfidence-fraction-explanation-calibration.md) — related
+- [Correct exemplars supported greater detection and correction of errors and omissions in explanations than a list of steps focused on structural aspects](correct-exemplars-beat-defining-features-for-error-detection.md) — related

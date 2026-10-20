@@ -46,3 +46,4 @@ One-way ANOVA comparing ABR means across ADHD subtypes; e.g. wave III mean was 3
 - [ADHD children show significantly prolonged ABR wave III, IV, V and interpeak I-III, III-V, I-V latencies compared with controls](adhd-prolonged-abr-latencies.md) — related
 - [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related
 - [Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity](learning-disability-correlates-abr-eeg.md) — related
+- [Epileptiform EEG activity is more prevalent in the inattentive ADHD subtype](epileptiform-eeg-inattentive-adhd.md) — related

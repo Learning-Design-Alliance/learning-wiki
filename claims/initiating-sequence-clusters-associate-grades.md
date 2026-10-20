@@ -47,3 +47,5 @@ Multilevel regression (RQ4) predicting final grades from students' frequencies o
 - [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](high-cognitive-kindles-high-cognitive.md) — related
 - [Online PBL group interaction follows the scripted sequence initially, but co-regulation derails over time into social bonding with fewer high-cognitive interactions](pbl-group-sequence-derails-to-social.md) — related
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](sequence-patterns-beat-frequencies-pbl-grades.md) — related
+- [Explicit group regulation in online PBL was infrequent, emerged in response to challenges, and often involved teacher support](explicit-regulation-infrequent-challenge-responsive.md) — related
+- [Groups that initiated collaboration early, coordinated before problem-solving, and interacted continuously tended to achieve equal participation and higher satisfaction](early-coordination-continuous-interaction-equal-participation.md) — related

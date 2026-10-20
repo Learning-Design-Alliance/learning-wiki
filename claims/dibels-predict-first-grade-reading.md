@@ -65,3 +65,5 @@ Bivariate correlations between kindergarten DIBELS and first-grade DRA instructi
 - [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related
 - [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
 - [Nonsense Word Fluency adds no unique predictive information about first-grade reading when considered simultaneously with other DIBELS subtests](nwf-no-unique-predictive-contribution.md) — a narrower finding that bears on this claim
+- [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — related
+- [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related

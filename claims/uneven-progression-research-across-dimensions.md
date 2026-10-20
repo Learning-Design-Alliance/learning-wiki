@@ -47,3 +47,4 @@ The report's literature synthesis states that British work provides the deepest 
 - [British empirical research concluded that students do not naturally progress in historical understanding with age but progress because of targeted instruction designed to support it](targeted-instruction-drives-historical-thinking-progression.md) — related
 - [Dimensions of historical thinking are conceptually decoupled: sophistication in one second-order concept does not imply sophistication in another](historical-thinking-dimensions-conceptually-decoupled.md) — related
 - [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
+- [Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot](hts-rubrics-low-consistency-claims-evidence-comparison.md) — related

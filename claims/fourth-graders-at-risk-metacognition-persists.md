@@ -44,4 +44,7 @@ Longitudinal profile-change analysis of 123 fourth graders with complete data; o
 
 
 ## Related Claims
--
+- [Metacognition profile classifications differ between second and fourth graders](grade-level-differences-metacognition-profiles.md) — related
+- [For second graders, low metacognition at the first measurement point carries no extra risk of low metacognition one year later](second-graders-low-metacognition-not-persistent.md) — related
+- [Elementary school children show distinct latent profiles of procedural metacognition combining monitoring accuracy, restudy effectiveness, and decision accuracy across tasks](distinct-metacognition-profiles-lpa-children.md) — related
+- [Effective restudy selection is the metacognitive skill that most distinguishes children's profiles](effective-restudy-distinguishes-metacognition-profiles.md) — related

@@ -53,3 +53,7 @@ The review reports, citing Janebi and Haghighatpasand (2019), that an adventure 
 - [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related
 - [Digital game-based learning supports long-term retention of second-language vocabulary](dgbl-long-term-vocabulary-retention.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
+- [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
+- [Only L1-gloss-L2-ex and L1-in-text-gloss conditions significantly outperform the no-gloss control on all three vocabulary recall tests](gloss-l2-ex-and-in-text-gloss-beat-control-scheffe.md) — related
+- [All three L1 gloss conditions significantly improve immediate vocabulary recall over a no-gloss control in EFL reading](l1-glosses-improve-immediate-vocabulary-recall.md) — related
+- [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related

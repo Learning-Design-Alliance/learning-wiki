@@ -49,3 +49,4 @@ Theoretical speculation (type e) linking the authors' events to the Goldilocks E
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](surprise-enhances-childrens-word-learning-museum.md) — related
 - [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related
 - [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
+- [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related

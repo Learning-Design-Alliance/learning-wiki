@@ -48,3 +48,4 @@ The fact sheet states, without citing data or studies, that children entering ki
 - [Attendance in pre-kindergarten and kindergarten is important for young learners](prek-kindergarten-attendance-importance.md) — related
 - [Attendance in pre-kindergarten and kindergarten is important, and early-grade chronic absenteeism has identifiable risk factors](early-grades-chronic-absenteeism-risk-factors.md) — related
 - [The publication asserts that chronic absenteeism in pre-kindergarten and kindergarten is important for districts and school leaders to address](chronic-absenteeism-early-grades-importance-asserted.md) — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on

@@ -47,3 +47,5 @@ evaluation."
 
 ## Related Claims
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
+- [Component measure ratings had low to moderate positive correlations with each other, suggesting the components measure distinct dimensions of principal performance](component-measures-distinct-dimensions-principal-performance.md) — related
+- [A moderate negative correlation exists between cognitive offloading tendency and critical thinking while the constructs remain empirically distinct](cot-cts-correlation-distinct-constructs.md) — related

@@ -49,3 +49,4 @@ Narrative review describing a teacher-researcher study (Min 2006) in which a sam
 - [The Trainer is expected to make peer comments more specific, criterion-referenced, and evidence-based](trainer-expected-improve-comment-quality.md) — related
 - [Providing peer feedback can be more beneficial than receiving it because it is more cognitively engaging](providing-peer-feedback-more-cognitively-engaging.md) — related
 - [The Synthesizer is expected to support uptake and action planning compared with unsynthesized feedback](synthesizer-expected-support-uptake-action-planning.md) — related
+- [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related

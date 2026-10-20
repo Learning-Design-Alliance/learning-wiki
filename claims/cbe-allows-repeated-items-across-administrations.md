@@ -44,3 +44,4 @@ Longitudinal item exposure counts across administrations (Tables 4.16–4.19) we
 
 ## Related Claims
 - [Within a single administration, COLO administered more items and overexposed fewer items than the CBE, likely due to its randomesque exposure-control procedure](colo-better-within-administration-item-exposure.md) — related
+- [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related

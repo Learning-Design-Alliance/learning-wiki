@@ -50,3 +50,6 @@ Expert interview with Vincent Tinto, quoted in the real-world applicability them
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
 - [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](belonging-multifaceted-context-dependent.md) — related
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — related
+- [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
+- [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related

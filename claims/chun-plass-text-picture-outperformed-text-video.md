@@ -45,3 +45,7 @@ The dissertation reports, citing Chun and Plass (1996), a within-subject/repeate
 ## Related Claims
 - [Combining textual and pictorial glosses improves incidental vocabulary learning more than single-mode glosses](multimodal-glosses-improve-incidental-vocabulary-learning.md) — related
 - [Multimedia glosses improve EFL students' immediate vocabulary acquisition relative to reading the same texts without glosses](multimedia-glosses-improve-efl-vocabulary-acquisition.md) — related
+- [In Lomicka's think-aloud study, no statistical differences emerged among no-gloss, single-gloss, and multiple-gloss groups despite apparent vocabulary gains from multiple annotations](lomicka-no-statistical-difference-gloss-groups.md) — related
+- [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](yoshii-text-picture-definition-supply-only.md) — related
+- [Earlier meta-analyses, as reported second-hand, find that glosses improve L2 vocabulary learning and that text-and-picture glosses outperform single-mode glosses](glossing-medium-large-effects-l2-vocabulary.md) — related
+- [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related

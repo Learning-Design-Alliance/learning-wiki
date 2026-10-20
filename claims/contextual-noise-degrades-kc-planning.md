@@ -46,3 +46,4 @@ Controlled noise-injection experiment (Table 7) in which irrelevant textbook tit
 - [Removing explicit mastery information from learner profiles mainly degrades Adaptivity](mastery-information-needed-for-adaptivity.md) — related
 - [Retrieval augmentation raises path Validity but not the joint Final Pass rate](rag-raises-validity-not-final-pass.md) — related
 - [Chain-of-Thought prompting improves KC planning for Qwen models but its effect varies by model and educational stage](cot-effect-varies-model-stage-kc-planning.md) — related
+- [Preserving book-level document structure during mid-training improves downstream performance beyond identical content split into sections (+1.02 mean)](book-structure-preservation-improves-mid-training.md) — related

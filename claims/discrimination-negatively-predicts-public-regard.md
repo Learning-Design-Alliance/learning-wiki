@@ -50,3 +50,5 @@ Longitudinal SEM analysis of the three-wave sample (N = 219 retained across all 
 - [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related
 - [No cross-lag effects were observed between racial discrimination and private regard in the full sample](no-cross-lag-discrimination-private-regard.md) — related
 - [Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents](age-moderates-discrimination-private-regard.md) — related
+- [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
+- [No cross-lag effects were observed between racial discrimination and racial centrality over three years](no-cross-lag-discrimination-centrality.md) — related

@@ -64,3 +64,4 @@ Two-way ANOVA with teacher-assigned achievement level of the highest-achieving m
 ## Related Claims
 - [Full-PC dyads wrote lab reports with significantly better structure and more complete content than empty-PC dyads](full-pc-better-lab-reports.md) — related
 - [Dyads given the full Process Coordinator used the regulative tool about three times as long and twice as often as dyads with the empty version](full-pc-more-frequent-prolonged-regulative-tool-use.md) — related
+- [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related

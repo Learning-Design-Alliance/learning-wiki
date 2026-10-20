@@ -64,3 +64,4 @@ Null sex effect from the same RQ3 binomial model; males had comparable modeled o
 ## Related Claims
 - [Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction](year-of-study-shifts-preferred-grammar-instruction.md) — related
 - [AI literacy shows a small positive association with ethical scenario classification accuracy](ai-literacy-small-positive-association-ethical-judgment.md) — related
+- [Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario](glat-predicts-scenario-accuracy-binomial-model.md) — related

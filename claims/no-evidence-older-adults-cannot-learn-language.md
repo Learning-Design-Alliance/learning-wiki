@@ -52,3 +52,6 @@ The digest's review section states this as an assertion about the research liter
 - [Learning ability does not decline with age in healthy older adults](learning-ability-does-not-decline-with-age.md) — possibly the same claim (merge candidate)
 - No age is optimal or critical for second language learning, and older learners can benefit more from cognitive approaches — related
 - Aging does not substantially reduce informal learning participation, though preference shifts from courses to self-directed learning — related
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related
+- [Adults learn languages more quickly than children in the early stages of second language acquisition](adults-faster-early-stage-language-learning.md) — related
+- [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related

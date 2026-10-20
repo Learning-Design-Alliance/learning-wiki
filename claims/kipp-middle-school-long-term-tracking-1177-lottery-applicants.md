@@ -52,3 +52,7 @@ Report abstract describing the study scope: a long-term tracking study of 1,177 
 - [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
 - [Receiving an offer of admission to a KIPP middle school increases enrollment in 4-year college programs by 6.9 percentage points](kipp-middle-offer-increases-four-year-college-enrollment.md) — related
+- [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
+- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
+- [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
+- [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related

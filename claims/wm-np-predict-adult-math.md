@@ -46,3 +46,4 @@ Authors' summary of the fitted SEM results (N = 170 adults): WM and symbolic num
 - [Math anxiety has a statistically significant indirect effect on arithmetic calculation through symbolic number processing](ma-indirect-effect-np-arithmetic.md) — related
 - [Math anxiety has a direct effect on arithmetic calculation above and beyond the indirect pathways](ma-direct-effect-arithmetic.md) — related
 - [Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)](ma-indirect-effect-wm-arithmetic.md) — related
+- [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related

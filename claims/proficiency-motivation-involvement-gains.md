@@ -72,3 +72,4 @@ The review reports a meta-analysis of twelve studies (six published, six unpubli
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Reading proficiency level moderates incidental vocabulary gains: higher-proficiency readers gained more, consistent with i+1](proficiency-level-moderates-incidental-vocabulary-gains.md) — possibly the same claim (merge candidate)
 - [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related
+- [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — related

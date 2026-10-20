@@ -48,3 +48,5 @@ Three-level HLM of kindergarten cohorts nested in schools within districts (read
 - No statistically significant links between district kindergarten offerings or PreK4 programming and kindergarten math growth — related
 - Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states — related
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related
+- [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
+- [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related

@@ -49,3 +49,4 @@ Experiment (N=592) where participants discussed a personal situation with sycoph
 - [Three weeks of sycophantic AI use narrows the gap in advice-seeking between AI and close friends and family](sycophantic-ai-narrows-advice-seeking-gap.md) — related
 - [A majority of users choose sycophantic AI over neutral and challenging alternatives, citing feeling understood and ease of conversation rather than advice quality](users-choose-sycophantic-ai-over-alternatives.md) — related
 - [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related
+- [Teachers' most common concern is that agreeable AI companions remove the developmental friction through which adolescents learn to sustain human relationships](agreeable-companions-remove-developmental-friction.md) — related

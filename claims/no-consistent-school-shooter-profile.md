@@ -45,3 +45,4 @@ The brief cites the U.S. Secret Service and Department of Education Safe School 
 ## Related Claims
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — a narrower finding that bears on this claim
 - [Two mass shootings exemplify how metal detectors can be insufficient at stopping such attacks](metal-detectors-insufficient-mass-shooting-cases.md) — related
+- [Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings](crisis-response-does-not-prevent-shootings.md) — related

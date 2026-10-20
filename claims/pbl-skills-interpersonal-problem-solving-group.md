@@ -46,3 +46,6 @@ Qualitative coding of the same 122 students' written PBL reflections. The result
 ## Related Claims
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
+- [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — a broader claim this one bears on
+- [Collaborative dynamic-geometry problem solving relies on coordinating math-content and social/collaborative resources](oner-coordinated-math-social-resources.md) — related
+- [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related

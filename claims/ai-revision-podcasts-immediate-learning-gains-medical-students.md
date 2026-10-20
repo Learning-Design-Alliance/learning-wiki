@@ -49,3 +49,5 @@ Paired within-participant t-tests among linked completers (Centre 1 n = 154, Cen
 - [Learners valued AI revision podcasts for portability and 'dead time' use but identified absent pauses and AI voice monotony as design barriers](podcast-design-barriers-pauses-voice-monotony.md) — related
 - [Topic-wise gains were heterogeneous, with some topics showing no meaningful change](podcast-topic-wise-gain-heterogeneity.md) — related
 - For within-subjects designs, the author recommends reporting Cohen's d_rm or Cohen's d_av rather than Cohen's dz — related
+- [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
+- [Students improved significantly from pre- to post-test in both topics, with a medium effect in experimental design and a small effect in graphing](pre-post-gains-inquiry-competencies.md) — related

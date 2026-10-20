@@ -44,3 +44,4 @@ Analyses of score stability used FFL scores across two school years to calculate
 
 ## Related Claims
 - [A multiyear pilot study analyzed the score variation, internal consistency, score stability, and concurrent validity of Pennsylvania's Framework for Leadership](ffl-pilot-psychometric-analysis.md) — related
+- [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — related

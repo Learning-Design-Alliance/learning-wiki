@@ -43,4 +43,7 @@ The digest's review section reports that "people expecting to receive a reward f
 
 
 ## Related Claims
--
+- [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](rewards-easiest-task-choice.md) — related
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [Open-ended tasks produce higher AI literacy performance than structured tasks](oet-outperforms-stt-ai-literacy-performance.md) — related

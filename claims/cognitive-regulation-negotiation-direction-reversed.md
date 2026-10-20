@@ -45,3 +45,7 @@ T/ONA directionality analysis of networks for both tasks and the subtraction mod
 ## Related Claims
 
 - [Emotion–motivation regulation is the code most often connected to other codes in both tasks, linking to negotiation in SimSketch but to share/compare in Simua](emotion-motivation-regulation-central-both-tasks.md)
+- [Students using interactive socioemotional or regulated constructive patterns were more productive cognitively and in knowledge productivity](socioemotional-regulated-patterns-more-productive.md) — related
+- [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](cognitive-regulation-more-in-physics-task.md) — related
+- [Edge weights between CKC–regulation codes differ significantly between the tasks only for the share/compare and disagree phases](edge-weights-differ-only-share-compare-disagree.md) — related
+- [Collaborative knowledge construction episodes are significantly longer in the conceptual physics task but almost three times more frequent in the robotics task](ckc-longer-simsketch-more-frequent-simua.md) — related

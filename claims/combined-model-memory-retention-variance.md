@@ -48,3 +48,6 @@ Follow-up stepwise hierarchical regression on the 92-participant dataset. The be
 - [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
 - [Physical activity in the hour before memory retrieval is associated with superior memory retention, while sedentary time in that window is negatively associated](pre-retrieval-activity-benefits-memory.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
+- [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related
+- [Memory recall declines over the 12-hour retention interval between encoding and retrieval](memory-declines-over-12-hour-interval.md) — related
+- [Exercise performed four hours, but not immediately, after encoding enhances 48-hour retention of picture-location associations and hippocampal pattern similarity](delayed-post-learning-exercise-enhances-retention.md) — related

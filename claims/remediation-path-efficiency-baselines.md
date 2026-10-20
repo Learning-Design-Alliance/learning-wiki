@@ -42,3 +42,4 @@ Path-cost comparison at the student level (N = 5,000) between algorithm-generate
 
 ## Related Claims
 - [In a randomized experiment, personalized paths reduced learning time by 22.0% and improved post-test scores versus a fixed sequence](personalized-paths-experiment-outcomes.md) — related
+- [One-shot path generation raises Validity but lowers Adaptivity and Efficiency relative to step-by-step interaction](one-shot-generation-lowers-adaptivity.md) — related

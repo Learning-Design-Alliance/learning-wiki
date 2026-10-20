@@ -46,3 +46,4 @@ Randomized experiment with 52 undergraduates assigned to what-question, why-ques
 - [Control participants recalled equal amounts of information for both question types](control-condition-equal-recall-question-types.md) — related
 - [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related
 - [Participants given relevance instructions outperform participants in other conditions on the same high-similarity cued-recall questions](relevance-instruction-between-condition-recall-advantage.md) — related
+- [Relevance instructions and guiding questions both improve pre-service teachers' first-order knowledge integration in a reading- and writing-based learning setting with three domain-specific texts](prompts-improve-first-order-knowledge-integration.md) — related

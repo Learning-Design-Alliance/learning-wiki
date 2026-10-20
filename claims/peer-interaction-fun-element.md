@@ -55,3 +55,4 @@ Focus group thematic analysis (N = 12 students): a shy student described friends
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Positive developmental relationships are the active ingredient in effective child-serving systems, buffering stress and fueling learning](positive-developmental-relationships-active-ingredient.md) — a broader claim this one bears on
 - [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](moderate-family-support-buffers-achievement.md) — related
+- [Adolescents with moderate or high friend support are about half as likely to report being bullied](friend-support-lower-bullying-likelihood.md) — related

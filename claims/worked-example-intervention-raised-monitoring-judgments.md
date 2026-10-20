@@ -43,4 +43,8 @@ ANCOVAs in a randomized experiment with 1,177 Qualtrics-panel adults compared in
 
 
 ## Related Claims
--
+- [Adults who answered health math problems correctly reported higher monitoring judgments than those who answered incorrectly, with larger differences at posttest than pretest](accuracy-linked-to-higher-monitoring-judgments.md) — related
+- [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
+- [Math anxiety explained variance in posttest monitoring judgments beyond trait anxiety, supporting its distinctness from general anxiety](math-anxiety-distinct-from-trait-anxiety-in-monitoring.md) — related
+- [Math anxiety mediated the effect of gender on pretest monitoring judgments in exploratory analyses](math-anxiety-mediates-gender-effect-on-monitoring.md) — related
+- [Math self-efficacy (first four SNS items) was the only variable significantly predicting monitoring judgments on all four health math problems](math-self-efficacy-predicts-monitoring-judgments.md) — related

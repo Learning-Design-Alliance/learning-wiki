@@ -64,3 +64,4 @@ The review reports, citing numerous recall-protocol studies, that high-level inf
 ## Related Claims
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
+- [Graphic organizers such as concept maps improve comprehension and retention with a medium average effect; that novices benefit more rests on a few small subgroups](graphic-organizers-support-novice-comprehension.md) — related

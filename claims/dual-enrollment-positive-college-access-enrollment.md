@@ -52,3 +52,4 @@ Systematic review synthesis of four studies including 67,474 students. Table 1 r
 - [Dual enrollment programs have potentially positive effects on staying in high school, college readiness, and attendance (high school), each with a small extent of evidence](dual-enrollment-potentially-positive-staying-readiness-attendance.md) — related
 - [Advanced Placement and dual enrollment participation have similarly positive impacts on student success](ap-and-dual-enrollment-similarly-positive-impacts.md) — a narrower finding that bears on this claim
 - [Only dual enrollment and early college high school studies documented rural inclusion, and none analyzed rural students separately](no-rural-effectiveness-evidence-college-readiness-interventions.md) — related
+- [Dual enrollment programs show no discernible effects on general academic achievement (college)](dual-enrollment-no-effect-college-achievement.md) — related

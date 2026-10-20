@@ -62,3 +62,5 @@ The deployment summary reports, citing its reference, that VERA "suggested gains
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — a broader claim this one bears on
 - [Universities already use incipient AI such as IBM Watson to provide student advice around the clock, reducing administrative staffing needs](ai-administrative-services-deakin-watson.md) — related
+- [The Jill Watson AI teaching assistant met student expectations in a Georgia Tech online course without being detected as non-human](jill-watson-ai-teaching-assistant-georgia-tech.md) — related
+- [A single configurable analytics codebase replicates prior research findings across three educational AI assistant domains](a4l-pipeline-replicates-analyses-across-three-domains.md) — related

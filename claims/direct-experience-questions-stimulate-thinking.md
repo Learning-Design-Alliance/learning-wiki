@@ -49,3 +49,5 @@ The only source is a programme document's assertion; it reports no comparison of
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
 - [Returning to direct somatic experience can re-vision thinking and change perception (attributed to Reason)](somatic-return-revisions-thinking.md) — related
 - Student oral presentations of laboratory results became the central activity stimulating active and cooperative learning — related
+- [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related
+- [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related

@@ -70,3 +70,4 @@ Figure 8a comparison of online versus brick-and-mortar charter students. Online 
 - [Students in New Mexico online charter schools show substantially weaker growth than their TPS virtual twins in both reading and math](nm-online-charter-weaker-growth.md) — related
 - [Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers](pa-charter-overall-similar-reading-weaker-math.md) — related
 - [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — related
+- [First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs](idaho-charter-years-of-enrollment-null.md) — related

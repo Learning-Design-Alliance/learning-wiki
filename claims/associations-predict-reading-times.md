@@ -47,3 +47,6 @@ Cross-experiment regression linking Experiment 1 think-aloud process frequencies
 
 ## Related Claims
 - [For readers with misconceptions, the number of correct inferences generated during think-aloud reading predicts text recall](correct-inferences-predict-recall-misconception-readers.md) — related
+- [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](epistemic-beliefs-anger-predict-low-epistemic-processing.md) — related
+- [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related
+- [Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts](misconception-slower-reading-refutation-law-sentences.md) — related

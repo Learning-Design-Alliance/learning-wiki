@@ -45,3 +45,5 @@ Controlled T=0 API audit with n=30 iterations per condition across four LLMs and
 ## Related Claims
 - [Deepseek's justification scores vary by student socio-economic profile, with Top Tier students averaging 9.60 versus 6.90 for Low Tier students](elite-hermeneutics-justification-gap.md) — related
 - [LLM history tutors reduce marginalized students' access to contested geopolitical framing, with the coup theory appearing in 2.6% of Low Tier responses versus 7.9% for the baseline](epistemic-gatekeeping-coup-gap.md) — related
+- [Chinese-developed models lead the safety module, with the refusal gap concentrated on region-specific normative content (difference-in-differences of 28.9 points)](chinese-models-safety-refusal-gap.md) — related
+- [LLaMA produces a fivefold higher victimization-to-politics vocabulary ratio for the Roma persona (≈0.15) than for elite peers (≈0.03)](agency-theft-victimization-framing.md) — related

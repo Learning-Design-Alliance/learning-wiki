@@ -46,3 +46,5 @@ Cross-sectional comparison of QLES-Q-SF scores between ADHD adults with and with
 - [DESR severity correlates strongly with current ADHD symptom severity in adults with ADHD](desr-correlates-with-adhd-symptom-severity.md) — related
 - [Extreme DESR in adults with ADHD is linked to worse social adjustment on most SAS-SR domains](extreme-desr-worse-social-adjustment-sassr.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [Adults with ADHD report deficient emotional self-regulation symptoms far more frequently than adults without ADHD](desr-more-frequent-in-adhd-adults-than-controls.md) — related
+- [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related

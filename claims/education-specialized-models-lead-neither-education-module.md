@@ -45,3 +45,4 @@ Discussion of the nine-model ELBench evaluation (Figure 5). On this model set In
 ## Related Claims
 - [The top six models are statistically indistinguishable on overall ELBench score yet differ substantially at the module level, so module profiles are more informative than a single aggregate](top-six-indistinguishable-overall-module-profile.md) — related
 - [Lower-performing LLMs show higher variance across pedagogy subject categories and peak in Technology and General categories](low-performing-models-subject-variance-technology-general.md) — related
+- [Chinese-developed models lead the safety module, with the refusal gap concentrated on region-specific normative content (difference-in-differences of 28.9 points)](chinese-models-safety-refusal-gap.md) — related

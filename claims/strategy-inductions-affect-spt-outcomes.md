@@ -48,3 +48,5 @@ The review reports Galinsky and Moskowitz's (2000) experiment assigning particip
 ## Related Claims
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related
 - [Longer exposure to an SPT target showed a non-significant trend toward greater accuracy](target-exposure-duration-accuracy-trend.md) — related
+- [Motivation generally increases SPT accuracy, but some goals can motivate inaccuracy](motivation-affects-spt-accuracy-with-exceptions.md) — related
+- [Cognitive style shows a weak, measure-dependent relationship with SPT accuracy](cognitive-style-weak-spt-accuracy-relation.md) — related

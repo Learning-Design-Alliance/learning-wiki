@@ -64,3 +64,5 @@ Subsample analysis using the students graded on their collaborative group work (
 ## Related Claims
 
 - [Frequencies of nonverbal behaviors descriptively rise with higher engagement ratings across the four QCGE dimensions](nonverbal-frequencies-increase-with-engagement-ratings.md)
+- [Construct validity of the QCGE-SAS is supported by significant correlations between its subscales and pre-validated related scales](qcge-sas-construct-validity-significant-correlations.md) — related
+- [No statistically significant association between QCGE dimension ratings and the collaborative product grade](qcge-dimensions-nonsignificant-learning-outcome-grade.md) — reports the opposite

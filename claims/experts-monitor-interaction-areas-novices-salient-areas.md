@@ -68,3 +68,4 @@ Mixed-design repeated measures ANOVA on total AOI revisits found a significant v
 - [Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type](expert-fixations-more-focused-than-novices.md) — related
 - [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
+- [Expert teachers interpret complex classroom phenomena more accurately and fluidly than novices and postulants](expert-teachers-interpret-classroom-phenomena-better.md) — related

@@ -43,4 +43,6 @@ The editorial reports that Vosniadou et al., applying for the first time a conce
 
 
 ## Related Claims
--
+- [SSA should also consider students' expectations about their learning](ssa-should-consider-student-expectations.md) — a narrower finding that bears on this claim
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
+- [Students recognize more belief-consistent science facts than belief-inconsistent facts, an effect appearing on recognition but not recall tests](belief-consistent-facts-better-recognized.md) — related

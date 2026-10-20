@@ -47,3 +47,4 @@ Conceptual argument in Section 2.1 (type e), citing psychological evidence that 
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - [Limited contextual understanding of pragmatic, cultural, and discourse information is a major technical limitation, reported in 16 of 54 studies (30%)](limited-contextual-understanding-ai-efl-technical.md) — related
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
+- [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related

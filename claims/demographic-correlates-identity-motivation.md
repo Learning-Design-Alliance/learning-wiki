@@ -46,4 +46,8 @@ Initial descriptive correlational analyses (Table 1) of the 600-adolescent sampl
 - [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
--
+- [Undergraduate researchers' disciplinary identity differs by demographic characteristics](disciplinary-identity-differs-by-demographics.md) — related
+- [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — related
+- [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](moderated-mediation-belonging-srl-efficacy.md) — related
+- [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](no-efficacy-moderation-value-path.md) — related
+- [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related

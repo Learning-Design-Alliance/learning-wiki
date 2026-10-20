@@ -50,3 +50,5 @@ The 1998 randomized trial in Minneapolis public high schools (92 students in the
 - [Dropout prevention and intervention programs increase the odds of school completion, with an average odds ratio of 1.63](dropout-programs-or-163-completion.md) — related
 - [Twelve Together shows no discernible effects on progressing in school as measured by highest grade completed](twelve-together-no-effect-progressing-in-school.md) — related
 - [Lied magnet students in grades 6-8 attempted and completed significantly more STEM credits than matched comparison students](lied-magnet-stem-credit-impacts.md) — related
+- [Career Academies show no discernible effects on progressing in school: academy students accrued no more course credits than comparison students by the end of twelfth grade (effect size 0.09, not statistically significant or substantively important).](career-academies-no-effect-progressing-in-school.md) — related
+- [ALAS increases the likelihood that high-risk students remain enrolled in school at the end of the intervention](alas-staying-in-school-positive-end-of-intervention.md) — related

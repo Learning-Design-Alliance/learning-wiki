@@ -45,3 +45,4 @@ A χ2 analysis of graded students above and below the 1.5 threshold across six q
 ## Related Claims
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](high-structure-reduces-failure-intro-biology.md) — a broader claim this one bears on
 - [Student academic ability varied across quarters but not systematically with changes in course structure](student-ability-varied-not-with-structure.md) — related
+- [Drop rates did not vary with course structure except for an increase in the final high-enrollment quarter](drop-rate-stable-except-autumn-2009.md) — related

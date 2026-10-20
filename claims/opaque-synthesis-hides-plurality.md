@@ -43,3 +43,7 @@ Conceptual analysis in the review's Pathway 3 section, contrasting conventional 
 
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — the general claim this finding bears on, with the studies behind it
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Verification is nearly universal among LLM users, and most students combine multiple verification strategies rather than relying on a single one](verification-nearly-universal-multiple-strategies.md) — related
+- [The article reports observational patterns that AI assistance can improve short-term performance while reducing cognitive engagement and independent capability](ai-assistance-performance-without-internalization.md) — related
+- [ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources](chatgpt-worse-protein-comparison-question.md) — related

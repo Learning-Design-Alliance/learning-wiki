@@ -45,3 +45,5 @@ Re-analysis of the primary study's reported results by the replication authors, 
 ## Related Claims
 
 - [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md)
+- [Working memory capacity increases with age independently of knowledge, encoding speed, and articulation](developmental-capacity-gain-primary.md) — reports the opposite
+- [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — reports the opposite

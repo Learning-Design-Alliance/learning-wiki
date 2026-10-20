@@ -52,3 +52,5 @@ The review attributes this to Bahrick, Bahrick, Bahrick and Phelps (1993), descr
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
 - [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
+- [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
+- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — related

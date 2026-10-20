@@ -42,3 +42,6 @@ Factorial experiment (Bol et al., 2012) with high school biology students crossi
 
 ## Related Claims
 - [Research-driven guidelines exist for promoting student responsibility for learning in PBL](research-driven-guidelines-promote-responsibility-pbl.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
+- [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
+- [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related

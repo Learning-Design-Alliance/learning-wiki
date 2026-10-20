@@ -44,3 +44,5 @@ Item-level WWC recalculation from Appendix A4 of the randomized trial's student 
 
 ## Related Claims
 - [Lessons in Character shows no discernible effects on knowledge, attitudes, and values](lessons-in-character-no-discernible-kav-effects.md) — related
+- [Four of seven knowledge, attitudes, and values outcomes favor the comparison group, including ethnic identity (effect size -0.19) and both moral reasoning measures, none statistically significant](fhao-four-outcomes-favor-comparison-group.md) — related
+- [In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null](tgfdv-rct-average-effect-not-significant.md) — related

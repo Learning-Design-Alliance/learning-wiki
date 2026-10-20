@@ -49,3 +49,4 @@ Cross-sectional regression analysis of global cognition (19-test composite) and 
 - [The association of total literacy with physical activity is not statistically significant after adjustment for income and chronic medical conditions](literacy-physical-activity-null-fully-adjusted.md) — related
 - [Literacy is associated with functional status in older adults, but after full adjustment total literacy remains associated only with instrumental activities of daily living and mobility disability](literacy-associated-functional-status-older-adults.md) — related
 - [Poorer current cognitive functioning in all domains is associated with low health literacy in older adults](poorer-current-cognition-associated-low-health-literacy-older-adults.md) — related
+- [Participants with low health literacy had poorer cognitive functioning in all domains and were more often (very) low-educated](low-health-literacy-participants-older-lower-educated-poorer-cognition.md) — related

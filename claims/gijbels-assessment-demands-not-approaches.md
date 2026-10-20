@@ -44,3 +44,6 @@ Summary of the Gijbels, Segers, and Struyf study, which examined the influence o
 
 ## Related Claims
 - [In a constructivist portfolio-assessment course, deep approaches decreased, surface approaches increased, and preferences for student participation and permanent evaluation decreased significantly](baeten-portfolio-approaches-shifted-surface.md) — possibly the same claim (merge candidate)
+- [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](portfolio-environment-no-deeper-learning-surface-increase.md) — related
+- [In a constructivist learning environment, students' perceptions of assessment shifted toward deeper demands but their actual learning approaches did not, and surface approaches increased](perception-shift-without-approach-change.md) — possibly the same claim (merge candidate)
+- [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](teacher-scaffolding-strategy-use-performance-phase.md) — related

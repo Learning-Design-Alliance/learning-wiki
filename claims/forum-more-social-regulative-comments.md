@@ -64,3 +64,6 @@ Message-length analysis over the complete collection of messages (n = 1,342). Fo
 ## Related Claims
 
 - [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)
+- [Anchored discussion produces more meaning-oriented discussion of academic texts than traditional forum discussion](anchored-discussion-more-meaning-oriented.md) — related
+- [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md) — related
+- [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md) — related

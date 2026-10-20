@@ -48,3 +48,4 @@ Off-task behavior was recorded at five-minute intervals in the 21 treatment and 
 - Greatest declines in off-task behavior occurred in classrooms whose teachers initially faced the highest off-task rates — related
 - Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions — related
 - Direct classroom observations in the rural trial showed TAPP students exhibited more on-task and prosocial behavior and less off-task behavior — related
+- [After brief 1–2 day training, participants showed behaviors consistent with movement from Stage 0–1 toward Stage 1–2, and sustained courses were associated with Stage 3–4 behaviors (observational; no pre/post measure or comparison group)](ncstate-brief-training-stage-movement.md) — related

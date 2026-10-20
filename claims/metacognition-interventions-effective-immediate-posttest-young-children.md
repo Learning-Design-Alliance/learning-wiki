@@ -43,4 +43,6 @@ Preregistered multilevel meta-analysis of 349 effect sizes from 67 studies of me
 
 
 ## Related Claims
--
+- [Metacognition intervention effects persist at follow-up (g = 0.29) in young children](metacognition-interventions-followup-effects-persist.md) — related
+- [Metacognition interventions enhance children's self-efficacy only at follow-up, suggesting effects unfold over a protracted period](metacognition-interventions-self-efficacy-only-followup.md) — related
+- [Age moderated change in metacognitive regulation, with younger children decreasing and older children increasing between pre- and post-test](age-moderates-metacognitive-regulation-change.md) — related

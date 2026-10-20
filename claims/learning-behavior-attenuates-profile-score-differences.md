@@ -47,3 +47,4 @@ Nested OLS models of exam score within the experimental group (background-only v
 - [Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement](learner-profiles-predict-proactive-ai-engagement.md) — related
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
+- [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related

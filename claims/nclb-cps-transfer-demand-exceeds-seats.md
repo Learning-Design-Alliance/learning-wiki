@@ -64,3 +64,5 @@ The same section reports instability in school classification under the law: "Fo
 ## Related Claims
 - [School closings, new school openings, CHA demolitions, and NCLB transfers each affected fewer than 1 percent of CPS students per year, though receiving schools saw summer in-mobility rise by almost 13 percentage points](policy-initiatives-small-system-level-effect.md) — related
 - Only a handful of waiver states preserved public school choice for students in Priority schools after the waiver guidelines dropped the NCLB choice requirement — related
+- [Demand for RSF-supported schools was generally strong, with most Cohort 1 and 2 schools oversubscribed by 2007-08](rsf-schools-oversubscribed-strong-demand.md) — related
+- [CPS eleventh-grade PSAE participation in 2004 fell below the NCLB 95 percent requirement even after counting alternative assessments](cps-psae-participation-below-nclb-95-percent.md) — related

@@ -46,3 +46,4 @@ Experience-level comparison from the year-two teacher survey in the REACH brief.
 - [Most CPS teachers and administrators reported the REACH evaluation process improved classroom instruction and student learning](reach-evaluation-perceived-instruction-improvement.md) — related
 - [Teacher satisfaction with REACH was moderate overall but varied widely across schools](reach-satisfaction-varies-across-schools.md) — related
 - [Teacher and administrator perceptions of REACH changed little between Year 2 and Year 3 of implementation](reach-perceptions-stable-year-two-to-year-three.md) — related
+- [Newer teachers (0-3 years) hold more positive views of TPE than veteran teachers (10+ years)](newer-teachers-more-positive-about-tpe-than-veterans.md) — possibly the same claim (merge candidate)

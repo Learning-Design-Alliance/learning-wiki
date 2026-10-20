@@ -47,3 +47,5 @@ Quasi-experimental comparison of ABCTE and non-ABCTE teachers in Florida using p
 - Propensity score matching was used to build a comparison group of Florida teachers for estimating ABCTE certification effects — possibly the same claim (merge candidate)
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — a broader claim this one bears on
 - [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](passport-to-teaching-evaluation-student-achievement.md) — related
+- [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](principals-cautious-assessment-abcte-program.md) — related
+- [School administrators gave a generally positive assessment of American Board-certified teachers based on supervisor surveys](principals-positive-assessment-abcte-certified-teachers.md) — related

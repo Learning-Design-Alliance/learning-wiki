@@ -49,3 +49,4 @@ The study evaluated whether rapid guessing influenced teacher value-added estima
 - Replacing classroom peer characteristics with teacher-level averages and allowing demographics to influence the lagged-achievement relationship have smaller practical consequences than other specification choices — related
 - [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related
+- [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related

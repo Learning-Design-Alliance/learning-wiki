@@ -43,4 +43,6 @@ In the same HLM analysis of nested gameplay data, the GM difficulty slope was si
 
 
 ## Related Claims
--
+- [Physics understanding difficulty is a stronger predictor of in-game persistence than game mechanics difficulty in Physics Playground](pu-difficulty-stronger-than-gm-predicts-persistence.md) — related
+- [Gender, gaming frequency, and physics knowledge were not significant predictors of persistence](null-student-predictors-persistence.md) — related
+- [Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance](multilevel-structure-of-gameplay-persistence.md) — related

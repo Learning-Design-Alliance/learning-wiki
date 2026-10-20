@@ -47,3 +47,6 @@ The review reports, citing Voss et al. (2010), that evidence for domain-generic 
 
 ## Related Claims
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [The report attributes to Glaser et al. (1985) that skilled and less skilled avionics technicians generated plans equally often but differed in plan quality, with experts deploying domain-particularized strong methods](weak-methods-shared-strong-methods-expert-only.md) — a narrower finding that bears on this claim
+- [Deliberate practice research is largely correlational with large unexplained variability in accumulated practice hours](deliberate-practice-correlational-limits.md) — related
+- [Expert teachers' fixations are significantly more focused (less dispersed) than novices' when viewing classroom scenes, irrespective of video type](expert-fixations-more-focused-than-novices.md) — related

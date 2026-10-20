@@ -48,3 +48,6 @@ The review reports a double-video experiment in which mothers interacted via liv
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](cds-prosody-supports-phoneme-segmentation.md) — related
 - [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Teacher-student scaffolding and autonomy support co-evolve into self-reinforcing attractor states over sustained one-on-one instruction](scaffolding-autonomy-dynamics-form-self-reinforcing-attractor-states.md) — related
+- [Social norms shape role positioning in parent-child dyads playing an educational video game, with children sometimes more expert](social-norms-role-positioning-parent-child-game.md) — related
+- [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related

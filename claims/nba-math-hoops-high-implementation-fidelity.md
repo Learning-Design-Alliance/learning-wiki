@@ -66,3 +66,4 @@ Classroom observations and teacher/student interviews found NBA Math Hoops class
 - [NBA Math Hoops students scored significantly lower than controls on a composite SEL measure (−0.21 SD), though remaining at moderately high levels](nba-math-hoops-lower-composite-sel.md) — related
 - [NBA Math Hoops math gains are larger for students entering with stronger incoming math scores, with no significant variation by gender, IEP status, or incoming SEL](nba-math-hoops-greater-gains-stronger-incoming-math.md) — related
 - [Project With was implemented with high fidelity: 89 percent of activities were completed and youth listened during 83 percent and interacted during 76 percent of activities](project-with-fidelity-and-engagement-rates.md) — related
+- [Teachers implemented Preschool PATHS with high fidelity and positive engagement in the trial](paths-preschool-high-implementation-fidelity.md) — related

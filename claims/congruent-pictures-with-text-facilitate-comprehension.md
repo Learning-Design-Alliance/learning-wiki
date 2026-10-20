@@ -43,4 +43,9 @@ The review reports, citing Levie and Lentz (1982), that "Congruent pictures pair
 
 
 ## Related Claims
--
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — possibly the same claim (merge candidate)
+- [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — possibly the same claim (merge candidate)
+- [A practice article reports that the studies it cites found better post-test outcomes from words with relevant pictures than from words alone, especially with spoken words](multimedia-principle-words-and-pictures-outcomes.md) — possibly the same claim (merge candidate)
+- [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — a broader claim this one bears on
+- [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
+- [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related

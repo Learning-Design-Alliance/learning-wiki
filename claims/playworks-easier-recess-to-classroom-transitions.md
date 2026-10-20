@@ -47,3 +47,5 @@ Cohort 1 random-assignment evaluation: treatment teachers rated recess-to-classr
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — a broader claim this one bears on
 - [Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers](playworks-reduced-teacher-reported-recess-bullying.md) — related
 - [Teachers in Playworks schools were more likely to report that students enjoyed adult-organized recess activities](playworks-students-enjoyed-adult-organized-recess.md) — related
+- [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
+- [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](playworks-rct-more-vigorous-recess-activity.md) — related

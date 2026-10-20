@@ -48,3 +48,4 @@ Descriptive policy case study of Colorado's deinstitutionalization effort in Sec
 - [Tacoma's progressive inclusion program pervaded district operations and limited out-of-district placements to two over twenty years](progressive-inclusion-limited-out-of-district-placements.md) — related
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
 - Preliminary evidence cited by experts indicates residential placement type is not correlated with educational outcomes for children in foster care — related
+- [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related

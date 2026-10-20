@@ -68,3 +68,5 @@ WestEd-reported student survey perceptions of the social worker added to each ca
 - [HSE learners and workers most wanted more information, skills translation services, job training, mentorship, and money during transitions](top-wanted-transition-supports.md) — related
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
 - [Math proficiency rose in West Kern Consortium districts after the community schools initiative, with three districts exceeding the county average in 2024–25](west-kern-math-proficiency-gains.md)
+- [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
+- [Mentorship was important to apprentices, but mentor quality and time with mentors varied across programs](rtap-mentorship-value-and-variability.md) — related

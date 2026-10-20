@@ -47,3 +47,6 @@ Observation of math instruction across grades 2, 5, 8, 9, and 10 found introduct
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
 - [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related
+- [Observed differentiation took place mainly through student independence and working pace, with lesson goals largely the same across groups](implementation-differentiation-independence-pace.md) — related
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
+- [Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes](grades-3-6-near-zero-comprehension-instruction.md) — related

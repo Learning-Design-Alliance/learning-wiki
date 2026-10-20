@@ -46,3 +46,4 @@ This is the authors' stated aim and assertion in the abstract of the narrative r
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — related
 - [Male teachers have lower observation and value-added scores than female teachers](male-teachers-lower-observation-and-value-added-scores.md) — related
 - [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](adaptive-learning-dominance-limits-student-agency.md) — related
+- [Male Chinese HSS students reported higher perceived GenAI gains in independent thinking, creativity and motivation, with minimal gender difference in performance](genai-gender-differences-perceived-gains.md) — related

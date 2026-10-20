@@ -58,3 +58,4 @@ This RCT across 36 elementary schools randomly assigned students within grade to
 - [No statistically significant TFA impacts were found for upper elementary grades (3 through 5) in reading or math or for other examined subgroups](tfa-no-significant-impacts-upper-elementary-other-subgroups.md) — related
 - Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — related
+- [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) — related

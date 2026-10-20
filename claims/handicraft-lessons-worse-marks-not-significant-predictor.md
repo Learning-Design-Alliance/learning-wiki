@@ -48,3 +48,4 @@ Comparison of the 14 children taking optional handicraft lessons but not music a
 - [Music-practicing children scored significantly better than controls in all school subjects except sports](music-practice-better-all-subjects-except-sports.md) — related
 - [Music-control mark difference emerges with training duration: no difference in grade 3, significant by grade 6, with control marks declining over grades](music-training-duration-dose-response-marks.md) — related
 - [Children practicing music achieve significantly better overall average school marks than controls](music-practice-higher-overall-school-marks.md) — related
+- [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related

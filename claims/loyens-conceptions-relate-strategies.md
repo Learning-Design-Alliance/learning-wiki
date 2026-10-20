@@ -50,3 +50,5 @@ Summary of the Loyens, Rikers, and Schmidt study examining how students' concept
 - [Students who doubt their own learning capacity are at risk of adopting an inadequate lack-of-regulation strategy](self-perceived-inability-predicts-lack-of-regulation.md) — a narrower finding that bears on this claim
 - [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md) — related
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — a broader claim this one bears on
+- [Students' conceptions of self-regulated learning can diverge from their reported self-regulated learning activities](conceptions-diverge-from-srl-activities.md) — a narrower finding that bears on this claim
+- [Conceptions of knowledge construction showed no significant relationships with students' reported regulation strategies](knowledge-construction-conceptions-no-regulation-relationships.md) — reports the opposite

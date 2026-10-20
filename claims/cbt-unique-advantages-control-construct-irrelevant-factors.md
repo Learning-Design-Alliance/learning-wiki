@@ -48,3 +48,6 @@ The article's abstract states its focus: a "relatively unexplored benefit of com
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — a narrower finding that bears on this claim
 - [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
+- [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — related
+- [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related
+- [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related

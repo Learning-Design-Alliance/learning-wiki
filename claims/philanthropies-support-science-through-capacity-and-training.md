@@ -44,3 +44,5 @@ The foundation brief states, without presenting data or evaluation results, that
 
 ## Related Claims
 - Research on systems change success has proliferated as philanthropic interest grows — related
+- [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
+- [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related

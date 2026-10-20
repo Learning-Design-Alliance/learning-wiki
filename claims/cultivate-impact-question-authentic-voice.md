@@ -45,3 +45,4 @@ The playbook describes this impact question as "an important question" for under
 ## Related Claims
 - Teachers are more likely to stay in schools where they perceive colleagues as collaborators, feel influence over their work environment, and trust their principal as an instructional leader — related
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — related
+- [Schools where students report feeling more safe, supported, and challenged show stronger academic and social-emotional growth, and student reports predict future school improvement](student-reports-safe-supported-challenged-growth.md) — related

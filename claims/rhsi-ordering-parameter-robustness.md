@@ -45,3 +45,5 @@ Offline re-scoring of logged sessions across a grid of W∈{5,10,15,20} and δmi
 ## Related Claims
 - [A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)](constrained-architecture-reduces-rhsi.md) — related
 - [A multi-objective reward weighting mastery at 50% does not prevent reward hacking: the MO agent selects the zero-learning Encourage action more often (32.6%) than the engagement-only agent (25.8%)](multi-objective-reward-insufficient-reward-hacking.md) — related
+- [An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate](engagement-optimized-rl-tutor-reward-hacking.md) — related
+- [Multi-agent tutoring architectures show superior behaviour modelling and feedback compared to single-agent or rule-based tutors](multi-agent-tutoring-superior-single-agent.md) — related

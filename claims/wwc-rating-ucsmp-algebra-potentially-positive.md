@@ -52,3 +52,4 @@ WWC effectiveness rating for UCSMP Algebra in the general mathematics achievemen
 - [The WWC rated DreamBox Learning as having potentially positive effects on mathematics achievement with a small extent of evidence](dreambox-potentially-positive-effects-small-evidence.md) — related
 - [UCSMP Algebra has potentially positive effects on the algebra domain, with mixed findings across two studies and a small extent of evidence](ucsmp-algebra-potentially-positive-algebra-domain.md) — related
 - [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related
+- [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with a small extent of evidence](multiple-ucsmp-courses-potentially-positive-general-mathematics.md) — related

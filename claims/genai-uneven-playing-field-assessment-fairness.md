@@ -45,3 +45,4 @@ Findings from the interviews on assessment fairness report that "GenAI creates a
 ## Related Claims
 - [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](genai-two-speed-culture-uneven-team-access.md) — related
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
+- [Heterogeneous learning curves across practitioners create organizational challenges including perceived unfairness](learning-curve-heterogeneity-matthew-effects.md) — related

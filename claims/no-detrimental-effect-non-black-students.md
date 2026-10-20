@@ -47,3 +47,5 @@ Analysis of teacher moves in Chicago Public Schools data examined non-Black stud
 
 ## Related Claims
 - [Experienced teachers and teachers with a master's degree are highly effective overall but much less effective for Black than non-Black students](experienced-masters-teachers-less-effective-black-students.md) — related
+- [Race-specific value-added scores predict teachers' subsequent effects: Black students taught by a teacher with high prior effectiveness for Black students show gains of about one standard deviation when the teacher moves schools or grades](race-specific-value-add-predicts-subsequent-effects.md) — related
+- [Having a race-matched teacher is associated with higher test scores and long-term academic benefits for Black students](race-matched-teacher-academic-benefits-black-students.md) — related

@@ -49,3 +49,4 @@ Models D2–D5 added self-concept-by-component interactions one at a time alongs
 ## Related Claims
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related
 - [Self-concept and global value interact synergistically and positively in predicting achievement, effort, and teacher-rated engagement](synergistic-self-concept-global-value-interaction.md) — related
+- [Math self-concept is more highly correlated with intrinsic value and low cost than with attainment and utility value](self-concept-value-component-correlations.md) — related

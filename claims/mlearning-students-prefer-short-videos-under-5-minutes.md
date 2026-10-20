@@ -46,3 +46,4 @@ The article reports, citing Shen et al. (2009), a survey of 3000 participants fr
 - [Guo et al. found engagement depends on video production style: short videos, talking heads on slides, Khan-style drawing more engaging than slides or coding, classroom recording weak online](guo-video-style-engagement-findings.md) — a broader claim this one bears on
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
+- [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related

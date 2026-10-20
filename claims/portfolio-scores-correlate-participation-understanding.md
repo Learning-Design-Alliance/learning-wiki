@@ -44,3 +44,8 @@ Partial correlations controlling for Hong Kong Attainment Test scores among the 
 
 ## Related Claims
 - [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related
+- [Students using portfolios with knowledge-building principles showed higher conceptual understanding on a writing task than the other classes](portfolio-principles-higher-conceptual-understanding.md) — a narrower finding that bears on this claim
+- [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](portfolio-principles-more-high-level-questions.md) — related
+- [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](kf-portfolio-principles-higher-atk-inquiry.md) — related
+- [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](portfolio-principles-deeper-explanations.md) — related
+- [Collective portfolio scores explained additional variance in conceptual understanding beyond achievement, participation, and individual inquiry](collective-portfolio-scores-predict-understanding.md) — related

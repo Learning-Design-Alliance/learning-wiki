@@ -46,3 +46,4 @@ Tutor-model instruction-tuning on ten misconceptions (Mset of M1, M2, M6, M8, M1
 - [Mixing correct examples into student-model training resolves the misconception-accuracy trade-off, with correct examples as low as 25% preserving both properties](mixing-correct-examples-resolves-student-model-tradeoff.md) — related
 - [Classroom-scale data (5-80 samples per misconception) is insufficient for reliable tutor-model misconception acquisition](tutor-model-sample-efficiency-classroom-insufficient.md) — related
 - [Without step-level supervision, neither the student model nor the tutor model can acquire misconceptions regardless of training data size](step-level-supervision-essential-misconception-acquisition.md) — related
+- [Instruction-tuning a student model on a single misconception overgeneralizes the error across problems and degrades correct-solving accuracy](student-model-misconception-overgeneralization-degrades-accuracy.md) — related

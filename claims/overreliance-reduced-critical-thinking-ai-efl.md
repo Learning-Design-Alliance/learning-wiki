@@ -53,3 +53,4 @@ Qualitative synthesis of the 54 included studies codes pedagogical limitations i
 - [Unstructured ChatGPT use in programming education is linked to overreliance, reduced persistence, unreliable outputs, and academic integrity risks](unstructured-chatgpt-use-risks-programming-education.md) — a narrower finding that bears on this claim
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - ACM DL search results for critical thinking rose from 25 in 2000 to more than 1500 in 2025, with 78% also mentioning AI — related
+- [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — related

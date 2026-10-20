@@ -47,3 +47,5 @@ Qualitative coding of 211 topic entries from 18 courses with public topic inform
 - [In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare](ai-required-work-high-grade-weights-proctored-rare.md) — related
 - Two GPT-4-based models showed strong semantic alignment in topic labels and descriptions — related
 - [Existing ML educational tools rarely integrate intermodal transfer, computational thinking, and explanatory thinking in one resource](ml-tools-rarely-integrate-three-didactic-facets.md) — related
+- [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md) — related
+- [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related

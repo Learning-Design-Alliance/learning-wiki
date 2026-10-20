@@ -48,3 +48,5 @@ Survey distributions of comfort ratings by team size show a divergence between g
 - [When coping methods fail, neurodivergent students report avoiding socialization and courses requiring public presentations](nd-coping-failure-avoidance-public-presentations.md) — related
 - [50% of neurodivergent students report some discomfort with semester-long teams compared to 22% of neurotypical students](nd-semester-long-team-discomfort.md) — related
 - [Neurodivergent students feel most comfortable in teams with defined roles rather than no specific roles](nd-prefer-defined-team-roles.md) — related
+- [ND and NT students both prefer some instructor involvement and in-person collaboration over fully student-directed and online collaboration](nd-nt-prefer-some-instructor-involvement-in-person.md) — related
+- [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](nd-coping-self-selected-roles-self-disclosure.md) — related

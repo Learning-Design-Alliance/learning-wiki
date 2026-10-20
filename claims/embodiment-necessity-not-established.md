@@ -45,3 +45,4 @@ The review's synthesis of neuropsychological evidence: patients with "focal lesi
 ## Related Claims
 - [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related

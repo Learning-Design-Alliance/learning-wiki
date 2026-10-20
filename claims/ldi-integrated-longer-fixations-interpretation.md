@@ -47,3 +47,4 @@ Eye-tracking laboratory experiment with 55 participants randomly assigned to LDI
 - [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](ldi-integrated-better-recognition-linkages.md) — related
 - [Time to first fixation of referred-to picture elements during interpretation phases is shorter with an LDI integrated than an LDI separated audio structure](ldi-integrated-faster-first-fixation.md) — related
 - [LDI structure does not significantly affect cued recall of picture details or of interpretations themselves](ldi-structure-no-effect-recall-details-interpretations.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on

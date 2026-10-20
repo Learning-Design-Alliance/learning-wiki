@@ -49,3 +49,5 @@ Qualitative analysis of two fiber crafts course sessions at a K-8 charter school
 - [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
 - [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on
+- [In fabric manipulation, the algorithmic performance was contingent on repeated combinations of components paired with steps of the craft](fabric-manipulation-algorithm-component-confluence.md) — related
+- [Computation in fabric manipulation is characterized as speculative physical 3D modeling](fabric-manipulation-speculative-3d-modeling.md) — related

@@ -67,3 +67,6 @@ The review reports Schonert-Reichl and Lawlor's (2010) non-random experiment tri
 ## Related Claims
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — a broader claim this one bears on
 - [Mindfulness practices are linked to positive school climate outcomes including compassion, well-being, and self-regulation](mindfulness-positive-school-climate-outcomes.md) — related
+- [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related
+- [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — a broader claim this one bears on
+- [Across all RCTs, mindfulness-based interventions significantly improve mindfulness, executive functioning, attention, depression, anxiety/stress and negative behaviours in youth, with small effect sizes](mbis-small-positive-effects-all-rcts-youth.md) — a broader claim this one bears on

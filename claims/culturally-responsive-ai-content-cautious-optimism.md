@@ -68,3 +68,6 @@ Alongside optimism, "Participants shared a concern, even a 'fear,' of the biases
 - GPT detectors frequently misclassify non-native English writing as AI-generated, raising fairness concerns for AI policy — related
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related
 - Ethical considerations are a sidelined research theme, addressed by only seven of 183 publications, mostly on stereotype perpetuation by generative AI — related
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
+- [Race prompts elicit culturally stereotyped feedback: Black, Hispanic, and Asian students are positioned through cultural or linguistic stereotypes while White students receive argument-structure feedback](race-prompts-cultural-stereotype-feedback.md) — related
+- [Biased LLM assistance increases students' gender-stereotypic occupational recommendations: 71.4% of biased-condition essays recommended a gender-stereotypic occupation versus 45.0% (control) and 39.0% (neutral)](biased-llm-assistance-raises-stereotype-congruence-career-choices.md) — related

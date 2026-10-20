@@ -51,3 +51,4 @@ The study addressed the open question of when math anxiety arises in young child
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](math-anxiety-to-performance-directionality.md) — related
 - [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](grade-2-math-anxiety-indirect-effect-grade-3-performance.md) — a narrower finding that bears on this claim
 - [Children's self-rated general anxiety was not directly related to math achievement at either assessment time](self-rated-general-anxiety-not-related-to-math.md) — related
+- [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](math-anxiety-direct-effect-emerges-grade-4.md) — reports the opposite

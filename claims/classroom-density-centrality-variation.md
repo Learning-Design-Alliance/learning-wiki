@@ -45,3 +45,5 @@ The review reports, citing Hendrickx et al. (2016), that "a range of 0.06–0.29
 ## Related Claims
 - [The NLC with the experienced teacher showed higher and more stable network density than the beginner's NLC, whose density dropped from 36% to 26% in the end phase](nlc1-higher-stable-density-than-nlc2.md) — related
 - [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md) — related
+- [Prosocial and aggressive descriptive norms vary considerably between classrooms](classroom-descriptive-norms-vary.md) — related
+- [Network cohesion in NSI increased over time but remained low, with about 16 percent of possible school-to-school connections realized](nsi-network-cohesion-low-but-improving.md) — related

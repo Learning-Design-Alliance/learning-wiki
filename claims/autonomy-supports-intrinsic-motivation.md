@@ -176,3 +176,13 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — possibly the same claim (merge candidate)
 - [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related
+- [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](adaptive-learning-dominance-limits-student-agency.md) — related
+- [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related
+- [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — a narrower finding that bears on this claim
+- [More effective programs targeted teachers, trainees, and individuals with an autonomy causality orientation](recipient-moderators-teachers-trainees-autonomy-orientation.md) — a narrower finding that bears on this claim
+- [Error framing is expected to induce differential mastery and performance-avoid orientations, shaping self-efficacy and intrinsic motivation](error-framing-induces-goal-orientations.md) — related
+- [Rewards cause people to lose interest in whatever they were rewarded for doing, undermining intrinsic motivation](rewards-undermine-intrinsic-interest.md) — a narrower finding that bears on this claim
+- [People expecting a reward for a task perform worse than those expecting nothing, especially on tasks requiring cognitive sophistication and open-ended thinking](rewards-reduce-task-performance.md) — a narrower finding that bears on this claim
+- [Educator involvement in choosing a pilot tool is associated with higher engagement and implementation fidelity, while lack of autonomy contributed to low usage and negative feelings](educator-buy-in-engagement-fidelity-edtech-pilots.md) — a narrower finding that bears on this claim
+- [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related
+- [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related

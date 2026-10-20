@@ -72,3 +72,5 @@ Descriptive analysis (Figures 10 and 11) of six-year credential completion for t
 - [Six-year college completion among the CPS class of 2015 varied sharply by enrollment pathway: 55.8% for immediate four-year enrollees, 32.5% for immediate two-year enrollees, and 7.8% for delayed/non-enrollees](cps-college-completion-2015-pathways.md) — related
 - Half of CPS 2017 graduates who immediately enrolled in a four-year college completed a bachelor's degree within six years — related
 - Among 2014 CPS graduates who immediately enrolled in a bachelor's-degree-granting institution, 30% completed within four years versus 51% within six years — related
+- [Find the Fit made no significant difference in college persistence into the third year after high school](find-the-fit-no-persistence-effect-third-year.md) — related
+- [College persistence was similar among College Track completers and similar students who enrolled in college, despite College Track's stricter persistence definition](college-track-persistence-similar-stricter-definition.md) — related

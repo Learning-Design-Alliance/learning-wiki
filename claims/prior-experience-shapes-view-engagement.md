@@ -60,3 +60,4 @@ The article reports Cliff's delta of -0.28 to 0.33 for the experience-group dwel
 ## Related Claims
 - [Students working with multi-view program visualizations spend nearly half their attention on the code view, with attention distribution varying by task topic](gaze-anchored-in-code-despite-multi-view-scaffolds.md) — related
 - [Gaze transitions show integrative cross-pane viewing, with most participants beginning on memory and cycling between code and memory](integrative-cross-pane-gaze-transitions.md) — related
+- [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — related

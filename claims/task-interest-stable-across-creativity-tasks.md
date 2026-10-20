@@ -49,3 +49,4 @@ In the SEM testing H2c, "there was no mediation" of Task 1 interest on Task 2 in
 ## Related Claims
 - [Perceived value of creativity informs judgments and expectancies primarily indirectly through task-specific variables, especially task interest](value-of-creativity-indirect-through-interest.md) — related
 - [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related
+- [Perceived difficulty and task interest in Task 1 indirectly inform expectancy beliefs for Task 2](difficulty-interest-cues-subsequent-expectancy.md) — related

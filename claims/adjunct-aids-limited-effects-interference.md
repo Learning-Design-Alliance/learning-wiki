@@ -67,3 +67,5 @@ The review reports, citing Anderson and Biddle's (1975) review of adjunct-questi
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
 - [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
 - [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
+- [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — related
+- [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md) — reports the opposite

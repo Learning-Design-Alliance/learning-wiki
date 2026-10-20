@@ -66,3 +66,4 @@ As a formative alternative, the review describes schools setting attendance goal
 - [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
 - [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related
 - Three options exist for setting IEP goals: end-of-year benchmarks, intra-individual framework, and national norms — related
+- [Goal setting improves performance](goal-setting-improves-performance.md) — related

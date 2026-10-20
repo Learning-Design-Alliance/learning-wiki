@@ -45,3 +45,5 @@ CEG evaluation study, an in-home evaluation of app use "out-of-the-box" without 
 ## Related Claims
 - [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](splash-bubbles-app-section-use-dive-in-conversation-starters.md) — related
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
+- [Small additions of research-specific procedures can shift a study out of exempt review](small-procedure-additions-change-review-path.md) — related
+- [89.28% of parents reported the app was very or somewhat different from other apps they have used](station-study-app-novelty-perception.md) — related

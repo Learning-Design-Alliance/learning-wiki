@@ -46,3 +46,6 @@ The review reports, citing Cadena and Keys (forthcoming), that surveyor-classifi
 
 - [A majority of young children make choices consistent with hyperbolic discounting, preferring immediate over larger delayed rewards](children-hyperbolic-discounting-bettinger-slonim.md)
 - [Smartphone attachment is associated with impatience and impulsive behavior in young children, per cited literature](smartphone-attachment-impatience-impulsivity.md)
+- [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — related
+- [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — related
+- [Self-control problems are a major explanation of dropout decisions despite high returns to schooling](self-control-problems-explain-dropout.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Qualitative analysis of conversation transcripts and observations from the explo
 - [Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement](ama-engagement-question-counts.md) — related
 - [Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends](students-trusted-ama-responses.md) — related
 - [Students anthropomorphized the chatbot and built relationships with it through personal and social questions](children-anthropomorphize-educational-chatbot.md) — related
+- [Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not](children-split-on-confiding-in-chatbot.md) — related

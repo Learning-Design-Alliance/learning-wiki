@@ -51,3 +51,4 @@ Temporal analysis (Figure 8) normalizing each assistance instance into five bins
 - [Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance](gaze-assistance-longer-primary-aoi-fixation.md) — related
 - [Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation](secondary-aoi-attention-limited-no-difference.md) — related
 - [Large arrays exceed young children's attentional resources, preventing optimal allocation to relevant items](large-arrays-exceed-childrens-attentional-resources.md) — related
+- [Follow-up fixation rate on the primary AOI did not differ significantly between gaze-based and baseline assistance](primary-aoi-followup-rate-no-difference.md) — related

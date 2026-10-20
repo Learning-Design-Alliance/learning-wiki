@@ -48,3 +48,4 @@ Narrative review section on taking action, reporting the synthesis by Winstone e
 - [Business Writing students valued AI feedback for higher-order and sentence-level comments but found it sometimes too general, while appreciating peers' contextual knowledge](business-writing-students-value-ai-feedback-but-find-it-general.md) — related
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Existing reflection models lack strategies to manage challenges introduced by GenAI](existing-reflection-models-lack-genai-strategies.md) — related
+- [Underuse of effective strategies may stem from false beliefs, lack of awareness, and the counter-intuitive nature of the strategies](underuse-stems-from-false-beliefs-and-counterintuition.md) — related

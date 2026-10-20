@@ -47,3 +47,6 @@ La revue rapporte l'analyse systématique de Ye et coll. : « douze types de bia
 - Les outils d'IA présentent des potentialités réelles pour l'accessibilité de l'enseignement supérieur inclusif, mais leur efficacité reste conditionnée et limitée — a broader claim this one bears on
 - Les personnes en situation de handicap sont invisibilisées dans les productions d'IA et exclues à trois niveaux (données, architectures, interfaces), selon un processus en spirale — related
 - L'entraînement récursif sur des données synthétiques dégrade progressivement la diversité des productions (model collapse) et cristallise les représentations dominantes — related
+- [El uso de IA para evaluaciones basadas en competencias no es actualmente la mejor práctica](ai-assessment-not-best-practice-microcredentials.md) — related
+- [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
+- [Poorly grounded GenAI self-study risks fabricated content and inferior learning relative to curated resources](genai-self-study-fabrication-curated-resources.md) — related

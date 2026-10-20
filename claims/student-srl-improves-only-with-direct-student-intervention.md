@@ -43,4 +43,6 @@ Narrative review of cognitive-approach PD intervention studies; the review attri
 
 
 ## Related Claims
--
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

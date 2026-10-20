@@ -49,3 +49,5 @@ Observational analysis of failure prevalence in Zero-Shot outputs across topics 
 - [The three refinement strategies make distinct trade-offs when personalizing problems to topics that resist natural alignment with the original math](refinement-strategy-trade-offs-in-case-analysis.md) — related
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Realism issues were detected by agents during generation but were rare in final versions](realism-issues-rare-final-versions.md) — related
+- [Expert reviewers rated the TikTok mini-game most engaging and the Text Phishing Detective game highest in learning value](expert-votes-tiktok-engagement-phishing-value.md) — related
+- [Centralized Refinement with Planning converges fastest and to the lowest failure count on authenticity](centralized-planning-converges-fastest-on-authenticity.md) — related

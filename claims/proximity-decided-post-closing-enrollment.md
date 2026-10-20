@@ -50,3 +50,5 @@ The agenda reports, citing its study of school closings (de la Torre et al. 2015
 - For many families, academic quality meant factors different from the district's performance policy rating, such as after-school programs, class sizes, and school environment — related
 - Proximity to home was the primary reason families enrolled their children in lower-rated schools instead of their designated welcoming school — a narrower finding that bears on this claim
 - Proximity and relocation into the closed school building strongly predicted enrollment in designated welcoming schools — a narrower finding that bears on this claim
+- [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — related
+- [A school's ability to implement a child's IEP was the first factor in parents' enrollment decisions, crowding out other school characteristics](iep-implementation-first-enrollment-factor.md) — related

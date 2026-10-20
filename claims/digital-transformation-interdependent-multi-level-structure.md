@@ -46,3 +46,6 @@ wed in isolation, but must be understood as an interdependent structure which pe
 ## Related Claims
 - [Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level](policy-claims-macro-meso-dominance.md) — related
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — a broader claim this one bears on
+- [Opportunities to gain the agentive identity of “agents of change” are intertwined with a macro- and meso-level geopolitical matrix of power](agentive-identity-access-tied-to-geopolitical-power.md) — related
+- [SSWs perceive meso-level community and school contexts, including 287g programs and ICE activity, as shaping immigrant families' fear and access](ssws-perceive-meso-community-school-contexts.md) — related
+- [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related

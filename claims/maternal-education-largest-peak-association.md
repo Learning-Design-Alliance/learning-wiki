@@ -45,3 +45,4 @@ In the ECLS-B growth curve models, the maternal education × age interaction was
 ## Related Claims
 - [Higher levels of maternal help, press for intellectual development, and monitoring are associated with poorer children's arithmetic skills](maternal-practices-linked-poorer-arithmetic-skills.md) — related
 - [The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.](ses-behavior-relationship-weaker-curvilinear.md) — related
+- [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md) — a broader claim this one bears on

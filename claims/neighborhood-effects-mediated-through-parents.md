@@ -47,3 +47,4 @@ Authors' interpretation of the IPT-weighted PSID results: because IPT weighting 
 - [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — related
 - [Intergenerational ties in the community contribute positively to student learning, per research cited in the report](intergenerational-ties-contribute-student-learning.md) — related
 - [Sustained exposure to the most disadvantaged neighborhoods from age 2 to 17 substantially reduces the probability of high school graduation for both black and nonblack children](sustained-neighborhood-disadvantage-reduces-high-school-graduation.md) — related
+- [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](neighborhood-context-transient-frequent-mobility.md) — related

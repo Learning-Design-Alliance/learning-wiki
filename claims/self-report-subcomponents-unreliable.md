@@ -45,3 +45,7 @@ Systematic review of 22 factor-structure studies. Component analysis "varied wid
 ## Related Claims
 
 - [Self-report factors correlate weakly with metacognitive behavior while within-factor subcomponent correlations are larger, per studies reviewed for the meta-analysis](self-report-factors-weakly-relate-to-behavior.md)
+- [Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation](self-report-two-factor-metacognition-knowledge-regulation.md) — reports the opposite
+- [Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies](schellings-convergent-validity-n16-correlation-51.md) — related
+- [LLM-human factor-structure similarity is consistently lower than human-human similarity on both assessments](llm-human-factor-congruence-lower-than-human-human.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

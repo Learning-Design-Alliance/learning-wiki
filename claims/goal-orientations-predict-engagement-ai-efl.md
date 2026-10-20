@@ -64,3 +64,5 @@ SEM results (Table 3) show supported paths from mastery-approach (β = 0.312), p
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](teacher-support-correlations-avoidance-goals-null.md) — related
 - [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
 - [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related
+- [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
+- [Performance-avoidance goals negatively predict both self-concept and self-efficacy across all three grade levels](performance-avoidance-goals-negative-self-beliefs.md) — related

@@ -43,4 +43,6 @@ Anecdotal observations gathered by the experimenters during the intermediate con
 
 
 ## Related Claims
--
+- [Hypothesis specificity differed by task type: intermediate participants stated fewer partially-specified hypotheses than abstract participants, but more fully-specified hypotheses than concrete participants](hypothesis-specificity-varies-by-task-type.md) — related
+- [In multiple regression, the percentage of exploratory experiments was the strongest predictor of performance success, negatively related to it](exploratory-experiments-negative-predictor-of-success.md) — related
+- [Concrete-task participants achieved higher performance success than intermediate-task participants in simulation-based inquiry, while intermediate and abstract conditions did not differ significantly](concrete-task-higher-performance-success-than-intermediate.md) — related

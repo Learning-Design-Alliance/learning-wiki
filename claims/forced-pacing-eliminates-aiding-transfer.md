@@ -48,3 +48,4 @@ Same Experiment Two forced-pacing study with twelve subjects on 49-component Tas
 - Context-free diagnostic training transfers to context-specific performance: aided Task One training reduced cost to solution on two of three FAULT powerplants — related
 - [Aiding-based transfer differs by trainee experience: first-semester trainees showed no aided-to-unaided transfer on Task One and initial negative then positive transfer on Task Two](trainee-experience-moderates-aiding-transfer.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](goal-driven-manipulations-eliminate-negative-correlation.md) — related

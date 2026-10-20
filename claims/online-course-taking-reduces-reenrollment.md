@@ -46,3 +46,4 @@ Among the study's key findings, the page reports that "Students are less likely 
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — related
 - [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — related
 - [Community college students shut out of a course section via waitlist cutoffs were 22–28 percent more likely to take zero courses that term](course-shutouts-increase-zero-course-enrollment.md) — related
+- [First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term](first-term-transfer-persistence-penalty-specific-course.md) — related

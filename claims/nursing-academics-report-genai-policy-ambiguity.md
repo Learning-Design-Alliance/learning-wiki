@@ -74,3 +74,4 @@ Same interview study, Theme One minor theme on inconsistent application. Partici
 - [Students' moral rationalizations of AI use are typically post hoc and often internally inconsistent](ai-rationalizations-post-hoc-inconsistent.md) — related
 - Awareness of GenAI governance and regulation remains limited, appearing in a small transitional cluster — related
 - [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — a broader claim this one bears on
+- [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related

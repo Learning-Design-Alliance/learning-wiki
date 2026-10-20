@@ -46,3 +46,5 @@ Cross-semester comparison of midterm induction-question results across six offer
 - [In the first deployment, exam scores on the induction question were visibly lower than in previous semesters taught without the tool](first-deployment-exam-scores-lower.md) — related
 - [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related
 - [Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode](dp-performance-varies-by-administration-mode.md) — related
+- [Student backtracking before setting up the correct induction decreased across exercises in both deployments, indicating a learning curve](backtracking-decreases-across-exercises.md) — related
+- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — a broader claim this one bears on

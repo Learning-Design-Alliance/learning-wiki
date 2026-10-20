@@ -47,3 +47,7 @@ Evaluation of three LLM scoring improvements on Alternative Uses Test responses 
 - [Weighted probabilistic scoring improves LLM-based scoring by considering a broader range of completion possibilities](weighted-probabilistic-scoring-broader-completion-possibilities.md) — possibly the same claim (merge candidate)
 - Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — a narrower finding that bears on this claim
 - [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
+- [The response-level confidence score correlates positively and significantly with scoring accuracy](confidence-score-correlates-scoring-accuracy.md) — related
+- [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related
+- [Model self-confidence gauges LLM confidence in probability estimates and helps identify when machine-generated scoring outputs are trustworthy](llm-self-confidence-identifies-trustworthy-scoring-outputs.md) — a narrower finding that bears on this claim
+- [Rank-averaged ensembling stabilized predictions but did not outperform the single base model](ensemble-stabilizes-but-not-better-than-model1.md) — related

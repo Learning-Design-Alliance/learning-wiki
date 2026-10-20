@@ -49,3 +49,7 @@ Authors' interpretation in the discussion section, contrasting their three-week 
 ## Related Claims
 - [Twenty-three 5th graders' creativity scores rise after nine CREACT drawing-arts lessons in a one-group pretest-posttest study without a control group (effect size .71)](creact-improves-creative-thinking-drawing-arts.md) — a narrower finding that bears on this claim
 - [Prior research found CREACT significantly improved creative performance on poem and story tasks but had a low effect on a paradox task](creact-previous-language-arts-evidence.md) — a narrower finding that bears on this claim
+- [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
+- [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](social-media-training-improves-inhibitory-control-older-adults.md) — related
+- [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
+- [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](short-term-prompts-do-not-change-self-efficacy.md) — related

@@ -43,4 +43,8 @@ Value-added study conducted in the author's UCSB lab comparing students who play
 
 
 ## Related Claims
--
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — a broader claim this one bears on
+- [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
+- [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related
+- [Backward fading and principle prompts supported transfer in probability learning](fading-and-principle-prompts-improve-probability-transfer.md) — related

@@ -44,3 +44,4 @@ Editorial summary of Eun Mee Lim's study of computer-supported collaborative int
 
 ## Related Claims
 - [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) — a broader claim this one bears on
+- [Affordances of technology for collaborative learning are created through design to the extent that appropriate principles have been applied in an effective way](affordances-created-through-design-principles.md) — related

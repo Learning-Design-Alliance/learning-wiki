@@ -43,4 +43,5 @@ Null result from the stepwise regression with 189 participants: two candidate pr
 
 
 ## Related Claims
--
+- [Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor](gaming-engagement-regression-predictors.md) — related
+- [Male participants were almost twice as likely as females to be engaged in gaming](males-twice-likely-gaming-engagement.md) — related

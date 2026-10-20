@@ -43,4 +43,7 @@ Editorial characterization of Harney, Hogan, Broome, Hall and Ryan's experimenta
 
 
 ## Related Claims
--
+- [Editorial reports that meta-level talk about group process, but not about individual actions, is associated with superior group outcomes](editorial-reports-meta-group-talk-aids-group-performance.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
+- [Positioning students as sources increases productive participation in science discourse](positioning-students-as-sources-increases-productive-participation-in-science-discourse.md) — related

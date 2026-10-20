@@ -44,3 +44,4 @@ Randomized controlled trial of a classroom-based intervention including 30 hours
 
 ## Related Claims
 - [Executive function at 48 months positively predicts mathematics ability at prekindergarten, with effects persisting after cognitive covariate controls](executive-function-predicts-math-persisting-covariates.md) — related
+- [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — related

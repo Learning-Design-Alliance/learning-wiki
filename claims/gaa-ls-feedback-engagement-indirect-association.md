@@ -46,3 +46,4 @@ Study 2 structural equation model with 798 students, fit χ2(218) = 498.35, CFI 
 - [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
 - [Indirect discrimination logic applies to facially neutral integrity rules with cohort-skewed burdens](indirect-discrimination-logic-applied-to-integrity-rules.md) — related
 - [Intention to use consolidated LLM reports is associated with motivation and personalisation](intention-to-use-associated-motivation-personalisation.md) — related
+- [AI literacy relates to AI integration intention through a serial indirect pathway via AI-TPACK and science teaching self-efficacy](serial-mediation-ai-literacy-tpack-efficacy-intention.md) — related

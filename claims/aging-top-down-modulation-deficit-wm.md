@@ -51,3 +51,6 @@ Box 1 review synthesis of cognitive aging studies. The review reports that "ther
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
 - [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
 - [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](attention-facilitates-wm-retrieval.md) — related
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — a broader claim this one bears on
+- [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](retro-cues-dynamically-modulate-wm-maintenance.md) — a broader claim this one bears on
+- [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md) — related

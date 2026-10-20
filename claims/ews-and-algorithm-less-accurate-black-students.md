@@ -63,3 +63,7 @@ The report's findings summary states that "Both the prior performance flags and 
 - [A machine learning algorithm with 10-percent risk-score cutoffs better targets students most likely to experience academic problems and has the advantage in predicting suspensions](algorithm-ten-percent-cutoffs-targets-highest-risk.md) — related
 - [Prediction algorithms forecast student achievement from small windows of data, more accurately when data are enriched with instructional design and learning-process detail](enriched-data-improve-achievement-prediction.md) — related
 - Predicting student outcomes was a common AIEd use in higher education, with ten studies predicting academic performance — related
+- [The review reports AI curriculum-design tools identify learning gaps and equity-analysis tools examine differential policy impacts on student populations](ai-teaching-enhancement-and-equity-analysis-reported.md) — related
+- [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — related
+- [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — related
+- [Removing the sensitive race feature caused little impact on predictive performance at Stage 1 and no significant fairness differences, with mixed fairness effects](removing-race-feature-little-performance-impact.md) — related

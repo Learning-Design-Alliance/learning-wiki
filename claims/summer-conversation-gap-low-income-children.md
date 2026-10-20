@@ -46,3 +46,4 @@ Tobit interaction-effect estimates from APSCC children's time diaries on time sp
 - [No statistically significant summer gap in children's reading time by parental education in the APSCC](no-significant-summer-reading-gap-apscc.md) — related
 - [Summer-SES time-use gaps are larger among children of married parents, suggesting results are not driven by single-parent households](summer-gaps-robust-to-household-structure.md) — related
 - [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related
+- [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related

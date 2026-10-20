@@ -67,3 +67,6 @@ Same multilevel comparison; "Teachers reported using students' Dutch grade as a 
 - [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](diagnosticity-intervention-no-accuracy-gain.md)
 - [Teachers are largely aware which cues are diagnostic, but often mistakenly treat students' interest in the text topic as diagnostic](teacher-awareness-of-cue-diagnosticity-partial.md)
 - [When making accurate judgments, teachers used diagnostic cues to a greater extent, but also used non-diagnostic cues (IQ and reading self-concept)](accurate-judgments-greater-diagnostic-cue-use-plus-nondiagnostic.md)
+- [Self-assessments of diagram boxes are more accurate than comprehension judgments and strongly correlated with them in the diagramming paradigm](self-assessments-more-accurate-than-comprehension-judgments.md) — related
+- [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) — related
+- [Prompted self-assessment decreases utilization of the low-diagnosticity commission-errors cue](self-assessment-decreases-commission-errors-cue-utilization.md) — related

@@ -50,3 +50,4 @@ The WWC review of the quasi-experimental study reports no statistically signific
 - [BCIRC has potentially positive effects on reading achievement for Spanish-speaking English language learners (effect size 0.61, not statistically significant after clustering correction)](bcirc-potentially-positive-reading-achievement.md) — related
 - [A larger percentage of BCIRC students met the bilingual education exit criterion in reading (32% versus 10%)](bcirc-higher-reading-exit-criterion-rate.md) — related
 - [Two years of BCIRC exposure is associated with larger reading gains than one year (effect size 0.87 significant versus 0.33 non-significant)](bcirc-two-years-larger-reading-gains-than-one-year.md) — related
+- [In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest](ic-ll-longitudinal-reading-quasi-experiment.md) — related

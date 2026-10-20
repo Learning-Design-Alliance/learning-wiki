@@ -45,3 +45,4 @@ Conceptual argument stated in the abstract: the authors treat "task performance 
 ## Related Claims
 - [Behavioural analytics alone cannot distinguish the cognitive origins of identical learner errors](behaviour-alone-insufficient-cognitive-origins.md) — related
 - [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related

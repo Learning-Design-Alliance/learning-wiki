@@ -48,3 +48,5 @@ Table 5 reports low-level MR percentages of 67.2% vs 31.6% (high school) and 81.
 - [MOR comprised the majority of social MR turns in both less and more successful outcome groups in Finnish senior high school science](mor-majority-finnish-high-school.md) — related
 - [American university engineering students showed the opposite foci pattern: the less successful group manifested more high-level MR than the more successful group](opposite-foci-pattern-engineering.md) — related
 - [VMSR occurred at low levels across all groups and contexts](vmsr-low-across-contexts.md) — related
+- [In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group](opposite-ssmr-foci-engineering.md) — related
+- [SSMR comprised the majority of social MR turns in both less and more successful outcome groups in Australian university veterinary science and American university engineering contexts](ssmr-majority-university-veterinary-engineering.md) — related

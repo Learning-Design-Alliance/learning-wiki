@@ -46,3 +46,6 @@ Study 1 exploratory factor analysis with 486 students using principal axis facto
 - [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related
 - Exploratory factor analysis indicates a four-factor solution best fits the survey response data — related
 - [Feedback engagement indirectly associates GAA-LS scores with academic integrity intention in a cross-sectional structural model](gaa-ls-feedback-engagement-indirect-association.md) — related
+- [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](pilot-efa-four-factor-solution.md) — related
+- [The five-dimension structure and scale were validated with 308 graduate students, showing acceptable reliability and validity](scale-validation-308-graduate-students.md) — related

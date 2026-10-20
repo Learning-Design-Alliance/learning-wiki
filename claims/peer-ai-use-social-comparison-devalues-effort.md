@@ -46,3 +46,4 @@ In the social-comparison findings of this interview study, five participants des
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](ai-availability-questions-programming-skill-utility.md) — related
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
 - [Students in both conditions named awareness of their reliance on AI as the most valuable course outcome, and unrestricted-AI students described shallow engagement they could not stop](reliance-awareness-most-valued-outcome.md) — related
+- [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — related

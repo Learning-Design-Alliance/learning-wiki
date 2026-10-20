@@ -47,3 +47,6 @@ Theoretical argument in a position paper: the authors state the vision should no
 - [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — reports the opposite
 - [LLM-based tools may interfere with reading comprehension and retention despite learners finding them helpful](llm-tools-interfere-comprehension-retention.md) — reports the opposite
 - [Graduate seminars with hands-on generative AI use and reflection increased students' comfort with AI and ability to critically assess AI outputs](hands-on-genai-seminars-raise-critical-assessment.md) — related
+- [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
+- [Large language models can support learning and teaching across education levels, from reading and writing support for elementary students to professional training](llm-support-learning-across-education-levels.md) — related
+- [Students perceive GenAI tools as beneficial for academic engagement, particularly for overcoming language barriers and accessing up-to-date resources](students-perceive-genai-academic-benefits.md) — related

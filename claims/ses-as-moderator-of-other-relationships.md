@@ -49,3 +49,4 @@ Among 26 meta-analyses in the umbrella review, seven investigated SES as a moder
 - [SES effect sizes vary by SES indicator type, outcome type, grade level, and study year](ses-effect-moderators-indicator-outcome-grade-year.md) — related
 - [Socioeconomic status does not significantly moderate the mind-set–achievement correlation](ses-not-moderator-mindset-correlation.md) — related
 - [Country SES moderates the linguistic-skill-to-reading paths, with stronger phonological-awareness and vocabulary associations in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
+- [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related

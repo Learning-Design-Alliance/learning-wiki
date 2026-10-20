@@ -48,3 +48,4 @@ RQ1 benchmark evaluation of prompted baselines (2-shot for narrative generation,
 - [In a pilot with eight medical students, multimodal MedGame was perceived as more engaging and useful than text-only MedGame and original case material](multimodal-medgame-higher-perceived-engagement-pilot.md) — related
 - [Related-case overlap between MedGame Bench train and test splits shows no significant performance difference](no-related-case-overlap-inflation-medgame-bench.md) — related
 - [Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output](sft-less-effective-than-prompting-for-feedback-generation.md) — related
+- [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — related

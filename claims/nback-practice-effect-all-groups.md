@@ -49,3 +49,4 @@ Omnibus repeated-measures ANOVA of combined N-Back performance at baseline and t
 - [The disgust film induction elevated disgust ratings comparably in young and older adults, with no age differences in reactivity or recovery after baseline](mood-induction-effective-no-age-reactivity-difference.md) — related
 - [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](adults-higher-accuracy-startle-load-group-interaction.md) — related
 - [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related
+- [Social exclusion shows no significant effect on n-back response times in any age group](no-exclusion-effect-nback-response-times.md) — related

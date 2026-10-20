@@ -46,3 +46,5 @@ The article's narrative account of the CMSI reform reports that in 2002 the CPS 
 - [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — related
 - [Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits](double-dose-algebra-discontinued-prematurely.md) — related
 - Chicago's public school system moved from among the most troubled in America in 1987 to among the most improved thirty years later — related
+- [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — related
+- [Algebra/geometry sequence passing rose from 36.5 to 49.7 percent, with changes in incoming students accounting for only 17.8 percent of the improvement](chicago-algebra-geometry-passing-rose-mostly-school-factors.md) — related

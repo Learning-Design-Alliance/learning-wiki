@@ -50,3 +50,5 @@ The review reports, citing Hannak, Joseph, Larremore, and Cimpian (2023), an ana
 - [Field-specific ability beliefs are consensual cultural beliefs, acquired by early elementary school, that associate brilliance with fields like math more than language fields](fabs-consensual-early-acquired.md) — a broader claim this one bears on
 - [Brilliance-oriented contexts heighten anxiety among intellectually stigmatized students](brilliance-contexts-heighten-anxiety.md) — related
 - [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related
+- [Brilliance stereotypes associating brilliance with boys, higher-SES, and White children emerge by age 6](brilliance-stereotypes-emerge-by-age-six.md) — related
+- [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related

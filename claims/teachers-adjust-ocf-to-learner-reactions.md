@@ -49,3 +49,4 @@ Analysis of learner-reaction reports in the interviews found acceptance, indiffe
 - [Instructors focused OCF on pronunciation and grammar errors and withheld correction unless errors impeded communication](ocf-focused-pronunciation-grammar-communication-impeding.md) — related
 - [Instructors favored delayed over immediate oral corrective feedback, believing immediate correction intimidates students](teachers-favor-delayed-ocf-over-immediate.md) — related
 - [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
+- [Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider](feedback-source-awareness-attitude-themes.md) — related

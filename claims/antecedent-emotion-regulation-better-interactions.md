@@ -49,3 +49,6 @@ The review attributes this finding to Aldrup et al. (2024): "A systematic review
 - [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related
 - [Students' academic outcomes tentatively benefit from teacher-focused classroom management programs](teacher-focused-programs-academic-outcomes-tentative.md) — related
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Epistemic empathy, an affective phenomenon, dovetails with science teachers' learning of responsive teaching](epistemic-empathy-dovetails-responsive-teaching.md) — related
+- [Classroom-level instructional support, organization, and emotional support are each positively associated with upper elementary students' metacognitive strategy use](classroom-interaction-domains-positive-metacognition.md) — related
+- [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related

@@ -43,4 +43,8 @@ Study of two samples of medical students (14 and 11 students) working in groups 
 
 
 ## Related Claims
--
+- [Temporal phases of co-regulation matter: prolonged early planning to establish shared goals and common ground facilitates co-regulation and collaboration in later phases](temporal-phases-prolonged-early-planning-facilitates-later-co-regulation.md) — a narrower finding that bears on this claim
+- [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [Teacher discourse shifted toward creating new challenging situations (NI) and confirming repeats (R) in the interactive-whiteboard condition, versus providing requested information (IR) and clarification questions (Q) in the traditional-whiteboard condition](iw-condition-ni-r-versus-tw-ir-q-discourse.md) — related
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related

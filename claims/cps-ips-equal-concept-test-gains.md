@@ -65,3 +65,6 @@ The same ANCOVA found achievement level significant: "partial η2 = 0.157, effec
 - [Eighth graders in a CPS group outperformed those in an IPS group on physics problem solving, with CPS narrowing high–low achievement gaps](cps-outperformed-ips-problem-solving-gap.md) — possibly the same claim (merge candidate)
 - [CPS students proposed better problem-solving solutions and allocated more time to solutions, evidence-based reasoning, and simulation/data recording than IPS students](cps-more-time-and-better-ps-solutions.md) — related
 - [Online problem-solving solution performance predicted students' posttest performance on both the concept test and problem-solving test](online-ps-solutions-predict-posttests.md) — related
+- [Structured GenAI scaffolding training raises sophomore STEM students' posttest CSEM electromagnetism scores over problem-solving training (d = 0.81)](genai-scaffolding-training-improves-revision-performance.md) — related
+- [Collaborative problem-solving students significantly outperformed individual problem-solving students on the electromagnetism problem-solving posttest](cps-outperformed-ips-on-epst-posttest.md) — related
+- [CPS benefited low-achievers significantly more than IPS on problem-solving, closing the gap with high-achievers, while high-achievers gained equally from both](cps-benefits-low-achievers-closing-gap.md) — related

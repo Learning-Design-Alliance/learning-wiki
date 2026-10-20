@@ -65,3 +65,4 @@ Same heterogeneity analysis (Figure 2, by tutor quality rating and experience). 
 - [Tutor Copilot Raises Exit Ticket Mastery 4Pp](tutor-copilot-raises-exit-ticket-mastery-4pp.md)
 - [Tutors with Tutor CoPilot access use more understanding-fostering strategies (e.g., prompting students to explain) and rely less on giving away answers than control tutors](tutor-copilot-shifts-tutors-toward-understanding-fostering-strategies.md) — related
 - [Tutors perceive Tutor CoPilot as helpful for on-the-spot explanations but flag suggestions that are not grade-level appropriate and 'too smart'](tutors-perceive-tutor-copilot-helpful-but-grade-level-issues.md) — related
+- [Tutor CoPilot shows no statistically significant effects on participation points, student survey outcomes, or end-of-year math test scores](tutor-copilot-no-significant-effects-secondary-outcomes.md) — related

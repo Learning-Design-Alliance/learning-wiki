@@ -48,3 +48,4 @@ Focus group discussions found consensus that coaching could be improved: prior "
 - [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — related
 - Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related
+- [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related

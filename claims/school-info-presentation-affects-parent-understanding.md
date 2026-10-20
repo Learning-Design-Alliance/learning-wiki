@@ -49,3 +49,5 @@ The page states only that the guide "was informed by a recent study examining ho
 - [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — related
 - [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on
 - [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
+- [Display design affected parents' understanding of school information and their self-reported satisfaction and ease of use](display-design-understanding-satisfaction-ease.md) — a narrower finding that bears on this claim
+- [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — related

@@ -45,3 +45,5 @@ Key finding from the study of teachers in schools that departmentalized 4th- and
 ## Related Claims
 - [Schools implementing departmentalized elementary instruction completed key implementation steps, but some faced scheduling challenges](departmentalization-implementation-steps-scheduling-challenges.md) — related
 - [The effects of departmentalized instruction on student achievement and teacher retention remain unclear](departmentalization-effects-achievement-retention-unclear.md) — related
+- [Instruction in upper elementary grades is often departmentalized: about one in six elementary school teachers in the original administrative data was linked to a subject he or she did not teach](one-in-six-elementary-teachers-linked-to-untaught-subject.md) — related
+- [About one in six grade 4 and 5 math and reading/ELA teachers is linked in unconfirmed administrative data to a subject they do not teach](one-in-six-grade-4-5-teachers-mislinked-unconfirmed-data.md) — related

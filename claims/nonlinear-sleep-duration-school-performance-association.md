@@ -49,3 +49,4 @@ Cohort analysis using penalized splines in generalized additive models with gene
 - [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
 - [Adolescents with 7 hours or less total rest time show longer 3-back response times, both acutely and averaged over the week](seven-hour-rest-threshold-3back-response.md) — related
 - [Older adolescents show high night-to-night variability in free-living sleep duration, which may obscure sleep-cognition associations](night-to-night-sleep-variability-adolescents.md) — related
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related

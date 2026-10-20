@@ -48,3 +48,4 @@ Analysis of 460 student utterances (235 Emotion OFF, 225 Emotion ON) labeled for
 ## Related Claims
 - [In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition](emotion-on-longer-positive-facial-expressions.md) — related
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
+- [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](multimodal-emotion-aggregation-60-percent-accuracy.md) — related

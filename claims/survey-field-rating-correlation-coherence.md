@@ -44,3 +44,6 @@ Comparison of teacher survey coherence measures with field-study rubric ratings 
 
 ## Related Claims
 - [Strong instructional program coherence is uncommon among Chicago elementary schools](strong-coherence-uncommon-chicago-schools.md) — related
+- [More than half of teachers in bottom-quartile schools describe little or no program coherence](program-coherence-bottom-quartile-little-or-none.md) — related
+- [In bottom-quartile schools the School Improvement Plan is largely not implemented, with most teachers negative or mixed](bottom-quartile-schools-sip-not-implemented.md) — related
+- [Joint problem solving distinguishes top- from bottom-quartile Chicago high schools: half of top-quartile teachers describe strong processes plus 13 percent very strong, while bottom-quartile teachers most often describe weak processes (46 percent)](joint-problem-solving-quartile-contrast-1997.md) — related

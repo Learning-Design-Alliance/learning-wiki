@@ -64,3 +64,9 @@ LSA for the Replacement Tool group found a highly constrained sequential structu
 ## Related Claims
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](genai-role-metacognitive-profiles.md) — related
 - [Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction](query-evaluation-verification-loop.md) — related
+- [Intrinsically motivated students form reflective-iterative metacognitive co-occurrence networks, but overall ENA centroid positions do not differ significantly between motivational groups](ena-networks-motivational-groups.md) — related
+- [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](intrinsic-motivation-higher-order-metacognition.md) — related
+- [Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation](chatgpt-process-map-loop-metacognitive-disengagement.md) — related
+- [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md) — related
+- [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
+- [LMS log analysis showed groups spent roughly 9 days to 2 weeks per module after M1, and completed implementation (M5) faster than expected](lms-module-timing-m5-faster.md) — related

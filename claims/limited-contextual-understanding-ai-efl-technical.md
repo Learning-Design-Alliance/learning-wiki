@@ -48,3 +48,5 @@ Cross-study synthesis of the 54 included empirical studies; the review reports l
 - Most participants articulated technical and contextual limitations of AI evaluation, including handwriting misreading and unawareness of the instructor's rating system — related
 - [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](ai-scoring-perceptions-lower-vs-higher-order.md) — related
 - [Detection-oriented emotion AI faces contextual under-interpretation: emotional signals lack stable meanings independent of person, task, culture, and situation](contextual-under-interpretation-emotion-ai.md) — related
+- [On structured pedagogical-judgment items, all evaluated models share a systematic style-over-fit deviation, converging on the same non-reference option](llm-style-over-fit-uniform-deviation.md) — related
+- [The package claims minimal technical English limits workplace training through comprehension, confidence and written-form difficulties](minimal-technical-english-limits-training.md) — related

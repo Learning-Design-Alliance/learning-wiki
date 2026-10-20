@@ -51,3 +51,8 @@ Theoretical argument in Section 4.2 of this conceptual paper, citing empirical s
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — related
 - [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — reports the opposite
+- [Students' evaluative judgment of cGPT responses shifted from strict principle compliance toward contextual appropriateness](evolving-evaluative-judgment-cgpt-responses.md) — related
+- [Students showed no statistically significant apprehension about trusting automated feedback validity, and favoured granular automated marginalia over generalised human feedback](student-trust-in-automated-feedback-null-apprehension.md) — reports the opposite
+- [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md) — a narrower finding that bears on this claim
+- [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — possibly the same claim (merge candidate)
+- [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — a broader claim this one bears on

@@ -67,3 +67,4 @@ Perceived collaborative cognitive load was measured as an outcome in the same qu
 ## Related Claims
 - [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
 - [Role design facilitates transitions among higher-order collaborative behaviors in human-GAI collaboration](role-design-facilitates-higher-order-behavior-transitions.md) — related
+- [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related

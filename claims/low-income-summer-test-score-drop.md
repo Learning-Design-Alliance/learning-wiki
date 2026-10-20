@@ -63,3 +63,4 @@ The article states, as background motivating the study, that "a growing body of 
 - [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
 - [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related
+- [No statistically significant summer gap in children's reading time by parental education in the APSCC](no-significant-summer-reading-gap-apscc.md) — related

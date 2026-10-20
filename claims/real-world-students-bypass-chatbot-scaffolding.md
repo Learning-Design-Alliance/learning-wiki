@@ -46,3 +46,4 @@ Observational analysis of five real-world deployment datasets (CoMTA, RECIPE4U, 
 - [Interaction patterns of benchmark datasets and real-world deployment categories are statistically distinct in the scaffolding-uptake space](benchmark-and-realworld-interaction-categories-statistically-distinct.md) — possibly the same claim (merge candidate)
 - [AI tutor benchmark datasets show essentially no correlation between chatbot scaffolding and student uptake](no-scaffolding-uptake-correlation-in-benchmarks.md) — related
 - [Student uptake is only weakly and inconsistently correlated with chatbot scaffolding in real-world deployments](weak-inconsistent-scaffolding-uptake-correlation-real-world.md) — related
+- [Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially](chatbot-engagement-bimodal-continuous-versus-superficial-users.md) — related

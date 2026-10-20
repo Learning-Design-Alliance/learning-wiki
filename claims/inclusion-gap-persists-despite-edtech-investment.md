@@ -45,3 +45,8 @@ The statement assembles published figures from UNICEF, UNESCO, and others to cha
 ## Related Claims
 - [Learners face compounding systemic challenges: widening gaps, isolation, and shifting skill demands](systemic-challenges-gaps-isolation-shifting-skills.md) — related
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
+- [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
+- [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
+- [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
+- [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related

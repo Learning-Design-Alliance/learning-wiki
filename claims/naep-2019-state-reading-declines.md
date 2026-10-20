@@ -50,3 +50,4 @@ The NAEP 2019 state results report state-level score changes since 2017, stating
 - [Grade 4 reading scores in 2019 decreased across the performance distribution except at the 90th percentile compared to 2017](naep-2019-grade-4-reading-declines.md) — related
 - [Grade 4 mathematics average scores in 2019 were 1 point higher than in 2017 and 27 points higher than in 1990, with increases at the 25th and 50th percentiles](naep-2019-grade-4-math-up-since-1990.md) — related
 - State-level NAEP reading gains were uneven: 18 states improved at grade 4 since 2005, no state declined, and only four jurisdictions improved at both grades — related
+- [NAEP scores in 2019 were higher for most racial/ethnic groups in both subjects and grades compared to the early 1990s, but grade 8 reading was lower for all groups except Asian/Pacific Islander students compared to 2017](naep-2019-race-ethnicity-trends.md) — related

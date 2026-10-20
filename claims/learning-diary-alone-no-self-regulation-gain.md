@@ -67,3 +67,7 @@ Quasi-experimental comparison across four university courses with pre–post mea
 - [Combining a structured learning diary with instruction on self-regulated learning increased students' strategy use and self-efficacy](diary-plus-srl-instruction-raises-strategy-use-self-efficacy.md) — related
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
+- [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — related
+- [A daily learning diary alone (Group D) did not produce statistically significant pre-post gains on any measured outcome in an online mathematics preparation course](learning-diary-alone-no-significant-srl-gains-online-math-prep-course.md) — related
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related

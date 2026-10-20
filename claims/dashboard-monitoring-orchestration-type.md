@@ -49,3 +49,6 @@ Qualitative case analysis of lesson recordings and teacher tablet screen capture
 - [AI-correcting is a newly observed orchestration type in which the teacher identifies erroneous AI feedback, points it out to students, and re-guides or edits AI prompts (10 of 46 episodes)](ai-correcting-orchestration-type.md) — related
 - Learning Analytics Dashboards are the most frequently reported AI system type supporting lecturer decisions, primarily for monitoring, feedback, and assessment — related
 - [Teacher roles vary by orchestration type, with content-related and ethical roles prominent when the teacher intervenes in AI-generated feedback, and a knowledge-transmitter role emerging in explain-the-screen](teacher-roles-vary-by-orchestration-type.md) — related
+- [Instructor roles shift from exclusive information source toward orchestrating and regulating AI-mediated learning activities](instructor-role-shift-orchestrating-genai.md) — related
+- [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related
+- [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related

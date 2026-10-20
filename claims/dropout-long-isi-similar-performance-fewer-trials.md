@@ -68,3 +68,4 @@ Replication experiment with 66 undergraduates in three groups (5-5-5, 23-23-23, 
 - [A short-ISI dropout schedule (5-drop) used significantly fewer trials but yielded lower final test performance than conventional schedules in Experiment 1](short-isi-dropout-lower-performance.md) — related
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — related

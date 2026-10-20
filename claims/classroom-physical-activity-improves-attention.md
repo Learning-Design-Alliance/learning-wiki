@@ -112,3 +112,9 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
 - [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — reports the opposite
 - [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — related
+- [Systematic implementation of Energizers improves on-task behavior during academic instruction in third- and fourth-grade students](energizers-improved-on-task-behavior.md) — a narrower finding that bears on this claim
+- [The least on-task students show the largest improvement after Energizers activities, improving on-task behavior by 20%](energizers-least-on-task-students-largest-gain.md) — a narrower finding that bears on this claim
+- [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](three-year-cbpa-mvpa-time-on-task.md) — a narrower finding that bears on this claim
+- [Classroom-based physical activity interventions improve attention and/or on-task behavior in most reviewed studies of schoolchildren aged 4–18](cbpa-improves-attention-on-task-schoolchildren.md) — related
+- [Students in Playworks schools reported better behavior and attention in class after sports, games, and play](playworks-students-reported-better-behavior-attention-after-play.md) — related
+- [In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)](mvpa-negatively-associated-off-task-carlson.md) — a narrower finding that bears on this claim

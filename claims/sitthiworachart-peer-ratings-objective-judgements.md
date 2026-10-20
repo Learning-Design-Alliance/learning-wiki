@@ -43,4 +43,5 @@ The review reports an evaluation of the system developed by Sitthiworachart and 
 
 
 ## Related Claims
--
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [In two online comparisons, a rubric changed what peer reviewers commented on (one study) and helped peer raters place writing in quality tiers, most for complex criteria (the other); the first study says the rubric restrained reflective thinking](rubrics-improve-peer-feedback-quality.md) — related

@@ -44,3 +44,4 @@ The article reports a study in which patterns of variation and invariance were b
 
 ## Related Claims
 - [Students taught by teachers using variation theory showed extremely better mastery of the supply-and-demand price concept than students taught without the theory](variation-theory-teaching-extreme-learning-gain-economics.md) — possibly the same claim (merge candidate)
+- [Bringing out the necessary pattern of variation and invariance in the learning situation enhances the likelihood that the object of learning is appropriated](bringing-out-variation-pattern-enhances-appropriation.md) — possibly the same claim (merge candidate)

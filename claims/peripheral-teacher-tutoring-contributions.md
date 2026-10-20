@@ -45,3 +45,6 @@ Content analysis of coded learning and tutoring activities (Cohen's Kappa 0.86 o
 ## Related Claims
 
 - [NLC1 acted as one evenly participating group with no cliques, while NLC2 was initially directed by three central participants and did not operate as one group](nlc1-even-participation-nlc2-star-shape.md)
+- [The beginner tutor was unnerved by a dominant, critical student and by posting complexity, did not respond at times, and made no active contribution in the end phase](beginner-tutor-overwhelmed-withdrew.md) — related
+- [The NLC with the experienced teacher showed higher and more stable network density than the beginner's NLC, whose density dropped from 36% to 26% in the end phase](nlc1-higher-stable-density-than-nlc2.md) — related
+- [Learning and teaching processes in networked learning are not static but have different dynamics at various stages of collaborative work](nl-processes-dynamics-vary-by-phase.md) — a broader claim this one bears on

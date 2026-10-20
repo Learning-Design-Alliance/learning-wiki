@@ -48,3 +48,5 @@ In the semantic similarity judgment task following the PLDT, each of ten studied
 - [Diverse and uniform training contexts dissociate: processing ease and semantic representation diverge early in learning](diversity-dissociation-processing-versus-semantics.md) — a broader claim this one bears on
 - [Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy](shot-selection-originality-similarity-tradeoff.md) — related
 - [High-variability passages receive longer study times than low-variability passages](high-variability-passages-longer-study-time.md)
+- [Comprehension ratings diverge across training conditions over repeated passages, with a significant condition-by-trial interaction](comprehension-ratings-diverge-by-contextual-variability.md) — related
+- [Words encountered in diverse contexts are identified faster, with a mean 26-ms advantage](diverse-contexts-speed-word-identification.md) — related

@@ -48,3 +48,6 @@ Observational analysis of retests taken no more than one day after the initial t
 - [Including rapid guesses in scoring introduces systematic measurement errors that can seriously distort test scores](rapid-guessing-distorts-test-scores-and-measurement.md) — related
 - [Rapid guesses on MAP Growth reflect a lack of engagement rather than a lack of knowledge](rapid-guessing-reflects-disengagement-not-lack-of-knowledge.md) — a broader claim this one bears on
 - [Students who rapid-guess less on a MAP Growth retest tend to see score gains, while those who rapid-guess more tend to see declines](retest-engagement-gains-map-growth.md) — a broader claim this one bears on
+- [Standard effort-moderated scoring accounts for roughly one-third of score distortion due to differential disengagement on low-stakes achievement tests](standard-em-scoring-one-third-distortion.md) — related
+- [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — related

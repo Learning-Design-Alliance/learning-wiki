@@ -43,4 +43,6 @@ The article reports, citing Schuster et al. (2020), that "before training of met
 
 
 ## Related Claims
--
+- [Theoretical expectation: hybrid metacognitive skill training benefits content knowledge acquisition more in near than in far transfer because far transfer is more cognitively demanding](near-transfer-working-memory-advantage-hypothesis.md) — related
+- [Metacognitive skills initially develop in separate domains and later become generalized across domains, but the transfer processes remain unknown](metacognitive-skills-domain-development-trajectory.md) — related
+- [Hybrid training improves fifth-graders' application of metacognitive skills in near-transfer tasks compared to non-hybrid and control training](hybrid-training-improves-near-transfer-metacognitive-skills.md) — related

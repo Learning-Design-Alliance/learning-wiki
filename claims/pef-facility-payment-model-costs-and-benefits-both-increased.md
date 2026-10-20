@@ -48,3 +48,4 @@ Comparison of program economics before and after the FY 2024 shift to a facility
 - [The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs](pef-fy2024-cost-76-million-up-from-54-million.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
 - [Per-pupil costs for TLTS averaged $242 per year](tlts-per-pupil-cost-242.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — a broader claim this one bears on

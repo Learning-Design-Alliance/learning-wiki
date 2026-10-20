@@ -67,3 +67,7 @@ Same ANOVA design applied to true-false questions. The age × correctness intera
 - [Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions](monitoring-control-more-accurate-open-ended-than-true-false.md) — related
 - [Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions](overconfidence-incorrect-answers-higher-true-false.md) — related
 - [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related
+- [Fourth graders outperform second graders on secret-code performance and restudy effectiveness, but not on self-monitoring discrimination](grade-differences-performance-restudy-not-self-monitoring.md) — related
+- [Children's text comprehension test performance improved from T1 to T2, driven mainly by second graders, with fewer omission errors over time](test-performance-gains-t1-to-t2.md) — related
+- [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
+- [Fourth graders report lower perceived group status than second graders, qualified by an ethnicity × grade interaction](grade-differences-perceived-group-status-interaction.md) — related

@@ -48,3 +48,5 @@ Instruction-tuning experiments across Llama-3.1-8B-Instruct, Phi-4-4B-Mini, and 
 - [Learner errors arise from interlingual transfer, intralingual overgeneralization, cultural interference, and communicative strategies](error-sources-interlingual-intralingual-cultural.md) — related
 - [On the misconception-annotated math dataset, LLMs predominantly follow a solve-first, error-injection process aligned with misconception-based distractor design](llms-solve-first-error-injection-edi.md) — related
 - [Incorporating example problems does not necessarily improve LLM teaching and can degrade it via a shift to example-specific error correction](example-problems-degrade-llm-teaching.md) — related
+- [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
+- [Tutor models trained on ten misconceptions simultaneously learn each misconception while overall correct accuracy remains stable or improves (93% to 98%)](tutor-model-multi-misconception-no-accuracy-tradeoff.md) — related

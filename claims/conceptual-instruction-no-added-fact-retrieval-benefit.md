@@ -51,3 +51,4 @@ Comparison of the two fact retrieval conditions in the randomized trial (n = 139
 - [Procedural computation/estimation tutoring does not improve automatic fact retrieval](procedural-tutoring-no-fact-retrieval-gain.md) — related
 - [MD-only third graders in fact retrieval tutoring outperform PROC/E and control students on fact retrieval](md-only-fact-retrieval-tutoring-gains.md) — related
 - [MDRD third graders show no significant differences among tutoring conditions on fact retrieval](mdrd-no-fact-retrieval-tutoring-response.md) — related
+- [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](theory-annotation-no-extra-skill-benefit.md) — related

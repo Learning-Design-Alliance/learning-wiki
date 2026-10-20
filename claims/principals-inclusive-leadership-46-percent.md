@@ -45,3 +45,5 @@ Survey-indicator analysis of Consortium principal survey data. The report identi
 ## Related Claims
 - [An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy](prevalence-four-politics-types-chicago-elementary.md) — related
 - About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
+- [High school teachers are substantially less positive than elementary school teachers about recent changes, reform impact, and local school leadership](high-school-teachers-less-positive-than-elementary.md) — related
+- [Teachers in top-quartile schools hold their principals in high regard as facilitative, inclusive, committed leaders](top-quartile-schools-facilitative-principal-leadership.md) — related

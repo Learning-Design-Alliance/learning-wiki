@@ -48,3 +48,4 @@ Qualitative interviews and focus groups during WestEd site visits in April 2025 
 - [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
 - [Quality of staff-student and staff-parent relationships most strongly defines safe schools, with disadvantaged high-relationship schools feeling safer than advantaged low-relationship schools](relationship-quality-defines-safe-schools.md) — a broader claim this one bears on
 - [Strong relational trust and cooperative adult effort distinguish improving schools from schools with flat or declining test scores](relational-trust-linked-school-improvement.md) — a broader claim this one bears on
+- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related

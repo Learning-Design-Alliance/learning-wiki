@@ -54,3 +54,4 @@ Interview, interaction-log, and Git-history analysis of experienced AI-section s
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
 - [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related
 - [Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification](shallow-acceptance-originality-rarely-invoked.md) — related
+- [Fully offloading schoolwork to generative AI without personal input forgoes meaningful engagement and skill development](full-ai-offloading-forgoes-engagement-and-skills.md) — a broader claim this one bears on

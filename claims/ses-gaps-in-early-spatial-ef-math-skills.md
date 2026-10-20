@@ -48,3 +48,7 @@ Independent-samples t-tests comparing lower-SES (n = 20) and higher-SES (n = 24)
 ## Related Claims
 - [Vocabulary (PPVT) is not a significant unique predictor of preschool mathematics once EF and spatial skills are in the model, despite alone accounting for 41% of variance](ppvt-not-unique-math-predictor.md) — related
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
+- [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
+- [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — related
+- [Executive function and spatial skills jointly predict 70% of the variance in age-4 mathematics performance without an explicit number-knowledge measure](ef-and-spatial-predict-70-percent-preschool-math-variance.md) — related
+- [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](tosa-age-3-predicts-age-4-math.md) — related

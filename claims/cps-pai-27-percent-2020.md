@@ -72,3 +72,4 @@ Disaggregated PAI calculation by race/ethnicity and gender (Table 1, Figure 9) u
 - [College aspirations doubled between 1980 and 2002 while readiness and completion gaps by race, ethnicity, and income persisted or widened](college-aspirations-doubled-readiness-gaps-persist.md) — related
 - [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
 - Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
+- [Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not](motivation-and-background-predictors-engagement.md) — related

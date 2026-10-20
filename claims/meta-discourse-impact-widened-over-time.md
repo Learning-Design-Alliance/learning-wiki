@@ -48,3 +48,5 @@ The editorial reports, describing Tong and Chan's quasi-experimental contrast of
 - [Group meta-discourse in Knowledge Forum is associated with higher individual learning among university students](meta-discourse-groups-higher-individual-learning.md) — related
 - [A small-scale pilot study explored the impact of a variety of roles on discussion-forum interaction across participative, social, cognitive, and teaching dimensions](role-playing-forum-interaction-pilot.md) — related
 - [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md)
+- [Editorial reports that meta-level talk about group process, but not about individual actions, is associated with superior group outcomes](editorial-reports-meta-group-talk-aids-group-performance.md) — related
+- [Students showed low competence with Knowledge Forum features designed to support linking ideas, which may explain the lower-than-expected linking index](low-competence-kf-linking-features.md) — related

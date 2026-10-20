@@ -47,3 +47,7 @@ Between-school SEM panels predicting school-adjusted EPAS gains (standardized co
 - [Principal effects on student achievement are largely indirect, mediated through school organizational processes](principal-effects-indirect-through-organizational-processes.md) — a broader claim this one bears on
 - School learning climate is the only process through which high school leadership accounts for differences across schools in instructional quality and achievement — related
 - [Within schools, principal leadership relates to individual teachers' instruction through multiple pathways, with the strongest via program quality (professional development and coherence)](leadership-instruction-within-schools-program-quality.md) — related
+- [Building a strong learning climate by supporting and guiding teacher collaboration around common goals is highlighted as a key finding](learning-climate-teacher-collaboration-common-goals.md) — related
+- [Principal support for Grow predicts teacher Grow use above and beyond teacher demographics and technology factors](principal-support-predicts-teacher-grow-use.md) — related
+- [Within schools, principal leadership shows a negative direct relationship with classroom academic demands net of mediating factors](within-school-direct-negative-leadership-academic-demand.md) — related
+- [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related

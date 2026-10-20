@@ -51,3 +51,5 @@ Findings from the CLL section of the thematic analysis. Teachers reported the tr
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — a broader claim this one bears on
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
+- [Multiple trends point to a de-professionalization of teachers in both the North and the South](de-professionalization-of-teachers-trends.md) — related
+- [Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change](shame-guilt-cycles-continued-ai-use.md) — related

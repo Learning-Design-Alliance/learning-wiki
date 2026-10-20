@@ -47,3 +47,6 @@ Task-type moderator analysis (Table 1: problem solving k = 38, r = −.533; word
 - [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — a broader claim this one bears on
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related
 - [Monitoring judgment timing moderates the correlation: concurrent judgments show a stronger negative association than prospective judgments](concurrent-stronger-than-prospective-judgments.md) — related
+- [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — related
+- [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](goal-driven-manipulations-eliminate-negative-correlation.md) — related
+- [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related

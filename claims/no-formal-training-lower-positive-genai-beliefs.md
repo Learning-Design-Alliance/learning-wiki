@@ -44,3 +44,4 @@ Model 1 regression, training-pathway contrasts with university preparation as re
 - [AI readiness is the strongest predictor of K-12 teachers' positive beliefs about GenAI's instructional impact, with the model explaining 50% of variance](ai-readiness-strongest-predictor-positive-genai-beliefs.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - The more formal SDM training staff received, the more positive their attitudes toward the model (r=.293, p<.001), especially at the elementary level — related
+- [GenAI lowers the barrier to advanced tasks, letting less-experienced practitioners achieve outcomes once requiring formal training or mentorship](genai-lowers-barrier-to-advanced-it-tasks.md) — related

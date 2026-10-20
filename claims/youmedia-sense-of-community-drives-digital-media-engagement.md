@@ -52,3 +52,5 @@ Key finding from the Consortium report on YOUmedia Chicago. The report states th
 - [YOUmedia registration increased steadily across Year 1, reaching 1,593 registered teens by August 2010](youmedia-registration-increased-year-one.md) — related
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Most teens at any given time chose the hanging out space, though staff reported a substantial number also engaged in geeking out activities](youmedia-hanging-out-dominant-with-geeking-out-subgroup.md) — related
+- [Participation at YOUmedia differs substantially across teens, spanning creation, homework, varied media use, and socializing](youmedia-participation-patterns-vary-substantially.md) — related
+- [In Year 1, teens left on their own did not automatically connect with structured workshops; adult mentors reaching out socially changed this](youmedia-teens-needed-mentor-outreach-to-connect.md) — related

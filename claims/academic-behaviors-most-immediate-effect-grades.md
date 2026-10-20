@@ -51,3 +51,5 @@ Interpretive summary of the review's synthesis across the five factor chapters. 
 - [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](noncognitive-factors-related-to-school-performance-farrington-2012.md) — related
 - [Academic grit has a significant positive effect on primary students' math achievement](academic-grit-positive-effect-primary-math-achievement.md) — reports the opposite
 - [Growth math mindset positively predicts academic grit in primary students](growth-math-mindset-predicts-academic-grit.md) — related
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — reports the opposite
+- [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — possibly the same claim (merge candidate)

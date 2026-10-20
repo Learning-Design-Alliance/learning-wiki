@@ -51,3 +51,4 @@ Section 3 summary comparing charter subgroup growth trends (Black, Hispanic, pov
 - [Innovation school students mostly do not deviate from citywide growth trends, with Denver innovation schools an outperforming exception](credo-cohort1-innovation-schools-citywide-trends-denver-exception.md) — related
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related
 - [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on
+- [More than 1,000 charter schools show gap-busting progress with achievement exceeding state averages](gap-busting-charter-schools-exceed-state-averages.md) — related

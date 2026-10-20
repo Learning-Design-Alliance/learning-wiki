@@ -64,3 +64,6 @@ Reported teacher and student reactions in the same classroom study: participants
 ## Related Claims
 
 - [Students' performance improved from day 1 to day 2 of the TapaCarp activity](performance-improved-day1-to-day2-tapacarp.md)
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related
+- [Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program](ten-steps-design-cost-time-intensive.md) — related
+- [The tangible nature of TapaCarp helped integrate it in the classroom environment](tangible-nature-aided-classroom-integration.md) — related

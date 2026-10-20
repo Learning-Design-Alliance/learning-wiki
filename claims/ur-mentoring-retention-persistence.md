@@ -48,3 +48,4 @@ Narrative review statement in the Benefits section, attributed by the article to
 - First-year seminars populated by major or advisor show higher retention than unconnected seminars — related
 - [Faculty advisors and mentors are considered pivotal in promoting doctoral students' development as responsible and ethical researchers](faculty-mentors-pivotal-responsible-research-development.md) — related
 - [Students in three consortium districts reported positive experiences with the cross-grade mentorship program and with campus social workers](west-kern-student-climate-survey-outcomes.md) — related
+- [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related

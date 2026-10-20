@@ -50,3 +50,4 @@ The article reports its authors' own on-line processing study (VanPatten, Keatin
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
 - [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
+- [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — reports the opposite

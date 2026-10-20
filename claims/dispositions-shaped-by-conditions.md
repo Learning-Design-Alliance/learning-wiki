@@ -62,3 +62,8 @@ Qualitative finding from the dispositions analysis: dispositions "should not be 
 - [Digital education innovations are an interplay of technological, pedagogical, organisational and governance-related dimensions](digital-education-innovation-four-dimension-interplay.md) — related
 - [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](gai-paradigms-enacted-patterns-not-fixed-traits.md) — related
 - [Sustainable AI adoption depends on the interaction of three interdependent conditions: normative friction, governance-based equity, and epistemic integrity](normative-friction-equity-epistemic-integrity-interdependent.md) — related
+- [Digital transformation permeates all levels of the education system as an interdependent structure](digital-transformation-interdependent-multi-level-structure.md) — related
+- [Engaging students as partners in analyzing and discussing student experience data creates authentic engagement and signals responsiveness to students](students-as-partners-in-data-use.md) — related
+- [Participation supports were most effective when deliberately matched to the specific constraints participants faced](supports-matched-to-barriers.md) — related
+- [Systematic role rotation structured pre-service educational psychologists' engagement in AI-supported case-based learning by distributing problem-framing, analytical, intervention-oriented, and reflective responsibilities](role-rotation-distributes-professional-engagement-ai-cases.md) — a narrower finding that bears on this claim
+- [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](power-as-structural-and-capacity-to-act.md) — related

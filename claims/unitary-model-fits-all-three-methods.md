@@ -65,3 +65,5 @@ Out-of-sample validation: predicted high-confidence trial proportions, not fitte
 - [Reverse-correlation decision weights are positive for the chosen stimulus dimension and weaker on low-confidence trials across confidence-assessment methods](decision-weights-positive-chosen-weaker-low-confidence.md) — related
 - [Internal error-corrections, not correct-to-incorrect changes-of-mind, produce the inverted low-confidence decision weights](error-corrections-produce-inverted-weights.md) — related
 - [Low-confidence info-seeking trials show inverted decision weights, unlike explicit reports and post-decision wagering](inverted-decision-weights-low-confidence-info-seeking.md) — related
+- [The inverted low-confidence info-seeking pattern persists when only each participant's first condition is analyzed](mixed-anova-confirms-inverted-weights.md) — reports the opposite
+- [Primary task accuracy is higher in the info-seeking condition than in the explicit reports and wagering conditions](info-seeking-condition-higher-accuracy.md) — related

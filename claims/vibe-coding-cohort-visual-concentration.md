@@ -65,3 +65,5 @@ Pairwise cosine-similarity analysis of all 2,628 pairs among the 73 embedded hom
 - [Builders' perceived control, satisfaction, and perceived quality show no detectable association with their measured visual atypicality, so convergence goes unnoticed from the inside](perception-uncorrelated-with-measured-originality.md) — related
 - [Business sector only weakly explains which visual archetype a vibe-coded site receives, and sector is not significantly associated with per-site originality](sector-weakly-explains-archetype-assignment.md) — related
 - [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related
+- [Humanizer legitimacy performances show leakage: unendorsed logos, inactive social media, and no registered business address](humanizer-frontstage-leakage.md) — related
+- [Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels](clustering-recovers-expert-bundles.md) — related

@@ -47,3 +47,4 @@ The authors' interpretive note (type e) qualifying the feedback debate: immediat
 - [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
 - [Providing corrective feedback on practice tests does not significantly change the testing effect (g = 0.63 with feedback vs. g = 0.60 without)](feedback-no-significant-moderation.md) — related
+- [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related

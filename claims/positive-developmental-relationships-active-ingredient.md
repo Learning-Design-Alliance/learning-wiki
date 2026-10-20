@@ -49,3 +49,5 @@ Narrative synthesis section of the playbook ("Why Positive Developmental Relatio
 - The review reports Bowlby's proposed natural sequence from attachment through separation distress to healthy exploration — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — a narrower finding that bears on this claim
 - [Students perceive peer interaction—companionship, support as a social buffer, and cooperation toward shared goals—as a key element of fun in learning](peer-interaction-fun-element.md) — a narrower finding that bears on this claim
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
+- [The report claims six core SoLD findings should reshape teacher preparation, including that the brain is malleable, variability is the norm, and relationships catalyze learning](sold-core-findings-reshape-teacher-preparation.md) — a broader claim this one bears on

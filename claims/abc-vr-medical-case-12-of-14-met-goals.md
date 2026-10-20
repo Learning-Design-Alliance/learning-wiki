@@ -43,4 +43,4 @@ The article reports the medical case's evaluation of post-VR mock knee exams, in
 
 
 ## Related Claims
--
+- [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on

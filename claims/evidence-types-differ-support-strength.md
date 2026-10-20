@@ -44,3 +44,4 @@ The guide's stated purpose, an argumentative/descriptive statement: it explains 
 
 ## Related Claims
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
+- [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related

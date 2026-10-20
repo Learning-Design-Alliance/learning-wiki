@@ -49,3 +49,4 @@ Interview findings in the Results section. Participants described relying on clo
 - [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related
 - [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](surface-level-privacy-understanding-users.md) — related
 - [Weak privacy feedback loops reduce pressure on EdTech organizations to prioritize privacy](weak-privacy-feedback-loops-edtech.md) — related
+- [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related

@@ -45,3 +45,4 @@ Alternative analysis of Swedish TIMSS 2015 (n = 4090 students) using z-scored di
 ## Related Claims
 - [Class-level student reports of memorizing formulas and listening to lectures positively predict mathematics achievement, while relating math to daily life negatively predicts it, across Swedish TIMSS waves 2003–2015](swedish-timss-classmemo-positive-classdaily-negative.md) — related
 - [Across countries in TIMSS 2007, the strongest estimated effects on math achievement were a positive effect of ClassMemo followed by a negative effect of ClassDaily, with median effects matching the Swedish pattern](international-timss-2007-median-effects.md) — related
+- [The three instruction items intercorrelate strongly enough to form an internally consistent scale, yet achievement is positively associated with two items and negatively with the third, so their common variance does not represent instructional quality](intercorrelated-items-common-variance-not-quality.md) — related

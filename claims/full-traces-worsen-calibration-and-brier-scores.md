@@ -72,3 +72,4 @@ Brier score ANOVA was significant with η² = .042; Full-trace (M = 0.342) was r
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
 - [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related
+- [Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction](trace-exposure-raises-trust-and-hedonic-appeal.md) — related

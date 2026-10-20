@@ -47,3 +47,5 @@ Mediation analysis following Baron and Kenny on the same longitudinal SEM sample
 - [Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic](language-executive-mediate-arithmetic-via-number-skills.md)
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md)
 - [Initial motivation in kindergarten has no significant direct effect on mathematical performance two years later](no-direct-effect-of-kindergarten-motivation-on-math.md)
+- [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](ef-predicts-preschool-math-growth.md) — related
+- [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related

@@ -57,3 +57,6 @@ The brief asserts, citing effective-PD research, that micro-credentials carry th
 - [Effective professional development is content focused, active, collaborative, modeled, coached, feedback-rich, and sustained over time](effective-pd-seven-features.md) — a broader claim this one bears on
 - [Active learning was incorporated in 34 of 35 reviewed effective PD studies](pd-active-learning-prevalence.md) — related
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related
+- [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — a narrower finding that bears on this claim
+- [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
+- [States broadened measures for identifying struggling schools while more districts reported improvement activities, particularly teacher professional development](essa-struggling-school-identification-broadened.md) — related

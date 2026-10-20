@@ -48,3 +48,5 @@ Qualitative analysis of socio-emotional behaviors in danmaku found learners "eng
 - [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](mass-participation-depends-on-tools.md) — related
 - [Danmaku questions elicit rapid co-answering and co-confusion, while discussion-board questions often go unanswered or support multi-round elaboration](co-answering-co-confusion-versus-lonely-confusion.md) — related
 - [Interaction in danmaku and discussion boards spanned A3C levels from attendance through cooperation, with collaboration rare and limited to knowledge discussions](a3c-joint-interaction-levels-in-scaled-mooc-tools.md) — related
+- [Disclosing personal histories related to course topics tends to lead to longer and deeper discussion threads, especially when instructors encourage such identity presence](identity-presence-deeper-discussion-threads.md) — related
+- [Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge](danmaku-tacit-versus-board-explicit-knowledge-sharing.md) — related

@@ -52,3 +52,6 @@ Theoretical argument in the brief's introduction, citing Vygotsky. The brief ass
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md) — related
+- [Learner-centeredness is a universal theme across SLA theories and language teaching methods](learner-centeredness-universal-theme-sla.md) — related
+- [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](ai-an-students-question-answer-participation.md) — related
+- [The Good Language Learner metanarrative persists in sociocultural accounts by equating success with access to community conversations](gll-metanarrative-persists-sociocultural-theory.md) — related

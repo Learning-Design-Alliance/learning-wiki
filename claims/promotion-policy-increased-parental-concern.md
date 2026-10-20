@@ -47,3 +47,5 @@ Jacob, R. T., Stone, S., & Roderick, M. (2004). Ending Social Promotion: The Res
 - [Principals expressed somewhat greater concern about retention's negative effects than teachers](principals-more-concerned-about-retention.md) — related
 - [Approximately 40 percent of educators reported spending less time on social studies and science as a result of the promotion policy](policy-reduced-time-social-studies-science.md) — related
 - [Stakeholders reported parents became less involved in schools after the 1988 reform act, despite the act's involvement goal](parent-involvement-declined-after-reform-act.md) — reports the opposite
+- [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
+- [Two-thirds of teachers and 72 percent of principals believed the threat of retention motivated students to work harder](retention-threat-motivates-students-teacher-beliefs.md) — related

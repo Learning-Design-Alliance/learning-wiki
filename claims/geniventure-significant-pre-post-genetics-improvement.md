@@ -43,4 +43,6 @@ One-group pre/post comparison of 316 students' genetics knowledge after classroo
 
 
 ## Related Claims
--
+- [Students showed significant content-knowledge gains from pre-test to post-test after the Digital World level](engage-binary-tasks-pretest-posttest-gain.md) — related
+- [All ten multimedia treatment conditions produced significant pre-to-post achievement gains with medium or high effect sizes](all-treatments-produced-significant-gains.md) — a broader claim this one bears on
+- [First- and second-grade students' multiple-choice understanding of particle behavior improved significantly after seven STEP mixed-reality sessions.](step-mc-prepost-gains.md) — a broader claim this one bears on

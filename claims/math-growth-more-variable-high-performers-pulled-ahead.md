@@ -46,3 +46,4 @@ The study's modeling of achievement trends for 4.9 million U.S. students in Grad
 ## Related Claims
 - [Students in grades 3-8 made reading and math gains in 2020-21 but ended the year with lower achievement than in a typical year, with larger declines in math than in reading](covid-2020-21-lower-achievement-larger-math-declines.md) — related
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
+- [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related

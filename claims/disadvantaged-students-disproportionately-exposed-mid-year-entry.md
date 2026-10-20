@@ -50,3 +50,5 @@ The article states as motivation that "poor, minority, and low-achieving student
 - [Mid-year entry effects on stable students are not driven by mid-year entrants' characteristics](mid-year-entry-effects-not-driven-by-entrant-characteristics.md) — related
 - [Mid-year entry continues to negatively influence stable students' math performance beyond the year of exposure](mid-year-entry-negative-math-effects-persist-beyond-exposure-year.md) — related
 - Research on spillovers of mid-year entry to stable classmates is scarce relative to research on mobile students themselves — related
+- [Out-of-field teaching is more common in high-poverty schools and lower tracks, concentrating the least qualified teachers with disadvantaged students](out-of-field-teaching-poverty-concentration.md) — related
+- [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](map-growth-attrition-demographic-differences-2020.md) — related

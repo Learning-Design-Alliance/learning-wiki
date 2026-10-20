@@ -45,3 +45,6 @@ The review reports, citing King and Kitchener's Reflective Judgment Model resear
 ## Related Claims
 - [Working memory performance increases from baseline to the first post-induction trial across all age groups and conditions, consistent with practice effects](nback-practice-effect-all-groups.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
+- [Older age groups overestimate their mathematical and reading competence more than younger age groups, but this may reflect performance differences](age-increased-overestimation-competence-adults.md) — related
+- [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
+- [Across all adult age groups and both genders, global performance judgments of mathematics and reading competence are on average overestimated](adults-overestimate-competence-all-ages.md) — related

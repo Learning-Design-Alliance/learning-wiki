@@ -47,3 +47,4 @@ WWC synthesis across the two CDP studies for the knowledge, attitudes, and value
 - [CSC/CDP shows no discernible effects on academic achievement](csc-no-discernible-academic-effects.md) — related
 - [The Child Development Project/CSC shows potentially positive effects on student behavior, with an average improvement index of +8 percentile points](csc-potentially-positive-behavior-effects.md) — related
 - [Improvement indices favor Lessons in Character across all three outcome domains, largest for academic achievement](lessons-in-character-improvement-index-all-domains.md) — related
+- [WWC improvement indices for Too Good for Violence are +18 percentile points for behavior and +16 for knowledge, attitudes, and values](tgv-improvement-indices-18-16.md) — related

@@ -42,3 +42,5 @@ The review narrates the earlier Valdebenito et al. (2018) meta-analysis of 37 RC
 
 ## Related Claims
 - [School-based interventions produce a small but statistically significant reduction in school exclusion](school-based-interventions-small-significant-reduction-exclusion.md) — related
+- [Follow-up effects of targeted K-6 interventions remain positive up to 2 years after intervention ends, with evidence of fadeout](targeted-k6-interventions-followup-fadeout.md) — related
+- [Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties](targeted-k6-interventions-positive-short-term-effects.md) — related

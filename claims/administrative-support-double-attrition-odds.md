@@ -49,3 +49,5 @@ The report's analysis of Schools and Staffing Survey and Teacher Follow-Up Surve
 - New teachers who feel supported and valued are reported to have up to 48% lower chances of leaving their position — related
 - [School organizational conditions—especially teacher classroom autonomy and faculty decision-making influence—are strongly related to minority teacher turnover](organizational-conditions-drive-minority-teacher-turnover.md) — related
 - [Administrative support, student discipline, and faculty influence are associated with teacher turnover after controlling for teacher and school characteristics](organizational-conditions-predict-teacher-turnover.md) — possibly the same claim (merge candidate)
+- [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — related
+- [Teachers feel more in control and more competent when they have a formal plan for discipline and procedures](formal-discipline-plan-increases-teacher-control-and-competence.md) — related

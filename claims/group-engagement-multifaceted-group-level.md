@@ -44,3 +44,5 @@ The editorial reports on Sinha et al.'s study: statistical correlations based on
 
 ## Related Claims
 - [The editorial reports epistemic stance as an integrated unit of analysis for online discussion, with learning manifested in evolving shifts of stance objects (Park et al.)](stance-unit-of-analysis-learning-stance-objects.md) — related
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
+- [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](knowledge-creation-coding-scheme-distinguishes-groups.md) — related

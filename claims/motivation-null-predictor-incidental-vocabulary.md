@@ -50,3 +50,4 @@ In the multiple linear regression (N = 129), motivation measured by the MIVLS (s
 - [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in incidental vocabulary acquisition](learner-factors-model-18-percent-variance.md) — a broader claim this one bears on
 - [Higher L2 reading proficiency, motivation, and involvement load are associated with larger incidental vocabulary gains](proficiency-motivation-involvement-gains.md) — reports the opposite
 - [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
+- [Mastery of incidental vocabulary learning strategies positively predicts L2 incidental vocabulary acquisition through reading](strategy-mastery-predicts-incidental-vocabulary-acquisition.md) — related

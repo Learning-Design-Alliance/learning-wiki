@@ -48,3 +48,4 @@ Descriptive analysis of Texas workforce data in the report's policy-context sect
 - [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
 - [In Texas in 2023–24, 68% of newly hired teachers were underqualified or unqualified, teaching on intern certificates, emergency permits, or no certification](texas-68-percent-new-hires-underqualified-2023-24.md) — possibly the same claim (merge candidate)
 - [In 2021–22, only 28% of Texas first-time teacher hires held a standard certificate; 57% held a substandard intern certificate, emergency permit, or no certification at all](texas-first-time-hires-largely-underprepared.md) — related
+- [The share of uncertified teachers in the Texas teacher workforce more than tripled between 2019–20 and 2024–25, reaching 12%](texas-uncertified-teacher-share-tripled.md) — related

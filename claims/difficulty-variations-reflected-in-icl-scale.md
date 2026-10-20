@@ -44,3 +44,5 @@ Between-subject experiment (N = 62) in which quiz question difficulty was varied
 
 ## Related Claims
 - [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](high-complexity-lowers-icl-and-metacognitive-strategy-use.md) — related
+- [Task difficulty strongly determined task performance: boredom conditions scored highest and overload conditions lowest in both ICL studies](difficulty-determines-task-performance-boredom-highest.md) — related
+- [An unexpected effect: task difficulty variation in the Tetris study also produced differences in reported extraneous cognitive load](unexpected-ecl-effect-tetris-study.md) — related

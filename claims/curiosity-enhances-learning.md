@@ -69,3 +69,5 @@ The review reports the Gruber et al. (2014) fMRI study in which subjects answere
 - [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related
 - [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](studying-high-curiosity-items-improves-recall.md) — a narrower finding that bears on this claim
 - [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](sequential-patterns-curiosity-confusion-joy.md) — related
+- [Post-answer interest enhances trivia answer memory more strongly in adolescents than in children](post-answer-interest-memory-adolescents-more-than-children.md) — a narrower finding that bears on this claim
+- [States of high pre-answer curiosity enhance memory for trivia answers similarly in children and adolescents](curiosity-enhances-trivia-memory-children-adolescents.md) — related

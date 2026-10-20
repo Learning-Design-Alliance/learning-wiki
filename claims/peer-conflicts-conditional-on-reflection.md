@@ -63,3 +63,4 @@ Analysis of peer-conflict instances across the 7 dyads (Table 4), where the numb
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a broader claim this one bears on
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Students report that peer collaboration and group work support their learning, and many want teachers to offer more group work](students-report-peer-collaboration-supports-learning.md) — related
+- [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related

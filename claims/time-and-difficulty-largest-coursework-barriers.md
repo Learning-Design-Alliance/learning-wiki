@@ -48,3 +48,4 @@ Descriptive analysis of survey-reported reasons for non-persistence in the cours
 - Mentorship timing has divergent effects on LC101 persistence: post-application mentorship increases course completion odds while pre-application mentorship decreases persistence across both phases — related
 - Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Finding another job (29.1%) and low apprenticeship pay (13.9%) are the largest barriers to completing the LC101 apprenticeship phase](job-and-pay-largest-apprenticeship-barriers.md) — related
+- [Interest alignment was rated highest by course completers and lowest by apprenticeship completers, while economic motivations (higher pay, better benefits, increased stability) were rated highest by non-completers](interest-alignment-vs-economic-motivations-persistence.md) — related

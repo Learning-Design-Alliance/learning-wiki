@@ -68,3 +68,6 @@ Narrative review reporting the Carolan, Hutchins, Wickens, and Cumming (2014) me
 
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Professional community within a school environment is associated with a small but significant positive effect on student achievement (d=.25)](professional-community-small-significant-achievement-effect.md) — related
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related

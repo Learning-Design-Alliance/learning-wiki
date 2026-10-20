@@ -49,3 +49,4 @@ Bayesian independent samples t-tests run because the only prior VR study (Bacevi
 - [In an immersive VR learning environment, visual-only text yields higher recall than audio-visual text (reverse modality effect)](vr-reverse-modality-effect-recall.md) — a narrower finding that bears on this claim
 - [Visual-only text yields higher transfer than audio-visual text in immersive VR](vr-reverse-modality-effect-transfer.md) — related
 - [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — a narrower finding that bears on this claim
+- [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — reports the opposite

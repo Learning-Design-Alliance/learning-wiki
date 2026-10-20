@@ -44,3 +44,6 @@ Bivariate correlations in the same retrospective 47-child clinical dataset show 
 
 ## Related Claims
 - [Outcome measures are highly interrelated in children with cochlear implants](ci-outcome-measures-interrelated.md) — related
+- [Behavioral inhibition skills of prelingually deaf children are related to several audiological outcome measures after cochlear implantation](behavioral-inhibition-related-audiological-outcomes-ci-children.md) — a broader claim this one bears on
+- [Sustained visual attention (vCPT) performance shows no significant relations with speech or language outcomes in deaf children with cochlear implants](vcpt-sustained-visual-attention-no-relation-outcomes.md) — related
+- [Behavioral inhibition (dCPT) performance is strongly and significantly correlated with vocabulary and receptive language outcomes in prelingually deaf children with cochlear implants](dcpt-behavioral-inhibition-correlates-vocabulary-receptive-language-ci-children.md) — related

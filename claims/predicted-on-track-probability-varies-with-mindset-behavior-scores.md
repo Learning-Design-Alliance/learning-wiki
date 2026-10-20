@@ -51,3 +51,4 @@ Predicted probabilities from separate logistic regressions (figure 6, table C2),
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — a broader claim this one bears on
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — related
 - [71 percent of CCSD 8th graders were on track for graduation at the end of 9th grade in 2015/16](ccsd-71-percent-on-track-end-of-9th-grade.md) — related
+- [A growth-mindset-of-personality workshop reduced retaliatory aggression and increased prosocial behavior among urban high school students](personality-mindset-workshop-reduced-aggression.md) — related

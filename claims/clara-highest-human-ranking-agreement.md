@@ -54,3 +54,5 @@ Blinded human developmental ranking validation using 60 story pairs covering adj
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [In disagreement cases, blinded educators more frequently prefer CLARA developmental estimates over publisher recommendations](educators-prefer-clara-over-publisher-labels.md) — related
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
+- [CLARA's gains come from the interaction of structured representation, constrained annotation, and aggregation, not prompt engineering alone](clara-contribution-decomposition.md) — related
+- [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](llm-judge-correlates-human-experts-medgame.md) — related

@@ -47,3 +47,5 @@ Model 5 fixed effects for 3-year-olds, with CV letters as the referent category.
 - [Most variance in preschoolers' letter-writing skills is due to differences between students rather than between letters](student-level-dominates-letter-writing-variance.md) — related
 - [Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing](letter-features-null-for-letter-writing.md) — related
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
+- [Letter-name knowledge strongly predicts correct letter writing, especially for 4- and 5-year-olds](letter-name-knowledge-predicts-letter-writing.md) — related
+- [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](first-letter-of-name-advantage-letter-writing.md) — related

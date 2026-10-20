@@ -47,3 +47,5 @@ Description of the study design from the report's overview: a comparative outcom
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [More than four-fifths of 2015 LINCS certification track course completers in five consortium colleges were employed within three quarters after the course, with average quarterly earnings of nearly $7,400](lincs-completers-employment-earnings-2015.md) — related
 - [LINCS surpassed its targets for program completion, exceeding its proposal goal of preparing students for supply chain management positions](lincs-surpassed-completion-targets.md) — related
+- [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related
+- [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — a broader claim this one bears on

@@ -60,3 +60,4 @@ In an analysis of correlations, the authors found that "prior knowledge was not 
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related
+- [PS-I effectiveness did not depend on the breadth of prior knowledge activated, but on activation of relevant prior knowledge](relevant-not-breadth-prior-knowledge-activation.md) — related

@@ -49,3 +49,5 @@ Authors' interpretive conclusion: the article states Washington's "insistence on
 - Washington's correlating of industrial with academic instruction reflects an adaptation of Pestalozzi and Fröebel, situating him in progressive education — related
 - Generals's case that Washington's Tuskegee practices were as reform-oriented as those identified with the progressive education movement — reports the opposite
 - Washington's educational philosophy fits within the American pragmatist tradition, sharing a table with Dewey — related
+- [Cognitive offloading to AI during early learning can stifle development of stable knowledge and skills](ai-offloading-stifles-early-development.md) — related
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related

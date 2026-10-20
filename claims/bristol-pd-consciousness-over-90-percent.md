@@ -46,3 +46,5 @@ Self-report survey outcome from the Bristol Township School District student-led
 - [Most teachers participate in informal professional development activities, which generate more satisfaction than formal in-service days](informal-pd-more-satisfying-than-in-service.md) — related
 - [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related
 - Teachers of color report workplace racism with mental-health toll, and the 'invisible tax' of extra duties — related
+- [Educator-led peer professional development reinforced educators' own understanding and connected LVN to existing practice](peer-pd-reinforces-variability-understanding.md) — related
+- [Elementary principals most frequently want professional development on whole child education, with rural principals especially likely to want physical and mental health content](principals-want-whole-child-pd.md) — related

@@ -43,4 +43,6 @@ Descriptive statistics and t-tests comparing the two effort-based groups (Table 
 
 
 ## Related Claims
--
+- [High-proficiency EFL learners use more metacognitive strategies, effort regulation, and coping with problems than low-proficiency learners](high-proficiency-learners-use-more-strategies.md) — related
+- [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
+- [Six relationships in the model differ for less effective self-regulators, including performance-avoidance goals being unrelated to metacognition](model-differences-less-effective-self-regulators.md) — related

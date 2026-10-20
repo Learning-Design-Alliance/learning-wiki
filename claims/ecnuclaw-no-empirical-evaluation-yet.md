@@ -47,3 +47,6 @@ Authors' stated limitations in the paper's discussion section (§9.3). The paper
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - The FTS proposes that fading distinguishes expert from non-expert peers via a game-progress threshold, and peer-tutoring collaboration is expected to improve non-expert game progress and knowledge gained — related
 - [The interaction taxonomy's effectiveness within Memdora has not been empirically evaluated](memdora-taxonomy-not-empirically-evaluated.md) — possibly the same claim (merge candidate)
+- [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related
+- [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
+- [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related

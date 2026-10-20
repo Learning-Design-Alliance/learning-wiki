@@ -44,3 +44,4 @@ Quasi-experimental evaluation of 105 low-performing students in five rural Tenne
 - [DiLeo (2007) finds a substantively important but statistically non-significant positive effect of Odyssey® Math on grade 5 PSSA math scores](dileo-2007-substantively-important-non-significant-effect.md) — related
 - [Wijekumar et al. (2009) finds no statistically significant difference between Odyssey® Math and comparison classrooms on grade 4 TerraNova math scores](wijekumar-2009-null-effect-odyssey-math-terranova.md) — related
 - [Odyssey® Math receives a WWC rating of potentially positive effects on primary students' mathematics achievement](odyssey-math-potentially-positive-effects-math-achievement.md) — a broader claim this one bears on
+- [The evidence base for Odyssey® Math's mathematics achievement effects is rated medium to large, based on three studies of 2,768 students in 41 schools](odyssey-math-medium-to-large-extent-of-evidence.md) — related

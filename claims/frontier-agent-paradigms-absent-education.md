@@ -47,3 +47,4 @@ The review's technology-mapping synthesis across the 474 studies reports that "G
 - Research on generative AI-powered agentic AI in education expanded rapidly from 2025 onward, with 58.6% of the 474 reviewed studies published in 2025 — related
 - [Frontier-model choice affects LecturaAgents performance, with Gemini 3 Pro ranking first at 80.4% AAR](lecturaagents-frontier-model-evaluation-aar.md) — related
 - [Prompt injection attacks on agents (OpenClaw walletdrain, EchoLeak) bypass the user entirely, and no public AI literacy curriculum addresses this vector](prompt-injection-attacks-bypass-user-literacy.md) — related
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related

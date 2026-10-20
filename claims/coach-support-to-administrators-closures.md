@@ -48,3 +48,6 @@ Survey of 148 edtech coaches (Figure 5) on support to district/school leaders: s
 - [Edtech coaches frequently helped teachers use video conferencing tools, LMS platforms, and asynchronous instruction during closures](coach-support-to-teachers-closures.md) — related
 - [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related
 - [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](deep-coaching-online-next-year-plans.md) — related
+- [Most edtech coaches stopped or reduced deep coaching during 2020 school closures to support more teachers](deep-coaching-reduced-during-closures.md) — related
+- [Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support](pr-colleagues-main-support-coaches-rare.md) — related
+- [Edtech coaches supported families with IT tasks, platform training, and home learning environment guidance during closures](coach-support-to-families-closures.md) — related

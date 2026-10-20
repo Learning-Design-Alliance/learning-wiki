@@ -76,3 +76,5 @@ Narrative synthesis of immersive-technology studies in Results §4.2.6, includin
 - [Non-immersive devices, especially smartphone/tablet-based AR, dominated VR/AR-supported K-12 STEM studies; immersive AR was rarely used](smartphone-tablet-ar-dominates-k12-stem-devices.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Higher levels of technology support during simulation are associated with greater effects on learning outcomes](technology-support-associated-with-greater-effects.md) — related
+- [Simulation games were the most-used game type for educational assessment (N = 7, 33%), followed by immersive (N = 6, 29%) and video games (N = 5, 24%)](gba-game-types-simulation-most-used.md) — related
+- [Formal learning context is a significant positive predictor of whether a robotics study reports quantifiable learning gains](formal-context-predicts-learning-gains-robotics.md) — related

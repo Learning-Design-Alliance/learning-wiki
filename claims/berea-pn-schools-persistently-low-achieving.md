@@ -46,3 +46,4 @@ Descriptive statement from the site profile about the schools within the initiat
 - [The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages](berea-pn-economically-distressed-counties.md) — related
 - [The Berea College Promise Neighborhood serves an area where 81 percent of students qualified for free or reduced-price school meals in 2010](berea-pn-high-poverty-student-population.md) — related
 - [The initiative aims to reach all 6,300 students residing in the three served counties](berea-pn-aims-to-reach-all-6300-students.md) — related
+- [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — a broader claim this one bears on

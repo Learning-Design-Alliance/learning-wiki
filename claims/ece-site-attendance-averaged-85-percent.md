@@ -44,3 +44,4 @@ Descriptive analysis of 2015-16 attendance records from CPS and DFSS for 9,094 e
 
 ## Related Claims
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
+- [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — a broader claim this one bears on

@@ -50,3 +50,5 @@ In the regression analyses of 730 university students, worry estimates were non-
 - [Arousal showed a positive relationship with final high school mathematics grade when controlling for the other test anxiety facets](arousal-positive-mathematics-grade.md) — related
 - [Interference and lack of confidence, but not worry or arousal, explain unique variance in university students' standardized test performance](interference-lack-confidence-unique-variance-test-performance.md) — related
 - [The present results replicate Donati et al.'s (2019) finding that interference and lack of confidence, but not worry, relate to arithmetic test performance, extending it to unique variance and domain-general intelligence](replication-donati-interference-lack-confidence.md) — a broader claim this one bears on
+- [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — related
+- [Interference and lack of confidence correlated negatively with all performance measures, whereas worry and arousal showed selective, weaker bivariate correlations](interference-lack-confidence-bivariate-correlations.md) — related

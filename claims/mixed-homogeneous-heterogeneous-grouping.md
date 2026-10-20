@@ -54,3 +54,5 @@ The author's position paper argues against all-day heterogeneous grouping, conte
 - [Story Mapping Improves Comprehension](story-mapping-improves-comprehension.md) — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
 - [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related
+- [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
+- [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — related

@@ -47,3 +47,5 @@ Narrative review synthesis of two longitudinal studies supporting cumulative mod
 - [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
 - [Early life stress disrupts dopaminergic reward circuitry in animals and humans, with altered reward learning and links to depressive and anxiety symptoms](els-dopaminergic-reward-disruption.md) — related
 - [Sexual abuse and physical neglect exposure are negatively associated with academic achievement (WRAT-3) scores in healthy adults](sexual-abuse-physical-neglect-wrat3-achievement.md) — related
+- [How People Learn II updates and extends the 2000 How People Learn report by synthesizing research on learning from birth through adulthood in formal and informal settings](hpl-ii-updates-extends-hpl-2000-lifespan.md) — related
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related

@@ -64,3 +64,5 @@ In the same analysis, "two teachers steered discussions away from collaboration 
 ## Related Claims
 - [CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals](cobi-technical-feasibility-classrooms.md) — related
 - [Clear role assignment, training resources, and advisory support facilitated CA-supported continuous improvement and reduced faculty workload perceptions](clear-roles-and-training-support-ca-implementation.md) — related
+- [Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements](cobi-broad-buy-in-students-teachers.md) — related
+- [Students raise privacy concerns about classroom speech data while teachers initially interpret CoBi as a performance-monitoring device](cobi-privacy-and-performance-monitoring-concerns.md) — related

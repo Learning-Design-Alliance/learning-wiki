@@ -51,3 +51,4 @@ SPSS moderation regression with standardized ASE, AS, and PU from the survey sam
 - [ANN analysis identifies AI learning self-efficacy and perceived usefulness as the strongest and most stable predictors of AI learning anxiety, with only modest advantage over linear benchmarks](ann-appraisals-strongest-anxiety-predictors.md) — related
 - [Perceived school support, AI learning self-efficacy, and AI perceived usefulness each show negative paths to AI learning anxiety](support-and-appraisals-negatively-predict-ai-learning-anxiety.md) — related
 - [Educational cross-sectional studies link stronger AI reliance or dependence scores with lower academic self-efficacy, higher academic stress, and stronger performance expectations](academic-reliance-linked-stress-low-self-efficacy.md) — related
+- [Learners' perceived self-efficacy during learning moderated the effect of prompts on learning outcomes](self-efficacy-moderates-prompt-effect-outcomes.md) — related

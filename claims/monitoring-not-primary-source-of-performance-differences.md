@@ -43,4 +43,11 @@ The authors' overall interpretation across both studies: monitoring resolution w
 
 
 ## Related Claims
--
+- [Adult learners generally find pronunciation more difficult than children and are unlikely to achieve native-like pronunciation, though experience and self-monitoring offset this somewhat](adults-find-pronunciation-harder-than-children.md) — related
+- [Language competencies correlate with text comprehension performance in both groups, but with monitoring resolution only in non-native speakers](language-competency-correlations-task-and-group-specific.md) — related
+- [Native and non-native speaking fourth graders do not differ in recognition or metacognitive monitoring resolution in a paired-associates task (Study 1)](study1-no-group-differences-paired-associates-monitoring.md) — a narrower finding that bears on this claim
+- [Study 2 replicates the absence of group differences in recognition and monitoring resolution in the paired-associates task](study2-replication-paired-associates-null.md) — a narrower finding that bears on this claim
+- [Native and non-native speaking fourth graders do not differ in monitoring resolution of their open-ended text comprehension answers (Study 2)](no-group-differences-text-comprehension-monitoring.md) — a narrower finding that bears on this claim
+- [Native speaking fourth graders answered more open-ended text comprehension questions correctly than non-native speakers (Study 2)](native-speakers-outperform-text-comprehension.md) — related
+- [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
+- [A 2010 narrative review reports that even very advanced L2 learners read more slowly than native speakers and miss subtle anaphoric interpretation distinctions](l2-skill-never-fully-native-like.md) — related

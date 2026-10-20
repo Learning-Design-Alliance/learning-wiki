@@ -52,3 +52,4 @@ WWC-conducted synthesis across the two studies meeting standards, computing impr
 - [The WWC-computed average effect size for Reading Mastery on ELL reading achievement is 0.76, corresponding to an improvement index of +28 percentile points](reading-mastery-domain-average-effect-size-076.md) — related
 - [The average improvement index for PALS on reading achievement for English language learners is +12 percentile points, ranging from +5 to +25 across findings](pals-potentially-positive-reading-effects-ells.md) — related
 - [The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings](arthur-improvement-index-plus-11.md) — reports the opposite
+- [Peer Tutoring and Response Groups has positive effects on English language development for English language learners, with an average improvement index of +17 percentile points](peer-tutoring-response-groups-positive-eld-effects.md) — related

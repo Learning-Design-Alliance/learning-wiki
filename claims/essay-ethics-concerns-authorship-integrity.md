@@ -48,3 +48,6 @@ Descriptive coding of the 49-essay corpus: "When students raised ethics, it conc
 - [Faculty members and students identify both user-related and algorithm-related ethical risks in AI use in education](user-and-algorithm-related-ethical-risks-ai-education.md) — related
 - [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related
 - [80% of IB student essays explicitly link reliance on AI to reduced thinking](essays-link-ai-reliance-to-reduced-thinking.md) — related
+- [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related
+- [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
+- [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related

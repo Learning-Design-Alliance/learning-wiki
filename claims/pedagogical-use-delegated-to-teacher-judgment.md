@@ -46,3 +46,5 @@ Authors' interpretive discussion (type e), not a tested result: they argue from 
 - A structured review of digital mathematics education technologies found no studies in which learning theories are implemented as functional components of technological systems (L4) — related
 - [Only 4 of 23 reviewed conversational agent studies explicitly apply learning theories, indicating a gap between CA development and pedagogical grounding](only-four-ca-studies-apply-learning-theories.md) — related
 - [Teachers retain ultimate control over AI systems because professional responsibility cannot be delegated](teachers-retain-ultimate-control-responsibility-not-delegable.md) — related
+- [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
+- [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — a broader claim this one bears on

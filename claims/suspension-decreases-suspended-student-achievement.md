@@ -49,3 +49,4 @@ Student panel data analysis from the School District of Philadelphia using stude
 - [Negative achievement effects of suspension are robust to instrumental variable estimates leveraging a district-wide suspension policy change](suspension-effects-robust-to-iv-policy-change.md) — related
 - [Suspensions are more salient for students who personally experience suspension than for their peers](suspensions-more-salient-for-suspended-students-than-peers.md) — related
 - [Suspension is associated with lower test scores in the suspended years, with more suspended days related to larger decreases](suspension-lower-test-scores-days-related.md) — possibly the same claim (merge candidate)
+- [Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration](restorative-practice-exposure-improves-achievement-reduces-suspension.md) — related

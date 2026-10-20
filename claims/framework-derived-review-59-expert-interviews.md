@@ -41,4 +41,5 @@ The report describes its own development method: a review of research and recomm
 
 
 ## Related Claims
--
+- [Expert review and stakeholder consultation established strong consensus on the need for and acceptability of the Framework](stakeholder-consensus-online-safety-framework.md) — related
+- [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related

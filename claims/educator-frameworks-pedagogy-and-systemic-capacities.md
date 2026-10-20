@@ -45,3 +45,6 @@ Frequency analysis across 42 educator-focused frameworks (Fig. 3). The review co
 ## Related Claims
 - [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — related
 - [In the AI-focused subset, professional development and teacher accompaniment (35.0%) and instructional design and assessment (32.5%) are the predominant approaches, with pedagogical limitations the main barrier](ai-subset-approaches-and-barriers-teacher-education.md) — related
+- [Computing educators' interest in AI-era assessment adaptation was spread roughly evenly across seven strategies, dividing between redesigning what is assigned and redesigning how work is verified](flat-interest-across-seven-ai-assessment-strategies.md) — related
+- [Inductive content analysis of 69 validated digital literacy frameworks yields eleven shared element categories spanning student and educator roles](eleven-digital-literacy-element-categories-review.md) — a broader claim this one bears on
+- [Digital competence development is the most frequently reported advantage (76.1%) of digitally supported teacher education strategies](digital-competence-development-most-frequent-advantage.md) — related

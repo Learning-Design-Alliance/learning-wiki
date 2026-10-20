@@ -50,3 +50,4 @@ Descriptive statistics on technology selections across projects (Figure 5, N=666
 - [Most surveyed faculty report some AI use, primarily chatbots, with research use exceeding teaching use](descriptive-ai-use-patterns-cottrell-faculty.md) — related
 - [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — related
 - Large language models with chatbots and ChatGPT are the most commonly reported AI technology in online higher education research — related
+- [Teachers evaluated the LLM-robot system positively, citing ease of use for differentiated, multilingual lessons and no extra preparation time](teachers-positive-llm-robot-system-feedback.md) — related

@@ -45,3 +45,9 @@ Theoretical proposal in the Motivational processes section, displayed in Fig. 3 
 ## Related Claims
 
 - [Four forms of learning and knowledge building with wikis: internal and external assimilation and accommodation](four-processes-assimilation-accommodation-wikis.md)
+- [Topic valence is proposed to relate linearly to perceived cognitive conflict and interest in contributing](valence-linearly-relates-cognitive-conflict.md) — related
+- [Externalizing knowledge into a wiki can itself produce individual learning through deeper processing](externalization-produces-individual-learning.md) — related
+- [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — related
+- [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related

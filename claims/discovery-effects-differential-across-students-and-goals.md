@@ -48,3 +48,4 @@ The commentary's assessment of Levy et al.'s (2018) design-based research with c
 - [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related

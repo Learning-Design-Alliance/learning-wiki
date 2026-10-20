@@ -46,3 +46,4 @@ Study Two (N = 83) correlating MAKQ dimensions with computerised behavioural att
 - [MAKQ dimensions show convergent validity with parent-rated attention and executive functioning (moderate-to-strong negative correlations)](makq-convergent-validity-parent-measures.md) — related
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related
+- [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related

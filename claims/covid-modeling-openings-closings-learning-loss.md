@@ -46,3 +46,5 @@ The presentation's printed title, as listed on the NWEA Research page for the 20
 - [Experts at the NISS Ingram Olkin Forum shared statistical and data-analytic challenges in researching COVID-19's impact on U.S. schools](covid-schools-statistical-challenges-forum.md) — possibly the same claim (merge candidate)
 - [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
+- [Educators and evaluators faced open questions about how to measure student performance after COVID disruptions](measuring-student-performance-after-covid-open-question.md) — related
+- [Education leaders had little data on the impacts of school closures on learning at the time of the COVID-19 spring 2020 closures](little-data-closure-impacts-2020.md) — related

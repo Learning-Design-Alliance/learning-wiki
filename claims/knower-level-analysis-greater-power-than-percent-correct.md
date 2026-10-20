@@ -47,3 +47,4 @@ Computer simulation (Experiment 3) using the Lee & Sarnecka generative model to 
 - [Knower levels were longitudinally stable across sessions, replicating Wynn, while the CP-Non-Mapper/CP-Mapper distinction fluctuated across sessions](knower-levels-stable-mapper-distinction-unstable.md) — related
 - [Fully Bayesian inference on the calibration data set assigned 423 sessions across six knower levels and estimated an evidence value v of 16.94](calibration-knower-levels-and-evidence-value.md) — related
 - [Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates](observational-studies-increasingly-produce-practice-recommendations.md) — related
+- [The primary study (Lehmann et al., 2016) had only about 45% power to detect its observed interaction effect; roughly 150 participants would be needed for 80% power](primary-study-underpowered-interaction-45-percent.md) — related

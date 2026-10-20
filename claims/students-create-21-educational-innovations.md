@@ -45,3 +45,5 @@ Outcome evaluation in the one-shot case study: the article reports the 60 studen
 ## Related Claims
 - [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related
 - [Learning and innovation skills outcomes: 15 innovations from the game design program and six from the mathematics CAI program, with all students working creatively with others](innovation-skills-by-program-outcomes.md) — related
+- [Experts rate the model's individual elements as appropriate at the highest level overall (Mean = 4.65, S.D. = 0.27), with learning achievement output rated High](cilm-individual-elements-assessment.md) — related
+- [Public capstone ePortfolio showcases gave students an authentic audience and renewed energy and focus for integrative work](public-capstone-epportfolio-showcase-audience-effect.md) — related

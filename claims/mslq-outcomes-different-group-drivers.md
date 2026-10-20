@@ -45,3 +45,4 @@ Subgroup analysis of the MSLQ regression results by differentiation group. The a
 ## Related Claims
 
 - [The grade effect of learning-strategy differentiation is driven by instruction-dependent and instruction-independent students, not the average group](grade-effect-driven-by-dependent-independent-groups.md)
+- [Students in differentiated classes grow significantly more on elaboration, critical thinking, metacognitive self-regulation and effort regulation](growth-on-learning-strategy-scales.md) — related

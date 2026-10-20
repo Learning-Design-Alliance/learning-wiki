@@ -45,3 +45,4 @@ This is a procedural prescription from the workbook's field-testing section, pre
 
 ## Related Claims
 - Simulation allows the expense and effect of a policy change to be evaluated before implementation — related
+- [Active participation and commitment of teaching staff were essential for successful CA-supported LO assessment, fostered by clear actionable data and institutional support](faculty-engagement-essential-for-ca-assessment-success.md) — related

@@ -49,3 +49,4 @@ Quasi-experiment with six intact ninth-grade classes (pictorial n = 67, verbal n
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — a broader claim this one bears on
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a broader claim this one bears on
+- [Multimedia glosses improve EFL students' vocabulary retention two weeks after treatment relative to no glosses](multimedia-glosses-improve-efl-vocabulary-retention.md) — related

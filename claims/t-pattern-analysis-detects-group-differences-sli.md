@@ -45,3 +45,6 @@ Observational study comparing children with specific language disorder and typic
 ## Related Claims
 - [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
 - [T-pattern analysis reveals qualitative differences in six-year-olds' self-directed speech between typically developing children and peers with SLI that lag sequential and other methods do not detect](t-pattern-detects-sli-self-directed-speech-differences.md) — possibly the same claim (merge candidate)
+- [Lag-sequential Analysis reveals temporal ordering patterns in CSCL interaction that traditional coding-and-counting approaches hide](lag-sequential-analysis-reveals-interaction-ordering.md) — related
+- [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related
+- [Temporal process analysis reveals group- and task-related differences that the frequency accounts did not show, in the interchange of CPS elements over time](process-analysis-temporal-differences-groups-tasks.md) — a narrower finding that bears on this claim

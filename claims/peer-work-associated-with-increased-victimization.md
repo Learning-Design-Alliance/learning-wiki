@@ -51,3 +51,5 @@ Element moderator analysis across the coded programs found that "Work with peers
 - [NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects](notrap-most-effective-victimization-visc-negative.md) — related
 - [Parent meetings, firm disciplinary methods, and improved playground supervision are program elements associated with decreases in bullying and victimization](parent-meetings-discipline-playground-supervision-reduce-bullying.md) — related
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — reports the opposite
+- [RJ-based responses to bullying may help, but require trained adult facilitators and may leave victims uncomfortable facing bullies](rj-bullying-response-requires-trained-facilitators.md) — related
+- [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related

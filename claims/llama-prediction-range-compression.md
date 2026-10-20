@@ -52,3 +52,4 @@ Prediction frequency distribution analysis (Table 6) on the 360-essay held-out t
 - [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — related
 - [Fine-tuned PLMs exhibit label compression toward mid-scale QoF scores, never predicting extreme labels 1 and 7](plm-label-compression-qof-extremes.md) — related
 - [Fine-tuned GPT-4o achieves state-of-the-art scoring of TOEFL argumentative essays with QWK 0.84 and RMSE 0.44 against official scores](wraft-finetuned-gpt4o-scoring-qwk-084.md) — related
+- [Fine-tuned PLMs outperform prompted LLMs in rubric-based teaching quality scoring accuracy, while LLMs better preserve score variability](plms-outperform-llms-qof-scoring-accuracy.md) — related

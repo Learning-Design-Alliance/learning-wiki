@@ -43,3 +43,5 @@ Age-comparison analysis in the cross-sectional study of students with E/BD, whic
 ## Related Claims
 - [No gender differences appeared in the academic achievement deficits of students with E/BD](ebd-achievement-no-gender-differences.md) — related
 - [Students with E/BD in K-12 public school settings show large academic achievement deficits across all content areas](ebd-students-large-achievement-deficits-all-content-areas.md) — related
+- [Internalizing behaviors are not related to academic achievement in students with E/BD](internalizing-behaviors-not-related-to-achievement.md) — related
+- [Externalizing behaviors are related to reading, mathematics, and written language achievement in students with E/BD](externalizing-behaviors-related-to-achievement.md) — related

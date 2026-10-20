@@ -66,3 +66,9 @@ Q-test moderator analyses in the same meta-analysis examined whether between-stu
 
 - [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect](guidance-improves-inquiry-performance-success.md) — related
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](guided-discovery-outperformed-both-extremes.md) — related
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
+- [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related
+- [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — a broader claim this one bears on

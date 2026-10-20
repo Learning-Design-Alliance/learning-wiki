@@ -47,3 +47,6 @@ Meta-analytic comparison of pooled EF effect sizes for C-RD (0.35), C-MD (0.40),
 - [The math deficit profile of children with comorbid RDMD is additive: it equals the sum of the deficits of isolated RD and MD groups](rdmd-math-deficits-additive.md) — related
 - [The reading deficit profile of children with comorbid RDMD is additive relative to isolated RD and MD](rdmd-reading-deficits-additive.md) — related
 - [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related
+- [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related
+- [Group differences in math skills between LD and comorbid groups are more pronounced in symbolic than non-symbolic math tasks](math-group-differences-symbolic-tasks.md) — related
+- [Children with MD only receive extra math assistance far less often than children with comorbid RD+MD](md-only-less-extra-math-assistance.md) — related

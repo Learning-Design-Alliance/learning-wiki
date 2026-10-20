@@ -44,3 +44,5 @@ Classification experiment on a sample of 10 TalkMoves sessions (3,217 teacher ut
 
 ## Related Claims
 - [EduBehaviors underperforms the fine-tuned RoBERTa encoder trained on expert-labeled TalkMoves data](edubehaviors-underperforms-finetuned-encoder.md) — related
+- [ModernBert classifiers are more consistent than out-of-the-box LLMs at facilitation timing prediction, outperforming them in three of five datasets](modernbert-beats-llms-facilitation-timing.md) — a broader claim this one bears on
+- [All three assertion sources (word, corpus-derived, construct-derived) contribute to predictive accuracy](all-assertion-sources-contribute-predictive-accuracy.md) — related

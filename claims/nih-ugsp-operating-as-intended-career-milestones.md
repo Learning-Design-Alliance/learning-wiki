@@ -71,3 +71,5 @@ A process analysis of the scholarship program's operation, reported by Mathemati
 - [NIH spends millions of dollars annually on scholarships for disadvantaged undergraduate science students](nih-spends-millions-annually-ugsp-scholarships.md) — related
 - [Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out](alumni-response-peaks-two-milestones.md) — related
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — a broader claim this one bears on
+- [Eligibility for NIH loan repayment is associated with higher recruitment success of biomedical researchers](loan-repayment-eligibility-higher-recruitment-success.md) — related

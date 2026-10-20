@@ -96,3 +96,8 @@ rather than by adding citations.
 - [Chunking reduces working memory load.](chunking-reduces-working-memory-load.md) — chunked material lowers the generation burden, preserving the effect for weaker learners.
 - [Expertise reversal effect.](../theories/expertise-reversal-effect.md) — the generation benefit shrinks or reverses as learner expertise and task demands interact.
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — related
+- [A review chapter (Karpicke 2017) reports, second-hand, experiments in which retrieval practice produced more learning than concept mapping (Karpicke & Blunt 2011) and than imagery strategies such as the keyword mnemonic (Karpicke & Smith 2012)](retrieval-practice-produces-more-learning-than-concept-mapping-and-imagery-elaboration.md) — related
+- [Attention plays a major role in L2 learning because a task-relevant knowledge base is built in memory through attention](attention-builds-task-relevant-knowledge-base.md) — related
+- [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
+- [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabulary recall, in contrast to prior short-term findings](generation-no-detriment-l2-recall.md) — a narrower finding that bears on this claim

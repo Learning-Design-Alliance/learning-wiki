@@ -48,3 +48,4 @@ ANOVA analyses of the production task with trial-by-trial strategy reports in 60
 ## Related Claims
 - [Retrieval use increases with grade, and the small-versus-large difference in retrieval use decreases significantly between fourth and sixth grade only](retrieval-use-grade-problem-size-interaction.md) — related
 - [As predicted by the adaptive strategy choice model, children's retrieval frequency correlates with retrieval efficiency but not with procedural efficiency](retrieval-frequency-correlates-retrieval-efficiency.md) — related
+- [Retrieval is faster and procedural execution more efficient on addition than on multiplication problems, and these operation effects persist across the primary school years](addition-more-efficient-than-multiplication-children.md) — related

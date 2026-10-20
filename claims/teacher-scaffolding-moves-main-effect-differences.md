@@ -65,3 +65,5 @@ Factorial ANOVA on the static support code (F(1,46) = 4.58, p = .038): Mr. Green
 
 - [On the physics conceptual test, both teachers' students improved significantly, with a significant teacher-by-time interaction in which Mrs. Lewis's students overcame a lower pre-test disadvantage by post-test](physics-test-teacher-time-interaction-lewis-overcame-pretest-gap.md)
 - [Both classes improved significantly on the science practices test, with no significant teacher main effect or teacher-by-time interaction](science-practices-test-improvement-no-teacher-interaction.md)
+- [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](within-teacher-performance-trajectories-as-scaffolds-faded.md) — related
+- [Report Out performance showed a significant instructor-by-scaffolding-level interaction, with Mrs. Lewis's students significantly outperforming Mr. Green's at Medium and Low material support but not at High](report-out-instructor-scaffolding-interaction.md) — related

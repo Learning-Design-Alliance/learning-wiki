@@ -46,3 +46,4 @@ The relative weights analysis tested the unique and relative predictive contribu
 - [Agentic engagement is the strongest predictor of teacher support but not of peer support](agentic-engagement-strongest-predictor-teacher-support.md) — a narrower finding that bears on this claim
 - [Emotional engagement is the strongest predictor of motivation, especially need-based motivations](emotional-engagement-strongest-predictor-motivation.md) — related
 - [Emotional engagement is the strongest predictor of student well-being](emotional-engagement-strongest-predictor-well-being.md) — possibly the same claim (merge candidate)
+- [Cognitive engagement did not emerge as the strongest predictor of any correlate, leaving its specialized function ambiguous](cognitive-engagement-no-specialized-relation.md) — related

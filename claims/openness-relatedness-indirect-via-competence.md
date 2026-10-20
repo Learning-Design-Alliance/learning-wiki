@@ -65,3 +65,4 @@ Discussion of the SEM results. The authors report the negative relatedness-to-co
 - [AI-related fear shows a differentiated pattern: positive direct association with AI use but negative association with pedagogical AI competence and negative indirect effect](ai-fear-differentiated-direct-indirect-pattern.md) — related
 - [Effort expectancy is associated with AI use only indirectly through competence, whereas hedonic motivation shows a direct positive association](effort-expectancy-mediated-hedonic-motivation-direct.md) — related
 - [Habit shows the strongest direct and competence-mediated associations with teachers' AI use](habit-strongest-association-teacher-ai-use.md) — related
+- [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related

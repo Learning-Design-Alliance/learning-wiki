@@ -64,3 +64,5 @@ Experiment 4 resolution analysis for the 20 participants with recall data: JOL�
 ## Related Claims
 - [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](no-age-difference-jol-information-sources.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
+- [Backward-associated word pairs produce a foresight bias: judgments of learning are inflated relative to actual recall when the dominant association runs from target to cue](foresight-bias-backward-pairs-inflated-jols.md) — related
+- [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — related

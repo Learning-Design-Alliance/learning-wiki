@@ -43,4 +43,7 @@ Narrative synthesis in the review's Results; it reports improvements "moderated 
 
 
 ## Related Claims
--
+- [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](cbpa-null-results-two-studies.md) — related
+- [Classroom energizers improved on-task behaviour, but PA during a classroom task showed no improvement](energizers-on-task-behaviour-effect.md) — related
+- [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](three-year-cbpa-mvpa-time-on-task.md) — related

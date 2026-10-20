@@ -47,3 +47,4 @@ Difference-in-difference analysis of first-year community college students under
 - [SAILS completers had completed only 1.5 additional college courses after two years](sails-only-1-5-additional-courses-two-years.md) — related
 - [The high school SAILS remedial math course did not improve math achievement more than a typical senior year math course](sails-no-math-achievement-gain-rd.md) — related
 - [Developmental education is a major loss point: 60 percent of community college students are referred to developmental education but only 30 percent ever take subsequent college-level courses](developmental-education-loss-point-60-30.md) — related
+- [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related

@@ -44,3 +44,4 @@ Conceptual argument in the synergetic reframing section, where science is charac
 
 ## Related Claims
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
+- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related

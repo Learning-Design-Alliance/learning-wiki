@@ -50,3 +50,6 @@ The brief reports this ECLS-K finding, citing Zill & West (2001), as background 
 - [Students from poor families lag behind more affluent peers in early elementary math performance](poor-families-lag-affluent-peers-early-math.md) — related
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — a broader claim this one bears on
 - [Participants entered the study with very poor skills, at least 1 SD below the mean on every measure and 2 SD below on receptive vocabulary, phonological awareness, and fluency](struggling-adult-reader-skill-profile.md) — a narrower finding that bears on this claim
+- [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — a broader claim this one bears on
+- [Children from economically disadvantaged families are at greater risk for poor kindergarten transitions than their peers](economically-disadvantaged-greater-kindergarten-transition-risk.md) — related

@@ -46,3 +46,4 @@ Reliability analysis on the same 1,000-message Study 2 protocol (Table 4). The a
 
 - [Automatically coded dialogue acts correlate with manually coded collaborative activities as expected](dac-correlates-with-manual-collaborative-activities.md)
 - [Automatically coded dialogue acts distinguish male and female students' online communication](dac-detects-gender-differences-dialogue-acts.md)
+- [Automatic DAC coding of dialogue acts agrees substantially with manual coding (79.0% agreement, kappa 0.75)](dac-automatic-coding-agrees-with-manual-coding.md) — related

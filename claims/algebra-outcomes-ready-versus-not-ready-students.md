@@ -45,3 +45,5 @@ The brief's description states it examined "how outcomes were affected for stude
 ## Related Claims
 - [An NWEA study using nationwide MAP Growth scores examines how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — a broader claim this one bears on
 - [School offerings and placement practices limit opportunity for 8th-grade algebra access](school-offerings-and-placement-practices-limit-algebra-opportunity.md) — related
+- [Access to 8th-grade Algebra remains highly inequitable across the United States](8th-grade-algebra-access-inequitable-nationwide.md) — related
+- [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — related

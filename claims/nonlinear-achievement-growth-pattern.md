@@ -45,3 +45,6 @@ Descriptive analysis of the four achievement means and variances in the BURN11 d
 ## Related Claims
 
 - [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md)
+- [A pronounced drop in performance occurs at week 8 after the first exam in an area of law, which is attributed to cyclic drops in motivation](week-8-performance-drop-motivation.md) — related
+- [Quadratic latent growth fits MAP longitudinal achievement data better than linear growth across ten states](quadratic-growth-fits-map-better-than-linear.md) — a broader claim this one bears on
+- [For Han students, metacognitive knowledge followed a quadratic (accelerating) growth model while vocabulary breadth followed a linear growth model, and initially high vocabulary knowledge predicted faster later vocabulary growth](han-mck-quadratic-vk-linear-growth.md) — a broader claim this one bears on

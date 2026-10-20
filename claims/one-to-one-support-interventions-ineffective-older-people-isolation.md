@@ -46,3 +46,5 @@ In the systematic review's categorisation of outcome studies, "Six of the eight 
 - [Educational and social activity group interventions targeting specific groups can alleviate social isolation and loneliness among older people](educational-social-group-interventions-alleviate-older-people-isolation.md) — related
 - [The effectiveness of home visiting and befriending schemes for social isolation and loneliness among older people remains unclear](home-visiting-befriending-effectiveness-unclear.md) — related
 - [Included intervention studies varied considerably in design, methods, quality and transferability](isolation-intervention-studies-varied-quality-transferability.md) — related
+- [A quasi-experimental intervention reported short-term reductions in loneliness followed by lower social anxiety after a social-chatbot intervention](quasi-experimental-chatbot-intervention-lowered-loneliness-short-term.md) — related
+- [Extended chatbot use produced dose-dependent increases in loneliness and emotional dependence alongside lower socialisation (review attribution)](chatbot-use-dose-dependent-loneliness.md) — related

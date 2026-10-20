@@ -48,3 +48,6 @@ Authors' interpretation of the counterbalanced experimental manipulation, offere
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — a narrower finding that bears on this claim
 - [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — a narrower finding that bears on this claim
 - [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
+- [Weekly average sleep measures show no association with working memory performance in older adolescents](weekly-sleep-no-working-memory-association.md) — related
+- [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — a broader claim this one bears on
+- [Adolescents with 7 hours or less total rest time show longer 3-back response times, both acutely and averaged over the week](seven-hour-rest-threshold-3back-response.md) — related

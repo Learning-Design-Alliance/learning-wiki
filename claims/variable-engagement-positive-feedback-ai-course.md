@@ -44,3 +44,5 @@ Descriptive engagement analysis of page-view logs in the 13-student asynchronous
 
 ## Related Claims
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Graduate students rated AI-generated weekly readings as effective preparation, with 75% agreeing they learned more than in a comparable course without AI assistance](ai-generated-readings-positive-perceived-value-graduate-course.md) — related
+- [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related

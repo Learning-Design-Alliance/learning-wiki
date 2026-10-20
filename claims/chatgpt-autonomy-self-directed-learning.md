@@ -52,3 +52,5 @@ Interview thematic analysis: students reported learning independently from ChatG
 - Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
 - [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](both-feedback-modalities-prompt-hard-evaluative-judgement.md) — related
 - [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related
+- [Adult learners expect AI to enhance autonomy through choices, flexible learning spaces, metacognitive awareness, and structured self-assessment](ai-enhances-adult-learner-autonomy.md) — a broader claim this one bears on
+- [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related

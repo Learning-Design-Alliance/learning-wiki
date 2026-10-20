@@ -48,3 +48,4 @@ Judgment bias was computed as the signed difference between z-transformed certai
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
 - [Classifying provided examples is more effective for learning relational categories than reading or generating examples](classifying-examples-beats-reading-generating-relational-categories.md) — related
 - [Reading provided examples is not more effective than generating examples for learning relational categories](reading-not-superior-to-generating-examples.md) — related
+- [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related

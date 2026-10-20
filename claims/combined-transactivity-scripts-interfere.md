@@ -43,4 +43,5 @@ Editorial summary of Noroozi, Teasley, Biemans, Weinberger and Mulder's laborato
 
 
 ## Related Claims
--
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related
+- [The editorial reports an online teacher professional development intervention combining social capital mechanisms and automated scaffolds succeeded, with transactivity as a process indicator](social-capital-online-pd-intervention-success.md) — related

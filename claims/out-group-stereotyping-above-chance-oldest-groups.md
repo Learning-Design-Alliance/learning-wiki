@@ -46,3 +46,4 @@ One-sample t-tests against chance (50%) on stereotyping scores from the same 89-
 
 ## Related Claims
 - [Children begin applying racial stereotypes to out-groups around age 6, with out-group stereotyping increasing across age groups while in-group stereotyping shows no reliable age differences](out-group-stereotyping-emerges-around-age-6.md) — a broader claim this one bears on
+- [Children's essentialist reasoning about racial change increased with age, and essentialist reasoning about others (but not the self) predicted out-group stereotyping](essentialist-reasoning-increases-with-age-predicts-outgroup-stereotyping.md) — related

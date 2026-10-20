@@ -52,3 +52,5 @@ Authors' observational interpretation from the beginner reactive group, where de
 - [Errors serve as valuable feedback for teachers and learners, but unhandled errors risk fossilization](errors-as-feedback-fossilization-risk.md) — related
 - [Errors should be distinguished from mistakes, and analysis proceeds through recognition, description, and explanation stages](error-versus-mistake-analysis-procedure.md) — related
 - [Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points](reactive-fof-time-cost-fewer-opportunities.md) — related
+- [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](peer-assessment-quality-control-proactive-reactive.md) — related
+- [L1-induced errors persist in advanced learners and risk fossilization if learners rely on compensatory communication strategies](l1-interference-errors-fossilization-risk.md) — related

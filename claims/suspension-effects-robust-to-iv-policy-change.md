@@ -46,3 +46,5 @@ Instrumental variable analysis leveraging a district-wide policy change in suspe
 - [A suspension decreases math and reading achievement for suspended students](suspension-decreases-suspended-student-achievement.md) — related
 - [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
 - Referrals showed significant negative associations with math growth in grades 2 and 4, but weaker and less consistent effects in reading — related
+- [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
+- [In schools that did not fully implement the district-level suspension reform, peer math achievement declined and attendance decreased](partial-implementation-schools-peer-outcomes-declined.md) — related

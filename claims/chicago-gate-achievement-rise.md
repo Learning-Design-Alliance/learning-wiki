@@ -47,3 +47,4 @@ Cohort averages of underlying achievement from hierarchical linear models of ITB
 - [Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent](chicago-gate-retention-surge.md)
 - [The eighth-grade promotion gate had the largest impact on ninth-grade enrollment, with almost 2,900 fewer students advancing in fall 1998](promotion-gate-largest-impact-ninth-grade-enrollment.md)
 - [Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst](retained-students-struggle-second-time-through.md)
+- [Average TAP scores rose substantially for students who enrolled in ninth grade, but the 1997 high school redesign appears to have had only a modest impact on skill development](chicago-tap-scores-rose-for-ninth-grade-enrollees.md) — related

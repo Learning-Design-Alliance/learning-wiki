@@ -47,3 +47,4 @@ The study's short-run finding compares two named school effects: fostering socio
 - [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — related
 - Social-emotional value-added measures are nearly as predictive of a high school's impact on test scores as test-score value-added — a broader claim this one bears on
+- [School and teacher effects on students' school experiences influence social and educational trajectories more than their effects on academic achievement measures](school-experience-effects-outweigh-achievement-effects.md) — related

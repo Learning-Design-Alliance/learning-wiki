@@ -65,3 +65,5 @@ Within-approach comparisons across test delays showed no significant differences
 - [On a one-week delayed test, multiple text reading and rereading both outperform single reading, but on a one-day delayed test the differences are non-significant](distributed-reading-beats-single-reading-one-week.md) — related
 - [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
+- [Reading approach and test delay each significantly affect knowledge-test performance, with no significant interaction (ηp2 = 0.02)](reading-approach-and-delay-main-effects-no-interaction.md) — related
+- [Rereading raises judgements of learning after each reading while multiple text reading raises them only after the second reading (significant interaction, ηp2 = 0.07)](rereading-inflates-jols-across-readings.md) — related

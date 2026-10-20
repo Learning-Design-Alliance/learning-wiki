@@ -46,3 +46,4 @@ Thematic analysis across all nine focus groups; participants reported improved r
 - [Participants perceived that uncorrected visual deficits reduced students' classroom focus, perseverance, and class participation](uncorrected-poor-vision-reduces-focus-participation.md) — related
 - [Providing free vision services on the school campus was perceived to remove financial and logistical barriers to obtaining corrective lenses](free-school-based-services-remove-access-barriers.md) — related
 - [Serving multiple students within a school and letting students choose frames were perceived to reduce stigma and increase willingness to wear glasses](school-based-group-delivery-reduces-glasses-stigma.md) — related
+- [Participants described significant psychosocial stress related to uncorrected poor vision, with different etiologies for parents, teachers, and students](uncorrected-poor-vision-causes-stress.md) — related

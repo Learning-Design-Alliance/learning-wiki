@@ -46,3 +46,5 @@ The abstract asserts, without reported data, that "The immediate, informative te
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — related
 - [Whether teachers knew their students before Summer Bridge predicted test-score increases and teacher practice, most strongly for older students](teacher-familiarity-predicts-summer-bridge-gains.md) — related
+- [One pilot instructor reported the adaptive proctor differentiated students at multiple proficiency boundaries and decoupled conceptual mastery from computational speed](socratic-test-faculty-differentiation.md) — related
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — a broader claim this one bears on

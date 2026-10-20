@@ -47,3 +47,5 @@ Experiment 1 preregistered one-tailed paired t tests (OIPs vs AIPs) showed the l
 - [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — related
 - [The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing](underconfidence-predicts-reminder-bias.md) — related
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — a broader claim this one bears on
+- [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
+- [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](reminder-accuracy-unaffected-by-framing.md) — related

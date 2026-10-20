@@ -44,3 +44,4 @@ Numerical result shown in Figure 1: all-MiniLM-L6-v2 embeddings with pairwise co
 
 ## Related Claims
 - [Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions](prompt-personalization-measurable-response-variation.md) — a broader claim this one bears on
+- [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related

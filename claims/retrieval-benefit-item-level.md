@@ -47,3 +47,7 @@ Authors' interpretive argument in the General Discussion, supported by post hoc 
 - [The TTST advantage persists in a pure-list design, ruling out differential rehearsal (Experiment 4)](ttst-advantage-not-differential-rehearsal.md) — related
 - [Retrieval before re-presentation (TTST) improves final cued recall of nonsense-syllable/number pairs relative to pure study (Experiment 1)](ttst-beats-pure-st-nonsense-pairs.md) — related
 - [The TTST advantage replicates with meaningful Eskimo/English word pairs (Experiment 2)](ttst-beats-pure-st-eskimo-pairs.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
+- [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — a broader claim this one bears on

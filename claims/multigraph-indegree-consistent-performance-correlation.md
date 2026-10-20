@@ -49,3 +49,4 @@ Observational analysis of LMS forum interaction networks from 12 problem-based l
 - [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md)
 - [Multigraph outdegree centrality is the most robust participation indicator, with significant positive correlations in all courses, while weighted outdegree was negatively correlated in two courses](multigraph-outdegree-most-robust-participation.md)
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)
+- [Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.](post-size-unreliable-tie-weight.md) — related

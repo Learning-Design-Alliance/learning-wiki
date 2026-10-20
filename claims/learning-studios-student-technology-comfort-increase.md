@@ -52,3 +52,7 @@ Exploratory pilot-year research in the Learning Studios using pre/post/follow-up
 - [Self-reported average level of technology use rose across three administrations of the LoA survey, though not for every technology](loa-pilot-self-reported-increase-all-20-technologies.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - Baseline survey found only about 35% of teachers felt all their students were comfortable with technology, while 85% wanted more technology-training — related
+- [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — related
+- [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
+- [DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills](dlp-content-pedagogy-gains-not-basic-skills.md) — related
+- [Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks](dlp-risk-taking-perception-gap.md) — related

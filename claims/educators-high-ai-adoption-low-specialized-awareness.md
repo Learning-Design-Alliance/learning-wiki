@@ -45,3 +45,7 @@ Cross-study integration in Section 5.5 summarizing the Study 2 targeted educator
 ## Related Claims
 - [Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%](chatgpt-dominance-specialized-service-awareness-11-percent.md) — possibly the same claim (merge candidate)
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related
+- [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related
+- [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
+- [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related
+- [One-third of the Ukrainian general public does not know what AI is, and 64.1% do not use AI chatbots](ukrainian-public-ai-awareness-baseline.md) — related

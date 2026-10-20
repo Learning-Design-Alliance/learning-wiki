@@ -48,3 +48,4 @@ Qualitative analysis of students' subjective perceptions of the dashboard's effe
 - [Student engagement with LMS learning technologies and course resources increased significantly immediately following interactions with the SensEnablr dashboard](sensenablr-increased-student-engagement.md) — related
 - [Comparative dashboard features found less support among online students than recommendations and contact features](comparative-features-less-support-online-students.md) — a narrower finding that bears on this claim
 - [Gamified design and interactive AI features sustain learners' motivation for oral practice (Motivational Propensity Pathway)](ai-enhances-motivation-gamified-features.md) — related
+- [The LAD was mostly perceived to support student appraisal of study behaviour by providing new insights or awareness](thermos-lad-supported-appraisal-phase.md) — related

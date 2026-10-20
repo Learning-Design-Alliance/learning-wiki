@@ -48,3 +48,6 @@ An untested assertion in the review's discussion, attributed to Bates et al. (20
 - AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — related
 - [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — reports the opposite
 - [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related
+- [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related

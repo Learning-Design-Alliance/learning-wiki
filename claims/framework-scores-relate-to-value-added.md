@@ -88,3 +88,8 @@ The validity sample comprised principal ratings linked to value-added indicators
 - [Phase 1 of the Pennsylvania pilot examined whether teachers with higher classroom observation scores on specific professional practices tended to have greater value-added impacts on student achievement](observation-scores-value-added-relationship-pennsylvania-pilot.md) — a broader claim this one bears on
 - [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related
+- [Value-added models were used to estimate teacher and principal effectiveness measures in Charleston County School District in 2013-2014](value-added-models-estimate-charleston-teacher-principal-effectiveness-2013-14.md) — related
+- [FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)](ffl-scores-correlated-principal-value-added.md) — related
+- [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related
+- [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
+- [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related

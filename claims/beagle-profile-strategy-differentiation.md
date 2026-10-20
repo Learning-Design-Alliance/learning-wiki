@@ -46,3 +46,4 @@ Performance-differentiation analysis in the RQ1 behavioral-fidelity evaluation, 
 - [BEAGLE achieves higher behavioral fidelity to real student cognitive-behavior distributions than LLM prompting and agent baselines on a Particle Simulator task (DKL = 0.31 vs. baselines ≥ 0.53)](beagle-behavioral-fidelity-beats-baselines.md) — related
 - A 15-feature J48 decision tree model distinguishes wheel-spinning from productive persistence in ASSISTments Skill Builders at AUC ROC 0.684 under student-skill-level cross-validation — related
 - The relationship between bottom-out hint use and wheel-spinning is nuanced, depending on whether students avoid hints entirely — related
+- [Statistical discourse analysis of collaborative learning shows metacognitive planning organizes subsequent cognitive activity while relational activities help enact it](sda-planning-organizes-subsequent-cognition.md) — related

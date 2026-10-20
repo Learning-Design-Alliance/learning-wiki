@@ -50,3 +50,5 @@ The author reports findings from her own small-scale studies, hedged with "seem 
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — a broader claim this one bears on
 - [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](young-arrivals-risk-losing-both-l1-and-l2.md) — related
+- [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) — related
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related

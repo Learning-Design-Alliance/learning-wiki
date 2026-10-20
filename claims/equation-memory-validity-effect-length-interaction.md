@@ -44,3 +44,4 @@ Repeated measures ANOVA on the equation memory task in the 171-student sample, c
 
 ## Related Claims
 - [Prior knowledge, worked-example type (full vs completion) and task difficulty show a significant three-way interaction on an algebra posttest, but not on self-reported cognitive load](prior-knowledge-worked-example-task-difficulty-three-way-interaction-on-algebra-posttest.md) — related
+- [Sequential presentation of memory items produces less time-based forgetting than simultaneous presentation (Experiment 1)](sequential-presentation-less-forgetting-than-simultaneous.md) — related

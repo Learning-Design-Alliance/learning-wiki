@@ -52,3 +52,4 @@ Threshold-based estimates from the original evaluation, re-examined in this pape
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](750-contact-hours-esl-support-tangible-effect.md) — related
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related
 - [Intervention studies reported larger effect sizes than cross-sectional studies, and studies including more teaching assistants reported larger effects](moderators-intervention-design-teaching-assistants.md) — related
+- [In the prior 2025 evaluation, Air Tutors showed positive short-term benchmark gains at sufficient dosage but negative short-term statewide effects in the full sample](air-tutors-short-term-effects-varied-by-measure.md) — related

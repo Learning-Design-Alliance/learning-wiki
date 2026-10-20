@@ -67,3 +67,5 @@ The review reports that subsequent qualitative and implementation studies found 
 - [Distress tolerance and intolerance of uncertainty are consistently associated with mental health problems](distress-tolerance-uncertainty-intolerance-associations.md) — related
 - [In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels](sweet-registry-psychological-access-outcomes.md) — related
 - [Follow-up support shows low initiation but reliable completion: the bottleneck is noticing and composing the question, not the AI's ability to answer](followup-low-initiation-high-completion.md) — related
+- [Depressive symptoms are detected in 26.35% of secondary vocational students](vocational-students-depression-detection-26-35-percent.md) — related
+- [A low-intensity telehealth problem-solving intervention delivered by trained diabetes educators, nurses and dietitians reduced mild to moderate diabetes distress more than usual care (LISTEN trial)](listen-trial-nonpsychologist-delivery-effective.md) — related

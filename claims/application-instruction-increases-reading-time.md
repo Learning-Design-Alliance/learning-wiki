@@ -65,3 +65,4 @@ Experiment 2: ANOVA on reading time showed a significant effect of instruction, 
 
 - [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](inserted-questions-longer-initial-reading.md)
 - [Post-reading-question students spend more time reading the questions for the first time than inserted-question students](post-reading-longer-task-model-formation.md)
+- [Application reading instructions did not reduce overestimation of application performance (no debiasing effect), with effects varying by text](application-instruction-no-debiasing-effect.md) — related

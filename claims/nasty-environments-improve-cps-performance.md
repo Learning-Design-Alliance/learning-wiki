@@ -46,3 +46,5 @@ The review reports a recent Tailorshop experiment by Barth and Funke (2009) in w
 
 - [Successful and unsuccessful complex problem solvers differ in transition frequencies between questions and decisions](transition-frequencies-differ-successful-solvers.md)
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md)
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Mean solution time almost perfectly predicts item-level Suddenness and Certainty, and fast performance signals easy items while deliberation signals hard ones](solution-time-predicts-insight-like-ratings.md) — related

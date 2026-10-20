@@ -47,3 +47,5 @@ Analysis of California Department of Education administrative data for 2018–19
 
 ## Related Claims
 - [AI/AN students experienced chronic absence rates among the highest of any ethnic group before and after the pandemic](aian-absence-highest-among-ethnic-groups.md) — related
+- [Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent](race-stronger-than-poverty-preschool-chronic-absence.md) — related
+- [Chronic absence rates among Native students vary widely across states, with Alaska highest at 60% Native versus 37% White in 2022/23](aian-chronic-absence-state-disparities.md) — related

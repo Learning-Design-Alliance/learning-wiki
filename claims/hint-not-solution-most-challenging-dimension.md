@@ -48,3 +48,6 @@ Per-criterion scoring of the 8 debugging questions in Trial 2 (Table 2), judged 
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related
 - [Model selection experiments show newer models are not strict improvements, with component-specific effects on quality metrics](model-migration-component-specific-metric-effects.md) — related
 - [Most models struggle to engage with a student's prior debugging attempts even when the iteration history is provided](models-struggle-acknowledging-debugging-progression.md) — related
+- [GPT-4 generates targeted corrective feedback for 66% of student errors, but 35% of hints are too general, incorrect, or give away the answer](gpt4-feedback-66-percent-targeted-35-percent-flawed.md) — related
+- [Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers](learnlm-preference-explanation-themes.md) — related
+- [GPT-generated hints are moderately accessible by automated readability metrics (mean CAREC 0.128, mean CML2RI 3.95)](gpt-hints-moderately-accessible-readability.md) — related

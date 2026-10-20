@@ -52,3 +52,6 @@ The summary reports, citing Watts et al. (2023) on heterogeneity in public presc
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Pre-kindergarten attendance predicts college enrollment across racial and ethnic groups, most strongly four-year enrollment among Black and Hispanic students](prek-predicts-college-enrollment.md)
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
+- [In 2022 only one in nine eligible California children—and one in seven eligible Alameda County children—received subsidized childcare](subsidized-childcare-access-gap-2022.md) — related
+- [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
+- [Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)](pre-k-benefits-study-low-income-county-sample-2581.md) — a narrower finding that bears on this claim

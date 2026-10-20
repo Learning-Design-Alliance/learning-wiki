@@ -45,3 +45,5 @@ The editorial reports, describing Psathas et al.'s three-condition MOOC interven
 ## Related Claims
 - [Both general and personalized SRL interventions increased students' participation in chat-based collaborative activities compared to control](srl-interventions-increased-chat-activity-participation.md) — possibly the same claim (merge candidate)
 - [Pre-course SRL level statistically significantly predicted participation in collaborative chat activities](pre-course-srl-predicts-collaborative-participation.md) — related
+- [Personalized SRL email interventions increased post-course self-regulation scores relative to control in a MOOC, while the general intervention did not](personalized-srl-interventions-raised-srl-scores-mooc.md) — related
+- [SRL intervention groups had significantly lower dropout than control in a MOOC, with no difference between the two intervention modes](srl-interventions-reduced-mooc-dropout.md) — related

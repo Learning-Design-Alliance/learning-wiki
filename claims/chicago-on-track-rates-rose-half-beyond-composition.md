@@ -50,3 +50,5 @@ Cohort trend analysis of Chicago Public Schools administrative data tracking all
 - [Freshman OnTrack improvements were largest in the lowest-performing schools, with bottom-quartile schools gaining 33 percentage points](ontrack-gains-largest-in-lowest-performing-schools.md) — related
 - Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior — related
 - The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00 — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related

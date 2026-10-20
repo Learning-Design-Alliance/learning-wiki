@@ -43,4 +43,6 @@ A 2x2 between-subjects factorial experiment with 72 undergraduates in a computer
 
 
 ## Related Claims
--
+- [The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy](pal-competency-self-efficacy-application-tradeoff.md) — possibly the same claim (merge candidate)
+- [Working with a low-competency pedagogical agent raises learners' self-efficacy in the task (d = 0.49)](low-competency-pal-raises-self-efficacy.md) — related
+- [A high-competency PAL elicits more positive learner attitudes toward the agent (d = 0.91)](high-competency-pal-more-positive-attitudes.md) — related

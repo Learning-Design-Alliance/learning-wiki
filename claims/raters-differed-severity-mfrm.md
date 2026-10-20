@@ -68,3 +68,5 @@ MFRM analysis (FACETS) of the crossed-design rating data; Table 2 reports a rate
 - [The chi-square significance test for NC-DIF is overly sensitive at large sample sizes, requiring an empirical cutoff value](nc-dif-chi-square-overly-sensitive-large-samples.md) — related
 - [Scorer severity and standard difficulty were statistically adjusted using Many-Facet Rasch analysis before assignment and work measures were compared](rasch-adjustment-of-scorer-severity.md) — related
 - [Few models exist for estimating growth in the presence of multiple raters despite growing multi-rater longitudinal data](few-models-for-growth-with-multiple-raters.md) — related
+- [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — related
+- [Rater selection via two-facet Rasch infit filtering substantially increases inter-rater reliability (Krippendorff's alpha) on ICNALE GRA](rasch-infit-rater-selection-increases-reliability.md) — related

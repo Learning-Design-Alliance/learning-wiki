@@ -43,4 +43,7 @@ In the 54-participant within-subject experiment, self-efficacy (five items, α =
 
 
 ## Related Claims
--
+- [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related
+- [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
+- [Holistic retrieval increases situational interest, with better recall performance predicting greater interest, contrary to the knowledge-deprivation hypothesis](free-recall-increases-situational-interest-performance-mediated.md) — related
+- [Overall posttest performance does not differ between targeted and holistic retrieval conditions](no-overall-performance-difference-between-retrieval-task-types.md) — related

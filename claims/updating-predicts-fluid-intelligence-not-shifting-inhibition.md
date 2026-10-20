@@ -51,3 +51,5 @@ Latent variable regression in a 230-participant SEM study (fluid intelligence an
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related
 - [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related
 - [Synchronous observed-variable correlations between WMC and intelligence are modest (r = 0.17 to 0.40), lower than latent-variable correlations](wmc-iq-observed-correlations-modest.md)
+- [Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition](scaffolds-enable-inhibition-contribution.md) — related
+- [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related

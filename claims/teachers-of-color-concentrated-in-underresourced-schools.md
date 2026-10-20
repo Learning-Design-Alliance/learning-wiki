@@ -48,3 +48,5 @@ Descriptive analysis of the 2020–21 NTPS distribution of teachers by race/ethn
 - [Teachers of color leave the teaching profession at higher rates than white teachers (about 19 percent vs. 15 percent turnover).](toc-higher-turnover-than-white-teachers.md) — related
 - All students, regardless of race or ethnicity, benefit socially, emotionally, and academically from a diverse teacher workforce, while teachers of color experience burnout and leave the profession at higher rates than their White peers — related
 - Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color — related
+- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [African American teacher candidates are less likely to receive job offers than white candidates despite similar or better qualifications.](discriminatory-teacher-hiring.md) — related

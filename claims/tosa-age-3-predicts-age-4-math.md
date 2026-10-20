@@ -70,3 +70,5 @@ Partial correlation analysis controlling the other three predictors, reported in
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related
+- [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — related
+- [Higher-SES preschoolers outperform lower-SES peers on math, spatial, EF, and vocabulary measures, except the Tap Test where the difference is a non-significant trend](ses-gaps-in-early-spatial-ef-math-skills.md) — related

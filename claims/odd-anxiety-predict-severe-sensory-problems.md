@@ -46,3 +46,5 @@ The review reports that "co-morbidity with oppositional defiant disorder and anx
 
 - [ADHD subtypes are not distinct disorders with regard to sensory processing problems](adhd-subtypes-not-distinct-sensory-processing.md)
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
+- [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
+- [Tactile defensiveness in ADHD is specific to affected children, more frequent in females, and not due to tactile perception impairment](tactile-defensiveness-specific-to-adhd-children.md) — related

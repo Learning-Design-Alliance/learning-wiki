@@ -46,3 +46,4 @@ The summary describes the study's stated contribution: identifying school contri
 - [Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes](promotion-power-correlates-across-outcomes-with-variation.md) — related
 - [Students at high promotion power high schools have substantially better expected long-term outcomes than similar students at average promotion power schools](high-promotion-power-better-expected-outcomes.md) — related
 - [Louisiana high schools vary widely in their success in promoting graduation, college enrollment, and earnings](louisiana-high-schools-vary-widely-promotion-power.md) — related
+- [DC public high schools show wide variation in promotion power for college-ready SAT scores, graduation, and college enrollment](wide-variation-dc-high-school-promotion-power.md) — related

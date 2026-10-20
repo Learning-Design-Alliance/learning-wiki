@@ -48,3 +48,4 @@ Simulation comparison of Bayesian GLASSO- and Horseshoe priors: "the Bayesian GL
 - [The frequentist graphical LASSO has difficulty estimating centrality indices and uncertainty in these measures in symptom networks](frequentist-glasso-difficulty-uncertainty-centrality.md) — related
 - [Bayesian GLASSO shows good coverage of uncertainty for strength and closeness centrality, but uncertainty in betweenness centrality is estimated less well](bayesian-glasso-coverage-strength-closeness-not-betweenness.md) — related
 - [Changes in ICT career aspirations are not systematically linked to contemporaneous changes in other occupational domains](ict-aspirations-independent-of-other-career-domains.md) — related
+- [Regularization-based graphical modeling has key drawbacks, including difficulty obtaining valid parameter uncertainty and inflated false positive rates](regularization-drawbacks-uncertainty-false-positives.md) — related

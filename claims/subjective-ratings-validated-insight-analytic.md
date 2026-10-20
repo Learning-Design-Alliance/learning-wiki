@@ -45,3 +45,8 @@ Validation comparing ratings after 244 correct solutions on interactive insight 
 ## Related Claims
 - [Subjective experience on the easiest RAPM items matches that of insight problems, while difficult items resemble analytic problems](easy-rapm-items-insight-like-experience.md) — related
 - [Across participants, RAPM scores correlate positively with Certainty but not with Intuition or Suddenness](rapm-score-correlates-certainty-only.md) — related
+- [Pleasure and Certainty ratings are strongly inter-correlated, questioning the independence of the subjective-experience dimensions](pleasure-certainty-overlap-ratings.md) — related
+- [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](suddenness-certainty-decrease-rapm-difficulty.md) — related
+- [Correct RAPM solutions yield higher Suddenness and Certainty and lower Intuition than incorrect solutions, with a Certainty-by-difficulty interaction](correctness-effects-rapm-ratings.md) — related
+- [Mean solution time almost perfectly predicts item-level Suddenness and Certainty, and fast performance signals easy items while deliberation signals hard ones](solution-time-predicts-insight-like-ratings.md) — related
+- [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](intuition-unaffected-rapm-difficulty.md) — related

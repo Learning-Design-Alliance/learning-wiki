@@ -46,3 +46,5 @@ The review attributes this to Willingham (2004) summing up Gardner's view that t
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — a broader claim this one bears on
 - [Children scoring highly on one intelligence tend to score highly on others, consistent with general intelligence](high-scorers-across-intelligences-support-g.md) — related
 - [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](multiple-intelligences-weak-on-science-talent.md) — related
+- [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related
+- [General and fluid intelligence correlate strongly with mathematics achievement (r = .41 to .62), and the fluid-intelligence correlation is larger in older samples](intelligence-correlates-strongly-with-math-achievement.md) — related

@@ -47,3 +47,4 @@ Target Zone Accuracy results over 2,520 tasks (Table 2) measuring adherence to t
 - [Downward Bloom control is benchmark-dependent: repository-level tasks are easier to simplify than algorithmic puzzles](downward-shift-benchmark-dependence.md) — related
 - [Layer-wise probing shows clearer middle-layer separability in the general model and a weaker, deeper separability profile in the coder model](fdr-layerwise-separability-profiles.md) — related
 - [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](llm-upward-cognitive-shift-asymmetry.md) — a broader claim this one bears on
+- [Cognitive leap is the most prevalent deviation pattern of LLM-generated questions, and fine-grained prompting amplifies upward shifts while suppressing cognitive regression](cogleap-dominant-fgp-suppresses-regression.md) — a broader claim this one bears on

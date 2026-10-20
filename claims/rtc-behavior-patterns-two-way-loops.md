@@ -46,3 +46,4 @@ Behavior sequence analysis of system logs from 13 cases using GSEQ 5.1, with 1,8
 ## Related Claims
 
 - [Overall CPSE did not differ significantly between individual programming and RTC-based collaborative programming](cpse-similar-individual-and-collaborative-programming.md)
+- [Different group compositions adopted different collaboration strategies: homogeneous groups split interface and programming work, while the heterogeneous CS/non-CS pair showed the most divergent behavior patterns](grouping-type-different-collaboration-strategies.md) — related

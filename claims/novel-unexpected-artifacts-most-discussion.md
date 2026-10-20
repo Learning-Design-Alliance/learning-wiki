@@ -62,4 +62,5 @@ In the same SNA case study, the misidentified mosquito had the highest scientifi
 
 
 ## Related Claims
--
+- [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md) — related
+- [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md) — related

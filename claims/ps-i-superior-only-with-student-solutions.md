@@ -48,3 +48,4 @@ Framework article (Loibl, Leuders, Glogger-Frey & Rummel, 2025) that reports and
 - [PS-I effects did not replicate in all domains: null sequence effects in Bayesian reasoning, javelin throwing, and inquiry-skill sequencing](ps-i-null-results-new-domains.md) — reports the opposite
 - [PS-I instructional designs can improve conceptual understanding and transfer when design principles are met](ps-i-improves-conceptual-understanding-transfer.md) — a broader claim this one bears on
 - [No significant interaction between order of phases and type of instruction on conceptual knowledge in the Bayesian-reasoning replication](ps-i-instruction-interaction-null-bayesian.md) — reports the opposite
+- [Including typical student solutions in explicit instruction showed no significant effect on conceptual knowledge in the Bayesian-reasoning replication](typical-solutions-instruction-no-effect-bayesian.md) — related

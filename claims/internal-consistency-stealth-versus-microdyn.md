@@ -47,3 +47,6 @@ Internal consistency analysis of the validation study measures. The article repo
 - [Adding MicroDYN rule application significantly improves prediction of overall problem solving, planning, tool usage, and evaluating progress, but not analyzing givens](rule-application-predicts-facets-except-analyzing-givens.md) — related
 - [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](stealth-assessment-problem-solving-correlates-external-measures.md) — related
 - [An exam with low internal consistency cannot be used to verify peer assessment validity](low-reliability-exam-excluded-from-validity-check.md) — related
+- [Facet difficulty and intercorrelation patterns: analyzing givens was easiest, evaluating progress hardest, and planning correlated 0.98 with the overall estimate](facet-difficulty-and-intercorrelations.md) — related
+- [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
+- [Raven's and MicroDYN jointly explain 22% of variance in the stealth assessment estimate, with MicroDYN adding 5.7% unique variance beyond Raven's](regression-ravens-microdyn-unique-variance.md) — related

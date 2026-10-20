@@ -45,3 +45,4 @@ Chi-square analyses of self-reported daily play time in the two samples found bo
 ## Related Claims
 - [British children spend more daily time on videogames while Turkish children spend more on traditional games](cross-cultural-game-time-differences-children.md) — related
 - [Action-adventure videogames negatively predict social problem-solving scores while simulation, puzzle, serious and educational videogames predict positively](videogame-genre-spsic-regression-predictors.md) — related
+- [Action and role-playing videogames are most preferred and simulation and puzzle least preferred in both cultures, with culture-specific traditional game preferences](game-genre-preferences-cross-cultural-patterns.md) — related

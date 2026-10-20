@@ -49,3 +49,4 @@ Think-aloud task evaluation with five new university participants creating an in
 ## Related Claims
 - [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — related
 - [The authors report five twenty-minute screenshare sessions can surface more actionable design insights than a 100-person survey](five-screenshare-sessions-beat-large-survey.md) — related
+- [Students expected acceptance or rejection notifications from all schools they applied to, and the single-best-offer notification design produced confusion and frustration](notification-expectations-mismatch-gocps.md) — related

@@ -43,4 +43,5 @@ Moderator analysis of delivery mode (teacher, researcher, task materials, or tea
 
 
 ## Related Claims
--
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — reports the opposite
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — reports the opposite

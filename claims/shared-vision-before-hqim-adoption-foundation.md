@@ -65,3 +65,4 @@ Contrasting spotlight cases within the cross-case study: Oak's methodical K–6 
 - [Shared and well-communicated mission, vision, and goals are critical to district and CMO performance](shared-mission-vision-goals-critical-districts-cmos.md) — a broader claim this one bears on
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — related
+- [HQIM teacher guides differ substantially in the depth of educative guidance they provide for the same pedagogical practice](hqim-teacher-guides-vary-in-educative-guidance-depth.md) — related

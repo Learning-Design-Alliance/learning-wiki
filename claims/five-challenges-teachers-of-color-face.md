@@ -49,3 +49,4 @@ Qualitative focus groups led by Teach Plus Policy Fellows with 88 teachers who i
 - Teacher-student racial and cultural match is associated with benefits for students of color and all P-12 students — related
 - [Teachers of color face retention pressures including placement in high-poverty schools, pigeonholing into race-based roles, undervalued ideas, and an unrecognized invisible tax of extra duties.](toc-retention-hostile-conditions.md) — a narrower finding that bears on this claim
 - Louisiana teachers of color report working conditions, not salary, as primary reasons for leaving high-need schools — a narrower finding that bears on this claim
+- [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md) — related

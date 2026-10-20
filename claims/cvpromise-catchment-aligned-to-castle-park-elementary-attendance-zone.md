@@ -44,3 +44,4 @@ Descriptive statement from the Mathematica site profile of the CVPromise program
 
 ## Related Claims
 - Parental support for a neighborhood single-gender middle school varied across elementary attendance zones — related
+- [About half of CPS students do not live within the neighborhood zone of any magnet elementary school](half-cps-students-outside-magnet-neighborhood-zones.md) — related

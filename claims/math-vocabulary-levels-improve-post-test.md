@@ -46,3 +46,4 @@ Rubric-based scoring of the 40 students' pre- and post-tests on the math vocabul
 - [Students' explanation (argument, presentation) levels improved after the intervention, though gains were smaller than in vocabulary](explanation-levels-improve-post-test.md) — related
 - [Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary](tec-summer-41-percent-math-vocabulary-gain.md) — a broader claim this one bears on
 - [Students in the TEC Summer Learning Program showed a 20% pre-to-post gain in numeracy skills](tec-summer-20-percent-numeracy-gain.md) — related
+- [Students in the TEC Summer Learning Program showed a 17% pre-to-post gain in phonics skills](tec-summer-17-percent-phonics-gain.md) — related

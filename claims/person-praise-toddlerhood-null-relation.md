@@ -46,3 +46,4 @@ Null result from the same longitudinal observational study of 53 dyads; the hypo
 - [Parents' own incremental theories did not predict their process praise use or their children's motivational frameworks, and counter-intuitively correlated with more person praise](parent-incremental-theories-not-predicting-praise-or-child-frameworks.md) — related
 - [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](process-praise-toddlerhood-predicts-incremental-frameworks.md) — related
 - [Parents' praise styles were stable across child ages 14-38 months, with person praise declining and other praise increasing](praise-style-stability-toddlerhood.md) — related
+- [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — related

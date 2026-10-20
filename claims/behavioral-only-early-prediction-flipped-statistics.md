@@ -64,3 +64,5 @@ Feature engineering: reading sessions derived from enGauge timestamps yielded si
 
 - [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — the general claim this finding bears on, with the studies behind it
 - [Predictive models built in a modelable ecosystem generalize across institutions](cross-institutional-generalizability-coursekata-models.md) — related
+- [In-class chat engagement significantly predicts higher test scores in MAIC courses](chat-engagement-predicts-test-scores.md) — related
+- [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](attendance-predictive-of-grades-remote-learning.md) — related

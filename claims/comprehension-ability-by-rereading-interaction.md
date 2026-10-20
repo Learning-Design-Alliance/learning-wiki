@@ -69,3 +69,4 @@ Experiment 2 (94 introductory psychology students, two dropped) replicated the i
 - [Relationships between individual differences and final test performance were nonsignificant in retrieval practice conditions but significant in the rereading condition](individual-difference-correlations-vary-by-strategy-condition.md) — related
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
+- [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related

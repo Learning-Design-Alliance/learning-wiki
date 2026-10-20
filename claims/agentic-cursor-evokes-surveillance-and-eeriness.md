@@ -70,3 +70,5 @@ Participants described cursor motion as destabilizing and distracting during wri
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool](participants-prefer-tool-over-humanlike-agent.md) — related
 - [Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures](variant2-least-positive-agent-perception.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
+- [Producing a public information resource evoked a sense of responsibility toward readers that motivated care about information quality](public-production-evokes-responsibility.md) — related

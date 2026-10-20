@@ -53,3 +53,4 @@ Hierarchical regression (n=38 with complete data) showed ADHD traits alone accou
 - [Adolescents with weaker communicative perspective-taking report worse peer relations](weaker-perspective-taking-worse-peer-relations.md) — related
 - [Working memory is the strongest predictor of adolescents' communicative perspective-taking](working-memory-predicts-adolescent-communicative-perspective-taking.md) — related
 - [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](adhd-poorer-accuracy-wm-change-trials.md) — related
+- [Inhibitory control did not relate to adolescents' communicative perspective-taking](inhibitory-control-not-related-perspective-taking.md) — related

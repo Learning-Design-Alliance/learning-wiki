@@ -66,3 +66,6 @@ Same Texas quasi-experiment: Coursemojo users "showed positive differences on th
 - Coursemojo qualifies for a Moderate evidence rating based on positive ELA impacts across two studies — a broader claim this one bears on
 - Coursemojo use was associated with higher sixth-grade ELA performance in a Tennessee quasi-experiment — related
 - Istation users scored significantly higher on STAAR Reading than non-using schoolmates in a large urban Texas district (ES +0.10) — related
+- [A second randomized study in Louisiana and Texas found Air Reading students scored significantly higher on combined reading assessments (effect size +0.29)](air-reading-rct-2024-25-combined-assessments.md) — related
+- [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related
+- [IMSE's OG+ improves early literacy outcomes in grades K–3, with effect sizes of +0.33 and +0.21 across two quasi-experimental studies](imse-og-plus-improves-early-literacy.md) — related

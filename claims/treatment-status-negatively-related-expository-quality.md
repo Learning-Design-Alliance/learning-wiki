@@ -48,3 +48,5 @@ Secondary finding from the expository SEM in the longitudinal subsample (N = 157
 ## Related Claims
 - [Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres](kindergarten-lexical-literacy-predicts-writing-quality.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — reports the opposite
+- [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
+- [Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality](letter-writing-automaticity-not-predictive-grade3-writing.md) — related

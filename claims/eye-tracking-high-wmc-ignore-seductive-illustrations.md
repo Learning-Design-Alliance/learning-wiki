@@ -85,3 +85,4 @@ Experiment 2 eye-tracking analyses: no reliable differences in overall reading t
 - [Working memory capacity interacts with illustration type: seductive illustrations impair comprehension only for low-WMC readers](wmc-moderates-seductive-details-effect.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
 - [WMC shows a main effect on inference verification but not on essay recall](wmc-main-effect-ivt-not-essay.md) — related
+- [Low-WMC readers recall fewer correct causes when text contains seductive illustrations compared with nonillustrated text](low-wmc-seductive-essay-detriment.md) — related

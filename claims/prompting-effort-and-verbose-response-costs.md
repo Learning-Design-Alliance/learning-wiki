@@ -52,3 +52,6 @@ Analysis of user-LLM interaction logs found more than 70% single-turn interactio
 - [Within prompt–response AI interfaces, students without guidance rarely move beyond prompt tuning, yielding interactions of limited educational value and increased reliance on outputs](prompt-response-interface-limits-learning-value.md) — related
 - [AI-section students framed the AI as a collaborative partner even when logs showed one-shot imperatives and rapid acceptance (Illusion of Dialogue)](illusion-of-dialogue-partnership-framing.md) — related
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
+- [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
+- [Behavioural engagement indicators such as platform interaction and task completion do not by themselves establish cognitive engagement with mathematical ideas](behavioural-engagement-not-cognitive-engagement.md) — related
+- [Reducing Math Agent output and disabling it for non-math courses reduced latency and increased behavioral engagement](math-agent-reduction-livelatency-engagement-gains.md) — related

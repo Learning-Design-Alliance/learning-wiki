@@ -49,3 +49,7 @@ Qualitative trio-ethnography: the student consistently portrayed AI as a learnin
 - [Teachers most often perceived AI tutors and study buddies as academic support at a scale no single teacher can provide](ai-tutor-scale-benefit-teachers-perceive.md) — related
 - [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related
 - [AI-driven reforms frequently operate through an efficiency–sustainability substitution mechanism that redefines sustainability as operational performance](efficiency-sustainability-substitution-mechanism.md) — related
+- [LLM scaffolding level is associated with the student's next dialogue act, and the association persists within broad request categories](scaffolding-associated-with-next-student-move.md) — related
+- [Educators' interpretations of students' AI use evolved from perceived AI stigma toward emphasizing AI usage transparency and explicit AI guidance](ai-stigma-to-explicit-ai-guidance-evolution.md) — related
+- [53% of student essays named at least one AI behavior that supports rather than replaces thinking](students-name-scaffolding-ai-behaviors.md) — related
+- [US K-12 teachers judge AI companion roles along a gradient from academic to intimate, ranking Romantic Partner most concerning and Tutor or Study Buddy most acceptable](teachers-judge-ai-companions-academic-to-intimate-gradient.md) — related

@@ -17,7 +17,7 @@ sources:
 # The five essential supports framework: five mutually reinforcing organizational dimensions that enable or inhibit improvement in classroom practices
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (25 for, 1 against) · 18 studies (7 associational, 5 qualitative, 2 review, 2 design, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 18 report an effect size · 25 claims rest on one study
+> **Evidence** · 26 claims (25 for, 1 against) · 19 studies (8 associational, 5 qualitative, 2 review, 2 design, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 19 report an effect size · 24 claims rest on one study
 
 ## Description
 The five essential supports framework specifies five school- or center-level organizational subsystems—effective leaders, collaborative teachers, involved families, supportive environment, and ambitious instruction—that operate in strong cooperation to enable or inhibit improvement in classroom practices. The article states that "when one of the essential supports is strengthened, it buttresses the development of the other supports," and that school leadership is theorized to be the catalyst that strengthens the other four. The authors adapt this framework, originally developed for elementary schools by Bryk et al. (2010), to early education settings with revised definitions such as "Effective Instructional Leaders."
@@ -47,7 +47,7 @@ The five essential supports framework specifies five school- or center-level org
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](../claims/engaged-principals-prioritize-teacher-math-learning.md) [+W]
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](../claims/elementary-gpa-strong-5essentials-measures.md) [+W]
-- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]
+- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strength-linked-academic-improvement.md) [+W]
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](../claims/high-school-attendance-strong-5essentials-measures.md) [+W]
 - [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](../claims/school-climate-setting-level-indicator-five-supports.md) [+W]
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]

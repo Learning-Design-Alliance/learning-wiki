@@ -46,3 +46,5 @@ In the cluster comparison from the coherence-analysis classroom study, confused 
 ## Related Claims
 
 - [Cluster analysis of coherence metrics on 98 students revealed five distinct behavior profiles, with engaged and efficient students showing the highest reading scores and significantly higher science gains than all other clusters.](coherence-cluster-five-behavior-profiles-outcomes.md)
+- [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related
+- [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related

@@ -47,3 +47,5 @@ Findings from the DM section of the thematic analysis of 25 teacher interviews. 
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
 - [In TBLT, teachers perceive scaffolding collapse, a shortcut paradox, invisible inequity, and task realism corrosion](tblt-four-ethical-tensions.md) — related
 - [Teachers perceive 20 distinct ethical tensions across five online language-teaching methods in AI-driven classes](twenty-ethical-tensions-five-methods.md) — a broader claim this one bears on
+- [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- [Multiple trends point to a de-professionalization of teachers in both the North and the South](de-professionalization-of-teachers-trends.md) — related

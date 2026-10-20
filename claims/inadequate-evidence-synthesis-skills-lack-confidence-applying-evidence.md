@@ -46,3 +46,4 @@ Second-hand report in the protocol's discussion, attributed to Chandran et al; t
 - [Journal club activities are reported to enhance critical appraisal skills and confidence among pharmacy students](journal-clubs-enhance-critical-appraisal-pharmacy-students.md) — related
 - [Game-based learning improved pharmacy students' literature searching course scores in one reported study](game-based-learning-improves-literature-searching-scores-pharmacy.md) — related
 - The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results — related
+- [Nursing academics fear GenAI overreliance undermines critical thinking, knowledge translation and graduates' readiness for safe clinical practice](genai-overreliance-threatens-clinical-readiness.md) — related

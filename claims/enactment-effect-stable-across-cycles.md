@@ -43,4 +43,6 @@ In the interim-test recall analysis of the experiment, enactment outperformed ve
 
 
 ## Related Claims
--
+- [Learners' JOLs are sensitive to the enactment benefit even when encoding type is manipulated between subjects](jols-sensitive-to-enactment-between-subjects.md) — related
+- [Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence](uwp-underconfidence-shift-action-phrases.md) — related
+- [Enactment impairs resolution of JOLs relative to verbal encoding of action phrases](enactment-impairs-jol-resolution.md) — related

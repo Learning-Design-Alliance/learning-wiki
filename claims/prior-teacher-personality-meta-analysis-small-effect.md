@@ -50,3 +50,5 @@ The review reports this prior meta-analysis as background motivation, citing it 
 - [Teacher extraversion, conscientiousness, emotional stability, and openness are each positively associated with teacher effectiveness, while agreeableness is not a significant correlate](big-five-teacher-effectiveness-meta-analysis.md) — related
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](teacher-personality-burnout-null-findings.md) — related
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
+- [Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis](teacher-personality-effect-heterogeneity.md) — related
+- [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related

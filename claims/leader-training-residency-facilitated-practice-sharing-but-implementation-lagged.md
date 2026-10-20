@@ -55,3 +55,6 @@ Qualitative implementation analysis of grantee activities from December 2012 thr
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [District leaders reported the working group created a valued cross-district network, with 96 percent forming new connections to colleagues](sel-working-group-cross-district-connections.md) — related
+- [The LEAD Partnership delivers professional development on play-based learning and high-quality teacher-student interactions to school leaders and preK and kindergarten teachers](lead-pd-play-based-learning-high-quality-interactions.md) — related
+- [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related

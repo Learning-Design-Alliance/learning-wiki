@@ -45,3 +45,5 @@ The article states this contrast in its conclusion, citing Eggen & Kauchak (2013
 ## Related Claims
 
 - [Disidentification relieves stereotype threat at the cost of loss of motivation and dissociation from school achievement](disidentification-costs-motivation.md)
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on

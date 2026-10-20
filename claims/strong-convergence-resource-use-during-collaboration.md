@@ -43,4 +43,8 @@ Experimental study varying external representation type and collaboration condit
 
 
 ## Related Claims
--
+- [Exploratory analyses find evidence for a relation between aspects of the collaborative process and knowledge convergence](process-aspects-relate-to-knowledge-convergence-exploratory.md) — related
+- [Outcome convergence after collaboration is low, and higher for application-oriented than factual knowledge](outcome-convergence-low-higher-application-knowledge.md) — reports the opposite
+- [Learners converge toward an unknown other's assumptions after seeing the other's answers and confidence, reducing the distance between their own and the partner's answers](convergence-toward-others-assumptions.md) — related
+- [Intersubjective understanding can be achieved through inter-animation of persistently opposed perspectives without convergence](intersubjectivity-amid-persistently-opposed-perspectives.md) — reports the opposite
+- [Content-specific external representations increase appropriate resource use without increasing shared knowledge after collaboration](content-specific-representation-more-appropriate-resources-no-more-sharing.md) — related

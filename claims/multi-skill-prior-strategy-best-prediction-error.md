@@ -45,3 +45,5 @@ The authors compared three strategies for setting initial individualized knowled
 ## Related Claims
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](individualizing-initial-knowledge-improves-prediction.md) — related
 - Training dAFM with individualized student ability estimates yields essentially no prediction benefit over average ability — related
+- [The survey reports, citing Pavlik et al., that no single knowledge tracing model was always the best, and that a better model must consider multiple student features and the learning context.](no-single-knowledge-tracing-model-is-always-best.md) — related
+- [Standard knowledge tracing models in use do not allow individual learning rates or individualized initial knowledge](standard-knowledge-tracing-lacks-individualization.md) — related

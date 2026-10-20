@@ -43,4 +43,5 @@ Experimental study of N = 150 children comparing high and low achievers on metac
 
 
 ## Related Claims
--
+- [All children in the study showed adequate metacognitive processes before and during test taking](all-children-adequate-metacognitive-processes-test-taking.md) — reports the opposite
+- [Before self-scoring, high-performing primary students make more accurate monitoring judgments of math problem performance than low-performing students (unskilled-and-unaware effect)](unskilled-unaware-monitoring-before-self-scoring-math.md) — related

@@ -49,3 +49,5 @@ Simulation results across conditions varying two versus four DIF items and .10 v
 - DIF detection rates for all indices are higher with larger samples, equivalent distributions, fewer DIF items, greater DIF magnitude, and larger a-parameters — related
 - [Test length, focal group distribution, number of DIF items, and direction of DIF had little effect on detection rates](polytomous-dfit-factors-little-effect.md) — related
 - The polytomous-DFIT framework effectively identified DTF and DIF in polytomously scored data under the simulated conditions — related
+- [Item discrimination moderates detection differently by index: NCDIF benefits from high a-parameters only at large DIF magnitude](a-parameter-moderates-dif-detection-by-index.md) — related
+- [Some items positioned close together across booklets were also flagged as DIF, possibly due to Type I error from sampling](close-positioned-items-also-flagged-dif-possible-type-i-error.md) — related

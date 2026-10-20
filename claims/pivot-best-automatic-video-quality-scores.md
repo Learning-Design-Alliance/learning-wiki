@@ -48,3 +48,4 @@ Automatic evaluation using Gemini-2.5-Flash under deterministic decoding scored 
 - [PIVOT achieves the best automatic narration-quality scores on Accuracy and Logical Flow dimensions](pivot-best-narration-quality-scores.md) — related
 - [Each pedagogical verification component contributes to a distinct quality dimension: layout verification most strongly](verification-components-ablation-contributions.md) — related
 - [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
+- [MAIC's script generation function outscores baseline and human script generation on five Likert-rated dimensions](maic-funcgen-outperforms-baselines.md) — related

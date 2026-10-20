@@ -46,3 +46,6 @@ Implementation study drawing on site visits, focus groups, telephone interviews 
 ## Related Claims
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
 - [Perceptions of the sustainability of collaboration efforts beyond the grant period were mixed across grantee sites, and some respondents doubted cooperation alone is a viable mechanism for improving school effectiveness](mixed-sustainability-perceptions-doubts-about-cooperation.md) — related
+- [The NSF REU program was created in 1987 to strengthen the STEM workforce](reu-created-1987-stem-workforce.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — a broader claim this one bears on
+- [A three-college consortium successfully implemented online competency-based programs as planned, meeting most implementation milestones and outcome targets](cbe-consortium-implemented-programs-as-planned.md) — related

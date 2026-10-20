@@ -46,3 +46,4 @@ Welch two-sample t-tests with Holm correction across the three randomly assigned
 - [Baseline coaches produced weaker or absent learning gains: RBF improved only failure count, MIA neither outcome](baselines-weak-or-absent-skill-gains.md) — related
 - [Learners rated the L2C coach higher than both baselines on safety, performance, agency, and satisfaction](l2c-higher-subjective-ratings.md) — related
 - [L2C coaching significantly reduces learners' lap times and failure counts from pre- to post-coaching in FPV drone racing](l2c-within-subject-lap-time-failure-gains.md) — related
+- [The L2C coach adaptively modulates assistance by estimated learner skill and physical context, concentrating intervention around gates](l2c-adaptive-assistance-by-skill-and-context.md) — related

@@ -83,3 +83,4 @@ The review reports two experiments examining robot facial expression valence; be
 ## Related Claims
 - [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](robot-exposure-mixed-direction-autonomy-agency.md) — a broader claim this one bears on
 - [No clear effect of robot anthropomorphism on human autonomy or sense of agency emerges across reviewed studies](anthropomorphism-no-clear-effect-autonomy-agency.md) — related
+- [Different humanlike design dimensions cue distinct classes of anthropomorphism inferences](design-dimensions-cue-distinct-attribution-classes.md) — related

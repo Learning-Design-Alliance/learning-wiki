@@ -54,3 +54,5 @@ This is design-based research reporting on toolkit feasibility and one confounde
 - (none yet linked)
 - [A six-step C/I cycle administered in a sophomore engineering physics class and a graduate physics class guided a group to select a conveyor-belt power-calibration method via a co-constructed decision metric](ci-cycle-metric-guided-solution-quarry-problem.md) — related
 - [Interdisciplinary humanities units improve students' interdisciplinary competences](interdisciplinary-humanities-units-improve-interdisciplinary-competences.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related

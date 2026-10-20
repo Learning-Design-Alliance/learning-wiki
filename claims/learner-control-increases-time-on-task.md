@@ -52,3 +52,5 @@ Log-file analysis of the learner control group (n = 26) showed every participant
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related
+- [Segmentation increases learning time](segmenting-increases-learning-time.md) — related
+- [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related

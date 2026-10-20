@@ -48,3 +48,5 @@ Secondary covariate finding from the mediation model; the article reports the di
 ## Related Claims
 - Male students are significantly more work-avoidant than female students in the project-based course, with no gender differences on the other measures — related
 - Female Korean immigrants showed better psychosocial adjustment than males on diffusion, isolation, and intimacy resolution — related
+- [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related
+- [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](gender-differences-local-judgments-sensitivity-specificity.md) — related

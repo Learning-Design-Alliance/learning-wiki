@@ -45,3 +45,4 @@ The review reports, citing Kashi and Hod, utterance analysis across a semester-l
 ## Related Claims
 - [Time spent in inter-group interactions increased substantially over the semester in the advanced laboratory course](adlab-intergroup-interaction-time-increased-over-semester.md) — related
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
+- [Participant examples support identity reconstruction through academic content](participant-examples-support-identity-reconstruction-through-academic-content.md) — related

@@ -48,3 +48,4 @@ The publication's overview states this as an asserted potential advantage with n
 - [The three test adaptation measures extend the prior work of Reckase, Zu, and Kim (2019)](adaptation-measures-extend-reckase-zu-kim-2019.md) — related
 - [CATs can effectively address the validity threat posed by unmotivated examinees in low-stakes testing](cats-address-unmotivated-examinee-validity-threat.md) — related
 - [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — a narrower finding that bears on this claim
+- [Unmotivated examinees present a major threat to the validity of scores in low-stakes testing programs](unmotivated-examinees-threaten-low-stakes-score-validity.md) — related

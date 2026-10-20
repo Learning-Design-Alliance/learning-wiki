@@ -48,3 +48,4 @@ Analysis of Table V of the SEP Ciencias II work guide: Block 1 lists 5 expected 
 - [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related
 - The 2006 reform concentrated physics, previously taught across three secondary years, into a single second-grade course (Ciencias II) with 6 hours per week, raising teacher concern about fostering interest in one school cycle — related
 - Students receive very little climate change instruction, typically only 1 or 2 hours per year — related
+- [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related

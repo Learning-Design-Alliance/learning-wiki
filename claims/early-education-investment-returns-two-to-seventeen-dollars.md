@@ -48,3 +48,6 @@ The brief reports this economic return range alongside a review of current resea
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
 - Kindergarten math growth from fall to spring is greater in High PreK4 investment states than in Growing or Low states — related
 - Education interventions across early childhood, secondary, higher education, integration, and comprehensive programs generate net taxpayer benefits of approximately $2 to over $10 per dollar invested. — a broader claim this one bears on
+- [Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased](pef-facility-payment-model-costs-and-benefits-both-increased.md) — a narrower finding that bears on this claim
+- [A benefit-cost analysis of DC's Early Childhood Educator Pay Equity Fund finds the initiative to address educator pay gaps has economic value](pef-benefit-cost-analysis-economic-value.md) — a narrower finding that bears on this claim
+- [The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share](pef-fy2024-benefits-93-million-families-largest-share.md) — a narrower finding that bears on this claim

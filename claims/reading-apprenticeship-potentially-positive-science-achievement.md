@@ -45,3 +45,7 @@ WWC synthesis of findings from five studies meeting standards; the science achie
 ## Related Claims
 - [Reading Apprenticeship® has potentially positive effects on grade point average in core subjects, based on one qualifying study](reading-apprenticeship-potentially-positive-gpa.md) — related
 - [TFA teachers show potentially positive effects on science achievement, based on one study](tfa-potentially-positive-science-effects.md) — related
+- [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](reading-apprenticeship-uncertain-life-sciences.md) — related
+- [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](reading-apprenticeship-uncertain-literacy-achievement.md) — related
+- [Reading Apprenticeship® shows uncertain effects on reading comprehension across five studies](reading-apprenticeship-uncertain-reading-comprehension.md) — related
+- [Reading Apprenticeship® shows uncertain effects on social studies achievement in one study](reading-apprenticeship-uncertain-social-studies.md) — related

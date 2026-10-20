@@ -63,3 +63,4 @@ Null result from the same two-museum randomized comparison: question-generator a
 
 ## Related Claims
 - [For Grade 5 students the AI peer elicited more factual statements but far fewer Feelings utterances than the teacher, with no significant differences in Findings or Future](grade5-ai-facts-strong-feelings-weak.md) — related
+- [In the Oztoc museum game-exhibit, learning occurs when visitors explain to each other, and a combination of physical blocks and screen-based representation is needed for deeper scientific and engineering practices](oztoc-physical-blocks-plus-screen-representation-deeper-practices.md) — related

@@ -74,3 +74,7 @@ Post-survey questionnaire results from the think-aloud study. Participants repor
 - [In an 18-participant user study, the system received a 4.00/5 overall recommendation, with hallucination resistance rated 4.44/5 and highest ratings for ease of starting a conversation (4.39/5) and response relevance and accuracy (4.06/5)](user-study-18-participants-recommendation-4-of-5.md) — related
 - [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
+- [Users rate chatbots easy to use with clear, relevant, largely accurate responses, but the intrusive pop-up design is the largest annoyance](chatbot-ux-clear-relevant-popup-annoyance.md) — related
+- [Students rated AISSA's usability as excellent, with an average SUS score of 83.38 from 30 of 46 pilot students](aissa-sus-usability-83.md) — related
+- [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
+- [In a pilot study, the TigerGPT survey chatbot achieved a 75% usability rating and an 81% satisfaction score, with 50% of participants preferring it over traditional surveys](tigergpt-pilot-usability-satisfaction.md) — related

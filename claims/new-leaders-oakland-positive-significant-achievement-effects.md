@@ -45,3 +45,4 @@ The report's summary statement of its central finding on New Leaders-trained pri
 ## Related Claims
 - [Students in New Leaders-led Oakland schools show greater ELA achievement growth than other OUSD students (effect size 0.06)](new-leaders-oakland-ela-growth-es-006.md) — a narrower finding that bears on this claim
 - [Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)](new-leaders-oakland-math-growth-es-016.md) — a narrower finding that bears on this claim
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related

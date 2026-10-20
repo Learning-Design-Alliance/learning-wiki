@@ -44,3 +44,5 @@ The brief reports this from a 2022 UC Berkeley study (Vincent et al.) and, separ
 
 ## Related Claims
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
+- [Most LEAs projected sufficient TK classroom space by 2025–26, though facilities remained a top implementation challenge for about one fourth of LEAs](tk-facilities-progress-and-challenge.md) — related
+- [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related

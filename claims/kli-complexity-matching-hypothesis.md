@@ -65,3 +65,6 @@ The article presents this as a specific instance of the complexity-matching hypo
 
 - [Students are significantly worse at translating two-step algebra story problems than matched one-step problems, implicating a hidden integrative knowledge component](integrative-kc-two-step-algebra-translation.md)
 - [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md)
+- [Multiple-hypothesis strategies improve performance only when simulation complexity is low](multiple-hypothesis-strategy-low-complexity.md) — related
+- [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related
+- [Model progression benefits learning only in sufficiently complex simulations; in a simple domain it was less efficient than full complexity from the start](model-progression-complexity-boundary.md) — related

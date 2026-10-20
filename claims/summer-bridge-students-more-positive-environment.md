@@ -45,3 +45,4 @@ Based on student surveys collected during both the school year and summer 1999 p
 ## Related Claims
 - [Summer Bridge produced only small sustained effects: slightly larger two-year gains than comparable non-attendees, without changing learning trajectories](summer-bridge-small-sustained-effects.md) — related
 - [Most Chicago teachers and principals reported that Summer Bridge and Lighthouse had positive effects on participating students](cps-educators-positive-on-summer-bridge-lighthouse.md) — related
+- [Summer Bridge produced short-term test-score gains and allowed more students to meet promotion cutoffs, particularly among sixth and eighth graders](summer-bridge-short-term-test-score-gains.md) — related

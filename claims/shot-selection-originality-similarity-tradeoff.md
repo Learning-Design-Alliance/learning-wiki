@@ -64,3 +64,4 @@ Univariate histogram of cosine similarity for all last-round items under greedy 
 ## Related Claims
 - [CPIG's iterative exemplar selection consistently improves the originality of LLM responses to generated CPS items by the last round of item generation](cpig-improves-response-originality-over-iterations.md) — related
 - [Uniform (redundant) contexts yield higher semantic similarity ratings than diverse contexts](redundant-contexts-improve-semantic-representations.md) — related
+- [GNN training homogenizes concept representations, with 62.7% of prerequisite pairs becoming increasingly similar during DGCPL training](gnn-training-homogenizes-concept-representations.md) — related

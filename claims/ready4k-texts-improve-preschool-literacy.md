@@ -52,3 +52,5 @@ Randomized controlled trial with the San Francisco Unified School District durin
 - [Parent Coaching Outperforms Information Only](parent-coaching-outperforms-information-only.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - An online individualized instruction program was highly effective in improving literacy skills in preschool through third grade — related
+- [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related
+- [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md) — related

@@ -67,3 +67,6 @@ Single-turn pedagogical quality analysis across all evaluated models and subject
 - [Answer-revealing tutor turns are followed by less independent student work on every tutor base, a deterministic judge-invariant result](leakage-reduces-next-turn-independence-all-bases.md) — related
 - [Preference explanations favoring LearnLM more often cite staying on topic, challenging the learner, and not giving away answers](learnlm-preference-explanation-themes.md) — related
 - [Model scale alone does not induce Socratic behavior: unaligned Qwen-72B achieves 0% scaffolding effectiveness and 96.7% keyword leakage](scale-alone-does-not-induce-socratic-behavior.md) — related
+- [Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%](multi-turn-dialogue-amplifies-tutor-harm.md) — related
+- [For revealing_answer, pedagogically undesired feedback achieves higher SuccScore in both semesters, suggesting success via copying revealed answers](revealing-answer-undesired-feedback-higher-succscore.md) — related
+- [AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance](ai-use-independent-of-science-subject.md) — related

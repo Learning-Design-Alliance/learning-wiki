@@ -44,3 +44,6 @@ One-way MANOVA with with/without LD as the independent variable (48 students wit
 
 ## Related Claims
 - [In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them](auditory-preference-predicts-achievement-beyond-gender-ld.md) — related
+- [Girls exhibited significantly higher learning preferences than boys for visual means and agency support, with no significant gender differences for auditory or sensorimotor modalities](girls-prefer-visual-and-agency-support.md) — related
+- [Middle school science students preferred all four learning modalities, with significantly higher preference for visual and sensorimotor means than for auditory means and agency support](visual-sensorimotor-preferred-over-auditory-agency-science.md) — related
+- [Science achievements correlated significantly and positively with preferences for visual, auditory, and agency-support means, but not sensorimotor means, with low coefficients](achievement-correlates-visual-auditory-agency-preferences.md) — related

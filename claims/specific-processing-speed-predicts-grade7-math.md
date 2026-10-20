@@ -47,3 +47,4 @@ Hierarchical regression analysis of 212 junior high students tested at the start
 - [Specific processing speed generalises beyond mathematics, significantly predicting Chinese and English achievement in both Grade 7 and Grade 9](specific-processing-speed-generalises-to-all-academic-achievements.md) — related
 - [Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
 - [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related
+- [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related

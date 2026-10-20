@@ -44,3 +44,5 @@ Frequency analysis of the 42 studies in the systematic review coded each study f
 
 ## Related Claims
 - [At the facet level, visualizing data is the most prevalent facet and co-occurs with applying statistics and synthesizing results](visualizing-data-most-prevalent-facet-associations.md) — related
+- [Data practice emphasis varies across science disciplines, with environmental science and biology dominating the literature](data-practices-vary-by-discipline.md) — related
+- [Data type shapes practice emphasis: first-hand data aligns with problem understanding and experiment design, second-hand data with statistical analysis and synthesis](data-type-first-hand-second-hand-practice-alignment.md) — related

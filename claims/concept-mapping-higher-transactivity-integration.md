@@ -43,4 +43,8 @@ Chi-square analysis of coded co-construction modes in the 10-dyad corpus; integr
 
 
 ## Related Claims
--
+- [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](summary-writing-more-utterances-more-off-analysis.md) — related
+- [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](concept-mapping-more-historical-metahistorical-concepts.md) — related
+- [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](semiempty-concept-mapping-more-causal-explanation-argumentation.md) — related
+- [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related
+- [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related

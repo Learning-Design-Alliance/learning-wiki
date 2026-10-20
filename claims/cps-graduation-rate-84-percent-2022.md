@@ -50,3 +50,5 @@ Cohort analysis of all CPS high school students, including charter and Options s
 - [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related
 - Illinois's universal FAFSA policy produced a mixed first-year result: submissions rose 0.8% while completions fell 0.2% — related
 - University High's 4-year graduation rate rose from 36% in 2022 to 55% in 2023 and was maintained in 2024 — a narrower finding that bears on this claim
+- [The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort](cps-graduation-rate-62-to-83-2020.md) — related
+- [Peñasco's high school graduation rate rose above 90% versus 76% statewide, and K-2 students outpaced state peers on formative assessments](penasco-graduation-rate-and-k2-formative-gains.md) — related

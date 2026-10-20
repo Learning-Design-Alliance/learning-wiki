@@ -48,3 +48,5 @@ Methodological argument based on CPS enrollment and retention records: in 1996 a
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
 - [The eighth-grade promotion gate had the largest impact on ninth-grade enrollment, with almost 2,900 fewer students advancing in fall 1998](promotion-gate-largest-impact-ninth-grade-enrollment.md) — related
 - [The five-year dropout rate for the first cohort fully subject to the CPS promotion policy (1995) continued the slight downward trend, but pre-age-18 patterns do not clearly indicate a change](promotion-policy-cohort-five-year-rate-continued-trend.md) — related
+- [Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent](chicago-gate-retention-surge.md) — related
+- [Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little](off-schedule-earlier-but-stable-by-age-16.md) — related

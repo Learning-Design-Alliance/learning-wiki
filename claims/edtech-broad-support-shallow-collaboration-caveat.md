@@ -63,3 +63,4 @@ Survey item on edtech's effect on collaboration found "45 percent of teachers sa
 
 ## Related Claims
 - [A strong majority of surveyed edtech products agree that products rooted in learning sciences research have the greatest impact on learning](survey-products-rooted-in-research-greatest-impact.md) — related
+- [Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech](teacher-practice-experience-over-research-edtech-link.md) — related

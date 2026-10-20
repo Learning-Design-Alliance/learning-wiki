@@ -46,3 +46,7 @@ The review reports, citing Tzirides et al. (2024), graduate-level seminars with 
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related
+- [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — a broader claim this one bears on
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — a broader claim this one bears on
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
+- [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — related

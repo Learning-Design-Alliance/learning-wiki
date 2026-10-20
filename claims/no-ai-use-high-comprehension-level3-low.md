@@ -47,3 +47,4 @@ Descriptive analysis (RQ3) plotting average instructor-assessed code comprehensi
 - [Team code comprehension dropped in lec09 when Implementation-phase AI usage peaked, and recovered in lec10 following instructor intervention](comprehension-dropped-lec09-recovered-after-intervention.md) — related
 - [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — reports the opposite
 - Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related
+- [Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms](low-reliance-outperformed-high-reliance-midterms.md) — related

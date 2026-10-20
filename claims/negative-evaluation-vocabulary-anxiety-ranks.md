@@ -50,3 +50,4 @@ Same Shiraz questionnaire survey (n=154); Table 1 reports fear of being negative
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
 - [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [The authors claim that making teachers' own mistakes, struggles, and fears central to the curriculum lessens students' fear of making mistakes in a new endeavor](teacher-self-disclosure-normalizes-mistakes.md) — related

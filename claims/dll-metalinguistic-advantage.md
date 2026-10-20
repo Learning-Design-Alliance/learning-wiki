@@ -49,3 +49,5 @@ The review reports two metalinguistic-task studies: Foursha-Stevenson and Nicola
 ## Related Claims
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
 - [Fluent bilingualism is linked to metalinguistic awareness of how the two languages relate](bilingual-fluency-enhances-metalinguistic-awareness.md) — related
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](ses-moderates-bilingual-executive-function-results.md) — related
+- [Young DLLs have two separate phonological and grammatical language systems early in life](dlls-two-separate-language-systems-early.md) — related

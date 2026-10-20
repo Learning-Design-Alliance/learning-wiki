@@ -48,3 +48,8 @@ Descriptive breakdown of absence categories (Figure 2) for sixth and ninth grade
 - [Multiple dimensions of school climate were associated with lower school absences, with stronger relationships after the pandemic than before](school-climate-associated-with-lower-absences-post-pandemic.md) — related
 - Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
 - Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason — related
+- [Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years](absence-achievement-link-persists-post-pandemic.md) — related
+- [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [Students in foster care are more than twice as likely to be chronically absent and more than four times as likely to be suspended as non-foster students](foster-care-absenteeism-suspension-rates.md) — related
+- [Schools varied considerably in how much their absence rates increased after the pandemic, with some showing little or no change](schools-varied-in-absence-rate-increases.md) — related
+- [In Lynwood Unified, chronic absence fell from 37.1% to 24.5% and average daily attendance rose from 87.4% to 91.5% during the first two years of districtwide community schools implementation.](lynwood-chronic-absence-decline-community-schools.md) — related

@@ -49,3 +49,4 @@ The essay reports, citing Mayer and Moreno (2003), deKoning et al. (2009), and I
 - [Matching modality by conveying complementary information through auditory and visual channels increases retention, transfer, and engagement](modality-matching-complementary-channels-video.md) — related
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
 - [In a multimedia animation, participants focused more on signalled objects and detected fewer changes in other screen areas](signalling-focuses-attention-reduces-change-detection-elsewhere.md) — related
+- [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — related

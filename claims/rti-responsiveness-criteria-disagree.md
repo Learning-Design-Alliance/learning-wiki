@@ -45,3 +45,8 @@ The review states the four dimensions on which responsiveness methods differ (st
 ## Related Claims
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — related
 - [Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile](dd-diagnostic-cutoff-variation.md) — a narrower finding that bears on this claim
+- [End-of-Grade-1 oral reading fluency status predicts later reading comprehension better than growth slope, though slope added to first-grade screening accuracy in one study](orf-status-beats-slope-for-prediction.md) — related
+- [Inadequate responders were more likely to have identified disabilities and limited English proficiency than adequate responders or typical readers](inadequate-responders-demographic-disproportionality.md) — related
+- [Both inadequate responder groups show more teacher-rated attention problems and lower self-reported self-efficacy than typical readers](inadequate-responders-attention-self-efficacy-deficits.md) — related
+- [Inadequate responders to fourth-grade reading intervention show lower verbal knowledge and listening comprehension than adequate responders and typical readers](inadequate-responders-lower-oral-language-than-adequate.md) — related
+- [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — related

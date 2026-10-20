@@ -68,3 +68,4 @@ End-of-year AP exam outcomes for signal recipients in the regression discontinui
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](ability-signal-one-more-ap-course.md) — related
 - [The evidence base for offering a college-ready curriculum is rated low, with mixed findings on rigorous curricula and positive findings on AP course taking](college-ready-curriculum-low-evidence.md) — related
 - [Most CTE students also participated in college-level coursework, though CTE students had slightly lower AP participation](cte-students-college-coursework-participation.md) — related
+- [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — related

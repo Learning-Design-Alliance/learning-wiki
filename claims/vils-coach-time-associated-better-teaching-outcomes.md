@@ -50,3 +50,7 @@ Digital Promise researchers' analysis of three surveys administered across the 2
 - Sustained administrator involvement in coaching programs is associated with less teacher stress, better perceived coaching skills, and more improvement in teaching practices — related
 - [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](dlp-multiple-cycles-greater-progress.md) — a narrower finding that bears on this claim
 - [Coached teachers report greater impact of their technology use on student engagement and learning](coaching-increases-perceived-itu-impact-engagement-learning.md) — related
+- [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](formative-assessment-training-improves-information-on-results.md) — related
+- [Monthly external coaching from Digital Promise held Design Teams accountable and generated ideas no one else in the room had](external-coaching-accountability-idea-generation.md) — related
+- [A majority of surveyed teachers (61%) reported that participating in the Verizon Innovative Learning Schools program improved their job satisfaction](vils-teachers-61-percent-improved-job-satisfaction.md) — related
+- [Dynamic Learning Project research found teachers who worked with edtech coaches used technology more frequently and felt more confident than peers who did not](dlp-coaching-technology-use-confidence.md) — a broader claim this one bears on

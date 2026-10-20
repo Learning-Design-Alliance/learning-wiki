@@ -64,3 +64,4 @@ Field-level audit of the record export across all resolution paths. The article 
 ## Related Claims
 - [Peer answering in the hybrid support system was fast where it occurred: 70.3% of peer-answered queries closed within one hour, against 1.9% of administrator-answered and 14.8% of script-closed queries](peer-answering-fast-70-percent-within-one-hour.md) — related
 - [Corpus reuse in the deployed support system is concentrated on a single process step: three certificate/offer-letter entries account for 56.8% of 871 resolutions, with a Gini of 0.586 across entries](corpus-reuse-concentrated-single-process-step-gini-0-586.md) — related
+- [Only 8.0% of queries reaching a person duplicated existing corpus content, suggesting the knowledge base was already well used](corpus-coverage-8-percent-person-resolved-queries.md) — related

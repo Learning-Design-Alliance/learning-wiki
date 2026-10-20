@@ -44,3 +44,5 @@ Descriptive reading of performance-versus-age curves for native speakers in the 
 
 ## Related Claims
 - [Ultimate attainment is similar for learners who begin by 10-12 years of age and declines continuously thereafter](ultimate-attainment-stable-until-10-12-years.md) — related
+- [Ultimate attainment and optimal-period length do not reliably differ across major native-language groups, with slightly more evidence for differences in learning curves](native-language-group-differences-small-unreliable.md) — related
+- [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related

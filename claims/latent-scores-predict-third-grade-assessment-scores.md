@@ -47,3 +47,4 @@ Predictive analysis linking Chicago K-2 records to third grade MAP, PARCC/IAR, a
 - [Post-pandemic, K-2 scores predict third grade ELA outcomes with smaller but still moderate-to-large correlations (0.30-0.64 for grades; 0.47-0.81 for IAR)](post-pandemic-k2-scores-still-predict-third-grade-outcomes.md) — related
 - [Students with higher spring reading assessment scores in kindergarten through grade 3 also had higher KEI and grade 3 PSSA ELA scores](spring-reading-assessments-align-kei-pssa.md) — related
 - [The overall Kindergarten Readiness Assessment score predicts grade 3 achievement about as well as combinations of its subscores](kra-overall-score-predicts-grade3-as-well-as-subscores.md) — related
+- [Kindergarten entry scores predict grade 3 reading proficiency: Philadelphia kindergarteners with higher KEI scores in 2014/15 had higher grade 3 PSSA ELA scores](higher-kei-scores-predict-higher-grade3-ela-pssa.md) — related

@@ -46,3 +46,4 @@ A benchmarking analysis of the xOrder method on the institution's data showed in
 - [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — related
 - [Two of six evaluated interventions directed corrections toward already-advantaged groups because disadvantage was operationalized using group size](group-size-disadvantage-favors-advantaged-groups.md) — related
 - [Runtime GenUI adaptation is too late, too costly, and accuracy-risky to be equitable at scale for learners needing non-default representations](runtime-genui-too-late-costly-inequitable.md) — related
+- [When demographic groups have different base rates, no method can satisfy calibration, equalized odds, and statistical parity simultaneously](impossibility-fairness-metrics-base-rates.md) — related

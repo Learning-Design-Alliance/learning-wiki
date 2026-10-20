@@ -62,4 +62,7 @@ Students who answered correctly dwelled 42.6% (SD 12.8) on the statement vs 38.3
 
 
 ## Related Claims
--
+- [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](no-overall-multimedia-effect-vector-calculus.md) — related
+- [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](graph-attention-away-from-statement.md) — related
+- [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
+- [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related

@@ -47,3 +47,4 @@ Token counts from coding all 13 participants' video responses in V-Note software
 - [Scenario type (social distance and power differential) did not appear to affect the overall number of nonverbal devices used](scenario-type-no-effect-device-count.md) — related
 - [Participants showed little metapragmatic awareness of their own nonverbal attention-getting devices in immediate recall](limited-metapragmatic-awareness-nonverbals.md) — related
 - [Mobile-application TE-DCTs capture nonverbal attention-getters in the large majority of both L1 and L2 responses across all scenarios](te-dct-mobile-captures-nonverbal-attention-getters.md) — a broader claim this one bears on
+- [Effects of agent nonverbal behavior depend on the task: facial expressions were valuable for attitudinal learning but detrimental for procedural learning](nonverbal-effects-depend-on-task-type.md) — related

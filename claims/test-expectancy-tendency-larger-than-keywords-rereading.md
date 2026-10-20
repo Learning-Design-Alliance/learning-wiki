@@ -50,3 +50,6 @@ Pairwise comparisons with Bonferroni correction (corrected alpha = .002) in the 
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [The omnibus ANOVA on total QM score did not reach conventional significance, though a Friedman test suggested an overall difference with no significant pairwise Wilcoxon comparisons](total-qm-score-omnibus-nonsignificant-friedman-significant.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md) — related
+- [Generating keywords after a delay increases relative judgment accuracy compared with no keyword generation, replicating the keyword effect with a new sample and new materials](keyword-effect-delayed-generation-relative-accuracy-replication.md) — related
+- [Generating delayed keywords does not reduce bias in comprehension judgments](keyword-generation-does-not-reduce-bias.md) — related

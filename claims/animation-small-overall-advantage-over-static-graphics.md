@@ -49,3 +49,11 @@ Random-effects meta-analysis of 61 primary studies (N = 7036) comparing animated
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)](modality-effect-holds-middle-school-electricity.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — related
+- [Learning from a single static picture is significantly more successful than learning from an animation or four pictures when identifying spatial arrangements of joined links](single-picture-beats-animation-for-spatial-arrangements.md) — reports the opposite
+- [No media effect for process knowledge: animation did not improve learning of dynamic content](no-media-effect-process-knowledge.md) — reports the opposite
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite
+- [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md) — a narrower finding that bears on this claim
+- [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — a narrower finding that bears on this claim
+- [For transfer, only learners studying collaboratively benefited from animated over static graphics](collaboration-enables-transfer-benefit-of-animation.md) — related

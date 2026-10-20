@@ -46,3 +46,5 @@ Written examination record from the KT1 course: "The 27 students who took the ex
 - Most non-STAR studies could not be used in the synthesis because of high risk of bias, chiefly confounding — related
 - [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related
 - Propensity score stratification using multilevel models reduces selection bias from confounding variables and improves accuracy of charter school effect estimations — related
+- [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
+- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related

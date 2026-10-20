@@ -45,3 +45,5 @@ Editorial argument (critical essay, no empirical data reported) dismantling the 
 ## Related Claims
 - [Contrary to claims that AI will automatically engender a more democratic, equal, and sustainable world, the editorial argues these technologies tend to exacerbate existing inequalities, environmental degradation, and labour precarity](ai-exacerbates-inequalities-environmental-degradation.md) — a broader claim this one bears on
 - [The editorial argues AI will not have a negligible impact on the job market: automation driven by GAI is reshaping work and deepening economic disparities](gai-automation-reshaping-work-deepening-disparities.md) — related
+- [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related

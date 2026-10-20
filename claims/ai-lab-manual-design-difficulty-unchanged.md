@@ -45,3 +45,4 @@ Postsurvey item on perceived difficulty showed no change from presurvey. Intervi
 ## Related Claims
 - [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
 - [AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course](ai-lab-manual-design-increased-confidence-experimental-design.md) — related
+- [Six of eight student groups successfully completed experiments according to their AI-assisted lab manuals](six-of-eight-groups-completed-experiments.md) — related

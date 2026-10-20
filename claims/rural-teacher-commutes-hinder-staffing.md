@@ -78,3 +78,7 @@ Site visit data on SIG-funded incentives across the rural schools. Administrator
 - [Rural Nebraska districts' middle school CTE offerings are limited by teacher availability, with one CTE teacher often covering both middle grade and high school courses](rural-districts-cte-limited-by-teacher-availability.md) — related
 - [Strategic staffing freed insufficient funds to sustain $20,000 stipends in some smaller and rural districts](strategic-staffing-insufficient-rural-districts.md) — related
 - [School administrators underestimate parental demand for computer science education and face resource and prioritization barriers](administrators-underestimate-cs-demand-barriers.md) — a broader claim this one bears on
+- [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related
+- [Smaller rural districts tend to outperform larger ones, but large geographic spread limits their capacity to manage turnaround efforts](small-rural-districts-outperform-larger-but-distance-limits-turnaround-capacity.md) — related
+- [Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts](four-day-week-teacher-recruitment-qualitative.md) — related
+- [Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs](few-sig-schools-staffing-strategies-ell-teacher-capacity.md) — related

@@ -43,4 +43,6 @@ The editorial reports, citing Mullins, Rummel and Spada, a study of collaborativ
 
 
 ## Related Claims
--
+- [Students transferred cube-based permutation reasoning to permutation tasks not involving cubes](cube-reasoning-transfers-to-non-cube-permutation-tasks.md) — related
+- [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
+- [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related

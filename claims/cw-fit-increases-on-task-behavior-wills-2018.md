@@ -47,3 +47,4 @@ Multisite randomized replication trial rated Meets WWC Group Design Standards Wi
 - [In a cluster randomized trial, CW-FIT classes showed a lower percentage of time displaying disruptive behaviors than comparison classes over six months](cw-fit-reduces-disruptive-behaviors-wills-2016.md) — related
 - [CW-FIT has positive effects on student behavior, with strong WWC evidence across six studies in kindergarten through grade 10](cw-fit-positive-effects-student-behavior.md) — a broader claim this one bears on
 - [CW-FIT has positive effects on teacher practice, with promising WWC evidence across five studies in prekindergarten through grade 7](cw-fit-positive-effects-teacher-practice.md) — related
+- [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related

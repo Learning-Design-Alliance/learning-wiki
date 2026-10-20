@@ -46,3 +46,4 @@ Descriptive statement from the report's overview about the comparison structure 
 - [School survey reports compare each school's responses to demographically similar schools and to the system as a whole](survey-reports-compare-demographically-similar-schools.md) — possibly the same claim (merge candidate)
 - [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — possibly the same claim (merge candidate)
 - [The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools](2005-ccsr-survey-participation-454-schools.md) — related
+- [Survey snapshots and trend graphs track school development measure responses from 1994 to 2003](survey-response-trends-1994-2003-report-format.md) — related

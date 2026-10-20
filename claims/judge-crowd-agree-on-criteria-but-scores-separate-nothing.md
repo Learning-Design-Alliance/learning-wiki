@@ -48,3 +48,5 @@ Prevalence-versus-salience analysis of the 320 preliminary videos comparing the 
 - [Current AI instructional-video systems score higher on content dimensions (Accuracy, Logic) than on delivery dimensions (Engagement, Adaptability), with Adaptability lowest](ai-video-systems-content-stronger-than-delivery.md) — related
 - [Only the challenge winner clearly beat the organizer baselines; most shortlisted systems have not yet improved on a commercial generator or well-chosen human-made video](only-winner-beat-organizer-baselines.md) — related
 - [Independent LLM evaluators agreed on agent rankings but differed markedly in leniency, with ceiling effects compressing between-agent discrimination](llm-evaluator-leniency-ceiling-effects.md) — related
+- [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](llm-judge-small-incremental-differences-ceiling.md) — related
+- [Systems adapt to the specified learner persona in ways human raters can perceive, scoring well above chance in persona identification](persona-adaptation-perceptible-to-raters.md) — related

@@ -49,3 +49,5 @@ Classroom tests with the LAVAC video sequencer's sequential listening mode, repo
 ## Related Claims
 - Visible sound-wave displays led students to speak louder and notice sounds they would otherwise have missed — related
 - [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
+- [Recording and listening to his own read-alouds helped the student read more accurately and comprehend more than following a teacher's read-aloud](self-recorded-reading-playback-improved-accuracy-case.md) — related
+- [The design of video modeling examples strongly affects training success: screen-recording examples were ineffective while writing-out examples were effective](modeling-example-design-affects-training-success.md) — related

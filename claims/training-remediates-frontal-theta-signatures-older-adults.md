@@ -48,3 +48,4 @@ EEG recorded pre- and post-training while participants performed a neural assess
 - [Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training](multitasking-training-transfers-working-memory-sustained-attention.md)
 - [Older adults show reduced midline frontal theta power and frontal–posterior coherence relative to younger adults regardless of single- or multitasking condition](older-adults-baseline-theta-deficit-versus-younger.md)
 - [Training-induced increases in midline frontal theta power correlate with preserved multitasking gains at 6 months and with sustained attention improvement](theta-power-correlates-preserved-gains-attention.md)
+- [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md) — related

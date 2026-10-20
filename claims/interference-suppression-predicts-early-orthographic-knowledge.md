@@ -46,3 +46,5 @@ Hierarchical linear regression on the whole sample with the early orthographic k
 - [Early expressive vocabulary predicts emergent literacy outcomes only until inhibitory control measures are added, after which it is no longer significant](early-vocabulary-nonsignificant-once-inhibition-added.md) — related
 - [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](fish-task-correlates-emergent-literacy-circle-does-not.md) — related
 - [In toddlerhood, interference suppression correlates with expressive vocabulary after controlling for age, whereas response inhibition does not](toddler-interference-suppression-correlates-vocabulary.md) — related
+- [ERP interference suppression amplitude predicts mathematics grades even after controlling for fluid intelligence](erp-interference-suppression-predicts-math-after-intelligence-control.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related

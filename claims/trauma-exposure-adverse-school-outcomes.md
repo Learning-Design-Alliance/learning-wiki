@@ -74,3 +74,5 @@ The review reports, citing Perfect et al. (2016), a systematic review of school-
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related
 - [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related
+- [Children exposed to early adversity are at increased risk for a broad range of developmental difficulties affecting both cognitive and emotional adjustment](early-adversity-increases-developmental-risk-cognitive-emotional.md) — related
+- [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related

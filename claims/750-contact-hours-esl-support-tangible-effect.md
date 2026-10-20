@@ -46,3 +46,4 @@ The author reports from her program of work with ESL learners that "750 contact 
 - [A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin](vocabulary-critical-mass-10000-12000-words.md) — related
 - [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related
 - [Progressively larger treatment estimates among intervention students crossing engagement thresholds are hypothesis-generating only](medly-engagement-threshold-estimates-hypothesis-generating.md) — related
+- [The probability of learning an unknown word from a single natural-context exposure is roughly .05 to .11, supporting an extrapolated 750 to 5,500 words learned per year from reading](one-exposure-context-learning-probability-extrapolation.md) — related

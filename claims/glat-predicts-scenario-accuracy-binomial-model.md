@@ -45,3 +45,5 @@ Binomial generalized linear model with logit link in the RQ3 results, holding se
 ## Related Claims
 - [AI literacy shows a small positive association with ethical scenario classification accuracy](ai-literacy-small-positive-association-ethical-judgment.md) — possibly the same claim (merge candidate)
 - [AI literacy is the strongest predictor of reliance type: each unit increase in AI literacy is associated with roughly a tenfold reduction in the odds of Dependent versus Strategic classification](ai-literacy-predicts-reliance-type-membership.md) — related
+- [Academic status shows a significant overall association with classification accuracy, but sex does not; individual status contrasts are exploratory](academic-status-omnibus-sex-null-ethical-judgment.md) — related
+- [Undergraduate students classify common GenAI ethical scenarios with high accuracy, with a pronounced ceiling effect](undergraduates-high-accuracy-genai-ethical-scenarios.md) — related

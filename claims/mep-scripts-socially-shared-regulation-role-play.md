@@ -45,3 +45,5 @@ Behavioral trace data and social network analysis over eight role-playing game i
 ## Related Claims
 - [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](peer-prompts-argumentation-consensus-efficacy.md) — related
 - [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — a broader claim this one bears on
+- [Symbiosis theory-based role design significantly enhances the quality of collaborative knowledge construction in human-GAI online collaboration](role-design-enhances-collaborative-knowledge-construction-quality.md) — related
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md) — a broader claim this one bears on

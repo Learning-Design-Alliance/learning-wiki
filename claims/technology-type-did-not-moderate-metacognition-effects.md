@@ -44,3 +44,5 @@ Exploratory univariable three-level moderator analysis across eight moderators; 
 
 ## Related Claims
 - [Instructional approach, AI technology type, assessment instrument, educational level, and publication year do not significantly moderate AI literacy intervention effects](five-moderators-non-significant-ai-literacy.md) — related
+- [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
+- [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related

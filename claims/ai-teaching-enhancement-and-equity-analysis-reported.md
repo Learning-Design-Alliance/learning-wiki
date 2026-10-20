@@ -45,3 +45,5 @@ The review reports, citing Bosman et al. (2023), that curriculum design tools em
 ## Related Claims
 - The review identifies scarcity of long-term impact assessment, limited empirical validation of integrity interventions, and missing equity-focused policy research as key research gaps — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [AI integration in online learning raises interconnected challenges of academic integrity, equity and bias, ethics and privacy, and institutional policy gaps](ai-online-learning-challenges-integrity-equity-privacy-policy.md) — related
+- [Both prior performance flags and the machine learning algorithm are less accurate when predicting outcomes for students who are Black](ews-and-algorithm-less-accurate-black-students.md) — related

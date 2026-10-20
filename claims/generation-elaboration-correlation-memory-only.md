@@ -45,3 +45,7 @@ Pearson correlational analyses across tasks found generation and elaboration spe
 ## Related Claims
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
 - [Specificity measures correlate more strongly across tasks for older adults than younger adults, suggesting semantic strategy reliance](specificity-correlations-stronger-older-adults.md) — related
+- [Older adults produce fewer internal details than younger adults during elaboration across both experiments](aging-fewer-internal-details-elaboration.md) — related
+- [Older adults produced more non-specific responses than younger adults only in the memory experiment, not in problem solving](age-nonspecific-responses-memory-only.md) — related
+- [Older adults produced more external details than younger adults only in the memory experiment, not in problem solving](age-external-details-memory-only.md) — related
+- [Older adults describe less effective problem-solving solutions, producing fewer relevant steps than younger adults](aging-fewer-relevant-steps-meps.md) — related

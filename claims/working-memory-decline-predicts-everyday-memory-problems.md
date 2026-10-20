@@ -48,3 +48,4 @@ Adjusted multilevel analysis of 103 MIDUS/BOLOS participants with ten-year worki
 - [Verbal memory performance declines with age in the full sample, significantly at the one-week delay](verbal-memory-declines-with-age-t3.md) — related
 - [Lower general perceived control predicts more everyday memory problems, but weekly within-person control fluctuations do not](general-control-predicts-memory-problems-weekly-does-not.md) — related
 - [Low weekly perceived control predicts more memory problems among adults with greater memory decline and low SOC strategy use (three-way interaction)](soc-buffers-low-control-effects-under-memory-decline.md) — related
+- [Lower weekly perceived control correlates with more everyday memory problems at the within-person level](weekly-control-correlates-with-memory-problems.md) — related

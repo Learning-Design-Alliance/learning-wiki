@@ -72,3 +72,4 @@ One-day follow-up with 87% retention; attrition did not differ by condition (χ�
 - [Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later](viewing-ai-example-as-effective-as-ai-practice.md) — related
 - [AI-generated rewrites of cover letters were rated higher for writing quality and more likely to secure hypothetical interviews than rewrites by professional human editors](ai-edits-higher-quality-than-editor-edits.md) — related
 - [Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions](no-illusion-of-mastery-from-ai-practice.md) — related
+- [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related

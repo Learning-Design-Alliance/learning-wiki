@@ -60,3 +60,8 @@ The essay reports, citing Zhang et al. (2006), Guo et al. (2014), and Ibrahim et
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
+- [Students pause the video after a few sequences to consult a segment menu and judge workload by segment count](students-pause-video-to-view-segment-menu.md) — related
+- [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
+- [Questions interpolated between video lecture segments improve subsequent test performance and reduce mind wandering](interpolated-questions-improve-video-learning.md) — related
+- [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related

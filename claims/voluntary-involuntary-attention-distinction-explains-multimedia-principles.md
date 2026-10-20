@@ -43,4 +43,9 @@ Theoretical mapping argument: the article links involuntary attention (stimulus 
 
 
 ## Related Claims
--
+- [Students who were not surveyed for the study did not respond to the ability signal](non-surveyed-students-did-not-respond-to-signal.md) — related
+- [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
+- [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
+- [Signaling Improves Learning](signaling-improves-learning.md) — related

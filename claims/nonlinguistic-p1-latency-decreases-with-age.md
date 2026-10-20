@@ -47,3 +47,5 @@ Cross-sectional ERP study of five age groups (twenty 3–5-year-olds, nineteen 1
 - [Linguistic-probe late-N1 latency decreases with age, unlike the stable early-N1 latency for nonlinguistic probes](linguistic-late-n1-latency-decreases-with-age.md) — related
 - [Attention increases nonlinguistic-probe P1 amplitude in adults and 13-year-olds, but modulation is weak or absent in 16-year-olds](nonlinguistic-p1-attention-modulation-varies-by-age.md) — related
 - [Nonlinguistic-probe P2 latency increases with age from 10 years into adulthood](nonlinguistic-p2-latency-increases-with-age.md) — related
+- [Antisaccade performance follows a curvilinear developmental trajectory best fit by an inverse function, with intra-subject latency variability decreasing with age](antisaccade-curvilinear-inverse-trajectory.md) — related
+- [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related

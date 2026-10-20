@@ -45,3 +45,4 @@ Rubric-criterion breakdown of the 179 responses. The article reports "approximat
 ## Related Claims
 - [AlgoRAG answered all 179 TCS exam-style questions successfully with a mean response time of 38.0 seconds and a pedagogical quality score of 0.7620](algorag-100-success-179-tcs-questions.md) — a broader claim this one bears on
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
+- [Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)](theoretical-quality-correlates-benchmark-performance.md) — related

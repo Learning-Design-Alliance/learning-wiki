@@ -45,3 +45,9 @@ Attitudes measured on a seven-point scale in the same three-group experiment; al
 
 - [Elaborative Encoding Improves Retention](generative-processing-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
+- [In one accounting classroom experiment, self-generated elaboration scored marginally above instructor-assisted elaboration on intellectual skills (p = .06, omnibus test not significant) and no higher than a combined strategy](self-generated-elaboration-improves-intellectual-skills.md) — related
+- [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
+- [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
+- [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related
+- [A responsive PAL does not improve learner attitudes toward the agent, and competency and interaction type show no significant interaction](responsive-pal-no-attitude-benefit-no-interaction.md) — related
+- [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related

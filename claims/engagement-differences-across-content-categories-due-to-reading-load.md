@@ -45,3 +45,5 @@ The article's second study investigated why engagement varied across content cat
 ## Related Claims
 - [Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's](cbe-colo-item-exposure-comparable.md) — related
 - [Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading](cbe-longer-test-duration-comparable-length.md) — related
+- [Within a single administration, COLO administered more items and overexposed fewer items than the CBE, likely due to its randomesque exposure-control procedure](colo-better-within-administration-item-exposure.md) — related
+- [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related

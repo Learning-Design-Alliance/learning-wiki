@@ -46,3 +46,4 @@ Cross-sectional study of 1757 primary and secondary school children assessed wit
 
 - [Developmental dyscalculia prevalence was 5.6% in this UK sample, with no significant gender difference](dd-prevalence-5-6-percent-no-gender-difference.md)
 - [The majority (77%) of children with high mathematics anxiety have average or above-average mathematics performance](high-math-anxiety-mostly-typical-performance.md)
+- [MA correlates negatively with mathematics performance in the whole sample (rs = -.30) but not within the DD or DD+RD groups](ma-performance-correlation-dissociates-in-dd.md) — related

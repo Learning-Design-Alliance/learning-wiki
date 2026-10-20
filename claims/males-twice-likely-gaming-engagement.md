@@ -45,3 +45,6 @@ From the same regression analysis of 189 participants (75.3% female); gender ent
 ## Related Claims
 
 - [Video game engagement is predicted by hours of play, playing with others, gender, and task orientation, with hours of play the strongest predictor](gaming-engagement-regression-predictors.md)
+- [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](males-gaming-more-self-explanation-game-condition.md) — related
+- [Female gender, higher autonomous motivation, lower prior knowledge, and higher final course grades each predict more frequent voluntary StatBot use among graduate statistics students](zinb-predictors-statbot-engagement-frequency.md) — related
+- [Ego orientation and need for cognition did not significantly contribute to predicting gaming engagement](ego-nfc-dropped-from-engagement-model.md) — related

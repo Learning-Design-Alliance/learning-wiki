@@ -43,3 +43,7 @@ Logistic regression in the Bergen Child Study longitudinal cohort (N = 3453) com
 ## Related Claims
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
 - [Frequent daytime sleepiness is associated with impaired academic achievement, attention, and learning motivation in school-aged children](frequent-daytime-sleepiness-impaired-school-performance.md) — related
+- [Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers](poor-performers-more-dims-and-mental-health-problems.md) — related
+- [The association between sleep problems and poor school performance is partly mediated by children's internalizing and externalizing mental health problems, with a direct effect remaining only for persistent DIMS](dims-mediated-by-mental-health.md) — a broader claim this one bears on
+- [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
+- [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related

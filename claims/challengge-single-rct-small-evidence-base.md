@@ -52,3 +52,4 @@ The Millenky, Bloom, and Dillon (2010) randomized controlled trial is the only o
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
 - [The evidence base for SMART® is a single small-extent RCT, capping the intervention rating at potentially positive effects](smart-evidence-base-single-small-rct.md) — related
 - [The evidence base for Fluency Formula™ consists of a single small randomized controlled trial, with no studies addressing alphabetics or general reading achievement](fluency-formula-evidence-base-single-small-rct.md) — related
+- [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — possibly the same claim (merge candidate)

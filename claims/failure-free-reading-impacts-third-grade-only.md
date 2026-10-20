@@ -53,3 +53,6 @@ In the randomized trial's individual-intervention estimates (Table 2), Failure F
 - [The Power4Kids evaluation covered four widely used reading programs for elementary students with reading problems: Corrective Reading, Failure Free Reading, Spell Read P.A.T., and Wilson Reading](power4kids-four-reading-interventions-compared.md) — related
 - [Younger struggling readers benefited more: the interventions generally helped third-grade cohort students more than fifth-grade cohort students](younger-struggling-readers-benefited-more.md) — a broader claim this one bears on
 - Reading Recovery targets first-graders in the lowest 20-30% of their cohort after one year of formal schooling — related
+- [The four Power4Kids interventions delivered about 100 hours of pull-out instruction in small groups of three students over one school year](power4kids-100-hours-small-group-pullout-instruction.md) — related
+- [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
+- [The Power4Kids first-year report presents impacts on reading achievement at the end of the intervention year, with nearly 800 children in the study](power4kids-first-year-reading-achievement-impacts.md) — a broader claim this one bears on

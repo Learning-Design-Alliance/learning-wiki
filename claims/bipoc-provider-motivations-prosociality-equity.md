@@ -44,3 +44,4 @@ Qualitative spring 2023 interviews (14 interviews, approximately 30-60 minutes, 
 
 ## Related Claims
 - [BIPOC solution providers embed culturally responsive pedagogy features in both their R&D processes and their end products](providers-culturally-responsive-product-and-process.md) — related
+- [Both groups see societal benefit in experiential learning, but instructors weight societal good more heavily than students, whose reflections center on personal fulfillment](societal-good-instructor-student-contrast.md) — related

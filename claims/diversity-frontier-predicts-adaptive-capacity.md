@@ -65,3 +65,4 @@ Same regression framework, reward outcome. The study reports frontier position "
 - [Skill portfolio diversity is positively associated with skill acquisition, occupational mobility, and transitions into lower-AI-exposure occupations](diversity-predicts-adaptive-outcomes.md) — related
 - [Mean skill diversity rises from low to moderate specialisation before declining among the most specialised workers](diversity-specialisation-inverse-u-pattern.md) — related
 - [Specialisation is strongly associated with sorting into higher-wage occupations but only weakly related to adaptive outcomes](specialisation-predicts-wage-sorting-not-adaptation.md) — related
+- [Skill portfolio measures stratify by demographics: men, younger cohorts, and more educated workers show higher specialisation](specialisation-demographic-stratification-linkedin.md) — related

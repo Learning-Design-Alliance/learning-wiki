@@ -75,3 +75,11 @@ Within the Follow-Up Inquiry macro-category (26.4%, n = 746), the most common be
 - [Students rated the LLM-based assignments as useful, challenging, engaging, and enjoyable at both the first and fifth iterations, with no significant change across the semester](positive-affective-responses-llm-assignments.md) — related
 - Assessment/Evaluation was the most common use of AIEd in higher education, with automatic assessment in 26 studies — related
 - [Technologically oriented help requests comprised 11.5% of requests and declined steeply from the first to the last post-experiment activity](tech-help-requests-steep-decline-across-activities.md)
+- [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
+- [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related
+- [More than half of participants' ChatGPT queries sought knowledge or advice, with methodological knowledge and classroom management the largest prompt categories](chatgpt-queries-sought-knowledge-advice.md) — related
+- [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related
+- [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related
+- [A small subset of question types accounts for the majority of student inquiries to AI, with Assertion the most frequent category in both CS2 sessions](few-question-types-dominate-student-ai-inquiries.md) — related
+- [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
+- [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — related

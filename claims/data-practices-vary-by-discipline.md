@@ -67,3 +67,5 @@ Cross-domain frequency comparison of core data practices (Fig. 3) in the review.
 ## Related Claims
 - [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
 - [Earth and environmental science courses showed lower engagement, academic demand, clarity, and inquiry-based pedagogy than biology, chemistry, and physics](earth-environmental-science-lower-instructional-quality.md) — related
+- [Collecting and analyzing data are the most prevalent data practices in K-16 science education research, while cleaning and disseminating data are least reported](data-practice-frequency-collecting-analyzing-most-prevalent.md) — related
+- [Instructional Science is cited across diverse disciplines including psychology, computer science and environmental sciences, indicating interdisciplinary appeal](interdisciplinary-citing-journals-instructional-science.md) — related

@@ -45,3 +45,4 @@ Dimension-wise results of the 15-developer pre/post study (Table 2): Inclusion o
 ## Related Claims
 - [A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall](prompt-coach-significant-overall-prompt-quality-gain.md) — related
 - Learning gains were highest for students whose background knowledge was lowest at pre-test — a broader claim this one bears on
+- [Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change](aes-lowest-baseline-students-gain-most.md) — a broader claim this one bears on

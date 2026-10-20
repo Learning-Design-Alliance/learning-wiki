@@ -46,3 +46,4 @@ T-tests on the baseline sample of 74 pupils (39 male/35 female) to control for s
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
 - [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — related
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — related
+- [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related

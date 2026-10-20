@@ -45,3 +45,5 @@ Repeated-measures ANOVA on SUDS ratings collected after each path in the same ol
 ## Related Claims
 - [The benefit of physical guidance for spatial learning increases with age](guidance-benefit-increases-with-age.md) — related
 - [Auditory reaction-time measure of cognitive load did not differ between guided and unguided low-vision navigation in older adults](no-rt-cognitive-load-difference-guidance-older-adults.md) — related
+- [Physical guidance reduces pointing error during low-vision navigation in older adults, indicating better spatial learning with a guide](physical-guide-improves-older-adult-low-vision-spatial-learning.md) — related
+- [Average pointing error increases linearly with age across younger and older adults in a real-world low-vision navigation task](spatial-learning-worsens-with-age-low-vision-navigation.md) — related

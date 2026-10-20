@@ -64,3 +64,4 @@ Attribution analysis of resolver identity across the deployment record. Peer ans
 ## Related Claims
 - [Operational resolution records require workflow-semantic checks before interpretation: one administrator accounts for 72.7% of attributed human resolutions, most administrative closures occur in synchronous bulk events, and the accepted_derived field encodes resolver identity rather than acceptance](resolution-record-semantics-attribution-and-coding-caveats.md) — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [Only 8.0% of queries reaching a person duplicated existing corpus content, suggesting the knowledge base was already well used](corpus-coverage-8-percent-person-resolved-queries.md) — related

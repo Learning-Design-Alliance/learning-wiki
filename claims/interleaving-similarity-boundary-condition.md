@@ -48,3 +48,5 @@ Narrative synthesis of studies varying within- and between-category similarity, 
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — related
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — related
+- [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
+- [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related

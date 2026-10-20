@@ -45,3 +45,4 @@ Robust linear mixed effects models with students nested within classes predicted
 ## Related Claims
 - [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — related
 - [Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported](aied-u-positive-indirect-effect-via-effort-reduction.md) — related
+- [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — related

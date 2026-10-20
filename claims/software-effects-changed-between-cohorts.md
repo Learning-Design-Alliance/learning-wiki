@@ -49,3 +49,5 @@ The report's title and summary indicate findings from two student cohorts, with 
 - [Green Dot Public Schools raise school attendance in the fourth year of high school, with no detectable effect on attendance in Year 1 for Cohort 3 (mixed evidence)](green-dot-attendance-year-four-only.md) — related
 - [Teacher experience using the software was not systematically related to changes in product effects between the first and second study year](teacher-experience-not-related-to-effect-changes.md) — related
 - [After one year, reading and mathematics software products did not increase or decrease test scores by amounts statistically different from zero](edtech-software-null-average-test-score-effects-year-one.md) — related
+- [Effects of mathematics software products were uncorrelated with classroom and school characteristics](math-software-effects-uncorrelated-classroom-school-characteristics.md) — related
+- [Effects of reading software products were correlated with student-teacher ratio in first-grade classrooms and with amount of product use in fourth-grade classrooms](reading-software-effects-correlated-classroom-characteristics.md) — related

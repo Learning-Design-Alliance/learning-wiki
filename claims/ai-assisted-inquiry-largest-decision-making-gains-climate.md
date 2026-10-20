@@ -52,3 +52,4 @@ Three-group pretest-posttest experiment with 270 secondary students (90 per grou
 - [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](all-groups-improved-from-low-baseline.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — a broader claim this one bears on
+- [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related

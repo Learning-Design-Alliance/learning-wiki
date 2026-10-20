@@ -127,3 +127,7 @@ Pashler, H., Cepeda, N. J., Wixted, J. T., & Rohrer, D. (2005). When does feedba
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
 - [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](immediate-feedback-limits-downstream-error-learning.md) — related
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
+- [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — related
+- [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related
+- [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
+- [Immediate knowledge of results during computerized achievement testing produces essentially no systematic differences in achievement estimates or response dimensionality](knowledge-of-results-no-effect-achievement-test-dimensionality.md) — reports the opposite

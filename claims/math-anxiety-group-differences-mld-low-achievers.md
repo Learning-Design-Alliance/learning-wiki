@@ -68,3 +68,4 @@ Tukey post hoc comparisons following the significant ANOVA. The MLD group (M= 1.
 ## Related Claims
 - [High achievers show the lowest math anxiety and MLD students the highest across achievement groups](high-achievers-lowest-anxiety-mld-highest.md) — related
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — reports the opposite
+- [Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out](mld-lower-self-image-than-ta-ha.md) — related

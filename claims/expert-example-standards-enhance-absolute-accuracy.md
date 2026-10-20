@@ -49,3 +49,7 @@ The same 2×2 factorial ANOVA on overall absolute accuracy showed a significant 
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related
 - [Learners partly use example length as a cue when evaluating their self-generated examples](length-cue-example-evaluation.md) — related
 - [Providing a rubric reduces bias in self-assessment, moving judgments closer to expert ratings](rubrics-reduce-self-assessment-bias.md) — related
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — related
+- [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](negative-example-standards-inconsistent-effects.md) — related
+- [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
+- [Benefits of expert example standards depend on example quality: largest for incorrect examples, absent for correct ones](expert-standards-benefit-scope-by-example-quality.md) — related

@@ -72,3 +72,4 @@ This NWEA research brief, announced June 2020, asks "Does entering school older 
 - [The school-entry-age findings were produced with a multi-state regression discontinuity analysis covering academic growth through second grade](school-entry-age-multistate-regression-discontinuity-analysis.md) — possibly the same claim (merge candidate)
 - [Following the 2021-22 kindergarten cohort through third grade tested whether redshirted students showed academic advantages](redshirted-cohort-third-grade-outcomes.md) — related
 - [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — related
+- [The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years](entrance-age-gap-declines-after-kindergarten-entry.md) — related

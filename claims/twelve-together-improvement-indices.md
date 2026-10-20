@@ -45,3 +45,4 @@ The WWC computed improvement indices from the Dynarski et al. (1998) RCT. The in
 ## Related Claims
 - [Twelve Together shows no discernible effects on progressing in school as measured by highest grade completed](twelve-together-no-effect-progressing-in-school.md) — possibly the same claim (merge candidate)
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — possibly the same claim (merge candidate)
+- [The evidence base for Twelve Together is a single randomized controlled trial that met WWC standards only with reservations due to differential attrition](twelve-together-single-rct-attrition-reservations.md) — related

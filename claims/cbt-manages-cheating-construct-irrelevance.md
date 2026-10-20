@@ -47,3 +47,5 @@ The abstract states the article discusses managing "the effects of several commo
 - [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — a broader claim this one bears on
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related
 - [Rapid guesses on computer-based tests reflect a construct-irrelevant response process rather than the tested knowledge, skills, and abilities](rapid-guessing-construct-irrelevant-response-process.md) — related
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related
+- [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related

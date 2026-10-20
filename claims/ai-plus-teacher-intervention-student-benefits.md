@@ -46,3 +46,4 @@ The review reports, citing Dickler et al. (2021), that "students' science inquir
 - [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](llm-qa-practice-reduces-presentation-anxiety.md) — related
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](llm-assistant-boosts-debugging-confidence.md) — related
 - [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](ai-use-positive-adaptation-associations.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related

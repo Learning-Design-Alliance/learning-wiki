@@ -65,3 +65,7 @@ Same analysis. Main effects of group (DD M = 977.8 ms vs Control M = 844 ms; F(1
 
 - [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related
 - [Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls](math-primes-facilitate-dd-inhibit-controls.md)
+- [Children with developmental dyscalculia respond faster to simple arithmetic targets after negative than positive affective primes, across all four arithmetic operations](dd-negative-prime-facilitation-arithmetic.md) — related
+- [Math anxiety in DD is specific to the math context and occurs in the absence of generalized anxiety](math-anxiety-specific-to-math-context-dd.md) — related
+- [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
+- [Typically-developing children show the standard affective priming pattern, responding faster to arithmetic targets after positive than negative primes](control-positive-prime-facilitation-arithmetic.md) — related

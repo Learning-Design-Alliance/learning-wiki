@@ -45,3 +45,4 @@ Group-level marginal inference on the luck variables of the CAT causal model, re
 ## Related Claims
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
 - [Counterfactual probabilities of necessity and sufficiency quantify the causal effect of hints and skills on task performance](pn-ps-counterfactuals-help-and-skill-effects.md) — related
+- [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — related

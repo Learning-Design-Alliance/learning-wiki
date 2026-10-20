@@ -44,3 +44,4 @@ Descriptive analysis of survey data from 6,465 students in grades 3–12 across 
 
 ## Related Claims
 - [Latino girls reported higher belonging and achievement than boys, and Latino subgroup and parent-education differences emerged in the sixth grade](latino-gender-subgroup-covariate-differences.md) — related
+- [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related

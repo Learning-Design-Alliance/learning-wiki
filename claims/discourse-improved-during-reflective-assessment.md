@@ -45,3 +45,4 @@ Chi-square test comparing note-category proportions before (weeks 6–8, 102 not
 ## Related Claims
 
 - [Students with low achievement can assume high-level responsibility for collectively accomplishing knowledge-building discourse in a supportive knowledge-building environment.](low-achievers-collective-responsibility-knowledge-building.md)
+- [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related

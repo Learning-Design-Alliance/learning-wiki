@@ -66,3 +66,4 @@ In the same study, groups given the awareness visualization differed from groups
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — a broader claim this one bears on
 - [Awareness of heterogeneous problem perceptions does not by itself predict successful regulation](awareness-of-heterogeneity-does-not-predict-regulation-success.md) — related
 - [Individual and teamwork challenges (language barriers, personality, competition, skill screening, software, duration) can affect game jam learning processes](game-jam-challenges-4c-affected.md) — related
+- [Visualization support at the planning phase helped collaborating groups report more effective planning and teamwork strategies than groups without it](visualization-support-planning-improves-group-strategies.md) — possibly the same claim (merge candidate)

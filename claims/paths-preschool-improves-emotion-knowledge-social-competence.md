@@ -53,3 +53,5 @@ Randomized clinical trial of Preschool PATHS in Head Start: "Twenty classrooms i
 - [Head Start shows no discernible effects on social-emotional development for 3- and 4-year-old children](head-start-no-discernible-social-emotional-effects.md) — related
 - [Supplemental analyses show statistically significant positive Head Start effects on one social-emotional subscale and two mothers' race/ethnicity subgroup comparisons for the 3-year-old cohort](head-start-supplemental-subgroup-subscale-effects.md) — related
 - [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related
+- [Head Start has potentially positive effects on general reading achievement for 3- and 4-year-old children, based on parent-rated emergent literacy](head-start-potentially-positive-reading-achievement.md) — related
+- [Positive preschool interpersonal relationships predict gains in emotion knowledge over the prekindergarten year](preschool-relationships-predict-emotion-knowledge-gains.md) — related

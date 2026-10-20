@@ -48,3 +48,6 @@ The survey reports, citing Zulkifley, Nor, and Siti (2018), an evaluation of a s
 - [Not all students in connectivist courses could autonomously direct their own learning, and some felt disconnected and demotivated](connectivist-courses-student-agency-problems.md) — reports the opposite
 - Critics argue connectivism cannot explain concept formation or development, invoking the learning paradox — related
 - A connectivism instructional method was significantly more effective than the grammar-translation method for EFL academic engagement — related
+- [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
+- [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
+- [Undergraduates report very high overall satisfaction with instruction management in the cloud-based constructivism and connectivism learning model](high-satisfaction-cloud-constructivism-connectivism-model.md) — related

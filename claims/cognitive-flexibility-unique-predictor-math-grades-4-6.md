@@ -63,3 +63,7 @@ Two-step hierarchical regression with 203 sixth graders predicting mathematics m
 
 ## Related Claims
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
+- [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — related
+- [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — reports the opposite
+- [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — a broader claim this one bears on
+- [Cognitive flexibility's unique contribution to academic marks emerges only once EF components become differentiated, around Grades 4–6](flexibility-contribution-emerges-with-ef-differentiation.md) — a broader claim this one bears on

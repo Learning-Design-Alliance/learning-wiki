@@ -45,3 +45,5 @@ The review reports Davis and Kraus's (1997) meta-analytic finding of "an average
 ## Related Claims
 - [Intelligence is positively associated with SPT accuracy, with strength varying by measure](intelligence-correlates-with-spt-accuracy.md) — related
 - [Unidimensional measurement of SPT leaves the SPT–conflict resolution relationship unclear](unidimensional-spt-measurement-limits-conflict-findings.md) — related
+- [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](strategy-inductions-affect-spt-outcomes.md) — related
+- [Relationships between individual differences and sourcing vary with how sourcing is measured and with the domain or topic of the materials](sourcing-measurement-domain-moderators.md) — related

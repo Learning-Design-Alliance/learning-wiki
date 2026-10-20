@@ -43,3 +43,4 @@ CFA with theta parameterization and WLSMV estimator on the online figurative tes
 ## Related Claims
 - [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related
 - [The hierarchical model of Similarity, Dissimilarity, and Integration is empirically supported with domain-general figurative items](hierarchical-similarity-dissimilarity-integration-confirmed-figurative.md) — related
+- [Both the competence test and the cognitive load ratings fit two-dimensional Rasch models significantly better than unidimensional models, supporting separate modeling of the two load dimensions](two-dimensional-rasch-models-fit-better.md) — related

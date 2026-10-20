@@ -64,3 +64,5 @@ Survey findings, reflection-through-practical-experience theme, Items 17–18. "
 ## Related Claims
 
 - [Trainee and trainer responses contradicted each other on ten questionnaire items (4, 10, 11, 14, 17, 18, 19, 21, 23, 25), suggesting a lack of coordination among trainers](trainee-trainer-response-contradiction-ten-items.md)
+- [SQU ELT trainers encouraged peer observation and same-day feedback sessions, with 78.9% of trainees agreeing trainers encouraged class visits and 81.9% agreeing feedback came the same day as observation](squ-trainers-encouraged-peer-observation-and-same-day-feedback.md) — related
+- [Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman](gaps-collaborative-talk-and-written-assignments.md) — related

@@ -53,3 +53,5 @@ Figure 3 disaggregates percentile rank changes by school poverty level, with "hi
 - [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — related
 - [The dashboard supports comparisons of achievement trends between student groups, including by school poverty level, with a recommendation to compare similar groups](student-group-comparisons-poverty-categories.md) — related
 - [School poverty (%FRL) accounts for about 50% of a school's median student achievement](frl-accounts-for-half-of-school-achievement.md) — related
+- [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — related
+- [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](pandemic-declines-largest-hispanic-black-aian-students.md) — related

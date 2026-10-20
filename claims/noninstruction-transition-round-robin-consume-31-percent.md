@@ -44,3 +44,4 @@ Time-allocation analysis of the 24 fourth-grade classrooms. The article reports 
 
 ## Related Claims
 - [Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts](social-studies-little-preparation-fact-questions.md) — related
+- [Repeated listening improves oral reading fluency in second-grade students, with Listening Only outgaining Reading While Listening and Reading Only](repeated-listening-improves-oral-reading-fluency.md) — related

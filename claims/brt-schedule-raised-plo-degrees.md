@@ -45,3 +45,4 @@ The article proposes a course schedule for an architectural basic design studio 
 ## Related Claims
 
 - [Students exemplified discovered clues when explaining their designs orally](students-exemplified-clues-orally.md)
+- [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related

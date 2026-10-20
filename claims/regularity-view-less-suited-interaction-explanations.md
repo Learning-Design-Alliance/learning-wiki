@@ -43,4 +43,5 @@ Theoretical argument in the editorial contrasting practice perspectives with the
 
 
 ## Related Claims
--
+- [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
+- [Hurst exponents are unrelated to the frequency of interacting with any specific game-based feature](hurst-unrelated-to-feature-frequency.md) — related

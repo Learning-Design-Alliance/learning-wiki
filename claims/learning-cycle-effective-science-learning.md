@@ -49,3 +49,6 @@ The guide asserts, citing a 4-H SERIES curriculum introduction, that the learnin
 - [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related
 - [The packet's authors assert that pre-, on-site, and post-visit activities build on students' newly gained knowledge when performed in series](field-trip-activity-series-builds-knowledge.md) — a narrower finding that bears on this claim
 - [Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving](well-structured-collaborative-learning-effective.md) — related
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related

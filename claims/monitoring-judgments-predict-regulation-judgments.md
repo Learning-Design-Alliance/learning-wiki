@@ -43,4 +43,7 @@ Multilevel logistic regression (RQ4A, before self-scoring) of monitoring judgmen
 
 
 ## Related Claims
--
+- [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](self-scoring-improves-monitoring-accuracy-math.md) — related
+- [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](self-scoring-regulation-accuracy-limited-division.md) — related
+- [Before self-scoring, the unskilled-and-unaware effect in regulation accuracy appears on multiplication but not on division tasks](unskilled-unaware-regulation-before-self-scoring-task-dependent.md) — related
+- [Before self-scoring, high-performing primary students make more accurate monitoring judgments of math problem performance than low-performing students (unskilled-and-unaware effect)](unskilled-unaware-monitoring-before-self-scoring-math.md) — related

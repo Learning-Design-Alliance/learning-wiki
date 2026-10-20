@@ -47,3 +47,4 @@ Linear regression analysis of follow-up survey data; Table 1 reports, for exampl
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [The pattern of predictive relationships for self-determination differed significantly depending on which measure of self-determination was used](self-determination-predictor-patterns-vary-by-measure.md) — related
 - [Preschool teachers' median hourly wage is more than $18 lower than kindergarten teachers' median hourly wage](preschool-teacher-wage-gap-14-67-vs-32-80.md) — related
+- [The study targeted students with learning disabilities, mild and moderate mental retardation, and other health impairments](self-determination-study-population-disability-categories.md) — related

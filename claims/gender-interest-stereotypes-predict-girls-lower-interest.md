@@ -66,3 +66,8 @@ Regression comparison in Study 1 with both stereotype types as simultaneous pred
 - [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related
 - [Children in grades 3–7 endorse gender-interest stereotypes favoring boys in computer science, with boys endorsing more strongly than girls](children-endorse-gender-interest-stereotypes-cs-study1.md)
 - [Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often](stereotype-label-causes-lower-girls-interest-novel-activity.md)
+- [Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present](stereotype-creates-gender-gap-cs-activity-study4.md) — related
+- [Girls started with lower interest in science than boys but gained significantly more, resulting in equal post-intervention interest](girls-lower-initial-interest-higher-gain.md) — related
+- [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md) — related
+- [Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys](belonging-mediation-gender-interest-stereotypes.md) — related
+- [Endorsement of brilliance-oriented FABs predicts lower self-efficacy among stigmatized students in brilliance-oriented contexts](brilliance-contexts-lower-self-efficacy.md) — related

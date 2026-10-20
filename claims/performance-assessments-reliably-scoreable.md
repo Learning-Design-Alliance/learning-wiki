@@ -61,3 +61,5 @@ This is the report's own summary assertion, supported by its description of scor
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related
 - [Reporting of reliability and validity evidence for quantitative motivation measures was incomplete in K‑5 writing‑motivation studies](incomplete-reliability-validity-reporting-writing-motivation-measures.md) — related
+- [In one community-college lab class, six scorers rating six teams with an engineering rubric differed by a mean of 1.2 of 9 points, which the authors read as a sign the rubric may not be reliable](engineering-rubric-low-scoring-reliability.md) — related
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

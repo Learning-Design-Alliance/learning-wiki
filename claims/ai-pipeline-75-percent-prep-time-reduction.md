@@ -49,3 +49,4 @@ Observational time tracking over a one-year deployment at a single institution, 
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — related
 - [The pipeline reduces per-chart software labor from about two hours of manual Fusion 360 modeling to under 60 ms](tactile-pipeline-labor-reduction-four-orders.md) — a narrower finding that bears on this claim
 - [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related
+- [ConnectED reduces 45-minute lesson preparation time to approximately 15–20 minutes in-system, versus 3–4 hours for manual preparation](connected-reduces-lesson-preparation-time.md) — related

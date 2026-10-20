@@ -43,4 +43,7 @@ The review reports, citing Törmänen et al. (2022), a study grounded in co- and
 
 
 ## Related Claims
--
+- [Students using interactive socioemotional or regulated constructive patterns were more productive cognitively and in knowledge productivity](socioemotional-regulated-patterns-more-productive.md) — related
+- [Trained students use more diverse higher-order prompting strategies, including generating new questions absent among controls](trained-students-higher-order-prompting-strategies.md) — related
+- [In-service teachers more often followed socioemotional challenges with monitoring, and the groups differed in recurrent self-loops of controlling versus monitoring](in-service-socioemotional-monitoring-and-self-loops.md) — related
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](ssmr-contributions-higher-vs-lower-performing-groups.md) — related

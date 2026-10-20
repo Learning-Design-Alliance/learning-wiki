@@ -54,3 +54,6 @@ Section II.C qualitative findings from facilitator interviews and youth focus gr
 - [Participants and school staff reported improved attendance and reduced tardiness among Compass Care students](compass-care-reported-attendance-improvements.md) — related
 - [Educator social-emotional competency and wellbeing contribute to warm student-teacher relationships and to trusted adults who model stress management for students](educator-wellbeing-supports-student-relationships.md) — related
 - [Antecedent-focused emotion regulation strategies are linked to higher-quality teacher-student interactions and better classroom management](antecedent-emotion-regulation-better-interactions.md) — related
+- [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — related
+- [Compass Care participants reported increased student self-advocacy and confidence in asking for help](compass-care-student-self-advocacy.md) — related
+- [Compass Care participants reported trusting relationships with staff that improved students' comfort, safety, and emotional expression at school](compass-care-trusting-relationships-wellbeing.md) — related

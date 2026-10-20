@@ -44,3 +44,5 @@ The review reports Britton et al.'s (1989) studies of expert revisers, where the
 
 ## Related Claims
 - [Interest-evoking text revision strategies raised fourth and sixth graders' recall of a history passage but not acquisition of abstract, general information](interest-evoking-strategies-recall-history-passage.md) — related
+- [Structural signals show no consistent recall benefits but can aid deeper understanding measured by problem-solving tests](structural-signals-aid-problem-solving-not-recall.md) — reports the opposite
+- [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](summarization-improves-learning.md) — related

@@ -49,3 +49,5 @@ The publication states that "many Philadelphia schools did not comply" with the 
 - [The School District of Philadelphia reformed its student code of conduct in 2012-2013 to prohibit suspensions and expulsions for two types of non-violent student conduct](philadelphia-2012-13-conduct-reform-prohibited-suspension-nonviolent-offenses.md) — related
 - [A Philadelphia reform prohibiting out-of-school suspension for classroom disorder decreased classroom disorder suspensions among students suspended before the reform](philadelphia-classroom-disorder-oss-ban-reduced-suspensions.md) — related
 - [Philadelphia schools varied significantly in how they implemented the discipline policy change](philadelphia-discipline-reform-implementation-varied-significantly.md) — a broader claim this one bears on
+- [Truancy rates increased in Philadelphia following the discipline policy reform](philadelphia-reform-truancy-increased.md) — related
+- [Serious incidents of student misconduct increased in Philadelphia following the discipline policy reform](philadelphia-reform-serious-incidents-increased.md) — related

@@ -85,3 +85,5 @@ Reported second-hand: Blosser's bulletin summarizes Basili and Sanford's (1991) 
 - Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies — related
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
 - [Cooperative concept mapping produces better meaningful learning than individualistic concept mapping](cooperative-concept-mapping-better-than-individual.md) — related
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a broader claim this one bears on
+- [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related

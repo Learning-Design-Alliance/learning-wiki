@@ -44,3 +44,4 @@ RAGAS evaluation of the prototype's RAG assistant on 52 question-answer pairs de
 
 ## Related Claims
 - [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](retrieval-augmentation-essential-local-llm-below-tfidf.md) — related
+- [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related

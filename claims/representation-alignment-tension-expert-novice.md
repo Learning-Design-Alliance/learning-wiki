@@ -50,3 +50,6 @@ Two-phase exploratory study comparing instructor interviews and teaching observa
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [The expertise reversal effect reflects the strength of experts' knowledge base resisting redundant external information, and a motivation-related form is predicted](expertise-reversal-evolutionary-interpretation.md) — related
+- [Content-specific external representations increase appropriate resource use without increasing shared knowledge after collaboration](content-specific-representation-more-appropriate-resources-no-more-sharing.md) — related
+- [The report attributes to expert-novice comparisons that experts relate symptoms to inoperative system functions while novices focus on physically proximal components](expert-deep-versus-novice-surface-device-models.md) — related

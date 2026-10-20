@@ -47,3 +47,5 @@ Graphical presentation of results in the left-hand panel of Fig. 3 (N = 89) show
 - [Video models do not increase trainee teachers’ self-efficacy for questioning for retrieval relative to restudy](video-model-no-self-efficacy-gain.md) — related
 - [Video models with integrated theory do not improve trainee teachers’ knowledge of questioning for retrieval relative to restudy](video-model-no-knowledge-gain.md) — related
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — a broader claim this one bears on
+- [Adding theory annotations to a video model yields no additional skill benefit over the same unannotated model](theory-annotation-no-extra-skill-benefit.md) — related
+- [Long video-based modelling examples did not improve diagnostic strategy knowledge, skills, self-efficacy, or cognitive load relative to independently practising in a computer simulation](modelling-examples-no-effect-complex-diagnostic-strategy.md) — related

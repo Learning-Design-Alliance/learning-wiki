@@ -49,3 +49,4 @@ WWC aggregation of academic achievement findings from the same two studies (56 s
 - [The WWC rates Project CRISS® as having potentially positive effects on comprehension for adolescent learners, with an average improvement index of +20 percentile points](project-criss-potentially-positive-comprehension-rating.md) — related
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [WWC rates MTP-S as having potentially positive effects on general achievement, with a small extent of evidence](mtp-s-potentially-positive-general-achievement.md) — related
+- [In the Hawaii randomized trial, Positive Action significantly reduced grade retention, with an effect size of 1.09 and an improvement index of +36](positive-action-reduces-grade-retention.md) — a narrower finding that bears on this claim

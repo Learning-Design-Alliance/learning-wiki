@@ -45,3 +45,5 @@ Descriptive finding from the meta-analysis of 33 studies on the distribution of 
 ## Related Claims
 - [The evidence base comprises 33 studies yielding 146 effect sizes on reading components and comprehension in monolingual Spanish-speaking children (2000–2021).](33-studies-146-effect-sizes-spanish-reading.md) — related
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](pa-fluency-largest-relations-comprehension-spanish.md) — related
+- [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
+- [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related

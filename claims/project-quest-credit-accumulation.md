@@ -50,3 +50,4 @@ WWC review of the Rolston et al. (2017) RCT of VIDA, an adaptation of the Projec
 - [Project QUEST shows no discernible effects on short-term and medium-term employment](project-quest-no-employment-effects.md) — related
 - [Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings](project-quest-no-earnings-effects.md) — related
 - [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related
+- [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related

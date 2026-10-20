@@ -64,3 +64,5 @@ Exit-survey success-sequence items on delaying sexual intercourse until graduati
 ## Related Claims
 - [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](project-with-perceived-impact-goal-setting.md) — related
 - [Youth's intentions to have sexual intercourse declined marginally from entry to exit (3.2 to 3.0, p = .08, effect size = -0.16), with no change in condom or birth control intentions](project-with-sexual-intention-changes-entry-exit.md) — related
+- [Youth reported positive perceived impacts on healthy relationships (77 percent) and on self-regulation and decision-making (62–66 percent)](project-with-perceived-impact-relationships-self-regulation.md) — related
+- [Justice-involved youth who remained at their sites completed an average of 11.0 of 12 Project With lessons, while those who left early completed 5.4](project-with-lesson-completion-retention-effect.md) — related

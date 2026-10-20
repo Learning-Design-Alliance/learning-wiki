@@ -45,3 +45,4 @@ Direct comparison of the two AI-assisted year cohorts (n = 38 GPT-3.5, n = 39 Cl
 ## Related Claims
 - [On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation](phinetuned-benchmark-comparison-gpt.md) — related
 - [FSM-based evaluation discriminates interactive quality across models, with GPT-5 Mini scoring highest and most tiers significantly separated](fsm-eval-discriminates-model-quality.md) — related
+- [In blind verification, model selection matters more than source type: Bradley-Terry ranking interleaves human coders and LLMs, with per-model win rates spanning significant human advantage to numerical LLM advantage](bradley-terry-model-selection-matters-more-than-source-type.md) — related

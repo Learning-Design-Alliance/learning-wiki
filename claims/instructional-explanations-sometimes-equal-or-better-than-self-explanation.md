@@ -110,3 +110,8 @@ and transfer"
 - [Studying worked examples is more effective and more efficient than problem solving for novice learners (the worked example effect)](worked-example-effect-novices-review.md) — related
 - [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — related
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related
+- [Teacher and peer explanations of the scientific concepts during problem solving were at times scientifically misleading or wrong](teacher-scientific-concepts-misleading.md) — related
+- [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
+- [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
+- [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
+- [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related

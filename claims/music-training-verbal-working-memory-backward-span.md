@@ -61,3 +61,6 @@ The review states that the Guo et al. (2018) and Nie et al. (2022) RCTs showed b
 
 - [In adolescents, prior music training was associated with faster test completion times but no executive function performance differences](music-training-adolescents-faster-completion-times.md)
 - [No significant group difference in working memory as measured by the Digit Span Backward subtest](no-group-difference-working-memory-dsb.md)
+- [Only one identified study found improved visuospatial working memory after music training](music-training-visuospatial-working-memory-single-study.md) — related
+- [Verbal working memory shows non-linear growth from ages 3–19, with the most rapid growth during childhood and a brief accelerated period during early adolescence](wm-nonlinear-growth-childhood-acceleration-adolescence.md) — related
+- [When PSID-CDS data are restricted to ages 6–11, backward digit span growth is best characterized by a quadratic (not cubic) function](quadratic-best-fit-restricted-age-range.md) — related

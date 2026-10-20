@@ -44,3 +44,8 @@ The review presents these as examples of material-oriented interventions within 
 
 ## Related Claims
 - [Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures](learner-difficulties-basis-for-support-selection.md) — related
+- [Learner-oriented interventions such as training of learning prerequisites, pre-training, and prompting are empirically tested support procedures for visual displays](learner-oriented-interventions-tested.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a narrower finding that bears on this claim
+- [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a narrower finding that bears on this claim
+- [Signaling Improves Learning](signaling-improves-learning.md) — a narrower finding that bears on this claim

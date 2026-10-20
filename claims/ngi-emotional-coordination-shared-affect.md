@@ -49,3 +49,4 @@ Case study observation plus post-task interview triangulation. Tim's Joy–Sadne
 - [In groups with pre-established positive collaborative relationships, NGI clusters aligned with high positive emotions and frequent group synchronisation during collaborative DGBL](ngi-clusters-align-with-flow-collaborative-dgbl.md) — related
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](ngi-not-distracting-attention-returns.md) — related
 - [Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion](affective-reinforcement-stabilizes-engagement-structure.md) — related
+- [Social flow and group flow were sustained and even strengthened as task challenge increased in the game's algebraic stages](flow-sustained-as-challenge-increases.md) — related

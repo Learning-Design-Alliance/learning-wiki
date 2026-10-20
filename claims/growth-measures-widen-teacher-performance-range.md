@@ -46,3 +46,4 @@ Cross-district finding from the implementation study of eight early-adopting dis
 - [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
 - [Early-adopting districts used alternative student growth measures alongside other measures in formal teacher evaluations](early-adopters-used-alternative-growth-measures-in-formal-evaluations.md) — related
 - [Evidence on reliability and validity of alternative student growth measures, especially student learning objectives, is limited](limited-reliability-validity-evidence-alternative-growth-measures.md) — related
+- [Eight early-adopting districts use alternative measures of teacher effectiveness in evaluation or performance-related compensation systems](eight-districts-use-alternative-teacher-effectiveness-measures.md) — related

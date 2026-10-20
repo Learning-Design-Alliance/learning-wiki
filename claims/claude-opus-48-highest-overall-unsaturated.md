@@ -48,3 +48,4 @@ Leaderboard result from the 17-model evaluation (Table 6). The article reports t
 - [The strategic surface learner is the lowest-scoring Stage 2 profile for 15 of 17 models, averaging 0.702 versus 0.757 across the other profiles](strategic-surface-learner-lowest-stage2-profile.md) — related
 - [The top six models are statistically indistinguishable on overall ELBench score yet differ substantially at the module level, so module profiles are more informative than a single aggregate](top-six-indistinguishable-overall-module-profile.md) — related
 - [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related
+- [The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models](long-chain-workflows-lowest-stage3-family.md) — related

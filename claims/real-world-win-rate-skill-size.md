@@ -45,3 +45,4 @@ Figure-based numerical result on the ASSISTments real-world data (15 skills), re
 ## Related Claims
 - [On the ASSISTments real-world benchmark, the proposed method achieves the best performance across all metrics, significantly outperforming all baselines](assistments-real-world-best-all-metrics.md) — related
 - [The proposed method's advantage grows or holds as the skill space expands and under higher noise rates in synthetic experiments](robustness-to-skill-size-and-noise-synthetic.md) — related
+- [The proposed snapshot-based method consistently outperforms baselines on synthetic next-skill prediction across all metrics except accuracy](synthetic-next-skill-prediction-outperforms-baselines.md) — related

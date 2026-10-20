@@ -44,3 +44,6 @@ Second planned orthogonal contrast of the same experiment, comparing concessive 
 
 ## Related Claims
 - [Refutation texts did not promote beneficial selection of multimedia material by student teachers](refutation-texts-no-transfer-material-selection.md) — related
+- [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](anger-does-not-mediate-concession-effects.md) — related
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related
+- [Instruction that confronts science misconceptions (conceptual-conflict interventions, refutation text) produces conceptual change more often than standard exposition](misconceptions-interfere-with-new-learning.md) — related

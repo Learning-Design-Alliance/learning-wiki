@@ -48,3 +48,4 @@ Stage 1 completion time in the preregistered lab experiment, analysed with a 2×
 ## Related Claims
 - [Participants deprived of relevant relational knowledge in Stage 1 take longer on the subsequent network-reasoning task](control-condition-slower-network-reasoning.md) — related
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related

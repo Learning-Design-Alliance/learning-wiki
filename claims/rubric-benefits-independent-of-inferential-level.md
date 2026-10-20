@@ -50,3 +50,4 @@ Mixed repeated-measures ANOVA with condition as between-subjects factor and infe
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related
 - [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related
+- [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related

@@ -43,4 +43,5 @@ Descriptive analysis of 1,436 RFID-captured face-to-face contacts across worksho
 
 
 ## Related Claims
--
+- [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md) — related
+- [Transitivity, reciprocity and contact duration are relevant for researchers' identification of new potential collaboration partners at face-to-face events, as the editorial reports of Eberle et al.](transitivity-reciprocity-contact-duration-collaboration-partners.md) — related

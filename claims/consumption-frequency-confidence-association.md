@@ -47,3 +47,4 @@ Cross-tabulation of survey data from 141 students relating consumption frequency
 ## Related Claims
 - [Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media](student-news-consumption-digital-preference.md) — related
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related
+- [University students in Communication and Education programs show low familiarity with media literacy, media education, and educommunication terms](students-low-familiarity-media-literacy-terms.md) — related

@@ -55,3 +55,4 @@ Theme 4 of the focus-group analysis. Participants said colorful, culturally fami
 - [Decorative Illustrations Do Not Improve Learning](seductive-details-effect.md) — related
 - [Racial, ethnic, and cultural identity development emerged as the core need for students of color beyond academic subjects](identity-core-of-sead-for-students-of-color.md) — related
 - [Cultural research found Australian Aborigines strong in spatial-visual processing and preferring informal learning strategies](aboriginal-spatial-visual-informal-learning.md) — related
+- [Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design](mll-explicit-design-less-prominent-than-universal-design.md) — related

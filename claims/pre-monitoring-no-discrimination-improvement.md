@@ -46,3 +46,4 @@ ANOVA on the discrimination difference score in the same N = 305 randomized expe
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
 - [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related
 - [Neither monitoring feedback nor performance feedback improved kindergarteners' monitoring accuracy relative to an active control](feedback-training-no-improvement-kindergarten-monitoring-accuracy.md) — related
+- [Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation](cognitive-strategy-instruction-better-self-monitoring.md) — related

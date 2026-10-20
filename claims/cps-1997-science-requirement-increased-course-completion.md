@@ -44,3 +44,4 @@ Pre/post cohort comparison of transcript data from CPS administrative records, c
 
 ## Related Claims
 - [Despite large increases in course-taking, the science requirement produced little evidence of additional science learning, as most graduates earned Cs or lower](cps-science-requirement-little-learning-gain.md) — related
+- [The requirement structure decreased the percentage of graduates completing both chemistry and physics, because mandated earth or environmental science pushed the combination into a fourth year](cps-requirement-reduced-chemistry-physics-combination.md) — related

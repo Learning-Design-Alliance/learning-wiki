@@ -75,3 +75,5 @@ Year-by-year analysis of the best-performing algorithm per study (Figure 8, RQ7)
 - [Transformer-based NLP models achieve automated essay scoring with correlations to human grading exceeding 0.85](bert-essay-scoring-correlation-085.md) — a narrower finding that bears on this claim
 - [Benchmarking shows NLP-based automated essay scoring achieves grading times up to 80% faster than human graders while maintaining comparable accuracy](nlp-grading-80-percent-faster-benchmark.md) — related
 - [NLP-based feedback generation for textual student answers in large courses reduced grading effort by up to 85% with high precision (reported from Bernius et al.)](nlp-feedback-reduced-grading-effort-85-percent.md) — related
+- [An LLM-based AI Evaluator agrees with expert human raters on collaboration transcripts at a level similar to inter-expert agreement](llm-evaluator-agreement-matches-expert-raters.md) — related
+- [Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology](nlp-homogeneity-ner-ngrams-ontology-within-groups.md) — related

@@ -117,3 +117,4 @@ Earlier Related Claims:
 - [Middle school students with intellectual disabilities taught problem-solving or study planning skills showed significantly more capacity on the targeted skill than students in the alternating control group](self-determination-instruction-increased-targeted-skill-capacity.md) — a narrower finding that bears on this claim
 - [All students in the self-determination skill intervention achieved their goals at better than average levels](students-achieved-goals-better-than-average.md) — a narrower finding that bears on this claim
 - Baseline data from a multistate longitudinal self-determination intervention project were analyzed with structural equation modeling — related
+- [Individualized advocacy support and engagement curricula each have direct tests from multiple studies, giving stronger evidence than the other recommendations](advocacy-and-engagement-direct-test-evidence.md) — related

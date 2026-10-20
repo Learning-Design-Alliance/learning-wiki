@@ -45,3 +45,4 @@ The review states that despite the primacy of the motivational perspective, "the
 ## Related Claims
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
+- [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a narrower finding that bears on this claim

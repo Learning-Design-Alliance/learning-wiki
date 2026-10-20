@@ -50,3 +50,7 @@ Qualitative casebook finding from the Lessons Learned chapter, based on intervie
 - Trust amongst peers is high while trust of outsiders is low, and vendor relationships in districts follow a long consultative sales cycle — related
 - [Most partner professional development relied on traditional short-term workshops with little classroom-level intensive assistance](probation-support-relies-on-traditional-workshops.md) — related
 - [Consultation with trusted colleagues offered new interpretations of a student's behavior, lessening a teacher's emotional labor and shifting her from surface acting to deep acting (Linda case)](linda-consultation-shifted-surface-to-deep-acting.md) — related
+- [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related
+- [Instructional coaching provides individualized support adapted to teachers' needs and classroom contexts, in contrast to traditional professional development workshops](coaching-individualized-support-versus-workshops.md) — related
+- [In Irving ISD, 56% of educators who served as program coaches since 2017 were promoted to new positions](irving-isd-56-percent-coaches-promoted.md) — related
+- [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — a broader claim this one bears on

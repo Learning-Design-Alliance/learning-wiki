@@ -62,3 +62,7 @@ Cross-study finding from the review's Theme 3 synthesis, attributed to Bates et 
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related
 - [Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation](lrk-underrepresented-core-competency.md) — related
 - [Teachers are positioned as moral gatekeepers of AI use without adequate structural support](teachers-moral-gatekeepers-ai-lacking-support.md) — a narrower finding that bears on this claim
+- [A gap exists between students' ethical awareness and their GenAI practices, with students who frequently engage in behaviours they view as unethical and rationalisations normalising such use](awareness-behaviour-gap-genai-integrity.md) — related
+- [Existing K-12 computing standards give AI minimal coverage](csta-standards-minimal-ai-coverage.md) — a narrower finding that bears on this claim
+- [A persistent theory-practice gap: students may develop conceptual AI understanding but lack opportunities to apply it in authentic contexts](ail-theory-practice-gap-he-programs.md) — related
+- [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — a narrower finding that bears on this claim

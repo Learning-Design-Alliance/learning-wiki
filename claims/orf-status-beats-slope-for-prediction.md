@@ -67,3 +67,7 @@ The review reports this contrasting finding on slope's utility in early screenin
 ## Related Claims
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](four-scores-predict-passage-comprehension.md) — related
 - [Fluency interventions for older students show very small effects on rate and accuracy and virtually no effect on standardized comprehension](fluency-small-effects-older-readers.md) — related
+- [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — related
+- [The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool](irla-concurrent-validity-screening-rti.md) — related
+- [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related
+- [Different responsiveness-determination approaches (status vs. slope, criteria, domains, cut points) identify different students as adequate and inadequate responders, with little or no overlap](rti-responsiveness-criteria-disagree.md) — related

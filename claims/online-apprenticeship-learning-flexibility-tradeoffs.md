@@ -51,3 +51,5 @@ A key takeaway from the virtual discussion groups with state apprenticeship admi
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — a narrower finding that bears on this claim
 - Local leaders supported student learning in similar and different ways across in-person, hybrid, and remote instructional modalities — related
 - [Virtual pre-K observations posed substantial logistical challenges despite being practical](virtual-pre-k-observations-logistical-challenges.md)
+- [In its first 3-year grant cycle, 21CSLA served approximately 8,300 California leaders through 333 communities of practice and localized professional learning offerings plus coaching for hundreds of leaders](21csla-served-8300-leaders-first-cycle.md) — related
+- [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related

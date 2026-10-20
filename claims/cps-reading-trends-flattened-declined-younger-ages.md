@@ -73,3 +73,4 @@ The same ITBS trend analysis reports that "Positive trends in ITBS reading score
 - After adjustments for inclusion-rule changes, CPS elementary test scores continued to improve through 1999, with long-term math gains across all grades but slowing reading improvement at ages 9, 11, and 12 — a broader claim this one bears on
 - Standardized test scores change so slowly that even schools making exceptional gains may appear stagnant — related
 - [Achievement progress is steeper for students tested at younger ages, especially in math](younger-students-steeper-achievement-gains.md) — related
+- [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — a broader claim this one bears on

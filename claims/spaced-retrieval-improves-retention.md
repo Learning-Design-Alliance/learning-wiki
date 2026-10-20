@@ -134,3 +134,9 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — a narrower finding that bears on this claim
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
+- [Learning should be assessed with retention and transfer tests rather than current practice performance](retention-transfer-tests-define-learning.md) — related
+- [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — related
+- [Spaced recall quizzing improves long-term retention even when immediate feedback is not provided](testing-effect-persists-without-immediate-feedback.md) — a narrower finding that bears on this claim
+- [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — related
+- [Total retrieval spacing improved one-week vocabulary recall while relative schedules were not distinguished](total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) — related
+- [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — a narrower finding that bears on this claim

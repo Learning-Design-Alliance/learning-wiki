@@ -45,3 +45,4 @@ The article's title and framing present the conditional growth index as a starti
 ## Related Claims
 - [The volume addresses criteria for evaluating growth models and how outputs from growth models should be utilized](growth-model-evaluation-criteria-questions.md) — related
 - [Proficiency projections estimate the probability of reaching Meets proficiency on the state test from fall, winter, or spring RIT scores](map-growth-proficiency-projections-rit.md) — related
+- [Norm shifts can raise achievement percentiles for schools serving struggling students even when RIT gains and projected proficiency do not improve](norm-shifts-raise-school-percentiles-struggling-students.md) — related

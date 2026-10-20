@@ -65,3 +65,9 @@ Control-condition type significantly moderated interest effects (F(3.00, 3.06) =
 - [Pedagogical agents have a small, statistically significant positive effect on learners' broadly defined 'motivation' (g = 0.20)](pa-small-significant-effect-broad-motivation.md) — related
 - [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — related
 - [Pedagogical agents do not significantly affect learners' value beliefs (g = 0.09, non-significant)](pa-no-effect-value-beliefs.md) — related
+- [Pedagogical agents enhance learning compared with learning environments that do not feature agents](pedagogical-agents-enhance-learning.md) — related
+- [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](pa-non-significant-utility-beliefs.md) — related
+- [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](pa-no-effect-intrinsic-motivation.md) — related
+- [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related
+- [Effects of agent nonverbal behavior depend on the task: facial expressions were valuable for attitudinal learning but detrimental for procedural learning](nonverbal-effects-depend-on-task-type.md) — related
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related

@@ -46,3 +46,9 @@ Survey and administrative reporting cited in this case study, drawing on LAUSD S
 ## Related Claims
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - [Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts](four-day-week-teacher-recruitment-qualitative.md) — related
+- [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related
+- [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
+- [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related
+- [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
+- [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
+- [University of Houston residency completers retain in teaching at rates above state averages (93% after year one; 3- and 5-year retention 10 and 7 points above state averages for the 2019 cohort)](uh-residency-completers-retention-above-state-average.md) — related

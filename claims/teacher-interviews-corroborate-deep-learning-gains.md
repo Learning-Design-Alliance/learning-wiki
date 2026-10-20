@@ -51,3 +51,5 @@ Qualitative component of the concurrent mixed-methods design: semi-structured in
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - Qualitative educator interviews corroborate and explain the quantitative path findings — a broader claim this one bears on
 - [Interviewed students at below-average, average, and above-average levels showed improved understanding of condensation after the intervention](pdeode-interviews-improved-understanding-three-levels.md) — related
+- [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — a broader claim this one bears on
+- [Teachers reported that simulations, adaptive feedback, and hands-on STEM activities supported students' conceptual understanding and engagement with scientific problem solving](simulations-adaptive-feedback-support-engagement.md) — related

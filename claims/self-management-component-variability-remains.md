@@ -45,3 +45,5 @@ Framing finding of the systematic review: prior research supports self-managemen
 ## Related Claims
 - [There is a lack of consensus regarding student-, intervention-, and setting-level variables supporting self-monitoring use in schools](lack-of-consensus-sm-variables.md) — related
 - [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related
+- [Single-case effects of self-management interventions are not moderated by intervention characteristics (duration, fidelity assessment, fidelity method, or training)](sm-effects-not-moderated-intervention-characteristics.md) — related
+- [Prompted self-monitoring is the most frequently used self-management configuration in school-based single-case research](prompted-self-monitoring-most-frequent-configuration.md) — related

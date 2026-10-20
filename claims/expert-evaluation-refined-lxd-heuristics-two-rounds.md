@@ -46,3 +46,5 @@ Think-aloud sessions with four experts (in gamification/LXD, HCI/diversity, naut
 ## Related Claims
 - [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — related
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
+- [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](theory-plus-data-prompting-improves-codebook.md) — related
+- [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related

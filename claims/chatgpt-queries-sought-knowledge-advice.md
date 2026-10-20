@@ -47,3 +47,5 @@ Quantitative content analysis of interaction screenshots (Table 4) in the case s
 - [Some participants' ChatGPT interactions followed a pattern of inquiry-based learning with iterative prompt refinement](chatgpt-inquiry-based-learning-pattern.md)
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)
 - [Effective AI help-seeking is itself a skill unevenly distributed among students, and access to an assistant is not equivalent to effective help-seeking](ai-help-seeking-is-a-skill.md)
+- [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [About 61% of observed in-class student behavior was actively seeking knowledge or asking questions](majority-student-activity-questioning.md) — related

@@ -65,3 +65,5 @@ Same mediation model with long-term learning scores; model accounted for 52.40% 
 - [A negative behavioral path through frequent resubmissions counteracted the affective benefit of layered feedback](negative-behavioral-path-submissions-mediation.md) — related
 - [Serial mediation through work skills then educational motivation is significant but smaller (Ind3: Twork→WSk→EdMot→CThink, β=.004, 95% CI .0010-.0079)](serial-mediation-work-skills-motivation-smaller.md) — related
 - [Teamwork predicts critical thinking directly and via work skills (Ind1: Twork→WSk→CThink, β=.053, 95% CI .0312-.0717)](teamwork-via-work-skills-indirect-effect.md) — related
+- [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related

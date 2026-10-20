@@ -50,3 +50,6 @@ Review's synthesis of the six laboratory studies (treadmill or ergometer bouts a
 - [Type of PA may moderate acute effects: coordinative exercises outperformed a normal PE lesson of the same intensity](coordinative-exercises-attention-advantage.md) — related
 - [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
 - [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related
+- [Acute moderate aerobic exercise speeds children's reaction times without improving accuracy, with greater speed gains on choice than simple reaction time tasks](acute-exercise-speeds-reaction-time-not-accuracy.md) — reports the opposite
+- [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
+- [School-setting studies show no overall significant difference between active and classroom lessons, but subgroup effects emerge](school-setting-acute-pa-attention-subgroups.md) — related

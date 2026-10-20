@@ -64,3 +64,4 @@ Same content analysis of definition wording across the 225 explicitly defining s
 ## Related Claims
 - [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) — related
 - [Achievement, effort-related variables, (meta-)cognitive learning strategies, and goal orientations are the most frequently reported correlates of motivation regulation](most-frequent-correlates-of-motivation-regulation.md) — related
+- [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related

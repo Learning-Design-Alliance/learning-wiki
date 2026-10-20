@@ -45,3 +45,7 @@ The editorial reports a large-scale study tracing the development and use of abo
 ## Related Claims
 
 - [ILS adoption rate increases across knowledge maturation stages, from 3.38% for individually created ILSs to 43.94% for published ILSs](ils-adoption-increases-across-maturation-stages.md)
+- [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](reused-ils-four-times-more-likely-implemented-scaffolding-increases.md) — related
+- [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](ils-reuse-appropriation-proxy-higher-adoption.md) — related
+- [Teachers who participated in ILSs with KAM practices were far more likely to be involved in an implemented ILS (42–53%) than the dataset average (16.27%)](teacher-level-kam-participation-linked-to-implemented-ils.md) — related
+- [Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79](logistic-regression-kam-practices-predict-adoption.md) — a narrower finding that bears on this claim

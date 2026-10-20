@@ -50,3 +50,5 @@ Descriptive fiscal analysis in the Overall Funding Levels section. The report st
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](california-infant-toddler-ece-access-14-percent.md)
 - [Including subsidized child care, California enrolled about 37% of all 4-year-olds in publicly funded early childhood programs in 2019–20 and 55% in 2023–24](california-prek-coverage-55-percent-with-subsidized-child-care.md)
 - [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](california-ece-serves-minority-of-eligible-children.md)
+- [As of fiscal year 2017, 22 states still provided less per-pupil K–12 education funding than in 2008–09](22-states-less-per-pupil-funding-than-2008-09.md) — related
+- [Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation](coaching-absence-undermines-hqim-implementation.md) — related

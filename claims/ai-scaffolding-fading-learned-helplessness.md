@@ -60,3 +60,4 @@ Theoretical argument in the article's scaffolding section, drawing on the learne
 - [Most learners disregarded the system's learning and repetition recommendations, with self-regulated decision-making taking precedence over the suggested path](learners-disregard-g4l-recommendations.md) — related
 - [Automating constructive alignment with GenAI risks shifting it towards an instrument of compliance](genai-automation-shifts-constructive-alignment-toward-compliance.md) — related
 - [A systematic review reports that over-reliance on AI dialogue systems fosters complacency and dependency and may weaken students' decision-making](ai-overreliance-impairs-decision-making.md) — related
+- [The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise](genai-efficiency-discourse-risks-devaluing-pedagogical-design.md) — related

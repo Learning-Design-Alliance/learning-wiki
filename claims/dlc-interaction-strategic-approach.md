@@ -47,3 +47,4 @@ Group comparison of strategy scores among 316 first-year bioscience engineering 
 - [Completing the topic-specific reflection module on angular momentum yielded a larger effect on strategic approach than completing other modules alone](topic-specific-module-larger-strategy-effect.md) — related
 - [Topic-specificity of reflection modules is not essential for developing strategic approach, unlike for conceptual understanding](topic-specificity-not-essential-strategic-approach.md) — related
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — related
+- [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](graduate-students-develop-interactive-modules-as-course-project.md) — related

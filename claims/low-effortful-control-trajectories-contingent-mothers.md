@@ -44,3 +44,7 @@ Exploratory case comparison (Fig. 3) of three matched pairs of children who bega
 
 ## Related Claims
 - [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related
+- [Maternal contingent interventions led to children's successful actions at 12 and 18 months but not at 24 months, while children's success led to contingent withdrawal of support at every time-point](sequential-contingency-success-bidirectional.md) — related
+- [Children of consistently contingent mothers (30%+ contingent at all three time-points) scored higher on grasping, delay and cognitive measures than children of inconsistently contingent mothers](consistent-contingency-group-child-outcomes.md) — related
+- [Maternal contingency is the only scaffolding variable related to child performance during scaffolding across all three time-points](contingency-predicts-child-performance-scaffolding.md) — related
+- [Maternal contingency at 12 months predicts children's effortful control at 24 months, explaining 14% unique variance](contingency-12m-predicts-effortful-control-24m.md) — related

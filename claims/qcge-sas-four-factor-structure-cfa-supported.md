@@ -63,3 +63,9 @@ The authors' summary of the same confirmatory factor analysis, stating the "four
 ## Related Claims
 
 - [Frequencies of nonverbal behaviors descriptively rise with higher engagement ratings across the four QCGE dimensions](nonverbal-frequencies-increase-with-engagement-ratings.md)
+- [Construct validity of the QCGE-SAS is supported by significant correlations between its subscales and pre-validated related scales](qcge-sas-construct-validity-significant-correlations.md) — related
+- [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
+- [Behavioural, cognitive and conceptual-to-consequential subscales of the QCGE-SAS show acceptable reliability, while the social engagement subscale shows unacceptable internal consistency](qcge-sas-social-subscale-unacceptable-reliability.md) — related
+- [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
+- [No statistically significant association between QCGE dimension ratings and the collaborative product grade](qcge-dimensions-nonsignificant-learning-outcome-grade.md) — related
+- [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related

@@ -51,3 +51,5 @@ Descriptive analysis of CPS administrative suspension data from 2008-09 to 2013-
 - [Students with low prior test scores and students with disabilities were suspended at substantially higher rates than their peers in CPS](low-achievement-disability-suspension-rates-cps.md) — related
 - [Students who attend schools with higher suspension rates are more likely to be arrested and incarcerated as adults and less likely to attend a 4-year college](higher-suspension-rates-linked-adult-arrest.md) — related
 - [Students of color and students with disabilities are disproportionately suspended and referred to law enforcement relative to their enrollment](disproportionate-discipline-students-of-color-disabilities.md) — related
+- [A first suspension doubles a student's odds of dropping out of school](first-suspension-doubles-dropout-odds.md) — related
+- [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related

@@ -48,3 +48,4 @@ Reliability analysis (Fig. 2, Table 1) on the SciEntsBank Test_UD split. Verbali
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related
 - [Feedback improves confidence calibration, and prior lure exposure inflates confidence in intrusions](feedback-improves-confidence-calibration.md) — related
+- [A hybrid confidence measure combining model-based signals with dataset-derived aleatoric uncertainty achieves the highest AUROC and strongest accuracy gains in selective grading of LLM-graded short answers](hybrid-confidence-highest-auroc-selective-asag.md) — related

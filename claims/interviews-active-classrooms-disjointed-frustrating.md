@@ -49,3 +49,5 @@ One-on-one structured interviews with 17 students drawn from both semesters and 
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — the general claim this finding bears on, with the studies behind it
 - [Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)](active-learning-lower-feeling-of-learning.md) — related
 - [Neurodivergent students cope with collaborative active learning discomfort by self-selecting roles and explicitly disclosing access needs](nd-coping-self-selected-roles-self-disclosure.md) — related
+- [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
+- [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related

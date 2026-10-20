@@ -47,3 +47,4 @@ Case-study evidence from Moises and Grady: Grady discussed his college list dail
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
 - [Parents are the most common source of help for seniors' postsecondary planning, cited more often than teachers or counselors](parents-most-common-source-postsecondary-planning-help.md) — related
+- [Coaches appeared to expand exposure to and completion of community college programs, consistent with the strategy's goals](coaching-expanded-program-exposure-completion.md) — related

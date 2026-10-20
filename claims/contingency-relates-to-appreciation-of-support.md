@@ -45,3 +45,4 @@ Multilevel analysis of the appreciation-of-support questionnaire (Cronbach's a =
 ## Related Claims
 - [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](contingency-working-time-task-effort-interaction.md) — related
 - [On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant](knowledge-assignment-null-contingency-effects.md) — related
+- [When controlling for task effort, low contingent support improved multiple-choice achievement with short independent working time whereas high contingent support improved it with long independent working time](contingency-by-working-time-interaction-achievement.md) — related

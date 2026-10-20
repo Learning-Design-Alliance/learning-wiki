@@ -43,4 +43,8 @@ Qualitative theme with categories Benefits to SRL, Benefits to acting, and Issue
 
 
 ## Related Claims
--
+- [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](srl-hypothesized-mediator-video-annotation-acting.md) — related
+- [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
+- [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](srl-video-annotation-improved-acting-rubric-scores.md) — related
+- [Participants unanimously reported increased confidence in acting performance over the course of the intervention](srl-intervention-increased-acting-confidence.md) — related
+- [Qualitative findings indicate perceived benefits of recognition, meaning-making, and practical tips, alongside mixed emotional responses including distress](story-mine-qualitative-mixed-experiences.md) — related

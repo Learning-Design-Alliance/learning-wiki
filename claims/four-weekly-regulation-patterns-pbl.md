@@ -47,3 +47,6 @@ Model-based clustering (Gaussian mixture models via MoEClust) of each group's we
 - [Weekly group data on PBL interactions showed substantial between-group variability (ICC 0.4), requiring multilevel growth models](group-variability-icc-multilevel-growth-models.md)
 - [Most PBL groups settled into stable regulatory patterns early in the course, with transitions usually between similar patterns](stable-early-regulatory-patterns-limited-change.md)
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md)
+- [Students using interactive socioemotional or regulated constructive patterns were more productive cognitively and in knowledge productivity](socioemotional-regulated-patterns-more-productive.md) — related
+- [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
+- [Trace data can capture the temporal progress of regulation as learners engage in learning tasks over time](trace-data-capture-temporal-regulation.md) — related

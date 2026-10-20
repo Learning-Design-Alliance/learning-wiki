@@ -47,3 +47,6 @@ Authors' forward-looking recommendation (type e) following discussion of Loncham
 - [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md)
 - [CSCL theory has contributed more to understanding collaboration and group cognition than to technology design and analytic methodology](cscl-theory-stronger-than-design-methodology.md)
 - [Combining algebra tutoring technology with scripting for small-group learning: different team enactments can obscure averaged statistical measures of learning](team-enactments-obscure-averaged-learning-measures.md)
+- [Student dyads given planning software enacted changed practices not intended by designers or facilitators](planning-software-enactment-practices-changed-unintended.md) — a narrower finding that bears on this claim
+- [CSCL should focus analytic attention on small-group interactions rather than individuals or society](small-group-unit-of-analysis-cscl.md) — related
+- [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related

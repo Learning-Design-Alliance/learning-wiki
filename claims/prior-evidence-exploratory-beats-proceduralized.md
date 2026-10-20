@@ -43,4 +43,7 @@ Narrative review attributing this to Frese et al. (1988), who compared procedura
 
 
 ## Related Claims
--
+- [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — reports the opposite
+- [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — reports the opposite
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — reports the opposite
+- [Pretraining learners on a system's key parts and terms before the main lesson improved knowledge and real-world transfer in one VR experiment, and is reported second-hand to improve learning in multimedia studies](pretraining-improves-transfer.md) — related

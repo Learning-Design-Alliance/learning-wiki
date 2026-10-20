@@ -45,3 +45,4 @@ Paired t-test comparing logo item types among non-readers, supported by particip
 ## Related Claims
 - [Non-reading children and unschooled illiterate adults both differ significantly from low-educated literate adults on most print-awareness tasks, but do not differ from each other](nonreaders-differ-from-literate-adults-print-awareness.md) — related
 - [The three groups did not differ in distinguishing conventional written signs from other visual signs](groups-do-not-differ-signs-task.md) — related
+- [Unschooled illiterate adults living in print-rich environments have good knowledge of the pragmatic functions and uses of written language but cannot read environmental print out of context](illiterate-adults-know-functions-not-environmental-print.md) — related

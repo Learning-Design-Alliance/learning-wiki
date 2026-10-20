@@ -50,3 +50,7 @@ Review reports Cappelletti and Price (2014) findings that DD adults' "longer res
 - [Adults with DD show deficient conceptual size processing with preserved physical size processing, supporting shared magnitude substrates](dd-adults-conceptual-size-dissociation.md) — related
 - [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
 - [Arithmetic deficits in adults with DD concentrate in mental calculation, arithmetical rules, and written calculation, with number comprehension and transcoding preserved](dd-adults-calculation-deficits-comprehension-preserved.md) — related
+- [Simple subtraction in adults relies heavily on strategy use, which disadvantages participants under limited working memory resources](adult-subtraction-strategy-reliance-working-memory-cost.md) — related
+- [Adults with DD show deficient alerting and executive attention with preserved orienting, indicating domain-general deficits beyond number processing](dd-adults-alerting-executive-attention-deficits.md) — reports the opposite
+- [Adults with dyslexia execute both retrieval and procedural arithmetic strategies more slowly than controls](dyslexia-slower-strategy-execution.md) — related
+- [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md) — related

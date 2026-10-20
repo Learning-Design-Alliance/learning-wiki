@@ -45,3 +45,4 @@ Stratified analysis of the 2004 cohort: students were grouped into five equal st
 ## Related Claims
 - [CHSRI students graduated at significantly higher four-year rates than similar students, with differences of 7 to more than 9 percentage points across cohorts](chsri-higher-four-year-graduation-rates.md) — related
 - [Nearly all CHSRI schools graduated at least as many students as predicted given the students they served](chsri-school-level-graduation-at-or-above-predicted.md) — related
+- [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related

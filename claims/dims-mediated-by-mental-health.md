@@ -42,3 +42,7 @@ Parallel multiple mediation analysis (PROCESS macro, 5,000 bootstrap samples) wi
 
 ## Related Claims
 - [Sleep education at school improves academic performance in children](sleep-education-improves-academic-performance.md) — related
+- [Children with poor academic performance show more sleep problems, delayed pubertal development, poorer family economy, lower parental education and more mental health problems than average-to-good performers](poor-performers-more-dims-and-mental-health-problems.md) — related
+- [Persistent sleep problems (DIMS at both ages 7–9 and 11–13) increase the risk of poor academic performance even after adjusting for mental health, gender, pubertal status and SES](persistent-dims-poor-academic-performance.md) — a narrower finding that bears on this claim
+- [Concurrent sleep problems at age 11–13 do not increase the risk of poor academic performance after controlling for mental health problems](concurrent-dims-no-adjusted-risk.md) — related
+- [Transitory sleep problems (DIMS at age 7–9 only) do not increase the risk of later poor academic performance](transitory-dims-no-increased-risk.md) — related

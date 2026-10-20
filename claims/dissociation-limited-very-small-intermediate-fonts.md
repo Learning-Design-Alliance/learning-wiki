@@ -45,3 +45,6 @@ Meta-regression moderator analysis across font-size ranges. The article reports 
 ## Related Claims
 
 - [Larger font sizes produce modestly better memory than smaller font sizes, with a small but significant pooled effect](font-size-improves-memory-meta-analytic.md)
+- [Larger fonts reliably increase both JOLs and memory only under specific boundary conditions: intermediate-to-very-large sizes, unrelated word lists, immediate JOLs, and brief study time](font-size-effect-boundary-conditions.md) — related
+- [JOLs and memory both increase with font size rather than being completely dissociated](jol-and-memory-concordant-font-size.md) — reports the opposite
+- [Larger font sizes produce higher judgments of learning than smaller font sizes, with a small-to-moderate pooled effect](font-size-increases-jols-meta-analytic.md) — related

@@ -49,3 +49,4 @@ Randomized study in "three high-poverty charter schools in the San Francisco Bay
 - [The DreamBox effect on the MAP Computation subtest was not statistically significant after WWC multiple-comparison correction](dreambox-computation-subtest-not-significant-after-correction.md) — related
 - [DreamBox effects on the Problem Solving, Number Sense, and Statistics and Probability subtests were not statistically significant](dreambox-problem-solving-number-sense-statistics-null.md) — related
 - In a 24-school North Carolina randomized study, K-2 students using DreamBox significantly outperformed controls on the Number Knowledge Test (ES +0.12), while 4th-5th grade effects on the state End-of-Grade assessment were not meaningfully higher (ES +0.03) — related
+- [Zearn Math schools significantly outperformed control schools on NWEA MAP in a large Texas RCT (effect size +0.11 overall)](zearn-rct-nwea-map-effect-011.md) — related

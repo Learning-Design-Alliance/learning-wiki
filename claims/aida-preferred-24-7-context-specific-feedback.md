@@ -51,3 +51,6 @@ Perception studies 1-3, in which 315 distance students reacted to prototypes and
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [At pre-test most distance students were positive about an institutional AIDA, but a majority saw challenges, and prior GenAI experience correlated with more positive perceptions](aida-pretest-positivity-and-challenges.md) — related
 - [Students who preferred AI feedback cited clarity, understandability, consistency, specificity, and 24/7 availability](ai-feedback-preference-clarity-availability-reasons.md) — related
+- [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](aida-hands-on-use-improves-attitudes.md) — related
+- [ChatGPT served as an emotional support agent during practicum, offering a nonjudgmental, constantly available interlocutor](chatgpt-emotional-support-agent-practicum.md) — related
+- [In an exploratory randomised trial, the AIDA-supported group showed a higher learning gain than the control group, though the authors caution about the small volunteer sample](aida-experimental-group-higher-learning-gain.md) — related

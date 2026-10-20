@@ -45,3 +45,4 @@ Multiple linear regression analyses tested Age at CI, Aided PTA, and Hearing Age
 ## Related Claims
 - [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related
 - [Word-learning performance correlates with later vocabulary size in children with cochlear implants](word-learning-predicts-vocabulary-ci.md) — related
+- [Early implanted children performed significantly better on the word-learning task than late implanted children](early-implanted-outperform-late-implanted.md) — related

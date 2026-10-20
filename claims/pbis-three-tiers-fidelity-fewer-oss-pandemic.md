@@ -65,3 +65,5 @@ Authors' interpretation in the Discussion, not a separately tested contrast: the
 - [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
 - [No significant differences in in-school suspensions or students with only one OSS emerged across the four PBIS fidelity conditions during 2020–21](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
 - [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related
+- [School-based interventions produce a small but statistically significant reduction in school exclusion](school-based-interventions-small-significant-reduction-exclusion.md) — a broader claim this one bears on
+- [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — a narrower finding that bears on this claim

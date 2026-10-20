@@ -73,3 +73,5 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
 - [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](monetary-incentive-rules-out-motivation-confound.md) — related
 - [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related
+- [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related
+- [The retrieval benefit occurs at the level of individual items, not through general practice at retrieval](retrieval-benefit-item-level.md) — a narrower finding that bears on this claim

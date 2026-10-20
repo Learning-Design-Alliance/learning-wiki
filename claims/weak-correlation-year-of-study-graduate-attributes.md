@@ -46,3 +46,6 @@ Correlational analysis of the survey (Table 2, Spearman's rho). The article repo
 
 - [All measured graduate attribute scores correlate positively with one another, with the Resourcefulness Scale correlating most weakly](positive-correlations-among-graduate-attribute-measures.md)
 - [Graduate attribute scores vary by gender and by subject, with language-based subjects scoring well on communication](gender-and-subject-differences-graduate-attributes.md)
+- [Self-perceived communication competence and adaptability show small positive correlations with age, while resourcefulness and communicative adaptability do not](age-correlations-communication-adaptability-small.md) — related
+- [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related
+- [Existing extracurricular video game play habits show no significant relationship with graduate attribute attainment among higher education students](no-significant-relationship-game-play-habits-graduate-attributes.md) — related

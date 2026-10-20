@@ -55,3 +55,6 @@ Gender gap models estimated within each year and subject on the weighted MAP Gro
 - [Kindergarten-entry math and reading scores were mostly flat 2010-2014 then slightly declined by 2017, with median math down about 0.24 SD and reading down 0.14 SD](kindergarten-entry-scores-declined-2010-2017.md) — related
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related
 - Female students outperformed male students in NAEP reading by 7 points at grade 4 and 10 points at grade 8 in 2007, with gaps not significantly different from 15 years earlier — related
+- [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related
+- [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
+- [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related

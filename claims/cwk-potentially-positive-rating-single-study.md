@@ -47,3 +47,4 @@ WWC rating analysis for the behavior domain. Criterion 1 for potentially positiv
 - [Connect with Kids shows statistically significant positive effects on middle and high school students' reports of their own and classmates' behavior](cwk-middle-high-school-behavior-gains.md) — a narrower finding that bears on this claim
 - [The WWC rated financial incentives for teen parents as potentially positive rather than positive for staying in school because only one study showed statistically significant positive outcomes in that domain](financial-incentives-teen-parents-staying-in-school.md) — related
 - [The WWC rates UCSMP Algebra as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-ucsmp-algebra-potentially-positive.md) — related
+- [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — related

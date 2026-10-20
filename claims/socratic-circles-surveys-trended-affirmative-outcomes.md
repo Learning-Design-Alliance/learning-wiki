@@ -62,3 +62,5 @@ Teacher post-implementation survey data across the RCS pilot cycles indicated th
 
 ## Related Claims
 - [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related
+- [Most RCS Core Team members who completed the Inclusive Innovation Survey showed positive beliefs and efficacy aligned with the Inclusive Innovation Core Tenets](iis-core-team-positive-beliefs-efficacy.md) — related
+- [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](rcs-root-causes-fear-curriculum-awareness.md) — related

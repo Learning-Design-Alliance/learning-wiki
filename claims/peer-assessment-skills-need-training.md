@@ -45,3 +45,6 @@ The review attributes this assertion to Sluijsmans and Prins (2006), citing it a
 ## Related Claims
 - [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
 - [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](formative-assessment-training-improves-information-on-results.md) — related
+- [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](grammar-as-skill-is-a-conflation.md) — related
+- [Practice of grammar rules improves only the practiced skill, showing skill specificity of L2 automatization](skill-specificity-l2-grammar-practice.md) — related
+- [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related

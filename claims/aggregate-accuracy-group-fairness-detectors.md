@@ -54,3 +54,6 @@ The review reports Pratama's study of scholarly abstracts, in which "97.22% aggr
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
 - [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related
 - [Blinded review identified 68% of ChatGPT-generated abstracts as chatbot-produced while 14% of authentic abstracts were misclassified as chatbot-generated](chatgpt-abstract-detection-68-14-percent.md) — related
+- [AI detectors using perplexity disproportionately misclassify non-native English writers, and the mechanism plausibly extends to other low-perplexity writers](perplexity-bias-non-native-english-writers.md) — related
+- [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md) — related
+- [Both detectors achieved substantially lower accuracy on scientific writing than on humanities texts](detectors-lower-accuracy-scientific-writing.md) — related

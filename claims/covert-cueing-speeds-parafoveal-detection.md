@@ -46,3 +46,6 @@ Experiment 1, a central spatial cueing detection task with targets at 3° eccent
 
 - [In an auditory number-cue detection task, both blind and sighted adults detect targets faster on number-size/location congruent trials, with no group difference](auditory-number-congruency-detection-both-groups.md) — related
 - [Detection is slower for targets within the foveola than in the parafovea despite equal detectability](foveolar-detection-slower-than-parafoveal.md)
+- [Fine foveolar attentional effects persist during normal, non-stabilized fixation with natural retinal image motion](foveolar-attention-persists-normal-fixation.md) — related
+- [Covert attention facilitates detection within the foveola at locations only 20 arcminutes apart, with an effect similar in magnitude to the parafovea](covert-attention-facilitates-foveolar-detection.md) — related
+- [Covert attention enhances fine spatial discrimination (orientation d′) within the foveola with high selectivity across 20′ separations](covert-attention-enhances-foveolar-discrimination.md) — related

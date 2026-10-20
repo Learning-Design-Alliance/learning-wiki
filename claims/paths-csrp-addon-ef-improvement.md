@@ -66,3 +66,8 @@ The review reports a randomized-control trial with 18 of 35 Head Start classroom
 - [Tools of the Mind and Montessori curricula improve children's EFs, with Tools children outperforming controls especially on more EF-demanding conditions](tools-montessori-curricula-improve-efs.md) — a broader claim this one bears on
 - [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related
 - [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — related
+- [Contact with nature is generally tied to better impulse control and self-discipline in children, though effects are not always statistically significant](nature-contact-boosts-self-discipline-mixed.md) — related
+- [Teachers rated PATHS intervention children as less socially withdrawn than controls at year end](paths-preschool-reduces-social-withdrawal-teacher-rated.md) — related
+- [The Chicago School Readiness Project, a classroom-based RCT, improved low-income children's executive function and academic skills with effect sizes of 0.34 to 0.63](csrp-intervention-improved-self-regulation-and-academics.md) — related
+- [The classroom training improves inhibitory control as measured by the Tongue Task](classroom-training-improves-tongue-task-inhibition.md) — related
+- [A combined inhibition and social cognition classroom training improves selective visual attention in 5- and 6-year-olds](classroom-inhibition-social-cognition-training-improves-selective-attention.md) — a narrower finding that bears on this claim

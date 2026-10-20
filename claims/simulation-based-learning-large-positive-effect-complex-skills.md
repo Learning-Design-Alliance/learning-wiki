@@ -49,3 +49,4 @@ Meta-analysis of 145 empirical studies (10,532 participants) using a random effe
 - [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — related
 - [ARPG+ reaches quality milestones faster than comparison conditions in simulation](arpg-plus-faster-time-to-proficiency.md) — related
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
+- [Higher levels of technology support during simulation are associated with greater effects on learning outcomes](technology-support-associated-with-greater-effects.md) — related

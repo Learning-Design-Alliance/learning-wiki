@@ -52,3 +52,5 @@ Descriptive comparison of game-log strategy choices in the play-testing study; o
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
 - [Victim group children score higher than bullies on the SDQ prosocial behavior subscale](victims-higher-prosocial-behavior-than-bullies.md)
+- [REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy](remind-empathy-null-and-robot-empathy-correlation.md) — related
+- [By the end of the study all learner focus groups understood bullying as repeated aggression and reported being confident defenders](learners-learned-definition-and-defending.md) — related

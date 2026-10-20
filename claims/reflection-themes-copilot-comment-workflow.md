@@ -58,3 +58,6 @@ LLM-assisted four-round thematic analysis of end-of-activity reflections (Table 
 - [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — related
 - [Students report awareness of feedback-acting strategies but experience difficulty carrying them out](students-aware-of-strategies-but-fail-to-act.md) — related
 - [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md)
+- [AI functioned primarily as a source of preliminary ideas and cognitive support rather than as a substitute for professional judgment, with students identifying contextual limitations of AI recommendations](ai-as-support-not-substitute-for-judgment.md) — related
+- [Qualitative reflections identify developmental inappropriateness (45%), vagueness and repetition (32%), and implementation feasibility (23%) as the main AI limitations](ai-limitations-themes-early-childhood-science.md) — related
+- [The predominant student evaluation of LLMs (42%) is positive but conditional on the student's own verification work](students-positive-with-caveat-llm-evaluation.md) — related

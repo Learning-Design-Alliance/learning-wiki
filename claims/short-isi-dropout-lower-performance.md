@@ -45,3 +45,5 @@ Experiment 1, 161 undergraduates, five schedule groups. The omnibus schedule mai
 ## Related Claims
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — a broader claim this one bears on
 - [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](dropout-long-isi-similar-performance-fewer-trials.md) — related
+- [Dropping initially correct items incurred a cost relative to a long-ISI conventional schedule in Experiment 2, but this was offset by gains on initially incorrect items](dropout-cost-for-initially-correct-items.md) — related
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length and, the authors judge, unlikely to be due to item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related

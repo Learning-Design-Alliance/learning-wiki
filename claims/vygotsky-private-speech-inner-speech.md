@@ -49,3 +49,6 @@ This is a descriptive exposition in the article's summary of Vygotsky's concepts
 - [Dialogue underpins networked learning: thinking in networks means thinking through collaborative dialogue](dialogue-underpins-networked-learning.md) — related
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
 - [Self Talk Improves Learning And Performance](self-talk-improves-learning-and-performance.md) — related
+- [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related
+- [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related
+- [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](fod-communication-associated-with-metacognition-except-planning.md) — related

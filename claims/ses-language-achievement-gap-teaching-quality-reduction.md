@@ -70,3 +70,4 @@ Same Model C5 versus reference-model comparison. The study reports LANG estimate
 - [Student-perceived classroom management is significantly associated with mathematics achievement at both student and classroom levels in Swedish grade 4 TIMSS 2019](classroom-management-math-achievement-both-levels.md) — related
 - [Student-perceived instructional clarity is significantly and substantially related to mathematics confidence at both student and classroom levels](instructional-clarity-math-confidence-both-levels.md) — related
 - [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — related
+- [In the joint final model, instructional clarity shows an unexpected negative and significant relation with mathematics achievement at the student level](instructional-clarity-negative-achievement-student-level.md) — related

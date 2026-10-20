@@ -51,3 +51,4 @@ Narrative review of behavioral developmental studies. Skills continue improving 
 - [Task-switching ability matures earlier than task maintenance and selection abilities in childhood](switching-matures-earlier-than-maintenance.md) — related
 - [CGT delay aversion shows a bell-shaped age pattern but no statistically significant age difference in adolescence](cgt-delay-aversion-no-age-effect.md) — related
 - [ASD shows a distinct executive dysfunction profile of impaired cognitive flexibility and planning with intact inhibitory control](asd-flexibility-deficit-intact-inhibition.md)
+- [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](executive-function-maturation-over-twenty-years.md) — related

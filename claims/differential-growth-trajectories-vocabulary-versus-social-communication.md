@@ -45,3 +45,4 @@ Growth multilevel models across three waves (N = 164) with time centered at Wave
 ## Related Claims
 - [Initial levels of vocabulary and social communication skills each predict kindergarten reading achievement, but only rate of growth in social communication skills incrementally predicts reading](social-communication-growth-uniquely-predicts-kindergarten-reading.md) — related
 - [Growth in both vocabulary and social communication skills predicts kindergarten math achievement](vocabulary-and-communication-growth-predict-kindergarten-math.md) — related
+- [AI ethics research shows a pronounced acceleration in publications after 2021, with nonlinear accelerating growth rather than linear development](ai-ethics-publications-accelerate-after-2021.md) — related

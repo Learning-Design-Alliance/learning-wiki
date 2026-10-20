@@ -48,3 +48,7 @@ In the same quasi-experiment, RTLX subscale analyses showed "performance (how ac
 ## Related Claims
 - [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](alerting-guiding-dashboard-reduces-teacher-workload.md) — related
 - [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
+- [Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)](mirroring-lowest-reported-cognitive-load.md) — reports the opposite
+- [Teacher perceived workload did not differ significantly across conditions on any NASA-TLX subscale, though the experimental condition was descriptively lower on most subscales](aied-u-no-significant-workload-difference.md) — reports the opposite
+- [Using the AIED-U system yielded a positive indirect effect on learning gains through a reduction in the effort teachers reported](aied-u-positive-indirect-effect-via-effort-reduction.md) — related
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — related

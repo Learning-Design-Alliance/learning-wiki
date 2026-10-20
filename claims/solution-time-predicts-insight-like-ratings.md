@@ -47,3 +47,6 @@ Exploratory correlational analysis across the 100 participants: solution time co
 - [Correct RAPM solutions yield higher Suddenness and Certainty and lower Intuition than incorrect solutions, with a Certainty-by-difficulty interaction](correctness-effects-rapm-ratings.md) — related
 - [Across participants, RAPM scores correlate positively with Certainty but not with Intuition or Suddenness](rapm-score-correlates-certainty-only.md) — related
 - [Suddenness and Certainty ratings decrease as RAPM item difficulty increases, with Certainty showing a strong effect](suddenness-certainty-decrease-rapm-difficulty.md) — related
+- [Nasty task environments increased negative affect and improved complex problem solving performance relative to nice environments](nasty-environments-improve-cps-performance.md) — related
+- [Intuition ratings are unaffected by RAPM item difficulty, indicating stable strategy across items](intuition-unaffected-rapm-difficulty.md) — related
+- [The four-dimensional subjective-experience ratings are validated against classic insight and analytic problems, with Intuition and Suddenness differentiating the problem categories](subjective-ratings-validated-insight-analytic.md) — related

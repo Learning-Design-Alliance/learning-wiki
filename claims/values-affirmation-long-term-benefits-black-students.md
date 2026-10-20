@@ -52,3 +52,5 @@ The only entry here is a policy report's narrative summary of Cohen et al. (2009
 - [A brief values-affirmation writing exercise raised African American seventh-graders' grades in two small field experiments, but a large same-district replication found no effect](self-affirmation-improves-outcomes.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
 - [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](stereotype-threat-undermines-collaborative-contribution.md) — related
+- [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
+- [Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions](centrality-dual-role-discrimination-versus-stereotypes.md) — related

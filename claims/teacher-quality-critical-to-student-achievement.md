@@ -45,3 +45,7 @@ The article asserts, citing "recent evidence" without identifying the studies, t
 ## Related Claims
 
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md)
+- [Interdistrict desegregation choice plans decrease segregation, help close racial achievement gaps, and improve racial attitudes and long-term outcomes](interdistrict-desegregation-choice-benefits.md) — related
+- [Recent studies of large statewide voucher programs found substantial negative effects on achievement for voucher students compared to similar public school students](voucher-negative-achievement-effects.md) — related
+- [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — related
+- [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related

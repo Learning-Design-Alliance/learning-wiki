@@ -48,3 +48,4 @@ Univariate ANCOVAs on letter and category fluency controlling for NART and the p
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](curve-estimation-differential-age-trajectories.md) — related
 - [Letter fluency shows no age-group difference in ANOVA, but older adults outperform young adults once processing speed and IQ are controlled](letter-fluency-age-advantage-emerges-after-speed-control.md) — reports the opposite
 - [Age correlates negatively with processing speed and category fluency and positively with IQ, but not with letter fluency](age-correlations-cognitive-variables.md) — related
+- [Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder](letter-fluency-decline-clinical-red-flag.md) — related

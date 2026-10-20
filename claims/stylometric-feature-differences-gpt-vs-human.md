@@ -47,3 +47,5 @@ Paired t-tests and point-biserial correlations on document-level median feature 
 - [Random Forest using nine interpretable stylometric features detects GPT-assisted student writing with held-out ROC-AUC of 0.870 and F1 of 0.842](stylometric-features-detect-gpt-assisted-writing-rf-auc-0870.md) — related
 - [AI-assisted journal entries show higher lexical diversity and more emotion-word usage than unassisted entries](ai-questions-deepen-reflective-writing-quality.md) — possibly the same claim (merge candidate)
 - [Humanization works by systematically suppressing detector-salient surface cues — long-token ratio, AWL density, and lexical diversity — rather than fragmenting syntax](humanization-suppresses-detector-salient-cues.md) — related
+- [Type-token ratio showed a non-monotonic relationship with predicted difficulty, with both very low and very high lexical diversity increasing predicted text difficulty](ttr-nonmonotonic-difficulty-pattern.md) — related
+- [Elevated detector scores track long-token and Academic Word List density, with numeric and non-alphabetic token ratios correlating negatively](detector-scores-track-long-token-and-awl-density.md) — related

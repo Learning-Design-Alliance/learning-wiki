@@ -47,3 +47,5 @@ Analysis of the nationally representative NELS sample of 12,144 baseline student
 - Gradient boosting and extreme gradient boosting are the highest-performing classifiers for predicting enrollment, with balanced accuracy 0.91, F-score 0.88 and AUC 0.96 — related
 - [A few decision-tree splits identify very high-risk students, such as low-SES students who doubt they will reach college](few-splits-identify-high-risk-students.md) — a narrower finding that bears on this claim
 - Simple classifiers (Logistic Regression, Naive Bayes) outperformed tree-based models on this small dataset — related
+- [Predictive models trained on one semester's offering of a course identified at-risk students in the subsequent semester with high prediction accuracy](cross-semester-at-risk-prediction-high-accuracy.md) — related
+- [Random forest algorithms yielded the best classification performance in K–8 MMLA studies comparing multiple machine learning models](mmla-k8-random-forest-best-performance.md) — related

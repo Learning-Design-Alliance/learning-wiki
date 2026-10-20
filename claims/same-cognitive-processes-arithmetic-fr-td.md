@@ -48,3 +48,5 @@ Longitudinal multi-group path model estimated with Mplus 7.3 on 169 children (93
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](phonological-awareness-not-arithmetic-predictor.md) — related
 - [Executive skills, but not nonverbal IQ, at age 3–4 predict preschool counting and number knowledge](executive-skills-not-nonverbal-iq-predict-number-skills.md) — related
+- [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
+- [Full structural similarity of motivational profiles across time was not supported, indicating profile indicator means changed over the curriculum year](structural-similarity-unsupported-ai-motivation-profiles.md) — related

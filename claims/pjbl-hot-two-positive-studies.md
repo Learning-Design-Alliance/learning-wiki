@@ -45,3 +45,4 @@ Independent-groups pre-post study (Sasson et al., 2018), n = 38 PjBL vs 27 contr
 ## Related Claims
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related
 - [The review identifies design issues in P(j)BL effect studies, such as lack of control groups, that question reported outcomes](pjbl-effect-study-design-issues.md) — related
+- [Students reported significant perceived gains in abstract and critical thinking, with other higher-order thinking effects ambiguous](perceived-higher-order-thinking-gains.md) — a narrower finding that bears on this claim

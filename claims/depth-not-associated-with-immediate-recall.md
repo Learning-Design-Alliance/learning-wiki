@@ -45,3 +45,4 @@ ANCOVA and gain-score OLS regressions on 22 students' immediate post-test scores
 ## Related Claims
 - [Explanation-seeking interaction depth is positively associated with task quality beyond baseline knowledge and volume](depth-predicts-task-quality.md) — related
 - [No reliable moderation of depth effects by baseline knowledge, though simple slopes suggest an exploratory pattern](no-reliable-moderation-baseline-knowledge.md) — related
+- [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related

@@ -47,3 +47,7 @@ Analysis of CTC bilingual authorization data 1990–91 to 2015–16 (Figure 10) 
 - [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](bclad-supply-low-and-misaligned-with-demand.md) — related
 - [California school districts with similar English Learner program settings span geographic boundaries](district-cluster-settings-span-geography.md) — related
 - [Three out of four surveyed California districts reported teacher shortages in fall 2016, and most said shortages were worsening](california-districts-teacher-shortages-2016-survey.md) — related
+- [Regional pilot found some BLA-credentialed educators opt out of bilingual roles or leave them while staying in the same school or district](bla-educators-opt-out-of-bilingual-roles.md) — related
+- [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
+- [California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number](california-substandard-credentials-tripled-2012-2018.md) — related
+- [California lacks public data linking bilingual credential attainment to classroom assignments, creating a statewide blind spot on return on investment](ca-blind-spot-bla-assignment-retention-data.md) — related

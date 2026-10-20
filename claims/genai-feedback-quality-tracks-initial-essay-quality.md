@@ -86,3 +86,4 @@ Pearson correlation for the teacher condition (n = 24) found a weak, non-signifi
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related
 - [Zero-shot GenAI feedback quality is statistically comparable to teacher feedback quality](zero-shot-feedback-quality-comparable-to-teacher.md) — related
+- [Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback](essay-quality-affective-feedback-divergent-correlations.md) — related

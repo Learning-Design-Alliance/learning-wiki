@@ -66,3 +66,5 @@ Comparing the nine regression equations in the same survey, "the amount of varia
 - [Task value predicted cognitive and regulatory strategy use but not classroom grades, whereas self-efficacy predicted grades in all three subjects](task-value-predicts-strategy-use-not-grades.md) — related
 - [Regulatory strategy use and classroom grades showed no subject-area differences, though females received higher grades than males](regulatory-strategy-use-and-grades-stable-across-subjects.md) — related
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
+- [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
+- [Task value was higher for mathematics than for English and social studies for both genders, with gender differences only in the English–social studies comparison](task-value-higher-mathematics-both-genders.md) — related

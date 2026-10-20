@@ -53,3 +53,5 @@ Qualitative analysis of Solution-condition responses identified three patterns: 
 - [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — a broader claim this one bears on
 - [Delegating the terminal evaluation to AI is self-defeating: each hand-off returns one more output someone must accept or not](delegating-evaluation-self-defeating.md) — a broader claim this one bears on
 - [Trained students more often identify and remediate GenAI deficiencies such as visual errors and reasoning flaws](trained-students-remediate-genai-deficiencies.md) — related
+- [Students who formulated their own rules for when to use AI performed better on assignments in both conditions](self-set-ai-rules-better-assignments.md) — related
+- [Profiles differ in self-perceived academic skills: Engaged and Literate users report the highest problem-solving and cognitive endurance gains, while Uncritical Reliant users report the highest independent thinking](profile-differences-academic-skills.md) — related

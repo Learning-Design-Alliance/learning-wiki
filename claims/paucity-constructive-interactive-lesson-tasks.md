@@ -66,3 +66,6 @@ Minute-by-minute engagement coding across the full 898 minutes of observed lesso
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — related
 - [Teachers had minimal success designing Constructive and Interactive activities after ICAP professional development](teachers-struggle-designing-interactive-activities.md) — related
+- [Observed differentiation took place mainly through student independence and working pace, with lesson goals largely the same across groups](implementation-differentiation-independence-pace.md) — related
+- [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — related
+- [Engagement mode is orthogonal to instructional task: any task can be engaged at any of the four modes](engagement-mode-orthogonal-to-instructional-task.md) — related

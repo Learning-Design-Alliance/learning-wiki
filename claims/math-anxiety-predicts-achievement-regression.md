@@ -48,3 +48,5 @@ Linear regression analysis predicting mathematics achievement from math anxiety 
 
 ## Related Claims
 - [Self-image and learning mathematics anxiety, but not other metacognition dimensions or evaluation anxiety, predict mathematics achievement after controlling for IQ](self-image-lma-predict-math-achievement.md) — related
+- [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — related
+- [Math anxiety is significantly negatively correlated with math achievement in second and third graders, independent of trait anxiety and IQ](math-anxiety-negative-math-achievement-young-children.md) — related

@@ -44,3 +44,5 @@ Observational results across 10 classrooms: PA totaled 60 minutes (2.8% of instr
 
 ## Related Claims
 - [Teachers and students in elementary resource rooms remained on task during reading instruction, with overall student engagement averaging 2.76 on a 3-point scale](resource-room-reading-instruction-on-task-engagement.md) — related
+- [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
+- [Phonics/word study occupied the largest share of observed resource-room reading instruction (32%) at high-average quality, but a quarter was rated weak](word-study-largest-component-high-average-quality.md) — related

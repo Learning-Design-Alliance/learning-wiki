@@ -52,3 +52,6 @@ Within-participants quasi-experimental comparison of 20 radiological technology 
 - [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
+- [A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility](3b-first-evaluation-confirms-usability-requirements.md) — related
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
+- [Students trained with MPathic-VR report significantly more positive attitudes toward their learning experience than computer-based learning students](mpathic-vr-more-positive-attitudes.md) — related

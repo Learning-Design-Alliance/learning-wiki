@@ -54,3 +54,5 @@ Subgroup meta-analysis across the three HOT dimensions (Table 4): problem-solvin
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
 - [Educational level does not significantly moderate Gen-AI's effect on HOT, though K-12 subgroups show a larger effect (ES = 0.857) than post-secondary (ES = 0.539)](genai-education-level-moderator.md) — related
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — possibly the same claim (merge candidate)
+- [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — reports the opposite
+- [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related

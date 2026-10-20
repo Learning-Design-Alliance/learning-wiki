@@ -46,3 +46,5 @@ Coding of the forum corpus for model-based reasoning codes found proportions the
 - [86% of World of Warcraft forum posts constitute social knowledge construction rather than social banter](wow-forum-86-percent-social-knowledge-construction.md) — related
 - [Over half of WoW forum posts evince systems-based reasoning, most also showing understanding of feedback among system components](wow-posts-systems-based-reasoning-58-percent.md) — related
 - [65% of codable WoW forum posts display an evaluative epistemology, contrasting with Kuhn's finding that only 15% of interviewed Americans held one](wow-forum-evaluative-epistemology-65-percent.md) — related
+- [Systems-based reasoning and understanding feedback correlate moderately with discussion of the priest talent tree](talent-tree-discussion-correlates-systems-reasoning.md) — related
+- [Poster character level shows no relationship with the quality or quantity of coded scientific habits of mind, apart from a mild negative correlation with social banter](wow-character-level-unrelated-to-science-reasoning.md) — related

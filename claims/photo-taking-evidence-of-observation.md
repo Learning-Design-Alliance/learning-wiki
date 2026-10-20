@@ -47,3 +47,5 @@ Case-study observation across the 17 families' video data: per the article, "All
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](multiple-immersive-processes-at-microsites.md) — related
 - [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](sensory-immersion-prompted-geoscientific-observation.md) — related
+- [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](gps-wayfinding-actional-immersion-accessible.md) — related

@@ -49,3 +49,5 @@ The review's discussion of its second research question argues that task complex
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](teacher-support-benefits-conditional-on-autonomy-balance.md) — related
+- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md) — possibly the same claim (merge candidate)

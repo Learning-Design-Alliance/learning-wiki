@@ -77,3 +77,6 @@ Same cross-dataset evaluation protocol (RQ1); the fine-tuned BERT reference mode
 - [LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance](llms-more-stable-cross-dataset-than-supervised.md) — related
 - [Transfer between two specific datasets is asymmetric: Sangodiah-trained models transfer unusually well to Gani questions](sangodiah-gani-asymmetric-transfer.md) — a narrower finding that bears on this claim
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
+- [The framework is robust to 15% ASR transcription noise and retains 99.6% of its ICS under zero-shot cross-domain transfer to EdNet-Math](framework-robust-asr-noise-cross-domain-transfer.md) — related
+- [Offloading is decodable from metacognitive monitoring and control brain processes](neural-metacognitive-decoding-offloading.md) — related
+- [Grading skill transfers across exams: an adapter fine-tuned on one exam improves grading on the unseen other, though transfer stops short of in-domain performance](grading-skill-transfers-across-exams.md) — related

@@ -45,3 +45,5 @@ Written products (N = 162) were scored 0-6 for integration quality based on cove
 ## Related Claims
 - [Intratextual integration dominates while intertextual integration is rare in sixth graders' multiple-text writing](intratextual-dominates-intertextual-rare-sixth-graders.md) — related
 - [Sixth graders mostly select relevant ideas well from multiple online texts when using a snippet tool](sixth-graders-select-relevant-ideas-well-snippet-tool.md) — related
+- [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related
+- [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related

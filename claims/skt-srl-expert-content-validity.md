@@ -43,4 +43,4 @@ Expert rating study with 17 German-speaking SRL researchers who assigned scenari
 
 
 ## Related Claims
--
+- [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related

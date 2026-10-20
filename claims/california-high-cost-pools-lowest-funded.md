@@ -47,3 +47,4 @@ Cross-state comparison in the executive summary reports California's high-cost p
 - California's special education allocation is not purely census-based: legacy J-50 cost-based rates produce per-student funding ranging from $557 to more than $900 across SELPAs — related
 - [California serves more than 725,000 K-12 students with disabilities and invests roughly $12 billion annually in special education, with LEA unrestricted funds covering the majority of spending](california-725000-swd-12-billion-special-education-spending.md)
 - [Most educationally related mental health services were provided by LEAs even though funds for them are allocated to SELPAs](ermhs-services-provided-by-leas.md)
+- [Federal IDEA funding has provided only about 15 percent of the national average per-pupil expenditure, versus the 40 percent originally promised](idea-funding-15-percent-versus-40-promise.md) — related

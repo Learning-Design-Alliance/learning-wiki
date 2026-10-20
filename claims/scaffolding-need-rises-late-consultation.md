@@ -44,3 +44,4 @@ Turn-level expert annotation of the released consultation corpus (2,350 student 
 
 ## Related Claims
 - [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related
+- [Human and agent framework revisions concentrate on the mid-level engagement categories (Levels 3–5), indicating greater ambiguity there than at scale endpoints](mid-level-icap-categories-most-ambiguous.md) — related

@@ -48,3 +48,6 @@ Descriptive statement from the report's own overview of its analytic purpose: th
 - [The working paper examines the sensitivity and precision of teacher value-added estimates under specifications differing in student-level, peer-level, and double-lagged achievement controls](vam-sensitivity-student-peer-controls-examined.md) — related
 - [Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators](tle-third-year-value-added-results.md) — related
 - The paper clarifies confusion about the use of value-added information in teacher evaluation — a broader claim this one bears on
+- [The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years](value-added-model-updates-spring-2016.md) — related
+- [Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction](oklahoma-pilot-evaluation-value-added-model-2012-13.md) — related
+- [The report explicitly discusses limitations of the Oklahoma value-added model](oklahoma-value-added-model-limitations-discussed.md) — related

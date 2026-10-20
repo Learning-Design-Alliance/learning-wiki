@@ -65,3 +65,5 @@ Descriptive frequency comparison of video-control behaviors (play, pause, fast-f
 - [Without video review, hands-on activities enhance vocational students' practical skill performance more effectively than virtual simulations](hands-on-beats-virtual-simulation-without-video-review.md) — related
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — related
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
+- [Video review enhances practical skill performance in both modalities and eliminates the hands-on versus virtual simulation difference](video-review-eliminates-modality-performance-gap.md) — related
+- [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](video-review-scaffolds-self-regulated-learning.md) — related

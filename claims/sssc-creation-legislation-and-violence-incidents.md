@@ -47,3 +47,4 @@ Descriptive survey finding on reasons for starting SSSCs (Exhibit 3), based on a
 - [Most State School Safety Centers were created in response to a high-profile incident such as a school shooting or natural disaster](ssscs-created-after-high-profile-incidents.md) — reports the opposite
 - [State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment](state-safety-legislation-focuses-emergency-management.md) — related
 - [Most state school safety centers are recent: 62% were established between 2010 and 2020](ssscs-mostly-established-last-decade.md) — related
+- [Most SSSCs have small staffs (over 75% with 10 or fewer staff) yet engage in a wide range of activities, led by technical assistance (93%) and training (86%)](ssscs-small-staff-wide-activity-range.md) — related

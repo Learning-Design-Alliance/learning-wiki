@@ -49,3 +49,5 @@ ANOVA on proportion of multiple-choice questions correctly answered across 6 mys
 ## Related Claims
 - [Feedback effects on attention to conceptual integration are moderated by age and control beliefs: only older adults with high control beliefs allocate more attention after high-performance feedback](feedback-attention-moderated-by-age-and-control-beliefs.md) — related
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related
+- [The false feedback manipulation successfully altered performance beliefs: the high-PFB group rated their performance higher relative to age peers than the low-PFB group](false-feedback-manipulation-check-successful.md) — related
+- [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related

@@ -53,3 +53,6 @@ Note (2026-10-15): both d values are printed by the source (arXiv 0709.2738, res
 - [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
 - Students who experienced the technology-enhanced class were far more favorable toward technology (76.0%) than no-technology students (20.4%) — related
 - [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related
+- [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
+- [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — a broader claim this one bears on

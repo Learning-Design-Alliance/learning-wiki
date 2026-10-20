@@ -66,3 +66,6 @@ Self-reported cognitive demand "trended higher with AIfred (3.4/5 vs. 2.9/5;p=.0
 - [Among students, longer AI-use experience is monotonically associated with higher perceived usefulness (Spearman's r = 0.327), though self-selection may explain part of the pattern](experience-usefulness-association-students.md) — related
 - [Supporting user interaction and control in the indicator implementation process positively affects transparency, trust, satisfaction, and acceptance in LA](ssla-user-control-improves-transparency-trust-acceptance.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
+- [AIfred is faster for early image-generation modifications but ChatGPT becomes faster at four modifications, with no overall significant time difference](aifred-image-generation-completion-time.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [Robotic projected AI assistance yields 60% higher short-term learning transfer than screen-based ChatGPT once assistance is withdrawn](aifred-higher-short-term-learning-transfer.md) — related

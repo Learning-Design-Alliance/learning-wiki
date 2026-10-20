@@ -103,3 +103,6 @@ Several moderators are plausible from general reasoning about scope. Benefits sh
 - [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — a broader claim this one bears on
 - [Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans](concept-catalyst-concept-map-supports-teacher-reflection.md) — related
 - [Basic DCT mechanisms can be used to model diverse educational phenomena](dct-mechanisms-model-educational-phenomena.md) — a broader claim this one bears on
+- [Well-organized texts following rhetorical schemata are better remembered than disorganized texts, and high-structure information is more likely to be recalled](organized-text-high-structure-recall-advantage.md) — related
+- [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — related
+- [Triads with access to each other's concept maps were more efficient in collaborative problem solving](shared-concept-maps-improve-triad-efficiency.md) — a narrower finding that bears on this claim

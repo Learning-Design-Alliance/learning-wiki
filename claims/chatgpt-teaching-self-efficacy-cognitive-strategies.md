@@ -60,3 +60,7 @@ ANCOVA on an adapted MSLQ-based SRL questionnaire administered pre and post; the
 - [AI-mediated language instruction fosters self-regulated learning among EFL learners more than traditional instruction](ai-instruction-fosters-self-regulated-learning.md) — related
 - [Adding a teachable agent to the standard science curriculum improved fourth-graders' learning gains on both curriculum tests and researcher-designed hierarchical reasoning tests](ta-improves-basic-and-added-value-gains-fourth-grade.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
+- [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](iterative-testing-predicts-self-efficacy-gains.md) — related
+- [Pilot studies in computing-related majors report measurable improvements in student engagement, self-efficacy, and learning outcomes](pilot-studies-measurable-improvements-engagement-self-efficacy.md) — related
+- [Students using an AR system for plant study showed higher learning motivation than a control group](arflora-ar-higher-motivation-plant-study.md) — related
+- [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related

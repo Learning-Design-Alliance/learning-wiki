@@ -68,3 +68,4 @@ Direction of the significant three-way interaction on multiple-choice scores as 
 - [Low contingent support increased task effort when independent working time was short; with long independent working time task effort decreased under both contingencies but less so with high contingency](contingency-working-time-task-effort-interaction.md) — related
 - [On the knowledge assignment, neither the occasion-by-contingency interaction nor the three-way interaction with independent working time was significant](knowledge-assignment-null-contingency-effects.md) — related
 - [Contingent scaffolding improves learning more than fixed or absent support.](contingent-scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Higher levels of contingent support were related to higher appreciation of support, regardless of measurement occasion or independent working time](contingency-relates-to-appreciation-of-support.md) — related

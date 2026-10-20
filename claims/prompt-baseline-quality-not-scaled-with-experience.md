@@ -45,3 +45,4 @@ Baselining phase of the study: 15 developers wrote prompts for three APPS tasks 
 ## Related Claims
 - [A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall](prompt-coach-significant-overall-prompt-quality-gain.md) — related
 - [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
+- [Token consumption is uncorrelated with task quality across models (r = −0.03), suggesting agents lack mechanisms for knowing when to stop](token-consumption-uncorrelated-with-quality-academiclaw.md) — related

@@ -46,3 +46,5 @@ Delayed retention phase of the factorial experiment; efficiency combined standar
 - [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — related
 - [Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks](zambrano-2019-experienced-groups-outperform-inexperienced.md) — related
 - [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](zambrano-2019-learning-phase-manova-main-effects.md) — related
+- [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
+- [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](zambrano-2019-low-density-benefit-shortlived.md) — related

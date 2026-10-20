@@ -43,4 +43,6 @@ Path analysis results for the effective self-regulator group (N=421). Table 2 pa
 
 
 ## Related Claims
--
+- [Performance-approach goals are directly related to the use of surface cognitive and resource management strategies in effective self-regulators](performance-approach-goals-surface-resource-strategies.md) — related
+- [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
+- [Six relationships in the model differ for less effective self-regulators, including performance-avoidance goals being unrelated to metacognition](model-differences-less-effective-self-regulators.md) — related

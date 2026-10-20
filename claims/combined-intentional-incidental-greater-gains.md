@@ -52,3 +52,5 @@ The design is known here only through the review's one-paragraph account, and th
 - [Listening to vocabulary lessons while physically active improves End-of-Unit exam performance over traditional intentional learning alone](lwpa-outperforms-traditional-vocabulary-learning.md) — related
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — reports the opposite
+- [Incidentally acquired vocabulary is retained over time while intentionally learned (focus-on-form) words are rapidly forgotten](incidental-vocabulary-retained-intentional-forgotten.md) — reports the opposite
+- [Adding reciprocal peer tutoring with audio prompting to incidental exposure produced stronger vocabulary gains than incidental exposure alone for fourth-grade struggling readers](peer-tutoring-audio-prompting-vocabulary-gains.md) — related

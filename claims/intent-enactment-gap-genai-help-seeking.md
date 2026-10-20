@@ -71,3 +71,6 @@ Same correlational intent-enactment analysis, reporting null associations for le
 - [Grade-9 students' LLM-supported mathematical interactions are strongly request-dominated, with little explicit planning, monitoring, or evaluation](llm-math-interactions-request-dominated-grade9.md) — related
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related
 - [Direct student requests for answers significantly increased the AI's provision of direct answers (26.1% vs. 12.5% baseline; r = 0.14), though the AI maintained scaffolding in most cases](student-pressure-shifts-ai-toward-answers.md) — related
+- [Adaptive help seeking is a self-regulatory behavioral strategy, distinct from dependent help seeking](adaptive-versus-dependent-help-seeking.md) — related
+- [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related
+- [Within a single LLM session, students' help-seeking shifts toward answer- and verification-seeking while explicit self-regulation modestly increases](within-session-hs-shifts-toward-closure-srl-increases.md) — related

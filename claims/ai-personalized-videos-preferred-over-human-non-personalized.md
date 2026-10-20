@@ -48,3 +48,5 @@ End-of-term ranking survey in two offerings of a large online undergraduate cour
 - [Students preferred human-recorded over AI-generated videos when personalization was held constant, but this effect was smaller than the personalization effect](human-presence-preference-smaller-than-personalization.md) — reports the opposite
 - [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
 - [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](collearn-ab-personalised-question-preference.md) — related
+- [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — reports the opposite
+- [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related

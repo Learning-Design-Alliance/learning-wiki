@@ -43,3 +43,5 @@ Conclusion drawn from the validated scales whose shared items covered looking fo
 ## Related Claims
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint](performance-expectancy-staff-student-gap.md) — related
+- [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
+- [Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves](staff-overestimate-student-gai-use.md) — related

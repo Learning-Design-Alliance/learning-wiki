@@ -47,3 +47,4 @@ Analysis shown in Figure 6 of CALPADS enrollment data for 2022–23. The report 
 - [Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs. 40% of other ever-ELs)](ltel7-began-lowest-english-proficiency.md) — related
 - [Special education needs are much more prevalent among California students designated as LTEL7 (28%) than other ever-EL peers (11%)](special-education-needs-more-prevalent-ltel7.md) — related
 - [Graduation disparities: 69% of 12th-grade LTEL7 students attained a high school diploma compared to 86% of other ever-EL peers](ltel7-graduation-disparities.md) — related
+- [More than half of LTEL7 students were in their 7th, 8th, or 9th year of being classified as EL, and more than 20,000 had been classified for 12 or more years](ltel7-years-classified-distribution.md) — related

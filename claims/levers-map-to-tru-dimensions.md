@@ -45,3 +45,4 @@ Conceptual mapping in the paper's non-AI target section: a table assigns levers 
 ## Related Claims
 - IE's doing-with stance and democratic ethos map onto SDT autonomy support — related
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related
+- [AI shifts the learner's role from producer to evaluator of mathematical meaning across multiple generative strategies](production-to-evaluation-shift-generative-strategies.md) — related

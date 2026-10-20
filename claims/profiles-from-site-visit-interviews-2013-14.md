@@ -45,3 +45,5 @@ Qualitative multi-site study: twelve profiles of state education agencies, schoo
 ## Related Claims
 - Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting — related
 - [CBE practices at the consortium colleges were identified through document review, site visits, and stakeholder interviews](cbe-practices-identified-via-review-visits-interviews.md) — related
+- [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related
+- [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related

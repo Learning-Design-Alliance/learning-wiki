@@ -47,3 +47,5 @@ Poisson GLMM analysis of error counts from the within-subjects study (N=162 obse
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related
 - [Success rates decrease monotonically from easy to medium to hard difficulty levels across all models](monotonic-difficulty-decline-turtleai.md) — related
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Goal setting improves performance](goal-setting-improves-performance.md) — related
+- [Theoretical quality of both theory-based and non-theory agents remains stable across Easy, Medium, and Hard scenario difficulty levels](theoretical-quality-stable-across-difficulty.md) — related

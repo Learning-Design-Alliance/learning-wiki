@@ -45,3 +45,4 @@ Comparison of phonologically plausible spelling errors between CI-HS students an
 ## Related Claims
 - [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
+- [Adolescents with cochlear implants receive lower expository writing ratings than hearing peers across organization, content, language use, and vocabulary](ci-adolescents-expository-writing-ratings-lower.md) — related

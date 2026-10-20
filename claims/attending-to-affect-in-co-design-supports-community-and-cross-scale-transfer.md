@@ -58,3 +58,4 @@ This is a well-documented single-site qualitative case study (q2) with real meth
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - Research question co-design builds community and moves research closer to practice — related
 - [A facilitated Community of Practice helped isolated state American Indian Education Directors build relationships that broke down silos and combated professional isolation](cop-relationships-combat-aie-director-isolation.md) — related
+- [Collectively mourning extinct or near-extinct more-than-human entities facilitates recognition of the more-than-human as co-participants in shared reality](species-eulogy-fosters-more-than-human-recognition.md) — related

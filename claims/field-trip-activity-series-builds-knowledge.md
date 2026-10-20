@@ -45,3 +45,4 @@ Design rationale stated in the packet's introduction (type e, authors' interpret
 
 ## Related Claims
 - [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — a broader claim this one bears on
+- [Exposure to field trips to informal science institutions produces small positive effects on middle school students' standardized science test scores](field-trips-small-positive-science-score-effects.md) — related

@@ -67,3 +67,5 @@ Descriptive survey results from the same eight-participant pilot: understanding,
 - [A question-repetition bug in Quiz Mode, reported by 2/8 pilot participants, was a defect simulation-based evaluation could not identify](quiz-repetition-bug-simulation-blind-spot.md) — related
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — related
 - [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
+- [In an exploratory pilot, students perceived the course-specific RAG system's responses as highly aligned with course materials (89%) and helpful for assessment understanding](pilot-students-perceive-rag-responses-course-aligned.md) — related
+- [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](social-validity-voicepod-tutoring.md) — related

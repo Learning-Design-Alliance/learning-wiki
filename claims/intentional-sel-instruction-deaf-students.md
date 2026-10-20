@@ -43,3 +43,5 @@ Case study interview with Dr. Michelle Tanner, who estimates 90 percent of stude
 ## Related Claims
 - [Most working-group district leaders reported planning or already implementing concrete SEL changes within two months of the Melbourne convening](sel-working-group-districts-implement-changes.md) — related
 - [Instructional modifications that lower barriers are optional supports for younger resilient learners but may be necessary for older beginners, pre-literate students, and learners dealing with trauma or disabilities](modifications-essential-for-vulnerable-learners.md) — a broader claim this one bears on
+- [California LEAs most commonly supported social-emotional learning through play-based learning and supported students with disabilities through instructional adaptations and added staff](play-based-sel-and-disability-supports-in-tk.md) — related
+- [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related

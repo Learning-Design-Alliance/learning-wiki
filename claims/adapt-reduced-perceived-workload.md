@@ -50,3 +50,5 @@ Authors' summary of the 12-participant evaluation study, in which all participan
 - [AI scheduling systems reportedly reduce administrative workload by up to 40% and enrollment prediction exceeds 85% accuracy (as reported in the reviewed literature)](ai-administrative-efficiency-reported-gains.md) — related
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [Educators benefit from AI chatbots through time-saving administrative assistance and improved pedagogy](chatbot-educator-time-saving-pedagogy.md) — a broader claim this one bears on
+- [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
+- [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md) — related

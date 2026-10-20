@@ -47,3 +47,4 @@ Kaplan-Meier analysis of the full sample of 109 PCC teacher education students. 
 - [Ministry of Education-affiliated students averaged 2.3 years to graduation, faster than PCAA (Head Start) and unaffiliated students](moe-affiliated-students-faster-graduation.md) — related
 - [Students with prior college experience graduated faster, averaging at least 0.9 years after re-enrolling versus at least 4.8 years for students without prior college experience](prior-college-experience-faster-pcc-graduation.md) — related
 - [Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years](pcc-teacher-education-thirty-percent-ontime-graduation.md) — related
+- [Only 12.9 percent of students without prior college experience graduated within five years, putting them at risk of credit expiration](no-prior-experience-low-five-year-graduation.md) — related

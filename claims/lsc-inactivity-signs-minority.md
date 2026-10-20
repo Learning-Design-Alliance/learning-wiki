@@ -65,3 +65,4 @@ Analysis of the count of inactivity signs per council: about 13 percent report d
 - [Most LSCs are active in School Improvement Plan development, but fewer than a quarter are highly involved in the budget process](lsc-sip-active-budget-less-involved.md) — related
 - [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related
 - [More than half of LSCs conduct a comprehensive principal evaluation with explicit criteria, but 12 percent did no evaluation and principals offer more guarded views than other members](lsc-principal-evaluation-process.md) — related
+- [LSC members' self-assessments show little variation among principals, teachers, parents, and community representatives, and fewer than 10 percent view their councils negatively](lsc-self-assessments-little-variation.md) — related

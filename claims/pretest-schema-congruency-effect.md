@@ -46,3 +46,4 @@ Self-paced pretest of 40 questions on Day 1 before learning, in 31 analyzed stud
 - [Encoding reaction times do not differ between schema-related and schema-unrelated trials](encoding-rt-no-schema-difference.md) — related
 - [New facts related to students' prior disciplinary knowledge are better remembered after 24 hours than schema-unrelated facts](schema-related-facts-better-remembered.md) — related
 - [Successful encoding of schema-related information recruits the mPFC whereas successful encoding of schema-unrelated information recruits the medial temporal lobe](schema-by-memory-mpfc-mtl-interaction.md) — related
+- [Pretesting enhances learning](pretesting-enhances-learning.md) — related

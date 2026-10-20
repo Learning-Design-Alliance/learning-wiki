@@ -47,3 +47,6 @@ Meta-regression from Table 2 controlling for log-centered test length. Language 
 - [Digital data use differs by teaching subject: STEM teachers report lower use than languages/arts/humanities and vocational teachers, and vocational teachers report the highest use](subject-differences-digital-data-use.md) — related
 - [Cronbach's Alphas of knowledge tests vary widely, with a 90% prediction interval of (0.35, 0.96)](knowledge-test-alpha-prediction-interval.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
+- [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related
+- [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
+- [Open response format is associated with higher Alpha than multiple choice in knowledge tests](knowledge-test-alpha-response-format.md) — related

@@ -44,3 +44,7 @@ Editorial synthesis of the five special-issue studies, which used online measure
 
 ## Related Claims
 - [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- [Evidence indicates socially shared regulation of learning occurs across SRL areas and may promote learning and performance](ssrl-empirical-evidence-occurrence-and-effects.md) — related
+- [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md) — a broader claim this one bears on
+- [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md) — related
+- [Self-regulated learning facets that are conceptually common across three popular questionnaires appear empirically disparate](srl-questionnaire-facets-empirically-disparate.md) — related

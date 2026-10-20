@@ -49,3 +49,6 @@ Exploratory RQ4 descriptive analysis of RM-CC5 system use metrics for 881 of 940
 - [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
 - Practitioners identified classroom complexities and fidelity-of-implementation variability as considerations experimental research should account for beyond causal effects — related
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
+- [Personalized Learning Effects Vary With Fidelity](personalized-learning-effects-vary-with-fidelity.md) — related
+- [Achievement effects accumulated over a third year in schools implementing personalized learning since 2012 or earlier, though not purely additively](pl-effects-accumulate-third-year.md) — related
+- [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related

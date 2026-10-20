@@ -46,3 +46,6 @@ The toolkit reports key findings from Mumma and Winters (2023) on Mississippi's 
 ## Related Claims
 - [The threat of retention produced statistically significant increases in 3rd-grade math and reading performance before the retention decision](retention-threat-raises-grade-3-performance.md) — related
 - [Third-grade retention under the Chicago policy produced no sustained academic benefits or substantial negative effects](third-grade-retention-no-sustained-benefit.md) — related
+- [Retained sixth graders had lower achievement growth than promoted low-achieving counterparts](sixth-grade-retention-lowered-achievement-growth.md) — reports the opposite
+- [Retained students showed smaller three-year achievement gains than previously socially promoted students, though Rasch adjustment erased the gap for once-retained third graders](retained-students-smaller-gains-than-social-promotes.md) — reports the opposite
+- [Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further](retention-social-promotion-no-gap-closing.md) — related

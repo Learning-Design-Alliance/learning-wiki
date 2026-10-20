@@ -52,3 +52,4 @@ Comparison experiment on the same institutional dataset (Table 1: TRACE MSE 0.03
 - [DMO-GRU attains the lowest MAE and RMSE and the highest R2 score among the compared regression models for forecasting student success](dmo-gru-lowest-regression-error-highest-r2.md) — related
 - [On the ASSISTments real-world benchmark, the proposed method achieves the best performance across all metrics, significantly outperforming all baselines](assistments-real-world-best-all-metrics.md) — related
 - Replacing the transformer with a single-layer 2048-unit LSTM drops the average score by 5.6, with the LSTM winning only on MRPC — related
+- [Course prediction achieves modest classification metrics (F1 0.4432) yet the auxiliary task regularizes representations and improves grade prediction](course-prediction-metrics-auxiliary-task.md) — related

@@ -64,3 +64,9 @@ Wenkang Zhang, Albert W. Li, Chenze Wu. (2025). University students' perceptions
 ## Related Claims
 
 - [Students perceive GenAI-assisted translation as challenged by inadequate outputs, limited prompt engineering, and risks to creativity and employment](genai-translation-challenges-adequacy-prompting.md)
+- [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — a broader claim this one bears on
+- [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md) — a broader claim this one bears on
+- [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — a narrower finding that bears on this claim
+- [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related
+- [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related

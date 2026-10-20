@@ -43,4 +43,6 @@ Regression-based mediator analysis (Hayes 2018 approach) testing whether prompts
 
 
 ## Related Claims
--
+- [Cognitive and metacognitive prompts did not increase self-reported online strategy use, the quality of strategies in learners' notes, or learning outcomes in hypermedia learning](prompts-no-effect-strategy-use-outcomes-hypermedia.md) — possibly the same claim (merge candidate)
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — reports the opposite
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related

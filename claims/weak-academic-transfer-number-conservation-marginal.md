@@ -60,3 +60,5 @@ Post-hoc independent-samples t-tests on post-test scores, justified by equivalen
 ## Related Claims
 - [Processing speed showed no significant group × time interaction, with only a marginal intervention advantage at 4 weeks](processing-speed-no-significant-social-media-effect.md) — related
 - [The training group outperforms controls on social problem resolution, with a significant group effect and a marginal interaction](social-problem-resolution-group-effect-marginal-interaction.md) — related
+- [Symbolic number magnitude training, but not non-symbolic training, significantly improves preschoolers' exact arithmetic](symbolic-magnitude-training-improves-preschool-arithmetic.md) — related
+- [Symbolic training transfers to the auditory modality, improving spoken number-word magnitude comparison](symbolic-training-transfers-verbal-comparison.md) — related

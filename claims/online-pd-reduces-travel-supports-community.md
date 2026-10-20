@@ -48,3 +48,6 @@ The brief's framing statement, offered without supporting data or argument, list
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [The brief reports that online tools can engage prospective adult learners and make enrollment convenient given work and family demands](online-tools-convenient-enrollment-adult-learners.md) — related
+- [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
+- [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](ai-web-agents-accelerate-online-learning-advancements.md) — related
+- [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — reports the opposite

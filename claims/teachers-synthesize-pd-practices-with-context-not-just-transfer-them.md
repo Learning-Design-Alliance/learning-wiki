@@ -53,3 +53,6 @@ This is a two-case ethnographic study (n=2 intensive focal cases) selected from 
 - [The sense-making and interpretation steps of teacher inquiry models proved confusing for teachers](sense-making-interpretation-steps-confusing-for-teachers.md) — related
 - [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related
 - [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — related
+- [Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula](teachers-more-productive-than-nonproductive-adaptations.md) — related
+- [Contrasting workshop practices (random vs. purposeful grouping) framed the problem of labeling students around local context and teacher agency](grouping-practices-framed-labeling-problem.md) — related
+- [The pandemic disruption promoted teacher adaptation and may have prompted lasting new practices, per the authors](pandemic-promoted-teacher-adaptation-lasting-practices.md) — related

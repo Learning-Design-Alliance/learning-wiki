@@ -44,3 +44,6 @@ Episode analysis of group 4 shows one student (Vera) introduced a graphical prin
 
 ## Related Claims
 - [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — related
+- [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — related
+- [The two phases of the argumentative task required different organizing principles, and groups changed or failed to change accordingly](two-phases-require-different-principles.md) — related
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — related

@@ -44,3 +44,6 @@ Qualitative case-study analysis of the agent's outputs on lesson designs: the au
 
 ## Related Claims
 - [In a case analysis, probing instructor feedback with required revise-and-resubmit moved one teacher candidate toward citing student evidence, though his progress was not linear and another candidate did not improve](probing-feedback-revise-resubmit-evidence.md) — related
+- [Accurate LLM solution diagnosis does not reliably produce pedagogically actionable feedback, with lowest rubric scores on error identification and actionability](accurate-diagnosis-not-actionable-feedback.md) — reports the opposite
+- [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related
+- [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related

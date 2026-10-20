@@ -51,3 +51,6 @@ Figure 2 analysis for District A middle school math teachers (N=235 teachers as 
 - [Elementary under-representation of highest-performing teachers appears in 4 of 8 districts despite the aggregate null](elementary-underrepresentation-four-of-eight-districts.md) — related
 - [Educator evaluation systems combine student growth measures with other performance measures such as classroom observation scores to identify highest- and lowest-performing teachers](growth-measures-combined-with-observations-in-evaluation.md) — related
 - [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](school-growth-variance-exceeds-poverty-effect.md) — related
+- [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — a broader claim this one bears on
+- [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — related
+- [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related

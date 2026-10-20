@@ -46,3 +46,5 @@ Methodological argument, not a tested result: the authors identify criterion-tra
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — related
 - [The optimal interstudy interval increases as the retention interval increases](optimal-isi-increases-with-retention-interval.md) — related
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related

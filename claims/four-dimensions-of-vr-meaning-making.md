@@ -49,3 +49,5 @@ The interaction analysis of transcribed reflective dialogues used a review of th
 - [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — a narrower finding that bears on this claim
 - [Students in an upper secondary classroom experienced the individually-oriented viewing of the VR film Travelling While Black as highly social, despite sitting silently in headset-wearing groups](students-experienced-vr-film-viewing-as-social.md) — a broader claim this one bears on
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — related
+- [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
+- [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](personal-experiences-as-classroom-learning-resources.md) — related

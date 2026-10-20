@@ -46,3 +46,5 @@ Qualitative key-finding analysis of workshop transcripts and storyboards from th
 - [Los principales retos percibidos al usar LER son la exactitud de la información, la seguridad, saber cómo usarlos, la adopción por empleadores y el acceso](retos-percibidos-lers-exactitud-seguridad-acceso.md) — related
 - [Las transiciones en el aprendizaje de estudiantes y trabajadores de comunidades HSE son interseccionales, dinámicas y no lineales, con múltiples cambios simultáneos](transiciones-aprendizaje-interseccionales-no-lineales.md) — related
 - [Concerns about the complexity of changing assessment and the resources needed to change assessment were pervasive among participants.](genai-assessment-change-complexity-resource-concerns.md) — related
+- [A significant portion of participants said they would have exited LER onboarding without live human support](live-support-prevents-ler-onboarding-exit.md) — related
+- [HSE learners and workers saw consolidated records, job matchmaking, convenience, auto-translation, and career search as top LER opportunities](top-perceived-ler-opportunities.md) — related

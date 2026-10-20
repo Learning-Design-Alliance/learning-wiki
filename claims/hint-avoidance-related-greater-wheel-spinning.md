@@ -57,3 +57,5 @@ Finding from the J48 decision tree analysis of ASSISTments Skill Builder log dat
 - A retention-based definition of wheel-spinning classifies a much lower proportion of students as wheel-spinning than Beck and Gong's opportunity-count definition — related
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
 - [Undergraduate computing students report help-seeking avoidance and anxiety, with 62.5% sometimes avoiding asking for help even when needed and 75% reporting anxiety when not understanding a topic](students-avoid-help-seeking-despite-need.md) — related
+- [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
+- [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related

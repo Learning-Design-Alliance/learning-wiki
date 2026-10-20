@@ -72,3 +72,5 @@ The brief's key findings state that "Ecree likely improved the quality of studen
 - [A 2021–2022 study examined teachers' and students' use of MI Write and its impact on student and teacher outcomes](mi-write-study-examined-use-and-impact.md) — related
 - [About half of surveyed students agreed Ecree was easy to use and helped improve their writing](about-half-of-students-found-ecree-easy-and-helpful.md) — related
 - [Teachers found Ecree and MI Write useful for their writing instruction and for helping students improve their writing](teachers-found-ecree-mi-write-useful-writing-instruction.md) — related
+- [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
+- [Students need clear guidance so they are not overwhelmed by Ecree's feedback, which may be most useful for advanced writers](students-need-guidance-ecree-feedback-advanced-writers.md) — reports the opposite

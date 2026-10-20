@@ -48,3 +48,6 @@ Between-group ANOVA comparisons (with Bonferroni post hoc tests) among 208 adole
 - [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — a broader claim this one bears on
 - [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
 - [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — related
+- [Adults with ADHD who frequently engage in physical exercise report healthier psychological well-being than those who do not](physical-activity-correlates-wellbeing-adults-adhd.md) — related
+- [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — related
+- [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related

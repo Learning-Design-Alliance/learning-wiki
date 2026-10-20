@@ -45,3 +45,6 @@ Descriptive analysis of CPS administrative testing records for 2004 reported in 
 ## Related Claims
 - Only about 9 percent of CPS students who start first grade without transferring out meet Illinois Learning Standards in reading and math by eleventh grade, and continuously enrolled students outperform returners — related
 - [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](psae-cohort-freshmen-53-percent-tested.md) — related
+- [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — related
+- [Under NCLB, CPS transfer demand far exceeded available seats, and school classifications were unstable](nclb-cps-transfer-demand-exceeds-seats.md) — related
+- [High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested](high-stakes-testing-pervasive-efficacy-contested.md) — a broader claim this one bears on

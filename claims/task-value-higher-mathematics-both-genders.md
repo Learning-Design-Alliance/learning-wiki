@@ -68,3 +68,4 @@ Same repeated measures survey study: post hoc tests showed "Females reported a h
 - [Cognitive strategy use was highest in social studies and lowest in mathematics, and females reported more use than males](cognitive-strategy-use-varies-by-subject-area.md) — related
 - [Test anxiety was highest in social studies and lowest in English, with the pattern differing by gender](test-anxiety-varies-by-subject-and-gender.md) — related
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related
+- [The relations among motivational, strategy use, and performance constructs were similar across mathematics, English, and social studies](motivation-cognition-relations-similar-across-subjects.md) — related

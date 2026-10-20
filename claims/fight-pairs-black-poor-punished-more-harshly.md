@@ -49,3 +49,4 @@ The study's headline finding, from comparing punishments within fight pairs: "Bl
 - [Black and poor students are suspended from US schools at higher rates than White and nonpoor students](black-poor-students-suspended-higher-rates.md) — possibly the same claim (merge candidate)
 - Prior studies of discipline disparities were limited by a selection challenge that prevented identifying discrimination — related
 - [The authors interpret the same-offense discipline gap as suggesting possible implicit bias against Black students and students with disabilities](implicit-bias-possible-discipline-disparities.md) — related
+- [Black students and students with disabilities in Maryland were suspended and expelled at more than twice the rates of other students](maryland-black-disabilities-twice-discipline-rates.md) — related

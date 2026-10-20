@@ -65,3 +65,4 @@ Review synthesis reporting that representational pictures "had similar effects f
 - [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](affective-gender-no-moderation.md) — related
 - [Representational pictures relate to better word problem-solving performance only with relatively simple tasks, with the largest effects for first-position-of-the-unknown problems](representational-pictures-help-simple-word-problems.md) — related
 - [Representational pictures show consistently null effects for word problems with demanding characteristics such as rational numbers, probabilistic reasoning, or realistic considerations](representational-pictures-null-demanding-tasks.md) — related
+- [Informative pictures relate to poorer word problem-solving performance, with negative effects from g = −1.08 to −0.08](informative-pictures-negative-effects.md) — related

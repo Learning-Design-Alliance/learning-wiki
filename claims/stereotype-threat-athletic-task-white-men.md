@@ -46,3 +46,5 @@ The article reports this as a finding from stereotype-threat studies in which st
 
 - [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md)
 - [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](stereotype-threat-reverses-boys-reading-gender-gap.md)
+- [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — a broader claim this one bears on
+- [Making socioeconomic identity salient or presenting a test as diagnostic of intelligence leads low-SES students to perform significantly worse and report lower self-confidence than low-SES participants in non-threatening conditions](ses-stereotype-threat-lowers-low-ses-test-performance.md) — a broader claim this one bears on

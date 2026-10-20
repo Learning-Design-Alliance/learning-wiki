@@ -63,3 +63,8 @@ Piecewise multilevel growth models (Model 2) estimated monthly learning rates fo
 - [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related
 - [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related
+- [Despite faster early math growth, dual language students did not learn more than their peers in the long run and the gap to the national average was not closing](dual-language-math-no-long-run-advantage-gap-not-closing.md) — related
+- [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md) — related
+- [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
+- [Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades](ever-current-el-gains-grade-pattern.md) — related
+- [ELs with identified disabilities made slower progress toward English skills and had lower attendance, and were more likely to opt out of bilingual services](els-with-disabilities-slower-progress-lower-attendance.md) — related

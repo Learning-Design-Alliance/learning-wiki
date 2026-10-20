@@ -44,3 +44,4 @@ Response-pattern analysis of Item 3 (Data-FKSA3) in the main study, assessing id
 
 ## Related Claims
 - [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
+- [Identifying learners' difficulties with visual displays is an important basis for selecting appropriate support procedures](learner-difficulties-basis-for-support-selection.md) — a broader claim this one bears on

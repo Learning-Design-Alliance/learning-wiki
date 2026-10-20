@@ -44,3 +44,6 @@ Implementation detail from the DiLeo (2007) cluster randomized trial. In two sch
 - [DiLeo (2007) finds a substantively important but statistically non-significant positive effect of Odyssey® Math on grade 5 PSSA math scores](dileo-2007-substantively-important-non-significant-effect.md) — related
 - [In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week](dreambox-usage-21-8-hours-below-recommended-dose.md) — related
 - [Wijekumar et al. (2009) finds no statistically significant difference between Odyssey® Math and comparison classrooms on grade 4 TerraNova math scores](wijekumar-2009-null-effect-odyssey-math-terranova.md) — related
+- [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related
+- [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — a broader claim this one bears on
+- [Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students](rm-cc5-student-engagement-implementation-fidelity.md) — related

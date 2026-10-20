@@ -49,3 +49,7 @@ A corpus-level topic-modeling study analyzing 1,048 AIOL publications with BERTo
 - Discourse on AI in education peaked sharply in 2023 with the rise of generative AI tools such as ChatGPT before declining in 2024 — related
 - [AI in online learning offers personalization, predictive analytics, and potential reduction of instructor time on tasks](ai-online-learning-benefits-personalization-prediction-time.md) — related
 - [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
+- [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
+- [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md) — related
+- [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
+- [Predictive analytics can benefit education only if educators heed how their use should differ from industry](predictive-analytics-benefit-heed-schooling-differences.md) — related

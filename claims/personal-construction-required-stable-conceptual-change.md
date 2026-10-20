@@ -65,3 +65,7 @@ Finding derived from the 7 case studies of collaboration: students' conversation
 - [Collaborative constructions (joint analyses built while collaborating) had little relevance to individual post-test performance in adolescence and early adulthood](collaborative-constructions-little-relevance-older-learners.md) — reports the opposite
 - [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](fragmented-premature-shared-understanding.md) — related
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related
+- [Co-construction alone does not contribute to shared mental model development and shows a negative unique effect](co-construction-alone-hinders-shared-mental-models.md) — related
+- [Students' postings of personal experiences in discussion forums support, rather than undermine, knowledge building](personal-experiences-support-knowledge-building.md) — related
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
+- [High joint on-task engagement with high equality and mutuality of engagement did not necessarily mean cognitive engagement or ensure conceptual change](high-equality-mutuality-not-sufficient-conceptual-change.md) — related

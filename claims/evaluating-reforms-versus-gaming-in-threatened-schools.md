@@ -46,3 +46,7 @@ The author states the study's purpose: "This article evaluates the relative impo
 - [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — related
 - [Low examinee effort is a major threat to valid uses of many test scores](low-examinee-effort-threat-to-score-validity.md) — related
 - [Single composite accountability indicators are susceptible to gaming and Campbell's Law corruption pressures](composite-indicators-gaming-campbells-law.md) — possibly the same claim (merge candidate)
+- [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
+- [Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school](sanction-threat-math-gains-persist-middle-school.md) — related
+- [Evidence for persistence of threat-induced reading improvements is less consistent than for math](sanction-threat-reading-gains-persistence-inconsistent.md) — related
+- [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related

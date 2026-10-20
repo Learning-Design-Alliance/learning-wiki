@@ -45,3 +45,7 @@ In the N = 15 experiment, median JOL (3.75 steps) closely matched median perform
 ## Related Claims
 - [Self-assessment accuracy and estimated performance change do not improve over repeated task selections within a single session](self-assessment-accuracy-no-improvement-over-time.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
+- [Secondary school students overestimate their performance on learning tasks by about one step out of five](students-overestimate-task-performance.md) — related
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
+- [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
+- [Backward-associated word pairs produce a foresight bias: judgments of learning are inflated relative to actual recall when the dominant association runs from target to cue](foresight-bias-backward-pairs-inflated-jols.md) — related

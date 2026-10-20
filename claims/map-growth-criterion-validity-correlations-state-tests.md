@@ -44,3 +44,5 @@ Descriptive statistics (Tables 2.3 and 2.4) report correlations between linked s
 
 ## Related Claims
 - [MAP Growth RIT scores correlate strongly (r = 0.92–0.93) with state summative mathematics scores in the Minnesota MCA-III linking study](map-growth-rit-strongly-correlates-state-summative-mca-iii.md) — a narrower finding that bears on this claim
+- [The study collects concurrent validity evidence on the IRLA framework as a potential RTI screening tool](irla-concurrent-validity-screening-rti.md) — related
+- [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](map-growth-cut-scores-classification-accuracy-mca-iii.md) — related

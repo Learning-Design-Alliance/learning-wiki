@@ -44,3 +44,7 @@ The editorial's summary of Harney and Hogan's findings: the study explored summa
 
 ## Related Claims
 - [Simple, targeted mere exposure prompt (MEP) scripts show promise for promoting desirable learning behaviors in a fully online multiplayer role-play classroom](mep-scripts-socially-shared-regulation-role-play.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — a broader claim this one bears on
+- [Students in a scaffolded LLM-collaboration course improved significantly on initial argument quality, prompt engineering, and response to AI feedback from the first to the fifth assignment](argumentative-writing-gains-scaffolded-llm-assignments.md) — related

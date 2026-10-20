@@ -92,3 +92,11 @@ ERP interference suppression scores (incongruent minus congruent amplitude, 460�
 - [Inhibitory control did not relate to adolescents' communicative perspective-taking](inhibitory-control-not-related-perspective-taking.md) — related
 - [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related
 - [In toddlerhood, interference suppression correlates with expressive vocabulary after controlling for age, whereas response inhibition does not](toddler-interference-suppression-correlates-vocabulary.md) — related
+- [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](inhibition-reading-fluency-small-negative.md) — related
+- [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — related
+- [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related
+- [Associations between inhibition and word reading are task-dependent, ranging from negligible to large (r = .59)](inhibition-word-reading-task-dependent.md) — related
+- [The correlation between dot comparison performance and children's mathematics achievement is driven by incongruent, not congruent, trials](dot-comparison-math-link-driven-by-incongruent-trials.md) — related
+- [Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does](cool-ef-predicts-academic-performance.md) — related
+- [Early interference suppression, but not response inhibition, correlates with emergent literacy measures in both 4–5- and 5–6-year-old subsamples](fish-task-correlates-emergent-literacy-circle-does-not.md) — related
+- [Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model](interference-suppression-predicts-early-orthographic-knowledge.md) — related

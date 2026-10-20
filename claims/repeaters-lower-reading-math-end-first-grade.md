@@ -50,3 +50,4 @@ Association reported from the ECLS-K longitudinal dataset comparing end-of-first
 - [In fall 1998, five percent of children were repeating kindergarten and six percent were attending kindergarten for the first time despite being age-eligible a year earlier](five-percent-repeating-six-percent-delayed-kindergarten-1998.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
 - [Michigan's GSRP participants showed better kindergarten readiness, fewer grade repetitions, better reading and math proficiency, and better on-time graduation rates than non-participants, per a HighScope longitudinal evaluation](gsrp-longitudinal-evaluation-positive-outcomes.md) — related
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related

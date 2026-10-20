@@ -44,3 +44,4 @@ Qualitative systematic analysis of a representative set of prominent ML educatio
 
 ## Related Claims
 - [AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses](ai-se-topics-fundamentals-agentic-prompting-testing.md) — related
+- [Edtech designers rarely make explicit design for multilingual learners central, favoring general universal design](mll-explicit-design-less-prominent-than-universal-design.md) — related

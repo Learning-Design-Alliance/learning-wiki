@@ -45,3 +45,5 @@ Critical commentary on the McKenney et al. (2015) ecological framework for teach
 ## Related Claims
 - [Strategy Instruction Needs Conditional Knowledge](strategy-instruction-needs-conditional-knowledge.md) — related
 - [Students' application of teacher support predicts accurate answers in small-group work](student-uptake-of-support-predicts-small-group-answer-accuracy.md) — related
+- [Research agenda flags that practical concerns may dominate design-team discussion and hinder teacher learning, and that external priorities need further inquiry](practical-concerns-may-hinder-design-team-learning.md) — related
+- [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related

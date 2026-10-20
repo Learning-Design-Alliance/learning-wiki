@@ -52,3 +52,6 @@ Qualitative findings from the confirmatory study with 11 educators, several of w
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
 - [Educators perceived FH2T positioned students as doers of mathematics with agency and mathematical decision making in a safe practice environment](fh2t-students-doers-of-mathematics-agency.md) — related
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — related
+- [Trauma-informed practices such as safe environments and positive relationships can mitigate the effects of trauma and promote resilience](trauma-informed-practices-mitigate-trauma-promote-resilience.md) — related
+- [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
+- [Educators used FH2T's teacher console insights to modify instruction, and recommended the console share students' mathematical capabilities and content-area difficulties](fh2t-teacher-console-instructional-modification.md) — related

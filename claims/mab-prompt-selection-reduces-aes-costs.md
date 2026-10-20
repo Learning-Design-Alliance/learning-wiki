@@ -52,3 +52,5 @@ Simulation-style experiment on the IELTS Task 2 subset using Google Gemini 2.5, 
 - MAB assignment yields higher average rewards (student outcomes) than uniform random assignment during experiments — related
 - MAB (Thompson sampling) assignment reduces statistical power relative to uniform random assignment, requiring roughly doubled sample sizes — related
 - [Removing grid-search initialization of IRT discrimination and difficulty parameters drops scoring performance from QWK 0.747 to 0.705](psyscore-irt-initialization-ablation-qwk-drop.md) — related
+- [The four grading recipes exhibit an accuracy-cost tradeoff, with the most accurate recipe costing roughly five times the balanced alternative](aes-accuracy-cost-tradeoff-recipes.md) — related
+- [MAB assignment overestimates effect sizes for normally distributed rewards, with greater overestimation for smaller true effects](mab-overestimates-effect-sizes.md) — related

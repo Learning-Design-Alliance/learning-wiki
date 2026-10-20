@@ -51,3 +51,4 @@ Zero-order and age-partialled Pearson correlations among Time 1 measures in the 
 - [Inhibition relates to procedural skill in secondary-school children but to conceptual understanding in adults](inhibition-procedural-children-conceptual-adults.md) — related
 - [Interference suppression assessed at 28–36 months is the only significant predictor of early orthographic knowledge at 4–6 years in the full regression model](interference-suppression-predicts-early-orthographic-knowledge.md) — related
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related
+- [Inhibition shows moderate to large associations with reading comprehension in most studies, but the association depends on the inhibition task used](inhibition-reading-comprehension-task-dependent.md) — related

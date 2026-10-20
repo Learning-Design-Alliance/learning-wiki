@@ -48,3 +48,6 @@ Longitudinal SEM of the three-wave adolescent sample testing racial centrality a
 ## Related Claims
 - [No cross-lag effects were observed between racial discrimination and private regard in the full sample](no-cross-lag-discrimination-private-regard.md) — related
 - [Perceived discrimination is negatively related to later public regard, and low public regard buffers discrimination's impact on adjustment](public-regard-discrimination-longitudinal-buffering.md) — related
+- [Perceived racial discrimination at Time 1 is negatively linked to public regard at Time 2 among African American adolescents](discrimination-negatively-predicts-public-regard.md) — related
+- [Age moderates the discrimination–private regard relation: discrimination at Time 2 predicts lower private regard at Time 3 among late (17–18) but not middle adolescents](age-moderates-discrimination-private-regard.md) — related
+- [Public regard decreased linearly over time while reported discrimination dipped at Time 2 and rose again at Time 3](public-regard-decreases-discrimination-fluctuates.md) — related

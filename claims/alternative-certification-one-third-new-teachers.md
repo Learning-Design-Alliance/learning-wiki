@@ -51,3 +51,7 @@ The report's introductory section states the scale of alternative certification,
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
 - [Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21](teachers-of-color-alternative-route-entry.md) — related
 - Alternative-route teacher certification enrollment has grown rapidly nationally and in Michigan, where just over 40% of candidates were in alternative programs by 2023 — related
+- [Despite rapid expansion of alternative routes into teaching, little research exists to guide judgments about the effectiveness of different teacher training strategies](little-research-teacher-training-strategy-effectiveness.md) — related
+- [A five-year evaluation is assessing the impact of the Passport to Teaching credential on teacher performance measured by student achievement](passport-to-teaching-evaluation-student-achievement.md) — related
+- [Teachers of color disproportionately enter through alternative certification pathways, which predict higher turnover](alternative-certification-pathway-turnover-teachers-of-color.md) — related
+- [Each year thousands of new teachers pass through hundreds of different teacher preparation programs before being hired to teach in the nation's schools](thousands-of-new-teachers-hundreds-of-preparation-programs.md) — related

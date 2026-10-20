@@ -45,3 +45,6 @@ Exploratory factor analysis with varimax rotation on the coded activity frequenc
 ## Related Claims
 
 - [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md)
+- [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](regulation-of-social-activities-predicts-group-performance.md) — related
+- [The four collaborative-activity factors jointly explain almost 50% of the variance in group performance](collaboration-factors-explain-half-performance-variance.md) — related
+- [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — related

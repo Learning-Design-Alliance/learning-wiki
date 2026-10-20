@@ -46,3 +46,4 @@ Systematic review using WWC Procedures and Standards Handbook (version 3.0) of t
 - [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — a narrower finding that bears on this claim
 - [Achieve3000 shows moderate ESSA evidence of positive effects on reading fluency](achieve3000-moderate-evidence-reading-fluency.md) — related
 - [Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00](achieve3000-average-effect-size-zero.md) — related
+- [One small evaluation of Achieve3000 found positive effects on the SRI but not Terra Nova (average effect size +0.16)](achieve3000-small-study-positive-sri.md) — related

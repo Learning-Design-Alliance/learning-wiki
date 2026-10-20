@@ -70,3 +70,4 @@ Regression analysis in the Results section predicting seconds of speech from mea
 - [Attentional shifting, but not focusing, significantly moderates the effect of speech anxiety on judged quality](attentional-shifting-moderates-anxiety-effect.md) — a narrower finding that bears on this claim
 - [Greater public speaking anxiety correlates with shorter and more poorly received speeches](speech-anxiety-correlates-poorer-performance.md) — related
 - [Speakers rate their own speeches more harshly than independent judges do](self-assessments-harsher-than-judges.md) — related
+- [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related

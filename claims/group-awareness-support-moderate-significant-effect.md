@@ -83,3 +83,4 @@ The editorial reports that the meta-analysis found no significant differences in
 ## Related Claims
 - [Providing combined cognitive and behavioral group awareness information positively affects cognitive and behavioral learning processes and outcomes in social media, per the editorial's report of Ollasch et al., but its emotional effects were not consistently positive.](combined-cognitive-behavioral-ga-positive-cognitive-behavioral.md) — related
 - [The article argues cognitive and behavioral GA information complement each other and should be presented simultaneously in wiki learning environments](gat-complementarity-argument.md) — a narrower finding that bears on this claim
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — related

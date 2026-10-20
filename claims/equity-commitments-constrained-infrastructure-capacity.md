@@ -53,3 +53,4 @@ Focus group finding: virtually every participant stressed equity, but campuses l
 - [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — related
 - [Ethical, financial, and infrastructural barriers significantly constrain the long-term sustainability of AI-driven educational transformation in higher education](ethical-financial-infrastructural-barriers-constrain-ai-sustainability.md) — related
 - [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
+- [Technology can play a key role in comprehensive reform, but the adaptive capacity of the institution is equally critical for success](technology-role-adaptive-capacity-reform.md) — related

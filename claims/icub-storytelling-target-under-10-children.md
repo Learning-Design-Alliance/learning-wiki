@@ -44,3 +44,5 @@ Post-interaction ad-hoc questionnaire item Q4 asked which age range the applicat
 
 ## Related Claims
 - [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related
+- [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related
+- [Robot-assisted storytelling produces statistically significant pre-post improvement in cognitive engagement, while paper and PPT groups' gains are not statistically significant](motibo-significant-cognitive-engagement-gain.md) — related

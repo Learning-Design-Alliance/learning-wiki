@@ -45,3 +45,4 @@ This is the article's historical interpretation (type e) of the New Math movemen
 ## Related Claims
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](sorting-effect-comparable-to-curriculum-content.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — a broader claim this one bears on

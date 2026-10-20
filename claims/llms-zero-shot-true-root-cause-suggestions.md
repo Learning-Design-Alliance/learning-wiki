@@ -49,3 +49,5 @@ Analysis of Student A's chat log debugging the improperly biased CE amplifier (P
 - [An LLM debugging assistant correctly interprets brief, informal natural-language prompts describing circuits](llm-handles-natural-language-circuit-prompts.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
 - Zero-shot heuristic use of the pre-trained generative model shows stable, steadily increasing performance across pre-training, suggesting generative pre-training learns task-relevant functionality without fine-tuning — related
+- [ChatGPT performed at or near the passing threshold on the United States Medical Licensing Exam without domain fine-tuning (reported from Kung et al.)](chatgpt-near-passing-threshold-usmle.md) — related
+- [Undergraduate students debugging analog circuits under exam pressure preferentially used images to capture the physical circuit and the exam assignment when conversing with LLMs](students-use-images-capturing-circuits-chat-debugging.md) — related

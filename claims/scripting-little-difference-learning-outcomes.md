@@ -44,3 +44,9 @@ The editorial reports, citing Haake and Pfister, a semester-long computer-scienc
 
 ## Related Claims
 - [Video-modeling of collaboration, especially with prompted reflection, produced more lasting learning about collaboration than scripted practice once script supports were withdrawn](modeling-outlasts-scripting-after-withdrawal.md) — related
+- [Evidence-based rubric scripting produced more high-quality discussion than future-thinking scripting in long-term small-group collaboration.](evidence-based-rubric-scripting-more-quality-discussion.md) — related
+- [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md) — related
+- [The script improved adherence to the prescribed order of grounding discussions before group activities, with an additional effect of the structured interface](script-improves-adherence-activity-order.md) — related
+- [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md) — related
+- [No significant differences between conditions in the quantity or quality of discussion summaries](no-script-effect-on-summary-quantity-quality.md) — related
+- [Technology affordance conditions, manipulated via device-to-student ratio and scripts, shape role emergence, role coordination, and group structure in collaboration](device-ratio-affordances-role-interaction.md) — related

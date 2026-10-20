@@ -47,3 +47,6 @@ Null result from the regression discontinuity analysis for students not surveyed
 - [Survey data indicate the ability signal had informational value, leading students to revise self-assessed ability and AP plans consistent with Bayesian learning](ability-signal-informational-value-bayesian-updating.md) — related
 - [Students who received the ability signal enrolled in and passed about one more AP course the following year](ability-signal-one-more-ap-course.md) — related
 - [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related
+- [Students who received the personalized AP message were more likely to take an AP exam and passed a higher number of exams, making them eligible for college credit](personalized-ap-message-increases-exam-taking-and-passing.md) — related
+- [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — a broader claim this one bears on
+- [The voluntary/involuntary attention distinction in the embedded-processes model maps onto signaling, coherence, and split-attention principles](voluntary-involuntary-attention-distinction-explains-multimedia-principles.md) — related

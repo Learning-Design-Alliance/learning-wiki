@@ -96,3 +96,6 @@ source would be reasonable if a third study disagreed.
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Meaningful L2 learning is achieved through a conducive environment and authentic tasks and materials](authentic-tasks-meaningful-l2-learning.md) — related
 - Integrative motivation sustains long-term language-learning motivation better than instrumental motivation — related
+- [Ideal L2 self positively and significantly predicts student self-efficacy, generalizing prior qualitative findings quantitatively](ideal-l2-self-predicts-self-efficacy.md) — related
+- [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
+- [Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure](weak-theoretical-rationale-motivation-measures.md) — related

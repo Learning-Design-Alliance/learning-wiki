@@ -51,3 +51,4 @@ Qualitative coding of explanation responses into six categories (inter-rater rel
 - [Written explanation skills learned in the Unit 1 intervention transferred to a different mathematical concept (functions)](explanation-skill-transfer-across-concepts.md) — related
 - [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](mls-weps-improved-unit1-calculation-explanation.md) — related
 - [AI scoring shows a quality-conditioned pattern: strong agreement on fully correct and fully incorrect responses but substantial degradation on mid-range responses](ai-mid-range-scoring-degradation-u-shape.md) — related
+- [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](math-performance-correlated-with-proficiency.md) — related

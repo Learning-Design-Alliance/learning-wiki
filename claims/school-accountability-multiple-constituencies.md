@@ -44,3 +44,6 @@ The authors' interpretive argument (type e) applying the behavioral accountabili
 
 ## Related Claims
 - [Outcome-based accountability is only one of multiple forms of accountability, each invoking distinct motivational mechanisms](outcome-accountability-one-of-multiple-forms.md) — related
+- [District officials and CBO leaders believed WSS implementation success should be assessed along multiple dimensions including engagement, student outcomes, district resources, and experiences](wss-multidimensional-success-measures.md) — related
+- [Officials raised equity concerns that closing low-performing charter schools may not better serve students when alternative district schools perform even worse](ri-charter-closure-equity-concern-no-better-alternatives.md) — related
+- [School officials regularly use school-aggregate test scores to monitor school performance and make policy decisions](school-officials-use-aggregate-scores-for-monitoring.md) — related

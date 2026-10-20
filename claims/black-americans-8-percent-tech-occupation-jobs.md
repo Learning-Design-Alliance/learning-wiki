@@ -49,3 +49,4 @@ The scan's introduction reports workforce statistics compiled from research repo
 - [An analysis of 10,000 tech entrepreneurs and 135 venture capital firms found only 1% of venture-funded tech projects went to Black individuals](venture-funding-one-percent-black-entrepreneurs.md) — related
 - [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
+- [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related

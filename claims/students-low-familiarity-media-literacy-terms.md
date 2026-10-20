@@ -45,3 +45,4 @@ In-person survey of 141 students in Journalism, Social Education, Early Childhoo
 - [Students consume news frequently, primarily through social media and television, with a preference for digital over traditional media](student-news-consumption-digital-preference.md) — related
 - [Students hold a generally critical stance toward media influence on their opinions, with traditional formats inspiring more trust than digital platforms](media-influence-perception-trust-formats.md) — related
 - [Experts report that critical media literacy remains insufficiently integrated into curricula and that technology integration is often superficial, limited to devices and software without a critical approach](experts-superficial-technology-integration.md) — related
+- [More frequent media consumption is associated with greater perceived ability to manage and critically analyze information](consumption-frequency-confidence-association.md) — related

@@ -47,3 +47,4 @@ In the Leming (2001) quasi-experiment, Appendix A3 prints small WWC-computed eff
 - [Building Decision Skills plus service learning significantly improved twelfth-graders' ethical perspective relative to a no-character-education comparison](bds-improves-ethical-perspective.md) — related
 - [Effects favoring the curriculum-plus-service-learning condition over service-learning alone appeared only for ethical awareness and ethical perspective](bds-curriculum-adds-beyond-service-learning-alone.md) — related
 - [Service-learning within integrated projects is associated with improvements in students' self-efﬁcacy, self-esteem, social responsibility, and community participation](service-learning-improves-civic-and-personal-outcomes.md) — related
+- [Building Decision Skills combined with service learning has potentially positive effects on high school students' knowledge, attitudes, and values](bds-service-learning-potentially-positive-kav.md) — related

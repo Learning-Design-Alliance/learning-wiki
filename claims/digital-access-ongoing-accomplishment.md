@@ -51,3 +51,5 @@ Ethnographic case study of one participant (Malek) at the Digital Café over a y
 - [AI tools such as chatbots, intelligent tutoring systems, and early alert systems are identified as having potential to serve marginalized students, contingent on ethical governance and infrastructure](ai-tools-potential-marginalized-students-contingent-safeguards.md) — related
 - [Roughly 30 percent of U.S. students (15 to 16 million) lacked adequate internet or device access in late 2020, with rural, Native American, Black, and Latino students disproportionately affected](homework-gap-scale-2020.md) — related
 - [Reliable Internet access was a larger barrier to remote and hybrid learning than device access, especially in urban areas](internet-access-larger-barrier-than-devices.md) — related
+- [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](diy-digital-learning-hits-wall.md) — related
+- [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related

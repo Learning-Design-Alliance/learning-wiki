@@ -47,3 +47,6 @@ Explorative study of 46 secondary teachers judging 406 students; the article rep
 - [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md)
 - [Teachers judging student performance mostly use performance cues and, to a lesser extent, student cues](teachers-mostly-use-performance-cues-judging-performance.md)
 - [Performance cues were found most diagnostic for students' reading comprehension performance](performance-cues-most-diagnostic-reading-comprehension.md) — related
+- [Teachers judge more accurately with only diagnostic cues than with a mix of diagnostic and non-diagnostic cues](non-diagnostic-cues-hinder-teacher-judgment-accuracy.md) — related
+- [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](diagnostic-cues-improve-teacher-judgment-accuracy.md) — related
+- [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related

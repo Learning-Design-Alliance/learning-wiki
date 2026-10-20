@@ -47,3 +47,4 @@ Hierarchical models found that "the cognitive skills also shared large amounts o
 - [Common cognitive genetic variance is highly correlated with common reading genetic variance](common-cognitive-genetic-variance-correlates-with-reading-genetic-variance.md) — related
 - [Genetic influences drive the phenotypic correlations between cognitive skills and reading components](genetic-influences-drive-cognitive-reading-correlations.md) — related
 - [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — a narrower finding that bears on this claim
+- [Reading comprehension variance is fully shared with listening comprehension and word reading](reading-comprehension-variance-fully-shared.md) — related

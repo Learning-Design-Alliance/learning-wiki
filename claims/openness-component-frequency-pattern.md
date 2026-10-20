@@ -48,3 +48,4 @@ Frequency analysis (Fig. 4) of proportions of the 594 analyzed notes showing ope
 - [In Knowledge Forum discourse, three components (connecting knowledge, transactivity, authority) dominated notes, and cognitive openness components predicted follow-up while social openness components predicted slightly reduced follow-up](openness-components-frequency-follow-up-knowledge-forum.md)
 - [Contributions to online knowledge building discourse show moderate socio-cognitive openness, with higher social than cognitive openness](higher-social-than-cognitive-openness.md)
 - [Social openness components transactivity and authority are associated with less follow-up, and dimension-level openness shows no significant association with follow-up](social-openness-components-less-followup.md)
+- [Student blogging supports transactive building and emergent common knowledge in a persistent community blogosphere](blogging-transactive-community-blogosphere.md) — related

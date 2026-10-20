@@ -45,3 +45,5 @@ Comparative analysis of outcomes for teachers and students in schools that recei
 ## Related Claims
 - [Former KIPP school leadership program participants reported satisfaction and application of program lessons in their own settings](kipp-leadership-participants-satisfied-and-applied-lessons.md) — related
 - [New principals' math achievement gains followed a similar trend to reading but were smaller](dcps-new-principals-math-gains-smaller-than-reading.md) — related
+- [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
+- [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related

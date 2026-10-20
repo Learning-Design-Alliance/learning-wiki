@@ -51,3 +51,4 @@ An ANOVA with problem size and group on multiplication task RTs. Both main effec
 - [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](pooraf-no-deficit-semantic-verbal-tasks.md) — related
 - [Fourth graders with poor arithmetic-fact abilities (PoorAF) and matched controls did not differ on a perceptual shape-matching speed task](pooraf-no-perceptual-speed-deficit.md) — related
 - [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](pooraf-slower-only-multiplication-task.md) — related
+- [Fourth graders show the typical problem-size effect in multiplication, with slower and less accurate responses to large than small problems](multiplication-problem-size-effect-fourth-graders.md) — a broader claim this one bears on

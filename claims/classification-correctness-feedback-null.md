@@ -63,3 +63,4 @@ A repeated-measures analysis with example format as between-subject factor and t
 
 ## Related Claims
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](example-correctness-correlations-posttest.md) — related
+- [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related

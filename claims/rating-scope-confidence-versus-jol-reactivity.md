@@ -46,3 +46,8 @@ Authors' interpretation in the Discussion of the contrast between the two rating
 
 - [A minority of item judgments show downregulation of confidence after pre-monitoring, suggesting differentiated evaluation can sometimes trigger more accurate monitoring](confidence-downregulation-after-pre-monitoring.md) — related
 - [The confidence-rating impairment on ambiguous transfer items persists among participants who met the learning criterion](rule-learning-impairment-persists-among-learners.md)
+- [Confidence ratings are unlikely to be an effective educational tool when knowledge transfer is the goal](confidence-ratings-unsuitable-for-transfer-goals.md) — related
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — related
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
+- [Confidence ratings do not impede category learning per se: no condition differences in training accuracy or on unambiguous and trained transfer items](no-confidence-rating-effect-training-or-unambiguous-items.md) — related
+- [Response-time effects are limited to slower responding in the JOL condition during the first two training blocks](jol-slower-early-training-response-times.md) — related

@@ -47,3 +47,4 @@ Direct constituent paths in the PLS-SEM model of 412 Omani business students; f2
 - [GenAI use is positively associated with GenAI dependence among business students](genai-use-positive-dependence.md) — related
 - [GenAI use is positively associated with self-perceived employability among business students](genai-use-positive-employability.md) — related
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
+- [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related

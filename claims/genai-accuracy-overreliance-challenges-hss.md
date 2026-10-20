@@ -71,3 +71,5 @@ Ethics and privacy results (Figure 7): 87.97% rated ethical issues important or 
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — a broader claim this one bears on
+- [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
+- [Distillation increases misclassification of ambiguous To Some Extent tutor responses as Yes](distillation-increases-ambiguous-yes-bias.md) — related

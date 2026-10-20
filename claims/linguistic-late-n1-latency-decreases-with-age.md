@@ -48,3 +48,4 @@ Age-group ANOVA on linguistic late-N1 latency in the dichotic story task: latenc
 - [P1 latency for nonlinguistic auditory probes decreases with age from childhood through adulthood](nonlinguistic-p1-latency-decreases-with-age.md) — related
 - [Nonlinguistic-probe P2 latency increases with age from 10 years into adulthood](nonlinguistic-p2-latency-increases-with-age.md) — related
 - [N170 peak latency is later in children than adults, and only adults show a latency difference between reversed and typical letters](n170-peak-latency-delayed-children.md) — related
+- [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related

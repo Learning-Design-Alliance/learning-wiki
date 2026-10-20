@@ -45,3 +45,5 @@ Cross-sectional comparison of Social Adjustment Scale-Self-report T scores betwe
 ## Related Claims
 - [Extreme DESR in adults with ADHD is linked to lower quality of life on nearly all QLES-Q-SF domains](extreme-desr-lower-quality-of-life-qlesq.md) — related
 - [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related
+- [Adults with ADHD report deficient emotional self-regulation symptoms far more frequently than adults without ADHD](desr-more-frequent-in-adhd-adults-than-controls.md) — related
+- [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related

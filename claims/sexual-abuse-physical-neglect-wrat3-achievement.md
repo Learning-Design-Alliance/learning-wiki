@@ -52,3 +52,4 @@ Multiple linear regression analysis in a pilot study of 47 healthy adults found 
 - [Physical neglect exposure is associated with prolonged latency for correct responses in the Pattern Recognition Memory test in healthy adults](physical-neglect-pattern-recognition-latency.md) — related
 - [Emotional abuse exposure is associated with more double errors in the Spatial Working Memory test in healthy adults](emotional-abuse-spatial-working-memory-errors.md) — related
 - [Cumulative stress predicts adult outcomes beyond specific stressor types in longitudinal studies](cumulative-adversity-predicts-adult-depression-cortisol.md) — related
+- [Memory deficits associated with childhood trauma in healthy adults are not secondary to psychiatric or medical illness](trauma-memory-deficits-not-secondary-to-illness.md) — related

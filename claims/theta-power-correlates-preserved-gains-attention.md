@@ -46,3 +46,5 @@ Correlational analyses within the MTT group only, among participants showing inc
 
 - [Older adults show reduced midline frontal theta power and frontal–posterior coherence relative to younger adults regardless of single- or multitasking condition](older-adults-baseline-theta-deficit-versus-younger.md)
 - [Multitasking training increased midline frontal theta power and frontal–posterior theta coherence in older adults only in the multitasking condition and only for the MTT group](training-remediates-frontal-theta-signatures-older-adults.md)
+- [Multitasking training on adaptive NeuroRacer reduced older adults' multitasking costs beyond active and no-contact controls, exceeding untrained 20-year-olds, with gains persisting 6 months](multitasking-training-reduces-neuroracer-costs-older-adults.md) — related
+- [Multitasking training transferred to untrained working memory and sustained attention tasks in older adults, unlike control training](multitasking-training-transfers-working-memory-sustained-attention.md) — related

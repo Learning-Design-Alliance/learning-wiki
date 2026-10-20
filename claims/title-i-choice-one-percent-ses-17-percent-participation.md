@@ -52,3 +52,5 @@ National implementation study reporting eligibility counts and take-up rates for
 - [Participation rates in Title I school choice and supplemental educational services were low](title-i-choice-ses-low-participation-rates.md) — a broader claim this one bears on
 - [Participants in both Title I options came from the disadvantaged populations NCLB targets](title-i-participants-disadvantaged-populations.md) — related
 - [More than 3.3 million students were eligible for Title I supplemental educational services in 2006-2007, a nearly sixfold increase](title-i-ses-eligibility-sixfold-growth.md) — related
+- [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — related
+- [In a subsample of large urban districts, the average achievement of schools chosen by Title I school choice users was consistently higher than the average achievement of the schools they came from](chosen-schools-higher-achievement-than-origin-schools.md) — related

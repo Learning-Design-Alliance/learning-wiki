@@ -66,3 +66,5 @@ The posttest ANOVA in the same experiment reported that "there was  no significa
 - [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](external-prompt-regulation-more-positive-attitudes.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [Textual instructional prompts yield significantly higher near-transfer posttest performance than pictorial prompts for novice circuit-analysis learners](textual-prompts-better-near-transfer-than-pictorial.md) — related
+- [Textual prompts yield significantly stronger continuing motivation than pictorial prompts](textual-prompts-stronger-continuing-motivation.md) — related
+- [Textual prompts produce higher first-attempt practice accuracy, while pictorial prompts produce higher second-attempt accuracy](prompt-format-first-second-attempt-accuracy.md) — related

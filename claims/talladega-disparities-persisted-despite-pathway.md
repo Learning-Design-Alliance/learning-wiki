@@ -49,3 +49,6 @@ Case-report statement of a district-acknowledged outcome: participation and achi
 - [IPSD piloted its CT competency map in 2019-2020 in schools including a subset of its Title I equity-goal schools, paired with professional development](ipsd-competency-map-pilot-title-i-pd.md) — related
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
 - A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related
+- [A district produced an inclusive computational thinking pathway document through a participatory, teacher-represented development process spanning multiple school years.](talladega-participatory-ct-pathway-development.md) — related
+- [Even districts with consistent curriculum use encountered persistent equity access gaps for multilingual learners and students with learning differences](consistent-hqim-use-does-not-guarantee-equitable-access.md) — related
+- [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — a broader claim this one bears on

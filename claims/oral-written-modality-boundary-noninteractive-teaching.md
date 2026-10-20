@@ -45,3 +45,4 @@ The review's boundary-condition section on modality reports Lachner et al. (2018
 ## Related Claims
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — a broader claim this one bears on
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
+- [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — related

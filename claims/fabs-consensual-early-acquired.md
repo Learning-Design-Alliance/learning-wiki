@@ -49,3 +49,4 @@ The review reports, citing Jenifer et al. (2023) and Muradoglu et al. (2025), th
 - [Brilliance stereotypes associating brilliance with boys, higher-SES, and White children emerge by age 6](brilliance-stereotypes-emerge-by-age-six.md) — related
 - [Intersectional brilliance stereotypes show mixed patterns, supporting both intersectional invisibility and double jeopardy accounts](intersectional-brilliance-stereotypes-mixed.md) — related
 - [Brilliance-oriented contexts heighten anxiety among intellectually stigmatized students](brilliance-contexts-heighten-anxiety.md) — related
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related

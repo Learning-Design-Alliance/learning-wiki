@@ -49,3 +49,4 @@ WWC extent-of-evidence categorization across twelve reviewed studies, of which o
 - [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](reading-plus-evidence-extent-small-one-study.md) — related
 - [No studies meeting WWC standards addressed SSL effects on fluency, comprehension, or general reading achievement, and the extent of alphabetics evidence is small](ssl-evidence-gaps-fluency-comprehension.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
+- [The evidence base for the Wilson Reading System in beginning reading is small, with no studies addressing general reading achievement](wilson-reading-system-small-evidence-base.md) — related

@@ -46,3 +46,5 @@ The review reports its small randomized pilot study of MOSAIC, in a 2-week summe
 
 - [Math difficulties are more strongly associated with social isolation than reading difficulties, and peer dislike of readers with RD is explained by ADHD symptoms](md-social-isolation-rd-peer-dislike-adhd.md) — related
 - [Children with ADHD show medium-to-large peer problems relative to typically developing youth, with effect sizes from d=.72 (no comorbidities) to d=1.25 (comorbid conduct problems)](adhd-peer-problems-effect-sizes-d072-d125.md)
+- [Existing child-focused treatments for ADHD, including the MTA's intensive behavioral management and medication, and clinic-based social skills training, have not improved peers' liking of children with ADHD](existing-treatments-fail-improve-peer-regard-adhd.md) — a broader claim this one bears on
+- [In a pilot randomized trial, children whose parents received Parental Friendship Coaching were reported by parents and by blind teachers to show better social behaviors and greater peer acceptance than control children](pfc-parent-coaching-pilot-gains.md) — related

@@ -66,3 +66,7 @@ Meta-regression moderator analysis for collaboration skills in the same meta-ana
 - [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — related
 - [The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills](script-level-moderator-not-significant.md) — related
 - [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related
+- [The degree of additional content-related support does not significantly moderate CSCL script effects on either outcome](content-support-moderator-not-significant.md) — related
+- [Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects](further-moderators-discipline-duration-measurement-level.md) — related
+- [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](measurement-level-moderator-not-significant.md) — related
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — related

@@ -44,3 +44,10 @@ Authors' discussion-section interpretation of their own study design, naming fou
 
 ## Related Claims
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
+- [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](four-episodes-exploratory-content-generation.md) — related
+- [Collaborative wiki texts are longer, contain more t-units and more reasoning connectors than the initial pair-written texts](collaborative-text-longer-richer-than-initial.md) — related
+- [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — related
+- [The final episode of wiki collaborative writing is characterised by a disputational orientation, possibly driven by time pressure to finish the text](disputational-orientation-finishing-text.md) — related
+- [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — related
+- [Recurring functional/conceptual spaces (personal space, shared work area, conclusions, discard) emerged in every interaction, and pairs resisted re-designating designated spaces](functional-conceptual-workspace-spaces.md) — related
+- [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — a broader claim this one bears on

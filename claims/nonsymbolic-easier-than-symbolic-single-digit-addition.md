@@ -45,3 +45,8 @@ A 2 x 2 repeated measures ANOVA with 103 kindergarteners (Mage = 5.98) compared 
 ## Related Claims
 - [Characteristic distance effects occur in both nonsymbolic and symbolic single-digit approximate addition](distance-effect-single-digit-approximate-addition.md) — related
 - [Kindergarteners' performance does not differ between approximate and exact single-digit addition formats, and the two dimensions do not interact](no-response-type-effect-single-digit-addition.md) — related
+- [More accurate symbolic number line representations relate to better performance in exact, but not approximate, addition formats](symbolic-number-line-relates-to-exact-addition.md) — related
+- [Symbolic approximate addition is predicted by nonsymbolic number line estimation, the VSSP and the CE, consistent with transcoding to the nonsymbolic code](transcoding-in-symbolic-approximate-addition.md) — related
+- [Nonsymbolic exact addition is predicted by the VSSP plus the CE and symbolic number line estimation, suggesting an alternate transcoding to the symbolic code](alternate-transcoding-nonsymbolic-exact-addition.md) — related
+- [Symbolic exact addition is predicted by symbolic number line representation and the phonological loop, reflecting phonological storage of numerical information](phonological-storage-symbolic-exact-addition.md) — related
+- [Children succeed at non-symbolic approximate addition above chance with a ratio effect, without relying on non-numerical strategies](kindergartners-succeed-nonsymbolic-addition-ratio-effect.md) — related

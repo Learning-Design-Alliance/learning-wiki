@@ -49,3 +49,5 @@ Participant-level d' estimates clustered near zero (mean d' = −0.012, SD = 0.6
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — a broader claim this one bears on
 - [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
 - Simulations show L* values at chance stay centered at zero even when one affective state's base rate is disproportionately high — related
+- [Demographic and contextual variables meaningfully differentiate the four GenAI adoption personas](demographics-differentiate-genai-personas.md) — related
+- [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](big-five-few-consistent-effects-on-judgments.md) — related

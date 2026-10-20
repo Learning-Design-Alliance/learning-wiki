@@ -43,4 +43,7 @@ Experimental comparison of videoconferencing versus face-to-face collaboration c
 
 
 ## Related Claims
--
+- [Content-specific external representations increase appropriate resource use without increasing shared knowledge after collaboration](content-specific-representation-more-appropriate-resources-no-more-sharing.md) — related
+- [Videoconferencing was conducive to more negotiation of meaning than text chat and discussion board, measured as proportion of negotiated turns](videoconferencing-more-negotiated-turns-than-chat-and-board.md) — related
+- [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [Moderation of synchronous computer-mediated interaction differs from face-to-face or asynchronous moderation](moderation-synchronous-cmc-differs-from-other-modes.md) — related

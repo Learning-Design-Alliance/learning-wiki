@@ -53,3 +53,5 @@ Longitudinal survey analysis of seven areas of school improvement assessed with 
 - [Relational trust varies substantially between schools, supporting its treatment as an organizational property](relational-trust-varies-between-schools-organizational-property.md) — related
 - [Schools with many unrelated and unsustained initiatives show smaller gains than schools with coherent programs](instructional-program-coherence-smaller-gains.md) — related
 - Marketing courseware to individual faculty members produced higher initial user numbers than institutional scaling strategies, but the difference disappeared within 3 years. — a narrower finding that bears on this claim
+- [School Supports Including Academic Press, Social Support, and Instructional Program Coherence Relate to Achievement](school-supports-relate-to-achievement.md) — related
+- [Parental attitudes transformed from scepticism to high trust over the three cycles, with parents of low performers developing high confidence by Cycle 3](tprs-mtss-parental-trust-transformation.md) — related

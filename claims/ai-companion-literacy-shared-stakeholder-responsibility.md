@@ -64,3 +64,7 @@ On stage ownership, the article reports 10 of 33 assigned primary responsibility
 ## Related Claims
 
 - [Workforce readiness for AI is widely acknowledged as a priority but implemented in concentrated pockets rather than coordinated across disciplines](ai-workforce-readiness-concentrated-not-coordinated.md)
+- [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — related
+- [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
+- [Middle school teachers envisioned AI chatbots as adaptive instructional scaffolds providing differentiated support responsive to students' varying needs](teachers-envision-chatbots-adaptive-scaffolds-differentiated-support.md) — related
+- [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related

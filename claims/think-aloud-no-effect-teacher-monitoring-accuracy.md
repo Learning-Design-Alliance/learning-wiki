@@ -45,3 +45,6 @@ Within the teacher-judgment experiment, teachers thought aloud for two randomly 
 ## Related Claims
 - [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) — related
 - [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](expert-standards-relative-accuracy-null.md) — related
+- [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
+- [Teachers' monitoring accuracy is higher in the name+diagram condition than in the diagram-only condition, opposite to the blinding hypothesis](teacher-monitoring-accuracy-higher-name-plus-diagram-than-diagram-only.md) — related
+- [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

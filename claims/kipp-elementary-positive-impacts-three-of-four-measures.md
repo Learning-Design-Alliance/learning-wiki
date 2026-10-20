@@ -55,3 +55,7 @@ The brief's Key Findings report that the rigorous multi-grade evaluation found K
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
 - [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related
 - The KIPP evaluation examines student outcomes beyond state test scores, including a nationally norm-referenced test and survey-based measures of attitudes and behavior — related
+- [KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years](kipp-prek-elementary-five-year-reading-math-impacts.md) — related
+- [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](kipp-prek-added-reading-benefit-beyond-elementary.md) — related
+- [The KIPP impact on reading skills persists over time, but impacts on reading comprehension largely dissipate by grade 2](kipp-reading-skills-persist-comprehension-dissipates-grade-2.md) — related
+- [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](kipp-five-pillars-influenced-charter-sector.md) — related

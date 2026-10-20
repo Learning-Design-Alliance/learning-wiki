@@ -47,3 +47,5 @@ Table 11 of the randomized comparison reports Pilot × % Minority interaction co
 - [After the first year of the EITP pilot, cohort 1 schools improved reading achievement by 0.10 standard deviations relative to cohort 2 schools](eitp-year1-reading-effect-010sd.md) — related
 - Ethnically/racially diverse students perceived piloted education technology products as more beneficial than White students did — related
 - [The evidence base for school mindfulness interventions is heterogeneous and many studies are underpowered](mindfulness-schools-heterogeneous-underpowered.md) — related
+- [Low-poverty schools benefited more from the evaluation pilot than high-poverty schools, in both math and reading](eitp-heterogeneity-poverty.md) — related
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — reports the opposite

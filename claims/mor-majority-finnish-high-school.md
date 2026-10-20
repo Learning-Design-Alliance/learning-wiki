@@ -49,3 +49,4 @@ Table 5 reports MOR at 54.1% of MR turns for the less successful and 58.2% for t
 - [American university engineering students showed the opposite foci pattern: the less successful group manifested more high-level MR than the more successful group](opposite-foci-pattern-engineering.md) — related
 - [In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group](opposite-ssmr-foci-engineering.md) — related
 - [VMSR occurred at low levels across all groups and contexts](vmsr-low-across-contexts.md) — related
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](ssmr-contributions-higher-vs-lower-performing-groups.md) — related

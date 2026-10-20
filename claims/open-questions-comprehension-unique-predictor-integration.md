@@ -51,3 +51,6 @@ In the hierarchical regression, open-question comprehension (β = .257 in step 1
 - [Grammatical knowledge, reading comprehension, letter writing automaticity, and attentiveness are uniquely and positively related to substantive quality of first-grade written composition](grammatical-knowledge-reading-comprehension-letter-writing-automaticity-attentiveness-predict-substantive-quality.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related
 - [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md)
+- [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
+- [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md) — related
+- [Nearly half of sixth graders' written products from multiple texts show poor integration quality](poor-integration-quality-sixth-graders-written-products.md) — related

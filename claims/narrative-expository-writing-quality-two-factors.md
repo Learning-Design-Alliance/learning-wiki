@@ -46,3 +46,4 @@ Confirmatory factor analysis of third-grade writing quality ratings (idea develo
 - [Kindergarten lexical literacy (word reading and spelling) predicts third-grade writing quality in both narrative and expository genres](kindergarten-lexical-literacy-predicts-writing-quality.md) — related
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related
+- [Kindergarten oral language independently predicts third-grade narrative writing quality](kindergarten-oral-language-predicts-narrative-writing-quality.md) — related

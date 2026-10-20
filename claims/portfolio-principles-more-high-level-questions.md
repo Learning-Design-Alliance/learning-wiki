@@ -44,3 +44,8 @@ All database questions were coded on a 4-point depth-of-inquiry scale (inter-rat
 
 ## Related Claims
 - [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related
+- [Students using portfolios with knowledge-building principles showed higher conceptual understanding on a writing task than the other classes](portfolio-principles-higher-conceptual-understanding.md) — related
+- [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
+- [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](portfolio-principles-deeper-explanations.md) — related
+- [Ninth graders using Knowledge Forum with portfolios and knowledge-building principles showed higher database inquiry participation than the Knowledge Forum-only class](kf-portfolio-principles-higher-atk-inquiry.md) — related
+- [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related

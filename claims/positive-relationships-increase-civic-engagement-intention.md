@@ -70,3 +70,7 @@ The discussion section synthesizes survey and focus group findings, reporting th
 - [Mentoring relationships in undergraduate research are highly influential in students' campus connection, retention in their major, and persistence to graduation](ur-mentoring-retention-persistence.md) — related
 - When engagement with partners is relatively limited, researchers should be especially thoughtful about how findings translate to action-oriented recommendations — related
 - [General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it](academic-outcomes-focus-insufficient-civic-commitment.md) — related
+- [Developing and delivering an integrated CBL/CEL/COIL planetary health course yielded three key lessons on flexibility, structural reform, and equitable partnerships](planetary-health-course-three-key-lessons.md) — related
+- [Peer mentoring shows a trend toward higher posttest social justice attitudes](peer-mentoring-trend-social-justice-attitudes.md) — related
+- [Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) — related
+- [Exploration of diversity is associated with all civic competence outcomes in community-based learning courses](diversity-enhances-all-civic-competence-outcomes.md) — related

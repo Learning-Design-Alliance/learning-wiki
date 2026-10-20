@@ -46,3 +46,7 @@ A descriptive finding of the scoping review across its 100 included studies. The
 - Existing scholarship examines AI–SDG connections in a fragmented way without an integrative literacy framework — related
 - [Most AI implementations in undergraduate higher education sit at the SAMR Substitution or Augmentation levels, with fewer Modification cases and one Redefinition](ai-integration-mostly-substitution-augmentation.md) — a broader claim this one bears on
 - [Most states' AI evaluation guidance is exploratory, and only a handful describe systematic, student outcomes-based evaluation](states-ai-evaluation-mostly-exploratory.md) — a broader claim this one bears on
+- [Current AI deployments in higher education remain task-oriented rather than ecosystem-oriented despite advances in LLMs and multimodal AI](functional-fragmentation-persists-despite-llm-advances.md) — related
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — possibly the same claim (merge candidate)
+- [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
+- [Attention across the SDGs is uneven, with focus on SDG 9 but limited engagement with SDG 4 and SDG 14](uneven-sdg-attention-sdg9-versus-sdg4-sdg14.md) — related

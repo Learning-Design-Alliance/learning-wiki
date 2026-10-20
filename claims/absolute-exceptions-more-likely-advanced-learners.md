@@ -44,3 +44,4 @@ In the experimental study with 79 adult English speakers at intermediate (39) an
 
 ## Related Claims
 - [Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session](explicit-correction-improves-feedback-session-responses.md) — related
+- [Explicit correction did not produce evidence of learned morphological generalizations to novel stimuli in adult L2 learners](correction-no-learned-generalizations-novel-stimuli.md) — related

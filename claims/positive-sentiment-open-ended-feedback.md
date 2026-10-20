@@ -47,3 +47,6 @@ Sentiment analysis of open-ended survey responses conducted by ChatGPT4, which t
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - [Participants' perceptions of AI in higher education shifted from 20% negative and 40% neutral pre-institute to 0% negative and 90% positive post-institute](ubridge-perception-shift-positive.md) — related
 - Human-LLM sentiment divergences were patterned: the LLM tended to assign affective labels to statements a human coder read as neutral — related
+- [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
+- [GPT-generated tutor feedback is predominantly positive or neutral in sentiment](gpt-feedback-predominantly-positive-sentiment.md) — related
+- [Students engaged deeply with LLM feedback, with coded evidence of reflection, rebuttal, and acceptance in the large majority of responses](deep-engagement-llm-feedback-reflection-rebuttal-acceptance.md) — related

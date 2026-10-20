@@ -45,3 +45,7 @@ Descriptive district-level outcome reporting in a qualitative case study of one 
 ## Related Claims
 - [Lynwood Unified's custom dashboards and intervention tools were followed by a decrease in high school D/F rates of over 8% and 593 interventions logged in one year](lynwood-dfi-decrease-intervention-tracking.md) — related
 - [LAUSD CCSPP community schools reduced chronic absence by approximately 9% more and improved math proficiency by approximately 10% more than comparable non-CCSPP high-need schools](ccspp-lausd-chronic-absence-math-gains.md) — related
+- [Chronic absence in West Kern Consortium schools dropped 9 percentage points from its 2021–22 peak, with large district-level reductions](west-kern-chronic-absence-reduction.md) — related
+- [After becoming community schools, 11 of 12 Lynwood elementary schools increased the percentage of students meeting or exceeding the ELA proficiency standard, and 10 did so in math.](lynwood-elementary-ela-math-proficiency-gains.md) — related
+- [Chronic absence among students in foster care peaked after the pandemic, with nearly half chronically absent in 2021–22](foster-care-chronic-absence-peaked.md) — related
+- [More students were very chronically absent (missing 20% or more of days) and fewer students had strong attendance (under 5%) after the pandemic](very-chronic-absence-up-strong-attendance-down.md) — related

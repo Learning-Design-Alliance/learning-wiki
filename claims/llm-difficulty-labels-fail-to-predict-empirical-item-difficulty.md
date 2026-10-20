@@ -51,3 +51,4 @@ Construct-validity audit (Stage 2) of 311 deployed LLM-generated MCQs in two dat
 - [LLM difficulty labels track structural question features: stem length, option length, and digits in stems rise monotonically across Easy, Medium, and Hard labels](llm-difficulty-labels-track-structural-item-features.md) — related
 - [Feature-based ML Bloom classifiers trained on IID data degrade sharply on out-of-distribution AI-assisted questions](ml-bloom-classifiers-degrade-ood-aeq.md) — related
 - [LLM-generated retrieval practice was practical to deploy and well received, but high correctness rates (about 70% of items at p=1.0) restricted score variance](llm-generated-retrieval-practice-deployable-but-high-accuracy-limits-variance.md) — related
+- [A 50-disposable-account staging rehearsal produced 56 evidence rows, with 46 (82.1%) assigned to higher-order Bloom categories](fifty-account-rehearsal-56-rows-82-percent-higher-order.md) — related

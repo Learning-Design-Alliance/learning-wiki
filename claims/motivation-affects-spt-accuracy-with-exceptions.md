@@ -48,3 +48,5 @@ The review reports a laboratory study using the videotape procedure in which mal
 ## Related Claims
 - [Familiarity with the target improves SPT accuracy](target-familiarity-improves-spt-accuracy.md) — related
 - [Longer exposure to an SPT target showed a non-significant trend toward greater accuracy](target-exposure-duration-accuracy-trend.md) — related
+- [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](strategy-inductions-affect-spt-outcomes.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

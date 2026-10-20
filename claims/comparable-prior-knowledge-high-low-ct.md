@@ -48,3 +48,6 @@ Independent samples t-test on pretest scores of both groups (Levene's test indic
 - [High CT students used the AICA for code understanding and debugging while low CT students used it for direct answer retrieval](ct-groups-differ-aica-behavioral-patterns.md) — related
 - [Behavioral trends across three tasks showed high CT students maintained stable independent coding while low CT students' AICA use fluctuated](behavioral-trends-three-tasks-ct-groups.md) — related
 - Baseline pre-assessment scores showed no statistical differences between treatment and control groups in either the matched or baseline sample. — related
+- [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
+- [No significant pre-test difference existed between the two groups' entry listening knowledge](no-pretest-listening-difference-groups.md) — related
+- [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related

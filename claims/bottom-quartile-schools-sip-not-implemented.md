@@ -51,3 +51,4 @@ Survey report summary of the SIP Implementation scale (seven items) for teachers
 - [Teacher views of Local School Council contribution differ sharply between top and bottom quartile schools](lsc-contribution-views-differ-top-bottom-quartile-schools.md) — related
 - [Instructional leadership ratings are high even in bottom-quartile Chicago high schools: 85 percent of top-quartile teachers give strong or very strong ratings, and half of bottom-quartile teachers do so as well](instructional-leadership-high-ratings-both-quartiles-1997.md) — related
 - [Most School Improvement Plans do not guide staff efforts to tackle the root causes that prevent significant performance improvement](sips-do-not-guide-root-cause-efforts.md) — related
+- [Teacher survey reports of instructional program coherence correlate strongly with researchers' field-based ratings of coherence](survey-field-rating-correlation-coherence.md) — related

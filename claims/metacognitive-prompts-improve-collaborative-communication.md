@@ -45,3 +45,5 @@ The article reports, citing Wiltshire, Rosch, Fiorella, and Fiore (2014), that "
 ## Related Claims
 - [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related
 - [Teachers and caregivers called for additional guidance and support in their communication and collaboration](educators-insufficient-guidance-family-communication.md) — related
+- [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
+- [Participation in mathematics PLC changed teachers' collaboration norms, understanding of mathematics and its teaching, and ability to design and carry out teaching](plc-participation-changes-teacher-norms-understanding-practice.md) — related

@@ -46,3 +46,9 @@ Correlational analysis of three metacognition measures in a grade 5 sample (effe
 
 - [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — a narrower finding that bears on this claim
 - [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](visa-instrument-predicts-word-problem-solving.md)
+- [The think-aloud measure predicts word problem solving performance, explaining 33 percent of variance](think-aloud-measure-predicts-problem-solving.md) — related
+- [The VisA instrument and think-aloud measure converge moderately and each contributes unique predictive variance for word problem solving](visa-think-aloud-moderate-overlap-unique-variance.md) — related
+- [Several sophisticated metacognitive regulation activities showed little to no variance among grade 5 students during think-aloud problem solving](grade5-metacognitive-activities-no-variance.md) — related
+- [When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use](coarse-grained-srl-self-reports-relatively-calibrated.md) — related
+- [Low questionnaire–think-aloud correlations may have two alternative explanations besides poor self-report ability: the methods may measure different strategies or be aimed at different tasks](alternative-explanations-low-correlations-strategies-tasks.md) — related
+- [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — related

@@ -87,3 +87,4 @@ Independent-samples t-test in the group-difference analyses; no statistically si
 - [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related
 - [Syntea usage rates differ slightly by gender, with female students (59.05%) higher than male students (54.94%)](syntea-usage-gender-differences.md) — related
 - [AI dependency is positively associated with learning burnout among university students](ai-dependency-positively-associated-learning-burnout.md) — related
+- [Main structural paths remain substantively unchanged after controlling for gender, major, and AI tool use frequency](paths-robust-to-demographic-controls.md) — related

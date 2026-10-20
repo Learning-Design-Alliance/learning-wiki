@@ -48,3 +48,5 @@ Blind A/B study with 18 raters, each completing 12 comparisons of an Adaptive ve
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — related
 - [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
 - [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md)
+- [Automated metrics and LLM judges can misalign with expert human preferences in non-verifiable educational evaluation](non-verifiability-crisis-llm-judges-misalign.md) — related
+- [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related

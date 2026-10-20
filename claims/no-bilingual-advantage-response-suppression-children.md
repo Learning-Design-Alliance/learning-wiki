@@ -46,3 +46,4 @@ Null cost analysis from the faces task with ninety 8-year-olds in three groups. 
 - [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — related
 - [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
 - [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
+- [Faces-task accuracy was near ceiling with no language-group or gender differences, and gender was dropped from RT analyses](faces-task-accuracy-ceiling-no-group-differences.md) — related

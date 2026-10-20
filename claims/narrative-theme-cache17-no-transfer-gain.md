@@ -43,4 +43,5 @@ Value-added study reported in the preface in which a narrative theme was added t
 
 
 ## Related Claims
--
+- [Media comparison results favor games in some studies but favor slideshows for games with intrusive narrative themes](media-comparison-game-versus-conventional-media-mixed.md) — related
+- [Game design, not learner age or linguistic background, determines DGBL effectiveness; adventure games outperform non-adventure games](game-design-moderates-dgbl-effectiveness.md) — related

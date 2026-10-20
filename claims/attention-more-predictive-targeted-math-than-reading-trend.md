@@ -48,3 +48,4 @@ Direct comparison of attention's predictive power between subjects using a linea
 ## Related Claims
 - [Attention does not differentially predict broad math versus broad ELA scores](attention-equally-predictive-broad-math-and-ela.md) — related
 - [Attention is more predictive of targeted than broad math, but equally predictive of both reading measure types](attention-predicts-targeted-math-more-than-broad-math.md) — related
+- [Sustained attention positively predicts broad statewide standardized test scores in math and ELA](sustained-attention-predicts-broad-standardized-test-scores.md) — related

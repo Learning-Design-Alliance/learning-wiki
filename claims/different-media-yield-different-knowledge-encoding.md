@@ -48,3 +48,4 @@ The review reports, citing Thorndyke and Hayes-Roth's (1982) map-learning study,
 - [In one 37-student classroom experiment, recall and retention differ across media combinations in the direction Dual Coding Theory predicts](media-combinations-affect-recall-and-retention.md) — related
 - The direct-to-vicarious and purely symbolic experience continuum remains valid while the cone's description of media is dated — related
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Adding relevant pictures or graphics to text improves learning from it, with a small pooled effect on reading comprehension, though whether dual coding explains the benefit is disputed](dual-coding-improves-learning.md) — related

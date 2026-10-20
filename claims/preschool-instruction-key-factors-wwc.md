@@ -47,3 +47,6 @@ The guide's Key Findings section lists the factors verbatim: "Intentional instru
 
 - Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md)
+- [A preschool teacher's professional growth in guiding children's mathematical learning was identified in three areas: recognizing demonstrated understanding, using mathematical language, and systematic assessment](teacher-growth-three-areas-guiding-preschool-math.md) — related
+- [Learners' critical sharing of ideas and the teacher's intentional intervention were the two critical factors for effective folding back](critical-sharing-and-teacher-intervention-effective-folding-back.md) — related
+- [The recommendation to provide intentional, engaging social-emotional instruction carries strong evidence from five studies meeting WWC standards without reservations](strong-evidence-social-emotional-instruction-preschool.md) — a narrower finding that bears on this claim

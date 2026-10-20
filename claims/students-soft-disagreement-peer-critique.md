@@ -46,3 +46,6 @@ Conversation-analytic coding of gallery walk breakout-room video in a 5th-grade 
 
 - [Students disagreed more directly with invisible out-of-group peers than with present groupmates](direct-disagreement-invisible-versus-present-peers.md)
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md)
+- [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
+- [Mixed and exclusively soft disagreement episodes featured more extended turns and more perspectives than exclusively direct episodes](mixed-soft-episodes-longer-more-perspectives.md) — related
+- [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](resolution-promotes-collective-knowledge-advancement.md) — related

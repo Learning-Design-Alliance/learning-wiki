@@ -46,3 +46,5 @@ Dependent-samples t-tests (Holm-Bonferroni corrected) on three attitude scales i
 
 - [The VR application did not increase students' interest in biodiversity, and only the academic-track control group showed a significant interest increase](vr-did-not-increase-interest.md)
 - [Both a VR application and a traditional lesson increased students' self-appraised knowledge about the Amazon rainforest and biodiversity](vr-and-traditional-lesson-increase-self-appraised-knowledge.md)
+- [School type significantly predicted change in environmental-protection attitudes, with academic-track students changing more than combined-school students](school-type-predicts-uss-attitude-change.md) — related
+- [Test condition did not affect pre-post learning-outcome differences, but school type was a significant factor in the multivariate model](school-type-significant-condition-not.md) — related

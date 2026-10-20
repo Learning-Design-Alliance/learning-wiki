@@ -46,3 +46,4 @@ Negative binomial regression on post-test Sourcing in search queries (a non-norm
 - [Individual sourcing gains during the intervention were uneven, with 4–25% of students improving depending on the skill](individual-sourcing-change-rci-percentages.md) — related
 - [Task topic order was associated with sourcing performance and with individual change during the intervention](topic-order-associated-with-sourcing-performance.md) — related
 - [The intervention improved students' sourcing in credibility judgments and in written products relative to controls](sourcing-intervention-improves-credibility-judgments-written-products.md) — related
+- [Students with the weakest pre-intervention sourcing skills showed the clearest positive change during the intervention](weakest-sourcing-skills-benefited-most.md) — related

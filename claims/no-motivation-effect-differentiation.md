@@ -43,4 +43,6 @@ Multilevel multivariate regression on 626 students with MSLQ motivation scales a
 
 
 ## Related Claims
--
+- [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related
+- [Students in differentiated classes grow significantly more on elaboration, critical thinking, metacognitive self-regulation and effort regulation](growth-on-learning-strategy-scales.md) — related
+- [Group differentiation by students' learning strategies raises secondary school student performance by a small but significant margin](differentiation-learning-strategies-raises-performance.md) — related

@@ -44,3 +44,4 @@ Phase 1 formative design study with five practitioners analyzing Figma mock-ups 
 
 ## Related Claims
 - [Teachers used Forms to support social-emotional learning through daily well-being check-ins and anonymous voice](forms-sel-checkins-anonymity.md) — related
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](magic-bullet-risk-selection-without-needs-assessment.md) — related

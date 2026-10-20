@@ -44,3 +44,6 @@ Narrative review reporting Dindar et al. (2019): "Dindar et al. (2019), for exam
 
 ## Related Claims
 - [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related
+- [Session-level physiological synchrony occurred in the two groups that struggled with the collaborative exam, while the two groups that found the task easy showed no synchrony.](physiological-synchrony-occurs-with-difficulties.md) — related
+- [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — related
+- [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](physiological-synchrony-collaborative-learning-mixed-methods.md) — related

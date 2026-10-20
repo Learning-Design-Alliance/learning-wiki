@@ -52,3 +52,4 @@ Post-hoc probing (Holmbeck's method) of the significant MASCT * Gender interacti
 - [Mid-year harm avoidance symptoms positively predict end-of-year oral reading fluency for boys and girls](harm-avoidance-predicts-better-fluency.md) — related
 - [No significant gender differences on anxiety or reading measures at either time point](no-gender-differences-anxiety-reading-measures.md) — related
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite
+- [Better mid-year oral reading fluency predicts lower separation anxiety symptoms at end of first grade](fluency-predicts-lower-separation-anxiety.md) — related

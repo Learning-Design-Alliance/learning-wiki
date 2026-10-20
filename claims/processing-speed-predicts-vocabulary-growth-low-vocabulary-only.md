@@ -47,3 +47,4 @@ Growth curve model of change in expressive vocabulary between 19 and 25 months, 
 - [Individual differences in processing speed remain broadly stable between 19 and 31 months](processing-speed-individual-differences-stable-19-31-months.md) — related
 - [Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months](processing-speed-no-linear-vocabulary-growth-effect-19-30-months.md) — related
 - [Processing speed at 19 months correlates with expressive vocabulary between 18 and 31 months, but processing speed at 25 and 31 months does not](processing-speed-vocabulary-correlation-only-at-19-months.md) — related
+- [Faster processing speed at 19 months predicts faster syntactic growth between 19 and 30 months, controlling for concurrent vocabulary](processing-speed-predicts-syntactic-growth-controlling-vocabulary.md) — related

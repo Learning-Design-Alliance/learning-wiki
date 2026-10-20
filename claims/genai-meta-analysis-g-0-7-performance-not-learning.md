@@ -49,3 +49,4 @@ The article reports, citing Deng et al., a meta-analysis of 69 experimental stud
 - [ChatGPT-assisted students scored substantially higher on the coding assessment than No AI students (89% vs 69%)](chatgpt-assisted-higher-coding-performance.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Many current GenAI applications in STEM education conflate learning with performance and feedback, neglecting active, reflective, and embodied learning processes](genai-conflates-learning-with-performance-feedback.md) — related
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related

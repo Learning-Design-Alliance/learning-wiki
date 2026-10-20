@@ -52,3 +52,4 @@ Reliability analysis of the 16-item survey using pooled responses from 102 teach
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [FFT scores showed acceptable-to-good internal consistency, with the overall PPR score more internally consistent than any single domain score](fft-internal-consistency-acceptable-to-good.md) — related

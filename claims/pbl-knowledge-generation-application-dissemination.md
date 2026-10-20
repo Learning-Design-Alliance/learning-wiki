@@ -46,3 +46,5 @@ Qualitative analysis of students' written reflections on PBL. The abstract and r
 ## Related Claims
 - [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](minimal-reference-higher-level-processing-benefits.md) — related
 - [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
+- [Problem-based learning shows null or negative effects on basic knowledge acquisition but positive effects on conceptual understanding and transfer relative to direct instruction](pbl-null-basic-knowledge-positive-transfer.md) — related
+- [Students characterised the skills needed for collaborative group work as interpersonal (social), problem solving, and group skills](pbl-skills-interpersonal-problem-solving-group.md) — related

@@ -45,3 +45,4 @@ LoRA RFT (rank-16, 5 epochs) on the Small tier against a composite reward over p
 ## Related Claims
 - [Tutoring quality belongs to the base model and agent harness together rather than either alone, as adapter rankings reorder across tiers](educlaw-bench-model-harness-interaction.md) — related
 - [Responsiveness and helpfulness trade off: always-answer adapters score lowest on helpfulness while withholding adapters score highest](educlaw-bench-responsiveness-helpfulness-tradeoff.md) — related
+- [Almost no model-and-harness combination sustains tutoring over the full 30-day horizon, as learning plateaus within 5–10 days](educlaw-bench-plateau-within-days.md) — related

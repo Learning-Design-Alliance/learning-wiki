@@ -45,3 +45,4 @@ Teacher survey item asked of all high school teachers whether they taught freshm
 ## Related Claims
 - [Nearly 90 percent of seniors report their parents want them to go to college after high school graduation](parents-want-seniors-to-attend-college.md) — related
 - [Chicago charter high school teachers report leadership perceptions similar to non-charter peers but higher trust and collective responsibility among colleagues, and their schools differ most in future preparation: more promotion/graduation requirements, innovative instruction, and college-going emphasis](cps-charter-organizational-capacity-differences.md) — related
+- [School college-going climate predicts students' college enrollment steps and enrollment at colleges matching their qualifications](college-going-climate-predicts-enrollment-steps.md) — related

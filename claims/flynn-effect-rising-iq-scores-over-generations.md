@@ -80,3 +80,4 @@ The Flynn effect is one of the best-replicated findings in intelligence research
 
 ## Related Claims
 - A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — related
+- [US cohort achievement trends per decade are steeper in math (median 0.19sd) than in reading (median 0.04sd) across linked surveys](math-gains-exceed-reading-gains-us-cohorts.md) — related

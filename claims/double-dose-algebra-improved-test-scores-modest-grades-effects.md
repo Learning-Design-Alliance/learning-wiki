@@ -69,3 +69,5 @@ Cohort comparison across percentile rank groups; the article explains grades dep
 - The algebra-for-all policy increased algebra access for low-skill students previously in remedial math — related
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](double-dose-algebra-raised-test-scores-both-skill-groups.md) — a broader claim this one bears on
 - [Double-dose algebra was least effective for students with the weakest incoming skills, most of whom received special education services](double-dose-least-effective-weakest-students.md) — related
+- [Double-dose algebra was discontinued before its benefits were documented, though subsequent research found long-term benefits](double-dose-algebra-discontinued-prematurely.md) — related
+- [Double-dose algebra improved algebra test scores for targeted students just below the cutoff, with a larger post-policy gain than for students just above the cutoff](double-dose-algebra-test-score-gains-targeted-students.md) — a narrower finding that bears on this claim

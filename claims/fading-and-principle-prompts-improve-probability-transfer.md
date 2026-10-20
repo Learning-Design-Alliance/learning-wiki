@@ -50,3 +50,6 @@ Experiment 1 randomized 78 university students in a 2×2 design. Tasks taught pr
 - [Four-arm novice circuit contrast](worked-example-problem-sequences.md)
 - [The position of faded worked solution steps did not influence learning outcomes in Experiment 1](faded-step-position-no-learning-outcome-effect.md) — related
 - [Successively fading out worked solution steps is effective for facilitating the transition from learning from worked examples to problem solving, compared to example-problem pairs](fading-worked-steps-facilitates-example-to-problem-transition.md) — a broader claim this one bears on
+- [Adding a self-explanation feature to a base game improved transfer performance](self-explanation-feature-improved-game-transfer.md) — related
+- [Learners learned most about those principles that were faded](learners-learn-most-about-faded-principles.md) — related
+- [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — related

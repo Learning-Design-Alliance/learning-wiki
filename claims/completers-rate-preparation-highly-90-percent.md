@@ -44,3 +44,6 @@ Analysis of CTC program completer survey responses from almost 60,000 completers
 
 ## Related Claims
 - [Cooperating teachers and employers rated preparation somewhat less positively than completers, with 82% and 68% high ratings respectively](cooperating-teachers-employers-ratings-lower.md) — related
+- [Student teachers who perceived their mentors modeled effective instruction and provided coaching, feedback, and job assistance felt better prepared, and domain-specific coaching was related to higher first-year REACH ratings](cps-mentor-coaching-and-modeling-associated-with-preparedness-and-effectiveness.md) — related
+- [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](clinical-support-related-to-preparedness-600-hours.md) — related
+- [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related

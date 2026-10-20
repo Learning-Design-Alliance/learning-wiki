@@ -43,4 +43,5 @@ Post-event survey and interview data from the three jams. The authors had used a
 
 
 ## Related Claims
--
+- [Individual and teamwork challenges (language barriers, personality, competition, skill screening, software, duration) can affect game jam learning processes](game-jam-challenges-4c-affected.md) — related
+- [Participating in game jams develops 4C skills (critical thinking, creativity, communication, collaboration) in adolescent students, though skill gains are difficult to verify](game-jams-develop-4c-skills.md) — related

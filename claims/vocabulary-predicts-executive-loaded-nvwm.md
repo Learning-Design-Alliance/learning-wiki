@@ -47,3 +47,7 @@ Multiple regression across all participants (deaf and hearing combined) predicti
 - [Language comprehension and numerical working memory predict comparing decimals to the one-half benchmark](vocabulary-counting-recall-predict-compare-to-half.md) — related
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related
 - [Phonological short-term memory capacity selectively predicts new vocabulary learning](phonological-memory-predicts-vocabulary-learning.md) — related
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](non-native-signers-poorer-executive-loaded-nvwm.md) — related
+- [Short-term memory predicts vocabulary over and above book exposure and intelligence](short-term-memory-predicts-vocabulary.md) — related
+- [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](hearing-outscore-deaf-executive-loaded-nvwm.md) — related
+- [All three groups differed significantly on expressive vocabulary, with non-native signers scoring lowest](vocabulary-group-differences-three-groups.md) — related

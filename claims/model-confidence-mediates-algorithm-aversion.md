@@ -47,3 +47,4 @@ Preacher and Hayes bootstrapping analyses in each study yielded significant conf
 - [People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes](faster-confidence-loss-algorithms-than-humans.md) — related
 - [Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster](seeing-algorithm-perform-reduces-choice-of-algorithm.md) — related
 - [A belief that the algorithm is less likely to be perfect does not explain experience-driven algorithm aversion](perfection-belief-does-not-explain-aversion.md) — related
+- [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related

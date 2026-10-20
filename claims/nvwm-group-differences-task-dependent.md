@@ -41,4 +41,5 @@ ANCOVAs controlling for age and WASI score across the three groups found no sign
 
 
 ## Related Claims
--
+- [Hearing children significantly outscored the deaf group as a whole on Spatial Span Backward and Odd One Out](hearing-outscore-deaf-executive-loaded-nvwm.md) — related
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](non-native-signers-poorer-executive-loaded-nvwm.md) — a broader claim this one bears on

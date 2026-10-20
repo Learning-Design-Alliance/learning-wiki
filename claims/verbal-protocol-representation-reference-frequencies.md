@@ -65,3 +65,6 @@ Protocol coding across the transcribed interviews; one student referenced multip
 - [Eye fixation data corroborated verbal protocols on the primary representation used (disagreement on only one trial) and revealed additional representations consulted but never mentioned verbally](eye-data-uncovers-unmentioned-representations.md) — related
 - [Eye fixation measures of attention to representations were highly correlated with verbal mentions (correlations from .63 to .96), supporting both as measures of representation use](fixation-verbal-protocol-correlation.md) — related
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [Students allocated roughly equal attention to the graph and the molecular model, both above chance, while attending little to the equations](equal-attention-model-graph-low-equations.md) — related
+- [Students adapted representation choices to task: the model was viewed more for the three-dimensional dihedral animation, the graph more for the two-dimensional bending and stretching animations](representation-choice-varies-with-animation-content.md) — related
+- [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](eye-transitions-between-representations.md) — related

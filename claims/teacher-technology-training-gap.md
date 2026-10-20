@@ -47,3 +47,6 @@ The report cites a National Center for Education Statistics survey: "only 18 per
 - [School-related factors influence teachers' digital data use only indirectly, mediated by teacher will-skill-tool characteristics, in a model explaining 50% of variance](school-factors-mediated-by-teacher-characteristics.md) — related
 - Teacher technology use and school culture explain an additional 18 percent of school-by-school differences in high school student technology use — related
 - [Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction](schools-teacher-technology-training-insufficient.md) — possibly the same claim (merge candidate)
+- [About half of teachers report access to data technologies, but roughly half lack confidence in their data skills and do not use digital data to plan and adjust teaching](teachers-access-but-low-skill-and-use.md) — related
+- [Most principals face obstacles to professional learning—time, coverage, and funds—with funding obstacles concentrated in schools serving many students of color](principal-pd-obstacles-time-coverage-funds.md) — related
+- [Computer availability explains almost half of between-school differences in student computer use, with the strongest relationship in schools with insufficient access](availability-explains-school-variance-student-use.md) — related

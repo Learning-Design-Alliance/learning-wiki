@@ -45,3 +45,5 @@ Qualitative content analysis of eight end-of-term reflections found "Six out of 
 ## Related Claims
 - [Comparing their own analyses with LLM outputs empowered students' sense of competence and reduced concerns about LLMs replacing human expertise](llm-comparison-empowers-competence.md) — related
 - [Students perceive LLM chatbots as useful for learning but requiring critical use, reporting hallucinations, overconfidence, and dependency risks](students-view-llms-useful-but-requiring-critical-use.md) — related
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
+- [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — related

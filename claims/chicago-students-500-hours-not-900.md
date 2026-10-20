@@ -46,3 +46,4 @@ The report's introduction states its central estimate: cumulative losses from st
 - [Only 13 of 40 school weeks are reliably focused on grade-level curriculum, and best-case students receive about 540 annual instruction hours](only-13-good-weeks-540-best-case-hours.md) — possibly the same claim (merge candidate)
 - [Classroom management demands reduce Chicago students' daily instruction to roughly 240 minutes despite a 300-minute allocation](management-reduces-daily-instruction-240-minutes.md) — related
 - [Special days consume roughly 35 days per school year, about one-fifth of the year, with instructional reductions of 20 to 100 percent](special-days-35-days-one-fifth-year.md) — related
+- [No evidence that 300 minutes of daily instruction can be delivered within a 330-minute school day; a 360-400 minute day is needed](300-minutes-requires-360-400-minute-day.md) — related

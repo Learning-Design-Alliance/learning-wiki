@@ -64,3 +64,7 @@ Same Bayes Factor comparison applied to learning-curve shape. The authors report
 ## Related Claims
 - [Ultimate attainment is similar for learners who begin by 10-12 years of age and declines continuously thereafter](ultimate-attainment-stable-until-10-12-years.md) — related
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
+- [Native and non-native learners require around 30 years to reach asymptotic performance](thirty-years-to-asymptotic-performance.md) — related
+- [Permutation tests show early-starting immersion and non-immersion learners are indistinguishable from the earliest learners, while later starters learn significantly more slowly](permutation-early-starters-indistinguishable-later-slower.md) — related
+- [Grammar-learning ability is preserved until about age 17.4 and then declines steadily, per the best-fitting ELSD model](grammar-learning-rate-declines-after-17-4-years.md) — related
+- [Formally instructed learners proceed further down the Accessibility Hierarchy in ultimate attainment of relativization than untutored learners (review-reported, citing Pavesi 1986)](pavesi-1986-formal-instruction-ahh-attainment.md) — related

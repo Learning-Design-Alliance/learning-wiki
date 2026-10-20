@@ -46,3 +46,4 @@ Inferential analysis of the Delphi survey ratings using R Statistics, tested at 
 - [Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend](ai-competences-highest-rated-delphi-trend.md) — a narrower finding that bears on this claim
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](automated-ai-assessment-high-impact-moderate-challenge.md) — related
 - [Explainability/trustworthiness and accessibility/equal access of AI agents rank prominently in impact and importance but carry high challenge ratings](responsible-equitable-ai-themes-prominent-high-challenge.md) — related
+- [Evolved teacher roles with AI agents rank high in impact but are rated among the most challenging themes, with a negative priority indicator](evolved-teacher-roles-high-impact-high-challenge.md) — related

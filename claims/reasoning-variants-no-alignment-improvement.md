@@ -52,3 +52,6 @@ Paired comparisons in Sec. 5.2 of reasoning variants against their base models (
 - [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related
 - [GenAI models span multiple agent types, mainly model-based and goal-based, but categorisation is difficult without model specifics](genai-agent-type-characterisation.md) — related
+- [DTR (Deep-Thinking Ratio) does not predict tutoring quality despite predicting math accuracy](dtr-does-not-predict-tutoring-quality.md) — related
+- [Model and prompt choice account for only a small share of misalignment error, which concentrates in transcript-conditioned higher-order interactions](variance-decomposition-model-prompt-weak-levers.md) — related
+- [The author reports that prompt phrasing and the specific foundational model had secondary impact on final material quality compared with the structure of the workflow itself.](workflow-architecture-outweighs-prompt-phrasing.md) — related

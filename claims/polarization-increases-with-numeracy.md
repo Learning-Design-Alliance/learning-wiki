@@ -49,3 +49,4 @@ This is the article's headline experimental result: the expected SCT pattern (po
 ## Related Claims
 - [Subjects highest in numeracy draw valid causal inferences from data better than less numerate subjects when the data are politically uncharged (skin rash treatment framing)](numerate-subjects-better-skin-rash-inference.md) — related
 - [Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate](gun-control-framing-polarizes-and-reduces-accuracy.md) — related
+- [Numeracy is defined and used as a measure of the ability and disposition to make use of quantitative information in causal-inference tasks](numeracy-quantitative-reasoning-measure.md) — related

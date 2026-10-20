@@ -44,3 +44,7 @@ Review reports Cleary et al. (2015), which compared MSLQ responses to examiner-d
 
 ## Related Claims
 - [No significant relationship found between DLC interaction and self-reported metacognitive abilities on the MSLQ](no-mslq-relationship-dlc.md) — related
+- [Differentiated instruction by learning strategies shows no significant effect on any student motivation scale](no-motivation-effect-differentiation.md) — related
+- [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md) — related
+- [Positive relationship between DLC interaction and academic achievement persists when controlling for prior metacognitive abilities](dlc-achievement-persists-controlling-prior-metacognition.md) — related
+- [Completing the Science of Learning to Learn training conferred an effect of about one-third of a letter grade (d ~ 0.3) on subsequent quizzes and exams in the original randomized study](slll-training-letter-grade-effect.md) — related

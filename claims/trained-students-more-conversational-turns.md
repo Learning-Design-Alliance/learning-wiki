@@ -49,3 +49,4 @@ Interaction engagement quantified by counting conversational turns in chat logs 
 - [Curiosity-modulated tutoring produces roughly 2.4× more conversational turns than baseline under fixed time budgets](curiosity-modulation-increases-conversational-turns.md) — related
 - [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
 - [Self-study students produced more substantive comments, a higher proportion of substantive comments, and more co-constructive turns during discussion than lecture students, though interaction-episode counts did not differ](self-study-discussion-substantive-dialogue-quality.md) — related
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — related

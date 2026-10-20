@@ -47,3 +47,5 @@ The WWC's synthesis of six studies in the comprehension domain, including the co
 - [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related
 - [Of 305 studies of Fast ForWord reviewed for adolescent learners, two met WWC evidence standards, six met standards with reservations, and 297 met neither](fast-forword-evidence-base-305-studies.md) — related
 - Reading Go! showed positive but not statistically significant effects on reading comprehension — related
+- [Comprehension domain: one study found a substantively important positive effect and one an indeterminate effect](achieve3000-comprehension-mixed-findings.md) — a narrower finding that bears on this claim
+- [Fast ForWord Language shows no discernible effects on reading achievement of elementary school English language learners](fast-forword-language-no-discernible-reading-achievement-effects.md) — related

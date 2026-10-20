@@ -45,3 +45,9 @@ An authors' interpretation in the Discussion, described by them as based on "wea
 ## Related Claims
 - [In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG](word-reading-ct-temporoparietal-occipitotemporal-chinese-children.md) — related
 - [In Chinese children aged 10-12, silent sentence reading comprehension is positively correlated with cortical thickness in the left parahippocampus and right calcarine fissure](sentence-comprehension-ct-parahippocampus-calcarine.md) — related
+- [Cortical thinning in anterior and superior frontal cortex is associated with better arithmetic achievement across all children](frontal-cortical-thinning-associated-better-arithmetic.md) — possibly the same claim (merge candidate)
+- [The authors propose aerobic fitness as a possible predictor of developmental cortical thinning and a pathway to enhanced cognition and scholastic performance](aerobic-fitness-possible-predictor-cortical-maturation-pathway.md) — related
+- [The brain regions showing fitness-related thinning overlap with regions undergoing typical developmental cortical thinning between ages 5 and 11](fitness-thinning-regions-overlap-developmental-thinning.md) — related
+- [Higher fit preadolescent children show decreased cortical thickness in superior frontal, superior temporal, and lateral occipital cortex relative to lower fit children](higher-fit-children-decreased-cortical-thickness-frontal-temporal-occipital.md) — related
+- [Aerobic fitness group differences in cortical thickness are regionally specific, absent in middle frontal, middle temporal, and parietal areas](fitness-cortical-thickness-differences-regionally-specific.md) — related
+- [Higher fit children show superior mathematics achievement but no reading or spelling advantage over lower fit children](higher-fit-children-superior-arithmetic-no-reading-spelling-difference.md) — related

@@ -47,3 +47,5 @@ In the same four-condition experiment with third graders, the article reports th
 - [High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test](hh-guidance-beats-ll-cvs-children.md) — related
 - [Phase 4 low-guidance procedure was truncated for children who already demonstrated unconfounded designs](phase4-truncation-mastered-variables.md) — related
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
+- [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
+- [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related

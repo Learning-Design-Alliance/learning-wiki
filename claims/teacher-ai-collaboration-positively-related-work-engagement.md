@@ -48,3 +48,6 @@ Three-wave time-lagged survey of 468 university teachers in Guangdong, China; hi
 ## Related Claims
 - [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related
 - [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related
+- [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related
+- [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [The indirect effect of AI literacy on engagement via psychological capital strengthens as professional commitment rises (moderated mediation)](moderated-mediation-conditional-indirect-effect.md) — related

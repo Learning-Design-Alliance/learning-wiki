@@ -45,3 +45,5 @@ Interview findings on pedagogical change during EO 1110 course redesign. San Ber
 ## Related Claims
 - [Students in courses with guided note-taking and other active learning activities reported less difficulty with motivation and engagement after the shift online](guided-note-taking-supported-remote-engagement.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
+- [EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise](eo1110-urgency-catalyzed-cross-departmental-redesign.md) — related
+- [CSU campuses implementing EO 1110 use corequisite support models in both math/quantitative reasoning and written communication courses, in three main configurations](csu-eo1110-corequisite-models-three-types.md) — related

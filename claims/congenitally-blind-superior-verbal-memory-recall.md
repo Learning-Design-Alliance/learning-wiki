@@ -46,3 +46,4 @@ RM-ANCOVA of verbal memory recall in 12 congenitally blind and 13 sighted adults
 - [Congenitally blind adults show higher verbal backwards digit span than sighted controls](congenitally-blind-higher-backwards-digit-span.md) — related
 - [Congenitally blind adults produce more items on phonemic and semantic verbal fluency tasks than sighted controls](congenitally-blind-superior-verbal-fluency.md) — related
 - [Digit span correlates with phonemic fluency in the congenitally blind but not the sighted](digit-span-phonemic-fluency-correlation-blind-only.md) — related
+- [Verbal memory performance declines with age in the full sample, significantly at the one-week delay](verbal-memory-declines-with-age-t3.md) — related

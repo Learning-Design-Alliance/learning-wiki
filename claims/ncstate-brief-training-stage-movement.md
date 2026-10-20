@@ -49,3 +49,4 @@ Observational case study of NC State AI literacy initiatives (Fall 2024–Spring
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [Individual teachers' concern profiles vary widely and can diverge from group trends during implementation](individual-concern-profiles-vary-widely.md) — related
 - [Faculty workshop participants agreed the educational focus should shift toward higher-level skills, naming abstraction, verification, and taking responsibility for systems](faculty-shift-to-abstraction-verification-responsibility.md) — related
+- [Student off-task behavior is lower in trained teachers' classrooms than in control classrooms after adjusting for baseline off-task rates](off-task-behavior-declines-after-training.md) — related

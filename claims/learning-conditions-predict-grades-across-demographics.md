@@ -68,3 +68,5 @@ Moderation test reported in the results text for the same sample; the report pri
 - [Improvements in learning conditions between October and February predict higher likelihood of a B or better in math the following term](condition-improvement-predicts-grade-improvement.md) — related
 - [Students rating learning conditions most positively are more than twice as likely to earn a B or better in math than students rating them most negatively](positive-learning-conditions-double-odds-b-or-better-math.md) — related
 - Subgroup analysis indicates notable growth for students from traditionally underserved groups, such as those eligible for free or reduced-price lunch — related
+- [Among students initially on-track, being male, Black, or Hispanic and attending higher-FRPL schools predict higher odds of falling off track in math](demographics-predict-falling-off-track.md) — related
+- [Field trip effects on science achievement are largest for Hispanic students and students qualifying for free or reduced-price lunch](field-trip-effects-largest-hispanic-frpl-students.md) — related

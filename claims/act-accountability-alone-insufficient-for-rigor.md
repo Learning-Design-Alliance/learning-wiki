@@ -44,3 +44,5 @@ The report's mixed-methods synthesis of surveys, interviews, and score analyses 
 
 ## Related Claims
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — related
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](students-report-hands-on-learning-most-effective.md) — related
+- [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related

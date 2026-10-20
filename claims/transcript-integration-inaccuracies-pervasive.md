@@ -46,3 +46,4 @@ Qualitative key-finding analysis of workshop storyboards and transcripts. One pa
 - [Transcript grades are a blurred currency of performance information, partly due to grade inflation driven by student pressure](transcript-grades-blurred-currency.md) — related
 - [HSE learners and workers perceived accuracy, security, usability, employer use, and access as the top challenges of LERs](retos-percibidos-lers-exactitud-seguridad-acceso.md) — a broader claim this one bears on
 - [Concerns about the complexity of changing assessment and the resources needed to change assessment were pervasive among participants.](genai-assessment-change-complexity-resource-concerns.md) — related
+- [A significant portion of participants said they would have exited LER onboarding without live human support](live-support-prevents-ler-onboarding-exit.md) — related

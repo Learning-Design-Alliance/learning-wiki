@@ -65,3 +65,6 @@ Inter-rater reliability analysis of the three instructors' independent blind gra
 - [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related
 - [Human coding of other-oriented transacts in the debate corpus reached high inter-coder reliability (kappa 0.72 for reasoning, 0.7 for transactivity, 0.95 for self/other distinction)](transactivity-coding-kappa-reliability-debate-corpus.md)
 - [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](ai-interaction-competencies-observable-scorable.md) — related
+- [Human inter-rater agreement on the writing rubric is imperfect: no rubric item reaches full agreement and the most discrepant rater generally falls below 80%](human-inter-rater-agreement-imperfect-upper-bound.md) — reports the opposite
+- [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related

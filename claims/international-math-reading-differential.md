@@ -45,3 +45,5 @@ International comparison results track TIMSS-PIRLS and PISA trends in other coun
 ## Related Claims
 - [US cohort achievement trends per decade are steeper in math (median 0.19sd) than in reading (median 0.04sd) across linked surveys](math-gains-exceed-reading-gains-us-cohorts.md) — related
 - [Achievement progress is steeper for students tested at younger ages, especially in math](younger-students-steeper-achievement-gains.md) — related
+- [Estimates of cohort achievement trends vary substantially by survey agent, with PISA reporting negative math trends](agency-effects-varying-trend-estimates.md) — related
+- [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — reports the opposite

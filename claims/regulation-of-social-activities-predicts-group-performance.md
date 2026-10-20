@@ -43,4 +43,12 @@ Analysis of computer chat logs pooled from three studies in which 101 students i
 
 
 ## Related Claims
--
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
+- [Performing social activities negatively predicts group performance in CSCL inquiry tasks](social-activities-negatively-predict-group-performance.md) — possibly the same claim (merge candidate)
+- [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md) — a narrower finding that bears on this claim
+- [Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
+- [Collaborative activities in CSCL chat cluster into four factors: information discussion, regulation of task-related activities, regulation of social activities, and social activities](four-factor-structure-collaborative-activities.md) — related
+- [Information discussion and regulation of task-related activities did not significantly predict group performance](information-discussion-task-regulation-no-performance-effect.md) — related
+- [The four collaborative-activity factors jointly explain almost 50% of the variance in group performance](collaboration-factors-explain-half-performance-variance.md) — related
+- [Regulation of social activities positively affected group performance (Janssen et al.)](social-activities-regulation-group-performance.md) — related
+- [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — related

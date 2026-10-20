@@ -43,4 +43,7 @@ HLM analysis of 3,803 problem-level observations nested in 137 students found PU
 
 
 ## Related Claims
--
+- [Creativity estimate significantly predicts levels solved and silver coins but not gold coins, controlling for pretest](creativity-predicts-game-performance-selective.md) — related
+- [Game mechanics difficulty positively predicts persistence in Physics Playground problems](gm-difficulty-positively-predicts-persistence.md) — related
+- [Persistence varies both within and between students, warranting multilevel modeling, and level-1 predictors explained 18% of variance](multilevel-structure-of-gameplay-persistence.md) — related
+- [A problem's primary physics concept predicts persistence, with energy can dissipate problems eliciting the most](primary-concept-predicts-persistence.md) — related

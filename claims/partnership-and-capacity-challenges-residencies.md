@@ -68,3 +68,8 @@ Partnership Team survey data show administrative capacity gaps: "40 percent of p
 - [A majority of teacher residency candidates report financial hardship during their residency year, including food and housing insecurity](residents-report-financial-hardship-during-residency-year.md) — related
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
 - [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) — related
+- [Lab supervision, staffing, scheduling, and sustainability are key challenges for school AI labs](ai-lab-staffing-supervision-challenges.md) — related
+- [Teacher residencies and preparation partnerships proved important to district recruitment during the pandemic](residencies-partnerships-support-pandemic-recruitment.md) — related
+- [Some employers were reluctant to hire new apprentices during pandemic economic uncertainty, but no mass cancellations of apprenticeships were reported](employer-reluctance-no-mass-cancellations.md) — related
+- [Prior residency experience of vetted EPPs and high district engagement enabled TCLAS uptake](prior-experience-and-district-engagement-uptake.md) — related
+- [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related

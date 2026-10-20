@@ -63,3 +63,4 @@ Secondary descriptive analysis of conversations exhibiting some deviation. The a
 
 ## Related Claims
 - [Prompting alone could not keep the gpt-3.5-turbo model on-topic, while the text-davinci-002 engine stayed on-topic in the deployed chatbot](gpt35-turbo-off-topic-prompting-insufficient.md) — related
+- [Teachers authoring student-AI dialogue prompts predominantly write highly specific tasks targeting higher-order thinking (92% at DOK 2–3)](teachers-author-specific-higher-order-ai-prompts.md) — related

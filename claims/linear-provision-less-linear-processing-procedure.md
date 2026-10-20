@@ -46,3 +46,4 @@ Qualitative thematic analysis of think-aloud recordings (theme: working procedur
 ## Related Claims
 - [During peer-feedback processing, students deal with errors in one of two patterns: immediately knowing whether they agree with feedback, or first having to study the feedback more thoroughly](two-patterns-error-feedback-processing.md) — related
 - [During peer-feedback provision, students deal with errors in one of two patterns: quick discovery (identification simultaneous with decoding, often without evaluation) or elaborate discovery (identification resulting from an interpreting/evaluating phase)](two-patterns-error-discovery-feedback-provision.md) — related
+- [Students focused more on errors than on pluses both when providing and when processing peer-feedback](students-focus-more-on-errors-than-pluses.md) — related

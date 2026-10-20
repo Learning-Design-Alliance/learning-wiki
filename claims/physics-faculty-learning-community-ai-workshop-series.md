@@ -51,3 +51,4 @@ Case description of the Spring 2026 workshop series in the University of Colorad
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — related
 - [The authors conclude real-time AI feedback reduces extraneous cognitive load and mitigates fear of failure with expensive laboratory equipment](ai-feedback-reduces-cognitive-load-and-fear-of-failure.md) — related
 - [The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility](ai-demonstrations-split-on-course-utility.md) — related
+- [Full Algebra Toolkit implementation requires roughly 14–22 hours of educator time across PD sessions, preparation, and classroom implementation](algebra-toolkit-educator-time-requirements.md) — related

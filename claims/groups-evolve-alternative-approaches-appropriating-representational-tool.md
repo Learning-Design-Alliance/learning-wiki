@@ -43,4 +43,7 @@ A contextual case study of students in small groups engaged in collaborative sec
 
 
 ## Related Claims
--
+- [A representational tool offers beneficial affordances that supplement face-to-face communication for second-language learning](representational-tool-affordances-supplement-face-to-face-l2.md) — a broader claim this one bears on
+- [Written media afford simultaneous production and comprehension, which pairs appropriate to manage multiple discussion threads](written-media-simultaneity-multiple-threads.md) — related
+- [Students' appropriation of class interaction practices was mediated by prior sociohistorical educational experiences](prior-practices-mediate-class-interaction-appropriation.md) — related
+- [Students' collaborative historical reasoning evolved over two days while co-constructing network representations with Net.Create, per the editorial's report of Craig et al.](netcreate-collaborative-historical-reasoning-evolved.md) — related

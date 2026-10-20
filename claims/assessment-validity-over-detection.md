@@ -64,3 +64,6 @@ The review cites cross-course and cross-national evidence that interpretations o
 ## Related Claims
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
+- [Evidence types differ systematically in probative value: detection outputs cluster at weak inferential force while admissions, observed exam behaviour and fabricated references carry the strongest profiles](evidence-types-differ-in-probative-value.md) — related
+- [Nursing academics report limited, unclear and inconsistently applied institutional guidance on GenAI use in teaching and assessment](nursing-academics-report-genai-policy-ambiguity.md) — related
+- [Instructors frequently encounter suspected inappropriate AI use but lack confidence in their current investigation processes](instructors-lack-confidence-investigating-ai-use.md) — related

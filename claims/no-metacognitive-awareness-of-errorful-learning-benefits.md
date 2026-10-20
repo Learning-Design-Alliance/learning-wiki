@@ -51,3 +51,6 @@ Null result from the randomized experiment (N = 276): after the intervention, th
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — a broader claim this one bears on
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Both errorful learning methods produce better negative knowledge (anticipation of problem-specific design errors) than errorless practice, with no difference between self- and other-generated errors](errorful-learning-improves-error-anticipation-negative-knowledge.md) — related
+- [Knowing what not to do does not suffice for knowing what to do: spot-explain-fix improved design critique and error anticipation but produced weaker near and far transfer than deliberate erring and no far-transfer advantage over errorless practice](negative-knowledge-insufficient-for-far-transfer.md) — related
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related

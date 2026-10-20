@@ -48,3 +48,5 @@ Theoretical analysis in the review's Pathway 1 section, drawing on reviews of ge
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — a narrower finding that bears on this claim
 - [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — possibly the same claim (merge candidate)
+- [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — a narrower finding that bears on this claim
+- [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related

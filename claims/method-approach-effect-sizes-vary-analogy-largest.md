@@ -50,3 +50,4 @@ Narrative summary of Table 2 effect sizes for individual method and approach stu
 - [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
 - [Adult learner groups are more heterogeneous than child groups, calling for individualized instruction and varied learning strategies](adult-learner-groups-more-heterogeneous.md) — related
 - [Effects of inclusion are heterogeneous and single-factor subgroup moderator analyses were inconclusive](inclusion-effects-heterogeneous-moderator-analyses-inconclusive.md) — related
+- [In medical and dental education, a deep learning approach is associated with high(er) or no-difference academic performance and never with low(er) performance](deep-approach-higher-performance-medical-dental.md) — related

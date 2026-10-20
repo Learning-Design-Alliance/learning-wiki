@@ -46,3 +46,4 @@ Per-scenario descriptive results (Table 4) in the RQ1 section show learning-supp
 - [Students view GenAI use on a spectrum from unethical to ethical, with a vast middle grey area of uses such as paraphrasing AI-generated text or generating ideas](genai-use-ethical-spectrum-grey-area.md) — a broader claim this one bears on
 - [The amount of AI-generated code in a submission was the dominant factor influencing students' ethical and rule-compliance judgments](amount-of-ai-generated-code-dominant-factor-in-ethical-judgments.md) — related
 - [Undergraduate students classify common GenAI ethical scenarios with high accuracy, with a pronounced ceiling effect](undergraduates-high-accuracy-genai-ethical-scenarios.md) — related
+- [Students' perceptions of ethicality and of rule compliance were strongly and positively correlated, with rule ratings consistently higher than ethicality ratings](ethicality-and-rule-compliance-perceptions-strongly-correlated.md) — related

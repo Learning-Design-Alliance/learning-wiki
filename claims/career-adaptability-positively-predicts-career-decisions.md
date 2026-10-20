@@ -46,3 +46,5 @@ SEM path analysis of the 315-student survey. Career adaptability positively pred
 - [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related
 - [AI anxiety directly and negatively predicts college students' career decisions](ai-anxiety-negatively-predicts-career-decisions.md) — related
 - [Exploratory analyses suggest Roads to Success increased confidence in choosing careers and understanding career success requirements](roads-to-success-exploratory-confidence-career-areas.md) — related
+- [AI employment threat perception positively predicts career decision-making anxiety among Chinese college students](ai-employment-threat-perception-predicts-career-decision-making-anxiety.md) — related
+- [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related

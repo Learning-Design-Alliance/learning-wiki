@@ -45,3 +45,6 @@ Overall conclusion from the cluster RCT and QED substudy: "unlikely to meaningfu
 ## Related Claims
 - [Offering FAST produced no meaningful, enduring effects on family functioning, family-school relationships, academic learning, or social-behavioral outcomes in a 60-school cluster RCT](fast-rct-no-meaningful-enduring-effects.md) — related
 - [FAST take-up was far below the projected 60 percent participation rate, with only about 20 percent typical participation per year](fast-takeup-far-below-projected.md) — related
+- [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — related
+- [Small isolated effects on family conflict (negative) and parent-teacher joining (positive) appeared but were not enduring and may be spurious](fast-isolated-small-effects-possibly-spurious.md) — related
+- [School turnaround is a gradual process rather than an immediate event triggered by replacing staff or leadership](turnaround-is-a-process-not-an-event.md) — related

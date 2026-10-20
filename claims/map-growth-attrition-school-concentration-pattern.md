@@ -50,3 +50,4 @@ School-level pattern from the same attrition analysis of fall 2019 testers: attr
 - [The dashboard's cross-sectional view compares same-grade students across terms using the full sample of testers, but attrition is not random](cross-sectional-view-full-sample-attrition-caveat.md) — related
 - [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](map-growth-attrition-demographic-differences-2020.md) — related
 - [Attrition gaps between staff of color and non-Hispanic White staff grew during the pandemic except for school administrators, where they narrowed](pa-attrition-racial-gaps-grew-except-administrators.md) — related
+- [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — possibly the same claim (merge candidate)

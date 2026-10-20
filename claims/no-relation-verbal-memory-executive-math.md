@@ -49,3 +49,7 @@ Zero-order and partial correlation analyses (controlling WISC Vocabulary, Block 
 - [Phonological decoding, verbal knowledge, visuo-spatial STM/WM, spatial orientation and trail-making performance are robust simultaneous predictors of math in 9-year-olds](executive-memory-predictors-of-math-9yo.md) — reports the opposite
 - [In pure developmental dyscalculia with normal reading and verbal IQ, verbal short-term and working memory are intact](pure-dd-verbal-memory-intact.md) — related
 - [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](dd-visuospatial-stm-wm-impairment.md) — related
+- [Visuo-spatial working memory and inhibition jointly predict mathematics performance in 9–10-year-old children](visuospatial-wm-inhibition-predict-maths.md) — related
+- [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — related
+- [Non-verbal intelligence measures (Raven, WISC Block Design) are non-significant math predictors when well-specified spatial and memory measures are in the model](nonverbal-iq-nonsignificant-math-predictor.md) — related
+- [Spatial processing is preserved but slower in developmental dyscalculia, with slow trail-making and mental rotation speed attributed to WM/inhibition impairment](dd-spatial-processing-preserved-but-slow.md) — related

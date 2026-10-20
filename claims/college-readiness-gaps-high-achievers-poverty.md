@@ -47,3 +47,5 @@ Longitudinal observational analysis of NWEA MAP scores for a middle school cohor
 - [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](school-growth-variance-exceeds-poverty-effect.md) — related
 - [High-poverty schools' high achievers had roughly even odds of above-average growth, and 75th-percentile growth would be needed to close the readiness gap](above-average-growth-probability-high-poverty-schools.md) — related
 - [Large-scale longitudinal study measures middle school academic trajectories relative to college readiness benchmarks for more than 360,000 US students](college-readiness-trajectories-360k-students.md) — a broader claim this one bears on
+- [Middle school on-track status for college readiness is stable for most students across grades 6 to 8](middle-school-on-track-status-stable.md) — related
+- [Linking studies connect MAP Growth scores to state summative proficiency predictions and external measures](map-growth-linking-studies-predictions.md) — related

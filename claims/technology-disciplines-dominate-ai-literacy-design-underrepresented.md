@@ -71,3 +71,6 @@ Same disciplinary mapping analysis (Fig. 7). The review reports the Design dimen
 - [AIEd research is dominated by computer science and STEM disciplines, with minimal educator involvement](aied-research-dominated-by-cs-stem.md) — related
 - [K-12 AI learning experiences concentrate on technical, conceptual and applied skills in specific domains, while implementation schemes are led by the US and China](k12-ai-experiences-domain-limited-us-china-lead.md) — related
 - [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related
+- [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
+- [Reviewed GenAI literacy literature concentrates on knowledge and skills while equity and agency receive thin treatment](genai-literature-equity-agency-thin.md) — related
+- [Existing CS and AI unplugged activity collections contain few resources specifically about language models or text generation, leaving a gap LLMs Unplugged fills](gap-unplugged-resources-language-models.md) — related

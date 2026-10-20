@@ -50,3 +50,5 @@ Two-factorial ANOVA on Lists 1–4 interim JOL magnitudes for both JOL groups in
 - [Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
+- [Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall](anchoring-explains-underconfidence-with-practice.md) — related
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related

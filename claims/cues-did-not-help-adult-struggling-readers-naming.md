@@ -45,3 +45,4 @@ BNT administration with 232 adult struggling readers: mean correct spontaneous r
 ## Related Claims
 - [Adult struggling readers score far below adult norms on the Boston Naming Test, with expressive vocabulary resembling children's scores](adult-struggling-readers-low-expressive-vocabulary-bnt.md) — related
 - [BNT scores differ by word-reading level, with fifth-grade-level readers outperforming third-grade-level readers](bnt-scores-differ-by-word-reading-level.md) — related
+- [Expressive vocabulary adds small but significant variance to exception word reading, but not to general or nonword reading, in adult struggling readers](expressive-vocabulary-exception-word-reading-adults.md) — related

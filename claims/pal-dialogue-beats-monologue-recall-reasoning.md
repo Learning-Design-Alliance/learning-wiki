@@ -43,4 +43,5 @@ The review reports, citing Craig et al. (2000), an experiment with 48 college st
 
 
 ## Related Claims
--
+- [Preschoolers constrain exploration after direct instruction and after overhearing instruction to another child, but not after overhearing instruction to an adult or a non-pedagogical intentional action](pedagogical-inference-extends-to-overheard-child-instruction.md) — related
+- [Preschoolers given a pedagogical demonstration of a toy function play for less time than children in interrupted, naive, or baseline conditions](pedagogical-demonstration-shortens-preschool-exploration-time.md) — related

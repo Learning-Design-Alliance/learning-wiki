@@ -45,3 +45,4 @@ Long-term outcome regressions (Table 5) on the CPS sub-sample, mismatch coeffici
 ## Related Claims
 - [Teachers' persistent grade effects predict students' long-term outcomes](persistent-grade-effects-predict-long-term-outcomes.md) — related
 - [Ninth-grade teachers vary substantially and systematically in the grades they give](teacher-total-grade-effects-vary-substantially.md) — related
+- [Grading mismatch correlates negatively with persistent effects, and total effects reflect mismatch more than persistent effects](mismatch-negatively-correlated-persistent-effects.md) — related

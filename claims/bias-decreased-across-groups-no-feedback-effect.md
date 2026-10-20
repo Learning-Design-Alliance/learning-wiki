@@ -50,3 +50,6 @@ Conditional linear mixed model on absolute monitoring accuracy showed measuremen
 - [Neither monitoring feedback nor performance feedback improved kindergarteners' monitoring accuracy relative to an active control](feedback-training-no-improvement-kindergarten-monitoring-accuracy.md) — related
 - [Monitoring discrimination and overconfidence improve with age between kindergarten and second grade](monitoring-accuracy-improves-kindergarten-to-second-grade.md) — related
 - [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](pre-monitoring-increases-overconfidence-children.md) — reports the opposite
+- [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
+- [Giving students feedback about their grading bias increased their subsequent grading accuracy](grading-bias-feedback-increases-accuracy.md) — related
+- [Children became significantly less overconfident from kindergarten to 2nd grade but remained overconfident at both time points](monitoring-overconfidence-declines-but-persists-into-grade-2.md) — related

@@ -46,3 +46,5 @@ Baseline comparison of the 84 treatment and 75 control children in inner-city sc
 - [An 11-week teacher-delivered phonological awareness intervention significantly improves kindergarten children's phoneme segmentation, letter knowledge, reading, and invented spelling](teacher-delivered-phoneme-awareness-kindergarten-improves-early-literacy.md) — related
 - [Intervention effects of SRI did not differ by student background or ability variables](sri-no-differential-effects-background-ability.md) — related
 - [Background measures show no group differences in age, intelligence, or English vocabulary, confirming group matching](group-matching-background-measures.md) — related
+- [Chatbot and search engine classes showed no significant baseline differences in science learning ability and knowledge before the intervention](class-level-baseline-equivalence-chatbot-vs-search-engine.md) — related
+- [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related

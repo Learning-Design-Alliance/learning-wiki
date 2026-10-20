@@ -43,4 +43,7 @@ Path model fitted to 383 less effective self-regulators (Model 3: CHISQ=8.98, df
 
 
 ## Related Claims
--
+- [For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition](mastery-goals-large-positive-avoidance-negative-metacognition.md) — related
+- [Performance-approach goals are directly related to the use of surface cognitive and resource management strategies in effective self-regulators](performance-approach-goals-surface-resource-strategies.md) — related
+- [Effective self-regulators score significantly higher than less effective self-regulators on achievement goals, metacognition, all four study strategies and exam scores, with equal intellectual ability](effective-regulators-higher-goals-metacognition-strategies-exam.md) — related
+- [Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies](metacognition-positive-effect-four-strategies.md) — related

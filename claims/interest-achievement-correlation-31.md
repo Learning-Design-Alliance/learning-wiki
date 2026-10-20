@@ -46,3 +46,4 @@ The review reports this finding, citing Schiefele, Krapp, and Winteler (1992); t
 - [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — related
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
+- [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](individual-interest-predicts-achievement.md) — possibly the same claim (merge candidate)

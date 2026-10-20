@@ -46,3 +46,4 @@ Correlational analysis of student-tutor log data across Cognitive Tutor units, i
 
 - [The Help Tutor improved students' in-tutor help-seeking behavior, but only for a subset of help-seeking action types](help-tutor-improved-in-tutor-help-seeking.md)
 - [Help Tutor metacognitive instruction produced no domain-level geometry learning gains and no lasting help-seeking procedural knowledge](help-tutor-no-domain-learning-gains.md)
+- [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related

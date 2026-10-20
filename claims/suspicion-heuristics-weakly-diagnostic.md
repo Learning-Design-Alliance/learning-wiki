@@ -65,3 +65,5 @@ Supervised class-based TF-IDF analysis showed incorrect or AI-attributing judgme
 
 - [Judgment-truth dissociation: the same cues that predict ground-truth identity are only weakly incorporated into explicit identity judgments](judgment-truth-dissociation-cues.md)
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md)
+- [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
+- [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — related

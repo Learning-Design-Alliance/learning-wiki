@@ -50,3 +50,5 @@ In the preliminary path model, nonverbal IQ (WPPSI-III Block Design and Object A
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](preschool-wm-flexibility-predicts-math-achievement.md) — related
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
+- [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
+- [Motivation's effect on later mathematical performance is indirect, mediated by executive functioning and early numeracy skills](motivation-indirect-effect-mediated-by-ef-and-numeracy.md) — related

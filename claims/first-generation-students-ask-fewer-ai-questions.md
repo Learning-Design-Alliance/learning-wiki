@@ -48,3 +48,5 @@ Descriptive comparison of question counts by generation status across the two se
 
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions](generation-differences-in-question-type-usage.md) — related
+- [Students' question types shift from confusion-reporting toward procedural and task-oriented inquiry as tasks progress, though the session difference did not reach conventional significance](inquiry-types-shift-across-cs2-sessions.md) — related
+- [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related

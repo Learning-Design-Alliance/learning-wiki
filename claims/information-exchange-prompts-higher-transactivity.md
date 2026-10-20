@@ -45,3 +45,6 @@ Transactivity analysis of teachers' interaction logs in course discussions of th
 ## Related Claims
 
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md)
+- [Science teachers reported high satisfaction with the quality and usability of the online asynchronous PD, including positive beliefs about tie quality, depth of interaction, and access to expertise.](high-satisfaction-social-capital-online-asynchronous-pd.md) — related
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related
+- [The editorial reports an online teacher professional development intervention combining social capital mechanisms and automated scaffolds succeeded, with transactivity as a process indicator](social-capital-online-pd-intervention-success.md) — a broader claim this one bears on

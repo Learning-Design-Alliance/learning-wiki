@@ -45,3 +45,4 @@ Large-scale observational analysis of voluntarily submitted chat logs from 821 s
 ## Related Claims
 - [Interaction context and cognitive intent are structurally associated: task-directed interactions sit at lower-to-mid Bloom levels while own-work references carry higher-level requests](context-intent-joint-association.md) — a narrower finding that bears on this claim
 - [Organization-simulation knowledge practices support interdisciplinary learning](organization-simulation-knowledge-practices-support-interdisciplinary-learning.md) — related
+- [Student discourse with a Socratic AI physics tutor concentrates sharply: of 357 consolidated categories, the top 25 cover roughly half of all student turns](ai-tutor-discourse-concentrates-top-categories.md) — related

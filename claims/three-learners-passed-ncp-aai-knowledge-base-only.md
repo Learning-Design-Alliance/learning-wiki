@@ -45,3 +45,5 @@ Certification outcomes reported in Section IV-A: three learners studied only the
 ## Related Claims
 - [The knowledge base supported downstream expert-level analysis, yielding 1,267 risk items across 81 categories and 14 domains](knowledge-base-supported-1267-risk-items.md) — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related
+- [NASBA approved an upskilling program built on the framework's outputs for continuing-professional-education credits](nasba-approved-cpe-program.md) — related
+- [Most students who ultimately failed the exam still expected to pass three days before it, showing persistent overconfidence despite knowledge gain](failers-still-expected-to-pass.md) — related

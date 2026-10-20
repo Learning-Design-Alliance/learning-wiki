@@ -47,3 +47,6 @@ Repeated-measures ANCOVA on the two bilingual groups with SES covariate; the lan
 
 ## Related Claims
 - [Conceptual scoring removes the monolingual-simultaneous-bilingual gap in English receptive vocabulary but not in English expressive vocabulary](conceptual-scoring-closes-receptive-gap-simultaneous-bilinguals.md) — related
+- [Bilingual children's English and Spanish receptive vocabulary and oral comprehension both increased across two years of Head Start, with group advantages in the language of prior exposure](receptive-language-growth-head-start-both-languages.md) — related
+- [Controlling for SES, monolingual children outperform both simultaneous and sequential bilinguals on single-language English receptive and expressive vocabulary measures](monolinguals-outperform-bilinguals-single-language-english-vocabulary.md) — related
+- [Sequential bilinguals score significantly below monolinguals on English vocabulary even with conceptual scoring and SES controlled](sequential-bilinguals-gap-persists-conceptual-scoring.md) — related

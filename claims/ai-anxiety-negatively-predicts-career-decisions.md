@@ -51,3 +51,6 @@ SEM path analysis of survey data from 315 Chinese college students. AI anxiety d
 - [AI employment threat perception positively predicts career decision-making anxiety among Chinese college students](ai-employment-threat-perception-predicts-career-decision-making-anxiety.md) — related
 - [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
 - [Career adaptability positively predicts college students' career decisions](career-adaptability-positively-predicts-career-decisions.md) — related
+- [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related
+- [AI employment threat perception negatively predicts perceived employability among Chinese college students](ai-threat-negatively-predicts-perceived-employability.md) — related
+- [Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability](growth-mindset-weakens-moderated-mediation-indirect-effect.md) — related

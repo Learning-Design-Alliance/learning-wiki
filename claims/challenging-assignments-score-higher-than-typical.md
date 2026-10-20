@@ -45,3 +45,4 @@ Observational comparison within the three-year assignment collection, in which t
 ## Related Claims
 - [The intellectual quality of classroom assignments in Annenberg Challenge schools improved between 1997 and 1999, though some 1999 averages were lower than 1998](annenberg-assignment-quality-improved-1997-1999.md) — related
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related
+- [A 1998 baseline study found typical Chicago assignments were mostly rudimentary basic-skills exercises, but most students completed the more demanding tasks they were given](baseline-assignments-rudimentary-but-students-completed-demanding-tasks.md) — related

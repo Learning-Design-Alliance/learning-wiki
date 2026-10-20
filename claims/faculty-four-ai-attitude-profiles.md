@@ -47,3 +47,4 @@ The review reports, citing Mah and Groß (2024), that faculty views range "from 
 - [Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning](divergent-academic-attitudes-genai-nursing.md) — a narrower finding that bears on this claim
 - [Four distinct GenAI chatbot adoption personas emerge: Cautious Achievers, Skeptical Utilitarians, Disengaged Doubters, and Engaged Enthusiasts](four-genai-adoption-personas.md) — related
 - [Chatbot integration in a smart classroom is expected by the authors to increase learner engagement and academic achievement](chatbot-engagement-achievement-expectation.md) — related
+- [Interview data link cluster differences in AI-TPACK integration to distinct profiles of AI-TK, technical self-efficacy, pedagogical beliefs, and support-dependence](cognitive-affective-profiles-explain-design-behaviors.md) — related

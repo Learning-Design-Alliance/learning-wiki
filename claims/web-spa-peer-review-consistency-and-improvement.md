@@ -43,4 +43,7 @@ The review reports a study of Web-SPA with "76 high school students in a compute
 
 
 ## Related Claims
--
+- [Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis](peer-marks-mean-correlation-069-with-teacher-marks.md) — a broader claim this one bears on
+- [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — a broader claim this one bears on
+- [Grading students on the quality of their reviews rather than on peer-assessed marks reduced tensions and improved student-instructor mark correlations](grading-review-quality-reduces-tensions-improves-correlations.md) — related
+- [Peer assessment through tests, marks, and grades produces learning gains and reduced anxiety, with most participants reporting learning benefits](peer-marks-tests-learning-gains.md) — related

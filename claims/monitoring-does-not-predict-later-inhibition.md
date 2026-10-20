@@ -43,4 +43,7 @@ Cross-lagged panel model in N = 84 children testing the reverse path from monito
 
 
 ## Related Claims
--
+- [Inhibition–monitoring links were cross-sectionally significant in kindergarten but not in 2nd grade](cross-sectional-inhibition-monitoring-link-fades-by-grade-2.md) — related
+- [Working memory and shifting in kindergarten were not significant predictors of later metacognitive monitoring](working-memory-shifting-not-predict-monitoring.md) — related
+- [Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency](inhibition-improves-kindergarten-to-grade-2.md) — related
+- [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related

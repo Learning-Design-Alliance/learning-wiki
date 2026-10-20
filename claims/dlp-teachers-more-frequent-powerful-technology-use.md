@@ -69,3 +69,4 @@ End-of-year survey of DLP and non-DLP teachers in pilot schools: "60 percent of 
 - [Teachers coached for more than one cycle reported more powerful technology use and greater confidence, though a breadth-versus-depth tradeoff remains open](dlp-multiple-cycles-greater-progress.md) — related
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — possibly the same claim (merge candidate)
+- [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related

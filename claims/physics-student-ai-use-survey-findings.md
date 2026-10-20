@@ -65,3 +65,4 @@ Physics-specific survey administered in PHYS 1110 (General Physics 1) and later 
 - [Student surveys show widespread AI use, desire for instructor guidance, and 'checking correctness' as a frequent use](student-surveys-ai-use-guidance-checking-correctness.md) — a broader claim this one bears on
 - [Layer 1 survey (N=54) found mostly daily or weekly but largely passive AI use, with persistent ethical anxiety described as cheating fears or hallucination worries](layer1-survey-passive-use-ethical-anxiety.md) — related
 - [A majority of surveyed students want institutional training on professional and ethical AI tool use](students-want-ai-training-survey.md) — related
+- [A 2024 global survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate](survey-86-percent-students-use-ai-80-percent-policies-unclear.md) — related

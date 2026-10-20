@@ -76,3 +76,6 @@ The abstract of the national trend analysis reports decreased school-entry inequ
 - [Kindergarteners in 2017 had moderately lower math and reading skills at school entry than kindergarteners in 2010](kindergarten-entry-skills-lower-2017-than-2010.md) — related
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
 - [Prior nationally representative studies found incoming kindergarteners' math and literacy skills were higher in 2010 than in 1998](kindergarten-entry-skills-higher-2010-than-1998.md) — related
+- [District pre-K enrollment was not associated with kindergarten-entry achievement levels or with districts' achievement trends over time](district-prek-enrollment-not-associated-entry-skills.md) — related
+- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- [Children's academic achievement at kindergarten entry has declined, per the article's abstract](declining-achievement-kindergarten-entry.md) — related

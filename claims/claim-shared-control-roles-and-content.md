@@ -68,3 +68,4 @@ Ranking results from Challenge 4 on collaboration content. The article reports t
 - [After pairing, both groups favored saving progress over abrupt transitions and trusted data-informed future pairing over student-only ratings.](claim-post-pairing-progress-and-data-informed-pairing.md) — related
 - [Teachers and students differed in how unified their pairing-preparation design preferences were, with teachers more aligned than students in Challenge 1.](claim-teachers-more-unified-than-students-challenge-1.md)
 - [K-12 students and teachers both consider AI imperfect at detecting students' knowledge and assigning appropriate tasks, and therefore prefer more human control over AI decisions](students-teachers-see-ai-imperfect-prefer-human-control.md)
+- [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related

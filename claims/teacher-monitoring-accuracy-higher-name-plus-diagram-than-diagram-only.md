@@ -49,3 +49,5 @@ Within-subjects experiment in which 21 secondary education teachers judged five 
 - [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) — related
 - [Teachers' monitoring accuracy does not differ significantly between the name-only condition and either diagram condition](teacher-monitoring-accuracy-null-differences-name-only-vs-diagram-conditions.md) — related
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
+- [Adding diagram self-assessment to diagram completion does not increase diagnostic cue utilization or metacomprehension accuracy beyond diagramming alone](self-assessment-scaffold-no-added-benefit.md) — related
+- [Thinking aloud does not affect teachers' monitoring accuracy](think-aloud-no-effect-teacher-monitoring-accuracy.md) — related

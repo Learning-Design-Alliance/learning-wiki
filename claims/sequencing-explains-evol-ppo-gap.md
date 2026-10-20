@@ -49,3 +49,4 @@ Pedagogical decomposition (Table 5, ASSIST15 L=10, 3 seeds, 200 test learners) m
 - [Replacing evolutionary experts with random-path experts collapses performance, and greedy 1-step lookahead reaches only +0.155 EP on ASSIST15 L=10](random-experts-collapse-lpr-performance.md) — related
 - [Final LPR performance is governed by the quality of evolutionary experts rather than by the particular imitation objective](expert-quality-over-imitation-objective.md) — related
 - [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related
+- [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — related

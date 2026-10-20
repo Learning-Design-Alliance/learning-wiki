@@ -51,3 +51,4 @@ The two-way ANOVA's interaction term (EF * TOM, df=1) printed in Table 2 shows F
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related
 - [Preschool children who pass both EF and TOM tests score significantly higher on semantic fluency than children who fail both](pass-both-ef-tom-higher-semantic-fluency.md) — related
 - [Theory of mind effect on semantic fluency in preschool children is statistically non-significant but approaches significance](tom-marginal-non-significant-semantic-fluency.md) — related
+- [Executive function at age 3 predicts theory of mind at age 4, controlling for gender, income-to-needs, and receptive language](ef-at-3-predicts-tom-at-4.md) — related

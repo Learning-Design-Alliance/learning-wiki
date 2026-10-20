@@ -45,3 +45,4 @@ Authors' design recommendation in the classroom-practice section, where students
 ## Related Claims
 - [Progressive scaffold fading moved teachers from guided participation toward independent justification, generalization, and task design](ai-scaffold-fading-independent-justification.md) — related
 - [Teachers report ChatGPT-generated math questions misalign with grade level and topic, are unreliable or unanswerable, and cost time](chatgpt-brainstorming-concerns-misalignment-reliability.md) — related
+- [Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship](judgement-locus-of-educational-integrity.md) — a broader claim this one bears on

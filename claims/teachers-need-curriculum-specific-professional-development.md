@@ -45,3 +45,4 @@ The brief's framing statement, offered as an argument rather than a tested resul
 ## Related Claims
 - [Despite calls to connect professional development to the curriculum, there is limited guidance on how to do so](limited-guidance-connecting-pd-to-curriculum.md) — related
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related
+- [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — a narrower finding that bears on this claim

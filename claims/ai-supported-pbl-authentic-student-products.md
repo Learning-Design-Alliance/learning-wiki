@@ -50,3 +50,6 @@ Qualitative case description of Andrea Stanczyk's classroom project on environme
 - [Attendees correctly identified AI-generated images in 82% of polling responses, and polling served as a scaffold for discussion rather than a measurement tool](polling-image-identification-82-percent.md) — related
 - [AI-driven PBL environments enhance educator and student collaboration via real-time feedback, intelligent scaffolding, and data-informed instructional decisions](ai-pbl-enhances-educator-student-collaboration.md) — related
 - [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — a broader claim this one bears on
+- [Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption](ai-provisional-thinking-partner-iterative-design.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related
+- [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — a broader claim this one bears on

@@ -48,3 +48,5 @@ An observational pattern reported in the discussion section without supporting s
 ## Related Claims
 - [Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially](chatbot-engagement-bimodal-continuous-versus-superficial-users.md) — related
 - [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
+- [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Telegram-based chatbot use declined after initial novelty, with platform friction cited as a barrier](telegram-chatbot-use-declined-novelty-platform-friction.md) — related

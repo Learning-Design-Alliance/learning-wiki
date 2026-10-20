@@ -51,3 +51,4 @@ Moderator analyses accompanying three separate meta-analyses (intervention–ach
 - Subgroup (moderator) analyses in education impact evaluations can be based on participant characteristics measured before the intervention is implemented — a broader claim this one bears on
 - [SRL activity only partially mediates the effect of SRL interventions on achievement in higher education](srl-partial-mediation-achievement-higher-ed.md) — related
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — a narrower finding that bears on this claim
+- [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related

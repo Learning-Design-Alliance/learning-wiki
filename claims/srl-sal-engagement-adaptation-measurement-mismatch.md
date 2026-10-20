@@ -52,3 +52,5 @@ The commentary reports Zusho's (2017) conclusions from reviewing the literature 
 - [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related
 - [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](learning-patterns-versus-srl-models.md) — related
 - [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related
+- [Emotions are seldom explicitly analyzed in conversational CSCL contexts and must be balanced with cognition in conversation conceptualization](emotions-neglected-cscl-emotional-talk.md) — related
+- [S-SRL strategy use is dynamic over time, contexts and student characteristics, supporting an event-based conceptualization of self and socially regulated learning](ssrl-strategy-use-dynamic-event-based.md) — related

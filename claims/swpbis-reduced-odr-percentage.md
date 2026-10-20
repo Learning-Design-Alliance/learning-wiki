@@ -65,3 +65,5 @@ Second GLM analysis of SWIS ODR data from the SWPBIS schools across the four pos
 
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — the general claim this finding bears on, with the studies behind it
 -
+- [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](swpbis-reduces-odr-at-risk-high-risk.md) — related
+- [School suspension rates declined significantly within SWPBIS schools but not within comparison schools, though the two conditions were not tested against each other](swpbis-reduced-suspensions-not-comparisons.md) — related

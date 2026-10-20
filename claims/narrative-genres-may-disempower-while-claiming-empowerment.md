@@ -49,3 +49,6 @@ Theoretical argument in the paper's introduction: the author, sympathetic to nar
 - [Equipping caregivers with MUAC tapes empowered them to track child nutrition and become community health advocates](family-muac-empowers-caregivers-as-health-advocates.md) — related
 - [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related
 - The storied format of personal experience research can transcend the specialties of the immediate research field to influence a larger research community — related
+- [Storytelling from work experience serves as a key vehicle of knowledge production and communication in adult classroom quasi-communities](quasi-community-storytelling-knowledge.md) — related
+- [Narrative/story writing is the most common genre used to operationalize writing in K‑5 writing‑motivation self‑report studies, suggesting a bias toward narrow aspects of writing](storytelling-most-common-genre-writing-motivation-self-reports.md) — related
+- [Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse](old-genres-shape-threaded-discussion-use.md) — related

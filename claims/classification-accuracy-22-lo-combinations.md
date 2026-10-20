@@ -66,3 +66,4 @@ Within the same classification-accuracy analysis of 22 LO-assessment combination
 - [The 14-LO attribute structure improved DINA model fit over MCD-v1's four-skill structure for all three RBAs](14-lo-structure-improved-fit-over-mcd-v1.md) — related
 - [DINA models fit FCI and EMCS posttest data well but fit FMCE data only marginally](dina-fit-fci-emcs-good-fmce-marginal.md) — related
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) — related
+- [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — a broader claim this one bears on

@@ -84,3 +84,4 @@ The review reports Kalloo and Mohan's third study, where an 18-student experimen
 - [LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most](la-positive-effect-high-performers-benefit-most-k12-math.md) — related
 - [Formative-assessment-based LA shows positive effects on achievement, motivation, and understanding, with personalized feedback reading time mattering](formative-assessment-la-positive-effects.md) — related
 - [Guiding analytics for learners can improve mathematics achievement, retention, learning strategies, and reduce math anxiety](guiding-analytics-improves-achievement-and-strategies.md) — related
+- [A DLS with multiple scaffolds improved achievement and SRL attitudes, with high-achieving students beating traditional teaching but not flipped classroom](multiple-scaffolds-dls-achievement-srl.md) — related

@@ -45,3 +45,4 @@ Implementation analysis of all TIF districts' bonus design expectations, reporte
 ## Related Claims
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](few-districts-aligned-bonuses-with-tif-guidance.md) — a broader claim this one bears on
 - [In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average](tif-bonuses-easily-earned-top-performers-larger.md) — related
+- [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](tif-average-bonus-below-recommended-share.md) — related

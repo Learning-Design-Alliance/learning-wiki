@@ -67,3 +67,7 @@ Derived from the meta-analytic Alpha using the Spearman–Brown formula. The exp
 - [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — related
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
 - [Published knowledge test Alphas show distributional bias with underrepresentation of low Alphas](knowledge-test-alpha-publication-bias.md) — related
+- [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
+- [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related
+- [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related
+- [Alpha is negatively related to sample mean age, and knowledge type shows no effect after controlling for test length](knowledge-test-alpha-age-and-type.md) — related

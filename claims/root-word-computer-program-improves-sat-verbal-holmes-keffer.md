@@ -47,3 +47,5 @@ Randomized controlled trial at a rural Georgia high school in which intervention
 - [Two computerized SAT coaching programs showed no statistically significant effect on SAT scores (McClain, 1999)](computerized-sat-coaching-no-effect-mcclain.md) — related
 - [Embedding test-taking strategies and ACT practice items in algebra improved practice ACT mathematics scores (McMann, 1994; effect size 0.34)](algebra-embedded-act-strategies-improve-math-mcmann.md) — related
 - [A school SAT preparation course improved SAT scores at one Texas school (Filizola, 2008; domain average effect size 0.28), driven by the mathematics subtest](sat-prep-course-texas-improves-sat-filizola.md) — related
+- [Self-reported test preparation showed no significant difference in ACT composite scores in a national sample (Scholes & Lain, 1997, Experiment 2)](self-reported-act-prep-no-significant-difference-scholes-lain.md) — related
+- [Commercial SAT preparation courses showed no statistically significant effect on SAT scores in a national propensity-score-matched sample (Domingue & Briggs, 2009)](commercial-sat-prep-no-significant-effect-domingue-briggs.md) — related

@@ -45,3 +45,4 @@ Bonferroni post hoc comparison following the one-way ANOVA on 462 students' prof
 ## Related Claims
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
 - [Both metacognitive awareness dimensions correlate positively with deep approach and organized studying and negatively with an unreflective approach](metacognitive-awareness-correlates-approaches-learning.md) — related
+- [Metacognitive awareness among multidisciplinary university students emerges as two dimensions: knowledge about cognition and regulation of cognition](two-dimensions-metacognitive-awareness-university-students.md) — related

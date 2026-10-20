@@ -50,3 +50,6 @@ Experimental study of automatization: 61 subjects first reached criterion on met
 - [Automatized L2 morphosyntactic skills develop very gradually over time, following a power function learning curve like other cognitive skills](l2-skill-development-power-function-curve.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — reports the opposite
 - [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related
+- [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related
+- [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related
+- [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](untaught-syntax-acquired-taught-agreement-not.md) — reports the opposite

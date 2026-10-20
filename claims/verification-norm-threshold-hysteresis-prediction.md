@@ -46,3 +46,8 @@ Theoretical derivation within the article's synergetic coupled-system model, ill
 
 - [In the model, interventions that alter the feedback channel (verification visibility, social-proof damping) reduce overreliance and regret, while lowering verification cost alone does not lower regret](verification-visibility-counter-cascade-interventions.md)
 - [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md)
+- [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](social-proof-verification-collapse-cascade.md) — reports the opposite
+- [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](hallucination-as-pedagogical-resource.md) — a broader claim this one bears on
+- [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Students used AI mainly for retrieving pharmacological mechanisms, generating PPT outlines, and clarifying concepts under rules requiring verification and student responsibility for AI outputs](guided-ai-use-verification-rules.md) — related
+- [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related

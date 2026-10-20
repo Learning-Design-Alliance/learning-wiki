@@ -45,3 +45,7 @@ Cross-sectional regression of depressive symptoms (10-item CES-D form) and lonel
 ## Related Claims
 - [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related
 - [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
+- [The association of total literacy with physical activity is not statistically significant after adjustment for income and chronic medical conditions](literacy-physical-activity-null-fully-adjusted.md) — related
+- [Literacy is associated with functional status in older adults, but after full adjustment total literacy remains associated only with instrumental activities of daily living and mobility disability](literacy-associated-functional-status-older-adults.md) — related
+- [Poorer current cognitive functioning in all domains is associated with low health literacy in older adults](poorer-current-cognition-associated-low-health-literacy-older-adults.md) — related
+- [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related

@@ -51,3 +51,5 @@ Thematic analysis of worker and learner interviews, surveys, and design sessions
 - [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
 - When at least two women and two candidates of color are in the finalist pool, the odds of hiring a woman or a candidate of color are reported to be 79 and 194 times greater — related
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related
+- [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
+- [Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing](worker-input-on-skills-first-pathways-limited-or-missing.md) — related

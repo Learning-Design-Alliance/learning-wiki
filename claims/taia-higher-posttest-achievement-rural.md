@@ -50,3 +50,6 @@ One-way ANCOVA in the six-week quasi-experiment (final sample 94 students; EG n 
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-behavioral-engagement.md) — related
+- [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
+- [Perceived teacher support in the hypothesis and experimentation phases correlated positively with post-test achievement in both groups; argumentation-support and enjoyment correlations emerged only across the pooled sample](perceived-support-correlates-achievement.md) — related
+- [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related

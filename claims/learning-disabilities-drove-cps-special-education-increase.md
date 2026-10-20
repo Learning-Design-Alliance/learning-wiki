@@ -50,3 +50,4 @@ Disability-category trend analysis of CPS ninth graders, 1993–94 to 1999–00 
 - [Students were identified for special education after failing the promotion gate, not before taking it](cps-identification-followed-retained-gate-failure.md) — related
 - The percentage of Chicago ninth graders identified as eligible for special education services rose from 11.5 to 16.4 percent between 1993–94 and 1999–00 — related
 - [Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools](special-education-concentration-neighborhood-high-schools.md) — related
+- [CPS sharply reduced the number of non-graded (grade 20) special education students of grades 3-8 age, from 6,180 in 1992 to 773 in 1999](cps-grade-20-special-education-reclassification-1992-1999.md) — related

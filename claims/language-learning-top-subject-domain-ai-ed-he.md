@@ -49,3 +49,5 @@ A priori coding of subject domains across the 138 studies into 14 areas. The rev
 - Research on ChatGPT-supported STEAM inquiry-based learning is unevenly distributed across disciplines, concentrated in science and mathematics — related
 - [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related
 - [Undergraduate students were the most studied academic level in AIEd higher education research, at 72% of studies](undergraduates-most-studied-ai-ed-he.md) — related
+- [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md) — related
+- [AIEd research is dominated by computer science and STEM disciplines, with minimal educator involvement](aied-research-dominated-by-cs-stem.md) — related

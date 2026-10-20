@@ -43,4 +43,7 @@ A study by University of Antwerp researchers on change in students' learning app
 
 
 ## Related Claims
--
+- [Portfolio-based learning environments did not change assessment preferences or deepen learning, and increased surface approaches in first-year students](portfolio-environment-no-deeper-learning-surface-increase.md) — related
+- [In a constructivist portfolio-assessment course, deep approaches decreased, surface approaches increased, and preferences for student participation and permanent evaluation decreased significantly](baeten-portfolio-approaches-shifted-surface.md) — related
+- [A constructivist course increased perceived deep-level assessment demands but students still reported more frequent use of surface approaches to learning](gijbels-assessment-demands-not-approaches.md) — possibly the same claim (merge candidate)
+- [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related

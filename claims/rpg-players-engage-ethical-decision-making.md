@@ -45,3 +45,5 @@ Qualitative ethnographic interview study of 10 expert role-players drawn from an
 ## Related Claims
 - [The authors hypothesize that violent role-playing games appear to engage individuals in ethical reasoning that may foster empathy, tolerance, and understanding rather than inuring them to violence](rpgs-may-foster-empathy-not-inure.md) — a narrower finding that bears on this claim
 - [Casual games yield social and emotional benefits when sought for those purposes, played mindfully, and used within robust social contexts, but negative effects in other contexts](casual-games-social-emotional-benefits-context-dependent.md) — a broader claim this one bears on
+- [Expert role-players expressed more frustration with insufficient in-game social context in computer RPGs than with any other aspect, even when discussing their favorite games](players-frustrated-by-thin-social-context.md) — related
+- [Role-plays and ensuing discussions fostered bullying vocabulary, knowledge, metacognition and empathy that the authors credit for the reduction](role-play-discussion-built-knowledge-empathy.md) — related

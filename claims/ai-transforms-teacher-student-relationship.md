@@ -49,3 +49,4 @@ The publication asserts, without presenting empirical data, that AI has transfor
 - Agent-based educational science is positioned as reconfiguring, not replacing, empirical educational research — related
 - [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related
 - A decade of AI-in-business-education research clusters into four major themes: AI-driven transformation, innovative digital pedagogies, AI-enhanced personalization, and digital-economy alignment — related
+- [Reviewed AI literature portrays AI as having transformative capacity to reshape educational methodologies, with a need for balancing guidelines](ai-transformative-capacity-guidelines.md) — related

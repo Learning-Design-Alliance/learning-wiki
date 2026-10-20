@@ -52,3 +52,5 @@ The meta-analysis compared three types of AAC interventions across the included 
 - Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes — reports the opposite
 - Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related
 - [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related
+- [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](sgd-preference-over-pe-and-manual-signs.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related

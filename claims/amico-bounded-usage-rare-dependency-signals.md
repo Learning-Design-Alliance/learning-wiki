@@ -45,3 +45,4 @@ Descriptive analysis of interaction logs and risk-signal monitoring across the 2
 ## Related Claims
 - [In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed](amico-pilot-identity-transparency-accepted.md) — related
 - [Observable indicators showed micro-action completion was higher with structured task-clarity prompts and communicative autonomy improved particularly after AmicoTuo sessions, while transition-to-human follow-through was not quantified](amico-indicator-patterns-micro-actions-autonomy.md) — related
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — a broader claim this one bears on

@@ -73,3 +73,5 @@ Site visit data on improvement actions: four of nine rural schools made parent i
 - [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
 - [Rural TECTA participants faced distinct barriers including travel burden, limited stipends, inconvenient class timing, technology access, and unclear registration](rural-childcare-structural-barriers-tecta-participation.md) — related
 - Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care — related
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related

@@ -44,3 +44,6 @@ Short-term retention test ANOVA (one day after learning) in the factorial experi
 
 ## Related Claims
 - [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — related
+- [Low information density reduces mental effort and increases efficiency during the collaborative learning phase](zambrano-2019-low-density-lower-effort-learning.md) — related
+- [Experienced groups show higher instructional efficiency than inexperienced groups in the delayed retention test after collaborative learning](zambrano-2019-experienced-groups-more-efficient-retention.md) — related
+- [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](zambrano-2019-learning-phase-manova-main-effects.md) — related

@@ -52,3 +52,4 @@ Philosophical argument in the section on Dewey's view of character education: th
 - [Dewey grounds morality in everyday problems, making administrative practice chiefly an ethical undertaking resolved by reflective appraisal of competing values](dewey-morality-in-everyday-problems.md) — related
 - [Ten developmental experiences are proposed as key mechanisms whereby settings influence character development](ten-developmental-experiences-build-character.md) — related
 - [International students expressed frustration at severe punishment for inappropriate citations, and the authors recommend education over pure punishment](plagiarism-cultural-conduct-frustration.md) — a narrower finding that bears on this claim
+- [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related

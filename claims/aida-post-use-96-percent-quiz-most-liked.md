@@ -47,3 +47,6 @@ Study 6 post-test perceptions; the experimental group rated all core AIDA functi
 - [A pilot AIDA-supported induction course reached 354 new students and supported early-stage orientation, yet further development and upscaling of AIDA subsequently stalled](aida-induction-pilot-then-stalled-upscaling.md) — related
 - [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
 - [At pre-test most distance students were positive about an institutional AIDA, but a majority saw challenges, and prior GenAI experience correlated with more positive perceptions](aida-pretest-positivity-and-challenges.md) — related
+- [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related
+- [Students express willingness to integrate GenAI in learning and future careers, and willingness correlates with knowledge and frequency of use](students-willing-to-use-genai-correlates.md) — related
+- [Students scored an average of 4.3 out of 5 on a Markdown quiz after watching the AI-generated videos, suggesting short-term learning](ai-video-viewing-yields-quiz-scores-4-3.md) — related

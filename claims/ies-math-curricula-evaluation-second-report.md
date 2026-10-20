@@ -48,3 +48,5 @@ Descriptive context from the publication page: the report is "the second from a 
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
 - The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula — related
+- [After two years, three of four elementary math curricula outperform a fourth in achievement across first and second grades](three-math-curricula-outperform-fourth-after-two-years.md) — related
+- [The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.](math-curricula-relative-effects-disadvantaged-first-second-graders.md) — related

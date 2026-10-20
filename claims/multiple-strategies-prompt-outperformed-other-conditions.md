@@ -43,4 +43,8 @@ The editorial reports, citing Velić and DeCaro (2025), a study comparing prompt
 
 
 ## Related Claims
--
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related
+- [In Experiment 2, I-PS students outperformed PS-I students on problem-solving, idea generation, and embedded video quizzes](exp2-process-measures-problem-solving-and-quiz.md) — related
+- [PS-I research demonstrates beneficial effects on conceptual knowledge and knowledge transfer relative to I-PS](ps-i-benefits-conceptual-knowledge-transfer.md) — a broader claim this one bears on
+- [PS-I instructional designs can improve conceptual understanding and transfer when design principles are met](ps-i-improves-conceptual-understanding-transfer.md) — a broader claim this one bears on

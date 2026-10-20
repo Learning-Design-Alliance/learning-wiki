@@ -59,3 +59,5 @@ Qualitative policy analysis of GenAI policies from thirty highly ranked universi
 - [Practitioner governance activity in Australian Group of Eight institutions outpaces what the published GenAI literature has documented, while Indonesian participants report less formal scaffolding](governance-practice-outpaces-genai-scholarship.md) — related
 - [Explainability/trustworthiness and accessibility/equal access of AI agents rank prominently in impact and importance but carry high challenge ratings](responsible-equitable-ai-themes-prominent-high-challenge.md) — related
 - [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
+- [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](integrity-dominates-regulatory-terms-rare.md) — related
+- [Uneven GenAI access across teams creates a two-speed culture pressuring teams without access despite equally demanding work](genai-two-speed-culture-uneven-team-access.md) — a narrower finding that bears on this claim

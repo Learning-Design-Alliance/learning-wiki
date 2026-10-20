@@ -46,3 +46,4 @@ Interpretive finding from the motivation-scale data of the 106-student survey; t
 - [Chinese ESP learners in this sample were motivated in a mixed manner, and 'certificate motivation' was not supported](mixed-motivation-certificate-not-supported.md) — related
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Turkish EFL preparatory students were somewhat willing to communicate in English](turkish-efl-students-somewhat-willing-communicate.md) — related
+- [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related

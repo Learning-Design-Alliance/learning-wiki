@@ -46,3 +46,4 @@ The report's component analysis of specialist support offered in targeted school
 - [The CIS case management component showed no evidence of improving student suspensions, attendance, or academic achievement](aps-cis-case-management-no-evidence.md) — related
 - [After two years, the Turnaround Strategy is producing improvements in math performance in targeted schools, with no evidence of positive impacts on other student outcomes](aps-turnaround-math-gains-targeted-schools.md) — related
 - [TLTS showed no detectable effect on science achievement after two years](tlts-no-detectable-science-effect.md) — related
+- [Turnaround partnership schools are producing math improvements, but other effects were mixed, varying by outcome and by partner organization (Kindezi and PBS)](aps-partnership-schools-mixed-effects.md) — related

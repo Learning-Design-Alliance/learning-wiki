@@ -85,3 +85,4 @@ Figure 6 analysis: tell-condition correlations were negative in periods one and 
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](tell-none-conditions-mixed-jol-correlations.md) — related
 - [Students' JoL ratings became more consistent over time and evolved from under-rating to over-rating to accurate judgement](jol-consistency-and-rating-evolution.md) — related
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related
+- [In a real programming course, students with an eliciting LLM agent on a learning dashboard wrote more reflection messages than students with a telling agent](elicit-agent-more-reflection-messages-lad.md) — related

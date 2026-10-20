@@ -65,3 +65,5 @@ Same diagnostic analysis of the multimodal CrossAttn variant trained on the UAIT
 - [Closed-source LLMs reach CSE Level 6 while most open-source baselines cluster at CSE Levels 3–4 on CSEBench](closed-source-llms-cse6-open-source-cse3-4.md) — related
 - [Few-shot prompting does not uniformly improve LLM performance and can degrade subskill mastery estimates, most notably for phonology](few-shot-prompting-degrades-phonology-mastery.md) — related
 - [Open-source LLMs show persistent phonology deficits despite adequate mastery of other subskills](open-source-llm-phonology-deficit.md) — reports the opposite
+- [Retrieval augmentation is essential for on-premise educational QA: a local LLM without retrieval scores below even a TF-IDF baseline](retrieval-augmentation-essential-local-llm-below-tfidf.md) — related
+- [CA prototype technologies shifted from rule-based and deterministic systems toward open-source tools, pre-trained LLMs, and retrieval-augmented generation pipelines](ca-technology-shift-toward-llm-rag.md) — a broader claim this one bears on

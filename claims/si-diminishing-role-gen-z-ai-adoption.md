@@ -48,3 +48,7 @@ SEM analysis of the extended UTAUT model reports a "diminishing role of Social I
 - [Gen Z students report high agreement on AI adoption constructs, with performance expectancy highest and social influence lowest](high-means-pe-highest-si-lowest.md) — related
 - [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
 - [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](social-influence-modest-attitude-mall.md) — related
+- [Performance expectancy, social influence, novelty value, and creative competence positively predict art and design students' behavioral intention to use T2I GenAI tools](pe-si-nv-cc-positive-predict-bi-t2i.md) — reports the opposite
+- [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — reports the opposite
+- [Risk aversion plays a significant role in teachers' GenAI adoption decisions](risk-aversion-significant-in-genai-adoption.md) — related
+- [Social influence positively predicts perceived trust in generative AI](social-influence-predicts-perceived-trust.md) — related

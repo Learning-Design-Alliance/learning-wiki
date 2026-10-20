@@ -43,3 +43,5 @@ Findings from educator interviews conducted winter and spring 2026 as part of Di
 ## Related Claims
 - [Generic AI tools can undermine curriculum coherence and pedagogical goals, producing low-quality artifacts that do not match district beliefs](generic-ai-tools-undermine-curriculum-coherence.md) — possibly the same claim (merge candidate)
 - [Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool](concept-catalyst-outputs-inspire-practice-reflection.md) — related
+- [Students hesitated to share learning data except with their own teachers, while teachers insisted on data access for instruction and feared selective sharing by low-performing students would undermine the system's usefulness](data-sharing-hesitation-versus-teacher-access.md) — related
+- [AI intuition emphasizes epistemic judgment rather than output optimization, distinguishing it from prompt engineering](ai-intuition-epistemic-judgment-not-prompt-engineering.md) — related

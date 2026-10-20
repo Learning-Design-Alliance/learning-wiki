@@ -48,3 +48,4 @@ Large-scale observational analysis of test scores from 5.4 million U.S. students
 - [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — related
 - The 2020 COVID-19 school closures caused a decrease in Flemish grade 6 school-average mathematics scores of roughly 0.19 standard deviations relative to previous cohorts — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
+- [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related

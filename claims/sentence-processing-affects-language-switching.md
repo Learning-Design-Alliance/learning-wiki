@@ -66,3 +66,5 @@ The review reports, citing Declerck and Philipp (2015a), that "no switch costs w
 - [Concept preparation reduces L1 switch costs, indicating language control can initiate at the concept level](concept-preparation-reduces-l1-switch-costs.md)
 - [Phonological processing is affected by and affects language control in switching, though effects are not uniform across studies](phonology-role-in-language-control.md)
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [Asymmetrical switch costs are not an unambiguous marker of inhibition: they depend on task type and bilingual profile, and admit non-inhibitory explanations](asymmetrical-switch-costs-not-unambiguous-inhibition-marker.md) — related
+- [Language proficiency moderates switch cost asymmetry, but highly proficient bilinguals still show n-2 language repetition costs consistent with inhibition](proficiency-moderates-switch-cost-asymmetry.md) — related

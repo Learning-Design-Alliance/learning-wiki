@@ -50,3 +50,7 @@ Controlled experiment in which eighty third-grade students took a reading test a
 
 - [The threat-by-gender pattern in reading occurred only among highly-identified students](stereotype-threat-reading-only-highly-identified.md) — a narrower finding that bears on this claim
 - [White men performed measurably worse on tests of innate athletic ability when under stereotype threat](stereotype-threat-athletic-task-white-men.md)
+- [Across nations, boys outperform girls in mathematics by a small average margin while girls outperform boys in reading by a margin three times larger](pisa-sex-differences-math-small-reading-three-times-larger.md) — related
+- [The gender gap in reading is three times bigger than the gender gap in math](reading-gender-gap-three-times-math-gap.md) — related
+- [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related
+- [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](stereotype-threat-compromises-performance.md) — a broader claim this one bears on

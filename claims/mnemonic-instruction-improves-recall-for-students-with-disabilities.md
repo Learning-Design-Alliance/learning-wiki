@@ -98,3 +98,5 @@ This systematic review looked at 20 studies of mnemonic interventions with 669 s
 - RTI identifies learning disabilities via dual discrepancy in level and rate of performance — related
 - [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
 - [Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used](self-management-ebd-intervention-type-es.md) — related
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
+- [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related

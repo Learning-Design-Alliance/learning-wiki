@@ -45,3 +45,4 @@ Instructor observation during two 3-hour lab sessions with 38 students in 8 grou
 ## Related Claims
 - [AI-supported lab manual design increased students' confidence in experimental design in an upper-division analytical chemistry laboratory course](ai-lab-manual-design-increased-confidence-experimental-design.md) — related
 - [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
+- [Perceived difficulty of designing a laboratory manual remained unchanged after the AI-supported project](ai-lab-manual-design-difficulty-unchanged.md) — related

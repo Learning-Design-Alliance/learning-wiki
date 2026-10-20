@@ -63,3 +63,7 @@ First block of Experiment 2's test group (16 Hebrew-speaking undergraduates) wit
 
 ## Related Claims
 - [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](no-age-difference-jol-information-sources.md) — related
+- [The foresight bias has behavioral consequences: learners allocate similar study time to backward and forward pairs despite markedly lower recall for backward pairs](foresight-bias-distorts-study-time-allocation.md) — related
+- [Delaying judgments of learning after study markedly reduces, but does not eliminate, the foresight bias](delayed-jols-reduce-foresight-bias.md) — related
+- [Repeated study–test practice reduces the foresight bias for backward pairs, with the illusion of competence disappearing by the fourth presentation](study-test-practice-reduces-foresight-bias.md) — related
+- [Judgments of learning add no new self-assessment information beyond performance estimates for single tasks](jols-redundant-with-performance-estimates.md) — related

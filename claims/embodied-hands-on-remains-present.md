@@ -48,3 +48,8 @@ Thematic review finding across the included corpus: the review reports that sket
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related
 - [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — a narrower finding that bears on this claim
+- [Anchoring collaboration in a shared epistemic object distinguished the successful co-invention teams from the unsuccessful one](shared-epistemic-object-anchors-collaborative-making.md) — related
+- [Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team](model-making-experimenting-share-successful-co-invention-teams.md) — a narrower finding that bears on this claim
+- [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — a broader claim this one bears on
+- [Multiple representations improve learning](multiple-representations-improve-learning.md) — a broader claim this one bears on
+- [Language becomes an operational medium in AI-supported design, with risks of narrowing exploration](language-operational-medium-design-ai.md) — related

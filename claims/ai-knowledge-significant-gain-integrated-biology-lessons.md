@@ -48,3 +48,5 @@ Paired sample t-tests on pre/post-test scores of 29 students who submitted both 
 - [Students' overall biology knowledge showed only a slight, statistically non-significant increase](biology-knowledge-non-significant-slight-increase.md) — related
 - [Both male and female students show statistically significant medium-sized gains in AI knowledge and confidence after a one-day AI literacy workshop](both-genders-gain-ai-knowledge-confidence-workshop.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
+- [Students in the AI-integrated database course showed large, statistically significant pre/post gains on seven identical database assessment questions](ai-integrated-course-large-prepost-db-gains.md) — related
+- [Prior biology knowledge predicted new AI knowledge in Lessons 1 and 2 but not in Lessons 3 and 4](prior-biology-predicts-ai-lessons-one-two-not-three-four.md) — related

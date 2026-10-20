@@ -84,3 +84,6 @@ A systematic review identified 4,398 articles, of which 14 controlled trials (73
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — a broader claim this one bears on
 - [Cognitive benefits of balance training do not differ by age in adults aged 19–65](balance-training-benefits-age-invariant.md) — related
 - [Physical exercise up-regulates neurotrophic factors and enhances neural structure and function in animals and human adults](exercise-upregulates-neurotrophic-factors-neural-growth.md) — a broader claim this one bears on
+- [Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood](aerobic-fitness-diet-hippocampus-episodic-memory.md) — related
+- [Hippocampal microstructure continues maturing after early childhood: anterior hippocampus loses mass and posterior hippocampus gains mass from age 4 to 25](hippocampus-anterior-loss-posterior-gain-age-4-25.md) — related
+- [Short-duration anaerobic sprint exercise speeds vocabulary-type associative learning by 20% with increased serum BDNF that correlates with learning success](anaerobic-sprint-bdnf-associative-learning.md) — related

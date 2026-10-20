@@ -54,3 +54,5 @@ The report asserts, citing the science of learning without printing a specific s
 - [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related
 - [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — a broader claim this one bears on
 - [An open classroom climate at school can partially compensate for the disadvantages of young people with low socioeconomic status](open-classroom-climate-compensates-low-ses.md) — a narrower finding that bears on this claim
+- [Many students and staff will return to school with trauma that can adversely affect teaching and learning](covid-trauma-adversely-affects-teaching-and-learning.md) — related
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — related

@@ -47,3 +47,5 @@ The 482 students were divided into quartiles by first-unit exam score (high n = 
 - [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md) — related
 - [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
 - [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md) — related
+- [Subjective confidence ratings did not differ between performance quartiles for university or secondary school students, failing to replicate Miller and Geraci](sojs-do-not-differ-by-performance-quartile.md) — related
+- [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related

@@ -47,3 +47,7 @@ The study's design as stated: longitudinal achievement test data spanning "six a
 - [Rapid guessing on achievement tests tends to be more state-like than academic achievement scores, which are fairly stable over time](rapid-guessing-state-like-not-trait.md) — a narrower finding that bears on this claim
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
 - [The study examines whether rapid guessing over several tests is associated with background variables such as English learner status](rapid-guessing-background-variables-examined.md) — related
+- [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
+- [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
+- [A meaningful percentage of Grade 8 state summative test events showed rapid guessing, varying by subject: 5.5% in mathematics, 6.7% in ELA, and 3.5% in science](rapid-guessing-state-summative-grade8-subject-rates.md) — related
+- [Differences in rapid guessing between subgroups generally do not impact substantive interpretations of achievement gaps](rapid-guessing-generally-does-not-change-gap-interpretations.md) — related

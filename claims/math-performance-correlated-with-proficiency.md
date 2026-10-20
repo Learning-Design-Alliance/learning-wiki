@@ -49,3 +49,7 @@ Pearson correlations across 78 students' pre/post scores and proficiency. Table 
 ## Related Claims
 - [Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge](mls-weps-effective-across-proficiency-levels.md) — related
 - [MLS-WEPs intervention predicted higher Unit 1 calculation and explanation scores among English learners when controlling for prior knowledge](mls-weps-improved-unit1-calculation-explanation.md) — related
+- [MLS-WEPs improved the quality of written explanations, with larger gains in fully correct explanations and reduced blank and concept-irrelevant responses](mls-weps-improved-explanation-quality.md) — related
+- [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](proficiency-correlates-with-sorting-and-translation.md) — related
+- [MLS-WEPs intervention predicted higher Unit 2 (functions) calculation and explanation scores when controlling for prior knowledge](mls-weps-improved-unit2-calculation-explanation.md) — related
+- [Writing proficiency and digital critical thinking were strongly associated, and the association strengthened from pretest to posttest](writing-dcts-co-development-correlations.md) — related

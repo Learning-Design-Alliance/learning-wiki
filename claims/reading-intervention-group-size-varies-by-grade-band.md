@@ -44,3 +44,5 @@ Descriptive statement in the guide's introductory scope text about typical imple
 
 ## Related Claims
 - A large multi-site cluster randomized study found a positive PSAT/NMSQT reading effect in one cohort (+0.13) but a smaller effect in a second cohort (+0.03) — related
+- [A 13-week multicomponent small-group reading intervention did not produce significantly better word reading, comprehension, or fluency outcomes than typical remedial instruction for middle school students with severe reading difficulties](multicomponent-reading-intervention-null-effect-middle-school-severe-readers.md) — related
+- [Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study](no-significant-growth-severe-adolescent-readers-either-condition.md) — related

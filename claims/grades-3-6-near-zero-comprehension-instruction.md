@@ -45,3 +45,5 @@ Sub-Study Two observed 12 teachers in grades 3-6 across three schools (reading o
 ## Related Claims
 - [Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts](social-studies-little-preparation-fact-questions.md) — related
 - [Teachers acted as assignment givers rather than instructors, using brief mentioning followed by workbook assignments](mentioning-precedes-workbook-assignments.md) — related
+- [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related
+- [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related

@@ -88,3 +88,8 @@ Systematic review of 22 peer-reviewed studies of morphological intervention with
 - One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers — related
 - [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
 - [Explicit morphology instruction raises EFL secondary students' reading comprehension more than regular EFL instruction alone](emi-raises-efl-reading-comprehension.md) — reports the opposite
+- [Disadvantaged children may struggle with reading comprehension because they often lack general vocabulary and strategies for organizing information from text](disadvantaged-students-lack-vocabulary-and-comprehension-strategies.md) — related
+- [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](no-significant-differences-between-word-reading-approaches.md) — related
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
+- [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
+- [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related

@@ -43,4 +43,11 @@ Cognitive-load questionnaire (1 low, 20 high) administered after each session of
 
 
 ## Related Claims
--
+- [With the alerting & guiding dashboard, teachers' workload dropped most on the performance and frustration subscales, while cognitive load, temporal demand and effort differences were non-significant](guiding-dashboard-performance-frustration-subscales-drop.md) — reports the opposite
+- [The alerting & guiding dashboard reduced teachers' overall workload more than the mirroring dashboard in authentic settings (H2 supported)](alerting-guiding-dashboard-reduces-teacher-workload.md) — reports the opposite
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — reports the opposite
+- [Mirroring-condition teachers consulted the dashboard more often than guiding-condition teachers (137 vs 95 consultations) but missed aspects needing reaction](mirroring-more-dashboard-consultation-focused-on-content.md) — related
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](guiding-support-stimulated-targeted-group-interactions.md) — related
+- [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — related
+- [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
+- [Teacher-facing dashboards that mirror or guide increase teacher awareness and targeted interventions during classroom orchestration](dashboard-conditions-increase-teacher-awareness-and-interventions.md) — related

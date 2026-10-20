@@ -43,4 +43,6 @@ In the regression on judgment accuracy of transfer, removing the interaction ter
 
 
 ## Related Claims
--
+- [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md) — related
+- [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — reports the opposite
+- [Learners with more misconceptions who completed a think sheet were more underconfident in predicting their transfer performance](think-sheet-underconfidence-transfer-predictions.md) — reports the opposite

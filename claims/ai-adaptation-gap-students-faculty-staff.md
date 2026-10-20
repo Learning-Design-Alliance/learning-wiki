@@ -68,3 +68,5 @@ Pairwise Welch comparisons on the academic integrity concerns index showed "g = 
 - [Students and faculty use AI for different tasks: students for applied learning activities, faculty for academic and instructional tasks](role-based-ai-use-students-faculty.md) — related
 - [Faculty members reported greater ethical-boundary strictness about GenAI than students, the only group difference surviving Bonferroni adjustment](faculty-greater-ethical-boundary-strictness-than-students.md) — related
 - [Professional staff show a pragmatically compressed GenAI profile with high ethical awareness and the widest span of create-level endorsement of any cohort](professional-staff-compressed-genai-profile.md) — related
+- [Faculty perceptions of student ethical inadequacy contradict students' own acceptance of ethical responsibility, with both groups showing pragmatic conscious acceptance of AI](faculty-student-contradiction-ethical-responsibility-ai.md) — related
+- [Students exhibit an inverted competence profile, endorsing creation-level GenAI tasks above several foundational items that would normally precede them](students-inverted-genai-competence-profile.md) — related

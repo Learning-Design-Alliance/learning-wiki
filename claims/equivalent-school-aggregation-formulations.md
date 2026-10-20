@@ -46,3 +46,4 @@ Analytical derivation in Section 4.3 establishing a one-to-one correspondence be
 
 - [Hybrid quantum optimization is applicable to school aggregation as a proof of concept, with classical optimization currently advantaged](hybrid-quantum-school-aggregation-proof-of-concept.md) — related
 - [The model was validated on the complete public school network of the Calabria region using real institutional, territorial, and demographic data](calabria-school-network-case-study.md)
+- [Integer-programming recourse generates compact, model-valid, SHACL-conformant intervention plans at scale on OULAD](ip-recourse-compact-plans-at-scale.md) — related

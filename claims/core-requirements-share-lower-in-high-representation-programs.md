@@ -43,3 +43,6 @@ Observational comparison of degree-map requirements across representation groups
 ## Related Claims
 
 - [School rank shows little correlation with percentage of women CS graduates (r = -0.36), suggesting prestige does not explain the complexity–representation relationship](school-rank-weakly-correlated-women-representation.md)
+- [Blocking factors of CS 1 and CS 2 differ significantly across women-representation groups, with lower-blocking programs having higher representation of women](cs1-cs2-blocking-factor-differs-by-women-representation.md) — related
+- [Required CS credits and math credits do not differ significantly across women-representation groups](cs-math-credits-not-significant-across-groups.md) — related
+- [CS programs with higher structural curricular complexity have lower representation of women graduates (ANOVA across three representation groups)](cs-curricular-complexity-inversely-related-women-representation.md) — a broader claim this one bears on

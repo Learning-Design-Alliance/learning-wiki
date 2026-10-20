@@ -48,3 +48,4 @@ Peer norms measured via the make-a-math-worksheet challenge-seeking task aggrega
 - [GPA treatment effects among lower-achieving students were smaller in higher-achieving schools (moderation by school achievement level)](mindset-gpa-effects-smaller-high-achieving-schools.md) — related
 - [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — a broader claim this one bears on
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — related
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related

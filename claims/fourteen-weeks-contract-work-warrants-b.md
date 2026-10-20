@@ -48,3 +48,6 @@ The authors' experiential report from their own courses, not a controlled study:
 
 ## Related Claims
 - [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](contract-guarantees-b-for-completion-not-quality.md) — related
+- [Contract grading yields more total work from students, especially skilled writers who previously skipped learning tasks](contract-yields-more-student-work.md) — related
+- [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
+- [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](hybrid-contract-resists-grade-inflation.md) — related

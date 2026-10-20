@@ -48,3 +48,5 @@ Narrative synthesis of ICC estimates compiled by Chiang (2009) from fall-spring 
 - [Between-student differences explain a large fraction of CASED label variance, limiting what any clip-level visual model can learn](between-student-label-variance-limits-clip-models.md) — related
 - [Classroom and institutional differences account for little variance in engagement; nearly all variance is between students](engagement-variance-mostly-student-level.md) — related
 - [Most variation in digit span performance is within-person rather than between-person](within-person-variation-dominates-digit-span.md) — related
+- [School-level differences in grades are small and largely explained by attendance and course characteristics](school-grade-variance-small-explained.md) — related
+- [Nearly half the variance in kindergarten-entry scores lies between districts, with less variance in achievement trends at the district level](district-level-variance-kindergarten-entry-scores.md) — related

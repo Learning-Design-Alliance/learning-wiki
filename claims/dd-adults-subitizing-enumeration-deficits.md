@@ -45,3 +45,5 @@ Review reports Gliksman and Henik (2019) enumeration study: adults with DD showe
 ## Related Claims
 - [Adults with DD show deficient alerting and executive attention with preserved orienting, indicating domain-general deficits beyond number processing](dd-adults-alerting-executive-attention-deficits.md) — related
 - [Working memory includes partially independent subcomponents for auditory/verbal and visual/2- or 3-dimensional information](working-memory-partially-independent-modality-subcomponents.md) — related
+- [Adults with DD show a reduced Number Stroop effect during physical comparison, suggesting weaker automatic activation of number magnitude](dd-adults-reduced-number-stroop-effect.md) — related
+- [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related

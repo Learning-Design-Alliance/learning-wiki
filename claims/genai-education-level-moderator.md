@@ -48,3 +48,6 @@ Moderator analysis (Table 5) of educational stage: K-12 N = 13, ES = 0.857; post
 - [Self-regulated learning ability significantly moderates Gen-AI's effect on HOT: high-SRL students show ES = 0.863 versus ES = 0.284 for low-SRL students](genai-srl-moderator.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
 - [Gen-AI's effect on HOT is strongest for problem-solving ability (g = 0.745), followed by critical thinking (g = 0.691), with a smaller effect on creativity (g = 0.444)](genai-hot-dimension-effect-sizes.md) — related
+- [The motivational effect of GenAI is larger in higher education than in primary and secondary education (exploratory)](genai-motivation-effect-larger-university-than-school.md) — related
+- [Testing effects hold in classrooms (g = 0.67) as in laboratories (g = 0.62), and are largest for secondary students (g = 0.83)](setting-and-education-level-moderators.md) — related
+- [Technology effects on TEFL outcomes trend upward across educational levels (primary g = 0.29, secondary g = 0.35, tertiary g = 0.44), though between-level differences are not statistically significant](tefl-tech-effects-increase-by-educational-level.md) — related

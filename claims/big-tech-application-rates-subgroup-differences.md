@@ -46,3 +46,6 @@ Subgroup comparison of Big Tech application rates in the same survey; the articl
 - [Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices](moral-disengagement-most-common-justification.md) — related
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
 - [Only 55% of concerned respondents who had applied to a company engaged in concerning activities said the knowledge made them less likely to apply](minority-act-on-ethical-concerns-job-applications.md) — related
+- [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
+- [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related
+- [Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications](syllabus-coverage-matches-concern-variation.md) — related

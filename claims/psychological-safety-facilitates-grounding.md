@@ -46,3 +46,5 @@ Repeated measures ANCOVA on coded messages from vocational education teams, with
 ## Related Claims
 
 - [High-coercion (Stringent) NTool increases explicit negotiation activities in secondary vocational collaborative problem-solving, though the verification effect was stronger in morning sessions](stringent-ntool-increases-negotiation.md)
+- [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
+- [Contrary to expectation, common ground after collaboration was highest in the low-coercion (Idiosyncratic) NTool groups, not the Stringent groups](common-ground-highest-idiosyncratic.md) — related

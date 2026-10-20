@@ -47,3 +47,4 @@ Mixed-effects logistic regression (GLMM with participant-level random intercepts
 - [Recognizing carbon-saving impacts increases the likelihood of selecting eco modes in LLM interactions](carbon-saving-recognition-increases-eco-mode-selection.md) — related
 - [Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases](eco-mindedness-raises-baseline-eco-preference-limited-by-latency.md) — related
 - [User satisfaction with eco modes declines sharply from mode 1 (mean 3.64) to modes 4–5 (means 2.35 and 2.06)](eco-mode-satisfaction-declines-across-modes.md) — related
+- [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related

@@ -63,3 +63,8 @@ Randomized online experiment (N = 274 Mechanical Turk participants) with a 3x4 d
 - [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
 - [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related
 - [Students receiving instructor feedback showed significantly greater improvements in lab assignment scores than students receiving AI-generated feedback, after controlling for initial knowledge](instructor-feedback-greater-lab-score-improvements-than-ai-feedback.md) — related
+- [AI-generated homework hints were positively associated with exam performance only when exam questions closely matched the homework content](ai-hints-aligned-exam-performance-only.md) — related
+- [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](feedback-source-no-posttest-effect-enl.md) — related
+- [AIfred and ChatGPT produce comparable math scores while assistance is available](aifred-chatgpt-comparable-assisted-math.md) — related
+- [K-12 learners preferred incremental hints and multiple attempts over immediately revealed solutions](learners-prefer-incremental-hints-over-solutions.md) — related
+- [Generative AI-generated hints can be as effective as human-generated hints for mathematics performance, but ensuring accuracy requires validation procedures that discard a substantial share of generated hints](genai-hints-effective-but-require-validation.md) — a broader claim this one bears on

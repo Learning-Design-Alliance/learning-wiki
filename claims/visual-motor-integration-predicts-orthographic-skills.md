@@ -48,3 +48,6 @@ In the SEM model of the 93-child sample, visual-motor integration measured with 
 ## Related Claims
 - [Automaticity of handwriting predicts handwriting speed in fourth-grade children](automaticity-predicts-handwriting-speed.md) — related
 - [Automaticity of handwriting predicts orthographic skills even when visual-motor integration is included in the model](automaticity-predicts-orthographic-skills.md) — related
+- [Better visual perception and motor coordination uniquely predict better reading skills in school-aged children with and without ADHD, controlling for IQ and ADHD symptoms](visual-perception-motor-coordination-predict-reading.md) — related
+- [Motor coordination uniquely predicts written language achievement, and ADHD symptom severity negatively predicts written language, in children with and without ADHD](motor-coordination-adhd-symptoms-predict-written-language.md) — related
+- [The integration of visual perception and motor coordination is uniquely associated with math skills but not with reading or written language](vmi-integration-uniquely-math.md) — related

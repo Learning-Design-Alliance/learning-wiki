@@ -50,3 +50,4 @@ The paper reports, citing Weber-Wulff et al. (2023), a comparative study of four
 - [AI text detectors can return high AI-detection scores for human-written academic text, raising fairness concerns about authenticity evaluation](ai-detectors-misscore-human-written-text.md) — a narrower finding that bears on this claim
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
 - [In a human Turing test, participants could not reliably distinguish BEAGLE traces from real student data (52.8% accuracy; d′ = 0.15 within the ±0.3 equivalence bound, pTOST = 0.038)](beagle-traces-turing-test-indistinguishable.md) — related
+- [Admissions officers can often discriminate AI-written from human-written essays, achieving an AUC of 0.70, well above chance but below commercial detectors](admissions-officers-detect-ai-essays-auc-070.md) — related

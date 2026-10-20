@@ -48,3 +48,7 @@ Subgroup comparison from the survey's military-use concern question; the article
 ## Related Claims
 - [Students' variation in concern across ethical issues corresponds with topic coverage on typical CS ethics syllabi, which rarely address military applications](syllabus-coverage-matches-concern-variation.md) — related
 - [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related
+- [Most surveyed job-seeking CS students applied to at least one Big Tech company, with significant subgroup differences in application rates](big-tech-application-rates-subgroup-differences.md) — related
+- [Gender, age and English proficiency show nuanced group differences in chatbot attitudes and concerns](gender-age-proficiency-chatbot-differences.md) — related
+- [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — related
+- [Female students are significantly more likely than male students to use AI for schoolwork and to seek advice from AI tools](females-more-ai-schoolwork-and-advice-use.md) — related

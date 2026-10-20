@@ -66,3 +66,6 @@ The review's stated caution about language-based interaction: it may improve cla
 - [Qualitatively, AI-peer integrated feedback was associated with a broader repertoire of revision operations and more agentive cognitive strategies than peer feedback alone](ai-peer-feedback-agentive-revision-strategies.md) — related
 - [The AI's nonjudgmental conversational tone and adaptive prompting fostered risk-taking and productive struggle in a psychologically safe environment](nonjudgmental-ai-tone-risk-taking.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Textual evidence for interpretive claims appeared in whole-class discussion but students struggled to reason about why evidence supported claims](evidence-in-discussion-but-reasoning-struggle.md) — related
+- [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — related
+- [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related

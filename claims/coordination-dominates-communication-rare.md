@@ -46,3 +46,7 @@ Interaction-type analysis of the meeting (Table 6, 15 phases over 389 coded turn
 - Communication, cooperation, and coordination were the most critical factors in successful CLASP programming — related
 - [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
 - [Transitions and disturbances were crucial for the dynamics of expansive learning in the meeting](disturbances-crucial-expansive-learning-dynamics.md) — related
+- [Macro scripts disturb a team's natural convergence and increase required interaction intensity](scripts-disturb-convergence-increase-interaction-intensity.md) — related
+- [A single meeting of self-regulating pre-service teachers contained an almost complete expansive mini-cycle of learning actions, with all expansive actions except consolidating the new practice](single-meeting-almost-complete-expansive-mini-cycle.md) — related
+- [Expansive learning actions in the meeting followed by and large the theory-predicted order, forming a mini-cycle of two main parts with iterations](learning-actions-follow-predicted-order-two-parts.md) — related
+- [Object formation in the meeting was iterative and non-linear: the proposed germ cell of 'making a choice' was encapsulated, not elaborated and expanded](object-formation-iterative-germ-cell-encapsulated.md) — related

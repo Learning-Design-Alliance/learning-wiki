@@ -47,3 +47,6 @@ The review reports, citing Deng and Yu (2023), that "Chatbot technology demonstr
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — reports the opposite
 - [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — a broader claim this one bears on
+- [The review reports mixed findings on AI's motivational effects: some studies show enhancement, others nonsignificant or negative effects](ai-motivation-effects-mixed-evidence.md) — a broader claim this one bears on
+- [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — related

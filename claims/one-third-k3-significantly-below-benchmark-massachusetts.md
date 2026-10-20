@@ -45,3 +45,4 @@ Statewide analysis of 2023/24 universal K–3 literacy screening data covering 1
 ## Related Claims
 - [In Massachusetts K-3 screening data, roughly one quarter to one third of students are significantly below benchmark at any given period and 16 to 19 percent are below benchmark in all three periods, rates consistent over three years](massachusetts-k3-persistent-significant-risk-rates.md) — possibly the same claim (merge candidate)
 - [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — related
+- [Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 18 percent as potentially at risk of dyslexia](massachusetts-k3-52-percent-ever-at-risk.md) — related

@@ -45,3 +45,5 @@ Descriptive analysis of teacher-to-other-college-educated-worker wage ratios by 
 ## Related Claims
 - [Early educators earn one third to one half of k-12 educators' wages and over half rely on public assistance](early-educators-underpaid-public-assistance.md) — related
 - [Public school teachers earned about 20% less in weekly wages than nonteacher college graduates in 2019](teachers-earn-20-percent-less-weekly-wages-college-graduates.md) — related
+- [U.S. teachers earned only 77% of what other college graduates earned in 2021, even after adjusting for the work year](teacher-pay-77-percent-of-college-graduates.md) — related
+- [Only about half of beginning teachers of color had taken any teaching classes prior to teaching, compared to 59% of beginning White teachers](beginning-teachers-of-color-less-preservice-coursework.md) — related

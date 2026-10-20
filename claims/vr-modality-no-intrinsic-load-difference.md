@@ -54,3 +54,5 @@ ANCOVA on intrinsic cognitive load measured with the Differentiated Cognitive Lo
 - [Bayesian analyses provide strong evidence that the modality effect reverses in VR for recall, comprehension and germane load](vr-reverse-modality-bayesian-evidence.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Reliability estimates of cognitive load questionnaires did not differ between educational settings, instructional domains, presentation modes, or number of scale points](cognitive-load-reliability-invariant-across-moderators.md) — related
+- [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — related
+- [Modality effect sizes differ across fields of study, with social science effects negative and science effects largest](modality-effect-field-of-study-moderator.md) — related

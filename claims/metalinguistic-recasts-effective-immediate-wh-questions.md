@@ -52,3 +52,4 @@ Quasi-experimental study of 134 Iranian EFL learners in four intact classes; one
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Explicit correction improves adult L2 learners' responses on corrected suffixation items during the feedback session](explicit-correction-improves-feedback-session-responses.md) — related
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
+- [Explicit correction did not produce evidence of learned morphological generalizations to novel stimuli in adult L2 learners](correction-no-learned-generalizations-novel-stimuli.md) — related

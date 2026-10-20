@@ -66,3 +66,4 @@ Overall linear hypothesis tests across the three outcome domains. The additivity
 - [The math deficit profile of children with comorbid RDMD is additive: it equals the sum of the deficits of isolated RD and MD groups](rdmd-math-deficits-additive.md) — related
 - [Children with comorbid RDMD are significantly more impaired than children with isolated RD or MD in math, reading, and executive function outcomes](rdmd-more-impaired-than-isolated-groups.md) — related
 - [The comorbid RD+MD group is more impaired than groups with RD only or MD only on seven of ten neuropsychological composites](rd-md-comorbid-more-impaired-neuropsych.md) — related
+- [The reading deficit profile of children with comorbid RDMD is additive relative to isolated RD and MD](rdmd-reading-deficits-additive.md) — related

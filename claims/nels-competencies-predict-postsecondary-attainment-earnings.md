@@ -50,3 +50,4 @@ Observational analysis of NELS student and teacher surveys relating competency i
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
 - [K-12 officials increasingly attend to postsecondary outcomes but many are unsure how best to use the data](officials-unsure-how-to-use-postsecondary-data.md) — related
 - The report analyzes several competencies simultaneously rather than one at a time — related
+- [Early prosocial behavior predicted later academic achievement more strongly than early academic skills](prosocial-behavior-predicts-achievement.md) — related

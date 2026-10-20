@@ -73,3 +73,5 @@ For the Get Ready to Read! Screen (19 classrooms/268 children), the study author
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
 - [Evidence base for Waterford Early Reading Level One™ is small, with no standards-meeting studies in four of six outcome domains](waterford-level-one-small-extent-of-evidence.md) — related
 - [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related
+- [Educators can more effectively engage with researchers to advance practice by using the What Works Clearinghouse and other sources of research findings as a base](educators-engage-researchers-via-what-works-clearinghouse.md) — related
+- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related

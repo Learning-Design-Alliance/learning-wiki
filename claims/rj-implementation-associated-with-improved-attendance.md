@@ -51,3 +51,6 @@ Narrative review reporting an Oakland observational comparison (Jain et al., 201
 - [When educators partnered with families on attendance, chronic absenteeism rates dropped 15%](family-partnership-reduced-chronic-absenteeism-15-percent.md) — related
 - EWIMS significantly reduces chronic absenteeism among grade 9 and 10 students after one year of implementation — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
+- [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
+- [Schools implementing restorative justice report decreases in exclusionary discipline such as suspensions and expulsions](rj-implementation-associated-with-lower-exclusionary-discipline.md) — related
+- [Evidence on RJ's impact on academic outcomes is limited and mixed, with graduation-rate gains in one study and no GPA change in another](rj-academic-outcomes-evidence-mixed.md) — related

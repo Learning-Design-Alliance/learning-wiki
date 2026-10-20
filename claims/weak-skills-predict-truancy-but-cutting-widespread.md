@@ -65,3 +65,6 @@ Same ITBS-linked attendance analysis showing truancy among top students is almos
 - [Ninth grade truancy rates do not differ much by gender, undercutting the hypothesis that gang activity primarily drives absenteeism](truancy-rates-similar-by-gender.md) — related
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
 - [Schools vary widely in attendance and cutting; in the ten worst-attendance schools the average ninth grader is an extreme truant in at least one major subject by second semester](schools-vary-extreme-truancy-worst-ten.md) — related
+- [Ninth grade attendance problems begin early in the year and generally worsen, with 89 percent of first-semester extreme truants ending the year at similar or worse levels](truancy-begins-early-and-worsens.md) — related
+- [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related
+- [Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups](absences-quadruple-transition-explain-grade-drop.md) — related

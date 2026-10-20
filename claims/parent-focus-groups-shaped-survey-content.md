@@ -66,3 +66,5 @@ Focus-group findings during parent survey content determination showed parents f
 - [The final spring 2015 parent-survey pilot collected 253 parent responses across seven school-based and nine center-based Chicago preschool sites, in English and Spanish](parent-survey-pilot-253-responses.md) — related
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
 - [Using multiple data sources, including site-specific data, helped schools develop a more comprehensive understanding of their school climate](multiple-data-sources-holistic-climate-understanding.md) — related
+- [Parents offer a unique perspective best captured by a distinct sixth essential, Parent Voice](parent-voice-distinct-sixth-essential.md) — related
+- [Survey item sensitivity determines the parental permission pathway, from full waiver to active opt-in](survey-sensitivity-drives-parental-permission.md) — related

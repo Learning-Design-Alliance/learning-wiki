@@ -45,3 +45,4 @@ Reflexive thematic analysis of six co-constructed expert scenario artefacts from
 ## Related Claims
 - [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — a narrower finding that bears on this claim
+- [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — a broader claim this one bears on

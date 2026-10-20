@@ -47,3 +47,5 @@ Cross-age comparison combining 12 older adults with younger-adult data from Rand
 - [Auditory reaction-time measure of cognitive load did not differ between guided and unguided low-vision navigation in older adults](no-rt-cognitive-load-difference-guidance-older-adults.md) — related
 - [Physical guidance reduces pointing error during low-vision navigation in older adults, indicating better spatial learning with a guide](physical-guide-improves-older-adult-low-vision-spatial-learning.md) — related
 - [Multitasking performance on NeuroRacer declines linearly across the adult lifespan from ages 20 to 79](neuroracer-multitasking-cost-linear-age-decline.md) — related
+- [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md) — related
+- [Self-reported safety anxiety (SUDS) did not differ between guided and unguided conditions in older adults with simulated low vision](no-suds-anxiety-difference-guidance-older-adults.md) — related

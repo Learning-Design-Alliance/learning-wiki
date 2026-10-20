@@ -67,3 +67,5 @@ Narrative review reporting a null finding from Norris (2009): "no significant ch
 - Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior — related
 - [Frequent RJ use by teachers shows preliminary indications of reducing the racial discipline gap, though disparities persist](rj-reduces-racial-discipline-gap-preliminary.md) — related
 - [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
+- [Participants' average semester GPA rose from 3.05 to 3.22 during the coaching semester, though most students did not attribute grade changes to coaching](gpa-trend-during-coaching-pilot.md) — related
+- [RJ implementation is associated with improved attendance, including lower chronic absenteeism relative to non-RJ schools](rj-implementation-associated-with-improved-attendance.md) — related

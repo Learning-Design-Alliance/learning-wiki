@@ -47,3 +47,4 @@ Exploratory fMRI analysis binning model-derived RPEs into negative, neutral and 
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
 - [Adolescents learn faster from negative reward prediction errors than adults in probabilistic reversal learning](adolescents-faster-learning-from-negative-rpes.md) — related
 - [Adolescents showed a marginally decreased number of punishments before switching in reversal learning](marginal-fewer-punishments-before-adolescent-switches.md) — related
+- [Adolescents and adults perform equally well on the probabilistic reversal learning task overall](adolescent-adult-equal-reversal-task-performance.md) — related

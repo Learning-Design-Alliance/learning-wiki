@@ -47,3 +47,4 @@ Survey analysis from CCSR 2007 teacher survey comparing NBCTs to other teachers 
 - [Schools with teams of Fund-supported leaders and NBCT clusters show few differences from other schools](leadership-teams-few-differences.md) — related
 - [High schools with clusters of at least three NBCTs score higher on professional capacity measures](nbct-clusters-high-schools-professional-capacity.md) — related
 - [Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development](nbcts-twice-as-likely-leadership-roles.md) — related
+- [Principals rated board-certified teachers higher than other experienced teachers on seven competence areas, most often 'extraordinary'](principals-rate-nbcts-extraordinary-on-competence.md) — related

@@ -45,3 +45,5 @@ First of two classroom experiments comparing the standard Geometry Cognitive Tut
 ## Related Claims
 
 - [Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)](help-seeking-errors-stable-across-units.md)
+- [Single instances of help-seeking actions (answer requested, explanation requested) carry more predictive information than single correct or open responses (ISA)](isa-help-seeking-more-informative-than-correct-response.md) — related
+- [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related

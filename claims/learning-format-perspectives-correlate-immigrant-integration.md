@@ -48,3 +48,4 @@ Correlational study using four self-report questionnaires with a quantitative sa
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - Review reports naturalization catalyzes social and political integration (Swiss longitudinal study) — related
 - The SRL and SAL perspectives on student motivation and learning differ, and the article discusses those differences — related
+- [Successful program completion increased participants' self-confidence, self-esteem, and autonomy, which aided their settlement and integration into Canadian society](program-completion-increased-confidence-autonomy-settlement.md) — related

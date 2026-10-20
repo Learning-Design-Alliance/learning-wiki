@@ -62,4 +62,8 @@ Same encoding ERP analysis: the late P3 window (430–600 ms) was larger in the 
 
 
 ## Related Claims
--
+- [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](adhd-poorer-accuracy-wm-change-trials.md) — related
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related
+- [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md) — related
+- [Visual WM binding of color and shape is intact in ADHD: no group differences behaviorally or electrophysiologically, with Bayesian support for null Group x Condition interactions](wm-binding-intact-in-adhd.md) — reports the opposite
+- [Encoding and retrieval P3 amplitudes are significantly correlated only in non-ADHD adolescents, though the between-group difference in correlations was not statistically discriminative](encoding-retrieval-p3-correlation-non-adhd-only.md) — related

@@ -52,3 +52,4 @@ The brief reports a comparative predictive-validity study of high school PARCC a
 - [In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard](parcc-math-standard-higher-college-performance.md)
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
+- [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md) — related

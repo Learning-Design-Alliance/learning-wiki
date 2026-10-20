@@ -51,3 +51,4 @@ Zero-order correlations (Table 1) in the 6-year longitudinal sample supported th
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
+- [Early language skills predict later adolescent externalizing behavior problems](early-language-predicts-externalizing.md) — related

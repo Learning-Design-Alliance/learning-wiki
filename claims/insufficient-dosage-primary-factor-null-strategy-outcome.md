@@ -47,3 +47,5 @@ Authors' interpretation in the Discussion, not a tested result. They note prior 
 - [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](coaching-dosage-quality-over-quantity.md) — related
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
 - [Retention and delivered instructional minutes did not differ significantly between experimental and control conditions, and completers received well under planned dosage](ae-trial-attrition-and-insufficient-dosage.md) — related
+- [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
+- [Reading instructions without further instructional support are not sufficient to help students accurately judge their text comprehension](reading-instructions-alone-insufficient-for-accurate-judgments.md) — related

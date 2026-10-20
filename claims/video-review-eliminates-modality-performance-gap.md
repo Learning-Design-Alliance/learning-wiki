@@ -67,3 +67,4 @@ Follow-up pairwise analysis of the same ANCOVA: the modality difference was sign
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — related
 - [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](video-review-scaffolds-self-regulated-learning.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [Hands-on activity groups show fewer erroneous operations than correct ones, and hands-on with video review students use video more than virtual simulation peers](hands-on-lower-error-frequency-higher-video-use.md) — related

@@ -87,3 +87,4 @@ In the PCER Florida randomized trial (188 children analyzed), TERA-3, WJ-III Let
 - [Literacy Express shows no discernible effects on cognition and math for preschool children](literacy-express-no-effects-cognition-math.md) — related
 - [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related

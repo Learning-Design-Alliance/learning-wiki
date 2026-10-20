@@ -54,3 +54,4 @@ Framing statement on the webinar announcement page. It asserts the equity priori
 - [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
 - [Black, AIAN, and Latinx students made 55-68% of typical math gains and 73-86% of typical reading gains during the pandemic, while Asian American students made 88-100%](bipoc-fraction-of-typical-gains-pandemic.md) — related
 - [Fall 2021 achievement was lower for all student groups, with disproportionately high impacts for historically marginalized students and students in high-poverty schools](covid-achievement-impacts-disproportionate-marginalized-high-poverty.md) — a broader claim this one bears on
+- [The webinar presents research comparing student academic trends during the pandemic year to a more typical school year](pandemic-year-trends-compared-typical-year.md) — related

@@ -48,3 +48,7 @@ Theoretical argument applying philosophy of language: the article quotes Chalmer
 - [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — related
+- [Language difficulties, rather than inherent inability to grasp numerical concepts, may often underlie struggles in mathematics](language-difficulties-underlie-math-struggles.md) — related
+- [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](precision-of-language-evaluation-criterion.md) — related
+- [A single representation can be abstract along one dimension and concrete along another, and concrete for one learner but abstract for another](representation-abstract-one-dimension-concrete-another.md) — related
+- [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — related

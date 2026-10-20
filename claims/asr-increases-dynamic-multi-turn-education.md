@@ -49,3 +49,5 @@ Evaluation of ten LLMs across three interaction settings in EduZone. Average ASR
 - [Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses](taxonomy-augmented-guardrails-education-specific-risks.md) — related
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
 - [Boundary compliance (S3) drives nearly all inter-model safety divergence, with a 53-point gap between the safest and least safe models](boundary-compliance-drives-safety-divergence-academiclaw.md) — related
+- [Safety and task quality are largely independent across models, implying safety guardrails impose no measurable performance tax](safety-quality-independence-academiclaw.md) — related
+- [Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%](multi-turn-dialogue-amplifies-tutor-harm.md) — related

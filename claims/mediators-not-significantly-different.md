@@ -51,3 +51,5 @@ Bootstrapped mediator-contrast estimates in the 107-child sample (Table 5) were 
 - [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
+- [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
+- [Sustained attention predicts number sense task performance](sustained-attention-predicts-number-sense.md) — related

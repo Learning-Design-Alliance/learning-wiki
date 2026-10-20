@@ -59,3 +59,5 @@ Observational within-school comparison of suspension rates across student groups
 - [Black students are suspended at the highest rate of any racial group, at 12% in 2017–18, with persistent disparities across all years analyzed](black-students-highest-suspension-rate-persistent.md) — related
 - Attending schools with higher suspension rates predicts future interaction with the criminal legal system — related
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related
+- [Denver Public Schools' restorative justice reforms coincided with falling suspension rates and a narrowed Black-White suspension gap](denver-restorative-justice-suspension-gap-narrowed.md) — related
+- [Overage students at high schools with great racial equity climate are twice as likely to graduate in four years as those at schools with poor racial equity climate](racial-equity-climate-doubles-overage-graduation.md) — related

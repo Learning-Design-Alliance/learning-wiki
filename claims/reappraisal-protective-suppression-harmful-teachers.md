@@ -67,3 +67,4 @@ The review attributes to Aldrup et al. (2024) that "surface acting and suppressi
 ## Related Claims
 - [Educators report affective costs of AI-related grading, including derealisation, exhaustion, and burnout](educator-affective-toll-ai-grading.md) — related
 - [Gratitude, therapy-based, and the single physical activity intervention positively contributed to teacher well-being, though the physical activity intervention did not mitigate burnout](gratitude-therapy-physical-activity-intervention-outcomes.md) — related
+- [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related

@@ -43,4 +43,4 @@ The article's economic analysis of the streaming era reports per-stream payouts 
 
 
 ## Related Claims
--
+- [A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — related

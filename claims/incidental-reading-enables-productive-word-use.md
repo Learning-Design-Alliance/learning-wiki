@@ -51,3 +51,4 @@ Ponniah (2011) experiment reported in the review: adult ESL experimental subject
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
 - [A critical mass of roughly 10,000-12,000 words is needed for fluent reading, from which ESL strategies can begin](vocabulary-critical-mass-10000-12000-words.md) — related
+- [Intentional vocabulary learning yields higher, faster gains and better retention than incidental learning through reading](intentional-beats-incidental-vocabulary-gains.md) — related

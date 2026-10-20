@@ -47,3 +47,4 @@ Descriptive analysis of 2015–16 CRDC data linked to NCES Common Core of Data l
 - [Regardless of location, schools with high student of color enrollment have a greater percentage of inexperienced teachers than low-enrollment schools, with urban schools most affected](inexperienced-teacher-inequity-by-location.md) — related
 - [State-level disparities in access to certified and experienced teachers vary greatly, with some states showing two to three times as many uncertified or inexperienced teachers in high-enrollment schools](state-variation-teacher-access-inequity.md) — related
 - California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers — related
+- [Teacher shortages fall disproportionately on high-poverty and high-minority schools, which had four times as many uncertified teachers in 2013–14](shortage-burden-high-poverty-high-minority-schools.md) — related

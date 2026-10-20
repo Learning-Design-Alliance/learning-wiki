@@ -51,3 +51,7 @@ The page lists a NWEA trends snapshot titled "Trend Snapshots: Math Recovery Con
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
 - [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — related
+- [Persistently high chronic absenteeism rates are associated with slower academic recovery in math and reading after COVID-era disruptions](chronic-absenteeism-associated-slower-covid-recovery.md) — related
+- [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — reports the opposite
+- [A NWEA research brief examines the relationship between chronic absenteeism and academic recovery from COVID-era disruptions to learning](chronic-absenteeism-impediment-academic-recovery.md) — related
+- [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — related

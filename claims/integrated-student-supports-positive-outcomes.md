@@ -47,3 +47,6 @@ This is the report's synthesis finding for Pillar 1, based on 27 studies of inte
 - [All program types show positive effects when controlling for other influences, with attendance monitoring and incentives, child care, community service, and school restructuring producing the best results](dropout-program-type-effectiveness.md) — related
 - [Schools adopting a whole child approach are reported to see improved attendance, engagement, health, and academic performance](whole-child-approach-improved-outcomes.md) — related
 - [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — related
+- [One-on-one service delivery may not be the only way to target services to individual student needs](targeting-possible-without-one-on-one-delivery.md) — related
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related

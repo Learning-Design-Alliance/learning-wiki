@@ -47,3 +47,4 @@ Descriptive synthesis of the review's included qualitative studies (from the US,
 
 ## Related Claims
 - [Individuals with developmental disabilities tend to prefer speech-generating devices over picture exchange and manual signs, with substantial individual differences](sgd-preference-over-pe-and-manual-signs.md) — related
+- [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related

@@ -45,3 +45,4 @@ Qualitative case study interviews with seventeen international students from thr
 ## Related Claims
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](mba-students-experience-courses-as-coi.md) — related
 - [Peer monitoring among MBA learners goes beyond CoI social presence by involving professionally relevant evaluation of peers' contributions](peer-monitoring-exceeds-social-presence.md) — related
+- [First-language heterogeneity is negatively related to time spent getting to know each other and positively related to time spent on task-related communication](heterogeneity-correlates-with-initial-activity-time-patterns.md) — related

@@ -46,3 +46,4 @@ Cross-sectional comparison of two age groups (young 18-28, elderly 60-92) across
 - [Adults with greater memory capacity, measured by WAIS Digits Backward, produced more complex utterances and used more right- and left-branching clauses](memory-capacity-linked-utterance-complexity.md) — related
 - [Better-educated adults scored higher on WAIS vocabulary, produced longer utterances, and used more right-branching clauses](education-linked-longer-utterances-right-branching.md) — related
 - [Judges found statements from elderly adults more interesting and clearer than those from young adults, suggesting a trade-off between syntactic complexity and clear, interesting prose](elderly-statements-judged-clearer-more-interesting.md) — related
+- [Mental health, especially depression, is probably the single most decisive factor in refugee language learning](depression-decisive-factor-refugee-language-learning.md) — related

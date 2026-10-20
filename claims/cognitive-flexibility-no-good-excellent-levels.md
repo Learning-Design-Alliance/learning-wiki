@@ -44,3 +44,4 @@ Descriptive distribution of MU.EF-101 cognitive flexibility T-scores for the 328
 
 ## Related Claims
 - [Kindergarten children's working memory and inhibition T-scores are significantly lower than the excellent-level criterion of 56](nonthaburi-kindergarteners-ef-below-criterion.md) — related
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — reports the opposite

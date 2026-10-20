@@ -79,3 +79,10 @@ Supplemental analysis restricted to the ten studies using state standardized tes
 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 -
+- [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations](cal-teacher-coaching-itt-math-gains-012-022-sd.md) — a narrower finding that bears on this claim
+- [Coaching effects on instruction and achievement are positively correlated, but large instructional improvements are needed for modest achievement gains](instruction-achievement-weak-link-coaching.md) — related
+- [A practitioner review reports a meta-analysis of causal coaching studies as finding positive effects of coaching on teachers' instructional practice and student achievement, though one contrasting study found coached teachers no more effective](coaching-meta-analysis-positive-effects-instruction-achievement.md) — possibly the same claim (merge candidate)
+- [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — a narrower finding that bears on this claim
+- [Experimental staff development programs mostly raised student achievement relative to control teachers (review attribution)](experimental-staff-development-raises-student-achievement.md) — related
+- [Long Beach schools with assigned math coaches showed markedly and disproportionately rising CAASPP scores, though causation could not be tied to coaching](long-beach-coach-assigned-schools-caaspp-rose.md) — a narrower finding that bears on this claim
+- [Coaching and expert support appeared in 30 of 35 studies, with coached classrooms showing larger gains in a randomized trial](pd-coaching-expert-support-gains.md) — related

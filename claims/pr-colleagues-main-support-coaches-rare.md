@@ -45,3 +45,5 @@ Aggregated survey data from the larger educator group found "more than a third o
 
 ## Related Claims
 - [Collaborative planning time with colleagues was the top support cited by teachers earning micro-credentials, cited by 74 percent of respondents](collaborative-planning-time-top-micro-credential-support.md) — related
+- [About one-third of edtech coaches felt unprepared at closure onset to support non-digital-instruction needs such as social-emotional support and equitable lessons](coach-readiness-gaps-nondigital-support.md) — related
+- [Edtech coaches significantly supported administrators by providing teacher PD and implementing LMS tools during closures](coach-support-to-administrators-closures.md) — related

@@ -48,3 +48,4 @@ Content-specialist coding of all 319 calculus and 205 physics exam questions on 
 - [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related
 - [Variation among Engineering programs is as large as variation between Engineering and Technology programs](within-sector-variability-rivals-between-sector.md) — related
 - [No significant differences between Engineering and Technology exam questions in novelty and level of communication](no-significant-difference-novelty-communication.md) — related
+- [Student-authored physics questions mostly require application or analysis, with under 5% at the lowest recall level](student-questions-majority-above-recall-bloom.md) — reports the opposite

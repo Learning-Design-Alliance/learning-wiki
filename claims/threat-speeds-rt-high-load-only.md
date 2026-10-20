@@ -48,3 +48,4 @@ Follow-up tests of the significant Condition by Load interaction on RT (F(2,96) 
 - [No age differences emerge in how threat and cognitive load interact on working memory accuracy or reaction time](no-age-by-threat-by-load-interaction.md) — related
 - [The threat-of-scream manipulation successfully induced sustained anxiety, with equivalent subjective and startle responses in adolescents and adults](scream-threat-manipulation-induced-anxiety-equally.md) — related
 - [Threat of an aversive scream lowers verbal working memory accuracy at low and medium load but not at high load in both adolescents and adults](threat-impairs-accuracy-low-medium-not-high-load.md) — related
+- [Adults show higher overall working memory accuracy than adolescents, and adults but not adolescents increase startle reactivity with load](adults-higher-accuracy-startle-load-group-interaction.md) — related

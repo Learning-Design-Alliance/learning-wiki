@@ -50,3 +50,5 @@ The report's summary of its evidence on the Missouri Career Ladder Program state
 - The report's evidence base comprises program documentation, teacher focus groups, and telephone interviews with school officials — related
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
 - [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — a broader claim this one bears on
+- [Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating](induction-participation-alone-insufficient-quality-matters.md) — related

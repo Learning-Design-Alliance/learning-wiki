@@ -49,3 +49,4 @@ Cost finding from the national PROMISE evaluation. The authors report that "PROM
 - [The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share](pef-fy2024-benefits-93-million-families-largest-share.md) — related
 - Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related
+- [The intensive case management offered by PROMISE might be difficult to sustain in the current system](promise-intensive-case-management-sustainability-uncertain.md) — related

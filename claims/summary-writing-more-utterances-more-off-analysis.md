@@ -43,4 +43,7 @@ Utterance counts from all 10 dyads across two tasks; the discussion attributes m
 
 
 ## Related Claims
--
+- [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](semiempty-concept-mapping-more-causal-explanation-argumentation.md) — related
+- [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related
+- [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](concept-mapping-more-historical-metahistorical-concepts.md) — related
+- [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related

@@ -46,3 +46,4 @@ Validation study of LLM-based annotation of feedback focus types, using a 100-in
 - [An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning](question-specificity-classifier-accuracy.md) — related
 - [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
 - [In-context learning did not consistently improve LLM annotation reliability over zero-shot prompting for engagement coding](icl-no-better-than-zero-shot-engagement-coding.md) — related
+- [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related

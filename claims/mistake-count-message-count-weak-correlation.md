@@ -47,3 +47,4 @@ Secondary Pearson correlation analysis between number of messages and number of 
 - [Strategy use showed no significant relationship with problems solved in B2, except writing code as prompt (r = .20), based on only twelve students](writing-code-as-prompt-strategy-correlates-solving.md) — related
 - [The most common prompt mistakes are omissions of key details, most frequently the specified function return type](omission-key-details-commonest-prompt-mistake.md) — related
 - [Clusters did not differ significantly in the number of prompts sent to ChatGPT](clusters-no-difference-in-prompt-count.md) — related
+- [Missing prompt-element types significantly co-occur: failure to provide appropriate functionality explanation correlates strongly with missing expected output/return and with extraneous elements](prompt-mistake-co-occurrence-correlations.md) — related

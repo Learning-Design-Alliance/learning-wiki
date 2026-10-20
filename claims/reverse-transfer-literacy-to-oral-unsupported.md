@@ -54,3 +54,6 @@ The author reports a personal literature search: "I cannot find any research tha
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — related
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
+- [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — related
+- [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — related
+- [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related

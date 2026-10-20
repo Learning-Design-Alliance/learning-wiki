@@ -49,3 +49,4 @@ Revalidation item-functioning analyses of Cultivate responses in CPS. The articl
 - Differential item functioning was found in four items across the function, form and level dimensions — related
 - Courseware use did not disadvantage any student group and appeared especially promising for under-represented minority students, with grades independent of Pell, enrollment, age, gender, and first-gen status in 75% or more of analyses. — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — a narrower finding that bears on this claim
+- [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related

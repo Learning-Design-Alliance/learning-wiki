@@ -47,3 +47,4 @@ Observational analysis of LMS event logs extracted with PM4Moodle, using each gr
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related
 - [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](clickstream-tagging-transforms-logs-into-contextualized-events.md) — related
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
+- [Only the Collaborator group shows a complete significant sequential metacognitive chain from orientation through elaboration; the Replacement Tool group shows only self-loops](lsa-complete-chain-collaborator-only.md) — related

@@ -48,3 +48,4 @@ A 2 (Competitiveness Group) X 8 (Time) mixed ANOVA of Kahoot scores for HC (n = 
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](no-competitiveness-difference-monitoring-bias.md) — related
 - [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](quiz1-kahoot-moderation-competitiveness.md) — related
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related
+- [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

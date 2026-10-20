@@ -45,3 +45,7 @@ Coded free-text verification responses from the pre/post survey, machine-coded w
 ## Related Claims
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related
 - Students shifted AI usage toward debugging and concept explanation over the semester, with 31 of 89 reporting more debugging use — related
+- [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
+- [High-achieving students describe selective AI use for clarification, summarisation, and workflow support while verifying outputs and keeping them subordinate to their own judgment](qualitative-selective-verification-intensive-use.md) — related
+- [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — a broader claim this one bears on
+- [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related

@@ -63,3 +63,6 @@ The report's own interpretation of the disagree responses observed on some Conte
 ## Related Claims
 - [Collaborative Innovation tenets varied in visibility: collective ownership and context expertise were most evidenced, reimagining progress least](tenet-visibility-varied-across-projects.md) — related
 - [Centering teachers of color as leaders, designers, and implementers throughout design is the most broadly appreciated aspect of the Design Team process](centering-teacher-of-color-voice-distributed-leadership.md) — related
+- [Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence](edcamp-dfl-panelist-moderator-leadership-growth.md) — related
+- [Post-implementation survey responses after each Socratic Circles implementation cycle trended affirmative toward the team-defined outcomes](socratic-circles-surveys-trended-affirmative-outcomes.md) — related
+- [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related

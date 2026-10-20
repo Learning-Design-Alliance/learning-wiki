@@ -52,3 +52,5 @@ Comparison of poor versus well-performing children in the longitudinal Belgian s
 - [A theoretical article, citing two simulation studies, reports that novice clinical learners overestimated their performance and that their confidence exceeded their accuracy](novice-metacognitive-calibration-deficits.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Metacognitive postdiction skills are related to mathematical accuracy throughout the whole elementary school period (Grades 1–6)](postdiction-skills-related-to-math-accuracy-grades-1-6.md) — related
+- [At low memory loads, older adults report less uncertainty than younger adults despite making larger errors, suggesting an overconfidence bias](older-adults-overconfident-low-load-vstm.md) — related
+- [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related

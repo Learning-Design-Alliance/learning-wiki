@@ -54,3 +54,4 @@ The study used administrative records and 5Essentials Survey measures of socioem
 - [Timing of English learner reclassification influences later outcomes such as high school graduation](reclassification-timing-influences-later-outcomes.md) — related
 - [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
 - [Schools fostering high self-esteem and social and scholastic success reduce the likelihood of emotional and behavioral disturbance](rutter-school-ethos-high-expectations-protective.md) — related
+- [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — related

@@ -44,3 +44,4 @@ Descriptive reporting of the dataset's question and rubric structure from the qu
 
 ## Related Claims
 - [A full answer-level audit confirmed 485 unique identifiers and validated that every stored total equals the sum of its criterion marks](score-validation-audit-485-records.md) — related
+- [Subject distribution is uneven, with E-commerce contributing five answers and Machine Learning 88 of 485](uneven-subject-distribution-485-answers.md) — related

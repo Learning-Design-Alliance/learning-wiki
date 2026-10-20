@@ -50,3 +50,5 @@ The review's abstract states these issues are discussed as open concerns for the
 - [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
+- [LLM-based simulated students surpass rule-based systems in natural language generation and situational flexibility, but concerns about bias and evaluation reliability persist](llm-simulated-students-surpass-rule-based-systems.md) — related
+- [The mediational strategy is reported as more effective than other intervention approaches such as the graduated prompt](mediational-strategy-more-effective-than-graduated-prompt.md) — related

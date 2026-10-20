@@ -91,3 +91,6 @@ For learning designers, the practical implication is risk management, not exploi
 - [About three in five students identified as high-achieving in the first year remained high-achieving in the last year of the study](three-in-five-high-achievers-remain-high-achieving.md) — related
 - [Field testing the Persuasion across Time and Space unit changed teachers' beliefs about ELL students' capabilities](complex-texts-unit-changed-teacher-beliefs.md) — related
 - [A high class rank at age 11 has a large robust effect on secondary school achievement at age 14](class-rank-effect-secondary-achievement.md) — related
+- [Prompting a learning disability shifts feedback toward word- and sentence-level remediation, simplified vocabulary, and lowered expectations](learning-disability-feedback-lowered-expectations.md) — related
+- [Teachers underrefer culturally and linguistically diverse students for gifted identification](teacher-underreferral-diverse-gifted.md) — related
+- [Using demographic variables as predictors risks reinforcing biases embedded in training labels, including self-fulfilling prophecies](demographic-predictors-reinforce-training-label-bias.md) — a broader claim this one bears on

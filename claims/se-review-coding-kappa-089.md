@@ -51,3 +51,7 @@ Methodological quality check of the review's content analysis using Cohen's Kapp
 - [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md) — related
 - [The LoU Interview shows high interrater reliability, and the rating procedure was streamlined over two years without loss of agreement](lou-interview-interrater-reliability-high.md) — related
 - [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — a broader claim this one bears on
+- [The qualitative coding achieved 82% exact interrater agreement, indicating acceptable reliability](82-percent-interrater-agreement-coding.md) — related
+- [Coding of self perspectives reached acceptable interrater agreement (89%, κ=.77)](self-perspective-coding-interrater-agreement.md) — related
+- [Rubric-based assessment showed substantial to almost-perfect inter-rater reliability across all three time points](rubric-interrater-reliability-visualization-assessment.md) — related
+- [Scaled qualitative coding of preservice teachers' video-analysis responses reached very good interrater agreement](professional-vision-coding-interrater-agreement-icc.md) — related

@@ -55,3 +55,5 @@ In the study by Stein, Clarridge, and Berliner (1988), expert, novice, and postu
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
+- [Low- and high-performing students make different types of errors and therefore need different kinds of support](error-types-differ-by-skill-group-math.md) — related
+- [In reading textually constrained period poetry, experts' organized domain knowledge (schemata) is the major factor differentiating them from novices, enabling allusion, contextualization and anticipation.](poetry-experts-schemata-allusion-contextualization-anticipation.md) — related

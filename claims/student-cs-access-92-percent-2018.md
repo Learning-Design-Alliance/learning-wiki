@@ -51,3 +51,5 @@ Analysis of CPS high school enrollment data linking school CS offerings to stude
 - [Access to computing instruction in US schools is limited and inequitable by school level and poverty](computing-access-limited-inequitable-us-schools.md) — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
 - [Computer science offerings in U.S. secondary schools grew from 25 percent to 40 percent between 2015 and 2016](secondary-schools-offering-cs-grew-25-to-40-percent.md) — related
+- [Black students were least likely to enroll in CS overall but most likely to enroll once school-level access to CS is accounted for](black-students-cs-enrollment-access-adjusted.md) — related
+- [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md) — related

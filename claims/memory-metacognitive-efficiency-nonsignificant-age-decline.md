@@ -47,3 +47,6 @@ Correlational analysis of 38 adults on a word-recognition memory confidence task
 - [Executive function does not explain the age-related decline in perceptual metacognitive efficiency](executive-function-does-not-explain-metacognitive-decline.md) — related
 - [Memory metacognitive efficiency correlates with Wechsler Memory Scale scores, but perceptual metacognition does not](memory-metacognition-correlates-with-wms-scores.md) — related
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related
+- [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
+- [The age-related decline in perceptual metacognitive efficiency reflects both rising d′ and falling meta-d′](d-prime-increase-meta-d-prime-decrease-drive-efficiency-decline.md) — related

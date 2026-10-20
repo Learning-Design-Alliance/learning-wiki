@@ -52,3 +52,7 @@ Delayed posttest of Term 1 target words administered three months after the imme
 - [Prior vocabulary knowledge moderates vocabulary learning gains in an extensive reading program, with high-level learners gaining more than intermediate and low-level learners](prior-vocabulary-knowledge-moderates-extensive-reading-gains.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — a broader claim this one bears on
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on
+- [L2 proficiency positively predicts L2 incidental vocabulary acquisition through reading](l2-proficiency-predicts-incidental-vocabulary-acquisition.md) — related
+- [Vocabulary learning gains in Term 2 of the extensive reading program were consistent with those from Term 1](term2-gains-consistent-with-term1.md) — related
+- [Vocabulary knowledge gained from eight encounters persisted over two weeks, with no significant immediate-to-delayed test differences](vocabulary-gains-persist-two-weeks.md) — related

@@ -51,3 +51,5 @@ NAESP-LPI survey subgroup analysis reported in the authentic learning findings s
 - [School leaders in higher-wealth schools are more likely to attend high-quality principal preparation programs, creating inequitable access](prep-quality-varies-by-school-wealth.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
 - [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related
+- [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related

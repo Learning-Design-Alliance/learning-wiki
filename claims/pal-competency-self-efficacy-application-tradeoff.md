@@ -45,3 +45,9 @@ The review reports, citing Kim and Baylor (2006), a study of college students le
 ## Related Claims
 
 - [PALs expressing positive mood were perceived as more facilitating, engaging, and intelligent than negative-mood PALs](positive-mood-pal-better-perceived.md)
+- [Working with a high-competency pedagogical agent improves novice learners' application of learning (d = 0.46)](high-competency-pal-improves-application.md) — possibly the same claim (merge candidate)
+- [Learners perceived male PALs more positively and recalled more with them than with female PALs, reflecting gender stereotypes](male-pal-favored-over-female-pal.md) — related
+- [Working with a low-competency pedagogical agent raises learners' self-efficacy in the task (d = 0.49)](low-competency-pal-raises-self-efficacy.md) — possibly the same claim (merge candidate)
+- [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
+- [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related

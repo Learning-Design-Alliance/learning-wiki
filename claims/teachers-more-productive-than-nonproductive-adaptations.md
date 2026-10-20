@@ -45,3 +45,5 @@ A key finding of this mixed-methods study of teachers' content adaptations to mi
 ## Related Claims
 - [Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson](nonproductive-adapters-on-grade-level-during-delivery.md) — related
 - [Teachers who made productive adaptations were more likely to consider learning progressions and adapt lessons to below-grade-level content](productive-adapters-consider-progressions-below-grade-level.md) — related
+- [Teachers used new instructional practices they had learned while delivering the summer programs](summer-programs-teachers-adopted-new-practices.md) — related
+- [Teachers actively synthesize professional-development practices with their own context rather than transferring them intact](teachers-synthesize-pd-practices-with-context-not-just-transfer-them.md) — related

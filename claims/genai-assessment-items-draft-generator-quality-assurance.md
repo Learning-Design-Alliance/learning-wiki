@@ -83,3 +83,6 @@ The review reports these positive signals alongside settings where incorrect key
 - [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
 - Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item — related
+- [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — related
+- [PeerWise student ratings of multiple-choice questions correlate well with instructor ratings (0.5 and 0.58)](peerwise-student-ratings-correlate-instructor-ratings.md) — related
+- [Judging learning-objective alignment of generated MCQs is more subjective than answering them, with only moderate human agreement](lo-alignment-judgment-more-subjective-than-answering.md) — related

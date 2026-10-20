@@ -84,3 +84,6 @@ The survey reports, citing Mackness and Bell (2015) via Gonçalves and Osório (
 - [Autonomy, diversity, interactivity, openness and Web 2.0 showed a positive significant effect on students' achievement in a structural model](connectivist-principles-positive-effect-achievement.md) — reports the opposite
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Autonomy-supportive teaching contrasts with controlling teaching, and controlled students do poorly compared to autonomous students](autonomy-support-versus-controlling-teaching.md) — related
+- [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related
+- [Moderate learner agency in game-based learning yields better outcomes than no agency or high agency](moderate-agency-better-learning-outcomes.md) — a broader claim this one bears on

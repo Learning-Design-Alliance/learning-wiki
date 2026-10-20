@@ -128,3 +128,4 @@ A meta-analysis of 50 independent studies of peer-tutoring programs in mathemati
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — a narrower finding that bears on this claim
 - [Tutoring programs consistently outperform common school-based alternatives such as class-size reduction and summer school, per the review's synthesis of Kraft](tutoring-outperforms-class-size-reduction-summer-school.md) — a narrower finding that bears on this claim
+- [The article advances a five-part rationale for benefits of adding a peer element to extensive reading](five-rationales-peer-element-er.md) — related

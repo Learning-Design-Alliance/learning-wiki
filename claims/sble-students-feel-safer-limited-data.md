@@ -47,3 +47,5 @@ The review's plain language summary reports that "students in schools with SBLE 
 - [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — related
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
 - [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related
+- [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — related
+- [Students report feeling less safe and more likely to perceive violence and disorder in schools with metal detectors](metal-detectors-lower-student-safety-perceptions.md) — related

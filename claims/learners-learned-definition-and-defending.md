@@ -62,4 +62,8 @@ Focus-group finding on the second objective, ability to defend. Learners commonl
 
 
 ## Related Claims
--
+- [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
+- [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
+- [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
+- [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
+- [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related

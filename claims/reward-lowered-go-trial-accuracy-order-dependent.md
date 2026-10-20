@@ -44,3 +44,4 @@ Repeated measures ANOVA of go-trial accuracy across reward conditions and tasks.
 
 ## Related Claims
 - [Children expressed more positive emotions in trials with high rewards compared to low rewards, validating the affect coding scheme](reward-value-validated-affect-coding.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related

@@ -52,3 +52,5 @@ Authors' summary conclusion from the correlational and SEM analyses of 209 8- to
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
 - [The effect of crystallized intelligence on children's creativity is mediated by shifting](shifting-mediates-gc-creativity-children.md) — related
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — related
+- [Updating ability, together with openness, explains a substantial part of the shared variance between fluid intelligence and creativity.](updating-explains-intelligence-creativity-shared-variance.md) — related
+- [Openness to experience predicts creativity but not fluid intelligence, and further reduces the residual intelligence–creativity correlation to a trend.](openness-predicts-creativity-not-gf.md) — related

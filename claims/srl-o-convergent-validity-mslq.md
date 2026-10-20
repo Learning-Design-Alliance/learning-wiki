@@ -48,3 +48,6 @@ Convergent validity analysis correlating SRL-O subscales with MSLQ subscales in 
 - [Nine of the ten SRL-O subscales showed internal consistency above 0.70, with study environment lower (omega = 0.665)](srl-o-internal-consistency.md)
 - [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](srl-o-metacognition-single-factor-planning-time-management.md)
 - [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](writing-apprehension-negative-correlation-self-efficacy.md) — related
+- [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [No existing online SRL questionnaire covers the breadth of motivational beliefs and learning strategies the SRL-O covers](no-online-srl-measure-covers-breadth.md) — related

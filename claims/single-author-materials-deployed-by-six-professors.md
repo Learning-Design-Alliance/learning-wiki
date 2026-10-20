@@ -45,3 +45,4 @@ Role-distribution analysis in the one-year validation: a single instructor opera
 ## Related Claims
 - [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
+- [Instructors reported that FORAP packaging reduced the initial effort to adopt and adapt PjBL activities, based on anecdotal feedback](forap-packaging-reduced-instructor-adoption-effort.md) — related

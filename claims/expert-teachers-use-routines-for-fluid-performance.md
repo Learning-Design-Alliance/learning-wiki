@@ -46,3 +46,4 @@ The article reports, citing Leinhardt and Greeno (1986), a comparison of an expe
 ## Related Claims
 - [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
+- [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related

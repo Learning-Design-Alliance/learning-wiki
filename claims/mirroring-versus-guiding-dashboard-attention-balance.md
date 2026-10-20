@@ -44,3 +44,7 @@ Within the same six-teacher within-subjects quasi-experiment, ENA analysis of te
 
 ## Related Claims
 - [The alerting & guiding dashboard did not increase teacher coregulation more than the mirroring dashboard (H3 not supported); mirroring increased intervention rates (non-significant) while guiding-condition interventions were rare and mostly coregulation strategies](guiding-dashboard-did-not-increase-coregulation.md) — related
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](guiding-support-stimulated-targeted-group-interactions.md) — related
+- [Mirroring-condition teachers consulted the dashboard more often than guiding-condition teachers (137 vs 95 consultations) but missed aspects needing reaction](mirroring-more-dashboard-consultation-focused-on-content.md) — related
+- [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — related
+- [Teacher-facing dashboards that mirror or guide increase teacher awareness and targeted interventions during classroom orchestration](dashboard-conditions-increase-teacher-awareness-and-interventions.md) — a broader claim this one bears on

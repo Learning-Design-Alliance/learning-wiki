@@ -62,4 +62,11 @@ MANCOVA on the post-test (recall, comprehension, transfer) with prior knowledge 
 
 
 ## Related Claims
--
+- [The hypothesised mediation of prompt effects on self-efficacy via strategy use was not confirmed because prompts did not affect strategy use](strategy-mediation-of-prompt-self-efficacy-not-confirmed.md) — possibly the same claim (merge candidate)
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — reports the opposite
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — a broader claim this one bears on
+- [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](combine-cognitive-metacognitive-prompts.md) — reports the opposite
+- [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related
+- [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](prompting-raises-quantity-of-cognitive-strategy-segments.md) — reports the opposite
+- [Generative learning strategy prompts with metacognitive feedback yield higher self-regulation, strategy-use quality, recall and comprehension than strategy tools alone, controlling for prior knowledge](prompts-metacognitive-feedback-beat-tools-alone-generative-learning.md) — reports the opposite
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on

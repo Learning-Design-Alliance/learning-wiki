@@ -48,3 +48,5 @@ Instructional-log analysis showed Treatment teachers' spring modifications to GC
 - [Many teachers' knowledge of students' GC and CoV increased in sophistication over the school year, and teachers reported the professional learning and just-in-time supports were helpful](teacher-knowledge-and-pl-supports-grew.md) — related
 - [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
 - [Teachers reported student gains in motivation and confidence to engage in literacy and mathematics learning activities](tec-summer-teacher-reported-motivation-gains.md) — related
+- [Nearly all teachers implemented the TEC Summer Learning Program as planned despite wide variation in program conditions](tec-summer-high-fidelity-despite-variation.md) — related
+- [Teachers reported increased motivation and confidence leading groups and new instructional strategies from using the TEC curriculum](tec-summer-teacher-outcome-gains.md) — related

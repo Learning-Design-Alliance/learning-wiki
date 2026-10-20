@@ -47,3 +47,4 @@ Site profile reporting a kindergarten readiness indicator: "In 2010, just 29 per
 - [The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators](naz-selected-for-highest-concentration-negative-indicators.md) — related
 - [Public schools in the NAZ Zone identified 25 percent of students as homeless or highly mobile in 2008-2009](naz-schools-25-percent-homeless-highly-mobile.md) — related
 - [Many children enter kindergarten without the foundational mathematics skills needed to succeed](children-enter-kindergarten-without-foundational-math-skills.md) — a broader claim this one bears on
+- [More than a third of NAZ residents live in households with incomes below the federal poverty level](naz-residents-36-percent-below-federal-poverty-level.md) — related

@@ -46,3 +46,4 @@ The authors report, citing Kulik et al's (1980) meta-analysis of computer-based 
 
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — the general claim this finding bears on, with the studies behind it
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
+- [ITS significantly outperform large-group human instruction, individual computer-based instruction, and textbooks or workbooks, but not small-group or individual human tutoring](its-beats-large-group-cbi-textbooks-not-human-tutoring.md) — related

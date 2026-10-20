@@ -50,3 +50,4 @@ One-way ANOVA on procedural post-test items (solving combinatorial problems) in 
 - [Representational format produced no significant differences in conceptual or situational knowledge](no-format-effect-conceptual-situational-knowledge.md) — related
 - [In inquiry learning of combinatorics, learners given a Text + Arithmetic representation outperformed learners given tree diagrams on total post-test scores](text-arithmetic-outperformed-diagram-total-posttest.md) — possibly the same claim (merge candidate)
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — reports the opposite
+- [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related

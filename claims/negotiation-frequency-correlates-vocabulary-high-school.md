@@ -50,3 +50,4 @@ Pearson correlation analysis (Table 4) of the high school experimental group (N=
 - [In both high school and college groups, learners with negotiation of meaning scored higher on the delayed post-vocabulary test than learners with pre-modified input only](negotiation-meaning-improves-vocabulary-scores-both-levels.md) — related
 - [In college groups, negotiation of meaning made no difference to comprehensible input obtained in the match task](college-no-comprehensible-input-difference.md) — related
 - [Quality out-of-class language learning combines focus on meaning and form and correlates with higher grades](quality-ocll-meaning-form-synergy-higher-grades.md) — related
+- [Vocabulary instruction should focus on procedures of meaning negotiation as much as on declarative word meanings](teach-lexical-procedures-not-only-definitions.md) — a broader claim this one bears on

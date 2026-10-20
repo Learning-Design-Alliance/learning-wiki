@@ -45,3 +45,4 @@ The publication's framing statement, offered without cited studies or data. It a
 ## Related Claims
 - [COVID-19 school closures highlighted the need to understand promising remote learning strategies when no classroom alternatives exist](covid-closures-highlight-remote-learning-strategy-need.md) — related
 - [The review synthesized 110 studies on the effectiveness of remote learning practices in K-12 settings](rel-ma-remote-learning-review-110-studies.md) — related
+- [During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school](covid-continuity-of-learning-steps.md) — related

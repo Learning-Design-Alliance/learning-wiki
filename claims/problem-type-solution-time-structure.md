@@ -47,3 +47,5 @@ ANOVA on solution times across five problem categories in both age groups. "Larg
 - [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related
 - [Sign priming effects in addition occur for large, small, and +1 problems but not for tie or +0 problems in older adults](problem-type-priming-pattern-older.md) — related
 - [Presenting the '+' sign 150 ms before operands speeds up addition problem solving in expert older adults, replicating the effect found in young adults](sign-priming-addition-older-adults.md) — related
+- [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](working-memory-demand-increases-with-math-problem-complexity.md) — related
+- [Bayesian analyses strongly support sign priming for small addition problems in older adults but only anecdotal support for +1 problems](bayesian-support-priming-older-adults.md) — related

@@ -45,3 +45,4 @@ Developer-led validation with diverse Thonny logs from previous courses, includi
 ## Related Claims
 - [MOSS detected far fewer suspicious cases in Spring 2026 than in prior offerings, as LLM-assisted submissions lack similarity signals](moss-detection-declined-spring-2026.md) — related
 - [The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases](replay-most-prompt-intensive-view-31-prompts.md) — related
+- [Trustworthiness could not be reduced to a fully automated objective; human judgment remains necessary for resolving complex or context-dependent cases](trustworthiness-not-fully-automatable-requires-human-judgment.md) — a broader claim this one bears on

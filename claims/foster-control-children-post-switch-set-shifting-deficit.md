@@ -51,3 +51,5 @@ A 2 × 3 repeated measures ANCOVA (Task Type × Group, controlling for receptive
 - [Foster children who received the control intervention scored significantly lower on the post-switch task than never-fostered comparison children](foster-control-children-lower-post-switch-than-comparison.md) — possibly the same claim (merge candidate)
 - [Children typically perseverate on the Dimensional Change Card Sort at age 3 but can switch sorting rules from age 4](dccs-rule-switching-emerges-age-four.md) — a broader claim this one bears on
 - [Group differences in receptive language did not hold when controlling for SES, and receptive language was the covariate retained in the main analyses](receptive-language-group-differences-ses-mediated.md) — related
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related

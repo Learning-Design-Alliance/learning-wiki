@@ -52,3 +52,4 @@ Ten-year trend analysis of CPS freshman cohorts, reported with Figures 6–9. Av
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
 - [Long-term English Learners without IEPs had the lowest Freshman OnTrack rate and substantially lower graduation rates than district average](long-term-els-no-iep-lowest-ontrack-graduation.md) — related
+- [CPS Freshman OnTrack rates rose 28 percentage points from 61 percent (2007) to 89 percent (2019), then flattened in recent years](cps-freshman-ontrack-rose-28-points-then-flattened.md) — related

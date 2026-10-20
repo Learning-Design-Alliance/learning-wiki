@@ -53,3 +53,5 @@ Design Principle 2 section, a narrative synthesis, reports that "learning happen
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
 - [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — related
 - [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a narrower finding that bears on this claim
+- [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — a narrower finding that bears on this claim
+- [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related

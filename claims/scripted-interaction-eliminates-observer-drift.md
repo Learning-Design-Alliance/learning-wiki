@@ -46,3 +46,5 @@ Experiment II education scenario comparing scripted versus unscripted conditions
 - [Default personas show a self-report–behavior gap: they endorse moderate-range ADHD characteristics on self-report while displaying only weakly elevated ADHD-like behavior to observers](default-persona-self-report-observer-gap.md) — related
 - [Between-conversation persona stability is intensity-dependent: high-intensity ADHD personas cluster tightly while moderate-intensity personas show the highest aggregate variability](intensity-dependent-between-conversation-stability.md) — related
 - [Observer-rated behavioral expression of high- and moderate-intensity ADHD personas declines progressively across turns in unscripted LLM conversations](observer-rated-persona-drift-unscripted-conversations.md) — related
+- [LLM-simulated students' self-reported ADHD persona scores remain stable throughout extended multi-turn conversations](llm-persona-self-report-stable-within-conversation.md) — related
+- [Model family and prompt format moderate the level of simulated ADHD persona expression](model-and-prompt-moderate-persona-expression.md) — related

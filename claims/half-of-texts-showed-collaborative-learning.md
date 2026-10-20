@@ -48,3 +48,4 @@ Document analysis of students' written texts coded for co-regulation (shared int
 - [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related
 - [Collaborative Writing Improves Text Quality](collaborative-writing-improves-text-quality.md) — related
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related
+- [With a scripted collaboration designed to elicit metacognition, deep-level metacognitive regulation stays rare and students mostly accept rather than co-construct or share regulation](deep-level-shared-regulation-rare-despite-script.md) — related

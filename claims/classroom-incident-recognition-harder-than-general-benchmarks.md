@@ -45,3 +45,4 @@ Cross-benchmark comparison in the synthetic-dataset results section: the same Po
 ## Related Claims
 - [A distilled multi-order kinematic model outperforms pose-based baselines on a synthetic classroom incident dataset while using one-tenth as many parameters as PoseC3D](distilled-kinematic-model-outperforms-pose-baselines-synthetic-classroom-incidents.md) — related
 - [Models trained on synthetic classroom incident data transfer zero-shot to real-world footage, with the proposed method best at 63.41% though a synthetic-to-real domain gap remains](zero-shot-synthetic-to-real-classroom-incident-transfer.md) — related
+- [Distilling a multi-order hierarchical teacher into a smaller zeroth-order student lets the student outperform the teacher, and improves 4.1 percentage points in accuracy over STGCN++](distilled-student-outperforms-multiorder-teacher.md) — related

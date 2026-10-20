@@ -88,3 +88,8 @@ The review reports, from a single chemistry study in its table, that detailed ru
 - [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — a narrower finding that bears on this claim
 - [Removing detailed rubric explanations from prompts improved grading accuracy across all approaches in an ablation study](simplified-prompts-outperform-detailed-rubrics.md) — reports the opposite
 - [GPT models achieved high polarity agreement with instructors only for positive feedback on the Topic aspect, and could not reliably assess the other rubric aspects](gpt-polarity-agreement-low-except-topic.md) — related
+- [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](rubric-prompting-raises-llm-assigned-scores.md) — related
+- [A construction-focused correctness rubric underperformed behavior-focused and undefined prompts for LLM scoring of code explanations](construction-rubric-underperformed-llm-scoring.md) — reports the opposite
+- [Expert-in-the-loop revision substantially improves medical accuracy and educational quality of generated storylines](expert-revision-improves-generated-medical-storylines.md) — related
+- [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related
+- [LLMs support the shift from memorization-focused to competency-based assessment by generating rubrics, varied assessment items and authentic scenario-based tasks](llms-support-competency-based-assessment-design.md) — related

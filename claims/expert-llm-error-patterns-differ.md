@@ -44,3 +44,5 @@ Confusion-matrix comparison (Appendix A.1) of the best expert, best model, and a
 
 ## Related Claims
 - [Current LLMs fall short of human experts in predicting classroom intervention outcomes](llms-below-expert-outcome-prediction.md) — related
+- [Zero-shot LLM errors follow four recurring patterns: over-interpretation, failure to detect relevant information, hallucination, and failure to generate a response](llm-competency-error-patterns-four-types.md) — related
+- [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related

@@ -47,3 +47,6 @@ Informal assessment of the optional Layer 3 extraction over textbook chart image
 - In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [VLMs achieve higher accuracy on non-erroneous than erroneous student math responses even when controlling for the math problem](vlms-underperform-on-erroneous-student-math-responses.md) — related
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
+- [Most AI grading errors (87% for the best model) were attributable to transcription failures rather than rubric misapplication](transcription-failures-dominate-grading-errors.md) — related
+- [Recurring risks of GenAI in STEAM education include hallucination, bias, superficial completion strategies, and compromised assessment validity](genai-steam-risks-hallucination-bias.md) — related
+- [MLLMs show recurring failures in fine-grained quantitative estimation, often identifying the encoding and measurement strategy but misestimating precise values](mllm-fine-grained-quantitative-misestimation-scivis.md) — related

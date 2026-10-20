@@ -47,3 +47,6 @@ Developmental review (Annual Review of Psychology) summarizing findings from the
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
 - [Higher early-life cognitive ability is associated with decreased mortality risk, a relation reported in all nine reviewed studies and partly mediated by health behaviors](cognitive-ability-mortality-risk.md) — related
 - [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — related
+- [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](adversity-parent-involvement-mediate-financial-difficulty-adhd.md) — related
+- [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
+- [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — a broader claim this one bears on

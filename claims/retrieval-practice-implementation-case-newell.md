@@ -52,3 +52,5 @@ Case study of research use in practice: a former NMSA math teacher (the source d
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Learners Misjudge Retrieval Benefit](learners-misjudge-effective-learning-strategies.md) — related
+- [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
+- [Rereading is less effective than retrieval practice](rereading-less-effective-than-retrieval-practice.md) — related

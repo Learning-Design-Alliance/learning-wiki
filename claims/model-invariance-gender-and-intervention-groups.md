@@ -46,3 +46,6 @@ Multiple-group invariance tests in the longitudinal SEM compared constrained and
 - [Family climate and school attachment exert reciprocal positive influences on each other over the middle school years](family-climate-school-attachment-reciprocal-influences.md) — related
 - [Measurement invariance across gender is supported, but full structural equivalence is rejected, with differences localized to transformational-leadership paths](measurement-invariance-gender-structural-equivalence-rejected.md) — related
 - [The mutualism model's coupling structure held equally across sexes and age did not directly predict change scores](coupling-robust-across-sexes-age.md) — related
+- [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — related
+- [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related

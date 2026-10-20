@@ -45,3 +45,4 @@ Findings from 30 semi-structured interviews with 28 participants across nine sta
 ## Related Claims
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
 - [States targeted summer learning access by naming priority groups in legislation or grant RFPs](priority-groups-legislation-rfps.md) — related
+- [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](state-summer-data-collection-uses.md) — related

@@ -47,3 +47,6 @@ The review's synthesis of benchmark studies in general chemistry, acid-base calc
 - [AI-assisted scientific writing assignments risk fabricated references and altered chemical meaning](genai-writing-fabricated-references.md) — related
 - [GenAI's default output on a take-home exam question remained at the quantitative, multistructural SOLO phase, producing polished but pedagogically thin responses](genai-default-output-multistructural-pedagogically-thin.md) — related
 - [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related
+- [Fluent, confident AI presentation gives reason to expect trust miscalibration, especially among learners with limited domain knowledge](fluent-authority-trust-miscalibration.md) — a broader claim this one bears on
+- [Students exhibited high trust in GenAI but limited critical evaluation of its outputs](high-trust-limited-critical-evaluation-genai.md) — related
+- [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on

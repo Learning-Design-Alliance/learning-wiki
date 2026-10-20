@@ -44,3 +44,8 @@ Cross-case comparison of the five teams at the intermediate analysis level, whic
 
 ## Related Claims
 - [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — related
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on
+- [Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team](model-making-experimenting-share-successful-co-invention-teams.md) — related
+- [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — a narrower finding that bears on this claim
+- [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
+- [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related

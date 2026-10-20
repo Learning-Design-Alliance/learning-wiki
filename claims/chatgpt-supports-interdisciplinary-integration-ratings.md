@@ -46,3 +46,5 @@ Questionnaire survey of teachers on two interdisciplinary items using a 5-point 
 - [ChatGPT-assisted lesson plans for children's STEAM art education received higher blind expert quality ratings than traditional teacher-generated plans (average 21.0 vs 17.0)](chatgpt-assisted-plans-outscore-traditional-art-lesson-plans.md) — related
 - [Mixed-disciplinary teacher making supports transdisciplinary epistemic liberation](mixed-disciplinary-teacher-making-supports-transdisciplinary-epistemic-liberation.md) — related
 - [Teachers rated ChatGPT as improving lesson-planning efficiency, especially reducing planning time (average 4.2 on a 5-point scale)](chatgpt-improves-lesson-planning-efficiency-ratings.md) — related
+- [In a user study with 12 participants, teachers rated AdaPT positively across all dimensions, with mean ratings above the neutral baseline of 4](adapt-user-study-positive-ratings.md) — related
+- [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related

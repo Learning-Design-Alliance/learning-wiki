@@ -55,3 +55,4 @@ The article's abstract reports, citing prior work, that Response Time Effort (RT
 - An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — related
 - [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
 - [The general effort-measurement process is illustrated with data from a large-scale assessment program](effort-process-illustrated-large-scale-assessment-data.md)
+- [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related

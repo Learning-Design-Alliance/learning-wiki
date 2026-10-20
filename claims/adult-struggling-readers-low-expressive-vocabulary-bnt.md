@@ -47,3 +47,4 @@ Cross-sectional assessment of 232 adult literacy students reading at third- to f
 - [Stimulus and phonemic cues did not notably help adult struggling readers name objects on the BNT](cues-did-not-help-adult-struggling-readers-naming.md) — related
 - [Participants entered the study with very poor skills, at least 1 SD below the mean on every measure and 2 SD below on receptive vocabulary, phonological awareness, and fluency](struggling-adult-reader-skill-profile.md) — related
 - [Expressive vocabulary adds small but significant variance to exception word reading, but not to general or nonword reading, in adult struggling readers](expressive-vocabulary-exception-word-reading-adults.md) — related
+- [Expressive vocabulary uniquely explains variance in reading comprehension of adult struggling readers](expressive-vocabulary-predicts-adult-reading-comprehension.md) — related

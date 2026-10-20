@@ -43,4 +43,5 @@ Comparative analysis of the P21, Metiri/NCREL, OECD, AAC&U, ISTE, and ETS framew
 
 
 ## Related Claims
--
+- [The Theory of Multiple Intelligences is weak in stressing science and social sciences as fields of talent, and existing subject categories could nurture pupils' talents](multiple-intelligences-weak-on-science-talent.md) — related
+- [Subskill taxonomies in the literature come from both empirical investigations and theory, with no consensus on the number of subskills](no-consensus-subskill-number-empirical-and-theoretical-sources.md) — related

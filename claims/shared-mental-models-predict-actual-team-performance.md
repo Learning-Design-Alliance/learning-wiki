@@ -46,3 +46,5 @@ Regression analyses regressed actual company performance (equity and goodwill) o
 - [Shared mental models show no significant link with perceived team effectiveness](shared-mental-models-not-linked-perceived-effectiveness.md) — related
 - [Shared mental model development mediates the effect of team learning behaviors on actual team performance](shared-mental-models-mediate-team-learning-performance.md) — possibly the same claim (merge candidate)
 - [Constructive conflict positively predicts the development of a shared mental model of the task in teams](constructive-conflict-builds-shared-mental-models.md) — related
+- [Teams receiving part-task congruent representational tools (causal then simulation) outperformed teams with partly matched or mismatched tools on a complex business-economics learning task](matched-representational-tools-better-complex-task-performance.md) — related
+- [Organizational error management culture relates positively to company performance](error-management-culture-company-performance.md) — related

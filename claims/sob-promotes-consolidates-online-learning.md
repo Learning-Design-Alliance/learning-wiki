@@ -48,3 +48,4 @@ The authors' position statement asserts that "SoB can help promote and consolida
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — a narrower finding that bears on this claim
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a broader claim this one bears on

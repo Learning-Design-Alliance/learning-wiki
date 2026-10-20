@@ -44,3 +44,5 @@ Hontvedt and Arnseth's community-of-practice case study of Norwegian sailor appr
 
 ## Related Claims
 - [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](vr-participants-lacked-mutual-engagement-role-playing.md) — related
+- [The reconstruction phase produced two interdependent objects: a social object leading to a role-play script and a technology object leading to a Minecraft building](social-and-technology-objects-reconstruction-phase.md) — related
+- [Adult learners expect AI to support transformative and experiential learning through assumption-challenging simulations, role play, and authentic virtual contexts](ai-supports-transformative-experiential-learning.md) — related

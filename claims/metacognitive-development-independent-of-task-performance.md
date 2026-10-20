@@ -45,3 +45,7 @@ Null correlational analysis in the same 56-participant sample, using a 2-down 1-
 ## Related Claims
 - [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
 - [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related
+- [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
+- [Metacognitive ability was not correlated with task difficulty or perceptual sensitivity (d′)](aroc-uncorrelated-with-difficulty-and-dprime.md) — a narrower finding that bears on this claim
+- [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — related
+- [Confidence ratings shift toward higher confidence across adolescence and decline in adulthood (Broc)](confidence-bias-rises-in-adolescence-declines-adulthood.md) — related

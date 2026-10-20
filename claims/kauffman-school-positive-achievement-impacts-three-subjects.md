@@ -98,3 +98,4 @@ The evaluation's key findings state that "the Kauffman School had substantial po
 - The Kauffman School evaluation used a matched comparison group design to estimate impacts on achievement, attendance, and suspensions — related
 - [TEP's achievement impacts were consistently positive across subjects and cohorts through 2012-2013, with especially large effects in math](tep-impacts-consistently-positive-math-largest.md) — related
 - [The first-year APS Turnaround Strategy evaluation reports implementation and impact findings focused on High Impact Tutoring and PBS operation of Thomasville Heights Elementary](aps-turnaround-first-year-report-scope.md) — related
+- [Kauffman School attendance impacts were positive and significant in some grades and not significantly different from zero in others](kauffman-attendance-impacts-mixed-by-grade.md) — related

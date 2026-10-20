@@ -45,3 +45,5 @@ Utterance-level coding of audio recordings for both groups, with I-positions gro
 ## Related Claims
 
 - [Group A, who failed the learning task, devoted most dialogues to orientation and conceptualization and asked yes-no questions at the personal level, while group B, who succeeded, distributed dialogue across investigation and discussion](group-df-distribution-outcome-cscl-dst.md)
+- [In group B, usage of I–we gradually increased and peaked in the final stage during critical evaluation, suggesting intrapersonal collective voice drives critical evaluation of evidence](iwe-usage-peaked-final-stage-group-b.md) — related
+- [Group B showed a shift toward intrapersonal voices (I–you/I–we) during its later empirical evaluation, while group A remained interpersonal (I–it/I–me) even when investigating, with un-negotiated inputs](shift-toward-intrapersonal-voices-successful-group.md) — related

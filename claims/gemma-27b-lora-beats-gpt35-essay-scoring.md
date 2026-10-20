@@ -53,3 +53,4 @@ Evaluation on the 360-essay held-out test set of the ETS TOEFL Independent Writi
 - [On benchmarks, GPT-3.5-turbo outperformed the fine-tuned Phi model in knowledge and story completion, while PhinetunEd scored best in story generation](phinetuned-benchmark-comparison-gpt.md) — related
 - [Supervised fine-tuning on real score–essay pairs substantially outperforms prompting for proficiency-conditioned writing simulation](sft-improves-proficiency-alignment-over-prompting.md) — related
 - [Fine-tuned GPT-4o achieves state-of-the-art scoring of TOEFL argumentative essays with QWK 0.84 and RMSE 0.44 against official scores](wraft-finetuned-gpt4o-scoring-qwk-084.md) — related
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related

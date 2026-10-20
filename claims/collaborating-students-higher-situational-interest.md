@@ -43,4 +43,6 @@ Self-report situational-interest measure from the three-condition fractions ITS 
 
 
 ## Related Claims
--
+- [In an out-of-school lab for social sciences, the authenticity level of the learning activity (Productive Failure vs. Direct Instruction) did not affect students' perceived authenticity or situational interest](pf-vs-di-no-effect-perceived-authenticity-situational-interest.md) — related
+- [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
+- [4th and 5th grade students learning fractions with an ITS show significant learning gains in individual, collaborative, and combined conditions](all-conditions-significant-fractions-its-gains.md) — related

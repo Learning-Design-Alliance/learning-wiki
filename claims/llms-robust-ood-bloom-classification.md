@@ -53,3 +53,5 @@ Zero- and few-shot prompting evaluation of GPT-4.1 and Gemini Flash 3.1 on the O
 - [The selected-questions-verbs prompting strategy yields the strongest LLM Bloom classification, reaching weighted F1 up to 0.84](selected-questions-verbs-best-prompt.md) — related
 - [An LLM-based question-specificity classifier reached .830 knowledge and .829 scaffold accuracy without fine-tuning](question-specificity-classifier-accuracy.md) — related
 - Zero-shot heuristic use of the pre-trained generative model shows stable, steadily increasing performance across pre-training, suggesting generative pre-training learns task-relevant functionality without fine-tuning — related
+- [Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset](lime-pos-reliance-varies-by-dataset.md) — related
+- [Dual-Lens attention aligns with expert pedagogical focus, allocating most weight to Bloom's taxonomy verbs and problem-solving steps](dual-lens-attention-aligns-expert-pedagogical-focus.md) — related

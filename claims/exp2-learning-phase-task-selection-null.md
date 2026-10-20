@@ -43,4 +43,6 @@ Experiment 2 planned contrast (n = 110 analyzed) showed no significant learning-
 
 
 ## Related Claims
--
+- [In Experiment 1, task-selection accuracy during the no-feedback test phase did not differ between feedback and control conditions](exp1-test-phase-task-selection-null.md) — related
+- [In Experiment 1, receiving self-assessment feedback during the learning phase led to less accurate task selection than no feedback, despite feedback stating actual performance](self-assessment-feedback-reduced-learning-phase-task-selection.md) — related
+- [In Experiment 2, neither self-assessment feedback plus correct answers nor plus contrasting own with correct answers improved test-phase self-assessment accuracy](exp2-feedback-correct-answers-no-gain.md) — related

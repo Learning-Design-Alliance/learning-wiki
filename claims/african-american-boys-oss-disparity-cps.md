@@ -65,3 +65,6 @@ Descriptive subgroup analysis of CPS administrative suspension data for 2013-14.
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related
 - [Suspension is associated with long-term harms including higher risk of grade retention, dropout, and juvenile justice involvement](suspension-long-term-harms-retention-dropout.md) — related
 - [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related
+- [Students of color benefit academically and behaviorally from having teachers of the same race.](same-race-teacher-benefits.md) — related
+- [Students in alternative schools experience extraordinarily high lost-instruction rates, with Black boys losing 235 days per 100 enrolled](alternative-schools-extreme-lost-instruction.md) — related
+- [Students experiencing homelessness change schools at triple the rate of other students and are twice as likely to receive an out-of-school suspension](homeless-students-high-mobility-and-suspension.md) — related

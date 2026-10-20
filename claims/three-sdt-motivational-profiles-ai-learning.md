@@ -47,3 +47,5 @@ MANOVA validation of the three latent profiles among 2,086 matched secondary stu
 - [During a year-long AI curriculum, most students maintained or moved upward in motivational profile, with substantial upward transitions out of the Disengaged profile](upward-motivational-transitions-year-ai-curriculum.md) — related
 - [Greater prior AI learning experience and female gender predicted upward motivational profile transitions](prior-ai-experience-gender-predict-profile-transitions.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
+- [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related

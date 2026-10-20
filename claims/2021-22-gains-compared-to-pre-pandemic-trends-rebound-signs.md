@@ -52,3 +52,5 @@ The appendix page states the first of two main research questions investigated i
 - [Achievement disparities remained wider in spring 2022 than before the pandemic, and constant-gain trends imply recovery timelines extending past federal recovery-fund spending deadlines](disparities-wider-recovery-past-funding-deadlines.md) — related
 - [The brief compared pandemic achievement gains to pre-pandemic trends for students low- or high-achieving at the pandemic's start](covid-gains-by-initial-achievement-research-question.md) — related
 - [The 2021-22 study investigated how student achievement in spring 2022 compared to pre-pandemic levels.](spring-2022-achievement-compared-to-pre-pandemic-levels.md) — related
+- [The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations](fall-2021-achievement-compared-to-fall-2019-pre-pandemic.md) — related
+- [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related

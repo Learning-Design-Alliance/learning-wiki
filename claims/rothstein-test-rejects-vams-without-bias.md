@@ -50,3 +50,4 @@ Theoretical illustration plus simulation study by the authors showing conditions
 - [Theoretically and in simulations, the Rothstein test often falsifies unbiased VAMs and fails to falsify biased VAMs](falsification-test-falsifies-unbiased-vams.md) — possibly the same claim (merge candidate)
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
 - [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — a narrower finding that bears on this claim
+- [Tracking based on lagged student achievement is usually accounted for in value-added models, which is why the falsification test can mislead](lagged-achievement-tracking-accounted-for-in-vams.md) — a narrower finding that bears on this claim

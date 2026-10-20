@@ -46,3 +46,4 @@ Paired questionnaire comparison from the 34-student core sample; the Wilcoxon si
 - [In the initial skill acquisition phase, authentic video yielded higher overall observation assignment scores than virtual simulation](av-outperforms-vs-total-observation-score.md) — the general claim this finding bears on, with the studies behind it
 - [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
 - [Virtual simulation stimulated higher self-reported purposefulness (active reflection) than authentic video](vs-higher-purposefulness-reflection.md) — related
+- [Authentic video outperformed virtual simulation on the higher-order analysis and support dimensions of observation assignments](av-advantage-analysis-support-dimensions.md) — related

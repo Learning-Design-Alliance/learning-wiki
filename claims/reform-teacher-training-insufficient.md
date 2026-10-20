@@ -71,3 +71,5 @@ Drawing on the fourth national report (cycle 2006-2007), the article states that
 - [A threefold staff development plan of immersion, peer monitoring and review, and manual contribution supported instructors' implementation of cooperative learning structures](threefold-cooperative-learning-staff-development-plan.md) — related
 - [The review reports that insufficient prep time, curriculum-alignment difficulty, and low teacher confidence with new technologies are barriers to implementing simulations in K-12](teacher-time-confidence-barriers-simulation-implementation.md) — related
 - [Las micro-credenciales apoyaron la práctica profesional de una educadora como desarrollo profesional a propio ritmo](microcredentials-self-paced-educator-pd-testimonial.md) — related
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](students-difficulties-solar-movement-observable-changes.md) — related
+- [The expert-presenter model is the most prevalent staff development model, with most activities brief](expert-presenter-model-most-prevalent.md) — related

@@ -68,3 +68,8 @@ Correlational analysis of model size versus F1 across the 18 models. The article
 - Family-level permutation tests do not detect reliable reasoning-versus-non-reasoning differences in accuracy, refusal, or consistency — related
 - With images provided, reasoning models achieve higher majority-correct accuracy on image-Required middle-school math items than non-reasoning models — related
 - In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
+- [Multimodal LLMs outperform the OCR-based pipeline on visually dense slides, while the OCR pipeline produces comparable instruction on text-centric slides](multimodal-vs-ocr-pipeline-slide-type-comparison.md) — a narrower finding that bears on this claim
+- [The OCR-based text input uses far fewer tokens than image-based multimodal input for the same slide, making it more cost-effective](ocr-input-lower-token-cost-than-image-input.md) — reports the opposite
+- [Multimodal LLMs grading handwritten student work achieved κ = 0.90 on arithmetic but κ ≈ 0.47 on interpreting student illustrations](multimodal-llm-grading-kappa-arithmetic-illustrations.md) — related
+- [Fusing transformer text classifiers with a linguistic-feature neural network significantly outperforms unimodal models for UK Key Stage classification, with ELECTRA + ANN reaching F1 = 0.996](multimodal-fusion-outperforms-unimodal-key-stage-classification.md) — reports the opposite
+- [StructRAG achieves 89.3% question-level accuracy and 93.0% edge-level F1 on 1,650 STEM diagram questions, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated variants](structrag-outperforms-baselines-stem-diagrams.md) — related

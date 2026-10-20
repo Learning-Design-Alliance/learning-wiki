@@ -43,4 +43,5 @@ The editorial reports that Van Loon, Bayard, Steiner, and Roebers used classroom
 
 
 ## Related Claims
--
+- [Teachers typically provide only little explicit support for SRL in their classrooms](teachers-provide-little-explicit-srl-support.md) — related
+- [Child-centered instruction positively predicts children's self-monitoring accuracy and, for second graders, restudy effectiveness](child-centered-instruction-predicts-metacognition.md) — possibly the same claim (merge candidate)

@@ -49,3 +49,5 @@ Experimental finding from the N=69 study of ten-year-olds in which half received
 - [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — a broader claim this one bears on
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — a broader claim this one bears on
 - [Adjunct aids such as learning objectives and embedded questions show limited effects and may interfere with competent readers' natural strategies](adjunct-aids-limited-effects-interference.md) — related
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related

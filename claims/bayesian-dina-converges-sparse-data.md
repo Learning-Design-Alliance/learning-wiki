@@ -44,3 +44,5 @@ MCMC estimation of the Bayesian DINA model on a filtered EdNet KT1 sample of 5,0
 - A convergence screen excluding non-converged (item, parameter) pairs removed 1.9% of pairs from the benchmark comparison — related
 - BKT-BF suffers high computational cost and does not resolve BKT's identifiability problem, while EM is cheaper but suffers local minima — related
 - The EM solver consistently outperformed stochastic gradient descent for fitting the models, though by a small margin — related
+- [Collaborative representations from meta-behavioral sequences are far less sparse than KC-based representations, which reach up to 99.3% sparsity](meta-behavioral-representations-reduce-sparsity.md) — related
+- [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related

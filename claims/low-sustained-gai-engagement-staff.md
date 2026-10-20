@@ -60,3 +60,6 @@ Authors' interpretation (type e) in the Discussion: because free versions are ra
 ## Related Claims
 - [Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use](financial-support-paid-ai-tools-institutional.md) — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Retrieved knowledge-graph subgraphs suggest dyslexic learners perceive existing AI tools as useful but still limited](kg-subgraphs-ai-tools-useful-but-limited.md) — related
+- [User engagement with GAI tools is filtered through imagined affordances rather than direct encounter with software functionalities](imagined-affordances-filter-gai-engagement.md) — related

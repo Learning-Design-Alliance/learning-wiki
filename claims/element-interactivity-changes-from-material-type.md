@@ -45,3 +45,4 @@ Theoretical argument advanced in the article's abstract, attributing the element
 ## Related Claims
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — related
 - [Both effects are claimed to rely on equivalent changes in element interactivity, with the changes induced by different factors](equivalent-element-interactivity-changes-both-effects.md) — a broader claim this one bears on
+- [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — related

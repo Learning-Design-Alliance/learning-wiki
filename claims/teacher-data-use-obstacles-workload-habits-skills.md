@@ -50,3 +50,5 @@ Open-ended interview question (Q10) in the think-aloud iteration with ten teache
 - [Small school contexts may both enable and constrain professional communities: collegiality rises but heavy workloads make collective instructional focus difficult](small-school-contexts-enable-and-constrain-communities.md) — related
 - The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data. — related
 - [Teachers used student perception data to shift lesson design, modify norms, and target personalized intervention, but heavy workload inhibited data integration](perception-data-use-and-workload-barrier.md) — related
+- [Teachers would engage in analytics-informed inquiry if they saw direct benefits for student outcomes and the process were a regular part of their work](teacher-inquiry-incentives-direct-benefits-routine.md) — related
+- [An equity and personalization focus led teachers to apply elements of formative assessment without extensive formal training](equity-focus-drives-formative-assessment.md) — related

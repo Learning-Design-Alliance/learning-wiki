@@ -45,3 +45,4 @@ Descriptive survey analysis of 89 participants' 5-point Likert satisfaction rati
 ## Related Claims
 - [Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases](eco-mindedness-raises-baseline-eco-preference-limited-by-latency.md) — related
 - [Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5](eco-mode-selection-declines-with-latency.md) — related
+- [Recognizing carbon-saving impacts increases the likelihood of selecting eco modes in LLM interactions](carbon-saving-recognition-increases-eco-mode-selection.md) — related

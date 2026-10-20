@@ -68,3 +68,4 @@ p < 0.001) followed the correlational pattern of the full scale."
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [The GenAI-SRL scale shows satisfactory reliability, convergent validity, and discriminant validity across its six dimensions](genai-srl-scale-reliability-validity.md) — related
 - [The ten-construct instrument showed strong psychometric quality, with the four ARCS dimensions forming a psychometrically sound higher-order motivation construct](utaut3-arcs-instrument-psychometric-validity.md) — related
+- [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related

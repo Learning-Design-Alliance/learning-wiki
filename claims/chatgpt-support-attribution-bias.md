@@ -62,3 +62,4 @@ Scoring-sensitivity analysis of raw attribution sources within the incorrect-out
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
 - [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
+- [ChatGPT recommendation accuracy was comparable between the open-support and reflection conditions, ruling out unequal exposure to erroneous advice](comparable-chatgpt-recommendation-accuracy.md) — related

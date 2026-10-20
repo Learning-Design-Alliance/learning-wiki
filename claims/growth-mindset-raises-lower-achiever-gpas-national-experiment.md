@@ -70,3 +70,5 @@ Blinded Bayesian machine-learning robustness analysis (Bayesian causal forest) r
 - [Cross-school variability in the GPA treatment effect was significant while variability in the mindset treatment effect was not](heterogeneous-gpa-effects-homogeneous-mindset-effects.md) — related
 - [GPA treatment effects among lower-achieving students were larger in schools whose peer norms supported challenge-seeking](peer-norms-sustain-mindset-gpa-effects.md) — a narrower finding that bears on this claim
 - [Brief online growth-mindset interventions produce modest academic gains concentrated among students at risk of underperformance](online-growth-mindset-intervention-modest-effects.md) — possibly the same claim (merge candidate)
+- [Fixed mindset correlates negatively with GPA among U.S. 9th-grade students (average r = −.22) in a nationally representative sample](fixed-mindset-gpa-correlation-national-sample.md) — related
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](growth-mindset-reduces-fixed-mindset-beliefs.md) — related

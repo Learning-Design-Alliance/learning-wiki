@@ -47,3 +47,6 @@ Narrative review of distal health and social outcomes from 24 of 49 studies (49%
 - [Effects on secondary behavioural outcomes (conduct problems, delinquency, substance use) are negligible or non-significant](secondary-behavioural-outcomes-negligible-nonsignificant.md) — related
 - [Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies](self-management-ebd-overall-es-1-80.md) — related
 - [One study found the intervention effect on conduct problems was stronger for youth at greater risk of developing conduct problems.](stronger-conduct-problem-prevention-for-higher-risk-youth.md) — related
+- [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
+- [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
+- [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](positive-relationships-protect-against-violence.md) — related

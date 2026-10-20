@@ -46,3 +46,4 @@ Preregistered regression in Study 1 (N = 1,992 CloudResearch Connect participant
 - [AI literacy warnings reduce LLM political persuasion by roughly one-half (meta-analytic -48.1%)](ai-literacy-warning-halves-ai-political-persuasion.md) — a broader claim this one bears on
 - [In Study 2, both general and specific warnings at least marginally reduce attitude change, with no significant difference between them](study2-general-specific-warnings-reduce-change.md) — related
 - [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related
+- [Warning effect size shows no significant heterogeneity across topics and studies](warning-effect-no-heterogeneity-across-topics.md) — related

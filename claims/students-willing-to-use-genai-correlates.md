@@ -69,3 +69,7 @@ Correlation analysis in the willingness results section reports "r = 0.189; p < 
 - [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - [Students' knowledge of GenAI is positively correlated with their frequency of use](genai-knowledge-frequency-use-correlation.md)
+- [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
+- [ChatGPT use frequency and intention to use are strongly positively correlated](use-frequency-intention-correlated.md) — related
+- [Prior chatbot exposure rather than general technological literacy is associated with willingness to use chatbots](prior-ai-exposure-predicts-chatbot-uptake.md) — related
+- [Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider](feedback-source-awareness-attitude-themes.md) — related

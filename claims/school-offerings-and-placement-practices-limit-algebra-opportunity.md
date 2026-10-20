@@ -48,3 +48,4 @@ The printed title of the brief names school offerings and placement practices as
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](algebra-access-gaps-poverty-geography-race.md) — related
 - [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related
 - [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](algebra-outcomes-ready-versus-not-ready-students.md) — related
+- [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — a narrower finding that bears on this claim

@@ -75,3 +75,8 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
 - [Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks](task-difficulty-increases-errors-scratch-videos.md) — related
 - [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related
+- [Variations in material design are reflected in the extraneous cognitive load scale: worked examples and integrated formats lower ECL](design-variations-reflected-in-ecl-scale.md) — related
+- [Nasty task environments increased negative affect and improved complex problem solving performance relative to nice environments](nasty-environments-improve-cps-performance.md) — related
+- [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — related
+- [Self-explanation prompts increase intrinsic and extraneous cognitive load but not germane load in instructional video learning](self-explanation-prompts-increase-intrinsic-extraneous-load.md) — related
+- [Self-reported intrinsic cognitive load correlates positively with anxiety and challenge and negatively with probability of success in an algebra task](intrinsic-cognitive-load-correlates-with-anxiety-challenge-and-lower-probability-of-success.md) — related

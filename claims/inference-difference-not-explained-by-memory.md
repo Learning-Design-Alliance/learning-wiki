@@ -52,3 +52,4 @@ Analysis of covariance on the same 26 children's conditionalized inference score
 - [Skilled comprehenders show superior one-week retention of a taught knowledge base despite comparable immediate recall](skilled-comprehenders-better-delayed-knowledge-retention.md) — related
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
 - [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related
+- [Higher background knowledge enables better reading comprehension for both skilled and low-skilled primary readers](background-knowledge-improves-comprehension-primary.md) — related

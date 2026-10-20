@@ -65,3 +65,7 @@ Moderator analysis within the meta-analysis of 50 effects, using the article's d
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — related
 - [Integrating spatially or temporally separated but related elements of instructional information produces a large average learning benefit for novices](integration-of-related-elements-large-mean-effect.md) — a broader claim this one bears on
 - [Split-attention and redundancy effects occur for high element interactivity material but disappear for low element interactivity material](load-effects-vanish-low-element-interactivity.md) — a narrower finding that bears on this claim
+- [The authors of one robot-projection study interpret co-located AI guidance as most useful when instructions and task share a spatial frame, as in drawing](spatial-colocation-benefit-task-dependent.md) — related
+- [Contiguity effects are larger under one-on-one testing (d = .89) than under group testing (d = .65), but remain educationally significant in both](testing-format-moderates-contiguity-effect.md) — related
+- [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — related
+- [Contiguity effects show no statistically reliable difference between static and dynamic presentation of visual information](static-dynamic-presentation-no-moderation.md) — related

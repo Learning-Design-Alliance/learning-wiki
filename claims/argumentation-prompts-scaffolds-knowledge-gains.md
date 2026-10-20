@@ -43,3 +43,6 @@ The primer reports, citing Firetto et al. (2019) and Noroozi et al. (2013), that
 
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases](inserted-questions-more-correct-elaborations.md) — related
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related

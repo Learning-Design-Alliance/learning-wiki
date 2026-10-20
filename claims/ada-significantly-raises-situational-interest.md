@@ -54,3 +54,5 @@ Group comparison in the cluster-randomized controlled study (N = 195 ninth-grade
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](no-motivational-differences-worked-versus-inventing.md) — related
 - [Pre-service teachers studying with text-based cases report higher situational interest than those studying the same content with theoretical models](text-based-cases-higher-situational-interest.md) — related
+- [AI-supported inquiry-based learning significantly improved secondary students' creative mathematical performance compared with traditional instruction](ai-ibi-improves-creative-mathematical-performance.md) — related
+- [TAIA students perceived more teacher support for hypothesis generation and argumentation and enjoyed inquiry more; perceived experiment-related support did not differ](taia-perceived-support-hypothesis-argumentation.md) — related

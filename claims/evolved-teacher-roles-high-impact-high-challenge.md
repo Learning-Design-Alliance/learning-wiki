@@ -46,3 +46,4 @@ Delphi survey ratings by 70 international experts. The article reports the evolv
 - [Experts rate AI-related competences for learners and educators as the highest-impact and most important AI-in-education trend](ai-competences-highest-rated-delphi-trend.md) — related
 - [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](automated-ai-assessment-high-impact-moderate-challenge.md) — related
 - [Explainability/trustworthiness and accessibility/equal access of AI agents rank prominently in impact and importance but carry high challenge ratings](responsible-equitable-ai-themes-prominent-high-challenge.md) — related
+- [Experts rated overall importance of AI in education higher than impact and challenge, but the differences were not statistically significant](delphi-importance-impact-challenge-no-significant-difference.md) — related

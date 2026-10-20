@@ -81,4 +81,7 @@ ANOVA on accurate descriptive propositions: experimental mean 25.1 versus contro
 
 
 ## Related Claims
--
+- [Propositional knowledge showed a prior knowledge main effect but no instructional method × prior knowledge interaction](no-expertise-reversal-propositional-knowledge.md) — related
+- [Problem-based tutorial discussion of a relevant problem before studying an expository text increases the number of accurate propositions recalled from that text](pbl-discussion-prior-to-text-increases-free-recall.md) — related
+- [Problem-based discussion prior to studying a text does not increase the number of inferences during immediate free recall](pbl-discussion-no-increase-in-immediate-inferences.md) — related
+- [Prior problem-based discussion does not change the number of inaccurate propositions recalled](pbl-discussion-no-change-in-inaccurate-recall.md) — related

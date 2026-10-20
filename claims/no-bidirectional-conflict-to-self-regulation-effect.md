@@ -45,3 +45,5 @@ In the Discussion the authors report that the reverse pathway from conflict to l
 ## Related Claims
 - [Teacher-child closeness shows concurrent benefits but no prospective spillover to other domains once conflict covariation is controlled](closeness-benefits-concurrent-not-prospective.md) — related
 - [Low self-regulation (inattention and impulsivity) at kindergarten entry predicts greater teacher-child conflict by kindergarten spring, and this effect persists into first grade](low-self-regulation-predicts-teacher-conflict-persisting.md) — related
+- [Kindergarten teacher-child conflict and low self-regulation jointly predict decreases in school engagement, which in turn predicts first-grade academic competence](conflict-and-self-regulation-reduce-engagement-then-competence.md) — related
+- [Kindergarten-spring conflict is positively associated with first-grade closeness, driven by high-conflict children, suggesting an opportunity for a fresh start](high-conflict-children-can-form-new-closer-relationships.md) — related

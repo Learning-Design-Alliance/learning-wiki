@@ -89,3 +89,4 @@ Sensitivity analysis restricted to cases within 1/8 SD of the mean mathematics s
 - [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
 - [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related
 - [Gender differences in global performance judgments follow domain stereotypes: men higher in mathematics, women higher in reading, with no gender differences in bias](gender-stereotyped-performance-judgments-adults.md) — related
+- [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related

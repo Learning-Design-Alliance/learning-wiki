@@ -65,3 +65,5 @@ Analysis of 2023-24 assessment data compares COVID-era test score averages with 
 - [Student growth during 2023-24 fell short of pre-pandemic trends in nearly all grades, continuing stalled pandemic recovery](growth-2023-24-fell-short-pre-pandemic-trends.md) — related
 - [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related
 - [The average student needs an estimated 4.1 additional months of schooling to catch up in reading](reading-catchup-4-point-1-months.md) — related
+- [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
+- [The 2022-23 school year showed stalled progress toward pandemic recovery in student achievement](2022-23-achievement-stalled-pandemic-recovery.md) — related

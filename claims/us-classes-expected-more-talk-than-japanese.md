@@ -47,3 +47,4 @@ In the results for the second research aim comparing domestic (Japan) and intern
 - [American Indian and Alaska Native students often do not willingly participate in the question-answer activity that constitutes most classroom discussions, because direct questioning in front of peers contradicts community norms](ai-an-students-question-answer-participation.md) — the general claim this finding bears on, with the studies behind it
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — related
+- [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related

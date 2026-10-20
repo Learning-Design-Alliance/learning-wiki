@@ -50,3 +50,4 @@ The review reports Ball et al. (2022), showing that permitting offloading remove
 - [Strategy perseveration: prior offloading experience biases later offloading choices](strategy-perseveration-offloading.md) — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
 - [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related
+- [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — related

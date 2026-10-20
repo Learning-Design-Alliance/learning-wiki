@@ -43,4 +43,8 @@ Two authors independently scored all blinded submissions across T0–T2 after ca
 
 
 ## Related Claims
--
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related
+- [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
+- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- [Systems Thinking Practices is the hardest CT construct to code reliably for both human raters and the LLM, requiring more explicitly operationalized rubrics](stp-low-reliability-complex-construct.md) — related
+- [Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction](conceptual-visualization-knowledge-declines-twelve-months.md) — related

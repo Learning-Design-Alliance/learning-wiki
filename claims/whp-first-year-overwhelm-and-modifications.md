@@ -46,3 +46,6 @@ Teacher interviews (25 teachers plus 6 usability interviews) and a purposive rev
 - [World History Project does not engage students more than business-as-usual curricula on first implementation, with somewhat negative perception trends](whp-first-year-engagement-negative-trend.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) — related
+- [Low-fidelity prototype evaluation found initial UI options overwhelming and checkbox selections unintuitive](paper-prototype-overwhelming-options-feedback.md) — a broader claim this one bears on
+- [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
+- [Trained scorers applied the historical thinking skills rubrics with good overall inter-rater consistency](hts-rubrics-good-inter-rater-consistency.md) — related

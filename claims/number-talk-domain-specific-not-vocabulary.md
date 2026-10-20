@@ -54,3 +54,4 @@ Null secondary analysis in the Results section (N=43 for PPVT). Vocabulary was c
 - [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) — related
 - [Parent number talk is infrequent but varies widely, and most of it concerns counting or labeling sets, with present-object small-set talk the most common type](parent-number-talk-frequency-description.md) — related
 - [Parent SES significantly predicts children's cardinal-number knowledge at 46 months, accounting for 24 percent of variance](parent-ses-predicts-cardinal-knowledge.md) — related
+- [Parent number talk about present, visible objects predicts children's later cardinal-number knowledge, whereas number talk without present objects does not](present-object-number-talk-predicts-cardinal-knowledge.md) — related

@@ -65,3 +65,6 @@ Meta-regression from Table 2 controlling for log-centered test length. Conceptua
 - [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — related
 - [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related
 - [Cronbach's Alphas of knowledge tests vary widely, with a 90% prediction interval of (0.35, 0.96)](knowledge-test-alpha-prediction-interval.md) — related
+- [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
+- [Alpha of knowledge tests increases after interventions from pretest to posttest](knowledge-test-alpha-increases-after-intervention.md) — related
+- [Open response format is associated with higher Alpha than multiple choice in knowledge tests](knowledge-test-alpha-response-format.md) — related

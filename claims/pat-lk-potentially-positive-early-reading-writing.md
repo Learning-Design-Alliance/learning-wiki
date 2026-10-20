@@ -73,3 +73,6 @@ RCT with reservations (high attrition) of 33 Hmong- or Spanish-speaking three- a
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
 - [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related
 - [Technology-enhanced stories show no significant additional effect on code-related literacy skills](technology-stories-no-code-related-literacy-effect.md) — related
+- [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
+- [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
+- [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related

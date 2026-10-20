@@ -43,4 +43,6 @@ Age comparison within the same N = 150 experimental study: the article reports a
 
 
 ## Related Claims
--
+- [All children in the study showed adequate metacognitive processes before and during test taking](all-children-adequate-metacognitive-processes-test-taking.md) — related
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
+- [When facing higher demands regarding retrieval processes, mnemonic experience (age) seems to play the more important role in metacognitive performance](experience-more-important-under-higher-retrieval-demands.md) — related

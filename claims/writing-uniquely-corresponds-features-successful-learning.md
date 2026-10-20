@@ -47,3 +47,5 @@ The article reports, citing Janet Emig's 1977 article on writing as a mode of le
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — the general claim this finding bears on, with the studies behind it
 - [Expansive learning moved epistemically from questioning to analysis, modeling and implementation while interactionally moving from coordination to cooperation and communication, but with no mechanical correspondence between specific actions and interaction types](no-mechanical-correspondence-actions-interaction.md) — related
 - [Self-efficacy judgments correspond less well to behavior in learning settings than in performance settings](self-efficacy-accuracy-lower-in-learning-settings.md) — related
+- [A medium feature's affordance does not guarantee its actual cognitive effects: LOGO instruction designed to enhance conditional reasoning may not do so](affordance-does-not-guarantee-cognitive-effect.md) — related
+- [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related

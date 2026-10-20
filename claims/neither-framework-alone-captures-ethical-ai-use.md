@@ -45,3 +45,5 @@ Theoretical argument in the discussion section. The article states 'Brofenbrenne
 ## Related Claims
 - [Ethical decision-making about AI emerges as tensions and contradictions negotiated across ecological levels](ethical-ai-decision-negotiated-across-levels.md) — related
 - Contradictions within and across activity systems are vital forces for change and provide a rationale for CSL — related
+- [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
+- [Conflicting student and teacher rules for GenAI produce adaptive counter-norms and student calls for teachers to refine assignments rather than impose unenforceable restrictions](genai-rule-conflicts-counter-norms-assessment.md) — related

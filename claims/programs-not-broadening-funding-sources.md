@@ -69,3 +69,4 @@ Exhibit 3 (Partnership Lead Survey, n=26) shows low uptake of IHE-focused cost s
 - [Alder's financial model combines grants, tuition, and LEA contributions, targeting 70–80% tuition funding by 2026–27 while keeping tuition low](alder-diversified-financial-model.md) — related
 - [Only 6 of 24 TRGP-participating IHEs enrolled at least 20 TRGP-funded residents in 2022-23, below the cohort size experts suggest is needed for sustainable, affordable programs](ihe-resident-cohorts-below-sustainability-threshold.md) — related
 - Emergency aid programs rely primarily on private donations and grants, creating scarce, unstable funding and uneven capacity across campuses — related
+- [Most SSSCs rely on two or three funding sources, with state-appropriated funding and federal grants the most common](ssscs-rely-on-multiple-funding-sources.md) — related

@@ -45,3 +45,6 @@ Weekly holdout check-in surveys measured consumer-AI tool use (ChatGPT, Gemini, 
 ## Related Claims
 - [Access to a structured conversational AI tutor increased post-test content scores over a no-AI holdout with ambient consumer AI available](structured-ai-tutor-raises-post-test-scores-field-experiment.md) — related
 - [The instructor's own final exam showed the same direction of advantage on the intact randomized sample, with no difference on the pre-treatment midterm](instructor-final-confirms-tutor-advantage-direction.md) — related
+- [A quarter of students offered a free AI tutor never tried it once, making first-session adoption a deployment problem](first-session-adoption-problem-free-ai-tutor.md) — related
+- [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — related
+- [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related

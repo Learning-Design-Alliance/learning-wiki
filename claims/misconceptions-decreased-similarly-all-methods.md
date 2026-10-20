@@ -66,3 +66,4 @@ The same mixed ANOVA showed "no significant interaction effect between instructi
 - [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md)
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md)
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md)
+- [All three instructional methods reduced misconceptions, and comprehension and transfer effects were stable at delayed testing one week later](misconception-reduction-stable-delayed-testing.md) — possibly the same claim (merge candidate)

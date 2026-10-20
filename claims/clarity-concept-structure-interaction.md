@@ -68,3 +68,5 @@ Omnibus ANOVA on the application measure. The article reports the interaction ac
 - [Students accurately perceive differences between clear and unclear lessons regardless of concept structure](students-perceive-lesson-clarity.md) — related
 - [Clarity matters less as concept structure becomes simpler: no significant clear-vs-unclear difference for constant successive lessons](clarity-less-relevant-simpler-structures.md) — related
 - Clarity, task orientation, time on task, criterion-material learning, and structuring correlate positively with learning — related
+- [Under unclear presentation, a more complex concept structure lessens students' ability to identify concepts](unclear-presentation-complex-structure-penalty.md) — related
+- [A clear variable coordinate lesson produced higher achievement than an unclear lesson with the same concept structure on all five measures](clear-variable-coordinate-beats-unclear.md) — related

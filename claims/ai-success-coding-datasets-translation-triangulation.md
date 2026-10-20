@@ -42,3 +42,5 @@ Cross-project synthesis of the K-12 AI Pilot Cohort, based on a survey (N=24), 2
 
 ## Related Claims
 - [Experts identified pervasive limitations of today's AI for learning, including biased data, inequity, non-graceful failure, and weak context grasp](expert-panel-ai-limitations-list.md) — related
+- [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md) — related
+- [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — related

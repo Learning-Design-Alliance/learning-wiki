@@ -48,3 +48,5 @@ Definitional statement of the model's design from the abstract: it combines poly
 - [The 2025 MAP Growth norms adopted a two-year, two-level piecewise mixed-effects design because two consecutive years of data are sufficient for within-year and adjacent-year growth norms](two-year-piecewise-design-sufficient-for-map-growth-norms.md) — related
 - [Ignoring summer loss can impact which schools are identified as low performers under federal accountability](ignoring-summer-loss-impacts-low-performer-identification.md) — related
 - [Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)](sawtooth-seasonal-achievement-pattern-map-growth.md) — related
+- [The CP model fits seasonal achievement data better than a traditional polynomial growth model on RMSE, AIC, and BIC while reducing residual autocorrelation](cp-model-fits-seasonal-growth-better-than-polynomial.md) — a narrower finding that bears on this claim
+- [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — related

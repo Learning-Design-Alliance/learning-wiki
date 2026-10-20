@@ -48,3 +48,5 @@ Theoretical argument in the General Discussion, citing Rock & Gutman (1981) and 
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related
 - [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](acetylcholine-surprise-encoding-focus-lag.md) — related
 - [Latent inhibition in adults occurs even when the CS is preexposed under severe conditions of inattention](latent-inhibition-under-inattention-preexposure.md)
+- [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md) — related
+- [Nonreinforced preexposure of a to-be-conditioned stimulus produces a strong latent inhibition effect in adult humans](latent-inhibition-adult-humans-instrumental-conditioning.md) — a narrower finding that bears on this claim

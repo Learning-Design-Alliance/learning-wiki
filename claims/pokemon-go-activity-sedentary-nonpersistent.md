@@ -42,3 +42,5 @@ The review's synthesis of 36 Pokémon Go studies with a combined sample of 38,72
 
 ## Related Claims
 - [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — related
+- [The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links](pa-indicators-intercorrelated.md) — related
+- [Girls in Playworks schools were less likely to be sedentary and more likely to engage in jumping, tag, and playground games during recess](playworks-girls-recess-activity-types.md) — related

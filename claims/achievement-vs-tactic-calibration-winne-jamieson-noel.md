@@ -62,4 +62,6 @@ Same review-reported study: tactic-report calibration showed no relation to achi
 
 
 ## Related Claims
--
+- [Self-regulated learning models treat self-monitoring as a core process through which learners notice gaps and adjust strategy](self-monitoring-improves-self-regulation.md) — related
+- [Trace data tend to predict achievement better than self-reports, but self-reports of global SRL intensity can outperform traces](traces-predict-achievement-better-than-self-reports.md) — related
+- [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — related

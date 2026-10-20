@@ -47,3 +47,7 @@ Descriptive survey results (Section B) from n = 416 Czech secondary students in 
 - [ChatGPT was the most widely adopted AI platform in undergraduate higher education studies, with applications clustering around assessment automation and personalized learning support](chatgpt-dominant-platform-assessment-personalization.md) — related
 - [ChatGPT was the most used GenAI tool across all three physics assessments, with Copilot a distant second](chatgpt-most-used-genai-tool-physics-assessments.md) — related
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related
+- [ChatGPT is the most frequently used AI tool among Ghanaian pre-service science teachers, with 69% reporting frequent use](chatgpt-most-used-ai-tool-ghanaian-pre-service-science-teachers.md) — related
+- [Only 11% of surveyed educators can recommend specialized AI services, with ChatGPT dominating recommendations at 44%](chatgpt-dominance-specialized-service-awareness-11-percent.md) — related
+- [Ukrainian educators show high AI adoption (84%) but only 11% can identify specialized AI services beyond ChatGPT](educators-high-ai-adoption-low-specialized-awareness.md) — related
+- [Educators use AI tools mainly for personalized learning and language support and frequently use generative AI for lesson planning](educators-ai-use-personalization-lesson-planning.md) — related

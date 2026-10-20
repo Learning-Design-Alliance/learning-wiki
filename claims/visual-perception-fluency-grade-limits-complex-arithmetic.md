@@ -45,3 +45,5 @@ Analysis of the three arithmetic subtests showed the visual perception–fluency
 
 ## Related Claims
 - [Figure-matching ability accounts for the association between numerosity processing and computational fluency in third- to fifth-grade children](visual-perception-accounts-numerosity-computational-fluency-link.md) — related
+- [The prediction power of specific processing speed for mathematics decreases with reduced arithmetic fluency: complex multiplication did not predict mathematics although it predicted Chinese and English](arithmetic-fluency-gradient-complex-multiplication-null-for-math.md) — related
+- [Figure-matching ability correlates more strongly with numerosity processing and computational fluency than other cognitive factors](figure-matching-strongest-correlate-numerosity-fluency.md) — related

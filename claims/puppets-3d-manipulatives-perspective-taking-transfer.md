@@ -48,3 +48,6 @@ Epistemic network analysis of discourse data from microteaching performances and
 ## Related Claims
 - [Reflecting with the 3D manipulable animation made Session #3 reflective discussions more student-centered than reflecting with video only](3d-animation-reflection-more-student-centered.md) — related
 - [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md) — related
+- [Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states](3d-viewpoint-switching-bolsters-nonverbal-perspective-taking.md) — related
+- [Tangible puppetry role-play shifted microteaching discourse from formal planned utterances toward informal student voices, and the shift persisted into a subsequent self-performed role-play](puppetry-shifts-role-play-toward-informal-student-voices.md) — related
+- [The student-centered shift in reflective discussion between Sessions #1 and #3 remained only in the experimental condition, with a medium effect size](student-centered-shift-persisted-only-experimental-group.md) — related

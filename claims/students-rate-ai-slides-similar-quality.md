@@ -44,3 +44,4 @@ In-class survey in a Web Software Development course (88 enrolled, 51 at first l
 ## Related Claims
 - [Students cannot reliably distinguish AI-generated slides from human-created slides](students-cannot-identify-ai-slides.md) — related
 - [Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses](quality-rating-negative-ai-guess-correlation.md) — related
+- [Students perceived instructor feedback as significantly more useful than AI-generated feedback, with no significant differences on fairness, developmental value or encouragement](instructor-feedback-perceived-more-useful-than-ai-feedback.md) — related

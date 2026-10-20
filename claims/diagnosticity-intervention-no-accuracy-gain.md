@@ -45,3 +45,7 @@ Multilevel comparison of conditions 3 and 4 in the same experiment found no sign
 ## Related Claims
 
 - [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md)
+- [Teachers' self-reported cue utilization attributes are not significantly correlated with their monitoring accuracy (Experiment 2).](teacher-self-reported-cue-use-not-linked-to-accuracy.md) — related
+- [The cue-diagnosticity intervention improved teachers' calibration: confidence and judgment accuracy became more aligned](diagnosticity-intervention-improves-calibration.md) — related
+- [Teachers' judgments of students' text comprehension are significantly more accurate when diagnostic performance cues are available than when only non-diagnostic student cues are available](diagnostic-cues-improve-teacher-judgment-accuracy.md) — related
+- [Teachers' judgments of students' monitoring accuracy deviated 14.33% from students' actual monitoring accuracy, tending to underestimate it](teachers-underestimate-students-monitoring-accuracy-14-percent.md) — related

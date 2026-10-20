@@ -75,3 +75,4 @@ The author argues that ignoring acquisition-rate differences caused premature ex
 - [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
 - [Bilingual staff help differentiate typical language development from disability, but interviewees described no systematic process for doing so](bilingual-staff-differentiation-no-systematic-process.md) — related
 - [It is inappropriate to use KEA scores to evaluate teachers or preschool programs, hold children back from kindergarten, or diagnose learning disabilities](kea-inappropriate-uses-teacher-eval-retention-diagnosis.md) — related
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](bilinguals-better-math-tested-in-spanish.md) — related

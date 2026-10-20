@@ -48,3 +48,6 @@ Randomized experiment with 52 university students assigned to learner-control or
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
 - [Learner control does not improve retention of the main steps in an animated multimedia instruction](learner-control-no-retention-benefit.md) — related
+- [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — related
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — a broader claim this one bears on
+- [Learner flow control over animations is rarely used, and the authors report no correlation between its use and knowledge-test results although the printed Spearman r is 0.464](flow-control-unused-no-learning-correlation.md) — related

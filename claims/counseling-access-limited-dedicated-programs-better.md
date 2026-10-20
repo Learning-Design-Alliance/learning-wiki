@@ -65,3 +65,4 @@ In the student focus groups, "Students were most satisfied with counseling exper
 - [California community colleges' placement assessments converge on a few common instruments, with ACCUPLACER most common in mathematics and English](placement-assessment-convergence-accuplacer.md) — related
 - [Large majorities of incoming California community college students place into remedial-level mathematics and English](ca-cc-remedial-placement-rates.md) — related
 - [Students were more positive about advising when their advisor was dedicated to a specific program of study or student population](dedicated-advisors-perceived-more-accurate.md) — related
+- [A 2016 WWC practice guide reports, citing Scott-Clayton (2012), that 24-33% of students were misplaced at matriculation, more often into developmental courses than the reverse](misplacement-rates-24-33-percent.md) — related

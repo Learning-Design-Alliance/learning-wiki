@@ -63,3 +63,4 @@ Dosage analysis from Table 2 of the RCT. Planned instruction ranged from 19 to 3
 
 ## Related Claims
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
+- [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](bkt-faster-posttest-completion.md) — related

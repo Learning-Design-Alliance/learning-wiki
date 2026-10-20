@@ -54,3 +54,6 @@ Analysis of ITBS reading learning gains from 1997 to 2005, comparing schools led
 - [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — reports the opposite
 - [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — reports the opposite
 - [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](pd-benefits-early-career-principals.md) — related
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — reports the opposite
+- [One-year learning gains similar for schools with leadership teams and schools without Fund leaders or NBCTs](leadership-teams-no-learning-gain-difference.md) — related
+- [NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period](nisl-principals-student-achievement-gains.md) — related

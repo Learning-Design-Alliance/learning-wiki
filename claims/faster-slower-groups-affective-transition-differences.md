@@ -50,3 +50,5 @@ ONA difference network comparing groups split by median task duration shows "fas
 ## Related Claims
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
 - [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](sequential-patterns-curiosity-confusion-joy.md) — related
+- [Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports](affect-frequency-distributions-reporting-methods.md) — related
+- [Probe-caught affect reports show stronger self-loops among core epistemic states, while self-caught reports show more distributed transitions involving higher-arousal states](reporting-method-shapes-affective-network-structure.md) — related

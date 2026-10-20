@@ -47,3 +47,5 @@ Descriptive account of Alder's continuous improvement infrastructure from the ca
 - [Most Alder graduates are hired as full-time teachers and are rated more effective than other first-year teachers by their school leaders](alder-graduates-hiring-effectiveness-ratings.md) — related
 - [Officials report the new framework's transparency and annual dashboards reduced surprise and stress and enabled focus on continuous improvement](ri-charter-dashboards-reduced-surprise-stress.md) — related
 - [States collected and used data to track participation, evaluate quality, improve programs, and advocate for funding](state-summer-data-collection-uses.md) — related
+- [Engaging students as partners in analyzing and discussing student experience data creates authentic engagement and signals responsiveness to students](students-as-partners-in-data-use.md) — related
+- [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related

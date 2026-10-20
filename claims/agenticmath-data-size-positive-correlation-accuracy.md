@@ -45,3 +45,4 @@ Scaling analysis (Figure 2) starting from 7.5K MATH samples and adding synthetic
 ## Related Claims
 - [Fine-tuning LLMs on 30K-90K AgenticMath samples matches or surpasses baselines trained on 400K-2.3M samples on math reasoning benchmarks](agenticmath-small-data-matches-large-scale-baselines.md) — related
 - [At 30K and 60K data scales, AgenticMath outperforms all compared baselines across four base models on six math benchmarks](agenticmath-sota-at-small-data-scales.md) — related
+- [Under the same teacher model, AgenticMath outperforms prior data-generation methods, indicating gains arise from framework design rather than teacher strength](agenticmath-gains-not-from-stronger-teacher.md) — related

@@ -46,3 +46,5 @@ Exploratory correlational analysis of posttest scores against SSRS teacher ratin
 
 - [HTKS scores show validity evidence for first graders, associating with teacher-rated social skills and problem behavior](htks-validity-first-graders.md) — related
 - [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md)
+- [English oral vocabulary scores correlated significantly with word identification and reading comprehension posttest scores in this severely struggling sample](english-oral-vocabulary-correlates-word-reading-comprehension.md) — related
+- [Neither treatment nor typical-practice students with severe reading difficulties demonstrated significant standard-score growth over the 13-week study](no-significant-growth-severe-adolescent-readers-either-condition.md) — related

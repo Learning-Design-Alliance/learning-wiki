@@ -44,3 +44,4 @@ The article states as context that "the recent next generation science standards
 
 ## Related Claims
 - [EdTech messaging about AI over-emphasizes individual, cognitive learning while curricular frameworks emphasize social, contextual learning](edtech-ai-messaging-individual-vs-social-curricula.md) — related
+- [A 2-year professional development study gathered data on teachers' abilities and perceptions regarding delivery of computer-supported complex systems curricula](two-year-pd-study-teacher-abilities-perceptions-complex-systems.md) — related

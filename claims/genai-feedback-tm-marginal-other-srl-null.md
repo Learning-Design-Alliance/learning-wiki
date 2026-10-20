@@ -48,3 +48,5 @@ Same Mann–Whitney U analysis of standardised SRL proxy scores across the five 
 ## Related Claims
 - [The GenAI feedback group showed a statistically significant post-intervention improvement in the Task Strategies dimension of SRL compared with the tutor group](genai-feedback-improved-task-strategies-srl.md) — related
 - [No statistically significant interaction effects between satisfaction and adaptive feedback on the subsequent pre-actional phase; only marginal trends emerged (H4 not supported)](no-significant-satisfaction-feedback-interactions.md) — related
+- [Under blind conditions, students rated GenAI feedback more positively than tutor-generated feedback, with a statistically significant difference only on Genuineness favouring GenAI](genai-feedback-rated-higher-genuineness-blind.md) — related
+- [MITCA did not improve information-seeking and help management skills relative to traditional homework](mitca-no-gain-information-seeking.md) — related

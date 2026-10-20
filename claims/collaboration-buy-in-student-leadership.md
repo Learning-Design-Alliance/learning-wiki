@@ -48,3 +48,5 @@ Cross-case qualitative finding from interviews and focus groups with staff and s
 - [Interviewees identified leadership prioritization, staff buy-in, and investments in staffing, training, partnerships, and funding as facilitators of trauma-engaged implementation](leadership-buy-in-investments-facilitate-trauma-engaged-implementation.md) — related
 - [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
+- [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](cross-level-team-composition-buy-in.md) — a broader claim this one bears on
+- [The value of the student-staff collaboration was explored from student, staff, and institutional perspectives, with benefits, limitations, and recommendations presented](student-staff-collaboration-value-three-perspectives.md) — related

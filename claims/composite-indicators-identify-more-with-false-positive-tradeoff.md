@@ -66,3 +66,5 @@ Table 1 analysis of composite thresholds. The report states this approach "also 
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [By the end of sophomore year, 84 percent of eventual non-graduates showed at least one warning indicator](sophomore-warning-indicators-flag-84-percent-nongraduates.md) — related
 - [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
+- [Freshman on-track status is an early indicator correlated with later graduation, and being off track correlates with dropping out](on-track-early-indicator-graduation.md) — a broader claim this one bears on
+- [A pilot ethnic studies program in San Francisco high schools led to gains in attendance, grades, and credit accumulation](ethnic-studies-pilot-gains-attendance-grades.md) — related

@@ -50,3 +50,4 @@ The paper's stated purpose, per its abstract, is to assess which test-score-base
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - [Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects](standardized-tests-partial-information-learning.md) — related
 - [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related
+- [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related

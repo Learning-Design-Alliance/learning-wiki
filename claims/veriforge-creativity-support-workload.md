@@ -65,3 +65,4 @@ NASA-TLX weighted total from the same paired analysis showed a positive trend th
 - [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
 - [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related
 - [Blind expert raters judged VeriForge passages as conveying stronger perceived authorial domain competence, with other quality dimensions showing uncorrected trends](veriforge-expert-domain-grounding-ratings.md) — related
+- [Source provenance labels functioned as a seal of authority: 11 of 12 participants failed to detect a planted source-card mismatch](provenance-paradox-uncritical-trust.md) — related

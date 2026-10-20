@@ -49,3 +49,6 @@ Structural models regressing TEMA-3 and WJ-III Applied Problems scores at each t
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
 - A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language — related
 - [Language proficiency predicts residual variance in executive performance not explained by processing speed at all preschool age points](language-predicts-executive-residual-variance.md) — related
+- [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
+- [Social functioning fully mediates the relation between early effortful control and later academic achievement](social-functioning-fully-mediate-ec-achievement.md) — related
+- [Children's adult-reported and observed effortful control in early elementary school prospectively predicts academic achievement 6 years later](ec-prospective-achievement-six-year.md) — related

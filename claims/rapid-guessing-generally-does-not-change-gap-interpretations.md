@@ -51,3 +51,7 @@ Sensitivity analysis comparing achievement gap estimates unconditional and condi
 - [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — related
 - [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — related
 - [The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap](gap-estimates-sensitive-to-test-motivation-investigation.md) — reports the opposite
+- [Rapid guessing can be examined over three years using six test administrations to distinguish trait-like from situational disengagement](six-administrations-three-years-rapid-guessing-design.md) — related
+- [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — a broader claim this one bears on
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — reports the opposite
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — reports the opposite

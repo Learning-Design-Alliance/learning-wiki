@@ -48,3 +48,4 @@ Session 4 EEG comparison reported in the Summary of Results section: Brain-to-LL
 - [Over four months and four sessions, LLM-group participants performed worse than Brain-only participants at neural, linguistic, and scoring levels](llm-group-worse-neural-linguistic-scoring-four-sessions.md) — a broader claim this one bears on
 - Frontal EEG spectral activity shows no statistically significant differences across AI interaction modes or between with-AI and no-AI conditions — related
 - Engagement-index EEG metrics show no significant differences across AI modes, and a possible short-term AI carryover effect remains unconfirmed — related
+- [Acute exercise increases cortical delta, theta, alpha, and beta EEG power, with a moderately large effect size of 0.38 to 0.75 standard deviations](acute-exercise-increases-eeg-band-power.md) — related

@@ -49,3 +49,4 @@ Results section of the classroom observation study: "high mediation was associat
 - [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related
 - [Findings on teacher mediation patterns differ from the Gahagans' conclusion of no difference in teacher verbal mediation](findings-differ-from-gahagans-no-difference.md) — related
 - [Reducing the number of children in a presentation and letting them describe similarities and differences made children's knowledge visible to the teacher](small-presentation-groups-make-learning-visible.md) — related
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](qt-increases-explanations-cumulative-exploratory-talk.md) — related

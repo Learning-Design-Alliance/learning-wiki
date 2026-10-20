@@ -53,3 +53,4 @@ Review reports Cappelletti and Price (2014) fMRI study: DD adults showed "strong
 - [No white-matter structural connectivity differences between adults with dyscalculia and controls in the examined tracts](dyscalculia-no-structural-connectivity-differences.md) — related
 - [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — reports the opposite
 - [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
+- [Adults with dyscalculia show less distinct non-symbolic number representations than matched controls in anterior parietal, frontal and temporal cortex](dyscalculia-impaired-nonsymbolic-representations-adults.md) — related

@@ -65,3 +65,6 @@ Within-item ablations in which the same public, teacher-graded answers were grad
 - [Graded exemplars shift an LLM grader by the level they are marked at.](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — the contrast: context about the work, which shifts the grade by the level it is marked at
 - [Course context raised an LLM grader's agreement on terse answers and lowered it on long ones.](course-context-helps-sparse-items-and-dilutes-rich-ones.md) — the other context result, and its boundary
 - [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — the agreement these interventions on one model did not detectably move
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — related
+- [Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — related
+- [The LLM observation function's per-answer mastery evidence correlates with true mastery at r = 0.68 pooled, but only r ≈ 0.15 within the weak tier, making it least reliable for low-ability learners](collearn-observation-function-within-tier-reliability.md) — related

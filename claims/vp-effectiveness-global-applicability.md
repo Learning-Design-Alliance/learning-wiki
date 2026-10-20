@@ -44,3 +44,6 @@ Across the 51 included trials, 44 were conducted in high-income countries and 7 
 
 ## Related Claims
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md) — related
+- [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
+- [The BFLPE generalizes across countries, cultures, settings, and long-term follow-ups](bflpe-cross-cultural-generalizability.md) — related
+- [The original global citizenship scale is employable in a developing-country university context after adjustments to social responsibility and global competence](global-citizenship-scale-employable-developing-context.md) — related

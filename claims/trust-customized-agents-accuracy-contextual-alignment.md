@@ -47,3 +47,5 @@ Thematic analysis found clarity/operability codes more prevalent in customized g
 - [Open-ended learner feedback revealed four themes: trust in AI scaffolding, feedback clarity, engagement, and task authenticity](cyberagents-qualitative-four-themes.md) — related
 - Focus groups with nine writing instructors identified four design priorities for WAT-C: clearer feedback, instructor customization, reduced administrative burden, and a simplified interface — related
 - [Discrepancies between lenient learner feedback and more critical automated feedback caused tutors confusion, distrust, and demands for rationale](feedback-source-discrepancies-cause-confusion.md) — related
+- [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — related
+- [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — related

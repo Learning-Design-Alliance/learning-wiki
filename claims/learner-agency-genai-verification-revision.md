@@ -55,3 +55,6 @@ This is the article's own statement of its second contribution, derived from a f
 - [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related
 - [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](zhimo-revision-meaning-negotiation.md) — related
 - [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related
+- [AI-supported design learning demands integrative capabilities, judgement, and learner agency rather than a single new skill](ai-design-integration-judgement-agency.md) — related
+- [AI-supported design iteration consists of generation, selection, evaluation, and revision rather than one-off generation](ai-iteration-generation-selection-evaluation-revision.md) — a narrower finding that bears on this claim
+- [Verification behavior lagged rising AI use: minimal or conditional verification more than doubled (5 to 12) over the semester](verification-lagged-rising-ai-use.md) — a narrower finding that bears on this claim

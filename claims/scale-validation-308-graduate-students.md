@@ -44,3 +44,5 @@ Quantitative validation study reported in the abstract: a questionnaire survey o
 - [Grounded theory analysis of professor interviews identifies five functional domains of graduate students' generative AI literacy](five-functional-domains-genai-literacy-graduate.md) — related
 - The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis — related
 - Reliability of the thinking styles scale ranges from .722 to .913 across its five dimensions — related
+- [Exploratory factor analysis supports a five-factor GAA-LS structure explaining 67.82% of variance](gaa-ls-five-factor-efa-structure.md) — related
+- [The GAA-LS shows satisfactory-to-strong internal consistency and evidence of convergent and discriminant validity](gaa-ls-reliability-convergent-discriminant.md) — related

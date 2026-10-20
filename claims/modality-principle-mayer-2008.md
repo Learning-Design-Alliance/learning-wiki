@@ -49,3 +49,5 @@ Controlled experiments across six computer-based lesson domains comparing spoken
 - [In one middle-school quasi-experiment on electricity, spoken-text groups outperform written-text groups with both abstract and concrete animation (d = .35)](modality-effect-holds-middle-school-electricity.md) — a narrower finding that bears on this claim
 - [Spoken text modality does not significantly differ from signaled written text modality, or from signaled written plus spoken text, for either abstract or concrete animation](spoken-versus-signaled-written-null.md) — related
 - [Contiguity principles: near placement and simultaneous presentation of corresponding words and pictures improve transfer](contiguity-principles-mayer-2008.md) — related
+- [Redundancy principle: animation plus narration beats animation, narration, and on-screen text for transfer](redundancy-principle-mayer-2008.md) — related
+- [The signaling effect holds only for abstract animation representations: signaling significantly improved achievement over written text with abstract animation but not with concrete animation](signaling-effect-abstract-only.md) — related

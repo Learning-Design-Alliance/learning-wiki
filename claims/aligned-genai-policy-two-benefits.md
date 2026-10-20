@@ -45,3 +45,4 @@ The design case reports, as the author's stated outcome of the policy-design pro
 ## Related Claims
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](students-prioritize-training-disclosure-institutional-support-genai-policy.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — a broader claim this one bears on
+- [GenAI is reframed from a threat to academic integrity into a catalyst for more equitable assessment](genai-reframed-integrity-threat-to-equity-catalyst.md) — possibly the same claim (merge candidate)

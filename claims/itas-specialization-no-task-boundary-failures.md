@@ -45,3 +45,4 @@ Author review of logged exchanges from a semester-long pilot deployment of ITAS 
 ## Related Claims
 - [Student chat questions in the pilot were distributed across seven categories, dominated by study strategies (23%), conceptual quantum (20%), and mathematical formalism (17%)](itas-question-category-distribution.md) — related
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](orchestration-layer-generalises-knowledge-layer-adapts.md) — related
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — a broader claim this one bears on

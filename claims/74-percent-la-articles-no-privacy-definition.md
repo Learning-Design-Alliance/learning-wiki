@@ -48,3 +48,7 @@ Scoping review of 59 peer-reviewed LA articles (2011–July 2021) coded independ
 - Among LA articles that define privacy, control (15%) is the most common established definition; none define privacy as a commodity — related
 - Conceptual unclarity in LA: privacy is used interchangeably or in overlapping ways with ethics, security, and anonymity — related
 - In one institution's early-stage learning analytics implementation, inductive coding of interviews and documents surfaced three privacy themes: FERPA compliance, role-based access and security measures, and students' relationship with their data — related
+- [GenAI raises privacy, transparency, bias and accuracy concerns in group work, though empirical evidence remains limited](genai-privacy-bias-accuracy-concerns-limited-evidence.md) — related
+- [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](surface-level-privacy-understanding-users.md) — a narrower finding that bears on this claim
+- [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related
+- [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](ct-processes-over-dispositions-pjbl.md) — a narrower finding that bears on this claim

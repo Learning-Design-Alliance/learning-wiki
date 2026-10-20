@@ -83,3 +83,7 @@ The authors describe their own rigorous study of the ASSISTments platform, which
 - [Providing feedback after initial multiple-choice tests cut lure intrusions on final short-answer tests roughly in half, with immediate and delayed feedback equally effective](feedback-after-multiple-choice-tests-halves-lure-intrusions.md) — related
 - [Teachers adjusted their OCF provision in response to learner reactions, providing feedback when accepted and stopping when it was challenged or ignored](teachers-adjust-ocf-to-learner-reactions.md) — related
 - [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](assistments-data-driven-review-instructional-adjustment.md) — a narrower finding that bears on this claim
+- [Students rarely open transfer-practice cards immediately after solving; they want such problems organized into delayed, spaced wrong-book review instead](transfer-practice-timing-mismatch-delayed-review.md) — related
+- [Expert teachers' well-practiced routines make their performance fluid, as seen in homework-review and lesson-teaching comparisons](expert-teachers-use-routines-for-fluid-performance.md) — related
+- [Preparation-purpose homework benefits students more than same-day extra-time homework](preparation-homework-beats-same-day-homework.md) — related
+- [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — a narrower finding that bears on this claim

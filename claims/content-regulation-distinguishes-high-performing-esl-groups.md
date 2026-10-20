@@ -62,4 +62,4 @@ Sequential analysis of chat-log data from the same 16-week ESL wiki study contra
 
 
 ## Related Claims
--
+- [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related

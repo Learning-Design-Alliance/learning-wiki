@@ -46,3 +46,4 @@ Narrative synthesis of environmental health research in a policy brief, citing S
 - [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related
 - [Reducing student density in classrooms and shared school spaces, combined with precautions such as physical distancing, some mask wearing, and good ventilation, allows for a safer school reopening during COVID-19](reduced-density-precautions-safer-school-reopening.md) — related
 - [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — related
+- [California school facilities are chronically underfunded, with stark facility-condition and spending disparities](california-facilities-underfunded-disparities.md) — related

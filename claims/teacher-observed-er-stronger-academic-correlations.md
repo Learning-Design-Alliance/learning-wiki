@@ -50,3 +50,4 @@ Zero-order correlations in the same sample showed "teacher-observed emotion regu
 - [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related
 - [Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)](self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md) — related
 - [Other-reports of teacher personality are more strongly associated with teacher outcomes than self-reports](other-report-personality-stronger-than-self-report.md) — related
+- [Emotion regulation variables do not predict overall subjective happiness beyond Big Five traits and gender, and only performance-tested ERA predicts school satisfaction](era-limited-support-affective-wellbeing.md) — related

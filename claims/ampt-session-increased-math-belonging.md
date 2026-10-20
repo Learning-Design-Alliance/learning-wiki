@@ -49,3 +49,6 @@ Pre/post attitude study measuring students' attitudes towards mathematics before
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
 - [After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged](ampt-other-attitudes-unchanged.md) — related
+- [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — a broader claim this one bears on
+- [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](belonging-multifaceted-context-dependent.md) — related
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related

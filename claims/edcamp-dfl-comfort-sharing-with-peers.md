@@ -46,3 +46,4 @@ Pre/post survey comparison reported in the Series Impact section. The report pri
 - [Serving as panelists or moderators increased educators' reported expertise, peer-support confidence, and leadership confidence](edcamp-dfl-panelist-moderator-leadership-growth.md) — related
 - [The series reached nearly 1,200 registrations across four events, drawing experienced educators from 22 countries](edcamp-dfl-reach-and-audience.md) — related
 - [Statewide OPTEL webinars showed high self-reported impact on participant knowledge and perceived quality](optel-webinar-high-survey-impact.md) — related
+- [Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech](teacher-practice-experience-over-research-edtech-link.md) — related

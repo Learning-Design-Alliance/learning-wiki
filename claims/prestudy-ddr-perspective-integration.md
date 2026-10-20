@@ -62,4 +62,5 @@ Pre-study Mann-Whitney comparison of the overall knowledge-test scores (Table 3)
 
 
 ## Related Claims
--
+- [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](ddr-script-more-discussions-fewer-edits.md) — related
+- [Wikipedia's bold-edit collaboration script led to lower article quality than a discussion-first alternative script](wikipedia-script-lower-article-quality.md) — related

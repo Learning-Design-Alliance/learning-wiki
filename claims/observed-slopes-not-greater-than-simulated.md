@@ -48,3 +48,4 @@ Comparison of each experiment's observed performance-resolution regression slope
 - [In simulations, resolution metrics become strongly positively related to knowledge once guessing is possible, even when true resolution is constant](simulation-guessing-biases-resolution-metrics.md) — related
 - [Performance-resolution correlation is significant in 2AFC but much smaller and mostly non-significant in free-response testing](resolution-performance-correlation-2afc-not-free-response.md) — related
 - [Resolution metrics are smaller in 2AFC than in free-response testing despite presumably equal knowledge](resolution-smaller-2afc-than-free-response.md) — related
+- [Guessing biases calibration measures toward underconfidence, strongest for the lowest performers](guessing-biases-calibration-toward-underconfidence.md) — related

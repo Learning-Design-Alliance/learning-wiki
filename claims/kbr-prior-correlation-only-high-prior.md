@@ -68,3 +68,4 @@ Pearson correlations among low-prior students in the same ad hoc analysis; neith
 - [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](kbr-predicts-tutor-posttest-conceptual-procedural.md) — related
 - [Prior conceptual and procedural knowledge did not significantly predict tutors' proportion of knowledge-building responses](prior-knowledge-does-not-predict-kbr.md) — reports the opposite
 - [Low-prior-knowledge tutors with high %KBR outperformed their low-%KBR counterparts at post-test and scored statistically equivalent to high-prior peers](low-prior-high-kbr-match-high-prior-peers.md) — related
+- [Tutors showed significant pre-to-post gains in both conceptual knowledge and procedural skill after teaching with adaptive follow-up questioning](significant-prepost-gains-ckt-pst.md) — related

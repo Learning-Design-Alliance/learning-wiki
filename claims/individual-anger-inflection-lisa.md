@@ -46,3 +46,7 @@ Figure 5-based per-student talk-code counts across four ~30-minute segments for 
 
 - [Anger did not preclude high science talk: the most anger-expressing Red City student also had the group's highest science-talk proportion](anger-compatible-with-science-talk.md)
 - [Anger-related science talk rose in parallel until an apparent tipping point in group dynamics](anger-science-talk-tipping-point.md)
+- [Groups' anger-talk proportion was inversely related to science-talk proportion across two teams](anger-science-talk-inverse-groups.md) — related
+- [After a team's tilting episode, its conversation became dominated by anger and lost all game-action talk](tilting-collapses-discussion-quality.md) — related
+- [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](shareback-inflection-point-engagement.md) — related
+- [Anger in collaborative gameplay can drive students to link game mechanics to real-world phenomena to defend their strategies](anger-drives-real-world-game-linking.md) — related

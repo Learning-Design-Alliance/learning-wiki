@@ -94,3 +94,4 @@ This suggests that instructional design for novices should prioritize "how-to" g
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — related
 - [The tribute reports that process and transitional goals could outperform outcome goals in dart-throwing practice](process-transitional-goals-outperform-outcome-goals-dart-throwing.md) — possibly the same claim (merge candidate)
+- [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related

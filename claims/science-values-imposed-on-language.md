@@ -47,3 +47,4 @@ Author's interpretive claim (type e) in the 'Language Is Humanizer' section, cit
 - [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — a narrower finding that bears on this claim
 - [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related
 - [Systematic Phonics Improves Word Reading](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [GPT-4 over-redacts famous names, locations, and mythological creatures that are not PII in educational forum discussions](gpt4-over-redaction-of-non-pii-names-and-locations.md) — related

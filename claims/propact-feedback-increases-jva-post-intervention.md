@@ -54,3 +54,6 @@ Process-level analysis addressing RQ2 in the same within-subjects study: JVA agg
 - [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
 - [Proactive multimodal feedback significantly increases feedback uptake compared to control](propact-feedback-increases-feedback-uptake.md) — related
 - [Levels of joint visual attention are correlated with collaboration quality across collaborative groups](jva-correlated-with-collaboration-quality.md) — related
+- [Proactive multimodal feedback significantly reduces debugging time on task compared to control](propact-feedback-reduces-debugging-time.md) — related
+- [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related
+- [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related

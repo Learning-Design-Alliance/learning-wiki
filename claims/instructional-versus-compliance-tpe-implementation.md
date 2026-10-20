@@ -49,3 +49,5 @@ Report finding drawing on key leader interviews, focus groups, and survey data a
 - [Principals are generally more positive about TPE than teachers, but perception gaps are narrowing](principal-teacher-perception-gap-narrowing.md) — related
 - [Educator agreement with positive TPE statements rose from the 2013 to the 2014 survey, with the strongest increases on SLO support items](year-two-tpe-perceptions-improve-most-on-slo-items.md) — related
 - [Principals and teachers increasingly agree that school and district support for TPE implementation is helpful, with principals more positive than teachers](school-district-support-tpe-helpful.md) — related
+- [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related
+- [Principal-teacher conferences were perceived as more reflective and objective than past evaluations, but many principals lacked the instructional coaching skills for deep discussions of practice](conferences-reflective-but-coaching-skills-lacking.md) — related

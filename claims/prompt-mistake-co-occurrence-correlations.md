@@ -44,3 +44,4 @@ Pearson correlation analysis (Table 4) of coded mistake types among initially in
 
 ## Related Claims
 - [The most common prompt mistakes are omissions of key details, most frequently the specified function return type](omission-key-details-commonest-prompt-mistake.md) — related
+- [Correlations between the number of prompt mistakes and number of messages sent were non-significant or weak, giving little evidence that mistake count influenced prompting effort](mistake-count-message-count-weak-correlation.md) — related

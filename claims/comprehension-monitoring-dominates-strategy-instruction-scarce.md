@@ -51,3 +51,4 @@ Observational results: comprehension totaled 557 minutes (25.6% of instruction) 
 - [Phonics/word study occupied the largest share of observed resource-room reading instruction (32%) at high-average quality, but a quarter was rated weak](word-study-largest-component-high-average-quality.md) — related
 - [Comprehension assessment questioning dominated over instruction, with only six question-answer sessions classified as instruction](assessment-questioning-dominates-instruction.md) — possibly the same claim (merge candidate)
 - [Social studies periods gave little preparation for reading (1.73 percent) and focused assessment questions on facts](social-studies-little-preparation-fact-questions.md) — related
+- [Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes](grades-3-6-near-zero-comprehension-instruction.md) — related

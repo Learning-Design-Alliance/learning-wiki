@@ -46,3 +46,5 @@ Denckla's chapter reports, citing Cutting, Koth, Mahone, and Denckla (2003), tha
 
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md)
 - [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md)
+- [PoorAF children do not differ from controls on tasks retrieving semantic information (words, objects, countries) or verbal routines (proverbs)](pooraf-no-deficit-semantic-verbal-tasks.md) — related
+- [Children with ADHD show lower oral contextual and non-contextual reading fluency than controls despite intact word reading](adhd-reduced-oral-reading-fluency.md) — related

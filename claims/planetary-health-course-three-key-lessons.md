@@ -46,3 +46,6 @@ Educators' reflective commentary on two editions of the course Planetary Health 
 
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — the general claim this finding bears on, with the studies behind it
 - In the course's COIL component, the intercultural environment did not create significantly larger problems than those typically observed in standard group work — related
+- [PD support type and salience depends on a teacher team's current phase in the adaptive learning cycle](pd-support-salience-depends-on-adaptive-cycle-phase.md) — related
+- [Centralized district management of partnerships enabled community schools to deliver programs and services without the burden of managing partnerships](centralized-partnership-management-frees-schools.md) — related
+- [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](ta-engagement-six-elements-interviews.md) — related

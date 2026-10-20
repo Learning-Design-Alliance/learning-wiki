@@ -48,3 +48,4 @@ Observational analysis of CPS administrative grade data for six freshman cohorts
 - [Students with higher eighth-grade achievement saw larger core GPA declines across the transition to high school](higher-achievers-larger-gpa-declines-transition.md) — related
 - [Patterns of GPA decline varied widely across high schools, suggesting school environment plays an important role in the transition](school-variation-gpa-declines.md) — related
 - Ninth-grade GPAs rose steadily in CPS from 2006 to 2013 alongside improvements in test scores, attendance, and behavior — related
+- [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related

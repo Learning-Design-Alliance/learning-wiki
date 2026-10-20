@@ -61,3 +61,4 @@ Authors' characterization of the polling design in the session feedback section:
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [AI-supported project-based learning at YCHS produced authentic student-designed products through iterative prompting and refinement](ai-supported-pbl-authentic-student-products.md) — related
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
+- [A 30-minute generative AI literacy training increased intelligence analysts' overall accuracy at distinguishing real from AI-generated images by 9 percentage points](brief-generative-ai-literacy-training-raises-analyst-image-discrimination-accuracy.md) — related

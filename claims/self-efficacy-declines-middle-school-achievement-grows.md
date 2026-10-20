@@ -48,3 +48,5 @@ Descriptive plots of mean self-efficacy, math, and reading scores by year and EL
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
 - [Teacher emotional support buffers the negative association between low math self-efficacy and low engagement](teacher-emotional-support-buffers-low-efficacy-engagement.md) — related
+- [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — a broader claim this one bears on
+- [An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — related

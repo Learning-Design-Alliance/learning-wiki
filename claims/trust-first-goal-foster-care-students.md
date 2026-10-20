@@ -47,3 +47,4 @@ Qualitative finding from six teacher discussion groups in Fresno, Orange, and Sa
 - [A close bond with at least one caring adult is the most critical protective factor for resilient children](one-caring-adult-protective-bond.md) — a broader claim this one bears on
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](enabling-factors-relationship-centered-transformation.md) — related
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
+- [Close monitoring of school experiences is important for children in their first year of foster care](foster-care-first-year-school-monitoring.md) — related

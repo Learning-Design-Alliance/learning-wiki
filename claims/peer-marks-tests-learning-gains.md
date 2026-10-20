@@ -64,3 +64,6 @@ The review's summary of the tests/marks/grades section, spanning many subject ar
 ## Related Claims
 - [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related
 - [In a 16-week quasi-experiment, A-Level STEM students receiving high-frequency automated marking scored 16.8 percentage points higher on a blind-graded final mock exam than control students with human marking](automated-marking-16-point-mock-gain-a-level-stem.md) — related
+- [Web-SPA peer review activities showed considerable consistency between instructor and peer marks and improved quality of work](web-spa-peer-review-consistency-and-improvement.md) — related
+- [Intervention students reported significantly higher exam confidence than controls (M=4.3 vs 3.4 on a 5-point scale, d=0.76)](automated-marking-higher-exam-confidence.md) — related
+- [88% of AI-assisted students reported increased self-efficacy and confidence during independent practicals](ai-feedback-88-percent-self-efficacy-increase.md) — related

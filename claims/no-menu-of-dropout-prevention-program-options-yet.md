@@ -46,3 +46,5 @@ Theoretical argument from a book chapter drawing on recent federal evaluations o
 ## Related Claims
 - [Positive teacher–student relationships are associated with greater student engagement and, more weakly, with achievement](teacher-student-relationships-improve-engagement.md) — related
 - Drawing promising practices from program evaluations and extant character-development studies is challenging — related
+- [Exploratory heat maps reveal three student groups, including disengaged-but-successful students more prevalent in the Python courses, showing low content completion can link to both positive and negative outcomes](interaction-patterns-three-student-groups-heatmaps.md) — related
+- [Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'](no-common-definition-at-risk-literacy-screeners.md) — related

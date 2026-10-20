@@ -64,3 +64,4 @@ Cross-tabulating self-determination with teacher task engagement code (Table 6),
 ## Related Claims
 - [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](paucity-constructive-interactive-lesson-tasks.md) — related
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
+- [Classroom observations in an affluent district found most teachers did not use deeper-learning strategies, with students passively listening to lectures](ousd-passive-lecture-unchallenged-students.md) — related

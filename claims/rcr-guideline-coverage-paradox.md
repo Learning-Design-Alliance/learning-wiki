@@ -65,3 +65,4 @@ Authors' interpretive explanation offered in the Discussion for why guideline co
 - [Knowledge acquisition in RCR training benefits from individualized learning and application of ethical guidelines, and is hindered by mandatory status and purely theoretical emphasis](rcr-knowledge-moderators-individual-guidelines.md) — reports the opposite
 - [A practical, experiential course emphasis is the best predictor of effective research integrity training across learning outcomes](rcr-experiential-emphasis-best-predictor.md) — related
 - [High-school students and researchers tended to learn more from RCR training than higher-education students and non-research professionals](rcr-learner-group-differences-judgment.md) — related
+- [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — related

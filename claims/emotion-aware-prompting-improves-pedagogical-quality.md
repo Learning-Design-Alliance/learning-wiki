@@ -45,3 +45,4 @@ Automatic evaluation on the MathDial Bridge benchmark (327 human-annotated conve
 ## Related Claims
 - [Emotion features improve tutor performance only when grounded in education-theory-based pedagogical strategies; emotion information alone misguides a smaller model](emotion-plus-theory-prompting-ablation-gain.md) — related
 - [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](misconception-tutor-higher-damr-pedagogical-quality.md) — related
+- [MathBuddy's multimodal emotion aggregation matched participant-reviewed emotions at 60% overall accuracy, with sharply reduced recall for the Neutral class](multimodal-emotion-aggregation-60-percent-accuracy.md) — related

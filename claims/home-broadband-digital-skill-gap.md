@@ -53,3 +53,6 @@ The report cites a study of rural Michigan school districts: "students with no h
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related
 - Lack of home computer and broadband access hinders FAFSA completion policy implementation, particularly in rural and low-income areas — related
 - [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md) — related
+- [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
+- [Adding a listening component to China's college-entrance English exam widened the rural-urban gap in college access by roughly 30 percent, as the article reports citing Li et al.](china-listening-exam-widened-rural-urban-gap.md) — related
+- [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](thirty-percent-students-lacked-internet-or-devices-2018.md) — related

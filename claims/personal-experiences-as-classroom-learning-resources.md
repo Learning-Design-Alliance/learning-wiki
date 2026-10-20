@@ -43,4 +43,8 @@ Stahl summarizes Silseth's dialogic case study of one student's social-studies l
 
 
 ## Related Claims
--
+- [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — related
+- [Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making](teacher-guidance-varied-in-vr-reflections.md) — related
+- [Four dimensions characterize students' meaning making of immersive VR experiences across all eight reflective group dialogues](four-dimensions-of-vr-meaning-making.md) — related
+- [Students' own bodily responses to the VR film became resources in reflective dialogue for characterizing emotional reactions and reinterpreting prior experiences](students-own-bodily-responses-vr.md) — related
+- [Students in an upper secondary classroom experienced the individually-oriented viewing of the VR film Travelling While Black as highly social, despite sitting silently in headset-wearing groups](students-experienced-vr-film-viewing-as-social.md) — related

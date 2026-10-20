@@ -50,3 +50,4 @@ Interview quote from participant P02 in the field study's visualization theme, d
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a broader claim this one bears on
 - [Reasoning with ground-truth auxiliary diagrams consistently outperforms reasoning from the original diagram alone on GeoVAD-Bench](gt-aux-consistently-outperforms-no-aux-geometry.md) — related
+- [Reviews report that the split-attention benefit for novices reverses into a redundancy effect for more experienced learners: Kalyuga et al. (2003) cite Kalyuga et al. (1998) and Yeung et al. (1998), and Ginns (2006) cites Kalyuga et al. (1998)](expertise-reversal-split-attention-redundancy-review.md) — related

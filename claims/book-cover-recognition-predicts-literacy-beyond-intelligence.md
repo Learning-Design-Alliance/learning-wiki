@@ -64,3 +64,6 @@ Model 3 of the letter-knowledge regression (N = 174): book-cover recognition rem
 ## Related Claims
 
 - [Book exposure predicts letter knowledge (about 6% of variance), consistent with meta-analytic evidence that print-related skills improve even from story-content-focused reading](book-exposure-predicts-letter-knowledge.md)
+- [Children's storybook knowledge (book-cover recognition) mediates the relationship between home literacy environment and literacy outcomes](storybook-knowledge-mediates-hle-literacy-link.md) — related
+- [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related
+- [Short-term memory predicts vocabulary over and above book exposure and intelligence](short-term-memory-predicts-vocabulary.md) — related

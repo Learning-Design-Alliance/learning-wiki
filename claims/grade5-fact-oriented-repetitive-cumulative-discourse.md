@@ -45,3 +45,7 @@ Narrative analysis of the Grade 5 Science view (38 students, 346 notes over seve
 ## Related Claims
 
 - [Only Grade 10 Liberal Studies students engaged in simple argumentation, complex argumentation, and theory-oriented interactions, possibly due to the subject's emphasis on argumentation](argumentation-only-in-liberal-studies.md)
+- [The Bidea^ dimension was the most frequent (45.87% of total discourse), with Bfact^ dominant in Grade 5 Science and Bopinion^ dominant in Grade 10 Liberal Studies](idea-dimension-most-frequent-fact-vs-opinion.md) — related
+- [Knowledge-sharing discourse was the most common mode in KF discussions, while knowledge-building discourse was comparatively rare](knowledge-sharing-most-common-knowledge-building-rare.md) — related
+- [Identification is closely related to how and what knowledge students construct in online group discussions](identification-related-to-knowledge-construction.md) — related
+- [Constructive engagement is ecologically organized: amplified by explicit learning-oriented framing, higher in coding than writing, and more visible in sustained exchanges](constructive-engagement-contextual-organization.md) — related

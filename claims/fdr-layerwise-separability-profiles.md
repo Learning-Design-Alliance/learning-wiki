@@ -62,3 +62,4 @@ Coder-model FDR trajectory contrasted with the general model's; projection distr
 
 ## Related Claims
 - [Both models target Higher Bloom levels far more accurately than Lower levels, with the general model outperforming the coder model upward](tza-higher-versus-lower-bloom-targets.md) — related
+- [LLMs show a directional asymmetry in educational control: they reliably increase cognitive demand but struggle to lower it](llm-upward-cognitive-shift-asymmetry.md) — related

@@ -63,3 +63,4 @@ Analytical derivation of the standard error of the unstandardized coefficient: w
 
 ## Related Claims
 - [A low alpha for an error-prone covariate can attenuate, inflate, or artificially produce a spurious effect (phantom effect) in the coefficient of a perfectly reliable predictor](low-alpha-covariate-phantom-effect.md) — related
+- [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — possibly the same claim (merge candidate)

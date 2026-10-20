@@ -43,4 +43,9 @@ ANCOVA on 30 same-sex dyads (18 low, 12 high challenge) from six Dutch schools, 
 
 
 ## Related Claims
--
+- [Low and high social challenge dyads do not differ in the frequency of metacognitive activities](no-frequency-difference-metacognitive-activities.md) — related
+- [High challenge dyads show an isolated bi-directional cycle between social challenge and off-task activities, while low challenge dyads' challenges feed into metacognitive activities](challenge-off-task-vicious-cycle-high-challenge.md) — related
+- [High social challenge dyads show more off-task activities than low social challenge dyads](high-challenge-dyads-more-off-task.md) — related
+- [Low social challenge dyads verbalize more cognitive processing and more high-cognition than high social challenge dyads](low-challenge-dyads-more-cognition-frequencies.md) — related
+- [In low challenge dyads the metacognitive activities are closely interconnected, whereas in high challenge dyads monitoring is disconnected from other metacognitive activities](metacognitive-connectivity-differs-by-challenge.md) — related
+- [High-cognition appears only in the low challenge process model and off-task activities only in the high challenge process model](high-cognition-only-low-challenge-model.md) — related

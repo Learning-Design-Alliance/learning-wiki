@@ -48,3 +48,5 @@ Correlation of mean confidence-interval width with age per memory load in the Ca
 - [VSTM performance declines with advancing adult age in raw error, item capacity, precision, and misbinding, even after adjusting for sensorimotor performance](vstm-declines-with-age-all-measures.md) — related
 - [Older age groups overestimate their mathematical and reading competence more than younger age groups, but this may reflect performance differences](age-increased-overestimation-competence-adults.md) — related
 - [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related
+- [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related

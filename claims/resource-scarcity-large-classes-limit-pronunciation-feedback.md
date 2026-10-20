@@ -49,3 +49,4 @@ Narrative synthesis of reviewed studies on classroom conditions. The review repo
 - [CAPT software shows promising results for segmental pronunciation, while prosodic features and fluency still require further research and development](capt-strong-segmentals-weak-prosody.md) — related
 - [Interpersonal audio discussions with feedback and self-assessment elicit a statistically significant increase in introductory L2 learners' perceived pronunciation ability](audio-discussions-increase-perceived-pronunciation-ability.md) — related
 - [Guided ASR practice did not produce statistically significant improvement in any specific pronunciation error type, with some errors unimproved or regressed](asr-specific-error-types-no-significant-gains.md) — related
+- [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related

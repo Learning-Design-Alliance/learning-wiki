@@ -52,3 +52,4 @@ Dose-analysis subsample of the cluster randomized study, restricted to students 
 - The Pathblazer reading component had a positive and statistically significant impact on grade 3–5 reading achievement in a one-semester cluster randomized trial — related
 - Pirate Math tutoring raises math achievement of low-achieving third graders with an effect size of +0.37 on Key Math — related
 - [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
+- [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related

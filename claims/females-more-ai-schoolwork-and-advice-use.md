@@ -54,3 +54,4 @@ Pre-workshop logistic regression controlling for year level and school on the ba
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — reports the opposite
 - [LLM learners are younger, more likely male, and score higher on technology affinity than non-learners](llm-learners-younger-male-higher-tech-affinity.md) — reports the opposite
+- [Male respondents were significantly more likely than non-male respondents to have no concern about their labour being used for military purposes](gender-difference-military-labour-concern.md) — related

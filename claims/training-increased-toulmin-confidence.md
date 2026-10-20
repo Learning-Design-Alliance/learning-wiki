@@ -49,3 +49,4 @@ Paired-samples t-test in the experimental group (n = 24) comparing posttest conf
 - [Participants unanimously reported increased confidence in acting performance over the course of the intervention](srl-intervention-increased-acting-confidence.md) — related
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [Writing self-efficacy typically improves over a single academic term but fluctuates and drops when students enter new writing contexts](writing-self-efficacy-change-over-time.md) — related
+- [Peer-to-peer prompts show promising effects on collaborative argumentation, consensus, and perceived efficacy, suggesting new roles for peer learning in classrooms](peer-prompts-argumentation-consensus-efficacy.md) — related

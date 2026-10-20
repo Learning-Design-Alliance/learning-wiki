@@ -50,3 +50,4 @@ Observational comparison of MAP Growth median percentile ranks between a spring 
 - [By spring 2021 students remained behind typical prepandemic achievement averages in both math and reading](spring-2021-students-behind-prepandemic-averages.md) — related
 - [End-of-2021-22 student achievement remained lower than a typical year, with larger declines in math (5 to 10 percentile points) than reading (2 to 4 percentile points)](spring-2022-achievement-below-typical-math-declines-larger.md) — related
 - [After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement](espark-no-nwea-achievement-gains-first-grade.md) — related
+- [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — related

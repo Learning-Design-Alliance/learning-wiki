@@ -48,3 +48,6 @@ Focus-group finding from a high school teacher describing app-based messaging du
 - [Virtual meeting options gave parents more flexible scheduling opportunities to communicate with educators during remote schooling](virtual-meetings-flexible-parent-communication.md) — related
 - [Caregiver uptake of the Family MUAC two-way SMS intervention was high](family-muac-sms-high-uptake.md) — related
 - [Direct SMS communication with healthcare workers strengthened patient-provider relationships and trust](sms-communication-strengthens-patient-provider-relationships.md) — related
+- [Teachers and caregivers called for additional guidance and support in their communication and collaboration](educators-insufficient-guidance-family-communication.md) — related
+- [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
+- [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related

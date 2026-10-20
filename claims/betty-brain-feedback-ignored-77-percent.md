@@ -43,4 +43,5 @@ Video data analysis of students using Betty's Brain found that "77 % of the feed
 
 
 ## Related Claims
--
+- [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related
+- [Students' learning strategies can be detected and interpreted from activity sequences in the Betty's Brain open-ended learning environment](bettys-brain-strategy-detection-activity-sequences.md) — related

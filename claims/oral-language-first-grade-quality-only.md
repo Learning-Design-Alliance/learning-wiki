@@ -53,3 +53,4 @@ Longitudinal SEM of kindergarten component skills predicting first-grade outcome
 - [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
 - [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related
+- [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related

@@ -83,3 +83,4 @@ The brief asserts, without presenting evidence or data, that it is "all too easy
 - [Subject matter interviews reveal barriers to evidence use in government: untimely evidence, research not geared to decision-makers, limited understanding of evidence, and organizational influences](interview-barriers-evidence-use-government.md) — related
 - [Curiosity balanced against knowledge-gap overwhelm drives prolonged engagement and memory](curiosity-knowledge-gap-balance-engagement-memory.md) — related
 - [Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights](unified-talent-data-system-generates-prioritization-insights.md) — related
+- [Small changes in the way information is presented can have a large impact on a person's decision to participate in a program](small-presentation-changes-large-participation-impact.md) — related

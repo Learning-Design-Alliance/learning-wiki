@@ -43,3 +43,5 @@ Model fitness assessment in the structural model evaluation (Table 6). R² value
 ## Related Claims
 - [The dual-appraisal model explains 42.7% of variance in trust in AI and 45.9% of variance in GenAI dependence](dual-appraisal-model-explained-variance-trust-dependence.md) — related
 - [The model explains 62.50% of variance in AI teaching innovation behavior, with moderate predictive relevance and good fit](model-explains-variance-in-ai-teaching-innovation-behavior.md) — related
+- [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
+- [Between-student differences explain a large fraction of CASED label variance, limiting what any clip-level visual model can learn](between-student-label-variance-limits-clip-models.md) — related

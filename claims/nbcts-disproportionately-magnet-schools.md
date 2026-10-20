@@ -47,3 +47,6 @@ Descriptive analysis of CPS personnel records and Chicago Office of NBPTS data c
 - The match between principal race/ethnicity and the majority race of students in CPS schools increased over time — related
 - [The home digital divide narrowed by 2003 and schools partially compensated, with predominantly African-American elementary students using school computers more than integrated-school students](digital-divide-narrowed-schools-partially-compensating.md) — related
 - [Magnet schools show positive effects on achievement, graduation, motivation, intergroup relationships, and satisfaction, and well-integrated magnets attract high parental demand](magnet-school-positive-effects.md) — related
+- [A digital divide exists in Chicago students' home technology use, but schools do not strongly magnify it along racial or income lines](digital-divide-home-not-magnified-by-schools.md) — related
+- [African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones](multiple-magnet-zone-access-varies-by-ethnicity.md) — related
+- [Magnet elementary schools enroll larger percentages of white and Asian students and smaller percentages of Latino and African-American students than non-magnet schools](magnet-elementary-composition-differs-from-cps.md) — related

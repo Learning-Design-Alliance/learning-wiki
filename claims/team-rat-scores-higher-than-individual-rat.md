@@ -60,3 +60,4 @@ Quasi-experimental comparison within two sections of a junior/senior-level Behav
 - Students report significantly higher accountability, preference for TBL, satisfaction, and total scores than neutral after the TBL module — related
 - [In both TBL formats, tRAT and iSAT scores significantly improve over preceding iRAT scores](tbl-trat-isat-improve-over-irat.md) — related
 - [Dental students in a revised TBL format and medical students in the original format performed similarly on iRAT and tRAT sessions, in a non-randomised comparison of two cohorts](tbl-formats-similar-irat-trat-performance.md) — related
+- [Students' IRAT scores were consistently poorer than their TRAT scores, suggesting team collaboration benefits team test performance](trat-scores-exceed-irat-scores.md) — a broader claim this one bears on

@@ -49,3 +49,5 @@ Mental effort was rated on a 9-point Paas scale after each problem and transfer 
 - [Task sequence effects on mental effort reverse between learning phase and transfer test](effort-reversal-learning-versus-transfer-phase.md) — related
 - [People overestimate how much mental effort AI assistance alleviates (offloading illusion), driven by overestimating the effort of independent completion while AI-assisted effort is accurately estimated](offloading-illusion-ai-effort-savings.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
+- [Illusion of control impairs transfer performance: learners whose expected control matched actual control outperformed learners with an illusion of control](illusion-of-control-impairs-transfer.md) — related
+- [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md) — related

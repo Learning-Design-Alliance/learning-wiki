@@ -64,3 +64,4 @@ The same middle school study found returns level off after 12 years, yet printed
 ## Related Claims
 - [A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers](florida-experience-effects-no-high-school-returns.md) — related
 - [In a North Carolina high school study with teacher fixed effects, achievement returns to experience rose up to 20 years, from about 0.06 SD at 1–2 years to about 0.27 SD beyond 27 years](north-carolina-high-school-returns-twenty-years.md) — related
+- [Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies](teaching-experience-positive-achievement-gains-review.md) — a broader claim this one bears on

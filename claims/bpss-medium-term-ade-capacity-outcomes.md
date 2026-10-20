@@ -45,3 +45,4 @@ The logic model's medium-term outcomes column prints a set of ADE capacity goals
 ## Related Claims
 - [The BPSS logic model targets increased college readiness among Arkansas student populations with persistent outcome disparities](bpss-goal-college-readiness-disparity-populations.md) — related
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related
+- [The BPSS logic model sets reduced discipline disparities as a long-term student outcome for THRIVE and AIIM districts](bpss-long-term-discipline-disparity-outcome.md) — related

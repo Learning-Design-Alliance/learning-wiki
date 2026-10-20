@@ -65,3 +65,4 @@ Same section: students suggest options like a journalism English course fulfilli
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Students value knowing class routines and report that rushed pacing, especially in Advanced Placement courses, is a barrier to mastering content](students-report-routines-help-and-rushed-pacing-hurts.md) — related
+- [Students with busy schedules are wary of mandatory services such as orientation and student success courses, but want high quality if services are mandatory](students-wary-of-mandatory-services.md) — related

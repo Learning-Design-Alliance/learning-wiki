@@ -70,3 +70,4 @@ The review reports disagreement about when the male advantage first appears, att
 - [Congressional hearing testimony reports, citing a 1979 ETS study second-hand, that females tend to do better on test items with female or neutral figures than on items with male figures](male-oriented-item-content-biases-test-scores.md) — related
 - [Basic conclusions about male-female achievement gaps and changes in gaps as students progress through school may change when models account for test effort](male-female-gap-conclusions-sensitive-to-test-effort.md) — related
 - [Affective variables and gender do not relate to picture effects on elementary schoolers' word problem-solving performance](affective-gender-no-moderation.md) — related
+- [In one word-problem study, females gained significantly when the formatted procedural plan came after an unformatted test, and scored lower when the formatted test came first](females-benefit-free-exploration-then-plan.md) — related

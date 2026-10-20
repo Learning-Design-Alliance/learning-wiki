@@ -62,4 +62,9 @@ Hierarchical regression in Study 2 (n = 111, practice tests plus immediate indiv
 
 
 ## Related Claims
--
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](practice-tests-improve-judgment-sensitivity.md) — related
+- [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md) — related
+- [Taking initial multiple-choice tests without feedback can lead students to later produce the incorrect lure answers they selected, even when an overall retrieval practice benefit occurs](multiple-choice-lures-can-be-learned-as-false-knowledge.md) — related
+- [Initial short-answer tests outperform initial multiple-choice tests mainly when feedback follows them; without feedback, the higher initial success of multiple-choice tests can favor multiple-choice](feedback-determines-whether-short-answer-retrieval-outperforms-multiple-choice.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](practice-tests-improve-absolute-judgment-accuracy.md) — related

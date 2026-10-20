@@ -62,3 +62,4 @@ Risk finding from the systematic review's thematic analysis of 50 empirical stud
 - [Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy](customized-ai-writing-positive-outcomes.md) — related
 - [Three multilingual international students critically evaluated AI feedback, recognized peer-AI agreement, and maintained their voices while revising](multilingual-students-critically-evaluate-ai-feedback-pairr.md) — related
 - AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — related
+- [Teachers express concern that student overreliance on AI may degrade independent thinking and hands-on scientific skills](teacher-concern-overreliance-ai-degrades-skills.md) — related

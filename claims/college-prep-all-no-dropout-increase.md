@@ -80,3 +80,5 @@ Authors' interpretation in the Discussion of the null graduation finding from th
 - Completing the recommended number of core academic courses does not ensure college preparation because the New Basics curriculum does not specify course content — related
 - [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related
 - Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates — related
+- [Grade retention and tracking students into remedial instruction undermine achievement, while formative assessment with acceleration strategies improves learning](retention-and-downtracking-undermine-achievement.md) — related
+- [College enrollment and persistence did not improve after the science requirement, and college-going declined in later years](cps-science-requirement-no-college-gains.md) — related

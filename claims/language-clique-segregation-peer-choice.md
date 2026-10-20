@@ -67,3 +67,5 @@ Program director interview: high attrition and student mobility kept numbers in 
 - [Homogeneous problem perceptions predict better regulation outcomes in collaborative groups](homogeneous-problem-perceptions-predict-regulation-success.md) — related
 - Heterogeneous introduction to ID and references nonetheless yield homogeneous practice responses — related
 - [Heterogeneously grouped teams show more benefits than homogeneously formed teams](heterogeneous-teams-more-benefits-than-homogeneous.md) — related
+- [Contrary to program guidelines, English acquisition was given priority over Spanish acquisition in practice](english-priority-over-spanish-in-practice.md) — related
+- [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](cultural-diversity-cooperative-task-increases-childrens-creativity.md) — reports the opposite

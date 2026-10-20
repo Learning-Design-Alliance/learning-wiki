@@ -53,7 +53,7 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 | [Ali Bicer 2026](https://doi.org/10.1007/s11858-026-01816-1) | q2 · qualitative · r3 | i? | [Progressive scaffold fading moved teachers from guided participation toward independent ju](ai-scaffold-fading-independent-justification.md) (supports) |
 | [Matthias Stadler 2024](https://doi.org/10.1016/j.chb.2024.108386) | q2 / q3 · causal · r2 | i2; i? | [Students using Google produce higher-quality justifications in their final recommendations](web-search-higher-quality-justifications-than-llm.md) (counts against); [Germane cognitive load fully mediates the effect of information-search tool on justificati](germane-load-mediates-tool-effect-on-justification-quality.md) (qualifies) |
 | [Voicu 2026](https://doi.org/10.61071/jdp.2665) | q2 · qualitative · r2 | i? | [Hybridization of authorship blends human and AI-generated content, often without learners'](hybridization-of-authorship-argumentation.md) (counts against) |
-| [Mireia Vendrell 2026](https://doi.org/10.1016/j.caeai.2026.100572) | q2 · theoretical · r2 | i? | [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weake](unstructured-llm-use-cognitive-offloading.md) (qualifies) |
+| [Mireia Vendrell 2026](https://doi.org/10.1016/j.caeai.2026.100572) | q1 · theoretical · r2 | i? | [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weake](unstructured-llm-use-cognitive-offloading.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -72,3 +72,5 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 - [GenAI-supported peer feedback groups achieved higher structural complexity of argumentation artifacts than peer-feedback-only groups](genai-peer-feedback-raises-argument-structural-complexity.md) — related
 - [GenAI-supported peer feedback groups produced more suggestions and explanations and less positive affective feedback than the PF group](genai-peer-feedback-shifts-feedback-quality-profile.md) — related
 - [GenAI-assisted education produces significantly higher academic achievement than non-GenAI-assisted approaches (g = 0.40)](genai-higher-academic-achievement-g040.md) — related
+- [Pre-service teachers who received NLP-based adaptive feedback were better able to justify their diagnoses than those who received static feedback (reported from Sailer et al.)](adaptive-feedback-improves-diagnosis-justification.md) — related
+- [Students bound their reliance on AI feedback and advocate a hybrid model assigning AI broad language concerns and instructors individualized relational guidance](bounded-reliance-hybrid-feedback-preference.md) — related

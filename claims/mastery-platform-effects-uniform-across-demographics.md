@@ -48,3 +48,5 @@ Moderation analysis within the same longitudinal panel study examined treatment 
 - [The impact of FAST did not differ significantly by student subgroups or school characteristics in the RCT](fast-no-subgroup-differential-impact.md) — related
 - [Longitudinal within-student analysis of a mathematics mastery learning platform replicates positive effects on standardized math test scores](mastery-platform-longitudinal-positive-effects.md) — related
 - [The planning-prompt effect on MOOC completion is largest for students enrolled in traditional schools](planning-prompt-effect-larger-traditional-school-students.md) — related
+- [The exam playbook intervention showed no statistically significant treatment-effect differences by gender, race, class standing, or prior performance](exam-playbook-no-subgroup-treatment-differences.md) — related
+- [Student test effort differs substantially across student gender and racial subgroups](test-effort-differs-across-gender-racial-subgroups.md) — related

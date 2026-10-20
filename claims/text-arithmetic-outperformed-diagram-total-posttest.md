@@ -47,3 +47,4 @@ Experiment with 123 pupils in a between-subjects pre-test post-test design acros
 - [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](text-arithmetic-improved-procedural-knowledge.md) — possibly the same claim (merge candidate)
 - [Learning with tree diagrams increased experienced cognitive load across intrinsic, extraneous, germane, and overall measures](tree-diagrams-increase-cognitive-load.md) — related
 - [Adding equations to tree diagrams reduced cognitive load but did not improve learning outcomes](adding-equations-to-diagrams-reduced-load-not-outcomes.md) — related
+- [Representational format produced no significant differences in conceptual or situational knowledge](no-format-effect-conceptual-situational-knowledge.md) — related

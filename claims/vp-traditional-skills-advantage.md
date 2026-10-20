@@ -68,3 +68,4 @@ Random-effects meta-analysis of randomized trials comparing virtual patients wit
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
+- [Live simulations with real patients showed the greatest effects among simulation types (g = 2.27, medical education only)](simulation-type-moderates-effectiveness.md) — related

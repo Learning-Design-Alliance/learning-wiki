@@ -47,3 +47,8 @@ The abstract describes the article's scope: it treats "methods for identifying i
 - [Very short response times (rapid guessing) indicate disengaged test taking in both high-stakes and low-stakes testing contexts](rapid-guessing-indicates-disengaged-test-taking.md) — related
 - [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related
+- [Rapid-guessing behavior occurs on only about 1% of item responses in a commercially available low-stakes assessment](rapid-guessing-one-percent-commercial-low-stakes-assessment.md) — a narrower finding that bears on this claim
+- [Rapid guessing differs from solution behavior as a form of test-taker disengagement](rapid-guessing-differs-from-solution-behavior.md) — related
+- [Current measurement models underlying achievement testing assume students respond effortfully to test items](measurement-models-assume-effortful-responding.md) — related
+- [Rapid-guessing behavior can distort test scores and adversely affect measurement](rapid-guessing-distorts-test-scores-and-measurement.md) — related
+- [Identifying rapid guessing is important for the validity of achievement test scores, particularly with low-stakes tests](rapid-guessing-identification-important-for-score-validity.md) — related

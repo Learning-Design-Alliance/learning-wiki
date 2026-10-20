@@ -43,3 +43,7 @@ Exploratory enter-method regressions on science and maths separately (N = 81): S
 ## Related Claims
 
 - [Adolescents show lower accuracy and longer reaction times on counterintuitive misconception trials than on matched control trials in science and maths](misconception-trials-lower-accuracy-longer-rt-than-control.md)
+- [Inhibitory control did not relate to adolescents' communicative perspective-taking](inhibitory-control-not-related-perspective-taking.md) — related
+- [Better semantic inhibition (smaller Stroop RT cost) is associated with higher accuracy on counterintuitive science and maths misconception trials](semantic-inhibition-predicts-misconception-accuracy.md) — a broader claim this one bears on
+- [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related
+- [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](trial-statement-interaction-science-not-maths.md) — related

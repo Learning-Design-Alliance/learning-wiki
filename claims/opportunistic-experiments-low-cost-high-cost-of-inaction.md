@@ -45,3 +45,4 @@ The guide's concluding argument, stated as an authors' interpretive claim rather
 ## Related Claims
 - Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews — related
 - Opportunistic RCTs can generate strong evidence for education decisions with minimal added cost and disruption — possibly the same claim (merge candidate)
+- [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](ai-web-agents-accelerate-online-learning-advancements.md) — related

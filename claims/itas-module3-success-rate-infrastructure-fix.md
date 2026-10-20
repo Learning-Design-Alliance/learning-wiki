@@ -64,3 +64,5 @@ Aggregate code execution telemetry from the same pilot deployment: 387 total exe
 ## Related Claims
 - [In archived sessions, no operator code changes or quantum-logic corrections were needed; eight of nine notebook executions only required one permitted fix of a missing visualization dependency](archived-qiskit-sessions-needed-only-environment-fixes.md) — related
 - [ChatGPT could not execute R code for statistics MCQs, achieving 60% accuracy when its code was run with corrected dataset naming](chatgpt-r-code-questions-60-percent-accuracy.md) — related
+- [ChatGPT answered unsupervised web-based MCQ assessments with a mean accuracy of 70% (range 35–100%)](chatgpt-wba-mcq-mean-70-percent.md) — related
+- [Optional IBM Quantum hardware execution supplied extra evidence but did not remove substantial AI assistance, as ChatGPT generated the code and could interpret returned noisy data](hardware-execution-did-not-eliminate-llm-assistance.md) — related

@@ -49,3 +49,6 @@ Thematic analysis of the same cohort's policy artifacts and discussions, reporte
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](students-prioritize-training-disclosure-institutional-support-genai-policy.md) — a narrower finding that bears on this claim
 - [Teacher autonomy for AI decision-making varies sharply across national contexts](teacher-autonomy-ai-varies-nationally.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
+- [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related

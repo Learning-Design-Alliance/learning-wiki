@@ -69,3 +69,4 @@ Descriptive comparison of the academic qualifications of fall versus spring firs
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
 - Two-year enrollment declines were concentrated among Black and Latinx CPS graduates, while four-year rates held steady for these groups — related
 - [Including spring first-time enrollees changes CPS graduates' immediate college enrollment rates by no more than two percentage points in any cohort](spring-enrollees-inclusion-small-enrollment-rate-change.md)
+- [Latinx two-year college students' spring-to-fall return rates declined most among race/ethnicity and gender groups in 2020](cps-2020-latinx-two-year-return-declines.md) — related

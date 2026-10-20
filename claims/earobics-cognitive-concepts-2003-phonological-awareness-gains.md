@@ -71,3 +71,6 @@ Same RCT analysis sample of 74 students. Appendix A3.1 shows effect sizes of 0.0
 - [In an Anchorage RCT with severe differential attrition, Earobics® effects on alphabetics were not statistically significant and one subtest showed a substantively important negative effect](earobics-rehmann-2005-null-and-negative-effects.md) — related
 - Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each) — related
 - [Technology-enhanced stories show no significant additional effect on code-related literacy skills](technology-stories-no-code-related-literacy-effect.md) — related
+- [In a Florida RCT, Earobics® outperformed no-supplement control on several DIBELS subtests but showed no significant advantage over Lexia Early Reading](earobics-gale-2006-versus-control-and-lexia.md) — related
+- [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — related
+- [Teaching phonological awareness and print knowledge improved decoding performance even without decoding instruction, and adding decoding instruction more than doubled the weighted effect size](pa-pk-improve-decoding-without-decoding-instruction.md) — related

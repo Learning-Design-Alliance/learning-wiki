@@ -52,3 +52,5 @@ Qualitative findings from community-based mathematics projects, including a camp
 - [AMPT gave students the opportunity to express themselves and see their interests reflected in the math domain](ampt-interests-reflected-in-math.md) — related
 - [Students confident about their mathematical ability are mostly also convinced of the relevance of mathematics, forming a motivational basis; low-confidence students are hard to motivate](self-confidence-and-value-clustering-motivational-basis.md) — related
 - [Urban Latina/o students largely defined mathematics narrowly as numbers and success via external measures](latino-students-narrow-math-conceptions.md) — related
+- [Students positioned as leaders thickened an “agents of change” identity by using surveys, data, and graphs to convince others, including teachers](agents-of-change-identity-thickened-through-data-mobilization.md) — a narrower finding that bears on this claim
+- [Systemic approach in in-service teacher education promotes holistic thinking but short, fragmented training hinders it (review reports Khisty, 1997)](systemic-approach-in-service-teacher-education.md) — related

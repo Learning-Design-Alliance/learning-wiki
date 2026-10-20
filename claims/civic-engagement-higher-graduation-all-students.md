@@ -53,3 +53,4 @@ High school findings from the observational CPS analysis: school civic engagemen
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
 - [As of 2018, 42 states required a civics or government course, 8 required a full year, and 19 required a civics exam to graduate](state-civics-graduation-requirements-2018.md)
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related

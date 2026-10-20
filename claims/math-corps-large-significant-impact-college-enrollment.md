@@ -49,3 +49,4 @@ A quasi-experimental retrospective analysis by Mathematica of long-term outcomes
 - [KIPP middle school admission offers had a positive but statistically non-significant effect on enrollment in four-year college programs](kipp-middle-offer-nonsignificant-four-year-enrollment.md) — related
 - [Math Corps students made large and statistically significant gains on the Math Corps exam between the start and end of camp in all three replication sites](math-corps-significant-exam-gains-replication-sites.md) — related
 - [Attendance at Math Corps was strong at all three replication sites](math-corps-strong-attendance-replication-sites.md) — related
+- [Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts](wraparound-support-increases-college-completion.md) — related

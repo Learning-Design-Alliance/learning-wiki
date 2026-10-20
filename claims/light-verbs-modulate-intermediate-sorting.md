@@ -47,3 +47,5 @@ Hierarchical cluster analysis (Euclidean distance, Ward’s method) of co-occurr
 
 ## Related Claims
 - [Korean EFL learners sort sentences increasingly by construction rather than by verb as grade level increases](construction-based-sorting-increases-with-grade-level.md) — related
+- [The transitive construction is acquired earliest while the resultative construction poses difficulty even for advanced learners](transitive-earliest-resultative-hardest.md) — related
+- [Learners’ proficiency correlates with constructional sorting and translation performance, countering a purely age-based explanation](proficiency-correlates-with-sorting-and-translation.md) — related

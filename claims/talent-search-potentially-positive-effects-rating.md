@@ -48,3 +48,5 @@ WWC intervention rating for the completing school domain (Appendix A4). Criterio
 - [Talent Search participants in Texas completed high school or GED at a significantly higher rate than matched comparison students (86% vs. 77%)](talent-search-texas-higher-completion-rate.md) — a narrower finding that bears on this claim
 - [Across the two qualifying studies, Talent Search shows an average improvement index of +17 percentile points on completing school](talent-search-average-improvement-index-completing-school.md) — a narrower finding that bears on this claim
 - [Talent Search participants were more likely than matched comparison students to apply for federal financial aid](talent-search-more-likely-apply-federal-financial-aid.md) — related
+- [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related
+- [Practical college-access information may have been a key service Talent Search delivered](practical-information-key-talent-search-service.md) — related

@@ -44,3 +44,7 @@ An exploratory meta-regression combined math complexity and metacognition measur
 
 ## Related Claims
 - [The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement](measure-type-moderates-srl-achievement-relation.md) — a broader claim this one bears on
+- [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md) — related
+- [Metacognitive measures show large variability, and online measures relate to each other more than to offline measures](online-offline-metacognitive-measures-dissociate.md) — related
+- [Online (versus offline) measures of metacognition are associated with larger metacognition–math effect sizes](online-mc-measures-larger-effects.md) — a broader claim this one bears on
+- [More complex (versus simple) math performance measures are associated with larger metacognition–math effect sizes](complex-math-measures-larger-effects.md) — related

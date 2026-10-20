@@ -46,3 +46,4 @@ The review's distribution analysis of 63 studies found 43 of 59 level-reporting 
 
 - [Research on generative AI in secondary STEM education is concentrated in the Global North, with 73% of affiliations and the United States accounting for 30% of publications](global-north-concentration-generative-ai-stem-research.md)
 - [AI-motivation research is geographically and educationally concentrated: over half of reviewed studies were conducted in China and most in higher education](ai-motivation-research-china-higher-ed-concentration.md)
+- [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — a narrower finding that bears on this claim

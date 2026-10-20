@@ -54,3 +54,7 @@ Delayed posttest administered 2 weeks after the first session to 14 of the initi
 - [The advantage of dual coding elucidation for correct lexical usage persists over a four-week delay](dual-coding-lexical-effects-persist-four-weeks.md) — related
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related
 - [Final-test reading comprehension after retrieval practice does not differ significantly between an immediate test and a test delayed by three weeks](retrieval-practice-reading-comprehension-no-significant-retention-interval-difference.md) — related
+- [Vocabulary knowledge gained through extensive reading showed little decay on a three-month delayed posttest, with relative gains ranging from 21.05% (low-level) to 59.01% (high-level)](little-decay-three-month-delayed-posttest-extensive-reading.md) — related
+- [Reading times for unknown words decrease significantly after three to four encounters, and by eight encounters unknown words are read like known words](reading-times-drop-three-four-encounters.md) — related
+- [Vocabulary retention declines between immediate and first delayed recall, then rises slightly between the first and second delayed tests](vocabulary-forgetting-pattern-decline-then-rise.md) — related
+- [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related

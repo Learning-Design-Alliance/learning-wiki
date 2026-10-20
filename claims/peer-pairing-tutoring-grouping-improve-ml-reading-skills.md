@@ -50,3 +50,4 @@ Synthesis of RQ2 findings from reviews including Pyle et al. (2017) and Tang et 
 - [Phonemic Awareness Training Improves Reading](phonemic-awareness-training-improves-reading.md) — related
 - [Instruction in language, phonological awareness, and decoding improved performance in the taught domain, while interventions teaching print knowledge or early writing exclusively did not](taught-domain-instruction-improves-taught-domain.md) — related
 - [Teaching phonological awareness and print knowledge improved early writing performance with or without early writing instruction](pa-pk-improve-early-writing.md) — related
+- [Teaching phonological awareness and print knowledge improved decoding performance even without decoding instruction, and adding decoding instruction more than doubled the weighted effect size](pa-pk-improve-decoding-without-decoding-instruction.md) — related

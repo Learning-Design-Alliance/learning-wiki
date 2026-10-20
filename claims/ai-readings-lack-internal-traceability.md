@@ -64,3 +64,5 @@ The same automated screen identified institution-specific assertive statements. 
 ## Related Claims
 
 - [Interest tailoring was structurally present in AI-generated readings: logs averaged 52.24 tailoring markers per 10,000 words and showed moderate divergence (cosine similarity 0.50–0.61)](interest-tailoring-structural-in-reading-logs.md)
+- [Standardized repair and source-verification gating produced structurally complete, source-traceable feedback for most generated messages](repair-and-source-gating-feedback-completeness.md) — related
+- [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — related

@@ -44,3 +44,5 @@ Post-convening survey of district leaders administered after the Melbourne conve
 - [Most convening participants strongly agreed they could collaborate with district colleagues during the Melbourne convening](convening-collaboration-decision-makers-implementors.md) — related
 - [Most working-group district leaders reported planning or already implementing concrete SEL changes within two months of the Melbourne convening](sel-working-group-districts-implement-changes.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
+- [District improvement teams valued CALLI for peer learning, expert access, and structure that built capacity for continuous improvement](calli-districts-valued-peer-learning-experts-structure.md) — related
+- [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related

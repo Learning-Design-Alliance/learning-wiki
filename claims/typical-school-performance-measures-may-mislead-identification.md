@@ -45,3 +45,4 @@ The publication's framing statement asserts, without reported data in the provid
 ## Related Claims
 - [A predictive model built on school and child welfare data was assessed for identifying at-risk students in two Allegheny County education agencies](risk-model-assessed-two-allegheny-agencies.md) — related
 - [Traditional annual state assessment growth measures typically cover only reading and math in grades 4-8, limiting their use in teacher evaluation](state-assessment-growth-measures-limited-reading-math-grades-4-8.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related

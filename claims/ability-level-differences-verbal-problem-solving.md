@@ -72,3 +72,6 @@ As hypothesized, the treatment-by-ability interaction was non-significant on bot
 - Hourly-exam differences between groups occurred on trigonometry tests rather than algebra tests — related
 - [In a cluster randomized study across 73 high schools, Carnegie Learning students scored higher on the Algebra Proficiency Exam, with cohort effect sizes of +0.07 and +0.21](carnegie-learning-algebra-i-cluster-randomized-cohorts.md) — related
 - [Ninth grade algebra students solve verbally presented problems better than symbolically presented problems](students-verbal-problems-easier-than-symbolic.md)
+- [On the problem solution criterion, verbal problem solving scores do not decline over four weeks and rise on the more complex problems](verbal-problem-scores-resistant-to-forgetting.md) — related
+- [Polya Method students outscore Dahmus Method students on the equation criterion for verbal problems](polya-method-beats-dahmus-on-equation-criterion.md) — related
+- [Dahmus Method students translated phrases successfully but failed to combine them into a single solution equation](dahmus-students-translate-but-no-single-equation.md) — related

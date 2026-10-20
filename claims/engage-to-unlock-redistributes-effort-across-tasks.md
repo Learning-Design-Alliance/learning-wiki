@@ -53,3 +53,6 @@ In the controlled four-condition Prolific experiment (N=398), planned interactio
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related
 - [Eye movements shift from easy, low-support tasks during early selections to faster orientation toward more difficult tasks during final selections](eye-tracking-shift-toward-difficult-tasks.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
+- [Practicing with AI was less effortful than practicing alone, with participants spending less time and logging fewer keystrokes](ai-practice-less-effortful-fewer-keystrokes.md) — related
+- [Engage-to-Unlock improved error-classification accuracy over Standard Chatbot but showed no significant advantage in overall judgment accuracy or complete diagnosis](engage-to-unlock-error-classification-advantage.md) — related
+- [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related

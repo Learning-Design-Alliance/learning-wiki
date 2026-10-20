@@ -63,3 +63,5 @@ Descriptive frequency grid of 476 coded intelligence evidences in the four high 
 
 ## Related Claims
 - [The two textbook series differ significantly in the distribution of intelligences across learning objectives](elt-textbook-series-differ-bloom-mi-grid.md) — related
+- [The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks](interchange-outnumbers-high-school-objectives.md) — related
+- [Comprehension and application were the most frequent learning objectives in both series, with evaluation least frequent](comprehension-application-most-frequent-objectives.md) — related

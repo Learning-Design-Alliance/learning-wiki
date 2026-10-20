@@ -46,3 +46,5 @@ Fig. 3 analysis of SuccScore by pedagogical dimension across both semesters; the
 - [Engagement-based metrics are more robust predictors of students' perceived feedback helpfulness than pedagogical dimensions](engagement-metrics-predict-perceived-helpfulness.md) — related
 - [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](misconception-tutor-higher-damr-pedagogical-quality.md) — related
 - [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](pedagogy-drives-relevance-not-correct-application.md) — related
+- [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
+- [MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment](misconception-tutor-higher-relscore-all-assignments.md) — related

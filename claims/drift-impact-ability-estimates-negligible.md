@@ -50,3 +50,4 @@ Rescoring analysis: up to 3,000 test events were randomly selected in each subje
 - [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
 - [Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students](status-10-items-negligible-score-impact.md) — related
 - [Adding collateral information has little effect on ability and item parameter estimates but more effect on speed parameter estimates](ci-effects-small-on-ability-item-larger-on-speed.md) — related
+- [Outlier rates in Spanish item calibration are extremely low, which the authors take as evidence of very high calibration quality](spanish-calibration-outlier-rates-extremely-low.md) — related

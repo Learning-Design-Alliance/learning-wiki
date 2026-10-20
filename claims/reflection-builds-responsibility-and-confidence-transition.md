@@ -50,3 +50,5 @@ Qualitative finding from the thematic analysis of student reflections in the sur
 - [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Guided reflection embedded in self-assessment supports commencing students to engage responsibly and confidently with GenAI while maintaining academic integrity](guided-reflection-self-assessment-responsible-genai-engagement.md) — a broader claim this one bears on
 - [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related
+- [The study used pre- and post-semester surveys with Likert-scale literacy-confidence items and open-text ethical reflection, thematically analysed](pre-post-survey-likert-open-text-genai-design.md) — related
+- [Students recognised both the benefits and limitations of GenAI, demonstrating ethical awareness and critical evaluation of its role in academic work](students-recognise-genai-benefits-and-limitations.md) — related

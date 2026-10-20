@@ -67,3 +67,8 @@ The credential analysis found interview-inconsistency items uniformly rated beca
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
 - [GenAI-related misconduct allegations rose from 11.9% of all misconduct cases in 2023 to 36.9% in 2025 against a stable total caseload](genai-misconduct-allegations-grew-2023-2025.md) — related
 - [Simple paraphrasing and self-editing counter-measures collapse AI detection rates to near-random levels](paraphrasing-defeats-ai-detectors.md) — related
+- [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
+- [AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated](ai-generated-ethics-materials-fabricated-citations.md) — related
+- [Different evidence types differ in how strongly they can support claims about effectiveness](evidence-types-differ-support-strength.md) — related
+- [Popular plagiarism detection tools detect plagiarism in AI-assisted essays in less than 15% of cases](plagiarism-detectors-below-15-percent-ai-essays.md) — related
+- [Assessment validity is a deeper problem than AI-output detection, and disallowed use clusters with time pressure and unclear expectations](assessment-validity-over-detection.md) — related

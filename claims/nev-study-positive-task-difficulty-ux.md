@@ -46,3 +46,4 @@ Preregistered qualitative study: 14 participants (3 female, 11 male) in semi-str
 - [The with/without-tools difficulty gap narrowed as graph size grew, which the authors read as a positive indication of scalability](nev-scalability-gap-narrows-larger-graphs.md) — related
 - [Perceived task difficulty with the tools was rated much easier than imagined difficulty without them, with gaps of at least 2.5 SEQ points on every task](nev-seq-gap-with-versus-without-tools.md) — related
 - [UEQ-S user-experience ratings were positive across tasks except one hedonic item on Task 1, with pragmatic qualities rated higher than hedonic](nev-ueq-positive-except-task1-hedonic.md) — related
+- [Participants with higher subject expertise completed tasks and used the tools more easily than less experienced participants](nev-expertise-eases-task-completion.md) — related

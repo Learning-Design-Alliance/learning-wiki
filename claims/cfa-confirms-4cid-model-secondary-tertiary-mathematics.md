@@ -45,3 +45,12 @@ Confirmatory factor analysis of FICSMath survey responses from 5,985 college cal
 ## Related Claims
 - FICSMath instructional experiences converge into four 4C/ID-aligned factors: complex tasks (4 items), whole-task concept overviews (17), procedural support (16), and practice opportunities (13) — a narrower finding that bears on this claim
 - The objective-based measure yields a confirmed three-factor structure with acceptable fit in the full sample — related
+- [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
+- [A confirmatory factor analysis across all six studies favored the three-factor model over a unitary-factor model of cognitive load](cfa-three-factor-over-unitary-model.md) — related
+- [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
+- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](mrim-three-factor-structure-pim-mim-eim.md) — related
+- [The ACE-HE measurement model of institutional support for ABC engagement also fits the data well](ace-he-institutional-support-model-good-fit.md) — related
+- [The ACE-HE measurement model of affective, behavioral, and cognitive engagement fits online/blended survey data well](ace-he-engagement-three-dimension-model-good-fit.md) — related
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
+- [The SRL-O supports both ten lower-order subscales and two superordinate factors (motivational beliefs and learning strategies)](srl-o-bifactor-two-superordinate-factors.md) — related
+- [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related

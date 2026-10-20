@@ -44,3 +44,5 @@ Survey-indicator analysis using seven indicators of collective faculty action (t
 
 ## Related Claims
 - About three-quarters of Chicago teachers rate their principals highly on facilitating school development and inclusive leadership — related
+- [Schools weak in most essential supports were four to five times more likely to stagnate than schools with strong overall organizational capacity](weak-essential-supports-four-to-five-times-stagnation.md) — related
+- [An estimated 39-46% of Chicago elementary schools show consolidated principal power while 23-32% show strong democracy](prevalence-four-politics-types-chicago-elementary.md) — related

@@ -44,3 +44,6 @@ Meta-analytic moderator comparison of agent dimensionality across the pooled eff
 
 ## Related Claims
 - [Multimedia learning principles are not clearly attributable to the multicomponent model or to applied multimedia theories](multimedia-principles-not-attributable-to-multicomponent-model.md) — related
+- [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
+- [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — related
+- [Learning with multimedia pedagogical agents is more effective than learning without these agents, with a small overall effect (g+ = 0.20)](pedagogical-agents-small-overall-learning-benefit.md) — related

@@ -50,3 +50,6 @@ Appendix A5 documents the WWC rating decision: Criterion 1 for potentially posit
 - [The WWC rates UCSMP Algebra as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-ucsmp-algebra-potentially-positive.md) — related
 - [The evidence base for Headsprout Early Reading is limited to one small RCT, supporting only a potentially positive rating](headsprout-evidence-base-small-one-study.md) — related
 - [The WWC rated Arthur as having potentially positive effects rather than positive effects because only one study met evidence standards and it lacked a strong design](arthur-potentially-positive-rating-rationale.md) — related
+- [The WWC rated Talent Search as having potentially positive effects on completing school, capped below positive because both studies were quasi-experimental](talent-search-potentially-positive-effects-rating.md) — related
+- [The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small](challengge-single-rct-small-evidence-base.md) — possibly the same claim (merge candidate)
+- [The WWC rates The Expert Mathematician as having potentially positive effects on middle school mathematics achievement](wwc-potentially-positive-rating-expert-mathematician.md) — related

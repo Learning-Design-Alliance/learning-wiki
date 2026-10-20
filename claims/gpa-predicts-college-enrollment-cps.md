@@ -68,3 +68,4 @@ Same Figure 5 GPA analysis. The report concludes grades are an important lever f
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related
 - Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
+- [Ten percent of CPS graduates who did not enroll in college within six years had an average high school GPA above 3.0, a missed opportunity for high-achieving students](high-gpa-non-enrollers-missed-opportunity.md) — related

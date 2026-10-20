@@ -50,3 +50,4 @@ Random effects meta-analysis across the 16 included studies found RAN's average 
 - [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — reports the opposite
 - [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related

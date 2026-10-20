@@ -70,3 +70,6 @@ Cross-study challenge analysis (Table 6). The review reports "the explainability
 - [Implementing collaborative argumentation is challenged by time constraints, curriculum fit, teacher training, and system-level support](argumentation-implementation-challenges.md) — related
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — related
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)
+- [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
+- [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related

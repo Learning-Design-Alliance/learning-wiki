@@ -46,3 +46,4 @@ Authors' interpretation in the Discussion section, grounded in their comparison 
 - [LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task](llm-assessment-outperforms-semantic-similarity-code-explanations.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - [Teacher and student feedback indicates LLM-based formative assessment can reduce grading burden, surface misconceptions, and build student trust without replacing teacher judgment](stakeholder-feedback-llm-formative-assessment.md) — related
+- [LLM-as-judge automated evaluation can achieve human-level agreement when carefully validated](llm-as-judge-human-level-agreement-with-validation.md) — related

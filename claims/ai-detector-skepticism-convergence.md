@@ -45,3 +45,7 @@ Document analysis of academic-integrity and teaching-center guidance across the 
 ## Related Claims
 
 - [University administrations endorse contradictory positions on GenAI, encouraging faculty integration while treating AI-generated work as misconduct](institutional-contradiction-genai-integration-versus-misconduct.md)
+- [In a single-institution study, the joint system of Turnitin detection plus faculty judgement formally reported only 54.5 per cent of AI-generated submissions](turnitin-joint-system-54-5-percent-reporting.md) — related
+- [GenAI undermines academic integrity systemically rather than as individual dishonesty, because it optimises plausibility over truth and erodes the conditions for integrity](genai-undermines-integrity-systemically.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [17% of GenAI education threads are cross-role; one third of cross-role contact occurs in adversarial integrity themes](cross-role-threads-adversarial-integrity-contact.md) — related

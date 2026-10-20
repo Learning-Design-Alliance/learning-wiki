@@ -52,3 +52,4 @@ A regression-based mediation analysis (Hayes procedure, 10,000 bootstrapped samp
 - [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md) — related
 - [A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept](no-dispositional-self-concept-effect-ivr.md) — related
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
+- [Holistic retrieval via free-recall raises self-efficacy, fully mediated by performance during retrieval practice](free-recall-raises-self-efficacy-via-perceived-success.md) — related

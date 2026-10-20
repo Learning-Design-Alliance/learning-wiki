@@ -47,3 +47,6 @@ Cohort-tracking analysis of Chicago Public Schools administrative records follow
 - [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](psae-cohort-freshmen-53-percent-tested.md) — related
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
 - [Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years](transfer-coding-explains-only-2005-2008-gains.md) — related
+- [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related
+- [Graduation rates by age 19 in Chicago varied substantially by race/ethnicity and gender, with African-American boys lowest (39 percent) and Asian girls highest (85 percent)](cps-graduation-race-gender-gaps.md) — related
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related

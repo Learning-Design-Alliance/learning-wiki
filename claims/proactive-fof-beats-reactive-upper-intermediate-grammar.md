@@ -50,3 +50,4 @@ Quasi-experimental comparison of 46 upper-intermediate Iranian EFL learners (22 
 - [Beginner EFL learners taught with proactive FOF scored significantly higher on a grammar posttest than learners taught with reactive FOF](proactive-fof-beats-reactive-beginners-grammar.md) — related
 - [Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points](reactive-fof-time-cost-fewer-opportunities.md) — related
 - [Preselection of grammar points in proactive FOF reduced learners' repetition and fossilization of erroneous forms](proactive-fof-reduces-error-fossilization.md) — related
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related

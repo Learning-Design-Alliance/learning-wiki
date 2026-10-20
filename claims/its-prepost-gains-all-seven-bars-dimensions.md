@@ -46,3 +46,4 @@ Pre–post field study of 204 adult learners recruited from partner MOOC platfor
 - [SHAP modality attributions aligned with each BARS dimension's behavioral focus, supporting interpretable feedback](shap-modality-contributions-align-with-bars-dimensions.md) — related
 - [Learners showed reliable pre–post changes in facial, vocal, and lexical expressive signals after sustained system use](prepost-changes-expressive-emotion-signals.md) — related
 - [Multimodal XGBoost models achieved rubric-aligned scoring comparable to expert ratings, and no single modality approached multimodal performance](multimodal-xgboost-expert-comparable-scoring.md) — related
+- [Practice frequency, not cumulative usage time, was strongly associated with posttest presentation performance after controlling for baseline and demographics](practice-frequency-predicts-posttest-performance.md) — related

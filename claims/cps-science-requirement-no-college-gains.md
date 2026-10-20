@@ -45,3 +45,4 @@ Cohort comparison using National Student Clearinghouse data on four-year college
 ## Related Claims
 - [Universal college-prep coursework did not prepare more students for college: upper-level math credits and four-year college entrance showed no overall gains](college-prep-all-no-college-gains.md) — possibly the same claim (merge candidate)
 - [Mandated rigorous-curriculum policies in CPS sometimes had adverse consequences: the IDS initiative saw test scores decline and the college-prep-for-all policy increased course failure without achievement gains](mandated-rigor-policies-adverse-consequences.md) — related
+- [Requiring all students to take college-prep ninth-grade courses did not increase dropout or reduce graduation, including for low-ability students](college-prep-all-no-dropout-increase.md) — related

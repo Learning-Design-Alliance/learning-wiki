@@ -49,3 +49,4 @@ Early findings from Mathematica's study of Chicago's K-8 schools comparing TAP a
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
 - [TAP teachers were five percentage points more likely to return to their schools than non-TAP teachers](tap-raises-teacher-retention-five-points.md) — related
 - A five-year evaluation of TAP in high-need Chicago public schools began in 2007 — related
+- [Teachers in Chicago TAP schools at the start of the program were about 20 percent more likely than teachers in comparison schools to remain in the same school three years later](chicago-tap-increased-teacher-retention.md) — related

@@ -46,3 +46,4 @@ Logistic regression on four months of Checkpoint Quiz data predicted post-test a
 ## Related Claims
 - [A regression discontinuity design on Review Exercise data supports a causal link between leveling up and higher assessment accuracy, at least for the first level-up](rdd-review-exercises-causal-leveling-up.md) — related
 - [Leveling up lessons preceding the source lesson improves Review Exercise accuracy, indicating transfer of learning benefits across lessons within a skill](leveling-up-benefit-transfers-across-lessons.md) — a narrower finding that bears on this claim
+- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related

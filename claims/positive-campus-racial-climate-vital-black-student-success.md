@@ -45,3 +45,6 @@ Narrative literature review of peer-reviewed articles from 1990 to 2020 synthesi
 ## Related Claims
 
 - [Black students experience a more hostile campus racial climate than other students of color in schools](black-students-more-hostile-climate-than-other-students-of-color.md)
+- [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](welcoming-climate-belonging-enrollment-intent.md) — possibly the same claim (merge candidate)
+- [White teachers' deficit thinking about Black students produces a negative campus racial climate and unfriendly teacher-student relationships](deficit-thinking-negative-climate-relationships.md) — a narrower finding that bears on this claim
+- [Racism has negative psychological implications for Black students' sense of belonging, self-identity, and academic success in schools](racism-psychological-implications-belonging.md) — a narrower finding that bears on this claim

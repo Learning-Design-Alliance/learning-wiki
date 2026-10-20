@@ -46,3 +46,4 @@ Systematic review of 146 articles coded by first-author affiliation. The review 
 - Education is now the most common first-author department affiliation in AIEd higher education research, at 28% — reports the opposite
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
 - Only five of 146 AIEd articles provide an explicit definition of artificial intelligence — related
+- [Language learning was the most common subject domain for AIEd in higher education, at 17%](language-learning-top-subject-domain-ai-ed-he.md) — related

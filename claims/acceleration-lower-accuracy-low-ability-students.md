@@ -44,3 +44,4 @@ In the large-scale adaptive testing data analysis, the authors report that "redu
 
 ## Related Claims
 - [Response acceleration is heterogeneous by ability: lower ability estimates are associated with larger increases in acceleration](acceleration-heterogeneous-by-estimated-ability.md) — related
+- [Response acceleration occurs in adaptive testing: response time is reduced for responses occurring later in the assessment](response-acceleration-later-adaptive-assessment.md) — related

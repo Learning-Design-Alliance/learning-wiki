@@ -107,3 +107,9 @@ Across 30 pooled effects, learner prior knowledge did not significantly moderate
 - [Multimedia Principles Benefit Novices](expertise-reversal-effect.md) — reports the opposite
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Redundancy Effect Impairs Learning](redundancy-principle.md) — a narrower finding that bears on this claim
+- [Related prior knowledge is the single most powerful influence mediating subsequent learning, so multimedia should layer information by complexity](prior-knowledge-most-powerful-influence-multimedia-layering.md) — reports the opposite
+- [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — related
+- [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — related
+- [Presentation pacing moderates the modality effect: large under system-paced conditions and not significant under self-paced conditions, where it may disappear or reverse](modality-effect-moderated-by-pacing.md) — related
+- [Signaling Improves Learning](signaling-improves-learning.md) — related
+- [Multimedia design interventions yield small average improvements in cognitive load management (g = 0.22), with personalisation and modality showing the largest effects](design-principles-improve-cognitive-load-management.md) — related

@@ -44,3 +44,5 @@ Efficiency measurement using in-system logs collected during teacher-led session
 
 ## Related Claims
 - [Removing teacher-in-the-loop review or the curriculum checker significantly lowers teacher satisfaction, and replacing ADDIE orchestration with unstructured prompting yields the lowest satisfaction and longest preparation time](system-ablation-teacher-oversight-and-addie-orchestration-value.md) — related
+- [In a one-year PBL deployment, the AI-assisted pipeline was associated with instructor preparation time falling from an average of eight hours to two hours per instruction (an estimated 75% reduction).](ai-pipeline-75-percent-prep-time-reduction.md) — related
+- [The AI feedback system returns responses in under a second for MCQs and about six seconds for open-ended questions, and its reusable prompt is roughly 2.77 times more time-efficient to prepare than equivalent educator text](ai-feedback-response-time-and-authoring-efficiency.md) — related

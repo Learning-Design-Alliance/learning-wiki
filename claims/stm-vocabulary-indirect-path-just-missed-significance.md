@@ -45,3 +45,5 @@ Bootstrap mediation test in the SEM study of 442 children: "The indirect associa
 ## Related Claims
 - [Verbal short-term memory and academic self-efficacy are positively associated with children's vocabulary](verbal-stm-self-efficacy-positively-associated-vocabulary.md) — related
 - [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md) — related
+- [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md) — related
+- [Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model](concentration-not-in-best-fitting-listening-model.md) — related

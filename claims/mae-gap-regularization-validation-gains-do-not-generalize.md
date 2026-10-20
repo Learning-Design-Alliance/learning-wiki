@@ -64,3 +64,4 @@ Age MAE-gap regularized model (λ=0.8) versus unregularized baseline across 10 s
 ## Related Claims
 - [The Residual Fusion Transformer shows the lowest worst-group MAE and smallest gender gap among baselines, while the Sensor GRU shows the smallest age gap alongside the weakest overall performance](fusion-transformer-lowest-worst-group-mae-smallest-gender-gap.md) — related
 - [Repeated subject-level split experiments confirm that validation-level fairness improvements from MAE-gap regularization do not correspond to consistent generalization to unseen subjects](repeated-subject-splits-confirm-fairness-non-generalization.md) — possibly the same claim (merge candidate)
+- [Facial visual dynamics provide the most informative cues for attention estimation: the Visual GRU outperforms both the train-mean baseline and the Sensor GRU](visual-gru-outperforms-sensor-gru-attention-estimation.md) — related

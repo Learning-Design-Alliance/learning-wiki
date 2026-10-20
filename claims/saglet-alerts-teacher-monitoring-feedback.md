@@ -44,3 +44,8 @@ Study by Schwarz, Prusak, Swidan, Livny, Gal and Segal of the SAGLET orchestrati
 
 ## Related Claims
 - [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related
+- [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
+- [Guiding dashboard support enabled teachers to perform more orchestration actions, more targeted interactions, and more class announcements than mirroring support](guiding-support-more-orchestration-actions-than-mirroring.md) — a narrower finding that bears on this claim
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](guiding-support-stimulated-targeted-group-interactions.md) — a narrower finding that bears on this claim
+- [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
+- [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](students-want-teachers-supporting-as-learners.md) — related

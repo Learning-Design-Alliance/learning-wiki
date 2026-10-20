@@ -69,3 +69,4 @@ Direct mixed-design comparison (2 distractor modality × 3 condition ANOVA on co
 - [Irrelevant visual stimuli present during a memory test diminish the fidelity of episodic details retrieved from long-term memory in younger adults](visual-distractors-reduce-ltm-retrieval-fidelity.md) — related
 - [Visual distraction disrupts functional connectivity in a left hippocampus-VLPFC-LOC network that supports episodic retrieval via visual imagery](distraction-disrupts-hippocampus-vlpfc-loc-network.md) — related
 - [Perturbing left VLPFC with rTMS exacerbates the disruptive effect of visual distraction on episodic retrieval, indicating a causal role in resolving interference](rtms-vlpfc-exacerbates-distraction-effect.md) — related
+- [Domain-specific interference, attributed by the embedded-processes model to similarity-based interference, underpins multimedia learning's modality benefits](domain-specific-interference-basis-of-multimedia-learning.md) — reports the opposite

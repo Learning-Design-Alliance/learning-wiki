@@ -71,3 +71,8 @@ The review reports, citing DiVesta and Peverly (1984), an experiment manipulatin
 - [Analogical Reasoning Improves Transfer](comparing-contrasting-cases-improves-learning.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
 - [Learning varied tasks of the same type enables transfer to unencountered tasks of that type](task-variety-enables-transfer-same-task-type.md) — related
+- [Learning in multiple contexts and generalizing across them makes knowledge both specific and general, addressing why transfer is difficult](multiple-contexts-generalization-transfer.md) — a broader claim this one bears on
+- [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
+- [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — related
+- [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
+- [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](task-repetition-fluency-complexity-same-task-only.md) — related

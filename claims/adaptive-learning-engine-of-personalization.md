@@ -47,3 +47,7 @@ The review's synthesis of the 13 adaptive-learning studies, many adopting a thre
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — related
 - Individualized instruction has largely receded in recent AI-focused literature, functioning as a pedagogical predecessor to AI-based personalization — related
 - [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related
+- [AI-driven personalized and adaptive learning pathways support learner engagement and satisfaction in online courses](ai-adaptive-pathways-support-engagement.md) — a narrower finding that bears on this claim
+- [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related
+- [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related
+- [In one quasi-experimental VR shooting study (n = 50), reported in a review, rule-based dynamic difficulty outperformed progressive difficulty](dda-adaptation-direction-determines-outcomes.md) — a narrower finding that bears on this claim

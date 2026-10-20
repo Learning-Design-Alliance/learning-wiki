@@ -47,3 +47,4 @@ Speeded digit identification control task (20 trials, digits 0–9) in the dysle
 - [Children with developmental dyslexia show a processing speed impairment relative to controls](dyslexia-processing-speed-impairment.md)
 - [Adults with dyslexia execute both retrieval and procedural arithmetic strategies more slowly than controls](dyslexia-slower-strategy-execution.md)
 - [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md)
+- [Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed](dyslexia-slower-single-digit-arithmetic-rt.md) — related

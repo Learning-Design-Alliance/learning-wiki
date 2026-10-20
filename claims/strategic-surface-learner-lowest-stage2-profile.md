@@ -45,3 +45,4 @@ Descriptive contrast from the Stage 2 results across the 17-model evaluation. Th
 ## Related Claims
 - [The six long-chain Stage 3 workflows average 0.321 versus 0.559 across all other Stage 3 tasks and are the lowest-scoring family for 15 of 17 models](long-chain-workflows-lowest-stage3-family.md) — related
 - [Claude Opus 4.8 has the highest overall score (0.803) and is the only model ranking in the top three on all three stages, yet does not saturate situated tutoring (0.773) or workflows (0.704)](claude-opus-48-highest-overall-unsaturated.md) — related
+- [Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704](teacharena-stage-rank-reshuffling.md) — related

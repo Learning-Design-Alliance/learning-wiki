@@ -44,3 +44,6 @@ Results comparison across regression-model and classifier-model combinations rep
 
 ## Related Claims
 - [LLM-generated news sentiment features did not improve ETF price-forecasting model performance in this project](sentiment-features-did-not-improve-etf-forecasting.md) — related
+- [A support vector machine classifier outperformed decision tree and random forest models in predicting cognitive engagement levels of online discussion posts](svm-outperforms-dt-rf-cognitive-engagement-prediction.md) — related
+- [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [A random forest classified flagged versus non-flagged word problems with the best accuracy of five tested models (AUC = 0.75)](random-forest-best-auc-flagged-problems.md) — related

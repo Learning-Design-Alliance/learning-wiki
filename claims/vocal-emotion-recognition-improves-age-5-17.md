@@ -50,3 +50,4 @@ Cross-sectional mixed-model logistic regression on 225 participants aged 5–17 
 - [Confusion patterns between vocal emotions are broadly stable across development: children miscategorize anger as fear, adolescents as sadness](vocal-emotion-confusion-patterns-development.md) — related
 - [In CSCL written civic discussions, gaps exist between a composer's emotion labeling and others' emotion recognition](emotion-labeling-recognition-gap-digital-discussions.md) — related
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](metacognitive-efficiency-predicts-longitudinal-learning.md) — related
+- [Happiness is the easiest vocal emotion to recognize and anger the hardest, with anger and fear showing the greatest age-related improvement](emotion-specific-vocal-recognition-differences.md) — a narrower finding that bears on this claim

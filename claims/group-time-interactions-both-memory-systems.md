@@ -64,3 +64,7 @@ Omnibus repeated-measures ANOVA on finger-tapping performance in the same random
 ## Related Claims
 
 - [Adolescents trained on a finger-tapping task in the evening show greater off-line gains in tapping speed than afternoon-trained adolescents at both 24 hours and 7 days](evening-encoding-greater-finger-tapping-speed-gains.md)
+- [Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days](afternoon-encoding-higher-word-pair-retention-24h.md) — a narrower finding that bears on this claim
+- [Evening-trained adolescents show greater gains in finger-tapping accuracy (reduced error rate) than afternoon-trained adolescents at both retention intervals](evening-encoding-greater-finger-tapping-accuracy-gains.md) — related
+- [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related
+- [Repeated measures ANOVA shows significant time-of-testing effect and significant time-by-group interaction on word-problem scores](time-by-group-interaction-problem-solving-plan.md) — related

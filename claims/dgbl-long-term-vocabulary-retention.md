@@ -54,3 +54,5 @@ The review attributes this to Tsai and Liu (2018), reporting that learners using
 - [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — reports the opposite
 - [Practice defined as meaningful language use plus effortful practice of difficult features is beneficial and even essential for second language acquisition](meaningful-effortful-practice-beneficial-essential-l2.md) — related
 - [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
+- [Extramural English gaming relates to better L2 proficiency, but effects vary by activity type and strategy](extramural-gaming-vocabulary-effects-mixed.md) — related
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](grades-detrimental-creative-thinking-retention.md) — related

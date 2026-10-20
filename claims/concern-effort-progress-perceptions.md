@@ -42,3 +42,5 @@ Descriptive statistics on 7-point Likert items from the questionnaire. The artic
 
 ## Related Claims
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
+- [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related
+- [Participants envisioned switchable AI roles — strategic advisor, cross-domain translator, and perspective challenger — whose expansion destabilized perceived neutrality and raised authority and accountability concerns](switchable-ai-roles-neutrality-authority-tension.md) — related

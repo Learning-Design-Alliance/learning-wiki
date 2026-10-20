@@ -45,3 +45,5 @@ In the factorial MANOVA, the hypothesized amplifying interaction (Hypothesis 1.3
 ## Related Claims
 - [Task complexity and desirable difficulties do not significantly affect intrinsic interest or expectancies for success](complexity-and-difficulty-no-effect-self-task-perception.md) — related
 - [Constantly high task complexity improves delayed posttest performance compared with gradually increasing complexity](constantly-high-complexity-improves-posttest-performance.md) — related
+- [Interleaved practice improves delayed posttest performance compared with blocked practice](interleaved-practice-improves-posttest-performance.md) — related
+- [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](high-complexity-lowers-icl-and-metacognitive-strategy-use.md) — related

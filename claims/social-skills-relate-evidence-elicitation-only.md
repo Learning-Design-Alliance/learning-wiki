@@ -47,3 +47,6 @@ SEM analysis of the three simulation studies showed support only for the elicita
 
 ## Related Claims
 - [Most reviewed SEL studies did not test diversity characteristics as moderators, and those that did found inconsistent moderation effects](sel-moderation-tests-rare-inconsistent.md) — related
+- [Collaboration knowledge is positively and consistently related to the quality of evidence sharing across all three studies](collaboration-knowledge-relates-evidence-sharing.md) — related
+- [Content knowledge is positively related to the quality of evidence elicitation and evidence sharing, but not to hypotheses sharing](content-knowledge-relates-evidence-elicitation-sharing.md) — related
+- [Effects of pre-instruction testing on untested but studied materials are highly inconsistent across experiments and materials](pretesting-untested-materials-inconsistent.md) — related

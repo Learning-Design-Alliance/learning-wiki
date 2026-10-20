@@ -65,3 +65,5 @@ Reaction time analysis found "Children were faster on the 'NonStroop' (M = 2740.
 - [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
 - [Greater parent-reported temperamental effortful control predicts less DLPFC activation during cognitive flexibility in preschoolers](effortful-control-predicts-less-dlpfc-activation.md) — related
 - [The Stroop condition elicits significantly more left DLPFC activation than the NonStroop condition in preschoolers](stroop-condition-elicits-more-left-dlpfc-activation.md) — related
+- [Congruency effects on both numerical and non-numerical inhibition tasks occur in all three age groups, with an age-by-congruency interaction only on the numerical task](congruency-effects-all-age-groups-numerical-interaction.md) — a broader claim this one bears on
+- [Match trials are more accurate and faster than mismatch trials in the dual-modality task, with no language group difference](congruence-effect-dual-modality-no-group-difference.md) — related

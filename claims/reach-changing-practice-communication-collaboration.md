@@ -53,3 +53,5 @@ Teacher and administrator survey data from the year-two REACH brief. "Eighty-six
 - [Teachers in the lowest achieving schools are more likely to report that reform has changed and will change their classroom practices, though differences are modest](instructional-change-highest-in-lowest-achieving-schools.md) — related
 - Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year — related
 - [Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth](educator-capacity-support-needs-tpe.md) — related
+- [Trusting teacher-evaluator relationships lessened evaluation anxiety and encouraged teachers to welcome and use REACH feedback](trusting-teacher-evaluator-relationships-reduce-anxiety.md) — related
+- [Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth](reach-effort-questioned-more-effort-than-results-worth.md) — related

@@ -53,3 +53,5 @@ The fact sheet asserts, without presenting data or citations, that returning stu
 - [Statewide public school staff attrition in Pennsylvania rose from 4 percent in preceding years to 5 percent between fall 2020 and fall 2021 during the pandemic](pa-staff-attrition-rose-4-to-5-percent-pandemic.md) — related
 - [Educators during the pandemic may experience secondary traumatic stress, compassion fatigue, and community trauma alongside their own individual trauma](educator-secondary-traumatic-stress-pandemic.md) — related
 - Among 171 educators interviewed, more than one-third met the threshold for a diagnosis of depression or anxiety and one in five exhibited significant PTSD symptoms — related
+- [Strong relationships and supportive conditions can offset the effects of trauma on learning and behavior](relationships-offset-trauma-effects.md) — related
+- [Adverse childhood experiences create toxic stress that impairs attention, learning, and behavior, and school responses can magnify or buffer the harm](aces-toxic-stress-impair-learning.md) — a broader claim this one bears on

@@ -45,3 +45,6 @@ Subtraction instruction with practice over seven sessions in which children purs
 ## Related Claims
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — possibly the same claim (merge candidate)
 - [Preparation method produced no substantial motivational differences in interest or self-efficacy in this replication](no-motivational-differences-worked-versus-inventing.md) — related
+- [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](attributional-feedback-credibility-effort-ability.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
+- [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related

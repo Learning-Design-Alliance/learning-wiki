@@ -43,4 +43,4 @@ Conversation analysis of design studio sessions in architectural education, whic
 
 
 ## Related Claims
--
+- [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related

@@ -44,3 +44,4 @@ Within-group dependent t-test on MMSE scores for the 17 intervention participant
 
 ## Related Claims
 - [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](social-media-training-improves-inhibitory-control-older-adults.md) — related
+- [Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months](social-media-use-gains-not-sustained-after-training.md) — related

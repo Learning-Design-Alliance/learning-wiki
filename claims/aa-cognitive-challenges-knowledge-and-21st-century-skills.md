@@ -47,3 +47,6 @@ Coding of cognitive challenges across the 37 included studies. The review report
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
 - [Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration](aa-social-collaboration-limited-community-connection.md) — related
 - [Critical thinking, problem solving, and decision making appear in all seven reviewed frameworks](critical-thinking-in-all-seven-frameworks.md) — related
+- [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
+- [The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities](key-stage-3-assessment-potential-advantage.md) — related
+- [Students overwhelmingly value critical media analysis skills but report these skills were rarely addressed in their coursework](importance-coverage-gap-critical-media-skills.md) — related

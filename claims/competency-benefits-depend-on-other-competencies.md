@@ -45,3 +45,5 @@ The report describes a modeling approach using a flexible functional form to mod
 ## Related Claims
 - [Reflection interventions in higher education have a medium positive average effect on learning that varies with duration, peer interaction and the reflective activity used](reflective-practice-evidence-mixed-in-professional-education.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
+- [Specific physical fitness components are differentially associated with specific executive function domains in adolescents](pf-components-map-onto-ef-domains.md) — related
+- [Not all students would benefit from improving the same competencies, suggesting an individualized approach to education may be preferable to a one-size-fits-all approach](heterogeneous-competency-benefits-individualized-education.md) — possibly the same claim (merge candidate)

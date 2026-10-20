@@ -45,3 +45,5 @@ Interview-based rank-order task in which each of the 42 teachers ranked the six 
 ## Related Claims
 - [Only equity visualizations disaggregated by race/ethnicity and gender prompted teachers to reflect on how race/ethnicity or gender may impact student classroom experiences](equity-visualizations-prompt-equity-reflections.md) — related
 - [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
+- [Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs](barriers-to-equity-visualization-use.md) — related
+- [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related

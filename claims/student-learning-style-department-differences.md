@@ -48,3 +48,4 @@ A random student sample (N=206) completed the LSI. The article reports differenc
 - [Significant mismatches exist between faculty ideal learning styles and actual student learning styles](faculty-student-learning-style-mismatch.md) — related
 - [Faculty across departments describe the same ideal learning style for students](faculty-uniform-ideal-learning-style.md) — related
 - [Incremental theory and performance goal orientation differ across university departments, but entity and learning goal orientation do not](department-differences-mindset-goal-orientation.md)
+- [Student subject matter orientation differs significantly from faculty perceptions of departmental characteristics](student-faculty-subject-matter-mismatch.md) — related

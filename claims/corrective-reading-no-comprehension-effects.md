@@ -50,3 +50,6 @@ In the Torgesen et al. (2006) randomized controlled trial, both comprehension ou
 - [SMART® effects on comprehension were not statistically significant on either subtest, though the domain-average effect size was substantively important](smart-comprehension-nonsignificant-substantive-average.md) — related
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
 - Most outcomes of Corrective Reading, including state reading tests, did not show positive effects, yielding an average effect size of only +0.06 — related
+- [The Wilson Reading System shows no discernible effects on reading comprehension](wilson-reading-system-no-discernible-comprehension-effects.md) — related
+- [Failure Free Reading shows potentially positive effects on reading comprehension](failure-free-reading-potentially-positive-comprehension.md) — related
+- [Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al. found no significant effects while Rashotte et al. found significant effects on both outcomes](spellread-comprehension-inconsistent-across-studies.md) — related

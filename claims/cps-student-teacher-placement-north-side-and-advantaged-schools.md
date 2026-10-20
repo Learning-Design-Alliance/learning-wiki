@@ -83,3 +83,5 @@ Comparing 2014-15 placement schools with non-placement schools on My Voice My Sc
 ## Related Claims
 - Socioeconomically disadvantaged schools are less likely to be strong in the essentials, with a stronger effect in Chicago than the rest of Illinois — related
 - [Student teachers hired by their field-placement school had higher first-year evaluation ratings than those hired elsewhere in CPS](cps-student-teachers-hired-in-placement-school-higher-first-year-ratings.md) — related
+- [CTE programs of study vary across CPS high schools and are more common on the south and west sides](cte-programs-vary-and-cluster-south-west-sides.md) — related
+- [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related

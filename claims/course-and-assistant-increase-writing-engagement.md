@@ -47,3 +47,7 @@ Multiple regression modeling characters written per prompt (5181 unique messages
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related
 - [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](journaling-assistant-no-intrinsic-motivation-effect.md) — related
+- [No significant medium, context, or medium-by-context effects on written response length as a measure of behavioral engagement](no-medium-context-effect-response-length.md) — reports the opposite
+- [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related
+- [AI-generated questions instead of draft text significantly reduce actors' cognitive burden during character journaling](generative-refusal-reduces-cognitive-burden-journaling.md) — related
+- [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](course-users-earlier-journal-entry-timing.md) — related

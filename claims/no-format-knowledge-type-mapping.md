@@ -64,3 +64,11 @@ ANCOVA on procedural knowledge (max 10, covariates math grade and time-on-task) 
 ## Related Claims
 - [Representational format produced no significant differences in conceptual or situational knowledge](no-format-effect-conceptual-situational-knowledge.md) — related
 - [The Text + Arithmetic format specifically improved procedural knowledge (executing action sequences to solve problems)](text-arithmetic-improved-procedural-knowledge.md) — reports the opposite
+- [Collaborative learners outperform individuals on intuitive knowledge, indicating collaboration rather than representation construction drives the advantage](collaboration-enhances-intuitive-knowledge.md) — related
+- [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — reports the opposite
+- [Quantitative experimental results on representational formats left the role of representations in dyad discussion unexplained](representational-format-study-unexplained-dyad-role.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — reports the opposite
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
+- [Drawing improves STEM learning by a small-to-moderate amount over not drawing and over other active study strategies, in one meta-analysis](drawing-improves-learning.md) — related
+- [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](interactive-beats-constructive-concept-mapping.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related

@@ -63,3 +63,5 @@ Same Table 2 error-rate analysis: LLaMA 3 exhibited the contrasting failure mode
 
 ## Related Claims
 - [LLM feedback agents classify optimal logic proof steps near-ceiling but perform poorly on valid-alternative and incorrect solutions](llm-tutors-near-ceiling-optimal-poor-valid-alternative-incorrect.md) — a broader claim this one bears on
+- [Frontier LLMs achieve the best balance between detecting misconceptions in correct-answer cases and not over-flagging correct students, while fine-tuned local models achieve under 58% TM recall](frontier-llms-best-balance-tm-detection.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

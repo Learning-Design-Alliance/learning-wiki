@@ -47,3 +47,5 @@ Interview-based thematic finding on implementation frictions. One team reported 
 - [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
+- [Immersive media environments enable higher visual and behavioral realism of pedagogical agents than non-immersive formats](xr-higher-agent-realism-than-non-immersive.md) — related

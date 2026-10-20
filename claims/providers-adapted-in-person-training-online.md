@@ -49,3 +49,4 @@ Reported in the brief's key takeaways from the eight-state discussion groups. Ma
 - [State apprenticeship administrators leveraged technology to pivot work online, streamline processes, and expand reach and responsiveness during the pandemic](technology-pivot-expanded-apprenticeship-agency-reach.md) — related
 - Prior use of adaptive courseware in blended STEM courses eased the transition to fully remote instruction for instructors and students — related
 - [Virtual pre-K observations posed substantial logistical challenges despite being practical](virtual-pre-k-observations-logistical-challenges.md)
+- [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related

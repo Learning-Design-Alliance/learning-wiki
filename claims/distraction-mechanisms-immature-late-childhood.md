@@ -45,3 +45,6 @@ The editorial reports, citing Ruhnau et al. (2013), electro- and magnetoencephal
 - [Children show larger and more sustained frontal ERP conflict effects than adults, indicating less efficient executive attention](children-larger-sustained-erp-conflict-effects-than-adults.md) — related
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
 - [Earlier studies suggested mature active-learning patterns emerge only in late childhood, but the article attributes this to paradigm limitations](late-emergence-findings-paradigm-limited.md) — related
+- [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](cognition-transient-distributed-functioning.md) — related
+- [Linguistic-probe late-N1 latency decreases with age, unlike the stable early-N1 latency for nonlinguistic probes](linguistic-late-n1-latency-decreases-with-age.md) — related
+- [P1 latency for nonlinguistic auditory probes decreases with age from childhood through adulthood](nonlinguistic-p1-latency-decreases-with-age.md) — related

@@ -51,3 +51,4 @@ Review's discussion of Budde et al. (2008), a school experiment with 115 adolesc
 - [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
 - [Physical activities combining exercise with character development or mindfulness improved children's EFs more than exercise alone: tae kwon do outperformed standard PE, and a yoga pilot improved planning](exercise-plus-character-or-mindfulness-improves-efs.md) — related
 - [Self-chosen exercise intensity produced the greatest mood benefits in a small study, suggesting enjoyable workouts may best improve mood](self-chosen-exercise-greatest-mood-benefit.md) — related
+- [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md) — related

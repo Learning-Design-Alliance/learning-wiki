@@ -45,3 +45,5 @@ Per-assignment SuccScore comparison (Table 3): significant differences on Assign
 ## Related Claims
 - [MisconceptionTutor achieves higher pedagogical quality (DAMR) than BaselineTutor on nearly all dimensions, with small-to-moderate effect sizes](misconception-tutor-higher-damr-pedagogical-quality.md) — related
 - [MisconceptionTutor achieves substantially higher feedback relevance (RelScore) than BaselineTutor on every assignment](misconception-tutor-higher-relscore-all-assignments.md) — related
+- [Pedagogically desired feedback is engaged with more (higher RelScore), but pedagogical quality shows little relation to whether actions are applied correctly (SuccScore)](pedagogy-drives-relevance-not-correct-application.md) — related
+- [Engagement-based metrics are more robust predictors of students' perceived feedback helpfulness than pedagogical dimensions](engagement-metrics-predict-perceived-helpfulness.md) — related

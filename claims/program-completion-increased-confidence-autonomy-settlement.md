@@ -58,3 +58,4 @@ Interview-theme analysis of identity and wellbeing outcomes for Anna and Rita, w
 - Educators grew more confident supporting student autonomy and leading media production through the program — related
 - Briya adult learners showed high rates of employment entry, retention, or postsecondary entry — related
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](750-contact-hours-esl-support-tangible-effect.md) — related
+- [Adult immigrants' perspectives of learning formats, self-directed learning, and motivation correlate significantly with English skills acquisition and integration](learning-format-perspectives-correlate-immigrant-integration.md) — related

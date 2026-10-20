@@ -45,3 +45,4 @@ The review's RQ1 synthesis of 66 studies found "A total of nine articles provide
 ## Related Claims
 - [The combined theory-driven and data-driven validation approach improved the match rate between trace-based SRL processes and think aloud data from 38.97% to 54.24% (training) and 34.54% to 55.09% (testing)](validation-approach-improves-match-rate.md) — related
 - [A theory-driven trace-based SRL measurement achieved a match rate of 38.97% with think aloud data when evaluated against think aloud as reference point](theory-driven-srl-trace-measurement-low-match-rate.md) — related
+- [CLT lacks explicit assumptions about how cognition and effort are monitored and regulated, unlike SRL theories](clt-lacks-metacognitive-control-assumptions.md) — related

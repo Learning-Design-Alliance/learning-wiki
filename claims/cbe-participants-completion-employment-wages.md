@@ -105,3 +105,4 @@ Key findings of an evaluation of a community college CBE consortium under the Ha
 - [CBE participants completed programs quickly, averaging less than two terms to a first industry certification course and about four terms to certificates and degrees](cbe-fast-completion-two-terms-certification-four-terms-credentials.md) — related
 - [The study examines student participation mix, program issues, and certification and other outcomes](it-certification-participants-issues-outcomes.md) — a broader claim this one bears on
 - [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related
+- [The review reports, citing Meyer et al., that stacking micro-credentials increases employment by four percent and quarterly wages by seven percent](stacking-microcredentials-increases-employment-wages.md) — related

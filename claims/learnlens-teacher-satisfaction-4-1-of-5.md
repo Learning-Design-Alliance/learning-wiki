@@ -49,3 +49,8 @@ Questionnaire study with 30 participants, all with prior STEM teaching experienc
 - [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
 - [In a voluntary group survey, all 12 module-activity items had a median of 4, with M5 implementation items rated highest](survey-positive-learning-value-m5-highest.md) — related
 - [91% of UAT participants rated the Taklif.AI user interface as intuitive](uat-91-percent-rate-interface-intuitive.md) — related
+- [Teachers and students report strong satisfaction with ConnectED, with 94% of teachers willing to reuse it](connected-high-teacher-student-satisfaction.md) — related
+- [LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system](learnlens-reduces-teacher-feedback-time.md) — related
+- [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related
+- [Students rated Zoo U highly for engagement and likeability, with every usability area rated at least 3.8 on a four-point scale](zoo-u-high-student-engagement-likeability.md) — related
+- [In preliminary user acceptance testing, 84% of participants rated Taklif.AI's personalization feature as beneficial](uat-84-percent-rate-personalization-beneficial.md) — related

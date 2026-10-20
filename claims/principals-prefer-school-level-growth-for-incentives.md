@@ -47,3 +47,4 @@ Baseline principal/vice principal survey across the three EPIC sites asked admin
 - [Principals exhibit an incomplete understanding of how achievement growth is captured in EPIC performance measures](principals-incomplete-understanding-growth-measures.md) — related
 - [School value added can reflect school-specific influences on student achievement growth that are outside principals' control](value-added-reflects-influences-outside-principal-control.md) — related
 - [The merit award program produced modest achievement improvements concentrated in schools close to the award threshold](merit-award-modest-gains-near-threshold.md) — related
+- [The EPIC evaluation baseline report compares student characteristics across the program's three partners and compares award-determination data with data on all students in the awarded schools](epic-baseline-compares-partner-student-characteristics-and-award-data.md) — related

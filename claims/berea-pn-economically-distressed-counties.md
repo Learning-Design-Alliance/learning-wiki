@@ -47,3 +47,4 @@ Descriptive economic context reported in the site profile for the three served c
 - [The initiative aims to reach all 6,300 students residing in the three served counties](berea-pn-aims-to-reach-all-6300-students.md) — related
 - [All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving](berea-pn-schools-persistently-low-achieving.md) — related
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
+- [The Buffalo Promise Neighborhood serves a predominantly minority, high-poverty community](buffalo-promise-neighborhood-high-poverty-minority-community.md) — related

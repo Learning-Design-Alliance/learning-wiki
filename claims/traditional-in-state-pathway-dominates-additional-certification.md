@@ -45,3 +45,5 @@ Descriptive analysis of certification pathways (table 4) among the 9,865 additio
 ## Related Claims
 - About 5 percent of experienced New York State public school teachers in 2015/16 earned at least one additional certificate between October 2015 and October 2017 — related
 - [Pathway use varied substantively by certification area: 73 percent of career and technical education additional certificate holders used the individual evaluation pathway, and 57 percent of health education holders used the alternative in-state pathway](pathway-use-varies-by-certification-area.md) — a narrower finding that bears on this claim
+- [Additional certificate holders had fewer years of teaching experience on average (7 years) than teachers who did not earn additional certificates (15 years)](additional-certificate-holders-less-experienced.md) — related
+- [More experienced teachers earned additional certificates in shortage areas (47 percent) than in nonshortage areas (25 percent), with special education the most common shortage area (27 percent)](shortage-areas-dominate-additional-certification-special-education-most-common.md) — related

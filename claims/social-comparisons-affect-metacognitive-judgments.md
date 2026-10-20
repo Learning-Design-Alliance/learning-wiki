@@ -41,4 +41,6 @@ Narrative review attributing this experimental result to Carvalho and Yuzawa (20
 
 
 ## Related Claims
--
+- [Eliciting confidence ratings leads to poorer metacognitive monitoring in older adults](cr-poorer-metacognitive-monitoring-miscalibration.md) — related
+- [Second-order metacognitive judgments of subjective uncertainty show a small high-confidence error/correct difference, smaller than curiosity ratings show](second-order-metacognition-smaller-error-difference.md) — related
+- [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related

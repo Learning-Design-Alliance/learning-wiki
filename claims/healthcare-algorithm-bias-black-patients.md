@@ -45,3 +45,4 @@ Narrative review section on AI bias, reporting the Obermeyer et al. [48] finding
 ## Related Claims
 - Healthcare dominates citation impact in practice-based AI ethics research, while education contributes disproportionately to interpretive debates despite fewer publications — related
 - [AI output errors are frequent: 44.5% fabricated references in drafted research proposals and 5–13% unsafe chatbot medical answers](ai-output-error-rates-fabricated-unsafe.md) — related
+- [AI literacy and formal AI training remain low among nursing and health-professions students, though attitudes are largely positive](low-ai-literacy-positive-attitudes-health-students.md) — related

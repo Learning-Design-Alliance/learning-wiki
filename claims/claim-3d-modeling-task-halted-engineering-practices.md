@@ -51,3 +51,4 @@ Process-rug analysis reported in the Findings section: after a fifth-session ins
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](claim-teacher-visit-pattern-brief-with-phase-exceptions.md) — related
 - [The SleepSound team applied science, computer engineering, and product design practices in more segments and at higher simultaneous intensity than the other two teams](claim-sleepsound-intensity-fixes.md) — related
 - [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
+- [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related

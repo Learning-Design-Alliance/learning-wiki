@@ -43,4 +43,7 @@ Concurrent paths from the same cross-lagged panel model in N = 84 children. The 
 
 
 ## Related Claims
--
+- [Better inhibition skills in kindergarten predict less overconfident metacognitive monitoring in 2nd grade, explaining 11% of variance](kindergarten-inhibition-predicts-less-overconfident-monitoring.md) — related
+- [The relationship between inhibition and monitoring is not bidirectional: kindergarten monitoring did not predict later inhibition](monitoring-does-not-predict-later-inhibition.md) — related
+- [Working memory and shifting in kindergarten were not significant predictors of later metacognitive monitoring](working-memory-shifting-not-predict-monitoring.md) — related
+- [Inhibition performance improved significantly from kindergarten to 2nd grade in accuracy, speed, and combined efficiency](inhibition-improves-kindergarten-to-grade-2.md) — related

@@ -44,3 +44,4 @@ Quantitative comparison of peer group versus ChatGPT-4o feedback in the second a
 
 ## Related Claims
 - [In the first assessment stage, peer group and ChatGPT-4o feedback showed no significant difference in quality](stage1-no-significant-difference-peer-ai-feedback-quality.md) — related
+- [Students perceived peer group feedback as contextually rich but sometimes subjective, and ChatGPT-4o feedback as more objective and well structured but occasionally lacking contextual sensitivity](student-perceptions-human-contextual-ai-objective-structured.md) — related

@@ -48,3 +48,6 @@ withaggregateﬁnalperformance."
 - [Authorship captures a more distinct aspect of artistic evaluation than other performance dimensions](authorship-distinct-performance-dimension.md) — related
 - [Baseline-to-final performance change was centered near zero with a mean of −1.83](baseline-final-change-near-zero.md) — related
 - [Professional developers write prompts of moderate baseline quality, which does not meaningfully scale with programming experience](prompt-baseline-quality-not-scaled-with-experience.md) — related
+- [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
+- [Questionnaire constructs showed acceptable to strong internal consistency (α = 0.740 to 0.945)](questionnaire-constructs-internal-consistency.md) — related

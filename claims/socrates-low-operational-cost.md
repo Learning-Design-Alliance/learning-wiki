@@ -45,3 +45,4 @@ Cost analysis from logged playground and grader usage across assignments A1-A4, 
 ## Related Claims
 - [Gemini Flash 2.0 was selected for production over GPT-4o-mini and Llama 3.1 for its superior faithfulness and speed-to-cost ratio](gemini-flash-2-selected-for-faithfulness-and-cost.md) — related
 - [gpt-4o graded student submissions most correctly in almost all assignments, but gemini-1.0-pro graded the boolean-algebra assignment most correctly](grader-llm-correctness-comparison-socrates.md) — related
+- [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) — related

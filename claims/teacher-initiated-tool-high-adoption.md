@@ -45,3 +45,6 @@ Case-study observation following the initial SST agenda rollout. The article rep
 ## Related Claims
 - [The co-designed AI-enabled SST meeting agenda tool saw mixed district-wide adoption despite enthusiasm in facilitated meetings](sst-agenda-tool-mixed-adoption.md) — related
 - [Three factors influenced adoption of the SST agenda tool: lack of guided practice, inconsistent routines, and value not visible to teachers](three-factors-sst-tool-adoption.md) — related
+- [Teachers reported that rubric-aligned AI feedback saved time on repetitive comments, enabling focus on higher-order instruction](teachers-report-time-savings-higher-order-instruction.md) — related
+- [Reported benefits of AI integration were efficiency, personalization, and engagement, while challenges were equity, ethics, and academic integrity](ai-integration-benefits-and-challenges.md) — related
+- [Teachers' digital competence is a critical factor influencing both AI tool adoption and its pedagogical effectiveness](teacher-digital-competence-critical-ai-adoption.md) — related

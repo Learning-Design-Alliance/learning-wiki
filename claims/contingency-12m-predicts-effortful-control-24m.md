@@ -63,3 +63,6 @@ Correlational analyses of all scaffolding variables at each time point against c
 
 ## Related Claims
 - [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related
+- [Children of consistently contingent mothers (30%+ contingent at all three time-points) scored higher on grasping, delay and cognitive measures than children of inconsistently contingent mothers](consistent-contingency-group-child-outcomes.md) — related
+- [Children with low initial effortful control showed rising trajectories to above the mean only when their mothers were consistently contingent](low-effortful-control-trajectories-contingent-mothers.md) — related
+- [Maternal contingency is the only scaffolding variable related to child performance during scaffolding across all three time-points](contingency-predicts-child-performance-scaffolding.md) — related

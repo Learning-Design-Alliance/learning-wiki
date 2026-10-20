@@ -48,3 +48,4 @@ Value-added analysis of CPS administrative records for ninth-grade cohorts 2011-
 - [Teacher grade effects show spillovers to students' broader ninth-grade outcomes](teacher-grade-effects-spillover-ninth-grade-outcomes.md) — related
 - [Ninth-grade teachers' grade effects are stable across years](teacher-grade-effects-stable-across-years.md) — related
 - [Long-term effects of grading mismatch are smaller and more nuanced than those of persistent effects](grading-mismatch-long-term-effects-smaller-nuanced.md) — related
+- [Grades are lower in classes with higher-achieving peers, consistent with teachers adjusting expectations rather than grading on a curve](class-peer-achievement-lowers-grades.md) — related

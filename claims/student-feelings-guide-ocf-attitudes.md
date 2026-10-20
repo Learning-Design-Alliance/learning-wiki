@@ -52,3 +52,4 @@ In the study's conclusions, the authors state that in their interview data with 
 - [Children learn more effectively when they feel secure and have positive feelings about the people and content they encounter](security-and-positive-feelings-support-learning.md) — related
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](learners-prefer-cf-more-than-teachers-provide.md) — related
+- [Students aware of the GenAI feedback source reported no attitude change, while unaware students varied between content-focused acceptance and conditional willingness to reconsider](feedback-source-awareness-attitude-themes.md) — related

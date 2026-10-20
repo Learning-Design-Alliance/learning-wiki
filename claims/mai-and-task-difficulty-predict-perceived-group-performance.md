@@ -67,3 +67,4 @@ In the same SEM model, situated task-difficulty ratings during CPS showed "a sig
 ## Related Claims
 - [Metacognitive judgement positively predicts perceived individual performance in CPS, which mediates perceived group performance](metacognitive-judgement-predicts-perceived-cps-performance.md) — related
 - [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related
+- [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](difficulty-negative-interest-understanding-positive-correlations.md) — related

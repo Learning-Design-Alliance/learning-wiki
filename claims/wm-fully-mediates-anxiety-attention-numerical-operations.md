@@ -57,3 +57,7 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
 - [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related
 - [Higher working memory capacity was associated with better final test performance on advanced materials](working-memory-predicts-advanced-material-test-performance.md) — related
+- [Cascade models in which IQ mediates the WM-to-achievement path fit comparably to, but not significantly better than, the original correlated models](cascade-model-iq-mediation-comparable-fit.md) — related
+- [Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect](ma-as-mediator-null.md) — related
+- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
+- [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related

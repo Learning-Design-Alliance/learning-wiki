@@ -51,3 +51,4 @@ Regression predicting algebra achievement in the 171-student sample. Although bo
 - [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
 - [ANS acuity predicts accuracy of coordinate plane placements and expression evaluation accuracy, but not equation memory, in 9th graders](ans-acuity-predicts-coordinate-plane-and-expression-accuracy-not-equation-memory.md) — related
 - [Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance](retrieval-errors-predict-equation-memory-only.md) — related
+- [Each of the three algebraic cognition measures independently predicts algebra achievement, controlling demographic and domain-general covariates](algebraic-cognition-measures-predict-algebra-achievement.md) — related

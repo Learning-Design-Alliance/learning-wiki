@@ -50,3 +50,5 @@ The review's synthesis reports that 17 studies examined affective outcomes. Stud
 - [Teachers' expectancy beliefs about successfully using AI applications shape their motivation to use them (theoretical argument).](teacher-expectancy-beliefs-shape-motivation-to-use-ai.md) — related
 - [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related
+- [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
+- [EAI modalities were associated with higher student motivation and changes in attitudes toward STEM knowledge areas](eai-motivation-attitude-stem-effects.md) — possibly the same claim (merge candidate)

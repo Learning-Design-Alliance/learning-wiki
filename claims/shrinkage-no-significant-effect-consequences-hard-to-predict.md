@@ -49,3 +49,4 @@ The article reports that "in our sample, shrinkage had no statistically signific
 - [Shrinkage does not change accountability consequences for teachers of hard-to-predict students, since extreme-rating probabilities are unaffected](shrinkage-leaves-accountability-consequences-unchanged.md) — possibly the same claim (merge candidate)
 - [Shrinkage has no statistically significant effect on the relative probability that teachers of hard-to-predict students receive extreme value-added ratings](shrinkage-no-significant-effect-extreme-ratings.md) — related
 - [Empirical Bayes shrinkage could be used to address bias in proxy pre-test value-added estimates](empirical-bayes-shrinkage-for-proxy-pretest-bias.md) — related
+- [Teachers of students with low prior achievement and who receive free lunch tend to have less precise value-added estimates](low-prior-achievement-free-lunch-teachers-less-precise-va.md) — related

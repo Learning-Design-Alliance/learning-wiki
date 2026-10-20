@@ -46,3 +46,4 @@ Simple-effects analysis in the divisional mindset condition (story featured two 
 - [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md) — related
 - [Cultural diversity increases schoolchildren's creativity when a communal mindset is salient](diversity-boosts-creativity-communal-mindset.md) — related
 - [The effect of cultural diversity on children's creativity is moderated by mindset, with a significant Diversity × Mindset interaction](diversity-mindset-interaction-childrens-creativity.md) — a broader claim this one bears on
+- [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](cultural-diversity-cooperative-task-increases-childrens-creativity.md) — reports the opposite

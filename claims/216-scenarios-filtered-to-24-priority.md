@@ -66,3 +66,4 @@ Filter 4 (Intervention Potential) result from the methodology section, selecting
 - [Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise](fca-self-monitoring-gateway-multiple-pathways.md) — related
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
 - [AI literacy priorities manifest as developmentally distinct pedagogical patterns across educational phases](developmentally-distinct-ai-literacy-patterns-by-phase.md) — related
+- [Three internal arrangements of Processes and Structures (P→S, S→P, P⇄S) form the basis of scenario differentiation](three-internal-arrangements-monitoring-control.md) — related

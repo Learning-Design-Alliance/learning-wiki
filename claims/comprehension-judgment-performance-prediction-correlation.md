@@ -43,4 +43,4 @@ Small follow-up study with N = 92 university students who provided both comprehe
 
 
 ## Related Claims
--
+- [Generating delayed keywords does not reduce bias in comprehension judgments](keyword-generation-does-not-reduce-bias.md) — related

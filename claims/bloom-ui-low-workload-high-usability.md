@@ -54,3 +54,5 @@ Usability study (RQ3) with N=50 Prolific participants who used the UI for 10 min
 - [Adults rated the LLM-powered iCub storytelling system as usable, with a total SUS score of 76.70 indicating good product usability](icub-storytelling-sus-76-good-usability.md) — related
 - [System usability was rated low in both conditions, with no significant difference between them](low-usability-both-conditions.md) — related
 - [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](photon-fusion-sus-good-but-variable-usability.md) — related
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — a broader claim this one bears on
+- [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related

@@ -85,3 +85,4 @@ Hierarchical regression (Model 15) on the same sample predicting leisure and ent
 - [Perceived risk mediates the relationship between perceived academic dishonesty and ChatGPT usage (indirect-only mediation)](perceived-risk-mediation-pad-chatgpt.md) — related
 - [Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT](pad-positively-related-perceived-risk.md) — related
 - [Security risk perception is positively associated with perceived academic assistance and skill development benefits of Gen AI among university students](security-risk-positive-academic-skill-benefits.md) — related
+- [Education level shows differential associations with perceived benefits, with master's students perceiving higher psychological support and leisure benefits than doctoral students](education-level-differential-benefit-associations.md) — related

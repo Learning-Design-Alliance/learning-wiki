@@ -49,3 +49,5 @@ Descriptive pre/post comparison of emotional responses in the session surveys. T
 - [The AI education session was associated with a drop in attendees reporting they did not know enough to say about AI, from 23% to 0%](dont-know-responses-dropped-to-zero.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - Most design students at Politecnico di Milano use GenAI tools daily or weekly for academic purposes — related
+- [Students' AI workflows shifted toward guided, step-by-step use and more sophisticated prompting and critical evaluation over the semester](ai-workflows-shifted-toward-guided-use.md) — related
+- [Faculty transformation followed four themes: fear shifting to curiosity, desire for ethical clarity, inclusive design as equity amplifier, and evolution from gatekeepers to guides](four-themes-faculty-ai-transformation.md) — related

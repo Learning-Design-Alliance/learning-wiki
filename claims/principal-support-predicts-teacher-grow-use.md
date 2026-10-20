@@ -47,3 +47,5 @@ School-level HLM effects (282 principals; school-level df 216) show Principal us
 
 ## Related Claims
 - [Teachers' Grow use is strongly influenced by technology professional development, their own use of technology, and principal support for Grow](tech-pd-own-use-influence-grow.md) — related
+- [Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations](principal-leadership-associated-with-trust-relations.md) — related
+- [Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction](leadership-achievement-between-schools-via-climate.md) — related

@@ -51,3 +51,5 @@ Hierarchical clustering (Ward's linkage, squared Euclidean distance) on seven st
 - [Policy packages fall into four archetypes defined by which design element is missing](four-policy-archetypes-ai-guidance.md) — related
 - In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related
 - [A cluster of highly active learners driving the learning communities included equally many low-hierarchy as high-hierarchy members](active-driver-cluster-includes-low-hierarchy-leaders.md) — related
+- [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related
+- [K-Means++ clustering of self-reported behavioral proxies yields six distinct, stable learner profiles (k = 6, Silhouette = 0.62)](six-behavioral-learner-profiles-kmeans-plus.md) — related

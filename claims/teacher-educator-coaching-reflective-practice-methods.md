@@ -47,3 +47,5 @@ The digest reports a 1993 study by Ojanen of how student teachers develop reflec
 - Treating students' personal histories as sources of knowledge makes them part of the classroom curriculum — related
 - Continuous guided reflection and dialogue about ill-defined dilemmas contributed to increased reflective judgment sophistication in several preservice teachers — related
 - Contextual factors including time for reflection, evaluatory atmosphere, and peer and mentor dialogue influence preservice teachers' demonstration of reflective judgment — related
+- [Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making](teacher-guidance-varied-in-vr-reflections.md) — related
+- [Mentor modelling and a school-wide behaviour program's strategies transferred to the mentee's classroom management practices](mentor-modelling-strategies-transfer-mentee-behaviour-management.md) — related

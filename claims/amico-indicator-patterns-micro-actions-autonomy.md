@@ -47,3 +47,4 @@ Analysis of observable indicators (logs, rubrics, qualitative debriefing) in the
 - [During the pilot, interaction sessions remained bounded in duration and frequency, and dependency-related risk signals were rare and addressed through prompts encouraging human contact](amico-bounded-usage-rare-dependency-signals.md) — related
 - [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related
 - [In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed](amico-pilot-identity-transparency-accepted.md) — related
+- [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related

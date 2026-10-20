@@ -54,3 +54,4 @@ The authors' expert interpretation from consulting across many districts, not a 
 - [Programmatic churn from constant turnover of curricula and initiatives hindered teachers' capacity for personalized, evaluation-driven improvement](programmatic-churn-hinders-personalized-improvement.md) — related
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
 - [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — related
+- [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related

@@ -70,3 +70,8 @@ Sex-stratified LMM contrasts on subcortical volumes in the matched ABCD sample. 
 - [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)
 - [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](girls-higher-spsic-turkish-not-british.md)
 - [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — related
+- [Bullied preadolescents show thinner cortices in left-hemisphere temporal, precentral, and right rostral middle frontal regions, and precentral thinning mediates 7% of the bullying effect on inhibitory control/attention](bullying-thinner-cortices-precentral-mediation.md) — related
+- [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related
+- [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related
+- [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related

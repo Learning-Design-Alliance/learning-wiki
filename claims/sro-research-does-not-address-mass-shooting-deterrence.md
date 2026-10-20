@@ -65,3 +65,4 @@ The same CRS report indicates, per the brief, that "schools with police on campu
 - [Crisis-response training such as lockdown and Run-Hide-Fight can save lives but does not prevent school shootings](crisis-response-does-not-prevent-shootings.md) — related
 - [State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment](state-safety-legislation-focuses-emergency-management.md) — related
 - [95 percent of U.S. schools conduct lockdown drills annually as part of emergency response plans](95-percent-us-schools-conduct-lockdown-drills.md) — related
+- [School resource officers have limited effects on school safety and increase suspensions, expulsions, police referrals, and arrests, with larger negative effects for Black students and students with disabilities](sros-limited-safety-gains-negative-discipline-outcomes.md) — related

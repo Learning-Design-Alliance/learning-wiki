@@ -65,3 +65,4 @@ Criterion-level LMMs for the conceptual-understanding rubric; Completeness (β =
 
 - [The correlation between conceptual understanding and procedural execution weakened over time, becoming largely independent after one year](conceptual-procedural-correlation-weakens-over-time.md)
 - [Doctoral students' conceptual understanding of data visualization declined significantly over twelve months following structured instruction](conceptual-visualization-knowledge-declines-twelve-months.md)
+- [Procedural execution in data visualization declined significantly and more steeply than conceptual understanding over twelve months](procedural-visualization-execution-decays-faster.md) — related

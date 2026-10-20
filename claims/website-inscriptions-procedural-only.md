@@ -64,3 +64,8 @@ From the analysis of Extract 2: the authors claim "the 3D model comes with certa
 ## Related Claims
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
 - [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](students-attribute-problems-to-technology-not-own-work.md) — related
+- [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](procedural-dominance-cscl-biology.md) — possibly the same claim (merge candidate)
+- [One student asked for a disciplinary explanation twelve times during a 53-minute problem-solving process without anyone clarifying it sufficiently](twelve-unanswered-conceptual-questions.md) — a narrower finding that bears on this claim
+- [Teacher and peer explanations of the scientific concepts during problem solving were at times scientifically misleading or wrong](teacher-scientific-concepts-misleading.md) — related
+- [The field moved toward step-based problem solving and increased support for collaboration, while focusing on domain-level knowledge](aied-step-based-domain-focus-collaboration-growth.md) — related
+- [CSCL designers tend to leave gaps between the technical and social design of learning environments](cscl-designers-gaps-technical-social-design.md) — a broader claim this one bears on

@@ -43,4 +43,4 @@ Confirmatory factor analysis over all participants of all six studies, comparing
 
 
 ## Related Claims
--
+- [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related

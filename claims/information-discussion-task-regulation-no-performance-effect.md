@@ -45,3 +45,5 @@ Multiple regression on 101 groups' factor scores; both factors were non-signific
 ## Related Claims
 
 - [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md)
+- [Performing social activities negatively predicts group performance in CSCL inquiry tasks](social-activities-negatively-predict-group-performance.md) — related
+- [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](regulation-of-social-activities-predicts-group-performance.md) — related

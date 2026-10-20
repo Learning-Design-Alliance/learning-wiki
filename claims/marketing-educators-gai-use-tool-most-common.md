@@ -47,3 +47,4 @@ Survey of 14 full-time marketing faculty covering familiarity with AI (5-point s
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
 - [Courses with higher-order learning objectives use and emphasize GAI skills more across its roles](higher-order-objectives-courses-emphasize-gai-skills-more.md) — related
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related

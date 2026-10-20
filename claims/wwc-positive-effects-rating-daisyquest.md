@@ -52,3 +52,5 @@ The WWC's rating determination for the phonological processing domain. Criterion
 - [DaisyQuest improved phonological awareness over regular schooling in a child-care facility randomized trial](daisyquest-child-care-significant-gains.md) — a narrower finding that bears on this claim
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
 - [In the 2005-2006 school year, only one of 10 computer-based reading and math software products had statistically significant positive effects on student outcomes](one-of-ten-software-products-significant-positive-effects.md) — related
+- [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](daisyquest-beats-math-software-alphabetics.md) — a narrower finding that bears on this claim
+- [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](daisyquest-versus-teacher-instruction-mixed.md) — related

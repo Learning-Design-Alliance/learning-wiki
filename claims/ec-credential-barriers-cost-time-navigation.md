@@ -48,3 +48,6 @@ Narrative synthesis of research on candidate barriers in the challenges section 
 ## Related Claims
 - [Most U.S. states offer a stand-alone early childhood teaching credential, but fewer than half require lead public preschool teachers to hold one](46-states-stand-alone-ec-credential-19-require-it.md) — related
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — possibly the same claim (merge candidate)
+- [The brief reports that adult learners often need high-touch support such as navigators through enrollment and financial aid](adult-learners-need-navigator-high-touch-support.md) — related
+- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — possibly the same claim (merge candidate)
+- [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) — related

@@ -48,3 +48,4 @@ Headline finding of the mixed-methods study of 382 undergraduates, operationaliz
 - [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule](four-types-llm-reliance-typology-distribution.md) — related
+- [First-generation status is a significant predictor of reliance intensity, indicating a compensatory dynamic at minority-serving institutions](first-generation-status-predicts-reliance-intensity.md) — related

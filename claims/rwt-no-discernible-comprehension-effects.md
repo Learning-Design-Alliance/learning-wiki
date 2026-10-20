@@ -49,3 +49,5 @@ In the Torgesen et al. (2003) randomized controlled trial, passage comprehension
 - [One-year follow-up and LiPS-vs-RWT supplemental comparisons showed mostly non-significant differences, with some follow-up alphabetics effects remaining significant](lips-supplemental-followup-mixed-findings.md) — related
 - [Read, Write & Type!™ shows no statistically significant alphabetics advantages over the Auditory Discrimination in Depth® comparison](rwt-no-advantage-over-auditory-discrimination-in-depth.md) — related
 - [The online vocabulary intervention did not significantly improve reading comprehension](online-vocabulary-intervention-no-comprehension-effect.md) — related
+- [Read, Write & Type!™ shows statistically significant positive effects on phoneme segmenting and word attack relative to regular classroom instruction for low-achieving first graders](rwt-significant-alphabetics-gains-versus-regular-instruction.md) — related
+- [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related

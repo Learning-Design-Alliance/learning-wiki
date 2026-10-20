@@ -48,3 +48,4 @@ The report's review of early childhood programs (Head Start, Smart Start, NC Pre
 - Evidence on preschool attendance by young children in foster care is largely unexamined, with one cited source reporting six percent of foster children under age six attend Head Start — related
 - [Many U.S. children lack access to early learning programs: only 54% of 3- and 4-year-olds attend any preschool and 35% of eligible children participate in Head Start](ece-access-gaps-preschool-head-start-participation.md) — related
 - [Smart Start-funded activities in North Carolina were positively related to classroom quality, which was in turn positively related to children's outcomes](smart-start-quality-outcomes-link.md) — related
+- [Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access](california-ece-serves-only-33-percent-eligible-children.md) — related

@@ -51,3 +51,5 @@ The article's stated purpose is to examine "behavioral responses" to a selective
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — related
 - [Most TTI teachers stayed on the job even after transfer payments ended](tti-teachers-stayed-after-payments-ended.md) — related
 - Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay — related
+- [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
+- [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related

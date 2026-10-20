@@ -46,3 +46,5 @@ Interpretive argument in the innovation-management contribution, reasoning that 
 - [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
 - [In the Overview dimension, augmentation produced a marginal QWK decrease (ΔQWK = −0.006) despite improving macro-F1, the only dimension with this trade-off](overview-augmentation-qwk-tradeoff.md) — related
 - [ChatGPT-generated art lesson plans pose challenges of impracticality, overlooked safety issues, and required teacher revision time](chatgpt-lesson-plan-challenges-practicality-safety.md) — related
+- [AI is not yet ready to replace teachers but presents a real possibility to augment them](ai-augments-not-replaces-teachers.md) — related
+- [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — a broader claim this one bears on

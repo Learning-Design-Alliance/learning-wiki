@@ -67,3 +67,5 @@ Observational analysis of restorative justice practices alongside suspensions. T
 - [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related
 - [Schools with high suspension rates are less safe than schools with lower suspension rates serving similar students](high-suspension-rates-less-safe.md) — related
 - [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related
+- [Attendance, but not academic achievement, improved for previously suspended students following the suspension reform](suspension-reform-improved-attendance-not-achievement.md) — related
+- [School climate improved in predominantly Black schools but declined in predominantly Latino and racially diverse schools as suspension use for severe infractions fell](cps-suspension-reduction-school-climate.md) — related

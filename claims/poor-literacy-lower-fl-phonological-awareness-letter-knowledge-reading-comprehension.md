@@ -51,3 +51,4 @@ Random-effects meta-analysis of group-comparison studies of poor readers/speller
 - [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](heterogeneity-limits-fl-attainment-interpretation.md) — related
 - [Foreign language reading comprehension performance varies to a similar extent in poor and typical literacy groups](similar-variability-fl-reading-comprehension.md) — related
 - [Children/adolescents with poor literacy skills show similar average foreign language receptive vocabulary knowledge to peers with typical literacy skills](poor-literacy-similar-fl-receptive-vocabulary.md) — related
+- [Exempting students with poor literacy skills from foreign language instruction is not based on systematic evidence](fl-exemption-policies-lack-evidence.md) — related

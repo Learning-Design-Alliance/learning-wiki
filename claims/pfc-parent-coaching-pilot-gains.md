@@ -43,4 +43,5 @@ The review reports its pilot study in which families of 62 children with ADHD we
 
 
 ## Related Claims
--
+- [In a small randomized pilot study, children with ADHD showed better sociometric peer functioning when the MOSAIC classroom inclusion components were added to behavioral management and social skills training](mosaic-classroom-inclusion-pilot-gains.md) — related
+- [A replication trial with 267 preschoolers found greater gains in social skills and stronger teacher-child and parent-teacher relationships than controls](getting-ready-replication-relationships.md) — related

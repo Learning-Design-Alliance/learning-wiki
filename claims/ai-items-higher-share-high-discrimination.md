@@ -47,3 +47,4 @@ Proportions of items at each Baker (2001) discrimination level, reported in Tabl
 - [For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5](ai-exams-informative-below-average-ability.md) — related
 - [AI-generated questions showed slightly higher average discrimination than standardized test questions (αAI = 1.3 vs αSTD = 1.2), with moderate evidence](ai-items-slightly-more-discriminating.md) — related
 - Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item — reports the opposite
+- [AI-generated 10-question exams provided higher maximum test information and reliability (Imax = 3.85, R = 0.79) than the standardized exams (Imax = 2.61, R = 0.72)](ai-exams-higher-test-information.md) — related

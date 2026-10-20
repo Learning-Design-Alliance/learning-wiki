@@ -43,4 +43,9 @@ Experiment 1 correlational analysis with 80 children aged 4.7-11.9 years complet
 
 
 ## Related Claims
--
+- [Reanalysis of previously-published data replicates the incongruent-trial pattern in children, with a marginal effect in adults](reanalysis-replicates-incongruent-pattern-children-adults-marginal.md) — related
+- [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
+- [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — related
+- [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances](nonsymbolic-multiplication-link-trial-type-independent.md) — reports the opposite
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related

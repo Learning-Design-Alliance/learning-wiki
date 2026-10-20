@@ -50,3 +50,4 @@ Second-year findings from the national randomized controlled evaluation of compr
 - [One year of comprehensive teacher induction showed no impact on student achievement](comprehensive-induction-no-student-achievement-gains-first-year.md) — related
 - [Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction](two-year-comprehensive-induction-boosts-achievement.md) — related
 - [Participation in an induction program alone does not improve the chances teachers will remain; induction quality matters, and almost 20 percent of new teachers report not participating](induction-participation-alone-insufficient-quality-matters.md) — related
+- [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — related

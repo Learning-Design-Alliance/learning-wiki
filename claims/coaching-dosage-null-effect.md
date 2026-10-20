@@ -59,3 +59,7 @@ Exploratory meta-analytic regressions across the 60 studies; the authors call th
 - [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 -
 - [The authors judge insufficient instructional intensity (dosage) as the primary factor behind the null result of learning strategies instruction in adult education](insufficient-dosage-primary-factor-null-strategy-outcome.md) — related
+- [Frequency of coaching field support varies across California induction programs and is positively related to administrators' ratings of program effectiveness](coaching-frequency-related-to-induction-effectiveness.md) — reports the opposite
+- [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](coaching-dosage-quality-over-quantity.md) — possibly the same claim (merge candidate)
+- [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — reports the opposite
+- [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related

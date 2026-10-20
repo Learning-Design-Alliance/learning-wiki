@@ -66,3 +66,5 @@ Correlational analysis of the same study: "no significant correlations between s
 - [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — reports the opposite
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
 - [Time on task does not explain the erroneous-examples delayed learning advantage](time-on-task-does-not-explain-delayed-advantage.md) — related
+- [The delayed erroneous-examples benefit holds for both low and high prior knowledge students](erroneous-examples-benefit-both-prior-knowledge-levels.md) — related
+- [The delayed erroneous-examples advantage replicated at one school but was not statistically significant at the other](delayed-advantage-mixed-across-schools.md) — related

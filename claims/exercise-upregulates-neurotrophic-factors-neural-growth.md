@@ -64,3 +64,5 @@ Narrative review of human adult studies. The review reports exercise effects on 
 ## Related Claims
 - [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — a narrower finding that bears on this claim
 - [Daily physiological changes in non-experimental situations influence measures of brain structure and function](daily-physiological-changes-influence-brain-measures.md) — related
+- [Cognition is a transient phenomenon created by the functioning of distributed components of the nervous system](cognition-transient-distributed-functioning.md) — related
+- [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — a broader claim this one bears on

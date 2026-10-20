@@ -51,3 +51,4 @@ Correlation reported in the Discussion of this study of 36-month-olds: the autho
 - [Overall lexical processing latency at 36 months predicts receptive vocabulary at 60 months, but not over and above concurrent vocabulary](latency-36-months-predicts-tpvt-60-not-over-concurrent.md) — related
 - [Lexical processing at 36 months did not predict later school readiness over and above concurrent vocabulary, but predicted BSRA better than vocabulary at 60 months did](bsra-latency-not-over-tpvt36-but-better-than-tpvt60.md) — related
 - [Verb trials with dynamic scenes yield longer latencies than noun trials with static images, and noun and verb latencies are moderately correlated](verb-latency-longer-noun-latency-moderately-correlated.md) — related
+- [Processing speed at 19 months correlates with expressive vocabulary between 18 and 31 months, but processing speed at 25 and 31 months does not](processing-speed-vocabulary-correlation-only-at-19-months.md) — related

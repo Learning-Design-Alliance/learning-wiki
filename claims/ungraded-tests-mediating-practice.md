@@ -45,3 +45,6 @@ Ethnographic finding from the mariners' course: test results "had no effect in t
 ## Related Claims
 
 - [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md)
+- [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
+- [Two writing teachers report that decoupling evaluation from grades under a grading contract lets them give blunter feedback that students can weigh, an account with no data reported](decoupling-evaluation-from-grades-improves-feedback.md) — related
+- [Early realization of a shared object/motive bonds adult course participants into a quasi-community](quasi-community-shared-object-motive.md) — related

@@ -59,3 +59,6 @@ The brief asserts, citing prior research (Pryor & Crossouard, 2008, in an endnot
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related
+- [Participants identified assessment redesign approaches for helping all students feel successful, centering relevance, lowered stakes, choice, emotional support, and preparation](assessment-redesign-insights-tlc-convening.md) — related
+- [Early realization of a shared object/motive bonds adult course participants into a quasi-community](quasi-community-shared-object-motive.md) — related

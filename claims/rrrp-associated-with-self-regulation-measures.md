@@ -69,3 +69,4 @@ Two further HLM models in the same sample tested fall RRRP Part 2 and the 'wait 
 - [Children's ability to wait for 'go' on the RRRP was not a significant predictor of any academic outcome and was removed from the models](wait-for-go-not-predictive-of-academic-outcomes.md) — related
 - [Fall RRRP Part 1 predicted spring Applied Problems mathematics scores and gains, but did not predict spring Math Fluency](rrrp-part1-predicts-applied-problems-not-math-fluency.md) — related
 - [RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2](rrrp-scores-stable-fall-to-spring.md) — related
+- [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related

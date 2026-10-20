@@ -44,3 +44,10 @@ Synthesis statement from the review's abstract summarizing RQ3 across the 42 stu
 
 ## Related Claims
 - [Favorability scores were not associated with posttest scores, suggesting they reflect general attitudes toward the practice method](favorability-not-associated-with-posttest-scores.md) — related
+- [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related
+- [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
+- [Review reports that teachers' beliefs, attitudes and TPACK—not AI knowledge alone—mediate AI integration](teacher-beliefs-mediate-ai-integration.md) — related
+- [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — related
+- [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related
+- [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
+- [Students in secondary mathematics report high acceptance of the domain-specific AI chatbot ADA across all Technology Acceptance Model dimensions](ada-high-tam-acceptance-secondary-math.md) — related

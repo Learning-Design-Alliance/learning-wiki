@@ -43,4 +43,6 @@ Multilevel analysis of the afternoon (around 3:00 pm) measurement occasion in th
 
 
 ## Related Claims
--
+- [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — a broader claim this one bears on
+- [Previous night's sleep quality and time in bed predict children's morning working memory performance fluctuations](sleep-quality-time-in-bed-predict-morning-working-memory.md) — related
+- [Children with lower average working memory performance show stronger within-person coupling between nightly sleep quality and morning performance](lower-performers-stronger-sleep-quality-coupling.md) — related

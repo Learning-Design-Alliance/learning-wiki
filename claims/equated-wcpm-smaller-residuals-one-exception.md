@@ -47,3 +47,4 @@ Residual analysis limited to the 22 passages administered together with the fina
 - [Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability](equated-wcpm-higher-cross-passage-correlations.md) — related
 - [Equated WCPM scores generally correlate more highly with MAP Growth Reading RIT scores than raw WCPM scores, with one exception](equated-wcpm-higher-external-validity-correlations.md) — related
 - [Equated WCPM scores show much less within-student variance than raw WCPM scores, indicating reduced passage-difficulty fluctuations](equated-wcpm-less-within-student-variance.md) — related
+- [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related

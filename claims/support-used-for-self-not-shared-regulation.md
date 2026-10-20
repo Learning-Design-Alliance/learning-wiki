@@ -43,4 +43,5 @@ Post-questionnaire ratings in the field experiment asked how far students used t
 
 
 ## Related Claims
--
+- [Students report regulation strategies mainly at the self- and shared-level, with significantly fewer strategies at the co-level](shared-and-self-level-dominate-over-co-level.md) — related
+- [Contributions to socially shared metacognitive regulation were significantly higher in higher performing groups than in lower performing groups (reported finding)](ssmr-contributions-higher-vs-lower-performing-groups.md) — related

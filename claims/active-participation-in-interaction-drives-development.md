@@ -47,3 +47,6 @@ Findings from the same pretest-posttest experiment (N = 34) comparing developmen
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — a broader claim this one bears on
 - [The learner's developmental level conditions the outcomes of interactional input](developmental-level-conditions-interaction-outcomes.md) — related
 - [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — related
+- [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — a broader claim this one bears on
+- [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
+- [Merely viewing an AI-generated writing example improved writing skill as much as actively practicing with the AI tool, with benefits persisting one day later](viewing-ai-example-as-effective-as-ai-practice.md) — related

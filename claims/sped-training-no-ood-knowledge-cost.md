@@ -45,3 +45,5 @@ Out-of-domain evaluation on the OpenLearnLM benchmark (N=3,714) across Skills, C
 ## Related Claims
 - [The full Special-R1 model raises persona-aware Fit from 6.75 to 8.40 and SPED-rubric Helpfulness from 0.720 to 0.768 over a non-disability-aware baseline](special-r1-raises-persona-fit-and-sped-helpfulness.md) — related
 - [Prompt style is the largest driver of disability-aware Fit gains, and the Thinking Reward becomes effective only in combination with adaptive prompting](thinking-reward-effective-only-with-adaptive-prompting.md) — related
+- [Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge](skills-independent-of-knowledge-scores-llms.md) — related
+- [Knowledge, Skills, and Attitude scores are largely independent across frontier LLMs, with Knowledge–Skills correlation r=−0.51 and Knowledge–Attitude r=−0.63](ksa-dimensions-weakly-negative-correlated-llms.md) — related

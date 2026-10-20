@@ -45,3 +45,5 @@ The incoming Editor-in-Chief's editorial observation, drawn from ten years of ed
 ## Related Claims
 
 - [The editorial calls for empirically grounded analysis combining Rabardel's theory with design-based research data to study mutual shaping of CSCL software and group cognition](rabardel-plus-design-based-research-agenda.md)
+- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md) — related

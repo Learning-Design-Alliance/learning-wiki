@@ -49,3 +49,6 @@ In the same two-group artificial-language experiment, the hypothesis that explic
 - [The study tested the interaction of explicit instruction with complexity and morphology/syntax across four L2 structures](experanto-interaction-design-four-l2-structures.md) — related
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — related
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — reports the opposite
+- [Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants](syntax-outweighs-morphology-in-grammar-noticing.md) — related
+- [Morphological noticing focuses mainly on verb forms, especially modals, and on preposition choice](morphological-noticing-verb-forms-modals-prepositions.md) — related
+- [Learners resolve grammar-related noticing with intuition, reasoning, rephrasing and explicit rules rather than external resources](grammar-lres-solved-with-own-resources-not-external.md) — related

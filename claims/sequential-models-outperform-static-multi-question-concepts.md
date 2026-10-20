@@ -43,4 +43,7 @@ Subset analysis of concepts with multiple post-test questions from the same 316-
 
 
 ## Related Claims
--
+- [Overlapping concepts (sharing post-test questions with other concepts) yield higher student scores and higher model R², and multi-task modeling across all concepts is detrimental for these concepts](overlapping-concepts-higher-performance-multi-task-detrimental.md) — related
+- [A hybrid stealth assessment framework selecting the optimal model per concept outperforms any single homogeneous modeling technique for predicting student competencies](hybrid-stealth-assessment-outperforms-single-model.md) — related
+- [The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts](single-task-rf-best-average-not-universally-optimal.md) — related
+- [Concepts associated with only a single post-test question yield markedly low predictive performance across all modeling approaches](single-question-concepts-low-predictive-performance.md) — related

@@ -72,3 +72,5 @@ Completion broken down by college type: immediate four-year enrollees completed 
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
 - [Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers](foster-care-graduation-college-gaps.md) — related
 - [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)
+- [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — related
+- [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related

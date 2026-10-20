@@ -45,3 +45,4 @@ Theoretical argument in the editorial, grounded in philosophy of science: unrefl
 ## Related Claims
 - [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — related
+- [Connections among the planes of learning lack theoretical and empirical analysis](plane-connections-lack-theory-and-data.md) — a narrower finding that bears on this claim

@@ -50,3 +50,5 @@ ANOVA/Welch's tests across the four latent profiles (N = 416 after cleaning). Th
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related
 - [The four profiles differ in academic self-efficacy, time/study management, and effort regulation, with HL highest, but not in help seeking](profiles-differ-in-self-regulatory-resources-except-help-seeking.md) — related
 - [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](goal-profiles-differ-motivation-regulation.md) — related
+- [Self-efficacy profiles differ in AI use for informational support (η² = .28) and emotional support (η² = .18)](informational-emotional-support-ai-use-profile-differences.md) — related
+- [Achievement goal profiles did not differ significantly in argumentative writing achievement, but did differ in narrative writing achievement](profile-differences-narrative-not-argumentative-achievement.md) — related

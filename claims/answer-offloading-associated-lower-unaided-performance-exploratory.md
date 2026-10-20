@@ -51,3 +51,6 @@ Exploratory item-level logistic mixed-effects model (3,348 items from 558 partic
 - [Metacognitive feedback disrupted the tendency to repeat answer offloading across consecutive items without changing whether participants engaged with the assistant](metacognitive-feedback-disrupts-repeated-answer-offloading.md) — related
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect](prior-genai-use-poorer-unaided-reasoning.md) — related
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](ai-assisted-performance-no-unassisted-transfer.md) — related
+- [Unfettered GPT-4 access during practice harms subsequent unassisted exam performance in high school mathematics](gpt-base-harms-unassisted-exam-performance.md) — related
+- [Students do not perceive the learning harm from copying GPT solutions and overestimate their exam performance](students-unaware-of-ai-learning-harm.md) — related

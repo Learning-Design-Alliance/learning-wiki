@@ -50,3 +50,4 @@ Table 5 reports IMR concentrated in less successful groups: 21.3% (high school) 
 - [American university engineering students showed the opposite foci pattern: the less successful group manifested more high-level MR than the more successful group](opposite-foci-pattern-engineering.md) — related
 - [Script-supported groups mainly engaged in accepted intra-group metacognitive interaction, with co-constructed interaction infrequent and highly variable between groups](accepted-interaction-dominant-co-construction-rare.md) — related
 - [VMSR occurred at low levels across all groups and contexts](vmsr-low-across-contexts.md) — related
+- [In the engineering context, SSMR focus showed an opposite pattern to veterinary science: the less successful group had proportionally more SSMR-High than the more successful group](opposite-ssmr-foci-engineering.md) — related

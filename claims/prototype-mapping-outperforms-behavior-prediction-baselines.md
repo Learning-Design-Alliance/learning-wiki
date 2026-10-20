@@ -46,3 +46,5 @@ End-to-end comparison across all 18 unique configurations of 6 behavior-predicti
 - [Behavior-prediction accuracy rises with more past learning records, reaching 0.94 at 40 records](more-past-records-improve-simulation-accuracy.md) — related
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
 - [CogEvolution performs comparably to the KT-based PEERS model on mastery prediction (AUC 0.80 vs 0.82) while achieving higher mistake precision (76.8%) on CogMath-948](cogevolution-mistake-precision-beats-kt-baseline.md) — related
+- [Human evaluators rate the framework's simulated solutions higher than the second-best setting across all model settings](human-evaluation-prefers-prototype-refine-simulations.md) — related
+- [Agent-generated descriptions significantly improve prediction of student dropout in a lesson, outperforming all other measured approaches](agent-descriptions-improve-dropout-prediction.md) — related

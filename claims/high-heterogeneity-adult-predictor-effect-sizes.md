@@ -49,3 +49,5 @@ Heterogeneity was assessed with Q statistics and I² across the 10 predictor mod
 ## Related Claims
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related
+- [Morphological awareness is a significantly stronger correlate of adult reading comprehension than phonological awareness and RAN](morphological-awareness-stronger-than-phonological-ran.md) — related
+- [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related

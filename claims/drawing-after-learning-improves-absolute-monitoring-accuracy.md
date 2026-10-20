@@ -54,3 +54,7 @@ Randomized experiment with 88 university students (29 control, 29 drawing-from-s
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related
 - [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) — related
 - [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related
+- [Group settings and guidelines each promoted calibration accuracy and achievement in a high school biology factorial experiment](group-settings-and-guidelines-promote-calibration.md) — related
+- [Thinking aloud does not affect teachers' monitoring accuracy](think-aloud-no-effect-teacher-monitoring-accuracy.md) — related
+- [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](covert-retrieval-tests-improve-map-learning.md) — related
+- [Little or no relation between absolute and relative accuracy in metacomprehension research](little-relation-absolute-relative-accuracy.md) — related

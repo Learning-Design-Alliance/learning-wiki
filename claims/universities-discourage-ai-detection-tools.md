@@ -48,3 +48,4 @@ Qualitative thematic analysis of faculty-targeted guidelines. The article quotes
 - [Universities disabling AI detection cite false-positive risk at scale, and detector influence persists in individual grading, journal screening, and institutions without policy revision](detector-false-positives-at-scale-institutional-retreat.md) — related
 - [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — a broader claim this one bears on
+- [AI detectors are reported as linguistically biased, unreliable, and psychologically damaging in student discourse](ai-detectors-reported-unreliable-biased.md) — related

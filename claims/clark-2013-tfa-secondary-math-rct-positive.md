@@ -65,3 +65,7 @@ This RCT randomly assigned students in 45 secondary schools to a math class taug
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
 - [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — reports the opposite
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — reports the opposite
+- [Study designs that randomly assign students within schools involve trade-offs, illustrated by the Teach For America evaluation experience](within-school-randomization-trade-offs-tfa.md) — related
+- [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — related
+- [TFA teachers show potentially positive effects on science achievement, based on one study](tfa-potentially-positive-science-effects.md) — related
+- [Teach For America teachers had no impacts on other outcomes such as attendance, promotion, or disciplinary incidents](tfa-no-impacts-attendance-promotion-discipline.md) — related

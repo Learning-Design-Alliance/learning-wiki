@@ -52,3 +52,6 @@ Systematic WWC review of two randomized controlled trials meeting group design s
 - In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10 — a narrower finding that bears on this claim
 - Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced — related
 - [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related
+- [In a 2013 Denver RCT, LLI showed a statistically significant positive effect on BAS reading achievement, a negative but non-significant difference on DRA2, and a positive but non-significant difference on STAR for female students in grades 1–2](lli-2013-denver-rct-mixed-measure-results.md) — a narrower finding that bears on this claim
+- [LLI had a negative impact on secondary students' mastery of English language arts/literacy standards](lli-negative-impact-ela-standards-mastery.md) — reports the opposite

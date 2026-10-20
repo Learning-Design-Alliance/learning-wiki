@@ -47,3 +47,5 @@ Meta-analysis of 31 experimental and control group comparisons of junior high sc
 - Trim-and-fill analysis shows no publication bias in the meta-analysis of innovative learning effects on mathematical problem-solving ability — related
 - Study effect sizes are heterogeneous (I² reported as 83.197%), so a random-effects model is used for the summary effect — related
 - [Individual study effect sizes span moderate to very high: eight studies medium, ten high, and thirteen very high by Cohen-criteria classification](effect-size-distribution-medium-high-very-high.md) — related
+- [Mathematics test practice does not improve domain-general problem-solving ability](math-practice-no-effect-domain-general-problem-solving.md) — related
+- [Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect](guidance-improves-inquiry-performance-success.md) — related

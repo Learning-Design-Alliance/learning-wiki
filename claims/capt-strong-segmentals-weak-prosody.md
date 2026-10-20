@@ -86,3 +86,6 @@ Ngo et al. (2024) support this claim for ASR-based training, with a large pooled
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
 - [No surveyed presentation-coaching system covers all five taxonomy dimensions simultaneously](no-system-covers-all-five-coaching-dimensions.md) — related
 - [Retrieved knowledge-graph subgraphs suggest dyslexic learners perceive existing AI tools as useful but still limited](kg-subgraphs-ai-tools-useful-but-limited.md) — related
+- [No existing corpus simultaneously provides L2 speech, long-form presentation structure, accent labels, and prosodic annotations](no-corpus-satisfies-presentation-coaching-criteria.md) — related
+- [Profy practice shows larger observed pronunciation-intelligibility improvement than elicited imitation, with non-overlapping pre/post confidence intervals](profy-intelligibility-gain-over-elicited-imitation.md) — related
+- [ASR transcription serves as a diagnostic tool identifying individual learners' pronunciation errors, with function words most commonly mispronounced](asr-diagnostic-identification-pronunciation-errors.md) — a narrower finding that bears on this claim

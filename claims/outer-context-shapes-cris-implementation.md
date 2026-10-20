@@ -47,3 +47,5 @@ This is the authors' interpretive claim about the outer context — state and lo
 - [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — a broader claim this one bears on
 - [Staff reflections identify partner skills, knowledge, and dispositions that support full participation in Collaborative Innovation](staff-reflections-capacities-collaborative-innovation.md) — related
 - Approximately 70% of Core to College key collaborators identified by Alignment Directors were from higher education — related
+- [Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions](systemwide-actors-shape-instruction-via-assessment.md) — related
+- [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related

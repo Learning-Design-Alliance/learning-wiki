@@ -44,4 +44,7 @@ Multilevel regression of instructional practices in the 21-classroom sample (Tab
 
 
 ## Related Claims
--
+- [Teaching cognitive strategies is associated with more accurate self-monitoring, while metacognitive strategy instruction shows no relation](cognitive-strategy-instruction-better-self-monitoring.md) — related
+- [Teacher-directed instruction is negatively related to children's restudy effectiveness and self-monitoring accuracy](teacher-directed-instruction-negative-metacognition.md) — related
+- [Elementary teaching practices during a standardized lesson are more often teacher-directed than child-centered, with no grade differences in frequency](teaching-more-teacher-directed-than-child-centered.md) — related
+- [Child-centered instruction is associated with students' SRL monitoring accuracy](child-centered-instruction-student-monitoring-accuracy.md) — possibly the same claim (merge candidate)

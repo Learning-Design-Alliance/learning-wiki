@@ -44,3 +44,8 @@ The paper reports, citing Gerlich (2025), Lee et al. (2025), and Kosmyna et al. 
 
 ## Related Claims
 - [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — related
+- [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — possibly the same claim (merge candidate)
+- [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
+- [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](llm-cognitive-debt-weakens-critical-thinking.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

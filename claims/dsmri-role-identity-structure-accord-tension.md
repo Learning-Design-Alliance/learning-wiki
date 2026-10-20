@@ -44,3 +44,4 @@ Conceptual analysis in the article's section on role identity structure. The art
 
 ## Related Claims
 - [Role identity formation is a self-organizing process in which the system strives toward coherence, moving from repellor states toward attractor states](dsmri-role-identity-formation-attractor-repellor.md) — possibly the same claim (merge candidate)
+- [OpenSciEd curriculum design goals, especially coherence from the student perspective, come into tension during unit design](open-scied-design-tensions-coherence.md) — a narrower finding that bears on this claim

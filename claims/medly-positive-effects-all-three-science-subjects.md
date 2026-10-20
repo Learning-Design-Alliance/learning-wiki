@@ -46,3 +46,4 @@ Subject-specific intention-to-treat mixed-effects models from the same trial (po
 - [Allocation to Medly improved post-test GCSE science attainment relative to business-as-usual self-directed revision (Hedges' g = 0.33)](medly-micro-rct-improves-gcse-science-attainment.md) — a broader claim this one bears on
 - [Greater Medly engagement was positively associated with post-test attainment, treated as exploratory rather than causal](medly-engagement-attainment-associational.md) — related
 - [No clear evidence that Medly's effect differed by Pupil Premium disadvantage status](medly-no-differential-impact-pupil-premium.md) — related
+- [LLM teaching effectiveness varies substantially across subject domains, strongest where knowledge points apply directly and weakest in physics and chemistry](llm-teaching-effectiveness-varies-by-domain.md) — related

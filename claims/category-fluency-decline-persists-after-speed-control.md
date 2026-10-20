@@ -47,3 +47,4 @@ Cross-sectional ANOVA and ANCOVA results for category fluency (animal naming in 
 - [Young adults outperform older adults on category fluency and processing speed, while older adults outperform young adults on premorbid IQ (NART)](age-group-differences-category-fluency-speed-iq.md) — a broader claim this one bears on
 - [Curve estimation shows linear decline in processing speed after age 30, quadratic trajectories for category fluency and IQ, and no age change in letter fluency](curve-estimation-differential-age-trajectories.md) — related
 - [Processing speed has a significant effect on both letter and category fluency in older adults, while IQ does not](processing-speed-significant-covariate-both-fluencies.md) — related
+- [Decline in letter fluency beyond normal age expectations warrants further evaluation for neurological or mental disorder](letter-fluency-decline-clinical-red-flag.md) — related

@@ -50,3 +50,4 @@ Focus-group theme from the qualitative pilot. The course paired simulations with
 - [Students report increased confidence in selecting, administering, scoring, and interpreting assessments after a simulated clinical course](simucase-increases-assessment-confidence.md) — related
 - Students who reported their teacher was more knowledgeable with the program perceived education technology as more beneficial — related
 - [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related
+- [Students find computer-based simulation feedback insufficient because incorrect responses are marked without explanation](simucase-feedback-insufficient.md) — related

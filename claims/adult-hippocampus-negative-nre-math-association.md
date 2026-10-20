@@ -47,3 +47,5 @@ Group-wise whole-brain regression of NRE on math achievement reported in the fMR
 - [Neural ratio sensitivity in parietal cortex, including bilateral IPS, increases with development from childhood into adulthood](parietal-nre-increases-with-development.md) — related
 - [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
+- [Math achievement correlates with ventral occipital-temporal NRE in both children and adults, with children relying on extrastriate and adults on anterior higher-order visual regions](vot-nre-achievement-developmental-reorganization.md) — related
+- [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related

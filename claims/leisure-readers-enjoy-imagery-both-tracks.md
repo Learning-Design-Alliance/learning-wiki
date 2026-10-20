@@ -62,3 +62,4 @@ Chi-square analysis among 696 higher-track seventh graders; 32.5% were leisure r
 - [A majority of non-leisure readers report enjoying reading in general (59% lower track, 69% higher track)](non-leisure-readers-still-enjoy-reading.md) — related
 - [Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery](sex-differences-leisure-reading-enjoyment-not-imagery.md) — related
 - [In the lower track, reading enjoyment relates to school achievement for girls but not for boys among non-leisure readers](lower-track-enjoyment-grades-girls-only.md) — related
+- [Mental imagery shows no direct relation to school achievement among non-leisure readers, though a ceiling effect limits this null finding](mental-imagery-no-achievement-relation-ceiling.md) — related

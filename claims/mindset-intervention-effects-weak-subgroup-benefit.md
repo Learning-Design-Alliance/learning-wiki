@@ -55,3 +55,4 @@ Second meta-analysis of mind-set interventions (k = 43 effect sizes, N = 57,155)
 - [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — related
 - Risk of bias was high or unclear in all included trials, but no criterion significantly moderated effects — related
 - [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — a narrower finding that bears on this claim
+- [Authors with a financial interest in GMT were 2.5 times as likely to report significant effects, per the review's account of Macnamara and Burgoyne](gmt-financial-interest-significant-effects.md) — related

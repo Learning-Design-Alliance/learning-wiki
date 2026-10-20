@@ -62,4 +62,7 @@ Online replication with 203 participants from predominantly English-speaking cou
 
 
 ## Related Claims
--
+- [Participants seek help less often than they withhold answers when both strategies are available or compared across conditions](help-seeking-less-frequent-than-withholding.md) — related
+- [The overlap in confidence ranges between submitted answers and strategy use is larger for help seeking than for withholding answers](larger-confidence-overlap-help-seeking.md) — related
+- [Help seeking is guided by a wider variety of considerations beyond improving immediate answer accuracy than withholding answers is](help-seeking-multiple-considerations-beyond-accuracy.md) — related
+- [The option to withhold answers improves output-bound accuracy, whereas the option to seek help does not consistently do so](withholding-improves-output-bound-accuracy-help-seeking-not.md) — related

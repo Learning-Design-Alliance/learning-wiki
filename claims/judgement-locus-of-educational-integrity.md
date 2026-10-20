@@ -47,3 +47,7 @@ Conceptual-theoretical argument, not an empirical result. The paper distinguishe
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
 - [The paper argues authenticity in AI-mediated assessment is achieved through design rather than detection](authenticity-through-design-not-detection.md) — related
 - [Very little empirical work exists on the effectiveness of strategies for developing students' evaluative judgement](little-empirical-work-evaluative-judgement-strategies.md) — related
+- [AI-supported design learning demands integrative capabilities, judgement, and learner agency rather than a single new skill](ai-design-integration-judgement-agency.md) — related
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — related
+- [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
+- [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](assessment-shift-task-articulation-over-text-quality.md) — a narrower finding that bears on this claim

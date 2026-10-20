@@ -51,3 +51,6 @@ Analysis of California Commission on Teacher Credentialing data on permits and c
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
 - Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023](california-substandard-credentials-tripled-2013-2023.md) — related
+- [California authorizes fewer than half the bilingual teachers it did at its mid-1990s peak, leaving it possibly unprepared for demand under Proposition 58](bilingual-teacher-supply-insufficient-prop58.md) — related
+- [The share of new math and science teachers entering on substandard credentials doubled from about 20% to 40% between 2011–12 and 2015–16 while fully credentialed entrants dropped from 3,200 to 2,200](math-science-prepared-pipeline-shrinking.md) — related
+- [BCLAD-authorized educators are in low supply in California and their assignments are often misaligned with bilingual program demand](bclad-supply-low-and-misaligned-with-demand.md) — related

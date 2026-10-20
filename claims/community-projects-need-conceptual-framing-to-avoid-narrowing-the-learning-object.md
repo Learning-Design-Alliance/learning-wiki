@@ -76,3 +76,6 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
 - [Primary barriers to infusing 21st century skills are psychological, political, and cultural rather than conceptual, technical, or economic](barriers-psychological-political-cultural.md) — related
+- [Faculty and student workshops diverged on pedagogical structure for project-based learning: instructor-driven formats versus student autonomy](divergence-structure-versus-autonomy-in-projects.md) — related
+- [In web-based high-school distance education, e-teachers widened the object of their teaching activity toward more independent and engaged forms of learning](e-teachers-widen-object-toward-independent-learning.md) — a broader claim this one bears on
+- [Storying is socially and politically non-neutral: it privileges some storylines and silences others](storying-privileges-some-storylines-silences-others.md) — related

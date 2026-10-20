@@ -53,3 +53,6 @@ Reflexive thematic analysis of the written feedback from the 11 teachers in a un
 - The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible — related
 - [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — a broader claim this one bears on
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related
+- [Teachers treated AI as a provisional thinking partner whose outputs required iterative adaptation rather than automatic adoption](ai-provisional-thinking-partner-iterative-design.md) — related
+- [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related
+- [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — reports the opposite

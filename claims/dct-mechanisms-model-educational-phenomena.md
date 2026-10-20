@@ -50,3 +50,4 @@ The article describes its methodological approach in a narrative review: after p
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — a narrower finding that bears on this claim
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — a narrower finding that bears on this claim
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related

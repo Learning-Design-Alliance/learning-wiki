@@ -46,3 +46,4 @@ In the multi-turn amplification analysis, Informational harm is the only dimensi
 - [Multi-turn interaction amplifies pedagogical harm: mean harm rises 6-11 percentage points across subjects and pedagogical-relationship harm surges from 17.7% to 77.8%](multi-turn-dialogue-amplifies-tutor-harm.md) — related
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
 - [A three-week MALA deployment recorded 62 distinct usernames across 128 conversations, with 63% of conversations resolved or partially resolved](mala-deployment-62-users-63-percent-resolved.md) — related
+- [Harm profiles are subject-dependent: metacognitive harm crosses 90% in all three subjects in multi-turn, peaking at 97.44% for Qwen2.5-32B in Mathematics](tutor-harm-subject-dependent-mitigations.md) — related

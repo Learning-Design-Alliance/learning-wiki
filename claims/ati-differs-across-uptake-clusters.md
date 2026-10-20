@@ -48,3 +48,5 @@ Comparison of Affinity for Technology Interaction scores (German ATI scale) acro
 - [AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap](three-uptake-clusters-human-ai-cowriting.md) — related
 - [Current ChatGPT users were overrepresented among text reconstructors and underrepresented among text integrators (Cramér's V = 0.26)](current-chatgpt-use-associated-with-reconstructors.md) — related
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
+- [Text reproducers copied nearly all of their final text from ChatGPT with long verbatim sequences, while text integrators showed fragment-level micro-uptake](text-reproducers-near-verbatim-copying.md) — related
+- [Clusters did not differ significantly in the number of prompts sent to ChatGPT](clusters-no-difference-in-prompt-count.md) — related

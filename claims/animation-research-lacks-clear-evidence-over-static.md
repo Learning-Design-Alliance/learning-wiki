@@ -43,4 +43,9 @@ This is the article's introductory characterisation of the prior animation liter
 
 
 ## Related Claims
--
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — reports the opposite
+- [The animation advantage is larger when animation is coupled with auditory commentary](animation-advantage-larger-auditory-commentary.md) — reports the opposite
+- [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — reports the opposite
+- [The animation advantage is larger when the animation is system-paced](animation-advantage-larger-system-paced.md) — reports the opposite
+- [For transfer, only learners studying collaboratively benefited from animated over static graphics](collaboration-enables-transfer-benefit-of-animation.md) — related
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — reports the opposite

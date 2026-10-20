@@ -44,3 +44,9 @@ The Background section's fourth systemic challenge describes federal ECE adminis
 
 ## Related Claims
 - [Quality standards vary across federal ECE programs, with CCDBG and Head Start minimum standards differing significantly](ccdbg-head-start-quality-standard-differences.md) — a narrower finding that bears on this claim
+- [California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies](california-ece-fragmented-multi-agency-patchwork.md) — a narrower finding that bears on this claim
+- [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related
+- [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
+- [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — a narrower finding that bears on this claim
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — a broader claim this one bears on
+- [California's ECE programs vary widely in teacher qualifications, staff-to-child ratios, and curriculum requirements, creating programs of varying quality](california-ece-quality-standards-inconsistent-three-aspects.md) — related

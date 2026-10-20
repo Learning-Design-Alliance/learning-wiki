@@ -49,3 +49,7 @@ Results section, Table 4: the rank-averaging ensemble of five trained models rea
 - [Both pedagogy-expertise-weighted and unanimous-vote ensembles frequently worsen LLM alignment with student learning](ensembling-worsens-llm-alignment-with-learning.md) — related
 - [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — reports the opposite
 - Majority-vote ensembling across three runs produced only modest accuracy gains (1% to 5%) with no model showing degradation — related
+- [A stacking ensemble of LG, SVM, NB, KNN and XGB achieved the best fine-tuning F1-score (0.88), outperforming individual models such as SVM (0.86)](stacking-ensemble-best-finetuning-f1.md) — related
+- [A Soft-Voting Ensemble achieves the best behavioral-dataset attrition prediction (CV F1 = 0.737, test recall = 0.769)](soft-voting-ensemble-behavioral-attrition-f1.md) — related
+- [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
+- [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — related

@@ -50,3 +50,5 @@ Comparison of second-semester truancy rates by gender in the CPS ninth grade coh
 - [CPS has two distinct truancy problems—full-day absenteeism and class cutting—and about 40 percent of extreme truancy occurs through class cutting](two-truancy-problems-full-day-and-class-cutting.md) — related
 - [Students with weak eighth grade basic skills have the poorest attendance, but cutting is widespread even among top achievers (42 percent on or above grade level were moderate to extreme truants)](weak-skills-predict-truancy-but-cutting-widespread.md) — related
 - [Ninth graders who fail Algebra I are demographically similar to those who pass, but are more likely to be male and African American](algebra-i-failers-more-likely-male-african-american.md) — related
+- [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — related
+- [By spring of ninth grade, 64 percent of CPS ninth graders missed two or more weeks of instruction in at least one major subject](cps-ninth-graders-64-percent-miss-two-weeks-major-subject.md) — related

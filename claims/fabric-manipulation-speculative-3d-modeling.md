@@ -48,3 +48,5 @@ Video assemblage analysis of the fabric manipulation unit. Thirteen of sixteen s
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
 - [In fabric manipulation, the algorithmic performance was contingent on repeated combinations of components paired with steps of the craft](fabric-manipulation-algorithm-component-confluence.md) — related
 - [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on
+- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related

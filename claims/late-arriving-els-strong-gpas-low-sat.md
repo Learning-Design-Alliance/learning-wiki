@@ -46,3 +46,5 @@ Descriptive analysis of CPS high school graduates. Their 2.87 GPA was similar to
 - [Indicator performance differs across EL subgroups: former and late-arriving ELs had stronger ninth-grade GPAs and attendance than never ELs, while long-term ELs without IEPs had much lower GPAs](el-subgroup-indicator-distributions.md) — related
 - [Among four-year college enrollees, former and late-arriving English Learners persisted at or above district-average rates while long-term English Learners with IEPs persisted at substantially lower rates](el-college-persistence-varies-by-subgroup.md) — related
 - [Long-term and late-arriving English Learners were considerably less likely to enroll in four-year colleges than their peers](active-els-underrepresented-four-year-colleges.md) — related
+- [High school GPA is the strongest predictor of college admission, persistence, and graduation, more than ACT or SAT scores](hs-gpa-strongest-college-predictor.md) — related
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related

@@ -66,3 +66,4 @@ Descriptive range of correct sorts from Table 3 of the same sorting task. The ar
 - A literature synthesis of 46 talent frameworks and future-of-work reports yielded 29 unique talents reduced to the FRTF's 12 talents — related
 - [54 of 59 FRTF behavioral examples were sorted better than chance and 48 by a majority of educator participants](frtf-behavioral-example-sorting-validated.md) — related
 - [Several FRTF behavioral examples were not sorted better than chance, including actively listening to others (18.2%) and exploring implications of proposed solutions (9.4%)](frtf-behavioral-examples-below-chance.md) — related
+- [Stakeholder consultation with 60 WIL students, employers, and educators generated 1,806 behavioral examples distilled into 59](frtf-stakeholder-survey-behavioral-examples.md) — related

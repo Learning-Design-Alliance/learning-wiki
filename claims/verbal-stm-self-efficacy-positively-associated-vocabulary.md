@@ -46,3 +46,5 @@ Structural equation models tested direct and indirect associations in 442 childr
 
 - [Vocabulary is positively associated with listening comprehension in upper elementary children (9-12 years)](vocabulary-positively-associated-listening-comprehension-upper-elementary.md)
 - [The indirect association between verbal short-term memory and listening comprehension through vocabulary just missed significance](stm-vocabulary-indirect-path-just-missed-significance.md) — related
+- [Self-reported concentration was examined as a contributor to listening comprehension but did not emerge in the best-fitting model](concentration-not-in-best-fitting-listening-model.md) — related
+- [Vocabulary mediates the association between academic self-efficacy and listening comprehension](vocabulary-mediates-self-efficacy-listening-comprehension.md) — related

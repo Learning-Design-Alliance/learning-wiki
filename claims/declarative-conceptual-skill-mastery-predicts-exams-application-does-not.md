@@ -46,6 +46,5 @@ Study 1 path model (Model 2) tested mastery by depth of knowledge among n = 49 c
 
 - [Completing the Science of Learning to Learn training conferred an effect of about one-third of a letter grade (d ~ 0.3) on subsequent quizzes and exams in the original randomized study](slll-training-letter-grade-effect.md)
 - [Behavioral and environmental regulation knowledge demonstrated during digital SRL training predicted biology midterm and final exam grades, while knowledge of SRL processes did not](behavioral-environmental-regulation-knowledge-predicts-biology-exams.md)
-- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](multimedia-redesign-sustains-skill-mastery-predictions.md)
+- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](srl-skill-training-predicts-biology-exam.md)
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md)
-- [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md)

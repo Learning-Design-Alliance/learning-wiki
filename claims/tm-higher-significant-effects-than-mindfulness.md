@@ -46,3 +46,4 @@ The review's comparison of percentages of significant effects across meditation 
 - [Evidence on meditation and academic achievement is scant: only three published studies, with the strongest from TM programmes on standardised test scores](meditation-academic-achievement-insufficient-evidence.md) — related
 - [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](meditation-programme-characteristics-moderators.md) — related
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related
+- [Mindfulness interventions consisting of combinations of various mindfulness activities show the largest effects on youth mental health and well-being](mindfulness-activity-combinations-largest-effects.md) — related

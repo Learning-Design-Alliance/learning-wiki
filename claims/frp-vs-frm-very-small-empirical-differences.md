@@ -48,3 +48,5 @@ An empirical comparison of FRM and FRP value-added estimates using District of C
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — related
 - [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — possibly the same claim (merge candidate)
 - [The report synthesizes 21 empirical studies on value-added model key issues and findings](vam-report-synthesized-21-empirical-studies.md) — related
+- [The Full Roster Method offers the most promise for robust, practical implementation among the three co-teaching value-added methods considered.](full-roster-method-most-promise-practical-implementation.md) — related
+- [The Teacher Team Method and Full Roster Method provide a more stable approach than the Partial Credit Method for estimating teacher effects when students have multiple teachers for the same subject.](teacher-team-and-full-roster-methods-more-stable-than-partial-credit.md) — related

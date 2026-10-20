@@ -48,3 +48,5 @@ ANCOVA on Cajon Valley fifth graders (pilot N = 89, comparison N = 109 per Figur
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
 - [Across three studies of Achieve3000 (35,070 students), the average effect size was 0.00](achieve3000-average-effect-size-zero.md) — related
 - Achieve3000 use shows significant positive effects on Total Reading Scores for sixth and ninth graders, with a weighted average effect size of +0.29 — related
+- [Achieve3000 shows moderate ESSA evidence of positive effects on reading fluency](achieve3000-moderate-evidence-reading-fluency.md) — related
+- [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — related

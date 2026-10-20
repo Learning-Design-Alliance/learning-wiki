@@ -89,3 +89,10 @@ Same PISA secondary analysis, Results section. The article reports the average r
 - [Girls scored lower than boys on fifth grade Numerical Operations, with the gap smaller in earlier grades, but no sex difference in fifth grade word reading](sex-difference-fifth-grade-numerical-operations.md) — a narrower finding that bears on this claim
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — a narrower finding that bears on this claim
 - [Single-sex math classrooms raised female students' math performance by 7–10% over co-educational programs](single-sex-classrooms-raise-female-math-performance.md)
+- [Boys regain the advantage in middle school STEM skills in post-COVID gender achievement gap trends](boys-regain-advantage-middle-school-stem-post-covid.md) — related
+- [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](stereotype-threat-reverses-boys-reading-gender-gap.md) — related
+- [National gender-equality and human-development indicators show no consistent correlation with sex differences in mathematics or reading across the decade](no-consistent-correlation-gender-equality-sex-differences.md) — related
+- [Female kindergarteners outscore males in math and reading at entry; the reading gap was stable while the small math gap narrowed slightly](gender-gaps-at-kindergarten-entry-2010-2017.md) — related
+- [No significant gender differences on anxiety or reading measures at either time point](no-gender-differences-anxiety-reading-measures.md) — related
+- [Gender disparities in CT education show a very small but statistically significant overall effect favoring males (g = 0.106)](small-significant-gender-gap-ct-overall.md) — related
+- [No statistically significant sex differences in the direct associations among EF, task orientation, and mathematics or in the mediating effect of task orientation](no-sex-differences-ef-task-orientation-math-pathways.md) — related

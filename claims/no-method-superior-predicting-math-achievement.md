@@ -47,3 +47,4 @@ Null result from the regression comparison in the 558-child sample: R squared va
 - [Person-oriented and dimensional methods each predicted reading achievement significantly better than the categorical method](dimensional-person-oriented-beat-categorical-reading-prediction.md) — related
 - [Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods](person-oriented-classification-best-predicts-gpa.md) — related
 - [Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy](person-oriented-predicts-absence-better-than-categorical.md) — related
+- [ITBS mathematics is heavily weighted toward computation while ISAT contains up to three times as many items on algebra, geometry, measurement, and probability and statistics](itbs-computation-isat-higher-order-math-content.md) — related

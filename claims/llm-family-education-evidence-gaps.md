@@ -45,3 +45,4 @@ The review's gap analysis across research questions reports that "Evidence acros
 ## Related Claims
 - [LLMs redistributed educational labor while family and institutional rules left parents and professionals responsible for interpreting outputs and deciding how they entered practice](llm-redistributed-labor-rules-leave-interpretation-responsibility.md) — related
 - [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — a broader claim this one bears on
+- [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related

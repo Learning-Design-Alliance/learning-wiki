@@ -56,3 +56,7 @@ Gap models re-estimated with school-poverty indicators (mid- and high-poverty FR
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related
 - Simulations of closing Black-Hispanic-White gaps in educational participation project increased net public benefits of $20.2 to $72.6 billion per year. — related
 - Adjusting for low-income student share narrows but does not eliminate demographic performance gaps in the PEP framework — related
+- [Inequalities at kindergarten entry by race/ethnicity decreased between 2010 and 2017](kindergarten-entry-racial-ethnic-gaps-narrowed-2010-2017.md) — related
+- [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
+- [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related
+- [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — related

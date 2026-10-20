@@ -47,3 +47,4 @@ Interview theme on productivity perception: P2 found returning to manual researc
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](sysadmin-expertise-shifts-to-validating-genai-output.md) — related
 - Generative AI can help people finish tasks more quickly but does not accelerate learning itself — related
 - [How genAI is used, not who uses it, predicts whether independent performance declines or improves](persistence-costs-concentrated-among-direct-solution-users.md) — related
+- [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related

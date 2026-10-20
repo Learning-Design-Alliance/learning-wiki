@@ -68,3 +68,6 @@ The article argues algorithms may dismiss contradicting data if it is in the min
 - Public accountability pressure on school-level improvement data can suppress honest inquiry and incentivize superficial fixes — related
 - Machine learning systems can perpetuate biases contained in their training data — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
+- [In a pedagogical space, epistemic injustice might be activated when teachers' identity prejudice leads them to give a student less credit, and the curriculum can block or enable students' understanding and expression of their social experiences](teacher-identity-prejudice-and-curriculum-can-enact-epistemic-injustice-toward-students.md) — related
+- [In the analyzed school ethnography, stereotyping operates as a rationalization process that constructs uniformities, and the ghetto label privileges white culture's standards and evaluation networks](stereotyping-operates-as-rationalization-producing-inequality-in-school.md) — related
+- [Cultural processes and forms of epistemic injustice should be taken into account in understanding how inequalities in education are produced and maintained](cultural-processes-and-epistemic-injustice-explain-educational-inequality.md) — a broader claim this one bears on

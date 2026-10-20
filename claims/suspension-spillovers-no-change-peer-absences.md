@@ -45,3 +45,4 @@ In the same Philadelphia panel analysis of peer spillovers, the article reports 
 ## Related Claims
 - [Exposure to suspensions for serious misconduct has very small negative spillovers onto peer achievement](suspension-spillovers-small-negative-peer-achievement.md) — related
 - [Suspensions are more salient for students who personally experience suspension than for their peers](suspensions-more-salient-for-suspended-students-than-peers.md) — related
+- [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related

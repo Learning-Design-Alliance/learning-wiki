@@ -46,3 +46,4 @@ CIRCL team's document coding of the project portfolio, reported in the learning 
 - The cyberlearning community comprised about 450 projects and two thousand investigators, with teachers as partners in 58% of projects — related
 - Design-based research was part of 22 funded projects, learning analytics part of 34, and multimodal analytics in roughly a dozen — related
 - [PDE studies embodying the four design principles most strongly were associated with the strongest PDE outcomes](pde-principle-strength-associated-outcomes.md) — related
+- [The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas](nsf-exp-network-238-researchers-87-projects.md) — related

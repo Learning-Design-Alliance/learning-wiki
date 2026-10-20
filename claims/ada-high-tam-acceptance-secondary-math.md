@@ -52,3 +52,6 @@ Descriptive post-intervention analysis within the experimental group (n = 102) o
 - [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related
 - [Learners in fully online courses reported positive perceived usefulness and perceived ease of use of both a goal-setting chatbot and a learning buddy chatbot](chatbots-positive-usefulness-ease-of-use-online.md) — related
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — a broader claim this one bears on
+- [Students in the mathematics and data science course rated acceptance of the AI tool higher on average than students in the biology course](math-course-higher-ai-acceptance-than-biology.md) — related
+- [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
+- [Engagement in data practices is associated with both cognitive and non-cognitive learning outcomes](data-practices-associated-cognitive-noncognitive-outcomes.md) — related

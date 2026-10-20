@@ -44,3 +44,9 @@ A theoretical argument from the article's metacognitive modeling of GA regulatio
 
 ## Related Claims
 - [Schnaubert and Bodemer propose a six-part framework of defining aspects of group awareness for regulating joint activity](six-defining-aspects-group-awareness-framework.md) — related
+- [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) — related
+- [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
+- [Self Assessment Improves Self Regulated Learning](self-assessment-improves-self-regulated-learning.md) — a broader claim this one bears on
+- [Training metacognitive self-regulation (self-testing plus selective restudy) produced greater paired-associate learning improvements in older adults than traditional encoding-strategy training when study was self-paced](metacognitive-selfregulation-training-beats-strategy-training.md) — related
+- [Forming and maintaining group awareness strains working memory during collaborative learning](ga-formation-strains-working-memory.md) — related
+- [GA accuracy — alignment of perceived group cognitions with actual group characteristics — is a research target whose role is not confirmed and awaits direct measurement](ga-accuracy-unconfirmed-pending-measurement.md) — related

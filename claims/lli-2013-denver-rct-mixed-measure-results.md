@@ -55,3 +55,4 @@ Randomized controlled trial of LLI in 13 urban elementary and K–8 schools in D
 - LLI improves reading outcomes for struggling K-2 readers with an average effect size of +0.13 across two studies — related
 - In a Denver study, LLI showed very positive outcomes on the DRA2 in kindergarten but not in first or second grade, for an effect size of +0.10 — related
 - Teachers in the Gallagher (2010) evaluation responded positively to LLI, though some found the lesson design too fast-paced — related
+- [Leveled Literacy Intervention has positive effects on general reading achievement, potentially positive effects on reading fluency, and no discernible effects on alphabetics for beginning readers in grades K–2](lli-positive-effects-general-reading-achievement-k-2.md) — a broader claim this one bears on

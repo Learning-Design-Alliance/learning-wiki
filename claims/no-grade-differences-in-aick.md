@@ -47,3 +47,4 @@ One-way ANOVA across three grades (senior university, first-year graduate, secon
 - [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related
 - [Teaching beliefs are negatively associated with AI-TCK and AI-TPK and show no significant effect on AI-TK, suggesting excessive teaching beliefs may impede AI-TPACK advancement](teaching-beliefs-negative-aick.md) — related
 - [Teaching experience does not significantly enhance MTES AI-TPACK proficiency, though experienced MTES scored slightly higher on every variable](teaching-experience-no-aick-gain.md) — related
+- [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related

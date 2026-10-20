@@ -45,3 +45,4 @@ Comparison study reported by the review: Winkes (2014) compared German-speaking 
 ## Related Claims
 - [Kindergarten profile membership predicts differentiated 1st-grade reading patterns: the double-deficit group performed worse than all other profiles on nearly all measures](dd-profile-worst-grade1-outcomes.md) — related
 - [The RAN risk group showed intact phonological awareness and all members were readers, supporting the independence of RAN from PA](ran-deficit-independent-construct.md) — related
+- [In reading-related outcomes, group differences involving RD or RDMD are largest for reading tasks and phonological processing and smallest for RAN](reading-group-differences-phonological-vs-ran.md) — related

@@ -43,4 +43,7 @@ Pre-registered online mixed-factor experiment with 481 younger and older adults 
 
 
 ## Related Claims
--
+- [JOL reactivity differed by age: making JOLs impaired older adults' recall but did not affect younger adults' recall](jol-reactivity-age-interaction.md) — a narrower finding that bears on this claim
+- [JOL reactivity depended on pair relatedness: negative reactivity for unrelated word pairs but no reactivity for related word pairs](jol-reactivity-relatedness-interaction.md) — a narrower finding that bears on this claim
+- [Exploratory analyses suggest older adults' negative reactivity was specific to unrelated word pairs, with no reactivity for related pairs in either age group](older-adults-negative-reactivity-unrelated-pairs-exploratory.md) — a narrower finding that bears on this claim
+- [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — a broader claim this one bears on

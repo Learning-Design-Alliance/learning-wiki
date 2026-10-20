@@ -48,3 +48,4 @@ In the expectancy findings of this interview study, five students tied confidenc
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — a broader claim this one bears on
 - [Peer AI use diminished some students' sense of their own effort's value through social comparison, independent of their own AI use](peer-ai-use-social-comparison-devalues-effort.md) — related
 - [AI availability led some students to question the long-term value of programming skills, while others saw programming as equally or more valuable](ai-availability-questions-programming-skill-utility.md) — related
+- [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

@@ -43,4 +43,6 @@ Comparison of ceiling-effect percentages across the pilot (N = 143) and Validati
 
 
 ## Related Claims
--
+- [A 200-student pilot showed strong content validity across relevance, comprehensiveness, comprehensibility, and face validity](glat-content-validity-pilot.md) — related
+- [Two rubric dimensions (claims and evidence, comparison) showed low inter-scorer consistency in the pilot](hts-rubrics-low-consistency-claims-evidence-comparison.md) — related
+- [SKT-SRL scores did not correlate significantly with high school GPA in the pilot and validation studies](skt-srl-no-gpa-correlation.md) — related

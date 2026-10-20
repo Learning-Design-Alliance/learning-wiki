@@ -44,3 +44,7 @@ Comparative analysis of video-coded interactions from 34 eighth-graders on SimSk
 
 ## Related Claims
 - [Self-study students produced more substantive comments, a higher proportion of substantive comments, and more co-constructive turns during discussion than lecture students, though interaction-episode counts did not differ](self-study-discussion-substantive-dialogue-quality.md) — related
+- [Interaction-oriented pedagogical guidance was more effective than task-oriented guidance for 16-year-old students using video tools in history lessons](interaction-guidance-more-effective-than-task-guidance.md) — related
+- [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](cognitive-regulation-more-in-physics-task.md) — related
+- [Edge weights between CKC–regulation codes differ significantly between the tasks only for the share/compare and disagree phases](edge-weights-differ-only-share-compare-disagree.md) — related
+- [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](cognitive-regulation-negotiation-direction-reversed.md) — related

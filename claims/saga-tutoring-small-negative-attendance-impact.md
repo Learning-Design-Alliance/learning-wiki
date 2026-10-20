@@ -49,3 +49,6 @@ In the matched comparison analysis, the report states "Saga had a small, negativ
 - [Students who attended FAST three or more times showed strong positive effects on Grade 1 reading and more modest effects on mathematics, but a strong negative effect on kindergarten attendance](fast-qed-dose-effects-reading-math-attendance.md) — related
 - One year of Future Forward participation raises regular-school-day attendance of lower-primary students relative to business-as-usual literacy instruction — related
 - [Research has not yet identified blended learning implementation strategies that increase the likelihood of positive effects on students](no-identified-blended-learning-implementation-strategies.md) — related
+- [Saga blended tutoring improved student math grades across districts and tutoring models](saga-tutoring-improves-math-grades.md) — related
+- [Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutoring groups of two students or fewer](saga-impacts-larger-fewer-staffing-challenges-small-groups.md) — related
+- [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — related

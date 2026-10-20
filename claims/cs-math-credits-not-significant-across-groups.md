@@ -44,3 +44,6 @@ Box-plot comparison of required CS and math credits across the three groups of 2
 
 - [CS programs with higher structural curricular complexity have lower representation of women graduates (ANOVA across three representation groups)](cs-curricular-complexity-inversely-related-women-representation.md)
 - [Blocking factors of CS 1 and CS 2 differ significantly across women-representation groups, with lower-blocking programs having higher representation of women](cs1-cs2-blocking-factor-differs-by-women-representation.md)
+- [The authors' data supports that Calculus 1 need not be a prerequisite for lower-level CS courses](calculus1-need-not-prerequisite-lower-level-cs.md) — related
+- [Programs with higher representation of women require a smaller share of core CS credits (26% vs 33%) and offer more flexibility](core-requirements-share-lower-in-high-representation-programs.md) — related
+- [School rank shows little correlation with percentage of women CS graduates (r = -0.36), suggesting prestige does not explain the complexity–representation relationship](school-rank-weakly-correlated-women-representation.md) — related

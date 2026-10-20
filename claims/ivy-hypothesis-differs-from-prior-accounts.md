@@ -46,3 +46,4 @@ Theoretical comparison of the Ivy Hypothesis with the Dominant Language Hypothes
 - [Code-mixing decreases and ceases as the weaker language syntactic structure develops to CP level](mixing-ceases-when-cp-acquired-in-weaker-language.md) — related
 - [Mixed utterances reflect the same amount of syntactic structure as monolingual utterances in the weaker language at the same recording](mixed-utterances-match-monolingual-structure.md) — related
 - [Children with uneven bilingual development prefer the stronger language and mix sentence-internally mainly in weaker-language interactions](stronger-language-preference-and-mixing-asymmetry.md) — related
+- [The amount of input in each language is related to syntactic development and language dominance](input-amount-relates-to-syntactic-development.md) — related

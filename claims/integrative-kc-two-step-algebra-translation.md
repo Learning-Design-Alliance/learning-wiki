@@ -46,3 +46,8 @@ The article reports, citing Heffernan and Koedinger (1997), a performance differ
 
 - [Simpler knowledge components are executed faster: correct application times rise from about 3-6 seconds for constant-constant KCs to 10-14 seconds for variable-variable KCs](kc-complexity-predicts-application-time.md)
 - [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md)
+- [Personalizing algebra story problems to student interests improved accuracy on easy knowledge components within the tutoring unit](personalization-improves-easy-kc-accuracy-algebra-its.md) — related
+- [Personalization to student interests improved accuracy on hard knowledge components involving algebraic expression-writing within the tutoring unit](personalization-improves-hard-kc-accuracy-algebra-its.md) — related
+- [In a small subgroup of struggling students (n = 25), interest personalization greatly improved expression-writing accuracy within the tutoring unit](personalization-struggling-students-moderation.md) — related
+- [Personalization reduced time spent on hard expression-writing steps, and students who had received it were still faster at writing expressions in a later non-personalized unit](personalization-reduces-solution-time-efficiency.md) — related
+- [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related

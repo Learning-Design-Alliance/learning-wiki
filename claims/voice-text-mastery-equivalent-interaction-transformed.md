@@ -64,3 +64,4 @@ Conversation-level cost accounting from provider billing over the study's 256 tu
 ## Related Claims
 - [Voice modality roughly doubled dialogue turns and question-asking on equal engaged time within the same students](voice-doubles-turns-and-questions-equal-engaged-time.md) — related
 - [Perceived task load and germane load did not differ between the contingent tutor and either baseline](perceived-load-unchanged-under-contingent-tutor.md) — related
+- [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related

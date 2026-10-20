@@ -45,3 +45,5 @@ Thematic analysis of design objectives across the 28 studies (Table 7). The revi
 ## Related Claims
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related
 - [Iterative testing engagement during AI agent creation predicts CT self-efficacy gains after controlling for initial self-efficacy](iterative-testing-predicts-self-efficacy-gains.md) — related
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related

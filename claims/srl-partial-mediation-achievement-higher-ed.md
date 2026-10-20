@@ -47,3 +47,4 @@ MASEM analysis pooling correlations across studies of SRL interventions, SRL act
 - [SRL interventions are effective in improving both SRL activity and achievement in higher education](srl-interventions-improve-activity-achievement.md) — related
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
 - [Task motivation and time on task are proposed as factors potentially influencing SRL intervention effectiveness](task-motivation-time-on-task-moderators-hypothesis.md) — related
+- [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](srl-hypothesized-mediator-video-annotation-acting.md) — related

@@ -44,3 +44,8 @@ Case study of seven groups of three fourth-grade secondary students using a grap
 
 ## Related Claims
 - [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — a narrower finding that bears on this claim
+- [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — a narrower finding that bears on this claim
+- [The two phases of the argumentative task required different organizing principles, and groups changed or failed to change accordingly](two-phases-require-different-principles.md) — related
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](weak-organization-enables-principle-experimentation.md) — related
+- [Recurring functional/conceptual spaces (personal space, shared work area, conclusions, discard) emerged in every interaction, and pairs resisted re-designating designated spaces](functional-conceptual-workspace-spaces.md) — related
+- [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](awareness-attention-management-shared-workspaces.md) — related

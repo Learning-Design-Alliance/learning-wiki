@@ -75,3 +75,6 @@ A self-report questionnaire study of adolescents aged 12-18 (N=70) cited by the 
 - [Emotion regulation is concurrently associated with executive performance in the reverse direction, with habitual suppression linked to diminished EF](reappraisal-and-suppression-reverse-linked-to-ef.md) — related
 - [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF components](inhibitory-control-strongest-reappraisal-correlate.md) — a narrower finding that bears on this claim
 - [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — related
+- [Instructed reappraisal success improves with age across ages 10-23, following linear and quadratic trends](instructed-reappraisal-success-improves-age-10-23.md) — related
+- [Digital use intensity attenuates the positive EF–reappraisal association, more pronouncedly on the EF→ER pathway than the reverse](digital-intensity-attenuates-ef-reappraisal-link.md) — related
+- [High-intensity digital users show lower EF and reappraisal than moderate and low users, suggesting a threshold rather than linear dose-response pattern](digital-use-threshold-pattern-ef-er.md) — related

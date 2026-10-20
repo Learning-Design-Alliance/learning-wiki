@@ -63,3 +63,7 @@ Spearman rank correlation between academic and professional staff difficulty ord
 
 ## Related Claims
 - [Academic staff follow a traditional foundational-to-advanced GenAI skill trajectory, with creation items the least endorsed](academics-linear-genai-skill-trajectory.md) — related
+- [Students hit a metacognitive ceiling, endorsing high-level creation more frequently than the hardest metacognitive and evaluative thresholds in their ordering](student-metacognitive-ceiling-genai.md) — related
+- [LLM-generated difficulty ratings show only moderate rank alignment with empirical student performance on basic arithmetic items](llm-difficulty-moderate-rank-alignment-arithmetic.md) — related
+- [Review-based AI overall difficulty correlates strongly with problem-level student pass rate across 79 parallel-class exam problems](review-based-ai-difficulty-problem-level-correlation.md) — related
+- [The AI review ruler's problem-level correlation weakens in an introductory course, where exam-level correlation is near zero and cohort composition dominates](cs101-introductory-course-applicability-boundary.md) — related

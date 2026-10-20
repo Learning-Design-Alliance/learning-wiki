@@ -63,3 +63,11 @@ The article reports, citing Zhang et al. (2016), a team-composition study whose 
 
 ## Related Claims
 - [Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks](zambrano-2019-experienced-groups-outperform-inexperienced.md) — a narrower finding that bears on this claim
+- [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — a narrower finding that bears on this claim
+- [Groups outperform individuals when devising creative solutions to real-world complex problems](groups-outperform-individuals-complex-problem-creativity.md) — related
+- [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — a narrower finding that bears on this claim
+- [Students in homogeneous prior-knowledge groups made greater learning gains and showed more distributed collaboration than heterogeneous groups](homogeneous-groups-greater-learning-gains-than-heterogeneous.md) — a narrower finding that bears on this claim
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [Unrecognised prior-knowledge asymmetry and absent prior group experience negatively affect learning in complex collaborative tasks](knowledge-asymmetry-prior-experience-harm-collaboration.md) — related
+- [Snapshots of critical steps were marginally beneficial for individual learners but significantly detrimental for dyads](snapshots-detrimental-in-dyads-beneficial-individually.md) — a narrower finding that bears on this claim
+- [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — a narrower finding that bears on this claim

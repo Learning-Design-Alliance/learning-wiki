@@ -49,3 +49,4 @@ The article reports that "certain aspects of AI literacy can play a role in high
 - [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — related
 - [LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users](prompt-privilege-monotonic-accuracy-gap-medqa.md) — a narrower finding that bears on this claim
 - [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related
+- [Effective AI use in nursing education depends on prompting skills, which participants identify as critical for obtaining accurate and reliable outputs](prompting-skills-shape-ai-output-quality.md) — related

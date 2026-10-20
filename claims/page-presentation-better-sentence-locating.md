@@ -47,3 +47,5 @@ Experiment 1, a controlled lab experiment in which 54 undergraduates read a 574-
 - [Only Page readers tended to locate boundary-zone sentences more accurately than central-zone sentences](boundary-zone-locating-advantage-page-only.md)
 - [The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers](page-break-response-cues-interaction.md)
 - [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](reading-time-null-backtracking-tendency.md)
+- [Browsing term lists (selection mode) helps searchers who do not know the exact query term](selection-mode-browsing-helps-uncertain-searchers.md) — related
+- [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](page-presentation-summary-details-recall.md) — related

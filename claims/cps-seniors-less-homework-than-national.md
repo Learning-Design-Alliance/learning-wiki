@@ -44,3 +44,4 @@ Senior survey item on hours of homework per week; the report states "Nationally,
 
 ## Related Claims
 - [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — related
+- [Almost 90 percent of college-continuing seniors intend to work while continuing their education, and 35 percent plan to work more than 20 hours per week](seniors-intend-work-while-continuing-education.md) — related

@@ -43,4 +43,6 @@ Mixed-design ANOVA on MEPS steps in the problem-solving experiment found younger
 
 
 ## Related Claims
--
+- [Older adults produce fewer internal details than younger adults during elaboration across both experiments](aging-fewer-internal-details-elaboration.md) — related
+- [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
+- [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](generation-elaboration-correlation-memory-only.md) — related

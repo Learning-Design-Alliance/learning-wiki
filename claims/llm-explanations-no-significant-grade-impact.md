@@ -48,3 +48,4 @@ Spearman correlation from the same experiment; the bootstrap confidence interval
 - [LLM use for code generation is significantly negatively correlated with student final grades](llm-code-generation-negative-correlation-grades.md) — related
 - [LLM use for debugging is significantly negatively correlated with student final grades](llm-debugging-negative-correlation-grades.md) — related
 - [By the final survey wave, using LLMs for debugging and understanding concepts was nearly universal among surveyed students](debugging-and-concept-llm-use-nearly-universal-by-term-end.md)
+- [A downward trend in final grades is observed with increased average LLM use across all task types](downward-grade-trend-increased-average-llm-use.md) — related

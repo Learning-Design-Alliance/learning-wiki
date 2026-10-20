@@ -47,3 +47,5 @@ Simulation-based evaluation on 30 held-out seed questions in a four-turn LLM-sim
 - [Gradient-based GRPO alignment of a 7B model outperforms prompt engineering on scaffolding effectiveness (0.633 vs 0.400) despite the smaller backbone](grpo-parameter-training-beats-prompt-engineering-socratic.md) — related
 - [The best GRPO variant also achieves the highest Conversation Depth (0.722), suggesting stronger scaffolding accompanies deeper semantic progression](grpo-without-directness-highest-conversation-depth.md) — related
 - [Supervised fine-tuning on SocraticEdu provides the largest single-step SE gain (+0.200) but still leaks target terms in 26.7% of dialogues](sft-largest-single-step-gain-but-still-leaks.md) — related
+- [GRPO alignment collapses Mathematical-Knowledge-for-Teaching utterances and surges Socratic-style Exploratory questions in tutor output](alignment-shifts-mkt-collapse-exploratory-surge.md) — related
+- [Model scale alone does not induce Socratic behavior: unaligned Qwen-72B achieves 0% scaffolding effectiveness and 96.7% keyword leakage](scale-alone-does-not-induce-socratic-behavior.md) — related

@@ -66,3 +66,4 @@ Pairwise comparisons from the same experiment show the Full-trace condition perf
 - [Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions](full-traces-worsen-calibration-and-brier-scores.md) — related
 - [No trace format supported calibrated self-evaluation: perceived-achieved correlations were low and non-significant in all conditions](no-trace-format-supported-calibrated-self-evaluation.md) — related
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
+- [Hedonic appeal, not trust, carries the indirect path from trace exposure to performance overestimation, consistent with a processing-fluency account](hedonic-appeal-mediates-overestimation.md) — related

@@ -47,3 +47,4 @@ Implementation findings from the trial's implementation study of LLI in Oakland 
 - [LLI had no impact on secondary students' reading comprehension in the Oakland RCT](lli-no-impact-adolescent-reading-comprehension.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — a narrower finding that bears on this claim
 - [Secondary students who received more LLI or were pulled out of other classes were particularly negatively affected, possibly from missing grade-level content](lli-more-dosage-pullout-negatively-affected.md) — related
+- [Second-order technology barriers may be most influential on technology-based intervention implementation, and the quantity of barriers reported was associated with the percentage of students meeting target durations of use](second-order-technology-barriers-influence-implementation.md) — related

@@ -45,3 +45,4 @@ Descriptive finding on for-profit alternative certification programs in Texas, r
 ## Related Claims
 - [For-profit alternative certification pathways account for over 70% of Texas educator preparation enrollment while overall completion fell 14% over a decade](texas-for-profit-alternative-enrollment-completion-divergence.md) — related
 - [Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low](alternative-certification-low-completion-supply.md) — related
+- [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — a broader claim this one bears on

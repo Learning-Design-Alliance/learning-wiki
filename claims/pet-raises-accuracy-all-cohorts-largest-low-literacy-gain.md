@@ -64,3 +64,4 @@ Same post-PET evaluation, per-cohort gains in percentage points. Smaller improve
 ## Related Claims
 - [After PET normalization, no statistically significant performance differences remain between user cohorts](pet-eliminates-significant-accessibility-disparities.md) — related
 - [LLM accuracy increases monotonically with prompt sophistication across semantically equivalent medical questions, with Low Literacy users scoring significantly below Prompt Engineer users](prompt-privilege-monotonic-accuracy-gap-medqa.md) — related
+- [Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users](training-gains-across-experience-levels-largest-for-novices.md) — related

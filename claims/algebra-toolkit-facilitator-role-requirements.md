@@ -48,3 +48,5 @@ Descriptive resource table defining the facilitator resource, listed with quanti
 - [Facilitating professional learning poses challenges for teacher leaders, including unfamiliarity with colleagues' instructional strategies and lacking skills to support teachers in applying them](teacher-leader-facilitation-challenges.md) — related
 - [Insights from the National Writing Project's teacher-leader preparation are presented as relevant for facilitating professional learning in all areas of instruction](nwp-insights-generalize-across-instruction-areas.md) — related
 - [School leaders contribute recruitment, participation in select PLC sessions, and classroom observation visits](algebra-toolkit-school-leader-time-requirements.md) — related
+- [PLC with an appointed teacher leader were more productive than groups with no appointed leader](teacher-leader-more-productive-plc.md) — related
+- [Toolkit implementation requires modest physical and technological infrastructure: one meeting space, one computer per participant, and 12 to 18 hours of internet connection](algebra-toolkit-space-technology-requirements.md) — related

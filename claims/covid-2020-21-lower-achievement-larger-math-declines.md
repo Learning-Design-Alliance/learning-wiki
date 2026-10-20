@@ -55,3 +55,6 @@ The brief's summary of its comparison of spring 2021 MAP Growth achievement for 
 - [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — a broader claim this one bears on
 - [The webinar presents research comparing student academic trends during the pandemic year to a more typical school year](pandemic-year-trends-compared-typical-year.md) — possibly the same claim (merge candidate)
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
+- [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — related
+- [Average fall 2021 reading scores in Grades 3–8 were .09–.18 SD lower than same-grade peers' fall 2019 scores](covid-reading-decline-009-018-sd-grades-3-8.md) — related
+- [Students showed lower math growth in fall 2020 across grades 3-8 relative to peers in the previous, more typical year](fall-2020-lower-math-growth-grades-3-8.md) — related

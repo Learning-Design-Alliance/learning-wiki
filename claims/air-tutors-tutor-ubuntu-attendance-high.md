@@ -44,3 +44,4 @@ Descriptive analysis of tutor attendance data collected from Air Tutors for Ubun
 
 ## Related Claims
 - [Student participation in Air Tutors varied greatly across districts: 93 percent of District A students met the 24-hour threshold versus 16 percent in District B, where 62 percent received 15 or fewer hours](air-tutors-participation-varied-by-district.md) — related
+- [Most study teachers received all ERWC materials and sufficient professional learning: 82.1 percent met professional-learning thresholds and all 56 received materials](erwc-high-materials-professional-learning-fidelity.md) — related

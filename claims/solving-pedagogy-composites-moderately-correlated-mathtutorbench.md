@@ -44,3 +44,4 @@ Reaggregation of public MathTutorBench leaderboard scores for eight tutoring mod
 
 ## Related Claims
 - [The solving–pedagogy correlation is statistically fragile: leave-one-out Pearson correlations range from 0.251 to 0.887, rising to 0.887 when Qwen2.5-Math-7B-Instruct is removed](leave-one-out-fragility-solving-pedagogy-correlation.md) — related
+- [Human raters' preferences align with the LLM judge on TutorBench (Pearson r = 0.82 across metric-level win rates)](human-llm-judge-preference-alignment-deeptutor.md) — related

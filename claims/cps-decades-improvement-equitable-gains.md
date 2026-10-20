@@ -51,3 +51,5 @@ The article reports district-level outcomes documented in the authors' 2023 hist
 - Intellectually Challenging Assignments Remain Variable and Not Widespread in Chicago Elementary Schools — related
 - [Chicago high school graduation rates improved dramatically over 20 years without a decline in average high school academic performance](cps-graduation-rates-improved-without-performance-decline.md) — a narrower finding that bears on this claim
 - On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families — related
+- [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](chicago-2006-2017-attainment-indicator-gains.md) — a narrower finding that bears on this claim
+- [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — related

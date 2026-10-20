@@ -48,3 +48,4 @@ Moderator analysis of course design characteristics: "The provision of learning 
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
 - [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](srl-training-university-students-overall-g38.md) — related
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](student-characteristics-moderate-resource-management-effects.md) — related
+- [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](cooperative-learning-moderates-srl-training-effects.md) — related

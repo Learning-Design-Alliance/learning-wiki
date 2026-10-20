@@ -51,3 +51,4 @@ End-to-end comparison in Section 5.2 across solution-simulation methods (IO, CoT
 - [High self-consistency between a simulator's reasoning and its own generated code does not imply alignment with real student reasoning or behavior](self-consistency-does-not-imply-student-alignment.md) — related
 - [Behavior-prediction accuracy rises with more past learning records, reaching 0.94 at 40 records](more-past-records-improve-simulation-accuracy.md) — related
 - [Knowledge-graph prototype mapping outperforms existing behavior-prediction baselines for student simulation](prototype-mapping-outperforms-behavior-prediction-baselines.md) — related
+- [Review-revise iterations improve synthesized problem quality, with gains largely stabilizing by the third iteration](review-revise-iterations-quality-stabilizes.md) — related

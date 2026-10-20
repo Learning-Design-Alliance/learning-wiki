@@ -47,3 +47,4 @@ Nested-model chi-square difference tests in the MGCFA analyses of Kansas MAP Rea
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
 - [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
+- [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related

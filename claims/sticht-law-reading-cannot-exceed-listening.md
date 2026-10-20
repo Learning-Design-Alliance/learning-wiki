@@ -50,3 +50,5 @@ The article reports, citing Sticht's work with native language learners in readi
 - [Japanese schools teach English literacy before oral-aural competency, inverting the natural sequence](japanese-english-instruction-inverts-stage-sequence.md) — reports the opposite
 - [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
 - [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](oral-language-predicts-reading-achievement.md) — a broader claim this one bears on
+- [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite
+- [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related

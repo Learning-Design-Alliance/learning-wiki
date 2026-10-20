@@ -45,3 +45,4 @@ WWC re-analysis of the PCER Consortium (2008) randomized trial's CMA-A Composite
 ## Related Claims
 - [Curiosity Corner shows no discernible effects on preschool math outcomes in the PCER randomized trial](curiosity-corner-no-discernible-math-effects.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes](prek-mathematics-positive-math-effects.md) — related
+- [Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)](bright-beginnings-null-math.md) — related

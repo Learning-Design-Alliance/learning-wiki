@@ -46,3 +46,5 @@ The review reports, citing Ruggeri and Feufel (2015) and the decision-making lit
 - [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related
 - [Task-switching ability matures earlier than task maintenance and selection abilities in childhood](switching-matures-earlier-than-maintenance.md) — related
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
+- [Prior research on small-group collaboration covers middle to late childhood, with a dearth of research on adolescence and early adulthood and inconclusive suggestions about age-related change](dearth-research-older-collaborators.md) — related
+- [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related

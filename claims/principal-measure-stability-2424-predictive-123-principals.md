@@ -44,3 +44,5 @@ Description of the study's two sets of analyses using Pennsylvania's statewide d
 
 ## Related Claims
 - [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — possibly the same claim (merge candidate)
+- [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
+- [FFL evaluation scores are significantly and positively correlated with principals' contributions to student achievement (value-added)](ffl-scores-correlated-principal-value-added.md) — related

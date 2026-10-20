@@ -66,3 +66,6 @@ The complementary case analysis found groups 1 and 3 showed no session-level syn
 - [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — related
 - [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related
 - [Higher task difficulty ratings before and after collaborative tasks predict higher physiological arousal, while task understanding does not](task-difficulty-predicts-physiological-arousal.md)
+- [Physiological synchrony among collaborating students related only to cognitive regulation, while motivational regulation changes related to achievement](physiological-synchrony-cognitive-regulation-dindar.md) — related
+- [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related
+- [The editorial reports that a mixed methods study of 42 participant pairs found partly contradictory and partly complementary results on physiological synchrony and collaborative learning](physiological-synchrony-collaborative-learning-mixed-methods.md) — related

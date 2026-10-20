@@ -63,3 +63,7 @@ Narrative review attributing this experimental finding to Cheng and Chouldechova
 
 ## Related Claims
 - [Participants more averse to thinking are more susceptible to the speedup illusion; AI familiarity measures do not predict calibration error](thinking-aversion-predicts-speedup-illusion.md) — related
+- [Seeing an algorithm perform makes people significantly less likely to choose it over a human forecaster](seeing-algorithm-perform-reduces-choice-of-algorithm.md) — related
+- [Algorithm aversion persists even among participants who saw the algorithm outperform the human forecaster](aversion-persists-after-seeing-model-outperform.md) — related
+- [Confidence in the algorithm's forecasts mediates the effect of seeing it perform on choosing it](model-confidence-mediates-algorithm-aversion.md) — related
+- [People lose confidence more quickly in algorithms than in humans after seeing the same kind of mistakes](faster-confidence-loss-algorithms-than-humans.md) — related

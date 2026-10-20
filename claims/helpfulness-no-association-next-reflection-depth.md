@@ -46,3 +46,4 @@ Ordinal mixed-effects model with a student random intercept on the semester corp
 - [Most student essays remained at a descriptive reflection level despite repeated AI feedback](essays-remain-descriptive-despite-ai-feedback.md) — related
 - [Students found AI feedback helpful and actionable more often than not across a semester of reflective writing](students-find-ai-feedback-helpful-more-often-than-not.md) — related
 - [Thematic coding of student reflections shows peers seen as understanding context and AI feedback seen as actionable, with one quarter of reflections expressing skepticism of AI](pairr-reflections-show-critical-interrogation-of-ai-feedback.md) — related
+- [Feedback source does not significantly affect revised essay quality once initial draft quality is controlled](feedback-source-no-effect-on-revision-outcomes.md) — related

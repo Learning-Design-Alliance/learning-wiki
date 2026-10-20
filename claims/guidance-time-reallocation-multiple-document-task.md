@@ -51,3 +51,4 @@ One-way ANOVA on total processing time in the randomized between-subjects experi
 - [Students guided to use LiquidText show lower acceptance of tablets for multiple document work than controls despite better performance](liquidtext-guidance-acceptance-paradox.md) — related
 - [Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use](liquidtext-guidance-comprehension-advantage.md) — related
 - [Unaided access to multiple document reading functions alone does not improve comprehension over a traditional pdf viewer](simultaneous-access-insufficient-for-comprehension.md) — related
+- [Application instructions successfully shifted students' reading goals toward application processing, but not memorization goals](application-instruction-shifts-processing-goals.md) — related

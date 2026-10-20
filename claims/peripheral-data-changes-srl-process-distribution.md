@@ -47,3 +47,5 @@ Descriptive comparison of SRL process duration medians across data channels for 
 - [Adding eye-tracking data corrects inflated Organisation durations and re-distributes First-reading time relative to both other channels](eye-tracking-corrects-organisation-durations.md)
 - [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](percent-processes-refined-metric-results.md)
 - [Adding peripheral data raises specific transition probabilities in the SRL process map, e.g., Elaboration-to-Monitoring from 24% to 44%](transition-probabilities-increase-with-channels.md)
+- [Most refinements from adding peripheral data convert First-reading or Re-reading into Organisation, and eye-tracking then corrects many back to First-reading](refined-processes-reading-to-organisation.md) — a narrower finding that bears on this claim
+- [The largest source of mismatch between trace-based and think aloud SRL processes was confusion between elaboration/organisation and first-reading processes](mismatch-elaboration-first-reading.md) — related

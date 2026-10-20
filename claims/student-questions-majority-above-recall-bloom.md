@@ -48,3 +48,4 @@ Categorization of sampled Physics 1A questions (N=150 in 2010, N=200 in 2011) on
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
 - Question cognitive-level distributions differed significantly between years for Physics 1B but not Physics 1A — related
 - Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
+- [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — reports the opposite

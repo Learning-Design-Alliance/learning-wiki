@@ -46,3 +46,6 @@ Findings from the one study meeting WWC standards (version 4.0), an RCT in rural
 - Comparison-group contamination occurred in the Balanced Leadership® trial — related
 - [Effects of Balanced Leadership® on student achievement, teacher retention, and leadership practice are not established by standards-meeting evidence](balanced-leadership-other-outcomes-not-established.md) — related
 - [The retention effect of Balanced Leadership® was not statistically significant in the contributing study](balanced-leadership-retention-not-statistically-significant.md) — related
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — a broader claim this one bears on
+- [Merit award winners were nearly three times as likely to leave their school the following year (16.9% vs 5.9%), mostly leaving the district](merit-award-winners-increased-principal-exit.md) — related
+- [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related

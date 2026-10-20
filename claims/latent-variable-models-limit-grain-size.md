@@ -50,3 +50,5 @@ The paper's evidence-model section reports, citing Haberman (2008) and Sinharay,
 - [Defining and quantifying reliability and measurement error is particularly challenging in epistemic games for three principal reasons](reliability-challenges-epistemic-games.md) — related
 - Adding Markov structures for both general and specific dimensions over time yields a model that does not scale well with the number of measurement occasions — related
 - [Measurement models based on vaguely quantified behavioral frequency reports differ in structure from those based on numerically quantified reports](vague-vs-numeric-frequency-measurement-models-differ.md) — related
+- [Computational complexity of the graph-based MML procedure scales with the number of latent variables within a conditionally independent subset, and brute-force integration scales exponentially with dimensionality](mml-complexity-scales-with-clique-state-spaces.md) — related
+- [Full information MML estimation of a multidimensional IRT model with a second-order dimension also requires only two-dimensional integrals](mml-second-order-dimension-two-dimensional-integrals.md) — related

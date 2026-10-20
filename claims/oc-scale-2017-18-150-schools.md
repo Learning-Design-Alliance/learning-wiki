@@ -66,3 +66,4 @@ Compensation and survey figures reported by Hassel in the March 2018 forum prese
 - [Talent-system reforms, including an experience-based salary scale and earlier recruitment, coincided with retention of over 90 percent of effective teachers](perry-street-teacher-retention-talent-reforms.md) — related
 - [The AIR/Brookings study covered 15,000 students and 300 teachers in three districts over two to three years, with 74 percent Title I schools](air-brookings-study-scope-15000-students.md) — related
 - [Opportunity Culture schools spur schoolwide academic growth even in classrooms not led by Opportunity Culture teachers](oc-schoolwide-growth-beyond-oc-classrooms.md) — related
+- [In 2015–16, North Carolina Opportunity Culture schools outperformed other North Carolina schools on state accountability growth measures](nc-oc-schools-outperformed-2015-16.md) — related

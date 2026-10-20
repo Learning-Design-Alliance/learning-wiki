@@ -47,3 +47,4 @@ The article's statement of its own review structure, in which boundary condition
 
 - [Boundary conditions on verification and reliance include prior knowledge, learner characteristics, task stakes, verifiability, costs, accountability, AI system configuration, and multidimensional AI literacy](boundary-conditions-verification-reliance-genai.md)
 - [Teaching expectancy may moderate the non-interactive teaching effect, but this moderation often fails to replicate](teaching-expectancy-moderation-mixed.md) — a narrower finding that bears on this claim
+- [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related

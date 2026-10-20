@@ -45,3 +45,6 @@ Secondhand reporting: this retrospective article attributes these findings to th
 ## Related Claims
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
+- [Beneficial effects of pedagogical agents are attributed primarily to the agent's voice rather than its visual presence](agent-effects-due-to-voice-not-visual-presence.md) — related
+- [APAs produce more definitive results for affective gain and group learning than for cognitive achievement gains](apa-affective-gain-stronger-than-cognitive.md) — related
+- [Screencast design findings: static vs. dynamic screen movement, explicit vs. implicit narration, and handwriting preferred though typefaces judged more legible](screencast-design-movement-narration-handwriting.md) — related

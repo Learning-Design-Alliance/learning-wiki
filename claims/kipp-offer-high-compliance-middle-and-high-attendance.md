@@ -52,3 +52,7 @@ Descriptive compliance finding from the lottery tracking study: admission-offer 
 - [The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment](kipp-impacts-substantial-relative-racial-enrollment-disparities.md) — related
 - [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) — related
 - Harlem Children's Zone lottery winners scored significantly higher in math and reading and showed long-term benefits — related
+- [The authors interpret the combined middle-and-high-school college gains as possibly driven by college preparatory culture and college-related supports at KIPP high schools](kipp-college-culture-supports-interpretation.md) — related
+- [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
+- [For continuing KIPP students, KIPP high schools have positive impacts on college preparation activities and the likelihood of applying to college](kipp-high-school-continuing-students-college-preparation.md) — related
+- [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](kipp-tracking-1177-lottery-applicants-13-schools.md) — related

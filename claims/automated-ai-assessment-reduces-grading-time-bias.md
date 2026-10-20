@@ -47,3 +47,5 @@ In the review's Assessment and Feedback theme, it reports that AI assessment too
 - [Providing LLM pre-labels can decrease human annotation accuracy when the model is incorrect, due to automation bias](llm-prelabels-decrease-human-accuracy.md) — related
 - [AI-based assessment practices within PBL contexts remain underdeveloped, with limited empirical evidence on automated feedback, formative assessment, and learning analytics](ai-pbl-assessment-underdeveloped-gap.md) — related
 - [A technical review reports a 70% cut in grading time and a 15% rise in learner satisfaction from NLP-based automated grading on one MOOC platform, with no comparison design described](mooc-nlp-grading-70-percent-time-reduction.md) — related
+- [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

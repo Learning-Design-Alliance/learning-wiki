@@ -51,3 +51,4 @@ The presentation description states the national scale of the closures, reportin
 - [Pandemic-era findings support the theory that COVID-19 left students behind academically across the board while worsening existing educational inequities](pandemic-left-students-behind-worsened-inequities.md) — related
 - [In almost all grades, most students made some learning gains in both reading and math since the COVID-19 pandemic started](most-students-still-made-gains-reading-math-covid.md) — related
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
+- [The COVID-19 pandemic changed public school kindergarten enrollment in ways with likely national classroom consequences](covid-changed-kindergarten-enrollment-consequences.md) — related

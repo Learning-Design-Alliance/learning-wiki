@@ -48,3 +48,4 @@ Think-aloud study (Experiment 1) coding seven categories of cognitive processes;
 - [Readers with misconceptions engage in more conceptual change strategies than readers without misconceptions, but only when reading a refutation text](misconception-refutation-conceptual-change-strategies.md) — related
 - [Readers with misconceptions recall less textual information than readers without misconceptions, regardless of text structure](misconceptions-reduce-recall-regardless-of-structure.md) — related
 - [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](misconceptions-inhibit-reading-comprehension.md) — related
+- [Readers with misconceptions spend more time reading law sentences than readers without misconceptions, but only in refutation texts](misconception-slower-reading-refutation-law-sentences.md) — related

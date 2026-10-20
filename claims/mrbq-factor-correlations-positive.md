@@ -48,3 +48,4 @@ Correlational analysis of the four PCA factors from the survey of 365 Flemish ju
 - A four-factor principal component model of the MRBQ provides some empirical ground for the proposed structure of students' mathematics-related beliefs — a broader claim this one bears on
 - Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor — related
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related
+- [A CCSR research review concludes that four academic mindsets (belonging, growth beliefs, self-efficacy and value) increase perseverance and improve academic behaviors](four-academic-mindsets-increase-perseverance-and-behaviors.md) — related

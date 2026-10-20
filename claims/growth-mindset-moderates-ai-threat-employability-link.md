@@ -66,3 +66,5 @@ Simple slope analysis at one SD below and above the growth mindset mean showed a
 - [AI employment threat perception negatively predicts perceived employability among Chinese college students](ai-threat-negatively-predicts-perceived-employability.md) — related
 - [Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability](growth-mindset-weakens-moderated-mediation-indirect-effect.md) — related
 - [Perceived employability negatively predicts career decision-making anxiety among Chinese college students](perceived-employability-negatively-predicts-career-anxiety.md) — related
+- [Profiles also differ in self-perceived employability, and elevated AI-related threat is not necessarily incompatible with career preparation](profiles-differ-in-perceived-employability-threat-not-incompatible.md) — related
+- [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related

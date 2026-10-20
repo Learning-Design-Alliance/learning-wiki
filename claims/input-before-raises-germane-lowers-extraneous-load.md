@@ -45,3 +45,7 @@ MANCOVA on self-report cognitive load (Leppink-adapted questionnaire) in the 2×
 ## Related Claims
 
 - [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)
+- [Providing key features during case comparison improves student teachers' ability to explain teacher behavior with operant conditioning principles, but not lower levels of understanding](key-features-improve-explanation-in-case-comparison.md) — related
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related
+- [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [Timing of instructional input (before vs. after case comparison) did not significantly affect conceptual knowledge acquisition](input-timing-no-effect-knowledge-case-comparison.md) — related

@@ -47,3 +47,5 @@ Cross-country comparison within the qualitative policy analysis of thirty univer
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
 - [No public GenAI policies were found for German universities and Tallinn University of Technology among the sampled institutions](no-public-genai-policies-german-universities-tallinn.md) — related
+- [African countries' AI policies are high-level and more focused on economic goals than on establishing specific regulatory requirements](african-ai-policies-high-level-economic-focus.md) — related
+- [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related

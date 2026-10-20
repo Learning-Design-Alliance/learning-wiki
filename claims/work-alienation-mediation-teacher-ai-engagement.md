@@ -45,3 +45,4 @@ Same three-wave survey (N = 468); Table 5 reports the TAC → WA → WE indirect
 ## Related Claims
 - [Digital competency weakens the positive relationship between teacher–AI collaboration and work alienation](digital-competency-weakens-tac-alienation-link.md) — related
 - [Psychological availability mediates the positive pathway from teacher–AI collaboration to work engagement](psychological-availability-mediation-teacher-ai-engagement.md) — related
+- [Digital competency strengthens the positive relationship between teacher–AI collaboration and psychological availability](digital-competency-strengthens-tac-availability-link.md) — related

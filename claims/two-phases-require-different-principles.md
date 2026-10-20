@@ -63,3 +63,5 @@ Episode analysis of group 2 shows the strong graphical principle persisted into 
 
 ## Related Claims
 - [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — related
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](weak-organization-enables-principle-experimentation.md) — related
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — related

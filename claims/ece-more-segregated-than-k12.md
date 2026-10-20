@@ -46,3 +46,4 @@ The report cites a study comparing segregation levels, stating that "ECE program
 - [Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color](preschool-racial-isolation-black-hispanic.md) — related
 - [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md) — related
 - [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — a broader claim this one bears on
+- [Racially diverse schools show stronger achievement for historically underserved groups and positive effects on critical thinking, intergroup relationships, and civic engagement](racially-diverse-schools-benefits-underserved-achievement.md) — related

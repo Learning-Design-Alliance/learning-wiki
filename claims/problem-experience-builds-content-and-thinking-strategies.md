@@ -48,3 +48,6 @@ The article cites psychological research and theory as the basis for the claim t
 - [Adult learners expect AI to support problem-centered learning by activating background knowledge, generating diagnostic insights, and strengthening critical thinking](ai-supports-problem-centered-critical-thinking.md) — related
 - [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — a broader claim this one bears on
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
+- [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
+- [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
+- [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — a narrower finding that bears on this claim

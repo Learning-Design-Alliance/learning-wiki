@@ -48,3 +48,4 @@ Psychometric analysis of pooled survey responses from 102 middle school math tea
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — a narrower finding that bears on this claim
 - [Content experts and practitioner reviews supported the content and face validity of the CT–PCK Survey](ct-pck-content-face-validity.md) — a narrower finding that bears on this claim
 - [Teachers who were White, female, or had five or more years of experience scored about 14 percentage points higher; emergency-certified teachers scored 14 points lower](ct-pck-group-score-differences.md) — a narrower finding that bears on this claim
+- [Teacher efficacy underpins the ability to differentiate instruction effectively, with efficacy dependent on pedagogical content knowledge](teacher-efficacy-pck-underpin-differentiation.md) — related

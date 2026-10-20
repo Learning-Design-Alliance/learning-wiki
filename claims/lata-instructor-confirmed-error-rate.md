@@ -47,3 +47,4 @@ Regrade-request audit across the eight Winter 2026 assignments: the instructor c
 - [The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected subsample](ta-ground-truth-one-rater-per-item-error-rate.md) — related
 - [An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term](lata-onprem-autograder-throughput.md) — related
 - [Students rated regular announcements/e-mail reminders and grading rubrics for all assignments as the most beneficial learner-to-instructor strategies](announcements-rubrics-top-learner-instructor-strategies.md) — related
+- [Human Graders of Open-Ended Work Agree With Each Other Less Than Treating One Grade as Ground Truth Implies](human-graders-agree-less-than-single-grade-ground-truth-implies.md) — related

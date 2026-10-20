@@ -45,3 +45,6 @@ Ethnographic observation of test-review sessions, e.g. Dan reciting masthead-lig
 ## Related Claims
 
 - [Participation in the quasi-community pedagogy was followed by very high success in the certification examination](quasi-community-high-certification-success.md)
+- [Structured Peer Tutoring Outperforms Unstructured](structured-peer-tutoring-outperforms-unstructured.md) — related
+- [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related

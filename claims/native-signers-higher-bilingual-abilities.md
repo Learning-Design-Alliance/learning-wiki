@@ -47,3 +47,8 @@ Independent-samples t-test in the same 55-participant sample comparing native si
 - [Native signers (children of at least one Deaf parent) outperform non-native signers on ASL syntactic judgment and analogical reasoning tasks](native-signers-outperform-non-native-asl.md) — related
 - [Deaf adults in this sample read on average at a 5.8 grade level, ranging from grade 1.7 to post-college](deaf-sample-mean-reading-grade-5-8.md)
 - [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md)
+- [Native signing and maternal education jointly predict bilingual ability, accounting for 38.4% of variance](regression-native-signing-maternal-education-bilingual.md) — related
+- [All three groups differed significantly on expressive vocabulary, with non-native signers scoring lowest](vocabulary-group-differences-three-groups.md) — related
+- [The advantage of signing from birth holds for Deaf learners of all ages tested and all age-of-entry groupings](birth-signing-advantage-all-ages.md) — related
+- [Higher maternal education relates to more proficient bilingual abilities in deaf adults](maternal-education-predicts-bilingual-abilities.md) — related
+- [Deaf parental hearing status, sign language use at home, and attendance at a school for the deaf are each associated with more positive perceptions of deaf children's social success](deaf-parents-sign-language-deaf-schools-social-perceptions.md) — related

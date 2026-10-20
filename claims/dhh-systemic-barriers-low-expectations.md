@@ -52,3 +52,5 @@ The article's abstract asserts, without printed data or statistics in the availa
 - [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Students who are deaf or hard of hearing continue to grow and acquire literacy skills well into middle school when tracked across grades 2-8](dhh-students-continue-literacy-growth-into-middle-school.md) — related
+- [Hearing-impaired students learn library skills quickly via the \"showand do\" demonstration method and are often misjudged as unready](show-and-do-method-hearing-impaired-students.md) — possibly the same claim (merge candidate)
+- [New research tracked academic growth trajectories of students who are deaf or hard of hearing across grades 2-8](dhh-growth-trajectories-grades-2-8-study.md) — related

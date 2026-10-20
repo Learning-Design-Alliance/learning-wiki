@@ -66,3 +66,6 @@ Student rating survey of the Good For assignments in N100. The article reports o
 - [JiTT implementation was associated with a decreased DFW rate in Contemporary Biology, from 27% to 20%](jitt-decreased-dfw-rate-n100.md)
 - [Test questions reinforced by Warm Up questions or Cooperative Learning activities showed higher average normalized gains (~52%, ~60%) than questions discussed in class only (~15%)](jitt-higher-normalized-gains-reinforced-questions.md)
 - [Students rated class discussions of Warm Up responses as very useful (87%, n = 485)](students-rate-warmup-discussions-useful.md)
+- [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](cooperative-learning-usefulness-attendance.md) — related
+- [Students in the style-informed EFL classes reported that the teaching procedure was useful and that their interests and motivation increased](students-report-increased-motivation-style-informed-elt.md) — related
+- [Students and teachers respond favorably to embedded aids: approximately 90% of students reported no difficulty understanding or using the aids, and over 75% wanted similar aids throughout the book.](embedded-aids-are-acceptable-to-students-and-teachers.md) — related

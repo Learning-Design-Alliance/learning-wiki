@@ -47,3 +47,4 @@ Experiment with N = 427 secondary students randomized to diagram completion, dia
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related
 - [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related
 - [Readers' judgment explanations support a cautious hierarchy of perceptual cues: content, then color, then space, then graphic features](cue-hierarchy-content-color-space-graphic.md) — related
+- [The cue-diagnosticity intervention steered cue utilization: diagnostic cue use increased and non-diagnostic cue use decreased](diagnosticity-intervention-steers-cue-utilization.md) — related

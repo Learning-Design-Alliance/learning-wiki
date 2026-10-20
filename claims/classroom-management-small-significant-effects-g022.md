@@ -47,3 +47,4 @@ The meta-analysis pooled 54 random and nonrandom controlled intervention studies
 - [Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes](social-emotional-focus-largest-contribution.md) — related
 - [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related
 - [First Step to Success shows potentially positive effects on social outcomes (average improvement index +23)](first-step-success-positive-social-outcomes.md) — related
+- [Students' academic outcomes tentatively benefit from teacher-focused classroom management programs](teacher-focused-programs-academic-outcomes-tentative.md) — related

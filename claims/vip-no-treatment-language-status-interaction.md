@@ -50,3 +50,5 @@ The report states, based on correspondence with the study authors, that the Carl
 - [Spoken–written advantages are larger for second-language and nonfluent first-language readers and for low prior knowledge learners](reader-fluency-prior-knowledge-moderate-redundancy.md) — the general claim this finding bears on, with the studies behind it
 - Native versus non-native instructor status was a minor factor in students' perceived quality interaction — related
 - [Word frequency does not modulate the transposed-character effect in either experiment](frequency-does-not-modulate-tc-effect.md) — related
+- [Feedback quality did not differ by students' language status for either human evaluators or ChatGPT](feedback-quality-no-language-status-difference.md) — related
+- [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](el-english-speaker-gap-increasing-statewide.md) — related

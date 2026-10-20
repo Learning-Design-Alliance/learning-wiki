@@ -70,3 +70,4 @@ Same period-by-period and subject-by-subject analysis of class absences. The bri
 - Average daily attendance and truancy metrics mask chronic absence, which reveals individual students missing 10% of school for any reason — related
 - Punitive responses to absence do not improve attendance and can worsen it — related
 - [The school refusal-truancy dichotomy shows extensive overlap and heterogeneity](school-refusal-truancy-dichotomy-overlap.md) — a broader claim this one bears on
+- [Class conditions—period, term, class size and subject—systematically shift grades, largely through attendance](class-conditions-shift-grades.md) — related

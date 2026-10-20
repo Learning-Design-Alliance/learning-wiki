@@ -49,3 +49,6 @@ This is the author's interpretive observation from the validation phase, not a t
 - Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots — related
 - [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
 - [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related
+- [In the MM-04 workflow case, similar-looking model activity has different evidential validity: GPT-5.5 closes the evidence-to-action loop while GLM-5.1 leaves the assigned deck unchanged and Gemini-3.1-Pro misses required numeric or visual evidence](mm04-workflow-boundary-failures.md) — related
+- [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
+- [FATE benchmarks rank Gemini 2.5 Flash highest among commercial AI tutors, with actionability weakest for all models](fate-benchmark-commercial-ai-tutors.md) — related

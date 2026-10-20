@@ -46,3 +46,7 @@ Further analysis of the two field experiments finds the gains are concentrated a
 - [A teacher-coaching CAL program produces significant intent-to-treat gains in elementary and middle school math performance of 0.12-0.22 standard deviations](cal-teacher-coaching-itt-math-gains-012-022-sd.md) — a broader claim this one bears on
 - Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks — related
 - [Teachers who achieve high-dosage CAL practice show strong initial buy-in, a clear implementation strategy for practice timing, and close monitoring with follow-up](high-dosage-cal-teachers-buy-in-strategy-monitoring.md) — related
+- [Teacher coaching raises student achievement on standardized tests by a pooled 0.18 SD across 31 causal studies](coaching-pooled-achievement-effect-0-18-sd.md) — a broader claim this one bears on
+- [In the reviewed RCT, students averaged 21.8 hours of DreamBox usage, below the developer's recommended 90 minutes per week](dreambox-usage-21-8-hours-below-recommended-dose.md) — related
+- [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related
+- [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — a narrower finding that bears on this claim

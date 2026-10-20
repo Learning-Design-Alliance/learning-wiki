@@ -45,3 +45,5 @@ Descriptive instrument analysis across the 30 included studies. The review adds 
 ## Related Claims
 - [Teachers' self-assessed reflection skill exceeds their externally assessed reflection level, with only a low correlation between the two](teacher-reflection-self-external-assessment-gap.md) — related
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](journaling-system-improves-srl-all-groups.md) — related
+- [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](teacher-scaffolding-strategy-use-performance-phase.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

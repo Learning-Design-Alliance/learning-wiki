@@ -46,3 +46,4 @@ Analysis of CTC Title II annual report data (Figure 4) documents the enrollment 
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
 - [Estimated teacher hires increased 43% between 2013–14 and 2017–18, outpacing growth in credential issuance](teacher-hire-demand-increased-43-percent.md) — related
 - [Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000](teacher-prep-enrollment-decline-35-percent.md) — a broader claim this one bears on
+- [California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak](california-modest-increase-teacher-completers-2020-2021.md) — related

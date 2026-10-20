@@ -45,3 +45,8 @@ Contrast analysis on bias (z-standardized JOLs minus z-standardized posttest per
 ## Related Claims
 
 - [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md)
+- [Comprehension judgments and performance predictions correlate highly, supporting the validity of the study's z-standardized bias measure to some extent](comprehension-judgment-performance-prediction-correlation.md) — related
+- [Generating keywords after a delay increases relative judgment accuracy compared with no keyword generation, replicating the keyword effect with a new sample and new materials](keyword-effect-delayed-generation-relative-accuracy-replication.md) — related
+- [Comparing self-generated keywords with expert keywords increases bias, specifically underconfidence](expert-keyword-comparison-increases-underconfidence.md) — related
+- [Comprehension-test expectancy tended to be more effective than delayed-keywords listing and rereading, though interventions did not substantially differ overall](test-expectancy-tendency-larger-than-keywords-rereading.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related

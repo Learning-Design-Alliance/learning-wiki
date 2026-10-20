@@ -48,3 +48,5 @@ Thematic analysis of diary entries (98 ChatGPT, 140 Google) coded with Ellis's m
 - [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
+- [ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources](chatgpt-worse-protein-comparison-question.md) — related

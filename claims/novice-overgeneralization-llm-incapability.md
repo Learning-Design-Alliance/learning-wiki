@@ -64,3 +64,6 @@ Qualitative content analysis of the eight end-of-term reflections (Dataset 2, ap
 ## Related Claims
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related
 - [When prompts failed, students most commonly reported clarifying intent or specifying more detail, and reflecting on the problem depiction, rather than tracing code or examining test cases](clarify-intent-top-refinement-strategy.md) — related
+- [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md) — related
+- [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
+- [The report attributes stagnant learning results to program implementation rather than to the ed-tech tools themselves](implementation-not-tools-stagnant-results.md) — related

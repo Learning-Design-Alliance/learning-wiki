@@ -48,3 +48,5 @@ Task 2 analysis comparing summed psychometric score distributions between human-
 - LLM-generated BREQ responses capture overall item-mean patterns but are more extreme and less variable than human responses — a broader claim this one bears on
 - [Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics](persona-priming-shifts-llm-math-sentiment.md) — related
 - [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](response-prompting-styles-increase-variance.md) — related
+- [Within-judge variance of the repeated LLM-judge rubric is negligible, but cross-model-family agreement remains untested](within-judge-stability-llm-rubric.md) — related
+- [LLM digital shadows reproduce the human pattern of positive science perceptions anchored in negative mathematics associations](llm-shadows-reproduce-negative-math-semantic-bias.md) — related

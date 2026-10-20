@@ -48,3 +48,4 @@ The brief lists "The relationship between early math and literacy development" a
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool phonological processing](prek-mathematics-no-phonological-effects.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool print knowledge](prek-mathematics-no-print-knowledge-effects.md) — related
+- [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md) — related

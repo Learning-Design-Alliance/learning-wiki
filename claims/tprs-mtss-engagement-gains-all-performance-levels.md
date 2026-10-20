@@ -48,3 +48,5 @@ Teacher-reported engagement observations across the three DBR cycles in one Chin
 
 ## Related Claims
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related
+- [First DBR iteration evaluation showed disjointed transitions between gaming and academic work, prompting a revised three-step teaching model with domain knowledge acquisition first](dbr-iteration-disjointed-gaming-academic-transitions.md) — related
+- [Positive Greetings At The Door Improve Engagement](positive-greetings-at-the-door-improve-engagement.md) — related

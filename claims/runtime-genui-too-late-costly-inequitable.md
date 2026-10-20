@@ -47,3 +47,4 @@ Theoretical argument in the abstract and introduction of this position paper: co
 - [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
 - Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
 - [The xOrder fairness method proved inapplicable at institutional scale, with runtime scaling of approximately n^2.36](xorder-intractable-institutional-scale.md) — related
+- [The system has no empirical evaluation yet: profile accuracy has not been assessed and learning outcomes remain an open question](ecnuclaw-no-empirical-evaluation-yet.md) — related

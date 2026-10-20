@@ -45,3 +45,6 @@ For the third problem (returning the index of the last zero in an array), the om
 - [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
 - [Immediate post-feedback improvement is near zero on average and does not differ significantly across feedback conditions](baseline-post-feedback-gains-near-zero-no-condition-differences.md) — related
 - [Natural language AI feedback is associated with higher eventual success on initially incorrect programming problems](nl-feedback-higher-eventual-success-programming.md) — related
+- [Greater proportion of voice prompts used correlates moderately with greater stated preference for voice](voice-usage-preference-correlation.md) — related
+- [Immediate success rates are higher after injected bugs than after natural bugs](higher-immediate-success-after-injected-bugs.md) — related
+- [Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users](text-dominance-modality-choice-independent.md) — related

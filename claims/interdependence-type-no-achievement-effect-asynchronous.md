@@ -64,3 +64,5 @@ One experiment (Brewer & Klein 2003, 280 undergraduate business majors in triads
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Cooperative Learning Improves Achievement](cooperative-learning-improves-achievement.md) — a broader claim this one bears on
 - [Small-group learning improves undergraduate STEM achievement](small-group-learning-improves-stem-achievement.md) — a broader claim this one bears on
+- [In one study of undergraduate business majors in asynchronous online small groups, learners with high affiliation motive agreed more than low-affiliation learners with six of twelve attitude statements about group work](high-affiliation-motive-favorable-group-attitudes.md) — related
+- [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](kindergarten-triads-shared-computer-social-skills.md) — related

@@ -47,3 +47,6 @@ Interview study with three teachers and twelve students: "The interviews reveale
 - [CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals](cobi-technical-feasibility-classrooms.md) — related
 - [Preferences for visualizing predictions with metaphors were a matter of personal choice, with students wanting to choose their own metaphor](metaphor-preference-personal-choice.md) — related
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
+- [Perceived ease-of-use based on simplicity and familiarity with common chart types heavily influenced teachers' visualization preferences](simplicity-familiarity-drive-dashboard-preference.md) — related
+- [Teachers ranked all whole class visualizations higher than any of the equity visualizations despite the equity visualizations' role in prompting equity reflections](teachers-prefer-whole-class-visualizations.md) — related
+- [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related

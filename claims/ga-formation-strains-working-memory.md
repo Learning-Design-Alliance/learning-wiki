@@ -44,3 +44,4 @@ This is a theoretical assumption stated in the article's conceptual section, not
 
 ## Related Claims
 - [Schnaubert and Bodemer propose a six-part framework of defining aspects of group awareness for regulating joint activity](six-defining-aspects-group-awareness-framework.md) — related
+- [Regulating GA proceeds via metacognitive monitoring of adequacy and accuracy plus control through outward- and inward-oriented strategies](ga-regulation-monitoring-control-strategies.md) — related

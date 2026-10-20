@@ -52,3 +52,4 @@ Bivariate correlation matrix (Table 5) among the six constructs in the sample of
 - [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — related
 - [Performance expectancy, effort expectancy, and social influence positively predict behavioral intention to use ChatGPT among Lesotho higher education students](pe-ee-si-predict-chatgpt-intention-lesotho.md) — related
 - [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [The study examined the genAI agent's influence on team discussion and outcomes and the influence of faculty facilitators on acceptance of the agent](genai-influence-discussion-facilitator-acceptance.md) — related

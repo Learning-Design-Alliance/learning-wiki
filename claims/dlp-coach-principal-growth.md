@@ -46,3 +46,4 @@ Pre/post survey of DLP coaches and principals. The report notes principal data h
 - [Coaches reported significantly greater confidence in their coaching skills by year end, rising from 62 to 89 percent rating themselves high or extremely high](dlp-coach-confidence-growth.md) — related
 - [Principals' confidence in leadership skills related to instructional coaching rose from 60 to 95 percent over the pilot year](dlp-principal-leadership-confidence-growth.md) — related
 - [KIPP's rapid growth over two decades created an enormous need for strong principals to lead its schools](kipp-growth-created-principal-need.md) — related
+- [Majorities of surveyed teachers and coaches reported the program enhanced career advancement and leadership opportunities](vils-career-advancement-survey-majorities.md) — related

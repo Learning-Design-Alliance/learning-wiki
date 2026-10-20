@@ -48,3 +48,4 @@ The article reports, citing Gonsalves, research into student attitudes showing "
 - Disclosure status alone often changes little in substantive classification, and false declarations change fewer classifications than expected — related
 - [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related
 - [Universities converge on disclosure and attribution expectations as the condition distinguishing legitimate AI assistance from misrepresentation](genai-disclosure-attribution-convergence.md) — related
+- [Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure](shame-guilt-regulate-ai-use-visibility.md) — a narrower finding that bears on this claim

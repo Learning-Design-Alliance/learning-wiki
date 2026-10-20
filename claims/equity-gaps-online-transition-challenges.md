@@ -84,3 +84,6 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
 - [Distributing hardware without capable software produced no measurable effect on mathematics or language scores in a large randomized evaluation, as the article reports citing Cristia et al.](olpc-randomized-hardware-null-no-score-effect.md) — related
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
+- [Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults](laissez-faire-digital-policy-gaps.md) — related
+- [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
+- [Internet connection rates in Canada differ sharply by income, with 97% of the highest income quartile connected versus 58% of the lowest](income-internet-connection-gap.md) — related

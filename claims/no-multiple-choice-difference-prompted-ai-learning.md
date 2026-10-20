@@ -48,3 +48,4 @@ Same randomized controlled experiment (n = 95). Multiple-choice accuracy means w
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](mcq-accuracy-no-significant-condition-difference.md) — related
+- [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](diverse-explanations-no-perceived-information-overload.md) — related

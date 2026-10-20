@@ -67,3 +67,5 @@ Table 3 reports effort expectancy means from 3.52 to 3.90, all significantly abo
 ## Related Claims
 - [Actual classroom use of AI among Ghanaian pre-service science teachers is moderate despite strong intentions, indicating an intention-practice gap](intention-practice-gap-ai-use-ghanaian-pre-service-teachers.md) — related
 - [Ghanaian pre-service science teachers show positive attitudes, perceived behavioural control, and behavioural intentions toward AI](positive-attitudes-pbc-intentions-ai-pre-service-teachers.md) — related
+- [Students were more positive than staff that GAI use enhances academic performance, with staff means below the scale midpoint](performance-expectancy-staff-student-gap.md) — related
+- [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — related

@@ -46,3 +46,6 @@ Subjectivity scoring (0 fully objective to 1 fully subjective) of the 130-policy
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
+- [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related
+- [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related

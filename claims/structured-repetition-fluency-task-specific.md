@@ -71,3 +71,5 @@ The article reports, citing Taguchi et al. (2004), a study of Japanese universit
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — reports the opposite
 - [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related
 - [Task repetition can be used as a form of integrative planning in language learning and teaching](task-repetition-integrative-planning.md) — related
+- [Explicit teaching of grammar rules enhances their learning, and rules are learned faster and better when repeated in communicative tasks](explicit-rules-learned-faster-in-communicative-tasks.md) — related
+- [Design studies found that timing adults' oral reading led them to sacrifice accuracy for speed, motivating untimed repeated reading practice in the curriculum](timed-reading-adults-sacrifice-accuracy.md) — related

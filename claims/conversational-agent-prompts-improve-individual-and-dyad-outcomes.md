@@ -43,4 +43,8 @@ The editors report the experimental study by Tegos, Demetriadis, Papadopoulos, a
 
 
 ## Related Claims
--
+- [In a 2x2 experiment on jigsaw dyads, the implicit gaze awareness tool affected dialogue processes much more than the explicit pedagogical conversational agent, which compensated when gaze awareness was absent](gaze-awareness-tool-more-effective-than-explicit-agent-jigsaw-dyads.md) — related
+- [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related
+- [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
+- [Students who teach a ChatGPT teachable agent in natural language achieve greater knowledge gains than students who learn the same material from online videos](chatgpt-teachable-agent-knowledge-gains.md) — related
+- [In math problem solving, a tutor LLM alone significantly improved unassisted test accuracy over no-agent control, while peer-like error agents alone did not reach significance](tutor-alone-significant-peers-alone-not-math.md) — related

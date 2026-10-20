@@ -46,3 +46,4 @@ Philosophical argument paraphrasing Dewey: "if any student has not learned, the 
 
 - [Criterion-referenced tests indicate whether a particular skill or objective has been achieved rather than comparing performance to other test takers](criterion-referenced-tests-measure-mastery-not-relative-standing.md) — the general claim this finding bears on, with the studies behind it
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — a broader claim this one bears on
+- [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related

@@ -46,3 +46,8 @@ Longitudinal regression (model 1, Table 4) predicting TEMA-3 at Time 2 from Time
 - [Early ANS acuity does not predict later expressive vocabulary; only initial vocabulary size predicts vocabulary six months later](ans-acuity-not-predicting-vocabulary-growth.md) — related
 - [ANS acuity is a unique concurrent predictor of preschool math ability beyond expressive vocabulary, non-numerical attention RT, and memory span](ans-acuity-unique-concurrent-predictor-beyond-domain-general.md) — related
 - [Initial math ability is the largest single predictor of later math ability, accounting for 45% of variance in later TEMA-3 scores](initial-math-ability-largest-predictor-later-math.md) — related
+- [Early numeracy mastery at 54 months predicts college attendance](early-numeracy-mastery-predicts-college-attendance.md) — related
+- [ANS acuity correlates with later number sets fluency but does not emerge as a unique predictor once symbolic knowledge is controlled](ans-acuity-not-unique-predictor-of-number-sets.md) — related
+- [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related
+- [Preschoolers' ANS task performance follows Weber's Law: accuracy decreases as numerical ratio approaches equality, and improves with age over six months](ans-performance-webers-law-ratio-dependence.md) — related
+- [Early numeracy mastery at 54 months predicts high school math course-taking](early-numeracy-mastery-predicts-hs-math-course-taking.md) — related

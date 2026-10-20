@@ -43,4 +43,5 @@ Quasi-experimental pre-test-post-test study in which lessons of 30 primary teach
 
 
 ## Related Claims
--
+- [Direct SRL promotion in observed classrooms was dominated by implicit strategy instruction, metacognitive support, and metacognitive reflection, with explicit strategy instruction rare](implicit-strategy-instruction-dominates-direct-srl-promotion.md) — possibly the same claim (merge candidate)
+- [Primary teachers who participated in the iSELF professional development program showed significantly higher explicit SRL strategy instruction at post-test than control teachers](iself-pdp-increases-explicit-srl-instruction.md) — related

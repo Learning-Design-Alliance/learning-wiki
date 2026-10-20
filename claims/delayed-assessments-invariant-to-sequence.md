@@ -50,3 +50,4 @@ Two-tailed t-tests in the main study comparing the two sequence conditions on th
 - [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](ecl-ratings-follow-complexity-sequence.md) — related
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [GCL ratings move opposite to the hypothesised pattern, decreasing in the increasing-complexity condition and increasing in the decreasing-complexity condition](gcl-ratings-opposite-hypothesized-pattern.md) — related
+- [Constantly high complexity lowers reported intrinsic cognitive load and metacognitive strategy use compared with gradually increasing complexity](high-complexity-lowers-icl-and-metacognitive-strategy-use.md) — related

@@ -46,3 +46,7 @@ Multilevel analyses of survey and test data from 193,073 15-year-old students in
 ## Related Claims
 - [SES and language spoken at home are strongly related to mathematics achievement especially at the classroom level, and teaching-quality estimates reduce these background estimates](ses-language-achievement-gap-teaching-quality-reduction.md) — related
 - [SOBAS differs across attributes of countries, families, schools, teachers, and students in 41 countries](sobas-varies-across-country-family-school-teacher-student-attributes.md) — a broader claim this one bears on
+- [Collectivism is not significantly linked to students' sense of belonging at school](collectivism-not-linked-sobas.md) — related
+- [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](egalitarian-cultures-higher-sobas.md) — a narrower finding that bears on this claim
+- [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — a narrower finding that bears on this claim
+- [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](interaction-quality-confounded-by-prior-achievement.md) — related

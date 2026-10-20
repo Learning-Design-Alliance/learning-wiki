@@ -45,3 +45,6 @@ Binomial GLMM on 4010 trials (incorrect guesses only) from 100 adults; the artic
 ## Related Claims
 
 - [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md)
+- [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md) — related
+- [Correctness Confidence did not significantly predict recall accuracy, contrary to the authors' hypothesis](correctness-confidence-did-not-predict-recall.md) — related
+- [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related

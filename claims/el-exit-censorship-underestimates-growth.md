@@ -48,3 +48,4 @@ Chapter I's Limitations section explains that faster-progressing, higher-attaini
 - [Systematic demographic differences in available fall 2020 assessment data suggest COVID-19 impacts on the most vulnerable students may be underestimated](covid-impact-vulnerable-students-may-be-underestimated.md) — related
 - [More than half of students who began as ELs passed the ACCESS proficiency exam by third grade and three-fourths by fifth grade; students who had not passed by fifth grade were unlikely to pass before high school](access-proficiency-timing-fifth-grade-window.md) — related
 - More recent cohorts of kindergarten ELs reached English proficiency on the CELDT in earlier grades than previous cohorts — related
+- [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](longitudinal-attrition-systematic-baseline-differences.md) — related

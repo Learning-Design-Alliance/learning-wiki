@@ -47,3 +47,5 @@ The retrospective analysis of long-term outcomes reports that "Few Math Corps pa
 - [Math Corps students had much higher graduation rates than Detroit Public Schools students overall](math-corps-higher-graduation-rates-than-detroit-public-schools.md) — related
 - [An NSF-funded replication of Math Corps operated in three new cities across summers 2017–2019 with independent evaluation](math-corps-nsf-funded-three-city-replication.md) — related
 - [Attendance at Math Corps was strong at all three replication sites](math-corps-strong-attendance-replication-sites.md) — related
+- [SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes](sble-no-effect-crime-subcategories.md) — related
+- [Math Corps students made large and statistically significant gains on the Math Corps exam between the start and end of camp in all three replication sites](math-corps-significant-exam-gains-replication-sites.md) — related

@@ -47,3 +47,4 @@ The article's distributional interpretability analysis, described as in-depth vi
 - [Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty](kt-encoders-entity-isolated-deterministic-limits.md) — related
 - [Unsupervised hierarchical clustering of knowledge vectors recovers expert bundle structure without bundle labels](clustering-recovers-expert-bundles.md) — related
 - DKT influence graphs recover latent concept structure from unlabeled interaction data — a narrower finding that bears on this claim
+- [Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies](ai-systems-misinterpret-stem-diagrams.md) — related

@@ -47,3 +47,5 @@ Follow-up ANOVA for the memory experiment found older adults produced more non-s
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
 - [Older adults produce fewer internal details than younger adults during elaboration across both experiments](aging-fewer-internal-details-elaboration.md) — related
 - [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related
+- [Specificity measures correlate more strongly across tasks for older adults than younger adults, suggesting semantic strategy reliance](specificity-correlations-stronger-older-adults.md) — related
+- [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](generation-elaboration-correlation-memory-only.md) — related

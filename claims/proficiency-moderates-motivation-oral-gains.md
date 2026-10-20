@@ -65,3 +65,5 @@ Conditional effects analysis in the same model. At low proficiency the motivatio
 - [Reflective behavior and learning motivation each significantly predict oral proficiency improvement in ASR-assisted instruction](asr-reflection-motivation-predict-oral-gains.md) — related
 - [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related
 - [Language proficiency significantly moderates the effect of reflective behavior on oral proficiency improvement, with the effect non-significant at low proficiency](proficiency-moderates-reflection-oral-gains.md) — related
+- [In ASR-assisted college English speaking instruction, corrective feedback and reflection tasks each significantly predict reflective behavior](asr-feedback-and-reflection-tasks-reflective-behavior.md) — related
+- [Low- and high-proficiency EFL learners differ significantly in self-efficacy, intrinsic goal orientation, and test anxiety](proficiency-groups-differ-motivational-factors.md) — related

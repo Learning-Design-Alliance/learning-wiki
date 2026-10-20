@@ -43,4 +43,7 @@ Process mining (pMineR first-order Markov models) of SRL process maps for all 25
 
 
 ## Related Claims
--
+- [Eye-tracking data enables detection of more frequent Monitoring and Evaluation processes that navigational and peripheral channels miss](eye-tracking-detects-monitoring-evaluation.md) — related
+- [Adding eye-tracking data corrects inflated Organisation durations and re-distributes First-reading time relative to both other channels](eye-tracking-corrects-organisation-durations.md) — related
+- [Adding peripheral data raises specific transition probabilities in the SRL process map, e.g., Elaboration-to-Monitoring from 24% to 44%](transition-probabilities-increase-with-channels.md) — related
+- [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](percent-processes-refined-metric-results.md) — a broader claim this one bears on

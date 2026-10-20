@@ -67,3 +67,4 @@ Regression results on the reported number of registered hand-raising classmates 
 - [A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept](no-dispositional-self-concept-effect-ivr.md) — related
 - [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
 - [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md) — related
+- [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — a broader claim this one bears on

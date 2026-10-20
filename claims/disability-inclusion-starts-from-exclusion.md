@@ -46,3 +46,7 @@ Theoretical argument in the brief about U.S. inclusion efforts for students iden
 - [In the ethnography the article analyzes, black girls bussed to an affluent suburban school were unpopular and socially excluded for being seen as loud and ghetto, while black boys were classified as incapable of academic achievement](gender-performance-grounds-exclusion-of-bussed-black-students-in-suburban-school.md) — related
 - Area Learning Center students most often cite individualized education, smaller schools, less restrictive environments, and flexible schedules as enrollment reasons — related
 - [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — related
+- [Single-district SELPAs had meaningfully lower inclusion rates, with a higher proportion of students with disabilities in general education less than 40 percent of the school day](single-district-selpas-lower-inclusion-restrictive-settings.md) — related
+- [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — related
+- [Computing education has historically excluded marginalized student populations, and large inequities in access persist](computing-education-historic-exclusion-inequity.md) — related
+- [Inclusive CT learning engages students in critiquing bias in real technological systems](ct-enables-critique-of-algorithmic-bias.md) — related

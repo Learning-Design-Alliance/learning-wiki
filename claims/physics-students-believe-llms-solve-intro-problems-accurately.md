@@ -46,3 +46,4 @@ Pre-lesson Likert survey of 52 first-year physics majors in a required FYE cours
 - [Most students report using LLMs to get solutions more often than they believe is ideal for learning, and this gap widened after the lesson](usage-exceeds-ideal-for-solution-generation.md) — related
 - [Before instruction, physics students show skepticism about LLM learning impacts, agreeing that over-reliance risks dependence, false confidence, and reduced conceptual understanding](pre-instruction-skepticism-llm-learning-impacts.md) — related
 - [A reflective lesson on LLM functioning and educational impacts shifted physics students toward greater skepticism about LLM learning impacts](reflective-lesson-increases-llm-skepticism.md) — related
+- [A general-purpose LLM used as a tutor without pedagogical prompting overwhelmingly provides high assistance, with more than 95% of responses classified as Explaining or Solving](default-llm-tutoring-high-assistance-concentration.md) — related

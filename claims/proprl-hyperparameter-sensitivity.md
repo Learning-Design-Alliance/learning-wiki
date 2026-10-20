@@ -48,3 +48,5 @@ Hyperparameter study (Figure 4) over propagation coefficient α, depth k, anti-s
 - Task F1 saturates by K≈4 concepts and is insensitive to hidden dimension once d≥384, while learning rate forms a sharp inverted-U with collapse at LR≥10−3 — related
 - [Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results](hyperparameter-stability-oral-diagnostic-model.md) — related
 - [ProPRL ranks first across all nine dataset–metric combinations on three prerequisite relation benchmarks, with relative improvements from 1.96% to 6.11% over the strongest baseline](proprl-state-of-the-art-prerequisite-relation-learning.md) — related
+- [Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model](pkt-hyperparameter-sensitivity-varies-by-model-and-assignment.md) — related
+- [Hyperparameter sweeps reproduce the lesson's claims: γ = 0 never solves the task while ε = 1 still converges](hyperparameter-sweeps-reproduce-lesson-claims.md) — related

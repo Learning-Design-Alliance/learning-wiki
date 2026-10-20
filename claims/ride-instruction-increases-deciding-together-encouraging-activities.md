@@ -46,3 +46,4 @@ Mann–Whitney U-tests (one-tailed) on logged chat frequencies compared 17 instr
 - [RIDE-instructed dyads more often use elicitative, responsive, confirmation/acceptance, and asking-for-action communicative activities](ride-instruction-increases-specific-communicative-activities.md) — possibly the same claim (merge candidate)
 - [Communicative activities associated with the RIDE rules, especially Intelligent collaboration, correlate with discovery learning activities in both groups](ride-communication-correlates-with-discovery-activities.md) — related
 - [RIDE instruction increases some transformative discovery activities and overall regulative discovery activity, with effects limited to specific activities](ride-instruction-increases-some-discovery-activities.md) — related
+- [RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)](ride-instruction-no-direct-effect-learning-results.md) — related

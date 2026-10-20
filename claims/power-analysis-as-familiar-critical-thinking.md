@@ -47,3 +47,5 @@ The authors' argumentative claim in the abstract, offered to reassure readers he
 - [Community projects need conceptual framing to avoid narrowing the learning object](community-projects-need-conceptual-framing-to-avoid-narrowing-the-learning-object.md) — related
 - [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
 - Conceptions of how children learn literacy are cultural and political as much as scientific, shaping different classroom practices across countries — related
+- [A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric](asuka-posthumanist-experiment-human-centric-evaluation.md) — related
+- [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related

@@ -45,3 +45,4 @@ Comparative documentary analysis of four mathematics curricula commonly used in 
 ## Related Claims
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — related
 - [The authors hypothesize that differences in curriculum design could explain the achievement results of the experimental study](design-differences-hypothesized-explain-achievement-results.md) — related
+- [First-grade math achievement is significantly higher under Math Expressions and Saxon Math than under Investigations in Number, Data, and Space and Scott Foresman-Addison Wesley Mathematics](math-expressions-saxon-outperform-investigations-sfaw-first-grade.md) — related

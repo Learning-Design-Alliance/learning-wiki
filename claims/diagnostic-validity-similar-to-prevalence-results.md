@@ -51,3 +51,5 @@ Diagnostic validity analyses complemented the prevalence analyses of visuospatia
 - [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — related
 - [High reinforcement improves STM and WM performance in both ADHD subtypes but not in controls](high-reinforcement-improves-stm-wm-adhd.md) — related
 - [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
+- [Meta-analyses establish that ADHD is associated with poorer performance on tasks measuring inhibition, working memory, planning, and vigilance in children, with overall similar impairment patterns in adults and a strong association with reaction time variability](adhd-cognitive-deficits-children-adults.md) — related
+- [Motivational impairments in reinforcement sensitivity are uncommon (22% impaired) and equally prevalent in both ADHD subtypes](motivational-impairments-uncommon-22-percent-equal-subtypes.md) — related

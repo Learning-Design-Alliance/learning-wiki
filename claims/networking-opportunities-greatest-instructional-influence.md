@@ -45,3 +45,5 @@ Teacher interview analysis in the Key Learnings section: "20 of the 24 teachers 
 ## Related Claims
 - [Teachers reported providing deep-engagement opportunities at levels similar to or greater than student reports, and about 8 in 10 attributed instruction changes to the network](teacher-reported-engagement-opportunities-increased.md) — related
 - Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes — related
+- [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](external-partners-central-to-network-function.md) — related
+- [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related

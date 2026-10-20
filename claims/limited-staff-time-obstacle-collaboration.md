@@ -50,3 +50,5 @@ Obstacle identified through the implementation study's interviews, focus groups,
 - [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
+- [Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive](intermediary-structure-supports-cross-sector-codesign.md) — related
+- [Respondents viewed local foundations, businesses, and community groups as promoting cross-sector collaboration, while competition, political divisions, and teachers' unions may hinder it](community-actors-promote-competition-unions-hinder-collaboration.md) — related

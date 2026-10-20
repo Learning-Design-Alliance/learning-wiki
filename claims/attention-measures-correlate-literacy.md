@@ -67,3 +67,5 @@ Correlation analyses of pre-cue, post-cue and set size summary measures with lit
 - [Adults with dyslexia show disproportionately reduced discrimination accuracy in crowded displays compared to controls](awd-disproportionate-crowding-accuracy-deficit.md) — related
 - [The four-way interaction between cue, group, display type and difficulty was significant, with group differences largest for uncued crowded stimuli](four-way-cue-group-display-difficulty-interaction.md) — related
 - [Pre-cues and post-cues eliminate set size effects for controls but not for adults with dyslexia](cues-eliminate-set-size-controls-not-awd.md) — related
+- [AwD required significantly longer calibrated display durations than controls despite attempts to equate overall accuracy](awd-longer-display-durations.md) — related
+- [Results provide no support for the IQ-achievement discrepancy model of dyslexia; non-verbal IQ correlated with all Year-1 language measures](no-support-iq-discrepancy-model.md) — related

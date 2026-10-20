@@ -49,3 +49,5 @@ The review's discussion maps candidate moderators onto measurement targets, citi
 - [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related
 - [The effectiveness of each generative learning strategy is subject to potential boundary conditions discussed in the review](generative-strategies-boundary-conditions.md)
+- [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md) — a narrower finding that bears on this claim
+- [Instructor verification of AI-generated content before delivery is feasible and crucial for quality, per prior systems reviewed](instructor-verification-feasible-crucial.md) — related

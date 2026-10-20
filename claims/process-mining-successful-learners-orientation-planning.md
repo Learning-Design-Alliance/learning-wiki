@@ -44,3 +44,8 @@ The commentary reports, citing Bannert et al., process mining of verbal protocol
 
 ## Related Claims
 - [Process models of successful students come closer to self-regulated learning theory expectations than those of unsuccessful students, who do not evaluate their learning](process-mining-successful-unsuccessful-srl-models.md) — possibly the same claim (merge candidate)
+- [Studies on the effectiveness of hypermedia learning have produced ambiguous results](ambiguous-hypermedia-effectiveness-results.md) — related
+- [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related
+- [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](intrinsic-motivation-higher-order-metacognition.md) — related
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — possibly the same claim (merge candidate)
+- [Successful discoverers regulate learning more systematically, planning experiments and monitoring progress, while unsuccessful learners work unsystematically](regulation-distinguishes-successful-discoverers.md) — possibly the same claim (merge candidate)

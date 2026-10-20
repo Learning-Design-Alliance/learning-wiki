@@ -43,4 +43,5 @@ Editorial report of the study by Cesareni, Cacciamani and Fujita with undergradu
 
 
 ## Related Claims
--
+- [Grade 5 students can sustain productive knowledge-building collaboration over a whole school year with a facilitative rather than guiding teacher](grade-5-sustain-productive-collaboration-whole-year-knowledge-building.md) — related
+- [Premature shared understanding: a group's bypassing of a member's skeptical comment left the social and technology objects misaligned, with partial agreement (Extract 3)](fragmented-premature-shared-understanding.md) — related

@@ -44,3 +44,6 @@ Quantitative analysis of 40 policy documents using Fisher's exact tests due to s
 
 ## Related Claims
 - [Most CAHIIM-accredited HI/HIM master's programs (40 of 48, 83%) have at least one publicly available AI-related document, and most documents are guidance rather than formal policy](most-cahiim-programs-have-ai-guidance-documents.md) — related
+- [Academic integrity terms dominate HI/HIM AI policy content while healthcare regulatory references (HIPAA, FERPA, IRB) appear infrequently](integrity-dominates-regulatory-terms-rare.md) — related
+- [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related

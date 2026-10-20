@@ -79,3 +79,5 @@ Same SIMS and interview data: the article reports apprenticeship students "gaine
 - Learning Studios provided opportunities for students with learning difficulties and disabilities to develop expertise, confidence and peer rapport — related
 - [Early studies of the relationship between anxiety and achievement produced mixed and confusing results](early-anxiety-achievement-studies-mixed-results.md) — related
 - [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
+- [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related
+- [Students in a deliberate practice group reported satisfaction with the learning process on a survey given only to that group](deliberate-practice-increases-student-satisfaction.md) — related

@@ -48,3 +48,4 @@ The author's framing statement that the transcript is "the accepted currency" fo
 - [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
 - [Inaccurate and disjointed information from third-party transcript integrations was a pervasive onboarding problem](transcript-integration-inaccuracies-pervasive.md) — related
 - [The hybrid grading contract helps resist grade inflation by reserving grades above B for exceptionally high quality](hybrid-contract-resists-grade-inflation.md) — related
+- [A unilateral grading contract guarantees students a course grade of B based solely on completion of specified activities, not on judged writing quality](contract-guarantees-b-for-completion-not-quality.md) — related

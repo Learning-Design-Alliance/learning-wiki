@@ -47,3 +47,5 @@ Interaction analysis of video recordings of one group of four ninth-grade studen
 - [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
 - [In computer-mediated problem solving, students may attribute their problems to the technology rather than to their own work, complicating how they frame the problem context](students-attribute-problems-to-technology-not-own-work.md) — related
 - [Identification is closely related to how and what knowledge students construct in online group discussions](identification-related-to-knowledge-construction.md)
+- [Design features of the CSCL environment — procedural-only educational inscriptions on the website and the storyline of the 3D model — pulled interactions toward procedural problem solving](website-inscriptions-procedural-only.md) — possibly the same claim (merge candidate)
+- [CSCL designers tend to leave gaps between the technical and social design of learning environments](cscl-designers-gaps-technical-social-design.md) — a broader claim this one bears on

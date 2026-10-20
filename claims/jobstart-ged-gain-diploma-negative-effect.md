@@ -71,3 +71,4 @@ Same 48-month follow-up of the randomized controlled trial; footnote 6 reports d
 - [JOBSTART youth participated in substantially more education and training during follow-up than control youth](jobstart-higher-education-training-participation.md) — related
 - [The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics](jobstart-rct-baseline-balance.md) — related
 - [New Chance's completion effect came entirely from GED receipt, with a small negative effect on earning a high school diploma](new-chance-ged-positive-diploma-negative.md) — related
+- [Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up](job-corps-more-education-training-hours.md) — related

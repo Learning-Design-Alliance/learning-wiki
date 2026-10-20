@@ -45,3 +45,4 @@ Descriptive EEG classification (normal, abnormal non-epileptiform, epileptiform)
 ## Related Claims
 - [Learning disability scores correlate negatively with ABR wave III/IV/V latencies, I-III and I-V intervals, and epileptiform EEG activity](learning-disability-correlates-abr-eeg.md) — related
 - [The inattentive ADHD subtype has the worst learning ability score among ADHD subtypes](inattentive-adhd-worst-learning-score.md) — related
+- [The inattentive ADHD subtype shows the most delayed ABR latencies in waves III and V and intervals I-III and I-V](inattentive-adhd-most-delayed-abr.md) — related

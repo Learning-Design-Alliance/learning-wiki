@@ -50,3 +50,4 @@ Univariate mixed-effects meta-regression across 16 productivity effect sizes com
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related
 - [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related
 - Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related
+- [GenAI assistance shows no statistically significant pooled effect on programming learning outcomes (g = 0.14, 95% CI (-0.18, 0.47)), with substantial heterogeneity.](genai-assistance-no-significant-learning-outcome-effect.md) — related

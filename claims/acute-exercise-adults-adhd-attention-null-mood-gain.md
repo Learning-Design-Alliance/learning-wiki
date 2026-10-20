@@ -64,3 +64,6 @@ Same study's mood outcomes: the exercise condition showed "signiﬁcantly higher
 ## Related Claims
 - [Acute exercise alleviates negative affect, enhances positive affect, and reduces stress responses, with mood effects lasting up to 24 hours](acute-exercise-mood-and-stress-effects.md) — related
 - [Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions](mood-measures-did-not-vary-across-conditions.md) — related
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — a broader claim this one bears on
+- [Non-cardio exercise (yoga, tai chi, walking) shows predominantly positive but questionable acute and chronic effects in children with ADHD](non-cardio-exercise-effects-questionable-adhd.md) — related

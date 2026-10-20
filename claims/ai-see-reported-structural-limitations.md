@@ -49,3 +49,6 @@ Results section (pilot group, knowledge). Alongside positive reports, students n
 - [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — a broader claim this one bears on
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — reports the opposite
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
+- [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
+- [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related

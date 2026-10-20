@@ -48,3 +48,4 @@ In the discussion of the interview study, the author reports "almost half of the
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Modeling training improved imaginative play in disadvantaged kindergartners, with gains in imaginativeness, verbal communication, spontaneity, and attention span persisting two months](modeling-training-improves-imaginative-play.md) — related
 - [Young children with limited vocabulary express metacognitive knowledge through behavioral and nonverbal expressions as well as verbalizations](nonverbal-behavioral-metacognitive-expressions.md) — related
+- [Boys and girls do not differ in the type of mental models of the day and night cycle they hold](no-gender-difference-day-night-mental-models.md) — related

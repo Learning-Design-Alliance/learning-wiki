@@ -47,3 +47,4 @@ Randomized controlled trial conducted in six schools in a large urban district o
 - [Mean clause length showed a small negative difference favoring the comparison group, not statistically significant](arthur-mean-clause-length-negative-nonsignificant.md) — related
 - [The average improvement index for Arthur in English language development is +11 percentile points, ranging from –5 to +17 across findings](arthur-improvement-index-plus-11.md) — related
 - [Small-group instructional intervention for students struggling in literacy and English language development is supported by six RCTs at moderate evidence level](small-group-intervention-literacy-eld-moderate-evidence.md) — related
+- [The WWC rated Arthur as having potentially positive effects rather than positive effects because only one study met evidence standards and it lacked a strong design](arthur-potentially-positive-rating-rationale.md) — related

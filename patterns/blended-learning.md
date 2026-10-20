@@ -15,7 +15,7 @@ grain_size: course
 # Blended Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 15 claims (8 for, 7 mixed) · 13 studies (5 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 5 of 13 report an effect size · 14 claims rest on one study
+> **Evidence** · 14 claims (7 for, 7 mixed) · 13 studies (5 quant-synthesis, 4 associational, 1 causal, 1 qualitative, 1 design, 1 theoretical), `q2`–`q4` · 5 of 13 report an effect size · 12 claims rest on one study
 
 ## Description and scope
 
@@ -116,7 +116,7 @@ This pattern is scoped to dividing a course between online and in-person work. I
 
 ## Claims
 
-- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](../claims/blended-larger-advantage-than-pure-online.md) [+W]
+- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](../claims/blended-learning-improves-outcomes.md) [+W]
 - [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](../claims/curriculum-equivalence-moderates-effect-size.md) [~W]
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](../claims/eleven-of-thirteen-practice-variables-nonsignificant.md) [+W]
 

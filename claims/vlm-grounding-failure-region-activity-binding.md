@@ -47,3 +47,4 @@ Cross-task error analysis of incorrect option and evidence-selection type distri
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](binary-correctness-judgments-near-chance.md) — related
 - [Human performance forms the outer envelope on nearly all MUSE tasks, with the largest deficits in Relative Position, Emotion Detection, and Jigsaw Puzzle](human-vlm-gap-muse-tasks.md) — related
 - [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — related
+- [Some MLLM failures occur when a higher-level SciVis interpretation is grounded in an unsupported visual encoding rather than the encoding specified by the visualization and caption](mllm-encoding-mapping-error-unsupported-grounding.md) — a narrower finding that bears on this claim

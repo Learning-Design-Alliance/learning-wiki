@@ -55,3 +55,7 @@ Cluster-randomized study in six Rocketship public charter schools in Northern Ca
 - [Air Reading tutoring significantly improved NWEA MAP reading scores in a randomized study of grade 1-6 students (effect size +0.12)](air-reading-rct-texas-map-effect.md) — related
 - [During COVID, a third-grade volume-of-reading strategy showed greater reading growth than a control group without the strategy](covid-volume-reading-growth-over-control.md) — related
 - [Scenario-based tutor lessons produced a significant pooled 7.4% learning gain, driven by three lessons with established construct validity while three newer lessons showed no significant gains](scenario-lessons-pooled-74-percent-gain.md) — related
+- [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related
+- [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](morphology-plus-significant-reading-gain-third-grade.md) — related
+- [OnYourMark tutoring did not produce significantly better performance on the NWEA MAP](onyourmark-no-significant-nwea-map-effect.md) — related
+- [Nature-based instruction improves academic achievement over traditional instruction, with larger gains at larger doses](nbi-outperforms-traditional-instruction-dose-response.md) — related

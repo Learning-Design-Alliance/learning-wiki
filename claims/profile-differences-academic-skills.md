@@ -84,3 +84,6 @@ One-way ANOVA on perceived independent thinking across clusters; the article des
 - [High-achieving students less often endorse AI-supported autonomy, effective learning, and active engagement, and more often agree that reliance on AI hinders critical thinking and independent problem solving](item-level-high-achievers-hinder-critical-thinking.md) — related
 - [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
 - Higher GenAI usage clusters report greater perceived difficulty, lower self-assessed understanding, and different trust in AI-generated code — related
+- [Higher academic self-efficacy profiles report greater overall academic AI use, with a large effect (η² = .36)](higher-self-efficacy-profiles-greater-ai-use.md) — related
+- [Confused guessers had significantly lower pre- and post-test skill scores than most other clusters, but their science learning gains were not significantly different from those of Clusters 1, 2, and 4.](confused-guessers-lower-skills-similar-gains.md) — related
+- [Problem-solving-prepared students often accepted the AI solution uncritically or critiqued it based on their own misconceptions](problem-solving-preparation-yields-uncritical-or-misconception-based-critiques.md) — related

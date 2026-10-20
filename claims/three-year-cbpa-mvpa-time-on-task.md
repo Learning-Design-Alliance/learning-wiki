@@ -43,4 +43,7 @@ Longitudinal observational analysis within the review (Szabo-Reed et al., 2017; 
 
 
 ## Related Claims
--
+- [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](cbpa-null-results-two-studies.md) — reports the opposite
+- [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](cbpa-effects-moderated-cognitive-engagement-timing.md) — related
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — a broader claim this one bears on
+- [In the highest-quality reviewed study, classroom MVPA was negatively associated with students being off task or inattentive (β = −0.17; p = 0.042)](mvpa-negatively-associated-off-task-carlson.md) — related

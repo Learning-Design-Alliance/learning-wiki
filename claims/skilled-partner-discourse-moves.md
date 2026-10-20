@@ -46,3 +46,4 @@ Descriptive account from the dissertation's abstract of the modeling behavior th
 - [Apprenticeship-partnered adolescents generate more advanced counterarguments than similar-ability-paired peers](apprenticeship-partners-advanced-counterarguments.md) — related
 - [Adolescents paired with more skilled adult dialogic partners show greater skill using evidence to support claims than peers paired only with similar-ability partners](apprenticeship-partners-greater-evidence-use.md) — related
 - [Argumentation Improves Reasoning](argumentation-improves-reasoning.md) — related
+- [Editorial reports that meta-level talk about group process, but not about individual actions, is associated with superior group outcomes](editorial-reports-meta-group-talk-aids-group-performance.md) — related

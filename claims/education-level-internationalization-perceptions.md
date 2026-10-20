@@ -46,3 +46,4 @@ ANOVA by educational level (Table 6) in the 455-respondent survey. The article r
 - [Evaluations of leadership competency increase with hierarchical position in Vietnamese universities](leadership-perception-gap-by-position.md) — related
 - [Satisfaction with facilities and infrastructure rises with student enrollment size](facilities-ratings-rise-with-enrollment-size.md) — related
 - [Frequent participation in governance is associated with more favorable perceptions of organizational culture](governance-participation-linked-culture-perceptions.md) — related
+- [Educational background relates only to the personal-experiences dimension of AI perception, with master's degree holders scoring higher than bachelor's degree holders](educational-background-limited-ai-perception-effect.md) — related

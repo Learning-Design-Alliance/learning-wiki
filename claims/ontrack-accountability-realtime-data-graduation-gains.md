@@ -67,3 +67,8 @@ The review states that "on-track rates only improved after the district develope
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Monitoring all students and proactively intervening on early warning signs has minimal-level evidence of improving dropout-related outcomes](proactive-monitoring-minimal-evidence.md) — related
 - [Ninth-grade on-track NSI positively affected GPA, core course pass rates, and credit completion after schools' second year of participation](ninth-grade-on-track-nsi-positive-gpa-pass-credits.md) — related
+- [Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18](bronxdale-outperformed-comparisons-graduation-on-track.md) — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
+- [Freshman on-track students are over three times as likely to graduate in four years as off-track students in CPS](on-track-freshmen-graduate-at-higher-rates.md) — related
+- [Attendance, behavior, and course performance (the ABC indicators) reliably predict which secondary students are at risk of dropping out](abc-early-warning-indicators-predict-dropout.md) — related
+- [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related

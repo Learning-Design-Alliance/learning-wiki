@@ -43,4 +43,5 @@ The author's stated research agenda in the article abstract names technical esta
 
 
 ## Related Claims
--
+- [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related
+- [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related

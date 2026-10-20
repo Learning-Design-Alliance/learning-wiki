@@ -44,3 +44,4 @@ District-reported observation from Oceanside Unified during the 2016–17 adopti
 
 ## Related Claims
 - [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
+- [Statewide mathematics achievement gaps between English learners and English speakers increased from 2015 to 2017, a pattern evident in all but one MiC district](el-english-speaker-gap-increasing-statewide.md) — related

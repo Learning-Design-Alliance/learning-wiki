@@ -51,3 +51,5 @@ The paper, a workshop-informed white paper and curriculum-oriented position arti
 - [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
 - [One-to-one human tutoring lifts an ordinary student well beyond the average classroom with an effect of about d = 0.79 (VanLehn, 2011, as reported)](human-tutoring-effect-d-079.md) — related
 - [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — related
+- [Meta-analytic evidence reviewed reports medium-to-large positive effects of AI-enabled adaptive learning on cognitive outcomes (g = 0.50–0.70)](ai-adaptive-learning-medium-large-effects-reviewed.md) — related
+- [Intelligent tutoring systems are a mature, technologically sophisticated implementation of AI-driven personalized learning with mostly positive outcomes in programming, mathematics, and STEM](its-mature-implementation-personalized-learning.md) — related

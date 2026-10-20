@@ -46,3 +46,4 @@ The introduction's summary of the Planey, Rajarathinam, Mercier, and Lindgren qu
 - [Participants used a limited, polymorphic repertoire of materials, gestures and symbols whose meanings were context-derived](limited-polymorphic-repertoire-written-collaboration.md) — related
 - [Growth in task orientation partially mediates the association between executive function and mathematics achievement in preschoolers](task-orientation-partially-mediates-ef-math.md) — related
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
+- [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — related

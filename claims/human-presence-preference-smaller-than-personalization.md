@@ -47,3 +47,4 @@ First-choice frequency analysis grouping formats by source across both cohorts o
 - [Students preferred AI-generated personalized videos over human-recorded non-personalized videos in direct comparison](ai-personalized-videos-preferred-over-human-non-personalized.md) — reports the opposite
 - [Nearly nine in ten students ranked a personalized video as their top choice](personalized-video-top-choice-88-percent.md) — related
 - [Mean rank ordering of the four video types was stable across both course offerings, with hypothetical human-recorded personalized videos ranked highest and AI-generated non-personalized lowest](stable-mean-rank-ordering-four-video-types.md) — related
+- [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related

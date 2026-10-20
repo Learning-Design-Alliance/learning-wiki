@@ -53,3 +53,9 @@ Paired-samples t-test on an eight-item 5-point prompt self-efficacy scale admini
 - [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](teaching-simulation-training-raises-self-efficacy.md) — related
 - [Argument structure training increased students' self-reported confidence with the Toulmin model](training-increased-toulmin-confidence.md) — related
+- [AI Paradox: students report higher confidence in critical AI awareness than in operational AI usage (p = 0.015)](ai-paradox-critical-awareness-overestimation.md) — related
+- [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](short-term-prompts-do-not-change-self-efficacy.md) — related
+- [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](prompts-increase-self-efficacy-during-learning.md) — related
+- [A six-week SRL video annotation intervention was followed by a statistically significant increase in high school students' ITS-AR monologue scores](srl-video-annotation-improved-acting-rubric-scores.md) — related
+- [Students' self-efficacy for using generative AI increased over the semester, with current self-efficacy significantly higher after the fifth assignment than after the first](self-efficacy-growth-generative-ai-semester.md) — related
+- [Perceived improvement after prompt-engineering training was concentrated among students with little or no prior prompting experience](prior-experience-moderates-perceived-training-benefit.md) — related

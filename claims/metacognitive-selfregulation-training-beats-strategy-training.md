@@ -49,3 +49,5 @@ The review reports its first intervention study (Dunlosky, Kubat-Silman, & Hertz
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
 - [Older adults allocate proportionally more study time to easy and medium items while younger adults allocate more to difficult items, yet older adults recall less despite studying more](age-differences-study-time-allocation-recall.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — a broader claim this one bears on
+- [Regulating GA proceeds via metacognitive monitoring of adequacy and accuracy plus control through outward- and inward-oriented strategies](ga-regulation-monitoring-control-strategies.md) — related
+- [Age did not interact with associative relatedness or effective encoding-strategy use in predicting JOLs, indicating no age differences in the use of these two sources of information when making judgments of learning](no-age-difference-jol-information-sources.md) — related

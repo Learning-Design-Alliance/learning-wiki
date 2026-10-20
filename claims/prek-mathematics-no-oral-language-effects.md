@@ -55,3 +55,5 @@ PCER Consortium (2008) randomized trial, 296 children in 36 schools, assessed or
 - [Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)](doors-to-discovery-potentially-positive-oral-language.md) — related
 - [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related
 - [Ready, Set, Leap!® has no significant effect on preschool oral language (domain average effect size 0.02)](ready-set-leap-null-oral-language.md) — related
+- [Pre-K Mathematics shows uncertain effects on preschool self-regulation skills](pre-k-mathematics-uncertain-self-regulation-effects.md) — related
+- [Waterford Early Reading Level One™ shows no discernible effects on preschool children's oral language](waterford-level-one-no-discernible-oral-language-effects.md) — related

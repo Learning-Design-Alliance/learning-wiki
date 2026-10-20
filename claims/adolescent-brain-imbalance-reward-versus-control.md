@@ -54,3 +54,5 @@ The brief reports this developmental neuroscience finding as background from res
 - [Mid-adolescents show attenuated right vlPFC response to rejection-themed words relative to adults](mid-adolescent-attenuated-vlpfc-rejection-stroop.md) — related
 - [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — a narrower finding that bears on this claim
 - [Distinct brain systems support learning of information consistent versus inconsistent with existing knowledge](prior-knowledge-consistency-brain-systems-memory.md) — related
+- [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
+- [The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners](ai-benefits-differ-by-developmental-stage.md) — related

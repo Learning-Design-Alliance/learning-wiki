@@ -49,3 +49,5 @@ Systematic review using WWC 5.0 standards reports Reading Recovery, a one-on-one
 - [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related
 - [Reading Recovery positively impacts grade 1 literacy achievement immediately after the intervention, with moderate evidence from one randomized controlled trial](reading-recovery-improves-grade1-literacy.md) — related
 - [Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial](reading-recovery-potentially-positive-reading-fluency.md) — related
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](literacy-first-strong-evidence-phonics-fluency-comprehension.md) — related
+- [Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-receptive-communication.md) — related

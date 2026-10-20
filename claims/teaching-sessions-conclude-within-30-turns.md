@@ -45,3 +45,5 @@ Observational analysis of average dialogue turns per teaching session across tea
 ## Related Claims
 - [Coach-guided interactive teaching yields higher and more progressive recovery than static relearning, particularly under moderate forgetting levels (10%–30%)](coach-guided-relearning-beats-static.md) — related
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
+- [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
+- [Asynchronous concurrent execution bounds overall latency to approximately the slowest individual model's inference time](async-concurrency-latency-bounded-by-slowest-model.md) — related

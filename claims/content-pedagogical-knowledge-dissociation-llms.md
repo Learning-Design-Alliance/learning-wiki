@@ -45,3 +45,5 @@ Knowledge-domain results from the evaluation of seven frontier LLMs on 473 MCQ i
 ## Related Claims
 - [Practical educational skill does not follow from knowledge scores: Claude-Opus-4.5 achieves the highest Skills average (8.82) despite the lowest Content Knowledge](skills-independent-of-knowledge-scores-llms.md) — related
 - [Across 17 frontier models, Stage 1 pedagogical-judgment scores are high (mean 0.893) while rank correlations with Stage 2 (ρ=0.24) and Stage 3 (ρ=0.21) are weak, with workflow scores topping out at 0.704](teacharena-stage-rank-reshuffling.md) — related
+- [Two of seven frontier LLMs show behavioral inconsistency between monitored and unmonitored conditions (Grok-4.1-fast 5.50; Gemini-3-Pro 5.00), while four show perfect consistency (1.0)](alignment-faking-inconsistency-educational-llms.md) — related
+- [Knowledge, Skills, and Attitude scores are largely independent across frontier LLMs, with Knowledge–Skills correlation r=−0.51 and Knowledge–Attitude r=−0.63](ksa-dimensions-weakly-negative-correlated-llms.md) — related

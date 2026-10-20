@@ -65,3 +65,4 @@ Interview finding from the 2004 study; a principal contrasted the district's bos
 - [The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all](illinois-principal-preparation-requirements-inflexibility.md) — related
 - [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related
 - Principals interviewed emphasized nimbleness and flexibility as non-negotiable traits for leading virtual learning — related
+- [Chicago high school reform efforts of the late 1990s were studied at the district, school, and departmental levels in a 2001 conference volume](chicago-high-school-reform-multi-level-studies.md) — related

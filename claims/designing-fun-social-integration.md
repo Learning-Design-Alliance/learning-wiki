@@ -64,3 +64,5 @@ In the same hierarchical regression analyses, the competition dimension failed t
 ## Related Claims
 - [Both PSD dimensions explain variance in study engagement and subjective well-being beyond core self-evaluations and PsyCap, with designing competition contributing most to engagement](psd-engagement-wellbeing-incremental.md) — related
 - [PSD dimensions correlate with trait curiosity, and playfulness correlates with designing fun but not designing competition, supporting the scale's convergent and discriminant validity](psd-convergent-discriminant-validity.md) — related
+- [A quasi-experimental PSD training intervention increased students' use of fun and competition when studying, with greater active learning, study task proactivity and absorption over time](psd-training-intervention-increases-use.md) — related
+- [Playful study design is measured as a two-dimensional construct of designing fun and designing competition, supported by exploratory and confirmatory factor analyses](psd-two-factor-structure.md) — related

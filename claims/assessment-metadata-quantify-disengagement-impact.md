@@ -46,3 +46,7 @@ The page lists an associated working paper and journal article titled "Using ass
 - [Test disengagement could undermine inferences drawn from observed achievement scores](disengagement-undermines-score-inferences.md) — a broader claim this one bears on
 - [Accounting for test disengagement had minimal impact on estimates of school growth contributions, achievement gaps, and summer learning loss](disengagement-corrections-minimal-impact-effectiveness-estimates.md) — related
 - [Removing disengaged examinees from the sample will likely induce bias in estimates of educational effectiveness](removing-disengaged-examinees-induces-bias.md) — related
+- [Rapid guessing had mostly minimal effects on estimates of school contributions to student growth in this sample](rapid-guessing-minimal-school-growth-estimates.md) — a narrower finding that bears on this claim
+- [Disengaged test-taking rates varied greatly by subgroup, grade, and term in this sample](disengagement-rates-vary-subgroup-grade-term.md) — related
+- [Summer learning loss estimates changed significantly under filtering but not effort-moderated scoring](rapid-guessing-summer-learning-loss-estimates.md) — a narrower finding that bears on this claim
+- [Motivation filtering reversed the estimated Black-White fall-to-fall growth gap direction in later grades](filtering-reverses-black-white-growth-gap.md) — a narrower finding that bears on this claim

@@ -46,3 +46,4 @@ This reciprocal direction (Research Question 2) is stated in the article's abstr
 - [Low-level prompting, modeling, and information provision do not predict students' social reasoning at any lag](low-level-prompting-modeling-information-no-social-reasoning-effect.md) — related
 - [High-level prompting and specific praise continue to predict students' social reasoning one turn later (Lag-2), suggesting a vicarious reinforcing experience](prompting-praise-delayed-effect-social-reasoning-lag2.md) — related
 - [Teacher praise increased in every reviewed study that coached teachers to increase praise](coaching-increases-teacher-praise.md) — related
+- [Students' social reasoning in the previous three turns positively predicts social reasoning in the current turn](social-reasoning-predicts-subsequent-social-reasoning.md) — related

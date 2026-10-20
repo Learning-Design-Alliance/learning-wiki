@@ -50,3 +50,4 @@ In this randomized intervention study, students "were randomly assigned to a gro
 - [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related
 - [Localizing word-problem character names improved MATHia performance only for specific subgroup-majority schools, with no improvement in sense of belonging overall](localized-names-personalization-subgroup-performance.md) — related
 - [First-year students' sense of belonging to their university predicts intentions to persist, controlling for background variables and other persistence predictors](sense-of-belonging-predicts-persistence-intentions.md) — related
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — a broader claim this one bears on

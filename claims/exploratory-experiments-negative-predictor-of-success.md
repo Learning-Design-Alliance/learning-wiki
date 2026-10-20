@@ -67,3 +67,4 @@ Stepwise regression on the same data confirmed that the percentage of explorator
 - [Concrete-task participants achieved higher performance success than intermediate-task participants in simulation-based inquiry, while intermediate and abstract conditions did not differ significantly](concrete-task-higher-performance-success-than-intermediate.md)
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md)
 - [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md)
+- [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) — related

@@ -45,3 +45,5 @@ Qualitative outcome of the on-site third workshop group and panel discussion at 
 ## Related Claims
 - [Participants identified communication across paradigms, not the absence of a single paradigm, as CSCL's main challenge](cross-paradigm-communication-the-main-cscl-challenge.md) — related
 - [Panel members framed the variety of CSCL definitions and theories as a strength representing the field's richness of perspectives](theory-diversity-as-strength-cross-fertilization.md) — related
+- [Wise and Schwarz's eight provocations, per Rummel, emphasize important CSCL dimensions but do not develop a common position, prompting a proposed taxonomy for a shared field agenda.](rummel-taxonomy-shared-cscl-agenda.md) — related
+- [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related

@@ -50,3 +50,4 @@ The report benchmarks PROMISE youth outcomes against ACS youth and reports that 
 - [All 12 proposed SSI Youth Solutions interventions explicitly or implicitly aim to increase employment among youth with disabilities as a long-term outcome](ssi-youth-solutions-interventions-aim-employment.md) — related
 - Common gaps in the SSI Youth Solutions proposal papers concern effects on employment outcomes, costs, and implementation challenges — related
 - [The PROMISE interim report estimated impacts across seven outcome domains for youth and families](promise-interim-impact-outcome-domains.md) — related
+- [Many SSI youth received transition services without PROMISE, but there was substantial room for PROMISE to improve service use](promise-ssi-youth-transition-services-baseline-room-for-improvement.md) — related

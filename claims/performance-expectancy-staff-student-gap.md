@@ -45,3 +45,4 @@ Validated Performance Expectancy scales on both surveys (Table 1). The student d
 - [Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves](staff-overestimate-student-gai-use.md) — related
 - [The main student use of GAI tools consistently in view was supporting language-usage and text production](student-gai-use-text-production.md) — related
 - Students perceived facilitating conditions for GAI tool use to a greater extent than staff in the surveyed School — related
+- [Ghanaian pre-service science teachers hold significantly positive performance expectancy and effort expectancy toward AI](positive-performance-effort-expectancy-ai-pre-service-teachers.md) — related

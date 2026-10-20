@@ -47,3 +47,4 @@ Quasi-experimental pre-post study of 101 pre-service teachers in a classroom man
 - [Both case-based and model-based interventions increase pre-service teachers' self-reported use of theory-based knowledge when analysing classroom situations](both-interventions-increase-theory-based-knowledge-usage.md) — related
 - [The case-based intervention was perceived as connecting theory to practice more strongly than the model-based comparison intervention](case-intervention-higher-theory-practice-connection.md) — related
 - [Case-based learning does not produce a larger increase in self-reported theory-based knowledge usage than studying with theoretical models](no-group-difference-theory-usage-increase.md) — related
+- [Neither intervention changes pre-service teachers' self-reported reliance on experience-based knowledge when analysing classroom situations](experience-based-knowledge-usage-unchanged.md) — related

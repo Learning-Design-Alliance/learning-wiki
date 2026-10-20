@@ -45,3 +45,4 @@ Deterministic process analysis across the three tutor bases (358, 379, and 442 a
 ## Related Claims
 - [On the primary base, a turn that leaks the answer predicts a higher Opus helpfulness rating and less next-turn independent student work](per-turn-leakage-coupling-primary-base.md) — a narrower finding that bears on this claim
 - [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related
+- [The leakage manipulation fires: ConvTutor leaks far more than PedTutor on the primary base, while probe accuracy saturates and cannot distinguish conditions](leakage-manipulation-check-probe-ceiling.md) — related

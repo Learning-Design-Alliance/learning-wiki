@@ -49,3 +49,5 @@ ANCOVA in a between-subjects experiment (N = 61) comparing visual-only (n = 31) 
 - [Visual-only text also yields higher comprehension than audio-visual text in immersive VR](vr-reverse-modality-effect-comprehension.md) — related
 - [Visual-only text yields higher transfer than audio-visual text in immersive VR](vr-reverse-modality-effect-transfer.md) — related
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](vr-visual-only-higher-germane-load.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — reports the opposite
+- [In one meta-analysis, modality-effect studies using virtual reality head-mounted displays show larger effects than studies using computer screens or audio-tapes](modality-effect-stronger-in-virtual-reality.md) — reports the opposite

@@ -50,3 +50,5 @@ Independent t-tests compared WRAT-3 scores between the same 24 higher fit and 24
 - [Cortical thinning in anterior and superior frontal cortex is associated with better arithmetic achievement across all children](frontal-cortical-thinning-associated-better-arithmetic.md) — related
 - [Higher fit preadolescent children show decreased cortical thickness in superior frontal, superior temporal, and lateral occipital cortex relative to lower fit children](higher-fit-children-decreased-cortical-thickness-frontal-temporal-occipital.md) — related
 - [Cardiovascular fitness is positively associated with spelling but not with reading in primary school children](cardiovascular-fitness-spelling-not-reading.md) — reports the opposite
+- [The authors hypothesize that brain-reading cortical thickness correlations are positive in early reading acquisition and negative at later, consolidated stages](developmental-sign-flip-ct-reading-correlation-hypothesis.md) — related
+- [Cardiovascular fitness is positively associated with mathematics performance in primary school children regardless of socioeconomic status](cardiovascular-fitness-mathematics-association.md) — related

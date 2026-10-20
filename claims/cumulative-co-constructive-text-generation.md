@@ -43,4 +43,11 @@ Qualitative analysis of contributions in negotiation and group spaces during the
 
 
 ## Related Claims
--
+- [Specific pedagogic design characteristics supported students' joint interaction in the wiki: initial text propositions, Thinking Together preparation, a collectively created artefact, and asynchrony](pedagogic-design-characteristics-wiki-collaboration.md) — related
+- [Wiki negotiation unfolds in four episodes with distinct intersubjective orientations, beginning with an exploratory orientation during content generation](four-episodes-exploratory-content-generation.md) — related
+- [The final episode of wiki collaborative writing is characterised by a disputational orientation, possibly driven by time pressure to finish the text](disputational-orientation-finishing-text.md) — related
+- [A wiki with a thinking-together approach can provide a dialogic space in which students co-construct shared understanding](wiki-dialogic-space-co-construction.md) — a broader claim this one bears on
+- [Recurring functional/conceptual spaces (personal space, shared work area, conclusions, discard) emerged in every interaction, and pairs resisted re-designating designated spaces](functional-conceptual-workspace-spaces.md) — related
+- [Concept-mapping dyads produce significantly more re-elaborations (corrections and precisions) of partners' ideas, an indicator of collaborative historical reasoning](concept-mapping-more-re-elaboration-causal-relationships.md) — related
+- [Primary students' wiki negotiation contains collaboration and reasoning keywords distributed throughout the interaction](wiki-negotiation-collaboration-reasoning-keywords.md) — a broader claim this one bears on
+- [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](resistance-messages-elicit-perspectival-understanding.md) — related

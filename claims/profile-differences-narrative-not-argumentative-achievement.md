@@ -49,3 +49,4 @@ Post-hoc Scheffe tests (p adjusted for a family of 4) on narrative-task scores. 
 ## Related Claims
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related
 - [L2 student writers' writing achievement goals form four latent profiles: Low All Goals, Mastery High, Average All Goals, and High All Goals](four-l2-writing-achievement-goal-profiles-lpa.md) — related
+- [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](goal-profiles-differ-writing-self-efficacy.md) — related

@@ -48,3 +48,6 @@ Qualitative strand findings on critical AI literacy from teacher reports in the 
 - [Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness](student-ethical-concerns-genai-data-comics.md) — related
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
 - Reviewed studies consistently raise concerns about AI accuracy, overreliance, academic integrity, and reduced critical engagement in Arab EL2 contexts — related
+- [LLM responses that are incomplete or incorrect prompt students to question, verify and improve the information, fostering critical thinking through cycles of validation and correction](llm-errors-prompt-validation-cycles-critical-thinking.md) — related
+- [Successful AI integration in Arab EL2 classrooms consistently depends on teacher mediation, institutional support, and responsible-use practices](teacher-mediation-institutional-support-ai-integration.md) — a broader claim this one bears on
+- [Students evolved from passive users of GenAI to critical evaluators, developing strategies for bias detection and source validation](students-passive-users-to-critical-evaluators-genai.md) — related

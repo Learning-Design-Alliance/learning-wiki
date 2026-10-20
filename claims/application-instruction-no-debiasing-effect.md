@@ -43,4 +43,6 @@ Testing phase of Experiment 1, CLT text: contrast analysis between instruction g
 
 
 ## Related Claims
--
+- [Under general reading instructions, pre-service teachers significantly overestimate their application test performance](general-instructions-overestimate-application-performance.md) — related
+- [Text topic moderates judgment bias: the CLT text produced higher overconfidence for application performance than the CVT text](text-topic-moderates-application-overconfidence.md) — related
+- [Application reading instructions lead students to spend longer reading the text than general or memory instructions](application-instruction-increases-reading-time.md) — related

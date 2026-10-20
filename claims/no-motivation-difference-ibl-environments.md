@@ -45,3 +45,5 @@ Science Motivation Questionnaire-II (22 items, five sub-dimensions) administered
 ## Related Claims
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [Inquiry skills improved significantly only in the computer-based inquiry group, which outperformed the regular-classroom group at posttest](computer-based-ibl-inquiry-skills-gains.md) — related
+- [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md) — related
+- [Immersion in inquiry-based learning significantly increases student teachers' value for procedural knowledge goals and self-efficacy for inquiry, but not substantive knowledge goals](immersion-ibl-increases-procedural-knowledge-goals-self-efficacy.md) — related

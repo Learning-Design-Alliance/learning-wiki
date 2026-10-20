@@ -51,3 +51,7 @@ Cross-cutting finding reported in the abstract and RQ2 findings: learners direct
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
 - [Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content](students-critical-agentic-partners-with-ai-2030-scenarios.md) — related
 - [Embodied GenAI agents in mixed reality raised engagement and lowered cognitive load for 26 post-secondary learners during collaborative problem-solving](embodied-mr-agents-engagement-cognitive-load-26-learners.md) — related
+- [Pepper has been deployed in three predominant pedagogical roles: tutor/teaching assistant, learning partner or tutored agent, and social mediator in inclusive settings](pepper-three-pedagogical-roles.md) — related
+- [The main student use of GAI tools consistently in view was supporting language-usage and text production](student-gai-use-text-production.md) — related
+- [GAI-assisted DST creation produced significantly better team creativity performance than traditional methods, particularly in novelty and user experience](gai-assisted-dst-improves-team-creativity.md) — related
+- [Anderson's structured cognitive tutoring systems and Papert's constructionist approach embody contrasting positions on control and learner agency](anderson-papert-comparative-models-control-agency.md) — related

@@ -49,3 +49,4 @@ End-of-year survey comparing DLP and non-DLP teachers in participating schools. 
 - [DLP teachers reported significant increases in using technology for both content and pedagogy, but no significant difference from non-DLP teachers in basic technology skills](dlp-content-pedagogy-gains-not-basic-skills.md) — related
 - [DLP teachers reported higher rates of impactful student technology use and greater perceived positive impact on student engagement and learning than non-DLP teachers](dlp-student-engagement-impactful-technology-use.md) — related
 - [Coached teachers report increases in how often students and teachers use technology, compared to non-coached peers](coaching-increases-technology-use-frequency.md) — possibly the same claim (merge candidate)
+- [DLP participants reported more frequent meaningful coaching activities than other coaching programs, but fewer opportunities to observe other teachers](dlp-versus-other-coaching-programs-comparison.md) — related

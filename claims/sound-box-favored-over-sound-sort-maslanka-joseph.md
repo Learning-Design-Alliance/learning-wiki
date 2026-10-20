@@ -50,3 +50,5 @@ A quasi-experimental study of 19 three- to five-year-old children at a private s
 - [Phonological Awareness Training has positive effects on phonological processing in preschool children, averaging +27 percentile points](phonological-awareness-training-positive-effects-phonological-processing.md) — related
 - [Four of six standards-meeting studies showed statistically significant positive effects and two showed substantively important positive effects on phonological processing](phonological-awareness-training-six-studies-significance-pattern.md) — related
 - [Alphabetics improvement-index findings for Waterford Early Reading Program™ were inconsistent across outcomes, ranging from –26 to +37 percentile points](werp-alphabetics-effects-vary-by-outcome.md) — related
+- [Phoneme awareness is a stronger predictor of reading development than rhyme awareness](phoneme-awareness-stronger-predictor-than-rhyme.md) — related
+- [Phonological awareness training plus letter knowledge training has potentially positive effects on preschoolers' phonological processing](pat-lk-potentially-positive-phonological-processing.md) — related

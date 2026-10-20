@@ -51,3 +51,5 @@ Correlational analysis of CLM and QCM subscales in the same algebra study: "intr
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
 - [Prior coding experience correlates positively with digital literacy and coding comfort and negatively with perceived task difficulty](coding-experience-correlates-ct-skills.md) — related
 - [Cognitive load is negatively associated with critical thinking and with self-regulated learning](cognitive-load-negatively-associated-critical-thinking.md) — related
+- [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [At semester end, intrinsic motivation was positively correlated and programming anxiety negatively correlated with programming performance](motivation-anxiety-correlate-with-programming-performance.md) — related

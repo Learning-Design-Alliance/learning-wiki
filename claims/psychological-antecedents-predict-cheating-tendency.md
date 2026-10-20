@@ -46,3 +46,5 @@ Cross-sectional correlational survey of 1,045 undergraduates from multiple disci
 - [Cheating tendency significantly predicts AI-assisted academic dishonesty, and the association is stronger at higher levels of AI use](cheating-tendency-predicts-ai-dishonesty-moderated-by-ai-use.md) — related
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](self-efficacy-negative-ability-not-correlated-cheating.md) — related
 - [Beliefs about action and willpower, shaped by discussion, causally alter behaviour such as cheating and persistence](metacognitive-beliefs-alter-behaviour.md) — related
+- [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — related
+- [Self-handicapping decreases effort to protect self-worth, in contrast to defensive pessimism](self-handicapping-versus-defensive-pessimism.md) — related

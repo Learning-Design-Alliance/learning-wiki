@@ -61,3 +61,14 @@ The article synthesizes meta-analytic comparisons of PBL with traditional direct
 
 ## Related Claims
 - [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related
+- [PBL's empirical evidence base is equivocal, attributed by the essay to implementation failures rather than design flaws](pbl-evidence-base-equivocal.md) — related
+- [The participatory simulation group achieved significantly larger application gains than the problem-based group](simulation-larger-application-gains.md) — a narrower finding that bears on this claim
+- [In a re-analysis of PBL tutor-background data, neither a meta-regression nor subgroup comparisons found that tutor expertise predicts student learning](tutor-background-meta-regression-not-predictive.md) — related
+- [The problem-based group achieved significantly larger content-knowledge gains, while the simulation group made no knowledge gains](problem-based-larger-knowledge-gains.md) — a narrower finding that bears on this claim
+- [PBL is superior to conventional instruction for skill development and for satisfaction of students and teachers](pbl-superior-skill-development-satisfaction.md) — related
+- [Problem-based learning connecting coursework and practice is associated with stronger candidate skill development and self-efficacy](problem-based-principal-preparation-self-efficacy.md) — related
+- [Individual PBL outcome effect sizes in the tutor-background meta-analysis span a massive range, from g = -1.26 to g = 1.91](massive-range-pbl-outcome-effect-sizes.md) — related
+- [Problem-based learning shows a large positive pooled effect on academic achievement (REM ES = 1.560), with heterogeneous study effects](pbl-large-positive-effect-academic-achievement.md) — related
+- [The overall effect of PBL in the tutor-background meta-analysis is modest (g = 0.27) with large, statistically significant heterogeneity](pbl-overall-effect-modest-large-heterogeneity.md) — related
+- [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
+- [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related

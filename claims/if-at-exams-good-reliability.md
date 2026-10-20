@@ -49,3 +49,4 @@ Reliability analysis of the two case-study examinations, whose unadjusted Cronba
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
 - [Unreliability in an outcome measure reduces the statistical power of treatment-control comparisons](unreliability-reduces-rct-statistical-power.md) — related
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
+- [An exam with low internal consistency cannot be used to verify peer assessment validity](low-reliability-exam-excluded-from-validity-check.md) — related

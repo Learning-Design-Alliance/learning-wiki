@@ -46,3 +46,4 @@ Final simulations on both engines across nine MAP Growth tests (reading, mathema
 - [CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students](cbe-better-adaptivity-extreme-achievers.md) — related
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
 - [Marginal reliabilities of MAP Growth winter scores are comparable across engines and all in the 0.90s, with CBE showing slightly higher precision (lower SEM)](cbe-colo-reliability-comparable-cbe-higher-precision.md) — related
+- [Growth-score differences between CBE and COLO are small, exceeding 0.2 only in Reading Grades K–1 (favoring CBE) and Mathematics Grade 8 (favoring COLO)](map-growth-cbe-colo-growth-effect-sizes-small.md) — related

@@ -50,3 +50,5 @@ Latent variable model fit to data from 226 children tested at 3, 4, and 5 years 
 - [Earlier theory of mind does not uniquely predict later executive function at either transition](tom-does-not-predict-later-ef.md) — related
 - [Family income-to-needs at age 3 predicts both EF and ToM through age 5](income-to-needs-predicts-ef-and-tom.md) — related
 - A combined EF/ToM one-factor model fits the data poorly, supporting construct dissociation — related
+- [EF and ToM each show substantial longitudinal stability from 3 to 5 years](ef-tom-longitudinal-stability.md) — related
+- [No interaction effect of executive functions and theory of mind on semantic fluency in preschool children](no-ef-tom-interaction-semantic-fluency.md) — related

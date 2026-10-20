@@ -46,3 +46,5 @@ Meta-analysis of 272 independent effect sizes from 118 articles with 15,427 part
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - Delayed final-exam differences favored Guided-LLM descriptively but were not statistically confirmatory, with confidence intervals including zero — related
+- [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — a narrower finding that bears on this claim
+- [Practice test format moderates the testing effect: mixed-format (g = 0.80) and multiple-choice (g = 0.70) practice tests produced larger effects than short-answer tests (g = 0.48)](practice-test-format-moderates-effect.md) — a narrower finding that bears on this claim

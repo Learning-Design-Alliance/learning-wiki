@@ -44,3 +44,5 @@ Descriptive distribution of chat question categories from the pilot deployment, 
 
 ## Related Claims
 - [In a graduate QIS course pilot, the specialized Spoke-and-Wheel architecture showed no task-boundary failures across 75 student interactions, though no controlled comparison against the prototype was run](itas-specialization-no-task-boundary-failures.md) — related
+- [Meta-procedural requests are prominent in student discourse with a Socratic AI tutor: Next Step Guidance is the second-most common discourse move despite the tutor being designed not to direct students](meta-procedural-requests-socratic-ai-tutor.md) — related
+- [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related

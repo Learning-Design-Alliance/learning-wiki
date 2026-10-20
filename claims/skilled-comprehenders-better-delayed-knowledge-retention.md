@@ -46,3 +46,5 @@ Two-way ANOVA (skill group x test session) on immediate and one-week delayed rec
 - [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
 - [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](different-sources-inference-failure-groups.md) — related
+- [Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes](literal-memory-difference-simile-null.md) — related
+- [VeriForge's integrated workflow is associated with higher one-week delayed recall of domain terms and a higher retention rate (exploratory)](veriforge-delayed-recall-retention-rate.md) — related

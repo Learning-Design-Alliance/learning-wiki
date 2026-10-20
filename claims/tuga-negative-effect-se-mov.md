@@ -50,3 +50,4 @@ Bootstrapped path coefficients from the PLS-SEM structural model (Table 6). Both
 - [Thoughtless use of generative AI is negatively associated with undergraduates' self-directed learning in a cross-sectional survey model (β = −0.42)](tuga-negative-direct-effect-sdl.md) — related
 - [The TUGA, motivation, and self-efficacy jointly explain 75.3% of the variance in undergraduates’ self-directed learning](model-explains-75-percent-sdl-variance.md) — related
 - [Reflective AI use predicts programming self-efficacy and engagement, while PSE does not predict engagement (survey SEM)](ru-predicts-pse-and-engagement-pse-null.md) — related
+- [In SEM, all three self-efficacy dimensions are positively associated with AI use, with Excellence strongest (β = .47), followed by Communication (β = .31) and Attention (β = .22); the model explains 43% of variance](sem-self-efficacy-dimensions-ai-use-associations.md) — related

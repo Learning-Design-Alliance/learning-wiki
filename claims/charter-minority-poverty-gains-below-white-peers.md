@@ -51,3 +51,8 @@ Student-level subgroup analysis in the national charter school study finds "stro
 - [South Carolina charter schools enroll larger shares of white students and smaller shares of students in poverty, ELLs, and special education students than TPS](sc-charter-demographic-composition-differs.md) — related
 - [Charter school students perform consistently better on standardized mathematics achievement measures than traditional public school peers, with modest differences](charter-math-achievement-consistently-better-modest.md) — related
 - [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on
+- [National studies cited in the report found Rhode Island charter students outperformed traditional public school peers in reading and math](ri-charter-students-outperformed-tps-national-studies.md) — related
+- [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — related
+- [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related
+- [Charter students receiving special education services show smaller learning gains than matched traditional public school peers](charter-special-education-smaller-gains.md) — related
+- [Charter schools in many of the 10 studied cities make overall positive contributions to students' learning growth relative to state averages](credo-cohort1-charter-positive-growth-contributions.md) — related

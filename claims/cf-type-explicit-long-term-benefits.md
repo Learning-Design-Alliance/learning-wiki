@@ -50,3 +50,4 @@ Delayed posttest results of the error correction test in the four-session experi
 - [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related
 - [On the immediate posttest of explicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-explicit-short-term-differences.md) — related
 - [On the immediate posttest of implicit L2 knowledge, direct CF and metalinguistic CF with rule explanations outperformed the control group while metalinguistic code CF did not.](cf-type-implicit-short-term-differences.md) — related
+- [Prompts raised learners' pragmatic awareness of refusals more than explicit feedback or control after a 10-week treatment](prompts-beat-explicit-feedback-refusal-awareness.md) — related

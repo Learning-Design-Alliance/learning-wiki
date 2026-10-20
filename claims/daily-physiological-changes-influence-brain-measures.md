@@ -50,3 +50,4 @@ The protocol asserts, citing prior studies, that "measures of brain structure an
 - [Physical well-being — exercise, sleep, and nutrition — impacts learning](physical-wellbeing-impacts-learning.md) — related
 - [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](menstrual-phase-no-moderation-flexibility.md) — related
 - [Physical exercise up-regulates neurotrophic factors and enhances neural structure and function in animals and human adults](exercise-upregulates-neurotrophic-factors-neural-growth.md) — related
+- [Time spent outdoors in the 24 hours before scanning is positively associated with grey matter volume in the right dorsolateral prefrontal cortex](outdoor-time-associated-with-right-dlpfc-grey-matter.md) — a narrower finding that bears on this claim

@@ -66,3 +66,5 @@ Same chi-squared mosaic-plot analysis, low-proficiency group pattern: significan
 - [Learner-chatbot EFL writing interaction follows two dominant behavioural loops: a Revision Loop and a Chat Loop](penny-revision-and-chat-loops.md) — related
 - [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related
 - [In CPS dialogues, low-achievers requested more support while high-achievers provided more support and reminders, though group differences were not statistically significant](cps-dialogue-support-patterns.md) — related
+- [Language proficiency, beliefs, feedback literacy and learning objectives moderate students' engagement with and uptake of WCF](student-factors-moderate-wcf-engagement.md) — related
+- [Low-proficiency EFL undergraduates report feeling more competent in English tasks through ChatGPT-assisted writing feedback, conversational practice, and translation support](chatgpt-competence-experience-efl-undergraduates.md) — related

@@ -50,3 +50,4 @@ SEM of the 157-child longitudinal sample; letter writing automaticity was measur
 - [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
 - [Kindergarten oral language independently predicts third-grade narrative writing quality](kindergarten-oral-language-predicts-narrative-writing-quality.md) — related
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — a narrower finding that bears on this claim
+- [Kindergarten treatment status was negatively related to third-grade expository writing quality](treatment-status-negatively-related-expository-quality.md) — related

@@ -48,3 +48,10 @@ The brief summarizes the earlier National Evaluation of Charter Middle Schools, 
 - [Being admitted to a charter middle school in the National Evaluation of Charter Middle Schools did not affect students' chances of enrolling in or completing college](charter-middle-school-admission-no-college-outcome-effect.md) — related
 - [Both the offer of charter admission and actual attendance showed similarly negative, non-significant average achievement impacts](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — possibly the same claim (merge candidate)
 - [Impacts of charter middle schools on achievement varied considerably across schools and students](charter-middle-school-impacts-varied-considerably.md) — related
+- [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related
+- [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
+- [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
+- [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
+- [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — related
+- [Urban charter schools and charters serving low-achieving, low-income students show the strongest positive achievement impacts](urban-low-income-charter-schools-strongest-achievement-impacts.md) — related
+- [Charter middle school impacts were more positive for more disadvantaged schools and students and more negative for the more advantaged](charter-impacts-more-positive-for-disadvantaged-students.md) — related

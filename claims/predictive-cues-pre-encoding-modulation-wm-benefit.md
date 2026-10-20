@@ -47,3 +47,9 @@ An fMRI study by Bollinger et al. using an object delayed-response task with pre
 - [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
 - [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
 - [Pop-up cues contributed only modestly to note taking, triggering note taking in under 4% of instances](cues-low-note-taking-response.md) — related
+- [Age-related deficits in top-down modulation underlie much of older adults' working memory impairment](aging-top-down-modulation-deficit-wm.md) — a narrower finding that bears on this claim
+- [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](retro-cues-dynamically-modulate-wm-maintenance.md) — related
+- [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](perceptual-attention-necessary-not-sufficient-wm-encoding.md) — related
+- [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
+- [In-depth semantic knowledge penetrates early visual processing, reducing the P100 component and aiding recognition of blurred objects](semantic-knowledge-reduces-p100-early-visual-processing.md) — related
+- [Dual-mode (auditory plus visual) presentation of worked examples enhances subsequent problem-solving efficiency, except under high visual-search conditions without attention cues](dual-mode-worked-example-presentation.md) — related

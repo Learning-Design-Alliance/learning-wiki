@@ -50,3 +50,4 @@ The review reports, citing Clark et al. (2016), that transfer evidence is mixed:
 - [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related
 - [PAIR-C scaffolding shows mixed evidence for deep understanding and reduced misconceptions in emergent-phenomena instruction](pair-c-scaffolding-shows-mixed-evidence-for-emergent-phenomena-instruction.md) — related
 - [A 2017 cyberlearning community report states that students learn more from games when bridging activities connect game learning to classroom instruction, and that learning analytics can strengthen the connection](bridging-activities-connect-game-learning-to-instruction.md) — related
+- [The review reports that participants in simulation-game conditions had significantly higher skill-based knowledge outcomes than those in non-game conditions](simulation-games-higher-skill-based-knowledge.md) — related

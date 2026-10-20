@@ -67,3 +67,5 @@ Descriptive analysis of clinical pathway by preliminary credential type among co
 ## Related Claims
 - [Across CPS preparation pathways, traditional and residency student teachers completed more methods coursework, had lengthier programs, and planned more years in teaching than alternative-pathway student teachers](cps-pathway-differences-coursework-length-and-career-plans.md) — related
 - [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related
+- [Financial hardship disproportionately impacts residents of color, and financial barriers are the biggest recruitment challenge](hardship-disproportionately-impacts-residents-of-color.md) — related
+- [CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways](csub-residencies-diversify-teacher-workforce.md) — related

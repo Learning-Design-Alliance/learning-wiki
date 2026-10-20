@@ -49,3 +49,5 @@ A descriptive implementation-practice slide citing the Tinsley et al. 2022 repor
 - [The report identifies five key themes across rural micro-credentialing initiatives, with partnerships the most prevalent](five-themes-rural-microcredential-initiatives.md) — a broader claim this one bears on
 - Districts and universities increasingly attach concrete incentives to earning Digital Promise micro-credentials — related
 - [Program appeal rested on flexibility and financial savings, with some modules completable in under 10 minutes](microcredential-appeal-flexibility-financial-savings.md) — a narrower finding that bears on this claim
+- [Prior learning assessment is associated with cost and time savings and higher credential completion, yet engagement remains low](pla-benefits-low-engagement.md) — related
+- [Most rural learner participants reported micro-credentials yielded increased opportunity for skill development, job promotion, salary increase, credential attainment, and/or enrollment in additional educational programming](rural-microcredential-learners-report-skill-and-employment-gains.md) — related

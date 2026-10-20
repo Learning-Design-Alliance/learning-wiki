@@ -43,3 +43,6 @@ Johnson–Neyman probing of the interaction in the moderation analyses defined r
 ## Related Claims
 
 - [Children's age did not moderate the link between bicultural identity and cognitive flexibility](age-does-not-moderate-biculturalism-flexibility-link.md)
+- [The identity interaction on mixed-trial accuracy held marginally when controlling for language abilities, which themselves did not predict performance](biculturalism-not-bilingualism-explains-flexibility.md) — related
+- [Turkish and German identity interactively predicted accuracy on mixed Dot Task trials requiring cognitive flexibility among immigrant-origin children](bicultural-identity-interaction-predicts-cognitive-flexibility.md) — a broader claim this one bears on
+- [Balanced bicultural identity showed no relation to working memory or inhibitory control performance in congruent and incongruent Dot Task trials](bicultural-identity-no-effect-working-memory-inhibition.md) — related

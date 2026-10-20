@@ -66,3 +66,8 @@ An LLM prompt tournament with 12 learning engineers comparing 5 prompt templates
 - [Inter-rater agreement among the 20 expert teachers was low, at or below chance across QM criteria](low-inter-rater-agreement-qm-criteria.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
 - [Categorizing claims on a website required students to read and interpret content beyond what the visualization tool provides, including evaluating trustworthiness](categorization-requires-reading-claims.md) — related
+- [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](ai-interaction-competencies-observable-scorable.md) — related
+- [LLMs are more intrusive and more consistent than humans, eager to view neutral discussions as opportunities for positive reinforcement](llms-over-intervene-positive-reinforcement.md) — related
+- [Expert evaluation refined the draft heuristics around language clarity, usability-accessibility separation, and meaningful data interpretation](expert-evaluation-refined-lxd-heuristics-two-rounds.md) — related
+- [Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits](wraft-surface-feedback-96-percent-precision.md) — a narrower finding that bears on this claim
+- [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related

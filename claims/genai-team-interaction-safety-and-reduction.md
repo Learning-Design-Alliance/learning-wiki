@@ -72,3 +72,6 @@ The review reports concerns from He et al. (2024) and Kiesler et al. (2025) that
 - [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
 - [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related
 - [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [The genAI tool's integration into each student team was an intentional pedagogical technique targeting factors contributing to groupthink in rapidly formed teams](genai-integration-intentional-pedagogical-technique.md) — related
+- [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — possibly the same claim (merge candidate)
+- [ChatGPT served as an emotional support agent during practicum, offering a nonjudgmental, constantly available interlocutor](chatgpt-emotional-support-agent-practicum.md) — related

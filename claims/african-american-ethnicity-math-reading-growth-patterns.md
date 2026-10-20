@@ -65,3 +65,7 @@ Model D growth model. After covariate adjustment, African American children had 
 
 - [Household chaos predicts lower prekindergarten math and reading but faster growth in both](household-chaos-lower-level-faster-growth.md) — related
 - [African-American students' disproportionate retention was largely explained by lower prior test scores](retention-racial-disparity-explained-by-scores.md)
+- [Executive function at 48 months positively predicts mathematics ability at prekindergarten, with effects persisting after cognitive covariate controls](executive-function-predicts-math-persisting-covariates.md) — related
+- [Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model](effortful-control-report-predicts-math-growth.md) — related
+- [Self-regulation effects on letter–word reading are reduced completely after cognitive covariate controls](self-regulation-reading-effects-reduced-covariates.md) — related
+- [Directly assessed effortful control at 48 months predicts prekindergarten math but not reading, and not growth in either](direct-effortful-control-predicts-math-not-reading.md) — related

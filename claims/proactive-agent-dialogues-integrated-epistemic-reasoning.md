@@ -45,3 +45,7 @@ Mann–Whitney comparison of ENA condition centroids in the same discourse-netwo
 ## Related Claims
 - [A secondary ENA adding ICAP engagement codes showed proactive interactions linked constructive engagement with adequate reasoning, while reactive dialogues emphasised procedural pairings](proactive-engagement-constructive-adequate-reasoning-link.md) — possibly the same claim (merge candidate)
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
+- [Condition-specific mediation estimates showed a literacy–performance association in the reactive condition but not the proactive condition, with indirect effects not significant](reactive-only-literacy-performance-association-exploratory.md) — related
+- [No significant GenAI-literacy-by-agent-condition interaction emerged, so the formal models did not support different literacy slopes across designs](no-literacy-by-agent-interaction.md) — related
+- [Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups](human-ai-tutoring-increases-time-on-task.md) — related
+- [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](human-ai-discourse-functional-differences.md) — related

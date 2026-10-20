@@ -64,3 +64,6 @@ Experiment 2 (framing within-participants, financially incentivized, N = 300) pr
 ## Related Claims
 - [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — possibly the same claim (merge candidate)
 - [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — related
+- [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related
+- [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — a broader claim this one bears on
+- [The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing](underconfidence-predicts-reminder-bias.md) — related

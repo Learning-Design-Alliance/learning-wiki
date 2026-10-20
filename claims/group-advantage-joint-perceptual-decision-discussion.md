@@ -47,3 +47,4 @@ A psychophysical experiment (Bahrami et al., as reviewed here) in which pairs ju
 - [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — related
 - [Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage](linguistic-coordination-confidence-vocabularies.md) — a narrower finding that bears on this claim
 - [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — a narrower finding that bears on this claim
+- [Communication and coordination costs of transactive activities can annul the benefit of sharing cognitive load in a group](transactive-costs-annul-load-sharing-benefit.md) — related

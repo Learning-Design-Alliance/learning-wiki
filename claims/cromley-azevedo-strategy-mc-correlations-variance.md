@@ -65,3 +65,4 @@ External-validity evidence discussed in the discussion section: in the prompted 
 - [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related
 - Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — related
 - [Reading comprehension variance is fully shared with listening comprehension and word reading](reading-comprehension-variance-fully-shared.md) — related
+- [Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies](schellings-convergent-validity-n16-correlation-51.md) — related

@@ -45,3 +45,4 @@ Paired t-tests on mean looking time differences for early implanted, late implan
 ## Related Claims
 - [Early implanted children performed significantly better on the word-learning task than late implanted children](early-implanted-outperform-late-implanted.md) — related
 - [Normal-hearing children demonstrate novel word learning on the IPLP task at approximately 18 months of age and older](nh-word-learning-emerges-18-months.md) — related
+- [Age at implantation accounts for significant variance in word-learning performance when pre-CI hearing is in the typical range for CI candidates](age-at-implantation-predicts-word-learning.md) — related

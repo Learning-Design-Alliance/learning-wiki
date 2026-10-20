@@ -65,3 +65,4 @@ Reported mechanism for the implementation increase: mutual accountability terms 
 - [Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.](obc-contract-development-collaborative-data-driven-decisions.md) — related
 - [Industry partners reported learning about working with schools and educators, including contracting and teacher community building](industry-learned-working-with-schools.md) — related
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — related
+- [Teachers who achieve high-dosage CAL practice show strong initial buy-in, a clear implementation strategy for practice timing, and close monitoring with follow-up](high-dosage-cal-teachers-buy-in-strategy-monitoring.md) — related

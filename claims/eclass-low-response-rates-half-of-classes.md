@@ -46,3 +46,4 @@ Participation and administration data from online delivery during Fall 2012 and 
 
 - Descriptive expert-like response percentages on the CLASS survey were lower for the experimental group than the control group at post-test, despite the significant ANCOVA result — related
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md)
+- [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related

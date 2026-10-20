@@ -71,3 +71,5 @@ The same meta-analytic section reports "Negative associations were also found be
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — related
 - [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
+- [Statistically significant differences in approaches to learning can constitute small effects of little theoretical or practical importance](significant-differences-small-effects-approaches.md) — related
+- [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related

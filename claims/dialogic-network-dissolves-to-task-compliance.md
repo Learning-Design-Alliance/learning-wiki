@@ -46,3 +46,4 @@ ANT analysis of turns 147–210 of the same small-group discussion: at turn 157 
 - [SEDA identifies co-construction and dialogic shifts but does not explain their mechanisms, whereas ANT explains shifts via changing power relations among actors](ant-explains-shifts-seda-does-not.md) — a broader claim this one bears on
 - [Non-human actants such as a Bristol board and task instructions can subordinate students and render classroom talk non-dialogic](bristol-board-actant-subordinates-students.md) — related
 - [A single student's open question can trigger dissolution of a non-dialogic network and autonomous dialogic argumentation](student-question-triggers-dialogic-network.md) — related
+- [Self-constructed collaborative concept maps trigger more deep exploratory talk and less non-dialogic talk than completing or sorting maps, which yield mostly superficial exploratory talk](self-constructed-cm-deep-exploratory-talk.md) — related

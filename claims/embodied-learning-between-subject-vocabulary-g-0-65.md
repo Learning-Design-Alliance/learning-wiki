@@ -45,3 +45,4 @@ Three-level meta-analytic model of 190 between-subject effect sizes from 52 stud
 ## Related Claims
 - [In exploratory between-subject analyses, embodied learning showed larger effects against passive non-embodied controls (g = 0.43) than against active non-embodied controls (g = 0.86)](control-group-characteristics-moderate-embodied-effects.md) — related
 - [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](movement-meaning-congruency-moderates-vocabulary-learning.md) — related
+- [Amount of sensorimotor engagement, target language, proficiency, and type of embodied interaction do not significantly moderate embodied vocabulary learning effects](non-significant-moderators-embodied-vocabulary.md) — related

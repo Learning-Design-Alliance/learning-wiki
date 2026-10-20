@@ -44,3 +44,4 @@ Theoretical argument in the review's framework section: the learning patterns mo
 
 ## Related Claims
 - [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md) — related
+- [Review of 23 ILS studies since 2004 finds more dimensionality in learning patterns than previously considered](ils-learning-patterns-greater-dimensionality.md) — related

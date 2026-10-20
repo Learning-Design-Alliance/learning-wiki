@@ -45,3 +45,4 @@ Partner self-report from the report's discussion of the Challenge's accountabili
 ## Related Claims
 - [Annenberg external partners accumulated substantial experience working with schools but were not particularly successful in promoting improvement across the large number of schools they served](annenberg-partners-experienced-but-not-particularly-successful.md) — related
 - [High-stakes testing pushed some Chicago schools toward test preparation and away from partners' long-term instructional improvement efforts](high-stakes-testing-crowded-out-partner-efforts.md) — related
+- [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related

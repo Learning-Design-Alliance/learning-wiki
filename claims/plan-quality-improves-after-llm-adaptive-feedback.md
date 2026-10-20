@@ -49,3 +49,5 @@ Preregistered within-subjects experiment with 155 children (Mage = 12.08 years) 
 - [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](self-efficacy-does-not-moderate-feedback-gains.md) — related
 - [LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception](llm-feedback-higher-expert-ratings.md) — related
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
+- [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
+- [Test-takers rate LLM-generated feedback as persuasive and useful as human instructor feedback (Wilcoxon signed-rank tests show no significant difference)](llm-feedback-rated-equal-to-human-feedback.md) — related

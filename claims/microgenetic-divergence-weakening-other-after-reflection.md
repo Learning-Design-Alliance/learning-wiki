@@ -46,3 +46,6 @@ Microgenetic examination of the eight electronic dialog sessions (pair as unit o
 
 - [Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences](argumentation-practice-improves-argument-output-both-conditions.md)
 - [The two conditions performed comparably in using evidence to support their own position, the less demanding argument function](support-own-evidence-comparable-across-conditions.md) — related
+- [Meta-level (meta-strategic and epistemic) talk in the two conditions followed a comparable pattern until reflective activities were introduced, after which the patterns differed](meta-level-talk-diverges-after-reflection-introduced.md) — related
+- [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](reflection-boosts-weakening-other-argument-skill.md) — related
+- [Adding reflective activities to dialogic argumentation produced greater content-knowledge gains on the intervention topic than argumentation practice alone](reflection-boosts-topic-knowledge-gains.md) — related

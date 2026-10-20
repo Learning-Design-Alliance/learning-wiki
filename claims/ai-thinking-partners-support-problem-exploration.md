@@ -49,3 +49,6 @@ Focus group interviews with 35 graduate students in seven cross-institutional te
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Adult learners perceive AI collaborative workspaces as fostering equitable participation and shared responsibility in group problem-solving](ai-workspaces-equitable-collaborative-problem-solving.md) — related
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — a broader claim this one bears on
+- [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — a broader claim this one bears on
+- [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related
+- [Adult learners perceive AI-generated warm-up activities as activating prior knowledge for solution generation](ai-warmups-activate-prior-knowledge-solution-generation.md) — related

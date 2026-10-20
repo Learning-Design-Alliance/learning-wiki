@@ -60,3 +60,4 @@ The article reports, citing Dawson and Sutherland-Smith (2018) and Dawson et al.
 ## Related Claims
 - [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
+- [AI humanizer websites recontextualize detection evasion by deleting misconduct terms and substituting euphemisms like 'humanize' and 'improve flow'](humanizer-recontextualization-deletes-misconduct.md) — related

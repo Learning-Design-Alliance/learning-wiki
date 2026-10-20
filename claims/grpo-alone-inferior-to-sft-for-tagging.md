@@ -49,3 +49,7 @@ Baseline comparison (Table 3) applying GRPO to sub-8B LLMs (Qwen2.5-7B-Instruct,
 - [Pruning low-advantage completions during RL improves F1 up to a middle pruning rate while reducing training time](pruning-mechanism-improves-f1-and-training-time.md) — related
 - [GRPO with an SFS-aligned reward yields more consistent improvements than DPO, achieving the highest SFS overall](grpo-sfs-reward-beats-dpo.md) — related
 - [GRPO with the Proficiency Alignment Reward improves alignment over SFT across every writing trait and essay prompt](grpo-par-improves-alignment-across-all-traits.md) — related
+- [A dynamic position reward in RL training improves tagging performance and prevents overfitting to Selector outputs](dynamic-position-reward-improves-reasoner.md) — related
+- [Reinforcement learning with a learned alignment reward substantially improves question-concept alignment after supervised fine-tuning, while answerability remains high throughout training](alignment-rl-improves-concept-alignment.md) — reports the opposite
+- [GRPO pedagogical alignment of a reasoning LLM lowers actual student learning while raising judge-rated helpfulness (a multi-dimensional alignment tax)](grpo-pedagogical-alignment-tax-lowers-learning.md) — related
+- [GRPO-with-PAR gains over SFT transfer to independent evaluators never used during policy optimization](par-gains-transfer-to-independent-evaluators.md) — related

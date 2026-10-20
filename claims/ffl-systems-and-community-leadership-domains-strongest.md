@@ -45,3 +45,6 @@ Domain-level concurrent validity analysis of FFL scores against principal value-
 ## Related Claims
 - [Principals with higher FFL scores make larger estimated contributions to student achievement growth (concurrent validity)](ffl-scores-correlated-principal-value-added.md) — related
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
+- [FFL scores were not associated with school leaders' estimated contributions to student achievement growth](ffl-scores-not-associated-achievement-growth.md) — related
+- [Higher FFL scores associate with larger value-added for middle school principals but not for elementary or high school principals](ffl-middle-school-only-value-added-association.md) — related
+- [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related

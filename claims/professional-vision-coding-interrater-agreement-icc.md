@@ -47,3 +47,7 @@ Scaled qualitative content analysis (Mayring, 2014) of pretest and posttest open
 - [Three independent expert instructors reached exceptionally high inter-rater reliability when grading 1200 bash exam responses, establishing a reliable human reference standard](expert-triad-high-inter-rater-reliability-bash-grading.md) — related
 - [Expert human raters established an inter-rater reliability benchmark above ICC 0.89 on all four IELTS dimensions for the essay corpus](human-inter-rater-benchmark-icc-above-089-essays.md) — related
 - [The authors argue that analysing interpretations of video situations gives a more reliable view of teachers’ conceptions than self-report Likert questionnaires](video-interpretation-more-reliable-than-self-report-conceptions.md) — related
+- [The review's coding framework showed very good inter-coder agreement (κ = 0.89, p < 0.001) on a random sample of six papers](se-review-coding-kappa-089.md) — related
+- [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md) — related
+- [A fine-tuned BERT model achieves almost perfect agreement with human coders when classifying student self-affirmation essays, matching human-human reliability](fine-tuned-bert-matches-human-coders-self-affirmation-essays.md) — related
+- [Human inter-rater agreement for FRISCO essay scoring was reliable, with mean kappa 0.78–0.84 and percentage of agreement above 75% in all six dimensions](frisco-rater-agreement-reliable.md) — related

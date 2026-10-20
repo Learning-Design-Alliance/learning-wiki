@@ -48,3 +48,5 @@ The authors' interpretation of the cross-sectional age effects on both intellige
 ## Related Claims
 - [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](intelligence-metacognition-predictor-turnaround.md) — related
 - [Both the quantity and the quality of metacognitive skills in math increase between the second and third year of secondary education (ages 13–15)](metacognitive-quantity-quality-increase-ages-13-15.md) — related
+- [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](mixed-model-metacognitive-quality-unique-contribution.md) — related
+- [Metacognitive components differ in developmental trajectory: planning and evaluation grow in quantity and quality, orientation quantity decreases, and elaboration grows in frequency but not quality](metacognitive-components-differential-development.md) — related

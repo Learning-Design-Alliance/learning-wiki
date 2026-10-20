@@ -46,3 +46,5 @@ Descriptive account of the CBSL pilot initiative run by Mathematica and Catalyst
 
 ## Related Claims
 - [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](cbsl-pilot-nine-grantees-partnership.md) — related
+- [The SPREE process can help build or strengthen a culture of measurement, learning and evaluation even where it is initially absent](spree-builds-measurement-culture.md) — related
+- [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — a broader claim this one bears on

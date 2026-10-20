@@ -48,3 +48,5 @@ National data analysis reported in the report's challenge section, drawing on th
 ## Related Claims
 - [Approximately one in four students who tested the prior year were missing from fall 2020 data, disproportionately Black or Latinx students in higher-poverty schools, so prior estimates likely understated pandemic impacts](missing-fall-2020-testers-understate-impacts.md) — related
 - [Systematic attrition differences mean COVID-19 impacts on student achievement are likely underestimated in fall 2020 MAP Growth results](covid-achievement-impacts-likely-underestimated-attrition.md) — related
+- [Teacher turnover is 35%–37% higher in schools with the largest concentrations of students of color and students from low-income backgrounds than in schools with the smallest](school-composition-turnover-inequity.md) — related
+- [Teacher attrition and turnover are primary drivers of California teacher shortages, with 12% turnover between 2016–17 and 2017–18](attrition-turnover-primary-shortage-drivers.md) — related

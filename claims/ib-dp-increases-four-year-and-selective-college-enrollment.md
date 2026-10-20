@@ -49,3 +49,6 @@ Quantitative analysis of postsecondary outcomes for graduates of the classes of 
 - [Despite strong academic qualifications, IB DP students often have limited access to the social capital needed to navigate college course selection and access faculty support](ib-dp-students-limited-social-capital.md) — related
 - [Undermatch occurs when students attend a college less selective than their high school academic achievement would allow](undermatch-defined-less-selective-college-attendance.md) — related
 - [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related
+- [Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college](cps-advanced-programs-two-thirds-selective-qualified.md) — related
+- [College undermatch is widespread among CPS students at all qualification levels, with only 27 percent of selective-access graduates matching](college-undermatch-widespread-all-qualification-levels-cps.md) — related
+- [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related

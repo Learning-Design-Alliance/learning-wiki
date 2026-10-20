@@ -65,3 +65,9 @@ Same expert human study: the GPT-5.4-simulator reward condition "stays below eve
 ## Related Claims
 - [Across chess, L2 writing, and math, trained StudentSim simulators outperform every reference baseline on behavioral fidelity (F)](studentsim-outperforms-baselines-behavioral-fidelity.md) — related
 - [Across all three domains, trained StudentSim simulators outperform every baseline on guidance responsiveness (R), with the largest gap on open-ended guidance modes](studentsim-outperforms-baselines-guidance-responsiveness.md) — related
+- [A 4B per-student simulator solves a held-out Socratic-guidance chess case where prompted GPT-5.4 fails, indicating multi-turn training adds guidance-following capability beyond hint copying](studentsim-socratic-case-beats-prompted-frontier-llm.md) — related
+- [The LLM-judge scoring pipeline for the two metrics aligns with human labels and human raters](llm-judge-pipeline-validated-against-human-raters.md) — related
+- [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on
+- [Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)](judge-anchoring-raises-human-agreement.md) — related
+- [A screenshot-only reward was reward-hacked into producing visually convincing but unplayable games; hardening the reward with an interactivity probe and hard-fail gate reversed the collapse](reward-hacking-games-interactivity-probe.md) — related
+- [An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate](engagement-optimized-rl-tutor-reward-hacking.md) — related

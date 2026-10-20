@@ -45,3 +45,8 @@ Two experiments with university freshmen in mathematics learning in dyads with p
 
 ## Related Claims
 - [Learner-chosen adaptivity in a collaboration script was feasible as guidance design, but impacted regulatory actions only among students with more advanced self-regulation skills](learner-agency-adaptive-guidance-only-advanced-regulators.md) — a narrower finding that bears on this claim
+- [In Experiment 2, self-regulation skills significantly positively predicted domain-specific MAS only in the minimal heuristic worked examples condition](self-regulation-predicts-domain-specific-mas-minimal-worked-examples.md) — related
+- [In Experiment 1, the CSCL script condition significantly affected domain-specific MAS, with only the maximal script significantly outperforming the minimal script](maximal-cscl-script-outperformed-minimal-domain-specific-mas.md) — related
+- [In Experiment 1, self-regulation skills significantly predicted socio-discursive MAS only in the adaptable CSCL script condition](self-regulation-predicts-socio-discursive-mas-adaptable-script.md) — a narrower finding that bears on this claim
+- [In Experiment 1, dyads that more often chose maximum CSCL scaffolding had lower post-test socio-discursive MAS](more-maximal-script-choices-correlated-lower-socio-discursive-mas.md) — related
+- [Effects of collaboration scripts combined with heuristic worked examples on mathematical argumentation skills depend on prior knowledge and working-memory capacity, consistent with a Matthew Effect](script-worked-example-fading-matthew-effect.md) — a narrower finding that bears on this claim

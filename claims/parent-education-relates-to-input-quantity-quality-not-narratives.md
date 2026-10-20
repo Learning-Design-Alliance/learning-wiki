@@ -48,3 +48,4 @@ Simple correlation analysis (Table 3) of parent education with input measures in
 - [Proportions of rare words and decontextualized utterances in parent input increase linearly from 18 to 42 months](proportions-rare-decontextualized-increase-over-time.md) — related
 - [Parent rare word use at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](rare-word-use-30-months-predicts-vocabulary-42-months.md) — related
 - [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) — related
+- [Parent explanations at 42 months are marginally related to child PPVT at 54 months with controls](explanations-42-months-marginally-predict-vocabulary-54-months.md) — related

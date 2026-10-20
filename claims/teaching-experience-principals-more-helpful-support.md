@@ -46,3 +46,5 @@ Teacher survey evidence in the snapshot indicates that principals with elementar
 - [Elementary school principals spend more than one-third of their workweek providing instructional support to teachers, split fairly evenly between direct and indirect support](principals-third-workweek-instructional-support.md) — related
 - [Principals with elementary school teaching experience reported providing more extensive direct instructional support to teachers](teaching-experience-principals-more-direct-support.md) — related
 - [Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not](principal-pd-teachers-report-less-instructional-support.md) — related
+- [Networks and professional learning communities of practicing principals support sharing best practices and problem solving on the job](principal-networks-professional-learning-communities.md) — related
+- [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related

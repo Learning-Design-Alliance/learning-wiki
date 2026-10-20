@@ -44,3 +44,5 @@ A retrospective review by Engle (2012) systematically reviewed 23 studies of PDE
 
 ## Related Claims
 - [Collaborative learning appeared in 36 funded projects, embodied learning in 15, and identity theories in 9](learning-theory-theme-project-counts.md) — related
+- [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](immediate-own-motion-most-effective-graphing-motion.md) — related
+- [Immediate Own Motion was the largest class of embodied learning environments, with motion sensor technology used in 30 of its 34 environments](class-i-immediate-own-motion-largest-motion-sensors.md) — related

@@ -57,3 +57,5 @@ The report's research synthesis states that "exclusionary responses, such as sus
 - Low-income students, students of color, multilingual families' students, and students with disabilities are more likely to be chronically absent — related
 - [Students with disabilities are overrepresented in school discipline: 16 percent of enrollment but 25–28 percent of suspensions and expulsions](disability-discipline-overrepresentation-suspension-expulsion.md) — a narrower finding that bears on this claim
 - Exclusionary discipline disproportionately removes students of color and students with disabilities from school — related
+- [Students of color show fewer absences and less exclusionary discipline when taught by race-matched teachers](race-matched-teacher-discipline-absence-benefits.md) — related
+- [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — a narrower finding that bears on this claim

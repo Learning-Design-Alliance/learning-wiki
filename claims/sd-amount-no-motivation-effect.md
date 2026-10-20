@@ -49,3 +49,5 @@ Regression on the interest/enjoyment subscale of the intrinsic motivation invent
 - [Seductive detail amount did not increase extraneous cognitive load in either study](sd-amount-no-extraneous-load-effect.md)
 - [Seductive detail amount did not significantly affect transfer performance in Study 1](sd-amount-no-transfer-effect-study1.md)
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md)
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
+- [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](no-transfer-effect-seductive-details.md) — related

@@ -42,3 +42,7 @@ Theoretical argument in the literature review, drawing on Nagy and Neff (2015) a
 
 ## Related Claims
 - [Perceived immersive, interactive, and distributed affordances are each positively associated with a distinct lacquer-painting imagery characteristic in cross-sectional survey data](perceived-digital-affordances-associated-with-lacquer-imagery-characteristics.md) — related
+- [The objections stage is the most difficult stage of CRITO because it demands fallibilism about one's own argument](objections-stage-most-difficult-crito.md) — related
+- [Staff perceived students' use of GAI for academic purposes as more extensive than students reported themselves](staff-overestimate-student-gai-use.md) — a narrower finding that bears on this claim
+- [Most staff respondents had used a GAI tool, but few held paid subscriptions, suggesting limited sustained engagement](low-sustained-gai-engagement-staff.md) — related
+- [Digital policies imagine a \"model user\" whose experience contrasts sharply with the actualities of adults on the margins of access](model-user-policy-imaginary.md) — related

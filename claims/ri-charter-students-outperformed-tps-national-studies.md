@@ -49,3 +49,7 @@ This is background cited by the report, attributed to CREDO's National Charter S
 - [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — possibly the same claim (merge candidate)
 - Charter attendance is associated with higher learning gains for Black and Hispanic students, including those in poverty, relative to matched TPS controls — related
 - Charter attendance is associated with improved learning gains for students in poverty, special education students, and English language learners relative to TPS — related
+- [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — a broader claim this one bears on
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
+- [CMO-affiliated charter schools outpace traditional public schools in reading and math while stand-alone charters gain in reading only](cmo-schools-advance-reading-math-standalone-reading-only.md) — related
+- [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related

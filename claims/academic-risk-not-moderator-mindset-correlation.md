@@ -52,3 +52,4 @@ Moderator analysis of academic risk status in Meta-Analysis 1: "Academic risk st
 - [Socioeconomic status does not significantly moderate the mind-set–achievement correlation](ses-not-moderator-mindset-correlation.md) — related
 - [Fixed mindset correlates negatively with GPA among U.S. 9th-grade students (average r = −.22) in a nationally representative sample](fixed-mindset-gpa-correlation-national-sample.md) — related
 - [Developmental stage moderates the mind-set–achievement correlation, which is nonsignificant for adults](developmental-stage-moderates-mindset-correlation.md) — related
+- [Effect sizes linking growth mind-set to achievement are highly heterogeneous and often nonsignificant](mindset-achievement-heterogeneity-high.md) — related

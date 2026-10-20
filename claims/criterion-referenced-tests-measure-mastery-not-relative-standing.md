@@ -61,3 +61,7 @@ The article's conceptual discussion of criterion-referenced measurement explains
 - [Criterion-referenced tests require empirically-based construct validation studies](criterion-referenced-tests-need-construct-validation.md) — related
 - [Statistical item selection that maximizes norm-referenced discrimination undermines criterion-referenced test definitions](statistical-item-selection-conflicts-criterion-referenced-definition.md) — related
 - [Students with the weakest skills relative to their peers need close monitoring and support regardless of whether their achievement is low or high relative to a national comparison](weakest-relative-to-peers-need-monitoring.md) — related
+- [Competitive (norm-referenced) grading pits students against one another and discourages cooperation, according to the author's argument](competitive-grading-pits-students-against-each-other.md) — related
+- [Rank-ordering students is irrelevant to teaching because teaching is not claimed to have occurred unless each student learned, per the author's Dewey-inspired argument](rank-ordering-irrelevant-to-teaching.md) — related
+- [Abandoning assessment entirely is not an acceptable alternative to competitive grading, per the author's argument](nonassessment-unacceptable-alternative.md) — related
+- [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related

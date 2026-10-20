@@ -49,3 +49,5 @@ In Experiment 2, WMC was measured as a composite of reading span and operation s
 - [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — a broader claim this one bears on
+- [Offloading attenuates individual differences linked to unaided ability](offloading-attenuates-individual-differences.md) — related
+- [Students can only improve if they develop the capacity to monitor the quality of their own work during actual production](self-monitoring-during-production-premise.md) — related

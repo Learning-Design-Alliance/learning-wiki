@@ -74,3 +74,6 @@ The page describes a technical appendix for a brief that "examines the relations
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
 - Supportive school environments and strong teacher-student relationships speed recovery from learning loss — related
 - Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements — related
+- [The report positions family engagement as an often-underutilized strategy for supporting student academic growth during COVID recovery](family-engagement-underutilized-covid-recovery-strategy.md) — related
+- [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
+- [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related

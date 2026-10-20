@@ -51,3 +51,5 @@ Bivariate correlational analysis among 74 adults with ASD linking the processing
 - [The processing speed deficit in adults with ASD appears on each of the three standardized subtests: Trail Making A, Symbol Coding, and Category Fluency](asd-processing-speed-deficit-all-three-subtests.md) — related
 - [Processing speed in adults with ASD shows no significant association with SAS-II social adjustment, and only a near-significant positive association with GAF functioning](processing-speed-not-associated-with-sas-social-adjustment.md) — related
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](autism-temporal-precision-links-language-symptoms.md) — related
+- [Processing speed is the most impaired Wechsler cognitive domain among youth referred for neuropsychiatric evaluation](ps-lowest-wechsler-index-referred-youth.md) — related
+- [The article attributes the discrepancy with inspection-time studies to methodology, arguing standardized measures are sensitive enough to detect processing speed deficits in ASD](standardized-measures-detect-asd-processing-speed-deficit.md) — related

@@ -45,3 +45,4 @@ In the same pre-post user study, the authors report that "the greater improvemen
 ## Related Claims
 - [Group ethical discussion with multiple LLM agents significantly increases ethical sensitivity in STEM undergraduates](llm-ethics-discussion-ethical-sensitivity-gains.md) — related
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
+- [An LLM facilitator agent maintains pace and coherence in structured group ethics discussions](llm-facilitator-pace-coherence.md) — related

@@ -45,3 +45,5 @@ Final regression model (Model 4) on posttest probabilistic reasoning weighted su
 ## Related Claims
 
 - [The learning benefit of the worked-example textbook was greater for students with lower pretest proportional reasoning skills](worked-examples-benefit-lower-proportional-reasoners.md)
+- [Students using a worked-example revised probability textbook improved more in probabilistic reasoning than students using the standard textbook](worked-example-textbook-improves-probability-learning.md) — related
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — a broader claim this one bears on

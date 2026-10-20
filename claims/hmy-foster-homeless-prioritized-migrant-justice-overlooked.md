@@ -45,3 +45,7 @@ Cross-state synthesis of 22 semistructured interviews and a policy scan in Color
 ## Related Claims
 - [Direct service providers and statewide nonprofits play indispensable connector roles between youth needs and policy in both states](direct-service-providers-connectors-hmy.md) — related
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
+- [Students in foster care graduate from high school and enroll in college at substantially lower rates than their peers](foster-care-graduation-college-gaps.md) — related
+- [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related
+- [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
+- [Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)](homelessness-lower-graduation-rate.md) — related

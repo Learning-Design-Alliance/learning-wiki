@@ -64,3 +64,6 @@ The second sequential analysis set on the same turn-based coded dataset, testing
 ## Related Claims
 
 - [Children of consistently contingent mothers (30%+ contingent at all three time-points) scored higher on grasping, delay and cognitive measures than children of inconsistently contingent mothers](consistent-contingency-group-child-outcomes.md)
+- [Maternal contingency is the only scaffolding variable related to child performance during scaffolding across all three time-points](contingency-predicts-child-performance-scaffolding.md) — related
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related
+- [Children with low initial effortful control showed rising trajectories to above the mean only when their mothers were consistently contingent](low-effortful-control-trajectories-contingent-mothers.md) — related

@@ -46,3 +46,4 @@ The review's synthesis concludes that "Developing professional learning communit
 - The FACE Collaborative fostered collaborative leadership behaviors including mutual support, resource sharing, expert learning, and partnership building — related
 - [Better coordination, communication, and coherence across professional learning and supports are needed to sustain centering student experience](coherence-alignment-student-experience-supports.md) — related
 - [Participating in scoring performance assessments builds teacher capacity in several ways](scoring-activities-build-teacher-capacity.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week](sustained-coaching-contact-hours.md) — related

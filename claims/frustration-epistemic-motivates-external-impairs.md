@@ -46,3 +46,6 @@ Discussion-section interpretation of interview data. The authors suggest frustra
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
 - [Prolonged reading failure leads students to attribute failure to fixed low ability and define reading as a failure situation](reading-failure-fixed-ability-attribution.md) — related
+- [Generalizable detectors of students' affective states in DLPs remain an unsolved problem](no-generalizable-affective-detectors.md) — related
+- [Negative emotions are perceived to have either positive or negative impacts on learning, with faculty more likely than students to recognize their functional benefits](negative-emotions-dual-impact-faculty-see-benefits.md) — a broader claim this one bears on
+- [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related

@@ -44,3 +44,5 @@ The article offers this as a stated purpose of the report system without present
 
 ## Related Claims
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Leadership teams can use CALL survey results to select the guide sections most useful for their improvement plan](call-results-inform-guide-section-selection.md) — a narrower finding that bears on this claim
+- [Feedback that answers three questions (Where am I going? How am I doing? Where to next?) improves learning](feedback-answers-three-questions-improves-learning.md) — related

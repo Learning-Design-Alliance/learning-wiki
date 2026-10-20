@@ -45,3 +45,4 @@ Small-scale survey of teachers' practices and beliefs about pronunciation in the
 ## Related Claims
 - [Most prospective teachers see constructivist conceptions as highly valuable but not very applicable, and traditional conceptions as not valuable but highly applicable](constructivist-valued-but-not-applicable-person-level.md) — related
 - [A minority of prospective teachers show consonance, believing each conception dimension is both valuable and applicable](consonance-both-valuable-and-applicable-minority.md) — related
+- [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — related

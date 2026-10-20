@@ -47,3 +47,6 @@ Theoretical argument in the reply, departing from Mayer's position that motivati
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a narrower finding that bears on this claim
 - [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
+- [Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory](triarchic-processing-separable-measures.md) — related
+- [Task-essentialness and productive use of new words in goal-directed activity may positively affect vocabulary learning and retention](task-essentialness-goal-directed-vocabulary-retention.md) — related
+- [Total adherence to instructional design principles does not correlate with learning outcomes, mental effort, or motivational variables](principle-adherence-no-correlation-with-outcomes.md) — related

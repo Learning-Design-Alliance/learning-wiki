@@ -47,3 +47,4 @@ The brief reports that "The youngest students (current third-graders who were ki
 - [Pandemic achievement gaps in math and reading continued to narrow from spring 2021 through fall 2022](pandemic-achievement-gaps-narrowed-spring-2021-fall-2022.md) — related
 - [Reading and math achievement gains in 2021-22 paralleled pre-pandemic trends in many grades, with stronger rebounding in math and among younger students](pandemic-rebound-2021-22-gains-paralleled-prepandemic.md) — reports the opposite
 - [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related
+- [Middle school achievement declines in spring 2022 appear to be mostly unchanged from earlier pandemic levels](middle-school-declines-mostly-unchanged-2022.md) — related

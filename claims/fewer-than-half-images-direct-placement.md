@@ -46,3 +46,6 @@ Analysis of spatial placement in the 103-image working data set (after excluding
 
 - [Intervening visual units were moderately common and appeared more often in structure diagrams than process diagrams](intervening-units-more-common-structure-diagrams.md)
 - [Over a third of images in middle school life science textbooks prompt students to compare visual units](textbook-images-prompt-comparison-37-percent.md)
+- [Comparison prompts are strongly concentrated in process diagrams (93%) and rare in photos (20%)](comparison-frequency-varies-by-image-type.md) — related
+- [Anatomy images were more likely than evolution images to have direct placement only](anatomy-more-direct-placement-than-evolution.md) — related
+- [Prior experiments report direct placement makes comparison consistently more accurate than impeded placement (d = .49 for shape triplets)](direct-placement-improves-comparison-accuracy.md) — related

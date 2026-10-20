@@ -48,3 +48,5 @@ Document analysis of AERA annual meeting program pdfs (10 files for 2005–2014,
 - Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB — related
 - [Teacher concerns do not significantly moderate the support-confidence relationship nor directly predict confidence or attitudes](teacher-concerns-do-not-moderate-support-effects.md) — related
 - [Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support](descriptive-profile-teacher-ai-attitudes-concerns-confidence.md) — related
+- [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
+- [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related

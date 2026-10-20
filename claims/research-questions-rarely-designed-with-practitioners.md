@@ -46,3 +46,5 @@ Theoretical argument in the report's abstract and introduction, citing the Natio
 - Including educator voice helps researchers understand educator, student, and system needs — possibly the same claim (merge candidate)
 - [Classroom teachers rarely consult research when making decisions about their classroom practices, citing time constraints, the vastness of research, paywalls, and perceived distance from practice](teachers-rarely-consult-research-decision-making.md) — related
 - [Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact](unstandardised-ai-reporting-harms-reproducibility-and-review.md) — related
+- [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [Much student-consultation activity embeds unwitting manipulation of students rather than genuine voice](student-consultation-embeds-unwitting-manipulation.md) — related

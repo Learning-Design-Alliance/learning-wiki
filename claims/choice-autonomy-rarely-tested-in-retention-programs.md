@@ -67,3 +67,5 @@ The review's own synthesis of Table 1, which codes 12 studies by which needs eac
 - [Retention programs interpreted as meeting all three SDT needs show higher persistence and standing](retention-programs-meeting-all-three-needs-higher-persistence.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [Student choice is rare in authentic assessment designs while assigned, sometimes graded, self-reflection is more common](aa-student-choice-rare-reflection-assigned.md) — related
+- [In Pilot District 3, majorities of students agreed that Compact Writing Assignments gave them topic choice and that autonomy and varied expression formats improved engagement and writing quality](compact-writing-assignments-student-choice-engagement.md) — related
+- [Students taught with the Self-Determined Learning Model of Instruction gain in self-determination, but not significantly more than a delayed-treatment control group](self-determined-learning-model-of-instruction-improves-self-determination.md) — related

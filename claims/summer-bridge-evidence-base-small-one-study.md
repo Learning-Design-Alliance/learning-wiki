@@ -46,3 +46,5 @@ Systematic review conducted using the WWC Procedures and Standards Handbook, ver
 - Of 99 comparison-group studies of college access programs identified, 16 studies of 10 programs met WWC standards — related
 - [Summer bridge programs have potentially positive effects on college degree attainment, with graduation rates of 70% for participants versus 67% for non-participants](summer-bridge-potentially-positive-degree-attainment.md) — related
 - [No studies meeting WWC standards report summer bridge outcomes in college access and enrollment, credit accumulation, general academic achievement, or labor market domains](summer-bridge-no-evidence-four-other-domains.md) — related
+- [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
+- [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related

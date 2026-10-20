@@ -67,3 +67,4 @@ Perceived-safety analyses from the same review: an association with improved saf
 ## Related Claims
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
+- [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related

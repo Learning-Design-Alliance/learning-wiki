@@ -52,3 +52,4 @@ Exploratory HLM moderation analyses including only African American and Caucasia
 - [Ethnic-minority elementary-age children report higher awareness of ethnicity-based stigma than European-American children](ethnic-minority-children-higher-stigma-awareness-middle-childhood.md) — related
 - [Children's positive feelings about school attenuate the relationship between aggression and academic development](feelings-about-school-protective-moderator.md) — related
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related
+- [No significant ethnic differences in behavior problems or self-concept among children with ADHD, though Caucasian children had the lowest mean self-concept](no-significant-ethnic-differences-self-concept-adhd.md) — related

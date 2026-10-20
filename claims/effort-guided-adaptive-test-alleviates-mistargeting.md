@@ -47,3 +47,8 @@ A simulation study (not a human experiment) evaluated the proposed effort-guided
 - An effort-guided CAT that holds the provisional achievement estimate constant after rapid guesses reduces standard errors and ameliorates severe item mis-targeting — possibly the same claim (merge candidate)
 - Solution behavior accuracy does not decrease across item positions, contradicting decreasing effort models of unmotivated test taking — related
 - Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking — related
+- [Simulations of adaptive, multistage, and fixed form tests show the adaptation measures can be used operationally to identify difficulties with adaptation](simulation-shows-adaptation-measures-identify-difficulties.md) — related
+- [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
+- [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — related
+- [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related

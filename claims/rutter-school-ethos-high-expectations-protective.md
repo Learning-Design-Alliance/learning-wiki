@@ -48,3 +48,5 @@ The review reports, citing Rutter's Fifteen Thousand Hours study of London schoo
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
 - Persons with high self esteem and high social interest sustain extended exchange under conflict, while low self esteem persons withdraw prematurely — related
+- [Early Risers shows no discernible effects on emotional/internal behavior for children at risk of emotional disturbance classification](early-risers-no-effect-internal-behavior.md) — related
+- [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — related

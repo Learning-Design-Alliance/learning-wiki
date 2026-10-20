@@ -52,3 +52,5 @@ Differential item and test functioning analyses across seven teacher characteris
 - [The 16-item CT–PCK Survey shows internal consistency reliability around .71–.72 and person separation reliability of .69](ct-pck-reliability-internal-consistency.md) — related
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — related
 - [Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status](cultivate-items-no-bias-across-student-groups.md) — related
+- [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — related
+- [The Fisher Fellowship selection instrument is reliable, though three of 34 items had relatively low levels of one type of reliability](fisher-fellowship-selection-instrument-reliable.md) — related

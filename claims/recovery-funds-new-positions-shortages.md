@@ -48,3 +48,5 @@ Survey finding from the report's section on district responses: "9 out of 12" di
 - [Recruitment and retention of teaching staff is an activity integral to school improvement efforts under SIG, and the article presents findings on it in rural schools](staffing-recruitment-retention-integral-sig-improvement.md) — related
 - 77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position — related
 - [Districts with shortages most often lack special education, mathematics, and science teachers, and most lack middle and high school teachers](shortage-subjects-special-education-math-science.md) — related
+- [Limited human capital is one of the biggest challenges in rural school turnaround, making SIG staff-replacement requirements often neither possible nor desirable](rural-limited-human-capital-challenges-sig-staff-replacement.md) — related
+- [Few SIG schools with high ELL enrollments used staffing strategies to build teacher capacity for serving ELLs](few-sig-schools-staffing-strategies-ell-teacher-capacity.md) — related

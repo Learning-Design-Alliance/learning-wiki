@@ -46,3 +46,5 @@ Conceptual, theory-building argument in which the author contends the seven para
 - [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related
 - [An epistemological account of human-GAI engagement lays a foundation for alternative approaches to teaching, assessment, professional development and AI governance](epistemological-gai-account-informs-teaching-assessment-governance.md) — related
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
+- [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
+- [Evaluator staff capacities centered on creating conditions for participation rather than technical control](staff-capacities-creating-conditions.md) — a narrower finding that bears on this claim

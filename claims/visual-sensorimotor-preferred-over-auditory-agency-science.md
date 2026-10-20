@@ -47,3 +47,5 @@ One-way repeated measures ANOVA on the Learning Preferences Questionnaire respon
 - [Girls exhibited significantly higher learning preferences than boys for visual means and agency support, with no significant gender differences for auditory or sensorimotor modalities](girls-prefer-visual-and-agency-support.md) — related
 - [Students' preference levels for the four learning modalities were positively correlated, and cluster analysis separated a lower-preference group (135 students) from a higher-preference group (170 students)](learning-preferences-correlated-two-clusters.md) — related
 - [In hierarchical regression, gender and LD status contributed 6.4% to science achievements, and auditory learning preference contributed a further significant 3.1% beyond them](auditory-preference-predicts-achievement-beyond-gender-ld.md) — related
+- [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
+- [Science learning-preference levels did not differ significantly between students with and without learning disabilities](no-preference-differences-by-learning-disability.md) — related

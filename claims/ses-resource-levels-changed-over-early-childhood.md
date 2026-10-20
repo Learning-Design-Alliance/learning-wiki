@@ -44,3 +44,5 @@ Weighted descriptive statistics from ECLS-B (Table 1) documented change in SES r
 
 ## Related Claims
 - [The relationship between socioeconomic resources and children's cognitive development strengthens from infancy to a peak around age 4–4½, then weakens slightly by kindergarten entry.](ses-cognitive-relationship-peaks-prekindergarten.md) — related
+- [The SES–positive behavior relationship follows the same curvilinear pattern but is weaker in magnitude than the SES–cognitive relationship at every wave.](ses-behavior-relationship-weaker-curvilinear.md) — related
+- [More than a third of NAZ residents live in households with incomes below the federal poverty level](naz-residents-36-percent-below-federal-poverty-level.md) — related

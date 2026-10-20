@@ -66,3 +66,4 @@ Exploratory RQ3 survey measures excluded from FDR correction. The authors attrib
 - [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
 - [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — a broader claim this one bears on
+- [VeriForge raises perceived creativity support and lowers workload relative to a same-retrieval baseline, with mixed survival after correction](veriforge-creativity-support-workload.md) — related

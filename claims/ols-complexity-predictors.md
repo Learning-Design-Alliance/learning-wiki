@@ -47,3 +47,5 @@ OLS regression over the 2,910 generated responses using textstat grade-level sco
 - [Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions](prompt-personalization-measurable-response-variation.md) — a broader claim this one bears on
 - [In human evaluation, abstraction preference was associated with perceived response quality, and more complex questions generally received lower ratings](abstraction-perceived-quality-human-study.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Verbosity preference is associated with systematic variation in LLM response length](verbosity-preference-response-length.md) — related

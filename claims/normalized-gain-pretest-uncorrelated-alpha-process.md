@@ -51,3 +51,5 @@ Analytical derivation (Section III) solving the α-process differential equation
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related
 - [Alpha of knowledge tests increases after interventions from pretest to posttest](knowledge-test-alpha-increases-after-intervention.md) — related
+- [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [Prior physics knowledge moderated the correlation between feeling of learning and actual test performance (positive interaction, P < 0.05)](prior-knowledge-moderates-feeling-of-learning-accuracy.md) — related

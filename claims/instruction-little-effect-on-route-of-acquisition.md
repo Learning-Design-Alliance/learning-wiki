@@ -51,3 +51,8 @@ The paper reports, citing Ellis and LaPorte (1997), that "it has been demonstrat
 - There is no direct evidence that comprehensible input is necessary for L2 acquisition; the input hypothesis remains untested — related
 - Grammar instruction and skill drills show little carryover to composition success — a narrower finding that bears on this claim
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related
+- [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
+- [Mental representation is not amenable to direct explicit instruction because UG and parsers operate only on input data](mental-representation-not-directly-instructable.md) — related
+- [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — reports the opposite
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — reports the opposite
+- [Conversational interaction facilitates second language grammatical development in adult ESL learners](interaction-facilitates-l2-grammatical-development.md) — related

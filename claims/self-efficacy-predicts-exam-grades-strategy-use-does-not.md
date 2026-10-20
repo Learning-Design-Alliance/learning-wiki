@@ -52,3 +52,7 @@ Multiple regression for hypothesis H3 with cognitive strategy use, metacognitive
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
 - [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](short-term-prompts-do-not-change-self-efficacy.md) — related
 - [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md) — related
+- [Neither self-efficacy nor course type statistically predicted students' decisions to continue ChatGPT feedback conversations](self-efficacy-course-type-not-predict-continued-ai-conversations.md) — related
+- [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — related
+- [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](no-academic-performance-improvement.md) — related
+- [Self-report metacognitive knowledge (MAI subscales) does not significantly predict metacognitive sensitivity](mai-subscales-do-not-predict-metacognitive-sensitivity.md) — related

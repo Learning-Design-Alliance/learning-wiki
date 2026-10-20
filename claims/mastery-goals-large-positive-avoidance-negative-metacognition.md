@@ -44,3 +44,6 @@ Structural equation modeling of the hypothesized model fitted to 421 effective s
 
 ## Related Claims
 - [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related
+- [Six relationships in the model differ for less effective self-regulators, including performance-avoidance goals being unrelated to metacognition](model-differences-less-effective-self-regulators.md) — related
+- [Performance-approach goals are directly related to the use of surface cognitive and resource management strategies in effective self-regulators](performance-approach-goals-surface-resource-strategies.md) — related
+- [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related

@@ -70,3 +70,5 @@ The brief's headline result states that "Three Elementary Math Curricula Outperf
 - [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](math-expressions-saxon-percentile-advantage-first-grade.md) — related
 - The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula — related
 - [A large-scale experimental study compared the effects of the four mathematics curricula on student achievement](large-scale-experimental-study-curricula-achievement.md) — a broader claim this one bears on
+- [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
+- [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](ies-math-curricula-evaluation-second-report.md) — related

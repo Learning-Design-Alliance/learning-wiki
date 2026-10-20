@@ -46,3 +46,4 @@ Offline full-scale IP recourse evaluation on OULAD test instances, with 127,972 
 - [Activating availability constraints in the IP pipeline lowers SHACL conformance to 0.875 without reducing optimization cost, exposing infeasible plans](semantic-validation-exposes-infeasible-plans.md) — related
 - [A calibrated logistic-regression model predicts next-assessment pass/fail strongly on OULAD at both decision horizons](oulad-calibrated-logistic-regression-strong-prediction.md) — related
 - [Baseline LR and XGBoost models achieve comparable predictive performance on OULAD, with XGBoost slightly higher AUC-ROC](baseline-model-performance-oulad-lr-xgboost.md) — related
+- [The baseline and capacitated facility location formulations of school aggregation are formally equivalent](equivalent-school-aggregation-formulations.md) — related

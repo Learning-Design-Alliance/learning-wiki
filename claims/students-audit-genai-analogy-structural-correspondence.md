@@ -47,3 +47,5 @@ Reflexive thematic analysis of think-aloud and interview data from ten CS2-compl
 - [Students apply precision-of-language as a distinct evaluation criterion, flagging hedging phrases as open to interpretation and proposing concrete substitutions](precision-of-language-evaluation-criterion.md) — related
 - [CS/SE educators rate ANVIL analogies highly and animations as generally faithful, with disagreement concentrated in borderline and visual-clarity judgments](anvil-educator-ratings-analogy-animation-quality.md) — related
 - [Trust in personalized analogies moved in no single direction, while critical scrutiny tracked domain expertise more consistently than personal interest](trust-mixed-scrutiny-tracks-expertise.md) — related
+- [Educators identify a risk of pedagogical mismatch when generated animations fail to preserve key constraints of the target concept](anvil-pedagogical-mismatch-risk.md) — related
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related

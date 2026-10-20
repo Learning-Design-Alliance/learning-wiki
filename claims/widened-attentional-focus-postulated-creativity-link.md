@@ -45,3 +45,4 @@ The article states this as a prior postulate motivating the study, not as a resu
 ## Related Claims
 - [Adolescents with ADHD exhibit selective cognitive advantages and disadvantages on creativity measures relative to healthy controls](adhd-selective-creativity-advantages-disadvantages.md) — a narrower finding that bears on this claim
 - [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related
+- [Adults with ADHD report more real-world creative achievements than healthy controls](adhd-more-real-world-creative-achievements.md) — a narrower finding that bears on this claim

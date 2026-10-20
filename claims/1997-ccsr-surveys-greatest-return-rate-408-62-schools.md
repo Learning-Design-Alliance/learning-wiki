@@ -44,3 +44,4 @@ Descriptive participation counts from the report's introduction for the spring 1
 
 ## Related Claims
 - [The 1997 Chicago Annenberg surveys reached 308 elementary schools and 62 high schools with response rates high enough to receive individual school reports](1997-ccsr-surveys-308-elementary-62-high-schools.md) — reports the opposite
+- [The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools](2005-ccsr-survey-participation-454-schools.md) — related

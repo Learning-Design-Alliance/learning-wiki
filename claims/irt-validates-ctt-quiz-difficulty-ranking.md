@@ -47,3 +47,5 @@ IRT validation using the py-irt package on results from 765 Immunology students 
 - [CTT and MFRM yield similar item difficulty results for open-ended questions regardless of crossed or nested design](ctt-mfrm-agreement-robust-to-design.md) — related
 - [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related
 - [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related
+- [Items ranked from easiest to most difficult are identical under CTT and MFRM](identical-item-difficulty-ranking-ctt-mfrm.md) — related
+- [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related

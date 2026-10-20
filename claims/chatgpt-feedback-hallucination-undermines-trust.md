@@ -68,3 +68,6 @@ Interview response from Tina, one of three students in the ChatGPT feedback grou
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related
 - LLM-assisted inductive qualitative coding carries risks of superficial themes, broad or redundant codes, and hallucinated interpretations, so LLMs should augment rather than replace human researchers — a broader claim this one bears on
+- [First-year EAP students prefer a hybrid feedback model combining AI-generated comments with instructor feedback over either source alone](students-prefer-hybrid-ai-instructor-feedback.md) — related
+- [Thematic analysis of open responses surfaced four themes: immediacy as core value, calibrated trust, pinpointing the mistake, and progress and control](four-qualitative-themes-genai-practice-feedback.md) — related
+- [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — related

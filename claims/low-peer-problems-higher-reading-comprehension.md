@@ -46,3 +46,5 @@ Independent samples t-test comparing reading comprehension (GORT-4) between grou
 - [Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems](high-reading-group-low-externalizing-behaviors.md) — related
 - [Low kana pick-out story comprehension score is associated with decreased intrinsic academic motivation in junior high school students](low-kana-comprehension-associated-junior-high-motivation-decline.md) — related
 - [Peer problems show a significant inverse correlation with reading comprehension (r = -.304)](peer-problems-inverse-correlation-reading-comprehension.md) — related
+- [Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems](peer-problems-only-significant-predictor-reading-comprehension.md) — possibly the same claim (merge candidate)
+- [Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample](hyperactivity-conduct-problems-not-significant-predictors.md) — related

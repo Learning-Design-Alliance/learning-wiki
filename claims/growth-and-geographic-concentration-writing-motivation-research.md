@@ -47,3 +47,5 @@ Systematic review characteristics synthesis: the review reports publication grow
 - [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related
 - [China has overtaken the US as the leading producer of AIEd higher education publications](china-overtakes-us-ai-ed-he-publications.md) — related
 - [Geographical region moderated several engagement-correlate relations, with Eastern students showing higher relations than Western students](region-moderates-engagement-correlate-relations.md) — related
+- [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
+- [The belief that the United States exclusively dominates the AI arena is challenged by the rapid ascent of China](us-exclusive-ai-dominance-challenged-by-china.md) — related

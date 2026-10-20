@@ -43,3 +43,8 @@ Review narrative of Calvo and Bialystok (2014) within the attention results: the
 ## Related Claims
 
 - [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](task-complexity-moderates-bilingual-effect.md)
+- [Monolingual and bilingual children perform the dichotic comprehension task equivalently, with both groups finding English–English interference hardest](equivalent-comprehension-monolingual-bilingual-children.md) — related
+- [Unattended Musical Rain streams were better reconstructed than unattended linguistic distractors in both groups, with stronger MuR encoding in monolinguals](unattended-mur-stronger-encoding.md) — related
+- [The study found no evidence for enhanced attentional capacity in bilingual children, behaviourally or neurally](no-bilingual-attentional-capacity-enhancement.md) — reports the opposite
+- [Bilingual children show a flatter pattern of attended-speech encoding across conditions, driven by weaker encoding in low- or no-interference conditions](bilingual-flatter-attended-encoding-pattern.md) — related
+- [Bilingual children solve the Sky Search selective attention task faster than monolinguals across the studies using it](bilingual-faster-sky-search-selective-attention.md) — related

@@ -46,3 +46,5 @@ Thematic synthesis of multiple reviewed studies. The review reports that "ESL te
 - [The ESL curriculum within Bangladesh's CLT framework overlooks explicit pronunciation instruction, ignoring speaking and listening skills](clt-curriculum-overlooks-explicit-pronunciation-bangladesh.md) — related
 - [Absence of focused pronunciation assessment within the CLT framework hinders monitoring of learners' pronunciation progress](no-pronunciation-assessment-clt-bangladesh.md) — related
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
+- [Teachers attribute students' lack of pronunciation progress mainly to instruction and practice factors rather than learner factors](teachers-blame-instruction-over-learners-for-progress.md) — related
+- [Teachers' attention easily diverts to English learners' grammar, vocabulary, and pronunciation even when unrelated to the day's learning goal](teacher-attention-diverted-el-grammar.md) — related

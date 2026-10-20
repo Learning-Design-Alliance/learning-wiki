@@ -48,3 +48,5 @@ Key finding from a Mathematica brief summarizing a study of Ecree in grade 8–1
 - [Technical integration with learning management systems and existing teacher tools eases Ecree adoption](lms-integration-eases-ecree-adoption.md) — related
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — possibly the same claim (merge candidate)
+- [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related
+- [Teachers reported curriculum and technical integration challenges when implementing Ecree and MI Write](teachers-reported-curriculum-technical-integration-challenges.md) — related

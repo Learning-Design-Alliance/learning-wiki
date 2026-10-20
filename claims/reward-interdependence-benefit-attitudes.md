@@ -56,3 +56,9 @@ One experiment is recorded (Brewer & Klein 2003); the outcome is self-reported a
 - [Methods derived from all four theoretical perspectives contribute to achievement gain under certain conditions](all-four-perspectives-contribute-under-conditions.md) — related
 - [Competition raises idea originality for all participants but does not affect fluency or flexibility](competition-main-effect-originality-not-fluency.md) — related
 - [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](cooperative-learning-more-effective-than-competitive-structures.md) — related
+- [Higher numbers of interactions are associated with higher posttest scores in asynchronous online small group work](interaction-quantity-correlates-posttest-online-groups.md) — related
+- [Participants reported that group processing affected their broader university experience and their experiences after university](group-processing-affects-broader-university-and-post-university-experience.md) — related
+- [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](anonymous-online-peer-review-differential-responses.md) — related
+- [Teacher education students in PBL identified valuing others' perspectives, interdependence, and learning about self as attitudes necessary for collaborative learning](pbl-attitudes-valuing-interdependence-self.md) — related
+- [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](kindergarten-triads-shared-computer-social-skills.md) — related
+- [Resistance messages in asynchronous discussions elicit most messages with perspectival understanding](resistance-messages-elicit-perspectival-understanding.md) — related

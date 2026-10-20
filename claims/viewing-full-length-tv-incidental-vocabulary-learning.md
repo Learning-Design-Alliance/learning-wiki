@@ -68,3 +68,4 @@ Design statement for the two experiments: "Two experiments were conducted with D
 - [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a broader claim this one bears on
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process](l1-l2-distinction-rate-not-outcome.md) — related
+- [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related

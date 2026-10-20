@@ -67,3 +67,7 @@ Teachers' interpretation of the Organization distribution (Figure 4): AES reads 
 - [The AES tool scored middle school essays more generously than teacher scorers overall and on three of four dimensions](aes-more-generous-than-teachers.md) — related
 - [LLM-based rubric scores agreed with expert ratings at the total-score level and on cognitive-process dimensions, but agreement was low for more subjective dimensions](ai-expert-agreement-cognitive-versus-subjective-dimensions.md)
 - [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md)
+- [Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change](aes-lowest-baseline-students-gain-most.md) — related
+- [Students perceive AI scoring as accurate for grammar, mechanics, and organization but skeptical of its ability to evaluate diverse styles, complex writing, tone, and emotion](ai-scoring-perceptions-lower-vs-higher-order.md) — related
+- [The GED essay is scored holistically on a six-point scale by two independent readers](ged-essay-holistic-six-point-two-readers.md) — related
+- [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md) — related

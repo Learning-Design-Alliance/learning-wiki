@@ -46,3 +46,4 @@ Re-estimation of teacher value added after applying mild nonlinear transformatio
 - [Mild departures from the original scale can change a teacher's odds of being classified high- or low-performing by a factor of 5](scale-transformation-changes-teacher-classification-odds-factor-5.md) — related
 - [Value-added teacher rankings are insensitive to correcting measurement error in the pretest, with correlations of 0.91–0.99 for elementary and 0.77–0.98 for middle school teachers](value-added-rankings-robust-to-eiv-correction.md) — related
 - [Teacher value-added estimates are sensitive to the test scale on which they are computed](value-added-sensitive-to-test-scale.md) — related
+- [Models with similar rank correlations differ substantially in estimating difficulty magnitude (RMSE and MAE)](llm-difficulty-magnitude-error-varies-across-models.md) — related

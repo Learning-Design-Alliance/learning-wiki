@@ -46,3 +46,5 @@ Correlational analysis in the online study (N = 425) with BCa bootstrapped confi
 ## Related Claims
 - [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](performance-and-idea-self-assessments-moderately-related.md) — related
 - [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](predictors-of-self-assessed-creative-performance.md) — related
+- [Self-assessed creative performance is slightly underestimated while self-assessed idea creativity is moderately overestimated](performance-underestimated-ideas-overestimated.md) — related
+- [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related

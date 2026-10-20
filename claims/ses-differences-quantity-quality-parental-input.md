@@ -56,3 +56,5 @@ Narrative review of observational studies comparing parental speech across SES g
 - [Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency](child-directed-speech-predicts-processing-efficiency.md) — related
 - [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — a narrower finding that bears on this claim
 - [Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity](number-talk-domain-specific-not-vocabulary.md) — a narrower finding that bears on this claim
+- [Substantial variability in maternal talk existed within this primarily low-SES sample, and maternal talk was uncorrelated with SES](maternal-talk-variability-within-low-ses-sample.md) — reports the opposite
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related

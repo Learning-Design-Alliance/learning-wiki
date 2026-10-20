@@ -46,4 +46,4 @@ Coh-Metrix L2 Readability Index analysis of the same hints, where higher values 
 - [Access](../learner-variables/access.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Hint-not-solution is the most challenging rubric dimension, with scores ranging from 6% to 81% across models](hint-not-solution-most-challenging-dimension.md) — related

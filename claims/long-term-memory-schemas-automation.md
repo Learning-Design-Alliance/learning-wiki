@@ -60,3 +60,4 @@ The review's abstract states the long-term memory side of the cognitive architec
 
 
 ## Related Claims
+- [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](organized-knowledge-enhances-functional-intelligence.md) — related

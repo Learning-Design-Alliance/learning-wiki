@@ -51,3 +51,4 @@ One-way ANOVA and descriptive comparison of survey scores across teacher charact
 - [Teachers scored across a wide range on the CT–PCK Survey, averaging about 61 percent correct, with 92 percent scoring above chance](ct-pck-score-range-distribution.md) — related
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
 - Teachers in schools serving more non-white students score lower on teacher licensure and literacy examinations — related
+- [Male teachers have lower observation and value-added scores than female teachers](male-teachers-lower-observation-and-value-added-scores.md) — related

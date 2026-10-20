@@ -45,3 +45,7 @@ The agenda reports, citing its own prior Consortium research (endnote 3, Jackson
 ## Related Claims
 - [High schools that foster 8th-to-9th-grade student growth across multiple dimensions positively influence students' social and academic trajectories](multidimensional-growth-schools-improve-long-run-outcomes.md) — related
 - [Schools' impacts on socioemotional development and behaviors in 9th grade matter substantially more for long-run trajectories than test score impacts](sed-behavior-impacts-exceed-test-score-impacts-long-run.md) — possibly the same claim (merge candidate)
+- [Fostering socioemotional development and fostering test score growth had nearly identical impacts on 9th grade test scores](sed-growth-nearly-identical-impact-ninth-grade-test-scores.md) — related
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
+- [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related
+- [School quality measures that exclude schools' impacts on socioemotional development underestimate or misidentify many impactful schools](quality-metrics-excluding-sed-misidentify-impactful-schools.md) — a narrower finding that bears on this claim

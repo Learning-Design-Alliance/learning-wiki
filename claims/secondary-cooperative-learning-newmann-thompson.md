@@ -68,3 +68,4 @@ Method comparison within the same secondary review. The authors speculated that 
 - Cooperative biology instruction raised achievement and improved perceived classroom atmosphere in Israeli junior high studies — a narrower finding that bears on this claim
 - Cooperative learning produces significantly greater achievement than traditional instruction in most long-duration controlled comparisons — a broader claim this one bears on
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related
+- [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related

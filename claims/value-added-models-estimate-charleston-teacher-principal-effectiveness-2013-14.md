@@ -45,3 +45,6 @@ Descriptive report abstract stating that value-added models were used to estimat
 ## Related Claims
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
+- [Professional practice ratings, student surveys, and value-added measures each have the potential to differentiate teacher performance in Pittsburgh Public Schools](pittsburgh-three-measures-differentiate-teacher-performance.md) — related
+- [There is little prior evidence on the validity of principal evaluation measures, and this is the first study linking practice ratings to credible value-added measures](first-study-principal-practice-ratings-value-added-validity.md) — related
+- [Teachers with higher Framework for Teaching scores tended to make larger contributions to student achievement (value added)](framework-scores-relate-to-value-added.md) — related

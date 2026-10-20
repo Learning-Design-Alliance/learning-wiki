@@ -49,3 +49,4 @@ Log analysis of submitted AI-agent session logs across the three conditions. The
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - [LMS process indicators documented adaptive engagement during the eight-week intervention, with most experimental students reaching mastery by unit end](lms-process-indicators-pilot.md) — related
 - [Domain-specific knowledge gains from the learning session were large but comparable across the three experimental conditions](knowledge-gains-comparable-across-prompt-conditions.md)
+- [Students in the GD and TD conditions did not differ significantly in time online or in adding, editing, or deleting elements in the Debate-tool.](no-condition-difference-tool-activity.md) — related

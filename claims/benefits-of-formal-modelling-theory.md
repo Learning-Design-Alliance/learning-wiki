@@ -67,3 +67,6 @@ Theoretical argument drawn from the Bayesian framework literature: without such 
 - [On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time](stanbkt-methods-comparable-predictive-performance-assistments-2020.md) — related
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
 - [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — a narrower finding that bears on this claim
+- [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
+- [Individualised counterfactual inferences estimate whether a specific student would have performed differently under different help conditions](individual-counterfactuals-student-help-conditions.md) — a narrower finding that bears on this claim
+- [Formal theory offers advantages over common sense for guiding implementation, but empirical evidence of effectiveness is lacking](formal-theory-advantages-over-common-sense.md) — related

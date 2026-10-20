@@ -45,3 +45,7 @@ The report compares ELs enrolling in CPS pre-k "prior to age four vs. enrolling 
 ## Related Claims
 - [Full-day pre-k attendance is associated with stronger pre-k attendance and kindergarten readiness in English language development and early literacy for ELs](full-day-prek-associated-el-kindergarten-readiness.md) — related
 - [ELs who attended a school-based CPS pre-k showed better third-grade attendance, grades, test scores, and English proficiency than peers who did not](school-based-prek-third-grade-el-outcomes.md) — related
+- [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — a broader claim this one bears on
+- [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a broader claim this one bears on
+- [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related
+- [Four-year-olds who miss more preschool score lower on kindergarten readiness measures of math, letter recognition, and social-emotional development, even after controlling for incoming skills](preschool-absence-lower-kindergarten-readiness-scores.md) — related

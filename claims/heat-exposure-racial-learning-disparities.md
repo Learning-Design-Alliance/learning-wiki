@@ -63,3 +63,4 @@ Same causal study as reported in the brief; disparities appeared tied to school 
 
 ## Related Claims
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
+- [Academic benefits of restorative practice exposure are stronger for Black and Latino/a students than for White students, suggesting practices can reduce racial gaps](restorative-practice-benefits-stronger-black-latino-students.md) — related

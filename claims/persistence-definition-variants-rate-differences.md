@@ -83,3 +83,4 @@ Comparative analysis of five persistence definition variants (Table 1) for CPS g
 ## Related Claims
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
 - [Students meeting the continuous four-term persistence definition completed college at higher rates than students meeting the third-semester definition, for both bachelor's and community college enrollees](persisters-completion-rates-by-definition.md) — related
+- [College persistence was similar among College Track completers and similar students who enrolled in college, despite College Track's stricter persistence definition](college-track-persistence-similar-stricter-definition.md) — related

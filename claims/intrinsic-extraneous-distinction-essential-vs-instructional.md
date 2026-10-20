@@ -46,3 +46,6 @@ Conceptual analysis in the article's abstract. The author argues that the same e
 - [Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load](element-interactivity-underlies-extraneous-load.md) — related
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
 - [The article analyzes the consequences of explaining the various cognitive load effects in terms of element interactivity](cognitive-load-effects-reexplained-via-element-interactivity.md) — a broader claim this one bears on
+- [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
+- [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — related
+- [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — reports the opposite

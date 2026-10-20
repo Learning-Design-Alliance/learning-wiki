@@ -45,3 +45,5 @@ Correlational analysis in the subset of 32 subjects who completed both perceptua
 ## Related Claims
 - [Memory metacognitive efficiency correlates with Wechsler Memory Scale scores, but perceptual metacognition does not](memory-metacognition-correlates-with-wms-scores.md) — related
 - [Memory metacognitive efficiency shows a non-significant negative relationship with age](memory-metacognitive-efficiency-nonsignificant-age-decline.md) — related
+- [Perceptual metacognitive efficiency declines with age in healthy adults aged 18–84, even when task performance is controlled](perceptual-metacognitive-efficiency-declines-with-age.md) — related
+- [The age-related decline in perceptual metacognitive efficiency reflects both rising d′ and falling meta-d′](d-prime-increase-meta-d-prime-decrease-drive-efficiency-decline.md) — related

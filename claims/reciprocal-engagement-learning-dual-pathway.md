@@ -50,3 +50,4 @@ Authors' interpretation of case-study observations in Sec. 7.2, where some parti
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
 - [The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console.](learning-support-preferences-differ-by-expertise.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
+- [SupplyNet was rated significantly higher than the Beer Game baseline on learning support (p<0.01), including connecting decisions to performance.](supplynet-higher-learning-support-than-baseline.md) — related

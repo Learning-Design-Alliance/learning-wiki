@@ -52,3 +52,6 @@ Time analysis (Table 8): five graders spent 138 minutes scoring 117 responses pl
 - [LearnLens reduces teacher feedback time, with half of teachers previously spending 10–30 minutes per assignment versus a median below 5 minutes with the system](learnlens-reduces-teacher-feedback-time.md) — a narrower finding that bears on this claim
 - [GPT-generated feedback passes simulated-student helpfulness evaluations only about 35% of the time on real student data](gpt-feedback-passes-automated-helpfulness-35-percent.md) — related
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — a broader claim this one bears on
+- [Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%](hitl-workflow-reduces-human-scoring-workload-50-percent.md) — related
+- [Under a simulated load of 100 concurrent users, Taklif.AI averaged 30 seconds end-to-end response time per request](load-test-100-concurrent-users-30-second-response.md) — related
+- [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related

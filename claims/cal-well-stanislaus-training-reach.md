@@ -49,3 +49,4 @@ Program evaluation brief reporting participation counts for SCOE mental health t
 - [The NAMI On Campus initiative in Stanislaus County grew from a couple of campuses to 20 high schools, 6 middle schools, and 1 university club with more than 500 mental health champions](nami-club-network-growth-stanislaus.md) — related
 - [SCOE supported 3,000 educators in almost 200 schools in receiving SEL training through RULER since 2019](scoe-3000-educators-ruler-sel-training.md) — related
 - [Through Project Cal-Well, SCOE established or renewed 70 community partnerships to improve school-based mental health services](scoe-70-community-partnerships.md) — related
+- [NAMI On Campus Club participants reported high confidence in their clubs' impact, with 72–100% agreement across survey items](nami-campus-club-survey-outcomes.md) — related

@@ -45,3 +45,5 @@ The report's profile of the National Institute for School Leadership Executive D
 ## Related Claims
 - [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related
 - [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — related
+- [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
+- [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related

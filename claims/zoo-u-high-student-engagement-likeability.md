@@ -64,3 +64,6 @@ Observer records and usage logs during the school computer-lab testing sessions.
 ## Related Claims
 
 - [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](zoo-u-subscale-intercorrelations-expected-overlap.md)
+- [Experimental-group participants rated TibetCPR highly usable (SUS = 84.3, an Excellent rating), with the highest items on voluntary engagement and independent use](tibetcpr-high-usability-sus-84-3.md) — related
+- [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
+- [Older adults rated the KOKU digital programme with excellent usability and high acceptability](koku-high-usability-acceptability.md) — related

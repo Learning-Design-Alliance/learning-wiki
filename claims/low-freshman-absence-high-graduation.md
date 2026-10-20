@@ -48,3 +48,6 @@ An observational analysis of Chicago Public Schools attendance and graduation re
 - [Freshman attendance below 85 percent predicts non-graduation even among students with similar grades](freshman-attendance-predicts-graduation-independent-of-gpa.md) — related
 - [Four-day school weeks have no detectable effect on high school attendance](four-day-week-no-effect-attendance.md) — related
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
+- [CHSRI freshmen were absent about 10 fewer days per year than similar students at similar non-CHSRI schools, a statistically significant gap in every year studied](chsri-freshmen-fewer-absences.md) — related
+- [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related
+- [Non-core course failures in ninth grade were associated with decreases in four-year graduation rates similar to core course failures](non-core-failures-graduation-risk.md) — related

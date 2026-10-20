@@ -61,3 +61,5 @@ Reliability analysis of the post-study Likert survey administered to undergradua
 - [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
+- [The full 32-item computing career intentions survey shows very good internal consistency (alpha = 0.94) in a large-scale field test](full-survey-internal-consistency-alpha-094.md) — related
+- [The SKT-SRL shows acceptable-to-very good internal consistency across subscales](skt-srl-reliability.md) — related

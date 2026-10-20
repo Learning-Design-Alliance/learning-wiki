@@ -51,3 +51,5 @@ The brief argues that lockdown procedures and survival trainings such as "Run, H
 - [School shooters are rarely the bullied loners of popular stereotype, and bullying prevention alone will not eliminate shootings](shooters-not-bullied-loners.md) — related
 - [State school safety legislation most commonly addresses emergency management, followed by the existence and structure of SSSCs and threat assessment](state-safety-legislation-focuses-emergency-management.md) — related
 - Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
+- [Metal detector effectiveness depends heavily on the human element: training, correct operation and functioning equipment](metal-detector-effectiveness-human-element.md) — related
+- [School shooters do not fit a single consistent profile; perpetrators, motivations, and attacks vary widely](no-consistent-school-shooter-profile.md) — related

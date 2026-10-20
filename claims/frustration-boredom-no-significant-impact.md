@@ -57,3 +57,5 @@ Exploratory affect modeling in the PFA-based regression: six affects were rated 
 - [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — related
 - [Frustration at not understanding a concept is perceived to motivate exploration and persistence, while frustration attributed to teachers or curriculum impairs motivation](frustration-epistemic-motivates-external-impairs.md) — related
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
+- [Emote-aloud protocols show learner emotions correlate systematically with AutoTutor dialogue features](emote-aloud-emotions-correlate-with-dialogue-features.md) — related
+- [Teachers link low motivation and buy-in to middle-school developmental constraints, peer norms, and prior negative experiences with math or i-Ready](motivation-buy-in-theme-persistence.md) — related

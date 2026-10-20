@@ -44,3 +44,6 @@ Cross-data-source finding from the pre/post surveys and focus groups of the prof
 
 ## Related Claims
 - [Educators in a UDL Math and Design Thinking professional development attributed shifts in their beliefs and practices to empathy, both as a value and as a practice of empathy interviews](empathy-attributed-shifts-beliefs-practices-udl-math-pd.md) — related
+- [Classroom teachers spontaneously adopted empathy interviews outside the design thinking cycle, using them with students and families for relationship building](empathy-interviews-adopted-beyond-design-cycle.md) — related
+- [Learning and teaching processes in networked learning are not static but have different dynamics at various stages of collaborative work](nl-processes-dynamics-vary-by-phase.md) — related
+- [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](self-perspective-shifts-as-learning.md) — related

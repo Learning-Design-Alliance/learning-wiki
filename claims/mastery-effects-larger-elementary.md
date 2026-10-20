@@ -47,3 +47,6 @@ Moderator analysis grouping the achievement studies by grade level (elementary, 
 - [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](mastery-learning-effects-larger-for-lower-aptitude-students.md) — the general claim this finding bears on, with the studies behind it
 - [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related
 - [Forming implementation intentions produces a medium-to-large positive effect (d = .65) on goal attainment across 94 independent tests](implementation-intentions-improve-goal-attainment.md) — related
+- [Personalized learning effects tended to be larger in elementary grades and were not statistically significant in high school grades](pl-effects-larger-elementary-nonsignificant-high-school.md) — related
+- [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — a broader claim this one bears on
+- [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related

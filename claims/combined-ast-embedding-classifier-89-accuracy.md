@@ -45,3 +45,4 @@ Evaluation of the combined classification approach on the 585-command expert-ann
 ## Related Claims
 - [An AST-only structural classifier substantially exceeds random baseline accuracy in predicting CogTax levels, with L1–L3 mutually confused and L4 perfectly precise](ast-baseline-taxonomy-level-classification.md) — related
 - [Taxonomy level is defined as the maximum of cognitive complexity and operational impact, ensuring monotone coverage of both dimensions](cogtax-max-rule-monotone-coverage.md) — related
+- [Combining semantic and process features yields the best difficulty prediction; semantic embeddings alone trail the full model by 7.4–12.1 macro-F1 points on SAT Math](full-representation-beats-semantic-only-ablation.md) — a broader claim this one bears on

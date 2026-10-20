@@ -45,3 +45,4 @@ Qualitative classroom observation study of 23 English/language arts classes acro
 ## Related Claims
 - [Observed classes in high-performing CHSRI schools showed high or medium student engagement and calm, well-behaved classrooms, with only one low-engagement class](chsri-classes-engagement-calm.md) — related
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related
+- [Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support](chsri-positive-student-teacher-relationships.md) — related

@@ -48,3 +48,5 @@ Null result from the nine single-construct SEM models regressing 9th-grade chron
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — related
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
 - [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related
+- [Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct](self-management-growth-predictive-beyond-status.md) — related
+- [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](self-management-growth-predicts-off-track-beyond-status.md) — related

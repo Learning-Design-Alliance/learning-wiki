@@ -47,3 +47,5 @@ The authors' summary judgment states that "the Full Roster Method offers the mos
 - [The Teacher Team Method and Full Roster Method produce similar estimates of teacher value added](teacher-team-and-full-roster-methods-produce-similar-estimates.md) — a narrower finding that bears on this claim
 - [The partial credit and teacher team methods for co-teaching are impractical](partial-credit-teacher-team-methods-impractical.md) — a narrower finding that bears on this claim
 - [The full roster and full roster-plus methods are empirically similar](full-roster-methods-empirically-similar.md) — related
+- [The Full Roster Method effectively counts co-taught students more than once in value-added calculations](frm-counts-cotaught-students-more-than-once.md) — related
+- [Applying the Full Roster-Plus Method instead of the Full Roster Method produces very small empirical differences in value-added estimates in District of Columbia Public Schools data](frp-vs-frm-very-small-empirical-differences.md) — related

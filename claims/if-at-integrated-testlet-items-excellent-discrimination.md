@@ -50,3 +50,6 @@ Item analysis of one case-study course's IF-AT-scored midterm (20 items, 51 stud
 - [Undergraduate physics students react highly positively to the IF-AT format](students-highly-positive-reaction-to-if-at.md) — related
 - [Item discrimination screening removed eight items using a critical-ratio criterion above 3](critical-ratio-item-discrimination-screening.md) — related
 - [Cumulative correct answers on blended-workshop activities relate to final exam score, but number of attempts does not](activity-accuracy-not-attempts-predicts-final-exam.md) — related
+- [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related
+- [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
+- [Partial credit accounts for only a small proportion of IF-AT exam scores, though weaker students depend on it more](if-at-partial-credit-small-proportion-of-score.md) — related

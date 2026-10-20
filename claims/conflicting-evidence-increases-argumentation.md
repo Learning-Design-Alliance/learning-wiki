@@ -43,4 +43,7 @@ Illustrative mechanism from the article's abstract: the nature of the perturbati
 
 
 ## Related Claims
--
+- [Macro scripts disturb a team's natural convergence and increase required interaction intensity](scripts-disturb-convergence-increase-interaction-intensity.md) — related
+- [Macro scripts foster knowledge-productive interactions: argumentation, explanations and mutual regulation](macro-scripts-foster-productive-interactions.md) — related
+- [Both constructive-conflict conditions produced substantially more idea editing between design iterations than unsupported self-reflection](constructive-conflict-increases-idea-editing.md) — related
+- [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — related

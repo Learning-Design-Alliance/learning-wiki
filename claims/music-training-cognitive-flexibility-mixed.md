@@ -59,3 +59,5 @@ The review reports that "10 studies (three in preschoolers and seven in school-a
 
 ## Related Claims
 - [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related
+- [Music training is associated with improved inhibitory control in children, though the largest studies found no executive function differences](music-training-improves-inhibitory-control-children.md) — related
+- [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related

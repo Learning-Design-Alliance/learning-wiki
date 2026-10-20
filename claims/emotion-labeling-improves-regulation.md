@@ -68,3 +68,5 @@ Kircanski, K., Lieberman, M. D., & Craske, M. G. (2012). Feelings into words: Co
 - The affective component is suggested to contribute at least as much to language learning as cognitive skills — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
 - [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](emotion-differentiation-linked-regulation-and-understanding.md) — a broader claim this one bears on
+- [When recalling their own experiences, 5- and 6-year-olds use metacognitive strategies more to alleviate sadness and fear than anger](metacognitive-strategies-more-for-sadness-fear-than-anger.md) — related
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related

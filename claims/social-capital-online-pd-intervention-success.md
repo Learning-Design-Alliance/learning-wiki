@@ -45,3 +45,6 @@ The editorial summarizes Yoon's reported study of an intervention administered t
 ## Related Claims
 
 - [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md)
+- [Science teachers reported high satisfaction with the quality and usability of the online asynchronous PD, including positive beliefs about tie quality, depth of interaction, and access to expertise.](high-satisfaction-social-capital-online-asynchronous-pd.md) — a narrower finding that bears on this claim
+- [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.](information-exchange-prompts-higher-transactivity.md) — a narrower finding that bears on this claim
+- [Two transactivity-supporting scripts each help dyads, but combining them appears to interfere](combined-transactivity-scripts-interfere.md) — related

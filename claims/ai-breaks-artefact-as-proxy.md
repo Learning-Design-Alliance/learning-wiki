@@ -65,3 +65,7 @@ Theoretical argument in a conceptual essay: assessment systems treated artefacts
 ## Related Claims
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
 - [Course design created frictions: undeclared programming prerequisites, copied AI-generated tutorial solutions, intimidating blackboard turns, and AI-guessing cycles for students lacking evaluation knowledge](kt1-design-frictions-programming-tutorials-ai-guessing.md) — related
+- [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
+- [Essay quality was highest for AI-generated drafts and lowest with no AI, negatively correlated with ownership, suggesting an ownership-quality tradeoff.](ai-draft-quality-ownership-tradeoff.md) — related
+- [ChatGPT-assisted students reported substantially lower ownership of their submitted code across self-attributed ownership, psychological ownership, and authorship attribution](chatgpt-lower-code-ownership.md) — related
+- [Participants report AI-generated database diagrams were less accurate than what students had previously produced, cautioning against assuming AI artifacts are better](ai-database-diagrams-less-accurate.md) — a narrower finding that bears on this claim

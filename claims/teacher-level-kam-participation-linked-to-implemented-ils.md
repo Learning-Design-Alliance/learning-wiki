@@ -45,3 +45,8 @@ Teacher-level descriptive analysis complementing the ILS-level results. Teachers
 ## Related Claims
 
 - [ILS reuse and edition as a proxy for knowledge appropriation relates to about four times higher adoption (19.77% vs 4.51%)](ils-reuse-appropriation-proxy-higher-adoption.md)
+- [Re-used Inquiry Learning Spaces were about four times more likely to be implemented than those created from scratch, and scaffolding increased the implementation rate](reused-ils-four-times-more-likely-implemented-scaffolding-increases.md) — related
+- [ILS adoption rate increases across knowledge maturation stages, from 3.38% for individually created ILSs to 43.94% for published ILSs](ils-adoption-increases-across-maturation-stages.md) — related
+- [Logistic regression shows all traced KAM practices except fading are significant positive predictors of adoption, with maturation strongest (odds ratios up to 12.36) and model AUC = 0.79](logistic-regression-kam-practices-predict-adoption.md) — related
+- [Expert scaffolding is associated with ILS adoption, but the fading stage shows a comparatively low rate (8.27%) and was a non-significant predictor](expert-scaffolding-associated-with-adoption-except-fading.md) — related
+- [The higher the maturation level of an Inquiry Learning Space (create, share, co-create, publish), the higher its probability of being implemented in a classroom](higher-maturation-level-higher-ils-implementation-probability.md) — related

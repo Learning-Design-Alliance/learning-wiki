@@ -45,3 +45,5 @@ WWC synthesis of Burroughs-Lange & Douëtil (2007) National Curriculum Assessmen
 - [Reading Recovery shows uncertain effects on mathematics achievement three years after the intervention](reading-recovery-uncertain-mathematics-achievement.md) — related
 - [Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention](reading-recovery-uncertain-longterm-academic-achievement.md) — related
 - [Reading Recovery improves writing productivity immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-writing-productivity.md) — related
+- [Reading Recovery positively impacts grade 1 literacy achievement immediately after the intervention, with moderate evidence from one randomized controlled trial](reading-recovery-improves-grade1-literacy.md) — related
+- [Reading Recovery has positive effects on general reading achievement for beginning readers, based on three randomized controlled trials](reading-recovery-positive-general-reading-achievement.md) — related

@@ -64,3 +64,5 @@ The results section states the round-2 outcome in the authors' words: "Nemo 12B 
 ## Related Claims
 - [Larger dense generators passed smoke probes but all exceeded the +30% classroom latency limit in bake-off round 1](larger-generators-fail-classroom-speed-gate.md) — related
 - [Head-to-head comparison exposes a security-usability-latency tension: NeMo reaches 0% bypass at 16.22% FPR and ~1.5 s latency while Prompt Guard yields 38.48% bypass at 3.60% FPR](nemo-prompt-guard-tradeoff-holdout.md) — related
+- [The most energy-efficient tested configuration consumes 1.8 mWh per query, a 43.8% reduction relative to the Qwen-7B FP16 baseline](energy-efficient-configuration-1-8-mwh-per-query.md) — related
+- [NF4 4-bit quantization reduces VRAM usage by 38.7% for Qwen-7B and 37.9% for DeepSeek-MoE while maintaining practical response times](nf4-quantization-vram-reduction.md) — related

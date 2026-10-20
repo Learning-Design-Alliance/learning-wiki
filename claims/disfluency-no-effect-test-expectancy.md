@@ -43,4 +43,6 @@ Eitel and Kuhl's experiment (as summarized in this commentary) had participants 
 
 
 ## Related Claims
--
+- [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — a broader claim this one bears on
+- [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
+- [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related

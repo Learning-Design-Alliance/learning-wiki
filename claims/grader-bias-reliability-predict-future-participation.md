@@ -43,4 +43,5 @@ Classification experiment on HCI dataset logs predicting next-assignment partici
 
 
 ## Related Claims
--
+- [Probabilistic peer grading models that estimate grader bias and reliability reduce RMSE against ground-truth grades by 33% and 31% on two HCI course offerings](probabilistic-peer-grading-reduces-rmse-over-30-percent.md) — related
+- [On the CASED challenge test set, all participating engagement-prediction methods converge near random-chance performance, with the best F1 Macro at 0.52](cased-challenge-methods-near-random-chance.md) — related

@@ -49,3 +49,6 @@ Qualitative finding from the authors' three-year coaching study: district encour
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - [Teachers reported increasing encouragement of risk-taking while coaches were less confident teachers actually took risks](dlp-risk-taking-perception-gap.md) — related
 - [Teachers who report coaching as a partnership report more improvement in classroom challenges and higher technology-use confidence; voluntary participation and non-evaluative support correlate with improvement in classroom challenges](coaching-partnership-voluntary-non-evaluative.md) — related
+- [Administrators' dual role as evaluator and coach can undermine the observation process's professional learning benefits](dual-evaluator-coach-role-undermines-learning.md) — related
+- [Workers and administrators who were presented with the CMR model viewed it as a comfortable transition into residential treatment](cmr-model-viewed-as-comfortable-transition.md) — related
+- [Community members reported that participating in a Community Socratic Circle helped them feel comfortable with teachers facilitating classroom racial discourse](community-socratic-circle-built-comfort-support.md) — related

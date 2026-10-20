@@ -48,3 +48,5 @@ Correlational analysis in Section 3.3 (Table 3): e.g. GPT-4.1 prompted for holis
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related
 - [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related
+- [Ensembles of operational raters outperform the LLMs: two raters suffice on average across aspects, but larger ensembles are needed for individual aspects](rater-ensembles-outperform-llms-feedback.md) — related
+- [Holistic peer feedback correlated significantly with tutor marks while specific-criteria rubric feedback did not in the PEARS system](pears-holistic-feedback-correlates-tutor-marks-specific-does-not.md) — related

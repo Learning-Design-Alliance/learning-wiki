@@ -47,3 +47,5 @@ Review reports two observational school studies: Mahar et al. (2006) observed si
 - [The least on-task students show the largest improvement after Energizers activities, improving on-task behavior by 20%](energizers-least-on-task-students-largest-gain.md) — related
 - [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — a broader claim this one bears on
 - [CB-PA interventions show no significant improvement in attention or on-task behavior in two of the twenty reviewed studies](cbpa-null-results-two-studies.md) — related
+- [In two reviewed studies, CB-PA improvements in attention measures were moderated by other variables such as cognitive engagement and timing](cbpa-effects-moderated-cognitive-engagement-timing.md) — related
+- [A classroom-based physical activity program (Energizers) increases children's daily in-school physical activity compared with no program](energizers-increased-in-school-steps.md) — related

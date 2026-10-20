@@ -50,3 +50,4 @@ Bivariate correlation analysis (Table 1) among the three estimation tasks in the
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related
 - [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](magnitude-processing-stronger-indirect-addition-items.md) — related
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — related
+- [The relation between kindergarten spatial orientation and arithmetic is partially mediated by number line estimation](number-line-estimation-partially-mediates-spatial-orientation-arithmetic.md) — related

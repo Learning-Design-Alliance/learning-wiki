@@ -47,3 +47,5 @@ Binomial GLM fitted with conversation-level attack success as the binary outcome
 - [Current LLMs are more vulnerable to education-specific risks such as academic misconduct and excessive cognitive load than to conventional safety risks in K-12 educational interactions](eduzone-education-specific-risk-vulnerability.md) — related
 - [No evaluated LLM tutor is reliably safe: every model exceeds 60% harm rate on at least five risk categories in single-turn and six in multi-turn evaluation](no-llm-tutor-reliably-safe-60-percent-harm.md) — related
 - [Task category is the dominant factor in agent performance: cross-category spread (26.3 points) far exceeds cross-model spread (8.8 points)](category-difficulty-dominates-model-differences-academiclaw.md) — related
+- [Adaptive multi-turn interactions substantially amplify LLM vulnerabilities to conventional safety risks in educational contexts](dynamic-multi-turn-amplifies-conventional-risks.md) — related
+- [Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses](taxonomy-augmented-guardrails-education-specific-risks.md) — related

@@ -47,3 +47,4 @@ Implementation study report by Mathematica, contracted by the Bill & Melinda Gat
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-aim-enhance-data-capacity.md) — related
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [The TSDL project's first year of implementation (2011) produced reportable implementation findings](tsdl-first-year-implementation-findings-2011.md) — related
+- [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related

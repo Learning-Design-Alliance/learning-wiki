@@ -45,3 +45,4 @@ Narrative review of behavioral studies of children's episodic memory, reporting 
 ## Related Claims
 - [The anterior hippocampus becomes functionally specialized for episodic memory around the transition to adolescence](anterior-hippocampus-functional-specialization-adolescence.md) — related
 - [Uncinate fasciculus and cingulum bundle continue developing into adulthood while fornix integrity is age-invariant from age 5, and uncinate integrity relates to recall](uncinate-cingulum-protracted-development-fornix-age-invariant.md) — related
+- [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related

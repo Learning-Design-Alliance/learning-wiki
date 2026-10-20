@@ -49,3 +49,6 @@ Matched-pair comparison of 109 pairs of recently hired under-certified and certi
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — reports the opposite
 - [Students of TFA teachers did not perform significantly differently from students of other under-certified teachers](tfa-no-different-other-undercertified.md) — related
 - [TFA secondary math teachers increase student math achievement by 0.07 standard deviations over one school year relative to other math teachers in the same schools](tfa-math-teachers-raise-achievement-007-sd.md) — reports the opposite
+- [BVI students in schools with more academic supports outperform on standardized math tests](academic-supports-bvi-math-outperformance.md) — related
+- [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — related
+- [TFA teachers show no discernible effects on English language arts achievement for students in grades pre-K-12](tfa-no-discernible-ela-effects.md) — related

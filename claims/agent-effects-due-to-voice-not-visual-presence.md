@@ -63,3 +63,7 @@ The review reports that Moreno and colleagues found transfer, not recall, enhanc
 ## Related Claims
 - [Agent appearance (iconic vs realistic) shows no significant difference in retention, transfer, or interest](apa-appearance-null-effect.md) — related
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — possibly the same claim (merge candidate)
+- [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — reports the opposite
+- [Animated personas produce better learning than static ones, and agent voice contributes significantly to learning](animated-persona-and-voice-effects.md) — related
+- [The review reports no evidence that the mere visual presence of a human-like body produces distinct effects, though likeable appearance improves motivation and transfer](no-evidence-mere-visual-presence-social-cue-hypothesis.md) — related
+- [APAs produce more definitive results for affective gain and group learning than for cognitive achievement gains](apa-affective-gain-stronger-than-cognitive.md) — related

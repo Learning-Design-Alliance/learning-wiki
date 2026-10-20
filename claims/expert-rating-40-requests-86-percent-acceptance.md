@@ -64,3 +64,4 @@ Topic-level contrast in the same 40-request expert rating study. The article att
 ## Related Claims
 - [In a usability study, 12 U.S. STEM teachers rated all generated learning interactives 7 or above for usability, averaging above 8.1, with 3 of 36 requests deemed too low quality to present](teacher-usability-study-average-rating-above-8-1.md) — related
 - [Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds](generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) — related
+- [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](maic-ui-learning-agency-gains-attributed.md) — related

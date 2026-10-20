@@ -48,3 +48,7 @@ The report summarizes prior Consortium research on school leadership, citing Dem
 - An innovation and improvement space in local school communities brought forward new leaders — related
 - In about a third of Chicago elementary schools, expanded local democratic participation served as a strong lever for systemic change focused on improved instruction — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — related
+- [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
+- [Respondents viewed local foundations, businesses, and community groups as promoting cross-sector collaboration, while competition, political divisions, and teachers' unions may hinder it](community-actors-promote-competition-unions-hinder-collaboration.md) — related
+- [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related

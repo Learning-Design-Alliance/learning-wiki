@@ -48,3 +48,4 @@ Conceptual synthesis in the technical foundation section of the review, arguing 
 - [Conventional training received significantly higher ratings for perceived realism and immersion than VR-based training (r=0.774)](conventional-training-higher-realism-immersion.md) — reports the opposite
 - [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related

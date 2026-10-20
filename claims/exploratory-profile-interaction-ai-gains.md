@@ -47,3 +47,4 @@ OLS interaction model pooling experimental and control participants (Equation 1)
 - [No reliable moderation of depth effects by baseline knowledge, though simple slopes suggest an exploratory pattern](no-reliable-moderation-baseline-knowledge.md) — related
 - [Accounting for learning behavior attenuates profile-related exam score differences, eliminating significance in Python](learning-behavior-attenuates-profile-score-differences.md) — related
 - [Students from higher-ranked universities and with stronger prior knowledge are more likely to adopt proactive and critical AI engagement](learner-profiles-predict-proactive-ai-engagement.md) — related
+- [GPA and prior topic knowledge do not moderate the performance effect of LLM-assisted self-study](gpa-prior-knowledge-do-not-moderate-llm-gains.md) — related

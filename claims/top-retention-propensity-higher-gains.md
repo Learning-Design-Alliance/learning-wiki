@@ -45,3 +45,4 @@ Descriptive comparison of gains by propensity category across grades 1988-1992 i
 ## Related Claims
 - [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](retention-associated-smaller-gains-than-promotion-chicago.md) — related
 - [The propensity-for-retention measure discriminates retained from not-retained students, with first-grade log-odds of retention more than three times greater for actually retained students](propensity-measure-discriminates-retained-students.md) — related
+- [Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change](third-grade-gain-dip-test-format-exception.md) — related

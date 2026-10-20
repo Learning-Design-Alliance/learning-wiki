@@ -53,3 +53,4 @@ Descriptive engagement outcome from the Results section of the single-school rep
 - READY4K! improves teacher-reported parental involvement at school — related
 - [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related
 - [Inclusive, family-focused co-curricular events deepened relationships between educators and parents](family-focused-co-curricular-events-relationships.md) — related
+- [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — a broader claim this one bears on

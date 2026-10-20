@@ -49,3 +49,5 @@ Authors' interpretive conclusion stated in the abstract, framed by Cognitive Loa
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — related
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — related

@@ -42,3 +42,6 @@ The editorial reports, citing Heim et al. (2013), a rapid serial visual presenta
 
 ## Related Claims
 - [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related
+- [Motivation modulates anticipatory attentional processing: high-interest stimuli produced larger LDAP-period amplitude over right parieto-occipital cortex](motivation-modulates-ldap-right-parieto-occipital.md) — related
+- [Motivation did not interact with visuospatial attention effects on post-stimulus visual evoked potentials to imperative stimuli](motivation-no-post-stimulus-vep-modulation.md) — related
+- [Adolescents show higher target-detection sensitivity (d-prime) for high-interest than low-interest stimuli, with better performance in the right hemifield](interest-boosts-adolescent-detection-sensitivity.md) — related

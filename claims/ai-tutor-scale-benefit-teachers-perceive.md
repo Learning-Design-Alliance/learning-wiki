@@ -52,3 +52,4 @@ In the scenario-based interviews, teachers framed this in terms of their own lim
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related
 - [Educators redefined AI's educational role from answer provider to learning partner and tutor supporting conceptual understanding](ai-learning-partner-tutor-redefinition.md) — related
+- [Foundations can serve more people by identifying and supporting effective interventions that are ready to be scaled](foundations-scale-by-supporting-ready-interventions.md) — related

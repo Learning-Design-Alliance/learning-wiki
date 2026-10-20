@@ -48,3 +48,5 @@ Mixed-design ANOVA of coded human–AI interaction logs from 51 postgraduate stu
 - [Trust in customized agents was associated with clear, accurate, and contextually aligned feedback](trust-customized-agents-accuracy-contextual-alignment.md) — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
 - [Directive feedback is associated with higher cognitive load than Socratic feedback, with no agent-type effects on learning experiences](directive-feedback-higher-cognitive-load.md) — related
+- [Socratic feedback is associated with higher task orientation and comprehension monitoring than directive feedback; on feedback regulation it has no main effect, but its effect depends on agent type](socratic-feedback-comprehension-monitoring-task-orientation.md) — related
+- [AWE tools such as Grammarly, Quillbot and DeepL Write significantly improve writing precision, fluency and grammatical proficiency through immediate and customized feedback](awe-improve-precision-fluency-grammatical-proficiency.md) — a broader claim this one bears on

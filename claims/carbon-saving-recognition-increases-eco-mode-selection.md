@@ -46,3 +46,5 @@ In the same GLMM analysis of the live-interface study, "recognition of carbon-sa
 - [Eco-mode selection in an LLM interface declines sharply as response latency increases, dropping from about 45% of interactions in eco mode 1 to below 5% in eco mode 5](eco-mode-selection-declines-with-latency.md) — related
 - [Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases](eco-mindedness-raises-baseline-eco-preference-limited-by-latency.md) — related
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related
+- [User satisfaction with eco modes declines sharply from mode 1 (mean 3.64) to modes 4–5 (means 2.35 and 2.06)](eco-mode-satisfaction-declines-across-modes.md) — related
+- [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related

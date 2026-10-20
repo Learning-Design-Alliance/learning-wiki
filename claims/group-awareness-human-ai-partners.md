@@ -49,3 +49,8 @@ Theoretical argument extending group awareness research to human-AI collaboratio
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related
 - [AI-assisted ideation was conditionally acceptable when researchers retained decision-making authority, but problematic when it displaced conceptual labour](conditional-ideation-dialogic-aid-vs-outsourcing.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
+- [AI connectedness is psychologically real but ethically asymmetric, carrying conditional rather than inherent risks](ai-connectedness-psychologically-real-ethically-asymmetric.md) — related
+- [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
+- [Evidence exists for AI agents as collaborative partners, but more work is needed on how computing agents can best support learning of AI itself](ai-partners-evidence-but-more-work-needed.md) — related
+- [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related
+- [Awareness prompts stimulated discourse about more concepts but did not improve shared drawing quality in elementary dyads](awareness-prompts-discourse-not-drawing-quality.md) — related

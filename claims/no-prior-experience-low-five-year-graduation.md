@@ -46,3 +46,5 @@ Kaplan-Meier analysis of PCC graduation data for the 49 students without prior c
 - [Students with prior college experience graduated faster, averaging at least 0.9 years after re-enrolling versus at least 4.8 years for students without prior college experience](prior-college-experience-faster-pcc-graduation.md) — related
 - [Thirty percent of PCC teacher education students seeking an associate's degree graduated on time within two years](pcc-teacher-education-thirty-percent-ontime-graduation.md) — related
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related
+- [The overall estimated average graduation time for PCC teacher education students was at least 2.6 years](overall-average-graduation-time-2-6-years.md) — related

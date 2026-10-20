@@ -46,3 +46,4 @@ Blinded expert annotation study rating plausibility of 205 authentic and 196 syn
 ## Related Claims
 - [Blinded expert annotators misclassified 83.7% of LLM-generated errors as human-written](blinded-annotators-misclassify-83-7-percent-of-llm-errors-as-human.md) — related
 - [BEAGLE's error recurrence rate (86.2%) falls within the realistic novice envelope, far above vanilla LLMs (7.8%) and below rule-based SimStudent's mechanical saturation (92.0%)](beagle-error-recurrence-novice-envelope.md) — related
+- [LLM-generated erroneous code aligns with authentic student errors at levels that depend on model and prompting strategy, with Claude Sonnet 4 most consistently aligned](llm-error-alignment-depends-on-model-and-prompting-strategy.md) — related

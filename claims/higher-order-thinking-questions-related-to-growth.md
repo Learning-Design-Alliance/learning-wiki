@@ -48,3 +48,5 @@ The Key Findings list includes this higher-order questioning practice among thos
 - [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — a broader claim this one bears on
 - [Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth](pre-reading-meaning-focus-related-to-growth.md) — related
 - [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related
+- [Engaging students in defining new words during or after reading a text is among the practices most consistently related to student growth in language and comprehension](word-defining-during-after-reading-related-to-growth.md) — related

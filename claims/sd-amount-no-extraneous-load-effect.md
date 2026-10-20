@@ -45,3 +45,5 @@ Regression on the Krieglstein et al. extraneous-load scale with Study 1's 191 st
 ## Related Claims
 
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)
+- [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
+- [Disfluency and WMC × disfluency did not affect extraneous cognitive load, contrary to hypotheses](no-ecl-effect-disfluency.md) — related

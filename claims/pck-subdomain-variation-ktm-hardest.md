@@ -45,3 +45,5 @@ Subdomain-level results from the same test-set evaluation of nine PCK items. The
 ## Related Claims
 - [The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting](gradeopt-substantial-agreement-pck-outperforms-baselines.md) — related
 - [Gaps between Cohen's κ and QWK indicate GradeOpt often assigned codes adjacent to human codes rather than entirely discrepant ones](kappa-qwk-gaps-adjacent-codes.md) — related
+- [Prior non-LLM automated coding approaches yielded variable and often lower agreement with human coders on teacher knowledge measures, especially PCK](prior-automated-coding-variable-lower-agreement-pck.md) — related
+- [On CK items, GradeOpt showed near-perfect alignment with human codes (κ = .88 and .85; QWK = .89 and .94), comparable to human–human agreement](gradeopt-near-perfect-ck-agreement.md) — related

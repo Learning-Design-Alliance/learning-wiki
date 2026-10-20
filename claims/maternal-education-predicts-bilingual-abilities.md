@@ -45,3 +45,5 @@ Correlational analysis in the 55-participant sample relating maternal education 
 ## Related Claims
 
 - [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md)
+- [Native signing and maternal education jointly predict bilingual ability, accounting for 38.4% of variance](regression-native-signing-maternal-education-bilingual.md) — related
+- [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related

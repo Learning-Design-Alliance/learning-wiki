@@ -77,3 +77,4 @@ MRA predicting first-grade WJ Applied Problems in the same 107-child low-number-
 - [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
 - [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — reports the opposite
 - [Attention problems are associated with lower preliteracy and language scores in preschoolers, controlling for aggression and social skills](attention-problems-predict-poorer-emergent-academics.md) — related
+- [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related

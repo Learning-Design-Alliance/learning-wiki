@@ -45,3 +45,6 @@ Simulation cross-calibration results (Table 8): each of the three models' data w
 ## Related Claims
 - [Item parceling at the testlet level substantially improves model fit, allowing partial (Rasch, 2PL) or full (bifactor) recovery of CAT constructs](parceling-testlet-level-recovers-cat-construct.md) — related
 - [In operational reading-test data, item parameter estimates from a standard 2PL/GPCM that ignores local dependence closely match those from the testlet model (average correlations 0.9893 and 0.9978)](local-dependence-small-impact-item-parameters-real-data.md) — related
+- [In an empirical comparison on a testlet-based English assessment test, the bifactor model is preferred over the second-order and unidimensional 2PL models by both AIC and BIC](bifactor-model-preferred-aic-bic-testlet-test.md) — related
+- [Ignoring testlet effects by fitting a unidimensional 2PL model produced mild shrinkage of item intercept and loading estimates toward zero relative to the bifactor model](ignoring-testlet-effects-shrinks-parameter-estimates.md) — related
+- [CAT data cannot be fit into factor models at the item level, making item-level construct validity investigation meaningless for CAT](cat-item-level-construct-recovery-impossible.md) — related

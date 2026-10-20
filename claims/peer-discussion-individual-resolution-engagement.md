@@ -48,3 +48,5 @@ Examples 2–3, combining whole-class video, eye-tracking and cardiac data: peer
 ## Related Claims
 - [Students' situational stress (ASV) values were elevated during periods when students were engaged in tasks at the whiteboard](asv-elevated-whiteboard-presentations.md) — a broader claim this one bears on
 - [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](stress-peaks-cooccur-conflict-presenting.md) — related
+- [Students' situation-specific interpretations of a learning situation as challenging or favourable affect their SRL and strategy use](situation-specific-interpretations-affect-strategy-use.md) — related
+- [Teacher's direct support of a stuck presenter corresponded with a clear decrease in situational stress (ASV)](teacher-support-asv-release.md) — related

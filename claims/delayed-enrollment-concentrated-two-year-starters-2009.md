@@ -71,3 +71,4 @@ Sector breakdown of delayed entry in the same class-of-2009 tracking data. The r
 - [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md)
 - [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md)
 - [Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees](cps-completion-four-year-double-two-year.md)
+- [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related

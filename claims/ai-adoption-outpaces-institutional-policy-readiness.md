@@ -51,3 +51,5 @@ The briefs synthesize survey and policy data to characterize institutional readi
 - [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — a narrower finding that bears on this claim
 - [Students report gaps in AI training and awareness of institutional AI policies despite widespread adoption](ai-training-and-policy-awareness-gaps-students.md) — a narrower finding that bears on this claim
 - [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — possibly the same claim (merge candidate)
+- [Faculty adoption of GenAI is widespread but instructional confidence remains low, so adoption prevalence should not be misread as instructional readiness](ai-adoption-exceeds-faculty-instructional-confidence.md) — a narrower finding that bears on this claim
+- [State-led AI evaluation is critical because robust national evaluation research is lacking and local leaders weigh state and local results more heavily](state-led-ai-evaluation-critical-gap.md) — related

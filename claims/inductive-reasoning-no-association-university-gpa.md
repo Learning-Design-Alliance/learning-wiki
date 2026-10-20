@@ -45,3 +45,5 @@ Null finding across the correlation and regression analyses in the study; the co
 ## Related Claims
 
 - [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md)
+- [A reduced set of non-cognitive factors alone explains 17–25% of the variance in university GPA across three years of a degree](noncognitive-factors-explain-17-25-percent-gpa-variance-three-years.md) — related
+- [Academic engagement and regulation of behavior and context show incremental validity over cognitive predictors of university GPA](engagement-and-behavior-context-regulation-incremental-validity.md) — related

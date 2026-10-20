@@ -63,3 +63,7 @@ Mixed-design ANOVA on RTs for the animal-size Stroop task. The article reports a
 
 ## Related Claims
 - [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](age-differences-in-inhibition-and-reward-response.md) — related
+- [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related
+- [Smaller response-time differences between incongruent and congruent trials (better inhibition) correlate with higher mathematics scores](rt-congruency-difference-correlates-with-math.md) — related
+- [The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances](nonsymbolic-multiplication-link-trial-type-independent.md) — related
+- [Children are more accurate and faster on NonStroop than Stroop trials of the Pet Store Stroop task](nonstroop-more-accurate-faster-than-stroop.md) — a narrower finding that bears on this claim

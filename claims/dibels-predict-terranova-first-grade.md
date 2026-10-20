@@ -66,3 +66,6 @@ Regression on first-grade TerraNova Reading found "Letter Naming Fluency and Pho
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
 - [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
 - [Nonsense Word Fluency adds no unique predictive information about first-grade reading when considered simultaneously with other DIBELS subtests](nwf-no-unique-predictive-contribution.md) — a narrower finding that bears on this claim
+- [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](dibels-predict-first-grade-reading.md) — related
+- [Only letter naming among rapid-naming measures showed significant correlation with reading and writing](letters-rapid-naming-significant-correlation-reading-writing.md) — related
+- [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related

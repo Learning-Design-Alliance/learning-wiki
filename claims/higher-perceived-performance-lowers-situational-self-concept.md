@@ -52,3 +52,4 @@ Regression analyses in the IVR experiment related perceptions to self-concepts; 
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
 - [Experimental conditions did not affect felt presence or perceived realism, which were high across all IVR configuration conditions](ivr-presence-realism-high-uniform.md) — related
 - [Equally able students have lower academic self-concepts in high-average-ability schools (the BFLPE), with a cross-national effect size of 0.49](bflpe-lower-asc-high-average-ability-schools.md) — related
+- [The negative contrast effect of high school-average achievement outweighs a weaker positive assimilation (reflected glory) effect](bflpe-contrast-outweighs-assimilation.md) — related

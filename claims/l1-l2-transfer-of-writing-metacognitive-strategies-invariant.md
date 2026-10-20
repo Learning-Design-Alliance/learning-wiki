@@ -61,4 +61,10 @@ Multigroup SEM invariance tests across higher/lower L2 proficiency and English/n
 
 
 ## Related Claims
--
+- [Metacognitive knowledge was examined as a component of writing proficiency alongside linguistic knowledge and fluency](metacognitive-knowledge-component-writing-sem.md) — related
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md) — related
+- [L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies](cross-language-facilitation-l1-strategies-l2-writing-via-mediation.md) — related
+- [Metacognitive strategies predict L2 writing more strongly than L1 writing](metacognitive-strategies-stronger-predictor-l2-than-l1-writing.md) — related
+- [Students unanimously report positive effects of metacognitive strategy use on writing in both L1 and L2, with strategies compensating for limited L2 linguistic knowledge](interview-evidence-metacognitive-strategies-help-l2-writing-compensatorily.md) — related
+- [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md) — related
+- [L2 writing proficiency was more highly correlated with L1 writing proficiency than with L2 linguistic knowledge or its accessibility](l2-writing-correlates-more-with-l1-writing-than-l2-knowledge.md) — related

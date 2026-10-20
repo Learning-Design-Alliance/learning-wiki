@@ -48,3 +48,4 @@ Hierarchical multiple regression with 237 African American students, controlling
 - [In an independent seventh-grade sample, stereotype endorsement predicted lower academic self-concept at average and high racial centrality but not at low centrality (Study 2 replication)](stereotype-self-concept-replication-study2.md) — related
 - [African American middle school students on average endorse the traditional academic race stereotype while reporting high academic self-concept](students-endorse-traditional-stereotype-high-self-concept.md) — related
 - [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md) — related
+- [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related

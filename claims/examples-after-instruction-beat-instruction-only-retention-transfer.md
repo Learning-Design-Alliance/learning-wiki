@@ -68,3 +68,4 @@ Planned contrasts on knowledge transfer post-test in the same randomized experim
 - [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related
 - [Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control](perceived-control-high-instruction-only-and-generation.md) — related
 - [Reading provided examples is not more effective than generating examples for learning relational categories](reading-not-superior-to-generating-examples.md) — related
+- [Teacher students who generated their own examples after instruction achieved better retention and transfer than those given examples, with text-only performing worst](self-generated-examples-better-retention-transfer.md) — related

@@ -53,3 +53,4 @@ The brief attributes this comparison to an Urban Institute report on reshaping P
 - Black students default on federal student loans at far higher rates than White peers even within the same income group — related
 - [The 2011 tightening of Parent PLUS credit standards sharply reduced PLUS access at HBCUs and cost them about $168 million](plus-credit-tightening-cut-hbcu-access-and-revenue.md) — related
 - Black borrowers, and Black women in particular, are less likely to receive family or financial help with college costs or loan payments — related
+- [HBCU enrollment continued to decline in 2013-14 despite the partial rebound in PLUS loans](hbcu-enrollment-continued-declining-2013-14.md) — related

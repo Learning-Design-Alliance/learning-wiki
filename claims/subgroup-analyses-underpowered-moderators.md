@@ -49,3 +49,4 @@ Subgroup-analysis stage of the meta-analysis (Results, §3.5.2). The authors rep
 - [Heterogeneity between studies of the metacognition–math association is significant and remains high in all moderator analyses](metacognition-math-heterogeneity-high.md)
 - [Poor readers show moderately elevated anxiety compared to typical readers (d = 0.41)](poor-readers-elevated-anxiety.md) — related
 - [Poor readers show moderately elevated general internalising problems compared to typical readers (d = 0.41)](poor-readers-moderate-internalising-problems.md) — related
+- [Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)](poor-readers-small-depression-elevation.md) — related

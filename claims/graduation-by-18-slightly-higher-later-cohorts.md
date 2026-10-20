@@ -46,3 +46,6 @@ Cohort progression analysis (Section III). Graduation rates for 18-year-olds dec
 - [Graduation by age 18 rose slightly, and adjusting for incoming student composition cuts the increase roughly in half](chicago-graduation-gains-halved-by-composition-adjustment.md) — related
 - [The five-year dropout rate for the first cohort fully subject to the CPS promotion policy (1995) continued the slight downward trend, but pre-age-18 patterns do not clearly indicate a change](promotion-policy-cohort-five-year-rate-continued-trend.md) — related
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
+- [Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little](off-schedule-earlier-but-stable-by-age-16.md) — related
+- [Students delayed by promotion gates recovered on-schedule status more easily than those delayed by course failure](gate-delays-easier-to-recover-than-course-failure.md) — related
+- [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related

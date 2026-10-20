@@ -49,3 +49,4 @@ In the same randomized factorial experiment, the article reports that icon-based
 - [Setting the default sort order to academic performance instead of distance from home induces parents to choose academically higher performing schools](default-sort-academic-performance-shifts-school-choices.md) — related
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on
+- [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — related

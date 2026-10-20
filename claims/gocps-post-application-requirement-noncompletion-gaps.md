@@ -50,3 +50,4 @@ Analysis of post-application requirement completion (auditions, interviews, info
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](gocps-subgroup-ranking-and-accountability-differences.md) — related
 - [Black jobseekers report biased applicant tracking systems, lengthy hiring processes, and entry-level postings requiring years of experience](tech-hiring-process-barriers-ats-experience-mismatch.md) — related
+- [GoCPS did not produce major changes in enrollment patterns, and pre-existing racial/ethnic and income differences in enrolling in high-SQRP schools persisted](gocps-no-major-enrollment-changes.md) — related

@@ -48,3 +48,5 @@ Cross-sectional study of N students = 996 and N teachers = 54 in grades 3-6, the
 ## Related Claims
 - [Higher teacher-student conflict is associated with lower levels of specific metacognitive skills, while closeness is positively associated with metacognition in upper elementary school](dyadic-conflict-lower-metacognition.md) — related
 - [Associations between classroom-level interactions and elementary students' regulation of motivation are mixed across studies](classroom-level-motivation-mixed-findings.md) — related
+- [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](teacher-scaffolding-strategy-use-performance-phase.md) — related
+- [Antecedent-focused emotion regulation strategies are linked to higher-quality teacher-student interactions and better classroom management](antecedent-emotion-regulation-better-interactions.md) — related

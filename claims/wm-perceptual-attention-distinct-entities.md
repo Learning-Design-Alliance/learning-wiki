@@ -44,3 +44,9 @@ The review's assessment of the identity position that WM and perceptual attentio
 
 ## Related Claims
 - [Processing of affective stimuli is prioritized and interferes with target processing during the attentional blink interval in early adolescence](affective-stimuli-interfere-attentional-blink-adolescents.md) — related
+- [Perceptual attention is probably necessary but not sufficient for encoding stimuli into working memory](perceptual-attention-necessary-not-sufficient-wm-encoding.md) — related
+- [Early (within ~100 ms) attentional modulation during encoding predicts subsequent working memory accuracy](early-encoding-modulation-predicts-wm-accuracy.md) — related
+- [Selective attention facilitates working memory retrieval, and selecting from WM resembles visual search](attention-facilitates-wm-retrieval.md) — related
+- [rTMS of right IFJ causally reduces top-down modulation during encoding and working memory accuracy](rtms-ifj-causal-top-down-modulation-wm.md) — related
+- [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](shared-resource-perceptual-attention-wm-unconvincing.md) — related
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related

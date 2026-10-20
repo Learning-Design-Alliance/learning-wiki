@@ -47,3 +47,5 @@ Random-effects meta-analysis of 23 studies comparing poor reading and control gr
 - [Children's perceptions of peers with internalising problems (depression) are under-researched relative to externalising problems](internalising-peer-perceptions-under-researched.md) — related
 - [Poor readers show moderately elevated anxiety compared to typical readers (d = 0.41)](poor-readers-elevated-anxiety.md)
 - [Poor readers show moderately elevated general internalising problems compared to typical readers (d = 0.41)](poor-readers-moderate-internalising-problems.md)
+- [Planned moderator subgroup analyses could not be conducted because fewer than 10 studies per subgroup were available](subgroup-analyses-underpowered-moderators.md) — related
+- [Prior narrative reviews found poor readers at risk for internalising problems, with attention problems raising risk further](prior-reviews-reading-internalising-narrative.md) — related

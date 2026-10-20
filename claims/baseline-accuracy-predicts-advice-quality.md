@@ -45,3 +45,4 @@ Regression of AI advice quality (NDCG@6 of the assistant's top-6 recommendations
 ## Related Claims
 - [Carryover of user errors into AI advice reduces both advice quality and final ranking accuracy](error-carryover-reduces-advice-quality-and-performance.md) — related
 - [Users' baseline ranking accuracy significantly predicts their final ranking accuracy after AI collaboration, with no other significant effects](baseline-accuracy-predicts-final-ranking-accuracy.md) — related
+- [The sycophancy-focused intervention significantly reduced the assistant's positional mirroring of incorrect user rankings and rank-order alignment](intervention-reduced-positional-mimicry.md) — related

@@ -49,3 +49,6 @@ Across the 10 random-effects meta-analyses, heterogeneity was significant for wo
 - [Poor readers/spellers vary significantly more than controls in foreign language phonological awareness performance](poor-literacy-more-variable-fl-phonological-awareness.md) — related
 - [Children/adolescents with poor literacy skills show similar average foreign language receptive vocabulary knowledge to peers with typical literacy skills](poor-literacy-similar-fl-receptive-vocabulary.md) — related
 - [Foreign language reading comprehension performance varies to a similar extent in poor and typical literacy groups](similar-variability-fl-reading-comprehension.md) — related
+- [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related
+- [Children learning orthographically consistent languages show fewer reading deficits and faster spelling development](orthographic-consistency-eases-reading-spelling.md) — related
+- [Effects of adolescent word-reading interventions are substantially heterogeneous between studies](substantial-heterogeneity-adolescent-word-reading-effects.md) — related

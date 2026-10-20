@@ -45,3 +45,4 @@ Mixed-effects analysis of 86 tutors' lesson scores against LLM-scored real-life 
 ## Related Claims
 - [Repeated opportunities to apply tutor moves did not by themselves improve execution: opportunity count, lesson completion, and their interaction showed no significant effects on successful execution](opportunity-count-no-effect-execution.md) — related
 - [Interrupted time series analysis found tutor quality improved gradually over time (β=0.01, p=.022) with no immediate level change or slope change at the training intervention](its-gradual-trend-not-intervention-effect.md) — related
+- [After training, tutors were significantly more likely to encounter pedagogical opportunities (61.1% to 68.9%) and showed higher execution quality within those opportunities (65.5% to 68.1%)](post-training-opportunity-and-execution-gains.md) — related

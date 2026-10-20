@@ -81,3 +81,6 @@ The report explains the mechanism: direct questioning "contradicts a norm of all
 - [When AI/AN communities design their own place-, culture-, and language-based education programs, students' school engagement and learning flourish](culture-based-programs-flourish-engagement.md) — related
 - [American Indian/Alaska Native students showed higher disengagement under remote testing than in-school testing](american-indian-alaska-native-higher-disengagement-remote.md) — related
 - [The grade-level disengagement pattern was not meaningfully different between remote and in-school testing](disengagement-pattern-similar-remote-versus-in-school.md) — related
+- [Review reports that reticent non-local students who resisted local classroom norms were academically superior on other performance kinds (Duff, 2002)](reticent-students-academically-superior-duff.md) — related
+- [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
+- [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related

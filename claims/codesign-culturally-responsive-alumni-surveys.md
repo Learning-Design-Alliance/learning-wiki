@@ -48,3 +48,4 @@ This practitioner brief from Digital Promise describes a project born out of a f
 - [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
 - [Alumni survey responsiveness tends to peak at two milestones: the first year out and the fourth or fifth year out](alumni-response-peaks-two-milestones.md) — related
 - [Co-designed alumni surveys move districts from hunches about alumni experiences to concrete empirical evidence validating programs or pinpointing preparation gaps](co-designed-alumni-surveys-hunches-to-evidence.md) — related
+- [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related

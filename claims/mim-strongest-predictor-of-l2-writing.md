@@ -43,4 +43,5 @@ From the multiple regression analysis with Sample Two (N = 1078), comparing stan
 
 
 ## Related Claims
--
+- [Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance](mrim-predicts-l2-argumentative-writing-performance.md) — a broader claim this one bears on
+- [The MRIM scale has a three-factor structure of planning, monitoring, and evaluating of interactive metadiscourse, cross-validated by EFA and CFA](mrim-three-factor-structure-pim-mim-eim.md) — related

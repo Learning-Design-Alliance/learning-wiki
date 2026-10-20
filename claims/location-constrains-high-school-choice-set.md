@@ -55,3 +55,5 @@ Focus-group finding from the Setting Factors section: students reported direct i
 - Proximity to home was the primary reason families enrolled their children in lower-rated schools instead of their designated welcoming school — related
 - Distance and transportation costs were barriers to frequent visits for teens from Chicago's far South and West Sides — related
 - Teachers report logistical barriers — transportation, weekly supply shopping, limited computer access, and missing basic supplies — that complicate school participation for students in foster care — related
+- [Public school choice was constrained at the middle and high school levels because many districts have only one middle school and one high school](title-i-choice-constrained-single-secondary-schools.md) — related
+- [A school's ability to implement a child's IEP was the first factor in parents' enrollment decisions, crowding out other school characteristics](iep-implementation-first-enrollment-factor.md) — related

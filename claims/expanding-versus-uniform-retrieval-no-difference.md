@@ -47,3 +47,5 @@ Meta-analysis (subset 2) aggregating 54 effect sizes from studies comparing expa
 - [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — related
 - [Expanding retrieval schedules have not shown consistent advantages over equally spaced or contracting schedules matched on total spacing](expanding-retrieval-schedules-are-not-superior-to-equal-or-contracting-schedules.md) — related
+- [Uniform two-week spacing between distillations yielded the greatest benefit among the tested schedules, ranking Standard, Mixed, Frontloaded, then Baseline](two-week-uniform-spacing-greatest-benefit.md) — related
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — reports the opposite

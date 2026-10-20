@@ -51,3 +51,6 @@ Authors' interpretation of the survey ranking (Table 1: lack of practice, 65%, r
 - [Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)](negative-evaluation-vocabulary-anxiety-ranks.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
+- [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
+- [Lack of confidence and inappropriate language use were observed obstacles to students' mathematical communication during the experiment](confidence-obstacles-math-communication.md) — related

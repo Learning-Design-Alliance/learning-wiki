@@ -48,3 +48,4 @@ Descriptive comparison of 2016-17 demographics across TPS, feeder schools, and c
 - [About 30 percent of South Carolina charter schools outperform traditional alternatives in reading and 15 percent in math, while 22 percent and 33 percent underperform](sc-charter-school-quality-range-reading-math.md) — related
 - [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — related
 - [Charter LEAs enroll a lower proportion of students with disabilities than traditional LEAs and serve smaller proportions in higher-cost disability categories](charter-leas-fewer-swd-and-fewer-high-cost-categories.md) — a narrower finding that bears on this claim
+- [Charter students receiving special education services show smaller learning gains than matched traditional public school peers](charter-special-education-smaller-gains.md) — related

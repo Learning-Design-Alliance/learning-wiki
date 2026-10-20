@@ -64,3 +64,4 @@ Grade 4 observations showed significant differences for modeling of strategies (
 ## Related Claims
 - [The SRI program produced a statistically significant positive effect on knowledge of reading strategies after one year of intervention in Grade 3](sri-positive-effect-strategy-knowledge-grade-3.md) — related
 - [After two years of SRI, the intervention effect on strategy knowledge had further increased, and positive effects emerged on reading comprehension](sri-two-year-effects-strategy-knowledge-comprehension.md) — related
+- [Implementation differences between intervention and comparison classrooms emerged by the end of the intervention period](pathway-implementation-differences-emerged-late.md) — related

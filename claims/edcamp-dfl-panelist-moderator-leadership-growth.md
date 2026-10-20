@@ -47,3 +47,4 @@ Post-survey items asked only of panelists and moderators (see Figure 5). The rep
 - [Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions](edcamp-dfl-increased-topic-familiarity.md) — related
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
 - [The series reached nearly 1,200 registrations across four events, drawing experienced educators from 22 countries](edcamp-dfl-reach-and-audience.md) — related
+- [Most RCS Core Team members who completed the Inclusive Innovation Survey showed positive beliefs and efficacy aligned with the Inclusive Innovation Core Tenets](iis-core-team-positive-beliefs-efficacy.md) — related

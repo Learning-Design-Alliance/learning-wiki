@@ -52,3 +52,4 @@ Disposition outcomes measured with critical thinking assessment instruments in t
 - [Cognitive Maturity disposition scores significantly declined during the WISE Agent intervention, interpreted as de-centering of naive optimism](wise-agent-cognitive-maturity-decline.md) — reports the opposite
 - [A three-month WISE Agent intervention did not significantly increase sixth-graders' aggregate critical thinking disposition scores](wise-agent-no-aggregate-ct-gain.md) — related
 - The study used a three-group longitudinal design with an experimental science group and two traditionally taught controls — related
+- [Effects of implicit strategies (higher-order questioning, concept mapping, discussion) on CT are inconclusive, with domain-specific gains that fail to transfer](implicit-strategies-inconclusive-domain-specific-only.md) — related

@@ -71,3 +71,4 @@ Overview of the Lorah et al. (2015) review of 17 empirical studies on handheld c
 - Heterogeneity across reviewed single-subject studies limits broad AAC comparisons, warranting more focused syntheses — related
 - Review evidence shows no consistent differences between picture exchange and speech-generating devices for communication and request outcomes — related
 - [Included qualitative studies find smaller special education class sizes are the preferred option because they allow more individualised instruction time and increased teacher attention](small-special-education-classes-preferred-individualised-instruction.md) — related
+- [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — related

@@ -50,3 +50,6 @@ DIF analysis comparing male–female and Hispanic–White examinees across terms
 - [The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms](spanish-english-test-population-ethnicity-difference.md) — related
 - [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — a narrower finding that bears on this claim
+- [Spanish Math items show well-balanced difficulty and stable strong discrimination across 2024–2025 terms](spanish-math-item-difficulty-discrimination-stable.md) — related
+- [Cultivate survey items function without systematic bias across student groups by race/ethnicity, gender, economic disadvantage, learning differences, or EL status](cultivate-items-no-bias-across-student-groups.md) — related
+- [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related

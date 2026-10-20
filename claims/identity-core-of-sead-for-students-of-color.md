@@ -52,3 +52,5 @@ Focus group participants responded with factors related to racial, ethnic, and c
 - [Interviewed introductory statistics students often described the subject as neutral, many saw the courseware's neutrality as appropriate, and some did not discern explicit racial or cultural inclusion in it](students-perceive-statistics-as-neutral-subject.md) — reports the opposite
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
 - Students and families of color define success as encompassing social-emotional well-being and competence, not just academic or career outcomes — a broader claim this one bears on
+- [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
+- [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related

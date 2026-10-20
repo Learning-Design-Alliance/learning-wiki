@@ -51,3 +51,8 @@ Exploratory mediation model (jAMM) with direct effects of group, GCL and prior k
 - [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related
 - [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
+- [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
+- [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](training-impact-higher-evaluation-than-search.md) — related
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related
+- [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
+- [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](llm-search-lower-intrinsic-cognitive-load.md) — related

@@ -47,3 +47,6 @@ Authors' argument in the practical measures section of the brief, presented as a
 - [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related
 - [Teachers reported increased use of culturally and linguistically relevant instruction over the year, while teacher collaboration remained unchanged](wts-clri-increased-collaboration-unchanged.md) — related
 - [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](openscied-equitable-participation-engagement.md) — related
+- [Survey design and management conditions influenced how schools engaged with climate data](survey-design-conditions-data-engagement.md) — related
+- [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related
+- [Collective enterprise and care in equitable classroom cultures are positively associated with students' science interest](collective-enterprise-care-science-interest.md) — related

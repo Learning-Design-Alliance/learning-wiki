@@ -67,3 +67,5 @@ Phi computed as a partial correlation controlling for discrimination response ti
 - [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
 - [Performance-resolution correlation is significant in 2AFC but much smaller and mostly non-significant in free-response testing](resolution-performance-correlation-2afc-not-free-response.md) — related
 - [Young children maintain correct responses more easily than they withdraw incorrect responses on an L2 vocabulary task](withdrawal-harder-than-maintenance-l2-metacognitive-control.md) — related
+- [Metacognitive sensitivity is domain-specific in early childhood: number-domain and emotion-domain measures are uncorrelated](metacognition-domain-specific-early-childhood.md) — related
+- [Summary-statistic measures of metacognitive accuracy (gamma, type 2 ROC, meta-d′, meta-da) maintain a false positive rate consistent with the nominal 5% alpha level in group comparisons](summary-statistics-metacognitive-accuracy-adequate-false-positive-rate.md) — related

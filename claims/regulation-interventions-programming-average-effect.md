@@ -43,4 +43,5 @@ Random-effects meta-analysis of studies from three systematic reviews of regulat
 
 
 ## Related Claims
--
+- [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](srl-interventions-moderate-effect-online-blended.md) — related
+- [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related

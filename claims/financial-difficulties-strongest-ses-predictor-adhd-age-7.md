@@ -58,4 +58,8 @@ Multivariable regression (Table 3) entering the significant unadjusted predictor
 
 
 ## Related Claims
--
+- [Children with ADHD in the cohort were disproportionately male and from families reporting financial difficulty or social housing](adhd-group-descriptive-ses-and-sex-differences.md) — related
+- [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](adversity-parent-involvement-mediate-financial-difficulty-adhd.md) — related
+- [Housing tenure, marital status, maternal age and financial difficulties are each significantly associated with ADHD at age 7 in unadjusted analysis](unadjusted-ses-predictors-adhd-housing-marital-age.md) — a broader claim this one bears on
+- [Maternal depression at 33 months was not a significant mediator of the financial difficulty–ADHD association](maternal-depression-null-mediator-ses-adhd.md) — related
+- [Parental education and occupational status showed no significant association with ADHD in this sample](parental-education-occupation-not-significant-adhd.md) — related

@@ -45,3 +45,7 @@ Think-aloud study of twelve 10th-graders, each performing three selection tasks 
 ## Related Claims
 
 - [Linguistic selection reasons were uttered most regardless of the selection task, suggesting a default linguistic selection strategy](linguistic-default-selection-strategy.md)
+- [The most prevalent verbalization type was labeling text parts as important without stating any reason for selection](labeling-text-parts-most-prevalent-verbalization.md) — related
+- [Task instruction significantly affected verbalized local-level selection reasons, with the linguistic task yielding more matching verbalizations than the other two tasks](local-task-level-significant-task-verbalization-match.md) — related
+- [When SRL is measured at a coarse grain size (global self-regulation), students are relatively well able to report on their strategy use](coarse-grained-srl-self-reports-relatively-calibrated.md) — related
+- [Secondary school students selecting tasks without guidance base most selections on content and rarely on difficulty or support level](students-select-tasks-mostly-on-content.md) — related

@@ -70,7 +70,7 @@ Diary-entry analysis of the verifying stage: three ChatGPT instances via another
 | [Voicu 2026](https://doi.org/10.61071/jdp.2665) | q2 · qualitative · r2 | i? | [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shi](distributed-epistemic-agency-machine-authority.md) (supports) |
 | [Wang H and Shan W 2026](https://doi.org/10.3389/feduc.2026.1757622) | q1 · theoretical · r2 | i? | [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) (supports) |
 | [Du Y 2026](https://doi.org/10.1007/s00146-026-03294-1) | q1 · review · r2 | i? | [Conversational synthesis can hide source plurality behind one voice, weakening verificatio](opaque-synthesis-hides-plurality.md) (supports) |
-| [Saniya Vahedian Movahed and Fred Martin 2025](https://doi.org/10.48550/arxiv.2502.14217) | q2 · qualitative · r2 | i? | [Children use a 'trust test' strategy, asking a chatbot questions they already know the ans](children-trust-test-chatbot-with-known-answers.md) (qualifies) |
+| [Saniya Vahedian Movahed and Fred Martin 2025](https://doi.org/10.48550/arxiv.2502.14217) | q2 · qualitative · r2 | i? | [Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questio](children-trust-test-chatbot-with-known-answers.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -85,3 +85,9 @@ Diary-entry analysis of the verifying stage: three ChatGPT instances via another
 - [ChatGPT users were significantly less likely to correctly answer a critical-learning question requiring interpretation of a nutrition label](chatgpt-worse-nutrition-label-application-question.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
 - [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related
+- [Of 178 reference sources produced by AI dialogue systems, 69 lacked a DOI and 28 could not be found via Google search and had no existing DOI](ai-confabulated-references-178-sample.md) — related
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
+- [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
+- [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — related
+- [Conversational synthesis can hide source plurality behind one voice, weakening verification relative to search](opaque-synthesis-hides-plurality.md) — related
+- [Novice AI users showed a Trust-but-Can't-Verify pattern: accepting unfamiliar constructs they could not assess, then symptom-level debugging](trust-but-cant-verify-novices.md) — related

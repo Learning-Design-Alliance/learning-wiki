@@ -45,3 +45,4 @@ Type-of-ITS moderator analysis (Table 2). Random-effects means: Bayesian network
 ## Related Claims
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — a broader claim this one bears on
 - [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related
+- [Against no-treatment controls, ITS produce a large statistically significant effect (g = 1.23) under a random-effects model](its-versus-no-treatment-controls-g-1-23.md) — related

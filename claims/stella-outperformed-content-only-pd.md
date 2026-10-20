@@ -48,3 +48,5 @@ Comparison study by Roth et al. (2011) of STeLLA teachers versus teachers receiv
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
 - [Classroom observations suggested increases in desired pedagogical practices after PD, but differences were not statistically significant](rwanda-literacy-boost-observed-practices-null.md) — related
 - The supporting evidence comes from a cluster randomized controlled trial in 77 Colorado elementary schools with low attrition, meeting WWC group design standards without reservations — related
+- [All 35 reviewed studies used models or modeling, and curriculum without PD support yielded worse outcomes than older curriculum with none](pd-models-and-curriculum-support.md) — a broader claim this one bears on
+- [Collaboration appeared in 32 of 35 reviewed studies, and collaborative PD models showed student achievement gains](pd-collaboration-prevalence-and-gains.md) — a broader claim this one bears on

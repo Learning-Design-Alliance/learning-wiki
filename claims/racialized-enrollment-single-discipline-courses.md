@@ -53,3 +53,5 @@ Descriptive analysis of enrollment by race/ethnicity in the subset of 318 school
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
 - [Access to a complete single-discipline course sequence is rare in NWEA partner middle schools](complete-discipline-specific-sequence-anomaly.md)
 - [Most NWEA partner middle schools offer only multidiscipline science courses, with far fewer offering only single-discipline courses than in the 2018 national sample](nwea-schools-predominantly-multidiscipline-offerings.md)
+- [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — a broader claim this one bears on
+- [Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs](black-hispanic-multiracial-children-underrepresented-high-tier.md) — a broader claim this one bears on

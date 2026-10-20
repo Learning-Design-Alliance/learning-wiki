@@ -45,3 +45,4 @@ Co-occurrence analysis of open SG case study transcripts coded in Atlas ti. The 
 ## Related Claims
 - [Extraneous cognitive load arising from limited scope and high distance in the rule-based game pushed the facilitator toward first- and second-order interventions instead of the third-order interventions the learning goal required](extraneous-load-shifts-facilitator-to-fol-interventions.md) — related
 - [In an open simulation game with wide scope and low distance, second-order interventions effectively elicited second-order responses](open-sg-sol-interventions-elicit-sol-responses.md) — related
+- [In a rule-based simulation game with narrow scope and high distance, facilitator interventions were predominantly first- and second-order and participant learning was mainly first- and second-order](rule-based-sg-yields-first-second-order-learning.md) — related

@@ -43,4 +43,6 @@ The editorial reports this result from Wang, Kollar, and Stegman's experimental 
 
 
 ## Related Claims
--
+- [Reflection increased in the adaptable and non-adaptable script conditions, but only the adaptable script had positive effects on monitoring, supporting overall positive effects on self-regulation](adaptable-script-monitoring-self-regulation-effects.md) — related
+- [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](script-shifts-effort-toward-grounding.md) — related
+- [A collaborative script embedding solitary reading between planning and review episodes shaped a group's regulative activity, but only low-level regulation](script-planning-review-shaped-low-level-regulation.md) — related

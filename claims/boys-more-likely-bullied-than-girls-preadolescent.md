@@ -50,3 +50,5 @@ Cross-sectional ABCD baseline analysis of caregiver-reported bullying. The study
 - [Bullied boys show greater behavioral problems than bullied girls in withdrawn/depressed, social, thought, and aggression domains](bullied-boys-greater-behavioral-problems-than-bullied-girls.md) — related
 - [Bullied girls show lower episodic memory and crystallized composite cognitive scores than non-bullied girls](bullied-girls-lower-episodic-memory-crystallized-scores.md) — related
 - [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related
+- [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related
+- [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](bullying-associated-with-nssi-and-suicidality-preadolescents.md) — related

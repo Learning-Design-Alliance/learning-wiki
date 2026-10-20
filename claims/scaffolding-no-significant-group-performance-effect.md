@@ -44,3 +44,6 @@ Planned comparisons in a randomized experiment with 52 triads (16 control, 33 sc
 
 ## Related Claims
 - [During collaborative learning, low and high cognition have remarkably long lasting (6 lags) positive effects on themselves, planning induces low cognition which sparks high cognition, and scaffolding does not alter these sequences](statistical-discourse-analysis-regulation-cognition-sequences.md) — related
+- [Metacognitive scaffolding produced a small significant positive effect on the individual metacognitive knowledge students acquired](scaffolding-small-effect-metacognitive-knowledge.md) — related
+- [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](problematizing-scaffolds-better-group-performance.md) — related
+- [Problematizing scaffolds timed to metacognitive moments led students to learn the most domain knowledge](problematizing-scaffolds-most-domain-knowledge.md) — related

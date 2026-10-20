@@ -45,3 +45,5 @@ Expert evaluation of 80 DPs (10 per project from GPT-4o and Gemini 2.5 Pro) usin
 
 ## Related Claims
 - [Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower](student-perceptions-of-dps-differ-from-experts.md) — related
+- [Half of LLM-generated design problems received perfect expert ratings, though common failure modes included scenarios too similar to the original project and ambiguous scope](llm-dp-quality-failure-modes.md) — related
+- [Ablating expert-informed structural components lowered LLM-judge scores on all dimensions, with largest drops in challenge quality, intent alignment, and domain grounding](ablation-structural-components-lower-judge-scores.md) — related

@@ -45,3 +45,6 @@ Transition (saccade) analysis summarized by Figure 3, averaged across participan
 ## Related Claims
 - [Eye fixation data corroborated verbal protocols on the primary representation used (disagreement on only one trial) and revealed additional representations consulted but never mentioned verbally](eye-data-uncovers-unmentioned-representations.md) — related
 - [Gaze transitions show integrative cross-pane viewing, with most participants beginning on memory and cycling between code and memory](integrative-cross-pane-gaze-transitions.md) — related
+- [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
+- [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related
+- [Eye fixation measures of attention to representations were highly correlated with verbal mentions (correlations from .63 to .96), supporting both as measures of representation use](fixation-verbal-protocol-correlation.md) — related

@@ -43,3 +43,5 @@ Formative Wizard-of-Oz study with six university students who used LLMs during p
 
 ## Related Claims
 - [Unmediated pen input introduced new pen-specific barriers: lack of visual feedback on referential intent and high interaction cost of handwriting complex queries](pen-specific-barriers-unmediated-ink.md) — related
+- [Pen input supported deictic referencing: 85% of V1 queries contained at least one visible pen mark, and ease of referencing improved significantly over the baseline](pen-marks-deictic-referencing-study1.md) — related
+- [In Study 2, Content Snapping's immediate visual confirmation resolved learners' referential uncertainty about system recognition](content-snapping-resolves-referential-uncertainty.md) — related

@@ -46,3 +46,5 @@ Analytical mapping of six published assessment instruments onto continuum stages
 - [After brief 1–2 day training, participants showed behaviors consistent with movement from Stage 0–1 toward Stage 1–2, and sustained courses were associated with Stage 3–4 behaviors (observational; no pre/post measure or comparison group)](ncstate-brief-training-stage-movement.md) — related
 - [Existing GenAI assessment frameworks (traffic light, two-lane, AIAS) remain broad, lack discipline-specific applicability, and are unvalidated in authentic settings](existing-genai-frameworks-lack-discipline-specificity.md) — related
 - [GLAT scores predicted performance on GenAI-supported tasks better than perceived ChatGPT proficiency](glat-predicts-task-performance-better-than-self-report.md) — related
+- [Post-2024 instrument development expanded objective AI-literacy measurement, which had been dominated by self-report scales](objective-ai-literacy-measures-expanded-post-2024.md) — related
+- [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related

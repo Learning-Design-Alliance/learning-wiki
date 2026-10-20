@@ -47,3 +47,5 @@ Likelihood-ratio test comparing Model 4 (with grade × understandable-science in
 
 ## Related Claims
 - [Students' perception of science instruction as clear and understandable is positively associated with their emotional engagement in science](understandable-science-instruction-associated-emotional-engagement.md) — related
+- [The association between perceiving science as interesting and emotional engagement is stronger in grades 4, 6, 7, 8, and 12 than in grade 3, with the steepest increase in the grade-6 transition year](grade-moderates-interesting-instruction-engagement-link.md) — related
+- [Students' perception of science instruction as interesting is positively associated with their emotional engagement in science](interesting-science-instruction-associated-emotional-engagement.md) — related

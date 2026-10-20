@@ -45,3 +45,4 @@ Thematic analysis of responses to the question asking students to reflect on whe
 ## Related Claims
 - [Residual analysis of perception themes showed DD students more likely to report Engaged Understanding and less likely to report Overload/Frustration, though chi-square tests were not significant](engaged-understanding-residuals-diverse-explanations.md) — related
 - [Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups](no-significant-difference-perceived-helpfulness.md) — related
+- [Diverse LLM explanations were associated with about 7.7% higher open-ended response accuracy than generic explanations, but the condition effect was not significant after Bonferroni adjustment](diverse-llm-explanations-higher-oe-accuracy-not-significant.md) — related

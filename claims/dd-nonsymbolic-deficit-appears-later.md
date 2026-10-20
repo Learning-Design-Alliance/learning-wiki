@@ -49,3 +49,5 @@ Narrative review synthesis ordering non-symbolic comparison studies by participa
 - [The authors hypothesize DD children's first deficit is dysfunction in building the exact representation of symbolic numbers, with reduced ANS acuity as a consequence rather than a cause](dd-first-deficit-exact-representation-ans-secondary.md) — related
 - [At all ages, children with developmental dyscalculia perform significantly lower than controls in magnitude comparison tasks using symbolic numbers](dd-symbolic-magnitude-comparison-deficit-all-ages.md) — related
 - [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md)
+- [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — reports the opposite
+- [Anthropomorphic explanations appear in older children but less frequently, with only a minority of 14-year-olds' fuse explanations anthropomorphic](anthropomorphic-explanations-lessen-with-age.md) — related

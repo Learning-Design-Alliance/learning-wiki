@@ -49,3 +49,5 @@ The review reports two recent within-person experimental studies (citing Breitwi
 - [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — a broader claim this one bears on
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [In Experiment 1, a five-trial metacognitive prediction-plus-feedback intervention significantly reduced reminder bias, producing more optimal reminder-setting behaviour](metacognitive-feedback-reduces-reminder-bias.md) — related
+- [Effort avoidance contributes to reminder overuse beyond metacognitive error](effort-avoidance-reminder-bias.md) — related
+- [Older adults show reduced reminder bias relative to objective need despite setting more reminders](ageing-reminder-bias-reduced.md) — related

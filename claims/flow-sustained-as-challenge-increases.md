@@ -46,3 +46,4 @@ Interaction network diagrams over 5-min intervals (Figs. 3–4) of the 40-min ga
 - [In groups with pre-established positive collaborative relationships, NGI clusters aligned with high positive emotions and frequent group synchronisation during collaborative DGBL](ngi-clusters-align-with-flow-collaborative-dgbl.md) — related
 - [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](ngi-not-distracting-attention-returns.md) — related
 - [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — related
+- [NGI functioned as a mechanism for emotional coordination, restoring individual members' affective states through shared laughter](ngi-emotional-coordination-shared-affect.md) — related

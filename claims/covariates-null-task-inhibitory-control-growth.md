@@ -49,3 +49,4 @@ Exploratory analyses within the latent growth curve models of SST performance in
 - [Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence](sst-inhibitory-control-curvilinear-growth-adolescence.md) — related
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
 - [Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior](inhibitory-control-growth-rate-unrelated-delinquency.md) — related
+- [Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence](parent-reported-inhibitory-control-no-growth.md) — related

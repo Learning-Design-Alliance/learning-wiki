@@ -69,3 +69,4 @@ CFA of Baddeley's four-component model in the same sample. The correlation betwe
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on
 - [The focus of attention factor was the only significant predictor of both fluid reasoning and visual processing intelligence when all three working memory factors were entered](focus-of-attention-predicts-gf-gv-children.md) — related
 - [A common attentional component is needed for feature binding, running digit span, and visual short-term memory tasks, while phonological storage is separate](common-attentional-component-binding-running-span-visual-stm.md) — related
+- [The two-factor STM/WM structure holds for both younger (8-10) and older (11-13) children](stm-wm-distinction-holds-across-childhood.md) — related

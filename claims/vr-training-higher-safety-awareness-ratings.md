@@ -48,3 +48,6 @@ Primary outcome domain D in the within-participants comparison of 20 students; W
 - [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
 - [VR-based training received significantly higher ratings for learning satisfaction and self-evaluation than conventional training](vr-training-higher-satisfaction-self-evaluation.md) — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
+- [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related

@@ -50,3 +50,6 @@ Experiment 1's final cued-recall test (40 GRE word-definition pairs, 5-min delay
 - [Studying flashcards in pairs raised negative affect in Experiment 1, but not in Experiment 2, which added an icebreaker and relaxed feedback rules](paired-flashcards-negative-affect-icebreaker.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
 - [Global judgments of learning correlate moderately-to-strongly with final test performance in both individual and paired conditions](gjol-test-performance-correlations-both-conditions.md) — related
+- [Paired flashcard learners drop far fewer flashcards from study than individual learners](paired-flashcards-reduce-card-dropping.md) — related
+- [Paired flashcard learners show more accurate immediate metacognitive calibration than individual learners, who overestimate by roughly 20%](paired-flashcards-improve-immediate-metacognitive-calibration.md) — related
+- [Requiring overt retrieval eliminates the metacognitive calibration advantage of paired flashcard learning](overt-retrieval-drives-paired-metacognitive-benefit.md) — related

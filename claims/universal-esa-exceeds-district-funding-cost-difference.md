@@ -67,3 +67,4 @@ Same per-pupil funding comparison (Table 1): charter per-pupil funding of $7,515
 - [Total ESA program cost reached about $587 million in 2022–23, a 211% increase over the prior year, equal to 8.8% of Basic Student Aid funding](esa-total-cost-587-million-211-percent-increase.md) — related
 - [The estimated net cost of the Universal ESA expansion is $242.7 million in 2022–23, rising to $295.2 million in 2023–24](esa-net-cost-242-7-million-expansion.md) — related
 - [The large majority (71.2%) of Universal ESA users had not previously attended a public school, adding new costs to the state education budget](universal-esa-majority-not-previously-public-school.md) — related
+- [English learners are strongly underrepresented in the ESA program: 0.6% of ESA students versus 9.2% of public school students statewide](english-learners-underrepresented-esa-program.md) — related

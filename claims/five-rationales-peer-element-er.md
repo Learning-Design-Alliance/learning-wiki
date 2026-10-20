@@ -46,3 +46,4 @@ This is the article's own theoretical argument, summarizing its five-part ration
 ## Related Claims
 - [The article cautions that CL-structured group activities are only a potential part of the solution for ER motivation, not a guarantee](cl-not-magic-wand-for-er-motivation.md) — related
 - [Extensive reading accompanied by peer interaction produced greater reading achievement gains than ER without peer interaction, no ER, or ER with teacher conferences](er-peer-interaction-greater-achievement-gains.md) — related
+- [Peer Tutoring Improves Achievement](peer-tutoring-improves-achievement.md) — related

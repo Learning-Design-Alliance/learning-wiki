@@ -48,3 +48,7 @@ Validation of GPT-5.4-mini scoring against the 50-student human consensus baseli
 - [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
 - [Human-LLM agreement is moderated by code properties, multi-model consensus, and model-reported confidence](agreement-moderators-tiers-consensus-confidence.md) — related
 - [Temperature-construct interactions: constructs with moderate theoretical coherence benefited from higher temperatures, while well-defined constructs required deterministic settings](temperature-construct-type-interaction-coding.md) — related
+- [Growth is compartmentalized by question: on the code-tracing prompt students grew in procedural code tracing while physics correctness improved only slightly](compartmentalized-ct-growth-by-question.md) — related
+- [The emergent LLM coding pipeline reaches substantial agreement with expert human coding (Cohen's κ = 0.78, raw agreement 84%) on a stratified 10% sample](llm-discourse-coding-kappa-078-expert-agreement.md) — related
+- [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
+- [The framework treats systems thinking and computational thinking as co-equal, separate entities within the context of modeling](st-and-ct-co-equal-separate-entities.md) — related

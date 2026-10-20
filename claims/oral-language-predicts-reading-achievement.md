@@ -71,3 +71,8 @@ The article reports, citing Sticht's paper "Listening and Reading," that written
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — related
 - Listening proficiency transfers to other language skills, including reading and writing, in second language learners — related
 - [Sticht's Law holds that reading skill cannot exceed listening skill](sticht-law-reading-cannot-exceed-listening.md) — a narrower finding that bears on this claim
+- [The author of a 1997 conference paper reports finding no research supporting reverse transfer of skills from literacy to oral language](reverse-transfer-literacy-to-oral-unsupported.md) — related
+- [Teachers' ratings on 16 English-readiness KEA items at kindergarten entry predicted Hispanic/Latino children's English literacy achievement almost 6 years later](kea-english-readiness-ratings-predict-literacy-six-years.md) — related
+- [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
+- [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — reports the opposite
+- [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related

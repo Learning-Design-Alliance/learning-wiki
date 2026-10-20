@@ -51,3 +51,6 @@ Meta-analytic results for code-related literacy skills: 11 of 14 contrasts combi
 - Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each) — related
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
+- [Book exposure predicts letter knowledge (about 6% of variance), consistent with meta-analytic evidence that print-related skills improve even from story-content-focused reading](book-exposure-predicts-letter-knowledge.md) — related
+- [Alphabet instruction benefits did not transfer to letter-word identification, phonological awareness, emergent reading, or developmental spelling](alphabet-instruction-no-transfer-emergent-literacy.md) — related
+- [Phonological awareness and alphabet knowledge fluency are each uniquely related to both word reading and spelling in kindergartners](pa-and-ak-fluency-uniquely-related-word-reading-spelling.md) — related

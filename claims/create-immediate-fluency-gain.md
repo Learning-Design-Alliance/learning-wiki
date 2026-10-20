@@ -45,3 +45,7 @@ Repeated-measures ANOVA on the London Bridge Task (N = 100). The fluency Time ×
 ## Related Claims
 
 - [CREATE benefits transfer to a new task on all three creativity components: fluency, flexibility, and originality](create-transfer-effects-all-components.md)
+- [CREATE improves students' originality immediately after the intervention across all three originality scoring methods](create-immediate-originality-gain.md) — related
+- [CREATE does not produce a significant immediate interaction effect on flexibility, though the experimental group improved pre-to-post](create-immediate-flexibility-null-interaction.md) — related
+- [CREATE meta-creative pedagogy produces a significant omnibus intervention effect on creative thinking components simultaneously in elementary students](create-omnibus-immediate-effect-creative-thinking.md) — a broader claim this one bears on
+- [Students exposed to CREATE perceive their implementation of meta-creative processes to a greater extent than control students](create-higher-perceived-meta-creative-implementation.md) — related

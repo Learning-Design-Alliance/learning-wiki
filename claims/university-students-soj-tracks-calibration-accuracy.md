@@ -45,3 +45,4 @@ Postdiction study of 251 second-year psychology students who estimated their edu
 ## Related Claims
 - [Among secondary school students, calibration accuracy is unrelated to confidence in performance estimates across French, Math, and German exams](secondary-students-soj-unrelated-to-calibration.md) — related
 - [Subjective confidence ratings did not differ between performance quartiles for university or secondary school students, failing to replicate Miller and Geraci](sojs-do-not-differ-by-performance-quartile.md) — reports the opposite
+- [Students in the Reflection condition became more confident in their grade estimates over the school year, unlike students in the Practice and Grade comparison conditions](reflection-condition-increased-second-order-judgements.md) — related

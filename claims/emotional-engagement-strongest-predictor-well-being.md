@@ -45,3 +45,4 @@ The well-being meta-analysis included only 16 effect sizes from 4 studies. Engag
 ## Related Claims
 - [Cognitive engagement did not emerge as the strongest predictor of any correlate, leaving its specialized function ambiguous](cognitive-engagement-no-specialized-relation.md) — related
 - [Relative weights analysis identifies behavioral engagement for achievement, agentic for social support, and emotional for motivation and well-being](relative-weights-engagement-correlates.md) — possibly the same claim (merge candidate)
+- [Emotional engagement is the strongest predictor of motivation, especially need-based motivations](emotional-engagement-strongest-predictor-motivation.md) — related

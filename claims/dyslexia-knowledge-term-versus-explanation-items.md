@@ -44,3 +44,4 @@ Item-format analysis within the Dyslexia Knowledge Questionnaire-2 administratio
 
 ## Related Claims
 - [Previous dyslexia training and confidence predict teachers' dyslexia knowledge, but years of experience do not](training-confidence-predict-dyslexia-knowledge-not-experience.md) — related
+- [Teachers hold a complicated mix of scientific conceptions, misconceptions, and uncertainty about dyslexia concepts](teachers-mixed-conceptions-misconceptions-dyslexia.md) — related

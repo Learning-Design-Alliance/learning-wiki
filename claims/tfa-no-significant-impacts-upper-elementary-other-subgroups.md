@@ -45,3 +45,6 @@ The report's key findings state, "We did not find statistically significant impa
 ## Related Claims
 - [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — related
 - [TFA teachers in lower elementary grades (prekindergarten through grade 2) had a positive, statistically significant effect on reading achievement of 0.12 standard deviations](tfa-lower-elementary-reading-effect-012-sd.md) — related
+- [TFA corps members hired in the first two years of the i3 scale-up were as effective as other teachers in the same high-poverty schools in teaching reading and math](tfa-i3-scale-up-teachers-as-effective-as-peers-high-poverty-schools.md) — related
+- [Teach For America teachers had no impact on student reading achievement](tfa-no-reading-achievement-impact.md) — a broader claim this one bears on
+- [TFA teachers in grades 1 and 2 had a positive effect on math achievement of 0.16 standard deviations that was almost statistically significant (p-value = 0.054)](tfa-grades-1-2-math-effect-016-sd-marginal.md) — related

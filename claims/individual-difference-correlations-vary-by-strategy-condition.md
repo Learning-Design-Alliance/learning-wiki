@@ -47,3 +47,4 @@ Exploratory condition-wise correlations (ANCOVA interaction tests were not possi
 
 ## Related Claims
 - [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related
+- [A self-explanation instruction during rereading improves monitoring accuracy for all readers above mere rereading (Experiment 2)](self-explanation-improves-metacomprehension-accuracy.md) — related

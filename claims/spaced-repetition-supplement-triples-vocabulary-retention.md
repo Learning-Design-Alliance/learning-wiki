@@ -55,3 +55,4 @@ A randomized controlled double-blind study in which 22 cadets were independently
 - [Posttest scores increase monotonically across the tutoring algorithm's acquisition stages, supporting its stage criteria, though control-group items did not differ from items still in active acquisition](tutoring-stage-thresholds-validated-by-posttest.md) — related
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
 - [Learning benefits of Cognitive Tutor interactivity are supported to varying extents by a growing body of experimental studies](cognitive-tutor-interactivity-benefits-varying-extents.md) — related
+- [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — a broader claim this one bears on

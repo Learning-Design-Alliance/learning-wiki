@@ -53,3 +53,5 @@ Analysis of teacher survey ratings in only two elementary schools that combined 
 - [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](nbct-clusters-higher-teacher-influence-innovation.md) — related
 - [Board-certified teachers were twice as likely as other teachers to hold school leadership roles, and about two-thirds led professional development](nbcts-twice-as-likely-leadership-roles.md) — related
 - [High-trust schools are hypothesized to show greater teacher commitment, orientation to innovation, parent outreach, and collective responsibility](trust-linked-to-teacher-commitment-innovation-outreach.md) — related
+- [No significant differences in one-year learning gains between schools with NBCT clusters and similar schools](nbct-clusters-no-learning-gain-difference.md) — related
+- [LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management](principal-preparation-satisfaction-confidence-differences.md) — related

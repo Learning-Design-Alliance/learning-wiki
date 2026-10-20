@@ -45,3 +45,4 @@ Open questionnaire questions about iteration. The most frequent self-reported re
 ## Related Claims
 
 - [All subjects iterated while designing a training simulator specification, with iteration counts ranging from 10 to 30](all-subjects-iterated-log-evidence.md)
+- [Markov transition analysis shows the three clusters differ in workflow dynamics: iterative optimization loops, rapid prototyping flows, and browsing-anchored exploration](markov-workflow-dynamics-three-clusters.md) — related

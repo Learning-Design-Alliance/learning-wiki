@@ -54,3 +54,5 @@ Thematic analysis of qualitative data from 11 studies (focus groups, think-aloud
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
 - [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — a narrower finding that bears on this claim
 - [EFL learners perceive AI-mediated instruction as engaging, personalized, anxiety-reducing, and empowering for autonomous learning](learner-perceptions-ai-engagement-personalization.md) — related
+- [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](ai-simulation-authenticity-gap.md) — related
+- [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](immediate-repetition-benefits-oral-performance.md) — related

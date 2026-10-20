@@ -43,3 +43,6 @@ The review reports an experimental study in which random assignment to classroom
 ## Related Claims
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — possibly the same claim (merge candidate)
 - [Nature exposure relieves stress in learners, including experimentally demonstrated reductions in heart rate and self-reported stress](nature-exposure-reduces-learner-stress.md) — related
+- [Classroom Design Affects Learning Progress](classroom-design-affects-learning-progress.md) — a broader claim this one bears on
+- [The school-built environment, including access to nature and green spaces, positively impacts children, teachers, and the school community](school-built-environment-positive-impact.md) — a broader claim this one bears on
+- [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a broader claim this one bears on

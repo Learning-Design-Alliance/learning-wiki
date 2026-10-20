@@ -50,3 +50,5 @@ Quasi-experimental study meeting WWC standards with reservations, including 191 
 - [Read Well® shows no discernible effects on reading achievement for elementary school English language learners](read-well-no-discernible-effects-reading-achievement-ell.md) — related
 - [Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects](fast-forword-alphabetics-indeterminate.md) — related
 - [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related
+- [In the comprehension domain, one study of Fast ForWord showed statistically significant positive effects, two showed substantively important positive effects, and three showed indeterminate effects](fast-forword-comprehension-mixed-findings.md) — related
+- [Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners](fast-forword-no-discernible-effects-alphabetics-general-literacy.md) — related

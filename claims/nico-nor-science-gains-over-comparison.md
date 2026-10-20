@@ -43,3 +43,4 @@ Linear regression analyses of pre/post science assessment data from the field st
 ## Related Claims
 - Children in classrooms implementing the Early Science with Nico and Nor program made significantly more improvement in science learning than peers in comparison classrooms. — possibly the same claim (merge candidate)
 - [Children who engaged in the program at both home and school made significantly more improvement in science learning than children who implemented at school only](home-and-school-engagement-greater-science-improvement.md) — related
+- [Teachers reported the program was easy to implement and children enjoyed the activities, with modifications made for time, space, darkness, and plant-growth constraints](nico-nor-teacher-implementation-experience.md) — related

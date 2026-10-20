@@ -45,3 +45,8 @@ Classroom observation study of 21 teachers' audio-recorded instructions during t
 ## Related Claims
 
 - [Elementary teaching practices during a standardized lesson are more often teacher-directed than child-centered, with no grade differences in frequency](teaching-more-teacher-directed-than-child-centered.md)
+- [More frequent cognitive strategy instruction is negatively related to the effectiveness of children's restudy selections](cognitive-strategy-instruction-negative-restudy-effectiveness.md) — related
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related

@@ -46,3 +46,8 @@ Quasi-experimental VCR matched-comparison analysis of Washington charter student
 - [Charter school students show more annual learning growth in reading and math than matched traditional public school peers](charter-students-more-days-learning-reading-math.md) — reports the opposite
 - [Charter learning gains in each of the three growth periods do not differ statistically from TPS peers](wa-charter-gains-by-growth-period.md) — related
 - [Charter students' learning growth in the first, second, and third year of enrollment is not statistically different from TPS peers](wa-charter-gains-by-years-enrolled.md) — related
+- [New Mexico charter school students make similar one-year growth in reading and math as their traditional public school virtual twins](nm-charter-overall-growth-similar-to-tps.md) — related
+- [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — related
+- [Pennsylvania charter school students show similar reading growth but weaker math growth (about 30 fewer days of learning) than matched TPS peers](pa-charter-overall-similar-reading-weaker-math.md) — related
+- [Urban brick-and-mortar charter students in New Mexico outperform their TPS virtual twins in reading, while suburban, town, and rural charter students are on par](nm-urban-charter-reading-advantage.md) — related
+- [South Carolina charter students show similar reading growth but weaker math growth than traditional public school peers, with a math disadvantage of 53 fewer days of learning per year](sc-charter-overall-math-weaker-reading-similar.md) — related

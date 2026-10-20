@@ -61,3 +61,4 @@ Dataset analysis of CASED label distributions (Section 2.1): approximately 69% o
 - [The Bayesian context layer applies stronger posterior personalization to students with fewer training clips, correlating clip count with KL divergence from the prior (r=-0.748, p=0.001)](bayesian-context-kl-clip-count-correlation.md) — related
 - [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related
 - [Classroom and institutional differences account for little variance in engagement; nearly all variance is between students](engagement-variance-mostly-student-level.md) — related
+- [The integrated model explains substantial variance in student engagement (R² = 0.700) in GenAI-supported learning](integrated-model-explains-engagement-variance-r2-700.md) — related

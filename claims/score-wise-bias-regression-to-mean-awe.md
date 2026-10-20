@@ -53,3 +53,6 @@ Score-wise error analysis (RMSE, MAE, mean signed bias per ETS score level) on t
 - [Fine-tuned PLMs exhibit label compression toward mid-scale QoF scores, never predicting extreme labels 1 and 7](plm-label-compression-qof-extremes.md) — related
 - [Fine-tuned GPT-4o achieves state-of-the-art scoring of TOEFL argumentative essays with QWK 0.84 and RMSE 0.44 against official scores](wraft-finetuned-gpt4o-scoring-qwk-084.md) — related
 - [LLMs overrate short underdeveloped essays and over-penalize minor language errors in well-developed essays](llm-overrate-short-essays-overpenalize-errors.md) — related
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related
+- [LLM feedback sentiment tracks assigned scores: low scores come with more criticism, high scores with more praise](llm-feedback-sentiment-tracks-scores.md) — related
+- [Fine-tuned PLMs outperform prompted LLMs in rubric-based teaching quality scoring accuracy, while LLMs better preserve score variability](plms-outperform-llms-qof-scoring-accuracy.md) — related

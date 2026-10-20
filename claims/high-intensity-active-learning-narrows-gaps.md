@@ -62,3 +62,7 @@ Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, wit
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
 - [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
+- [Whether timing, intensity, and duration of class size reduction moderate its effect remains an open question in the literature the review synthesises](timing-intensity-duration-moderators-open-question.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Most active learning college science conditions contain a substantial lecture component despite the active-learning-versus-lecture dichotomy](active-learning-courses-retain-lecture-component.md) — related
+- [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related

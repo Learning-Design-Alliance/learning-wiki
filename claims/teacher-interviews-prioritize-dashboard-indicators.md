@@ -64,3 +64,7 @@ Kano-method ratings with the same teachers on MathTutor-loggable indicators. Exc
 ## Related Claims
 - [Five learner-valued indicators extend established CSCL frameworks, while six map closely onto existing dimensions](learner-indicators-extend-established-cscl-frameworks.md) — related
 - [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related
+- [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](teacher-confidence-highest-with-guiding-dashboard.md) — related
+- [Mirroring-condition teachers relied more on indicator views while alerting and advising teachers opened more group overviews](mirroring-teachers-rely-on-indicators-not-group-overviews.md) — related
+- [Dashboard-monitoring is a newly observed orchestration type in which the teacher uses real-time AI dashboards to grasp student status and adjust lesson direction and pace (14 of 46 episodes)](dashboard-monitoring-orchestration-type.md) — related

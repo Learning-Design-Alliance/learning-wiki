@@ -43,4 +43,5 @@ Editorial report of the study by SoonAh Lee and Kwangok Song on undergraduate ps
 
 
 ## Related Claims
--
+- [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
+- [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — related

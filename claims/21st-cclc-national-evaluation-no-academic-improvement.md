@@ -75,3 +75,5 @@ The national evaluation reports that "There were few impacts on student achievem
 - [21st Century Community Learning Centers after-school programs changed where and with whom students spent some of their after-school time](21st-cclc-changed-after-school-time-location-and-companions.md) — related
 - [21st CCLC afterschool programs changed after-school supervision, with parents less likely to care for their child and other adults more likely](21st-cclc-shifted-after-school-supervision-away-from-parents.md) — related
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related
+- [21st CCLC participation showed no statistically significant effect on the incidence of self-care after school](21st-cclc-no-significant-effect-self-care.md) — related
+- [Greater amounts of participation in afterschool programs show little relation to academic, behavioral, or socio-emotional outcomes](afterschool-dose-little-support-outcomes.md) — related

@@ -44,4 +44,4 @@ Quintile analysis (Chart 5) of the fraction of personalized learning students wh
 
 
 ## Related Claims
--
+- [Students in personalized learning schools made significantly greater mathematics and reading gains over two years than matched comparison students (effect sizes 0.27 mathematics, 0.19 reading)](pl-two-year-gains-math-reading-effect-sizes.md) — a broader claim this one bears on

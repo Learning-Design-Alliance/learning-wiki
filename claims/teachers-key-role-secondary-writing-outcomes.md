@@ -46,3 +46,4 @@ A landscape-analysis brief states as its framing premise that "Teachers—in bot
 - [Teachers shape writing outcomes through instructional practices and through engagement, support, and feedback](teacher-practices-support-feedback-shape-writing.md) — possibly the same claim (merge candidate)
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
 - [Dialogic teacher support cultivates all four aspects of statistical modeling practice over a multi-week unit](dialogic-teacher-support-cultivates-statistical-modeling-practice.md) — related
+- [Collaborative text co-construction with the teacher as scribe gives five-year-olds autonomy of composition and judgement and sustains long focused engagement](co-construction-scribe-teacher-fosters-composition-autonomy.md) — related

@@ -45,3 +45,4 @@ Subgroup findings reported in WWC Appendix A4.1 for the Title I subsample of Mac
 ## Related Claims
 - [Lexia Reading shows no discernible effects on general reading achievement](lexia-reading-no-discernible-general-achievement.md) — a broader claim this one bears on
 - [Lexia Early Reading shows no significant advantage over Earobics on alphabetics, with several negative effects substantively important](lexia-versus-earobics-alphabetics-comparison.md) — related
+- [Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations](lexia-versus-control-kindergarten-alphabetics.md) — related

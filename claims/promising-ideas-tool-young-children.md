@@ -46,3 +46,5 @@ Editorial summary of Chen, Scardamalia and Bereiter's article in this issue, des
 
 - [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related
 - [Automated methods capturing thematic cohesion significantly enrich the analysis of knowledge building over time in student discussion](automated-thematic-cohesion-enriches-knowledge-building-analysis.md)
+- [KBDeX visualization and knowledge building rubrics engaged PSTs in continuous monitoring, analysis, negotiation, synthesis, and identification of promising inquiry routes](kbdex-rubric-reflection-enabled-continuous-monitoring-synthesis-inquiry.md) — related
+- [Children aged 6–8 combining augmented reality with socio-dramatic play make significant progress toward explicit physics discourse](augmented-reality-play-physics-trajectory-young-children.md) — related

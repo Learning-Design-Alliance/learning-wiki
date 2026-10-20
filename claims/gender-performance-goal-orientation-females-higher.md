@@ -55,3 +55,6 @@ MANOVA by gender (831 female, 578 male). Table 9 shows PGO F=5,76, p=,01, while 
 - [Female elementary students rated their teacher more positively over time than male students](female-students-rate-teachers-more-positively-over-time.md) — related
 - [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — related
 - [No statistically significant gender differences in perceived learning outcomes across any dimension among higher vocational students](no-gender-differences-perceived-learning-outcomes-vocational.md) — related
+- [No gender differences in writing self-efficacy were found in any included postsecondary study](no-gender-differences-writing-self-efficacy.md) — related
+- [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — reports the opposite
+- [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — reports the opposite

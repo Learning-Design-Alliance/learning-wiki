@@ -44,3 +44,5 @@ Analysis of terms enrolled for 5,447 2012–14 CPS immediate enrollees who compl
 
 ## Related Claims
 - [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related
+- [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
+- [Stopping out was common and associated with non-completion: about 90 percent of CPS graduates who took a semester off did not finish a degree within six years](stopping-out-early-warning-non-completion.md) — related

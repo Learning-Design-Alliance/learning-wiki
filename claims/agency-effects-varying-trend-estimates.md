@@ -46,3 +46,5 @@ Agency Effects results compare the four survey agents. PISA estimates a median t
 - [Achievement progress is steeper for students tested at younger ages, especially in math](younger-students-steeper-achievement-gains.md) — related
 - [US cohort achievement trends per decade are steeper in math (median 0.19sd) than in reading (median 0.04sd) across linked surveys](math-gains-exceed-reading-gains-us-cohorts.md) — related
 - [Elementary/middle-grade math scores improved incrementally across all three eras while reading scores remained fairly flat for two decades](cps-math-incremental-reading-flat.md) — related
+- [Fourth-grade cohorts in other countries also show larger math than reading gains, suggesting moderators more general than the United States](international-math-reading-differential.md) — related
+- [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related

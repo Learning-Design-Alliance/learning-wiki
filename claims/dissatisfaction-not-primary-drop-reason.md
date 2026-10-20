@@ -50,3 +50,4 @@ Analysis of coded withdrawal reasons from online courses over two years, after c
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related
 - Attrition did not differ significantly between cognitive apprenticeship and control sections, and withdrawing students did not cite the instructional method — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
+- [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related

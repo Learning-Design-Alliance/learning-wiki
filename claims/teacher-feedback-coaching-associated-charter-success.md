@@ -47,3 +47,5 @@ The paper's key findings state that "frequent feedback and coaching for teachers
 - [CMOs with the greatest positive impact on student achievement were most likely to use an intense approach to monitoring and coaching teachers](cmo-impact-linked-intense-teacher-coaching.md) — a narrower finding that bears on this claim
 - [Teachers play a key role in determining students' success in school districts and CMOs](teachers-key-role-student-success-districts-cmos.md) — related
 - [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — related
+- [Policies promoting data use to guide teachers' instructional practices are positively associated with charter school achievement impacts](data-use-policies-associated-charter-success.md) — related
+- [Five successful CMOs used identifiable approaches intended to help improve student achievement](five-cmos-approaches-improve-achievement.md) — related

@@ -62,4 +62,5 @@ Observational analysis of grading residuals against gradee grade (Figure 2c) in 
 
 
 ## Related Claims
--
+- [LLM grading performance relative to human graders is mixed: comparable in 12 reviewed cases, worse in 11, with the strongest alignment on short, straightforward tasks](llm-grading-mixed-against-human-raters.md) — related
+- [Grading time shows a sweet spot: students grading around 20 minutes (time z-score near -0.25) have significantly lower residual standard deviations than slow graders, while snap graders are unreliable and inflate grades](grading-time-sweet-spot-twenty-minutes.md) — related

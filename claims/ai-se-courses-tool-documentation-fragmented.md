@@ -44,3 +44,5 @@ Direct extraction of tools explicitly named in public course materials across th
 
 ## Related Claims
 - [Among AI-assisted software engineering courses with public objectives, human-AI collaboration, tool development, and evaluation are the most common learning-objective themes](ai-se-courses-objectives-collaboration-building-evaluation.md) — related
+- [Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools](specific-tools-named-in-syllabi-not-institutional.md) — related
+- [In a narrative educator assessment, coding assistants (Cursor and Claude Code) produced the most accurate, complete, and pedagogically sound slides from textbook chapters](coding-assistants-best-slide-generation.md) — related

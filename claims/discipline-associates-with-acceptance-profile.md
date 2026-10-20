@@ -46,3 +46,4 @@ Chi-square test of a contingency table crossing STEM/non-STEM background with th
 - [Latent profile analysis of pre-service teachers' ChatGPT acceptance yields four highly distinguishable profiles, with Pragmatic Evaluators the largest (47.66%)](four-chatgpt-acceptance-profiles-lpa.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
 - [Cluster membership is significantly associated with gender, with a small-to-moderate effect (χ²(5) = 345.52, Cramér's V = 0.157)](cluster-gender-chi-square.md) — related
+- [Inquiry-based exploration simulations were significantly more likely in exact and life sciences than humanities and social sciences](inquiry-simulations-more-likely-in-sciences.md) — related

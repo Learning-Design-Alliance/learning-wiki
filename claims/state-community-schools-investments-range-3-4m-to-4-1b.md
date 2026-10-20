@@ -46,3 +46,4 @@ A descriptive policy scan of eight states' community school investments based on
 - [States investing in community schools typically prioritize funding for the highest-need schools and districts, with high-need thresholds ranging from 40% to 80% or more of the student population.](states-prioritize-highest-need-schools-community-schools-funding.md) — related
 - [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related
 - [The American Rescue Plan provides $122 billion for COVID recovery in schools](arp-provides-122-billion-covid-school-recovery.md) — related
+- [States draw on federal, state, and local funding sources to develop and sustain statewide leadership initiatives](funding-sources-statewide-leadership-initiatives.md) — related

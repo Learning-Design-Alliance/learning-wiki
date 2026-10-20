@@ -64,3 +64,4 @@ Self-reported cybercrime experiences in the same survey. The article states "21%
 ## Related Claims
 - [Computing students learn cybersecurity mainly from informal sources outside the classroom, with word of mouth, social media, and financial institutions most common](cybersecurity-knowledge-informal-sources-dominate.md) — related
 - Victimized students reported negative school conditions at higher rates than nonvictims — related
+- [Two attitude clusters differ significantly on preparedness, confidence, and interest (p<.0001), with Cluster 1 lower on Pew and GSE but not SeBIS, and reporting more word-of-mouth learning](two-attitude-clusters-differ-preparedness-confidence.md) — related

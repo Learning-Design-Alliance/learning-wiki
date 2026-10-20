@@ -46,3 +46,4 @@ Pearson correlation between mothers' and children's variables (Table 3) in the s
 - [Children's arithmetic skills are the strongest predictor of their explicitly measured math anxiety, with higher skills associated with lower anxiety](arithmetic-skills-predict-explicit-math-anxiety.md) — related
 - [Maternal education has the largest peak association with cognitive development: a high-school-to-college increase predicts about 0.4 SD higher reading and math scores at the peak.](maternal-education-largest-peak-association.md) — related
 - [Maternal cognitive support was only modestly associated with emotional support and largely independent of intrusiveness and negativity](cognitive-support-largely-independent-of-emotional-support.md) — related
+- [Higher levels of student involvement in self-monitoring lead to stronger intervention effects (preliminary evidence)](student-involvement-stronger-effects.md) — related

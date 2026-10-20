@@ -71,3 +71,6 @@ School-level change analyses reported in the findings section: increases in util
 - [Access to restorative practices is inequitable: schools with more Black and economically disadvantaged students show lower restorative practice utilization](inequitable-access-restorative-practices.md) — related
 - Oakland 11th graders reported improved school connectedness and safety after discipline reform — related
 - [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — a narrower finding that bears on this claim
+- [Student exposure to restorative practices improves standardized test performance and reduces suspension probability and duration](restorative-practice-exposure-improves-achievement-reduces-suspension.md) — related
+- [Roswell's University High cut suspensions from 274 to 61 and raised graduation nearly 20 percentage points; substance abuse infractions dropped 80% at both Roswell community schools](roswell-suspension-graduation-substance-infraction-declines.md) — related
+- [Strategies not linked to a problem behavior's specific context are associated with increases in the occurrence of that behavior](context-unlinked-strategies-increase-problem-behavior.md) — related

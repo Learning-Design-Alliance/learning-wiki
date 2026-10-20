@@ -64,3 +64,8 @@ Multiple regression on absolute accuracy during the Monitoring Exercise (t=1a) f
 
 - [Higher narcissism and higher task motivation predict more positive bias in self-assessed idea creativity](narcissism-motivation-predict-idea-bias.md)
 - [Higher narcissism and task motivation predict more positive self-assessed idea creativity](narcissism-motivation-predict-idea-self-assessment.md)
+- [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
+- [Most students who ultimately failed the exam still expected to pass three days before it, showing persistent overconfidence despite knowledge gain](failers-still-expected-to-pass.md) — related
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related
+- [Bias scores did not improve over the school year, but school year level mattered: year 1 students became less overconfident while year 3 students improved their underconfidence](bias-no-change-year-level-effects.md) — related
+- [Monitoring accuracy in exam score predictions and in key-term definition judgments during the Monitoring Exercise were uncorrelated, suggesting different cues underlie the two measures](prediction-accuracy-measures-uncorrelated.md) — related

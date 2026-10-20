@@ -48,3 +48,5 @@ The review reports, citing Reed and Bolstad, an experiment in which college stud
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](comparing-contrasting-cases-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related
 - [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Productive failure students significantly outperformed lecture-practice and facilitated complex problem solving students on well-structured and higher-order application post-test problems](pf-outperformed-lp-fcps-post-test-problems.md) — related

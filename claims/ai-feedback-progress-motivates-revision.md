@@ -50,3 +50,5 @@ Observational findings from the case study's thematic analysis. One student, des
 - [Participants held divided views on the star rating display: motivating feedback for some, a distracting oversimplification for others](divided-views-star-rating-display.md) — related
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — a broader claim this one bears on
+- [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
+- [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](rubric-ai-feedback-scaffolds-and-reduces-workload.md) — related

@@ -115,3 +115,6 @@ Open questions for future evidence entries include the durability of effects aft
 - [French fourth- and fifth-graders who received SRSD instruction produced higher-quality stories than matched peers who received regular writing instruction](srsd-improves-french-pupils-story-quality.md) — a narrower finding that bears on this claim
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — a narrower finding that bears on this claim
 - [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — related
+- [An analytical strategy training program embedded in a digital literacy course improved university students' performance on online search and evaluation tasks, though to varying extent.](analytical-strategy-training-improves-online-reading-performance.md) — related
+- [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related

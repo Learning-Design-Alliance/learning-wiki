@@ -45,3 +45,4 @@ Descriptive replication in Results §5.3: the same contingency table option was 
 ## Related Claims
 - [A single configurable analytics codebase replicates prior research findings across three educational AI assistant domains](a4l-pipeline-replicates-analyses-across-three-domains.md) — a broader claim this one bears on
 - [Statistical power analysis for Welch's t-test originally developed for the VERA domain was extended to the SAMI domain through configuration alone](a4l-pipeline-extends-power-analysis-vera-to-sami.md) — related
+- [Lack of standardised AI reporting undermines reproducibility, peer review, meta-analysis, and impact](unstandardised-ai-reporting-harms-reproducibility-and-review.md) — a broader claim this one bears on

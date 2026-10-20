@@ -47,3 +47,7 @@ Synthesis of the nine AIHEd reviews covering facial recognition/mood detection a
 - K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data — related
 - [Algorithmic bias and data privacy are central ethical risks of AI in adult education](algorithmic-bias-privacy-risks-adult-education.md) — related
 - [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
+- [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
+- [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
+- [Publication and dissemination is the most frequent research integrity item topic, and consent the most frequent research ethics topic, in validated RCR measures](publication-and-consent-top-validated-rcr-measure-topics.md) — related
+- [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related

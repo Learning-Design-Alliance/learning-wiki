@@ -44,3 +44,4 @@ Descriptive overview statement reporting the scale of the 2005 survey administra
 
 ## Related Claims
 - [The 2005 CCSR survey drew over 130,000 participants and produced reports for 454 schools](2005-ccsr-survey-participation-454-schools.md) — related
+- [Ten years of repeated survey participation enables reporting of change over time in school climate measures](ten-years-survey-trend-reporting.md) — related

@@ -45,3 +45,6 @@ Cohort progression analysis tracking 13-year-old cohorts from 1991 through 1998 
 ## Related Claims
 - [Students delayed by promotion gates recovered on-schedule status more easily than those delayed by course failure](gate-delays-easier-to-recover-than-course-failure.md) — related
 - [Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort](chicago-gate-dropout-rates-flat-then-declined.md) — related
+- [Graduation by age 18 was slightly higher in later cohorts despite earlier off-schedule status](graduation-by-18-slightly-higher-later-cohorts.md) — related
+- [Defining dropout cohorts by age 13 rather than by ninth-grade entry avoids composition bias from the CPS promotion policy's grade retentions](age-based-cohort-definition-avoids-retention-bias.md) — related
+- [The requirement structure decreased the percentage of graduates completing both chemistry and physics, because mandated earth or environmental science pushed the combination into a fourth year](cps-requirement-reduced-chemistry-physics-combination.md) — related

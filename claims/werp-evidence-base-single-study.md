@@ -62,3 +62,6 @@ WWC review of the program's research base. The single qualifying study included 
 - [Thirteen of 14 reviewed studies of the program fail WWC evidence standards or eligibility screens, most for lacking comparison-group designs or non-equivalent quasi-experimental groups](challengge-thirteen-studies-excluded.md) — related
 - The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
 - [The WWC rated JOBSTART as having potentially positive effects on completing school, based on a small extent of evidence from a single study](jobstart-wwc-potentially-positive-rating.md) — related
+- [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — related
+- [The effects of ITSS are not known for adolescent literacy outcomes other than comprehension](itss-effects-unknown-other-outcomes.md) — related
+- [The evidence base for Building Blocks for Math is small and limited to the math domain](building-blocks-evidence-base-small-math-only.md) — related

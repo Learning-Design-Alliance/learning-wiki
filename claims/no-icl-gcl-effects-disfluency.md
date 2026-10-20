@@ -43,4 +43,7 @@ Regression analyses of subjective cognitive load ratings (Cognitive Load Questio
 
 
 ## Related Claims
--
+- [Disfluency and WMC × disfluency did not affect extraneous cognitive load, contrary to hypotheses](no-ecl-effect-disfluency.md) — related
+- [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — related
+- [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md) — related
+- [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md) — related

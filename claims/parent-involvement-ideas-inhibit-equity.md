@@ -47,3 +47,7 @@ A narrative review's central critical question. The review "investigates how cur
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Mission statements across the U15, Russell Group, and Ivy League exhibit Booth's rhetorical corruptions, with polished rhetoric of excellence obscuring concrete commitments](mission-statement-rhetorical-corruptions.md) — related
+- [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — related
+- [Parental home supervision has the weakest relationship with students' academic achievement among involvement components](parental-home-supervision-weakest-relationship.md) — related
+- [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — related
+- [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — related

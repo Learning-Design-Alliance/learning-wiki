@@ -66,3 +66,5 @@ Review synthesis citing the Chinese DiD study (Clark et al.) and the German onli
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](covid-closures-younger-students-more-affected.md) — related
 - [Studies in which students used familiar online-learning software reported positive achievement effects during school closures](covid-closures-positive-effects-online-software.md) — related
 - [Median achievement losses from spring 2020 school closures were similar for mathematics (−0.10 SD) and reading (−0.09 SD), though individual studies found subject-specific differences](covid-closures-subject-specific-effects.md) — related
+- [LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most](la-positive-effect-high-performers-benefit-most-k12-math.md) — related
+- [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — related

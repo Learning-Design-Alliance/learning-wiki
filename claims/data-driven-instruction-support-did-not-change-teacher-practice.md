@@ -45,3 +45,5 @@ Key finding from the random assignment study: "The support for data-driven instr
 ## Related Claims
 - [Support for data-driven instruction did not increase key data-related activities despite additional resources and emphasis](data-driven-instruction-support-did-not-increase-data-activities.md) — possibly the same claim (merge candidate)
 - [In the data-driven instruction evaluation, most aspects of the intervention were implemented as planned](data-driven-instruction-support-implemented-as-planned.md) — related
+- [Teachers used ASSISTments reports to adjust instruction and make problem review more frequent, targeted, and data driven](assistments-data-driven-review-instructional-adjustment.md) — reports the opposite
+- [Districts with data systems in place still face challenges in the strategic use of data](districts-face-strategic-data-use-challenges-despite-systems.md) — related

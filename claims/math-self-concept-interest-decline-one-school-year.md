@@ -70,3 +70,5 @@ Univariate latent growth model for interest in the same three-wave sample showed
 - [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — a broader claim this one bears on
 - [A high proportion of high-performing classmates lowers sixth-graders' situational academic self-concept, an experimental BFLPE at the extreme contrast](bflpe-experimental-situational-self-concept.md) — related
 - [A 15-minute exposure to higher-performing virtual classmates did not significantly affect sixth-graders' dispositional domain-specific self-concept](no-dispositional-self-concept-effect-ivr.md) — related
+- [Changes in mathematics self-concept and interest are independent of prior achievement and do not predict later achievement](motivation-changes-independent-of-achievement.md) — related
+- [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) — related

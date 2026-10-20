@@ -44,3 +44,5 @@ Narrative review attributing this finding to Smit (2022); the reviewed study's d
 
 ## Related Claims
 - [Criterion measures, attitudes towards learning English, instrumentality promotion, and ideal L2 self are the strongest predictors of L2 self-efficacy](strongest-motivation-predictors-of-self-efficacy.md) — related
+- [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related
+- [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects](individual-work-best-asr-pronunciation-training.md) — related

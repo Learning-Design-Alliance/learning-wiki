@@ -48,3 +48,4 @@ The article describes its own data collection: pre- and post-semester surveys of
 - [The post-study survey instrument showed high internal consistency (alpha = 0.90)](cyberagents-survey-alpha-090.md) — related
 - [Students recognised both the benefits and limitations of GenAI, demonstrating ethical awareness and critical evaluation of its role in academic work](students-recognise-genai-benefits-and-limitations.md) — related
 - [Student reflections revealed tensions between efficiency and academic integrity, and uncertainty about institutional expectations of GenAI use](tensions-efficiency-integrity-uncertain-expectations.md) — related
+- [Students reported increased personal responsibility and described the reflective self-assessment process as confidence-building during their transition to university](reflection-builds-responsibility-and-confidence-transition.md) — related

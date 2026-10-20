@@ -46,3 +46,5 @@ Narrative literature review of Facebook in higher education. The review highligh
 - [Facebook use in higher education is associated with improved performance, convenience of learning and higher engagement](facebook-improved-performance-convenience-engagement.md) — related
 - [Facebook is used in myriad ways as an educational instrument for learning and teaching in higher education](facebook-myriad-educational-uses-higher-education.md) — related
 - [Social media usage in higher education continues to grow, and future empirical research on its educational role is warranted](social-media-growth-future-empirical-research-warranted.md) — related
+- [Facebook use in higher education is associated with increased teacher-student and student-student interaction](facebook-increases-teacher-student-student-student-interaction.md) — related
+- [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — related

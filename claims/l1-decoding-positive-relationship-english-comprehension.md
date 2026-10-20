@@ -52,3 +52,4 @@ Meta-analysis pooling six studies with independent correlations consisting of 10
 - [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](l1-use-in-decoding-instruction-effective.md) — related
 - [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](l2-oral-language-correlates-english-reading-comprehension.md) — related
 - [Comprehension strategy use distinguished better ML readers more accurately than English reading fluency did](strategy-use-distinguishes-better-ml-readers.md) — related
+- [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — reports the opposite

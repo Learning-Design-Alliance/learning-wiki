@@ -61,3 +61,4 @@ Qualitative characterization of the three main clusters from the same coauthorsh
 - Removing the workshop's coauthorship edges increased average path length and network diameter, indicating the workshop publications bridge otherwise separate researcher groups — related
 - Platform-enabled experimentation research draws on multiple intellectual lineages, including intelligent tutoring systems, formative feedback, and exemplar platforms like ASSISTments — related
 - The DLP-as-research-infrastructure community is small and fragmented: the DLP-focused cluster was one of five bibliographic-coupling communities and only 20.6% of filtered papers — related
+- [The NSF EXP collaboration network connected 238 researchers across 87 projects and 116 expertise areas](nsf-exp-network-238-researchers-87-projects.md) — related

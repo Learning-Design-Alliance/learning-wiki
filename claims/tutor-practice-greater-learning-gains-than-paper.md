@@ -48,3 +48,6 @@ Linear mixed-effects analysis of learning gains from a counterbalanced within-su
 - GO Tutor Corps high-impact math tutoring produced significantly greater mathematics achievement gains than no tutoring for matched grade 6-10 students — related
 - [In one 30-student study of high-school English learners (Lu 2008, reported in a review), vocabulary learned by mobile phone showed greater gains than vocabulary learned from print](sms-vocabulary-learning-beats-paper-materials.md) — related
 - [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
+- [The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability](three-way-interaction-condition-self-efficacy-favorability-learning.md) — related
+- [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related

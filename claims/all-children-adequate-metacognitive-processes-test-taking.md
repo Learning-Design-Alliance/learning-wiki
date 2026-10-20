@@ -43,4 +43,8 @@ Baseline finding of the N = 150 experimental study: the article reports that "Al
 
 
 ## Related Claims
--
+- [Older children (11/12-year-olds) outperform younger children (9/10-year-olds) when considering characteristics of on-going retrieval processes](older-children-outperform-younger-on-retrieval-process-characteristics.md) — related
+- [High achievers are more accurate than low achievers in metacognitive monitoring and controlling during test taking](high-achievers-more-accurate-metacognitive-monitoring-control.md) — reports the opposite
+- [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
+- [When facing higher demands regarding retrieval processes, mnemonic experience (age) seems to play the more important role in metacognitive performance](experience-more-important-under-higher-retrieval-demands.md) — related
+- [Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment](highest-pre-monitoring-judgment-predicts-recognition-choice.md) — related

@@ -72,3 +72,7 @@ Experiment 4, 98 online adults randomly assigned to curiosity or subjective-unce
 - [Studying one's highest-curiosity items produced better recall than studying lowest-curiosity items](studying-high-curiosity-items-improves-recall.md) — related
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)
 - [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md)
+- [Adults report greater curiosity about answers on incorrect-answer trials than on correct-answer trials](curiosity-higher-incorrect-than-correct-trials.md) — related
+- [Adults opt out of answering more on trials they later answer incorrectly, and curiosity is higher on opted-out trials (metacognitive control)](opt-out-more-on-incorrect-trials-curiosity-higher.md) — related
+- [Engineering physics undergraduates are more curious than they appear in lecture when given the chance to submit questions about interactive simulations](students-more-curious-than-lecture-appears.md) — related
+- [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — related

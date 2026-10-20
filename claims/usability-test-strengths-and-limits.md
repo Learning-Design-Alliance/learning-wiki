@@ -51,3 +51,6 @@ Usability test with eight participants in two groups (chatbot designers and inst
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — related
 - [Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers](collaborative-chatbot-answer-verification-problem-solving.md) — related
+- [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — related
+- [AI-supported prototyping combined with educator feedback loops accelerated development and surfaced usability issues early in one K-2 literacy tool project](ai-prototyping-accelerates-development-with-feedback-loops.md) — related
+- [Chatbot-based instruction enhanced secondary students' learning experience by enabling self-paced study with less stress, time savings, and maintained motivation](chatbot-enhances-learning-experience-self-paced.md) — related

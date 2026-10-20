@@ -49,3 +49,4 @@ Narrative review attribution: the authors report, citing multiple MCPL-paradigm 
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — related
 - [Critical constructive feedback is neglected at multiple, independently measurable processing stages](critical-constructive-feedback-is-neglected-at-multiple-stages.md) — related
 - [AI assistance that substitutes for learning activities may improve immediate performance while impeding long-term skill development](ai-substitution-impedes-long-term-skill-development.md) — related
+- [Students given AI assistance in peer feedback tended to rely on the AI-generated feedback and struggled to perform the task when the assistance was removed](ai-assistance-peer-feedback-overreliance.md) — related

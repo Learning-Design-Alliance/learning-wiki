@@ -45,3 +45,5 @@ A homophily analysis categorized participants by post totals into high, medium, 
 ## Related Claims
 
 - [Participation in non-scientific discussion was weakly negatively related to participation in scientific discussion (r = 0.14, p < 0.05)](negative-qap-scientific-non-scientific.md)
+- [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md) — related
+- [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](students-moderating-bridging-role.md) — related

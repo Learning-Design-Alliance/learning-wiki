@@ -48,3 +48,5 @@ Regression analysis in the 120-participant study: "ratings of interest were foun
 
 ## Related Claims
 - [Spatial thinking and generative activity reduced monitoring error while higher interest increased it](spatial-generative-reduce-error-interest-increases.md) — related
+- [Instructional condition did not significantly affect readers' predictive judgments of understanding](no-condition-effect-predictive-judgments.md) — related
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related

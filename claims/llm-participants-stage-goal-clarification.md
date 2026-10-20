@@ -65,3 +65,8 @@ Focus group interview data. Participants reported that "the agents' questions pr
 - [Ethical issue awareness improved more than ethical consequence reasoning after LLM-supported group ethics discussion](ethical-issue-awareness-greater-gain-than-reasoning.md) — related
 - [Definitions, checkpoints, and staged pacing improved conceptual clarity for novice programmers](checkpoints-and-definitions-improved-clarity.md) — related
 - [Teachers perceive their role shifting from knowledge transmitters to facilitators, co-investigators, and ethical supervisors of AI use](teacher-role-shift-facilitator-ethical-supervisor.md) — related
+- [LLM assessment conversations can be derailed off-topic by gaming attempts, and one successful prompt revision was not demonstrated to be replicable](llm-cba-derailment-gaming-not-replicable.md) — related
+- [Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding](students-perceive-chatgpt-valuable-learning-tool.md) — related
+- [Attentional Drift, reported by 125 participants, reflects pace impatience and restless switching after AI-supported work](attentional-drift-pace-impatience-restless-switching.md) — related
+- [Group ethical discussion with multiple LLM agents significantly increases ethical sensitivity in STEM undergraduates](llm-ethics-discussion-ethical-sensitivity-gains.md) — related
+- [LLM coders replicate many human discursive moves but lack questioning, adaptive responsiveness, and emotional expressiveness](claim-llms-replicate-discursive-moves-lack-questioning.md) — related

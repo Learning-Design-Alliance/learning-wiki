@@ -54,3 +54,4 @@ The review reports Tode (2007), a seven-month experimental study of 89 Japanese 
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — related
 - [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related
+- [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — a broader claim this one bears on

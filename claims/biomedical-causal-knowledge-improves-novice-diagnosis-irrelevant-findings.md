@@ -49,3 +49,4 @@ Experiment 1: novices learned artificial diseases via causal mechanisms or featu
 - [Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology](biomedical-causal-knowledge-improves-novice-diagnosis-unfamiliar-terminology.md) — related
 - [Advantage of causal knowledge on unfamiliar terminology persists one week after training](causal-knowledge-advantage-unfamiliar-terminology-persists-one-week.md) — related
 - [Physicians revert to basic biomedical knowledge when faced with challenging clinical problems](physicians-revert-to-biomedical-knowledge-on-challenging-problems.md) — related
+- [The relation between medical expertise and diagnostic accuracy was case-dependent: positive for Case 4, negative for Case 1 (novices outperformed experts), and absent for Cases 2, 3, and 5](expertise-diagnostic-accuracy-case-dependent.md) — related

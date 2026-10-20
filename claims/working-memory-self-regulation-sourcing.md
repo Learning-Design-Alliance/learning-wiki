@@ -85,3 +85,5 @@ In the single reviewed study of argumentative reasoning (Mason et al., 2014), ni
 - [Interest rarely relates to sourcing while task values show consistent positive relationships](interest-task-values-sourcing.md) — related
 - [Relationships between individual differences and sourcing vary with how sourcing is measured and with the domain or topic of the materials](sourcing-measurement-domain-moderators.md) — a broader claim this one bears on
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](self-regulation-striatal-motor-coupling-reactive.md) — related
+- [Group-level physiological state transitions in heart rate are positively correlated with on-track sequences during collaboration](physiological-state-transitions-correlate-on-track-sequences.md) — related
+- [Prior knowledge relates to sourcing in fewer than half of reviewed studies, with the relationship varying by how knowledge is measured](prior-knowledge-sourcing-mixed-measurement.md) — related

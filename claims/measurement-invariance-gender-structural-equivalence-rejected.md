@@ -52,3 +52,5 @@ Three-stage WLSMV multigroup invariance sequence (Nmen=251, Nwomen=255) followed
 - [The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities](cross-cultural-invariance-dual-pathway-model.md) — related
 - [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
 - [The cross-lagged model holds equally for intervention and control groups and for boys and girls](model-invariance-gender-and-intervention-groups.md) — related
+- [The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels](genai-srl-measurement-invariance-gender.md) — related
+- [Workplace harassment did not significantly degrade teacher self-efficacy, plausibly due to a ceiling effect](harassment-no-significant-effect-teacher-self-efficacy.md) — related

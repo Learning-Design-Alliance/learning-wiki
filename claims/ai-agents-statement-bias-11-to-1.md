@@ -66,3 +66,4 @@ Mann-Whitney U test on the same post corpus showed "questions received significa
 - [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](ai-agent-validation-rate-within-human-range.md) — related
 - [Community topic framing shifts AI agent discourse: the philosophy submolt shows a 31.3% question rate versus 7.4% in general](community-framing-shifts-ai-agent-questioning.md) — related
 - [Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community](procedural-posts-higher-engagement-ai-agents.md) — related
+- [Longer, more elaborated AI agent posts receive substantially higher engagement than shorter posts](elaborated-posts-higher-engagement-ai-agents.md) — related

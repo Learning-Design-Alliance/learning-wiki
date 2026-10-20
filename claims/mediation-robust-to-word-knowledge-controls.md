@@ -65,3 +65,5 @@ Final analysis including only children whose mean accuracy exceeded .50 at 19 mo
 - [Child-directed speech predicts real-time language-processing efficiency at 19 and 24 months and explains gains in efficiency](child-directed-speech-predicts-processing-efficiency.md) — related
 - [Processing efficiency at 19 months mediates the relation between child-directed speech and 24-month vocabulary](processing-efficiency-mediates-cds-vocabulary.md) — possibly the same claim (merge candidate)
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
+- [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related
+- [Amount of child-directed speech at 19 months predicts expressive vocabulary size at 24 months in low-SES Spanish-learning infants](child-directed-speech-predicts-vocabulary-low-ses.md) — related

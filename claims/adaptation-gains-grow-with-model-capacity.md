@@ -48,3 +48,6 @@ Numerical results reported with Fig. 2 across three Qwen3 scales under one fixed
 - [Model family and instruction-tuning approach appear better predictors of tutoring quality than parameter count alone](model-family-beats-parameter-count-for-tutoring-quality.md) — related
 - [LoRA fine-tuning on control systems course data increases lexical and semantic similarity between model responses and course reference answers at both 3B and 7B model sizes](lora-improves-reference-answer-similarity-control-systems.md) — related
 - [Adaptation benefits structured curricular knowledge (quantities, laws, definitions) most and loosely specified entity-level knowledge least](structured-knowledge-benefits-most-from-adaptation.md) — related
+- [Under identical LoRA hyperparameters and training data, the 27B Gemma model outperforms the 70B LLaMA model on every computed essay-scoring metric](model-scale-not-predictor-lora-scoring.md) — related
+- [Base-model size effects persist after LoRA adaptation: the 7B model gained more on ROUGE-2 and ROUGE-L, yet 3B-r16 outperformed 7B-r4 on ROUGE-L and BERTScore-F1](model-size-and-lora-rank-joint-effects.md) — related
+- [Scaling model size improves performance within K-5 and at the boundary but does not recover Beyond-K-5 performance](scaling-helps-in-scope-not-beyond-k5.md) — related

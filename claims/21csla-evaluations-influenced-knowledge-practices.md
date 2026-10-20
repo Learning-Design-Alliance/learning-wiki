@@ -47,3 +47,4 @@ The report summarizes two commissioned studies of the first grant cycle: an RTI 
 - [In its first 3-year grant cycle, 21CSLA served approximately 8,300 California leaders through 333 communities of practice and localized professional learning offerings plus coaching for hundreds of leaders](21csla-served-8300-leaders-first-cycle.md) — related
 - [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — related
 - [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — related
+- [FEIP was associated with improvements in professionals' knowledge and skills related to family engagement practice](feip-professional-knowledge-skills-improvements.md) — related

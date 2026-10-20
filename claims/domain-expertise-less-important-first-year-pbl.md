@@ -43,4 +43,7 @@ Focus group finding coded under the domain specific expertise factor; students s
 
 
 ## Related Claims
--
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](student-tutors-cognitive-congruency-focus-group.md) — related
+- [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Students taught by rigorously selected and well trained student tutors show no significant achievement differences from students taught by staff tutors in first-year PBL courses](student-tutors-no-achievement-difference-pbl.md) — related

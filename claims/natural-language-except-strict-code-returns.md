@@ -42,3 +42,5 @@ Aggregate expression-level analysis of classified comments from the four-year Co
 
 ## Related Claims
 - [Students shift toward How comments for procedural constructs: 94.3% of Multi-Step-Block and 57.3% of Loop-Iteration comments were How comments](how-comments-procedural-constructs-shift.md) — related
+- [Students across both deployments substituted return statements for exception-raising constructs, treating error conditions as reasons to exit early](return-for-raise-substitution-pattern.md) — related
+- [Deploying a trace-capturing Parsons tool in two university courses surfaced recurring difficulty patterns including exception-type misidentification, return-for-throw confusion, and incorrect control-flow ordering](pulla-deployment-surfaced-recurring-difficulty-patterns.md) — related

@@ -51,3 +51,4 @@ Regression analysis in 86 third graders; the Bayes factor of 13 376 272 for symb
 - [Non-symbolic magnitude processing shows mixed associations with inhibition measures](nonsymbolic-nmp-mixed-inhibition-association.md) — related
 - [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related
 - [Mathematics achievement is more strongly related to inhibition measured in numerical than non-numerical contexts](numerical-inhibition-stronger-math-achievement-link.md) — related
+- [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related

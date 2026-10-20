@@ -50,3 +50,6 @@ A controlled experiment in which two groups of 27 university students, differing
 - [Metalinguistic written CF was equivalent, not superior, to non-metalinguistic direct CF, contrasting with previous studies whose metalinguistic CF also contained correct forms.](metalinguistic-cf-equivalent-not-superior-to-direct.md) — related
 - [Explicitly learned L2 rules can be automatized through systematic practice after a metalinguistic criterion is reached](explicit-rules-automatizable-through-practice.md) — related
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
+- [Form-focused instruction on noun endings significantly increases French immersion students' ability to correctly assign grammatical gender, with gains maintained on delayed posttests](ffi-noun-endings-improves-gender-attribution.md) — a narrower finding that bears on this claim
+- [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — related
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related

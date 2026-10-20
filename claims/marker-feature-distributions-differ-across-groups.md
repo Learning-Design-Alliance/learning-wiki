@@ -65,3 +65,4 @@ Tukey's HSD pairwise comparisons of marker features. Shared Yellow was significa
 
 - [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](process-mining-heterogeneous-yellow-group-more-efficient.md)
 - [In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping](mixed-ga-grouping-greater-vocabulary-gain-efl.md)
+- [A text-mining group and representation tool scaffolds students' learning processes and improves outcomes under specific conditions](grt-text-mining-group-formation-scaffolds-learning.md) — a broader claim this one bears on

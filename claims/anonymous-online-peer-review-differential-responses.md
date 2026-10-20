@@ -62,4 +62,8 @@ The same Beijing peer-review experiment found generally positive student respons
 
 
 ## Related Claims
--
+- [Anonymity in computer-mediated collaboration can produce a stronger group identity than non-anonymous face-to-face situations](anonymity-strengthens-group-identity-cscl.md) — related
+- [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Effortful, fluent-feeling experiences can create an illusion of learning: felt sense of learning is a poor gauge of actual learning](effortless-ai-use-creates-illusion-of-learning.md) — related
+- [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
+- [Peer assessment of writing yields outcomes at least as good as teacher assessment and sometimes better](peer-writing-assessment-as-good-as-teacher.md) — related

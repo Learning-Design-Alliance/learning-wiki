@@ -57,3 +57,5 @@ Long-term tracking study of the first two lottery cohorts, observable for five y
 - [Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college](charter-middle-admission-no-effect-degree-attainment-persistence.md) — related
 - The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics — related
 - [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) — related
+- [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
+- [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](kipp-tracking-1177-lottery-applicants-13-schools.md) — related

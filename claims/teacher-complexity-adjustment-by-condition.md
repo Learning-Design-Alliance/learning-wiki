@@ -43,4 +43,6 @@ Qualitative analysis of scaffolding strategies in the Results section, illustrat
 
 
 ## Related Claims
--
+- [Co-regulation led to shared understandings with effective patient management as a result (Lajoie and Lu)](co-regulation-shared-understanding-patient-management.md) — related
+- [Teacher discourse shifted toward creating new challenging situations (NI) and confirming repeats (R) in the interactive-whiteboard condition, versus providing requested information (IR) and clarification questions (Q) in the traditional-whiteboard condition](iw-condition-ni-r-versus-tw-ir-q-discourse.md) — related
+- [The IW-supported group needed less teacher scaffolding in the late problem-solving stage, where nurse and instructor discourse decreased, while scaffolding increased from early to late stage in the TW condition](iw-group-less-late-stage-scaffolding.md) — related

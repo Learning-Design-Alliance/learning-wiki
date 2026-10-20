@@ -45,3 +45,4 @@ Chronological analysis of 789 models sorted by creation time, computing the prop
 ## Related Claims
 - [Self-directed online learners' modeling behaviors cluster into three patterns—Observation, Construction, and Exploration—differing in engagement level](three-behavioral-patterns-self-directed-modeling.md) — related
 - [Observation behavior is predominantly associated with copied rather than original models, while Construction and Exploration draw more on original models](observation-pattern-predominantly-copied-models.md) — related
+- [Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types](nine-markov-clusters-map-three-behavior-types.md) — related

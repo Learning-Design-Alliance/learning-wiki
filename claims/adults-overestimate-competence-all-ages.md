@@ -47,3 +47,5 @@ Descriptive overview of the weighted NEPS SC6 indicators (mathematics bias M = 0
 - [Older age groups overestimate their mathematical and reading competence more than younger age groups, but this may reflect performance differences](age-increased-overestimation-competence-adults.md) — related
 - [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
 - [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related
+- [Reflective judgment scores increased consistently with age and educational level](reflective-judgment-increases-age-education.md) — related
+- [Teachers' judgments of students' performance deviated 21.96% from students' actual performance, tending to overestimate it](teachers-overestimate-students-performance-22-percent.md) — related

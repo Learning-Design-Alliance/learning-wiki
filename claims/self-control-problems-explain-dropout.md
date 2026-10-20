@@ -43,4 +43,4 @@ The review reports Oreopoulos' (2007) analysis of compulsory schooling laws in t
 
 
 ## Related Claims
--
+- [Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish](adolescent-impatience-predicts-high-school-dropout.md) — a narrower finding that bears on this claim

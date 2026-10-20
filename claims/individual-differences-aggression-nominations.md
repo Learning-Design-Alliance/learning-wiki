@@ -46,3 +46,4 @@ The review reports, citing Jackson et al. (2015), that in an average classroom o
 - [Prosocial behavior is associated with peer acceptance and aggression with rejection, though aggression can be accepted in some classrooms](behavior-acceptance-rejection-associations.md) — related
 - [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
 - [Prosocial and aggressive descriptive norms vary considerably between classrooms](classroom-descriptive-norms-vary.md) — related
+- [Peer group descriptive norms and social cohesion socialize individual children's prosocial and aggressive behavior over time](peer-group-norms-socialize-individual-behavior.md) — related

@@ -44,3 +44,5 @@ Same national survey; comparison of STEM (n = 620) and non-STEM coursetakers' po
 
 ## Related Claims
 - [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — related
+- [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — related
+- [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related

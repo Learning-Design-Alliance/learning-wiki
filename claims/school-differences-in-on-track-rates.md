@@ -46,3 +46,9 @@ Observational comparison of CPS high schools, reported with Figure 1 including a
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 1997 cohort](vivaldi-1997-on-track-varies-by-high-school.md) — a narrower finding that bears on this claim
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort](vivaldi-2001-on-track-varies-by-high-school.md) — a narrower finding that bears on this claim
+- [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
+- [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
+- [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](cps-on-track-rate-61-to-85-percent-2006-2015.md) — related
+- [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
+- [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related

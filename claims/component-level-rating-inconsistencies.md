@@ -47,3 +47,4 @@ Matched-observation analysis in the year-one pilot found four challenging compon
 - [Principals were far more likely than trained external observers to rate the same instruction Distinguished rather than Proficient](principals-inflate-distinguished-ratings.md) — reports the opposite
 - [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — related
 - [Principals inflated ratings at the high end of the scale, more often identifying instruction as distinguished than observers](high-end-rating-inflation.md) — reports the opposite
+- [Differences between principal and observer ratings at the high end of the scale were explained largely by teachers' previous evaluation ratings](prior-ratings-explain-observer-differences.md) — related

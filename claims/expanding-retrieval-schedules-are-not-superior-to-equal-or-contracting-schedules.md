@@ -131,3 +131,4 @@ Nakata, T. (2015). Effects of expanding and equal spacing on second language voc
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — related
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — possibly the same claim (merge candidate)
+- [Number of retrieval exposures moderates the expanding-versus-uniform schedule benefit: more tests favour the expanding schedule](exposures-moderate-expanding-schedule-benefit.md) — related

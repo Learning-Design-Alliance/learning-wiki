@@ -49,3 +49,6 @@ Meta-regression of the single-case design sample testing intervention-characteri
 - [School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)](sm-interventions-improve-classroom-behaviors-scd-meta.md) — related
 - [Effect size heterogeneity in self-management interventions may be explained by grade level, disability status, and general versus special education setting](self-management-heterogeneity-moderators-grade-disability-setting.md) — related
 - [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related
+- [Self Monitoring Improves On Task Behavior](self-monitoring-improves-on-task-behavior.md) — related
+- [Substantial variability exists in the specific components used across self-management interventions despite established effectiveness](self-management-component-variability-remains.md) — related
+- [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related

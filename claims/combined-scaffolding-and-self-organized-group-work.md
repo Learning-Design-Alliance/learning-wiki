@@ -43,4 +43,5 @@ Overall-coordination analysis of group 7's work across the three phases of the t
 
 
 ## Related Claims
--
+- [Combining domain-general and domain-specific scaffolds yields the highest effect, and domain-general scaffolds outperform domain-specific ones](domain-general-scaffolds-outperform-domain-specific.md) — related
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md) — related

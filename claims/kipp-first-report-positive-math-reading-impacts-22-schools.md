@@ -51,3 +51,4 @@ The executive summary describes the evaluation's first report (2010), which cove
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
 - [KIPP outcomes were measured with state tests, a nationally normed assessment including higher-order thinking measures, and student- and parent-reported behaviors](kipp-outcome-measures-normed-assessment-behaviors.md) — related
+- [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related

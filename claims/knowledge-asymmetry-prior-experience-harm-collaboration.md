@@ -43,4 +43,6 @@ A theoretically derived condition from the article's cognitive load analysis of 
 
 
 ## Related Claims
--
+- [Collaborative tasks should be complex enough that joint effort is worthwhile, engaging the collective working memory effect](collective-working-memory-effect-task-complexity.md) — related
+- [Collaboration facilitates learning only under specific knowledge and experience conditions; with advanced learners it can be detrimental via the expertise reversal effect](collaboration-beneficial-conditions-expertise-reversal.md) — related
+- [The collective working memory effect: group learning is more efficient than individual learning for high-complexity tasks, but individual learning is more efficient for low-complexity tasks](collective-working-memory-effect-complexity-dependent.md) — related

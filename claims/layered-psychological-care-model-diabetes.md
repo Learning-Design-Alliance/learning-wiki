@@ -48,3 +48,4 @@ Narrative review synthesizing evidence from oncology and cardiology on embedded 
 - [Distress and depression screening improved detection but did not reliably enhance psychological or medical outcomes when follow-up pathways were absent](screening-without-followup-insufficient.md) — related
 - [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
 - [In the SWEET pediatric registry, centres with ready access to psychological services showed lower rates of ketoacidosis and slightly lower HbA1c levels](sweet-registry-psychological-access-outcomes.md) — related
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — a broader claim this one bears on

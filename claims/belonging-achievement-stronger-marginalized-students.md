@@ -51,3 +51,6 @@ The review reports, citing Fong et al. (2024), a scoping review finding that "be
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a broader claim this one bears on
 - [Learning happens best when students feel a sense of belonging, while alienation and exclusion create cognitive barriers](belonging-reduces-cognitive-barriers.md) — related
 - [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](belonging-mediates-identity-achievement.md) — related
+- [Academic emotions moderate the relationship between belonging and achievement](emotions-moderate-belonging-achievement.md) — related
+- [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](mathematics-belonging-predicts-algebra-learning.md) — related
+- [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](underrepresented-students-fewer-belonging-affordances.md) — related

@@ -152,3 +152,9 @@ A multilevel meta-analysis comparing interleaved with blocked presentation of it
 - [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — related
 - [Group testing shows advantages in some studies but mixed results overall for long-term retention and transfer](collaborative-testing-mixed-results.md) — a narrower finding that bears on this claim
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](retrieval-practice-review-50-classroom-experiments.md) — related
+- [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — related
+- [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — related
+- [Spaced recall quizzing significantly improves overall post-test performance on fundamental mathematics without harming learning of current material](spaced-recall-improves-posttest-without-harming-new-learning.md) — a narrower finding that bears on this claim
+- [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related
+- [Some participants used external memory aids such as notes or web sources during practice, and Experiment 2 analyses were checked excluding these participants.](external-memory-aid-use-during-practice.md) — related
+- [Deeper processing of target language improves lexical retention and long-term learning](depth-of-processing-improves-l2-retention.md) — related

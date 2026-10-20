@@ -94,3 +94,7 @@ The review reports, citing Gerlich (2025a), a mixed-methods study of 666 partici
 - [Polychronicity moderates the relationships between effective AI use, AI over-reliance, and learning outcomes](polychronicity-moderates-ai-use-learning-relationships.md) — related
 - [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](genai-higher-order-thinking-mixed.md) — a broader claim this one bears on
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
+- [Among LLM users, Low-Reliance students (use in under half of submissions) consistently outperformed High-Reliance students by roughly 7-8% across all three midterms](low-reliance-outperformed-high-reliance-midterms.md) — related
+- [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — reports the opposite
+- [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
+- [80% of IB student essays explicitly link reliance on AI to reduced thinking](essays-link-ai-reliance-to-reduced-thinking.md) — a narrower finding that bears on this claim

@@ -64,3 +64,4 @@ This is an author estimate reported in the brief, stating one-year teaching-effe
 - [The average teaching-effectiveness disparity for disadvantaged students equals about four weeks of learning in reading and two weeks in math](disadvantaged-students-receive-less-effective-teaching.md) — related
 - [Disparities in access to effective teaching between disadvantaged and non-disadvantaged students varied widely across the 29 districts studied](access-effective-teaching-varies-across-districts.md) — related
 - [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](career-ladder-missouri-small-or-no-achievement-effect.md) — related
+- [Disadvantaged students in 29 study districts receive poorer-quality instruction, on average, compared with other students](disadvantaged-students-poorer-access-effective-teachers.md) — a broader claim this one bears on

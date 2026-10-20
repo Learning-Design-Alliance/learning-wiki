@@ -45,3 +45,6 @@ The review reports, citing two meta-analyses (Tobler 1986; Bangert-Drowns 1988) 
 ## Related Claims
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school](national-estimates-adolescent-substance-use-prevalence.md) — related
+- [School-based prevention practices appear effective in reducing alcohol and drug use, dropout and nonattendance, and other conduct problems, with small average effects and considerable heterogeneity across studies](school-based-prevention-small-heterogeneous-effects.md) — reports the opposite
+- [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related
+- [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — related

@@ -44,3 +44,4 @@ The Assessing the Impact of ADE Programming phase (2024–2026) of the logic mod
 
 ## Related Claims
 - [The BPSS logic model targets increased college readiness among Arkansas student populations with persistent outcome disparities](bpss-goal-college-readiness-disparity-populations.md) — related
+- [The logic model's medium-term outcomes center on ADE staff data-use and formative-evaluation capacity](bpss-medium-term-ade-capacity-outcomes.md) — related

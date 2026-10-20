@@ -48,3 +48,4 @@ Correlational analysis within the 206 adults with ADHD using Pearson's correlati
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
 - [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related
 - [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related
+- [Extreme DESR in adults with ADHD is associated with reduced marital status and higher risk of traffic accidents and arrests](extreme-desr-marital-accidents-arrests.md) — related

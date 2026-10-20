@@ -43,4 +43,4 @@ Linear regression of post-test Sourcing in specifying information need in the qu
 
 
 ## Related Claims
--
+- [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](anger-does-not-mediate-concession-effects.md) — related

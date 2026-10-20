@@ -48,3 +48,4 @@ Real-time proxy evaluation on 2019 riddles (156), feeding 7-word chunks of clues
 - [Answering early on few clues correlates with worse real-time proxy performance](early-answering-correlates-worse-realtime-performance.md) — a narrower finding that bears on this claim
 - [LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects](llms-struggle-most-chemistry-nsmq-riddles.md) — related
 - [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
+- [In offline validation, the HMM timing model detected children's attention moments more accurately than fixed-interval and dwell-time triggers](hmm-timing-outperforms-fixed-and-dwell-triggers.md) — related

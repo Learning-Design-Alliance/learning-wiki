@@ -46,3 +46,5 @@ The report's summary of Mead's 1950 Inglis Lecture at Harvard, in which she argu
 ## Related Claims
 - [Mead holds that the process of acquiring changes the thing acquired, making change of subject matter the rule](acquiring-changes-the-thing-acquired.md) — related
 - [Mead argued education functions as a mechanism of social and cultural change, not only cultural transmission](mead-education-as-mechanism-of-social-change.md) — a broader claim this one bears on
+- [Mead holds that a method of thought cannot be transferred but must be gained through the learner's own abstractions](method-of-thought-cannot-be-transferred.md) — related
+- [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related

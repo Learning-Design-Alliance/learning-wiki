@@ -53,3 +53,5 @@ Descriptive analysis of six-year college completion for the CPS class of 2013 by
 - [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md) — related
 - [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related
 - [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)
+- [The six-year college graduation rate for CPS graduates enrolling in four-year colleges rose to 50 percent in 2014, 10 points below the national rate](cps-college-graduation-50-percent-2014.md) — related
+- [The CPS four-year college enrollment rate rose from 33 percent in 2006 to 42 percent in 2014, slightly below the national rate](cps-four-year-enrollment-33-to-42-percent.md) — related

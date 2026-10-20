@@ -46,3 +46,5 @@ Descriptive preference data from free-recall self-reports. British children most
 - [British children spend more daily time on videogames while Turkish children spend more on traditional games](cross-cultural-game-time-differences-children.md) — related
 - [Action, strategy-intelligence, role-playing and sport traditional game genres positively predict social problem-solving scores](traditional-game-genres-positive-spsic-predictors.md) — related
 - [Action-adventure videogames negatively predict social problem-solving scores while simulation, puzzle, serious and educational videogames predict positively](videogame-genre-spsic-regression-predictors.md) — related
+- [Simulation games were the most-used game type for educational assessment (N = 7, 33%), followed by immersive (N = 6, 29%) and video games (N = 5, 24%)](gba-game-types-simulation-most-used.md) — related
+- [Boys in both Turkish and British samples spend more time playing videogames than girls](boys-more-videogame-time-both-cultures.md) — related

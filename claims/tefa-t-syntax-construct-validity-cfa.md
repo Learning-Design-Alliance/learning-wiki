@@ -47,3 +47,6 @@ Expert validation study: a 70-item construction validity instrument was circulat
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related
 - The five dimensions of the developed thinking styles scale show structural validity via confirmatory factor analysis — related
 - [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related
+- [The TEFA-T model significantly improves students' metacognitive skills compared with conventional instruction](tefa-t-improves-metacognitive-skills.md) — related
+- [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related
+- [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related

@@ -84,3 +84,4 @@ Descriptive baseline from the discussion of the think-aloud study: without chatb
 - [Qualitative case narratives show the chatbot shifted stakeholders from narrow, visually driven readings toward conditional, context-aware interpretations](chatbot-shifts-interpretations-toward-context-aware.md) — possibly the same claim (merge candidate)
 - [The FACTRIA-aware chatbot received good usability ratings (SUS 70.84) and high usefulness ratings from most of the 11 stakeholders](factria-chatbot-usability-sus-70-84.md) — related
 - [Transition network analysis shows the chatbot's prompts and explanations structured the interaction while participants generated their own interpretations](tna-chatbot-prompts-structure-user-interpretation.md) — related
+- [Stakeholder survey rated achievability lowest across Framework elements, especially Element 5 (continuous improvement)](framework-achievability-ratings-low.md) — related

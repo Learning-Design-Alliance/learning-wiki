@@ -48,3 +48,6 @@ Same quasi-experimental study, high-proficiency subgroup contrast between recast
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — the general claim this finding bears on, with the studies behind it
 - [All three groups benefited from the instructional intervention, with both experimental groups benefiting the most](all-groups-benefited-experimental-most.md) — related
 - [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](low-proficiency-learners-benefit-more-from-prompts.md) — related
+- [The provision of negative feedback alone did not significantly predict ESL question development in this study](negative-feedback-alone-not-significant-predictor.md) — related
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
+- [Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks](ffi-with-prompts-beats-recasts-for-gender.md) — related

@@ -44,3 +44,4 @@ The report's external-factors section reports, citing the National Center for Ed
 
 ## Related Claims
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
+- [Charter LEAs enroll a lower proportion of students with disabilities than traditional LEAs and serve smaller proportions in higher-cost disability categories](charter-leas-fewer-swd-and-fewer-high-cost-categories.md) — related

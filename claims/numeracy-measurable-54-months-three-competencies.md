@@ -47,3 +47,4 @@ The abstract describes the study's measurement design: mastery of "three numeric
 - [Early numeracy mastery at 54 months predicts high school math course-taking](early-numeracy-mastery-predicts-hs-math-course-taking.md) — related
 - [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](numerical-routines-individualize-through-bonding.md) — related
 - [Number Board Games Improve Numerical Knowledge](number-board-games-improve-numerical-knowledge.md) — related
+- [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related

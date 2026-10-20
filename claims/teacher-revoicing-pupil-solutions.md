@@ -64,3 +64,8 @@ Analysis of Fragment 8, where the teacher suggested pupils "break it down into s
 ## Related Claims
 
 - [During collaborative learning with computers, teachers' concerns of classroom management and pedagogy are typically intertwined](teacher-management-pedagogy-intertwined.md)
+- [Teachers can guide students' conceptual understanding of life skills concepts by building on the everyday experiences students invoke in classroom conversations.](teachers-build-on-everyday-experiences-in-life-skills-conversations.md) — a broader claim this one bears on
+- [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](teacher-responses-can-close-off-pupil-thinking.md) — related
+- [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md) — related
+- [Teacher guidance plays a significant mediating role in collaborative-learning classroom outcomes](teacher-guidance-mediation-cscl.md) — a broader claim this one bears on
+- [Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims](pupil-divergent-orientation-caption-box.md) — related

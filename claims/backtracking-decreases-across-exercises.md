@@ -45,3 +45,4 @@ Fine-grained analysis of replayed usage logs (Table 1(a)) from 18 analyzed first
 ## Related Claims
 - [Students backtracked far more before applying the inductive hypothesis than after, suggesting difficulty finding where to place it](backtracking-higher-before-inductive-hypothesis.md) — related
 - [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related
+- [Requiring students to write out evaluation steps manually improved transfer to pen-and-paper exam performance between the two deployments](manual-evaluation-steps-improve-exam-transfer.md) — related

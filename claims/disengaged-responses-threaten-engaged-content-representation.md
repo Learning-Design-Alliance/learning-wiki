@@ -45,3 +45,5 @@ This is the article's framing statement, offered as a conceptual argument rather
 ## Related Claims
 - [Disengaged test-taking responses can distort the content representation of test items](disengaged-responses-distort-item-content-representation.md) — a broader claim this one bears on
 - [E-M scoring assumes the remaining responses are unaffected by disengagement, and this assumption can fail under partial engagement](em-scoring-assumes-remaining-responses-unaffected.md) — related
+- [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related
+- [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related

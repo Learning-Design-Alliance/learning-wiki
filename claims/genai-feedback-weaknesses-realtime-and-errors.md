@@ -69,3 +69,5 @@ Same qualitative dataset; the discussion also notes ChatGPT's wrong string name 
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
+- [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — related
+- [Learner-level challenges of ChatGPT in STEAM IBL include over-reliance, inaccurate or irrelevant feedback, conceptual confusion, and diminished creativity](chatgpt-steam-ibl-learner-challenges.md) — related

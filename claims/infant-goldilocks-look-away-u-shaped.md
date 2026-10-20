@@ -48,3 +48,6 @@ The review reports the authors' infant studies (Kidd, Piantadosi, & Aslin, 2012,
 - [Prosodic and sound-level features of child-directed speech support infants' phoneme discrimination, word segmentation, and word learning](cds-prosody-supports-phoneme-segmentation.md) — related
 - [Structural features of child-directed speech—isolated words, short sentence frames, and repetition—facilitate word segmentation, processing, and word learning](cds-structural-features-aid-word-learning.md) — related
 - [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — a narrower finding that bears on this claim
+- [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
+- [Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome](surprise-enhances-infant-object-sound-learning.md) — related
+- [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related

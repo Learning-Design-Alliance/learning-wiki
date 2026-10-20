@@ -47,3 +47,4 @@ Thematic analysis of teacher prompts and student feedback found that although th
 - [Validator agent reliability is highest for realism and lowest for authenticity in human evaluation](validator-reliability-highest-realism-lowest-authenticity.md) — related
 - [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related
 - [Mathematical hallucinations were rare but teachers used professional knowledge to adjust mathematical properties](teachers-adjust-mathematical-properties-llm-problems.md) — related
+- [Teachers adjusted problem topics as the most common refinement move](teachers-adjust-problem-topics-refinement.md) — related

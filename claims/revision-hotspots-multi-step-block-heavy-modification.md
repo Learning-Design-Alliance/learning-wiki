@@ -44,3 +44,5 @@ Trace of changed comments from question to construct to modification category (F
 - [Students shift toward How comments for procedural constructs: 94.3% of Multi-Step-Block and 57.3% of Loop-Iteration comments were How comments](how-comments-procedural-constructs-shift.md) — related
 - [Students rarely rewrite specification comments: within the first 10 attempts, Unchanged (48.4%) and New (41.3%) dominate while substantial revisions total only 4.4%](low-comment-rewriting-across-attempts.md) — a broader claim this one bears on
 - [Low comment rewriting does not imply a smooth process: students describe the main effort as verifying generated code rather than revising prompts](verification-burden-shifts-work-from-rewriting-to-reviewing.md) — related
+- [Student comments directing AI code generation are dominated by What comments, with How comments second and Why comments rare](what-comments-dominate-student-ai-specifications.md) — related
+- [Creating computational literature develops computational literacy even when code modification is minor](creating-computational-literature-develops-computational-literacy.md) — related

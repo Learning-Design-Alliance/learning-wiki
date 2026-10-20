@@ -71,3 +71,6 @@ The report cites survey statistics on teacher training and technology reliance i
 - [Teachers rely more on experience and instinct than on academic research, and teachers who rely on research are more comfortable with and positive about edtech](teacher-practice-experience-over-research-edtech-link.md) — related
 - [DLP-coached teachers reported greater increases in frequency of technology use than non-DLP teachers](dlp-coaching-increases-teacher-technology-use-frequency.md) — related
 - [Professional development needs roughly 50 hours in a specific area, and long-term content-specific support outperforms one-shot sessions](fifty-hours-content-specific-pd.md) — related
+- [Integrated instructional hours correlate more positively with technology integration ability than stand-alone technology courses](integrated-hours-beat-standalone-tech-courses.md) — related
+- [Teachers need tailored technical support and time to understand how to use Ecree and integrate it with their instruction](teachers-need-tailored-support-time-ecree-integration.md) — related
+- [Teachers tended to adopt district-provided tools, and single-application step-by-step training supported uptake of Forms](district-provided-tools-single-tool-training.md) — related

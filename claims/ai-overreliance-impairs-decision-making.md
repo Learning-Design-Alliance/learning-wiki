@@ -82,3 +82,8 @@ Study of 15 non-native English speaking EFL learners using AI dialogue systems f
 - [Over-reliance on AI scaffolding risks learned helplessness, so focus should shift to fostering self-regulated AI interaction](ai-scaffolding-fading-learned-helplessness.md) — related
 - [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](checking-ai-claims-predicts-gains.md) — related
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](longitudinal-trust-studies-omit-skill-outcomes.md) — related
+- [Open ChatGPT support increases college students' final decision confidence relative to independent decision-making, and reflection attenuates the boost](chatgpt-support-increases-final-confidence.md) — related
+- [Conflict with a machine-learning decision support system's output induces deeper reflection than confirmation](conflict-seed-induces-deeper-reflection.md) — related
+- [Reflective strategies such as cognitive forcing, pre-commitment, and uncertainty communication reduce overreliance on AI and improve decision quality, but have been evaluated only as short-term single-session interventions](reflective-strategies-short-term-only-evidence.md) — related
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related
+- [The effectiveness of reflective AI-engagement mechanisms varies across users, depending on Need for Cognition, expertise, domain familiarity, and task difficulty](reflective-support-effects-vary-by-user.md) — related

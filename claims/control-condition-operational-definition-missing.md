@@ -49,3 +49,5 @@ Frequency coding of the 176 Freeman et al. (2014) articles for operational defin
 - [Dosage of instruction was equal between comparison groups in fewer than a third of active learning studies and unspecified in most](dosage-matching-rarely-reported-active-learning.md) — related
 - [Implementation fidelity was assessed in fewer than 8% of active learning intervention studies](implementation-fidelity-rarely-assessed-active-learning.md) — related
 - [Most active learning studies did not report group equivalence measures directly related to the dependent variable](group-equivalence-directly-related-rarely-reported.md) — related
+- [Complete operational definitions of conditions were provided in fewer than half of comparisons (42% conventional, 50% IVR)](operational-definitions-incomplete-in-ivr-studies.md) — related
+- [Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria](ivr-comparisons-only-26-percent-fully-controlled.md) — related

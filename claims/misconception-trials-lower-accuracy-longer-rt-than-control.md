@@ -61,3 +61,8 @@ The same ANOVA on RT (N = 87) showed main effects of Trial type, F(1, 83) = 310.
 
 - [Incongruent items in school-topic tasks are generally associated with longer response times and lower accuracy, patterns consistent with inhibitory control recruitment](incongruent-items-longer-rt-lower-accuracy.md) — a broader claim this one bears on
 - [In discipline-specific exploratory regressions, neither Stroop RT cost nor complex No-Go accuracy significantly predicted science or maths misconception measures separately](discipline-specific-inhibition-predictions-nonsignificant.md)
+- [Misconception-task accuracy increases with age between 12 and 15 years, with no age effect on reaction time](misconception-accuracy-increases-with-age.md) — related
+- [Better response inhibition (complex No-Go accuracy) is associated with longer reaction times on counterintuitive misconception trials, not better performance](response-inhibition-predicts-longer-misconception-rt.md) — related
+- [Better semantic inhibition (smaller Stroop RT cost) is associated with higher accuracy on counterintuitive science and maths misconception trials](semantic-inhibition-predicts-misconception-accuracy.md) — related
+- [The true-versus-false statement accuracy difference is larger for misconception than control trials, and significant for science but not maths](trial-statement-interaction-science-not-maths.md) — related
+- [Incongruent dot comparison trials are less accurate and slower than congruent trials, consistent with an added inhibition step](incongruent-dot-trials-slower-less-accurate.md) — related

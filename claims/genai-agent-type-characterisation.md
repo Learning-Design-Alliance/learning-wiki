@@ -44,3 +44,5 @@ Definitional/descriptive analysis adapting Russell and Norvig's agent framework 
 
 ## Related Claims
 - [Reasoning-capable model variants and chain-of-thought prompting yield no measurable improvement in either alignment axis for classroom evaluation](reasoning-variants-no-alignment-improvement.md) — related
+- [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Rigorous investigation of GenAI's actual educational and cognitive effects remains limited despite increasing integration into learning environments](genai-pedagogical-effects-investigation-limited.md) — related

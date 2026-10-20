@@ -44,3 +44,4 @@ The chapter quotes the World Education Report 2000 (UNESCO, 2000, p. 74), which 
 
 ## Related Claims
 - [The Key Stage 3 ICT assessment has more potential than CWRA and PISA to measure the full range of 21st century capabilities](key-stage-3-assessment-potential-advantage.md) — related
+- [Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work](little-research-on-teacher-supports-for-complex-systems.md) — related

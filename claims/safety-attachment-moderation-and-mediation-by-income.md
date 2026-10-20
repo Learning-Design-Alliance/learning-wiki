@@ -72,3 +72,4 @@ Bootstrapped mediation models estimated by family income group: the indirect eff
 - [Among youth from low-income families, perceived neighborhood safety is negatively associated with GPA, whereas among non-low-income youth no association is observed](safety-gpa-negative-for-low-income-youth.md) — related
 - [Observer-rated physical neighborhood disorder is negatively associated with GPA, with each standard deviation of disorder linked to a 20.7% of a standard deviation decrease](observer-disorder-negative-gpa-association.md) — related
 - [After accounting for incoming academic achievement, neighborhood crime and poverty show effectively no relationship with school safety](achievement-composition-predicts-safety.md) — related
+- [Census-based neighborhood poverty is positively associated with school attachment after controls](neighborhood-poverty-positive-school-attachment.md) — related

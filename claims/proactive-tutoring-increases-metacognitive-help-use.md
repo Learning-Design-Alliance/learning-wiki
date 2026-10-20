@@ -47,3 +47,7 @@ Analysis of variance in a randomised experimental study of 120 distance learners
 - [Neither tutoring mode nor human tutor access affects learners' use of conceptual help tools](no-tutoring-effect-on-conceptual-help-use.md) — related
 - [Proactive tutoring increases learners' use of lexical help tools compared with reactive tutoring](proactive-tutoring-increases-lexical-help-use.md) — related
 - [Tutor promptings and information items explain only a limited share of variance in help tool use](promptings-limited-explanatory-power-help-use.md) — related
+- [At the median cutoff, proactive and reactive tutoring show no significant difference in MAP growth, with proactive benefits increasing for students farther below the cutoff](didc-cutoff-null-proactive-benefit-increases-below-cutoff.md) — related
+- [Learners heed proactive promptings more systematically when a human tutor is accessible than when it is not](promptings-heeded-more-with-human-tutor.md) — related
+- [Human-AI tutoring increases IXL time on task by 25% with no significant difference between proactive and reactive groups](human-ai-tutoring-increases-time-on-task.md) — related
+- [Proactive tutoring produced larger relative MAP growth than reactive tutoring on average (75% marginally significant in the IK bandwidth)](proactive-tutoring-larger-relative-map-growth.md) — related

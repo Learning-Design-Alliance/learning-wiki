@@ -45,3 +45,4 @@ The review's thematic synthesis of 49 included studies coded 94 co-occurrences b
 ## Related Claims
 - [A strategic learning approach is most commonly associated with high(er) academic performance in medical and dental students](strategic-approach-higher-performance.md) — related
 - [Merely modifying teaching methods in medical and dental schools has limited merit for steering students' learning approaches; no one-size-fits-all teaching method exists](teaching-method-modification-limited-merit.md) — related
+- [Individually analyzed method and approach studies show widely varying effects, with analogy-enhanced teaching rated most effective and two studies insignificant](method-approach-effect-sizes-vary-analogy-largest.md) — related

@@ -66,3 +66,6 @@ Mann-Whitney U comparison of experiment-related support perceptions found no sig
 - [TAIA produced higher adjusted post-test scientific achievement than worksheet-supported inquiry, controlling for pre-test and ICT competency](taia-higher-posttest-achievement-rural.md) — related
 - [Under TAIA the teacher enacted an inquiry-centered instructional loop with repeated within-phase support sequences, identified through lag sequential analysis](taia-inquiry-centered-loop-lsa.md) — related
 - [TAIA reoriented the teacher's action distribution toward inquiry-practice support while the comparison condition emphasized content delivery and assessment](taia-teacher-action-distribution-shift.md) — related
+- [Teachers report AI tools enhance students' higher-order scientific skills including experimental design, inquiry, hypothesis testing, and argumentation](ai-enhances-higher-order-scientific-skills.md) — related
+- [Using the AI chatbot ADA significantly enhances ninth-graders' situational interest in mathematics compared with conventional differentiation materials](ada-significantly-raises-situational-interest.md) — related
+- [A Wheatstone bridge inquiry lab accomplished many of its learning goals and students seemed to enjoy it](circuit-design-inquiry-accomplished-learning-goals.md) — related

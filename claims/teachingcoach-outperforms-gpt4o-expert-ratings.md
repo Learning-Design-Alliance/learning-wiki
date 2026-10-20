@@ -47,3 +47,5 @@ Expert evaluation of 200 conversations on a 3-point scale across four dimensions
 - [In a user study, the GPT-4o-mini baseline was preferred overall, but participants more often attributed learning to the fine-tuned TeachingCoach model](preference-learning-attribution-diverge-chatbots.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
+- [LLM feedback receives higher expert ratings on six of seven quality dimensions, with tone the exception](llm-feedback-higher-expert-ratings.md) — related
+- [The proposed framework outperforms fine-tuned BERT, Instructor-LM, GPT-4, and RAPT on TeacherEval-2023 across consistency, credibility, calibration, and fairness metrics](llm-teacher-assessment-outperforms-baselines-teachereval.md) — related

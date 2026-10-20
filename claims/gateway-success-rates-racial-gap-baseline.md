@@ -47,3 +47,4 @@ Analysis of institutional research office data for the 41 fall 2019 pilot course
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [ASSISTments benefited students of color significantly more than White students, narrowing the ethnic achievement gap](assistments-close-ethnic-achievement-gaps.md) — related
+- [Data dives with disaggregated course success data surfaced equity gaps previously invisible to faculty](disaggregated-data-dives-surface-equity-gaps.md) — related

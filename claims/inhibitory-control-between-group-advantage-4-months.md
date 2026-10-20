@@ -44,3 +44,7 @@ Mixed ANOVA comparing intervention and control groups across three assessment pe
 
 ## Related Claims
 - [A 4-week social media training workshop improved inhibitory control within the intervention group of older adults, with a large effect over the full study period](social-media-training-improves-inhibitory-control-older-adults.md) — related
+- [Social media use rose sharply during the workshop (d = .954) but significantly declined in the following three months (d = .553), though remaining above baseline at 4 months](social-media-use-gains-not-sustained-after-training.md) — related
+- [Processing speed showed no significant group × time interaction, with only a marginal intervention advantage at 4 weeks](processing-speed-no-significant-social-media-effect.md) — related
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [No significant differences in attention or working memory were found between intervention and control groups at either follow-up](no-attention-working-memory-effects-social-media-training.md) — related

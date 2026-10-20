@@ -67,7 +67,7 @@ Participants described ASR benefits, including "a safe space to practice speakin
 |---|---|---|---|
 | [Stephenson 2025](https://doi.org/10.51388/20.500.12265/258) | q2 · qualitative · r2 | i? | this claim |
 | [Guo 2026](https://doi.org/10.48550/arxiv.2609.29672) | q2 · design · r1 | i? | [Pre-deep-learning speech recognition was markedly less accurate on non-native speech, unde](asr-accuracy-drop-non-native-learner-speech.md) (supports) |
-| [Johnson 2021](https://doi.org/10.14705/rpnet.2021.54.1327) | q2 · qualitative · r1 | i? | [Some ESL learners perceived their English proficiency as too low for ASR to transcribe int](low-proficiency-intelligibility-barrier-asr.md) (supports) |
+| [Johnson 2021](https://doi.org/10.14705/rpnet.2021.54.1327) | q2 · qualitative · r1 | i? | [Some ESL learners felt their English was not high enough to use ASR because their speech w](low-proficiency-intelligibility-barrier-asr.md) (supports) |
 | [speech](https://doi.org/10.51388/20.500.12265/232) | q2 · design · r2 | i? | [Speech detection showed preliminary success but remained challenging in noisy settings, pa](speech-detection-preliminary-success-noisy-settings.md) (supports) |
 | [accuracy-category](https://doi.org/10.1145/3803400.3809397) | q2 · associational · r2 | i? | [Students perceived text input as superior for accuracy, control, and editability, with tra](text-perceived-accuracy-control-editability.md) (supports) |
 | [Chen D 2026](https://doi.org/10.3389/fpsyg.2026.1847238) | q2 · associational · r1 | i? | [ASR recognition accuracy enhances learning motivation but does not significantly predict r](asr-accuracy-motivation-not-reflection.md) (qualifies) |
@@ -85,3 +85,6 @@ Participants described ASR benefits, including "a safe space to practice speakin
 - [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — related
 - [Measurable vocal outputs do not by themselves carry fixed pedagogical meaning; their significance depends on interpretation in context](vocal-metrics-lack-fixed-pedagogical-meaning.md) — related
 - [Students recommended ChatGPT to peers and suggested improvements to accent recognition, visual aids, and response time](students-recommend-chatgpt-suggest-improvements.md) — related
+- [Pre-deep-learning speech recognition was markedly less accurate on non-native speech, undermining automated oral feedback for learners, as the article reports citing prior studies](asr-accuracy-drop-non-native-learner-speech.md) — a narrower finding that bears on this claim
+- [Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive](low-proficiency-intelligibility-barrier-asr.md) — related
+- [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related

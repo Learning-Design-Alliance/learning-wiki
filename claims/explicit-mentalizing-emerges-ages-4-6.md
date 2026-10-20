@@ -45,3 +45,5 @@ The review reports, citing a meta-analysis of theory-of-mind development (Wellma
 ## Related Claims
 - [Blind and sighted children do not differ in performance on false-belief items of the non-visual ToM task](no-group-difference-false-belief-items.md) — related
 - [Backward digit span performance does not emerge until about age 5, whereas forward span is measurable from age 3](backward-span-onset-age-5.md) — related
+- [False-belief training improves preschoolers' theory of mind scores but the review reports it has no effect on language skills](false-belief-training-no-language-effect.md) — related
+- [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md) — related

@@ -46,3 +46,5 @@ Robustness path analyses adding overall parent talk (utterance counts from the s
 - [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — related
 - [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) — related
 - [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related
+- [Parents' naturalistic process praise at child ages 14-38 months predicts children's incremental motivational frameworks at age 7-8](process-praise-toddlerhood-predicts-incremental-frameworks.md) — related
+- [Incremental motivational frameworks in 2nd–3rd grade predict 4th grade math and reading comprehension but not reading decoding](incremental-frameworks-predict-math-reading-comprehension-not-decoding.md) — related

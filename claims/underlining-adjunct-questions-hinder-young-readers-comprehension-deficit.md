@@ -48,3 +48,5 @@ The authors' interpretation of the N=69 experiment's results: the findings "sugg
 - [Question prompts improve learning](question-prompts-improve-learning.md) — reports the opposite
 - [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — reports the opposite
 - [Adjunct aids such as learning objectives and embedded questions show limited effects and may interfere with competent readers' natural strategies](adjunct-aids-limited-effects-interference.md) — related
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — a broader claim this one bears on

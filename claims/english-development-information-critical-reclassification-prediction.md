@@ -47,3 +47,4 @@ Authors' interpretation of the Arizona district modeling results reported in the
 - The kind of test-based reclassification criteria, not the number, is likely the more salient determinant of long-term EL status — related
 - [The SREM predicts time to reclassification more accurately than a conventional discrete-time hazard model](srem-outperforms-discrete-time-hazard-accuracy.md) — related
 - Despite improvements in English proficiency, only about half of K-cohort ELs were reclassified by the end of elementary school, revealing a gap between proficiency and reclassification — related
+- [Students designated as LTEL7 who reached the recommended CAASPP ELA achievement cut point were not yet reclassified as fluent English proficient](ltel7-caaspp-ela-met-not-reclassified.md) — related

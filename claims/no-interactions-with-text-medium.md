@@ -48,3 +48,4 @@ Omnibus 2×2×2×2 mixed ANOVA (test time within; medium, complexity, engagement
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - Counterbalancing condition did not affect map accuracy and did not interact with test condition — related
 - [Text complexity (basic vs. comprehensive textbook) shows no significant effect on comprehension](text-complexity-no-comprehension-effect.md) — related
+- [Quiz accuracy declines from immediate to 1-week delayed testing regardless of text medium](quiz-accuracy-declines-after-one-week-delay.md) — a narrower finding that bears on this claim

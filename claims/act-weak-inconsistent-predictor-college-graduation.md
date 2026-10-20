@@ -52,3 +52,5 @@ Continuous-variable HLM models (Model 2, Table 4) predicting six-year graduation
 - [Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates](gpa-and-act-predict-enrollment-college-quality.md) — related
 - [HSGPA strongly predicts six-year college graduation among four-year college enrollees, with odds of graduating doubling per standard deviation of HSGPA](hsgpa-strongly-predicts-college-graduation.md) — related
 - [School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT is included](school-average-act-explains-school-variance.md) — related
+- [Both HSGPA and ACT scores leave large high school effects on college graduation unexplained, which the study recommends measuring and publishing directly](high-school-effects-beyond-gpa-and-act.md) — related
+- [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related

@@ -62,4 +62,7 @@ Case analysis within the same video data: Ava's matrix synthesis was checked "30
 
 
 ## Related Claims
--
+- [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](three-discourse-patterns-across-groups.md) — related
+- [Individual synthesis artifacts facilitated collaborative discourse by guiding the flow of group work and by supporting knowledge sharing, building shared understanding, and generating and advancing ideas](synthesis-artifacts-facilitated-discourse-progression-and-epistemic-actions.md) — related
+- [In the graduate course, most individual synthesis artifacts remained at surface level, with format and depth varying by group and reflecting differing conceptions of synthesis](synthesis-artifacts-varied-in-format-and-depth.md) — related
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related

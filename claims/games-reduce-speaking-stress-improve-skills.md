@@ -54,3 +54,4 @@ Content analysis of semi-structured focus-group interviews with 30 undergraduate
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Fear of making mistakes is the most significant cause of foreign language speaking anxiety among Iranian EFL learners (81%)](fear-of-mistakes-top-speaking-anxiety-iranian-efl.md) — related
 - [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — related
+- [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related

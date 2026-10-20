@@ -50,3 +50,4 @@ The monograph reports a year-long data collection on all inservice activities a 
 - [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
 - [Program dosage was low for many participants: nearly half of Talent Search participants received 10 or fewer hours of services a year](talent-search-low-dosage-half-participants.md) — related
 - [More effective programs used brief 1–3 h laboratory sessions with skill-based activities and multiple media](brief-skill-based-multimedia-sessions-moderator.md) — related
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related

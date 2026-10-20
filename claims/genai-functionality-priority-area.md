@@ -46,3 +46,4 @@ Thematic analysis of qualitative responses from 166 capstone business students i
 - [Students identify exploring GenAI applications across contexts as a second priority area for curriculum development](genai-applications-across-contexts-priority.md) — related
 - [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](genai-ethical-legal-dimensions-priority.md) — related
 - [Students' key areas of interest in GenAI are real-world business applications, ethical considerations, and future technological advancements](student-genai-interest-areas-applications-ethics-advancements.md) — related
+- [Undergraduate business students strongly support integrating GenAI knowledge and application into higher education curricula](business-students-support-genai-curriculum-integration.md) — a broader claim this one bears on

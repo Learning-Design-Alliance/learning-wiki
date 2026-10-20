@@ -47,3 +47,6 @@ The implementation study identifies a structural constraint on exercising public
 - Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01 — related
 - [In 2004-2005, only about one percent of the nearly 6.2 million students eligible for Title I school choice used the option, while about 17 percent of eligible students used supplemental educational services](title-i-choice-one-percent-ses-17-percent-participation.md) — related
 - [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — a narrower finding that bears on this claim
+- [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
+- [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related
+- [Most schools of choice in the United States are district-operated public options, and the neighborhood school is the preferred option for the vast majority of parents](district-run-choice-majority-neighborhood-preferred.md) — related

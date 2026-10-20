@@ -48,3 +48,6 @@ Logistic regression and propensity-matched models predicting STEM major selectio
 - [Science club participation shows no statistically significant relationship with selecting a STEM college major](science-club-no-stem-major-association.md) — related
 - [STEM club participants differ descriptively from non-participants in GPA, course-taking, test scores, and college desire](stem-club-participants-descriptive-differences.md) — related
 - [Attending an inclusive STEM high school nearly triples the odds of declaring a Core STEM major at a four-year college two years after high school graduation](ishs-triples-odds-four-year-stem-major.md)
+- [The evaluation assesses SMDEP impacts on college graduation and medical or dental school matriculation using propensity score matching](smdep-impact-evaluation-psm-design.md) — related
+- [Preliminary estimates suggest UBMS participation increases the odds of majoring in math or science](ubms-increases-odds-math-science-major.md) — related
+- [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](ishs-impact-robust-to-prior-stem-interest-controls.md) — related

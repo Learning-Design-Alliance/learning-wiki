@@ -45,3 +45,5 @@ The review reports that benefits of nature-based learning for disadvantaged stud
 
 ## Related Claims
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
+- [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related

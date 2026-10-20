@@ -49,3 +49,8 @@ The dissertation's pretest-posttest control-group experiment analyzed between-gr
 - [Spaced Retrieval Improves Retention](spaced-retrieval-improves-retention.md) — a broader claim this one bears on
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
+- [The review reports that students receiving situated instruction outperformed a lecture-based control group on a causality posttest](situated-instruction-outperformed-abstract-control-causality.md) — related
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
+- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — a broader claim this one bears on
+- [Expanding interstudy intervals led to better recall than fixed intervals, but conclusions are tentative](expanding-isis-better-than-fixed-tentative.md) — a broader claim this one bears on
+- [Initial retrieval conditions that provide less cue support, such as free recall rather than recognition or fewer letter cues, tend to produce better retention despite lower initial success](less-initial-retrieval-support-produces-better-retention.md) — related

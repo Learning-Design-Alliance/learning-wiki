@@ -45,3 +45,5 @@ Spearman correlation analysis of the three physical activity indicators in 1447 
 ## Related Claims
 - [Active play correlates with creativity (TCT-DP score) in adolescents aged 14–17, but not in children aged 6–13](active-play-creativity-correlation-adolescents.md) — related
 - [The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links](pa-indicators-intercorrelated.md) — a broader claim this one bears on
+- [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related
+- [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md) — related

@@ -51,3 +51,7 @@ Randomized classroom experiment with 367 introductory biology students assigned 
 - [In Experiment 2, I-PS students outperformed PS-I students on problem-solving, idea generation, and embedded video quizzes](exp2-process-measures-problem-solving-and-quiz.md) — related
 - [Prior knowledge strongly predicts post-test application and transfer scores in both topics](pretest-predicts-inquiry-outcomes.md) — related
 - [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — related
+- [The relationship between learners' prior knowledge and the optimal instructional sequence may not be straightforward](prior-knowledge-sequence-relationship-not-straightforward.md) — related
+- [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
+- [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related
+- [A biology learning chatbot system had a positive impact on grade 7 students' biology learning achievement in a quasi-experiment](biology-chatbot-improves-learning-achievement.md) — related

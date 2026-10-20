@@ -46,3 +46,7 @@ Spearman rank-order correlations between preference (five-point scale from Text 
 ## Related Claims
 - [Unedited voice prompts have lower odds of first-attempt success than text prompts on two of three Prompt Problems](unedited-voice-lower-first-attempt-success.md) — related
 - [Students perceived text input as superior for accuracy, control, and editability, with transcription errors a key voice drawback](text-perceived-accuracy-control-editability.md) — related
+- [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
+- [Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users](text-dominance-modality-choice-independent.md) — related
+- [Initial prompting method did not explain immediate success on the third problem (P3)](p3-modality-no-effect.md) — related
+- [Teachers' reflective prompt levels correlate significantly with the reflective level of their students' responses](prompt-level-correlates-student-reflection-responses.md) — related

@@ -49,3 +49,4 @@ Selecting a School section finding: students found the color-coded acceptances a
 ## Related Claims
 - [Students found the GoCPS application platform logistically easy to use, but applications to schools with additional requirements caused difficulties](gocps-platform-easy-but-extra-requirements-hard.md) — related
 - [Confusion about the GoCPS true-preference ranking rationale was widespread among students, parents, and staff, and misinformation led some students into second-round applications](gocps-ranking-confusion-second-round.md) — related
+- [High-fidelity prototype evaluation found the form-like structure frustrating; a guided progressive-disclosure design replaced it](form-like-structure-frustration-guided-progression.md) — related

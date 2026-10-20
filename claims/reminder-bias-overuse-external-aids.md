@@ -87,3 +87,6 @@ The review reports correlational evidence across multiple studies (Gilbert et al
 - [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related
 - [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — a narrower finding that bears on this claim
 - [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — a narrower finding that bears on this claim
+- [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
+- [Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs](loss-framing-reduces-reminder-bias.md) — a narrower finding that bears on this claim
+- [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related

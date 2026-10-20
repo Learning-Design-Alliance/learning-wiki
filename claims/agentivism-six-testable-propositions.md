@@ -71,3 +71,4 @@ The sixth proposition, a longitudinal prediction from the theory. The article st
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — a narrower finding that bears on this claim
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](proposition-2-mutual-evaluation-improves-judgment.md) — related
 - [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](ai-directed-self-testing-diminishes-metacognitive-judgment.md) — a narrower finding that bears on this claim
+- [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related

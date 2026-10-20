@@ -62,4 +62,6 @@ In the analysis of Extract 2, Pat calls the 3D model's floating balls proteins, 
 
 
 ## Related Claims
--
+- [One student asked for a disciplinary explanation twelve times during a 53-minute problem-solving process without anyone clarifying it sufficiently](twelve-unanswered-conceptual-questions.md) — related
+- [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
+- [Design features of the CSCL environment — procedural-only educational inscriptions on the website and the storyline of the 3D model — pulled interactions toward procedural problem solving](website-inscriptions-procedural-only.md) — related

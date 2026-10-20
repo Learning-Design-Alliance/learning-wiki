@@ -49,3 +49,4 @@ The article reports Experiment 2 with preschoolers (mean: 54 months), in which c
 - [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md) — related
 - [Preschoolers recognize action possibilities (affordances) that allow them to isolate variables when there is information to be gained](preschoolers-recognize-affordances-for-variable-isolation.md) — related
 - [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related
+- [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related

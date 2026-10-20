@@ -49,3 +49,9 @@ Quasi-experimental national study comparing 2,855 treatment students with a matc
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - A virtual comparison group matched on pretest, locale, FRL, and test dates achieved baseline equivalence with the treatment group (effect size = -0.03) — related
 - [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related
+- [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — related
+- [Low-performing students (below the 50th pretest percentile) showed significant improvement with vPLC-augmented ASSISTments](vplc-assistments-low-performing-significant-gain.md) — related
+- [Rural students in the 2nd baseline achievement quartile significantly outperformed their comparison peers by 1.53 points](assistments-rural-q2-significant-gains.md) — related
+- [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](wraparound-ses-improves-math-achievement.md) — related
+- [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
+- [Both treatment and comparison students scored below the 7th-grade national norm on average, and bottom-quartile treatment students remained below the national average despite relative gains](assistments-gains-below-national-norms.md) — related

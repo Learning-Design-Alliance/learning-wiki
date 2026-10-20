@@ -44,3 +44,9 @@ MANCOVA on Analytic Toolkit database participation indices across three Knowledg
 
 ## Related Claims
 - [Collaborative analytics-supported reflective assessment helps PSTs develop collaborative inquiry competencies for community knowledge advancement in a knowledge building course](collab-analytics-reflective-assessment-developed-pst-collaborative-inquiry-competencies.md) — related
+- [Students using portfolios with knowledge-building principles showed higher conceptual understanding on a writing task than the other classes](portfolio-principles-higher-conceptual-understanding.md) — related
+- [Students whose beliefs aligned with knowledge building showed more productive participation patterns on Knowledge Forum](kb-aligned-beliefs-productive-participation.md) — related
+- [Students with portfolios and knowledge-building principles asked more questions and higher-level questions than both comparison classes](portfolio-principles-more-high-level-questions.md) — related
+- [Knowledge-building portfolio scores correlated with database participation, explanation quality, and conceptual understanding](portfolio-scores-correlate-participation-understanding.md) — related
+- [The portfolio-principles class scored higher on weighted depth of inquiry than both other Knowledge Forum classes](portfolio-principles-higher-depth-of-inquiry.md) — related
+- [The portfolio-principles class produced more high-level explanations and deeper explanations than the other two Knowledge Forum classes](portfolio-principles-deeper-explanations.md) — related

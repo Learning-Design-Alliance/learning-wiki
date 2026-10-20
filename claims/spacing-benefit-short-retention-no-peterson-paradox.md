@@ -48,3 +48,6 @@ Meta-analytic comparison collapsing massed-versus-spaced differences over seven 
 ## Related Claims
 - [Spaced presentations produce markedly better final recall than massed presentations across retention intervals](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — a narrower finding that bears on this claim
+- [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — related
+- [Recall of words repeated across lists spaced up to 1 week follows a proportionality rule: recall is better after short spacing at short retention intervals but better after long spacing at long retention intervals](proportionality-rule-long-spacing-weeks.md) — reports the opposite
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related

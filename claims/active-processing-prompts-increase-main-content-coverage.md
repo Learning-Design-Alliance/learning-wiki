@@ -46,3 +46,4 @@ ANCOVA on instructional explanation processing in Experiment 2, controlling for 
 - [Elaborative Interrogation Improves Learning](elaborative-interrogation-improves-learning.md) — related
 - [Self-explanation substantially increases time on task, raising questions about its efficiency](self-explanation-time-on-task-cost.md) — related
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](closed-book-no-delayed-posttest-added-value.md) — related
+- [Learners report more positive attitudes toward externally regulated prompts than self-regulated prompts](external-prompt-regulation-more-positive-attitudes.md) — related

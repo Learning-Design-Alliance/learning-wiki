@@ -56,3 +56,4 @@ Structural equation model for expository writing quality in the same longitudina
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
 - [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
 - [Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality](letter-writing-automaticity-not-predictive-grade3-writing.md) — a broader claim this one bears on
+- [A model of kindergarten writing development including an attention factor fits better than a model with only language and literacy factors](attention-factor-improves-model-fit.md) — reports the opposite

@@ -54,3 +54,4 @@ Quasi-experimental study of science material with approximately 200 tenth grader
 - Students do not appear to have great difficulty adjusting to a more 'busy' page when assistance and enrichment units are woven into textual material. — related
 - [Verbal-protocol-guided revisions of functional documents improved comprehension, with error rates falling from 50% to 22% despite longer texts](protocol-guided-revision-improves-comprehension.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
+- [Learners hold positive attitudes toward glosses, but their perceptions of which gloss type works best do not match measured performance](gloss-perceptions-mismatch-performance.md) — related

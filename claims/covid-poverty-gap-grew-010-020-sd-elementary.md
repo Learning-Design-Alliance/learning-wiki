@@ -48,3 +48,4 @@ Observational analysis of 5.4 million students' test scores comparing low-povert
 
 - [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — the general claim this finding bears on, with the studies behind it
 - [Differences in engagement and achievement between high- and low-GPA students grew more sharply during the pandemic among Chicago Connected participants than among eligible non-participants](chicago-connected-participants-widening-gpa-disparities.md) — related
+- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related

@@ -88,3 +88,8 @@ The review reports that across three Kornell (2014) experiments with trivia fact
 - [Pre-instruction testing enhances memory for directly tested video content, with benefits shown for videos from 5 to 30 minutes](pretesting-enhances-memory-tested-video.md) — related
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related
+- [Incidental vocabulary gains show retention problems, with losses over time moderated by feedback timing and topic interest](incidental-vocabulary-retention-problems.md) — related
+- [Immediate Elaborated Feedback in a formative assessment game significantly improved students' programming knowledge, interest, and problem-solving versus systems without immediate feedback](immediate-elaborated-feedback-improves-programming-learning.md) — related
+- [Timely feedback on homework increases learning, and computer platforms providing immediate feedback help teachers adapt](timely-feedback-improves-homework-learning.md) — related
+- [Immediate-feedback tutors allow learning from errors but deny learning from their downstream consequences](immediate-feedback-limits-downstream-error-learning.md) — related
+- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related

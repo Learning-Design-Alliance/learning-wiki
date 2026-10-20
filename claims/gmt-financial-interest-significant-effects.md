@@ -45,3 +45,5 @@ Narrative review attributing this to Macnamara and Burgoyne (2023a), who noted t
 ## Related Claims
 - [GMT as a standalone intervention shows small average effects that approach zero when publication bias is controlled, per the review's account of Macnamara and Burgoyne's meta-analysis](gmt-standalone-small-mixed-effects.md) — related
 - [A large randomized controlled trial in England found no advantages for students who received GMT, as reported by the review](gmt-rct-no-advantage-foliano.md) — related
+- [Mind-set interventions show weak overall effects on achievement, with some support that low-SES or academically at-risk students might benefit](mindset-intervention-effects-weak-subgroup-benefit.md) — related
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related

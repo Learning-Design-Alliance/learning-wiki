@@ -47,3 +47,4 @@ Descriptive participation rates by economic indicators (Figure 3). The report ad
 - [Participation rates rose with eligibility index score, reflecting program prioritization](chicago-connected-participation-rose-with-eligibility-index.md) — related
 - [English Learners participated at higher rates; the disability difference was not statistically significant](english-learners-higher-iep-null-participation.md) — related
 - [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related
+- [Most students experiencing homelessness (78%) live doubled up with other families, a form of homelessness excluded from HUD housing assistance definitions](doubled-up-majority-homelessness.md) — related

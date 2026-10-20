@@ -131,3 +131,7 @@ A meta-analysis of 54 control-group studies (141 effect sizes) spanning primary,
 - [A formative assessment script increases the quantity and quality of peer feedback vocational students generate on a peer's draft](fas-improves-peer-feedback-generation.md) — a narrower finding that bears on this claim
 - [Peer assessment of oral presentations improves self-concept relative to control and improves presentation performance, but outcome studies remain few](peer-oral-presentation-outcomes.md) — a narrower finding that bears on this claim
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
+- [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
+- [Quality control in peer assessment can be exercised proactively or reactively on students and their assessments](peer-assessment-quality-control-proactive-reactive.md) — related
+- [Web-SPA peer review activities showed considerable consistency between instructor and peer marks and improved quality of work](web-spa-peer-review-consistency-and-improvement.md) — a narrower finding that bears on this claim
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — reports the opposite

@@ -58,3 +58,5 @@ The brief's summary of subgroup comparisons in MAP Growth reading and math data 
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — a broader claim this one bears on
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood — related
+- [Male BIPOC students and BIPOC students in high-poverty schools made the lowest percentage of typical learning gains during the pandemic](gender-and-school-poverty-moderate-pandemic-gains.md) — a narrower finding that bears on this claim
+- [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — a broader claim this one bears on

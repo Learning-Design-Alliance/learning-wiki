@@ -49,3 +49,5 @@ Stepwise forward regression with PLS-4 total language scores as dependent variab
 - [Age of amplification (before vs at or after 6 months) was not significantly associated with language outcomes at 3 years in children with hearing aids](age-amplification-not-significant-language-3yo.md) — related
 - [On average, 3-year-old children with hearing loss who received early intervention scored below 1 SD of normative mean on several standardized language measures](early-intervened-children-below-1sd-language-3yo.md) — related
 - [Severity of hearing loss is significantly negatively related to language development in 3-year-old children with hearing aids](hearing-loss-severity-negatively-related-language-3yo.md) — related
+- [Family communication mode and hearing status at birth were not significantly related to bilingual abilities](family-communication-mode-null-bilingual.md) — related
+- [Parent-reported everyday functioning (PEACH) correlates significantly with standardized language measures in 3-year-old children with hearing loss](peach-correlates-standardized-language-measures.md) — related

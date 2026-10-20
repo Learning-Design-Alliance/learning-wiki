@@ -47,3 +47,9 @@ Preliminary check of directly prompted models' micro feedback sufficiency on the
 - [LLMs are more stable than supervised models across dataset shifts, though they do not surpass within-dataset fine-tuned performance](llms-more-stable-cross-dataset-than-supervised.md) — reports the opposite
 - [Without fine-tuning, commercial frontier models outperform open-source LLMs on MedGame Bench structural validity and content metrics](commercial-models-outperform-open-source-medgame-baseline.md) — related
 - [Directly prompted Claude 3.7 micro-level deep feedback was judged both necessary and effective in 94.69% of 630 comments](wraft-micro-feedback-95-percent-necessary-effective.md) — related
+- [Directly prompted Claude 3.7 macro-level deep feedback was judged effective for 93.03% of 201 paragraph-level comments](wraft-macro-feedback-93-percent-effective.md) — related
+- [Self-hosted open-weight LLMs offer privacy, reproducibility, and environmental advantages over commercial LLM interfaces in educational ITSs](self-hosted-llm-advantages-education.md) — related
+- [Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits](wraft-surface-feedback-96-percent-precision.md) — related
+- [Task-specific fine-tuning substantially improves open-source LLMs on MedGame Bench and narrows the gap with commercial models](fine-tuning-improves-open-source-llms-medgame-bench.md) — related
+- [Fine-tuned 8B LLMs generate K-2 stories with difficulty-related metric scores statistically significantly different from (mostly better than) zero-shot GPT-4o and Llama 3.3 70B](finetuned-8b-llms-beat-zero-shot-large-models-on-difficulty-metrics.md) — reports the opposite
+- [Rubric-grounded prompting alone provides limited proficiency control, aligning far better on content-oriented traits than on form-oriented traits](prompting-limited-uneven-proficiency-control-writing-simulation.md) — related

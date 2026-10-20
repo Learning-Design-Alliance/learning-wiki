@@ -45,3 +45,4 @@ Post-task drawing measure in Experiment 1: after categorization, subjects drew t
 ## Related Claims
 - [Imagery instructions yield more isolated concepts than discriminating-feature instructions, as shown by greater influence of nondiagnostic features on categorization accuracy](image-instructions-isolated-concepts-nondiagnostic-features.md) — related
 - [Concepts become more interrelated with practice under discriminate instructions, and more isolated with practice under image instructions](practice-changes-concept-interrelatedness.md) — related
+- [Whether a prototype or caricature is categorized more easily is predicted to depend on concept interrelatedness: prototype advantage for isolated, caricature advantage for interrelated concepts](prototype-caricature-interrelatedness-prediction.md) — related

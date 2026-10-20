@@ -67,3 +67,6 @@ Study 1 regression on global judgments for the real psychology exam. The article
 ## Related Claims
 - [Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence](domain-specific-self-concept-predicts-judgments.md) — related
 - [Individual and task factors fail to predict resolution, while perceived consequences predict calibration in opposite directions for phishing and legitimate emails](predictors-of-metacognition-null-resolution-consequences-calibration.md) — related
+- [Chance-level identity discrimination is uniform across participants and not associated with AI literacy, personality, or demographics](detection-failure-uniform-not-tied-to-individual-differences.md) — related
+- [Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ](global-judgments-more-trait-driven-than-local.md) — related
+- [Of the Big Five personality traits, only conscientiousness (r = .22) and openness (r = .13) correlate appreciably with mathematics achievement](big-five-traits-correlate-weakly-with-math-achievement.md) — related

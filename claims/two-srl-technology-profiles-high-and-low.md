@@ -71,3 +71,4 @@ The contrasting low-use cluster still uses instant messaging actively (M = 4.27)
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](srl-uneven-only-execution-monitoring-predicts-gains.md) — related
 - [Latent profile analysis of pre-service teachers' CT skills identifies three profiles (Novice, Developing, Proficient), revealing heterogeneous, non-linear skill acquisition](three-ct-profiles-preservice-teachers-lpa.md) — related
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
+- [A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity](four-artifact-revision-profiles-ai-supported-inquiry.md) — related

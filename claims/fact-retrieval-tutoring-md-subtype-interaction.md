@@ -51,3 +51,4 @@ Randomized controlled trial of 139 third graders blocked by site and MD subtype 
 - [MDRD third graders show no significant differences among tutoring conditions on fact retrieval](mdrd-no-fact-retrieval-tutoring-response.md) — related
 - [MD-only third graders in fact retrieval tutoring outperform PROC/E and control students on fact retrieval](md-only-fact-retrieval-tutoring-gains.md) — related
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
+- [Procedural computation/estimation tutoring does not improve automatic fact retrieval](procedural-tutoring-no-fact-retrieval-gain.md) — related

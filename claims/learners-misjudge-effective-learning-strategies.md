@@ -154,3 +154,9 @@ A key boundary condition is that the misjudgment is strongest for judgments made
 - [Students rate their knowledge about cognition higher than their regulation of cognition](knowledge-cognition-rated-higher-than-regulation.md) — related
 - [Learners tend to feel restudying confers more learning than being tested even though the opposite is true, per the review](metacognitive-disconnect-restudy-vs-testing.md) — a narrower finding that bears on this claim
 - [No single metacognitive self-report can be recommended as the industry standard; the COMEGAM-ro has the strongest statistical support but is unreplicated](no-industry-standard-metacognitive-self-report.md) — related
+- [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](ai-directed-self-testing-diminishes-metacognitive-judgment.md) — related
+- [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related
+- [Good learners do not always adhere to established practice principles; low contextual interference can still produce good learning](good-learners-violate-practice-principles.md) — related
+- [Self-regulation limits supported a targeted teacher role: many students rarely thought before asking AI or could not tell when an AI explanation was wrong](teacher-role-shifted-diagnosis-coaching.md) — a narrower finding that bears on this claim
+- [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](nz-undergrads-endorse-effective-strategies-more.md) — related
+- [Reach — which lever settings remain in force when the student is alone with AI — is the framework's organizing question](reach-organizing-question-unsupervised-ai-use.md) — related

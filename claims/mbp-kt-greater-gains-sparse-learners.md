@@ -47,3 +47,4 @@ Learners were divided into three groups by number of interactions (0-10, 10-20, 
 - [Injecting MBP-KT's global collaborative information consistently improves KT models across RNN, memory-network, Transformer and state-based backbones](mbp-kt-consistently-improves-kt-backbones.md) — related
 - [Injecting the collaborative prior redistributes AKT's attention from local recency bias toward long-range dependencies](mbp-kt-attention-recency-to-long-range.md) — related
 - [Meta-behavioral pattern extraction outperforms knowledge-concept-based collaborative extraction, which fails to consistently boost performance due to data sparsity](meta-behavioral-extraction-beats-kc-based-variants.md) — related
+- [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — related

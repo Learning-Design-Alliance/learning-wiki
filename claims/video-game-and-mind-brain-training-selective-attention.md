@@ -45,3 +45,7 @@ The review's fourth section draws on recent literatures on video-game play and m
 ## Related Claims
 
 - [Selective attention processes are hypothesized to relate to language, literacy, and mathematics, three domains important to early academic skills](selective-attention-links-language-literacy-mathematics.md)
+- [Action video game training causally improves cognitive skills relative to active control training (small effect, g = 0.30)](avg-training-causal-improvement-g-030.md) — a narrower finding that bears on this claim
+- [Cross-sectional advantages are largest for perception, multitasking, spatial cognition, and top-down attention](avg-domain-pattern-perception-attention-spatial.md) — related
+- [Brain games produce statistically significant cognitive performance gains in older adults, but gains are modest and do not detect improvements over control tasks or produce far transfer](brain-gains-modest-no-far-transfer.md) — related
+- [Attention and self-regulation skills are trainable in children, with reported behavioral and neural changes across curricula and intervention programs](attention-training-interventions-evidence-note.md) — a broader claim this one bears on

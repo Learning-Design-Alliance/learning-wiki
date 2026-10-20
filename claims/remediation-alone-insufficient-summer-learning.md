@@ -52,3 +52,4 @@ The report's introduction, a synthesis of learning-sciences research, asserts th
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](seasonal-studies-limited-categories-early-grades.md) — related
 - [Positive school-based relationships support secondary students' learning and well-being, especially for youth experiencing poverty, trauma, and discrimination](positive-relationships-support-secondary-learning-wellbeing.md) — related
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
+- [School designs supporting caring, continuous student-teacher relationships better address trauma and strengthen achievement than traditional factory-model schools](relationship-centered-designs-beat-factory-model.md) — a broader claim this one bears on

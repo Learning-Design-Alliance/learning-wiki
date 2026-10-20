@@ -48,3 +48,5 @@ Sensitivity analysis using DSM-IV ADHD diagnosis derived from the DAWBA as expos
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related
 - [The ADHD–depression association does not significantly differ by sex, though point estimates are slightly stronger in females](adhd-depression-association-sex-interaction-null.md) — related
 - [Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms](peer-problems-mediate-adhd-depression-link.md) — related
+- [High family social support is associated with lower odds of depressive symptoms](high-family-support-lower-depression.md) — related
+- [Peer-problem mediation of the ADHD–depression link is not driven entirely by victimisation](peer-mediation-not-solely-victimisation.md) — related

@@ -51,3 +51,5 @@ The paper reports, citing White (1991) and Schwartz and Gubala-Ryzak (1992), tha
 - The article concludes adult learners acquire two things about English adverbs: their general syntactic positions and their scope — related
 - Adult L2 learners can generally judge which English adverb placements are acceptable, based on true/false judgment data from ten college students — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
+- [Learners show no first-language transfer for manner adverbs, judging sentence-final placement acceptable and pre-verbal placement unacceptable despite Chinese word order](no-l1-transfer-manner-adverb-positions.md) — related

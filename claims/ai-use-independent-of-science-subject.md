@@ -45,3 +45,5 @@ Chi-square/Fisher analysis at subject level found one significant association (C
 ## Related Claims
 - [Frequency of generative AI use for homework differs significantly by subject, with natural sciences most resistant and economics most adopted](dual-speed-homework-ai-adoption-subjects.md) — related
 - [In-service science educators use AI far less in subject-specific DiKoLAN areas (SIM, DAP, DAQ) than in general areas](ai-use-skews-to-general-dikolan-areas.md) — related
+- [ITS produce significant positive effects at all grade levels and in almost all subject domains evaluated, with exceptions such as chemistry](its-effects-across-grades-subjects-prior-knowledge.md) — related
+- [Single-turn tutors disclose answers pervasively while challenge scores are near zero across every model and subject](single-turn-answer-disclosure-challenge-near-zero.md) — related

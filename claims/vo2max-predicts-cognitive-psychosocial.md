@@ -48,3 +48,5 @@ Stepwise linear regression analyses (Table 6) on the 208-adolescent sample found
 - [GHQ social dysfunction and severe depression show no group differences by exercise hours but are significantly related to physical fitness in correlation and regression](ghq-null-groups-fitness-related.md) — related
 - [Cardiorespiratory fitness (VO2max) is the physical fitness measure most strongly correlated with cognitive functioning in adolescents](vo2max-best-correlated-cognition.md) — a narrower finding that bears on this claim
 - [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](vo2max-main-predictor-attention-concentration.md) — related
+- [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — related
+- [Omissions, commissions and variation index of the d2 test are not related to any physical fitness variable](d2-error-measures-unrelated-to-fitness.md) — related

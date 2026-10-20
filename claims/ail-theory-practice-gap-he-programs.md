@@ -46,3 +46,5 @@ Authors' interpretation from the Discussion, drawing on the curriculum mapping a
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Youth motivation to persist in everyday problem-solving is minimal, costing them collaboration and new knowledge](minimal-persistence-everyday-problem-solving-youth.md) — related
 - Changes traced to historical and activity factors, but the authors conclude the IDEAS academy itself may not be the major factor in observed changes — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related

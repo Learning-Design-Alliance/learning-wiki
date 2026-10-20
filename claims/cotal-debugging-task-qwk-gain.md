@@ -45,3 +45,5 @@ Quantitative evaluation of GPT-4 scoring on Debugging Task responses from 166 si
 ## Related Claims
 - [CoTAL improves GPT-4 scoring agreement with human scorers on the Rules Task, raising average subscore QWK from 0.826 to 0.916 (a 10.9% gain) over a non-prompt-engineered baseline](cotal-rules-task-qwk-gain.md) — related
 - [CoTAL reduced false positives in Rules Task subscore predictions from 7 to 1 while increasing false negatives by only 1, via active-learning targeting of persistent errors](cotal-reduces-false-positives-rules-task.md) — related
+- [In the Overview dimension, augmentation produced a marginal QWK decrease (ΔQWK = −0.006) despite improving macro-F1, the only dimension with this trade-off](overview-augmentation-qwk-tradeoff.md) — related
+- [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related

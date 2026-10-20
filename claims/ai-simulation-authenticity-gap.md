@@ -47,3 +47,6 @@ Thematic analysis of qualitative data across studies found "Technical limitation
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — a broader claim this one bears on
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — a broader claim this one bears on
 - [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related
+- [One RCT found AI-assisted simulation inferior to standardized patient simulation for breast self-examination skills](ai-simulation-inferior-bse-skills.md) — related
+- [Pepper's classroom operation required frequent teacher supervision in over half of the studies, mainly due to voice recognition and technical failures](pepper-requires-constant-teacher-supervision.md) — related

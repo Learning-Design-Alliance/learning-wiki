@@ -64,3 +64,5 @@ Same standard-setting mapping applied to open-source models (RWKV-v6-7b, LLaMA-3
 ## Related Claims
 - [Targeted enhancements (retrieval-augmented inference, multimodal training) substantially raise open-source models' phonology mastery to near-ceiling levels](targeted-enhancements-raise-phonology-mastery.md) — related
 - [Few-shot prompting does not uniformly improve LLM performance and can degrade subskill mastery estimates, most notably for phonology](few-shot-prompting-degrades-phonology-mastery.md) — related
+- [Open-source LLMs show persistent phonology deficits despite adequate mastery of other subskills](open-source-llm-phonology-deficit.md) — related
+- [Cohort members predominantly used off-the-shelf multimodal LLMs, mostly OpenAI's GPT, and nearly all combined closed and open source models](cohort-model-use-off-the-shelf-gpt.md) — related

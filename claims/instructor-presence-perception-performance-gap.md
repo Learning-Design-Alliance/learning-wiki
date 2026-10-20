@@ -83,3 +83,8 @@ Paired-samples t-test on perceived mental effort; the with condition reported lo
 ## Related Claims
 
 - [Skin conductance level did not differ significantly between instructor-presence conditions, though arousal patterns appeared to vary with content difficulty](instructor-presence-no-scl-difference.md)
+- [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — a broader claim this one bears on
+- [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
+- [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
+- [Instructor video presence produced no significant difference in tone production correctness, acceptability, or confidence, though with-condition means were descriptively higher on correctness and acceptability](instructor-presence-no-production-effect.md) — related

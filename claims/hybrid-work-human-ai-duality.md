@@ -43,3 +43,4 @@ Conceptual argument in the hybrid-teams contribution, building on the observatio
 ## Related Claims
 - [GenAI can foster psychologically safe team interaction while risking reduced human interaction over time](genai-team-interaction-safety-and-reduction.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — related
+- [Excessive dependence on AI may reduce human interaction and dehumanize adult education](over-reliance-ai-reduces-human-interaction.md) — related

@@ -48,3 +48,4 @@ The paper's summary of its factorial experiment reports that "simple design choi
 - [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — a broader claim this one bears on
 - [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related
 - [After school closings, proximity to home was the deciding factor in families' enrollment choices, outweighing school ratings](proximity-decided-post-closing-enrollment.md) — related
+- [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — a broader claim this one bears on

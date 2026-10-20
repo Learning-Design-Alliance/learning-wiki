@@ -82,3 +82,9 @@ Same exploratory meta-analytic regression of design features on pooled effect si
 
 - [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — the general claim this finding bears on, with the studies behind it
 -
+- [A practitioner review reports a meta-analysis of causal coaching studies as finding positive effects of coaching on teachers' instructional practice and student achievement, though one contrasting study found coached teachers no more effective](coaching-meta-analysis-positive-effects-instruction-achievement.md) — related
+- [Coaching program effects shrink substantially at scale: effectiveness trials of larger programs show only a fraction of efficacy-trial effects](coaching-scale-up-diminishing-effects.md) — related
+- [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](coaching-dosage-quality-over-quantity.md) — related
+- [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — related
+- [Effective skill training combines theory presentation, demonstration, practice with feedback, and coaching for transfer (review attribution)](skill-training-effective-techniques.md) — related
+- [Coaching time focused on instructional delivery improves coached teachers' practices, while time focused on behavioral management is associated with a significant decrease in practice quality](coaching-focus-instructional-delivery-versus-behavior-management.md) — related

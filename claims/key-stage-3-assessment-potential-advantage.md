@@ -44,3 +44,4 @@ The chapter's qualitative comparison of three assessments discussed in the Educa
 
 ## Related Claims
 - [Progress toward implementing the right to education over the past half century has been largely quantitative, falling short of Article 26's qualitative purposes](right-to-education-progress-quantitative-only.md) — related
+- [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](aa-cognitive-challenges-knowledge-and-21st-century-skills.md) — related

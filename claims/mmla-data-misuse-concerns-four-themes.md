@@ -65,3 +65,6 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Ethics, privacy, bias, over-reliance, accuracy, usability and cost are key challenges AI use poses for learner satisfaction and engagement](ai-challenges-engagement-satisfaction.md) — related
 - [Concerns about accuracy, reliability, academic integrity, and potential negative effects on cognitive and social development were consistently highlighted across many included studies.](chatgpt-concerns-accuracy-integrity-development.md) — related
 - [Pilot testing of RESPE revealed privacy concerns, difficulty reflecting on the learning process, and complaints about repetitiveness or usefulness of scaffolds](respe-pilot-privacy-reflection-repetitiveness-issues.md) — related
+- [Maritime students supported MMLA but preferred on-demand post-simulation access via mobile application over real-time in-simulation dashboards](students-support-mmla-prefer-post-hoc-mobile-access.md) — related
+- [Researchers may need to treat all remotely collected data as potentially identifiable personal data](treat-remote-data-as-potentially-identifiable.md) — related
+- [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related

@@ -44,3 +44,6 @@ Comparison of teacher marks (TM) with peer marks (PM) and peer-plus-self marks (
 
 ## Related Claims
 - [Item analysis flags items whose marking instructions mislead peer assessors](item-analysis-flags-marking-instruction-problems.md) — related
+- [Combining peer assessment with self-assessment brings marks closer to the teacher's marks](peer-plus-self-assessment-closer-to-teacher.md) — related
+- [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — a broader claim this one bears on
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](peers-undermark-self-assessors-overmark.md) — reports the opposite

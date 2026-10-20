@@ -63,3 +63,6 @@ Mixed-effects linear model of STAR Lexile growth including fixed effects of free
 
 ## Related Claims
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
+- [Teachers valued leveled articles on shared topics as supporting a cohesive classroom experience across reading levels](leveled-articles-shared-topics-cohesion.md) — related
+- [Feature use related to a slight increase in multiple choice accuracy, larger for lower-Lexile students and for easier articles](readworks-feature-use-accuracy-gains.md) — related
+- [Using at least one feature raised students' multiple choice question attempt rate to 89 percent and eliminated the drop on hard assignments, with a significant feature-use × difficulty interaction](readworks-feature-use-engagement-attempts.md) — related

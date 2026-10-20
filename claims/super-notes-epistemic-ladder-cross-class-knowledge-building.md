@@ -45,3 +45,5 @@ The editorial reports, on the study by Zhang, Yuan and Bogouslavsky of two grade
 ## Related Claims
 - [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](fifth-graders-high-quality-super-notes-cross-classroom.md) — related
 - [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](super-talk-multifaceted-understanding-cross-community.md) — related
+- [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related
+- [Teaching science and mathematics through human modeling and collaborative cross-border projects can serve the purpose of developing tolerance and international understanding](science-teaching-modeling-international-understanding.md) — related

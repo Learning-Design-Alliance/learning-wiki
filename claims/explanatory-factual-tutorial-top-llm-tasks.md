@@ -50,3 +50,4 @@ Survey of 678 LLM learners using a 24-item inquiry taxonomy. "The most frequentl
 - [Students' inquiry sequences differ by session: most start with Assertion questions in Session 1 (prob = 0.48) but with Instrumental/Procedural questions in Session 2 (prob = 0.43)](inquiry-state-transitions-differ-by-session.md) — related
 - [Instant access to information and 24/7 availability are the most recognised benefits of LLMs for learning](instant-access-24-7-top-llm-benefits.md) — related
 - [88% of survey respondents have incorporated LLMs into their everyday learning practices](88-percent-adopt-llms-everyday-learning.md)
+- [First queries from Cold Start learners were overwhelmingly dependent (96.7%), contrasting with mostly guided first queries from Oriented (69.1%) and Struggling (71.4%) learners](cold-start-first-queries-dependent-help-seeking.md) — related

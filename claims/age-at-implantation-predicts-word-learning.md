@@ -47,3 +47,5 @@ Regression analyses were rerun without the five better-hearing subjects. Pre-CI 
 - [Demographic and audiologic factors (age, duration of hearing loss, age at onset, residual hearing) were not significantly correlated with speech recognition in CI users](demographic-factors-not-correlated-ci-speech-recognition.md) — related
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Early implanted children performed significantly better on the word-learning task than late implanted children](early-implanted-outperform-late-implanted.md) — related
+- [Regression analyses identified oral communication, mainstream placement, younger age at implantation, and bilateral implantation as predictors of positive outcomes, with additional disabilities strongly predicting less positive outcomes](ci-regression-predictors-of-outcomes.md) — related
+- [Early implanted children and their NH age-matched peers demonstrated word learning, while late implanted children did not unlike their peers](late-implanted-fail-word-learning.md) — related

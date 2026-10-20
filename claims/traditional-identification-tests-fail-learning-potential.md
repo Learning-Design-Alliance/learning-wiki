@@ -58,3 +58,6 @@ Literature review section reporting, citing Johnsen (1997) and Kanevsky (1995), 
 - [Norm-referenced mental-age and IQ metrics distract investigators from the structural and hierarchical aspects of developing abilities](norm-referenced-metrics-hide-structural-development.md) — related
 - [A narrative review, citing Ford (2003), attributes the underrepresentation of culturally and linguistically diverse students in gifted education to identification measures biased toward another cultural background](culturally-diverse-underrepresentation-biased-measures.md) — related
 - [Culturally and linguistically diverse students are underrepresented in gifted identification nationwide](gifted-underrepresentation-diverse-students.md) — related
+- [Testimony at a 1987 congressional hearing reported that the Johns Hopkins talent search, which admitted by SAT score, invited over 2,500 boys but 1,081 girls in one summer although equal numbers took the test](test-scores-gate-gifted-program-entry.md) — related
+- [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related

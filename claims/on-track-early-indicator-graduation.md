@@ -91,3 +91,5 @@ A second definitional statement from the same section, defining off-track studen
 - [The CRIS framework extends existing early warning systems beyond graduation and academic measures](cris-extends-early-warning-systems.md) — related
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Ninth-graders who are on-track are 3.5 times more likely to graduate than those who are off-track](on-track-freshmen-graduate-at-higher-rates.md) — a narrower finding that bears on this claim
+- [Adolescents classified as impatient are more likely to drop out of high school even when they state an intention to finish](adolescent-impatience-predicts-high-school-dropout.md) — related
+- [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — a narrower finding that bears on this claim

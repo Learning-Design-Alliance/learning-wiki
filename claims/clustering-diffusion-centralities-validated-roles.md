@@ -45,3 +45,5 @@ Cluster analysis (k-means after standardization and winsorization; NbClust 12/30
 ## Related Claims
 
 - [Diffusion-based centralities show moderate-to-strong statistically significant positive correlations with the frequency of information sharing and argumentation utterances in CSCL](diffusion-centralities-capture-information-exchange-argumentation.md)
+- [Diffusion-based centralities elucidate information exchange and uptake in large-scale collaboration, validated against achievement and qualitative analysis, according to the editors' account of Saqr and López-Pernas's study](diffusion-centralities-role-taking-cscl.md) — possibly the same claim (merge candidate)
+- [In a correlation meta-analysis across 69 course offerings, diffusion-based centralities correlated with academic achievement with high combined coefficients and predictive intervals](diffusion-centralities-meta-analysis-achievement.md) — related

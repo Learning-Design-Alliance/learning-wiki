@@ -62,4 +62,10 @@ Bayesian hurdle-gamma models of group-level talk. Exploratory talk showed the pa
 
 
 ## Related Claims
--
+- [A QT-based literary intervention reduced teachers' monologic practices (teacher turns, turn allocation, test questions, evaluation) in small-group discussions](qt-intervention-reduces-monologic-teacher-practices.md) — related
+- [Students in the intervention group asked more authentic questions and used more student-directed turn allocation and reasoning in literary discussions](qt-students-higher-quality-contributions.md) — related
+- [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](high-mediation-more-child-talk-both-codes.md) — related
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](talk-types-mediate-makerspace-knowledge-practices.md) — related
+- [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related
+- [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
+- [Elaborated coding was associated with higher reading scores among the observed children](elaborated-coding-higher-reading-scores.md) — related

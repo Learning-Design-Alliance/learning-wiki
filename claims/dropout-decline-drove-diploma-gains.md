@@ -50,3 +50,4 @@ Analysis of student outcomes at age 19 across cohorts (Figure 3, Table 1). The s
 - [High school stability improvements in CPS were largely driven by declining dropout rates, which fell from 7.1 percent to 3.2 percent during the school year between 1995 and 2006](hs-stability-driven-by-dropout-decline.md) — related
 - [Chicago Public Schools dropout rates remained high, with over 40 percent of students dropping out by age 19](cps-dropout-over-40-percent-by-19.md) — related
 - Chicago's on-track data system was associated with improved high school graduation rates — related
+- [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related

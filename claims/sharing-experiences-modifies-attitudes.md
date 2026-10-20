@@ -48,3 +48,4 @@ Theoretical argument quoted from Dewey within the essay's discussion of connecti
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
 - [Early self- and task-related concerns are maintained alongside later impact concerns as adoption of complex technologies advances, modifying the sequential CBAM conception](early-concerns-maintained-alongside-later-concerns.md) — related
 - [Building Empathy Improves Intergroup Attitudes](building-empathy-improves-intergroup-attitudes.md) — related
+- [Presentation technologies such as paper posters and PowerPoint mediate the sharing of ways of seeing in design studio critique sessions](presentation-technologies-mediate-ways-of-seeing.md) — related

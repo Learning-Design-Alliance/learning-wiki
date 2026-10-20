@@ -46,3 +46,7 @@ Simulation-based power analysis using the InteractionPoweR R package and shiny a
 
 - [Analytical degrees of freedom in the primary study (prior-knowledge filtering and control-variable selection) affected its results: removing prior knowledge as a control rendered the comprehension interaction nonsignificant](analytical-flexibility-primary-study-results.md)
 - [The null effect of the disfluency × WMC interaction on transfer replicated the primary study's null finding, with both studies showing negative coefficients](transfer-null-interaction-replicated.md)
+- [Analyzing Give-N data by knower-level yields greater statistical power than analyzing by percent correct, plausibly explaining the discrepancy with Ansari et al. (2003).](knower-level-analysis-greater-power-than-percent-correct.md) — related
+- [In a pre-registered direct replication (N = 96), the disfluency × WMC interaction did not significantly predict retention, failing to replicate Lehmann et al. (2016)](replication-null-wmc-disfluency-interaction-retention.md) — related
+- [Across the four existing experiments on WMC moderation of disfluency, results are inconsistent: one finds the effect restricted to high-span, one to low-span, and two find null moderation](inconsistent-wmc-disfluency-moderation-literature.md) — related
+- [Disfluency benefits retention and comprehension only for learners with high working memory capacity](disfluency-benefits-high-working-memory-only.md) — related

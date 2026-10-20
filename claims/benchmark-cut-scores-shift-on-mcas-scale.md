@@ -55,3 +55,5 @@ Linking analysis using equipercentile linking of grade 3 (and additional grade) 
 - [Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'](no-common-definition-at-risk-literacy-screeners.md) — related
 - [Screening assessments vary in design, administration, and risk definitions such that there is no truly common definition of risk across assessments](no-common-definition-of-risk-across-screeners.md) — related
 - [Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile](dd-diagnostic-cutoff-variation.md) — a narrower finding that bears on this claim
+- [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related
+- [Agreement between K–3 screening assessments on risk classification varied from 47 percent to 85 percent depending on the assessment combination](screening-assessment-agreement-varies-47-85-percent.md) — related

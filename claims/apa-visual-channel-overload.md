@@ -67,3 +67,4 @@ The review cites Sweller's (2002) argument that learners with low element intera
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
+- [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related

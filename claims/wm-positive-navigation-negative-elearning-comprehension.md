@@ -45,3 +45,6 @@ Study 2 generalized linear regression (normal distribution, identity link) predi
 ## Related Claims
 - [Previous domain knowledge did not affect e-learning text comprehension, directly or as a moderator](previous-knowledge-null-elearning-comprehension.md) — related
 - [Language comprehension and numerical working memory predict comparing decimals to the one-half benchmark](vocabulary-counting-recall-predict-compare-to-half.md) — related
+- [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md) — related

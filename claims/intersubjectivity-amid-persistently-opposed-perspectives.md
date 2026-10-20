@@ -44,3 +44,7 @@ Stahl summarizes Pollack and Ben-David Kolikant's case study of dyads with oppos
 
 ## Related Claims
 - [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related
+- [Exploratory analyses find evidence for a relation between aspects of the collaborative process and knowledge convergence](process-aspects-relate-to-knowledge-convergence-exploratory.md) — related
+- [Learning partners converge strongly in their use of knowledge resources during collaboration](strong-convergence-resource-use-during-collaboration.md) — reports the opposite
+- [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](llamalo-expanded-user-dialogic-space.md) — related
+- [LlamaLo exhibited bias and presented contested assertions as facts, notably in the Israeli-Palestinian conflict discussion](llamalo-bias-contested-assertions.md) — related

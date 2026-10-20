@@ -49,3 +49,4 @@ WWC table of author findings from the quasi-experiment: relationship maturity be
 - [In the RCT, the average effect across knowledge, attitudes, and values outcomes was substantively important (0.35) but not statistically significant, with several individual outcomes null](tgfdv-rct-average-effect-not-significant.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — a broader claim this one bears on
 - [Statistically significant effects reported by the CDP studies were not statistically significant as recalculated by the WWC](wwc-recalculation-nullifies-reported-cdp-effects.md) — related
+- [Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study](tgfdv-intentions-null-results.md) — related

@@ -48,3 +48,4 @@ Robust variance random-effects meta-analysis pooling reduced-efficacy–achievem
 - [Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship](no-moderation-gender-objectivity-stage.md)
 - [Cynicism is significantly negatively related to academic achievement (rc+ = −.24)](cynicism-negative-achievement.md)
 - [Total academic burnout is significantly negatively related to academic achievement (rc+ = −.24)](total-burnout-negative-achievement-meta-analysis.md)
+- [Hardiness shows its strongest burnout correlation with reduced academic accomplishment, while AI-assisted learning is not correlated with emotional exhaustion](correlation-pattern-hardiness-raa-strongest.md) — related

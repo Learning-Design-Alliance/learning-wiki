@@ -61,3 +61,4 @@ Main effect from the 2 (clicker type) × 2 (exam question type) × 2 (semester) 
 - [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of clicker question type](semester-cohort-difference-hocs-exams.md) — related
 - [HOCS clicker questions during learning improve performance on LOCS exam questions more than LOCS clicker questions do](hocs-clickers-improve-locs-exam-performance.md) — related
 - [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences](students-perceive-clicker-levels-equally-helpful.md) — related
+- [After retrieval practice, undergraduates score significantly higher on lower-order thinking questions than on higher-order thinking questions about a studied passage](retrieval-practice-lower-order-questions-outscore-higher-order-questions.md) — possibly the same claim (merge candidate)

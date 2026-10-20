@@ -48,3 +48,5 @@ The evaluation's key findings state the program "Did not affect the share of stu
 - [Twelfth graders report high rates of college-preparation actions, with 80 percent at Sample School reporting they applied for financial aid versus 68 percent across CPS](twelfth-graders-financial-aid-application-rates.md) — related
 - [Find the Fit had no impact on the importance students placed on academic quality in choosing a college](find-the-fit-no-impact-importance-academic-quality.md) — related
 - [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
+- [Find the Fit increased the share of Upward Bound students who applied to four or more colleges](find-the-fit-increased-four-or-more-college-applications.md) — related
+- [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](upward-bound-first-postsecondary-completion-estimates.md) — related

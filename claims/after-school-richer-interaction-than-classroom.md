@@ -45,3 +45,9 @@ Qualitative comparison drawn from student comments in both project sites. Marlen
 ## Related Claims
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Discussion promotes more active thinking than lecture, though lecture is no worse for transmitting information](discussion-promotes-more-active-thought-than-lecture.md) — related
+- [Scaffolded assistant support marks richer constructive participation at the conversation level across all six task settings](scaffolded-support-constructive-participation.md) — related
+- [Young children's video interpretation of their own mathematical play reveals both mathematical and social-affective sensemaking](childrens-video-interpretation-of-play-reveals-mathematical-and-social-sensemaking.md) — related
+- [Students and staff co-designed evaluation criteria, and resultant challenges were explored through dialogue, interview, and thematic analysis](co-designed-evaluation-criteria-challenges-thematic-analysis.md) — related
+- [CLASP made limited progress on cooperative activities and little progress on developing replicable collaboration models](clasp-limited-collaboration-models.md) — related
+- [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
+- [Teaching reflective questioning or using graphical representations improves procedural and conceptual knowledge across diverse populations](reflective-questioning-graphical-representations-improve-algebra-outcomes.md) — related

@@ -46,3 +46,8 @@ Narrative review synthesis in the literature review, citing Wahlen et al. (2020)
 - [The multi-agent LLM GradeOpt achieved substantial agreement with human coders on overall PCK items (κ = .68, QWK = .79) and outperformed RoBERTa, SBERT, and naïve GPT-4o prompting](gradeopt-substantial-agreement-pck-outperforms-baselines.md) — related
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](llm-fast-mode-limited-thinking-mode-better-agreement.md) — related
 - [Comparison models (RoBERTa, SBERT, naïve GPT-4o prompting) failed to reach acceptable agreement on PCK items, with Cohen's κ at or below .55](baseline-models-unacceptable-pck-agreement.md) — related
+- [All automated models, including GradeOpt, were most challenged by knowledge of teaching mathematics items (GradeOpt κ = .59) and least challenged by knowledge of students' mathematical thinking (κ = .79)](pck-subdomain-variation-ktm-hardest.md) — related
+- [On CK items, GradeOpt showed near-perfect alignment with human codes (κ = .88 and .85; QWK = .89 and .94), comparable to human–human agreement](gradeopt-near-perfect-ck-agreement.md) — related
+- [Human-LLM agreement remains low across constructs (κ = 0.000 to 0.419), with self-efficacy showing the best alignment and Prior KSAs none](human-llm-agreement-low-construct-varying.md) — related
+- [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
+- [Cohen's kappa exhibits a paradox in which high observed agreement yields low kappa, making it unsuitable for pass/fail decision consistency](cohens-kappa-paradox-decision-consistency.md) — related

@@ -44,3 +44,4 @@ Benchmarking analysis of existing data comparing College Track completers in the
 
 ## Related Claims
 - [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related
+- [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related

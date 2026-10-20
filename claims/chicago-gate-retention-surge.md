@@ -48,3 +48,5 @@ Cohort counts of retained eighth graders across the seven CPS cohorts, shown in 
 - [Retention at the promotion gate increased the likelihood of dropping out by about 8 percentage points by age 17 and 13 points by age 19](gate-retention-increased-dropout-likelihood.md) — related
 - [Early-grade retention rose after the policy, and roughly 20 percent of first and second graders who were retained experienced a second retention in third grade](early-grade-retention-rise-double-retention.md) — related
 - [Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels](chicago-gate-achievement-rise.md)
+- [Defining dropout cohorts by age 13 rather than by ninth-grade entry avoids composition bias from the CPS promotion policy's grade retentions](age-based-cohort-definition-avoids-retention-bias.md) — related
+- [Despite higher passing rates, retention rates did not fall because fewer students who failed the cutoff were promoted with waivers](higher-passing-rates-did-not-lower-retention.md) — related

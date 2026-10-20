@@ -50,3 +50,5 @@ The brief's description contrasts the two subjects in one sentence: math shows "
 - [Spring 2025 MAP Growth data show a modest, incremental post-COVID recovery in math achievement](spring-2025-map-growth-modest-math-recovery.md) — related
 - [Middle school reading achievement remained stagnant post-COVID, with the lowest-performing students falling further behind](middle-school-reading-stagnant-lowest-performers-behind.md) — a narrower finding that bears on this claim
 - [Middle school reading achievement in grades 6-8 remained stagnant after COVID-19 while math and elementary reading showed progress](middle-school-reading-stagnant-post-covid.md) — a narrower finding that bears on this claim
+- [NWEA reports positive recovery trends in K-2 academic recovery following the COVID pandemic](k2-academic-recovery-positive-trends-post-covid.md) — related
+- [NWEA reports a positive turn for U.S. reading achievement after a period of post-COVID stagnation](post-covid-reading-positive-turn-nwea.md) — reports the opposite

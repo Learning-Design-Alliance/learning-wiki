@@ -51,3 +51,6 @@ Descriptive demographic comparison reported in the Executive Summary and the Dem
 - [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
 - California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents — related
 - [A student-teacher racial/ethnic parity gap persists: in 2011–12, 44% of students but only 17.3% of teachers were minority](persistent-student-teacher-parity-gap.md)
+- [CSUB residency participants are more racially diverse than California's general teacher population and better reflect the diversity of CSUB's student body than other credentialing pathways](csub-residencies-diversify-teacher-workforce.md) — related
+- [California residency program completers are more likely to identify as candidates of color than completers of other preparation pathways](residency-completers-more-likely-candidates-of-color.md) — related
+- [Residencies recruit a more diverse teacher workforce than typical entry pathways](residencies-diversify-teacher-workforce.md) — related

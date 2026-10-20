@@ -45,3 +45,5 @@ In the same randomized survey experiment, the study reports that "growth matters
 ## Related Claims
 - [School status matters more than achievement to parents when evaluating school quality](status-matters-more-than-achievement-quality-evaluation.md) — reports the opposite
 - [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — related
+- [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
+- [Displaying data with icons or concise summaries led parents to choose schools with higher academic performance than graphs, numbers, or detailed displays](icons-concise-summaries-higher-performing-schools.md) — related

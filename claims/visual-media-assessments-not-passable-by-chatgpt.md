@@ -47,3 +47,5 @@ Within the case study, poster and presentation assessments could not pass becaus
 - [Assessments requiring novelty and originality were more resilient to AI-generated output](novelty-requiring-assessments-more-resilient-to-genai.md) — related
 - [ChatGPT produced submissions judged of passing quality for 36 of 40 undergraduate psychology assessments (90%)](chatgpt-passable-36-of-40-psychology-assessments.md) — related
 - [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — related
+- [ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions](chatgpt-completes-all-150-qiskit-homework-sessions.md) — related
+- [Advanced prompting improved the pass rate of AI-generated psychology submissions within a one-hour limit](advanced-prompting-improved-ai-pass-rate.md) — related

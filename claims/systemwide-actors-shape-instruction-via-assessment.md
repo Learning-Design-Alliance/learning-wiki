@@ -46,3 +46,6 @@ The report's framing, supported by Table 2, which lists instructionally relevant
 - [State assessment design decisions inevitably shape classroom instruction, often narrowing curriculum and teaching practices](state-assessments-shape-instruction.md) — related
 - [Adding writing prompts and essays to state English language arts assessments shifted classroom instruction toward writing](ela-writing-prompts-shift-instruction.md) — a narrower finding that bears on this claim
 - Decisions made at each stage of a meta-analysis influence its conduct, results, and substantive implications — related
+- [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](outer-context-shapes-cris-implementation.md) — related
+- [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related
+- [Accurate teacher-student data links are required when high-stakes teacher evaluation decisions include student achievement growth](accurate-teacher-student-links-high-stakes-evaluation.md) — related

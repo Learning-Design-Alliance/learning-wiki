@@ -43,4 +43,6 @@ Repeated measures ANOVA on 43 typically developing participants aged 7-17 perfor
 
 
 ## Related Claims
--
+- [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](age-differences-in-inhibition-and-reward-response.md) — related
+- [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](ssrt-faster-cancellation-than-restraint.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related

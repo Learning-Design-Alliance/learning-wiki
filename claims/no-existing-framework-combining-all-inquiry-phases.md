@@ -47,3 +47,5 @@ Across the 32 reviewed articles, the authors report that "No framework bringing 
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — related
 - [The Investigation phase divides into three sub-phases: Exploration or Experimentation leading to Data Interpretation](investigation-exploration-experimentation-data-interpretation.md) — related
 - [No developing-region digital literacy framework in the review explicitly represents the copyright and licenses sub-competence](copyright-licenses-absent-developing-region-frameworks.md) — related
+- [The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases](discussion-phase-occurs-at-any-point.md) — related
+- [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — a narrower finding that bears on this claim

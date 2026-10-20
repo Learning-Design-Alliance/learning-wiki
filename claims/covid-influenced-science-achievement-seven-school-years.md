@@ -47,3 +47,6 @@ Large-scale analysis of science test scores across seven school years (2019 thro
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [Reading and math gains during 2020-21 were diminished compared to pre-pandemic trends, especially in the latter half of the school year](covid-2020-21-diminished-gains-latter-half-year.md) — related
+- [A 2021 review series aims to provide a definitive account of the best available evidence on how the COVID-19 pandemic affected America's students academically](pandemic-academic-miss-evidence-review-series.md) — a broader claim this one bears on
+- [BIPOC students' math achievement in fall 2020 dropped substantially relative to pre-pandemic national norms, with the largest declines in grades 4-6](bipoc-math-achievement-drop-fall-2020.md) — related
+- [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — related

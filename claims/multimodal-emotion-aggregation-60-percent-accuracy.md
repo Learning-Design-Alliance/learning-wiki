@@ -45,3 +45,5 @@ User-study participants reviewed and corrected the system's predicted emotions i
 ## Related Claims
 - [In a within-subject user study, participants showed longer positive facial expressions under the emotion-aware (Emotion ON) tutoring condition](emotion-on-longer-positive-facial-expressions.md) — related
 - [Emotion features improve tutor performance only when grounded in education-theory-based pedagogical strategies; emotion information alone misguides a smaller model](emotion-plus-theory-prompting-ablation-gain.md) — related
+- [Text-based emotional expression in student responses showed no statistically significant differences between Emotion ON and OFF conditions](no-textual-emotion-difference-emotion-on.md) — related
+- [Adding student-emotion information to LLM tutor prompting produces more desirable pedagogical qualities across most evaluated dimensions, with larger models benefiting most](emotion-aware-prompting-improves-pedagogical-quality.md) — related

@@ -46,3 +46,5 @@ This finding emerged from the cognitive task analysis and expert consultations, 
 
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md)
 - [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md)
+- [Novice teachers overwhelmingly frame alternative teaching strategies as improvements to their own teaching, whereas expert teachers weigh alternatives as improvements and inferior options about equally often](novices-more-critical-alternatives-valence.md) — related
+- [Teachers often hold misconceptions about which students benefit from SRL scaffolding](teachers-misconceptions-srl-beneficiaries.md) — related

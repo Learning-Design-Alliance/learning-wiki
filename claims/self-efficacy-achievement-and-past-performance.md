@@ -49,3 +49,4 @@ Sitzmann and Yeo's meta-analysis, reported in the social cognitive theory sectio
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — reports the opposite
 - [High-performance feedback increases self-efficacy more than low-performance feedback, with comparable effects across younger and older adults](high-performance-feedback-increases-self-efficacy-across-age-groups.md) — related
 - [High-performance feedback increases performance expectations more than low-performance feedback, with additive effects of age and control beliefs](high-performance-feedback-increases-performance-expectations.md) — related
+- [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related

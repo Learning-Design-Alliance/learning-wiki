@@ -68,3 +68,5 @@ Simple slope analyses illustrated in Figure 2, from the same moderated regressio
 
 - [Emotion regulation is positively associated with academic motivation among university students](emotion-regulation-positively-associated-academic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [The indirect association between AI anxiety and academic motivation through emotion regulation is significant for both male and female students but stronger among male students](moderated-mediation-indirect-effect-stronger-male-students.md) — related
+- [AI anxiety is negatively associated with academic motivation among university students, in both bivariate and regression analyses](ai-anxiety-negatively-associated-academic-motivation.md) — related
+- [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learning differ significantly by gender](gender-moderates-tuga-effects.md) — related

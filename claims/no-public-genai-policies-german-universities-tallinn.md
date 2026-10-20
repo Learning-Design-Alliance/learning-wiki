@@ -44,3 +44,5 @@ Document search within the qualitative policy analysis of thirty universities' G
 
 ## Related Claims
 - [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](aipi-ranking-does-not-guarantee-strong-genai-policies.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related

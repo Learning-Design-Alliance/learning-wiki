@@ -46,3 +46,4 @@ Analysis of cooperating teacher and employer surveys (2018–19 to 2020–21) co
 - [Most Alder graduates are hired as full-time teachers and are rated more effective than other first-year teachers by their school leaders](alder-graduates-hiring-effectiveness-ratings.md) — related
 - [Ninety percent of responding completers rated their preparation program effective or very effective and felt at least adequately prepared across all teaching performance expectation domains](completers-rate-preparation-highly-90-percent.md) — related
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
+- [Graduates rate the Alder residency highly, with 97% rating it effective or very effective on the 2022–23 CTC completer survey](alder-completer-survey-satisfaction.md) — related

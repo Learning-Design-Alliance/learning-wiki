@@ -66,3 +66,4 @@ Training preferences (Figure 8c) indicate "a clear demand for practice-oriented 
 - [Students most often urge institutions to teach responsible AI use (N=41) and provide clear rules and guidelines (N=27)](students-urge-ai-literacy-and-clear-rules.md) — related
 - [Non-users cite lack of training, distrust of responses, preference for teaching staff, academic-integrity fear and lack of interest as reasons for not using chatbots](non-user-reasons-training-trust-integrity.md) — related
 - The field's foundational literature called for curricular integration, yet its most-cited contributions concentrated on capability benchmarking such as ChatGPT's USMLE performance — related
+- [A majority of faculty believe student evaluation methods require significant change, and preferences tilt toward disclosure-based permission regimes over bans](faculty-demand-assessment-transformation-permission-regimes.md) — related

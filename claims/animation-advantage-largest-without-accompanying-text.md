@@ -50,3 +50,5 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [On-screen text that duplicates the narration of a diagram can hurt learning, but spoken–written redundancy is not harmful on average and helps over spoken-only presentation in some conditions](redundancy-hurts-learning.md) — related
 - [The spoken–written advantage over spoken-only presentation appears for system-paced but not learner-paced materials](system-paced-moderates-verbal-redundancy.md) — related
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — a broader claim this one bears on
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite

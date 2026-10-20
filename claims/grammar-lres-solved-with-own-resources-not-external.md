@@ -65,3 +65,7 @@ Comparing the study's strategy classification with Cumming (1989) and Swain and 
 - [Review-reported experiment found output performed noticing and hypothesis-testing functions but no apparent metalinguistic function in L2 writing](zhao-ping-output-functions-writing-experiment.md) — the general claim this finding bears on, with the studies behind it
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related
 - [Learners' grammar noticing centers more on syntax than morphology, with syntax issues encountered by all participants](syntax-outweighs-morphology-in-grammar-noticing.md) — related
+- [Lexical LREs dominate grammar-related LREs in young learners' L2 writing noticing](lexical-lres-dominate-grammar-lres-l2-writing.md) — related
+- [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related
+- [Syntactical noticing focuses mainly on sentence length and ways of connecting clauses](syntactical-noticing-sentence-length-connecting-clauses.md) — related
+- [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — related

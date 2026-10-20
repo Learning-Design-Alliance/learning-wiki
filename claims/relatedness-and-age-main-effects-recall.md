@@ -47,3 +47,4 @@ Main effect of relatedness in the pre-registered experiment: "related word pairs
 - [JOL reactivity depended on pair relatedness: negative reactivity for unrelated word pairs but no reactivity for related word pairs](jol-reactivity-relatedness-interaction.md)
 - [Exploratory analyses suggest older adults' negative reactivity was specific to unrelated word pairs, with no reactivity for related pairs in either age group](older-adults-negative-reactivity-unrelated-pairs-exploratory.md)
 - [JOL reactivity differed by age: making JOLs impaired older adults' recall but did not affect younger adults' recall](jol-reactivity-age-interaction.md)
+- [Older adults allocate proportionally more study time to easy and medium items while younger adults allocate more to difficult items, yet older adults recall less despite studying more](age-differences-study-time-allocation-recall.md) — related

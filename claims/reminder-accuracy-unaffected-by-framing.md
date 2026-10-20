@@ -45,3 +45,5 @@ Experiment 2 repeated-measures ANOVA on accuracy data: main effect of condition 
 ## Related Claims
 - [External reminders dramatically reduce forgetting of delayed intentions](external-reminders-reduce-forgetting.md) — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
+- [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — related
+- [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related

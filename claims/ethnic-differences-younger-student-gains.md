@@ -49,3 +49,7 @@ The article reports subgroup medians of change per decade by ethnicity (Tables 2
 - [Bottom-quartile SES students show greater progress than top-quartile students when young, but the pattern reverses at older ages](ses-quartile-gains-reverse-with-age.md) — related
 - [Achievement progress is steeper for students tested at younger ages, especially in math](younger-students-steeper-achievement-gains.md) — related
 - [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
+- [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
+- [Ever-ELs closed in on the national average by end of 4th grade, with Asian and White ever-ELs surpassing it in 2nd grade](ever-els-closing-national-average-gap.md) — related
+- [Controlling for school poverty greatly reduces but does not eliminate racial/ethnic gaps at kindergarten entry](school-poverty-controls-reduce-racial-entry-gaps.md) — related
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related

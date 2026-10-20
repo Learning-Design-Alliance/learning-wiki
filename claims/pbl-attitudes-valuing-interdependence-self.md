@@ -61,3 +61,8 @@ Qualitative analysis of written reflections (journals, two assignments) from 122
 - [Students described knowledge gained through PBL group work in terms of generation, application, and dissemination of knowledge, plus pedagogical knowledge for future teaching](pbl-knowledge-generation-application-dissemination.md) — related
 - No significant relationship between attitudes toward group work and achievement goal orientation profiles, but attitudes correlate with perceived discussion and active listening behaviors — related
 - [Research on PBL covers flexible knowledge, problem-solving, and SDL skills but little on collaboration and motivation](pbl-evidence-uneven-across-goals.md) — related
+- [Students in PBL experimental groups reported positive views of problem-based learning in qualitative follow-up interviews](pbl-students-positive-views-interviews.md) — related
+- [Students made minimal reference to higher-level cognitive or metacognitive processing benefits of group work, departing from prior PBL research](minimal-reference-higher-level-processing-benefits.md) — related
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related
+- [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](reward-interdependence-benefit-attitudes.md) — related
+- [Participants reported that diverse perspectives raised new questions and affirmed educator contributions](participant-feedback-diverse-perspectives.md) — related

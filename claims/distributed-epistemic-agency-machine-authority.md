@@ -57,3 +57,10 @@ Third macro-transformation reported in Section 4.3, drawing on distributed cogni
 - [Pseudo-agency: students may appear engaged without understanding the epistemic purpose of their actions](pseudo-agency-surface-engagement-without-purpose.md) — possibly the same claim (merge candidate)
 - [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related
 - [AI shifts the learner's role from producer to evaluator of mathematical meaning across multiple generative strategies](production-to-evaluation-shift-generative-strategies.md) — related
+- [Using generative AI as a dialogic partner for brainstorming, feedback, and co-construction can support constructive and interactive learning](ai-dialogic-partner-constructive-interactive-learning.md) — related
+- [Client interviews suggest a recurring shift from treating AI as a passive answer machine (\"Oracle\") to engaging it as a collaborative tool under human direction (\"Process Partner\")](oracle-to-process-partner-shift.md) — related
+- [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — related
+- [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — related
+- [Epistemological belief dimensions offer an understanding of human-GAI engagement](epistemological-dimensions-explain-human-gai-engagement.md) — related
+- [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — possibly the same claim (merge candidate)
+- [Learners using a GenAI system issued prompts that offloaded tasks that may have been important for them to perform themselves, such as differentiating concepts and deciding what to learn](genai-prompt-offloading-learning-tasks.md) — related

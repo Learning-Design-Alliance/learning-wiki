@@ -52,3 +52,5 @@ The key-findings section states the pre-k-to-second-grade pathway "proved especi
 - [District-wide pre-k attendance rates increased modestly (1.5 percentage points) as full-day enrollment expanded, with Black students gaining 3 percentage points](district-prek-attendance-increased-with-fullday-expansion.md) — related
 - [Pre-k policy changes were associated with higher second-grade reading test scores for Black students and students in the lowest-income group](prek-policy-reading-gains-black-lowest-income.md) — related
 - [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](expanded-learning-time-positive-outcomes.md) — related
+- [Pre-policy, the negative distance-enrollment relationship was strongest for Black students](distance-enrollment-strongest-black-students.md) — related
+- [Improved second-grade outcomes were related to pre-k policy changes through greater access to full-day pre-k and subsequently improved kindergarten entry skills](prek-access-kindergarten-entry-skills-pathway.md) — related

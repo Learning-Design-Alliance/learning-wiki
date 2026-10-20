@@ -45,3 +45,4 @@ Quasi-d statistics were created by transforming ARIMA t values from six field st
 
 - Planned contingency-of-reinforcement designs can raise academic achievement above normal classroom levels across a wide range of children — the general claim this finding bears on, with the studies behind it
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](variance-adjustment-reduces-precision-multi-armed.md) — related
+- [Group-design studies show a significant main effect of self-management interventions on classroom behaviors (g = 0.63), but rest on only four studies](sm-group-design-main-effect-g063.md) — related

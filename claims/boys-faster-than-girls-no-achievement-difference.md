@@ -79,3 +79,6 @@ The authors' comparison of achievement across gender groups in the same test fou
 - [Gender findings on adolescent creativity are mixed and depend on the domain or topic of the creativity test](gender-creativity-mixed-domain-dependent.md) — a broader claim this one bears on
 - [Girls were on average more accurate than boys in equation rearrangement, with no significant difference in speed](girls-more-accurate-equal-speed-equation-solving.md) — related
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related
+- [Choice latency is a valid cue for kindergarteners: faster recognition responses are associated with correct answers](choice-latency-valid-cue-kindergarteners.md) — related
+- [Screen reader choice affects time and effort for accessing math: JAWS users completed a quadratic-equation task faster than NVDA users](screen-reader-effort-quadratic-equation-bvi.md) — related
+- [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related

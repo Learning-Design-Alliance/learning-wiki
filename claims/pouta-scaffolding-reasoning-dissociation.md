@@ -64,3 +64,4 @@ Video coding of the same Pouta et al. lessons shows experienced teachers' instru
 ## Related Claims
 - [After training, better professional vision and reasoning are correlated with more learning-centered conception changes and fewer misconceptions](posttest-correlations-vision-conceptions.md) — related
 - [Teachers judged LLM-simulated student ideas realistic and most useful when the ideas sparked sensemaking about student thinking and suggested scaffolds](teachers-perceive-llm-ideas-realistic-sensemaking-useful.md) — related
+- [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — related

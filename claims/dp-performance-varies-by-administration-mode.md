@@ -65,3 +65,4 @@ Spearman correlation analysis of performance data found word count strongly corr
 - [Student performance on design problems correlates negligibly with traditional project grades, suggesting DPs capture distinct transfer-oriented HOT dimensions](dp-grades-uncorrelated-with-project-grades.md) — related
 - [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](keystroke-patterns-suggest-cognitive-engagement.md) — related
 - [Requiring students to write out evaluation steps manually improved transfer to pen-and-paper exam performance between the two deployments](manual-evaluation-steps-improve-exam-transfer.md) — related
+- [Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers](instructors-value-dps-effort-barrier.md) — related

@@ -49,3 +49,4 @@ Null findings from the mixed-effects models in the 31-reader study: the printed 
 - [Strength is strongly positively correlated with second-pass reading time, while betweenness, harmonic centrality and local clustering coefficient are not related to duration measures](strength-correlates-second-pass-reading-time.md) — related
 - [Topic-final sentences show higher harmonic centrality than topic-medial sentences and lower local clustering coefficient than other sentence types](topic-final-harmonic-clustering-patterns.md) — related
 - [Betweenness centrality decreases as working memory capacity increases](wmc-decreases-betweenness-centrality.md) — related
+- [Readers with higher working memory capacity make more transitions between sentences (higher strength)](wmc-increases-strength-reading-networks.md) — related

@@ -51,3 +51,4 @@ Study 2 null result: an ANCOVA controlling for ReadDiff found a "non-significant
 - [Bilingual preschoolers silently reading dual-language e-books attend more to their dominant language (English) than the nondominant language (Mandarin)](dominant-language-attention-bias-dual-language-e-books.md) — related
 - [Multimedia enhancing features increase attention to print in single-language e-books in both English and Mandarin](enhancing-features-increase-attention-single-language-e-books.md) — related
 - [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — related
+- [The attention-guiding effect of narration-plus-animation is phase-dependent: target-language attention drops significantly after the animation ends](animation-phase-dependent-attention-to-print.md) — related

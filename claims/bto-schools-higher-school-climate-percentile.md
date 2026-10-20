@@ -69,3 +69,4 @@ Observational analysis of 1,715 California middle and high schools administering
 - [School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools](climate-gap-bto-versus-cu-schools.md) — related
 - [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](climate-stronger-association-than-resources.md) — related
 - [Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming](bto-schools-rare-2-point-4-percent.md) — related
+- [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](sci-stronger-than-personnel-resources-for-bto.md) — related

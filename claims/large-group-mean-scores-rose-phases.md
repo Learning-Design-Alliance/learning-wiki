@@ -46,3 +46,4 @@ Descriptive analysis of mean scores across seven interaction phases for G1 (n = 
 
 - [The large online group showed significant score improvements from phase onward on question 1 while the smaller groups did not, indicating collective intelligence capacity emerged in the large group](collective-intelligence-large-group-hate-speech-improvement.md) — possibly the same claim (merge candidate)
 - [Omnibus tests found significant group, phase and group-by-phase effects on questions 1 and 2, and predominantly group effects on questions 3 and 4](omnibus-group-phase-effects-hate-speech-scores.md)
+- [The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2](small-groups-no-improvement-hate-speech-scores.md) — related

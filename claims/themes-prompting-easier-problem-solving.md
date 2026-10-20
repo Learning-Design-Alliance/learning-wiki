@@ -48,3 +48,4 @@ Inductive thematic analysis of 200 coded responses to reflection questions Ref1 
 ## Related Claims
 - [CS1 students tend to agree it is easier to solve problems by writing natural language prompts than by writing code (mean 3.80 on a five-point scale)](students-perceive-prompting-easier-than-coding.md) — related
 - [Students report code understanding, debugging, and AI-limitation awareness as primary learning benefits of buggy GenAI programming tasks](student-reflections-buggy-genai-learning-benefits.md) — related
+- [When prompts failed, students most commonly reported clarifying intent or specifying more detail, and reflecting on the problem depiction, rather than tracing code or examining test cases](clarify-intent-top-refinement-strategy.md) — related

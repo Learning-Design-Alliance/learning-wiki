@@ -46,3 +46,5 @@ Error-attribution analysis of incorrect solutions on GeoVAD-Bench (Figure 3, Sec
 - [Correct final answers are associated with stronger performance on all four process-level metrics, with reasoning-process correctness showing the clearest separation](process-metrics-separate-correct-incorrect-solutions.md) — related
 - In a contrastive audit, visual misreading is the dominant failure mode for non-reasoning models on items reasoning models solve — related
 - [Step-level credit assignment added to Interleave-RL raises the reasoning score from 46.3% to 66.3% on GeoVAD-Bench](step-level-credit-assignment-boosts-reasoning.md) — related
+- [LLM errors on multimodal physics problems fall into four categories, with visual processing errors most prevalent, and error type distribution does not differ significantly across models](four-category-llm-multimodal-error-taxonomy.md) — related
+- [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related

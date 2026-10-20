@@ -48,3 +48,4 @@ Thematic synthesis cluster on motivational and affective dimensions across the 5
 ## Related Claims
 - [AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies](ai-gbl-positive-knowledge-acquisition-effects.md) — related
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
+- [GBL and gamified approaches show comparable rates of quantifiable learning gains and affective outcomes in robotics education](comparable-outcomes-gbl-versus-gamified-robotics.md) — related

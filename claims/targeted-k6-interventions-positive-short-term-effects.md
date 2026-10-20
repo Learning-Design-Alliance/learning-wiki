@@ -48,3 +48,7 @@ Random-effects meta-analysis with robust-variance estimation of 205 included stu
 - [Targeted school-based interventions for Grades 7–12 students with or at risk of academic difficulties have positive, statistically significant short-run effects on standardised reading and maths tests (ES = 0.22)](targeted-secondary-interventions-positive-short-run-effects.md) — related
 - Effect sizes across the included studies were highly heterogeneous (I2 = 97.30%), requiring a random effects model — related
 - [Effect sizes based on mathematics tests are significantly larger than effect sizes based on reading tests in targeted secondary interventions](math-test-effects-larger-than-reading.md) — related
+- [Interventions in higher Grades tend to have somewhat lower effect sizes; other study characteristics show few significant moderator effects](grade-level-moderates-effect-size.md) — related
+- [Substantial unexplained heterogeneity characterises short-term effects of targeted K-6 interventions](substantial-heterogeneity-short-term-effects.md) — a narrower finding that bears on this claim
+- [The 2018 review reported a larger pooled effect (SMD = 0.30) that was not sustained at longer-term follow-up](prior-review-larger-unsustained-effect.md) — related
+- [Longer-run effects of targeted secondary interventions are small and not statistically significant, with only seven studies providing follow-up evidence](long-run-effects-null-seven-studies.md) — a narrower finding that bears on this claim

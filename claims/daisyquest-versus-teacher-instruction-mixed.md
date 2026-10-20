@@ -71,3 +71,5 @@ Same trial's second comparison against mathematics and drawing software controls
 - [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](daisyquest-positive-effects-alphabetics.md) — related
 - [DaisyQuest outperformed math-oriented control software on phonological awareness and phonics measures](daisyquest-beats-math-software-alphabetics.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — a broader claim this one bears on
+- [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](lonigan-2003-significant-four-of-eight-outcomes.md) — related
+- [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](wwc-positive-effects-rating-daisyquest.md) — related

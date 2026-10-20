@@ -54,3 +54,5 @@ Chi-square test of independence on 120 interaction logs coded for motivation and
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - [Role framing shifts toward non-use in team contexts, with non-use more than doubling](role-framing-shifts-toward-non-use-in-teams.md) — related
 - [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related
+- [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
+- [Most African students enrolled in the SuaCode smartphone coding course for intrinsic rather than extrinsic reasons (68.7% vs 31.3% of coded motivations)](suacode-african-students-intrinsically-motivated.md) — related

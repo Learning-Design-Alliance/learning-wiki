@@ -52,3 +52,5 @@ The review's C1 'Social and emotional implications' sub-theme, attributing the p
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Privacy protections lag behind reputational concerns: institutions rarely consider implications of capturing audio-visual and behavioral data from private spaces, and AI algorithms are seldom transparent about error rates](privacy-transparency-lags-proctoring-adoption.md) — related
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — related
+- [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related
+- [Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias](rfi-bias-mitigation-testing-human-involvement.md) — related

@@ -45,3 +45,4 @@ Meta-regression from Table 2 controlling for log-centered test length. Intervent
 ## Related Claims
 - [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related
 - [Cronbach's Alphas of knowledge tests vary widely, with a 90% prediction interval of (0.35, 0.96)](knowledge-test-alpha-prediction-interval.md) — related
+- [Alpha is negatively related to sample mean age, and knowledge type shows no effect after controlling for test length](knowledge-test-alpha-age-and-type.md) — related

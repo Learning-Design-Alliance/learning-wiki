@@ -48,3 +48,4 @@ Study 2 measured calibration by the difference between actual and predicted post
 - [Full reasoning traces worsened calibration bias and Brier scores relative to both other conditions](full-traces-worsen-calibration-and-brier-scores.md) — related
 - [Children's ability to discriminate between correct and incorrect answers did not change over training regardless of group](discrimination-unchanged-after-training.md) — related
 - [Practice with feedback—either correct-answer or explanatory—produces better memory than lecture, in both multiple-choice and open-ended formats](practice-feedback-memory-beats-lecture.md) — related
+- [Without feedback, more practice-test participation predicts lower specificity (worse detection of incorrect answers); with corrective feedback this negative relation disappears](practice-test-specificity-negative-without-feedback.md) — related

@@ -50,3 +50,5 @@ Psychophysiological-interaction analysis in the cohort found "a moderate relatio
 - [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](self-regulation-frontal-activation-proactive-inhibition.md) — related
 - [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](sex-specific-inhibition-coupling-development.md) — related
 - [Working memory relates to sourcing in a minority of studies, while psychophysiological self-regulation shows a positive relationship](working-memory-self-regulation-sourcing.md) — related
+- [Excessive smartphone use in adolescents is associated with reduced frontostriatal connectivity and greater cortisol-related withdrawal symptoms](excessive-smartphone-frontostriatal-cortisol.md) — related
+- [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](self-regulation-proactive-response-slowing-children.md) — related

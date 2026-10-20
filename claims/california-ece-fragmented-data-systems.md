@@ -50,3 +50,8 @@ Report's data systems section, from county interviews and document review, finds
 - A landscape review found fragmentation in California's teacher workforce infrastructure, with no agency holding singular responsibility for workforce planning — related
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
 - [Test-based Quality Rating and Improvement Systems have been costly, inefficient, and subject to manipulation, while collaborative quality-improvement approaches are emerging](qris-test-based-costly-manipulated-collaborative-emerging.md) — related
+- [Mixed delivery early care systems experience fragmentation that creates barriers such as siloed funding, inefficient subsidies, and workforce turnover](mixed-delivery-fragmentation-barriers.md) — a broader claim this one bears on
+- [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](ece-governance-fragmented-multi-agency.md) — related
+- [Fragmented data systems made intervention planning slow and burdensome, with educators spending 2-3 hours building a single student intervention plan](fragmented-data-systems-slow-intervention-planning.md) — related
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
+- [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related

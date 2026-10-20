@@ -46,3 +46,4 @@ Content analysis of final-exam question percentages per BCCAT content area per i
 - [Collected exam questions required no cognitive processes above apply and no originality in analysis or high-level interdependence](exam-questions-capped-at-apply-and-standardized-analysis.md) — related
 - [No significant differences between Engineering and Technology exam questions in novelty and level of communication](no-significant-difference-novelty-communication.md) — related
 - [Engineering physics exam questions demand more approach selection or synthesis while Technology questions often prescribe a specific approach](engineering-physics-questions-higher-scaffolding-autonomy.md) — related
+- [Technology programs examine discipline-related physics topics at higher cognitive levels within a disciplinary context](technology-programs-discipline-specific-physics-emphasis.md) — related

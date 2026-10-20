@@ -44,3 +44,5 @@ Three separate multiple regressions with 167 students tested whether the creativ
 
 ## Related Claims
 - [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md) — related
+- [Gold and silver trophy counts are the only significant student-level predictors of persistence, with negative relationships](trophies-negative-student-level-predictors.md) — related
+- [Physics understanding difficulty is a stronger predictor of in-game persistence than game mechanics difficulty in Physics Playground](pu-difficulty-stronger-than-gm-predicts-persistence.md) — related

@@ -46,3 +46,5 @@ WWC synthesis of May et al. (2015), a low-attrition randomized controlled trial 
 - [Reading Recovery improves receptive communication skills immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-receptive-communication.md) — related
 - [Reading Recovery improves writing productivity immediately after the intervention, with promising evidence from one small quasi-experimental study](reading-recovery-improves-writing-productivity.md) — related
 - [Reading Recovery shows strong ESSA evidence of positive effects on general literacy achievement and moderate evidence on academic dispositions for grade 1 students](reading-recovery-strong-evidence-literacy-achievement.md) — related
+- [Reading Recovery shows uncertain effects on general academic achievement ten years after the intervention](reading-recovery-uncertain-longterm-academic-achievement.md) — related
+- [Reading Recovery improves writing conventions three years after the intervention, but the effect is significant only against one of the two comparison groups](reading-recovery-improves-writing-conventions-mixed.md) — related

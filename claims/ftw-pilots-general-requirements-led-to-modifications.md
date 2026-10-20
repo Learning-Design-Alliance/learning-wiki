@@ -43,4 +43,4 @@ Third pilot with seven adults (three engineers, four non-engineers) on the task 
 
 
 ## Related Claims
--
+- [Starting the FTW process in the far future (Box 4) frees participants from present technological limitations](ftw-start-far-future-box4.md) — related

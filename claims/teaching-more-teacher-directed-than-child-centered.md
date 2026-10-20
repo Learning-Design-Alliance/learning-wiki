@@ -46,3 +46,5 @@ Observational coding of the same 21 teachers' transcripts. A Wilcoxon signed ran
 ## Related Claims
 
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](teachers-instruct-cognitive-more-than-metacognitive-strategies.md)
+- [Child-centered instruction positively predicts children's self-monitoring accuracy and, for second graders, restudy effectiveness](child-centered-instruction-predicts-metacognition.md) — related
+- [Three student-centered practices were associated with lower 2nd-grade math achievement](student-centered-practices-lower-second-grade-achievement.md) — related

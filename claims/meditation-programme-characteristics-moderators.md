@@ -48,3 +48,4 @@ The review's percentage-of-significant-effects analysis of programme characteris
 - [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — a broader claim this one bears on
 - [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related
 - [Implementation quality, shorter program duration, and community-based delivery are associated with lower dropout among treated students](implementation-duration-community-moderators.md) — related
+- [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related

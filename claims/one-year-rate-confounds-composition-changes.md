@@ -45,3 +45,4 @@ Methodological argument comparing the CPS one-year rate (15–17 percent of high
 ## Related Claims
 - [Defining dropout cohorts by age 13 rather than by ninth-grade entry avoids composition bias from the CPS promotion policy's grade retentions](age-based-cohort-definition-avoids-retention-bias.md) — related
 - [After controlling for demographic changes and school enrollment patterns, the postpolicy decline in dropout rates appears slightly smaller, and the report urges caution in attributing trends to the gate](dropout-decline-smaller-after-controls.md) — related
+- [Including unverified transfers as dropouts yields dropout rates about 4 percent higher at age 19 and eliminates the downward trend](unverified-transfers-raise-rates-remove-trend.md) — related

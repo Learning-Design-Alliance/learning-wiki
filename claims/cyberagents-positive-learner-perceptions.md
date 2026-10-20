@@ -50,3 +50,6 @@ Classroom deployment with 24 undergraduate students using a within-subjects desi
 - [IMI motivation ratings after four weeks of Mangomon play were moderate (all sub-scale means below 4.00), highest for effort/importance and lowest for perceived choice](moderate-motivation-imi-mangomon.md) — related
 - [A design-based study with 42 undergraduates reported a 15% improvement in rubric alignment and faster correction cycles from proactive agentic feedback loops](agentic-feedback-42-undergrads-rubric-alignment-gain.md) — related
 - [Easier items were perceived as better aligned with the curriculum (strong difficulty–alignment association)](easier-items-perceived-as-better-aligned.md)
+- [Activity-Technology alignment is the weakest quality dimension across all agents (mean = 2.19), identifying technology integration as a universal challenge](activity-technology-alignment-weakest-dimension.md) — related
+- [Students rate LLM-generated simplified instructions positively, averaging 7.83 on a 1-10 usefulness scale across 42 ratings in a live cybersecurity course](student-feedback-7-83-ocr-llm-instructions.md) — related
+- [Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower](student-perceptions-of-dps-differ-from-experts.md) — related

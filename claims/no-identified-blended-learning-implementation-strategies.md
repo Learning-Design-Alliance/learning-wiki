@@ -49,3 +49,4 @@ The review's stated key finding on implementation: the reviewed research base do
 - [Saga blended tutoring had a small negative impact on school attendance](saga-tutoring-small-negative-attendance-impact.md) — related
 - [Saga blended tutoring produced large positive impacts on algebra scores in one district and geometry scores in another, but no effects on two other standardized tests](saga-blended-tutoring-test-score-impacts-mixed.md) — related
 - [Saga tutoring impacts were larger for students with lower prior math achievement and for Black students](saga-tutoring-larger-impacts-lower-prior-achievement.md) — related
+- [Many school districts are interested in implementing blended learning but lack evidence on its effects and on best-practice implementation](districts-lack-blended-learning-evidence-and-implementation-guidance.md) — possibly the same claim (merge candidate)

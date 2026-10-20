@@ -45,3 +45,4 @@ Confirmatory SEM path analysis of numeracy (Berlin Numeracy Test) in 170 Swedish
 - [Math anxiety has a statistically significant indirect effect on arithmetic calculation through working memory (affective drop pathway)](ma-indirect-effect-wm-arithmetic.md) — related
 - [The relative strength of MA's pathways varies by mathematical task type: WM dominates for numeracy, both WM and number processing operate for arithmetic](ma-pathways-vary-by-task-type.md) — a broader claim this one bears on
 - [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](wm-np-predict-adult-math.md) — related
+- [Math anxiety has a direct effect on arithmetic calculation above and beyond the indirect pathways](ma-direct-effect-arithmetic.md) — related

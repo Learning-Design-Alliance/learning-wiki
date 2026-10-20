@@ -53,3 +53,5 @@ The paper's key finding on regression discontinuity designs: robust methods guar
 - Clustered regression discontinuity designs typically require three to four times larger samples than clustered experimental designs to produce impact estimates with the same level of statistical precision in education evaluations — related
 - Small sample sizes reduced the power of the school choice analysis to detect achievement effects — related
 - [In Clark County, One-Star designation significantly raises math and ELA scores for all students](one-star-designation-clark-county-all-students.md) — a narrower finding that bears on this claim
+- [When well implemented, RD and experimental estimators produce impact estimates that are not significantly different and similar in magnitude on average](rd-well-implemented-matches-experimental-estimates.md) — related
+- [Author-reported RD findings count toward effectiveness ratings only if standard errors account for clustering of students at unique forcing variable values](rd-clustering-and-discreteness-requirement.md) — related

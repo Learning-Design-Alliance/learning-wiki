@@ -48,3 +48,4 @@ The fairness chapter reports Mantel-Haenszel DIF analyses using ETS classificati
 - [The vast majority of Spanish Math (91%) and Reading (98%) items show no misfit across fall, winter, and spring terms](spanish-items-longitudinal-fit-no-misfit.md) — related
 - [Kindergarten entry-age effects do not differ by gender or race](entry-age-effects-no-gender-race-differences.md) — related
 - [DIF analysis finds mostly negligible or slight-to-moderate differential item functioning, with only one item showing moderate-to-large DIF favoring Asian over White participants](dif-one-item-moderate-large-rest-negligible.md) — a narrower finding that bears on this claim
+- [DIF study finds most items in category A, with C DIF rare (~1%) except for the Native English/Bilingual group (6.66%)](spanish-map-reading-dif-patterns.md) — related

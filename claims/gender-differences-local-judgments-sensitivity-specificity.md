@@ -47,3 +47,6 @@ Study 1 hierarchical regression of local judgments in the mathematics test, wher
 
 ## Related Claims
 - [Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence](domain-specific-self-concept-predicts-judgments.md) — related
+- [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related
+- [Men reported higher monitoring judgments on health math problems than women, even accounting for performance accuracy](gender-difference-monitoring-judgments-health-math.md) — related
+- [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related

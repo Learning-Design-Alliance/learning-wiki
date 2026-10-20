@@ -46,3 +46,4 @@ Zero-order correlations in the longitudinal sample (n = 53 with missing data han
 ## Related Claims
 - [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — related
 - [The indirect praise-to-achievement path is driven by trait beliefs, not learning goals](trait-beliefs-not-learning-goals-mediate-praise-achievement-link.md) — related
+- [Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement](praise-effects-robust-to-parent-talk-and-ses-controls.md) — related

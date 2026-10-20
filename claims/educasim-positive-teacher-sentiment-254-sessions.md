@@ -46,3 +46,6 @@ Observational usage analysis of the two-week deployment (Table 2 reports 254 ses
 - [Simulated role play sessions cost $0.05-$0.10 each in the EducaSim deployment](educasim-low-cost-per-session.md) — related
 - Mathematics teachers appreciate ChatGPT-generated generative learning activities as hands-on, collaborative, engaging, open-ended, differentiated, and using multiple representations — related
 - [EducaSim's LLM-based speaker oracle distinguishes it from prior simulation tools on multi-agent interaction](educasim-llm-oracle-multi-agent-speaker-selection.md) — related
+- [Sentiment toward AI in education shifted from negative to positive, with negative descriptors falling from 30% of participants to 0% after the intervention](sentiment-shift-negative-to-positive-ai-education.md) — related
+- [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
+- [90% of open-ended survey responses about the ChatGPT activity were neutral in sentiment, with 2% positive and 8% negative](open-ended-responses-mostly-neutral-sentiment.md) — related

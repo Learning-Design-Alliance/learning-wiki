@@ -49,3 +49,6 @@ Competing-model confirmatory factor analysis in a survey of 382 undergraduates (
 - [Strategic reliance is positively associated with AI literacy, and the reliance types differentiate students across writing process and outcome variables](strategic-reliance-associated-ai-literacy.md) — related
 - [Undergraduate LLM reliance classifies into four types — Strategic (34.3%), Instrumental (30.9%), Dialogic (30.4%), and Dependent (4.5%) — using a threshold-based classification rule](four-types-llm-reliance-typology-distribution.md) — related
 - [Strategic users score lowest on standard AI-outcome measures, reflecting instrument validity limits that reward AI-driven outcomes over writing quality](strategic-users-score-lowest-outcome-measures.md) — related
+- [Reliance, trust, and dependency are distinct constructs requiring separate measurement from AI-literacy totals](reliance-trust-dependency-separate-constructs.md) — related
+- [The 28 GenAI literacy criteria function coherently as indicators of a single underlying construct in a Rasch partial credit analysis](genai-literacy-items-single-construct-rasch-fit.md) — related
+- [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related

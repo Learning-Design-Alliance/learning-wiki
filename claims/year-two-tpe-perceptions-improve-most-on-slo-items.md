@@ -52,3 +52,5 @@ Year-to-year comparison of the 2013 and 2014 Maryland TPE surveys (Table 2). The
 - [Educator perceptions of TPE become more positive with each year of implementation](tpe-perceptions-improve-with-experience.md) — a broader claim this one bears on
 - [Principals' positive perceptions of TPE rose 17 to 37 percentage points and teachers' rose 20 to 31 percentage points between 2013 and 2016](tpe-perception-gains-2013-2016.md) — a broader claim this one bears on
 - [Instructionally focused TPE implementation is seen as more valuable, while compliance-driven implementation increases teacher stress](instructional-versus-compliance-tpe-implementation.md) — related
+- [Most states adopted and most principals and teachers reported implementing college- and career-readiness-focused state standards in 2013-14](most-states-adopted-college-career-readiness-standards-2013-14.md) — related
+- [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related

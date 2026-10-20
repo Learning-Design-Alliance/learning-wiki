@@ -66,3 +66,6 @@ Survey comparison by LEA size. The report also states large LEAs were more likel
 - [Most LEAs offered full-day TK (84% in 2023–24) and 87% provided an expanded learning option to extend the day](full-day-tk-and-expanded-learning-offerings.md) — related
 - [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](majority-leas-all-sites-full-day-tk.md) — related
 - [Nearly half of California's UPK classrooms were stand-alone TK classes, but small LEAs were far less able to offer stand-alone TK than medium and large LEAs](upk-classroom-models-stand-alone-size-gradient.md) — related
+- [Nearly all California LEAs offered TK in 2023–24, with 85% offering it at all elementary sites, up from 81% the prior year](california-leas-tk-offering-2023-24.md) — related
+- [LEAs steadily expanded TK access, with 94% offering TK and 70% of multi-site LEAs offering TK at all elementary sites in 2024–25](lea-tk-access-expansion-2024-25.md) — related
+- [In 2022–23, 81% of California LEAs offered TK at all elementary sites and half offered early-admittance TK ahead of the legislated eligibility schedule](california-leas-tk-all-sites-early-admittance.md) — related

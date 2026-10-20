@@ -47,3 +47,5 @@ A 2005 UChicago CCSR analysis of 10 years of longitudinal district records acros
 - [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related
 - [Three freshman warning indicators—off-track status, any course failure, and attendance below 85 percent—identify 70 percent of eventual non-graduates](freshman-warning-indicators-identify-70-percent-nongraduates.md) — related
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related
+- [Students on track in ninth grade were four times more likely than off-track peers to graduate high school](ninth-grade-on-track-four-times-graduation.md) — related
+- [Graduation rates rise with freshman credits earned, with a large gap above six credits](credits-earned-freshman-year-graduation-gradient.md) — related

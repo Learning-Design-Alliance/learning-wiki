@@ -47,3 +47,7 @@ The brief reports, citing Hammer et al. (2020), aggregate results from three stu
 - [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](bilinguals-better-math-tested-in-spanish.md) — related
 - [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — a broader claim this one bears on
 - [As of 2024, only 10 U.S. states explicitly include Spanish–English bilinguals in their kindergarten entry assessments, while 41 states implicitly include or do not include them](ten-states-explicitly-include-spanish-english-bilinguals-in-keas.md) — related
+- [Simultaneous and sequential DLL learners show opposite vocabulary patterns in English versus the home language](simultaneous-sequential-vocabulary-differences.md) — related
+- [DLL children can catch up to monolingual norms in English vocabulary, but need substantial time and exposure to do so](dll-catch-up-over-time.md) — related
+- [Timing of English exposure moderates how vocabulary growth predicts reading: English vocabulary growth predicted HEC children's English passage comprehension while Spanish vocabulary growth predicted SEC children's English reading](timing-english-exposure-moderates-vocabulary-reading-effects.md) — related
+- [Mexican American children used more heritage language at home while Korean American children used more English](mexican-american-more-heritage-language-than-korean-american.md) — related

@@ -47,3 +47,6 @@ Experiment 1, a controlled incidental-learning experiment with 48 subjects in fo
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](lag-effect-eliminated-long-retention-no-associations.md) — related
 - [A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition](within-list-lag-persists-with-interitem-associations.md) — related
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
+- [Studying a word list in two different rooms yields about 40% more recall than studying it twice in the same room when tested in a new room](environmental-context-variability-improves-recall.md) — related
+- [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related
+- [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](spacing-benefit-short-retention-no-peterson-paradox.md) — reports the opposite

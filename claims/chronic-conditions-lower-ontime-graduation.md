@@ -46,3 +46,4 @@ T-test on Add Health subsamples comparing on-time completion by age 19: healthy 
 - [Perceived school belonging predicts on-time high school completion more strongly for students with chronic medical conditions than for healthy peers](belonging-completion-moderated-by-health-status.md) — related
 - [Adolescents with chronic medical conditions report lower perceived school belonging than their healthy peers](chronic-conditions-lower-school-belonging.md) — related
 - [Students with chronic medical conditions show demographic differences from healthy peers in the Add Health subsamples](chronic-group-demographic-differences.md) — related
+- [Health status predicts perceived school belonging beyond demographic controls](health-status-predicts-belonging.md) — related

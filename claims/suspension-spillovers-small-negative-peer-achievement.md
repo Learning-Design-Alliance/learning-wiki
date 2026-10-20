@@ -47,3 +47,4 @@ Peer-spillover analysis in the Philadelphia student panel data finds "Exposure t
 - [District math and English language arts achievement declined in Philadelphia following the discipline policy reform](philadelphia-reform-math-ela-achievement-declined.md) — related
 - [Suspensions are more salient for students who personally experience suspension than for their peers](suspensions-more-salient-for-suspended-students-than-peers.md) — related
 - Referrals showed significant negative associations with math growth in grades 2 and 4, but weaker and less consistent effects in reading — related
+- [Peer outcomes following a district suspension reform varied with school-level implementation](school-level-implementation-moderates-discipline-reform-peer-effects.md) — related

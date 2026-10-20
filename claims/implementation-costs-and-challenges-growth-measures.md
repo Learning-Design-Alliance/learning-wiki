@@ -50,3 +50,5 @@ Key finding of the implementation study: districts experienced financial costs a
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related
 - [States integrate performance-based assessments as a complement or alternative to traditional multiple-choice tests within a broader assessment strategy](performance-assessments-complement-multiple-choice-tests.md) — related
+- [Districts implementing new teacher evaluation systems faced challenges using evaluations for instructional improvement](teacher-evaluation-challenge-instructional-improvement.md) — related
+- [Illinois districts implementing PERA-era teacher evaluation systems experienced challenges cultivating buy-in and understanding among school personnel](pera-districts-challenge-cultivating-buy-in-understanding.md) — related

@@ -45,3 +45,6 @@ The chapter reports the Scaling Up SimCalc randomized controlled trial (Roschell
 ## Related Claims
 - [SimCalc replacement units produced statistically significant pretest-to-posttest gains in conceptual understanding with student-level effect sizes of .63, .50, and .56 in three Texas experiments](simcalc-texas-experiments-effect-sizes.md) — related
 - [More than 50% of participating teachers continued using the SimCalc intervention a year after the research ended, with perceived coherence and unique value predicting continued use](simcalc-teacher-sustained-use.md) — related
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related
+- [SimCalc treatment effects were not sensitive to school socioeconomic status or percentage of Hispanic students, and 91% of 7th-grade treatment classrooms exceeded the control-group mean gain](simcalc-effects-insensitive-demographics.md) — related
+- [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related

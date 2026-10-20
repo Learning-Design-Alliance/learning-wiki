@@ -45,3 +45,5 @@ Subgroup analysis across five subject categories (biology, mathematics, IT-relat
 ## Related Claims
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
 - [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](arvr-largest-effect-ai-application-type.md) — related
+- [Personalized learning models combining classroom use with student-centered pedagogies (Model C) exert larger effects than fully automated platforms (Model A)](hybrid-learning-models-outperform-fully-automated.md) — related
+- [AI-enabled personalized STEM education yields a statistically significant overall effect of g = 0.455, which its authors class as small, compared with traditional non-AI instruction in K-12 schools](ai-personalized-stem-overall-effect-g0455.md) — a broader claim this one bears on

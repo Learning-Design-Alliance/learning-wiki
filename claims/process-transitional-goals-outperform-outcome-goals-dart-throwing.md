@@ -46,3 +46,4 @@ A tribute commentary (Mandell) reports, citing Kitsantas and Zimmerman (2006), a
 - [Process goals lead to better skill acquisition for novices than outcome goals.](process-goals-outperform-outcome-goals-for-novices.md) — possibly the same claim (merge candidate)
 - [Empirical studies support Zimmerman's cyclical and multi-level SRL models, including a linear trend favoring training more SRL phases](zimmerman-cyclical-model-empirical-support.md) — related
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](students-overestimate-sport-performance-calibration.md) — related
+- [Empirical studies support Zimmerman's SRL models, including expert-novice differences and phase-training effects](empirical-support-zimmerman-srl-models.md) — related

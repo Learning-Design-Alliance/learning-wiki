@@ -47,3 +47,4 @@ Moderator analyses in the random-effects meta-analysis of ten publications on ex
 - [Physical exercise has a significant modest positive effect on functional outcomes (executive functions and motor skills) in children with ADHD](exercise-improves-adhd-functional-outcomes.md)
 - [Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes](longer-exercise-interventions-larger-adhd-effects.md)
 - [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md)
+- [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](mvpa-intensity-moderates-working-memory-effect.md) — related

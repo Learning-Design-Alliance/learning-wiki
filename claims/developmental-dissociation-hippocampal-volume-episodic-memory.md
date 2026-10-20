@@ -47,3 +47,6 @@ Recent study (DeMaster, Pathman, & Ghetti, 2012, as reviewed) reporting developm
 - [Exploratory ROI volume–behavior correlations within SES groups did not survive FDR correction](exploratory-roi-behavior-correlations-not-significant-after-fdr.md) — related
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
 - [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
+- [Aerobic fitness and diet affect hippocampal volume and predict episodic memory differences, with effects possibly magnified in childhood](aerobic-fitness-diet-hippocampus-episodic-memory.md) — related
+- [The anterior hippocampus becomes functionally specialized for episodic memory around the transition to adolescence](anterior-hippocampus-functional-specialization-adolescence.md) — related
+- [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related

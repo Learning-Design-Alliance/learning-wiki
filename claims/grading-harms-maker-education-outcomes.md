@@ -46,3 +46,4 @@ A literature-based argument in the paper's section on foundational principles. T
 
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — the general claim this finding bears on, with the studies behind it
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](grades-detrimental-creative-thinking-retention.md) — possibly the same claim (merge candidate)

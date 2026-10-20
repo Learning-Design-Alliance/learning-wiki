@@ -46,3 +46,4 @@ Human-model comparison in which 20 questions were randomly sampled from each of 
 - [A recognition-versus-reasoning divide: scene recognition is comparatively mature while affective interpretation and compositional reasoning lag](recognition-reasoning-divide-muse.md) — related
 - [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — related
 - [VLMs show a common grounding failure: coarse semantic relevance without precise region-activity binding and entity-evidence alignment](vlm-grounding-failure-region-activity-binding.md) — related
+- [MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability](muse-tasks-non-redundant-capability-groups.md) — related

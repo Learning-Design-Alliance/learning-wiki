@@ -44,3 +44,4 @@ In introducing the volume, the editors identify common challenges emerging acros
 
 ## Related Claims
 - [Assessing the impacts of a package of interventions whose pieces touch the entire student population is a common reform challenge](assessing-intervention-package-impacts-challenge.md) — possibly the same claim (merge candidate)
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — related

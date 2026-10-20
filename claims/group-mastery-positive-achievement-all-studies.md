@@ -48,3 +48,5 @@ Meta-analytic synthesis of 38 studies of group-based, teacher-paced mastery lear
 - [In one synthesis of group-based mastery learning, five observational studies found more time-on-task in mastery classes and one community-college evaluation found lower attrition in seven of eight disciplines](mastery-improves-engagement-attrition.md) — related
 - [Mastery learning effects are smaller in science than in mathematics, social studies, and language arts, contrary to theory, partly due to grade-level confounding](mastery-science-smaller-effects.md) — related
 - [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](mastery-improves-retention.md) — related
+- [Mastery learning effects are larger for lower-aptitude students, narrowing the spread of achievement in a class](mastery-learning-effects-larger-for-lower-aptitude-students.md) — related
+- [Mastery learning has overall positive effects on student affect, with the exception of slightly lower grade expectations](mastery-positive-affective-effects.md) — related

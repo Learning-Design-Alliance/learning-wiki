@@ -43,4 +43,6 @@ Appendix analysis of the same experiment: "no significant differences in Gammas 
 
 
 ## Related Claims
--
+- [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — a broader claim this one bears on
+- [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related
+- [Older adults show lower JOL resolution only when recollection-based responses are contrasted with pooled familiarity and new responses, an outcome attributed to age-related decreases in strong recollective experiences at test](lower-jol-resolution-recollection-contrast.md) — related

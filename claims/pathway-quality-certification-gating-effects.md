@@ -44,3 +44,4 @@ The SRI evaluation's quality analysis showed positive impacts "occurred only for
 
 ## Related Claims
 - [In the SRI quasi-experimental evaluation, students in high-quality Linked Learning pathways earned more credits, dropped out less, graduated on time more, and showed better ELA proficiency and college-going than peers](linked-learning-pathways-student-outcomes.md) — related
+- [Program content focused on instruction, collegial organizations, and data use is associated with positive school outcomes](principal-program-content-instruction-collegial-data.md) — a broader claim this one bears on

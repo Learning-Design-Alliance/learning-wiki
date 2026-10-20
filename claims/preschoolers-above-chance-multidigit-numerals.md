@@ -47,3 +47,4 @@ Experiment 2 tested 92 children aged 3½ to 5 years on 16 numerals items. A repe
 - [Kindergarteners use partial-knowledge heuristics such as digit recognition and the word hundred to interpret multidigit numerals](partial-knowledge-heuristics-multidigit-items.md) — related
 - [Children from kindergarten through second grade perform significantly above chance on simple multidigit numeral identification and comparison tasks](children-above-chance-multidigit-numeral-tasks.md) — related
 - [Children perform better with written numerals than with base-10 blocks or dot arrays on multidigit tasks](numerals-condition-outperforms-blocks-and-dots.md) — related
+- [Numerical routines individualize through a three-stage sequence of vertical and horizontal bonding](numerical-routines-individualize-through-bonding.md) — related

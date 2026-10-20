@@ -45,3 +45,4 @@ Between-group comparison of effective adoption rate (Figure 6) in the 2×2 exper
 ## Related Claims
 - [FRAC and the combined intervention shifted revision toward deeper levels, with deep revision (L3+L4) rising from 25% in the regular AI group to 55% in the combined group](frac-shifts-revision-toward-deep-levels.md) — related
 - [In AI-assisted writing, the combined FRAC+APCA intervention produced the highest writing quality gains, with FRAC alone exceeding APCA alone, across T1–T3](frac-combined-highest-writing-quality-gains.md) — related
+- [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related

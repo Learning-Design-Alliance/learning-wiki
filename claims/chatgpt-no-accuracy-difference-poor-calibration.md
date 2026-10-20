@@ -67,3 +67,6 @@ Exploratory examination of the correlation matrix in Table 3 from the same exper
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — reports the opposite
+- [Learning-process and psychological constructs correlate only weakly with aggregate final artistic performance](process-constructs-weakly-correlated-final-performance.md) — related
+- [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
+- [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — related

@@ -48,3 +48,5 @@ Think-aloud ANOVAs for the paraphrase and repetition categories in the same expe
 - [Readers with a study goal generate more forward/predictive inferences during reading than readers with an entertainment goal](study-goal-more-predictive-inferences.md) — related
 - [Free recall of expository text is higher under a study goal than under an entertainment goal](study-goal-better-free-recall.md) — related
 - [In a follow-up self-paced reading study, readers with a study goal read considerably more slowly than readers with an entertainment goal](study-goal-slower-reading-times.md) — related
+- [Inserted questions elicit more correct and fewer incorrect elaborations than post-reading questions, with no condition differences in paraphrases](inserted-questions-more-correct-elaborations.md) — related
+- [Readers with an entertainment goal generate more associative inferences than readers with a study goal, though the participant-level test was marginal](entertainment-goal-more-associations.md) — related

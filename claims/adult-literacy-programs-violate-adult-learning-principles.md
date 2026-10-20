@@ -53,3 +53,4 @@ This is the handbook's research-review section on problems of adult literacy pro
 - Being placed in a group does not by itself produce cooperation; structure must be present to make learners work toward a common purpose — related
 - [Research at primary and secondary levels indicates students learn more through non-competitive collaborative group work than in individualized competitive classrooms](collaborative-group-work-beats-competitive-classrooms-k12.md) — related
 - [An adult-education market report, citing a 2014 Department of Labor synthesis, states that cohort membership contributes to adult learners' skill development and persistence](cohort-support-improves-adult-persistence.md) — related
+- [Common language teaching methods such as oral drills, memorization, and fast-paced competitive activities disadvantage older learners](rote-drills-disadvantage-older-learners.md) — related

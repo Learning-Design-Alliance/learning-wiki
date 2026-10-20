@@ -110,3 +110,9 @@ Between-subjects pilot by Verret et al. of a 10-week moderate- to high-intensity
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — related
 - [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md)
 - [Adults with ADHD who frequently engage in physical exercise report healthier psychological well-being than those who do not](physical-activity-correlates-wellbeing-adults-adhd.md) — related
+- [Under normal conditions children with ADHD show deficits in vigilance, visual search and divided attention relative to TD children](adhd-attention-deficits-normal-conditions.md) — related
+- [Non-cardio exercise (yoga, tai chi, walking) shows predominantly positive but questionable acute and chronic effects in children with ADHD](non-cardio-exercise-effects-questionable-adhd.md) — related
+- [Physical exercise has a significant modest positive effect on functional outcomes (executive functions and motor skills) in children with ADHD](exercise-improves-adhd-functional-outcomes.md) — a broader claim this one bears on
+- [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — related
+- [In a randomized three-arm trial, medication but not physical exercise or neurofeedback was related to improved response inhibition and reduced theta power in children with ADHD](medication-not-exercise-improved-response-inhibition-janssen.md) — related
+- [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related

@@ -62,3 +62,6 @@ Pretest-posttest experiment with 34 adult ESL learners of varying L1 backgrounds
 - Conversational interaction may facilitate acquisition of some grammatical structures but not others — related
 - [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
 - [Informal evidence that adults do not automatically process input to develop competence reopens the role of grammar instruction (as reported by the bibliography, citing Terrell)](input-processing-insufficient-for-adult-competence-terrell.md) — related
+- [Interaction in both SCMC and FTF contexts has a significant impact on L2 development (meta-analysis of 14 studies, 1990–2012)](scmc-ftf-interaction-significant-l2-development.md) — a broader claim this one bears on
+- [Negotiated interaction yields higher moment-to-moment comprehension of L2 input than either noninteraction condition, which do not differ from each other](negotiated-interaction-highest-momentary-comprehension.md) — related
+- [A 1999 conference paper reports, citing Ellis and LaPorte (1997), that instruction has little or no effect on the route of L2 acquisition](instruction-little-effect-on-route-of-acquisition.md) — related

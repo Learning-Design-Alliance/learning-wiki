@@ -52,3 +52,4 @@ Final evaluation report of Chicago TAP after four years, comparing participating
 - [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related
 - [Educators were largely receptive to evaluation and compensation strategies, with 65 to 84 percent satisfied with feedback and pay-for-performance improving some job satisfaction](educators-receptive-to-feedback-and-compensation-strategies.md) — related
 - A five-year evaluation of TAP in high-need Chicago public schools began in 2007 — related
+- [High-stakes testing without investment did not improve achievement and narrowed instruction](high-stakes-testing-without-investment-failed.md) — related

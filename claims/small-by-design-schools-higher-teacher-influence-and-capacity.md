@@ -44,3 +44,4 @@ Survey analysis distinguishing schools small by design from other schools with s
 
 ## Related Claims
 - [Schools with teams of Fund-supported leaders and NBCT clusters show few differences from other schools](leadership-teams-few-differences.md) — related
+- [Teachers in CHSRI schools reported statistically significantly higher perceptions of trust and collaboration than teachers in non-CHSRI schools](chrsi-teachers-higher-trust-collaboration-survey.md) — related

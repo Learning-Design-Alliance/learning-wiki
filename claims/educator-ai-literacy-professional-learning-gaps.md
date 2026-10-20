@@ -85,3 +85,5 @@ The same leader survey, as reported in the brief, found leaders expressed instit
 - [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related
 - [Most higher education educators report lacking institutional support and feeling unequipped for GenAI integration](educators-lack-institutional-genai-support.md) — related
 - [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
+- [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](limited-educator-ai-training-resistance-by-grade.md) — related
+- [Regulatory absence and digital competency gaps are the most prevalent barriers to AI adoption among Ukrainian education managers](regulatory-absence-competency-gaps-top-barriers-managers.md) — related

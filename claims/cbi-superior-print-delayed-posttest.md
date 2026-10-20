@@ -45,3 +45,5 @@ Follow-up univariate tests from the 2 x 2 MANOVA on achievement in the randomize
 ## Related Claims
 
 - [High CPC students outperform low CPC students only on the delayed posttest under the chunking method](cpc-difference-delayed-posttest-only.md)
+- [Low-density text is as effective as high-density text for achievement in expository CBI and print lessons](low-density-text-equal-achievement.md) — related
+- [Students generally prefer low-density text, selecting it on about 65 percent of learner-control choices](students-prefer-low-density-text.md) — related

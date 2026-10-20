@@ -54,3 +54,4 @@ Theoretical argument in the conclusion of a design-proposal article. The authors
 - [Evidence on GenAI in chemistry education is concentrated in short-term outcomes, with durable transfer and retention rarely tested](genai-chemistry-evidence-short-term-outcomes.md) — related
 - The AI Index discourse analysis provides no test of intervention effects; the study's contribution is conceptual and agenda-setting — related
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — related
+- [In AI-assisted writing, the combined FRAC+APCA intervention produced the highest writing quality gains, with FRAC alone exceeding APCA alone, across T1–T3](frac-combined-highest-writing-quality-gains.md) — a narrower finding that bears on this claim

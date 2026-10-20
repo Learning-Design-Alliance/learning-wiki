@@ -47,3 +47,4 @@ The abstract reports the neural-level outcome of the training study: the metacog
 - [Changes in the N2 ERP component predict intelligence gains in the metacognitive scaffolding group](n2-change-predicts-intelligence-gains-metacognitive-group.md) — related
 - [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
 - [ERP amplitude shows larger negativity for incongruent and No-Go trials at frontal midline sites](erp-amplitude-incongruent-nogo-frontal-negativity.md) — related
+- [Children show larger and more sustained frontal ERP conflict effects than adults, indicating less efficient executive attention](children-larger-sustained-erp-conflict-effects-than-adults.md) — related

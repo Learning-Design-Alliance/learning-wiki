@@ -62,4 +62,9 @@ Attention protocols (tapping, repositioning materials, self-interruption) let pa
 
 
 ## Related Claims
--
+- [Written media afford simultaneous production and comprehension, which pairs appropriate to manage multiple discussion threads](written-media-simultaneity-multiple-threads.md) — related
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — related
+- [Precisely coordinated transitions among spatial-orientational behavioral clusters help stabilize local patterns of student thinking](behavioral-clusters-stabilize-thinking.md) — related
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — related
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related
+- [Markov chain analysis yields nine finer-grained behavioral clusters that map predominantly onto the three broader behavior types](nine-markov-clusters-map-three-behavior-types.md) — related

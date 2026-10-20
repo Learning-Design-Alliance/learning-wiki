@@ -66,3 +66,6 @@ Subgroup trend analysis by race/ethnicity, gender, neighborhood poverty, and dis
 - Graduation-rate gaps between white and black students generally grew across gap-analysis institutions, reaching nearly 19 points by 2010 — related
 - A small set of public institutions achieved twin goals — 26 raised URM graduation rates by 12 or more points and narrowed gaps, while 17 saw URM rates decline and gaps widen by at least 7 points — related
 - Only the White–Black gap at grade 4 narrowed; gains for minority students did not consistently close racial/ethnic or gender achievement gaps — related
+- [About 27 percent of 2018 graduates statewide met all CCR graduation requirements, with gaps by socioeconomic status, English learner status, race/ethnicity, and prior achievement](ccr-met-27-percent-with-equity-gaps.md) — related
+- [Most reviewed studies used samples composed of at least 40 percent economically disadvantaged students](majority-studies-40-percent-economically-disadvantaged.md) — related
+- [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related

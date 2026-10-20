@@ -44,3 +44,6 @@ The editorial summarizes the Molenaar, Chiu, Sleegers, and van Boxtel controlled
 
 ## Related Claims
 - [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related
+- [Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect](scaffolding-no-significant-group-performance-effect.md) — related
+- [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md) — related
+- [Problematizing scaffolds produced a medium significant positive effect on group performance compared to structuring scaffolds](problematizing-scaffolds-better-group-performance.md) — related

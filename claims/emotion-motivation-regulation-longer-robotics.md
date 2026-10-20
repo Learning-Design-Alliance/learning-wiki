@@ -45,3 +45,4 @@ Mann–Whitney U test on duration of video-coded emotion–motivation regulation
 ## Related Claims
 
 - [Emotion–motivation regulation is the code most often connected to other codes in both tasks, linking to negotiation in SimSketch but to share/compare in Simua](emotion-motivation-regulation-central-both-tasks.md)
+- [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](cognitive-regulation-more-in-physics-task.md) — related

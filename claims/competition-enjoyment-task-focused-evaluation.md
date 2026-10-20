@@ -51,3 +51,6 @@ Participant-observer finding from the case study; students enjoyed gauging their
 - [Most surveyed participants reported they had not enjoyed mathematics classes in the past](past-math-class-enjoyment-negative.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
 - [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Math circle participants reported positive mathematics attitudes, with most respondents indicating mathematics was important, interesting, liked, and that they felt confident solving problems](math-circle-positive-attitude-survey.md) — related
+- [During the course, curiosity, enjoyment, confusion and anxiety decreased over time, boredom increased, and surprise and frustration remained stationary.](time-trends-epistemic-emotions-decline-course.md) — reports the opposite
+- [Attending a game session rather than a lecture increased all epistemic emotions except boredom among university students in a Diplomacy-based international relations course.](game-sessions-increase-epistemic-emotions-except-boredom.md) — related

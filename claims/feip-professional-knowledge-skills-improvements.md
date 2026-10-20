@@ -46,3 +46,5 @@ The key findings section lists professional-level outcomes among the improvement
 - [FEIP implementation was associated with improvements in parents' knowledge and attitudes about family engagement and their uptake of family engagement supports](feip-parent-knowledge-attitudes-uptake-improvements.md) — related
 - [FEIP was associated with improvements in interagency collaboration and organizational capacity to support family engagement](feip-interagency-collaboration-capacity-improvements.md) — related
 - [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
+- [Formal partnerships enhanced interagency collaboration but required time to form, service benchmarks, and regular communication](promise-formal-partnerships-enhance-collaboration-with-conditions.md) — related
+- [Commissioned evaluations found 21CSLA offerings influenced participants' knowledge, skills, and practices related to evidence-based practices, continuous improvement, and equity](21csla-evaluations-influenced-knowledge-practices.md) — related

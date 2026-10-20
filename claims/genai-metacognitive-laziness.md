@@ -59,3 +59,12 @@ The report attributes to cited research (Fan et al., 2024; Gerlich, 2025; Kosmyn
 - [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — reports the opposite
 - Novice programmers' GenAI use produces a widening gap in outcomes by metacognitive skill (attributed to Prather et al.) — related
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
+- [AI literacy instruction widened a confidence-knowledge gap: students' perceived understanding of AI tools increased significantly after instruction while actual knowledge improved minimally](ai-literacy-confidence-knowledge-gap.md) — related
+- [Explicit metacognition has severely limited access to underlying cognitive processes, and metacognitive reports can be inaccurate](explicit-metacognition-limited-access-inaccurate-reports.md) — related
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [The current GenAI discourse promises efficiencies while automation of pedagogical design risks devaluing the educational process and undermining educator expertise](genai-efficiency-discourse-risks-devaluing-pedagogical-design.md) — related
+- [Cognitive ability is expected to moderate exploration effects: enhancing metacognition for high-ability trainees but inhibiting it for low-ability trainees](cognitive-ability-moderates-exploration-metacognition.md) — related
+- [An efficiency paradox: well-intentioned students default to passive GenAI processes and experience cognitive laziness and overreliance](genai-efficiency-paradox-passive-processes.md) — a broader claim this one bears on
+- [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related

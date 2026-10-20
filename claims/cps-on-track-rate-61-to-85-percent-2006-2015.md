@@ -49,3 +49,5 @@ Descriptive trend reported in the Executive Summary and Introduction, illustrate
 - [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — related
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — related
 - CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- [Schools vary widely in freshman on-track rates even among students with similar backgrounds](school-differences-in-on-track-rates.md) — related
+- [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](chicago-2006-2017-attainment-indicator-gains.md) — related

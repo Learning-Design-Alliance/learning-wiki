@@ -44,3 +44,4 @@ The report's abstract states that beyond the main impact estimates, "the report 
 
 ## Related Claims
 - [This report provides the first estimates of Upward Bound's effects on postsecondary completion and updates earlier estimates for enrollment and financial aid](upward-bound-first-postsecondary-completion-estimates.md) — related
+- [Regular Upward Bound shows no detectable effects on postsecondary enrollment, financial aid application or receipt, or bachelor's or associate's degree completion](upward-bound-no-detectable-degree-enrollment-aid-effects.md) — related

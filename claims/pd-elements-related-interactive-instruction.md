@@ -52,3 +52,4 @@ Cross-sectional analysis of the 1997 and 1999 citywide teacher surveys (13,000 t
 - [Higher quality professional development in 1997 predicts increases in school orientation toward innovation from 1997 to 1999](pd-quality-predicts-innovation-growth.md) — related
 - [Teachers with more professional preparation use interactive instruction more often](teacher-preparation-associated-interactive-instruction.md) — related
 - [Teachers who need the strongest support receive less high-quality professional development: high school, beginning elementary, and large-school teachers](underserved-teachers-less-quality-pd.md) — related
+- [Interactive instruction declines and didactic instruction increases across elementary grade levels](interactive-declines-didactic-increases-across-grades.md) — related

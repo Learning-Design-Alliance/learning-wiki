@@ -45,3 +45,5 @@ Analysis of Higher Education Act Title II data (2005–2014) reported that "teac
 ## Related Claims
 - [Teacher preparation enrollments in California declined more than 75% between 2001–02 and 2013–14](california-preparation-enrollment-decline-75-percent.md) — a narrower finding that bears on this claim
 - [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
+- [Almost all states adopted new educator evaluation laws or regulations between 2009 and 2014, and 60 percent of districts reported full or partial implementation in 2013-14](state-educator-evaluation-laws-district-implementation.md) — related
+- [Alternative certification enrollment growth in Texas did not increase teacher supply because completion rates were low](alternative-certification-low-completion-supply.md) — related

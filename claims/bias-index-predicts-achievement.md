@@ -43,4 +43,5 @@ Multiple linear regressions (gender and age included as covariates) on the Grade
 
 
 ## Related Claims
--
+- [Better calibration (lower Absolute Accuracy Index) is associated with higher Word Reading and Composite achievement scores](absolute-accuracy-index-predicts-reading-composite.md) — related
+- [Confidence on the WMPT predicts numeracy but not reading or spelling](confidence-predicts-numeracy-only.md) — related

@@ -49,3 +49,6 @@ Observational analysis of Chicago and Florida data estimating effects of charter
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
 - [Charter high schools in Florida and Chicago showed substantial positive effects on both high school completion and college attendance](charter-schools-positive-attainment-effects.md) — a broader claim this one bears on
 - Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
+- [Charter middle school students who attend a charter high school are 8 to 10 percentage points more likely to attend college than those who transition to a traditional public high school](charter-high-school-college-attendance-gain.md) — related
+- [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
+- [Charter high school attendees experience higher earnings in their mid-20s](charter-high-schools-higher-mid-twenties-earnings.md) — related

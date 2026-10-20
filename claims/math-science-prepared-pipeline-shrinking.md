@@ -47,3 +47,7 @@ Analysis of CTC authorization data (Figure 8) shows preliminary math and science
 - [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related
 - [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
 - [Half of all new California teaching credentials issued in 2023 went to teachers on substandard credentials](half-2023-ca-credentials-substandard.md) — related
+- [California issued more than 13,000 intern credentials, permits, and waivers in 2017–18, nearly triple the 2012–13 number](california-substandard-credentials-tripled-2012-2018.md) — related
+- [New California credentials stagnated at about 11,500 per year while estimated annual hires exceeded 20,000, so demand far outpaced supply](credential-supply-lags-demand-california.md) — related
+- [TRGP-funded residents represent a small fraction of California's teacher supply: 428 residents enrolled in 2022-23 against 14,298 substandard credentials issued](trgp-small-fraction-of-statewide-teacher-supply.md) — related
+- [Most new special education teachers in 2015–16 entered on substandard authorizations, outnumbering fully prepared entrants 2:1](special-education-underprepared-majority-new-teachers.md) — related

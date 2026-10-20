@@ -49,3 +49,5 @@ SEM analysis in the same sample of 93 fourth graders showed the automaticity–o
 - [Automaticity of handwriting is associated with both stroke frequency and stroke pressure](automaticity-associated-with-stroke-frequency-and-pressure.md) — related
 - [Automaticity of handwriting predicts handwriting speed in fourth-grade children](automaticity-predicts-handwriting-speed.md) — related
 - [Visual-motor integration is a predictor of orthographic skills in children](visual-motor-integration-predicts-orthographic-skills.md) — related
+- [Fine motor precision and manual dexterity are positively correlated with handwriting legibility in preschool children, and Functional Dexterity Test time is inversely correlated](fine-motor-skills-correlate-handwriting-legibility-preschool.md) — related
+- [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related

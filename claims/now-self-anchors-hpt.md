@@ -47,3 +47,5 @@ Analysis of self-perspective switches traced in Figure 1 for Salem Document A an
 - [Imagining (imagined past self) may give learners a greater feeling of entry into a historical situation than hypothesizing](imagined-past-self-greater-entry.md)
 - [HPT is not a simple shedding of presentist perspectives: multiple selves of one learner intertwine with the target's perspective](hpt-multiple-selves-intertwined.md)
 - [Shifts among self perspectives are locatable moments of learning in which the self develops and expands](self-perspective-shifts-as-learning.md)
+- [Anchoring-and-adjustment explains the underconfidence-with-practice effect, with JOLs anchored between 30 and 50% correct recall](anchoring-explains-underconfidence-with-practice.md) — related
+- [All four participants used all four self perspectives, with rapid shifts among them during HPT](all-four-participants-used-all-four-self-perspectives.md) — related

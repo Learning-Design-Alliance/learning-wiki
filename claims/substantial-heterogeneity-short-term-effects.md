@@ -46,3 +46,6 @@ Heterogeneity assessment across the pooled short-term effect sizes in the review
 - [Small group instruction is associated with significantly larger effect sizes than CAI and incentive components in targeted secondary interventions](small-group-instruction-outperforms-cai-incentives.md) — related
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [Effects of adolescent word-reading interventions are substantially heterogeneous between studies](substantial-heterogeneity-adolescent-word-reading-effects.md) — related
+- [Targeted school-based interventions have positive short-term effects on standardised reading and mathematics tests for K-6 students with or at risk of academic difficulties](targeted-k6-interventions-positive-short-term-effects.md) — a broader claim this one bears on
+- [Effects of AI literacy interventions vary considerably across contexts, with most variance between studies (71.361%) and a wide prediction interval](ai-literacy-intervention-effects-highly-heterogeneous.md) — related
+- [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related

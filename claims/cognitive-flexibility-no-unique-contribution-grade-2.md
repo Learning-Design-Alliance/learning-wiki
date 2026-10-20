@@ -62,4 +62,6 @@ Two-step hierarchical regression with 243 second graders predicting mathematics 
 
 
 ## Related Claims
--
+- [Cognitive flexibility uniquely predicts literacy achievement in Grades 4 and 6, above and beyond fluid intelligence, attention, inhibitory control, working memory, and planning](cognitive-flexibility-unique-predictor-literacy-grades-4-6.md) — related
+- [The set of executive-function and intelligence predictors of academic achievement differs across Grades 2, 4, and 6, with EF contributions appearing cumulative as students get older](ef-predictors-of-achievement-differ-across-grades.md) — a broader claim this one bears on
+- [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — related

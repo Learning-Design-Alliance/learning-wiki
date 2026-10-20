@@ -45,3 +45,4 @@ Statistical significance testing (§5.4, Table 10) reports ICS p = 0.0032 with "
 ## Related Claims
 - [ProfileRL outperforms prompting and fine-tuning baselines on turn-level student simulation, with statistically significant gains on Acts, Correctness, and Errors](profilerl-outperforms-student-simulation-baselines.md) — related
 - [Federated improvements over the single-LLM baseline are statistically significant across all three datasets, with Cohen's d from 0.62 to 0.89](statistical-significance-federated-diagnosis-gains.md) — related
+- [A within-subjects pilot with 27 professional software engineers found statistically significant self-reported self-efficacy gains across all 10 assessed skill areas after completing the cc-self-train curriculum](cc-self-train-pilot-self-efficacy-gains.md) — related

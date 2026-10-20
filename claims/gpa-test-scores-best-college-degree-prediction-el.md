@@ -70,3 +70,4 @@ A footnote to the degree-prediction finding cautions that the test-score relatio
 - [Contextualized high school GPA had a stronger relationship with college success than contextualized standardized test scores (Bastedo et al., attributed)](contextualized-gpa-stronger-than-contextualized-test-scores.md) — related
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
 - [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — reports the opposite
+- [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](college-readiness-as-student-college-interaction.md) — related

@@ -48,3 +48,5 @@ The article states as a general pattern across cited studies that "reaction time
 - [Reaction times and accuracy in n-back tasks have dissociable correlates and should not be interpreted interchangeably](nback-rt-accuracy-dissociable.md) — related
 - [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — possibly the same claim (merge candidate)
 - [Accuracy and the proportion of high bets decrease with increasing discrimination difficulty in both domains](difficulty-reduces-accuracy-and-high-bets.md) — a narrower finding that bears on this claim
+- [N-back response time increases and accuracy decreases with cognitive load, and Posner cue conditions differ in speed and accuracy trade-offs](cognitive-load-dose-response-nback-posner.md) — possibly the same claim (merge candidate)
+- [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md) — related

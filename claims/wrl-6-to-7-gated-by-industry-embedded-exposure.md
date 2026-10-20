@@ -46,3 +46,6 @@ Observation from the RSG continuation case, where three Fall 2025 students reach
 - [CTE participation produces positive effects on completion, postsecondary transition, and earnings mainly when students complete three or more focused CTE courses, with effects strongest in technical fields](cte-three-plus-courses-focused-study-effects.md) — related
 - [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](tech-program-accomplishments-gains.md) — related
 - [The WRL rubric transferred unchanged across four industry sectors, with research- and industry-mentored capstones yielding broadly comparable pillar profiles](wrl-rubric-transferred-across-sectors.md) — related
+- [P2 pillar means rose from 1.3 to 2.7 between two successive unmatched teams on the same sponsor problem](case3-p2-pillar-mean-rose-between-cohorts.md) — related
+- [Cohort workforce-readiness index ranged from 5.2 to 6.4 across the four highlighted cases](wri-range-5-2-to-6-4-highlighted-cohorts.md) — related
+- [The no-thin-pillar rule was diagnostically informative in three of four cases and the binding constraint in one](no-thin-pillar-rule-diagnostic-four-cases.md) — related

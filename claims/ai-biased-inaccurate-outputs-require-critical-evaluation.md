@@ -48,3 +48,8 @@ Conceptual argument citing fairness and AI-literature (e.g., Barocas et al., 202
 - Generative AI systems carry strong potential for introduced and inherited bias — related
 - [LLMs expressed unjustified confidence in recommendations based on visual inputs, asserting incorrect pin-connection diagnoses with high stated certainty](llm-unjustified-confidence-visual-recommendations.md) — a narrower finding that bears on this claim
 - Practitioners hold near-universal commitments to human oversight and critical evaluation of AI outputs — possibly the same claim (merge candidate)
+- [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on
+- [Scholars raise three main concerns about AI chatbots in education: reliability and accuracy, fair assessment, and ethical issues](chatbot-concerns-reliability-assessment-ethics.md) — a broader claim this one bears on
+- [GenAI feedback limitations require students to exercise evaluative judgement](genai-limitations-require-evaluative-judgement.md) — a broader claim this one bears on
+- [ChatGPT-generated text shows inaccuracy, weak logical flow, lack of critical elaboration and non-originality in an author's first-hand test](chatgpt-output-inaccuracy-nonoriginality.md) — related
+- [Gen-AI hallucinates sources and values and produces convincing but incorrect explanations, risking student misinformation](genai-hallucination-convincing-incorrect-explanations.md) — related

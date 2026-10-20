@@ -44,3 +44,5 @@ Feedback survey results collected as part of a five-year evaluation of R15CC tec
 
 ## Related Claims
 - [Educators reported large increases in comfort leveraging their knowledge of the topics to share with peer educators](edcamp-dfl-comfort-sharing-with-peers.md) — related
+- [Participants reported increased familiarity with each Designing for Learning topic after attending the Edcamp sessions](edcamp-dfl-increased-topic-familiarity.md) — related
+- [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related

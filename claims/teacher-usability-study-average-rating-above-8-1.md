@@ -45,3 +45,5 @@ Teacher usability study in which 12 U.S. STEM teachers (6 male, 6 female) each c
 ## Related Claims
 - [Independent expert teachers accepted 86% of generated STEM learning interactives, rating most as good or excellent, with biology simulations weakest on aesthetics and UX](expert-rating-40-requests-86-percent-acceptance.md) — related
 - [Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds](generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) — related
+- [Teachers rate LearnLens positively across usability, relevance, and accuracy, with all nine Likert items averaging at least 4.1/5](learnlens-teacher-satisfaction-4-1-of-5.md) — related
+- [Learner acceptance of AI simulations is generally high, with System Usability Scale scores of 61.6 to 78.56 and 72%-93% willingness to recommend](ai-simulation-high-learner-acceptance.md) — related

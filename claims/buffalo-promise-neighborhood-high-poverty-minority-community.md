@@ -47,3 +47,5 @@ Descriptive site profile prepared for the Promise Neighborhoods Institute at Pol
 - [The NAZ Zone was selected because it encompasses the area's highest concentration of negative poverty, violence, and low-education indicators](naz-selected-for-highest-concentration-negative-indicators.md) — related
 - [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related
 - [Black students and students with disabilities are suspended at disproportionately high rates, and high-poverty schools are more likely to have a School Resource Officer](disproportionate-discipline-and-sro-placement.md) — related
+- [The Berea College Promise Neighborhood serves an area where 81 percent of students qualified for free or reduced-price school meals in 2010](berea-pn-high-poverty-student-population.md) — related
+- [The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages](berea-pn-economically-distressed-counties.md) — related

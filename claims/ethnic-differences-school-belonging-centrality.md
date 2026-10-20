@@ -49,3 +49,4 @@ One-way ANOVAs with ethnicity as the factor for school belonging, centrality, an
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](school-belonging-mediation-dominican-intrinsic-motivation.md) — related
 - [Ethnic-minority children report higher intrinsic motivation than European-American children despite higher stigma awareness](ethnic-minority-children-higher-intrinsic-motivation.md) — related
 - [Ethnic-minority elementary-age children report higher awareness of ethnicity-based stigma than European-American children](ethnic-minority-children-higher-stigma-awareness-middle-childhood.md) — related
+- [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related

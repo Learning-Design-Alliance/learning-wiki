@@ -47,3 +47,6 @@ Planned contrasts on retrospectively assessed perceived learning control (Cronba
 ## Related Claims
 - [Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers](examples-after-instruction-beat-instruction-only-retention-transfer.md) — related
 - [Perceived learning control enhanced transfer via knowledge retention only for students in the non-generative conditions (provided examples, instruction only), not for example generators](mediation-control-retention-transfer-non-generative-only.md) — related
+- [Teacher students who generated their own examples after instruction achieved better retention and transfer than those given examples, with text-only performing worst](self-generated-examples-better-retention-transfer.md) — possibly the same claim (merge candidate)
+- [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related
+- [Generating own examples after instruction produced better retention and transfer than studying provided examples](self-generated-beat-provided-examples-retention-transfer.md) — related

@@ -42,14 +42,14 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does family income predict achievement and attainment, how large are the gaps, and when do they open?* This table gathers the studies behind this claim and the 19 narrower claims that bear on it: **21 distinct studies** (13 associational, 3 causal, 3 review, 2 design), `q1`–`q3`, 1 of 21 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does family income predict achievement and attainment, how large are the gaps, and when do they open?* This table gathers the studies behind this claim and the 18 narrower claims that bear on it: **21 distinct studies** (13 associational, 3 causal, 3 review, 2 design), `q1`–`q3`, 1 of 21 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | Elaine M. Allensworth and Andrew Zou 2020 | q2 · causal · r2 | i3 | this claim |
 | Ehrlich 2016 | q2 · design · r2 | i? | [Children from low-income families enter kindergarten one full standard deviation (15 stand](ecls-kindergarten-literacy-math-gap-one-sd.md) (supports) |
 | Roberto Agodini 2008 | q2 · design · r2 | i? | [Early socioeconomic math performance gaps grow over time, producing substantial difference](early-math-gaps-grow-by-fourth-grade.md) (supports) |
-| [Kuhfeld 2019](http://www.edworkingpapers.com/ai19-137) | q2 / q3 · associational · r2 | i? | [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrow](school-poverty-entry-gaps-narrowed-2010-2017.md) (qualifies); [Inequalities at kindergarten entry by school poverty level decreased between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) (qualifies) |
+| Kuhfeld 2019 | q2 · associational · r2 | i? | [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrow](school-poverty-entry-gaps-narrowed-2010-2017.md) (qualifies) |
 | Lemke 2023 | q2 · associational · r2 | i? | [Economically disadvantaged, English learner, special education, Black, and Hispanic studen](student-group-early-literacy-disparities.md) (supports) |
 | Mariann Lemke 2023 | q2 · associational · r2 | i? | [Risk identification varies by grade and student group: kindergarten and grade 3 students w](risk-varies-by-grade-and-student-group.md) (supports) |
 | Lemke 2025 | q2 · associational · r2 | i? | [Students from low income, English learner, special education, and several racial/ethnic gr](massachusetts-k3-risk-inequities-student-groups.md) (supports) |
@@ -64,9 +64,9 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 | Christine Ross 2015 | q2 · associational · r? | i? | [School median student growth percentiles correlate with student disadvantage](school-mgp-correlates-student-disadvantage.md) (supports) |
 | Michael Dahlin and Beth Tarasawa 2013 | q2 · associational · r2 | i? | [Growth rates varied tremendously between schools regardless of poverty, with top-quartile ](school-growth-variance-exceeds-poverty-effect.md) (qualifies) |
 | Barrow 2020 | q3 · associational · r3 | i? | [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in](low-ses-cs-enrollment-access-explained.md) (qualifies) |
-| Gabrieli, MIT McGovern Institute | q2 · associational · r? | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
-| Hart and Risley 1995 | q2 · associational · r? | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
-| [Darling-Hammond 2018](https://doi.org/10.54300/145.655) | q2 · review · r2 | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
+| Gabrieli, MIT McGovern Institute | q2 · associational · r? | i? | [The number of conversational turns is more closely associated with children's language ski](conversational-turns-predict-language-development.md) (qualifies) |
+| Hart and Risley 1995 | q2 · associational · r? | i? | [The number of conversational turns is more closely associated with children's language ski](conversational-turns-predict-language-development.md) (qualifies) |
+| [Darling-Hammond 2018](https://doi.org/10.54300/145.655) | q2 · review · r2 | i? | [The number of conversational turns is more closely associated with children's language ski](conversational-turns-predict-language-development.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -80,3 +80,13 @@ Observational analysis of 2019 data for Illinois schools plotted in Figure 1, re
 - On the current path the U.S. will miss its 2020 graduation rate target by 310,000 students, most from low-income families — related
 - [The Berea College Promise Neighborhood serves counties with per capita income significantly lower than state and national averages](berea-pn-economically-distressed-counties.md) — related
 - [State-level percentage of uncertified teachers correlates negatively with NAEP state assessment performance (r from –.40 to –.63)](uncertified-rate-negative-naep-correlation.md) — related
+- [Four high-poverty case study schools sustained rising achievement for all subgroups for 5 to 10 years while pursuing personalization](four-equity-schools-rising-achievement-all-subgroups.md) — related
+- [Early socioeconomic math performance gaps grow over time, producing substantial differences by fourth grade](early-math-gaps-grow-by-fourth-grade.md) — related
+- [Schools with lower percentages of Proficient and Distinguished observation ratings tend to be higher-poverty schools](lower-rated-schools-tend-higher-poverty.md) — related
+- [The Berea College Promise Neighborhood serves an area where 81 percent of students qualified for free or reduced-price school meals in 2010](berea-pn-high-poverty-student-population.md) — a narrower finding that bears on this claim
+- [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md) — related
+- [Concentrated poverty in New Mexico is associated with lower grade-level proficiency and inequitable access to experienced teachers](nm-concentrated-poverty-lower-proficiency-teacher-inequity.md) — related
+- [Achievement gaps between high-poverty and low-poverty schools at kindergarten entry narrowed modestly but significantly between 2010 and 2017](school-poverty-entry-gaps-narrowed-2010-2017.md) — related
+- [Children from low-income families enter kindergarten one full standard deviation (15 standard score points) behind higher-income peers in literacy and mathematics (ECLS-K, attributed to Zill & West, 2001)](ecls-kindergarten-literacy-math-gap-one-sd.md) — related
+- [AP and IB programs in neighborhood high schools serve students with higher-than-average but below selective-enrollment achievement](ap-ib-fill-gap-for-mid-high-achievers.md) — related
+- [All middle and high schools in the Berea College Promise Neighborhood are persistently low-achieving](berea-pn-schools-persistently-low-achieving.md) — a narrower finding that bears on this claim

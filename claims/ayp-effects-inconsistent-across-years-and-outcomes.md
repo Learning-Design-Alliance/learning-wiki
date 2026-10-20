@@ -48,3 +48,6 @@ Across the exploratory regression discontinuity analyses in two states and three
 - [Evidence for persistence of threat-induced reading improvements is less consistent than for math](sanction-threat-reading-gains-persistence-inconsistent.md) — a narrower finding that bears on this claim
 - [Threat-induced math improvements from attending a threatened elementary school persist at least through the first one to two years of middle school](sanction-threat-math-gains-persist-middle-school.md) — related
 - [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — related
+- [High-stakes testing without investment did not improve achievement and narrowed instruction](high-stakes-testing-without-investment-failed.md) — related
+- [Sanction threats on low-performing schools can raise student test scores in the short run, but the role of gaming behavior versus genuine reform has been uncertain](sanction-threats-short-run-score-gains-gaming-uncertain.md) — related
+- [Individual RD impact estimates show substantial variation in bias, warranting caution when interpreting single RD estimates](rd-individual-estimates-substantial-bias-variation.md) — related

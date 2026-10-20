@@ -81,3 +81,8 @@ Manual error analysis found missed nuanced evidence mainly in long learning acti
 - [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — a broader claim this one bears on
 - [GenAI novices develop prompting strategies through trial and error, starting from zero-shot prompts and refining them after unsatisfactory outputs](novices-refine-prompts-trial-and-error.md) — related
 - [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md)
+- [Human experts and LLMs show qualitatively different error patterns in outcome prediction](expert-llm-error-patterns-differ.md) — related
+- [Switching from reference-based to contextual evaluation prompts improved GenAI grading accuracy](contextual-evaluation-prompt-improvement.md) — related
+- [Manual error analysis finds incomplete retrieval is the most frequent failure category, ahead of code-semantics limits, bilingual retrieval gaps, and over-conservative refusals](eduguard-failure-analysis-incomplete-retrieval.md) — related
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
+- [LLMs in educational applications hallucinate in 15–25% of responses and can amplify bias against non-native language inputs](llm-hallucination-rate-education.md) — related

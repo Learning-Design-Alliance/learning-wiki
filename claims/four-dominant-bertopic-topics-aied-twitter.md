@@ -52,3 +52,13 @@ BERTopic analysis of the tweet corpus after c-TF-IDF outlier reassignment (outli
 - [University AI policy themes fall into three main categories: usage and education, technology and tools, and governance and potential risks](university-ai-policy-three-theme-categories.md) — related
 - [LDA topic modeling of HI/HIM AI policy documents identifies four dominant themes: academic integrity, generative AI use, AI in research, and ChatGPT engagement](lda-four-themes-hi-him-ai-policies.md) — related
 - [LDA topic modeling of 242 LDT syntheses reveals eight thematic areas, with computational tools most prevalent (21.7%) and generative AI integration emerging (8.2%)](lda-eight-thematic-areas-ldt-syntheses.md)
+- [AI/ML fundamentals, agentic development, prompting, and testing are the most commonly documented topics in AI-assisted software engineering courses](ai-se-topics-fundamentals-agentic-prompting-testing.md) — related
+- [Public sentiment toward AI in education on Twitter was predominantly positive (81.65% of tweets) across 2019–2024](twitter-aied-discourse-predominantly-positive-sentiment.md) — related
+- [Educator open-ended responses yield four themes: ChatGPT dominance, need for methodological guidance, ethical concerns, and infrastructure barriers](educator-ai-barriers-four-themes.md) — related
+- [The most reported risks of AI tools in science and chemistry education are ethical issues, including gender and racial bias, hallucinations, copyright infringement, and plagiarism](ethical-issues-most-reported-ai-risk.md) — related
+- [Equitable-access and digital-inclusion themes are minimally represented in HI/HIM AI policies](equitable-access-themes-limited-ai-policies.md) — related
+- [Topic modeling of open-ended responses revealed five themes centered on ChatGPT's simplicity, speed, and role as a support tool](lda-five-themes-chatgpt-perceptions.md) — related
+- [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related
+- [GenAI guidelines at top U.S. universities cluster into four topics: learning and assessment integration, visual/multimodal media, security and ethics, and academic integrity](four-topics-genai-guidelines-heis.md) — related
+- [GenAI education discourse on Reddit spans 17 themes across 5 clusters, with Academic Integrity the largest at 37.1% of records](genai-education-reddit-17-theme-taxonomy.md) — related
+- [Impression narratives rely on weakly diagnostic suspicion heuristics such as response speed, fluency, and perceived scriptedness](suspicion-heuristics-weakly-diagnostic.md) — related

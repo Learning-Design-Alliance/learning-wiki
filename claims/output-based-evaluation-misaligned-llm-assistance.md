@@ -50,3 +50,5 @@ Theoretical argument in the implications section: the article argues that "outco
 - [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](generative-ai-weakens-artifact-evidentiary-relation.md) — a narrower finding that bears on this claim
 - [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
+- [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [Retrofitting an AIAS level to an unchanged assessment task creates a validity risk in which the assessment measures use of the scale rather than intended learning outcomes](aias-retrofit-validity-risk-compliance-layer.md) — a narrower finding that bears on this claim

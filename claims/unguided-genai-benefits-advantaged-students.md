@@ -49,3 +49,4 @@ Authors' interpretive argument (type e) in the discussion, not a tested result: 
 - [Without explicit scaffolding, the two lower-agency paths (Passive Review and Direct Question) accounted for 64% of student-AI interactions in the primary sample](paths-1-2-default-64-percent.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — related
+- [Students attributed initial passive reliance on GenAI to prompting paralysis and an authority bias compounded by low academic self-efficacy](prompting-paralysis-and-authority-bias.md) — related

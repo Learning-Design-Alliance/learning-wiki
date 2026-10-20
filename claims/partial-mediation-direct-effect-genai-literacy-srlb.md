@@ -51,3 +51,4 @@ In the same bootstrap mediation model, the direct path from GenAI literacy to SR
 - [GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates](genai-literacy-positive-srlb-special-education-undergraduates.md) — possibly the same claim (merge candidate)
 - [Learning agency mediates the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](learning-agency-mediation-genai-literacy-srlb.md) — related
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
+- [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related

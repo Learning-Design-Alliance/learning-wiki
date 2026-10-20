@@ -48,3 +48,9 @@ Think-aloud expert-novice comparison (eight experts, eight novices) reading two 
 ## Related Claims
 - [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](expert-poetry-interpretive-strategies.md) — related
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](novices-internalized-poetry-discourse-conventions.md) — related
+- [Experts expressed greater appreciation of the poems and their specific images, while novices very frequently expressed interpretive frustration and dissatisfaction.](poetry-comprehension-supports-appreciation.md) — related
+- [Experts have reduced access to memory traces of their own cognitive processes due to automatization, and large domain knowledge can disadvantage performance on certain tasks](expert-automaticity-reduces-access-to-processes.md) — related
+- [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
+- [Experts spent much longer on each poem and produced longer protocols than novices, because for experts finding a meaningful pattern was only the starting point for higher-level analysis.](poetry-experts-longer-protocols-than-novices.md) — related
+- [Attending to a poem's title as a structural cue was evident in novice but not expert protocols, and the title jolted a novice into revising a misinterpretation.](title-as-cue-novice-poetry-reading.md) — related
+- [When experts cannot make clear sense of a passage, they shift from constructing what the poem says to how the poet is saying it, treating obscurity as deliberate.](experts-shift-to-how-poem-means-when-obscure.md) — related

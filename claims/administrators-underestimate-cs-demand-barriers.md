@@ -47,3 +47,6 @@ The article attributes to a Google (2015) report the finding that administrators
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — a narrower finding that bears on this claim
 - [Black students are less likely than white students to attend schools offering computer science classes](black-students-less-likely-cs-classes-2016-report.md) — related
+- [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
+- [76.5% of students demand a shift toward hands-on practical computer activities over theoretical instruction](student-demand-hands-on-it-instruction.md) — related
+- [Nine out of ten U.S. parents want their children to learn coding at school](parents-support-coding-google-gallup-2015.md) — related

@@ -46,3 +46,4 @@ Dynamic survey section presenting respondents with conflicts between stated conc
 - [Most surveyed job-seeking CS students applied to at least one Big Tech company, with significant subgroup differences in application rates](big-tech-application-rates-subgroup-differences.md) — related
 - [Job-seeking CS students rank ethical concerns last among job considerations, below remuneration, location, work-life balance, and workplace culture](ethical-concerns-ranked-last-job-consideration.md) — related
 - [Moral disengagement is the most common justification category among job-seeking CS students rationalizing ethically concerning employment choices](moral-disengagement-most-common-justification.md) — related
+- [Respondents overestimate apathy in their field: for most ethical issues, students' own concern exceeds the concern they perceive among CS peers](field-apathy-overestimation-ethical-concerns.md) — related

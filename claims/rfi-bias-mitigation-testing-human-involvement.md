@@ -47,3 +47,4 @@ Qualitative thematic coding of mitigation strategies among respondents who flagg
 - Generative AI systems carry strong potential for introduced and inherited bias — related
 - [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
 - [Simulated Human-in-the-Loop workflow reduces required full human scoring of written productions by at least 50%](hitl-workflow-reduces-human-scoring-workload-50-percent.md) — related
+- [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related

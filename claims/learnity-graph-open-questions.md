@@ -46,3 +46,6 @@ The conclusion enumerates open questions the authors state remain unresolved, al
 - [Reviewed studies identify data privacy, algorithmic bias, unequal access, and epistemic trust as central ethical concerns in educational AI](ai-education-ethical-governance-concerns.md) — related
 - [Unclear policy, workload pressure, and lack of mechanisms to monitor student AI use undermined staff confidence and perceived fairness during AIAS implementation](aias-implementation-facilitating-conditions.md) — related
 - [Individual learnity graphs are unique, and their uniqueness becomes a source of innovation and creative problem solving](unique-graphs-source-of-innovation.md) — related
+- [ChatGPT feedback required doctoral students to validate the procedural accuracy of algorithm-generated outputs, with judgement shaped by prompt quality](chatgpt-feedback-requires-output-validation.md) — related
+- [Phase VI AI-enabled systems face six documented challenges: explainability, hallucination risk, prompt sensitivity, computational cost, validation complexity, and limited large-scale evidence](phase-vi-ai-systems-six-challenges.md) — related
+- [Educational factors supportive of adolescent creativity include balancing freedom with guidance, openness to student ideas, trust, and varied learning resources](educational-factors-support-adolescent-creativity.md) — related

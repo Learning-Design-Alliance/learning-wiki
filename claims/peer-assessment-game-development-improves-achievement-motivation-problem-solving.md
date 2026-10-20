@@ -48,3 +48,4 @@ An experiment in a science course at an elementary school compared an experiment
 
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — the general claim this finding bears on, with the studies behind it
 - [Peer assessment-based game development improves students' perceptions of the use of educational computer games](peer-assessment-game-development-improves-perceptions-of-educational-games.md) — related
+- [Students perceive peer assessment-based game development as fostering deep learning in in-depth thinking, creativity and motivation](peer-assessment-game-development-fosters-deep-learning-perceptions.md) — related

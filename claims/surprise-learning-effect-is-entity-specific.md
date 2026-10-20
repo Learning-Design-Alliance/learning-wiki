@@ -49,3 +49,5 @@ Experiments (Stahl & Feigenson, 2015; 2017) in which the taught object had not p
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](surprise-enhances-childrens-word-learning-museum.md) — related
 - [Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome](surprise-enhances-infant-object-sound-learning.md) — related
 - [Infants' exploratory behavior after a core knowledge violation is tailored to the type of violation seen](violation-specific-hypothesis-testing-exploration.md) — related
+- [Impossible but not improbable events boost children's word learning, with step-like rather than graded performance](impossible-not-improbable-events-boost-learning.md) — related
+- [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related

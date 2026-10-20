@@ -47,3 +47,4 @@ Regression analysis in the same 558-child sample comparing predicted versus obse
 - [No classification method was significantly superior for predicting mathematics achievement](no-method-superior-predicting-math-achievement.md) — related
 - [Person-oriented classification predicts later GPA significantly better than dimensional or categorical methods](person-oriented-classification-best-predicts-gpa.md) — related
 - [Person-oriented classification predicted days absent significantly better than categorical, with no method differences for days tardy](person-oriented-predicts-absence-better-than-categorical.md) — related
+- [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related

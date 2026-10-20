@@ -47,3 +47,8 @@ Descriptive comparison of high school enrollment for Success school graduates ag
 - Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - Analysis of Chicago Public Schools enrollment data determined whether students attend their neighborhood school, a magnet school, or another non-neighborhood school — related
+- [Charter high school students had better attendance and test scores than comparable non-charter students, controlling for incoming characteristics](cps-charter-better-attendance-test-scores.md) — related
+- [On study habits, grit, and promotion to tenth grade, charter students performed similarly to or slightly below comparable non-charter students, with the promotion gap possibly reflecting charters' higher promotion requirements](cps-charter-similar-or-lower-behaviors-promotion.md) — related
+- [Charter high schools with strong academic reputations and safety records attracted students with higher eighth-grade test scores, attendance, and grades relative to their feeder pools](charter-reputation-attracts-higher-achievers.md) — related
+- [Nearly all CHSRI schools graduated at least as many students as predicted given the students they served](chsri-school-level-graduation-at-or-above-predicted.md) — related
+- [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related

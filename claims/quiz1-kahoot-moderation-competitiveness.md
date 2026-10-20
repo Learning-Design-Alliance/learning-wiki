@@ -47,3 +47,4 @@ A moderation analysis with averaged early Kahoot scores predicting quiz 1 (trans
 - [Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points](no-competitiveness-difference-kahoot-performance.md) — related
 - [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](inconsistent-absolute-accuracy-competitiveness.md) — related
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](no-competitiveness-difference-monitoring-bias.md) — related
+- [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

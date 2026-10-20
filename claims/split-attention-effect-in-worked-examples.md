@@ -82,3 +82,6 @@ The review reports, citing Tarmizi and Sweller, that Experiments 4 and 5 with an
 - [Cognitive Load Reduction Improves Learning](cognitive-load-reduction-improves-learning.md) — a broader claim this one bears on
 - [For circle geometry problems, guidance in the form of subgoals or worked examples increased cognitive load during problem processing (Experiments 1-3)](guidance-subgoals-worked-examples-increase-cognitive-load-geometry.md) — related
 - [When guidance was presented in a unitary (integrated) format, worked examples were superior to conventional problems (Experiments 4 and 5)](unitary-format-worked-examples-superior-conventional-problems.md) — related
+- [Variability of practice interacts with problem format: high variability aids learning from worked examples but harms learning from conventional problems](variability-effect-format-interaction.md) — related
+- [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
+- [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related

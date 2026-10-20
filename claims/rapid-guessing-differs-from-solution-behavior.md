@@ -49,3 +49,7 @@ The brief's own description states its focus: "How does rapid-guessing differ fr
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - Rapid-guessing behavior on an adaptive achievement test is inconsistent with an absorbing state model of unmotivated test taking — related
 - [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related
+- [Rapid guessing can be identified from item-level response time, and its proper interpretation depends on contextual requirements](rapid-guessing-identification-and-context.md) — related
+- [Computer-based test advantages can be used to manage the effects of cheating as a construct-irrelevant factor](cbt-manages-cheating-construct-irrelevance.md) — related
+- [Computer-based tests provide unique advantages that can be used to control construct-irrelevant factors threatening test score validity](cbt-unique-advantages-control-construct-irrelevant-factors.md) — related
+- [Differing response styles create a construct-irrelevant source of bias that distorts fundamental inferences made from survey data](response-styles-construct-irrelevant-bias.md) — related

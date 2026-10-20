@@ -55,3 +55,6 @@ The review reports Sachdeva and Gilbert (2020), who argued that reward-sensitivi
 - [External reminders dramatically reduce forgetting of delayed intentions](external-reminders-reduce-forgetting.md) — related
 - [Higher-value intentions are more likely to be offloaded than lower-value ones](value-drives-offloading-selection.md) — related
 - [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — related
+- [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — related
+- [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — related
+- [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related

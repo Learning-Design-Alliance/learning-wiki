@@ -47,3 +47,7 @@ Comparison of the two detector prompts (likelihood percentage vs yes/no), each r
 - [LLM-generated programming code was reliably detected, but inserting beginner bugs had an inconsistent effect across the two programming questions](programming-detection-robust-bugs-inconsistent.md) — related
 - [Baseline LLM reflective responses were highly detectable, and persona and typo prompts progressively reduced separability from real student responses](reflection-prompt-reduces-detectability.md) — related
 - [Making trustworthiness metrics and visualizations explicit increased inter-rater reliability among learning engineers evaluating LLM responses](trustworthiness-metrics-visualizations-increase-expert-agreement.md) — related
+- [LLM-generated responses were substantially longer than authentic student submissions, suggesting response length as a signal the detector may exploit](llm-response-length-detection-cue.md) — related
+- [LLM self-detection performance is strongly task-dependent: reliable for programming tasks and longer reflective responses but poor for short-answer questions](llm-self-detection-task-dependent.md) — related
+- [Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — related
+- [The programming-process replay was the most prompt-intensive view to develop, requiring 31 prompts to work reliably and handle edge cases](replay-most-prompt-intensive-view-31-prompts.md) — related

@@ -44,3 +44,5 @@ In the exploratory level-2 analysis, gender was included in the model but showed
 
 ## Related Claims
 - [A game-based assessment of persistence predicts physics post-test gains for low-performing players after controlling for background and enjoyment](gap-predicts-learning-gains-struggling-players.md) — related
+- [The GAP correlates with an independent performance-based persistence measure and with physics post-test scores, supporting construct validity](gap-construct-validity-persistence-measures.md) — related
+- [Game mechanics difficulty positively predicts persistence in Physics Playground problems](gm-difficulty-positively-predicts-persistence.md) — related

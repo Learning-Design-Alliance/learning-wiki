@@ -48,3 +48,5 @@ Two-factor ANOVAs in post-cued conditions. Controls showed no set size effect (F
 - [Adults with dyslexia use pre-cues to enhance discrimination accuracy, with pre-cued performance exceeding both post-cued and uncued conditions](awd-pre-cue-signal-enhancement-benefit.md) — related
 - [AwD showed significant set size effects in uncued conditions alongside difficulty effects, unlike controls](awd-uncued-setsize-difficulty-effects.md) — related
 - [The four-way interaction between cue, group, display type and difficulty was significant, with group differences largest for uncued crowded stimuli](four-way-cue-group-display-difficulty-interaction.md) — related
+- [AwD required significantly longer calibrated display durations than controls despite attempts to equate overall accuracy](awd-longer-display-durations.md) — related
+- [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related

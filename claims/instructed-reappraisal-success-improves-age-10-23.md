@@ -47,3 +47,4 @@ A lab-based study of 44 participants aged 10-23 viewing negative and neutral IAP
 - [Reappraisal ability shows linear and quadratic relationships with age, while self-reported emotional reactivity shows no age differences](reappraisal-ability-linear-quadratic-age-development.md) — possibly the same claim (merge candidate)
 - [Left ventrolateral prefrontal cortex activation shows linear age-related increases during reappraisal](left-vlpfc-linear-age-increase-reappraisal.md) — related
 - [Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation](social-cognitive-regions-quadratic-adolescent-pattern.md) — related
+- [Stronger executive function is concurrently associated with greater cognitive reappraisal and less expressive suppression in adolescents](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) — related

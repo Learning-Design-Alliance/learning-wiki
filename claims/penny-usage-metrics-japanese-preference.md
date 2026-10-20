@@ -45,3 +45,5 @@ Descriptive analysis of 4,651 writing sessions and 21,061 messages from 119 lear
 ## Related Claims
 - [Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially](chatbot-engagement-bimodal-continuous-versus-superficial-users.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
+- [Most unrestricted-mode interactions were direct answer retrieval: 52.9% of exercise interactions were copy-paste of the question, and participant answers were linguistically near-identical to chatbot text in 25.3% of cases](unrestricted-mode-answer-retrieval-copy-paste.md) — related

@@ -55,3 +55,6 @@ Propensity scores were estimated by logistic regression on gender, race/ethnicit
 - Matched treatment and comparison grade-level clusters were balanced on observable baseline characteristics, with differences below a quarter of a standard deviation — related
 - Learning-loss estimates are robust to placebo tests, propensity-score and maximum-entropy reweighting, and school and family fixed effects — related
 - Conventional regression models cannot consistently estimate effects of time-varying treatments when time-varying confounders are affected by past treatment — related
+- [Across the full sample, students receiving the ASSISTments intervention performed comparably to their virtual comparison peers on end-of-year MAP Growth](assistments-full-sample-no-significant-effect.md) — related
+- [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
+- [Before intervention, treatment and control kindergartners did not differ on age, demographics, vocabulary, phoneme segmentation, letter knowledge, or reading](pretest-equivalence-phoneme-awareness-kindergarten-trial.md) — related

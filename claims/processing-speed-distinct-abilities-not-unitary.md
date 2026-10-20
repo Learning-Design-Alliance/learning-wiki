@@ -48,3 +48,4 @@ Structural equation modeling compared three nested theory-driven models (distinc
 - [Successive processing measures show the fewest significant correlations with other speeded measures, particularly in Chinese and Greek groups](successive-processing-measures-least-correlated.md) — related
 - [The increased efficiency effect threatens the validity of response-time models that presume item response time is influenced only by item time intensity, ability, and working speed](increased-efficiency-threatens-response-time-model-validity.md) — related
 - [Imagery and perceptual illusions each comprise multiple factors rather than the single CHC factors](multiple-imagery-and-illusion-factors.md) — related
+- [The dual cognitive pathway model is structurally invariant across China, Europe, and the United States, with region-specific intensities](cross-cultural-invariance-dual-pathway-model.md) — related

@@ -49,3 +49,5 @@ This is the authors' stated motivation, offered without supporting data on this 
 - [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — a narrower finding that bears on this claim
 - [Remote proctoring supported assessment continuity and uninterrupted student progression during institutional closures](remote-proctoring-supported-continuity-closures.md) — a narrower finding that bears on this claim
+- [New York charter schools kept students connected during closure through community events, multi-channel communication, and existing structures, with about two-thirds taking above-and-beyond steps for inactive students](maintaining-student-connection-strategies-closure.md) — related
+- [Planning start time was unrelated to how quickly schools began remote instruction; schools averaged 3 school days between building closure and the start of instruction](planning-timing-no-link-to-instruction-start.md) — related

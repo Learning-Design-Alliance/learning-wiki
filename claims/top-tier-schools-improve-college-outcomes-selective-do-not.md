@@ -46,3 +46,5 @@ IPW analysis of National Student Clearinghouse records for two CPS cohorts, unco
 - [Escaping a bottom-tier school raises four-year graduation rates, by 10 percentage points for top-tier schools and 3 for mid-tier schools](escaping-bottom-tier-schools-raises-graduation-rates.md) — related
 - [Attending a top-tier nonselective high school raises ACT scores, with the largest gains for students whose counterfactual is a bottom-tier school](top-tier-nonselective-schools-raise-act-scores.md) — related
 - [Bottom Line increases enrollment in a four-year college among low-income high school students](bottom-line-increases-four-year-college-enrollment.md) — related
+- [Attending a selective exam-entry high school yields no significant academic benefits and lowers 11th-grade GPA relative to observationally similar peers elsewhere](selective-schools-no-academic-benefit-lower-gpa.md) — related
+- [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related

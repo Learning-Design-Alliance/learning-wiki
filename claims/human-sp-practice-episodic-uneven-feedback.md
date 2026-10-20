@@ -45,3 +45,5 @@ Formative interview finding: a participant reported that SP access was mostly ti
 ## Related Claims
 - [A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice](formative-study-four-design-themes-ai-sp.md) — related
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — related
+- [In an evaluative study, medical learners interpreted MedEasy as a connected consultation environment and used its components together to judge case coherence](learners-interpret-medeasy-connected-environment.md) — related
+- [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related

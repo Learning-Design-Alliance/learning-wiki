@@ -53,3 +53,4 @@ The review reports this quasi-experimental study (initial enrollment 187; three 
 - [No significant difference between virtual simulation and authentic video on the basic observation dimension of assignments](vs-av-no-difference-observation-dimension.md) — related
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
 - [Higher levels of technology support during simulation are associated with greater effects on learning outcomes](technology-support-associated-with-greater-effects.md) — related
+- [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — related

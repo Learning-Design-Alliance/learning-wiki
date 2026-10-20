@@ -47,3 +47,4 @@ Same MANOVA testing study entry cohort independent of the age effect. No signifi
 - At age 3, executive task performance does not form a coherent latent EC factor independent of processing speed — related
 - By age 5.25, executive tasks load significantly and consistently on a distinct EC latent factor — related
 - [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](perseverator-proportion-declines-preschool.md) — related
+- [Significant mixing and local costs are present at each preschool age, with both decreasing in magnitude from age 3;9 to 5;3](mixing-local-costs-present-decrease-with-age.md) — related

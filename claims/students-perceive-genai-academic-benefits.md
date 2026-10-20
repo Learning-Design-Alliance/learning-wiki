@@ -44,3 +44,7 @@ Interview findings from the qualitative study of 27 undergraduates report that a
 
 ## Related Claims
 - [GenAI can help students overcome contextual constraints when eliciting feedback](genai-overcomes-eliciting-constraints.md) — related
+- [Students perceived ChatGPT as a valuable learning tool for asking questions, getting explanations, and clarifying understanding](students-perceive-chatgpt-valuable-learning-tool.md) — possibly the same claim (merge candidate)
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
+- [GenAI/LLM language ability, democratization potential, and semantic-sensor functions can serve the emancipatory vision without ever-increasing model complexity](genai-properties-serve-flourishing-vision.md) — related

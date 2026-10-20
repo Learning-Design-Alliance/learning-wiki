@@ -84,3 +84,8 @@ The review reports, citing Frazier-Wood et al. (2012), Karalunas et al. (2014) a
 
 - [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
 - [ADHD is associated with poor academic outcomes, including lower grade point average, increased grade retention, and lower rates of high-school graduation and post-secondary education](adhd-poor-academic-outcomes-longitudinal.md)
+- [Clinically relevant attention problems in ADHD cause writing problems without impairing reading](adhd-attention-deficits-cause-writing-problems.md) — a narrower finding that bears on this claim
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
+- [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — a narrower finding that bears on this claim
+- [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
+- [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related

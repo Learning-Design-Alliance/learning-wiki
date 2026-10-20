@@ -45,3 +45,5 @@ Rubric-based scoring of the explanation (argument, presentation) criterion in Ta
 ## Related Claims
 - [Students' mathematical vocabulary use shifted from lower to higher rubric levels after the intervention](math-vocabulary-levels-improve-post-test.md) — related
 - In the learning study, class post-test scores increased 11 and 10 percent units in the first and last lessons but not in the middle class — related
+- [Students in the TEC Summer Learning Program showed a 41% pre-to-post gain in mathematics vocabulary](tec-summer-41-percent-math-vocabulary-gain.md) — related
+- [Thai undergraduates' business vocabulary test scores rose from pre-test to post-test after four weeks of out-of-class role-playing gamification with Mangomon, in a single-group study with no control group](mangomon-rpg-gamification-improves-business-vocabulary.md) — related

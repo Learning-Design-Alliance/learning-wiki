@@ -48,3 +48,5 @@ Definitional statement of the study's group taxonomy: the analysis treats "three
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [All three English Learner groups have lower mean math and reading achievement than the all-student average in kindergarten](el-groups-lower-kindergarten-achievement.md) — related
+- [Dually-identified students make smaller gains than the all-student average across all grades in math and in kindergarten and 1st grade in reading](dually-identified-smaller-gains.md) — related
+- [Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades](ever-current-el-gains-grade-pattern.md) — related

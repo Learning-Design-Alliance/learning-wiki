@@ -44,3 +44,5 @@ Mixed-methods study by Zhao and Chan of university students in Shanghai using Kn
 
 ## Related Claims
 - [This issue's Knowledge Forum study is reported to show a clear impact of meta-discourse on collaboration that widened over time](meta-discourse-impact-widened-over-time.md) — related
+- [Qualitative analysis identified three mediating processes in KBM: discourse-driven idea improvement, analytics-supported meta-reflection, and model construction for system refinement](kbm-three-mediating-processes.md) — related
+- [Agency, information, linking, and meta-discourse dimensions appeared infrequently in the dataset despite their theoretical importance](agency-information-linking-meta-discourse-infrequent.md) — related

@@ -43,4 +43,4 @@ Based on the authors' discussions and observations of students' outcomes in the 
 
 
 ## Related Claims
--
+- [Students used GenAI and XR in complementary roles: GenAI for ideation and visual reference generation, XR for spatial, contextual, and scale-based evaluation](genai-xr-complementary-roles-design.md) — related

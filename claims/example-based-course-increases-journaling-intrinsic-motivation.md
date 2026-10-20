@@ -50,3 +50,5 @@ Type-II ANOVA on IMI enjoyment scores among 157 active participants (those with 
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](journaling-assistant-no-intrinsic-motivation-effect.md) — related
 - [Interest/enjoyment and perceived choice were the weakest motivation dimensions, suggesting Mangomon's RPG mechanics did not yet fully serve learner autonomy](rpg-mechanics-not-yet-serve-autonomy.md) — related
 - [A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility](3b-first-evaluation-confirms-usability-requirements.md) — related
+- [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
+- [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related

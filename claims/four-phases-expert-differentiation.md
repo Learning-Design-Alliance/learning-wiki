@@ -45,3 +45,6 @@ Cognitive task analysis of nine expert teachers produced a skill hierarchy (Fig.
 ## Related Claims
 
 - [Novice teachers hold misconceptions about differentiation, such as equating DI with personalized instruction](novice-teacher-di-misconceptions.md)
+- [Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program](ten-steps-design-cost-time-intensive.md) — related
+- [Participants reported that AdaPT reduced perceived preparation workload and aligned with their natural lesson adaptation workflows](adapt-reduced-perceived-workload.md) — related
+- [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related

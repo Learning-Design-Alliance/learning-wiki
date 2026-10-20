@@ -47,3 +47,5 @@ Simulation analysis fitting both the RI-CCLPM-C and a time-reversed model to SIM
 - [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
 - [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
 - [The alternative models proposed by Sorjonen et al. relied on specifications that raised model-validity concerns or did not fully capture the extended REM's temporal structure](sorjonen-models-specification-validity-concerns.md) — related
+- [Temporal direction between PNT and LOU could not be identified: the reversed specification was observationally equivalent](pnt-lou-temporal-direction-not-identified.md) — related
+- [With young primary-school readers, REM support appeared in CLPMs but not RI-CLPMs, motivating tests with older students](ehm-reading-rem-clpm-not-ri-clpm.md) — related

@@ -85,3 +85,7 @@ The evidence recorded here is second-hand. Both entries are background statement
 - [Hyper-reference dictionary users consulted vocabulary twice as often as paper-dictionary users, though comprehension did not differ significantly](hyper-reference-consultation-frequency-no-comprehension-gain.md) — related
 - [A multiple-choice gloss format (L1 + L2) produced significantly higher vocabulary posttest scores than a single-gloss format in Nagata's Japanese study](multiple-choice-gloss-beats-single-gloss-nagata.md) — a narrower finding that bears on this claim
 - [In Yoshii's study, text + picture glosses beat text-only glosses only on a definition-supply test, with no L1 versus L2 gloss difference](yoshii-text-picture-definition-supply-only.md) — a narrower finding that bears on this claim
+- [In Chun and Plass's CyberBuch studies, the text + picture annotation group significantly outperformed text-definition and text + video groups on a vocabulary test](chun-plass-text-picture-outperformed-text-video.md) — related
+- [L1 glosses do not significantly improve EFL reading comprehension compared with no glosses](l1-glosses-no-reading-comprehension-gain.md) — related
+- [Captioning second-language videos produces large benefits for comprehension and vocabulary acquisition](captioning-second-language-videos-large-benefits.md) — related
+- [A second-order synthesis of 12 CALL meta-analyses yields a mean effect size of d=.64, a medium effect of CALL on learning](call-meta-analyses-mean-effect-d-064.md) — related

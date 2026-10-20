@@ -45,3 +45,6 @@ Block 2 of the anonymous post-term survey asked students to count grading errors
 ## Related Claims
 - [Instructor-confirmed grading errors occurred at roughly 0.02–0.04% of rubric line items across the term](lata-instructor-confirmed-error-rate.md) — related
 - [An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term](lata-onprem-autograder-throughput.md) — related
+- [Student perceptions of the autograder were mixed, with the LaTeX workflow rated more positively than the grader itself](mixed-student-perception-lata.md) — related
+- [GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives](gpt-models-more-rubric-errors-than-gemini.md) — related
+- [The TA ground truth was produced under a one-rater-per-item design with co-grading, an exceptions log, instructor audit, and student review, with an estimated grading-error rate of about 0.1% in the student-inspected subsample](ta-ground-truth-one-rater-per-item-error-rate.md) — related

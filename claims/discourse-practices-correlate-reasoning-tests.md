@@ -51,3 +51,4 @@ The primer's What Does the Research Say section reports, citing Tao & Chen (2024
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — related
+- [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related

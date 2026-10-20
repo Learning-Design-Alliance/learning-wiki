@@ -42,3 +42,6 @@ ANCOVA controlling for age and WASI score on the Expressive One Word Picture Voc
 
 ## Related Claims
 - [Non-native signers entering a signing school before age 6 had better ASL abilities than those entering later, but did not equal native signers](early-entry-non-native-better-asl.md) — related
+- [Deaf non-native signers scored lower than hearing children on executive-loaded non-verbal working memory tasks, while deaf native signers did not differ from hearing children](non-native-signers-poorer-executive-loaded-nvwm.md) — related
+- [Native signers of ASL show more proficient bilingual abilities than non-native signers](native-signers-higher-bilingual-abilities.md) — related
+- [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related

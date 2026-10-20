@@ -55,3 +55,4 @@ Longitudinal path analysis (Model 1a) in 146 children tested at start of grades 
 - [Math anxiety in Grade 2 shows an indirect effect on subsequent math performance in Grade 3](grade-2-math-anxiety-indirect-effect-grade-3-performance.md) — related
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](math-anxiety-performance-link-significant-grade-3.md) — reports the opposite
 - [The prevalent direction of the Grade 3 anxiety-performance link runs from math anxiety to performance, not the reverse](math-anxiety-to-performance-directionality.md) — reports the opposite
+- [Math anxiety arises and relates to math performance already in early primary school (Grades 2-3)](math-anxiety-arises-early-primary-school.md) — reports the opposite

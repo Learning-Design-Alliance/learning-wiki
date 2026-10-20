@@ -67,3 +67,6 @@ Both groups gain, so mastery gating does not trade the stronger students' learni
 - [In the few studies that split by ability, learning techniques helped low-ability students and not high-ability students](learning-techniques-benefit-low-ability-not-high-ability-students.md) — the general claim this finding bears on, with the studies behind it
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the same synthesis, overall effect
+- [Group-based mastery learning programs yield positive achievement effects in every included study, but effect sizes vary so widely that an average was deemed inappropriate](group-mastery-positive-achievement-all-studies.md) — related
+- [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related
+- [Female students show stronger academic self-confidence, more positive attitudes, higher achievement, and fewer absences, but this advantage diminishes almost completely under mastery learning](sex-advantage-diminishes-under-mastery-learning.md) — related

@@ -47,3 +47,4 @@ Omnibus multivariate ANOVA on 125 children's spans with factors exercise, age, g
 - [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — a narrower finding that bears on this claim
 - [A sedentary control condition (Italian grammar lesson) produces no improvement in children's short-term memory performance at either age.](sedentary-control-no-stm-improvement.md) — a narrower finding that bears on this claim
 - [Short-term memory task profiles differ by age: 7–8-year-olds show no verbal–spatial difference, while 9–10-year-olds show a verbal > visuo-spatial > motor gradient.](stm-task-profiles-differ-by-age.md) — related
+- [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related

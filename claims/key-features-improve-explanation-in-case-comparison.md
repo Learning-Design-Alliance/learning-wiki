@@ -45,3 +45,6 @@ MANCOVA in a randomized 2×2 experiment with 181 student teachers, controlling p
 ## Related Claims
 
 - [Case comparison shifts student teachers' beliefs about operant conditioning toward more positive, regardless of experimental condition](case-comparison-shifts-beliefs-operant-conditioning.md)
+- [Providing key features during case comparison reduces learning time](key-features-reduce-learning-time.md) — related
+- [Presenting principles before case comparison yields higher germane load and lower extraneous load than presenting them after](input-before-raises-germane-lowers-extraneous-load.md) — related
+- [Higher germane load and lower extraneous load mediate the effect of instructional guidance on conceptual knowledge](cognitive-load-mediates-guidance-effect.md) — related

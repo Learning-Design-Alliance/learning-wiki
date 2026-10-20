@@ -48,3 +48,4 @@ Between-student response curve for the E&M course (Fig. 4), with the ceiling-eff
 - [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — a broader claim this one bears on
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
 - [Students enter E&M with a higher initial Newton's Third Law response (66%) than they exited Mechanics, most likely due to a winnowing effect](winnowing-effect-raises-em-entry-response.md) — related
+- [A pronounced drop in performance occurs at week 8 after the first exam in an area of law, which is attributed to cyclic drops in motivation](week-8-performance-drop-motivation.md) — related

@@ -73,3 +73,5 @@ The brief reports, citing Mayer and Leone (1999), that "students are more likely
 - [Metal detector use in US schools has held steady or slightly decreased since the 1990s despite renewed calls after the Parkland shooting](school-metal-detector-use-steady-or-decreasing.md) — related
 - [Common physical and exclusionary safety measures can cause harm to the very students schools are trying to protect](safety-measures-cause-harm-black-brown-youth.md) — a broader claim this one bears on
 - Hardening strategies such as police in schools and metal detectors intervene too late in the pathway to violence to prevent attacks — related
+- [Security cameras show no evidence of improving school safety, and evidence does not support expanding metal detector use](security-cameras-and-metal-detectors-lack-safety-evidence.md) — related
+- [Students in schools with SBLE tended to feel safer, but this finding rests on very little data](sble-students-feel-safer-limited-data.md) — related

@@ -47,3 +47,4 @@ The review reports a series of experiments using a change-detection procedure wi
 - A unitary EC factor is preferred over separate working memory and inhibitory control factors at age 5.25 even after accounting for processing speed and language — related
 - [Children's ability to shield attention against distraction develops until the second decade of life alongside prefrontal cortex maturation](attention-control-develops-second-decade.md) — related
 - [Children's understanding of whole number advances by one developmental level per additional unit of working memory capacity](whole-number-ccs-one-level-per-wm-unit.md) — related
+- [Analytical degrees of freedom in the primary study (prior-knowledge filtering and control-variable selection) affected its results: removing prior knowledge as a control rendered the comprehension interaction nonsignificant](analytical-flexibility-primary-study-results.md) — reports the opposite

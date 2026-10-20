@@ -69,3 +69,4 @@ Confidence ratings on forced-report intrusions: prior lure exposure raised intru
 - [Feedback on a multiple-choice test sharply reduces lure intrusions on a later cued recall test, with immediate and delayed schedules equally effective](feedback-reduces-lure-intrusions.md) — related
 - [Feedback neutralizes the effect of prior study on final cued recall performance](feedback-neutralizes-prior-study-effects.md) — related
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](verbalizing-overconfidence-consistency-local-failures.md) — related
+- [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related

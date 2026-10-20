@@ -60,3 +60,6 @@ Reflexive thematic analysis of the same 11 teachers' written responses (Table 2 
 - [Teachers viewed ChatGPT as a source of inspiration rather than a generator of genuinely innovative lesson content](chatgpt-inspiration-not-innovation-lesson-planning.md) — related
 - [Early adopters report time savings from ChatGPT automation, including a Wharton professor's exam-writing productivity increase of 100%](chatgpt-automation-time-savings-educators.md) — related
 - [Most teacher-created lessons did not rely substantially on existing OER, with teachers preferring Google search over OER repositories](teachers-did-not-rely-substantially-on-oer.md) — related
+- [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related
+- [Teachers actively use AI tools but face challenges with content accuracy and usage guidelines](teachers-ai-tool-use-accuracy-concerns.md) — related
+- [For exam-oriented learners, trust in AI tutors hinges on curriculum fit: students abandon mathematically correct solutions that use out-of-syllabus methods](curriculum-fit-determines-trust-investment.md) — related

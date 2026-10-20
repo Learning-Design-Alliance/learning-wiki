@@ -51,3 +51,5 @@ Per-dimension consistency analysis from the pilot scoring session reported in th
 - [Rubric scoring supports answering diagnostic questions about opportunities for and evidence of historical thinking](rubric-scoring-diagnostic-questions.md) — related
 - [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](whp-comparable-other-five-skills.md) — related
 - [World History Project adoption increases learning opportunities for historical thinking in summative activities relative to business-as-usual curricula](whp-more-summative-historical-thinking-opportunities.md) — related
+- [Adapting the scoring mechanism substantially reduced ceiling effects found in the pilot study](skt-srl-scoring-reduced-ceiling-effects.md) — related
+- [Empirical progression research is uneven across historical thinking dimensions: most research covers causal reasoning and sourcing, while contextualization and comparison remain thin](uneven-progression-research-across-dimensions.md) — related

@@ -45,3 +45,7 @@ MANOVA of 104 children classified as nonresponsive (n = 34), sometimes responsiv
 ## Related Claims
 
 - [Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior](nonresponders-posthoc-pairwise-deficits.md)
+- [Nonresponsive students were in classrooms with lower-quality Ladders implementation and lower fall first-grade PALS fidelity](fidelity-associated-with-responsiveness.md) — related
+- [Naming speed, vocabulary, sentence imitation, problem behavior, and amount of intervention correctly classify most nonresponsive and always responsive students](discriminant-predictors-of-nonresponsiveness.md) — related
+- [Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade](nonresponsiveness-persistent-predicts-disability.md) — related
+- [Always responsive students showed large effect-size advantages over nonresponsive students, with the largest effect sizes ranging from 0.58 to 1.72](nonresponders-large-effect-size-deficits.md) — related

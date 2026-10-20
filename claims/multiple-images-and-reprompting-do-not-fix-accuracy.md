@@ -47,3 +47,4 @@ Section 5.3 analysis: 20 failed prompts with 4 extra images each (images remaine
 - [Fine-tuning on the 1,000-image nuclear dataset improves image fidelity of SD models, with KID and CMMD decreasing over training steps](fine-tuning-improves-sd-nuclear-image-fidelity.md) — related
 - [LoRA fine-tuning of Flux.1 failed to learn nuclear concepts, producing wrong-concept images on all 300 test prompts](lora-flux1-fine-tuning-fails-nuclear-concepts.md) — related
 - [The CLIP text-image alignment score failed to capture fine-tuning improvements, contradicting KID, CMMD, and human judgment](clip-score-fails-to-capture-fine-tuning-gains.md) — related
+- [Human qualitative assessment shows SDXL significantly outperforms SD-v3.5-Medium after fine-tuning, failing on 84 versus 250 of 300 prompts](sdxl-outperforms-sd35-medium-qualitatively.md) — related

@@ -45,3 +45,4 @@ The editorial reports Tang, Tsai and Lin's co-citation analysis of CSCL literatu
 
 ## Related Claims
 - [The editors identify sequentiality of CSCL discourse — how one action takes up a previous action in online interaction — as a central, under-theorized problem](sequentiality-central-problem-cscl-discourse.md) — related
+- [A worked network example shows diffusion-based centralities capturing uptake and argumentation more accurately than traditional centrality measures](worked-example-diffusion-captures-uptake.md) — related

@@ -49,3 +49,4 @@ School-level analysis of the 2004-05 cohort (15 CHSRI schools) comparing each sc
 - Most CPS charter high schools enrolled students with eighth-grade test scores similar to or lower than their neighborhood feeder pools but with higher eighth-grade attendance — related
 - [Graduation rates differ largely across Chicago schools, with many new charter and magnet schools and several neighborhood high schools showing exceptionally high rates beyond what incoming freshman characteristics would predict](cps-school-level-graduation-differences.md) — related
 - [Math Corps students had much higher graduation rates than Detroit Public Schools students overall](math-corps-higher-graduation-rates-than-detroit-public-schools.md) — related
+- [After two years, fewer graduates attended career academies and neighborhood high schools and more attended charter schools; these shifts were no different from comparison schools](success-project-high-school-enrollment-shifts.md) — related

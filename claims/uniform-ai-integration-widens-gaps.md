@@ -50,3 +50,4 @@ Theoretical argument coupling a cognitive mechanism to a social structure: the s
 - [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
 - [Students' critical examination of AI-generated outputs increased across learning cycles, though unevenly, with some participants continuing to seek confirmation from AI](critical-evaluation-of-ai-outputs-increased-unevenly.md) — related
 - [Engagement inferred from log data must be treated with caution because digital traces reflect unevenly distributed social and material conditions](log-data-engagement-inference-caution.md) — related
+- [Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation](design-factors-work-through-vigilance.md) — related

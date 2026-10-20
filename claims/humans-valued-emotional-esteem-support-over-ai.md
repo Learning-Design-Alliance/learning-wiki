@@ -46,3 +46,4 @@ Between-subjects experiment (N=228 Prolific participants) where participants rat
 - [Feeling understood by sycophantic AI grows with sustained use but yields no downstream benefits for feeling understood by humans or intellectual humility](ai-understanding-no-downstream-benefits.md) — related
 - [Sycophantic AI is rated higher than neutral AI on emotional support, esteem support, and certainty, but not informational support](sycophantic-ai-delivers-relational-support.md) — related
 - [For Grade 5 students the AI peer elicited more factual statements but far fewer Feelings utterances than the teacher, with no significant differences in Findings or Future](grade5-ai-facts-strong-feelings-weak.md) — related
+- [AI companions are frictionless and sycophantic, lacking the corrective feedback that real relationships provide](sycophantic-ai-companions-lack-corrective-feedback.md) — related

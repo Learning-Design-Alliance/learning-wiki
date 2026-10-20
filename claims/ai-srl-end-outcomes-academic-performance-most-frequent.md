@@ -49,3 +49,5 @@ The review's end-outcome categorization found "The most frequently reported outc
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - Over one-third of AI-SRL studies specify no SRL theory; Zimmerman's model is the most frequently applied — related
 - [Self-regulated learning is associated with increased academic achievement and improved learning outcomes for students](srl-associated-with-achievement.md) — related
+- [Adaptive learning systems report academic performance gains of 15–25% and engagement increases of up to 40%](adaptive-learning-gains-15-25-percent.md) — related
+- [A systematic review of AI in problem-based learning reports, as a dominant theme of its 50 studies, that AI tools support adaptive, personalized learning linked to better engagement and problem-solving](ai-pbl-adaptive-personalized-engagement.md) — related

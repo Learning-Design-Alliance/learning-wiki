@@ -45,3 +45,5 @@ Analysis of the Geometry96-97 dataset via LFA model discovery found a forward-vs
 ## Related Claims
 
 - [LFA-discovered cognitive models outperformed both original in-use and best hand-generated models in all eleven DataShop datasets](lfa-discovered-models-beat-hand-generated-eleven-datasets.md)
+- [The foresight bias has behavioral consequences: learners allocate similar study time to backward and forward pairs despite markedly lower recall for backward pairs](foresight-bias-distorts-study-time-allocation.md) — related
+- [A DataShop-derived cognitive model of problem-decomposition planning skills improved learner mastery when used to redesign a geometry cognitive tutor unit](datashop-model-improved-geometry-mastery.md) — related

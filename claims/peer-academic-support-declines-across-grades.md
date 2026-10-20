@@ -46,3 +46,4 @@ Cross-grade comparison from the spring 1994 student survey on five peer-effort q
 - [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related
 - [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — related
 - [Students' reports of teacher personalism drop sharply between eighth and tenth grade in Chicago public schools](personalism-declines-high-school-chicago.md) — related
+- [Ninth-grade teachers report less communication with and academic support for parents than eighth-grade teachers](ninth-grade-teachers-less-parent-communication.md) — related

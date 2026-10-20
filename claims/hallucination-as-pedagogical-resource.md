@@ -55,3 +55,5 @@ Theoretical argument in the Confabulations section: learners lack the background
 - [Students showed bounded trust and uneven verification behavior: 23 of 837 student turns (about 2.7%) contained explicit risk-aware moves](bounded-trust-uneven-verification-behaviors.md) — a narrower finding that bears on this claim
 - [The platform's out-of-scope audit protocol is designed to neutralize student distrust of AI error by rewarding verified hallucination reports](out-of-scope-audit-builds-trust.md) — a narrower finding that bears on this claim
 - [Cultivating AI intuition safeguards against technological overreliance and erosion of critical thinking (theoretical argument)](ai-intuition-safeguard-against-overreliance.md) — related
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
+- [Classroom verification norm is predicted to show threshold behavior and hysteresis rather than a smooth response to teacher-set requirements](verification-norm-threshold-hysteresis-prediction.md) — a narrower finding that bears on this claim

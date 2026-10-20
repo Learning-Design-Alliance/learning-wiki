@@ -49,3 +49,4 @@ Sliding-window regressions time-locked to the second session identified two crit
 - [Total percentage of time spent sedentary or in moderate-to-vigorous physical activity during the day is unrelated to long-term memory retention in young adults](total-daily-activity-unrelated-to-long-term-memory.md) — related
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — a broader claim this one bears on
 - [Exercise performed four hours, but not immediately, after encoding enhances 48-hour retention of picture-location associations and hippocampal pattern similarity](delayed-post-learning-exercise-enhances-retention.md) — related
+- [Memory recall declines over the 12-hour retention interval between encoding and retrieval](memory-declines-over-12-hour-interval.md) — related

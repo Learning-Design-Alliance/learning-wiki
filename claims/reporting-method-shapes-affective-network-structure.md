@@ -45,3 +45,4 @@ Separate ONA models for self-caught and probe-caught reports (64% probe-caught v
 ## Related Claims
 - [Curious, optimistic, and confused are the most frequently reported affective states, and self-caught reports are more evenly distributed than probe-caught reports](affect-frequency-distributions-reporting-methods.md) — related
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
+- [Faster CPS groups show stronger transitions among curiosity and optimism, while slower groups show stronger transitions among confusion, conflict, and frustration](faster-slower-groups-affective-transition-differences.md) — related

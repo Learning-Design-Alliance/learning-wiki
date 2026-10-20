@@ -45,3 +45,6 @@ The review reports the High/Scope Educational Research Foundation's 15-year foll
 ## Related Claims
 - [Adolescent substance use is associated with low academic outcomes, delinquency, and risky sexual behaviors, per cited prior work](adolescent-substance-use-negative-consequences.md) — related
 - The locus of control scale fails to discriminate delinquent from normal adolescents, casting doubt on its clinical screening utility — related
+- [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related
+- [Environmentally focused interventions appear to be particularly effective for reducing delinquency and drug use](environmentally-focused-interventions-delinquency-drug-use.md) — related
+- [Communities and neighborhoods rich in social networks have lower rates of crime, delinquency, and child abuse](community-social-networks-lower-problem-rates.md) — related

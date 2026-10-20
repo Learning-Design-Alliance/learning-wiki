@@ -52,3 +52,5 @@ Theoretical argument identifying the research gap the paper addresses. The autho
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [Hybrid work must be reconceptualised to include the human/AI duality alongside the presence/virtual continuum](hybrid-work-human-ai-duality.md) — related
 - [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related
+- [Human-GAI paradigms are enacted patterns of engagement rather than fixed individual traits](gai-paradigms-enacted-patterns-not-fixed-traits.md) — related
+- [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](assessment-design-shapes-genai-engagement.md) — a narrower finding that bears on this claim

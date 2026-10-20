@@ -48,3 +48,4 @@ Bootstrap mediation model (N=199); the total indirect effect was not significant
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [Perceived independence did not mediate a significant indirect effect of layered AI feedback on learning performance](positive-affective-path-encouragement-mediation.md) — related
 - [Layered AI feedback led to significantly more tasks requiring three or more submissions, while total submissions, learning time and edit distance did not differ](layered-feedback-more-tasks-three-plus-submissions.md) — related
+- [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — related

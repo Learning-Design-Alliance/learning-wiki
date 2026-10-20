@@ -48,3 +48,5 @@ Multilevel model sex contrasts (Table 3) in the 177-child sample. For word readi
 - [The reading sex difference favoring girls grew over the decade and was driven by very poor performance of boys at the low end](reading-gap-growing-driven-by-low-performing-boys.md) — related
 - [The mathematics sex difference favoring boys is more consistently found among higher-achieving nations, with considerable variability among lower-scoring countries](math-sex-difference-larger-in-higher-achieving-nations.md) — related
 - [Boys scored significantly higher than girls on IQ in the sample (p=.001)](sex-difference-iq-boys-higher-sample.md) — related
+- [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [Boys received more process praise and scored higher in 4th grade math than girls in this sample](gender-differences-process-praise-and-fourth-grade-math.md) — related

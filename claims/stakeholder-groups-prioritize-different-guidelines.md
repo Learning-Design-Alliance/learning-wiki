@@ -42,3 +42,4 @@ Cross-technology thematic analysis of approximately 1,600 stakeholder statements
 
 ## Related Claims
 - [Students co-designing a GenAI course policy prioritized training for students and instructors, standardized disclosure procedures, and stronger institutional support](students-prioritize-training-disclosure-institutional-support-genai-policy.md) — related
+- [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related

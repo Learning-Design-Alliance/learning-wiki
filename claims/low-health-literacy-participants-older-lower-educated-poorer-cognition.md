@@ -49,3 +49,4 @@ Chi-square tests and independent sample t-tests comparing background characteris
 - [Cognitive decline occurred in all domains between the two measurement waves among participants with cognitive data at both time points](cognitive-decline-occurred-all-domains-10-years.md) — related
 - [Health literacy measures are strongly correlated with fluid and crystallized cognitive abilities in older adults](health-literacy-measures-correlate-strongly-with-cognitive-abilities.md) — related
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
+- [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related

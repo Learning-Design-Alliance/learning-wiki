@@ -48,3 +48,5 @@ The Washington State simulation estimates that "eliminating inequities in teache
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — a broader claim this one bears on
 - [Teacher attrition patterns do not contribute to inequitable access to effective teachers](attrition-does-not-contribute-inequitable-access.md) — related
 - Assuring that poor and minority children had teachers of the same quality as other children would close about half the achievement gap — related
+- [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related
+- [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related

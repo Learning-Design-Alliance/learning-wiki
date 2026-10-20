@@ -44,3 +44,4 @@ The systematic review's study sample (267 studies identified, 37 eligible, 20 me
 
 ## Related Claims
 - [Of 18 reviewed Tier 2 literacy interventions, three had at most promising evidence and 12 had uncertain evidence of effects](most-tier2-interventions-uncertain-or-promising-evidence.md) — related
+- [Findings from two states and three cities cannot be generalized to a national estimate of program effects](two-states-three-cities-not-generalizable.md) — a narrower finding that bears on this claim

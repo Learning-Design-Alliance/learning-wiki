@@ -45,3 +45,5 @@ Correlational preliminary analysis (Table 3) in the same experiment: feedback qu
 ## Related Claims
 
 - [Essay quality correlates positively with the affective feature of ChatGPT feedback and negatively with the affective feature of peer feedback](essay-quality-affective-feedback-divergent-correlations.md)
+- [Neither scaffold significantly improves pre-service teachers' EIR application skills](no-scaffold-effect-eir-application.md) — related
+- [A feedback provision scaffold of prompts plus a sample solution significantly improves the quality of feedback messages pre-service teachers provide on peers' case analyses](feedback-provision-scaffold-improves-feedback-quality.md) — related

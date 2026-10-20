@@ -44,3 +44,5 @@ Structural equation model (N=464) with staggered assessments: life events in fal
 
 ## Related Claims
 - [The authors hypothesize a possible vicious cycle in which stress-induced self-control losses generate further stressful life events](stress-self-control-vicious-cycle-hypothesis.md) — related
+- [Negative life events predict rank-order decreases in self-control in early adolescents over time, controlling for baseline self-control and demographics](negative-life-events-predict-self-control-decreases.md) — related
+- [Self-control shows substantial rank-order stability in early adolescence, yet situational influences still matter](self-control-rank-order-stability-with-situational-change.md) — related

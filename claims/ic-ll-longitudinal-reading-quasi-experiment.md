@@ -49,3 +49,6 @@ Longitudinal quasi-experimental study comparing 42 intervention and 42 compariso
 - [The intervention showed substantively important but WWC-unconfirmed effects on English language development, with non-significant CTBS Language and Writing outcomes](ic-ll-english-language-development-unconfirmed.md) — related
 - [Author-reported statistically significant program effects did not remain significant after WWC corrections for clustering and multiple comparisons](wwc-corrections-eliminate-author-reported-significance.md) — related
 - Quasi-experimental studies of Success for All across diverse settings find positive effects on early-grade reading — related
+- [Nunnery and Ross (2007) reported significant grade 5 but not grade 8 TAAS effects, which were non-significant in WWC recalculation](nunnery-ross-taas-grade5-significant-wwc-recalculation-null.md) — related
+- [VIP shows potentially positive effects on reading achievement for fifth-grade English language learners (effect size 0.50, not statistically significant)](vip-potentially-positive-reading-achievement.md) — related
+- [BCIRC has potentially positive effects on English language development (effect size 0.29, not statistically significant)](bcirc-potentially-positive-english-language-development.md) — related

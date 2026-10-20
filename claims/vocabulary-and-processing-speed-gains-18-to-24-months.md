@@ -49,3 +49,4 @@ Descriptive longitudinal change analysis in the 27-dyad sample using parent-repo
 - [Maternal talk influences on vocabulary and processing speed are largely overlapping, with each mediating the other's relation to input](overlapping-influences-input-vocabulary-processing.md) — related
 - [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related
 - [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related
+- [Individual differences in processing speed remain broadly stable between 19 and 31 months](processing-speed-individual-differences-stable-19-31-months.md) — related

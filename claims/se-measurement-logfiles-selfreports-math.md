@@ -64,3 +64,7 @@ Review finding on dimension coverage in process data. The review also notes temp
 ## Related Claims
 - [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related
 - [Most undergraduate mathematics SE studies aim to evaluate instructional methods and tools, with fewer aiming to understand learning behavior or examine factors of academic success](se-math-three-research-aims.md) — related
+- [Less than half of undergraduate mathematics SE studies examined the relationship between engagement and learning outcomes, using variable-oriented and person-oriented approaches](se-outcomes-link-understudied-math.md) — related
+- [Most instruction-focused SE research in undergraduate mathematics conceptualizes engagement as the outcome of student-centred learning environments and optimized instruction](instruction-focused-se-frameworks-math.md) — related
+- [Focal math teachers relied primarily on their own observations of student behavior to understand students' feelings about math, supplemented by surveys, with disaggregated data rare](teacher-observation-primary-perception-data-source.md) — related
+- [Of 289 studies on motivation regulation, approximately three quarters examined university students, used cross-sectional designs, and relied on self-report questionnaires](motivation-regulation-research-dominated-by-university-cross-sectional-self-report.md) — related

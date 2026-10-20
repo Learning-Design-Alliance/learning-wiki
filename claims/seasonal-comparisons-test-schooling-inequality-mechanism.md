@@ -49,3 +49,5 @@ The abstract describes the study's design: seasonal comparisons on "recent natio
 - [Prior seasonal studies were limited to social-category skill gaps and early grades](seasonal-studies-limited-categories-early-grades.md) — related
 - [Intensive remediation alone will not meet students' needs and, if segregating and stigmatizing, can deepen inequality and trauma](remediation-alone-insufficient-summer-learning.md) — related
 - [Without attention, educational innovations tend to exacerbate rather than reduce learning gaps between well-off and lower-resourced individuals](educational-innovations-exacerbate-learning-gaps-without-attention.md) — related
+- [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
+- [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related

@@ -47,3 +47,5 @@ Thematic analysis of semi-structured interviews (30–45 min) with 25 Malaysian 
 - [Students report heightened autonomy in English learning through self-directed regulation, personalized feedback, and active evaluation of ChatGPT suggestions](chatgpt-autonomy-self-directed-learning.md) — related
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — related
 - [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
+- [Students report negative experiences with ChatGPT including inaccurate outputs, lack of emotional connection, and risk of overreliance, which constrain competence](chatgpt-negative-experiences-inaccuracy-overreliance.md) — related
+- [EFL proficiency significantly shapes chatbot interaction: high-proficiency learners over-engage in dialogue while low-proficiency learners over-rely on feedback requests](proficiency-shapes-chatbot-interaction.md) — related

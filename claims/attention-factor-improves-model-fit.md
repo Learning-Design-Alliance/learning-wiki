@@ -46,3 +46,4 @@ Chi-square difference test comparing two SEMs of kindergarten writing production
 - [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language](attention-unique-predictor-kindergarten-writing-fluency.md) — related
 - [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
+- [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — reports the opposite

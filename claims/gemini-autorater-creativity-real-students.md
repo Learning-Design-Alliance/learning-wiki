@@ -70,3 +70,5 @@ Same OpenMic lab study, evaluated on 180 held-out submissions: autorater overall
 - [LLM-as-a-Judge scores correlate with blinded human expert judgments, more strongly for Medical Narrative Generation than Story Direction](llm-judge-correlates-human-experts-medgame.md) — related
 - [Rank-based metrics can be misleading for analytic assessment: systems prompted for holistic scoring achieve strong, sometimes stronger, correlations with analytic scores than when prompted for those aspects](rank-based-metrics-misleading-analytic-assessment.md) — related
 - [Exemplar-based calibration is expected to align student ratings with expert ratings at the criterion level](trainer-calibration-expected-align-rater-judgments.md) — related
+- [Human-LLM agreement on a complex multi-label codebook falls well below human-human agreement, while LLM-LLM agreement is comparable to human-human agreement](human-llm-agreement-gap-jaccard.md) — related
+- [Experts rated KITE's feedback positively on scaffolding, guidance, coherence, and tone in 93.18% of judgments, with high interrater agreement (κ = 0.88)](kite-feedback-high-expert-rubric-ratings.md) — related

@@ -46,3 +46,5 @@ Cycle-specific analysis of play data from 39 students (Table 2, α = .10): # of 
 
 - [The number of far failures — cycles ended by incorrect collection and/or time running out — was negatively correlated with pre-post learning gains in Progenitor X](far-failure-negatively-correlated-with-learning.md)
 - [After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison](progenitor-x-play-significant-prepost-gain.md)
+- [Aggregate play-efficiency measures in Progenitor X were not correlated with pre-post learning gains, except for efficiency in the final organ boss level (r = .3219)](aggregate-efficiency-not-correlated-with-gains.md) — related
+- [Upper-quartile and lower-quartile learning-gain players showed opposite correlations between cell-cycle activity and learning, and lower-quartile players had more far failures (7 vs 2.3 average cycles)](quartile-far-failure-contrast.md) — related

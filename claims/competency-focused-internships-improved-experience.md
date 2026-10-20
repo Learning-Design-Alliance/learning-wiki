@@ -48,3 +48,5 @@ Key finding from the two-year study: under the redesigned policy, internships ce
 - [The increased number and specificity of policy requirements challenged implementation flexibility, with some viewing the policy as one-size-fits-all](illinois-principal-preparation-requirements-inflexibility.md) — related
 - [Program representatives and statewide stakeholders were largely positive about the goals of Illinois' redesigned principal preparation policy](illinois-principal-preparation-stakeholders-positive-policy-goals.md) — related
 - Early-career principals cite people skills and emotional intelligence, along with organizational and managerial skills, as most important for successful leadership — related
+- [Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity](principal-internships-expert-coaching-value.md) — related
+- [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related

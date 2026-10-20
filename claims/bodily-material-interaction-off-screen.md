@@ -43,4 +43,6 @@ The editorial summarizes Davidsen and Ryberg's fine-grained analysis of two nine
 
 
 ## Related Claims
--
+- [A collaboration kit with joint and private multi-touch table spaces outperformed comparison groups, showing less biased communication and more collaborative processes.](multi-touch-collaboration-kit-reduced-discussion-bias.md) — related
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on
+- [Body movements and positions focusing on virtual objects, and shifts away from or around them, signal key interactional collaborative events in shared VR](body-movement-signals-collaborative-events-vr.md) — related

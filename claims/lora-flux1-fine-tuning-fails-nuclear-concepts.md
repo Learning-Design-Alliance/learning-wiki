@@ -48,3 +48,4 @@ Qualitative assessment across 300 prompts and 16 checkpoints of the LoRA-tuned F
 - [Generating multiple images per prompt and re-prompting with word variations did not yield accurate nuclear images for failed concepts](multiple-images-and-reprompting-do-not-fix-accuracy.md) — related
 - [LoRA fine-tuning hyperparameters are not model-agnostic: increasing rank above 64 destroyed LLaMA's feedback generation while Gemma remained robust](lora-rank-sensitivity-architecture-dependent.md) — related
 - [Human qualitative assessment shows SDXL significantly outperforms SD-v3.5-Medium after fine-tuning, failing on 84 versus 250 of 300 prompts](sdxl-outperforms-sd35-medium-qualitatively.md) — related
+- [The CLIP text-image alignment score failed to capture fine-tuning improvements, contradicting KID, CMMD, and human judgment](clip-score-fails-to-capture-fine-tuning-gains.md) — related

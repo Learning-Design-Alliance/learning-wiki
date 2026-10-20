@@ -49,3 +49,7 @@ Post-hoc quadratic analysis in the PLS-SEM model, visualized in Fig. 5. Low-to-m
 - [Both cognitive vigilance and cognitive offloading mediate the relationship between pedagogical partnership and transformative learning](dual-cognitive-pathways-mediate-partnership-transformation.md) — related
 - [Human-GenAI pedagogical partnership is positively associated with both cognitive vigilance and cognitive offloading among business students](genai-partnership-activates-vigilance-and-offloading.md) — related
 - [IPMA identifies cognitive vigilance as the highest-importance, lowest-performance priority for intervention targeting transformative learning](ipma-vigilance-high-importance-low-performance.md) — related
+- [Design factors moderating AI's effect on learning matter only through whether they engage the learner's evaluation](design-factors-work-through-vigilance.md) — related
+- [Strategic cognitive offloading can support transformative learning only when the offloading decision is intentional](strategic-offloading-intentional-transformative-learning.md) — related
+- [Calibrated epistemic vigilance, given adequate prior knowledge, is the binding constraint on productive augmentation with AI](calibrated-vigilance-binding-constraint-augmentation.md) — related
+- [Agent perception followed a U-shape across variants: the mixed temporally-humanlike/visually-nonhumanlike Variant 2 was rated least positively on partnership and agent-perception measures](variant2-least-positive-agent-perception.md) — related

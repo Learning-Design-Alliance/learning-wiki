@@ -45,3 +45,6 @@ T-test on discussion-level protocol data from 36 discussions in a Dutch first-ye
 ## Related Claims
 
 - [Anchored discussion supports greater communicative efficiency but not higher mutual understanding](anchored-discussion-communicative-efficiency.md)
+- [Forum discussion shows more argumentation and confirmation, partly mediated by its opinion-oriented subject matter](argumentation-mediated-by-message-subject.md) — related
+- [Forum discussion contains more social and regulative comments and longer messages; anchored discussion is briefer with more messages](forum-more-social-regulative-comments.md) — related
+- [Anchored discussion strengthens referrals to content and prompts rereading of relevant passages](anchored-discussion-content-referrals-rereading.md) — related

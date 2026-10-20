@@ -45,3 +45,9 @@ In study 2, the competence profiles identified in study 1 were tested as moderat
 ## Related Claims
 
 - [Latent profile analysis of primary teachers' SRL competence yields two quantitative profiles (low vs. high competence) rather than three qualitatively distinct situative, cognitive, or mixed profiles](two-srl-teacher-competence-profiles-low-high.md)
+- [Engagement profiles significantly moderated GATs' immediate performance effects: low- and high-engagement profiles benefited while the mid-engagement profile showed a small decrement](engagement-profiles-moderate-gat-effects.md) — related
+- [High-competence-profile teachers outperform low-competence-profile teachers on SRL knowledge, beliefs, and self-efficacy, but not on self-reported situated SRL approaches](profile2-outperforms-profile1-competence-indicators.md) — related
+- [Teachers' SRL competence profiles do not differ by gender, age, or teaching experience](srl-profiles-no-demographic-differences.md) — related
+- [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
+- [Students with high initial performance profit more from area-specific practice while students with low initial performance profit more from general practice](initial-performance-moderates-practice-type-benefit.md) — related
+- [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](srl-training-teacher-level-not-student-level-effects.md) — related

@@ -48,3 +48,9 @@ Descriptive trend in college enrollment among CPS graduates from district and Na
 - Two-thirds of CPS graduates immediately enrolled in a two- or four-year college in 2017, up from 50 percent in 2006 — related
 - CPS graduates enrolled at lower overall rates than the nation but showed relatively low two-year and relatively high four-year enrollment compared with national and urban benchmarks — related
 - [AI/AN youth dropout rates reach up to 50 percent, and college matriculation and retention rates remain very low compared to White peers](ai-an-dropout-and-college-retention-rates.md) — related
+- [The six-year college graduation rate for CPS graduates enrolling in four-year colleges rose to 50 percent in 2014, 10 points below the national rate](cps-college-graduation-50-percent-2014.md) — related
+- [Four-year college graduation rates remained flat at about 49 percent for direct four-year enrollees, with much lower rates for two-year (8 percent) and delayed enrollees (4 percent)](cps-four-year-graduation-flat-49-percent.md) — related
+- [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related
+- [Six-year college completion rates for immediate four-year enrollees rose from 54 to 56 percent for the CPS class of 2013, double the rate for immediate two-year enrollees](cps-completion-four-year-double-two-year.md) — related
+- [In almost every Chicago community area, more than 50 percent of 2019 graduates enrolled immediately in college, while 16 percent of high schools had enrollment rates below 50 percent](college-enrollment-above-50-most-community-areas.md) — related
+- [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related

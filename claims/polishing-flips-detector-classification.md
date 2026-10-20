@@ -50,3 +50,4 @@ The review reports Wang et al.'s experiment on JAAD International research lette
 - [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md) — related
 - [All four detection tools classified 100% of fully human-written papers as true negatives, with false positives nearly absent](all-tools-accurate-on-human-written-papers.md) — reports the opposite
 - [AI-generated-text detectors are reported as ineffective against current sophisticated language models, and students can alter text to evade detection](ai-text-detectors-ineffective.md) — related
+- [In a paired exploratory comparison, extensive machine rewriting by a commercial humanizer materially degraded the manuscript while changing the detection score only slightly](humanizer-rewriting-small-score-change.md) — related

@@ -50,3 +50,4 @@ Retention Test administered about two weeks after the lessons to the same 45 com
 - [Multimedia motivational introductory messages produce better immediate knowledge-test outcomes than traditional teaching aids in elementary Nature and Society lessons](multimedia-introductory-message-better-immediate-tests.md) — related
 - [The learning advantage of multimedia introductory messages is partially visible on global exams and not durable across the study](multimedia-introductory-message-exam-effect-partial.md) — reports the opposite
 - [Advantage of causal knowledge on unfamiliar terminology persists one week after training](causal-knowledge-advantage-unfamiliar-terminology-persists-one-week.md) — related
+- [Students report rarely reading their physics textbooks, with half claiming never to have used it in an entire semester](students-rarely-read-textbook.md) — related

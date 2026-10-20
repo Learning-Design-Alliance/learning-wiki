@@ -64,3 +64,5 @@ Figure 2 translates school variance components from Models 3a and 5c into GPA un
 ## Related Claims
 - [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related
 - [Teacher effects account for about one-fifth of within-student variation in course grades but average out of GPAs](teacher-effects-one-fifth-within-student-variance.md) — related
+- [Differences in grading practices across teachers and schools are small relative to students' actual academic preparation, and GPAs average out those differences](grading-differences-small-gpa-averages-teacher-differences.md) — a broader claim this one bears on
+- [Classroom-level ICCs for elementary test score gains range from 0.02 to 0.15 and school-level ICCs from 0.05 to 0.20, so classroom effects explain about 15 percent of gain-score variance](icc-classroom-effects-gain-scores-15-percent.md) — related

@@ -47,3 +47,4 @@ Randomized controlled trial in which 20 Minnesota schools were randomly assigned
 - [Early Risers has potentially positive effects on social outcomes, driven by a significant Social Skills Composite effect in one of two studies](early-risers-potentially-positive-social-outcomes.md) — related
 - [Early Risers has potentially positive effects on academic performance, driven by a significant Academic Achievement Composite effect in one of two studies](early-risers-potentially-positive-academic-performance.md) — related
 - [After two years of implementation, Early Risers showed a statistically significant positive effect on the Academic Competence Composite in the 2001 supplemental findings](early-risers-two-year-academic-competence-significant.md) — related
+- [First Step to Success has positive effects on external behavior for children at risk for emotional disturbance (average improvement index +28)](first-step-success-positive-external-behavior.md) — related

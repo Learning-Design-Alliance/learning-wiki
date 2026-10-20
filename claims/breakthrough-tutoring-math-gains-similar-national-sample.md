@@ -49,3 +49,5 @@ Key finding from the evaluation of the 2021-2022 school-year tutoring pilot at B
 - [Effect sizes of Pre-K Mathematics decreased over time as the intervention moved through successive scale-up phases](pre-k-math-effect-sizes-decreased-over-scale-up.md) — related
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](norms-prediction-rmsd-math-reading.md) — related
 - [Substantial improvement in outcomes: breakthroughs change learning or life trajectories rather than improving incrementally](breakthrough-substantial-outcome-improvement-trajectories.md) — related
+- [First graders in 2021–22 grew less in math and reading than a typical prepandemic year, by 6–7%](first-graders-2021-22-growth-below-typical-year.md) — related
+- [Student growth measures describe gains in student learning based on how much students' test scores changed over a school year](student-growth-measures-describe-test-score-gains.md) — a broader claim this one bears on

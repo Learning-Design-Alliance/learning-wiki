@@ -45,3 +45,5 @@ Key finding from the Mathematica study of Louisiana public high schools, which u
 ## Related Claims
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [Student background characteristics are less strongly related to promotion power scores than to status measures](background-less-related-promotion-power-than-status.md) — a narrower finding that bears on this claim
+- [Growth measures offer a clearer, more accurate picture of learning than achievement data, while achievement data remains critical for tracking student progress](growth-measures-clearer-picture-of-learning.md) — related
+- [Schools positively impacting one promotion power measure are more likely to positively impact other long-term outcomes, but many show varying effectiveness across outcomes](promotion-power-correlates-across-outcomes-with-variation.md) — related

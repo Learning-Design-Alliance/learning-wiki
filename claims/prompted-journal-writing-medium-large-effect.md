@@ -61,3 +61,7 @@ Mini meta-analysis (following Goh et al., 2016) pooling the program's experiment
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
 - [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on
 - [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related
+- [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](expertise-reversal-writing-journal-prompts-fading.md) — related
+- [A personal utility prompt in journal writing improves learning motivation and comprehension](personal-utility-prompt-motivation-comprehension.md) — a narrower finding that bears on this claim
+- [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related
+- [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related

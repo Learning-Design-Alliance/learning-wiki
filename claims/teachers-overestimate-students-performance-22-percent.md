@@ -43,4 +43,5 @@ Same explorative study with 46 secondary teachers judging 406 students' reading 
 
 
 ## Related Claims
--
+- [Teachers' judgments of students' monitoring accuracy deviated 14.33% from students' actual monitoring accuracy, tending to underestimate it](teachers-underestimate-students-monitoring-accuracy-14-percent.md) — related
+- [Across all adult age groups and both genders, global performance judgments of mathematics and reading competence are on average overestimated](adults-overestimate-competence-all-ages.md) — related

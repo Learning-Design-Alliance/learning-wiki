@@ -65,3 +65,4 @@ Interview evidence on efficiency: an eighth-grade teacher described self-grading
 - [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [Colleges adopted new technology platforms to increase efficiencies, but face challenges sustaining their use after the grant ends](technology-platforms-efficiency-adoption-sustainability-challenge.md) — related
+- [The most significant reported benefit of AI in instructional design is assistance with administrative and repetitive tasks (18 of 28 studies, 64.2%)](ai-benefit-administrative-repetitive-tasks.md) — related

@@ -46,3 +46,5 @@ Hierarchical multiple regression on Cajon Valley data with current Lexile as dep
 - [EL students using Achieve3000 scored significantly higher on adjusted post-pilot Lexile scores than comparison students who did not use the tool](achieve3000-significant-lexile-gains-vs-comparison.md) — related
 - [General literacy achievement domain: one statistically significant positive effect and one indeterminate effect yield a potentially positive rating](achieve3000-general-literacy-findings.md) — related
 - [Student attitudes toward learning English and school declined slightly over both pilots, with the decline in believing school is a good place to learn statistically significant in both districts](student-attitudes-declined-over-pilots.md) — related
+- [Hill and Lenard (2016): LevelSet Lexile effects were negative in spring 2014 and positive in spring 2015](kidbiz-levelset-year-contrast.md) — related
+- [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related

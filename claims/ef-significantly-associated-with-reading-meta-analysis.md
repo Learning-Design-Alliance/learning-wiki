@@ -45,3 +45,6 @@ Pre-registered three-level random-effects meta-analysis of zero-order correlatio
 ## Related Claims
 
 - [Executive functions and working memory correlate moderately to strongly with mathematics achievement (r = .28 to .40), from preschool through elementary school](executive-functions-and-working-memory-correlate-with-math-achievement.md)
+- [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](ef-academic-performance-small-to-medium-meta-analytic.md) — a broader claim this one bears on
+- [Executive functioning was not a significant unique predictor of first-grade reading in children with low number sense](ef-not-predictor-first-grade-reading.md) — related
+- [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](ef-no-direct-effect-syntactic-complexity-story-content.md) — related

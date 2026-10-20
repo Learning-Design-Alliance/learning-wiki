@@ -74,3 +74,4 @@ Theoretical argument in the article's introduction framing generative AI tools l
 - [Model self-confidence gauges LLM confidence in probability estimates and helps identify when machine-generated scoring outputs are trustworthy](llm-self-confidence-identifies-trustworthy-scoring-outputs.md) — related
 - [Viewpoint-aware spatial reasoning is a persistent bottleneck with poor calibration of spatial uncertainty](viewpoint-aware-spatial-reasoning-bottleneck.md) — a narrower finding that bears on this claim
 - [Syntactic rather than semantic processing of input is essential for correcting incomprehensible output](syntactic-processing-corrects-incomprehensible-output.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

@@ -51,3 +51,6 @@ Case observation reported at the March 2025 ribbon cutting: a student on only hi
 - [Multi-step AI operations, not AI use alone, are positively associated with creativity of final design work](multi-step-ai-operations-creativity-association.md) — related
 - [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
 - [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](claim-3d-modeling-task-halted-engineering-practices.md) — related
+- [Sysadmins find GenAI most effective for accelerating routine tasks such as scripting, troubleshooting, and documentation](genai-accelerates-routine-sysadmin-tasks.md) — related
+- [Proactive flow-aware highlighting helps fiction writers recognize latent knowledge gaps they would not search for on their own](proactive-highlighting-reveals-latent-knowledge-gaps.md) — related
+- [Learning Studio participation increased students' comfort with, and skills around, the Studio technologies](learning-studios-student-technology-comfort-increase.md) — related

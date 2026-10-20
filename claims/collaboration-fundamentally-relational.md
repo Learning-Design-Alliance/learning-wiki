@@ -47,3 +47,4 @@ Authors' concluding interpretation of the case study: the discussion would not h
 - [Collaborative conjecture map construction surfaced a tension between nuanced learning theory and limited technical capability](conjecture-map-surfaces-theory-technical-tension.md) — related
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — related
 - [First-time computer scientist users' contributions fit naturally into the adapted conjecture map format](conjecture-map-familiar-to-computer-scientists.md) — related
+- [Framing instructors as part of the solution shifted the design toward supporting instructor judgment and co-design](instructors-part-of-the-solution-frameshift.md) — related

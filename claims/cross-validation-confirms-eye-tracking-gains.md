@@ -62,4 +62,8 @@ Cross-validation of exploration nodes across the three model versions (Table 6):
 
 
 ## Related Claims
--
+- [Time and gaze-shift evidence are complementary predictors of self-explanation: time alone yields higher sensitivity, gaze shifts alone higher specificity, and the combination the best accuracy](time-and-gaze-evidence-complementary.md) — related
+- [Adding eye-tracking evidence to ACE's student model significantly improves assessment of implicit self-explanation over a time-only model](eye-tracking-improves-implicit-se-assessment.md) — a broader claim this one bears on
+- [In an initial eye-tracking study, time on action predicted self-explanation (16-second threshold) and gaze shifts were most reliable at detecting its absence](initial-study-time-and-gaze-predict-self-explanation.md) — related
+- [More accurate assessment of self-explanation significantly improves the model's assessment of student learning through exploration](se-assessment-improves-exploration-assessment.md) — related
+- [Customizing knowledge-node priors from pretest scores improves model accuracy, but tailoring SE-tendency priors yields no significant improvement](knowledge-priors-help-se-tendency-priors-do-not.md) — related

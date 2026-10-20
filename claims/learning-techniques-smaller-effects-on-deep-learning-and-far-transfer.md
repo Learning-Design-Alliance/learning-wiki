@@ -68,3 +68,8 @@ A course aiming at understanding or transfer cannot take the headline effects of
 
 - [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
 - [Statistically significant differences in approaches to learning can constitute small effects of little theoretical or practical importance](significant-differences-small-effects-approaches.md) — related
+- [Test-score increases occurred only for identical and near-transfer problems; no increases were found for far-transfer problems in any of the three conditions](germane-load-gains-limited-to-identical-and-near-transfer-problems.md) — a narrower finding that bears on this claim
+- [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study](self-explanation-far-transfer-geometry-classroom.md) — related
+- [The review reports that simulation games support near transfer of knowledge but evidence for long-term or far transfer is less robust](simulation-near-transfer-robust-far-transfer-weak.md) — related
+- [In one 51-learner experiment on help formats in computer-based electrical engineering instruction, far-transfer scores were at the floor in every condition, and time spent on instruction did not differ significantly between conditions](far-transfer-floor-effect-and-equal-time.md) — related
+- [Transfer of test-enhanced learning is greatest across test formats, to application and inference questions, to medical diagnosis problems, and to mediator and related word cues](transfer-greatest-test-formats-application-inference-medical-mediator-cues.md) — related

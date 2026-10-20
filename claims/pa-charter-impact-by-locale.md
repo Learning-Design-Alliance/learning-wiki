@@ -49,3 +49,4 @@ Figure 6 disaggregation of charter impacts by NCES locale type (city, suburb, to
 - [Charter students in poverty show similar reading growth but significantly weaker math growth (about 18 fewer days) than their TPS peers in poverty](pa-charter-poverty-students-weaker-math.md) — related
 - No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
+- [Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming](credo-cohort1-charter-no-cream-skimming.md) — related

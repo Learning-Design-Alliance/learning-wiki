@@ -47,3 +47,5 @@ In the hierarchical mixed-model analysis, year-level-by-predictor and census-yea
 - [WEC index effects on academic outcomes are more pronounced for male students, with the well-being effect on literacy absent for females](wec-effects-more-pronounced-males-literacy.md) — related
 - [The overall WEC well-being index has a weak positive association with academic outcomes, with effect sizes no larger than 0.1 SD](wec-index-weak-positive-association-academic-outcomes.md) — related
 - [The emotional well-being index has the least predictive power on academic outcomes, with effect sizes in the hundredth-of-a-SD range](well-being-index-least-predictive-academic-outcomes.md) — related
+- [Predictive weights of IQ, memory and study habits do not differ significantly between 3rd and 4th grade](predictor-weights-stable-across-two-grades.md) — related
+- [Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study](sel-stability-and-predictive-value-largely-unknown.md) — related

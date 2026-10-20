@@ -65,3 +65,7 @@ Intersectional analysis in the same preregistered survey (Table 1) reports mean 
 
 - [Children in grades 3–7 endorse gender-interest stereotypes favoring boys in computer science, with boys endorsing more strongly than girls](children-endorse-gender-interest-stereotypes-cs-study1.md)
 - [Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present](stereotype-creates-gender-gap-cs-activity-study4.md)
+- [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related
+- [Experimentally labeling a novel activity with a gender-interest stereotype causes 8-year-old girls to report lower interest and choose it less often](stereotype-label-causes-lower-girls-interest-novel-activity.md) — related
+- [Girls' lower sense of belonging mediates the relation between gender-interest stereotypes and their lower interest in computer science, with the opposite mediation for boys](belonging-mediation-gender-interest-stereotypes.md) — related
+- [Fixed mindsets predict stronger stereotyping and trait inferences, with experimental evidence of a causal role](fixed-mindset-predicts-stereotyping.md) — related

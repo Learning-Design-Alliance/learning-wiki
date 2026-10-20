@@ -52,3 +52,7 @@ In its snapshot of key concepts, the paper states that all four approaches are r
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — a narrower finding that bears on this claim
 - [PLC leaders' recognition of their own metacognition impacted the type of work they led in the PLC](plc-leader-metacognition-shapes-led-work.md) — related
 - Skilled EFL writers possess declarative knowledge that topic familiarity influences how much and how well they can write about a topic. — related
+- [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — related
+- [AI support can improve task performance while weakening users' metacognitive accuracy and leaving their own reasoning unimproved](ai-performance-metacognition-dissociation.md) — related
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
+- [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related

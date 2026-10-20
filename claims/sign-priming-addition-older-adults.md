@@ -47,3 +47,4 @@ Repeated-measures ANOVA on solution times in the sign priming experiment with 18
 - [Bayesian analyses strongly support sign priming for small addition problems in older adults but only anecdotal support for +1 problems](bayesian-support-priming-older-adults.md) — a narrower finding that bears on this claim
 - [Sign priming effects in addition occur for large, small, and +1 problems but not for tie or +0 problems in older adults](problem-type-priming-pattern-older.md) — a narrower finding that bears on this claim
 - [Problem type modulated solution times, with large problems slowest and +1 problems fastest in both age groups](problem-type-solution-time-structure.md) — related
+- [Older adults' slowdown relative to young adults is far smaller for problems interpreted as procedurally solved than for retrieval-solved problems](differential-aging-cost-procedure-vs-retrieval.md) — related

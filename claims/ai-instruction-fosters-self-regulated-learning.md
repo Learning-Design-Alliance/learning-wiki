@@ -45,3 +45,4 @@ Mixed-design ANOVA on the 63-item Self-Regulation Questionnaire (pilot reliabili
 - [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related
 - [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — reports the opposite
 - [AI-mediated language instruction produces significantly greater English learning achievement gains than traditional instruction among EFL learners](ai-instruction-greater-efl-achievement-gains.md) — related
+- [Motivational SRL factors correlate with but do not directly predict Japanese EFL learners' proficiency](motivational-factors-correlate-not-predict-efl-proficiency.md) — related

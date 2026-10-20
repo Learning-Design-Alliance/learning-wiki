@@ -49,3 +49,6 @@ The PCER Consortium (2008) randomized trial (14 classrooms, 198 children) assess
 - [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](bright-beginnings-print-knowledge-tera3-mixed.md) — related
 - [Ready, Set, Leap!® shows no discernible effects on oral language, print knowledge, phonological processing, early reading/writing, or math in preschoolers](ready-set-leap-no-discernible-effects-preschool.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool phonological processing](prek-mathematics-no-phonological-effects.md) — related
+- [Doors to Discovery™ shows no discernible effects on preschool phonological processing (effect size 0.14, not significant)](doors-to-discovery-no-discernible-phonological-processing.md) — related
+- [Bright Beginnings shows no discernible effects on preschool oral language (domain average effect size 0.15, not statistically significant)](bright-beginnings-null-oral-language.md) — related
+- [Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)](bright-beginnings-null-math.md) — related

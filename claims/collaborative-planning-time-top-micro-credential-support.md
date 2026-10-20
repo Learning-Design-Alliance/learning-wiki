@@ -47,3 +47,6 @@ Survey evidence from the Challenge Collaborative's cohort-model implementation. 
 - KMSD's micro-credential compensation model supported teacher collaboration, with groups of 5 to 60 teachers earning together — related
 - [Colleagues, not coaches, were teachers' main source of technology support, and over a third of post-survey respondents reported no support](pr-colleagues-main-support-coaches-rare.md) — related
 - Pilot participants earned micro-credentials aligned to their coaching challenges, and a school leader described micro-credentials as a strategy for increasing teachers' professional development — related
+- [Teachers participating in the micro-credential collaborative reported positive receptivity, with 84 percent agreeing micro-credentials were significant to their computational thinking learning](micro-credential-teacher-receptivity-positive.md) — related
+- [The Friday Institute used micro-credential stacks to close the implementation gap left by MOOC-Ed content at scale](friday-institute-mooc-ed-implementation-gap-micro-credentials.md) — related
+- [More than 90 percent of teachers reported monetary bonuses and stipends for time spent would be definitely or very motivating for completing another micro-credential](monetary-incentives-motivating-micro-credentials.md) — related

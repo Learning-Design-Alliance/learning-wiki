@@ -48,3 +48,8 @@ This is the brief's stated rationale for integrating early math into family enga
 - [Parents play an important role in young children's math development](parents-role-early-math-development.md) — related
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — a narrower finding that bears on this claim
 - [Family engagement programs can integrate mathematical thinking and activities across a range of settings](family-engagement-programs-can-integrate-early-math.md) — a narrower finding that bears on this claim
+- [The Heising-Simons Foundation funded family engagement providers to develop, test, and integrate research-based early math projects within existing family engagement programs](heising-simons-funded-early-math-family-engagement-projects.md) — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
+- [Attendance in preschool and kindergarten is framed as important to young learners' school success](prek-kindergarten-attendance-spells-success.md) — related
+- [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
+- [The home environment plays an important role in early childhood development](home-environment-role-early-childhood-development.md) — related

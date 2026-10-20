@@ -46,3 +46,4 @@ Wilcoxon signed-rank tests comparing absolute misalignment (|d|) between consecu
 - [Estimation errors for partner AI use are directionally biased for specific task types at t2 but not at t3](task-type-directional-bias-partner-ai-estimates.md) — related
 - [Teams whose perception of who uses more AI reversed between t1 and t3 achieved lower scores than teams with stable perceptions](perception-reversal-associated-with-lower-scores.md) — related
 - [Greater early-project misalignment in partners' perceptions of each other's AI use is associated with lower final project scores](early-ai-use-perception-misalignment-lower-team-scores.md) — related
+- [Week 3 performance differs by perception-transition group, with Aligned teams increasing and Multifaceted teams decreasing in scores](aligned-perceptions-performance-increase-multifaceted-decrease.md) — related

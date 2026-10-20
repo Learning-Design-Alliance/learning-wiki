@@ -47,3 +47,4 @@ Cross-experiment comparison of Experiments 1 and 2 reaction times in five observ
 - [Covert attention facilitates detection within the foveola at locations only 20 arcminutes apart, with an effect similar in magnitude to the parafovea](covert-attention-facilitates-foveolar-detection.md)
 - [Fine foveolar attentional effects persist during normal, non-stabilized fixation with natural retinal image motion](foveolar-attention-persists-normal-fixation.md)
 - [Endogenous spatial cueing speeds detection at the attended parafoveal location and slows it at the unattended location](covert-cueing-speeds-parafoveal-detection.md)
+- [Covert attention enhances fine spatial discrimination (orientation d′) within the foveola with high selectivity across 20′ separations](covert-attention-enhances-foveolar-discrimination.md) — related

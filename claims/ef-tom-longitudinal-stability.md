@@ -48,3 +48,4 @@ Latent variable model of the three-wave sample; the abstract states "there was s
 - [Earlier theory of mind does not uniquely predict later executive function at either transition](tom-does-not-predict-later-ef.md) — related
 - [EC factor loadings on executive tasks strengthen and stabilize across the preschool period](ec-loadings-strengthen-stabilize-preschool.md) — related
 - [Family income-to-needs at age 3 predicts both EF and ToM through age 5](income-to-needs-predicts-ef-and-tom.md) — related
+- [Executive function at age 3 predicts theory of mind at age 4, controlling for gender, income-to-needs, and receptive language](ef-at-3-predicts-tom-at-4.md) — related

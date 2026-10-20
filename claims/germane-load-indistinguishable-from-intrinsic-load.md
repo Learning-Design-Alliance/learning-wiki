@@ -48,3 +48,6 @@ Theoretical argument in the article's abstract: the author contends that "german
 - [Germane cognitive load was added to the cognitive load framework on theoretical grounds rather than because of empirical results requiring the concept](germane-load-added-on-theoretical-not-empirical-grounds.md) — related
 - [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — reports the opposite
+- [Element interactivity underlies extraneous cognitive load as well as intrinsic cognitive load](element-interactivity-underlies-extraneous-load.md) — related
+- [Intrinsic and extraneous load are distinguished by whether element interactivity is essential to the task or a function of instructional procedures](intrinsic-extraneous-distinction-essential-vs-instructional.md) — related
+- [CDM-AIR declares four falsification conditions, including moderation nullity and context redundancy](cdm-air-falsification-conditions.md) — related

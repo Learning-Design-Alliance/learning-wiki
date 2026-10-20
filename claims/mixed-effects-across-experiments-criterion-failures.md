@@ -67,3 +67,5 @@ In both experiments, instructed students did not apply the three-recall criterio
 - [Instructions increased self-testing and cumulative learning but not study choices or feedback seeking in Experiment 1](instructions-increase-self-testing-cumulative-learning.md) — related
 - [Instructed students allocated more total time to learning, and time was correlated with successful retrieval attempts](instructions-increase-learning-time-allocation.md) — related
 - [In eSpark quests requiring three post-quiz attempts, students reached the 80 percent mastery criterion only 14 percent of the time](espark-post-quiz-mastery-failure-rate.md) — related
+- [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
+- [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related

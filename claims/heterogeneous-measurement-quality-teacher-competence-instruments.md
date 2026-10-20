@@ -49,3 +49,5 @@ Synthesis of prior reviews' measurement-quality conclusions: the review reports 
 - [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md) — a narrower finding that bears on this claim
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — a narrower finding that bears on this claim
+- [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md) — related
+- [Reflective capacity is regarded by many as an essential characteristic of professional competence in the health professions](reflective-capacity-essential-professional-competence.md) — related

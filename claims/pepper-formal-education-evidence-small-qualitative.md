@@ -54,3 +54,4 @@ Scoping review synthesis of 13 peer-reviewed empirical studies on Pepper in form
 - Empirical studies predominate in the corpus but mostly employ small or moderate samples (median 43.0 participants) — related
 - Experimental, quasi-experimental, machine-learning, mixed-methods and survey designs dominate research assessing AI's impact on engagement and satisfaction — related
 - [Special issue findings are soft: small-scale case studies limit generalizability](tad-tel-case-studies-limited-generalizability.md) — related
+- [Research on AI support for EL literacy remains limited, narrow in scope, and lacking for diverse EL subgroups](ai-el-literacy-research-gaps.md) — a broader claim this one bears on

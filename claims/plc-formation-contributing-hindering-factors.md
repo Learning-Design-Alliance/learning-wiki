@@ -64,3 +64,4 @@ Content analysis of project reports identified three hindering categories, illus
 ## Related Claims
 - [The 15 pedagogical innovation projects benefited approximately 1,800 students and produced improvements in problematic aspects of science teaching and learning at UNAL](i3p-science-projects-benefited-1800-students.md) — related
 - [Teams from all three I3P calls functioned as PLCs at the implementation stage, with no statistically significant differences between calls across the five PLC dimensions](i3p-calls-plc-implementation-stage-no-significant-differences.md) — related
+- [Teams consolidated as PLCs regardless of the type of prior connections that formed them, with no significant differences across connection types](plc-consolidation-independent-of-prior-connections.md) — related

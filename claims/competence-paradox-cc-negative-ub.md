@@ -62,3 +62,4 @@ Explanatory qualitative follow-up interviews with 20 purposively selected studen
 - [Exploratory multi-group analyses suggest competence-related paths differ by educational level and gender, with heterogeneity concentrated downstream of intention](mg-sem-competence-paths-subgroups.md) — a narrower finding that bears on this claim
 - [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](metacognition-dual-impact-generative-exploratory-stages.md) — related
+- [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related

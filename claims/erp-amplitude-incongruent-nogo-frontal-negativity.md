@@ -48,3 +48,6 @@ ERP ANOVAs in 27 children with usable EEG data from the combined Flanker-Go/No-G
 - [Number-size/location congruency modulates the cognitive P300 only in blind participants](p300-congruency-modulation-blind-only.md) — related
 - [Metacognitive scaffolding plus executive attention training yields significant increases in the N2 ERP component associated with conflict processing in preschoolers](metacognitive-scaffolding-n2-erp-increase-children.md) — related
 - [Maltreated adolescents show a reversed N2 pattern during go/no go: more pronounced N2 on go trials than no go trials, unlike nonmaltreated adolescents](reversed-n2-pattern-maltreated-adolescents.md) — a narrower finding that bears on this claim
+- [In catch trials, large numbers elicit greater right-hemisphere P300 positivity than small numbers](catch-trial-number-hemisphere-p300.md) — related
+- [Flanker task produces congruency effects in reaction time and accuracy in twelve-year-old children](flanker-congruency-effects-twelve-year-olds.md) — related
+- [Maltreated and nonmaltreated adolescents do not differ in P3 amplitude during the go/no go task](no-group-difference-p3-amplitude-go-no-go.md) — related

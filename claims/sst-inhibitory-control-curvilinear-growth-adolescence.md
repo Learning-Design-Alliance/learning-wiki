@@ -48,3 +48,5 @@ Latent growth curve modeling of three annual Stop Signal Task assessments in a c
 - [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related
 - [Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior](inhibitory-control-growth-rate-unrelated-delinquency.md) — related
 - [Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence](parent-reported-inhibitory-control-no-growth.md) — related
+- [Performance on inhibitory control measures improves with age, with some tasks reaching performance plateaus beginning around 4 years of age](inhibitory-control-performance-improves-plateaus-age-4.md) — related
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related

@@ -47,3 +47,4 @@ Authors' interpretation, attributed to Parker et al. (2006): because antecedents
 - [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md) — related
 - [Children with poorer oral communicative competence experience higher levels of peer rejection after controlling for gender, age, and SES](poorer-communicative-competence-higher-peer-rejection.md) — related
 - [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) — related
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](gender-moderates-competence-acceptance-relation.md) — related

@@ -45,3 +45,5 @@ Cross-sectional survey of 531 undergraduates recruited through two psychology co
 ## Related Claims
 - [AI literacy shows a small positive association with ethical scenario classification accuracy](ai-literacy-small-positive-association-ethical-judgment.md) — related
 - [Students distinguish learning-support GenAI uses from substitutionary uses, with uncertainty highest for minimally modified AI content](learning-support-versus-substitutionary-genai-judgment.md) — related
+- [Each additional correct GLAT response is associated with a 13.9% increase in modeled odds of correctly classifying a scenario](glat-predicts-scenario-accuracy-binomial-model.md) — related
+- [Participants answered the VISIGARP inspection exercises with high accuracy (M = 94.3%)](visigarp-treatment-accuracy.md) — related

@@ -53,3 +53,4 @@ Randomized controlled trial (Bacon, 2001a) with 303 students in grades 9-12 acro
 - [Too Good for Violence produces statistically significant positive effects on elementary students' behavior 20 weeks after the program ends](tgv-significant-behavior-effects-20-weeks.md) — related
 - [Too Good for Drugs shows no discernible effects on student knowledge, attitudes, and values across two randomized controlled trials](too-good-for-drugs-no-discernible-kav-effects.md) — related
 - [Too Good for Drugs has potentially positive effects on student behavior, with a WWC-computed domain average effect size of 0.25 that is not statistically significant](too-good-for-drugs-potentially-positive-behavior-effects.md) — related
+- [WWC improvement indices for Too Good for Violence are +18 percentile points for behavior and +16 for knowledge, attitudes, and values](tgv-improvement-indices-18-16.md) — related

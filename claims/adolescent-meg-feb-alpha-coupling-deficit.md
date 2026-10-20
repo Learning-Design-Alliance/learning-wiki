@@ -48,3 +48,4 @@ The review reports a developmental MEG study of the antisaccade preparatory peri
 - [Impending rewards improve adolescent antisaccade performance toward adult levels, accompanied by greater nucleus accumbens activation](rewards-improve-adolescent-antisaccade-nacc.md) — related
 - [Monkey neurophysiology shows adolescent-to-adult antisaccade improvement reflects enhanced representation of the goal and vector inversion, not stronger filtering of the stimulus](monkey-goal-representation-enhancement-not-filtering.md) — related
 - [Preparatory-period baseline activity before the antisaccade stimulus is higher and ramps faster in adult monkeys and predicts correct trials](preparatory-ramping-predicts-correct-inhibition.md) — related
+- [Acute exercise increases cortical delta, theta, alpha, and beta EEG power, with a moderately large effect size of 0.38 to 0.75 standard deviations](acute-exercise-increases-eeg-band-power.md) — related

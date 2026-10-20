@@ -44,4 +44,6 @@ The report's analysis of New Mexico accountability policy after 2011, when disin
 
 
 ## Related Claims
--
+- [Accountability sanction effects were not consistent across years and outcomes](ayp-effects-inconsistent-across-years-and-outcomes.md) — related
+- [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
+- [Sanction threats tend to raise school spending on instructional technology, curricular development, and teacher training](sanction-threats-raise-instructional-spending.md) — reports the opposite

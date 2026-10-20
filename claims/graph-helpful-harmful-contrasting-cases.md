@@ -62,4 +62,9 @@ Normalized verbal-code differences across P3 and P4 show that with a graph, part
 
 
 ## Related Claims
--
+- [No overall multimedia effect on problem-solving performance in vector calculus: graphs did not significantly improve correctness](no-overall-multimedia-effect-vector-calculus.md) — related
+- [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
+- [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](picture-bias-graphs-confirm-statements.md) — related
+- [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
+- [Graphs drew visual attention away from text: proportion of dwell time on input and problem statement was significantly shorter when a graph was present](graph-attention-away-from-statement.md) — related
+- [Eye fixation data corroborated verbal protocols on the primary representation used (disagreement on only one trial) and revealed additional representations consulted but never mentioned verbally](eye-data-uncovers-unmentioned-representations.md) — related

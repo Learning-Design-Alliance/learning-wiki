@@ -68,3 +68,4 @@ Study 2 general linear mixed model comparing regression coefficients between pre
 - [Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence](domain-specific-self-concept-predicts-judgments.md) — related
 - [Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ](global-judgments-more-trait-driven-than-local.md) — related
 - [Test performance is the strongest predictor of local and global postdicted judgments after test taking](test-performance-strongest-predictor-postdictions.md) — related
+- [Postdictions of performance are typically more accurate than predictions](postdictions-more-accurate-than-predictions.md) — related

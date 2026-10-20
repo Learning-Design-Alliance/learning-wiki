@@ -56,3 +56,5 @@ RQ3 results (Figure 6) for the n=253 experiment: quality_overall, a 0–9 compos
 - [In open-ended writing, both single-generalist and role-specialized duo LLM assistance improved essay quality over no-AI control, with no significant difference between them](llm-writing-quality-single-and-duo-outperform-control.md) — related
 - [LLM-group participants reported low ownership of their essays and fell behind in their ability to quote from essays written minutes earlier](llm-group-low-ownership-poor-quoting-own-essays.md) — related
 - [Participatory design yields teacher ownership but carries tradeoffs and omits the learner](participatory-design-ownership-tradeoffs.md) — related
+- [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — related
+- [The ChatGPT group achieves significantly greater essay score improvement than the other three groups](chatgpt-greater-essay-score-improvement.md) — related

@@ -78,3 +78,10 @@ The review reports this controlled finding in the retention section, alongside e
 - Teacher diversity benefits all students regardless of race or ethnicity, while only about 20% of U.S. teachers are of color — related
 - Tennessee's educator diversity efforts leave two recruitment pathways unfunded: minority serving institutions and teacher academies/dual enrollment — related
 - [UCLA's IMPACT early childhood pathway prepared 50 fully licensed teachers across four cohorts, with 87% retained in the district for at least 3 years](ucla-impact-ece-50-teachers-87-percent-retained.md) — related
+- [Teachers of color disproportionately teach in schools serving more than 75% students of color and more than 75% students from low-income families](teachers-of-color-concentrated-in-underresourced-schools.md) — related
+- [Teacher residency programs enroll a more diverse candidate pool than traditional preparation programs, per a national comparison for 2016–17.](residencies-enroll-more-candidates-of-color.md) — related
+- [Few teachers receive regular mentoring, and early-career teachers of color report less access to mentoring and induction than White peers](limited-mentoring-access-early-career-teachers-of-color.md) — related
+- [Multiple workforce factors contributed to the growth of alternative teacher certification programs](factors-driving-alternative-certification-growth.md) — related
+- [Teachers of color are more likely than White teachers to intend to leave teaching and to actually leave the profession](teachers-of-color-higher-attrition-intent.md) — related
+- [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — related
+- [Alternative certification programs grew to account for about one-third of all new teachers certified annually in the United States](alternative-certification-one-third-new-teachers.md) — related

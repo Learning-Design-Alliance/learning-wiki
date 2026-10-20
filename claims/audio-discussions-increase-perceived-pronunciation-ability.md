@@ -54,3 +54,4 @@ Wilcoxon signed-rank test on self-assessment forms from 36 consenting students i
 - Individual WTC variables (confidence, motivation, perceived performance, anxiety) correlate positively with overall WTC throughout interpersonal audio discussion activities — related
 - [WTC decreases as class size increases on both talk-time and turns of talk](wtc-decreases-as-class-size-increases.md) — related
 - [Resource scarcity and large class sizes limit individualized pronunciation feedback in Bangladeshi classrooms](resource-scarcity-large-classes-limit-pronunciation-feedback.md) — related
+- [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related

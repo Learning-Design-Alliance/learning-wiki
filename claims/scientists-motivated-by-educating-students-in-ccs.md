@@ -44,3 +44,4 @@ The commentary reports, citing Atias et al. (this issue), a study of nine teache
 
 ## Related Claims
 - [Working with statistically messy authentic data in citizen science gave middle school students a window into scientists' world and intense experience with scientific reasoning](messy-radon-data-window-into-scientists-world.md) — related
+- [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md) — related

@@ -48,3 +48,6 @@ Descriptive analysis in the report's background section enumerates challenges of
 - [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](whole-person-initiatives-fragmented-siloes-fail.md) — related
 - [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
 - Child care providers interviewed during COVID-19 identified four key challenge areas: accessing funding, supporting health and safety, connecting supply and demand, and retaining workers — related
+- [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — a narrower finding that bears on this claim
+- [Structural barriers — fragmented health systems, insufficient reimbursement and workforce shortages — constrain integration of psychological care in diabetes services](structural-barriers-psychological-care-integration.md) — related
+- [California's ECE system is a fragmented patchwork of programs accountable to multiple uncoordinated agencies](california-ece-fragmented-multi-agency-patchwork.md) — related

@@ -44,3 +44,6 @@ In the multilevel analyses of survey and test data from 193,073 15-year-old stud
 
 ## Related Claims
 - [SOBAS differs across attributes of countries, families, schools, teachers, and students in 41 countries](sobas-varies-across-country-family-school-teacher-student-attributes.md) — a broader claim this one bears on
+- [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — related
+- [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](egalitarian-cultures-higher-sobas.md) — related
+- [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — related

@@ -50,3 +50,6 @@ The review reports, citing Fong Lam et al. (2015), that "emotions, specifically 
 - [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — related
+- [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — related
+- [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](belonging-mediates-identity-achievement.md) — related

@@ -68,3 +68,4 @@ The review attributes this stakes-moderation finding to Freele et al. (2025): hi
 - [The tool's effect differs by timing: early AI acts as a momentum starter, later AI as a deepener raising narrative transportation](ai-scaffolding-effect-depends-on-workflow-timing.md) — related
 - [Self-reported LLM usage collapses at the first team milestone and recovers only partially on later coding-heavy team tasks](llm-usage-collapses-at-team-onset-partial-recovery.md) — related
 - [Longitudinal studies of trust and reliance in AI advice examine whether users rely appropriately over time but not whether independent reasoning capacity is maintained](longitudinal-trust-studies-omit-skill-outcomes.md) — related
+- [Role ambiguity for a Black-accented agent destabilized trust, culminating in breakdown after the agent inaccurately tracked group decisions](role-ambiguity-black-accent-trust-breakdown.md) — related

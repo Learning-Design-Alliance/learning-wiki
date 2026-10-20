@@ -48,3 +48,6 @@ The article's opening conceptual assertion, stated without empirical data or sup
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
 - [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
 - [Providing all students with instant personalised guidance at the same time is a challenge for flipped learning that ChatGPT-FLGA was designed to address](flipped-learning-personalised-guidance-gap.md) — related
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — possibly the same claim (merge candidate)
+- [Classroom events occur at different time scales requiring different modes of cognition](time-scales-require-different-modes-of-cognition.md) — related

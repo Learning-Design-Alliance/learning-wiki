@@ -47,3 +47,4 @@ Skipping-behavior analysis across the first four cycles of the skipping-permitte
 - [Final recall does not differ reliably between participant-controlled and computer-controlled feedback skipping](participant-computer-controller-no-recall-difference.md) — related
 - [Participants' willingness to skip feedback after correct responses increases substantially across retrieval-practice cycles](skipping-after-correct-increases-across-cycles.md) — related
 - [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](skipping-feedback-fixed-time-improves-recall.md) — related
+- [The opt-out and curiosity–accuracy findings replicate in a larger UK sample (Experiment 3A)](opt-out-curiosity-findings-replicate-uk-sample.md) — related

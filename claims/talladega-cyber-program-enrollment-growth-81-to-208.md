@@ -46,3 +46,4 @@ Program documentation for one district's expansion; Figure 4 reports participati
 - [Alabama's cybersecurity labor market shows sustained demand, with about 18,778 professionals employed and 8,373 new job openings posted in 2024](alabama-cybersecurity-demand-18778-employed-8373-openings.md) — related
 - [The United States faces a cybersecurity workforce shortage, with information security analyst positions projected to grow 33% from 2023 to 2033](cybersecurity-analyst-jobs-projected-grow-33-percent.md) — related
 - [The national Cybersecurity Pathways Initiative enrolled more than 700 students across 10 districts in its first pathway year](national-cyber-pathways-initiative-700-students-10-districts.md) — related
+- [Talladega County Schools' graduation rate rose from just above 70 percent in 2008 to 93 percent after its transition to project-based learning supported by digital technologies](talladega-graduation-rate-70-to-93-pbl-digital.md) — related

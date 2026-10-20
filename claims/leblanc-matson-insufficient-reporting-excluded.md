@@ -48,3 +48,4 @@ Randomized trial in a preschool for children with developmental delays (16 inter
 ## Related Claims
 - [In Ferentino (1991), social skills training produced a large significant effect on teacher-rated Vineland Socialization but not on four other social-emotional measures](ferentino-vabs-c-socialization-significant-effect.md) — related
 - [Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) — a broader claim this one bears on
+- [Social skills training shows no discernible effects on cognition for preschool children with disabilities](social-skills-training-no-discernible-cognition-effects.md) — related

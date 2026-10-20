@@ -46,3 +46,6 @@ Secondary supplementary analysis testing professional learning as a moderator of
 - [Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust](ai-literacy-does-not-moderate-mediation-pathways.md) — related
 - [Perceived AI literacy does not significantly moderate the direct association between AI dependence and self-reported creativity](ai-literacy-no-moderation-direct-association.md) — related
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
+- [The within-teacher demand–AI-use association differs sharply across tasks, with only a modest positive planning gradient](demand-ai-allocation-association-task-contingent.md) — related
+- [Among AI-using teachers, tasks experienced as relatively more demanding are more likely to be AI-supported overall](task-relative-demand-predicts-task-specific-ai-use.md) — related
+- [Overall demand–AI-use alignment varies modestly across education systems, but task-specific association profiles show clear residual heterogeneity](cross-system-heterogeneity-task-specific-ai-profiles.md) — related

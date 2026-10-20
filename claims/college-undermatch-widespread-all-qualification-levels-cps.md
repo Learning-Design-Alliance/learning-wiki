@@ -51,3 +51,8 @@ Descriptive cross-tabulation (Table 2, N=4,317) comparing students' college acce
 - [Nearly two-thirds of graduates from academically advanced programs graduate with access to a selective or very selective four-year college](cps-advanced-programs-two-thirds-selective-qualified.md) — related
 - Among students eligible for highly selective institutions, about 60 percent of low-income students undermatch versus 27 percent of the highest-income students — related
 - Nearly half (49.6 percent) of low-income students under-match into colleges less selective than their credentials warrant, and under-matched students are substantially less likely to graduate — related
+- [Only CPS graduates with access to very selective colleges (above 3.3 GPA and ACT 26+) have four-year college graduation prospects exceeding 50 percent](high-qualifications-needed-for-majority-graduation-odds.md) — related
+- [One-fifth of students in academically advanced programs do not apply to any four-year college](cps-advanced-programs-one-fifth-no-four-year-application.md) — related
+- [CPS neighborhood IB DP students were 40 percent more likely to attend a four-year college and 50 percent more likely to attend a more selective college than a matched comparison group](ib-dp-increases-four-year-and-selective-college-enrollment.md) — related
+- [Even highly qualified students need strong parental support combined with structured school support to conduct an effective college search and enroll in a matched college](parental-and-structured-school-support-college-search.md) — related
+- [The modal post-graduation outcome for CPS graduates with very low college qualifications is neither working nor in school](low-qualification-graduates-out-of-options.md) — related

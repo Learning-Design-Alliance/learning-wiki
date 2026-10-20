@@ -61,3 +61,8 @@ ANCOVA on coded justification quality (number of relevant aspects mentioned; int
 - [Germane cognitive load fully mediates the effect of information-search tool on justification quality (exploratory analysis)](germane-load-mediates-tool-effect-on-justification-quality.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — a broader claim this one bears on
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
+- [Undergraduate students’ genAI knowledge contains specific confident misconceptions, most prevalently that AI chatbots perform web searches](genai-misconceptions-web-search-item.md) — related
+- [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
+- [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](training-impact-higher-evaluation-than-search.md) — related
+- [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related

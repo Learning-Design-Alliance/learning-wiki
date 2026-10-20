@@ -86,3 +86,4 @@ Analysis of individual standard deviations of reaction times showed "higher vari
 - [Executive-control tasks discriminate old performance groups while speed, attention and memory tests show less consistent or no differences](executive-control-tasks-discriminate-old-groups.md) — related
 - [Old high performers reach a Stroop performance level comparable to middle-aged or even young adults](old-high-performers-comparable-middle-aged-young.md) — a narrower finding that bears on this claim
 - [Low working memory span individuals are more affected by Stroop task lapses and report more task-related mind-wandering](low-span-staying-on-task-deficits.md) — related
+- [High performance in old age is associated with higher education, foreign language use and IQ, but not physical activity or personality](high-performance-linked-education-language-iq.md) — related

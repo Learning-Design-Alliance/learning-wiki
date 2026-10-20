@@ -49,3 +49,4 @@ Historical argument citing Graham (1993) and Au (2007) about Cold War-era transl
 - [Within sociocultural theory, teacher feedback and AI-assisted peer feedback function as heterogeneous scaffolds with distinct natures and complementary advantages](heterogeneous-scaffolds-sct-framework.md) — related
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
+- [The article connects its treatment of scaffolding to Vygotsky's theory, as indicated by its own keyword metadata](pea-2004-scaffolding-grounds-vygotsky-theory.md) — related

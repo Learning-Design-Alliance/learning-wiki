@@ -53,3 +53,7 @@ Observational analysis of MAP Growth data across 2,000 US school districts exami
 - [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — possibly the same claim (merge candidate)
 - [Districts are collecting, monitoring, reporting and learning from unprecedented COVID-recovery interventions, with more than 40 state plans approved](districts-monitor-esser-interventions-40-state-plans.md) — related
 - Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements — related
+- [In spring 2025, math recovery continued while reading remained stalled](math-recovery-continues-reading-stalled-spring-2025.md) — related
+- [Post-COVID school recovery varies across schools in both the size of initial achievement declines and the size of subsequent gains](post-covid-recovery-diverges-across-schools.md) — a broader claim this one bears on
+- [The “From loss to recovery” brief examines two components of school recovery post-COVID to understand diverging recovery patterns across schools](two-components-post-covid-school-recovery-patterns.md) — a broader claim this one bears on
+- [Asthma linked to poor indoor air quality is a causal chain from facilities to chronic absenteeism and lower achievement](asthma-iaq-absenteeism-causal-chain.md) — related

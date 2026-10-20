@@ -68,3 +68,5 @@ Nationally representative Schools and Staffing Survey (2011–12) analysis: "und
 - Black students in Louisiana are disproportionately in schools with high percentages of novice and uncertified teachers — related
 - California students in low-SES schools are about ten times as likely as students in high-SES schools to be taught by uncertified teachers — related
 - [Minority teachers are disproportionately employed in high-poverty, high-minority, urban public schools](minority-teachers-disproportionately-in-hard-to-staff-schools.md) — related
+- [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related
+- [Across rural, suburban, and urban locales, schools with high student of color enrollment have higher percentages of uncertified teachers than schools with low enrollment](uncertified-teacher-inequity-across-locales.md) — related

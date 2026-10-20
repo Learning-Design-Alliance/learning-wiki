@@ -45,3 +45,6 @@ Experiment 2 with 110 second-year secondary students randomized to no feedback, 
 ## Related Claims
 
 - [In Experiment 2, mental effort over time interacted with condition: the feedback + contrast condition increased effort from learning to test phase while other conditions decreased](exp2-mental-effort-condition-interaction.md)
+- [In Experiment 1, task-selection accuracy during the no-feedback test phase did not differ between feedback and control conditions](exp1-test-phase-task-selection-null.md) — related
+- [Across both experiments, self-assessment feedback failed to improve self-assessment accuracy in the absence of feedback, and learners' self-assessments did not track practice-driven performance gains](self-assessment-feedback-no-benefit-absence-of-feedback.md) — a broader claim this one bears on
+- [In Experiment 2, task-selection accuracy during the learning phase did not differ between feedback and control conditions, unlike Experiment 1](exp2-learning-phase-task-selection-null.md) — related

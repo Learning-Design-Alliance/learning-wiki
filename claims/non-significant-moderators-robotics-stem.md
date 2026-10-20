@@ -47,3 +47,6 @@ Omnibus moderator tests in the multilevel model for the seven remaining categori
 - [Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall](duration-over-one-month-largest-robotics-effect.md) — related
 - [Educational robotics has a moderate-to-large effect on students' STEM learning performance](educational-robotics-effect-learning-performance.md) — related
 - [Educational robotics has a moderate positive overall effect on K-16 students' STEM learning compared to non-robotics instruction](educational-robotics-moderate-overall-effect-stem-learning.md) — related
+- [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
+- [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
+- [Spatial ability interventions have increased STEM performance and retention, but a causal effect remains categorically unestablished](spatial-interventions-gains-causal-gap.md) — related

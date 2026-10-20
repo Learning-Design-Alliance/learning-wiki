@@ -48,3 +48,5 @@ Cross-sectional correlational analysis in the LitCog study of 882 English-speaki
 - [Poorer past cognitive functioning (measured 10 years earlier) is associated with low health literacy in older adults](poorer-past-cognition-associated-low-health-literacy.md) — related
 - [Poorer current cognitive functioning in all domains is associated with low health literacy in older adults](poorer-current-cognition-associated-low-health-literacy-older-adults.md) — related
 - [Participants with low health literacy had poorer cognitive functioning in all domains and were more often (very) low-educated](low-health-literacy-participants-older-lower-educated-poorer-cognition.md) — related
+- [Measures of everyday functioning and independent living correlate with psychometric cognition, with stronger relations for fluid reasoning than for crystallized knowledge](fluid-cognition-predicts-independent-living.md) — related
+- [Common health literacy measures largely detect individual differences in cognitive abilities](health-literacy-measures-detect-cognitive-ability-differences.md) — possibly the same claim (merge candidate)

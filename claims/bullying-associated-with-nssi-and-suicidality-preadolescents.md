@@ -47,3 +47,10 @@ Cross-sectional analysis of 11,015 ABCD Study children aged 9–10 using caregiv
 
 ## Related Claims
 - [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](bullying-nssi-suicidality-compounded-outcomes.md) — related
+- [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related
+- [Bullied preadolescent children have poorer academic grades than non-bullied peers](bullying-associated-with-poorer-academic-grades.md) — related
+- [Boys are more likely than girls to be reported as bullied in preadolescence](boys-more-likely-bullied-than-girls-preadolescent.md) — related
+- [Bullied preadolescents have larger right hippocampal volumes than matched non-bullied peers, but this does not mediate cognition](bullying-larger-right-hippocampus-no-cognitive-mediation.md) — related
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — related
+- [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — related
+- [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md) — related

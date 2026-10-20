@@ -49,3 +49,6 @@ Same multiple regression (N = 478). The MSLQ help-seeking subscale measures gene
 - [In association-rule mining of survey data from 530 college students in online courses, goal setting, environment structuring and time management were the strategies most often associated with lower digital distraction](srl-strategies-associated-lower-digital-distraction.md) — related
 - [Cognitive offloading to generative AI is associated with reduced learner engagement, lower critical thinking, and lower-quality reasoning](cognitive-offloading-reduces-engagement-critical-thinking.md) — related
 - [The eight-predictor model explains 27.3% of variance in AI dependency, and multidimensional AI literacy adds explanatory value over a single aggregate score](multidimensional-ai-literacy-model-explains-27-percent-dependency-variance.md)
+- [Both academic self-efficacy and AI self-efficacy are negatively associated with reported AI dependency, supporting a unified compensatory mechanism](self-efficacy-negatively-predicts-ai-dependency.md) — related
+- [Help seeking negatively predicts goal attainment in MOOCs](help-seeking-negative-predictor-mooc-goal-attainment.md) — related
+- [Students report peer support and distraction as effective coping, rarely self-regulation or professional help-seeking](students-prefer-peer-support-diversion-over-professional-help.md) — related

@@ -52,3 +52,4 @@ Pearson correlations with the Youth Life Stress Interview (controlling for SES) 
 - [Stress-exposed adolescents show abnormal neural activation in learning- and attention-related regions](early-stress-abnormal-learning-neural-activation.md) — related
 - [Group differences in learning are more pronounced during reversal than acquisition](reversal-deficit-exceeds-acquisition-deficit.md) — related
 - [Reward prediction errors are positively correlated with putamen, vmPFC, amygdala and posterior cingulate and anticorrelated with aIns, dmPFC and dlPFC](rpe-network-positive-and-anticorrelated-regions.md) — related
+- [Stress-exposed adolescents fail to follow the optimal exploratory strategy of initial indiscriminate responding](early-stress-reduced-exploration-learning-task.md) — related

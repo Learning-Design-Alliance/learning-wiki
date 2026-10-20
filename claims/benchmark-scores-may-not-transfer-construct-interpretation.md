@@ -45,3 +45,4 @@ Authors' interpretation (Discussion) of the two case studies' congruence and loa
 ## Related Claims
 - [Traditional end-of-passage assessment formats may inadvertently measure extraneous constructs such as working memory, attention, and language](end-of-passage-format-measures-extraneous-constructs.md) — related
 - [Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts](automated-generation-enables-longitudinal-hdr-assessment.md) — related
+- [Surface Formatting Changes Shift LLM Grades, With No Consistent Penalty Detected](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — related

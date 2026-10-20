@@ -96,3 +96,5 @@ The paper reports this secondhand, citing Wong and Qiu (2026): university studen
 - [ChatGPT sustains coherent, human-like multi-topic conversation and produces convincing creative content, as shown by the authors' own prompting test](chatgpt-interactive-conversational-capability.md) — related
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
+- [AI-assisted performance during skill-building does not transfer to subsequent unassisted performance](ai-assisted-performance-no-unassisted-transfer.md) — a broader claim this one bears on
+- [Primary studies report possible benefits of GenAI for children's divergent thinking, narrative creativity and creative self-efficacy, without confirmed efficacy](genai-possible-benefits-children-creative-thinking.md) — related

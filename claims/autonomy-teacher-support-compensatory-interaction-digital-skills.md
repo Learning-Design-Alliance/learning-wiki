@@ -50,3 +50,6 @@ Observational interaction analysis of school autonomy and teacher support in rel
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
 - Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related
 - [Digital skills are the only consistently positive predictor of ICT career aspiration growth, while teacher support and autonomy show negative standardized associations](digital-skills-only-consistent-positive-predictor-ict-aspirations.md) — related
+- [Learning environment indicators only moderately discriminate between countries with high versus low ICT aspiration growth, with digital skills the strongest discriminant](lda-moderate-discrimination-ict-aspiration-growth.md) — related
+- [Simulated one-standard-deviation increases in autonomy yield only modest predicted changes in ICT career aspirations](counterfactual-autonomy-increase-modest-ict-aspiration-effect.md) — related
+- [Teacher autonomy for AI decision-making varies sharply across national contexts](teacher-autonomy-ai-varies-nationally.md) — related

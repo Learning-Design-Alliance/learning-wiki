@@ -45,3 +45,4 @@ The article states as its motivating gap that "there is currently a lack of cons
 ## Related Claims
 - [Substantial variability exists in the specific components used across self-management interventions despite established effectiveness](self-management-component-variability-remains.md) — related
 - [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related
+- [Self-monitoring interventions produce strong effects for students with ASD across behavioral targets and school settings (overall Tau-U = .83)](self-monitoring-strong-effects-asd-tau-u-083.md) — related

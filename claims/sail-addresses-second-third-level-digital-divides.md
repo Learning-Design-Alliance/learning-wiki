@@ -47,3 +47,4 @@ Authors' design rationale in the equity discussion section, not an empirical tes
 - [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
 - [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — a broader claim this one bears on
 - [A three-round Delphi study with 17 experts from education, industry, and cultural expertise produced the SAIL AI literacy framework](sail-framework-produced-by-three-round-delphi-study.md) — a broader claim this one bears on
+- [Do-it-yourself digital learning alone can exacerbate digital inequalities because learners hit a wall requiring direct guided instruction](diy-digital-learning-hits-wall.md) — related

@@ -46,3 +46,4 @@ Count from the report's document review of 33 state guidance documents. The same
 - [Most states' AI evaluation guidance is exploratory, and only a handful describe systematic, student outcomes-based evaluation](states-ai-evaluation-mostly-exploratory.md) — related
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](student-voice-tenet-sustained-educator-practice.md) — related
+- [Adult learners emphasize human-in-the-loop AI design that keeps final learning decisions with learners and instructors](human-in-the-loop-ai-design-pf.md) — related

@@ -49,3 +49,5 @@ In the qualitative interview study, officials cited the 2020 closure of the Acad
 - [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
 - [Key officials report that Rhode Island's new charter performance framework reduced political interference through standardized, transparent data and consistent processes](ri-charter-framework-reduced-political-interference.md) — related
 - [Academic impacts of closures hinge on the quality of receiving schools, and fewer than half of displaced students transfer to higher-performing schools](receiving-school-quality-moderates-closure-impacts.md) — related
+- [Interpreting differences in school-aggregate test scores as real differences in school performance raises accuracy concerns even under routine schooling conditions, which the pandemic may exacerbate](aggregate-score-interpretation-accuracy-concerns.md) — related
+- [Schooling's mix of public and private purposes requires accountability to multiple constituencies](school-accountability-multiple-constituencies.md) — related

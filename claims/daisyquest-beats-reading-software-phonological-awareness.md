@@ -52,3 +52,5 @@ Randomized comparison of 49 at-risk first graders assigned to DaisyQuest, Hint a
 - [DaisyQuest improved phonological awareness over regular kindergarten curriculum on three of four measures](daisyquest-kindergarten-significant-gains.md) — related
 - [The WWC rated DaisyQuest as having positive effects on phonological processing, its highest applicable rating](wwc-positive-effects-rating-daisyquest.md) — related
 - [In Lonigan et al. (2003), DaisyQuest effects were statistically significant on four of eight phonological processing outcomes and not significant on the others](lonigan-2003-significant-four-of-eight-outcomes.md) — related
+- [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — reports the opposite
+- [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](daisyquest-positive-effects-alphabetics.md) — a broader claim this one bears on

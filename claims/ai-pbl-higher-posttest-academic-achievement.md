@@ -66,3 +66,6 @@ Simple main effects follow-up from the same ANCOVA study reported in the Results
 - [AI-PBL students achieve high normalized learning gains (g = 0.73) in computational thinking and academic achievement while control students record low gains (g ≤ 0.20)](ai-pbl-high-ngain-versus-control-low.md) — related
 - [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - [Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement](gender-does-not-moderate-ai-pbl-effects.md) — related
+- [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — a broader claim this one bears on
+- [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related
+- [Student engagement is higher during PBL than during traditional instruction](pbl-engagement-higher-than-traditional.md) — related

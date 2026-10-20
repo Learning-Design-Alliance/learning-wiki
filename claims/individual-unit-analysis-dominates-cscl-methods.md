@@ -44,3 +44,5 @@ The editorial reports, citing Jeong et al. (2014) and Tee & Lee (2013), that met
 
 ## Related Claims
 - [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) — related
+- [Documented CSCL empirical corpus 2005–2009 relies mostly on questionnaires and code-and-count, not post-cognitive group-process approaches](cscl-2005-2009-corpus-questionnaire-code-and-count-dominance.md) — related
+- [Between 2005 and 2009 only around 11% of CSCL papers were underpinned by information processing theory, while constructivism (33%), socio-cultural theories (25%) and social psychology (15%) were most popular](cscl-theoretical-framework-distribution-2005-2009.md) — related

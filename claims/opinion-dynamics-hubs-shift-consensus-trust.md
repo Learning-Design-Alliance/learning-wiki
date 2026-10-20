@@ -45,3 +45,4 @@ Same boundary experiment under experience-based learning, where neighbors' outco
 ## Related Claims
 - [Social Learning Consensus Not Aggregate Overreliance](social-learning-consensus-not-aggregate-overreliance.md)
 - [In the agent-based model, task difficulty and AI quality set the baseline level of overreliance, with difficulty the dominant global factor](simulation-task-difficulty-ai-quality-set-overreliance-baseline.md) — related
+- [In the model, visible unverified peer use (social proof) suppresses verification and tips the population into collective overreliance, via a smooth crossover with no hysteresis](social-proof-verification-collapse-cascade.md) — related

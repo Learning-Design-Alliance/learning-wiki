@@ -46,3 +46,5 @@ The same survey experiment reports an effect on selection behavior: demographics
 - [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related
 - [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — related
 - [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — possibly the same claim (merge candidate)
+- [School status matters more than achievement to parents when evaluating school quality](status-matters-more-than-achievement-quality-evaluation.md) — related

@@ -48,3 +48,8 @@ Qualitative thematic analysis of 30-minute semi-structured interviews with 10 ra
 - [Students remained cautious about relying on GenAI throughout the creative process, citing imperfect outputs and perceived loss of ownership](student-cautions-genai-ownership-and-output-quality.md) — related
 - [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — related
 - [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
+- [Students express concerns about GenAI, with non-users (never/rarely) significantly more concerned than other users, and concerns uncorrelated with knowledge](genai-concerns-nonusers-differ.md) — related
+- [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related
+- [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related
+- [Experimental-group students detected AI errors and enacted verification and ethical self-regulation as routine practices](verification-routines-ethical-self-regulation.md) — related
+- [GAI-assisted DST creation produced significantly higher collaborative problem-solving skills than traditional methods among university students](gai-assisted-dst-improves-cps-skills.md) — related

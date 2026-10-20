@@ -52,3 +52,5 @@ Subgroup comparison within the 155-respondent survey between 113 classroom teach
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — related
 - [Districts prioritize the Science of Reading but implementation varies due to competing initiatives and inconsistent EL support](sor-priority-uneven-implementation-genai-context.md) — related
 - [OpenSciEd classrooms showed greater science achievement growth than non-OpenSciEd classrooms in one district comparison](open-scied-greater-science-growth-single-district.md) — related
+- [Disconnected educator data systems are a common implementation challenge; a unified talent data system can generate prioritization insights](unified-talent-data-system-generates-prioritization-insights.md) — related
+- [Most surveyed teachers make small customizations to OpenSciEd materials often or daily, commonly to shorten lessons, increase engagement, support prior knowledge and increase relevance](teacher-customizations-storyline-curriculum.md) — related

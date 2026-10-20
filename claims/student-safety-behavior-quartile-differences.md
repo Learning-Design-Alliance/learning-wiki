@@ -87,3 +87,4 @@ Summary comparison of the Student Classroom Behavior scale, which asked students
 - [Students feel safest in classrooms and least safe in areas just outside the school, with safety tracking the level of adult supervision](adult-supervision-safety-gradient.md) — related
 - [Most students, even in bottom quartile schools, report feeling mostly safe at school](student-safety-high-even-bottom-quartile-schools.md) — related
 - Chicago students feel safest in classrooms and least safe outside around school, where about two-thirds feel uneasy — related
+- [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related

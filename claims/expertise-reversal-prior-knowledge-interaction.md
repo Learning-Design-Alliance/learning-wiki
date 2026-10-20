@@ -55,3 +55,5 @@ Narrative review of the expertise reversal literature. The review states that in
 - Within cognitive load theory, the element interactivity and expertise reversal effects are usually not treated as closely related effects — related
 - [Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used](self-management-ebd-intervention-type-es.md) — related
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — a narrower finding that bears on this claim
+- [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — possibly the same claim (merge candidate)
+- [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related

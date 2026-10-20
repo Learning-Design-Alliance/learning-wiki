@@ -46,3 +46,6 @@ The field note's discussion of the fairness component states that in practice th
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related
 - [AI is currently not best practice for competency-based micro-credential assessment; human assessors remain indispensable](ai-not-best-practice-competency-based-assessment.md) — related
+- [Model accuracy of vision-based proctoring systems can vary across demographics, lighting conditions, and hardware setups, potentially disadvantaging some students](proctoring-accuracy-demographic-bias.md) — a narrower finding that bears on this claim
+- [AI-detection tools produce inequitable outcomes, disadvantaging non-native English speakers through false positives](ai-detection-tools-inequitable-false-positives.md) — a narrower finding that bears on this claim
+- [Post-hoc fairness interventions on a vendor-controlled EWS redistributed disparities across demographic groups without consistently reducing them](six-posthoc-interventions-redistribute-disparities.md) — related

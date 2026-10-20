@@ -50,3 +50,4 @@ The summary names "a mission that prioritizes boosting student achievement" amon
 - [Long school days or years are among the policies most consistently associated with positive charter-school impacts](long-school-days-years-charter-impacts.md) — related
 - [Long school days or years, comprehensive behavioral policies with rewards and sanctions, and an achievement-focused mission are most strongly associated with charter school success](extended-time-behavior-policies-mission-associated-charter-success.md) — a broader claim this one bears on
 - [The evaluation examined charter school effects by years of operation, grades served, mission, and demographics, plus student composition and turnover](philadelphia-charter-evaluation-multiple-moderators.md) — related
+- [Democracy Prep charter schools increase students' voting rates by about 12 percentage points in the 2016 election](democracy-prep-increases-voting-rates-12-points.md) — related

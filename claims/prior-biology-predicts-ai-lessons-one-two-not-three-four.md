@@ -50,3 +50,4 @@ Per-lesson multiple regressions on worksheet fill-in-blank scores. Lesson 1: F(1
 - [Post-test biology knowledge and pre-test AI knowledge significantly predicted post-test AI knowledge](biology-and-prior-ai-predict-post-ai-knowledge.md) — related
 - [Students who transferred prior-domain knowledge tended to offer correct explanations in the other domain](transfer-associated-with-correct-cross-domain-explanations.md) — related
 - [Prior attainment predicted several dialogue variables in preliminary regression analyses](prior-attainment-predicts-dialogue-frequencies.md)
+- [Students' overall AI knowledge improved significantly after four integrated AI-biology lessons](ai-knowledge-significant-gain-integrated-biology-lessons.md) — related

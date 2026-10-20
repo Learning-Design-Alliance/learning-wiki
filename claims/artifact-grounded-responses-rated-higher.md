@@ -66,3 +66,4 @@ In the same paired rating study, accuracy showed no statistically significant di
 - [Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics grounded in student data and expert knowledge](ai-interaction-competencies-observable-scorable.md) — related
 - [LLM-generated misconceptions grounded in quiz content, response patterns, and lecture transcripts are rated excellent by subject matter experts](llm-misconceptions-rated-excellent-by-experts.md) — related
 - [MAIC's script generation function outscores baseline and human script generation on five Likert-rated dimensions](maic-funcgen-outperforms-baselines.md) — related
+- [Research-question responses score higher Answer Relevancy (0.87) than follow-ups (0.72), while Faithfulness, Context Relevance and Response Groundedness are lower](rq-higher-relevancy-lower-grounding.md) — related

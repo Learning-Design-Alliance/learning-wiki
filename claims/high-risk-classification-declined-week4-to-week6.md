@@ -44,3 +44,5 @@ Descriptive reporting from the participant section of the trial with 30 opted-in
 
 ## Related Claims
 - [Students reported that the dashboard boosted learning motivation and that predictive and prescriptive insights were beneficial to their learning](sensenablr-boosted-motivation-perceptions.md) — related
+- [At-risk students reported general satisfaction with the relational feedback intervention, and most respondents preferred it more frequently than twice per semester](at-risk-students-satisfied-prefer-frequent-feedback.md) — related
+- [Student engagement with LMS learning technologies and course resources increased significantly immediately following interactions with the SensEnablr dashboard](sensenablr-increased-student-engagement.md) — related

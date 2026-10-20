@@ -46,3 +46,4 @@ CFA of the PISA student data, where classroom management items describe specific
 
 - [Student-reported mathematics instructional quality in pooled PISA 2012 data has five dimensions: teacher support, cognitive activation, classroom disciplinary climate, classroom management, and student-orientated instruction](student-five-dimensions-math-iq-pisa.md)
 - [A higher-order general instructional quality factor fits the student data in all seven countries but does not hold for teacher data](higher-order-general-factor-student-only.md)
+- [Teacher-reported mathematics instructional quality in pooled TALIS 2013 data from seven countries has three dimensions: classroom disciplinary climate, teacher support, and cognitive activation](teacher-three-dimensions-math-iq-talis.md) — related

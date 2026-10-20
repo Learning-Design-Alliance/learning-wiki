@@ -50,3 +50,4 @@ Survey-reported staffing needs across expansion years (Figure 5). The report als
 - Growth in TK teacher demand is projected to be non-linear, with the sharpest increases in 2023–24 and 2025–26 — related
 - [California LEAs reported sufficient fully qualified TK lead teachers in 2022–23 but high second-adult vacancies, and projected needing 1,489 more TK lead teachers and 962 more aides in 2023–24](tk-workforce-lead-sufficiency-aide-vacancies.md) — related
 - [California LEAs reported sufficient classroom space for projected UPK enrollment overall, yet facilities were the most cited implementation challenge, followed by staffing and sustainable funding](upk-facilities-staffing-funding-challenges.md) — related
+- [Approximately four fifths of LEAs reported not having enough qualified staff to teach TK](tk-teacher-shortage-four-fifths.md) — related

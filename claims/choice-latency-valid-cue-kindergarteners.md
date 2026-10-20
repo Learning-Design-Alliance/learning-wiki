@@ -46,3 +46,4 @@ Multilevel analysis of within-person Gamma correlations between choice latency a
 - [Kindergarteners spontaneously use choice latency as a cue for confidence judgments, with shorter latencies linked to higher confidence](kindergarteners-use-choice-latency-cue-utilization.md) — related
 - [Physical neglect exposure is associated with prolonged latency for correct responses in the Pattern Recognition Memory test in healthy adults](physical-neglect-pattern-recognition-latency.md) — related
 - [Feedback training did not change children's cue utilization despite repeated metacognitive experiences](feedback-training-did-not-change-cue-utilization.md) — related
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related

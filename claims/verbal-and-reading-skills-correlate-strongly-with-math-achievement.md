@@ -47,3 +47,6 @@ The authors offer several explanations, untested here: common causes such as int
 ## Related Claims
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
+- [Spatial ability correlates moderately with mathematics achievement (r = .25), less strongly than verbal ability](spatial-ability-correlates-moderately-with-math-achievement.md) — related
+- [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related
+- [Math Reasoning is more strongly correlated with reading comprehension than Numerical Operations is, and the two math measures are highly correlated](mr-reading-correlation-stronger-than-no.md) — related

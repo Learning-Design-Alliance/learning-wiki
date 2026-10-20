@@ -45,3 +45,7 @@ Authors' interpretation (type e) in the editorial's discussion of Ritella & Hakk
 ## Related Claims
 - [Four changes in CSCL over thirty years include mainstream collaborative pedagogies, collaboration technology becoming infrastructure, changed definitions of learning, and collaboration changing scale](four-changes-cscl-evolution.md) — related
 - [Belonging-related theories are underutilized in educational practice, partly because translating theoretical concepts into implementable strategies is difficult](belonging-theory-practice-gap.md) — a narrower finding that bears on this claim
+- [The three major theories of artifact-people interaction operate at different levels: affordances individual, structuration societal, instrumental genesis small-group](three-theories-artifact-levels-comparison.md) — related
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — a broader claim this one bears on
+- [Institutional approval processes, privacy regulations, technology access, and limited classroom time constrained chatbot adoption beyond instructional value](institutional-privacy-practical-barriers-chatbot-adoption.md) — related
+- [Development of collaborative classrooms and effective CSCL curriculum is a multi-year, multi-iteration process requiring sustained institutional commitment](cscl-teacher-development-multi-year-multi-iteration.md) — related

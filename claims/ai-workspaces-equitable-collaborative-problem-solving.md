@@ -51,3 +51,5 @@ Focus group participants discussed collaborative workspaces (e.g., Notion, Miro,
 - [Adult learners perceive conversational AI as thinking partners that support problem exploration without direct instruction](ai-thinking-partners-support-problem-exploration.md) — related
 - [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
 - [Combined Trainer and Synthesizer use is expected to support speaking development and more equitable participation over time](combined-genai-expected-speaking-gains-equity.md) — related
+- [Educators who implemented FH2T through partner or group work perceived it promoted peer collaboration and mathematical discussion](fh2t-promoted-peer-collaboration-discussion.md) — related
+- [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related

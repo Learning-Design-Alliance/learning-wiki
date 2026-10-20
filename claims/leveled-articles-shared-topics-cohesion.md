@@ -47,3 +47,4 @@ Teacher interview comment illustrating finding passages on the same topic (water
 - [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related
 - Extensive reading yields affective benefits: positive attitudes, motivation, confidence, and reduced anxiety, with difficult texts raising anxiety — related
 - [Teachers reacted unanimously positively to new audio supports on the ReadWorks platform and offered them to all students, not only struggling readers](teachers-positive-reactions-readworks-audio-supports.md) — related
+- [In the district study, teachers assigned articles above students' STAR Lexile levels (about 375 points higher on average), and greater STAR growth related to completing more, harder, and more accurate ReadWorks assignments](readworks-assignment-difficulty-growth-association.md) — related

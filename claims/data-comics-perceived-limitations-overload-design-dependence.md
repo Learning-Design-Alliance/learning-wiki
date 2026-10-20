@@ -46,3 +46,4 @@ Thematic analysis of the same open-ended responses (kappa 0.81 for limitations) 
 ## Related Claims
 - [Students perceived data comics as more accessible, more engaging, and easier to retain information from than conventional visualisations](students-perceive-data-comics-accessible-engaging-memorable.md) — related
 - [Students raised ethical concerns about GenAI-assisted data comic creation, most frequently misinformation, bias, ownership, and reduced trustworthiness](student-ethical-concerns-genai-data-comics.md) — related
+- [University students achieved a significantly higher correct rate answering data questions with data comics than with conventional visualisations](data-comics-higher-correct-rate-than-conventional-visualisations.md) — related

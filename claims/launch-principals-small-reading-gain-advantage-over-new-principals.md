@@ -50,3 +50,4 @@ Analysis of ITBS reading gains from 1997 to 2003 comparing elementary schools le
 - [Two LAUNCH elementary schools with NBCT clusters showed significantly positive differences on 8 of 16 school measures](launch-nbct-cluster-schools-dramatic-effects.md) — related
 - [NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period](nisl-principals-student-achievement-gains.md) — related
 - [Professional development is associated with larger mathematics gains for students of early-career principals than for students of mid-career and veteran principals](pd-benefits-early-career-principals.md) — related
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related

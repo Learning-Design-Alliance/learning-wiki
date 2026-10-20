@@ -47,3 +47,4 @@ Regression Model 2 in the same cross-sectional survey of 276 university students
 - [Academic self-efficacy is negatively associated with AI dependency among university students](self-efficacy-negatively-associated-ai-dependency.md) — related
 - [Perceived AI threat is negatively associated with university students' trust in AI and their dependence on GenAI](perceived-ai-threat-negatively-associated-trust-genai-dependence.md) — related
 - [GenAI use is positively associated with GenAI dependence among business students](genai-use-positive-dependence.md) — related
+- [AI dependence is negatively associated with self-reported creativity among Chinese college students, with a residual direct effect after motivational mediators are controlled](ai-dependence-negatively-associated-self-reported-creativity.md) — related

@@ -45,3 +45,4 @@ Section II.C reports that one site worried written praise could be misinterprete
 
 ## Related Claims
 - [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](co-regulation-builds-warm-trusting-relationships.md) — related
+- [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md) — related

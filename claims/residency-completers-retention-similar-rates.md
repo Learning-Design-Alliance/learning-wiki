@@ -50,3 +50,5 @@ Personnel-data analysis of employment trajectories found "similar rates of trans
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - Fund-supported principals are younger and have shorter tenure than other CPS principals — related
 - Former assistant principals tend to stay in their schools longer than other newly hired CPS principals — related
+- [Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years](residency-principals-raise-test-scores-first-two-years.md) — related
+- [Balanced Leadership® may increase school leader retention at the school (potentially positive effects rating)](balanced-leadership-potentially-positive-school-leader-retention.md) — related

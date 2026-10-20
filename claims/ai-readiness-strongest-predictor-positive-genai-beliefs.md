@@ -45,3 +45,4 @@ Multiple regression (Model 1) on survey data from 1,405 K-12 teachers in five co
 - [Country context differentially predicts GenAI concerns: Qatari teachers report higher plagiarism concern and Indian teachers lower creativity concern than U.S. teachers](country-specific-genai-concern-profiles-qatar-india.md) — related
 - [Teachers without formal training report substantially lower positive beliefs about GenAI than university-prepared teachers](no-formal-training-lower-positive-genai-beliefs.md) — related
 - [A 2025-2026 survey of 211 educators in nine countries identified 50 unique generative AI tools meeting inclusion criteria across nine categories](211-educators-survey-50-genai-tools-nine-categories.md) — related
+- [Higher AI readiness is associated with greater, not lower, concern about GenAI reducing student creativity](ai-readiness-predicts-greater-creativity-concern.md) — related

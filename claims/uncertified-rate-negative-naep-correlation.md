@@ -43,3 +43,5 @@ This review article reports, citing Darling-Hammond (2000), a state-level analys
 ## Related Claims
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — related
 - [School test score averages are strongly related to the income of the families a school serves](school-test-scores-strongly-related-to-family-income.md) — related
+- [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
+- [On 2022 NAEP 8th- and 12th-grade reading and math exams, students who were both English learners and from low-income backgrounds scored lowest among four student groups, with less than one third scoring basic or above in reading and less than one quarter in math](naep-dual-el-low-income-lowest-2022.md) — related

@@ -46,3 +46,4 @@ Structural life-cycle simulation (partial equilibrium) of a one-time six-month s
 - [Average child welfare loss from the schooling and income shock is −0.75% in consumption-equivalent terms, with 87% attributed to the school closures themselves](welfare-loss-consumption-equivalent-075-percent.md) — related
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
 - [Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production](younger-children-hurt-more-by-closures.md) — related
+- [Parents endogenously raise investments in response to school closures but do not fully offset the lost public inputs](parental-compensation-partial-not-full-offset.md) — related

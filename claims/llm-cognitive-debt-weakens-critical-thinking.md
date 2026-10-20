@@ -51,3 +51,6 @@ The article attributes this to recent research on AI assistants for essay writin
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](unstructured-llm-use-epistemic-narrowing.md) — related
+- [Delegating intellectual work to generative AI risks eroding epistemic agency through reduced critical effort and cognitive offloading](genai-delegation-erodes-epistemic-agency.md) — related
+- [Documented GenAI-related challenges to active learning include cognitive debt, metacognitive laziness, unreflected acceptance, and overreliance on GenAI access](genai-risks-cognitive-debt-deskilling-overreliance.md) — possibly the same claim (merge candidate)

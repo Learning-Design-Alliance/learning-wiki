@@ -47,3 +47,4 @@ Friedman tests compared VMI, VP and MC within each group (all significant, e.g. 
 - [Acquisition of visual perception, motor coordination and visual-motor integration does not progress linearly across grades 1 to 5](nonlinear-grade-progression-visomotor-skills.md) — related
 - [First-grade students show inferior visual-motor integration, visual perception and motor coordination performance compared with the other grade groups](grade1-inferior-vmi-vp-mc-performance.md) — related
 - [Students' baseline SRL profiles show help-seeking as the highest and reflection FOR action as the lowest skill in both cohorts](baseline-srl-help-seeking-highest-reflection-for-action-lowest.md) — related
+- [Only in the 5th-grade group were moderate positive correlations found, between visual-motor integration and motor coordination (r = 0.748) and between visual perception and dysgraphia classification (r = 0.643)](grade5-correlations-vmi-mc-vp-dysgraphia.md) — related

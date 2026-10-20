@@ -50,3 +50,7 @@ Cross-sectional ABCD analysis using the NIH Toolbox Cognition Battery. The study
 - [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — a narrower finding that bears on this claim
 - [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related
 - [Bullied preadolescent children have poorer academic grades than non-bullied peers](bullying-associated-with-poorer-academic-grades.md) — related
+- [Larger right fusiform surface area in bullied children partially suppresses the negative effect of bullying on crystallized composite and vocabulary scores](fusiform-surface-area-suppresses-bullying-cognition-effect.md) — related
+- [Bullied preadolescent children show greater behavioral problems across CBCL domains than non-bullied peers](bullying-associated-with-greater-behavioral-problems.md) — related
+- [Caregiver-reported bullying victimization is associated with higher odds of NSSI/passive suicidality and active suicidality in preadolescent children](bullying-associated-with-nssi-and-suicidality-preadolescents.md) — related
+- [Bullied children with NSSI or suicidality show greater behavioral problems and poorer grades than bullied children without these behaviors](bullying-nssi-suicidality-compounded-outcomes.md) — related

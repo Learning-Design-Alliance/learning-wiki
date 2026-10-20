@@ -65,3 +65,8 @@ The synthesis reports, citing the Digital Education Council Global AI Faculty Su
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Faculty concerns centered on academic integrity (80%) and student over-reliance on AI (70%), and their most requested development topic was AI ethics and academic integrity (70%)](faculty-ai-concerns-integrity-ethics-training-demand.md) — related
 - Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
+- [Generative AI adoption among learners and workers is outpacing institutional policy readiness, creating a gap between behavior and policy](ai-adoption-outpaces-institutional-policy-readiness.md) — a broader claim this one bears on
+- [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Educator AI training and readiness remain limited, with only about half of teachers trained on AI and resistance increasing at higher grade levels](limited-educator-ai-training-resistance-by-grade.md) — related
+- [Teachers' low digital competence and lack of AI training frameworks are key barriers to GAI integration in K-12](teacher-digital-competence-barrier-gai-k12.md) — related
+- [Teachers value pronunciation instruction highly but report seldom teaching it and low satisfaction with how they teach it](teachers-value-pronunciation-but-seldom-teach-it.md) — related

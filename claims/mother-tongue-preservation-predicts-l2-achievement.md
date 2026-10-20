@@ -50,3 +50,4 @@ The review reports the UNESCO investigation by Skutnabb-Kangas and Toukomaa (197
 - [Adolescents who use more language learning strategies are the more proficient ones, and strategy adoption varies with cultural background.](strategy-use-correlates-with-l2-proficiency-in-adolescents.md) — related
 - Meta-analyses consistently validate extensive reading benefits across languages and populations, with program length as a moderator — related
 - [Mexican American children used more heritage language at home while Korean American children used more English](mexican-american-more-heritage-language-than-korean-american.md) — related
+- [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related

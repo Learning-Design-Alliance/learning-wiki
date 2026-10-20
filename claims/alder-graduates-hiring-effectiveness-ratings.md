@@ -46,3 +46,4 @@ Program-reported employment and principal-rating outcomes across program history
 - [Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report](alder-annual-data-cycle-improvement.md) — related
 - [Residency graduates report strongly positive perceptions of their preparation, and principals tend to perceive them as more effective than other novice teachers](residency-graduates-perceived-effective.md) — related
 - [Cooperating teachers and employers rated preparation somewhat less positively than completers, with 82% and 68% high ratings respectively](cooperating-teachers-employers-ratings-lower.md) — related
+- [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](alder-graduates-higher-retention-other-pathways.md) — related

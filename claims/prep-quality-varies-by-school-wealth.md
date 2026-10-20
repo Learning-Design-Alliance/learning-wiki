@@ -49,3 +49,6 @@ A second-hand finding in section 3 of the brief, attributed in endnote 19 to a L
 - [Only 46% of principals reported a preparation internship involving real leadership responsibilities, and few in-service principals had coaching or mentoring](limited-access-job-based-principal-learning.md) — related
 - [High-quality principal preparation and professional development programs are associated with positive principal, teacher, and student outcomes](principal-learning-programs-positive-outcomes.md) — related
 - [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related
+- [Mentoring and coaching programs are associated with stronger principal practices, higher teacher ratings, and better student outcomes](principal-mentoring-coaching-improves-practice.md) — related
+- [In a large California study, principals' preparation quality and professional development access predicted teacher retention and student achievement gains](california-principal-preparation-pd-outcomes.md) — related
+- [District support for principals’ continuous improvement varies by school poverty and racial composition](district-support-varies-school-characteristics.md) — related

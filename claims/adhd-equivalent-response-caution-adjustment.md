@@ -47,3 +47,5 @@ Bayesian mixed ANOVA comparing 81 children with ADHD and 63 without. The analysi
 - [Equivalent performance-adjustment effects hold when clinical control and neurotypical children are analyzed separately](three-group-exploratory-analyses-consistent.md) — related
 - [Non-decision time (encoding/motor speed) is unchanged when inhibitory demands are introduced](stop-signal-demands-no-nondecision-time-change.md) — related
 - [Children adopt a more cautious response strategy (higher boundary separation) when intermittent stop trials are introduced](stop-signal-demands-increase-boundary-separation.md) — a broader claim this one bears on
+- [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related

@@ -44,3 +44,4 @@ Attributional variable tested in regression models of vignette responses from 59
 - [Relationships between socio-demographic and attributional variables and acceptance depend on the type of mental health problem (depression vs ADHD)](acceptance-predictors-vary-by-condition-type.md) — related
 - [Age, gender of participant, and perceived responsibility of the target character were the three most important predictors of peer acceptance across all models](age-gender-responsibility-predict-peer-acceptance-mental-health.md) — possibly the same claim (merge candidate)
 - [Children's reactions to peers with mental health problems are related to the maintenance and outcomes of those problems](peer-reactions-related-to-mental-health-outcomes.md) — related
+- [Peer rejection incrementally predicts subsequent behavioral, emotional, and academic maladjustment in children with ADHD beyond ADHD status itself](peer-rejection-predicts-subsequent-maladjustment-adhd.md) — related

@@ -48,3 +48,8 @@ Narrative review of intervention work named in the article (Tools of the Mind, a
 ## Related Claims
 
 - [Selective attention improves neural encoding of attended speech envelopes in children aged 7–12](attention-improves-speech-envelope-encoding-children.md)
+- [Video-game play and mind-brain training literatures suggest the possibility of training selective attention](video-game-and-mind-brain-training-selective-attention.md) — a narrower finding that bears on this claim
+- [Developmental differences in selective attention are related to neural systems for deploying attention and managing response conflict, while deployed selective attention acts through similar neural mechanisms across ages](developmental-selective-attention-deployment-mechanisms.md) — related
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — a narrower finding that bears on this claim
+- [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — related
+- [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related

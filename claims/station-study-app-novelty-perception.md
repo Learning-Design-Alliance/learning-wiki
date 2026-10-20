@@ -44,3 +44,5 @@ Station study, conducted with local PBS stations via a virtual orientation event
 
 ## Related Claims
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
+- [In an out-of-the-box evaluation, 60% of parents accessed video clips and 52% accessed activities without prompting or instruction](out-of-box-parents-accessed-clips-activities.md) — related
+- [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](splash-bubbles-app-section-use-dive-in-conversation-starters.md) — related

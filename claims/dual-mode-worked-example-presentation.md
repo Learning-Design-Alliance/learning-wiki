@@ -51,3 +51,5 @@ The review reports, citing Jeung, Chandler, and Sweller, an experiment comparing
 - [Split-attention worked examples lose their advantage over conventional practice, while integrated formats restore it](split-attention-effect-in-worked-examples.md) — the general claim this finding bears on, with the studies behind it
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
+- [Predictive cues aid transfer of perceptual representations into working memory via pre-encoding top-down modulation](predictive-cues-pre-encoding-modulation-wm-benefit.md) — related
+- [Within-subjects designs also show a moderate-to-large modality effect (d = 0.73)](modality-effect-within-subjects-d073.md) — related

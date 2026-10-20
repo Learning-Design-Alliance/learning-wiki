@@ -44,3 +44,5 @@ Thematic synthesis across studies in which teaching arrangements required studen
 
 ## Related Claims
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
+- [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
+- [Judgement is theorized as the evaluative locus of educational integrity within GenAI-augmented authorship](judgement-locus-of-educational-integrity.md) — related

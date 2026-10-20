@@ -47,3 +47,5 @@ The book's overview attributes this finding to prior research on college access 
 - [The review reports that equally qualified Chicago graduates' college persistence differed systematically depending on the institutional graduation rates of the colleges they attended](college-persistence-varies-by-institution-graduation-rate.md) — related
 - College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [High school GPA predicts four-year college graduation more strongly than achievement test scores among Chicago graduates](hsgpa-predicts-college-graduation-more-than-tests.md) — related
+- [School college-going climate predicts students' college enrollment steps and enrollment at colleges matching their qualifications](college-going-climate-predicts-enrollment-steps.md) — related
+- [Thoughtful, well-supported students distinguish college fit from college match, treating match as one but not the only component of fit](college-match-versus-fit-distinction.md) — related

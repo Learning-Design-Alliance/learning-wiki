@@ -49,3 +49,5 @@ This is a statement attributed to former Dean James Rodríguez in the Institutio
 - [CSUB teacher residency completers rate their programs highly, averaging 4.3 out of 5.0 on the 2021 CTC completer survey](csub-residents-rate-programs-4-3-of-5.md) — related
 - [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — a broader claim this one bears on
 - California's recent TPP completer pool grew substantially more racially and ethnically diverse, with people of color rising from 39% to 53% of survey respondents — related
+- [The center-based early educator workforce is more racially and ethnically diverse than the TK–12 workforce, with 66% identifying as people of color versus 39%](ece-workforce-more-diverse-than-tk12.md) — related
+- [Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so](unequal-access-clinical-pathways-race-specialists.md) — related

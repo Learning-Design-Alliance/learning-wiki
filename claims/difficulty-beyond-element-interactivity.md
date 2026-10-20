@@ -48,3 +48,7 @@ The review attributes to Klahr and Robinson a finding that children had consider
 - [Conflict-based instruction improves science conceptual learning, though staged contradictions helped only learners who reported being confused, and no study isolates disequilibrium as the mechanism](cognitive-disequilibrium-motivates-conceptual-change.md) — a narrower finding that bears on this claim
 - [Ambiguous tasks with a revision step help students recognize the role of assumptions in mathematical activity](ambiguous-tasks-with-revision-help-students-recognize-role-of-assumptions.md) — a narrower finding that bears on this claim
 - [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related
+- [Problem isomorphs with identical structure differ greatly in difficulty; Monster Change took 16 times as long to solve as the standard problem](isomorph-difficulty-rule-learning-working-memory.md) — a narrower finding that bears on this claim
+- [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related
+- [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — related
+- [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related

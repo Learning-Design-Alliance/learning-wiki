@@ -48,3 +48,5 @@ Study 2 thematic analysis produced Student Global Theme 2, "Applying knowledge g
 - [Knowledge gained by self-analysis is more likely to produce constructive change in teaching than insights given by an observer](self-analysis-knowledge-drives-teacher-change.md) — related
 - [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
 - [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related
+- [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
+- [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related

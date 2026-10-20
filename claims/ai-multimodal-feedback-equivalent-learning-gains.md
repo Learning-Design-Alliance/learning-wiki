@@ -67,3 +67,6 @@ Paired-samples t-tests within each condition in the RQ1.1 analysis of the random
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [Project performance improved significantly from pre- to post-feedback across all three feedback conditions with no significant differences between feedback sources](ai-teacher-feedback-equal-project-performance-gains.md) — related
 - [No significant group differences in knowledge gain or knowledge transfer despite ChatGPT's task-performance advantage](no-knowledge-gain-transfer-difference-genai.md) — related
+- [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
+- [Learning gains from ChatGPT-generated hints were not statistically significantly different from human tutor-authored hints, though ChatGPT gains were numerically higher in all subjects](chatgpt-gains-equivalent-human-tutor-hints.md) — related
+- [Post-test mathematics performance was significantly lower than pre-test after AI-tutor use](post-test-decline-after-ai-tutor-session.md) — related

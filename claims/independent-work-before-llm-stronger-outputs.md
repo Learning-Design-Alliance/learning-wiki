@@ -47,3 +47,4 @@ The article reports, citing Kosmyna et al. (2025), that independent first engage
 - [Most students (87.6%) prefer attempting to solve problems independently before seeking support, managing uncertainty privately before engaging formal support](students-prefer-independent-problem-solving-first.md) — related
 - GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it — related
 - [Merely having access to AI advice nearly eliminates people's willingness to suspend judgment under uncertainty, even when the advice is wrong](ai-access-nearly-eliminates-judgment-suspension.md) — related
+- [Baseline capability moderates AI productivity benefits non-monotonically across AI's capability frontier](baseline-capability-nonmonotonic-ai-benefit.md) — related

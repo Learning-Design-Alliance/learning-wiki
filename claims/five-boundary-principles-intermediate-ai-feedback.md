@@ -46,3 +46,5 @@ Theoretical argument in Section 3.2 of this conceptual paper. The five principle
 
 - Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
 - [Low-level feedback automation is appropriate only for sentence-level clarity; argumentative unclarity should trigger human review](sentence-level-clarity-automation-argumentative-human-review.md)
+- [Argumentative dialogs between humans and generative AI can support knowledge transformation when prompted appropriately](human-ai-argumentative-dialog-knowledge-transformation.md) — related
+- [The authors argue formative feedback is critical for making student behaviour 'seen' in asynchronous online learning where the teacher is not physically present](feedback-makes-behaviour-seen-asynchronous.md) — related

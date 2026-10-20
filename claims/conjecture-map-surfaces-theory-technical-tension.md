@@ -48,3 +48,4 @@ Case study report of a one-hour edited dialogue session in which an interdiscipl
 - [The adapted conjecture map's framing around unintended consequences proved generative for interdisciplinary discussion](unintended-consequences-framing-generative.md) — possibly the same claim (merge candidate)
 - Sociology-of-science concerns: data-reliance in education risks tunnel-vision, unhealthy reductionism, and inequitable power dynamics — related
 - [Expert participants produced predominantly optimistic scenarios with limited discussion of tensions, limits, or unintended consequences](optimistic-scenario-bias-limitation.md) — related
+- [Special issue findings are soft: small-scale case studies limit generalizability](tad-tel-case-studies-limited-generalizability.md) — related

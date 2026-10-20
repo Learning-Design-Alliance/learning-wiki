@@ -79,3 +79,4 @@ This report narrates the prior i3-funded RCT by Jones & Christian (2020), which 
 - FF's attendance impact was greatest for Black male students, and especially Black male students with low baseline attendance — related
 - Regression discontinuity impact estimates for two education interventions were not significantly different from experimental impact estimates, though point-estimate differences were sometimes nontrivial — related
 - The case study cannot distinguish which program elements caused the positive impacts — related
+- [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](kauffman-school-attendance-impact-one-percentage-point.md) — related

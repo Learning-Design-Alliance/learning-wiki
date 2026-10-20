@@ -45,3 +45,7 @@ Correlational analysis of a nationally representative sample of more than 14,000
 ## Related Claims
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — a broader claim this one bears on
 - [Academic risk status does not significantly moderate the mind-set–achievement correlation](academic-risk-not-moderator-mindset-correlation.md) — related
+- [Growth mindset interventions improve math outcomes, particularly for disadvantaged and high-risk students, but effects depend on a supportive teacher-mindset context](growth-mindset-interventions-conditional-teacher-context.md) — related
+- [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](growth-mindset-improves-achievement.md) — related
+- [A short online growth mindset intervention improved ninth-grade core-course GPAs among lower-achieving students in a nationally representative US sample](growth-mindset-raises-lower-achiever-gpas-national-experiment.md) — related
+- [Math mindsets and academic grit correlate substantially with primary math achievement](mindset-grit-math-achievement-correlations.md) — related

@@ -47,3 +47,4 @@ Cross-sectional analysis of teacher survey ratings on CCSR essential-supports sc
 - [Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices](launch-elementary-teacher-parent-interaction-reformed-literacy.md) — related
 - [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related
 - [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
+- [LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management](principal-preparation-satisfaction-confidence-differences.md) — related

@@ -63,3 +63,6 @@ Multilevel analysis of morning working memory updating as a function of the prev
 
 ## Related Claims
 - [Sleep education at school improves cognitive functioning in children](sleep-education-improves-cognitive-functioning.md) — related
+- [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — a broader claim this one bears on
+- [Children with lower average working memory performance show stronger within-person coupling between nightly sleep quality and morning performance](lower-performers-stronger-sleep-quality-coupling.md) — a narrower finding that bears on this claim
+- [Current daytime tiredness predicts children's afternoon working memory performance fluctuations](tiredness-predicts-afternoon-working-memory.md) — related

@@ -50,3 +50,5 @@ Key finding from the issue brief's analysis of Chicago data; the brief states th
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
 - [Chicago multi-grade charter high schools appear to increase the probability of enrolling in college](chicago-multigrade-charter-high-schools-college-entry-gains.md) — related
+- [Chicago multi-grade charter high schools appear to increase the probability of graduating high school](chicago-multigrade-charter-high-schools-graduation-gains.md) — related
+- [Charter high school effects on attainment hold in both Chicago and Florida after controlling for prior charter middle school enrollment](charter-high-school-effects-both-locations-with-controls.md) — related

@@ -50,3 +50,6 @@ The review reports, citing Sinha and Kapur (2021), a meta-analysis of instructio
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related
 - [Practice-problem performance favored PS-I overall, but the advantage was concentrated on the first two worksheets (d = 0.52)](practice-problems-favor-ps-i-first-worksheets.md) — related
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — a narrower finding that bears on this claim
+- [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](worked-examples-with-practice-improve-transfer.md) — reports the opposite
+- [The manipulation worked as intended: I-PS students largely succeeded on the problem-solving sheets while PS-I students largely failed](ps-i-manipulation-check-problem-solving-sheets.md) — related
+- [Of eight PF-similar studies of problem solving prior to instruction in non-STEM or domain-general settings, only Schwartz and Bransford (1998) found a positive learning effect](pf-similar-studies-mostly-null-negative.md) — related

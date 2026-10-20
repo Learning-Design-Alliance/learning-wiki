@@ -45,3 +45,6 @@ Analysis of stimulated recall protocols from students in the PBL tutorial group 
 ## Related Claims
 
 - [PBL group discussion during problem analysis mainly concerns theory building, with less data exploration and meta-reasoning](pbl-discussion-mainly-theory-building.md)
+- [Ways of dealing with anomalous data, and the conditions determining them, can be described during PBL problem analysis](anomalous-data-handling-conditions-pbl.md) — related
+- [Verbal interaction in a PBL tutorial group shows only part of the underlying cognitive and metacognitive processes](pbl-verbal-interaction-tip-of-iceberg.md) — related
+- [Stimulated recall provides unique information about hypothesis evaluation and meta-reasoning beyond group verbal interaction](stimulated-recall-unique-hypothesis-meta-reasoning.md) — related

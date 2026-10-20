@@ -71,3 +71,4 @@ In the full model with end-of-year test performance and teacher-rated grade as o
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — reports the opposite
 - [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — reports the opposite
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on
+- [Sixth-graders' mathematics self-concept and individual interest both decline over one school year](math-self-concept-interest-decline-one-school-year.md) — related

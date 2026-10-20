@@ -52,3 +52,5 @@ Authors' interpretation of the full pre/post dataset (Confidence and Knowledge s
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — a broader claim this one bears on
 - [Treatment-by-test-type interactions in Knowledge scores significantly favor the generation condition's improvement from pre-test to post-tests](generation-knowledge-interaction-advantage.md) — reports the opposite
 - [Bonferroni-corrected pairwise comparisons show no significant generation-versus-baseline differences at any test point for Knowledge scores](generation-no-pairwise-differences-knowledge.md) — a narrower finding that bears on this claim
+- [Grades themselves, regardless of formula, detrimentally affect creative thinking, long-term retention, interest in learning, and preference for challenging tasks](grades-detrimental-creative-thinking-retention.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on

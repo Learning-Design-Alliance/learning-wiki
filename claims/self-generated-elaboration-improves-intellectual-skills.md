@@ -49,3 +49,4 @@ Univariate tests among the three elaboration groups on case-analysis intellectua
 - [In one introductory accounting experiment, self-generated elaboration scored above instructor-assisted elaboration on procedural knowledge at the p = .05 boundary, and not significantly above a combined strategy](self-generated-elaboration-improves-procedural-knowledge-accounting.md) — related
 - [Cognitive elaboration strategy significantly affects overall posttest performance, with self-generated elaboration highest](elaboration-strategy-affects-posttest-performance.md) — related
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
+- [Elaboration strategy does not significantly affect students' attitudes toward the learning method](elaboration-strategy-no-attitude-effect.md) — related

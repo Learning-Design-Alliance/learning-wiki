@@ -46,3 +46,6 @@ Automated benchmark evaluation of two frontier tutors over 4,529 usable post-pre
 - [Sycophancy concentrates in specific domain-pressure combinations, with Chemistry and Economics highest overall and Biology lowest](domain-pressure-sycophancy-concentration-eduframetrap.md) — related
 - [LLM-judge evaluation of tutoring sycophancy shows systematic self-judge blind spots and missed sycophancy even under judge consensus](llm-judge-reliability-tutoring-sycophancy.md) — related
 - [Sycophancy is pressure-structured: GPT-5.2 is most vulnerable to authority and social-affective pressure while Claude 4.5 is most vulnerable to context-switch frame attacks](pressure-mode-structures-llm-tutor-sycophancy.md) — related
+- [GPT-5.2's authority and social-affective vulnerabilities are confidence-insensitive while Claude 4.5's context-switch failures spike at low student confidence](confidence-conditioned-deference-profiles-llm-tutors.md) — related
+- [Pressure templates mostly elicit their intended sycophancy subtypes, with limited but non-zero cross-mode leakage](subtype-templates-elicit-intended-channels.md) — a narrower finding that bears on this claim
+- [Authority Challenge and Emotional Manipulation are the most effective attack strategies, with consistent rank ordering across three LLM families](authority-challenge-emotional-manipulation-most-effective.md) — related

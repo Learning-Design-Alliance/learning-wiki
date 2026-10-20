@@ -44,3 +44,5 @@ Trend analysis of standardized Tests of Achievement and Proficiency scores in th
 
 ## Related Claims
 - [Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools](special-education-concentration-neighborhood-high-schools.md) — related
+- [Eighth-grade achievement rose substantially in postpolicy cohorts, with the 1998 cohort's included students more than half a standard deviation above prepolicy levels](chicago-gate-achievement-rise.md) — related
+- [Taking Algebra I instead of remedial math raised Algebra credit attainment but increased failure rates and lowered math grades, with no test-score benefit](algebra-enrollment-raises-credit-and-failure.md) — related

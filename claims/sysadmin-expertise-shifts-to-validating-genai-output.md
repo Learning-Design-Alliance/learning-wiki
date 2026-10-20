@@ -52,3 +52,4 @@ Interview theme: participants said GenAI "is not there yet to basically develop 
 - [Student participation in validating and iteratively refining AI-generated simulations promotes physics understanding and problem-solving skills](student-validation-of-ai-simulations-promotes-understanding.md) — related
 - [AI solutions can automate routine tasks but cannot yet handle the complex tasks of higher learning](ai-limited-to-automatable-tasks-in-higher-learning.md) — possibly the same claim (merge candidate)
 - [Optimizing prompts can vastly improve the accuracy of LLM outputs, but critical evaluation of the resulting outputs still requires domain expertise.](prompt-optimization-improves-accuracy-expertise-still-needed.md) — related
+- [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — related

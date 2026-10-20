@@ -48,3 +48,6 @@ Findings from the two KinderTEK development studies indicate that "second-order 
 - [Instructors who reported moderate iPad experience and/or no barriers to technology integration demonstrated the least desirable student use patterns](moderate-experience-no-barriers-least-desirable-use.md) — related
 - [Most Oakland secondary students receiving LLI fell short of the recommended minimum number of sessions](lli-students-fell-short-recommended-sessions.md) — related
 - Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration — related
+- [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
+- [Teachers who perceive the challenges and barriers of using AI as high (cost) may be less motivated to use it (theoretical argument).](teacher-perceived-cost-reduces-motivation-to-use-ai.md) — related
+- [Secondary schools faced implementation challenges producing variation in LLI duration, intensity, and fidelity](lli-secondary-implementation-challenges-variation.md) — related

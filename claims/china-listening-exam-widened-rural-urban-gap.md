@@ -46,3 +46,6 @@ The article reports, citing Li et al. (2024), an analysis of administrative reco
 
 - China's Matriculation English Test ignores speaking skills despite adding communicative components after 1992 — related
 - [Households pay substantial recurring sums for private supplementary language education, with Korea at 29.2 trillion won in 2024 and English the leading subject](shadow-education-household-spending-scale.md)
+- [AI in adult education risks reinforcing existing inequalities via the digital divide, particularly for rural, low-income, and marginalized learners](ai-digital-divide-reinforces-inequality.md) — a broader claim this one bears on
+- [Students without home broadband or who rely only on a cell phone show a digital skill gap of roughly three grade levels and are less likely to plan for college](home-broadband-digital-skill-gap.md) — related
+- [Rural youth report less access to internship opportunities than urban peers (38% vs. 55%)](rural-youth-internship-access-gap-38-vs-55.md) — related

@@ -49,3 +49,5 @@ The article's statement of the research gap: existing work addressed identifying
 - [Social-emotional factors, including low academic self-efficacy and self-management, are related to rapid guessing behavior](sel-factors-related-to-rapid-guessing.md) — related
 - [Repeated rapid guessing across several tests is strongly associated with students' academic self-efficacy and self-management scores](repeated-rapid-guessing-self-efficacy-self-management.md) — related
 - [The study examines whether rapid guessing over several tests is associated with background variables such as English learner status](rapid-guessing-background-variables-examined.md) — related
+- [Test effort differs substantially by student subgroup, with males rapidly guessing nearly twice as often as females in later grades and Black students rapidly guessing more often than White students](test-effort-differs-by-subgroup-rapid-guessing.md) — related
+- [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related

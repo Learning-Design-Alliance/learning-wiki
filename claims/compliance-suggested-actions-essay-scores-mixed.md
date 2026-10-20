@@ -46,3 +46,8 @@ Separate t-tests in the generalized condition comparing essay scores of complier
 
 ## Related Claims
 - [Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.](selecting-scaffold-options-associated-higher-compliance.md) — related
+- [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — related
+- [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on
+- [Personalized SRL scaffolds showed higher compliance than no and non-personalized scaffolds, linked to better essay scores](personalized-scaffolds-compliance-essay-scores.md) — related
+- [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related
+- [Pop-up cues contributed only modestly to note taking, triggering note taking in under 4% of instances](cues-low-note-taking-response.md) — related

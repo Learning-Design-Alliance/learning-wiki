@@ -49,3 +49,5 @@ Finite impulse response whole-brain analysis in children and adults. In adults, 
 - [Inferior parietal cortex (BA 39 and 40) shows greater overall activation in adults than children and a more pronounced effect of relational integration in adults](parietal-ipl-greater-activation-adults.md) — related
 - [Meta-analyses identify a distributed frontoparietal network for flexible switching including vlPFC, dlPFC, ACC, right AI, parietal and subcortical regions](frontoparietal-network-flexible-switching.md) — related
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
+- [Children aged 8-12 are disproportionately less accurate than adults on REL-2 problems requiring integration of two relations, but not on REL-1 or REL-0 problems](children-disproportionately-worse-rel2-integration.md) — related
+- [Children and adults do not differ in response times on REL-2 problems, despite children's higher error rate on those trials](no-rt-age-difference-rel2.md) — related

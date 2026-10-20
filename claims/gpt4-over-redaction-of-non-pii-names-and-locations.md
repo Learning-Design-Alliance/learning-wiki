@@ -49,3 +49,4 @@ Qualitative error analysis of GPT-4 outputs: in the Poetry course, names such as
 - Low-precision PII detection disrupts the semantic integrity of educational data: Presidio and Azure AI Language false positives alter intended meaning while GPT-based models preserve it — reports the opposite
 - [Supervised machine learning de-identification still outperforms GPT-4, though GPT-4 exceeds class-list/regular-expression and transformer approaches in recall](gpt4-redaction-compared-to-prior-methods.md) — related
 - [During active transfer, the application rejected learner coaching and export requests and redacted earlier project content in all 120 episodes](praxis-transfer-restrictions-enforced.md) — related
+- [Scientists have imposed their values of precision, objectivity, and control on language, including attempts to build machines that use and create language as humans do](science-values-imposed-on-language.md) — related

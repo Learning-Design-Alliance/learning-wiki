@@ -64,3 +64,7 @@ Regional comparison for victimization outcomes; the authors report that for perp
 ## Related Claims
 - [Program effectiveness varies by country: Greece led for perpetration, Italy for victimization](anti-bullying-effectiveness-varies-by-country.md) — related
 - [Effectiveness of anti-bullying programs varies significantly across evaluations (heterogeneity)](anti-bullying-program-effectiveness-heterogeneous.md) — a broader claim this one bears on
+- [The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations](obpp-most-effective-for-perpetration.md) — related
+- [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — related
+- [NoTrap! was the most effective program for reducing bullying victimization, while ViSC and fairplayer.manual showed non-significant negative effects](notrap-most-effective-victimization-visc-negative.md) — related
+- [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related

@@ -50,3 +50,4 @@ Null result from the same quasi-experimental comparison of AI-supported inquiry-
 - [Intervention cohort scored significantly higher on creativity thinking, design skills, and problem solving, but not on presentation or attendance](rubric-dimension-gains-creativity-design-problem-solving.md) — related
 - [AI verification literacy does not directly predict critical thinking or technical problem-solving](ai-verification-literacy-no-direct-effect.md) — related
 - [GPT feedback in VR markedly improved problem-solving and critical thinking but had limited impact on creativity](gpt-feedback-hots-problem-solving-critical-thinking-limited-creativity.md) — reports the opposite
+- [Inquiry-based learning strategies in laboratory courses are reported to significantly improve critical thinking skills](inquiry-based-lab-learning-improves-ct.md) — related

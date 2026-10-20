@@ -50,3 +50,5 @@ Observational analysis of stop-out behavior among CPS graduates in the classes o
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
 - [A majority of NFTE alumni respondents were attending or had finished college, and 91 percent of college finishers completed a four-year degree or higher](nfte-alumni-majority-college-enrollment.md) — related
 - [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
+- [Most CPS completers who took longer than four years were enrolled more than eight terms: 67% finished in nine or ten terms and 12% in eleven or twelve](late-completers-enrolled-more-than-eight-terms.md) — related
+- [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related

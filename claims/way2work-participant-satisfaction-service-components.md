@@ -49,3 +49,5 @@ The report's overview states it "summarizes findings on participants’ satisfac
 - [Way2Work Maryland did not affect employment or expectation outcomes as of 24 months after enrollment](way2work-no-employment-expectation-effects.md) — related
 - [Service use differed across local school systems in Way2Work Maryland](way2work-service-use-differences-across-school-systems.md) — related
 - [Way2Work Maryland increased vocational rehabilitation agency engagement, with almost all treatment group members using agency-provided work-based learning experiences](way2work-increased-vr-agency-engagement.md) — related
+- [Most Way2Work Maryland participants (92 percent) had at least one work experience, 74 percent had at least two with one paid, and 44 percent had at least three with one paid](way2work-maryland-most-participants-multiple-work-experiences.md) — related
+- [Control group members had ready access to transition-related services, and Way2Work services may have substituted for existing services](way2work-services-substitutes-for-existing-services.md) — related

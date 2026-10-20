@@ -51,3 +51,6 @@ The report's interdistrict choice section cites a recent review of metropolitan 
 - The authors infer the DC voucher program is likely reducing racial segregation in schooling, since 94% of voucher users are African American — related
 - [Policy design details are likely critical to the effects of school choice programs](choice-program-design-details-critical-to-effects.md) — a broader claim this one bears on
 - [Attending racially integrated schools is associated with higher academic achievement and improved long-term educational and economic outcomes for students of color, with no academic harm for white students](integrated-schools-academic-and-long-term-benefits.md) — a broader claim this one bears on
+- [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — related
+- [Recent evidence confirms teacher quality is a critical component of student achievement](teacher-quality-critical-to-student-achievement.md) — related
+- [Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it](desegregation-graduates-report-benefits-and-backlash.md) — related

@@ -47,3 +47,5 @@ Case analysis of participants scoring significantly below average (≤ 2 SD) on 
 - [PSP-1 performance increases with age across grades 1–4, with significant differences between adjacent age groups on total score](psp1-performance-increases-with-age.md)
 - [Approximately 2.9% of Croatian grade 1–4 pupils meet diagnostic criteria for auditory processing disorder on the PSP-1 screening battery](psp1-screening-apd-prevalence-2-9-percent.md)
 - [A right-ear advantage appears in both dichotic listening tasks and decreases with age on the Dichotic Sentences subtest](right-ear-advantage-dichotic-tasks-decreases-with-age.md)
+- [Students with APD were rated below average by teachers far more often than non-APD peers, especially in reading and language skills](apd-students-rated-below-average-more-often.md) — related
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](teacher-ratings-correlate-psp1-gpa-does-not.md) — related

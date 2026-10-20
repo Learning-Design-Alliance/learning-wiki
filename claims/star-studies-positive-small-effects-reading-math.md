@@ -44,3 +44,4 @@ Synthesis of four studies analysing the Tennessee STAR RCT data (class size redu
 
 ## Related Claims
 - [Class size reduction shows a negative, statistically non-significant effect on mathematics achievement (pooled SMD ‐0.03)](class-size-reduction-negative-nonsignificant-math-effect.md) — reports the opposite
+- [Class size reduction produces a small, statistically significant positive effect on reading achievement by end of treatment year (pooled SMD 0.11)](class-size-reduction-small-positive-reading-effect.md) — related

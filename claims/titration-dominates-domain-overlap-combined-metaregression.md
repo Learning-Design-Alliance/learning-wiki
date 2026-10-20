@@ -44,3 +44,6 @@ Meta-regression (Table 2) of age differences in dual task performance including 
 
 ## Related Claims
 - [Titration of storage task difficulty reduces the age difference in dual task costs to a non-significant level](titration-reduces-dual-task-cost-age-difference.md) — related
+- [Age differences in memory accuracy are smaller for verbal than nonverbal storage tasks, and domain overlap between storage and processing tasks moderates dual-task age differences](task-domain-moderates-aging-memory-accuracy.md) — reports the opposite
+- [Titration of storage task difficulty substantially reduces age differences in both single-task and dual-task memory accuracy](titration-reduces-age-differences-storage-dual-task.md) — related
+- [Older adults show a small but disproportionate age-related cost of concurrent processing on storage accuracy in working memory dual tasks](small-disproportionate-aging-dual-task-storage-cost.md) — related

@@ -56,3 +56,5 @@ Observational comparison of course completion data across fall 2019 (N = 102) an
 - About half of students reported instructors helped bridge courseware guidance and their understanding through outreach, availability, and responsiveness — related
 - [Most instructors using adaptive courseware believed it improved student learning and would use it again](instructors-positive-perceptions-adaptive-courseware.md) — related
 - [Courseware can bridge gateway math learning gaps through tailored tutorials, study tools, diagnostics, and targeted practice](courseware-bridges-learning-gaps-gateway-math.md) — related
+- [Students in focus groups were positive about adaptive courseware but reported alignment, access, and reliability concerns](student-focus-group-perceptions-courseware.md) — related
+- [Courseware impact varied by context: positive on average in 4-year institutions but insignificant in 2-year colleges, more positive in biology, psychology, and math/statistics, and positive when the comparison course was face-to-face rather than the same modality.](ngcc-impact-moderators-context.md) — related

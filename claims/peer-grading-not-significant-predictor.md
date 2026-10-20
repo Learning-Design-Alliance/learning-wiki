@@ -43,4 +43,9 @@ In the hierarchical multiple regression (N = 181), entering peer grading measure
 
 
 ## Related Claims
--
+- [Receiving positive affective feedback from peers is a significant predictor of assessees' project performance](receiving-positive-affective-feedback-predicts-assessee-performance.md) — related
+- [Giving feedback that identifies problems in peers' work is a significant predictor of assessors' own project performance](giving-problem-identification-feedback-predicts-assessor-performance.md) — related
+- [Online peer assessment activities account for about 12.8% of variance in project performance, with feedback activities adding 14.2% variance change](peer-assessment-activities-variance-project-performance.md) — reports the opposite
+- [Cognitive feedback benefits assessors rather than assessees, and weak students do not benefit from receiving more feedback](cognitive-feedback-benefits-assessors-not-assessees.md) — related
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related
+- [Giving suggestions to peers is a significant predictor of assessors' own project performance](giving-suggestions-predicts-assessor-performance.md) — related

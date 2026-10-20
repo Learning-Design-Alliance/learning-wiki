@@ -64,3 +64,10 @@ Taylor and Kuo (2009) as tabulated: 17 children with ADHD walking alternately in
 ## Related Claims
 
 - [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md)
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — related
+- [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [In adults with ADHD, acute cardio exercise does not improve sustained attention but enhances mood and motivation](acute-exercise-adults-adhd-attention-null-mood-gain.md) — related
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related
+- [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
+- [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related

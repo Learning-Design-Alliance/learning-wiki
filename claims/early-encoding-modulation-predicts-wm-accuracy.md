@@ -50,3 +50,4 @@ EEG study (Rutman et al.) using a delayed-response task with overlapping face an
 - [Retro-cues during maintenance dynamically modulate working memory representations and confer large performance benefits](retro-cues-dynamically-modulate-wm-maintenance.md) — related
 - [Post-hoc finding: P1 latency was increased for attended versus unattended unilateral stimuli, selectively over the ipsilateral ROI](p1-latency-increased-attended-ipsilateral.md) — related
 - [Selective attention reduces encoding of unattended information and induces learned inattention that makes future learning more difficult](selectivity-costs-learned-inattention.md) — related
+- [Perceptual attention and working memory are distinct entities that causally affect each other](wm-perceptual-attention-distinct-entities.md) — related

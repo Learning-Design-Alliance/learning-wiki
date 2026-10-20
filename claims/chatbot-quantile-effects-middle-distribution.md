@@ -47,3 +47,7 @@ Quantile regression estimates (Koenker & Bassett, 1978) pooled across both cours
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [Gains from verified AI materials are concentrated in the bottom quintile, which accounts for roughly three-quarters of the average effect](gains-bottom-quintile-verified-ai.md) — related
+- [Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment](chatbot-no-spillover-medium-term-effects.md) — related
+- [Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics](chatbot-completion-effects-differ-by-subject.md) — related
+- [Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses](chatbot-outreach-increases-ab-grades.md) — related
+- [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related

@@ -44,3 +44,5 @@ The review reports Lupyan and Thompson-Schill's behavioral finding that "perform
 
 ## Related Claims
 - [Learning in-depth semantic associations with novel objects facilitates recognition and attenuates viewpoint dependency](semantic-associations-attenuate-viewpoint-dependency.md) — related
+- [In-depth semantic knowledge penetrates early visual processing, reducing the P100 component and aiding recognition of blurred objects](semantic-knowledge-reduces-p100-early-visual-processing.md) — related
+- [Structural features of child-directed speech—isolated words, short sentence frames, and repetition—facilitate word segmentation, processing, and word learning](cds-structural-features-aid-word-learning.md) — related

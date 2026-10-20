@@ -45,3 +45,4 @@ Within-student comparison of pre- and post-test mathematical modeling scores in 
 ## Related Claims
 - [Students show large immediate pre-to-post knowledge gains within a single LLM-supported learning session](large-immediate-gains-llm-supported-session.md) — related
 - [A 60-minute session with Prompt Coach significantly improved professional developers' prompt quality, a 13.73% relative gain overall](prompt-coach-significant-overall-prompt-quality-gain.md) — related
+- [AI multimodal feedback produces post-test learning gains equivalent to educator feedback after controlling for pre-test performance](ai-multimodal-feedback-equivalent-learning-gains.md) — related

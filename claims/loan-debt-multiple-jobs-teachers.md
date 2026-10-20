@@ -66,3 +66,4 @@ Figure 8 analysis (median monthly repayment $280) shows repayment amount is corr
 - [Beginning teachers borrow at much higher rates than experienced teachers, with about 65% of teachers in their first 10 years having ever borrowed versus 41.4% of those with more than 30 years](novice-teachers-higher-borrowing-rates.md) — related
 - [Black teachers were more likely than other teachers to have borrowed for their education and to report high stress from student loan debt](black-teachers-student-loan-burden.md) — related
 - [About 60% of teachers repaying student loans report high or very high loan-related stress, which is correlated with overall job-related stress](loan-stress-teacher-wellbeing.md) — related
+- [Special education teachers are the most likely of all subject-area teachers to have borrowed (65.2%) and to owe their entire balance (15.4%)](special-education-teachers-highest-loan-burdens.md) — related

@@ -46,3 +46,4 @@ Test-retest reliability of the Panamath-based Who Has More task across roughly t
 - [Children's knower level of verbal number words is cross-sectionally associated with ANS acuity even after controlling for age and sex](knower-level-correlated-ans-acuity-cross-sectional.md) — related
 - [The subset-to-cardinal-principle knower-level transition coincides with the largest longitudinal gains in ANS acuity, exceeding other transition types](subset-to-cp-jump-largest-ans-acuity-gain.md) — related
 - [ANS acuity (w) did not significantly improve within children over the six-month period in the session-level analysis, though a hierarchical linear model detected a linear increase in percent correct](no-significant-w-improvement-over-six-months.md) — related
+- [Female preschoolers showed significantly better ANS acuity than males at Session 5, and knower level increased significantly with age](sex-and-age-effects-on-acuity-and-knower-level.md) — related

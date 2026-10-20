@@ -49,3 +49,6 @@ The article reports this solution-variety contrast from Kapur's (2014) experimen
 - [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — the general claim this finding bears on, with the studies behind it
 -
 - [A validity problem in Kapur's standard deviation transfer item brackets its transfer findings as working hypotheses](kapur-sd-transfer-item-validity-problem.md) — related
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [In the Bayesian-reasoning problem-solving phase, most students generated only one solution attempt, far fewer than in the original variance study](few-solution-attempts-bayesian-problem-solving.md) — related

@@ -43,4 +43,7 @@ Observation of think-aloud scores in the grade 5 sample: paraphrasing, visualizi
 
 
 ## Related Claims
--
+- [The VisA instrument and think-aloud measure converge moderately and each contributes unique predictive variance for word problem solving](visa-think-aloud-moderate-overlap-unique-variance.md) — related
+- [The think-aloud measure predicts word problem solving performance, explaining 33 percent of variance](think-aloud-measure-predicts-problem-solving.md) — related
+- [The VisA instrument predicts word problem solving performance in grade 5, explaining 23 percent of variance](visa-instrument-predicts-word-problem-solving.md) — related
+- [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — related

@@ -49,3 +49,4 @@ A three-year research study of instructional coaching across 32 districts, repor
 - [Without clear expectations and support from district leaders, coaches might not devote sufficient time to the full range of coaching activities needed to improve teachers' instruction](coaches-need-district-expectations-full-activities.md) — related
 - The coaching pilot strengthened school leaders' relationships with coaches and led leaders to advocate for full-time dedicated coaches to scale the model — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
+- [Interviewees most frequently cited the absence of coaching and professional learning support after initial installation as the source of implementation variation](coaching-absence-undermines-hqim-implementation.md) — related

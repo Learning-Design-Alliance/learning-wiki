@@ -68,3 +68,5 @@ OLS regressions predicting post-satisfaction and attitude change from AI-dialogu
 - [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
 - [Keystroke patterns during web-based DP exams suggested planning, revision, and sustained cognitive engagement](keystroke-patterns-suggest-cognitive-engagement.md) — related
 - [Hands-on engagement with an AIDA beta significantly improved students' attitudes toward it, with a large effect size](aida-hands-on-use-improves-attitudes.md) — a narrower finding that bears on this claim
+- [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
+- [Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position](lexical-uptake-no-condition-effect-after-controls.md) — related

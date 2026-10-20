@@ -53,3 +53,4 @@ Forced-entry regression models starting from number sense measures in the same 9
 - [Sustained attention predicts number sense task performance](sustained-attention-predicts-number-sense.md) — related
 - [Non-symbolic addition performance correlates with mathematics achievement in a new sample, surviving controls for verbal intelligence and literacy (Experiment 2)](nonsymbolic-addition-predicts-math-exp2.md) — reports the opposite
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — related
+- [Kindergarten symbolic number variables uniquely predict grade 1 math outcomes over and above counting and domain general predictors](symbolic-number-predictors-unique-over-counting.md) — related

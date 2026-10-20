@@ -49,3 +49,6 @@ Qualitative analysis of mass-participation patterns (RQ1) across all 2435 danmak
 - [Mass participation formats in online communities depend on the tools used (Danmaku versus discussion board)](mass-participation-depends-on-tools.md) — a broader claim this one bears on
 - [Danmaku interaction is predominantly socio-emotional while discussion-board interaction tilts cognitive, and the tools share only four content categories](danmaku-socio-emotional-vs-board-cognitive-categories.md) — related
 - [Danmaku learners engage in parasocial greetings and compliments to the instructor and seek co-learning presence, phenomena absent on the discussion board](parasocial-greetings-and-co-learning-presence-in-danmaku.md) — related
+- [Discussion thread length is strongly linearly related to the number of players contributing, indicating collective rather than small-group collaboration](wow-thread-length-linear-with-contributors.md) — related
+- [Longer Facebook threads with more interlocutors show distinct structural characteristics compared to the broader corpus](thread-structure-designerly-talk-corpus.md) — related
+- [Danmaku primarily carries tacit knowledge sharing via personal experience while the discussion board carries explicit mathematical knowledge](danmaku-tacit-versus-board-explicit-knowledge-sharing.md) — related

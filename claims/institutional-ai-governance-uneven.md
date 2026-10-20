@@ -47,3 +47,6 @@ Second-hand institutional evidence cited by the article: three sector reports in
 - The evidence base on AI in higher education shows geographical, publication, and time-horizon biases, with successful implementations overreported — related
 - [Most U.S. colleges had adopted written generative AI policies by late 2024, with 69% defining appropriate versus inappropriate AI use in coursework](review-69-percent-colleges-genai-policies.md) — related
 - [College leaders identify educator unfamiliarity with GenAI, lack of training infrastructure, and institutional unpreparedness as key challenges](educator-ai-literacy-professional-learning-gaps.md) — related
+- [Nordic countries and New Zealand cover UNESCO's GenAI framework elements more fully than some higher-ranked AI Preparedness Index countries, so AIPI ranking does not guarantee strong GenAI policies](aipi-ranking-does-not-guarantee-strong-genai-policies.md) — related
+- [Few countries have defined teacher AI competencies or national AI training programmes for teachers](few-countries-define-teacher-ai-competencies.md) — related
+- [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related

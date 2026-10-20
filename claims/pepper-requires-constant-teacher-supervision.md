@@ -46,3 +46,5 @@ Review synthesis of implementation findings across the 13 studies. The review re
 - [Reported benefits of Pepper centre on motivation and engagement, with social-skill and academic-performance gains reported less frequently](pepper-benefits-motivation-engagement-social-skills.md) — related
 - [Empirical research on the Pepper robot in formal education is recent, concentrated in primary education, and dominated by qualitative designs with small samples](pepper-formal-education-evidence-small-qualitative.md) — related
 - [Technical difficulties were the most frequently reported implementation limitation, mentioned in ten of the thirteen studies](pepper-technical-difficulties-most-reported-limitation.md) — related
+- [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
+- [Persistent technical limitations constitute an authenticity gap in AI-powered nursing simulations](ai-simulation-authenticity-gap.md) — related

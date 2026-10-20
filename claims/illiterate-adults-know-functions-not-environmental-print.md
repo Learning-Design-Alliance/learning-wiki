@@ -49,3 +49,4 @@ Interviews with the 25 illiterate adults about experiences with written language
 - [The three groups did not differ in distinguishing conventional written signs from other visual signs](groups-do-not-differ-signs-task.md) — related
 - [Non-reading children and unschooled illiterate adults both differ significantly from low-educated literate adults on most print-awareness tasks, but do not differ from each other](nonreaders-differ-from-literate-adults-print-awareness.md) — related
 - [Adult illiterates significantly outperform pre-reading children on grapheme knowledge and on writing-speech correspondence](illiterate-adults-outperform-children-graphemes-correspondence.md) — related
+- [Non-readers recognize logos with additional visual features better than logos distinguished only by color and typeface](visual-features-aid-logo-recognition-nonreaders.md) — related

@@ -52,3 +52,4 @@ The study's lottery-based instrumental analysis yields two estimates: 6.9% for a
 - [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
 - [Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools](charter-middle-admission-no-effect-college-enrollment.md) — related
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
+- [KIPP middle and high schools had a large, statistically significant combined effect on college graduation rates](kipp-combined-significant-college-graduation-effect.md) — related

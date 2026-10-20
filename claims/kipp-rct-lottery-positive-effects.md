@@ -65,3 +65,7 @@ Tuttle et al. (2015) randomized controlled trial: 891 lottery applicants (459 of
 - [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
 - The KIPP lottery-based randomized controlled trial yielded treatment and control groups similar on observable and unobservable characteristics — related
 - [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
+- [Successor Prep school outcomes appeared similar to other KIPP schools, though substantial differences cannot be ruled out](successor-prep-school-outcomes-similar-to-other-kipp-schools.md) — related
+- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related
+- [In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement](charter-middle-schools-no-average-achievement-effect.md) — related
+- [Two student-level randomized studies in California, Maine, and Minnesota high schools found significant positive impacts on NWEA MAP reading (average effect size +0.09)](barr-student-level-rcts-nwea-map-reading-009.md) — related

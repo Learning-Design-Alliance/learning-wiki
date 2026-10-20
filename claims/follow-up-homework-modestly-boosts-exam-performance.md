@@ -48,3 +48,4 @@ Quartile-level exploration of the homework-completion effect from the same mixed
 - [Homework explanations demonstrating understanding predict better isomorphic exam performance across all quartiles](homework-explanation-quality-predicts-exam-performance.md) — related
 - [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — related
 - Individualized homework outperforms non-individualized homework in achievement, attitudes, and conduct — related
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — a broader claim this one bears on

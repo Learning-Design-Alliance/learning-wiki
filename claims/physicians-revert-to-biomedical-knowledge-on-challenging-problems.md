@@ -49,3 +49,4 @@ The article reports, citing prior clinical reasoning studies, that "physicians r
 - [Biomedical causal knowledge improves novice diagnostic accuracy on difficult cases with irrelevant findings](biomedical-causal-knowledge-improves-novice-diagnosis-irrelevant-findings.md) — related
 - [Biomedical causal knowledge improves novice diagnostic accuracy on cases using unfamiliar terminology](biomedical-causal-knowledge-improves-novice-diagnosis-unfamiliar-terminology.md) — related
 - [Advantage of causal knowledge on unfamiliar terminology persists one week after training](causal-knowledge-advantage-unfamiliar-terminology-persists-one-week.md) — related
+- [Children's writing proficiency is task dependent: children use more advanced features on easier tasks and regress to basic features on harder tasks](writing-proficiency-task-dependent.md) — related

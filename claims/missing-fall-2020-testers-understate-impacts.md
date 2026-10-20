@@ -51,3 +51,5 @@ Descriptive finding from the authors' prior analysis of the same NWEA data, repo
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
 - Researchers deployed stopgaps to address missing data caused by COVID disruptions — a broader claim this one bears on
 - [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related
+- [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](map-growth-attrition-demographic-differences-2020.md) — possibly the same claim (merge candidate)
+- [The COVID-19 pandemic impacted historically underserved students more severely than their peers](covid-impacted-historically-underserved-students-more-severely.md) — related

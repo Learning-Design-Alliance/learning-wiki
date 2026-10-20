@@ -43,4 +43,4 @@ In the replication's comprehension regression (N = 95), "The only significant pr
 
 
 ## Related Claims
--
+- [Self-reported multiple-text strategies did not predict intratextual comprehension, where prior knowledge was the unique predictor](strategies-not-predict-intratextual-comprehension.md) — related

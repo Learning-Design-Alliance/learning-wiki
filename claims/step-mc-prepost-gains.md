@@ -45,3 +45,6 @@ Paired t-test comparing aggregate scores on a 14-item multiple-choice questionna
 ## Related Claims
 - [Post-interviews with props and embodiment revealed understanding of macro–micro particle changes that the multiple-choice post-test did not capture.](step-interview-surfaces-micro-micro-understanding.md) — related
 - [Young children collaboratively develop their own gestures to represent and explain challenging science concepts in a mixed-reality environment](young-children-collaborative-gestures-mr-science.md) — related
+- [Students' task understanding confidence increases after collaborative tasks](task-understanding-increases-after-collaborative-task.md) — related
+- [Students demonstrated significant improvement in genetics knowledge from pre-test to post-test after playing Geniventure](geniventure-significant-pre-post-genetics-improvement.md) — a narrower finding that bears on this claim
+- [Students showed significant content-knowledge gains from pre-test to post-test after the Digital World level](engage-binary-tasks-pretest-posttest-gain.md) — related

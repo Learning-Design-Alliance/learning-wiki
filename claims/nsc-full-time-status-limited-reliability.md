@@ -46,3 +46,4 @@ Alignment analysis of full-time immediate two-year enrollment definitions betwee
 - [NSC and ICCB data agree on any-credential completion within four years for 96 percent of immediate two-year enrollees](nsc-iccb-any-credential-completion-alignment.md) — related
 - [NSC and ICCB data agree on immediate two-year college enrollment for about 96 percent of students, with ICCB showing a slightly higher enrollment rate](nsc-iccb-enrollment-alignment-96-percent.md) — related
 - [NSC data cannot be used alone to calculate two-year credential-type completion rates because 57.5 percent of completion records have a blank credential name field](nsc-cannot-calculate-credential-type-rates.md) — related
+- [Linking CPS, ISBE, and ICCB records through the CDDA ID matched 97 percent of the 2012 CPS graduating class to ICCB data](cdda-id-links-97-percent-cps-graduates-iccb.md) — related

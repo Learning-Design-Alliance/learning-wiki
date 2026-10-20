@@ -50,3 +50,4 @@ Regression analysis of the StudyChat corpus (1,540 sessions by 171 students), co
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
 - [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
 - [Sequential patterns of online PBL interactions predict final grades with higher explanatory power than interaction frequencies](sequence-patterns-beat-frequencies-pbl-grades.md) — related
+- [Dialogue act features raise regression R² but do not significantly improve outcome prediction over a prior-performance baseline](da-features-not-significant-over-baseline.md) — related

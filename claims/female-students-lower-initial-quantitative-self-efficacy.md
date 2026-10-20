@@ -51,3 +51,9 @@ Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task;
 - [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](infrequent-experiences-descriptive-self-efficacy-patterns.md) — related
 - [Female students performed significantly worse than male students overall, and learning effects of experience were higher for male students](gender-differences-legal-exam-performance.md)
 - [No gender differences in writing self-efficacy were found in any included postsecondary study](no-gender-differences-writing-self-efficacy.md) — related
+- [Single-sex math classrooms raised female students' math performance by 7–10% over co-educational programs](single-sex-classrooms-raise-female-math-performance.md) — related
+- [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
+- [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](gender-differences-local-judgments-sensitivity-specificity.md) — related
+- [The review reports that highly competent PALs increased learners' application of acquired knowledge while low-competent PALs increased self-efficacy](pal-competency-self-efficacy-application-tradeoff.md) — related
+- [Female students reported lower challenge emotions than male students after controlling for other variables](female-lower-challenge-emotions-genai.md) — related
+- [Female student teachers score significantly higher on performance goal orientation than male students, with no gender differences on the other dimensions](gender-performance-goal-orientation-females-higher.md) — reports the opposite

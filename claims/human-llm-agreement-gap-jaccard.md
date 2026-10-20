@@ -95,3 +95,13 @@ Same agreement analysis at the model level. LLM-LLM Jaccard ranged from 0.37 to 
 - [The LLM judge agrees with human annotators at 87.7% (κ = 0.842) on consensus pairs, but severity-rating agreement is uneven and medium-tier boundaries are uncertain](judge-calibration-labels-strong-severity-uneven.md)
 - Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — related
 - [Coder agreement ranged from 68.57% (identical) to 95% (category coding) across coding stages](sr-coding-interrater-agreement-rates.md)
+- [A Gemini-based creativity autorater scores real students' complex multimedia creativity tasks on par with human experts (item Kappa 0.66; total-score Pearson r = 0.88)](gemini-autorater-creativity-real-students.md) — related
+- [An automated LLM assessor rates 3E clinical communication skills with agreement comparable to individual human raters](llm-assessor-agrees-with-human-raters-3e.md) — related
+- [Gemini 2.0 Flash validated as a reliable LLM annotator of feedback focus types](gemini-flash-reliable-feedback-focus-annotator.md) — related
+- [LLM grading patterns cluster into six groups aligned with vendor families, with highest correlations within same-vendor model families](llm-grading-vendor-specific-six-clusters.md) — related
+- [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
+- [A multimodal LLM achieves moderate-to-substantial agreement with human consensus on well-defined CT practices but lower agreement on multi-component constructs like Physics Correctness and Systems Thinking](llm-human-agreement-ct-practices.md) — related
+- [GPT-5 used as a third coder introduced a calculation_check category absent from the human codebook, covering 28% of messages and exposing an unnamed recurring request type](gpt5-introduced-calculation-check-category.md) — related
+- [LLMs use fewer extreme grades than human examiners, with grade-dependent opposing biases compressing grades toward the middle](llm-central-tendency-grade-compression.md) — related
+- [Same-center cross-organ handbook agreement exceeds different-center same-organ agreement by 0.024, but the institution contrast is sensitive to coverage thresholds and document selection](same-center-cross-organ-agreement-exceeds-cross-center-same-organ.md) — related
+- [LLM-human factor-structure similarity is consistently lower than human-human similarity on both assessments](llm-human-factor-congruence-lower-than-human-human.md) — related

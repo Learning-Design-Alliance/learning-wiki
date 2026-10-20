@@ -46,3 +46,5 @@ Follow-up test on the prior knowledge main effect for propositional knowledge in
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — related
 - [Revisions to visuals had no effect on post-lesson test scores, though prior knowledge predicted performance](revised-visuals-no-learning-effect.md) — related
 - [High- and low-prior-knowledge learners differ significantly on an algebra posttest and on intrinsic and germane cognitive load, but not on extraneous load](high-and-low-prior-knowledge-learners-differ-in-posttest-intrinsic-and-germane-load.md) — related
+- [The recall benefit of prior problem-based discussion applies to both explanatory and descriptive propositions, with no interaction between treatment and proposition type](pbl-recall-benefit-general-not-explanation-specific.md) — related
+- [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related

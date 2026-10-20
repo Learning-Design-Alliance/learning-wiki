@@ -47,3 +47,4 @@ The review reports, citing Chang and colleagues (2014), an ARFlora system lettin
 
 ## Related Claims
 - [Multivoiced boundary crossing supports holistic nature connection and ethical reflection](multivoiced-boundary-crossing-supports-holistic-nature-connection-and-ethical-reflection.md) — related
+- [Teaching a ChatGPT agent improves students' self-regulated learning, specifically self-efficacy and use of cognitive strategies](chatgpt-teaching-self-efficacy-cognitive-strategies.md) — related

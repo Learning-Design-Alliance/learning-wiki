@@ -45,3 +45,4 @@ Reporting methodology described in the Your School Productivity Profiles section
 ## Related Claims
 - [Judging school improvement requires reading learning gain trends and output trends simultaneously, since either trend monitored alone can mislead](single-trend-reading-misleading.md) — related
 - [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — related
+- [Productivity profiles in adjacent grades are negatively related, so judging a school from selected grades alone can be very misleading](adjacent-grade-profiles-negatively-related.md) — related

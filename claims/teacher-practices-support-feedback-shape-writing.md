@@ -48,3 +48,6 @@ The brief distinguishes overt channels (instructional practices) from less obvio
 ## Related Claims
 - [Teachers play a key role in engaging students in writing and improving writing outcomes in grades 6-12](teachers-key-role-secondary-writing-outcomes.md) — possibly the same claim (merge candidate)
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [Interactive dialogue with the AI tool, available only in some sites, promoted deeper engagement and student agency during revision](interactive-genai-dialogue-promotes-engagement.md) — related
+- [Instruction should present the learning task as engaging and meaningful and promote positive expectations of success, because effort requires that learners value the task and believe they can succeed](effort-requires-task-value-and-expectation-of-success-arcs-rationale.md) — related
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related

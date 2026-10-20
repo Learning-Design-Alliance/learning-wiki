@@ -46,3 +46,5 @@ Cross-tabulation of students grouped low/high on each SDQ subscale against high/
 - [Hyperactivity and conduct problems were not statistically significant predictors of reading comprehension in this sample](hyperactivity-conduct-problems-not-significant-predictors.md) — related
 - [Students with low peer problems score significantly higher in reading comprehension than students with high peer problems](low-peer-problems-higher-reading-comprehension.md) — related
 - [Peer problems are the only statistically significant predictor of reading comprehension scores among hyperactivity, conduct problems, and peer problems](peer-problems-only-significant-predictor-reading-comprehension.md) — related
+- [Peer problems show a significant inverse correlation with reading comprehension (r = -.304)](peer-problems-inverse-correlation-reading-comprehension.md) — related
+- [Externalizing behaviors are related to reading, mathematics, and written language achievement in students with E/BD](externalizing-behaviors-related-to-achievement.md) — related

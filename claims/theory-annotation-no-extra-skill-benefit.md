@@ -44,3 +44,7 @@ Pre-registered regression (Model 2) comparing Arm 3 (model with theory) against 
 
 ## Related Claims
 - [Video models do not increase trainee teachers’ self-efficacy for questioning for retrieval relative to restudy](video-model-no-self-efficacy-gain.md) — related
+- [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — related
+- [Video models with integrated theory do not improve trainee teachers’ knowledge of questioning for retrieval relative to restudy](video-model-no-knowledge-gain.md) — related
+- [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](video-model-improves-retrieval-questioning-skill.md) — related
+- [Adding conceptual instruction to fact retrieval practice yields no additional fact retrieval benefit](conceptual-instruction-no-added-fact-retrieval-benefit.md) — related

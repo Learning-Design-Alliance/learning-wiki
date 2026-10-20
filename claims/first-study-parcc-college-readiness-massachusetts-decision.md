@@ -53,3 +53,4 @@ Introduction section of the brief describing the study's novelty and purpose: it
 - [Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades](mcas-and-parcc-both-predict-college-grades-similar-validity.md) — related
 - [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — related
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](parcc-mcas-similar-validity-college-grades.md) — related
+- [Many state assessments incorporated more sophisticated response formats to better assess college- and career-readiness](state-assessments-sophisticated-response-formats.md) — related

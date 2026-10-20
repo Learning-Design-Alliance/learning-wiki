@@ -49,3 +49,6 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [CLT lacks explicit assumptions about how cognition and effort are monitored and regulated, unlike SRL theories](clt-lacks-metacognitive-control-assumptions.md) — possibly the same claim (merge candidate)
 - [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — related
+- [Techniques yield learning gains only when they compensate for otherwise too-low focus support or reward (baseline-levels condition)](baseline-levels-condition-technique-effects.md) — related
+- [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
+- [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related

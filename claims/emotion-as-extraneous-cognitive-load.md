@@ -49,3 +49,4 @@ Theoretical argument presented in the article's abstract as the first of four pe
 - [Coherence Principle Irrelevant Material Hurts Learning](coherence-principle-irrelevant-material-hurts-learning.md) — related
 - [Emotion may affect intrinsic cognitive load, for example when emotion regulation is part of the learning outcomes](emotion-as-intrinsic-load-emotion-regulation.md) — related
 - [Collaborative learning distributes cognitive load across multiple working memories, aiding learning of high-load tasks](collaborative-learning-collective-working-memory-advantage.md) — related
+- [Metacognitive regulation of learning imposes additional cognitive load (metacognitive load) on top of the load of actual learning](metacognitive-load-additional-load.md) — a narrower finding that bears on this claim

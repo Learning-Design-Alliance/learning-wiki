@@ -48,3 +48,4 @@ Weighted effect size comparison in table B8 between language interventions using
 ## Related Claims
 - [Joint Book Reading Predicts Literacy Success](joint-book-reading-predicts-literacy-success.md) — a broader claim this one bears on
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related
+- [Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)](book-sharing-receptive-language-small-effect.md) — related

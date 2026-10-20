@@ -47,3 +47,4 @@ Pearson correlation analysis (Table 1) in the 525-student sample: distraction co
 
 ## Related Claims
 - [Students who use homework management skills at a high level are more likely to complete their homework](homework-management-predicts-completion.md) — related
+- [Teacher homework involvement positively predicts students' use of homework management strategies in secondary school students](teacher-involvement-predicts-homework-management.md) — related

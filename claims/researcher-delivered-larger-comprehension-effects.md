@@ -50,3 +50,4 @@ Categorical moderator analysis on immediate post-tests: researcher-delivered int
 - [Effects on reading comprehension are larger for primary schoolers than secondary schoolers and larger for typical readers than struggling readers, with no such differences for affirming motivations](comprehension-effects-sample-moderators.md) — related
 - [Effects on affirming motivations were largest for teacher reports, but this rests on a single study](teacher-report-measurement-moderator.md) — related
 - [Theory-based reading motivation interventions have a small significant positive effect on reading comprehension (d = 0.27)](reading-motivation-interventions-comprehension-effect.md) — a broader claim this one bears on
+- [Early reading interventions (Grades K–1) show larger effects than interventions provided in Grades 2–5](earlier-reading-intervention-larger-effects.md) — related

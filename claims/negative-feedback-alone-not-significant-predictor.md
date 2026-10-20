@@ -44,3 +44,7 @@ Same logistic regression analysis of the 60-learner, four-condition, 8-week stud
 
 ## Related Claims
 - [Producing modified output involving developmentally advanced question forms in response to negative feedback is the only significant predictor of ESL question development](modified-output-advanced-forms-predicts-question-development.md) — related
+- [Low-proficiency L2 learners benefited significantly more from prompts than from recasts](low-proficiency-learners-benefit-more-from-prompts.md) — related
+- [High-proficiency L2 learners benefited equally from prompts and recasts](high-proficiency-learners-benefit-equally-from-both.md) — related
+- [Prompts were overall more effective than recasts as corrective feedback for L2 grammar learning](prompts-more-effective-than-recasts-overall.md) — related
+- [Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks](ffi-with-prompts-beats-recasts-for-gender.md) — related

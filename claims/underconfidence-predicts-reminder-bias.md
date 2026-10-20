@@ -46,3 +46,7 @@ Experiment 2 one-sample t tests against zero on internal and external metacognit
 - [Framing adds an additive predictive value to the reminder bias beyond participants' internal metacognitive bias](framing-additive-beyond-metacognitive-bias.md) — related
 - [Participants still offload more than optimal under loss framing](reminder-bias-persists-under-loss-framing.md) — related
 - [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
+- [External reminders dramatically reduce forgetting of delayed intentions](external-reminders-reduce-forgetting.md) — related
+- [Individuals show a systematic positive reminder bias, setting more reminders than optimal](positive-reminder-bias.md) — related
+- [Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs](loss-framing-reduces-reminder-bias.md) — related
+- [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related

@@ -45,3 +45,8 @@ Correlational finding reported in the study: "a close relation" among the three 
 ## Related Claims
 
 - [Eighth graders experiencing ADI instruction scored significantly higher on the post-test of demonstrated scientific literacy (SLA-D) than students experiencing structured inquiry](adi-higher-sla-d-posttest-than-structured-inquiry.md)
+- [The ADI group showed significant within-group gains on demonstrated scientific literacy from pre- to post-test, while the structured-inquiry group did not](adi-within-group-sla-d-gain-comparison-null.md) — related
+- [Critiquing problematic inquiry cases before virtual-lab inquiry augments the effect of virtual labs on middle school students' scientific literacy more than teacher demonstration](critique-before-virtual-lab-inquiry-augments-scientific-literacy.md) — related
+- [ADI students' item-level gains concentrated on items about determining variables for a research question and on scientific inquiry questions](adi-item-level-gains-variables-inquiry-items.md) — related
+- [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md) — related
+- [Virtual labs showed a limitation in helping students transfer what they learned from teacher demonstration to new inquiry contexts](virtual-lab-transfer-from-demonstration-limited.md) — related

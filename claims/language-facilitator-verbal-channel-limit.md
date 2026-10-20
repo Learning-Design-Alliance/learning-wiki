@@ -46,3 +46,6 @@ Authors' interpretive analysis of the facilitator's channel: it operated through
 - [AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data](ai-facilitation-fragile-invents-data.md) — related
 - [A remote individual working from photographs completed a full and physically correct ISLE cycle, but the inquiry was disembodied](remote-case-d-full-cycle-disembodied.md) — related
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — related
+- [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](ai-gem-scaffolds-isle-epistemic-core.md) — related
+- [Embodied dance improvisation supports physics engagement and sense-making](embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) — related
+- [Robot embodiment changes verification and debugging: learners treat robot execution as perceptual evidence for hypothesis-driven revisions, while AI-Only learners rely on generic help-seeking](robot-embodiment-perceptual-evidence-debugging.md) — related

@@ -51,3 +51,5 @@ Observational analysis of the college trajectories of approximately 63,000 CPS g
 - [Four-year enrollees had stronger academic qualifications than two-year enrollees and non-enrollees, yet many non-enrollees and two-year entrants had credentials sufficient for four-year access](academic-qualifications-vary-by-enrollment-status.md) — related
 - [Each additional semester of continuous college enrollment is associated with a higher completion rate, but no specific semesters carry distinctive predictive value](continuous-enrollment-semesters-completion-gradient.md) — related
 - [A record high 7,368 students from the CPS class of 2018 graduated from college with a degree or certificate](cps-2018-record-college-graduates.md) — related
+- [Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree](cps-delayed-and-two-year-paths-low-degree-completion.md) — related
+- [Students who commit to a program of study within their first year are more likely to complete a credential or transfer within five years](early-program-entry-linked-to-completion.md) — related

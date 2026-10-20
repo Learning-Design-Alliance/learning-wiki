@@ -45,3 +45,6 @@ Interview evidence from one Scottish elementary teacher whose students worked in
 ## Related Claims
 - [Renewable assignments such as student-created quiz questions transcend classroom boundaries and can ameliorate economic injustice](renewable-assignments-economic-justice.md) — a broader claim this one bears on
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — related
+- [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
+- [The same quizzing or concept-mapping activity produces more learning when done without viewing the material, as retrieval, than while viewing it](closed-book-versions-of-quizzes-and-concept-maps-outperform-open-book-versions.md) — related
+- [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related

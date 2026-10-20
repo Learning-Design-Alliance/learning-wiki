@@ -50,3 +50,6 @@ Descriptive/theoretical statement from the Workbook G (Teacher Responses) sectio
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Subtle teacher guidance, not imposition, enables interdisciplinary integration in small-group deliberation](subtle-teacher-guidance-not-imposition-enables-interdisciplinary-integration.md) — related
+- [When correcting pupil work, the teacher revoices rather than dismisses pupils' solutions, challenging them toward more sophisticated ones](teacher-revoicing-pupil-solutions.md) — related
+- [A 1970 teacher self-analysis programme asserts, without reporting data, that questions referring to direct, concrete experiences are the most effective stimulators of pupil thinking](direct-experience-questions-stimulate-thinking.md) — related
+- [Most praise functions as a verbal reward, creating dependence on others' approval rather than self-generated criteria](praise-functions-as-verbal-reward.md) — related

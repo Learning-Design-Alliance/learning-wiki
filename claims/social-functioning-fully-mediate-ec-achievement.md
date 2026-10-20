@@ -51,3 +51,5 @@ Structural equation modeling with full information maximum likelihood in MPlus (
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
 - [Social competence is positively and externalizing problems negatively prospectively related to academic achievement](social-competence-positive-externalizing-negative-achievement.md) — related
+- [The mediated EC-achievement model is not moderated by children's sex, age, or SES](no-moderation-sex-age-ses.md) — related
+- [Latent EC at age 3 does not predict mathematics achievement, but EC at ages 3.75, 4.5, and 5.25 shows independent prospective links with mathematics](ec-predicts-math-from-3-75-onward.md) — related

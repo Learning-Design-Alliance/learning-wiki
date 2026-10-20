@@ -45,3 +45,4 @@ IRB-approved brief satisfaction survey of 22 previous Capstone students with sev
 ## Related Claims
 - [Manual assignment achieved the highest average student preference toward assigned projects, with the algorithm competitive and both substantially above random assignment](manual-assignment-highest-preference-satisfaction.md) — related
 - [A dynamic skill-weighted matching algorithm achieves higher percentage of skills fulfilled than manual and random assignment across both evaluated semesters](dynamic-skill-matching-higher-skill-coverage.md) — related
+- [Manual team formation required over 20 hours of instructor effort, while the algorithm produced assignments in milliseconds](algorithm-reduces-instructor-workload-milliseconds.md) — related

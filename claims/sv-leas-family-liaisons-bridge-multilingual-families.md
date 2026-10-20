@@ -68,3 +68,5 @@ The report describes the family liaison role's functions: "organizing community 
 - Most participating LEAs employ instructional coaches and program coordinators positioned to influence English Learner program design, but these roles are vulnerable to funding cuts — related
 - [Case study districts show potential underinvestment in family support and engagement, with most reporting no English Learner family/community liaisons](underinvestment-in-el-family-engagement-liaisons.md) — reports the opposite
 - [A field guide asserts that authentic family–school partnerships benefit student achievement and argues that without staff training and coaching the school–family divide persists](family-school-partnerships-need-staff-capacity.md) — related
+- [Communication challenges were the most reported barrier to supporting English language learner students, cited by 63 percent of schools](ell-support-communication-challenges-most-reported.md) — related
+- [Funded LEA respondents expressed general satisfaction with Title VII and reported using funds to hire staff and expand services for AI/AN students](title-vii-funded-lea-satisfaction-and-uses.md) — related

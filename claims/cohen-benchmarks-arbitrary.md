@@ -43,4 +43,6 @@ Interpretive argument in the section on interpreting Cohen's d, citing Thompson 
 
 
 ## Related Claims
--
+- [Statistically significant differences in approaches to learning can constitute small effects of little theoretical or practical importance](significant-differences-small-effects-approaches.md) — related
+- [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
+- [The test benefit of interleaved practice does not diminish over time and perhaps grows larger (d = 0.79 at 30 days)](interleaving-benefit-persists-thirty-days.md) — related

@@ -53,3 +53,4 @@ Technical findings across the cohort on using AI to evaluate AI outputs, reporte
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - [Case-based learning benefits were reported particularly when GenAI was embedded in faculty-guided teaching, while complex cases and team workflows showed null or unfavorable effects](genai-cbl-faculty-guided-conditional-benefits.md) — related
 - The primary learning challenge shifts from navigating networks to evaluating and integrating AI-generated output whose sources are not visible — related
+- [Humans are more certain when judging that facilitation is not needed than when judging it is](humans-certain-when-not-facilitating.md) — related

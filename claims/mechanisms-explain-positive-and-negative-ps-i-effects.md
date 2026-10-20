@@ -47,3 +47,4 @@ This is the article's concluding interpretive move (type e): the authors use the
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](accountability-effects-depend-on-type-context-task.md) — a broader claim this one bears on
 - [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](psi-effect-increases-with-grade-level.md) — a narrower finding that bears on this claim
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

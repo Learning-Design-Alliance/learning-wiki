@@ -46,3 +46,4 @@ RQ2 results of the case study: the authors describe co-dissemination in which "S
 - [Course-based research experience boundary objects support disciplinary integration and authentic research networks](course-based-research-experience-boundary-objects-support-disciplinary-integration-and-authentic-research-networks.md) — related
 - [Inquiry-based physics discussion supported peer co-construction of mechanistic explanations, distributing authority of knowledge and language among students](third-space-distributes-authority-among-students.md) — a broader claim this one bears on
 - [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related
+- [GenAI reconfigures group knowledge development from individual to distributed, AI-co-constructed processes](genai-reconfigures-group-knowledge-development.md) — related

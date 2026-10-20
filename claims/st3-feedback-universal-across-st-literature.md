@@ -45,3 +45,5 @@ The integrative literature review of 27 manuscripts defining systems coding each
 ## Related Claims
 
 - [Systems thinking alone is insufficient for investigating complex systems with time delays and feedback, motivating the addition of computational thinking](st-alone-insufficient-complex-systems.md)
+- [Systems thinking discourse shifted away from lower-level moves toward higher-level interconnections and feedback moves across the KBM unit](systems-thinking-discourse-shift-toward-higher-level-moves.md) — related
+- [Post-intervention domain knowledge correlated with final model scores and with higher-level systems thinking discourse (ST-3)](model-and-discourse-correlate-with-domain-knowledge.md) — related

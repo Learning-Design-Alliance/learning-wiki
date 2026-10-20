@@ -45,3 +45,5 @@ Motivating observational analysis (Figure 1) of representation similarity in pre
 ## Related Claims
 - [ProPRL incurs moderate overhead over DGCPL but remains lightweight, using under 40 MB GPU memory and under 0.18 seconds test-time inference](proprl-acceptable-computational-overhead.md) — related
 - [The greedy cycle-break algorithm functions as a safety mechanism: none of the five evaluation topics required prerequisite-edge removal](cycle-break-safety-mechanism-concept-graphs.md) — related
+- [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — a broader claim this one bears on
+- [Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy](shot-selection-originality-similarity-tradeoff.md) — related

@@ -50,3 +50,4 @@ Qualitative case analysis (§4.2) of refined versions of one signed multiplicati
 - [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](personalized-problem-contexts-boost-engagement-grades-4-8.md) — related
 - [PPB maintained comparable readability on three of four measures while increasing Flesch-Kincaid toward grade level](ppb-readability-comparable-flesch-kincaid-increased.md) — related
 - [Students frequently reported that personalized problem topics did not match their interests](students-report-topic-mismatch-interests.md) — related
+- [Teachers adjusted problem topics as the most common refinement move](teachers-adjust-problem-topics-refinement.md) — related

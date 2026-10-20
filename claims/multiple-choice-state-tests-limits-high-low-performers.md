@@ -64,3 +64,7 @@ Authors' discussion in the introduction's themes section about state tests, whic
 - [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related
 - [Teachers report changing high-quality instruction to match state and interim test formats, limiting deep learning opportunities](teachers-alter-instruction-to-match-test-formats.md) — related
 - [Instructional systems that do not explicitly develop evaluative expertise set up artificial but potentially removable performance ceilings](missing-evaluative-expertise-creates-performance-ceilings.md) — related
+- [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — a narrower finding that bears on this claim
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — a narrower finding that bears on this claim
+- [The tutor-access learning gain was concentrated in conceptual depth of written answers rather than multiple-choice scores](tutor-gain-concentrated-in-written-reasoning-depth.md) — a narrower finding that bears on this claim
+- [Teaching primarily helps the student agent realize existing potential rather than raise its absolute performance ceiling](teaching-narrow-pass-gap-not-ceiling.md) — related

@@ -44,3 +44,5 @@ Internal consistency was assessed with Cronbach's alpha and McDonald's omega per
 
 ## Related Claims
 - [Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning](genai-rts-rasch-five-point-format-recommendation.md) — related
+- [The 28 GenAI literacy criteria function coherently as indicators of a single underlying construct in a Rasch partial credit analysis](genai-literacy-items-single-construct-rasch-fit.md) — related
+- [Scalar measurement invariance of the GenAI-RTS holds across gender, first-generation status, and STEM/non-STEM majors](genai-rts-scalar-invariance-demographic-groups.md) — related

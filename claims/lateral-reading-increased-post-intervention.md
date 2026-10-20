@@ -46,3 +46,4 @@ Coded strategy analysis of students' written responses to Task 3 (climate-change
 - [Civic Online Reasoning Instruction Improves Evaluation](civic-online-reasoning-instruction-improves-evaluation.md) — a broader claim this one bears on
 - [College students' scores on an online source credibility assessment improved significantly after four course-embedded modules in an asynchronous nutrition course](course-embedded-modules-improve-credibility-scores.md) — related
 - [One-session checklist (CRAAP) instruction in source evaluation did no better than the alternative methods it was compared with in two quasi-experiments](checklist-evaluation-ineffective-online.md) — related
+- [Students' reliance on surface-level evaluation strategies declined after the modules, including trust in dot-org domains, links, appearance, and About pages](surface-strategies-declined-after-modules.md) — related

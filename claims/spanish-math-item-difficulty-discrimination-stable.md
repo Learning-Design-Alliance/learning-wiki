@@ -47,3 +47,5 @@ Operational item analysis of Spanish Math items administered during 2024–2025 
 - [Spanish Reading items show gradually increasing mean p values and stable discrimination with no negatively discriminating items](spanish-reading-item-statistics-stable.md) — related
 - [Spanish examinee RIT scores and item difficulty increase on average from kindergarten through high school, with item difficulty matching student ability](spanish-rit-scores-increase-by-grade.md) — related
 - Benchmark items showed high mean difficulty and low item discrimination, with many trivial items and only one broken item — reports the opposite
+- [Spanish Math and Reading scores show high marginal reliability and moderate-to-strong test-retest stability, lowest for fall–spring and kindergarten](spanish-reliability-marginal-test-retest.md) — related
+- [Most Spanish test items show negligible differential item functioning across gender and Hispanic–White comparisons](spanish-dif-negligible-most-items.md) — related

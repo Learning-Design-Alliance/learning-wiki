@@ -45,3 +45,5 @@ Interpretation of individually significant SWE-Chat traits from Table 2 with pri
 ## Related Claims
 - [PTA traits significantly predict per-session success in the SWE-Chat developer corpus beyond a prior-outcome baseline](pta-traits-predict-swe-chat-session-success.md) — related
 - [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
+- [Trait-score trajectories over time are inconclusive as learning-curve evidence: one StudyChat trait increases while SWE-Chat traits stay flat](trait-temporal-trends-inconclusive-learning-curves.md) — related
+- [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related

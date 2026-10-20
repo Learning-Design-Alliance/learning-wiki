@@ -44,3 +44,6 @@ Quasi-experimental event-study analysis of CPS principals and residency particip
 
 ## Related Claims
 - [A leaky pipeline limits the residency program's district benefits: only about half of completers became CPS principals within four years, at roughly $535,000 cost per new principal](residency-leaky-pipeline-limited-roi.md) — related
+- [After three years with a new principal, the average DCPS student's reading achievement increased by 4 percentile points (0.09 standard deviations) relative to retained-principal comparison schools](dcps-new-principals-reading-gain-4-percentile-points.md) — related
+- [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
+- [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — a broader claim this one bears on

@@ -65,3 +65,6 @@ Pearson correlation on the same sample found a small positive accuracy–confide
 
 - [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](inconsistent-absolute-accuracy-competitiveness.md) — related
 - [Confidence on the WMPT predicts numeracy but not reading or spelling](confidence-predicts-numeracy-only.md)
+- [WMPT accuracy is positively correlated with reading, numeracy, spelling and composite achievement scores](wmpt-accuracy-correlates-achievement.md) — related
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related
+- [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — related

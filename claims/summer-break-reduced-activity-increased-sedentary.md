@@ -47,3 +47,5 @@ The commentary's synthesis of observational studies reports "evidence from diffe
 - [Systematic reviews on regular physical activity and children's cognition reach conflicting conclusions, with math performance the most consistent beneficiary](pa-cognition-evidence-inconclusive-except-math.md)
 - [Pandemic-related reduction in physical activity was associated with worsened executive functioning in younger adults, with reversal upon increased activity](pandemic-pa-reduction-executive-worsening.md)
 - [TCT-DP creativity scores increase with age group, and adolescents are the most sedentary](tct-dp-increases-with-age.md)
+- [The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links](pa-indicators-intercorrelated.md) — related
+- [The parental summer education gap is largely college-educated parents spending more time facilitating children's summer activities](college-parents-facilitate-summer-activities.md) — related

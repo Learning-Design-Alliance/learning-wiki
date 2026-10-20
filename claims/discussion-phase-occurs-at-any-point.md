@@ -46,3 +46,5 @@ The synthesized framework treats Discussion as omnipresent rather than sequentia
 - [The Conceptualization phase divides into two alternative sub-phases, Questioning and Hypothesis Generation](conceptualization-questioning-hypothesis-subphases.md) — related
 - [The Investigation phase divides into three sub-phases: Exploration or Experimentation leading to Data Interpretation](investigation-exploration-experimentation-data-interpretation.md) — related
 - [Boundary-crossing mechanisms unfold sequentially across levels, and broker centrality creates an involvement paradox](boundary-crossing-mechanisms-unfold-sequentially-and-brokers-face-an-involvement-paradox.md) — related
+- [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — related
+- [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — a broader claim this one bears on

@@ -46,3 +46,5 @@ The review attributes the Matthew effect to Stanovich (2009) and notes it has al
 - [Early failure in phonetic recoding and decoding widens the acquisition gap between false beginners and successful learners over time](early-decoding-failure-widens-acquisition-gap.md) — related
 - [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
 - [Low-income children's test scores drop relative to higher-income peers during the summer months](low-income-summer-test-score-drop.md) — related
+- [Math achievement of BVI students lags sighted peers and the gap widens with age](bvi-math-achievement-lags-and-gap-widens.md) — related
+- [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related

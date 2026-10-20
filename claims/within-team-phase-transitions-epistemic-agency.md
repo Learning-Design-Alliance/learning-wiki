@@ -49,3 +49,5 @@ Statistical tests contrasting phases within each team (Table 6). "The Engineerin
 - [Engineering team focused on generative collaborative actions, product design team on creating shared understanding, and service design team on alleviating lack of knowledge](disciplinary-kc-focus-differences-prototyping.md) — related
 - [All teams showed divergent-then-convergent idea improvement patterns across prototyping sessions](divergent-convergent-idea-improvement-prototyping.md) — related
 - [Differences in shared epistemic agency between design teams change across prototyping phases](epistemic-agency-changes-across-phases.md) — related
+- [Engineering team converged earlier than other teams, concluding prototyping two minutes before the time limit](engineering-team-early-convergence-prototyping.md) — related
+- [Across all three groups, discussion was dominated by epistemic actions—especially generative collaborative actions—with sharing knowledge more common in the synthesis phase and generative collaboration more prevalent in the application phase](generative-collaborative-actions-dominant-across-groups.md) — related

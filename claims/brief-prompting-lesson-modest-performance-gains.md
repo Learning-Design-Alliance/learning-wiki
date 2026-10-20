@@ -45,3 +45,6 @@ Randomized controlled pre-test/post-test study with 55 engineering students (28 
 ## Related Claims
 - [The 45-minute prompting lesson significantly increased prompting self-efficacy relative to a business-as-usual control lesson](prompting-lesson-raises-self-efficacy.md) — related
 - [When prompts failed, students most commonly reported clarifying intent or specifying more detail, and reflecting on the problem depiction, rather than tracing code or examining test cases](clarify-intent-top-refinement-strategy.md) — related
+- [The classroom training is associated with a greater DCCS flexibility gain in the experimental group, though the printed ANOVA table reports a non-significant interaction](dccs-flexibility-gain-training-group.md) — related
+- [Prior programming experience significantly predicted Promptly task performance and prompting self-efficacy](prior-experience-predicts-prompting-outcomes.md) — related
+- [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related

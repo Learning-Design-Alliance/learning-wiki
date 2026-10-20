@@ -53,3 +53,6 @@ Experiment 1 time-allocation analysis: instructed group M = 21.89 minutes versus
 - [Effects of instructions on some measures were inconsistent across experiments, and instructed students did not recall all items to criterion](mixed-effects-across-experiments-criterion-failures.md) — related
 - [Interaction volume during AI-supported practice sessions did not differ significantly across conditions, supporting comparability of practice exposure](practice-exposure-comparable-across-conditions.md) — related
 - [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — related
+- [Cumulative correct answers on blended-workshop activities relate to final exam score, but number of attempts does not](activity-accuracy-not-attempts-predicts-final-exam.md) — related
+- [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
+- [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related

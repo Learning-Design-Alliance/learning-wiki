@@ -44,3 +44,6 @@ In the focus groups, a current student described the problem of not knowing what
 
 ## Related Claims
 - [Students are dissatisfied with college websites and want interactive, dynamic, accurate, and timely online information](students-dissatisfied-with-college-websites.md) — related
+- [Former students who dropped out want colleges to proactively invite them to return and explain how to return](noncompleters-want-proactive-return-outreach.md) — related
+- [Community college students want to feel connected to their college — faculty, staff, peers, and services — from entry through completion](students-want-connection-to-college-throughout-experience.md) — related
+- [Information barriers disadvantage low-income students in the college transition: bright low-income students miss selective colleges, and mailed information packages raise application and enrollment](college-information-barriers-low-income-students.md) — related

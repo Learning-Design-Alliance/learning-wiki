@@ -45,3 +45,6 @@ This is Proposition 5 of the article's conceptual framework, a theoretical argum
 ## Related Claims
 - [Emerging empirical studies report positive associations between generative AI use and international-student adaptation](ai-use-positive-adaptation-associations.md) — related
 - [AI Prompting Literacy is indirectly and significantly associated with Deep Revision Engagement through Perceived Competence, Intrinsic Motivation, and Psychological Safety](apl-parallel-mediation-deep-revision.md) — related
+- [The article proposes an empirical validation agenda: comparing perceived competence under LLM-assisted versus unaided conditions, with measurement frameworks and longitudinal designs](llm-fallacy-empirical-validation-agenda.md) — related
+- [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — a broader claim this one bears on
+- [Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.](chatgpt-convenient-tool-personal-benefit-motivation.md) — related

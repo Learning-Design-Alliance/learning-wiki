@@ -45,3 +45,5 @@ Correlational moderator analysis reported in the study summary: reading-product 
 ## Related Claims
 - [After one year, reading and mathematics software products did not increase or decrease test scores by amounts statistically different from zero](edtech-software-null-average-test-score-effects-year-one.md) — related
 - [Effects of mathematics software products were uncorrelated with classroom and school characteristics](math-software-effects-uncorrelated-classroom-school-characteristics.md) — related
+- [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related
+- [In the 2005-2006 school year, only one of 10 computer-based reading and math software products had statistically significant positive effects on student outcomes](one-of-ten-software-products-significant-positive-effects.md) — related

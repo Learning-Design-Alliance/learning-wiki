@@ -46,3 +46,5 @@ Qualitative thematic analysis of learner feedback in the participatory design st
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — a broader claim this one bears on
+- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](conceptual-ambiguity-impedes-theory-integration.md) — related

@@ -47,3 +47,4 @@ Report finding comparing CPS's 66% immediate college enrollment rate with the mo
 - Immediate college enrollment declined from 62 percent for the CPS class of 2019 to 58 percent for the class of 2020, driven more by the drop in two-year than four-year enrollment — related
 - CPS class of 2020 graduates were less likely to enroll in two-year colleges (20.0% in 2019 vs. 16.4% in 2020) — related
 - [CPS class of 2020 graduates enrolled in four-year colleges at rates similar to previous cohorts (41.8% in 2019 vs. 40.8% in 2020)](cps-2020-four-year-enrollment-steady.md) — related
+- [CPS class of 2024 students reached near-record highs in high school graduation (84%) and immediate college enrollment (66%), on par with national averages](cps-2024-graduation-enrollment-near-record-highs.md) — reports the opposite

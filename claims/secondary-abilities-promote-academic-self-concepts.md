@@ -45,3 +45,4 @@ Theoretical proposal stated in the article's abstract. The authors argue, withou
 ## Related Claims
 - [Social and physical self-concepts (e.g., relative physical abilities) appear universal and central to overall self-concept, unlike academic self-concepts](universal-social-physical-self-concepts.md) — related
 - [Episodic prospection develops over an extended period and may support academic behaviors aimed at envisioned future selves](episodic-prospection-development-academic-behavior.md) — related
+- [The relative importance of academic self-concepts depends on explicit social and cultural supports for their valuation](academic-self-concept-cultural-valuation.md) — related

@@ -46,3 +46,5 @@ This is the paper's central proposal, argued from the premise that experiential 
 ## Related Claims
 - [Conscientization, grounded in Freire's consciousness-raising, is argued to fit adventure therapy's experiential learning methodology as the first empowerment level](conscientization-fits-adventure-therapy.md) — related
 - [Narrative and storying genres in educational inquiry risk disempowering the very people they claim to empower](narrative-genres-may-disempower-while-claiming-empowerment.md) — related
+- [Resource mismatch, missing incentives, and discontinuous post-training support constrain the sustainability of training transfer](resource-mismatch-and-support-discontinuity-constrain-transfer.md) — related
+- [Organizational empowerment through clear role positioning and multidisciplinary support enables sustained training transfer](organizational-empowerment-enables-transfer.md) — related

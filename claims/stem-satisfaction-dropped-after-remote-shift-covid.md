@@ -45,3 +45,4 @@ National probability-based KnowledgePanel survey (May 13 to June 1, 2020) of und
 ## Related Claims
 - [Post-shift satisfaction was lower for STEM courses than for non-STEM courses, a gap that predated the shift](stem-less-satisfied-than-non-stem-post-shift.md) — related
 - [Undergraduate course satisfaction dropped sharply after courses moved fully online during COVID-19, with very satisfied students falling from 51 percent to 19 percent](satisfaction-drop-sudden-online-covid.md) — a broader claim this one bears on
+- [Students experiencing more major challenges reported lower satisfaction with their post-COVID STEM course and learning](more-challenges-lower-post-covid-satisfaction.md) — related

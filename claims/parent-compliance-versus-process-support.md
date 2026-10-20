@@ -68,3 +68,5 @@ Review attributions to Vazquez et al. (2020) on process-supportive parental help
 ## Related Claims
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
 - [Parents want more academic interaction with high schools, but schools focus communication on rules and problems](parents-want-academic-interaction-schools-focus-rules.md) — related
+- [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — a broader claim this one bears on
+- [Text-message alerts to parents about incomplete middle-school homework raise student performance](parent-text-alerts-incomplete-homework-raise-performance.md) — related

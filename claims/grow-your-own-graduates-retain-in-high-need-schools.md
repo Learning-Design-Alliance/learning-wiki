@@ -66,3 +66,6 @@ The report describes California's School Paraprofessional Teacher Training Progr
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
+- [All six studied high-certification districts partner with at least one teacher residency program and at least one Grow Your Own program](district-pipeline-partnerships-residency-gyo.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — a broader claim this one bears on
+- [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](residency-completers-more-effective-and-retained.md) — related

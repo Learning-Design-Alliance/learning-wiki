@@ -46,3 +46,7 @@ Internal program review involving staff, students, industry collaborators and be
 ## Related Claims
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [RAIL-Ed's integrative commitment holds that the absence of any pillar produces a characteristic pedagogical failure](rail-ed-integrative-failure-modes.md) — related
+- [LLMs help bridge the gap between theoretical curricula and real-world skills by creating simulated scenarios, cases and problem contexts that are hard to reproduce in traditional classrooms](llm-simulations-bridge-theory-practice-gap.md) — related
+- [Project-based learning improves achievement](project-based-learning-improves-achievement.md) — a broader claim this one bears on
+- [Some Chinese students felt uncomfortable with case-based learning due to lack of structured instruction content](case-based-learning-uncomfortable-unstructured-instruction.md) — related

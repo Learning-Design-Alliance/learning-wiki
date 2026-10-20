@@ -48,3 +48,5 @@ Results section on shaming oneself and others: the interview study found "Shamin
 ## Related Claims
 - [Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure](shame-guilt-regulate-ai-use-visibility.md) — related
 - [Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change](shame-guilt-cycles-continued-ai-use.md) — related
+- [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
+- [AI use threatens students' computing identities as competent, hardworking, and ethical, with students identifying as cheaters, lazy, or incompetent even where AI is permitted](ai-use-threatens-computing-identity.md) — related

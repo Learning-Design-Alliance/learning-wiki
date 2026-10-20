@@ -47,3 +47,4 @@ In the randomized comparison of student state assessment outcomes across the 100
 - [Teachers whose principals received the professional development reported receiving less frequent instructional support and feedback than teachers whose principals did not](principal-pd-teachers-report-less-instructional-support.md) — related
 - In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not — related
 - [Reading Apprenticeship active-learning PD produced a year's reading growth and better state assessment results for students](reading-apprenticeship-student-gains.md) — related
+- [Teachers whose principals received the program were no more likely to report positive perceptions of the usefulness of the feedback provided](principal-pd-no-change-feedback-usefulness-perceptions.md) — related

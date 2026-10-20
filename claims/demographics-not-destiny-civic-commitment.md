@@ -48,3 +48,5 @@ In the longitudinal analysis of Chicago high school students, demographic factor
 ## Related Claims
 - [General academic supports and quality instruction are insufficient to foster civic commitment; supportive teachers and quality instruction were not statistically related to it](academic-outcomes-focus-insufficient-civic-commitment.md) — related
 - [Service learning and in-class civic learning opportunities are more strongly associated with high school students' later commitment to civic participation than the other school, family and community factors studied](service-learning-and-in-class-civic-learning-strongest-predictors-civic-commitment.md) — related
+- [Neighborhood poverty concentration and parental press for academic achievement each had negative effects on students' civic commitments](poverty-concentration-and-parental-academic-press-negative-civic-effects.md) — related
+- [Students who witnessed concern for community and current events at home, in the neighborhood or at school were more likely to be committed to civic participation](experiencing-civic-community-fosters-commitment.md) — related

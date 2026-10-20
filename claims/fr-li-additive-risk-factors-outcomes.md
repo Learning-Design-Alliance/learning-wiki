@@ -49,3 +49,5 @@ Dilnot, J., Hamilton, L., Maughan, B. and Snowling, M. (2017). Child and Environ
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — reports the opposite
 - [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related
+- [Children at family-risk of dyslexia perform more poorly than typically developing controls on the cognitive foundations of arithmetic and on arithmetic itself](family-risk-dyslexia-poorer-arithmetic-foundations.md) — related
+- [A cumulative risk index and nonverbal IQ together account for 31% of variance in reading readiness at school entry](cumulative-risk-iq-31-percent-reading-readiness.md) — related

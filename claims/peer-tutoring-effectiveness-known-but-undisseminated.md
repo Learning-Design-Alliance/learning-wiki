@@ -45,3 +45,5 @@ The review's concluding assessment states that "Much is already known about the 
 ## Related Claims
 - [Passive dissemination approaches are generally ineffective and unlikely to result in professional behavior change](passive-dissemination-ineffective-provider-behavior.md) — related
 - [Human tutoring has a medium effect over no tutoring, and in one small study students learned as well when tutors only prompted them as when tutors also explained and gave feedback](tutoring-effectiveness-comes-from-scaffolding-and-feedback.md) — a narrower finding that bears on this claim
+- [Most professional behavior change interventions are effective under some circumstances but none are effective under all circumstances](no-intervention-effective-all-circumstances.md) — related
+- [Educational outreach (for prescribing) and reminders are promising approaches to changing professional behavior](educational-outreach-and-reminders-promising.md) — related

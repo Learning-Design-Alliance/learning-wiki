@@ -45,3 +45,4 @@ Process-level analysis of the nine fully archived sessions (three per package), 
 ## Related Claims
 - [ChatGPT produced executed, grader-accepted submissions for all three fixed personalized Qiskit assignment instances in 150 of 150 sessions](chatgpt-completes-all-150-qiskit-homework-sessions.md) — related
 - [Module 3 code execution success dropped to approximately 60% before a missing-dependency infrastructure fix, recovering to match the 86–87% rates of Modules 1 and 2](itas-module3-success-rate-infrastructure-fix.md) — related
+- [Optional IBM Quantum hardware execution supplied extra evidence but did not remove substantial AI assistance, as ChatGPT generated the code and could interpret returned noisy data](hardware-execution-did-not-eliminate-llm-assistance.md) — related

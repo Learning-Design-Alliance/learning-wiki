@@ -48,3 +48,5 @@ Multiple-group analysis by child gender with Wald tests of eight paths; only the
 - [Child gender at kindergarten entry predicts initial functioning: boys show more conflict and inattention/impulsivity, girls more closeness and school engagement](gender-predicts-relationships-and-behavior-at-entry.md) — related
 - [Mothers' initial growth mindset positively predicted children's growth mindset two-and-a-half years later](maternal-initial-mindset-predicts-child-later-mindset.md)
 - [Fathers' and mothers' growth mindset also declined significantly over the two-and-a-half-year period](parent-growth-mindset-declines-longitudinally.md)
+- [The rate of change in mothers' growth mindset predicted both children's later growth mindset level and children's own rate of change](maternal-mindset-change-predicts-child-trajectory.md) — related
+- [Neither the initial level nor the decline of fathers' growth mindset significantly predicted children's growth mindset development](paternal-mindset-no-significant-prediction.md) — reports the opposite

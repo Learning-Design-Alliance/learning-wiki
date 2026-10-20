@@ -54,3 +54,6 @@ Multilevel HLM in the 4-year group RCT showed children in the intervention schoo
 - [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
+- [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school](swpbis-reduces-growth-peer-rejection.md) — related
+- [SWPBIS effects on discipline referrals and school services tended to be greatest among children rated at-risk or high-risk at baseline](swpbis-effects-greatest-at-risk-high-risk-children.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related

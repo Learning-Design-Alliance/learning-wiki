@@ -50,3 +50,4 @@ Randomized controlled trial, progressing-in-school outcome conditional on remain
 - [Students show signs of dropout risk early in high school, and schools that reach out in the ninth-grade year can keep them on track to graduate](ninth-grade-early-outreach-keeps-students-on-track.md) — related
 - [Demopolis High School's Google Sheets-based student tracker was followed by a 7% drop in chronic absenteeism and over 3% change in graduation rate](dhs-sheets-tracker-absenteeism-graduation-gains.md) — related
 - [Twelve Together has potentially positive effects on staying in school, based on a lower (non-significant) dropout rate than control](twelve-together-potentially-positive-staying-in-school.md) — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — a broader claim this one bears on

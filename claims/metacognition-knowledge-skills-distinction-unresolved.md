@@ -46,3 +46,6 @@ Editorial argument by the journal's editor that the interchangeable use of metac
 
 - [The complex interaction between cognition and metacognition is hard to disentangle because the constructs rely on and influence each other and share processes](cognition-metacognition-interaction-dilemma.md)
 - [The field of metacognition lacks a unified definition, impeding theoretical integration across disciplines](metacognition-lacks-unified-definition.md)
+- [Whether metacognition is domain-general or domain-specific remains a major unresolved issue with implications for instruction and transfer](metacognition-domain-generality-specificity-open-issue.md) — related
+- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — related
+- [Metacognition assessment is shifting from self-report questionnaires toward process-oriented multimodal methods, which face validity and data-alignment challenges](process-oriented-metacognition-assessment-shift.md) — related

@@ -46,3 +46,5 @@ Analysis restricted to the 557 (78%) participants who met the learning criterion
 
 - [Confidence ratings do not impede category learning per se: no condition differences in training accuracy or on unambiguous and trained transfer items](no-confidence-rating-effect-training-or-unambiguous-items.md)
 - [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](rating-scope-confidence-versus-jol-reactivity.md)
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — a broader claim this one bears on
+- [Confidence ratings are unlikely to be an effective educational tool when knowledge transfer is the goal](confidence-ratings-unsuitable-for-transfer-goals.md) — related

@@ -51,3 +51,4 @@ Thematic analysis across seven accomplishment themes: career transition and expe
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
 - [People and connections were the most-used learning transition supports among HSE participant-advisors](people-connections-top-transition-support.md) — related
 - [Advancement to WRL 7 was observed only after industry-embedded exposure, not additional coursework](wrl-6-to-7-gated-by-industry-embedded-exposure.md) — related
+- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related

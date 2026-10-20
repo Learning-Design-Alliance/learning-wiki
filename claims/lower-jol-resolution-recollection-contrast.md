@@ -45,3 +45,4 @@ The review reports a study of older adults' JOLs for a word recognition test wit
 ## Related Claims
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
 - [The literature is mixed on age differences in the accuracy of retrospective confidence judgments during recognition memory tests, with older adults sometimes producing more high-confidence false alarms and poorer resolution with deceptive lures](mixed-age-differences-confidence-judgment-resolution.md) — related
+- [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — related

@@ -52,3 +52,6 @@ Analysis of 16 LLMs' ordinal ratings of 479 lesson transcripts from 311 classroo
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
 - [Full-scale LLM versions consistently achieve higher agreement with human grades than their mini and nano counterparts](full-scale-llms-outperform-mini-nano-grading.md) — related
 - [Machine learning measures of student engagement correlate moderately to highly with manual ratings, but manual ratings better predict self-reported engagement](goldberg-ml-engagement-measurement.md) — related
+- [The human-refined framework improved human agreement substantially but produced only modest gains for ICL-based LLM annotation](human-refined-framework-gains-humans-not-llms.md) — related
+- [GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error](turn-level-convergence-gpt-4o-mini.md) — related
+- [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](llm-essay-scoring-weak-human-agreement.md) — a broader claim this one bears on

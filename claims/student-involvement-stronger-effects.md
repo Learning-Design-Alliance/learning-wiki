@@ -49,3 +49,5 @@ The meta-analysis reports "preliminary evidence shows that higher levels of stud
 
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Formal concept analysis identifies self-monitoring as the primary developmental gateway and multiple viable pathways to expertise](fca-self-monitoring-gateway-multiple-pathways.md) — related
+- [Higher levels of maternal help, press for intellectual development, and monitoring are associated with poorer children's arithmetic skills](maternal-practices-linked-poorer-arithmetic-skills.md) — related

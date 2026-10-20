@@ -47,3 +47,4 @@ ANCOVA with 147 kindergarteners controlling EF, gender, and age; CBSR was higher
 - [Mindsets relate to kindergarteners' achievement indirectly through executive functions and classroom behavioral self-regulation as mediators](mindsets-achievement-indirect-via-self-regulation.md) — a broader claim this one bears on
 - [Mastery orientation relates to classroom behavioral self-regulation only indirectly via executive functions, while trait beliefs relate mainly directly](sem-differential-paths-mindsets-cbsr.md) — related
 - [Kindergarteners with a mastery goal orientation show better executive functions than children with a performance orientation](mastery-orientation-better-executive-functions-kindergarten.md) — related
+- [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related

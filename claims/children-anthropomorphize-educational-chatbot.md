@@ -53,3 +53,6 @@ Thematic analysis of student dialog transcripts identified three themes, includi
 - [Children were split about confiding in the chatbot, with about half willing to share secrets or ask advice and half not](children-split-on-confiding-in-chatbot.md) — related
 - [Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source](children-trust-test-chatbot-with-known-answers.md) — related
 - [The lived experience of conversing with a pedagogical agent comprises five interdependent phenomenological themes](five-themes-conversing-pedagogical-agent.md) — related
+- [Students generally trusted the chatbot's responses, often rating them like responses from teachers or friends](students-trusted-ama-responses.md) — related
+- [Most students posed one to three questions to the chatbot, with a minority showing substantially higher engagement](ama-engagement-question-counts.md) — related
+- [A guided posthumanist writing experiment showed a student internalizing a posthumanist ontology, yet her evaluative criteria remained human-centric](asuka-posthumanist-experiment-human-centric-evaluation.md) — related

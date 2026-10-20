@@ -47,3 +47,4 @@ Descriptive examination of histograms (Figure 3.5) plotting original item diffic
 - [Robust Z procedure flagged between 4.2% and 6.9% of MAP Growth items as unstable across subjects](robust-z-flagged-items-percentage.md) — related
 - [Both item-level and test-level analyses indicate the MAP Growth measurement scales are remaining stable](map-growth-scales-remaining-stable.md) — related
 - [The number of flagged items was unrelated to equating order, and flagged items showed no meaningful content-property pattern](flagged-items-unrelated-to-equating-order-and-content.md) — related
+- [Average drift in MAP Growth item difficulty estimates is negligible across subjects, with original-new correlations above 0.99](map-growth-average-difficulty-drift-negligible.md) — related

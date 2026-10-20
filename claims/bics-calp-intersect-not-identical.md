@@ -55,3 +55,4 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
 - [Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms](bilingual-policy-fosters-multicultural-pedagogical-interaction.md) — a narrower finding that bears on this claim
+- [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related

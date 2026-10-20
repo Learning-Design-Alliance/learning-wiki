@@ -45,3 +45,4 @@ In the same quasi-experiment, attitudes were measured with questionnaires descri
 - [Multivariate analysis confirmed a significant overall group effect, and all outcome variables correlated positively in both groups](ai-ibi-multivariate-group-effect-positive-correlations.md) — related
 - [AI-supported inquiry-based learning did not produce a statistically significant improvement in students' critical problem-solving skills](ai-ibi-no-significant-gain-critical-problem-solving.md) — related
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](ai-ibi-mainly-supports-creativity-and-affect.md) — related
+- [AI-generated responses positively influenced the self-efficacy of secondary students in solving mathematics problems](ai-generated-responses-positive-self-efficacy.md) — related

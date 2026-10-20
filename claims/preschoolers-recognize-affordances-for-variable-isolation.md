@@ -47,3 +47,5 @@ The article states its research question about preschoolers (mean: 54 months): w
 - [Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)](preschoolers-select-informative-interventions-ambiguous-evidence.md)
 - [Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play](stimulus-and-baseraate-manipulations-shape-exploratory-play.md)
 - [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](preschoolers-design-informative-interventions-ambiguous-evidence.md) — related
+- [Children structure their play to reduce uncertainty and deconfound causal variables](children-play-deconfound-causal-variables.md) — related
+- [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md) — related

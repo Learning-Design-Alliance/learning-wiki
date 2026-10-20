@@ -61,3 +61,8 @@ Lottery-based tracking study of 2,066 applicants compares students attending bot
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
 - [Comprehensive community school interventions show positive impacts on student outcomes including attendance, achievement, graduation, and reduced achievement gaps](community-schools-comprehensive-positive-impact.md) — related
 - Harlem Children's Zone lottery winners scored significantly higher in math and reading and showed long-term benefits — related
+- [Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts](wraparound-support-increases-college-completion.md) — related
+- [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) — related
+- [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](kipp-tracking-1177-lottery-applicants-13-schools.md) — related
+- [KIPP's Five Pillars strongly influenced the charter school community and traditional public schools](kipp-five-pillars-influenced-charter-sector.md) — related
+- [No detectable effects of KIPP Atlanta Collegiate High School on overall credential completion during the study period](kipp-atlanta-no-credential-completion-effect.md) — related

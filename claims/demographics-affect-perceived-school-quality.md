@@ -47,3 +47,5 @@ The randomized survey experiment reports that "student demographics affect both 
 - [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related
 - Family demographics were largely unrelated to goal setting, with child gender the only associated variable — related
 - [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related
+- [Growth matters more than achievement or status when parents choose between schools](growth-matters-more-when-choosing-between-schools.md) — related
+- [Commuting distance, school demographics, and academics play important roles in parents' school choices in Washington, DC](dc-parents-distance-demographics-academics-drive-choice.md) — related

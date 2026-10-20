@@ -46,4 +46,8 @@ Finding from the mixed-methods analysis of 112 student reflections in the 12-wee
 - [Critical Thinking](../learner-variables/critical-thinking.md) — outcome: instruction changes it
 
 ## Related Claims
--
+- [Student experiences with GenAI in design thinking fall into four themes: perceived benefits, ethical concerns, hesitance and acceptance, and critical validation](genai-design-thinking-four-themes.md) — possibly the same claim (merge candidate)
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — reports the opposite
+- [Critical AI literacy emerged as both a learning-design goal and a condition of teachers' professional mediation](critical-ai-literacy-dimension.md) — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related

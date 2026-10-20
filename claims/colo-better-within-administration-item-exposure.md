@@ -47,3 +47,5 @@ Item exposure rates within an administration were computed for each item in the 
 - [Adaptivity and score reliability of both engines depend on item-pool depth; the CBE often performed better than COLO for extreme low or high achievers when item banks were shallow](cbe-better-adaptivity-extreme-achievers-shallow-banks.md) — related
 - [Item exposure rates are comparable across engines, with most items below 10%, and the CBE Reading item-use rate is lower than COLO's](cbe-colo-item-exposure-comparable.md) — related
 - [Test lengths are comparable across engines, but CBE test durations are higher than COLO's in both terms and content areas, more prominently in Reading](cbe-longer-test-duration-comparable-length.md) — related
+- [CBE shows better engine adaptivity than COLO, especially for extremely low or high achievement students](cbe-better-adaptivity-extreme-achievers.md) — related
+- [Differences in test-taking engagement across content categories were primarily due to differences in the reading load of items](engagement-differences-across-content-categories-due-to-reading-load.md) — related

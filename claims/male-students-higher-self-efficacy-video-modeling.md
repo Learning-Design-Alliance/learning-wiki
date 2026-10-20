@@ -43,4 +43,9 @@ Mixed ANOVA on self-efficacy in the 2x2 experiment: significant observer-gender 
 
 
 ## Related Claims
--
+- [Judgment-of-learning accuracy after video modeling examples does not differ by model or observer gender, and students of both genders predict their performance accurately](jol-accuracy-unaffected-by-gender-video-modeling.md) — related
+- [Female students reported significantly lower initial self-efficacy for quantitative biology problems than male students, with small effect sizes](female-students-lower-initial-quantitative-self-efficacy.md) — related
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — a broader claim this one bears on
+- [Male secondary students report significantly higher STEM career interest than female students across AI, computer science, and engineering at baseline](baseline-male-higher-stem-career-interest-ai-literacy.md) — related
+- [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
+- [Observing a male model enhances perceived competence more from pretest to posttest than observing a female model, for both male and female observers](male-model-boosts-perceived-competence.md) — related

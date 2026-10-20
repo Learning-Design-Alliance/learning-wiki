@@ -43,4 +43,4 @@ A case study of two federal grant initiatives describes the shared ETA model the
 
 
 ## Related Claims
--
+- [A pilot initiative partnered Mathematica and Catalyst:Ed with the Gates Foundation and nine K-12 education grantees to build strategic learning capacity from May 2020 to September 2021](cbsl-pilot-nine-grantees-partnership.md) — related

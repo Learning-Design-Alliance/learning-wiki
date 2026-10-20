@@ -61,3 +61,6 @@ Study 2 thematic analysis of twelve student interviews produced Global Theme 1 f
 - [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related
 - [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related
 - [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md) — related
+- [Children exhibited creative and communicative ways of thinking and working in collaborative tasks](preschoolers-creative-communicative-collaborative-tasks.md) — related
+- [Evaluations of parent education initiatives using experiential methods found positive results for parents](parent-education-experiential-evaluations-positive.md) — related
+- [Students perceive that applying knowledge gained through new meaningful experiences creates lasting personal growth (gain)](students-lasting-personal-growth-experiences.md) — related

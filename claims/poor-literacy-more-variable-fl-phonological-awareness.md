@@ -48,3 +48,4 @@ Meta-analysis of the natural logarithm of the ratio of coefficients of variation
 ## Related Claims
 - [Children/adolescents with poor literacy skills score poorer on foreign language phonological awareness, letter knowledge, and reading comprehension than peers with typical literacy skills](poor-literacy-lower-fl-phonological-awareness-letter-knowledge-reading-comprehension.md) — related
 - [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](heterogeneity-limits-fl-attainment-interpretation.md) — related
+- [Exempting students with poor literacy skills from foreign language instruction is not based on systematic evidence](fl-exemption-policies-lack-evidence.md) — related

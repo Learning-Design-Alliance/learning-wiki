@@ -48,3 +48,4 @@ This is the paper's central methodological argument, made as a theoretical argum
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Studies finding grades less predictive often use restricted samples or weighted or self-reported GPAs, which are less accurate](restricted-samples-explain-divergent-grade-predictions.md) — related
+- [Evidence is mixed on whether including demographic variables as predictors improves model performance in educational prediction](mixed-evidence-demographic-predictor-performance.md) — related

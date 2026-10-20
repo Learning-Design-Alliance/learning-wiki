@@ -68,3 +68,6 @@ The same material-type moderator analysis found a blocking advantage for word ma
 - [Spacing content over time and interweaving different content strengthens learning and retention](spacing-interleaving-improve-retention.md) — a broader claim this one bears on
 - [The interleaving effect generalizes to visual materials, with the largest effects for paintings](interleaving-strongest-for-paintings-visual-materials.md) — related
 - [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — related
+- [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
+- [Interleaving is most useful when differences between items are subtle; blocking can be preferable when category members are diverse](interleaving-similarity-boundary-condition.md) — related
+- [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related

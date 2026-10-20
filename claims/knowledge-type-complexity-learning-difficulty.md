@@ -48,3 +48,5 @@ A linear planned contrast (facts +3 to procedures −3) tested the type-of-knowl
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
 - [Classifying provided examples is more effective for learning relational categories than reading or generating examples](classifying-examples-beats-reading-generating-relational-categories.md) — related
 - [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related
+- [KLI complexity-matching hypothesis: instructional principles of a given complexity are effective for knowledge components of equal or greater complexity but not less complex ones](kli-complexity-matching-hypothesis.md) — related
+- [Media effects on learning are not homogeneous across knowledge categories](media-effects-vary-by-knowledge-category.md) — related

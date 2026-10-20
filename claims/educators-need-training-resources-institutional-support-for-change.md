@@ -64,3 +64,4 @@ Coding of open-ended responses (one researcher, reviewed by another) found 29% e
 ## Related Claims
 - [Professional development participation is mainly a matter of individual teacher initiative, with the teachers most in need of development least likely to pursue it](professional-development-individual-initiative-pattern.md) — related
 - Obligation expressions in GenAI higher-education abstracts fall mainly on institutions and educators, with students receiving six and a third of clauses impersonal — related
+- [Principals and teachers report needing more support in areas such as analyzing student data and using assessments to measure growth](educator-capacity-support-needs-tpe.md) — related

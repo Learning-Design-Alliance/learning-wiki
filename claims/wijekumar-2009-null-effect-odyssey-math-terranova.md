@@ -45,3 +45,4 @@ Cluster randomized controlled trial across 32 schools in Delaware, New Jersey, a
 - [Cornelius (2013) finds a positive, statistically significant effect of Odyssey® Math versus teacher-directed supplemental instruction on STAR Math scores](cornelius-2013-significant-positive-effect-star-math.md) — related
 - [DiLeo (2007) finds a substantively important but statistically non-significant positive effect of Odyssey® Math on grade 5 PSSA math scores](dileo-2007-substantively-important-non-significant-effect.md) — related
 - [Odyssey® Math usage varied across classrooms in the DiLeo (2007) trial, partly because of differential access to technology](odyssey-math-usage-varied-with-technology-access.md) — related
+- [The evidence base for Odyssey® Math's mathematics achievement effects is rated medium to large, based on three studies of 2,768 students in 41 schools](odyssey-math-medium-to-large-extent-of-evidence.md) — related

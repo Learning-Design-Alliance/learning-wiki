@@ -47,3 +47,4 @@ Offline validation on free-exploration gaze data from four children across nine 
 - [In offline validation, combined relevance-based secondary-AOI selection matched children's next attended AOI more often than random or single-distance selection](combined-relevance-selection-aligns-with-next-attention.md) — related
 - [Longer dwell time on AI suggestions is associated with better attention check performance but slightly lower task performance](dwell-time-attention-checks-versus-task-performance.md)
 - [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md)
+- [LLM performance drops from offline to real-time proxy evaluation when clues arrive incrementally](performance-drops-realtime-proxy-nsmq.md) — related

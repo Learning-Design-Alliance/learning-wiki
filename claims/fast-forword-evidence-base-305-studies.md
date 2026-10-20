@@ -48,3 +48,9 @@ The WWC's summary of its literature search through December 2008, covering about
 - [In the comprehension domain, one study of Fast ForWord showed statistically significant positive effects, two showed substantively important positive effects, and three showed indeterminate effects](fast-forword-comprehension-mixed-findings.md) — related
 - Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations — a narrower finding that bears on this claim
 - The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
+- [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related
+- [The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards](reading-mastery-small-evidence-base-adolescents.md) — a narrower finding that bears on this claim
+- [The effects of ITSS are not known for adolescent literacy outcomes other than comprehension](itss-effects-unknown-other-outcomes.md) — related
+- [Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects](fast-forword-alphabetics-indeterminate.md) — related
+- [Only one of seven eligible studies of I CAN Learn® met WWC group design standards, and it met them only with reservations](ican-learn-thin-evidence-base-one-qualifying-study.md) — related
+- [The WWC improvement indices for Fast ForWord average +2 (alphabetics), +17 (reading fluency), +8 (comprehension), and +3 (general literacy achievement) percentile points](fast-forword-improvement-indices-by-domain.md) — related

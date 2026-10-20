@@ -48,3 +48,7 @@ The article reports, from the National Evaluation of Charter School Impacts, "ev
 - [Oversubscribed charter middle schools differ in features from charter schools that are not oversubscribed](oversubscribed-charter-schools-differ-in-features.md) — related
 - [On average, lottery-based charter middle schools are neither more nor less successful than traditional public schools in improving student achievement](charter-middle-schools-no-average-achievement-advantage.md) — related
 - [The study documents the prevalence and size of IT skill certification programs in 2002](it-certification-prevalence-size-2002.md) — related
+- [A long-term tracking study follows 1,177 students who applied to 13 oversubscribed KIPP middle schools through 5th or 6th grade admissions lotteries in 2008 or 2009 to examine college enrollment and early college persistence.](kipp-middle-school-long-term-tracking-1177-lottery-applicants.md) — related
+- [On average, charter middle schools' impacts on student achievement were negative but not statistically significant](charter-middle-schools-average-achievement-impacts-negative-nonsignificant.md) — related
+- [Admission to a charter middle school does not affect college enrollment, per a lottery-based study of 31 charter middle schools](charter-middle-admission-no-effect-college-enrollment.md) — related
+- [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related

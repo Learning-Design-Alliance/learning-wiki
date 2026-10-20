@@ -52,3 +52,4 @@ Cross-case comparison in the results section of the ten-school sample: four scho
 - Knowledge of the on-track indicator and its use in district accountability were not enough to change school practice — related
 - [In one school, well-defined instructional priorities plus deliberate leadership facilitated sustained developmental practices](developmental-practices-require-clear-priorities-and-leadership.md) — related
 - [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
+- [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](supports-matter-in-combined-clusters.md) — a broader claim this one bears on

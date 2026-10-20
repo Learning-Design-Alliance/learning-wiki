@@ -72,3 +72,7 @@ The report's profile of the University of Illinois at Chicago's Ed.D. in Urban E
 - [Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals](targeted-principal-candidate-recruitment-outcomes.md) — related
 - [Students in New Leaders-led Oakland schools show greater ELA achievement growth than other OUSD students (effect size 0.06)](new-leaders-oakland-ela-growth-es-006.md) — related
 - [Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)](new-leaders-oakland-math-growth-es-016.md) — related
+- [Attending a New Leaders-led school in Oakland has positive, statistically significant effects on student achievement](new-leaders-oakland-positive-significant-achievement-effects.md) — related
+- [Close collaboration between principal preparation programs and districts is associated with more coordinated candidate preparation](program-district-collaboration-coherent-principal-preparation.md) — related
+- [Elementary schools led by LAUNCH principals showed statistically significant but very small reading learning gains over schools led by other new principals, similar to veteran principals](launch-principals-small-reading-gain-advantage-over-new-principals.md) — related
+- [LAUNCH principals report greater satisfaction and confidence in their preparation while NLNS principals report less confidence in operational management](principal-preparation-satisfaction-confidence-differences.md) — related

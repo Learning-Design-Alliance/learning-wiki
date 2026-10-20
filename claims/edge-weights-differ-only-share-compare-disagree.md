@@ -44,3 +44,7 @@ T/ONA edge-weight comparison between task networks at a 5% significance level. T
 
 ## Related Claims
 - [Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students](ill-structured-tasks-less-strategic-patterns.md) — related
+- [Emotion–motivation regulation is the code most often connected to other codes in both tasks, linking to negotiation in SimSketch but to share/compare in Simua](emotion-motivation-regulation-central-both-tasks.md) — related
+- [Collaborative knowledge construction episodes are significantly longer in the conceptual physics task but almost three times more frequent in the robotics task](ckc-longer-simsketch-more-frequent-simua.md) — related
+- [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](cognitive-regulation-more-in-physics-task.md) — related
+- [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](cognitive-regulation-negotiation-direction-reversed.md) — related

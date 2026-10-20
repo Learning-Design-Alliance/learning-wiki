@@ -48,3 +48,6 @@ Cross-sectional regression (Model 2) in 106 children with overweight/obesity. Re
 - [Muscular fitness shows no association with academic performance in primary school children](muscular-fitness-no-academic-association.md) — related
 - [Field-based cardiorespiratory fitness is positively associated with writing and written expression skills in children with overweight/obesity](crf-associated-writing-skills-overweight-obese-children.md) — reports the opposite
 - [Speed-agility fitness is associated with writing and written expression skills in children with overweight/obesity](speed-agility-associated-writing-skills.md) — reports the opposite
+- [Boys show greater fitness and physical activity than girls, but academic achievement does not differ by sex in this sample](sex-differences-fitness-activity-not-achievement.md) — related
+- [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
+- [Laboratory-based lower-limb muscular strength (1-RM leg press) is associated with mathematics skills and persists after adjustment for BMI and cardiorespiratory fitness](leg-press-mathematics-association-persists-adjustment.md) — reports the opposite

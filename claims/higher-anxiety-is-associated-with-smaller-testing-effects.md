@@ -74,3 +74,5 @@ The chapter reports Hinze and Rapp (2014), who "found that inducing test anxiety
 - [Test-enhanced learning generalizes across education levels, from elementary school (g = 0.328) through university/college (g = 0.486).](testing-effect-generalizes-education-levels.md) — the general claim this finding bears on, with the studies behind it
 - [Studies disagree on whether low or high working memory learners benefit more from retrieval practice, and several find no relationship](relation-between-working-memory-and-retrieval-practice-benefit-is-inconsistent.md) — related
 - [Oral assessments can induce more anxiety than written ones, yet many students still prefer them](oral-assessments-anxiety-but-preferred.md) — related
+- [AI simulation induced higher state anxiety than standardized patient simulation in one RCT, while qualitative studies reported reduced anxiety](ai-simulation-anxiety-divergent.md) — related
+- [Anxiety is a multifaceted construct with several differentiated types](anxiety-multifaceted-types-taxonomy.md) — related

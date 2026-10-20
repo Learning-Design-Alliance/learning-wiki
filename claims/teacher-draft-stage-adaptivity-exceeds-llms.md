@@ -45,3 +45,5 @@ Fisher's Exact Test analysis of feedback focus type distributions across initial
 ## Related Claims
 - [LLM feedback adaptivity to student performance occurs only in frequently produced focus types and only in large or closed models](llm-performance-adaptivity-limited-frequent-types.md) — related
 - [LLMs cover most teacher feedback focus types but fail to match teacher feedback focus distributions, with LearnLM closest](llms-cover-types-but-mismatch-teacher-distributions.md) — related
+- [Instructors and LLMs distribute feedback similarly across the five argumentative goals, with Claim receiving the most feedback from both](similar-goal-distribution-instructor-llm-feedback.md) — related
+- [Prompting with category information or few-shot examples yields limited improvement in distribution alignment, with zero-shot closest for most models](prompting-strategies-limited-alignment-gain.md) — related

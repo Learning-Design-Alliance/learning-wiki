@@ -50,3 +50,7 @@ The publication's summary of its research findings states that "reducing the num
 - [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
 - [The most effective transmission-reducing testing strategies also increase the number of in-person school days lost, creating a tradeoff schools must weigh](testing-effectiveness-traded-against-school-days-lost.md) — related
 - [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related
+- [The study examined seven Pennsylvania school districts to test whether hybrid-instruction COVID-19 trends paralleled or exceeded local community trends](seven-districts-hybrid-trend-comparison-study.md) — related
+- [Agent-based modeling indicates routine testing can greatly reduce or eliminate within-school Covid-19 transmission](routine-testing-reduces-within-school-transmission.md) — related
+- [In schools attending fully in person, temporary closures in response to known cases are far less effective than hybrid operation from the start and increase schedule disruption](temporary-closures-less-effective-than-hybrid-model.md) — related
+- [Elementary schools are predicted to have lower infection rates than secondary schools using the same operating strategies](elementary-lower-infection-rates-than-secondary-model.md) — related

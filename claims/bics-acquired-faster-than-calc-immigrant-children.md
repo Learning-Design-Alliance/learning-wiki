@@ -60,3 +60,6 @@ Cummins cites prior research (Collier, 1987; Cummins, 1984) on second language a
 - [The BICS-before-CALP sequence is typical for immigrant children but not universal: high L2 CALP can precede fluent L2 BICS in certain situations](calp-can-precede-bics-in-certain-situations.md) — related
 - Surface conversational fluency develops within about two years, but academic proficiency in English takes 5-7 years for immigrant students — possibly the same claim (merge candidate)
 - Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — related
+- [BICS-level language can be acquired in about two years regardless of age on arrival and first language](bics-acquired-two-years-all-ages.md) — related
+- [Youngest-arriving ESL learners risk acquiring neither L1 nor L2 at the level school demands](young-arrivals-risk-losing-both-l1-and-l2.md) — related
+- [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related

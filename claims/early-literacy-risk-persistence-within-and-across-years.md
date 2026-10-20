@@ -76,3 +76,5 @@ Comparison of year-to-year risk persistence by grade in the 2023/24 and earlier 
 - [Kindergarten students showed the largest BOY-to-EOY decline in significant risk identification, dropping 21 percentage points](kindergarten-largest-risk-decline.md) — related
 - [Few students identified as significantly below benchmark in grades 1–3 met MCAS expectations 1 or 2 years later, with higher rates for earlier identification](significant-risk-low-mcas-meeting-rates.md) — related
 - [The percentage of students who stay at risk across time periods increases across grade levels K–3](staying-at-risk-increases-with-grade-level.md) — related
+- [The percentage of Massachusetts K–3 students identified as significantly below benchmark decreased from 36 percent at BOY to 29 percent at EOY in 2022/23](ma-literacy-risk-declines-boy-to-eoy.md) — related
+- [In Massachusetts K-3 screening data, roughly one quarter to one third of students are significantly below benchmark at any given period and 16 to 19 percent are below benchmark in all three periods, rates consistent over three years](massachusetts-k3-persistent-significant-risk-rates.md) — related

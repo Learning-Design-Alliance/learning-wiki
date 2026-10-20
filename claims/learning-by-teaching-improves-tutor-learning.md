@@ -143,3 +143,5 @@ This meta-analysis synthesised 65 independent evaluations of school tutoring pro
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Non-interactive teaching is more than a special case of retrieval practice, with generative processing and social presence linked to its effects](noninteractive-teaching-beyond-retrieval.md) — related
 - [Teaching expectancy may moderate the non-interactive teaching effect, but this moderation often fails to replicate](teaching-expectancy-moderation-mixed.md) — related
+- [Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone](multi-turn-teaching-beats-knowledge-point-exposure.md) — related
+- [Pedagogical experts tutoring in biology generated less deep learning than less pedagogically expert, more interactive tutors](pedagogical-experts-less-deep-learning-tutoring.md) — related

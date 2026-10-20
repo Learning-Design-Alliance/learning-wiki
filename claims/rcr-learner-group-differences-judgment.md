@@ -47,3 +47,4 @@ Hypothesis H11 tested in the judgment meta-regression (Table 4: school/citizens 
 - [Knowledge acquisition in RCR training benefits from individualized learning and application of ethical guidelines, and is hindered by mandatory status and purely theoretical emphasis](rcr-knowledge-moderators-individual-guidelines.md) — related
 - [Not teaching ethical guidelines predicted better combined learning outcomes, while guideline coverage supported only knowledge](rcr-guideline-coverage-paradox.md) — related
 - [RCR courses produce a pooled mean effect of g = 0.52, with knowledge (0.64) and behavior (0.69) outcomes showing larger average effects than judgment (0.41)](rcr-training-pooled-main-effects.md) — related
+- [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — related

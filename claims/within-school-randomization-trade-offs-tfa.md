@@ -44,3 +44,8 @@ The article's framing statement: it discusses "the trade-offs associated with st
 
 ## Related Claims
 - Within-school random assignment studies such as the TFA evaluation are challenging but may be feasible and generate useful evidence — related
+- [Including late pretest data in RCT analyses can bias post-test impact estimates because pretests are collected after random assignment](late-pretest-inclusion-can-bias-posttest-estimates.md) — related
+- [A randomized controlled trial found TFA secondary math teachers outperformed non-TFA comparison teachers in mathematics achievement](clark-2013-tfa-secondary-math-rct-positive.md) — related
+- [In some cases, Teach For America and Teaching Fellows secondary math teachers are more effective than traditionally certified math teachers](tfa-teaching-fellows-math-teachers-sometimes-more-effective.md) — related
+- [An elementary-school RCT found no statistically significant difference between TFA and non-TFA teachers in mathematics or reading achievement](clark-2015-elementary-tfa-indeterminate.md) — related
+- [Secondary math teachers from Teach For America and the Teaching Fellows programs are as effective as teachers receiving traditional certification](tfa-teaching-fellows-math-teachers-as-effective-as-traditional-certification.md) — related

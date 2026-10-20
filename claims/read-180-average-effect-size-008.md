@@ -45,3 +45,4 @@ Synthesis of five studies meeting inclusion standards (3,992 students). The summ
 ## Related Claims
 - [Two READ 180 studies found statistically significant positive effects over control groups (Western Massachusetts +0.18; Milwaukee +0.14)](read-180-significant-positive-effects-two-studies.md) — related
 - [READ 180 studies in Newark (NJ) and Memphis found no differences from control](read-180-newark-memphis-no-differences.md) — related
+- [READ 180® shows no discernible effects on alphabetics for adolescent readers](read-180-no-discernible-effects-alphabetics.md) — related

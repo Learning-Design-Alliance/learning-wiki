@@ -74,3 +74,8 @@ Year 1 impacts from the randomized controlled study of two comprehensive teacher
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — a broader claim this one bears on
 - [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
 - [Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction](two-year-comprehensive-induction-boosts-achievement.md) — related
+- [Early Reading First improved instructional content and practices in preschool classrooms](early-reading-first-classroom-practice-impacts.md) — reports the opposite
+- [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related
+- [Mentoring strongly influences new teachers' decisions to stay in or leave teaching (review attribution)](mentoring-influences-new-teacher-retention.md) — related
+- [Strong mentoring is linked to novice elementary teachers being 25 percentage points more likely to plan to remain in the same school, with a similar but non-significant pattern for high school teachers](strong-mentoring-25-point-retention-plan-elementary.md) — related
+- [Comprehensive induction supports keep new teachers in teaching at more than twice the rate of unsupported novices](comprehensive-induction-doubles-novice-retention.md) — related

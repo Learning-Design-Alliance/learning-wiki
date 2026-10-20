@@ -68,3 +68,4 @@ Direct coefficient-difference test within the same RI-CLPM; the article states t
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [Trust and intrinsic motivation means rose across the semester while extrinsic motivation stayed relatively stable, and longitudinal measurement invariance held across waves](trust-intrinsic-motivation-rose-across-waves-invariance-held.md) — related
 - [Within-person change in perceived fairness mediates the longitudinal association between trust and learning motivation](within-person-fairness-mediates-trust-motivation.md) — related
+- [Within-person reciprocal effects from fairness back to trust are weaker than trust-to-fairness effects, indicating an asymmetric rather than strictly unidirectional pattern](asymmetric-reciprocal-fairness-trust-aita.md) — related

@@ -52,3 +52,5 @@ This is a theoretical argument in a position paper, not an empirical test. The a
 - [Agency metaphors expressed fear that GenAI steals human agency and threatens jobs, reflecting a binary human-versus-machine model](agency-metaphors-genai-fear-of-agency-loss.md) — related
 - [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
 - [Responsible AI use and student agency are mutually reinforcing capacities](responsible-ai-use-and-agency-mutually-reinforcing.md) — related
+- [No validated individual-level instrument in the focal corpus tests the full combination of agent-control behaviors for tool-using AI agents](agent-operational-competence-measurement-gap.md) — related
+- [How students and teachers want to interact with classroom AI largely depends on the teacher-student relationships that exist outside of AI use](teacher-student-relationships-shape-ai-views.md) — related

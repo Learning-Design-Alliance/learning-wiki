@@ -47,3 +47,6 @@ Second-hand statistic reported in the policy-confusions section, attributed by t
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
+- [Over 80% of surveyed students reported GenAI use driven primarily by perceived usefulness rather than policy](genai-use-driven-by-usefulness-not-policy.md) — related
+- [Student surveys show widespread weekly AI use, requests for instructor guidance, and a substantial minority using AI to produce entire solutions](physics-student-ai-use-survey-findings.md) — related
+- [Institutional AI policy formation lags behind practical AI presence in coursework, leaving many faculty in policy vacuums](institutional-ai-policy-maturity-lags-adoption.md) — related

@@ -43,4 +43,6 @@ Preparatory analysis of Experiment 1 comparing text topics: the analysis "reveal
 
 
 ## Related Claims
--
+- [Application reading instructions did not reduce overestimation of application performance (no debiasing effect), with effects varying by text](application-instruction-no-debiasing-effect.md) — related
+- [Under general reading instructions, pre-service teachers significantly overestimate their application test performance](general-instructions-overestimate-application-performance.md) — a broader claim this one bears on
+- [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related

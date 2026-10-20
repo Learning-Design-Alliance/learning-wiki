@@ -71,3 +71,5 @@ The digest, citing Moll and Greenberg (1990), reports this trust grew as partici
 - [Relational trust built through prior rigorous evaluation was a precondition for introducing participatory approaches](relational-trust-precondition-participatory.md) — related
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related
 - [Learning in virtual communities ranges across many settings, requiring connective ethnography and analysis at multiple units of analysis](virtual-community-learning-multiple-units-of-analysis.md) — related
+- [Nonfunded research barters, initiated by Global South partners, can foster reciprocity in ICEL without transactional funding](research-barters-foster-reciprocity-icel.md) — related
+- [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](four-relational-components-coaching-partnership.md) — related

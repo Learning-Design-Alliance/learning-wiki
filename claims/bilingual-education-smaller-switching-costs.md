@@ -46,3 +46,5 @@ Controlled comparison of two groups of Dutch high-school students, one taught in
 
 - [Bilingually educated students show a decreased global precedence effect, indicating a more focused scope of attention](bilingual-education-decreased-global-precedence.md)
 - [Switch costs and mixing costs are common empirical observations across language switching paradigms, except voluntary switching under certain circumstances](switch-and-mixing-costs-common-across-paradigms.md)
+- [Bilingual 8-year-olds show no switching cost between blocked and mixed trial blocks, unlike monolinguals](bilingual-children-no-switching-cost-faces-task.md) — related
+- [Bilingual 8-year-olds show smaller inhibitory-control costs than monolinguals on the faces task](bilingual-children-inhibitory-control-advantage-faces-task.md) — related

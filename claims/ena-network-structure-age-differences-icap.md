@@ -63,3 +63,8 @@ Follow-up connection-strength test in the Findings section: older adults' active
 
 ## Related Claims
 - [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — related
+- [No age difference in the strength of active–constructive connections in collaborative discourse networks](no-age-difference-active-constructive-connection.md) — reports the opposite
+- [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](concept-map-performance-age-difference.md) — related
+- [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related
+- [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related
+- [Weekly ENA mean comparisons showed significant high–low performer differences in Weeks 2, 3, 6, and 7 on mr1 and in Weeks 5, 6, and 10 on svd2](weekly-ena-ttests-significant-weeks.md) — related

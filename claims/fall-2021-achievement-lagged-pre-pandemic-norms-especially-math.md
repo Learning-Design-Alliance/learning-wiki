@@ -57,3 +57,8 @@ Analysis of MAP Growth assessment data from "6 million students in grades 3-8" c
 - [The report examines how school shutdowns impacted student achievement at the start of the 2020-21 school year](covid-shutdowns-impacted-fall-2020-achievement.md) — related
 - [The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations](fall-2021-achievement-compared-to-fall-2019-pre-pandemic.md) — possibly the same claim (merge candidate)
 - [Updated norms are heavily weighted toward 2021/22 pandemic-era performance, with lower norm-group performance than the prior norms](pandemic-weighted-norms-lower-performance.md) — related
+- [Fall 2020 math achievement was 5 to 10 percentile points lower than pre-COVID-19 performance by same-grade students](fall-2020-math-achievement-5-10-percentile-points-lower.md) — related
+- [The Learning during COVID-19 research investigated whether 2020-21 school-year gains and spring 2021 achievement differed from pre-pandemic trends and levels in reading and math.](covid-2020-21-achievement-compared-pre-pandemic.md) — related
+- [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related
+- [The brief investigated the degree to which students' reading and math test scores became more variable as a result of the COVID-19 pandemic](covid-score-variability-research-question.md) — related
+- [The average student demonstrated positive math and reading gains during the 2020-2021 school year](positive-gains-2020-2021-school-year.md) — related

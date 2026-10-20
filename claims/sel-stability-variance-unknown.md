@@ -47,3 +47,4 @@ The abstract states the research gap motivating the study: "little is known abou
 - [SEL can be improved by both short-term targeted interventions and longer-term strategies to improve school contextual factors](sel-improvable-short-and-long-term.md) — related
 - [The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools](sel-competencies-stability-over-time-question.md) — a broader claim this one bears on
 - [Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study](sel-stability-and-predictive-value-largely-unknown.md) — a narrower finding that bears on this claim
+- [Measuring SEL involves a tradeoff between measuring narrower discrete skills and measuring broader competencies](sel-measurement-narrow-skills-versus-broad-competency-tradeoff.md) — related

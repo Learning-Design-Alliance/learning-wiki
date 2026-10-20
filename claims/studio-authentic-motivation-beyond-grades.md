@@ -50,3 +50,4 @@ Postpositivist qualitative study (2014–2016) using interviews, observations, a
 - Learning Studio participation was associated with positive indicators of engagement and persistence, especially among high school students — related
 - [Authentic, challenging projects in the Learning Studio developed students' self-efficacy for future careers](authentic-projects-build-career-self-efficacy.md) — related
 - [Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — related
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related

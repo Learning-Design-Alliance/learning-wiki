@@ -63,3 +63,4 @@ Official SEI-GDF output counts for SES/CONT comparing 2023 and 2024 under the me
 
 ## Related Claims
 - [In the first year under the structured AI training method, SES/CONT's average case processing time fell 18.2% (17.92 to 14.66 days) while documentary output per case stayed stable](ses-cont-processing-time-fell-18-percent-under-ai-method.md) — related
+- [In UCI/SEDET's first year under the method (2025), average processing time fell 50%, cases processed rose 31%, documents 67%, technical reports 85%, and dispatches 60%](uci-sedet-simultaneous-gains-2025.md) — related

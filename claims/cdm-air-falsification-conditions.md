@@ -45,3 +45,6 @@ Section 5.3 of the conceptual article specifies four disconfirmation conditions:
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — a broader claim this one bears on
 - [The Rothstein falsification test can reject value-added models even when estimated teacher effects are unbiased](rothstein-test-rejects-vams-without-bias.md) — a broader claim this one bears on
 - Five testable predictions (H1-H5) are specified with falsification conditions but await empirical validation — related
+- [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
+- [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — related
+- [Germane cognitive load can be defined in terms of intrinsic cognitive load, associating it with element interactivity](germane-load-defined-via-intrinsic-load.md) — related

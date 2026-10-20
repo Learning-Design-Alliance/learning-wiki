@@ -47,3 +47,4 @@ Communality analysis (vocabulary, then masked, then unmasked entered) across the
 - [Masked (automatic) word recognition uniquely predicts oral reading fluency over and above unmasked accuracy and vocabulary in middle-school students](masked-word-recognition-predicts-oral-fluency.md) — possibly the same claim (merge candidate)
 - [Masked word recognition uniquely predicts silent reading fluency via the Find the Picture task](masked-word-recognition-predicts-silent-fluency.md) — a narrower finding that bears on this claim
 - [Automaticity is detectable in the orthography-to-phonology pathway using nonword trials](automaticity-op-pathway-nonwords.md) — related
+- [Backward masking produces a large, reliable accuracy decrement across all three reading tasks](masking-accuracy-decrement-all-tasks.md) — related

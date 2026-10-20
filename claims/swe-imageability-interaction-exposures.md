@@ -50,3 +50,4 @@ Model 2 of the crossed-random effects analysis added interaction terms; the SWE 
 - [Initial word reading skill was the only significant child-level predictor of exposures required for mastery](initial-word-reading-skill-only-child-predictor.md) — related
 - [Word length, vocabulary grade, and imageability significantly predicted the number of exposures required for sight word mastery](word-features-predict-exposures-to-mastery.md) — related
 - [Initial word reading skill interacted with vocabulary grade: the poorest readers required more than twice as many exposures for later-introduced words](swe-vocabulary-grade-interaction-exposures.md) — related
+- [Child cognitive skills other than initial word reading (phonemic decoding, working memory, phonological awareness, rapid letter naming) did not significantly predict exposures to mastery](non-significant-child-predictors-exposures.md) — related

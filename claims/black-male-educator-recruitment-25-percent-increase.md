@@ -44,3 +44,5 @@ Reported outcome under the Diverse Workforce Recruitment and Retention section, 
 
 ## Related Claims
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](inclusive-innovation-solutions-perceived-met-outcomes.md) — related
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
+- [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related

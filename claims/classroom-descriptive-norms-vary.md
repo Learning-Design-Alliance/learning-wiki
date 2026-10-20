@@ -47,3 +47,4 @@ The review reports, citing Boor-Klip et al. (2017) and Hendrickx et al. (2016), 
 - [Prosocial behavior is associated with peer acceptance and aggression with rejection, though aggression can be accepted in some classrooms](behavior-acceptance-rejection-associations.md) — related
 - [Peer-nominated aggressive behavior varies widely between children, with physical aggression nominations ranging up to all classmates](individual-differences-aggression-nominations.md) — related
 - [Children differ substantially in peer-nominated prosocial behavior in elementary classrooms](individual-differences-prosocial-nominations.md) — related
+- [Classrooms differ in network density and centrality, indicators of social cohesion](classroom-density-centrality-variation.md) — related

@@ -51,3 +51,6 @@ Theoretical argument in the article's abstract: the authors analyze the conceptu
 - [Redundant on-screen text impairs learning when it competes with a visualization, though written text duplicating narration alone can help](redundancy-principle.md) — related
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — reports the opposite
+- [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
+- [Effective intervention timing in AI-based instruction does not always mean immediate response; the interval between student difficulty and teacher intervention can allow independent problem solving](intervention-timing-delayed-response-independent-solving.md) — related
+- [Oral non-interactive teaching can enhance learning more than written teaching for complex materials](oral-written-modality-boundary-noninteractive-teaching.md) — related

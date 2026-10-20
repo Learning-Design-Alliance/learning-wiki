@@ -48,3 +48,5 @@ Retention comparison between Chicago TAP schools and comparison schools from the
 - [Chicago TAP did not raise student math or reading scores overall during the four-year rollout in Chicago Public Schools](chicago-tap-no-student-achievement-impact.md) — related
 - [Mathematica conducted a multi-year evaluation of Chicago TAP, with this report detailing second-year results](chicago-tap-year-two-impact-evaluation.md) — related
 - A five-year evaluation of TAP in high-need Chicago public schools began in 2007 — related
+- [Chicago TAP increased the amount of mentoring, promotion opportunities, and compensation in participating schools relative to non-TAP schools](chicago-tap-increased-mentoring-promotion-compensation.md) — related
+- [Teachers in TAP schools reported significantly more mentoring and support than peers in similar non-TAP schools](tap-increases-reported-mentoring-support.md) — related

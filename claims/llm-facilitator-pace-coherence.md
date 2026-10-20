@@ -45,3 +45,4 @@ Qualitative findings from focus group interviews in the user study. Participants
 ## Related Claims
 - [LLM participant agents clarify stage goals, keep discussions on topic, and prompt deeper ethical reflection](llm-participants-stage-goal-clarification.md) — related
 - [Group ethical discussion with multiple LLM agents significantly increases ethical sensitivity in STEM undergraduates](llm-ethics-discussion-ethical-sensitivity-gains.md) — related
+- [Ethical issue awareness improved more than ethical consequence reasoning after LLM-supported group ethics discussion](ethical-issue-awareness-greater-gain-than-reasoning.md) — related

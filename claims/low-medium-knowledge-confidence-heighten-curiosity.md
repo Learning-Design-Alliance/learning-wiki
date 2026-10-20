@@ -46,3 +46,8 @@ Linear mixed-effects model of 6000 trials from 100 adults rating 60 blurred imag
 
 - [Curiosity did not significantly predict recall accuracy in the blurred-picture learning task](curiosity-did-not-predict-recall-accuracy.md)
 - [Yes/no feedback that participants were correct nearly quenched curiosity for correct answers, whereas without feedback curiosity peaked at moderate-to-high confidence](yes-no-feedback-correct-answers-quench-curiosity.md)
+- [The Not Sure state of Knowledge Confidence predicts better recall of object names, consistent with the region of proximal learning framework](not-sure-knowledge-confidence-predicts-recall.md) — related
+- [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md) — reports the opposite
+- [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md) — reports the opposite
+- [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
+- [Only medium-level incongruity between individual knowledge and wiki information causes cognitive conflict that motivates equilibration](medium-incongruity-inverted-u-cognitive-conflict.md) — related

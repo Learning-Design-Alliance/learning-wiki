@@ -52,3 +52,7 @@ Cross-sectional ANOVA with age group as between-subjects factor across 372 presc
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related
 - [Use of consonantal context in vowel spelling develops gradually, emerging around age 8 and peaking around age 11](context-use-in-vowel-spelling-develops-gradually.md) — related
 - [Prephonological spellers produce letter strings that statistically resemble the writing of their language rather than random strings](prephonological-spellers-match-language-letter-statistics.md) — related
+- [Older preschoolers outperformed younger preschoolers on most writing measures but not on the generative composing tasks](age-differences-emergent-writing-tasks.md) — related
+- [The three emergent writing factors show distinct patterns of relations to general cognitive, language, and emergent literacy measures](distinct-correlates-emergent-writing-factors.md) — related
+- [Writing features develop sequentially: universal features (linearity, segmentation, simple units) are acquired before language-specific features](universal-writing-features-before-language-specific.md) — related
+- [Prephonological spellers do not show the syllable-length signature predicted by the hypothesized syllabic stage](no-syllabic-stage-in-prephonological-spelling.md) — related

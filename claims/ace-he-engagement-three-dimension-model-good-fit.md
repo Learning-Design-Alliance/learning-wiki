@@ -50,3 +50,5 @@ Confirmatory factor analysis of survey responses from 1,253 students at a Colomb
 - The three-dimension instructional design competence model fits the empirical data acceptably in CFA — related
 - Student engagement with WCF is the current research hotspot, with engagement analyzed as cognitive, affective and behavioral dimensions — related
 - Both scales showed acceptable-to-good confirmatory factor fit in this sample — related
+- [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
+- [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related

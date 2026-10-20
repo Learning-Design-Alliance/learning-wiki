@@ -60,3 +60,7 @@ Same hierarchical regression analyses (Tables 13–14). The article reports that
 ## Related Claims
 - [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — reports the opposite
 - [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](ef-academic-performance-small-to-medium-meta-analytic.md) — related
+- [Hot EF (CGT risk adjustment) uniquely predicts parent-rated emotional problems, while no cool EF test does](hot-ef-predicts-emotional-problems.md) — related
+- [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
+- [EF measures jointly account for 43% of math variance, with inhibition (Tap Test) a significant unique predictor but cognitive flexibility (FIST) not significant in any model](tap-test-significant-fist-not-in-math-prediction.md) — related
+- [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](interference-suppression-not-response-inhibition-predicts-school-competence.md) — related

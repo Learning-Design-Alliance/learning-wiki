@@ -55,3 +55,7 @@ Conceptual, theory-driven synthesis presented in the article's abstract. The fra
 - [Reflection with AI as a cognitive partner demands time and cognitive effort, countering concerns that students use AI merely to outsource cognitive tasks](ai-reflection-demands-effort-counters-outsourcing.md) — related
 - [Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session](reflection-reconciliation-post-group-processes.md) — related
 - [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related
+- [Students often adopt AI-generated solutions quickly, bypassing the effortful meaning-making that constructivist learning requires](ai-answers-bypass-effortful-meaning-making.md) — a narrower finding that bears on this claim
+- [Substituting tasks with generative AI may promote inclusion and free time for more demanding activities, but risks foundational-skill loss and presupposes prior knowledge](ai-substitution-inclusion-and-time-tradeoffs.md) — related
+- [The skills required in a world powered by ChatGPT and related technologies will be different from those demanded previously](chatgpt-era-skills-reorganisation.md) — related
+- [GenAI functions as productive self-scaffolding when students retain executive control, and becomes unproductive when reasoning is outsourced](genai-self-scaffold-versus-outsourcing.md) — possibly the same claim (merge candidate)

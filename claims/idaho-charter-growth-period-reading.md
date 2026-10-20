@@ -68,3 +68,4 @@ In the 2016-2017 growth period of the same VCR analysis, charter students' readi
 - [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — reports the opposite
 - [About 41 percent of Idaho charter schools significantly outperform their traditional schooling alternatives in both reading and math](idaho-charter-school-level-distribution.md) — related
 - [First- and second-year Idaho charter students show growth not statistically different from their TPS VCRs](idaho-charter-years-of-enrollment-null.md) — related
+- [No cohort-by-years-of-enrollment configuration shows statistically different learning gains from TPS](wa-charter-cohort-years-enrollment-null.md) — related

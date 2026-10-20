@@ -50,3 +50,4 @@ WWC re-analysis of the Carlo et al. (2004) randomized controlled trial's English
 - [VIP produces a statistically significant effect on Word Mastery (taught-word definition selection) for English language learners, effect size 1.03](vip-word-mastery-significant-effect.md) — related
 - [Dual language programs improved English literacy achievement, with a potentially positive effects rating based on one study](dual-language-programs-improve-literacy-achievement.md) — related
 - Meeting the WWC attrition standard is now an important consideration for researchers whose studies may be reviewed by federal evidence reviews — related
+- [In a five-year quasi-experimental study, the intervention program showed a statistically significant positive effect on fifth-grade reading performance assessment but not on the CTBS Reading subtest](ic-ll-longitudinal-reading-quasi-experiment.md) — related

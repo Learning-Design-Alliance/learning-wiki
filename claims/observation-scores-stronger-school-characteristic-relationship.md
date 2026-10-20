@@ -50,3 +50,4 @@ The release summarizes the comparative pattern from the Consortium's analysis of
 - [Minority teachers have lower observation scores than white teachers but no significant differences on value added](minority-teachers-lower-observation-no-value-added-difference.md) — related
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related
+- [Teacher experience and credentials relate to evaluation scores, with credential differences appearing only on observations](experience-credentials-teacher-evaluation-scores.md) — related

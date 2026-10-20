@@ -47,3 +47,4 @@ The review reports quantitative research on antecedents of relationship quality,
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
 - [The teacher with the more desirable interpersonal style showed overall coordination consistent with the complementarity principle, while the less desirable teacher's coordination did not](desirable-interpersonal-style-overall-coordination-complementarity.md) — related
 - [Same-gender coach-athlete dyads perceive higher relationship quality (closeness, commitment, complementarity) than other-gender dyads](same-gender-dyads-higher-relationship-quality.md) — related
+- [Interpersonal perceptions affected most students implicitly during feedback provision and most students explicitly during feedback processing](interpersonal-perceptions-implicit-provision-explicit-processing.md) — related

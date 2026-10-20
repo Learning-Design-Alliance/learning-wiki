@@ -47,3 +47,7 @@ Exploratory correlational analysis linking English receptive vocabulary (PPVT II
 - [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
 - [Growth in bilingual preschoolers' English receptive vocabulary and oral comprehension during Head Start positively predicts first-grade English letter-word identification and passage comprehension](english-receptive-language-growth-predicts-english-reading-first-grade.md) — related
 - [Only one of 38 severely struggling middle school readers met a standard-score benchmark of 93 for adequate response to intervention after the study](benchmark-93-adequate-response-met-by-one-student.md)
+- [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
+- [Teacher-rated social skills and problem behaviors correlated significantly with posttest decoding and spelling scores in severely struggling middle school readers](social-skills-behavior-correlate-decoding-spelling.md) — related
+- [ASL proficiency correlates positively with English reading comprehension among deaf adults](asl-proficiency-correlates-reading-comprehension-deaf.md) — related
+- [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related

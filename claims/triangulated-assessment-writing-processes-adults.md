@@ -46,3 +46,5 @@ Methodological claim from the study combining observation of collaborative writi
 - [Struggling adult writers have relatively extensive knowledge about themselves as writers, distinguishing them from younger writers](struggling-adult-writers-extensive-self-knowledge.md) — related
 - [Struggling adult writers show limited planning and revision in their writing process, similar to younger writers](struggling-adult-writers-limited-planning-revision.md) — related
 - [Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session](process-view-reflects-how-text-was-entered.md) — related
+- [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
+- [In retrospective within-subject comparison, no core metric distinguished synthesized TTS narration from recorded instructor voice, and equivalence testing supported non-inferiority](tts-narration-equivalent-instructor-voice-retrospective.md) — related

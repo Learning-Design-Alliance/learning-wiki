@@ -46,3 +46,5 @@ Bifactor item response theory analysis of placement test item responses (N = 1,0
 - [Multiple-choice state tests are prone to ceiling and floor effects and do not measure higher-order skills well](multiple-choice-state-tests-limits-high-low-performers.md) — the general claim this finding bears on, with the studies behind it
 - [The ELA placement test was most precise for students whose scores would place them into developmental courses, with precision declining above the 40th percentile](cmi-ela-test-precision-declines-above-40th-percentile.md) — related
 - [The multiple-choice placement test component and high school GPA similarly predicted passing credit-bearing ELA courses, while the writing component did not predict any outcomes](cmi-gpa-and-multiple-choice-similarly-predict-ela-passing.md) — related
+- [Open response format is associated with higher Alpha than multiple choice in knowledge tests](knowledge-test-alpha-response-format.md) — related
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related

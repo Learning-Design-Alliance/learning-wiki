@@ -65,3 +65,4 @@ Skills-domain design comparisons: human empathic feedback and narrative structur
 - [Student satisfaction with virtual patients is generally positive, with item-level comparisons dominating and some confidence exceptions](vp-satisfaction-generally-positive.md) — related
 - [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
+- [Related-case overlap between MedGame Bench train and test splits shows no significant performance difference](no-related-case-overlap-inflation-medgame-bench.md) — a narrower finding that bears on this claim

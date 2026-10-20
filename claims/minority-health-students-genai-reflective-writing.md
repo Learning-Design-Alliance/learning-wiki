@@ -46,3 +46,6 @@ The review reports this survey of undergraduate health science students' self-re
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [Educators struggled to reliably differentiate student-written from GenAI-generated reflections](educators-cannot-reliably-detect-genai-reflections.md) — related
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related
+- [Nursing academics hold divergent attitudes toward GenAI, from scepticism to pragmatic acceptance, and worry it may replace rather than support student learning](divergent-academic-attitudes-genai-nursing.md) — related
+- [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — a broader claim this one bears on
+- [Experimental-group students framed AI as a flexible writing scaffold supporting their own composing rather than a substitute for authorship](ai-scaffold-authorship-retained-theme1.md) — a broader claim this one bears on

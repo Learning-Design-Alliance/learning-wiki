@@ -48,3 +48,5 @@ Qualitative interview study with CAC steering committee members (January–April
 - [District officials and CBO leaders viewed the WSS Framework development process as a novel, replicable approach to community-engaged policymaking](wss-codesign-seen-novel-replicable-policymaking.md) — related
 - [Cross-sector committee members report that an organizing intermediary's structure made collaboration generative and productive](intermediary-structure-supports-cross-sector-codesign.md) — related
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
+- [Families appreciated school engagement efforts, but some family and community members expressed dissatisfaction with their inclusion in school governance](family-engagement-appreciation-governance-dissatisfaction.md) — related
+- [EO 1110 created a sense of urgency that catalyzed cross-departmental curriculum redesign, though campus stakeholders wanted earlier engagement building on local expertise](eo1110-urgency-catalyzed-cross-departmental-redesign.md) — related

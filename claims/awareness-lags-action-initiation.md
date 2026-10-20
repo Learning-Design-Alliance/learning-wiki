@@ -44,3 +44,4 @@ The review reports Libet et al.'s finding (as cited) that when participants lift
 
 ## Related Claims
 - [Bilinguals maintain target activation longer than monolinguals after the activation peak](bilinguals-maintain-target-activation-longer.md) — related
+- [Experiences and environments in a baby's first three years significantly shape brain structure and functioning](first-three-years-shape-brain-structure-functioning.md) — related

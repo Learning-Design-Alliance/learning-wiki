@@ -86,3 +86,5 @@ The paper reports, citing Mostow & Aist (1999), a motivational benefit: ASR give
 ## Related Claims
 - [Educators report ASR features can be inaccurate for learners' diverse accents, dialects, and speech patterns](asr-inaccuracy-diverse-accents.md) — related
 - [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
+- [Speech detection showed preliminary success but remained challenging in noisy settings, particularly for speaker differentiation, children's voices, and diverse dialects](speech-detection-preliminary-success-noisy-settings.md) — reports the opposite
+- [NWEA claims MAP Reading Fluency's mechanisms of change are hypothesized to lead to all students reading fluently with comprehension](map-rf-theory-action-overarching-goal.md) — related

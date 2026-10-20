@@ -67,3 +67,4 @@ Mechanism stated in the abstract and grounded in the Cunha-Heckman-style product
 - [Average child welfare loss from the schooling and income shock is −0.75% in consumption-equivalent terms, with 87% attributed to the school closures themselves](welfare-loss-consumption-equivalent-075-percent.md) — related
 - [Younger children were more negatively affected by COVID-19 school closures than older children (−0.37 SD vs. −0.10 SD)](covid-closures-younger-students-more-affected.md) — related
 - [Children with poorer parents suffer more, and children of high school educated parents experience the largest welfare losses](ses-heterogeneity-welfare-losses-closures.md) — related
+- [The impact of AI on learning, motivation, and meaning differs by life stage: AI functions as a supplement for those with established skills but risks bypassing foundational experiences for younger learners](ai-benefits-differ-by-developmental-stage.md) — related

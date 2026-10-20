@@ -50,3 +50,5 @@ A narrative synthesis of learning sciences research states that spaced content i
 - [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — related
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Interleaving benefits are small for mathematical tasks and absent or reversed for expository texts and words](interleaving-limited-for-math-texts-and-words.md) — a narrower finding that bears on this claim
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
+- [Retrieval Practice Improves Transfer](retrieval-practice-improves-transfer.md) — related

@@ -55,3 +55,8 @@ Pooled effect sizes from the same three-level meta-analysis, broken down by outc
 - [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
 - [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](srl-training-university-students-overall-g38.md) — related
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](student-characteristics-moderate-resource-management-effects.md) — related
+- [SRL training programs based on a metacognitive theoretical background show larger effects on academic achievement than programs based on cognitive theories](metacognitive-theory-background-larger-achievement-effects.md) — related
+- [All metacognitive strategy factors and critical thinking subfactors were significantly and positively correlated with each other and with academic writing](metacognition-critical-thinking-writing-correlations.md) — related
+- [Training effects vary across specific SRL strategies, ranging from .23 (rehearsal) to .61 (attention and concentration)](srl-strategy-specific-effects-range.md) — related
+- [Metacognition positively affects the use of all four study strategies, with medium effects on metacognitive, deep cognitive and resource management strategies and a small effect on surface strategies](metacognition-positive-effect-four-strategies.md) — related
+- [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](cooperative-learning-moderates-srl-training-effects.md) — related

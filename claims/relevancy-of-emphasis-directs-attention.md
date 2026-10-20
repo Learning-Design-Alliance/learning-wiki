@@ -98,3 +98,9 @@ In the same study, the main effect for relevancy was also significant for the lo
 - [Students' prior knowledge about a topic impacts their understanding of text as they read](prior-knowledge-impacts-text-understanding.md) — related
 - [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — related
 - [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related
+- [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
+- [Signaling principle: highlighting essential words improves transfer from multimedia lessons](signaling-principle-mayer-2008.md) — a broader claim this one bears on
+- [Audio narration with finger-tracking animation directs bilingual preschoolers' attention to the target-language print in dual-language e-books, including the nondominant language](enhancing-features-direct-attention-dual-language-e-books.md) — a narrower finding that bears on this claim
+- [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
+- [Structuring worked examples to emphasize subgoals, via labels or visual segmentation, enhances transfer to novel problems](subgoal-labels-worked-examples-transfer.md) — a narrower finding that bears on this claim
+- [Engagement via annotation (underlining, highlighting, notes) shows no significant effect on comprehension](annotation-engagement-no-comprehension-effect.md) — related

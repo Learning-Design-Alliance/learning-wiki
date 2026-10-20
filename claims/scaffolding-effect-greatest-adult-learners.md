@@ -48,3 +48,5 @@ Moderator analysis of education level (primary, middle, secondary, college, adul
 
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero](project-based-context-highest-scaffolding-effect.md) — related
+- [Computer-based scaffolding shows a consistently positive effect on cognitive outcomes in STEM education](computer-based-scaffolding-positive-cognitive-outcomes-stem.md) — a broader claim this one bears on
+- [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related

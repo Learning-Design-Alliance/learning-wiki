@@ -52,3 +52,4 @@ Multiple-baseline-across-participants study of six seventh-grade students with L
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - Students with learning disabilities reported high satisfaction with learning vocabulary through concept diagrams — related
 - After concept-model instruction, students' posttest vocabulary scores ranged from 57.78% to 82.22% correct, compared with pretest scores of 0% to 8.89% — related
+- [Self-regulated problem-solving instruction produced immediate, marked increases in target behaviors for all four students, with a mean of 2.3 training sessions to reach 80% mastery](problem-solving-instruction-increases-target-behaviors-developmental-disabilities.md) — related

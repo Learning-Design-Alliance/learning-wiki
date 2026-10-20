@@ -50,3 +50,5 @@ The 2023 staff survey at the Australian university found "equity concerns relate
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
 - [Over one-third of PGR participants emphasised financial support for paid AI tools as necessary institutional support for responsible GenAI use](financial-support-paid-ai-tools-institutional.md) — related
+- [GenAI-mediated digital inequality in higher education extends beyond access to tool capability, skills, and pedagogical support](genai-digital-inequality-beyond-access.md) — a broader claim this one bears on
+- [Teachers are more concerned about students' use of GenAI than about their own use](teachers-more-concerned-student-genai-use.md) — related

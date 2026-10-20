@@ -47,3 +47,6 @@ In a semi-structured email interview with expert scholar Mark Leary conducted fo
 - [Instruments show conceptual inconsistency: the same terms label different competence aspects, and disciplinary origin does not significantly correlate with definition or terminology choice](inconsistent-terminology-competence-aspects-autism-instruments.md) — related
 - [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](no-clear-definition-or-accepted-model-of-school-rj.md) — a broader claim this one bears on
 - [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](ct-processes-over-dispositions-pjbl.md) — related
+- [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
+- [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md) — related
+- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](conceptual-ambiguity-impedes-theory-integration.md) — a broader claim this one bears on

@@ -48,3 +48,5 @@ In the interview study, "most students (75%) were content with letting teachers 
 - [Ethical and governance dimensions of AI were less prominent in teachers' narratives than pedagogical opportunities](ai-ethics-less-prominent-teacher-visions.md) — related
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals](cobi-technical-feasibility-classrooms.md) — related
+- [High-integrity CoBi implementation requires significant teacher professional learning, and teachers adapt the system in diverse ways](cobi-requires-professional-learning-for-integrity.md) — related
+- [Middle school students and teachers broadly buy in to an AI system that visualizes classroom community agreements](cobi-broad-buy-in-students-teachers.md) — related

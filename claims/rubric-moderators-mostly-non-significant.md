@@ -65,3 +65,5 @@ The authors' interpretation of their moderator results alongside prior reviews: 
 - [For standardized mean changes, rubric effects on performance decrease with mean age, yet secondary-education studies show larger effects than primary and middle school — contradictory moderator results](rubric-effect-age-educational-level-contradictory.md) — related
 - [Using rubrics has a positive, moderate effect on students' academic performance (corrected g = 0.45; standardized mean change = 0.38)](rubrics-moderate-positive-effect-academic-performance.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
+- [Rubric use has a small, statistically non-significant pooled effect on self-regulated learning (g = 0.23)](rubrics-small-effect-self-regulated-learning.md) — related
+- [Number of rubric sessions interacts negatively with mean age: intervention length matters less for older students](sessions-mean-age-interaction-rubrics.md) — reports the opposite

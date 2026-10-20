@@ -66,3 +66,5 @@ Interview coding of heatmap rationales: most teachers reported finding the heatm
 - [Students find reflective prompts accompanied by visual elements more actionable and easier to interpret than plain-text prompts](visual-prompts-more-actionable-than-plain-text.md) — related
 - Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists — related
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](legitimacy-disciplinary-identity-resistance.md) — related
+- [Several teachers found the eBooks not user friendly, citing issues with images covering the text.](hero-elementary-ebooks-not-user-friendly-images-covering-text.md) — related
+- [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related

@@ -43,4 +43,7 @@ The review's synthesis of deadline experiments: Ariely and Wertenbroch (2002) fo
 
 
 ## Related Claims
--
+- [In examination weeks, students revisited prior topics and used exercises, whose deadlines had passed, as formative practice for the exams](exam-weeks-exercises-as-formative-practice.md) — related
+- [Students who use the ePSRL Management System meet the course completion deadline at a significantly higher rate than non-users](epsrl-higher-course-completion-deadline-rate.md) — related
+- [Specific, difficult goals lead to higher performance than easy or vague \"do your best\" goals.](specific-difficult-goals-lead-to-higher-performance.md) — a broader claim this one bears on
+- [Students dynamically switched between Socratic Inquiry and Transactional Delegation as deadlines approached and task novelty changed (the Strategic Dance)](strategic-dance-socratic-transactional-switching.md) — related

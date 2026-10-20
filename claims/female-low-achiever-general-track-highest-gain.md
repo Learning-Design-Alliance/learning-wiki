@@ -43,4 +43,8 @@ Multilevel Model 1 interaction effect from the quasi-experimental study. The Gir
 
 
 ## Related Claims
--
+- [Dyad composition by gender and achievement level is not a confounding variable for knowledge acquisition after Web-based collaborative inquiry](dyad-composition-not-confounding-knowledge.md) — reports the opposite
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md) — reports the opposite
+- [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](no-gender-difference-knowledge-web-inquiry.md) — reports the opposite
+- [General-track students reported significantly lower initial interest in science than science-track students, with no difference in interest gain](general-track-lower-initial-interest.md) — related
+- [A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms](web-based-collaborative-inquiry-significant-knowledge-gains.md) — related

@@ -44,3 +44,5 @@ Methods statement for the quasi-experimental between-cohort comparison (Winter 2
 
 ## Related Claims
 - [An on-premises LLM autograder graded a 200-student course at 1–3 minutes wall-clock time per submission across a full term](lata-onprem-autograder-throughput.md) — related
+- [Bundling multiple interventions is associated with relatively strong effects on developmental students' outcomes](bundling-interventions-stronger-effects.md) — related
+- [Retrospective pre/post confidence rose on all four course learning objectives with large rank-biserial effects (N=159)](retrospective-confidence-gains-me373.md) — related

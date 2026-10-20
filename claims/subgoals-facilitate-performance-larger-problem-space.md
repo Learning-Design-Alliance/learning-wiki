@@ -62,4 +62,6 @@ The thesis reports, citing Reed and Abramson, that on the extended 5-Missionarie
 
 
 ## Related Claims
--
+- [Compliance with MetaTutor's summarize, stay-on-subgoal, move-to-next-subgoal, and open-diagram prompts shows no significant effect on learning gains](no-learning-effect-for-four-explicit-srl-prompts.md) — related
+- [No behavioral measure of compliance with MetaTutor's stay-on-page and move-to-next-page prompts relates to learning gains](no-learning-effect-for-metacognitive-monitoring-prompts.md) — related
+- [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](suggest-subgoal-compliance-predicts-learning-gains.md) — related

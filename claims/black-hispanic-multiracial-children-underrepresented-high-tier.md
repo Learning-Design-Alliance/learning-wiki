@@ -49,3 +49,4 @@ Descriptive analysis of tier enrollment by race/ethnicity (Figure 5), with propo
 - [Children from all racial/ethnic groups were projected to gain more in higher-tier programs, but most racial/ethnic differences were not statistically significant](racial-ethnic-gains-higher-tiers-mostly-nonsignificant.md) — related
 - [Children in Tier 4 and Tier 5 preschool programs gained more learning and development from fall to spring than children in Tier 3 programs](higher-tier-qcc-programs-greater-learning-gains.md) — related
 - [Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color](preschool-racial-isolation-black-hispanic.md) — related
+- [In schools offering both course types, enrollment differs by race/ethnicity, with more White students in single-discipline courses](racialized-enrollment-single-discipline-courses.md) — a narrower finding that bears on this claim

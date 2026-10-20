@@ -43,3 +43,5 @@ Analysis of particular types of problem behaviors in relation to achievement in 
 ## Related Claims
 - [Students with E/BD in K-12 public school settings show large academic achievement deficits across all content areas](ebd-students-large-achievement-deficits-all-content-areas.md) — related
 - [Internalizing behaviors are not related to academic achievement in students with E/BD](internalizing-behaviors-not-related-to-achievement.md) — related
+- [Academic achievement deficits of students with E/BD appear stable across age, and worsen in the case of mathematics](ebd-math-deficits-worsen-across-age.md) — related
+- [Most students in the high reading comprehension group fall in the low externalizing behavior groups, most strongly for peer problems](high-reading-group-low-externalizing-behaviors.md) — related

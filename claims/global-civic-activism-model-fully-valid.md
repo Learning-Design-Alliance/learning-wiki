@@ -66,3 +66,5 @@ Conclusion-level statement comparing this validation with prior developed-countr
 - [The social responsibility measurement model required the most item removals, with global justice and personal responsibility items dropped in the Vietnamese context](social-responsibility-model-items-removed-vietnam.md) — related
 - [Only two intercultural communication items (IC1, IC2) were removed from the global competence model, attributed to limited intercultural exposure](global-competence-model-ic-items-removed.md) — related
 - The measurement model showed adequate reliability and convergent validity, and BI and UB models showed substantial explanatory power — related
+- [The survey instrument's nine constructs show convergent and discriminant validity in this sample](genai-motivation-survey-measurement-validity.md) — reports the opposite
+- [A formal curriculum that includes citizenship projects and courses also appears to be an effective type of citizenship education](formal-curriculum-citizenship-projects-courses-effective.md) — related

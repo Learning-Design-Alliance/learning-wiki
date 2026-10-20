@@ -50,3 +50,4 @@ Open-ended item from the Study 2 educator survey (n=116; 38% skipped the item, l
 - [ChatGPT is the most widely used AI tool among Ukrainian education managers (69.4% adoption)](chatgpt-dominant-tool-usage-education-managers.md) — related
 - [Weekly AI use differs sharply across groups even though nearly all groups report similar prevalence of any AI-service use, with administrative staff highest in prevalence but lowest in weekly use](weekly-use-prevalence-divergence.md) — related
 - [Teachers use ChatGPT for personal and professional learning and resource generation, while students use it as a personal tutor for various learning purposes.](chatgpt-teacher-resource-generation-student-personal-tutor.md) — related
+- [Czech secondary students' generative AI tool use is dominated by ChatGPT, with Gemini and Copilot holding only a secondary presence](chatgpt-monoculture-secondary-stem-students.md) — related

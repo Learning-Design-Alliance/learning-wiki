@@ -46,3 +46,4 @@ Cognitive-ethnographic excerpt analysis of the analysis phase, in which an obser
 - [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related
 - [Facilitator techniques such as advocacy-inquiry, guided self-correction, and the plus-delta method function as metacognitive practices that shift focus from retrodiction to prediction](debriefing-techniques-as-metacognitive-practices.md) — related
 - [The facilitator builds the shared account by shifting between narrator, mentor, and monitor roles and consolidating group consensus](facilitator-role-shifting-shared-account.md) — related
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related

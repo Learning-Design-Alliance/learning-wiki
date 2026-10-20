@@ -64,3 +64,7 @@ Same main-study mediation section: the unmediated total-effect model found no si
 ## Related Claims
 
 - [In the main study, NCC, metacognitive strategies, and intrinsic motivation moderated contribution frequency but showed no significant conditional effects on learning gains](moderators-contribution-frequency-not-learning.md)
+- [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](script-no-direct-effect-learning-gains.md) — related
+- [Learning with collaboration scripts outdoors yields biology knowledge gains in both iterations, with joint regulation activities mediating script-component effects](outdoor-cscl-script-knowledge-gains-and-joint-regulation-mediator.md) — related
+- [In the main study, BRD articles were longer, but DDR articles had a lower relative error rate, and article length correlated positively with errors](brd-longer-articles-more-errors.md) — related
+- [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](ddr-script-more-discussions-fewer-edits.md) — related

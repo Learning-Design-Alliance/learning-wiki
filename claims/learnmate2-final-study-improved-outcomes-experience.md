@@ -43,3 +43,8 @@ The authors conducted a final user study (n=16) comparing LearnMate2 against a w
 ## Related Claims
 - [In a preliminary 2×3 controlled lesson study across five backbone LLMs, structured student agents produce more differentiated mastery and misconception traces than a baseline simulator](structured-student-agents-differentiated-mastery-traces.md) — related
 - The bespoke GenAI workflow operated as a modest equalising mechanism, with students reporting inclusive participation regardless of prior AI or drawing experience — related
+- [Participants valued multimodal experiences combining visualization with hands-on interaction, while reporting challenges with complex or unclear visualizations](multimodal-valued-complex-visualizations-hinder.md) — related
+- [In a 24-participant three-modality user study, learners' workflows and engagement with fundamental mechanics problems varied across instructional modalities](workflows-vary-across-mr-et-tc-modalities.md) — related
+- [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
+- [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related
+- [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](ai-web-agents-accelerate-online-learning-advancements.md) — a broader claim this one bears on

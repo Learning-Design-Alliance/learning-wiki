@@ -50,3 +50,5 @@ Hierarchical regression in the same 62-child sample used a residualized Coding s
 - [Children with ADHD show lower oral contextual and non-contextual reading fluency than controls despite intact word reading](adhd-reduced-oral-reading-fluency.md) — related
 - [Verbal working memory predicts oral reading fluency in children with and without ADHD](verbal-working-memory-predicts-reading-fluency.md) — related
 - [Skill-specific genetic variance in working memory and processing speed predicts reading components](skill-specific-genetic-variance-predicts-reading-components.md) — related
+- [Children with ADHD perform worse than controls on WISC-IV Coding but not on Coding Copy, indicating deficits beyond graphomotor speed](adhd-coding-deficit-beyond-graphomotor-speed.md) — related
+- [Verbal and spatial working memory, and verbal attention span, explain unique variance in Coding beyond motor speed, symptom severity, and IQ](working-memory-explains-coding-variance.md) — related

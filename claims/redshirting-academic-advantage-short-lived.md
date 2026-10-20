@@ -66,3 +66,6 @@ The fact sheet summarizes multiple studies comparing redshirted students with st
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — related
 - [Kindergarten redshirting rates have remained around 5% of kindergarteners for roughly two decades](redshirting-rate-stable-about-5-percent.md) — related
 - [The early academic advantage of entering school older may fade in later grades, per a multi-state regression discontinuity analysis through second grade](entry-age-growth-rate-tradeoff.md) — a narrower finding that bears on this claim
+- [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related
+- [At the end of first grade, children whose kindergarten entry was delayed demonstrated slightly higher reading knowledge and skills than those who started on time](delayed-entrants-slightly-higher-reading-first-grade.md) — related
+- [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related

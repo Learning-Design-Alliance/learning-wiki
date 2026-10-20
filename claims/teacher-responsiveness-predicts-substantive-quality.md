@@ -52,3 +52,6 @@ Multilevel model result from the same 527-child sample: teacher responsiveness, 
 - [Spelling and attentiveness are uniquely related to writing conventions of first-grade written composition, but instructional quality is not](spelling-attentiveness-predict-writing-conventions.md) — related
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related
 - [Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language](attention-unique-predictor-kindergarten-writing-fluency.md) — related
+- [Teacher-student interaction quality may reflect pre-existing student characteristics rather than teacher skill unless prior achievement is accounted for](interaction-quality-confounded-by-prior-achievement.md) — reports the opposite
+- [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
+- [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related

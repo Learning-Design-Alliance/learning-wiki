@@ -48,3 +48,6 @@ Human evaluation (RQ3): two annotators independently rated 100 solution-feedback
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — reports the opposite
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
 - [Judge-condition verification did not consistently improve LLM feedback quality and often propagated Peer agents' errors](judge-verification-propagates-peer-errors.md) — related
+- [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
+- [Qualitative analysis confirms the agent can identify confusing lesson content and provide actionable feedback for designers](agent-identifies-confusing-content-actionable-feedback.md) — reports the opposite
+- [AI was found lacking in diagnosing student misconceptions because models do not understand lack of logic or sense making](ai-lacking-diagnosing-misconceptions.md) — related

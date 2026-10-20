@@ -60,3 +60,6 @@ Descriptive survey of technology capacities in New York charter schools immediat
 - [Universities' GenAI policies widely embrace core ethical and governance principles but often overlook inclusion, equity, and sustainability issues such as internet access, gender parity in AI, and environmental impact](genai-policies-overlook-inclusion-equity-sustainability.md) — related
 - [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related disruption as compounding contextual barriers to persistence](contextual-barriers-persistence-theme.md) — related
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md) — related
+- [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — related
+- [Nearly 80 percent of surveyed charter schools operated fully remotely in April 2020, falling to about half by the 2020-21 school year](charter-instructional-modes-remote-to-hybrid-shift.md) — related
+- [Roughly 30% of U.S. k-12 students lacked high-speed internet or adequate devices for digital learning at home before the pandemic, with disparities by income and race](thirty-percent-students-lacked-internet-or-devices-2018.md) — a broader claim this one bears on

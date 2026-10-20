@@ -162,3 +162,4 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
 - [Oral non-interactive teaching can enhance learning more than written teaching for complex materials](oral-written-modality-boundary-noninteractive-teaching.md) — related
+- [2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle](2d-agents-tend-more-effective-than-3d.md) — related

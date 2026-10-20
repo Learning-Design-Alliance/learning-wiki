@@ -45,3 +45,4 @@ Survey of the same 45 efficacy-study students (15 per system) after assessment. 
 ## Related Claims
 - [In a small efficacy study, students using LecturaAgents showed the strongest post-learning assessment performance across learner groups](lecturaagents-efficacy-study-assessment-gains.md) — related
 - [LecturaAgents scores higher than Instructional Agents, GenMentor, and Learn Your Way on lecture content, personalization, and assessment quality](lecturaagents-outperforms-baselines-lcq-pq-aq.md) — related
+- [Chatbot users held more positive attitudes and reported greater perceived knowledge gains than non-users](chatbot-users-more-positive-than-non-users.md) — related

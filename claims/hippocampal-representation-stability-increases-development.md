@@ -46,3 +46,6 @@ Event-related fMRI multivoxel pattern stability analysis in a subgroup of 20 chi
 - [The anterior hippocampus becomes functionally specialized for episodic memory around the transition to adolescence](anterior-hippocampus-functional-specialization-adolescence.md) — related
 - [Hippocampal engagement during problem solving rises in middle childhood and then decreases to adult-like levels by adolescence](hippocampal-engagement-inverted-u-development.md) — related
 - [Memory-based strategy use continues to increase from childhood through adolescence into adulthood](retrieval-development-through-adolescence-adulthood.md) — related
+- [Meaningful engagement with AI as a co-regulatory partner is more likely from middle childhood onwards](ai-co-regulation-middle-childhood-onwards.md) — a broader claim this one bears on
+- [Hippocampal engagement during arithmetic problem solving increases longitudinally in children while prefrontal-parietal engagement decreases](hippocampal-engagement-increases-prefrontal-parietal-decreases.md) — related
+- [Longitudinal gains in children's retrieval fluency are predicted by increased hippocampal-neocortical functional connectivity, not by hippocampal activation levels](hippocampal-connectivity-predicts-retrieval-gains.md) — related

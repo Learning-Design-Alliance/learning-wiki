@@ -48,3 +48,5 @@ Paired-sample t-tests comparing proportions of each SEDA-adapted code between hu
 - [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
 - [A British-accented agent was framed as a background technological helper and othered rather than integrated as a peer](british-accent-agent-framed-as-technological-helper.md) — related
 - [For Grade 4 students, the human teacher elicited significantly more utterances than the AI peer in every 4F reflection category, most pronouncedly for Future-oriented talk](grade4-teacher-superior-all-4f-categories.md) — related
+- [Proactive AI agent dialogues showed stronger conceptual–adequate reasoning links while reactive dialogues showed stronger factual/off-task associations](proactive-agent-dialogues-integrated-epistemic-reasoning.md) — related
+- [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — related

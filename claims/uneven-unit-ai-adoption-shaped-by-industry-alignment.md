@@ -57,3 +57,6 @@ Survey-based case study findings section; Table 2 summarizes unit adoption level
 - [Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students](uniform-ai-integration-widens-gaps.md) — related
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related
+- [Universities widely view AI as a strategic priority but few have formalised senior AI leadership roles, per the EDUCAUSE survey the review reports](ai-strategic-priority-versus-senior-ai-roles-gap.md) — related
+- [Institutional AI adoption is uneven, with partial adoption, incomplete policy development and uncertainty in high-stakes contexts](institutional-ai-governance-uneven.md) — related
+- [A qualitative case study of 17 GenAI adoption cases in a UK business school identified current integration practices along with associated benefits, challenges and influencing factors](genai-adoption-practices-benefits-challenges-17-cases.md) — related

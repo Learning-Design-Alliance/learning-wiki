@@ -69,3 +69,5 @@ The study examined how teachers move into and out of schools and concluded that 
 - [TRP teachers who changed schools within their district tended to move to schools with similar low-income shares, a lower percentage of black students, and higher achievement](trp-movers-join-higher-achievement-schools.md) — related
 - [Eliminating inequities in both teacher mobility and hiring would close teacher quality gaps within 5 years in simulations](mobility-hiring-equity-closes-tqgs-5-years.md) — related
 - [Teacher attrition, mobility, and hiring jointly contribute to teacher quality gaps between students of color and other students](three-processes-contribute-teacher-quality-gaps.md) — related
+- [A small subset of study districts shows meaningful inequity in low-income students' access to effective math teachers](math-inequity-subset-districts.md) — related
+- [Eliminating attrition inequities alone does little to close teacher quality gaps](attrition-equity-alone-little-tqg-effect.md) — related

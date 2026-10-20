@@ -50,3 +50,4 @@ Treatment-characteristic moderators from the random-effects meta-regression (Tab
 - In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk — related
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
 - [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](meditation-programme-characteristics-moderators.md) — related
+- [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](sel-effects-moderators-implementation-delivery.md) — related

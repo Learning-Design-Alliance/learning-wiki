@@ -49,3 +49,4 @@ Secondary correlational analysis of the six true/false items pairing a fraction 
 - [Cognitive abilities correlate with decimal label use patterns](cognitive-abilities-correlate-decimal-label-use.md) — related
 - [Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively](place-value-labels-correlate-decimal-magnitude.md) — a broader claim this one bears on
 - [Concept formation predicts accuracy judging decimal equivalency statements](concept-formation-predicts-decimal-equivalency.md) — related
+- [Domain-general cognitive abilities predict at-risk fourth graders' decimal magnitude understanding](cognitive-predictors-decimal-magnitude-at-risk-fourth-graders.md) — related

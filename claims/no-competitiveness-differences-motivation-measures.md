@@ -69,3 +69,4 @@ A 2x2 mixed ANOVA on educational psychology interest (η2 = 0.084 time effect) s
 - [Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points](no-competitiveness-difference-kahoot-performance.md) — related
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](no-competitiveness-difference-monitoring-bias.md) — related
 - [Error framing is expected to induce differential mastery and performance-avoid orientations, shaping self-efficacy and intrinsic motivation](error-framing-induces-goal-orientations.md) — related
+- [For effective self-regulators, mastery goals have a large positive and performance-avoidance goals a small negative effect on metacognition](mastery-goals-large-positive-avoidance-negative-metacognition.md) — related

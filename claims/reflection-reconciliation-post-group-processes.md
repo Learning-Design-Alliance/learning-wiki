@@ -49,3 +49,4 @@ The article states as its framing account that "Individuals may or may not accep
 - [Students perceived the teacher’s modeling with contrasting cases as a turning point that repositioned them as active gatekeepers of AI-generated content](contrasting-cases-gatekeeper-repositioning.md) — related
 - [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — related
+- [Interactions kindle similar-level interactions: argumentation triggers high-cognitive exchanges while sharing and discussing without reasoning keep interactions low-cognitive](high-cognitive-kindles-high-cognitive.md) — related

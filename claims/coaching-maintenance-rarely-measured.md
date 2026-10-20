@@ -48,3 +48,4 @@ Review discussion of maintenance across the included studies: Duchaine et al. (2
 - [Research quality and outcome durability were highest when coaching targeted fidelity of specific academic tasks rather than teacher-specific behaviors](coaching-academic-task-fidelity-higher-quality.md) — related
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related
 - [Supervisory teacher coaching shows mixed effects, with six of sixteen reviewed studies reporting improved teacher results and four reporting improved student behaviors](supervisory-coaching-mixed-teacher-student-outcomes.md) — a broader claim this one bears on
+- [Students' baseline performance of target behaviors was low (0% to 20%) and rose to 100%, maintained by Andy, Jane, and Joan during the maintenance condition](baseline-low-performance-maintained-100-percent.md) — related

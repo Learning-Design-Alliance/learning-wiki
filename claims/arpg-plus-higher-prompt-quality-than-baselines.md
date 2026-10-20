@@ -47,3 +47,4 @@ Simulation study with 1000 LLM-based simulated learners evenly distributed acros
 - [ARPG+ reaches quality milestones faster than comparison conditions in simulation](arpg-plus-faster-time-to-proficiency.md) — related
 - [ARPG+ shifts cognitive load composition toward productive effort and reduces overload frequency in simulation](arpg-plus-load-composition-shift-and-overload-reduction.md) — related
 - [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
+- [AURA's within-session reinforcement learning improved composite response quality over non-adaptive baselines (p = 0.044, d = 0.66), with fewer specification prompts and more validation behavior](aura-rl-improves-response-quality.md) — related

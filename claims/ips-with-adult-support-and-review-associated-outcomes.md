@@ -52,3 +52,6 @@ Summary statement in the publication’s overview describing what research on IP
 - [Individuals involved in technology exposure and exploration programs are more likely to pursue or enroll in technology-related education and training](exposure-programs-increase-tech-pursuit.md) — related
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — a broader claim this one bears on
 - [Exploratory analyses suggest Roads to Success increased confidence in choosing careers and understanding career success requirements](roads-to-success-exploratory-confidence-career-areas.md) — related
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
+- [Exploratory analyses suggest Roads to Success positively impacted eighth graders' talking to school staff about career and school plans](roads-to-success-exploratory-positive-talking-to-staff.md) — a narrower finding that bears on this claim

@@ -45,3 +45,5 @@ The article's abstract describes a district case: administrators in Gresham-Barl
 ## Related Claims
 - [High school course-taking differs substantially among English learners depending on years spent as an EL](course-taking-heterogeneity-by-years-as-el.md) — related
 - [Stronger working relationships emerged among highest-level central office administrators, but rifts and skepticism about systemic change remained among other staff](central-office-relationships-stronger-at-top-with-rifts-among-other-staff.md) — related
+- [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — related
+- [Florida shows more equitable advanced course offerings between high- and low-poverty schools, attributed by others to statewide opportunity efforts begun in the early 2000s](florida-equitable-advanced-course-offerings.md) — related

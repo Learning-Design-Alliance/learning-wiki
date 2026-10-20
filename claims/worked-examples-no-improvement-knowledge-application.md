@@ -49,3 +49,4 @@ RM-ANOVA on the knowledge application test (eight open CDR scenarios, administer
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
 - [Erroneous examples produce significantly higher delayed-test learning gains than problem solving for decimal learning](erroneous-examples-delayed-learning-gain-decimals.md) — related
 - [The participatory simulation group showed significantly larger overall (combined knowledge and application) gains than the problem-based group after four weeks](simulation-larger-overall-il-gains.md) — related
+- [Studying worked examples between two rounds of a computer puzzle game produced significantly greater knowledge map improvement than no worked examples for adult players](worked-examples-improve-knowledge-map-content-understanding-in-a-puzzle-game.md) — related

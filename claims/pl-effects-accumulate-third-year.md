@@ -43,4 +43,5 @@ Longitudinal analysis (Charts 2–3) of MAP effects for the 21-school subset wit
 
 
 ## Related Claims
--
+- [Treatment students substantively engaged with RM-CC5 across the school year and all treatment schools met the program's implementation intensity benchmarks, though engagement varied widely between schools and students](rm-cc5-student-engagement-implementation-fidelity.md) — related
+- [Treatment classrooms used technology far more intensively than control classrooms, whose technology use remained supplemental](rm-cc5-treatment-higher-technology-use.md) — related

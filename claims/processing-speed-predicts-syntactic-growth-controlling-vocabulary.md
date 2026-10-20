@@ -47,3 +47,7 @@ Growth curve analysis of M3L growth between 19 and 30 months with Expressive Voc
 - [Vocabulary size at 19 months is a strong predictor of later syntactic growth between 19 and 30 months](vocabulary-size-predicts-syntactic-growth-19-30-months.md) — related
 - [Processing speed at 19 months correlates with expressive vocabulary between 18 and 31 months, but processing speed at 25 and 31 months does not](processing-speed-vocabulary-correlation-only-at-19-months.md) — related
 - [Early ANS acuity does not predict later expressive vocabulary; only initial vocabulary size predicts vocabulary six months later](ans-acuity-not-predicting-vocabulary-growth.md) — related
+- [Lexical processing latency at 36 months does not predict concurrent grammatical complexity (LDS average length of phrase)](latency-36-months-no-predict-phrase-length.md) — related
+- [Individual differences in processing speed remain broadly stable between 19 and 31 months](processing-speed-individual-differences-stable-19-31-months.md) — related
+- [Faster processing speed predicts greater vocabulary growth only for children with smaller vocabularies at 19 months](processing-speed-predicts-vocabulary-growth-low-vocabulary-only.md) — related
+- [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related

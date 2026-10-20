@@ -86,3 +86,4 @@ In the qualitative dataset, 18 of 63 participants voiced concerns that "the over
 - [Students use self-initiated strategies of verification, skill improvement, post-editing, pre-editing and reliance management to cope with GenAI challenges](genai-translation-self-initiated-coping-strategies.md)
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md)
 - [Participants' prompting was often limited, with poorly formulated prompts leading to vague or unhelpful outputs](poorly-formulated-prompts-vague-outputs.md)
+- [AI-assisted outputs are more similar to each other than purely human-authored ones, indicating a homogenization risk](ai-assisted-outputs-homogenization-risk.md) — related

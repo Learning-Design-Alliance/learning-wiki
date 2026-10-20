@@ -45,3 +45,4 @@ Analysis of an experience assessing Experimental Physics laboratory reports with
 ## Related Claims
 - [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — related
 - [Students reported ChatGPT limitations in Quantum Theory learning: insufficient in-depth explanations, inability to interpret graphs or graphic equations, and occasional unexplainable mathematical errors](chatgpt-quantum-limitations-graphs-errors.md) — related
+- [LLM accuracy drops from 96% on text-only to 74% on multimodal physics problems, with significant differences emerging among models](multimodal-physics-accuracy-drops-to-74-percent.md) — related

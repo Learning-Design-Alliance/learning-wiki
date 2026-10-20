@@ -45,3 +45,5 @@ Matched comparison group (NWEA virtual comparison group) analysis of MAP scores 
 
 ## Related Claims
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
+- [In mathematics, personalized-learning students in the lowest baseline quintile were the most likely to out-grow their matched comparison students](pl-lowest-baseline-students-greatest-growth.md) — a narrower finding that bears on this claim
+- [In a full-year subset analysis, 95 PLL students showed significant reading gains relative to comparison on Acadience (+0.19), MAP (+0.30), and the Ohio State Test (+0.54, fifth grade)](pll-full-year-subset-gains.md) — related

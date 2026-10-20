@@ -48,3 +48,7 @@ The editorial's synthesis of the four constituent studies: a common commitment t
 - [The teacher-conference problem met the sweet spot of complexity: 10th graders generated solution ideas containing the targeted errors without solving the problem canonically](pf-problem-sweet-spot-complexity-pilot-tests.md) — related
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — reports the opposite
 - [Mixed-ability groups generated a broader range of RSMs than all-low and all-high ability groups, relating to better uptake of the canonical formula](mixed-ability-groups-broader-rsm-range.md) — related
+- [The increase in students inventing their own ways of solving tasks was minor, but there was a marked increase in students agreeing the CCS tasks required inventing their own ideas](ccs-marked-increase-inventing-own-ideas.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related

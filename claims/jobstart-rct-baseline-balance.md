@@ -47,3 +47,5 @@ Appendix A1 of the Cave et al. (1993) randomized controlled trial reports baseli
 - [JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment](jobstart-increased-diploma-or-ged-completion.md) — related
 - [JOBSTART's positive completion effect held across gender and parenthood subgroups, with the largest effect for women living with their own children](jobstart-completion-subgroup-effects.md) — related
 - [JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma](jobstart-ged-gain-diploma-negative-effect.md) — related
+- [Treatment and control groups showed few differences in job characteristics, work search activities, and perceived barriers to employment](promise-few-differences-job-characteristics-barriers.md) — related
+- [Job Corps substantially increased time spent in education and training relative to the control group during the 48-month follow-up](job-corps-more-education-training-hours.md) — related

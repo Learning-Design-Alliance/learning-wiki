@@ -45,3 +45,4 @@ Narrative synthesis of demographic findings across the sample. The review report
 ## Related Claims
 - [Findings on gender differences in engagement with adaptive learning platforms are mixed, with some studies showing higher engagement among girls and others among boys](gender-engagement-adaptive-platforms-mixed.md) — related
 - [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — a narrower finding that bears on this claim
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related

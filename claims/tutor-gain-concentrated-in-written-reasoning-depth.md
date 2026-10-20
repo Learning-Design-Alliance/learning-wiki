@@ -48,3 +48,6 @@ Authors' summary of the preregistered SOLO depth co-primary outcomes (mean SOLO 
 - Multiple choice practice items produce significantly higher performance during retrieval practice than short answer items, with applied short answer the most difficult condition — related
 - Successful retrieval practice of more difficult items (short answer, applied) yields greater future predicted success than successful retrieval of easier items (multiple choice, factual) — related
 - Practice condition (format/depth) showed no significant differences on posttest performance for either practiced or unpracticed concepts — related
+- [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
+- [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
+- [Ambient consumer AI use in the holdout did not close the structured-tutor gap](ambient-consumer-ai-did-not-close-tutor-gap.md) — related

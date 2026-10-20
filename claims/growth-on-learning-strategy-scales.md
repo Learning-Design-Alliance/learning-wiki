@@ -43,4 +43,6 @@ Multilevel regression on 626 students with MSLQ learning strategy scales as outc
 
 
 ## Related Claims
--
+- [Differentiated instruction by learning strategies shows no significant effect on any student motivation scale](no-motivation-effect-differentiation.md) — related
+- [Learning strategy outcome effects are driven by different differentiation groups than the performance effect](mslq-outcomes-different-group-drivers.md) — related
+- [The combined training-plus-diary condition improved specific SRL components: SRL knowledge, metacognitive strategies, cognitive strategies (elaboration, organisation, critical thinking), and resource management strategies (time-management, effort regulation)](combined-condition-improved-specific-srl-components.md) — related

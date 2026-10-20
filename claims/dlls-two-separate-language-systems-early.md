@@ -65,3 +65,4 @@ The review reports that nine case studies of DLL infants/toddlers, supported by 
 
 - [DLL infants can discriminate their two languages from early infancy, though within-language contrast discrimination trajectories show mixed findings](dll-infant-speech-discrimination-trajectories.md) — related
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md)
+- [DLL preschoolers may show a metalinguistic advantage over monolingual peers in grammatical awareness as their language abilities develop](dll-metalinguistic-advantage.md) — related

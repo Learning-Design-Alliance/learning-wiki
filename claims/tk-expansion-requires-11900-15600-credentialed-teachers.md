@@ -47,3 +47,4 @@ An LPI analysis of California TK enrollment projects that by 2025–26 more than
 - [California will need at least 16,000 to 19,700 assistant TK teachers by 2025–26 under one-lead-one-assistant staffing](assistant-tk-teachers-16000-19700.md) — related
 - [TK enrollment in California is projected to reach between 291,000 and 358,000 children by 2025–26 under three modeled uptake scenarios](tk-enrollment-291k-358k-by-2025-26.md) — related
 - [TK staffing shortages improved: TK assistant teacher vacancies fell from 12% to 3%, and 91% of LEAs reported enough lead teachers meeting 2025–26 requirements](tk-staffing-vacancies-improved-2023-24.md) — related
+- [County differences in TK uptake and population size translate into varying hiring needs, with the five largest counties accounting for over half of increased demand](county-variation-tk-hiring-demand.md) — related

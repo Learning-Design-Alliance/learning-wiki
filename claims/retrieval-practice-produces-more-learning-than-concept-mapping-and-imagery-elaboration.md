@@ -76,3 +76,5 @@ Both entries are one review chapter's summaries of its author's own earlier expe
 - [Mnemonic Instruction Improves Recall For Students With Disabilities](mnemonic-instruction-improves-recall-for-students-with-disabilities.md) — related
 - [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](quizzing-beats-restudying-and-elaborative-controls.md) — related
 - [Summarization, highlighting, the keyword mnemonic, imagery for text, and rereading receive low utility assessments](five-techniques-low-utility.md) — related
+- [Generation Effect Improves Retention](generation-effect-improves-retention.md) — related
+- [An ICAP theory article reports, second-hand and without describing the design, a study in which concept mapping with a peer enhanced learning more than concept mapping alone](interactive-beats-constructive-concept-mapping.md) — reports the opposite

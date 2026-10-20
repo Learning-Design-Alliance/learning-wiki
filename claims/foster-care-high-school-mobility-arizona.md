@@ -53,3 +53,4 @@ Observational analysis of linked administrative data on number of schools attend
 - [Students in foster care had the lowest statewide testing participation, a dropout rate three times the statewide rate, and a 58 percent grade-12 graduation rate](foster-care-participation-dropout-graduation.md) — related
 - Research confirms school stability helps students in foster care, while school placement changes from home placement changes are a powerful risk factor for poor outcomes — related
 - Teachers report that students in foster care arrive with fragmented academic histories, late records, and — in high school — no partial credits after mid-semester school changes — related
+- [Students in foster care had the lowest proficiency of any group on California's grades 2-7 mathematics test](foster-care-lowest-math-proficiency.md) — related

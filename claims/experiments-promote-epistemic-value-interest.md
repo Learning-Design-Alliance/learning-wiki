@@ -81,4 +81,6 @@ Across both randomized studies the emotional component of situational interest (
 
 
 ## Related Claims
--
+- [Secondary school students learn more complex marine ecology content from interactive computer simulations than from hands-on experiments, with a larger advantage for the more complex multidimensional topic](simulations-beat-experiments-complex-content-knowledge.md) — related
+- [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
+- [Without video review, hands-on activities enhance vocational students' practical skill performance more effectively than virtual simulations](hands-on-beats-virtual-simulation-without-video-review.md) — related

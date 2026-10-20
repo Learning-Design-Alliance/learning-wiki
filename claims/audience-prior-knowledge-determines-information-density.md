@@ -51,3 +51,5 @@ A theoretical claim in the paper's discussion of early writing decisions: once a
 - [Successful writing requires that the writer first become a sufficiently skillful reader to estimate the effect of the text on a prospective audience](skilled-reader-estimate-audience-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Cognitive Load Management](cognitive-load-management.md) — related
 - [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic knowledge did not improve primary pupils' text comprehension in one experiment](activation-improves-learning.md) — related
+- [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether their writing is understandable and coherent.](skilled-writers-audience-awareness.md) — related
+- [Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages](cohesion-no-effect-delayed-recall.md) — related

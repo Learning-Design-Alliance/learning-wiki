@@ -75,3 +75,6 @@ Evaluation of fine-tuned T5-small and BERT-base classifiers on the Eedi test dat
 - [LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task](llm-assessment-outperforms-semantic-similarity-code-explanations.md) — related
 - [Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels](fine-tuning-authentic-data-improves-pedagogical-benchmarks.md) — related
 - [LLM feedback agents classify optimal logic proof steps near-ceiling but perform poorly on valid-alternative and incorrect solutions](llm-tutors-near-ceiling-optimal-poor-valid-alternative-incorrect.md) — related
+- [The system's error detection recall rate for complex rhythm errors was 91.2% ± 1.8%](rhythm-error-detection-recall-91-2.md) — related
+- [LLM feedback agents show model-specific over-rejection of valid-alternative reasoning and over-validation of incorrect solutions](llm-over-rejection-over-validation-patterns.md) — related
+- [LLM misconception analysis that ties student errors to instructional content reveals insights not apparent from performance data alone](llm-misconception-analysis-reveals-insights-beyond-performance-data.md) — related

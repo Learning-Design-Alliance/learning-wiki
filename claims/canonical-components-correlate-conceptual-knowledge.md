@@ -66,3 +66,5 @@ Secondary correlational analysis in the PF condition using the range of distinct
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — related
 - [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related
 - [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
+- [Vicarious failure with high solution diversity is as effective as engaging in Productive Failure oneself for conceptual knowledge acquisition](vf-high-as-effective-as-pf.md) — related
+- [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — reports the opposite

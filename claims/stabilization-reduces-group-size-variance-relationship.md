@@ -47,3 +47,4 @@ Descriptive analysis comparing variance of unstabilized and stabilized z-scores 
 - [Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools](stabilization-changes-csi-designations.md) — related
 - [Stabilization reduced overrepresentation of 10-to-19-student groups in the extremes of score distributions for every test-based indicator, with growth indicators becoming underrepresented](stabilization-reduces-small-group-extreme-overrepresentation.md) — related
 - [Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected](stabilization-adjusts-small-extreme-scores-most.md) — related
+- [Stabilization changed ATSI designations more than CSI designations, with the median lowest-performing subgroup larger under stabilized indicators](stabilization-changes-atsi-designations-more-than-csi.md) — related

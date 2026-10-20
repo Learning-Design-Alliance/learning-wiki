@@ -46,3 +46,4 @@ Theoretical argument in the task-definition section. The paper contrasts the com
 - [The taxonomy organises LLM-supported journalistic tasks into four stages: newsgathering, sensemaking, editing, and publication/distribution](four-stage-news-workflow-organisation.md) — related
 - [The workshop argues AI-resistant assignments are temporary at best, reframing design goals toward tasks whose difficulty survives AI completing part of the work](ai-resistance-shelf-life-reframing.md) — related
 - Mid-semester survey found homework rated hard or very hard by all respondents, frequent LLM use, and divided attitudes toward single-prompt-resistant assignments — related
+- [Computer programmer employment is projected to decline 10% from 2021 to 2031 due to automation, and apprenticeships placed in automation-vulnerable pathways risk reinforcing disparities](automation-declines-programmer-jobs-apprenticeship-risk.md) — related

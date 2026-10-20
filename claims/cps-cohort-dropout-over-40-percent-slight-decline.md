@@ -54,3 +54,5 @@ Cohort analysis of CPS administrative records following students defined by age 
 - [Graduation by age 18 was slightly higher in later cohorts despite earlier off-schedule status](graduation-by-18-slightly-higher-later-cohorts.md) — related
 - Of Barton's 81 eighth-grade graduates of 1993, 44 graduated within five years, 26 dropped out, and 10 left CPS — related
 - [The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers](barton-report-method-differs-from-cps-statistics.md) — related
+- [The Illinois State Board of Education's graduation-rate method overestimates graduation rates where large numbers of students transfer between schools, as in Chicago](isbe-method-overestimates-graduation-rate.md) — related
+- [Systemwide CPS first-year on-track percentages ranged from 44.8 to 50.8 across the 1997–2001 cohorts](cps-systemwide-first-year-on-track-percentages.md) — related

@@ -46,3 +46,6 @@ The report's executive summary attributes this finding to a longitudinal evaluat
 - [ELs who attended a school-based CPS pre-k showed better third-grade attendance, grades, test scores, and English proficiency than peers who did not](school-based-prek-third-grade-el-outcomes.md) — related
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a broader claim this one bears on
 - [At the end of first grade, children who repeated kindergarten had lower reading and math knowledge and skills than children who started on time](repeaters-lower-reading-math-end-first-grade.md) — related
+- [Attending higher-rated schools (CPS School Quality Rating Policy) is associated with better math, reading, and English proficiency test outcomes for ELs](higher-rated-schools-el-test-outcomes.md) — related
+- [Early childhood education attendance is associated with higher high school completion, college attendance, and employment](ece-higher-completion-college-employment.md) — a broader claim this one bears on
+- [At the end of first grade, children whose kindergarten entry was delayed were behind their classmates who began kindergarten on time in math](delayed-entrants-behind-in-math-first-grade.md) — related

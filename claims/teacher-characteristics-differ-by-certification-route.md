@@ -57,3 +57,4 @@ Descriptive comparison of teacher characteristics across certification routes fo
 - [Teachers of color were nearly twice as likely as White teachers to have entered teaching through an alternative certification route in 2020–21](teachers-of-color-alternative-route-entry.md) — related
 - [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related
 - [Years of science study in high school are directly related to college entrance exam achievement, and Hispanic and Black students complete advanced science courses at smaller rates](years-science-study-sat-achievement.md) — related
+- [Students of under-certified teachers made about 20% less academic growth per year than students of regularly certified teachers](undercertified-20-percent-less-growth.md) — related

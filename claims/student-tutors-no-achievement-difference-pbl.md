@@ -43,4 +43,12 @@ Quasi-experimental comparison in a first-year PBL law curriculum: students were 
 
 
 ## Related Claims
--
+- [First-year students do not attach great importance to the tutor's domain specific expertise, which may explain why staff tutors' extra expertise does not yield achievement advantages](domain-expertise-less-important-first-year-pbl.md) — related
+- [Student perceptions of tutors are generally positive for both staff and student tutors, with significant differences appearing in only one course and not consistently across courses](tutor-perceptions-positive-inconsistent-differences.md) — related
+- [Staff-tutored tutorial groups achieve slightly but significantly higher marks than peer-tutored groups in problem-based learning](staff-tutoring-small-achievement-advantage-pbl.md) — reports the opposite
+- [Prior field experiments found no achievement differences between staff- and student-tutored groups](no-achievement-difference-staff-versus-student-tutoring.md) — possibly the same claim (merge candidate)
+- [Student tutors are rated as more cognitively congruent than staff tutors in problem-based tutorial groups](student-tutors-more-cognitively-congruent-than-staff.md) — related
+- [Focus group data indicate student tutors show more cognitive congruency than staff tutors, explaining content more clearly and in student-friendly terms](student-tutors-cognitive-congruency-focus-group.md) — related
+- [No achievement difference between staff- and peer-tutored groups in the first curriculum year](no-achievement-difference-year-one-peer-staff.md) — a narrower finding that bears on this claim
+- [Staff tutors rated higher on using subject-matter knowledge and relevance, but peer tutors rated higher on these behaviors in year one](tutor-behavior-ratings-interaction-year.md) — related
+- [Student tutors refer to end-of-course examinations more frequently than staff tutors to direct student learning](student-tutors-more-assessment-oriented.md) — related

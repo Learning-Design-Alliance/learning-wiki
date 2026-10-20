@@ -46,3 +46,4 @@ The review reports, citing Nielsen (2002), that older adults "manifest more than
 - [A preliminary iPad case study confirmed the creative potential of the elderly and tablets' potential to overcome ICT adoption challenges](ipad-case-study-elderly-creative-collaboration.md) — related
 - [Older adults produced more non-specific responses than younger adults only in the memory experiment, not in problem solving](age-nonspecific-responses-memory-only.md) — related
 - [Older adults produce fewer specific responses than younger adults in the generation task across both experiments](aging-fewer-specific-responses-generation.md) — related
+- [The OSP approach helps users overcome barriers in creating, using and scaling up meaningful ICT use in education](osp-overcomes-ict-barriers.md) — related

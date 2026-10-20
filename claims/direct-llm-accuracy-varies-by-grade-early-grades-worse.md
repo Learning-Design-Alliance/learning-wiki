@@ -63,3 +63,5 @@ Training-set regressions predicting true difficulty from rescaled GPT estimates 
 
 ## Related Claims
 - [Direct Llm Estimation Beats Dummy Regressor K5 Items](direct-llm-estimation-beats-dummy-regressor-k5-items.md)
+- [Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87](feature-based-llm-models-outperform-direct-estimation-and-benchmarks.md) — related
+- [LLMs systematically underestimate fraction items whose difficulty is driven by misconceptions (the \"Easy Trap\")](easy-trap-fraction-items-underestimated-by-llms.md) — related

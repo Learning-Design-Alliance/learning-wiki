@@ -59,3 +59,6 @@ The authors' ergonomic analysis of the Entrez interface reports, from experience
 - [Internet-based Entrez use grew dramatically in 1994 while CD-ROM subscriptions plateaued](internet-entrez-use-grew-cd-rom-plateaued.md) — related
 - [Some users prefer a single-form Boolean query interface to the original Entrez interface](single-form-boolean-query-preferred-by-some-users.md) — related
 - Some users prefer to search by people groups, contexts and institutions rather than by subject categories, and some will not explore complex structures or long lists — related
+- [The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers](page-break-response-cues-interaction.md) — related
+- [Readers locate sentences more accurately after reading a text in page-by-page presentation than in scrolling presentation](page-presentation-better-sentence-locating.md) — related
+- [Post-deployment diagnostics attributed many remaining retrieval misses to query formulation, with bounded expansion recovering eleven of 24 original queries without lowering the relevance floor](retrieval-misses-attributed-to-query-formulation.md) — related

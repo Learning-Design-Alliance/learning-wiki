@@ -47,3 +47,4 @@ Random-effects meta-analysis of 22 studies comparing poor reading and control gr
 - [Poor readers show moderately elevated general internalising problems compared to typical readers (d = 0.41)](poor-readers-moderate-internalising-problems.md)
 - [Poor readers show a small but significant elevation in depression compared to typical readers (d = 0.23)](poor-readers-small-depression-elevation.md)
 - [Planned moderator subgroup analyses could not be conducted because fewer than 10 studies per subgroup were available](subgroup-analyses-underpowered-moderators.md) — related
+- [Prior narrative reviews found poor readers at risk for internalising problems, with attention problems raising risk further](prior-reviews-reading-internalising-narrative.md) — related

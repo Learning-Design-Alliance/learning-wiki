@@ -49,3 +49,5 @@ Implementation evaluation across Pilot Year 1 (2018/19), Pilot Year 2 (2019/20),
 - [Teachers reported that insufficient instructional minutes during the school year prevented them from teaching all required ERWC modules with fidelity](insufficient-instructional-minutes-blocked-full-erwc-coverage.md) — related
 - [Teachers least often taught the aspects of the ERWC curriculum associated with writing and metacognition](teachers-least-often-taught-writing-and-metacognition.md) — related
 - [Teachers viewed the ERWC 3.0 as an improved curriculum that promoted high student engagement and supported students' academic and personal growth](teachers-viewed-erwc-3-engaging-and-growth-supporting.md) — related
+- [Tutoring sessions were implemented with high procedural fidelity (mean 93.4%)](treatment-fidelity-peer-tutoring-sessions.md) — related
+- [The cost analysis suggests the ERWC is a modest investment whose upfront development and training costs become insignificant over time](erwc-modest-investment-cost-analysis.md) — related

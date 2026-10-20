@@ -49,3 +49,4 @@ Random-assignment evaluation of Playworks across 25 schools, first cohort of sch
 - [Teachers in Playworks schools reported less bullying and exclusionary behavior during recess than control-school teachers](playworks-reduced-teacher-reported-recess-bullying.md) — related
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [Most teachers, students, and principals reported positive perceptions of the Playworks program](playworks-most-stakeholders-positive-perceptions.md) — related
+- [Teachers in Playworks schools were more likely to report that students enjoyed adult-organized recess activities](playworks-students-enjoyed-adult-organized-recess.md) — related

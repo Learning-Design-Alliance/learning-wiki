@@ -78,3 +78,8 @@ Descriptive group-specific coefficients from Table 9; the authors present these 
 - [Among Chinese higher vocational students, GenAI usage habits and usage contexts are positively associated with perceived learning outcomes while usage frequency is negatively associated, controlling for gender and grade](genai-usage-habits-positive-frequency-negative-predictors-vocational-outcomes.md) — related
 - [Teachers who see AI usage opportunities more frequently use AI significantly more often (r = .45 in class)](seen-opportunities-correlate-with-ai-use.md) — related
 - [GAI-related and GAI-unrelated AI tools show no significant difference in their moderating effects on K-12 STEM learning outcomes](gai-usage-no-moderating-effect.md) — related
+- [Innovative competence differs by background variables, with AI interest level showing the strongest association](innovative-competence-background-heterogeneity-ai-interest.md) — related
+- [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
+- [Across the student body as a whole, no clear statistical trend was confirmed between AI usage levels and code comprehension](no-statistical-trend-ai-usage-comprehension.md) — related
+- [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — related
+- [Perceived GAI advocacy–practice inconsistency is positively associated with both hindrance and challenge appraisal in students' actual experiences](inconsistency-positively-associated-both-appraisals.md) — related

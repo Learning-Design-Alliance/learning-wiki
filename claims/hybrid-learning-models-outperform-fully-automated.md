@@ -46,3 +46,5 @@ Subgroup analysis using the adapted Personalized Learning Continuum Framework: M
 - [Instructional model shows a significant subgroup difference (traditional classroom g = 1.19 vs. AI teaching g = 0.69) that does not remain robust in multivariate meta-regression](instructional-model-subgroup-nonrobust.md) — related
 - The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
 - [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
+- [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](arvr-largest-effect-ai-application-type.md) — related
+- [Subject significantly moderates effects, with AI-enabled personalized STEM education most effective in comprehensive courses (g = 2.161)](comprehensive-courses-largest-subject-effect.md) — related

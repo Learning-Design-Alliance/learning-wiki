@@ -84,3 +84,4 @@ Review narrative citing Ursin's (2012) paratrooper study as an extreme example o
 - [Failure-triggered epinephrine activates the amygdala and cholinergic neurons, improving memory formation](failure-epinephrine-amygdala-cholinergic-memory-cascade.md) — related
 - [Acetylcholine gates memory encoding: surprising outcomes drive high release that encodes new memories distinct from prior ones, and focus lags alertness by several minutes](acetylcholine-surprise-encoding-focus-lag.md) — related
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — a broader claim this one bears on
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — a broader claim this one bears on

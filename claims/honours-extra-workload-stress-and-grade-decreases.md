@@ -48,3 +48,5 @@ Open-ended survey responses on disadvantages of membership; honours activities c
 ## Related Claims
 - [Honours community members report isolation and negative bias from regular students and lecturers](honours-community-isolation-from-regular-students.md) — related
 - [Sleep deprivation is associated with reduced psychomotor vigilance, impaired reaction time, and greater perceived workload and stress in astronauts](sleep-deprivation-impairst-astronaut-performance.md) — related
+- [Honours community members perceive a safe and supportive environment that facilitates exploring new ideas](honours-community-safe-supportive-learning-environment.md) — related
+- [Resource limitations from the redesigned policy are felt at the program, district, and principal candidate levels](illinois-principal-preparation-resource-limitations.md) — related

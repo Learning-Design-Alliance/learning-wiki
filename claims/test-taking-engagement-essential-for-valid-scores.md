@@ -57,3 +57,5 @@ The chapter's concluding interpretive statement asserts that findings on disenga
 - [RTE provides an assessment of test-taking effort down to the level of individual item responses](rte-assesses-effort-at-item-response-level.md) — a narrower finding that bears on this claim
 - [Technology-enhanced assessment items were studied as a potential means of increasing student test engagement and reducing disengagement](technology-enhanced-items-studied-for-test-engagement.md) — a narrower finding that bears on this claim
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related
+- [Content alignment between a test and its content domain represents key evidence for validating test score inferences](alignment-key-validation-evidence-score-inferences.md) — related
+- [Implementation intentions promote initiation of goal striving, shielding of ongoing pursuit, disengagement from failing courses of action, and conservation of capability](implementation-intentions-four-self-regulatory-benefits.md) — related

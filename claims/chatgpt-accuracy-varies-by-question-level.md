@@ -68,3 +68,5 @@ The review reports, citing Tassoti (study A1 with 23 chemistry teacher candidate
 - [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related
 - ChatGPT and conversational robots are the most used AI tools in science and chemistry education research, with ChatGPT used in 50% of reviewed studies — related
 - [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related
+- [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
+- [General-purpose LLMs show accuracy and reliability limits, including hallucinations and task-specific accuracy below perfect, making them risky as expert advice sources](llm-accuracy-hallucination-coaching-risk.md) — related

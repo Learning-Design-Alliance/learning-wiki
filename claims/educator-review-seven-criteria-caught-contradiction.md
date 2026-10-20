@@ -63,3 +63,4 @@ Case analysis of one substantive correction in the generated worked example: the
 
 ## Related Claims
 - [Lesson designers identify generic feedback and unclear title-page and instruction sections as key weaknesses of LLM-generated lessons](llm-lesson-weaknesses-generic-feedback-clarity.md) — related
+- [LLM-generated lessons produced inauthentic references even when combined with RAG over verified academic papers](rag-does-not-ensure-citation-authenticity.md) — related

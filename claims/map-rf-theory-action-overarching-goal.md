@@ -47,3 +47,6 @@ This is the article's own abstract statement (type e, authors' interpretation), 
 - [In Spanish MAP Reading Fluency's Adaptive Oral Reading form, Sentence Reading Fluency performance routes students in grades K–3 between oral reading and foundational skills tracks](sentence-reading-fluency-routing-threshold.md) — related
 - [MAP Reading Fluency administered at scale, with 407,964 students receiving Foundational Skills scores and 277,920 receiving Oral Reading Fluency scores in 2020–2021](map-rf-2020-21-operational-scale.md) — related
 - [Four oral reading scores together best predict passage comprehension and enable individualized instruction](four-scores-predict-passage-comprehension.md) — related
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
+- [Automated speech recognition tutoring supports early reading in three areas: word identification, attention to meaning, and motivation](asr-tutoring-supports-word-identification-attention-motivation.md) — related
+- [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related

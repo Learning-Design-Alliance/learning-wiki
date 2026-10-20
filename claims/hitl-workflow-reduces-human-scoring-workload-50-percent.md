@@ -46,3 +46,4 @@ Simulation of the proposed Human-in-the-Loop framework using data from the 2024 
 - A hybrid human-AI workflow using GPT-4o with retrieval-augmented generation supported efficient inductive thematic analysis while preserving researcher judgment — related
 - [Respondents proposed testing and monitoring (61.9%) and human involvement (22.7%) as leading mitigations for algorithmic bias](rfi-bias-mitigation-testing-human-involvement.md) — related
 - [The revised Round II grading workflow reduced AI over-awarding and total-score MAD, most clearly for OE1 (7.1% to 4.8%) and QM (9.4% to 3.8%)](revised-workflow-reduces-overawarding-mad.md) — related
+- [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related

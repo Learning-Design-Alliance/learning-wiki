@@ -70,3 +70,4 @@ Exploratory multiple mediation analysis (PROCESS macro, 5000 bootstrap samples) 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — related
 - [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](metacognitive-scaffolding-guided-invention-gains.md) — related
+- [Exploratory learning is expected to raise metacognitive activity, which in turn increases strategic knowledge and adaptive transfer](exploratory-learning-metacognition-adaptive-transfer-pathway.md) — related

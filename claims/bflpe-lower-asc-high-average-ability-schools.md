@@ -52,3 +52,4 @@ Review of secondary analyses of the PISA 2003 international assessment across 41
 - [Reanalyses of SCT choice-paradigm studies support the BFLPE, which was not moderated by students' chosen comparison targets](bflpe-reanalyses-not-moderated-by-comparison-choice.md) — related
 - [Students' perceived class performance level fully mediates the effect of classmates' hand-raising behavior on situational self-concept](perceived-performance-mediates-bflpe.md) — related
 - [Students who perceived the class performance level as higher reported lower situational self-concept in the IVR classroom](higher-perceived-performance-lowers-situational-self-concept.md) — related
+- [Higher proportions of hand-raising virtual classmates raise sixth-graders' perceived class performance level and register more hand-raisers in an IVR lesson](ivr-handraising-raises-perceived-class-performance.md) — a narrower finding that bears on this claim

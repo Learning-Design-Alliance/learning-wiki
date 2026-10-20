@@ -44,3 +44,6 @@ Planned comparison of the control group with the two scaffolding conditions on a
 
 ## Related Claims
 - [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md) — related
+- [Metacognitive scaffolding did not significantly affect group performance of collaborating triads, though the effect size indicated a small to medium positive effect](scaffolding-no-significant-group-performance-effect.md) — related
+- [Both structuring and problematizing avatar scaffolds raise elementary students' metacognitive knowledge relative to no scaffolding](avatar-metacognitive-scaffolds-raise-metacognitive-knowledge.md) — related
+- [Metacognitive scaffolding had no significant effect on individual domain knowledge (recall, knowledge tests, or transfer), with effect sizes close to zero](scaffolding-no-domain-knowledge-effect.md) — related

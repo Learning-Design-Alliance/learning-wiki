@@ -50,3 +50,4 @@ A study of publicly funded preschool programs reviewed by the report found that 
 - [Always on-track and always off-track students attend schools with systematically different demographic compositions](trajectory-groups-differ-school-demographics.md) — related
 - [Black, Hispanic/Latino/a, and Multiracial preschool children were underrepresented in higher-quality (Tier 4 and 5) programs](black-hispanic-multiracial-children-underrepresented-high-tier.md) — related
 - [The ECE system is socioeconomically segregated because means-tested programs sort children by family income](ece-socioeconomic-segregation-means-testing.md) — a broader claim this one bears on
+- [Universal PreK school-based classrooms are about as diverse as first-grade classrooms, while means-tested and community-based classrooms are more segregated](universal-prek-classroom-diversity.md) — related

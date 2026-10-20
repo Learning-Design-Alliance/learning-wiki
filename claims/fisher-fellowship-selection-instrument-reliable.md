@@ -46,3 +46,4 @@ Psychometric examination of the properties of the Fisher Fellowship candidate se
 - [Average impacts of KIPP middle schools were positive and statistically significant throughout the 10-year study period, though higher in earlier years than recent years](kipp-middle-impacts-positive-throughout-higher-earlier-years.md) — related
 - [A lottery-based randomized experimental analysis confirms KIPP middle schools' positive impacts](kipp-lottery-experimental-analysis-confirms-impacts.md) — related
 - [A lottery-based randomized controlled trial of KIPP middle schools found statistically significant positive effects on state math and reading tests](kipp-rct-lottery-positive-effects.md) — related
+- [The overall CT–PCK Survey functioned similarly across teacher characteristic groups, though some items showed raw differential item functioning above 0.64 logits](ct-pck-dif-dtf-findings.md) — related

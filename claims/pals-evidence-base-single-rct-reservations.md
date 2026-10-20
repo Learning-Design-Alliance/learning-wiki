@@ -72,3 +72,4 @@ Study description of the Fuchs et al. (1997) trial: 22 schools stratified by rea
 - Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations — a narrower finding that bears on this claim
 - [The evidence base for the program is a single RCT of 3,074 randomly assigned youth, with 1,196 in the follow-up analysis sample, and the WWC rates the extent of evidence as small](challengge-single-rct-small-evidence-base.md) — related
 - [The supporting evidence for FLIGHT comes from a single randomized controlled trial with compromised random assignment](flight-evidence-single-rct-compromised-randomization.md) — related
+- [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related

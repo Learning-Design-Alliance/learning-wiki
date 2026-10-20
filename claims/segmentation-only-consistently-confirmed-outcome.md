@@ -45,3 +45,4 @@ WWC analysis of O'Connor et al. (1996) in the alphabetics domain. Although the s
 ## Related Claims
 - [Training effects were larger on outcome measures aligned with the trained skill (blending, segmenting) than on less aligned measures](alignment-trained-skill-larger-effects-phonological-awareness.md) — a broader claim this one bears on
 - [Ladders to Literacy shows potentially positive effects on fluency based on a single non-significant finding with an effect size of 0.72 and an improvement index of +26](ladders-to-literacy-potentially-positive-fluency.md) — related
+- [Blending-focused phonological awareness training produced statistically significant positive differences on blending outcomes in O'Connor et al. (1993)](blending-focus-training-significant-blending-outcomes-oconnor-1993.md) — related

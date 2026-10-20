@@ -51,3 +51,5 @@ Hierarchical backward-entry regression in the sample of 39 children ages 8–13 
 - [Teacher-rated ADHD symptoms do not uniquely predict reading or math achievement once visual-motor subcomponents are accounted for](adhd-symptoms-not-predict-reading-math.md) — related
 - [Better visual perception and motor coordination uniquely predict better reading skills in school-aged children with and without ADHD, controlling for IQ and ADHD symptoms](visual-perception-motor-coordination-predict-reading.md) — related
 - [The integration of visual perception and motor coordination is uniquely associated with math skills but not with reading or written language](vmi-integration-uniquely-math.md) — related
+- [Girls with ADHD were rated as having more severe ADHD symptoms than boys with ADHD in this sample](adhd-girls-higher-parent-rated-symptom-severity.md) — related
+- [Visual-motor integration is a predictor of orthographic skills in children](visual-motor-integration-predicts-orthographic-skills.md) — related

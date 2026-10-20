@@ -45,3 +45,7 @@ PLS-SEM analysis of cross-sectional survey data from 412 undergraduate business 
 - [Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students](ct-disposition-positive-employability.md) — related
 - [Students’ actual genAI use correlates with interest and perceived usefulness of genAI but not with knowledge or critical-thinking dispositions](actual-genai-use-tied-to-interest-and-usefulness.md) — related
 - [GenAI use is positively associated with self-perceived employability among business students](genai-use-positive-employability.md) — related
+- [AI-based educational technology use is positively associated with critical thinking among undergraduate medical students](ai-use-positively-associated-critical-thinking-medical-students.md) — related
+- [GenAI use is positively associated with university students' self-reported critical analytical skills (total effect)](genai-use-positive-association-critical-thinking-total-effect.md) — related
+- [GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability](genai-dependence-negative-both-outcomes.md) — related
+- [GenAI dependence weakens the positive association between GenAI use and both student outcomes, attenuating it to statistical non-significance at high dependence](genai-dependence-moderates-use-outcome-links.md) — related

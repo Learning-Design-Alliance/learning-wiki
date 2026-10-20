@@ -46,3 +46,4 @@ SEM with 224 participants: the partially mediated model (Model 1) fit well but i
 ## Related Claims
 - [Modeling mathematics anxiety as the mediator of metacognition's effect on word problem solving yields no mediating effect](ma-as-mediator-null.md) — related
 - [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related

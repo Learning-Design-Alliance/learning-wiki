@@ -53,3 +53,5 @@ Additional analyses of the randomized study indicated "a positive dosage relatio
 - Students receiving the recommended BookNook dosage of 20 or more sessions show markedly stronger reading gains (ES = +0.26) than the overall assigned sample — related
 - [Edpuzzle Original math videos raise grades 3–5 mathematics achievement on the CAASPP (effect size +0.09)](edpuzzle-caaspp-math-effect-009.md) — related
 - [Edpuzzle qualifies for a Promising evidence rating based on one school-level randomized study](edpuzzle-promising-evidence-rating.md) — related
+- [Edpuzzle Original math videos raise Renaissance Star Math scores and fall-to-spring growth (effect size +0.11)](edpuzzle-star-math-effect-011.md) — related
+- [Students whose teachers attended one or two PLI professional learning courses gained more on SBAC, with larger gains for two sessions than one](pli-pd-dose-associated-with-student-gains.md) — related

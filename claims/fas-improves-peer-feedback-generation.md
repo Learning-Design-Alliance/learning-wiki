@@ -49,3 +49,4 @@ Two-factorial quasi-experimental study in which 75 vocational students gave peer
 - [Generating peer feedback prior to internal feedback does not improve the quality of assessors' subsequent internal feedback](peer-feedback-first-no-effect-internal-feedback.md) — related
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — a broader claim this one bears on
 - [In two secondary-school writing studies, peer reviewers' own performance predicted how helpful their feedback was but not how accurately it identified problems](peer-feedback-accuracy-depends-on-expertise.md) — related
+- [Review reports that asking students to notice particular errors decreased errors in a subsequent draft without reducing overall writing quality (Chandler)](noticing-errors-decreases-errors-preserves-quality.md) — related

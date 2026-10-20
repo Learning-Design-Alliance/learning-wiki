@@ -43,4 +43,5 @@ Repeated-measures ANOVA on the 10-item immigration knowledge test (KR-20 = 0.62)
 
 
 ## Related Claims
--
+- [Adolescents who engaged in reflective activities alongside dialogic argumentation showed greater gains in using evidence to weaken the opposing position than peers who only argued](reflection-boosts-weakening-other-argument-skill.md) — related
+- [Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced](microgenetic-divergence-weakening-other-after-reflection.md) — related

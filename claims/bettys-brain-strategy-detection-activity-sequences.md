@@ -44,3 +44,6 @@ The commentary reports, citing Kinnebrew et al., that 73 seventh-grade students 
 
 ## Related Claims
 - [Scaffolded conditions in Betty's Brain showed scaffolding-induced strategy use within the scaffolding time window although the three conditions did not differ in learning gains](scaffolding-alters-strategy-use-not-learning-gains.md) — related
+- [In one video study of Betty's Brain, 77% of the feedback delivered by the agents was ignored by students.](betty-brain-feedback-ignored-77-percent.md) — related
+- [More successful Betty's Brain students showed significantly higher science learning gains, more accurate causal map edits, and more contextually focused, less random activities.](more-successful-students-higher-gains-focused-actions.md) — related
+- [The field lacks micro-level S-SRL theory and methodological guidelines, and studies have not connected temporal/sequential characteristics to learning gains](need-micro-level-theory-and-method-guidelines-ssrl.md) — a broader claim this one bears on

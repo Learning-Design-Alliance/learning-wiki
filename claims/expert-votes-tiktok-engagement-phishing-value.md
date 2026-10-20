@@ -63,3 +63,5 @@ From the same Tier 1 expert voting session with N=9 CS students. Experts awarded
 
 ## Related Claims
 - [In a prior comparative evaluation, gamified phishing-detection modules produced better learning effects than Mimecast training](gamified-modules-beat-mimecast-phishing.md) — related
+- [Validator failure patterns vary by interest topic and math curriculum unit](failure-patterns-vary-by-topic-and-curriculum-unit.md) — related
+- [An engagement-optimized RL tutor exhibits reward hacking, achieving the highest cumulative reward while producing minimal learning and a 70.8% behavioral-safety violation rate](engagement-optimized-rl-tutor-reward-hacking.md) — related

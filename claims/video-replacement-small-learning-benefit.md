@@ -57,3 +57,7 @@ Multilevel random-effects meta-analysis of 83 randomised comparisons (pooled n =
 - [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
 - [Adding supplementary video to existing teaching produces strong learning benefits (g = 0.88)](supplementary-video-strong-benefit.md) — related
 - [Video replacing static media (e.g., text) benefits learning more than video replacing a teacher](video-vs-static-media-stronger-than-vs-teacher.md) — a narrower finding that bears on this claim
+- [Video benefits learning only when its interactivity matches or exceeds the comparison condition](video-benefit-depends-on-relative-interactivity.md) — related
+- [Video is more effective for teaching skills than for transmitting knowledge](video-more-effective-for-skills-than-knowledge.md) — a narrower finding that bears on this claim
+- [Dosage relationship: more assigned Edpuzzle videos associated with larger gains](edpuzzle-dosage-more-videos-larger-gains.md) — related
+- [No dose-response effect: video benefits do not systematically increase with intervention length](no-dose-response-video-duration.md) — related

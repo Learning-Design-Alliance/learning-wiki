@@ -43,4 +43,8 @@ Multimodal interaction analysis of video records from two routinely occurring ep
 
 
 ## Related Claims
--
+- [Recurring movements between professional (in-role) and educational (out-of-role) contexts during simulation are important for simulator training to fulfil its pedagogical potential](role-shifts-between-professional-and-educational-contexts.md) — related
+- [Analog artefacts such as the nautical paper chart serve as public inscriptions and arenas for reasoning about rule following, making students' intentions assessable to instructors and teammates](paper-chart-inscription-assessment-arena.md) — a narrower finding that bears on this claim
+- [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](spatial-positions-display-work-role-understanding.md) — a narrower finding that bears on this claim
+- [Multimodal, culturally grounded formative assessment supports engagement and agency](multimodal-culturally-grounded-assessment-supports-engagement-and-agency.md) — related
+- [Maritime instructors resisted automated assessment of simulator performance, preferring learning analytics that support their professional judgment and use existing simulator data](instructors-resist-automated-assessment-prefer-judgment-support.md) — a narrower finding that bears on this claim

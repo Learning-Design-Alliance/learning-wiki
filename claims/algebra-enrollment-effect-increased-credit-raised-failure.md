@@ -70,3 +70,6 @@ Null finding from the same enrollment-effect models: ninth-grade math test score
 - [The overall policy effect on lowest-ability students included higher algebra credit but increased math failure and declining GPA, with no math achievement gains](policy-effect-lowest-ability-increased-failure-declined-gpa.md) — related
 - [Overall policy effects: lowest-ability students earned more ninth-grade credits but also failed more, and long-term outcomes were small to non-existent, with no increase in college entrance](college-prep-policy-effects-small-long-term-no-college-gain.md) — a broader claim this one bears on
 - [Reinstating high-stakes testing to measure learning loss narrows the curriculum and does not benefit long-term achievement](high-stakes-testing-narrows-curriculum.md) — related
+- [Taking English I instead of remedial English increased English credit earning with no adverse consequences on failure rates or test scores](english-enrollment-effect-increased-credit-no-adverse.md) — related
+- [Remediation requirements are not a primary driver of low college degree completion rates](remediation-not-primary-driver-low-completion.md) — related
+- [Enrolling in English I instead of remedial English increased credit earning with no adverse consequences, but few other benefits](english-enrollment-credit-gains-few-benefits.md) — related

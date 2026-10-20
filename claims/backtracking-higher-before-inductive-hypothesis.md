@@ -44,3 +44,4 @@ Log-replay analysis of first-deployment submissions categorized by proof milesto
 
 ## Related Claims
 - [Student backtracking before setting up the correct induction decreased across exercises in both deployments, indicating a learning curve](backtracking-decreases-across-exercises.md) — related
+- [After the design iteration, no student deleted an evaluation step, in contrast to frequent step deletion in the first deployment](no-evaluation-step-deletion-second-deployment.md) — related

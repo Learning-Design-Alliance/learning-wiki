@@ -48,3 +48,5 @@ Survey-indicator analysis applying the three-sites-of-power indicator sets to Ch
 - [An estimated 46 percent of Chicago elementary principals display inclusive leadership](principals-inclusive-leadership-46-percent.md) — related
 - [The indicator system correctly classifies 96 percent of case-study schools' politics and 92 percent of their improvement approach](indicator-system-validity-96-92-percent.md) — related
 - [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — related
+- [About 18 percent of elementary school faculties are highly engaged, with another 33 percent moderately active](faculty-collective-action-18-percent-highly-engaged.md) — related
+- [An estimated 19 percent of Local School Councils are nonfunctional](lsc-nonfunctional-19-percent.md) — related

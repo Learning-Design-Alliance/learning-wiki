@@ -133,3 +133,9 @@ Open questions for future enrichment: effect sizes relative to other learning te
 - [Self-explanation improves abstract transfer of logical rules relative to no self-explanation](self-explanation-improves-abstract-transfer.md) — related
 - [Self-explanation promotes transfer of general patterns but can reduce recall of details and cause overgeneralization](self-explanation-improves-transfer-reduces-detail-recall.md) — related
 - [Active processing of instructional explanation prompts increase coverage of main content items](active-processing-prompts-increase-main-content-coverage.md) — related
+- [Training seventh graders to elaborate produced better long-term recall than questions stimulating elaboration, and the training transferred to new passages](trained-elaboration-beats-question-stimulated-elaboration.md) — related
+- [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related
+- [Elaborative-interrogation learning gains are durable, with performance maintained up to six months after study](durable-elaborative-interrogation-gains-six-months.md) — a narrower finding that bears on this claim
+- [Across ten learning techniques, distributed practice and practice testing have the largest effects and underlining and summarization the smallest](ten-learning-techniques-ranked-distributed-practice-and-practice-testing-highest.md) — related
+- [Elaborative interrogation produced greater pretest-to-posttest gains on items about common misbeliefs than reading control in Experiment 2](elaborative-interrogation-improves-misbelief-items-pretest-posttest.md) — a narrower finding that bears on this claim
+- [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related

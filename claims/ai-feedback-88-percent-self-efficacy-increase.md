@@ -50,3 +50,7 @@ Self-report measure from the same quasi-experimental study of 240 students, repo
 - [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
 - [Using an LLM debugging assistant boosts a student's confidence and reduces frustration during debugging](llm-assistant-boosts-debugging-confidence.md) — related
 - [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related
+- [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](ai-reduces-fl-anxiety-private-practice.md) — a broader claim this one bears on
+- [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — related
+- [AI-supported lab manual design increased students' confidence in troubleshooting and data analysis](ai-lab-manual-design-increased-confidence-troubleshooting.md) — related
+- [Peer assessment through tests, marks, and grades produces learning gains and reduced anxiety, with most participants reporting learning benefits](peer-marks-tests-learning-gains.md) — related

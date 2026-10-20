@@ -53,3 +53,5 @@ The authors suggest spatial representation is one of several routes to solving m
 - [Some aspects of spatial skills are more predictive of mathematical development than others, so the construct must be differentiated](spatial-skills-aspects-differ-in-math-predictivity.md) — related
 - [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — a broader claim this one bears on
 - [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related
+- [Verbal achievement, reading and language abilities correlate strongly with mathematics achievement (r = .42 to .67)](verbal-and-reading-skills-correlate-strongly-with-math-achievement.md) — related
+- [Mathematics self-concept correlates strongly with mathematics achievement (r = .43), while verbal self-concept barely does (r = .12)](math-self-concept-correlates-strongly-with-math-achievement.md) — related

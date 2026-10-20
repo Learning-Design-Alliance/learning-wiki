@@ -64,3 +64,5 @@ The Fein & Hamadyk (2018) RCT contributed the short-term earnings outcome analyz
 - [Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings](project-quest-no-earnings-effects.md) — related
 - [I-BEST has potentially positive effects on short-term earnings, with mixed results across states (average improvement index 0)](ibest-mixed-short-term-earnings.md) — related
 - [Year Up may result in little to no change in medium-term employment](year-up-no-effect-medium-term-employment.md) — related
+- [ASAP likely increases credit accumulation and persistence rates](asap-increases-credit-accumulation-persistence.md) — related
+- [Project QUEST may increase credit accumulation (improvement index +14, one study, 958 students)](project-quest-credit-accumulation.md) — related

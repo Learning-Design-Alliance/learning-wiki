@@ -48,3 +48,4 @@ Analysis combining TK, CSPP, and Head Start enrollment data (with Head Start red
 - [TK enrollment in California grew substantially during expansion while the share of eligible 4-year-olds enrolled declined from 65% to 55%](tk-enrollment-grew-uptake-declined.md) — related
 - [Transitional kindergarten enrollment in California doubled from about 75,465 in 2021–22 to 151,491 in 2023–24 as eligibility expanded toward all 4-year-olds](california-tk-enrollment-doubled-2021-22-to-2023-24.md) — related
 - [The proportion of eligible 4-year-olds enrolled in TK declined from 64% in 2021–22 to 59% in 2023–24 because eligibility grew faster than enrollment](tk-uptake-rate-declined-as-eligibility-expanded.md) — related
+- [Many U.S. children lack access to early learning programs: only 54% of 3- and 4-year-olds attend any preschool and 35% of eligible children participate in Head Start](ece-access-gaps-preschool-head-start-participation.md) — related

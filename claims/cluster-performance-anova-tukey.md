@@ -67,3 +67,5 @@ Post hoc Tukey HSD pairwise comparisons across the six clusters; C0 exceeded C1 
 - [Growing Achievers used StatBot significantly more than Declining Performers, driven mainly by initiating new inquiries](growing-achievers-out-use-declining-performers.md) — related
 - [Student academic ability varied across quarters but not systematically with changes in course structure](student-ability-varied-not-with-structure.md) — related
 - [The four exam-performance quartile groups differed significantly on first-unit exam scores, validating the grouping used for behavioral comparisons](quartile-groups-differ-on-exam-scores.md) — related
+- [Fall clusters of coding-question students trend toward higher exam scores than report-writer clusters](clustering-report-writers-lower-exam-scores.md) — related
+- [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related

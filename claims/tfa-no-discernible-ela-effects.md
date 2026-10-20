@@ -48,3 +48,4 @@ This is the systematic review's synthesis of the English language arts domain fr
 - [TFA teachers show potentially positive effects on science achievement, based on one study](tfa-potentially-positive-science-effects.md) — related
 - [The evidence base for estimating TFA's effects on student academic outcomes reduces to just four studies](tfa-evidence-base-reduced-to-four-studies.md) — related
 - [Prior experimental studies of TFA consistently showed a positive, statistically significant effect on student math achievement but no discernable effect on reading](tfa-experimental-studies-positive-math-no-reading-effect.md) — possibly the same claim (merge candidate)
+- [Students of certified teachers outperformed students of under-certified teachers, including TFA teachers, on all three SAT-9 subtests in low-income districts](certified-outperform-undercertified-sat9.md) — related

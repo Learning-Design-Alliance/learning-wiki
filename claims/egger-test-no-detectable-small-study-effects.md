@@ -48,3 +48,6 @@ Small-study-effect analysis using an effect-size-level funnel plot (interpreted 
 - [Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve](egger-asymmetry-bias-tom-achievement.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
+- [The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses](pooled-association-robust-sensitivity-analyses.md) — related
+- [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related

@@ -46,3 +46,5 @@ Evaluation report using new survey data comparing recruitment outcomes of progra
 - [Participation in NIH loan repayment programs is associated with longer stays at the NIH and in research careers](loan-repayment-participation-longer-research-stays.md) — related
 - The NIH Intramural Research Loan Repayment Program evaluation combined an outcomes evaluation with a process analysis drawing on focus groups, staff interviews, and administrative data — related
 - [NIH Undergraduate Scholarship Program scholars progress toward biomedical research careers at substantially higher rates than finalists who were not awarded scholarships](nih-ugsp-scholars-outpace-non-awarded-finalists.md) — related
+- [Service scholarship and loan forgiveness programs effectively recruit and retain high-quality professionals when they cover a significant portion of tuition or living costs](service-scholarships-recruit-retain-when-generous.md) — a broader claim this one bears on
+- [The NIH Undergraduate Scholarship Program appears to be operating as intended, with scholars achieving career milestones at high rates](nih-ugsp-operating-as-intended-career-milestones.md) — related

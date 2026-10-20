@@ -113,3 +113,6 @@ Open questions the recorded evidence does not settle: how large the effect is re
 - Extensive reading improves grammatical knowledge and writing style — related
 - [Self-explaining a worked example of a learning journal entry enhances strategy use and transfer of journal-writing benefits to a new topic](worked-example-self-explanation-journal-transfer.md) — related
 - [Reading and writing are similar but not symmetric processes, with writing more demanding than reading](reading-writing-asymmetric-processes.md) — related
+- [Cohen's small, medium, and large effect size benchmarks are arbitrary and should not be interpreted rigidly](cohen-benchmarks-arbitrary.md) — related
+- [Writing is presented as uniquely corresponding to the features of successful learning](writing-uniquely-corresponds-features-successful-learning.md) — related
+- [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis](writing-improves-mathematical-understanding.md) — related

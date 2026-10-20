@@ -68,3 +68,6 @@ In the younger group, spatial and verbal spans did not differ, "t(60) = 0.884 p 
 - [Children with developmental dyscalculia show impaired visuo-spatial short-term and working memory relative to matched controls](dd-visuospatial-stm-wm-impairment.md) — related
 - [In pure developmental dyscalculia with normal reading and verbal IQ, verbal short-term and working memory are intact](pure-dd-verbal-memory-intact.md) — related
 - [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](time-age-exercise-interaction-stm.md) — related
+- [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](closed-skill-exercise-improves-stm-older-children-only.md) — related
+- [A single bout of open-skill exercise improves short-term memory performance in primary-school children of both age groups (7–8 and 9–10 years).](open-skill-exercise-improves-stm-both-ages.md) — related
+- [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related

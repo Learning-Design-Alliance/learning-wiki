@@ -45,3 +45,5 @@ Qualitative theme 2 from design journals, field notes, and presentations. Mike f
 ## Related Claims
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [High school students in a project-based robotics + AI curriculum developed robotics understanding by troubleshooting hardware and operational factors of physical robots](hardware-troubleshooting-builds-robotics-understanding.md) — related
+- [Problem decomposition, artifact creation, data practices, and testing/debugging appear in all 28 reviewed CT manuscripts, while iterative refinement appears in 17](ct-aspect-coverage-across-ct-literature.md) — a broader claim this one bears on
+- [Rapid AI generation may compress exploratory learning processes and reduce encounters with failure and material constraints](ai-generation-compresses-learning-processes.md) — related

@@ -51,3 +51,5 @@ Pre-policy multilevel logistic regression results for full-day enrollment by dis
 - Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k — related
 - [Full-day pre-k enrollment grew substantially after the policy changes, tripling for Black, lowest-income, and mostly-Black-neighborhood students](full-day-enrollment-tripled-high-priority-groups.md) — related
 - [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related
+- [CREDO's new race/ethnicity approach estimates full annual growth per group without benchmarking against any race/ethnicity](credo-race-ethnicity-growth-without-benchmark.md) — related
+- [After the policy changes, distance to any pre-k did not change substantially for most student groups, while White and highest-income students lived farther from pre-k](any-prek-access-unchanged-most-groups.md) — related

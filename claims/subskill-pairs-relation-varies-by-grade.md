@@ -67,3 +67,4 @@ Meta-analytic subskill-pair analysis for university and beyond (Table 2). The hi
 ## Related Claims
 - [The mathematics–writing correlation is stronger in primary grades (r = 0.52) than in university and beyond (r = 0.30)](math-writing-relation-stronger-primary-grades.md) — related
 - [Mathematics and writing subskill category (lower vs. higher order) does not significantly moderate the mathematics–writing relation](subskill-category-no-moderation.md) — related
+- [Mathematics and writing skills are moderately correlated overall (r = 0.48) across 211 studies](math-writing-moderate-overall-correlation.md) — a broader claim this one bears on

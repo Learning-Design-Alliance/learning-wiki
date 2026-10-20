@@ -45,3 +45,4 @@ A theoretical argument in the commentary, grounded in the premise of mutual resp
 ## Related Claims
 - [The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa](metacognition-ct-bidirectional-relation.md) — a broader claim this one bears on
 - [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
+- [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — related

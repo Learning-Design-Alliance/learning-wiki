@@ -43,4 +43,7 @@ Within-group experiment with 31 Stockholm University psychology students judging
 
 
 ## Related Claims
--
+- [EOL judgments rely heavily on semantic relatedness, whose predictive validity appears to cap attainable EOL accuracy](semantic-relatedness-cue-caps-eol-accuracy.md) — related
+- [Learners generally underestimate how fast they will learn word pairs, and this underconfidence is larger for low-variability lists](eol-underestimation-of-learnability.md) — related
+- [The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy](eol-task-type-no-effect-on-accuracy.md) — related
+- [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — related

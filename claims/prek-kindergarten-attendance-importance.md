@@ -50,3 +50,5 @@ The publication's own abstract describes it as a fact sheet for districts and sc
 - [Difficulty adjusting to kindergarten and first grade can put young children at academic risk](kindergarten-transition-difficulty-academic-risk.md) — related
 - [Early childhood education attendance is associated with long-term health benefits, particularly reduced prevalence of risk factors for chronic diseases](ece-attendance-long-term-health-benefits.md) — related
 - Chronically absent pre-kindergarten students are more likely to be chronically absent in subsequent grades — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — a broader claim this one bears on
+- [Race is more strongly associated with preschool chronic absenteeism than neighborhood poverty; African American students are about twice as likely to be chronically absent](race-stronger-than-poverty-preschool-chronic-absence.md) — related

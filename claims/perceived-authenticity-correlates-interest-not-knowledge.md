@@ -44,3 +44,5 @@ Reported association in the 152-student quasi-experimental OSL study. The articl
 
 ## Related Claims
 - [Prior OSL research shows highly inconsistent cognitive and motivational effects of authentic setting features, and few studies measured perceived authenticity](osl-authenticity-studies-inconsistent-effects.md) — a broader claim this one bears on
+- [In an out-of-school lab for social sciences, the authenticity level of the learning activity (Productive Failure vs. Direct Instruction) did not affect students' perceived authenticity or situational interest](pf-vs-di-no-effect-perceived-authenticity-situational-interest.md) — related
+- [Students' individual interest in social sciences correlated with their situational interest during the OSL visit (catch r = .27; hold r = .26)](individual-interest-correlates-situational-interest-osl.md) — related

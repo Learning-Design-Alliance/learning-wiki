@@ -125,3 +125,7 @@ The review reports Spanjers et al.'s (2010) experiment on probability calculatio
 - [Prior knowledge moderates scaffolding effectiveness: reflection phases were more effective for higher education levels, examples for lower levels](prior-knowledge-moderates-scaffolding-effectiveness.md) — related
 - [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — related
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
+- [Prior knowledge, but not interest or estimated prior knowledge, predicts use of learner control options](prior-knowledge-predicts-interactive-behavior.md) — related
+- [The segmenting, cognitive-load, and learning-time effects are confirmed for system-paced segmentation](segmenting-effects-confirmed-system-paced.md) — related
+- [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related
+- [High experienced effort-by-complexity is not necessarily indicative of better learning outcomes](high-effort-not-indicative-better-learning.md) — related

@@ -46,3 +46,7 @@ Key accomplishments section reports staff retention at Sierra Middle School: wit
 - [Roswell's University High cut suspensions from 274 to 61 and raised graduation nearly 20 percentage points; substance abuse infractions dropped 80% at both Roswell community schools](roswell-suspension-graduation-substance-infraction-declines.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — a broader claim this one bears on
 - [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related
+- [Substance abuse infractions declined by about 80% at both Roswell community schools during 2023–24](substance-abuse-infractions-dropped-80-percent-both-schools.md) — related
+- [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related
+- [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
+- [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — related

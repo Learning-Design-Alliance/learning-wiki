@@ -45,3 +45,5 @@ The comment reports, citing prior research, that adding friction to meaningless 
 ## Related Claims
 - [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related
+- [AI assistance provides no significant overall time savings and can slow completion on easy task variants, with chat-interface friction (prompting time) dominating on trivial tasks](ai-no-efficiency-gain-simple-tasks.md) — related
+- [Learning is an initiative construction of meanings completed by the interaction of learners' old and new knowledge](learning-is-initiative-construction-old-new-knowledge.md) — related

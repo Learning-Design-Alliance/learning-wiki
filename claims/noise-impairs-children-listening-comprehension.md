@@ -68,3 +68,5 @@ The review reports this simulated-classroom study found "signiﬁcant impairment
 - [Children with language or attention disorders and second-language learners are more impaired by noise in speech perception than age-matched controls](vulnerable-children-more-noise-impaired-speech-perception.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — a broader claim this one bears on
 - [Not all neurophysiological aspects of auditory distraction mechanisms are mature in late childhood](distraction-mechanisms-immature-late-childhood.md) — related
+- [Older adults show larger multisensory gains for simple stimuli but multisensory deficits for complex speech stimuli](aging-multisensory-gains-simple-deficits-complex.md) — related
+- [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related

@@ -53,3 +53,6 @@ Pearson and Spearman correlation analyses (Table 4) among 208 adolescents relate
 - [Omissions, commissions and variation index of the d2 test are not related to any physical fitness variable](d2-error-measures-unrelated-to-fitness.md) — related
 - [Physical fitness measures correlate with selective attention and concentration in adolescents, with VO2max showing moderate correlations](fitness-correlates-attention-concentration-adolescents.md) — a narrower finding that bears on this claim
 - [VO2max is the main linear-regression predictor of attention and concentration, with strength also predictive in boys](vo2max-main-predictor-attention-concentration.md) — related
+- [Adolescents in the higher physical fitness cluster score better on attention and concentration than the lower-fitness cluster, in both boys and girls](higher-fitness-cluster-better-attention.md) — related
+- [Physical activity is positively correlated with children's working memory, and integrated exercise with gestures yields the best preschool foreign-language vocabulary learning](physical-activity-working-memory-vocabulary.md) — related
+- [Exercise-hour groups differ on fitness, cognitive, and several psychosocial variables, but not on social dysfunction or severe depression](anova-group-differences-cognitive-psychosocial.md) — related

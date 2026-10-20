@@ -58,3 +58,4 @@ The evidence is one witness's written testimony reporting invitation counts for 
 - [Women admitted to MIT with lower SAT math scores perform as well as men in freshman math classes](mit-lower-sat-math-scores-equal-performance.md) — related
 - [PSAT-based National Merit scholarship selection distributes awards disproportionately to boys, with girls receiving 36 percent of scholarships](psat-national-merit-awards-skew-male.md) — related
 - [SAT scores underpredict the academic performance of high school girls, who average lower scores than boys despite higher grades](sat-underpredicts-girls-performance.md) — related
+- [Testimony at a 1987 congressional hearing reported 1985 SAT averages in which Black women scored 43 points below Black men and 264 points below white men, which the witness called a double penalty for minority females](minority-females-doubly-penalized-on-tests.md) — related

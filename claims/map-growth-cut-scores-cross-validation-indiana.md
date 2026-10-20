@@ -46,3 +46,4 @@ Cross-validation analysis using Indiana students in Grades K-8 (N=241,079 mathem
 - [MAP Growth cut scores at the 30th percentile of national norms best identify Grade K-8 students in need of intensive intervention in reading and mathematics](map-growth-30th-percentile-screening-cut-scores.md) — related
 - [MAP Growth spring RIT cut scores classify students as proficient or not proficient on the MCA-III Mathematics test with 0.87–0.90 overall accuracy](map-growth-cut-scores-classification-accuracy-mca-iii.md) — related
 - [Recommended MAP Growth screening cut scores yield sensitivity, specificity, and lower-bound AUC of at least 0.8 for most grades and terms](map-growth-screening-accuracy-08-criteria.md) — related
+- [Classification accuracy of the screening cut scores is lower for Grades K-2 than Grades 3-8, attributed to a 12-36 month lapse between MAP Growth and criterion measures](map-growth-screening-accuracy-lower-grades-k-2.md) — related

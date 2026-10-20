@@ -68,3 +68,4 @@ Reflexive thematic analysis of open-text pilot responses identified Tutor Mode s
 - [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior knowledge](ai-tutor-pace-adaptation-strengthened-engagement.md) — related
 - [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](socratic-test-pilot-beyond-recall.md) — related
 - [Over 80% of pilot students agreed the AI proctor accurately understood their responses and scaffolded them appropriately](socratic-test-pilot-scaffolding-acceptance.md) — reports the opposite
+- [Students rated peer tutoring with the VoicePod as acceptable and helpful for learning vocabulary](social-validity-voicepod-tutoring.md) — related

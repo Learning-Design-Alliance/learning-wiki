@@ -50,3 +50,4 @@ Experiment with 82 8-year-olds (45 monolingual, 37 bilingual) tested individuall
 - [The bilingual advantage in perspective taking appears at the 180° and 270° observer positions but not at the 90° position](bilingual-advantage-difficult-observer-positions.md) — a narrower finding that bears on this claim
 - [Monolingual and bilingual children show no differences in the types of errors committed on the perspective-taking task](no-language-group-differences-error-types-perspective-taking.md) — related
 - [Language group predicts perspective-taking accuracy after controlling for receptive vocabulary and fluid intelligence](language-group-predicts-perspective-taking-accuracy-regression.md) — related
+- [Bilingual children show faster trail-making B performance, while Indian bilinguals are faster on Trails A and monolinguals score higher on receptive vocabulary](background-measures-vocabulary-and-trail-making-group-differences.md) — related

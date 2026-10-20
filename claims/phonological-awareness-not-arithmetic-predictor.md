@@ -53,3 +53,5 @@ In the longitudinal path model, phonological awareness at t2 did not predict ari
 - [Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic](language-executive-mediate-arithmetic-via-number-skills.md) — related
 - [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](phonological-awareness-predicts-qnc-level-i.md) — reports the opposite
 - [The same cognitive processes account for variability in arithmetic skills in children at family-risk of dyslexia and typically developing controls](same-cognitive-processes-arithmetic-fr-td.md) — related
+- [QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math](qnc-levels-predict-grade-3-math.md) — related
+- [Phonological awareness has no direct effect on higher-order QNC (Level II and above) or Grade 3 math achievement once QNC skills are modeled, confirming the isolated number-words hypothesis](isolated-number-words-hypothesis-confirmed.md) — related

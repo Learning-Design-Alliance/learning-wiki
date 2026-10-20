@@ -46,3 +46,4 @@ Linear mixed models compared Indigenous student achievement growth in mathematic
 - [Year 3 and Year 4 student achievement growth in mathematics and reading showed no significant differences between 2019 and 2020 cohorts in NSW primary schools](covid19-no-significant-achievement-growth-difference-nsw-primary.md) — related
 - [Year 3 students in low-ICSEA schools achieved significantly less mathematics growth in 2020, equivalent to two months less than the 2019 cohort](covid19-year3-low-icsea-two-months-less-math-growth.md) — related
 - [Students who did not retest in fall 2020 were disproportionately minoritized and lower-achieving compared with students who retested](map-growth-attrition-demographic-differences-2020.md) — related
+- [Year 4 students in major cities demonstrated one month's additional reading growth in 2020 compared with 2019](covid19-year4-major-cities-one-month-additional-reading-growth.md) — related

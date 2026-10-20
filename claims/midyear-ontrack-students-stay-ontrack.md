@@ -51,3 +51,4 @@ Longitudinal transition analysis of students in grades K–3 with scores in each
 - [The percentage of students who stay at risk across time periods increases across grade levels K–3](staying-at-risk-increases-with-grade-level.md) — related
 - [Literacy screener benchmarks predict which grade 3 students will not meet MCAS ELA expectations, but not necessarily who will meet them](screeners-predict-mcas-failure-not-success.md) — related
 - [Most students identified as significantly below benchmark on early literacy screeners remain significantly below benchmark 1 and 2 years later](significantly-below-benchmark-persists-across-years.md) — related
+- [Early screening benchmark status predicts later performance: most beginning-of-year at-risk students stay at risk, and meeting benchmarks by end of grade 1 is associated with much higher grade 3 MCAS odds](massachusetts-early-benchmark-status-predicts-later-mcas.md) — related

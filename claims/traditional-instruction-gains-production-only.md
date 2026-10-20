@@ -45,3 +45,5 @@ In the same experiment analyzed by ANOVA, the traditional instruction group, who
 ## Related Claims
 - [Processing instruction produces significant gains in both sentence-level comprehension and production](processing-instruction-gains-comprehension-and-production.md) — related
 - [A 1982 bilingual-education teacher-training packet asserts, citing Krashen, that repetitive drill and grammar-focused instruction are ineffective for second language acquisition](drill-and-grammar-focus-ineffective-for-l2-acquisition.md) — related
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks](ffi-with-prompts-beats-recasts-for-gender.md) — related

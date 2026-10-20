@@ -44,3 +44,5 @@ Moderator analysis across five learning-outcome categories in the meta-analysis.
 
 ## Related Claims
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
+- [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
+- [A practical, experiential course emphasis is the best predictor of effective research integrity training across learning outcomes](rcr-experiential-emphasis-best-predictor.md) — related

@@ -52,3 +52,6 @@ Systematic literature review synthesizing 50 empirical studies published 2019–
 - [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](awe-limited-feedback-depth-accuracy-complex-writing.md) — related
 - EFL students perceive AI-generated writing feedback as a competent source that improves vocabulary, grammar, structure, coherence, and values its immediacy — a narrower finding that bears on this claim
 - [Customized AI writing systems show benefits in writing quality, learning processes, assessment reliability, and feedback literacy](customized-ai-writing-positive-outcomes.md) — related
+- [Customized AI agents generate feedback with higher accuracy and specificity than general-purpose agents in self-directed instructional design tasks](customized-agents-higher-feedback-accuracy-specificity.md) — a narrower finding that bears on this claim
+- [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
+- [Persistent challenges include feedback inaccuracy, learner overreliance, and limited transparency](customized-ai-writing-persistent-challenges.md) — related

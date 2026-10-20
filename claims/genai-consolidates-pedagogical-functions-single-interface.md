@@ -48,3 +48,6 @@ Theoretical argument in this Perspective: unlike specialised, temporally bounded
 - [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related
 - [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](monolithic-llm-architectures-hinder-responsible-educational-design.md) — a narrower finding that bears on this claim
 - Students' GenAI mental models split between technical-architecture and educational-tool orientations that are only moderately associated — related
+- [Generative AI is an arrival technology that entered classrooms before any pedagogical evidence base could form](generative-ai-arrival-technology-no-evidence-base.md) — related
+- [In university physics education, AI has been applied for tutoring and explanations, formative feedback and scaffolding, collaborative problem solving, simulation and modeling, instructional design, and AI literacy development](ai-university-physics-six-pedagogical-functions.md) — related
+- [The educational value of GAI is contingent on pedagogical integration, not on the technology itself](gai-value-contingent-on-pedagogical-integration.md) — related

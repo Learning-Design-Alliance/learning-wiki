@@ -48,3 +48,5 @@ Quantification of point-value differences between graders reported in the Result
 - [The most challenging holistic-rubric question reached only moderate inter-rater reliability (kw=0.54) after three iterations](holistic-hardest-question-moderate-reliability.md) — related
 - [Gaps between Cohen's κ and QWK indicate GradeOpt often assigned codes adjacent to human codes rather than entirely discrepant ones](kappa-qwk-gaps-adjacent-codes.md) — related
 - [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](embedding-models-moderate-agreement-need-supervision.md) — related
+- [In one reviewed study, GPT-4 automated essay scoring showed score inflation, with AI–human rating discrepancies exceeding 1.5 standard deviations in 38% of graduate-level bibliographies](gpt4-essay-score-inflation.md) — related
+- [Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability](model-answer-in-prompt-lowered-reliability.md) — related

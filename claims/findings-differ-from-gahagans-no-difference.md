@@ -47,3 +47,4 @@ In the discussion the author contrasts her results with the Gahagans' earlier st
 - Verbal and pictorial tools-mediators fail to evoke contradiction discovery without mediation of meaning — related
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](teacher-initiated-and-student-mediated-mapping-no-difference.md) — related
 - [High teacher mediation is associated with more children talking and higher frequency of both elaborated and restricted talk](high-mediation-more-child-talk-both-codes.md) — related
+- [Teacher mediation interacts with SES: the SES gap in elaborated utterances appears only in the low-mediating classroom](mediation-ses-interaction-elaborated-utterances.md) — related

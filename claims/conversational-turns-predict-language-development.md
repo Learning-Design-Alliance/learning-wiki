@@ -107,3 +107,5 @@ The shift from "word count" to "conversational turns" as the operative mechanism
 - [Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness](cds-variability-within-low-ses-families.md) — related
 - [LENA automated adult word counts are reliable for Spanish-language home environments](lena-adult-word-estimates-reliable-spanish.md) — related
 - [Family income and parental education show regionally specific positive relationships with children's cortical surface area, strongest at the lowest SES levels](ses-cortical-surface-area-strongest-at-low-ses.md) — related
+- [Low-income children spend about 12 fewer minutes per day conversing with adults during summer, marginally significant](summer-conversation-gap-low-income-children.md) — related
+- [Child maltreatment has a documented independent negative impact on children's language development](maltreatment-independent-impact-language.md) — related

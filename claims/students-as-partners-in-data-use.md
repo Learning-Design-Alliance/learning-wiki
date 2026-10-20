@@ -45,3 +45,6 @@ Interview-based field scan; participants described schools transparent with stud
 ## Related Claims
 - [In the Learner Variability Navigator case, feedback loops across multiple partners generated an output of need that the authors say simple surveys may not have produced](lvn-generator-feedback-loop-case.md) — related
 - The webinar presents glyphs, pictographs, bar graphs, and Google Forms as ways for K-2 students to collect and analyze data. — related
+- [Alder operates a continuous improvement cycle using multiple data sources documented in an Annual Data Cycle Calendar and public Annual Program Assessment Report](alder-annual-data-cycle-improvement.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — related
+- [Dispositions such as openness and shared responsibility are shaped by conditions, not fixed individual traits](dispositions-shaped-by-conditions.md) — related

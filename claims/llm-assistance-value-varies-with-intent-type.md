@@ -46,3 +46,4 @@ Exploratory study in which three stage lighting instructors taught the same four
 - [LLM assistance shifts instructor effort from manual setup toward pedagogical expression](llm-assistance-shifts-effort-toward-pedagogical-expression.md) — related
 - [LLM scaffolding level varies systematically across student request types and across assignments, but high-assistance responses remain dominant](scaffolding-varies-by-request-and-assignment.md) — related
 - [The perceived value of GenAI and XR varied across design stages: GenAI suited early exploratory prototyping, XR once a 3D artifact existed for spatial evaluation](phase-dependent-genai-xr-value-design-stages.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related

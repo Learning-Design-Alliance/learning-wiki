@@ -47,3 +47,4 @@ Descriptive analysis of statistics definitions in the textbook scan. Go Math! de
 - [Early literacy screening assessments provide multiple benchmarks or performance levels defined in different ways, with no common definition of 'at risk'](no-common-definition-at-risk-literacy-screeners.md) — related
 - Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — related
 - Professional development texts on data use provide few opportunities for educators to learn statistics, treating statistical concepts superficially — a broader claim this one bears on
+- [Session intensity and duration distributions flagged physically impossible persistence as severe statistical outliers](session-intensity-duration-outlier-flagging.md) — related

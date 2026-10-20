@@ -55,3 +55,6 @@ Conceptual argument drawing the paper's firm distinction between consumers, who 
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
 - [One focal student exhibited a critical-pragmatic humanistic AI literacy, conceptualizing AI as a manipulable tool and evaluating it by rhetorical efficiency](zhimo-critical-pragmatic-humanistic-ai-literacy.md) — related
+- [A case study of two multilingual undergraduates reveals a productive tension between students' experiments with posthumanist AI literacy and their entrenched humanistic assumptions](posthumanist-literacy-tension-humanistic-assumptions.md) — related
+- [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — a broader claim this one bears on
+- [All AI-generated outputs in the project underwent mandatory human-in-the-loop review, positioning AI as augmentative rather than substitutive](mandatory-human-in-the-loop-review-ai-outputs.md) — related

@@ -47,3 +47,5 @@ Binomial GLMM on 4010 incorrect-guess trials from 100 adults; the article report
 - [Correctness Confidence linearly predicts curiosity, with higher confidence in a guess associated with greater curiosity](correctness-confidence-linearly-predicts-curiosity.md)
 - [The Not Sure state of Knowledge Confidence predicts better recall of object names, consistent with the region of proximal learning framework](not-sure-knowledge-confidence-predicts-recall.md)
 - [Low and medium Knowledge Confidence heighten curiosity, contradicting the predicted inverted U-shaped relationship](low-medium-knowledge-confidence-heighten-curiosity.md)
+- [Correctness Confidence did not significantly predict recall accuracy, contrary to the authors' hypothesis](correctness-confidence-did-not-predict-recall.md) — related
+- [Positive information prediction errors enhance memory for low-curiosity answers increasingly with age](positive-ipe-memory-low-curiosity-answers-increase-with-age.md) — related

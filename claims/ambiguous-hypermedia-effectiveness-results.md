@@ -47,3 +47,4 @@ Narrative review analyzing the literature on learner-controlled hypermedia. The 
 - [Usability problems — disorientation, distraction, and cognitive overload — hinder demonstrating effectiveness of self-controlled hypermedia learning](hypermedia-usability-problems-hinder-effectiveness.md) — related
 - [Learner characteristics — prior knowledge, self-regulatory skills, cognitive styles, and attitudes towards learning — moderate hypermedia learning effectiveness](learner-characteristics-moderate-hypermedia-effectiveness.md) — related
 - The article treats metacognition and learning as a topic requiring explicit conceptual and methodological considerations — related
+- [Successful hypermedia learners showed more orientation and planning before processing content, deeper elaboration, constant monitoring, and evaluation compared to less successful students](process-mining-successful-learners-orientation-planning.md) — related

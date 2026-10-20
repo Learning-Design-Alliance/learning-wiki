@@ -46,3 +46,4 @@ Reported summary of the pedagogical grounding results (difficulty and discrimina
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [Zero-shot LLMs perform only marginally above random in five-class competency classification but exceed 70% accuracy on binary classification](zero-shot-llm-granularity-competency-classification.md) — related
 - [CTT item selection dropped five low-discrimination items, retaining 20 items of moderate difficulty](glat-item-selection-discrimination.md) — related
+- [Cognitive modeling of exact student responses is hardest for multi-select problems and rare-error answers, with select-all accuracy of only 12-15% and cognitive accuracy dropping to as low as 3.7% when answers are incorrect](cognitive-modeling-by-problem-type.md) — related

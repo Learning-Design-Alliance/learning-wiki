@@ -67,3 +67,4 @@ The article reports Glogger-Frey et al.'s (2017) study with two problems in the 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
 - [In a Bayesian-reasoning replication, problem-solving prior to instruction (PS-I) showed no significant advantage over instruction-first (I-PS) on conceptual knowledge](ps-i-no-effect-conceptual-bayesian-replication.md) — related
 - [Sense-making-first preparation supports learning more strongly than fluency-first because conceptual intermediate knowledge alters second-phase learning processes](sense-making-first-preparation-alters-second-phase-processes.md) — related
+- [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — related

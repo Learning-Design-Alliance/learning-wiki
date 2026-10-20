@@ -43,3 +43,6 @@ Executive-summary finding from the 15-month RPP, drawing on team check-in record
 ## Related Claims
 - Classroom interactional structures such as questions, recasts, and feedback influence students' processing of targeted content — related
 - [Launching RPP work with disaggregated student data highlighted equity issues without assigning blame](student-data-first-launch-highlighted-equity-without-blame.md) — related
+- [Continuous improvement for equity requires trust and courageous conversations; without trusting relationships, the improvement process will not help](ci-equity-requires-trust-and-courageous-conversations.md) — related
+- [Relational trust and rapid-response adaptation help research-practice partnerships survive acute disruption](rpp-adaptive-practices-sustain-partnerships-during-disruption.md) — related
+- [Leaders caution that disaggregating data by student demographics is only the beginning of using continuous improvement for equity, not its entirety](data-disaggregation-beginning-not-entirety.md) — related

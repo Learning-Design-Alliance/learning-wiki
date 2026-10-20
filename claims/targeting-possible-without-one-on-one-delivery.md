@@ -44,3 +44,5 @@ A key finding of the implementation study states that "A one-on-one service deli
 
 ## Related Claims
 - [Colleges may reach more students with less intensive group-delivered services, while one-on-one services can be customized to individual needs and goals](group-services-reach-more-one-on-one-customized.md) — reports the opposite
+- [Receiving an intensive, one-on-one service may matter more than receiving services across multiple pillars](intensive-one-on-one-service-more-important-than-multi-pillar-breadth.md) — related
+- [Integrated student supports are associated with improvements in attendance, behavior, social functioning, and academic achievement](integrated-student-supports-positive-outcomes.md) — related

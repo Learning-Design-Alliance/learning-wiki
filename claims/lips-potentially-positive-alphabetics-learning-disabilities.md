@@ -53,3 +53,4 @@ Randomized controlled trial (Torgesen et al., 2001) of 50 fourth-grade students 
 - Reading Go! tutoring produced significantly positive decoding and word-reading outcomes for low-performing first graders compared to students who did not receive the program — related
 - A program is said to have an effect when the difference between program and non-program groups is statistically significant — a broader claim this one bears on
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [LiPS has no discernible effects on reading comprehension for students with learning disabilities](lips-no-discernible-reading-comprehension-effects.md) — related

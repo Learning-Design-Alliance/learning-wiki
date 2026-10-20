@@ -45,3 +45,5 @@ fMRI ROI analysis of beta values per story condition in group-defined ToM ROIs f
 ## Related Claims
 - [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related
 - [RTPJ selectivity for mental state content does not differ between blind and sighted children](rtpj-selectivity-similar-blind-sighted-children.md) — related
+- [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md) — related
+- [Congenitally blind children perform slightly less accurately on a non-visual behavioral ToM task than sighted children, controlling for age](blind-children-slightly-lower-tom-task-performance.md) — related

@@ -67,3 +67,5 @@ Field experiment with 175 Champlain College sophomores randomly assigned to spac
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — related
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](practice-condition-no-effect-financial-behaviors.md) — related
+- [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
+- [Spacing out retrieval practice produces better long-term retention than massing it](spaced-retrieval-outperforms-restudy.md) — a broader claim this one bears on

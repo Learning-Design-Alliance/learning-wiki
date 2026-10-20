@@ -45,3 +45,5 @@ Spring 2015 online teacher survey (distributed to 261 teachers, 74 percent respo
 ## Related Claims
 
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](teacher-access-use-rose-assignments-modest.md)
+- [Translating test scores into months of learning has major downsides despite its perceived accessibility](months-of-learning-translation-major-downsides.md) — related
+- [Only 18 percent of schools strongly agree teachers are sufficiently trained to use technology for instruction](schools-teacher-technology-training-insufficient.md) — related

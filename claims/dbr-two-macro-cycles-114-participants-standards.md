@@ -48,3 +48,4 @@ Design-based research study with two macro cycles of design, experiment, and ret
 - [The authors declined requests to name specific technologies or focus the standards on AI, citing rapid technological change](no-named-technologies-standards-scope.md) — related
 - [International faculty feedback revealed that the term service is not clearly recognized outside North America, prompting wording changes for global comprehensibility](service-term-international-comprehensibility.md) — a narrower finding that bears on this claim
 - [First DBR iteration evaluation showed disjointed transitions between gaming and academic work, prompting a revised three-step teaching model with domain knowledge acquisition first](dbr-iteration-disjointed-gaming-academic-transitions.md) — related
+- [Design-based research is criticized for focusing on individual projects without guidance on long-term viability of innovations](dbr-lacks-guidance-long-term-viability.md) — related

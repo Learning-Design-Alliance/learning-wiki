@@ -78,3 +78,4 @@ Cross-cohort discontinuity analysis at the 50th-percentile ITBS cutoff. Below-no
 - [Interactive pedagogy increased nearly half a standard deviation for below-norm students in homogeneous double-dose algebra classes](interactive-pedagogy-increased-below-norm.md) — related
 - [Selective and top-tier schools improve students' nonacademic experiences, with peer classroom behavior showing the largest differences](selective-top-tier-schools-improve-nonacademic-experiences.md) — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
+- [Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability](double-dose-concentrated-behavioral-problems.md) — related

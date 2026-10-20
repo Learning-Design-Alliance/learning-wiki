@@ -51,3 +51,4 @@ Conceptual argument about institutional timescales: the author contrasts multi-y
 - Educational science faces a structural mismatch between the pace of educational innovation and the methods used to evaluate developmental impact — a broader claim this one bears on
 - [AI agents can now navigate and complete tasks within learning management systems](ai-agents-navigate-and-complete-lms-tasks.md) — related
 - [Current AIED rests on five faulty assumptions that risk learner dependence, isolation, and reduced flourishing](five-faulty-assumptions-aied-dependence.md) — related
+- [Many agentic multi-agent implementations remain at prototype or conceptual stage with limited large-scale deployment and empirical validation](agentic-multi-agent-systems-lack-empirical-validation.md) — related

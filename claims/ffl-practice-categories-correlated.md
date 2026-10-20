@@ -47,3 +47,4 @@ Key finding from the 2012/13 pilot ratings of principals and assistant principal
 - School leaders who scored higher in one FFL category tended to score higher in the other categories — possibly the same claim (merge candidate)
 - [Most school leaders received scores in the top two performance categories on FFL-measured practices](ffl-scores-concentrated-in-top-categories.md) — related
 - [The FFL shows good internal consistency across its full scale and its four categories of leadership practices](ffl-good-internal-consistency.md) — related
+- [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — related

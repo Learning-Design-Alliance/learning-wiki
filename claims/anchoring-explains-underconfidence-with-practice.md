@@ -42,3 +42,6 @@ Narrative review attributing to Scheck and Nelson (2005) the hypothesis that "pe
 
 ## Related Claims
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
+- [Calibration of JOLs shifts toward underconfidence across learning cycles for action phrases under both verbal and enactive encoding, without first-cycle overconfidence](uwp-underconfidence-shift-action-phrases.md) — related
+- [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related
+- [The now-self functions as an anchor in HPT: participants began in now-self and frequently returned to it](now-self-anchors-hpt.md) — related

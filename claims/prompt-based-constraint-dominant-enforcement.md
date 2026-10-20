@@ -45,3 +45,5 @@ Qualitative synthesis coding Enforcement across the 90-system corpus into 11 cat
 ## Related Claims
 - [Authority over assistance boundaries is highly centralized in system logic in LLM-based programming support systems](authority-centralized-system-only-llm-programming-support.md) — related
 - [Policy–enforcement pairings are dominated by prompt-based constraints, and policy themes differ in enforcement breadth](policy-enforcement-pairings-prompt-dominated.md) — a broader claim this one bears on
+- [Monolithic single-prompt LLM architectures hinder responsible educational deployment by collapsing distinct pedagogical functions](monolithic-llm-architectures-hinder-responsible-educational-design.md) — related
+- [Policy in reviewed systems is commonly expressed as a set of assistance boundaries, concentrated on response constraints, scaffolding, and personalization](policy-multilabel-concentrated-constraints-scaffolding-personalization.md) — related

@@ -68,3 +68,4 @@ Block 3 of the hierarchical regression added cognitive load measures, with a "si
 - [Latent profile analysis identifies three learner profiles differing in cognitive factors, self-concept, and extraneous load, with significant performance differences](three-inquiry-learner-profiles-lpa.md) — related
 - [Content knowledge does not significantly predict the number of experiments conducted; general cognitive ability shows a quadratic association and self-concept a negative linear association](null-ck-number-of-experiments-gca-quadratic.md) — related
 - [CVS skill is the strongest predictor of performing valid (unconfounded) experiments in simulation-based inquiry](cvs-predicts-proportion-valid-experiments.md) — related
+- [Cognitive factors explain about 49% of variance in simulation-based inquiry performance among young adults](cognitive-factors-explain-half-inquiry-variance.md) — related

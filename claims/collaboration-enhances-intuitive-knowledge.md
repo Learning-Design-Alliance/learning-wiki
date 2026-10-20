@@ -44,4 +44,7 @@ ANCOVA on intuitive conceptual knowledge (max 8, covariates math grade and time-
 
 
 ## Related Claims
--
+- [Situational knowledge is fostered by collaboration, tool format, and tool-use, with arithmetical format outperforming textual](situational-knowledge-setting-format-tooluse.md) — related
+- [Collaborative inquiry learners obtain significantly higher post-test overall scores than individual learners](collaborative-inquiry-outperforms-individual-overall.md) — related
+- [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](no-format-knowledge-type-mapping.md) — related
+- [Tool-using individuals show advantages on conceptual knowledge while collaborative learners spend less time-on-task](conceptual-knowledge-interaction-and-time-on-task.md) — related

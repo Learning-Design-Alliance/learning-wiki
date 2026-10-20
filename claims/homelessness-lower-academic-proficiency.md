@@ -47,3 +47,5 @@ Descriptive comparison of state assessment proficiency rates reported in the rep
 - [Students experiencing homelessness show substantially lower achievement and graduation than housed peers (reported from a New York City study)](homeless-students-lower-achievement-graduation-nyc.md) — related
 - [Homelessness is associated with substantially lower 4-year graduation rates (68% vs. 86% for all students)](homelessness-lower-graduation-rate.md) — related
 - [California students experiencing homelessness graduate at lower rates (69% vs. 83%) and enroll in college at lower rates (50% vs. 64%) than peers statewide](homeless-students-lower-graduation-college-going.md) — related
+- [Most reviewed studies used samples composed of at least 40 percent economically disadvantaged students](majority-studies-40-percent-economically-disadvantaged.md) — related
+- [Students experiencing homelessness meet or exceed state achievement standards at far lower rates (29% ELA, 19% mathematics) than students statewide (48%, 37%)](homeless-students-lower-caaspp-achievement.md) — related

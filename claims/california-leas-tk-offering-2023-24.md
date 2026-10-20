@@ -50,3 +50,4 @@ Statewide survey of 1,506 LEAs receiving UPK Planning and Implementation Grant f
 - [In 2022–23, 81% of California LEAs offered TK at all elementary sites and half offered early-admittance TK ahead of the legislated eligibility schedule](california-leas-tk-all-sites-early-admittance.md) — related
 - California's four largest districts planned rapid, comprehensive TK rollout including early admittance, full-day TK, dual language programs, and established assessments — related
 - [A majority of LEAs planned to offer TK at all kindergarten sites and full-day TK](majority-leas-all-sites-full-day-tk.md) — related
+- [Most California LEAs offered full-day TK, but large LEAs were less likely to offer only full-day options while more likely to combine TK with on-site expanded learning programs](full-day-tk-and-expanded-day-by-lea-size.md) — related

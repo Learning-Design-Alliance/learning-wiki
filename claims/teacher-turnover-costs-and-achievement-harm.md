@@ -65,3 +65,9 @@ An eight-year study of 850,000 New York City 4th- and 5th-grade students cited i
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [Texas teacher turnover cost estimates exceed $10,800 per teacher in rural districts, $13,200 in suburban districts, and $25,200 in urban districts](texas-turnover-replacement-costs-by-district-type.md) — related
 - [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — related
+- [Principal turnover often has negative effects on student achievement, teacher retention, and school culture unless a much more effective principal replaces the prior one](principal-turnover-negative-effects.md) — related
+- [High teacher turnover rates may be costly to school districts, disrupt operations, and lower student achievement](high-teacher-turnover-costly-disruptive-lowers-achievement.md) — a broader claim this one bears on
+- [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md) — related
+- [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related
+- [Principal turnover is common: 18% of principals leave schools each year and half of new principals leave within three years, with cascading consequences](principal-turnover-18-percent-annually.md) — related
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related

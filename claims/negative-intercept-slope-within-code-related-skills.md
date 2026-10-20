@@ -51,3 +51,5 @@ Zero-order correlation analysis of growth model parameters in the 358-child samp
 - [Initial letter-sound knowledge and phonological awareness were not uniquely related to growth in each other](letter-sound-knowledge-no-unique-bidirectional-relation.md) — related
 - [Initial phonological awareness uniquely predicts growth in letter-name knowledge, most strongly via elision skill](initial-phonological-awareness-predicts-letter-name-growth.md) — related
 - [The bidirectional relation between letter-name knowledge and phonological awareness was independent of maturation and correlated developmental trajectories](bidirectional-relation-independent-of-maturation.md) — related
+- [The bidirectional letter-knowledge–phonological-awareness relation extends to supra-phonemic tasks, indicating an earlier developmental origin than previously reported](bidirectional-relation-extends-to-supra-phonemic-tasks.md) — related
+- [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md) — related

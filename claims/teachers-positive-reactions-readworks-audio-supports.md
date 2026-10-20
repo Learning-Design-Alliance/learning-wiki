@@ -47,3 +47,4 @@ Qualitative interview study of three Midwestern K-3 teachers using the redesigne
 - [Changing the audio default from opt-in to opt-out raised audio availability from 72% to 99% of assignments and student audio use from 68% to 84%](readworks-audio-default-change-increased-use.md) — related
 - [Feature use was widespread across student groups (92% of students used at least one feature; 75% of assignments included feature use), with no differences by STAR score, special education status, or income, but substantial variation across teachers](readworks-feature-use-broad-equitable-teacher-variation.md) — related
 - [Teachers valued leveled articles on shared topics as supporting a cohesive classroom experience across reading levels](leveled-articles-shared-topics-cohesion.md) — related
+- [Teachers who tried ReadWorks features reported high intent to assign more and higher-level articles (89% and 82%)](readworks-features-raise-teacher-assignment-ambitions.md) — related

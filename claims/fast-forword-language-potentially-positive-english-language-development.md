@@ -51,3 +51,5 @@ Randomized controlled trial meeting WWC evidence standards, part of a study of 8
 - [The WWC improvement index is +31 percentile points for English language development and +3 percentile points for reading achievement](fast-forword-improvement-index-eld-reading.md) — related
 - [The WWC rates Reading Mastery as having potentially positive effects on the reading achievement of English language learners](reading-mastery-potentially-positive-effects-ell-reading.md) — related
 - [Fast ForWord has no discernible effects on alphabetics and general literacy achievement and potentially positive effects on reading fluency and comprehension for adolescent learners](fast-forword-no-discernible-effects-alphabetics-general-literacy.md) — related
+- [All five studies of Fast ForWord in the general literacy achievement domain showed indeterminate effects](fast-forword-general-literacy-indeterminate.md) — related
+- [Both studies of Fast ForWord in the alphabetics domain showed indeterminate effects, with no statistically significant or substantively important effects](fast-forword-alphabetics-indeterminate.md) — related

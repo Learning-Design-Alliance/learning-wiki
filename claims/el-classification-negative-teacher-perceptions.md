@@ -46,3 +46,6 @@ The brief reports, citing Umansky & Dumont (2021), a nationally representative s
 - [ELs who received bilingual education services had higher long-run attendance and academic outcomes than kindergartners who refused bilingual services](bilingual-services-higher-el-outcomes-than-refusal.md) — related
 - [GPAs were very similar for students who did and did not enter CPS as ELs, with a reading-grade gap that closed by seventh grade and similar Freshman OnTrack rates](el-gpas-reading-grades-ontrack-similar.md) — related
 - [Students who began kindergarten as English Learners had similar achievement and growth, and higher attendance, compared to students never classified as ELs](began-as-els-similar-achievement-higher-attendance.md) — related
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — related
+- [As of 2024, only 10 U.S. states explicitly include Spanish–English bilinguals in their kindergarten entry assessments, while 41 states implicitly include or do not include them](ten-states-explicitly-include-spanish-english-bilinguals-in-keas.md) — related
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](bilinguals-better-math-tested-in-spanish.md) — related

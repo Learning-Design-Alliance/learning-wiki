@@ -52,3 +52,4 @@ Qualitative evaluation of the VCP rubric used for developmental purposes only fr
 - [Using AI to evaluate AI outputs was often challenging because AI act as yes people and humans struggled to agree on evaluation rubrics](ai-evaluating-ai-outputs-challenging.md) — related
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](locally-developed-performance-assessments-teacher-collaborative-scoring.md) — related
+- [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related

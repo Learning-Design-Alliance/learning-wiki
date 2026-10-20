@@ -45,3 +45,5 @@ The abstract argues, with no supporting data, that "Teachers also have far more 
 ## Related Claims
 - [Teachers know far more about their students than an investor knows about a stock, including data not typically in statistical models](teachers-hold-student-data-outside-statistical-models.md) — related
 - [Standardized tests measure only part of what teachers expect students to learn and are not taken in all subjects](standardized-tests-partial-information-learning.md) — related
+- [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
+- [AI technologies in education enhance teaching and learning through personalization and data analytics while reshaping administrative functions and decision-making](ai-enhances-teaching-administration-education.md) — related

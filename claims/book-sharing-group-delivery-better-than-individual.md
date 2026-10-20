@@ -50,3 +50,5 @@ Subgroup meta-regression restricted to face-to-face interventions (video- and ph
 - [Improvements in caregiver book-sharing behaviour mediate the intervention's impact on child language (one mediation analysis)](caregiver-book-sharing-competence-mediation.md) — related
 - [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
 - [Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)](book-sharing-receptive-language-small-effect.md) — related
+- [Effects of school-based mindfulness interventions differ according to whether delivery is by an outside facilitator or by trained educators/teachers](mindfulness-facilitator-type-moderates-effects.md) — related
+- [Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)](book-sharing-caregiver-competence-large-effect.md) — related

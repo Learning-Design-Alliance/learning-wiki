@@ -45,3 +45,6 @@ Formative study with 7 students and 3 instructors using one-hour semi-structured
 ## Related Claims
 - [The most effective forms of learning support differed by user expertise: beginners preferred at-a-glance visual cues while advanced users preferred the analysis console.](learning-support-preferences-differ-by-expertise.md) — related
 - [A formative study with six teachers and two experts identified five core challenges in lesson plan adaptation, including lack of systematic student profile data and fragmented refinement workflows](five-challenges-lesson-plan-adaptation.md) — related
+- [Insufficient data systems, LCFF funding limits, transportation barriers, and child welfare capacity constraints impede coordinated support for students in foster care](foster-care-coordination-challenges.md) — related
+- [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
+- [Interviewed teachers attributed disengagement to technical, institutional, and social-relational environmental constraints rather than capability deficits](environmental-constraints-attributed-disengagement.md) — related

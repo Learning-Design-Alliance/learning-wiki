@@ -49,3 +49,4 @@ Cross-lagged autoregressive panel model on 278 children in a three-wave longitud
 - [Mothers' cognitive support during problem-solving did not predict children's later cognitive flexibility](maternal-cognitive-support-did-not-predict-flexibility.md) — related
 - [Non-Hispanic White children showed better cognitive flexibility and received more emotionally supportive caregiving than children from minority backgrounds](minority-status-disparities-in-flexibility-and-emotional-support.md) — related
 - [Higher maternal education predicts membership in faster self-regulation trajectories](maternal-education-predicts-self-regulation-trajectory.md) — related
+- [About 20% of children (later developers) make few self-regulation gains in preschool and lag peers by six months to a year and a half](later-developers-few-preschool-gains.md) — related

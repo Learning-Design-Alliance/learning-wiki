@@ -46,3 +46,7 @@ Cluster characterization from feature means in the n=131 dataset. Text reproduce
 - [AI-supported argumentative writing yields three distinct uptake clusters (text reproducers, text integrators, text reconstructors) based on recurring n-gram overlap](three-uptake-clusters-human-ai-cowriting.md) — a broader claim this one bears on
 - [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — related
 - [Engage-to-Unlock participants incorporated less verbatim AI-response text into final essays than Standard Chatbot participants](engage-to-unlock-lower-ai-text-coverage.md) — related
+- [Affinity for technology interaction differed across clusters, with text reproducers highest and integrators scoring higher than reconstructors (d = 0.59)](ati-differs-across-uptake-clusters.md) — related
+- [Current ChatGPT users were overrepresented among text reconstructors and underrepresented among text integrators (Cramér's V = 0.26)](current-chatgpt-use-associated-with-reconstructors.md) — related
+- [Clusters did not differ significantly in the number of prompts sent to ChatGPT](clusters-no-difference-in-prompt-count.md) — related
+- [Cluster membership showed a strong multivariate effect on standard text-similarity metrics (Pillai's trace = 0.85, F(12, 248) = 15.31, p < 0.001)](manova-cluster-effect-text-metrics.md) — related

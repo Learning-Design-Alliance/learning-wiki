@@ -47,3 +47,5 @@ In the N = 100 cross-sectional correlation matrix (Table 3a), the cognitive-abil
 - [Written-communication skills significantly correlate with vibe-coding performance, but the association does not remain significant after controlling for domain-general cognitive ability](writing-skills-correlate-with-vibe-coding.md) — related
 - [CS achievement significantly predicts vibe-coding performance and remains a significant predictor after controlling for domain-general cognitive ability](cs-achievement-predicts-vibe-coding-performance.md) — related
 - [Secondary academic performance is predicted by cognitive ability more strongly than by curiosity](cognitive-ability-predicts-secondary-gpa-more-than-curiosity.md) — related
+- [Cognitive ability and curiosity are positively correlated in young adults](cognitive-ability-curiosity-positive-correlation.md) — related
+- [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) — a broader claim this one bears on

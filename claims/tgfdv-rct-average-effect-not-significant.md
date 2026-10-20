@@ -49,3 +49,8 @@ WWC aggregation of all Bacon (2001a) outcomes in the randomized controlled trial
 - [The WWC rated Too Good for Drugs and Violence as having positive effects on knowledge, attitudes, and values, with a cross-study domain-average effect size of 0.42](tgfdv-positive-effects-rating.md) — related
 - [Too Good for Violence shows a substantively important but not statistically significant effect on students' knowledge, attitudes, and values](tgv-kav-substantively-important-not-significant.md) — related
 - [Too Good for Drugs shows no discernible effects on student knowledge, attitudes, and values across two randomized controlled trials](too-good-for-drugs-no-discernible-kav-effects.md) — related
+- [Effects on behavioral intentions for marijuana use and fighting were not statistically significant in either study](tgfdv-intentions-null-results.md) — related
+- [Lessons in Character shows no discernible effects on student behavior](lessons-in-character-no-discernible-behavior-effects.md) — related
+- [Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important](fhao-no-discernible-effects-behavior.md) — related
+- [Four of seven knowledge, attitudes, and values outcomes favor the comparison group, including ethnic identity (effect size -0.19) and both moral reasoning measures, none statistically significant](fhao-four-outcomes-favor-comparison-group.md) — related
+- [One item-level attitude finding, on teachers helping students who need extra help, was statistically significant in the randomized trial](lessons-in-character-teacher-help-item-significant.md) — related

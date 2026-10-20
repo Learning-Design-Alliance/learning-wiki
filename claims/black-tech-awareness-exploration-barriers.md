@@ -48,3 +48,6 @@ Thematic analysis of 18 one-on-one interviews, 4 small group interviews, 3 desig
 - [The blueprint asserts that K-12 systems are well positioned to advance students into entry-level career credentials and employment](k12-systems-positioned-for-entry-level-career-credentials.md) — related
 - [Cost, inflexible formats, and misalignment with goals or industry demand are reported barriers to educational and training opportunities](tech-training-cost-inflexibility-misalignment-barriers.md) — related
 - [Early exposure to career pathways in high school is reported to enhance students' self-efficacy and occupational awareness](early-career-pathway-exposure-enhances-self-efficacy.md) — related
+- [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — related
+- [Worker and jobseeker input on skills-first pathway design and implementation is far too often limited or missing](worker-input-on-skills-first-pathways-limited-or-missing.md) — related
+- [Participants report career transitions, certifications, networking gains, financial and social gains from tech-centered education and training programs](tech-program-accomplishments-gains.md) — related

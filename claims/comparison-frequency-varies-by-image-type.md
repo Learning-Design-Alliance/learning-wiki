@@ -46,3 +46,4 @@ Chi-square analysis of the same 313-image textbook corpus relating image type (p
 
 - [Intervening visual units were moderately common and appeared more often in structure diagrams than process diagrams](intervening-units-more-common-structure-diagrams.md)
 - [Over a third of images in middle school life science textbooks prompt students to compare visual units](textbook-images-prompt-comparison-37-percent.md)
+- [Fewer than half of textbook images requiring comparison have an optimal spatial layout (direct placement) for structural alignment](fewer-than-half-images-direct-placement.md) — related

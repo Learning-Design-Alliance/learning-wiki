@@ -52,3 +52,5 @@ Figure 10a comparison of charter students in poverty against TPS VCR peers in po
 - [Idaho online charter students show weaker math growth than TPS VCRs and lag brick-and-mortar charter students in both subjects](idaho-online-charter-learning-deficits.md) — related
 - [Hispanic charter students perform similarly to their Hispanic TPS peers in both subjects, while both groups lag the average White TPS student](pa-charter-hispanic-students-similar-to-tps-peers.md) — related
 - [Charter students' math disadvantage is concentrated in the first two growth periods, with performance similar to VCR peers by 2016-2017](pa-charter-math-gap-varies-by-growth-period.md) — related
+- [Black, Hispanic, and poverty-affected charter students grow faster than traditional public school peers but gains remain below those of white peers](charter-minority-poverty-gains-below-white-peers.md) — related
+- [Idaho charter school students show stronger reading growth than matched TPS peers, with no significant difference in math growth](idaho-charter-reading-advantage-math-null.md) — related

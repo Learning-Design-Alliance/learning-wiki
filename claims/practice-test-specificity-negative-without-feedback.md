@@ -62,4 +62,6 @@ Study 2 (n = 111, practice tests plus individual corrective feedback): the parti
 
 
 ## Related Claims
--
+- [More frequent practice-test participation predicts higher absolute accuracy of item-specific judgments in the final exam, regardless of feedback](practice-tests-improve-absolute-judgment-accuracy.md) — related
+- [More frequent practice-test participation predicts higher sensitivity (better detection of correct answers) in final-exam judgments, with and without feedback](practice-tests-improve-judgment-sensitivity.md) — related
+- [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related

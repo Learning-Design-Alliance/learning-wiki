@@ -46,3 +46,4 @@ The review's abstract states its conclusion about generalization and maintenance
 - [Academic self-management interventions for students with emotional and behavioral disorders show a large overall mean effect size of 1.80 across 22 studies](self-management-ebd-overall-es-1-80.md) — related
 - [Self-management interventions targeted math calculation skills most often, with mean effect sizes of 2.66 for social studies, 2.28 for reading, 1.97 for math, and 1.13 for writing](self-management-ebd-academic-area-es.md) — related
 - [Self-instruction techniques yielded the highest mean effect size (2.71) among self-management intervention types, with self-monitoring the predominant technique used](self-management-ebd-intervention-type-es.md) — related
+- [Self-management intervention configurations show strong mean effect sizes but substantial effect size heterogeneity in single-case research](self-management-strong-mean-effects-with-heterogeneity.md) — related

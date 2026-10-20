@@ -49,3 +49,5 @@ Descriptive tracking of the sequential college application process for 2005 CPS 
 - [Chicago students accepted to a four-year college who completed a FAFSA were far more likely to enroll than accepted students who did not file](fafsa-completion-predicts-four-year-enrollment.md) — related
 - College mismatch is common among Chicago graduates: only 38 percent of the most qualified students enrolled in a match college, and many mismatch by enrolling in two-year colleges or not enrolling — related
 - [One-fifth of students in academically advanced programs do not apply to any four-year college](cps-advanced-programs-one-fifth-no-four-year-application.md) — related
+- [Latino CPS graduates who aspire to a four-year degree are least likely to plan to attend a four-year college after graduation](latino-graduates-least-likely-plan-four-year-college.md) — related
+- [Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment](teacher-college-climate-associated-with-enrollment-steps.md) — related

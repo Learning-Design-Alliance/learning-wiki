@@ -69,3 +69,4 @@ Same ethics theme: reasons for not reading included length (the document was jus
 - School districts act as independent gatekeepers whose requirements can exceed IRB determinations — related
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](mmla-data-misuse-concerns-four-themes.md) — related
 - Students remained receptive to chatbot communication over four years, with annual opt-out rates below 4% and average interactive-campaign engagement near 5% — related
+- [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related

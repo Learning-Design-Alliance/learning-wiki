@@ -71,3 +71,4 @@ Discussion of the SEM: "The only significant evidence of demographic influence i
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
 - [In agentic AI-supported online learning, perceived autonomy, competence, and relatedness are each positively associated with learning motivation](sdt-needs-positive-learning-motivation-agentic-ai.md) — related
 - [Chatbot design carries a documented female-by-default gender bias](chatbot-female-default-gender-bias.md) — related
+- [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related

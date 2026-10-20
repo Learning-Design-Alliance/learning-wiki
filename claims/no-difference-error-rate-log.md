@@ -48,3 +48,6 @@ Exploratory log-data analysis from all 252 participating students found error ra
 - [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related
 - [The AI-fallibility warning did not significantly change error rate or time spent per problem-solving step](ai-fallibility-warning-no-performance-effect.md) — possibly the same claim (merge candidate)
 - [A warning message about potential AI mistakes increases seventh-graders' hint requests in a math intelligent tutoring system](ai-fallibility-warning-increases-help-seeking.md) — related
+- [Hint Factory MDP-generated hints gave correct next-step hints over 80% of the time and a pilot showed students solved more logic proofs with hints](hint-factory-mdp-hints-effective.md) — related
+- [Self-explanation support did not change Answer-item performance even though the explanation condition completed only half as many problems](answer-items-no-difference-self-explanation-tutor.md) — related
+- [Students in the combined condition tended to make fewer errors and request fewer hints over time than students in individual-only or collaborative-only conditions](combined-condition-fewer-errors-and-hints.md) — reports the opposite

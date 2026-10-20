@@ -47,3 +47,6 @@ MLGM goodness-of-fit analyses across ten states; the article reports fit was exc
 - [MAP tests show metric invariance across grades for all studied tests except Michigan Mathematics tests](map-cat-metric-invariance-across-grades.md) — related
 - [Goodness-of-fit results indicate Spanish MAP Growth Reading constructs are at least tau-equivalent across language background groups](spanish-map-reading-tau-equivalent-constructs.md) — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
+- [Longitudinal partial strong measurement invariance of the four-item self-efficacy survey justifies fitting growth models to its scores](self-efficacy-survey-partial-longitudinal-invariance.md) — related
+- [Chi-square difference tests show significant loading invariance constraints for Kansas Reading but all constraints significant for Michigan Mathematics](mgcfa-chi-square-difference-patterns-kansas-michigan.md) — related
+- [A one-factor unidimensional model is the most reasonable fit for MAP computerized adaptive Reading and Mathematics tests across grades, terms, and ten states, though Michigan Mathematics misses the RMSEA criterion](map-cat-unidimensional-factor-structure.md) — related

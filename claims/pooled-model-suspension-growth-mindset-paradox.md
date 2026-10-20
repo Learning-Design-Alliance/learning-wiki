@@ -69,3 +69,4 @@ Same pooled-model analysis (Table 6, growth mindset intercept OR = 1.845, p = .0
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](growth-mindset-achievement-correlation-weak.md) — the general claim this finding bears on, with the studies behind it
 - [Self-management status and growth across middle school predict lower odds of having a GPA below a C and of being suspended in 9th grade, but not chronic absenteeism](self-management-status-growth-predict-off-track-9th-grade.md) — related
 - [Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct](self-management-growth-predictive-beyond-status.md) — related
+- [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](sel-growth-construct-collinearity.md) — related

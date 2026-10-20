@@ -44,3 +44,5 @@ Learner-type moderator analysis across the 51 contrasts; the K–12 subset compr
 
 ## Related Claims
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — related
+- [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
+- [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — related

@@ -45,3 +45,4 @@ Narrative review statement citing Miyake and Shah (1999) and Baddeley (2003a). T
 ## Related Claims
 - [A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.](l1-predicts-l2-phoneme-perception-more-than-proficiency.md) — related
 - [Language processing is intimately tuned to input frequency across phonology, phonotactics, reading, spelling, lexis, morphosyntax, formulaic language, comprehension, grammaticality, sentence production, and syntax](frequency-tuning-across-language-processing-domains.md) — related
+- [The central executive coordinates WM subsystems and supports higher-level language-learning functions such as attention switching and strategy switching](central-executive-coordinates-language-learning-functions.md) — related

@@ -47,3 +47,8 @@ Survey-based analysis of instructional approach by teachers' reports of class ac
 - [Interactive instruction declines and didactic instruction increases across elementary grade levels](interactive-declines-didactic-increases-across-grades.md) — related
 - [Three student-centered practices were associated with lower 2nd-grade math achievement](student-centered-practices-lower-second-grade-achievement.md) — related
 - [Double-dose algebra substantially increased interactive pedagogy for low-skill students (.55 SD, p<.001), unexplained by classroom compositional changes](double-dose-increased-interactive-pedagogy-low-skill.md) — related
+- [Frequent instructional review is negatively associated with one-year achievement gains](instructional-review-negative-achievement-gains.md) — related
+- [Interactive instruction is positively associated with one-year achievement gains in reading and mathematics in Chicago elementary schools](interactive-instruction-positive-achievement-gains-chicago.md) — related
+- [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related
+- [Teachers dedicating more time to whole-class instruction is associated with increased student math achievement](more-whole-class-instruction-time-higher-math-achievement.md) — related
+- [Differentiating curriculum for students above grade level is associated with higher math achievement in 2nd grade only](differentiating-above-grade-level-second-grade-achievement.md) — related

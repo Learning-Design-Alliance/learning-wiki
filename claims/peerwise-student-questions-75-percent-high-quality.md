@@ -68,3 +68,4 @@ Post-hoc coding of a representative sample of 602 questions from four introducto
 - Adult teachers' questions concentrate at low Bloom's levels, and cooperative learning's dialogue and questioning support critical thinking across Bloom's taxonomy — related
 - [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related
 - [AI-generated assessment items frequently need faculty correction, supporting AI as a draft generator within quality assurance](genai-assessment-items-draft-generator-quality-assurance.md) — related
+- [First-cycle underperformance was attributed to low-quality student-generated questions that failed to represent journal article patterns](question-quality-limited-first-cycle-outcomes.md) — related

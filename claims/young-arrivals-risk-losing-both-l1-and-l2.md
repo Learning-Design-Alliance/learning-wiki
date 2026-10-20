@@ -47,3 +47,4 @@ The author attributes this concern to Roessingh & Kover (2002), stating that man
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
 - [BICS-level language can be acquired in about two years regardless of age on arrival and first language](bics-acquired-two-years-all-ages.md) — related
 - [Small-scale studies suggest age 15-16 with intermediate English proficiency (reading GE 5) is a good immigration age](arrival-age-15-16-ge5-good-immigration-age.md) — related
+- [L1 and L2 academic proficiencies are developmentally interdependent, so instruction in either language can build underlying academic ability](l1-l2-academic-interdependence-transfer.md) — related

@@ -60,3 +60,5 @@ This is a second-hand citation narrated in the article's discussion of whether T
 - [High-quality pretend play is an important facilitator of perspective taking and later abstract thought](pretend-play-facilitates-perspective-taking-abstract-thought.md) — related
 - [Reading fiction gives at most a very small gain on theory-of-mind and social-cognition tasks, and the single-passage literary-fiction effect did not replicate](reading-literary-fiction-improves-theory-of-mind.md) — related
 - [Infants and adults automatically take account of others' false beliefs, as shown by looking time and reaction time](implicit-belief-representation-infants-adults.md) — related
+- [Explicit mentalizing (false-belief understanding) emerges robustly between ages 4 and 6](explicit-mentalizing-emerges-ages-4-6.md) — related
+- [DCCS training in preschoolers transfers to false-belief understanding](dccs-training-transfers-false-belief.md) — related

@@ -47,3 +47,5 @@ The statement asserts that "employers recognize that social and emotional develo
 - [Interdisciplinary studio collaboration deepened students' disciplinary skills while exposing them to cross-disciplinary skills](interdisciplinary-collab-deepens-disciplinary-and-cross-disciplinary-skills.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Cognitive, emotional, and social skills should be taught alongside content because learning is integrated in the brain](integrated-skills-habits-mindsets-instruction.md) — related
+- [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — possibly the same claim (merge candidate)
+- [Engineering students come to view mastering GenAI as crucial as other engineering skills, driven by labour-market expectations, alongside widespread uncertainty about over-reliance](genai-mastery-new-learning-objective-engineering.md) — related

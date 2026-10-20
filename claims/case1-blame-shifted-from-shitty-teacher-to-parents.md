@@ -46,3 +46,5 @@ Case 1 discourse analysis of a VFF debrief transcript at Haynes Middle School. T
 ## Related Claims
 
 - [Deficit narratives are co-constructed in teacher collegial talk in response to teacher vulnerability under emotional regimes that disallow strong negative emotions](deficit-narratives-arise-from-vulnerability-under-emotional-regimes.md)
+- [In Case 2, persistent strong negative self-critique led teachers to assign deficit narratives to students as having missed opportunities, serving as foils for teachers](case2-students-foils-missed-opportunities.md) — related
+- [Common threat-mitigation strategies preceded and failed to prevent deficit narratives, whose introduction followed the failure of mitigation to restore the emotional regime](mitigation-failure-precedes-deficit-narratives.md) — related

@@ -43,4 +43,8 @@ A closure statement from Episode 1 of the qualitative video analysis: all three 
 
 
 ## Related Claims
--
+- [Students in a school-based makerspace enact four intertwined multimodal knowledge practices combining embodied action, talk, space and artifact use](four-multimodal-knowledge-practices-makerspace.md) — related
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — a broader claim this one bears on
+- [Emotional framing intensity is associated with types of talk in argumentation, with low-intensity framing linked to cumulative talk and high-intensity framing to disputational talk](emotional-framing-linked-to-talk-types.md) — related
+- [The intervention increased students' elaborated explanations and cumulative and exploratory talk](qt-increases-explanations-cumulative-exploratory-talk.md) — related
+- [An adjacent corridor served as an improvised spatial expansion of the makerspace mediating students' knowledge practices](corridor-improvised-spatial-expansion-makerspace.md) — related

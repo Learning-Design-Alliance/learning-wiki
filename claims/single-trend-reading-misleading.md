@@ -48,3 +48,5 @@ The guide's interpretive walkthrough of illustrative school profiles (Schools A 
 - [CPS elementary school productivity improvements stalled after 1997, with no evidence of significant productivity growth since then](cps-productivity-improvements-stalled-after-1997.md) — related
 - [CPS elementary ITBS scores improved across the 1990s in both reading and math for all age groups, but trend gains flattened after 1998](cps-itbs-decade-gains-flattened-after-1998.md) — related
 - CPS academic productivity gains peaked in 1997, with 1999 gains uniformly lower than 1997 gains at all grades — related
+- [Chicago graduation rates improved steadily since the early 1990s except for the first two cohorts subject to the eighth-grade promotion standard, and age-16 dropout rates declined for the last five years](cps-graduation-improving-trend.md) — related
+- [For cohorts born since 1990, reading progress increased while math progress slowed](post-1990-reading-up-math-slowed.md) — related

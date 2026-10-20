@@ -58,3 +58,11 @@ RQ2 thematic analysis of focus groups reports this tension in participants' ethi
 - [Post-interaction reflections reveal four preference themes: AI as formative learning aid, preference for human authority, conditional acceptance, and skepticism about educational impact](four-themes-post-evaluation-ai-reflections.md) — related
 - [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — related
 - [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related
+- [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — related
+- [AI is not an inherently autonomous, intelligent, or objective entity but a product of human ingenuity dependent on exploitative labour and data extraction](ai-not-autonomous-objective-human-product.md) — related
+- [Judgement-bearing assistance is the central analytic pivot: delegating evaluation of quality and correctness is normatively more demanding than instrumental assistance](judgement-bearing-assistance-central-pivot.md) — related
+- [Moral Unease, reported by 190 participants, reflects authorship guilt and a gap between AI output quality and actual understanding](moral-unease-authorship-guilt-understanding-gap.md) — related
+- [Teachers largely perceive GenAI as semi-autonomous and prefer to retain full control over their teaching](teachers-perceive-genai-semi-autonomous-retain-control.md) — related
+- [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related
+- [Marzano's taxonomy chosen over Bloom's because it accommodates three knowledge types and positions metacognition and ethics](marzano-over-bloom-rationale-genai-literacy.md) — related
+- [Instructors engage LLM-generated suggestions as a controllable refinement process](instructors-use-llm-suggestions-as-controllable-refinement.md) — related

@@ -64,3 +64,5 @@ Qualitative case observation in the Results section on the Neural Constituency P
 ## Related Claims
 - [The pipeline feasibly produces coherent, synchronized educational videos from textbook queries, integrating retrieval, image generation, animation, and speech](feasible-synchronized-video-generation-from-textbook-queries.md) — related
 - [The reconciliation phase filters non-instructional slides by zero-budgeting administrative and transition slides](reconciliation-zero-budgets-structural-slides.md) — related
+- [Multimodal LLMs outperform the OCR-based pipeline on visually dense slides, while the OCR pipeline produces comparable instruction on text-centric slides](multimodal-vs-ocr-pipeline-slide-type-comparison.md) — related
+- [Current AI tutoring systems misinterpret complex STEM engineering diagrams, omitting edges, misclassifying component connections, and flattening hierarchical topologies](ai-systems-misinterpret-stem-diagrams.md) — related

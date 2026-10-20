@@ -63,3 +63,4 @@ Study 2 zero-order correlations (Table 2, N = 90) between ADHD symptoms and crea
 
 ## Related Claims
 - [Adults with ADHD rate themselves as more creative in the performance and mechanical/scientific domains](adhd-domain-specific-self-perceived-creativity.md) — related
+- [Medication use does not affect creativity measures in adults with ADHD](no-medication-effect-on-creativity-adhd.md) — related

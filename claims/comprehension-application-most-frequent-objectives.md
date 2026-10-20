@@ -63,3 +63,5 @@ Descriptive frequency analysis of 718 coded learning objectives in the four Inte
 
 ## Related Claims
 - [The Interchange series covered learning objectives more comprehensively than the Iranian high school textbooks](interchange-outnumbers-high-school-objectives.md) — related
+- [Linguistic intelligence dominated both series while natural intelligence was least frequent](linguistic-intelligence-dominates-elt-textbooks.md) — related
+- [The two textbook series differ significantly in the distribution of intelligences across learning objectives](elt-textbook-series-differ-bloom-mi-grid.md) — related

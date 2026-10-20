@@ -47,3 +47,4 @@ Multi-select survey measure of prompting techniques across individual and team a
 - [Verification behaviors degrade most in team contexts, with test-based verification falling and never fully recovering](verification-degrades-in-team-contexts.md) — related
 - [Role framing shifts toward non-use in team contexts, with non-use more than doubling](role-framing-shifts-toward-non-use-in-teams.md) — related
 - [Cluster membership is significantly associated with grade level but not gender](cluster-membership-grade-association.md) — related
+- [Within-student transitions are asymmetric: 18.9% of consistent individual users stop using LLMs in teams while only 3.2% start, with framing shifts concentrated in movement to non-use](asymmetric-within-student-llm-disengagement-in-teams.md) — related

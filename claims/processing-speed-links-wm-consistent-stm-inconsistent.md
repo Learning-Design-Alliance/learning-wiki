@@ -43,4 +43,6 @@ Structural equation models compared four configurations linking processing speed
 
 
 ## Related Claims
--
+- [Working memory, but not short-term memory, predicts word decoding skill in children](wm-predicts-word-decoding-stm-does-not.md) — related
+- [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — a broader claim this one bears on
+- [The two-factor STM/WM structure holds for both younger (8-10) and older (11-13) children](stm-wm-distinction-holds-across-childhood.md) — related

@@ -66,3 +66,4 @@ Design-activity checklist (n=221 respondents, 1076 unique answers). Searching fo
 - [Journal analysis shows heavy GenAI reliance in secondary research and transcription but student autonomy in planning and interpretation of primary research](journals-secondary-research-heavy-genai-primary-autonomy.md) — related
 - [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related
 - [Conversation/discussion (62%) and brainstorming (61%) were the most frequent teaching techniques in the program](folktale-program-technique-frequencies-discussion-brainstorming.md) — related
+- [Students view GenAI use on a spectrum from unethical to ethical, with a vast middle grey area of uses such as paraphrasing AI-generated text or generating ideas](genai-use-ethical-spectrum-grey-area.md) — related

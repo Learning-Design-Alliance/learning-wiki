@@ -59,3 +59,8 @@ Analysis of treatment and test data from a study of 60 Thai EFL learners perform
 
 ## Related Claims
 - [The provision of negative feedback alone did not significantly predict ESL question development in this study](negative-feedback-alone-not-significant-predictor.md) — related
+- [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](pushing-output-drives-input-assimilation.md) — related
+- [Comprehensible input alone is insufficient for acquisition of high levels of grammatical proficiency](comprehensible-input-insufficient-grammar-acquisition.md) — related
+- [Mere exposure to the target language does not automatically lead to native-like communicative competence in adult learners](mere-exposure-insufficient-advanced-l2-communicative-competence.md) — related
+- [Form-focused instruction combined with prompts is more effective than FFI combined with recasts or no feedback, especially on written tasks](ffi-with-prompts-beats-recasts-for-gender.md) — related
+- [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related

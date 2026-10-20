@@ -52,3 +52,5 @@ Partial correlation analysis in the 98-child sample; the sole number sense measu
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related
 - [Kindergarten children's non-symbolic addition performance correlates with end-of-year mathematics achievement, independent of literacy (Experiment 1)](nonsymbolic-addition-predicts-kindergarten-math-exp1.md) — related
+- [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
+- [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related

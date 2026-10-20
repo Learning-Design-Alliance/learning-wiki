@@ -47,3 +47,6 @@ The article describes prior research on the same platform using a between-group 
 - Time-varying confounds (e.g., hiring a tutor, school policy changes) remain an uneliminated threat to the platform's estimated effects — related
 - An earlier pilot implementation of Zearn Math without full implementation support found no significant differences versus comparison students — related
 - [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — related
+- [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
+- [Student-developed specialized modules attract substantial online use and are slated for cMOOC reuse with data-based evaluation](student-modules-online-use-cmooc-reuse.md) — related
+- [Confounding may explain the large retention effects reported for the Course Signals early warning system](course-signals-confounding-number-of-classes.md) — related

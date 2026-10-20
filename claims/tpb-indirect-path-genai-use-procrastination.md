@@ -47,3 +47,5 @@ Moderated indirect association analysis in Mplus for the 1243-student survey; al
 - [Learning GenAI anxiety moderates the intention–procrastination association, which is negative and significant at high anxiety but absent at low anxiety](learning-genai-anxiety-moderates-intention-procrastination.md) — related
 - [Behavioral attitude, subjective norm, perceived behavioral control, and behavioral intention are each negatively associated with GenAI-assisted learning procrastination](tpb-constructs-negatively-associated-genai-procrastination.md) — related
 - [GenAI use is positively associated with attitude, subjective norm, perceived behavioral control, and behavioral intention toward GenAI-assisted learning](genai-use-positively-associated-tpb-constructs.md) — related
+- [The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention](model-variance-explained-galp-bi.md) — related
+- [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related

@@ -46,3 +46,7 @@ Evidence summary of three qualifying first-grade studies with 1,501 students and
 ## Related Claims
 - [K-PALS shows statistically significant positive effects on Rapid Letter Sounds for kindergarten students in all three training-support conditions](pals-k-pals-significant-rapid-letter-sound-gains.md) — related
 - [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — a broader claim this one bears on
+- [For first-grade nonresponders, PALS showed no statistically significant effects on seven alphabetics outcomes compared with adult tutoring](pals-first-grade-alphabetics-indeterminate-versus-adult-tutoring.md) — related
+- [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](pals-potentially-positive-reading-fluency-ld.md) — related
+- [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related
+- [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related

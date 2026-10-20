@@ -44,3 +44,4 @@ The review's own synthesis of 15 peer-reviewed studies of school meditation prog
 
 ## Related Claims
 - [Evidence on meditation and academic achievement is scant: only three published studies, with the strongest from TM programmes on standardised test scores](meditation-academic-achievement-insufficient-evidence.md) — related
+- [Among live-evaluation RL-in-education papers reporting significant differences, a majority reported at least one intermediate (n = 5) or large (n = 6) Cohen's d effect on post-test learning outcomes](rl-education-effect-sizes-intermediate-large.md) — related

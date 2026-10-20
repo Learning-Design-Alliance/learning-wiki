@@ -135,3 +135,6 @@ Cited in the report's introduction as background on turnover: "teachers with lit
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
 - [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — possibly the same claim (merge candidate)
 - [Overall U.S. teacher turnover is about 16% annually, with about 8% leaving the profession and about 8% moving schools](teacher-turnover-16-percent-annual.md) — related
+- [Effective, supportive principals retain teachers, with the largest effects in high-need schools](supportive-principals-retain-teachers.md) — related
+- [There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016](cs-teacher-shortage-75-certified-2016.md) — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related

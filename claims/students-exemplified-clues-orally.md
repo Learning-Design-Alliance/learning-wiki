@@ -46,3 +46,4 @@ Observational finding from the 14-week studio trial with 113 students. The artic
 
 - [Four types of designerly talk manifest in student-managed social network spaces: tool selection, professional identity, skill-sharing coordination, and ethical design discussion](four-types-designerly-talk-sns.md) — related
 - [A course schedule guided by Bloom's Revised Taxonomy is proposed to raise the planned contribution ratings of six program learning outcomes](brt-schedule-raised-plo-degrees.md)
+- [Children express metacognitive knowledge of self by identifying their own mistakes and weaknesses in academic working skills during measurement activities](knowledge-of-self-expressions-young-children-math.md) — related

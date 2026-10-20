@@ -68,3 +68,5 @@ ROI-based decoding with SVM classifiers in 17 hierarchically organized ROIs conf
 ## Related Claims
 - [No univariate activation-level differences between adults with dyscalculia and controls during symbolic or non-symbolic number processing](dyscalculia-no-univariate-activation-differences.md) — related
 - [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
+- [No group difference in the quality of symbolic number representations between adults with dyscalculia and controls](dyscalculia-symbolic-representations-not-impaired.md) — related
+- [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related

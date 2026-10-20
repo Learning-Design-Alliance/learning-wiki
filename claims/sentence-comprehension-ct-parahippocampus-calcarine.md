@@ -46,3 +46,4 @@ Whole-brain vertex-wise regression (n = 21) reported in the Results section. The
 - [The authors hypothesize that brain-reading cortical thickness correlations are positive in early reading acquisition and negative at later, consolidated stages](developmental-sign-flip-ct-reading-correlation-hypothesis.md) — related
 - [The word-reading and comprehension cortical regions are specific to their respective reading level: cross-level correlations were nonsignificant after FDR correction](level-specific-ct-reading-regions.md) — related
 - [In Chinese children aged 10-12, oral word reading efficiency is positively correlated with cortical thickness in the LSTG, LITG, LSMG and RSTG](word-reading-ct-temporoparietal-occipitotemporal-chinese-children.md) — related
+- [For sentence comprehension regions, LPHP thickness is correlated with morphological awareness and RV1 thickness with orthography-semantic mapping](comprehension-regions-morphology-orthosemantic.md) — related

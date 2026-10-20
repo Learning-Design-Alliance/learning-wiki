@@ -65,3 +65,4 @@ Post hoc Conover tests with Holm and Holm-Sidak corrections across all pairwise 
 
 ## Related Claims
 - [GenAI models' grades differ significantly across models, with GPTo1 grading more leniently than Llama2, Mistral7B and Cohere](genai-grade-differences-wilcoxon.md) — possibly the same claim (merge candidate)
+- [The top six models are statistically indistinguishable on overall ELBench score yet differ substantially at the module level, so module profiles are more informative than a single aggregate](top-six-indistinguishable-overall-module-profile.md) — related

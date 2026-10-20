@@ -45,3 +45,4 @@ Site-level results from the Hirschhorn (1993) longitudinal quasi-experiment dive
 ## Related Claims
 - [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with site-level and measure-level inconsistency](multiple-ucsmp-courses-positive-general-math-achievement.md) — possibly the same claim (merge candidate)
 - [Four years of multiple UCSMP courses have potentially positive effects on general mathematics achievement, with a small extent of evidence](multiple-ucsmp-courses-potentially-positive-general-mathematics.md) — related
+- [The WWC rates multiple UCSMP courses as having potentially positive effects on mathematics achievement for secondary students](wwc-rating-multiple-ucsmp-courses-potentially-positive.md) — a broader claim this one bears on

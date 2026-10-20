@@ -49,3 +49,6 @@ Longitudinal study testing Belgian children from Grade 1 till 6 in January and J
 - [Poor mathematics performers are less intrinsically motivated, less metacognitively accurate, and overestimate their performances more often than well-performing peers in all grades](poor-math-performers-overestimate-and-less-motivated.md) — related
 - [Children evaluated their own performance as worse when they were slower in Grades 3 and 4](slower-children-rate-own-performance-worse-grades-3-4.md) — related
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — a broader claim this one bears on
+- [Test performance is the strongest predictor of local and global postdicted judgments after test taking](test-performance-strongest-predictor-postdictions.md) — related
+- [Intrinsic motivation was related to mathematical accuracy but not to fluency in Grade 3](intrinsic-motivation-accuracy-not-fluency-grade-3.md) — related
+- [Mathematical accuracy and fluency have overlapping yet different predictors, supporting attention to both aspects in mathematics teaching](accuracy-and-fluency-different-predictors.md) — related

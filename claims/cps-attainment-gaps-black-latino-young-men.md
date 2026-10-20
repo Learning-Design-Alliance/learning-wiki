@@ -56,3 +56,6 @@ Descriptive subgroup analysis from the 2018 snapshot comparing DAI projections f
 - Black graduates are underrepresented among associate degree earners in 33 of 41 examined states, with only three states at parity for bachelor's degrees — related
 - White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions — related
 - [College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree](cps-2017-completion-disparities-race-gender.md) — related
+- [An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)](cps-bachelors-dai-18-percent-2015.md) — related
+- [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
+- [CPS's Bachelor's Degree Attainment Index rose 7 percentage points, from 11 percent for 2006 ninth-graders to 18 percent for 2016 ninth-graders](cps-bachelors-dai-rose-7-points.md) — related

@@ -60,3 +60,5 @@ Case study of one experienced teacher's enactment episodes (Cherbow, 2022) summa
 ## Related Claims
 - [OpenSciEd materials equitably support student participation and engagement across racial, gender, and linguistic groups, per field-test SEET and teacher-report data](openscied-equitable-participation-engagement.md) — related
 - [Professional learning and other teacher supports are perceived as foundational, addressing root causes of many OpenSciEd practitioner challenges across adoption, enactment, and assessment.](openscied-teacher-supports-foundational.md) — related
+- [Working-group synthesis identified four crosscutting research themes for OpenSciEd](four-themes-openscied-research-agenda.md) — a broader claim this one bears on
+- [OpenSciEd practitioners' highest-priority needs group into six areas: student engagement, classroom culture, assessment, materials adaptation, planning/reflection time, and teacher capacity.](openscied-six-high-priority-need-areas.md) — related

@@ -46,3 +46,5 @@ Item selection analysis of the collected versus selected samples (Tables 2.2 and
 - [Adaptive testing explains why about one third of calibrated Spanish math items carry calibration status 10](adaptive-calibration-yields-status-10-third-of-items.md) — related
 - [Old (English-borrowed) and newly calibrated Spanish item RITs differ negligibly, with correlations of 0.98 and no statistically significant paired t-test differences](spanish-item-rit-calibration-negligible-differences.md) — related
 - [Students' surprise at measurement values was overwhelmingly expressed by identifying an outlier or extreme/unusual value](surprise-responses-identify-outliers.md) — related
+- [Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students](status-10-items-negligible-score-impact.md) — related
+- [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](drift-impact-ability-estimates-negligible.md) — related

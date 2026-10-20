@@ -45,3 +45,4 @@ Six true-or-false instructor-created comprehension questions were administered t
 ## Related Claims
 
 - [Most students reported using the Wordcloud for group discussion, and Wordcloud use showed a marginally non-significant advantage on content comprehension but no difference on vocabulary gain](wordcloud-use-survey-and-outcome-comparison.md)
+- [Group summary scores did not differ significantly between algorithm-formed and randomly formed groups on content, vocabulary, or grammar rubrics](group-summary-scores-no-significant-difference.md) — related

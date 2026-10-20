@@ -67,3 +67,4 @@ Exploratory PROCESS mediation (5000 bootstrap samples): the inventing condition 
 - [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](inventing-group-more-metacognitive-regulation.md) — related
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related
 - [Worked-example preparation deepens subsequent learning via more elaboration during the future-learning phase](worked-example-preparation-more-elaboration-future-learning.md) — related
+- [Exploratory learning is expected to raise metacognitive activity, which in turn increases strategic knowledge and adaptive transfer](exploratory-learning-metacognition-adaptive-transfer-pathway.md) — related

@@ -46,3 +46,4 @@ A final analysis of the same experiment examined recall as a function of rating 
 - [Learners accurately judge that twice-presented items are more likely to be recalled than once-presented items](accurate-jol-repetition-benefit.md) — related
 - [Learners judge massed-presented items as more likely to be recalled than distributed-presented items, although their recall is worse](judgments-overconfidence-massed-items.md) — related
 - [Items rated for recall likelihood are recalled at a higher overall level than nonrated items, though extra effective study time confounds this](rating-boosts-recall-overall-level.md) — related
+- [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](spacing-effect-free-recall-dp-beats-mp.md) — related

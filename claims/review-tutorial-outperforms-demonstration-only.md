@@ -45,3 +45,4 @@ Quasi-experiment comparing a demonstration-only control (n = 27) with a demonstr
 ## Related Claims
 - [DBT-based video tutorials significantly improve procedural knowledge for software tasks from pre-test to practice and post-tests](dbt-video-tutorials-improve-procedural-knowledge.md) — related
 - [Procedural knowledge gained during video training declines significantly from practice to the post-tests](practice-to-posttest-decline-software-video.md) — related
+- [The review tutorial yields higher post-training task relevance than the control, but no condition effect on self-efficacy](review-condition-raises-task-relevance-not-self-efficacy.md) — related

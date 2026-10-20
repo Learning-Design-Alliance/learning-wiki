@@ -45,3 +45,5 @@ The report's introduction states the population scope of the reviewed evidence. 
 - [OLI has mixed effects on academic achievement among postsecondary students](oli-mixed-effects-academic-achievement.md) — related
 - [Only three of twelve identified OLI studies met WWC group design standards](oli-three-of-twelve-studies-meet-wwc-standards.md) — related
 - The OGAP trial population was racially diverse and predominantly low-income, supporting scope to high-poverty urban districts — related
+- [Black/African American and Hispanic/Latino students earned fewer first-year baccalaureate units than White and Asian students in every QR placement category in both cohorts](eo1110-credit-gaps-by-ethnicity-persist.md) — related
+- [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related

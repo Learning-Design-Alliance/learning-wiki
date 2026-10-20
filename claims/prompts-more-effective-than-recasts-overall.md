@@ -53,3 +53,6 @@ Quasi-experimental study of 64 grade 6 intensive ESL learners in three intact cl
 - [Metalinguistic feedback's gains on wh-question performance decline over a ten-day delay while recast gains hold, leaving the two no different](recasts-more-enduring-than-metalinguistic-feedback.md) — related
 - [Explicit metalinguistic feedback outperforms recasts on the delayed oral imitation posttest measuring implicit knowledge](metalinguistic-feedback-beats-recasts-delayed-oral-imitation.md) — related
 - [Explicit metalinguistic feedback outperforms recasts on the delayed grammaticality judgment posttest](metalinguistic-feedback-beats-recasts-delayed-gjt.md) — related
+- [The provision of negative feedback alone did not significantly predict ESL question development in this study](negative-feedback-alone-not-significant-predictor.md) — related
+- [High-proficiency L2 learners benefited equally from prompts and recasts](high-proficiency-learners-benefit-equally-from-both.md) — related
+- [Explicit instruction facilitates the acquisition of L2 grammar](explicit-instruction-facilitates-l2-grammar-acquisition.md) — related

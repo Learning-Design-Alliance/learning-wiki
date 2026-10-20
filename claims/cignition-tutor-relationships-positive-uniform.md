@@ -49,3 +49,5 @@ Survey finding from the RCT using the Copilot-Elevate survey to measure student�
 - [Math tutoring programs may improve students' math confidence and sense of belonging](tutoring-may-improve-math-confidence-and-belonging.md) — related
 - [A portfolio of eight math tutoring programs showed positive and meaningful average effects on student math knowledge, perceptions, and beliefs](middle-years-math-tutoring-portfolio-positive-average-effects.md) — related
 - [Cignition group tutoring produced slightly higher math confidence and enjoyment than control in an RCT](cignition-tutoring-confidence-enjoyment-gains.md) — related
+- [Student math confidence and sense of belonging in tutoring increased modestly during the school year, with site-level variation](blueprint-confidence-belonging-modest-increase.md) — related
+- [Multiple math tutoring approaches, including group and virtual tutoring, can boost students' math knowledge in grades 4–10](group-and-virtual-tutoring-boost-math-knowledge.md) — related

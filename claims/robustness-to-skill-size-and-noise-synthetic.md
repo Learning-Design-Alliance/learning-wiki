@@ -45,3 +45,4 @@ Numerical results shown in Figs. 3 and 4 report win rates (proportion of trials 
 ## Related Claims
 - [On real-world data, the proposed method maintains high win rates as the number of skills increases, performing strongly on ACE and MSE](real-world-win-rate-skill-size.md) — related
 - [The proposed snapshot-based method consistently outperforms baselines on synthetic next-skill prediction across all metrics except accuracy](synthetic-next-skill-prediction-outperforms-baselines.md) — related
+- [On the ASSISTments real-world benchmark, the proposed method achieves the best performance across all metrics, significantly outperforming all baselines](assistments-real-world-best-all-metrics.md) — related

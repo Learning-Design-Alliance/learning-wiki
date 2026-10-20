@@ -61,3 +61,4 @@ Eight weeks is a short horizon for a course-level design, and only 11 of 108 stu
 ## Related Claims
 
 - [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) — the same synthesis, overall effect
+- [Group-based mastery learning improves retention of learned material, with an average effect size of .62 across four studies](mastery-improves-retention.md) — related

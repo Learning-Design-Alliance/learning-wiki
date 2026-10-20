@@ -47,3 +47,4 @@ Figure 3 and the accompanying text report that as discrimination difficulty incr
 - [With increasing n-back task difficulty, reaction times increase and accuracy decreases](nback-difficulty-increases-rt-decreases-accuracy.md) — a broader claim this one bears on
 - [Working memory load degrades discrimination accuracy and slows responses in youth](load-degrades-discrimination-and-slows-responses.md) — related
 - [Item discriminating value as coefficient of variation decreases monotonically as number of correct answers increases, giving a negative difficulty–discrimination relationship](item-discrimination-cv-negative-difficulty-relation.md) — related
+- [Metacognitive sensitivity increases with age between 5 and 8 years, similarly across number and emotion domains](metacognitive-sensitivity-increases-age-5-to-8.md) — related

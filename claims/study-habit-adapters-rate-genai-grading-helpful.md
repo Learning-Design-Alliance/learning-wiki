@@ -66,3 +66,4 @@ Association analysis on the post-final survey; pairwise Mann-Whitney tests with 
 - [Perceived usefulness of AI and intent to continue using it differ significantly across challenge domains, with academic tasks rated most useful](ai-usefulness-differs-across-challenge-domains.md) — related
 - [Design students report low trust in GenAI outputs and systematically modify and verify them, with inaccuracy the main deterrent](low-trust-systematic-verification-genai-outputs.md) — related
 - [GenAI-condition students rated their PBL tutorial significantly higher after the tutorial than they rated their previous ePBLM-based experiences, especially clinical accuracy](genai-virtual-patient-higher-perceived-tutorial-quality.md) — related
+- [Midterm self-efficacy (comfort and confidence) did not differ between conditions after three assignments, though both varied significantly across algorithmic topics](genai-condition-no-self-efficacy-difference.md) — related

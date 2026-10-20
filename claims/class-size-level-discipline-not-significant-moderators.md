@@ -52,3 +52,5 @@ Null moderator results from three-way interaction Bayesian models (SI Appendix, 
 - [Practice points from active-learning exercises did not inflate final grades; exam points remained the primary determinant of course grade](practice-points-did-not-inflate-grades.md) — related
 - [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — a narrower finding that bears on this claim
 - [Writing intervention effects for US ELL students do not vary significantly by study quality indicators, participant characteristics, or intervention characteristics](no-significant-moderators-ell-writing-effects.md) — related
+- [Active learning benefits students in all class sizes, with the greatest effects in classes of 50 or fewer students](active-learning-strongest-small-classes.md) — related
+- [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](orchestration-layer-generalises-knowledge-layer-adapts.md) — related

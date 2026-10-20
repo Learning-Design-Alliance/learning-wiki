@@ -45,3 +45,6 @@ In the same pre-registered experiment, the JOL × age interaction was significan
 ## Related Claims
 
 - [Related word pairs were far better recalled than unrelated pairs, while younger and older adults recalled a similar overall proportion of pairs](relatedness-and-age-main-effects-recall.md)
+- [Exploratory analyses suggest older adults' negative reactivity was specific to unrelated word pairs, with no reactivity for related pairs in either age group](older-adults-negative-reactivity-unrelated-pairs-exploratory.md) — related
+- [JOL reactivity depended on pair relatedness: negative reactivity for unrelated word pairs but no reactivity for related word pairs](jol-reactivity-relatedness-interaction.md) — related
+- [Making judgments of learning produced overall negative reactivity: participants making JOLs recalled fewer word pairs than participants not making JOLs](jol-negative-reactivity-overall.md) — a broader claim this one bears on

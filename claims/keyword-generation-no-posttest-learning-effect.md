@@ -48,3 +48,6 @@ Preliminary ANOVA comparing the three conditions on the 20-item inference postte
 - [Generating delayed keywords does not reduce bias in comprehension judgments](keyword-generation-does-not-reduce-bias.md)
 - [Comparing self-generated keywords with expert keywords increases bias, specifically underconfidence](expert-keyword-comparison-increases-underconfidence.md)
 - [The keyword-quality–JOL correlation increases after comparison with expert keywords, indicating learners exploit keyword quality as a cue only when given external standards](keyword-quality-jol-correlation-increases-with-expert-standards.md)
+- [Test performance differs by cue-prompt condition in Experiment 1, with higher scores in the no-cue condition than the summary condition.](test-performance-higher-no-cue-than-summary-condition.md) — related
+- [Comprehension-test expectancy tended to be more effective than delayed-keywords listing and rereading, though interventions did not substantially differ overall](test-expectancy-tendency-larger-than-keywords-rereading.md) — related
+- [The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).](keyword-quality-not-diagnostic-of-test-performance.md) — related

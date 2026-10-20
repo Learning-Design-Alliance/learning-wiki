@@ -45,3 +45,6 @@ In the conditional process model with prior knowledge as moderator (N = 74), the
 ## Related Claims
 - [Working memory capacity moderated disfluency effects in one study but not another](wmc-moderates-disfluency-mixed.md) — related
 - [Self-explanation quality does not mediate the worked example effect on learning gains in ill-defined statistics problems](no-self-explanation-quality-mediation-worked-example-effect.md) — related
+- [Working memory capacity did not moderate learning gains in PS-I and I-PS, but digit recall correlated with declarative knowledge of the features](working-memory-no-moderation-correlated-declarative.md) — related
+- [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](worked-examples-no-self-explanation-quality-advantage.md) — related
+- [Self-explanation quality correlated with prior knowledge and post-test knowledge but not with learning gains](self-explanation-quality-correlations-null-gain.md) — related

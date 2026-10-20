@@ -51,3 +51,6 @@ Thematic cross-case synthesis of 17 peer-reviewed studies (2022–2025) on teach
 - [Human-AI relationship concerns persist across all CAI generations while academic integrity and data privacy are emerging ethical concerns](cai-ethical-concerns-human-ai-relationship-persistent.md) — related
 - [Educators' use of AI in PBL is accompanied by persistent ethical concerns about data privacy, algorithmic bias, and educator autonomy](ai-pbl-ethical-concerns-privacy-bias-autonomy.md) — related
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
+- [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related
+- [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related
+- [Existing legal and sector guidance each address only part of ethical learning analytics governance, and none integrates all six LEAGUE dimensions](existing-guidance-partial-ethical-coverage.md) — related

@@ -45,3 +45,4 @@ In the same tutor case study, participants were skeptical of difficulty and abil
 ## Related Claims
 - [Effort forecasting is driven by recent engagement activity while progress forecasting depends more on learner-centered signals such as ability, difficulty, and consistency](effort-vs-progress-distinct-feature-drivers.md) — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
+- [Post-study attitudes and self-reports align with annotated behavior patterns: limited-engagement users show rising overreliance concern and less selective AI use](self-reports-align-with-ai-behavior-patterns.md) — related

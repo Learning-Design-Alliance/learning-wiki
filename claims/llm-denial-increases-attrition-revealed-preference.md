@@ -64,3 +64,4 @@ Self-reported resource preferences collected in the same experiment; LLMs were t
 ## Related Claims
 - [LLM-assisted self-study yields higher post-intervention exam performance than traditional resources among early-career knowledge workers](llm-self-study-beats-traditional-resources-exam-performance.md) — related
 - [Preference for LLMs aligns only weakly with AI Interaction Competence, producing enthusiastic-but-unskilled and skilled-but-reluctant subgroups](preference-ability-mismatch-aic.md) — related
+- [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related

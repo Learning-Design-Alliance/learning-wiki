@@ -45,3 +45,4 @@ The authors' interpretive analysis of the EU AI Act's provisions notes that the 
 ## Related Claims
 - [A tension exists across AI policies between ensuring ethical use of AI and promoting economic benefit, with different countries prioritizing different sides](ai-policy-tension-ethics-versus-economic-benefit.md) — a broader claim this one bears on
 - [The EU and China have adopted the most comprehensive AI regulations, each covering four of the five OECD classification dimensions](eu-china-most-comprehensive-ai-regulations-oecd.md) — related
+- [Legal and Regulatory Knowledge is the least represented AIL dimension in existing conceptualizations yet is framed as a core competency given evolving regulation](lrk-underrepresented-core-competency.md) — related

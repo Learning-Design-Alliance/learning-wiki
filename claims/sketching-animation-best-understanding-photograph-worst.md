@@ -49,3 +49,6 @@ Experiment with 120 undergraduates randomly assigned to six conditions reading a
 - [A WestEd research bulletin reports a curriculum revision that replaced a decorative photograph in a math problem with a problem-relevant sketch, on the developers' view that such photographs distract students](decorative-images-distract-from-math-problems.md) — related
 - [Multimedia Principle Improves Learning](multimedia-principle-improves-learning.md) — related
 - [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related
+- [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related
+- [Instructional condition did not significantly affect readers' predictive judgments of understanding](no-condition-effect-predictive-judgments.md) — related
+- [Interest ratings were the only significant predictor of readers' predictive judgments of understanding](interest-predicts-judgments-of-understanding.md) — related

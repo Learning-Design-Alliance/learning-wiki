@@ -61,3 +61,4 @@ The qualitative analysis also found "some students thought voice input served a 
 - [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
 - [Planning-stage AI ideas were often redundant with or rejected in favor of writers' own ideas: idea attribution was 17.8% among users versus 2.9% among non-users, but ownership did not differ between users and non-users within ai plan.](planning-ai-ideas-redundant-unused.md) — related
+- [Students overwhelmingly used text prompting, and prior modality choice did not predict subsequent choice among dual-mode users](text-dominance-modality-choice-independent.md) — related

@@ -66,3 +66,4 @@ PPI analysis of proactive inhibition found an age-by-sex interaction (F(1, 636) 
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](self-regulation-striatal-motor-coupling-reactive.md) — related
 - [Sex-specific subgroup models show the same functional forms for boys and girls, though cubic coefficients for boys were not significant after correction](sex-subgroup-functional-forms-similar.md) — related
 - [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](self-regulation-frontal-activation-proactive-inhibition.md) — related
+- [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](self-regulation-proactive-response-slowing-children.md) — related

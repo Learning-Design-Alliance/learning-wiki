@@ -47,3 +47,5 @@ Cross-sectional online survey of 2145 students at a single Scottish university (
 - [Non-players generally score better than players on graduate attribute measures, though the difference is very small](non-players-score-better-than-players-graduate-attributes.md)
 - [Playing games in a variety of modes (local and online multiplayer; cooperative and team-based) is associated with higher adaptability and communication scores](variety-of-play-modes-higher-adaptability.md)
 - [An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play](game-intervention-gains-all-three-graduate-skills.md) — related
+- [Playing commercial video games for eight weeks improved self-reported communication skill more than control conditions in a randomised trial of undergraduates](video-games-improve-communication-skill-rct.md) — related
+- [Graduate attribute attainment correlates only extremely weakly with years spent at university](weak-correlation-year-of-study-graduate-attributes.md) — related

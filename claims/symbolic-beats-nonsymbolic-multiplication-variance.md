@@ -50,3 +50,4 @@ Two additional hierarchical regressions (N = 63) entered the comparison tasks in
 - [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](phonological-memory-modest-multiplication-contribution.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Snippet selection contributes to integration quality over and above reading fluency and reading comprehension](snippet-selection-predicts-integration-above-reading-skills.md) — related
+- [Inhibition does not uniquely predict arithmetic fact retrieval above numerical magnitude processing](inhibition-no-unique-contribution-fact-retrieval.md) — related

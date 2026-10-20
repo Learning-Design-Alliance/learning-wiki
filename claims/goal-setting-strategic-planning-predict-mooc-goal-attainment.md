@@ -44,3 +44,10 @@ Logistic regression on survey and platform data from 4,831 learners across six M
 
 ## Related Claims
 - [Planning prompts increase payment for certificates in MOOCs by 40%](planning-prompts-increase-certificate-payment.md) — related
+- [Stronger self-reported SRL skills manifest in more revisiting of previously completed course materials, especially assessments](srl-manifests-in-revisiting-assessments.md) — related
+- [Help seeking negatively predicts goal attainment in MOOCs](help-seeking-negative-predictor-mooc-goal-attainment.md) — related
+- [Self-reported SRL strategies vary by individual learner characteristics including demographics, prior experience, and motivations](srl-varies-by-individual-characteristics.md) — related
+- [The content of MOOC students' plans forecasts completion, with time-focused plans predicting lower completion](time-focused-plans-forecast-lower-mooc-completion.md) — related
+- [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](planning-prompts-increase-mooc-completion.md) — related
+- [Elaboration was not correlated with goal attainment in MOOCs](elaboration-not-correlated-goal-attainment.md) — related
+- [Forming implementation intentions (if-then plans) improves goal attainment](implementation-intentions-improve-goal-attainment.md) — related

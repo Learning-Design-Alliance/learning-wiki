@@ -46,3 +46,4 @@ Post-survey demonstration feedback from 60 demo-section respondents, coded with 
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
 - Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
+- [Students who continued feedback conversations with ChatGPT perceived more utility in AI feedback than one-shot users](continued-ai-conversations-linked-to-perceived-utility.md) — related

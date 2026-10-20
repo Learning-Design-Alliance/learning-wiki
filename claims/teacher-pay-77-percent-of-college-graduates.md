@@ -45,3 +45,5 @@ Descriptive wage comparison in the 'Condition of Teaching' section, citing OECD 
 ## Related Claims
 - [Attending a match college raises simulated four-year graduation probability by 13 percentage points for CPS students with access to very selective colleges, but college choice has little impact for students with low qualifications](college-match-benefits-rise-with-qualifications.md) — related
 - [Beginning teachers nationally earn about 20% less than other college graduates, a wage gap widening to 30% by mid-career](teacher-wage-gap-20-percent-widening-to-30.md) — related
+- [Public school teachers earned about 20% less in weekly wages than nonteacher college graduates in 2019](teachers-earn-20-percent-less-weekly-wages-college-graduates.md) — related
+- [Teachers of color earn a smaller share of non-teacher college-graduate wages than teachers overall](teachers-of-color-compensation-gap.md) — related

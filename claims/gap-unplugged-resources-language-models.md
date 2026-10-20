@@ -45,3 +45,4 @@ The author's survey of existing unplugged collections in the introduction, which
 ## Related Claims
 - [Instruction in STEAM AI literacy is predominantly technology-enhanced (82.1% of studies) rather than unplugged (17.9%)](steam-ai-literacy-instruction-technology-enhanced-dominant.md) — related
 - [Existing K-12 computing standards give AI minimal coverage](csta-standards-minimal-ai-coverage.md) — related
+- [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related

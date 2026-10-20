@@ -100,3 +100,5 @@ Undergraduates read educational texts (textbook chapters or a Scientific America
 - [Restudy of an evidence summary alone produces no measurable skill improvement between simulator attempts](restudy-alone-no-skill-improvement.md) — a narrower finding that bears on this claim
 - [Exposure to a video model improves trainee teachers’ skill in using questioning for retrieval by 0.80 SD relative to restudying the evidence summary](video-model-improves-retrieval-questioning-skill.md) — related
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
+- [Learners tend to feel restudying confers more learning than being tested even though the opposite is true, per the review](metacognitive-disconnect-restudy-vs-testing.md) — related
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — related

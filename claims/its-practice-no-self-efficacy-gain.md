@@ -71,3 +71,4 @@ Same RQ2 model (Table 2): baseline self-efficacy was the only significant fixed 
 - [AI-TPACK positively predicts science teaching self-efficacy among Chinese pre-service science teachers](ai-tpack-predicts-science-teaching-self-efficacy.md) — related
 - [The effect of practice condition on learning gains was moderated by a three-way interaction of condition, baseline self-efficacy, and favorability](three-way-interaction-condition-self-efficacy-favorability-learning.md) — related
 - [In Study 1, differences in self-efficacy between the three conditions did not reach significance](chattutor-self-efficacy-null-study1.md) — related
+- [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](lower-baseline-self-efficacy-greater-learning-gains.md) — related

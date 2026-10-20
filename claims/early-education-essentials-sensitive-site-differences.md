@@ -50,3 +50,7 @@ Multilevel modeling of survey data from 81 ECE sites produced site-level essenti
 - [Programs with strong essential supports are more likely to have higher teacher-child interactions and better child attendance than programs with very weak supports](strong-essentials-linked-class-and-attendance.md) — related
 - Site-level essential scores were created by averaging standardized measure scores grouped into essentials, informed by exploratory factor analysis — related
 - [The validation study sample comprised 81 Chicago ECE sites with high teacher and parent survey response rates](early-ed-essentials-validation-sample-81-sites.md) — related
+- [Preschool classrooms in the validation sample scored lowest on Instructional Support relative to Emotional Support and Classroom Organization](ece-sample-instructional-support-lowest-class-domain.md) — related
+- [Site-level pre-k attendance in the validation sample averaged 85.2 percent and varied widely across sites](ece-site-attendance-averaged-85-percent.md) — a narrower finding that bears on this claim
+- [Family voices contributed to differentiating strong and weak organizational conditions across all essentials, not only Involved Families](family-voices-inform-all-essentials.md) — related
+- [Organizing performance measures into outcomes, impacts, and processes provides rich, fair, and diagnostically useful information](grouping-outcomes-impacts-processes-yields-diagnostically-useful-information.md) — related

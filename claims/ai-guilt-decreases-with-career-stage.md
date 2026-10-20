@@ -45,3 +45,6 @@ Career-stage ANOVA in the 109-respondent survey revealed "significant difference
 ## Related Claims
 - [Cluster analysis identifies four tentative moral response profiles: Comfortable Adopters, Guilty Non-Users, Cautious Users, and Morally Distressed Avoiders](four-ai-moral-response-profiles.md) — related
 - [AI-assisted teams comprise more junior authors and fewer senior authors](ai-assisted-teams-more-junior-fewer-senior-authors.md) — related
+- [AI guilt correlates with avoidance and concealment behaviours, most strongly with limiting use due to uneasiness](ai-guilt-correlates-with-avoidance-behaviours.md) — related
+- [Academics who never use AI report higher guilt than users, with significant differences on anticipated remorse and research-writing guilt](ai-non-users-report-higher-guilt-than-users.md) — related
+- [The negative association between AI-assisted writing and team age is strongest among the youngest teams](ai-writing-age-effect-strongest-junior-teams.md) — related

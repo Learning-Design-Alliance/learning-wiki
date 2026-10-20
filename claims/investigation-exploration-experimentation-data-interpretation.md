@@ -46,3 +46,4 @@ The review's analysis identified that Investigation divides into "three sub-phas
 - [The Discussion phase, comprising Reflection and Communication, can occur at any point during inquiry-based learning and connects to all other phases](discussion-phase-occurs-at-any-point.md) — related
 - [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — related
 - [Systematic review identifies five distinct general inquiry phases: Orientation, Conceptualization, Investigation, Conclusion, and Discussion](five-general-inquiry-phases-identified.md) — a broader claim this one bears on
+- [The Conceptualization phase divides into two alternative sub-phases, Questioning and Hypothesis Generation](conceptualization-questioning-hypothesis-subphases.md) — related

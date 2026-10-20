@@ -48,3 +48,4 @@ Replication check of Miller and Geraci (2011): students were divided into four p
 ## Related Claims
 - [Among secondary school students, calibration accuracy is unrelated to confidence in performance estimates across French, Math, and German exams](secondary-students-soj-unrelated-to-calibration.md) — related
 - [Among university students, poorer calibration accuracy is accompanied by lower confidence in the performance estimate, independent of performance level](university-students-soj-tracks-calibration-accuracy.md) — reports the opposite
+- [The four exam-performance quartile groups differed significantly on first-unit exam scores, validating the grouping used for behavioral comparisons](quartile-groups-differ-on-exam-scores.md) — related

@@ -50,3 +50,4 @@ Descriptive comparison of CPS student record files for fall 1999: enrollment in 
 - [Only eight of the 15 regular magnet elementary schools meet the consent decree desegregation standard, after white enrollment declined through the 1990s](half-regular-magnets-fail-desegregation-goals.md) — related
 - [African-American and Asian students are more likely than Latino and white students to live within multiple magnet neighborhood zones](multiple-magnet-zone-access-varies-by-ethnicity.md) — related
 - [Two years after the comprehensive magnet school policy, overall enrollment patterns by student residence had not changed substantially](policy-did-not-change-overall-enrollment-patterns.md) — related
+- [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related

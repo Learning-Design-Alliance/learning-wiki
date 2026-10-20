@@ -45,3 +45,5 @@ Null results from the 24-teacher within-subject questionnaire study: "no signifi
 ## Related Claims
 - [Primary mathematics teachers rate post-generation control significantly higher than pre- and mid-generation control on perceived numerical correctness of generated visuals](post-generation-control-higher-perceived-numerical-correctness.md) — related
 - [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related
+- [Stateful proactive collaboration (L2) yields higher acceptance and lower editing effort than stateless proactive collaboration (L1), with lower acceptance in creative than scientific domains](stateful-proactive-beats-stateless-acceptance-editing.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related

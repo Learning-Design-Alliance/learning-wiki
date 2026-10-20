@@ -43,4 +43,8 @@ The editorial reports, citing Krause-Wichmann et al. (2025), a study of teacher 
 
 
 ## Related Claims
--
+- [Instruction-only students perceived learning control comparably high to example generators, while provided-example students perceived lower control](perceived-control-high-instruction-only-and-generation.md) — possibly the same claim (merge candidate)
+- [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](example-quality-correlates-transfer-control.md) — related
+- [Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers](examples-after-instruction-beat-instruction-only-retention-transfer.md) — related
+- [Generating own examples after instruction produced better retention and transfer than studying provided examples](self-generated-beat-provided-examples-retention-transfer.md) — possibly the same claim (merge candidate)
+- [Perceived learning control enhanced transfer via knowledge retention only for students in the non-generative conditions (provided examples, instruction only), not for example generators](mediation-control-retention-transfer-non-generative-only.md) — a narrower finding that bears on this claim

@@ -44,3 +44,5 @@ System evaluation of agent response sensibility: 284 randomly sampled responses 
 
 ## Related Claims
 - [Qualitative analysis found staged disclosure sometimes withheld inaccurate diagnostic details, but some errors still shaped student revisions](staged-disclosure-diagnostic-error-patterns.md) — related
+- [An agentic AI instructor sustained and deepened student engagement across successive course modules in a field deployment](agentic-instructor-sustained-engagement-iisc.md) — related
+- [A three-week MALA deployment recorded 62 distinct usernames across 128 conversations, with 63% of conversations resolved or partially resolved](mala-deployment-62-users-63-percent-resolved.md) — related

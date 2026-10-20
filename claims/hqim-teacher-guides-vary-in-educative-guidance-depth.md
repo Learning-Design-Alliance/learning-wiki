@@ -45,3 +45,5 @@ The report's curriculum review of Illustrative Mathematics, Carnegie Learning, i
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — a broader claim this one bears on
 - [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
+- [District leaders report that building a shared instructional vision before curriculum adoption lays the foundation for successful IM implementation](shared-vision-before-hqim-adoption-foundation.md) — related
+- [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related

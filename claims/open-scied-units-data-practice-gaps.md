@@ -46,3 +46,4 @@ The review reports, citing Garner (2024), a qualitative content analysis of the 
 - [No significant differences in science learning or attitudes between OpenSciEd and mySci eighth-grade classes in one small comparison](null-open-scied-vs-mysci-eighth-grade.md) — related
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) — related
 - [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](co-design-tools-support-balancing-standards-and-student-interests.md) — related
+- [Student-focused digital literacy frameworks most frequently emphasize five DigComp-aligned element categories, led by information and data literacy](student-frameworks-five-digcomp-aligned-categories.md) — related

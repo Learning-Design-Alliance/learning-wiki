@@ -46,3 +46,4 @@ Cross-sectional regression of physical activity (hours per week, five activities
 - [Higher total literacy is associated with higher global cognition and all five specific cognitive abilities in older adults without dementia](literacy-associated-cognition-older-adults.md) — related
 - [Literacy is associated with functional status in older adults, but after full adjustment total literacy remains associated only with instrumental activities of daily living and mobility disability](literacy-associated-functional-status-older-adults.md) — related
 - [Higher total literacy is associated with more frequent participation in cognitive, physical, and social activities in older adults without dementia](literacy-associated-health-promoting-behaviors-older-adults.md) — related
+- [Financial literacy, but not health literacy, is associated with mental health indices in older adults without dementia](financial-literacy-associated-mental-health-older-adults.md) — related

@@ -65,3 +65,8 @@ One-way ANOVAs on polysomnographic parameters (Table 3, e.g. sleep latency P = 0
 
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
 - [Adolescents trained on a finger-tapping task in the evening show greater off-line gains in tapping speed than afternoon-trained adolescents at both 24 hours and 7 days](evening-encoding-greater-finger-tapping-speed-gains.md)
+- [Adolescents trained on word pairs in the afternoon show higher word-pair retention after 24 hours than evening-trained adolescents, but the difference is not sustained at 7 days](afternoon-encoding-higher-word-pair-retention-24h.md) — related
+- [Learning timing produces Group X Time interactions in both memory systems: declarative consolidation time courses differ between afternoon and evening groups, and finger-tapping speed and accuracy show highly significant Group X Time interactions](group-time-interactions-both-memory-systems.md) — related
+- [Evening-trained adolescents show greater gains in finger-tapping accuracy (reduced error rate) than afternoon-trained adolescents at both retention intervals](evening-encoding-greater-finger-tapping-accuracy-gains.md) — related
+- [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
+- [Weekly average sleep measures show no association with working memory performance in older adolescents](weekly-sleep-no-working-memory-association.md) — related

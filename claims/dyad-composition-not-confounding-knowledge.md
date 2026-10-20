@@ -43,4 +43,7 @@ Third-step model addition in the multilevel analysis of knowledge acquisition. S
 
 
 ## Related Claims
--
+- [All student groups benefited equally in inquiry skills improvement after Web-based collaborative inquiry, with no significant effects of gender, achievement level, or academic track](equal-inquiry-skills-gains-all-groups.md) — related
+- [A Web-based collaborative inquiry project produces significant overall learning gains in science knowledge in secondary classrooms](web-based-collaborative-inquiry-significant-knowledge-gains.md) — related
+- [No significant gender differences in knowledge pretest scores or learning gains after Web-based collaborative inquiry](no-gender-difference-knowledge-web-inquiry.md) — related
+- [Female low achievers from the general track started with the lowest knowledge scores but achieved the highest learning gains in Web-based collaborative inquiry](female-low-achiever-general-track-highest-gain.md) — reports the opposite

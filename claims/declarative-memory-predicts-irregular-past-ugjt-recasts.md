@@ -52,3 +52,5 @@ Multiple regression analyses for the irregular past tense UGJT across the same t
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — a broader claim this one bears on
 - [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related
+- [Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — related
+- [Laboratory and classroom studies assess the effects of recasts and different CF types differentially](lab-and-classroom-studies-cf-effects-recasts.md) — related

@@ -45,3 +45,5 @@ Exploratory analysis for RQ2 in the vignette study (N = 278) collapsed cognitive
 ## Related Claims
 
 - [Comprehension-related problems elicit more cognitive strategies but do not reduce motivational strategy use](comprehension-problems-raise-cognitive-not-cut-motivational.md)
+- [The presence of motivational problems reduces reported strategies at the co- and shared-level but not at the self-level](motivational-problems-reduce-co-and-shared-level-strategies.md) — related
+- [Students reported using the collaboration support mainly for self-regulation of their own contribution rather than for socially shared regulation of the group's participation](support-used-for-self-not-shared-regulation.md) — related

@@ -97,3 +97,4 @@ knowledge was not assessed)."
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — related
 - [Fourth-graders' explanations for differing repeated measurements of one arm span most often focused on the measuring tools and their use](repeated-measurement-variation-explanations-tools.md) — related
+- [Assisting self-explanation prompts particularly foster conceptual knowledge, an effect mediated by self-explanations on the rationale of a principle](assisting-prompts-foster-conceptual-knowledge.md) — related

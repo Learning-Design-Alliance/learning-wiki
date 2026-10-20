@@ -44,3 +44,4 @@ The commentary reports, citing Malmberg et al., that although task types were ex
 
 ## Related Claims
 - [Learning patterns in ill-structured tasks are less strategic than in well-structured tasks, and on-track students apply learning strategies in later phases than off-track students](ill-structured-tasks-less-strategic-patterns.md) — reports the opposite
+- [Elementary school students solving science tasks in gStudy provided in-depth task solutions and adapted to task complexity](gstudy-students-in-depth-solutions-adapt-to-complexity.md) — related

@@ -52,3 +52,4 @@ The report's rationale section attributes this figure to one study it cites, alo
 - [Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments](arizona-graduate-earnings-gap-271040.md) — related
 - [The future lifetime loss from disconnected youth is three times greater than the immediate loss during the youth years](disconnected-youth-future-loss-threefold.md)
 - [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md)
+- [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related

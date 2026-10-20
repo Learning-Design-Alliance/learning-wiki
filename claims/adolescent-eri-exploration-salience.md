@@ -48,3 +48,4 @@ Theoretical synthesis by the Study Group, drawing on prior models (Phinney's ext
 ## Related Claims
 - [Adolescents with achieved ERI status report the highest salience and centrality of ethnicity-race across situations](achieved-eri-status-highest-salience-centrality.md) — related
 - [Ethnic identity tends to follow an increasing trajectory across the middle-school years among ethnic minority youth](ethnic-identity-increasing-trajectory-grades-6-9.md) — related
+- [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related

@@ -48,3 +48,5 @@ Inductive coding of open-ended post-task explanations of the matrix debugging bu
 - [Socratic + No Context produces the highest query volume and Direct + No Context the longest messages](ai-ta-query-volume-and-message-length.md) — related
 - [Students rate the Socratic + Full Context AI TA significantly lowest for perceived support of task completion](socratic-full-context-ai-ta-lowest-task-completion-rating.md) — related
 - [15% of students used an external LLM, with the highest descriptive rate in the Socratic + Full Context condition, mainly citing inadequate guidance](external-llm-use-inadequate-guidance.md) — related
+- [The effect of context awareness on perceived task-completion support depends on the pedagogical guidance style it is paired with](context-effect-depends-on-guidance-style.md) — related
+- [Students rate a Socratic AI chatbot highest for knowledge-based skills (median ≈ 4.0/5) and positively for overall effectiveness (median ≈ 3.4/5) in an introductory mechanics course](socratic-ai-chatbot-survey-ratings-physics-problem-solving.md) — related

@@ -50,3 +50,4 @@ The abstract reports the study's headline result: "after a proctor notification 
 - [Proctor notification when students disengage makes a significant impact on student test engagement](proctor-notification-improves-test-engagement.md) — a broader claim this one bears on
 - [The test platform detects rapid guessing in real time and attempts to re-engage disengaged students to protect score validity](map-growth-real-time-engagement-detection-re-engagement.md) — related
 - [The assessment's engagement feature had a consistently positive impact under both in-person and remote proctoring](engagement-feature-positive-impact-both-proctoring-modes.md) — related
+- [Rapid-guessing behavior on computer-based tests signals disengaged test taking that threatens score validity](rapid-guessing-signals-disengaged-test-taking.md) — related

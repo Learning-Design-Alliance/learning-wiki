@@ -51,3 +51,5 @@ Observational recess data collected alongside accelerometer measurement in the 2
 - [In a randomized controlled trial, children in Playworks schools spent more time in vigorous physical activity at recess than students at non-Playworks schools, and more teachers in Playworks schools reported students engaged in intense recess activity](playworks-rct-more-vigorous-recess-activity.md) — related
 - [Teachers in Playworks schools reported significantly better student behavior at recess and readiness for class](playworks-better-recess-behavior-and-class-readiness.md) — related
 - [British children spend more daily time on videogames while Turkish children spend more on traditional games](cross-cultural-game-time-differences-children.md) — related
+- [Pokémon Go increases physical activity for otherwise sedentary players, but gains do not persist after play ends and do not exceed active non-players](pokemon-go-activity-sedentary-nonpersistent.md) — related
+- [No significant accelerometer-based differences in physical activity were found for boys in Playworks schools compared with control schools](playworks-no-boys-accelerometer-effect.md) — related

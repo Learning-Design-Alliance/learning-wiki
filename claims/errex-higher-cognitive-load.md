@@ -62,4 +62,6 @@ Table 1 entry for van Peppen et al. (2021), an ErrEx vs PS comparison using prac
 
 
 ## Related Claims
--
+- [Erroneous examples show no general learning benefit over correct examples in most comparisons, but outperform them for negative knowledge in some studies](errexs-vs-correx-mixed-benefit.md) — related
+- [Solving practice problems invested less mental effort than contrasting or erroneous examples, contrary to the worked-example-effect hypothesis](practice-problems-lower-mental-effort.md) — related
+- [Erroneous examples were beneficial only in combination with elaborated feedback, not with corrective feedback alone](errex-beneficial-only-with-elaborated-feedback.md) — related

@@ -48,3 +48,8 @@ Moderator analysis across primary (k=4), secondary (k=8), and undergraduate (k=8
 - [The pooled effect of self-regulated learning does not differ significantly by strategy type (cognitive, metacognitive, resource management, motivational)](srl-effect-no-strategy-type-difference.md) — related
 - [The effect of SRL interventions does not differ significantly by course type, SRL strategy type, school level, or learning context](srl-effect-no-significant-moderator-differences.md) — a broader claim this one bears on
 - [Self-regulated learning strategies have a large pooled effect (d = 0.859) on academic achievement across 21 Turkish studies](srl-strategies-large-effect-academic-achievement.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
+- [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — related
+- [Strategy Instruction Improves Academic Performance](strategy-instruction-improves-academic-performance.md) — related
+- [The pooled effect of self-regulated learning does not differ significantly by course type, though mathematics shows the largest descriptive effect](srl-effect-no-course-type-difference.md) — related
+- [Strategy Instruction Improves Learning](strategy-instruction-improves-learning.md) — related

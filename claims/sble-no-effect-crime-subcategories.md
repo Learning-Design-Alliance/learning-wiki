@@ -48,3 +48,6 @@ Null meta-analytic finding from the 27 school-level studies of SBLE. The analysi
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes](sble-student-level-exclusionary-discipline.md) — related
 - [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related
+- [Few Math Corps participants had encounters with the criminal justice system](math-corps-few-criminal-justice-encounters.md) — related
+- [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — related
+- [SBLE presence is associated with higher levels of school crime and behavior incidents, driven by increased exclusionary discipline, in school-level analyses](sble-associated-higher-crime-behavior-school-level.md) — related

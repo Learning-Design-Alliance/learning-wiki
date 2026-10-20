@@ -45,3 +45,4 @@ Conceptual analysis in the article's notes: the authors state that "these defini
 ## Related Claims
 
 - [The evolutionary analogy for a smaller working memory being more efficient is doubtful](doubt-on-smaller-working-memory-efficiency-analogy.md)
+- [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related

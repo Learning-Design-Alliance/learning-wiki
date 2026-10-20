@@ -45,3 +45,4 @@ Study 2 comparison of agent-prompted versus participant-initiated decisions usin
 - [When participants declined to decide and the agent asked again, the resulting commitments were the weakest in the corpus](re-asked-decisions-yield-weakest-commitments.md) — related
 - [Contrary to expectations, agent-led reflection sessions typically ended with participants sounding more certain of their plans than when they started](sessions-ended-more-certain.md) — related
 - [The agent's praise was indiscriminate affirmation: validation followed about half of participant turns regardless of what the participant said](indiscriminate-affirmation-reflection-agent.md) — related
+- [The agent behavior linked to the trial's worse career outcomes was repeated demands to decide: participants pressed most ended most doubtful](decision-demands-linked-to-career-doubt.md) — related

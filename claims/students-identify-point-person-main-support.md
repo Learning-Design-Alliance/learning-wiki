@@ -45,3 +45,4 @@ A student survey reported in the report's discussion section; the article gives 
 ## Related Claims
 - [OUSD's open-access dual enrollment program maintains an 82 percent course pass rate among predominantly first-generation, low-income students and students of color](ousd-open-access-dual-enrollment-high-pass-rates.md) — related
 - [Students from socioeconomically disadvantaged backgrounds fail dual enrollment at higher rates than equally achieving peers, with the gap widening as achievement rises (the readiness illusion)](readiness-illusion-disproportionate-failure-high-achievement.md) — related
+- [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related

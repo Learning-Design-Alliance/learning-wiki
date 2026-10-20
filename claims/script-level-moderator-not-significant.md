@@ -68,3 +68,5 @@ Moderator analysis for collaboration skills across script levels (play d = 0.62,
 - [Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL](cscl-scripts-large-effect-collaboration-skills.md) — related
 - [Measuring outcomes at the individual versus group level did not significantly moderate CSCL script effects](measurement-level-moderator-not-significant.md) — related
 - [The effectiveness of CSCL scripts for domain learning does not significantly depend on the number of different collaborative activities prompted](cscl-effectiveness-independent-of-number-of-activity-prompts.md) — related
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — related
+- [The editorial reports that CSCL scripts show positive effects on domain learning and collaboration process skills, and that scaffolding single versus combinations of collaborative activities affects script impact](cscl-scripts-positive-learning-collaboration-skills.md) — related

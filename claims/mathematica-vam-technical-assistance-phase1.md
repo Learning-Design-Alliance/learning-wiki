@@ -59,3 +59,6 @@ A descriptive statement printed on the publication page for the report, not a te
 - [The Memphis value-added model estimates school effects on student performance while adjusting for mobility, demographics, and measurement error](memphis-model-adjusts-mobility-demographics-measurement-error.md) — related
 - The report examined value-added implementation in seven school districts or states — related
 - [Federal policy requirements drove growth modeling and teacher value-added evaluation under NCLB and RTTP](federal-policy-growth-modeling-requirements-nclb-rttp.md) — related
+- [The Pittsburgh VAMs incorporate course-specific assessments, attendance, and course completion alongside state assessments](pittsburgh-vams-use-multiple-outcome-measures.md) — a narrower finding that bears on this claim
+- [Pittsburgh Public Schools used value-added models to assess educational quality as of the 2014-15 school year](pittsburgh-vam-report-2016-documents-district-use.md) — related
+- [The EDIT was developed iteratively beginning in 2012 under OPRE commissioning](edit-iterative-development-2012-opre.md) — related

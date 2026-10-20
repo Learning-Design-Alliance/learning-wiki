@@ -45,3 +45,4 @@ Authors' interpretation offered to explain the low overlap found between learnin
 ## Related Claims
 - [Student-generated learning issues are not the sole source on which PBL students base self-study decisions](learning-issues-not-sole-source-of-self-study.md) — possibly the same claim (merge candidate)
 - [The scope of PBL implementation shaped discussion quality: hybrid lecture-based implementation reduced uncertainty but yielded less critical discussion than full PBL](scope-of-pbl-implementation-shapes-discussion.md) — related
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related

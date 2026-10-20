@@ -64,3 +64,4 @@ Same Section 6.1.3 analysis of cognitive modeling by problem type, where fill-in
 ## Related Claims
 - [LLMs predict common distractors above chance but fall 15 percentage points below chance at predicting which errors students rarely select](llm-distractor-prediction-asymmetry.md) — related
 - [LLM error simulation rarely fails, but the model is less likely to reproduce a targeted distractor on problems with longer correct solutions](error-simulation-accurate-but-longer-solutions-harder.md) — related
+- [LLMs perform competently at comparing item difficulty but fall below random chance on comparing item discrimination](llms-below-chance-item-discrimination.md) — related

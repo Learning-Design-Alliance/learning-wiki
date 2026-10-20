@@ -47,3 +47,4 @@ Second-hand comparison reported in the review's results section and attributed t
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — related
 - [In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math](dcmp-rct-rutschow-developmental-outcomes.md) — related
 - [In their first year, 65.1% of the 410 students in Quantway and Statway College with Corequisite earned a grade of C or better and college-level math credit in a single term](quantway-statway-corequisite-65-percent-success.md) — related
+- [First-year success rates differed by pathway: 79 percent overall for Quantway College with Corequisite versus 54 percent overall for Statway College with Corequisite](quantway-versus-statway-corequisite-success-rates.md) — related

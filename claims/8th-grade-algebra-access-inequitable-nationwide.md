@@ -50,3 +50,6 @@ The brief's own description states its central finding: access to early Algebra 
 - [A 2026 research brief examines whether taking Algebra in 8th grade instead of 9th grade improves student outcomes](nwea-algebra-placement-8th-vs-9th-grade-outcomes-brief.md) — related
 - [Prior studies find significant course access gaps between ELs and non-ELs](prior-studies-el-non-el-course-access-gaps.md) — a narrower finding that bears on this claim
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
+- [The brief examines how outcomes were affected for students who were or were not ready for 8th-grade Algebra](algebra-outcomes-ready-versus-not-ready-students.md) — related
+- [Chicago's Algebra Initiative raised the 8th-grade algebra pass rate from 4% in 2002 to about 20% by 2017 and closed two-thirds of the NAEP gap](cps-algebra-initiative-gains.md) — related
+- [Using nationwide MAP Growth scores, the brief examines how many students ready for Algebra actually enrolled in it](algebra-ready-students-enrollment-examined-map-growth.md) — related

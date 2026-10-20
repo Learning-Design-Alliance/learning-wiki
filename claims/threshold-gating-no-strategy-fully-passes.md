@@ -45,3 +45,4 @@ Per-cell pass/fail analysis under illustrative default thresholds reported in th
 ## Related Claims
 - [Few-shot anchoring trades surface diversity against construct equivalence and readability parity, with each direction significant at p = 0.004 relative to zero-shot](few-shot-anchoring-three-way-tradeoff.md) — related
 - [Individual model-strategy cells span J = 0.704 to 0.900, a model-by-prompt interaction wider than the tight strategy-level frontier band](varia-model-by-prompt-interaction.md) — related
+- [The verification threshold trades hallucination reduction against over-refusal, with the default tau of 0.20 providing the best balance](eduguard-verifier-threshold-sensitivity.md) — related

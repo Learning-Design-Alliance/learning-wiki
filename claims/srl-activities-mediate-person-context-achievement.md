@@ -43,4 +43,8 @@ Integrative review statement of a shared assumption across SRL models: self-regu
 
 
 ## Related Claims
--
+- [The authors hypothesize that self-regulated learning acts as a mediating factor linking video annotation advantages to acting performance improvement](srl-hypothesized-mediator-video-annotation-acting.md) — a narrower finding that bears on this claim
+- [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — a narrower finding that bears on this claim
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Self-regulated learning moderates the indirect effect of AI use on critical thinking through cognitive load](srl-moderates-indirect-ai-effect.md) — related
+- [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related

@@ -45,3 +45,5 @@ Theoretical argument from the alpha formula: since error variance depends on the
 ## Related Claims
 - [Theoretically defined test reliability computable from a single administration via parallel-half vector lengths and angle exceeds split-half reliability but falls below Cronbach alpha](single-administration-theoretical-reliability-vectors.md) — related
 - [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related
+- [A high Cronbach's alpha across items measuring distinct knowledge aspects indicates the test is not working as intended](high-alpha-indicates-domain-knowledge-test-failure.md) — related
+- [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — a narrower finding that bears on this claim

@@ -48,3 +48,8 @@ Analysis of preference lists submitted by applicants to a DC citywide lottery. T
 - [How school information is presented can affect how parents rank their school choices](school-info-presentation-affects-school-rankings.md) — related
 - [The way school information is presented to parents affects how that information is understood, perceived, and used, according to the study behind the guide](school-info-presentation-affects-parent-understanding.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
+- [Five school-information design factors each showed impacts on parents' knowledge, attitudes, or choice behavior](five-design-factors-impact-parent-school-choice-outcomes.md) — related
+- [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
+- [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
+- [Student demographics affect parents' likelihood of selecting into a school](demographics-affect-school-selection-likelihood.md) — possibly the same claim (merge candidate)
+- [Student demographics affect parents' perceptions of school quality](demographics-affect-perceived-school-quality.md) — related

@@ -50,3 +50,5 @@ Qualitative design-based case analysis of three teacher candidates' weekly writt
 - [Lesson-plan quality grows steadily across three iterative design rounds, but no product reaches the excellent grade](iterative-design-steady-growth-no-excellent.md) — related
 - [External conceptual resources support teachers' pedagogical judgment by affording richer representations and more productive problem frames](external-resources-support-pedagogical-judgment-alignment.md) — related
 - [Research on clinical supervision's effectiveness is inconclusive, partly because practice is diluted and tied to evaluation](clinical-supervision-effectiveness-inconclusive.md) — related
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
+- [Claremont residents develop lesson planning skill through 5 weeks of iterative revision with instructor feedback before clinical placements](iterative-lesson-planning-before-clinical-placement.md) — related

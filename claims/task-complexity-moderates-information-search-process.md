@@ -46,3 +46,6 @@ The author's recent studies introduced the concept of task complexity, developed
 ## Related Claims
 - Existing information retrieval systems fail to support users' constructive process in complex tasks — a narrower finding that bears on this claim
 - Forming a focus, rather than merely gathering information, is the main task in complex information seeking — a broader claim this one bears on
+- [LLMs perform worse on complex, open-ended, or subjective assignments than on short, clearly formulated answers](llm-struggle-open-ended-subjective-tasks.md) — related
+- [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
+- [Five-year-olds struggle with memory-taxing serial motor tasks but perform nearly as well as nine-year-olds when the task is simple](serial-motor-task-complexity-age.md) — related

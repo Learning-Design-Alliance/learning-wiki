@@ -51,3 +51,6 @@ Welch's t-test comparing post-learning knowledge test scores in an 8-day between
 - [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](chatgpt-narrow-starting-queries.md) — related
 - [Recommendation homogeneity does not differ between students using ChatGPT 3.5 and students using Google](llm-recommendation-homogeneity-no-difference.md) — related
 - [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
+- [LearnMate2 improved learning outcomes and user experience compared to a baseline combining an online learning platform and an LLM in a user study (n=16)](learnmate2-final-study-improved-outcomes-experience.md) — related
+- [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related

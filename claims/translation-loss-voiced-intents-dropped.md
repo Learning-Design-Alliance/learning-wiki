@@ -45,3 +45,5 @@ Process-layer translation-loss analysis comparing atomic intentions voiced in th
 ## Related Claims
 - [Originality is almost never invoked in builders' spoken acceptance verdicts, and defects as well as defaults exit the loop by acceptance without verification](shallow-acceptance-originality-rarely-invoked.md) — related
 - [Chat-driven vibe-coding builders converge on a single generate-and-check script whose dominant time cost is dead waiting for the tool](shared-generate-and-check-loop-script.md) — related
+- [Edited voice prompts did not significantly differ from text prompts in first-attempt success](edited-voice-no-significant-difference.md) — related
+- [Students reported mixed, task-dependent perceptions of the efficiency and speed of voice versus text input](mixed-efficiency-speed-perceptions.md) — related

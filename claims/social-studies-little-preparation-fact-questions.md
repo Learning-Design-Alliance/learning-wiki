@@ -46,3 +46,4 @@ Observational timing of 2775 minutes of social studies instruction in the fourth
 - [Across three schools in grades 3-6, two schools gave no time to comprehension instruction and the third gave 4 minutes](grades-3-6-near-zero-comprehension-instruction.md) — related
 - [Noninstruction, transition, and listening to oral reading consumed almost 31 percent of fourth-grade teachers' reading-period time](noninstruction-transition-round-robin-consume-31-percent.md) — related
 - [Comprehension instruction in resource rooms consisted mostly of teacher question-and-answer monitoring rather than explicit comprehension-strategy instruction](comprehension-monitoring-dominates-strategy-instruction-scarce.md) — related
+- [Comprehension assessment questioning dominated over instruction, with only six question-answer sessions classified as instruction](assessment-questioning-dominates-instruction.md) — related

@@ -70,3 +70,5 @@ In the SAT II experiment, lure production on the final cued recall test rose fro
 - [Multiple-choice testing improves later cued recall of prose facts, a benefit that persists though reduced after a one-week delay](mc-testing-prose-cued-recall-benefit.md) — related
 - [Positive and negative testing effects occur for questions tapping higher levels of Bloom's taxonomy, and question level does not change the memorial consequences of testing](testing-effects-bloom-higher-levels.md) — related
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related
+- [Pretesting before instruction enhances learning of subsequently presented material even when pretest answers are wrong, with multiple-choice pretesting more effective than cued-recall pretesting](pretesting-enhances-learning-mc-beats-cued-recall.md) — related
+- [Taking a multiple-choice test boosts performance on later tests compared with nontested control conditions, including with complex SAT II materials](mc-testing-boosts-later-performance.md) — related

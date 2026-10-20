@@ -46,3 +46,4 @@ Exploratory trial-level cumulative link mixed models with random intercepts, dec
 - [Plan quality improves more after LLM-generated adaptive feedback than after high-quality generic guidance](adaptive-feedback-beats-generic-guidance-plan-quality.md) — related
 - [Children perceive LLM-generated adaptive feedback as more helpful and more motivating than generic guidance](children-perceive-llm-feedback-more-helpful-motivating.md) — related
 - [Children's plan quality improves substantially after receiving LLM-generated adaptive feedback](plan-quality-improves-after-llm-adaptive-feedback.md) — related
+- [Children's self-efficacy for planning did not significantly moderate plan quality improvements after feedback](self-efficacy-does-not-moderate-feedback-gains.md) — related

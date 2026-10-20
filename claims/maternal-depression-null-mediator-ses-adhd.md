@@ -43,3 +43,5 @@ In the multiple mediation model testing four mediators simultaneously, maternal 
 ## Related Claims
 - [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — reports the opposite
 - [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — related
+- [Family adversity and lower parental involvement mediate 27.8% of the association between early financial difficulty and ADHD at age 7](adversity-parent-involvement-mediate-financial-difficulty-adhd.md) — related
+- [Perceived financial difficulty in early childhood is the socioeconomic indicator most strongly associated with a research diagnosis of ADHD at age 7](financial-difficulties-strongest-ses-predictor-adhd-age-7.md) — related

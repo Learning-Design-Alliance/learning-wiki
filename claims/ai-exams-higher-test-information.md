@@ -46,3 +46,4 @@ Test information curves computed for every class exam in the field study, shown 
 - [AI-generated exam questions were somewhat easier than standardized-test questions, with average difficulty βAI = −0.45 versus βSTD = 0.35](ai-exam-items-easier-than-standardized.md) — related
 - [AI-generated questions showed slightly higher average discrimination than standardized test questions (αAI = 1.3 vs αSTD = 1.2), with moderate evidence](ai-items-slightly-more-discriminating.md) — related
 - [For all θ < 0.75, AI-generated exams were on average more informative than the standardized exams, with I(0) = 3.36 versus 2.5](ai-exams-informative-below-average-ability.md) — related
+- [A larger share of AI-generated questions were highly or very highly discriminating (36%) compared to standardized test questions (21%)](ai-items-higher-share-high-discrimination.md) — related

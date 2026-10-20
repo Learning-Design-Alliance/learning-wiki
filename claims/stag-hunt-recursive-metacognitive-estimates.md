@@ -44,3 +44,4 @@ The review describes Yoshida et al.'s computational model (as cited) of the stag
 
 ## Related Claims
 - [Many learning algorithms, including neural network training and Q-learning, have recursive forms of the stochastic approximation type](learning-algorithms-stochastic-approximation-recursive-forms.md) — related
+- [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related

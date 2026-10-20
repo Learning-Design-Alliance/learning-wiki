@@ -45,3 +45,4 @@ Ethnographic case study of ten focal student-ornithologists in an after-school b
 
 ## Related Claims
 - [Seven of ten focal students explained they could help the birds by expanding their research efforts on campus and beyond](students-expand-research-efforts-ccs.md) — related
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related

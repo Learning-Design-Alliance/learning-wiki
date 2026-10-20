@@ -45,3 +45,7 @@ SEM Model 2 relating relational and mastery goals to TARGETS practices (χ² = 6
 ## Related Claims
 
 - [The correlation between mastery and relational goals is unusually strong (r = .64) in the Lao sample compared with Western teacher samples](lao-strong-mastery-relational-goal-correlation.md)
+- [Lao teachers endorse relational, mastery, and ability-approach goals at similarly high levels, unlike typical Western patterns](lao-similar-goal-endorsement-levels.md) — related
+- [Mastery goals are associated with task and recognition practices, with recognition shared by both goal types](lao-mastery-goals-task-recognition-shared.md) — related
+- [Classrooms in high-performing CHSRI schools showed positive, mutually respectful student-teacher relationships with emotional and academic support](chsri-positive-student-teacher-relationships.md) — related
+- [Four relational components—positive feedback, rapport, mutual respect, and reciprocal trust—form the relational framework of coaching](four-relational-components-coaching-partnership.md) — related

@@ -43,4 +43,6 @@ Main-effect tests from the 2×2 ANOVA on the immediate posttest; the delayed-pos
 
 
 ## Related Claims
--
+- [Elaboration during a problem-based discussion interacts with relevant prior knowledge on immediate text recall, with the interaction approaching significance at a medium effect size](elaboration-prior-knowledge-interaction-immediate-recall.md) — related
+- [For students without relevant prior knowledge, elaborating during the discussion led to lower recall than not elaborating](elaboration-without-prior-knowledge-harms-recall.md) — related
+- [Elaborating with relevant prior knowledge yielded significantly higher immediate recall than elaborating without relevant prior knowledge](elaboration-with-prior-knowledge-beats-elaboration-without.md) — related

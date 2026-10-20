@@ -45,3 +45,5 @@ External validity regressions in the 171-student sample, controlling parental ed
 ## Related Claims
 - [ANS acuity predicts accuracy of coordinate plane placements and expression evaluation accuracy, but not equation memory, in 9th graders](ans-acuity-predicts-coordinate-plane-and-expression-accuracy-not-equation-memory.md) — related
 - [Frequency of addition fact-retrieval errors predicts poor algebra equation memory but not coordinate plane or expression evaluation performance](retrieval-errors-predict-equation-memory-only.md) — related
+- [Coordinate plane placement accuracy shows no x- versus y-axis difference; quadrant errors are driven by sign transpositions in a small subset of students](coordinate-plane-no-axis-effect-transposition-errors.md) — related
+- [ANS acuity is not related to algebra achievement once covariates are controlled, whereas retrieval errors remain predictive](ans-not-related-to-algebra-achievement-after-covariates.md) — related

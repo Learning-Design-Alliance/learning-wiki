@@ -44,3 +44,6 @@ Two-sample t-tests comparing ENA mean plots across sessions within each conditio
 
 ## Related Claims
 - [Reflecting with the 3D manipulable animation made Session #3 reflective discussions more student-centered than reflecting with video only](3d-animation-reflection-more-student-centered.md) — related
+- [Qualitative analysis of viewpoint-switching scenes indicated the 3D perspective-taking manipulatives bolstered perspective-taking via the nonverbal LED-status representations of students' states](3d-viewpoint-switching-bolsters-nonverbal-perspective-taking.md) — related
+- [Tangible puppetry role-play shifted microteaching discourse from formal planned utterances toward informal student voices, and the shift persisted into a subsequent self-performed role-play](puppetry-shifts-role-play-toward-informal-student-voices.md) — related
+- [Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays](puppets-3d-manipulatives-perspective-taking-transfer.md) — related

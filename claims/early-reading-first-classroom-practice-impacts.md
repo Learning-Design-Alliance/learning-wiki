@@ -44,3 +44,5 @@ The evaluation measured impacts on "the instructional content and practices in p
 
 ## Related Claims
 - [Early Reading First had positive, statistically significant impacts on children's print and letter knowledge](early-reading-first-positive-print-letter-knowledge-impacts.md) — related
+- [Comprehensive teacher induction generated no significant improvements in novice teachers' classroom practices in the first year](comprehensive-induction-no-classroom-practice-gains-first-year.md) — reports the opposite
+- [Teacher coaching programs improve teachers' instructional practice by a pooled 0.49 SD across 43 causal studies](coaching-pooled-instruction-effect-0-49-sd.md) — a broader claim this one bears on

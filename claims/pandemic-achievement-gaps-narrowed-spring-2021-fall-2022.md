@@ -57,3 +57,5 @@ Analysis of MAP Growth reading and mathematics assessment data from 7 million st
 - [Current third-graders showed the largest reading achievement gap and the least rebounding](third-graders-largest-reading-gap-least-rebounding.md) — related
 - [The 2021-22 study investigated whether achievement gains across the 2021-22 school year compared to pre-pandemic trends and whether there were initial signs of rebounding or recovery.](2021-22-gains-compared-to-pre-pandemic-trends-rebound-signs.md) — related
 - Statewide assessment participation was uneven after pandemic pauses, ranging from 97% to 30% in 2021 with five states below 90% in 2022 — related
+- [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](rebounding-across-all-school-poverty-levels.md) — related
+- [NWEA analysis of 2,000 US school districts examined whether persistently high absenteeism was associated with slower math and reading recovery](chronic-absenteeism-slower-recovery-2000-districts.md) — related

@@ -48,3 +48,4 @@ Exploratory factor analysis (maximum likelihood, oblimin rotation, loading cut-o
 - [MAKQ strategy knowledge, but not the self-perception scales, converges with behavioural inhibitory control on the Go-No-Go task](makq-strategy-knowledge-inhibitory-control.md) — related
 - [MAKQ dimensions correlate moderately with each other, with strategy knowledge only weakly related to the self-perception scales](makq-intercorrelations-self-strategy.md) — related
 - [The metacognitive scale yields two factors: Global/Monitoring and Problem Solving](metacognitive-scale-two-factors-global-monitoring-problem-solving.md) — related
+- [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](srl-o-metacognition-single-factor-planning-time-management.md) — related

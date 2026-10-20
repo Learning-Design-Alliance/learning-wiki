@@ -74,3 +74,7 @@ The same multivariate multilevel model showed no significant pre-post change in 
 - [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related
 - [An online PD program using unplugged explainable machine-learning activities increased K–12 educators' AI self-efficacy from below-moderate to above-moderate levels](unplugged-ml-pd-raises-teacher-ai-self-efficacy.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a broader claim this one bears on
+- [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md) — related
+- [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](srl-training-teacher-level-not-student-level-effects.md) — related
+- [No significant difference in motivation for learning science between computer-based and regular-classroom inquiry groups](no-motivation-difference-ibl-environments.md) — related
+- [Students showed significant learning gains on domain knowledge (large effect) and concept maps (medium effect) after a 45-minute SRL-rich learning task](srl-task-learning-gains-domain-concept-maps.md) — related

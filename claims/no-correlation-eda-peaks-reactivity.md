@@ -44,3 +44,5 @@ Null result from the same correlational analysis of 12 students' EDA peaks and c
 
 ## Related Claims
 - [Increased physiological arousal and higher physiological synchrony relate to more monitoring with negative valence](arousal-synchrony-negative-valence-monitoring.md) — related
+- [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — related
+- [Students' monitoring frequency during the collaborative exam was significantly and positively correlated with their number of EDA peaks.](monitoring-frequency-correlates-eda-peaks.md) — related

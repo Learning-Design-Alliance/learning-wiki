@@ -50,3 +50,6 @@ Group comparisons in Table 1 showed the FR group (N = 93) performing below the T
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
 - [Early language and executive skills at age 3–4 predict preschool counting and number knowledge, which mediate their influence on later arithmetic](language-executive-mediate-arithmetic-via-number-skills.md) — related
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](phonological-awareness-not-arithmetic-predictor.md) — related
+- [Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour](fr-li-additive-risk-factors-outcomes.md) — related
+- [Children at family-risk of dyslexia and children with preschool language difficulties experience more environmental and health risks than controls](fr-li-children-more-environmental-health-risks.md) — related
+- [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related

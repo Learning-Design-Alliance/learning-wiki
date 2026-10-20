@@ -44,3 +44,4 @@ Developer observation during functional validation with sample essays. The autho
 
 ## Related Claims
 - [Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem](learner-context-personalizes-ai-tutor-explanations.md) — a broader claim this one bears on
+- [LLaMA shows a persona-conditioned vocabulary collapse for the Roma minority persona, with TTR falling 0.018 points below its own cross-persona mean](llama-ttr-collapse-roma-persona.md) — related

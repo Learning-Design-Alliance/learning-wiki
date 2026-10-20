@@ -49,3 +49,5 @@ Strukelj et al. (as summarized in this commentary) identify the definitional pro
 - [Disfluency shows no negative effects on learning; the common-sense hypothesis that it harms learning can be rejected](disfluency-no-negative-effects.md)
 - [Whether a difficulty benefits memory depends on whether it exercises processes not already supported by the material (material-appropriate processing)](material-appropriate-processing-difficulty-fit.md)
 - [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related
+- [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — related
+- [Eye tracking shows fluency does not affect recall but learners spend more time on later sentences of degraded text](eye-tracking-degraded-text-later-sentences.md) — a narrower finding that bears on this claim

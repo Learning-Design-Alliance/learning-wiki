@@ -46,3 +46,5 @@ Keystroke-log analysis across the two web-based deployments (Breached! and Touch
 - [Student DP performance differed significantly across the three course deployments, with the paper-based DT3 exam scoring lowest, likely due to administration mode](dp-performance-varies-by-administration-mode.md) — related
 - [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — related
 - [SRL writing-stage clusters differed in production and revision but not in pausing](srl-writing-clusters-production-revision.md) — related
+- [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
+- [Process measures distinguish how text was entered: classroom writers revised most, left the editor often, and wrote actively for 77% of the session](process-view-reflects-how-text-was-entered.md) — related

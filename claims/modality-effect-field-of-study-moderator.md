@@ -47,3 +47,4 @@ Holm-adjusted Bonferroni pairwise comparisons between broad fields of study in t
 
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — the general claim this finding bears on, with the studies behind it
 - [Social science students report higher job finding anxiety and AI anxiety than natural and applied field students, with small effect sizes](social-science-students-higher-job-finding-anxiety.md) — related
+- [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related

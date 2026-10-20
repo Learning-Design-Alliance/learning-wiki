@@ -48,3 +48,4 @@ Qualitative findings from teacher interviews in the Topeka study. Partner teache
 - [Partner-positioned teachers built students' AI literacy, while assistant and substitute teachers' transparency centered on gaming scores](partner-positioning-builds-student-ai-literacy.md) — related
 - [Among 24 Topeka teachers, half positioned the AI as a teaching partner, 29% as a grading assistant, and 21% as a substitute teacher](teacher-positioning-distribution-topeka.md) — related
 - [Teachers at convenings said the three AI approaches are fluid rather than static, with movement across approaches as experience grows](ai-positioning-approaches-are-fluid.md) — related
+- [Awareness of how learners' conceptual representations deviate from native-speaker preferences can help teachers decide where to focus classroom attention, promoting conceptual fluency](conceptual-deviation-awareness-guides-teacher-attention.md) — related

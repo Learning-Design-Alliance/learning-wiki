@@ -49,3 +49,6 @@ Analysis of hyperparameter sensitivity for Code-DKT and ECKT (Section 3.3) on Co
 - DynEmb's response-prediction AUC is stable over a wide range of question-embedding dimensionalities — reports the opposite
 - OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — reports the opposite
 - DKT's input/output representation significantly affects performance, with KC inputs and item outputs working best on most datasets — related
+- [There is no universal optimal injection position for the collaborative prior; effectiveness is an architecture-sensitive design choice](injection-strategy-architecture-sensitive.md) — a narrower finding that bears on this claim
+- [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
+- [Diagnostic model performance remains relatively stable across moderate hyperparameter ranges, with 8 attention heads and a 512 hidden dimension yielding optimal results](hyperparameter-stability-oral-diagnostic-model.md) — related

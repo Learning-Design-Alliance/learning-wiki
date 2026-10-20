@@ -49,3 +49,4 @@ The article's own summary of its RQ2 qualitative findings, drawn from semi-struc
 - [LLM-based assessment can replace similarity-based methods because it needs no ground-truth response and no correctness threshold](llm-assessment-needs-no-ground-truth-or-threshold.md) — related
 - [Immersive learning tools should surface misconceptions and track learner difficulties so instructors can adapt teaching and assessment](tools-should-surface-misconceptions-track-difficulties.md) — a broader claim this one bears on
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
+- [Pedagogically scaffolded generative AI in design thinking education augments rather than replaces human judgment](genai-scaffolded-augments-human-judgment-design-thinking.md) — related

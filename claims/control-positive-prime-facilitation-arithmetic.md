@@ -44,3 +44,6 @@ Same priming experiment, control group planned comparisons. Positive primes faci
 
 ## Related Claims
 - [Negative priming effects are generally larger in mathematics than in language or science, particularly in arithmetic tasks](np-effects-larger-mathematics-arithmetic.md) — related
+- [Children with developmental dyscalculia respond faster to simple arithmetic targets after negative than positive affective primes, across all four arithmetic operations](dd-negative-prime-facilitation-arithmetic.md) — reports the opposite
+- [Math-related word primes facilitate arithmetic processing in children with DD but inhibit it in typically-developing controls](math-primes-facilitate-dd-inhibit-controls.md) — related
+- [A significant three-way interaction of group, prime type and arithmetic operation governs arithmetic-affective priming, with DD children slower overall than controls](group-prime-operation-interaction-rt.md) — related

@@ -45,3 +45,9 @@ The review's argument that perseverance and academic behaviors can be outcomes o
 ## Related Claims
 - [The review reports that equally qualified Chicago graduates' college persistence differed systematically depending on the institutional graduation rates of the colleges they attended](college-persistence-varies-by-institution-graduation-rate.md) — a narrower finding that bears on this claim
 - [Identical representational designs produced wide individual variation in what felt helpful versus overwhelming (representational fit)](representational-fit-individual-variation.md) — a narrower finding that bears on this claim
+- [Ninth grade GPAs are the single most predictive indicator of high school graduation, college enrollment, and degree completion for all English Learner groups](gpa-most-predictive-attainment-english-learners.md) — related
+- [Combining GPA or course failure rates with attendance provides the best prediction of high school graduation for most EL groups, while GPA plus test scores best predicts college degree attainment](indicator-combinations-best-prediction-el.md) — related
+- [Dual enrollment classes taken on college campuses increase students' likelihood of attending college and earning a bachelor's degree](college-campus-dual-enrollment-boosts-college-and-ba-attainment.md) — related
+- [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
+- [Dual enrollment college algebra near the cut-off was associated with a 23 percent higher likelihood of earning a college degree](dual-enrollment-college-algebra-23-percent-degree-attainment.md) — related
+- [GPA combined with test scores was the best prediction of college degree attainment for all English Learner groups, but the test-score relationship partly reflects school composition](gpa-test-scores-best-college-degree-prediction-el.md) — related

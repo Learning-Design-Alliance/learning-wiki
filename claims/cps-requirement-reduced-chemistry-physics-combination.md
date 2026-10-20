@@ -44,3 +44,7 @@ Cohort comparison of graduate transcripts, adjusted and unadjusted; taking both 
 
 ## Related Claims
 - [Earth and environmental science courses showed lower engagement, academic demand, clarity, and inquiry-based pedagogy than biology, chemistry, and physics](earth-environmental-science-lower-instructional-quality.md) — related
+- [Chicago's 1997 three-year college-preparatory science graduation requirement more than doubled the percentage of graduates completing three or more years of science](cps-1997-science-requirement-increased-course-completion.md) — related
+- [Dropout rates at age 17 remained at prepolicy levels for the first two cohorts through the promotion gate, then declined to 25 percent with the fourth cohort](chicago-gate-dropout-rates-flat-then-declined.md) — related
+- [Later cohorts fell off schedule for graduation at earlier ages, but the percentage off schedule by age 16 changed very little](off-schedule-earlier-but-stable-by-age-16.md) — related
+- [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related

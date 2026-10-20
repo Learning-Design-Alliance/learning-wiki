@@ -63,3 +63,4 @@ The trial was conducted in a rural eastern Colorado elementary school where 61% 
 ## Related Claims
 - Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well — related
 - Instructional assistants can deliver most Tier 2 small-group reading instruction under the ECRI model — related
+- [The evidence base for Read Well® with English language learners is small, resting on one randomized controlled trial of 34 students in one school](read-well-ell-evidence-base-small-one-rct.md) — possibly the same claim (merge candidate)

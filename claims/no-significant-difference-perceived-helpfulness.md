@@ -47,3 +47,4 @@ Likert-scale helpfulness ratings (1 = Strongly Disagree to 5 = Strongly Agree), 
 - [MCQ accuracy was high (above 87%) across all conditions with no significant difference between diverse and generic explanations](mcq-accuracy-no-significant-condition-difference.md) — related
 - [Students reported similar perceived information quantity across conditions, indicating diverse explanations did not produce perceived information overload](diverse-explanations-no-perceived-information-overload.md) — related
 - [AI TA condition shows no statistically significant differences in perceived task-comprehension support, correctness, or interaction stress](ai-ta-condition-no-effect-other-perceptions.md) — related
+- [Residual analysis of perception themes showed DD students more likely to report Engaged Understanding and less likely to report Overload/Frustration, though chi-square tests were not significant](engaged-understanding-residuals-diverse-explanations.md) — related

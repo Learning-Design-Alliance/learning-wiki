@@ -49,3 +49,4 @@ Conclusion drawn in the report's Conclusion and Discussion section from the full
 - [13%–15% of MAP Growth items per subject were flagged as significantly drifted by the Robust Z procedure, with no clear pattern among flagged items](map-growth-robust-z-flags-13-15-percent-items.md) — related
 - [The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms](map-growth-scale-stable-2020-norms.md) — possibly the same claim (merge candidate)
 - [Robust Z procedure flagged between 4.2% and 6.9% of MAP Growth items as unstable across subjects](robust-z-flagged-items-percentage.md) — possibly the same claim (merge candidate)
+- [Students encountered substantial numbers of items with changed parameter estimates, averaging 11–38% of test length by subject](drifted-items-encountered-per-test.md) — related

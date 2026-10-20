@@ -56,3 +56,5 @@ The report's review of 18 studies found that one quasi-experimental study met st
 - Of 130 studies of school-based OST programs reviewed, 22 studies of 18 different programs met WWC standards or met them with reservations — a narrower finding that bears on this claim
 - [The effects of ITSS are not known for adolescent literacy outcomes other than comprehension](itss-effects-unknown-other-outcomes.md) — related
 - The evidence base for first year experience courses consists only of quasi-experimental studies meeting WWC group design standards with reservations — related
+- [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — related
+- [The evidence base for Reading Mastery with adolescent learners is small: only 2 of 175 reviewed studies met WWC evidence standards](reading-mastery-small-evidence-base-adolescents.md) — a narrower finding that bears on this claim

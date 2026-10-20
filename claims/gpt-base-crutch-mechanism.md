@@ -67,3 +67,7 @@ NLP clustering of student messages with the tutors, shown in Fig. 3 and SI Appen
 - [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — related
 - [Greater answer offloading during learning is associated with lower subsequent unaided performance (exploratory)](answer-offloading-associated-lower-unaided-performance-exploratory.md) — related
+- [Unfettered GPT-4 access during practice harms subsequent unassisted exam performance in high school mathematics](gpt-base-harms-unassisted-exam-performance.md) — related
+- [Among GPT-assisted students, proactive and critical engagement patterns are associated with higher exam scores while limited engagement shows little benefit relative to control](proactive-critical-ai-engagement-higher-exam-scores.md) — related
+- [Access to a standard GPT-4 chat tutor during practice substantially improves practice performance in high school mathematics](gpt-base-improves-assisted-practice-performance.md) — related
+- [A guardrailed GPT-4 tutor with teacher-designed hints improves assisted practice performance more than a standard GPT-4 interface](gpt-tutor-improves-practice-more-than-gpt-base.md) — related

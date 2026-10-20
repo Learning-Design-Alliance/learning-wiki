@@ -66,3 +66,6 @@ The report attributes this figure to a Tyton Partners report, not to its own stu
 - [Large shares of students faced technology problems serious enough to impede course participation: 44 percent internet connectivity and 23 percent hardware/software issues](remote-covid-technology-access-problems-widespread.md) — related
 - About 70 percent of teachers use the internet weekly for lesson preparation, but only 45 to 50 percent use software in instruction or expect weekly student use — related
 - [Infrastructure and access constraints were reported in 18 of 54 studies (33%) as the second higher-order technical limitation category](infrastructure-access-constraints-ai-efl.md) — related
+- [Infrastructure barriers — limited internet speed, connectivity problems and lack of technical support — hinder effective AI use in nursing education institutions](infrastructure-barriers-ai-use-nursing-education.md) — related
+- [Users successfully localized the hard-to-use mobile text messaging technology into their daily lives despite poor developer localization](users-localize-hard-to-use-text-messaging.md) — related
+- [Participants who accessed the report card site with mobile devices had more difficulty using it](mobile-access-increases-report-card-difficulty.md) — a narrower finding that bears on this claim

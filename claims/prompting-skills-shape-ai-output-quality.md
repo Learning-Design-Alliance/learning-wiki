@@ -51,3 +51,5 @@ Qualitative interview finding; a faculty participant stated "having the skill to
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
 - [Prompt-writing ability is a new feedback-eliciting capacity that shapes GenAI feedback engagement](prompt-writing-new-feedback-literacy-capacity.md) — a narrower finding that bears on this claim
 - [Higher-quality prompt engineering skills predict the quality of LLM output in goal-directed use of generative AI tools](prompt-engineering-skill-predicts-llm-output-quality.md) — possibly the same claim (merge candidate)
+- [Certain aspects of AI literacy play a role in higher-quality prompt engineering by non-expert students](ai-literacy-aspects-support-prompt-engineering.md) — related
+- [Teacher-AI design collaboration faces recurring challenges including prompt literacy, curriculum misalignment, epistemic uncertainty, and explainability barriers](teacher-ai-codesign-challenges-prompt-literacy-alignment-trust.md) — related

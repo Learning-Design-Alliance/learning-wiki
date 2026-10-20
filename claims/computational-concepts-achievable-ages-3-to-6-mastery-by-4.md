@@ -43,3 +43,4 @@ Observational analysis of 15 months of game learning analytics from a voluntary 
 ## Related Claims
 - [Game learning analytics showed significant age and gender differences in interests, skills, achievement, and progression through attempts](age-gender-differences-interests-skills-achievement.md) — related
 - [Persistence behaviors in the face of challenge differed significantly by age and gender](persistence-differs-by-age-and-gender.md) — related
+- [Brilliance cues reduce stigmatized students' interest and intrinsic motivation, with effects emerging by age 6–7 and persisting into adulthood](brilliance-cues-reduce-intrinsic-motivation.md) — related

@@ -45,3 +45,6 @@ Meta-analysis of the group-design sample (4 studies, 422 participants, 11 behavi
 ## Related Claims
 - [Facing History and Ourselves shows no discernible effects on student behavior, with self-reported fighting differences neither statistically significant nor substantively important](fhao-no-discernible-effects-behavior.md) — related
 - [CW-FIT substantially increases teacher praise statements but shows no statistically significant effect on some reprimand measures](cw-fit-increases-teacher-praise-not-reprimands.md) — related
+- [School-based self-management interventions significantly and positively impact classroom behaviors of school-age students with challenging behaviors (single-case design synthesis)](sm-interventions-improve-classroom-behaviors-scd-meta.md) — related
+- [In time-series field studies of behavior modification, all 17 quasi-d feedback effects were positive with a mean quasi-d of 1.69](fi-time-series-field-studies-all-positive.md) — related
+- [Self-management interventions significantly and positively impact academic outcomes (achievement and work completion) in single-case design studies](sm-interventions-improve-academic-outcomes-scd.md) — related

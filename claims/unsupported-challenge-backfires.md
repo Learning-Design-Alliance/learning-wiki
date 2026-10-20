@@ -56,3 +56,4 @@ The review reports, citing Sporte, Hart, & Wechsler (2009) and Allensworth et al
 - Teachers report that disruptive behaviors of students in foster care are easily misinterpreted and that purely disciplinary responses can make things worse — related
 - [Teachers treat resilience under challenge as a teachable skill that current routines and dashboards do little to support](resilience-teachable-skill-unsupported.md) — a narrower finding that bears on this claim
 - [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related
+- [Case analysis shows regulation strategies did not always align with the challenges faced, leading to recurring difficulties within the group](regulation-misalignment-recurring-group-difficulties.md) — related

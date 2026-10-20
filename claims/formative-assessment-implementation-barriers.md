@@ -61,3 +61,9 @@ Narrative review of implementation barriers: the article reports, citing Vingsle
 ## Related Claims
 - [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](peer-assessment-improves-performance.md) — related
 - [Teachers used Forms results to differentiate instruction, including forming working groups and modifying assessments for IEP accommodations](forms-differentiated-instruction-uses.md) — a narrower finding that bears on this claim
+- [Educators see AI as having potential to increase capacity for high-quality formative assessment, which is an operational challenge at scale](ai-formative-assessment-capacity-demand.md) — related
+- [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related
+- [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
+- [Teachers viewed district pacing calendars and standardized assessments as impediments when they pressured rushing through material regardless of mastery](pacing-calendars-standardized-assessments-impediments.md) — related
+- [Automated formative assessment and feedback with AI agents ranks second-highest in impact with moderate perceived challenge](automated-ai-assessment-high-impact-moderate-challenge.md) — related
+- [Teachers use Microsoft Forms for real-time formative assessment to make in-the-moment instructional adjustments](forms-realtime-formative-assessment-uses.md) — related

@@ -47,3 +47,5 @@ Key findings of the evaluation report a positive attendance impact for 2021-22, 
 - [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — a broader claim this one bears on
 - [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — related
 - [In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension](kauffman-school-2021-22-suspensions-12-points-higher.md) — related
+- [The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City](kauffman-suspension-rate-substantially-higher.md) — related
+- [Kauffman students were less likely to be suspended than other similar students in Kansas City](kauffman-students-less-likely-suspended.md) — related

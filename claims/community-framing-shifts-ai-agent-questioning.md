@@ -45,3 +45,4 @@ Cross-community comparison of discourse patterns across topical submolts found "
 ## Related Claims
 - [AI agent comment patterns include validation (22%) at rates comparable to human peer learning communities, with validation-before-extension sequences structurally resembling collaborative knowledge building](ai-agent-validation-rate-within-human-range.md) — related
 - [AI agent discourse shows extreme statement bias (11.4:1 statements to questions), far exceeding human community baselines, though questions receive higher upvotes](ai-agents-statement-bias-11-to-1.md) — related
+- [Procedural skill-sharing posts receive significantly higher engagement than conceptual or other posts in an AI agent community](procedural-posts-higher-engagement-ai-agents.md) — related

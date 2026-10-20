@@ -50,3 +50,4 @@ Key finding from the report's simulation of predictive accuracy using Pennsylvan
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
 - [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related
 - [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related
+- [Principals are essential to student achievement, with principals' effects almost as large as teachers' effects](principals-essential-student-achievement-effects-near-teacher-size.md) — related

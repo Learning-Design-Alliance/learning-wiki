@@ -54,3 +54,4 @@ Descriptive CHKS tabulations of school safety measures by gender identity and sc
 - Victims of any crime, theft, and violence reported fearing attack or harm at school at higher rates than nonvictims — related
 - [Bisexual students in every race/ethnicity group report chronic sadness at more than twice the rate of straight students](bisexual-students-chronic-sadness-double-straight.md) — related
 - [Transgender students across all race/ethnicity groups report suicide ideation at 45–57%, versus no more than 20% of non-transgender students](transgender-students-suicide-ideation-45-57-percent.md) — related
+- [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related

@@ -45,3 +45,4 @@ The report states as a scope limitation that "Findings from two states and three
 ## Related Claims
 - [The report explicitly discusses limitations of the Oklahoma value-added model](oklahoma-value-added-model-limitations-discussed.md) — related
 - The case study cannot distinguish which program elements caused the positive impacts — related
+- [None of the WWC-standards-meeting studies of Tier 2 literacy interventions were conducted in CNMI or other Pacific islands, limiting generalizability](no-tier2-literacy-studies-conducted-in-cnmi.md) — a broader claim this one bears on

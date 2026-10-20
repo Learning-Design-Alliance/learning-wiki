@@ -53,3 +53,5 @@ Platform usage tracking in the crossover RCT measured AI-group time on task, sho
 - [Engage-to-Unlock participants completed passage evaluation faster and with higher accuracy-per-time efficiency than both AI-access comparison conditions](engage-to-unlock-faster-more-efficient-evaluation.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
 - [University students remain highly on-task throughout 70-minute lectures, refuting the 15–20 minute attention-span myth](rosengrant-vigilance-no-15-minute-decline.md) — related
+- [A carefully engineered AI tutor produced more than twice the learning of a strong active-learning class, in less time (Kestin et al., 2025, as reported)](engineered-ai-tutor-doubled-learning-vs-active-learning.md) — a broader claim this one bears on
+- [An intelligent reading tutor used 20 minutes a day offered time efficiencies over conventional human tutoring of 30 or more minutes a day](intelligent-reading-tutor-time-efficiency-over-human-tutoring.md) — related

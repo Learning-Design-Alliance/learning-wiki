@@ -46,3 +46,5 @@ Theoretical argument in this commentary: browser spell-checking, cloud-based mal
 - [Researchers may need to treat all remotely collected data as potentially identifiable personal data](treat-remote-data-as-potentially-identifiable.md) — a broader claim this one bears on
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
 - [Universities converge on privacy-oriented data guardrails, warning against entering sensitive data into consumer AI tools and encouraging institutionally approved services](genai-privacy-data-guardrails-convergence.md) — related
+- [PGR students strongly opposed uploading human-participant or sensitive qualitative data to GenAI platforms or using GenAI to interpret such data](opposition-genai-human-centred-research-data.md) — related
+- [Privacy protection in the framework is partial: three residual leakage channels remain open](partial-privacy-three-residual-leakage-channels.md) — related

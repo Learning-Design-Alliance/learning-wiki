@@ -45,3 +45,4 @@ Findings from interviews and lesson observations with four musicians with BLV an
 
 - [Musicians with BLV detect bow drift only after tone deteriorates and adopt tension-increasing over-gripping as a protective strategy during self-practice](blv-bow-drift-late-detection-over-gripping.md) — related
 - [Strong guidance and repetition may be needed to discover what cannot be told (Trninic's martial arts case)](repetition-guided-discovery-martial-arts-case.md)
+- [Score-access barriers push musicians with BLV toward memorization and listening-based learning, and accessible notation tools miss performance-critical details](blv-score-access-memorization-default.md) — related

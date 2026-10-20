@@ -44,3 +44,5 @@ HLM analysis of school poverty rate as a predictor of growth in three-level hier
 
 ## Related Claims
 - [Most high-achieving middle schoolers were on track for college readiness, but students in wealthy schools were more often on track than those in poor schools](college-readiness-gaps-high-achievers-poverty.md) — related
+- [Sixty percent of the highest-poverty schools also have above-average student growth](sixty-percent-high-poverty-schools-above-average-growth.md) — related
+- [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](school-growth-variance-exceeds-poverty-effect.md) — related

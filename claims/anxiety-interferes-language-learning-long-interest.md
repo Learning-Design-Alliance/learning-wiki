@@ -43,4 +43,4 @@ Opening statement of the article's extract framing the field's long-standing int
 
 
 ## Related Claims
--
+- [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.36 across 216 effect sizes](l2-anxiety-negative-correlation-achievement-meta-analysis.md) — a narrower finding that bears on this claim

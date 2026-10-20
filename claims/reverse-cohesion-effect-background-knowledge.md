@@ -66,3 +66,5 @@ Review reports the reverse cohesion effect for high-knowledge readers, who proce
 - [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related
 - [Passage cohesion showed no effect on delayed recall; means showed greater recall from less cohesive passages](cohesion-no-effect-delayed-recall.md) — reports the opposite
 - [Prior biology knowledge tentatively moderates material effectiveness: non-STEM students favor narratives, STEM students favor expository texts for recall and understanding](prior-knowledge-moderates-narrative-effectiveness.md)
+- [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
+- [Learning mechanisms are triggered to a greater extent for non-STEM-background students in the narrative condition and for STEM-background students in the expository condition](learning-mechanisms-moderated-by-educational-background.md) — related

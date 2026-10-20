@@ -48,3 +48,5 @@ One of five systemic learning considerations NCSI lists for effective planning. 
 - [During COVID-19 school disruptions, schools can take steps to ensure students continue to progress academically whether at home or at school](covid-continuity-of-learning-steps.md) — related
 - [IEP processes should be followed to ensure students' due process protections, including amendment, revision, and new data informing present levels](iep-processes-due-process-protections.md) — related
 - [Feedback Answers Three Questions](feedback-answers-three-questions-improves-learning.md) — related
+- [Differentiating special education funding by disability, disability category, or student need can lead to improved outcomes for students with disabilities, and IEP-progress metrics offer a new adequacy-study measure](differentiated-special-education-funding-improves-outcomes.md) — related
+- [Compensatory education services are additional services to make up for progress or skills lost due to a lapse in services, and are conceptually distinct from recovery services](compensatory-education-distinct-from-recovery-services.md) — related

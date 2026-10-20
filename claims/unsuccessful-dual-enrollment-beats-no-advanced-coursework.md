@@ -50,3 +50,4 @@ Comparative analysis matching dual enrollment non-passers who took no AP or IB a
 - [Passing the college algebra placement test near the cut-off and enrolling in dual enrollment college algebra was associated with a 16 percent higher likelihood of going to college](dual-enrollment-college-algebra-16-percent-college-enrollment.md) — related
 - Automatic (opt-out) enrollment policies increase enrollment and success of students of color and low-income students in advanced courses, per research the brief cites — related
 - Students who take college-level courses in high school are more likely to graduate, go on to college, and earn a degree — a broader claim this one bears on
+- [Advanced Placement and dual enrollment participation have similarly positive impacts on student success](ap-and-dual-enrollment-similarly-positive-impacts.md) — related

@@ -47,3 +47,5 @@ The review's synthesis of the 11 studies reports that "FFI involving extensive i
 - [The success of form-focused instruction in building implicit knowledge depends on the choice of target structure and the extent of the instruction](ffi-success-moderators-structure-and-extent.md) — a broader claim this one bears on
 - [Form-focused instruction can contribute to the acquisition of second language implicit knowledge, as shown in studies measuring learners' free production](ffi-contributes-to-implicit-l2-knowledge.md) — a broader claim this one bears on
 - [Noninstructional cognitive-behavioral and behavioral methods programs are also effective](noninstructional-cognitive-behavioral-programs-effective.md) — related
+- [Explicit L2 grammar instruction leads to larger learning effects than implicit instruction, as reported in the reviewed synthesis literature](explicit-l2-grammar-instruction-superior-to-implicit.md) — related
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related

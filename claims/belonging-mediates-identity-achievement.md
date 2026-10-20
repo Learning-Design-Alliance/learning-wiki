@@ -51,3 +51,8 @@ The review reports, citing Song et al. (2024), that "belonging mediated the rela
 - [SRL partially mediates the positive relations of both academic value and school belonging to mastery orientation among African American and Latino adolescents](srl-partially-mediates-identity-mastery.md) — related
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](school-belonging-mediation-dominican-intrinsic-motivation.md) — related
 - [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — related
+- [Individual-difference themes (academic motivation, emotional stability, gender, race and ethnicity) are associated with school belonging](individual-difference-themes-school-belonging.md) — related
+- [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](belongingness-strongly-affects-motivation-achievement.md) — a broader claim this one bears on
+- [Academic emotions moderate the relationship between belonging and achievement](emotions-moderate-belonging-achievement.md) — related
+- [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — a broader claim this one bears on
+- [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related

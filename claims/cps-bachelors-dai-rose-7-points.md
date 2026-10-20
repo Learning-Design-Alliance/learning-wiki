@@ -49,3 +49,7 @@ Descriptive analysis estimating the share of CPS ninth-graders who will earn a b
 - [CPS graduates' qualifications improved: students graduating with at least a 3.0 core GPA rose from 21 to 32 percent between 2006 and 2015](cps-graduating-gpas-improved.md) — related
 - If current rates hold, only 20 percent of current CPS ninth-graders will complete a bachelor's degree within 10 years (2019 BDAI), with 18 percent via a direct pathway — related
 - [An estimated 18 percent of CPS ninth-graders will obtain a four-year college degree within 10 years of starting high school (Bachelor's DAI, 2015)](cps-bachelors-dai-18-percent-2015.md) — related
+- [The 2023 Post-secondary Attainment Index for CPS ninth-graders is 31%, up 0.4 percentage points from 2022](cps-2023-pai-31-percent.md) — related
+- [The 2021 Post-secondary Attainment Index for CPS ninth-graders is 27.0%, essentially unchanged from 2020](cps-2021-pai-27-percent.md) — related
+- [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
+- [Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent](cps-attainment-gaps-black-latino-young-men.md) — related

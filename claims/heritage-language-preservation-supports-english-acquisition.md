@@ -115,3 +115,10 @@ The underlying mechanism these three findings share is that a heritage language,
 - [Older-arriving ESL learners transfer L1 knowledge efficiently, but learning slows once they outgrow their L1](l1-transfer-efficient-until-outgrown.md) — related
 - [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related
 - [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related
+- [Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary](bilingualism-math-resource-untapped.md) — related
+- [Semilingualism — less than native-like skill in both languages — is associated with detrimental cognitive and academic consequences](semilingualism-associated-with-negative-cognitive-effects.md) — related
+- [Promoting minority children's L1 raises L1 achievement at no cost to L2 achievement](l1-maintenance-supports-l2-without-cost.md) — related
+- [Bilingual instruction pairs transfer technique knowledge across languages, more strongly to Indo-Aryan (∆TF = +3.2) than Dravidian (∆TF = +1.8) languages](bilingual-pairs-cross-lingual-technique-transfer.md) — related
+- [L1 and L2 CALP are interdependent: strong promotion of L1 literacy in the early grades entails no adverse consequences for English](l1-l2-calp-interdependence-no-adverse-consequences.md) — related
+- [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — a narrower finding that bears on this claim
+- [Mead argued that treating the mother tongue as inferior impedes movement between home and school language structures](mead-mother-tongue-status-affects-bilingual-learning.md) — related

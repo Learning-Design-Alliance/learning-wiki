@@ -47,3 +47,4 @@ Exploratory analysis in the main Prolific study testing whether the piloted eigh
 - [Learned difficulty parameters show a moderate positive correlation with empirical KC difficulty on QATD2k](learned-difficulty-correlates-empirical-difficulty.md) — related
 - [Point-biserial item-total correlation is negatively related to test discriminating value and can be expressed via item and test difficulty and discrimination parameters](point-biserial-negative-test-discrimination-relation.md) — related
 - [Student dialogue prompted educators to reconstruct teaching beliefs about assessment, debugging instruction, and active learning](reconstructed-teaching-beliefs-llm-era.md) — related
+- [Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects](time-to-fix-descriptive-favor-llm-not-significant.md) — related

@@ -48,3 +48,4 @@ A QAP correlation with 20,000 permutations compared the scientific and non-scien
 - [Non-scientific discussion was much denser than scientific discussion, with all students participating non-scientifically but only 12 scientifically](non-scientific-denser-than-scientific-discussion.md)
 - [Students, not expert scientists, played the moderating role by asking questions and making assertions, with one student bridging scientists and students](students-moderating-bridging-role.md)
 - [Expert scientists fulfilled a crucial role in generating scientific discussion, with one expert holding the highest degree centrality in the scientific network](expert-scientists-drive-scientific-discussion.md)
+- [Knowledge artifacts that were novel or unexpected (a non-insect squirrel, a misidentified mosquito) generated the most discussion in an elementary citizen science project](novel-unexpected-artifacts-most-discussion.md) — related

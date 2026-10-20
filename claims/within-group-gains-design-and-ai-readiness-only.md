@@ -67,3 +67,4 @@ Paired-samples t-tests within the control group (n = 26) in the same quasi-exper
 - [Unscaffolded GenAI access produced no significant advantage in pre-service teachers' AI readiness compared with traditional learning](unscaffolded-genai-no-ai-readiness-advantage.md) — related
 - [Unscaffolded GenAI access was not associated with a significant difference in pre-service teachers' critical thinking relative to traditional learning](unscaffolded-genai-no-critical-thinking-difference.md) — related
 - [Unscaffolded GenAI access did not significantly change pre-service teachers' self-regulated learning relative to traditional learning](unscaffolded-genai-no-srl-change.md) — related
+- [Generative AI-assisted feedback is associated with a statistically significant pretest–posttest improvement in violin students' intonation performance over a four-week period](genai-feedback-improves-violin-intonation-posttest.md) — related

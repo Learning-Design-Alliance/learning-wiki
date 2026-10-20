@@ -48,3 +48,6 @@ Multilevel logistic regression on 942 students in 111 homerooms with a dichotomo
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](psm-baseline-equivalence-mtss-study.md) — related
 - [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related
 - [Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21](pbis-three-tiers-fidelity-fewer-oss-pandemic.md) — related
+- [Schools implementing MTSS with higher fidelity show less absenteeism](mtss-fidelity-lower-absenteeism.md) — related
+- [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
+- [Most implementing schools report MTSS positively affecting benchmark scores, state assessment proficiency, discipline referrals, and special education referrals](kansas-mtss-schools-report-student-outcome-gains.md) — related

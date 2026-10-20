@@ -49,3 +49,5 @@ Theme 4 of the qualitative analysis: students found ChatGPT cannot read graphic 
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students found ChatGPT responses useful but insufficient in depth and detail compared with TA responses](students-find-chatgpt-useful-but-lacking-depth.md) — related
 - [Students felt short-changed by classrooms over-emphasizing basic operations and withholding advanced mathematics](students-shortchanged-advanced-math.md) — related
+- [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](chatgpt-qualitative-engagement-comprehension-quantum.md) — related
+- [LLM factual errors during collaborative circuit debugging occurred almost exclusively after image inputs, attributed to limited 3D spatial reasoning from breadboard or PCB photos](llm-factual-errors-after-image-inputs-3d-reasoning.md) — related

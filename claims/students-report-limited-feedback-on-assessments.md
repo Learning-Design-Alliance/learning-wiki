@@ -45,3 +45,4 @@ Focus-group findings on assessment and feedback. Students said they know what th
 ## Related Claims
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - Students wanted more detailed feedback explaining why answers were incorrect and linking to relevant course content — possibly the same claim (merge candidate)
+- [GenAI can provide personalised feedback in group work, but the depth of personalisation is contested](genai-personalised-feedback-contested-depth.md) — related

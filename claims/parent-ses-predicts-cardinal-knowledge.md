@@ -47,3 +47,4 @@ Baseline regression (Results section, N=44) with the SES composite (income and c
 - [Parent number talk about large sets (4–10) of present objects predicts children's cardinal-number knowledge more robustly than talk about small sets (1–3)](large-set-present-object-talk-strongest-predictor.md) — related
 - [Small-number parent talk predicts children's performance only on low-number items, whereas large-number talk predicts both low- and high-number Point-to-X items](small-talk-low-items-large-talk-both.md) — related
 - [Parent number talk is not related to children's general vocabulary development once SES and overall talk are controlled, indicating domain specificity](number-talk-domain-specific-not-vocabulary.md) — related
+- [Parent number talk is infrequent but varies widely, and most of it concerns counting or labeling sets, with present-object small-set talk the most common type](parent-number-talk-frequency-description.md) — related

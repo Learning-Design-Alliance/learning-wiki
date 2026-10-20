@@ -49,3 +49,6 @@ Qualitative longitudinal interviews with 105 CPS juniors conducted before and af
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
 - [Most interviewed CPS seniors describe senior year as unchallenging and easier than previous years](seniors-describe-senior-year-unchallenging.md) — related
 - [Interviews show students used scores to trigger action but reflected shallowly, derived planning from previous scores, and diverged emotionally](interviews-shallow-reflection-score-derived-planning.md) — related
+- [Students who fail to reach an ACT 20 gained only 0.6 points from PLAN to ACT versus 3.3 for those who reached 20, falling behind expected gains](below-20-students-treading-water.md) — related
+- [Almost 90 percent of college-continuing seniors intend to work while continuing their education, and 35 percent plan to work more than 20 hours per week](seniors-intend-work-while-continuing-education.md) — related
+- [The strongest college-readiness predictors measure four broad constructs: academic preparation, aspirations and expectations, socioeconomic status, and teacher perceptions](four-college-readiness-constructs-factor-analysis.md) — related

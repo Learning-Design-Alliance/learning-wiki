@@ -45,3 +45,4 @@ Observational before-and-after comparison of official SEI-GDF statistics consoli
 ## Related Claims
 - [In the first year under the structured AI training method, SES/CONT's average case processing time fell 18.2% (17.92 to 14.66 days) while documentary output per case stayed stable](ses-cont-processing-time-fell-18-percent-under-ai-method.md) — related
 - [UCI/SEDET's 122 technical reports in 2025 yielded 286 formal recommendations and concerned cases and matters totaling US$ 94.8 million, with an August peak of US$ 19.1 million absorbed without bottlenecks](uci-sedet-analytical-intensity-and-financial-volume.md) — related
+- [SES/CONT's time gains translated into an estimated released capacity of about 352 additional cases (+22.3%) and cleared backlog, and output shifted toward preventive work (Advisory Notices +664%)](ses-cont-released-capacity-and-preventive-shift.md) — related

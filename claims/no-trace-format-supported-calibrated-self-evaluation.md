@@ -56,3 +56,4 @@ Trial-level Type-2 ROC area computed per participant from ten items did not diff
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
 - [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md)
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](students-overestimate-sport-performance-calibration.md) — related
+- [Reasoning-trace exposure raised trust and hedonic appeal without performance benefits, shifting subjective appraisal of the interaction](trace-exposure-raises-trust-and-hedonic-appeal.md) — related

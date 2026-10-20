@@ -64,3 +64,6 @@ Implementation notes summarize impressions from a second study, Mathes et al. (2
 
 ## Related Claims
 - Teachers and interventionists gave mostly favorable implementation ratings, with over 90% comfortable implementing and finding it supplemented the core program well — related
+- [Peer-Assisted Literacy Strategies showed a substantively important positive (but statistically non-significant) effect on WRMT-R Passage Comprehension for first graders](pals-mathes-babyak-positive-comprehension-effect.md) — related
+- [Peer-assisted instruction and small-group instruction by adults have statistically significant, robust short-term effects (ES about 0.35–0.45) for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — related
+- [For first-grade nonresponders, PALS showed a substantively important negative (but statistically non-significant) effect on reading comprehension versus adult tutoring](pals-mcmaster-comprehension-negative-effect.md) — related

@@ -109,3 +109,7 @@ Second-hand attribution: the article reports that Gegner et al. (2009) found pre
 - [CLT-aligned e-learning modules improved cognitive load profiles and OSCE performance in simulation-based medical training (review-attributed to Gutierrez et al., 2023)](clt-aligned-e-learning-modules-improve-osce-performance.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
 - [Four interrelated components are essential in blueprints for complex learning](four-components-essential-complex-learning-blueprints.md) — related
+- [Pretraining principle: pre-lessons on names, locations, and characteristics of key components improve transfer](pretraining-principle-mayer-2008.md) — related
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — related
+- [Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer](prior-evidence-exploratory-beats-proceduralized.md) — related
+- [ELLs attempted academic terminology from prior lessons, with experience mediating their connection to the concept of vibration](experience-mediate-connection-academic-language-vibration.md) — related

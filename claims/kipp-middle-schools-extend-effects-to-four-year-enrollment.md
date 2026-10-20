@@ -56,3 +56,4 @@ The study's headline finding is that the positive effects of KIPP middle schools
 - [Charter middle school admission did not affect college degree attainment or students' chances of remaining enrolled in college](charter-middle-admission-no-effect-degree-attainment-persistence.md) — related
 - [Being admitted to a charter middle school in the National Evaluation of Charter Middle Schools did not affect students' chances of enrolling in or completing college](charter-middle-school-admission-no-college-outcome-effect.md) — related
 - [KIPP middle schools had a positive and statistically significant impact on enrollment in four-year colleges](kipp-middle-schools-positive-impact-four-year-college-enrollment.md) — related
+- [Prior research on KIPP suggested positive achievement impacts but was limited by small samples or methodological weaknesses](prior-kipp-research-limited-scope-and-methods.md) — related

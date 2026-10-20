@@ -49,3 +49,5 @@ Longitudinal math growth analysis from K-4 comparing ELs and never-ELs across sc
 - [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — related
 - [Students with disabilities in grades K-4 grow as much or more academically during some school years than peers without disabilities](swd-school-year-growth-matches-or-exceeds-peers.md) — related
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related
+- [Steeper summer learning losses for students with disabilities contribute to widening disparities with peers](swd-summer-loss-widens-disparities.md) — related
+- [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related

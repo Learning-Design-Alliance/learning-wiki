@@ -46,3 +46,5 @@ In the multicenter survey, paired-samples t-tests contrasted operational AI usag
 - [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](inattention-moderates-ai-benefit-associations.md) — related
 - [WISE Agent feedback significantly increased Truth-seeking and CT Self-confidence disposition scores](wise-agent-truth-seeking-self-confidence-gains.md) — related
 - [Secondary students report near-maximum confidence in passive digital tasks but sharply lower confidence in active creation and algorithmic logic](confidence-competence-divide-passive-vs-active-creation.md) — related
+- [Gender is associated with small differences in GenAI use, literacy, and monitoring, while educational level shows no significant differences](gender-small-differences-genai-use.md) — related
+- [Students’ prompt self-efficacy increased significantly after the scaffolded GenAI course (t = 3.729, p < .001)](prompt-self-efficacy-significant-increase.md) — related

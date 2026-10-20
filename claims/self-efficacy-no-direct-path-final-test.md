@@ -50,3 +50,7 @@ Mediation covariate path in the 213-participant experiment; self-efficacy was me
 - [Self-efficacy has a significant positive effect on motivation among undergraduates using generative AI](se-positive-effect-mov.md) — related
 - [Academic self-efficacy does not significantly predict academic stress, and social influence does not directly predict AI dependence](ase-stress-and-si-dependence-null-paths.md) — related
 - [Trust in AI and academic self-efficacy serially mediate the literacy-to-continued-use association (literacy → trust → self-efficacy → use)](serial-mediation-literacy-trust-efficacy-use.md) — related
+- [In a cross-sectional model of adults, memory self-efficacy is positively associated with memory performance and carries a significant indirect path from learning goals and a marginal one (p = .07) from performance goals](memory-self-efficacy-predicts-performance-mediation.md) — related
+- [Correctness Confidence did not significantly predict recall accuracy, contrary to the authors' hypothesis](correctness-confidence-did-not-predict-recall.md) — related
+- [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related
+- [Cognitive load mediates the effect of personalized paths on learning outcomes, with motivation and self-efficacy as complementary mediators](cognitive-load-mediation-pathway.md) — related

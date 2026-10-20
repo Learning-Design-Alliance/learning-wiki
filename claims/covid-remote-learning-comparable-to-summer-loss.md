@@ -45,3 +45,5 @@ The review's discussion-level comparison of its synthesized closure effects agai
 ## Related Claims
 - [Median achievement losses from spring 2020 school closures were similar for mathematics (−0.10 SD) and reading (−0.09 SD), though individual studies found subject-specific differences](covid-closures-subject-specific-effects.md) — related
 - [COVID-19-related school closures in spring 2020 had a negative overall effect on student achievement (median −0.08 SD across eleven studies)](covid-school-closures-negative-achievement-effect.md) — a broader claim this one bears on
+- [Existing research on missing school from summer breaks, weather closures, and absenteeism can inform projections of pandemic learning loss](missing-school-research-informs-covid-learning-loss-projections.md) — related
+- [COVID-19 school closures will likely impact student academic achievement](covid-closures-likely-impact-achievement.md) — related

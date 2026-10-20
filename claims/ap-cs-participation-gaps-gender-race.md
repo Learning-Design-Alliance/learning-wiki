@@ -54,3 +54,6 @@ The report's current-state section, citing Code.org et al. (2020), reports that 
 - [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on
 - Black and Latino students are about one-third of Massachusetts public high school students but only 18% of AP test takers — related
 - Existing race and ethnicity data standards render some Indigenous students and diverse Asian American and Native Hawaiian/Pacific Islander students invisible, concealing disparities that disaggregated data would reveal — related
+- [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — a broader claim this one bears on
+- [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
+- [Black Americans comprise only 8% of the 5.3 million tech occupation jobs in the U.S.](black-americans-8-percent-tech-occupation-jobs.md) — related

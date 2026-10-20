@@ -67,3 +67,4 @@ Descriptive analysis of teacher transfer-out rates from USBE teacher-level assig
 - [Rural Utah districts had a higher proportion of economically disadvantaged students and students with disabilities, while non-rural districts had a higher proportion of English learners, from 2012 to 2017](utah-rural-nonrural-demographic-differences-2012-2017.md) — related
 - [Rural Utah districts had smaller average class sizes and student-to-teacher ratios, but far fewer unique advanced courses per secondary school, than non-rural districts from 2012 to 2017](utah-rural-smaller-classes-fewer-advanced-courses.md) — related
 - In 2017, the cost-of-living-adjusted starting teacher salary was higher in rural Utah districts, but the average scheduled teacher salary was lower in rural than non-rural districts — related
+- [Teacher salaries influence entry, supply, and retention in teaching](salary-increases-influence-teacher-supply-and-retention.md) — related

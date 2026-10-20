@@ -47,3 +47,4 @@ The brief identifies parent communication as a barrier: parents "may have limite
 - [Negative prior experiences with educational institutions and less exposure to formal schooling are barriers to ELL parental involvement](ell-parent-schooling-history-barrier.md) — related
 - [ELL parents generally place a high value on their children's education](ell-parents-value-education.md) — related
 - [Language barriers were the biggest concern for Chinese international students, who reported tripling their reading time in English](language-barriers-biggest-concern-chinese-students.md) — related
+- [Communication challenges were the most reported barrier to supporting English language learner students, cited by 63 percent of schools](ell-support-communication-challenges-most-reported.md) — related

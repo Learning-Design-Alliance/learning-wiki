@@ -42,3 +42,4 @@ Thematic coding of the RFI's purpose-of-AI question. The few inclusivity respons
 
 ## Related Claims
 - [Academic integrity, professional development, and equity concerns about AI span all surveyed units, though interpreted differently](integrity-equity-concerns-span-all-units.md) — related
+- [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related

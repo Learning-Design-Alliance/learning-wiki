@@ -67,3 +67,5 @@ Omnibus 3-way ANOVA on accuracy scores. "A 3-way ANOVA for language group, condi
 - [Bilingual children show no reaction time cost for their dual-task accuracy advantage](no-rt-cost-bilingual-dual-task-advantage.md) — related
 - [Relational integration is less accurate and slower than single-relation matching regardless of audience or age](relational-harder-than-control-main-effect.md) — related
 - [More bilingual than monolingual children pass the 60% accuracy criterion on the visual dual-task, but not on the auditory dual-task](pass-fail-distribution-visual-auditory-dual-task.md) — related
+- [Bilingual children maintain higher accuracy than monolingual children in a dual-modality classification task, with the advantage limited to the visual task](bilingual-advantage-dual-modality-accuracy-visual-task.md) — related
+- [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md) — related

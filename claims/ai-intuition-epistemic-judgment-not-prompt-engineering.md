@@ -53,3 +53,7 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 - [Active engagement with AI outputs (cross-verifying, refining prompts, revising) supports productive learning and depends on learners' prior knowledge](active-ai-engagement-depends-on-prior-knowledge.md) — related
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](proposition-2-mutual-evaluation-improves-judgment.md) — related
 - [Non-expert students exhibit intuitive behaviors towards LLM-based AI systems when prompt engineering](student-intuitive-prompting-behaviors.md) — related
+- [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related
+- [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) — related
+- [Responsible AI use and student agency are mutually reinforcing capacities](responsible-ai-use-and-agency-mutually-reinforcing.md) — related
+- [Educators want AI systems grounded in their district's specific values, curricula, and student populations rather than generic tools](educators-want-context-grounded-ai.md) — related

@@ -59,3 +59,6 @@ Bonferroni post-hoc tests showed survey 3 (mean = 4.7, SD = 2.6) had a significa
 ## Related Claims
 - [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
 - [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
+- [Combined with adolescent data, the lifespan profile of perceptual metacognitive efficiency is an inverted-U](inverted-u-lifespan-profile-of-metacognition.md) — reports the opposite
+- [CMS metacognition correlates with AQ-J-50 social skills and total scores, but self-judgment accuracy does not](cms-criterion-validity-aq.md) — related
+- [CMS metacognition correlates with BCIS self-reflectiveness and CMS self-judgment accuracy correlates with BCIS self-certainty](cms-criterion-validity-bcis.md) — related

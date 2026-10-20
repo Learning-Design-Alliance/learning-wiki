@@ -65,3 +65,4 @@ The review attributes to Yang and Appleget (2025) that most pre-service teacher 
 - [Existing AI literacy frameworks treat teacher agency narrowly as tool adoption, leaving human–AI co-agency undertheorized](agency-narrowed-to-tool-adoption.md) — related
 - [Agentic AI invalidates the three assumptions (evaluation, reversibility, control) on which existing AI literacy frameworks rest](agentic-ai-invalidates-three-ai-literacy-assumptions.md) — related
 - Prominent existing AI literacy frameworks are not tailored to higher education — related
+- [No existing framework in the reviewed literature combined all identified inquiry phases and sub-phases, prompting development of a synthesized framework](no-existing-framework-combining-all-inquiry-phases.md) — a broader claim this one bears on

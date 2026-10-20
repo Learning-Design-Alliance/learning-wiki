@@ -47,3 +47,4 @@ Null finding from the prior study cited as background for the current investigat
 - [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related
 - [A general self-report metacognition questionnaire shows no relationship with word problem solving performance and no convergence with on-line metacognitive measures in grade 5](self-report-questionnaire-no-convergence-online-metacognition.md) — a broader claim this one bears on
 - [Students emphasising rehearsal and memorisation techniques showed lower conceptual understanding and less DLC interaction](rehearsal-negative-concept-dlc-interaction.md) — related
+- [Completion of the angular momentum reflection module is the first significant predictor of conceptual understanding of the related exam problem](angular-momentum-module-first-predictor-conceptual-understanding.md) — related

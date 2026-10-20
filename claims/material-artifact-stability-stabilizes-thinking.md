@@ -60,3 +60,6 @@ Analysis in Section 4.B.2 of the material setting: strips stacked side-by-side p
 - Overlaying a grid onto the MIT-P display reifies the attentional anchor and abruptly shifts students into a new unit-based interaction routine — a narrower finding that bears on this claim
 - [Structural stability in the model is decided by a convex hull constraint on the resultant center of mass](convex-hull-com-stability-constraint.md) — related
 - [Students' courses of action differed by instrumentation: photogate and tape-timer groups centred on numbers and dots with motion concepts rare, while probeware groups centred on motion concepts](lab-discourse-differs-by-instrumentation.md) — related
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — a broader claim this one bears on
+- [Mathspace dynamic representations, such as fraction smart shapes, let students see how changing the number of equal parts alters part size while the whole stays the same](mathspace-dynamic-representations-fractions.md) — related
+- [Pairs managed mutual awareness through spatial and temporal affordances and developed attention-getting protocols finer-grained than turn-taking](awareness-attention-management-shared-workspaces.md) — related

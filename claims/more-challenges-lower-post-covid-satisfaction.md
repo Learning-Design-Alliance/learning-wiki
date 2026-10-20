@@ -45,3 +45,7 @@ Cross-tabulation of an eight-point challenge scale against satisfaction (Table 1
 ## Related Claims
 - [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — related
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
+- [Personal instructor messages and reflective assignments showed the largest individual associations with online course satisfaction, and personal messages with fewer motivation problems](personal-messages-largest-satisfaction-effect.md) — related
+- [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related
+- [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
+- [STEM students' course satisfaction dropped sharply after courses moved fully online in spring 2020](stem-satisfaction-dropped-after-remote-shift-covid.md) — related

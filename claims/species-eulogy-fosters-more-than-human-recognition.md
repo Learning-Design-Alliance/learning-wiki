@@ -44,3 +44,5 @@ The author's reflective report from teaching the course Communication at the End
 
 ## Related Claims
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
+- [Attending to affect in co-design supports community formation and cross-scale transfer](attending-to-affect-in-co-design-supports-community-and-cross-scale-transfer.md) — related
+- [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](metaphor-workshops-support-genai-sensemaking.md) — related

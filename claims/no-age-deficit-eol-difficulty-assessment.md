@@ -50,3 +50,5 @@ Experiment 1 Goodman-Kruskal gamma correlations of EOLs with normative difficult
 - [FOK resolution for general-knowledge information is similar for younger and older adults, whereas the literature argues for a deficit in FOK resolution for episodic memory tasks in older adults](fok-resolution-generalknowledge-spared-episodic-mixed.md) — related
 - [Judgments of learning are higher for easy than difficult items at all ages and increase with age, confirming the difficulty manipulation aligned with subjective difficulty](jol-difficulty-and-age-effects.md) — related
 - [Presentation format (sequential vs. simultaneous) does not reliably affect EOL accuracy](presentation-format-no-effect-on-eol-accuracy.md) — a narrower finding that bears on this claim
+- [JOL resolution (relative accuracy) did not differ between younger and older adults](jol-resolution-no-age-difference.md) — related
+- [EOL judgments are highly accurate when items vary widely in difficulty within a list, but poorly accurate when variation is small](eol-accuracy-depends-on-within-list-difficulty-variability.md) — related

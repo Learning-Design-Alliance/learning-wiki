@@ -46,3 +46,5 @@ Survey-based correlational analysis in the Study 1 classroom deployment (44 unde
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Topic-level assistant question volume correlates significantly with student self-reported topic difficulty (Spearman ρ = 0.491, p = 0.008, 28 matched topics)](question-volume-correlates-self-reported-difficulty.md) — related
 - [Tell and no-agent conditions showed no significant JoL–confidence correlations, with mixed results for progress and mastery](tell-none-conditions-mixed-jol-correlations.md) — related
+- [In StudyChat, conceptual-understanding behaviors correlate positively with exam outcomes while task-delegating behaviors correlate negatively](studychat-conceptual-positive-delegation-negative.md) — related
+- [HelpCoach increased spontaneous question specificity during chatbot problem-solving compared with pre-task training alone](helpcoach-increased-spontaneous-question-specificity.md) — related

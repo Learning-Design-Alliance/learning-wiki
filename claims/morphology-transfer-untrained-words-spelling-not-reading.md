@@ -46,3 +46,5 @@ RVE analyses of untrained items: reading (5 effect sizes, 3 studies) was not dis
 - [Morphology instruction produces small-to-moderate improvements in children's reading outcomes at immediate post-test](morphology-instruction-improves-reading-posttest.md) — related
 - [Morphology instruction produces small-to-moderate improvements in children's spelling outcomes at immediate post-test](morphology-instruction-improves-spelling-posttest.md) — related
 - [Effects of morphology instruction are large for directly trained words in both reading and spelling](morphology-instruction-large-effects-trained-words.md) — related
+- [Benefits of morphology instruction show little evidence of retention at follow-up, though follow-up data were sparse](morphology-followup-retention-limited-evidence.md) — related
+- [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](morphology-no-child-factor-moderators.md) — related

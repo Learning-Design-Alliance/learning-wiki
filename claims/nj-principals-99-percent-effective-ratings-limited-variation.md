@@ -45,3 +45,4 @@ Analysis of 2013/14 statewide principal evaluation data from New Jersey's first 
 ## Related Claims
 - [Principals evaluated on school median student growth percentiles were less likely to receive highly effective overall ratings than principals not evaluated on that measure](sgp-evaluation-lower-highly-effective-ratings.md) — related
 - [Principal practice ratings varied across the score range in New Jersey's pilot year, but most principals received ratings of effective or highly effective](nj-pilot-practice-ratings-varied-most-effective.md) — related
+- [Several component measure ratings and the overall rating had low, negative correlations with student socioeconomic disadvantage, suggesting possible bias against principals of more disadvantaged schools](principal-ratings-negative-correlation-socioeconomic-disadvantage.md) — related

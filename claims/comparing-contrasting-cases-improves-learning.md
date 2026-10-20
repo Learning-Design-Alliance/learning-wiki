@@ -226,3 +226,6 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [Activation improves learning.](activation-improves-learning.md) — retrieval of relevant prior knowledge supplies the source analog
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can frame new material as analogous to known structures
 - [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — related
+- [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](organized-knowledge-enhances-functional-intelligence.md) — related
+- [Providing both a simple and a complex example facilitates transfer better than a single example or an example plus procedures](multiple-examples-per-problem-type.md) — a narrower finding that bears on this claim
+- [Lesson variability benefits transfer only in combination with worked-example instruction, as shown by a variability-by-instruction interaction](example-variability-interaction-with-cognitive-load.md) — related

@@ -43,4 +43,7 @@ Log/screen-capture analysis during mirroring sessions. The Responses Related tab
 
 
 ## Related Claims
--
+- [Guiding support stimulated targeted interactions: teachers posted more messages to groups (14 vs 4) and performed more dashboard interventions than under mirroring](guiding-support-stimulated-targeted-group-interactions.md) — related
+- [A mirroring dashboard shifts teacher attention toward epistemic over social aspects of learning, while a guiding dashboard divides interventions more equally](mirroring-versus-guiding-dashboard-attention-balance.md) — related
+- [Teacher-facing dashboards that mirror or guide increase teacher awareness and targeted interventions during classroom orchestration](dashboard-conditions-increase-teacher-awareness-and-interventions.md) — a broader claim this one bears on
+- [Reported cognitive load was lowest in the mirroring condition (5.4), compared with no dashboard (5.6) and guiding (6.2)](mirroring-lowest-reported-cognitive-load.md) — related

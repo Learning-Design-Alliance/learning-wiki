@@ -41,4 +41,6 @@ Quasi-experiment in college courses (Hacker et al., 2008a) with a fully crossed 
 
 
 ## Related Claims
--
+- [The level of reflection support (practice-only, grade comparison, or reflection prompts) did not differentially affect the improvement of secondary students' calibration accuracy over time](reflection-support-no-differential-calibration-gain.md) — related
+- [Secondary students' French exam performance improved over the school year, but this improvement was not attributable to the intervention groups](exam-performance-improved-not-due-to-intervention.md) — related
+- [Providing grade estimates after each exam improved secondary students' calibration accuracy over a school year, regardless of the level of reflection support](grade-estimates-improve-calibration-secondary.md) — related

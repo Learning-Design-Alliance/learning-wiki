@@ -92,3 +92,9 @@ Narrative review attributing to Li, Kizilcec, Bailenson, and Ju (2016) an examin
 - [Learning motivation and perceived social presence are both positively associated with learner engagement in agentic AI-supported online learning](motivation-social-presence-boost-engagement-agentic-ai.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
+- [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — related
+- [The low- and high-coercion versions of NTool did not differ on perceived sociability or social presence](ntool-no-social-aspect-differences.md) — related
+- [Instructor video presence produced no significant difference in retention or transfer of Mandarin tone distinction among true-beginner learners](instructor-presence-no-retention-transfer-effect.md) — related
+- [The authors argue instructor presence is unlikely to improve learning outcomes unless the instructor's visible behavior provides information learners can directly use for the task](instructor-presence-requires-usable-task-relevant-information.md) — related
+- [Fortnightly web conferences with open-ended discussion supported students' academic and social engagement and community formation](web-conferences-support-online-community.md) — related
+- [Review reports students did not recognize the key points an exemplary lecturer presented in a proof](students-did-not-recognize-lecture-proof-key-points.md) — related

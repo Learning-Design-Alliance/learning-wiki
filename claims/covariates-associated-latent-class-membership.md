@@ -48,3 +48,4 @@ Covariate regression of class membership on cohort, race/ethnicity, gender, FARM
 - [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related
 - [No statistically significant mean differences by sleep health class on literacy, mathematics, or executive functioning after covariate adjustment](no-sleep-class-differences-literacy-math-ef.md) — related
 - [Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories](risk-children-overrepresented-adverse-trajectories.md) — related
+- [Demographic predictors of engagement profile membership differed across language groups, with employment the only significant predictor for English-speaking parents](demographic-predictors-differ-by-language-group.md) — related

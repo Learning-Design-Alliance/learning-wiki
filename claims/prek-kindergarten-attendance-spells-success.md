@@ -71,3 +71,5 @@ The source is a poster/infographic product page stating the importance of "atten
 - [Children who attend pre-kindergarten are advanced on language, reading, writing, and math skills compared to similar children who did not attend](prek-advanced-language-reading-writing-math.md) — a narrower finding that bears on this claim
 - [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
 - Schools widely employ incentives to improve attendance across all grade levels — related
+- [Exposing young children to early math concepts supports reasoning, problem solving, and later success in and out of school](early-math-exposure-supports-reasoning-and-later-success.md) — related
+- [Supporting early childhood math development is important for young children's development](early-math-development-importance.md) — related

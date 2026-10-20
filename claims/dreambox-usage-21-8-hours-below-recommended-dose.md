@@ -46,3 +46,5 @@ Descriptive usage data from the Wang and Woodworth (2011) RCT, conducted mid-Oct
 - [DreamBox Learning produced a statistically significant positive effect on MAP overall math scores for K–1 students](dreambox-positive-effect-map-overall-math-k1.md) — related
 - Results were more robust for students meeting the usage recommendation of 30 minutes per week over a minimum of 18 weeks — related
 - [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related
+- [Math gains from the CAL program occur in classrooms with at least an average of 35 minutes of practice per week](cal-gains-require-35-minutes-weekly-practice.md) — related
+- [Edtech tool access per district grew more than 350% between 2019 and 2025, yet most tools are unused or used at low intensity](edtech-procurement-implementation-gap.md) — a broader claim this one bears on

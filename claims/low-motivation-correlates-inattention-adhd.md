@@ -48,3 +48,4 @@ Correlational analysis within the ADHD group between the MPQ Achievement scale a
 - [Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls](adhd-lower-mpq-achievement-scale.md) — related
 - [Positive Emotionality correlates with midbrain D2/D3 receptor availability in ADHD adults, while Negative Emotionality and Constraint do not](positive-emotionality-midbrain-d2d3-adhd.md) — related
 - [Impairment on WM, STM, and/or motivation is associated with more inattention symptoms, medication use, and lower IQ scores](impairment-associated-inattention-medication-lower-iq.md) — a broader claim this one bears on
+- [ADHD adults show lower D2/D3 receptor and DAT availability in nucleus accumbens and midbrain than controls](adhd-lower-da-availability-accumbens-midbrain.md) — related

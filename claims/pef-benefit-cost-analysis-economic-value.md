@@ -47,3 +47,4 @@ The publication landing page announces a benefit-cost analysis brief on DC's Pay
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — a narrower finding that bears on this claim
 - [Program costs rose under the PEF's facility payment model, but the size and economic value of benefits also increased](pef-facility-payment-model-costs-and-benefits-both-increased.md) — related
 - [The PEF's total FY 2024 economic value of benefits was $93 million, up from $67 million in FY 2023, with benefits to families the largest share](pef-fy2024-benefits-93-million-families-largest-share.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — a broader claim this one bears on

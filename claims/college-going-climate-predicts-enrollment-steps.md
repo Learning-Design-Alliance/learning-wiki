@@ -45,3 +45,5 @@ In the authors' Chicago work, college-going climate (measured by percent of prio
 ## Related Claims
 - [Teacher assessment of college-going climate is positively associated with students taking each step toward four-year college enrollment](teacher-college-climate-associated-with-enrollment-steps.md) — possibly the same claim (merge candidate)
 - [Even the top students in a school can go almost unnoticed by adults in college planning, missing steering to selective colleges and relying on luck to find a good fit](top-students-unnoticed-college-planning.md) — a narrower finding that bears on this claim
+- [Fewer than 30 percent of high school teachers report that most or all of their students will go on to college](teachers-underestimate-students-college-plans.md) — related
+- [Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating](good-college-match-increases-graduation-chance.md) — related

@@ -46,3 +46,4 @@ Pre-post meta-analysis using Morris's (2008) standardized mean change difference
 - [EAI effectiveness was reported across all educational stages, with most studies in secondary education and university](eai-effective-all-educational-stages.md) — related
 - [EAI-based interventions show a significant positive pooled effect on student performance in the post-test meta-analysis (gp = 0.716)](eai-posttest-meta-analysis-positive-effect.md) — related
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
+- [Exploratory pre-post questionnaire comparisons showed descriptively higher post-program means but no statistically significant differences after Holm adjustment](exploratory-pre-post-null-holm-adjusted.md) — related

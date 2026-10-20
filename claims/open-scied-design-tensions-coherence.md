@@ -49,3 +49,5 @@ The synthesis reports, citing Pomian Bogdanov (2022) and Penuel, Rubin, et al. (
 - An informal STEM club founder saw a dilemma between raising girls' interest in mathematics and keeping the club different from school, and mathematics went unemphasized in its activities — related
 - [Formative assessment practices coherent with OpenSciEd are constrained by grading expectations misaligned with formative goals and by the time cost of evaluating and giving feedback on three-dimensional tasks.](openscied-formative-assessment-feasibility-challenges.md) — related
 - [OpenSciEd enactment faces key challenges: project fatigue, unit length and pacing, pseudoagency, and gaps in student sensemaking practices](openscied-enactment-challenges-fatigue-pacing-pseudoagency.md) — related
+- [Role identity structure is a fractal-like nested hierarchy whose elements relate through accord or tension](dsmri-role-identity-structure-accord-tension.md) — a broader claim this one bears on
+- [Tensions between teachers' and pupils' perspectives during collaborative learning do not take the form of antagonistic struggles](teacher-pupil-tensions-not-antagonistic.md) — related

@@ -45,3 +45,4 @@ Subgroup of the same three-level meta-analysis restricted to the 51 of 166 compa
 
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — the general claim this finding bears on, with the studies behind it
 - [For domain-general skills, one meta-analysis finds a negligible effect (g = −0.17) in favour of I-PS over PS-I](domain-general-skills-favor-ips.md) — related
+- [Micro productive failure showed no effect on conceptual explanation, but a condition × time interaction emerged as the I-PS mean advantage at one day reversed at one week](micro-pf-no-conceptual-explanation-effect.md) — related

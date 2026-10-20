@@ -61,3 +61,4 @@ Counterbalanced quasi-experiment over two semesters of a nonmajors Human Biology
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on
 - [Students perceive LOCS and HOCS clicker questions as equally helpful, despite exam performance differences](students-perceive-clicker-levels-equally-helpful.md) — related
 - [Students perform better overall on LOCS exam questions than on HOCS exam questions](locs-exam-questions-outperform-hocs.md) — related
+- [Semester 2 students outperformed semester 1 students on HOCS exam questions regardless of clicker question type](semester-cohort-difference-hocs-exams.md) — related

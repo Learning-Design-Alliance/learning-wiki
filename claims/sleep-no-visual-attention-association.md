@@ -51,3 +51,5 @@ Null result from linear regressions in 160 adolescents adjusted for ADHD, videog
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — related
 - [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md) — related
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
+- [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related
+- [Sleep the night before cognitive testing resembles weekly averages except for an earlier mid-sleep time](acute-sleep-matches-weekly-averages.md) — related

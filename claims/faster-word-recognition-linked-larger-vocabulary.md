@@ -51,3 +51,6 @@ In the same longitudinal sample, children's RT was measured with the looking-whi
 - [Maternal talk influences on vocabulary and processing speed are largely overlapping, with each mediating the other's relation to input](overlapping-influences-input-vocabulary-processing.md) — a broader claim this one bears on
 - [Children get faster at recognising familiar words in speech between 19 and 31 months of age](toddler-lexical-processing-speed-increases-19-31-months.md) — related
 - [Overheard adult speech is unrelated to 24-month vocabulary, unlike child-directed speech](overheard-speech-unrelated-vocabulary.md) — related
+- [Processing speed at 19 months does not significantly influence linear vocabulary growth between 19 and 30 months](processing-speed-no-linear-vocabulary-growth-effect-19-30-months.md) — related
+- [Individual differences in processing speed remain broadly stable between 19 and 31 months](processing-speed-individual-differences-stable-19-31-months.md) — related
+- [Speed of numeral processing showed a trend predicting fifth grade mathematics achievement, and letter processing speed predicted word reading](processing-speed-predicts-achievement.md) — related

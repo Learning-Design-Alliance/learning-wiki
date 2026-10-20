@@ -45,3 +45,4 @@ Numerical evaluation shown in Fig. 5a of four policy–reward configurations on 
 ## Related Claims
 - [Mistral-7B reward model outperforms GPT2-XL on Hit@k ranking and Pairwise Accuracy for proxy preference discrimination, at higher computational cost](mistral-reward-model-beats-gpt2-xl.md) — related
 - [After PPO optimization, auxiliary feedback semantic similarity (SimCSE) reaches 81.3% and 79.3% for the two policy models, higher than evaluated pretrained baselines](races-auxiliary-feedback-simcse-gains.md) — related
+- [The PPO-driven policy substantially outperformed a random policy baseline, with cumulative reward of 95.12 ± 1.23 versus 12.3 ± 4.7](ppo-outperforms-random-baseline-reward.md) — related

@@ -48,3 +48,4 @@ Final SEM path; subjective performance was also positively predicted by actual m
 ## Related Claims
 - [In a cross-sectional model of adults, memory self-efficacy is positively associated with memory performance and carries a significant indirect path from learning goals and a marginal one (p = .07) from performance goals](memory-self-efficacy-predicts-performance-mediation.md) — related
 - [Summary traces preserved task performance at the answer-only baseline while elevating subjective appraisal](summary-traces-preserve-performance-baseline.md) — related
+- [Self-reports of achievement goal orientations diverge markedly from traced goal orientations, which predict reading achievement while self-reports do not](goal-orientation-self-reports-diverge-from-traces.md) — related

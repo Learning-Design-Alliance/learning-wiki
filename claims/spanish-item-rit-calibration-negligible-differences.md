@@ -47,3 +47,5 @@ Paired sample t-test analysis of old versus new item RITs for the selected sampl
 - [Outlier rates in Spanish item calibration are extremely low, which the authors take as evidence of very high calibration quality](spanish-calibration-outlier-rates-extremely-low.md) — related
 - [Including or excluding calibration status 10 items in scoring has a negligible impact on Spanish student RIT scores for monolingual and bilingual students](status-10-items-negligible-score-impact.md) — related
 - [Rescoring with new item parameters changed average ability estimates negligibly, with new and original scores correlated above 0.99](drift-impact-ability-estimates-negligible.md) — related
+- [Average on-grade and all-grade item difficulty estimates differ by less than 0.1 logit for MAP Growth items](map-growth-ongrade-allgrade-mean-difference-under-01-logit.md) — related
+- [The Spanish math test population is predominantly Hispanic (about 78%), unlike the English math test population (about 15%), with implications for Spanish norms](spanish-english-test-population-ethnicity-difference.md) — related

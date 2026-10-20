@@ -43,4 +43,7 @@ The editorial describes Cekaite's detailed case study of several students using 
 
 
 ## Related Claims
--
+- [Video analysis showed teachers enacted the same MDP in different ways and situations, while perceiving barriers to consistent implementation](m-plans-enactment-variation-and-implementation-barriers.md) — related
+- [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
+- [In one extreme case, two sixth-graders with a choice-rich, ungraded STEAM infrastructure extended a game-design challenge into a year-long self-directed project well beyond its designed scope](choice-rich-infrastructure-supports-productive-deviation-and-learning.md) — related

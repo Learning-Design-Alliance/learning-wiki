@@ -49,3 +49,4 @@ Comparison of value-added estimates across model specifications using urban scho
 - [Including track indicators in value-added models may reduce tracking-related bias for high school reading teachers](track-indicators-reduce-bias-high-school-reading.md) — related
 - [Detecting that students are tracked to teachers does not necessarily imply bias in teacher effectiveness estimates](tracking-detection-does-not-imply-vam-bias.md) — related
 - [Value-added teacher rankings are insensitive to correcting measurement error in the pretest, with correlations of 0.91–0.99 for elementary and 0.77–0.98 for middle school teachers](value-added-rankings-robust-to-eiv-correction.md) — related
+- [Up to 26% of teachers in the bottom value-added quintile under one specification are ranked higher under another specification](vam-bottom-quintile-reclassification-26-percent.md) — related

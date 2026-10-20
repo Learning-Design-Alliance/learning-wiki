@@ -46,3 +46,4 @@ A systemic planning consideration listed by NCSI for effectively planning learni
 - [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related
 - [New baseline data are needed to support instructional planning for individual students and student groups after disrupted schooling](new-baseline-data-needed-instructional-planning-disrupted-schooling.md) — related
 - [IEP processes should be followed to ensure students' due process protections, including amendment, revision, and new data informing present levels](iep-processes-due-process-protections.md) — related
+- [Teachers need support to meet students' varied needs following weather-related disruptions](teachers-need-support-after-weather-disruptions.md) — related

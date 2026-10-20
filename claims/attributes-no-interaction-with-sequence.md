@@ -66,3 +66,4 @@ In the experimental design MANCOVA with the three survey-derived attribute facto
 - [No significant interaction between condition and pre-test knowledge on learning outcomes in either topic](no-condition-pretest-interaction-we-ps.md) — related
 - [Sequence of worked examples and problems had no significant effect on self-reported cognitive load, but higher prior knowledge was associated with lower load in experimental design](cognitive-load-no-sequence-effect.md) — related
 - [Order of worked examples and problem solving had no significant effect on application and transfer scores in experimental design or graphing](we-ps-sequence-no-effect-inquiry-competencies.md) — related
+- [In one flipped calculus study, prior achievement level had no significant main effect on self-efficacy, although it interacted with teaching method](prior-achievement-null-self-efficacy.md) — related

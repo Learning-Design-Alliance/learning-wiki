@@ -50,3 +50,5 @@ Survey analysis (n = 1,008) of challenge frequencies by student group, as descri
 - [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related
 - [The number of challenges a student experienced was strongly associated with post-COVID course satisfaction: 81 percent satisfaction with no challenges versus 32 percent with four or more](challenge-count-associated-satisfaction.md) — related
 - BIPOC survey respondents were more likely than White respondents to report experiencing racial discrimination at work — related
+- [Four or more major challenges were more prevalent among women, Hispanic and minoritized students, and lower-income students](major-challenges-more-prevalent-women-minoritized-low-income.md) — a broader claim this one bears on
+- [Despite more challenges, minoritized, female, and lower-income students were more likely to rate their online STEM experience as good as or better than in person](minoritized-female-low-income-rated-online-experience-equal-or-better.md) — related

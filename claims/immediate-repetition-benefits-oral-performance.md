@@ -53,3 +53,5 @@ The article reviews prior task-repetition research (Bygate 2001; Ahmadian and Ta
 - [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](carousel-task-immediate-repetition-benefits.md) — a narrower finding that bears on this claim
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [Structured repetition gains in fluency depend on repeating the same task](structured-repetition-fluency-task-specific.md) — related
+- [AI-powered corrective feedback and repeated practice enhance oral language skills (Communicative Capacity Pathway)](ai-improves-speaking-proficiency-feedback-practice.md) — related
+- [Learners valued safe, repeatable, nonjudgmental AI practice environments that reduced anxiety and bridged the theory-practice gap](ai-simulation-safe-practice-environments.md) — related

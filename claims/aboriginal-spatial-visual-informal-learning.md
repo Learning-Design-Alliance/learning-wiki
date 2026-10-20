@@ -45,3 +45,4 @@ The review reports this second-hand, citing Fleer (1989); the underlying studies
 ## Related Claims
 - [Learning Styles Matching Does Not Improve Learning](learning-styles-matching-does-not-improve-learning.md) — related
 - [Hispanic adults valued culturally relevant visual design — bright colors, Hispanic representation, and realistic imagery — in lung cancer screening educational materials](culturally-relevant-visual-design-lcs-materials.md) — related
+- [Girls exhibited significantly higher learning preferences than boys for visual means and agency support, with no significant gender differences for auditory or sensorimotor modalities](girls-prefer-visual-and-agency-support.md) — related

@@ -54,3 +54,5 @@ Results section comparison of the three classifiers against the zero-rule baseli
 - [Algorithmically inferred measurement functions may intensify, rather than resolve, the problem of nomic measurement in analyzing student learning](ai-intensifies-nomic-measurement-problem.md) — related
 - [An AST-only structural classifier substantially exceeds random baseline accuracy in predicting CogTax levels, with L1–L3 mutually confused and L4 perfectly precise](ast-baseline-taxonomy-level-classification.md) — related
 - [Decision trees achieve competitive accuracy with black-box models (LR, RF, SVM), which performed slightly better but lack interpretability](dt-competitive-with-black-box-classifiers.md) — related
+- [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](lstm-strategy-temporal-analytics-outperforms-baselines.md) — related
+- [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — related

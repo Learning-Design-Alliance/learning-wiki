@@ -57,3 +57,6 @@ Descriptive comparison of risk identification rates by student group in the 2022
 - Students of color receive disparaging signals about belonging and ability that their White upper-middle-class peers are far less likely to receive — related
 - Among control students, AI platform use is lower among special education students and lower-achieving students — related
 - Institutions with larger shares of Pell, AIAN, NHPI, Black, and Hispanic students are less likely to meet PVC Threshold 0, while higher Asian shares increase the likelihood — related
+- [The likelihood of being identified as at risk increases as historically underserved background characteristics intersect, with variation by gender and race/ethnicity, and school characteristics also matter](intersectional-risk-likelihood.md) — related
+- [In Virginia, Hispanic/Latino children labeled English Learners with low kindergarten literacy were 20 percent less likely to achieve grade-3 reading proficiency than similar peers](el-labeling-virginia-reading-proficiency-gap.md) — related
+- [Across beginning, middle, and end of year time periods, 52 percent of Massachusetts K–3 grantees' students were ever classified as at any level of reading risk, about 27 percent at the highest risk levels, and 12 to 18 percent as potentially at risk of dyslexia](massachusetts-k3-52-percent-ever-at-risk.md) — related

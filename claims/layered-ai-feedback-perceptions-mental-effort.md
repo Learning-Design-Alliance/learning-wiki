@@ -67,3 +67,4 @@ Paired t-tests within the layered group (N=100) comparing perceptions of first-l
 - [Non-layered AI feedback produced significantly higher post-test performance than layered AI feedback after controlling for pre-test](non-layered-ai-feedback-beats-layered-post-test.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — reports the opposite
 - [AI chatbot access lowers teachers' perceived cognitive effort during learning design](ai-access-lowers-cognitive-effort-learning-design.md) — reports the opposite
+- [The total effect of layered feedback on learning outcomes was significantly negative, with an unmediated negative direct effect](layered-feedback-negative-total-effect.md) — related

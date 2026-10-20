@@ -43,4 +43,7 @@ Reported finding of the three-factor between-subjects experiment manipulating in
 
 
 ## Related Claims
--
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — related
+- [The animation advantage is larger when the animation is system-paced](animation-advantage-larger-system-paced.md) — related
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — related
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — related

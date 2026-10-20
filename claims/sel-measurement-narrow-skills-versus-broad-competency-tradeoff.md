@@ -46,3 +46,5 @@ The brief's own description poses the central measurement question: "a set of di
 - [Educators' efforts to support SEL are hampered by a lack of available, unbiased measures of related competencies](sel-measurement-lack-unbiased-measures.md) — related
 - [Balanced SEL frameworks cover intrapersonal, interpersonal, and cognitive competencies and mix skills, knowledge, and attitudes](balance-criterion-intrapersonal-interpersonal-cognitive-competencies.md) — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — related
+- [Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context](sel-stability-variance-unknown.md) — related
+- [Integrating POG assessments into traditional standardized-test-centered accountability systems is complex, and lack of a standardized framework can produce inconsistent measurement across regions](pog-assessment-integration-challenges.md) — related

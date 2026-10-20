@@ -44,3 +44,5 @@ Narrative review assertion citing Lum et al. (2018) and Snow (2009) that maltrea
 
 ## Related Claims
 - [Maltreated and neglected children show less accurate facial emotion identification, difficulty with positive emotions, and higher rumination](maltreated-children-emotion-identification-deficits.md) — related
+- [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
+- [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related

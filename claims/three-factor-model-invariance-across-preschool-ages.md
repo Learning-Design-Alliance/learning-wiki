@@ -47,3 +47,5 @@ Multi-sample CFA compared younger (n = 196) and older (n = 176) groups split at 
 - [Preschool emergent writing skills are best described by three correlated but distinct factors: Conceptual Knowledge, Procedural Knowledge, and Generative Knowledge](three-factor-structure-emergent-writing-preschoolers.md) — a broader claim this one bears on
 - [The three emergent writing factors show distinct patterns of relations to general cognitive, language, and emergent literacy measures](distinct-correlates-emergent-writing-factors.md) — related
 - The four cognitive measures form four distinct but significantly correlated latent factors whose relations are stable across the two age groups — related
+- [SFAILQ shows scalar measurement invariance across adolescents, young adults, and middle-aged adults](sfailq-scalar-invariance-age-groups.md) — related
+- [The achievement goal model's pattern of results holds for both younger and older adult age groups](goal-model-holds-across-age-groups.md) — related

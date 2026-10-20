@@ -49,3 +49,4 @@ Critical incident 3 in Example 2: moment-by-moment analysis of one presenting st
 - [Students' situational stress (ASV) values were elevated during periods when students were engaged in tasks at the whiteboard](asv-elevated-whiteboard-presentations.md) — a broader claim this one bears on
 - [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](stress-peaks-cooccur-conflict-presenting.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — a broader claim this one bears on
+- [Peer discussion leading to individual resolving of an incorrect solution was interpreted as cognitive engagement favouring learning, co-occurring with peaking situational stress](peer-discussion-individual-resolution-engagement.md) — related

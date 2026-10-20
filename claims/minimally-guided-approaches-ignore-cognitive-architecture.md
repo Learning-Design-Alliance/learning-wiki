@@ -50,3 +50,5 @@ This is the article's theoretical argument, made in the abstract: minimally guid
 - [The cognitive architecture has been used to design a variety of novel instructional procedures](architecture-generated-novel-instructional-procedures.md) — related
 - [Many popular school-based prevention approaches have not been well studied to date](popular-prevention-approaches-understudied.md) — related
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — possibly the same claim (merge candidate)
+- [Cognitive constructivism has strong empirical support and suggests new directions for science education, and must be distinguished from metaphysical constructivism](grandy-cognitive-vs-metaphysical-constructivism.md) — related
+- [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related

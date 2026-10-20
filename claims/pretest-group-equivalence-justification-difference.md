@@ -45,3 +45,5 @@ Pre-test Mann–Whitney U comparison of both groups' rubric scores on the tree g
 ## Related Claims
 - [At the end of the programme, the trained experimental group differed significantly from the control group in argumentation competence](posttest-experimental-beats-control-argumentation.md) — related
 - [Preservice elementary science teachers who completed the argumentation training programme made significant pre-to-post gains across the three argument elements and overall argumentative performance](training-programme-significant-prepost-argumentation-gains.md) — related
+- [Experimental and control groups were equivalent in vocabulary before the glossing treatment](gloss-study-groups-equivalent-at-pretest.md) — related
+- [Six months after training, the experimental group showed a slight improvement over the control group in transferring argumentation to teaching practice, especially in mentioning argumentation in practice portfolios](sixmonth-portfolio-transfer-argumentation.md) — related

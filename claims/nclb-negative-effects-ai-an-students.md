@@ -64,3 +64,6 @@ The report's synthesis of prior research states NCLB "eroding programs that were
 ## Related Claims
 - Structural/policy research terms consistently decreased between eras, with accountability down 73 percent and NCLB mentions down 97 percent following ESSA's 2015 replacement of NCLB — related
 - Research priority shifts between eras correlate with federal policy changes and national events, as when chronic absenteeism research emerged only after ESSA created federal reporting requirements — related
+- [The NCLB era's focus on targets and sanctions without educator capacity-building or component alignment was a key barrier to implementing new standards](nclb-targets-sanctions-without-capacity-barrier.md) — related
+- [State tests under NCLB measured little higher-order thinking, with only 2 percent of math items qualifying](nclb-tests-low-higher-order-content.md) — related
+- [High-stakes testing accountability is pervasive in American K-12 schooling while its efficacy remains contested](high-stakes-testing-pervasive-efficacy-contested.md) — a broader claim this one bears on

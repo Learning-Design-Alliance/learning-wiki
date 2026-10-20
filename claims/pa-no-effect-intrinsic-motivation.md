@@ -50,3 +50,5 @@ Three-level meta-analysis with CHERVE of PA-versus-non-PA comparisons measuring 
 - [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related
 - [Pedagogical agents have a small, statistically significant positive effect on learners' broadly defined 'motivation' (g = 0.20)](pa-small-significant-effect-broad-motivation.md) — related
 - [Pedagogical agents do not significantly affect learners' value beliefs (g = 0.09, non-significant)](pa-no-effect-value-beliefs.md) — related
+- [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](pa-non-significant-utility-beliefs.md) — related
+- [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related

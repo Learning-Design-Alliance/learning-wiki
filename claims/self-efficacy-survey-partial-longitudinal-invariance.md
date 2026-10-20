@@ -45,3 +45,8 @@ Longitudinal measurement invariance testing (Appendix C, Table A5) following Wid
 ## Related Claims
 - Prior longitudinal studies of math and self-efficacy tend to fit models assuming the constructs lack unique developmental trajectories and do not examine within-person relations — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
+- [The authors conclude that MAP reading and mathematics CAT constructs are invariant across five time points in ten states (except Indiana mathematics), though their mathematics tables show strong-invariance CFI drops above 0.01 in most states](map-cat-longitudinal-construct-invariance-ten-states.md) — related
+- [MLGM model fit failed for the Indiana mathematics test, the sole exception to invariance support](indiana-mathematics-mlgm-fit-exception.md) — related
+- [The GenAI-SRL scale achieves measurement invariance across gender groups at metric and scalar levels](genai-srl-measurement-invariance-gender.md) — related
+- [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](ell-working-paper-academic-and-social-emotional-growth.md) — a broader claim this one bears on
+- [An NWEA research brief examines how self-efficacy relates to the persistence of achievement gaps for English Language Learners; its landing page states no finding](self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) — related

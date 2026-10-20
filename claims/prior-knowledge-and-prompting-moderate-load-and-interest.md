@@ -71,3 +71,9 @@ Bayesian multilevel ordinal regression for invested mental effort (best-fitting 
 - [Cognitive load ratings rise and interest and self-assessed understanding fall in sections introducing new content knowledge compared with introductory sections of worked examples](load-higher-interest-lower-in-content-knowledge-sections.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
+- [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](difficulty-negative-interest-understanding-positive-correlations.md) — related
+- [Model-based posterior-prediction correlations between the four variables show distinct dynamic patterns across the 21 time points and four intervention groups](posterior-prediction-correlations-dynamic-across-groups.md) — related
+- [Students perceive collaborative physics tasks as less difficult after completing them](task-difficulty-decreases-after-collaborative-task.md) — related
+- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
+- [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
+- [High experienced effort-by-complexity is not necessarily indicative of better learning outcomes](high-effort-not-indicative-better-learning.md) — related

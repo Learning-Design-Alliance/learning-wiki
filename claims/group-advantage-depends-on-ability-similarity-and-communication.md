@@ -48,3 +48,5 @@ Experiments (Bahrami et al., as reviewed here) degraded one partner's perceptual
 - [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — a broader claim this one bears on
 - [Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage](linguistic-coordination-confidence-vocabularies.md) — related
 - [Individual acceptance of group constructions depends on reflection and reconciliation processes triggered by differing opinions, sometimes occurring after the group session](reflection-reconciliation-post-group-processes.md) — related
+- [Optimal play in coordination games requires estimating a partner's degree of recursion and one's certainty in that estimate](stag-hunt-recursive-metacognitive-estimates.md) — related
+- [Sharing perceptual experiences through discussion improves individual performance beyond mere task practice](discussion-improves-individual-perception.md) — related

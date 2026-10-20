@@ -48,3 +48,5 @@ Descriptive participation rates by programmatic indicators (Figure 4). The repor
 
 ## Related Claims
 - [Students with greater economic need participated at higher rates in Chicago Connected](economic-need-higher-chicago-connected-participation.md) — related
+- [Participation rates rose with eligibility index score, reflecting program prioritization](chicago-connected-participation-rose-with-eligibility-index.md) — related
+- [Latinx, Black, and Asian students participated at higher rates than White peers; household size explained Latinx, Black, and Asian differences](race-ethnicity-participation-differences-chicago-connected.md) — related

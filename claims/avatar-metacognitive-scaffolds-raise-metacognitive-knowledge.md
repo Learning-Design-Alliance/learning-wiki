@@ -47,3 +47,6 @@ Multivariate, multilevel regression (N=54, 18 triads) predicting metacognitive k
 - [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md)
 - [Metacognitive activities mediate the effects of metacognitive scaffolds on both domain and metacognitive knowledge](metacognitive-activities-mediate-scaffolding-effects.md)
 - [Only problematizing scaffolds, not structuring scaffolds, significantly raise domain knowledge](only-problematizing-scaffolds-raise-domain-knowledge.md)
+- [Students' own cognitive and metacognitive activities predict learning, off-task activity lowers metacognitive knowledge, and group mates' relational activities raise domain knowledge](activity-type-proportions-predict-learning-outcomes.md) — related
+- [Metacognitive scaffolding produced a small significant positive effect on the individual metacognitive knowledge students acquired](scaffolding-small-effect-metacognitive-knowledge.md) — related
+- [Metacognitive avatar scaffolds increase students' proportion of metacognitive activities, with no significant difference between scaffold types](scaffolds-increase-metacognitive-activities-equally.md) — related

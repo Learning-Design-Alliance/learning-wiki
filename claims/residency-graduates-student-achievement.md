@@ -45,3 +45,7 @@ The report's student-achievement section summarizes the UTR study, reporting stu
 ## Related Claims
 - [The few studies of student outcomes suggest residency graduates perform as well as or better than other novice teachers on student outcome measures](residency-graduates-student-outcomes.md) — possibly the same claim (merge candidate)
 - A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching — related
+- [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
+- [Teacher residency program graduates are more racially diverse than other new teachers and much more likely to stay in teaching, especially in sponsoring high-need districts](teacher-residencies-retain-diverse-candidates.md) — related
+- [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — related
+- [Well-prepared and well-mentored teachers stay in teaching at more than twice the rate of unprepared entrants, and teacher residency programs typically retain more than 80% over five years](teacher-preparation-mentoring-retention.md) — related

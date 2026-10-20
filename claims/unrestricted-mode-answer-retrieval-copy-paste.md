@@ -66,3 +66,7 @@ Linguistic similarity analysis comparing each final training answer with the cha
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — reports the opposite
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [Students' GenAI prompts overwhelmingly exact-copy instructions and request information rather than review](genai-prompts-exact-copy-and-information-requests.md) — related
+- [Learners engaged extensively with the chatbot, overwhelmingly communicating in Japanese rather than English](penny-usage-metrics-japanese-preference.md) — related
+- [Guest-mode usage dominates lightweight help-seeking, raising an equity concern that students without metacognitive support stay at shallow answer lookup](guest-mode-equity-metacognitive-labor.md) — related
+- [Socratic-mode participants progressively disengaged from the chatbot: message counts declined after question 5 and EEG engagement fell to its lowest value at question 10](socratic-mode-progressive-disengagement.md) — related
+- [Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold](socratic-more-attempts-many-never-reach-mastery.md) — related

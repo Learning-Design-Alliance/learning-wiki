@@ -46,3 +46,5 @@ Descriptive analysis of statewide hiring data in the Executive Summary. The repo
 - [In Texas in 2023–24, 68% of newly hired teachers were underqualified or unqualified, teaching on intern certificates, emergency permits, or no certification](texas-68-percent-new-hires-underqualified-2023-24.md) — related
 - [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — related
 - [Newly hired Texas teachers with standard or intern certificates declined sharply over the past decade while uncertified new hires became the largest category](texas-new-hire-certification-mix-shifted.md) — related
+- [Noncertified Texas teachers show the sharpest retention decline, with fewer than 40% still teaching after 5 years](noncertified-sharpest-retention-decline.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related

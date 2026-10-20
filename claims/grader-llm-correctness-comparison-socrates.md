@@ -65,3 +65,5 @@ Same grader-correctness log analysis, assignment A3. The article calls this "a t
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](rubric-prompting-raises-llm-assigned-scores.md) — related
 - [Gemini and Gemini Pro show the highest internal grading consistency across file upload volumes, with no clear monotonic lost-in-the-middle effect](gemini-highest-consistency-across-file-volumes.md) — related
 - [Running the Socrates playground and grader incurred low cost, with even gpt-4o consuming only $169.90](socrates-low-operational-cost.md) — related
+- [LLMs differ systematically in grading strictness, forming liberal, restrictive, and balanced grading styles on programming assignments](llms-differ-liberal-restrictive-balanced-grading-styles.md) — related
+- [LLM grading patterns cluster into six groups aligned with vendor families, with highest correlations within same-vendor model families](llm-grading-vendor-specific-six-clusters.md) — related

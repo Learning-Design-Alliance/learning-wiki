@@ -43,4 +43,8 @@ Experiment 2 retrospective reports: 15 teachers described which keyword and summ
 
 
 ## Related Claims
--
+- [Students tend to rely on non-diagnostic cues when judging their own performance, resulting in inaccurate judgments](students-rely-on-nondiagnostic-cues-inaccurate-monitoring.md) — a broader claim this one bears on
+- [A brief cue-diagnosticity intervention did not significantly improve teachers' judgment accuracy, presumably because accuracy was already relatively high](diagnosticity-intervention-no-accuracy-gain.md) — related
+- [The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).](keyword-quality-not-diagnostic-of-test-performance.md) — related
+- [Feedback training did not change children's cue utilization despite repeated metacognitive experiences](feedback-training-did-not-change-cue-utilization.md) — related
+- [Pre-structured diagrams improved metacomprehension accuracy while self-assessment cues showed no differences](diagramming-metacomprehension-accuracy-cues-null.md) — related

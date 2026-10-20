@@ -65,3 +65,11 @@ In the same behavioral analysis, proactive slowing showed no age association: "T
 - [Inhibition relates to procedural skill in secondary-school children but to conceptual understanding in adults](inhibition-procedural-children-conceptual-adults.md) — related
 - [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related
 - [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](self-regulation-proactive-response-slowing-children.md) — related
+- [Adolescents showed faster, more accurate, and less variable performance than children, with reward effects on inhibition accuracy differing by age](age-differences-in-inhibition-and-reward-response.md) — related
+- [Higher self-regulation in pre-adolescent children is associated with stronger right mid frontal cortex activation during proactive inhibition](self-regulation-frontal-activation-proactive-inhibition.md) — related
+- [Go-trial response times are slower during the stop-signal task than the no-tone task, with no diagnostic group difference](stop-signal-slows-mean-reaction-time-equally.md) — related
+- [Children adopt a more cautious response strategy (higher boundary separation) when intermittent stop trials are introduced](stop-signal-demands-increase-boundary-separation.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related
+- [Introducing intermittent stop trials does not change processing speed (drift rate) in children with or without ADHD](stop-signal-demands-no-drift-rate-change.md) — related
+- [SSRT was faster in the cancellation task than in the restraint task, supporting inhibition as a non-unitary construct](ssrt-faster-cancellation-than-restraint.md) — related
+- [Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence](sst-inhibitory-control-curvilinear-growth-adolescence.md) — related

@@ -45,3 +45,5 @@ National comparative analysis of K-8 students from Catholic and public schools w
 ## Related Claims
 - [Catholic school students in earlier grades show less academic-year growth than public school peers in both reading and math](early-grades-catholic-less-growth-reading-math.md) — related
 - [Public school students close the achievement gap with Catholic school students to some degree during the school year](public-school-students-close-gap-during-school-year.md) — related
+- [Achievement growth patterns between Catholic and public school students varied by age and subject](sector-growth-patterns-vary-age-and-subject.md) — related
+- [In middle school, academic-year growth in math was comparable across Catholic and public school sectors](middle-school-math-growth-comparable-sectors.md) — related

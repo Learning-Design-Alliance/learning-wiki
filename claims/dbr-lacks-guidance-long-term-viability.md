@@ -45,3 +45,4 @@ Theoretical argument in the article's introduction reviewing the field's methodo
 ## Related Claims
 - [Participants identified staff turnover as a critical factor threatening sustainability of pilot solutions](turnover-threatens-sustainability-inclusive-innovation.md) — a narrower finding that bears on this claim
 - [Design-based research is important for the development of technology-enhanced learning environments](dbr-importance-for-tele-development.md) — related
+- [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](dbr-two-macro-cycles-114-participants-standards.md) — related

@@ -43,4 +43,7 @@ Correlational analysis of strategy self-reports (Table 2); the article reports o
 
 
 ## Related Claims
--
+- [Effort regulation and student engagement were the most consistent predictors of learning strategy use and self-reported achievement](effort-regulation-engagement-consistent-predictors.md) — related
+- [Undergraduate students reported using relatively effective strategies (elaboration, organisation, spacing) more than less effective ones, with elaboration most endorsed and self-testing least endorsed](nz-undergrads-endorse-effective-strategies-more.md) — related
+- [In regressions predicting self-reported achievement, elaboration positively (Beta = 0.24) and cramming negatively (Beta = -0.30) predicted achievement, but only effort regulation and engagement remained significant in the combined model](elaboration-cramming-achievement-regression.md) — related
+- [The largest source of mismatch between trace-based and think aloud SRL processes was confusion between elaboration/organisation and first-reading processes](mismatch-elaboration-first-reading.md) — related

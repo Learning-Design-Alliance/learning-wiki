@@ -49,3 +49,4 @@ Observational SNA analysis across the 12 PBL courses comparing multigraph, weigh
 - [Betweenness centrality shows the least consistent correlation with performance, being largely insignificant or negative across configurations except in one course](betweenness-centrality-least-consistent.md)
 - [Multigraph indegree centrality is consistently and positively correlated with student performance across 12 PBL courses, with stronger correlations than other configurations in eight courses](multigraph-indegree-consistent-performance-correlation.md)
 - [Courses with a low number of forum interactions show inconsistent participation-dimension results, while eigenvector centrality remains robust there.](low-interaction-courses-inconsistent-participation-measures.md)
+- [Post size is not a reliable tie weight for centrality measures; receiving interactions better indicates the value of a contribution.](post-size-unreliable-tie-weight.md) — related

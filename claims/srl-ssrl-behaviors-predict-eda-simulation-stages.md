@@ -3,6 +3,7 @@ type: claim
 title: Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training
 description: Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training
 id: srl-ssrl-behaviors-predict-eda-simulation-stages
+aliases: [srl-ssrl-codes-predict-eda-across-simulation-segments]
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -17,15 +18,26 @@ sources:
     i: "?"
     kind: review
     rigour: 2
+  - id: moreno-2025
+    resource: "https://doi.org/10.1007/s10648-025-10044-0"
+    title: "Moreno, M., Grewal, K., Cutumisu, M., & Harley, J.M. (2025). Employing Machine Learning to Predict Medical Trainees’ Psychophysiological Responses, Self- and Socially-Shared Regulated Learning Strategies While Completing Medical Simulations. Education Psychology Review, 37 (70), 1-29. https://doi.org/10.1007/s10648-025-10044-0"
+    author: "Moreno, M., Grewal, K., Cutumisu, M., & Harley, J.M."
+    q: 2
+    i: "?"
+    kind: associational
+    rigour: 1
 ---
 
 # Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 2 studies · 1 review `r2`, 1 associational `r1` · `q2`
 
 ## Subclaims
+
 `q2 i?` Different patterns of SRL and SSRL behaviors were predictive of EDA at distinct stages of the simulation, indicating that learners' regulatory needs shift over time. [→ Joni Lämsä 2026](#joni-lamsa-2026)
+
+`q2 i?` Supervised machine learning models using SRL and SSRL codes, behaviors, and self-report data predict trainees' EDA, with predictive relationships varying by simulation segment. [→ Moreno 2025](#moreno-2025)
 
 ## Evidence
 
@@ -39,14 +51,27 @@ The commentary summarizes Moreno et al.'s (2025) empirical study in which "Sixty
 
 > "Results showed that different patterns of SRL and SSRL behaviors were predictive of EDA at distinct stages of the simulation, highlighting how learners' regulatory needs shift over time."
 
+### Moreno 2025
+
+Moreno, M., Grewal, K., Cutumisu, M., & Harley, J.M. (2025). Employing Machine Learning to Predict Medical Trainees’ Psychophysiological Responses, Self- and Socially-Shared Regulated Learning Strategies While Completing Medical Simulations. Education Psychology Review, 37 (70), 1-29. https://doi.org/10.1007/s10648-025-10044-0
+
+`q2 · i?` · `associational · r1`
+
+Cross-sectional multimodal study of 62 medical residents in 19 teams completing one high-fidelity simulation each; Lasso regression models predicted EDA from video-coded SRL/SSRL strategies, behaviors, and self-report. The article reports that "varying SRL and SSRL codes can predict EDA" across segments.
+
+> "Results indicated that varying SRL and SSRL codes can predict EDA based on the regulatory needs of learners at different segments of the simulation."
+
 ## Discussion
 
 
+
 ## Related Claims
+
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [SSRL 'Facilitation' codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](facilitation-codes-differ-across-segments.md) — related
 - [SRL 'Execution' strategy codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](execution-codes-differ-across-segments.md) — related
 - [SRL 'Evaluation' strategy codes differ between the 'Beginning' and 'Peak' segments of medical simulations](evaluation-codes-differ-beginning-peak.md) — related
 - [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
-- [Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations](srl-ssrl-codes-predict-eda-across-simulation-segments.md) — possibly the same claim (merge candidate)
+- [Most groups maintain stable deliberation patterns across triggering events and fail to adapt to emerging regulatory needs](groups-stable-deliberation-patterns-fail-adapt.md) — related
+- [In the beginning-segment Lasso model, participant role accounted for 15% of the final prediction model](participant-role-15-percent-beginning-model.md) — a narrower finding that bears on this claim

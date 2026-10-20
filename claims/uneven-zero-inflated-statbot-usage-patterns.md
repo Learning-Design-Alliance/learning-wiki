@@ -72,3 +72,9 @@ Weekly usage counts across the 16-week semester (range 10–365, mean 192.81, SD
 - [Weekly engagement with course materials varied widely (mean 63.9 page views), and student feedback on the AI-supported format was largely positive](variable-engagement-positive-feedback-ai-course.md) — related
 - [High-frequency LLM users show higher minimum course outcomes and reduced score variability, though interaction level is not a dominant outcome predictor](high-usage-lower-variance-higher-minimum.md) — related
 - [Cumulative engagement showed staircase growth with deadline-driven peaks of 348 events on April 4th and 205 events around April 9th](cumulative-engagement-staircase-deadline-peaks.md) — related
+- [GenAI Tutor adoption was widespread but usage intensity was highly skewed, with adoption peaking early in the semester while intensity rose steadily](genai-tutor-adoption-usage-skew.md) — related
+- [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related
+- [Students showed only modest engagement with GenAI functionalities during in-semester use of the feedback tool](modest-in-semester-engagement-genai-feedback-tool.md) — related
+- [Student generative AI use expanded substantially within engineering mechanics coursework over the semester, from 37% to 51% using it at least weekly](mechanics-ai-use-expanded-over-semester.md) — related
+- [Pilot engagement was strong with month-over-month user retention, and teachers used the AI primarily for consumption rather than creation](cics-pilot-engagement-consumption-over-creation.md) — related
+- [GenAI use is widespread among higher education students in reviewed studies, with some studies reporting over 95% of participants had used GenAI tools](genai-use-widespread-higher-education-students.md) — related

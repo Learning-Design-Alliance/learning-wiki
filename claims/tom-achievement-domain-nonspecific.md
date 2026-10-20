@@ -64,3 +64,5 @@ Post-hoc tests within the cross-sectional meta-analysis showed significant poole
 ## Related Claims
 - [Longitudinally, the ToM–achievement association does not differ significantly across academic achievement domains, and time lag does not moderate it](longitudinal-domain-moderator-nonsignificant.md) — possibly the same claim (merge candidate)
 - [Children's theory of mind shows a significant positive cross-sectional association with academic achievement (r = 0.32)](tom-academic-achievement-positive-association.md) — related
+- [Review findings are consistent across study design features; no moderator showed meaningful relationships](sble-findings-consistent-across-design-features.md) — related
+- [The ToM–achievement association is significantly weaker in European samples than in Asian and North American samples](european-samples-weaker-tom-achievement-link.md) — related

@@ -52,3 +52,6 @@ The article asserts as its framing premise that "Student engagement increases st
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Staying motivated was the most pervasive challenge of learning remotely, and students missed instructor feedback, peer collaboration, and hands-on experiences](motivation-and-lost-interaction-challenges-remote.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [ICE environments are associated with mood disturbance, reduced motivation, social withdrawal, interpersonal conflict, and altered time perception](ice-environments-mood-and-team-risks.md) — related
+- [Students experience a perceived sense of support and connectedness through conversational ChatGPT interaction, though this is not genuine human relatedness](chatgpt-perceived-relatedness-support.md) — related
+- [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related

@@ -46,3 +46,6 @@ Meta-regression from Table 2 controlling for log-centered test length. Open answ
 - [Cronbach's Alphas of knowledge tests vary widely, with a 90% prediction interval of (0.35, 0.96)](knowledge-test-alpha-prediction-interval.md) — related
 - [Meta-analytic average Cronbach's Alpha of domain-specific knowledge tests is 0.85 with expected item intercorrelation of 0.22](meta-analytic-alpha-knowledge-tests-085.md) — related
 - [Alpha of knowledge tests is substantially related to the number of items in the test](knowledge-test-alpha-test-length.md) — related
+- [The multiple-choice component of the revised ELA placement test strongly measured overall ELA performance, but few items strongly measured the three specific ELA domains](cmi-ela-test-strong-overall-weak-domain-measurement.md) — related
+- [Alpha is negatively related to sample mean age, and knowledge type shows no effect after controlling for test length](knowledge-test-alpha-age-and-type.md) — related
+- [Alpha of knowledge tests is higher for language and mathematics than for science and social sciences/humanities](knowledge-test-alpha-domain-differences.md) — related

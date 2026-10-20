@@ -47,3 +47,6 @@ The brief poses its guiding question as "What can we glean about students' socia
 - [Mean item response durations show no strong relationship with math motivation and self-efficacy in general](mean-item-durations-not-strongly-related-motivation-self-efficacy.md) — related
 - Response times have been used extensively for achievement estimation but little work links test metadata to social-emotional constructs — related
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — possibly the same claim (merge candidate)
+- [The article investigates whether achievement gap estimates are sensitive to test motivation, framing the question as achievement gap versus engagement gap](gap-estimates-sensitive-to-test-motivation-investigation.md) — related
+- [A literature review investigated whether assessment metadata can provide information on SEL constructs](literature-review-assessment-metadata-sel.md) — related
+- [Computer-based testing's routine capture of item-level response times has driven increased interest in applications of response time to measuring ability and achievement](computer-based-testing-drives-response-time-interest.md) — related

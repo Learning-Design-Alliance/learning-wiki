@@ -54,3 +54,8 @@ Thematic analysis of student post-surveys (n=79) and focus groups (n=18) in a qu
 - [GPT-4 generated detailed per-response feedback that was useful for identifying scoring errors and could support personalized student feedback](gpt4-feedback-useful-for-error-identification.md) — related
 - [Middle school students engaged directly and positively with AI-generated rubric feedback, including conversing with the AI](students-engage-positively-with-ai-feedback.md) — related
 - [Rubrics with parallel sentence structure, unambiguous wording and well-specified dimensions have lower grading variance, and revising rubrics decreased median grading error from 12.4% to 9.9%](rubric-wording-lower-grading-variance.md) — related
+- [Concrete progress indicators and visible improvement in writing motivated students' revision engagement](ai-feedback-progress-motivates-revision.md) — related
+- [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](genai-corrective-feedback-motivation-benefits.md) — related
+- [Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison](prompt-revision-increased-feedback-specificity.md) — related
+- [Students reported satisfaction with the detailed analyses, personalized multi-dimensional recommendations and motivational guidance provided by the AI systems](students-satisfied-with-genai-feedback-quality.md) — related
+- [Rubric-based AI feedback allowed teachers to scaffold learning while reducing their workload, per the authors' interpretation](rubric-ai-feedback-scaffolds-and-reduces-workload.md) — related

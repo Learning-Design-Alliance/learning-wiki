@@ -62,4 +62,10 @@ Confirmatory factor analysis with Sample Two (1078 cases) via AMOS maximum likel
 
 
 ## Related Claims
--
+- [Monitoring of interactive metadiscourse has the strongest predictive power among the three MRIM strategies for L2 argumentative writing](mim-strongest-predictor-of-l2-writing.md) — related
+- [Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation](self-report-two-factor-metacognition-knowledge-regulation.md) — related
+- [Metacognitive regulation of interactive metadiscourse strategies significantly predicts L2 argumentative writing performance, explaining about 11.3% of variance](mrim-predicts-l2-argumentative-writing-performance.md) — related
+- [Metacognition items loaded as a single factor, and time management combined with planning, in the SRL-O structure](srl-o-metacognition-single-factor-planning-time-management.md) — related
+- [The self-report measure supports a refined 13-item, four-factor model with good fit](sr-measure-four-factor-cfa.md) — related
+- [Confirmatory factor analysis on FICSMath data confirms the 4C/ID Model's four components fit secondary-tertiary mathematics instructional experiences (CFI = 0.907, RMSEA = 0.050)](cfa-confirms-4cid-model-secondary-tertiary-mathematics.md) — related
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](pilot-efa-four-factor-solution.md) — related

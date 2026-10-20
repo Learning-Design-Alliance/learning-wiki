@@ -47,3 +47,4 @@ Box-plot analysis of the score distribution shows the narrowing is strongest for
 - [The Chicago-versus-rest-of-Illinois gap in ISAT math also narrows in upper grades, but less than in reading](cps-isat-math-gap-narrows-less-than-reading.md) — related
 - [Chicago Latino students underperform rest-of-state Latino counterparts slightly in third grade but outperform them in eighth-grade reading](latino-students-cps-outperform-by-eighth-grade.md) — related
 - [Chicago White students score as well as or better than rest-of-state White peers in reading, and about the same in math](white-cps-students-match-or-beat-statewide-peers.md) — related
+- [When compared within racial/ethnic groups, large CPS-versus-rest-of-state gaps disappear, and some CPS groups outperform their counterparts](within-race-comparison-erases-cps-gaps.md) — a broader claim this one bears on

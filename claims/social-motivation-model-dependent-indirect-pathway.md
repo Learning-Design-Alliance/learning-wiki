@@ -51,3 +51,4 @@ PROCESS Model 8 moderated mediation in the 5764-participant survey; the social-m
 - [Entertainment motivation carries a positive indirect association between AI dependence and self-reported creativity, weakening as perceived AI literacy increases](entertainment-motivation-positive-indirect-pathway.md) — related
 - [Escape motivation carries a significant negative indirect association between AI dependence and self-reported creativity](escape-motivation-negative-indirect-pathway.md) — related
 - [Instrumental motivation shows a small negative indirect association in the moderated model, contrary to the hypothesized positive pathway, with sign reversal across model specifications](instrumental-motivation-sign-reversal-indirect-pathway.md) — related
+- [Perceived AI literacy does not significantly moderate the direct association between AI dependence and self-reported creativity](ai-literacy-no-moderation-direct-association.md) — related

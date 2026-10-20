@@ -68,3 +68,4 @@ The authors report convergence was "attributable to preexisting individual diffe
 - [Convergence between pre-K graduates and nonattenders is largest for more constrained skills such as letter-word identification](convergence-largest-for-more-constrained-skills.md) — related
 - [Pre-K benefits were studied among children from low-income homes in a large and diverse county (n = 2,581)](pre-k-benefits-study-low-income-county-sample-2581.md) — related
 - [NC Pre-K participants made greater gains than expected for normal developmental growth, with particular benefits for dual language learners and low-income students](nc-prek-gains-dual-language-learners.md) — related
+- [A year of West Virginia Pre-K produced substantial gains in print awareness at kindergarten entry, and the program meets all 10 NIEER quality standards](wv-prek-print-awareness-gains.md) — related

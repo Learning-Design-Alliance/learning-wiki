@@ -48,3 +48,4 @@ Kruskal-Wallis ANOVA on coded written justifications with effect size "ε²=.093
 - [Embedded source credibility rating scales during video viewing improve middle-schoolers' source identity recognition, especially at delayed posttest](embedded-rating-scales-improve-source-recognition-videos.md) — related
 - [Watching an instructional video on sourcing before viewing had no significant effect on source recognition or convincingness judgments](instructional-video-no-effect-source-consideration.md) — related
 - [Middle-schoolers judge a speaker presented as a researcher as more expert and more trustworthy than one presented as a consumer](researcher-judged-more-credible-than-consumer.md) — related
+- [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related

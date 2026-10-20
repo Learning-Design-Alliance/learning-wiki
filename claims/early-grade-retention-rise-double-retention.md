@@ -64,3 +64,5 @@ Tracking of early-grade retainees reaching the third-grade gate. Many were exclu
 ## Related Claims
 - [Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst](retained-students-struggle-second-time-through.md) — related
 - [Eighth-grade retention rates surged from under 2 percent prepolicy to 8.3 percent in the first policy year, peaking at 11.1 percent](chicago-gate-retention-surge.md) — related
+- [Waivers promoted about one-third of third graders and 40% of sixth and eighth graders who failed the 1997 promotional criteria, keeping retention rates well below failure rates](waivers-promoted-failing-students-1997.md) — related
+- [Fewer than 60 percent of retained third and sixth graders in 1998 and 1999 raised their test scores to the promotional cutoff even with an extra January chance to pass](retained-students-struggled-second-time-through-gate.md) — related

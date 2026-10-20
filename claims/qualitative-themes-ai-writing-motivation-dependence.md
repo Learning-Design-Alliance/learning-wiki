@@ -62,3 +62,7 @@ Semi-structured interviews with eight purposively selected respondents, each las
 - [AI-mediated SSH learning externalizes interpretive cognition as students delegate thematic identification, contextual explanation, and comparative analysis to AI systems](externalization-of-interpretive-cognition.md) — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
 - [Similarity between AI and peer feedback reassured students and increased their confidence in peer response](similarity-between-ai-and-peer-feedback-reassuring.md) — related
+- [Some students described confidence in programming that depended on AI being available](ai-dependent-confidence-expectancy.md) — related
+- [Students value GenAI corrective feedback with rationales and report increased motivation and confidence](genai-corrective-feedback-motivation-benefits.md) — related
+- [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
+- [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related

@@ -47,3 +47,5 @@ Model-fit comparison in a multilevel analysis of vertically scaled MAP Growth sc
 - [The 2025 MAP Growth norms adopted a two-year, two-level piecewise mixed-effects design because two consecutive years of data are sufficient for within-year and adjacent-year growth norms](two-year-piecewise-design-sufficient-for-map-growth-norms.md) — related
 - [Interim achievement data exhibit distinctly seasonal patterns that few existing statistical models can approximate](interim-achievement-data-seasonal-patterns-few-models.md) — a broader claim this one bears on
 - [Mean achievement in the studied cohort shows a saw-tooth seasonal pattern, with within-year gains followed by summer declines (summer learning loss)](sawtooth-seasonal-achievement-pattern-map-growth.md) — related
+- [The proposed seasonal growth model combines polynomial terms for year-to-year growth with piecewise terms for within-year gains and losses](seasonal-model-combines-polynomial-and-piecewise-features.md) — a broader claim this one bears on
+- [Seasonal patterns are discrepant across national data sets](discrepant-seasonal-patterns-national-data-sets.md) — related

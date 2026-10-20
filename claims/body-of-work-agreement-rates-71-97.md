@@ -50,3 +50,4 @@ Single-state standard setting study with five or six raters per panel and fiftee
 - Performance classifications varied considerably across grades in both literacy and mathematics for the alternate portfolio assessment — related
 - Presenting ordered portfolios led panelists to shift toward a bookmarking-like mental process, contaminating independent classification — related
 - [A mean-classification cut-score method outperformed a contrasting-groups-style mean method because it was more robust to outliers](mean-classification-cut-score-method-robust.md) — related
+- [MAP Reading Fluency SWCPM scores classify students into ARM proficiency categories with exact match rates of 74.6–90.8%, kappa 0.60–0.85, and overall accuracy 0.81–0.96](swcpm-classification-accuracy-arm-proficiency.md) — related

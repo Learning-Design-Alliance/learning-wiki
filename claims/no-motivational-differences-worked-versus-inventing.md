@@ -52,3 +52,4 @@ Bayesian independent-samples t-tests on interest and self-efficacy questionnaire
 - [Proximal goals produced higher motivation, skill, self-efficacy, and intrinsic interest than distant or general goals](proximal-goals-benefit-efficacy-and-skill.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related
+- [Invention Tasks Prepare Future Learning](invention-tasks-prepare-future-learning.md) — related

@@ -76,3 +76,7 @@ Same overview: students recognize durable skills like time management, collabora
 - [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — related
 - [Students and faculty value real-world examples in gateway math, but limited resources and training often lead to procedural instruction](real-world-relevance-gateway-math-procedural-instruction.md) — related
 - [Students' key areas of interest in GenAI are real-world business applications, ethical considerations, and future technological advancements](student-genai-interest-areas-applications-ethics-advancements.md) — related
+- [Incorporating the ACT into high-stakes accountability has not, by itself, produced instructional practices teaching more high-level skills](act-accountability-alone-insufficient-for-rigor.md) — related
+- [Changing job requirements mean students must be prepared to change throughout their entire work lives](changing-job-requirements-students-prepared-for-change.md) — related
+- [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](early-fraction-foundations-given-rational-number-difficulty.md) — related
+- [Students express fear and apathy about AI's impact on their careers, shifting focus toward outcomes over process and questioning effort investment in learning computer science](career-fear-apathy-outcomes-over-process.md) — related

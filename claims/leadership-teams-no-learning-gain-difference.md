@@ -45,3 +45,4 @@ Learning gains analysis comparing ISAT-based elementary gains and eleventh-grade
 ## Related Claims
 - [Schools with teams of Fund-supported leaders and NBCT clusters show few differences from other schools](leadership-teams-few-differences.md) — related
 - [No significant differences in one-year learning gains between schools with NBCT clusters and similar schools](nbct-clusters-no-learning-gain-difference.md) — related
+- [No differences in student learning gains found between LAUNCH or NLNS principals and comparable or veteran principals](no-learning-gains-differences-launch-nlns-principals.md) — related

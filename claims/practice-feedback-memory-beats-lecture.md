@@ -48,3 +48,5 @@ Study 1, a three-cell randomized online experiment (N = 297) comparing lecture, 
 - [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related
 - [Taking a multiple-choice test produces a testing effect on later cued recall, but testing without study or feedback can be net harmful](mc-testing-effect-and-net-harm-boundary.md) — related
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
+- [Students in active classrooms scored higher on tests of learning than students in passive lectures (0.46 SD higher, P < 0.001)](active-learning-higher-test-scores-than-lecture.md) — related
+- [Generalization from practice requires explanatory feedback and sufficient prior knowledge or confidence, with benefits concentrated among better-prepared learners](generalization-needs-explanatory-feedback-and-prior-knowledge.md) — related

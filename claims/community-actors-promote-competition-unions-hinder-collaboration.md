@@ -48,3 +48,6 @@ Educator survey on contextual factors in the District-Charter Collaboration Gran
 - [Nearly all respondents said inadequate school time and opportunities for collaboration made cross-sector collaboration more difficult](inadequate-time-and-opportunities-hinder-collaboration.md) — related
 - [Colorado uses a local-first, state-supported model in which districts and local providers initiate cross-sector work and state policy scales successful innovations](colorado-local-first-state-supported-model.md) — related
 - [Leveraging pre-existing networks or hubs may support greater potential for long-term sustainability of cross-sector reform](preexisting-networks-support-sustainability.md) — related
+- [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
+- [Cross-sector education partnerships that overcome common challenges are characterized by shared goals, mutually reinforcing activities, and effective communication](cross-sector-partnership-success-characteristics.md) — related
+- [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related

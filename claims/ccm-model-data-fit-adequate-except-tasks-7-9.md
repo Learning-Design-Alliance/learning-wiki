@@ -64,3 +64,4 @@ Weighted and unweighted mean absolute deviation computed per task for both halve
 ## Related Claims
 - [CCM-estimated skill profiles showed minor positive correlations with external pre- and post-test scores, ranging from .018 to .495](ccm-external-validation-correlations-pre-post-tests.md) — related
 - Standard BKT fits Raging Skies pilot process data with acceptable RMSE and good accuracy under 10-fold cross-validation — related
+- [Automated detectors of disengaged behaviors inferred from interaction-log data alone reached AUC over 0.8 for gaming and correlated 0.55 with observed off-task behavior](sensor-free-disengagement-detectors-accuracy.md) — related

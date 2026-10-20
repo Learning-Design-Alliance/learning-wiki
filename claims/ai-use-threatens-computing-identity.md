@@ -48,3 +48,6 @@ Results on shaping identity: in the interview study, "Students described feeling
 - [Students' GenAI use is ethically negotiated, with decisions emerging from intersecting personal integrity, institutional rules, fear of punishment and practical constraints](genai-use-ethically-negotiated-entangled.md) — related
 - [Shame and guilt regulate the visibility of AI use: students engage in hiding behaviors and selective disclosure rather than open disclosure](shame-guilt-regulate-ai-use-visibility.md) — related
 - [Approximately two-thirds of teacher education students chose not to adopt GenAI in assessments even when its use was allowed](two-thirds-students-declined-genai-when-allowed.md) — related
+- [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
+- [Students shame themselves, peers, and in one case a faculty member for using AI](shaming-self-peers-faculty-ai-use.md) — related
+- [Shame and guilt coexist with continued AI use, creating self-reinforcing cycles of reliance, concealment, and self-critique rather than behavior change](shame-guilt-cycles-continued-ai-use.md) — related

@@ -48,3 +48,4 @@ Footnote describing a final-task condition in which reward was contingent on "go
 - [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related
 - [Reward effects hold across individual creativity tasks, with immediate reward significant on all four tasks and delayed reward on three](reward-effects-hold-across-individual-tasks.md) — related
+- [Children's confidence in experimental conclusions increased after training and was higher for unconfounded than confounded experiments, with no training-condition differences](confidence-increases-unconfounded-experiments.md) — related

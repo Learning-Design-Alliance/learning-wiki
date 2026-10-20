@@ -46,3 +46,5 @@ Multivariate linear regression in the 713-adolescent sample identifying which ph
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
+- [Using a flexible functional form, the estimated benefit of improving a competency depends on a student's existing strengths and weaknesses in other competencies](competency-benefits-depend-on-other-competencies.md) — related
+- [Inhibition/interference, working memory and processing speed correlate with adolescent academic achievement, while cognitive flexibility and social skills do not](ef-domains-associated-adolescent-academic-achievement.md) — related

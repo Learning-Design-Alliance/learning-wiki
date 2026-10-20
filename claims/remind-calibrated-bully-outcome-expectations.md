@@ -49,3 +49,5 @@ One-tailed paired t-test on absolute distance from the normative target value in
 - [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
 - [During REMind, nearly all children reported feeling sad for the victim and attributed bystander inaction mainly to low confidence or fear of retaliation](remind-qualitative-perspective-taking-themes.md) — related
 - [REMind did not significantly change children's expectations that defending would help the victim feel better](remind-victim-outcome-expectations-not-significant.md) — related
+- [REMind did not significantly increase measured empathy, but baseline human-directed empathy correlated positively with robot-directed empathy](remind-empathy-null-and-robot-empathy-correlation.md) — related
+- [Playing REMind significantly increased children's perceived self-efficacy for defending peers](remind-increased-self-efficacy-for-defending.md) — related

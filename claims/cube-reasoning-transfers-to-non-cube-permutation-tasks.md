@@ -51,3 +51,4 @@ Observation from the same two-student teaching experiment: in later sessions bot
 - [A cube-tower instructional sequence instantiated concreteness fading in an elaborated form for two preservice teachers' combinatorial reasoning](cube-tower-sequence-elaborated-cf-instantiation.md) — related
 - Challenges of students with learning difficulties in constructing multiplicative double counting may stem from conceptually born factors beyond memory issues — related
 - A teacher's prompting that oriented a student's reflection on his own tracking methods fostered monitoring of his goal-directed counting activity — related
+- [Collaboration aids learning of mathematical elaboration skills but not procedural skills](collaboration-aids-elaboration-not-procedural-skills.md) — related

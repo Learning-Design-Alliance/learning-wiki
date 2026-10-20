@@ -52,3 +52,4 @@ Logistic regression analyses in the Doetinchem Cohort Study (988 participants in
 - [Lower health literacy and weaker cognitive abilities are associated with poorer performance on common healthcare tasks](lower-health-literacy-weaker-cognition-poorer-health-task-performance.md) — related
 - [Poorer current cognitive functioning in all domains is associated with low health literacy in older adults](poorer-current-cognition-associated-low-health-literacy-older-adults.md) — related
 - [Stronger cognitive decline is associated with greater likelihood of low health literacy, but only memory decline remains significant after adjusting for educational level](cognitive-decline-associated-low-health-literacy-memory-only-robust.md) — related
+- [The association between health literacy and health task performance is substantially reduced after adjusting for cognitive abilities](health-literacy-task-association-reduced-after-cognitive-adjustment.md) — related

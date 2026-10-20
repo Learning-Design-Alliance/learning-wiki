@@ -66,3 +66,4 @@ Artifact and interview analysis in Research Question 2 found most schools showed
 - [SIPs generally reflect surface-level discussions of root causes, leading to plans that address symptoms rather than causes](sips-do-not-guide-root-cause-efforts.md) — related
 - [The RCS Core Team's root cause analysis identified fear and political influence, lack of comprehensive and inclusive curriculum, and lack of awareness as central causes of the discourse challenge](rcs-root-causes-fear-curriculum-awareness.md) — related
 - A district equity study found a lack of clear and consistent focus on delivering high-quality instructional support to all students — related
+- [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — a broader claim this one bears on

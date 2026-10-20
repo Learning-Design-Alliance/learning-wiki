@@ -51,3 +51,6 @@ The review reports this implementation finding, citing Reddy et al. (2024), and 
 - [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
 - [AI-generated ethics exercise materials carried external citations that did not survive checking, ranging from misattributed to apparently fabricated](ai-generated-ethics-materials-fabricated-citations.md) — possibly the same claim (merge candidate)
 - [ChatGPT fabricates references: the authors caught it inventing a non-existent 'Ribeiro and Vala, 2020' article with full bibliographic details](chatgpt-fabricates-references.md) — related
+- [Review-attributed evidence: fabricated model-generated references clustered in disciplinary journals in a student verification exercise](fabricated-references-cluster-disciplinary-journals.md) — related
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related
+- [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](llm-hallucination-risk-science-education.md) — a broader claim this one bears on

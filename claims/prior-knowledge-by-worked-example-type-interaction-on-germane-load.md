@@ -77,3 +77,5 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 - [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
 - [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related
+- [Extraneous, essential, and generative processing are tapped by different assessment instruments, partially validating the triarchic theory](triarchic-processing-separable-measures.md) — related
+- [The intrinsic–extraneous–germane distinction is conceptually problematic: definitions are tautological and expertise-dependent](load-type-distinction-conceptually-problematic.md) — related

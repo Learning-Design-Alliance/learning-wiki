@@ -49,3 +49,7 @@ Simulation analysis of value-added estimation error using OLS and Empirical Baye
 - [School value added provides very poor information for revealing principals' persistent levels of effectiveness](school-value-added-poor-information-principal-effectiveness.md) — related
 - [Average achievement and adjusted average achievement measures provide no information for predicting principals' contributions to student achievement in the following year](average-achievement-measures-no-predictive-info-principal-impacts.md) — related
 - [Only a small amount of data is available about U.S. businesses in their first years of operation](small-amount-data-us-businesses-first-years.md) — related
+- [Error rates for comparing a teacher's performance to the average are about 25 percent with three years of data and 35 percent with one year of data](value-added-teacher-comparison-error-rates-25-35-percent.md) — related
+- [Value-added error rates apply to measuring both teacher and school performance in the upper elementary grades using student test score gain data](value-added-error-rates-teacher-and-school-upper-elementary.md) — related
+- [The study used two sets of analyses—rating stability and the stable component's link to future contributions—to simulate each measure's predictive accuracy](two-analysis-approach-principal-measure-accuracy.md) — related
+- [School median student growth percentiles were stable year to year even when the school changed principals](school-mgp-stable-despite-principal-change.md) — related

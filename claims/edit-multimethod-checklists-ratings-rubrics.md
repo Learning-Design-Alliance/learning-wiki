@@ -44,3 +44,5 @@ Descriptive statement from the publication's overview of the measure. The articl
 
 ## Related Claims
 - [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — a broader claim this one bears on
+- [Proposition 4: evidence gathered through distinct demands supports capability claims better than multiple records of the same performance](proposition-4-distinct-evidence-demands.md) — a broader claim this one bears on
+- [The EDIT was developed iteratively beginning in 2012 under OPRE commissioning](edit-iterative-development-2012-opre.md) — related

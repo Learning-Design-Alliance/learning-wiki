@@ -51,3 +51,6 @@ Cognitive walkthroughs with 12 undergraduates in Education and Society at U1, an
 - In a voluntary pilot of a GenAI practice platform, 34 of 95 registrants attempted at least one question, generating 230 submissions with highly uneven engagement — related
 - [Student chatbot queries were overwhelmingly task-oriented initial inquiries, dominated by definition requests and pasted assignment questions rather than iterative critique](initial-inquiry-dominates-chatbot-question-types.md) — related
 - [Voluntary StatBot use was highly uneven and deadline-driven, with about 27% of students never using the chatbot](uneven-zero-inflated-statbot-usage-patterns.md) — related
+- [Primary metrics improved during US holidays, attributed to more motivated voluntary users](holiday-usage-motivation-metric-improvements.md) — related
+- [Instructional videos and AI chatbots show complementary rather than redundant functions for science learning](videos-and-ai-chatbots-complementary-functions.md) — related
+- [Student disengagement in adaptive learning platforms is linked to technical problems, boredom with long or irrelevant content, insufficient challenge and feedback, and declining engagement over time](disengagement-factors-adaptive-platforms.md) — a broader claim this one bears on

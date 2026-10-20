@@ -71,3 +71,6 @@ SVM subject classification with leave-one-pair-out cross-validation (1000 repeat
 - [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — reports the opposite
 - [Adults with dyscalculia perform the number comparison task as accurately as controls but respond significantly more slowly](dyscalculia-equal-accuracy-slower-reaction-time.md) — related
 - [No group difference in the quality of symbolic number representations between adults with dyscalculia and controls](dyscalculia-symbolic-representations-not-impaired.md) — related
+- [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
+- [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
+- [Measures of the magnitude representation (ratio and distance effects) do not discriminate children with DD from matched controls](dd-magnitude-representation-theory-not-supported.md) — related

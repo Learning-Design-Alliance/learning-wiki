@@ -97,3 +97,10 @@ Planned gain contrasts on the seven SRL questionnaire subscales. "Group TD showe
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related
 - [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md) — related
 - [For self-regulated learning outcomes, rubrics combined with both self- and peer assessment show a significantly larger effect than rubrics with self-assessment alone](rubrics-srl-self-plus-peer-assessment-larger-effect.md) — related
+- [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
+- [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
+- [Formative assessment shows gains in student self-efficacy and motivation and particular benefits for disadvantaged and low-achieving students](formative-assessment-self-efficacy-low-achievers.md) — related
+- [LASSI Self-Regulation cluster scores showed the greatest pre/post gain among coached students, with increasing trends in all three clusters](lassi-self-regulation-gains-adhd-coaching.md) — related
+- [Most included studies report a significant positive metacognition–math association, with some null and mixed findings](most-studies-significant-positive-association.md) — related
+- [The intervention did not increase students' SRL aptitude, yet supported higher course grades](regulatory-support-no-increase-srl-aptitude.md) — related
+- [CCCT participation improved prospective teachers' co-regulation situations (g = 0.512)](ccct-improved-co-regulation.md) — related

@@ -46,3 +46,4 @@ Mann–Whitney comparison of subtracted TONA networks between adaptive MAI (13 g
 - [When groups are physically far apart, mutual gaze forms the dominant pathway into monitoring, and behavioral challenges dominate](prox-far-mutual-gaze-monitoring-pathway.md) — related
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [Proxemic configuration significantly shifts the relational organization of regulation, from a visually anchored system when far to a strategy-oriented system when close](proxemic-configuration-rr1-relational-shift.md) — related
+- [Joint attention is a group phenomenon not reducible to either individual's mental representations](joint-attention-group-phenomenon.md) — related

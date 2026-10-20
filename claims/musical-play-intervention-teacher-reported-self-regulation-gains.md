@@ -43,4 +43,6 @@ Quasi-experimental pre/post control-group study of 98 children aged 6 in Cypriot
 
 
 ## Related Claims
--
+- [Musical play intervention significantly increased children's metacognitive knowledge of strategies at interview](musical-play-intervention-metacognitive-knowledge-of-strategies-gains.md) — related
+- [Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls](musical-play-intervention-metacognitive-knowledge-interview-gains.md) — related
+- [No intervention effect on directly observed on-task self-regulation in the musical play study](musical-play-intervention-no-on-task-self-regulation-effect.md) — related

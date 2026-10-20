@@ -77,3 +77,8 @@ International comparison reported in the report: U.S. attrition "hovering near 8
 - [In 2021–22, 99.7% of Texas teacher hires replaced teachers who had left the prior year, making attrition the dominant driver of demand](texas-attrition-drives-99-7-percent-of-hires.md) — a narrower finding that bears on this claim
 - [Retirement accounts for only a small portion of total teacher turnover](retirement-small-portion-of-teacher-turnover.md) — related
 - [Texas teacher attrition exceeds the national average by over 50%, with about 12% of teachers exiting districts before the 2023–24 school year](texas-teacher-attrition-exceeds-national-average.md)
+- [California's teacher workforce is aging, with about 40% age 50 or older and 14% age 60 or older](aging-teacher-workforce-retirement-wave.md) — related
+- [California's CalSAAS dashboards exclude teacher turnover and retention data needed for workforce planning](calsaas-excludes-turnover-retention.md) — related
+- [A statewide cohort analysis found 8% of new Texas teachers left after year 1, 26% by year 5, and 46% by year 8](texas-early-career-attrition-cohort-analysis.md) — related
+- [Principal turnover is associated with lower student achievement, worse climate, and higher teacher attrition, with effects lasting up to 5 years](principal-turnover-harms-achievement-climate-retention.md) — related
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related

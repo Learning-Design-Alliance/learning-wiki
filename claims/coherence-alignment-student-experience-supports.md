@@ -70,3 +70,5 @@ District staff participants reported that principals "experience a disconnect be
 - [District leaders use learning walks and ongoing professional learning to reinforce clear, consistent expectations for curriculum use over time](clear-expectations-learning-walks-reinforce-hqim-use.md) — related
 - [Coherence with preexisting initiatives made relationship-centered change more readily embraced](coherence-preexisting-initiatives-uptake.md) — related
 - [Developing professional learning communities appears to hold considerable promise for capacity building for sustainable improvement](plcs-hold-promise-for-capacity-building.md) — related
+- [State investments in coordinators, professional development, and technical assistance were key to achieving community schools outcomes](state-investment-coordinators-pd-key-to-outcomes.md) — related
+- [Training and technical assistance is most engaging when it is grounded in clear expectations, designed around recipient needs, developed with ongoing recipient input, accessible, delivered by equipped providers, and framed as a partnership](ta-engagement-six-elements-interviews.md) — related

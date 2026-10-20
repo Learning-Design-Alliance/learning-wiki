@@ -44,3 +44,4 @@ Observation from the breakdown of critique-failure percentages across the UI gen
 
 ## Related Claims
 - [Iterative generate-then-refine with multi-axis critiques raises the share of usable generated simulations from 3.5% after first generation to 69.3% after 10 improvement rounds](generate-then-refine-raises-usable-simulations-3-5-to-69-3.md) — related
+- [MAIC-UI, generating interactive STEM courseware from instructor documents, reported gains in learning agency in classroom deployment (attributed)](maic-ui-learning-agency-gains-attributed.md) — related

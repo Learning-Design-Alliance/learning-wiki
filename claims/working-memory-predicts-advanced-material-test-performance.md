@@ -49,3 +49,5 @@ Mediation analysis covariate path in the 213-participant experiment; working mem
 - [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
 - [Cascade models in which IQ mediates the WM-to-achievement path fit comparably to, but not significantly better than, the original correlated models](cascade-model-iq-mediation-comparable-fit.md) — related
+- [Working memory capacity predicts comprehension performance only in the disfluency condition, with higher WMC yielding better comprehension](wmc-predicts-comprehension-only-disfluency-condition.md) — related
+- [Working memory capacity predicts retention performance only in the disfluency condition, with higher WMC yielding better retention](wmc-predicts-retention-only-disfluency-condition.md) — related

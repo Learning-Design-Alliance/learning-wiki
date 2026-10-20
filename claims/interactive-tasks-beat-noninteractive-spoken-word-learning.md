@@ -48,3 +48,6 @@ Meta-regression contrast between task/+interaction and task/–interaction treat
 
 - [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — a broader claim this one bears on
+- [Lexical adoption shows no significant condition effect after controlling for input volume, but AI-first participants adopted more words at the second dialogue position](lexical-uptake-no-condition-effect-after-controls.md) — related
+- [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — a broader claim this one bears on

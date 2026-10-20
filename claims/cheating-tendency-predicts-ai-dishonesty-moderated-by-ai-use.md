@@ -48,3 +48,4 @@ Moderation tested with Hayes' PROCESS Model 14 in the survey of 1,045 undergradu
 - [Self-efficacy negatively correlates with cheating, but actual ability does not inversely correlate with dishonesty](self-efficacy-negative-ability-not-correlated-cheating.md) — related
 - [Students with higher perceived academic dishonesty perceive greater risk in using ChatGPT](pad-positively-related-perceived-risk.md) — related
 - Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60) — related
+- [Perceived academic dishonesty is not directly related to ChatGPT use frequency or intention to use](pad-no-direct-effect-chatgpt-usage.md) — related

@@ -72,3 +72,5 @@ Spring 2021 Partnership Team survey (68% response rate): "financial barriers wer
 - [Early educators face financial, academic, and structural barriers to college enrollment and degree completion, disproportionately affecting students of color](ece-educator-college-completion-barriers.md) — related
 - Apprentices saw RTAPs as a better return on investment than other pathways, yet low salaries still posed financial hardship — related
 - Apprentices desired clearer, more consistent program communication, especially about financial obligations — related
+- [Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color](ec-credential-barriers-cost-time-navigation.md) — possibly the same claim (merge candidate)
+- [Access to student teaching and residency pathways is unequal: only 46% of Black and 50% of Native American completers participated, and fewer than one third of education specialists did so](unequal-access-clinical-pathways-race-specialists.md) — related

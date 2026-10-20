@@ -45,3 +45,5 @@ Reinforcement sensitivity was indexed as the difference in task performance betw
 ## Related Claims
 - [Memory and motivation represent independent neuropsychological domains in children with ADHD](memory-motivation-independent-neuropsychological-domains.md) — related
 - [Both ADHD subtypes show equally pronounced motivational deficits that impair visuospatial STM and WM performance](adhd-subtypes-equal-motivational-deficits.md) — related
+- [Cognitive deficits in children with ADHD are not permanent neuropsychological impairments and cognitive capacity can be modulated by motivation](adhd-cognitive-capacity-modulated-by-motivation.md) — related
+- [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related

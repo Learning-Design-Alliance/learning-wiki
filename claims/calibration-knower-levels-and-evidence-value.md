@@ -46,3 +46,4 @@ Fully Bayesian inference on the calibration data set from Negen and Sarnecka (20
 - [The Excel sheet's knower-level inference closely matches fully Bayesian inference, with no discrepancies in posterior maxima](excel-sheet-matches-bayesian-knower-inference.md) — related
 - [The Excel sheet's knower-level estimates agree with a 2:1 heuristic on 38 of 56 children and are more lenient for larger set sizes](excel-versus-heuristic-knower-estimates.md) — related
 - [Analyzing Give-N data by knower-level yields greater statistical power than analyzing by percent correct, plausibly explaining the discrepancy with Ansari et al. (2003).](knower-level-analysis-greater-power-than-percent-correct.md) — related
+- [Knower levels were longitudinally stable across sessions, replicating Wynn, while the CP-Non-Mapper/CP-Mapper distinction fluctuated across sessions](knower-levels-stable-mapper-distinction-unstable.md) — related

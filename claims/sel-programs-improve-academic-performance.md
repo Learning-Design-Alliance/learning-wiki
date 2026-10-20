@@ -93,3 +93,5 @@ The report cites a 2011 meta-analysis of 213 SEL programs reporting positive eff
 - [Schoolwide SEL programs are associated with long-term achievement gains, with multiple meta-analyses estimating an 11-percentile-point gain on average for participating students](schoolwide-sel-meta-analytic-11-percentile-achievement-gain.md) — related
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related
+- [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related

@@ -49,3 +49,6 @@ Narrative review statement: the literature is mixed on age differences in confid
 - [Older adults show higher retrospective metacognitive accuracy than young adults in the selection-only task, especially on homogeneous unit-digit problems, but comparable accuracy in the selection-execution task](older-adults-higher-rcj-accuracy-selection-only.md) — related
 - [Eliciting confidence ratings leads to poorer metacognitive monitoring in older adults](cr-poorer-metacognitive-monitoring-miscalibration.md) — related
 - [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
+- [Children's recognition choices overwhelmingly follow the alternative given the highest pre-monitoring judgment](highest-pre-monitoring-judgment-predicts-recognition-choice.md) — related
+- [Young and older adults make accurate retrospective confidence judgments but not prospective ease-of-selection judgments about their arithmetic strategy selections](retrospective-not-prospective-accuracy-strategy-selection.md) — related
+- [Adults' confidence judgments track answer accuracy: confidence is higher on correct than incorrect general-knowledge trials (metacognitive monitoring)](confidence-higher-correct-than-incorrect-trials.md) — related

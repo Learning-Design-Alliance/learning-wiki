@@ -44,3 +44,4 @@ Elementary school findings (pp. 102-109 of the full study) from the observationa
 
 ## Related Claims
 - [Students in census tracts with unaffordable housing, low home ownership, or little green space have higher odds of grade retention, even with similar achievement](neighborhood-disadvantage-higher-retention-odds.md) — related
+- [Exclusionary discipline is ineffective at improving school safety and harms both suspended students and their non-suspended peers](suspension-ineffective-harms-peers.md) — related

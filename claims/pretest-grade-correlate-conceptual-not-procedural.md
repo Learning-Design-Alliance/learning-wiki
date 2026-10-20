@@ -49,3 +49,5 @@ Secondary correlational analysis in the full sample before the main ANCOVA; the 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — a broader claim this one bears on
 - [GPA, pretest score, and self-generated elaboration jointly predict intellectual skills but not procedural knowledge or attitudes](gpa-pretest-elaboration-interaction-intellectual-skills.md) — related
 - [Tutors' proportion of knowledge-building responses to an agent's adaptive follow-up questions predicts conceptual and procedural post-test scores](kbr-predicts-tutor-posttest-conceptual-procedural.md) — related
+- [Procedural prior knowledge predicted conceptual post-test skill, but conceptual prior knowledge did not predict procedural post-test skill](procedural-prior-predicts-conceptual-post.md) — related
+- [GPA predicts procedural knowledge and intellectual skills but not attitudes toward learning](gpa-predicts-knowledge-not-attitudes.md) — related

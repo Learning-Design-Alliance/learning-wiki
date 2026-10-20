@@ -63,3 +63,5 @@ Learning-phase efficiency contrast in the same ANOVA series: within this sentenc
 
 ## Related Claims
 - [In the learning phase, group experience and information distribution each produce significant multivariate effects on performance, mental effort, and efficiency, without interacting](zambrano-2019-learning-phase-manova-main-effects.md) — a broader claim this one bears on
+- [The efficiency advantage of prior collaborative experience emerges under high information density but not under low information density](zambrano-2019-efficiency-advantage-only-high-density.md) — related
+- [Low information density improves individual test performance in the short-term retention test, but the benefit fades by the delayed test](zambrano-2019-low-density-benefit-shortlived.md) — related

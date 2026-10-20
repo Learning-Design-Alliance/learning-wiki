@@ -55,3 +55,5 @@ First-time 2016 survey questions asked the extent to which standards-related PD 
 - Most coaches rate their professional development as effective, and administrators describe it as tailored, timely, and multi-year — related
 - [Selecting a few focal Standards for Mathematical Practice at a time was more productive for teacher PD than studying all SMPs simultaneously](focal-smps-deep-study-more-productive.md) — related
 - [Most ILC workshop participants report that the experience influenced their curriculum, instruction, assessments, engagement, and student learning to a great extent](ilc-participants-report-practice-influence.md) — related
+- [Math course passing rates improved significantly more in elementary schools with extensive professional development, while course grades improved at similar rates across PD levels](pass-rates-improved-extensive-pd-elementary.md) — related
+- [Around half of teachers reported meeting in grade-level teams at least weekly and observing colleagues' classrooms at least quarterly to implement the CCSS](ccss-teacher-collaboration-grade-level-teams-observations.md) — related

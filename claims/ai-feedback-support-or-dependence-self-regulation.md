@@ -51,3 +51,4 @@ Conceptual argument in the section on human learning processes as the mediating 
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related
 - [Regulation in collaborative learning is layered: the portfolio of regulation layers needs itself to be regulated](layered-self-regulation-meta-metacognition.md) — related
+- [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related

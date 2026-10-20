@@ -85,3 +85,7 @@ A third of the 5 episodes without explicit consensus ended in topic shifting aft
 - [The four Special Issue learning communities mediated members toward consensus, with no reports of longstanding dissent](special-issue-communities-mediated-toward-consensus.md) — related
 - [Students disagreed more directly with invisible out-of-group peers than with present groupmates](direct-disagreement-invisible-versus-present-peers.md)
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md)
+- [Participants valued the AI as a relational buffer that softened interpersonal pressure when disagreement required concession, without expecting it to resolve conflict](ai-relational-buffer-eases-concession.md) — related
+- [The final episode of wiki collaborative writing is characterised by a disputational orientation, possibly driven by time pressure to finish the text](disputational-orientation-finishing-text.md) — related
+- [Fifth graders in peer critique predominantly used soft (implied and/or mitigated) rather than direct forms of disagreement](students-soft-disagreement-peer-critique.md) — related
+- [Students' resolution of both direct and soft disagreements promoted collective knowledge advancement while maintaining a positive socio-emotional climate](resolution-promotes-collective-knowledge-advancement.md) — related

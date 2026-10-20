@@ -43,4 +43,4 @@ Qualitative synthesis of three shifting-listening comprehension studies: two usi
 
 
 ## Related Claims
--
+- [Response inhibition shows small to moderate associations with listening comprehension (r = .16 to .42), based on only two studies](inhibition-listening-comprehension-small-moderate.md) — related

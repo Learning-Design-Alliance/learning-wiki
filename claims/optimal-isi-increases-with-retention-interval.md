@@ -63,3 +63,10 @@ Meta-analytic lag analyses binning accuracy differences and absolute accuracy by
 - [ISI effects on recall are nonmonotonic and depend jointly on retention interval](isi-effect-nonmonotonic-joint-retention-interval.md) — possibly the same claim (merge candidate)
 - [Spaced Repetition Improves Retention](spaced-practice-improves-retention.md) — related
 - [Relearning-to-criterion designs confound distribution of practice with amount of second-session practice](relearning-confound-distributed-practice-designs.md) — related
+- [The authors attribute the spaced-practice knowledge benefit to deeper learning or transfer, because quiz and final-test items were never repeated](spaced-practice-benefit-reflects-transfer-not-item-memorization.md) — related
+- [In continuous recognition memory, the lag function is inverted U-shaped after a short retention interval and monotonically increasing after a long retention interval](spacing-lag-function-shape-depends-on-cue-bias-and-retention-interval.md) — related
+- [Recent research identifies time intervals during which spaced study should occur to maximize memory retention](optimal-spacing-intervals-maximize-retention.md) — a broader claim this one bears on
+- [In paired-associate paradigms, the lag function is decreasing at very short retention intervals, inverted U-shaped at slightly longer intervals, and monotonically increasing at long intervals](paired-associate-lag-function-retention-interval.md) — related
+- [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
+- [Eight-day review improved a five-week science test versus one-day review in a simulated university classroom](eight-day-review-improves-five-week-science-test-versus-one-day-review.md) — a narrower finding that bears on this claim
+- [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](distributed-practice-limits-l2.md) — related

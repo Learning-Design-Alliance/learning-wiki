@@ -61,3 +61,8 @@ A theoretical proposition from the validation agenda of this conceptual article,
 
 ## Related Claims
 - [GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability, with substitution capacity depending on task cognitive demands](genai-disrupts-evidence-rules-asymmetrically.md) — related
+- [Generative AI weakens the evidentiary relation between assessment artifacts and learner capacity, so institutions must assess the learner's accountable relation to AI-mediated work](generative-ai-weakens-artifact-evidentiary-relation.md) — related
+- [The EDIT uses a multimethod approach gathering evidence with checklists, ratings, and rubrics](edit-multimethod-checklists-ratings-rubrics.md) — a narrower finding that bears on this claim
+- [The article argues that pairing GenAI-vulnerable assessment formats as twins mitigates validity threats by triangulating evidence](assessment-twins-triangulate-evidence-mitigate-threats.md) — a narrower finding that bears on this claim
+- [A multimethod approach provides a richer portrayal of young children's performance than any single measure.](multimethod-approach-richer-portrayal-child-performance.md) — related
+- [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related

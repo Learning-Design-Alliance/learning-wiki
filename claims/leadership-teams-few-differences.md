@@ -50,3 +50,5 @@ Analysis of CCSR 2007 teacher survey essential supports measures comparing schoo
 - [No significant differences in one-year learning gains between schools with NBCT clusters and similar schools](nbct-clusters-no-learning-gain-difference.md) — related
 - [NBCTs report holding school leadership positions at higher rates than other teachers (50% vs 32%)](nbcts-assume-leadership-roles-more.md) — related
 - [Schools small by design showed significantly higher teacher influence and all four professional capacity measures](small-by-design-schools-higher-teacher-influence-and-capacity.md) — related
+- [Elementary schools led by LAUNCH principals show higher teacher-parent interaction and more reformed literacy practices](launch-elementary-teacher-parent-interaction-reformed-literacy.md) — related
+- [Elementary schools with clusters of board-certified teachers and candidates showed higher teacher influence, innovation, and slightly higher collective responsibility](nbct-clusters-higher-teacher-influence-innovation.md) — related

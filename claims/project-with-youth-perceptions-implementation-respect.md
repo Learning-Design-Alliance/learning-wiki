@@ -45,3 +45,4 @@ Exit-survey responses from 173 analyzed youth (sample sizes for items ranged fro
 ## Related Claims
 - [Project With was implemented with high fidelity: 89 percent of activities were completed and youth listened during 83 percent and interacted during 76 percent of activities](project-with-fidelity-and-engagement-rates.md) — related
 - [Youth most positively reported Project With's impact on goal setting, with 81 percent saying it made them more likely to make plans to reach their goals](project-with-perceived-impact-goal-setting.md) — related
+- [Co-regulation strategies were reported to create a safe, positive classroom climate and to help youth manage emotions](co-regulation-supports-climate-and-youth-emotion-regulation.md) — related

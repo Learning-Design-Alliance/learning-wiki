@@ -49,3 +49,6 @@ Theoretical exposition in the article's section on learning, arguing that constr
 - [The paper argues experiential training of early childhood workers is likely to produce reflective, creative caregivers and children who learn better](experiential-training-ecd-workers-better-child-outcomes.md) — related
 - Equating one lexical item with one English counterpart is theoretically objectionable; entries should capture collocational restrictions and register — related
 - The review's purpose is to stimulate research on learner-generated drawing, with the framework intended to guide and organize future research efforts — related
+- [Adding friction to objectively meaningless tasks increases their appraised sense of purpose and meaning](added-friction-increases-appraised-purpose.md) — related
+- [In observed Australian secondary classrooms, only a minority of lesson tasks stimulated Constructive or Interactive engagement](paucity-constructive-interactive-lesson-tasks.md) — related
+- [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ Model D growth model. Direct effortful control assessment was not associated wit
 - [Self-regulation effects on letter–word reading are reduced completely after cognitive covariate controls](self-regulation-reading-effects-reduced-covariates.md) — related
 - [Combined teacher and parent report of effortful control predicts both prekindergarten math level and growth, persisting through the most stringent model](effortful-control-report-predicts-math-growth.md) — related
 - [Effortful control predicts social functioning, which predicts achievement, controlling for SES, age, and sex](ec-social-functioning-path-covariates.md) — related
+- [African American children show lower prekindergarten math but faster math growth, and higher prekindergarten letter–word knowledge with slower growth after covariate adjustment](african-american-ethnicity-math-reading-growth-patterns.md) — related

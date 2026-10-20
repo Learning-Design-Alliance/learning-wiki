@@ -45,3 +45,4 @@ In the final covariate-adjusted cross-lagged panel model (N = 278), the cognitiv
 ## Related Claims
 - [Children's cognitive flexibility did not predict later maternal emotional or cognitive support](child-flexibility-did-not-predict-maternal-behaviors.md) — related
 - [Greater maternal emotional support during problem-solving predicts greater child cognitive flexibility one year later, in both the preschool-to-kindergarten and kindergarten-to-first-grade intervals](maternal-emotional-support-predicts-cognitive-flexibility-gains.md) — related
+- [Maternal cognitive support was only modestly associated with emotional support and largely independent of intrusiveness and negativity](cognitive-support-largely-independent-of-emotional-support.md) — related

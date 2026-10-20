@@ -48,3 +48,5 @@ Simultaneous multivariate multiple regression in Mplus with cluster-robust stand
 - [No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores](no-tsc-fluid-reasoning-interaction-achievement.md) — related
 - [Post hoc findings question whether all students benefit equally from efforts to foster trait self-control](self-control-fostering-unequal-benefit-questioned.md) — related
 - [Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades](variance-explained-tests-versus-grades.md) — related
+- [Fluid reasoning, not trait self-control, predicts low-stakes standardized mathematics and physics test scores](fluid-reasoning-predicts-low-stakes-standardized-tests.md) — related
+- [Trait emotional intelligence showed no significant association with university GPA, despite correlating with engagement, SRL strategies and self-efficacy](trait-ei-no-direct-association-university-gpa.md) — related

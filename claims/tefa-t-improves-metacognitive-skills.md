@@ -70,3 +70,5 @@ Per-indicator comparison plotted in Figure 4 (evaluation, monitoring, planning, 
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [The TEFA-T model produces significantly higher learning achievement than teacher-based instruction in automotive vocational courses](tefa-t-higher-achievement-than-teacher-based.md) — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related
+- [The TEFA-T model syntax meets goodness-of-fit criteria in confirmatory factor analysis, supporting its construct validity](tefa-t-syntax-construct-validity-cfa.md) — related
+- [The TEFA-T model and its supporting products are rated Very Practical by instructors and students](tefa-t-very-practical-rating.md) — related

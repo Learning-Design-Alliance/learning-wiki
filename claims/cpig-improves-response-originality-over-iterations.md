@@ -46,3 +46,4 @@ Simulation-style experiments with multiple open-source and commercial LLMs as it
 - [Response length is only weakly correlated with originality for most LLMs, suggesting CPIG's originality gains are not purely elaboration](length-originality-correlation-weak.md) — related
 - [Random shot selection yields the worst originality-similarity combination, while greedy and constraint-satisfaction selection raise originality without increasing item redundancy](shot-selection-originality-similarity-tradeoff.md) — related
 - [Demographic and psychometric response prompting produces higher-variance, heavier-tailed originality distributions than a no-context baseline, though still less variable than humans](response-prompting-styles-increase-variance.md) — related
+- [Human annotators judge later-round CPIG items as improved in complexity but not in difficulty, with modest rater agreement](human-review-complexity-improves-difficulty-static.md) — related

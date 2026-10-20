@@ -44,3 +44,5 @@ Qualitative strand findings on self-regulated teaching and reflection from teach
 
 ## Related Claims
 - [Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool](concept-catalyst-outputs-inspire-practice-reflection.md) — related
+- [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
+- [Teachers participating in learning studies develop an increased ability to discern critical features of a learning object and shift from general to content-specific ways of offering the object of learning](teachers-learning-study-critical-features-shift.md) — related

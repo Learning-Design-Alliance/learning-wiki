@@ -51,3 +51,4 @@ The brief reports research indicating that "many English-only students would fai
 - [Students who meet Criterion 1 achieve at the same level whether they remain in EL status or exit, suggesting retention in EL status after proficiency provides no clear academic benefit](retained-versus-exited-equivalent-achievement.md) — related
 - [ELPAC overall Performance Level 4 is the most robust indicator that language is no longer the primary driver of academic achievement differences among California's reclassification criteria](elpac-pl4-sweet-spot-reclassification.md) — related
 - [Different responsiveness-determination approaches (status vs. slope, criteria, domains, cut points) identify different students as adequate and inadequate responders, with little or no overlap](rti-responsiveness-criteria-disagree.md) — related
+- [As of 2023-24, California was the only state using four criteria for exiting EL classification](california-only-state-four-exit-criteria.md) — related

@@ -67,3 +67,6 @@ The review reports, citing Zhang et al. (2025), that "pre-service teachers had a
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related
 - [No existing AI literacy framework explicitly names prompt construction as a competency](prompt-literacy-left-unnamed.md) — related
+- [The review argues that the dominance of adaptive learning within AI integration undermines educational goals and limits student agency and creativity](adaptive-learning-dominance-limits-student-agency.md) — related
+- [Despite a student's claims of purely human authorial agency, posthumanist analysis of his AI-mediated revision shows meaning co-produced through human-AI entanglement](zhimo-revision-meaning-negotiation.md) — related
+- [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — reports the opposite

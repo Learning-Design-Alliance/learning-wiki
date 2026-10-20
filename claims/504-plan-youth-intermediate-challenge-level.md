@@ -51,3 +51,5 @@ The report's key findings place youth with a 504 plan between the other groups: 
 - [Youth with an IEP experience bullying and suspension at higher rates and are less engaged in school and social activities than peers, though most youth with and without an IEP feel positive about school](iep-youth-bullying-suspension-engagement.md) — related
 - [Youth with an IEP are more likely than youth without an IEP to struggle academically, yet less likely to receive some forms of school-based support](iep-youth-academic-struggle-less-support.md) — related
 - [Among DCPS students with a reported health condition, 28 percent receive support through a Section 504 plan or an individualized education program](dcps-28-percent-health-condition-504-iep-support.md)
+- [DCPS students with any reported health condition generally had poorer education outcomes than students without a health condition](dcps-health-condition-poorer-education-outcomes.md) — related
+- [Middle school's escalated executive function demands cause a crash for students with ADHD/EDF, and 504 plans rarely meet EDF needs](middle-school-ef-demands-crash-504-inadequate.md) — related

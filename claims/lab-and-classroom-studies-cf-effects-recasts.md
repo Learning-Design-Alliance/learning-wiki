@@ -46,3 +46,6 @@ The review organizes its effectiveness evidence in two strands: "laboratory stud
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related
 - [Theoretical perspectives support corrective feedback while contentious issues remain about uptake, instruction, and CF's purpose](theoretical-perspectives-cf-uptake-instruction-purpose.md) — related
+- [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related
+- [Learner repair following feedback differed by setting: prompts yielded the largest proportion of repair in French immersion, recasts in Japanese immersion](repair-patterns-vary-by-feedback-type-and-setting.md) — related
+- [The frequency of oral corrective feedback differs across instructional contexts](cf-frequency-varies-across-instructional-contexts.md) — related

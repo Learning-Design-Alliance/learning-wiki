@@ -48,3 +48,6 @@ One-way ANOVA on expert-rated TCP scores (three experts, ICC = 0.89) comparing s
 - [Interviews revealed six themes: enhanced efficiency, improved quality, facilitated reflection, increased interaction, improved collaboration, and concerns about over-reliance](gai-dst-interview-six-themes.md) — related
 - [Structured prompting raises perceived interaction clarity and dependability but reduces perceived novelty of AI-supported learning](prompting-raises-perspicuity-dependability-lowers-novelty.md) — related
 - [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](creative-inquiry-course-creative-self-efficacy-increase.md) — related
+- [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — a broader claim this one bears on
+- [University students held positive attitudes toward GAI in DST creation but expressed moderate concern about over-reliance and low concern about reduced social interaction](student-perceptions-gai-dst-mixed-attitudes.md) — related
+- [Adult learners view AI as a collaborative learning agent for solving complex problems, sharing knowledge, and honing higher-order thinking](ai-as-collaborative-learning-agent.md) — related

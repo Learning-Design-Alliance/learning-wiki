@@ -49,3 +49,10 @@ Narrative review section reporting a prior meta-analysis; the review attributes 
 
 -
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — related
+- [Guided discovery outperformed both unguided discovery and direct instruction in classic studies](guided-discovery-outperformed-both-extremes.md) — possibly the same claim (merge candidate)
+- [Prior studies reviewed show exploratory learning outperformed proceduralized instruction for training performance and transfer](prior-evidence-exploratory-beats-proceduralized.md) — reports the opposite
+- [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — possibly the same claim (merge candidate)
+- [Teacher Guided Inquiry Outperforms Student Led](teacher-guided-inquiry-outperforms-student-led.md) — related
+- [Inquiry Based Teaching Improves Science Achievement](inquiry-based-teaching-improves-science-achievement.md) — related
+- [Minimally guided instruction is less effective and less efficient than instruction that places a strong emphasis on guidance of the student learning process](minimally-guided-instruction-less-effective-than-strong-guidance.md) — a broader claim this one bears on

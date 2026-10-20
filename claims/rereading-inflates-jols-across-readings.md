@@ -68,3 +68,4 @@ Tukey HSD post-hoc tests of the mixed ANOVA: the RR group showed significant JOL
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related
 - [On a one-week delayed test, multiple text reading and rereading both outperform single reading, but on a one-day delayed test the differences are non-significant](distributed-reading-beats-single-reading-one-week.md) — related
 - [Reading approach and test delay each significantly affect knowledge-test performance, with no significant interaction (ηp2 = 0.02)](reading-approach-and-delay-main-effects-no-interaction.md) — related
+- [Multiple text reading shows more stable retention than rereading: non-significantly higher one-week scores and a smaller decline from one day to one week](mtr-stable-retention-smaller-decline.md) — related

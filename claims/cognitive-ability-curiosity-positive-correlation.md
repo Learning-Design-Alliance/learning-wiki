@@ -51,3 +51,4 @@ Bivariate correlations from the German Personality Panel longitudinal study (N =
 - [Neither cognitive ability, curiosity, nor epistemic behavior significantly predicts tertiary academic performance in the heterogeneous sample](no-significant-predictors-tertiary-gpa.md) — related
 - [Epistemic behavior does not mediate the relation of cognitive ability or curiosity with academic performance](epistemic-behavior-fails-to-mediate-academic-performance.md) — related
 - [Questionnaire measures of curiosity are difficult to use validly with young children](questionnaire-measures-poor-fit-young-children.md) — related
+- [Domain-general cognitive skills correlate positively with vibe-coding performance, CS achievement, and writing skills](cognitive-skills-correlate-with-vibe-coding-and-predictors.md) — related

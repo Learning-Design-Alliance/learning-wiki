@@ -48,3 +48,4 @@ Aggregated data-access opinion means were 2.69 (control), 2.50 (text), and 2.48 
 - [Students believe private companies neither have nor should have access to their educational data](students-oppose-private-company-data-access.md) — related
 - [A majority of students think they should be informed of data collection details at multiple contact points throughout their studies](students-want-multiple-informed-consent-contact-points.md) — related
 - [In a 48-platform policy audit, data-collection disclosure was strongest while AI and accountability disclosures were weak](policy-audit-collection-strong-ai-accountability-weak.md) — related
+- [The format of detailed disclosure (detailed text versus icon-based nutrition label) makes no difference to students' confidence about data collection](disclosure-format-no-effect-confidence.md) — related

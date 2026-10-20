@@ -44,3 +44,5 @@ The review reports this EDUCAUSE survey finding as evidence that institutions ar
 
 ## Related Claims
 - [Empowering and distributive leadership styles are associated with greater faculty engagement and willingness to adopt AI in higher education, per the reviewed studies](empowering-distributive-leadership-ai-adoption.md) — related
+- [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [AI adoption levels and policy implementation vary unevenly across academic units, shaped by discipline and external industry alignment](uneven-unit-ai-adoption-shaped-by-industry-alignment.md) — related

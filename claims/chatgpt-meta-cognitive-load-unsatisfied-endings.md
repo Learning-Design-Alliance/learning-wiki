@@ -46,3 +46,8 @@ Thematic analysis of diary endings. The article describes ChatGPT unsatisfactory
 - [ChatGPT biased information access toward solution-oriented artifacts over principle-oriented information](chatgpt-artifact-over-principle-bias.md) — related
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](chatgpt-reduced-differentiation-verification.md) — related
 - [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](chatgpt-narrow-starting-queries.md) — related
+- [ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources](chatgpt-worse-protein-comparison-question.md) — related
+- [Students using ChatGPT 3.5 experience lower intrinsic cognitive load than students using Google during a web research task](llm-search-lower-intrinsic-cognitive-load.md) — related
+- [Students using ChatGPT 3.5 experience lower germane cognitive load than students using Google, the strongest of the three load differences](llm-search-lower-germane-cognitive-load.md) — related
+- [Students using ChatGPT 3.5 experience lower extraneous cognitive load than students using Google during a web research task](llm-search-lower-extraneous-cognitive-load.md) — related
+- [ChatGPT users showed a non-significant trend toward worse overall informal learning outcomes than Google Search users over 8 days](chatgpt-worse-informal-learning-outcome-trend.md) — related

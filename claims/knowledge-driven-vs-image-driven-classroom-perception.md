@@ -53,3 +53,5 @@ Authors' interpretive claim (type e) framing their exploratory findings: experts
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — related
 - [Only a minority of teacher educators interpreted a critical classroom-management incident as theoretically expected, despite marked eye-tracking differences](wyss-critical-incident-rarely-interpreted-as-expected.md) — related
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
+- [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related
+- [Experienced teachers diagnose underestimating, overestimating, and uninterested student profiles more accurately than novices, with partial eye-tracking support](seidel-experienced-teachers-diagnose-student-profiles.md) — related

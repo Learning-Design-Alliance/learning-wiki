@@ -47,3 +47,4 @@ Latency measurement on the prototype testbed: 50 Monte Carlo runs on a Meta Ques
 - [An ELEVATE prototype achieves near real-time end-to-end tutoring interaction on consumer-grade school hardware without cloud GPUs](elevate-prototype-near-real-time-consumer-hardware.md) — a broader claim this one bears on
 - [On the live single-node deployment, short-answer rounds take ≈32 s (≈$0.015/round) while multiple-choice rounds are ≈4× faster (≈7.6 s, ≈$0.005/round) because grading is deterministic](collearn-latency-cost-efficiency.md) — related
 - [The most energy-efficient tested configuration consumes 1.8 mWh per query, a 43.8% reduction relative to the Qwen-7B FP16 baseline](energy-efficient-configuration-1-8-mwh-per-query.md) — related
+- [The 3B VR classroom system achieves an average end-to-end latency of approximately 73 ms, below the 150 ms threshold required for real-time interactions](3b-end-to-end-latency-below-realtime-threshold.md) — related

@@ -45,3 +45,4 @@ Multilevel HLM analysis of facilitating factors on relational trust controlling 
 ## Related Claims
 - [School size is the characteristic most related to teachers' reform and school-quality ratings, with small schools (350 students or fewer) rated most positively](small-schools-more-positive-reform-quality.md) — related
 - [Facilitative, inclusive principal leadership and effective principal supervision are associated with more positive trust relations](principal-leadership-associated-with-trust-relations.md) — related
+- [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — related

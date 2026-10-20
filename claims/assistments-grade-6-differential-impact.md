@@ -51,3 +51,8 @@ Grade-level subgroup analysis of the quasi-experimental sample (predominantly 7t
 - [A lottery-based randomized controlled trial at Lied replicated the positive, statistically significant impact on 6th graders' mathematics achievement found by the QED](lied-rct-replicates-math-impact.md) — related
 - [Schools using the ASSISTment formative assessment platform significantly outperformed matched schools on the state mathematics test](assistment-schools-outperformed-matched-schools.md) — a broader claim this one bears on
 - [The homework management–homework behavior link is stronger for grades 7–8 than for grades 5–6](homework-management-behavior-link-stronger-older-grades.md) — related
+- [Students of e2L-coached teachers outperformed students in comparison schools on end-of-year STAAR math in a propensity-score-matched study](e2l-coaching-staar-math-outperformed.md) — related
+- [Twelve weeks of MITCA homework prescription produced higher time management than traditional homework in 5th–6th graders](mitca-improves-time-management-primary.md) — related
+- [Catapult Learning Wraparound SES significantly improves middle school math achievement (ES +0.21)](wraparound-ses-improves-math-achievement.md) — related
+- [Group differentiation by students' learning strategies raises secondary school student performance by a small but significant margin](differentiation-learning-strategies-raises-performance.md) — related
+- [In an IES-funded randomized controlled trial, students with lower prior mathematics achievement gained more from ASSISTments homework support than students with higher prior achievement](assistments-greater-gains-lower-prior-achievement.md) — related

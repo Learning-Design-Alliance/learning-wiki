@@ -44,3 +44,6 @@ Hierarchical regression Model 3 on vocabulary (N = 174): KABC short-term memory 
 
 ## Related Claims
 - [Phonological short-term memory capacity selectively predicts new vocabulary learning](phonological-memory-predicts-vocabulary-learning.md) — related
+- [Book-cover recognition predicts vocabulary and letter knowledge even after controlling for intelligence and cognitive control](book-cover-recognition-predicts-literacy-beyond-intelligence.md) — related
+- [Vocabulary scores predicted executive-loaded non-verbal working memory scores beyond age and non-verbal reasoning](vocabulary-predicts-executive-loaded-nvwm.md) — related
+- [Cognitive control mechanisms do not moderate the beneficial effects of book exposure on early literacy outcomes](cognitive-control-does-not-moderate-book-exposure.md) — related

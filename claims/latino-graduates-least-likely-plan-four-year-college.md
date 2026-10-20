@@ -48,3 +48,7 @@ Descriptive analysis by race/ethnicity in Table 1 (N=5,194). Latino graduates sh
 ## Related Claims
 - Only 41 percent of CPS seniors who aspired to a four-year degree enrolled in a four-year college the fall after graduation — related
 - [College enrollment gaps by race, gender, and socioeconomic background among CPS graduates were driven primarily by differences in four-year enrollment](cps-enrollment-gaps-driven-by-four-year-enrollment.md) — related
+- [Approximately 10 percent of CPS graduates accepted into a four-year college do not enroll the following fall](accepted-but-not-enrolled-summer-melt-cps.md) — related
+- [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — related
+- [Pre-med aspiration, excitement about learning, and competitiveness each predict higher engagement; gender, race, and most pre-college measures do not](motivation-and-background-predictors-engagement.md) — related
+- [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related

@@ -44,3 +44,4 @@ The article reports, citing Lai et al. (2015), that "quality OCLL was comprised 
 
 ## Related Claims
 - [In high school groups, frequency of negotiation of meaning correlates positively with vocabulary score (r = 0.761) and with comprehensible input (r = 0.310)](negotiation-frequency-correlates-vocabulary-high-school.md) — related
+- [Between-class accuracy differences were not correlated with performance on listening comprehension tests](accuracy-differences-uncorrelated-listening-comprehension.md) — related

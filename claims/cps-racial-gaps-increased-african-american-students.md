@@ -86,3 +86,5 @@ Trend analysis of CPS math scores by racial/ethnic group across the three eras, 
 - [Teacher-perpetuated racial or ethnic discrimination in math classrooms is associated with worse engagement, grades, and test scores for all students](teacher-discrimination-harms-whole-classroom-math-outcomes.md) — related
 - Among all students, Black, Latino, and low-SES students take Algebra I or higher in eighth grade and advanced math in high school at lower rates than White, Asian, and higher-SES peers — related
 - Only the White–Black gap at grade 4 narrowed; gains for minority students did not consistently close racial/ethnic or gender achievement gaps — related
+- [ACT scores rose even with more test takers, growing most in Era 3 in selective enrollment and racially integrated schools](act-scores-rose-most-selective-integrated-schools.md) — reports the opposite
+- [Failure to transition to literacy early triggers a Matthew effect of widening reading and vocabulary gaps](matthew-effect-literacy-transition.md) — related

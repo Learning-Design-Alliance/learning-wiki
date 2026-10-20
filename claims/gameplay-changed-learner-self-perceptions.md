@@ -46,3 +46,4 @@ The study investigated how the five participants experienced games, including th
 - [Gameplay lowered participants' affective barriers to learning English in a fifteen-week game-based program](gameplay-lowered-affective-barriers-learning.md) — related
 - [Gameplay increased participants' willingness to communicate in English](gameplay-increased-willingness-to-communicate.md) — related
 - [Teams that narrowed the first problem and ran small Plan-Do-Study-Act tests before scaling saw themselves as more effective improvers](small-pdsa-cycles-narrow-first-problem.md) — related
+- [Former students reported positive changes in self-perception and self-confidence after participating in prison higher education](prison-college-improved-self-perception-women.md) — related

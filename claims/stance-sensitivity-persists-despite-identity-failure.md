@@ -45,3 +45,5 @@ Manipulation checks among 685 AI targets confirmed the stance manipulation: supp
 ## Related Claims
 - [Participants fail to distinguish undisclosed AI teammates from human teammates above chance in synchronous text-based group interaction](chance-level-ai-identity-detection-undisclosed-teammates.md) — related
 - [Representational similarity analysis shows identity judgments are organised around subjective impressions, orthogonal to diagnostic cue structure](representational-dissociation-subjective-impressions.md) — related
+- [Minimal human-like cues suffice to trigger automatic social reactions to embodied agents, though the role of visual social cues remains contested](minimal-social-cues-trigger-automatic-social-reactions.md) — related
+- [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related

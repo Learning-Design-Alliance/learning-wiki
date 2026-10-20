@@ -44,3 +44,4 @@ Paragraph-level analysis shown in Figure 5, with printed front/middle/back accep
 
 ## Related Claims
 - [Stateful proactive collaboration (L2) yields higher acceptance and lower editing effort than stateless proactive collaboration (L1), with lower acceptance in creative than scientific domains](stateful-proactive-beats-stateless-acceptance-editing.md) — related
+- [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related

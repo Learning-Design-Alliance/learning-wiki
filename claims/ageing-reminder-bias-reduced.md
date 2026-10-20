@@ -70,3 +70,4 @@ The review reports Scarampi and Gilbert (2021), who administered the intention o
 - [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related
 - [Feedback interventions show phase-specific effects: advice feedback reduces reminder bias, but ranking feedback alters beliefs without increasing offloading](feedback-effects-on-offloading-mixed.md) — related
 - [External reminders dramatically reduce forgetting of delayed intentions](external-reminders-reduce-forgetting.md) — related
+- [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — related

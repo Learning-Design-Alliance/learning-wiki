@@ -45,3 +45,5 @@ Mediation analysis in the Study 1 survey; the overall index of moderated mediati
 ## Related Claims
 
 - [Gender-interest stereotypes create a gender gap in interest in a computer science activity: girls, but not boys, show lower interest when the stereotype is present](stereotype-creates-gender-gap-cs-activity-study4.md)
+- [The more girls endorse gender-interest stereotypes favoring boys, the lower their own interest in computer science and engineering, and interest stereotypes predict girls' interest more strongly than ability stereotypes](gender-interest-stereotypes-predict-girls-lower-interest.md) — related
+- [Gender-interest stereotypes favoring boys in computer science and engineering are endorsed across grades 1–12 and across racial/ethnic groups in a diverse sample](gender-interest-stereotypes-diverse-sample-grades-1-12.md) — related

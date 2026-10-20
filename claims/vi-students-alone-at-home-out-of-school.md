@@ -46,3 +46,5 @@ In the seven-day experience-sampling study of twelve visually impaired high scho
 
 - [Students with visual impairments rated leisure and structured recreation in other locations as their most enjoyable activities](leisure-other-locations-most-enjoyable.md)
 - [Most Digital Café participants had home Internet but no one to help with everyday computer learning needs](cafe-participants-home-internet-no-help.md)
+- [In Layers, Context-Centered-mindset participants drew on students' communities and home lives while Context-Neutral-mindset participants adapted content without students' out-of-school experiences](layers-topics-track-context-centered-mindsets.md) — related
+- [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](vi-students-fit-in-less-accepted-at-school.md) — related

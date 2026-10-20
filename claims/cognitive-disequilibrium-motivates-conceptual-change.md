@@ -130,3 +130,8 @@ Thirty-two undergraduates took part in eight computer-based "trialogues" about r
 - [Dialogue evidence shows coach feedback induces genuine conceptual change, shifting the agent from misconception to conceptually correct explanation rather than superficial answer alignment](dialogue-feedback-induces-conceptual-change.md) — a narrower finding that bears on this claim
 - [Error correction supports learning when it requires substantive cognitive work such as explanation and reconstruction](error-correction-effort-supports-learning.md) — related
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — a broader claim this one bears on
+- [Only the interactive antagonistic agent, not stepwise guidance, significantly shifted novice designers' design thinking relative to self-reflection](agent-enacted-conflict-shifts-design-thinking.md) — a narrower finding that bears on this claim
+- [Alternative conceptions in force and motion were very difficult to change: of 14 students, 6 showed substantial conceptual change, 1 some change, and 7 no change](force-motion-conceptions-difficult-to-change.md) — a narrower finding that bears on this claim
+- [Science-classroom studies of cooperative learning show mixed results, with several null or negative comparisons](cooperative-learning-science-studies-mixed.md) — related
+- [The learning cycle is reported as an effective means for learning science concepts and processes](learning-cycle-effective-science-learning.md) — related
+- [Perturbation type determines the interaction types needed: conflicting evidence elicits argumentation](conflicting-evidence-increases-argumentation.md) — related

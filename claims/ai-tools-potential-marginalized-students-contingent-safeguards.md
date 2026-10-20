@@ -45,3 +45,8 @@ Theme 2 of the review's thematic synthesis, the most strongly supported theme (1
 
 ## Related Claims
 - [Digital access among adults on the margins is not a one-time event but an ongoing, contingent accomplishment requiring an assemblage of resources](digital-access-ongoing-accomplishment.md) — related
+- [AI integration is associated with improvements in teaching, learning, and administrative efficiency in higher education when supported by adequate infrastructure](ai-integration-improves-teaching-learning-admin-efficiency.md) — a broader claim this one bears on
+- [The review identifies data privacy, algorithmic fairness, academic integrity, and unequal access as interconnected ethical concerns in AI-supported mathematics education](ai-math-ethical-concerns-interconnected.md) — related
+- [Eight AI-driven factors positively influence learner satisfaction and engagement in online higher education](eight-ai-factors-positive-engagement-satisfaction.md) — related
+- [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related
+- [AI outcomes in higher education are shaped by leadership capacity, infrastructure readiness, and governance structures rather than functioning independently](ai-outcomes-shaped-by-leadership-infrastructure-governance.md) — a broader claim this one bears on

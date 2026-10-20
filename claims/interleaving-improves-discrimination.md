@@ -112,3 +112,5 @@ narrow claim may be better supported than a general "interleaving improves learn
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — possibly the same claim (merge candidate)
 - [Evidence on working memory capacity as a moderator of the interleaving effect is mixed, but WM does not appear to be a major barrier to classroom use](working-memory-mixed-moderator-interleaving.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — possibly the same claim (merge candidate)
+- [Sequencing rather than concept selection explains most of the EVOL–PPO-vanilla EP gap on ASSIST15 L=10](sequencing-explains-evol-ppo-gap.md) — related
+- [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related

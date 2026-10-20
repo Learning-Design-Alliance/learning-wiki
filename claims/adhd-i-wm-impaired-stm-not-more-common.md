@@ -47,3 +47,6 @@ Group comparison of 27 children with ADHD-I (restrictive subtype) against 62 typ
 - [Diagnostic validity analyses yield results similar to the prevalence findings for WM, STM, and motivational impairments](diagnostic-validity-similar-to-prevalence-results.md) — related
 - [Impairment on WM, STM, and/or motivation is associated with more inattention symptoms, medication use, and lower IQ scores](impairment-associated-inattention-medication-lower-iq.md) — related
 - [Visuospatial working memory and short-term memory impairments are most prevalent in children with ADHD-C relative to ADHD-I and typically developing controls](visuospatial-wm-stm-impairments-most-prevalent-adhd-c.md) — related
+- [Children with ADHD-C show impaired visuospatial STM and CE relative to typically developing controls, whereas children with ADHD-I show impaired CE but intact STM](adhd-subtype-stm-ce-dissociation.md) — related
+- [STM and WM performance is worse in ADHD-C than in ADHD-I, while CE-related performance does not differ between subtypes](adhd-c-worse-stm-wm-than-adhd-i.md) — related
+- [The majority of children with ADHD-C is impaired on visuospatial working memory](majority-adhd-c-impaired-visuospatial-wm.md) — related

@@ -65,3 +65,7 @@ Qualitative analysis of the drawings (Fig. 3) in the exploratory classroom study
 - Children's artwork and written stories offer insight into children's cognitive development and literacy development — a broader claim this one bears on
 - [Strategy variety for drawing attention was higher in the no-instruction and peer tutoring groups, while frequency was higher in the instruction groups](drawing-attention-variety-no-instruction-peer-tutoring.md) — related
 - [Students exposed to robot storytelling report significantly higher enjoyment than students exposed to robot explanation in a 1-week classroom study](robot-storytelling-higher-enjoyment-than-explanation.md) — related
+- [Students preferred robot-assisted storytelling and some students treated the robot as a more equal communication partner than the instructor](students-prefer-and-trust-robot-storytelling-partner.md) — related
+- [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related
+- [Across repetition cycles, attention can shift from message meaning to linguistic form, enabling recycled language and self-correction](attention-shift-meaning-to-form-over-cycles.md) — related
+- [Expansive framing increased spontaneous transfer of the diagram-drawing learning strategy (7 of 12 vs. 1 of 12 students)](expansive-framing-boosts-diagram-strategy-transfer.md) — related

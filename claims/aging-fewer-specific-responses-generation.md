@@ -48,3 +48,6 @@ Mixed-design ANOVA on generation responses in the memory experiment showed young
 - [Generation and elaboration specificity correlate for autobiographical memory but not for problem solving in both age groups](generation-elaboration-correlation-memory-only.md) — related
 - [Specificity measures correlate more strongly across tasks for older adults than younger adults, suggesting semantic strategy reliance](specificity-correlations-stronger-older-adults.md) — related
 - [Older adults manifest more than twice as many user difficulties as younger users in ICT contexts](older-adults-twice-user-difficulties-ict.md) — related
+- [Older adults produced more external details than younger adults only in the memory experiment, not in problem solving](age-external-details-memory-only.md) — related
+- [Older adults describe less effective problem-solving solutions, producing fewer relevant steps than younger adults](aging-fewer-relevant-steps-meps.md) — related
+- [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related

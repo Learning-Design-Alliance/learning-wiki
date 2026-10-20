@@ -44,3 +44,6 @@ The brief cites this research (endnote: Wolf, Crosson, & Resnick, 2011) to motiv
 
 ## Related Claims
 - [Instructors focused OCF on pronunciation and grammar errors and withheld correction unless errors impeded communication](ocf-focused-pronunciation-grammar-communication-impeding.md) — related
+- [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](ngi-not-distracting-attention-returns.md) — related
+- [Lynch and Maclean's carousel task showed immediate repetition benefits in pronunciation, vocabulary and grammar](carousel-task-immediate-repetition-benefits.md) — related
+- [ESL teachers in Bangladesh lack adequate pronunciation-instruction training, leaving them unprepared to teach pronunciation](esl-teachers-bangladesh-unprepared-pronunciation.md) — related

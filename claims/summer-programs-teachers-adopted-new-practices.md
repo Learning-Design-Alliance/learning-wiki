@@ -47,3 +47,4 @@ The brief's key findings report that "Teachers made use of new instructional pra
 - [Students in three summer math programs showed large improvements in grades the semester after the program](summer-math-programs-large-grade-improvements-next-semester.md) — related
 - [Teachers who made nonproductive adaptations were more likely to adapt lessons to on-grade-level content while delivering the lesson](nonproductive-adapters-on-grade-level-during-delivery.md) — related
 - Two Eastern KY teachers shifted from learners to trainers and taught 15 new teachers what they had learned — related
+- [Middle school math teachers are more likely to make productive than nonproductive adaptations to curricula](teachers-more-productive-than-nonproductive-adaptations.md) — related

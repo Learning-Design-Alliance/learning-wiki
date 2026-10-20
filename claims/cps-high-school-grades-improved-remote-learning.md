@@ -46,3 +46,6 @@ Descriptive analysis of high school fourth-quarter grades in district-run and Op
 - [Course grades of students in grades 4-8 declined during remote and hybrid learning relative to pre-pandemic years](cps-grades-4-8-declined-remote-learning.md) — related
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — related
 - [Post-pandemic course grades rose while test scores and attendance fell, raising questions about what grades signal](grades-rose-tests-attendance-fell.md) — a broader claim this one bears on
+- [Students in grades 4-8 were much more likely to receive no-credit grades during remote learning, with 41 percent receiving at least one Incomplete in spring 2020](cps-grades-4-8-no-credit-incompletes-spring-2020.md) — related
+- [On-track improvements were accompanied by across-the-board grade gains, not grade inflation from turning Fs into Ds](on-track-gains-not-driven-by-grade-inflation.md) — related
+- [Attendance and online platform participation remained predictive of students' course grades during remote learning, with relationships as large or larger than pre-pandemic](attendance-predictive-of-grades-remote-learning.md) — related

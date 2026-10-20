@@ -49,3 +49,4 @@ Quasi-experiment with two intact classes (34 ADI, 33 comparison) taught by the s
 - [ADI students scored significantly higher than structured-inquiry students on the personal epistemology of science subscale, but not on value of science or self-efficacy subscales](adi-personal-epistemology-gain-only-subscale.md)
 - [Interviewed ADI students reported engaging in scientific practices such as identifying variables, finding patterns in data, and developing methods, while no comparison-group students did](interviews-adi-scientific-thinking-practices.md)
 - [Scientific literacy post-test scores, critiquing performance, and inquiry performance were closely related](posttest-critique-inquiry-performance-relation.md)
+- [Critiquing problematic inquiry cases before virtual-lab inquiry augments the effect of virtual labs on middle school students' scientific literacy more than teacher demonstration](critique-before-virtual-lab-inquiry-augments-scientific-literacy.md) — related

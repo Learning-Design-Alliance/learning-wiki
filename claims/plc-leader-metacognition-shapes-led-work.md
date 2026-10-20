@@ -49,3 +49,5 @@ Interview-based findings across the three cases: Jacki adjourned unfruitful meet
 - [The professional learning community is an environment in which teacher metacognition can be nurtured](plc-nurtures-teacher-metacognition.md) — related
 - [Teacher metacognition in PLCs appears at both a lower level (reflecting on what one does) and a higher level (reflecting on how one reflects)](plc-metacognition-lower-and-higher-levels.md) — related
 - [The paper reports that metacognition—students thinking about how they understand their own learning—supports more efficient and effective learning and improved outcomes](metacognition-efficiency-effectiveness-outcomes-claim.md) — related
+- [PLC with an appointed teacher leader were more productive than groups with no appointed leader](teacher-leader-more-productive-plc.md) — related
+- [Disagreements within a PLC can catalyze teacher learning rather than impede it](plc-disagreements-catalyze-learning.md) — related

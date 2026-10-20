@@ -54,3 +54,5 @@ Secondary finding from the multiple regression analyses for both regular and irr
 - [CF treatment improved regular past tense performance on both GJT and EIT with large effects](cf-treatment-improves-regular-past-tense-gjt-eit.md) — related
 - [Learners in all three corrective-feedback groups improve irregular past tense performance on both GJT and EIT from pretest to posttests, a within-group gain that does not separate the feedback types](cf-treatment-improves-irregular-past-tense-gjt-eit.md) — related
 - [Feedback effects on ungrammatical GJT items were weak because learners already possessed the relevant explicit knowledge](weak-effect-ungrammatical-gjt-items-ceiling.md) — related
+- [Knowledge-test scores correlated significantly with the self-assessed knowledge item at both pretest and posttest](knowledge-test-correlates-with-self-assessment.md) — related
+- [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related

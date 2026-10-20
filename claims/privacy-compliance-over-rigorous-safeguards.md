@@ -65,3 +65,6 @@ Statement from the head of a state CTO council reported in the trust section, no
 - [Safeguards in university AI policies are sparse and unevenly covered](safeguard-coverage-sparse-ai-policies.md) — related
 - [EdTech organizations recognize privacy as important but consistently defer it across the product lifecycle](edtech-privacy-deferred-across-product-lifecycle.md) — related
 - [EdTech organizations delegate privacy responsibility to cloud providers, policy documents, and downstream institutions, diffusing accountability](edtech-privacy-responsibility-delegated-diffused.md) — related
+- [Weak privacy feedback loops reduce pressure on EdTech organizations to prioritize privacy](weak-privacy-feedback-loops-edtech.md) — related
+- [Users of a student success information system showed only a surface-level understanding of privacy, with FERPA serving as the extent of many interviewees' privacy knowledge](surface-level-privacy-understanding-users.md) — related
+- [Privacy capacity was unevenly distributed, distinguishing resource scarcity from strategic deprioritization of privacy](uneven-privacy-capacity-scarcity-versus-deprioritization.md) — related

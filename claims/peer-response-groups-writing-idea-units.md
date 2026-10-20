@@ -75,3 +75,4 @@ In the same RCT, Appendix A3 reports effect sizes of 0.15 for composition qualit
 - [Concrete reward increases children's mean ideational fluency on creativity tasks relative to control conditions](concrete-reward-increases-mean-ideational-fluency.md) — related
 - [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](younger-audience-beats-teacher-audience-posttest.md) — related
 - [Writing instruction produces a statistically significant positive overall effect on the writing performance of K-12 English language learners in the United States (g = 0.33)](writing-instruction-positive-overall-effect-us-ell.md) — a broader claim this one bears on
+- [Both conditions improved in overall idea units, evidence-based units and functional units, with no significant condition-by-time differences](argumentation-practice-improves-argument-output-both-conditions.md) — related

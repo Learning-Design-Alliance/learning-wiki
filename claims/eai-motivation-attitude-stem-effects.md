@@ -46,3 +46,5 @@ Qualitative synthesis in the discussion of effects on students, drawing on the i
 - [Participation in STEM PLCs positively impacts teachers' understanding of or preparedness to teach content and attitudes toward teaching methods](stem-plc-teacher-knowledge-attitude-gains.md) — related
 - [STEM teachers participating in learning teams deepen their mathematics and science content knowledge and feel more prepared to teach it](stem-plcs-deepen-teacher-content-knowledge.md) — related
 - [STEM PLC participation increases teachers' deliberation about students' mathematics or science thinking and shifts instruction toward attention to student reasoning and diverse problem-solving modes](stem-plc-instructional-practice-shifts.md) — related
+- [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — possibly the same claim (merge candidate)
+- [Students hold generally positive attitudes toward Gen AI-assisted problem posing, with a minority mixed or negative](generally-positive-attitudes-gen-ai-problem-posing.md) — related

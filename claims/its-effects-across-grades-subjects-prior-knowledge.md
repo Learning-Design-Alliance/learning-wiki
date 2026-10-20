@@ -66,3 +66,7 @@ Subject-domain moderator analysis (Table 3) with heterogeneity QB = 50.67, p < .
 - [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — a broader claim this one bears on
 - [Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model](its-type-bayesian-higher-than-model-tracing-fixed-effect.md) — related
 - [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related
+- [AR/VR tools show the largest effect among AI application types (g = 1.765), while ITS and personalized educational games show small effects](arvr-largest-effect-ai-application-type.md) — related
+- [LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects](llms-struggle-most-chemistry-nsmq-riddles.md) — related
+- [School level significantly moderates effects: AI-enabled personalized STEM education is more effective in junior and senior high school than in kindergarten](school-level-moderates-ai-stem-effects.md) — related
+- [AI use is predominantly independent of the science subject taught, with one exception: chemistry teachers most often cite lack of subject-specific relevance](ai-use-independent-of-science-subject.md) — related

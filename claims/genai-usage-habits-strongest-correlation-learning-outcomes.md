@@ -47,3 +47,4 @@ Pearson product-moment correlation analysis of all dimensional variables from th
 - [All SFAILQ dimensions correlate positively with academic self-efficacy (usage skills strongest) and academic engagement (responsible use strongest)](sfailq-criterion-validity-correlations.md) — related
 - [All six GenAI-SRL dimensions correlate positively with learners' perceived writing improvement (r = 0.275–0.338)](genai-srl-dimensions-correlate-perceived-writing-gains.md) — related
 - [Chinese higher vocational students report medium-high GenAI usage (M = 3.75) with usage habits highest, and above-average perceived learning outcomes (M = 4.01) with competency development ranked highest](vocational-students-genai-usage-medium-high-outcomes-above-average.md) — related
+- [Year of study is only weakly positively associated with reported AI usage frequency, indicating tool normalization across cohorts](weak-year-usage-frequency-association.md) — related

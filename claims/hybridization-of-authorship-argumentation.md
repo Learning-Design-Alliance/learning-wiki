@@ -48,3 +48,7 @@ Second macro-transformation reported in Section 4.2 from the observational analy
 - [PGR students rejected GenAI generation of research ideas, original arguments, or whole papers as violating authorship norms, while accepting surface-level support](genai-authorship-boundary-rejected-substitution.md) — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [Pre-service teachers rate ChatGPT-generated texts higher on structure but often fail to identify AI authorship, indicating limited critical AI literacy](preservice-teachers-limited-critical-ai-literacy.md) — related
+- [Both detectors performed poorly on hybrid human–AI texts, with Originality showing near-zero recall for the Hybrid class](detectors-fail-hybrid-authorship-texts.md) — related
+- [Independent evaluation found commercial AI-text detectors neither sufficiently accurate nor sufficiently reliable for high-stakes use](detectors-insufficient-accuracy-high-stakes.md) — related
+- [Learners selectively filtered and adopted AI-generated feedback while maintaining pedagogical agency](learners-selectively-filter-ai-feedback-agency.md) — related
+- [Humanizer sites deploy mystification through opaque algorithm references, scale claims, and unexplained success-rate claims](humanizer-mystification-success-rate-claims.md) — related

@@ -47,3 +47,4 @@ Mixed ANOVA on strategy frequencies from 92 children interviewed about autobiogr
 - [Children tailor metacognitive strategy type to emotion: changing goals most for sadness, changing thoughts most for fear](children-tailor-metacognitive-strategy-type-to-emotion.md) — related
 - [A majority of 5- and 6-year-olds can describe metacognitive emotion regulation strategies when asked about familiar hypothetical situations with multiple prompts](five-six-year-olds-describe-metacognitive-emotion-regulation.md) — related
 - [In hypothetical scenarios, 5- and 6-year-olds most often suggest goal reinstatement and goal substitution, and their strategies do not differ for sadness versus anger](study1-goal-strategies-most-common-no-emotion-difference.md) — related
+- [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related

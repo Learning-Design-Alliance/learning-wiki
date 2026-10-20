@@ -48,3 +48,4 @@ Cross-sectional analysis of the Mindell et al. cross-cultural dataset reported i
 - [A language-based bedtime routine at age 3 predicted longer nighttime sleep duration at age 5 and higher language abilities and receptive vocabulary at age 5](language-based-bedtime-routine-predicts-sleep-and-language.md) — related
 - [Bedtime routine interventions improved maternal mood, maternal confidence, and, in one study, marital satisfaction, beyond child sleep outcomes](bedtime-routine-interventions-improve-maternal-and-family-outcomes.md) — related
 - [Shorter sleep duration is associated with more screen time in children aged 0–4 years (5 of 5 studies)](shorter-sleep-more-screen-time-early-years.md)
+- [The later, shorter, inconsistent sleep health class shows later bedtimes, shorter sleep duration, less consistent routines, and higher pre-bedtime caffeine consumption than the earlier, longer, consistent class](later-shorter-inconsistent-class-profile.md) — related

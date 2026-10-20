@@ -47,3 +47,7 @@ Theoretical argument in the comment's timing section. The authors argue that for
 
 ## Related Claims
 - [Students' generative AI use may function either as a scaffold supporting thinking or as a shortcut bypassing essential cognitive processes](ai-scaffold-or-shortcut-pathways.md) — a broader claim this one bears on
+- [Adverse impacts of school closures are most pronounced for younger school-age children, driven by self-productivity and dynamic complementarity in human capital production](younger-children-hurt-more-by-closures.md) — related
+- [Academic and nonacademic skills developed in preschool and early elementary years are foundational to important longer-term outcomes](early-years-skills-foundational-longer-term-outcomes.md) — related
+- [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
+- [AI roles in learning communities risk passivity, diminished authenticity, and overdependence if reflective inquiry is bypassed](ai-risks-when-reflective-inquiry-bypassed.md) — related

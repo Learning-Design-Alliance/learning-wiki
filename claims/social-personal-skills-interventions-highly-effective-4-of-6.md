@@ -47,3 +47,5 @@ Narrative review of 6 studies evaluating social and personal skills training in 
 - [Family-based interventions improved self-regulation in 5 of 9 studies (56%) and had longer follow-up durations than other intervention types.](family-based-interventions-improved-sr-5-of-9.md) — related
 - [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related
 - [Early Risers has potentially positive effects on social outcomes, driven by a significant Social Skills Composite effect in one of two studies](early-risers-potentially-positive-social-outcomes.md) — related
+- [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](meditation-small-social-competence-effects.md) — related
+- [Social-emotional learning benefits persist at follow-up](sel-benefits-persist-follow-up.md) — related

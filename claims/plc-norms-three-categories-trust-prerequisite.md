@@ -89,3 +89,6 @@ Cross-study synthesis of norm development. The review states that "productive no
 - [Key officials describe a shift from a punitive top-down accountability approach to a collaborative, improvement-focused model that fostered trust and communication](ri-charter-shift-punitive-to-collaborative-culture.md) — related
 - [Consistent participation in a cross-grade, cross-school professional learning community supported PKTP implementation and teacher learning](pktp-plc-supported-implementation.md) — related
 - [Consultation with trusted colleagues offered new interpretations of a student's behavior, lessening a teacher's emotional labor and shifting her from surface acting to deep acting (Linda case)](linda-consultation-shifted-surface-to-deep-acting.md) — related
+- [Active participation in a community has a more significant impact on learning than mere membership](active-participation-beats-mere-membership-for-learning.md) — related
+- [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
+- [SCMD activity systems exhibit three categories of rules and four types of participant roles](scmd-rules-and-division-of-labor.md) — related

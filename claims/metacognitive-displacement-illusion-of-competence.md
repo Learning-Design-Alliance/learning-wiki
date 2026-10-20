@@ -48,3 +48,7 @@ Theoretical argument from the cross-cutting theme synthesis concerning self-expl
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Some AI tools can inhibit productive struggle by reducing cognitive effort when they automate processes students would otherwise reason through](ai-automation-reduces-productive-struggle.md) — related
 - [Immediate LLM explanations risk bypassing the generative processes required for durable understanding](genai-offloading-bypasses-desirable-difficulties.md) — related
+- [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — a broader claim this one bears on
+- [Some GenAI tools can inhibit productive struggle by reducing cognitive effort (metacognitive laziness)](genai-metacognitive-laziness.md) — related
+- [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related
+- [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related

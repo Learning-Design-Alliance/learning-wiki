@@ -45,3 +45,9 @@ Bivariate comparison grouping estimates from Brazil, Colombia, Mexico and South 
 ## Related Claims
 - The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias — related
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — a broader claim this one bears on
+- [Virtual patient effectiveness evidence comes from both high-income and low- and middle-income countries](vp-effectiveness-global-applicability.md) — related
+- [Global inclusion gaps persist despite large EdTech investment](inclusion-gap-persists-despite-edtech-investment.md) — related
+- [No evidence that COVID-19 learning deficits differ between primary and secondary students](covid-deficits-no-grade-level-variation.md) — related
+- [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — related
+- [Learning deficits during the pandemic are larger in maths than in reading](covid-deficits-larger-maths-than-reading.md) — related
+- [Technology access problems during the COVID shift were more prevalent among minoritized students and students from lower-income households](covid-stem-tech-access-inequity.md) — related

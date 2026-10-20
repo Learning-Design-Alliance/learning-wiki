@@ -44,3 +44,4 @@ Metaregression moderator analysis of simulation duration, with printed effects "
 
 ## Related Claims
 - [Interventions lasting one to two months show the largest effect, and effects do not increase consistently with longer duration](ai-effect-duration-one-to-two-months-peak.md) — related
+- [Real-time data collection made the momentum lab substantially more efficient, cutting lab duration from two hours to one](real-time-data-collection-increases-lab-efficiency.md) — related

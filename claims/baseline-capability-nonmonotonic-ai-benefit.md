@@ -50,3 +50,5 @@ The paper cites two field experiments as its empirical grounding: a customer-sup
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — a narrower finding that bears on this claim
 - GPT-4 access raised consultant output quality inside the model's frontier but reduced correct solutions just outside it — a narrower finding that bears on this claim
 - [Over a quarter of benchmark tasks (23 of 80) defeat all six frontier models, with over 22% showing capability boundaries where scores swing by up to 90 points](capability-boundaries-and-universal-failures-academiclaw.md) — related
+- [In one randomized working-paper experiment, conceptual-map scaffolding gave LLM-using novices marginally higher scores (p < .10) and lower score variance, with a marginal benefit concentrated among low-AIC novices](conceptual-map-scaffolding-reduces-novice-variance.md) — related
+- [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related

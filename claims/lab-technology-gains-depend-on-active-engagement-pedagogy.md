@@ -52,3 +52,6 @@ Authors' interpretation in the discussion, not a tested result: they state the i
 - [Media comparison studies produce uninterpretable "no significant difference" findings.](media-comparison-studies-produce-uninterpretable-results.md) — related
 - [Teachers reported that students needed dedicated time to learn and explore technologies before being expected to gain mathematics understanding from them](students-need-time-learn-technology-first.md) — related
 - [Effectiveness of AI-driven personalized learning is context-dependent, with CS and Mathematics students showing contrasting engagement and performance trajectories](context-sensitive-personalization-disciplinary-backgrounds.md) — a narrower finding that bears on this claim
+- [Students attributed improved understanding to the discussion process of the implementation model rather than the clicker technology itself](learning-attributed-to-process-not-technology.md) — a narrower finding that bears on this claim
+- [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md) — a broader claim this one bears on
+- [CLASP students achieved an average normalized FCI gain of 0.39, above the traditional-course range and in the middle of the interactive-engagement range, despite only about a third of one quarter on mechanics](clasp-fci-normalized-gain.md) — related

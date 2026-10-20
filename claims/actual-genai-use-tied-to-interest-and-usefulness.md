@@ -52,3 +52,5 @@ Exploratory correlation analysis of the 19-item usage/use-value measure (α = 0.
 - [Epistemic orientation and intellectual values jointly predict students’ critical use of genAI, accounting for about one-third of its variance](epistemic-orientation-intellectual-values-predict-critical-genai-use.md) — related
 - [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related
 - [Students’ knowledge about genAI, measured both by self-report and performance test, positively predicts their critical use of genAI](genai-knowledge-predicts-critical-use.md) — related
+- [GenAI's effects on higher-order thinking are mixed: support for reflection and idea expansion alongside cognitive offloading and no overall innovativeness gain](genai-higher-order-thinking-mixed.md) — related
+- [Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students](ct-disposition-positive-employability.md) — related

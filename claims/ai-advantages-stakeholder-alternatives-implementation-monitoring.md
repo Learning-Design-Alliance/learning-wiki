@@ -49,3 +49,4 @@ Step-level results from the three-group experiment (270 students); the article r
 - [AI-assisted inquiry produced larger decision-making gains than inquiry-only and traditional instruction in secondary climate-change education](ai-assisted-inquiry-largest-decision-making-gains-climate.md) — a broader claim this one bears on
 - [Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only](ai-assisted-effect-sizes-large-vs-traditional.md) — related
 - [All three instructional groups began at comparable, mostly low decision-making levels and all improved over the intervention](all-groups-improved-from-low-baseline.md) — related
+- [Within the AI-assisted group, the frequency of checking the AI's claims against sources predicted decision-making gains, with no students flagged for over-reliance](checking-ai-claims-predicts-gains.md) — related

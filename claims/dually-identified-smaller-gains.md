@@ -49,3 +49,5 @@ Observational analysis of fall-to-spring gains for dually-identified students in
 - [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
 - [Ever-ELs and current-ELs make larger fall-to-spring gains than the all-student average in early grades but smaller gains in middle grades](ever-current-el-gains-grade-pattern.md) — related
 - [Ever-SPED students started kindergarten with lower math and reading scores and grew less than never-SPED students during the kindergarten school year](ever-sped-lower-kindergarten-start-less-growth.md) — related
+- [The study distinguishes three EL service-history groups with distinct achievement and growth profiles](three-el-service-history-groups.md) — related
+- [All three English Learner groups had lower K-4 test scores than never-ELs](el-groups-lower-k4-achievement-never-els.md) — related

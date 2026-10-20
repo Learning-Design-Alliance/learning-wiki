@@ -54,3 +54,6 @@ The article's framing statement, attributed to recent studies without citation d
 - [In children, shifting is a more powerful predictor of creativity than fluid and crystallized intelligence](shifting-stronger-creativity-predictor-than-intelligence.md) — a narrower finding that bears on this claim
 - [After controlling for children's level of intelligence, only shifting and inhibition make a significant contribution to creativity](shifting-inhibition-unique-creativity-contribution-children.md) — a narrower finding that bears on this claim
 - [Men scored higher than women on rated divergent thinking creativity in this sample, with no sex differences in fluid intelligence or the executive functions.](sex-difference-creative-potential-sample.md) — related
+- [Soft skills play an equally important role in education investments and outcomes as cognitive skills](soft-skills-equally-important-as-cognitive-skills.md) — related
+- [Creativity (divergent thinking ability) is predicted by both updating and inhibition, but not by shifting ability.](updating-and-inhibition-predict-creativity.md) — reports the opposite
+- [Executive functions substantially account for the latent intelligence–creativity correlation, leaving a reduced but still positive residual of r = .34.](executive-functions-reduce-gf-creativity-correlation.md) — related

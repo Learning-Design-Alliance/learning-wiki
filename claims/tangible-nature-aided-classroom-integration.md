@@ -43,4 +43,6 @@ The article reports, citing its own previous study (Cuendet and Dillenbourg 2013
 
 
 ## Related Claims
--
+- [Students' performance improved from day 1 to day 2 of the TapaCarp activity](performance-improved-day1-to-day2-tapacarp.md) — related
+- [The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students](tapacarp-activity-usable-workplace-engagement.md) — related
+- [Pre-test/post-test learning gains showed no significant difference compared to a control group](tapacarp-learning-gain-null-vs-control.md) — related

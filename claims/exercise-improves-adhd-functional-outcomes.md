@@ -46,3 +46,8 @@ Random-effects meta-analysis of studies on exercise effects on motor skills and 
 
 - [Exercise effect sizes on ADHD functional outcomes are not related to exercise intensity, mean age of participants, or gender distribution](exercise-adhd-effects-unrelated-to-intensity-age-gender.md)
 - [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md) — related
+- [Chronic cardio exercise programs improve executive functions, attention, and behavior in children with ADHD](chronic-cardio-exercise-benefits-adhd-children.md) — a narrower finding that bears on this claim
+- [Small pilot studies provide preliminary evidence that exercise interventions improve behavioral symptoms and neuropsychological functioning in children with ADHD](exercise-pilots-improve-adhd-symptoms-cognition.md) — a narrower finding that bears on this claim
+- [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — a narrower finding that bears on this claim
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — a broader claim this one bears on
+- [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related

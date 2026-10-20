@@ -50,3 +50,5 @@ WWC review of Sallows and Graupner (2005), which examined three outcomes in this
 - [The Lovaas Model has no discernible effects on functional abilities for children with disabilities](lovaas-model-no-discernible-functional-abilities-effects.md) — related
 - [The Lovaas Model has potentially positive effects on cognitive development for children with disabilities, with an improvement index of +27 percentile points](lovaas-model-potentially-positive-cognitive-development.md) — related
 - [Social skills training shows no discernible effects on cognition for preschool children with disabilities](social-skills-training-no-discernible-cognition-effects.md) — related
+- [Social skills training has positive effects on social-emotional development and behavior for preschool children with disabilities in early education settings](social-skills-training-positive-social-emotional-effects-preschool-disabilities.md) — related
+- [First Step to Success shows potentially positive but not statistically significant effects on emotional/internal behavior (effect size 0.26)](first-step-success-internal-behavior-substantive-nonsig.md) — related

@@ -77,3 +77,10 @@ Cross-district finding on rubric comparability. The report frames this as a tens
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](locally-developed-performance-assessments-teacher-collaborative-scoring.md) — related
 - [Performance assessments can be reliably scored when designed appropriately and used with other measures](performance-assessments-reliably-scoreable.md) — related
 - [Instruments show great heterogeneity in measurement quality, with validity or reliability information lacking in many cases](heterogeneous-measurement-quality-teacher-competence-instruments.md) — related
+- [An analysis of 69 district Portraits of a Graduate finds six Skill Sets that capture 90 percent of the attributes districts articulate](six-skill-sets-capture-90-percent-portrait-attributes.md) — related
+- [Contextual conditions beyond district control shape how a college readiness indicator system can be implemented](outer-context-shapes-cris-implementation.md) — related
+- [Using typical measures of school performance may lead state and local decisionmakers astray when identifying schools for support](typical-school-performance-measures-may-mislead-identification.md) — related
+- [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [Standardized test proficiency provides biased information about school quality, indicating a need for alternative metrics](standardized-tests-biased-school-quality.md) — related
+- [Education researchers have not isolated cost-effective, reliable predictors of teacher performance, motivating exam-based certification](no-reliable-cost-effective-teacher-performance-predictors.md) — related
+- [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related

@@ -64,3 +64,4 @@ Fixed-capacity policy comparison at the planned 20% budget (111 alerts) on the l
 ## Related Claims
 - [Recorded natural-language feedback was associated with lower odds of subsequent persistent failure than no feedback in the randomized course subset](natural-language-feedback-lower-persistent-failure-odds.md) — related
 - [Threshold changes in early alert systems can drastically reshape flagged-student volume and advisor workload and should not occur informally](threshold-change-governance-impact.md) — related
+- [Georgia State's GPS Advising paired prediction with advising capacity and retention grants, and its strongest reported outcome was narrowed equity gaps rather than prediction accuracy](gps-advising-equity-gap-narrowing.md) — related

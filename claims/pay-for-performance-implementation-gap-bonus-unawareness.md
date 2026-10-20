@@ -48,3 +48,5 @@ The brief's key findings report that both studies found the policy as implemente
 - [Some aspects of TIF implementation improved between years one and two while others, including bonus awareness, remained challenging](tif-implementation-mixed-improvement.md) — related
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — a broader claim this one bears on
 - [Educators' understanding of the TIF program improved in year two, but more than one-third of teachers still did not know they were eligible for a bonus and underestimated bonus size](tif-educator-understanding-improved-but-incomplete.md) — related
+- [More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses](tif-more-than-half-of-teachers-unaware-of-bonus-eligibility.md) — related
+- [In the 10 evaluation districts, educators did not always understand the performance measures and pay-for-performance bonuses used for TIF](tif-educators-did-not-always-understand-measures-and-bonuses.md) — related

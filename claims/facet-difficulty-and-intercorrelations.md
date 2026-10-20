@@ -63,3 +63,7 @@ Correlational analysis among the in-game estimates in the validation study. The 
 
 ## Related Claims
 - [Adding MicroDYN rule application significantly improves prediction of overall problem solving, planning, tool usage, and evaluating progress, but not analyzing givens](rule-application-predicts-facets-except-analyzing-givens.md) — related
+- [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](microdyn-stronger-predictor-than-ravens.md) — related
+- [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related
+- [Problem isomorphs with identical structure differ greatly in difficulty; Monster Change took 16 times as long to solve as the standard problem](isomorph-difficulty-rule-learning-working-memory.md) — related
+- [Zoo U subscales are intercorrelated in patterns the authors attribute to real-world overlap among social skills competencies](zoo-u-subscale-intercorrelations-expected-overlap.md) — related

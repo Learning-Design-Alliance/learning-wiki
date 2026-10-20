@@ -69,3 +69,4 @@ The lottery-based study estimated impacts two ways: the effect of the offer of a
 - [Impacts of charter middle schools on student outcomes varied widely across schools](charter-school-impacts-varied-widely-across-schools.md) — related
 - [A national randomized study of the impacts of charter schools on student achievement was conducted (2003-2010), prepared for the U.S. Department of Education](first-national-randomized-study-charter-achievement.md) — related
 - [In the earlier National Evaluation of Charter Middle Schools, admission to about 30 charter middle schools produced no significant average effects on achievement, though some schools improved achievement](charter-middle-schools-no-average-achievement-effect.md) — possibly the same claim (merge candidate)
+- [Oversubscription is prevalent among charter middle schools, enabling lottery-based evaluation](oversubscribed-charter-middle-schools-prevalence.md) — related

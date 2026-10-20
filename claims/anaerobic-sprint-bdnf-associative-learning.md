@@ -47,3 +47,5 @@ Cross-over study (Winter et al.) of 27 males aged 19 to 27 completing relaxation
 
 ## Related Claims
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
+- [Exercise Increases Hippocampal Volume](exercise-increases-hippocampal-volume.md) — related
+- [Duration and intensity of PA bouts may moderate attention effects, consistent with an inverted-U hypothesis](pa-duration-intensity-inverted-u-attention.md) — related

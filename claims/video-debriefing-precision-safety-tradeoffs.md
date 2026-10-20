@@ -43,4 +43,7 @@ The editorial reports, citing Schreder et al.'s qualitative study comparing vide
 
 
 ## Related Claims
--
+- [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related
+- [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — a narrower finding that bears on this claim
+- [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](video-evidence-increases-feedback-acceptance.md) — a narrower finding that bears on this claim

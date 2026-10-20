@@ -49,3 +49,5 @@ Supplementary normalized gain (N-Gain) analysis, computed with Hake's formula an
 - [AI-supported PBL students obtain significantly higher posttest computational thinking scores than traditional-lecture students when controlling pretest scores](ai-pbl-higher-posttest-computational-thinking.md) — related
 - Pre-test scores strongly predict post-test scores but not normalized learning gains — related
 - [GenAI-assisted education produces significantly higher higher-order thinking abilities than non-GenAI approaches (g = 0.72)](genai-higher-order-thinking-g072.md) — related
+- [Relative to traditional PBL, the AI-IVE-PBL model improves vocational students' design ability and creative ability](ai-ive-pbl-improves-design-creativity.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related

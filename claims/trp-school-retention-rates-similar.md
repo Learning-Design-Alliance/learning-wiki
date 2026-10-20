@@ -50,3 +50,4 @@ Retention analysis of the same two cohorts of novice TRP and non-TRP teachers as
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — related
 - [Residency-completer principals remained in CPS at similar rates as other principals, with no evidence of differential exit or transfer](residency-completers-retention-similar-rates.md) — related
 - A 2011 study found residency-trained teachers outperformed same-experience peers by nearly two months' worth of learning by their fifth year and were more likely to stay in teaching — reports the opposite
+- [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — reports the opposite

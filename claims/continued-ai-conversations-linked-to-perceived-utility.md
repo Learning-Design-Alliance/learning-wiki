@@ -47,3 +47,5 @@ Spring post-intervention survey (n=386) and student interviews (n=8) added quest
 - [Chatbot engagement was highly uneven: 8 of 15 voluntary users interacted continuously while 7 interacted superficially](chatbot-engagement-bimodal-continuous-versus-superficial-users.md) — related
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](high-but-heterogeneous-voluntary-ai-discussion-uptake.md) — related
 - [Most students preferred combined peer and AI feedback over either source alone, and rated peer and ChatGPT feedback as similarly useful](students-prefer-combined-peer-and-ai-feedback.md) — related
+- [The nine AI demonstrations drew high attendance but modest engagement, with student feedback sharply split on course utility](ai-demonstrations-split-on-course-utility.md) — related
+- [After PAIRR, most students prefer combined peer and AI feedback over either source alone](pairr-builds-confidence-in-ai-while-affirming-human-feedback.md) — related

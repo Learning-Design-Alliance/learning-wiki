@@ -45,3 +45,8 @@ Same multiple regression on 101 groups' factor scores; the social activities fac
 ## Related Claims
 
 - [Regulation of social activities positively predicts group performance in CSCL inquiry tasks](social-regulation-positively-predicts-group-performance.md)
+- [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](regulation-of-social-activities-predicts-group-performance.md) — possibly the same claim (merge candidate)
+- [Information discussion and regulation of task-related activities did not significantly predict group performance](information-discussion-task-regulation-no-performance-effect.md) — related
+- [The four collaborative-activity factors jointly explain almost 50% of the variance in group performance](collaboration-factors-explain-half-performance-variance.md) — related
+- [Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
+- [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — related

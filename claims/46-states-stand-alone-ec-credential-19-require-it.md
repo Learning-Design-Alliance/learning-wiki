@@ -45,3 +45,4 @@ National scan of state credential data gathered from state education agency webs
 ## Related Claims
 - [Early childhood educators' formal preparation and child development skills are particularly important for successful public preschool programs](ec-educator-preparation-important-for-preschool-success.md) — a broader claim this one bears on
 - [Early childhood credential candidates face financial, time, and navigation barriers that fall hardest on candidates of color](ec-credential-barriers-cost-time-navigation.md) — related
+- [New Jersey's Abbott P-3 credential mandate, with scholarships, pay parity, and expanded higher education capacity, rapidly raised credentialed preschool teacher supply](new-jersey-abbott-p3-credential-scale-up.md) — related

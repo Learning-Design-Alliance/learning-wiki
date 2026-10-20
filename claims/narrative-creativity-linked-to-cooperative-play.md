@@ -44,3 +44,5 @@ Study 2 correlational analysis assigning each child the group's narrative creati
 
 - [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related
 - [The augmentation effect on cooperative play replicated in Study 2, with a large playset-by-behavior interaction and no overlap in confidence intervals](cooperative-play-replicated-study2-interaction.md)
+- [An audio-augmented toy produced significantly longer cooperative play than the same toy without augmentation in triads of 6- to 11-year-olds](audio-augmented-toy-doubles-cooperative-play-study1.md) — related
+- [Groups with the augmented toy used more balanced narrative roles, with more narrator and fewer metanarrator utterances](narrative-roles-more-balanced-augmented-toy.md) — related

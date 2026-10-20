@@ -120,3 +120,5 @@ The article reports that the meta-analysis by Macnamara et al. (2014), echoed by
 - [AI-assisted practice applications improved music students' performance outcomes, self-efficacy, and self-regulated learning](ai-practice-apps-improve-music-learning-outcomes.md) — related
 - [Whether EF gains are seen depends on the amount of time children spend doggedly practicing and pushing themselves to improve](repeated-practice-key-ef-gains.md) — related
 - [The association between musical training and school performance appears general and non-specific across subjects, with no evidence for special links to single domains](music-school-association-non-specific-no-special-links.md) — related
+- [Deliberate practice interventions produce higher real estate licensing exam pass rates than traditional study methods](deliberate-practice-raises-licensing-pass-rate.md) — related
+- [Note-level singing correctness rises with practice repetition in a negatively accelerated curve, gaining about 7 percentage points over 30 repetitions](singing-accuracy-negatively-accurated-repetition-curve.md) — a narrower finding that bears on this claim

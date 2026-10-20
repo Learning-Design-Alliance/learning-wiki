@@ -44,3 +44,5 @@ Conceptual argument in the abstract of this conceptual paper; the authors assert
 
 ## Related Claims
 - [An argument-based approach to test score effectiveness can be illustrated by contrasting effectiveness arguments for interim assessments based on a conventional test blueprint versus one augmented with learning progressions](effectiveness-arguments-interim-blueprint-contrast.md) — related
+- [Weak grasp of context can make AI misdiagnoses systematically harmful when a flawed decision pattern is replicated across many students](ai-context-misdiagnosis-systematic-harm.md) — related
+- [The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.](formative-assessment-lacks-pedagogical-rationale.md) — related

@@ -48,3 +48,7 @@ Univariate hierarchical regression in the same longitudinal sample predicting gr
 - [Neither IQ nor WMC significantly predicted early mathematics when both were in the same model, explaining only about 5% of variance](early-math-not-predicted-by-iq-or-wmc.md) — related
 - [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](precursors-reduce-iq-wmc-prediction.md) — related
 - [IQ and working memory are reliable predictors of academic achievement at the beginning of school when domain knowledge is not controlled](iq-and-wm-predict-early-academic-achievement.md) — related
+- [General processing speed (choice reaction time and figure matching) does not significantly predict mathematics achievement in Grade 7 or Grade 9](general-processing-speed-does-not-predict-math.md) — related
+- [Neither numerosity processing nor figure matching predicts general mathematical achievement](numerosity-figure-matching-not-predict-math-achievement.md) — related
+- [Previous domain knowledge accounts for most of the variance in later achievement, considerably reducing the predictive impact of IQ and WM](domain-knowledge-dominates-later-achievement.md) — related
+- [Preschool block play complexity predicts later mathematics achievement, with relationships emerging by seventh grade](block-play-complexity-predicts-later-math-achievement.md) — related

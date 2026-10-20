@@ -52,3 +52,5 @@ Observational sentiment analysis of the full 14,201-tweet corpus using a fine-tu
 - [University-wide AI policies in US R1/R2 institutions are moderately positive in sentiment toward AI adoption](university-ai-policies-moderately-positive-sentiment.md) — related
 - [Sentiment toward GenAI in the course was 86% positive overall, while ethical concerns generated 62% negative sentiment](genai-sentiment-86-positive-62-negative-ethics.md) — related
 - AIED 2024 shows educators as prominent stakeholders, with more papers in the middle of the end-user axis — related
+- [Topic modelling yielded 16 topics dominated by four: AI in Education & Pedagogy (39.43%), Applied ML & Data Science (21.33%), AI Ethics Risk & Governance (20.83%), and ChatGPT for Teaching, Writing & Coding (7.13%)](four-dominant-bertopic-topics-aied-twitter.md) — related
+- [GPT4-coded sentiment of students' open-ended general feedback about the intervention was overwhelmingly positive](positive-sentiment-open-ended-feedback.md) — related

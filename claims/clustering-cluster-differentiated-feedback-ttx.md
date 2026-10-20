@@ -54,3 +54,4 @@ Qualitative analysis (RQ2) of clustering outputs from the EXF exercise's 13 team
 - [Behavioral clusters recur across different student groups, which the authors attribute to shared cultural norms](behavioral-clusters-shared-across-groups.md) — related
 - [Optimal clustering of five-channel CPS sequences detected three types of collaborative patterns among graduate student groups](three-collaborative-pattern-types-cps.md) — a narrower finding that bears on this claim
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
+- [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](milestones-adapt-exercise-pace-per-team.md) — related

@@ -48,3 +48,5 @@ The article reports a family-background moderator: the entrance-age association 
 ## Related Claims
 - [The positive relationship between kindergarten entrance age and achievement primarily reflects skill accumulation prior to kindergarten rather than heightened in-school learning ability](entrance-age-advantage-reflects-prior-skill-accumulation.md) — related
 - [The entrance-age achievement association appears in the first months of kindergarten and declines sharply in subsequent years](entrance-age-gap-declines-after-kindergarten-entry.md) — related
+- [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — related
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related

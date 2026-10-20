@@ -51,3 +51,4 @@ First-phase results for the newly added elementary outcome of GPA. The report de
 - [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](freshman-ontrack-strong-5essentials-measures.md) — related
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](high-school-attendance-strong-5essentials-measures.md) — related
+- [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related

@@ -46,3 +46,4 @@ An fMRI study of 35 female participants (19 adolescents aged 14-16, 16 adults ag
 - [Left ventrolateral prefrontal cortex activation shows linear age-related increases during reappraisal](left-vlpfc-linear-age-increase-reappraisal.md) — related
 - [Social-cognitive regions show quadratic activation patterns with age, with adolescents showing lower reactivity-related but higher reappraisal-related activation](social-cognitive-regions-quadratic-adolescent-pattern.md) — related
 - [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
+- [Task-irrelevant negative images disrupt no-go accuracy specifically in early-mid adolescence](task-irrelevant-negative-images-disrupt-early-adolescent-inhibition.md) — related

@@ -52,3 +52,7 @@ Quasi-experimental matched comparison using CREDO's Virtual Control Record metho
 - No real district–charter difference in benchmark shares, but urban, virtual and high schools show lower shares — related
 - [Charter school outcomes are mixed as a group, with 17% of charters producing greater academic gains and 37% performing worse than traditional public schools serving similar students](charter-outcomes-mixed-credo.md) — related
 - [Virtual charter schools show far lower achievement, with students losing the equivalent of half a year of learning in reading and a full year in mathematics](virtual-charter-negative-achievement.md) — related
+- [Online charter students in New Mexico gain significantly less than brick-and-mortar charter students, offsetting brick-and-mortar reading gains in the aggregate](nm-online-behind-brick-and-mortar.md) — related
+- [Washington charter students' overall annual reading and math gains do not differ statistically from matched TPS peers](wa-charter-overall-gains-no-significant-difference.md) — related
+- [Some charter school students grow faster than their traditional public school peers](some-charter-students-grow-faster-than-tps-peers.md) — reports the opposite
+- [Charter school entrants have similar or lower achievement than incumbents in all studied cities, suggesting no cream skimming](credo-cohort1-charter-no-cream-skimming.md) — related

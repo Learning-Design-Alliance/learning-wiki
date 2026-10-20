@@ -49,3 +49,4 @@ Analysis of the coded process rugs in the Findings section found "these practice
 - [Embodied hands-on practices remain important learning activities in AI-era design education](embodied-hands-on-remains-present.md) — a broader claim this one bears on
 - [The SleepSound team applied science, computer engineering, and product design practices in more segments and at higher simultaneous intensity than the other two teams](claim-sleepsound-intensity-fixes.md) — related
 - [Teacher-introduced redirection that simplified a team's epistemic object was associated with a decline in that team's knowledge-creation activity](claim-teacher-redirection-simplified-epistemic-object.md) — related
+- [The editorial reports that successful collaborative making teams resolved coordination challenges through intertwined social-discursive and materially mediated processes](making-team-success-coordination-entanglement.md) — a broader claim this one bears on

@@ -48,3 +48,4 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [Virtual objects serve as effective media for collaborative knowledge building in shared VR environments](virtual-objects-effective-media-collaborative-knowledge-vr.md) — possibly the same claim (merge candidate)
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
 - [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md) — related
+- [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related

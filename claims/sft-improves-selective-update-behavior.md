@@ -50,3 +50,4 @@ Post-training experiment on Qwen3-4B and Llama3.1-8B-Instruct across Malrule and
 - [Sycophantic failure manifests as indiscriminate correct flips rather than explicit sycophantic agreement, and SFT shifts behavior toward pushback and maintain under non-targeted feedback](sycophancy-via-correct-flip-not-verbal-agreement.md) — related
 - [Taxonomy-guided post-training raises TACTutor's TACT_Overall on TACTBench from 0.629 (backbone) to 0.832, the highest among evaluated models](tactutor-raises-tactbench-overall-0-629-to-0-832.md) — a narrower finding that bears on this claim
 - [Post-training alignment methods may induce sycophancy that deteriorates GenAI models' ability to disagree and push back](sycophancy-limits-genai-pushback.md) — related
+- [General-purpose LLMs show sycophancy: AI responses affirmed users substantially more than human responses, increasing trust and reducing willingness to take responsibility](llm-sycophancy-affirmation-trust-risk.md) — related

@@ -50,3 +50,4 @@ Hierarchical logistic models of students nested within high schools (n=17,753) p
 - [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related
 - [ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal](act-weak-inconsistent-predictor-college-graduation.md) — related
 - [The linear slope of the HSGPA–college graduation relationship does not vary significantly across high schools, so HSGPA provides a consistent signal across schools](hsgpa-slope-consistent-across-schools.md) — related
+- [Among Chicago graduates who enter four-year colleges, high school GPA is the strongest predictor of graduating within six years](gpa-strongest-predictor-chicago-four-year-graduation.md) — related

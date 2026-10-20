@@ -206,3 +206,7 @@ Open questions include the durability of achievement effects after programs end,
 - Moderation analyses in reviewed SEL evaluations often lacked conceptual or empirical justification from prior literature or hypotheses — related
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
 - [Interventions that change educator behaviour to match standard global definitions of quality have delivered negligible effects on children's developmental outcomes](educator-behaviour-interventions-negligible-child-outcomes.md) — related
+- [Teachers' universal classroom management practices significantly reduce problem classroom behavior (mean classroom ES = 0.80, ICC=.05)](universal-classroom-management-reduces-problem-behavior.md) — related
+- [School-based SEL programs promote the development of social and emotional competencies across grade levels](sel-programs-promote-social-emotional-competencies.md) — related
+- [Brief social-belonging interventions improve academic outcomes and well-being, especially for students facing identity threat, but risk being used to fix students rather than structures](social-belonging-intervention-improves-outcomes-but-misuse-risk.md) — a narrower finding that bears on this claim
+- [Programs focusing on students' social-emotional development contribute most to classroom management intervention effectiveness, especially on social-emotional outcomes](social-emotional-focus-largest-contribution.md) — related

@@ -46,3 +46,5 @@ Study 5: a beta version of AIDA tested with 18 students in January 2025 under an
 - [Attitudes toward AI improved after direct experience, and satisfaction was predicted by within-turn production fluency rather than linguistic uptake](satisfaction-predicted-by-production-fluency-not-uptake.md) — a broader claim this one bears on
 - [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related
 - [At pre-test most distance students were positive about an institutional AIDA, but a majority saw challenges, and prior GenAI experience correlated with more positive perceptions](aida-pretest-positivity-and-challenges.md) — related
+- [Distance students prefer an institution-embedded assistant offering 24/7 immediate, context-specific feedback over generic content such as ChatGPT](aida-preferred-24-7-context-specific-feedback.md) — related
+- [Parental attitudes transformed from scepticism to high trust over the three cycles, with parents of low performers developing high confidence by Cycle 3](tprs-mtss-parental-trust-transformation.md) — related

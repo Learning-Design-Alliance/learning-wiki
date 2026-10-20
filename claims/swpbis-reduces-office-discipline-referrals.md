@@ -62,3 +62,10 @@ Multilevel logistic regression in the 4-year group RCT on aggregated dichotomous
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
 - [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](swpbis-reduces-odr-at-risk-high-risk.md) — a narrower finding that bears on this claim
 - [SWPBIS reduced receipt of counseling for inappropriate behavior among at-risk and socially-emotionally skilled children](swpbis-reduces-counseling-services.md) — related
+- [Schools implementing all three PBIS tiers with fidelity had significantly fewer students with OSS, fewer days missed from OSS, and fewer OSS incidents than matched non-PBIS schools during 2020–21](pbis-three-tiers-fidelity-fewer-oss-pandemic.md) — related
+- [School suspension rates declined significantly within SWPBIS schools but not within comparison schools, though the two conditions were not tested against each other](swpbis-reduced-suspensions-not-comparisons.md) — related
+- [In SWPBIS-trained schools the share of students with an office discipline referral fell slightly but significantly (18.8% to 18.1%), with no comparison-school data](swpbis-reduced-odr-percentage.md) — related
+- [Out-of-school suspensions decreased 41% at a middle school implementing PBIS under the TEAM Student framework](pbis-suspensions-decreased-41-percent.md) — a narrower finding that bears on this claim
+- [Students in MTSS-coached schools were significantly less likely to have at least one behavior incident](mtss-coaching-lower-likelihood-behavior-incident.md) — related
+- [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](pthv-home-visit-reduces-disciplinary-incidents.md) — related
+- [Implementing PBIS with at least Tier 1 fidelity showed no statistically significant effect on school disciplinary exclusions during the 2020–21 pandemic year](pbis-tier1-fidelity-no-effect-pandemic-disciplinary-exclusions.md) — related

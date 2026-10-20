@@ -64,3 +64,7 @@ Meta-analysis of 222 independent classroom studies integrating 48,478 students' 
 - [The classroom testing effect transfers to mismatched test formats, but consistent quiz–exam formats yield a significantly larger effect (g = 0.531 vs. g = 0.399).](format-consistency-moderates-classroom-testing-effect.md) — related
 - [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](quizzing-beats-restudying-and-elaborative-controls.md) — related
 - [Group testing shows advantages in some studies but mixed results overall for long-term retention and transfer](collaborative-testing-mixed-results.md) — a narrower finding that bears on this claim
+- [The classroom testing effect increases with the number of test repetitions on the same content.](test-repetitions-positive-relationship-classroom.md) — related
+- [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
+- [Quizizz-based gamification improved word memorization over traditional methods for intermediate learners](quizizz-gamification-better-memorization.md) — related
+- [Classroom pretesting improves high-stakes exam performance on pretested content by 8–9% over a multi-week course](classroom-pretesting-exam-gains.md) — related

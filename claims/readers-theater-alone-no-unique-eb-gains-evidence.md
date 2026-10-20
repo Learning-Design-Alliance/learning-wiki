@@ -48,3 +48,5 @@ The review's own synthesis of the three RT studies (Tsou 2011; Young & Rasinski 
 - [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — the general claim this finding bears on, with the studies behind it
 - Reader's Theater improves oral reading fluency and motivation among Thai EFL university students — reports the opposite
 - Chinese EFL learners hold positive perceptions of Reader's Theater for spoken English improvement — related
+- [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related

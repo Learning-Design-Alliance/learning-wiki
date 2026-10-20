@@ -45,3 +45,4 @@ Scoping review screening of 1367 interventions from Carr et al.'s (2023) mega-an
 ## Related Claims
 - [Gratitude PPIs were subcategorised into letters, lists, induction, and action variants during toolbox selection](gratitude-ppi-subcategories-selection.md) — a narrower finding that bears on this claim
 - [PPI mega-analysis of 198 meta-analyses shows small-to-medium post-intervention effects persisting after bias adjustments](ppi-mega-analysis-small-medium-effects.md) — related
+- [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related

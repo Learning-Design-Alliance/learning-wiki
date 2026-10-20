@@ -44,3 +44,8 @@ Bivariate correlational analysis of 482 students' trace frequencies and first-un
 
 ## Related Claims
 - [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md) — related
+- [Process mining shows low performers access solutions more and transition to hints after incorrect submissions more than high performers](process-mining-transitions-differ-by-quartile.md) — related
+- [The four exam-performance quartile groups differed significantly on first-unit exam scores, validating the grouping used for behavioral comparisons](quartile-groups-differ-on-exam-scores.md) — related
+- [Frequency of correct quiz submissions differs across performance quartiles, with high performers submitting correct answers most often](correct-submissions-differ-across-quartiles.md) — related
+- [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md) — related
+- [Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)](help-seeking-errors-stable-across-units.md) — related

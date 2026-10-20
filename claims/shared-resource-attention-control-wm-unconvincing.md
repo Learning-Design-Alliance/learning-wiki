@@ -45,3 +45,5 @@ The review's synthesis of dual-task studies loading WM during attention-control 
 ## Related Claims
 - [Cognitive load in concurrent storage-processing tasks has a negative linear effect on memory span](cognitive-load-negative-linear-span-effect.md) — related
 - [Dual-task (secondary-task) measures offer concurrent cognitive load assessment but are rarely used](dual-task-concurrent-load-measurement.md) — related
+- [A shared attentional resource for storage and processing is the best supported resource theory of WM capacity but faces empirical challenges](shared-resource-storage-processing-wm.md) — reports the opposite
+- [Evidence that perceptual attention and WM maintenance share a limited resource is not yet convincing](shared-resource-perceptual-attention-wm-unconvincing.md) — a broader claim this one bears on

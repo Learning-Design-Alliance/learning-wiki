@@ -54,3 +54,5 @@ Thematic synthesis (Section 4.4). The review reports that "Concerns frequently c
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — possibly the same claim (merge candidate)
 - [AI governance vocabulary (bias, transparency, privacy, accountability, regulation, fairness) is a structural zero in students' AI associative networks](structural-zero-ai-governance-vocabulary.md) — related
 - [Ethical concerns (bias, transparency, privacy, authorship, accountability) emerge as cross-cutting dimensions of GenAI-specific TPK across studies of teacher educators](genai-tpk-ethical-dimensions-cross-cutting.md) — a narrower finding that bears on this claim
+- [Respondents identified algorithmic bias (31.9%), data privacy (27.5%), and technical reliability (27.5%) as the primary risks of AI in education](rfi-ai-risks-bias-privacy-reliability.md) — related
+- [When students raised ethics in essays, concerns concerned authorship and integrity rather than privacy or data](essay-ethics-concerns-authorship-integrity.md) — related

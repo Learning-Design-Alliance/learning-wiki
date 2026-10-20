@@ -46,4 +46,7 @@ In the same 2×2 ANOVA of coded collaboration ratings, the PCA factor showed a s
 
 
 ## Related Claims
--
+- [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](gaze-pca-interaction-on-learning-gains.md) — related
+- [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — related
+- [Consensus reaching and task division together predict learning gains across conditions](process-codes-predict-learning-gains.md) — related
+- [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related

@@ -62,4 +62,6 @@ Post-intervention OBVQ-R comparison between the two schools reported in the resu
 
 
 ## Related Claims
--
+- [Cognitive-motivational factors mediate the association between bullying victimisation and lower academic achievement (pooled OR = 0.74)](cognitive-motivational-factors-mediate-victimisation-achievement.md) — related
+- [The bullying-achievement and mediation associations are moderated by design, assessment method, country, age and bullying type](moderators-of-bullying-achievement-association.md) — related
+- [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md) — related

@@ -64,3 +64,6 @@ In the dual-task experiment, participants held two, four, or six random letters 
 ## Related Claims
 - [Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed](dyslexia-slower-single-digit-arithmetic-rt.md) — related
 - [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md) — related
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related
+- [The advantage of a large working-memory span on children's arithmetic strategy use decreases across grades: span predicts retrieval frequency in second grade only and retrieval efficiency in second and fourth grade only](wm-span-advantage-decreases-across-grades.md) — related
+- [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](working-memory-demand-increases-with-math-problem-complexity.md) — a broader claim this one bears on

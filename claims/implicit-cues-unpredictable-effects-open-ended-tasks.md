@@ -65,3 +65,5 @@ BERTScore F1 regression using the model default as reference in the QA task: res
 - [Higher stated education and SES levels receive responses with more positive sentiment, an implicit bias that can disadvantage lower-education users](education-ses-sentiment-bias-qa.md) — related
 - [LLMs exhibit demographic sensitivity: systematic output differences attributable solely to demographic context when task inputs are held constant](llm-demographic-sensitivity-educational-tasks.md) — a broader claim this one bears on
 - [Verbosity preference is associated with systematic variation in LLM response length](verbosity-preference-response-length.md) — related
+- [Prompt-based personalization of an LLM/RAG teaching assistant produces measurable variation in response expression, length, and complexity across personalization conditions](prompt-personalization-measurable-response-variation.md) — related
+- [Explicitly mentioned education and SES cues lead most models to produce less readable responses for higher-education users, showing partial readability adaptation](explicit-education-cues-readability-adaptation.md) — related

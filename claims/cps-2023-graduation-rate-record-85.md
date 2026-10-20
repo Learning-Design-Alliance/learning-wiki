@@ -66,3 +66,9 @@ Time-trend analysis of four-year graduation rates from 2008 (62.2%) through 2023
 - [CPS high school graduation rates show large gaps by race/ethnicity and gender, with young men graduating at lower rates than young women within every race/ethnicity group](cps-graduation-gaps-race-gender.md) — related
 - [At UCLA Community School, the share of graduates meeting UC/CSU A-G course requirements rose to 81% in 2021 and the 4-year graduation rate grew from 69% in 2012 to 90% in 2022](ucla-cs-rising-a-g-and-graduation-outcomes.md) — related
 - University High's 4-year graduation rate rose from 36% in 2022 to 55% in 2023 and was maintained in 2024 — a narrower finding that bears on this claim
+- [The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort](cps-graduation-rate-62-to-83-2020.md) — related
+- [Graduation rates declined by about four percentage points in the first policy year and one more the next, then recovered to nearly pre-policy levels within five years](cps-graduation-rates-declined-then-recovered.md) — related
+- [CPS Freshman OnTrack rates rose 28 percentage points from 61 percent (2007) to 89 percent (2019), then flattened in recent years](cps-freshman-ontrack-rose-28-points-then-flattened.md) — related
+- [CPS Freshman OnTrack rates rose from 58 to 89 percent between 2007 and 2017 while graduation rates rose 19 percentage points](cps-ontrack-rose-58-to-89-graduation-up-19-points.md) — related
+- [Within every CPS race/ethnicity group, young men graduated from high school at a lower rate than young women of the same race/ethnicity](cps-graduation-gender-gap-within-race-ethnicity.md) — related
+- [Nearly one in five recent CPS ninth-graders were ever enrolled in an Options school, and their six-year graduation rate improved about 5 percentage points but remained below 50 percent](cps-options-school-enrollment-and-graduation.md) — related

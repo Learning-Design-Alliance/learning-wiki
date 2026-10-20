@@ -43,4 +43,5 @@ Frequency-based descriptive analysis of metacognitive processes across the three
 
 
 ## Related Claims
--
+- [Adding data channels refines roughly 29–52% of detected SRL process time, measured by a new percent-of-processes-refined metric](percent-processes-refined-metric-results.md) — a broader claim this one bears on
+- [Only with eye-tracking data does Monitoring appear as an intermediate process linking most other SRL processes in the process map](eye-tracking-reveals-monitoring-intermediate.md) — related

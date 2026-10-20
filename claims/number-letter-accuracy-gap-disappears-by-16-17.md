@@ -65,3 +65,5 @@ Post-hoc pattern of the Age × Abstraction interaction: "no sta­tistically sign
 - [Younger students mostly use concrete strategies (e.g., inserting numbers) while older students use abstract rule-based strategies, with the transition around age 14–15](concrete-to-rule-based-strategy-transition-age-14-15.md) — related
 - [Accuracy and speed of simple equation rearrangement increase with students' age across grades 7–12](equation-rearrangement-accuracy-speed-increase-with-age.md) — related
 - [Students' difficulty rankings of equation types partly mismatch their measured performance, though metacognitive accuracy improves with age](equation-difficulty-self-ranks-mismatch-performance.md) — related
+- [Students were reasonably accurate overall across the nine scored interview questions (M = 6.17, SD = 2.12), with accuracy varying by question type](overall-interview-accuracy-reasonable.md) — related
+- [Ramp task levels are ordered by difficulty: performance declines as the number of variables to set increases](cvs-level-difficulty-ordering.md) — related

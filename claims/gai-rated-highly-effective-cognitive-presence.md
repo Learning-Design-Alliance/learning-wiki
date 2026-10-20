@@ -49,3 +49,4 @@ Survey of marketing faculty at a large midwestern U.S. public university rated G
 - [Marketing educators perceive GAI as most useful as a teammate in higher-level courses but as a tutor or tool in lower-level courses](gai-perceived-most-useful-teammate-higher-level-courses.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Teachers perceive that AI tools lower cognitive barriers and deepen students' conceptual understanding of abstract science content](ai-lowers-cognitive-barriers-conceptual-understanding.md) — related
+- [Faculty members and students anticipate AI will transform education and professions, sharing concerns that excessive dependence could weaken cognitive skills](long-term-ai-transformation-cognitive-skill-weakening-concerns.md) — related

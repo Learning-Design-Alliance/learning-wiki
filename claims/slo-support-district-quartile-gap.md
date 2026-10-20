@@ -45,3 +45,4 @@ District-aggregated 2016 survey analysis rank-ordered into quartiles by teacher 
 ## Related Claims
 - [Educators report insufficient SLO training and scarce SLO quality rating rubrics as key implementation challenges](slo-implementation-challenges-training-and-quality-rubrics.md) — related
 - [In every district, more educators agree than disagree that they share a common language for the SLO process](common-language-slo-process.md) — related
+- [Among SLO districts the most frequently reported benefit was increased collaboration, while alternative assessment-based value-added models were perceived as fairer than SLOs](collaboration-benefit-versus-vam-fairness.md) — related

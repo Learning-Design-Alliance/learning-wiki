@@ -43,4 +43,5 @@ Narrative review attributing this finding to Malmberg et al. (2013), a gStudy tr
 
 
 ## Related Claims
--
+- [Peer discussion leading to individual resolving of an incorrect solution was interpreted as cognitive engagement favouring learning, co-occurring with peaking situational stress](peer-discussion-individual-resolution-engagement.md) — related
+- [Distinct situational stress changes co-occurred with conflict situations while presenting and communicating mathematical problems](stress-peaks-cooccur-conflict-presenting.md) — related

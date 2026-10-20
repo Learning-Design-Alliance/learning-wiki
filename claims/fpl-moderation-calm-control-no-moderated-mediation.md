@@ -62,4 +62,6 @@ Null moderated-mediation finding for FPL groups in the same model; the article r
 
 
 ## Related Claims
--
+- [As cumulative ACEs increase, children's probability of flourishing (learning interest, task completion, self-regulation) and family resilience decrease across race/ethnicity and income groups](aces-decrease-flourishing-and-family-resilience-all-groups.md) — related
+- [Family resilience partially mediates the association between ACEs and child flourishing, with mediation proportions varying by race/ethnicity and income](family-resilience-partially-mediates-aces-flourishing.md) — related
+- [ACE exposure is unevenly distributed: children below 400% FPL and Black and Hispanic children have higher prevalence of two or more ACEs](ace-prevalence-disparities-fpl-and-race.md) — related

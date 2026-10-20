@@ -44,3 +44,4 @@ Descriptive operational-efficiency analysis of generation statistics by system (
 
 ## Related Claims
 - [Teachers qualitatively preferred MAS-CMD activities for creativity, real-world context, and classroom-ready completeness](teachers-prefer-mas-cmd-creativity-context-completeness.md) — related
+- [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](llm-judge-small-incremental-differences-ceiling.md) — related

@@ -50,3 +50,5 @@ Parallel regression analyses entering the cumulative risk index with nonverbal I
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related
 - [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](challenging-behaviour-major-teacher-demand.md) — related
+- [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — related
+- [Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour](fr-li-additive-risk-factors-outcomes.md) — related

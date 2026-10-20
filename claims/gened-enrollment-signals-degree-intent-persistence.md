@@ -44,3 +44,4 @@ An observational analysis of institutional records found enrollment in the missi
 
 ## Related Claims
 - [Course grades and GPA predict high school and college outcomes better than standardized test scores or coursework](grades-better-predictor-than-test-scores.md) — related
+- [First-semester transfer students taking one general education course persisted at rates 15-20% lower than similar non-takers, an effect absent when the course was taken in a later term](first-term-transfer-persistence-penalty-specific-course.md) — reports the opposite

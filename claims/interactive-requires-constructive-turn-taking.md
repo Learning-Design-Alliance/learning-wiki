@@ -53,3 +53,6 @@ The article's operational definition of interactive engagement, stated as a theo
 - [Human-human L2 dialogue has more and shorter turns while AI dialogue has fewer, longer turns with more words per turn](ai-dialogue-fewer-longer-turns-l2.md) — related
 - [Trained students engage in more conversational turns with the GenAI tool](trained-students-more-conversational-turns.md) — related
 - [The group advantage reverses when partners' abilities differ greatly, and depends on the mode of communication](group-advantage-depends-on-ability-similarity-and-communication.md) — related
+- [Despite longer AI-led sessions, the proportion of student-generated dialogue was markedly and significantly lower with the AI than with the teacher in both grades](ai-conversational-dominance-lower-student-contribution.md) — related
+- [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — a narrower finding that bears on this claim
+- [Age groups differ in ICAP engagement distribution: younger adults engage more in active mode, older adults more in constructive and interactive modes, during collaborative concept-map learning](icap-engagement-distribution-age-differences.md) — related

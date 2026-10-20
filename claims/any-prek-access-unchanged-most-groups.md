@@ -46,3 +46,4 @@ Descriptive pre-post comparison of distance to the closest school with any pre-k
 - Before Chicago's 2013-14 policy changes, students living farther from a school with pre-k were less likely to enroll in school-based pre-k — related
 - [After the policy changes, students lived on average 0.6 miles closer to a school with full-day pre-k, with the largest gains for high-priority groups](full-day-access-increased-post-policy.md) — related
 - [Pre-policy, the negative distance-enrollment relationship was strongest for Black students](distance-enrollment-strongest-black-students.md) — related
+- [Pre-policy, White students were far more likely to enroll in full-day pre-k than other racial/ethnic groups regardless of distance](white-students-full-day-enrollment-advantage.md) — related

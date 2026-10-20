@@ -64,3 +64,7 @@ Post-hoc comparisons (Table 3) showed no significant differences between the con
 ## Related Claims
 
 - [The confidence-rating impairment on ambiguous transfer items persists among participants who met the learning criterion](rule-learning-impairment-persists-among-learners.md)
+- [Confidence ratings are unlikely to be an effective educational tool when knowledge transfer is the goal](confidence-ratings-unsuitable-for-transfer-goals.md) — related
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — related
+- [Response-time effects are limited to slower responding in the JOL condition during the first two training blocks](jol-slower-early-training-response-times.md) — related
+- [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](rating-scope-confidence-versus-jol-reactivity.md) — related

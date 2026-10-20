@@ -48,3 +48,6 @@ Hyperparameter sensitivity analysis of the diagnostic model, presented in Fig. 5
 - OptimNN is insensitive to optimizer learning rate and network hyperparameters, unlike plain SGD on BKT — related
 - [ProPRL is sensitive to learning rate but comparatively insensitive to its structural hyperparameters, with propagation depth around 5 capturing most multi-hop benefit](proprl-hyperparameter-sensitivity.md) — related
 - Task F1 saturates by K≈4 concepts and is insensitive to hidden dimension once d≥384, while learning rate forms a sharp inverted-U with collapse at LR≥10−3 — related
+- [Hyperparameter sensitivity in PKT is an inherent characteristic of programming interaction data, varying across models and across assignments within the same model](pkt-hyperparameter-sensitivity-varies-by-model-and-assignment.md) — related
+- [MBP-KT performance is optimal with sliding-window size N between 2 and 4 and is not sensitive to pattern-set length K (variation within 2%)](mbp-kt-hyperparameter-sensitivity-n-k.md) — related
+- [Task-specific hyperparameter optimization substantially raises baseline DKT performance, indicating prior DKT-vs-PKT gaps partly reflect insufficient baseline tuning](task-specific-hyperparameter-tuning-raises-dkt-baseline.md) — related

@@ -43,4 +43,10 @@ The editorial asserts, based on accumulated CSCL research evidence it attributes
 
 
 ## Related Claims
--
+- [In Quebec's Remote Networked School initiative, teacher collaborative design proved to be relevant, feasible, and sustainable despite systemic limits](rns-collaborative-design-relevant-feasible-sustainable.md) — a narrower finding that bears on this claim
+- [CSCL initiatives have produced sustainable educational change at classroom, school, and school-system levels](cscl-sustainable-change-three-levels.md) — related
+- [The article argues the durability of the WSS co-design approach depends on institutionalizing authentic engagement as core practice, not a one-time initiative](wss-sustainability-requires-institutionalization.md) — related
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related
+- [The complexity of successful instrumental genesis translates into severe barriers to adopting CSCL technologies, pedagogies, chronotypes, and educational philosophies in established school institutions](instrumental-genesis-complexity-adoption-barriers.md) — related
+- [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
+- [A standing committee structure sustains middle school change despite personnel turnover](committee-structure-sustains-change-despite-turnover.md) — related

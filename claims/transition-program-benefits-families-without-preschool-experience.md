@@ -46,3 +46,6 @@ Subgroup perception reported from the parent interviews: families without prior 
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - Prior home visiting research indicates child-development-focused content is associated with child outcomes and sustained family participation — related
 - [Parents who attended APTT meetings, and multilingual-home parents, agreed more strongly that APTT and the preschool helped them prepare their child for kindergarten](aptt-attendance-linked-parent-readiness-capacity-agreement.md) — related
+- [Parents who attended APTT, took the spring survey, or spoke multiple languages at home tended to agree more strongly that they felt a strong connection to their child's preschool](aptt-spring-multilingual-parents-felt-more-connected.md) — related
+- [Family participation in Growing Strong Learners was high and similar for EL and non-EL families: 97% attended at least one APTT meeting and 92% participated in Ready4K](high-family-participation-aptt-ready4k.md) — related
+- [Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD](readiness-gaps-narrowed-intervention-year-versus-prior-year.md) — related

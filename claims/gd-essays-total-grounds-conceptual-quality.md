@@ -65,3 +65,4 @@ Univariate ANCOVA results from the same essay analysis; two of the five essay me
 - [The GD advantage in total grounds and total conceptual essay quality depended on topic length: it held for short to average topics and disappeared for longer topics.](condition-length-interaction-essay-quality.md) — related
 - [Groups using the Graphical Debate-tool constructed representations of significantly higher quality than groups using the Textual Debate-tool, for both debate positions.](gd-tool-higher-quality-representations.md) — related
 - [Students in the GD and TD conditions did not differ significantly in time online or in adding, editing, or deleting elements in the Debate-tool.](no-condition-difference-tool-activity.md) — related
+- [Essay position did not affect essay scores, but essay-last students wrote essays of similar quality in less time using fewer words](essay-position-no-score-effect-less-time-fewer-words.md) — related

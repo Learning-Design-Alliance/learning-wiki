@@ -51,3 +51,4 @@ Multilevel analysis of the Geometrical Ability Test pre- and posttest in the thr
 - [Students' geometrical creative thinking improved in all conditions, with no difference between MACE and regular geometry lessons](mace-no-gct-advantage.md) — related
 - [Teacher participation in the MACE professional development program added no measurable effect on any student outcome](mace-pd-no-student-effect.md) — related
 - [The MACE visual arts aspect of shape showed no improvement and no condition effect](mace-no-shape-aspect-effect.md) — related
+- [Self-explanation effects hold on far-transfer but not near-transfer questions in a geometry classroom study](self-explanation-far-transfer-geometry-classroom.md) — related

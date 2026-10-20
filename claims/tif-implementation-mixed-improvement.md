@@ -58,3 +58,4 @@ Two-year implementation comparison in the TIF evaluation snapshot: year-two awar
 - [Fewer than half of districts implemented all four required components of TIF, making full implementation challenging](tif-fewer-than-half-districts-full-implementation.md) — related
 - [More than half of teachers in the evaluation districts did not know they were eligible for pay-for-performance bonuses](tif-more-than-half-of-teachers-unaware-of-bonus-eligibility.md) — related
 - [Teachers in the evaluation districts underestimated the size of pay-for-performance bonuses they could earn through TIF](tif-teachers-underestimated-bonus-size.md) — related
+- [Many educators misunderstood the performance measures and the pay-for-performance bonuses under TIF](tif-educators-misunderstood-measures-and-bonuses.md) — related

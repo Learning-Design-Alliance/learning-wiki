@@ -65,3 +65,5 @@ In the same CB-SEM structural model of 498 medical undergraduates, the path from
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
 - [SDT need satisfaction predicted post-intervention willingness beyond baseline capacity, while post-intervention TPACK showed only a weak, non-significant association with willingness](need-satisfaction-predicts-willingness-beyond-capacity.md) — related
 - [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related
+- [Retention programs interpreted as meeting all three SDT needs show higher persistence and standing](retention-programs-meeting-all-three-needs-higher-persistence.md) — a narrower finding that bears on this claim

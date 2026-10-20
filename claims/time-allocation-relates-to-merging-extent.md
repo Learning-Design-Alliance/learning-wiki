@@ -43,4 +43,6 @@ Comparison of the three group discussions (Table 3): Group 1 devoted 20.73% to e
 
 
 ## Related Claims
--
+- [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding in student group discourse](modeling-task-elicits-four-interdisciplinary-processes.md) — related
+- [Three discourse patterns emerged during collaborative multidisciplinary modeling, differing in the extent to which students merged disciplinary perspectives](three-interdisciplinary-discourse-patterns.md) — related
+- [In the case discourse, failure to integrate individuals' ideas with sound verification was linked to low-level inquiry outcomes, while successful high-level grounding enabled groups to integrate ideas and negotiate shared knowledge](idea-integration-linked-to-grounding-quality-in-case-discourse.md) — related

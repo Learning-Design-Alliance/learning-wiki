@@ -46,3 +46,5 @@ Authors' discussion (Section 6.3) interpreting their Experiment 1 reproducibilit
 - [ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference](chatgpt-generated-hdr-problems-equivalent-to-human-created.md) — related
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](hdr-human-scoring-time-burden.md) — related
 - [Benchmark success on human-designed assessments may not establish that the underlying abilities are being measured](benchmark-scores-may-not-transfer-construct-interpretation.md) — related
+- [HDR scores correlate only weakly with reading comprehension (α = 0.36 and 0.41), indicating the task measures practical application ability rather than reading skill](hdr-measures-application-not-reading-comprehension.md) — related
+- [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](hint-prompts-raise-llm-scoring-agreement.md) — related

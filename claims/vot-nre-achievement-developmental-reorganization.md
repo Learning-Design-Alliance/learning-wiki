@@ -45,3 +45,6 @@ Group-wise regression analyses of the NRE on math achievement in the fMRI result
 ## Related Claims
 - [A reliable positive relationship between parietal NRE and math achievement appears only in children, not adolescents or adults](nre-math-achievement-link-only-in-children.md) — related
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
+- [In adults only, poorer math achievement is associated with greater hippocampal NRE sensitivity](adult-hippocampus-negative-nre-math-association.md) — related
+- [Adults with dyscalculia show hyper-connectivity between primary visual cortex and inferior occipital cortex and fusiform gyrus](dyscalculia-visual-hyperconnectivity.md) — related
+- [Adults show significantly greater whole-brain fMRI activation than children for reversed versus typical letters, including left ventral visual stream and bilateral parietal cortices](adults-greater-fmri-activation-reversed-letters-than-children.md) — related

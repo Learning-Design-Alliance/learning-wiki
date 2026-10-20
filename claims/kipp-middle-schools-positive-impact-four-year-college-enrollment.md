@@ -50,3 +50,7 @@ Headline key finding of the issue brief's long-term tracking study, a randomized
 - [Attending both a KIPP middle school and a KIPP high school had large positive impacts on college enrollment and persistence](kipp-middle-plus-high-large-enrollment-persistence-impacts.md) — related
 - [Enrolling at a KIPP middle school is associated with a 12.9 percentage-point higher rate of college enrollment](kipp-middle-enrollment-twelve-point-nine-college-impact.md) — related
 - [KIPP middle schools' positive effects extend to enrollment in 4-year college programs, not only middle school achievement](kipp-middle-schools-extend-effects-to-four-year-enrollment.md) — related
+- [The estimated KIPP middle school impacts are substantial relative to nationwide racial disparities in college enrollment](kipp-impacts-substantial-relative-racial-enrollment-disparities.md) — related
+- [Students offered KIPP middle school admission usually attended a KIPP middle school and many went on to attend a KIPP high school](kipp-offer-high-compliance-middle-and-high-attendance.md) — related
+- [KIPP middle school offers did not produce higher five-year four-year graduation or on-track rates than no offer](kipp-middle-offer-similar-graduation-on-track.md) — related
+- [The study long-term tracked 1,177 students who applied to 13 oversubscribed KIPP middle schools through 2008 or 2009 admissions lotteries](kipp-tracking-1177-lottery-applicants-13-schools.md) — related

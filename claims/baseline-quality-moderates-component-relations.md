@@ -47,3 +47,4 @@ Moderation analyses within the same structural path models of 143 treatment teac
 - [Treatment effects were not moderated by emergent bilingual status, pretest levels, or tutoring attendance](no-treatment-moderators-eb-pretest-attendance.md) — related
 - [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](inattention-moderates-ai-benefit-associations.md) — related
 - [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](rt-propensity-proficiency-interaction-learning.md) — related
+- [Teachers' use of Morning Meeting and Academic Choice relates to higher levels of emotionally supportive interactions in grade 3–5 classrooms](morning-meeting-academic-choice-emotional-support.md) — related

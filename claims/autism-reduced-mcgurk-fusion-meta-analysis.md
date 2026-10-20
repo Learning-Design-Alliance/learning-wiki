@@ -51,3 +51,4 @@ The review reports mixed findings for the sound-induced flash illusion in autism
 - [Multisensory temporal precision in autism is linked to speech integration, language abilities, and clinical symptomatology](autism-temporal-precision-links-language-symptoms.md) — related
 - [Children with specific language impairment show reduced selective attention to and integration of audiovisual speech](sli-reduced-audiovisual-speech-attention-integration.md) — related
 - [Individuals with dyslexia show impairments in audiovisual integration beyond phoneme-grapheme mapping](dyslexia-audiovisual-integration-impairments.md) — related
+- [Individuals with schizophrenia show reduced behavioral benefit from combined audiovisual cues and altered multisensory temporal processing](schizophrenia-reduced-audiovisual-benefit-temporal-acuity.md) — related

@@ -51,3 +51,5 @@ Across the meta-analysis of 24 single-case studies, the article reports that "AA
 - [Outcomes of students with disabilities improve when they receive specially designed instruction responsive to assessment data](specially-designed-instruction-responsive-to-assessment-data-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Aided AAC interventions had large effects on targeted behavioral outcomes in individuals with ASD, per a meta-analysis of 24 single-case studies](aided-aac-large-effects-asd-single-case-meta-analysis.md) — related
 - [PECS and speech-generating devices produced larger effects than other picture-based AAC systems, which nonetheless showed small effects](pecs-sgd-larger-than-other-picture-based-systems.md) — related
+- [Aided AAC systems show advantages over manual signs for acquiring requests, and motor imitation and matching skills predict manual sign acquisition](aided-systems-advantage-over-manual-signs.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related

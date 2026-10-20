@@ -70,3 +70,6 @@ Simple slope analysis within the same Model 8 test: the negative direct effect w
 - [AI literacy moderates the pathways from perceived AI-adaptive environments to academic emotions, attenuating negative emotional effects among students with higher AI literacy](ai-literacy-moderates-emotion-pathways.md) — related
 - [AI-related professional learning does not clearly moderate the within-teacher demand–AI allocation association](professional-learning-no-moderation-allocation-association.md) — related
 - [AI literacy negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as AI literacy increases](ai-literacy-moderates-trust-reliance.md) — related
+- [AI anxiety attenuates the positive association between AI literacy and trust in AI](ai-anxiety-moderates-literacy-trust-link.md) — related
+- [Negative emotional associations of AI-adaptive environments are pronounced among students with low AI literacy but substantially attenuated among those with high AI literacy](simple-slopes-ai-literacy-low-high.md) — related
+- [The association between early reliance and negative impact strengthens as evaluation literacy increases](early-reliance-evaluation-literacy-interaction.md) — related

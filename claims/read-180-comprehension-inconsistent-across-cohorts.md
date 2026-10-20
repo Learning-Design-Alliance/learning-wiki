@@ -65,3 +65,5 @@ Same RCT, second cohort (2007–08): the WWC confirmed "no statistically signifi
 - [READ 180® has positive effects on reading comprehension for adolescent readers in grades 4–12](read-180-positive-effects-comprehension-adolescents.md) — a broader claim this one bears on
 - [READ 180® has potentially positive effects on reading fluency for adolescent readers](read-180-potentially-positive-reading-fluency.md) — related
 - [Software product effects changed between the first and second year of the study, warranting cohort-level comparison of effectiveness](software-effects-changed-between-cohorts.md) — related
+- [Two READ 180 studies found statistically significant positive effects over control groups (Western Massachusetts +0.18; Milwaukee +0.14)](read-180-significant-positive-effects-two-studies.md) — related
+- [READ 180 studies in Newark (NJ) and Memphis found no differences from control](read-180-newark-memphis-no-differences.md) — related

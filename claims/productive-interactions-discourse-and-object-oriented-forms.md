@@ -44,3 +44,6 @@ In-depth qualitative analysis and descriptive statistics of interaction data and
 
 ## Related Claims
 - [Emergent group understanding is an empirical phenomenon arising from the interplay of a social object and a technology object, revealed by two subprocesses: spontaneous information provision and setting localized goals](emergent-group-understanding-phenomenon.md) — related
+- [Qualitative cases show three distinct interaction qualities: chains of individual autonomous actions, synchronized coordinated actions, and contemplative reflective group interaction](qualitative-cases-interaction-quality-variation.md) — related
+- [Group interaction profiles differed: Groups D and E favored generative actions while Group B's interaction was predominantly regulative](group-interaction-type-profiles-differ.md) — related
+- [The three groups exhibited three distinct collaboration forms—a centralized model, loosely coordinated collaboration, and balanced and regulated collaboration—with group 3 showing the highest regulative-action percentage (40% during synthesis)](three-discourse-patterns-across-groups.md) — related

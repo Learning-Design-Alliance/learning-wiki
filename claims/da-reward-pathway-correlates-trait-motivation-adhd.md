@@ -49,3 +49,4 @@ Pearson correlation analysis of PET measures against MPQ Achievement scores in t
 - [Positive Emotionality correlates with midbrain D2/D3 receptor availability in ADHD adults, while Negative Emotionality and Constraint do not](positive-emotionality-midbrain-d2d3-adhd.md) — related
 - [Dopamine neurons treat informational reward like primary reward, and OFC encodes information value separately from reward size](dopamine-and-ofc-encode-information-value.md) — related
 - [Intrinsic motivation during idea generation does not differ between adults with ADHD and controls](no-intrinsic-motivation-difference-idea-generation.md) — related
+- [Adults with ADHD score lower on the MPQ Achievement scale, a surrogate trait measure of motivation, than controls](adhd-lower-mpq-achievement-scale.md) — related

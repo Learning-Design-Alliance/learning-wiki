@@ -47,3 +47,4 @@ Theme 3 of the focus-group thematic analysis, in which educators critiqued ANVIL
 - [Educators view ANVIL as a creative collaborator requiring instructor control and editability, not an autonomous content creator](anvil-educators-instructor-control-editability.md) — related
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [A VLM-based screenplay-to-video fidelity proxy shows scene and element structure are usually preserved while action-level fidelity is the primary failure mode](anvil-video-fidelity-proxy-action-failure.md) — related
+- [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](students-audit-genai-analogy-structural-correspondence.md) — related

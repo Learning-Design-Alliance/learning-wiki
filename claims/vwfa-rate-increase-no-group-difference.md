@@ -43,3 +43,5 @@ An a priori 10 mm sphere ROI at canonical VWFA coordinates was examined across r
 ## Related Claims
 - [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
+- [In-scanner sentence judgment accuracy declines with faster word presentation rates, and dyslexic readers' accuracy declines disproportionately across rates](presentation-rate-accuracy-decline-dyslexia-disproportionate.md) — related
+- [Group differences in activation are more extensive when behavioral performance is equated across groups, indicating they are not a consequence of worse performance](performance-equated-activation-differences-persist.md) — related

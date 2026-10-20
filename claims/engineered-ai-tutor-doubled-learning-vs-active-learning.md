@@ -48,3 +48,6 @@ The article reports, citing Kestin et al. (2025), a randomized study in undergra
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
 - [In one RCT, a content-rich prompt-engineered generative AI chat tutor improved performance and engagement in a Harvard physics course](genai-chat-tutor-rct-physics-improved-performance.md) — possibly the same claim (merge candidate)
 - [AI tutors explicitly designed according to educational theory outperformed traditional active learning in rigorous academic settings](pedagogically-designed-ai-tutors-outperform-active-learning.md) — possibly the same claim (merge candidate)
+- [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related
+- [AI-tutored students spend less time on task than the 60-minute in-class lesson, with no correlation between time and scores](ai-tutor-less-time-on-task.md) — a narrower finding that bears on this claim
+- [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — a narrower finding that bears on this claim

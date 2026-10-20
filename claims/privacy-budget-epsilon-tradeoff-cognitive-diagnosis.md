@@ -47,3 +47,4 @@ Privacy–utility tradeoff analysis on ASSIST09 under local differential privacy
 - [Heterogeneous multi-LLM federated inference improves cognitive diagnosis MAE over single-LLM baselines across three educational benchmarks with minimal privacy cost](multi-llm-federated-cognitive-diagnosis-improvement.md) — related
 - [Residual correction is essential: removing it while retaining LDP yields MAE worse than the single-LLM baseline across all datasets](residual-correction-essential-heterogeneous-aggregation.md) — related
 - [Federated improvements over the single-LLM baseline are statistically significant across all three datasets, with Cohen's d from 0.62 to 0.89](statistical-significance-federated-diagnosis-gains.md) — related
+- [PETs expand the value of data by enabling sharing where in-the-clear approaches are infeasible](pets-expand-data-value-through-sharing.md) — related

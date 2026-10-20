@@ -48,3 +48,5 @@ Implementation study of MI Write in grades 7 and 8 English language arts classro
 - [Regular and tailored support helped teachers integrate Ecree and MI Write into their teaching](regular-tailored-support-helped-teachers-integrate-tools.md) — related
 - [Teachers used Ecree less than intended, and some reported they did not have enough time to learn it and integrate it with instruction](teachers-used-ecree-less-than-intended-lacking-time.md) — related
 - [Teachers with a local coach completed far more of the intended Write to Succeed professional learning activities than teachers without one](wts-local-coach-higher-activity-completion.md) — related
+- [Most pilot teachers found the Write to Succeed materials helpful, and teachers and coaches benefited from seeing practices modeled](wts-materials-and-modeling-rated-helpful.md) — related
+- [Teachers need time to plan and carry out daily writing instruction to successfully learn and use MI Write](teacher-planning-time-needed-for-mi-write-use.md) — related

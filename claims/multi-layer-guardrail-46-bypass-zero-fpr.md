@@ -48,3 +48,5 @@ Offline evaluation on a synthetic 480-query benchmark (369 injection, 111 benign
 - [Bypass robustness varies across student personas (32.76% to 52.05%) while FPR stays 0.00% across all personas](persona-stratified-bypass-heterogeneity.md) — related
 - [Head-to-head comparison exposes a security-usability-latency tension: NeMo reaches 0% bypass at 16.22% FPR and ~1.5 s latency while Prompt Guard yields 38.48% bypass at 3.60% FPR](nemo-prompt-guard-tradeoff-holdout.md) — related
 - [Multilingual gap: the multi-layer defense bypasses 73.5% of PT-BR injection samples versus 25.1% of English samples](ptbr-bypass-gap-lexical-coverage.md) — related
+- [Taxonomy-augmented guardrail classifiers reduce educational attack success more than general-purpose jailbreak defenses](taxonomy-augmented-guardrails-education-specific-risks.md) — related
+- [Delimiting Untrusted Learner Text Largely Blocked Authority-Claim Injection on One Model](delimiting-untrusted-learner-text-defeats-authority-claim-injection.md) — a narrower finding that bears on this claim

@@ -46,3 +46,5 @@ Hierarchical regression in Experiment 3 entered age and area accuracy in step 1 
 
 - [Children aged 6–7 reliably identify the contestant whose copied shapes are closer in size to a target, replicating magnitude-of-error selective social learning](children-detect-relative-error-magnitude-informants.md)
 - [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)
+- [In Experiment 2, children's confidence-task performance correlated with Winner and Ask choices but not Endorse choices, controlling for age](exp2-confidence-winner-ask-correlation.md) — related
+- [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md) — related

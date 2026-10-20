@@ -45,3 +45,4 @@ Cross-sectional online survey of 425 art students with recent GAI-assisted art-l
 - [Inconsistency relates to creative process engagement through opposing indirect pathways: negative via hindrance appraisal and positive via challenge appraisal](dual-indirect-pathways-to-creative-engagement.md) — related
 - [Art students in a high-inconsistency scenario report stronger challenge and hindrance appraisals than those in a low-inconsistency scenario](high-inconsistency-scenario-raises-both-appraisals.md) — related
 - [Pathways thinking strengthens the inconsistency–challenge appraisal link and the positive conditional indirect effect, but does not significantly weaken the hindrance pathway](pathways-thinking-asymmetric-moderation.md) — related
+- [Structural paths did not differ significantly across AI usage-frequency groups, though exploratory coefficients varied numerically](no-significant-path-differences-across-usage-frequency-groups.md) — related

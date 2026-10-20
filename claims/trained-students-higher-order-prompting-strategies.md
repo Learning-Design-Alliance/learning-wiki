@@ -46,3 +46,6 @@ Qualitative content analysis of chat logs coded by two researchers (Krippendorff
 - [75% of student-authored physics questions met combined high-quality criteria (clear, correct, plausible distractors, above recall, adequate explanation)](peerwise-student-questions-75-percent-high-quality.md) — the general claim this finding bears on, with the studies behind it
 - [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — a broader claim this one bears on
 - Critical questions support competency-based science assessment by evaluating higher-order thinking, knowledge transfer and reasoning patterns beyond fact memorization — related
+- [Self-questioning improves comprehension](self-questioning-improves-comprehension.md) — related
+- [Pre-written prompts increase Justifications and Alternative ideas in children's pair-programming talk and shift the role of Simple questions](prompts-increase-exploratory-talk-elements-pair-programming.md) — related
+- [SSRL-directed question prompts enhanced individual participation in collaborative problem-solving, and socioemotional interaction diversity related to regulation contributions (reported findings)](ssrl-support-and-socioemotional-diversity-findings.md) — related

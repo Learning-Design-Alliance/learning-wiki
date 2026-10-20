@@ -45,3 +45,4 @@ Stage 1 estimation on four German probability samples (554 ≤ N ≤ 2928) of ch
 ## Related Claims
 - [Design parameters for preschool outcomes show substantial heterogeneity across populations, as reflected in wide 95% prediction intervals](preschool-design-parameter-heterogeneity.md) — related
 - [Typical R2Child values with sociodemographic and baseline covariates were around 0.18–0.26 for preschool cognitive and SEL outcomes in US data](preschool-typical-r2child-covariate-sets.md) — related
+- [Domain-identical pretests are the most powerful single-level covariate type for student achievement, outperforming cross-domain pretests, fluid intelligence, and sociodemographic characteristics](ip-most-powerful-single-level-covariate-achievement.md) — related

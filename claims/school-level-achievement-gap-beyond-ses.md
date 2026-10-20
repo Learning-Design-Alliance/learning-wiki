@@ -53,3 +53,4 @@ School-level analysis of 2004–06 Cal-SCHLS and testing data. After socioeconom
 - [Racial achievement gaps in Chicago increased in all three eras, with African American students falling behind all other groups, especially in Era 3](cps-racial-gaps-increased-african-american-students.md) — related
 - [Large racial and socioeconomic achievement disparities persisted in an affluent high-performing district](ousd-persistent-race-class-disparities.md) — related
 - [Schools serving large numbers of students of color and students from low-income families have significantly fewer resources than schools serving more affluent White students](resource-gaps-high-poverty-schools.md) — related
+- [The authors interpret stereotype threat as a partial explanation for the standardized-test achievement gap between low- and high-SES students](stereotype-threat-partly-explains-ses-achievement-gap.md) — related

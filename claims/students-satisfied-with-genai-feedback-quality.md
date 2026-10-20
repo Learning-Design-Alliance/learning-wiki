@@ -48,3 +48,6 @@ Descriptive qualitative analysis of participant interviews and structured diarie
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Students who used AI reported feeling less accomplished, with heavier reliance associated with greater loss of satisfaction](ai-use-reduces-accomplishment-intrinsic-value.md) — reports the opposite
 - [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related
+- [K-12 students across five schools valued CyberScholar's detailed, specific, rubric-aligned feedback as helpful for identifying areas to revise](students-value-detailed-rubric-aligned-genai-feedback.md) — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [AI chatbots enable flexible personalized learning by adapting teaching strategies to individual student needs](chatbot-flexible-personalized-learning.md) — related

@@ -59,3 +59,4 @@ This is a qualitative, non-experimental design study without a comparison condit
 - [Academic historians' epistemic processes extend well beyond source analysis and writing](historians-epistemic-processes-extend-beyond-source-analysis.md) — related
 - Real-world and racially diverse examples in courseware content helped students retain, comprehend, and relate to statistics — related
 - Models can only be understood with respect to the aims and intentions of a cognitive agent, not solely in terms of representation — related
+- [Critical speculative design pedagogy supports critical consciousness and justice-oriented sensemaking in science](critical-speculative-design-supports-critical-consciousness-in-science.md) — related

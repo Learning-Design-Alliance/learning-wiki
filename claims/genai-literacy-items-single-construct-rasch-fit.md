@@ -45,3 +45,5 @@ Rasch partial credit model analysis of the 28-threshold self-assessment response
 ## Related Claims
 - [Rasch-based refinement reduced the Early Ed Essentials surveys to 24 teacher measures (122 items) and 9 parent measures (42 items)](early-ed-essentials-rasch-refined-measures.md) — related
 - [Rasch analysis indicates a five-point response format would improve the GenAI-RTS's category functioning](genai-rts-rasch-five-point-format-recommendation.md) — related
+- [GenAI-RTS subscale reliability is acceptable to good (ω = .75–.88)](genai-rts-subscale-reliability-acceptable.md) — related
+- [The GenAI-RTS is supported by a five-factor structure in which Strategic reliance comprises Deliberate Use and Critical Evaluation facets alongside Instrumental, Dependent, and Dialogic factors](genai-rts-five-factor-structure-supported.md) — related

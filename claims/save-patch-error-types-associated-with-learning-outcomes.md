@@ -43,4 +43,4 @@ The chapter reports, citing Kerr and Chung (2013b), that "different types of err
 
 
 ## Related Claims
--
+- [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](fraction-errors-systematic-misconception-patterns.md) — related

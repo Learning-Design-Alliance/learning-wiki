@@ -46,3 +46,4 @@ Theoretical argument in Section 4, consistent with the paper's cited broader fin
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Habitual self-formative dialogue with a synthetic position tends to absorb the integrative authorship of the meta- and promoter positions (synthetic promotion)](synthetic-promotion-cedes-promoter-function.md) — possibly the same claim (merge candidate)
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
+- [Neither self-report nor eye tracking can reliably distinguish strategic from habituated behavior in empirical practice](measurement-cannot-separate-strategic-from-habituated.md) — related

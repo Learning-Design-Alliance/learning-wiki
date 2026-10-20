@@ -45,3 +45,5 @@ The report cites the Economic Policy Institute's weekly wage penalty analysis (A
 ## Related Claims
 - [Beginning teachers nationally earn about 20% less than other college graduates, a wage gap widening to 30% by mid-career](teacher-wage-gap-20-percent-widening-to-30.md) — related
 - [Teachers of color earn a smaller share of non-teacher college-graduate wages than teachers overall](teachers-of-color-compensation-gap.md) — related
+- [U.S. teachers earned only 77% of what other college graduates earned in 2021, even after adjusting for the work year](teacher-pay-77-percent-of-college-graduates.md) — related
+- [Early educators earn one third to one half of k-12 educators' wages and over half rely on public assistance](early-educators-underpaid-public-assistance.md) — related

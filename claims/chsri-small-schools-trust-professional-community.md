@@ -51,3 +51,4 @@ Qualitative interview and focus-group study of 11 CHSRI small schools, 2004. Tea
 - [School characteristics relate to politics type: Hispanic schools show a marked tendency toward strong democracy and small schools less adversarial politics](school-characteristics-relate-politics-type.md) — related
 - [Differences favoring CHSRI teachers on facilitators of instructional improvement were small and mostly not statistically significant](chsri-facilitators-instructional-improvement-null.md) — related
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — related
+- [Student reports of instruction were generally similar across school types, with juniors in small schools reporting higher academic press and support](chsri-student-experiences-academic-press-support.md) — related

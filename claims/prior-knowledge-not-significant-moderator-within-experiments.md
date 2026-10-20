@@ -49,3 +49,4 @@ Supplementary analyses reported in a footnote tested whether prior knowledge sco
 - [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — reports the opposite
 - [No significant differential treatment effects by prior (Grade 4) achievement level or gender; the Grade 4 Level 3 subgroup difference was marginal (p = .053)](rm-cc5-no-differential-effects-prior-achievement-gender.md) — related
 - [GPA and prior topic knowledge do not moderate the performance effect of LLM-assisted self-study](gpa-prior-knowledge-do-not-moderate-llm-gains.md) — related
+- [Neither instructional sequence produced significant far-transfer effects in either experiment](no-significant-far-transfer-effect-either-sequence.md) — related

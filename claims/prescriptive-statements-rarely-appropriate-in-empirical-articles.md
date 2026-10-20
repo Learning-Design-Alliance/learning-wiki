@@ -44,3 +44,5 @@ This is the author's account of the 'Prescriptives on Prescriptives' meeting in 
 
 ## Related Claims
 - [The author reports that intervention and experimental research are becoming increasingly scarce in educational journals while prescriptive recommendations based on nonexperimental research are increasing](prescriptive-recommendations-from-nonexperimental-research-increasing.md) — related
+- [Nonintervention (observational) studies in educational psychology are producing recommendations for practice at increasing rates](observational-studies-increasingly-produce-practice-recommendations.md) — related
+- [The percentage of articles employing randomized experiments in empirical educational psychology journals dropped from 40% in 1983 to 23% in 2010](randomized-experiments-declined-40-to-23-percent-edpsych-journals.md) — related

@@ -50,3 +50,4 @@ The authors' sociocultural-theoretical interpretation of their quasi-experimenta
 - [Substantial existing research addresses the effectiveness of many types and formats of peer tutoring in colleges and universities](peer-tutoring-effectiveness-research-base.md) — related
 - [Peer tutoring has theoretical advantages as a teaching and learning method in higher education](peer-tutoring-theoretical-advantages.md) — related
 - [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md) — related
+- [Personalized learning functions as a collaborative human–AI model in which teachers and AI systems play complementary roles](human-ai-collaborative-personalized-learning.md) — related

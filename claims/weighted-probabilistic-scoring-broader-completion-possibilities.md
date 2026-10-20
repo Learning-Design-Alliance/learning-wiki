@@ -44,3 +44,4 @@ Second of the three evaluated techniques, tested in divergent thinking response 
 
 ## Related Claims
 - [Model self-confidence, weighted probabilistic scoring, and ensemble modeling each significantly improve LLM-based divergent thinking scoring, raising correlation with human judges from r = 0.781 to r = 0.823](llm-scoring-three-techniques-raise-human-judge-correlation.md) — possibly the same claim (merge candidate)
+- [Ensemble modeling of multiple LLM scorers yields performance gains in automated divergent thinking scoring](ensemble-models-performance-gains-llm-scoring.md) — related

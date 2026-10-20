@@ -47,3 +47,4 @@ The review's Results section reports the outcome of its systematic search across
 - [No rigorous evaluations of trauma-informed approaches in schools met inclusion criteria in a comprehensive systematic review search](no-rigorous-evaluations-trauma-informed-schools.md) — a broader claim this one bears on
 - [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
 - The review planned meta‐analytic synthesis but could not use it because only one study met the inclusion criteria — related
+- [There is not yet much rigorous evidence to guide decision making around instructional and support strategies for adult learners](little-rigorous-evidence-adult-learner-strategies.md) — related

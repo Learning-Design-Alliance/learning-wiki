@@ -48,3 +48,4 @@ Descriptive analysis of behavior-category proportions across the three weekly ta
 - [High and low CT groups showed comparable prior coding knowledge before the AICA intervention](comparable-prior-knowledge-high-low-ct.md) — related
 - [High CT students significantly outperformed low CT students on the post-test after AICA-assisted coding instruction](high-ct-outperformed-low-ct-posttest-aica.md) — related
 - [High CT students significantly exceeded low CT students in task strategies, elaboration, and self-assessment during AICA interactions](high-ct-stronger-srl-cognitive-behaviors.md) — related
+- [Low-level students showed stage-based fluctuation with a time-lag effect in which thinking improvement preceded writing improvement, while high-level students remained stable](wise-agent-time-lag-low-level-fluctuation.md) — related

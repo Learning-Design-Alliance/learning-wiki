@@ -44,3 +44,4 @@ The brief states this gap directly, with no cited evidence or systematic review;
 
 ## Related Claims
 - [Teachers need professional development geared specifically to the curricula they teach, not only generic teaching skills or general content knowledge](teachers-need-curriculum-specific-professional-development.md) — related
+- [Research on supports teachers need to teach about complex systems has been sparse despite 15 years of tools-and-theories work](little-research-on-teacher-supports-for-complex-systems.md) — related

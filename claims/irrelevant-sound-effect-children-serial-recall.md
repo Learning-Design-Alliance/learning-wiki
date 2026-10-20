@@ -63,3 +63,4 @@ The review reports Elliott's developmental study found a dramatic ISE increase w
 - [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](meaningful-speech-impairs-prose-memory-teenagers.md) — related
 - [Noise impairs children's performance in complex listening tasks beyond simple identification, with children affected more than adults](noise-impairs-children-listening-comprehension.md) — related
 - [Children are more susceptible than adults to the effects of environmental noise on cognitive performance](children-more-susceptible-to-noise-than-adults.md) — related
+- [Irrelevant visual stimuli present during a memory test diminish the fidelity of episodic details retrieved from long-term memory in younger adults](visual-distractors-reduce-ltm-retrieval-fidelity.md) — related

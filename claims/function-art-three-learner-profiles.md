@@ -51,3 +51,6 @@ Cluster analysis of 400 artworks using HCPC (PCA, Ward's linkage, k-means refine
 - [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
 - [A two-dimensional profiling method based on initial artifact quality and criterion-aligned revision categorizes student groups into four analytic profiles in an AI-supported RQ/hypothesis revision activity](four-artifact-revision-profiles-ai-supported-inquiry.md) — related
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
+- [In reviewed studies, individual data types were analyzed mainly with descriptive analysis, content analysis, network analysis, and clustering](four-analytical-methods-individual-participation.md) — a broader claim this one bears on
+- [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related
+- [Hierarchical clustering of CDM attainment probabilities identifies five learner groups with distinct patterns of professional standards attainment](five-learner-profiles-standards-attainment.md) — related

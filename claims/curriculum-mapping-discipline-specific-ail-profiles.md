@@ -45,3 +45,7 @@ Qualitative expert-led curriculum mapping (collaborative profiling sessions) wit
 ## Related Claims
 - [Iterative coding of 27 AIL sources yields seven dimensions, with technical, application and critical-thinking dimensions most frequent and legal/regulatory knowledge rarest](ail-seven-dimensions-coding-frequencies.md) — related
 - [Technology disciplines, especially Computer Science and Data Science, lead contributions to AI literacy across TIECD dimensions, while Design (AILE 5.1) is underrepresented across all STEAM clusters](technology-disciplines-dominate-ai-literacy-design-underrepresented.md) — related
+- [Technical AI literacy elements dominate STEAM implementations: Fundamental AI Concepts (36 studies), Data Literacy (30) and Computational Thinking (29) far exceed Managing AI (6), Designing AI (8) and Creative Imagination (9)](technical-ailes-dominate-creative-managerial-underrepresented.md) — related
+- [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — a broader claim this one bears on
+- [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
+- [AIL is delineated from related literacies: it extends Data, Media and Computational Literacy with human-AI interaction and ethical reasoning about autonomous systems](ail-delineation-from-related-literacies.md) — related

@@ -43,4 +43,10 @@ Meta-analysis pooling 32 effect sizes from studies of multimedia pedagogical age
 
 
 ## Related Claims
--
+- [2D pedagogical agents tended to be more effective than 3D agents (g+ = 0.38 vs. g+ = 0.11), as predicted by the redundancy effect and the coherence principle](2d-agents-tend-more-effective-than-3d.md) — related
+- [Multimedia design principles improve learning by g = 0.38 on average across the 11 largest reviews, an effect the authors call moderate, with large differences between principles](multimedia-design-principles-improve-learning-overall.md) — a broader claim this one bears on
+- [Most agent characteristics, including nonverbal communication, motion, and voice, did not moderate the instructional effectiveness of pedagogical agents](agent-characteristics-mostly-not-moderators.md) — related
+- [Pedagogical agents have a small, statistically significant positive effect on learners' broadly defined 'motivation' (g = 0.20)](pa-small-significant-effect-broad-motivation.md) — related
+- [Pedagogical agents significantly improve learners' interest (g = 0.30), with the effect depending on the type of control condition](pa-improve-interest.md) — related
+- [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — related
+- [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](pa-non-significant-utility-beliefs.md) — related

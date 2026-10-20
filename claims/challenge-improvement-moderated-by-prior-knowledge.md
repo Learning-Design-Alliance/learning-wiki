@@ -46,3 +46,4 @@ Research Question 2 examined whether differences in gameplay in conceptually-lad
 
 - [Students favoring fast iterative solution strategies achieved lower learning gains than students with slow, elaborate, or balanced play](fast-iterative-strategies-lower-learning-gains.md)
 - [Playing EPIGAME produced a large, statistically significant pre-to-post gain in conceptual understanding of force and motion in 7th graders](study2-significant-prepost-gains-epigame.md)
+- [Prior knowledge moderated the VF-process advantage over PF: the benefit of observing the process grew with prior knowledge, while prior knowledge did not affect post-test performance in the PF condition](prior-knowledge-moderates-vf-process-vs-pf.md) — related

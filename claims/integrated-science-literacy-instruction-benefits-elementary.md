@@ -45,3 +45,4 @@ The brief's own description states that it documents "the benefits of integrated
 ## Related Claims
 - [Science and literacy instruction are connected and mutually reinforcing](science-literacy-instruction-connection-partnership.md) — related
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — a narrower finding that bears on this claim
+- [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related

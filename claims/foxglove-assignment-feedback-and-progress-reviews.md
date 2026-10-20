@@ -45,3 +45,5 @@ Case-study interview evidence from Foxglove Elementary. Principal Delaney monito
 ## Related Claims
 - [Foxglove Elementary distributes leadership across staff roles but has few mechanisms to coordinate the work](foxglove-decentralized-leadership-weak-coordination.md) — related
 - [Students trust and respect teachers who support them as learners through clear lessons, monitoring, feedback, and individualized support, not teachers who act as buddies](students-want-teachers-supporting-as-learners.md) — related
+- [Lasting pedagogical change is more likely when teachers try out strategies, receive feedback, and iteratively improve across multiple workshops](iterative-follow-up-supports-lasting-change.md) — a broader claim this one bears on
+- [The modern principal's job has expanded from administrative oversight to instructional leadership and staff collaboration](principal-role-expanded-beyond-administrative-oversight.md) — related

@@ -45,3 +45,5 @@ Pearson correlation analysis in the same sample between total principle-adherenc
 ## Related Claims
 - [Individual instructional design principles show small correlations with self-efficacy, mental effort, and transfer performance](individual-principles-small-correlations-motivation-effort.md) — a narrower finding that bears on this claim
 - [Most students' self-regulated task selections match instructional design principles, with the simple-to-complex principle least often fully applied](task-selections-match-instructional-design-principles.md) — related
+- [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related
+- [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related

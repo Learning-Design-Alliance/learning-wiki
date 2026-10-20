@@ -55,3 +55,4 @@ Multivariate regression (N = 821): the authors report that "age, gender, class l
 - [General AI literacy is not significantly related to in-service science educators' AI use or to their age, gender, or years of service](ai-literacy-unrelated-to-ai-use-and-demographics.md) — related
 - [Technology anxiety is a positive predictor of AI literacy once other determinants are controlled, despite a negative zero-order correlation](technology-anxiety-positive-predictor-ai-literacy.md) — related
 - [Intervention effects of SRI did not differ by student background or ability variables](sri-no-differential-effects-background-ability.md) — related
+- [AI anxiety is moderately and positively correlated with university students' job finding anxiety](ai-anxiety-correlates-job-finding-anxiety.md) — related

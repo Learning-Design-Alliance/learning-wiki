@@ -44,3 +44,5 @@ Descriptive cross-tabulation of 2023/24 At-risk status by NSPF star rating (Tabl
 
 ## Related Claims
 - [High-poverty schools are overrepresented among closed schools across the study period](high-poverty-schools-overrepresented-closures.md) — related
+- [GRAD-score-based At-risk identification shows larger proportional year-to-year churn than direct certification would](grad-score-churn-exceeds-direct-certification.md) — related
+- [At-risk identification is demographically patterned, with Black, Hispanic, and male students more likely to be identified](at-risk-identification-demographic-patterns.md) — related

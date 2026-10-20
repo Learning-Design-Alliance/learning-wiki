@@ -67,3 +67,6 @@ Table 4 row for Qwen3-235B: accuracy changes of -6.30 in Chemistry and -5.65 in 
 - [VietEduQwen improves over its base model across all eight exam subjects, with the largest gains in STEM disciplines, and its residual errors concentrate in multi-step computation and cross-concept integration](vieteduqwen-subject-wise-stem-gains-error-modes.md) — related
 - [LLMs struggle most with Chemistry riddles, with best EM accuracy at or below 75% versus above 90% in other subjects](llms-struggle-most-chemistry-nsmq-riddles.md) — related
 - [Multi-turn teaching by LLM teacher agents yields larger student gains than knowledge-point exposure alone](multi-turn-teaching-beats-knowledge-point-exposure.md) — related
+- [DeepTutor's interactive tutoring gains are stable across five university-level domains, varying only 0.16 points in overall quality](deeptutor-gains-stable-across-five-domains.md) — related
+- [Positive subject-specific effects of Medly in Physics, Chemistry and Biology, with no evidence the effect differed across subjects](medly-positive-effects-all-three-science-subjects.md) — related
+- [SFT on K12-Train improves out-of-domain subjects (Chinese, Humanities Math), suggesting acquisition of a transferable structurally-grounded answer style](k12-train-cross-subject-transfer.md) — related

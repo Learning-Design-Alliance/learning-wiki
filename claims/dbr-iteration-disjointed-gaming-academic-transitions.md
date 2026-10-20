@@ -44,3 +44,4 @@ DBR iteration 1 evaluation with student teachers, reported as participants' indi
 
 ## Related Claims
 - [Design-based research with 114 participants across two macro cycles produced and refined the faculty technology standards](dbr-two-macro-cycles-114-participants-standards.md) — related
+- [Student engagement increased across all performance levels over three DBR cycles, with low-performing students moving from 7–10 teacher prompts per lesson to 95–100% sustained attention by Cycle 3](tprs-mtss-engagement-gains-all-performance-levels.md) — related

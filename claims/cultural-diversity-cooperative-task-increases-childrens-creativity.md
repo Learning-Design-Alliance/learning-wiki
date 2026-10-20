@@ -45,3 +45,5 @@ Randomized 2×2 between-subjects experiment with 149 Italian elementary schoolch
 ## Related Claims
 - [Cultural diversity increases schoolchildren's creativity when a communal mindset is salient](diversity-boosts-creativity-communal-mindset.md) — related
 - [The effect of cultural diversity on children's creativity is moderated by mindset, with a significant Diversity × Mindset interaction](diversity-mindset-interaction-childrens-creativity.md) — related
+- [Cultural diversity does not increase schoolchildren's creativity when a divisional mindset emphasizing group distinctions is salient](divisional-mindset-nullifies-diversity-creativity-effect.md) — reports the opposite
+- [Students segregated into language cliques whenever allowed to choose peer interactions, despite the 50-50 enrollment design](language-clique-segregation-peer-choice.md) — reports the opposite

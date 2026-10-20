@@ -47,3 +47,4 @@ Correlation analysis in the descriptive correlational study of 145 children with
 - [Total behavior problems show a moderate negative correlation with self-concept in children with ADHD](total-behavior-problems-negative-correlation-self-concept-adhd.md) — related
 - [No significant ethnic differences in behavior problems or self-concept among children with ADHD, though Caucasian children had the lowest mean self-concept](no-significant-ethnic-differences-self-concept-adhd.md) — related
 - [Older children and adolescents with ADHD have lower self-concept scores](older-age-lower-self-concept-adhd.md) — related
+- [The ADHD–depression association does not significantly differ by sex, though point estimates are slightly stronger in females](adhd-depression-association-sex-interaction-null.md) — related

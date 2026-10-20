@@ -50,3 +50,4 @@ A systematic review of each state's K–12 funding formulas and legislative docu
 - [California's 20% supplemental grant weight falls below other states' adequacy-study recommendations for English learners and at-risk students](lcff-supplemental-weight-below-adequacy-recommendations.md) — related
 - [Across 11 states with transparent student group allocation, estimated combined additional funding for dual EL/low-income students ranged from $904 per pupil in Arkansas to $16,161 in New Jersey](dual-funding-range-904-to-16161.md) — related
 - Michigan provides the lowest English Learner funding weight among weighting states, allocating about 1% to 11% more versus research recommending at least twice as much — related
+- [California is one of only five states that counts high-need students unduplicated, unlike 37 of 42 states that allow duplicated funding](unduplicated-count-outlier-among-states.md) — related

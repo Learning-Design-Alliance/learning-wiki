@@ -47,3 +47,4 @@ Mixed ANOVA on recognition scores in the randomized experiment: no main effect o
 - [Embedded rating scales make middle-schoolers more likely to judge the expert (researcher) speaker as the most convincing](embedded-rating-scales-researcher-most-convincing.md) — related
 - [Watching the sourcing instructional video unexpectedly lowered students' trustworthiness ratings of the interviewees](instructional-video-lowered-trustworthiness-ratings.md) — related
 - [Students exposed to embedded rating scales mention interviewees' expertise more often in their convincingness justifications](embedded-rating-scales-expertise-justifications.md) — related
+- [Combining the instructional video with embedded rating scales yielded the highest immediate recognition, but the advantage faded by delayed posttest](combined-prompts-immediate-recognition-advantage-fades.md) — related

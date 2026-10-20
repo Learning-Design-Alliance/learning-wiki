@@ -65,3 +65,5 @@ In the same main-study wiki log analysis, DDR articles had fewer errors per 100 
 
 - [In the main study, the DDR script induced far more talk-page discussion contributions and fewer article edits than the BRD script](ddr-script-more-discussions-fewer-edits.md)
 - [In the main study, learning gains from pre-test to post-test were not directly influenced by the collaboration script, though all students improved significantly over time](script-no-direct-effect-learning-gains.md)
+- [Wikipedia's bold-edit collaboration script led to lower article quality than a discussion-first alternative script](wikipedia-script-lower-article-quality.md) — related
+- [In the main study, wiki contribution frequency indirectly mediated the effect of script on post-test learning, while the direct script effect was not significant](contribution-frequency-mediates-script-learning.md) — related

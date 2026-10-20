@@ -44,3 +44,4 @@ The implementation study's fidelity analysis examined whether TFA maintained key
 
 ## Related Claims
 - [During the first two years of the i3 scale-up, TFA expanded its corps by 25 percent but fell short of annual targets for increasing the number of teachers and teacher effectiveness](tfa-i3-scale-up-grew-25-percent-but-missed-targets.md) — related
+- [Under the i3 scale-up grant, TFA planned to grow its corps by 80 percent and aimed for a majority of its teachers to be rated highly effective by the 2014-2015 school year](tfa-i3-grant-growth-and-effectiveness-goals.md) — related

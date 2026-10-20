@@ -66,3 +66,4 @@ Mixed effects regression models predicted each resolution metric from performanc
 - [Observed performance-resolution slopes in the mathematics data were not greater than those produced by guessing in simulation](observed-slopes-not-greater-than-simulated.md) — related
 - [Resolution metrics are smaller in 2AFC than in free-response testing despite presumably equal knowledge](resolution-smaller-2afc-than-free-response.md) — related
 - [Children's metacognitive judgments are not explained by baseline risk preferences or response-time cues](metacognition-not-risk-preference-or-response-time.md) — related
+- [In simulations, resolution metrics become strongly positively related to knowledge once guessing is possible, even when true resolution is constant](simulation-guessing-biases-resolution-metrics.md) — related

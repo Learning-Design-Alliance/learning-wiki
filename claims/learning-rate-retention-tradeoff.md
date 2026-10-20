@@ -55,3 +55,6 @@ The review reports, citing Smith, Ghazizadeh and Shadmehr (2006), evidence from 
 - [Desirable difficulty: harder-to-learn conditions yield enhanced long-term retention](desirable-difficulty-enhances-long-term-retention.md) — possibly the same claim (merge candidate)
 - [Educators did not perceive the iterative CTML review process as slowing them down, rating production efficiency at 4.26/5](educators-rate-review-friction-productive.md) — related
 - [Evidence suggests over-reliance on generative AI may negatively affect students' self-regulated learning behaviors, potentially harming retention and transfer to novel contexts](genai-overreliance-harms-self-regulated-learning.md) — related
+- [The acquired strategy-selection knowledge did not make PROTO-TEG more efficient in terms of student performance](proto-teg-self-improvement-no-student-performance-gain.md) — a narrower finding that bears on this claim
+- [The association between RT propensity and learning rate is moderated by prior proficiency: slower propensities predict greater learning efficiency for higher-proficiency students but are weakly negative for lower-proficiency students](rt-propensity-proficiency-interaction-learning.md) — related
+- [Direct instruction's advantages do not persist over the longer term](direct-instruction-advantages-vanish-long-term.md) — related

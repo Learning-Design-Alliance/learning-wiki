@@ -45,3 +45,5 @@ Field experiment in a university online course: 61 students in 16 groups (topic 
 ## Related Claims
 
 - [More unequal distribution of participation in online collaboration groups is associated with lower satisfaction with the collaboration](unequal-participation-lower-satisfaction.md)
+- [Tentative evidence that groups receiving the collaboration support more often achieved near-equal participation, since most groups failing the gini criterion were controls](tentative-support-equal-participation.md) — reports the opposite
+- [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](equal-participation-across-collaboration-conditions.md) — possibly the same claim (merge candidate)

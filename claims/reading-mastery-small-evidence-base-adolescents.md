@@ -46,3 +46,7 @@ The WWC's literature search reflects documents publicly available by August 2009
 - [The evidence base for Accelerated Reader with adolescent learners is thin: only 2 of 318 reviewed studies met WWC standards](accelerated-reader-thin-evidence-base-318-studies.md) — related
 - [The evidence base for PALS in the Adolescent Literacy review rests on a single randomized trial of 120 students across 12 schools, rated as meeting standards with reservations](pals-evidence-base-single-rct-reservations.md) — related
 - The guide's recommendations rest on a screened evidence base of 15 studies meeting WWC group design standards drawn from more than 2,800 citations — related
+- [The evidence base for the Lovaas Model is small: only two of 58 reviewed studies met WWC evidence standards](lovaas-model-evidence-base-small-two-studies.md) — related
+- [Of 305 studies of Fast ForWord reviewed for adolescent learners, two met WWC evidence standards, six met standards with reservations, and 297 met neither](fast-forword-evidence-base-305-studies.md) — a broader claim this one bears on
+- [The extent of evidence for Reading Plus® on adolescent learners is small, resting on a single study that met WWC standards with reservations](reading-plus-evidence-extent-small-one-study.md) — a broader claim this one bears on
+- [The evidence base for Core-Plus Mathematics is small: of 17 reviewed studies, only one met WWC standards (with reservations) and 16 did not meet standards or screens](core-plus-evidence-base-small.md) — a broader claim this one bears on

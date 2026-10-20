@@ -52,3 +52,4 @@ Exploratory correlational analysis in 86 third graders testing whether domain-ge
 - [Adults with DD show deficient time/duration processing but preserved length processing, with mixed findings across studies](dd-adults-time-duration-deficit-length-mixed.md) — related
 - [No significant independent relationship was found between inhibition and factual knowledge of arithmetic in either children or adults](no-inhibition-factual-knowledge-relationship.md) — related
 - [Adults with dyslexia without dyscalculia show no deficit in nonsymbolic numerical magnitude processing](dyslexia-without-dyscalculia-intact-magnitude-processing.md)
+- [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](wm-np-predict-adult-math.md) — related

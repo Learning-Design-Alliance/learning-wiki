@@ -49,3 +49,4 @@ Descriptive analysis of school size and politics type. The report states "advers
 - [School size is the characteristic most related to teachers' reform and school-quality ratings, with small schools (350 students or fewer) rated most positively](small-schools-more-positive-reform-quality.md) — related
 - Integrated, small, wealthier, and higher-achieving Chicago schools are far more likely to combine strong press and strong support than large, poor, racially isolated, low-achieving schools — related
 - [Teachers and principals in CHSRI small schools describe an environment marked by trust, commitment, and strong professional community in year two](chsri-small-schools-trust-professional-community.md) — related
+- [Small elementary schools (under 350 students) report more positive trust relations among teachers and between teachers and parents](small-school-size-facilitates-trust.md) — related

@@ -50,3 +50,4 @@ Planned pairwise contrast within the randomized TSST-G experiment (Berg Card Sor
 - [Acute psychosocial stress differentially affects cognitive flexibility by sex (significant Sex × Condition interaction on perseverative errors)](acute-stress-sex-specific-cognitive-flexibility.md) — a broader claim this one bears on
 - [Changes in cortisol did not predict perseverative errors in any sex](cortisol-change-not-predict-flexibility.md) — related
 - [The TSST-G stress induction increased negative affect and cortisol relative to control](tsst-g-manipulation-check-affect-cortisol.md) — related
+- [Manipulation check: instructional condition significantly affected errors made during training, with exploratory learning producing more errors](manipulation-check-exploratory-more-errors.md) — related

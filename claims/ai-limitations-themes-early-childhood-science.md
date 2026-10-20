@@ -44,3 +44,4 @@ Inductive thematic analysis (Braun & Clarke approach as cited) of open-ended ref
 
 ## Related Claims
 - [Students view AI videos as appropriate for simple, visualizable, and supplemental learning contexts but inappropriate for complex, subjective, or interactive ones](students-contextualize-ai-video-appropriateness.md) — related
+- [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related

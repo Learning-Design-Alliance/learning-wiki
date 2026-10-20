@@ -52,3 +52,4 @@ Within-subjects comparison of cognitive-effort measures across conditions withou
 - [Layered AI feedback was perceived as more encouraging and independence-supporting but imposed higher mental effort](layered-ai-feedback-perceptions-mental-effort.md) — reports the opposite
 - [Teachers envisioned chatbots as extending teacher capacity and availability by providing additional access to support and redistributing planning workload](teachers-envision-chatbots-extending-capacity-availability.md) — related
 - [Expert scenarios envision AI saturation as augmenting rather than displacing human pedagogical work (the more-human paradox)](more-human-paradox-ai-augments-pedagogical-work.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — a broader claim this one bears on

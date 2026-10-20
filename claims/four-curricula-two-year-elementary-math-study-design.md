@@ -69,3 +69,4 @@ The brief describes its underlying study as "a large-scale, rigorous study" exam
 - Four elementary math curricula were evaluated using an experimental design — possibly the same claim (merge candidate)
 - [The curriculum evaluation was the second report from a multi-year (2005-2013) IES-funded study of mathematics curricula](ies-math-curricula-evaluation-second-report.md) — related
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
+- [The study examines whether some early elementary school math curricula are more effective than others at improving math achievement in schools serving a high percentage of disadvantaged students.](math-curricula-relative-effects-disadvantaged-first-second-graders.md) — related

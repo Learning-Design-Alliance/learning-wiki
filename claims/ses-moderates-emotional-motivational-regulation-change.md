@@ -43,4 +43,6 @@ Area-level repeated-measures ANCOVA of on-task emotional/motivational regulation
 
 
 ## Related Claims
--
+- [Age moderated change in metacognitive regulation, with younger children decreasing and older children increasing between pre- and post-test](age-moderates-metacognitive-regulation-change.md) — related
+- [Lower-SES children showed greater pre-to-post gains in on-task self-regulation than higher-SES children](low-ses-children-greater-on-task-self-regulation-gains.md) — related
+- [No intervention effect on directly observed on-task self-regulation in the musical play study](musical-play-intervention-no-on-task-self-regulation-effect.md) — related

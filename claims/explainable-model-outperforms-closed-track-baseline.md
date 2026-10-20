@@ -44,3 +44,5 @@ Closed-track results (Section 5.2, Table 3) comparing submissions to the fine-tu
 
 ## Related Claims
 - [The team's open-track submissions with added features surpassed all other shared task submissions on all three languages, with RMSE near 0.7](open-track-submissions-surpassed-all-others.md) — related
+- [LLM-extracted cognitive and linguistic features add predictive value beyond readily available item metadata (grade, domain, item type, word count)](llm-features-add-value-beyond-item-metadata.md) — related
+- [Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87](feature-based-llm-models-outperform-direct-estimation-and-benchmarks.md) — related

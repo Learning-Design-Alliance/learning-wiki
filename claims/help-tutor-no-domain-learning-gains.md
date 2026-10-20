@@ -45,3 +45,4 @@ Null domain-learning result across both Help Tutor classroom experiments. Both c
 ## Related Claims
 
 - [Students' help-seeking error frequencies correlate strongly across different Cognitive Tutor units and cohorts (r = 0.89)](help-seeking-errors-stable-across-units.md)
+- [Static self-explanation prompts in the Geometry Cognitive Tutor produced greater gains on Reason and Not Enough Info test items than problem-solving practice alone](self-explanation-prompts-geometry-tutor-robust-learning.md) — related

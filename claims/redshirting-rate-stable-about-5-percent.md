@@ -46,3 +46,4 @@ The fact sheet reports trend data on redshirting prevalence, stating the rate ha
 - [Redshirted students may have potentially lower lifetime earnings because they enter the labor force a year later](redshirting-potentially-lower-lifetime-earnings.md) — related
 - [Redshirted students' early-grade academic advantage over on-time peers fades as students move through school](redshirting-academic-advantage-short-lived.md) — related
 - [Redshirted children may gain a physical maturity advantage over peers, which some parents cite for sports](redshirting-physical-maturity-advantage-sports.md) — related
+- [Being a year older at kindergarten entry leads to higher initial achievement](older-entry-higher-initial-achievement.md) — related

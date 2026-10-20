@@ -44,3 +44,5 @@ This is a program-design statement from the LEAD Partnership logic model's activ
 
 ## Related Claims
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
+- [Intensive training and residency programs for school leaders helped facilitate sharing of best practices, but some schools had not progressed to implementing the shared practices](leader-training-residency-facilitated-practice-sharing-but-implementation-lagged.md) — related
+- [Teacher leaders can play a valuable role in supporting the professional learning of their colleagues](teacher-leaders-support-colleague-professional-learning.md) — related

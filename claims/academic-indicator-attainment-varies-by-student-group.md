@@ -50,3 +50,4 @@ Descriptive analysis of statewide administrative data for 63,679 Arkansas grade 
 - [Black and Hispanic students attained postsecondary readiness and success outcomes at substantially lower rates than White students](black-hispanic-lower-postsecondary-outcomes.md) — related
 - [Students with disabilities attained postsecondary readiness and success outcomes at about one half to one third the rate of students without disabilities, the largest difference between any student group and its counterpart](disability-largest-postsecondary-outcome-gap.md) — related
 - [Raw postsecondary data are useful for descriptive purposes but may not give educators substantial new information beyond high school indicators](raw-postsecondary-data-limited-new-information.md) — related
+- [Predictive accuracy of middle and high school indicators did not vary substantially between student groups](predictive-accuracy-similar-across-groups.md) — reports the opposite

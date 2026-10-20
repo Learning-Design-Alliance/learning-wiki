@@ -65,3 +65,9 @@ Supplementary within-country analyses for the United States, the UK and the Neth
 - [Low achievers experienced larger initial pandemic impacts and less improvement during 2021-22](low-achievers-larger-impacts-less-improvement.md) — reports the opposite
 - [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
 - [Significant achievement gaps between COVID-year students and pre-pandemic peers persisted at the end of 2022-23](persistent-achievement-gaps-2022-23.md) — related
+- [Learning deficits during the pandemic are larger in maths than in reading](covid-deficits-larger-maths-than-reading.md) — related
+- [Schools reported that about 40 percent of their students experienced considerable or major academic losses since March 2020](charter-schools-reported-student-academic-losses.md) — related
+- [COVID-19 school closures in Pennsylvania are likely to have caused substantial learning losses, with harms concentrated in populations also disproportionately harmed by the disease](covid-closures-pennsylvania-learning-loss-equity.md) — related
+- [The study tracked the achievement gap between COVID-year student cohorts and their pre-pandemic peers](covid-cohort-achievement-gap-tracked.md) — related
+- [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
+- [Observed COVID-19 achievement declines were more substantial than declines during other recent disruptions such as natural disasters](covid-declines-exceed-natural-disaster-declines.md) — related

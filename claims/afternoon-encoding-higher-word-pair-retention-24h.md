@@ -64,3 +64,7 @@ Same randomized two-group experiment, second retention interval. The Day 1 to Da
 ## Related Claims
 - [Sleep and consolidation support semantic memory development, suggesting delayed school start times may benefit memory](sleep-consolidation-semantic-memory-school-start-times.md) — related
 - [In Experiment 3, individual learners showed greater forgetting over 24 hours than paired learners](condition-by-delay-interaction-experiment-3.md) — related
+- [Adolescents trained on a finger-tapping task in the evening show greater off-line gains in tapping speed than afternoon-trained adolescents at both 24 hours and 7 days](evening-encoding-greater-finger-tapping-speed-gains.md) — related
+- [Evening-trained adolescents show greater gains in finger-tapping accuracy (reduced error rate) than afternoon-trained adolescents at both retention intervals](evening-encoding-greater-finger-tapping-accuracy-gains.md) — related
+- [Learning timing produces Group X Time interactions in both memory systems: declarative consolidation time courses differ between afternoon and evening groups, and finger-tapping speed and accuracy show highly significant Group X Time interactions](group-time-interactions-both-memory-systems.md) — a broader claim this one bears on
+- [Polysomnographic sleep parameters did not differ between afternoon- and evening-trained groups and did not correlate with memory consolidation measures](sleep-parameters-no-group-differences-no-correlations.md) — related

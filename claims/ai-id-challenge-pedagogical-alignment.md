@@ -47,3 +47,4 @@ Thematic synthesis of challenges (Table 6) across the 28 studies. The review rep
 - [Unreliable AI-generated output is the most frequently reported technical limitation of AI-supported undergraduate EFL instruction, appearing in 22 of 54 studies (41%)](unreliable-ai-output-most-frequent-technical-limitation-efl.md) — related
 - [AI pilots found models not yet capable of high-quality math output generation, including multiple choice problems, coherent word problems, and math visuals](ai-not-capable-math-output-generation.md) — a narrower finding that bears on this claim
 - [Teacher educators show shallow understanding of GenAI tools and gaps in aligning AI use with pedagogical goals](teacher-educators-shallow-genai-understanding-gaps.md) — a narrower finding that bears on this claim
+- [Theoretical quality of agent outputs strongly correlates with benchmark performance (r = 0.656)](theoretical-quality-correlates-benchmark-performance.md) — related

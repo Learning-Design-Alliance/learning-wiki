@@ -47,3 +47,4 @@ Experiment 1 internal-consistency analysis including a reading-comprehension con
 
 ## Related Claims
 - [ChatGPT-generated HDR problems measure the same ability as human-created problems, with high internal consistency (Cronbach's α = 0.78) and no significant difficulty difference](chatgpt-generated-hdr-problems-equivalent-to-human-created.md) — related
+- [Automated HDR problem generation makes repeated and longitudinal assessment feasible by producing structurally equivalent cases with different contexts](automated-generation-enables-longitudinal-hdr-assessment.md) — related

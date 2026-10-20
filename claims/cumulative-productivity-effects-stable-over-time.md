@@ -44,3 +44,4 @@ Cumulative meta-analysis ordered by publication year (2022–2025), adding studi
 
 ## Related Claims
 - [Cumulative rapid experimentation improved next-item correctness by 10% and cognitive engagement by 14% over five months](rapid-experimentation-cumulative-metric-gains.md) — related
+- [Smaller local LLMs show a minor position bias toward option ordering and partially guessing-like error variation, but accuracy remains relatively stable across permutations and repeated sampling runs](minor-position-bias-and-partial-guessing-in-small-llms.md) — related

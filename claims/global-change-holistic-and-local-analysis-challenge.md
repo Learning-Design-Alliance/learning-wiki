@@ -48,3 +48,4 @@ In the March 1993 lead story, the authors state this instructional challenge as 
 - [Dietitians' barriers and enablers to pro-environmental action fall into three themes: personal, social and professional, and contextual and environmental factors](three-themes-barriers-enablers-pro-environmental-dietitians.md) — related
 - [Belief that a global environmental problem needs addressing was already high before the workshop and did not significantly change](pph-workshop-no-significant-belief-change.md) — related
 - [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](differing-values-no-agreed-environmental-decision.md) — related
+- [International students wanted more global cases and closer connections between case analyses and their local work contexts](lack-of-global-cases-local-relevance.md) — related

@@ -45,3 +45,4 @@ A policy scan of eight state initiatives (California, Florida, Georgia, Illinois
 ## Related Claims
 - [State investments in community schools range from $3.4 million to $4.1 billion, mostly occurring within the past 3 years, drawing on state funds, federal ESSER funds, or both.](state-community-schools-investments-range-3-4m-to-4-1b.md) — related
 - [As total enrollment shrinks, the shares of English Learners, students with disabilities, and low-income students are growing, concentrating higher-need populations in districts with less funding](rising-need-share-amid-shrinking-enrollment.md) — related
+- [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](ousd-sustained-fscs-through-stakeholders-funding-policy.md) — related

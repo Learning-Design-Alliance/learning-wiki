@@ -50,3 +50,5 @@ ROI regression in the 640-child cohort (Bonferroni-corrected across three ROIs) 
 - [Self-regulation scores correlate with functional coupling between the right striatum and left motor cortex during reactive inhibition, but not frontostriatal coupling during proactive inhibition](self-regulation-striatal-motor-coupling-reactive.md) — related
 - [Children aged 8–11 with higher parent-rated self-regulation show more proactive response slowing on a stop-signal anticipation task](self-regulation-proactive-response-slowing-children.md) — related
 - [Functional coupling development during inhibition is sex-specific: striatal-motor coupling increases with age in girls, frontostriatal coupling increases with age in boys](sex-specific-inhibition-coupling-development.md) — related
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
+- [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related

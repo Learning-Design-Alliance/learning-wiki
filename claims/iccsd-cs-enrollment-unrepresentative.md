@@ -48,3 +48,4 @@ District case report: ICCSD examined 2017 high school CS enrollment against wide
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
 - Iowa City schools observed inequitable course enrollment in computational thinking, computer science, and advanced STEM electives by race/ethnicity, income, gender, and ELL status — possibly the same claim (merge candidate)
 - Student voices provided insights into factors that may impact participation in CS programs in Iowa City — related
+- [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — related

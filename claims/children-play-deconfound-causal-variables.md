@@ -67,3 +67,8 @@ The review reports Cook, Goodman, and Schulz's (2011) toy-box study where a conn
 - [Children's confidence in experimental conclusions increased after training and was higher for unconfounded than confounded experiments, with no training-condition differences](confidence-increases-unconfounded-experiments.md) — related
 - [Given ambiguous evidence, preschoolers design informative interventions in their exploratory play (Experiment 2)](preschoolers-design-informative-interventions-ambiguous-evidence.md) — related
 - [Given ambiguous evidence, preschoolers select informative interventions in their exploratory play (Experiment 1)](preschoolers-select-informative-interventions-ambiguous-evidence.md) — related
+- [Children as young as 3 adapt their exploratory actions to the statistical structure of a search task](three-year-olds-adapt-exploratory-strategies.md) — related
+- [Preschoolers constrain exploration after direct instruction and after overhearing instruction to another child, but not after overhearing instruction to an adult or a non-pedagogical intentional action](pedagogical-inference-extends-to-overheard-child-instruction.md) — related
+- [Preschoolers recognize action possibilities (affordances) that allow them to isolate variables when there is information to be gained](preschoolers-recognize-affordances-for-variable-isolation.md) — related
+- [Given unambiguous evidence, preschoolers play indiscriminately and rarely try to isolate candidate causes](preschoolers-play-indiscriminately-unambiguous-evidence.md) — related
+- [Manipulating stimulus physical properties and base rates of candidate causes changes preschoolers' exploratory play](stimulus-and-baseraate-manipulations-shape-exploratory-play.md) — related

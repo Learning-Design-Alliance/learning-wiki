@@ -44,3 +44,4 @@ Descriptive statement from the publication's overview section describing KIPP's 
 
 ## Related Claims
 - [KIPP's rapid growth over two decades created an enormous need for strong principals to lead its schools](kipp-growth-created-principal-need.md) — related
+- [Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals](targeted-principal-candidate-recruitment-outcomes.md) — related

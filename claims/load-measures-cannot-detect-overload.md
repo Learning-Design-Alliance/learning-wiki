@@ -43,4 +43,6 @@ The review's analysis of overall measurement problems states that although learn
 
 
 ## Related Claims
--
+- [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
+- [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](part-task-practice-reduces-load-for-novices.md) — related
+- [Cognitive Load Management](cognitive-load-management.md) — related

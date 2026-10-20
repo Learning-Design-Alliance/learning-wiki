@@ -72,3 +72,4 @@ The review's synthesis of national attainment trends (table 1, ages 25-29) finds
 - [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
 - [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related
 - High school curricular rigor is the number one indicator of college completion, more influential than race, family income, or parent education — related
+- [The 2021 PAI ranges widely by race/ethnicity and gender, from 11.6% for Black young men to 67.3% for Asian/Pacific Islander young women, and no group reaches the 75% aspiration level](cps-pai-race-gender-disparities.md) — related

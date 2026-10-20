@@ -49,7 +49,7 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 | [Tripathi 2026](https://doi.org/10.48550/arxiv.2605.21962) | q2 · review · r2 | i? | this claim |
 | [Chwen Jen Chen 2005](https://doi.org/10.1080/15391523.2005.10782453) | q3 · causal · r2 | i? | [VR (non-guided exploration) did not differ significantly from Non VR for either assimilato](non-guided-vr-no-better-than-non-vr.md) (supports) |
 | [Kakimoto Akihiro 2026](https://doi.org/10.2196/104397) | q2 · causal · r1 | i3 | [Conventional training received significantly higher ratings for perceived realism and imme](conventional-training-higher-realism-immersion.md) (qualifies) |
-| [Ross 2025](https://doi.org/10.31234/osf.io/e6smh_v1) | q1 · theoretical · r3 | i? | [Immersive media environments enable higher visual and behavioral realism of pedagogical ag](xr-higher-agent-realism-than-non-immersive.md) (qualifies) |
+| [Ross 2026](https://doi.org/10.31234/osf.io/e6smh_v1) | q1 · theoretical · r3 | i? | [Immersive media environments enable higher visual and behavioral realism of pedagogical ag](xr-higher-agent-realism-than-non-immersive.md) (qualifies) |
 | [Syed Tanzim Mubarrat 2026](https://doi.org/10.1145/3772318.3791338) | q2 · quant-synthesis · r2 | i? | [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using t](immersive-tech-underused-positive-outcomes-robotics.md) (counts against) |
 <!-- synthesis:end -->
 
@@ -66,3 +66,8 @@ The chapter reports, citing prior systematic reviews, that the assumption that m
 - [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](rule-based-sg-procedures-hindered-learning-goals.md) — related
 - [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — related
 - [Gee justified games' pedagogical improvement via a Darwinian market process linking learning principles to sales](gee-darwinian-market-improvement-of-game-pedagogy.md) — related
+- [Agent realism, particularly behavioral realism, should be a crucial predictor of social presence in immersive agent-centered learning environments](agent-realism-predicts-social-presence-xr.md) — related
+- [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
+- [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
+- [VR-based training with radiation field visualization received significantly higher ratings for radiation understanding and visualization than conventional training (r=0.878)](vr-radiation-visualization-higher-understanding-ratings.md) — related
+- [VR-based training received significantly higher ratings for medical safety awareness and radiation protection than conventional training (r=0.856)](vr-training-higher-safety-awareness-ratings.md) — related

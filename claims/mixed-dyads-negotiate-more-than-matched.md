@@ -49,3 +49,4 @@ Generalized linear mixed model results for the overall NoM category from the sam
 - [Mixed dyads outperform matched dyads in meaning negotiation only in the L2 (proficiency pairing × language interaction)](pairing-language-interaction-nom-l2-only.md) — reports the opposite
 - [Time (two years) shows no significant effect on children's overall amount of meaning negotiation](no-time-effect-overall-nom.md) — related
 - [Clarification requests show a three-way interaction of proficiency pairing, time and language, declining over time only in matched dyads and in the L1](clarification-requests-three-way-interaction.md) — related
+- [Strategy-specific effects: time affects self-repetitions and marginally clarification requests; proficiency pairing affects confirmation checks and negative feedback; language affects other-repetitions and negative feedback](strategy-specific-factor-effects.md) — related

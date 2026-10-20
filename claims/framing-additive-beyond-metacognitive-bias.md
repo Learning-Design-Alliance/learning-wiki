@@ -46,3 +46,7 @@ Exploratory mixed-effects models on Experiment 2 reminder bias scores with rando
 - [The more underconfident participants are about their memory abilities, the larger their reminder bias, regardless of framing](underconfidence-predicts-reminder-bias.md) — related
 - [Individuals systematically overuse reminders relative to the optimal offloading level, and reminder bias correlates with confidence and metacognitive bias](reminder-bias-overuse-external-aids.md) — related
 - [In Experiment 1, lower confidence predicted greater offloading beyond objective performance in the no-feedback group, but not in the feedback group](confidence-predicts-offloading-no-feedback-only.md) — related
+- [Participants show a significant reminder bias (overuse of reminders relative to the optimal strategy) when reminders are framed as gains](reminder-bias-under-gain-framing.md) — related
+- [Task accuracy is far higher with reminders than internal memory and is unaffected by reminder framing](reminder-accuracy-unaffected-by-framing.md) — related
+- [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
+- [Framing reminders as losses reduces, but does not eliminate or reverse, the reminder bias in both between- and within-participants designs](loss-framing-reduces-reminder-bias.md) — related

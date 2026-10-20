@@ -46,3 +46,4 @@ Descriptive survey item in which 89 participants rated willingness to use an eco
 - [Concrete, outcome-oriented eco-feedback visualizations with real-world analogies are rated more favorably than abstract metrics](concrete-eco-feedback-visualizations-preferred-over-abstract.md) — related
 - [Interacting with an eco-feedback LLM interface surfaces gaps in students' understanding of digital sustainability and supports learning about the environmental impact of everyday LLM use](eco-feedback-interface-supports-sustainability-learning.md) — related
 - [Stronger eco-mindedness raises initial eco-mode preference, but this advantage diminishes as response latency increases](eco-mindedness-raises-baseline-eco-preference-limited-by-latency.md) — related
+- [Preference for LLMs aligns only weakly with AI Interaction Competence, producing enthusiastic-but-unskilled and skilled-but-reluctant subgroups](preference-ability-mismatch-aic.md) — related

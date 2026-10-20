@@ -48,3 +48,5 @@ The review reports, citing Allensworth & Easton (2007), that early ninth-grade a
 - [Attendance Support students maintained a 3.0 GPA despite low attendance but graduated high school at 71 percent, below the district average, and fewer than half attended college](condensed-eot-attendance-support-below-average-graduation.md) — related
 - [Low attendance is linked with lower academic skills, grades, and high school graduation, and high attendance with higher ones](attendance-linked-academic-skills-grades-graduation.md) — a broader claim this one bears on
 - Schools with strong social-emotional value-added help ninth-grade students stay on track and miss school less often — related
+- [The first two semester course failures in ninth grade are associated with a 30 percentage point decrease in the probability of graduating](first-two-course-failures-30-point-graduation-decrease.md) — related
+- [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — related

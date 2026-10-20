@@ -47,3 +47,6 @@ Illustrative evidence from adjacent domains, as the author flags: reported secon
 - [Populations most exposed to agentic AI risks are least served by AI literacy research: no scale has been tested for cross-cultural validity](equity-gap-ai-literacy-scales-cross-cultural-validity.md) — related
 - [The deployment-literacy gap is structural: curriculum timelines of five to seven years cannot match agentic AI product cycles of months](structural-mismatch-curriculum-pace-vs-agent-product-cycles.md) — related
 - [GPT-series models and LangChain dominate educational agentic implementations, while frontier paradigms such as OpenClaw remain largely absent](frontier-agent-paradigms-absent-education.md) — related
+- [Indirect prompt injections combining instruction manipulation, role-playing, and obfuscation altered AI-assigned grades with attack success rates of 94–100% while remaining undetected](prompt-injection-alters-ai-grading-94-100-percent.md) — related
+- [Delimiting Untrusted Learner Text Largely Blocked Authority-Claim Injection on One Model](delimiting-untrusted-learner-text-defeats-authority-claim-injection.md) — related
+- [Multi-layer defense significantly reduces bypass relative to regex-only filtering (69.65% to 46.34%), confirmed by exact McNemar test](multi-layer-beats-regex-only-bypass.md) — related

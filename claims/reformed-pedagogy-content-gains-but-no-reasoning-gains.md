@@ -53,3 +53,7 @@ Table II reports average normalized gains for students in the authors' courses o
 - [Pre-instruction LCTSR scores correlate with normalized learning gains, most strongly for theoretical content (TUG-K r=0.59) and more weakly for descriptive content (DIRECT r=0.50)](lctsr-prescore-correlates-content-gains-theoretical-strongest.md) — related
 - [A majority (56%) of non-STEM students are classified as transitional reasoners, while formal operational reasoners predominate among STEM majors](non-stem-majority-transitional-reasoners.md) — related
 - [Non-STEM students show the poorest performance on proportional reasoning (25%) and score 30% on hypothetico-deductive reasoning items](non-stem-weak-proportional-hypothetico-deductive-reasoning.md) — related
+- [Non-STEM majors in conceptual physics and astronomy courses score significantly lower pre-instruction on the LCTSR than STEM majors](non-stem-lower-lctsr-pre-scores-than-stem.md) — related
+- [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related
+- [Hake's survey found interactive-engagement courses achieved average normalized gains about two standard deviations greater than traditional courses, with overall gain–pretest correlation of +0.02](hake-ie-gains-two-sd-greater.md) — related
+- [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — a broader claim this one bears on

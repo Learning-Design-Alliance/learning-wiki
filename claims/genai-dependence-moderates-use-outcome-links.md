@@ -63,3 +63,5 @@ Simple-slopes analysis at −1 SD, mean, and +1 SD of dependence (Figure 3). For
 - [GenAI use is positively associated with self-perceived employability among business students](genai-use-positive-employability.md) — related
 - [GenAI training attenuates the predictive effect of prior GenAI experience on revision performance](training-attenuates-genai-experience-effect.md) — a narrower finding that bears on this claim
 - [Transformative feedback attenuated the positive association between joy and regulatory behavior, and adaptive feedback moderation was otherwise limited, not supporting H2](transformative-feedback-attenuates-joy-regulation-link.md) — related
+- [GenAI use is positively associated with self-reported critical-thinking disposition among business students only in the adjusted structural model, with a near-zero zero-order correlation](genai-use-adjusted-positive-ct-disposition.md) — related
+- [Self-reported critical-thinking disposition is positively associated with self-perceived employability among business students](ct-disposition-positive-employability.md) — related

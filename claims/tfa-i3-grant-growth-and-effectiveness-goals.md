@@ -52,3 +52,4 @@ The report describes the goals TFA set under the i3 scale-up grant: a planned "c
 - [TFA teachers have positive effects on mathematics achievement for students in grades pre-K-12, based on six studies](tfa-positive-mathematics-achievement-effects.md) — related
 - [TFA shows a small positive effect on reading for early elementary students (PreK to grade 2) but not in math](tfa-small-positive-early-elementary-reading-not-math.md) — related
 - The authors propose creating America's Teacher Corps through federal legislation to recognize highly effective K-12 public school teachers — related
+- [As it scaled, TFA generally maintained fidelity to its core program model, with small changes to its pre-service training program](tfa-i3-scale-up-maintained-program-fidelity.md) — related

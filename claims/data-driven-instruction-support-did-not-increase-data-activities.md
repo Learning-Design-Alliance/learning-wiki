@@ -46,3 +46,4 @@ Key finding from the random assignment evaluation of the support for data-driven
 - [Support for data-driven instruction did not increase teachers' data use or change their instructional practices](data-driven-instruction-support-did-not-change-teacher-practice.md) — possibly the same claim (merge candidate)
 - [Districts with data systems in place still face challenges in the strategic use of data](districts-face-strategic-data-use-challenges-despite-systems.md) — related
 - [In the data-driven instruction evaluation, most aspects of the intervention were implemented as planned](data-driven-instruction-support-implemented-as-planned.md) — related
+- [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related

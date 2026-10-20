@@ -46,3 +46,4 @@ Cross-district insight from interviews and convening presentations. Districts em
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Fewer than one fifth of districts with Portraits have taken the step of identifying actionable Practices within their Skill Sets](fewer-than-one-fifth-districts-identify-practices.md) — related
 - [Feedback Addressing Task Improves Learning](feedback-most-effective-at-task-and-process-levels.md) — related
+- [Districts use a wide variety of methods to assess Portrait of a Graduate skills, varying across contexts and grade levels](districts-use-varied-pog-assessment-methods.md) — related

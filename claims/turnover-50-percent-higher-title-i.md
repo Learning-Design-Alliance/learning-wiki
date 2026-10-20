@@ -47,3 +47,5 @@ Analysis of SASS 2011–12 and TFS 2012–13 comparing Title I and non-Title I s
 - [Turnover is about 70% higher in schools serving the most students of color, with even larger gaps for math/science, special education, and alternatively certified teachers](turnover-high-minority-schools-70-percent.md) — related
 - [After accounting for teacher and school characteristics, each $1,000 increase in cost-of-living-adjusted salary is associated with about a 0.34 percentage-point decrease in turnover probability](salary-associated-with-lower-turnover.md) — related
 - [Teaching has a relatively high turnover rate compared to nursing and national employee turnover benchmarks](teaching-turnover-high-versus-other-occupations.md) — a broader claim this one bears on
+- [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Teachers who enter without completed preparation are typically less effective and have significantly higher turnover than prepared teachers](underprepared-teachers-less-effective-higher-turnover.md) — related

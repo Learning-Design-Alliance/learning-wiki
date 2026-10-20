@@ -43,4 +43,5 @@ The article's own title states its contribution: "Using graphical tools in a pha
 
 
 ## Related Claims
--
+- [Game jam activity unfolds in five phases (brainstorming, conceptualization, prototype creation, testing, pitch), each linked to different 4C skills](game-jam-five-phases-4c-links.md) — related
+- [A game-based collaboration script with assigned in-game roles shifted elementary students' attitudes towards collaboration](game-script-shifted-collaboration-attitudes.md) — related

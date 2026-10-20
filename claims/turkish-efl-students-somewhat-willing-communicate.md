@@ -45,3 +45,4 @@ Descriptive finding from the survey of 106 preparatory students at Uşak Univers
 ## Related Claims
 - [Motivation correlates positively and significantly with L2 willingness to communicate among Turkish EFL preparatory students](motivation-correlates-with-l2-wtc-turkish-efl.md) — related
 - [Turkish EFL learners in this sample were generally extrinsically motivated, indicating moderate self-determination](turkish-efl-learners-generally-extrinsically-motivated.md) — related
+- [English pronunciation self-efficacy is strongly and positively associated with willingness to communicate in English among Chinese EFL learners](pronunciation-self-efficacy-associated-with-wtc.md) — related

@@ -46,3 +46,4 @@ Table 1 of the discourse analysis reports variability in how soon each group ent
 - [A TA's intervention that incrementally added epistemic distancing to his questions shifted a dismissive group into sensemaking with a lasting effect](ta-epistemic-distancing-intervention-silver-group.md) — related
 - [Epistemic distancing plays a critical role in student groups' construction of a safe space for collaborative sensemaking in physics tutorials](epistemic-distancing-builds-safe-space-sensemaking.md) — related
 - [Both too much and too little epistemic distancing can shut down group discussion](too-much-or-little-distancing-shuts-discussion.md) — related
+- [A new group member's heavily distanced bid to discuss shifted the Bronze group's norms toward sharing and evaluating ideas](new-member-distanced-bid-shifted-bronze-norms.md) — related

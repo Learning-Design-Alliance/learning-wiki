@@ -47,3 +47,5 @@ Anonymous online questionnaire (WJX platform) completed by 29 of 31 AI-enhanced 
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](ubridge-implementation-intentions.md) — related
 - 87.8% of surveyed students in the introductory OOP course had used AI assistants in the course at least once — related
+- [International students use conversational AI predominantly for task-oriented academic and logistical support rather than for psychological or chronic emotional challenges](ai-task-oriented-over-emotional-support-international-students.md) — related
+- [Students rate AI's helpfulness positively overall, with academic challenges receiving the highest usefulness, satisfaction, and intent-to-continue scores](academic-domain-highest-ai-helpfulness-ratings.md) — related

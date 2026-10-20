@@ -47,3 +47,8 @@ The report's introduction states this research gap as the motivation for studyin
 - [Despite rapid expansion of alternative routes into teaching, little research exists to guide judgments about the effectiveness of different teacher training strategies](little-research-teacher-training-strategy-effectiveness.md) — related
 - [There is a severe shortage of certified computer science teachers, with only 75 college graduates certified in 2016](cs-teacher-shortage-75-certified-2016.md) — related
 - [Alternatively certified teachers are 25% more likely to leave their schools and the profession, controlling for other factors](alternative-certification-25-percent-more-likely-to-leave.md) — related
+- [Administrators gave a cautious assessment of the ABCTE Passport to Teaching program that certified the teachers](principals-cautious-assessment-abcte-program.md) — related
+- [Five years after first licensure, 69% of traditional-preservice teachers remained in Texas classrooms versus 60% of alternatively certified teachers](retention-gap-traditional-versus-alternative-texas.md) — related
+- [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
+- [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
+- [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — related

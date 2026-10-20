@@ -49,3 +49,6 @@ In the SEM of 758 Chinese university EFL students, the direct path from teacher 
 ## Related Claims
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related
 - [Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning](teacher-support-predicts-approach-goals-ai-efl.md) — related
+- [AI literacy directly and positively predicts learning engagement among university students](ai-literacy-predicts-learning-engagement.md) — related
+- [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
+- [Perceived social support positively predicts both AI literacy and technological self-efficacy among university faculty](social-support-predicts-ai-literacy-and-self-efficacy-faculty.md) — related

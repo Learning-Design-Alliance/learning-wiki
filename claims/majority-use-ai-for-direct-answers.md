@@ -45,3 +45,5 @@ Self-report multiple-choice question at the end of Experiment 2's AI condition. 
 ## Related Claims
 - [Persistence and performance costs concentrate among participants who used the AI to obtain direct solutions, while hint-users resemble controls](persistence-costs-concentrated-among-direct-solution-users.md) — related
 - [AI assistance reduces persistence: persistence costs concentrate among learners who used AI for direct solutions, not hints](ai-assistance-persistence-costs-direct-solutions.md) — related
+- [Students use the integrated AI assistant differently across writing stages: clarification early, verification late](assistant-use-varies-by-writing-stage.md) — related
+- [Engineering students most often use LLMs for academic writing (27%), conceptual clarification (20%), programming help (17%) and brainstorming (13%)](students-use-llms-writing-clarification-coding-brainstorming.md) — related

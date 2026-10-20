@@ -45,3 +45,5 @@ Multivariate latent growth curve model (Table 3) fitted to the district cohort's
 ## Related Claims
 - [Multidimensional IRT scores that account for latent variable covariances over time produce better recovery of growth parameters in longitudinal growth models than sum scores and other IRT approaches](multidimensional-irt-covariance-scores-better-growth-recovery.md) — related
 - [Middle school SEL shows normative decline in self-efficacy and self-management but an increase in growth mindset](sel-trajectory-trends-middle-school.md) — related
+- [In a pooled multivariate model, the combined self-efficacy/self-management growth predicts about 80% lower odds of suspension, while the growth mindset intercept unexpectedly increases suspension odds](pooled-model-suspension-growth-mindset-paradox.md) — related
+- [The propdec adaptive student feature is highly colinear with a student intercept, capturing student individual differences without student parameters](propdec-colinear-with-student-intercept.md) — related

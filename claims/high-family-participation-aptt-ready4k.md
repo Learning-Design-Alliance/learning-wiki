@@ -49,3 +49,5 @@ Participation analysis of attendance records and Ready4K analytics (166 active e
 - The family engagement component of FF did not fully scale up: only 30.2% of families were contacted at the intended frequency and no site met the fidelity threshold — related
 - [Fidelity of FAST program-component delivery was high (97–98 percent overall), but reach to families fell far below design expectations](fast-fidelity-high-reach-low.md) — related
 - [Kindergarten-readiness gaps between ELs and Non-ELs narrowed during the intervention year after widening during the prior year, with significant between-year differences for ATL-REG, SED, and PD](readiness-gaps-narrowed-intervention-year-versus-prior-year.md)
+- [Parent-delivered READY4K! text messages improve preschool children's early literacy performance](ready4k-texts-improve-preschool-literacy.md) — related
+- [Understanding kindergarten expectations and acquiring tools to support children at home were especially beneficial for families without prior preschool or structured school experience](transition-program-benefits-families-without-preschool-experience.md) — related

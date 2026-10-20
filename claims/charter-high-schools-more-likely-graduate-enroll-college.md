@@ -65,3 +65,4 @@ The study analyzes Florida data on students attending charter high schools, conf
 - [Chicago charter high schools have large positive effects on earnings in adulthood](chicago-charter-high-schools-large-earnings-effects.md) — related
 - [Evaluations of charter schools limited to test scores may fail to capture important benefits](test-score-only-evaluations-miss-charter-benefits.md) — related
 - Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
+- [Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college](early-college-attainment-gains.md) — related

@@ -43,4 +43,5 @@ Study 1 used a latent-variable SEM approach to test the flexibility components' 
 
 
 ## Related Claims
--
+- [Working memory and inhibition both contribute to spontaneous flexibility, whereas only inhibition contributes to reactive flexibility](wm-inhibition-differential-flexibility-contributions.md) — related
+- [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](sem-iq-only-significant-predictor.md) — related

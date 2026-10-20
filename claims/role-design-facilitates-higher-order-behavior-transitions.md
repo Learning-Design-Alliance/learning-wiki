@@ -52,3 +52,6 @@ Behavioral interaction data from the quasi-experiment with 58 graduate students 
 - [Role design improves learners' perceived usefulness and ease of use of GAI, but moderately increases collaborative cognitive load](role-design-improves-gai-perceptions-raises-cognitive-load.md) — related
 - [Student-agent interaction featured a significant Query-Evaluation-Query verification loop (RM-QR-EA), distinct from the linear QR-UN path of student-instructor interaction](query-evaluation-verification-loop.md) — related
 - [Video review produces more structured reflective behavior patterns, with modality-specific video interaction sequences](video-review-structured-reflective-behavior-patterns.md) — related
+- [Sequential analysis methods for discussion forums avoid the loss of sequential interaction information in coded-posting statistics](sequential-analysis-preserves-interaction-information.md) — related
+- [NLP models classify factual (knowledge transmitter) learner questions well but face challenges distinguishing higher-order facilitator and co-learner questions](nlp-models-excel-factual-struggle-higher-order-questions.md) — related
+- [Only the Collaborator group shows a complete significant sequential metacognitive chain from orientation through elaboration; the Replacement Tool group shows only self-loops](lsa-complete-chain-collaborator-only.md) — related

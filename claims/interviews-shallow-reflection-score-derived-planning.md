@@ -60,3 +60,6 @@ Pre-learning Planning was the least coded dimension, with competing coursework a
 ## Related Claims
 - [CPS students' ACT scores fall below both their college aspirations and their own expectations, and most interviewed students scored lower than they expected](act-scores-below-student-expectations.md) — related
 - [Students' SRL profile under automated scoring was uneven, and only Execution-and-Monitoring was significantly associated with score gains](srl-uneven-only-execution-monitoring-predicts-gains.md) — related
+- [Interviewed students reported that the SRL intervention elicited self-regulated learning behaviors across goal setting, strategic planning, self-observation, and self-reflection](srl-intervention-elicited-srl-behaviors.md) — related
+- [Metacognitive awareness shapes whether learners use ChatGPT reflectively or copy shallowly, and metacognitive support sustains self-regulated learning](metacognition-gates-genai-use-quality.md) — related
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related

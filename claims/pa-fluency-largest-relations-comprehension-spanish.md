@@ -51,3 +51,4 @@ Meta-analysis using a random effects model with Fisher's z as the effect-size in
 - [The evidence base comprises 33 studies yielding 146 effect sizes on reading components and comprehension in monolingual Spanish-speaking children (2000–2021).](33-studies-146-effect-sizes-spanish-reading.md) — related
 - [Most studies of Spanish-speaking children's reading have focused on phonological awareness or alphabetic principle in relation to reading comprehension.](most-studies-focus-pa-alphabetic-principle.md) — related
 - [Effect sizes linking reading components to comprehension are highly heterogeneous across studies, partly explained by age, country, and comprehension test used.](heterogeneity-age-country-comprehension-tests.md) — related
+- [Bilingual children show a general advantage in reading acquisition, especially when learning two alphabetic languages](bilingual-advantage-reading-acquisition.md) — related

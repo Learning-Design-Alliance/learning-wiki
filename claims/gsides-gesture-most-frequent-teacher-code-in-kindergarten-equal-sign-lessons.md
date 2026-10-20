@@ -46,3 +46,4 @@ Qualitative coding of classroom video from one kindergarten classroom's seven eq
 - The kindergarten teacher explicitly discussed the forms an equation can take (FORM) with the goal of expanding the range of equations students would accept as valid — related
 - [After an early algebra intervention, the number of kindergarteners giving a relational definition of the equal sign went from one to nine, and acceptance of non-standard equation forms rose, as reported from the authors' earlier study](kindergarten-early-algebra-intervention-shifts-equal-sign-understanding.md) — related
 - [Relational understandings of the equals sign are associated with middle grades mathematics success](relational-equals-sign-understanding-middle-grades-success.md) — related
+- [A procedural \"answer is coming\" interpretation of the equals sign leads students to chain arithmetic and errors on missing-number equations](answer-coming-equals-sign-misconception.md) — related

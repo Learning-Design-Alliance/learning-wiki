@@ -65,3 +65,4 @@ Median lowest-performing-subgroup size comparison for ATSI designations under st
 - [Stabilizing test-based indicators produced substantial changes in simulated CSI designations, with larger schools replacing smaller schools](stabilization-changes-csi-designations.md) — related
 - [Stabilization makes larger adjustments to scores from smaller student groups and to more extreme scores, as expected](stabilization-adjusts-small-extreme-scores-most.md) — related
 - [Stabilization reduced overrepresentation of 10-to-19-student groups in the extremes of score distributions for every test-based indicator, with growth indicators becoming underrepresented](stabilization-reduces-small-group-extreme-overrepresentation.md) — related
+- [Stabilization reduced the inverse relationship between student group size and score variance for test-based indicators, especially for groups of 10 to 19 students](stabilization-reduces-group-size-variance-relationship.md) — related

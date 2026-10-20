@@ -47,3 +47,5 @@ Resilience and persistence under challenge theme from the workshop's thematic an
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — a broader claim this one bears on
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [Pursuing unrealistic goals can lead to discouragement and frustration, so goals should balance rigor with realism](unrealistic-goals-lead-discouragement.md) — related
+- [Instruction must be challenging for learning gains, but raising challenge without classroom control and student support harms grades and engagement](challenge-requires-control-and-support.md) — related
+- [The usefulness of the GAP depends on players being sufficiently challenged in the game](gap-usefulness-depends-on-challenge.md) — related

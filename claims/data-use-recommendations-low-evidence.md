@@ -47,3 +47,4 @@ The panel's synthesis of its literature search: of more than 490 citations, 64 u
 - [Implementing the guide's five recommendations together improves students' math achievement, while no component's isolated effectiveness was established](five-recommendations-together-improve-achievement.md) — reports the opposite
 - No rigorous causal studies of specific turnaround practices existed at the time of the guide — related
 - [No reviewed study directly compared developmental-progression-guided math instruction with instruction not guided by a progression](no-direct-evidence-developmental-progression-versus-unguided.md) — related
+- [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — related

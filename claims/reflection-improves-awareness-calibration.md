@@ -80,3 +80,6 @@ Directional signed-discrepancy analysis in the two AI-assisted conditions: "beha
 - [ChatGPT recommendation accuracy was comparable between the open-support and reflection conditions, ruling out unequal exposure to erroneous advice](comparable-chatgpt-recommendation-accuracy.md) — related
 - [A brief metacognitive reflection prompt reduces acceptance of incorrect AI advice compared with open ChatGPT support alone](reflection-reduces-incorrect-ai-advice-acceptance.md) — related
 - [Teachers' self-assessed reflection skill exceeds their externally assessed reflection level, with only a low correlation between the two](teacher-reflection-self-external-assessment-gap.md) — related
+- [Reflection produced selective rather than blanket rejection of AI: alignment with correct advice stayed high while alignment with incorrect advice dropped](reflection-selective-not-blanket-ai-rejection.md) — related
+- [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
+- [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related

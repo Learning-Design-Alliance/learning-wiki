@@ -46,3 +46,4 @@ The report's content comparison of five widely used observation instruments, usi
 - [The classroom management dimension is most consistently and strongly related to teachers' value-added scores across instruments, subjects, and grades](classroom-management-dimension-strongest-value-added-relationship.md) — related
 - [All seven dimensions of instructional practice with quantitative data are modestly but significantly related to teachers' value-added scores](observation-dimensions-modestly-significantly-related-to-value-added.md) — related
 - [Classroom student characteristics affect teacher observation results for some instruments, more often in English language arts than in math classes](student-characteristics-affect-observation-results-more-in-ela-than-math.md) — related
+- [TAILS dimensions show high internal consistency, with Cronbach's alpha values above 0.90](tails-high-internal-consistency.md) — related

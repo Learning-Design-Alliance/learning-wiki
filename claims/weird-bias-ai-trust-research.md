@@ -52,3 +52,4 @@ Across the 33-study corpus, population sizes ranged from n = 10 to n = 1,511 (me
 - [English dominates CA interaction languages: 17 of 23 prototypes relied exclusively on English even though only seven studies originated from English-speaking countries](english-dominance-ca-programming-prototypes.md) — a narrower finding that bears on this claim
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related
 - [The interleaving literature is dominated by laboratory studies of university undergraduates, with no included study using high-school participants](interleaving-literature-lab-undergraduate-dominance.md) — related
+- [Only 15% of published polygenic score estimates for education come from non-European ancestry samples, all recruited in the US](eurocentric-sample-base-pgs-education-research.md) — a narrower finding that bears on this claim

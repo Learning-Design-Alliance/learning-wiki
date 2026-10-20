@@ -47,3 +47,6 @@ The report's review of recent literature on equity-oriented principal preparatio
 - [Empathy interviews are among the most commonly discussed continuous improvement practices for advancing equity](empathy-interviews-central-equity-practice.md) — related
 - [Education leaders believe continuous improvement, when done well, can unearth issues of equity and reveal root causes of inequities in education systems](ci-done-well-unearths-equity-issues.md) — related
 - [More than two thirds of principals want equity-focused professional development, with significant differences by community type](principals-want-equity-pd-community-differences.md) — related
+- [Field-based internships and on-the-job coaching by expert principals are reported as principals' most valuable but least experienced learning opportunity](principal-internships-expert-coaching-value.md) — related
+- [State policy differences shape principals' access to high-quality learning: California principals report more access than national peers, North Carolina principals less](state-policy-shapes-principal-learning-access.md) — related
+- [Principals with access to high-quality professional learning opportunities are more likely to stay in the profession](principal-pd-linked-retention.md) — related

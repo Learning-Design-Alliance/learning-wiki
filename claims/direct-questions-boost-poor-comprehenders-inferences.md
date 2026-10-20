@@ -48,3 +48,7 @@ Descriptive analysis of total inferences made across initial questions, prompts,
 ## Related Claims
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
 - [Prompting underspecified responses improves children's performance on both local and global coherence inference questions at all ages](prompting-improves-inference-performance.md) — related
+- [Inference-making performance improves with age between 6 and 10 years, with children performing better on global than local coherence inference questions](developmental-improvements-local-global-coherence-inferences.md) — related
+- [Skilled comprehenders recall more literal story content than less skilled comprehenders, but the groups do not differ significantly in interpreting novel similes](literal-memory-difference-simile-null.md) — related
+- [Theory-guided five-step prompting of AI interaction improves open-ended explanation performance in construction education review, while unprompted AI access alone does not](structured-prompting-improves-open-ended-ai-learning.md) — related
+- [Low-skilled readers with strong background knowledge partially compensate for poor reading skill at the textbase level but not for inferencing](knowledge-compensates-textbase-not-inference.md) — related

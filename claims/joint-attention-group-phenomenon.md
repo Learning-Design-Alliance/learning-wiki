@@ -44,3 +44,7 @@ This is the editorial's theoretical argument, drawing on Tomasello's comparative
 
 ## Related Claims
 - [Multi-modal representations created during collaboration act as metaphors that shape joint reasoning and meaning making](multimodal-representations-as-metaphors-joint-reasoning.md) — related
+- [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
+- [Adaptive AI support directs regulatory activity toward monitoring while static AI support produces strategy-focused, procedural regulation](adaptive-ai-monitoring-static-strategy-networks.md) — related
+- [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
+- [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — related

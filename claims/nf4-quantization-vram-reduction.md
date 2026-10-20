@@ -45,3 +45,6 @@ Computational efficiency results (Section 5.2, Table 2) measured as steady-state
 - [The most energy-efficient tested configuration consumes 1.8 mWh per query, a 43.8% reduction relative to the Qwen-7B FP16 baseline](energy-efficient-configuration-1-8-mwh-per-query.md) — related
 - [Hallucination rate increases under 4-bit quantization and is substantially mitigated by quantization-aware fine-tuning](quantization-raises-hallucination-rate-finetuning-mitigates.md) — related
 - [Quantization-aware fine-tuning narrows the FP16-to-4-bit accuracy gap and partially recovers accuracy lost to standard 4-bit quantization](quantization-aware-finetuning-recovers-accuracy.md) — related
+- [A 4-bit quantized 27B local Teacher LLM generated knowledge in the required format, suggesting accessible-resource implementations may be feasible](quantized-local-teacher-llm-feasible.md) — related
+- [A complete four-skill open-model stack fits under 4 GB, runs at reading pace on the cheapest hardware by community measurements, and costs about one US cent of electricity per study hour](llmersion-feasibility-stack-pace-cost.md) — related
+- [Qwen 7B and Mistral Nemo 12B passed the classroom speed gate in round 2 and were retained as candidates pending faculty review](round2-candidates-pass-speed-gate.md) — related

@@ -52,3 +52,5 @@ Descriptive observation of group interaction noted high student interaction in b
 - [Students treated the genAI avatar as a sophisticated question base rather than a virtual patient, using predominantly closed-ended, efficiency-focused questioning](genai-avatar-treated-as-question-base.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related
 - [GenAI tutorials took longer than ePBLM tutorials, with approximately 10 additional minutes spent on history-taking](genai-history-taking-longer-tutorial-time.md) — related
+- [The genAI-enabled patient presented pertinent positive findings consistently with the ePBLM but deviated on non-essential content](genai-accurate-pertinent-findings-nonessential-deviations.md) — related
+- [Patient history recall was near ceiling in both conditions, with significant decline over two weeks but no difference between genAI and ePBLM conditions](genai-recall-near-ceiling-no-condition-difference.md) — related

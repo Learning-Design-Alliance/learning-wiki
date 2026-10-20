@@ -48,3 +48,4 @@ Systematic search and screening results of this Campbell review: 919 citations r
 - [TFA teachers show no discernible effects on social studies achievement, based on one study](tfa-no-discernible-social-studies-effects.md) — related
 - [TFA teachers show potentially positive effects on science achievement, based on one study](tfa-potentially-positive-science-effects.md) — related
 - [TFA teachers show no discernible effects on English language arts achievement for students in grades pre-K-12](tfa-no-discernible-ela-effects.md) — related
+- [Alternative routes to teaching were promoted in the past decade because of concerns about teacher shortages and teacher quality](alternative-routes-promoted-shortage-quality-concerns.md) — related

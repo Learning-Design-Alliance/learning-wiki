@@ -43,4 +43,4 @@ In his editorial summary, Stahl reports Arvaja's case study showing students mad
 
 
 ## Related Claims
--
+- [Co-construction of shared understanding needed to be accompanied by students' personal construction and sense making for conceptual change to be stable over time](personal-construction-required-stable-conceptual-change.md) — related

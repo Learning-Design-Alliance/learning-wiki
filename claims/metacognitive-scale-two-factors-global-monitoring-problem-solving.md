@@ -46,3 +46,4 @@ Factor analyses of the metacognitive inventory completed by the 219 students aft
 - [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](metacognitive-regulation-digital-text-comprehension-elearning.md) — related
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related
 - [Metacognitive awareness among multidisciplinary university students emerges as two dimensions: knowledge about cognition and regulation of cognition](two-dimensions-metacognitive-awareness-university-students.md) — related
+- [A task-specific multiple-text strategy inventory yields two correlated strategy dimensions: cross-text elaboration and accumulation of information](mtsi-two-factor-strategy-dimensions.md) — related

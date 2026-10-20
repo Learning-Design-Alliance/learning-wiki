@@ -61,3 +61,7 @@ Publication-bias assessment of the 15 included studies using a funnel plot and E
 - [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — reports the opposite
+- [Most study, measurement, and intervention moderators did not explain significant variance in SRL intervention effect sizes](srl-intervention-moderators-most-nonsignificant.md) — related
+- [Regulation-of-learning interventions in programming education show an average effect of 0.59 on programming learning](regulation-interventions-programming-average-effect.md) — related

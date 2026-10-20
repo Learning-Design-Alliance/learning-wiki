@@ -66,3 +66,4 @@ The review reports Ofem et al.'s (2025) structural equation modelling of 4,679 N
 - [The article interprets the ethics gap as students viewing ethics through coursework practices and instructors treating it as an integrity question shaped by lack of institutional clarity](ethics-gap-coursework-versus-institutional-clarity-interpretation.md) — related
 - [University students' engagement with AI tools tends to cluster at two extremes: avoidance and uncritical use](student-ai-engagement-clusters-two-extremes.md) — related
 - Research on student voices on academic integrity in GenAI use is nascent and methodologically immature, with most instruments self-developed and all reviewed studies cross-sectional — related
+- [AI adoption in higher education appears to progress faster than institutional policies, ethical frameworks, and governance structures, creating a policy–practice gap](ai-adoption-outpaces-governance-policy-practice-gap.md) — related

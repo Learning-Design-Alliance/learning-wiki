@@ -47,3 +47,4 @@ Same randomized field experiment; within-question linear regression with homewor
 - [AI-assisted feedback drafts increase discretionary feedback provision by TAs by 10.81 percentage points](ai-drafts-increase-discretionary-feedback-provision.md) — related
 - [AI-assisted feedback drafts do not reduce TAs' time spent per character of feedback](ai-drafts-no-reduction-time-per-character.md) — related
 - [Draft usefulness varies by grading context: higher for submissions with mistakes and applied questions](draft-usefulness-varies-by-grading-context.md) — related
+- [TAs adapt rather than copy AI feedback drafts, with moderate draft–final overlap (ROUGE-L F1 = 0.60)](tas-adapt-rather-than-copy-ai-drafts.md) — related

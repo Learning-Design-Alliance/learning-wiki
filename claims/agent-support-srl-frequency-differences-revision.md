@@ -46,3 +46,4 @@ Kruskal-Wallis comparison of trace-parsed SRL process frequencies between treatm
 - [Checklist tool use significantly increases Evaluation processes, an effect not observed in the ChatGPT and human-expert groups](checklist-tools-increase-evaluation-processes.md) — related
 - [Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation](chatgpt-process-map-loop-metacognitive-disengagement.md) — related
 - [The ChatGPT group achieves significantly greater essay score improvement than the other three groups](chatgpt-greater-essay-score-improvement.md) — related
+- [Learners supported by ChatGPT, a human expert, checklist tools, or no support show no significant difference in post-task intrinsic motivation](genai-support-no-intrinsic-motivation-difference.md) — related

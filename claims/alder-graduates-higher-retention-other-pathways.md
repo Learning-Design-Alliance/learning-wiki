@@ -47,3 +47,5 @@ Program-reported comparison of retention in partner LEAs as of 2023, contrasting
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — related
 - [Residency-prepared teachers remain in teaching and in their districts at higher rates than other novice teachers, typically 80–95% after 3 years](residency-graduates-higher-retention.md) — related
 - [Kern Urban Teacher Residency graduates are retained at high rates in the partner district, with 92% of its 114 graduates continuing to work in BCSD](kern-urban-92-percent-retention-bcsd.md) — related
+- [Most Alder graduates are hired as full-time teachers and are rated more effective than other first-year teachers by their school leaders](alder-graduates-hiring-effectiveness-ratings.md) — related
+- [Most residents from the first TRGP cohort were still teaching three years later](trgp-residents-retained-88-percent.md) — related

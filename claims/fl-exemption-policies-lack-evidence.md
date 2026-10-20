@@ -44,3 +44,9 @@ Theoretical argument in the introduction: the review reports, citing Wight (2015
 
 ## Related Claims
 - [Significant between-study heterogeneity limits interpretation of foreign language attainment differences in poor readers/spellers](heterogeneity-limits-fl-attainment-interpretation.md) — related
+- [Children/adolescents with poor literacy skills show similar average foreign language receptive vocabulary knowledge to peers with typical literacy skills](poor-literacy-similar-fl-receptive-vocabulary.md) — related
+- [Children/adolescents with poor literacy skills score poorer on foreign language phonological awareness, letter knowledge, and reading comprehension than peers with typical literacy skills](poor-literacy-lower-fl-phonological-awareness-letter-knowledge-reading-comprehension.md) — related
+- [Foreign language reading comprehension performance varies to a similar extent in poor and typical literacy groups](similar-variability-fl-reading-comprehension.md) — related
+- [Language pairing, onset age of instruction, and age of assessment showed no significant impact on foreign language word reading group differences](no-moderator-effects-fl-word-reading.md) — related
+- [Poor readers/spellers vary significantly more than controls in foreign language phonological awareness performance](poor-literacy-more-variable-fl-phonological-awareness.md) — related
+- [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related

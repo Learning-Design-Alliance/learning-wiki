@@ -47,3 +47,5 @@ Focus-group finding across all six groups. One teacher reported that despite a s
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related
 - [Educators' knowledge of students' family and community contexts, including shared language and cultural background, helped schools reach and be reached by families](family-community-knowledge-reach-families.md) — related
 - [Metacognitive prompts during collaboration improve communication of knowledge and its underlying assumptions](metacognitive-prompts-improve-collaborative-communication.md) — related
+- [Mobile apps increased timely, direct communication between parents and educators during remote schooling](mobile-apps-timely-parent-teacher-communication.md) — related
+- [Schools enlisted all staff, including non-instructional staff, as communication resources, opening additional school-family channels](all-staff-family-communication-channels.md) — related

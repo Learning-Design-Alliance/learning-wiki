@@ -44,3 +44,6 @@ Partial correlations between phonological composites and retrieval frequency in 
 
 ## Related Claims
 - [Phonological short-term memory (nonword repetition) shows a modest unique contribution to multiplication fact performance, while phonological awareness shows no relation](phonological-memory-modest-multiplication-contribution.md) — reports the opposite
+- [The association between phonological awareness and fact retrieval is prominent in multiplication but largely absent in subtraction at the subgroup level](phonological-awareness-multiplication-not-subtraction.md) — related
+- [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md) — related
+- [Adults use a mix of retrieval and procedural strategies in single-digit arithmetic, with retrieval more frequent in multiplication and procedures more frequent in subtraction](adult-strategy-mix-retrieval-more-in-multiplication.md) — related

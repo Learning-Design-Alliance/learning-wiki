@@ -64,3 +64,5 @@ Benchmark comparison (RQ1) on EdNet, whose design "enforces a mandatory 'bundle'
 ## Related Claims
 - [TSDR is robust to the smoothness coefficient, with a stable sweet spot for lambda in (0.3, 1.0)](tsdr-lambda-sweet-spot-robustness.md) — related
 - [Under controlled synthetic MNAR bias, TSDR-equipped models improve across the entire bias spectrum, with the RMSE advantage diminishing beyond gamma > 0.8](tsdr-robust-across-mnar-spectrum.md) — related
+- [TSDR improves the AUC of six state-of-the-art KT backbones across nine real-world benchmark datasets](tsdr-improves-kt-backbone-auc-benchmarks.md) — a broader claim this one bears on
+- [TSDR consistently improves calibration (ACC and RMSE) even on datasets where AUC gains plateau](tsdr-improves-calibration-acc-rmse.md) — related

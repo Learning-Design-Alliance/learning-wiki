@@ -43,3 +43,6 @@ This is a descriptive statement from the report's Figure 2 discussion of variati
 ## Related Claims
 - [PETs trade utility for privacy, limiting use where accuracy is mandated](pets-utility-privacy-tradeoff.md) — a broader claim this one bears on
 - [Educators rate student data privacy as very or extremely important, but K-12 educators largely remain unaware of the privacy measures DLP research takes](k12-unaware-dlp-privacy-measures.md) — related
+- [Working a research scenario against a DLP surfaced concrete platform needs: adding measures, linking observational data, and enabling districtwide studies](scenario-terracotta-platform-capability-lessons.md) — related
+- [SEERNet's five DLPs each have more than 100,000 regular users, which the network cites as grounding research in practice](seernet-dlps-over-100000-regular-users.md) — related
+- [PETs expand the value of data by enabling sharing where in-the-clear approaches are infeasible](pets-expand-data-value-through-sharing.md) — related

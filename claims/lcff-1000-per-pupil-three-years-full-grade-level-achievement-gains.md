@@ -68,3 +68,7 @@ Same quasi-experimental spending analysis, reading outcome (Figure 10); printed 
 - [Spending effects varied across schools but were positive for every school that experienced the LCFF funding infusion](lcff-spending-effects-positive-for-every-school-despite-heterogeneity.md) — related
 - [LCFF-induced spending increases reduced suspensions and expulsions, with larger effects for boys and the most pronounced effects for Black students](lcff-spending-reduces-suspension-expulsion-disparities.md) — related
 - Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children — related
+- [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md) — related
+- [Per-pupil spending on English Learners in California was only about $1,000 more than for non–English Learner peers in recent years](california-el-spending-gap-about-1000-per-pupil.md) — related
+- [LCFF-induced spending increases reduced the probability of grade repetition, particularly in elementary school](lcff-spending-reduces-grade-repetition-elementary.md) — related
+- [Increased per-pupil spending across all 12 years of public school is associated with more completed education, higher wages, and reduced adult poverty, with larger effects for low-income children](per-pupil-spending-long-term-outcomes.md) — a broader claim this one bears on

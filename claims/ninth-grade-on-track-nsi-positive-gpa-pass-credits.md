@@ -82,3 +82,4 @@ Quasi-experimental comparison of students in 9th-grade on-track NSI schools to s
 - [Bronxdale students outperformed comparison-group, borough, and city high schools on graduation rates and on-track credit indicators in 2017–18](bronxdale-outperformed-comparisons-graduation-on-track.md) — related
 - [Students' attendance and middle grades on-track rates in Success schools improved during the first two program years, especially in Year 2](success-project-attendance-ontrack-improved.md) — related
 - [Success schools' student GPAs did not show much improvement in the first two years](success-project-gpas-little-improvement.md) — related
+- [Six of seven recently reformed high schools showed first-year on-track improvements above comparison schools, though evidence is limited](recent-high-school-turnarounds-on-track-improvement.md) — related

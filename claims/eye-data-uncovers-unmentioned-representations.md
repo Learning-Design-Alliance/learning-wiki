@@ -68,3 +68,4 @@ Figure 4 analysis of mean viewing times on Question #4 trials grouped by protoco
 - [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related
 - [Eye transition data showed students made saccades between representations, indicating attempts to relate and integrate information rather than relying only on the model](eye-transitions-between-representations.md) — related
 - [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md)
+- [Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related

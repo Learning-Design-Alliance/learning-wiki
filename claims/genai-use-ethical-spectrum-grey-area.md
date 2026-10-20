@@ -47,3 +47,5 @@ The review's thematic synthesis of multiple reviewed studies reports that "using
 - [Students identify navigating ethical and legal dimensions of GenAI as a third priority area for curriculum development](genai-ethical-legal-dimensions-priority.md) — related
 - [Students distinguish learning-support GenAI uses from substitutionary uses, with uncertainty highest for minimally modified AI content](learning-support-versus-substitutionary-genai-judgment.md) — a narrower finding that bears on this claim
 - Evaluators view GenAI use in story writing as broadly acceptable but reject unacknowledged use and demand compensation for source creators — a narrower finding that bears on this claim
+- [Design students' GenAI use concentrates on research, writing and brainstorming tasks, with low use for image, media and code generation](genai-use-concentrated-research-writing-brainstorming.md) — related
+- [Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct](students-mixed-views-genai-plagiarism.md) — related

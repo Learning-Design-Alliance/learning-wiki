@@ -47,3 +47,4 @@ fMRI study comparing adults with developmental dyscalculia and controls while th
 - [Serial order short-term memory deficits in dyscalculia persist into adulthood despite typical math achievement history](serial-order-deficit-persists-adulthood-dyscalculia.md) — related
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
 - [Neuroimaging shows adults with DD exhibit stronger frontal activations during number semantics, reduced right parietal grey matter, and altered functional connectivity during non-symbolic magnitude comparison](dd-adults-neuroimaging-frontal-parietal-abnormalities.md) — related
+- [Developmental dyscalculia persists into adulthood when untreated, affecting 5–7% of the general population](dd-persists-into-adulthood-untreated.md) — related

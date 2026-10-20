@@ -51,3 +51,5 @@ Figure 2 analysis of AI-consistent final responses by advice correctness and tas
 - [AI assistance can inflate confidence even after errors and reduce accuracy when AI is faulty (cognitive surrender)](cognitive-surrender-inflates-confidence-after-errors.md) — a broader claim this one bears on
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Students frequently accepted misleading AI recommendations (overreliance) while rarely rejecting correct ones (underreliance)](overreliance-frequent-underreliance-rare.md) — related
+- [Trust and reliance can diverge, and self-reported reliance measures cannot classify calibration without output-quality ground truth](trust-reliance-divergence-measures-not-calibrated.md) — related
+- [Similarity between AI and peer feedback reassured students and increased their confidence in peer response](similarity-between-ai-and-peer-feedback-reassuring.md) — related

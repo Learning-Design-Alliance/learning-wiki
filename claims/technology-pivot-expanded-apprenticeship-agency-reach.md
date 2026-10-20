@@ -47,3 +47,4 @@ Qualitative findings from virtual discussion groups with apprenticeship administ
 - [Apprenticeship expansion into nontraditional industries such as healthcare and education accelerated during the pandemic](nontraditional-industry-expansion-accelerated.md) — related
 - [Training providers and instructors faced logistical challenges moving in-person apprenticeship training online but adapted quickly](providers-adapted-in-person-training-online.md) — related
 - [Online apprenticeship learning offers greater flexibility than in-person learning despite implementation challenges for hybrid or remote options](online-apprenticeship-learning-flexibility-tradeoffs.md) — related
+- [The study treats data infrastructure and performance measurement as a dimension of state apprenticeship expansion and success](data-infrastructure-performance-measurement-dimension.md) — related

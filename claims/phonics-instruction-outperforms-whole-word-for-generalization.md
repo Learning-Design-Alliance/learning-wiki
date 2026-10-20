@@ -160,3 +160,5 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](prior-adolescent-reading-reviews-wide-effect-range.md) — related
 - [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
 - [Children recognise the orthographic form of a pseudoword more often when its entire letter string was available at once during reading.](whole-word-presentation-improves-orthographic-learning.md) — related
+- [Early synthetic phonics teaching that emphasises blending letter sounds showed no evidence of impairing reading of irregular words](synthetic-phonics-no-irregular-word-impairment.md) — a narrower finding that bears on this claim
+- [Phonics/word study occupied the largest share of observed resource-room reading instruction (32%) at high-average quality, but a quarter was rated weak](word-study-largest-component-high-average-quality.md) — a narrower finding that bears on this claim

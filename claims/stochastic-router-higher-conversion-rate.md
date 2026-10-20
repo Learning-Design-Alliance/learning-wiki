@@ -46,3 +46,4 @@ Live A/B test (N=656 sessions, 359 Dutch high-school students) comparing convers
 - [Higher AI pedagogical scores are associated with exercise conversion in real student sessions](pedagogical-score-predicts-exercise-conversion.md) — related
 - [In simulation, an adaptive prompt router outperforms two static prompt baselines on pedagogical score across 390 scenarios](prompt-router-beats-static-baselines-simulation.md) — related
 - [The adaptive router reduces turns in long conversations (turns≥5) but not across the unfiltered dataset](router-reduces-turns-long-conversations.md) — related
+- [Live feedback shifts the router's strategy from the Feynman prompt favored in simulation to the scaffolding Coach prompt, with superior live performance](sim-to-real-strategy-shift-feynman-to-coach.md) — related

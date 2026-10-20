@@ -46,3 +46,5 @@ The review reports this from the same observational analysis of Wikipedia edit h
 - [Wikipedia contributors show confirmation bias by preferentially editing articles consistent with their own views](wikipedia-contributors-confirmation-bias-editing.md) — related
 - [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md) — related
 - [Three big data methods—text classification, cluster analysis, and social network analysis—can each yield insights into learning in mass collaboration](three-big-data-methods-insights-mass-collaboration.md) — a broader claim this one bears on
+- [Wiki pages produced by many anonymous edits exhibit group-generated meaning not attributable to any individual contributor](wiki-page-group-generated-meaning-unplanned-edits.md) — related
+- [Politically charged framing (gun control ban) makes responses to the same data politically polarized and less accurate](gun-control-framing-polarizes-and-reduces-accuracy.md) — related

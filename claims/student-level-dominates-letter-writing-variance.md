@@ -45,3 +45,5 @@ Explanatory item response modeling of letter-writing responses from 415 preschoo
 ## Related Claims
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related
 - [Preschoolers' writing and writing-related skills increase significantly between ages 3 and 5 on letter, name, and CVC word tasks](preschool-writing-skills-increase-age-3-to-5.md) — related
+- [Letter-name knowledge strongly predicts correct letter writing, especially for 4- and 5-year-olds](letter-name-knowledge-predicts-letter-writing.md) — related
+- [The first letter of the child's name was the only letter-level factor consistently associated with correct letter writing](first-letter-of-name-advantage-letter-writing.md) — related

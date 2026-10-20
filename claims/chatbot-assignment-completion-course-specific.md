@@ -52,3 +52,5 @@ ITT analysis of course deliverables in Microeconomics (Table 6) and Government (
 - [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related
 - Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA — related
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related
+- [Chatbot outreach produced no spillover effects on other-course performance or medium-term effects on subsequent enrollment](chatbot-no-spillover-medium-term-effects.md) — related
+- [A strategic resource-use exam playbook intervention raised final course grades in introductory statistics across two randomized cohorts, with a dosage effect for completing it twice](exam-playbook-strategic-resource-use-raises-statistics-grades.md) — related

@@ -62,4 +62,8 @@ Authors' discussion statement (interpretation) quantifying the re-elaboration co
 
 
 ## Related Claims
--
+- [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](summary-writing-more-utterances-more-off-analysis.md) — related
+- [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
+- [Students collaborating on a semiempty concept map engage more in causal explanation and argumentation, while summary-writing dyads engage more in contextualization](semiempty-concept-mapping-more-causal-explanation-argumentation.md) — related
+- [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](concept-mapping-more-historical-metahistorical-concepts.md) — related
+- [Middle episodes of wiki text generation show a cumulative orientation, later with co-construction, in which students expand and re-elaborate each other's ideas](cumulative-co-constructive-text-generation.md) — related

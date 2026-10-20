@@ -66,3 +66,4 @@ The warmth questionnaire item about concern for well-being was also rated signif
 ## Related Claims
 - Students' beliefs about the cognitive, motivational and affective dimensions of their teacher's functioning load on a single factor — related
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) — related
+- [The mindfulness interventions did not significantly change anticipatory or executive state-MA relative to cognitive support alone](no-condition-difference-state-ma.md) — related

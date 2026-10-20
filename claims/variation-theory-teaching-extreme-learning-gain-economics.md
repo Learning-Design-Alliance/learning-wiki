@@ -45,3 +45,4 @@ Comparison study: one group of experienced secondary teachers planned and taught
 ## Related Claims
 - [Well-structured collaborative learning is extremely effective, especially for learning concepts and complex problem solving](well-structured-collaborative-learning-effective.md) — related
 - [Learning outcomes are better under conditions of variation consistent with the variation-theory conjecture than under conditions not consistent with it](variation-consistent-conditions-support-conjecture.md) — possibly the same claim (merge candidate)
+- [Primary four students taught with a variation-theory-designed lesson were far more likely to give a correct, properly explained answer about 'equal shares' in fractions than comparison-group students](variation-theory-fraction-lesson-outperforms-comparison.md) — related

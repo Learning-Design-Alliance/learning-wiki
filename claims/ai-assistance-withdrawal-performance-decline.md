@@ -49,3 +49,5 @@ The paper attributes to Darvishi et al. the finding that "When AI assistance is 
 - [Scaffolding improves learning](scaffolding-improves-learning.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [A contingent AI tutor places metacognitive demand equal to a question-only tutor and higher than an answer-on-request assistant](contingent-tutor-metacognitive-demand-matches-withholding-tutor.md) — related
+- [Product-outcome studies report GenAI-related gains on product-quality measures but do not assess durable, transferable learning](genai-product-outcome-gains-superficial.md) — related
+- [Learners often fail to regulate their own learning in computer-based learning environments](learners-fail-self-regulation-in-cbles.md) — a broader claim this one bears on

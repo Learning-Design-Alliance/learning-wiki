@@ -47,3 +47,7 @@ Cross-sectional survey of 127 faculty at a large Southern U.S. public research u
 - [Self-perceived TPACK-21 domain scores do not differ significantly by faculty age group or appointment type](no-age-or-career-type-differences-tpack-genai.md) — related
 - The three technology-integrated TPACK domains intercorrelate so strongly (r = .81–.91) that they may function as a single factor in this faculty population — related
 - [University students report a generally good understanding of GenAI technologies, with highest self-rated knowledge of limitations and lowest for emotional-intelligence limits](students-good-understanding-genai-limitations.md) — related
+- [Male faculty report modestly higher self-perceived GenAI knowledge than female faculty in TK and TPK, with small effect sizes](gender-differences-technological-genai-knowledge-small-effects.md) — related
+- [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — related
+- [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
+- [Chinese MTES show medium-level AI-TPACK overall, with AI-TK the lowest-scoring component and teaching beliefs the highest, indicating a basic, preliminary stage](mtes-aick-tk-lowest-medium-level-basic-stage.md) — related

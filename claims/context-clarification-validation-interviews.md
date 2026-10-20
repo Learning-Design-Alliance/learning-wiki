@@ -46,3 +46,4 @@ Finding from the 42 student validation interviews described in the design and va
 
 - [E-CLASS statements were validated through 42 student interviews and expert responses from 23 faculty and instructors](eclass-validated-interviews-experts.md) — related
 - [Students show a large epistemological split between classroom and research contexts on thinking up their own questions](eclass-epistemological-split-own-questions.md)
+- [Asking questions is a valued scientific practice: all 23 experts agreed it is a key aspect of scientific research](asking-questions-key-scientific-practice-expert-consensus.md) — related

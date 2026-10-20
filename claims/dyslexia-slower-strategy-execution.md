@@ -47,3 +47,5 @@ Strategy-efficiency ANOVA (2 operations × 2 strategies × 2 groups) on reaction
 - [Adults with developmental dyslexia are slower than controls at speeded digit identification](dyslexia-slower-digit-identification.md)
 - [Adults with developmental dyslexia use arithmetic fact retrieval less frequently than matched controls during single-digit multiplication and subtraction](dyslexia-reduced-arithmetic-fact-retrieval-frequency.md)
 - [Adults use a mix of retrieval and procedural strategies in single-digit arithmetic, with retrieval more frequent in multiplication and procedures more frequent in subtraction](adult-strategy-mix-retrieval-more-in-multiplication.md)
+- [Adults with dyslexia are slower than controls on single-digit arithmetic, with a larger multiplication-minus-subtraction reaction-time difference, even after controlling digit identification speed](dyslexia-slower-single-digit-arithmetic-rt.md) — related
+- [Adults with DD rely on time-consuming back-up strategies like finger usage for single-digit arithmetic, with prolonged response latencies that appear number-specific](dd-adults-backup-strategies-prolonged-latencies.md) — related

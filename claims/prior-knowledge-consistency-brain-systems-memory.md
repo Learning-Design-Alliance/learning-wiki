@@ -45,3 +45,4 @@ Review article (Shing & Brod) on effects of prior knowledge on memory, as summar
 ## Related Claims
 - [Executive-function brain circuitry takes more than twenty years to fully mature, leaving school-age youth with underdeveloped long-run decision systems](executive-function-maturation-over-twenty-years.md) — related
 - [During early and mid-adolescence, brain reward and emotion systems are more developed than cognitive control systems, leaving self-regulation developmentally out of balance](adolescent-brain-imbalance-reward-versus-control.md) — related
+- [Neural variability and flexibility may underlie cognitive flexibility, with an optimal level required across the lifespan](neural-flexibility-supports-cognitive-flexibility.md) — related

@@ -43,4 +43,11 @@ Qualitative video-based analysis of 350 min of transcribed video from two studen
 
 
 ## Related Claims
--
+- [Cumulative, disputational, and exploratory talk types together mediated students' enactment of makerspace knowledge practices](talk-types-mediate-makerspace-knowledge-practices.md) — a narrower finding that bears on this claim
+- [Students in a school-based makerspace enact four intertwined multimodal knowledge practices combining embodied action, talk, space and artifact use](four-multimodal-knowledge-practices-makerspace.md) — a narrower finding that bears on this claim
+- [An adjacent corridor served as an improvised spatial expansion of the makerspace mediating students' knowledge practices](corridor-improvised-spatial-expansion-makerspace.md) — a narrower finding that bears on this claim
+- [Video dataset of 111 hours across one year underpins a 350-minute two-group episode analysis](makerspace-video-dataset-111hours-350min.md) — related
+- [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
+- [Material arrangement of artifacts (strips centered and ordered by length, worksheets held close) affords and stabilizes the initial pattern of activity; later decentralization enables new patterns](material-arrangement-affords-stability.md) — a narrower finding that bears on this claim
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — a narrower finding that bears on this claim
+- [Episodes of off-task play with maker materials caused temporal fragmentation of groups' joint attention on the learning challenge](temporal-fragmentation-joint-attention-makerspace.md) — related

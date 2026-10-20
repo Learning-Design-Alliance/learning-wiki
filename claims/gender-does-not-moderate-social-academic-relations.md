@@ -52,3 +52,5 @@ Nine HLM interaction analyses regressing each academic outcome onto one social p
 - [Fitness–attention relationships are stronger in boys than girls, with higher explained variance in boys' regression models](gender-moderates-fitness-attention-links.md) — related
 - [Gender, achievement-measure objectivity, and education stage did not moderate the burnout–achievement relationship](no-moderation-gender-objectivity-stage.md)
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — related
+- [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — related
+- [Gender was not significantly correlated with social–emotional competence in this sample, though it functioned as a moderator](no-zero-order-gender-difference-in-preschoolers-social-emotional-competence.md) — related

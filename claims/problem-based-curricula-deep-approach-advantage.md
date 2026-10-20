@@ -64,3 +64,4 @@ The commentary reports Prosser and Sze's (2014) finding that medical students wh
 ## Related Claims
 - [Cognitive-only coaching increased deep and achieving learning approaches, academic self-concept, and reduced test anxiety and anxiety/depression, but academic performance declined relative to control; behavioural-only coaching decreased test anxiety and increased academic performance with no other effects.](cognitive-versus-behavioural-coaching-differential-effects.md) — related
 - [Statistically significant differences in approaches to learning can constitute small effects of little theoretical or practical importance](significant-differences-small-effects-approaches.md) — related
+- [Teachers' tested routines tended to focus on Justify in year one and most switched to a different deep-engagement area, most often Justify to Solve, in year two](routines-focused-justify-then-switch-dea.md) — related

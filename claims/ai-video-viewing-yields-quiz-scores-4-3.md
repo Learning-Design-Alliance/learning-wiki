@@ -49,3 +49,4 @@ Post-survey knowledge test with five multiple-choice questions on video content,
 - [Students oppose preferring AI videos over instructor-recorded videos and distrust AI video information as much as human-presented information](students-oppose-ai-videos-replacing-instructors.md) — related
 - [Student ratings of the AI-generated materials ranged from an average of 8.5 to 9.9 out of 10 across validated modules, based on over 600 voluntary anonymous evaluations.](student-ratings-8-5-to-9-9-generated-materials.md) — related
 - [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related
+- [After hands-on use, 96% of students wanted AIDA in their studies, with the quiz function the most liked feature](aida-post-use-96-percent-quiz-most-liked.md) — related

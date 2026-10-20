@@ -47,3 +47,7 @@ Delphi consensus finding from Phase 1 open-ended responses of a 35-member intern
 - [Associate deans report that neither their institution nor their units have implemented official AI policies, prompting localized unit-level guidelines](associate-deans-report-no-official-ai-policies-localized-guidelines.md) — related
 - [Most surveyed college leaders report written GenAI responsible-use policies, but decision-making is largely left to educators](majority-college-leaders-written-genai-policies.md) — related
 - [Institutions have expanded student access to generative AI tools faster than they have developed policies, guidance, and shared learning goals for their use](ai-access-outpaced-guidance.md) — related
+- [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related
+- [Equitable access emerged as a prominent governance theme, with one-third of panelists explicitly mentioning equity or inclusion](genai-equitable-access-governance-theme.md) — related
+- [Academic integrity was the panel's most frequently cited GenAI policy concern, requiring clear definitions of misconduct and enforceable consequences](academic-integrity-paramount-genai-policy-concern.md) — related
+- [Panelists strongly agreed human oversight must remain central in academic decisions involving GenAI, with clear accountability assignments](human-oversight-central-genai-academic-decisions.md) — related

@@ -46,3 +46,5 @@ The Perspective reports, citing a study of children that measured stress and vid
 - [Early life stress produces structural and functional alterations in prefrontal-hippocampal-amygdala circuits in animals and humans, with reduced hippocampal volume among the most reliable human findings](els-pfc-hippocampus-amygdala-alterations.md) — related
 - [Chronicity, developmental timing, and intensity of adversity exposure shape children's neurobiological stress responses](adversity-timing-intensity-shape-responses.md) — related
 - [Parental presence and support buffer children's neurobiological stress responses, mitigating adversity effects when support is high](parental-presence-support-buffers-stress.md) — related
+- [Children's perception and interpretation of stressors, rather than event type alone, shapes neurobiological stress responses](perception-interpretation-shapes-stress-response.md) — related
+- [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — related

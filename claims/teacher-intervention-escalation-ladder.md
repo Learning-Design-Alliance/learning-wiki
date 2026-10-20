@@ -46,3 +46,4 @@ Qualitative interview finding (RQ2). Proactive teaching belonged almost entirely
 - [Developing curricular design knowledge enables small-scale responsive adaptations within a structured curriculum](curricular-knowledge-enables-responsive-instructional-moves.md) — related
 - [After formative intervention, the teacher's presentations shifted from instruction-only moves to including generative, confirming, reconstructing, and reorienting moves](epistemological-moves-shift-after-intervention.md) — related
 - [Reactive FOF is more time-consuming than proactive FOF, reducing opportunities to elaborate on preselected grammar points](reactive-fof-time-cost-fewer-opportunities.md) — related
+- [Teachers draw intervention boundaries by visibility, academic-versus-relational character, and a safety override, not by perceived harm](teachers-jurisdiction-tests-visibility-academic-safety.md) — related

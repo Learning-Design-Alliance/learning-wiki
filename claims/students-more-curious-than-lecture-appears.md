@@ -51,3 +51,6 @@ Observational classroom study in a junior-level electromagnetics engineering phy
 - [The category distribution of student questions varies substantially across different simulations](simulation-content-shifts-curiosity-categories.md) — related
 - [Anonymous real-time sharing of student responses mitigates evaluation apprehension while preserving individual accountability (authors' account)](anonymity-mitigates-evaluation-apprehension.md) — related
 - [Most students submitted JoLs out of curiosity about the system rating, often without attending to the LA graphs, and reported behaviour change more from JoL than from the agent](self-reported-jol-motivation-and-behaviour-change.md) — related
+- [Commognitive analysis of lecturing offers micro-level insights into lecturer-student communication that non-commognitive approaches miss](commognition-offers-micro-level-insights-into-lecturing.md) — related
+- [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — a broader claim this one bears on
+- [Without feedback, people are more curious about high-confidence errors than about equally high-confidence correct answers, replicated across experiments](no-feedback-high-confidence-errors-more-curiosity.md) — related

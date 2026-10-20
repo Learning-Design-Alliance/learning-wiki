@@ -51,3 +51,4 @@ Case study of user-study participants' behavioral patterns. Beginners (P4, P8-10
 - Khanmigo does not support learner fit: its language and topics may be too advanced for beginner-level learners — related
 - Khanmigo partially supports the meaning focus criterion: two-way meaning-oriented interactions exist, but cognitive complexity can be problematic for beginners — related
 - [SupplyNet fostered a reciprocal relationship between engagement and learning support operating through two pathways: engagement leading to learning and learning itself becoming engaging.](reciprocal-engagement-learning-dual-pathway.md) — related
+- [SupplyNet was rated significantly higher than the Beer Game baseline on learning support (p<0.01), including connecting decisions to performance.](supplynet-higher-learning-support-than-baseline.md) — related

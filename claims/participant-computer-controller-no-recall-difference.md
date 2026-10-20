@@ -47,3 +47,4 @@ Controller comparison within the skipping-permitted condition of the fixed-time 
 - [Participants' feedback-skipping decisions diverge from the optimal computer algorithm: they skip after some incorrect responses and fail to skip after many correct responses](skipping-decisions-diverge-from-computer.md) — related
 - [Permitting feedback skipping increases the number of retrieval attempts completed within a fixed learning time](skipping-permits-more-retrieval-attempts.md) — related
 - [Participants' willingness to skip feedback after correct responses increases substantially across retrieval-practice cycles](skipping-after-correct-increases-across-cycles.md) — related
+- [Learners' self-assessments of response correctness are imperfect, with asymmetric error rates for incorrect and correct responses](imperfect-correctness-self-assessment.md) — related

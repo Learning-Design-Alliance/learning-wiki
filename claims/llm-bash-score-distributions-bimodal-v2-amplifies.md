@@ -48,3 +48,5 @@ Descriptive distribution analysis of the four LLMs' grades under both prompt var
 - [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric baseline, with model-specific gaps at particular taxonomy levels](rubric-prompting-raises-llm-assigned-scores.md) — related
 - [All four LLMs award a smaller share of available marks as bash question cognitive complexity increases, with L4 questions receiving the lowest proportions](llm-scores-decline-with-cogtax-level.md) — related
 - [Despite generally accurate feedback, the LLM's scoring explanations could be unpredictable and prone to logical inconsistency, failing to award points even when citing the correct rubric directive](llm-logical-inconsistency-scoring-feedback.md) — related
+- [Frontier LLMs produced near-perfect solutions to CS1 labs, with mean hidden-instructor-test scores of 98.93–99.99% across model–year combinations](llm-near-perfect-cs1-lab-solutions.md) — related
+- [Average H-scores rose from near-zero in pre-LLM offerings to 11.9 in Spring 2026, with maximum scores reaching 81](h-score-distributions-rose-over-time.md) — related

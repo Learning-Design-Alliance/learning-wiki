@@ -53,3 +53,4 @@ Randomized controlled trial of 41 low-income three- to five-year-olds in a Talla
 - [DaisyQuest has positive effects on alphabetics skills in beginning readers, per WWC synthesis of four randomized controlled trials](daisyquest-positive-effects-alphabetics.md) — related
 - [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — a broader claim this one bears on
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
+- [DaisyQuest matched teacher-delivered phonological awareness instruction but beat other instructional software in low-progress readers](daisyquest-versus-teacher-instruction-mixed.md) — related

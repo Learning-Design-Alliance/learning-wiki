@@ -50,3 +50,4 @@ Result from the same 5-fold cross-validation comparison on the balanced dataset.
 - Zero-shot prompt type has minimal impact on LLM-human coding concordance — related
 - [LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task](llm-assessment-outperforms-semantic-similarity-code-explanations.md) — related
 - [Instructor-scripted self-explanation prompts have limitations, motivating computer-generated prompts](computer-generated-self-explanation-prompts-recommendation.md) — related
+- [Prompt quality and detailed scoring rubrics significantly influence the accuracy and consistency of LLM-generated grades](prompt-rubric-quality-drives-llm-grading.md) — reports the opposite

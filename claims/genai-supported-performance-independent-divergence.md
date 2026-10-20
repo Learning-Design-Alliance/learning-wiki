@@ -64,3 +64,4 @@ Supervised Week 8 independent no-AI near-transfer essay scored blind by two rate
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
 - [LLMs act as catalysts for collaboration by aiding idea generation, organization and peer feedback, and by democratizing access to knowledge in large-class settings](llms-catalyze-collaboration-idea-generation-peer-feedback.md) — related
 - [Role-script support (TAU) during generation led university relearning students to outperform direct instruction in all weeks but the first](tau-role-script-outperformed-di-relearning.md) — related
+- [Within the bounded condition, stronger coded reflective engagement predicted higher Week 8 independent higher-order thinking](reflective-engagement-predicts-independent-outcomes.md) — related

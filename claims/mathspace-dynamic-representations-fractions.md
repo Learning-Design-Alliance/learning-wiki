@@ -44,3 +44,5 @@ Qualitative case description from teacher partner Ms. F, a fourth-grade teacher,
 
 ## Related Claims
 - Most students felt the piloted math tools let them work at their own pace, and observation data suggested enrichment-seeking students were more engaged than struggling learners — related
+- [Visual fraction models yield more accurate magnitude comparisons than Arabic numeral fractions for all ability groups, but the visual model advantage persists through Grade 8 only for children with MLD](visual-model-advantage-persists-mld.md) — related
+- [The physical stability of material artifacts such as stacked tickertape strips and worksheets stabilizes students' attention, action, and knowledge use](material-artifact-stability-stabilizes-thinking.md) — related

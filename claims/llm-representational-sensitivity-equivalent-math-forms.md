@@ -47,3 +47,4 @@ Evaluation of 5 LLMs on a curated dataset of mathematically equivalent problems,
 - [Baseline versus code-augmented performance differs significantly for story and symbolic representations but not word-equations, with small effect sizes](interaction-condition-chi-square-representation-differences.md) — related
 - [Representation gaps are nontrivial for all models, and code-based interaction can amplify representational specialization rather than stabilizing performance](representation-gaps-model-specific-code-amplification.md) — a narrower finding that bears on this claim
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related
+- [The Multimodal Interference Effect: mapping visual representations to physical concepts degrades LLM performance even on non-visual problem aspects](multimodal-interference-effect-llms.md) — related

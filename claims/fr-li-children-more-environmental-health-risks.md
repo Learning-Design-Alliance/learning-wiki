@@ -46,3 +46,5 @@ Univariate and multivariate ANOVA on risk indices in a longitudinal sample of 25
 - [Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour](fr-li-additive-risk-factors-outcomes.md) — related
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related
 - [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — related
+- [Children at family-risk of dyslexia perform more poorly than typically developing controls on the cognitive foundations of arithmetic and on arithmetic itself](family-risk-dyslexia-poorer-arithmetic-foundations.md) — related
+- [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related

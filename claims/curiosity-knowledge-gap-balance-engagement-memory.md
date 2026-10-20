@@ -47,3 +47,6 @@ The report's narrative synthesis, citing Goupil & Proust and Csikszentmihalyi, s
 - [Prolonged or overwhelming stress disrupts self-regulation development by physically changing brain wiring toward emotional reactivity](toxic-stress-disrupts-self-regulation-development.md) — related
 - [Data in education often fails to move educators and policymakers or overwhelms them with extraneous information](data-often-fails-to-drive-education-decisions.md) — related
 - [The lived experience of conversing with a pedagogical agent comprises five interdependent phenomenological themes](five-themes-conversing-pedagogical-agent.md) — a narrower finding that bears on this claim
+- [Curiosity about trivia answers is a U-shaped function of confidence, supporting information-gap theory](curiosity-u-shaped-function-of-confidence.md) — related
+- [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — a broader claim this one bears on
+- [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — a broader claim this one bears on

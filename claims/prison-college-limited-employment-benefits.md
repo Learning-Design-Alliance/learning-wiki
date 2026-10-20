@@ -65,3 +65,6 @@ Written Likert-scale questionnaire with the four former students. Responses on e
 - [All surveyed former students strongly agreed that prison college participation positively affected their lives, behavior in prison, and post-release lives](prison-college-students-strongly-agree-positive-effects.md) — related
 - [Former students reported positive changes in self-perception and self-confidence after participating in prison higher education](prison-college-improved-self-perception-women.md) — related
 - [Former students in the high self-determination group were more likely to be employed for pay about one year after leaving school than those in the low self-determination group](self-determination-higher-employment-one-year-out.md) — related
+- [Prison college participation was reported to increase institutional cohesion, including among non-participating incarcerated women](prison-college-institutional-cohesion.md) — related
+- [Formerly incarcerated women students reported improved disciplinary behavior while participating in a prison college program](prison-college-reduced-disciplinary-behavior-women.md) — related
+- [Participants reported improved communication skills and faculty modeling of positive interpersonal interaction](prison-college-communication-skills-modeling.md) — related

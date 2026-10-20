@@ -46,3 +46,4 @@ Pearson correlation analysis of scaled answers (Questions 2–7) from 430 studen
 
 - [Familiarity with ChatGPT is positively correlated with frequency of academic use](chatgpt-familiarity-correlates-academic-use.md) — related
 - [African and Asian students did not differ significantly in their answers about ChatGPT](no-background-difference-in-chatgpt-opinions.md)
+- [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md) — related

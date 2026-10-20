@@ -62,4 +62,6 @@ The article cites Wiley (1998) showing domain knowledge can act as a mental set 
 
 
 ## Related Claims
--
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related
+- [Instructional guidance that helps novices can become redundant or counterproductive as expertise grows.](expertise-reversal-effect.md) — related
+- [In reading textually constrained period poetry, experts' organized domain knowledge (schemata) is the major factor differentiating them from novices, enabling allusion, contextualization and anticipation.](poetry-experts-schemata-allusion-contextualization-anticipation.md) — related

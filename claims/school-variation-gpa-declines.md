@@ -49,3 +49,4 @@ Descriptive school-level analysis of GPA change distributions across CPS high sc
 - [GPA declines in arts and PE/health greatly exceeded declines in core subjects between eighth and ninth grade](non-core-gpa-declines-exceed-core.md) — related
 - [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
 - [Some high schools mitigated the typical negative effects of proximity to homicide: most student outcomes declined after a nearby homicide, but not all schools saw average declines](some-schools-mitigate-homicide-effects.md) — related
+- [Unexcused absences quadruple from eighth to ninth grade, explaining most of the drop in grades and pass rates across all student groups](absences-quadruple-transition-explain-grade-drop.md) — related

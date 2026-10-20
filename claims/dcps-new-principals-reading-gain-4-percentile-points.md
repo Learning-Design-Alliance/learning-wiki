@@ -51,3 +51,4 @@ Quasi-experimental analysis comparing achievement changes in DCPS schools before
 - [Achievement gains under new principals were larger and happened faster in DCPS middle schools than in elementary schools](dcps-principal-gains-larger-faster-middle-schools.md) — related
 - [Effective principals have positive effects on student outcomes including grades, test scores, attendance, discipline, and long-term attainment](effective-principals-positive-student-outcomes.md) — a broader claim this one bears on
 - [DC math impacts of about one-third of a standard deviation are similar in magnitude to New Orleans reforms and larger than some well-known interventions](dc-math-impacts-one-third-sd-new-orleans-comparison.md) — related
+- [Residency-trained principals raised math and reading test scores more than non-residency new principals in their first two years](residency-principals-raise-test-scores-first-two-years.md) — related

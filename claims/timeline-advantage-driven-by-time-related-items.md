@@ -45,3 +45,4 @@ Exploratory analysis of the 11 chronology items in the same classroom experiment
 ## Related Claims
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
+- [Pupils in all three conditions gained significantly from pre-test to post-test and retention test, with no prior-knowledge differences between conditions](all-conditions-significant-gains-history-tasks.md) — related

@@ -44,3 +44,8 @@ Whole-school-year case study of about 20 Grade 5 students working on the human b
 
 ## Related Claims
 - [Fifth-graders in four classrooms generated high-quality super notes reflecting inquiry progress for cross-community sharing](fifth-graders-high-quality-super-notes-cross-classroom.md) — related
+- [Students enact new CSCL technologies according to communication genres of the past, producing informal rather than scholarly discourse](old-genres-shape-threaded-discussion-use.md) — related
+- [Deeper co-leadership emerges when staff support lets partners progressively take on responsibility, but recedes when staff carry the process](calibrated-support-co-leadership.md) — a broader claim this one bears on
+- [New teachers introduced to Knowledge Forum first tended to use it for teacher-directed instruction rather than collaborative knowledge building](premature-knowledge-forum-lethal-mutation.md) — reports the opposite
+- [Cross-classroom Super Talk built a multifaceted understanding of 'how people grow' that enriched discourse within each classroom](super-talk-multifaceted-understanding-cross-community.md) — related
+- [Scripted roles scaffold students' cognitive responsibility for building common knowledge in knowledge-building environments](scripted-roles-scaffold-cognitive-responsibility-knowledge-building.md) — related

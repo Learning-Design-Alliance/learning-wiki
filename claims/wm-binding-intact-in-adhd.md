@@ -45,3 +45,6 @@ Behavioral and ERP comparisons of Shape-Only vs Color-Shape conditions in the 18
 ## Related Claims
 
 - [Adolescents with ADHD respond more slowly than non-ADHD peers across all conditions, and color-shape binding slows responses in both groups](adhd-slower-rt-wm-binding-task.md)
+- [Adolescents with ADHD show poorer accuracy than non-ADHD peers on all conditions of a visual short-term memory task, with the largest drop on trials requiring WM updating](adhd-poorer-accuracy-wm-change-trials.md) — related
+- [Retrieval P3 discriminates Same from Different trials only in non-ADHD adolescents, indicating a failure of post-selection prioritization in ADHD](retrieval-p3-change-discrimination-only-non-adhd.md) — reports the opposite
+- [Encoding P3 amplitude is reduced in ADHD adolescents during visual WM encoding, in both early and late time windows](reduced-encoding-p3-adhd.md) — reports the opposite

@@ -65,3 +65,5 @@ Analysis of four pedagogical failure modes across runs on the Codex tier. "thedo
 - [Tutoring quality belongs to the base model and agent harness together rather than either alone, as adapter rankings reorder across tiers](educlaw-bench-model-harness-interaction.md) — related
 - [The simulated learner tracks a real-student KT model with calibration error 0.049, and the helpfulness rubric transfers to real classroom transcripts](educlaw-bench-simulator-calibration.md) — related
 - [Learning paths used for SRL improved accuracy and performance without increasing effort, and tutoring-system benefits required sustained practice](learning-paths-srl-accuracy-without-effort.md) — related
+- [Relearning dynamics depend on unlearning strength: agents with 10% unlearning recover within early interaction rounds, while 30% and 50% agents show prolonged low-accuracy plateaus and delayed improvement](unlearning-ratio-moderates-relearning-trajectory.md) — related
+- [LoRA RFT with a helpfulness-weighted composite reward can collapse an adapter's pedagogy mid-training while responsiveness stays intact](educlaw-bench-rft-helpfulness-collapse.md) — related

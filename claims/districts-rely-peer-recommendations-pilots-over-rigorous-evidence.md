@@ -53,3 +53,4 @@ Survey and interview data on district information sources show reliance on "peer
 - [Most surveyed ed tech developers report their products are informed by research, but purchasers struggle to evaluate that research](developers-report-research-informed-products.md) — related
 - [Districts engage with edtech products primarily through three scenarios: RFPs, vendor pitches, and peer recommendations](three-edtech-vendor-engagement-scenarios.md) — related
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
+- [Without clear quality signals, district boards default to the lowest bid when comparing edtech products](lowest-bid-default-without-quality-signals.md) — related

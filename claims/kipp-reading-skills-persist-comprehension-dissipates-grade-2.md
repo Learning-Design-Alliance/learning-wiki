@@ -45,3 +45,5 @@ Persistence analysis of students who won an offer of admission to KIPP Pre-K as 
 ## Related Claims
 - [KIPP Pre-K may provide an additional benefit for reading achievement above and beyond KIPP elementary school](kipp-prek-added-reading-benefit-beyond-elementary.md) — related
 - [KIPP Pre-K combined with KIPP early elementary school has positive, statistically significant impacts on reading and math achievement after five years](kipp-prek-elementary-five-year-reading-math-impacts.md) — related
+- [KIPP elementary schools have positive, statistically significant, and educationally meaningful impacts on three of four measures of reading and mathematics skills](kipp-elementary-positive-impacts-three-of-four-measures.md) — related
+- [KIPP Pre-K combined with KIPP early elementary school may also have a positive impact on students' executive function](kipp-prek-possible-executive-function-impact.md) — related

@@ -55,3 +55,5 @@ The guide's Summary of Evidence for Recommendation 1 reports six contributing st
 - [Reviewed studies indicate AI predictive analytics can project student progress, group learners by risk, and enable early intervention](ai-predictive-analytics-early-intervention.md) — related
 - [AI-powered predictive analytics improves academic performance by enabling early identification of at-risk students and timely intervention](ai-predictive-analytics-improves-academic-performance.md) — related
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — a narrower finding that bears on this claim
+- [Adult advocacy interventions show promising but variable effects on staying in and progressing in school](adult-advocacy-mixed-effects-staying-in-school.md) — related
+- [Ninth-grade early warning systems around course grades and attendance led to substantial improvements in grades, graduation rates, and test-measured learning gains](ninth-grade-early-warning-systems-improvements.md) — related

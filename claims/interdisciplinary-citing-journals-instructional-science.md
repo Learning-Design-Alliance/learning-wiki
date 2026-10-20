@@ -46,3 +46,5 @@ Analysis of citing journals and research areas (Table 5). The authors report tha
 
 - [Instructional Science has accumulated 39,169 citations with an h-index of 86 and an average of 26.5 citations per paper as of July 2024](instructional-science-39169-citations-h-index-86.md)
 - [The journal's impact factor rose from 0.378 in 1997 to 2.7 in 2022, with consistent Q1 or upper-quartile ranking in Education & Educational Research](instructional-science-impact-factor-rise-q1.md)
+- [Data practice emphasis varies across science disciplines, with environmental science and biology dominating the literature](data-practices-vary-by-discipline.md) — related
+- [The most cited papers in Instructional Science are Sadler's 1989 formative assessment paper (1,686 citations) and Marton's 1981 phenomenography paper (1,547 citations)](most-cited-instructional-science-papers-sadler-marton.md) — related

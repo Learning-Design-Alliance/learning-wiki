@@ -57,3 +57,4 @@ This study's honest null result (contingency did not predict uptake) is as impor
 - [Introducing more challenging work without sufficient supports or attention to students' emotions and learning strategies can lead to frustration, withdrawal, disruption, and less learning](unsupported-challenge-backfires.md) — related
 - [On a text channel, fading holds when the learner's turn is aimed at the decision under support, regardless of its depth](aim-warrant-for-fading-ai-tutor.md) — related
 - [McKenney et al.'s ecological framework emphasizes knowing but not applying design knowledge](mckenney-framework-knowing-insufficient.md) — related
+- [Coached peer review improves the specificity of reviewer comments and receivers' uptake of feedback](coached-peer-review-improves-comment-quality-and-uptake.md) — related

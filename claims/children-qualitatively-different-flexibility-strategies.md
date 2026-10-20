@@ -48,3 +48,4 @@ Narrative review attributing this to behavioral studies. Around 8 to 9 years chi
 
 ## Related Claims
 - [Cognitive flexibility in children is not a unified construct](cognitive-flexibility-not-unified-construct.md) — related
+- [In a change detection task, adults outperform 4-to-5-year-olds on cued shapes while children outperform adults on uncued shapes](developmental-reversal-change-detection-cued-uncued.md) — related

@@ -66,3 +66,4 @@ Content analysis of RE topics: ethics oversight appeared in eight measures and b
 - [Fifteen unique RCR outcome measures with supporting validation evidence were identified, all covering research integrity but only ten covering research ethics](fifteen-validated-rcr-measures-ri-re-coverage.md)
 - [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md)
 - [Validated RCR measures omit emerging and social-safety topics including EDI, whistleblower protections, AI use in research, predatory journals and open-science practices](validated-rcr-measures-missing-topics-edi-ai-open-science.md)
+- [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](neurophysiological-ai-ethics-consent-transparency.md) — related

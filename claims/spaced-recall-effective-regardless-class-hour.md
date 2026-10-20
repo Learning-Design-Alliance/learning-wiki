@@ -43,4 +43,4 @@ Two-way ANOVA (treatment/control by hour of day) on retention index in the USMAP
 
 
 ## Related Claims
--
+- [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related

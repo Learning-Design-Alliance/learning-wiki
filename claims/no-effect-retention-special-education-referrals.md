@@ -48,3 +48,6 @@ Comparison of retention and special-education referral rates between displaced a
 ## Related Claims
 - [One year after leaving closing schools, displaced students' reading and math achievement returned to expected levels, with no additional negative or positive effects](achievement-returns-to-expected-after-closing.md) — related
 - [Displaced students' freshman on-track-to-graduate rates did not differ from comparison students, regardless of their grade at closing](no-effect-high-school-on-track-rates.md) — related
+- [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related
+- [Students were identified for special education after failing the promotion gate, not before taking it](cps-identification-followed-retained-gate-failure.md) — related

@@ -46,3 +46,6 @@ The review's research-implications synthesis, noting that some included studies 
 ## Related Claims
 - [Role expectations for a group-facing AI agent are anchored in early encounters rather than renegotiated throughout collaboration](early-exposure-anchors-agent-role-expectations.md) — related
 - [The authors argue AI web agents have the potential to accelerate advancements in online learning by giving fast, low-cost insights](ai-web-agents-accelerate-online-learning-advancements.md) — related
+- [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [GenAI communication benefits depend on integration: embedded agents enhance communication more than external tools, but efficiency can reduce the need for human communication](genai-communication-benefits-depend-on-integration.md) — related
+- [Human-AI collaboration requires refined group-awareness concepts for asymmetrical relationships between users and AI partners](group-awareness-human-ai-partners.md) — related

@@ -43,4 +43,7 @@ The article argues, drawing on value-added approaches (Allen et al., 2013; Roths
 
 
 ## Related Claims
--
+- [RM-CC5 usage metrics correlated positively with achievement, and together accounted for an additional 7.3% of variance in Grade 5 scores beyond prior achievement, though causality and relative contributions could not be inferred](rm-cc5-usage-metrics-achievement-correlation.md) — related
+- [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — related
+- [Test scores measure accumulated knowledge at a moment in time, not innate student ability](test-scores-measure-opportunity-not-innate-ability.md) — related
+- [Teacher responsiveness is uniquely related to substantive quality of first-grade written composition after accounting for child predictors and other instructional quality variables](teacher-responsiveness-predicts-substantive-quality.md) — reports the opposite

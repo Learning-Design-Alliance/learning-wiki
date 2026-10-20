@@ -50,3 +50,4 @@ This is an illustrative hypothetical example constructed by the report authors, 
 - Generative AI systems carry strong potential for introduced and inherited bias — related
 - People may absorb bias from AI and carry it beyond their interactions with the algorithm — related
 - [The article argues spatial perspective-taking performance relates to academic problem solving and can indicate academic potential](perspective-taking-indicator-academic-success.md) — related
+- [Conventional higher-education assessment practices are argued to be flawed, compartmentalised, standardised and disadvantaging to many students](conventional-assessment-flawed-and-disadvantaging.md) — related

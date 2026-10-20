@@ -66,3 +66,4 @@ Re-analysis of expert interview excerpts from Slotta and Chi's own study shows e
 - [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — a broader claim this one bears on
 - [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a broader claim this one bears on
 - [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related
+- [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related

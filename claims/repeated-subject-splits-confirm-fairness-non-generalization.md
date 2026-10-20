@@ -44,3 +44,4 @@ Robustness experiment in which the dataset was partitioned multiple times at the
 
 ## Related Claims
 - [Demographic MAE-gap regularization reduces targeted subgroup gaps on validation data, but these fairness gains do not consistently transfer to held-out test subjects](mae-gap-regularization-validation-gains-do-not-generalize.md) — possibly the same claim (merge candidate)
+- [The Residual Fusion Transformer shows the lowest worst-group MAE and smallest gender gap among baselines, while the Sensor GRU shows the smallest age gap alongside the weakest overall performance](fusion-transformer-lowest-worst-group-mae-smallest-gender-gap.md) — related

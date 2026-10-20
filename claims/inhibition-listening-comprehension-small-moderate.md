@@ -43,4 +43,7 @@ Qualitative synthesis: only two studies (Barber et al., 2020, 2021) examined res
 
 
 ## Related Claims
--
+- [Inhibition shows moderate to large associations with reading comprehension in most studies, but the association depends on the inhibition task used](inhibition-reading-comprehension-task-dependent.md) — related
+- [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](inhibition-reading-fluency-small-negative.md) — related
+- [Shifting shows small to moderate associations with listening comprehension (r = .12 to .45) across three studies](shifting-listening-comprehension-small-moderate.md) — related
+- [Working memory and processing speed, but not inhibition or non-alphanumeric naming speed, uniquely predict both word reading and reading comprehension in children ages 8 to 16](wm-and-processing-speed-unique-predictors-reading.md) — related

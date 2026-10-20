@@ -45,3 +45,5 @@ Meta-analytic POM-by-age curves (Figs. 1-3) across 198 studies show mean-level i
 ## Related Claims
 - [Behavioral inhibitory control tasks are useful for detecting individual differences over an average span of only 2.49 years, versus 6 years for the CBQ Inhibitory Control subscale](inhibitory-control-tasks-limited-age-ranges.md) — related
 - [The Shape Stroop, Bear/Dragon, and Tower tasks showed a pronounced drop in average performance from about 25 to 30 months of age, possibly reflecting systematic missingness rather than declining ability](inhibitory-tasks-performance-drop-25-30-months.md) — related
+- [The meaning of Bear/Dragon task performance changes with age: go and no-go trial performance was inversely correlated at 30 months (r = −.67) but not at 42 months (r = .12)](bear-dragon-task-meaning-shifts-with-age.md) — related
+- [Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence](sst-inhibitory-control-curvilinear-growth-adolescence.md) — related

@@ -46,3 +46,6 @@ The chapter reports, citing Wolters (1998), that college students intentionally 
 
 - [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](goal-profiles-differ-motivation-regulation.md) — a narrower finding that bears on this claim
 - [Anticipatory test anxiety can set off a downward spiral of maladaptive cognitions, emotions, and behaviors](anticipatory-test-anxiety-downward-spiral.md)
+- [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
+- [Purpose in learning increases engagement, self-regulation, and academic performance](purpose-increases-engagement-self-regulation-performance.md) — related
+- [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related

@@ -48,3 +48,4 @@ The review reports, citing Allington (1984b), that poor beginning readers rely o
 
 ## Related Claims
 - [Poorly fluent readers use context clues more heavily than fluent readers, as a compensatory device](struggling-readers-use-context-clues-compensatorily.md) — related
+- [Automatic word recognition frees resources for comprehension](automatic-word-recognition-frees-resources-for-comprehension.md) — related

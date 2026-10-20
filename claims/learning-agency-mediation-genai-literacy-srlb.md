@@ -52,3 +52,4 @@ Bootstrap serial mediation analysis (5,000 resamples) with gender and year of st
 - [Learning agency and challenge emotions serially mediate the association between GenAI literacy and GenAI-assisted self-regulated learning behaviors](serial-mediation-agency-challenge-emotions-srlb.md) — related
 - [The direct association between GenAI literacy and GenAI-assisted self-regulated learning behaviors remains significant after accounting for the mediators, indicating partial mediation](partial-mediation-direct-effect-genai-literacy-srlb.md) — related
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
+- [Homework management skills partially mediate the relationship between teacher homework involvement and homework behavior](homework-management-partially-mediates-teacher-involvement-behavior.md) — related

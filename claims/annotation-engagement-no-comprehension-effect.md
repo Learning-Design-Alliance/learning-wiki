@@ -44,3 +44,9 @@ Participants were randomly assigned to clean or annotated engagement conditions 
 
 ## Related Claims
 - [College students show no comprehension difference between digital and paperbound textbook reading, immediately or after 1 week](no-comprehension-difference-digital-paper-textbooks.md) — related
+- [Learner highlighting of text gives a small memory benefit but no reliable comprehension benefit, and evidence on other forms of annotation is not yet recorded here](annotating-improves-learning.md) — related
+- [In one experiment, students who generated their own underlining did not score significantly higher on tests than students given experimenter-generated underlining](experimenter-underlining-effective-as-student-underlining.md) — related
+- [Highlighting shows low utility for improving learning outcomes](highlighting-low-utility.md) — a broader claim this one bears on
+- [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
+- [Recall of passage details is most depressed when children receive both underlining and conceptual postquestions](underlining-plus-postquestions-most-depress-detail-recall.md) — related
+- [Ten-year-old readers predominantly underline subordinate passage details rather than superordinate conceptual material, even when conceptual postquestions focus attention on topic sentences](children-underline-subordinate-details-not-superordinate-material.md) — related

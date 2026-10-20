@@ -49,3 +49,6 @@ A nonlinear interaction term added to the test-of-learning regression model in t
 - [Prior Knowledge Needed For Accurate Self Assessment](prior-knowledge-needed-for-accurate-self-assessment.md) — the general claim this finding bears on, with the studies behind it
 - [AI Interaction Competence, not GPA or prior knowledge, is the decisive moderator of LLM-assisted learning gains](aic-moderates-llm-learning-gains.md) — related
 - [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related
+- [High-ability students' learning behaves as a dominant α-process even at low pretest scores, while average-ability students show more γ-process behavior](high-ability-alpha-dominant-low-pretest.md) — related
+- [When the γ-process (associative interaction of correct and incorrect knowledge) is considered, the normalized gain correlates positively with pretest score](gamma-process-positive-gain-pretest-correlation.md) — related
+- [Under a dominant α-process, the normalized gain contains no pretest-score term and is uncorrelated with pretest score if α is uncorrelated with pretest score](normalized-gain-pretest-uncorrelated-alpha-process.md) — related

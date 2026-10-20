@@ -47,3 +47,5 @@ Theoretical expectation stated in the abstract. The authors assert that academic
 
 ## Related Claims
 - [Social and physical self-concepts (e.g., relative physical abilities) appear universal and central to overall self-concept, unlike academic self-concepts](universal-social-physical-self-concepts.md) — possibly the same claim (merge candidate)
+- [Development of biologically secondary abilities promotes the emergence of academic self-concepts supported by evolved self-awareness systems](secondary-abilities-promote-academic-self-concepts.md) — related
+- [Mainstream motivation theories have extended toward identity and culture but keep explanatory constructs within individuals](mainstream-motivation-theories-individual-constructs.md) — a broader claim this one bears on

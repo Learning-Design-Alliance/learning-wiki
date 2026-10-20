@@ -47,3 +47,6 @@ The author's own observational report of student perceptions in her classes, wit
 
 ## Related Claims
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
+- [Adolescent EFL learners perceive cartoon-based pictorial elucidation as helpful for accurate vocabulary use and engagement](students-perceive-cartoons-helpful-vocabulary-accuracy.md) — related
+- [Second language learners' private speech is associated with L2 development and motivation to learn the language](private-speech-associated-l2-development-motivation.md) — related
+- [Optional 'What is Biology Good For?' essays achieved >75% weekly participation and >90% of students reported they made science relevance clear](good-for-essays-relevance-motivation.md) — related

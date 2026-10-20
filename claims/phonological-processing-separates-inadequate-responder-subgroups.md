@@ -47,3 +47,6 @@ Planned pairwise contrast from the MANOVA profile analysis comparing the two ina
 - [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — a broader claim this one bears on
 - [Adequate responders differ from typical readers on verbal knowledge, listening comprehension, working memory, and phonological awareness](adequate-responders-still-below-typical-on-cognitive-measures.md) — related
 - [A meta-analysis attributes the strongest predictors of nonresponsiveness to rapid naming and problem behavior](meta-analysis-predictors-of-nonresponsiveness.md) — related
+- [Both inadequate responder groups show more teacher-rated attention problems and lower self-reported self-efficacy than typical readers](inadequate-responders-attention-self-efficacy-deficits.md) — related
+- [Phonological awareness and phonological memory are the skills that contributed most to initial reading and writing performance in third-grade students](phonological-awareness-memory-most-contribute-reading-writing.md) — related
+- [Inadequate responders were more likely to have identified disabilities and limited English proficiency than adequate responders or typical readers](inadequate-responders-demographic-disproportionality.md) — related

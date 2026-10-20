@@ -50,3 +50,6 @@ The review reports, citing an included study, that "girls exhibited higher behav
 - [Included studies suggest engagement increases when adaptive platform activities are tailored to learners' personal needs and emotional state](adaptivity-emotional-tailoring-increases-engagement.md) — the general claim this finding bears on, with the studies behind it
 - Gender effects on self-regulated learning are mediated by culture, discipline, and age, with mixed direction across samples — related
 - [Gender findings on adolescent creativity are mixed and depend on the domain or topic of the creativity test](gender-creativity-mixed-domain-dependent.md) — related
+- [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](gamification-engagement-mixed-evidence.md) — related
+- [Boys read for leisure and enjoy reading less than girls, but no sex differences appear in mental imagery](sex-differences-leisure-reading-enjoyment-not-imagery.md) — related
+- [Boys responded faster than girls on the test, but the response-time difference did not affect achievement](boys-faster-than-girls-no-achievement-difference.md) — related

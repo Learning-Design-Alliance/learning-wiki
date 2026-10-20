@@ -46,3 +46,6 @@ Analysis of variance in the 36-participant mixed-design experiment revealed medi
 - [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related
 - [No media effect for process knowledge: animation did not improve learning of dynamic content](no-media-effect-process-knowledge.md) — a narrower finding that bears on this claim
 - [Pre-experimental knowledge and education level relate to specific knowledge categories](prior-knowledge-education-relate-knowledge-categories.md) — related
+- [Media-rich videos combining text, pictures and voiceovers are rated more engaging than text-only videos](media-rich-videos-more-engaging-than-text-only.md) — related
+- [Animations appear to pacify learners: static-picture groups navigated far more actively than the animation group](animations-pacify-learners-navigation-imbalance.md) — related
+- [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related

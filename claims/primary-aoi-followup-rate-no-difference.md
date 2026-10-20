@@ -46,3 +46,5 @@ Gaze analysis of the same within-subject study (405 assistance instances from 22
 - [Most children and parents preferred gaze-based assistance over the LLM baseline](children-parents-preferred-gaze-assistance.md) — related
 - [Gaze-based assistance produced a significantly higher follow-up fixation rate on the spoken secondary AOI than the baseline](gaze-assistance-higher-secondary-aoi-followup.md) — related
 - [Gaze-based assistance led children to fixate the narrated primary AOI significantly longer than LLM-baseline assistance](gaze-assistance-longer-primary-aoi-fixation.md) — related
+- [Attention allocated to the secondary AOI remained limited and did not differ significantly between conditions in duration or time to first fixation](secondary-aoi-attention-limited-no-difference.md) — related
+- [Gaze-based assistance supported a smoother attention transition between narrated regions, while baseline assistance elicited more abrupt reorientation](gaze-assistance-smaller-attention-transition.md) — related

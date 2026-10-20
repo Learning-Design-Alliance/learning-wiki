@@ -52,3 +52,4 @@ Discussion of the entangled analysis of three focus-group participants drawn fro
 - Institutional barriers to AI integration — ethics concerns, insufficient training, policy gaps, and infrastructure limits — are widespread and co-occurring — related
 - [One student's resistance to GenAI was entangled with neurodiversity, a biological conception of authentic effortful learning, and anxieties about rapid technological change](genai-resistance-entangled-neurodiversity-authenticity.md) — related
 - [The rapid maturation of GenAI platforms has created significant challenges for higher education, particularly in relation to assessment.](genai-platforms-challenge-higher-education-assessment.md) — a broader claim this one bears on
+- [The article argues that widespread adoption of generative AI creates a viable means of addressing management education's memorization-centered challenges](genai-viable-means-management-education-reform.md) — related

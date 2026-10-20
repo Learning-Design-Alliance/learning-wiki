@@ -45,3 +45,4 @@ Null result from the same multiple regression in the 128-participant study. The 
 ## Related Claims
 
 - [The regression model significantly predicts metacognitive sensitivity but explains a small proportion of variance (R² = 0.079)](regression-model-small-variance-metacognitive-sensitivity.md)
+- [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](self-efficacy-predicts-exam-grades-strategy-use-does-not.md) — related

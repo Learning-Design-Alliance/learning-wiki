@@ -62,4 +62,6 @@ The editorial reports that although interaction excerpts showed the experimental
 
 
 ## Related Claims
--
+- [In Knowledge Forum discourse, three components (connecting knowledge, transactivity, authority) dominated notes, and cognitive openness components predicted follow-up while social openness components predicted slightly reduced follow-up](openness-components-frequency-follow-up-knowledge-forum.md) — related
+- [Collaboration and synthesis indicators in Knowledge Forum increased over time among low-achieving students.](collaboration-synthesis-indicators-increased-over-time.md) — related
+- [Collaborative analytics-supported reflective assessment helped pre-service teachers develop collaborative inquiry competencies](collaborative-analytics-reflective-assessment-pst-competencies.md) — related

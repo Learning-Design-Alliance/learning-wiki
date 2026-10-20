@@ -51,3 +51,4 @@ A moderator analysis of achievement-measure type in the meta-analysis found the 
 - [Family engagement is connected to stronger social-emotional development, higher attendance, and better academic outcomes](family-engagement-linked-better-outcomes.md) — related
 - [Parental aspiration/expectation for children's educational achievement has the strongest relationship with academic achievement among involvement components](parental-aspiration-expectation-strongest-relationship.md) — related
 - [Parental involvement has a small to moderate, practically meaningful relationship with students' academic achievement](parental-involvement-small-to-moderate-achievement-relationship.md) — a broader claim this one bears on
+- [Meta-analyses find parental involvement associated with better student outcomes, effect sizes 0.2 to 0.75 standard deviations](parental-involvement-meta-analyses-effect-sizes.md) — related

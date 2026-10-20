@@ -46,3 +46,7 @@ Qualitative workshop finding: participants described the AI as "a lubricant for 
 - [Both stepwise constructive-conflict guidance and the antagonistic agent led novice designers to reconsider what makes a design effective more than unsupported self-reflection](constructive-conflict-guidance-increases-reconsideration.md) — related
 - [Novice designers deleted ideas only when confronted with stakeholder friction; unsupported self-reflection produced no deletions](idea-deletion-requires-stakeholder-friction.md) — related
 - [The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant](member-check-c4-weakest-endorsed.md) — related
+- [Nearly all peer critique disagreements were resolved, mostly through concession, with co-construction appearing only in soft and mixed disagreements](disagreement-resolution-consensus-concession.md) — related
+- [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md) — related
+- [The antagonistic agent surfaced a broader set of stakeholder concerns than novice designers reached on their own](antagonistic-agent-broadens-stakeholder-coverage.md) — related
+- [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related

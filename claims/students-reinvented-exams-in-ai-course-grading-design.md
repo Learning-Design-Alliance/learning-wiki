@@ -46,3 +46,6 @@ In-class group exercise (the AI Grading Paradox, week 4; 36 present, seven submi
 
 - [Educators run more proctored AI-free assessments conditionally on compromised outcomes, and reject AI detectors based on classroom experience of false positives](conditional-ai-free-assessment-detector-false-positives.md)
 - [In AI-assisted software engineering courses, AI-required and programming work carry high median grade weights while proctored assessment is rare](ai-required-work-high-grade-weights-proctored-rare.md)
+- [AI-assisted software engineering courses assess primarily through participation, project work, and coding assignments rather than exams](ai-se-assessment-project-based-not-exams.md) — related
+- [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](students-report-tests-dominate-and-overweight-grades.md) — related
+- [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related

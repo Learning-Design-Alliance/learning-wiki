@@ -49,3 +49,5 @@ AHP analysis of structured pairwise comparisons from 18 domain experts across Ch
 - [Expert perceptions reveal a developmental asymmetry in which content knowledge outweighs integrated pedagogical capacity in AI education](developmental-asymmetry-ck-over-tpack.md) — possibly the same claim (merge candidate)
 - [Monte Carlo simulation confirms weight and score stability of the expert-derived priorities under judgment perturbation](mc-simulation-robustness-ahp-fahp-weights.md) — related
 - [Experts' AHP priorities cluster into three groups differing by seniority and LA expertise](expert-priority-clusters-seniority-la-expertise.md)
+- [Faculty Professional Competence shows the largest gap between perceived importance and current satisfaction among the five dimensions](faculty-competence-largest-importance-performance-gap.md) — related
+- [Experts rated the initial curriculum highest on AI/robotics integration and teamwork (both M=4.60) and lowest on communication (M=3.40) and assessment (M=3.60)](expert-ratings-initial-curriculum-integration-teamwork-highest.md) — related

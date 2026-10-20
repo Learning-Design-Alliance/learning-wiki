@@ -49,3 +49,4 @@ Study 2 (N = 19,481), a separate random assignment within PISA 2012 to forms wit
 - [Greater mathematics content in a practice test improves subsequent mathematics performance by a small amount (~2% of a standard deviation per hour of practice)](math-practice-test-improves-math-performance-small-effect.md) — related
 - [The learning benefit of mathematics test practice is larger for boys than for girls](math-practice-effect-larger-for-boys.md) — related
 - [Mathematics anxiety does not moderate the effect of mathematics test practice on subsequent performance](math-anxiety-does-not-moderate-practice-effect.md) — related
+- [Innovative learning is more effective than conventional learning for junior high school students' mathematical problem-solving ability (summary effect 0.95, 95% CI 0.71–1.19)](innovative-learning-more-effective-problem-solving-meta-analysis.md) — related

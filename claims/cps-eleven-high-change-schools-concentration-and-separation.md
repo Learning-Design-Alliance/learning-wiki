@@ -65,3 +65,4 @@ Analysis of ninth-grade English classroom composition, chosen because all ninth 
 - Ninth graders with disabilities were heavily concentrated in neighborhood and vocational high schools, driven by general education students choosing other school types — related
 - [Special education enrollment in ninth grade rose from 11.5 percent in 1993-94 to 16.4 percent in 1999-00, concentrating students with disabilities in neighborhood high schools](special-education-concentration-neighborhood-high-schools.md) — related
 - [Learning disabilities drove almost the entire rise in ninth-grade special education enrollment](learning-disabilities-drove-cps-special-education-increase.md) — related
+- [After the promotion gate, general education eighth graders were retained at far higher rates while retention of students with disabilities fell, raising the disabled share of ninth graders](cps-promotion-gate-shifted-retention-to-general-education.md) — related

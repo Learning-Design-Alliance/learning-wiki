@@ -48,3 +48,5 @@ Analysis of the same group's continued dialogue, where students distinguished re
 - [Students in an upper secondary classroom experienced the individually-oriented viewing of the VR film Travelling While Black as highly social, despite sitting silently in headset-wearing groups](students-experienced-vr-film-viewing-as-social.md) — a broader claim this one bears on
 - [The editorial reports that immersive VR became a resource for collaborative meaning making through 'emancipatory immersion' (Silseth et al.)](vr-collaborative-meaning-making-emancipatory-immersion.md) — a broader claim this one bears on
 - [Students characterized their VR experience through a feeling of taking part in conversations, showing co-presence with the people in the film during collaborative reflection](feeling-of-taking-part-in-vr-conversations.md) — related
+- [Films with existential themes can serve as vehicles for Bildung in higher education](existential-films-vehicle-for-bildung.md) — related
+- [Personal, out-of-school experiences serve as real resources for sense making in classroom discussion](personal-experiences-as-classroom-learning-resources.md) — related

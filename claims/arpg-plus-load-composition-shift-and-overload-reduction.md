@@ -67,3 +67,5 @@ Overload distribution analysis (Fig. 8) categorizing 5000 interactions per metho
 - [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md) — a broader claim this one bears on
 - [Self-reported extraneous cognitive load correlates negatively with germane load and with expected probability of success in an algebra task](extraneous-cognitive-load-correlates-negatively-with-germane-load-and-probability-of-success.md) — related
 - [Participants in the rule-based simulation game perceived it as demanding, and learning and applying its procedures and rules hindered investment in their learning goals](rule-based-sg-procedures-hindered-learning-goals.md) — related
+- [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — a broader claim this one bears on
+- [ARPG+ reaches quality milestones faster than comparison conditions in simulation](arpg-plus-faster-time-to-proficiency.md) — related

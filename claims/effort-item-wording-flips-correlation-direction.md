@@ -45,3 +45,6 @@ The review reports that in several special-issue studies, "the requirement-wordi
 ## Related Claims
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
+- [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — a broader claim this one bears on
+- [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — related
+- [Monitoring judgment timing moderates the correlation: concurrent judgments show a stronger negative association than prospective judgments](concurrent-stronger-than-prospective-judgments.md) — related

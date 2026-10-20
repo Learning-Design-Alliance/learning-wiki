@@ -73,3 +73,6 @@ Same cohort analysis of baseline sleep duration categories (<9, 9-10, ≥10 hour
 - [Children who slept <10 hours/day at ages 3-4 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children with age-appropriate sleep](short-sleep-3-4-years-worse-maternal-neurobehavioral-age-7.md) — related
 - [Children who slept <9 hours/day at ages 5-7 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children sleeping ≥10 hours/day](short-sleep-5-7-years-worse-maternal-neurobehavioral.md) — related
 - [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md)
+- [School-based sleep education improves children's sleep duration and quality](sleep-education-improves-childrens-sleep.md) — related
+- [Shorter sleep duration is associated with higher adiposity in children aged 0–4 years, though evidence quality is low](shorter-sleep-higher-adiposity-early-years.md) — related
+- [Infants who slept <11 hours/day showed no association with mother- or teacher-reported neurobehavioral outcomes at age 7 after full adjustment](infant-sleep-under-11-hours-no-association.md) — related

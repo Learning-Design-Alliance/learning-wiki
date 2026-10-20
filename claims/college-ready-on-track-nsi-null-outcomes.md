@@ -50,3 +50,4 @@ Quasi-experimental comparison of college-ready on-track NSI students to similar 
 - [In the randomized Cohort 3 study, 9th-grade on-track NSI moderately improved attendance rates by 2 percentage points](rct-ninth-grade-nsi-attendance-gain.md) — related
 - [9th-grade on-track NSI improved course pass rates by 3 to 4 percentage points but did not reduce suspension rates](9th-grade-on-track-nsi-pass-rates-suspension.md) — related
 - [After schools' second year of participation, the 8th-grade on-track NSI did not impact the targeted student outcomes](8th-grade-on-track-nsi-no-impacts-year-two.md) — related
+- [8th-grade on-track NSI positively impacted math test scores, moving students from the 37th to the 40th percentile](8th-grade-on-track-nsi-math-percentile-gain.md) — related

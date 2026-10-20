@@ -70,3 +70,5 @@ First findings from a multi-year evaluation of the KIPP charter school network, 
 - [KIPP high schools have positive, statistically significant, and educationally meaningful achievement impacts for students new to the KIPP network](kipp-high-school-impacts-new-entrants.md) — related
 - [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](kipp-high-school-impacts-new-entrants-not-continuing.md) — related
 - [KIPP charter schools have potentially positive effects on science achievement for middle and high school students](kipp-potentially-positive-science.md) — related
+- [Students in Expeditionary Learning middle schools perform better in reading and math than counterparts in other public schools](el-middle-schools-better-reading-math-achievement.md) — related
+- [The second phase of the national KIPP evaluation nearly doubled the sample to 43 KIPP middle schools and estimated achievement impacts in four subjects](kipp-evaluation-43-middle-schools-four-subjects.md) — related

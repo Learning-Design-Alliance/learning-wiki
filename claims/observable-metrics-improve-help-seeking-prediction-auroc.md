@@ -60,3 +60,4 @@ Same held-out Random Forest protocol for help-seeking-type prediction (guided vs
 
 ## Related Claims
 - [First queries from Cold Start learners were overwhelmingly dependent (96.7%), contrasting with mostly guided first queries from Oriented (69.1%) and Struggling (71.4%) learners](cold-start-first-queries-dependent-help-seeking.md) — related
+- [Window 1 profiles complicate the assumption that greater pre-query effort signals better progress: Cold Start learners completed at 97% while Struggling learners completed at 67%](pre-query-effort-completion-descriptive-profiles.md) — related

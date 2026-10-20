@@ -45,3 +45,6 @@ Null result from the same 120-participant experiment: "no significant main effec
 ## Related Claims
 
 - [Readers in all conditions except sketching were overconfident, with the most overconfidence in the photograph condition and the least in the sketching condition](overconfidence-all-conditions-except-sketching.md)
+- [Interest ratings were the only significant predictor of readers' predictive judgments of understanding](interest-predicts-judgments-of-understanding.md) — related
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
+- [Sketching during reading yielded the most accurate comprehension monitoring, with significantly less absolute error than photograph, no-image, and animation conditions](sketching-most-accurate-monitoring-absolute-error.md) — related

@@ -52,3 +52,8 @@ PLS-SEM structural analysis of survey data from 842 Lesotho students (bootstrapp
 - Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
 - [Personal innovativeness did not significantly influence behavioral intention to use ChatGPT](personal-innovativeness-null-intention.md) — related
 - [Gen Z students report high agreement on AI adoption constructs, with performance expectancy highest and social influence lowest](high-means-pe-highest-si-lowest.md) — related
+- [Social influence has a small positive impact on MALL use in EFL acquisition among Vietnamese learners](social-influence-modest-attitude-mall.md) — related
+- [Facilitating conditions showed an asymmetric pattern: no significant effect on behavioral intention but a significant positive effect on use behavior](facilitating-conditions-asymmetric-intention-use.md) — related
+- [Self-efficacy, perceived trust and performance expectancy influence Gen Z students' behavioural intention to adopt AI](se-pt-pe-predict-bi-gen-z-ai.md) — related
+- [In a Vietnamese EFL sample, all six Meta-UTAUT hypotheses on MALL adoption were accepted with p-values below 0.05](meta-utaut-hypotheses-accepted-mall-efl.md) — related
+- [Social influence plays a diminishing role in Gen Z students' AI adoption intention](si-diminishing-role-gen-z-ai-adoption.md) — reports the opposite

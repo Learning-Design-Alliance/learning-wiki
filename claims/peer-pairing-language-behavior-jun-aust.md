@@ -67,3 +67,4 @@ In the same RCT, the WWC pooled high and low integrative motivation subgroups wi
 ## Related Claims
 - [Cross-age peer tutoring by either bilingual or English-only tutors shows no statistically significant effect on oral language proficiency (Serrano, 1987)](cross-level-peer-tutoring-null-oral-proficiency.md) — related
 - [Peer response groups increase the number of idea units in English learners' writing but show no significant effect on composition quality or sentences written (Prater & Bermudez, 1993)](peer-response-groups-writing-idea-units.md) — related
+- [Greenwood et al. (1993) reported a statistically significant CWPT effect on CTBS-Reading, but the WWC-corrected analysis was not statistically significant](cwpt-ctbs-effect-significance-discrepancy.md) — related

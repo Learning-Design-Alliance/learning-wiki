@@ -53,3 +53,6 @@ Classroom experiment at a secondary school in Tokyo with 252 seventh-grade stude
 - [Warning labels alone did not improve performance or reduce reliance on GenAI advice, and students sometimes adopted incorrect AI answers](genai-warning-labels-insufficient-reliance.md) — related
 - [Error rates per completed problem-solving step did not significantly differ between conditions](no-difference-error-rate-log.md) — related
 - [Students receiving personalized problems gamed the tutoring system less during the personalized unit, with no difference in a later unit](personalization-reduces-gaming-behavior.md) — related
+- [For some students, AI-generated feedback reduces the perceived personal risk of exposing weaknesses, functioning as a psychologically safe space for feedback seeking](ai-feedback-reduces-perceived-personal-risk.md) — related
+- [The Help Tutor improved students' in-tutor help-seeking behavior, but only for a subset of help-seeking action types](help-tutor-improved-in-tutor-help-seeking.md) — related
+- [Mindful-condition students completed fewer problem-solving steps and requested fewer hints per step than Cognitive-condition students](mindful-condition-fewer-steps-hints.md) — related

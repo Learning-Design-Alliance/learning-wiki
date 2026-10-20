@@ -51,3 +51,5 @@ The discussion summarizes the study's trajectory findings: ever-ELs were "closin
 - [Achievement declines from 2019 to 2022 were smaller for Asian American and White first and second graders than for Hispanic, Black, and AIAN students](early-elementary-covid-losses-racial-ethnic-disparities.md) — related
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — related
 - [Non-linear within-year growth has implications for extending the school year, summer learning loss, and racial/ethnic achievement gaps](nonlinear-growth-implications-school-year-summer-gaps.md) — related
+- [Despite faster early math growth, dual language students did not learn more than their peers in the long run and the gap to the national average was not closing](dual-language-math-no-long-run-advantage-gap-not-closing.md) — related
+- [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](ethnic-differences-younger-student-gains.md) — related

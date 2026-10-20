@@ -45,3 +45,4 @@ Theoretical prediction in the reply, illustrated with emotional design: Endres e
 ## Related Claims
 - [Techniques yield learning gains only when they compensate for otherwise too-low focus support or reward (baseline-levels condition)](baseline-levels-condition-technique-effects.md) — a narrower finding that bears on this claim
 - [Physical Experience Enhances Science Learning](physical-experience-enhances-science-learning.md) — related
+- [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — related

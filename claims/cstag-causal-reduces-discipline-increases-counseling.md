@@ -65,3 +65,4 @@ The report states that in the causal CSTAG studies, "those with higher fidelity 
 ## Related Claims
 - [Schools using the CSTAG model show fewer disciplinary infractions, suspensions, expulsions, and law enforcement actions than schools using general threat assessment approaches](cstag-fewer-exclusionary-discipline-than-general-approach.md) — related
 - [CSTAG training shifts staff knowledge and beliefs, improving threat-assessment accuracy and reducing support for zero-tolerance policies](cstag-training-shifts-staff-knowledge-beliefs.md) — related
+- [Black students and students with disabilities are disproportionately referred for behavioral threat assessments](bta-referral-disparities-black-students-disabilities.md) — related

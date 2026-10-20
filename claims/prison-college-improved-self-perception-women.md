@@ -49,3 +49,4 @@ Student interview in the pilot qualitative study. Sarah reflected on how her sel
 - [One adult educator's first-person reflection reports that facilitated class discussions left her feeling empowered as an individual contributor](facilitated-self-directed-learning-empowers-adults.md) — related
 - [Prison higher education alone was reported as insufficient for post-release employment, with criminal-record and reentry barriers persisting](prison-college-limited-employment-benefits.md) — related
 - [Formerly incarcerated women students reported improved disciplinary behavior while participating in a prison college program](prison-college-reduced-disciplinary-behavior-women.md) — related
+- [Gameplay changed students' perceptions of themselves as learners and their learning practice](gameplay-changed-learner-self-perceptions.md) — related

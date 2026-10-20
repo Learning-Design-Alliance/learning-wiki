@@ -45,3 +45,6 @@ Analysis of predictive performance for concepts mapped to only one post-test ite
 ## Related Claims
 
 - [The single-task Random Forest achieves the best average predictive performance but is optimal for only 7 of 15 concepts](single-task-rf-best-average-not-universally-optimal.md)
+- [Overlapping concepts (sharing post-test questions with other concepts) yield higher student scores and higher model R², and multi-task modeling across all concepts is detrimental for these concepts](overlapping-concepts-higher-performance-multi-task-detrimental.md) — related
+- [Sequential deep learning models outperform static models for concepts mapped to multiple post-test questions](sequential-models-outperform-static-multi-question-concepts.md) — related
+- [A hybrid stealth assessment framework selecting the optimal model per concept outperforms any single homogeneous modeling technique for predicting student competencies](hybrid-stealth-assessment-outperforms-single-model.md) — related

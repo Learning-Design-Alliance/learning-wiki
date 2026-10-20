@@ -46,3 +46,5 @@ Qualitative interviews with evaluation committee members in five Illinois distri
 - [Illinois districts implementing PERA-era teacher evaluation systems experienced challenges cultivating buy-in and understanding among school personnel](pera-districts-challenge-cultivating-buy-in-understanding.md) — related
 - [Districts implementing new teacher evaluation systems faced challenges reducing the burden on principals](teacher-evaluation-principal-burden-challenge.md) — related
 - [Incorporating measures of student growth into teacher evaluation systems remained an ongoing challenge for early adopter districts](student-growth-measures-ongoing-challenge.md) — a narrower finding that bears on this claim
+- [Over half of principals were highly engaged in the new evaluation system, while disengaged principals cited its labor intensity amid simultaneous district initiatives](principal-engagement-labor-intensity.md) — related
+- [Alternative student growth measures brought financial costs and implementation challenges around teacher time, test administration, and rigor](implementation-costs-and-challenges-growth-measures.md) — related

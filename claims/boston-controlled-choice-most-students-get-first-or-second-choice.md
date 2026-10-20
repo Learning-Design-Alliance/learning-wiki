@@ -47,3 +47,5 @@ The authors report, as plan designers, descriptive outcome figures from Boston's
 - Participation in Minnesota's statewide public school choice options rose from about 1% of students in 1988-89 to about 17% in 2000-01 — related
 - Neighborhood-based desegregation plans are short-term and eventually defeated by shifting residential patterns — related
 - [Graduates of desegregated 1970s high schools report both benefits from desegregation and experiences of backlash against it](desegregation-graduates-report-benefits-and-backlash.md) — related
+- [Choice program demand varied widely: 19 percent of programs received more than 10 applications per seat while 8 percent received fewer applications than seats, with demand higher for Arts, CTE, points-based, and highly rated programs](gocps-program-demand-variation.md) — related
+- [Black students and students from the lowest-SES neighborhoods ranked more programs but were less likely to rank a high-accountability school first](gocps-subgroup-ranking-and-accountability-differences.md) — related

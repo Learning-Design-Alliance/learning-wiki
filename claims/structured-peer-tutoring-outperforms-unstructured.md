@@ -88,3 +88,5 @@ A meta-analysis of 36 elementary-school peer-assisted-learning studies examined 
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
 - [Tutoring is highly effective, and hiring older peers as tutors supports learning gains for both older and younger students](tutoring-and-cross-age-peer-tutors-effective.md) — related
 - [Unstructured expert interviews miss up to 70% of the subtasks needed to describe a cognitive task](expert-interviews-miss-up-to-70-percent-subtasks.md) — related
+- [Turn-taking test review makes each member's expertise visible, enabling peers to locate and draw on community knowledge](test-review-brings-expertise-to-open.md) — related
+- [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — reports the opposite

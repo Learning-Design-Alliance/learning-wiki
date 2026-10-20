@@ -50,3 +50,6 @@ Qualitative sample inspection of the AI Detection & False Accusations theme (10.
 - [AI-content detection tools achieve only marginally higher success than human reviewers, around 80% versus 78.4%](ai-detection-only-marginally-better-than-humans.md) — related
 - [AI-text detectors misclassify authentic TOEFL essays by non-native English speakers at a mean false-positive rate of 61.3% across seven detectors, far more often than native-speaker essays](detector-61-3-percent-false-positives-non-native-toefl.md) — related
 - [Detection-centered academic integrity regimes are unreliable and potentially biased, making sole reliance on AI detectors unsuitable for high-stakes decisions](ai-detection-unreliable-biased-high-stakes.md) — related
+- [A majority of universities with faculty guidelines discourage reliance on AI detection tools due to unreliability and bias](universities-discourage-ai-detection-tools.md) — related
+- [Detection-led responses to AI in assessment face validity, fairness and trust limits](detection-limits-validity-fairness-trust.md) — a broader claim this one bears on
+- [Critical discourse analysis of 49 educator Reddit posts identifies seven forms of academic erasure in AI-supported writing](seven-forms-academic-erasure-educator-discourse.md) — related

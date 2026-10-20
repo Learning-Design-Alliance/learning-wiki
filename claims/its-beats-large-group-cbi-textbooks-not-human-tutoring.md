@@ -66,3 +66,6 @@ Comparison-treatment moderator analysis (Table 1). Small-group human instruction
 - [Intelligent tutoring systems improve achievement over non-individualised instruction](adaptive-learning-improves-outcomes.md) — possibly the same claim (merge candidate)
 - [Learning with intelligent tutoring systems yields a moderate, statistically significant overall advantage in achievement over non-ITS modes of instruction](its-meta-analysis-overall-effect-0-41.md) — a broader claim this one bears on
 - [Intelligent tutoring systems show moderate learning benefits but are less effective than human tutoring](its-moderate-effect-less-than-human-tutoring.md) — possibly the same claim (merge candidate)
+- [Meta-analytic evidence indicates intelligent tutoring systems yield positive learning outcomes compared with non-ITS conditions](its-meta-analytic-positive-outcomes.md) — possibly the same claim (merge candidate)
+- [The measured advantage of computer-based instruction over conventional teaching shrinks when the same teacher teaches both versions](cbi-advantage-shrinks-same-teacher-comparisons.md) — related
+- [AutoTutor's learning gains are virtually equivalent to those of 1-to-1 human tutoring in direct comparisons](autotutor-gains-equivalent-to-human-tutoring.md) — a narrower finding that bears on this claim

@@ -48,3 +48,5 @@ Content analysis of interview responses on class atmosphere (Table 2) found 13 s
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related
 - [Students reported that the virtual-lab lesson made learning fun, helped them figure out concepts themselves, and supported thinking like real scientists](students-report-simulation-lesson-fun-and-concept-figuring.md) — related
 - [Students perceived clickers' greatest course impact as lesson variation and fun, with learning influence a distant second](clickers-fun-variation-over-learning.md) — related
+- [Students perceive a low-stress climate—supportive teacher behavior and an undistressed social environment—as a critical condition for fun in learning](low-stress-climate-fun-element.md) — related
+- [Students perceive diversity in learning—varied content, outdoor and technology-supported approaches, and physical activity—as essential to fun in learning](diversity-in-learning-fun-element.md) — related

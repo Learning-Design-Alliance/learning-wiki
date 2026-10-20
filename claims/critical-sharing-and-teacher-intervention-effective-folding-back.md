@@ -45,3 +45,5 @@ Cross-extract qualitative finding from narrative analysis of video-recorded conv
 ## Related Claims
 - [Discontinuities during folding back, including algebraic errors while working outside the geometry topic, did not prevent effective folding back](discontinuity-during-folding-back-still-effective.md) — related
 - [Folding back to inner layers of understanding supported Grade 10 learners' geometric reasoning on proof tasks](folding-back-supported-grade10-geometric-reasoning.md) — related
+- [The guide identifies intentional instruction, interaction and conversation, and sequentially built lessons as important factors in preschool instruction](preschool-instruction-key-factors-wwc.md) — related
+- [Teacher interventions that are not explicit encourage learners' self-awareness of the limitations of their current understanding without prescribing a solution](non-explicit-teacher-interventions-encourage-self-awareness.md) — related

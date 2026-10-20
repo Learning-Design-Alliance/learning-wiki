@@ -47,3 +47,4 @@ Pearson correlation between the composite WM index and age in the 60-participant
 - [Working-memory capacity correlates positively with accuracy on all four sentence-production conditions](wm-positively-correlated-all-production-conditions.md) — related
 - [Verbal memory performance declines with age in the full sample, significantly at the one-week delay](verbal-memory-declines-with-age-t3.md) — related
 - [VMI-3R scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s](vmi-3r-score-declines-with-aging-from-50s.md) — related
+- [The syntactic-priming task with noncanonical word order is the best single predictor of age among the four sentence-production conditions](priming-noncanonical-best-predictor-of-age.md) — related

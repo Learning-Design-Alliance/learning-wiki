@@ -68,3 +68,5 @@ Three additional groups saw pink toys emerge at 10%, 5%, or 2.5% likelihood; all
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](surprise-enhances-childrens-word-learning-museum.md) — related
 - [Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome](surprise-enhances-infant-object-sound-learning.md) — related
 - [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — a broader claim this one bears on
+- [Eleven-month-old infants who see a core knowledge violation preferentially explore the violating object over a novel distractor](infants-explore-core-knowledge-violating-objects.md) — related
+- [Learning enhancements from core knowledge violations are entity-specific: no benefit for unrelated bystander objects](surprise-learning-effect-is-entity-specific.md) — related

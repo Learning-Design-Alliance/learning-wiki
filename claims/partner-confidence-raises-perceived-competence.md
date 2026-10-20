@@ -45,3 +45,7 @@ Within-subject ANOVA with rank transformation on competence ratings across three
 ## Related Claims
 - [Learners converge toward an unknown other's assumptions after seeing the other's answers and confidence, reducing the distance between their own and the partner's answers](convergence-toward-others-assumptions.md) — related
 - [Perceived partner competence does not predict how often learners change the direction of their assumptions](perceived-competence-no-impact-on-adjustment.md) — related
+- [Learners change the direction of their assumptions more often to agree with a partner than to disagree](direction-change-more-often-to-agree.md) — related
+- [Learners with lower own confidence are more inclined to change their assumption in the face of disagreement](low-own-confidence-drives-assumption-change.md) — related
+- [Curiosity ratings are functionally distinct from subjective uncertainty ratings: uncertainty declines near-linearly with confidence while curiosity is inverted-U shaped](curiosity-distinct-from-subjective-uncertainty.md) — related
+- [Partner confidence does not significantly affect whether learners change their assumption in the face of disagreement](partner-confidence-no-effect-on-change.md) — related

@@ -64,3 +64,8 @@ Refusal-category analysis in the results section. The article prints a differenc
 ## Related Claims
 - Family-level permutation tests do not detect reliable reasoning-versus-non-reasoning differences in accuracy, refusal, or consistency — related
 - Without required figures, multimodal LLMs overwhelmingly refuse rather than guess on image-Required math items — related
+- [Safety-aligned LLM tutors refuse educational requests asymmetrically, with low-resource students facing the highest refusal rates (76.7% vs 62.2%)](differential-refusal-low-tier-llm-tutors.md) — related
+- [Deepseek's justification scores vary by student socio-economic profile, with Top Tier students averaging 9.60 versus 6.90 for Low Tier students](elite-hermeneutics-justification-gap.md) — related
+- [LLM history tutors reduce marginalized students' access to contested geopolitical framing, with the coup theory appearing in 2.6% of Low Tier responses versus 7.9% for the baseline](epistemic-gatekeeping-coup-gap.md) — related
+- [The strict-persona collapse is attributed to the preamble's two credit-withholding policy sentences, not its harsh tone, with S2 alone causing refusal in two models](strict-preamble-policy-sentence-attribution.md) — related
+- [The two education-specialized models lead neither education module, and the improvement from education-specific post-training is small relative to differences in general capability](education-specialized-models-lead-neither-education-module.md) — related

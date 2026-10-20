@@ -45,3 +45,4 @@ Rosenshine's tribute attributes the origin of the phrase to Brophy's reading of 
 ## Related Claims
 - [Brophy's dyadic observational system coded student responses to teacher questions as correct, partly correct, do not know, or error, and coded each teacher's response to those student responses](brophy-dyadic-observational-system.md) — related
 - [Between 1969 and 1983 Brophy and colleagues conducted more process-outcome studies than any other researcher, correlating teacher classroom practices with student achievement gains](brophy-process-outcome-studies-1969-1983.md) — related
+- [Teacher expectation effects are conditional: some teachers exhibit markedly different behavior and opportunities based on perceived student ability while others do not](teacher-expectation-effects-conditional-brophy-good.md) — related

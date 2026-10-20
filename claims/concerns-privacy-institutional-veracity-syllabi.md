@@ -47,3 +47,6 @@ Institutional document coding of 116 institutions found privacy cautions directe
 - [Course syllabi name specific GenAI tools — ChatGPT in 90 of 98 — while institutional guidelines contain no code for specific tools](specific-tools-named-in-syllabi-not-institutional.md) — related
 - [Institutional GenAI guidance is more pro-use than computing course syllabus policies, where 92% of syllabi set explicit permissions and half prohibit use outright](institutional-pro-use-course-guarded-genai-policies.md) — related
 - [Course syllabi anthropomorphize GenAI — 39% attribute living characteristics such as a GenAI Assistant — a theme absent from institutional guidelines](course-syllabi-anthropomorphize-genai.md) — related
+- [The most frequently cited ethical concerns about GenAI in research were hallucinated facts, fabricated references, and misleading content](hallucinated-facts-fabricated-references-top-concerns.md) — related
+- [Students' top two concerns about educational LLM use are output quality (fabricated or misleading content, 53 mentions) and the verification burden (34 mentions)](students-top-concerns-output-quality-verification-burden.md) — related
+- [Teachers report concerns about infrastructure, reliability, age appropriateness, teacher competence, and student over-reliance on AI](teacher-constraints-responsible-ai-integration.md) — related

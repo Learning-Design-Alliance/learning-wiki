@@ -45,3 +45,5 @@ Score decomposition of the IF-AT final exam: the mean was 67% but "without parti
 ## Related Claims
 - [IF-AT exam scores correlate with constructed-response quiz scores (r = 0.67), supporting validity](if-at-exam-scores-correlate-with-cr-quiz-scores.md) — related
 - [Partial credit under the IF-AT is granted in a discriminating manner: top final-exam scorers earned 65% ± 23% of available partial credit versus 39% ± 10% for bottom scorers](if-at-partial-credit-discriminating.md) — related
+- [Polychotomously scored IF-AT physics exam items show excellent discrimination, with a mean item-total correlation of r′ = 0.41 ± 0.13 across 45 items](if-at-integrated-testlet-items-excellent-discrimination.md) — related
+- [Intra-testlet items were slightly more difficult than stand-alone questions (p′ = 0.69 ± 0.15 vs 0.75 ± 0.15)](intra-testlet-items-slightly-more-difficult.md) — related

@@ -47,3 +47,7 @@ Robustness check in which 3 LLMs each scored all 167 dialogues 4 times under the
 - [Judge and crowd broadly agree on which criteria matter, but the judge's near-identical top scores make its ranking of strong systems essentially random](judge-crowd-agree-on-criteria-but-scores-separate-nothing.md) — related
 - [LLM-as-a-judge ratings found only small, incremental differences between systems, with ceiling effects on several criteria](llm-judge-small-incremental-differences-ceiling.md) — related
 - [Platform-generated scores and rubric-based teaching quality produced substantially divergent rankings of the same AI teaching agents](platform-rubric-rankings-diverge-ai-teaching-agents.md) — related
+- [The LLM-judge separates weak submissions but its ranking of the strongest systems has almost no agreement with crowd ranking (Spearman ρ = −0.17)](llm-judge-ranks-strongest-systems-poorly.md) — related
+- [Survey items show good discrimination overall, but several items exhibit ceiling effects that limit measuring change over time](survey-item-discrimination-and-ceiling-effects.md) — related
+- [RAG prompting shows systematic leniency, over-scoring relative to teacher mean scores in all four rubric dimensions (total bias = 1.787)](rag-systematic-leniency-overscoring.md) — related
+- [Anchored judge prompts restore score discrimination and raise the reward's agreement with independent human ratings (Spearman ρ 0.672→0.741)](judge-anchoring-raises-human-agreement.md) — related

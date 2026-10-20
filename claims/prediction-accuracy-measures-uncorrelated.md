@@ -44,3 +44,5 @@ Correlational analysis within the intervention study comparing the two monitorin
 
 ## Related Claims
 - [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related
+- [Grandiose narcissism predicted overconfidence in exam score predictions at both time points, while vulnerable narcissism predicted less overconfidence only at course start and optimism was unrelated](narcissism-predicts-overconfidence.md) — related
+- [The Monitoring Exercise protected against overconfidence in the second exam score prediction but did not affect exam scores](monitoring-exercise-reduced-overconfidence-only.md) — related

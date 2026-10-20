@@ -73,3 +73,4 @@ Experiential-learning theme from the same interviews: AI simulations let learner
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](generative-learning-reorganizing-integrating-prior-knowledge.md) — related
 - [High authenticity simulations show higher effects than low authenticity simulations](high-authenticity-simulations-higher-effects.md) — related
+- [Role-playing in a ship simulator constitutes an activity context whose ephemeral resources can collapse](role-play-activity-context-simulator.md) — related

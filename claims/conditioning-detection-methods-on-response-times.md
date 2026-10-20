@@ -47,3 +47,5 @@ The abstract describes the study's method and use case: results from "a variety 
 - [Validating decision rules for detecting disengaged survey responses is problematic because surveys have no correct answers](survey-disengagement-detection-validation-problem.md) — related
 - [Response-time threshold-setting methods for detecting noneffortful item responses were compared using reading scores from over 728,923 US students in 2,056 schools](threshold-methods-compared-large-scale-reading-data.md) — related
 - [Teachers report difficulty locating conceptual gaps because students stop progressing silently after difficulty, making disengagement hard to detect during class](silent-disengagement-stuck-points-theme.md) — related
+- [Threshold-setting methods are compared using reading scores from over 728,923 students on a computer-adaptive test of nearly 12,000 items](large-scale-cat-threshold-method-comparison.md) — related
+- [Disengaged responding biases observed scores from achievement tests and surveys in practically and statistically significant ways](disengaged-responding-biases-observed-scores.md) — related

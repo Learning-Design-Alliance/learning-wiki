@@ -44,3 +44,4 @@ Objective outcome analysis of the main Prolific experiment; Table 2 reports fix 
 
 ## Related Claims
 - [LLM-rewritten Python error messages improved subjective evaluations but did not reliably improve objective debugging performance](llm-error-rewrites-subjective-not-objective-gains.md) — related
+- [Descriptive time-to-fix patterns favored pragmatic messages, but statistical tests found no significant effects](time-to-fix-descriptive-favor-llm-not-significant.md) — related

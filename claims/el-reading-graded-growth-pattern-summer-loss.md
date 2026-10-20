@@ -50,3 +50,5 @@ Longitudinal reading growth analysis from K-4 comparing ELs and never-ELs by gra
 - [ELs lost more academic skill during summers than never-ELs in both math and reading](el-greater-summer-loss-both-subjects.md) — related
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](el-lag-limited-academic-content-exposure.md) — related
+- [In math, EL groups grew more than never-ELs during academic years but lost more during summers](el-math-faster-year-growth-higher-summer-loss.md) — related
+- [In math, ELs grew more than never-ELs during academic years but lost more during summers](el-math-academic-year-growth-greater-summer-loss.md) — related

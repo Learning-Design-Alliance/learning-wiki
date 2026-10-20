@@ -48,3 +48,5 @@ Monitoring accuracy was measured by asking students to self-rate their stories' 
 - [In one 2×2 experiment with 120 undergraduates, an Assessment-Performance Calibration Activity (APCA) gave the most accurate self-assessment and least overconfidence, and adding a feedback-literacy script did not improve calibration further](apca-improves-self-assessment-accuracy-overconfidence.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — a broader claim this one bears on
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
+- [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
+- [The impact of the strategy training was higher for evaluation than for search skills, in terms of accuracy and quality of students' justifications.](training-impact-higher-evaluation-than-search.md) — related

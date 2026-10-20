@@ -52,3 +52,5 @@ Null bivariate correlation results (Table 2) from the cross-sectional accelerome
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](vigorous-activity-predicts-o-flu-fle-not-ela.md) — reports the opposite
 - [The three physical activity indicators (active play, family/peers time, sedentary behavior) are all intercorrelated, with weak sedentary-behavior links](pa-indicators-intercorrelated.md) — related
 - [Objectively measured physical activity shows no significant association with academic achievement in children with overweight/obesity](physical-activity-no-association-academic-achievement.md) — related
+- [In a multiple regression model, vigorous physical activity significantly accounts for 4.5% of variance in overall creativity](vigorous-activity-regression-creativity-variance.md) — related
+- [Anthropometric variables, body composition and hand grip strength show no correlation with creativity components in this sample](anthropometrics-no-correlation-creativity.md) — related

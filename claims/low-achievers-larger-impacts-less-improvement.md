@@ -50,3 +50,5 @@ Longitudinal follow-up of a subset of 1 million students whose pre-pandemic achi
 - [Student achievement at the start of the 2021-22 school year lagged pre-pandemic norms, especially in math](fall-2021-achievement-lagged-pre-pandemic-norms-especially-math.md) — related
 - [The 2021-22 COVID learning study investigated fall 2021 achievement versus pre-pandemic fall 2019 levels and fall 2019 to fall 2021 gains versus normative growth expectations](fall-2021-achievement-compared-to-fall-2019-pre-pandemic.md) — related
 - [COVID-19 learning deficits arose early in the pandemic and have neither closed nor substantially widened since then](covid-learning-deficits-early-onset-persistence.md) — reports the opposite
+- [School-aged children experienced a substantial overall learning deficit during the COVID-19 pandemic (pooled d = −0.14), equivalent to about 35% of a school year's learning](covid-pandemic-pooled-learning-deficit.md) — related
+- [AI-supported PBL offerings showed higher A-rates and fewer low grades than pre-integration control offerings when including the COVID-19 year](genai-pbl-higher-a-rates-fewer-low-grades.md) — related

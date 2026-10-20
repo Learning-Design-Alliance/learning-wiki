@@ -50,3 +50,4 @@ The review reports, citing Wong et al. (2022), that mind wandering occupies "app
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](mind-wandering-dual-role-srl-regulatory-strategy.md) — related
 - [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
+- [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related

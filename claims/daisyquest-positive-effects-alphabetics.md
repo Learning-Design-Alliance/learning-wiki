@@ -53,3 +53,5 @@ WWC synthesis of four randomized controlled trials totaling 223 students. The re
 - [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
 - Superkids Reading Program improves kindergarten sound and word reading with an average effect size of +0.23 versus controls — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related
+- [DaisyQuest outperformed alternative reading software on phonological awareness in at-risk first graders](daisyquest-beats-reading-software-phonological-awareness.md) — a narrower finding that bears on this claim

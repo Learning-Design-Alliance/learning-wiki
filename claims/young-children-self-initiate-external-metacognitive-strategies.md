@@ -47,3 +47,6 @@ Overall finding of the preregistered study (N = 72, ages 3–8, Australia): chil
 - [Most 3-year-olds deployed a demonstrated external marking strategy, but none modified it to solve a conceptually similar transfer task](three-year-olds-copy-but-do-not-modify-external-strategy.md) — a narrower finding that bears on this claim
 - [Review reports a developmental shift in cognitive offloading: children under-use external aids while adolescents over-rely on them](developmental-shift-cognitive-offloading.md) — related
 - [From age 6, children deploy effective external strategies on most trials, with strategy number, combination, and order varying widely within and across age groups](from-age-six-effective-external-strategies-most-trials.md) — related
+- [Young children ages 5-6 can set learning goals and use the Self-Determined Learning Model of Instruction to achieve them](young-children-set-goals-sdlmi-achieve.md) — related
+- [Metacognitive reflection training improves young children's DCCS performance, with behavioral and neural changes](reflection-training-improves-dccs.md) — related
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related

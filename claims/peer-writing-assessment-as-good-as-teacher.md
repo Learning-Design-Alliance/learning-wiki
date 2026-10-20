@@ -64,3 +64,5 @@ Outcome study by Richer (1992) comparing peer group discussion of essays with te
 ## Related Claims
 - [Peer assessment of professional skills shows adequate reliability including in medicine, with outcomes generally at least equivalent to teacher assessment](peer-professional-skills-reliability-outcomes.md) — related
 - [AI-assisted peer feedback enhanced lexical diversity only in the first writing task, with the group advantage disappearing by the second task](lexical-diversity-advantage-first-task-only.md) — related
+- [Anonymous asynchronous online peer review of writing: lower-skill students sometimes felt inferior yet increased determination, while better writers felt they learned less](anonymous-online-peer-review-differential-responses.md) — related
+- [Peer marks and grades show acceptably high reliability with teachers' marks in most comparison studies, but a substantial minority report low reliability](peer-assessment-adequate-reliability-most-studies.md) — related

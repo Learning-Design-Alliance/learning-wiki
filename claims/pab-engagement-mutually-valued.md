@@ -44,3 +44,4 @@ Post-participation survey of the six-member Merlyn Mind Practitioner Advisory Bo
 - [Industry partners reported learning about working with schools and educators, including contracting and teacher community building](industry-learned-working-with-schools.md) — related
 - [Limited device access and a six-month engagement constrained some Board members' contributions, with one member reporting expectations were not met](pab-device-access-limitations.md) — reports the opposite
 - [Practitioner Advisory Board members reported learning more about AI and related edtech through their engagement](practitioners-learned-about-ai.md) — related
+- [Participants reported professional growth through networking and collaboration within the RPIP](pab-networking-professional-growth.md) — related

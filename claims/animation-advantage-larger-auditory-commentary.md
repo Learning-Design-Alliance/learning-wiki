@@ -47,3 +47,6 @@ Moderator analysis within the random-effects meta-analysis of animated vs. stati
 - [The animation advantage is larger when the animation is system-paced](animation-advantage-larger-system-paced.md) — related
 - [The animation advantage is largest when instruction includes no accompanying text](animation-advantage-largest-without-accompanying-text.md) — related
 - [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Animation is overall beneficial to retention compared with static graphics in multimedia instruction about dynamic systems](animation-benefits-retention-over-static-graphics.md) — a broader claim this one bears on
+- [Prior research failed to find clear evidence that animated graphics improve comprehension over static graphics](animation-research-lacks-clear-evidence-over-static.md) — reports the opposite
+- [Voice-based multimedia settings (animation+voice and picture+voice) produce better learning performance than picture+text](voice-media-outperform-picture-text-overall.md) — related

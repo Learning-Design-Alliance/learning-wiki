@@ -49,3 +49,5 @@ Bayesian mixed ANOVA (Group x Task) in a sample of 144 children aged 8-13. The T
 - [Non-decision time (encoding/motor speed) is unchanged when inhibitory demands are introduced](stop-signal-demands-no-nondecision-time-change.md) — related
 - [Equivalent performance-adjustment effects hold when clinical control and neurotypical children are analyzed separately](three-group-exploratory-analyses-consistent.md) — related
 - [Pre-adolescent children already exhibit proactive inhibitory control, slowing responses as stop-signal probability increases](proactive-inhibition-present-pre-adolescence.md) — related
+- [Reactive inhibition speed and accuracy improve with age between 8 and 11 years, while proactive response slowing does not increase with age](reactive-inhibition-improves-age-8-11.md) — related
+- [Reward does not alter the speed or variability of response execution in either stop signal task](reward-does-not-alter-response-execution.md) — related

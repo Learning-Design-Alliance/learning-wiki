@@ -45,3 +45,4 @@ Editorial description of the approach by Mu, Stegmann, Mayfield, Rosé & Fischer
 ## Related Claims
 
 - [Essays within each tool group showed consistent homogeneity across named entities, n-grams, and topic ontology](nlp-homogeneity-ner-ngrams-ontology-within-groups.md)
+- [Retrained BERT relies on high-impact nouns, verbs, and adjectives for correct predictions, but this reliance is muted on the AF dataset](lime-pos-reliance-varies-by-dataset.md) — related

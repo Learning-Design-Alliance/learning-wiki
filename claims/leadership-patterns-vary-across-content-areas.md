@@ -43,4 +43,7 @@ Breakdown of accepted leadership moves by content area in study one. The article
 
 
 ## Related Claims
--
+- [Distinct intellectual and organizational emergent leader roles, taken by different students, can be identified in about half of collaborative groups](intellectual-and-organizational-leader-roles-distinct.md) — related
+- [Leadership moves are distributed among members of children's collaborative learning groups rather than concentrated in a single leader](leadership-moves-distributed-among-group-members.md) — related
+- [Emergent leadership did not differ between multi-touch table and paper conditions in study one](no-leadership-difference-multi-touch-paper.md) — related
+- [Three discourse patterns emerged during collaborative multidisciplinary modeling, differing in the extent to which students merged disciplinary perspectives](three-interdisciplinary-discourse-patterns.md) — related

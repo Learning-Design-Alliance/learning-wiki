@@ -49,3 +49,4 @@ WWC synthesis of one quasi-experiment (Schoen & Hirsch, 2002) using a student ma
 - [One of four qualifying studies found significant positive ITED outcomes for Core-Plus Mathematics](core-plus-one-of-four-studies-significant.md) — related
 - Qualifying Core-Plus studies used within-school matching because participation was by student choice — related
 - [Cognitive Tutor® Geometry shows potentially negative effects on geometry outcomes, with an improvement index of –8 percentile points](cognitive-tutor-geometry-potentially-negative-effects.md) — related
+- [eMINTS has potentially positive effects on general mathematics achievement (improvement index +2 across two studies)](emints-potentially-positive-math-achievement.md) — related

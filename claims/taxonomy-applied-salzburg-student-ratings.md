@@ -50,3 +50,4 @@ The article applies the taxonomy to the Salzburg student-rating project (Task Fo
 
 ## Related Claims
 - The article concludes there is an irreconcilable conflict between the values of Turkish modernization and the libertarian and democratic values Dewey advocates — related
+- [CONFLICT operator achieves the highest downstream success rate among Berlyne-inspired curiosity operators, while NOVELTY is selected most frequently with a substantially lower success rate](conflict-operator-highest-success-rate.md) — related

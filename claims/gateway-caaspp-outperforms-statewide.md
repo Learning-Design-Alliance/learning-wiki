@@ -44,3 +44,4 @@ Analysis of California Department of Education CAASPP results reported in Table 
 
 ## Related Claims
 - [Student cohorts in several MiC districts showed consistently higher mathematics achievement than the statewide average from 2015 to 2017, with wide district variability](mic-cohort-gains-above-state-variability.md) — related
+- [Statewide California mathematics achievement on the CAASPP was mostly stagnant from 2015 to 2018 and lagged behind English language arts gains](california-math-caaspp-stagnant-lags-ela.md) — related

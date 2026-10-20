@@ -50,3 +50,5 @@ Pearson bivariate correlational analyses among the outcome variables (Table 3) i
 - [Practice condition did not significantly affect learners' subjective confidence about credit knowledge or ability to manage credit](practice-condition-no-effect-financial-metacognition.md) — related
 - [Practice condition showed no significant association with self-reported financial behaviors about credit](practice-condition-no-effect-financial-behaviors.md) — related
 - The majority of students lacked confidence in their experimental results because they could not solicit the behaviors or obtained unexpected results — related
+- [Metacognitive confidence triggers intention offloading independently of objective memory need](metacognition-triggers-offloading.md) — related
+- [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist through, and recover from difficulty on academic tasks.](self-efficacy-predicts-academic-persistence.md) — related

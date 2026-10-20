@@ -48,3 +48,4 @@ Comparative analysis of teacher rankings across VAM specifications in a northern
 - [The choice of which assessment to use as the outcome measure matters more for value-added estimates than any student or peer control-variable specification choice](vam-outcome-assessment-choice-dominates-specification-choices.md) — related
 - [Mathematica developed and estimated VAMs for use in Phase 1 of the Pennsylvania evaluation pilot](mathematica-vam-technical-assistance-phase1.md) — related
 - [Teachers with the same observation scores can have very different value-added scores, with considerable overlap across observation-score quintiles](reach-va-overlap-across-observation-quintiles.md) — related
+- [Alternative value-added specifications produce substantially different teacher estimates but small changes in distribution tails](specification-differences-small-tail-changes.md) — related

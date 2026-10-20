@@ -45,3 +45,6 @@ Regression series predicting normalized assessment scores from a prior-score bas
 - [PTA traits show stronger statistical explanatory power than dialogue-act and Bloom's taxonomy coded baselines on StudyChat](pta-traits-beat-dialogue-act-bloom-baselines.md) — related
 - Ablation of feature-vector models: time-window features add no predictive power to logistic regression but boost a feedforward network, and total count features substantially boost performance on all datasets — related
 - [Conceptual Questions about mathematics are a strong negative indicator of assignment 6 scores](math-conceptual-questions-negative-a6.md) — related
+- [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related
+- [PTA-derived traits significantly improve explained exam-score variance over a prior-outcome baseline in one semester of StudyChat but not the other](pta-traits-explain-studychat-exam-variance-semester-inconsistent.md) — related
+- [Contextual Questions dialogue acts are negatively correlated with assignment outcomes across both semesters](contextual-questions-negative-assignment-outcomes.md) — a narrower finding that bears on this claim

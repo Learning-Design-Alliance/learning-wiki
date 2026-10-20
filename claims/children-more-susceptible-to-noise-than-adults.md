@@ -46,3 +46,5 @@ The editorial reports, citing Klatte et al. (2013), a review of studies on child
 - [Children's speech perception in noise is more impaired than adults', requiring higher signal-to-noise ratios for comparable performance](children-speech-perception-noise-more-impaired-than-adults.md) — a narrower finding that bears on this claim
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
 - [Chronic exposure to indoor noise and reverberation at school is associated with poorer children's reading and prereading skills](chronic-indoor-classroom-noise-reading-prereading.md) — related
+- [Chronic aircraft noise exposure is associated with lower reading comprehension in children, with a linear exposure–effect relationship](chronic-aircraft-noise-lower-reading-comprehension.md) — related
+- [Meaningful background speech impairs delayed memory for texts in teenagers more consistently than transportation noise](meaningful-speech-impairs-prose-memory-teenagers.md) — related

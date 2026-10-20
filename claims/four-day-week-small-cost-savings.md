@@ -47,3 +47,4 @@ Large-scale mixed-methods study of 4dsw implementation across districts in Idaho
 - [No quantitative evidence that the four-day school week improved student attendance](four-day-week-no-attendance-evidence.md) — related
 - [Qualitative data support the view that the four-day school week helps attract and retain teachers in rural districts](four-day-week-teacher-recruitment-qualitative.md) — related
 - [Families and students highly value extra time from the four-day week, and stakeholders report high satisfaction](four-day-week-stakeholder-satisfaction.md) — related
+- [Researchers argue that the teacher shortage in poor school districts may stem more from retaining teachers than from attracting them](teacher-shortage-retention-not-recruitment-poor-districts.md) — related

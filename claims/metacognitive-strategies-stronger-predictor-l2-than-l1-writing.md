@@ -45,3 +45,7 @@ Multigroup SEM comparison of the two structural paths showed the L2 path (β = 0
 ## Related Claims
 
 - [L1 and L2 writing metacognitive strategy subcategories are strongly and positively correlated](strong-positive-correlations-l1-l2-writing-strategy-subcategories.md)
+- [Metacognitive strategies directly and positively predict writing performance in both L1 and L2 task-situated writing](metacognitive-strategies-predict-l1-l2-writing-performance.md) — related
+- [Students unanimously report positive effects of metacognitive strategy use on writing in both L1 and L2, with strategies compensating for limited L2 linguistic knowledge](interview-evidence-metacognitive-strategies-help-l2-writing-compensatorily.md) — related
+- [L1 writing metacognitive strategies facilitate L2 writing performance indirectly via L2 writing metacognitive strategies](cross-language-facilitation-l1-strategies-l2-writing-via-mediation.md) — related
+- [L1 writing metacognitive strategies transfer to L2 writing, invariant across L2 proficiency and academic major groups](l1-l2-transfer-of-writing-metacognitive-strategies-invariant.md) — related

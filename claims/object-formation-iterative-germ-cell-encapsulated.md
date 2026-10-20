@@ -70,3 +70,5 @@ The article's summary of Figure 3 states the steps "testify to the iterative and
 - The transition from mental to written medium involves reducing multivalence and arranging non-linearly stored elements in a linear mode — related
 - [Iterative advisory group feedback drove four framework iterations, including adding disruption and multi-level oppression](advisory-feedback-drove-framework-iterations.md) — related
 - In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related
+- [A full assessment of a potentially expansive mini-cycle of learning calls for extending the time scale of the analysis beyond a single session](assessing-minicycle-requires-extended-time-scale.md) — related
+- [In the meeting, coordination was the most common type of interaction and communication the rarest, indicating reconceptualizing the script was very challenging](coordination-dominates-communication-rare.md) — related

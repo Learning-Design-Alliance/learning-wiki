@@ -43,4 +43,6 @@ Mayer cites the DeLeeuw and Mayer (2008) study as partial validation of the tria
 
 
 ## Related Claims
--
+- [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related
+- [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
+- [Prior knowledge and worked-example type (full vs completion) interact significantly on self-reported germane cognitive load, but not on intrinsic or extraneous load](prior-knowledge-by-worked-example-type-interaction-on-germane-load.md) — related

@@ -44,3 +44,4 @@ Chi-square comparison of MA (n = 375) and DA (n = 299) children in the descripti
 
 ## Related Claims
 - [Most young Latino children show emerging ethnic identity, with self-identification most prevalent (75%) and knowledge least prevalent (about 20%)](young-latino-children-emerging-ethnic-identity-prevalence.md) — related
+- [Mexican American children used more heritage language at home while Korean American children used more English](mexican-american-more-heritage-language-than-korean-american.md) — related

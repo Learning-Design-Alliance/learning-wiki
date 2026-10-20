@@ -48,3 +48,5 @@ Multivariable-adjusted regression in Project Viva (n=1046) testing infant sleep 
 - [Children who slept <9 hours/day at ages 5-7 years had worse maternal-reported executive function and behavioral difficulties at age 7 than children sleeping ≥10 hours/day](short-sleep-5-7-years-worse-maternal-neurobehavioral.md) — related
 - [In bivariate analyses, children sleeping <9 hours/day at ages 5-7 had higher mother- and teacher-reported BRIEF and SDQ scores than those sleeping ≥10 hours/day](bivariate-short-sleep-5-7-higher-brief-sdq.md) — related
 - [Teacher-reported neurobehavioral outcomes at age 7 were consistent with maternal reports for insufficient sleep at ages 3-4 and 5-7 years](teacher-reports-consistent-with-maternal-reports-short-sleep.md) — related
+- [Short sleep duration (<9 hours) at follow-up is associated with impaired academic achievement, while baseline sleep duration did not significantly predict later school performance](short-sleep-duration-academic-achievement-longitudinal.md) — related
+- [Short sleep duration at age 3 was not associated with quality of life at about age 13](sleep-quality-of-life-null-longitudinal.md) — related

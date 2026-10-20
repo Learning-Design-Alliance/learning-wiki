@@ -64,3 +64,5 @@ Review's evaluation of Ning's (2017) bifactor model on the JrMAI version A: it "
 ## Related Claims
 - [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — related
 - [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related
+- [Metacognitive skill level may moderate the factor structure of self-reported metacognition, with lower-scoring respondents showing a unidimensional structure](skill-level-moderates-metacognition-factor-structure.md) — related
+- [Self-report measures of metacognition support a two-factor structure separating metacognitive knowledge from metacognitive regulation](self-report-two-factor-metacognition-knowledge-regulation.md) — related

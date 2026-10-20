@@ -45,3 +45,4 @@ Reported usage comparison by school level in Vista, from surveys and developer-p
 ## Related Claims
 - [Newcomer EL students using BrainPOP ESL showed no statistically significant Lexile growth, and results lacked a comparison group](brainpop-esl-no-significant-lexile-growth.md) — related
 - [Engagement with the unguided STORY MINE module was low, averaging fewer than 3 active login days over 12 weeks](story-mine-low-engagement-unguided.md) — related
+- [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related

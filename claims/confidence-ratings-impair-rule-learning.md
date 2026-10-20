@@ -45,3 +45,8 @@ Pre-registered mixed ANOVA on the full sample (N = 710; 235 confidence rating, 2
 ## Related Claims
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
 - [Rule learners report higher confidence in their described rules than non-learners, but confidence does not differ within flexibility groups](rule-learner-confidence-higher-than-non-learners.md) — related
+- [The confidence-rating impairment on ambiguous transfer items persists among participants who met the learning criterion](rule-learning-impairment-persists-among-learners.md) — a narrower finding that bears on this claim
+- [Confidence ratings are unlikely to be an effective educational tool when knowledge transfer is the goal](confidence-ratings-unsuitable-for-transfer-goals.md) — a broader claim this one bears on
+- [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](rating-scope-confidence-versus-jol-reactivity.md) — related
+- [Confidence ratings do not impede category learning per se: no condition differences in training accuracy or on unambiguous and trained transfer items](no-confidence-rating-effect-training-or-unambiguous-items.md) — related
+- [Response-time effects are limited to slower responding in the JOL condition during the first two training blocks](jol-slower-early-training-response-times.md) — related

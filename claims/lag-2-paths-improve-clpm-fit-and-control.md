@@ -46,3 +46,7 @@ The review attributes this to Marsh et al. (2018a, 2018b) and Lüdtke & Robitzsc
 - [Simulation evidence shows RI-CLPM estimates are biased when the true model is a CLPM with lag-2 effects, and fit statistics cannot decide between the two](rudtke-robitzsch-simulation-ri-clpm-bias-lag2.md) — reports the opposite
 - [RI-CLPMs control unmeasured time-invariant covariates better than CLPMs, but neither controls unmeasured time-varying covariates well](ri-clpm-unmeasured-covariate-control.md) — related
 - [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related
+- [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — related
+- [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
+- [The alternative models proposed by Sorjonen et al. relied on specifications that raised model-validity concerns or did not fully capture the extended REM's temporal structure](sorjonen-models-specification-validity-concerns.md) — related
+- [With young primary-school readers, REM support appeared in CLPMs but not RI-CLPMs, motivating tests with older students](ehm-reading-rem-clpm-not-ri-clpm.md) — related

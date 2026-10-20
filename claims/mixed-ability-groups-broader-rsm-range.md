@@ -68,3 +68,4 @@ Group-composition comparison in the same two undergraduate variance-invention st
 - [Success in developing the canonical solution is not a necessary condition for learning from generation, but failure is not claimed to be indispensable either](canonical-success-not-necessary-for-learning.md) — related
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — reports the opposite
 - [Diversity of student-generated representations and solution methods is significantly correlated with learning from PF](rsm-diversity-correlates-with-pf-learning.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

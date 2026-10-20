@@ -48,3 +48,5 @@ Eight-week platform behavioral tracking of 218 teachers after a two-day workshop
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related
 - In an eight-week teacher workshop, the AI technology creation process was iterative and non-linear, with Understand AI and Reflect on Ethical Application phases surrounding the design cycle — related
+- [Teachers designing multi-agent workflows fall into three behavioral archetypes: Systematic Optimizers, Prolific Creators, and Passive Observers](three-archetypes-multi-agent-workflow-design.md) — related
+- [Platform logs show behavioral shifts toward goal-oriented optimization between workshop Days 4 and 5](behavioral-shift-goal-oriented-optimization.md) — related

@@ -47,3 +47,4 @@ Interview-based thematic finding on design-stage needs. During very early ideati
 - [Students reported challenges with generated-model scale fidelity, shared attention in multi-user XR, motion comfort, and control over generation](genarch-challenges-scale-shared-attention-control.md) — related
 - [LLM assistance value in VR instruction varies with instructional intent type](llm-assistance-value-varies-with-intent-type.md) — related
 - [Teachers' tool preferences are stage-dependent, with pre-gen valued for ideation, mid-gen for structuring, post-gen for finalization, motivating hybrid workflows](stage-dependent-preferences-hybrid-workflows.md) — related
+- [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related

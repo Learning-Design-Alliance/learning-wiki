@@ -48,3 +48,4 @@ Theoretical argument in the review distinguishing difficulty from complexity: me
 - [Participants rated the complex three-population scenario as more difficult than the simple one-population scenario](visigarp-scenario2-difficulty.md) — related
 - [Goal setting improves performance](goal-setting-improves-performance.md) — related
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
+- [Task complexity and desirable difficulties do not significantly affect intrinsic interest or expectancies for success](complexity-and-difficulty-no-effect-self-task-perception.md) — related

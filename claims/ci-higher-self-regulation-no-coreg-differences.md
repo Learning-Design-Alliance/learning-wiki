@@ -51,3 +51,5 @@ Post-task questionnaire (six adapted items, Cronbach's alpha 0.83) comparing rep
 - [The Delegated Reasoning group significantly outperformed the Concerted Interpretation group on collaborative problem-solving task performance](dr-outperforms-ci-task-performance.md) — related
 - [Cluster analysis of student-AI dialogue identifies three distinct collaboration profiles: Delegated Reasoning, Concerted Interpretation, and Delegated Elaboration](three-human-ai-cps-profiles-dr-ci-de.md) — a broader claim this one bears on
 - [Human and AI discourse differ functionally: students lead invitations, connection, and regulation moves, while AI leads reasoning, coordination, and agreement](human-ai-discourse-functional-differences.md) — related
+- [Epistemic network analysis shows metacognitive behaviors co-occur with invitation actions in DR and DE but with human-initiated reasoning and elaboration in CI](ena-metacognition-invitations-versus-reasoning.md) — related
+- [GAI-assisted DST creation significantly enhanced all five CPS sub-dimensions compared to traditional methods](gai-assisted-dst-improves-cps-subdimensions.md) — related

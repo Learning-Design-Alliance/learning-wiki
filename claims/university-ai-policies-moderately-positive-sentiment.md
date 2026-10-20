@@ -54,3 +54,5 @@ NLP sentiment analysis of a corpus of 130 university AI policies crawled from R1
 - [Most university AI policies are written as neutral suggested guidelines rather than strongly subjective or objective mandates](university-ai-policies-neutral-subjectivity-guidelines.md) — related
 - [A datafication-to-commodification governance pathway can shift education from a value-based practice toward a commodified service](datafication-to-commodification-governance-pathway.md) — related
 - [Sentiment scores in GenAI guidelines do not differ significantly by institution size, though small institutions show the highest mean](no-sentiment-difference-institution-size.md)
+- [Sentiment is strongly negatively correlated with community engagement across GenAI education themes (ρ=−0.72)](sentiment-engagement-negative-correlation-genai.md) — related
+- [Sentiment toward GenAI in university guidelines is highly positive and does not differ significantly between private and public institutions](no-sentiment-difference-private-public-genai-guidelines.md) — related

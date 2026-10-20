@@ -45,3 +45,9 @@ In its current-state section the report states that "The lack of diversity in co
 - [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](restorying-supports-computing-identity-reconstruction.md) — a narrower finding that bears on this claim
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
+- [AP Computer Science participation is disproportionately low among girls and students of color](ap-cs-participation-gaps-gender-race.md) — a narrower finding that bears on this claim
+- [Black women and participants with intersecting identities report being overlooked, facing microaggressions, and experiencing imposter syndrome in tech spaces](intersectional-identity-impact-black-women-tech.md) — related
+- [Black workers and learners report awareness and exploration barriers to tech careers including limited diverse representation, limited social networks, and limited school exposure](black-tech-awareness-exploration-barriers.md) — related
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — reports the opposite
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
+- [San Diego regional data show STEM access and pay remain inequitable by race, socioeconomic status, and gender](san-diego-stem-access-inequities.md) — a broader claim this one bears on

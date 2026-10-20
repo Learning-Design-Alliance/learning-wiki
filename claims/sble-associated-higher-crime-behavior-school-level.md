@@ -48,3 +48,5 @@ Meta-analytic synthesis of 27 school-level studies of SBLE and crime/behavior ou
 - [Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes](sble-student-level-exclusionary-discipline.md) — related
 - [Schools with school resource officers may have higher rates of exclusionary discipline, including a reported 21 percent increase in incidents](sros-associated-with-higher-exclusionary-discipline.md) — related
 - [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related
+- [SBLE shows no statistically significant association with criminal justice contact, violence, substance-related, or weapon-related outcomes](sble-no-effect-crime-subcategories.md) — related
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related

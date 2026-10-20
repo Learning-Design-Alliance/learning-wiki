@@ -65,3 +65,5 @@ Pairwise t-tests with Holm–Bonferroni correction following the significant int
 
 - [On the physics conceptual test, both teachers' students improved significantly, with a significant teacher-by-time interaction in which Mrs. Lewis's students overcame a lower pre-test disadvantage by post-test](physics-test-teacher-time-interaction-lewis-overcame-pretest-gap.md)
 - [Both classes improved significantly on the science practices test, with no significant teacher main effect or teacher-by-time interaction](science-practices-test-improvement-no-teacher-interaction.md)
+- [The two teachers' scaffolding moves differed significantly: Mrs. Lewis monitored more, prompted peer idea-sharing, extended materials, and handed over independence more, while Mr. Green provided more static support](teacher-scaffolding-moves-main-effect-differences.md) — related
+- [As material scaffolds faded, Mrs. Lewis's students' performance returned to initial levels between High and Low support, while Mr. Green's students declined significantly across the unit](within-teacher-performance-trajectories-as-scaffolds-faded.md) — related

@@ -47,3 +47,5 @@ Exploratory moderation analyses testing whether rubric effects depended on overa
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related
+- [Example quality does not significantly moderate the effects of the standards on judgment accuracy when aggregated across concepts](example-quality-moderation-null.md) — related
+- [Providing a rubric does not significantly improve relative accuracy of self-assessment across criteria](rubrics-no-effect-relative-accuracy.md) — related

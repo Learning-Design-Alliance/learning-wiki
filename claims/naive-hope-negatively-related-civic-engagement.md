@@ -50,3 +50,4 @@ Narrative review attribution: the article reports, citing Ojala (2017), that nai
 - [Ikeda positions hope as an essential component of global citizenship education, with value creation starting from hope](hope-essential-component-gced.md) — related
 - [Professor-student relationship quality correlates with multiple civic engagement outcomes in both directions](professor-relationship-quality-civic-engagement-bidirectional.md) — related
 - [Positive relationships with professors, community partners, and peer mentors are associated with increased intention to be civically engaged](positive-relationships-increase-civic-engagement-intention.md) — related
+- [Fear of hope: an acquired aversion to feeling hopeful due to anticipated disappointment may block hopeful engagement](fear-of-hope-acquired-aversion.md) — related

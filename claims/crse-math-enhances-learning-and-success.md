@@ -47,3 +47,5 @@ The brief attributes this to a research synthesis by Abdulrahim & Orosco (2020),
 - [Analyzing practical-measure data across student groups helps teachers tailor CRSE instruction](practical-measure-data-tailors-crse-instruction.md) — related
 - [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](dominant-outcomes-overreliance-constrains-students-of-color.md) — related
 - [Educational psychology has long neglected marginalized learners and remains complicit in imposing normative standards and social stratification](ed-psych-neglect-marginalized-learners-normative-standards.md) — related
+- [The article argues education for global citizenship has the potential to improve quality of life and lessen inter- and intra-group violence toward a culture of peace](gced-potential-culture-of-peace.md) — related
+- [The paper reports that culturally responsive pedagogies are associated with more student engagement, agency, and responsibility for seeking information](crse-pedagogies-engagement-agency-claim.md) — related

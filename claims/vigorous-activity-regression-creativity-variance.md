@@ -50,3 +50,5 @@ Multiple regression analysis (Table 3) with the different intensity thresholds o
 - [Vigorous physical activity is positively and significantly correlated with fluency, originality, flexibility and overall creativity in 10–11-year-old children](vigorous-activity-correlates-divergent-thinking.md) — a broader claim this one bears on
 - [Vigorous physical activity significantly predicts originality, fluency and flexibility in regression models, but not elaboration](vigorous-activity-predicts-o-flu-fle-not-ela.md) — related
 - [Moderate-to-vigorous physical activity correlates positively with fluency, originality, flexibility and overall creativity, though less significantly than vigorous activity alone](mvpa-correlates-creativity-dimensions.md) — related
+- [Light and moderate physical activity and sedentary behavior show no significant relationship with any creativity component or overall creativity](light-moderate-sedentary-no-creativity-relationship.md) — related
+- [Regression analysis showed creativity score was not dependent on active play](regression-null-active-play-creativity.md) — related

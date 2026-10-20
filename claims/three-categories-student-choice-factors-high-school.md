@@ -46,3 +46,4 @@ Qualitative analysis of seven focus groups with 38 eighth-grade students across 
 - [Student-school fit was an overarching theme in all focus groups across all phases of the high school choice process](fit-overarching-theme-high-school-choice.md) — possibly the same claim (merge candidate)
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — a narrower finding that bears on this claim
 - [Students overwhelmingly relied on GoCPS, CPS, and school websites to learn about potential high schools, but found websites out of date and lacking student-voice information](students-relied-on-online-sources-school-research.md) — related
+- [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related

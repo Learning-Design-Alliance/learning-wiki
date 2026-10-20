@@ -45,3 +45,6 @@ Post hoc descriptive analysis of judgment shifts: "22.6% of judgments were found
 ## Related Claims
 - [Reactivity differs by rating scope: item-focused confidence ratings impaired rule learning while task-focused judgments of learning did not](rating-scope-confidence-versus-jol-reactivity.md) — related
 - [Adults who answered health math problems correctly reported higher monitoring judgments than those who answered incorrectly, with larger differences at posttest than pretest](accuracy-linked-to-higher-monitoring-judgments.md) — related
+- [Pre-monitoring and retrospective confidence judgments are highly consistent, with most agreement at the highest scale level regardless of correctness](pre-monitoring-confidence-judgment-consistency.md) — related
+- [Monitoring lowers accuracy for unlearnable rules: preposition usage was significantly less accurate in the more monitored style](monitoring-lowers-preposition-accuracy.md) — related
+- [Grade 4 children can metacognitively monitor their working memory performance, tending to be over-confident as task difficulty increases](grade4-children-monitor-working-memory-overconfident.md) — related

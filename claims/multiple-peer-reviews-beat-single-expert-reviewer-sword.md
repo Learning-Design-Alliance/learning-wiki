@@ -43,4 +43,5 @@ A controlled experiment within the SWoRD evaluation compared "a single expert re
 
 
 ## Related Claims
--
+- [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — a broader claim this one bears on
+- [The quality of feedback students give peers predicts gains in their own work, but no recorded study isolates a causal benefit of the assessor role](peer-assessment-benefits-assessor.md) — related

@@ -51,3 +51,5 @@ Publication-bias analyses using multilevel Egger's regression and power-enhanced
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
 - [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
+- [Evidence of publication bias exists, but the pooled video effects are robust to it](publication-bias-present-but-effects-robust.md) — related
+- [Longer exercise intervention duration is consistently associated with larger effect sizes on ADHD functional outcomes](longer-exercise-interventions-larger-adhd-effects.md) — related

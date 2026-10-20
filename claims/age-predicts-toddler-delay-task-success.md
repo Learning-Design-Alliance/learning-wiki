@@ -49,3 +49,4 @@ Preliminary logistic regression of snack delay performance on age, gender, chair
 - [Successful two- and three-year-olds initiate distraction and withholding behaviours very early, within the first 10 seconds of delay on average](rapid-initiation-delay-behaviours-successful-toddlers.md)
 - [Percentage of time distracting visual attention away from the reward predicts success on delay-of-gratification tasks in two- and three-year-olds](visual-attention-distraction-predicts-toddler-delay-success.md)
 - [Teacher-rated, but not parent-rated, self-control relates to the occurrence and timing of delay behaviours in toddlers](teacher-rated-self-control-relates-toddler-delay-behaviours.md)
+- [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related

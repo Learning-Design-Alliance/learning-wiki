@@ -45,3 +45,4 @@ Qualitative inductive thematic coding (Braun and Clarke approach cited by the au
 ## Related Claims
 - [LIS users recognize Pepper's isolated signs far better than its full signed sentences in an exploratory evaluation](pepper-isolated-signs-recognized-better-than-sentences.md) — related
 - [Qualitative error analysis yields five recurring error types, with over-inference most prevalent (33.5%), followed by evidence misidentification (23.4%) and hallucination (19.8%)](five-error-types-llm-diagnosis-vague-evidence.md) — related
+- [A MATLAB inverse-kinematics pipeline automated generation of 38 of 52 LIS signs on Pepper and cut authoring time from 45–60 to under 10 minutes per sign](ik-pipeline-automates-pepper-lis-sign-generation.md) — related

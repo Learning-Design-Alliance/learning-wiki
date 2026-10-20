@@ -46,3 +46,6 @@ The publication abstract states the report "discusses the model's limitations". 
 - [Oklahoma's Pilot Teacher and Leader Evaluation System used a value-added model to estimate teacher and school effectiveness for 2012-2013 instruction](oklahoma-pilot-evaluation-value-added-model-2012-13.md) — related
 - [Proxy pre-test value-added estimates show bias, but may still carry information about teacher effectiveness](proxy-pretest-estimates-biased-but-informative.md) — related
 - [Findings from two states and three cities cannot be generalized to a national estimate of program effects](two-states-three-cities-not-generalizable.md) — related
+- [The report documents a value-added method combining nontechnical description of main features with data sources and technical statistical detail](dc-value-added-report-design-features.md) — related
+- [The value-added models used for Oklahoma's spring 2016 results were updated relative to prior years](value-added-model-updates-spring-2016.md) — related
+- [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related

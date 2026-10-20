@@ -45,3 +45,5 @@ The brief announces that it "describes updates to the value-added models" used f
 ## Related Claims
 - [Oklahoma educators received value-added results in spring 2016 based on instruction provided in the 2014–2015 school year](oklahoma-tle-value-added-results-spring-2016.md) — related
 - [Spring 2016 was the third year Oklahoma's TLE provided value-added results to educators](tle-third-year-value-added-results.md) — related
+- [Oklahoma's 2013-2014 teacher value-added estimates combined test scores with other information about teachers and students](oklahoma-value-added-uses-test-scores-and-other-information.md) — related
+- [The report explicitly discusses limitations of the Oklahoma value-added model](oklahoma-value-added-model-limitations-discussed.md) — related

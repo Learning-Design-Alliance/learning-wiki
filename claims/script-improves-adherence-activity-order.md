@@ -65,3 +65,7 @@ Descriptive phase-pattern analysis per group displayed in Table 1 (I, G, C patte
 
 - [Scripted conditions more often produced a discussion phase on differences between group members, but no quality differences in those discussions were detected](script-increases-discussion-on-differences.md)
 - [A three-phased collaboration script leads distance students to provide more and longer input in grounding discussions, with the structured interface further increasing input length](script-increases-grounding-input-amount-length.md)
+- [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](script-shifts-effort-toward-grounding.md) — related
+- [Teachers adhered less to scaffolding than to fully scripted curriculum components across three studies](scaffolding-lower-adherence-than-scripted-components.md) — related
+- [Scripting collaboration via role-assigned interfaces produced little difference in learning outcomes compared with an unscripted self-organized condition in a semester-long course](scripting-little-difference-learning-outcomes.md) — related
+- [Scripted students tended to answer either all or none of a discussion's input questions, and the structured interface strengthened this all-or-none pattern](script-all-or-none-input-answering.md) — related

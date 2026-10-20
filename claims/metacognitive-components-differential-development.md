@@ -49,3 +49,7 @@ Univariate tests on the four metacognition subscales (Table 2) show significant 
 ## Related Claims
 - [Both the quantity and the quality of metacognitive skills in math increase between the second and third year of secondary education (ages 13–15)](metacognitive-quantity-quality-increase-ages-13-15.md) — possibly the same claim (merge candidate)
 - [Intrinsically motivated students show significantly higher proportions of evaluation and elaboration messages, while extrinsically motivated students concentrate in planning and orientation](intrinsic-motivation-higher-order-metacognition.md) — related
+- [The roles of intelligence and metacognitive quality as predictors of math performance turn around between ages 13 and 15](intelligence-metacognition-predictor-turnaround.md) — related
+- [Metacognitive ability improves across adolescence, with a logarithmic age trajectory](cms-age-effect-metacognition.md) — related
+- [The mixed model holds for metacognitive quality in both age groups: metacognitive skillfulness contributes uniquely to math performance on top of intelligence](mixed-model-metacognitive-quality-unique-contribution.md) — related
+- [Metacognitive skillfulness develops alongside, but not fully dependent on, intellectual ability, in line with the monotonic development hypothesis](monotonic-development-metacognitive-skills.md) — related

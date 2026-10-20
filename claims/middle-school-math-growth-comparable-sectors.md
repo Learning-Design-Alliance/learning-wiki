@@ -46,3 +46,4 @@ The national K-8 MAP Growth study reports that the early-grade sector difference
 - [Catholic school students in earlier grades show less academic-year growth than public school peers in both reading and math](early-grades-catholic-less-growth-reading-math.md) — related
 - [Achievement growth patterns between Catholic and public school students varied by age and subject](sector-growth-patterns-vary-age-and-subject.md) — a broader claim this one bears on
 - [Public school students close the achievement gap with Catholic school students to some degree during the school year](public-school-students-close-gap-during-school-year.md) — related
+- [Catholic school students score higher in math and reading than public school students on average, but enter each school year at a higher level](catholic-schools-higher-achievement-higher-entry-levels.md) — related

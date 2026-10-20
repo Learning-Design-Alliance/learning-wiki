@@ -45,3 +45,5 @@ Qualitative review by two expert raters of all 80 DPs, with weighted Cohen's κ=
 
 ## Related Claims
 - [Students rated DPs positively, did not distinguish the two LLMs, and disagreed with experts on the same DPs, rating feasibility significantly lower](student-perceptions-of-dps-differ-from-experts.md) — related
+- [A reasoning-oriented LLM outperformed a standard LLM on scenario quality and feasibility of generated design problems, with no differences on alignment, cognitive complexity, or clarity](reasoning-llm-outperforms-standard-on-dp-quality.md) — related
+- [Instructors value design problems for assessing higher-order thinking in PjBL but cite creation effort and scalability as adoption barriers](instructors-value-dps-effort-barrier.md) — related

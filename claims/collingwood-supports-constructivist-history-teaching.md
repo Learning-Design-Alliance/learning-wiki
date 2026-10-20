@@ -47,3 +47,6 @@ The author's interpretive argument (type e): because historical knowledge is its
 - Because past events cannot be observed, historians must necessarily use imagination to reconstruct the past, and the resulting picture is legitimate rather than fictional when constrained by evidence — related
 - [Immersion in IBL improves student teachers' self-reported understanding of the interpretative nature of historical research](ibl-immersion-improves-understanding-historical-inquiry.md) — related
 - [The authors argue that constructivists talking about constructivist learning environments is not necessarily a paradox](no-paradox-constructivist-learning-environments.md) — related
+- [Connectivism is an iteration of architectonic/constructivist thought rather than a new theory of learning](connectivism-iteration-of-architectonics.md) — related
+- [Before developing historical thinking skills, students approach the past with common sense, including presentism — seeing past people as sharing contemporary values](novice-presentism-common-sense-historical-understanding.md) — related
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — a broader claim this one bears on

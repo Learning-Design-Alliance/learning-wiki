@@ -45,3 +45,4 @@ Authors' interpretation offered without supporting statistics on the page: the n
 ## Related Claims
 - [Everyday Mathematics and Harcourt Math show no difference in effects on elementary student achievement in Pittsburgh Public Schools](everyday-mathematics-harcourt-math-no-achievement-difference-pittsburgh.md) — related
 - [An external implementation study rated the STeLLA® and comparison professional development programs similarly on provider effectiveness, pacing, engagement, and collaboration](stella-comparison-pd-equivalent-implementation-ratings.md) — related
+- [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related

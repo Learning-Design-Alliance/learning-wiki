@@ -48,3 +48,4 @@ Data-cleaning report in the Conclusions of the emote-aloud study. The article st
 - [Confusion during learning is associated with facial action units 4, 7, and 12, with tightened lids tending to trigger a lowered brow](confusion-facial-action-units-4-7-12.md)
 - [Frustration during learning is associated with facial action units 1, 2, and 14, with a mutual trigger rule between the inner and outer brow raises](frustration-facial-action-units-1-2-14.md)
 - [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md)
+- [Emote-aloud protocols show learner emotions correlate systematically with AutoTutor dialogue features](emote-aloud-emotions-correlate-with-dialogue-features.md) — related

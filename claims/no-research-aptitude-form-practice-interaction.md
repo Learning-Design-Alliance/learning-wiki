@@ -44,3 +44,4 @@ The article's assessment of the research base in its 'Further Questions' section
 
 ## Related Claims
 - [The literature is supportive of recasts, but recast effectiveness varies with the language area and learner knowledge, focus, and aptitudes](recasts-supported-but-effectiveness-varies.md) — related
+- [The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.](interaction-assumed-important-online-course-questions-remain.md) — related

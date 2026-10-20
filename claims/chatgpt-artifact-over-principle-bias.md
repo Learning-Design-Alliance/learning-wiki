@@ -67,3 +67,8 @@ Diary excerpt from ChatGPT participant P11 illustrating that even a principle-or
 - [ChatGPT users began information seeking with narrow, specified queries far more often than Google users](chatgpt-narrow-starting-queries.md) — related
 - [ChatGPT participants experienced meta-cognitive load and frictions, with slightly more unsatisfied endings than Google participants](chatgpt-meta-cognitive-load-unsatisfied-endings.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
+- [Google Trends data show ChatGPT search interest surged globally within weeks of its November 2022 public release, with plagiarism among the top related queries](google-trends-chatgpt-plagiarism-queries.md) — related
+- [ChatGPT users were significantly less likely to correctly compare and evaluate animal and plant protein sources](chatgpt-worse-protein-comparison-question.md) — related
+- [Learning-oriented intentions did not significantly predict enacted in-chat behavior; only selecting final solutions predicted executive and answer-seeking requests](intent-enactment-gap-genai-help-seeking.md) — related
+- [Students using ChatGPT 3.5 experience lower germane cognitive load than students using Google, the strongest of the three load differences](llm-search-lower-germane-cognitive-load.md) — related
+- [Students using Google produce higher-quality justifications in their final recommendations than students using ChatGPT 3.5](web-search-higher-quality-justifications-than-llm.md) — related

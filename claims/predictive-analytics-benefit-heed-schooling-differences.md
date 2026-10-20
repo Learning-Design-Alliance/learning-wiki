@@ -44,3 +44,4 @@ The article's abstract states its central conditional thesis as an expert argume
 
 ## Related Claims
 - [Interviews identify IEI implementation gaps — curriculum-industry misalignment, limited project diversity, and weak enterprise engagement — as boundary conditions on the psychological pathways](iei-implementation-gaps-boundary-conditions.md) — related
+- [BERTopic analysis of 1,048 AIOL publications identifies research themes including adaptive learning systems, sentiment analysis, and predictive analytics](bertopic-aiol-major-research-themes.md) — related

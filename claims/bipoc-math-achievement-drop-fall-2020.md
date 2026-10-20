@@ -57,3 +57,6 @@ Observational analysis of MAP Growth scores from 2.1 million BIPOC students in g
 - [Pandemic-period gains from fall 2019 to fall 2021 fell short of pre-pandemic growth norms](pandemic-gains-fall-2019-fall-2021-below-norms.md) — related
 - [COVID-19 closures left schools and districts serving 55.1 million students in an unprecedented time](covid-closures-55-1-million-students.md) — related
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
+- [The webinar presents research comparing student academic trends during the pandemic year to a more typical school year](pandemic-year-trends-compared-typical-year.md) — related
+- [Students in higher grades report lower emotional engagement in science than third-grade students, with scores dropping below the grand mean from sixth grade onward](emotional-engagement-declines-across-grades-science.md) — related
+- [The COVID-19 pandemic influenced U.S. science achievement, as shown by trends in science test scores across seven school years from 2019 through 2024](covid-influenced-science-achievement-seven-school-years.md) — related

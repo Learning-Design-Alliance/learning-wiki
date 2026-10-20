@@ -46,3 +46,4 @@ Quantitative validation study finding reported as context for the qualitative co
 - [Some, but not all, measured organizational conditions are associated in expected directions with site-level ECE quality metrics](some-essentials-associated-with-site-quality-metrics.md) — related
 - [The Early Education Essentials is sensitive to site-level differences](early-education-essentials-sensitive-site-differences.md) — related
 - [Strongly organized ECE programs create contexts more supportive of teaching, learning, and family engagement than weakly organized programs](strong-essentials-programs-more-supportive-contexts.md) — a broader claim this one bears on
+- [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — a broader claim this one bears on

@@ -70,3 +70,4 @@ Quantitative analysis of welcoming-school students' reading outcomes the year af
 - [School closings showed no statistically significant long-term effects on displaced students' reading or math achievement two and three years later](no-long-term-achievement-effects-school-closings.md) — reports the opposite
 - [Core GPA was unaffected immediately after closures, but closed-school students who were in grades 3-5 in the announcement year showed negative GPA effects three and four years post-closure](delayed-gpa-effects-grades-3-5-closed-schools.md) — related
 - [School closures had no effect on absences or suspension rates for affected students](closures-no-effect-absences-suspensions.md) — related
+- [Displaced students in the highest-achieving receiving schools gained about a month in reading and over two months in math above expectations, while those in the weakest schools lost achievement](receiving-school-academic-quality-moderates-gains.md) — related

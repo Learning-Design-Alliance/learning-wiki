@@ -46,3 +46,7 @@ Video-based qualitative analysis of 17 families; the article states all families
 ## Related Claims
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](multiple-immersive-processes-at-microsites.md) — related
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — related
+- [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](photo-taking-evidence-of-observation.md) — related
+- [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](sensory-immersion-prompted-geoscientific-observation.md) — related
+- [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related
+- [The integrated G4L approach combining graph-based modeling, database-driven tracking, and generative content creation successfully supported learner navigation and domain comprehension](g4l-integrated-approach-supports-navigation.md) — related

@@ -65,3 +65,4 @@ Comparison of standardized PSAE and ACT reading scores by school type in 2004 (F
 - [CHSRI juniors' ACT scores were no different from similar students' and remained well below college readiness benchmarks](chsri-act-scores-no-different-low.md) — related
 - Deep learning engagement shows little compensatory benefit by prior achievement: the ACT-by-DEEP interaction is significant and negative only for practical competence gains — related
 - [Ninth-grade GPA predicts beginning-of-tenth-grade PLAN scores even after controlling for eighth-grade test scores, suggesting grades reflect new learning](ninth-grade-gpa-predicts-plan-scores.md) — related
+- [CPS students make smaller improvements on sequential EPAS tests from grade to grade than students nationally with the same prior scores](cps-epas-gains-below-national-median.md) — related

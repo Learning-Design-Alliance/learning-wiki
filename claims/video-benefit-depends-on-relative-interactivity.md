@@ -48,3 +48,4 @@ Moderation analysis of relative interactivity across replacement studies. The re
 - [Segmentation Benefits Shrink With Expertise](segmentation-benefits-shrink-with-expertise.md) — related
 - [Multimedia-only stories benefit story comprehension, whereas stories that also include interactive features do not](multimedia-only-benefits-interactive-features-detrimental.md) — related
 - [Video replacing static media (e.g., text) benefits learning more than video replacing a teacher](video-vs-static-media-stronger-than-vs-teacher.md) — related
+- [Only 26% of IVR-vs-conventional comparisons in STEM media comparison studies were fully controlled on five key control criteria](ivr-comparisons-only-26-percent-fully-controlled.md) — related

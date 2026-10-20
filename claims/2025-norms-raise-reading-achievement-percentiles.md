@@ -54,3 +54,4 @@ The paper's Table 2 summary of how metrics shift under the 2025 norms states for
 - [Post-COVID norm shifts and NWEA's enhanced item selection algorithm change the interpretation of MAP Growth metrics for school accountability](post-covid-norm-shifts-change-map-growth-accountability-metrics.md) — a broader claim this one bears on
 - [After eight months of eSpark usage in first-grade ELA classrooms, NWEA reading percentile scores showed no pattern of increasing achievement](espark-no-nwea-achievement-gains-first-grade.md) — related
 - [The 2025 MAP Growth Norms are based on national test samples from 2022–23 and 2023–24, and dashboard results are not comparable to reports using 2020 norms](2025-norms-based-on-2022-23-and-2023-24-samples.md) — related
+- [The 2020 norms report states the MAP Growth scale remains stable while status patterns shifted relative to the 2015 norms](map-growth-scale-stable-2020-norms.md) — related

@@ -47,3 +47,4 @@ Post-pandemic cohort analysis in Chicago data. All individual assessments and la
 - [K-2 assessment and latent scores predict third grade ELA grades with correlations from 0.52 to 0.63 in pre-pandemic cohorts](k2-scores-predict-third-grade-ela-grades.md) — related
 - [Combined latent scores are highly predictive of third grade assessment scores in pre-pandemic years, with correlations from 0.67 to 0.82](latent-scores-predict-third-grade-assessment-scores.md) — related
 - [Absences remained as strongly related to test scores and GPAs in post-pandemic years as pre-pandemic years](absence-achievement-link-persists-post-pandemic.md) — related
+- [Students with higher spring reading assessment scores in kindergarten through grade 3 also had higher KEI and grade 3 PSSA ELA scores](spring-reading-assessments-align-kei-pssa.md) — related

@@ -46,3 +46,4 @@ Null result from the group-level Kendall's tau correlation analysis in RQ2: the 
 - [Initiating annotation frequency strongly correlates with re-annotation frequency across groups (Kendall's tau = 0.95)](initiating-and-reannotation-strong-correlation.md) — related
 - [Epistemic network analysis shows high-learning groups integrate re-annotations with knowledge-confirming discourse more densely than low-learning groups](ena-high-learning-dense-reannotation-discourse-networks.md) — related
 - [High-learning groups show a significantly shorter time gap between initiating annotations and re-annotations than low-learning groups, indicating reduced attention distance](high-learning-groups-shorter-reannotation-time-gap.md) — related
+- [High- and low-learning groups do not differ significantly in the quantity or breadth of initiating annotations and re-annotations](reannotation-quantity-breadth-no-group-difference.md) — related

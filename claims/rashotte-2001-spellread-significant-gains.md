@@ -73,3 +73,6 @@ Same randomized trial, comprehension domain: GORT-3 Comprehension (effect size 0
 - [Fluency-building activities for struggling readers in grades 4–9 have strong evidence, based on 33 studies](strong-evidence-fluency-building-activities-grades-4-9.md) — a broader claim this one bears on
 - [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
 - [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](strong-evidence-comprehension-building-practices-grades-4-9.md) — related
+- [A struggling fifth-grade reader with ADHD gained one full grade level in reading over six weeks of iPad-mediated tutoring](ipad-tutoring-one-grade-level-growth-six-weeks-adhd-case.md) — related
+- [Reading Partners tutoring significantly improves reading comprehension for grade 2-4 struggling readers, with a total effect size of +0.10](reading-partners-tutoring-comprehension-effect.md) — related
+- [Word-reading interventions yield significant positive effects on adolescent literacy outcomes overall (g = 0.30)](word-reading-interventions-significant-adolescent-literacy-g030.md) — related

@@ -47,3 +47,4 @@ T/ONA network analysis of both task networks. The article reports emotion–moti
 - [Cognitive regulation led to negotiation in the physics task, whereas in the robotics task negotiation more often preceded cognitive regulation](cognitive-regulation-negotiation-direction-reversed.md)
 - [The robotics task prompted longer group-level regulation of emotion–motivation than the conceptual physics task](emotion-motivation-regulation-longer-robotics.md)
 - [Group-level cognitive regulation occurs significantly more in the conceptual physics task than in the robotics task](cognitive-regulation-more-in-physics-task.md)
+- [Edge weights between CKC–regulation codes differ significantly between the tasks only for the share/compare and disagree phases](edge-weights-differ-only-share-compare-disagree.md) — related

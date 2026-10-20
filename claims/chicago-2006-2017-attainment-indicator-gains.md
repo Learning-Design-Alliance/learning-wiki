@@ -67,3 +67,12 @@ The introduction's descriptive trend summary for CPS over "the past decade or so
 ## Related Claims
 - Chicago's on-track data system was associated with improved high school graduation rates — related
 - [Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor](minority-success-damns-reform-program.md) — related
+- [Chicago Public Schools improved dramatically between 1987 and 2017, with the biggest gains among students of color and low-income students](cps-decades-improvement-equitable-gains.md) — a broader claim this one bears on
+- [Graduation and enrollment trends vary by school type: non-charter non-selective schools caught up to charters on graduation, but charters and selective enrollment lead on college enrollment](cps-attainment-trends-by-school-type.md) — related
+- [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — related
+- [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](on-track-gains-largest-bottom-quartile-and-minority-males.md) — a narrower finding that bears on this claim
+- [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — a narrower finding that bears on this claim
+- [Gains in sophomore performance were unequal: about one in five Latino and Black young men were off-track at the end of sophomore year](sophomore-gains-unequal-by-race-gender.md) — related
+- [The 2017 CPS Bachelor's Degree Attainment Index is estimated at 19 percent, up from 11 percent in 2006, with the Direct Bachelor's DAI at 17 percent](cps-bachelors-dai-2017-19-percent.md) — related
+- [Freshman OnTrack improvements were largest in the lowest-performing schools, with bottom-quartile schools gaining 33 percentage points](ontrack-gains-largest-in-lowest-performing-schools.md) — related
+- [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](cps-on-track-rate-61-to-85-percent-2006-2015.md) — related

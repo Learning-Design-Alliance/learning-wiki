@@ -55,3 +55,4 @@ Cohort comparison of post-policy versus pre-policy students by percentile rank g
 - The double-dose policy affected non-targeted high-ability students: their algebra test scores improved while their grades declined — related
 - [Sorting by ability affects grades and pass rates differently from test scores: high-skilled students' grades and pass rates decline while low-skilled students' grades improve](sorting-opposite-effects-grades-vs-test-scores.md) — related
 - Only 64% of Black Michigan students passed Algebra I by 10th grade in 2021-22, below the 74% statewide average, while white students were the sole group above it at 78% — related
+- [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — related

@@ -47,3 +47,4 @@ Secondary regression analysis of the 28-child experiment testing age and gender 
 - [Children in the reliable condition were significantly more likely to wait the full 15 min than children in the unreliable condition (64.3% vs 7.1%)](reliable-condition-full-15-minute-waiting-proportion.md) — related
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [Children's wait-times on sustained delay-of-gratification tasks reflect beliefs about environmental reliability in addition to self-control capacity](wait-times-reflect-environmental-reliability-beliefs.md) — related
+- [Mood-related measures (contentedness, smiling, fidgetiness) did not vary systematically across the reliable and unreliable conditions](mood-measures-did-not-vary-across-conditions.md) — related

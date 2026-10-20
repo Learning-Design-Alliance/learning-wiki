@@ -57,3 +57,8 @@ Descriptive analysis of 2023/24 statewide data, reported in text and Figure 1, o
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
 - [Demographic covariates were significantly associated with latent class membership](covariates-associated-latent-class-membership.md) — related
 - [GRAD-score-based At-risk identification shows larger proportional year-to-year churn than direct certification would](grad-score-churn-exceeds-direct-certification.md) — related
+- [Mastery orientation, value, belonging, self-efficacy, and SRL show small demographic differences by gender, ethnicity, and grade](demographic-correlates-identity-motivation.md) — related
+- [At-risk students are overrepresented in One-Star schools](at-risk-students-overrepresented-one-star-schools.md) — related
+- [Asian and white CPS students score consistently higher than Latino and African-American students in reading and math, and Asian students score significantly higher in math than white students](cps-itbs-racial-ethnic-score-gaps-1992-1999.md) — related
+- [Retention rates for Black/African American and Hispanic/Latino students dropped more steeply between the second and third semesters than for White and Asian students in both cohorts](eo1110-retention-gaps-widen-by-ethnicity.md) — related
+- [Black/African American and Hispanic/Latino students were overrepresented in lower QR placement categories relative to their share of the 2018 CSU entering cohort](eo1110-racial-disproportionality-qr-placement.md) — related

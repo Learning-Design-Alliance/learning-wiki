@@ -48,3 +48,5 @@ Multimodal critical discourse analysis applying Van Leeuwen's recontextualizatio
 - [Undergraduate students hold mixed views on whether using GenAI for coursework constitutes plagiarism, ranging from not misconduct to serious misconduct](students-mixed-views-genai-plagiarism.md) — related
 - [Student perceptions of AI use in academic work are neutral and range from viewing AI as valid learning assistance to viewing it as cheating, depending on task type, transparency, and assessment design](student-ai-perceptions-neutral-task-dependent.md) — related
 - [GenAI-era assessment reform should move beyond defensive approaches focused primarily on preventing misconduct or detecting AI use](beyond-defensive-assessment-genai-era.md) — related
+- [Adapting situational crime prevention techniques in an Australian business capstone reportedly reduced misconduct cases from 183 to 27 within a year](situational-crime-prevention-reduced-misconduct-183-to-27.md) — related
+- [Human markers detect purchased contract-cheating assignments at low rates, though priming and authorship-analysis software improve detection](markers-rarely-detect-contract-cheating.md) — related

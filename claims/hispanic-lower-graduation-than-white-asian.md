@@ -50,3 +50,6 @@ Cross-racial comparison in the CPS cohort study: "Hispanic students, regardless 
 - [Long-term Hispanic ELLs had the worst course performance and graduation rates, with only 52 percent graduating within four years](long-term-ell-52-percent-graduation.md) — related
 - Hispanic ELLs new to CPS in middle or high school performed as well or better than any group in ninth grade but graduated at lower rates than all groups except long-term ELLs — related
 - [ELL newcomers entering CPS after age 12 graduated at lower rates than students with the same grades and attendance, with school quality the key associated factor](ell-newcomers-after-age-12-lower-graduation.md) — related
+- [Hispanic ELLs proficient before sixth grade performed better in ninth-grade courses than other Hispanic subgroups](early-proficiency-better-ninth-grade-performance.md) — related
+- [Senior-year advanced coursework is unevenly distributed by race/ethnicity among CPS graduates](cps-senior-year-coursework-racial-gaps.md) — related
+- [Graduation rates differed by timing of English proficiency: 60 percent for middle-grades proficiency versus 68 percent for pre-sixth-grade proficiency](proficiency-timing-graduation-rates-60-68.md) — related

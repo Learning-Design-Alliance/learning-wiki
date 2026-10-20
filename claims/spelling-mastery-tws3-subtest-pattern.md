@@ -43,3 +43,4 @@ Supplemental subtest analysis within the Darch et al. (2006) RCT of 42 students.
 ## Related Claims
 - [Spelling Mastery showed substantively important but not statistically significant positive effects on all four writing measures in a grades 2–4 RCT against basal spelling instruction](spelling-mastery-substantive-vs-basal.md) — related
 - [Spelling Mastery has potentially positive effects on writing for students with learning disabilities, based on two RCTs with a small extent of evidence](spelling-mastery-potentially-positive-writing-ld.md) — a broader claim this one bears on
+- [Spelling Mastery produced statistically significant positive effects on all three writing measures in a fourth-grade RCT against Visual Imagery instruction](spelling-mastery-significant-vs-visual-imagery.md) — related

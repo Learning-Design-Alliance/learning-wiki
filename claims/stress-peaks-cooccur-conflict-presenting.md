@@ -50,3 +50,5 @@ Micro-level moment-by-moment analysis of Examples 1 and 2 combining transcript c
 - [Peer discussion leading to individual resolving of an incorrect solution was interpreted as cognitive engagement favouring learning, co-occurring with peaking situational stress](peer-discussion-individual-resolution-engagement.md) — related
 - [Teacher's direct support of a stuck presenter corresponded with a clear decrease in situational stress (ASV)](teacher-support-asv-release.md) — related
 - [Teacher communicative activities in the analysed undergraduate mathematics lesson were dominated by presentation and correction, reflecting an authoritative communicative approach](teacher-transmission-dominance-undergraduate-math-lesson.md) — related
+- [Active listening was the most common individual student communicative activity in the analysed lesson, with marked individual differences between the three students](active-listening-most-common-student-activity.md) — related
+- [Students' situation-specific interpretations of a learning situation as challenging or favourable affect their SRL and strategy use](situation-specific-interpretations-affect-strategy-use.md) — related

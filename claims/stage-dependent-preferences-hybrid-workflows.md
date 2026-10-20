@@ -49,3 +49,5 @@ Interview findings from the 24-teacher mixed-methods study: "15 teachers explici
 - A bespoke GenAI image workflow most robustly expanded architecture students' creative search space, while less uniformly supporting refinement of final design decisions — related
 - [Interviews indicated flipped learning supported studio readiness while the GenAI module served as a supplementary tool for early-stage visual ideation](interviews-flipped-readiness-genai-supplementary.md) — related
 - [In teacher-AI learning task design studies, GenAI tools are predominantly used for lesson planning, prompt generation, and creative ideation, while traditional AI tools are commonly used for designing analytics and feedback](genai-for-planning-ideation-traditional-ai-for-analytics-feedback.md) — related
+- [Students found AI effective for ideation and formatting but unreliable for practical experimental details](ai-effective-ideation-unreliable-practical-details.md) — related
+- [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related

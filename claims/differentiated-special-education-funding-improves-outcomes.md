@@ -66,3 +66,7 @@ The report describes the Maryland adequacy study's new metric — "progress towa
 - [Students with disabilities cost 50.5 percent more to educate to comparable academic growth than peers without disabilities](special-education-supplemental-cost-50-percent.md) — related
 - [Self-determination skills instruction for students with disabilities increases self-determination on some measures but not others](self-determination-instruction-improves-outcomes.md) — related
 - [Self Directed IEP Increases Student Participation](self-directed-iep-increases-student-participation.md) — related
+- [Progress monitoring is needed to guide next steps in planning and providing instruction and interventions](progress-monitoring-guides-next-steps-instruction.md) — related
+- [Educating a student with disabilities costs approximately twice as much, on average, as educating a student without a disability](special-education-cost-twice-average.md) — related
+- [Texas's current funding system is progressive for several need factors, but the additional spending may not be enough for equal opportunity](progressive-but-insufficient-funding.md) — a broader claim this one bears on
+- [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — a broader claim this one bears on

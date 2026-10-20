@@ -45,3 +45,4 @@ Descriptive survey results from the 2016 capacity-building items (Table III-3), 
 ## Related Claims
 - [About 45% of teachers still report needing further TPE-related training despite year-over-year improvement](teachers-need-further-tpe-training.md) — related
 - [Teachers and principals report REACH is changing teaching practice and improving communication and collaboration](reach-changing-practice-communication-collaboration.md) — related
+- [Educators report needing training, resources, and institutional support to introduce educational change](educators-need-training-resources-institutional-support-for-change.md) — related

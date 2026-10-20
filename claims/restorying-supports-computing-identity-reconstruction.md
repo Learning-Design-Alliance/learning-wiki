@@ -57,3 +57,4 @@ This is a single revelatory case (q1); it demonstrates that the restorying mecha
 - [Justice-oriented youth maker programs support redefinition of entrepreneurialism and resistance to structural misrecognition](justice-oriented-youth-maker-programs-support-critical-identity-and-resistance.md) — related
 - High achievers dominate teamwork under KCLS, and some students resist or avoid it — related
 - [Lack of diversity in computing stems from social and structural barriers, not ability or interest](structural-barriers-not-ability-limit-computing-diversity.md) — a broader claim this one bears on
+- [A teacher's appropriation of the engineering design process reframed restrictive STEM narratives in her teaching and personal life](teacher-appropriation-of-edp-reframes-restrictive-stem-narratives.md) — related

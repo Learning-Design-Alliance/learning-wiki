@@ -46,3 +46,4 @@ Meta-regression and moderation analyses of absolute and relative intervention le
 - [Replacing existing teaching with video produces small improvements in student learning in higher education (g = 0.28)](video-replacement-small-learning-benefit.md) — the general claim this finding bears on, with the studies behind it
 - [Median student engagement with MOOC videos falls sharply as video length increases beyond 6 minutes](video-length-mooc-engagement-declines.md) — related
 - [MOOC video engagement declines with video length, with median engagement under half the duration for videos longer than nine minutes](mooc-engagement-declines-with-video-length.md) — related
+- [Multi-session game interventions show significantly larger learning benefits than single-session interventions, while total play duration shows no association with effect size](multiple-sessions-moderator-games.md) — related

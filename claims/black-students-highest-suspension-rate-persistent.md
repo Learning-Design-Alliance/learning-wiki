@@ -58,3 +58,6 @@ CRDC analysis of suspension rates by race and ethnicity (Figure 1). The report s
 - Black students lose five times as many instructional days to suspension as White students — related
 - [Racial differences in suspension rates reflect policies and adult biases, not differences in behavior](suspension-disparities-reflect-policies-and-adult-biases.md) — related
 - [Secondary suspension risk declined and the racial gap narrowed slightly since 2009-10, while elementary rates did not decline and some districts saw large increases](suspension-trends-secondary-decline-elementary-flat.md) — related
+- [Out-of-school suspension decreased in 48 states and Washington, DC between 2011–12 and 2017–18, but in five states the decline came with an even larger increase in in-school suspensions](suspension-declines-48-states-substitution.md) — related
+- [Black secondary students lost 103 days of instruction per 100 enrolled, 82 more days than their White peers](black-secondary-students-82-more-days-lost.md) — related
+- [National out-of-school suspension rates rose from 4% in 1973 to a peak of 7% in 2009–10, then fell to 5% by 2017–18 while remaining above 1970s levels](suspension-rates-rose-then-declined-1973-2018.md) — related

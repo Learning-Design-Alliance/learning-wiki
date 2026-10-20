@@ -45,3 +45,6 @@ The publication's introductory text asserts, without cited data, that 'Constant 
 ## Related Claims
 - Schools must foster education that aids occupational and geographical mobility as job-changing becomes the norm — related
 - [Industrial arts teacher education must foster understanding of both the technical and the human sides of enterprise](industrial-arts-teacher-education-technical-and-human-sides.md) — related
+- [Modern careers involve frequent job changes, with Gen Z projected to hold 18 jobs across six career areas](frequent-job-changes-nonlinear-careers.md) — a narrower finding that bears on this claim
+- [Students want curriculum connected to real life, careers, and life skills, and report that the majority of the high school curriculum lacks real-world application](students-want-curricular-relevance-and-life-skills.md) — related
+- [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related

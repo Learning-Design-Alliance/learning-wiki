@@ -68,3 +68,4 @@ Doppelt et al. (2009) study of 8th-grade science teachers using a new electronic
 - [Content-focused, job-embedded PD linked to student gains: 31 of 35 reviewed studies featured a specific content focus](pd-content-focus-prevalence.md) — related
 - [Active learning was incorporated in 34 of 35 reviewed effective PD studies](pd-active-learning-prevalence.md) — related
 - [Collaboration with experts during design and enactment contributed to the quality of designed artefacts and to teacher learning across all three cases](expert-collaboration-quality-and-teacher-learning.md) — related
+- [STeLLA content-plus-pedagogy PD produced greater student science gains than content-only training](stella-outperformed-content-only-pd.md) — a narrower finding that bears on this claim

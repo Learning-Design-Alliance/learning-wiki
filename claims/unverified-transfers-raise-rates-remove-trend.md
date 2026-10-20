@@ -46,3 +46,5 @@ Comparison of cohort rates computed from CPS drop files (Tables 5–6) against M
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — reports the opposite
 - [Chicago Public Schools dropout rates remained high, with over 40 percent of students dropping out by age 19](cps-dropout-over-40-percent-by-19.md) — related
 - [The five-year dropout rate for the first cohort fully subject to the CPS promotion policy (1995) continued the slight downward trend, but pre-age-18 patterns do not clearly indicate a change](promotion-policy-cohort-five-year-rate-continued-trend.md) — related
+- [One-year dropout rates confound changing student composition and movement through high school, unlike cohort rates](one-year-rate-confounds-composition-changes.md) — related
+- [The report's dropout and graduate percentages are calculated differently from CPS's and are therefore somewhat smaller than CPS numbers](barton-report-method-differs-from-cps-statistics.md) — related

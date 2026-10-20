@@ -44,3 +44,7 @@ The article reports that "design effects from aggregation are tolerable with mod
 
 ## Related Claims
 - Ecological inference methods for subgroup analyses yield large design effects — reports the opposite
+- [Test-taking disengagement distorts both individual and aggregated test scores](disengagement-distorts-individual-and-aggregated-scores.md) — related
+- [School-level aggregated scores on the computer-based PISA-Based Test for Schools were highly stable despite considerable differential engagement among schools](school-means-stable-despite-differential-engagement.md) — related
+- [E-M scoring leaves residual score distortion, suggesting some disengaged test responses are nonrapid rather than rapid guesses](nonrapid-disengaged-responses-residual-distortion.md) — related
+- [Responses used in effort-moderated scoring can sometimes reflect less-than-full, or partial, engagement, making E-M scores less trustworthy](em-scoring-responses-can-show-partial-engagement.md) — related

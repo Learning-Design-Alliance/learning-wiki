@@ -68,3 +68,7 @@ Table 2 takeaway disaggregating 2007 and 2019 Freshman OnTrack rates by race/eth
 - [CPS Freshman OnTrack rates rose 24 percentage points, from 64 percent for the Class of 2006 to 88 percent for the Class of 2019](cps-freshman-ontrack-rose-24-points.md) — related
 - [The four-year CPS high school graduation rate rose from 62.3 percent for the 2008 cohort to an all-time high of 83.2 percent for the 2020 cohort](cps-graduation-rate-62-to-83-2020.md) — related
 - [Chicago's district-wide Freshman On-Track rate improved from 61 percent in 2006 to 85 percent in 2015](cps-on-track-rate-61-to-85-percent-2006-2015.md) — related
+- [Sophomore OnTrack rose from 61 to 85 percent and predicts graduation, but 30 percent of non-graduates were on-track as sophomores](sophomore-ontrack-predictive-but-limited.md) — related
+- [Citywide freshman on-track rates improved from 48 to 58 percent over a decade, with declines tied to increased course-taking](on-track-rate-citywide-trends.md) — related
+- [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
+- [CPS's four-year high school graduation rate reached a record 85.0% in 2023, up about one percentage point from 84.1% in 2022](cps-2023-graduation-rate-record-85.md) — related

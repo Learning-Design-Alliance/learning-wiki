@@ -45,3 +45,4 @@ Voxel-wise ANOVA within the functionally defined relational-integration network 
 ## Related Claims
 - [Neural audience effects do not correlate with behavioural audience effects or resistance-to-peer-influence scores](no-correlation-neural-behavioural-audience-effect.md) — related
 - [Group x condition interactions show condition-dependent activation differences in superior temporal, parietal, cingulate, medial frontal, and middle temporal regions](group-condition-interaction-speech-noise-regions.md) — related
+- [No behavioural Audience × Age group interaction: the accuracy decrement was comparable in adolescents and adults](no-behavioural-audience-age-interaction.md) — related

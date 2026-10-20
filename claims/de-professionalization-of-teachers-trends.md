@@ -45,3 +45,6 @@ The experts' qualitative assessment in the 'Globalization, Development and Knowl
 ## Related Claims
 - [GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education](genai-global-north-origin-rapid-spread.md) — related
 - [GenAI implementation in Global South higher education faces significant barriers including infrastructure, human capital, ethical, policy and contextual challenges](genai-global-south-implementation-barriers.md) — related
+- [In CLL, teachers perceive a trust erosion cycle, AI dominance in groups, collaborative hollowing, and a counselor's dilemma](cll-four-ethical-tensions.md) — related
+- [In the direct method, teachers perceive conversational ventriloquism, autonomy shifts, authority challenges, and memory erosion](dm-four-ethical-tensions.md) — related
+- [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related

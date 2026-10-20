@@ -45,3 +45,4 @@ Cohort learning from interviews with four provider representatives and five prov
 - [The OBC model enabled districts to better establish instructional coherence, support increased student engagement, and assess associated outcomes.](obc-instructional-coherence-engagement-outcomes.md) — related
 - [Developing outcomes-based contracts enabled districts to engage in collaborative, data-driven decision-making processes to select populations, outcomes, and pricing.](obc-contract-development-collaborative-data-driven-decisions.md) — related
 - [The OBC model benefits from clearly defined roles and shared responsibilities across district, school, and provider teams.](obc-clear-roles-shared-responsibility.md) — related
+- [Industry partners reported learning about working with schools and educators, including contracting and teacher community building](industry-learned-working-with-schools.md) — related

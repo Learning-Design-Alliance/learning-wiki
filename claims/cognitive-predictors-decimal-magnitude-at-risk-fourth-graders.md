@@ -50,3 +50,6 @@ Regression analyses with 127 at-risk fourth graders controlling for incoming cal
 - [Concept formation predicts accuracy judging decimal equivalency statements](concept-formation-predicts-decimal-equivalency.md) — a narrower finding that bears on this claim
 - [Language comprehension and numerical working memory predict comparing decimals to the one-half benchmark](vocabulary-counting-recall-predict-compare-to-half.md) — a narrower finding that bears on this claim
 - [Most at-risk fourth graders apply whole-number logic when comparing decimals with different digit counts](whole-number-bias-hidden-decimal-task.md) — related
+- [Numerical working memory predicts decimal number line estimation accuracy](counting-recall-predicts-decimal-number-line.md) — a narrower finding that bears on this claim
+- [Place value labels correlate positively with decimal magnitude understanding; whole number labels negatively](place-value-labels-correlate-decimal-magnitude.md) — related
+- [Place value label use correlates with accuracy on fraction-decimal equivalency items](place-value-labels-fraction-decimal-items.md) — related

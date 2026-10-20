@@ -45,3 +45,6 @@ The report cites Dee and Penner (2016) research showing ethnic studies classes h
 
 ## Related Claims
 - The ethnic studies movement originated in the 1968 San Francisco State University student strike demanding a non-Eurocentric curriculum — related
+- [Academic performance indicators correctly identified a larger share of eventual off-track students than the attendance indicator](academic-indicators-outperform-attendance-true-positive.md) — related
+- [Composite 8th grade indicators identified 75 to 77 percent of eventual off-track students but raised false-positive rates to about 30 percent](composite-indicators-identify-more-with-false-positive-tradeoff.md) — related
+- [Improvements in ninth-grade course performance—credits earned, pass rates, and attendance—account for most graduation improvements beyond student background changes](ninth-grade-course-performance-explains-recent-gains.md) — related

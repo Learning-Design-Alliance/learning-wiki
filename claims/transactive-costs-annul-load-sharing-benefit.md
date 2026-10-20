@@ -43,4 +43,6 @@ A theoretical argument in the article's analysis of transactive activities: coor
 
 
 ## Related Claims
--
+- [Pairs rapidly develop shared verbal confidence scales, and faster development predicts greater group advantage](linguistic-coordination-confidence-vocabularies.md) — related
+- [Two people discussing perceptual decisions can outperform the better individual, via weighted confidence sharing](group-advantage-joint-perceptual-decision-discussion.md) — related
+- [Student blogging supports transactive building and emergent common knowledge in a persistent community blogosphere](blogging-transactive-community-blogosphere.md) — related

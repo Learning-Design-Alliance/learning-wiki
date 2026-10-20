@@ -52,3 +52,4 @@ The review reports, citing recent work with Mexican-origin late adolescents and 
 - [For U.S.-born Mexican-origin youth with U.S.-born parents, youth ethnic identity predicts later family ethnic socialization but not vice versa (a youth-driven process)](youth-driven-ethnic-socialization-us-born-families.md) — a narrower finding that bears on this claim
 - [Family nativity status moderates the direction of association between family ethnic socialization and youth ethnic identity](nativity-status-moderates-ethnic-socialization-direction.md) — a broader claim this one bears on
 - [Family ethnic socialization shows high rank-order stability and significantly predicts youth ethnic identity across two years in the total sample](fes-predicts-ethnic-identity-total-sample.md) — related
+- [No gender differences emerged in the associations between family ethnic socialization and ethnic identity](no-gender-differences-ethnic-socialization-identity.md) — related

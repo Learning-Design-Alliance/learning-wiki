@@ -46,3 +46,4 @@ Descriptive analysis of the 30-model results in Table 2. The article reports the
 - [Human performance forms the outer envelope on nearly all MUSE tasks, with the largest deficits in Relative Position, Emotion Detection, and Jigsaw Puzzle](human-vlm-gap-muse-tasks.md) — related
 - [MUSE tasks form coherent but non-redundant capability groups, with Jigsaw Puzzle a distinct compositional capability](muse-tasks-non-redundant-capability-groups.md) — related
 - [VLM performance on artistic educational imagery is highly task-dependent, with no model dominating across capabilities](vlm-performance-task-dependent-muse.md) — related
+- [Performance on existing benchmarks transfers unevenly to artistic educational imagery](existing-benchmarks-transfer-unevenly-artistic-imagery.md) — related

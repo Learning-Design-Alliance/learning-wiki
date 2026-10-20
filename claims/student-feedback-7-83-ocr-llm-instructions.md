@@ -47,3 +47,4 @@ Live deployment of the OCR-to-LLM instructional assistant in a university cybers
 - [The text-based LLM compensates for noisy OCR input, generating contextually accurate explanations even when OCR produces jumbled text from UI screenshots](llm-compensates-for-noisy-ocr-input.md) — related
 - [The OCR-based text input uses far fewer tokens than image-based multimodal input for the same slide, making it more cost-effective](ocr-input-lower-token-cost-than-image-input.md) — related
 - [Students rated ChatGPT highly for completing activities more quickly, among the highest-scoring survey items in both courses](chatgpt-rated-high-for-speed-of-completion.md) — related
+- [Undergraduate learners rated CyberAGENTS positively, with scenario authenticity highest and challenge difficulty alignment lowest](cyberagents-positive-learner-perceptions.md) — related

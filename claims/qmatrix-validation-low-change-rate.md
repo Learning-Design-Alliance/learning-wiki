@@ -45,3 +45,4 @@ Three researchers independently coded items, and DINA-based analysis of posttest
 ## Related Claims
 - [The combined FCI, FMCE, and EMCS item bank covers all 14 learning objectives with at least six items each, mostly single- or two-LO items](rba-item-bank-covers-14-los.md) — related
 - [A discrimination index can empirically validate Q-matrix specifications by identifying and replacing misspecified entries in the Q-matrix](discrimination-index-identifies-replaces-misspecified-q-matrix-entries.md) — related
+- [Misspecification of theoretical diagnostic classification models and inaccurate Q-matrices impact classification accuracy](tdcm-qmatrix-misspecification-hurts-classification.md) — a broader claim this one bears on

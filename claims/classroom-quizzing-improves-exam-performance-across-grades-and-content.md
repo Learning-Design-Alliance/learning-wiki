@@ -131,3 +131,8 @@ The chapter reports Lindsey et al. (2014), whose personalized review system impl
 - [A significant but negligible benefit of peer assessment (d = .122) persisted to the final exam in one college statistics course](peer-assessment-gains-persist-to-final-exam.md) — related
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related
 - [More frequent exams are associated with better learning outcomes, including better grades and lower dropout, in classroom comparisons](frequent-exams-better-outcomes-leeming.md) — related
+- [Clicker participation and homework completion each significantly predict performance on isomorphic exam questions, with no synergistic interaction](clicker-participation-and-homework-completion-predict-exam-performance.md) — related
+- [Any clicker participation outperforms absence on exam questions, but the lowest quartile sees no significant benefit](any-clicker-pattern-beats-absence-except-lowest-quartile.md) — related
+- [Weekly spaced recall quizzes on fundamental concepts significantly improve 6-month retention of those concepts in a precalculus course](spaced-recall-quizzes-improve-long-term-retention-fundamental-math-concepts.md) — related
+- [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) — a narrower finding that bears on this claim
+- [Students created and took peer assessments in Forms, learning through writing quiz questions and answer options](forms-peer-collaboration-quiz-authoring.md) — related

@@ -54,3 +54,4 @@ The review attributes this to Cooper, Tindall-Ford, Chandler, and Sweller (2001)
 - [The expertise reversal effect relies on changes in relative levels of element interactivity due to changes in relative levels of expertise](expertise-reversal-changes-from-expertise-levels.md) — a broader claim this one bears on
 - [The relative effectiveness of instructional methods reverses as levels of learner knowledge in a domain change (the expertise reversal effect)](expertise-reversal-effect-definition.md) — a broader claim this one bears on
 - [The imagination effect (cognitive rehearsal of example procedures) enhances learning only for learners with prior knowledge](imagination-effect-expertise-reversal.md) — possibly the same claim (merge candidate)
+- [Expertise reversal: cognitive load effects for novices decrease, disappear, and can reverse as expertise increases](expertise-reversal-effect-compound.md) — a broader claim this one bears on

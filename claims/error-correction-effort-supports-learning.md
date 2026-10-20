@@ -49,3 +49,4 @@ The review reports, citing Olney and Cade (2025), a mechanistic error-correction
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — related
 - [Retrieval Failure Reduces Benefit](retrieval-failure-reduces-benefit.md) — related
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
+- [Higher self-reported confusion predicts a much larger negative effect on future performance when learners answer more questions incorrectly](confusion-amplifies-negative-effect-of-incorrect-trials.md) — related

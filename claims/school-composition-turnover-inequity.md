@@ -53,3 +53,6 @@ Descriptive analysis of turnover by school student-body composition (Figure 6) u
 - [Teachers of color leave schools or the profession at higher annual rates than White teachers, driven largely by school moving](teachers-of-color-higher-turnover-mover-rates.md) — related
 - Students in high-poverty schools are more likely to be taught by inexperienced teachers, and teachers in high-minority schools are twice as likely to leave their school for another — related
 - [Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates](hiring-difficulties-correlated-with-high-turnover.md) — related
+- [Teacher attrition is approximately 55% higher in high-poverty schools than in lower-poverty schools](attrition-55-percent-higher-high-poverty-schools.md) — related
+- [U.S. teacher attrition averages 8–9% annually, about twice the rate of Canada, Finland, and Singapore, and drives roughly 9 in 10 annual hires](us-teacher-attrition-twice-peer-nations.md) — related
+- [Teachers reporting higher leadership effectiveness and supports have lower predicted turnover (9.0% vs. 18.7% for low-leadership teachers)](school-leadership-associated-with-lower-turnover.md) — related

@@ -83,3 +83,5 @@ Null result from the same course-level analysis: LMS-derived distribution metric
 ## Related Claims
 - [Workload variability and slope metrics correlate strongly with perceived course difficulty](workload-dynamics-correlate-perceived-difficulty.md) — related
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](self-reported-lms-time-on-task-correlated.md) — related
+- [Quizzes are the only LMS activity type negatively correlated with reported time-on-task and perceived difficulty](quizzes-negatively-correlated-workload-difficulty.md) — related
+- [Courses with higher average time-on-task exhibit greater variability in their weekly workload evolution](higher-workload-courses-more-variable.md) — related

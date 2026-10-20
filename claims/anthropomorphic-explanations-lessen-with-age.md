@@ -49,3 +49,7 @@ In the authors' classroom data, 14-year-olds learning about fuses gave mostly me
 ## Related Claims
 - Animistic and anthropomorphic explanations do not diminish with age but survive into adulthood, contrary to the Piagetian stage account — reports the opposite
 - Seven-year-olds' classroom talk shows animistic explanations linking flames, plants and floating objects to human needs and feelings — related
+- [Students' teleologic explanations and anthropomorphic languages correlate with age and are associated with curricular undertaking](teleologic-anthropomorphic-language-related-to-age-and-curriculum.md) — reports the opposite
+- [DD children's deficit in non-symbolic number magnitude processing appears only in studies of older children (10 years and above), not younger ones](dd-nonsymbolic-deficit-appears-later.md) — related
+- [Age may moderate acute PA effects on attention: effects appeared for 9–10 year olds but not 7–8 year olds](age-moderates-pa-attention-effect.md) — related
+- [A single bout of closed-skill exercise improves short-term memory performance only in older primary-school children (9–10 years), not in 7–8-year-olds.](closed-skill-exercise-improves-stm-older-children-only.md) — related

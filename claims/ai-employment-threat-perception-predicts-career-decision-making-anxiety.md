@@ -47,3 +47,5 @@ Cross-sectional questionnaire survey of 526 college students at a university in 
 - [Perceived employability partially mediates the relationship between AI employment threat perception and career decision-making anxiety](employability-partially-mediates-ai-threat-anxiety.md) — related
 - [Growth mindset weakens the indirect effect of AI employment threat perception on career decision-making anxiety through perceived employability](growth-mindset-weakens-moderated-mediation-indirect-effect.md) — related
 - [AI anxiety directly and negatively predicts college students' career decisions](ai-anxiety-negatively-predicts-career-decisions.md) — related
+- [AI anxiety correlates negatively with career adaptability, self-efficacy, and career decisions in Chinese college students](ai-anxiety-negative-correlations-career-variables.md) — related
+- [Career adaptability positively predicts college students' career decisions](career-adaptability-positively-predicts-career-decisions.md) — related

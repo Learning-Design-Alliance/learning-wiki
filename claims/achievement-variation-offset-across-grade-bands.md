@@ -45,3 +45,5 @@ Decomposition analysis of pretest score variation within classes, between classe
 ## Related Claims
 - Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate — related
 - [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related
+- [At the school level, domain-identical pretests show exceptional prognostic power from grade 5 onward, but are weaker predictors at the student and classroom levels across the school career](ip-exceptional-school-level-prediction-secondary.md) — related
+- [Sociodemographic covariates outweigh domain-identical pretests for predicting between-classroom and between-school variance in elementary school](sc-outweigh-ip-elementary-group-levels.md) — related

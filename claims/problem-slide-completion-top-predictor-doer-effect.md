@@ -46,3 +46,4 @@ Feature-selection analysis across modules in the Discussion (Q3, Observation 1).
 - [Decision tree classifiers trained on slide interaction features predict end-of-module outcomes with high accuracy across four K-12 programming courses](dt-slide-interaction-features-predict-module-outcomes.md) — a broader claim this one bears on
 - [CFS and GR feature selection shrink decision trees to 3.2-4.7 leaf nodes without degrading predictive performance](feature-selection-reduces-tree-size-maintains-accuracy.md) — related
 - Course-module views, assignment submissions, and video-access days are the most stable predictors, all lower in the high-risk group (Cliff's delta values from 0.50 to 0.60) — related
+- [The approach offers a large real-time intervention window, with a median of 176.2-196.1 hours between the prediction point and the final problem deadline](large-prediction-window-real-time-intervention.md) — related

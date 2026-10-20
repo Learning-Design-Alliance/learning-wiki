@@ -51,3 +51,6 @@ Structural equation model of cross-sectional survey data from 502 faculty at one
 - [AI literacy is the strongest predictor of faculty AI well-being in the structural model](ai-literacy-strongest-predictor-of-ai-well-being.md) — related
 - [Organizational support positively predicts both AI literacy and technological self-efficacy among university faculty](organizational-support-predicts-ai-literacy-and-self-efficacy.md) — related
 - [Social and organizational support relate to AI well-being indirectly through AI literacy and technological self-efficacy](dual-mediation-support-to-ai-well-being.md) — related
+- [Perceived school support positively predicts AI learning self-efficacy and AI perceived usefulness among Chinese undergraduates](school-support-predicts-ai-self-efficacy-usefulness.md) — related
+- [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
+- [Technological self-efficacy significantly but modestly predicts faculty AI well-being](technological-self-efficacy-modest-predictor-ai-well-being.md) — related

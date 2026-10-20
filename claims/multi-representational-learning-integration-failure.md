@@ -44,3 +44,4 @@ The article's motivating statement, offered without cited data in the available 
 
 ## Related Claims
 - [Typical verbal achievement tests may underestimate students' subject-matter knowledge because of a mismatch between the test's symbolic form and students' symbolic encoding](verbal-achievement-tests-may-underestimate-via-symbolic-mismatch.md) — related
+- [Placing heavier cognitive demands on learners can be counterproductive in mapping tasks](heavy-cognitive-demands-of-mapping-can-be-counterproductive.md) — related

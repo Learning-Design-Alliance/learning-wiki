@@ -88,3 +88,4 @@ Spearman rank-order correlation in the embedded-questioning condition (mean 3.08
 - [Elaborative interrogation produced lower posttest accuracy than reading the lesson twice in a written lesson on posterior probability](elaborative-interrogation-lower-posttest-than-read-twice-posterior-probability.md) — related
 - [Elaborative interrogation benefits increase as learners' prior knowledge increases](elaborative-interrogation-prior-knowledge-moderator.md) — related
 - [Question quality, not study time, predicted comprehension test performance among questioners](question-quality-not-time-predicts-achievement.md) — related
+- [Generating a good question for a topic strongly predicts answering the matching test item correctly](good-question-predicts-matching-item-correct.md) — related

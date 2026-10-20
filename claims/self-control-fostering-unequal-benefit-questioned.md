@@ -45,3 +45,5 @@ Authors' interpretation of the post hoc Johnson–Neyman analysis in the Discuss
 - [Post hoc analysis: trait self-control relates to grades positively only for trainees above very low fluid reasoning levels](johnson-neyman-tsc-mgpa-fluid-reasoning-region.md) — possibly the same claim (merge candidate)
 - [No significant trait self-control × fluid reasoning interaction effects on grades or standardized test scores](no-tsc-fluid-reasoning-interaction-achievement.md) — related
 - [Trait self-control is significantly associated with major GPA beyond fluid reasoning and conscientiousness in vocational trainees](trait-self-control-incremental-mgpa-vocational-trainees.md) — related
+- [Trait self-control and conscientiousness overlap substantially, and conscientiousness slightly outperforms self-control for grades](tsc-conscientiousness-overlap-and-comparison.md) — related
+- [Trait self-control correlates with grades but not with standardized test scores at the bivariate level](tsc-correlates-grades-not-standardized-tests.md) — related

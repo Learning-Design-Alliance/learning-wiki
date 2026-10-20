@@ -45,3 +45,8 @@ Controlled experiment in which 27 student dyads (N=54) interacted with a Tangibl
 ## Related Claims
 - [Joint visual attention correlates with collaboration quality, but unbalanced visual participation is negatively correlated with learning gains](joint-visual-attention-correlates-collaboration-quality.md) — possibly the same claim (merge candidate)
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
+- [Linguistic coherence predicts productive collaboration, strengthened by joint visual attention data](linguistic-coherence-predicts-productive-collaboration.md) — related
+- [High joint visual attention can hide a free-rider effect in collaborative dyads](high-jva-hides-free-rider-effect.md) — related
+- [Collaboration quality relates to the ratio of group to individual activity in gaze-supported dyads](collaboration-quality-ratio-group-individual-activity.md) — related
+- [Unbalanced participation in dyads is negatively correlated with learning gains](unbalanced-participation-negative-learning-gains.md) — related
+- [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related

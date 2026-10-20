@@ -45,3 +45,5 @@ Two-level HGLM models with 58 high schools at level 2, using teacher assessment 
 ## Related Claims
 - [School college-going climate predicts students' college enrollment steps and enrollment at colleges matching their qualifications](college-going-climate-predicts-enrollment-steps.md) — possibly the same claim (merge candidate)
 - [Among accepted students, FAFSA completion is associated with roughly 50 percent higher four-year college enrollment](fafsa-completion-predicts-four-year-enrollment.md) — related
+- [Application, not acceptance, is the primary barrier preventing CPS students from enrolling in four-year colleges](application-not-acceptance-primary-barrier-cps-college-enrollment.md) — related
+- [Low-income urban students complete college-application steps at far lower rates than suburban peers with similar aspirations](urban-suburban-college-application-steps-gap.md) — related

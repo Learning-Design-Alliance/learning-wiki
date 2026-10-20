@@ -48,3 +48,4 @@ Benefit valuation in the FY 2024 benefit-cost analysis, updated with new evidenc
 - [The PEF's total FY 2024 cost was $76 million, up from $54 million in FY 2023, reflecting larger educator payments and new facility administrative costs](pef-fy2024-cost-76-million-up-from-54-million.md) — related
 - [Washington, DC's PEF sustained a positive social return on investment of 21 percent in FY 2024, similar to 23 percent in FY 2023](pef-fy2024-roi-21-percent-similar-to-fy2023.md) — related
 - [PROMISE service costs represented relatively large investments](promise-service-costs-relatively-large-investments.md) — related
+- [Early education investments generate $2 to $17 in returns for every dollar invested, with greater returns as children are followed further in life](early-education-investment-returns-two-to-seventeen-dollars.md) — a broader claim this one bears on

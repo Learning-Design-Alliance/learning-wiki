@@ -43,4 +43,8 @@ Mixed ANOVA on perceived competence in the 2x2 experiment: significant Test Mome
 
 
 ## Related Claims
--
+- [Novice secondary students show large pretest-to-posttest gains in learning and near transfer of probability calculation after studying a video modeling example, regardless of model or observer gender](video-modeling-examples-large-gains-probability-novices.md) — related
+- [Learning from a male model is more enjoyable and leads to greater willingness to receive similar instruction for male students than for female students](gender-interaction-instruction-enjoyment.md) — related
+- [Model-observer gender combination affects mental effort invested during example study: male students invest less effort with a male model, female students more effort with a male model](gender-interaction-mental-effort-example-study.md) — related
+- [Male secondary students report higher self-efficacy than female students after learning from video modeling examples, without higher performance](male-students-higher-self-efficacy-video-modeling.md) — related
+- [Model gender and observer gender do not affect learning outcomes or near transfer from video modeling examples](no-gender-effects-learning-transfer-video-modeling.md) — related

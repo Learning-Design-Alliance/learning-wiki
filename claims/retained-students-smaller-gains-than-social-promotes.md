@@ -53,3 +53,4 @@ Rasch-equated three-year growth analysis (Figures 12 and 14) adjusting for test-
 - [Retained students struggled in their second time through the promotional policy, with only about half meeting cutoffs and eighth graders doing worst](retained-students-struggle-second-time-through.md) — related
 - [Students who were promoted made larger achievement gains than students with the same propensity for retention who were retained, in almost all grades](retention-associated-smaller-gains-than-promotion-chicago.md) — related
 - [Third grade is the notable exception where retained students did not make smaller gains, likely due to the ITBS Level 8 to Level 9 test format change](third-grade-gain-dip-test-format-exception.md) — related
+- [Retention under Mississippi's test-based promotion policy led to substantial and sustained 6th-grade ELA gains for retained students](mississippi-retention-sustained-ela-gains.md) — reports the opposite

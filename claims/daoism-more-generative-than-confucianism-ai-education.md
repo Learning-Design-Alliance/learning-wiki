@@ -46,3 +46,4 @@ Comparative textual interpretation contrasting the Analects' study-for-officiald
 - [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related
 - The Western linear, material construction of time is only one among many constructions of reality, and deconstructing it is another step toward reconstructing the relationship with the earth — related
 - Knowledge is not a picture of the real world; its adequacy is tested for logical consistency and experiential validity — related
+- [AI in education poses challenges across three interrelated domains: knowledge itself, the process of knowing, and the socio-environmental impact of knowledge production](ai-education-three-challenge-domains.md) — related

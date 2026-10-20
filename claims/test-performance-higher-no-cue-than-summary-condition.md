@@ -46,3 +46,5 @@ Experiment 1 comprehension analysis across 255 students: cue prompt significantl
 
 - [The quality of sixth-graders' keywords is not diagnostic of intra-individual variation in test performance (Experiment 1).](keyword-quality-not-diagnostic-of-test-performance.md)
 - [Sixth-graders' own monitoring accuracy is low and does not differ between no-cue, keyword, and summary cue-prompt conditions (Experiment 1).](student-monitoring-accuracy-low-no-cue-prompt-effect-exp1.md)
+- [Generating or comparing keywords had no substantial effect on posttest learning performance](keyword-generation-no-posttest-learning-effect.md) — related
+- [Teachers' intra-individual monitoring accuracy of students' text-by-text learning is not better than chance and is not improved by students' keywords or summaries (Experiment 1).](teacher-intra-individual-monitoring-accuracy-low-not-improved-by-cue-prompts.md) — related

@@ -43,4 +43,7 @@ A pre-registered multivariate random-effects meta-analysis (Campbell Collaborati
 
 
 ## Related Claims
--
+- [Self-regulation and metacognition correlate strongly with mathematics achievement (r = .42 and .37)](self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md) — possibly the same claim (merge candidate)
+- [Metacognitive ability increases with age during adolescence and plateaus in adulthood when task performance is held constant](metacognitive-ability-improves-across-adolescence-plateaus-adulthood.md) — related
+- [Numerical metacognition, but not emotion metacognition, predicts children's standardized mathematics achievement](numerical-metacognition-predicts-math-achievement.md) — related
+- [More complex (versus simple) math performance measures are associated with larger metacognition–math effect sizes](complex-math-measures-larger-effects.md) — related

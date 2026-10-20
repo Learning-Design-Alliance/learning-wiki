@@ -53,3 +53,6 @@ Observational comparison of immediate four-year versus immediate two-year enroll
 - [CPS alumni college completion (48%) remains below the national average (64%), with 56% of immediate four-year and 32% of immediate two-year enrollees completing within six years](cps-college-completion-below-national.md) — related
 - [Few CPS graduates who delay college entry or first enroll in a two-year college go on to earn a four-year degree](cps-delayed-and-two-year-paths-low-degree-completion.md) — related
 - [Among the CPS class of 2009, 76 percent enrolled in college within six years, and delayed entry was concentrated among two-year starters rather than four-year starters](delayed-enrollment-concentrated-two-year-starters-2009.md)
+- [CPS graduates' four-year college graduation rate remained roughly constant over seven years (46 to 48 percent) and well below the national rate](cps-four-year-college-graduation-flat.md) — related
+- [CPS four-year completion rates rose 7 percentage points over ten years while enrollees nearly doubled, but remained far below six-year rates](cps-four-year-rates-increased-seven-points.md) — related
+- [College Track completers enrolled in college at higher rates than similar students, and were much more likely to enroll in four-year colleges](college-track-completers-higher-college-enrollment.md) — related

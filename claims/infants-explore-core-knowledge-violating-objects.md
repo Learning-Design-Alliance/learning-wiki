@@ -49,3 +49,6 @@ Controlled lab experiment with 11-month-old infants who saw a single expected or
 - [Eleven-month-old infants learn a new object-sound mapping after a surprising core knowledge violation but not after an expected outcome](surprise-enhances-infant-object-sound-learning.md) — related
 - [Core knowledge violations may be 'moderately impossible,' aligning with the Goldilocks effect on attention allocation](moderately-impossible-events-optimally-surprising.md) — related
 - [Three- to six-year-old children learn novel verbs and nouns from a single exposure following core knowledge violations, including outside the laboratory](surprise-enhances-childrens-word-learning-museum.md) — related
+- [Children's exploratory behavior is related to their question asking](exploration-related-to-question-asking.md) — related
+- [Impossible but not improbable events boost children's word learning, with step-like rather than graded performance](impossible-not-improbable-events-boost-learning.md) — related
+- [Infant look-away follows a U-shaped pattern of information content, consistent with maintaining intermediate rates of information absorption (Goldilocks effect)](infant-goldilocks-look-away-u-shaped.md) — related

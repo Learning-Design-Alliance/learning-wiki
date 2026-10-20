@@ -50,3 +50,7 @@ Path analysis (LISREL, maximum likelihood) on 102 children; model fit satisfacto
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](ef-no-direct-effect-syntactic-complexity-story-content.md) — related
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](transcription-skills-decline-upper-grades.md) — related
 - [Inhibition and updating directly predict narrative text length in fourth graders over and above transcription and language skills](inhibition-updating-directly-predict-text-length.md) — related
+- [Sixth-grade syntactic complexity of narrative writing is predicted by fourth-grade oral grammar, inhibition, and planning in addition to initial syntactic complexity](oral-grammar-inhibition-planning-predict-later-syntactic-complexity.md) — related
+- [Planning shows no contribution to any level of narrative composition in fourth graders](planning-no-contribution-narrative-composition.md) — related
+- [Response inhibition shows a small negative association with reading fluency (r = −.15) in a single study](inhibition-reading-fluency-small-negative.md) — related
+- [Improvements in planning skills mediated SRSD's effect on text quality, via better-structured stories containing more ideas](planning-skill-gains-mediate-srsd-writing-quality.md) — related

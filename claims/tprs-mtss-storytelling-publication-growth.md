@@ -47,3 +47,4 @@ Counts of students' four-frame cartoon stories published in the school journal a
 
 ## Related Claims
 - [Elaborated discussion of narrated emotions supports teacher professional learning](elaborated-discussion-of-narrated-emotions-supports-teacher-learning.md) — related
+- [Participants liked the co-created stories (mean likability 8.61) and perceived them as coherent (mean coherence 8.28) on a 1-10 scale](icub-stories-liked-and-coherent-ratings.md) — related

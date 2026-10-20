@@ -45,3 +45,5 @@ Case study comparing a RegExp/LSA CBA with an LLM conversation built in Microsof
 ## Related Claims
 - [LLM-generated assessment conversations may reveal more information than intended and present scoring challenges compared with pre-structured conversations](llm-cba-information-leakage-scoring-challenge.md) — related
 - [A combination of LSA, frequency-weighted word overlap, and regular expressions is AutoTutor's best semantic matcher; syntactic parsers proved not useful](lsa-word-overlap-regex-best-semantic-matcher.md) — related
+- [LLM assessment conversations can be derailed off-topic by gaming attempts, and one successful prompt revision was not demonstrated to be replicable](llm-cba-derailment-gaming-not-replicable.md) — related
+- [AutoTutor cannot handle most student questions, so student question frequency extinguishes quickly in tutoring sessions](autotutor-student-questions-extinguish.md) — related

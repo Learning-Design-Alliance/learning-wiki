@@ -45,3 +45,5 @@ Descriptive analysis of school-level data on Seal of Biliteracy awards in 2022�
 ## Related Claims
 - [Students designated as LTEL7 in California overwhelmingly began schooling at the lowest English proficiency levels (64% at Beginning vs. 40% of other ever-ELs)](ltel7-began-lowest-english-proficiency.md) — related
 - [Rural and less populous California counties have higher proportions of ever-EL students designated as LTEL7, despite lower absolute numbers](rural-counties-higher-ltel7-proportions.md) — related
+- [Boys are disproportionately represented among students designated as LTEL7 in California (56% vs. 51% of other ever-ELs)](boys-disproportionately-represented-ltel7-california.md) — related
+- [Schools with higher concentrations of LTEL7 students have higher chronic absenteeism, lower graduation rates, and fewer fully certified teachers](ltel7-school-context-disadvantages.md) — related

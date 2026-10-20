@@ -45,3 +45,5 @@ Mixed ANOVA in the between-subjects experiment (n = 53; 18 mirroring, 17 alertin
 
 ## Related Claims
 - [Mirroring dashboards improved teacher situational awareness while alerting-and-guiding dashboards reduced teacher workload and frustration](mirroring-alerting-dashboards-teacher-withitness.md) — related
+- [Real-time AI alerts can expand teachers' situational awareness but in some cases overload teachers' attention or draw focus away from their own observation flow](ai-alerts-can-overload-teacher-attention.md) — related
+- [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related

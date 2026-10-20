@@ -47,3 +47,5 @@ In the same scoring comparison on adaptive achievement test data, effort-moderat
 - In simulation, effort-moderated scoring (EM-CAT and EG-CAT) yields negligible bias and nominal 95% confidence interval coverage, unlike MLE-CAT scoring — related
 - [Effort-moderated scoring yields more accurate scores than traditional scoring on an adaptive achievement test](effort-moderated-scoring-more-accurate-than-traditional.md) — related
 - [One measurement article argues that low test-taking motivation biases an individual student's achievement test score downward](test-taking-motivation-negative-score-bias.md) — related
+- [CATs can have important advantages over conventional tests in identifying instances when examinees exhibit low effort](cats-advantage-identifying-low-effort.md) — related
+- [Rapid-guessing behavior on an adaptive achievement test is inconsistent with most proposed models of unmotivated test taking except the effort-moderated model](rapid-guessing-inconsistent-with-unmotivated-models-except-effort-moderated.md) — related

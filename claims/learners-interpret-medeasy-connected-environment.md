@@ -46,3 +46,5 @@ Evaluative user study with a separate cohort of 12 clinical-year medical student
 - [A formative study with 12 clinical-year medical students produced four design-oriented themes for AI-SP consultation practice](formative-study-four-design-themes-ai-sp.md) — related
 - [Learners valued repeatable practice and recorded review in MedEasy while questioning missing actions and feedback criteria](learners-value-repeatable-practice-question-gaps.md) — related
 - [Formative participants preferred post-session debriefing over in-session interruption, with timing treated as contingent on error severity](feedback-timing-post-session-debrief-preference.md) — related
+- [Formative participants found human SP practice valuable for embodied cues but episodic and unevenly connected to individualized feedback](human-sp-practice-episodic-uneven-feedback.md) — related
+- [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — related

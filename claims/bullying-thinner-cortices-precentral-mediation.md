@@ -45,3 +45,6 @@ LMM analysis of cortical thickness in the matched ABCD sample across two visits.
 ## Related Claims
 
 - [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)
+- [Bullied preadolescents score lower than matched non-bullied peers on reading, processing speed, and inhibitory control/attention over two years](bullying-lower-reading-processing-speed-inhibitory-control.md) — related
+- [Larger right fusiform surface area in bullied children partially suppresses the negative effect of bullying on crystallized composite and vocabulary scores](fusiform-surface-area-suppresses-bullying-cognition-effect.md) — related
+- [Sex moderates bullying-related cognitive and brain differences, with effects in boys and girls appearing in different regions and tasks](bullying-sex-differences-cognition-brain-regions.md) — related

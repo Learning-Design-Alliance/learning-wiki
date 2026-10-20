@@ -45,3 +45,6 @@ Linear regression model with 38 group-mean QCGE dimension scores predicting the 
 ## Related Claims
 - [Frequencies of nonverbal behaviors descriptively rise with higher engagement ratings across the four QCGE dimensions](nonverbal-frequencies-increase-with-engagement-ratings.md) — related
 - [QCGE dimensions correlate weakly with each other except a moderate CE–CC correlation; nonverbal behaviors were not affected by task condition](qcge-dimensions-weak-intercorrelations-condition-null.md) — related
+- [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related
+- [Criterion validity testing related QCGE-SAS subscale correlations and a regression on objectively graded group products for a laboratory subsample](qcge-sas-criterion-validity-learning-outcomes.md) — reports the opposite
+- [A confirmatory factor analysis supports a four-factor structure of collaborative group engagement (behavioural, social, cognitive, conceptual-to-consequential) for the QCGE self-assessment scale](qcge-sas-four-factor-structure-cfa-supported.md) — related

@@ -46,3 +46,5 @@ In Experiment 1's drawing-contest selective social learning task, both informant
 
 - [Area discrimination accuracy does not predict children's social judgments; age, not shared decision imprecision, accounts for the task correlations](area-accuracy-no-predictor-age-explains-correlations.md)
 - [Children do not reliably endorse the more accurate informant when no objective reference is available](endorse-judgments-at-chance-children.md)
+- [Children's self-focused confidence reasoning and other-focused accuracy reasoning show no consistent correlation across four studies when mental-state language and response biases are eliminated](no-consistent-correlation-self-other-reasoning-children.md) — related
+- [In Experiment 2, children's confidence-task performance correlated with Winner and Ask choices but not Endorse choices, controlling for age](exp2-confidence-winner-ask-correlation.md) — related

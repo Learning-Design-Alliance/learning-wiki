@@ -68,3 +68,4 @@ Parallel path analyses using the 8-item learning goals subscore (α = .69). Dire
 - [Incremental motivational frameworks in 2nd–3rd grade predict 4th grade math and reading comprehension but not reading decoding](incremental-frameworks-predict-math-reading-comprehension-not-decoding.md) — related
 - [Process praise effects persist after controlling for overall parent talk and SES, suggesting they are not proxies for general engagement](praise-effects-robust-to-parent-talk-and-ses-controls.md) — related
 - [Process praise to toddlers predicts fourth grade math and reading comprehension achievement via children's incremental motivational frameworks](process-praise-toddlers-predicts-achievement-via-incremental-frameworks.md) — related
+- [In kindergarteners, trait beliefs and goal orientations form two separate but related factors rather than a coherent growth/fixed mindset](kindergarten-mindsets-two-factor-structure.md) — related

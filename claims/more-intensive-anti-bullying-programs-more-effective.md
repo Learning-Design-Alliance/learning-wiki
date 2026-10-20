@@ -50,3 +50,5 @@ The meta-analysis pooled 44 program evaluations; the analysis of program element
 - [School-based anti-bullying programs reduce bullying perpetration and victimization globally](anti-bullying-programs-reduce-perpetration-and-victimization-globally.md) — a broader claim this one bears on
 - [School-based anti-bullying programs decrease victimization by 17-20% on average](anti-bullying-programs-reduce-victimization-17-20-percent.md) — a broader claim this one bears on
 - [Parent meetings, firm disciplinary methods, and improved playground supervision are program elements associated with decreases in bullying and victimization](parent-meetings-discipline-playground-supervision-reduce-bullying.md) — related
+- [The Olweus Bullying Prevention Program produced the largest effect sizes for bullying perpetration, with effectiveness varying between Norway and USA evaluations](obpp-most-effective-for-perpetration.md) — related
+- [School-based anti-bullying programs are effective overall, decreasing bullying by 20-23% on average](anti-bullying-programs-reduce-bullying-20-23-percent.md) — related

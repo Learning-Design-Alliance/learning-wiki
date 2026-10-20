@@ -49,3 +49,4 @@ Survey of 148 edtech coaches (Figure 9) on areas of teacher support: "82 percent
 - [Most edtech coaches stopped or reduced deep coaching during 2020 school closures to support more teachers](deep-coaching-reduced-during-closures.md) — related
 - [A majority of edtech coaches plan to provide deep coaching online if closures extend, expecting modeling, observation, and planning to change](deep-coaching-online-next-year-plans.md) — related
 - [During 2020 school closures, teachers and school/district leaders reached out to edtech coaches more than before, with teachers reaching out more](edtech-coaches-reached-out-more-during-closures.md) — related
+- [A field study with 10 faculty across two institutions observed a 25% reduction in administrative load and improved LMS data utilization from agentic teaching-assistant systems](agentic-teaching-assistant-25-percent-admin-load-reduction.md) — related

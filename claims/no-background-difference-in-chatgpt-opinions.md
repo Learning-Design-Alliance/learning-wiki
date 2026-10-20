@@ -50,3 +50,4 @@ Chi-square comparison of questionnaire answers between African and Asian student
 - [A majority of surveyed MSc computer science students had never used ChatGPT for academic purposes](msc-cs-students-rarely-use-chatgpt-academically.md)
 - [Most students favour allowing ChatGPT in assessments if tasks require original thinking or guidance is provided](students-favor-guided-chatgpt-allowed-assessments.md)
 - [Students see obtaining explanations for their doubts as ChatGPT's most useful role in learning computer science](students-rate-explanations-as-chatgpt-most-useful-learning-role.md)
+- [Eighth- and 11th-grade students do not differ statistically significantly in their choice of epistemic assumptions about model evaluation, although a higher percentage of 11th graders chose the evaluatist assumption](grade-levels-no-significant-difference-model-evaluation-assumptions.md) — related

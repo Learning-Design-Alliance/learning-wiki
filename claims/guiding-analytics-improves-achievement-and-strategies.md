@@ -94,3 +94,4 @@ The review synthesises behavioural outcomes across three guiding-analytics studi
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](teacher-dbdm-use-increases-dls-effectiveness.md) — related
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — related
 - [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related
+- [An LLM-based Q&A practice system reduced presentation anxiety and improved perceived preparedness among first-time conference participants](llm-qa-practice-reduces-presentation-anxiety.md) — related

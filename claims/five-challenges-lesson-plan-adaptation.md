@@ -48,3 +48,5 @@ Qualitative formative study: a system use experiment with a structured lesson pl
 - [Teachers in the formative study agreed lesson plans need adjustment when student ability diverges, with STEM subjects more amenable to difficulty scaling than humanities subjects](stem-more-amenable-difficulty-scaling.md) — related
 - [Teachers perceived the AIED-U system as a mixed experience: valued exercise lists and reports, but recognition imprecision and workflow demands added work](teachers-mixed-perception-aied-u-system.md) — related
 - [A formative study with 7 students and 3 instructors identified five key challenges impeding exploratory learning in existing supply chain simulations.](five-barriers-exploratory-scm-simulation.md) — related
+- [Pre-service teachers struggle with instructional design and lesson planning despite existing standards and coursework](pre-service-teachers-struggle-lesson-design.md) — related
+- [Experts perform differentiation activities across four phases: period preparation, lesson preparation, the lesson, and post-lesson evaluation](four-phases-expert-differentiation.md) — related

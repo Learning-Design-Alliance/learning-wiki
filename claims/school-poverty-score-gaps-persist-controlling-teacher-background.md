@@ -51,3 +51,4 @@ Analysis controlling for teacher characteristics including experience, advanced 
 - [Top-scoring teachers in highest-poverty schools have higher value-added scores than their counterparts in lower-poverty schools](top-value-added-teachers-higher-in-highest-poverty-schools.md) — related
 - [Heavy weighting of achievement data in U.S. school evaluation clouds how much learning is actually occurring, particularly in high-poverty communities](achievement-weighting-clouds-learning-high-poverty.md) — related
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
+- [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related

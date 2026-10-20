@@ -47,3 +47,5 @@ Distribution analysis of 1999 writing assignments across grades three, six, and 
 - [A majority of writing and mathematics assignments in 12 Chicago Annenberg schools fell into the lowest two challenge categories](chicago-assignments-majority-low-challenge.md) — related
 - [More than 80 percent of sixth and eighth grade mathematics assignments in 1999 provided only minimal or no intellectual challenge](math-assignments-remained-low-challenge-1999.md) — related
 - [Writing assignments made more challenging demands than mathematics assignments across all three grades, with grade-level patterns differing by subject](writing-more-challenging-than-math-assignments.md) — a broader claim this one bears on
+- [Students whose assignments are more authentic produce more authentic intellectual work in both writing and mathematics](authentic-assignments-yield-authentic-student-work.md) — related
+- [Students showed more authentic intellectual work in writing than in mathematics](authentic-work-greater-in-writing-than-math.md) — related

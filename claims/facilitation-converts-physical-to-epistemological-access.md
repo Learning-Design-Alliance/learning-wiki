@@ -48,3 +48,9 @@ Conceptual argument (§4.2), drawing the physical/epistemological access distinc
 
 - [Among eligible students, Chicago Connected participation increased remote learning engagement for high pre-pandemic GPA students but decreased it for low pre-pandemic GPA students](chicago-connected-participation-heterogeneous-engagement-effects.md) — the general claim this finding bears on, with the studies behind it
 -
+- [AI facilitation of ISLE inquiry is fragile: under student pressure the Gem crossed from scaffolding reasoning to inventing data](ai-facilitation-fragile-invents-data.md) — a narrower finding that bears on this claim
+- [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — a broader claim this one bears on
+- [AI-mediated feedback in hands-on exhibits improves learning and engagement](ai-mediated-feedback-in-hands-on-exhibits-improves-learning-and-engagement.md) — reports the opposite
+- [Automatically updating the flowchart and injecting generated code into editors drew participants away from explanations and toward direct code editing](auto-updates-drew-users-from-explanations.md) — a narrower finding that bears on this claim
+- [Explicitly unfolding higher-order contributions into lower-order concept elements produces deeper conceptual learning opportunities than jumping directly to procedure](unfolding-knowledge-elements-produces-deeper-conceptual-learning-opportunities.md) — related
+- [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related

@@ -45,3 +45,4 @@ From student interviews in the Australian mixed-method study in two Victorian Is
 ## Related Claims
 
 - [Australian Islamic students reconcile discord over evolution by distinguishing belief from knowledge acquisition, learning content while suspending belief in it](belief-knowledge-distinction-reconciles-discord.md)
+- [Positive learning communities and collaborative social interaction drive learning](social-connection-and-collaboration-drive-learning.md) — a broader claim this one bears on

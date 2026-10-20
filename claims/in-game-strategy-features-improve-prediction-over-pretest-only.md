@@ -47,3 +47,4 @@ Comparison of two LSTM versions on the same train/test split of 168 students' da
 - [An LSTM-based strategy temporal analytics framework outperforms random forest, SVM, and majority-class baselines for stealth assessment predictive accuracy](lstm-strategy-temporal-analytics-outperforms-baselines.md)
 - [Clustering n-gram flip sequences per task yields three distinct problem-solving strategy groups across the binary challenges](three-strategy-clusters-from-ngram-flip-sequences.md)
 - [Stealth assessment in AI-GBL achieves accurate prediction of learner states, with bias auditing demonstrated without accuracy loss](stealth-assessment-accuracy-and-bias-audits.md)
+- [GRU is the lowest-performing model across both single-task and multi-task competency modeling, likely due to its two gating units versus LSTMs' three](gru-lowest-performing-competency-model.md) — related

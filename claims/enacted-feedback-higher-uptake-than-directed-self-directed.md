@@ -47,3 +47,5 @@ Binomial GLMM on log data from 51,296 resources across the three workflow condit
 - [In the Enacted Feedback workflow most resources moved from AI feedback to suggestion selection, while optional AI assistance was rarely entered](event-flow-selection-versus-optional-assistance-use.md) — related
 - The study dataset comprised 13,037 students, 51,296 student-authored resources, and 70 course offerings across three workflow conditions — related
 - [Revision after chatbot feedback predominantly results in successful uptake, indicating effective error correction](penny-feedback-successful-uptake.md) — related
+- [Workflow condition is associated with students' self-assessment confidence](workflow-condition-self-assessment-confidence-effect.md) — related
+- [Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.](selecting-scaffold-options-associated-higher-compliance.md) — related

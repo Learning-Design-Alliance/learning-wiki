@@ -65,3 +65,4 @@ Same balanced-dataset human-evaluation analysis in Results, reporting FSM-based 
 - [Unit-test-based evaluation shows consistently negative correlations with human judgment, disproportionately penalizing complex high-quality interactive designs](unit-test-negative-correlation-human-judgment.md) — related
 - [Some VLMs perform near chance on binary judgments of student correctness, and error-assessment behavior is idiosyncratic across models](binary-correctness-judgments-near-chance.md) — related
 - [FSM-based evaluation discriminates interactive quality across models, with GPT-5 Mini scoring highest and most tiers significantly separated](fsm-eval-discriminates-model-quality.md) — related
+- [Under FSM metrics, GPT-3.5-Turbo outperforms GPT-4o-Mini, reversing that model's higher rank on coding-oriented leaderboards](fsm-gpt35-outperforms-gpt4o-mini-reversal.md) — related

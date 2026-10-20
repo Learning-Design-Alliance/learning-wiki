@@ -54,3 +54,6 @@ A pilot study by Mary Ciske elicited four contextual styles (free writing, readi
 - Monitoring is a variable phenomenon, not all-or-nothing, and monitoring in formal styles may pull up accuracy in less formal styles — related
 - [Regular past tense accuracy is greatest in planned writing, intermediate in planned speech, and least in unplanned speech](regular-past-accuracy-planned-writing-highest.md) — related
 - [L2 learners style-shift in past tense accuracy within narrative discourse according to the amount of planning time available](style-shifting-past-tense-planning-time-narrative.md) — related
+- [The three planning conditions produced different accuracy orders for regular and irregular past, questioning the stability of the natural order](condition-dependent-accuracy-orders-natural-order-unstable.md) — related
+- [Past copula style shifting occurs only between planned speech and unplanned speech](past-copula-shifting-speech-conditions-only.md) — related
+- [Irregular past shows little style shifting across planning conditions](irregular-past-little-style-shifting.md) — related

@@ -46,3 +46,4 @@ Prompt-component ablation (Figure 3) under Qwen2.5-3B and Llama-3.1-8B on Detect
 - [EchoPrompt maintains cross-proxy robustness, averaging 87.06% AUROC across seven proxy models and outperforming DNA-DetectLLM by 2.70% AUROC on average](echoprompt-cross-proxy-robustness.md) — related
 - [EchoPrompt's AUROC rises with text length, from an average of 75.8% in the shortest 1-40 word bin to 98.9% in the 321-360 bin on DetectRL Length](echoprompt-length-robustness.md) — related
 - [EchoPrompt remains robust across attack settings, obtaining the best AUROC and Best-F1 in four out of five attack groups and improving over IRM by 0.24% AUROC on average](echoprompt-robust-across-attacks.md) — related
+- [Students predominantly conceptualize the LLM as an Assistant rather than Peer or Expert, and role distributions differ significantly across assignments](assistant-role-dominates-llm-conceptualization.md) — related

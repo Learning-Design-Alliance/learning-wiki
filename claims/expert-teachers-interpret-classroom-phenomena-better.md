@@ -58,3 +58,5 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 - [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related
 - [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
 - [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related
+- [Experts revisited (monitored) more classroom areas showing student interaction, while novices revisited areas lacking classroom activity](experts-monitor-interaction-areas-novices-salient-areas.md) — related
+- [Novices and experts committed similar total error numbers but different error types in computer work](novice-expert-error-type-differences.md) — related

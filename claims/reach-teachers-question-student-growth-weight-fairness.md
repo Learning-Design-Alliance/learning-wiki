@@ -48,3 +48,4 @@ Teacher survey in the year-two REACH brief; student growth accounted for up to 2
 - [Teachers rated classroom observation scores as the most accurate REACH measure of teaching effectiveness and value-added measures as the least accurate](observation-scores-rated-most-accurate-vam-least.md) — related
 - [A majority of teachers believed REACH relied too heavily on standardized tests, with special education teachers especially critical](teachers-hesitant-student-growth-evaluation.md) — related
 - [Students report that tests dominate assessment, carry too much weight, and create stress, while extended performance-based assessments offer better opportunities to learn and showcase learning](students-report-tests-dominate-and-overweight-grades.md) — related
+- [Majorities of teachers and evaluators question the effort required by REACH, saying it takes more effort than the results are worth](reach-effort-questioned-more-effort-than-results-worth.md) — related

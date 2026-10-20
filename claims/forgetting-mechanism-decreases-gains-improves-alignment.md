@@ -45,3 +45,4 @@ Simulation comparison of AL agents with versus without forgetting (d = 0.7). The
 ## Related Claims
 - [In simulated learners with forgetting, study-practice yields higher skill gains while practice-only yields higher fact gains, mirroring the human pattern](al-simple-effects-mirror-human-pattern.md) — related
 - [Ablations show each CogEvolution module contributes: removing ICAP perception, structured retrieval, or evolutionary update degrades mistake precision, learning-curve fit, and alignment](cogevolution-ablation-module-contributions.md) — related
+- [In a human experiment, verbatim facts are learned better from practice-only training while general skills are learned better from example-integrated training (cross-over content-treatment interaction)](crossover-content-treatment-interaction-facts-practice-skills-examples.md) — related

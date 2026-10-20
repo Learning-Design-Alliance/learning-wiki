@@ -64,3 +64,5 @@ Findings on assessment methods (RQ3): three of the six interviewed instructional
 ## Related Claims
 - [When all of a teacher's students had access to Equatio, teachers leveraged it in more robust workflows such as assessments, digital submissions, and timely feedback](universal-student-access-enables-robust-equatio-use.md) — related
 - [Higher education instructional designers recognize dispositions as important learning goals in their course designs](ids-recognize-dispositions-as-learning-goals.md) — related
+- [Stakeholder and faculty buy-in, time constraints, and lack of measurable definitions are the main challenges to integrating and assessing dispositions](challenges-integrating-dispositions-buy-in-time-definitions.md) — related
+- [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — a broader claim this one bears on

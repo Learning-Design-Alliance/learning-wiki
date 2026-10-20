@@ -48,3 +48,4 @@ School-level longitudinal analysis linking schools across the 1997 and 1999 surv
 - [Principal leadership, school orientation toward innovation, and teacher professional community promote professional development quality, with mutual reinforcement](school-supports-promote-pd-quality.md) — related
 - [Frequency, content, and quality of professional development are each positively related to elementary teachers' use of interactive instruction](pd-elements-related-interactive-instruction.md) — related
 - [Teachers drawing on a combination of professional development sources experience higher quality development than those drawing primarily on one source](multiple-pd-sources-higher-quality.md) — related
+- [School organizational supports are associated with more interactive and less didactic instruction](school-organizational-supports-interactive-instruction.md) — related

@@ -46,3 +46,5 @@ Case study findings from 11 SIG schools with high ELL proportions in the Study o
 - [Most teachers in the 11 SIG schools participated in ELL-related professional development, but it accounted for less than 20 percent of their total PD hours](ell-pd-participation-under-20-percent-of-pd-hours.md) — related
 - [Teachers in SIG schools with a greater PD focus on ELL-related topics more often reported that PD improved their effectiveness as teachers of ELLs](greater-ell-pd-focus-linked-to-reported-effectiveness-gains.md) — related
 - Restructuring staffing freed teacher planning time from 200 to 315 minutes per week in a resource-trade-off vignette — related
+- [Most surveyed districts used federal recovery funds to recruit and retain teachers, including creating new positions that increased staffing needs](recovery-funds-new-positions-shortages.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related

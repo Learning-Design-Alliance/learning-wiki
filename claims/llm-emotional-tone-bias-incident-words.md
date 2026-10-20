@@ -47,3 +47,4 @@ Exploratory experiment (RQ2) in which the authors asked the LLM to categorize th
 - [Perceptions of feedback characteristics vary between researcher and teacher coders, with agreement shaped by professional background](coder-background-varies-feedback-interpretation.md) — related
 - [Fully inductive LLM codebook development risks importing unexamined sensitizing concepts, such as folk theories and scientific misconceptions, from the model's training data](llm-inductive-coding-sensitizing-concept-risk.md) — a broader claim this one bears on
 - [Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions](llm-selection-bias-against-option-d.md) — related
+- [Priming human shadows as math lovers or haters shifts LLM emotional tone about mathematics](persona-priming-shifts-llm-math-sentiment.md) — related

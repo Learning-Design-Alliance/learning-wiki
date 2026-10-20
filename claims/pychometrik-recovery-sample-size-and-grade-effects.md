@@ -45,3 +45,4 @@ Item parameter recovery simulation using MAP Growth Reading distributions across
 ## Related Claims
 - [When item difficulty and simulee ability ranges align (minimum -10, maximum 8), Pychometrik recovery is accurate, with correlations above 0.99 across all three sample sizes; recovery degrades above the simulee ability maximum of 7.94](pychometrik-accurate-recovery-when-ranges-align.md) — related
 - [In a fixed-person calibration simulation with 60 Rasch items and 1,200 simulees, estimates from both tools were comparable to true parameters, with the existing tool underestimating difficulty by 0.03 RIT on average](simulation-comparability-60-items-1200-simulees.md) — related
+- [Simulating higher-cognitive-ability students is easier: simulation quality correlates positively with student cognitive score](simulation-quality-correlates-with-cognitive-ability.md) — related

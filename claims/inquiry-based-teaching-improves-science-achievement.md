@@ -83,7 +83,7 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does guided inquiry raise science learning over the usual instruction, and is it the guidance that carries it?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **15 distinct studies** (6 review, 3 quant-synthesis, 3 causal, 2 design, 1 associational), `q1`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does inquiry-based teaching raise science achievement over the usual instruction?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **15 distinct studies** (6 review, 3 quant-synthesis, 3 causal, 2 design, 1 associational), `q1`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -144,3 +144,14 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 - [Relatively guided instructional procedures are more effective than relatively unguided procedures for novice students](guided-instruction-more-effective-than-unguided-for-novices.md) — related
 - [Effects of discovery-related approaches are differential, not uniform across students or learning goals](discovery-effects-differential-across-students-and-goals.md) — related
 - [Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions](open-science-platform-students-gain-design-ethics-struggle-peer-review.md) — related
+- [Between-group effect sizes on decision-making gains were large for AI-assisted versus traditional instruction and moderate-to-large for AI-assisted versus inquiry-only](ai-assisted-effect-sizes-large-vs-traditional.md) — a narrower finding that bears on this claim
+- [Guidance during inquiry learning improves post-inquiry learning outcomes (d = 0.50)](guidance-improves-inquiry-learning-outcomes.md) — related
+- [Scripted personally meaningful inquiry is associated with gains in inquiry-decision accuracy, with mixed evidence on attitude and behavior change](scripted-personal-inquiry-associated-with-inquiry-knowledge-gains.md) — a narrower finding that bears on this claim
+- [Hands-on, inquiry-based science and math instruction with higher-order thinking was associated with higher English reading achievement on the Stanford Achievement Test in the AMSTI evaluation](amsti-inquiry-science-higher-reading-achievement.md) — a narrower finding that bears on this claim
+- [Deeper-learning inquiry strategies in low-income mathematics classes reduced linguistic, ethnic, and class outcome disparities](deeper-learning-math-inquiry-reduces-disparities.md) — a narrower finding that bears on this claim
+- [Guidance during inquiry learning improves performance success during the inquiry (d = 0.71), with type of guidance moderating this effect](guidance-improves-inquiry-performance-success.md) — related
+- [One review reports that more teacher guidance within inquiry is associated with larger advantages over traditional instruction, though the two meta-analyses it cites differ in magnitude](teacher-guided-inquiry-larger-effects.md) — related
+- [Enhanced discovery learning produces greater learning than other forms of instruction](enhanced-discovery-beats-other-instruction.md) — related
+- [Guidance during inquiry learning produces a medium-to-large improvement in learners' use of inquiry skills during the inquiry](guidance-improves-inquiry-learning-activities.md) — related
+- [Minimally guided or unguided inquiry is less effective than explicit instruction, while adequately guided inquiry outperforms expository instruction (review attribution to Alfieri et al., 2011)](minimal-guidance-inquiry-inferior-explicit-instruction.md) — related
+- [Questioning Strategies Improve Learning](questioning-strategies-improve-learning.md) — related

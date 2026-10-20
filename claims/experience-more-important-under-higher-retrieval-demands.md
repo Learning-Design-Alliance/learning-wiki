@@ -43,4 +43,5 @@ Authors' interpretation of the study's pattern of results: the article states th
 
 
 ## Related Claims
--
+- [Older children (11/12-year-olds) outperform younger children (9/10-year-olds) when considering characteristics of on-going retrieval processes](older-children-outperform-younger-on-retrieval-process-characteristics.md) — related
+- [All children in the study showed adequate metacognitive processes before and during test taking](all-children-adequate-metacognitive-processes-test-taking.md) — related

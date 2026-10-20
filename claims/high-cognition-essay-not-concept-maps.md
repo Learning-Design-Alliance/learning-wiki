@@ -44,4 +44,6 @@ SEM results from the exploratory study of 44 university students thinking aloud 
 
 
 ## Related Claims
--
+- [Metacognitive analysis activities were positively associated with transfer, but metacognitive activities showed no association with essay quality](metacognitive-analysis-transfer-association.md) — related
+- [Online concept-mapping behaviour may play a critical role in transforming verbal-discourse knowledge into deep-level co-construction; Type 3's lowest behavioural knowledge construction accompanied its lowest performance](online-behaviour-transforms-discourse-knowledge.md) — related
+- [Concept mapping improves learning over most comparison conditions by a moderate average amount, but not over time-matched retrieval practice](concept-mapping-improves-learning.md) — related

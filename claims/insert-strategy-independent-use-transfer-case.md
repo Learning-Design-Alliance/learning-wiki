@@ -44,3 +44,5 @@ Case-study observation: the tutor demonstrated INSERT on paper text, then taught
 
 ## Related Claims
 - [On a delayed assessment 1 to 3 months later, many students transferred their appreciation of variation to another context and could explain the meaning of variation](delayed-assessment-variation-transfer.md) — related
+- [The iPad helped a student with ADHD focus attention and become more metacognitive about his reading](ipad-supported-attention-and-metacognition-adhd-reader.md) — related
+- [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — a broader claim this one bears on

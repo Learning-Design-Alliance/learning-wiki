@@ -49,3 +49,5 @@ Descriptive analysis of program records for 56 school-based tutoring sites (32 r
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - Rural schools report school nurse shortages at more than twice the urban rate — related
 - Tennessee's education department notes tutoring during the school day is more effective than before- or after-school programming — related
+- [Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
+- [Timing of tutoring was significantly associated with tutor qualifications and with student grade level and baseline risk](ontrack-timing-associations-qualifications-grade-risk.md) — related

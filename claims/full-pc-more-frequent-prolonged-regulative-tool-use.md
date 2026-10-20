@@ -47,3 +47,4 @@ Quasi-experimental comparison of 20 PC+ versus 15 PC− dyads working an inquiry
 - [Full-PC dyads wrote lab reports with significantly better structure and more complete content than empty-PC dyads](full-pc-better-lab-reports.md) — related
 - [In collaborative inquiry learning, dyads use more team regulation than task regulation in all support conditions](team-regulation-exceeds-task-regulation-collaborative-inquiry.md) — related
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
+- [Higher model quality was associated with less goal viewing and note taking, while lab report scores correlated positively with regulative tool use and negatively with helpfile viewing](tool-use-outcome-correlations-diverge.md) — related

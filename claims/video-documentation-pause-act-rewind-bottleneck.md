@@ -85,3 +85,6 @@ Study 1 documentation clarity Likert comparison across versions with four develo
 
 ## Related Claims
 - [First-time builders completed the v4.1 build in a mean of 39.1 minutes with SUS 74.6 (Good), but showed higher assembly Mental Demand than developers and tactile fragility concerns around snap-fit components](first-time-builder-v41-validation.md) — related
+- [Video-watching sequences involving pausing and rewinding are negatively correlated with math task performance in a flipped precalculus lesson](video-pause-rewind-sequences-negative-performance.md) — related
+- [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
+- [Guiding questions and student control over video movement improve learning outcomes and satisfaction](guiding-questions-and-video-control-improve-learning.md) — related

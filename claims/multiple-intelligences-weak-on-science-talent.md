@@ -47,3 +47,4 @@ The essay's own critical assessment, citing Thurstone's 1938 six related intelli
 - [MI theory lacks empirical theory-testing research supporting its intelligences as autonomous faculties](mi-lacks-empirical-theory-testing.md) — related
 - A century of psychometric data consistently shows performances on intellectual tests are correlated, which MI must account for — related
 - [Gardner holds intelligences are not interchangeable, so one intelligence cannot substitute for another in learning a domain](intelligences-not-interchangeable.md) — related
+- [Major 21st century skills frameworks are largely consistent, adding to P21 either highlighted subskills or areas underemphasized in its categories](frameworks-consistent-two-addition-types.md) — related

@@ -48,3 +48,5 @@ Descriptive analysis of test scores by domain, term, and grade in the norming sa
 ## Related Claims
 - [Mean foundational-skills scores rise from fall to spring with the largest gains in kindergarten and grade 1, and growth flattens by grades 2-3](spanish-foundational-skills-fall-to-spring-gain-pattern.md) — possibly the same claim (merge candidate)
 - [Between-term score correlations are moderate and lowest for Phonological Awareness](spanish-foundational-skills-between-term-correlations.md) — related
+- [Cross-term Foundational Skills scores were moderately correlated, with correlations ranging from 0.48 to 0.82 depending on domain and grade](foundational-skills-cross-term-moderate-correlations.md) — related
+- [Norming-sample testing volume is concentrated in kindergarten and grade 1, which together account for more than 70% of test events](spanish-foundational-skills-testing-volume-concentration.md) — related

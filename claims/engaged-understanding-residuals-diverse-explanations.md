@@ -48,3 +48,4 @@ Thematic analysis based on Braun and Clarke's guidelines of open-ended feedback 
 ## Related Claims
 - [DD students were less likely to dismiss explanations while GG students were more likely to dismiss them, with no statistically significant differences in use themes](dd-students-less-likely-dismiss-explanations.md) — related
 - [Diverse LLM explanations were associated with about 7.7% higher open-ended response accuracy than generic explanations, but the condition effect was not significant after Bonferroni adjustment](diverse-llm-explanations-higher-oe-accuracy-not-significant.md) — related
+- [Students perceived diverse and generic explanations as similarly helpful, with no statistically significant difference across explanation-sequence groups](no-significant-difference-perceived-helpfulness.md) — related

@@ -64,3 +64,4 @@ The snapshot's key findings state that meaningful inequity in access to effectiv
 - [Teacher hiring and transfer patterns are consistent with small differences in teacher effectiveness by student income](hiring-transfer-patterns-consistent-small-differences.md) — related
 - [In the average study district, differences in teacher effectiveness between high- and low-income students' teachers are small](small-average-effectiveness-differences.md) — related
 - [High- and low-income students have similar chances of being taught by the most effective and the least effective teachers](similar-access-most-least-effective-teachers.md) — related
+- [Teacher hiring and transfer patterns are consistent with small effectiveness differences, while attrition does not contribute to inequitable access](hiring-transfers-not-attrition-drive-inequity.md) — related

@@ -47,3 +47,4 @@ Correlational analysis of growth and achievement in the MAP Growth school sample
 - [School poverty (%FRL) accounts for about 50% of a school's median student achievement](frl-accounts-for-half-of-school-achievement.md) — related
 - [School effectiveness estimates from fall-to-spring versus spring-to-spring growth correlate only moderately to strongly (.399 to .705), below the .90 threshold at which rank orderings diverge in accountability](within-between-year-effectiveness-correlations-below-090.md) — related
 - [In the study data, mean spring grade-2 math RIT was 190.6 with linear spring-to-spring growth of 14.5 RIT, and mean fall-to-spring gain in grade-2 math was 13.4 RIT](grade2-math-growth-descriptives-cp-model.md) — related
+- [Growth rates varied tremendously between schools regardless of poverty, with top-quartile schools producing more than double the growth of the worst quartile](school-growth-variance-exceeds-poverty-effect.md) — related

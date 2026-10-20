@@ -50,3 +50,7 @@ PLS-SEM path analysis of cross-sectional questionnaire data from 1,198 undergrad
 - [Technology acceptance directly predicts reflective AI use and learning engagement in AI-supported programming (survey SEM, N=131)](ta-predicts-reflective-use-and-engagement-survey.md) — related
 - [Basic psychological need satisfaction is strongly associated with learning engagement among medical undergraduates](need-satisfaction-strongly-associated-learning-engagement.md) — related
 - [Instructional approach, AI technology type, assessment instrument, educational level, and publication year do not significantly moderate AI literacy intervention effects](five-moderators-non-significant-ai-literacy.md) — related
+- [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
+- [The direct association between GAI use and learning engagement is not statistically significant, while the indirect association through need satisfaction is significant but small](gai-engagement-direct-null-indirect-small.md) — related
+- [Professional commitment is essentially uncorrelated with AI literacy and shows no significant bivariate correlation with learning engagement](professional-commitment-null-bivariate-correlations.md) — related
+- [Teacher–AI collaboration is positively related to university teachers' work engagement](teacher-ai-collaboration-positively-related-work-engagement.md) — related

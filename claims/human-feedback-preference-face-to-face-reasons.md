@@ -47,3 +47,5 @@ Thematic analysis by three researchers of Study 2's open-ended survey data; stud
 - [ENL students were near-evenly split in preference between AI-generated and human tutor feedback](enl-near-even-split-ai-human-feedback-preference.md) — related
 - [Feedback source (human tutor vs GPT-4) had no significant effect on ENL students' posttest writing scores](feedback-source-no-posttest-effect-enl.md) — related
 - [AI-generated (GPT-4) feedback produced no greater linguistic progress than human tutor feedback among ENL students over six weeks](gpt4-feedback-no-superior-linguistic-progress-enl.md) — related
+- [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](aivaluate-thematic-advantages-and-limitations.md) — related
+- [Students' primary concerns about AI videos are inaccurate information, reduced interaction with educators, and diminished educational value](student-concerns-ai-videos-quality-interaction-value.md) — related

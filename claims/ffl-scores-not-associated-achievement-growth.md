@@ -49,3 +49,5 @@ Concurrent-validity analysis using a regression model relating school leaders' e
 - [FFL has concurrent validity primarily among principals with three to six years of tenure as their school's leader](ffl-validity-moderate-tenure-principals.md) — related
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
 - [The report concludes more validity evidence is needed before using FFL scores to identify effective and ineffective school leaders](more-evidence-needed-ffl-validity.md) — reports the opposite
+- [Teachers with higher Framework for Teaching scores tended to make larger contributions to student achievement (value added)](framework-scores-relate-to-value-added.md) — related
+- [The strongest FFL validity relationships are in the systems leadership and professional and community leadership domains](ffl-systems-and-community-leadership-domains-strongest.md) — related

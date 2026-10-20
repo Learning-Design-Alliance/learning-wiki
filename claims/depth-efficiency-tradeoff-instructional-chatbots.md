@@ -46,3 +46,6 @@ Qualitative findings from the 41-instructor user study, drawn from surveys and 1
 - [In a user study, the GPT-4o-mini baseline was preferred overall, but participants more often attributed learning to the fine-tuned TeachingCoach model](preference-learning-attribution-diverge-chatbots.md) — related
 - [Expert raters rate TeachingCoach higher than a GPT-4o baseline on clarity, tone, reflection, and acknowledgment of user input](teachingcoach-outperforms-gpt4o-expert-ratings.md) — related
 - [Fine-tuning frontier LLMs on authentic tutoring data improves performance on all six conversational and pedagogical benchmarks, moving values toward human-tutor levels](fine-tuning-authentic-data-improves-pedagogical-benchmarks.md) — related
+- [The fine-tuned chatbot LlamaLo extensively expanded the user's dialogic space through deepening and widening acts across ten contentious-topic discussions](llamalo-expanded-user-dialogic-space.md) — related
+- [Agreement between chatbot preference and perceived learning attribution was low (39%)](low-agreement-preference-learning-attribution-39-percent.md) — related
+- [How a user engages with AI matters more than whether: structured, deliberate engagement can mitigate or reverse offloading effects](engagement-style-matters-more-than-whether.md) — a broader claim this one bears on

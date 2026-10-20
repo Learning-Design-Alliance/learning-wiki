@@ -47,3 +47,5 @@ GEE model predicting neutral valence monitoring duration from physiological meas
 - [Higher physiological synchrony relates to less monitoring with positive valence](synchrony-negative-predictor-positive-valence.md) — related
 - [Individual participation in monitoring processes was consistent with physiological arousal, suggesting an observable indicator of participation](physiological-arousal-consistent-with-monitoring-participation.md) — related
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](inverted-u-arousal-executive-function.md) — related
+- [Higher equality of participation in monitoring interactions and more monitoring with positive valence predict better collaborative task performance](equality-and-positive-valence-monitoring-predict-collaborative-performance.md) — related
+- [Neither physiological arousal nor physiological synchrony predicts equality of participation in monitoring interactions](no-physiological-prediction-equality-participation.md) — related

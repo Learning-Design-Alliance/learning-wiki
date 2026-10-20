@@ -52,3 +52,4 @@ The report's own summary statement of its headline finding: a large-scale study 
 - [The better-performing early math curricula raised achievement for several student subgroups, including students in low-scoring and high-poverty schools](math-curricula-benefits-extend-to-low-performing-high-poverty-schools.md) — a narrower finding that bears on this claim
 - [Many U.S. students enter elementary school with poor math skills](many-students-enter-school-poor-math-skills.md) — related
 - The evaluation uses a school-level random assignment design to estimate the relative effects of four early elementary math curricula — related
+- [Math Expressions and Saxon Math raise first-grade math percentile rank 9 to 12 points more than Investigations and SFAW](math-expressions-saxon-percentile-advantage-first-grade.md) — a narrower finding that bears on this claim

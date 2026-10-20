@@ -46,3 +46,5 @@ Paired-samples t-test on the SAELKIS BI subscale in the pilot pre-post evaluatio
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived usefulness of AI-based technologies](insight-training-increases-perceived-usefulness-ai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
+- [Teachers rate the INSIGHT training as highly helpful and relevant for lesson planning and instructional design across disciplines, school types, and grade levels](insight-rated-helpful-relevant-lesson-planning.md) — related
+- [Teachers rate AI-interaction training as useful and relevant and report positive adoption intentions](teachers-rate-ai-training-useful-positive-adoption.md) — related

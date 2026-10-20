@@ -46,3 +46,5 @@ Descriptive subgroup comparisons with statistical tests across district subgroup
 - [No statistically significant mentoring–retention relationships emerged in districts with any characteristics examined, and subgroup differences exceeding 10 percentage points showed no clear pattern](no-mentoring-retention-relationships-by-district-subgroups.md) — related
 - [Rural and urban TECTA participants showed no statistically significant differences in credential attainment or time to completion](rural-urban-no-significant-difference-tecta-credential-outcomes.md) — related
 - Time-on-task measures did not support a simple duration-based explanation for the outcome pattern — related
+- [An adapted SimCalc linear-function unit in England produced significant posttest gains versus Texas-control predictions (ES = 0.57), with no significant gain differences by poverty or prior achievement](simcalc-uk-extension-gains.md) — related
+- [Across ten districts combined, elementary schools show no statistically significant difference from an equitable distribution of highest-performing teachers](elementary-equitable-distribution-highest-performing-teachers.md) — related

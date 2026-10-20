@@ -43,4 +43,7 @@ Observation from the episode analysis of the boys' group in Episode 1: when Alex
 
 
 ## Related Claims
--
+- [NGI did not appear to divert students from learning objectives; attention momentarily shifted but quickly returned to gameplay](ngi-not-distracting-attention-returns.md) — reports the opposite
+- [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](claim-3d-modeling-task-halted-engineering-practices.md) — related
+- [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](rounds-surveillance-minimizes-off-task.md) — related
+- [Students' makerspace knowledge practices are mediated multimodally by discourse, materials, embodied actions, and physical space](multimodal-mediation-makerspace-knowledge-practices.md) — related

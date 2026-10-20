@@ -60,3 +60,6 @@ Paired comparison of the 8 groups' observation assignments after Workshop 1 (VS)
 - Workshop students achieved modestly higher final task-performance scores — related
 - [Video is more effective for teaching skills than for transmitting knowledge](video-more-effective-for-skills-than-knowledge.md) — related
 - [Simulation-based learning has a large positive overall effect on complex skills in higher education (g = 0.85)](simulation-based-learning-large-positive-effect-complex-skills.md) — related
+- [Analytical competence showed a leap-plateau trajectory across sequential authentic-video workshops, improving mainly between Workshops 2 and 3](analysis-leap-plateau-trajectory.md) — related
+- [Supportive competence grew continuously through Workshop 4 while basic observation ability remained stable across sequential AV workshops](support-growth-observation-stable-longitudinal.md) — related
+- [Authentic video enhanced self-reported acuity for detail, though the non-parametric check was marginal](av-higher-acuity-detail-sensitivity.md) — related

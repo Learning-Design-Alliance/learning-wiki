@@ -49,3 +49,4 @@ ROI ANOVA on left BA 39 and BA 40 in children and adults performing the RPM-like
 - [Adults show sustained RLPFC activation for REL-2 problems, whereas children's early RLPFC differentiation of REL-2 from REL-1 is not sustained across the trial](rlpfc-sustained-integration-adults-not-children.md) — related
 - [Adults show greater left inferior lateral PFC activation than adolescents during relational integration](adults-greater-left-inferior-pfc-relational-activation.md) — related
 - [A graded left superior parietal retrieval-success effect emerges by age 12 but is absent in 8-year-olds](ppc-retrieval-success-effect-emerges-age-12.md) — related
+- [Children show greater inferior frontal gyrus activity than adults during numerical comparisons, while adults show greater left superior parietal activity than children](ifg-greater-in-children-parietal-greater-in-adults.md) — related

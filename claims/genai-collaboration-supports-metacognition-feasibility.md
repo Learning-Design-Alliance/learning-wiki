@@ -49,3 +49,5 @@ Exploratory case study of expert use of a chat-based generative AI tool, examini
 ## Related Claims
 - [Human teacher–GenAI collaboration in embodied mathematics learning calls for a complementary interaction model combining AI feedback with human metacognitive guidance](complementary-human-genai-interaction-model.md) — related
 - [Perceived GenAI role is systematically associated with metacognitive dimensions activated: replacement-tool users show no evaluation or elaboration, collaborator users show predominantly higher-order activity](genai-role-metacognitive-profiles.md) — related
+- [Process mining shows the ChatGPT group's revision loop centred on consulting ChatGPT, while the human-expert group strengthened connections between revising and reading, orientation and evaluation](chatgpt-process-map-loop-metacognitive-disengagement.md) — related
+- [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — related

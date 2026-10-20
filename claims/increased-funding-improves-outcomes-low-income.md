@@ -55,3 +55,6 @@ The report's literature review cites a 2015 study of school finance reforms find
 - Michigan has one of the highest rates of concentrated poverty nationwide, with 37% of low-income students in high-poverty districts, yet allocates no additional funds for district poverty concentration — related
 - Increases in per-pupil spending improve educational attainment, wages, and adult poverty outcomes, with stronger effects for low-income children — a narrower finding that bears on this claim
 - Research shows need-based aid increases likelihood of graduation, improves time to graduation, and increases earnings — related
+- [Greater parental financial investment associated with lower grades but higher graduation likelihood (review attribution)](parental-financial-investment-grades-graduation.md) — related
+- [Achievement gains lag in districts just below the 55% concentration-grant threshold, especially those enrolling 40–55% high-need students](lcff-funding-cliff-below-threshold-lag.md) — a narrower finding that bears on this claim
+- [Increases in school funding can improve student outcomes when funds support the specific needs of students](school-funding-improves-outcomes-when-targeted.md) — a narrower finding that bears on this claim

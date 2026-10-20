@@ -46,3 +46,4 @@ QED with 814 intervention and 2,739 comparison students matched via propensity s
 - [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on cumulative college GPA](linkow-2017-significant-gpa-effect.md) — related
 - [Success Boston Coaching has potentially positive effects on academic achievement, with a significant effect in one study and an indeterminate effect in the other](success-boston-coaching-potentially-positive-academic-achievement.md) — related
 - [Success Boston Coaching has potentially positive effects on progressing in college, based on two quasi-experimental studies meeting WWC standards with reservations](success-boston-coaching-potentially-positive-progressing-in-college.md) — related
+- [In the Linkow et al. (2017) QED, coaching produced a statistically significant positive effect on second-year college enrollment](linkow-2017-significant-persistence-effect.md) — related

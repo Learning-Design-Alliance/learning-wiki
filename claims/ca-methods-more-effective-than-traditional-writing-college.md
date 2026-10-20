@@ -61,3 +61,4 @@ Narrative review attributing this finding to Duncan (1996); the reviewed study's
 ## Related Claims
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
 - [Strategy Instruction Improves Writing Quality](strategy-instruction-improves-writing-quality.md) — related
+- [Cognitive apprenticeship instruction produced no significant differences from traditional instruction on post-treatment problem-solving, final, and standardized mathematics exams in community college technical mathematics](cognitive-apprenticeship-no-significant-exam-differences-technical-math.md) — related

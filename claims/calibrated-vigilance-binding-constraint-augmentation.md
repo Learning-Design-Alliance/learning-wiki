@@ -59,3 +59,5 @@ Theoretical argument of the paper itself: across scientist, citizen, and student
 - [AI literacy requires discipline-specific calibration beyond prompt-writing skills](ai-literacy-discipline-specific-calibration.md) — a broader claim this one bears on
 - [Prior knowledge and trust calibration moderate GenAI learning effects: fluent output is most persuasive when learners least can challenge it](prior-knowledge-trust-calibration-moderators.md) — a narrower finding that bears on this claim
 - [Cognitive partnerships with AI enable students to engage in theoretical and empirical reflection that the authors characterize as genuinely novel epistemic practices](ai-partnership-novel-theoretical-empirical-reflection.md) — related
+- [U-shaped dynamics: partnership-vigilance and offloading-transformation relationships are convex, with benefits accelerating only beyond a threshold of engagement](u-shaped-thresholds-vigilance-offloading.md) — related
+- [Attachment to LLMs exhibits cruel optimism: desired efficiency collides with the vigilance and expertise students do not yet possess](cruel-optimism-of-llms-in-education.md) — a narrower finding that bears on this claim

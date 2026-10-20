@@ -51,3 +51,4 @@ Separate analyses by task following the group-by-task ANCOVA showed no significa
 - [PoorAF and control children do not differ in error rates on the multiplication task, indicating the problems were not too difficult](pooraf-error-rates-comparable-multiplication.md) — related
 - [Children with poor arithmetic fact abilities are significantly slower than matched controls only on the multiplication selection task](pooraf-slower-only-multiplication-task.md) — related
 - [PoorAF children show a significant problem-size effect in multiplication RTs, with a marginally significant stronger problem-size influence than controls](pooraf-problem-size-effect-multiplication.md) — related
+- [Verbally gifted adolescents with ADHD show poor recall and recognition on online memorization despite strong verbal fluency](verbally-gifted-adhd-poor-online-memorization.md) — related

@@ -53,3 +53,4 @@ Growth curve analysis of eye-tracking data from native and non-native English sp
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related
 - [Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect](incidental-word-learning-from-natural-context.md) — related
+- [Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect](per-exposure-gains-decrease.md) — related

@@ -45,3 +45,4 @@ Theoretical argument defending the classification of Young et al. (2019) studies
 ## Related Claims
 - [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — related
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
+- [Heritage learners showed broader attention to the passage and selective second-listening attention, while non-heritage learners focused on local information](hlls-broader-and-selective-listening-attention.md) — related

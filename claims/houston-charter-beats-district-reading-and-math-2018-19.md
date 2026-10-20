@@ -49,3 +49,4 @@ Comparison of school sectors within Houston table for 2018-19. Charter schools v
 - [Houston magnet schools outperformed district schools in reading but not in math in 2018-19](houston-magnet-reading-advantage-not-math-2018-19.md) — related
 - [Houston students made significantly greater math growth than the state average in 2018-19, but reading growth was not significantly different](houston-overall-growth-2018-19-math-positive-reading-null.md) — related
 - [Three of nine Washington charter schools showed significantly stronger academic progress than local district options in both reading and math](wa-charter-school-level-variation-three-of-nine.md) — related
+- [Houston CMO-affiliated charter students outgrew the state average in both subjects while independent charter students did not differ significantly](houston-cmo-charters-outgrow-state-independents-null.md) — related

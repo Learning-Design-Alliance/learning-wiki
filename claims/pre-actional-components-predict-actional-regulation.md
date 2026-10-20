@@ -66,3 +66,12 @@ Longitudinal multilevel analysis (HLM) of weekly self-reports from 194 universit
 - [Achievement, effort-related variables, (meta-)cognitive learning strategies, and goal orientations are the most frequently reported correlates of motivation regulation](most-frequent-correlates-of-motivation-regulation.md) — related
 - [The tribute reports that self-efficacy consistently outperformed anxiety as a predictor of academic performance](self-efficacy-outperformed-anxiety-predicting-academic-performance.md) — related
 - [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](teacher-scaffolding-strategy-use-performance-phase.md) — related
+- [AI anxiety is negatively associated with emotion regulation among university students](ai-anxiety-negatively-associated-emotion-regulation.md) — related
+- [SRL-O subscales show convergent validity with corresponding MSLQ scales](srl-o-convergent-validity-mslq.md) — related
+- [Greater anger, hopelessness, and negative emotions overall during reading are associated with poorer text comprehension, while positive emotions show no relation](negative-achievement-emotions-poorer-text-comprehension.md) — related
+- [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
+- [Groups perceiving a learning situation as challenging switched frequently between planning and performance phases of regulation](challenging-situations-drive-plan-perform-switching.md) — related
+- [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — related
+- [Emotion Labeling Improves Regulation](emotion-labeling-improves-regulation.md) — related
+- [Students use strategies to regulate their own motivation and affect](students-regulate-motivation-affect-strategies.md) — related
+- [An emotion-control strategy is expected to lower state anxiety early in training, with a stronger negative relationship for trainees high in trait anxiety](emotion-control-lowers-state-anxiety-trait-moderation.md) — related

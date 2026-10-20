@@ -45,3 +45,7 @@ Exploratory pairwise chi-square tests on unassisted test accuracy in the pre-reg
 ## Related Claims
 - [In math problem solving, a tutor-plus-peers LLM arrangement produced the strongest unassisted post-task test accuracy, with accuracy increasing monotonically from Control to Tutor + Peers](tutor-plus-peers-strongest-unassisted-math-accuracy.md) — related
 - [Purely peer groups working purposefully out-of-reach problems did not fully succeed but still made significant progress, internalizable by individual members](peer-groups-did-not-fully-succeed-out-of-reach-problems.md) — related
+- [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
+- [In a randomized experiment on fraction problems, participants who used an AI assistant solved fewer unassisted test problems and skipped more than control participants](ai-assistance-impairs-unassisted-fraction-performance-exp1.md) — related
+- [Reviews citing one randomised trial (Bastani et al. 2025) report that unrestricted GPT-4 access in high-school mathematics raised assisted practice performance but left students worse off after withdrawal](gpt4-access-harms-learning-after-withdrawal.md) — related
+- [Conversational-agent prompts improve student dialogue outcomes at both individual and dyad levels](conversational-agent-prompts-improve-individual-and-dyad-outcomes.md) — related

@@ -81,4 +81,12 @@ Interactive-mode counts: "older adults were more interactive than younger adults
 
 
 ## Related Claims
--
+- [Engagement modes were unevenly distributed across units, with some units rated Interactive and others entirely Passive](uneven-icap-mode-distribution-across-units.md) — related
+- [No age difference in the strength of active–constructive connections in collaborative discourse networks](no-age-difference-active-constructive-connection.md) — related
+- [Younger adults outperform older adults in concept-map performance, and older adults show no concept-map improvement](concept-map-performance-age-difference.md) — related
+- [ENA reveals different utterance co-occurrence structures by age: older adults show a stronger active–interactive connection while younger adults' constructive–interactive connection is not statistically confirmed](ena-network-structure-age-differences-icap.md) — related
+- [The ICAP hypothesis predicts that learning increases as engagement moves from passive to active to constructive to interactive (I>C>A>P)](icap-hypothesis-learning-increases-i-cap.md) — a broader claim this one bears on
+- [Constructive learning beats active and passive learning](constructive-learning-beats-active-passive.md) — related
+- [Interactive engagement requires both partners' utterances to be primarily constructive and a sufficient degree of turn taking](interactive-requires-constructive-turn-taking.md) — related
+- [Interaction during semiempty concept mapping shows higher transactivity: less elicitation and more externalization and integration than summary writing](concept-mapping-higher-transactivity-integration.md) — related
+- [Younger adults show higher learning performance than older adults in collaborative concept-map learning of psychological concepts, and older adults show no learning gain](older-adults-no-learning-gain-cscl-concept-maps.md) — related

@@ -45,3 +45,7 @@ Same three-group experiment (N = 88). On arrangement identification the single-p
 ## Related Claims
 
 - [Learners' mechanical ability and spatial ability were not significantly related to identification performance in the main study](spatial-mechanical-ability-null-relation.md)
+- [Visualization format has a large multivariate and univariate effect on identifying motions and spatial arrangements](manova-omnibus-visualization-format-effect.md) — a broader claim this one bears on
+- [A re-analysis of a meta-analysis found learning from animations more effective than static pictures only when features of the displayed changes were relevant to learning](reanalysis-features-of-change-moderator.md) — reports the opposite
+- [Animation produces a small overall learning advantage over static graphics in multimedia instruction](animation-small-overall-advantage-over-static-graphics.md) — reports the opposite
+- [Learning from an animation is significantly more successful than learning from static pictures when identifying the specific motions of a gear mechanism's links](animation-beats-static-pictures-for-identifying-motions.md) — related

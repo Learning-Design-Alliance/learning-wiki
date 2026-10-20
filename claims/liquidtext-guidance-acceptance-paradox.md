@@ -65,3 +65,5 @@ One-way ANOVA on intention to use (two items, α = .89) showed a condition effec
 - [Guided LiquidText users redistribute task time toward document processing and away from writing](guidance-time-reallocation-multiple-document-task.md) — related
 - [Guided use of a multiple document reading application yields higher multiple document comprehension than access-only, unguided, or traditional pdf viewer use](liquidtext-guidance-comprehension-advantage.md) — related
 - [Unaided access to multiple document reading functions alone does not improve comprehension over a traditional pdf viewer](simultaneous-access-insufficient-for-comprehension.md) — related
+- [Drawing support increased rather than decreased perceived difficulty, indicating cognitive overload](drawing-support-increased-perceived-difficulty.md) — related
+- [Tablet-PC-supported peer-assisted learning reduced EFL learners' anxiety and promoted motivation and confidence in collaborative reading](tablet-pc-peer-assisted-learning-reduces-anxiety.md) — related

@@ -46,3 +46,4 @@ MANOVA on CLS and SPQ at T3 in the 234-student quasi-experiment showed a signifi
 - [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](ai-assisted-pair-programming-increases-intrinsic-motivation.md) — related
 - [AI-assisted pair programming groups outperformed both individual and human–human pair groups on programming performance](ai-assisted-pair-programming-outperforms-on-performance.md) — related
 - [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](perceived-usefulness-mediation-ai-programming-outcomes.md) — related
+- [AI-assisted pair programming significantly reduced programming anxiety compared to individual programming](ai-assisted-pair-programming-reduces-programming-anxiety.md) — related

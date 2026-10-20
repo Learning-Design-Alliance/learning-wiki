@@ -67,3 +67,4 @@ General additive model main smooth term for teacher-judged logical reasoning in 
 - [Scaffolding enabled students' inhibition ability to contribute to learning reasoning from irrelevant events: inhibition predicted posttest scores only under the experimental condition](scaffolds-enable-inhibition-contribution.md) — related
 - [BKT scaffolding significantly benefits low prior knowledge students, who outperformed low prior knowledge controls](bkt-benefits-low-prior-knowledge-students.md) — related
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) — related
+- [All training policies narrowed the prior-knowledge achievement gap from pretest to posttest, with BKT achieving the largest reduction (77.1%)](bkt-largest-achievement-gap-reduction.md) — related

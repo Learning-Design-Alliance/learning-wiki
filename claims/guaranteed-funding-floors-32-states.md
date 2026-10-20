@@ -51,3 +51,5 @@ Descriptive 50-state policy scan cited in the brief: "32 states and the District
 - Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive — related
 - Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — related
 - [U.S. school funding is highly inequitable: districts serving the most students of color spend $1,800 less per student, and wealthier districts spend two to three times what the poorest can](us-school-funding-inequity-property-tax-reliance.md) — related
+- [K-12 public school enrollment is declining and projected to fall 3.7 percent by 2031, reducing funding in the 35 states and DC that use student-based funding formulas](enrollment-decline-projected-3-7-percent-2031.md) — related
+- [School districts that rely more heavily on state revenue experience more revenue volatility, and 24 states received at least half their revenue from state sources in 2019-20](state-revenue-reliance-increases-volatility.md) — related

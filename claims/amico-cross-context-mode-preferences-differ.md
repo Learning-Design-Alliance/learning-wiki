@@ -47,3 +47,4 @@ Cross-context descriptive comparison of pilot observations in Italy (N_IT = 12) 
 - [Pilot participants perceived AmicoMio and AmicoTuo as complementary modes serving different educational purposes rather than alternatives](amico-dual-modes-perceived-complementary.md) — related
 - [In an exploratory Italy–China pilot, participants engaged with the Amico system as a bounded supportive mediation and no major misunderstandings of system identity were observed](amico-pilot-identity-transparency-accepted.md) — related
 - [Cross-cultural study of university websites found similar technical features and audience-significant cultural emphases](callahan-university-websites-similar-features.md)
+- [The commentary poses harmony as IDC's boldest and most challenging concept for Western readers](harmony-boldest-idc-concept.md) — related

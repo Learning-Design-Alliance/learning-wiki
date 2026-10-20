@@ -51,3 +51,6 @@ Synthesis of six randomized controlled trials covering about 7,400 undergraduate
 - [DCMP has positive effects on progressing in developmental education, based on three studies meeting WWC standards](dcmp-positive-effects-progressing-developmental-education.md) — related
 - [ASAP likely increases community college students' graduation and degree attainment rates](asap-increases-degree-attainment.md) — related
 - [The evidence base for ASAP rests on two randomized controlled trials meeting WWC standards without reservations, out of eight identified studies](asap-evidence-base-two-rcts.md) — related
+- [Linked learning communities produced no statistically significant or substantively important effects on academic achievement](linked-learning-communities-academic-achievement-no-effect.md) — a narrower finding that bears on this claim
+- [ASAP likely increases credit accumulation and persistence rates](asap-increases-credit-accumulation-persistence.md) — reports the opposite
+- [Growth Mindset interventions have no discernible effects on college enrollment and progressing in college](growth-mindset-no-discernible-enrollment-progressing.md) — related

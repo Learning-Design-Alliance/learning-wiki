@@ -53,3 +53,8 @@ Diary-based self-study: the author, an advanced learner with 1.5 years in Englis
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — a narrower finding that bears on this claim
 - [Native speakers rarely supply negative input, so learners must infer or actively seek it by pushing for comprehensible output](pushing-output-elicits-negative-input.md) — related
 - [Automatization of L2 skills requires extensive practice in a consistent environment, not repetition of grammar rules as in traditional exercises](automatization-requires-practice-consistent-environment.md) — related
+- [Adults learn languages more quickly than children in the early stages of second language acquisition](adults-faster-early-stage-language-learning.md) — related
+- [Pushing for comprehensible output drives understanding and assimilation of comprehensible input](pushing-output-drives-input-assimilation.md) — related
+- [Metacognitive monitoring deficits are unlikely to be the primary source of academic performance differences between native and non-native speaking students](monitoring-not-primary-source-of-performance-differences.md) — related
+- [Low-frequency or low-salience L2 elements are hard or impossible to learn through mere exposure and require extensive practice to proceduralize form-meaning mappings](low-salience-elements-need-extensive-practice.md) — a broader claim this one bears on
+- [A sizable repertoire of formulaic sequences benefits second-language learners, but learners are slow to close the gap with native speakers in formulaic language](formulaic-sequences-benefit-l2-learners-but-are-slow-to-acquire.md) — related

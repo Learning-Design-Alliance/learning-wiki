@@ -72,3 +72,5 @@ Figure 2 comparison of LLM-predicted versus empirical IRT difficulty shows non-f
 - Standard ML interventions do not improve hidden-misconception detection beyond the fine-tuned classifier baseline — related
 - [The taxonomy decodes overlapping misconceptions behind a single observed loop-tracing error](taxonomy-decodes-overlapping-loop-misconceptions.md) — related
 - Only 25% of US Grade 4 students identified the fraction closest to 1/2 on the 2009 NAEP test — related
+- [LLMs show a systematic optimism bias in knowledge tracing, predicting far more accurately for students who answer correctly than for those who answer incorrectly](llm-optimism-bias-knowledge-tracing.md) — related
+- [Direct LLM estimation accuracy varies by grade, performing worse for early grades; math grade K was worse than the dummy regressor and math grade 1 showed no significant prediction](direct-llm-accuracy-varies-by-grade-early-grades-worse.md) — related
