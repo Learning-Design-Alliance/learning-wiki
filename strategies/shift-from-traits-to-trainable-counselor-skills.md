@@ -46,7 +46,8 @@ The review recommends redirecting research and training away from the search for
 - [Standardized test batteries are poor predictors of counselor trainee success](../claims/standardized-tests-poor-predictors-trainee-success.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Shift counselor education research and training emphasis from what the counselor is to what the counselor can perform](shift-from-traits-to-counselor-skills.md)
 
 ## Examples
 -

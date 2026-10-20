@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1825 entries** · 0 stable · 1825 in review · 0 drafts
+**1826 entries** · 0 stable · 1826 in review · 0 drafts
 
 ---
 
@@ -767,6 +767,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Inventory of Learning Styles (ILS)](inventory-of-learning-styles-ils.md) - A self-report assessment developed by Jan Vermunt to measure higher-education students' processing and regulation strategies, conceptions of learning, and learning orientations.
 * [Inventory of Perceived Study Environment Extended (IPSEE)](inventory-of-perceived-study-environment-extended-ipsee.md) - A 56-item student questionnaire, with a parallel teacher version, developed by Karin D.
 * [Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](investigations-in-number-data-and-space-math-expressions-saxon-math-and-scott-foresman-add.md) - Four published elementary mathematics curricula evaluated comparatively by Agodini et al.
+* [IPS-EDP model](ips-edp-model.md) - A seven-principle instructional-design framework developed by Boetje et al.
 * [iRCL](ircl.md) - i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics curriculum integrating print and digital instructional materials, practice tools, hands-on resources, and professional learning supports.
 * [IRLA](irla.md) - The Independent Reading Level Assessment (IRLA) is a reading assessment framework used as a potential screening tool within Response to Intervention.
 * [Is Your State Prioritizing Social, Emotional, and Academic Development? 50-state scan](is-your-state-prioritizing-social-emotional-and-academic-development-50-state-scan.md) - A 50-state policy-scan data resource released by Ed Trust in partnership with CASEL that compiles publicly available state policies so educators, advocates, and policymakers can compare support for students’ social, emotional, and academic development.

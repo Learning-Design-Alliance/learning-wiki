@@ -47,3 +47,4 @@ The article describes a 2-year professional development study in which the autho
 - [Students' classroom experiences and learning over the 2 years illustrate the impact of the instructional supports](student-experiences-and-learning-illustrate-support-impact.md) — related
 - [The study demonstrates the need for particular instructional supports, including differentiated expertise-building opportunities and addressing teacher beliefs about computational-model construction](instructional-supports-needed-for-complex-systems-implementation.md) — related
 - [United States next generation science standards emphasize learning about complex systems as a core feature of science learning](ngss-emphasize-complex-systems-learning.md) — related
+- [Research across many countries persistently shows that teachers, including new graduates, experience working with diverse learners as challenging and complex](teachers-find-diverse-learners-challenging.md) — related

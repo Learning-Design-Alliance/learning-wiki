@@ -48,3 +48,4 @@ Interview-based counterstory analysis. Katia used Spanish to comprehend problems
 - [Preserving a bilingual student's heritage language supports rather than hinders English acquisition](heritage-language-preservation-supports-english-acquisition.md) — related
 - [L1 (Spanish) reading comprehension is positively correlated with English reading comprehension, with the relationship weaker for students with lower English proficiency](l1-spanish-comprehension-correlates-english-comprehension.md) — related
 - [Situated perspective explains Latino students' mathematical meaning-making in bilingual classrooms better than a discontinuity model (review reports Moschkovich, 1996)](situated-perspective-bilingual-math-meaning.md) — related
+- [Bilingual mathematics classes may support acquisition of mathematical knowledge by building technical terms in two language structures](bilingual-math-classes-two-language-term-building.md) — related

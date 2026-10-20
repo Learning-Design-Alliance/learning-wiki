@@ -88,3 +88,4 @@ Open questions this page should eventually resolve with cited evidence: (1) the 
 - [Summative examinations have a dual function: measuring achieved learning while also shaping and supporting learning through engagement with tasks](summative-assessment-dual-function-measure-and-support-learning.md) — related
 - [A practitioner brief, citing Heritage (2009), reports that teachers who can identify a stage of student learning cannot necessarily identify the next instructional steps](noticing-not-enough-next-steps.md) — related
 - [School survey report information is intended to help schools assess their progress and plan for the future](survey-reports-support-school-progress-assessment.md) — related
+- [Learning analytics research most often supports the 'where the learner is now' stage of formative assessment (51% of studies) and rarely the 'how to get there' stage (2%)](la-support-concentrated-where-learner-is-now.md) — a narrower finding that bears on this claim

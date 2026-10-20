@@ -44,3 +44,4 @@ Theoretical argument in the Telos and Evidence section: the author argues that "
 
 ## Related Claims
 - [Perfect AI execution cannot remove four limits: accuracy does not settle end-setting, safety does not confer legitimacy, detection does not secure integrity, and outputs do not replace participation](four-limits-perfect-ai-execution.md) — related
+- [Assessment instruments are never neutral but always mediational, embedding a culturally biased telos](assessment-always-mediational.md) — possibly the same claim (merge candidate)

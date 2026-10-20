@@ -55,3 +55,4 @@ Country categorization of all 183 publications by author affiliations shows "73%
 - [GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education](genai-global-north-origin-rapid-spread.md) — related
 - [RL-based educational applications concentrate on STEM subjects (n = 39 of 62 papers specifying a subject) and on college/higher-education learners (n = 30), with 36 papers not specifying a target group](rl-education-stem-higher-ed-concentration.md) — related
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
+- [The 209 included articles were primarily North American (132), mostly qualitative in design, with 15% quantitative, 15% mixed methods, and nearly a fifth non-empirical](ite-diversity-corpus-composition-2009-2019.md) — related

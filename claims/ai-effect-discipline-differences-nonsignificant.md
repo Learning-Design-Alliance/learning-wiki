@@ -49,3 +49,4 @@ Discipline moderator analysis across the 35 studies. Science g = 0.676, mathemat
 - [Optimal RAG configuration differs by discipline: STEM subjects perform best with 512-character chunks and temperature 0.3 (faithfulness 0.97), while humanities require 1000-character chunks and temperature 0.1 (context recall 1.00, faithfulness 0.98)](rag-configuration-discipline-dependent-moodle-tutor.md)
 - [Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics](discipline-moderates-robotics-stem-effects.md) — reports the opposite
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
+- [Mathematics and technology show the highest pre–post scaffolding effect sizes among STEM disciplines (ḡ = 1.29 and ḡ = 1.06)](scaffolding-stem-discipline-moderation.md) — reports the opposite

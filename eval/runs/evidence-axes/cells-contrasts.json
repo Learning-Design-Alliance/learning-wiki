@@ -36350,5 +36350,57 @@
  "rewards-incentives\tmerit-only grant aid\tcomparison condition without merit-only aid": {
   "label": "merit-only grant aid vs no merit-only grant aid",
   "treatment_is_a": true
+ },
+ "autonomy-support\tchoice practices\tnot stated": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "case-comparison\tcomparing the US standard and metric systems\tnot comparing the two systems": {
+  "label": "comparison vs no comparison",
+  "treatment_is_a": true
+ },
+ "formative-assessment\tstudies focused on where the learner is now\tstudies focused on where the learner is now plus where the learner is going": {
+  "label": "feedback plus feedforward vs feedback-only",
+  "treatment_is_a": false
+ },
+ "scaffolding\tcomputer-based scaffolding\tpretest": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tpretest baseline for the same learners": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tpretest before scaffolding": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tpretest performance": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding\tpretest/baseline": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding for students with learning disabilities\tpretest before scaffolding": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in inquiry-based learning\tpretest before scaffolding": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in modeling/visualization\tpretest before scaffolding": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding in project-based learning\tpretest": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
+ },
+ "scaffolding\tcomputer-based scaffolding posttest\tpretest before scaffolding": {
+  "label": "computer-based scaffolding vs no scaffolding/baseline",
+  "treatment_is_a": true
  }
 }

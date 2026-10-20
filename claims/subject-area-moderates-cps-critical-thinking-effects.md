@@ -47,3 +47,4 @@ Subgroup analysis by subject area (Table 4): mathematics (4 effect quantities, E
 - [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — related
 - [Discipline significantly moderates the effects of educational robotics on STEM learning, with larger effects in technology and cross-disciplinary contexts than in science and mathematics](discipline-moderates-robotics-stem-effects.md) — related
 - [Collaborative problem-solving significantly improves students' critical thinking overall (ES = 0.82)](collaborative-problem-solving-improves-critical-thinking-overall.md) — related
+- [Mathematics and technology show the highest pre–post scaffolding effect sizes among STEM disciplines (ḡ = 1.29 and ḡ = 1.06)](scaffolding-stem-discipline-moderation.md) — related

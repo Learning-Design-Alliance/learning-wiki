@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**964 entries** · 0 stable · 964 in review · 0 drafts
+**965 entries** · 0 stable · 965 in review · 0 drafts
 
 ---
 
@@ -241,6 +241,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Derring effect and deliberate erring as a guided-error learning approach within the Prevention–Permission–Promotion (3P) framework](derring-effect-deliberate-erring-framework.md) - The derring effect is a counterintuitive phenomenon in which \"deliberate erring has been found to enhance learning\", implemented by having students intentionally generate a plausible conceptual error, then strike it o...
 * [Describe the specific elements of an effective program so it can be replicated](describe-effective-program-elements-for-replication.md) - After an intervention is shown effective, document its specific program elements so practitioners can replicate it.
 * [Design CCT for older adults as supervised group-based training at 1–3 sessions per week with sessions of at least 30 minutes](cct-design-group-based-moderate-frequency.md) - The review's moderator analyses ground a design principle: efficacy in healthy older adults \"is to a large extent determined by design choices.\" Group-based delivery (g = 0.29) and 1–3 weekly sessions were effective,...
+* [Design family literacy programs for low-SES children as targeted programs focused on a limited set of activities and skills, restricted to one (training) context](targeted-flps-for-low-ses-children.md) - The meta-analysis concludes that low-SES children benefit most from family literacy programs that are targeted rather than comprehensive: \"children benefit from targeted programs that focus on a limited set of activit...
 * [Design teams and student advisory committees for student voice in decision-making](design-teams-and-student-advisory-committees.md) - As part of increasing student voice in decision-making and strategic-planning forums, Long Beach Unified implemented two participatory structures.
 * [Designed-pattern authoring: linking each teaching pattern to its generation rule, check, and reference analysis](designed-pattern-case-specification.md) - A designed pattern is \"a trend, group difference, interaction, or exception intentionally built into a dataset for students to investigate.\" The workflow records each pattern in an executable case specification connec...
 * [Detect-verify-escalate pipeline with four pedagogically distinct routes](detect-verify-escalate-pipeline.md) - The pipeline routes each student submission through an answer-key check and, for correct-answer cases, an LLM graduated assessment producing four routes: Red (wrong answer, automated correction), Green (clear reasonin...

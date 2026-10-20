@@ -54,3 +54,4 @@ Finding from the report's analyses of school-level supports, using three-level h
 - [The LEAD Partnership delivers professional development on play-based learning and high-quality teacher-student interactions to school leaders and preK and kindergarten teachers](lead-pd-play-based-learning-high-quality-interactions.md) — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related
 - [Professional development frequency shows no significant relationship to didactic teaching, while quality and basic-skills content do](pd-frequency-null-didactic-quality-content-positive.md) — related
+- [Despite the shift toward indirect and integrated leadership perspectives, the principal retains a central role as the leader of leaders in the PIL knowledge base](principal-remains-leader-of-leaders.md) — related

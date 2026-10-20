@@ -27,7 +27,7 @@ sources:
 # Shared power: previously excluded students, families, and communities co-create and shape educational systems, policies, and practices
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 28 claims (16 for, 11 mixed, 1 against) · 21 studies (13 qualitative, 4 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 21 report an effect size · 28 claims rest on one study
+> **Evidence** · 29 claims (17 for, 11 mixed, 1 against) · 22 studies (14 qualitative, 4 design, 1 causal, 1 review, 1 associational, 1 theoretical), `q1`–`q2` · 0 of 22 report an effect size · 29 claims rest on one study
 
 ## Description and scope
 
@@ -147,6 +147,7 @@ This pattern is scoped to sharing a real decision with a group the existing proc
 - [Participatory redesign produced significantly more positive perception effects on instruction aspects relevant to the formulated improvements than on irrelevant ones](../claims/pd-relevant-scales-more-positive-effects.md) [+W]
 - [Power should be conceptualized as diffuse and structural, and as people's capacity to act under constraint](../claims/power-as-structural-and-capacity-to-act.md) [~W]
 - [A scaffolded participatory exercise in which students wrote rules governing the instructor's own AI use produced an accountability framework the instructor found more usable than institutional guidance](../claims/student-authored-instructor-ai-rules-accountability.md) [+W]
+- [Deliberative policy proposals center on inclusive decision making governed by nonrepression and nondiscrimination principles](../claims/deliberative-policy-nonrepression-nondiscrimination.md) [+W]
 
 ## Related Patterns
 - (none yet linked)

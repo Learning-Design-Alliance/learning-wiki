@@ -69,3 +69,4 @@ This is a descriptive statement in the fact sheet's introduction about how the p
 - [Instructionally relevant decisions influenced by state assessments are made by many actors beyond day-to-day teacher-student interactions](systemwide-actors-shape-instruction-via-assessment.md) — related
 - [According to teachers, principals with elementary teaching experience provided more helpful and actionable direct instructional support in some cases](teaching-experience-principals-more-helpful-support.md) — related
 - [Principals in improving schools actively reach out to teachers, parents, and community leaders and coordinate programs strategically](improving-school-principals-reach-out-coordinate-programs.md) — related
+- [Over 85 years, the PIL knowledge base shifted from principals as chief school administrators, to the roles of principals and teachers, to more integrated investigations](pil-knowledge-base-three-stage-shift.md) — related

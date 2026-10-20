@@ -50,3 +50,4 @@ The playbook's research summary on turnover states that "Principal turnover ofte
 - [Teacher turnover costs districts billions annually and harms student achievement](teacher-turnover-costs-and-achievement-harm.md) — related
 - [Principals' instructional leadership practices are linked to improved student outcomes, largely through their support for teachers](instructional-leadership-linked-student-outcomes.md) — related
 - [Positive school climate, which principals shape, improves attendance, behavior, graduation, and achievement and buffers poverty effects](positive-school-climate-improves-attendance-achievement.md) — related
+- [No study of principal burnout employed a causal framework or linked burnout to actual turnover](no-causal-framework-principal-burnout.md) — related
