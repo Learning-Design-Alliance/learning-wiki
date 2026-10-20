@@ -1,6 +1,7 @@
 ---
 type: product
 id: whole-child-approach
+moved_from: [design/five-key-elements-whole-child-approach]
 title: Whole Child Approach
 description: A framework for organizing education around developmental relationships, supportive environments, rich learning, skill and mindset development, and integrated supports, developed from the science of learning and development literature.
 product_kind: framework

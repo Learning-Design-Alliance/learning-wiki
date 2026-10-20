@@ -1,6 +1,7 @@
 ---
 type: product
 id: tensquares-data-driven-school-improvement-process
+moved_from: [design/tensquare-data-driven-improvement-process]
 title: "TenSquare's Data-Driven School Improvement Process"
 description: A branded continuous-improvement programme developed and run by TenSquare to audit schools, create multi-year redesign plans, implement evidence-based interventions, and monitor and adjust improvement efforts.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: transcends-designing-for-learning-framework
+moved_from: [theory/transcend-designing-for-learning-framework]
 title: "Transcend's Designing for Learning framework"
 description: A Transcend-developed framework and accompanying primer and card deck that organize professional learning around individual variability, identity, motivation, and cognition.
 product_kind: framework

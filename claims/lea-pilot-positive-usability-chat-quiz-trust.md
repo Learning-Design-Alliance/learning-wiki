@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer"
-description: "In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer"
+title: "In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer"
+description: "In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer"
 id: lea-pilot-positive-usability-chat-quiz-trust
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer
+# In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Pilot participants gave full agreement (8/8) on usability items and Chat Mode accuracy, comprehensibility, usefulness, and lecture complementarity. [→ Rumble 2026](#rumble-2026)
-`q2 i?` Learning outcomes and trust ratings were uniformly positive, with 8/8 agreeing LEA helped understanding, confidence, and gap identification, and 8/8 trusting its accuracy. [→ Rumble 2026 (2)](#rumble-2026-2)
+`q2 i?` Pilot participants gave full agreement (8/8) on four of six usability items (7/8 on the Command Center item and on recommending LEA to peers) and on Chat Mode accuracy, comprehensibility, usefulness, and lecture complementarity. [→ Rumble 2026](#rumble-2026)
+`q2 i?` 8/8 agreed LEA helped understanding, confidence, and gap identification, and 8/8 trusted its accuracy, but other items were more mixed: 5/8 reported higher engagement, 3/8 endorsed the reversed additionality item, and 3/8 endorsed the reversed Chat Mode item "did not trust information". [→ Rumble 2026 (2)](#rumble-2026-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement 
 
 `q2 · i?` · `design · r2`
 
-Exploratory pilot survey of eight CMP511 MSc students using a nine-section 7-point Likert instrument; no inferential statistics were reported. Full agreement (8/8) marked Chat Mode as "the strongest performer" on accuracy, comprehensibility, usefulness, and lecture complementarity.
+Exploratory pilot survey of eight CMP511 MSc students using a nine-section 7-point Likert instrument; no inferential statistics were reported. Table 4 shows 8/8 on four of six usability items and 7/8 on the Command Center and recommend-to-peers items (the prose says all usability items had 8/8). Full agreement (8/8) marked Chat Mode as "the strongest performer" on accuracy, comprehensibility, usefulness, and lecture complementarity.
 
 > "Chat Modewas the strongest performer: full agreement (8/8) on accuracy, com- prehensibility, usefulness, and lecture complementarity."
 
@@ -54,7 +54,7 @@ Rumble, T., Zarrin, J., Lovell, P. G., Falconer, R. (2026). Learning Engagement 
 
 `q2 · i?` · `design · r2`
 
-Descriptive survey results from the same eight-participant pilot: learning outcome items drew "uniformly positive" responses, and trust items showed all eight participants trusted LEA's accuracy and were comfortable with data anonymisation.
+Descriptive survey results from the same eight-participant pilot: understanding, confidence and gap identification each drew 8/8, which the authors call "uniformly positive", while engagement uplift drew 5/8 and three respondents endorsed the reversed item that they would have learned as much without LEA. All eight trusted LEA's accuracy and were comfortable with data anonymisation, though 3/8 endorsed the reversed Chat Mode item "did not trust information"; the authors read these reversed-item endorsements as acquiescent responding, which n = 8 cannot settle.
 
 > "Learning outcomeswere uniformly positive on understanding (8/8), confidence (8/8), and gap identification (8/8)."
 

@@ -41,7 +41,7 @@ Case-study research findings from a rural school district's systematic study of 
 
 
 ## Related Claims
-- [For students with full week-6 attendance, Flex showed significantly greater gains than Plain on taught-letter alphabetics, decoding, and word reading](week6-attendance-interaction-favors-flex.md) — related
+- [Only the discussion of the Flex vs. Plain phonics trial reports that, for students with full week-6 attendance, Flex showed greater gains than Plain on taught-letter alphabetics, decoding, and word reading; its results report no treatment differences or interactions](week6-attendance-interaction-favors-flex.md) — related
 - [Students avoided a district's learning centers because of stigma that the centers were only for struggling students](learning-center-stigma-discouraged-use.md) — related
 - [Struggling students were no more likely than peers to use a district's learning centers](struggling-students-no-more-likely-use-centers.md) — related
 - [Thoughtfully designed expanded learning time and opportunities are associated with positive academic and nonacademic outcomes, with the best-designed studies showing the strongest effects](expanded-learning-time-positive-outcomes.md) — related

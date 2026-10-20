@@ -1,6 +1,7 @@
 ---
 type: product
 id: teemss
+moved_from: [element/teemss-probeware-handheld-curriculum]
 title: TEEMSS
 description: TEEMSS is a Concord Consortium physical-science curriculum for grades 3–8 that combines inquiry-based investigations with handheld computers, sensors, interactive models, and teacher reporting tools.
 product_kind: curriculum

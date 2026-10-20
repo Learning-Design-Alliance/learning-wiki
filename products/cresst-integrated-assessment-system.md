@@ -1,6 +1,7 @@
 ---
 type: product
 id: cresst-integrated-assessment-system
+moved_from: [element/cresst-integrated-assessment-system]
 title: CRESST Integrated Assessment System
 description: A computer-based suite developed by CRESST that integrates collaborative and individual concept mapping, problem-solving, explanation, and metacognition tasks for assessing learning across ages and content areas.
 product_kind: assessment

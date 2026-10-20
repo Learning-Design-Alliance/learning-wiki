@@ -1,6 +1,7 @@
 ---
 type: product
 id: teachers-and-parents-as-partners
+moved_from: [element/tapp-conjoint-behavioral-consultation-program]
 title: Teachers and Parents as Partners
 description: A University of Nebraska–Lincoln family-school partnership intervention in which a school specialist, teacher, and parent jointly identify needs, set goals, implement an individualized plan, and monitor student progress.
 product_kind: programme

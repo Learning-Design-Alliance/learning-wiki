@@ -44,7 +44,7 @@ Wenting Ma, Olusola O. Adesope, John C. Nesbit, and Qing Liu. (2014). Intelligen
 
 `q4 · i2` · `quant-synthesis · r3`
 
-Comparison-treatment moderator analysis of the meta-analysis (Table 1), with N = 11,296, k = 66 for large-group human instruction (g = .44), individual CBI (g = .57), and individual textbook or workbook (g = .36), all statistically significant; between-levels variance significant under both models (p < .001).
+Comparison-treatment moderator analysis of the meta-analysis (Table 1), with large-group human instruction (N = 11,296, k = 66, g = .44), individual CBI (N = 1,034, k = 15, g = .57), and individual textbook or workbook (N = 1,403, k = 17, g = .36), all statistically significant; between-levels variance significant under both models (p < .001).
 
 > "Post hoc analyses found studies which com pared the use of ITS to larg e-group hum an instruction had effect sizes sim ilar to those which com pared ITS to individual com puter-based instruction and indi vidual use of textbooks or workbooks"
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: strategic-teaching-and-reading-project
+moved_from: [theory/strp-five-comprehension-strategies, theory/strp-five-global-reading-strategies]
 title: Strategic Teaching and Reading Project
 description: "A North Central Regional Educational Laboratory professional-development programme that trains teachers to use five reading-comprehension strategies: metacognition, prior knowledge, inferencing, word meaning, and text structure."
 product_kind: programme

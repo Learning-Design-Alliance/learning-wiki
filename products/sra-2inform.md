@@ -1,6 +1,7 @@
 ---
 type: product
 id: sra-2inform
+moved_from: [element/sra-2inform-data-management-application]
 title: SRA 2Inform
 description: SRA 2Inform is a web-based, teacher-facing data-management application supporting the Corrective Reading program by tracking student performance.
 product_kind: software

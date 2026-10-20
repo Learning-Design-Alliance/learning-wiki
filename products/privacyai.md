@@ -1,6 +1,7 @@
 ---
 type: product
 id: privacyai
+moved_from: [element/fine-tuned-gpt4o-mini-pii-detection-pipeline]
 title: PrivacyAI
 description: PrivacyAI is an open-source GPT-4o-mini-based pipeline released by the authors for detecting, labeling, extracting, and verifying personally identifiable information in educational text.
 product_kind: software

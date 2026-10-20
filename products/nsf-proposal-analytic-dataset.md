@@ -1,6 +1,7 @@
 ---
 type: product
 id: nsf-proposal-analytic-dataset
+moved_from: [element/nsf-proposal-analytic-dataset-2009-2021]
 title: NSF proposal analytic dataset
 description: An analytic dataset assembled by Fesler et al.
 product_kind: dataset

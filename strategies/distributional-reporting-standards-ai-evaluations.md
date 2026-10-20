@@ -38,7 +38,7 @@ The article proposes that evaluations of AI learning resources report, alongside
 
 ## Claims
 
-- [Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution](../claims/chatbot-quantile-effects-middle-distribution.md) [+W]
+- [Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th](../claims/chatbot-quantile-effects-middle-distribution.md) [+W]
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](../claims/chatbot-gender-heterogeneity-microeconomics-women.md) [+W]
 
 ## Related Strategies

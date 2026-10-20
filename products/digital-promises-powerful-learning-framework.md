@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promises-powerful-learning-framework
+moved_from: [theory/powerful-learning-four-qualities-digital-promise]
 aliases: [powerful-learning-framework]
 title: "Digital Promise's Powerful Learning framework"
 description: A framework developed by Digital Promise that describes powerful teaching and learning through agency, purpose, curiosity, and connection.

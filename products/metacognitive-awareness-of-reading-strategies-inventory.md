@@ -1,6 +1,7 @@
 ---
 type: product
 id: metacognitive-awareness-of-reading-strategies-inventory
+moved_from: [element/marsi-vietnamese-adapted-questionnaire]
 title: Metacognitive Awareness of Reading Strategies Inventory
 description: "MARSI is a self-report assessment developed by Mokhtari and Reichard to measure learners' awareness and use of global, problem-solving, and support reading strategies."
 product_kind: assessment

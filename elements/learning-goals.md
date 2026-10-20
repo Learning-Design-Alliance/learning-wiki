@@ -1,6 +1,7 @@
 ---
 type: element
 id: learning-goals
+moved_from: [principle/content-selected-from-competencies]
 title: Learning Goals
 description: Learning goals are explicit statements of what learners should know or be able to do after instruction, serving as the reference point for designing activities and assessments.
 canonical: true

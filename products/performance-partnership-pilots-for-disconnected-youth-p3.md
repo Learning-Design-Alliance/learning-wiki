@@ -1,6 +1,7 @@
 ---
 type: product
 id: performance-partnership-pilots-for-disconnected-youth-p3
+moved_from: [element/p3-disconnected-youth-initiative-element]
 title: Performance Partnership Pilots for Disconnected Youth (P3)
 description: A federally supported initiative run by six U.S.
 product_kind: programme

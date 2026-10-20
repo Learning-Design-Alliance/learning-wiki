@@ -1,6 +1,7 @@
 ---
 type: product
 id: el-educations-teacher-potential-project-tpp
+moved_from: [element/teacher-potential-project-program]
 aliases: [teacher-potential-project]
 title: "EL Education's Teacher Potential Project (TPP)"
 description: A programme run by EL Education that combines a standards-aligned English language arts curriculum with embedded professional development for teachers.

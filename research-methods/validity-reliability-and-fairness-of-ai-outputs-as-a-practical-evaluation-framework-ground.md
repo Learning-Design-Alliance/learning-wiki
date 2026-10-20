@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: validity-reliability-and-fairness-of-ai-outputs-as-a-practical-evaluation-framework-ground
+moved_from: [theory/validity-reliability-fairness-ai-output-evaluation-framework]
 title: Validity, reliability, and fairness of AI outputs as a practical evaluation framework grounded in educational measurement
 description: The article proposes a practical framework for evaluating AI-generated outputs in edtech, grounded in educational measurement concepts.
 status: review

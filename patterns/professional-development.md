@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: professional-development
+moved_from: [principle/coach-advocates-for-teachers-purposeful-change, principle/curriculum-embedded-teacher-led-sustained-pd, principle/hqim-adoption-with-professional-development]
 aliases: [coaching-level-2-necessary-supports-implementation-and-dialogue, coaching-level-3-sustaining-efforts-coach-learning-and-independence, ground-conversations-in-childrens-work, guided-practice-four-purposes]
 title: Professional Development
 description: "A reusable policy for teachers: one observable classroom practice is modelled, rehearsed, enacted with the teacher's own students and given feedback in coaching cycles over a term, with support faded and use checked later; expected to change observed practice where the target is specific and coach time is sustained, though no claim here compares it with one-off workshops."

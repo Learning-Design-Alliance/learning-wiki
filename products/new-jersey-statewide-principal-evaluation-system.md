@@ -1,6 +1,7 @@
 ---
 type: product
 id: new-jersey-statewide-principal-evaluation-system
+moved_from: [element/nj-statewide-principal-evaluation-system]
 title: New Jersey statewide principal evaluation system
 description: "New Jersey's statewide system for evaluating principals, combining principal-practice and leadership instruments with measures of student achievement, implemented statewide beginning in 2013/14."
 product_kind: assessment

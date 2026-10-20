@@ -1,6 +1,7 @@
 ---
 type: product
 id: kauffman-campuses-initiative
+moved_from: [element/kauffman-campuses-initiative-element]
 title: Kauffman Campuses Initiative
 description: A programme run by the Ewing Marion Kauffman Foundation that funds and supports the campuswide expansion of entrepreneurship education at universities.
 product_kind: programme

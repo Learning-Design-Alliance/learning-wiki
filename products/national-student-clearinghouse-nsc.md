@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-student-clearinghouse-nsc
+moved_from: [element/nsc-two-year-college-data-element]
 title: National Student Clearinghouse (NSC)
 description: National Student Clearinghouse data are a nonprofit repository of postsecondary enrollment, completion, and related records voluntarily contributed by participating institutions and used for education research and reporting.
 product_kind: dataset

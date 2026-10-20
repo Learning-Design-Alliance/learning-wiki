@@ -1,6 +1,7 @@
 ---
 type: product
 id: hip-taxonomy
+moved_from: [theory/eportfolio-as-curriculum-framework]
 title: HIP Taxonomy
 description: A taxonomy and implementation tool developed by IUPUI for designing, implementing, and scaling ePortfolio-based high-impact learning experiences.
 product_kind: framework

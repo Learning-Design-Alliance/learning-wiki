@@ -1,6 +1,7 @@
 ---
 type: product
 id: myplace-online
+moved_from: [element/myplace-online-cohort-platform]
 title: myPLACE Online
 description: "A Philadelphia Mayor's Commission on Literacy online cohort learning programme and shared electronic registration platform for low-literate adult learners, used across the Commission's partner agencies."
 product_kind: programme

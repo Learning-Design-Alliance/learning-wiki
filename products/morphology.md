@@ -1,6 +1,7 @@
 ---
 type: product
 id: morphology
+moved_from: [element/imse-morphology-plus-program]
 title: Morphology+
 description: "IMSE's Morphology+ is a structured literacy curriculum and educator-training program developed by the Institute for Multisensory Education for grades 3–5 morphology, vocabulary, and comprehension instruction."
 product_kind: curriculum

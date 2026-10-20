@@ -1,6 +1,7 @@
 ---
 type: theory
 id: schmidt-noticing-hypothesis
+moved_from: [principle/post-task-phase-focus-on-form]
 title: "Schmidt's noticing hypothesis"
 description: "Schmidt's claim that second language acquisition requires conscious noticing of features in the input, that learners who notice more learn more, and that noticing the gap between one's own output and the target is a route to change."
 canonical: true

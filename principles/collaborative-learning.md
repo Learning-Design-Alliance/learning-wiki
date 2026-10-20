@@ -1,6 +1,7 @@
 ---
 type: principle
 id: collaborative-learning
+moved_from: [pattern/discussion-based-learning, pattern/literature-circles-rotating-collaborative-roles]
 aliases: [collaboration-paramount-pedagogy-collectivity, learners-as-learning-resources-principle, create-social-situations-for-meaning, delegate-knowledge-creation-responsibility-to-learners]
 title: Collaborative Learning
 description: "For learners who can take part in the task, working jointly so that each member must engage with the others' reasoning is expected to raise individually measured understanding over working alone on the same task, for goals that gain from explaining and reconciling ideas; co-presence, equal participation or group satisfaction alone are not expected to show it."

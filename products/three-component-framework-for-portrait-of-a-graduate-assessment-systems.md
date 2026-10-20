@@ -1,6 +1,7 @@
 ---
 type: product
 id: three-component-framework-for-portrait-of-a-graduate-assessment-systems
+moved_from: [theory/portrait-synthesis-model-mindsets-skill-sets-practices]
 title: Three-component framework for Portrait of a Graduate assessment systems
 description: A framework developed by Kyle Dunbar et al.
 product_kind: framework

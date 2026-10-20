@@ -1,6 +1,7 @@
 ---
 type: product
 id: peerwise
+moved_from: [element/peerwise-online-mcq-authoring-tool]
 title: PeerWise
 description: "PeerWise is a freely available online tool developed at the University of Auckland that enables students to author, answer, rate, comment on, and follow peers' multiple-choice questions."
 product_kind: software

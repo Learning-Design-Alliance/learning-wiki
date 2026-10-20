@@ -1,6 +1,7 @@
 ---
 type: product
 id: me-plan-template
+moved_from: [element/me-plan-template-roadmap]
 title: "M&E Plan Template"
 description: "The Measurement and Evaluation (M&E) Plan Template is a roadmap described by Place et al."
 product_kind: framework

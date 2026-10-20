@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: graphical-model-framework-for-mml-estimation-of-multidimensional-irt-models
+moved_from: [theory/graphical-model-framework-mml-irt-estimation]
 aliases: [graphical-model-framework-for-junction-tree-estimation-of-multidimensional-irt-growth-mode]
 title: Graphical model framework for MML estimation of multidimensional IRT models
 description: The article presents a framework in which a multidimensional IRT model is represented as a directed acyclic graph whose nodes are random variables and whose edges encode conditional (in)dependence relations.

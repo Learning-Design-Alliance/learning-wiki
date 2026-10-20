@@ -1,6 +1,7 @@
 ---
 type: product
 id: learning-genie
+moved_from: [element/learning-genie-ai-instructional-planning-platform, element/learning-genie-platform]
 title: Learning Genie
 description: Learning Genie is an AI-supported platform made by Learning Genie for preschool through grade 12 instructional planning, documentation, assessment, portfolios, differentiation, and family communication.
 product_kind: software

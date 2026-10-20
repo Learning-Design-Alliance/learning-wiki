@@ -1,6 +1,7 @@
 ---
 type: product
 id: pledge-platform
+moved_from: [element/pledge-professional-learning-platform]
 title: PLEDGE platform
 description: "PLEDGE is Greenfield Learning's online professional-learning platform, where participating educators complete screeners, set goals, access personalized content, and upload application artifacts."
 product_kind: software

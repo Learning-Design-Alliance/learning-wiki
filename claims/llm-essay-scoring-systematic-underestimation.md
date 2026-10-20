@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range
-description: Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range
+title: In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range
+description: In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range
 id: llm-essay-scoring-systematic-underestimation
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range
+# In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Most models systematically assigned lower scores than human raters, a consistent negative bias the article interprets as a calibration offset rather than random fluctuation. [→ Tongxi Liu 2026](#tongxi-liu-2026)
+`q2 i?` Of the five LLMs tested on 60 undergraduate essays scored against the IELTS Task 2 rubric, most systematically assigned lower scores than human raters, a consistent negative bias the article interprets as a calibration offset rather than random fluctuation. [→ Tongxi Liu 2026](#tongxi-liu-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Tongxi Liu, Luyao Ye, Wei Yan. (2026). A framework for evaluation of large langu
 
 `q2 · i?` · `associational · r1`
 
-Bland-Altman bias analysis across five LLMs and four IELTS dimensions, reported in Results §4.3 with Fig. 4. The article describes the negative bias as a "general calibration offset rather than random fluctuation" with magnitude varying by model and criterion.
+Bland-Altman bias analysis across five LLMs (GPT-4.1, Llama 4 Maverick, Gemini 2.5 Flash, Claude Sonnet 4, DeepSeek R1) scoring 60 essays written by non-native English-speaking students for an undergraduate course, on the four IELTS Task 2 rubric dimensions, reported in Results §4.3 with Fig. 4. The article describes the negative bias as a "general calibration offset rather than random fluctuation" with magnitude varying by model and criterion.
 
 > "Specifically, underestimation emerged as the dominant trend, indi - cating that most models systematically assigned lower scores than human raters (Fig. 4)."
 

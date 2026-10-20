@@ -1,6 +1,7 @@
 ---
 type: product
 id: uzgiris-hunt-ordinal-scales-of-infant-psychological-development
+moved_from: [element/uzgiris-hunt-ordinal-scales]
 title: Uzgiris-Hunt ordinal scales of infant psychological development
 description: A set of six sequential ordinal scales developed by C.
 product_kind: assessment

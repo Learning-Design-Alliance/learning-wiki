@@ -1,6 +1,7 @@
 ---
 type: product
 id: charter-schools-program-csp-technical-assistance-set-aside
+moved_from: [design/se-applicant-ta-activity-set]
 title: Charter Schools Program (CSP) technical-assistance set-aside
 description: A federally funded component of the U.S.
 product_kind: programme

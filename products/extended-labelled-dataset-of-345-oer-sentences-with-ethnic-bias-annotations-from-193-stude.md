@@ -1,6 +1,7 @@
 ---
 type: product
 id: extended-labelled-dataset-of-345-oer-sentences-with-ethnic-bias-annotations-from-193-stude
+moved_from: [element/ethnic-bias-oer-labelled-dataset]
 title: Extended labelled dataset of 345 OER sentences with ethnic-bias annotations from 193 students
 description: A dataset released by Josmario Albuquerque and colleagues containing 345 contextualized OER sentences annotated by 193 higher-education students for perceived ethnic bias, with contextual metadata, aggregate labels, bias scores, and reproducibility code.
 product_kind: dataset

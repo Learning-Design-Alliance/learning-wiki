@@ -1,6 +1,7 @@
 ---
 type: product
 id: building-pathways-for-student-success-bpss
+moved_from: [element/bpss-partnership-logic-model-arkansas]
 title: Building Pathways for Student Success (BPSS)
 description: A partnership-led logic model supporting the Arkansas Department of Education in examining and improving college- and career-readiness programming for Arkansas students.
 product_kind: framework

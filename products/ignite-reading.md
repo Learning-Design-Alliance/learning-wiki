@@ -1,6 +1,7 @@
 ---
 type: product
 id: ignite-reading
+moved_from: [element/ignite-reading-program-element]
 title: Ignite Reading
 description: Ignite Reading is a virtual literacy tutoring programme that provides daily one-to-one foundational-reading sessions for young learners through trained tutors and a structured instructional sequence.
 product_kind: programme

@@ -40,7 +40,7 @@ The study applies the Technology Acceptance Model, adapted from Venkatesh and Da
 
 - [Esl Learners Positive Perceptions Asr Writing](../claims/esl-learners-positive-perceptions-asr-writing.md) [+M]
 - [Tam Construct Means Asr Writing Study](../claims/tam-construct-means-asr-writing-study.md) [+M]
-- [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](../claims/low-proficiency-intelligibility-barrier-asr.md) [-W]
+- [Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive](../claims/low-proficiency-intelligibility-barrier-asr.md) [-W]
 
 ## Related Theories
 

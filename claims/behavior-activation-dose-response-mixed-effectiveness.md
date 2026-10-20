@@ -44,7 +44,7 @@ Melanie Turner, Flaviu A. Hodis. (2025). Strengthening Conscientiousness by Mean
 
 `q2 · i?` · `review · r2`
 
-Longitudinal study of 337 American university students completing 15 weeks of online behavior activation challenges. The review reports the dose-response pattern and the null effect of goal-setting without challenge completion.
+Systematic review of 11 conscientiousness interventions. Its Table 1 summarises one of the reviewed studies, Hudson et al. (2019), a longitudinal study of 337 American university students completing 15 weeks of online behavior activation challenges, as finding the dose-response pattern and the null effect of goal-setting without challenge completion.
 
 > "Completing more behavioral challenges prototypical of high conscientiousness produced larger increases in consci- entiousness. Setting goals to increase conscientiousness (without completing chal- lenges) did not increase conscientiousness."
 
@@ -54,7 +54,7 @@ Melanie Turner, Flaviu A. Hodis. (2025). Strengthening Conscientiousness by Mean
 
 `q2 · i?` · `review · r3`
 
-Longitudinal study of 467 American university students in a 16-week online behavior activation intervention with active control. The review reports no significant change in trait conscientiousness; equivalence was not tested.
+Systematic review of 11 conscientiousness interventions. It reports that one of the reviewed studies, Hudson (2023), a 16-week online behavior activation intervention with 467 American university students, "failed to produce any significant changes in trait conscientiousness"; a non-significant result, not a demonstrated absence of change.
 
 > "Completing behavioral challenges consistent with high levels of conscientiousness did not lead to significant changes in conscientiousness"
 

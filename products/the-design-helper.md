@@ -1,6 +1,7 @@
 ---
 type: product
 id: the-design-helper
+moved_from: [element/eckersley-design-helper-programs]
 title: the design helper
 description: "Michael Eckersley's design-helper computer programs generate graphical concepts and patterns that students use to complete images related to specific design questions."
 product_kind: software

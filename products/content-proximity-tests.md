@@ -1,6 +1,7 @@
 ---
 type: product
 id: content-proximity-tests
+moved_from: [element/content-proximity-map-growth-tests]
 title: Content Proximity Tests
 description: "Content Proximity Tests are NWEA's MAP Growth assessment variant that uses an adaptive item-selection algorithm to give greater preference to on-grade content while retaining off-grade adaptivity."
 product_kind: assessment

@@ -1,6 +1,7 @@
 ---
 type: product
 id: college-track
+moved_from: [element/college-track-program-element]
 title: College Track
 description: College Track is a comprehensive college-preparation programme run by College Track for students from underserved communities, supporting college application, enrollment, and persistence.
 product_kind: programme

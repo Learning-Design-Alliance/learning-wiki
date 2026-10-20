@@ -1,6 +1,7 @@
 ---
 type: product
 id: if-at
+moved_from: [element/if-at-scratch-reveal-form]
 title: IF-AT
 description: A commercial scratch-and-reveal multiple-choice assessment form made by Epstein Educational Enterprises that provides immediate item-level correctness feedback and supports partial-credit scoring.
 product_kind: assessment

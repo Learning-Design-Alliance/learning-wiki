@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples
-description: Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples
+title: Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant
+description: Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant
 id: demand-for-power-specific-hands-on-ai-examples
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Survey respondents strongly prefer power-specific hands-on AI materials over generic image-based examples
+# Most surveyed power-and-energy respondents would use a power-specific hands-on AI tutorial, and few rate generic image-based AI examples as very relevant
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
@@ -44,7 +44,7 @@ Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artifici
 
 `q2 · i?` · `design · r2`
 
-Community survey of 52 power-and-energy researchers and practitioners measuring interest in a tailored tutorial. Demand was high: "a combined94.2%" answered yes or maybe to a one-click hands-on AI tutorial designed for power and energy systems.
+Community survey of 52 power-and-energy researchers and practitioners measuring interest in a tailored tutorial. Stated willingness was high: "a combined94.2%" answered yes or maybe to a one-click hands-on AI tutorial designed for power and energy systems. This measures willingness to use such a tutorial, not a preference over other materials.
 
 > "When asked whether they would use a one- click, hands-on AI tutorial designed specifically for power and energy systems,65.4%answered “yes” and a further 28.8%answered “maybe,” for a combined94.2%(Table I)."
 
@@ -54,7 +54,7 @@ Junjie Yin, Buxin She, Xinyu Feng, Fangxing (Fran) Li. (2026). Bridging Artifici
 
 `q2 · i?` · `design · r2`
 
-Survey question on perceived relevance of image-based examples (e.g., MNIST) to power-system applications. Generic computer-vision exemplars were seen as weakly relevant: "only11.5%of respondents rated them “very relevant,”" with open-ended responses echoing this gap.
+Survey question on perceived relevance of image-based examples (e.g., MNIST) to power-system applications. Generic computer-vision exemplars were seen as weakly relevant: "only11.5%of respondents rated them “very relevant,”" with open-ended responses echoing this gap. The item measured perceived relevance; the survey did not ask respondents to compare these examples with power-specific materials.
 
 > "only11.5%of respondents rated them “very relevant,” whereas53.8%were neutral-to-negative."
 

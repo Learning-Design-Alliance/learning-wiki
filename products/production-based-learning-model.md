@@ -1,6 +1,7 @@
 ---
 type: product
 id: production-based-learning-model
+moved_from: [design/tefa-t-nine-step-troubleshooting-syntax-pattern]
 title: Production-Based Learning Model
 description: A named vocational-education instructional framework developed by the article’s authors that organizes lessons around a nine-step production cycle for solving authentic product and troubleshooting problems.
 product_kind: framework

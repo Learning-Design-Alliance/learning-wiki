@@ -1,6 +1,7 @@
 ---
 type: product
 id: ib-dp
+moved_from: [element/cps-neighborhood-ib-diploma-program]
 title: IB DP
 description: The IB DP is an internationally developed upper-secondary curriculum and credential programme run by the International Baccalaureate for students preparing for higher education.
 product_kind: curriculum

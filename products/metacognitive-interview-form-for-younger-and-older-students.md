@@ -1,6 +1,7 @@
 ---
 type: product
 id: metacognitive-interview-form-for-younger-and-older-students
+moved_from: [element/metacognitive-interview-form-ncrel]
 title: Metacognitive Interview Form for Younger and Older Students
 description: "A semi-structured interview assessment developed by the North Central Regional Educational Laboratory (NCREL) to measure younger and older students' metacognitive reading-strategy use before, during, and after reading."
 product_kind: assessment

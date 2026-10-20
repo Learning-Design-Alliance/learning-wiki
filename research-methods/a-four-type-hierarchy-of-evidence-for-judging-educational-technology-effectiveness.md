@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: a-four-type-hierarchy-of-evidence-for-judging-educational-technology-effectiveness
+moved_from: [theory/four-types-evidence-hierarchy-technology-effectiveness]
 title: A four-type hierarchy of evidence for judging educational technology effectiveness
 description: The guide presents an organizing framework of four evidence types that educators encounter when evaluating product effectiveness claims.
 status: review

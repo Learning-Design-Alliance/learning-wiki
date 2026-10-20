@@ -1,6 +1,7 @@
 ---
 type: product
 id: cnmcc-breaking-through-construction-apprenticeship-program
+moved_from: [design/integrated-pathway-five-element-design]
 title: CNMCC Breaking Through Construction Apprenticeship Program
 description: A construction-apprenticeship program that integrates accelerated basic-skills instruction with streamlined curriculum, flexible delivery, industry links, alignment, and intensive support services, run by CNMCC.
 product_kind: programme

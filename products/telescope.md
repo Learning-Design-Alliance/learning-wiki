@@ -1,6 +1,7 @@
 ---
 type: product
 id: telescope
+moved_from: [element/telescope-telehealth-sdm-coaching-navigation]
 title: TELESCOPE
 description: TELESCOPE is a telehealth-based lung-cancer-screening shared-decision-making coaching and patient-navigation programme developed and delivered by trained patient navigators for primary-care patients.
 product_kind: programme

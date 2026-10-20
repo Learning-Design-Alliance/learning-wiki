@@ -1,6 +1,7 @@
 ---
 type: product
 id: new-teacher-center
+moved_from: [element/ntc-system-of-supports-instructional-coaching]
 title: New Teacher Center
 description: A New Teacher Center framework for districtwide instructional-coaching implementation that combines tracking coaching activities, guiding coaches, and engaging district leaders.
 product_kind: framework

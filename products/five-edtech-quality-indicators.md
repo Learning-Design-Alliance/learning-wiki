@@ -1,6 +1,7 @@
 ---
 type: product
 id: five-edtech-quality-indicators
+moved_from: [element/product-certifications-edtech-filter, theory/five-edtech-quality-indicators-framework]
 title: Five EdTech Quality Indicators
 description: A framework developed by 1EdTech, CAST, CoSN, Digital Promise, InnovateEDU, ISTE+ASCD, and SETDA for evaluating AI-enabled edtech against safety, evidence, inclusion, usability, and interoperability criteria.
 product_kind: framework

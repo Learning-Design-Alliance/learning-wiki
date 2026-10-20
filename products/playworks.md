@@ -1,6 +1,7 @@
 ---
 type: product
 id: playworks
+moved_from: [element/playworks-program-element, element/playworks-recess-program-element]
 title: Playworks
 description: Playworks is a school-based programme run by the Playworks nonprofit that places trained full-time coaches in schools to organize inclusive, active play during recess and throughout the school day.
 product_kind: programme

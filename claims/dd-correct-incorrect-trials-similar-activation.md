@@ -47,4 +47,4 @@ Quasi-event-related re-analysis of subtraction trials in 15 DD participants (one
 
 ## Related Claims
 - [Children with DD show greater brain activation than TD children in parietal, occipito-temporal and prefrontal regions during both addition and subtraction](dd-hyperactivation-multiple-regions.md) — related
-- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition](dd-subtraction-specific-parietal-hyperactivation.md) — related
+- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)](dd-subtraction-specific-parietal-hyperactivation.md) — related

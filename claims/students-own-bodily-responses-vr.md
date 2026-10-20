@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` During reflective dialogues, students activated their own bodily expressions, such as describing a knot in the stomach and eye contact, to characterize emotional responses to the VR stories. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)
+`q2 i?` During reflective dialogues, students activated their own bodily expressions, such as describing "that knot in your stomach", and made the mother's gaze relevant (one student felt he had eye contact with her), to characterize emotional responses to the VR stories. [→ Kenneth Silseth 2024](#kenneth-silseth-2024)
 
 ## Evidence
 

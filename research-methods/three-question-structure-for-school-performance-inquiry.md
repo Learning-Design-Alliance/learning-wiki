@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: three-question-structure-for-school-performance-inquiry
+moved_from: [theory/outcomes-impacts-processes-school-performance-framework]
 title: Three-question structure for school performance inquiry
 description: "The framework structures school performance inquiry around three questions: \"1."
 status: review

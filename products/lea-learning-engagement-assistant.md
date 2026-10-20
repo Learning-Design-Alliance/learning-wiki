@@ -25,7 +25,7 @@ LEA is a course-configurable agentic AI tutoring system developed by Rumble et a
 
 - [LEA's course-agnostic architecture was operationalised across three courses with no changes to the orchestrator, mastery tracker, or scaffolding engine](../claims/orchestration-layer-generalises-knowledge-layer-adapts.md) [+M]
 - [RAGAS Faithfulness declines with curriculum distance from LEA's original course (0.685 to 0.499), while Answer Relevancy and Context Precision remain broadly stable across courses](../claims/ragas-faithfulness-declines-cross-course.md) [~M]
-- [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer](../claims/lea-pilot-positive-usability-chat-quiz-trust.md) [+W]
+- [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](../claims/lea-pilot-positive-usability-chat-quiz-trust.md) [+W]
 - [In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target](../claims/lea-simulation-evaluation-results.md) [+W]
 
 ## Related Products and Programmes

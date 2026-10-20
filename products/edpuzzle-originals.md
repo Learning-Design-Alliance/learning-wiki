@@ -1,6 +1,7 @@
 ---
 type: product
 id: edpuzzle-originals
+moved_from: [element/edpuzzle-originals-standards-aligned-lessons]
 title: Edpuzzle Originals
 description: Edpuzzle Originals are ready-made, standards-aligned video lessons developed and provided by Edpuzzle for teacher assignment and classroom adaptation.
 product_kind: curriculum

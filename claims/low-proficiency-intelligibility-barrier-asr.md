@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness
-description: Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness
+title: Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive
+description: Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive
 id: low-proficiency-intelligibility-barrier-asr
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness
+# Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
-`q2 i?` A minority of participants reported that their utterances were not always intelligible to the ASR technology, leading them to feel their current level of English was not high enough to use it. [→ Johnson 2021](#johnson-2021)
+`q2 i?` Some participants (no count given) reported that their utterances were not always intelligible to the ASR technology, leading them to feel their current level of English was not high enough to use it. [→ Johnson 2021](#johnson-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Johnson, C., & Cardoso, W. (2021). Speaking to write: examining language learner
 
 `q2 · i?` · `qualitative · r1`
 
-From the interview analysis in the Results and discussion section: some participants perceived a proficiency-related intelligibility barrier, while others reported that practice helped them overcome it. No counts are printed.
+From the interview analysis in the Results and discussion section: some participants perceived a proficiency-related intelligibility barrier, while others reported that practice helped them overcome it. No counts are printed, and the study does not link this barrier to lower perceived usefulness: the survey's perceived-usefulness mean was above the neutral point (4.71 of 7).
 
 > "However, some participants felt their current level of English was not high enough to use ASR, since their utterances were not always intelligible to the technology. Others, however, found practice helped them overcome this issue."
 

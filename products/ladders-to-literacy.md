@@ -1,6 +1,7 @@
 ---
 type: product
 id: ladders-to-literacy
+moved_from: [element/ladders-to-literacy-kindergarten-activity-book]
 title: Ladders to Literacy
 description: A supplemental kindergarten literacy curriculum developed by Notari-Syverson, O’Connor, and Vadasy and published by Sopris West, with activities targeting print awareness, phonological awareness, and oral language.
 product_kind: curriculum

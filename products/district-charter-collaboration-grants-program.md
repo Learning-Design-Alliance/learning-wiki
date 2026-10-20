@@ -1,6 +1,7 @@
 ---
 type: product
 id: district-charter-collaboration-grants-program
+moved_from: [element/district-charter-collaboration-grants-program]
 title: District-Charter Collaboration Grants program
 description: "A Bill & Melinda Gates Foundation grant program that funded cross-sector collaboration between public and charter schools in seven cities."
 product_kind: programme

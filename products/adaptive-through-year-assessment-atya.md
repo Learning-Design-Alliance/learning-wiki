@@ -1,6 +1,7 @@
 ---
 type: product
 id: adaptive-through-year-assessment-atya
+moved_from: [element/atya-nwea-adaptive-through-year-assessment]
 title: Adaptive Through-Year Assessment (ATYA)
 description: "NWEA's proposed through-year adaptive assessment system designed to measure both grade-level standards proficiency and academic growth while replacing an end-of-year state summative assessment."
 product_kind: assessment

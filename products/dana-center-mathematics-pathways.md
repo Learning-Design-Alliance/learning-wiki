@@ -1,6 +1,7 @@
 ---
 type: product
 id: dana-center-mathematics-pathways
+moved_from: [element/dcmp-cost-ingredients, element/dcmp-intervention-model]
 title: Dana Center Mathematics Pathways
 description: A mathematics pathways programme developed by the Charles A.
 product_kind: programme

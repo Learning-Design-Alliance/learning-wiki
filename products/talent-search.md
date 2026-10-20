@@ -1,6 +1,7 @@
 ---
 type: product
 id: talent-search
+moved_from: [element/talent-search-program-element]
 title: Talent Search
 description: A U.S.
 product_kind: programme

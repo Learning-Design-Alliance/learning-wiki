@@ -1,6 +1,7 @@
 ---
 type: product
 id: effective-practice-incentive-community-epic-school-award-program
+moved_from: [element/effective-practice-incentive-community-epic-program]
 title: Effective Practice Incentive Community (EPIC) school award program
 description: A school-level award programme operated through three partner organizations that uses school data to determine eligibility and recognizes eligible schools with EPIC awards.
 product_kind: programme

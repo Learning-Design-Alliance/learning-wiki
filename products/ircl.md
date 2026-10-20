@@ -1,6 +1,7 @@
 ---
 type: product
 id: ircl
+moved_from: [design/irecl-nctm-practices-lesson-design, element/iready-classroom-mathematics-curriculum, element/iready-professional-development-offerings]
 title: iRCL
 description: i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics curriculum integrating print and digital instructional materials, practice tools, hands-on resources, and professional learning supports.
 product_kind: curriculum

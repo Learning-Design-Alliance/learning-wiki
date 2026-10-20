@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect
-description: Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect
+title: Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect
+description: Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect
 id: delayed-ratings-based-on-complex-problems
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect
+# Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Stepwise regressions showed delayed effort and difficulty ratings were significantly predicted by the average of the three more complex problems, not the three easier ones. [→ Schmeck 2015](#schmeck-2015)
+`q2 i?` In regressions on averaged ratings, delayed effort and difficulty ratings were significantly predicted by the average of the three more complex problems, not the three easier ones, in the increasing-complexity group; in the reversed-order group the three easier (last-seen) problems also predicted delayed mental effort, so the authors read the evidence as largely, not wholly, favouring complexity over recency. [→ Schmeck 2015](#schmeck-2015)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Schmeck, A., Opfermann, M., van Gog, T., Paas, F., & Leutner, D. (2015). Measuri
 
 `q2 · i?` · `causal · r2`
 
-Stepwise regression analyses in Experiment 2 (Group 1, increasing complexity, n = 56) showed the "average of the last three problems" predicted delayed effort (r2 = 0.164) and difficulty (r2 = 0.398), while the easier first three did not. Group 2's reversed order produced the mirrored pattern, supporting complexity over recency.
+In Experiment 2, after stepwise regressions on the individual immediate ratings, regression analyses on the averaged ratings for Group 1 (increasing complexity, n = 56) showed the "average of the last three problems" predicted delayed effort (r2 = 0.164) and difficulty (r2 = 0.398), while the easier first three did not. In Group 2 (reversed order), the average of the three complex problems predicted both delayed ratings (r2 = 0.340 and 0.348), but the average of the three easier, last-seen problems also predicted delayed mental effort (t(50) = 2.16, p = 0.036, r2 = 0.219). The authors conclude the results "largely seem to confirm" that delayed ratings rest more on the complex problems than on recency, not that recency is ruled out.
 
 > "the delayed ratings for mental effort and perceived difﬁculty were signiﬁcantly predicted by the average of the last three problems (t(55) = 3.25, p = 0.002, r2 = 0.164 for mental effort and t(55) = 5.97, p\ 0.001, r2 = 0.398 for perceived difﬁculty), which we assume to be the more complex ones."
 

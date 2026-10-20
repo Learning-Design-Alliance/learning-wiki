@@ -1,6 +1,7 @@
 ---
 type: product
 id: osf-repository
+moved_from: [element/osf-gpt-codebook-replication-artifact]
 title: OSF repository
 description: An OSF-hosted replication package from Zambrano et al.
 product_kind: dataset

@@ -1,6 +1,7 @@
 ---
 type: product
 id: childrens-progress-academic-assessment
+moved_from: [element/cpaa-adaptive-assessment-element]
 title: "Children's Progress Academic Assessment"
 description: "The CPAA is a computerized adaptive assessment developed for preschool settings to measure children's literacy and mathematical skills and supplement teacher ratings of developmental progress."
 product_kind: assessment

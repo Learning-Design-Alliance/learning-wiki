@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-go
+moved_from: [element/reading-go-tutoring-program]
 title: "Reading Go!"
 description: "Reading Go!"
 product_kind: programme

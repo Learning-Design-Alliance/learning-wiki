@@ -14,7 +14,7 @@ sources:
     title: "Yiqiu Zhou and Jina Kang. (2026). From individual annotations to shared attention: How re-annotation supports collaborative knowledge building in CSCL. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-026-09486-7"
     author: Yiqiu Zhou and Jina Kang
     q: 3
-    i: "?"
+    i: 1
     kind: associational
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # High-learning groups show a significantly shorter time gap between initiating annotations and re-annotations than low-learning groups, indicating reduced attention distance
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q3`
+> **Evidence** · 1 study · associational `r1` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i?` High-learning groups exhibited a significantly shorter time gap between initiating annotations and re-annotations than low-learning groups (p < 0.001, rank-biserial rrb = 0.216; no standardized effect size printed). [→ Yiqiu Zhou and Jina Kang 2026](#yiqiu-zhou-and-jina-kang-2026)
+`q3 i1` High-learning groups exhibited a significantly shorter time gap between initiating annotations and re-annotations than low-learning groups (p < 0.001; effect size rank-biserial rrb = 0.216, small). [→ Yiqiu Zhou and Jina Kang 2026](#yiqiu-zhou-and-jina-kang-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Yiqiu Zhou and Jina Kang. (2026). From individual annotations to shared attention: How re-annotation supports collaborative knowledge building in CSCL. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-026-09486-7
 
-`q3 · i?` · `associational · r1`
+`q3 · i1 · small effect, rank-biserial r = 0.216` · `associational · r1`
 
-Mann-Whitney U comparison across 16 groups (9 high-, 7 low-learning) drawn from 25 self-formed groups of 77 undergraduates. Time gap gave U = 40,374.0, p < 0.001, with the "significantly shorter time gap between initiating and re-annotations" finding; no standardized effect size is printed for this contrast.
+Mann-Whitney U comparison of annotation-to-re-annotation time gaps pooled within 16 groups (9 high-, 7 low-learning) drawn from 25 self-formed groups of 77 undergraduates; the test compares individual time-gap observations, not the 16 groups. Time gap gave U = 40,374.0, p < 0.001, with the "significantly shorter time gap between initiating and re-annotations" finding; the printed effect size is a rank-biserial correlation, rrb = 0.216 (mean gap 46.2 s against 58.4 s).
 
 > "Notably, high-learning groups exhibited a significantly shorter time gap between initiating and re-annotations, suggesting that they were more responsive to peer annotations, engaging in more immediate collaborative interactions."
 

@@ -45,4 +45,4 @@ Student-perception survey from the Spring 2026 pilot (Figure 1, N=98); the agree
 ## Related Claims
 - [Pilot students reported the conversational format forced explanation of reasoning, with a majority agreeing it combats rote memorization](socratic-test-pilot-beyond-recall.md) — related
 - [Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty](simulation-overestimated-tutor-adaptiveness.md) — reports the opposite
-- [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
+- [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related

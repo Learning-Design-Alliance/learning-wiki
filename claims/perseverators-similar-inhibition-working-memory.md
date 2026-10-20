@@ -44,5 +44,5 @@ In mixing-cost models, perseverator group × GNG and × NB interactions were non
 
 ## Related Claims
 - [Inhibition and working-memory performance are associated with mixing costs (goal representation) at ages 4;6 and 5;3 but not at age 3;9](inhibition-working-memory-mixing-costs-late-preschool.md) — related
-- [Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
+- [Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
 - [The proportion of perseverators declines steeply across the preschool period, from 38% at age 3;9 to 8% at age 5;3](perseverator-proportion-declines-preschool.md) — related

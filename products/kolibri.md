@@ -1,6 +1,7 @@
 ---
 type: product
 id: kolibri
+moved_from: [element/kolibri-offline-first-platform, element/kolibri-offline-first-platform-haiti-pilot]
 title: Kolibri
 description: "Kolibri is Learning Equality's open-source, offline-first learning platform for delivering educational content and supporting learning in low-connectivity settings."
 product_kind: software

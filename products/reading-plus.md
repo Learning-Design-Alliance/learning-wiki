@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-plus
+moved_from: [design/reading-plus-qualified-staff-supervision, design/reading-plus-three-part-session-structure, element/reading-plus-scaffolded-silent-reading-program, element/reading-plus-technology-access-requirements, element/reading-plus-training-support-system, element/reading-plus-web-based-literacy-program]
 title: Reading Plus
 description: Reading Plus® is a web-based individualized reading intervention platform developed and operated by Reading Plus® to provide scaffolded silent-reading practice, assessment, and progress monitoring for students.
 product_kind: software

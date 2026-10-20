@@ -1,6 +1,7 @@
 ---
 type: product
 id: student-learning-style-questionnaire
+moved_from: [theory/grasha-riechmann-six-learning-styles]
 title: Student Learning Style Questionnaire
 description: A questionnaire developed by Anthony Grasha and Sheryl Riechmann that measures six student learning-style orientations based on attitudes toward course content, teachers, peers, and classroom procedures.
 product_kind: assessment

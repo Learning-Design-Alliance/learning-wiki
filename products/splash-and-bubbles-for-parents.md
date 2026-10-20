@@ -1,6 +1,7 @@
 ---
 type: product
 id: splash-and-bubbles-for-parents
+moved_from: [design/second-screen-family-jem-app-pattern, element/splash-and-bubbles-for-parents-app, element/splash-bubbles-parents-app-element]
 title: Splash and Bubbles for Parents
 description: A PBS KIDS companion app for the Splash and Bubbles television series that supports joint parent-child viewing, science-related conversation, and hands-on activities.
 product_kind: software

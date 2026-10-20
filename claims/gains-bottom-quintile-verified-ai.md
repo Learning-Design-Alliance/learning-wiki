@@ -64,5 +64,5 @@ Quintile decomposition of the average effect in the same distributional analysis
 ## Related Claims
 - [The average effect of verified AI materials attenuates when the lowest pre-intervention marks are removed, while the threshold effect at the upper-second boundary is robust](average-effect-fragile-threshold-robust.md) — related
 - [Access to expert-verified AI study materials is associated with a 2.34-mark difference-in-differences advantage on a 50-mark examination component, reflecting protection from a decline rather than a rise](did-2-34-mark-advantage-verified-ai-materials.md) — a broader claim this one bears on
-- [Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution](chatbot-quantile-effects-middle-distribution.md) — related
+- [Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th](chatbot-quantile-effects-middle-distribution.md) — related
 - [School-based intelligent environment support shows an inverted U-shaped quantile pattern, stronger at lower-to-middle competence levels](intelligent-environment-support-inverted-u-quantile.md) — related

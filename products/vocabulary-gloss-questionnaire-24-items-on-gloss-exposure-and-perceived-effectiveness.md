@@ -1,6 +1,7 @@
 ---
 type: product
 id: vocabulary-gloss-questionnaire-24-items-on-gloss-exposure-and-perceived-effectiveness
+moved_from: [element/vocabulary-gloss-questionnaire-cheng-good]
 title: Vocabulary gloss questionnaire (24 items on gloss exposure and perceived effectiveness)
 description: A Chinese-language 24-item questionnaire developed by Cheng et al.
 product_kind: assessment

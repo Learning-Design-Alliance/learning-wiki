@@ -1,6 +1,7 @@
 ---
 type: product
 id: emotion-socialization-observation-scale-esos
+moved_from: [element/esos-emotion-socialization-observation-scale]
 title: Emotion Socialization Observation Scale (ESOS)
 description: "A structured classroom-observation assessment developed by Veraksa and colleagues to rate kindergarten teachers' reactions to children's emotions, modeling of emotional expressiveness, and teaching about emotions."
 product_kind: assessment

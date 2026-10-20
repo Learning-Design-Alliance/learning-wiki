@@ -1,6 +1,7 @@
 ---
 type: product
 id: stepping-stones-to-literacy
+moved_from: [element/stepping-stones-to-literacy-curriculum]
 title: Stepping Stones to Literacy
 description: Stepping Stones to Literacy is a supplemental early-literacy curriculum developed and distributed by Sopris West for underachieving kindergarten and older preschool readers.
 product_kind: curriculum

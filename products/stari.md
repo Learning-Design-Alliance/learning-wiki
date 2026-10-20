@@ -1,6 +1,7 @@
 ---
 type: product
 id: stari
+moved_from: [design/stari-four-types-peer-collaboration, element/stari-supplemental-reading-intervention]
 title: STARI
 description: A supplemental, multicomponent reading intervention for struggling middle-school readers, developed by the Strategic Education Research Partnership (SERP) and delivered through thematic units during the school day.
 product_kind: programme

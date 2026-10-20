@@ -48,6 +48,6 @@ Univariate logistic regression on RELACHS depressive symptoms. "Pupils with high
 ## Related Claims
 - [Bullying predicts depressive symptoms two years later for boys but not for girls](bullying-depressive-symptoms-boys-not-girls.md) — related
 - [Adolescents with moderate or high friend support are about half as likely to report being bullied](friend-support-lower-bullying-likelihood.md) — related
-- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](social-support-no-buffer-depression.md) — related
+- [In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection](social-support-no-buffer-depression.md) — related
 - [Peer problems at age 16 mediate the association between childhood ADHD symptoms and late-adolescent depressive symptoms](peer-problems-mediate-adhd-depression-link.md) — related
 - [Peer problems at age 9.5 mediate the association between childhood ADHD and depressive symptoms at age 13](earlier-peer-problems-mediate-adhd-depression-earlier-ages.md) — related

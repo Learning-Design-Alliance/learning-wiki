@@ -1,6 +1,7 @@
 ---
 type: product
 id: mydigitalhand-mdh
+moved_from: [element/mydigitalhand-office-hours-ticketing-system]
 title: MyDigitalHand (MDH)
 description: MyDigitalHand is a ticketing platform that manages student help requests and teaching-staff interactions during office hours, as used in the studied CS2 course.
 product_kind: software

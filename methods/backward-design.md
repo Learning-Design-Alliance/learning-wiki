@@ -1,6 +1,7 @@
 ---
 type: method
 id: backward-design
+moved_from: [principle/backward-design-goals-first-inquiry]
 title: Backward Design
 description: A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.
 status: review

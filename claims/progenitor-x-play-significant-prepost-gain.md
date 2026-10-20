@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students"
-description: "Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students"
+title: "After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison"
+description: "After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison"
 id: progenitor-x-play-significant-prepost-gain
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students
+# After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
@@ -35,7 +35,7 @@ Richard Halverson, Elizabeth Owen, Nathan Wills, R. Benjamin Shapiro. (2012). Ga
 
 `q2 · i?` · `design · r2`
 
-Pre-post analysis of 39 middle and high school students who played Progenitor X over a three-week period, each completing a brief assessment before and after play. The article reports "a statistically significant increase in scores (11% gain, p=.01)"; no effect size is printed.
+Pre-post analysis of 39 middle and high school students who played Progenitor X over a three-week period, each completing a brief assessment before and after play. The article reports "a statistically significant increase in scores (11% gain, p=.01)"; no effect size is printed. There was no control or comparison group, so the gain cannot be attributed to the game itself, although the authors read it that way.
 
 > "The pre-post tests indicated that players learned stem-cell science content as a result of play. Players had a statistically significant increase in scores (11% gain, p=.01)."
 

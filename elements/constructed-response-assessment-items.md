@@ -76,7 +76,7 @@ The central disadvantage of extended-response items is unreliable scoring: diffe
 - [Human scoring and feedback for HDR takes about 11 minutes 30 seconds per learner, while GPT-based scoring and feedback is nearly instant](../claims/hdr-human-scoring-time-burden.md) [+W]
 - [Hint-based prompts raise ChatGPT scoring agreement with human experts to 98–100%, while no-hint prompts are unstable (Q2 precision 0.42)](../claims/hint-prompts-raise-llm-scoring-agreement.md) [+W]
 - [Human evaluators' prioritization of essential features was significantly better for low-quality essays than for average- and high-scoring essays](../claims/human-prioritization-varies-by-essay-quality.md) [~W]
-- [Systematic underestimation of human scores is the dominant bias trend across LLM essay scoring, with some models also compressing scores into a narrow range](../claims/llm-essay-scoring-systematic-underestimation.md) [~W]
+- [In one study of five LLMs scoring 60 undergraduate essays on IELTS rubric dimensions, systematic underestimation of human scores was the dominant bias trend, with some models also compressing scores into a narrow range](../claims/llm-essay-scoring-systematic-underestimation.md) [~W]
 - [LLM agreement with human examiners is limited in fast mode and improves in reasoning or thinking modes](../claims/llm-fast-mode-limited-thinking-mode-better-agreement.md) [~W]
 - [A short strict-grader preamble knocks 14 of 17 open-weights LLM graders out of the graded band on a computer-vision exam, with three stopping grading outright](../claims/llm-grader-strict-persona-collapse.md) [~M]
 - [Machine–machine agreement exceeds human–machine agreement but remains below human–human agreement](../claims/machine-machine-above-human-machine-below-human-human.md) [~W]

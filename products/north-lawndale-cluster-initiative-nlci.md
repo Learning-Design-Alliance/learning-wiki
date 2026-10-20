@@ -1,6 +1,7 @@
 ---
 type: product
 id: north-lawndale-cluster-initiative-nlci
+moved_from: [element/nlci-vertical-integration-cluster-initiative]
 title: North Lawndale Cluster Initiative (NLCI)
 description: "AUSL's foundation-funded initiative coordinated schools, pre-k, professional development, mentoring, social-emotional supports, transition services, and college counseling across a North Lawndale school cluster from 2013–14 through 2018–19."
 product_kind: programme

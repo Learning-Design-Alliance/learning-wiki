@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: what-works-clearinghouse-wwc-design-standards
+moved_from: [theory/wwc-design-standards-causal-evidence-framework]
 title: What Works Clearinghouse (WWC) design standards
 description: The What Works Clearinghouse (WWC), established in 2002 by the U.S.
 status: review

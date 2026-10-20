@@ -12,6 +12,7 @@ sources:
     resource: "https://doi.org/10.3102/0013189X018001032"
     title: "Brown, J. S., Collins, A., & Duguid, P. (1989). Situated cognition and the culture of learning. *Educational Researcher, 18*(1), 32-42"
     author: "Brown, J. S., Collins, A., & Duguid, P"
+moved_from: [principle/situated-learning]
 ---
 
 # Situated Learning

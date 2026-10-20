@@ -33,7 +33,7 @@ Reigal RE, Moral-Campillo L, Juárez-Ruiz de Mier R, Morillo-Baro JP, Morales-S�
 
 `q3 · i?` · `associational · r2`
 
-Stepwise linear regression analysis (Table 3) regressing d2 measures on fitness predictors for the total sample and by gender. The article reports that "maximum oxygen consumption has been the main predictor of attention and concentration measures"; only test significance levels are printed, no standardized effect size is quoted here.
+Stepwise linear regression analysis (Table 3) regressing d2 measures on fitness predictors for the total sample and by gender. The article reports that "maximum oxygen consumption has been the main predictor of attention and concentration measures"; Table 3 prints unstandardized and standardized coefficients with R² and F for each model: in the total sample VO2max has β = .31 to .45 on five of the six d2 measures (model R² = .09 to .22), while the line with the fewest attempts (TR−) is predicted by the horizontal jump alone; in boys the horizontal jump is significant on five measures (β = .32 to .64), and in girls on two. These are regression weights in an observational sample, not effects of fitness.
 
 > "It has also been observed that maximum oxygen consumption has been the main predictor of attention and concentration measures, although in boys strength is also a significant predictor."
 

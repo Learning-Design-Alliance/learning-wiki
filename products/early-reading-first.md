@@ -1,6 +1,7 @@
 ---
 type: product
 id: early-reading-first
+moved_from: [design/enhance-preschool-practices-content-environments, element/early-reading-first-grant-program]
 title: Early Reading First
 description: A U.S.
 product_kind: programme

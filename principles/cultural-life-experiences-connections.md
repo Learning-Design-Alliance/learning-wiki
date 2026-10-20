@@ -1,6 +1,7 @@
 ---
 type: principle
 id: cultural-life-experiences-connections
+moved_from: [pattern/funds-of-knowledge-teacher-research-model]
 aliases: [culturally-responsive-adult-curriculum, render-ecological-crisis-concrete-embodied-proximal, real-world-math, relevant-immediately-useful-adult-materials, contextualize-abstract-content-older-learners, personalization-making-student-the-object-bridges-science-and-reality, invite-everyday-registers-science-activities, realistic-contexts-elicit-subjective-probability]
 title: "Cultural & Life Experiences Connections"
 description: "For learners whose instruction draws on contexts they do not recognise or see no stake in, building some tasks, examples and assessments from their own cultural, community, family and work experience, tied to the concept taught, is expected to raise engagement, open sharing of developing thinking and the competence an assessment can see; no claim here compares it with the same content taught without that connection."

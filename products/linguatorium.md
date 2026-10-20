@@ -1,6 +1,7 @@
 ---
 type: product
 id: linguatorium
+moved_from: [element/linguatorium-spaced-repetition-vocabulary-system]
 title: Linguatorium
 description: Linguatorium is a web-based computer-assisted language-learning system that automatically generates and schedules vocabulary-learning activities under instructor curriculum control.
 product_kind: software

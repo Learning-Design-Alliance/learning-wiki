@@ -1,6 +1,7 @@
 ---
 type: product
 id: school-improvement-grants-sig
+moved_from: [design/sig-three-practice-improvement-package]
 title: School Improvement Grants (SIG)
 description: A U.S.
 status: review

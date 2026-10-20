@@ -1,6 +1,7 @@
 ---
 type: product
 id: 2005-improving-chicagos-schools-survey
+moved_from: [element/2005-improving-chicagos-schools-survey]
 title: "2005 Improving Chicago's Schools survey"
 description: A spring 2005 survey administered across Chicago Public Schools by the Consortium on Chicago School Research to collect reports from students, teachers, and principals about school experiences, instruction, professional development, and working conditions.
 product_kind: assessment

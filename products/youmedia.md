@@ -1,6 +1,7 @@
 ---
 type: product
 id: youmedia
+moved_from: [element/youmedia-chicago-teen-digital-media-learning-space]
 title: YOUmedia
 description: YOUmedia Chicago is a teen digital-media learning-space programme operated by the Chicago Public Library at the Harold Washington Library, supported by the MacArthur Foundation and the Institute of Museum and Library Services, that combines technology access, informal learning space, and staff mento
 product_kind: programme

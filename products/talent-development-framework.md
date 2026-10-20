@@ -1,6 +1,7 @@
 ---
 type: product
 id: talent-development-framework
+moved_from: [element/tdf-excel-data-tool, theory/talent-development-framework-three-sections]
 title: Talent Development Framework
 description: "The GTL Center's Talent Development Framework Excel-based data tool lets state and district users enter human-capital data and generate charts of educator shortages and gaps across the career continuum."
 product_kind: software

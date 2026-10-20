@@ -1,6 +1,7 @@
 ---
 type: product
 id: lexia-academy
+moved_from: [element/lexia-academy-elearning-platform]
 title: Lexia Academy
 description: Lexia Academy is Lexia Learning’s self-paced eLearning platform for educators, providing professional-development courses and resources for literacy instruction, blended learning, and implementation of Lexia products.
 product_kind: software

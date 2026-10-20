@@ -1,6 +1,7 @@
 ---
 type: product
 id: grow-network
+moved_from: [element/grow-network-reporting-system-grades-3-9]
 title: Grow Network
 description: The Grow Network is a reporting platform operated by the Grow Network that transforms grades 3–9 assessment results into customized print and online reports, instructional resources, and parent-facing explanations for educators, principals, and families.
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: what-works-clearinghouse-wwc-database-of-reviewed-studies
+moved_from: [element/wwc-database-of-reviewed-studies]
 title: What Works Clearinghouse (WWC) database of reviewed studies
 description: A database maintained by the U.S.
 product_kind: dataset

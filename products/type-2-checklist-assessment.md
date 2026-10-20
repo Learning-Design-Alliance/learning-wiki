@@ -1,6 +1,7 @@
 ---
 type: product
 id: type-2-checklist-assessment
+moved_from: [element/type2-checklist-competency-assessment]
 title: Type 2 checklist assessment
 description: A first-grade mathematics checklist assessment from the Model Competency-Based Mathematics Program that pairs critical objectives with teacher-rated performance tasks to document student progress.
 product_kind: assessment

@@ -1,6 +1,7 @@
 ---
 type: product
 id: prevention-and-get-fit
+moved_from: [design/universal-prevention-plus-targeted-intensive-tier-pattern]
 title: Prevention and Get Fit
 description: A school-based obesity-prevention programme combining universal nutrition and physical-activity activities with the targeted 12-week Get Fit intervention for students needing additional support.
 product_kind: programme

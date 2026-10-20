@@ -26,7 +26,7 @@ sources:
 # Text underlining and annotating
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 14 claims (3 for, 8 mixed, 3 against) · 10 studies (4 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 3 of 10 report an effect size · 13 claims rest on one study
+> **Evidence** · 14 claims (3 for, 8 mixed, 3 against) · 10 studies (4 causal, 2 quant-synthesis, 2 associational, 1 review, 1 design), `q1`–`q4` · 4 of 10 report an effect size · 13 claims rest on one study
 
 ## Description
 A study aid involving marking text to indicate importance. Underlining (or highlighting) designates important information within the text; annotating adds marginal notes or written responses that go beyond selection to interpretation. The two differ in cognitive depth: underlining is a selection activity, while annotating is a generative one.

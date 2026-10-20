@@ -1,6 +1,7 @@
 ---
 type: product
 id: jmatayoshiaffect-transitions
+moved_from: [element/affect-transitions-python-module]
 title: jmatayoshi/affect-transitions
 description: "An open-source Python module by Jeffrey Matayoshi for simulating affect transitions and computing L and L* statistics."
 product_kind: software

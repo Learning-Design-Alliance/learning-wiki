@@ -1,6 +1,7 @@
 ---
 type: product
 id: project-cal-well
+moved_from: [design/cal-well-student-input-wellness-spaces, design/project-cal-well-mtss-three-component-organization]
 title: Project Cal-Well
 description: Project Cal-Well is a California Department of Education initiative, funded through a SAMHSA grant, that helps local educational agencies build sustainable school- and community-based mental health systems.
 product_kind: programme

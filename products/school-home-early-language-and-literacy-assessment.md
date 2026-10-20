@@ -1,6 +1,7 @@
 ---
 type: product
 id: school-home-early-language-and-literacy-assessment
+moved_from: [element/bear-story-combined-narrative-measure]
 title: School-Home Early Language and Literacy assessment
 description: "A language and literacy assessment that measures young children's English narrative production and related expressive-language skills through tasks such as the Bear Story picture-prompt narrative."
 product_kind: assessment

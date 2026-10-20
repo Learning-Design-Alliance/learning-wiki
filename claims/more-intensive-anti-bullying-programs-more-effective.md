@@ -35,7 +35,7 @@ Maria M. Ttofi, David P. Farrington. (2011). Effectiveness of school-based progr
 
 `q3 · i?` · `quant-synthesis · r?`
 
-Moderator analysis across the 44 evaluated programs, based on researcher feedback about the coding of 40 of 44 programs. The review reports that "More intensive programs were more effective"; no effect size for the intensity moderator is printed.
+The meta-analysis pooled 44 program evaluations; the analysis of program elements, including intensity, covered only the 40 of those 44 whose coding researchers gave feedback on. It associates program features with effects across evaluations, so it does not isolate intensity as a cause. The review reports that "More intensive programs were more effective"; no effect size for the intensity moderator is printed.
 
 > "More intensive programs were more effective, as were programs including parent meetings, firm disciplinary methods, and improved playground supervision"
 

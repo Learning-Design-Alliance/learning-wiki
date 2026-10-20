@@ -1,6 +1,7 @@
 ---
 type: product
 id: ctpck-survey
+moved_from: [element/ct-pck-survey-middle-school-math, theory/ct-pck-construct-framework]
 title: CT–PCK Survey
 description: "A 16-item vignette-based assessment developed by the ENACT partnership to measure middle school mathematics teachers' computational thinking pedagogical content knowledge."
 product_kind: assessment

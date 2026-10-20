@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-equity-frameworks
+moved_from: [theory/digital-equity-three-guiding-principles]
 title: Digital Equity Frameworks
 description: A framework for planning and guiding digital-equity work in schools and districts through the principles of inclusive innovation, sustainability, and continuous improvement.
 product_kind: framework

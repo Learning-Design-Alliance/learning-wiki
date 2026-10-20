@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` All AI models performed excellently on the extremes of the quality spectrum (best and worst responses), regardless of model type and amount of task-specific data. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)
+`q2 i?` The authors summarise AI-model performance on the extremes of the quality spectrum (best and worst responses) as excellent regardless of model type and amount of task-specific data, with exceptions in their own table: two-shot GPT-4o on Item 2 at the low end, and Claude Opus 4.5 on Item 2, which was far off at every score level. [→ Abigail Victoria Gurin Schleifer 2026](#abigail-victoria-gurin-schleifer-2026)
 `q2 i?` All few-shot models suffered substantial mid-range degradation, with average distance of more than two categories from the gold label at score levels 4-7 in all but one of 48 GPT-model results. [→ Abigail Victoria Gurin Schleifer 2026 (2)](#abigail-victoria-gurin-schleifer-2026-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Abigail Victoria Gurin Schleifer, Moriah Ariely, Beata Beigman Klebanov, Asaf Sa
 
 `q2 · i?` · `design · r2`
 
-Score-level analysis of test responses (Results, Table 1 and Figure 1): all models showed "excellent AI-model performance on the extremes – best and worst quality responses".
+Score-level analysis of test responses (Results, Table 1 and Figure 1): the authors report "excellent AI-model performance on the extremes – best and worst quality responses". Table 1 shows exceptions: on Item 2, two-shot GPT-4o averaged 1.50–2.29 categories from the gold label at score levels 1–2 (the authors name it as the exception at the low end), and Claude Opus 4.5 averaged 5.57, 4.90 and 5.14 categories at score levels 0–2, which the authors describe as erratic (best few-shot model on Item 1, by far the worst on Item 2).
 
 > "Analyzing the results by score level (number of correct categories out of 10), we observe excellent AI-model performance on the extremes – best and worst quality responses – regardless of model-type and amount of task-specific data."
 

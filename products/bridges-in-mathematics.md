@@ -1,6 +1,7 @@
 ---
 type: product
 id: bridges-in-mathematics
+moved_from: [element/bridges-in-mathematics-curriculum, element/number-corner-daily-practice-component]
 title: Bridges in Mathematics
 description: Bridges in Mathematics is a comprehensive preK–5 mathematics curriculum developed by The Math Learning Center that combines direct instruction, investigation, exploration, discourse, visual models, and hands-on activities.
 product_kind: curriculum

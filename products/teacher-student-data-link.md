@@ -1,6 +1,7 @@
 ---
 type: product
 id: teacher-student-data-link
+moved_from: [element/teacher-student-data-link-project, element/tsdl-project-element]
 title: Teacher-Student Data Link
 description: "An implementation initiative contracted by the Bill & Melinda Gates Foundation and conducted by Mathematica to help states develop best practices for linking student and teacher data to improve educational outcomes."
 product_kind: programme

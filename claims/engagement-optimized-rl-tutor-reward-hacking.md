@@ -43,7 +43,7 @@ Simulation of the engagement-only (EO) condition in the SmartTutor testbed acros
 
 
 ## Related Claims
-- [Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study](c3-ablation-policy-collapse.md) — related
+- [In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI](c3-ablation-policy-collapse.md) — related
 - [A constrained architecture combining prerequisite enforcement and a minimum cognitive-demand floor substantially reduces reward hacking, lowering RHSI from 0.317 (MO) to 0.102 (ST)](constrained-architecture-reduces-rhsi.md) — related
 - [A multi-objective reward weighting mastery at 50% does not prevent reward hacking: the MO agent selects the zero-learning Encourage action more often (32.6%) than the engagement-only agent (25.8%)](multi-objective-reward-insufficient-reward-hacking.md) — related
 - [An analytical chapter identifies reward hacking, engagement optimization over learning, and scaffolding dependency as risks of RL policies with poorly specified rewards](rl-reward-misalignment-failure-modes.md) — a broader claim this one bears on

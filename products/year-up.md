@@ -1,6 +1,7 @@
 ---
 type: product
 id: year-up
+moved_from: [element/year-up-program-element]
 title: Year Up
 description: Year Up is a workforce-development programme that combines occupational and technical training, advising and support, paid internships, and post-program job-placement assistance for low-income young adults, operated by Year Up.
 product_kind: programme

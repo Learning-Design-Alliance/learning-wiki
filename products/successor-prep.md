@@ -1,6 +1,7 @@
 ---
 type: product
 id: successor-prep
+moved_from: [element/kipp-successor-prep-program]
 title: Successor Prep
 description: A KIPP school leadership programme that prepares new principals to lead existing KIPP schools.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: everyday-intervention
+moved_from: [element/everyday-intervention-absence-reports]
 title: EveryDay Intervention
 description: A school- and district-partnered attendance intervention that analyzes attendance data and mails personalized absence reports to parents or guardians of students at risk of chronic absenteeism.
 product_kind: programme

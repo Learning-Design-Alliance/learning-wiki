@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information"
-description: "Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information"
+title: "Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability"
+description: "Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability"
 id: low-ses-students-generate-stereotype-consistent-ability-inferences
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# Low-SES students, but not high-SES students, generate stereotype-consistent inferences about targets' cognitive ability from social class information
+# Low-SES students, but not high-SES students, generate stereotype-consistent inferences linking targets' social class and memory ability
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
-`q2 i?` In both studies, only the low-SES students generated stereotype-consistent inferences, indicating that low-SES students apply the SES stereotype to infer targets' cognitive ability. [→ Isabelle Regner 2002](#isabelle-regner-2002)
+`q2 i?` In both studies only the low-SES students generated stereotype-consistent inferences: in Study 1 when inferring targets' memory ability from social class information, and in Study 2 when inferring targets' possessions and cultural activities (SES indicators) from memory-performance information. [→ Isabelle Regner 2002](#isabelle-regner-2002)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Isabelle Regner, Pascal Huguet, Jean-Marc Monteil. (2002). Effects of socioEcono
 
 `q2 · i?` · `causal · r?`
 
-Study 1 was an experiment in which "low versus high achievers with a low versus a high SES" received social class information about targets and inferred the targets' memory ability. The abstract reports that "only the low-SES students generated stereotype-consistent inferences."
+Study 1 was an experiment in which "low versus high achievers with a low versus a high SES" received social class information about targets and inferred the targets' memory ability. In Study 2 participants were given memory-performance information and inferred the targets' possessions and cultural activities (SES indicators). The abstract reports that "in both studies, only the low-SES students generated stereotype-consistent inferences."
 
 > "In Study 1, low versus high achievers with a low versus a high SES were given social class information (derived from a pilot study) about several targets and were then asked to infer these targets' memory ability."
 

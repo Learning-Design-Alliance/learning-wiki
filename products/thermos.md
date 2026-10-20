@@ -1,6 +1,7 @@
 ---
 type: product
 id: thermos
+moved_from: [element/thermos-learning-analytics-dashboard]
 title: Thermos
 description: Thermos is a student-facing learning analytics dashboard developed to visualize motivation, engagement, group-work skills, and study progress while offering actionable self-regulation support and connection suggestions.
 product_kind: software

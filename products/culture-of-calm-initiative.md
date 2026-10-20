@@ -1,6 +1,7 @@
 ---
 type: product
 id: culture-of-calm-initiative
+moved_from: [element/culture-of-calm-initiative-element]
 title: Culture of Calm initiative
 description: A Chicago Public Schools school-safety and climate-improvement programme implemented in high schools through school staff and vendor community organizations, combining leadership commitment, behavior frameworks, staff and student development, community engagement, and performance management.
 product_kind: programme

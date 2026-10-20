@@ -1,6 +1,7 @@
 ---
 type: product
 id: kipp-fisher-fellowship
+moved_from: [element/kipp-fisher-fellowship-program]
 title: KIPP Fisher Fellowship
 description: A KIPP programme that prepares new principals to lead new KIPP schools.
 product_kind: programme

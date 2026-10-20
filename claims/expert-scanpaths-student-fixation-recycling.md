@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3`
 
 ## Subclaims
-`q3 i?` Experts in both cultures used student fixation first and alternated it with less student-oriented gaze in both attentional and communicative gaze; Hong Kong novices used no student fixations. [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)
+`q3 i?` Experts in both cultures used student fixation first and alternated it with less student-oriented gaze in both attentional and communicative gaze; the modal six-event scanpath of Hong Kong novices contained no student fixation (a description of the most common sequence, not of every novice gaze sequence). [→ Nora A. McIntyre & Tom Foulsham 2018](#nora-a-mcintyre-tom-foulsham-2018)
 `q3 i?` Hong Kong teachers used student scan regardless of expertise, whereas neither UK experts nor UK novices used student scan at all. [→ Nora A. McIntyre & Tom Foulsham 2018 (2)](#nora-a-mcintyre-tom-foulsham-2018-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Nora A. McIntyre & Tom Foulsham. (2018). Scanpath analysis of expertise and cult
 
 `q3 · i?` · `associational · r1`
 
-Qualitative sub-string (modal scanpath) analysis of six-event sequences for each of the four expertise-by-culture sub-groups, shown in Table 5. "Experts in both cultures used student ﬁxation ﬁrst"; no effect size is printed for these descriptive contrasts.
+Qualitative sub-string (modal scanpath) analysis of six-event sequences for each of the four expertise-by-culture sub-groups, shown in Table 5. "Experts in both cultures used student ﬁxation ﬁrst"; the Hong Kong novices' modal scanpaths contain no student fixation, which the authors summarise as Hong Kong novices using "no student ﬁxations". These describe each sub-group's most common sequence, not all of its gaze, and no effect size is printed for these descriptive contrasts.
 
 > "Experts in both cultures used student ﬁxation ﬁrst, before alternating between that and less student-oriented gaze, in both attentional and communicative gaze."
 

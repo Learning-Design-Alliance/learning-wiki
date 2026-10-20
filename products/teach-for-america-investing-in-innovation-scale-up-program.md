@@ -1,6 +1,7 @@
 ---
 type: product
 id: teach-for-america-investing-in-innovation-scale-up-program
+moved_from: [element/tfa-investing-innovation-scale-up-program]
 title: Teach For America Investing in Innovation scale-up program
 description: A Teach For America program that recruited, trained, and placed new corps-member teachers in high-poverty schools.
 product_kind: programme

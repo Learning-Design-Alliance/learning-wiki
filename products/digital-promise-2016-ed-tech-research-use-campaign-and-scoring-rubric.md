@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-2016-ed-tech-research-use-campaign-and-scoring-rubric
+moved_from: [element/digital-promise-2016-research-use-campaign]
 title: Digital Promise 2016 ed-tech research-use campaign and scoring rubric
 description: A Digital Promise campaign that invited ed-tech companies to report how they use research in product development and evaluated their submissions with a rubric covering research quality, researcher involvement, and public sharing of results.
 product_kind: programme

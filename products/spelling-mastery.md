@@ -1,6 +1,7 @@
 ---
 type: product
 id: spelling-mastery
+moved_from: [element/spelling-mastery-curriculum]
 title: Spelling Mastery
 description: A McGraw-Hill Direct Instruction spelling curriculum for grades 1–6 that uses phonemic, morphemic, and whole-word strategies in scripted daily lessons across six levels.
 product_kind: curriculum

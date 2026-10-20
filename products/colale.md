@@ -1,6 +1,7 @@
 ---
 type: product
 id: colale
+moved_from: [element/colale-contextual-language-app-prototype]
 title: CoLaLe
 description: A prototype mobile app developed to support German and Thai vocabulary learning through context-linked flashcards and geo-fence-triggered learning sessions.
 product_kind: software

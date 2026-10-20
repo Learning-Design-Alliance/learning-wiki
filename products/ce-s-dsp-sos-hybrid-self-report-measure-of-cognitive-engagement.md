@@ -1,6 +1,7 @@
 ---
 type: product
 id: ce-s-dsp-sos-hybrid-self-report-measure-of-cognitive-engagement
+moved_from: [element/ce-s-dsp-sos-cognitive-engagement-measure]
 title: "CE-S-DSP & SOS hybrid self-report measure of cognitive engagement"
 description: "A hybrid self-report assessment assembled by Meg Guerreiro (2017) from existing cognitive-engagement measures to assess students' reported cognitive engagement, including in grades 6–8 mathematics."
 product_kind: assessment
@@ -27,7 +28,7 @@ A hybrid self-report assessment assembled by Meg Guerreiro (2017) from existing 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [+W]
+- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [+W]
 
 ## Related Products and Programmes
 -
@@ -61,7 +62,7 @@ The study used a hybrid cognitive engagement measure, CE-S-DSP & SOS, built from
 
 ## Claims
 
-- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [+W]
+- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](../claims/platform-modality-no-relationship-cognitive-engagement.md) [+W]
 
 ## Related Elements
 - 

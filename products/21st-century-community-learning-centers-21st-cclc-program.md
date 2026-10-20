@@ -1,6 +1,7 @@
 ---
 type: product
 id: 21st-century-community-learning-centers-21st-cclc-program
+moved_from: [element/21st-cclc-elementary-afterschool-program-element, element/21st-century-community-learning-centers-program]
 title: 21st Century Community Learning Centers (21st CCLC) program
 description: A U.S.
 product_kind: programme

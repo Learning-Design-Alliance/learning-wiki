@@ -1,6 +1,7 @@
 ---
 type: product
 id: youth-at-risk-of-homelessness-yarh
+moved_from: [element/yarh-program-element]
 title: Youth At-Risk of Homelessness (YARH)
 description: A programme funded by the U.S.
 product_kind: programme

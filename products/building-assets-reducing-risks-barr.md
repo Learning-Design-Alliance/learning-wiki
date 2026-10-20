@@ -1,6 +1,7 @@
 ---
 type: product
 id: building-assets-reducing-risks-barr
+moved_from: [element/barr-model-element, element/barr-program-element]
 title: Building Assets, Reducing Risks (BARR)
 description: A schoolwide K–12 training and coaching program run by the BARR Center that integrates relationship-building, coordinated staff practices, and systematic academic and non-academic data use to improve student outcomes.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: xtreme-reading
+moved_from: [element/xtreme-reading-program-element]
 title: Xtreme Reading
 description: Xtreme Reading is a structured supplemental curriculum for struggling adolescent readers, derived from the University of Kansas Strategic Instruction Model and delivered through trained teachers using prescribed strategy lessons and materials.
 product_kind: curriculum

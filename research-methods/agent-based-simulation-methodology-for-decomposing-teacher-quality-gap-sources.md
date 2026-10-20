@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: agent-based-simulation-methodology-for-decomposing-teacher-quality-gap-sources
+moved_from: [theory/agent-based-modeling-teacher-quality-gap-decomposition]
 title: Agent-based simulation methodology for decomposing teacher quality gap sources
 description: "The article introduces \"a novel simulation methodology\" that models teacher workforce dynamics to attribute teacher quality gaps to their underlying processes."
 status: review

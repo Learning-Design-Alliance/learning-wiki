@@ -1,6 +1,7 @@
 ---
 type: product
 id: galaxy-math
+moved_from: [element/galaxy-math-tutoring-program]
 title: Galaxy Math
 description: Galaxy Math is an AIR-disseminated, space-themed one-to-one tutoring programme in which paraprofessionals provide at-risk first graders with frequent sessions focused on addition and subtraction.
 product_kind: programme

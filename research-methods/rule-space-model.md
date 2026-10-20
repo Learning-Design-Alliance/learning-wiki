@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: rule-space-model
+moved_from: [theory/rule-space-model-cognitive-diagnosis]
 title: Rule Space model
 description: "The Rule Space model (Tatsuoka, 1983) is an IRT-based diagnostic classification framework in which \"Items are decomposed into attributes, which represent the latent traits that the items assess.\" From an examinee's response vector the model \"infers the most likely combination of attributes the exami"
 status: review

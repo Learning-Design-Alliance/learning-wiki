@@ -1,6 +1,7 @@
 ---
 type: product
 id: blueprint-for-statewide-pathways-scaling
+moved_from: [element/three-tiered-core-pilot-replication-implementation-model, theory/five-pillar-statewide-career-pathways-blueprint]
 title: Blueprint for Statewide Pathways Scaling
 description: A Babineau et al.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: multimodal-analysis
+moved_from: [theory/multimodal-analysis-cyberlearning-method]
 aliases: [multimodal-classroom-video-analysis-for-teacherstudent-interaction-detection]
 title: Multimodal analysis
 description: "Multimodal analysis is one of three methodological advances the report highlights, defined as \"Integrating multiple streams of data, such as audio, video, eye gaze, sensors, and clickstream data.\" The introduction elaborates it as \"the study of learning with data streams that include physical moveme"

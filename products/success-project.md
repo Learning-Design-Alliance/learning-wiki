@@ -1,6 +1,7 @@
 ---
 type: product
 id: success-project
+moved_from: [theory/success-project-three-lever-theory-of-action]
 title: Success Project
 description: A school-based college-access and student-success programme implemented by full-time Success coordinators through the 6to16 curriculum, grades-and-attendance monitoring, and high-school application support.
 product_kind: programme

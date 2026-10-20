@@ -1,6 +1,7 @@
 ---
 type: product
 id: technology-education-curriculum-guide
+moved_from: [design/recommended-scope-sequence-time-allocations, pattern/industrial-arts-pyramid-program-levels, pattern/level-differentiated-awareness-exploration-specialization]
 title: Technology Education Curriculum Guide
 description: A curriculum guide issued by an education authority that specifies technology-education content, instructional approaches, course sequences, and time allocations for junior- and senior-high programmes.
 product_kind: curriculum

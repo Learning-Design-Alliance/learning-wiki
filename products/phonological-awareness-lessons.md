@@ -1,6 +1,7 @@
 ---
 type: product
 id: phonological-awareness-lessons
+moved_from: [element/phonological-awareness-lessons-program]
 title: Phonological Awareness Lessons
 description: Phonological Awareness Lessons is an explicit, systematic phonological-awareness curriculum for Pre-K through first grade, developed for use by teachers supporting foundational reading skills.
 product_kind: curriculum

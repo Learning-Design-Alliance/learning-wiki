@@ -1,6 +1,7 @@
 ---
 type: product
 id: epistemic-violence-freedom-scale
+moved_from: [element/epistemic-violence-freedom-scale]
 title: Epistemic violence-freedom scale
 description: A 29-item Likert-scale instrument developed by Kartal et al.
 product_kind: assessment

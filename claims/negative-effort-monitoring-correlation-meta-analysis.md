@@ -46,6 +46,6 @@ Random-effects meta-analysis of k = 123 participant groups (5819 participants) f
 - [Monitoring judgment timing moderates the correlation: concurrent judgments show a stronger negative association than prospective judgments](concurrent-stronger-than-prospective-judgments.md) — a narrower finding that bears on this claim
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — a broader claim this one bears on
 - [Publication bias analyses suggest the negative correlation is robust but trim-and-fill adjusts it to r = −.227](publication-bias-trim-and-fill-adjustment.md) — related
-- [Goal-driven manipulations (incentives, time pressure, self-agency) weaken the negative effort–monitoring correlation to nonsignificance](goal-driven-manipulations-eliminate-negative-correlation.md) — related
+- [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](goal-driven-manipulations-eliminate-negative-correlation.md) — related
 - [School level moderates the correlation non-linearly, with grades 7–12 showing the most negative correlation](school-level-nonlinear-moderator.md) — related
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related

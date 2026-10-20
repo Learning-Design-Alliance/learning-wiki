@@ -1,6 +1,7 @@
 ---
 type: product
 id: launch
+moved_from: [element/launch-principal-development-program, element/launch-principal-preparation-program]
 title: LAUNCH
 description: A Chicago Public Schools professional-development programme that recruits, prepares, and supports aspiring principals through intensified leadership knowledge, skills, and experience.
 product_kind: programme

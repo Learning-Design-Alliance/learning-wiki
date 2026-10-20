@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · design `r2`–`r3` · `q2`
 
 ## Subclaims
-`q2 i?` Average self-reported CLRI use rose from 3.14 to 3.44 over the year, while collaboration stayed at 3.14 (N = 20). [→ Patrick Rich 2025](#patrick-rich-2025)
+`q2 i?` Average self-reported CLRI use rose from 3.14 to 3.44 over the year, while collaboration averaged 3.28, 3.30 and 3.14 at the beginning, middle and end of the year, which the report describes as unchanged overall (N = 20). [→ Patrick Rich 2025](#patrick-rich-2025)
 `q2 i?` Teachers with a local coach showed higher growth in CLRI (0.20 vs. -0.19), but these differences were not statistically significant at the 5 percent level. [→ Patrick Rich 2025 (2)](#patrick-rich-2025-2)
 
 ## Evidence

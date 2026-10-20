@@ -64,6 +64,6 @@ Further item-level comparisons in the same exam-phase analysis showed the medica
 ## Related Claims
 - [The largest OSCE-domain improvement from multi-agent scaffolding was in communication performance](communication-largest-osce-gain.md) — related
 - [Multi-agent AI standardized patient training improved final OSCE-aligned examination scores compared with a structured non-LLM control condition](ma-scaffolding-improves-osce-exam-score.md) — related
-- [Multi-agent scaffolding did not change binary diagnostic accuracy or worksheet completion relative to the structured control](no-diagnostic-accuracy-difference.md) — related
+- [Multi-agent scaffolding showed no significant difference from the structured control in binary diagnostic accuracy or worksheet completion](no-diagnostic-accuracy-difference.md) — related
 - [Controlled GenAI virtual-patient and communication studies reported short-term skill gains, but positive findings were not universal](genai-virtual-patient-short-term-gains-mixed.md) — a broader claim this one bears on
 - [Scaffolding level provides no consistent additional predictive information about subsequent exam performance beyond prior achievement and observed dialogue behavior](scaffolding-little-incremental-exam-prediction.md) — related

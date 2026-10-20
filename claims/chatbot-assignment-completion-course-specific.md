@@ -48,7 +48,7 @@ ITT analysis of course deliverables in Microeconomics (Table 6) and Government (
 - [Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses](chatbot-outreach-increases-ab-grades.md) — related
 - [Chatbot outreach increased supplemental instruction tutoring attendance by about two percentage points, mediating a small share of the grade effect](chatbot-increases-tutoring-attendance.md) — related
 - [End-of-course survey respondents strongly recommended the chatbot, but attitudinal outcomes showed no consistent treatment effects and survey participation was differentially selective](chatbot-student-attitudes-null-survey-selective.md) — related
-- [Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution](chatbot-quantile-effects-middle-distribution.md) — related
+- [Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th](chatbot-quantile-effects-middle-distribution.md) — related
 - [Quiz-level first-attempt performance analysis across cohorts identifies persistently challenging topics in online biomedical science courses](quiz-level-cross-cohort-analysis-identifies-persistent-challenging-topics.md) — related
 - Chatbot outreach showed no statistically significant effect on credits enrolled, earned, accumulated, or on term and cumulative GPA — related
 - [Participating in peer assessment causes a small but significant improvement in short-term achievement on unit quizzes in a college statistics course](peer-assessment-improves-unit-quiz-achievement.md) — related

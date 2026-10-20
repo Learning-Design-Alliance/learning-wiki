@@ -1,6 +1,7 @@
 ---
 type: product
 id: 95-phonics-lesson-library-pll
+moved_from: [element/95-phonics-lesson-library-element]
 title: 95 Phonics Lesson Library (PLL)
 description: A phonics curriculum from 95 Percent Group providing tiered small-group lesson plans and teacher and student materials organized around 75 phonics subskills.
 product_kind: curriculum

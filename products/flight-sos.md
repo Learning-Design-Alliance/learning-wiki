@@ -1,6 +1,7 @@
 ---
 type: product
 id: flight-sos
+moved_from: [element/flight-sos-interactive-video]
 title: Flight SOS
 description: Flight SOS is an interactive video English-as-a-foreign-language program co-produced by Gale et al.
 product_kind: software

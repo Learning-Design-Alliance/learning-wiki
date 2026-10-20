@@ -35,7 +35,7 @@ What Works Clearinghouse, U.S. Department of Education. (2007). WWC Intervention
 
 `q3 · i0` · `causal · r2`
 
-Randomized controlled trial of 27 Head Start classrooms in southeastern New York; WWC re-analysis used unique classrooms (19 classrooms/270 children for PPVT-III). Both oral language measures were "found no significant effects"; domain average effect size 0.01, improvement index 0 percentile points (range –3 to +3).
+Randomized controlled trial of 27 Head Start classrooms in southeastern New York; WWC re-analysis used unique classrooms (19 classrooms/263 children for PPVT-III and 19/270 for Comprehension). Both oral language measures were "found no significant effects"; domain average effect size 0.01, improvement index 0 percentile points (range –3 to +3).
 
 > "Fischel et al. (in press) analyzed the differences between the Waterford Early Reading Level One™ and business-as-usual comparison groups for two measures in this outcome domain [the Peabody Picture Vocabulary Test-III (PPVT-III) and Comprehension] and found no significant effects; the WWC confirmed this."
 

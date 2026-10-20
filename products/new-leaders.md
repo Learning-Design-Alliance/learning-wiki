@@ -1,6 +1,7 @@
 ---
 type: product
 id: new-leaders
+moved_from: [element/new-leaders-principal-training-program]
 title: New Leaders
 description: New Leaders runs a selective principal-residency and ongoing support programme that prepares and develops school leaders, particularly for high-need schools.
 product_kind: programme

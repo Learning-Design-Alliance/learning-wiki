@@ -1,6 +1,7 @@
 ---
 type: product
 id: systems-review
+moved_from: [design/systems-review-working-agreements]
 title: Systems Review
 description: Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.
 product_kind: framework

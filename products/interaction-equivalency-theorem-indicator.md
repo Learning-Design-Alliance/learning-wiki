@@ -1,6 +1,7 @@
 ---
 type: product
 id: interaction-equivalency-theorem-indicator
+moved_from: [element/interaction-equivalency-theorem-indicator]
 title: Interaction Equivalency Theorem Indicator
 description: A Miyazoe et al.
 product_kind: assessment

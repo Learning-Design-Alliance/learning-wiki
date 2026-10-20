@@ -83,6 +83,7 @@ def build() -> tuple[dict, list]:
     unique by construction, so only the alias namespace can produce one, which
     is exactly the case lint's identity check exists for."""
     pages, resolve, collisions = [], {}, []
+    moved_in = []   # (old kind/slug, new kind/slug) from moved_from: on the page folded into
 
     for folder, kind in KINDS.items():
         directory = WIKI_ROOT / folder
@@ -126,6 +127,8 @@ def build() -> tuple[dict, list]:
                 entry["canonical_page"] = f"{kind}/{m.group(1)}"
             pages.append(entry)
 
+            for q in pid.read_moved_from(fm_text or ""):
+                moved_in.append((q, f"{kind}/{slug}"))
             for name in [slug, *aliases]:
                 if name in resolve[kind] and resolve[kind][name] != slug:
                     collisions.append(
@@ -133,6 +136,18 @@ def build() -> tuple[dict, list]:
                         f"{resolve[kind][name]!r} and {slug!r}")
                     continue
                 resolve[kind][name] = slug
+
+    # A page folded into another KIND leaves its old id resolving to nothing, since aliases
+    # live within one kind. `moved` says where it went, so a consumer can follow it; an old id
+    # that is still a live id or alias of its kind is a collision, not a move.
+    moved = {}
+    for old, new in moved_in:
+        okind, _, oslug = old.partition("/")
+        if oslug in resolve.get(okind, {}):
+            collisions.append(f"{okind}: {oslug!r} is listed as moved to {new} but still resolves to "
+                              f"{resolve[okind][oslug]!r}")
+            continue
+        moved.setdefault(okind, {})[oslug] = new
 
     index = {
         "note": ("Resolution table for learning-design-spec: every content page's "
@@ -144,6 +159,8 @@ def build() -> tuple[dict, list]:
         "counts": {kind: sum(1 for p in pages if p["type"] == kind)
                    for kind in sorted(set(KINDS.values()))},
         "resolve": {k: dict(sorted(v.items())) for k, v in sorted(resolve.items())},
+        # Retired ids of pages folded into another kind: {old kind: {old slug: "new kind/new slug"}}.
+        "moved": {k: dict(sorted(v.items())) for k, v in sorted(moved.items())},
         "pages": sorted(pages, key=lambda p: (p["type"], p["id"])),
     }
     return index, collisions

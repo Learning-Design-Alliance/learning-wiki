@@ -1,6 +1,7 @@
 ---
 type: product
 id: occupational-aspiration-scale
+moved_from: [element/occupational-aspiration-scale-instrument]
 title: Occupational Aspiration Scale
 description: A self-report instrument developed by Haller et al.
 product_kind: assessment

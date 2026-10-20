@@ -1,6 +1,7 @@
 ---
 type: product
 id: metacognitive-interview-form-for-younger-students
+moved_from: [element/metacognitive-interview-form-younger-students]
 title: Metacognitive Interview Form for Younger Students
 description: An informal, semi-structured NCREL reading assessment interview that elicits younger students’ awareness and use of metacognitive strategies before, during, and after reading.
 product_kind: assessment

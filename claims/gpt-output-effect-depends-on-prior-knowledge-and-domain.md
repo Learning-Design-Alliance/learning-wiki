@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)
-description: Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)
+title: Descriptive user-study patterns that the authors read as GPT output possibly scaffolding IVDA students and reducing CV students' performance, an interpretation by prior knowledge that the study did not measure
+description: Descriptive user-study patterns that the authors read as GPT output possibly scaffolding IVDA students and reducing CV students' performance, an interpretation by prior knowledge that the study did not measure
 id: gpt-output-effect-depends-on-prior-knowledge-and-domain
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Descriptive user-study patterns suggest GPT output may scaffold lower-prior-knowledge IVDA students but reduce performance when prior knowledge is higher (CV)
+# Descriptive user-study patterns that the authors read as GPT output possibly scaffolding IVDA students and reducing CV students' performance, an interpretation by prior knowledge that the study did not measure
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In the IVDA scenario, 63.64% of Group 3 (test first without, then with GPT output) improved between attempts, while about 80% of Groups 1 and 2 showed unchanged performance. [→ Markos Stamatakis 2026](#markos-stamatakis-2026)
-`q2 i?` In the CV scenario the average student outperforms GPT-4o in all attempts, and the authors suggest GPT-4o outputs may reduce performance when prior knowledge is higher. [→ Markos Stamatakis 2026 (2)](#markos-stamatakis-2026-2)
+`q2 i?` In the IVDA scenario, 63.64% of Group 3 (test first without, then with GPT output) improved between attempts, while 80% of Group 1 and 60% of Group 2 showed unchanged performance (Table 5; the text says about 80% for both). [→ Markos Stamatakis 2026](#markos-stamatakis-2026)
+`q2 i?` In the CV scenario the average student outperforms GPT-4o in all attempts, and the authors suggest GPT-4o outputs may reduce performance when prior knowledge is higher; prior knowledge was not measured, so this is their interpretation of the CV/IVDA difference, not a tested finding. [→ Markos Stamatakis 2026 (2)](#markos-stamatakis-2026-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, 
 
 `q2 · i?` · `causal · r2`
 
-Descriptive change analysis between attempts (Table 5, Sec. 5) for the IVDA user study: "63.64 %of Group 3 improved, while18.18 %performed worse", while roughly 80% of Groups 1 and 2 were unchanged. Descriptive percentages only; no test statistic or effect size.
+Descriptive change analysis between attempts (Table 5, Sec. 5) for the IVDA user study: "63.64 %of Group 3 improved, while18.18 %performed worse", while Table 5 shows 80% of Group 1 and 60% of Group 2 unchanged (the prose says about 80% for both). Descriptive percentages only; no test statistic or effect size.
 
 > "In the IVDAscenario, 63.64 %of Group 3 improved, while18.18 %performed worse."
 
@@ -54,7 +54,7 @@ Markos Stamatakis, Omkar Gavali, Joshua Berger, Christian Wartena, Anett Hoppe, 
 
 `q2 · i?` · `causal · r2`
 
-Descriptive comparison of CV participants with GPT-4o (Table 4, Sec. 5): "the average student outperforms GPT in all attempts", similarity to GPT-4o output always over 80%, and Group 3 declined in the second attempt. The authors interpret this as possible cognitive offloading with higher prior knowledge; no effect size printed.
+Descriptive comparison of CV participants with GPT-4o (Table 4, Sec. 5): "the average student outperforms GPT in all attempts", similarity to GPT-4o output always over 80%, and Group 3 declined in the second attempt. The authors interpret this as possible cognitive offloading with higher prior knowledge, but the study did not measure prior knowledge or analyse students by it; no effect size printed.
 
 > "In the CV scenario, the average student outperforms GPT in all attempts, with many achieving comparable or higher scores."
 

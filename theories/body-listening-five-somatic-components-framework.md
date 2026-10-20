@@ -1,6 +1,7 @@
 ---
 type: theory
 id: body-listening-five-somatic-components-framework
+moved_from: [principle/prioritize-kinesthetic-sense-and-whole-body-connectedness]
 title: "Body-listening framework: five components of somatic exploration for the dance technique class"
 description: The article proposes a pedagogical framework for infusing a somatic, body-listening approach into the dance technique class.
 status: review

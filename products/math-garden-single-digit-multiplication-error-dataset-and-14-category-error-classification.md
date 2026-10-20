@@ -1,6 +1,7 @@
 ---
 type: product
 id: math-garden-single-digit-multiplication-error-dataset-and-14-category-error-classification
+moved_from: [element/math-garden-multiplication-error-dataset]
 title: Math Garden single-digit multiplication error dataset and 14-category error classification
 description: A research dataset and 14-category taxonomy of single-digit multiplication errors collected from the Math Garden computerized arithmetic practice environment and analyzed by Savi et al.
 product_kind: dataset

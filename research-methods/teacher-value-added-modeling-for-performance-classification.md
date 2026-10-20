@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: teacher-value-added-modeling-for-performance-classification
+moved_from: [theory/value-added-top-quintile-teacher-identification]
 title: Teacher value-added modeling for performance classification
 description: The study defines teacher performance using value-added estimates from a student-level growth model with teacher fixed effects.
 status: review

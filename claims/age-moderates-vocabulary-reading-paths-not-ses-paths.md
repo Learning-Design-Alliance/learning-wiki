@@ -62,5 +62,5 @@ OSMASEM across the three reading models found no age moderation of fluency paths
 
 
 ## Related Claims
-- [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
+- [Country SES moderates the linguistic-skill-to-reading paths, with stronger phonological-awareness and vocabulary associations in developed countries, but does not moderate the direct SES-reading paths](country-ses-moderates-skill-reading-paths-not-ses-reading.md) — related
 - [Composite SES indices predict phonological awareness more strongly than single SES indicators](composite-ses-index-stronger-predictor-phonological-awareness.md) — related

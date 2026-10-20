@@ -50,7 +50,7 @@ Interview study on misuse of data and consequences; thematic analysis identified
 - [Students' perceptions of the fairness of MMLA visualizations in an authentic nursing simulation deployment were mixed, hinging on accuracy and completeness of data representation](mmla-fairness-perceptions-mixed-accuracy.md) — related
 - K–8 MMLA studies rarely report data fusion techniques, ethics, and transparency despite collecting multimodal data — related
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](mmla-transparency-misconceptions-guesswork.md) — related
-- [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
+- [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
 - [Youth hold varied attitudes toward generative AI, with non-users citing concerns about helpfulness, academic integrity, knowledge, privacy, and awareness](youth-genai-attitudes-and-concerns.md) — related
 - Students' reservations about AI feedback centre on trustworthiness (data privacy) and goodwill (impersonal, demotivating feedback) — related
 - [Privacy and data protection was a critical governance theme, raised by over half the expert panel](privacy-data-protection-genai-governance-theme.md) — related

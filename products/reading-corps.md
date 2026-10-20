@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-corps
+moved_from: [element/reading-corps-tutoring-program]
 title: Reading Corps
 description: Reading Corps is an AmeriCorps programme operated through school and community partners that places trained tutors with K–3 students for supplemental evidence-based literacy instruction and assessment.
 product_kind: programme

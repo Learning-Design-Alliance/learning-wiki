@@ -1,6 +1,7 @@
 ---
 type: product
 id: new-leaders-for-new-schools-nlns
+moved_from: [element/nlns-principal-training-program]
 title: New Leaders for New Schools (NLNS)
 description: A leadership-development programme run by New Leaders for New Schools that prepares and supports urban public-school principals through intensive training, a mentored residency, seminars, and leadership coaching.
 product_kind: programme

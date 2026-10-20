@@ -1,6 +1,7 @@
 ---
 type: product
 id: project-quest
+moved_from: [element/project-quest-program-element]
 title: Project QUEST
 description: Project QUEST is a community-based programme that provides comprehensive support services to adults completing occupational training, certification, and employment pathways in targeted sectors.
 product_kind: programme

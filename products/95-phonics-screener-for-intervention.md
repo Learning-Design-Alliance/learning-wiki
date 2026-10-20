@@ -1,6 +1,7 @@
 ---
 type: product
 id: 95-phonics-screener-for-intervention
+moved_from: [element/95-phonics-screener-for-intervention-element]
 title: 95 Phonics Screener for Intervention
 description: The 95 Phonics Screener for Intervention is an early-literacy phonics screening and progress-monitoring assessment from 95 Percent Group used to identify students’ skill gaps and guide intervention.
 product_kind: assessment

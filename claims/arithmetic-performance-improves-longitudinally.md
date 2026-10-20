@@ -45,6 +45,6 @@ Longitudinal event-related fMRI task performance in 20 children scanned twice; r
 ## Related Claims
 - [Children with DD show slower reaction times than TD children during arithmetic problem solving, with no operation-specific RT effect](dd-slower-reaction-times-arithmetic.md) — related
 - [Children with developmental dyscalculia are disproportionately impaired on subtraction accuracy relative to addition, showing a significant group × operation interaction](dd-subtraction-accuracy-deficit-interaction.md) — related
-- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction but not addition](dd-subtraction-specific-parietal-hyperactivation.md) — related
+- [DD children show operation-specific hyperactivation: greater IPS, superior parietal lobule and fusiform activity during subtraction, while during addition only the right superior parietal lobule differs (lower in DD)](dd-subtraction-specific-parietal-hyperactivation.md) — related
 - [Engaging symbolic number representations does not by itself prime subsequent symbolic arithmetic: second test-set performance declined in both training groups](symbolic-activation-insufficient-to-prime-arithmetic.md) — reports the opposite
 - [Children shift from counting to memory-based retrieval strategies in single-digit addition over a 1.2-year interval in middle childhood](counting-to-retrieval-shift-longitudinal-childhood.md) — related

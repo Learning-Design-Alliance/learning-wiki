@@ -50,6 +50,6 @@ Longitudinal field research on 12 Annenberg schools over five years. The report 
 - [External partners played the central role in forming and running implementation networks, with most principal interaction directed at partners rather than other schools](external-partners-central-to-network-function.md) — related
 - [External partners' influence is necessarily limited by their minor role in schools' attention and activity](partner-influence-limited-by-minor-role-in-schools.md) — related
 - [Partner success varies substantially between schools based on teacher and administrator willingness to collaborate](partner-success-varies-by-school-willingness.md) — related
-- [External partners sparked documented improvements in instruction, parent involvement, and school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
+- [In selected Chicago schools, external partners sparked documented improvements in instruction, parent involvement, or school climate](partners-sparked-positive-changes-despite-limited-influence.md) — related
 - Strong state-level leadership is reported as a key enabler of school improvement efforts, including through resource allocation and dedicated teams — related
 - [Effective leadership plays a pivotal role in guiding digital transformation in educational organizations](leadership-pivotal-digital-transformation-education.md) — related

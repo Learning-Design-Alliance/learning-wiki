@@ -43,7 +43,7 @@ Given that reward prospect significantly improves IC, the authors propose using 
 ## Claims
 
 - [The effect of reward on inhibitory control is not moderated by participant age (children vs adults)](../claims/age-does-not-moderate-reward-effect-on-inhibitory-control.md) [+W]
-- [The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples](../claims/clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md) [+W]
+- [A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control](../claims/clinical-status-does-not-moderate-reward-effect-on-inhibitory-control.md) [+W]
 - [The prospect of reward for successful inhibition significantly improves inhibitory control (SMD = 0.429) compared with no-reward conditions](../claims/reward-prospect-improves-inhibitory-control-meta-analysis.md) [+W]
 - [The effect of reward on inhibitory control is not moderated by reward type (monetary vs points vs other)](../claims/reward-type-does-not-moderate-inhibitory-control-effect.md) [+W]
 - [The reward effect on inhibitory control is significant across all six IC task types, but task type significantly moderates the effect, with the largest effect in Stroop tasks](../claims/task-type-moderates-reward-effect-on-inhibitory-control.md) [+W]

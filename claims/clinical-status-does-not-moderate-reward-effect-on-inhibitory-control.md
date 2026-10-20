@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples
-description: The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples
+title: A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control
+description: A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control
 id: clinical-status-does-not-moderate-reward-effect-on-inhibitory-control
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 3
 ---
 
-# The effect of reward on inhibitory control is not moderated by clinical status, including ADHD and substance use disorder samples
+# A meta-analysis found no evidence that clinical status, including ADHD and substance use disorder samples, moderates the effect of reward on inhibitory control
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q4`
@@ -35,7 +35,7 @@ Burton, S., Knibb, G., & Jones, A. (2021). A meta-analytic investigation of the 
 
 `q4 · i?` · `quant-synthesis · r3`
 
-Exploratory moderator analyses on clinical samples versus healthy controls, including separate ADHD and SUD analyses. All three tests found no evidence of moderation.
+Exploratory moderator analyses on clinical samples versus healthy controls, including separate ADHD and SUD analyses. All three tests found no evidence of moderation; the authors note the clinical samples were heterogeneous and that they "did not have enough data to reliably investigate any differences by clinical diagnosis", so this is an absence of evidence, not a demonstrated absence of moderation.
 
 > "There was no evidence of moderation, χ2(1) = 2.179, p = .140. When examining ADHD samples versus healthy controls, there was no evidence of moderation, χ2(1) = 0.210, p = .646. Similarly, when examining SUD samples versus healthy controls, there was no evidence of moderation, χ2(1) = 0.609, p = .435."
 

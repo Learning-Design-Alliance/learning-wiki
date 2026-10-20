@@ -1,6 +1,7 @@
 ---
 type: product
 id: menu-of-measures
+moved_from: [element/menu-of-measures-middle-grades-math]
 title: Menu of Measures
 description: "A curated resource developed by Mathematica and a panel of mathematics-instruction and measurement researchers for Bill & Melinda Gates Foundation grantees, listing valid, reliable, and accessible measures of middle-grades mathematics outcomes."
 product_kind: framework

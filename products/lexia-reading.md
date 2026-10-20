@@ -1,6 +1,7 @@
 ---
 type: product
 id: lexia-reading
+moved_from: [element/lexia-reading-computerized-supplementary-phonics-program]
 title: Lexia Reading
 description: Lexia Reading is a computerized supplemental phonics and reading-skills practice program with adaptive independent practice and web-based progress reporting, developed and provided by Lexia Learning.
 product_kind: software

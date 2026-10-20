@@ -1,6 +1,7 @@
 ---
 type: product
 id: single-stop-usas-community-college-initiative
+moved_from: [element/single-stop-community-college-initiative-element]
 title: "Single Stop USA's Community College Initiative"
 description: A Single Stop USA programme delivered through community colleges that connects low-income students with benefits screening, application assistance, tax and legal services, and case management to address nonacademic barriers.
 product_kind: programme

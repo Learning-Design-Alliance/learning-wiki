@@ -1,6 +1,7 @@
 ---
 type: product
 id: www-entrez
+moved_from: [element/www-entrez-hypertext-retrieval-server, principle/complementary-delivery-modes-for-retrieval-tools, principle/easy-accurate-complete-access-motivates-retrieval-design]
 title: WWW Entrez
 description: WWW Entrez is an NCBI-developed World Wide Web interface for searching and linking MEDLINE and public nucleotide and protein sequence databases.
 product_kind: software

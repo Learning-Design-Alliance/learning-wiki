@@ -1,6 +1,7 @@
 ---
 type: product
 id: improving-chicagos-schools-biannual-survey
+moved_from: [element/improving-chicago-schools-survey-2005]
 title: "Improving Chicago's Schools biannual survey"
 description: "A biannual Consortium on Chicago School Research survey that collects students' reports on school experiences and educators' reports on instruction and working conditions across Chicago Public Schools."
 product_kind: assessment

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data
-description: The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data
+title: The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data
+description: The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data
 id: bkt-hmm-exponential-form-questions-fitting-practice
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data
+# The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r3` · `q1`
 
 ## Subclaims
-`q1 i?` Because the HMM form of BKT is intrinsically exponential while some studies report individual learning better described by a power law, the article argues these results call into question fitting the Markov model form of BKT to student data. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)
+`q1 i?` Because the Markov-chain form of BKT (which predicts the student-averaged probability of a correct application) has the functional form of an exponential, while some studies report individual learning better described by a power law, the article argues these results call into question fitting the Markov model form of BKT to student data. [→ Brett Van de Sande 2013](#brett-van-de-sande-2013)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Van de Sande, B. (2013). Properties of the Bayesian Knowledge Tracing Model. *Jo
 
 `q1 · i?` · `theoretical · r3`
 
-Authors' interpretation in the conclusion (type e), weighing the analytical exponential result against Heathcote et al.'s exponential account and Chi et al.'s finding that student learning of physics skills was better explained by a power law even for individual students. No new data are analyzed here.
+Authors' interpretation in the conclusion (type e), weighing the analytical exponential solution for the BKT Markov chain (the hidden Markov model form is analysed separately, by fixed-point analysis) against Heathcote et al.'s exponential account and Chi et al.'s finding that student learning of physics skills was better explained by a power law even for individual students. No new data are analyzed here.
 
 > "Together, these results call into question the popular practice of ﬁtting the Markov model form of BKT to student data. Perhaps a model that has power law behavior would work better?"
 

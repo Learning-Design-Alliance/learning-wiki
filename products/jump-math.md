@@ -1,6 +1,7 @@
 ---
 type: product
 id: jump-math
+moved_from: [element/jump-math-program-element]
 title: JUMP Math
 description: JUMP Math is a highly scaffolded K–8 mathematics curriculum and instructional program developed and delivered by JUMP Math, with detailed teacher guides and student practice and assessment materials.
 product_kind: curriculum

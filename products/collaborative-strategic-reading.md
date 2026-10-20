@@ -1,6 +1,7 @@
 ---
 type: product
 id: collaborative-strategic-reading
+moved_from: [element/collaborative-strategic-reading-program, element/csr-online-teacher-support-materials, strategy/collaborative-strategic-reading]
 title: Collaborative Strategic Reading
 description: A structured reading-comprehension program developed by Janette K.
 product_kind: programme

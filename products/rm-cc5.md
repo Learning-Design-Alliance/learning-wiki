@@ -1,6 +1,7 @@
 ---
 type: product
 id: rm-cc5
+moved_from: [theory/adaptive-blended-core-curriculum-program-theory-rm-cc5]
 title: RM-CC5
 description: RM-CC5 is a Grade 5 mathematics core curriculum that combines one-to-one adaptive technology, teacher data use, and implementation coaching.
 product_kind: curriculum

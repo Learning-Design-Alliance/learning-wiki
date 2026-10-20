@@ -1,6 +1,7 @@
 ---
 type: product
 id: promise-promoting-readiness-of-minors-in-supplemental-security-income
+moved_from: [element/promise-demonstration-ssi-youth-element]
 title: PROMISE (Promoting Readiness of Minors in Supplemental Security Income)
 description: A federal demonstration initiative evaluated for the Social Security Administration that provided services intended to improve education, employment, and long-term self-sufficiency among youth ages 14–16 receiving Supplemental Security Income.
 product_kind: programme

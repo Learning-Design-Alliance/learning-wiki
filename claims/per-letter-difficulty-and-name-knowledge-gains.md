@@ -66,6 +66,6 @@ Conditional per-letter probabilities (Table 7) computed from Model 2 random effe
 
 ## Related Claims
 - [Letter-name knowledge strongly predicts correct letter writing, especially for 4- and 5-year-olds](letter-name-knowledge-predicts-letter-writing.md) — related
-- [Letter-sound knowledge and phonological awareness contribute to letter writing but substantially less than letter-name knowledge](letter-sound-pa-smaller-contribution.md) — related
+- [Letter-sound knowledge and phonological awareness are associated with letter writing, but much less strongly than letter-name knowledge](letter-sound-pa-smaller-contribution.md) — related
 - [Letter type, letter order, textual frequency, number of strokes, and symmetry did not substantially or consistently contribute to letter writing](letter-features-null-for-letter-writing.md) — related
 - [Vowels were easier for 3- and 4-year-olds to write than CV letters](vowels-easier-to-write-young-preschoolers.md) — related

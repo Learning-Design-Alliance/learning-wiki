@@ -1,6 +1,7 @@
 ---
 type: product
 id: education-corps-in-person-high-dosage-literacy-tutoring-program-model
+moved_from: [element/education-corps-high-dosage-literacy-tutoring-program]
 title: Education Corps in-person high-dosage literacy tutoring program model
 description: Education Corps runs an in-person, high-dosage literacy tutoring programme that trains community tutors and supports them with Learning Coaches to provide small-group instruction for below-benchmark K–5 students, especially in grades K–3.
 product_kind: programme

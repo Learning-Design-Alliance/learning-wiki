@@ -1,6 +1,7 @@
 ---
 type: product
 id: learning-salon
+moved_from: [theory/learning-salon-five-phase-engagement-model]
 title: Learning Salon
 description: A structured, equity-focused engagement framework developed and run by the Learning Salon initiative to bring district leaders and BIPOC solution providers together to analyze problems of practice and co-design solutions.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: facing-history-and-ourselves
+moved_from: [element/facing-history-and-ourselves-curriculum]
 title: Facing History and Ourselves
 description: "A character-education curriculum developed and delivered by Facing History & Ourselves that uses historical events, especially the Holocaust, to help middle and high school students examine identity, moral reasoning, and civic responsibility."
 product_kind: curriculum

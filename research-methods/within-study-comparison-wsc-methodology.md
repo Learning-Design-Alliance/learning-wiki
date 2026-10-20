@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: within-study-comparison-wsc-methodology
+moved_from: [element/within-study-comparison-wsc-methodology, theory/within-study-comparison-rd-rct-cutoff]
 aliases: [rct-benchmark-design-for-validating-nonexperimental-charter-school-estimators, replication-approach-comparing-nonexperimental-estimates-to-experimental-itt-estimates-rat, synthetic-within-study-comparison-design-for-assessing-regression-discontinuity-performanc]
 title: Within-study comparison (WSC) methodology
 description: "A within-study comparison examines \"whether and in what context nonexperimental methods can successfully replicate the results of randomized experiments.\" The article situates its contribution in this growing literature and applies a WSC to charter school effects on student achievement, using a rand"

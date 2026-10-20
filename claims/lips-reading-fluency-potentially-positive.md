@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` Study authors found statistically significant effects favoring the LiPS group on the GORT–III Reading Accuracy and Reading Rate subtests (each effect size 0.43), but WWC analyses found neither comparison statistically significant. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)
+`q3 i2` Study authors found statistically significant effects favoring the LiPS group on the GORT–III Reading Accuracy and Reading Rate subtests, but WWC analyses found neither comparison statistically significant; the WWC-calculated effect size for each subtest was 0.43. [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)
 `q3 i2` The WWC-calculated average effect across the two fluency outcomes (effect size 0.43) was large enough to be considered substantively important under WWC criteria (at least 0.25). [→ What Works Clearinghouse 2010](#what-works-clearinghouse-2010)
 
 ## Evidence
@@ -36,7 +36,7 @@ What Works Clearinghouse, U.S. Department of Education. (2010). What Works Clear
 
 `q3 · i2` · `causal · r2`
 
-Posttest findings from the Torgesen et al. (2001) RCT (n = 50). Both GORT–III subtests showed a printed effect size of 0.43 favoring LiPS; WWC analyses found neither comparison statistically significant, but the average effect met the WWC substantively-important threshold of 0.25.
+Posttest findings from the Torgesen et al. (2001) RCT (n = 50). The authors reported significant effects on both GORT–III subtests; the WWC calculated an effect size of 0.43 favoring LiPS on each, and its analyses found neither comparison statistically significant, but the average effect met the WWC substantively-important threshold of 0.25.
 
 > "Torgesen et al. (2001) found statistically significant effects favoring the LiPS® group for two measures of reading fluency: the Reading Accuracy and Reading Rate subtests from the Gray Oral Reading Test–III."
 

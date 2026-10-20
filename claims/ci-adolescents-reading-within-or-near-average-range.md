@@ -46,4 +46,4 @@ Assessment of 112 CI-HS students on the PIAT-R against the normative sample of t
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
 - [Most adolescents with cochlear implants maintain their reading standing relative to hearing norms from elementary school to high school](ci-students-maintain-reading-standing-over-time.md) — related
 - [Shorter duration of deafness, higher performance IQ, and lack of sign enhancement predict higher literacy in adolescents with cochlear implants](duration-of-deafness-piq-sign-enhancement-predict-literacy.md) — related
-- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested
-description: Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested
+title: Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested
+description: Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested
 id: local-costs-independent-of-inhibition-working-memory
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested
+# Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` At all three ages, neither Go/No-Go nor Nebraska Barnyard performance interacted with trial type in local-cost models. [→ Chevalier N. 2012](#chevalier-n-2012)
+`q3 i?` At all three ages, neither Go/No-Go nor Nebraska Barnyard performance significantly interacted with trial type in local-cost models (the GNG interaction at 5;3 was near significance, p = .059); nonsignificance does not establish that they are unrelated. [→ Chevalier N. 2012](#chevalier-n-2012)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Chevalier N., Sheffield T. D., Nelson J. M., Clark C. A. C., Wiebe S. A., Espy K
 
 `q3 · i?` · `associational · r2`
 
-Multilevel local-cost models at ages 3;9, 4;6, and 5;3 found no GNG × trial type or NB × trial type interaction (p = .566 and p = .449 reported for the pattern), so "local costs did not depend on inhibition and working memory in this preschool age range."
+Multilevel local-cost models at ages 3;9, 4;6, and 5;3 found no significant GNG × trial type or NB × trial type interaction at any age (Table 3: GNG p = .566, .424 and .059; NB p = .449, .848 and .204 at 3;9, 4;6 and 5;3; the text quotes only the 3;9 values). The authors conclude that "local costs did not depend on inhibition and working memory in this preschool age range."
 
 > "At all ages, neither GNG performance nor NB interacted with trial type (p = .566 and p = .449, respectively), suggesting that local costs did not depend on inhibition and working memory in this preschool age range."
 

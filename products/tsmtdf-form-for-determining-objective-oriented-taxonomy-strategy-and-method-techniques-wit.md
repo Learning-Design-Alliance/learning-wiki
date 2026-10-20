@@ -1,6 +1,7 @@
 ---
 type: product
 id: tsmtdf-form-for-determining-objective-oriented-taxonomy-strategy-and-method-techniques-wit
+moved_from: [element/tsmtdf-determination-form]
 title: "TSMTDF: form for determining objective-oriented taxonomy, strategy, and method-techniques with scoring rubric"
 description: A researcher-developed open-ended form and rubric by Kaygısız et al.
 product_kind: assessment

@@ -63,5 +63,5 @@ Subgroup meta-analysis restricted to studies of victims only (k = 10). Victims w
 
 ## Related Claims
 
-- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](moderate-family-support-buffers-achievement.md) — related
+- [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](moderate-family-support-buffers-achievement.md) — related
 - [Bullying involvement is associated with lower cognitive-motivational factors, especially engagement, motivation and self-esteem](bullying-involvement-lower-cognitive-motivational-factors.md)

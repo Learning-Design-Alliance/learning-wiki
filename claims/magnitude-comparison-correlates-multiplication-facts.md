@@ -45,7 +45,7 @@ Correlational analysis (N = 63 fourth graders) with FDR correction found that ch
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance](nonsymbolic-multiplication-link-trial-type-independent.md) — related
+- [The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances](nonsymbolic-multiplication-link-trial-type-independent.md) — related
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Symbolic magnitude comparison contributes more unique variance to fourth graders' multiplication fact performance than nonsymbolic magnitude comparison](symbolic-beats-nonsymbolic-multiplication-variance.md) — related
 - [Numerical magnitude comparison explains significant unique variance in multiplication fact performance over and above phonological processing, intellectual ability, and general reaction time](magnitude-comparison-unique-variance-multiplication.md) — related

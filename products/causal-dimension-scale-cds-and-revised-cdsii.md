@@ -1,6 +1,7 @@
 ---
 type: product
 id: causal-dimension-scale-cds-and-revised-cdsii
+moved_from: [element/causal-dimension-scale-cds-cdsii]
 title: Causal Dimension Scale (CDS) and revised CDSII
 description: The CDS, developed by Russell, and its CDSII revision by McAuley, Duncan, and Russell are self-report assessments that measure perceived causal attributions across dimensions such as locus, stability, and controllability.
 product_kind: assessment

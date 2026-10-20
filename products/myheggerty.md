@@ -1,6 +1,7 @@
 ---
 type: product
 id: myheggerty
+moved_from: [element/myheggerty-digital-resources]
 title: myHeggerty
 description: "myHeggerty is Heggerty's digital platform providing optional resources for teachers' planning, professional learning, and classroom instruction."
 product_kind: software

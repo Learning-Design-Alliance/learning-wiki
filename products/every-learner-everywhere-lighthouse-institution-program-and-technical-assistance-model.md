@@ -1,6 +1,7 @@
 ---
 type: product
 id: every-learner-everywhere-lighthouse-institution-program-and-technical-assistance-model
+moved_from: [design/every-learner-everywhere-lighthouse-program]
 title: Every Learner Everywhere Lighthouse Institution Program and Technical Assistance Model
 description: A Gates Foundation-funded Every Learner Everywhere initiative in which a network of organizations helps participating colleges implement adaptive courseware in gateway courses through technical assistance, communities of practice, subgrants, and research support.
 product_kind: programme

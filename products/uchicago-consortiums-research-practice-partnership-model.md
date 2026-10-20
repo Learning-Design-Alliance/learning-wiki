@@ -1,6 +1,7 @@
 ---
 type: product
 id: uchicago-consortiums-research-practice-partnership-model
+moved_from: [theory/rpp-research-as-adaptive-infrastructure]
 title: "UChicago Consortium's research-practice partnership model"
 description: A University of Chicago Consortium framework that treats research as public, relational, and adaptive infrastructure through long-term, place-based, reciprocal partnerships with education practitioners and communities.
 product_kind: framework

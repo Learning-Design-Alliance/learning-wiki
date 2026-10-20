@@ -46,5 +46,5 @@ Value-added analysis comparing students to themselves in prior years, using admi
 
 - [Average effects of proximity to homicide are relatively small because they combine unaffected students with a subset facing much larger challenges](proximity-homicide-effects-small-heterogeneous.md) — related
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
-- [Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines](some-schools-mitigate-homicide-effects.md) — a narrower finding that bears on this claim
+- [Some high schools mitigated the typical negative effects of proximity to homicide: most student outcomes declined after a nearby homicide, but not all schools saw average declines](some-schools-mitigate-homicide-effects.md) — a narrower finding that bears on this claim
 - [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md)

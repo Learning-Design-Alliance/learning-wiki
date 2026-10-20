@@ -1,6 +1,7 @@
 ---
 type: product
 id: multilingual-assessment-instrument-of-narratives-main
+moved_from: [element/main-story-retell-narrative-assessment]
 title: Multilingual Assessment Instrument of Narratives (MAIN)
 description: "MAIN is a multilingual narrative assessment developed by an international research team to evaluate children's narrative production and comprehension through story-telling, story-retelling, or model-story tasks."
 product_kind: assessment

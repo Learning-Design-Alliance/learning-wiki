@@ -54,7 +54,7 @@ Haigh Sarah M., Walsh Jennifer A., Mazefsky Carla A., Minshew Nancy J., Eack Sha
 
 `q3 · i?` · `associational · r1`
 
-Correlational analysis of processing speed composite against Global Assessment of Functioning scores among 57 adults with ASD; the article reports "r (57) = .24, p = .06", a near-significant positive association, with no effect size beyond the correlation.
+Correlational analysis of processing speed composite against Global Assessment of Functioning scores among the 58 adults with ASD who had GAF data; the article reports "r (57) = .24, p = .06", a near-significant positive association, with no effect size beyond the correlation.
 
 > "There was a positive association that was nearing significance with participants’ processing speed composite scores and their GAF scores, r (57) = .24, p = .06, indicating better processing speed was associated with higher levels of functioning."
 

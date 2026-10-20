@@ -1,6 +1,7 @@
 ---
 type: product
 id: alf-augmented-lectures-feedback-system
+moved_from: [element/alf-augmented-lectures-feedback-system]
 title: ALF (Augmented Lectures Feedback System)
 description: "ALF is an augmented-reality classroom feedback system developed by Zarraonandia and colleagues that displays students' reported understanding and responses to teachers wearing AR glasses."
 product_kind: software

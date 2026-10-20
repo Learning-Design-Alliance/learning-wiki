@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: promotion-power-measure-of-school-effectiveness
+moved_from: [element/promotion-power-school-effectiveness-measure]
 title: Promotion power measure of school effectiveness
 description: "Promotion power is a measure of school effectiveness that the study defines as distinguishing \"a school's contributions to student outcomes from the contributions of the background characteristics of the students it serves.\" It accounts for prior achievement and other background characteristics, and"
 status: review

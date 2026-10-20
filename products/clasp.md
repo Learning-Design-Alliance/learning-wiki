@@ -1,6 +1,7 @@
 ---
 type: product
 id: clasp
+moved_from: [element/clasp-course-series-uc-davis, element/clasp-library-school-partnership-program, principle/library-school-joint-planning-principle]
 title: CLASP
 description: A three-quarter introductory physics curriculum for bioscience majors, developed and run at UC Davis and implemented in other university settings.
 product_kind: curriculum

@@ -1,6 +1,7 @@
 ---
 type: product
 id: emerging-technology-adoption-framework
+moved_from: [element/emerging-tech-adoption-framework-instrument]
 title: Emerging Technology Adoption Framework
 description: A living edtech evaluation and procurement framework developed by Digital Promise and Educator CIRCLS, organizing stakeholder questions and criteria across initial evaluation, adoption, and post-adoption stages.
 product_kind: framework

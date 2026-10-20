@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: hypothesis-testing-framework-for-computing-error-rates-of-value-added-performance-measurem
+moved_from: [theory/hypothesis-testing-error-rate-framework-value-added]
 title: Hypothesis-testing framework for computing error rates of value-added performance measurement systems
 description: "The report frames teacher and school performance measurement as a hypothesis-testing problem, in which a decision (for example, whether an educator's performance differs from the average) can be a true positive, false positive, true negative, or false negative."
 status: review

@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: bootstrapping-adjustment-ba-method-for-item-parameter-bias-reduction
+moved_from: [element/bootstrapping-adjustment-ba-method]
 title: Bootstrapping adjustment (BA) method for item parameter bias reduction
 description: BA is one of two item parameter adjustment methods proposed in the article, reducing biases in both item difficulty and item discrimination parameters using statistical bootstrapping.
 status: review

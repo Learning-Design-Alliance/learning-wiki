@@ -1,6 +1,7 @@
 ---
 type: product
 id: standards-of-excellence-for-outcomes-based-contracting
+moved_from: [theory/obc-five-domains-edtech-contract]
 title: Standards of Excellence for Outcomes Based Contracting™
 description: A framework from COBC that organizes outcomes-based edtech contracting around population and program definition, outcomes and metrics, contingent payment, mutual accountability, and continuous improvement.
 product_kind: framework

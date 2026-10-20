@@ -1,6 +1,7 @@
 ---
 type: product
 id: fraction-face-off
+moved_from: [design/fraction-face-off-dosage-three-times-weekly-12-weeks, design/fraction-face-off-four-activity-lesson-structure, element/fraction-face-off-program, element/fraction-face-off-program-element]
 title: "Fraction Face-Off!"
 description: "Fraction Face-Off!"
 product_kind: programme

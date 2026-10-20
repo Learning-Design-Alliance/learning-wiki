@@ -1,6 +1,7 @@
 ---
 type: product
 id: magma-math
+moved_from: [element/magma-math-platform-element]
 title: Magma Math
 description: Magma Math is a browser- and iPad-based digital mathematics learning platform developed and operated by Magma Math for students in grades 4–8.
 product_kind: software

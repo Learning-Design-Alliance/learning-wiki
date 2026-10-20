@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: rasch-rating-scale-analysis-for-deriving-educational-survey-measures
+moved_from: [element/rasch-rating-scale-survey-measure-methodology]
 title: Rasch rating-scale analysis for deriving educational survey measures
 description: "The authors derive survey measures or scales through Rasch rating-scale analysis, an item response latent-trait model in which \"Survey items are used to define a measure based on the relative probability of a respondent choosing each category on each item.\" Individuals are placed on the scale from t"
 status: review

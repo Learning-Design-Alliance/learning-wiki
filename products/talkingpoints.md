@@ -1,6 +1,7 @@
 ---
 type: product
 id: talkingpoints
+moved_from: [element/talkingpoints-universal-family-engagement-platform]
 title: TalkingPoints
 description: "TalkingPoints is an education technology nonprofit's platform that provides universally designed, auto-translated two-way communication and guidance for family-school partnerships."
 product_kind: software

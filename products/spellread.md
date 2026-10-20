@@ -1,6 +1,7 @@
 ---
 type: product
 id: spellread
+moved_from: [design/spellread-three-phase-structure, element/spellread-program, element/spellread-program-element]
 title: SpellRead™
 description: SpellRead™ is a structured literacy programme for struggling readers in grade 2 and above, delivered through systematic explicit auditory and visual reading instruction in small groups and supported by an instructor monitoring system.
 product_kind: programme

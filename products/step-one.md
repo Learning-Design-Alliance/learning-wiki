@@ -1,6 +1,7 @@
 ---
 type: product
 id: step-one
+moved_from: [element/step-one-age-friendly-esl-curriculum]
 title: Step One
 description: Step One is a free age-friendly pre-beginning ESL and U.S.
 product_kind: curriculum

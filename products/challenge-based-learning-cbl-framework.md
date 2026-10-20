@@ -1,6 +1,7 @@
 ---
 type: product
 id: challenge-based-learning-cbl-framework
+moved_from: [theory/challenge-based-learning-three-phase-framework]
 title: Challenge Based Learning (CBL) Framework
 description: A challenge-driven learning framework developed and maintained through Apple-supported Challenge Based Learning initiatives for educators and learners working on authentic real-world challenges.
 product_kind: framework

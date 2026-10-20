@@ -48,7 +48,7 @@ The final multilevel model on repeated vocabulary measures included enjoyment, b
 
 ## Related Claims
 - [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
-- [English vocabulary correlates with metacognitive monitoring and control at both time points, but only with the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
-- [Better metacognitive monitoring and control at the start of the year predict lower boredom and anxiety about English at year's end](early-metacognition-predicts-later-negative-emotions.md) — related
+- [English vocabulary correlates with confidence and metacognitive control at both time points but with monitoring accuracy only at T0, and with only the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
+- [Better metacognitive monitoring and control at the start of the year are correlated with lower boredom and anxiety about English at year's end](early-metacognition-predicts-later-negative-emotions.md) — related
 - [Academic emotions—enjoyment, anxiety, and boredom—mediate the association between perceived AI-adaptive environments and SRL, accounting for 54.8% of the total effect](academic-emotions-mediate-ai-environment-srl.md) — related
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](metacognition-predicts-l2-vocabulary-growth-primary-school.md) — related

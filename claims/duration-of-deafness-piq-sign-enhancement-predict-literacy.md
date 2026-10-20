@@ -48,7 +48,7 @@ Step-wise regression on 112 CI-HS students (Table 4). Child characteristics ente
 
 ## Related Claims
 - [Adolescents with cochlear implants implanted by preschool age score just below the average range on standardized reading tests, with 47-66% within or above hearing norms](ci-adolescents-reading-within-or-near-average-range.md) — related
-- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, with a bimodal distribution of spelling ability](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
+- [Adolescents with cochlear implants spell significantly less accurately than hearing peers, though 55% spell within one standard deviation of them and 45% two or more below](ci-adolescents-spelling-poorer-than-hearing-peers.md) — related
 - [Current adolescent characteristics including digit span, sentence duration and sign enhancement predict high school language outcomes](late-predictors-ci-high-school-language.md) — related
 - [Phonological processing skills account for 38.3% of variance in adolescent literacy after controlling for child, family, and implant characteristics](phonological-processing-predicts-ci-literacy-variance.md) — related
 - [Sign enhancement predicts high school language in opposite directions at elementary versus adolescent measurement](sign-enhancement-direction-reversal.md) — related

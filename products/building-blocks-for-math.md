@@ -1,6 +1,7 @@
 ---
 type: product
 id: building-blocks-for-math
+moved_from: [theory/building-blocks-learning-trajectories]
 aliases: [building-blocks]
 title: Building Blocks for Math
 description: "A preschool mathematics curriculum from SRA Real Math that sequences instruction and software tasks along empirically based learning trajectories linking children's informal mathematical knowledge to formal concepts."

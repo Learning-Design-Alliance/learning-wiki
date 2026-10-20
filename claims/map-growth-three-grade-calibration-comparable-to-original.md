@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit
-description: Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit
+title: Item difficulty estimates from target-plus-adjacent-grade samples generally differ from original estimates about as much as on-grade estimates do, with mean differences within 0.11 logit
+description: Item difficulty estimates from target-plus-adjacent-grade samples generally differ from original estimates about as much as on-grade estimates do, with mean differences within 0.11 logit
 id: map-growth-three-grade-calibration-comparable-to-original
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Item difficulty estimates from target-plus-adjacent-grade samples differ no more from original estimates than on-grade estimates do, with a largest average difference of 0.05 logit
+# Item difficulty estimates from target-plus-adjacent-grade samples generally differ from original estimates about as much as on-grade estimates do, with mean differences within 0.11 logit
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In Study 2 (Grades 4–7), differences between three-grade and original estimates are no different from on-grade versus original differences; the largest average difference was 0.05 logit in Grade 7 math. [→ Wei He 2021](#wei-he-2021)
+`q2 i?` In Study 2 (Grades 4–7), the report says differences between three-grade and original estimates are "in general" no different from on-grade versus original differences; mean three-grade-minus-original differences ranged from −0.11 logit (Grade 5 math) to 0.01, and the 0.05 logit the report calls the largest average difference is the largest gap between the two columns (Grade 7 math). [→ Wei He 2021](#wei-he-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Wei He, NWEA Psychometric Solutions. (2021). An Investigation of Item Parameter 
 
 `q2 · i?` · `associational · r2`
 
-Study 2 recalibrated Grades 4–7 items with target-plus-two-adjacent-grade samples (Table 3.6, Figure 3.6). The report states "The magnitude of the largest average difference is 0.05 logit in Grade 7 math," and most items' differences were within 0.3 logit, with a few math and reading items exceeding 1 logit.
+Study 2 recalibrated Grades 4–7 items with target-plus-two-adjacent-grade samples (Table 3.6, Figure 3.6). The report states "The magnitude of the largest average difference is 0.05 logit in Grade 7 math"; in Table 3.6 that figure matches the largest gap between the three-grade and on-grade mean-difference columns (Grade 7 math, −0.03 vs −0.08), while the largest three-grade-versus-original mean difference is −0.11 logit (Grade 5 math, against −0.09 on-grade), and in several rows the three-grade difference is slightly the larger. Most items' differences were within 0.3 logit, with a few math and reading items exceeding 1 logit.
 
 > "The magnitude of the largest average difference is 0.05 logit in Grade 7 math. As expected, using responses from three grades tended to increase the calibration sample size by at least two times for almost all grades."
 

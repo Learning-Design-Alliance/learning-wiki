@@ -1,6 +1,7 @@
 ---
 type: product
 id: lenses
+moved_from: [design/digital-platform-scaffolding-formative-assessment-principle]
 title: Lenses
 description: Lenses is a hybrid print-and-digital instructional programme run by teachers to provide differentiated scaffolding and formative assessment with standards-aligned rubrics.
 product_kind: programme

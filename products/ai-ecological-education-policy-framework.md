@@ -1,6 +1,7 @@
 ---
 type: product
 id: ai-ecological-education-policy-framework
+moved_from: [theory/ai-ecological-education-policy-framework]
 title: AI Ecological Education Policy Framework
 description: A framework proposed by Chan for guiding institutional AI integration through pedagogical, governance, and operational dimensions.
 product_kind: framework

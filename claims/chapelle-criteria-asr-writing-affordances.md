@@ -45,4 +45,4 @@ Authors' interpretation (type e) in the Results and discussion section, mapping 
 ## Related Claims
 - [Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest](tam-construct-means-asr-writing-study.md) — related
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](esl-learners-positive-perceptions-asr-writing.md) — a broader claim this one bears on
-- [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](low-proficiency-intelligibility-barrier-asr.md) — reports the opposite
+- [Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive](low-proficiency-intelligibility-barrier-asr.md) — reports the opposite

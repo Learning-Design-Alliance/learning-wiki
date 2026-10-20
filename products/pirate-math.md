@@ -1,6 +1,7 @@
 ---
 type: product
 id: pirate-math
+moved_from: [design/gold-coin-treasure-map-reward-pattern, design/one-to-one-supplemental-math-tutoring, element/pirate-math-program-element]
 title: Pirate Math
 description: Pirate Math is a one-to-one mathematics tutoring programme for third-grade students with calculation and word-problem difficulties, delivered through structured sessions using counting-up and missing-number strategies with a treasure-map reward system.
 product_kind: programme

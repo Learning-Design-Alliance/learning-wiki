@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-apprenticeship
+moved_from: [element/reading-apprenticeship-academic-literacy-curriculum, element/reading-apprenticeship-professional-development-program, element/reading-apprenticeship-program-family, theory/reading-apprenticeship-four-dimensions-framework]
 title: Reading Apprenticeship
 description: "Reading Apprenticeship® is a secondary-school academic literacy curriculum and professional-learning programme developed and provided by WestEd to support students' reading comprehension, engagement, and metacognitive awareness."
 product_kind: curriculum

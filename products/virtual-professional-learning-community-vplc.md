@@ -1,6 +1,7 @@
 ---
 type: product
 id: virtual-professional-learning-community-vplc
+moved_from: [design/vplc-scalable-professional-learning-model]
 title: Virtual professional learning community (vPLC)
 description: The vPLC is a scalable professional-learning programme run by the ASSISTments initiative to help teachers, especially in rural and underresourced settings, implement ASSISTments effectively.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: fall-2020-map-growth-remote-versus-in-person-comparability-dataset
+moved_from: [element/map-growth-fall-2020-comparability-dataset]
 title: Fall 2020 MAP Growth remote-versus-in-person comparability dataset
 description: A dataset of fall 2020 NWEA MAP Growth assessment scores from more than 535,000 K–8 students in 147 districts, assembled and analyzed by Megan Kuhfeld and colleagues to compare remotely and in-person administered tests.
 product_kind: dataset

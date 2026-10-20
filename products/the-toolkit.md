@@ -1,6 +1,7 @@
 ---
 type: product
 id: the-toolkit
+moved_from: [design/four-piece-toolkit-planning-evaluation-architecture, pattern/five-core-areas-classroom-technology-use]
 title: the Toolkit
 description: The Toolkit is a four-part framework created by its authors to help teachers plan, implement, and evaluate technology-based lessons.
 product_kind: framework

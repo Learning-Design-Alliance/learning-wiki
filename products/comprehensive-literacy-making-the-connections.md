@@ -1,6 +1,7 @@
 ---
 type: product
 id: comprehensive-literacy-making-the-connections
+moved_from: [element/greenfield-comprehensive-literacy-making-connections]
 title: "Comprehensive Literacy: Making the Connections"
 description: A 10-session professional learning programme developed and delivered by Greenfield Learning to support educators, literacy specialists, and curriculum developers in research-informed literacy instruction, including support for multilingual and neurodivergent learners.
 product_kind: programme

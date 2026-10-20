@@ -1,6 +1,7 @@
 ---
 type: product
 id: eight-scale-instrument-for-classifying-teaching-style
+moved_from: [element/eight-teaching-style-scales-garfunkel]
 title: Eight-scale instrument for classifying teaching style
 description: A behavioral-recording and rating instrument developed by Garfunkel for describing classroom atmosphere and teaching style across eight bipolar scales.
 product_kind: assessment

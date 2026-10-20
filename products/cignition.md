@@ -1,6 +1,7 @@
 ---
 type: product
 id: cignition
+moved_from: [element/cignition-online-tutoring-fogstone-isle, element/cignition-virtual-group-math-tutoring]
 title: Cignition
 description: Cignition is an online mathematics tutoring programme that combines one-to-one teacher tutoring with the FogStone Isle fractions game, operated by Cignition Learning.
 product_kind: programme

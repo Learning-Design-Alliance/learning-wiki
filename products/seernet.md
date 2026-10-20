@@ -1,6 +1,7 @@
 ---
 type: product
 id: seernet
+moved_from: [element/seernet-dlp-research-infrastructure, element/seernet-dlp-research-infrastructure-network, element/seernet-five-dlps-hub, element/seernet-network-element, element/seernet-office-hours-co-design, element/seernet-research-guide-and-proposal-resources, element/seernet-rfa-feasibility-letter-process, element/seernet-shared-platform-rd-infrastructure, theory/dlp-research-infrastructure-seernet-framework, theory/seernet-four-better-aspirations]
 title: SEERNet
 description: SEERNet is an Institute of Education Sciences-funded network that supports responsible, inclusive, theory-driven research using data from digital learning platforms through shared infrastructure, governance, datasets, and research-practice partnerships.
 product_kind: programme

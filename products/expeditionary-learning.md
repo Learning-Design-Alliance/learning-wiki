@@ -1,6 +1,7 @@
 ---
 type: product
 id: expeditionary-learning
+moved_from: [element/expeditionary-learning-model-schools]
 title: Expeditionary Learning
 description: A whole-school educational model developed and supported by EL Education that organizes schools around experiential, project-based learning and related schoolwide practices.
 product_kind: programme

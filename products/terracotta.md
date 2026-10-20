@@ -1,6 +1,7 @@
 ---
 type: product
 id: terracotta
+moved_from: [element/canvas-terracotta-experiment-tool, element/terracotta-canvas-research-platform]
 title: Terracotta
 description: "Terracotta is a software tool developed by the article's researchers that integrates with Canvas to automate consent, random assignment, data collection, and de-identified exports for embedded learning experiments."
 product_kind: software

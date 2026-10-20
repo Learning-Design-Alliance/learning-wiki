@@ -43,7 +43,7 @@ The report's Takeaways section sets forth five questions for policymakers: movin
 
 - [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](../claims/california-ece-serves-minority-of-eligible-children.md) [~W]
 - [U.S. ECE governance is fragmented across multiple federal and state agencies, creating an incoherent patchwork of programs](../claims/ece-governance-fragmented-multi-agency.md) [+W]
-- [California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children](../claims/california-ece-uneven-quality-standards.md) [+W]
+- [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](../claims/california-ece-uneven-quality-standards.md) [+W]
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](../claims/california-infant-toddler-ece-access-14-percent.md) [+W]
 
 ## Related Strategies

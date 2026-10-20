@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: early-warning-indicator-construction
+moved_from: [element/school-child-welfare-data-predictive-risk-model]
 aliases:
   - early-warning-and-college-readiness-indicator-construction
 title: Early-warning indicator construction

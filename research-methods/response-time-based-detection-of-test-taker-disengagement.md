@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: response-time-based-detection-of-test-taker-disengagement
+moved_from: [element/response-time-disengagement-identification-method, theory/cessation-of-measurement-disengagement-framework]
 aliases: [item-response-time-analysis-for-detecting-test-disengagement]
 title: Response-time-based detection of test taker disengagement
 description: The chapter describes a capability for identifying test taker disengagement using response time, which underlies its analysis of what happens when test takers disengage and how disengagement should be managed during scoring.

@@ -1,6 +1,7 @@
 ---
 type: product
 id: funder-reflection-and-action-tool
+moved_from: [element/funder-reflection-tool-place-based-systems-change]
 title: Funder reflection and action tool
 description: A structured organizational self-assessment tool developed by Meg Long and colleagues to help funders evaluate whether their strategic intent, culture, and capacity support place-based systems-change investing.
 product_kind: assessment

@@ -1,6 +1,7 @@
 ---
 type: product
 id: learnplansucceed
+moved_from: [design/learn-plan-succeed-ilp-initiative]
 title: Learn.Plan.Succeed.
 description: Learn.Plan.Succeed.
 product_kind: programme

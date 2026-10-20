@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-assessment-of-educational-progress-naep
+moved_from: [element/naep-data-dc-reform-testimony]
 title: National Assessment of Educational Progress (NAEP)
 description: NAEP is a recurring national student assessment administered by the National Center for Education Statistics to measure achievement and trends across subjects and jurisdictions.
 product_kind: assessment

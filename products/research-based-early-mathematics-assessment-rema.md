@@ -1,6 +1,7 @@
 ---
 type: product
 id: research-based-early-mathematics-assessment-rema
+moved_from: [element/rema-research-based-early-mathematics-assessment]
 title: Research-Based Early Mathematics Assessment (REMA)
 description: "The Research-Based Early Mathematics Assessment (REMA), developed by Clements and Sarama, is an early mathematics outcome measure used to assess preschool children's mathematical achievement."
 product_kind: assessment

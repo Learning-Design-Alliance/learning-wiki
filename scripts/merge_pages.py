@@ -201,7 +201,15 @@ def merge(kind: str, keep: str, fold: str, apply: bool, note: str = DUPLICATE) -
         text = kp.read_text(encoding="utf-8")
         kfm2, rest = pid.split_fm(text)
         if fold in pid.read_aliases(kfm2) and fold not in pid.read_aliases(kfm):
-            kp.write_text("---\n" + pid.remove_alias(kfm2, fold) + rest, encoding="utf-8")
+            kfm2 = pid.remove_alias(kfm2, fold)
+        # What the alias cannot do, moved_from does: build_wiki_index.py publishes it as the
+        # `moved` map, so a design document naming the old id (`strategy: good-behavior-game`)
+        # can still be pointed at this page. The folded page's own aliases moved with it.
+        from build_wiki_index import KINDS
+        old_kind = KINDS.get(fold_kind, fold_kind)
+        for old in [fold, *pid.read_aliases(ffm)]:
+            kfm2 = pid.add_moved_from(kfm2, f"{old_kind}/{old}")
+        kp.write_text("---\n" + kfm2 + rest, encoding="utf-8")
     return f"folded {fold_kind}/{fold} into {kind}/{keep}: +{moved} bullet(s)"
 
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: toolkit-for-building-a-virtual-learning-cohort
+moved_from: [element/virtual-learning-cohort-toolkit]
 title: Toolkit for Building a Virtual Learning Cohort
 description: A Mathematica toolkit that helps facilitators plan and evaluate virtual learning cohorts through guiding values and ten transferable planning tools.
 product_kind: framework

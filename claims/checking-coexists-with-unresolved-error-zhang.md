@@ -35,7 +35,7 @@ Wei J and Shang Y (2026). Beyond checking: verification quality, reliance calibr
 
 `q2 · i?` · `review · r2`
 
-Think-aloud case study of 15 students using ChatGPT (GPT-3.5, Oct–Dec 2023) on two academic tasks with known plausible falsehoods; LLM self-checking and external cross-checking were observed and final accuracy scored. The review reports "Seven students failed Task 1 despite self-checking or external cross-checking".
+Mini Review; this entry is its summary (text and evidence table) of one reviewed study, Zhang et al. (2025), a think-aloud case study of 15 students using ChatGPT (GPT-3.5, Oct–Dec 2023) on two academic tasks with known plausible falsehoods; LLM self-checking and external cross-checking were observed and final accuracy scored. The review reports "Seven students failed Task 1 despite self-checking or external cross-checking".
 
 > "Zhang et al. (2025) asked 15 students to complete two tasks containing plausible LLM falsehoods while thinking aloud and using external sources. Seven students failed Task 1 despite self-checking or external cross-checking (46.7%; Wilson 95% CI, 24.8%–69.9%)."
 

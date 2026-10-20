@@ -1,6 +1,7 @@
 ---
 type: element
 id: conceptual-questioning
+moved_from: [pattern/productive-ambiguity-task-design-for-assumptions]
 title: Conceptual Questioning
 description: Learners answer thought-provoking questions designed to challenge assumptions and deepen understanding.
 canonical: true

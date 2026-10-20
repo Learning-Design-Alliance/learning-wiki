@@ -1,6 +1,7 @@
 ---
 type: product
 id: content-focused-coaching
+moved_from: [element/content-focused-coaching-program]
 title: Content-Focused Coaching
 description: Content-Focused Coaching is a literacy-focused professional-development and instructional-coaching programme in which trained district coaches support teachers through demonstrations, grade-level meetings, co-teaching, observation, and feedback.
 product_kind: programme

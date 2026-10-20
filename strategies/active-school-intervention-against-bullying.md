@@ -38,13 +38,13 @@ The article recommends that schools take a more active role in tackling bullying
 
 ## Claims
 
-- [Social support from friends and family does not buffer the effect of bullying on depressive symptoms](../claims/social-support-no-buffer-depression.md) [+W]
+- [In an East London adolescent cohort, adjusting for friend or family support barely changed the association between being bullied and boys' later depressive symptoms, which the authors read as support not being sufficient protection](../claims/social-support-no-buffer-depression.md) [+W]
 - [Bullying predicts depressive symptoms two years later for boys but not for girls](../claims/bullying-depressive-symptoms-boys-not-girls.md) [+W]
 - [Bullied adolescents are about half as likely to reach the national academic achievement benchmark for their age group two years later](../claims/bullying-lower-achievement-benchmark-odds.md) [+W]
 - [Adolescents with moderate or high friend support are about half as likely to report being bullied](../claims/friend-support-lower-bullying-likelihood.md) [~W]
 - [High family social support is associated with lower odds of depressive symptoms](../claims/high-family-support-lower-depression.md) [~W]
 - [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](../claims/high-friend-support-buffers-achievement-effect.md) [~W]
-- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](../claims/moderate-family-support-buffers-achievement.md) [~W]
+- [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](../claims/moderate-family-support-buffers-achievement.md) [~W]
 
 ## Related Strategies
 

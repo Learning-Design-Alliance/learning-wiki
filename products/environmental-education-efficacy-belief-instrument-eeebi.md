@@ -1,6 +1,7 @@
 ---
 type: product
 id: environmental-education-efficacy-belief-instrument-eeebi
+moved_from: [element/eeebi-environmental-education-efficacy-belief-instrument]
 title: Environmental Education Efficacy Belief Instrument (EEEBI)
 description: Developed by Sia (1992), the EEEBI is a 23-item Likert-type assessment of preservice teachers’ personal environmental-education teaching efficacy and outcome expectancy beliefs.
 product_kind: assessment

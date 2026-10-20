@@ -1,6 +1,7 @@
 ---
 type: product
 id: too-good-for-drugs-and-violence
+moved_from: [element/tgfdv-high-school-curriculum]
 title: Too Good for Drugs and Violence
 description: A school-based character education curriculum developed by the Mendez Foundation for promoting prosocial skills, positive character traits, and drug- and violence-free norms among students.
 product_kind: curriculum

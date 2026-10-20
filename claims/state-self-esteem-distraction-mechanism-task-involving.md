@@ -62,7 +62,7 @@ PROCESS Model 92 moderated serial mediation (PP→state self-esteem→trials→p
 
 
 ## Related Claims
-- [Students generally attempted fewer items under ego-involving than task-involving feedback, but this gap disappeared among praised students](feedback-manner-main-effect-motivation-gap-closes-with-praise.md) — related
+- [Students generally attempted fewer items under ego-involving than task-involving feedback, but among praised students the gap was not significant](feedback-manner-main-effect-motivation-gap-closes-with-praise.md) — related
 - [Person praise and feedback manner significantly interact on task motivation, such that praise raises trials under ego-involving feedback and lowers them under task-involving feedback](person-praise-feedback-manner-interaction-motivation.md) — related
 - [Under task-involving feedback, pre-task person praise reduces motivation and indirectly lowers task performance; under ego-involving feedback it indirectly raises performance](person-praise-indirect-performance-via-motivation.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related

@@ -1,6 +1,7 @@
 ---
 type: product
 id: lexia-core5-reading
+moved_from: [element/lexia-core5-reading-program, element/lexia-core5-reading-program-element]
 title: Lexia Core5 Reading
 description: "Lexia Learning's Lexia Core5 Reading is a blended digital literacy programme for pre-K–5 students that provides personalized foundational-reading instruction, embedded assessment, and teacher support resources."
 product_kind: programme

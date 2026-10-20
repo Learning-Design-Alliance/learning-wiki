@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-guard-youth-challenge-program
+moved_from: [design/three-phase-residential-quasi-military-mentoring-pattern, element/national-guard-youth-challenge-program-element]
 title: National Guard Youth ChalleNGe Program
 description: A National Guard-run residential programme for youth ages 16–18 who have left or been expelled from high school, combining GED preparation with quasi-military training and leadership, citizenship, service, life-skills, fitness, health, job-skills, and academic components.
 product_kind: programme

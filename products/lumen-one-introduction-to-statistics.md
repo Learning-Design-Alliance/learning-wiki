@@ -1,6 +1,7 @@
 ---
 type: product
 id: lumen-one-introduction-to-statistics
+moved_from: [element/lumen-one-intro-statistics-courseware]
 title: Lumen One Introduction to Statistics
 description: "Lumen Learning's online statistics courseware replaces or supplements textbooks with segmented multimedia content, interactive practice, study supports, and instructor-facing engagement and intervention tools."
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: principle
 id: summative-assessment
+moved_from: [pattern/summative-assessment]
 aliases: [high-stakes-testing-accountability-effects]
 title: Summative Assessment
 description: "An end-of-unit or end-of-course judgment is expected to report a capability fairly, and steer study towards it, when it samples the capability at the outcome's level with several tasks, uses criteria and a cut set in advance, follows low-stakes practice of the same thinking, and adds no demand such as speed or anxiety that the capability lacks; no claim here tests summative assessment as a design."

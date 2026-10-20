@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promises-inclusive-innovation-model
+moved_from: [theory/collaborative-innovation-model, theory/context-expertise-four-types-framework, theory/inclusive-innovation-equity-centered-rd-process, theory/inclusive-innovation-equity-first-rd-framework, theory/inclusive-innovation-framework, theory/inclusive-innovation-model-core-tenets, theory/inclusive-innovation-six-tenets-framework]
 aliases: [inclusive-innovation]
 title: "Digital Promise's Inclusive Innovation model"
 description: An equity-centered research-and-development framework created by Digital Promise that places historically marginalized communities at the center of identifying, designing, developing, and implementing educational and workforce technologies.

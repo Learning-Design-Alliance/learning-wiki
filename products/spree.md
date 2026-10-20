@@ -1,6 +1,7 @@
 ---
 type: product
 id: spree
+moved_from: [theory/spree-scaling-process-framework]
 title: SPREE
 description: A process developed and applied by the Corporation for National and Community Service to help funders and grantees evaluate, select, and scale evidence-based interventions.
 product_kind: framework

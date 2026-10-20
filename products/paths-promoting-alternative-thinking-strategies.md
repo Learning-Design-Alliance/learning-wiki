@@ -1,6 +1,7 @@
 ---
 type: product
 id: paths-promoting-alternative-thinking-strategies
+moved_from: [element/paths-curriculum-fast-track-classroom-lessons, element/paths-emotional-literacy-curriculum, theory/abcd-model-paths-foundation]
 title: PATHS (Promoting Alternative THinking Strategies)
 description: The Promoting Alternative THinking Strategies (PATHS) curriculum is a classroom-delivered social-emotional learning program developed for teaching emotional understanding, communication, friendship skills, self-control, and social problem solving.
 product_kind: curriculum

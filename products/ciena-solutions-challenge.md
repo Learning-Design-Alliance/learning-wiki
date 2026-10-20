@@ -1,6 +1,7 @@
 ---
 type: product
 id: ciena-solutions-challenge
+moved_from: [element/cbl-free-resource-set-ciena-challenge, element/ciena-solutions-challenge-program]
 title: Ciena Solutions Challenge
 description: "Ciena's challenge-based learning initiative provides educators and students with global problem-solving projects, a resource library, facilitation guidance, a challenge builder, and related learning materials."
 product_kind: programme

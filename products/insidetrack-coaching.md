@@ -1,6 +1,7 @@
 ---
 type: product
 id: insidetrack-coaching
+moved_from: [element/insidetrack-coaching-program-element, element/ucoach-technology-platform]
 title: InsideTrack Coaching
 description: InsideTrack© Coaching is a postsecondary student-support programme run by InsideTrack that provides proactive, personalized coaching through multiple communication channels to help students overcome academic and non-academic barriers to persistence and graduation.
 product_kind: programme

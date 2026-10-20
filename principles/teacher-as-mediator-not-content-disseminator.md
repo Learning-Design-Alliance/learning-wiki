@@ -1,6 +1,7 @@
 ---
 type: principle
 id: teacher-as-mediator-not-content-disseminator
+moved_from: [pattern/guided-participation-five-components, pattern/scmc-da-mediation-typology, pattern/teacher-explicitness-talk-pattern]
 aliases: [dual-teacher-role-acquisition-and-learning, teacher-as-facilitator-constructivist-classroom, teacher-as-facilitator-for-discovery, writing-teacher-as-facilitator-not-lecturer, teacher-as-designer-guider-consultant, provide-experiences-not-direct-teaching-sla, activity-centered-science-teaching, input-processing-focus-on-form-over-focus-on-forms, teacher-preparation-enhance-learning-potential]
 title: Educators should act as mediators and facilitators of learning rather than content disseminators
 description: "For learners working toward understanding they can use, a teacher who states the goal, organizes a task learners act on, questions and helps contingently while they work, and has them explain and transfer what they understood is expected to yield more engagement and usable understanding than presenting the content, provided novices still get explicit guidance; no claim in the wiki tests the teacher's role directly, only neighbouring comparisons (active learning against lecture, teacher-led against student-led inquiry)."

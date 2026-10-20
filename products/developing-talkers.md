@@ -1,6 +1,7 @@
 ---
 type: product
 id: developing-talkers
+moved_from: [element/developing-talkers-academic-language-curriculum]
 title: Developing Talkers
 description: Developing Talkers is a supplemental pre-kindergarten and kindergarten curriculum developed by Tricia A.
 product_kind: curriculum

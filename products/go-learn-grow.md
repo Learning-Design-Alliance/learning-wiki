@@ -1,6 +1,7 @@
 ---
 type: product
 id: go-learn-grow
+moved_from: [element/go-learn-grow-attendance-toolkit]
 title: Go-Learn-Grow
 description: The Go-Learn-Grow toolkit is a set of practical materials produced for the Regional Educational Laboratory Mid-Atlantic to help districts, schools, and early childhood providers improve pre-kindergarten and kindergarten attendance.
 product_kind: programme

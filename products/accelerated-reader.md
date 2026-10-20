@@ -1,6 +1,7 @@
 ---
 type: product
 id: accelerated-reader
+moved_from: [element/accelerated-reader-program-element]
 title: Accelerated Reader
 description: "Accelerated Reader™ is Renaissance's software-based K–12 reading practice and assessment system in which students read books, complete computerized quizzes, and receive progress data for teacher monitoring and goal setting."
 product_kind: software

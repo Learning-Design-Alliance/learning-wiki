@@ -1,6 +1,7 @@
 ---
 type: product
 id: the-evaluation-toolkit
+moved_from: [element/evaluation-toolkit-technology-rich-activities, theory/four-skill-categories-technology-use]
 title: The Evaluation Toolkit
 description: A Benton Foundation and EDC Center for Children and Technology toolkit of instruments that helps teachers assess technology-rich learning activities, student skill development, learning, and media literacy.
 product_kind: assessment

@@ -24,7 +24,7 @@ The GBA model is a design strategy developed by the Games, Learning and Society 
 ### Claims
 
 - [The number of far failures — cycles ended by incorrect collection and/or time running out — was negatively correlated with pre-post learning gains in Progenitor X](../claims/far-failure-negatively-correlated-with-learning.md) [+M]
-- [Playing Progenitor X over three weeks produced a statistically significant 11% pre-post gain in stem-cell science content knowledge among 39 middle and high school students](../claims/progenitor-x-play-significant-prepost-gain.md) [+M]
+- [After playing Progenitor X over three weeks, 39 middle and high school students showed a statistically significant 11% pre-post gain in stem-cell science content knowledge, in a one-group design with no comparison](../claims/progenitor-x-play-significant-prepost-gain.md) [+M]
 - [Number of cell-cycle starts and cell-cycle destroys in Progenitor X were negatively correlated with pre-post learning gains, while total cycle starts across the game were not](../claims/cell-cycle-starts-destroys-negative-correlation.md) [~W]
 
 ## Related Research Methods

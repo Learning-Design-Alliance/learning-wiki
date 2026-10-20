@@ -44,7 +44,7 @@ The report's interpretive claim about its quantitative impact estimates: average
 
 ## Related Claims
 
-- [Some high schools mitigated the typical negative effects of proximity to homicide on student outcomes while most schools saw declines](some-schools-mitigate-homicide-effects.md) — related
+- [Some high schools mitigated the typical negative effects of proximity to homicide: most student outcomes declined after a nearby homicide, but not all schools saw average declines](some-schools-mitigate-homicide-effects.md) — related
 - [Schools that mitigated proximity-to-homicide effects had stronger, more positive school climates, including engaging instruction and trusting relationships](positive-school-climate-mitigates-homicide-effects.md) — related
 - [Living in close geographic proximity to homicide is followed by lower attendance, test scores, GPA, and more disciplinary incidents for CPS students](proximity-homicide-lowers-student-outcomes.md) — related
 - [Homicides of school-aged children are far less likely to occur on school grounds than elsewhere](school-homicides-less-likely-on-school-grounds.md)

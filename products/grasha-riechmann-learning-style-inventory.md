@@ -1,6 +1,7 @@
 ---
 type: product
 id: grasha-riechmann-learning-style-inventory
+moved_from: [element/grasha-riechmann-inventory-turkish-adaptation]
 title: Grasha-Riechmann Learning Style Inventory
 description: "A 60-item Likert-scale assessment developed by Anthony Grasha to measure students' social-interaction learning-style preferences across independent-dependent, avoidant-participant, and collaborative-competitive dimensions; this study used a Turkish adaptation."
 product_kind: assessment

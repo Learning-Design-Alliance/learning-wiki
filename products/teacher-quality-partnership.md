@@ -1,6 +1,7 @@
 ---
 type: product
 id: teacher-quality-partnership
+moved_from: [element/teacher-quality-partnership-teaching-residency-programs]
 title: Teacher Quality Partnership
 description: A U.S.
 product_kind: programme

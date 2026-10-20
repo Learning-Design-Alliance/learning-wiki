@@ -39,7 +39,7 @@ The article states that any LA system can have considerable socioeconomic impact
 ## Claims
 
 - [Students raised four categories of concern about potential misuse of MMLA data: judgment, privacy, career impact, and academic integrity](../claims/mmla-data-misuse-concerns-four-themes.md) [+W]
-- [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](../claims/opt-out-consent-preferred-mmla.md) [~W]
+- [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](../claims/opt-out-consent-preferred-mmla.md) [~W]
 - [Most reviews reporting neurophysiological AI use stressed the need for further ethical considerations, including participant consent and transparent development](../claims/neurophysiological-ai-ethics-consent-transparency.md) [+W]
 
 ## Related Strategies

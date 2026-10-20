@@ -35,7 +35,7 @@ Prinz-Weiß, A., Lukosiute, L., Meyer, M., & Riedel, J. (2023). The role of achi
 
 `q3 · i1` · `associational · r2`
 
-Correlational analyses (N = 358) of postdiction accuracy: all positive emotions correlated positively with postdiction accuracy; of the negative emotions, only anxiety and shame showed negative correlations (e.g., anxiety r = -.11); correlations were small in size.
+Correlational analyses (N = 358) of postdiction accuracy: all positive emotions correlated positively with postdiction accuracy; of the negative emotions, only anxiety (r = -.11) and shame (r = -.13) showed statistically significant negative correlations; hopelessness (r = -.09) and negative emotions overall (r = -.10) were negative but only marginal (p < .10). Correlations were small in size.
 
 > "This indicates that in accordance with the postdiction-accuracy hypothesis, with increasing positive emotions, participants' postdictions became less underconfident (trajectory from underconfidence to greater accuracy)."
 

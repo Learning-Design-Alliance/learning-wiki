@@ -1,6 +1,7 @@
 ---
 type: product
 id: persuasion-across-time-and-space
+moved_from: [design/persuasion-across-time-and-space-unit]
 title: Persuasion Across Time and Space
 description: "A five-week, Common Core State Standards-aligned English language arts curriculum unit for intermediate-level middle school English learners, developed by Stanford University's Understanding Language initiative."
 product_kind: curriculum

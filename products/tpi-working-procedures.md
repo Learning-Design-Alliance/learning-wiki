@@ -1,6 +1,7 @@
 ---
 type: product
 id: tpi-working-procedures
+moved_from: [design/structured-sequenced-research-stages-pattern]
 title: TPI working procedures
 description: A structured framework developed for the TPI programme to guide online trainee researchers, tutors, and students through progressive research-project stages and related learning activities.
 product_kind: framework

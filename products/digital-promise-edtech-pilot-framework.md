@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-edtech-pilot-framework
+moved_from: [element/digital-promise-data-infrastructure-tools, element/edtech-pilot-framework-digital-promise]
 title: Digital Promise Edtech Pilot Framework
 description: "Digital Promise's portfolio of an evidence-gathering framework, a collaborative analytics workspace, and a survey-based improvement initiative that supports schools and education organizations conducting rapid-cycle edtech testing."
 product_kind: framework

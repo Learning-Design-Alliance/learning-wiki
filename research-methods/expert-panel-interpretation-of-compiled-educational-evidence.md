@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: expert-panel-interpretation-of-compiled-educational-evidence
+moved_from: [theory/expert-panel-interpretation-compiled-studies-approach]
 title: Expert-panel interpretation of compiled educational evidence
 description: The article describes an evidence-review approach in which a research organization compiles a large body of studies and convenes expert panels to interpret the data.
 status: review

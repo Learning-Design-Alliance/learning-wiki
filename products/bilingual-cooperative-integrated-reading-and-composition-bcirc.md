@@ -1,6 +1,7 @@
 ---
 type: product
 id: bilingual-cooperative-integrated-reading-and-composition-bcirc
+moved_from: [design/bcirc-fifteen-reading-activities-pattern, element/bcirc-program-element]
 title: Bilingual Cooperative Integrated Reading and Composition (BCIRC)
 description: BCIRC is a bilingual adaptation of the Cooperative Integrated Reading and Composition program that organizes Spanish- and English-language reading, writing, vocabulary, and comprehension instruction in cooperative student teams for Spanish-speaking learners.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: tntp-turnaround-leadership-teams-strategy-tlts
+moved_from: [element/tntp-turnaround-leadership-teams-strategy]
 title: TNTP Turnaround Leadership Teams Strategy (TLTS)
 description: A TNTP school-improvement programme that diagnoses school needs and develops and supports school leadership teams to strengthen leadership, instruction, school culture, and family engagement.
 product_kind: programme

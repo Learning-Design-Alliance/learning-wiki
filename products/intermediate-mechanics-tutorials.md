@@ -1,6 +1,7 @@
 ---
 type: product
 id: intermediate-mechanics-tutorials
+moved_from: [element/intermediate-mechanics-tutorials-imt]
 title: Intermediate Mechanics Tutorials
 description: A University of Maine curriculum under development for second-year mechanics courses in which students first encounter differential equations, with associated materials made available through the project.
 product_kind: curriculum

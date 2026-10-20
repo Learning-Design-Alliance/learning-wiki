@@ -1,6 +1,7 @@
 ---
 type: product
 id: critical-maker-entrepreneurialism-program
+moved_from: [design/critical-maker-entrepreneurialism-program]
 title: Critical Maker-Entrepreneurialism Program
 description: A four-phase, multi-month youth program in which participants identify community-rooted problems, develop solutions with iterative community input, and reframe entrepreneurial practices for community benefit.
 product_kind: programme

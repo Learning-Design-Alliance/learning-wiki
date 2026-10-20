@@ -1,6 +1,7 @@
 ---
 type: product
 id: weights-simulation-tool-for-texas-community-college-funding-scenarios
+moved_from: [element/community-college-weights-simulation-tool]
 title: Weights simulation tool for Texas community college funding scenarios
 description: A simulation tool developed by REL Southwest with the Texas Higher Education Coordinating Board to model community-college funding scenarios and project adequate spending levels based on student-need and institutional factors.
 product_kind: software

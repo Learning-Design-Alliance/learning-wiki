@@ -39,7 +39,7 @@ The authors propose a screening strategy grounded in their finding that one-half
 ## Claims
 
 - [The one-half advantage in fraction comparison emerges by Grade 4 for TA children and Grade 5 for LA children, but only at Grade 7 for children with MLD, who never exceed ~75% accuracy on one-half items](../claims/delayed-one-half-advantage-mld.md) [+M]
-- [Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates](../claims/mld-lower-fraction-comparison-accuracy-no-growth-differences.md) [+M]
+- [Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score](../claims/mld-lower-fraction-comparison-accuracy-no-growth-differences.md) [+M]
 
 ## Related Strategies
 - 

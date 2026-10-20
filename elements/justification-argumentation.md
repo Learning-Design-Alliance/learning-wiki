@@ -1,6 +1,7 @@
 ---
 type: element
 id: justification-argumentation
+moved_from: [principle/relationships-as-foundation-for-argumentation]
 title: Justification & Argumentation
 description: Learners defend conclusions with evidence and reasoning, constructing and critiquing arguments to build critical reasoning and conceptual understanding.
 canonical: true

@@ -39,7 +39,7 @@ The report recommends that California "adopt a comprehensive approach to turn an
 ## Claims
 
 - [Publicly funded ECE programs in California served only 33% of eligible children under age 5 in 2015–16, leaving nearly 650,000 eligible children without access](../claims/california-ece-serves-only-33-percent-eligible-children.md) [+W]
-- [California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children](../claims/california-ece-uneven-quality-standards.md) [+W]
+- [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](../claims/california-ece-uneven-quality-standards.md) [+W]
 - [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](../claims/california-ece-workforce-low-compensation-turnover.md) [+W]
 - [Access to subsidized ECE is extremely limited for California infants and toddlers, with approximately 14% of eligible infants and toddlers enrolled](../claims/california-infant-toddler-ece-access-14-percent.md) [+W]
 - [California's subsidized ECE system serves only a minority of eligible children, with the lowest access among infants and toddlers](../claims/california-ece-serves-minority-of-eligible-children.md) [~W]

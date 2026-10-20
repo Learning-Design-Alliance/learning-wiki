@@ -1,6 +1,7 @@
 ---
 type: product
 id: just-right-reader-take-everywhere-literacy-packs
+moved_from: [element/just-right-reader-take-everywhere-literacy-packs, element/qr-code-phonics-video-lessons-multilingual]
 title: Just Right Reader Take-Everywhere Literacy Packs
 description: A Just Right Reader take-home literacy package that provides skill-leveled decodable books, lesson plans, multilingual instructional videos, and writing activities for students to practice foundational reading skills.
 product_kind: curriculum

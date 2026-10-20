@@ -44,6 +44,6 @@ Pilot survey technical-reliability findings from the eight-participant CMP511 st
 
 ## Related Claims
 - [Quiz mode's course-blind Python question generation was the only cross-course failure requiring a code change during onboarding](course-blind-code-question-generation-failure.md) — related
-- [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
+- [In an exploratory pilot (n=8), students rated LEA's usability, Chat Mode, Quiz Mode, learning outcomes, and trust mostly positively, with Chat Mode the strongest performer](lea-pilot-positive-usability-chat-quiz-trust.md) — related
 - [In simulation, LEA met or exceeded targets in Chat and Tutor modes while Quiz Mode's KC Alignment Score fell below target](lea-simulation-evaluation-results.md) — related
 - [Tutor Mode's adaptive responsiveness was overestimated by simulation: only 3/8 pilot participants agreed LEA adapted appropriately when they expressed uncertainty](simulation-overestimated-tutor-adaptiveness.md) — related

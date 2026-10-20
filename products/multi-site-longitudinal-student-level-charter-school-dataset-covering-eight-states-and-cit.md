@@ -1,6 +1,7 @@
 ---
 type: product
 id: multi-site-longitudinal-student-level-charter-school-dataset-covering-eight-states-and-cit
+moved_from: [element/rand-eight-state-charter-longitudinal-dataset]
 title: Multi-site longitudinal student-level charter school dataset covering eight states and cities
 description: A longitudinal student-level dataset assembled by Ron Zimmer and colleagues covering charter-school students in Chicago, Denver, Milwaukee, Philadelphia, San Diego, Florida, Ohio, and Texas for comparative charter-school research.
 product_kind: dataset

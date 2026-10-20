@@ -1,6 +1,7 @@
 ---
 type: product
 id: vocabulary-levels-test-schmitt-schmitt-clapham-2001
+moved_from: [element/vocabulary-levels-test-schmitt-2001]
 title: "Vocabulary Levels Test (Schmitt, Schmitt & Clapham, 2001)"
 description: A frequency-level receptive vocabulary assessment developed by Norbert Schmitt, Diane Schmitt, and Clapham that measures knowledge of words from 2000-, 3000-, 5000-, and 10000-word frequency bands plus academic vocabulary.
 product_kind: assessment

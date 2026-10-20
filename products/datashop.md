@@ -1,6 +1,7 @@
 ---
 type: product
 id: datashop
+moved_from: [element/cmu-datashop-repository]
 title: DataShop
 description: DataShop is an online repository and analysis platform created by the Pittsburgh Science of Learning Center for storing, sharing, and analyzing educational learning data.
 product_kind: software

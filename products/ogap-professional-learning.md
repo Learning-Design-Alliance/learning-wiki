@@ -1,6 +1,7 @@
 ---
 type: product
 id: ogap-professional-learning
+moved_from: [design/ogap-strand-cohort-pd-structure]
 title: OGAP Professional Learning
 description: OGAP Professional Learning is a mathematics professional-development programme run by the Ongoing Assessment Project (OGAP) for educators across developmental reasoning strands.
 product_kind: programme

@@ -35,7 +35,7 @@ Hillary Greene Nolan, Ph.D, Merijke Coenraad, Ph.D, Viki Young, Ph.D. (2024). Te
 
 `q2 · i?` · `qualitative · r3`
 
-Member-checking at in-person and virtual teacher convenings during 2021-22. Of 10 November survey respondents, four self-identified as teaching partner, six as grading assistant, and zero as substitute teacher; one described moving from substitute-leaning toward partner over two years.
+Member-checking at teacher convenings following the 2021–22 implementation: an in-person convening in June 2022 and virtual convenings in November and December 2022. Of 10 November survey respondents, four self-identified as teaching partner, six as grading assistant, and zero as substitute teacher; one described moving from substitute-leaning toward partner over two years.
 
 > "all teachers who attended our convenings felt that the approaches were not static, but rather that a teacher could approach AI as an assistant one day and a partner the next, or begin as a substitute and progress to assistant and partner with experience."
 

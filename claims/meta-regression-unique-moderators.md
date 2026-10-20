@@ -45,5 +45,5 @@ Random-effects meta-regression with one moderator per research question was sign
 ## Related Claims
 - [Monitoring judgment timing moderates the correlation: concurrent judgments show a stronger negative association than prospective judgments](concurrent-stronger-than-prospective-judgments.md) — related
 - [Effort measurement type moderates the correlation: self-agency ratings show a positive association and subjective ratings a stronger negative one than objective measures](effort-measure-type-moderates-correlation.md) — related
-- [Goal-driven manipulations (incentives, time pressure, self-agency) weaken the negative effort–monitoring correlation to nonsignificance](goal-driven-manipulations-eliminate-negative-correlation.md) — related
+- [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](goal-driven-manipulations-eliminate-negative-correlation.md) — related
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — a narrower finding that bears on this claim

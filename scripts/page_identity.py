@@ -130,6 +130,36 @@ def set_id(fm: str, slug: str) -> str:
     return f"id: {slug}\n" + fm
 
 
+MOVED_RE = re.compile(r"^moved_from:[ \t]*(\[[^\n]*\])[ \t]*$", re.M)
+
+
+def read_moved_from(fm: str) -> list:
+    """`moved_from: [strategy/good-behavior-game, ...]`: the kind-qualified ids of pages folded
+    into this one from ANOTHER kind. An alias resolves only within one kind, so a cross-kind
+    fold used to leave the old id resolving to nothing; build_wiki_index.py publishes these
+    as its `moved` map, so a design document naming the old id can be pointed at this page."""
+    m = MOVED_RE.search(fm or "")
+    if not m:
+        return []
+    return [a.strip().strip('"\'') for a in m.group(1)[1:-1].split(",") if a.strip()]
+
+
+def add_moved_from(fm: str, qualified: str) -> str:
+    """Record `kind/slug` in moved_from, creating the field after id: (or at the end). Idempotent."""
+    existing = read_moved_from(fm)
+    if qualified in existing:
+        return fm
+    line = "moved_from: [" + ", ".join(existing + [qualified]) + "]"
+    if MOVED_RE.search(fm):
+        return MOVED_RE.sub(line, fm, count=1)
+    m = ID_RE.search(fm)
+    if m:
+        end = fm.find("\n", m.start())
+        end = len(fm) if end == -1 else end
+        return fm[:end] + "\n" + line + fm[end:]
+    return fm.rstrip("\n") + "\n" + line + "\n"
+
+
 def add_alias(fm: str, alias: str) -> str:
     """Append `alias` to the page's aliases list, creating the field if absent.
 

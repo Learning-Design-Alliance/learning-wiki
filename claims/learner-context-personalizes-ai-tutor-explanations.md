@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem
-description: The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem
+title: Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem
+description: Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem
 id: learner-context-personalizes-ai-tutor-explanations
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# The same learner context supplied to an AI tutor produces qualitatively different, persona-aligned explanations of the same problem
+# Different learner contexts supplied to an AI tutor produce qualitatively different, persona-aligned explanations of the same problem
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r2` · `q1`

@@ -1,6 +1,7 @@
 ---
 type: product
 id: combined-trust-and-panorama-teacher-and-staff-survey-instrument
+moved_from: [element/trust-panorama-adult-sel-survey-instrument]
 title: Combined TRUST and Panorama Teacher and Staff Survey instrument
 description: A teacher-and-staff survey instrument assembled by Tommy Wells et al.
 product_kind: assessment

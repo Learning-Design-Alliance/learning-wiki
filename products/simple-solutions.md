@@ -1,6 +1,7 @@
 ---
 type: product
 id: simple-solutions
+moved_from: [element/simple-solutions-spiral-review-program]
 title: Simple Solutions
 description: A branded supplemental curriculum from Simple Solutions that provides brief daily distributed-practice lessons with spiral review and optional online resources for K–8 subjects.
 product_kind: curriculum

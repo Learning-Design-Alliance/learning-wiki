@@ -1,6 +1,7 @@
 ---
 type: product
 id: smdep
+moved_from: [design/smdep-multi-site-mixed-components-pattern, element/smdep-six-week-residential-enrichment-program]
 title: SMDEP
 description: SMDEP is a free six-week residential science-enrichment programme run at 12 national sites for minority and socioeconomically disadvantaged undergraduates interested in medical or dental careers.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: feip
+moved_from: [element/family-engagement-impact-project-feip]
 title: FEIP
 description: "A Heising-Simons Foundation-funded public-private partnership that builds parents' and professionals' capacity for family engagement and promotes educational outcomes for low-income immigrant children from birth through age 8 in California's San Mateo and Santa Clara counties."
 product_kind: programme

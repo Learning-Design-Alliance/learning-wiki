@@ -1,6 +1,7 @@
 ---
 type: product
 id: epsrl-management-system
+moved_from: [element/epsrl-management-system]
 title: ePSRL Management System
 description: "A purpose-built electronic personalised self-regulated learning management system developed by Khiat and colleagues to support learners' planning, monitoring, appraisal, reflection, and learning analytics throughout the learning process."
 product_kind: software

@@ -43,6 +43,6 @@ Descriptive comparison of program standards in the Program Standards subsection 
 
 
 ## Related Claims
-- [California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — a broader claim this one bears on
+- [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — a broader claim this one bears on
 - [Low compensation and inconsistent qualification requirements undermine recruitment and retention of California's ECE workforce](california-ece-workforce-low-compensation-turnover.md) — related
 - Per-child reimbursement rates vary by program in California, with regional rates differing up to 50% despite programs serving similar children — related

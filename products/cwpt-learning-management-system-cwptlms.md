@@ -1,6 +1,7 @@
 ---
 type: product
 id: cwpt-learning-management-system-cwptlms
+moved_from: [element/cwpt-learning-management-system]
 title: CWPT Learning Management System (CWPT–LMS)
 description: "CWPT–LMS is computer-based software support for implementing, monitoring, and sustaining ClassWide Peer Tutoring, distributed by the Juniper Gardens Children's Project."
 product_kind: software

@@ -1,6 +1,7 @@
 ---
 type: product
 id: read-well
+moved_from: [element/read-well-reading-curriculum]
 title: Read Well
 description: Read Well® is a kindergarten and first-grade reading curriculum developed by Sopris West Educational Services and distributed by Cambium Learning, combining whole-class and small-group literacy instruction.
 product_kind: curriculum

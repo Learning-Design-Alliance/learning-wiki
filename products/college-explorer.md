@@ -1,6 +1,7 @@
 ---
 type: product
 id: college-explorer
+moved_from: [element/nwea-college-explorer-tool]
 title: College Explorer
 description: College Explorer is a data-visualization tool from NWEA Research that links MAP Growth scores with national benchmarks for colleges, universities, and majors to support post-secondary planning.
 product_kind: software

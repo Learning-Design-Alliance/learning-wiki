@@ -1,6 +1,7 @@
 ---
 type: product
 id: first-step-to-success
+moved_from: [element/first-step-to-success-program]
 title: First Step to Success
 description: First Step to Success is a behavior-coaching programme developed for children at risk of aggressive or antisocial behavior, combining screening, classroom intervention, and HomeBase parent training.
 product_kind: programme

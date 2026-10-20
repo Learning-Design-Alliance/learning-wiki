@@ -1,6 +1,7 @@
 ---
 type: product
 id: dynamic-learning-project
+moved_from: [element/dlp-coaching-model-element, theory/five-cornerstones-effective-technology-coaching]
 title: Dynamic Learning Project
 description: A school-based instructional technology coaching programme run by Digital Promise that places full-time coaches in underserved schools to support teachers through iterative coaching cycles, modeling, co-teaching, and reflection.
 product_kind: programme

@@ -996,6 +996,15 @@ whether `foo` is a current slug or a retired one, so two pages answering to it i
 however that came about — which is the case lint catches that filename-uniqueness never
 could, filenames being unique by construction.
 
+**A page moved to another kind keeps its old id through `moved_from:`** (2026-10-20). Aliases live
+inside one kind, so a page folded or re-filed into another kind (a programme filed as a strategy,
+now a product) left `strategy: good-behavior-game` resolving to nothing. The page it went to lists
+the old kind-qualified ids, `moved_from: [strategy/good-behavior-game]`; `build_wiki_index.py`
+publishes them as a separate `moved` map in `wiki-index.json` (`{old kind: {old slug: "new kind/new
+slug"}}`, additive, so `resolve` keeps its shape), and the MCP `resolve` tool follows it.
+`merge_pages.py` writes it on every cross-kind fold. 1,570 retired ids were backfilled from git
+history and the merged-from comments; a page deliberately removed is never given a redirect.
+
 Both YAML spellings are read (`aliases: [a, b]` and the block form), because both are
 written here — `page_identity.py` edits raw frontmatter text inline, while
 `ingest_extractions.py` builds pages through `okf_lib.dump_frontmatter`, which emits a

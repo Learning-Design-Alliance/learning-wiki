@@ -1,6 +1,7 @@
 ---
 type: product
 id: motivation-for-incidental-vocabulary-learning-scale-mivls-incidental-vocabulary-learning-a
+moved_from: [element/mivls-ivlas-mivlss-instruments]
 title: Motivation for Incidental Vocabulary Learning Scale (MIVLS), Incidental Vocabulary Learning Anxiety Scale (IVLAS), and Mastery of Incidental Vocabulary Learning Strategies Scale (MIVLSS)
 description: A set of three Zhao et al.
 product_kind: assessment

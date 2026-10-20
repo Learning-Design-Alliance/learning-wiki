@@ -1,6 +1,7 @@
 ---
 type: product
 id: really-great-reading
+moved_from: [element/really-great-reading-foundational-literacy-programs, element/rgr-online-teacher-tools-reading-playground]
 title: Really Great Reading
 description: Really Great Reading is a branded foundational-literacy curriculum developed by Really Great Reading for teaching early reading skills, including phonics and fluency, through classroom teachers, paraprofessionals, or tutors.
 product_kind: curriculum

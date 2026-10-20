@@ -1,6 +1,7 @@
 ---
 type: product
 id: strategies-to-improve-reading-partnership-stir
+moved_from: [element/stir-intervention-k1-literacy, theory/stir-logic-model-outcomes]
 title: Strategies to Improve Reading Partnership (STIR)
 description: STIR is a REL Midwest co-developed K–1 literacy instruction improvement programme that provides educators with evidence-based phonological-awareness and phonics resources, data-use tools, training, and coaching.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: charting-reform
+moved_from: [element/charting-reform-student-teacher-surveys-1994, element/charting-reform-student-teacher-surveys-school-reports]
 title: Charting Reform
 description: "These Consortium on Chicago School Research survey instruments collect students' and teachers' views of school environment, classroom learning, parent involvement, governance, and teachers' professional work life."
 product_kind: assessment

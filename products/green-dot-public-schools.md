@@ -1,6 +1,7 @@
 ---
 type: product
 id: green-dot-public-schools
+moved_from: [element/green-dot-six-principle-charter-model]
 title: Green Dot Public Schools
 description: A nonprofit charter-school programme and school-design model run by Green Dot Public Schools that creates small community high schools organized around teacher support, autonomous leadership, college preparation, comprehensive student services, family engagement, and replicability.
 product_kind: programme
@@ -18,7 +19,7 @@ sources:
 # Green Dot Public Schools
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 4 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 1 study (1 causal), `q2` · 1 of 1 report an effect size · 4 claims rest on one study
 
 ## Description
 A nonprofit charter-school programme and school-design model run by Green Dot Public Schools that creates small community high schools organized around teacher support, autonomous leadership, college preparation, comprehensive student services, family engagement, and replicability.
@@ -27,7 +28,7 @@ A nonprofit charter-school programme and school-design model run by Green Dot Pu
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)](../claims/green-dot-attendance-year-four-only.md) [+W]
+- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no detectable effect on attendance in Year 1 for Cohort 3 (mixed evidence)](../claims/green-dot-attendance-year-four-only.md) [+W]
 - [Green Dot Public Schools improve English language arts achievement in the first year of high school for the 2009–10 cohort, with no significant effects on later ELA measures (mixed evidence)](../claims/green-dot-ela-first-year-only.md) [+W]
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](../claims/green-dot-positive-math-achievement.md) [+W]
 - [Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)](../claims/green-dot-positive-student-progression.md) [+W]
@@ -67,7 +68,7 @@ Green Dot Public Schools is a nonprofit charter management organization operatin
 
 ## Claims
 
-- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no effect on attendance in Year 1 for Cohort 3 (mixed evidence)](../claims/green-dot-attendance-year-four-only.md) [+W]
+- [Green Dot Public Schools raise school attendance in the fourth year of high school, with no detectable effect on attendance in Year 1 for Cohort 3 (mixed evidence)](../claims/green-dot-attendance-year-four-only.md) [+W]
 - [Green Dot Public Schools improve English language arts achievement in the first year of high school for the 2009–10 cohort, with no significant effects on later ELA measures (mixed evidence)](../claims/green-dot-ela-first-year-only.md) [+W]
 - [Attending Green Dot Public Schools produces statistically significant positive effects on high school mathematics achievement (potentially positive effects rating, small extent of evidence)](../claims/green-dot-positive-math-achievement.md) [+W]
 - [Green Dot Public Schools increase high school graduation and college-preparatory (A-G) graduation for students entering ninth grade (potentially positive effects rating)](../claims/green-dot-positive-student-progression.md) [+W]

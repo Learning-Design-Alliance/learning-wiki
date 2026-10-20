@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: direct-instruction
+moved_from: [principle/explicit-strategy-instruction-in-preparatory-curricula]
 aliases: [explicit-teaching, direct-instruction-distinctive-teaching-practices, hunters-effective-teaching-model]
 title: Direct Instruction
 description: "A reusable explicit-teaching policy for a structured target (elicit, explain and model, guide practice with checks, hand over on unaided success), qualified by task-specific expertise, outcome type and horizon."

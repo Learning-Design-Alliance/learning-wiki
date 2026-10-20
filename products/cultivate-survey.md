@@ -1,6 +1,7 @@
 ---
 type: product
 id: cultivate-survey
+moved_from: [element/cultivate-survey-element, element/cultivate-survey-instrument, element/cultivate-survey-reporting-site, theory/cultivate-nine-learning-conditions-framework]
 title: Cultivate Survey
 description: The Cultivate Survey is a twice-yearly anonymous student survey developed by the University of Chicago Consortium on School Research to measure classroom learning conditions in grades 5–12.
 product_kind: assessment

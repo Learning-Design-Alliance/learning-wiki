@@ -1,6 +1,7 @@
 ---
 type: product
 id: equitized-syllabus
+moved_from: [design/equitized-syllabus-five-characteristics]
 title: Equitized Syllabus
 description: The Equitized Syllabus is a shared syllabus template developed and standardized by BMCC for adoption across course sections and partner colleges.
 product_kind: curriculum

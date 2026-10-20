@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
-description: Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
+title: In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI
+description: In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI
 id: c3-ablation-policy-collapse
 status: review
 generated:
@@ -14,7 +14,7 @@ sources:
     title: "Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)"
     author: Oluseyi Olukolaa, Nick Rahimia
     q: 2
-    i: "?"
+    i: 3
     kind: causal
     rigour: 2
   - id: oluseyi-olukolaa-2026-2
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study
+# In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q2`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
-`q2 i?` Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)
-`q2 i?` Removing C1 raises RHSI by +0.138, apparently mediated through C3-related degradation of action diversity rather than direct prerequisite violations. [→ Oluseyi Olukolaa 2026 (2)](#oluseyi-olukolaa-2026-2)
+`q2 i3` Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. [→ Oluseyi Olukolaa 2026](#oluseyi-olukolaa-2026)
+`q2 i?` Removing C1 raises RHSI by +0.138; the authors interpret this as appearing to be mediated through C3-related degradation of action diversity rather than direct prerequisite violations, an explanation they do not test directly. [→ Oluseyi Olukolaa 2026 (2)](#oluseyi-olukolaa-2026-2)
 
 ## Evidence
 
@@ -42,7 +42,7 @@ sources:
 
 Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 [doi:10.48550/arxiv.2604.04237](https://doi.org/10.48550/arxiv.2604.04237)
 
-`q2 · i?` · `causal · r2`
+`q2 · i3 · large effect, d=−1.42` · `causal · r2`
 
 Ablation simulation (No-C3 condition, 30 sessions under identical protocol). The No-C3 ablation's C3 violation rate of 68.3% approaches EO's 70.8%; inappropriate actions rise from 0 to 15–18 per session. ST vs. No-C3 RHSI difference is Bonferroni-significant (d=−1.42).
 
@@ -54,7 +54,7 @@ Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinfo
 
 `q2 · i?` · `causal · r2`
 
-No-C1 ablation (30 sessions): mastery gains comparable to full framework and pedagogical appropriateness of 1.000, but RHSI degradation of +0.138. The two ablations do not differ significantly from each other (t(47)=−1.08, p=.285).
+No-C1 ablation (30 sessions): mastery gains comparable to full framework and pedagogical appropriateness of 1.000, but RHSI degradation of +0.138. The two ablations do not differ significantly from each other (t(47)=−1.08, p=.285); the authors rest C3's primacy on the nature of its failure mode, policy collapse, rather than on an RHSI gap.
 
 > "The C3 violation rate rises to 60.4% not because the agent exploits prerequisite violations, but apparently because without the knowledge graph structuring exploration, the agent’s action diversity degrades."
 

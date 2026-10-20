@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: precision-based-sample-size-planning-for-clustered-education-trials
+moved_from: [element/empirical-icc-r2-inputs-education-power-calculations, theory/clustered-rd-power-framework-hlm, theory/power-formulas-mediator-linking-clustered-rcts, theory/unified-power-framework-multi-level-random-assignment]
 title: Precision-based sample-size planning for clustered education trials
 description: "The article recommends that evaluators discuss \"appropriate precision standards\" and then determine, for each random-assignment design, \"the required number of schools to achieve those standards\" using empirical parameter values."
 status: review

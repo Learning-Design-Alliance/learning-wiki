@@ -1,6 +1,7 @@
 ---
 type: product
 id: me-checklist
+moved_from: [element/me-checklist-phase-3-early-evidence-document, research-method/me-checklist, theory/four-phase-evidence-building-framework-me-checklist]
 title: "M&E Checklist"
 description: "The M&E Checklist is a resource developed by Ruggiero et al."
 product_kind: framework

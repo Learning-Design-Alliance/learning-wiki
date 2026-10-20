@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Calibration accuracy improved statistically detectably over eight French exams across the school year. [→ Nederhand 2020](#nederhand-2020)
+`q3 i?` Calibration accuracy improved statistically detectably over the French exams of a school year (eight exams in years 2 and 3, seven in year 1). [→ Nederhand 2020](#nederhand-2020)
 `q3 i?` The improvement was accompanied by changes in students' grade estimates, not just by changes in exam performance. [→ Nederhand 2020 (2)](#nederhand-2020-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Nederhand, M. L., Tabbers, H. K., Jongerling, J., & Rikers, R. M. J. P. (2020). 
 
 `q3 · i?` · `causal · r2`
 
-Longitudinal quasi-experiment in a Dutch secondary school: 219 students in years 1–3 provided grade estimates after each of eight French exams, analyzed with a two-level multilevel model in HLM7. The negative coefficient ("b = −0.03, t(215) = −2.95, p = .004") indicates calibration accuracy improved over time.
+Longitudinal quasi-experiment in a Dutch secondary school: 219 students in years 1–3 provided grade estimates after each French exam of the school year (eight exams in years 2 and 3, seven in year 1), analyzed with a two-level multilevel model in HLM7. The negative coefficient ("b = −0.03, t(215) = −2.95, p = .004") indicates calibration accuracy improved over time.
 
 > "Results overall showed a statistically detectable change in calibration accuracy over time b = −0.03, t(215) = −2.95, p = .004. Note that the negative regression coefficient indicates that, over time, calibration accuracy improved."
 

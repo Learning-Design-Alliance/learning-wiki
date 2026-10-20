@@ -1,6 +1,7 @@
 ---
 type: product
 id: arc-core
+moved_from: [element/arc-core-curriculum-element, element/arc-digital-tools-element]
 title: ARC Core
 description: ARC Core is a K–12 English and Spanish literacy curriculum developed by American Reading Company that organizes extensive reading, writing, research, and analysis into knowledge-building units integrating literacy with science, social studies, and literature.
 product_kind: curriculum

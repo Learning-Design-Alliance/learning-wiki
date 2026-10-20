@@ -48,4 +48,4 @@ Criterion-related validity analysis comparing children below the 10th percentile
 ## Related Claims
 - [Children's symbolic magnitude comparison performance improves significantly across all primary school grades](symp-performance-improves-across-grades.md) — related
 - [First graders with MLD are slower than typically achieving peers on symbolic but not non-symbolic numerical magnitude comparison](mld-symbolic-comparison-slower-first-grade.md) — related
-- [Children with MLD are less accurate than LA and TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8, with no group differences in growth rates](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related
+- [Children with MLD are less accurate than TA peers on symbolic fraction magnitude comparisons from Grades 4 to 8 and than LA peers from Grade 5, with no group differences in growth rates on the total score](mld-lower-fraction-comparison-accuracy-no-growth-differences.md) — related

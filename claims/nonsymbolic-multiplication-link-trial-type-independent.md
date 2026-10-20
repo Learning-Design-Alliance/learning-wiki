@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance
-description: The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance
+title: The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances
+description: The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances
 id: nonsymbolic-multiplication-link-trial-type-independent
 status: review
 generated:
@@ -23,7 +23,7 @@ sources:
     rigour: 2
 ---
 
-# The association between nonsymbolic magnitude comparison and multiplication facts does not depend on trial type (OTS/ANS range or congruency) or numerical distance
+# The association between nonsymbolic magnitude comparison and multiplication facts is similar across trial types (OTS/ANS range and congruency), and the symbolic comparison association is similar across numerical distances
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 associational `r2` · `q3`

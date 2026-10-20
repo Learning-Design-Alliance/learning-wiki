@@ -48,5 +48,5 @@ ITT analysis of tutoring attendance from the pooled RCT sample, with formal medi
 - [Course completion effects differed by subject: reduced DFW in Government and reduced dropping in Microeconomics](chatbot-completion-effects-differ-by-subject.md) — related
 - [Academic chatbot outreach increased the likelihood students earned an A or B by four percentage points across two large online undergraduate courses](chatbot-outreach-increases-ab-grades.md) — related
 - [Women assigned to the chatbot in Microeconomics earned final grades seven points higher than control women, with no treatment effects for men](chatbot-gender-heterogeneity-microeconomics-women.md) — related
-- [Chatbot treatment effects on final grades were concentrated between the 35th and 75th quantiles of the course grade distribution](chatbot-quantile-effects-middle-distribution.md) — related
+- [Chatbot treatment effects on final grades were statistically significant between the 35th and 75th quantiles of the course grade distribution and at the 95th](chatbot-quantile-effects-middle-distribution.md) — related
 - [Seeking tutoring and attending supplemental instruction sessions are associated with significantly higher academic engagement](tutoring-si-attendance-engage-stem-students.md)

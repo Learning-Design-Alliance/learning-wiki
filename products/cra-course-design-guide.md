@@ -1,6 +1,7 @@
 ---
 type: product
 id: cra-course-design-guide
+moved_from: [element/cra-course-design-guide-element]
 title: CRA Course Design Guide
 description: A modular Digital Promise resource produced by the CRA Collaborative to help instructors design or integrate a graduate-level introductory culturally responsive assessment course.
 product_kind: curriculum

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately
-description: PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately
+title: PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)
+description: PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)
 id: pals-full-sample-significant-ld-subset-not
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately
+# PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · review `r3` · `q3`
@@ -44,7 +44,7 @@ What Works Clearinghouse, U.S. Department of Education. (2012). Peer-Assisted Le
 
 `q3 · i?` · `review · r3`
 
-WWC table note on Fuchs et al. (1997), an RCT across three student types. The authors' full-sample analysis was significant, but WWC calculations on the 40-student learning-disability subset found no statistically significant difference between PALS and comparison students.
+WWC table note on Fuchs et al. (1997), a study across three student types in which schools were randomized but which the WWC reviewed as a quasi-experimental design (teachers knew their condition when selecting students). The authors' full-sample analysis was significant, but WWC calculations on the 40-student learning-disability subset found no statistically significant difference between PALS and comparison students.
 
 > "For the full sample, the authors found that PALS students scored significantly higher than comparison students on each of the two outcome measures. The study authors found no significant difference in effects between student types, leading them to conclude that PALS was effective for each of the three types of students."
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: heggertys-bridge-to-reading
+moved_from: [element/heggerty-bridge-to-reading-curriculum]
 title: "Heggerty's Bridge to Reading"
 description: A teacher-led foundational skills curriculum from Heggerty that combines explicit phonics and phonemic-awareness lessons for daily kindergarten through grade 2 instruction.
 product_kind: curriculum

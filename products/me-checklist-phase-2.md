@@ -1,6 +1,7 @@
 ---
 type: product
 id: me-checklist-phase-2
+moved_from: [element/me-checklist-refine-solution-phase-2]
 title: "M&E Checklist Phase 2"
 description: A Mathematica practical guidance document prepared for the Gates Foundation that guides education-solution developers through refining an implemented solution and building descriptive implementation evidence.
 product_kind: framework

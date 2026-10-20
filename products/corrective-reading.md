@@ -1,6 +1,7 @@
 ---
 type: product
 id: corrective-reading
+moved_from: [design/corrective-reading-small-group-4-5-days-principle, element/corrective-reading-program, element/corrective-reading-program-element]
 title: Corrective Reading
 description: Corrective Reading is a scripted, structured reading intervention curriculum for upper-elementary struggling readers, focused on phonics, fluency, and comprehension.
 product_kind: curriculum

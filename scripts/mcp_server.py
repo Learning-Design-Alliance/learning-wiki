@@ -76,6 +76,7 @@ class Wiki:
         reverse = json.loads((root / "reverse-index.json").read_text(encoding="utf-8"))
         self.pages = {f"{p['type']}/{p['id']}": p for p in index["pages"]}
         self.resolve_map = index["resolve"]            # {kind: {slug-or-alias: id}}
+        self.moved = index.get("moved", {})            # {old kind: {old slug: "new kind/new slug"}}
         self.folder_of = {kind: folder for folder, kind in reverse["kinds"].items()}
         self.folder_of.setdefault("strategy", "strategies")
         self.kind_of = {folder: kind for kind, folder in self.folder_of.items()}
@@ -108,6 +109,11 @@ class Wiki:
             if target:
                 out.append({"id": f"{k}/{target}", "kind": k, "slug": target,
                             "via_alias": target != slug})
+            elif slug in self.moved.get(k, {}):
+                # Folded into another kind: the old id still leads to the page, marked as moved.
+                nk, _, ns = self.moved[k][slug].partition("/")
+                out.append({"id": f"{nk}/{ns}", "kind": nk, "slug": ns, "via_alias": True,
+                            "moved_from": f"{k}/{slug}"})
         return out
 
 

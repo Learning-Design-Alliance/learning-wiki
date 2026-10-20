@@ -48,4 +48,4 @@ Prospective school-based survey (RELACHS) of 2790 adolescents in 28 East London 
 ## Related Claims
 - [High levels of support from friends protect bullied adolescents from poor academic achievement, but moderate or low friend support does not](high-friend-support-buffers-achievement-effect.md) — related
 - [Adolescents with moderate or high friend support are about half as likely to report being bullied](friend-support-lower-bullying-likelihood.md) — related
-- [Only moderate (not high or low) family support protects bullied adolescents from poor academic achievement](moderate-family-support-buffers-achievement.md) — related
+- [Bullying was not associated with lower academic achievement among adolescents with moderate family support, unlike those with high or low support, in a weakly supported interaction](moderate-family-support-buffers-achievement.md) — related

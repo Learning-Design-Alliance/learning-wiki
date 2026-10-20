@@ -1,6 +1,7 @@
 ---
 type: product
 id: way2work-maryland
+moved_from: [element/way2work-maryland-model-essential-services, element/way2work-maryland-program, element/way2work-rct-evaluation-design]
 title: Way2Work Maryland
 description: A U.S.
 product_kind: programme

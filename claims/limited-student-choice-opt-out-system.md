@@ -43,5 +43,5 @@ Case study finding from the results and discussion section: the article states "
 
 
 ## Related Claims
-- [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
+- [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](opt-out-consent-preferred-mmla.md) — related
 - [Changing the audio default from opt-in to opt-out raised audio availability from 72% to 99% of assignments and student audio use from 68% to 84%](readworks-audio-default-change-increased-use.md) — related

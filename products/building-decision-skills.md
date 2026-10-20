@@ -1,6 +1,7 @@
 ---
 type: product
 id: building-decision-skills
+moved_from: [element/building-decision-skills-curriculum]
 title: Building Decision Skills
 description: Building Decision Skills is a character-education curriculum developed by the Institute for Global Ethics for middle and high school students, using lessons and supporting materials to develop ethical awareness and decision-making strategies.
 product_kind: curriculum

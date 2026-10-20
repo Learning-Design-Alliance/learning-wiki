@@ -1,6 +1,7 @@
 ---
 type: product
 id: social-sciences-education-framework-for-california-public-schools
+moved_from: [pattern/grade-span-illustrative-objectives-pattern, theory/five-goal-social-sciences-civic-competence-framework]
 title: Social Sciences Education Framework for California Public Schools
 description: A California state education framework that organizes K–12 social sciences curricula around disciplinary understanding, skills, diversity, values, and civic participation.
 product_kind: framework

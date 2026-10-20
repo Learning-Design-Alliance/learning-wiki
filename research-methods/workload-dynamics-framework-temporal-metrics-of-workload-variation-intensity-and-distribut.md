@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: workload-dynamics-framework-temporal-metrics-of-workload-variation-intensity-and-distribut
+moved_from: [theory/workload-dynamics-framework]
 title: "Workload dynamics framework: temporal metrics of workload variation, intensity, and distribution over a term"
 description: The article proposes analyzing workload beyond static or average time-on-task by quantifying its temporal patterns.
 status: review

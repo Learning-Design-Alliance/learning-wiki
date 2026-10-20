@@ -1,6 +1,7 @@
 ---
 type: product
 id: short-student-survey
+moved_from: [design/hqim-student-experience-survey-instrument]
 title: Short student survey
 description: A study-specific student questionnaire created and administered by the evaluation team to measure mathematical experiences, belonging, self-efficacy, and perceptions of instructional implementation.
 product_kind: assessment

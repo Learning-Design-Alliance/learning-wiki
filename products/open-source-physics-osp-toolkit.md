@@ -1,6 +1,7 @@
 ---
 type: product
 id: open-source-physics-osp-toolkit
+moved_from: [element/osp-ejs-tracker-toolkit]
 title: Open Source Physics (OSP) toolkit
 description: A free, open-source physics software toolkit, including Easy Java Simulations and Tracker, developed for creating, customizing, analyzing, and sharing computer models and video-based investigations.
 product_kind: software

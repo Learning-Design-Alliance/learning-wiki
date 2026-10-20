@@ -1,6 +1,7 @@
 ---
 type: product
 id: dreambox-math
+moved_from: [element/dreambox-math-adaptive-program]
 title: DreamBox Math
 description: "DreamBox Learning's adaptive online mathematics program for K–8 learners, designed to supplement classroom instruction through personalized, standards-aligned practice and instruction."
 product_kind: software

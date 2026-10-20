@@ -1,6 +1,7 @@
 ---
 type: product
 id: working-students-success-network-wssn
+moved_from: [theory/wssn-integrated-support-strategy]
 title: Working Students Success Network (WSSN)
 description: A comprehensive integrated-services strategy implemented by community colleges to support low-income students and students of color through financial, career, and other coordinated supports.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: family-science-fun-guide
+moved_from: [element/family-science-fun-guide]
 title: Family Science Fun Guide
 description: A digital family science curriculum guide developed for the Early Science with Nico and Nor program, offering playful home and outdoor activities and conversation support for caregivers.
 product_kind: curriculum

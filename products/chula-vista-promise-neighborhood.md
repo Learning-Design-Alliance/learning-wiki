@@ -1,6 +1,7 @@
 ---
 type: product
 id: chula-vista-promise-neighborhood
+moved_from: [element/cvpromise-chula-vista-promise-neighborhood-program]
 title: Chula Vista Promise Neighborhood
 description: A place-based Promise Neighborhood community programme serving the Castle Park neighborhood of Chula Vista, California, across early childhood, education, college and career readiness, child development, and family support.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: socratic-circles
+moved_from: [element/socratic-circles-oer-suite]
 title: Socratic Circles
 description: An open educational curriculum package developed by the RCS Core Team comprising professional-development modules, a classroom guidebook, and Community Socratic Circle materials for facilitating text- and question-centered discussions.
 product_kind: curriculum

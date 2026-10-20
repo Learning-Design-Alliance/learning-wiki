@@ -35,7 +35,7 @@ Guo, Q., Tang, J., Huang, X., Lin, H.-Y., Zhong, Y., & Zhuang, X. (2026). LLMers
 
 `q2 · i?` · `design · r1`
 
-The article reports, citing McCrocklin (2026), that pre-deep-learning dictation systems showed a native versus non-native accuracy gap ("90.25% accu- racy but Chinese-L1 speakers at 72.45%"). These are printed accuracies, not standardized effect sizes, so impact is null.
+The article reports, citing McCrocklin (2026), that pre-deep-learning dictation systems showed a native versus non-native accuracy gap ("90.25% accu- racy but Chinese-L1 speakers at 72.45%"). The gap is about 18 percentage points of accuracy; it is not a standardized effect size, so the impact code is `i?` (no standardized magnitude printed), not a statement that the gap is small.
 
 > "dictation sys- tems transcribe native speakers at 90.25% accu- racy but Chinese-L1 speakers at 72.45%, and their accuracy does not correlate with human judgments of intelligibility"
 

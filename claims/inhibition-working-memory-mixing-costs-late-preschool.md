@@ -63,6 +63,6 @@ At age 3;9 the same multilevel models showed no GNG × trial type or NB × trial
 
 ## Related Claims
 - [Higher inhibition and working-memory scores predict better overall Shape School accuracy at some ages, independent of trial type](gng-nb-main-effects-overall-accuracy.md) — related
-- [Local costs (switch implementation) are unrelated to inhibition and working-memory performance across the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
+- [Local costs (switch implementation) showed no significant dependence on inhibition or working-memory performance at any of the preschool ages tested](local-costs-independent-of-inhibition-working-memory.md) — related
 - [Perseverators do not differ from non-perseverators in inhibition or working-memory performance at any age](perseverators-similar-inhibition-working-memory.md) — related
 - [Significant mixing and local costs are present at each preschool age, with both decreasing in magnitude from age 3;9 to 5;3](mixing-local-costs-present-decrease-with-age.md) — related

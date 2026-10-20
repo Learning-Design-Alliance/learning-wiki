@@ -1,6 +1,7 @@
 ---
 type: product
 id: doors-to-discovery
+moved_from: [element/doors-to-discovery-curriculum-element]
 title: Doors to Discovery™
 description: Doors to Discovery™ is a preschool literacy curriculum developed and distributed by Wright Group/McGraw-Hill, organized into eight thematic units with shared-literacy activities targeting oral language, phonological awareness, print knowledge, writing, and comprehension.
 product_kind: curriculum

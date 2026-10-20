@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: rapid-guessing-detection-using-item-response-time-thresholds
+moved_from: [theory/rapid-guessing-response-time-threshold-framework]
 aliases: [response-time-classification-of-rapid-guessing-versus-solution-behavior]
 title: Rapid-guessing detection using item response-time thresholds
 description: This framework identifies disengaged item responses on computer-based tests using response times—the seconds between item presentation and answer.

@@ -1,6 +1,7 @@
 ---
 type: product
 id: south-fayette-school-district-cssteam-pathway
+moved_from: [design/south-fayette-cs-steam-pathway-throughlines]
 title: South Fayette School District CS/STEAM pathway
 description: A CS/STEAM curriculum pathway developed and implemented by South Fayette School District, with lesson plans organized around four interdisciplinary throughlines and adopted or adapted by other projects.
 product_kind: curriculum

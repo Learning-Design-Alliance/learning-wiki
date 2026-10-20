@@ -1,6 +1,7 @@
 ---
 type: product
 id: hour-of-code
+moved_from: [design/hour-of-code-coding-movement-ignition]
 title: Hour of Code
 description: The Hour of Code is a Code.org initiative offering one-hour introductory computer-science activities for K–12 students and implemented by schools and other participating organizations.
 product_kind: programme

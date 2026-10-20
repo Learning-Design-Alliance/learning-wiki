@@ -1,6 +1,7 @@
 ---
 type: product
 id: hearts
+moved_from: [element/hearts-whole-school-program]
 title: HEARTS
 description: A whole-school, trauma-informed programme developed by the University of California, San Francisco and implemented in San Francisco Unified School District schools through tiered supports, staff training, consultation, and student interventions.
 product_kind: programme

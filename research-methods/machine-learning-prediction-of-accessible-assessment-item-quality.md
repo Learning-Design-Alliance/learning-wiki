@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: machine-learning-prediction-of-accessible-assessment-item-quality
+moved_from: [element/word-embedding-classifier-toolkit-accessible-math-items]
 title: Machine-learning prediction of accessible assessment-item quality
 description: The researchers introduced three word embedding methods and three classifiers as a toolkit for predicting item quality for accessible assessments.
 status: review

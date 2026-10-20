@@ -1,6 +1,7 @@
 ---
 type: product
 id: classtime
+moved_from: [element/classtime-formative-assessment-platform]
 title: Classtime
 description: Classtime is a web-based formative-assessment platform made by Classtime that lets educators deliver interactive question sets, view responses and dashboards in real time, and provide feedback across subjects.
 product_kind: software

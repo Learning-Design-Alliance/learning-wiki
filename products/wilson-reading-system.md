@@ -1,6 +1,7 @@
 ---
 type: product
 id: wilson-reading-system
+moved_from: [design/wilson-three-block-lesson-plan-pattern, element/wilson-reading-system-curriculum]
 title: Wilson Reading System
 description: The Wilson Reading System is a structured literacy curriculum developed by Wilson Language Training for teaching decoding, spelling, fluency, vocabulary, and related reading skills to learners with word-level reading difficulties.
 product_kind: curriculum

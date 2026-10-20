@@ -14,7 +14,7 @@ sources:
     title: "Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548 [doi:10.48550/arxiv.2606.18548](https://doi.org/10.48550/arxiv.2606.18548)"
     author: Yongkyung Oh, Lynn Talton, Alex Bui
     q: 2
-    i: 3
+    i: 2
     kind: associational
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Self-reported LLM usage frequency shows Holm-corrected associations with all five baseline AI perception outcomes, strongest for complex-task trust, accuracy trust, and critical-thinking risk
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q2` · `i3` large
+> **Evidence** · 1 study · associational `r2` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i3` Among 91 bioscience graduate and postdoctoral trainees, reported LLM usage frequency correlates with all five pre-instruction perception outcomes after Holm correction, with the largest association for complex-task trust (ρ=.409). [→ Yongkyung Oh 2026](#yongkyung-oh-2026)
+`q2 i2` Among 91 bioscience graduate and postdoctoral trainees, reported LLM usage frequency correlates with all five pre-instruction perception outcomes after Holm correction, with the largest association for complex-task trust (ρ=.409). [→ Yongkyung Oh 2026](#yongkyung-oh-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Yongkyung Oh, Lynn Talton, Alex Bui. (2026). Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction. KDD 2026 AI for Education Day, at the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '26). https://arxiv.org/abs/2606.18548 [doi:10.48550/arxiv.2606.18548](https://doi.org/10.48550/arxiv.2606.18548)
 
-`q2 · i3` · `associational · r2`
+`q2 · i2` · `associational · r2`
 
-Pre-instruction survey analysis of 91 bioscience graduate and postdoctoral trainees in a required RCR course, testing usage frequency as a five-level ordinal predictor with Spearman correlations and Holm correction. The printed ρ=.409 for complex-task trust exceeds the large-effect threshold; usage survived correction on all five outcomes.
+Pre-instruction survey analysis of 91 bioscience graduate and postdoctoral trainees in a required RCR course, testing usage frequency as a five-level ordinal predictor with Spearman correlations and Holm correction. The largest printed association is ρ=.409 for complex-task trust, a medium correlation by Cohen's conventions (the article itself does not classify its size); usage survived correction on all five outcomes.
 
 > "Usage frequency shows the largest associations for complex-task trust (𝜌=.409 ), accuracy trust (𝜌=.370 ), and critical-thinking risk (𝜌=−.346 )."
 

@@ -1,6 +1,7 @@
 ---
 type: product
 id: gsa
+moved_from: [theory/gsa-guided-self-analysis-system]
 title: GSA
 description: A teacher professional-development system that guides educators in videotaping, coding, and reviewing their own classroom teaching to identify strengths and areas for change.
 product_kind: framework

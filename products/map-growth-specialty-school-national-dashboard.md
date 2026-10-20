@@ -1,6 +1,7 @@
 ---
 type: product
 id: map-growth-specialty-school-national-dashboard
+moved_from: [element/map-growth-specialty-school-national-dashboard-appendix]
 title: MAP Growth Specialty School National Dashboard
 description: A NWEA data dashboard reporting growth results for U.S.
 product_kind: software

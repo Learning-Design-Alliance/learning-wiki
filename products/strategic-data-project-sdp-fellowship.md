@@ -1,6 +1,7 @@
 ---
 type: product
 id: strategic-data-project-sdp-fellowship
+moved_from: [design/four-section-agency-data-use-profile-structure, element/sdp-ep-fellowship-programs-context]
 title: Strategic Data Project (SDP) Fellowship
 description: Fellowship programmes run by the Strategic Data Project and Education Pioneers that place and support fellows in education agencies to strengthen data-use capacity and practices.
 product_kind: programme

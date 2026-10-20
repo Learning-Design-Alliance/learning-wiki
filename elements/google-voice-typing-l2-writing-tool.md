@@ -44,7 +44,7 @@ Google voice typing in Google Docs is an automatic speech recognition tool that 
 - [Through Chapelle's CALL evaluation criteria, participants experienced ASR writing as useful, authentic, meaning-focused, and matched to their proficiency level](../claims/chapelle-criteria-asr-writing-affordances.md) [+W]
 - [Adult ESL learners report above-neutral perceptions of ASR as a writing tool on usefulness, ease of use, and intention to use](../claims/esl-learners-positive-perceptions-asr-writing.md) [+W]
 - [Interviews reveal ESL learners valued ASR for bypassing orthography and grammar concerns, pronunciation practice, self-efficacy, and user-friendly voice commands](../claims/interviews-asr-ease-and-speaking-benefits.md) [+W]
-- [Some ESL learners perceived their English proficiency as too low for ASR to transcribe intelligibly, acting as a barrier to perceived usefulness](../claims/low-proficiency-intelligibility-barrier-asr.md) [-W]
+- [Some ESL learners felt their English was not high enough to use ASR because their speech was not always intelligible to it, although overall perceived usefulness was positive](../claims/low-proficiency-intelligibility-barrier-asr.md) [-W]
 - [Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest](../claims/tam-construct-means-asr-writing-study.md) [+W]
 
 ## Related Elements

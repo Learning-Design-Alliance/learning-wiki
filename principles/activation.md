@@ -1,6 +1,7 @@
 ---
 type: principle
 id: activation
+moved_from: [pattern/merrills-first-principles-activation]
 aliases: [prior-knowledge-growth-point-new-knowledge]
 title: Activation
 description: "For learners whose relevant prior knowledge is accurate and is then used by the instruction that follows, an activity that makes it visible before instruction may improve comprehension or retention, while activating topic knowledge alone has often shown little effect and activated misconceptions need confronting."

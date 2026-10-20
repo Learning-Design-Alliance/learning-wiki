@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: value-added-modeling
+moved_from: [element/value-added-teacher-effectiveness-measures, theory/value-added-measures-of-teacher-quality-mobility, theory/value-added-methods-framework-oklahoma-report, theory/value-added-modeling-educator-effectiveness-framework, theory/value-added-models-separate-teacher-contributions, theory/value-added-models-teacher-principal-evaluation, theory/value-added-teacher-effectiveness-measure, theory/value-added-teacher-performance-measurement-nccee-brief]
 aliases: [school-value-added-modeling]
 title: Value-added modeling
 description: "Value-added measures quantify a teacher's contribution to students' learning gains."

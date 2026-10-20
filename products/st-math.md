@@ -1,6 +1,7 @@
 ---
 type: product
 id: st-math
+moved_from: [element/st-math-supplemental-program]
 title: ST Math
 description: ST Math is game-based instructional software for K–12 mathematics developed and provided by the MIND Research Institute, using visual-spatial puzzles to support mathematics learning.
 product_kind: software

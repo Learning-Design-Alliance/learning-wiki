@@ -1,6 +1,7 @@
 ---
 type: product
 id: videodisc-authoring-and-production-system-vaps
+moved_from: [element/videodisc-authoring-production-system-vaps]
 title: Videodisc authoring and production system (VAPS)
 description: VAPS is an Army-oriented hardware and software system for authoring, producing, editing, testing, mastering, and replicating interactive videodisc training materials.
 product_kind: software

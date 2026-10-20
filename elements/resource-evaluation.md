@@ -54,7 +54,7 @@ Resource evaluation works when learners actively apply criteria to real, contras
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- [Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source](../claims/children-trust-test-chatbot-with-known-answers.md) [+W]
+- [Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source](../claims/children-trust-test-chatbot-with-known-answers.md) [+W]
 - [ChatGPT users differentiated information less (never by credibility) and rarely verified information compared to Google users](../claims/chatgpt-reduced-differentiation-verification.md) [-W]
 - [AI hallucination can be turned into a pedagogical resource by making verification and collaborative fact evaluation integral to AI-supported learning](../claims/hallucination-as-pedagogical-resource.md) [~W]
 - [Large language models can produce fluent but factually inaccurate or fabricated outputs (AI hallucination), posing risks for uncritical users in science education](../claims/llm-hallucination-risk-science-education.md) [+W]

@@ -1,6 +1,7 @@
 ---
 type: product
 id: turnaround-leader-competencies
+moved_from: [element/turnaround-leaders-competencies-infographic]
 title: Turnaround Leader Competencies
 description: A Center on School Turnaround at WestEd competency framework identifying high-impact motives, habits, and behaviors for developing leaders responsible for rapid improvement in persistently low-performing schools.
 product_kind: framework

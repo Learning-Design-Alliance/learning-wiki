@@ -42,7 +42,7 @@ Based on findings that delayed ratings at the end of a task set are affected by 
 
 - [Delayed perceived task difficulty ratings relate more strongly to the relative difficulty of the more demanding items within a task set, consistent with delayed ratings being affected by the most demanding item](../claims/delayed-ratings-track-most-demanding-items.md) [+W]
 - [A single delayed cognitive load rating after a problem sequence is significantly higher than the average of immediate ratings for both mental effort and perceived difficulty (Experiment 1)](../claims/delayed-cognitive-load-ratings-higher-than-immediate-averages-exp1.md) [+W]
-- [Delayed cognitive load ratings are based mainly on the more complex problems in the series rather than on a recency effect](../claims/delayed-ratings-based-on-complex-problems.md) [+W]
+- [Delayed cognitive load ratings appear to be based more on the more complex problems in the series than on a recency effect](../claims/delayed-ratings-based-on-complex-problems.md) [+W]
 
 ## Related Strategies
 - 

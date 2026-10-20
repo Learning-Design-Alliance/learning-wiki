@@ -1,6 +1,7 @@
 ---
 type: product
 id: guide-to-measuring-implementation-the-3us
+moved_from: [element/guide-to-measuring-implementation-3us-resource]
 title: "Guide to Measuring Implementation: The 3Us"
 description: A Mathematica practical guidance resource that helps implementing organizations decide when and how to measure implementation indicators and use the findings.
 product_kind: framework

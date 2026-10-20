@@ -1,6 +1,7 @@
 ---
 type: product
 id: north-carolina-generative-ai-implementation-recommendations
+moved_from: [element/north-carolina-five-levels-ai-assessment]
 title: North Carolina Generative AI Implementation Recommendations
 description: A framework issued by North Carolina to guide K–12 generative-AI implementation, including shared levels and disclosure recommendations for AI-assisted assessment work.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: star
+moved_from: [element/star-remedial-reading-program-hsr]
 title: STAR
 description: A remedial reading programme for high-school students with serious literacy problems, offered within High School Redirection schools.
 product_kind: programme

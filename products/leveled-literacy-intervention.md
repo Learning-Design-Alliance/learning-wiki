@@ -1,6 +1,7 @@
 ---
 type: product
 id: leveled-literacy-intervention
+moved_from: [design/alternating-independent-instructional-level-texts, element/leveled-literacy-intervention-program, element/leveled-literacy-intervention-system]
 title: Leveled Literacy Intervention
 description: "Leveled Literacy Intervention is a Fountas & Pinnell literacy intervention programme providing daily small-group tutoring for struggling readers, typically in kindergarten through grade 2."
 product_kind: programme

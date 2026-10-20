@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total
-description: A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total
+title: The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation
+description: The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation
 id: mad-city-mystery-ar-argumentation-cases
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# A place-based augmented reality game (Mad City Mystery) engaged students in scientific argumentation across three case studies of roughly 28 students total
+# The authors of three case studies (roughly 28 students) argue that a place-based augmented reality game, Mad City Mystery, holds potential for engaging students in scientific argumentation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
-`q2 i?` In three cross-case studies (roughly 28 students total), the Mad City Mystery augmented reality curriculum was used to support learning in environmental science, and the authors argue it engaged students in meaningful scientific argumentation. [→ Squire 2007](#squire-2007)
+`q2 i?` In three cross-case studies (roughly 28 students total), the Mad City Mystery augmented reality curriculum was used to support learning in environmental science, and the authors argue that such games "hold potential for engaging students in meaningful scientific argumentation"; the abstract reports no measured outcome. [→ Squire 2007](#squire-2007)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Squire, K.D., Jan, M. (2007). Mad City Mystery: Developing Scientific Argumentat
 
 `q2 · i?` · `design · r?`
 
-Design-based research cross-case comparison of three cases using the Mad City Mystery AR curriculum for environmental science; the article states the study "investigates three cases (roughly 28 students total)". No effect sizes are printed in the available text.
+Design-based research cross-case comparison of three cases using the Mad City Mystery AR curriculum for environmental science; the article states the study "investigates three cases (roughly 28 students total)". The available text (the abstract) states the authors' argument that such games "hold potential for engaging students in meaningful scientific argumentation" and reports no measured outcome or effect size.
 
 > "This cross-case comparison as a component of a design-based research study investigates three cases (roughly 28 students total) where an Augmented Reality curriculum, Mad City Mystery, was used to support learning in environmental science."
 

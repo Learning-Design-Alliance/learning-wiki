@@ -46,7 +46,7 @@ WWC synthesis of two studies (Fuchs et al., 1997, 40 students; Saenz et al., 200
 
 - [Peer-assisted instruction and small-group instruction by adults have large, robust short-term effect sizes for K-6 struggling students](peer-assisted-and-small-group-instruction-most-effective.md) — the general claim this finding bears on, with the studies behind it
 - [PALS showed no statistically significant effects on near-transfer and far-transfer reading fluency for first graders](pals-fluency-no-significant-effects-first-grade.md) — related
-- [PALS effects were statistically significant for the full diverse sample but not for the learning-disability subsets analyzed separately](pals-full-sample-significant-ld-subset-not.md) — related
+- [PALS effects on the learning-disability subsets analyzed separately were not statistically significant, while the full-sample effect was significant in one study (Fuchs et al., 1997) and not in the other (Saenz et al., 2005)](pals-full-sample-significant-ld-subset-not.md) — related
 - [PALS shows no discernible effects on mathematics for students with learning disabilities](pals-no-discernible-math-effects-ld.md) — related
 - [PALS shows potentially positive effects on reading comprehension for students with learning disabilities (average effect size 0.75, not statistically significant)](pals-potentially-positive-reading-comprehension-ld.md) — related
 - [The WWC Adolescent Literacy review rates PALS as having potentially positive effects on reading comprehension from one trial of students averaging 9.8 years old, with an effect size of 0.48 that is not statistically significant when adjusted for clustering](pals-potentially-positive-comprehension-effect-adolescent.md) — related

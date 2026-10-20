@@ -1,6 +1,7 @@
 ---
 type: product
 id: istart-2
+moved_from: [element/istart2-game-based-its]
 title: iSTART-2
 description: iSTART-2 is a game-based intelligent tutoring system developed by researchers to provide high school students with self-explanation training and practice for reading comprehension.
 product_kind: software

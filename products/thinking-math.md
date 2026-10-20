@@ -1,6 +1,7 @@
 ---
 type: product
 id: thinking-math
+moved_from: [element/thinking-math-innovamat-curriculum-element]
 title: "Thinking Math!"
 description: "Innovamat's PreK–8 mathematics curriculum package combines socio-constructivist lessons, manipulative materials, student logbooks, digital planning and progress monitoring, adaptive practice, and professional development."
 product_kind: curriculum

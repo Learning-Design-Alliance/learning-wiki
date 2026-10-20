@@ -1,6 +1,7 @@
 ---
 type: product
 id: passport-to-teaching
+moved_from: [element/passport-to-teaching-abcte-exam-certification, element/passport-to-teaching-abcte-program, element/passport-to-teaching-certification-program]
 title: Passport to Teaching
 description: "The American Board for Certification of Teacher Excellence's Passport to Teaching is an examination-based teacher-certification programme intended to identify competent teachers regardless of their preparation route."
 product_kind: programme

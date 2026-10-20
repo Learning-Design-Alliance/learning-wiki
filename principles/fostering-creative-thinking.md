@@ -1,6 +1,7 @@
 ---
 type: principle
 id: fostering-creative-thinking
+moved_from: [pattern/heterogeneity-seeking-modeling-curriculum]
 aliases: [assess-process-over-product-maker-education, low-stakes-nonjudgmental-creativity-environment]
 title: Fostering Creative Thinking
 description: "For learners producing ideas or products in a domain they partly know, open prompts with many answers, generating kept apart in time from judging, grading and reward, and own ideas before AI are expected to yield more varied ideas, sustained interest and better unaided generation later; no claim in the wiki tests the relationship as a whole, though neighbouring claims test rewards, praise, AI sequencing, explicit strategy instruction and a pause before choosing."

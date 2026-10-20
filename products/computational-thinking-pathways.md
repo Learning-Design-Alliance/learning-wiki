@@ -1,6 +1,7 @@
 ---
 type: product
 id: computational-thinking-pathways
+moved_from: [element/computing-pathways-rpp-districts, element/computing-pathways-rpp-three-districts, element/ct-pathways-toolkit, element/eky-rural-ct-partnership, element/iccsd-inclusive-ct-pathways-competency-map, element/inclusive-ct-pathways-toolkit, element/ipsd-inclusive-ct-competency-map, element/kentucky-appalachia-ct-pathway-rpp, element/talladega-inclusive-ct-pathways-document]
 title: Computational Thinking Pathways
 description: A Digital Promise framework of system-wide K–12 computational-thinking learning progressions designed to support equitable participation through consistent, cumulative, and competency-based learning across classrooms and years.
 product_kind: framework

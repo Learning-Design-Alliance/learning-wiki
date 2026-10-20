@@ -1,6 +1,7 @@
 ---
 type: product
 id: vtds
+moved_from: [element/intelligent-videodisc-training-delivery-system]
 title: VTDS
 description: A computer-controlled videodisc training system described by Bunderson et al.
 product_kind: software

@@ -35,7 +35,7 @@ Romance, R., Nielsen-Rodríguez, A., Sousa Mendes, R., Dobado-Castañeda, J. C.,
 
 `q3 · i?` · `associational · r2`
 
-Null bivariate correlation results (Table 2) from the cross-sectional accelerometry study. The article also states that "sedentary behavior was not significantly related to any of them"; no effect sizes are printed for these null findings, so equivalence was not tested.
+Null bivariate correlation results (Table 2) from the cross-sectional accelerometry study. The article also states that "sedentary behavior was not significantly related to any of them"; Table 2 prints these correlations, all nonsignificant and small (absolute values no larger than about .17), but a nonsignificant correlation is not evidence of no relationship: equivalence was not tested.
 
 > "However, no relationship was found between light or moderate physical activity with any of the creativity components or with creativity in general."
 

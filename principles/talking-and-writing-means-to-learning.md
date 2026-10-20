@@ -1,6 +1,7 @@
 ---
 type: principle
 id: talking-and-writing-means-to-learning
+moved_from: [pattern/functional-approach-bics-to-calp-progression]
 aliases: [reduce-teacher-talk-increase-student-talk, relaxed-atmosphere-communicative-activities, teacher-support-and-speaking-practice-reduce-flca, dialogue-safe-environment-bildung-film-education]
 title: Treat talking and writing as means to learning through dialogue-based, student-centered instruction
 description: "For learners meeting content they must understand, especially through a second language, moving lesson time from teacher talk to learners' own purposeful talk and short writing about the content, in a class where mistakes are safe, is expected to deepen understanding and willingness to speak; no claim tests this whole relationship, writing-to-learn and discussion-versus-lecture claims test its halves, and more talk alone does not raise comprehension."

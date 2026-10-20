@@ -1,6 +1,7 @@
 ---
 type: product
 id: early-warning-intervention-and-monitoring-system-ewims
+moved_from: [element/ewims-program-element]
 title: Early Warning Intervention and Monitoring System (EWIMS)
 description: A school-based programme developed for schools to use staff teams, student indicators, targeted interventions, and progress monitoring to support students at risk of not graduating on time.
 product_kind: programme

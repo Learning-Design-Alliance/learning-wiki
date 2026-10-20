@@ -1,6 +1,7 @@
 ---
 type: product
 id: sacd-research-program
+moved_from: [theory/sacd-six-goal-framework]
 title: SACD Research Program
 description: The U.S.
 product_kind: framework

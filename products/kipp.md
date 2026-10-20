@@ -1,6 +1,7 @@
 ---
 type: product
 id: kipp
+moved_from: [element/kipp-charter-middle-school-network, element/kipp-charter-network-intervention, element/kipp-charter-school-network, element/kipp-network-five-pillars-model, element/kipp-public-charter-school-network]
 title: KIPP
 description: KIPP is a network of public charter schools operated by the KIPP Foundation and affiliated local KIPP organizations, serving students through its school model.
 product_kind: programme

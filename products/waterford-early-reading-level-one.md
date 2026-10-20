@@ -1,6 +1,7 @@
 ---
 type: product
 id: waterford-early-reading-level-one
+moved_from: [element/waterford-early-reading-level-one-curriculum]
 title: Waterford Early Reading Level One™
 description: Waterford Early Reading Level One™ is a Waterford computer-based emergent-literacy curriculum that provides individualized early reading instruction and related print, phonological-awareness, and teacher-monitoring materials for preschool learners.
 product_kind: curriculum

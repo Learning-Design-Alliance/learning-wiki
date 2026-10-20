@@ -45,7 +45,7 @@ Moderator analysis of effort measurement type (k reported in Table 1: objective 
 ## Related Claims
 - [Effort appraisals correlate negatively with monitoring judgments: high mental effort is associated with poorer performance judgments](effort-appraisals-negative-correlation-monitoring.md) — related
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](effort-item-wording-flips-correlation-direction.md) — related
-- [Goal-driven manipulations (incentives, time pressure, self-agency) weaken the negative effort–monitoring correlation to nonsignificance](goal-driven-manipulations-eliminate-negative-correlation.md) — related
+- [Goal-driven manipulations weaken the negative effort–monitoring correlation, which is nonsignificant under incentives, time pressure or self-agency ratings taken singly](goal-driven-manipulations-eliminate-negative-correlation.md) — related
 - [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — related
 - [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related

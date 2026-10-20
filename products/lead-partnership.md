@@ -1,6 +1,7 @@
 ---
 type: product
 id: lead-partnership
+moved_from: [element/lead-partnership-early-childhood-pd-program, theory/lead-logic-model-outcome-chain]
 title: LEAD Partnership
 description: The LEAD Partnership is an Oklahoma State Department of Education-supported professional-development and implementation-support programme for early-childhood school leaders and prekindergarten and kindergarten teachers, focused on research-based early-learning practices.
 product_kind: programme

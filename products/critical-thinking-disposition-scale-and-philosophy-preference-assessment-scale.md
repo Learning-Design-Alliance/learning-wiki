@@ -1,6 +1,7 @@
 ---
 type: product
 id: critical-thinking-disposition-scale-and-philosophy-preference-assessment-scale
+moved_from: [element/ctds-ppas-measurement-instruments]
 title: Critical Thinking Disposition Scale and Philosophy Preference Assessment Scale
 description: A paired set of Likert-type instruments comprising the Ricketts and Rudd Critical Thinking Disposition Scale, adapted into Turkish by Demircioglu, and the Cetin, Ilhan, and Arslan Philosophy Preference Assessment Scale, used to measure critical-thinking dispositions and traditional versus contempora
 product_kind: assessment

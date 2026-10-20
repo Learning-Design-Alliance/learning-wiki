@@ -1,6 +1,7 @@
 ---
 type: product
 id: readable-english
+moved_from: [element/readable-english-program-element]
 title: Readable English
 description: Readable English is a branded reading intervention programme developed and delivered by Readable English, combining an adaptive conversion tool with sequenced scripted phonics-to-comprehension lessons for struggling readers.
 product_kind: programme

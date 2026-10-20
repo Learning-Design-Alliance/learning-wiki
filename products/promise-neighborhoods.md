@@ -1,6 +1,7 @@
 ---
 type: product
 id: promise-neighborhoods
+moved_from: [design/place-based-grantee-led-community-supports-pattern, element/promise-neighborhoods-federal-grant-program-element, theory/promise-neighborhoods-cradle-to-career-continuum-theory]
 title: Promise Neighborhoods
 description: Promise Neighborhoods is a U.S.
 product_kind: programme

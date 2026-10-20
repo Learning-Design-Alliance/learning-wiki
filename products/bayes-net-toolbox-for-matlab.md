@@ -1,6 +1,7 @@
 ---
 type: product
 id: bayes-net-toolbox-for-matlab
+moved_from: [element/bayes-net-toolbox-graph-transformations]
 title: Bayes Net Toolbox for Matlab
 description: Bayes Net Toolbox for Matlab is a software toolbox developed by Kevin Murphy for representing, manipulating, and performing inference with Bayesian networks.
 product_kind: software

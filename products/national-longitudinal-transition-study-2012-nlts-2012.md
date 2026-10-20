@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-longitudinal-transition-study-2012-nlts-2012
+moved_from: [element/nlts-2012-dataset-design-documentation, element/nlts-2012-surveys-youth-disabilities-parents]
 title: National Longitudinal Transition Study 2012 (NLTS 2012)
 description: A U.S.
 product_kind: dataset

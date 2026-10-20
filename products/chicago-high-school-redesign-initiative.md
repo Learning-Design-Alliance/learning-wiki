@@ -1,6 +1,7 @@
 ---
 type: product
 id: chicago-high-school-redesign-initiative
+moved_from: [element/chsri-small-high-schools-element, theory/chsri-small-schools-theory-of-action]
 aliases: [chicago-high-school-redesign-initiative-chsri]
 title: Chicago High School Redesign Initiative
 description: A school-redesign initiative that supported the creation and development of small Chicago public high schools through partnerships among Chicago Public Schools, funders, and participating school communities.

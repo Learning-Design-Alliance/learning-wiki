@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: semi-supervised-ann-framework-combining-anns-with-dina-and-dino-diagnostic-classification
+moved_from: [theory/semi-supervised-ann-cdm-framework]
 title: Semi-supervised ANN framework combining ANNs with DINA and DINO diagnostic classification models
 description: The article proposes a framework that combines artificial neural networks with two typical theoretical diagnostic classification models, the DINA model and the DINO model, within a semi-supervised learning framework.
 status: review

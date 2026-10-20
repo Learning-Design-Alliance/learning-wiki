@@ -1,6 +1,7 @@
 ---
 type: product
 id: future-ready-talent-framework
+moved_from: [principle/common-language-talent-framework-wil-stakeholders, theory/future-ready-talent-framework-frtf]
 title: Future Ready Talent Framework
 description: A conceptual framework synthesized by Pretti et al.
 product_kind: framework

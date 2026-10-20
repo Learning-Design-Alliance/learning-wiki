@@ -1,6 +1,7 @@
 ---
 type: product
 id: ielce
+moved_from: [element/ielce-five-performance-indicators]
 title: IELCE
 description: A federally supported adult-education programme administered through state and local providers that combines English-language literacy instruction with civics education for adult learners, including immigrants.
 product_kind: programme

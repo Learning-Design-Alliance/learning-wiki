@@ -1,6 +1,7 @@
 ---
 type: process
 id: design-based-research
+moved_from: [research-method/design-based-research]
 title: Design-Based Research
 description: A design process run as research. An intervention is designed and revised over repeated cycles in a real learning setting, in collaboration with practitioners, so that each cycle both improves the design and builds or tests theory about learning.
 status: review
@@ -14,7 +15,7 @@ grain_size: course
 # Design-Based Research
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 6 claims (6 for) · 5 studies (3 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 5 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 6 studies (4 design, 1 qualitative, 1 theoretical), `q1`–`q2` · 0 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 Design-based research (DBR) develops an educational intervention and a theory together. The designer-researcher builds the intervention in a real teaching and learning setting, tests it, revises it, and tests it again. Each revision is a small experiment, and what is learned is meant to improve the design and contribute to theory about learning. Christensen and West's review trace it to Brown (1992) and Collins (1990, 1992), who took Herbert Simon's call in *The Sciences of the Artificial* for a rigorous science of designed things and applied it to classrooms.

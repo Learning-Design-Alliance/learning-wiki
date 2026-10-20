@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Children with better numerical magnitude processing ability were faster and more accurate in mentally solving multi-digit subtractions, even after controlling for intellectual ability and motor speed. [→ Linsen 2014](#linsen-2014)
+`q3 i?` Children who were faster at symbolic magnitude comparison were also faster at mentally solving multi-digit subtractions (partial r = .43 and .50), and more accurate on indirect-addition items, controlling for intellectual ability; the response-time associations held after also controlling motor speed (rs > .39). [→ Linsen 2014](#linsen-2014)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association 
 
 `q3 · i?` · `associational · r2`
 
-Partial correlational analyses in a study of 56 third-graders, controlling for intellectual ability and motor reaction time, showed significant associations between numerical magnitude processing tasks and mental multi-digit subtraction performance. The article reports "a significant association between numerical magnitude processing and mental multi-digit subtraction"; no effect size is printed.
+Partial correlational analyses in a study of 56 third-graders, controlling for intellectual ability and motor reaction time, showed significant associations between numerical magnitude processing tasks and mental multi-digit subtraction performance. Table 3 prints the partial correlations: symbolic comparison speed with subtraction speed r = .43 (direct subtraction) and .50 (indirect addition), with indirect-addition accuracy r = −.32; nonsymbolic comparison accuracy with indirect-addition accuracy r = .33; symbolic number-line error with subtraction speed r = .37 and .35. The speed associations stayed significant after also controlling motor reaction time (rs > .39); other associations were nonsignificant. Impact is left uncoded because these are correlations, not converted to a d-type effect size.
 
 > "our results indicated that there was a significant association between numerical magnitude processing and mental multi-digit subtraction, even after we additionally controlled for intellectual ability and motor speed"
 

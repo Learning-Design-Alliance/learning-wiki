@@ -1,6 +1,7 @@
 ---
 type: product
 id: school-district-of-philadelphia-administrative-dataset-on-teacher-employment-and-studentte
+moved_from: [element/sdp-teacher-data-employment-linkages]
 title: School District of Philadelphia administrative dataset on teacher employment and student–teacher linkages
 description: An administrative dataset supplied by the School District of Philadelphia containing teacher employment, teacher characteristics, student–teacher linkages, and school characteristics for analyzing teacher turnover and equitable access to effective teachers.
 product_kind: dataset

@@ -1,6 +1,7 @@
 ---
 type: product
 id: national-study-of-online-charter-schools
+moved_from: [element/national-study-online-charter-schools-data]
 title: National Study of Online Charter Schools
 description: A national research dataset assembled through a survey of online charter-school principals and U.S.
 product_kind: dataset

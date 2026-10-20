@@ -62,5 +62,5 @@ The review describes emerging collaborative QRIS approaches citing Alston (2025)
 
 
 ## Related Claims
-- [California's ECE programs are held to very different quality standards, producing unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
+- [California's ECE programs are held to very different quality standards, which can mean unequal learning opportunities for similar children](california-ece-uneven-quality-standards.md) — related
 - [California's ECE data collection is fragmented and unaggregated, limiting its utility for improving the system](california-ece-fragmented-data-systems.md) — related

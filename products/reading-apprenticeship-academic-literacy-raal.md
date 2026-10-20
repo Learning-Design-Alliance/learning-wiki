@@ -1,6 +1,7 @@
 ---
 type: product
 id: reading-apprenticeship-academic-literacy-raal
+moved_from: [element/raal-academic-literacy-course]
 title: Reading Apprenticeship Academic Literacy (RAAL)
 description: "Reading Apprenticeship Academic Literacy (RAAL) is Reading Apprenticeship's targeted year-long programme for students reading below grade level, delivered by trained and coached teachers in a dedicated daily class."
 product_kind: programme

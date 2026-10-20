@@ -1,6 +1,7 @@
 ---
 type: product
 id: 2003-improving-chicagos-schools-survey
+moved_from: [element/2003-improving-chicago-schools-survey]
 title: "2003 Improving Chicago's Schools survey"
 description: A Chicago Public Schools survey administered to students, teachers, and principals in 2003 to collect information about school experiences, instruction, professional development, and working conditions.
 product_kind: assessment

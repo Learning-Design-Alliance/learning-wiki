@@ -1,6 +1,7 @@
 ---
 type: product
 id: me-toolkit
+moved_from: [element/me-approach-associated-toolkit]
 title: "M&E toolkit"
 description: A monitoring and evaluation toolkit that helps practitioners generate and tailor evidence for solutions at different stages of development.
 product_kind: framework

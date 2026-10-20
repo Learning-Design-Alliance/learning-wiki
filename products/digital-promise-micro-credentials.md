@@ -1,6 +1,7 @@
 ---
 type: product
 id: digital-promise-micro-credentials
+moved_from: [element/ct-booster-microcredentials-data-algorithms, element/digital-promise-ct-micro-credentials, element/digital-promise-micro-credential-ecosystem, element/digital-promise-microcredentials-element, element/educator-micro-credentialing-ecosystem, element/educator-micro-credentials-five-step-process, element/micro-credentials-digital-competency-certifications, element/pr-spanish-micro-credential-journey-map-system]
 title: Digital Promise Micro-credentials
 description: Digital Promise runs a platform and programme through which educators earn competency-based micro-credentials, with issuers including universities, nonprofits, districts, and the NEA.
 product_kind: programme

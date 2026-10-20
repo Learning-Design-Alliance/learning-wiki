@@ -1,6 +1,7 @@
 ---
 type: product
 id: talent-development-high-school
+moved_from: [element/talent-development-high-school-program, element/tdhs-whole-school-reform-model]
 title: Talent Development High School
 description: "A whole-school reform programme developed by Johns Hopkins University's Talent Development High School model to support ninth-grade students through small learning communities, double-dose curricula, extra help, and family and community involvement."
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: stanford-mooc-posts
+moved_from: [element/stanford-mooc-posts-dataset]
 title: Stanford MOOC Posts
 description: A corpus introduced by Liu et al.
 product_kind: dataset

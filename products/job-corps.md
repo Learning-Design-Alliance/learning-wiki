@@ -1,6 +1,7 @@
 ---
 type: product
 id: job-corps
+moved_from: [element/job-corps-program-element]
 title: Job Corps
 description: Job Corps is a U.S.
 product_kind: programme

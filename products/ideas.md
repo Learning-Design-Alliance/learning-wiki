@@ -1,6 +1,7 @@
 ---
 type: product
 id: ideas
+moved_from: [element/ideas-teacher-academy-element]
 title: IDEAS
 description: A NASA-associated professional-development initiative that used a four-day teacher academy and two years of follow-up support to help K–12 educators integrate astronomy and space-science web resources and computer technology into teaching.
 product_kind: programme

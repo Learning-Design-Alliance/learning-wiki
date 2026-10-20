@@ -1,6 +1,7 @@
 ---
 type: product
 id: sensenablr
+moved_from: [element/sensenablr-dashboard]
 title: SensEnablr
 description: SensEnablr is a student-facing learning analytics dashboard developed by Gomathy Ramaswami and colleagues that combines descriptive, predictive, and prescriptive analytics to help students interpret and act on their learning data.
 product_kind: software

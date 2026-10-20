@@ -1,6 +1,7 @@
 ---
 type: product
 id: whole-person-education-guide
+moved_from: [design/six-chapter-alignment-coherence-process]
 title: Whole-Person Education Guide
 description: A district-facing framework and facilitated planning guide for aligning whole-person education initiatives, developed for adoption by education systems.
 product_kind: framework

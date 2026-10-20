@@ -1,6 +1,7 @@
 ---
 type: product
 id: worldwide-telescope
+moved_from: [element/wwt-module-development-technology]
 title: WorldWide Telescope
 description: WorldWide Telescope is an interactive scientific data-visualization and aggregation software package developed by Microsoft Research, with astronomical imagery, a 3D Universe, and narrated interactive tours.
 product_kind: software

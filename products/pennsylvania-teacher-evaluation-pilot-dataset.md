@@ -1,6 +1,7 @@
 ---
 type: product
 id: pennsylvania-teacher-evaluation-pilot-dataset
+moved_from: [element/pennsylvania-fft-pilot-dataset-6676-teachers]
 title: Pennsylvania teacher evaluation pilot dataset
 description: A dataset covering teacher-observation and value-added evaluation measures for 6,676 teachers across 269 Pennsylvania districts during the 2012–2013 pilot and comparison period, assembled for the Pennsylvania teacher-evaluation pilot.
 product_kind: dataset

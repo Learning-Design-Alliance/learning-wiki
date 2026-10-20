@@ -1,6 +1,7 @@
 ---
 type: product
 id: number-rockets
+moved_from: [element/number-rockets-tutoring-program]
 title: Number Rockets
 description: Number Rockets is a scripted Tier 2 small-group mathematics tutoring program for first-grade students struggling in math, delivered by tutors in supplemental 40-minute sessions.
 product_kind: programme

@@ -1,6 +1,7 @@
 ---
 type: product
 id: kipp-pre-k
+moved_from: [element/kipp-prek-program]
 title: KIPP Pre-K
 description: A pre-kindergarten programme offered and operated by the KIPP charter-school network for young children entering KIPP schools.
 product_kind: programme

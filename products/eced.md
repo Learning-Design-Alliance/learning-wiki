@@ -1,6 +1,7 @@
 ---
 type: product
 id: eced
+moved_from: [design/on-site-coach-for-eced-implementation, element/eced-program-element, element/writing-matters-curriculum]
 title: ECED
 description: Every Classroom, Every Day (ECED) is a two-year stand-alone high-school literacy and mathematics curriculum programme using Reading Matters, Writing Matters, and Power 10 strategies.
 product_kind: curriculum

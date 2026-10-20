@@ -1,6 +1,7 @@
 ---
 type: product
 id: wwc-seven-recommendation-framework-for-preparing-young-children-for-school
+moved_from: [theory/wwc-seven-recommendations-preschool-readiness]
 title: WWC seven-recommendation framework for preparing young children for school
 description: A What Works Clearinghouse practice-guide framework that organizes seven evidence-informed recommendations for preschool educators across social-emotional, executive-function, mathematics, and literacy instruction.
 product_kind: framework

@@ -1,6 +1,7 @@
 ---
 type: product
 id: simcalc
+moved_from: [element/simcalc-curricular-activity-system]
 title: SimCalc
 description: SimCalc is a mathematics curriculum package developed by the SimCalc project that integrates dynamic representation software, student workbooks, and teacher professional development for teaching rate, proportionality, and linear functions.
 product_kind: curriculum

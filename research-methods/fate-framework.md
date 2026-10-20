@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: fate-framework
+moved_from: [theory/fate-framework-mmla-student-centred]
 title: FATE framework
 description: The article organizes the evaluation of multimodal learning analytics around four dimensions synthesized from prior FATE research in AI and learning analytics.
 status: review
@@ -30,7 +31,7 @@ The article organizes the evaluation of multimodal learning analytics around fou
 - [Students' perceptions of the fairness of MMLA visualizations in an authentic nursing simulation deployment were mixed, hinging on accuracy and completeness of data representation](../claims/mmla-fairness-perceptions-mixed-accuracy.md) [+M]
 - [Students supported tiered data access: broad access for self-reflection, educator access for teaching, and restricted access to raw video and audio](../claims/mmla-tiered-data-access-preferences.md) [+M]
 - [Students held misconceptions about how MMLA data was collected and processed, and most relied on guesswork when explaining the analysis pipeline](../claims/mmla-transparency-misconceptions-guesswork.md) [+M]
-- [Most students preferred opt-out over opt-in consent for low-risk MMLA research, but many did not fully read the explanatory statement](../claims/opt-out-consent-preferred-mmla.md) [+M]
+- [In one MMLA nursing simulation study, 11 of 14 interviewed students preferred opt-out over opt-in consent, but most did not fully read the explanatory statement](../claims/opt-out-consent-preferred-mmla.md) [+M]
 
 ## Related Research Methods
 -

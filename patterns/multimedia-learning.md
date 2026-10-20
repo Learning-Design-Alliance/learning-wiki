@@ -1,6 +1,7 @@
 ---
 type: pattern
 id: multimedia-learning
+moved_from: [principle/leader-criteria-sol-alignment-digital-materials, principle/prefer-narration-over-on-screen-text-middle-school]
 title: Multimedia Learning
 description: "A reusable policy for pairing an explanation's words with an informative picture, choosing placement, channel, pacing and segmentation from the learner's observed response and the intended outcome."
 canonical: true

@@ -59,7 +59,7 @@ The survey describes Bayesian Knowledge Tracing (BKT), introduced by Corbett and
 - [In simulated online mastery learning, BKT gave the fewest problems, Streak the second fewest, Random the most, and DKT gave almost as many as Random in one problem type and the least in the other two](../claims/problem-counts-by-knowledge-tracing-condition.md) [~W]
 - [Adaptive scaffolding policies (BKT and DRL) significantly improve posttest performance over a non-adaptive control in a logic ITS](../claims/adaptive-icap-scaffolding-improves-posttest-logic-tutor.md) [+W]
 - [Individualizing the initial knowledge parameter reliably improves prediction of real-world data](../claims/individualizing-initial-knowledge-improves-prediction.md) [+W] — attached 2026-10-14 from Pardos et al. (2010), which proposed "Individualized Bayesian knowledge tracing framework".
-- [The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
+- [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
 - [BKT students completed posttest problems significantly faster than Control students, with DRL showing marginal advantages in time and solution optimality](../claims/bkt-faster-posttest-completion.md) [+W]
 - [Corbett and Anderson's original individualization attempts produced mixed results](../claims/corbett-anderson-individualization-mixed-results.md) [~W]
 - [A Hidden Markov Model over knowledge states identifies Analytical Thinking (A5) as the learning bottleneck with the lowest forward transition probability](../claims/hmm-identifies-a5-bottleneck.md) [~W]
@@ -122,7 +122,7 @@ Bayesian Knowledge Tracing (BKT) is a student model used to infer a student's kn
 
 ### Claims
 
-- [The exponential functional form of the BKT HMM calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
+- [The exponential functional form of the BKT Markov chain calls into question the popular practice of fitting that model form to student data](../claims/bkt-hmm-exponential-form-questions-fitting-practice.md) [-W]
 
 ## Related Theories
 

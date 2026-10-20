@@ -1,6 +1,7 @@
 ---
 type: product
 id: progress-learning
+moved_from: [element/progress-learning-k12-platform, element/progress-learning-platform]
 title: Progress Learning
 description: Progress Learning is a standards-aligned K–12 online instructional platform that provides individualized learning paths, assessments, assignments, diagnostics, and progress monitoring across subjects.
 product_kind: software

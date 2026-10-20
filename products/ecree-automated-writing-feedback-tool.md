@@ -1,6 +1,7 @@
 ---
 type: product
 id: ecree-automated-writing-feedback-tool
+moved_from: [element/ecree-automated-writing-feedback-tool]
 title: Ecree automated writing feedback tool
 description: Ecree is an automated writing-feedback software tool used by teachers and students to support writing instruction and revision in classroom settings.
 product_kind: software

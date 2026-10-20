@@ -1,6 +1,7 @@
 ---
 type: research-method
 id: systematic-review
+moved_from: [theory/systematic-reviews-question-driven-syntheses]
 title: Systematic review
 description: The article defines systematic reviews as a distinct genre of research synthesis.
 status: review

@@ -1,6 +1,7 @@
 ---
 type: product
 id: kipp-middle-schools
+moved_from: [element/kipp-middle-schools-intervention]
 title: KIPP middle schools
 description: KIPP middle schools are public charter schools operated by the Knowledge Is Power Program (KIPP) network, which runs schools serving primarily underserved students across the United States.
 product_kind: programme

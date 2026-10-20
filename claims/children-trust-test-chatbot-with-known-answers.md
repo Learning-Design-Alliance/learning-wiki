@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source"
-description: "Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source"
+title: "Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source"
+description: "Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source"
 id: children-trust-test-chatbot-with-known-answers
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Children use a 'trust test' strategy, asking a chatbot questions they already know the answers to, to evaluate it as a credible information source
+# Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questions they already knew the answers to, to evaluate it as a credible information source
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Students posed questions to AMA for which they already knew the answers, and correct responses reinforced their trust in the chatbot. [→ Saniya Vahedian Movahed and Fred Martin 2025](#saniya-vahedian-movahed-and-fred-martin-2025)
+`q2 i?` Some of the 63 K-8 students who used the chatbot at one school posed questions to AMA for which they already knew the answers, which the authors interpret as first-hand experimentation that potentially reinforced their trust in the chatbot when it answered correctly. [→ Saniya Vahedian Movahed and Fred Martin 2025](#saniya-vahedian-movahed-and-fred-martin-2025)
 
 ## Evidence
 

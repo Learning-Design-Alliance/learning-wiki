@@ -43,7 +43,7 @@ Interview report: multiple teachers, including those of first-graders, described
 
 
 ## Related Claims
-- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — reports the opposite
+- [Performance task platform modality (technology-enhanced, technology-enabled, or paper-and-pencil) showed no detected relationship with grade 6-8 students' self-reported cognitive engagement in mathematics](platform-modality-no-relationship-cognitive-engagement.md) — reports the opposite
 - [Students appreciated specific features of paper-and-pencil tasks, namely the ability to navigate between items and to take notes](students-appreciate-paper-task-navigation-and-notes.md) — reports the opposite
 - Teachers participating in AMSTI reported more engaged students, greater content knowledge, and increased use of active learning strategies — related
 - [Students preferred taking tests with technology and showed favorability toward the technology-enhanced performance task, citing interactivity and animations that help visualize and work through problems](students-prefer-technology-enhanced-task-interactivity-animation.md) — related

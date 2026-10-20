@@ -1,6 +1,7 @@
 ---
 type: product
 id: ai-enabled-edtech-adoption-cycle
+moved_from: [element/edtech-pilot-navigator-models]
 title: AI-Enabled EdTech Adoption Cycle
 description: A four-phase adoption framework described by Ruiz et al.
 product_kind: framework

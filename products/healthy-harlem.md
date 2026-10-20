@@ -1,6 +1,7 @@
 ---
 type: product
 id: healthy-harlem
+moved_from: [element/get-fit-and-prevention-components, element/healthy-harlem-initiative-element, element/healthy-harlem-program-element]
 title: Healthy Harlem
 description: "Healthy Harlem is a school-based health and wellness programme whose Get Fit and Prevention components promote students' physical fitness, nutrition knowledge, and physical-activity self-efficacy."
 product_kind: programme

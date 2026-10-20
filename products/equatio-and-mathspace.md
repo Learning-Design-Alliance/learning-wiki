@@ -1,6 +1,7 @@
 ---
 type: product
 id: equatio-and-mathspace
+moved_from: [element/equatio-digital-math-tool]
 title: Equatio and Mathspace
 description: "Equatio is Texthelp's digital mathematics equation editor and accessibility tool, while Mathspace is a digital workspace for working with equations, shapes, and freehand drawings; teachers and students use them in mathematics instruction."
 product_kind: software

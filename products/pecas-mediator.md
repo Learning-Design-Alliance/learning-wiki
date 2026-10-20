@@ -1,6 +1,7 @@
 ---
 type: product
 id: pecas-mediator
+moved_from: [element/pecas-mediator-tool]
 title: PECAS Mediator
 description: A research-prototype remote-instruction tool developed by Chang et al.
 product_kind: software
