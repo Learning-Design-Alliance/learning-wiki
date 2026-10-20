@@ -38,9 +38,13 @@ Shared story reading (also called read alouds, repeated storybook reading, story
 
 ### Claims
 - Shared Story Reading Moderate Evidence Extensive Support Needs [+M]
+- [Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading](../claims/twenty-participants-literacy-gains-shared-story-reading.md) [+M]
+- [Shared story reading was always implemented as one component of a multi-component intervention package, so component contributions are unknown](../claims/shared-story-reading-multicomponent-package-unknown-components.md) [~M] — which of the common features does the work is not known
+
+## Patterns Used
+- [Shared Reading](../strategies/shared-reading.md): a story read aloud with supported reader-listener interaction, adapted with repeated story lines, attention getters, picture symbols and controlled vocabulary for students with disabilities
 
 ## Related Designs
-- 
 
 ## Examples
 -

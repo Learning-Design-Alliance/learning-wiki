@@ -27,6 +27,7 @@ Briya Public Charter School runs this free Washington, D.C., family-literacy pro
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Briya family literacy program integrating adult English, digital literacy, and parenting education with children's early education**: Briya Public Charter School is "a free family literacy program in Washington, D.C." where "Adults study English, digital literacy, and parenting, while children receive a high-quality early education." It operates four D.C. campuses with classrooms for parents and children, plus support services through a partnership with Mary's Center, a federally qualified health center. The program integrates parents' and children's educational experiences to improve families' educational, economic, and social opportunities. (Technology et al. (2016))
+- [Integrated English language and digital literacy curriculum](../designs/integrate-ell-with-digital-literacy-curriculum.md): English learning and digital skills taught together, with ELL routines such as reading URLs aloud
 
 ### Claims
 

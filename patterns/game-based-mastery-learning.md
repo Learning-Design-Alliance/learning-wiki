@@ -166,6 +166,7 @@ This pattern is scoped to cumulative skills that break into items scored on the 
 - Duolingo-style language progression with retries, streaks, and review loops.
 - Mastery-based digital math practice with adaptive item difficulty.
 - Technical skill trainers that unlock later levels only after demonstrated competence.
+- [My Math Academy adaptive game design](../designs/mma-adaptive-game-design-pattern.md) — early math games with in-game scaffolding and a personalised path between skills
 
 ## Key Sources
 - Gee, J. P. (2003). *What video games have to teach us about learning and literacy*. Palgrave Macmillan. [doi:10.1145/950566.950595](https://doi.org/10.1145/950566.950595)

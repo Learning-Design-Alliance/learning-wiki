@@ -39,7 +39,11 @@ SPECTRA (Supporting Princeton Educators of Color through Training, Relationships
 - 
 
 ## Related Designs
-- 
+- [Digital Promise's Inclusive Innovation model](../products/digital-promises-inclusive-innovation-model.md) — the exploration, ideation and implementation process SPECTRA was developed through
+- [District lessons from teacher-of-color initiatives](../strategies/district-lessons-teacher-of-color-initiatives.md)
+- [Admiral Squad](../products/admiral-squad.md) — another district initiative from the same cohort
+- [Teaching Is My Favorite Color](../products/teaching-is-my-favorite-color.md)
+- [Latina affinity group at Huntley 158](latina-affinity-group-huntley-158.md)
 
 ## Examples
 -

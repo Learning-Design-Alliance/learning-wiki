@@ -50,7 +50,8 @@ Drawing on craft (sloyd) tradition, the authors characterize school-based collab
 - [Digital learning environments characterized by problem- and project-centered, student-centered, collaborative, communicative, customized, productive and lifelong learning](digital-learning-environment-characteristics.md)
 
 ## Examples
--
+
+- [Teachers ensure even delegation of construction responsibilities in making teams](../strategies/even-delegation-of-fabrication-responsibilities.md): the teacher's job of spreading fabrication work evenly across the team
 
 ## Key Sources
 - Riikonen, S., Seitamaa-Hakkarainen, P., & Hakkarainen, K. (2020). Bringing maker practices to school: tracing discursive and materially mediated aspects of student teams' collaborative making processes. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-020-09330-6

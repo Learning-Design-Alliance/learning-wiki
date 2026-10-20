@@ -40,7 +40,9 @@ Galaxy Math operationalizes tutoring as a scripted, fixed-dosage, one-to-one del
 ### Claims
 
 ## Related Designs
-- 
+- [Galaxy Math](../products/galaxy-math.md) — the first-grade math tutoring programme whose delivery model this is
+- [Staff one-to-one tutoring with trained school staff rather than community volunteers](trained-staff-not-volunteers-as-reading-tutors.md) — the same question of who tutors, answered by Early Steps
+- [Embed tutoring in the school day with existing staff](../strategies/embed-tutoring-in-school-day-with-existing-staff.md)
 
 ## Examples
 -

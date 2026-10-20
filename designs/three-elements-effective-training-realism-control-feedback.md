@@ -37,10 +37,14 @@ The article proposes that effective training depends on three major elements: ex
 - Adjusting behavior to achieve better results through realistic practice with controlled stimuli and timely feedback
 
 ### Claims
-- 
+- [A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility](../claims/3b-first-evaluation-confirms-usability-requirements.md) [+W] — a usability evaluation of the 3B system, not of training outcomes
+
+## Patterns Used
+- [Practice with Simulated People](../patterns/practice-with-simulated-people.md): a virtual classroom gives realistic stimuli while keeping fine control over difficulty and repetition, with immediate fine-grained feedback
+- [Deliberate Practice](../principles/deliberate-practice.md): difficulty matched to the trainee's current competence, repeated identical stimuli and unambiguous, timely feedback
 
 ## Related Designs
-- 
+- [3B: Breaking Bad Behaviors](../products/3b-breaking-bad-behaviors.md) — the virtual classroom built to combine the three elements
 
 ## Examples
 -

@@ -38,10 +38,15 @@ This design pattern places a CSCL system inside a multi-step classroom activity 
 - integrating classroom learning with workplace practice
 
 ### Claims
-- 
+- [The multi-step activity proved usable, fostered workplace connections, and engaged teacher and students](../claims/tapacarp-activity-usable-workplace-engagement.md) [+M]
+- [The tangible nature of TapaCarp helped integrate it in the classroom environment](../claims/tangible-nature-aided-classroom-integration.md) [+M]
+- [Pre-test/post-test learning gains showed no significant difference compared to a control group](../claims/tapacarp-learning-gain-null-vs-control.md) [~M] — no learning advantage over a control group
+
+## Patterns Used
+- [Collaborative Learning](../patterns/collaborative-learning.md): a computer-supported collaborative system used for one step of a multi-step classroom activity rather than from start to finish
 
 ## Related Designs
-- 
+- [TapaCarp](../products/tapacarp.md) — the tangible interface used in this activity
 
 ## Examples
 -

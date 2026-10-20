@@ -47,7 +47,8 @@ Scrum methodology is "a project management framework" from business and industry
 - [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
 
 ## Examples
--
+
+- [Run short stand-up meetings at the start of every lesson around the team's scrum board](../strategies/stand-up-meeting-at-start-of-every-lesson.md): the five-minute stand-up around the Scrum board at the start of every lesson
 
 ## Key Sources
 - Vogelzang, J., Admiraal, W. F., van Driel, J. H. (2021). Scrum methodology in context-based secondary chemistry classes: effects on students' achievement and on students' perceptions of affective and metacognitive dimensions of their learning. Instructional Science. https://doi.org/10.1007/s11251-021-09554-5

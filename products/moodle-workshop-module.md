@@ -13,7 +13,7 @@ generated:
 # Moodle Workshop module
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Moodle's Workshop activity module supports the distribution, anonymous peer assessment, and teacher assessment of learner submissions using defined assessment criteria and grading schemes.
@@ -24,8 +24,13 @@ Moodle's Workshop activity module supports the distribution, anonymous peer asse
 
 ### Claims
 
+- [Peer assessment is equivalent to teacher assessment for exact-science exams with clear marking schemes](../claims/peer-assessment-valid-exact-science-exams.md) [+M] (marking done in the Workshop module)
+- [Combining peer assessment with self-assessment brings marks closer to the teacher's marks](../claims/peer-plus-self-assessment-closer-to-teacher.md) [+M]
+- [Peers slightly under-mark their comrades' papers while self-assessors over-mark their own](../claims/peers-undermark-self-assessors-overmark.md) [~M]
+
 ## Related Products and Programmes
--
+
+- [iLAP (Interactive Learning and Assessment Platform)](../products/ilap-interactive-learning-and-assessment-platform.md): another platform used to run online peer assessment
 
 ## Key Sources
 - Bouzidi, L., & Jaillet, A. (2009). Can Online Peer Assessment be Trusted?. Educational Technology & Society, 12(4), 257-268. https://www.ifets.info/

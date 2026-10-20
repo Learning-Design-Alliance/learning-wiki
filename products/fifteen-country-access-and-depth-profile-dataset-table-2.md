@@ -24,7 +24,9 @@ A dataset compiled by Adrian-Marius Dumitran that codes programming-language pol
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Address the access gap before depth stratification, and use examination reform as the primary lever](../strategies/access-first-exam-lever-strategy.md): the policy sequencing the authors draw from this fifteen-country coding
+- [Japan's decoupled reform: universal Python instruction with DNCL pseudocode examination](../designs/japan-decoupled-python-dncl-reform.md): one of the fifteen national systems profiled
 
 ## Key Sources
 - Adrian-Marius Dumitran, Iulia-Maria Popescu. (2026). Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis. ALIT4ALL 2026, co-located with AIED 2026. https://orcid.org/0009-0005-3547-5772

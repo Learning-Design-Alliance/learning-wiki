@@ -41,6 +41,8 @@ Multiple regression analysis (Model 5) predicting PPVT at 42 months in 50 dyads.
 
 ## Discussion
 
+Child vocabulary was measured with the [Peabody Picture Vocabulary Test—Third Edition (PPVT-III)](../products/peabody-picture-vocabulary-testthird-edition-ppvt-iii.md), chosen because it is independent of the parent-child interaction whose input it is being predicted from.
+
 
 ## Related Claims
 - [Parent explanations at 42 months are marginally related to child PPVT at 54 months with controls](explanations-42-months-marginally-predict-vocabulary-54-months.md) — related

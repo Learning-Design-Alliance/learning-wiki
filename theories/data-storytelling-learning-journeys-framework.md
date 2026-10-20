@@ -15,7 +15,7 @@ sources:
 # Data storytelling: framing learning-platform data as rich narratives of individual learners' journeys to guide support and theory development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper organizes its argument around the metaphor of learning theories as stories positioning the learner as protagonist, with the platform supplying setting and plot. It argues that when a DLP captures learner, process, and context, "learners' stories can be told in ways that hold constant or systematically vary features of the learner, the context, or the process so that empirical tests of an educational theory can be reconciled." Instructors follow stories to adaptively support learners, while researchers apply multiple theoretical lenses as narrators to describe and test learning processes.

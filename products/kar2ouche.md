@@ -13,7 +13,7 @@ generated:
 # kar2ouche
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 An electronic storyboarding tool that lets pupils construct visual representations of texts using characters, images, backgrounds, speech and thought bubbles, and captions.
@@ -24,8 +24,12 @@ An electronic storyboarding tool that lets pupils construct visual representatio
 
 ### Claims
 
+- [Pupils often neglected the caption box although they were aware of it, displaying a divergent orientation to the teacher's aims](../claims/pupil-divergent-orientation-caption-box.md) [~M] (pupils left kar2ouche's caption box empty)
+- [Making rounds minimizes off-task behaviour because pupils monitor for the teacher's approach and adjust their behaviour](../claims/rounds-surveillance-minimizes-off-task.md) [+M] (observed in kar2ouche lessons)
+
 ## Related Products and Programmes
--
+
+- [Creating Visual Representations](../elements/creating-visual-representations.md): the element the storyboarding tool supports
 
 ## Key Sources
 - Christian Greiffenhagen. (2011). Making Rounds: the routine work of the teacher during collaborative learning with computers. International Journal of Computer-Supported Collaborative Learning (forthcoming). https://dspace.lboro.ac.uk/

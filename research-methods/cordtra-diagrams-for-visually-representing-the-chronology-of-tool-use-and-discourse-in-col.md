@@ -25,7 +25,9 @@ CORDTRA stands for Chronologically-ordered Representations of Discourse and Tool
 ### Claims
 
 ## Related Research Methods
--
+
+- [Event-centered analysis of CSCL processes](../research-methods/event-centered-analysis-of-cscl-processes.md): another way of analysing CSCL processes as they unfold in time
+- [Combined fine-grained video coding and process mining for sequential collaborative-learning analysis](../research-methods/combined-fine-grained-video-coding-and-process-mining-for-sequential-collaborative-learnin.md): sequential analysis of coded collaborative activity
 
 ## Key Sources
 - Loyens, S. M. M., & Gijbels, D. (2008). Understanding the effects of constructivist learning environments: introducing a multi-directional approach. Instructional Science, 36, 351–357. https://doi.org/10.1007/s11251-008-9059-4

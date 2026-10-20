@@ -20,6 +20,7 @@ A Walrond et al. framework for helping child-, youth-, and family-serving system
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Outreach through trusted community channels](../designs/outreach-through-trusted-community-channels.md): the report's bidirectional communication recommendation for families
 
 ### Claims
 

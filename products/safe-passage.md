@@ -31,7 +31,8 @@ A Chicago Public Schools initiative that places adult monitors along predetermin
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Districts considering school closures should provide substantial planning time, transition support for merging communities, and integration supports](../strategies/closure-transition-support-planning-merging-communities.md): the transition supports districts should provide when closing schools, of which safe routes to the receiving school are one
 
 ## Key Sources
 - de la Torre, M., Gordon, M. F., Moore, P., & Cowhy, J. (2015). School Closings in Chicago: Understanding Families' Choices and Constraints for New School Enrollment. UChicago CCSR Research Report. https://www.cps.edu/qualityschools/Pages/Parents.aspx

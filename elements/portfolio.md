@@ -73,6 +73,7 @@ Portfolios support learning primarily by requiring learners to review, evaluate,
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — portfolios support the articulation and reflection phases by documenting the learner's evolving practice
 
 ## Examples
+- [Program-wide portfolio assessment in first-year composition](../designs/program-wide-portfolio-assessment-composition.md) — writing faculty review sampled portfolios across sections to calibrate and improve teaching
 
 **[Portfolio Assessment Strategy](../strategies/portfolio-assessment.md)** — Learners select work samples across a term, write reflective rationales for each, and present the collection at a final conference.
 

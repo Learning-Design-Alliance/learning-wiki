@@ -50,7 +50,7 @@ The Classified School Employee Teacher Credentialing Program addresses teacher s
 - [Expand transitional kindergarten and preschool by braiding UPK funds with hiring, culturally responsive curriculum, and community college partnerships](upk-transitional-kindergarten-braided-implementation.md)
 
 ## Examples
--
+- [California Classified School Employee Teacher Credentialing Program](../products/california-classified-school-employee-teacher-credentialing-program-grow-your-own.md)
 
 ## Key Sources
 - Region 15 Comprehensive Center at WestEd. (2022). Braiding Funds to Support an Effective and Diverse Educator Workforce. https://eric.ed.gov/?id=ED633297

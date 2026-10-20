@@ -17,7 +17,7 @@ sources:
 # Adopt reflective AI-engagement mechanisms only with organisational support that recognises reflective engagement as an investment in long-term competence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper recommends treating reflective engagement as an organisational investment: "If organisations do not recognise reflective engagement as an investment in long-term competence, these mechanisms are unlikely to be sustained in practice." Because reflective mechanisms add friction and time to each decision, workplaces optimising for throughput will erode them, and competing tools offering the same AI support without friction create market pressure against skill-sustaining designs. The paper poses this as spanning interaction design, organisational policy, and governmental policy.

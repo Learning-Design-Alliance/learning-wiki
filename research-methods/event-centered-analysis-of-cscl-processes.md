@@ -29,6 +29,7 @@ Peter Reimann proposes an event-centered approach as an alternative to conventio
 - [Computational formalisation of CSCL theories using Bayesian models](computational-formalisation-of-cscl-theories-using-bayesian-models.md)
 - [Interactional Ethnography and dialogic intervisualizing](interactional-ethnography-and-dialogic-intervisualizing.md)
 - [Lonchamp's three-level integration of dialog, knowledge, and action analysis for dual-interaction CSCL environments](lonchamps-three-level-integration-of-dialog-knowledge-and-action-analysis-for-dual-interac.md)
+- [CORDTRA diagrams for visually representing the chronology of tool use and discourse in collaborative learning analysis](../research-methods/cordtra-diagrams-for-visually-representing-the-chronology-of-tool-use-and-discourse-in-col.md): a visual timeline of discourse and tool use in a CSCL activity
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2009). Classical dialogs in CSCL. Computer-Supported Collaborative Learning 4. https://doi.org/10.1007/s11412-009-9071-y

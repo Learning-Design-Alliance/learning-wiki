@@ -42,7 +42,7 @@ A field-tested professional development program for higher education EAP educato
 - [Qualitative Genai Challenges Policy Gap Barrier](../claims/qualitative-genai-challenges-policy-gap-barrier.md) [+M]
 
 ## Related Designs
-- 
+- [Transformative learning theory with ethical decision-making frameworks](mezirow-transformative-learning-ethical-decision-frameworks-genai-pd.md) — the design basis of this programme
 
 ## Examples
 -

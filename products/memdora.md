@@ -20,6 +20,7 @@ Memdora is a cross-platform AI spaced-repetition software system developed and d
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Collaborative deck layer](../designs/memdora-collaborative-deck-layer.md): publish-subscribe shared decks whose edits reach every follower while each keeps its own review schedule
 
 ### Claims
 

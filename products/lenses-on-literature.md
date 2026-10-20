@@ -26,6 +26,7 @@ Lenses on Literature is a disciplinary-literacy curriculum program that provides
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Driving Task Prompt sequenced literacy journey](../designs/driving-task-prompt-sequenced-literacy-journey.md): how units and modules are organised, from comprehension through knowledge building, genre study and synthesis to writing
 
 ### Claims
 

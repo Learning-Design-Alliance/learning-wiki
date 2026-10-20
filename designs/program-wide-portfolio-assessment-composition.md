@@ -39,8 +39,12 @@ An assessment practice in which writing-program faculty review sampled student p
 ### Claims
 - 
 
+## Patterns Used
+- [Portfolio](../elements/portfolio.md): sampled student portfolios from many sections are read together by the program's faculty
+- [Portfolio Assessment](../strategies/portfolio-assessment.md): applied at program level, to gauge consistency across sections and improve instruction
+
 ## Related Designs
-- 
+- [Early engagement and tailored support for a coordinated rollout](../strategies/early-engagement-tailored-support-coordinated-rollout.md) — from the same study of CSU writing and quantitative reasoning redesign
 
 ## Examples
 -

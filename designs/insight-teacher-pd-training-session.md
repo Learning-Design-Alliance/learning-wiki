@@ -43,7 +43,7 @@ INSIGHT (Information on Schooling with Generative AI and Helpful AI Tools) is a 
 - [Insight Rated Helpful Relevant Lesson Planning](../claims/insight-rated-helpful-relevant-lesson-planning.md) [+M]
 
 ## Related Designs
-- 
+- [KISS-Pro openHPI MOOC for AI teacher PD](kiss-pro-openhpi-mooc-ai-teacher-pd.md) — the open, self-paced version of this training
 
 ## Examples
 -

@@ -208,6 +208,7 @@ The expectation should weaken if controlled comparisons of the same practice wit
 - [Immediate Feedback](immediate-feedback.md) — feedback timing, which points and messages inherit
 
 ## Examples
+- [Constructive competition through Social Interdependence Theory](../designs/constructive-competition-social-interdependence.md) — Kahoot leaderboards designed so winning is unimportant and everyone can win
 
 ### Illustrative
 

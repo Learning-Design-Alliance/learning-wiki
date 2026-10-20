@@ -41,6 +41,10 @@ The program specifies that "Classroom teachers, reading teachers, or well-prepar
 
 ## Related Designs
 - Early Steps One To One Tutoring Program
+- [Early Steps](../products/early-steps.md) — the first-grade tutoring programme that sets this staffing requirement
+- [Daily one-to-one tutoring session structure](early-steps-daily-tutoring-session-structure.md) — the Early Steps session these tutors deliver
+- [Early Steps trainer observation and feedback training](../strategies/early-steps-trainer-observation-feedback-training.md) — the training, observation and feedback the requirement relies on
+- [Scripted one-to-one paraprofessional tutoring](scripted-one-to-one-paraprofessional-tutoring.md) — a contrasting answer: scripts let paraprofessionals tutor
 
 ## Examples
 -

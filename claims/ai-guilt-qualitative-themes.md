@@ -41,6 +41,8 @@ Reflexive thematic analysis of open-ended survey responses (90 participants, 82.
 
 ## Discussion
 
+The same narratives describe [five ways academics reconcile AI use with academic values](../strategies/five-ai-guilt-reconciliation-strategies.md): tool framing, critical-thinking emphasis, boundary setting, transparency, and denying that reconciliation is needed.
+
 
 ## Related Claims
 - [Among academics, anticipatory AI guilt (credibility and cheating concerns) exceeds post-use guilt (remorse after AI use)](anticipatory-ai-guilt-exceeds-experienced-guilt.md) — related

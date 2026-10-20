@@ -165,6 +165,7 @@ Doing a routine with the tutor beside them, doing it unaided at the end of a ses
 - [Digital Learning](digital-learning.md) — learning through a digital medium, a separate question from learning to use one
 
 ## Examples
+- [Integrate English language learning with digital literacy instruction](../designs/integrate-ell-with-digital-literacy-curriculum.md) — Briya's immigrant adult learners practise English while learning computer routines
 
 <!-- Links to elements or patterns that apply this principle -->
 - [Address Digital Literacy](../strategies/address_digital_literacy.md) — introduces basic digital tools and terminology explicitly

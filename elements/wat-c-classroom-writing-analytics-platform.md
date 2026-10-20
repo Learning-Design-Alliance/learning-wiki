@@ -37,10 +37,13 @@ WAT-C is the classroom-facing implementation of the Writing Analytics Toolkit, a
 - Writing quality, revision, and metric-aligned writing behaviors such as lexical sophistication, sentence cohesion, and idea development
 
 ## Claims
+- [AWE feedback has limited depth and questionable accuracy for evaluating complex writing aspects](../claims/awe-limited-feedback-depth-accuracy-complex-writing.md) [~M] — a general caution on automated writing feedback that applies to WAT-C's advanced analytics
 
 
 ## Related Elements
-- 
+- [Feedback](feedback.md) — WAT-C gives formative feedback on student writing
+- [Five-domain TAM survey of WAT-C instructors](tam-five-domain-wat-c-survey-instrument.md) — the instrument used to evaluate instructors' acceptance of this platform
+- [Balance human and automated feedback in writing instruction](../strategies/balance-human-and-automated-feedback-writing.md)
 
 ## Examples
 -

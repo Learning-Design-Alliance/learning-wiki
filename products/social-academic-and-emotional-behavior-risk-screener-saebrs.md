@@ -25,7 +25,9 @@ SAEBRS is a universal screening assessment for students’ social, academic, and
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Universal mental health screening systems in Cal-Well districts](../designs/cal-well-universal-mental-health-screening.md): universal screening systems in the Cal-Well districts, Del Norte's among them
+- [Universal mental health screening toolkit: SAEBRS, SDQ, ProQOL, and monthly Kelvin real-time pulses](../designs/pusd-universal-screening-toolkit.md): a district toolkit that uses SAEBRS alongside other screeners
 
 ## Key Sources
 - WestEd. (2024). Del Norte Unified School District: A Comprehensive Approach to Mental Health Services Through Project Cal-Well. https://www.wested.org/

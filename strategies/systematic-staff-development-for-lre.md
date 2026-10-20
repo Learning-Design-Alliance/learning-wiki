@@ -40,6 +40,7 @@ The digest states that LRE effectiveness depends on teacher knowledge and skill 
 ## Related Strategies
 
 - [Place LRE in the curriculum through special events, separate units or courses, or infusion](lre-curriculum-placement-approaches.md)
+- [Five characteristics of effective law-related education programs](../designs/effective-lre-program-characteristics.md) — staff development is one of the five
 
 ## Examples
 -

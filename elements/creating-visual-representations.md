@@ -33,5 +33,9 @@ Creating visual representations is the element in which learners externalize und
 - [Graphic Organizers](graphic-organizers.md)
 - [Concept Mapping](concept-mapping.md)
 
+## Examples
+
+- [kar2ouche](../products/kar2ouche.md): an electronic storyboarding tool in which pupils build frame-by-frame visual representations of a text
+
 ## Key Sources
 - Ainsworth, S. (2006). DeFT: A conceptual framework for considering learning with multiple representations. *Learning and Instruction, 16*(3), 183-198. [doi:10.1016/j.learninstruc.2006.03.001](https://doi.org/10.1016/j.learninstruc.2006.03.001)

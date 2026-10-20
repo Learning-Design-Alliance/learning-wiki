@@ -17,7 +17,7 @@ sources:
 # Run short stand-up meetings at the start of every lesson around the team's scrum board
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 In the implemented Scrum module, "At the start of every lesson each group gathered around their Scrum board and had a small stand-up meeting (5 min)", in which members discussed what they had done in the last lesson, what they intended to do in the current lesson, and whether they experienced problems. The article argues this ceremony makes students mutually interdependent and brings each team member systematically into a situation of taking responsibility for the team effort.
@@ -41,8 +41,13 @@ In the implemented Scrum module, "At the start of every lesson each group gather
 ### Affordances
 - Scrum Methodology Educational Scaffold Framework
 
+## Claims
+
+- [Within-group analyses show significant increases on several affective and metacognitive dimensions in Scrum classes, while the comparison group showed no significant increases or decreases.](../claims/scrum-classes-significant-within-group-perception-increases.md) [+M] (evidence on the Scrum module as a whole)
+
 ## Related Strategies
-- 
+
+- [Scrum methodology as an educational scaffold: a project-management framework with ceremonies, roles and artefacts that structures planning, monitoring and reflection in complex context-based learning environments](../designs/scrum-methodology-educational-scaffold-framework.md): the Scrum framework this ceremony belongs to
 
 ## Examples
 -

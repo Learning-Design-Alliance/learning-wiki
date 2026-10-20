@@ -175,6 +175,8 @@ This pattern is scoped to sustained, explicit teaching and reinforcement of name
 - [Community of Inquiry](../principles/community-of-inquiry.md) — both treat social presence as a precondition for deep engagement, though RC operates at classroom-routine grain rather than discourse grain
 
 ## Examples
+- [Bronxdale High School whole-school design](../designs/bronxdale-whole-school-design-pattern.md) — inquiry instruction integrated with social-emotional supports and restorative discipline
+- [Gateway guiding principles and structures](../designs/gateway-guiding-principles-structures-pattern.md) — inclusivity, relationships and continuous improvement carried by advisories, inclusion and project-based instruction
 
 **[PATHS](https://www.pathseducation.com) (Promoting Alternative Thinking Strategies):** A widely evaluated K–6 curriculum teaching emotion labeling, self-control, and problem-solving through scripted lessons plus "Feelings Fair" classroom integration; central to the Durlak et al. evidence base.
 

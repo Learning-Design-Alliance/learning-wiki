@@ -37,10 +37,11 @@ From a preliminary study with four education experts, the authors derived six de
 - locating low-engagement segments and diagnosing audiovisual instructional design deficiencies in instructional videos
 
 ### Claims
-- 
+- [Two case studies and expert interviews with six experts demonstrated SAVVY's effectiveness and usability for identifying attention variations and supporting video optimization](../claims/savvy-case-studies-expert-interviews-effectiveness.md) [+M] — the evaluation of the system built to these requirements
 
 ## Related Designs
 - Savvy Visual Analytics System
+- [SAVVY interactive visual analytics system](../products/savvy-interactive-visual-analytics-system.md) — the system these requirements were derived for
 
 ## Examples
 -

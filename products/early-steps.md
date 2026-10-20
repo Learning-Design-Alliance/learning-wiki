@@ -27,6 +27,7 @@ Early Steps is a structured one-to-one tutoring programme for first-grade pupils
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Early Steps one-to-one first-grade tutoring program**: Early Steps, based on an earlier version called Howard Street Tutoring, is a one-to-one tutoring model delivered in 30-minute sessions five days a week across the entire first grade year. Tutors follow "a daily schedule of re-reading familiar books, systematic word study, sentence writing, and introducing new books" using leveled, non-phonetic books. No technology is required. (Early Steps (2024))
+- [Staff one-to-one tutoring with trained school staff rather than community volunteers](../designs/trained-staff-not-volunteers-as-reading-tutors.md): the programme's tutor-staffing requirement
 
 ### Claims
 

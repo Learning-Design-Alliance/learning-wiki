@@ -32,6 +32,7 @@ The article names a tripartite unit-of-analysis framework for CSCL: "analyses of
 - [Model of collaborative knowledge building across interconnected planes](model-of-collaborative-knowledge-building-across-interconnected-planes.md)
 - [Theory-driven units of analysis for educational dialogue across multiple timescales](theory-driven-units-of-analysis-for-educational-dialogue-across-multiple-timescales.md)
 - [Three interacting themes for examining CSCL classroom innovation](three-interacting-themes-for-examining-cscl-classroom-innovation.md)
+- [Aligning learning at individual, small-group, and community levels when adopting Web 2.0 in education](../strategies/align-individual-group-community-web20-adoption.md): the design consequence for courses adopting wikis, blogs and other Web 2.0 tools
 
 ## Key Sources
 - Stahl, G. (2012). Traversing planes of learning. Computer-Supported Collaborative Learning, 7, 467–473. https://doi.org/10.1007/s11412-012-9159-7

@@ -17,7 +17,7 @@ sources:
 # Follow enumerated best-practice guidelines when establishing AMAO criteria: multiple methods, qualified trained panelists, defined sequential process, documentation, and validity studies
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report derives a set of guidelines from performance-standard-setting best practices for establishing ELP performance criteria and AMAO accountability policies. States should "employ a variety of analytic methods and procedures when establishing AMAO criteria," use both empirical analyses and expert judges, select and train qualified panelists, follow a rational coherent sequential process, document the process clearly, and design validity studies of newly established AMAO criteria to examine consequences relative to intent.

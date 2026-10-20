@@ -41,6 +41,8 @@ This is the brief's own summary of its underlying study: it "identifies challeng
 
 ## Discussion
 
+The brief's practical response is to [secure detailed feedback from CTE teachers](../strategies/secure-detailed-cte-teacher-feedback-for-curriculum-development.md) during development.
+
 
 ## Related Claims
 - [Incorporating academic learning into CTE requires substantial time, effort, and other resources](academic-cte-integration-requires-substantial-resources.md) — a broader claim this one bears on

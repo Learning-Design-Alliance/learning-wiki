@@ -37,10 +37,13 @@ Texas interwove responsibility for teacher preparation across educator preparati
 - coherent, contextually aligned teacher preparation
 
 ### Claims
-- 
+- [Teacher residency completers are more effective and more likely to stay in teaching than teachers entering through other pathways or without preparation](../claims/residency-completers-more-effective-and-retained.md) [+M] — evidence on residencies generally, not on the governance structure
 
 ## Related Designs
-- 
+- [Residency site coordinator role](residency-site-coordinator-role.md) — another element of the Texas residency model
+- [Resident stipends enable full clinical participation](resident-stipends-enable-full-clinical-participation.md)
+- [TCLAS high-quality sustainable residency program grant](../products/tclas-high-quality-sustainable-residency-program-grant.md) — the grant that set the partnership requirements
+- [Texas residency policy recommendations](../strategies/texas-residency-policy-recommendations.md)
 
 ## Examples
 -

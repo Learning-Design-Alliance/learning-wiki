@@ -120,6 +120,9 @@ This pattern is scoped to dividing a course between online and in-person work. I
 - [Effect sizes were larger in studies where online and face-to-face conditions differed in curriculum materials and instructional approach (+0.42) than where curriculum and instruction were nearly identical (+0.20; Q = 5.40, p < .05).](../claims/curriculum-equivalence-moderates-effect-size.md) [~W]
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](../claims/eleven-of-thirteen-practice-variables-nonsignificant.md) [+W]
 
+## Examples
+- [ETV, programmed workbook and drive-in seminar inservice course](../designs/etv-workbook-seminar-inservice-course.md) — an early broadcast-era blend of television, mailed workbook assignments and periodic seminars
+
 ## Key Sources
 - Graham, C. R. (2006). Blended learning systems. In C. J. Bonk & C. R. Graham (Eds.), *The handbook of blended learning*. Pfeiffer.
 - Means, B., Toyama, Y., Murphy, R., Bakia, M., & Jones, K. (2010). *Evaluation of evidence-based practices in online learning: A meta-analysis and review of online learning studies*. U.S. Department of Education, Office of Planning, Evaluation, and Policy Development.

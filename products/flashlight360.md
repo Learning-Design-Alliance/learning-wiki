@@ -31,7 +31,8 @@ Flashlight360 is a browser-based platform for educators and administrators to mo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Supports teachers need to enact formative assessment for English learners](../strategies/teacher-supports-formative-assessment-el.md): what teachers need to use language-progress assessment formatively with English learners
 
 ## Key Sources
 - Flashlight360 program description. (2024). https://flashlight360.zendesk.com/hc/en-us/articles/23505832409499-Device-Specifications

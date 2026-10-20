@@ -43,7 +43,8 @@ The study recommends that educators treat children with cochlear implants as fun
 - [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](../claims/ci-group-conversation-difficulty.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Present signed communication to families as a complement to, not a fallback from, oral communication, with information-giving repeated and extended](../strategies/sign-as-complement-not-fallback-counseling.md): the same study's recommendation for counselling families
 
 ## Examples
 -

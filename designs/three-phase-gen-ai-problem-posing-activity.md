@@ -49,6 +49,7 @@ A self-study activity administered as an extra-credit assignment in which "The s
 - [Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback](four-phase-weekly-ai-simulation-cycle.md)
 - [Three-phase practicum e-mentoring cycle: pre-practicum preparation, during-practicum supported practice, post-practicum reflection](three-phase-practicum-e-mentoring-cycle.md)
 - [Custom-built online waves module with simulations integrated with a chatbot](waves-module-simulations-integrated-chatbot.md)
+- [Horizontal and vertical transfer problem-posing framework](horizontal-vertical-transfer-problem-posing-framework.md) — the framework taught in the training video
 
 ## Examples
 -

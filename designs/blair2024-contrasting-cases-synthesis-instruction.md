@@ -46,7 +46,7 @@ The instructional approach uses "juxtaposed examples that are chosen to highligh
 - [Comparing cases side by side improves learning and transfer by a moderate average amount, though in one algebra study it raised procedural knowledge and flexibility but not conceptual knowledge](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 
 ## Related Designs
-- 
+- [Three forms of noticing required for learning to facilitate productive discussion](blair2024-three-forms-discussion-noticing.md) — the framing the intervention was designed around
 
 ## Examples
 -

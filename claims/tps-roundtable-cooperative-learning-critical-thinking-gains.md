@@ -41,6 +41,8 @@ Quasi-experimental pretest-posttest study of two 4th-grade classes (experimental
 
 ## Discussion
 
+Critical thinking was measured with the researcher-built [CTTBE: Critical Thinking Test for Basic Education](../products/cttbe-critical-thinking-test-for-basic-education.md) (48 items, α = 0.72), so the gains are on an instrument without external norms.
+
 
 ## Related Claims
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](cooperative-learning-skill-specific-ct-gains.md) — related

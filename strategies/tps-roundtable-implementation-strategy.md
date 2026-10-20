@@ -45,7 +45,8 @@ The article's procedure offers an implementable recipe: a teacher with over 10 y
 - 
 
 ## Examples
--
+
+- [CTTBE: Critical Thinking Test for Basic Education](../products/cttbe-critical-thinking-test-for-basic-education.md): the 48-item critical thinking test used to measure the outcomes of this implementation
 
 ## Key Sources
 - Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Think-Pair-Share and Roundtable: Two Cooperative Learning Structures to Enhance Critical Thinking Skills of 4th Graders. International Electronic Journal of Elementary Education, 15(1), 11-21. https://doi.org/10.26822/iejee.2022.274

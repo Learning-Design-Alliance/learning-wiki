@@ -26,7 +26,8 @@ A Sun Y. et al. framework that converts engineering-diagram images into graphs, 
 - [StructRAG achieves 89.3% question-level accuracy and 93.0% edge-level F1 on 1,650 STEM diagram questions, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated variants](../claims/structrag-outperforms-baselines-stem-diagrams.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Ground LLM prompts in retrieved structural patterns rather than node labels or keyword matching](../strategies/pattern-aware-prompting-topological-completeness.md): the pattern-aware prompt construction inside StructRAG
 
 ## Key Sources
 - Sun Y., Liao Y. & Ma X. (2026). Advancing diagram-based reasoning in AI tutoring systems: a structural approach for STEM education. Smart Learning Environments. https://doi.org/10.1186/s40561-026-00459-9

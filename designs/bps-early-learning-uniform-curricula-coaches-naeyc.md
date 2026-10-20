@@ -38,8 +38,11 @@ Boston Public Schools enlists early childhood programming in its achievement acc
 
 ### Claims
 
+## Patterns Used
+- [Professional Development](../patterns/professional-development.md): teacher training paired with instructional coaches supports the district's uniform early math and literacy curricula
+
 ## Related Designs
-- 
+- [District and school leaders advise making early childhood a priority and using data to make every decision in school turnaround](../strategies/early-childhood-priority-data-driven-decisions-advice.md) — from the same report on integrating early learning into school turnaround
 
 ## Examples
 -

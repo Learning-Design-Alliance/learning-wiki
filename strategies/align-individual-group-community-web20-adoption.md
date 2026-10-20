@@ -35,7 +35,9 @@ The editorial identifies a recurring design challenge for educational Web 2.0 ad
 - Collaborative knowledge building and social networking for learning
 
 ## Related Strategies
-- 
+
+- [Three planes of learning in CSCL: individual, small-group, and community](../research-methods/three-planes-of-learning-in-cscl-individual-small-group-and-community.md): the individual, small-group and community planes the strategy asks designers to align
+- [Model of collaborative knowledge building across interconnected planes](../research-methods/model-of-collaborative-knowledge-building-across-interconnected-planes.md): how knowledge building moves across those planes
 
 ## Examples
 -

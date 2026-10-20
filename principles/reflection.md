@@ -180,6 +180,7 @@ Better reflections, higher course exams, changed practice, and delayed or transf
 - [Use action research projects in which pre-service and in-service teachers jointly inquire into instructional decision-making](../strategies/action-research-reflective-teacher-education.md)
 - [Use reflection prompts focusing on the teacher vs. on the students in video-based professional development for SRL instruction](../strategies/reflection-prompt-focus-video-pd-srl.md)
 - [Use discussion forums with three reflection prompts to structure students' dialogic reflection after viewing visualisations](../strategies/three-prompt-reflection-forum-strategy.md)
+- [5P reflection model for the GenAI era](../designs/5p-reflection-model-genai-era.md) — a five-stage iterative reflection cycle for students working with GenAI tools
 
 ## Key Sources
 - Schon, D. A. (1983). *The reflective practitioner*. Basic Books.

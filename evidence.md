@@ -115,7 +115,7 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-371 claims are cited both ways.
+376 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
@@ -149,14 +149,14 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 27.5 | 0 |
 | [elements](elements/index.md) | 1,066 | 779 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 29 | 0 |
-| [strategies](strategies/index.md) | 6,321 | 3,175 | 4 | 0 |
+| [strategies](strategies/index.md) | 6,321 | 3,193 | 4 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 8 | 0 |
 | [methods](methods/index.md) | 38 | 23 | 1 | 0 |
-| [theories](theories/index.md) | 1,361 | 907 | 1 | 0 |
+| [theories](theories/index.md) | 1,361 | 908 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 38 | 0 |
-| [designs](designs/index.md) | 976 | 649 | 1 | 0 |
-| [products](products/index.md) | 1,830 | 1,327 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 506 | 464 | 1 | 0 |
+| [designs](designs/index.md) | 976 | 672 | 1 | 0 |
+| [products](products/index.md) | 1,830 | 1,348 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 506 | 467 | 1 | 0 |
 
 ## Toward pooled estimates
 

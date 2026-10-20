@@ -13,7 +13,7 @@ generated:
 # State epistemic curiosity measure
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A researcher-developed multi-item, 5-point Likert self-report assessment by Henk G. Schmidt and colleagues for measuring secondary students’ momentary epistemic curiosity about a specific topic.

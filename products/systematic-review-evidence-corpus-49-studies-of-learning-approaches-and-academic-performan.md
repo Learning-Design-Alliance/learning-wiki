@@ -27,7 +27,8 @@ A PRISMA-guided corpus of 49 empirical studies on learning approaches and academ
 - [A strategic learning approach is most commonly associated with high(er) academic performance in medical and dental students](../claims/strategic-approach-higher-performance.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Taxonomy of learning-approaches measurement inventories (SPQ, R-SPQ-2F, ASI, ALSI, ASSIST)](../research-methods/taxonomy-of-learning-approaches-measurement-inventories-spq-r-spq-2f-asi-alsi-assist.md): the inventories (SPQ, R-SPQ-2F, ASI, ALSI, ASSIST) the reviewed studies used
 
 ## Key Sources
 - Marlen A. Roehe, Carmen Trost, Julia S. Grundnig, Anahit Anvari-Pirsch, Anita Holzinger. (2024). Evaluating the Dynamics of Learning Approaches: A Systematic Review Investigating the Nexus Between Teaching Methods and Academic Performance in Medical and Dental Education. Educational Psychology Review. https://doi.org/10.1007/s10648-024-09952-4

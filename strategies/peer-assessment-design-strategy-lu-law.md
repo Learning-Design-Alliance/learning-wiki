@@ -47,7 +47,8 @@ The article's implications for teachers designing peer assessment: ask students 
 - 
 
 ## Examples
--
+
+- [iLAP (Interactive Learning and Assessment Platform)](../products/ilap-interactive-learning-and-assessment-platform.md): the Hong Kong platform on which the peer assessment was run
 
 ## Key Sources
 - Jingyan Lu, Nancy Law. (2012). Online peer assessment: effects of cognitive and affective feedback. Instructional Science 40:257–275. https://doi.org/10.1007/s11251-011-9177-2

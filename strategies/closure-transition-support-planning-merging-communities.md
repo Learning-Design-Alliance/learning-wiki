@@ -47,7 +47,8 @@ Based on the study's mixed-methods findings, the report's interpretive considera
 - 
 
 ## Examples
--
+
+- [Safe Passage](../products/safe-passage.md): Chicago's adult monitors along routes to the welcoming schools after the 2013 closings
 
 ## Key Sources
 - Molly F. Gordon, Marisa de la Torre, Jennifer R. Cowhy, Paul T. Moore, Lauren Sartain, and David Knight. (2017). School Closings in Chicago: Staff and Student Experiences and Academic Outcomes. UChicago Consortium Research Report. http://consortium.uchicago.edu/publications/school-closings-chicago-staff-and-student-experiences-and-academic-outcomes

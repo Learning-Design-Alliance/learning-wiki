@@ -41,7 +41,8 @@ Based on student perceptions in this study, the authors conclude that "AI videos
 - [Pre-recorded Instructional Video](pre-recorded_instructional_video.md)
 
 ## Examples
--
+
+- [Knowlify AI video generation platform](../products/knowlify-ai-video-generation-platform.md): the platform the study used to generate its Markdown videos
 
 ## Key Sources
 - Esse Ciego, Shubbhi Taneja, Wilson Wong, and Amanpreet Kapoor. (2026). Student Perceptions and Preferences Regarding AI-Generated Instructional Videos in Computing Education. https://arxiv.org/abs/2607.28203

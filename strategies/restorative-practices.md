@@ -97,12 +97,14 @@ RP improves climate and can reduce exclusionary discipline, but effects on acade
 - [Use educative and restorative behavior supports rather than punitive and exclusionary discipline](restorative-educative-behavior-supports-gateway.md)
 
 ## Examples
+
 - **Oakland Unified School District (CA)** — whole-school RP adoption since 2010 with a dedicated Office of Restorative Justice; associated with reduced suspensions for African American students in district reports ([ousd.org/restorative-justice](https://www.ousd.org/restorative-justice)).
 - **Pittsburgh Public Schools / RAND study** — a 22-school randomized evaluation of the SaferSanerSchools Whole-School Change program; the most rigorous test to date, showing improved teacher–student relationships but mixed discipline effects ([rand.org](https://www.rand.org/pubs/research_reports/RR2840.html)).
 - **Classroom circles in EL instruction** — EL Education schools use crew circles as a daily proactive structure, integrating RP with academic discussion norms ([eleducation.org](https://eleducation.org)).
 - **[International Institute for Restorative Practices](https://www.iirp.edu)** — graduate programs and the SaferSanerSchools whole-school implementation program used in hundreds of schools.
 - **Pittsburgh Public Schools (RAND study)** — a district-wide restorative practices initiative evaluated by Augustine et al. (2018), which found improved teacher–student relationships and school climate, with mixed effects on discipline outcomes.
 - **Oakland Unified School District** — adopted restorative justice district-wide after a 2010s discipline reform; associated with reduced suspensions and narrowed racial discipline gaps in district reports.
+- [RP-Observe observation tool](../products/rp-observe-observation-tool.md): Rutgers' observation tool for measuring restorative-justice implementation in schools
 
 ## Key Sources
 - Augustine, C. H., Engberg, J., Grimm, G. E., Lee, E., Wang, E. L., Christianson, K., & Joseph, A. A. (2018). *Can restorative practices improve school climate and curb suspensions? An evaluation of the impact of restorative practices in a mid-sized urban school district.* RAND Corporation. [doi:10.7249/RR2840](https://doi.org/10.7249/RR2840)

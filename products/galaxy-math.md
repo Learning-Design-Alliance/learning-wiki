@@ -27,6 +27,7 @@ Galaxy Math is an AIR-disseminated, space-themed one-to-one tutoring programme i
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Galaxy Math one-to-one tutoring program for at-risk first graders**: Galaxy Math is "a one-to-one tutoring approach for at-risk first graders" in which "Paraprofessionals tutor students in 30-minute sessions 3 times a week for 16 weeks." The program has "a space theme" and focuses on "understanding and proficiency with addition and subtraction." It is disseminated through AIR tutor training. (Galaxy Math (2013))
+- [Scripted one-to-one tutoring with fixed dosage and paraprofessional tutors](../designs/scripted-one-to-one-paraprofessional-tutoring.md): 30-minute sessions three times a week for 16 weeks, delivered from a script
 
 ### Claims
 

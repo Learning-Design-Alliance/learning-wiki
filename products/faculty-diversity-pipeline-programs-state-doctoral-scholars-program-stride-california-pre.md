@@ -24,7 +24,8 @@ A set of initiatives providing doctoral mentoring, networking, financial or prep
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Institutional, state, and federal actions to increase faculty diversity](../strategies/institutional-state-federal-faculty-diversity-actions.md): the same report's institutional, state and federal actions, of which these programmes are instances
 
 ## Key Sources
 - Jinann Bitar, Gabriel Montague, Lauren Ilano. (2022). Faculty Diversity and Student Success Go Hand in Hand, So Why Are University Faculties So White? The Education Trust. https://edtrust.org

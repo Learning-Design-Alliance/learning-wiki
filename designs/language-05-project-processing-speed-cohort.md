@@ -17,7 +17,7 @@ sources:
 # Language 0–5 Project longitudinal cohort with looking-while-listening processing speed measurement
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Language 0–5 Project is a large longitudinal cohort in the North West of England from which this study draws its data. A total of 95 families were recruited, with a final sample of 90 contributing data at one or more measurement points. Children were tested in the laboratory at the University of Liverpool at 19, 25, and 31 months using a looking-while-listening paradigm with eye-tracking (EyeLink 1000 Plus), and caregivers completed repeated vocabulary checklists (UK-CDI, Lincoln CDI, CDI-III) between 8 and 37 months. The method is documented on the project's OSF site.

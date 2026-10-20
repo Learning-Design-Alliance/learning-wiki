@@ -25,7 +25,10 @@ A Unity package developed by Araz Yusubov et al. that lets game developers authe
 
 
 ## Related Products and Programmes
--
+
+- [Hypergamification: bidirectional LMS-game integration where the whole game environment is generated from LMS content](../designs/hypergamification-bidirectional-lms-game-integration.md): the LMS-game integration design the package makes possible
+- [Demo game rendering Blackboard course elements as 3D school environments](../designs/unity-blackboard-demo-game-school-environment.md): the demo game built with the package
+- [Future integration pathways: WebGL builds, the Ultra Extension Framework, and AI-generated personalized hypergamifications](../strategies/future-webgl-uef-ai-hypergamification-pathways.md): the authors' proposed next steps for extending the integration
 
 ## Key Sources
 - Araz Yusubov, Tangiz Alizada, Michael Bechtel. (2026). Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game. https://github.com/ADA-SITE-SITE4890-2023-Spring/senior-design-project-ay5-gamification-2-0-unity-bb/

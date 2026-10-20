@@ -48,7 +48,8 @@ The report closes with six actions for those who create, publish, and select chi
 - [Mirrors, Windows, and Sliding Glass Doors](mirrors-windows-and-sliding-glass-doors.md)
 
 ## Examples
--
+
+- [Tool for Representational Balance in Books](../products/tool-for-representational-balance-in-books.md): EdTrust's 10-criterion rubric for judging representation in a book
 
 ## Key Sources
 - Tanji Reed Marshall, Ph.D., and William H. Rodick, Ph.D. (2023). The Search for More: Complex Racial and Ethnic Representation in Grade School Books. The Education Trust. https://edtrust.org/booktool

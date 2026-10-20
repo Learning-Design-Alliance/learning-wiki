@@ -42,7 +42,8 @@ The article identifies a timing misalignment: districts must make contract renew
 - 
 
 ## Related Designs
-- 
+- [AI-enabled edtech adoption cycle](../products/ai-enabled-edtech-adoption-cycle.md) — the adoption cycle from the same article, whose evaluation stage this timing problem affects
+- [Shared frameworks for cross-district AI edtech scaling](../strategies/shared-frameworks-cross-district-ai-edtech-scaling.md)
 
 ## Examples
 -

@@ -24,7 +24,9 @@ A research network created and supported by Spain's Consejo Superior de Deportes
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Intervenciones ApS con colectivos vulnerables usando la práctica deportiva como herramienta principal de inclusión social](../strategies/practica-deportiva-herramienta-inclusion-aps.md): the network's service-learning interventions using sport with vulnerable groups
+- [La metodología Aprendizaje-Servicio (ApS) como marco para desarrollar competencias prácticas y valores en estudiantes universitarios](../designs/aps-metodologia-aprendizaje-servicio-marco.md): service-learning as the framework the network's university projects follow
 
 ## Key Sources
 - Ruíz Montero, P. J., & Bru Serrano, M. (2021). La educación física y el deporte como servicio hacia los más vulnerables: beneficios del aprendizaje-servicio. Red Euroamericana de Investigación y Docencia en Educación Física. https://www.riadis.es

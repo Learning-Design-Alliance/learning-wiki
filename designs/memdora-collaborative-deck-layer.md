@@ -40,8 +40,12 @@ Memdora's collaborative layer lets users publish decks publicly, to friends, or 
 ### Claims
 - 
 
+## Patterns Used
+- [Spaced Learning](../patterns/spaced-learning.md): each follower keeps independent FSRS-6 scheduling state, so a shared deck does not impose a shared review schedule
+
 ## Related Designs
-- 
+- [Memdora](../products/memdora.md) — the flashcard app this layer belongs to
+- [Memdora 17 interaction-type taxonomy](memdora-17-interaction-type-taxonomy.md)
 
 ## Examples
 -

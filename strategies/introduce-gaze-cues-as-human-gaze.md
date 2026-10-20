@@ -17,7 +17,7 @@ sources:
 # Frame abstract gaze cues as human eye movements in the introductory text so learners perceive EMME as a social learning situation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 causal), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because EMME visualize gaze with abstract stimuli such as a moving dot, circle or spotlight, the article argues that learners need to be told the cue's human origin for social factors to come into play. It cites evidence that people can interpret abstract cues as human eye movements, that anthropomorphic ascriptions change stimulus processing, and that belief in a cue's social origin improved visual search. Accordingly, when investigating alleged model-observer similarity, the authors "provided no further information about other model characteristics in the introductory text or in the EMME-videos", so the description of the model was the only source of information about it.
@@ -41,8 +41,14 @@ Because EMME visualize gaze with abstract stimuli such as a moving dot, circle o
 ### Affordances
 - Emme Three Perspectives Effectiveness
 
+## Claims
+
+- [The exploratory analyses provided first evidence that social comparison orientation interacts with (alleged) model competence regarding EMME effectiveness.](../claims/social-comparison-orientation-moderates-emme.md) [~W] (why the model's alleged competence, and so its framing as a person, matters)
+
 ## Related Strategies
+
 - Emme Eye Movement Modeling Examples
+- [Eye Movement Modeling Examples (EMME) as an instructional tool for multimedia learning](../designs/emme-eye-movement-modeling-examples.md): the eye movement modeling examples this introduction is written for
 
 ## Examples
 -

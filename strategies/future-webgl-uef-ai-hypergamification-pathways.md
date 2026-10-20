@@ -38,10 +38,12 @@ The paper's forward-looking recommendations for extending the prototype: buildin
 - seamless in-game access to LMS content and personalized game-based course experiences
 
 ## Related Strategies
-- 
+
+- [Hypergamification: bidirectional LMS-game integration where the whole game environment is generated from LMS content](../designs/hypergamification-bidirectional-lms-game-integration.md): the integration design these pathways would extend
 
 ## Examples
--
+
+- [Reusable Unity package for Blackboard Learn API integration](../products/reusable-unity-package-for-blackboard-learn-api-integration.md): the Unity package the prototype is built on
 
 ## Key Sources
 - Araz Yusubov, Tangiz Alizada, Michael Bechtel. (2026). Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game. https://github.com/ADA-SITE-SITE4890-2023-Spring/senior-design-project-ay5-gamification-2-0-unity-bb/

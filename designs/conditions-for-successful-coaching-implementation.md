@@ -39,8 +39,11 @@ The report identifies conditions that supported successful coaching implementati
 
 ### Claims
 
+## Patterns Used
+- [Instructional Coaching](../strategies/instructional-coaching.md): the conditions (fewer assigned classes, leader commitment, teacher enthusiasm) are what let the coaching cycle run in schools
+
 ## Related Designs
-- 
+- [Challenge-based Coaching Model](../elements/challenge-based-coaching-model-pilot-pr.md) — the coaching cycle piloted in Puerto Rico that these conditions supported
 
 ## Examples
 -

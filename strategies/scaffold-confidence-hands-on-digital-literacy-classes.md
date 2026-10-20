@@ -44,6 +44,7 @@ Briya addresses parents' lack of confidence with technology by "scaffolds their 
 - [Address Digital Literacy](address_digital_literacy.md)
 - [Layered educator support: coaching, curated resources, low-lift entry points, and community engagement](layered-educator-support-ai-labs.md)
 - [Accommodate Varying Technology Experience](accommodate_varying_technology_experience.md)
+- [Integrate English language learning with digital literacy instruction](../designs/integrate-ell-with-digital-literacy-curriculum.md) — the same case study's curriculum design
 
 ## Examples
 -

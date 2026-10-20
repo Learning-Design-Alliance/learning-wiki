@@ -47,7 +47,7 @@ In its Implications section, the report distills advice from initiative particip
 - [Implementation lessons for sexual health programs in juvenile justice settings: relatable facilitators, delivery flexibility, advocate relationships, and stakeholder buy-in](implementing-sexual-health-programs-juvenile-justice-lessons.md)
 
 ## Examples
--
+- [SPECTRA at Princeton City Schools](../designs/spectra-princeton-educators-of-color.md) — training, relationships and affirmation for educators of color
 
 ## Key Sources
 - Iloh, C. (2024, February). Recruitment and Retention: Impact of Pilot Solutions Designed by Teachers of Color (Phase II). Digital Promise. https://doi.org/10.51388/20.500.12265/216

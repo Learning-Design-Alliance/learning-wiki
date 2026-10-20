@@ -42,7 +42,7 @@ A post-session Qualtrics survey completed by the same nine instructors was groun
 - [Among TAM constructs, result demonstrability, intention to use, and ease of use received the highest ratings while output quality was lowest](../claims/tam-construct-means-asr-writing-study.md) [+W]
 
 ## Related Elements
-- 
+- [WAT-C classroom writing analytics platform](wat-c-classroom-writing-analytics-platform.md) — the platform the survey evaluates
 
 ## Examples
 -

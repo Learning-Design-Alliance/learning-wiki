@@ -42,6 +42,8 @@ Interview findings from the case study: Lucy described two mentor teachers from 
 
 ## Discussion
 
+Participants' reported actions were coded with a [two-dimensional advocacy framework](../theories/advocacy-sites-and-tactical-strategic-framework.md): site of advocacy (classroom, school, family and community, sociopolitical) crossed with tactical versus strategic action.
+
 
 ## Related Claims
 - Nearly all reported advocacy actions were tactical; the single strategic example was enacted at the school level by an experienced teacher — related

@@ -40,7 +40,8 @@ At Borough of Manhattan Community College, more than 20 instructors joined the c
 - [Collaborative web annotation (Marginal Syllabus): low-bandwidth asynchronous discussion with social justice intent](collaborative-web-annotation-marginal-syllabus.md)
 
 ## Examples
--
+
+- [Equitized Syllabus](../products/equitized-syllabus.md): the five-characteristic syllabus template on its own page
 
 ## Key Sources
 - Wiley, K., Neisler, J., & Means, B. (2023, February). Partnering to promote equity and digital learning. Digital Promise. https://doi.org/10.51388/20.500.12265/167

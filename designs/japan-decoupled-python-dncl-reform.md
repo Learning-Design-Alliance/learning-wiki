@@ -39,7 +39,8 @@ Japan's 2022 Information I reform standardizes "Python for classroom instruction
 ### Claims
 
 ## Related Designs
-- 
+- [Access first, then use the exam lever](../strategies/access-first-exam-lever-strategy.md) — the article's policy sequencing, for which Japan's decoupling of classroom language from exam pseudocode is a worked case
+- [Fifteen-country access and depth profile dataset](../products/fifteen-country-access-and-depth-profile-dataset-table-2.md)
 
 ## Examples
 -

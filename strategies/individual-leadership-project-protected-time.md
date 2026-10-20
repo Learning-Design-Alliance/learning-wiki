@@ -43,7 +43,8 @@ The Academy requires participants to complete individual projects and gives them
 - [Four ecosystem recommendations: experiment with currency forms, protect time for inquiry, include everyone in team learning, and invest in adaptive platforms](four-micro-credential-ecosystem-recommendations.md)
 
 ## Examples
--
+
+- [Special Education Leadership Academy (Massachusetts)](../products/special-education-leadership-academy-massachusetts.md): the academy in which participants complete the project
 
 ## Key Sources
 - Academy Breaks the Isolation of Special Education Directors. (2014). WestEd R&D Alert, Vol. 14, No. 3. https://eric.ed.gov/?id=ED559625

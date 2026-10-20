@@ -55,7 +55,8 @@ The report's policy recommendations for service scholarship programs: benchmark 
 - [Deploy a portfolio of research-based strategies — service scholarships, residencies, Grow Your Own programs, mentoring and induction, and compensation reform — to strengthen the teacher pipeline](portfolio-strategies-teacher-pipeline-texas.md)
 
 ## Examples
--
+
+- [Minority Teachers of Illinois scholarship program](../products/minority-teachers-of-illinois-scholarship-program.md): a state scholarship for students of color in Illinois licensure programmes
 
 ## Key Sources
 - Leung-Gagné, M., Maria Castillo, M., Patrick, S. K., Carver-Thomas, D., Kini, T., Bingener, C., & Giani, M. V. (2025). Strengthening the educator pipeline through service scholarships: California's Golden State Teacher Grant Program. Learning Policy Institute. https://doi.org/10.54300/518.478

@@ -119,6 +119,9 @@ Karpicke & Bauernschmidt (2011), [author-hosted full text](https://learninglab.p
 
 The examples are local design instances, not additional observations from those studies. Test the proposed interpretation and activity branches with new learner responses; compare competing designs under matched conditions before claiming a causal or predictive advantage. Reassess the model when the observations disagree with it.
 
+## Examples
+- [Memdora collaborative deck layer](../designs/memdora-collaborative-deck-layer.md) — a teacher's shared deck updates for all followers while each learner's spacing stays individual
+
 ## Key Sources
 
 - Karpicke, J. D., & Bauernschmidt, A. (2011). Spaced retrieval: Absolute spacing enhances learning regardless of relative spacing. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 37*(5), 1250–1257. [doi:10.1037/a0023436](https://doi.org/10.1037/a0023436)

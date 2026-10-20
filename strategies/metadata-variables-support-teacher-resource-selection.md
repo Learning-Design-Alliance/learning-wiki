@@ -44,7 +44,7 @@ The article recommends structuring learning-theory principles as observable peda
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](human-ai-division-of-labor-mcq-generation.md)
 
 ## Examples
--
+- [Secant-to-tangent transition applet](../designs/secant-tangent-transition-applet-example.md) — a derivative applet characterised by concept, prior knowledge, representation and level of conceptual construction
 
 ## Key Sources
 - Estefany Castillo Ventura, Javier Ulises Solis Lastra, Anarosa Alves Franco Brandão. (2026). WIP: Bridging the Gap Between Instructional Design and Pedagogical Use: A Framework for Mathematics Educators. https://arxiv.org/abs/2606.20934

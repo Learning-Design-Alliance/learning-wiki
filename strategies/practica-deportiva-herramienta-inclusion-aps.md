@@ -52,7 +52,8 @@ Estrategia implementada en Melilla: alumnado universitario realiza intervencione
 - [Exposición fotográfica y catálogo como vía de transferencia social de proyectos de ApS](exposicion-fotografica-transferencia-social-aps.md)
 
 ## Examples
--
+
+- [Red RIADIS de investigación en ApS en actividad física y deporte para la inclusión social](../products/red-riadis-de-investigacion-en-aps-en-actividad-fisica-y-deporte-para-la-inclusion-social.md): the research network that connects these university service-learning projects
 
 ## Key Sources
 - Ruíz Montero, P. J., & Bru Serrano, M. (2021). La educación física y el deporte como servicio hacia los más vulnerables: beneficios del aprendizaje-servicio. Red Euroamericana de Investigación y Docencia en Educación Física. https://www.riadis.es

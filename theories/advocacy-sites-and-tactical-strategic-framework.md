@@ -16,7 +16,7 @@ sources:
 # Two-dimensional advocacy framework: four sites of advocacy crossed with tactical versus strategic action
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The study's conceptual framework combines Athanases and deOliveira's (2008) categorization of advocacy sites — classroom, school, families and community, and larger sociopolitical structures, depicted as nested circles radiating outward — with Peters and Reid's (2009) distinction between tactical and strategic advocacy. The article states that "advocacy-in-action is both tactical and strategic," addressing immediate day-to-day teaching as well as larger social justice issues. The framework was used deductively to code participants' reported actions by site and impact.
@@ -38,6 +38,7 @@ The study's conceptual framework combines Athanases and deOliveira's (2008) cate
 
 ### Claims
 
+- [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](../claims/mentor-modeling-shapes-novice-advocacy-beliefs.md) [+M] (coded with this framework)
 
 ## Related Theories
 - 

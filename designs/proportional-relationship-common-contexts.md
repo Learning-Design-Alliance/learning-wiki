@@ -17,7 +17,7 @@ sources:
 # Six common contexts where proportional relationships arise
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper enumerates the everyday and mathematical settings where, in its words, 'common sense informs us that a proportional relationship is at play': unit conversion and exchange rates, constant rates, percentages, scaled drawings and maps, similar figures in geometry, and ratios. Each context is worked with the same scaling-in-tandem reasoning rather than with cross multiplication.

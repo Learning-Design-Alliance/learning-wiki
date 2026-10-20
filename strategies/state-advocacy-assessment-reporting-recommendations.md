@@ -43,7 +43,7 @@ The brief recommends advocates push state leaders to require vendors to user-tes
 - [Hire peer family care navigators and build county-level coordinated care systems for English Learner families](peer-family-care-navigators-for-el-families.md)
 
 ## Examples
--
+- [Oregon parent assessment literacy modules](../designs/oregon-parent-assessment-literacy-modules.md) — five bilingual modules on understanding statewide assessment results
 
 ## Key Sources
 - Levitan, S., & Munyan-Penney, N. (2024). Meaningful Assessment Reporting: Making Assessment Reports More Meaningful for Students & Families. EdTrust. https://eric.ed.gov/?id=ED658190

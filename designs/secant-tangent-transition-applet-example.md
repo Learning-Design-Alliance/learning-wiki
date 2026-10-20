@@ -40,7 +40,7 @@ An interactive applet illustrates the metadata characterization: it represents a
 - 
 
 ## Related Designs
-- 
+- [Metadata variables that support teachers' resource selection](../strategies/metadata-variables-support-teacher-resource-selection.md) — the metadata scheme this applet illustrates
 
 ## Examples
 -

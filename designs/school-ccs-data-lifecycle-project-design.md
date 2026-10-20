@@ -42,7 +42,7 @@ The study's program design builds on the CCS education framework and aligns its 
 - [Youth Varied Project Purposes Ccs](../claims/youth-varied-project-purposes-ccs.md) [+M]
 
 ## Related Designs
-- 
+- [Data lifecycle framework for community and citizen science](data-lifecycle-framework-ccs.md) — the framework this project's phases follow
 
 ## Examples
 -

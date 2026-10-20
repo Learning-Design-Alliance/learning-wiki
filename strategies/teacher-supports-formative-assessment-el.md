@@ -49,7 +49,8 @@ The brief lists supports teachers benefit from: professional development in form
 - [Professional development in asset-based pedagogies and adult SEL to build culturally affirming environments](pd-asset-based-pedagogies-adult-sel-sead.md)
 
 ## Examples
--
+
+- [Flashlight360](../products/flashlight360.md): a browser-based tool for scoring and feeding back on multilingual students' speaking and writing
 
 ## Key Sources
 - Jones, B., Faulkner-Bond, M., & Blitz, J. (2024). Accelerate Success for English Learners With Formative Assessment. Region 15 Comprehensive Center at WestEd. https://eric.ed.gov/?id=ED673605

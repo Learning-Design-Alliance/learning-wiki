@@ -17,7 +17,7 @@ sources:
 # Use pulse check surveys and systemic retention elements to proactively monitor educator well-being and reduce turnover
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide describes pulse check surveys as "short surveys, often delivered by email" asking a small number of questions about how educators feel about their work and what supports would help. "By monitoring employee well-being and work perceptions, districts can better intervene throughout the year" to reduce turnover. It pairs this with eight elements of teacher retention meant to be "practiced together" in a systemic approach.
@@ -38,8 +38,13 @@ The guide describes pulse check surveys as "short surveys, often delivered by em
 ### Target Learning Goals
 - retaining educators and sustaining a diverse workforce
 
+## Claims
+
+- [High-quality induction and mentoring programs are reported to reduce new-teacher attrition, and early-career teachers without coaching are reported twice as likely to leave](../claims/mentoring-coaching-reduce-teacher-attrition.md) [+W] (mentoring and coaching are among the retention elements)
+
 ## Related Strategies
-- 
+
+- [Standardize the hiring process with structured interviews, competency-aligned protocols, and performance-based tasks](../strategies/standardized-structured-hiring-process-strategy.md): the same guide's hiring practices, the recruitment half of the workforce strategy
 
 ## Examples
 -

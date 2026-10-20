@@ -18,7 +18,7 @@ sources:
 # Six-Tool Starter Set for State and District Evidence-Based Improvement
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A modifiable six-tool framework produced for state and district education agencies to examine improvement practices and select evidence-based interventions.
@@ -28,8 +28,13 @@ A modifiable six-tool framework produced for state and district education agenci
 
 ### Claims
 
+- [The guide argues that overfocusing on intervention selection alone risks a 'magic bullet' view because average positive outcomes do not guarantee local success](../claims/magic-bullet-risk-selection-without-needs-assessment.md) [+W] (the argument for tools covering the whole improvement cycle, not selection alone)
+
 ## Related Products and Programmes
--
+
+- [Use the tools as facilitated conversation starters that produce artifacts, not as a checklist exercise](../strategies/tools-as-conversation-starters-not-checklist.md): how the guide says the six tools should be used
+- [ESSA four-tier evidence hierarchy for intervention selection](../research-methods/essa-four-tier-evidence-hierarchy-for-intervention-selection.md): the evidence tiers the selection tools apply
+- [Nevada MRI menu of more rigorous interventions for CSI schools](../products/nevada-mri-menu-of-more-rigorous-interventions-for-csi-schools.md): a state intervention menu of the kind the selection tools inform
 
 ## Key Sources
 - Hale, S., Dunn, L., Filby, N., Rice, J., & Van Houten, L. (2017). Evidence-based improvement: A guide for states to strengthen their frameworks and supports aligned to the evidence requirements of ESSA. San Francisco: WestEd. http://www.wested.org/resources/evidence-based-improvement-essa-guide-for-states

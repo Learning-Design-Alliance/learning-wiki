@@ -37,10 +37,12 @@ Table 1 of the article provides per-criterion recommendations for instructors us
 - calibrated use of AI feedback across rubric criteria
 
 ### Claims
-- 
+- [Differences between AI-generated and teacher assessments of laboratory reports may stem from difficulties retrieving and interpreting equations, graphs, tables, and units, not only from model reasoning capabilities.](../claims/ai-teacher-assessment-gaps-tied-to-evidence-retrieval.md) [~M] — why items referring to images, diagrams and calculations need teacher review
 
 ## Related Designs
-- 
+- [Three-stage hybrid AI assessment workflow](../strategies/three-stage-hybrid-ai-assessment-workflow.md) — the workflow this per-criterion guidance plugs into
+- [Observable, verifiable rubric criteria with citable evidence](../strategies/observable-verifiable-rubric-criteria-with-citable-evidence.md)
+- [Report submission practices that support AI evidence retrieval](../strategies/report-submission-practices-to-support-ai-evidence-retrieval.md)
 
 ## Examples
 -

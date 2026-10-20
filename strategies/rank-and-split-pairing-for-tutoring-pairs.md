@@ -17,7 +17,7 @@ sources:
 # Form tutoring pairs by ranking students by reading achievement and pairing across halves of the ranked list
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A concrete pairing procedure for peer tutoring: "the teacher ranks students from highest to lowest reading achievement. To decrease the disparity of the reading ability of the pairs, the list is split in half. The first student listed on the first half of the list is paired with the first student on the second half of the list." This produces pairs in which each stronger reader is matched with a weaker reader who serves as coach during the stronger reader's reading turn.
@@ -36,11 +36,17 @@ A concrete pairing procedure for peer tutoring: "the teacher ranks students from
 ### Target Learning Goals
 - Reading proficiency through reciprocal peer tutoring
 
+## Claims
+
+- [PALS shows potentially positive effects on reading fluency for students with learning disabilities, with a substantively important but not statistically significant WWC-calculated effect size of 0.41 in Saenz et al. (2005)](../claims/pals-potentially-positive-reading-fluency-ld.md) [+M] (evidence on PALS as a whole, not on the pairing step)
+
 ## Related Strategies
-- 
+
+- [Paragraph Shrinking](../strategies/paragraph_shrinking.md): a PALS activity the pairs then carry out
 
 ## Examples
--
+
+- [Peer-Assisted Learning Strategies (PALS)](../products/peer-assisted-learning-strategies-pals.md): the programme whose pairing procedure this is
 
 ## Key Sources
 - Peer-Assisted Learning Strategies. (2010). WWC Intervention Report. What Works Clearinghouse, U.S. Department of Education. http://kc.vanderbilt.edu/pals

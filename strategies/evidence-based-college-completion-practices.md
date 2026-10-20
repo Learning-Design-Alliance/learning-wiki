@@ -45,7 +45,8 @@ The report's Implications section lists evidence-based approaches colleges are a
 - [Intrusive, data-driven advising: track unregistered students, audit degree plans, and bring advising directly to students](intrusive-data-driven-advising-usc.md)
 
 ## Examples
--
+- [VCU University College first-year model](../designs/vcu-university-college-first-year-model.md) — cohort core curriculum with proactive advising
+- [Educational Opportunity Program at Stony Brook](../designs/eop-stony-brook-support-program.md) — summer boot camp, advising three times a semester and a success contract
 
 ## Key Sources
 - Nagaoka, J., Mahaffie, S., Usher, A., & Arneson, A. (2023). The four years fallacy: Four-year vs. six-year bachelor's degree completion rates. Chicago, IL: University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/the-four-years-fallacy

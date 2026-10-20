@@ -13,7 +13,7 @@ generated:
 # Mixture Achievement Test (MAT)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A 17-item multiple-choice chemistry achievement test developed by Kingir (2013) to assess ninth-grade students' understanding of mixtures, including classification, solutions, solubility, and separation.
@@ -22,6 +22,9 @@ A 17-item multiple-choice chemistry achievement test developed by Kingir (2013) 
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
+
+- [Non-traditional letter writing improved 9th graders' conceptual understanding of a chemistry mixture unit more than traditional writing, with a small effect](../claims/non-traditional-writing-beats-traditional-writing-mixture-understanding.md) [+M] (understanding measured with the MAT)
+- [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](../claims/younger-audience-beats-teacher-audience-posttest.md) [+M]
 
 ## Related Products and Programmes
 -

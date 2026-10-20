@@ -41,6 +41,8 @@ Theoretical argument of a conceptual paper, elaborated through an empirical case
 
 ## Discussion
 
+In practice this means [structuring varied exercises so that repetitive practice supports sense-making](../strategies/structure-varied-exercises-for-sense-making.md).
+
 
 ## Related Claims
 

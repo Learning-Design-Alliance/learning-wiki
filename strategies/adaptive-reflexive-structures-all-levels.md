@@ -17,7 +17,7 @@ sources:
 # Design adaptive, reflexive structures at macro, meso and micro levels for a continuously learning education system
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The chapter concludes that the education system itself must be capable of continuous learning and that 'adaptive, reﬂexive structures must be designed at all levels of the education system'. At macro level this means adaptive governance combining strategic orientation with flexible control instruments and institutional feedback; at meso level sustainable cooperation structures, interoperable infrastructures and a culture of shared learning; at micro level technologies supporting professional pedagogical practice and individualised, collaborative learning.
@@ -37,6 +37,11 @@ The chapter concludes that the education system itself must be capable of contin
 
 ### Target Learning Goals
 - building future skills and enabling individualised and collaborative learning
+
+## Claims
+
+- [Digital transformation permeates all levels of the education system as an interdependent structure](../claims/digital-transformation-interdependent-multi-level-structure.md) [+W] (why structures are needed at every level)
+- [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](../claims/isolated-innovations-are-rejected-by-the-system-they-enter.md) [+M]
 
 ## Related Strategies
 - 

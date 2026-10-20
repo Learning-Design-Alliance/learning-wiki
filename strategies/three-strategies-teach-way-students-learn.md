@@ -41,6 +41,7 @@ The report describes three key strategies Bronxdale teachers employ to teach the
 - [Educative and restorative discipline implemented through restorative deans, circles, peer mediation, and youth court](educative-restorative-discipline-bronxdale.md)
 - [Teacher professional learning structured as an ongoing community of practice with trust, collaboration, and inquiry](teacher-community-of-practice-bronxdale.md)
 - [Classroom strategies for developing student psycho-social supports and academic mindsets](classroom-psycho-social-support-strategies.md)
+- [Bronxdale whole-school design](../designs/bronxdale-whole-school-design-pattern.md) — the school design these strategies sit within
 
 ## Examples
 -

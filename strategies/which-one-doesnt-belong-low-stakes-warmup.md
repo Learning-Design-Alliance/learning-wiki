@@ -47,6 +47,7 @@ Teachers opened lessons with warm-up questions projected on the board that "offe
 - [Retrieval Practice Warm Ups](retrieval-practice-warm-ups.md)
 - [Number Talks](math-talks-number-talks.md)
 - [Recognizing the Value of Learning from Mistakes](recognizing_the_value_of_learning_from_mistakes.md)
+- [Six-component engaged math lesson structure](../designs/six-component-engaged-math-lesson-structure.md) — the lesson this warm-up opens
 
 ## Examples
 -

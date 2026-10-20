@@ -41,6 +41,8 @@ The chapter reports classroom experiments in which instructional procedures were
 
 ## Discussion
 
+Word knowledge in these experiments was tracked with the [Vocabulary Knowledge Scale (VKS)](../products/vocabulary-knowledge-scale-vks.md), which Paribakht and Wesche built to register partial and growing knowledge of a word rather than a known/unknown split.
+
 
 ## Related Claims
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related

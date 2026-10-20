@@ -43,6 +43,11 @@ Ten states operate initiatives specifically targeting early-career leaders, six 
 
 ### Claims
 - Six Functions State Leadership Initiatives [+M]
+- [State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often](../claims/initiative-forms-and-roles-served.md) [~M]
+- [At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23](../claims/26-states-statewide-leadership-initiatives.md) [~M]
+
+## Patterns Used
+- [Mentoring and Coaching](../principles/mentoring-and-coaching.md): new principals paired with experienced mentors through regular calls and site visits, alongside cohort seminars and coaching
 
 ## Related Designs
 - 

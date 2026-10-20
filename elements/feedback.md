@@ -295,6 +295,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md) — the coaching phase, where the expert diagnoses and corrects learner performance
 
 ## Examples
+- [WAT-C classroom writing analytics platform](wat-c-classroom-writing-analytics-platform.md) — open-source NLP feedback on persuasive and source-based essays
 
 **[Action-Oriented Feedback](../strategies/action-oriented-feedback.md)** — Comments phrased as a next action ("add a counterexample here") rather than a judgment ("weak argument"), making the revision path explicit.
 

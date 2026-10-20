@@ -47,6 +47,7 @@ Harvey Siegel's plenary paper presents a conception in which critical thinking i
 - [The univocal language of inquiry: the language of reasons across disciplines](language-of-inquiry-as-language-of-reasons.md)
 - [Montclair conception of critical thinking as judgment supported by disciplinary canons](montclair-judgment-centered-critical-thinking.md)
 - [Siegel's two-component account of critical thinking: reason assessment ability plus critical attitude](siegel-two-component-critical-thinking.md)
+- [Self-reflexive justificatory strategy](../theories/self-reflexive-justification-strategy.md): Siegel's self-reflexive answer to 'Why be rational?'
 
 ## Examples
 

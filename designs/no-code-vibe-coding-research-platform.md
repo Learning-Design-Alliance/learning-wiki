@@ -44,7 +44,8 @@ A custom web platform built for controlled study of LLM-native software creation
 - [Spec-Driven Development (SDD): a development methodology in which AI agents generate code from structured specification documents that developers must verify](spec-driven-development-sdd-methodology.md)
 
 ## Examples
--
+
+- [Expert-vetted assessment suite of GUI-oriented vibe-coding tasks with scoring criteria](../products/expert-vetted-assessment-suite-of-gui-oriented-vibe-coding-tasks-with-scoring-criteria.md): the expert-vetted task suite and scoring criteria used on the platform
 
 ## Key Sources
 - Sverrir Thorgeirsson, Theo B. Weidmann, and Zhendong Su. 2026. Computer Science Achievement and Writing Skills Predict Vibe Coding Proficiency. Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems (CHI '26). https://doi.org/10.1145/3772318.3791666

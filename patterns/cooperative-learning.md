@@ -149,6 +149,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Nine types of positive interdependence teachers can structure into cooperative activities](../elements/nine-types-positive-interdependence.md)
 
 ## Examples
+- [The science unit 'How does alcohol consumption affect our body?'](../designs/alcohol-consumption-multidisciplinary-unit.md) — disciplinary groups regrouped into multidisciplinary groups of three to build a shared model
 
 **Jigsaw (Aronson):** Each member of a home team learns one segment of material in an expert group, then teaches it to teammates. Every member is essential by design — the canonical positive-interdependence structure. See [https://www.jigsaw.org](https://www.jigsaw.org).
 

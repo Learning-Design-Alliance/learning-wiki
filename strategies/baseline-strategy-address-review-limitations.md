@@ -17,7 +17,7 @@ sources:
 # Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The review positions its findings as a baseline for quality-improvement work in evidence synthesis: "This report may be used as a baseline for assessing effects of implementing strategies to address limitations identified by this review". The named targets include interpreting risk of bias, reporting funding of individual studies, explaining the selection of study designs, and citing the pre-published protocol. It also recommends future studies explore specific methods such as search strategies and economic considerations.

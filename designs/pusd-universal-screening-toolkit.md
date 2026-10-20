@@ -44,7 +44,8 @@ PUSD implemented universal mental health screeners starting in 2019/20, includin
 - [Universal mental health screening systems in Cal-Well districts](cal-well-universal-mental-health-screening.md)
 
 ## Examples
--
+
+- [Social, Academic, and Emotional Behavior Risk Screener (SAEBRS)](../products/social-academic-and-emotional-behavior-risk-screener-saebrs.md): the screener at the centre of this toolkit
 
 ## Key Sources
 - Paradise Unified School District: Building School Mental Health Systems to Support Healing and Recovery Through Project Cal-Well. (2024). WestEd. https://wested.org

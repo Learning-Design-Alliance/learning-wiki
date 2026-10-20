@@ -30,7 +30,8 @@ ELLM/Plus is a literacy-focused comprehensive curriculum for young children from
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Two-tier professional development: intensive teacher training with weekly coach follow-up, plus a five-day summer institute and weekly seminars for coaches](../strategies/ellm-two-tier-professional-development.md): the curriculum's own two-tier professional development for teachers and coaches
 
 ## Key Sources
 - Early Literacy and Learning Model (ELLM/Plus). (2008). Evidence rating summary, Preschool Curriculum Evaluation Research (PCER) studies. https://evidenceforessa.org/program/early-literacy-and-learning-model-plus-ellm-plus/

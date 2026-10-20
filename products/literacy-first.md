@@ -19,7 +19,7 @@ sources:
 # Literacy First
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Literacy First is an early-literacy tutoring programme run by Literacy First that provides trained tutors and individualized daily sessions for kindergarten through grade 2 students who are reading below grade level.
@@ -27,8 +27,10 @@ Literacy First is an early-literacy tutoring programme run by Literacy First tha
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Literacy First early literacy tutoring program for kindergarten through grade 2**: Literacy First (formerly AmeriCorps for Community Engagement and Education, then A Community for Education) is an early literacy intervention providing trained tutors for students in kindergarten through grade 2, largely in the Austin, Texas area. It identifies "students reading below grade level each fall and provides tutoring across the school year." Tutors work with students daily in 30-minute sessions tailored to individual literacy/language needs, and 50% of tutors are bilingual, supporting both Spanish- and English-speaking students. (Literacy First program description et al. (2021))
+- [Daily individualized tutoring with response-to-intervention monitoring](../designs/daily-individualized-tutoring-rti-monitoring-pattern.md): 30-minute daily one-to-one sessions with benchmark assessments and weekly progress monitoring
 
 ### Claims
+- [Literacy First shows strong ESSA evidence of positive effects in phonics and related alphabetics, reading fluency, and reading comprehension for grades K–2](../claims/literacy-first-strong-evidence-phonics-fluency-comprehension.md) [+M]
 
 ## Related Products and Programmes
 -

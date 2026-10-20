@@ -40,8 +40,12 @@ Virginia Commonwealth University's University College, launched in 2006, is buil
 
 ### Claims
 
+## Patterns Used
+- [Evidence-based college completion practices](../strategies/evidence-based-college-completion-practices.md): proactive advising with required advisor meetings, attendance reporting and early outreach
+
 ## Related Designs
-- 
+- [Educational Opportunity Program at Stony Brook](eop-stony-brook-support-program.md) — another completion case from the same Education Trust series
+- [Intrusive, data-driven advising at USC](../strategies/intrusive-data-driven-advising-usc.md)
 
 ## Examples
 -

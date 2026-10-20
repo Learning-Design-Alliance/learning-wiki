@@ -43,7 +43,8 @@ The brief lists Grow Your Own (GYO) programs among the research-based strategies
 - [Use strategic hiring aligned to the instructional model, including observing candidates teach and recruiting for mission-specific qualifications](strategic-hiring-aligned-to-instructional-model.md)
 
 ## Examples
--
+
+- [Grow Your Own Illinois program](../products/grow-your-own-illinois-program.md): Illinois's state-funded GYO programme
 
 ## Key Sources
 - Educator Diversity State Profile: Ohio. (2020). EdTrust. http://education.ohio.gov/getattachment/Topics/Teaching/Diversifying-Education-Profession-Taskforce-Recommendations.pdf.aspx?lang=en-US

@@ -26,6 +26,7 @@ A branded whole-school framework that centers students and families in school de
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Celebratory traditions: quarterly awards, bridging ceremonies and MVP Button recognition](../designs/celebratory-traditions-school-community.md): the community-building events the article describes
 
 ### Claims
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](../claims/parent-involvement-increased-three-years.md) [+W]

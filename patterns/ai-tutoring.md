@@ -304,6 +304,9 @@ Record: **unaided first attempt → tutor configuration and content actually use
 
 This pattern is scoped to the tutor's moves within tasks and the handoff to people. It does not cover AI grading, AI-generated course content, proctoring or AI role-play as a practice partner (see [practice with simulated people](practice-with-simulated-people.md)). The wiki records no randomized comparison of an LLM tutor across a whole course with a delayed or transfer outcome (the longest is a five-week field experiment with 46 analysed and an end-of-period post-test), no test of a handoff trigger, and no test of fading a conversational tutor's help across sessions (the one fading result is for worked steps in a step-based tutor); no trial of grounding a tutor in course materials against an ungrounded one with a learning outcome; and no test of withholding learner identity labels from a tutor's prompt beyond the feedback-bias audit it rests on. Much of the newer LLM-tutor evidence here is benchmark or simulated-student evaluation of the tutor's outputs, which says what a tutor does, not what learners learn. The diagnostic branches above remain to be tested with actual learners.
 
+## Examples
+- [ChatGPT as a virtual laboratory assistant in a sociotechnical system](../designs/sts-theory-chatgpt-virtual-laboratory-assistant.md) — ChatGPT answers lab questions beside human TAs, not in their place
+
 ## Related Patterns
 
 - [Mastery Learning](mastery-learning.md)

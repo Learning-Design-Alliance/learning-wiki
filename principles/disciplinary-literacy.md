@@ -154,6 +154,7 @@ Comprehension of new texts, the practised disciplinary thinking skill, disciplin
 - [Cognitive Apprenticeship pattern](../patterns/cognitive-apprenticeship.md) — modelling, coaching and fading inside authentic work, the hand-over this page uses
 
 ## Examples
+- [Driving Task Prompt sequenced literacy journey](../designs/driving-task-prompt-sequenced-literacy-journey.md) — middle school units built around one disciplinary writing task
 
 ### Illustrative
 

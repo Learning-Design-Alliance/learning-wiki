@@ -38,8 +38,12 @@ The program's design pattern combines a math curriculum with adaptive game-based
 
 ### Claims
 
+## Patterns Used
+- [Game-Based Mastery Learning](../patterns/game-based-mastery-learning.md): each game maps to one learning objective, with instruction, scaffolding and feedback layers and a pathway between skills based on prior performance
+
 ## Related Designs
-- 
+- [My Math Academy](../products/my-math-academy.md) — the programme whose design this is
+- [My Math Academy implementation and PD strategy](../strategies/mma-implementation-pd-strategy.md)
 
 ## Examples
 -

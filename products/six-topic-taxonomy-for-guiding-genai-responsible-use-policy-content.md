@@ -26,6 +26,7 @@ A RAPID GenAI Working Group framework that organizes responsible generative-AI p
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Student-centred, first-person responsible use policy](../designs/student-centered-first-person-responsible-use-policy.md): ten or fewer points written as "I am responsible for…", with policy modules, a glossary, a quiz and student-made announcements
 
 ### Claims
 

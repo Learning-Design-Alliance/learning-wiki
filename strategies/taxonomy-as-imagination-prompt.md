@@ -17,7 +17,7 @@ sources:
 # Use the taxonomy as a prompt to stimulate educator imagination when constructing new GenAI learning activities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Rather than only describing existing activities, the taxonomy can be used generatively — the article states that "the taxonomy can serve as a prompt to stimu- late educators' imagination about GenAI activities." Two of the five tested examples (Ball Game Fundamentals and GenAI Fluency in Post-Crisis Analysis) were constructed using the taxonomy as inspiration. In constructing these activities, the authors found "the taxonomy helped us capture and navigate our discussions and prompted us to consider aspects of the activity which we might otherwise have left out."
@@ -41,8 +41,13 @@ Rather than only describing existing activities, the taxonomy can be used genera
 
 ### Affordances
 
+## Claims
+
+- [Collaborative testing shows the taxonomy enables comparison between similar GenAI activities while inevitably falling short of portraying all entangled aspects](../claims/taxonomy-testing-reveals-limits-and-comparison.md) [~W] (the taxonomy supports comparison but cannot capture every entangled aspect)
+
 ## Related Strategies
-- 
+
+- [Extended Taxonomy Design Process (ETDP)](../research-methods/extended-taxonomy-design-process-etdp.md): the process by which the taxonomy was built and tested
 
 ## Examples
 -

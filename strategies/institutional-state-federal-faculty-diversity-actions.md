@@ -51,7 +51,8 @@ The report recommends a multi-level action set: institutions should develop spec
 - [State and federal policy recommendations: recruit and prepare more candidates, retain new teachers through early-career mentoring, and improve working conditions](teacher-shortage-policy-recommendations.md)
 
 ## Examples
--
+
+- [Faculty diversity pipeline programs (State Doctoral Scholars Program, STRIDE, California Pre-Doctoral Program)](../products/faculty-diversity-pipeline-programs-state-doctoral-scholars-program-stride-california-pre.md): named pipeline programmes (SREB State Doctoral Scholars, FIU STRIDE, UC Pre-Doctoral) the report cites
 
 ## Key Sources
 - Jinann Bitar, Gabriel Montague, Lauren Ilano. (2022). Faculty Diversity and Student Success Go Hand in Hand, So Why Are University Faculties So White? The Education Trust. https://eric.ed.gov/?id=ED626440

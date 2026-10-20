@@ -45,6 +45,7 @@ For large courses, the article proposes a combined workflow in three stages: (1)
 - [Mitigate extraction errors by requiring high-resolution PDFs, equation-editor equations, and legible graph axes, units, and legends](report-submission-practices-to-support-ai-evidence-retrieval.md)
 - [Use a hybrid AI-then-instructor grading workflow with immutable override history](hybrid-ai-instructor-grading-workflow.md)
 - [Implement AI-assisted report feedback through a four-stage phased pathway beginning with mature low-level tools](phased-four-stage-ai-feedback-implementation.md)
+- [Per-criterion guidance for instructors using AI feedback on lab reports](../designs/rubric-item-ai-feedback-guidance-table.md) — which rubric items to delegate, verify or review by hand
 
 ## Examples
 -

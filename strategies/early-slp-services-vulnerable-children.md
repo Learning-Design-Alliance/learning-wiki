@@ -17,7 +17,7 @@ sources:
 # Provide speech-language pathology services to at-risk children at the earliest opportunity across prevention, policy, and practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that speech-language pathologists deliver "assessment, intervention, and sec- ondary consultation services to at-risk children at the earliest opportunity", for example through home visiting services promoting children's language development. It argues SLPs should assert their presence in interdisciplinary contexts at prevention, policy, and practice levels so that scope of practice widens to meet the needs of vulnerable children and adolescents. Waiting until youth detention to provide such services is described as flying in the face of developmental principles and intervention science.

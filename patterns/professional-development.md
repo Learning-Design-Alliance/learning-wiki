@@ -187,6 +187,8 @@ This pattern is scoped to changing one observable teaching practice through enac
 - [Level 1 initial steps: address teacher beliefs through individual conferencing and establish teacher learning communities](../designs/coaching-level-1-initial-steps-beliefs-and-community-establishment.md)
 
 ## Examples
+- [Boston Public Schools early learning strategy](../designs/bps-early-learning-uniform-curricula-coaches-naeyc.md) — uniform early math and literacy curricula supported by teacher training and instructional coaches
+- [Multi-phase leadership academy structure](../designs/multi-phase-leadership-academy-structure.md) — summer institute, follow-up days and annual reunions for special education directors
 
 **Reading Recovery (https://www.readingrecovery.org):** Teachers receive a year of training behind a one-way mirror, observing expert lessons, teaching with live coaching, and discussing decisions afterward — a full apprenticeship cycle with fading support.
 

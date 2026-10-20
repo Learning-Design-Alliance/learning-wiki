@@ -44,7 +44,8 @@ Hypergamification is the authors' proposed concept in which a complete game envi
 - [Demo game rendering Blackboard course elements as 3D school environments](unity-blackboard-demo-game-school-environment.md)
 
 ## Examples
--
+
+- [Future integration pathways: WebGL builds, the Ultra Extension Framework, and AI-generated personalized hypergamifications](../strategies/future-webgl-uef-ai-hypergamification-pathways.md): the authors' proposed next steps: WebGL builds, the Ultra Extension Framework and AI-generated hypergamifications
 
 ## Key Sources
 - Araz Yusubov, Tangiz Alizada, Michael Bechtel. (2026). Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game. https://github.com/ADA-SITE-SITE4890-2023-Spring/senior-design-project-ay5-gamification-2-0-unity-bb/

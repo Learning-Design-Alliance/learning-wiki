@@ -38,10 +38,15 @@ The article applies Sociotechnical Systems (STS) Theory, which "gives a systems 
 - active learning through collaborative questioning
 
 ### Claims
-- 
+- [SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy](../claims/chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas.md) [+M] — supports positioning ChatGPT as support, not a replacement for TAs
+- [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](../claims/human-tas-stronger-teaching-effectiveness-than-chatgpt.md) [+M]
+- [Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time](../claims/students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt.md) [~M]
+
+## Patterns Used
+- [AI Tutoring](../patterns/ai-tutoring.md): ChatGPT answers students' laboratory questions as a technical support component, alongside rather than in place of human TAs
 
 ## Related Designs
-- 
+- [Edit ambiguous student questions into directive prompts](../strategies/edit-ambiguous-student-questions-into-directive-prompts.md) — from the same study
 
 ## Examples
 -

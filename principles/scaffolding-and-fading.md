@@ -177,6 +177,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Regulate fading rate per learner, distinguishing perceived fading rate (teacher-set) from actual fading rate (child-set)](../strategies/perceived-versus-actual-fading-rate-strategy.md)
 - [Use hands-on practice and immediate feedback in bibliographic instruction for ESL students](../strategies/hands-on-instruction-esl-students.md)
 - [Use learner skill levels to determine when to transition from worked examples to problem solving in tutoring systems](../strategies/skill-based-adaptive-fading-schedule.md)
+- [From models and closed cues to open cues](../designs/models-closed-cues-to-open-cues-language-independence.md) — teacher cues fade from restrictive to open to build pupils' independent language use
 
 ## Key Sources
 - Kupers, E., van Dijk, M., & van Geert, P. (2017). Changing Patterns of Scaffolding and Autonomy During Individual Music Lessons: A Mixed Methods Approach. *Journal of the Learning Sciences, 26*(1), 131-166. [https://doi.org/10.1080/10508406.2016.1259624](https://doi.org/10.1080/10508406.2016.1259624)

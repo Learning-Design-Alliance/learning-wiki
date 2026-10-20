@@ -17,7 +17,7 @@ sources:
 # Secure detailed feedback from CTE teachers when developing academically integrated CTE curricula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 This strategy holds that curriculum developers infusing academics into CTE should gather detailed feedback from practicing CTE teachers. The brief states integration "can be aided by securing detailed feedback from CTE teachers," positioning teacher feedback as a practical support for developers confronting integration challenges. It is an implementable development activity drawn from the brief's study of math-infused CTE curricula.
@@ -35,6 +35,11 @@ This strategy holds that curriculum developers infusing academics into CTE shoul
 
 ### Target Learning Goals
 - Academic learning (e.g., mathematics) integrated into career and technical education content
+
+## Claims
+
+- [Curriculum developers faced challenges infusing more math into CTE curricula](../claims/developers-challenges-infusing-math-into-cte.md) [~M] (the challenges teacher feedback is meant to help with)
+- [Incorporating academic learning into CTE requires substantial time, effort, and other resources](../claims/academic-cte-integration-requires-substantial-resources.md) [~M]
 
 ## Related Strategies
 - 

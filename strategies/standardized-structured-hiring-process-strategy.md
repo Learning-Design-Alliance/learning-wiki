@@ -41,6 +41,7 @@ The guide urges hiring teams to standardize hiring by "Auditing, updating, and s
 ## Related Strategies
 
 - [Use strategic hiring aligned to the instructional model, including observing candidates teach and recruiting for mission-specific qualifications](strategic-hiring-aligned-to-instructional-model.md)
+- [Use pulse check surveys and systemic retention elements to proactively monitor educator well-being and reduce turnover](../strategies/pulse-check-surveys-educator-retention-strategy.md): the same guide's retention practices
 
 ## Examples
 -

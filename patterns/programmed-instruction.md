@@ -155,6 +155,7 @@ This pattern is scoped to well-defined content whose steps have checkable answer
 - Skinner's original teaching-machine frames and linear programmed textbooks (e.g., *English 2600*)
 - Crowder's AutoTutor and TutorText branching programmed books
 - The Personalized System of Instruction ("Keller Plan"): self-paced units with a mastery test and proctor feedback before advancing
+- [ETV, programmed workbook and drive-in seminar inservice course](../designs/etv-workbook-seminar-inservice-course.md) — Georgia educators complete a workbook session for each statewide TV programme
 
 ## Key Sources
 - Molenda, M. (2008). The programmed instruction era: When effectiveness mattered. *TechTrends, 52*(2), 52–58. Republished in R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/programmed_instruction](https://edtechbooks.org/lidtfoundations/programmed_instruction)

@@ -86,6 +86,7 @@ RTI replaces a wait-to-fail referral model with proactive, data-based prevention
 - **Early reading RTI in Minnesota and Ohio statewide initiatives** — universal DIBELS screening three times per year, with Tier 2 small-group phonics intervention and weekly oral-reading-fluency monitoring; both states documented reduced special education identification rates in participating districts.
 - **[NCII](https://intensiveintervention.org) (National Center on Intensive Intervention)** — provides validated Tier 2/Tier 3 intervention tools charts and progress-monitoring resources used by US districts implementing RTI/MTSS.
 - **[What Works Clearinghouse RTI practice guide](https://ies.ed.gov/ncee/wwc/PracticeGuide/26)** — Gersten et al.'s five recommendations for grades K–6 reading RTI, including screening all students and intervening with research-validated programs.
+- [Daily individualized tutoring with response-to-intervention monitoring](../designs/daily-individualized-tutoring-rti-monitoring-pattern.md) — Literacy First's K-2 tutoring, adjusted by weekly progress monitoring
 
 ## Key Sources
 - Fuchs, D., & Fuchs, L. S. (2006). Introduction to response to intervention: What, why, and how valid is it? *Reading Research Quarterly, 41*(1), 93–99. [doi:10.1598/RRQ.41.1.4](https://doi.org/10.1598/RRQ.41.1.4)
