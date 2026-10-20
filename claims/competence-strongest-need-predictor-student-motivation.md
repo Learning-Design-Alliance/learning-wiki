@@ -53,7 +53,7 @@ Bureau, J. S., Howard, J. L., Chong, J. X. Y., & Guay, F. (2022). Pathways to St
 
 `q3 · i2` · `quant-synthesis · r3`
 
-Weighted-covariance GLS meta-analytic structural equation modeling with multiple imputation pooling correlations from the 144 included samples. The model showed "Competence was the strongest predictor of amotivation (β = −.23 to −.30), identified regulation (β = .31 to .34), and intrinsic motivation (β = .33)".
+Weighted-covariance GLS meta-analytic structural equation modeling, run as three models because parental autonomy support had too few samples to impute: one with all variables and pairwise deletion (k = 2–71 per correlation), one with multiple imputation and no parental autonomy support (k = 7–71), and one with pairwise deletion and no parental autonomy support (k = 7–71), from a database of 144 samples. Across the three models, "Competence was the strongest predictor of amotivation (β = −.23 to −.30), identified regulation (β = .31 to .34), and intrinsic motivation (β = .33)".
 
 > "Competence was the strongest predictor of amotivation (β = −.23 to −.30), identified regulation (β = .31 to .34), and intrinsic motivation (β = .33)."
 
@@ -85,6 +85,6 @@ Relative weight analysis of need satisfaction predicting intrinsic motivation fr
 - [Psychological needs correlate more strongly with more self-determined motivation types, from intrinsic motivation down to near-zero with external regulation](needs-gradient-correlations-motivation-types.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
 - [Student age and sample gender composition moderate associations between motivation antecedents and motivation types](age-gender-moderate-motivation-antecedents.md) — related
-- [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
+- [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](teacher-autonomy-support-stronger-than-parental.md) — related
 - [Need satisfaction and autonomy support did not predict external regulation, and introjected associations did not hold in the full model](needs-autonomy-support-not-predict-external-regulation.md) — related

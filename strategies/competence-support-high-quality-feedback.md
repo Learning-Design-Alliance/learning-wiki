@@ -43,7 +43,7 @@ Because competence was the strongest need predictor of self-determined motivatio
 
 - [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](../claims/competence-strongest-need-predictor-student-motivation.md) [+W]
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](../claims/basic-needs-satisfaction-autonomous-motivation.md) [+W]
-- [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](../claims/competence-strongest-predictor-relatedness-null.md) [+W]
+- [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect](../claims/competence-strongest-predictor-relatedness-null.md) [+W]
 - [Psychological needs correlate more strongly with more self-determined motivation types, from intrinsic motivation down to near-zero with external regulation](../claims/needs-gradient-correlations-motivation-types.md) [+W]
 
 ## Related Strategies

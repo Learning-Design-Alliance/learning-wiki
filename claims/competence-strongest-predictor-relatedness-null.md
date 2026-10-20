@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect
-description: Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect
+title: Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect
+description: Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect
 id: competence-strongest-predictor-relatedness-null
 status: review
 generated:
@@ -17,7 +17,7 @@ sources:
     rigour: 3
 ---
 
-# Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect
+# Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no significant independent effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
@@ -33,7 +33,7 @@ Yu S, Lin Y and Chen C (2026) Designing for AI literacy: psychological mechanism
 
 `q3 · i2` · `causal · r3`
 
-PLS-SEM structural model with the three psychological needs predicting objective AI literacy performance. Competence (β = 0.358, p < 0.001) and autonomy (β = 0.132, p = 0.030) were significant; relatedness was not (β = 0.071, p = 0.153).
+PLS-SEM structural model with the three psychological needs, measured after the task on self-report scales, predicting rubric-scored AI literacy performance among 320 university students in a randomized 2 × 2 experiment (the needs were measured, not manipulated, so these paths are associations). Competence (β = 0.358, p < 0.001) and autonomy (β = 0.132, p = 0.030) were significant; relatedness was not (β = 0.071, p = 0.153).
 
 > "Among the psychological needs, competence was the strongest independent predictor of AI literacy performance (β = 0.358, p < 0.001), followed by autonomy (β = 0.132, p = 0.030). Relatedness did not have a signiﬁcant independent eﬀect (β = 0.071, p = 0.153)."
 

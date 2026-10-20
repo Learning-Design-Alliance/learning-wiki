@@ -9,8 +9,8 @@ generated:
   at: 2026-10-20
 sources:
   - id: smagorinsky-1992
-    resource: "https://doi.org/10.2307/1170740"
-    title: "Smagorinsky, P., & Smith, M. W. (1992). The Nature of Knowledge in Composition and Literary Understanding: The Question of Specificity. Review of Educational Research, 62(3), 279-305. https://doi.org/10.2307/1170740"
+    resource: "https://doi.org/10.3102/00346543062003279"
+    title: "Smagorinsky, P., & Smith, M. W. (1992). The Nature of Knowledge in Composition and Literary Understanding: The Question of Specificity. Review of Educational Research, 62(3), 279-305. https://doi.org/10.3102/00346543062003279"
     author: "Smagorinsky, P., & Smith, M. W"
 ---
 
@@ -46,4 +46,4 @@ Drawing on Perkins and Salomon, the review recommends that teachers who want kno
 -
 
 ## Key Sources
-- Smagorinsky, P., & Smith, M. W. (1992). The Nature of Knowledge in Composition and Literary Understanding: The Question of Specificity. Review of Educational Research, 62(3), 279-305. https://doi.org/10.2307/1170740
+- Smagorinsky, P., & Smith, M. W. (1992). The Nature of Knowledge in Composition and Literary Understanding: The Question of Specificity. Review of Educational Research, 62(3), 279-305. https://doi.org/10.3102/00346543062003279
