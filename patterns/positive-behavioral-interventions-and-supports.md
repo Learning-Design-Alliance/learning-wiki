@@ -143,6 +143,7 @@ This pattern is scoped to a school-wide, tiered system of taught and acknowledge
 - **[PBIS Technical Assistance Center](https://www.pbis.org):** The national OSEP-funded center provides implementation guides, fidelity measures (e.g., TFI, SAS), and state-level implementation data for thousands of U.S. schools.
 - **Maryland Safe and Supportive Schools (MDS3):** A statewide initiative combining school-wide PBIS with climate measurement; randomized evaluation showed improved climate and reduced suspensions in high-need schools (the earlier page's statement; no claim page in this wiki records that evaluation). The randomized SWPBIS trial this page draws on was also in Maryland elementary schools.
 - **Check-In/Check-Out (CICO):** A widely used Tier 2 program in which a mentor greets the student each morning, reviews goals, and closes the day with feedback and points shared with family — a structured daily [check-in](../elements/check-in.md) cycle.
+- [Celebratory traditions: quarterly awards, bridging ceremonies and MVP Button recognition](../designs/celebratory-traditions-school-community.md) — school-wide recognition of citizenship and contributions in a middle school using PBIS
 
 ## Key Sources
 - Bradshaw, C. P., Mitchell, M. M., O'Brennan, L. M., & Leaf, P. J. (2010). Multilevel exploration of factors contributing to the overrepresentation of black students in office disciplinary referrals. *Journal of Educational Psychology, 102*(2), 508–520. [doi:10.1037/a0018450](https://doi.org/10.1037/a0018450)

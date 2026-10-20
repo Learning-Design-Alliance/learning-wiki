@@ -14,7 +14,7 @@ sources:
     author: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C."
     q: 4
     i: 1
-    n: 29 reviews (1,189 studies, 78,177 participants)
+    n: 29 reviews (1,189 studies; 78,177 participants in the abstract, 79,415 in the Results)
     kind: quant-synthesis
     rigour: 2
   - id: sweller-1988
@@ -37,7 +37,7 @@ When the demands of a learning task exceed the capacity of working memory, learn
 
 ## Subclaims
 
-`q4 i1` Across 29 systematic reviews (1,189 studies, 78,177 participants), multimedia designs that cut extraneous load improved learning on average (g = 0.38), and the benefit was far larger for complex, high-element-interactivity materials (g = 0.70) than simple ones (g = 0.20), consistent with overload hurting learning mainly when total demand is high. [→ Noetel et al. 2022](#noetel-et-al-2022)
+`q4 i1` Across 29 systematic reviews (1,189 studies, 78,177 participants per the abstract), multimedia design principles, many of them load-reducing, improved learning on average (g = 0.38, pooled across all principles in the 11 largest reviews), and the benefit was far larger for complex, high-element-interactivity materials (g = 0.70) than simple ones (g = 0.20), consistent with overload hurting learning mainly when total demand is high. [→ Noetel et al. 2022](#noetel-et-al-2022)
 
 `q3 i?` Conventional means–ends problem solving uses so much processing capacity that little is left for schema acquisition, which the author supports with a computational model and experimental evidence; the abstract reports no effect size. [→ Sweller 1988](#sweller-1988)
 
@@ -47,9 +47,9 @@ When the demands of a learning task exceed the capacity of working memory, learn
 
 Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C. (2022). Multimedia design for learning: An overview of reviews with meta-meta-analysis. *Review of Educational Research, 92*(3), 413–454. [doi:10.3102/00346543211052329](https://doi.org/10.3102/00346543211052329)
 
-`q4 · overview of systematic reviews with meta-meta-analysis` · `i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials)` · `n=29 reviews (1,189 studies, 78,177 participants)` · `quant-synthesis · r2`
+`q4 · overview of systematic reviews with meta-meta-analysis` · `i1 · small-to-moderate average effect, g=0.38 (g=0.70 for complex materials)` · `n=29 reviews (1,189 studies; 78,177 participants in the abstract, 79,415 in the Results)` · `quant-synthesis · r2`
 
-An overview of 29 systematic reviews testing how multimedia design affects learning or cognitive load. Pooling the 11 largest reviews (808 effect sizes), load-reducing design principles such as contiguity, signaling, segmenting and removing seductive details improved learning (g = 0.38, 95% CI [0.27, 0.49]). The complexity of the material (element interactivity) moderated these effects: design mattered much more for complex media (g = 0.70) than for simple media (g = 0.20), which the authors read as support for the idea that complex materials are the ones likely to cause cognitive overload without good design. Learner prior knowledge did not significantly moderate effects, so this review offers only weak support for the expertise-reversal part of the account. This is indirect evidence: it tests *reducing* load, not inducing overload.
+An overview of 29 systematic reviews testing how multimedia design affects learning or cognitive load. Pooling the 11 largest reviews (808 effect sizes), multimedia design principles as a whole improved learning (g = 0.38, 95% CI [0.27, 0.49]); the pool includes load-reducing principles such as contiguity, signaling, segmenting and removing seductive details, and others such as animation, anthropomorphics and pedagogical agents. The complexity of the material (element interactivity) moderated these effects: design mattered much more for complex media (g = 0.70) than for simple media (g = 0.20), which the authors read as support for the idea that complex materials are the ones likely to cause cognitive overload without good design. Learner prior knowledge did not significantly moderate effects, and the authors conclude that the expertise-reversal hypothesis was not supported by their analyses. This is indirect evidence: it tests *reducing* load, not inducing overload.
 
 ### Sweller 1988
 

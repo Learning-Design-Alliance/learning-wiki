@@ -65,7 +65,8 @@ The report recommends that California policymakers maintain funding for the Teac
 - [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
 
 ## Examples
--
+
+- [Statewide Residency Technical Assistance Center (SRTAC)](../products/statewide-residency-technical-assistance-center-srtac.md): the technical assistance centre the report recommends continuing to fund
 
 ## Key Sources
 - Yun, C., & Fitz, J. (2025). Successful teacher residencies: What matters and what works. Learning Policy Institute. https://doi.org/10.54300/480.783

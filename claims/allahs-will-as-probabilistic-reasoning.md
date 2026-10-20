@@ -46,7 +46,7 @@ Qualitative coding of giving-birth responses; two PSMTs gave 50% yet added that 
 - [Statistical Reasoning](../learner-variables/statistical-reasoning.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](outcome-oriented-causal-conception.md) — related
+- [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](outcome-oriented-causal-conception.md) — related
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related
 - [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](subjective-reasoning-context-dependent.md) — related
 - [Beliefs about action and willpower, shaped by discussion, causally alter behaviour such as cheating and persistence](metacognitive-beliefs-alter-behaviour.md) — related

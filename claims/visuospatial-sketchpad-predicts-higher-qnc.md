@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly
-description: Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly
+title: Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly
+description: Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly
 id: visuospatial-sketchpad-predicts-higher-qnc
 status: review
 generated:
@@ -19,14 +19,14 @@ sources:
     rigour: 2
 ---
 
-# Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly
+# Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The visual-spatial sketch pad did not significantly predict QNC Level I, but its path to QNC Level II/III became significant in the final restricted model. [→ Krajewski 2009](#krajewski-2009)
-`q3 i?` Visual-spatial working memory had no direct impact on Grade 3 math achievement; its influence is mediated by higher-order QNC. [→ Krajewski 2009](#krajewski-2009)
+`q3 i?` In this longitudinal observational path model, visual-spatial working memory had no significant direct path to Grade 3 math achievement; its association ran indirectly through higher-order QNC (a path significant only in the reduced final model), which shows prediction, not that it causes math achievement. [→ Krajewski 2009](#krajewski-2009)
 
 ## Evidence
 

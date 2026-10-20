@@ -40,8 +40,12 @@ A concrete classroom task in which a smartphone recorded vertical acceleration d
 ### Claims
 - 
 
+## Patterns Used
+- [AIRIS framework for cognitively activated AI augmentation](airis-framework-cognitively-activated-ai-augmentation.md): students predict, delegate visualisation and integration to AI, then interpret and reflect
+- [Cognitive Activation](../principles/cognitive-activation.md): the prediction and interpretation steps keep the reasoning with the students while AI does the routine computation
+
 ## Related Designs
-- 
+- [Teacher as guardian of the AI task structure](../strategies/teacher-guardian-of-ai-task-structure.md)
 
 ## Examples
 -

@@ -41,7 +41,7 @@ The study's central instrument is a set of four rubrics, one per competency modu
 - [Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules](../claims/doctoral-teachers-highest-advanced-oer-competence.md) [+W]
 - [MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules](../claims/mooc-oer-competencies-mostly-advanced-similar-across-modules.md) [+W]
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](../claims/oer-diffusion-strategy-implementation-self-reports.md) [+W]
-- [Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear](../claims/three-oer-competencies-depend-on-education-level.md) [+W]
+- [Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear](../claims/three-oer-competencies-depend-on-education-level.md) [+W]
 
 ## Related Elements
 - 

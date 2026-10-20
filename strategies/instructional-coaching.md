@@ -80,6 +80,7 @@ Coaching applies the same learning science that governs novice skill acquisition
 - **[MyTeachingPartner](https://curry.virginia.edu/myteachingpartner)** (University of Virginia) — web-mediated coaching in which teachers submit classroom video and receive consultant feedback on teacher–student interactions; replicated RCTs show gains in interaction quality and student achievement.
 - **[Instructional Coaching Group](https://www.instructionalcoaching.com)** — Jim Knight's Impact Cycle, widely adopted in U.S. districts; the coach–teacher partnership agreement and "identify–learn–improve" cycle are the operational core.
 - **Chicago's Teacher Instructional Coaching Program** — district-scale coaching studied by Kraft, Blazar, and colleagues, illustrating both the promise and the scale-related dilution of effects.
+- [Conditions for successful coaching implementation in the Puerto Rico pilot](../designs/conditions-for-successful-coaching-implementation.md) — fewer classes for the coach, school leader commitment and teacher enthusiasm
 
 ## Key Sources
 - Kraft, M. A., Blazar, D., & Hogan, D. (2018). The effect of teacher coaching on instruction and achievement: A meta-analysis of the causal evidence. *Review of Educational Research, 88*(4), 547-588. [doi:10.3102/0034654318759268](https://doi.org/10.3102/0034654318759268)

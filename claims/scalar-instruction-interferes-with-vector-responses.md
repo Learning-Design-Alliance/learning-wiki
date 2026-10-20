@@ -43,7 +43,7 @@ Between-student response curve for the E&M course (Fig. 4), with the ceiling-eff
 
 
 ## Related Claims
-- [Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — related
+- [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — related
 - [The interference dip disappears once instruction returns to vector-based topics such as magnetic fields](interference-disappears-when-vector-instruction-resumes.md) — related
 - [Current instruction affects previously learned knowledge (interference), calling into question the accuracy of any single assessment](interference-questions-single-assessment-accuracy.md) — a broader claim this one bears on
 - [Multiple representations improve learning](multiple-representations-improve-learning.md) — related

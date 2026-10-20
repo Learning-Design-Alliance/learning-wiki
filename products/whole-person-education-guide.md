@@ -27,6 +27,7 @@ A district-facing framework and facilitated planning guide for aligning whole-pe
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Six-chapter alignment and coherence process from student understanding through strategic communication**: The guide's core reusable design is a six-chapter team process: "Chapter 1. Identify the Strengths, Needs, and Aspirations of Your Students; Chapter 2. Describe How These Strengths, Needs, and Aspirations Inform Your Vision for Serving the Whole Person in Your District; Chapter 3. Identify a Focus Area for Coherence; Chapter 4. Tailor the Implementation of Your Whole-Person Initiatives for Alignment With Your Focus Area; Chapter 5. Create an Action Plan; Chapter 6. Plan for Strategic Communication That Reinforces the Work." Each chapter follows a consistent structure of purpose, collaborative activities, hypothetical district responses, and reflection questions. (Walrond (2021))
+- [Conditions for equitable learning and development: personal, school and system](../designs/conditions-for-equitable-learning-and-development-three-categories.md): the three-category framework teams rate their initiatives against in Chapter 4
 
 ### Claims
 

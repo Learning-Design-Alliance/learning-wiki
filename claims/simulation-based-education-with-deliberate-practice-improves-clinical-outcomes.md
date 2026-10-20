@@ -13,7 +13,7 @@ sources:
     title: "McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B. (2011). Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education? A Meta-Analytic Comparative Review of the Evidence. *Academic Medicine, 86*(6), 706–711. [doi:10.1097/acm.0b013e318217e119](https://doi.org/10.1097/acm.0b013e318217e119)"
     author: "McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B."
     q: 3
-    i: 2
+    i: 3
     n: 14 studies
     kind: quant-synthesis
     rigour: "?"
@@ -22,13 +22,13 @@ sources:
 # Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=14 studies
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=14 studies
 
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
 
 ## Subclaims
 
-`q3 i2` A meta-analysis of 14 studies (1990–2010) found simulation-based medical education with deliberate practice (SBME+DP) produced a medium-sized advantage in clinical skill acquisition over traditional clinical education. [→ McGaghie et al. 2011](#mcgaghie-et-al-2011)
+`q3 i3` A meta-analysis of 14 studies (1990–2010) found simulation-based medical education with deliberate practice (SBME+DP) produced a large advantage in clinical skill acquisition (pooled effect size correlation 0.71) over traditional clinical education or, in four pre-post studies, a pre-intervention baseline. [→ McGaghie et al. 2011](#mcgaghie-et-al-2011)
 
 ## Evidence
 
@@ -36,9 +36,9 @@ Simulation-based education that incorporates deliberate practice — repeated, g
 
 McGaghie, W. C., Issenberg, S. B., Cohen, E. R., Barsuk, J. H., & Wayne, D. B. (2011). Does Simulation-Based Medical Education With Deliberate Practice Yield Better Results Than Traditional Clinical Education? A Meta-Analytic Comparative Review of the Evidence. *Academic Medicine, 86*(6), 706–711. [doi:10.1097/acm.0b013e318217e119](https://doi.org/10.1097/acm.0b013e318217e119)
 
-`q3 · meta-analysis (14 studies, comparative-effectiveness design, not pre-registered)` · `i2 · medium effect, d=0.71` · `n=14 studies` · `quant-synthesis · r?`
+`q3 · meta-analysis (14 studies, comparative-effectiveness design, not pre-registered)` · `i3 · large effect, pooled effect size correlation r=0.71` · `n=14 studies` · `quant-synthesis · r?`
 
-Systematic review and meta-analysis of 3,742 identified articles, of which 14 met inclusion criteria comparing traditional clinical medical education against simulation-based medical education (SBME) that incorporated deliberate practice (DP) — repeated, goal-directed rehearsal with mastery standards and immediate feedback. Across the 14 studies (mostly randomized trials and pre/post comparisons of procedural and psychomotor clinical skills such as ACLS, laparoscopic and central-line procedures), the pooled effect size favoring SBME with DP was d = 0.71 (95% CI 0.65–0.76, P < .001). The authors describe the result as consistent and "without exception" across the included studies, supporting skill-acquisition outcomes; they note the number of studies is still small and call for further research to extend the finding to broader clinical and patient-level outcomes.
+Systematic review and meta-analysis of 3,742 identified articles, of which 14 met inclusion criteria comparing simulation-based medical education (SBME) that incorporated deliberate practice (DP) — repeated, goal-directed rehearsal with mastery standards and immediate feedback — with traditional clinical education in ten studies (six randomized trials, three cohort studies, one case-control study) and with a pre-intervention baseline in four single-group pre-post studies, all on procedural and psychomotor clinical skills such as ACLS, laparoscopic and central-line procedures. The pooled effect size correlation favoring SBME with DP was 0.71 (95% CI 0.65–0.76, P < .001), which the authors class as a large effect. The authors describe the result as consistent and "without exception" across the included studies, supporting skill-acquisition outcomes; they note the number of studies is still small and call for further research to extend the finding to broader clinical and patient-level outcomes.
 
 ## Studies bearing on this claim
 
@@ -47,7 +47,7 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | this claim |
+| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i3 · large effect, pooled effect size correlation r=0.71 | this claim |
 | [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
 | Do 2024 | q2 · causal · r1 | i? | [Deliberate practice interventions produce higher real estate licensing exam pass rates tha](deliberate-practice-raises-licensing-pass-rate.md) (supports) |
 | [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, mean ES = 0.52 SD (SE 0.033) across 103 studies of examination performance | [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) (supports) |

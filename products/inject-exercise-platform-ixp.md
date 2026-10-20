@@ -24,7 +24,7 @@ An open-source platform developed by the INJECT team for delivering tabletop exe
 - **INJECT Process: five-phase lifecycle for designing, executing, and reflecting on digital tabletop exercises**: The INJECT Process is "a way to design, execute, and reflect TTXs with the IXP" consisting of five phases inspired by design thinking: understanding, specification, preparation, execution, and reflection. It leverages best practices for instructional design and TTXs and is tailored to digital TTXs with the platform's features. Each phase has a defined purpose, from establishing whether the exercise is worth building to post-exercise analysis and improvement of future runs. (J. Vykopal et al. (2026))
 
 ### Claims
-- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](../claims/clustering-ttx-team-assessment-aligns-instructor-scores.md) [+M]
+- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms a baseline averaged over all possible groupings in both exercises](../claims/clustering-ttx-team-assessment-aligns-instructor-scores.md) [+M]
 
 ## Related Products and Programmes
 -

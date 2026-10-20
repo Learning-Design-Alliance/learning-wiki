@@ -70,7 +70,7 @@ Explicit, systematic teaching of ending rules outperforms incidental exposure be
 ## Related Strategies
 
 - [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M] — inflectional endings extend phonics into the morphological layer; both depend on systematic, explicit sequencing
-- [Word sorting](../claims/comparing-contrasting-cases-improves-learning.md) — the primary practice format for contrasting ending patterns
+- [Word sorting](word-sort.md) — the primary practice format for contrasting ending patterns
 - [Use a morphograph-based rule-teaching routine: introduce the rule, apply it in whole-group instruction, then assign independent worksheet practice](morphograph-rule-apply-practice-routine.md)
 
 ## Examples

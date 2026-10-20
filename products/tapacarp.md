@@ -20,6 +20,7 @@ TapaCarp is a tangible user-interface-based CSCL environment developed for class
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [A tangible interface used for a small part of a classroom activity](../designs/tui-small-part-of-classroom-activity.md): the multi-step activity design in which TapaCarp is used only for one portion
 
 ### Claims
 

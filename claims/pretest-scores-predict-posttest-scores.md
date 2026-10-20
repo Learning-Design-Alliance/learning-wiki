@@ -47,7 +47,7 @@ Secondary finding from the multiple regression analyses for both regular and irr
 ## Related Claims
 
 - [Prior Knowledge Determines New Learning](prior-knowledge-determines-new-learning.md) — the general claim this finding bears on, with the studies behind it
-- [Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — related
+- [Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts](procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) — related
 - [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](declarative-memory-predicts-irregular-past-ugjt-recasts.md) — related
 - [Declarative memory shows no association with regular past tense learning under any CF type](declarative-memory-null-regular-past-tense.md) — related

@@ -17,7 +17,7 @@ sources:
 # Conditions for equitable learning and development framework: personal, school, and system conditions
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide organizes the conditions needed for equitable learning and development into three categories drawn from ecological models of development. As the guide states, "the conditions for equitable learning and development can be organized into three categories": personal conditions (health and well-being of students and adults), school conditions (climate, culture, safety, connectedness, belonging, and responsive relationships), and system conditions (policies, funding, and cross-agency collaboration beyond the school's direct control). The framework anchors Chapter 4's activity, in which teams rate each initiative's impact on the three condition types.
@@ -39,10 +39,12 @@ The guide organizes the conditions needed for equitable learning and development
 - equitable academic, social, and emotional learning and development
 
 ### Claims
-- 
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](../claims/whole-person-initiatives-fragmented-siloes-fail.md) [~W] — the fragmentation that mapping initiatives against the three conditions is meant to expose
 
 ## Related Designs
-- 
+- [Whole-person education guide](../products/whole-person-education-guide.md) — the WestEd alignment and coherence guide this framework anchors
+- [Bioecological model of human development](../theories/bioecological-model-of-human-development.md) — the ecological model the three categories draw on
+- [Readiness assessment before alignment work](../strategies/readiness-assessment-before-alignment-work.md)
 
 ## Examples
 -

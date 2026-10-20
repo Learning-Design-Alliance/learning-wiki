@@ -14,7 +14,7 @@ sources:
     title: "Pešková, A. (2026). Identification of consonant length in L2 Italian: the role of cross-linguistic influence. *Frontiers in Language Sciences, 5*. [doi:10.3389/flang.2026.1911194](https://doi.org/10.3389/flang.2026.1911194)"
     author: Pešková, A.
     q: 2
-    i: 3
+    i: "?"
     n: 104
     kind: associational
     rigour: "?"
@@ -23,18 +23,18 @@ sources:
 # A learner's first language predicts L2 phoneme perception more strongly than their proficiency level does.
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r?` · `q2` · `i3` large · n=104
+> **Evidence** · 1 study · associational `r?` · `q2` · n=104
 
 The contrast being perceived is the same; the task is not. A learner whose first language already
 encodes the distinction hears it, and one whose first language does not may not hear it at any level.
 
 ## Subclaims
 
-`q2 i3` Identification accuracy on the Italian singleton–geminate contrast ordered by first language — Italian controls 96.2%, Finnish 89.8%, Czech 83.3%, Slovak 83.1%, Spanish 75.1%, German 64% — with learners whose L1 encodes phonological quantity performing better. [→ Pešková 2026](#peskova-2026)
+`q2 i?` Identification accuracy on the Italian singleton–geminate contrast ordered by first language — Italian controls 96.2%, Finnish 89.8%, Czech 83.3%, Slovak 83.1%, Spanish 75.1%, German 64% — with learners whose L1 encodes phonological quantity performing better. [→ Pešková 2026](#peskova-2026)
 
-`q2 i2` Proficiency effects were present but modest, and first-language background showed substantially stronger influence than proficiency level. [→ Pešková 2026](#peskova-2026)
+`q2 i?` Accuracy tended to rise with proficiency, but that effect varied across L1 groups, was not significant and was less systematic than the influence of first-language background. [→ Pešková 2026](#peskova-2026)
 
-`q2 i2` Identification accuracy (81% overall, with orthographic support) exceeded discrimination accuracy in nearly every group, indicating that seeing the written form scaffolds a contrast the ear alone does not resolve. [→ Pešková 2026](#peskova-2026)
+`q2 i?` Identification accuracy (81% overall, with orthographic support) exceeded the same participants' accuracy in an earlier discrimination study in every group except the Finnish learners, which the author takes to suggest that explicit categorical decisions with written options help where fine-grained acoustic sensitivity alone does not. [→ Pešková 2026](#peskova-2026)
 
 ## Evidence
 
@@ -42,9 +42,9 @@ encodes the distinction hears it, and one whose first language does not may not 
 
 Pešková, A. (2026). Identification of consonant length in L2 Italian: the role of cross-linguistic influence. *Frontiers in Language Sciences, 5*. [doi:10.3389/flang.2026.1911194](https://doi.org/10.3389/flang.2026.1911194)
 
-`q2 · cross-sectional group comparison with a native-speaker control group` · `i3 · large between-group difference, 89.8% vs 64% on the same contrast` · `n=104` · `associational · r?`
+`q2 · cross-sectional group comparison with a native-speaker control group` · `i? · accuracy percentages by group (89.8% vs 64% on the same contrast); no standardized effect size printed` · `n=104` · `associational · r?`
 
-104 learners of Italian identified singleton against geminate consonants in trisyllabic pseudowords (`sàpolo` vs `sàppolo`), grouped by first language. Accuracy tracked whether the learner's L1 encodes phonological quantity in consonants or vowels, and the ordering by L1 was far wider than the ordering by proficiency. The study used both identification (with orthographic support) and discrimination tasks, and identification was the easier of the two in nearly every group.
+104 learners of Italian identified singleton against geminate consonants in trisyllabic pseudowords (`sàpolo` vs `sàppolo`), grouped by first language. Accuracy tracked whether the learner's L1 encodes phonological quantity in consonants or vowels, L1 background had the stronger and more systematic effect; accuracy tended to rise with proficiency, but that effect varied across L1 groups and was not significant. The experiment was an identification task (with orthographic support); compared with a previous discrimination study with the same participants, identification was more accurate in every group except the Finnish learners.
 
 ## Discussion
 

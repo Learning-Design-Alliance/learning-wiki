@@ -25,7 +25,9 @@ CRITICS is a project-developed suite including an LLM-based scientific document 
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [CRITICS three-component ecosystem for cross-lingual scientific knowledge transfer](../designs/critics-three-component-ecosystem.md): the project's full three-component design (translation system, TLS generator, automatic assessor), of which this translation system is the first component
+- [Teaching and Learning Sequence (TLS) generator transforming translated scientific literature into structured educational resources](../designs/tls-generator-translated-scientific-literature.md): the second CRITICS component, which turns the translated literature into teaching and learning sequences
 
 ## Key Sources
 - Agerri, R., Aldabe, I., Cabrio, E., Cieliebak, M., Deriu, J., Flores, M., Kapočiūtė-Dzikienė, J., Kuizinienė, D., Rico, A., Ruiz-González, A., Soroa, A., Vaškevičius, M. and Villata, S. (2026). CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education. SEPLN 2026. https://www.hitz.eus/critics

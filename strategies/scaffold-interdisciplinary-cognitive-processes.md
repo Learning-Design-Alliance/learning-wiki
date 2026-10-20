@@ -45,7 +45,7 @@ The authors recommend that future work examine effective ways to structure stude
 - 
 
 ## Examples
--
+- [The science unit 'How does alcohol consumption affect our body?'](../designs/alcohol-consumption-multidisciplinary-unit.md) — the 15-lesson multidisciplinary modeling unit the strategy comes from
 
 ## Key Sources
 - Idit Adler · Saja Rabie. (2026). Towards interdisciplinarity: emerging patterns of discourses during collaborative multidisciplinary modeling. Instructional Science (2026) 54:36. https://doi.org/10.1007/s11251-026-09785-4

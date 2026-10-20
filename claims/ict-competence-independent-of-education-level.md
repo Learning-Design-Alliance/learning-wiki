@@ -43,5 +43,5 @@ Chi-square independence test on the contingency table crossing educational level
 
 
 ## Related Claims
-- [Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — related
+- [Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — related
 - [Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules](doctoral-teachers-highest-advanced-oer-competence.md) — related

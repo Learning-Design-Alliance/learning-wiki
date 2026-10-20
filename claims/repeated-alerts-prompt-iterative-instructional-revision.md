@@ -53,4 +53,4 @@ Qualitative analysis of one episode beginning at minute 33:20 with a red-framed 
 - [Emotional micro-interventions perform three simultaneous functions: validate the emotion, reframe the cognitive appraisal, and connect struggle to a larger narrative](micro-intervention-triple-function-validate-reframe-connect.md) — related
 - [Qualitatively, Socratic prompts supported reflective monitoring while directive feedback was associated with overload and resistance](socratic-prompts-reflection-directive-overload-qualitative.md) — related
 - [Redesigning the second research lesson cycle so students compared results across groups raised correct answers on the volume item from 11% to 80%](cycle2-redesign-volume-item-gain-69.md) — related
-- [Iterative redesign of a peer-feedback task increased class engagement across three rounds](iterative-task-redesign-increased-engagement.md) — related
+- [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related

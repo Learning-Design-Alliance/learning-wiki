@@ -36,7 +36,7 @@ evidence_strength: strong
 Fading, or the gradual withdrawal of support, is one way to move from studying examples to independent problem solving. The recorded experiments support this transition at least for near transfer; they do not establish that every scaffold must fade at one rate or that fading prevents long-term dependence.
 
 ## Subclaims
-`q3 i?` The gradual removal of support is a core component of effective scaffolding that allows learners to take responsibility for their own learning. [→ van de Pol et al. 2010](#van-de-pol-et-al-2010)
+`q3 i?` A review of a decade of scaffolding research names contingency, fading and transfer of responsibility as the three key characteristics of scaffolding, and describes responsibility as transferred to the learner through contingent fading; it defines this link conceptually and does not test whether fading causes the transfer. [→ van de Pol et al. 2010](#van-de-pol-et-al-2010)
 `q3 i?` Across three experiments, fading worked examples into increasingly incomplete examples and then independent problems favored near-transfer performance over static example–problem arrangements; learning-phase errors and the direction of fading also mattered. [→ Renkl et al. 2002](#renkl-et-al-2002)
 
 ## Evidence
@@ -49,7 +49,7 @@ van de Pol, J., Volman, M., & Beishuizen, J. (2010). Scaffolding in teacher–st
 
 `q3 · systematic review` · `i? · the abstract prints no effect size; the full text may` · `n=N/A` · `review · r2`
 
-This review confirms that fading is one of the three essential characteristics of effective scaffolding. Without fading, support remains an external aid rather than a tool for internal development.
+This review of a decade of research on teacher–student scaffolding discerns contingency, fading and transfer of responsibility as the three key characteristics of scaffolding, and states that fading "is strongly related to" transfer of responsibility: "Via contingent fading, that is, responsibility for the performance of a task is gradually transferred to the learner." This is the review's conceptualisation of scaffolding; the studies it reviews do not isolate fading as the cause of transfer, and it reports that fading and transfer of responsibility were operationalised less often than contingency.
 
 ### Renkl et al. 2002
 

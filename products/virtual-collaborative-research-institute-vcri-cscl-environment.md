@@ -23,7 +23,7 @@ A groupware environment developed to support collaborative learning, inquiry tas
 
 ### Claims
 
-- [Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress](../claims/cscl-groups-mostly-regulate-task-performance.md) [+W]
+- [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](../claims/cscl-groups-mostly-regulate-task-performance.md) [+W]
 
 ## Related Products and Programmes
 

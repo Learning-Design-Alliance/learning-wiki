@@ -41,10 +41,13 @@ The article's policy findings prescribe sequencing and lever selection: "the acc
 - Mandate Governance Archetype Framework
 
 ## Related Strategies
-- 
+
+- [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
 
 ## Examples
--
+
+- [Fifteen-country access and depth profile dataset (Table 2)](../products/fifteen-country-access-and-depth-profile-dataset-table-2.md): the fifteen-country access and depth coding the recommendation rests on
+- [Japan's decoupled Python and DNCL reform](../designs/japan-decoupled-python-dncl-reform.md) — Python taught in class, pseudocode used in the national entrance exam, so the exam does not lock in one language
 
 ## Key Sources
 - Adrian-Marius Dumitran, Iulia-Maria Popescu. (2026). Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis. ALIT4ALL 2026, co-located with AIED 2026. https://orcid.org/0009-0005-3547-5772

@@ -11,8 +11,8 @@ evidence_strength: weak
 sources:
   - id: hengtao-tang-2025
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
-    title: "Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
-    author: Hengtao Tang, Jessica Perry Ellison
+    title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
+    author: "Ellison, J. P., & Tang, H."
     q: 1
     i: "?"
     kind: design
@@ -31,11 +31,11 @@ sources:
 
 ### Hengtao Tang 2025
 
-Hengtao Tang, Jessica Perry Ellison. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
+Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z
 
 `q1 · i?` · `design · r2`
 
-Authors' interpretation in the Discussion, offered to explain why students in this study continued using video annotation whereas Mirriahi et al. (2016) found students discontinued use after grading ceased. No mediation analysis was conducted.
+Authors' interpretation in the Discussion, offered to explain why students in this study expressed an intention to continue using video annotation whereas Mirriahi et al. (2016) found students discontinued use after grading ceased. No mediation analysis was conducted.
 
 > "Consequently, we hypothesize that self-regulated learning acts as a mediating factor that links the advantages of video annotation with the improvement in student acting performance."
 

@@ -43,7 +43,7 @@ Evaluation (RQ1) of LLM grading of teams' incident-response emails against instr
 
 
 ## Related Claims
-- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](clustering-ttx-team-assessment-aligns-instructor-scores.md) — related
+- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms a baseline averaged over all possible groupings in both exercises](clustering-ttx-team-assessment-aligns-instructor-scores.md) — related
 - [Expert former math teachers rated GPT-4o's dialogue annotations very highly for student correctness and moderate-to-high for knowledge components, with volatile inter-rater reliability.](expert-teachers-rate-gpt-4o-dialogue-annotations-as-largely-accurate.md) — related
 - Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - [GPT-4o mini showed progressive turn-level convergence with accumulating context while larger models showed increasing or stable error](turn-level-convergence-gpt-4o-mini.md) — related

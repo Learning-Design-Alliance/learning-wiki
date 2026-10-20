@@ -17,7 +17,7 @@ sources:
 # Strategy instruction may play a role in the effectiveness of the learner-generated drawing strategy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article concludes with a discussion of how strategy instruction might play a role in the effectiveness of the drawing strategy. This forward-looking recommendation suggests that teaching learners how to draw, rather than merely asking them to do so, is a direction the authors identify for future research and practice. It follows from the review's framing of drawing as a strategy whose use depends on strategic processing.
@@ -36,8 +36,14 @@ The article concludes with a discussion of how strategy instruction might play a
 ### Target Learning Goals
 - effective use of learner-generated drawing to learn from text
 
+## Claims
+
+- [Empirical evidence on learner-generated drawing is inconsistent, and the review organizes it around hypotheses grounded in cognitive and strategic processing](../claims/inconsistent-drawing-evidence-organized-by-hypotheses.md) [~M] (why instruction in how to draw may matter)
+- [A gap exists between prescriptive readings on learner-generated drawing and research-based understandings](../claims/gap-prescriptive-versus-research-drawing-strategy.md) [~M]
+
 ## Related Strategies
-- 
+
+- [Drawing To Learn](../strategies/drawing-to-learn.md): the learner-generated drawing strategy this would teach
 
 ## Examples
 -

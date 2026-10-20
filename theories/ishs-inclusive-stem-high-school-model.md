@@ -40,7 +40,7 @@ The article defines an ISHS as a school that enrolls students "on the basis of i
 
 - [Ishs Triples Odds Four Year Stem Major](../claims/ishs-triples-odds-four-year-stem-major.md) [+M]
 - [Ishs Stem Major Advantage Underrepresented Subgroups](../claims/ishs-stem-major-advantage-underrepresented-subgroups.md) [+M]
-- [ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall](../claims/ishs-four-year-entry-economically-disadvantaged.md) [+W]
+- [ISHS attendance is associated with 75 to 80 percent higher odds of economically disadvantaged students entering a Texas four-year college, with no significant college-entry difference for students overall](../claims/ishs-four-year-entry-economically-disadvantaged.md) [+W]
 - [The ISHS advantage in STEM career interest at the end of high school remains significant after controlling for prior middle school STEM interest and activity](../claims/ishs-impact-robust-to-prior-stem-interest-controls.md) [+W]
 - [ISHS attendance is associated with more Core STEM courses completed at four-year colleges but not with STEM GPA or total courses, and shows no course-taking advantage at two-year colleges](../claims/ishs-more-core-stem-courses-four-year-only.md) [~W]
 - [Attending an inclusive STEM high school is not associated with declaring a STEM major at a two-year college](../claims/ishs-no-two-year-stem-major-effect.md) [~W]

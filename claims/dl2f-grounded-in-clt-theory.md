@@ -10,8 +10,8 @@ generated:
 evidence_strength: weak
 sources:
   - id: merueña-2023
-    resource: "https://doi.org/10.36713/epra2016"
-    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    resource: "https://eric.ed.gov/?id=ED637673"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673"
     author: Merueña, J. A. A.
     q: 1
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Merueña 2023
 
-Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673
 
 `q1 · i?` · `theoretical · r2`
 

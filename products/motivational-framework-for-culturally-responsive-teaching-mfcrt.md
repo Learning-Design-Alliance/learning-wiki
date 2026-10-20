@@ -25,7 +25,8 @@ A framework developed by Wlodkowski and Ginsberg for designing culturally respon
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Culturally Responsive Teaching](../strategies/culturally-responsive-teaching.md): the practice the framework is designed to structure through its four motivational conditions
 
 ## Key Sources
 - Donald E Grant Jr. & Jerell B. Hill. (2020). Activating Culturally Empathic Motivation in Diverse Students. Journal of Education and Learning, 9(5). https://doi.org/10.5539/jel.v9n5p45

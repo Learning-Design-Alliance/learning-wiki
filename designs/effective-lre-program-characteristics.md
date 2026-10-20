@@ -42,6 +42,14 @@ The digest lists five characteristics of effective LRE programs: extensive inter
 ### Claims
 
 
+## Patterns Used
+- [Role-Playing](../elements/role-playing.md): simulations, role-play activities and mock trials are the interactive strategies the digest names as keys to civic participation skills
+- [Systematic staff development for law-related education](../strategies/systematic-staff-development-for-lre.md): the fifth characteristic
+
+## Related Designs
+- [Law-related education as citizenship education](../theories/lre-citizenship-education-definition.md) — the digest's definition of LRE
+- [Three approaches to placing LRE in the curriculum](../strategies/lre-curriculum-placement-approaches.md)
+
 ## Related Patterns
 - 
 

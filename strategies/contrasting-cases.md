@@ -92,6 +92,7 @@ The strategy is most distinctive when it runs *before* instruction. Schwartz and
 - [Case-Based Learning](case-based-learning.md) — extended authentic cases, where the contrast is across a sequence rather than within one activity [Case-based learning improves exam performance](../claims/case-based-learning-improves-exam-performance.md) [+M]
 
 ## Examples
+- [Three forms of noticing required for learning to facilitate productive discussion](../designs/blair2024-three-forms-discussion-noticing.md) — contrasting discussion transcripts for preservice teachers
 
 **Schwartz and Bransford's density and variability cases:** Undergraduates analysed contrasting data sets before reading a text on the underlying concept, and outperformed peers who read the text first — the canonical demonstration that comparison prepares learners to learn.
 

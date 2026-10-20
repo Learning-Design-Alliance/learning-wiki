@@ -20,6 +20,7 @@ generated:
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Three elements of effective training: realism, control and feedback](../designs/three-elements-effective-training-realism-control-feedback.md): the design rationale the system was built on
 
 ### Claims
 

@@ -35,7 +35,7 @@ Sam Sims, Harry Fletcher-Wood, Thomas Godfrey-Faussett, Peps Mccrea, Stefanie Me
 
 `q3 · i3` · `causal · r3`
 
-Pre-registered OLS regression (Model 1) on 89 randomised trainee teachers in a Mursion classroom simulator, comparing the two model arms against the restudy active control on a standardised 18-point skill measure; the coefficient is interpretable as Cohen’s d, with a printed effect size of d = 0.80 (95% CI = [0.39, 1.20]), as the article reports “exposure to the video model improved teachers’ use of questioning for retrieval by 0.80 SD”.
+Pre-registered OLS regression (Model 1) on 88 of the 89 randomised trainee teachers in a Mursion classroom simulator, comparing the two model arms against the restudy active control on a skill outcome built from five questioning-for-retrieval components (raw score out of 18), each standardised and summed with equal weight, then standardised; the coefficient is interpretable as Cohen’s d, with a printed effect size of d = 0.80 (95% CI = [0.39, 1.20]), as the article reports “exposure to the video model improved teachers’ use of questioning for retrieval by 0.80 SD”.
 
 > "The results show that exposure to the video model improved teachers’ use of questioning for retrieval by 0.80 SD, relative to restudy (95% CI = [0.39, 1.20]). This difference is statistically significant at conventional levels ( p < 0.001)."
 

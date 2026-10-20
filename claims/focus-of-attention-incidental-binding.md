@@ -43,6 +43,6 @@ The review reports an incidental task experiment by Cowan, Donnell, and Saults i
 
 
 ## Related Claims
-- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
+- [With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](lag-effect-eliminated-long-retention-no-associations.md) — related
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related

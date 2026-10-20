@@ -182,6 +182,7 @@ This pattern is scoped to a course organised around a competency map with criter
 ## Examples
 
 - An online, asynchronous, self-paced degree programme in which learners progress through competencies by submitting performance tasks (cases, simulations, labs) scored against rubrics, with a mentor who sets milestones with each learner and reaches out when they stall, an AI tutor for practice between attempts, and AI role-play for rehearsing professional conversations; advancement decisions stay with trained human evaluators. A design scenario using this pattern with the three above, not a tested programme.
+- [Integrated learning pathways: four principles](../designs/integrated-learning-pathways-four-principles.md) — district-wide Portrait of a Graduate progressions written as "I can" Practices
 
 - A competency map that lets learners reassess specific standards until they show proficiency.
 - Modular technical training where prior experience allows early demonstration and faster progression.

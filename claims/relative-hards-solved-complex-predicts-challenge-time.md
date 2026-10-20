@@ -47,5 +47,5 @@ Step-wise regression with challenge time (minutes on an unsolvable task) as the 
 - [Traditional challenge-navigation measures (level choice, replays, careful retries, hint reading, coding time) did not relate to learning outcomes](traditional-challenge-measures-not-related-to-learning.md)
 - [In-game willingness to solve hard levels with complex code is positively associated with posttest coding knowledge, controlling for pretest](hards-solved-complex-predicts-posttest.md)
 - [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md) — related
-- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md) — related
+- [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — related
 - [The simple machine used to solve a problem predicts persistence, ranked NONE < RAMP < PEN < LEVER < SB](simple-machine-predicts-persistence.md) — related

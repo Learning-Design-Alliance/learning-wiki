@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
-description: Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
+title: Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
+description: Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
 id: gbsri-interview-attributions-and-pair-work-discomfort
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
+# Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` All six interviewees credited explicit genre instruction, collaborative scaffolding, and self-regulated writing processes for their improvement, but some reported discomfort or difficulty in pair and group work. [→ Wiboonwachara 2022](#wiboonwachara-2022)
+`q2 i?` The majority of the six interviewees credited explicit genre instruction, scaffolding and collaborative learning, and self-regulated writing for their improvement, but some reported discomfort or difficulty in pair and group work. [→ Wiboonwachara 2022](#wiboonwachara-2022)
 
 ## Evidence
 

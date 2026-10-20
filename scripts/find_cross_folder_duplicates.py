@@ -23,6 +23,7 @@ Usage:
     python3 scripts/find_cross_folder_duplicates.py
 """
 
+import json
 import re
 import sys
 from collections import defaultdict
@@ -54,6 +55,22 @@ def find_collisions() -> dict:
                 continue
             by_slug[path.stem].append(page_type)
     return {slug: folders for slug, folders in sorted(by_slug.items()) if len(folders) > 1}
+
+
+JUDGED = WIKI_ROOT / "eval" / "duplicates" / "cross-folder.ndjson"
+
+
+def judged() -> dict:
+    """{slug: set of folders} for collisions already decided to be different objects (one topic as
+    principle, element and strategy; unrelated objects sharing a name). A collision whose folders
+    have changed since is not settled by an older decision."""
+    out = {}
+    if JUDGED.exists():
+        for line in JUDGED.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                d = json.loads(line)
+                out[d["slug"]] = set(d["folders"])
+    return out
 
 
 # A same-named cross-link is often the CORRECT, intended wiki convention —

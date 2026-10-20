@@ -44,7 +44,7 @@ Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Di
 
 `q2 · i?` · `associational · r?`
 
-The review reports this expert-novice comparison study testing the cyclical phase model, in which "SRL skills predicted 90% variance in serving skills". No standardized effect size is printed, so impact is null.
+The review reports this comparison of experts and non-experts, testing the cyclical phase model, in which "SRL skills predicted 90% variance in serving skills". The review reports this proportion of variance and no standardized effect size, so impact is coded `i?`: not quantified here, which is not the same as null.
 
 > "Kitsantas and Zimmerman (2002) compared college women that were experts and non-experts in volleyball, finding that the SRL skills predicted 90% variance in serving skills."
 
@@ -54,7 +54,7 @@ Panadero, E. (2017). A Review of Self-regulated Learning: Six Models and Four Di
 
 `q2 · i?` · `review · r2`
 
-A training experiment with 50 college students across five conditions found "a linear trend: the more phases trained the better the participants' scores". No effect size is printed, so impact is null.
+A training experiment with 50 college students across five conditions found "a linear trend: the more phases trained the better the participants' scores". No effect size is printed, so impact is coded `i?`: the review reports a positive linear trend without quantifying it, which is not the same as null.
 
 > "Cleary et al. (2006) trained 50 college students in basketball free throws organized in five diﬀerent conditions: one-phase SRL, two-phases SRL, three-phases SRL, control group practice-only and control group no-practice. The results showed a linear trend: the more phases trained the better the participants' scores."
 

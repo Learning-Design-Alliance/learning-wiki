@@ -44,7 +44,7 @@ Plebanek, D. J., & Sloutsky, V. M. (2017). Costs of Selective Attention: When Ch
 
 `q3 · i3` · `causal · r2`
 
-Controlled experiment (Experiment 1) with 34 children and 35 adults performing a change detection task with overlaid red and green shapes, attention cued to one color. A-prime accuracies show adults ahead on cued shapes (d = 1.00) but children ahead on uncued shapes (d = −.59), "whereas they lagged behind children in detecting changes in irrelevant information".
+Controlled experiment (Experiment 1) with 34 four- to five-year-olds and 35 adults recruited, of whom 7 children and 4 adults were excluded for poor performance, leaving 27 children and 31 adults in the analyses, performing a change detection task with overlaid red and green shapes, attention cued to one color. A-prime accuracies show adults ahead on cued shapes (d = 1.00) but children ahead on uncued shapes (d = −.59), "whereas they lagged behind children in detecting changes in irrelevant information".
 
 > "adults outperformed children in change detection for relevant information (.943 vs. .865), t(56) = 3.79, p < .001, d = 1.00, 95%, CI [.44, 1.54], whereas they lagged behind children in detecting changes in irrelevant information (.634 vs. .771), t(56) = −2.22, p = .030, d = .−59, 95% CI [−1.11, −.05]"
 

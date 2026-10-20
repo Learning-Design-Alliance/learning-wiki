@@ -65,7 +65,7 @@ Design statement for the two experiments: "Two experiments were conducted with D
 - Before this study, no research had explored incidental vocabulary learning through viewing a single full-length TV program — related
 - [Incidental vocabulary learning through viewing TV was affected by frequency of occurrence, prior vocabulary knowledge, and cognateness](viewing-vocabulary-learning-affected-by-frequency-prior-knowledge-cognateness.md) — related
 - [Reading a single authentic novel yields incidental vocabulary gains, with more gains for words occurring more than five times](single-novel-reading-incidental-vocabulary-gains.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a broader claim this one bears on
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — a broader claim this one bears on
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — a broader claim this one bears on
 - [The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process](l1-l2-distinction-rate-not-outcome.md) — related
 - [Marginal glosses, dictionary use, and repeated occurrence of unknown words each positively affect incidental vocabulary learning](marginal-glosses-dictionary-recurrence-improve-incidental-learning.md) — related

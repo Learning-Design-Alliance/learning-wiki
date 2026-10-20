@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
-    title: "Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
+    title: "Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
     author: Glenberg, A. M.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Glenberg 1979
 
-Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
+Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
 
 `q2 · i?` · `causal · r?`
 
@@ -43,7 +43,7 @@ The review reports Glenberg's (1977) free-recall comparison of subjects encourag
 
 
 ## Related Claims
-- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
+- [With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [Studying a word list in two different rooms yields about 40% more recall than studying it twice in the same room when tested in a new room](environmental-context-variability-improves-recall.md) — related
 - [When the orienting task prevented interitem associations, the within-list lag effect was attenuated after long retention intervals and this attenuation was not a floor effect](lag-effect-eliminated-long-retention-no-associations.md) — a narrower finding that bears on this claim
 - [With constant judgment standards, the same-different orienting task at repetitions did not affect the within-list lag effect, arguing against inattention and encoding-variability explanations](same-different-task-no-lag-interaction.md) — related

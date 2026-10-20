@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance"
-description: "The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance"
+title: "Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load"
+description: "Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load"
 id: rubric-benefits-independent-of-task-performance
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance
+# Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
@@ -35,7 +35,7 @@ Rebecca Krebs, Björn Rothstein, Julian Roelle. (2022). Rubrics enhance accuracy
 
 `q3 · i?` · `causal · r2`
 
-Exploratory moderation analyses testing whether rubric effects depended on overall abstract-writing performance; interactions were non-significant for absolute accuracy, bias, relative accuracy, and both load measures.
+Exploratory moderation analyses testing whether rubric effects depended on overall abstract-writing performance; interactions were non-significant for absolute accuracy, bias, relative accuracy, and both load measures. A non-significant interaction in one sample and one task does not establish that the rubric's benefits are independent of task performance.
 
 > "For none of the accuracy measures, however, the interaction between condition and learners' overall performance in writing the abstracts was statistically significant, F(1, 88) = 1.50, p = 0.224, ηp2 = 0.01 for absolute accuracy"
 

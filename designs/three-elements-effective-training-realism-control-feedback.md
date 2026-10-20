@@ -17,7 +17,7 @@ sources:
 # Three elements of effective training: realistic exposure, fine control of stimuli, and fine performance feedback
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that effective training depends on three major elements: exposure to realistic training scenarios and stimuli, fine control over training stimuli and scenarios (including adjusting difficulty to the trainee's current competence and repeating identical stimuli), and fine performance feedback that is fine-grained, unambiguous, and timely. The authors note a compromise between realism and control in real classrooms, where "the unpredictability of a real classroom greatly diminishes any control over the exact nature and difficulty of training stimuli". They designed 3B to combine all three elements in an immersive VR simulation.
@@ -37,10 +37,14 @@ The article proposes that effective training depends on three major elements: ex
 - Adjusting behavior to achieve better results through realistic practice with controlled stimuli and timely feedback
 
 ### Claims
-- 
+- [A first evaluation of 3B confirms its conformance to critical usability requirements including safety and comfort, believability, simplicity, acceptability, extensibility, affordability, and mobility](../claims/3b-first-evaluation-confirms-usability-requirements.md) [+W] — a usability evaluation of the 3B system, not of training outcomes
+
+## Patterns Used
+- [Practice with Simulated People](../patterns/practice-with-simulated-people.md): a virtual classroom gives realistic stimuli while keeping fine control over difficulty and repetition, with immediate fine-grained feedback
+- [Deliberate Practice](../principles/deliberate-practice.md): difficulty matched to the trainee's current competence, repeated identical stimuli and unambiguous, timely feedback
 
 ## Related Designs
-- 
+- [3B: Breaking Bad Behaviors](../products/3b-breaking-bad-behaviors.md) — the virtual classroom built to combine the three elements
 
 ## Examples
 -

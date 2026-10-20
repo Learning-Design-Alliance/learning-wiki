@@ -60,6 +60,8 @@ Kushnir and Gopnik (2007) showed children initially assumed blocks must touch th
 
 ## Discussion
 
+The same article argues that [hierarchical causal models](../research-methods/hierarchical-causal-models-representing-both-specific-theories-and-framework-theories.md) can represent this learning at two levels at once: specific causal theories and the more abstract framework theories they sit in.
+
 
 ## Related Claims
 

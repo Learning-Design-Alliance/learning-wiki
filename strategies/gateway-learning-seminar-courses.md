@@ -40,6 +40,7 @@ Gateway offers learning seminar courses and reading intervention classes as part
 ## Related Strategies
 
 - [Inclusion model in which students with learning disabilities take general education classes with additional supports](gateway-inclusion-model-learning-disabilities.md)
+- [Gateway guiding principles and structures](../designs/gateway-guiding-principles-structures-pattern.md) — the whole-school design this practice belongs to
 
 ## Examples
 -

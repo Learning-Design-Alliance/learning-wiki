@@ -41,6 +41,8 @@ Quasi-experimental study with intact classes: School A (62 students) exposed to 
 
 ## Discussion
 
+Achievement was measured with the authors' own [Quadratic Equation Achievement Test (QEAT)](../products/sqeiaigrasq-questionnaire-and-quadratic-equation-achievement-test-qeat.md), so the result rests on an instrument built for this study.
+
 
 ## Learner Variables
 - [Algebraic Thinking](../learner-variables/algebraic-thinking.md) — outcome: instruction changes it

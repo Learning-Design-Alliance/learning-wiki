@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms
-description: Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms
+title: Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms
+description: Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms
 id: lack-of-practice-teacher-centered-anxiety
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms
+# Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Lack of practice was the fourth-ranked source of speaking anxiety (65%), which the authors attribute to teacher-centered classes giving students insufficient participation opportunities. [→ Sadighi 2017](#sadighi-2017)
+`q2 i?` Lack of practice was the fourth-ranked source of speaking anxiety (65%), which the authors suggest "might be due to" teacher-centered classes giving students insufficient participation opportunities. [→ Sadighi 2017](#sadighi-2017)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Sadighi, F., & Dastpak, M. (2017). The Sources of Foreign Language Speaking Anxi
 
 `q2 · i?` · `associational · r1`
 
-Authors' interpretation of the survey ranking (Table 1: lack of practice, 65%, rank 4), attributing insufficient practice to teacher-centered Iranian classes where students play a minor role in discussion, with limited English input outside the classroom.
+Authors' interpretation of the survey ranking (Table 1: lack of practice, 65%, rank 4), suggesting tentatively that insufficient practice might be due to teacher-centered Iranian classes where students play a minor role in discussion, with limited English input outside the classroom.
 
 > "Another source of FL speaking anxiety was lack of practice. This means that students do not have enough practice in the classroom or outside the classroom. This might be due to teacher-centeredness in Iranian context."
 

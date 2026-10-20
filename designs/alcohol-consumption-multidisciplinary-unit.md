@@ -17,7 +17,7 @@ sources:
 # The science unit 'How does alcohol consumption affect our body?'
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 A 15-lesson science unit (four learning sets, 45-minute lessons, some extended double periods) in which high-school students investigated the effect of alcohol consumption on the human body from three disciplinary perspectives: physics (reaction time, speed, acceleration), chemistry (chemical reactions in the body), and biology (effects on body systems). Students recalled prior knowledge, built disciplinary models, then developed collaborative multidisciplinary models using draw.io online software, and finally formulated reports and reflected. The unit followed project-based learning and knowledge-building design principles.
@@ -38,10 +38,15 @@ A 15-lesson science unit (four learning sets, 45-minute lessons, some extended d
 - developing and integrating scientific models
 
 ### Claims
-- 
+- [Collaborative multidisciplinary modeling tasks elicit all four cognitive processes of interdisciplinary understanding](../claims/modeling-task-elicits-four-interdisciplinary-processes.md) [+M]
+- [Three discourse patterns emerged during collaborative multidisciplinary modeling](../claims/three-interdisciplinary-discourse-patterns.md) [~M]
+- [Groups' success in merging perspectives was related to the time they allocated to the interdisciplinary cognitive processes](../claims/time-allocation-relates-to-merging-extent.md) [~M]
+
+## Patterns Used
+- [Cooperative Learning](../patterns/cooperative-learning.md): a jigsaw-like regrouping, from disciplinary groups (physics, chemistry, biology) into multidisciplinary groups of three that build one shared model
 
 ## Related Designs
-- Jigsaw Multidisciplinary Modeling Pattern
+- [Scaffold the cognitive processes of interdisciplinary understanding during collaborative modeling](../strategies/scaffold-interdisciplinary-cognitive-processes.md) — the strategy drawn from this unit's findings
 
 ## Examples
 -

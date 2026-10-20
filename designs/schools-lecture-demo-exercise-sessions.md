@@ -17,7 +17,7 @@ sources:
 # Schools: interactive lecture-demonstration-exercise sessions embedded in the project timeline
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Schools are the article's format for teaching base qualifications within the project. "Each school covers a different topic and always begins with a short lecture of around sixty minutes." After a live demonstration by a supervisor, students work on a matching exercise with instructor support, then present, reflect on and discuss results in the plenum, with critical parts addressed explicitly. Some schools are followed by tasks that feed the next session or an intermediate exam. In the robotics project, schools covered ROS/ROS2 and object detection with YOLO.
@@ -38,7 +38,8 @@ Schools are the article's format for teaching base qualifications within the pro
 - base qualifications such as ROS programming, node and interface creation, and object detection with YOLO
 
 ### Claims
-- 
+
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 
 ## Related Designs
 - 

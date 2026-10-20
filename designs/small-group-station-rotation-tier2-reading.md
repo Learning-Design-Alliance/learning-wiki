@@ -42,10 +42,14 @@ The program organizes intervention as rotation of small groups of four students 
 - writing
 
 ### Claims
-- 
+
+## Patterns Used
+- [Station Rotation](../strategies/station-rotation.md): groups of four rotate through four (RISE) or three (RISE Up) instruction stations
+- [Small-Group Instruction](../elements/small-group-instruction.md): explicit, structured instruction delivered to groups of four
+- [Response to Intervention](../strategies/response-to-intervention.md): the programme is a Tier 2 intervention
 
 ## Related Designs
-- 
+- [Scholastic RISE and RISE Up](../products/scholastic-rise-and-rise-up.md) — the programme whose delivery model this is
 
 ## Examples
 -

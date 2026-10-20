@@ -13,7 +13,7 @@ generated:
 # State epistemic curiosity measure
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A researcher-developed multi-item, 5-point Likert self-report assessment by Henk G. Schmidt and colleagues for measuring secondary students’ momentary epistemic curiosity about a specific topic.
@@ -23,6 +23,8 @@ A researcher-developed multi-item, 5-point Likert self-report assessment by Henk
 - **State epistemic curiosity measure developed via content analysis of published questionnaires**: A newly constructed multi-item state epistemic curiosity scale built from a content analysis of epistemic curiosity questionnaires published between 1975 and 2019. The article states "we decided to create a multi-item 'state'epistemic curiosity measure based on a content analysis of the epistemic curiosity questionnaires published between 1975 and 2019". Items such as "I am really curious to know more about this topic" were scored on a 5-point Likert scale, and the measure showed high construct reliability (H = .92 in Study 1). It was used in both studies to measure momentary curiosity about the physics of heat. (Henk G. Schmidt et al. (2021))
 
 ### Claims
+
+- [In the treatment condition, both epistemic curiosity and situational interest increased after problem presentation and decreased after the explanatory text](../claims/treatment-condition-arousal-decrease.md) [+W]
 
 ## Related Products and Programmes
 -

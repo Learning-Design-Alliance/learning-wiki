@@ -68,6 +68,7 @@ Peer review works through two channels: learners receive feedback from multiple 
 - [Two-Stage Exams](../strategies/two-stage-exams.md) — peer discussion as immediate feedback on reasoning
 - [Writing Conferences](../strategies/5-minute_writing_conferences.md) — instructor-led alternative when reviewer expertise is too low
 - [Peer feedback against success criteria: students locate where peers are in their learning and give actionable clues, hints, suggestions, or wonderings](peer-feedback-against-success-criteria.md)
+- [Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews](baseline-strategy-address-review-limitations.md)
 
 ## Examples
 - **[Calibrated Peer Review](calibrated_peer_review.md) (UCLA)** — discipline-agnostic web system where students calibrate on exemplars before reviewing peers; widely used in chemistry and writing courses.

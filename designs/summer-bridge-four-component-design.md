@@ -43,7 +43,7 @@ Summer bridge programs occur in the summer period between high school and colleg
 - 
 
 ## Examples
--
+- [Educational Opportunity Program at Stony Brook](../designs/eop-stony-brook-support-program.md) — a five-week summer boot camp followed by advising, counselling and a mandatory study-skills workshop
 
 ## Key Sources
 - Summer Bridge Programs. (2016). What Works Clearinghouse Intervention Report, Supporting Postsecondary Success. U.S. Department of Education, What Works Clearinghouse. https://ies.ed.gov/ncee/wwc

@@ -41,7 +41,7 @@ The article operationalizes reflection quality as a three-level ordinal scale mo
 - [Guided Reflection Yields More Higher Order Paragraphs Than Free](../claims/guided-reflection-yields-more-higher-order-paragraphs-than-free.md) [+M]
 - Dialogic Vs Expressive Reflection Mixed Results [+M]
 - [Public Vs Private Reflection Mixed](../claims/public-vs-private-reflection-mixed.md) [+M]
-- [Guided reflection assignments produce roughly twice as much written reflection as free assignments](../claims/guided-reflection-produces-longer-reflections.md) [+W]
+- [Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments](../claims/guided-reflection-produces-longer-reflections.md) [+W]
 
 ## Related Theories
 - 

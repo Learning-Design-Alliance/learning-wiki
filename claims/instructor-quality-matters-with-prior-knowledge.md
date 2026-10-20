@@ -14,7 +14,7 @@ sources:
     title: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050 [doi:10.48550/arxiv.1110.0050](https://doi.org/10.48550/arxiv.1110.0050)"
     author: "Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A."
     q: 2
-    i: 1
+    i: "?"
     kind: causal
     rigour: 2
 ---
@@ -22,7 +22,7 @@ sources:
 # For material students have prior knowledge of (work-energy theorem), tutorial effectiveness depends significantly on teaching quality, with the ideal Socratic implementation best
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2` · `i1` small
+> **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
 `q2 i?` On kinetic energy post-test questions, the ideal implementation performed significantly better (p < 0.05) than all other styles except Style 4 (limited Socratic dialogue, p = 0.14), and Style 2 (complete written answers) was statistically lower than Style 4 and the prior study's ideal implementation. [→ Slezak 2011](#slezak-2011)
@@ -33,9 +33,9 @@ sources:
 
 Slezak, C., Koenig, K. M., Endorf, R. J., & Braun, G. A. (2011). Investigating the Effectiveness of the Tutorials in Introductory Physics in Multiple Instructional Settings. https://arxiv.org/abs/1110.0050 [doi:10.48550/arxiv.1110.0050](https://doi.org/10.48550/arxiv.1110.0050)
 
-`q2 · i1` · `causal · r2`
+`q2 · i?` · `causal · r2`
 
-Post-hoc LSD comparisons among cooperative-group styles with verbal TA interaction (Styles 2-5 plus prior ideal; N=45, 38, 41, 47, 63). Figure 3 shows progressive improvement as instruction moves closer to the ideal implementation model.
+Post-hoc LSD comparisons among the cooperative-group styles (Styles 2-5 plus the prior study's ideal implementation; N=45, 38, 41, 47, 63): Style 2 gave detailed written answer keys and did not allow verbal TA interaction on tutorial content, while Styles 3-5 had TAs interact verbally. The article prints p-values but no effect size. Figure 3 shows progressive improvement as instruction moves closer to the ideal implementation model.
 
 > "the ideal implementation style performed sig- niﬁcantly better ( p < 0.05) than all other styles with the exception of Style 4 ( p = 0 .14)."
 

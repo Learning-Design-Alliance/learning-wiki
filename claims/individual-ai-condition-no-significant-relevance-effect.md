@@ -14,7 +14,7 @@ sources:
     title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
-    i: 0
+    i: 1
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # The individualized generative AI condition showed no significant effect on relevance as identification with math compared with the control group or the collective condition
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q3` · `i0` negligible
+> **Evidence** · 1 study · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i0` Planned comparisons found no significant differences between E1 and C (p = .261, partial η² = .009), or between E1 and E2 (p = .175, η² = .013), on post relevance as identification with math. [→ Guo 2025](#guo-2025)
+`q3 i1` Planned comparisons found no significant differences between E1 and C (p = .261, partial η² = .009), or between E1 and E2 (p = .175, η² = .013), on post relevance as identification with math. [→ Guo 2025](#guo-2025)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
-`q3 · i0 · negligible-to-small effect, partial η² = .009 and .013` · `causal · r2`
+`q3 · i1 · small effect at most: partial η² = .013 (E1 vs E2, about d 0.23); .009 (E1 vs C) is negligible` · `causal · r2`
 
 Planned comparisons following the MANCOVA in the quasi-experiment of 218 students; the article reports that "The differences between E1 and C, E1 and E2 were not significant" for post relevance as identification with math. Table 3 prints the ANCOVA results: E1 vs C, F = 1.28, p = .261, η² = .009; E1 vs E2, F = 1.86, p = .175, η² = .013, so E1 vs C falls below and E1 vs E2 just above the authors' 0.01 benchmark for a small effect. Equivalence was not tested, so these are nonsignificant differences rather than a demonstration of no effect.
 

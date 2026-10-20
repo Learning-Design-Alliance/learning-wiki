@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0"
-description: "CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0"
+title: "CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0"
+description: "CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0"
 id: coi-presence-uneven-profile-mba
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: "?"
 ---
 
-# CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0
+# CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r?` · `q2`
 
 ## Subclaims
 `q2 i?` Teaching presence was most strongly felt via course organization items (e.g., clear instructions M = 4.31) while various facilitation behaviors received ratings below 4.0. [→ Honig 2021](#honig-2021)
-`q2 i?` Cognitive presence ratings underlined exploration (M = 4.31 for using a variety of information sources) while three resolution/reflection items received ratings below 4.0. [→ Honig 2021 (2)](#honig-2021-2)
+`q2 i?` Cognitive presence ratings underlined exploration (M = 4.31 for using a variety of information sources) while three items, on curiosity, reflection, and describing ways to test and apply knowledge, received ratings below 4.0. [→ Honig 2021 (2)](#honig-2021-2)
 
 ## Evidence
 

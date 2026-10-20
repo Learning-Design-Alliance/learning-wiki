@@ -42,6 +42,13 @@ The course design distributes instruction across three mutually reinforcing comp
 ### Claims
 
 
+## Patterns Used
+- [Programmed Instruction](../patterns/programmed-instruction.md): programmed workbook work sessions, each tied to one broadcast, completed and mailed in
+- [Blended Learning](../patterns/blended-learning.md): broadcast television, independent workbook study and face-to-face drive-in seminars, each designed to reinforce the others
+
+## Related Designs
+- [Basic systems model of staff development](../theories/basic-systems-model-staff-development.md) — the staff-development model from the same Georgia inservice source
+
 ## Related Patterns
 - 
 

@@ -45,7 +45,7 @@ Innovative practice paper reporting the authors' own delivery of 25 exercises ac
 ## Related Claims
 - [Milestone logic lets designers adapt TTX pacing to each team instead of delivering injects at predefined times.](milestones-adapt-exercise-pace-per-team.md) — related
 - [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](reflection-debriefing-time-underscheduled.md) — related
-- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](clustering-ttx-team-assessment-aligns-instructor-scores.md) — related
+- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms a baseline averaged over all possible groupings in both exercises](clustering-ttx-team-assessment-aligns-instructor-scores.md) — related
 - [GPT-4o's rubric-guided grading of team communication disagreed with instructors at near-chance levels (55% RMSE), while GPT-5.2 improved but remained insufficiently aligned (35%)](llm-communication-grading-insufficient-alignment-ttx.md) — related
 - [Clustering yields a small number of behaviorally distinct team clusters that instructors can use for cluster-differentiated feedback](clustering-cluster-differentiated-feedback-ttx.md) — related
 - [Tabletop learning-analytics correlations with collaboration were not statistically significant but suggest post hoc identification of less collaborative teams](tabletop-analytics-nonsignificant-posthoc-identification.md) — related

@@ -32,7 +32,7 @@ A UNESCO framework that organizes 12 AI competencies for school students into fo
 - [UNESCO AI Competency Framework for Teachers](unesco-ai-competency-framework-for-teachers.md)
 
 ## Key Sources
-- Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students
+- Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students [doi:10.54675/jkjb9835](https://doi.org/10.54675/jkjb9835)
 
 <!-- merged 2026-10-15 from products/unesco-ai-competency-framework-for-students ("UNESCO AI Competency Framework for Students"), a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -55,5 +55,5 @@ A UNESCO curricular framework that organizes 12 AI competencies across four dime
 - [UNESCO AI Competency Framework for Teachers](unesco-ai-competency-framework-for-teachers.md)
 
 ## Key Sources
-- Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students
+- Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students [doi:10.54675/jkjb9835](https://doi.org/10.54675/jkjb9835)
 -->

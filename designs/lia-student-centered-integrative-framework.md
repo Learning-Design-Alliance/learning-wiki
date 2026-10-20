@@ -48,7 +48,8 @@ The paper proposes an organizational framework in which a stable student-elected
 - [LI(A)RA: competition team for the Multi-Agent Programming Contest integrated with a course](liara-mapc-competition-team.md)
 
 ## Examples
--
+
+- [Forca Libras](../products/forca-libras.md): an extension output of the league: a computer-vision hangman game for Libras and Portuguese literacy
 
 ## Key Sources
 - Panisson, A. R., Vianna, M. E. W. M., da Silva, I. F., da Silva, H. H., Savaris, R. F., Costa, B. P., Vigil, M. A. G., Lau, J., Hentz, A., Bordin, A. S., Gonçalves, A. L., & Rodrigues-Filho, R. (2026). Academic League of Artificial Intelligence – An Integrative Perspective of Teaching, Research, and Extension. https://arxiv.org/abs/2608.13447 [doi:10.48550/arxiv.2608.13447](https://doi.org/10.48550/arxiv.2608.13447)

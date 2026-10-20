@@ -40,7 +40,7 @@ Oregon's Department of Education, working with Behavioral Research & Teaching at
 - 
 
 ## Related Designs
-- 
+- [Advocacy recommendations for meaningful assessment reporting](../strategies/state-advocacy-assessment-reporting-recommendations.md) — from the same brief, including funding assessment literacy for families
 
 ## Examples
 -

@@ -18,7 +18,7 @@ sources:
 # Equitized Syllabus
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The Equitized Syllabus is a shared syllabus template developed and standardized by BMCC for adoption across course sections and partner colleges.
@@ -29,8 +29,11 @@ The Equitized Syllabus is a shared syllabus template developed and standardized 
 
 ### Claims
 
+- [RPP workshops on concrete equity mechanisms influenced instructor practice within one term](../claims/rpp-equity-workshops-influenced-instructor-practice.md) [+M] (the equitizing-your-syllabus workshop was one of the RPP's concrete equity mechanisms)
+
 ## Related Products and Programmes
--
+
+- [Faculty-authored OER digital textbook and equitized syllabus template at BMCC](../elements/bmcc-oer-textbook-and-syllabus-template.md): BMCC's faculty-authored OER textbook and the shared equitized syllabus template
 
 ## Key Sources
 - Wiley, K., Neisler, J., & Means, B. (2023, February). Partnering to promote equity and digital learning. Digital Promise. https://doi.org/10.51388/20.500.12265/167

@@ -53,7 +53,7 @@ The articles do not agree. VanPatten (eric-ej912912) argues that applying skill 
 - [Task rehearsal improves fluency and complexity on the repeated task but does not transfer to a new task of the same type](../claims/task-repetition-fluency-complexity-same-task-only.md) [+M]
 - [Immediate task repetition benefits oral performance, including fluency, self-correction and reduced anxiety](../claims/immediate-repetition-benefits-oral-performance.md) [+M]
 - [Automatization of the phonological component through pronunciation practice improves ESP students' reading comprehension more than traditional translation-based instruction](../claims/phonological-automatization-improves-esp-reading-comprehension.md) [+M]
-- [Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts](../claims/procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) [~M]
+- [Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts](../claims/procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md) [~M]
 - [Skill develops through engaging in the target activity itself, not through mechanistic drill of isolated components](../claims/skill-develops-through-engagement-not-drill.md) [~W]
 - [Applying skill theory to grammar conflates constructs: pedagogical rules are not what exists in learners' mental representation](../claims/grammar-as-skill-is-a-conflation.md) [-W]
 - [Learners acquired untaught syntactic properties but failed to show sensitivity to agreement they had been explicitly taught and practiced](../claims/untaught-syntax-acquired-taught-agreement-not.md) [-M]

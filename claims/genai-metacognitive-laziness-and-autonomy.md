@@ -78,7 +78,7 @@ The article reports, citing Zhai et al., that frequent chatbot interaction for a
 - [Purpose-built AI chatbot coaching is generally well received and supports short-term motivation and selected behavior change, but effects on sustained, meaningful outcomes are inconsistent](purpose-built-chatbot-coaching-short-term-benefits-inconsistent-sustained.md) — related
 - [Across studies, ChatGPT serves as a convenient tool assisting teachers, students and researchers in various tasks, with the consistent underlying motivation of seeking personal benefits and reducing academic burdens.](chatgpt-convenient-tool-personal-benefit-motivation.md) — related
 - [GCLA does not bolster motivational aspects of SRL: traditional ChatGPT users showed higher intrinsic motivation and higher amotivation than GCLA users](gcla-no-motivation-advantage.md) — related
-- [AI applications support self-regulated learning regulation but not motivational regulation](ai-supports-srl-not-motivation-regulation.md) — related
+- [Learners perceive AI applications as useful for regulating their learning but not for regulating motivation](ai-supports-srl-not-motivation-regulation.md) — related
 - [Effective AI use positively influences sustainable learning performance](effective-ai-use-improves-sustainable-learning-performance.md) — related
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — reports the opposite
 - [Autonomy, meaningful purpose, and interest improve intrinsic motivation and deeper processing](interest-autonomy-purpose-boost-motivation.md) — related

@@ -17,7 +17,7 @@ sources:
 # Two-presentation weekly structure pairing typically developing learners' perspective with exceptional learning needs perspective
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 Within each week of the literacy unit, the targeted topic was addressed in two presentations. "During the Þrst presentation each week, the targeted topic was addressed using a chapter from Bursuck and Damer (2007) as the anchor" from the perspective of typically developing learners; "during the second presentation each week, the same topic was addressed from the perspective of students with exceptional learning needs, again using research evidence to guide the content." Assessment and intervention addressed a continuum of strategies for students with disabilities ranging from mild to severe.
@@ -37,10 +37,13 @@ Within each week of the literacy unit, the targeted topic was addressed in two p
 - Applying research-based literacy assessment and instruction to both typically developing learners and students with exceptional learning needs
 
 ### Claims
-- 
+- [Preservice special educators in the 2008 cohort showed significant pretest-to-posttest knowledge gains after the 6-week co-taught literacy unit](../claims/2008-cohort-significant-literacy-knowledge-gains.md) [+M] — gains from the whole unit, of which this weekly structure is one part
+- [Preservice special educators in the 2009 cohort showed significant pretest-to-posttest knowledge gains, with instruction replicated consistently across years](../claims/2009-cohort-significant-literacy-knowledge-gains.md) [+M]
+- [The study could not determine whether knowledge gains transferred to participants' classroom teaching](../claims/no-follow-through-classroom-transfer-unknown.md) [~W]
 
 ## Related Designs
-- 
+- [Six-week co-taught literacy unit embedded in special education methods courses](six-week-co-taught-literacy-unit.md) — the unit whose weekly presentations follow this structure
+- [Co-teach the literacy unit by combining mild and intense interventions methods courses](../strategies/co-teach-combined-methods-courses-literacy.md)
 
 ## Examples
 -

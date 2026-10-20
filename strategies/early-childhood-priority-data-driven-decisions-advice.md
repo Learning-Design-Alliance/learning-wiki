@@ -42,6 +42,7 @@ In reflecting on their turnaround experience, Horace Mann's principal and superi
 ## Related Strategies
 
 - [Designate a senior district leader to oversee turnaround efforts and advocate urgently for low-performing schools](senior-district-turnaround-leader-advocacy.md)
+- [Boston Public Schools early learning strategy: uniform curricula, teacher training, coaches and NAEYC accreditation support](../designs/bps-early-learning-uniform-curricula-coaches-naeyc.md) — another district case in the same report
 
 ## Examples
 -

@@ -22,7 +22,7 @@ The article defines its assessment scope through five grounded characteristics: 
 - **Five-part scope framework for post-exercise automated team assessment in TTXs**: The article defines its assessment scope through five grounded characteristics: assessment targets teams rather than individuals, since a team is the fundamental unit and succeeds only when members collectively resolve tasks; it is summative, using milestones as predefined checkpoints that serve as indicators of the learning objectives the team has met; it is exercise-specific, relying only on data collected during the TTX to protect privacy; it is post-exercise, delivering instant results within minutes; and it is fully automated, with manual assessment used only as an evaluation benchmark. This framework organizes the study's two methods and their educational purposes, including grading, hot-wash debriefing, and feedback on deviations from expected procedures. (V. Švábenský et al. (2026))
 
 ### Claims
-- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises](../claims/clustering-ttx-team-assessment-aligns-instructor-scores.md) [+M]
+- [Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms a baseline averaged over all possible groupings in both exercises](../claims/clustering-ttx-team-assessment-aligns-instructor-scores.md) [+M]
 - [GPT-4o's rubric-guided grading of team communication disagreed with instructors at near-chance levels (55% RMSE), while GPT-5.2 improved but remained insufficiently aligned (35%)](../claims/llm-communication-grading-insufficient-alignment-ttx.md) [+M]
 
 ## Related Research Methods

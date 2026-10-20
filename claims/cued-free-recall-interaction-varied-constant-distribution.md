@@ -11,7 +11,7 @@ evidence_strength: moderate
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
-    title: "Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
+    title: "Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
     author: Glenberg, A. M.
     q: 3
     i: "?"
@@ -19,7 +19,7 @@ sources:
     rigour: 1
   - id: glenberg-1979-2
     resource: "https://doi.org/10.3758/bf03197590"
-    title: "Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
+    title: "Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
     author: Glenberg, A. M.
     q: 3
     i: "?"
@@ -40,7 +40,7 @@ sources:
 
 ### Glenberg 1979
 
-Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
+Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
 
 `q3 · i?` · `causal · r1`
 
@@ -50,7 +50,7 @@ Experiment 1 assigned 64 introductory psychology students to free or cued recall
 
 ### Glenberg 1979 (2)
 
-Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
+Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
 
 `q3 · i?` · `causal · r2`
 
@@ -62,5 +62,5 @@ Two identical 8 by 2 by 2 ANOVAs (counterbalancing by varied-constant by distrib
 
 
 ## Related Claims
-- [With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
+- [With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations](contextual-spacing-effect-survives-orienting-tasks.md) — related
 - [Distributed presentations are recalled better than massed presentations in free recall (the spacing effect), and requiring likelihood ratings does not alter this effect](spacing-effect-free-recall-dp-beats-mp.md) — related

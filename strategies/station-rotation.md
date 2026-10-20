@@ -93,6 +93,7 @@ Station rotation operationalizes [Active Learning](../principles/active-learning
 - **Rocketship Public Schools** (https://www.rocketshipschools.org) — early K–12 blended-learning network built around daily learning-lab and station rotations.
 - **Khan Academy** (https://www.khanacademy.org) — commonly used as the digital station, with mastery-based practice providing feedback without teacher presence.
 - **Zearn** (https://www.zearn.org) — publishes station-rotation lesson templates pairing its digital math lessons with teacher-led small-group instruction.
+- [Small-group station rotation for Tier 2 reading](../designs/small-group-station-rotation-tier2-reading.md) — Scholastic RISE: groups of four through comprehension, word study, phonics and writing stations
 
 ## Key Sources
 - Horn, M. B., & Staker, H. (2015). *Blended: Using disruptive innovation to improve schools*. Jossey-Bass.

@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Mastery and performance-approach goals have positive effects on self-efficacy, and performance-avoidance goals have negative effects, at all grade levels. [→ Mason 2012](#mason-2012)
+`q3 i?` In cross-sectional SEM models, mastery and performance-approach goals were positively associated with self-efficacy, and performance-avoidance goals negatively, at all grade levels; the authors note no causal relationship is established. [→ Mason 2012](#mason-2012)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Mason, L., Boscolo, P., Tornatora, M. C., & Ronconi, L. (2012). Besides knowledg
 
 `q3 · i?` · `associational · r2`
 
-SEM path analysis of fifth-grade data (n = 213) showed mastery (β = 0.23) and performance-approach goals (β = 0.27) positively predicted self-efficacy, while performance-avoidance goals negatively predicted it (β = -0.46). Similar patterns held at eighth and eleventh grades.
+SEM path analysis of fifth-grade data (n = 213) showed mastery (β = 0.23) and performance-approach goals (β = 0.27) positively predicted self-efficacy, while performance-avoidance goals negatively predicted it (β = -0.46). Similar patterns held at eighth and eleventh grades. The data are cross-sectional questionnaires; the authors state that "effect" is SEM terminology and that no causal relationships are established.
 
 > "both mastery goals (b = 0.23, t = 4.31) and performance-approach goals (b = 0.27, t = 5.31) had a positive effect on self-efficacy, whereas performance-avoidance goals had a negative effect (b = -0.46, t = -8.54)."
 

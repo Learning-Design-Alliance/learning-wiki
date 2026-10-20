@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring"
-description: "Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring"
+title: "In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest"
+description: "In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest"
 id: optimal-challenge-sustains-gaming-engagement
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring
+# In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Participants sustained engagement when they could control task difficulty; insurmountable challenges led to avoidance or abandonment, while overly easy games failed to promote engagement. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)
+`q2 i?` Interviewed participants described task difficulty as at least partly within their control and challenge as important to their sustained engagement; they reported often avoiding or abandoning games whose challenges seemed insurmountable and losing interest in games that were too easy. Self-report data, so it cannot show that control of difficulty causes sustained engagement. [→ Bobby Hoffman 2010](#bobby-hoffman-2010)
 
 ## Evidence
 

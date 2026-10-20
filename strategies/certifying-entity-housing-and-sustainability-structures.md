@@ -41,6 +41,7 @@ The report recommends couching certification within larger systems of structures
 - [Use shared frameworks, cross-district collaboration, and state-level policy alignment to scale AI-enabled edtech](shared-frameworks-cross-district-ai-edtech-scaling.md)
 - [Implementation recommendations for school RJ programs: funding, sustainability, policy integration, and professional development](rj-school-implementation-funding-sustainability-pd.md)
 - [Develop collaboratively built, lean, and flexible standards with judicious data demands for community schools certification](collaborative-lean-flexible-certification-standards.md)
+- [Georgia DOE LEAD certification pilot](../designs/georgia-doe-lead-certification-pilot.md) — a pilot shut down for consolidation and reorganisation despite well-received standards
 
 ## Examples
 -

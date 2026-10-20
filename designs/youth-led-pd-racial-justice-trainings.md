@@ -45,7 +45,8 @@ Youth-led professional development opportunities are a primary mechanism through
 - [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](../claims/enabling-factors-relationship-centered-transformation.md) [+W]
 
 ## Related Designs
-- 
+
+- [Biweekly homerooms as relationship-centered small communities](biweekly-homeroom-small-communities.md)
 
 ## Examples
 -

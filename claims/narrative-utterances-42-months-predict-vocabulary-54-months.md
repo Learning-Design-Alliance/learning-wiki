@@ -35,7 +35,7 @@ Rowe Meredith L. (2012). A longitudinal investigation of the role of quantity an
 
 `q2 · i?` · `associational · r2`
 
-Multiple regression analysis (Model 9) predicting PPVT at 54 months in 50 dyads. "parent uses of decontextualized language at 42-months, particularly use of narrative utterances (p < 0.05)" predicted child vocabulary with all controls in the model.
+Multiple regression analysis (Model 9) predicting PPVT at 54 months in a sample of 50 dyads, of whom 48 children completed the 54-month PPVT. The association is correlational and cannot show cause. "parent uses of decontextualized language at 42-months, particularly use of narrative utterances (p < 0.05)" predicted child vocabulary with all controls in the model.
 
 > "Model 9 shows that parent uses of decontextualized language at 42-months, particularly use of narrative utterances (p < 0.05) and explanations (p < 0.10) are positive predictors of child vocabulary, controlling for quantity of parent talk, parent education and children’s PPVT scores one year earlier."
 

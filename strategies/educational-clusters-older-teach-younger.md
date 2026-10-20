@@ -37,7 +37,9 @@ In her 1971 interview, Mead proposed educational clusters placing day-care cente
 - peer and cross-age learning; making students active participants rather than passive recipients
 
 ## Related Strategies
-- 
+
+- [Cross Age Tutoring](../strategies/cross-age-tutoring.md): the practice Mead's clusters would organise a whole school system around
+- [Mead's taxonomy of post-figurative, co-figurative, and pre-figurative cultures explains how accelerating change reverses the direction of learning](../theories/mead-post-co-pre-figurative-cultures.md): Mead's account of changing learning relations between generations, from the same report
 
 ## Examples
 -

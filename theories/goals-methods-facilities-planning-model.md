@@ -48,6 +48,7 @@ The paper presents a procedural model in which educational specifications are dr
 
 - [Draft flexible educational specifications stating activities and needs rather than fixed dimensions](../strategies/flexible-activity-based-specifications.md)
 - [Select a few goals per course rather than all-inclusive goal statements when designing facilities](../strategies/select-few-goals-for-facility-design.md)
+- [Understanding By Design Unit Template](../strategies/understanding-by-design-unit-template.md)
 
 ## Key Sources
 - Engelhardt, David Frederic. (1966). Space Requirements for Science Instruction Grades 9-12. Harvard Univ., Cambridge, Mass. Graduate School of Education. https://eric.ed.gov/?id=ED022353

@@ -66,7 +66,7 @@ sources:
 # Signaling Principle
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 29 claims (12 for, 15 mixed, 1 against, 1 unmarked) · 21 studies (9 causal, 7 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 25 claims rest on one study
+> **Evidence** · 29 claims (13 for, 15 mixed, 1 against) · 21 studies (9 causal, 7 review, 4 quant-synthesis, 1 theoretical), `q1`–`q4` · 7 of 21 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -81,7 +81,7 @@ The claims in this wiki test the relationship directly, in two meta-analyses, an
 - **Outcome.** In expository text, organizational signals often changed *what* college readers recalled more than *how much* ([Lorch & Lorch 1996](https://doi.org/10.1037/0022-0663.88.1.38)). Most of the effects were measured soon after a short lesson.
 - **Representation and age.** In a middle-school electricity study, signaling the written text helped with an abstract animation (d = .35) but not significantly with a concrete one (Kutbay & Akpınar 2020).
 
-How this sits beside its neighbours: [Multimedia Learning](multimedia-learning.md) holds the umbrella model (words with relevant pictures, and the principles that qualify it) and its [pattern](../patterns/multimedia-learning.md) the reusable design; this page goes deeper on the cueing decision only and does not repeat that model. [Clear Structure](clear-structure.md) covers making a lesson's or course's organisation explicit more broadly (organizers, graphic organizers, course-level structure); signaling is its cue-level instance within a presentation, and the two share the meta-analysis behind [Clear structure improves learning](../claims/clear-structure-improves-learning.md). [Annotating](annotating.md) is about marks the *learner* makes; signals are made by the designer. [Cognitive Load Management](cognitive-load-management.md) gives the shared explanation: a cue saves a novice the search for what matters.
+How this sits beside its neighbours: [Multimedia Learning](multimedia-learning.md) holds the umbrella model (words with relevant pictures, and the principles that qualify it) and its [pattern](../patterns/multimedia-learning.md) the reusable design; this page goes deeper on the cueing decision only and does not repeat that model. [Clear Structure](clear-structure.md) covers making a lesson's or course's organisation explicit more broadly (organizers, graphic organizers, course-level structure); signaling is its cue-level instance within a presentation, and the two share the meta-analysis behind [Clear structure improves learning](../claims/clear-structure-improves-learning.md) [+M]. [Annotating](annotating.md) is about marks the *learner* makes; signals are made by the designer. [Cognitive Load Management](cognitive-load-management.md) gives the shared explanation: a cue saves a novice the search for what matters.
 
 ## Default design, while the dose is untested
 

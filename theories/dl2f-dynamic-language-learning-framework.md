@@ -8,8 +8,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: merueña-2023
-    resource: "https://doi.org/10.36713/epra2016"
-    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    resource: "https://eric.ed.gov/?id=ED637673"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673"
     author: Merueña, J. A. A
 ---
 
@@ -55,4 +55,4 @@ DL2F is a progressive pedagogical approach for language education that positions
 - [Learner-Centric Approach](../strategies/learner-centric_approach.md)
 
 ## Key Sources
-- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673

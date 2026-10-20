@@ -40,7 +40,7 @@ The article argues effect studies "do not have to exclusively focus on curriculu
 
 - [In a constructivist portfolio-assessment course, deep approaches decreased, surface approaches increased, and preferences for student participation and permanent evaluation decreased significantly](../claims/baeten-portfolio-approaches-shifted-surface.md) [~W]
 - [Empirical studies of constructivist learning environments do not always show the expected learning outcomes](../claims/constructivist-effects-not-always-expected.md) [~W]
-- [Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest](../claims/dinsmore-project-based-declarative-only.md) [~W]
+- [Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest](../claims/dinsmore-project-based-declarative-only.md) [~W]
 - [A constructivist course increased perceived deep-level assessment demands but students still reported more frequent use of surface approaches to learning](../claims/gijbels-assessment-demands-not-approaches.md) [~W]
 - [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation](../claims/loyens-conceptions-relate-strategies.md) [+W]
 

@@ -44,6 +44,7 @@ USC's approach centers on systematically identifying students at risk of not gra
 - [Provide schools real-time early warning data reports and credit recovery reports to monitor student performance and support on-track progress](early-warning-data-and-credit-recovery-strategy.md)
 - [Focus school improvement efforts on the ninth-grade transition using real-time data to monitor and support at-risk freshmen](ninth-grade-on-track-data-strategy.md)
 - [Integrate background grade-prediction models into early alert advising systems](grade-prediction-early-alert-integration.md)
+- [VCU University College first-year model](../designs/vcu-university-college-first-year-model.md) — proactive advising in another case from the same series
 
 ## Examples
 -

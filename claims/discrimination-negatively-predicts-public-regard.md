@@ -41,6 +41,8 @@ Longitudinal SEM analysis of the three-wave sample (N = 219 retained across all 
 
 ## Discussion
 
+Discrimination was measured with the [Daily Life Experiences (DLE) scale](../products/daily-life-experiences-dle-scale.md), a self-report frequency subscale of the Racism and Life Experiences Scale.
+
 
 ## Learner Variables
 - [Identity](../learner-variables/identity.md) — outcome: instruction changes it

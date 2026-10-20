@@ -41,6 +41,8 @@ The review's synthesis of 45 co-occurrences between a strategic approach and per
 
 ## Discussion
 
+The studies measured learning approach with different inventories (see [the taxonomy of learning-approaches inventories](../research-methods/taxonomy-of-learning-approaches-measurement-inventories-spq-r-spq-2f-asi-alsi-assist.md)); the R-SPQ-2F has no strategic scale, so studies using it could not report this approach at all.
+
 
 ## Related Claims
 - [In medical and dental education, a deep learning approach is associated with high(er) or no-difference academic performance and never with low(er) performance](deep-approach-higher-performance-medical-dental.md) — related

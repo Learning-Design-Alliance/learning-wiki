@@ -60,6 +60,8 @@ Authors' theoretical reflection during the postdigital dialogue on the affordanc
 
 ## Discussion
 
+Beyond describing existing activities, the authors also [used the taxonomy as a prompt to design new GenAI activities](../strategies/taxonomy-as-imagination-prompt.md).
+
 
 ## Related Claims
 - [Qualitative themes: efficiency and peer influence drive AI use, while confidence and rule ambiguity shape students' perceptions of dependence](qualitative-themes-ai-writing-motivation-dependence.md) — related

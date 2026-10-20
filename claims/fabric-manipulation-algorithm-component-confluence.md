@@ -49,5 +49,5 @@ Bird's-eye video analysis of the fabric manipulation unit shows a four-part sequ
 - [Computation in fabric manipulation is characterized as speculative physical 3D modeling](fabric-manipulation-speculative-3d-modeling.md) — related
 - [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on
 - [Fabric manipulation (sewing) supports middle school students' performance of the computational concepts variables, conditionals, and functions](fabric-manipulation-performs-variables-conditionals-functions.md) — related
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related

@@ -150,7 +150,7 @@ Each question links a general claim that gathers the studies behind it (this pag
 
 ## Further evidence, not yet read against this model
 
-- [Redundancy Effect Impairs Learning](../claims/redundancy-principle.md) [~M]: the same Trypke et al. (2023) entry as [redundancy-principle](../claims/redundancy-principle.md), cited above; its title states the harm without the review's reversals.
+- [Redundancy Effect Impairs Learning](../claims/redundancy-principle.md) [~M]: the same Trypke et al. (2023) entry as redundancy-principle, cited above; its title states the harm without the review's reversals.
 - [Multimedia Principles Benefit Novices](../claims/expertise-reversal-effect.md) [~M]: the same Kalyuga et al. (2003) and (1998) entries as the expertise-reversal claim cited above.
 - [Cognitive load effects including integration benefits may reverse for more experienced learners](../claims/expertise-reversal-split-attention-redundancy-review.md) [~M]: Ginns (2006) restating Kalyuga et al. (1998).
 - [Bimodal captioned input improved L2 listening skills](../claims/bimodal-captioned-input-improves-segmentation.md) [+W]: a pronunciation article reporting Charles & Trenkic (2015).

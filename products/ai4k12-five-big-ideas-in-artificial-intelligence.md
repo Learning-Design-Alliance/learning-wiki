@@ -13,7 +13,7 @@ generated:
 # AI4K12 Five Big Ideas in Artificial Intelligence
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A framework developed by the AI for K-12 working group that organizes K–12 artificial-intelligence education around five thematic strands and four grade bands.
@@ -23,9 +23,11 @@ A framework developed by the AI for K-12 working group that organizes K–12 art
 - **Five thematic strands ('big ideas') organizing K-12 AI guidelines**: The AI for K-12 working group frames its guidelines around five big ideas in AI: computers perceive the world using sensors; agents maintain models/representations of the world and use them for reasoning; computers can learn from data; making agents interact comfortably with humans is a substantial challenge; and AI applications can impact society in both positive and negative ways. The authors state the guidelines "will unpack AI's 'Big Ideas' along five thematic strands, and organize them by four grade bands". They chose this formulation over a traditional division into application areas because it "better meets the needs of K-12 students and teachers". (Touretzky et al. (2019))
 
 ### Claims
+- [Existing K-12 computing standards give AI minimal coverage](../claims/csta-standards-minimal-ai-coverage.md) [~M] — the gap the guidelines were written to fill
+- [Machine perception and learning depend on large, unbiased training data](../claims/ai-big-ideas-data-and-knowledge-dependence.md) [+W] — the content of big idea 3, learning from data
 
 ## Related Products and Programmes
--
+- [AI researchers as K-12 educators: a call to action](../strategies/ai-researchers-as-k12-educators-call-to-action.md) — from the same AAAI paper
 
 ## Key Sources
 - Touretzky, D.; Gardner-McCune, C.; Martin, F.; and Seehorn, D. (2019). Envisioning AI for K-12: What Should Every Child Know about AI? The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI-19). https://www.aaai.org. [doi:10.1609/aaai.v33i01.33019795](https://doi.org/10.1609/aaai.v33i01.33019795)

@@ -30,7 +30,9 @@ Missouri's teacher equity plan is a state-run programme framework, developed and
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Tennessee Educator Preparation Report Card](../products/tennessee-educator-preparation-report-card.md): another state's use of workforce data, from the same Data Quality Campaign brief
+- [States conduct a statewide survey of new teachers with comparable questions across all programs](../strategies/statewide-new-teacher-survey-strategy.md): the same brief's recommendation on surveying new teachers
 
 ## Key Sources
 - Data Quality Campaign. (2017). Using Data to Ensure That Teachers Are Learner Ready on Day One. https://www.dataqualitycampaign.org

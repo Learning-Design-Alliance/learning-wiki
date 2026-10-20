@@ -17,7 +17,7 @@ sources:
 # Classroom workflow: publish a debugging task, have students run an Evaluation session, and review the exported report and trace alongside the final solution
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes a lightweight classroom workflow: an instructor publishes a debugging task with its source, tests, and any custom test-command patterns; students open it in VS Code, run an Evaluation session, debug normally, and "submit the exported report and trace alongside their final solution". An instructor or teaching assistant then reviews the process evidence directly and can attach rubric labels through the human-label mechanism, stored as later events leaving the original trace intact.
@@ -39,6 +39,7 @@ The article describes a lightweight classroom workflow: an instructor publishes 
 ## Claims
 
 - [An 11-case manual validation matrix confirms DebugTracker records the debugging process across Python, TypeScript, and Java tasks and three operating systems](../claims/debugtracker-11-case-manual-matrix-cross-language.md) [+W]
+- [DebugTracker's automated test suite passes all 16 checks covering session, capture, mode-policy, and reporting mechanisms](../claims/debugtracker-16-automated-checks-pass.md) [+W]
 
 ## Related Strategies
 

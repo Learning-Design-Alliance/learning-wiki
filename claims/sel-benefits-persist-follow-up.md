@@ -66,7 +66,7 @@ This meta-analysis pooled 82 school-based, universal SEL interventions (kinderga
 
 Bierman, K. L., Heinrichs, B. S., Welsh, J. A., Jones, D. E., & Crowley, D. M. (2026). Promoting resilience with social–emotional learning: Young adult follow-up of a preschool randomized-controlled trial. *American Psychologist*. Advance online publication. [doi:10.1037/amp0001765](https://doi.org/10.1037/amp0001765)
 
-`q3 · randomized controlled trial, not stated as pre-registered` · `i1 · small-to-moderate effect, d=.21 to .33` · `n=356 randomized; 263 (74%) retained at follow-up` · `causal · r2`
+`q3 · randomized controlled trial, follow-up analyses pre-registered (Registry of Efficacy and Effectiveness Studies #16840)` · `i1 · small-to-moderate effect, d=.21 to .33` · `n=356 randomized; 263 (74%) retained at follow-up` · `causal · r2`
 
 This RCT randomly assigned Head Start classrooms to receive an SEL- and language-enriched curriculum (Head Start REDI) or usual practice, enrolling 356 low-income preschoolers (mean age 4.49 years at entry). Outcomes were reassessed when participants were young adults, age 21–22 — roughly 17 years after the preschool intervention ended — with 74% of the original sample retained. The intervention group showed statistically significant advantages on 7 of 11 measures of young adult well-being (including conduct problems, depressive symptoms, loneliness, empathy, emotional support, and life satisfaction), with effect sizes in the small-to-moderate range, and the preschool intervention also buffered the negative impact of adverse childhood experiences on adult social adjustment.
 

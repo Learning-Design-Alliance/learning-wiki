@@ -42,7 +42,10 @@ The deck recommends crafting student-centered policies by condensing them into 1
 - 
 
 ## Related Designs
-- 
+- [Six-topic taxonomy for GenAI responsible use policy content](../products/six-topic-taxonomy-for-guiding-genai-responsible-use-policy-content.md) — the framework from the same deck that sets what the policy covers
+- [Rapid AUP drafting guide](../elements/rapid-aup-drafting-guide-six-topics.md)
+- [Empathy interviews for AI policy development](../strategies/empathy-interviews-for-ai-policy-development.md) — how the deck suggests learning what students need from the policy
+- [Establish an AI task force before policy revision](../strategies/ai-task-force-before-policy-revision.md)
 
 ## Examples
 -

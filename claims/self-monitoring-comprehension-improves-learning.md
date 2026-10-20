@@ -19,8 +19,8 @@ sources:
     rigour: "?"
   - id: adimora-et-al-2017
     resource: "https://doi.org/10.18844/prosoc.v3i3.1582"
-    title: "Adimora, D. E., Nwokenna, E. N., & Obiageli, M. (2017). Application of comprehension monitoring strategy for achievement and interest of low-achievers in reading comprehension. *New Trends and Issues Proceedings on Humanities and Social Sciences, 3*(3), 347–362. [doi:10.18844/prosoc.v3i3.1582](https://doi.org/10.18844/prosoc.v3i3.1582)"
-    author: "Adimora, D. E., Nwokenna, E. N., & Obiageli, M."
+    title: "Adimora, D. E., Nwokenna, E. N., & Omeje, M. O. (2017). Application of comprehension monitoring strategy for achievement and interest of low-achievers in reading comprehension. *New Trends and Issues Proceedings on Humanities and Social Sciences, 3*(3), 347–362. [doi:10.18844/prosoc.v3i3.1582](https://doi.org/10.18844/prosoc.v3i3.1582)"
+    author: "Adimora, D. E., Nwokenna, E. N., & Omeje, M. O."
     q: 2
     i: "?"
     n: 127 (62 experimental, 65 control)
@@ -54,11 +54,11 @@ This meta-analysis pooled 48 studies of metacognitive strategy instruction — a
 
 ### Adimora et al. 2017
 
-Adimora, D. E., Nwokenna, E. N., & Obiageli, M. (2017). Application of comprehension monitoring strategy for achievement and interest of low-achievers in reading comprehension. *New Trends and Issues Proceedings on Humanities and Social Sciences, 3*(3), 347–362. [doi:10.18844/prosoc.v3i3.1582](https://doi.org/10.18844/prosoc.v3i3.1582)
+Adimora, D. E., Nwokenna, E. N., & Omeje, M. O. (2017). Application of comprehension monitoring strategy for achievement and interest of low-achievers in reading comprehension. *New Trends and Issues Proceedings on Humanities and Social Sciences, 3*(3), 347–362. [doi:10.18844/prosoc.v3i3.1582](https://doi.org/10.18844/prosoc.v3i3.1582)
 
 `q2 · quasi-experimental, non-equivalent pretest-posttest control group` · `i? · no standardized effect size reported` · `n=127 (62 experimental, 65 control)` · `causal · r1`
 
-Low-achieving Nigerian senior-secondary students (n=127, two intact classes) were assigned to a comprehension-monitoring-strategy (CMS) treatment group or a conventional-instruction control group in a non-randomized pretest-posttest design. The CMS group's mean reading-comprehension score rose from 18.26 to 37.17 (gain of 18.92), versus the control group's rise from 17.75 to 18.68 (gain of 0.93); ANCOVA found a significant effect of treatment on posttest achievement (F = 828.05, p < .001, adjusted R² = .872) after controlling for pretest scores. The same pattern held for a reading-interest measure. Only raw means, an F-statistic and adjusted R² were reported — no Cohen's d, Hedges' g or comparable standardized effect size appears in the text, so impact is coded `i?` rather than computed from the raw scores. Read full text (PDF).
+Low-achieving Nigerian senior-secondary students (n=127, four intact classes, two in each of two schools) were assigned to a comprehension-monitoring-strategy (CMS) treatment group or a conventional-instruction control group in a non-randomized pretest-posttest design. The CMS group's mean reading-comprehension score rose from 18.26 to 37.17 (gain of 18.92), versus the control group's rise from 17.75 to 18.68 (gain of 0.93); ANCOVA found a significant effect of treatment on posttest achievement (F = 828.05, p < .001, adjusted R² = .872) after controlling for pretest scores. The same pattern held for a reading-interest measure. Only raw means, an F-statistic and adjusted R² were reported — no Cohen's d, Hedges' g or comparable standardized effect size appears in the text, so impact is coded `i?` rather than computed from the raw scores. Read full text (PDF).
 
 ## Studies bearing on this claim
 

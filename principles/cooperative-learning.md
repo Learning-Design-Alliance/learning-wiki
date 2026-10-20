@@ -92,7 +92,7 @@ Immediate group performance, individual achievement at the end of a unit, delaye
 
 ## Claims
 
-- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
+- [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
 - [Scripting shifted student effort toward grounding discussions and away from group-issue discussions](../claims/script-shifts-effort-toward-grounding.md) [~W]
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
 - [Cooperative learning arrangements predict larger SRL training effects for cognitive and metacognitive strategies](../claims/cooperative-learning-moderates-srl-training-effects.md) [~W]

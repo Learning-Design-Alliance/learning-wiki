@@ -54,7 +54,8 @@ A competency-based micro-credential platform developed and operated by Digital P
 - [State certification directors are cautious yet hopeful about micro-credentials, citing quality control and compensation-system fit as concerns](../claims/state-directors-micro-credential-concerns.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Preguntas de diseño para aumentar el acceso equitativo de las ofertas de micro-credenciales](../strategies/equity-design-questions-microcredential-offers.md): design questions for making micro-credential offers more equitable (Spanish)
 
 ## Key Sources
 - Galindo, M., Fennelly-Atkinson, R., Franklin, K., Luna, C. (2024, August). The Role of Micro-Credentials in Lifelong Learning and Development: Empowering Learners, Empowering Organizations. Digital Promise. https://doi org/10 51388/20 500 12265/225

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.
-description: Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.
+title: Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.
+description: Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.
 id: expert-poetry-interpretive-strategies
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.
+# Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
@@ -35,7 +35,7 @@ Peskin, J. (1998). Constructing meaning when reading poetry: An expert-novice st
 
 `q2 · i?` · `qualitative · r2`
 
-Protocol analysis of the think-aloud study, with strategies coded from expert protocols (inter-rater agreement 87% on a 37.5% subset). The General Discussion states these strategies "are ways of thinking that enable sophisticated interpretation of poetic texts."
+Protocol analysis of think-aloud protocols from both experts and novices; operations were kept where they differentiated the experts from the novices and appeared in at least three expert or three novice protocols on both poems (inter-rater agreement 87% on a 37.5% subset). Novices did use some of these cues, for example noticing binary oppositions but finding them confusing, and the study concludes that novices "used these strategies minimally". The General Discussion states these strategies "are ways of thinking that enable sophisticated interpretation of poetic texts."
 
 > "Strategies such as examining structure as a source of meaning,  searching for meaning  at the l ocus of binary oppositions, using wordplay, language, rhythm and rhyme as  cues, are ways of thinking that enable sophisticated interpretation of poetic texts."
 

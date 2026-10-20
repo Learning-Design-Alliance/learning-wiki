@@ -55,7 +55,8 @@ The report describes weighted funding formulas that fund schools based on the nu
 - [Allocate base state special education funding by prior-year count of students with disabilities, weighted by disability cost groupings](allocate-special-education-funding-by-child-count-cost-groupings.md)
 
 ## Examples
--
+
+- [Four cornerstones of a fair and effective school funding system: adequacy, equity, transparency, and responsibility](../products/four-cornerstones-of-a-fair-and-effective-school-funding-system-adequacy-equity-transparen.md): EdBuild's adequacy-equity-transparency-responsibility framework for judging a state formula
 
 ## Key Sources
 - Cook-Harvey, C.M., Darling-Hammond, L., Lam, L., Mercer, C., & Roc, M. (2016). Equity and ESSA: Leveraging Educational Opportunity Through the Every Student Succeeds Act. Palo Alto, CA: Learning Policy Institute. http://learningpolicyinstitute.org/product/equity-essa

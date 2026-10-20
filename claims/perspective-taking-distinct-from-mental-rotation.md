@@ -41,6 +41,8 @@ The review reports that Hegarty and Waller "designed a valid measure of perspect
 
 ## Discussion
 
+Which factors the review counts as spatial, and so which can be separated at all, follows its [criteria for identifying spatial factors](../research-methods/criteria-for-identifying-spatial-factors.md): abilities concerned with visual stimuli and not influenced by semantic knowledge.
+
 
 ## Related Claims
 - [Dynamic spatial ability is distinguishable from static spatial ability as independent factors](dynamic-spatial-ability-distinct-from-static.md) — related

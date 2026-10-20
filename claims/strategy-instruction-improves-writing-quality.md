@@ -99,7 +99,7 @@ Open questions for future evidence entries include the durability of effects aft
 - [Activation improves learning.](activation-improves-learning.md) — strategy instruction activates genre and topic knowledge before planning
 - [The review reports that cognitive apprenticeship instructional methods were significantly more effective than traditional methods for college-level writing skills](ca-methods-more-effective-than-traditional-writing-college.md) — related
 - [Process Writing Improves Writing Quality](process-writing-improves-writing-quality.md) — related
-- [Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
+- [Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work](gbsri-interview-attributions-and-pair-work-discomfort.md) — a narrower finding that bears on this claim
 - [Peer Feedback Improves Writing](peer-feedback-improves-writing.md) — related
 - [In one keystroke-logging study, spontaneous sentence production under minimal planning is associated with gains in writers' self-rated understanding and with lower initial text quality](spontaneous-sentence-production-in-synthetic-planning-increases-understanding.md) — related
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — a narrower finding that bears on this claim

@@ -41,7 +41,7 @@ The report's program lessons recommend that teachers using emerging technologies
 - [CEO Forum recommendations: prepare and certify teachers for technology integration across pre-service, licensure, and in-service career stages](ceoforum-teacher-tech-integration-recommendations.md)
 
 ## Examples
--
+- [360 Filmmakers Challenge](../products/360-filmmakers-challenge.md)
 
 ## Key Sources
 - 360 Filmmakers Challenge: Key Findings from the Fall 2016 Program. (2017). Digital Promise Global. https://digitalpromise.dspacedirect.org/items/bf98d40e-980c-4f54-9985-46bf5675d2fa

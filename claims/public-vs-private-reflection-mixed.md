@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing"
-description: "Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing"
+title: "Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing"
+description: "Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing"
 id: public-vs-private-reflection-mixed
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing
+# Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -35,7 +35,7 @@ Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning:
 
 `q2 · i?` · `causal · r1`
 
-Comparison of public blog paragraphs (one section) with private journal paragraphs (three sections), coded on the three-level rubric. Table 3 shows public paragraphs were 51% descriptive and 31% integrative; private were 32% descriptive and 40% analytic.
+Comparison of public blog paragraphs (one section) with private journal paragraphs (three sections), coded on the three-level rubric. Table 3 shows public paragraphs were 51% descriptive and 31% integrative; private were 32% descriptive, 40% analytic and 24% integrative. The four assignments were naturally occurring and differed on several dimensions at once; the authors note a lack of experimental control and that the effects of individual reflection characteristics cannot be determined, so the comparison is an association, not an effect of public posting.
 
 > "As T able 3 indi - cates, private journal paragraphs were more likely to be analytic or integrative—64 per - cent, compared with 41 percent of the pub lic journals."
 
@@ -50,4 +50,4 @@ Comparison of public blog paragraphs (one section) with private journal paragrap
 
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — the general claim this finding bears on, with the studies behind it
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — related
-- [Guided reflection assignments produce roughly twice as much written reflection as free assignments](guided-reflection-produces-longer-reflections.md) — related
+- [Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments](guided-reflection-produces-longer-reflections.md) — related

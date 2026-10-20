@@ -41,7 +41,9 @@ Michigan established the Diverse Educator Advisory Group in 2021 "to provide rec
 - 
 
 ## Related Designs
-- 
+- [Six-strategy state policy framework for increasing educator workforce diversity](../products/six-strategy-state-policy-framework-for-increasing-educator-workforce-diversity.md) — the EdTrust framework whose leadership-structure criterion this rates
+- [EdTrust teacher diversity 50-state scan data tool](../products/ed-trust-teacher-diversity-50-state-scan-data-tool.md) — the rating tool that scores Michigan green on this criterion
+- [Set statewide goals to strengthen the teacher workforce](../strategies/statewide-educator-diversity-goals.md)
 
 ## Examples
 -

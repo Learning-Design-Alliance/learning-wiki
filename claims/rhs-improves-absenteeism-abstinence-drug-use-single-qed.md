@@ -35,7 +35,7 @@ Hennessy E. A., Tanner‐Smith E. E., Finch A. J., Sathe N. A., Kugley S. A. (20
 
 `q2 · i2` · `quant-synthesis · r1`
 
-The review's Results section reports the single eligible quasi‐experimental pretest‐posttest study of U.S. high school students (194 participants), with pretest‐adjusted effect sizes favoring RHS students on absenteeism, abstinence, marijuana use, and other drug use; confidence intervals exclude zero for all four outcomes.
+The review's Results section reports the single eligible quasi‐experimental pretest‐posttest study of U.S. high school students (194 participants), with pretest‐adjusted effect sizes favoring RHS students on absenteeism, abstinence, marijuana use, and other drug use; the confidence intervals exclude zero for the three standardized mean differences and exclude one for the abstinence odds ratio.
 
 > "However, students in the RHS condition reported improvements in absenteeism (= 0.56, 95% CI [0.25, 0.87]), abstinence from alcohol/drugs (OR = 4.36, 95% CI [1.19, 15.98]), marijuana use (= 0.51, 95% CI [0.20, 0.82]), and other drug use (= 0.45, 95% CI [0.14, 0.76])."
 

@@ -12,10 +12,10 @@ generated:
 # Interleaving
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (4 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (4 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 6 report an effect size · 1 claim rests on one study
 
 ## Description
-Interleaving sequences practice so that problems from different categories or skills alternate within a session (A, B, C, A, B, C) instead of appearing in blocks (AAA, BBB, CCC). The mixing forces learners to select an appropriate strategy for each problem, not just execute one they have already primed. It is typically combined with [spaced repetition](../claims/spaced-practice-improves-retention.md), since interleaved schedules naturally distribute practice over time.
+Interleaving sequences practice so that problems from different categories or skills alternate within a session (A, B, C, A, B, C) instead of appearing in blocks (AAA, BBB, CCC). The mixing forces learners to select an appropriate strategy for each problem, not just execute one they have already primed. It is typically combined with [spaced repetition](../elements/spaced-repetition.md), since interleaved schedules naturally distribute practice over time.
 
 ## Design Implications
 

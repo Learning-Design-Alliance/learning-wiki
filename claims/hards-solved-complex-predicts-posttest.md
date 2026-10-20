@@ -66,5 +66,5 @@ Step-wise linear regression entering pretest first, then the most strongly corre
 - [Downgrading to simpler code after failure on personally hard levels is negatively associated with persistence on an unsolvable task](code-downgrades-negatively-predict-challenge-time.md)
 - [Relative-Hards Solved Complex, a log measure of using complex code on personally difficult levels, predicts time spent on an unsolvable challenge task](relative-hards-solved-complex-predicts-challenge-time.md)
 - [Traditional challenge-navigation measures (level choice, replays, careful retries, hint reading, coding time) did not relate to learning outcomes](traditional-challenge-measures-not-related-to-learning.md) — reports the opposite
-- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md) — related
+- [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — related
 - [Gaming the system in the self-explanation step predicts delayed posttest scores beyond pretest, adding 3 percent of variance](se-gaming-predicts-delayed-posttest.md) — related

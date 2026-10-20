@@ -39,7 +39,7 @@ motivation dominates, so design advice transferred from those contexts points th
 
 ## Subclaims
 
-`q2 i?` A survey of 211 US university learners of Italian, analysed through Dörnyei's L2 Motivational Self System, found a dominant ideal self, with a *multilingual* self also emerging — learners placing Italian inside a broader plural identity rather than treating it as a discrete skill. [→ Ferronato 2026](#ferronato-2026)
+`q2 i?` A survey of 211 US university learners of Italian, analysed through Dörnyei's L2 Motivational Self System, found a dominant ideal self; a small number of responses also suggested a possible *multilingual* self — learners placing Italian inside a broader plural identity rather than treating it as a discrete skill. [→ Ferronato 2026](#ferronato-2026)
 
 `q2 i?` Australian university learners "did not make much reference to instrumental motivation factors, as opposed to their teachers, who mentioned more examples of industries where Italian is in high demand." [→ D'Orazzi & Hajek 2022](#dorazzi-hajek-2022)
 
@@ -53,7 +53,7 @@ Ferronato, M. (2026). Motivation, L2 Selves, and Experience of University Studen
 
 `q2 · cross-sectional self-report survey analysed against an established motivational framework` · `i? · a composition of motives, not an effect size` · `n=211` · `qualitative · r?`
 
-211 university learners of Italian in the United States were surveyed and their responses analysed through the L2 Motivational Self System. The ideal L2 self dominated. A *multilingual* self appeared alongside it, which the standard two-part ideal/ought-to framing does not have a slot for.
+211 university learners of Italian in the United States were surveyed and their responses analysed through the L2 Motivational Self System. The ideal L2 self dominated. A small number of responses suggested the possible emergence of a *multilingual* self (Henry, 2017; Ushioda, 2017); the author says these responses may not be sufficient for stronger claims and that the instrument would need adjusting to investigate it properly.
 
 ### D'Orazzi & Hajek 2022
 

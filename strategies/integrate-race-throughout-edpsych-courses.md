@@ -17,7 +17,7 @@ sources:
 # Integrate race throughout educational psychology courses rather than treating diversity as an afterthought
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The authors encourage educational psychologists to avoid the trap of addressing theories first and adding a small, disconnected diversity section at the end of a chapter or course, which they say marginalizes the very inquiry being promoted. They note increasing inclusion of race and racism readings in syllabi, race-reimaged teaching of introductory courses, and race and diversity chapters in the new Handbook of Educational Psychology.
@@ -39,7 +39,7 @@ The authors encourage educational psychologists to avoid the trap of addressing 
 - Training doctoral students in culturally relevant methodologies such as QuantCrit
 
 ### Affordances
-- [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](../claims/race-reimaging-creates-race-focused-constructs.md)
+- [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](../claims/race-reimaging-creates-race-focused-constructs.md) [+W]
 
 ## Claims
 

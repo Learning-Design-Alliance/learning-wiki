@@ -24,7 +24,9 @@ A California statewide initiative operated by the Santa Clara County Office of E
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Teacher residency model](../products/teacher-residency-model.md): the programme model whose leaders SRTAC supports
+- [Sustain and expand residency pathways through maintained state grant funding, financial aid, apprenticeship structures, and technical assistance](../strategies/policy-strategies-sustain-residency-pathways.md): the report's case for continuing to fund SRTAC
 
 ## Key Sources
 - Yun, C., & Fitz, J. (2025). Successful teacher residencies: What matters and what works. Learning Policy Institute. https://doi.org/10.54300/480.783

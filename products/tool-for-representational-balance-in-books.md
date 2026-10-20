@@ -25,7 +25,9 @@ A 10-criterion rubric created by The Education Trust that guides readers in asse
 
 
 ## Related Products and Programmes
--
+
+- [Six recommendations for publishers and curriculum decision-makers to improve representational balance](../strategies/representational-balance-six-recommendations.md): the same report's recommendations to publishers and curriculum decision-makers
+- [Mirrors, Windows, and Sliding Glass Doors](../strategies/mirrors-windows-and-sliding-glass-doors.md): the reading-as-mirrors-and-windows idea the rubric operationalises
 
 ## Key Sources
 - Tanji Reed Marshall, Ph.D., and William H. Rodick, Ph.D. (2023). The Search for More: Complex Racial and Ethnic Representation in Grade School Books. The Education Trust. https://edtrust.org/booktool

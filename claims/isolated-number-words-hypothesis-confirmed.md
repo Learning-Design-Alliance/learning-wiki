@@ -46,7 +46,7 @@ In the initial structural equation model of the 3-year longitudinal study, phono
 - [Phonological Awareness](../learner-variables/phonological-awareness.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
+- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
 - [QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math](qnc-levels-predict-grade-3-math.md) — related
 - [Kindergarten phonological awareness explains about 34% of the variance in basic numerical skills (QNC Level I) one year later](phonological-awareness-predicts-qnc-level-i.md) — related
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — reports the opposite

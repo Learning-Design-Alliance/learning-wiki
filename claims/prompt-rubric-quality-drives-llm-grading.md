@@ -72,7 +72,7 @@ The review reports, from a single chemistry study in its table, that detailed ru
 | [Olga Manakina 2026](https://doi.org/10.48550/arxiv.2608.23814) | q2 · causal · r1 | i? | [Removing detailed rubric explanations from prompts improved grading accuracy across all ap](simplified-prompts-outperform-detailed-rubrics.md) (counts against) |
 | [Alonso-Carracedo 2026](https://doi.org/10.48550/arxiv.2607.02432) | q2 · causal · r2 | i? | [Rubric-enhanced prompting (Variant 2) raises LLM assigned scores relative to the no-rubric](rubric-prompting-raises-llm-assigned-scores.md) (qualifies) |
 | [Jerin George Mathew 2026](https://doi.org/10.48550/arxiv.2603.23714) | q2 · associational · r2 | i? | [Different LLMs rely on different subsets of rubric traits when assigning essay scores](llms-weight-rubric-traits-differently.md) (qualifies) |
-| [Greene Nolan 2023](https://doi.org/10.51388/20.500.12265/187) | q2 · associational · r2 | i? | [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in](teacher-aes-agree-tails-diverge-middle.md) (qualifies) |
+| [Greene Nolan 2023](https://doi.org/10.51388/20.500.12265/187) | q2 · associational · r2 | i? | [In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and h](teacher-aes-agree-tails-diverge-middle.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

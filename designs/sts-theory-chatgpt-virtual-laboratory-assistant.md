@@ -17,7 +17,7 @@ sources:
 # Sociotechnical Systems Theory frames ChatGPT as a technical support provider interlinked with the social context of the laboratory course
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (2 for, 1 mixed) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article applies Sociotechnical Systems (STS) Theory, which "gives a systems thinking perspective to an entity where people (with their effectiveness and abilities) work towards goals by following specific processes and using technology." In this framing, ChatGPT is a technical component interlinked with the social components (students, instructors, TAs), supporting laboratory engagement through collaborative questioning and increasing participation in active learning, but not directly managing laboratory experiments. The framework positions ChatGPT as "a technical support provider but not as the primary executor of experimental processes."
@@ -38,10 +38,15 @@ The article applies Sociotechnical Systems (STS) Theory, which "gives a systems 
 - active learning through collaborative questioning
 
 ### Claims
-- 
+- [SMEs rated ChatGPT's content accuracy acceptable but inconsistent across questions and significantly below human TAs' accuracy](../claims/chatgpt-lab-accuracy-acceptable-inconsistent-below-human-tas.md) [+M] — supports positioning ChatGPT as support, not a replacement for TAs
+- [Human TAs demonstrated stronger instructor voice, understanding, and helpfulness than AI in responding to student laboratory questions](../claims/human-tas-stronger-teaching-effectiveness-than-chatgpt.md) [+M]
+- [Students rated human TA responses more favorably overall but preferred ChatGPT responses 40% of the time](../claims/students-prefer-human-ta-responses-but-40-percent-prefer-chatgpt.md) [~M]
+
+## Patterns Used
+- [AI Tutoring](../patterns/ai-tutoring.md): ChatGPT answers students' laboratory questions as a technical support component, alongside rather than in place of human TAs
 
 ## Related Designs
-- 
+- [Edit ambiguous student questions into directive prompts](../strategies/edit-ambiguous-student-questions-into-directive-prompts.md) — from the same study
 
 ## Examples
 -

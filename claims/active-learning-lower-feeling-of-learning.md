@@ -33,7 +33,7 @@ sources:
 
 Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1821936116
 
-`q3 · i2` · `causal · r3`
+`q3 · randomized crossover experiment` · `i2 · medium effect, β = −0.56 (0.56 SD lower feeling of learning, p < .001)` · `causal · r3`
 
 Fixed-effects regression (model 1) predicting composite feeling-of-learning z scores in the same randomized crossover experiment (149 students). Students in active classrooms reported "more than half an SD (0.56) lower FOL compared with those in passive lectures"; the outcome is a z score, so 0.56 is a standardized difference (coded `i2`, medium).
 
@@ -46,7 +46,7 @@ Fixed-effects regression (model 1) predicting composite feeling-of-learning z sc
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [Deslauriers L. 2019](https://doi.org/10.1073/pnas.1821936116) | q2 / q3 · causal · r3 | i2; i? | this claim; [Interviewed students described active classrooms as disjointed and frustrating and preferr](interviews-active-classrooms-disjointed-frustrating.md) (supports); [Perceived instructor fluency, not instruction type, predicted students' feeling of learnin](perceived-instructor-fluency-predicts-feeling-of-learning.md) (supports) |
+| [Deslauriers L. 2019](https://doi.org/10.1073/pnas.1821936116) | q2 / q3 · causal · r3 | i2 · medium effect, β = −0.56 (0.56 SD lower feeling of learning, p < .001); i? | this claim; [Interviewed students described active classrooms as disjointed and frustrating and preferr](interviews-active-classrooms-disjointed-frustrating.md) (supports); [Perceived instructor fluency, not instruction type, predicted students' feeling of learnin](perceived-instructor-fluency-predicts-feeling-of-learning.md) (supports) |
 | [Favero 2025](https://doi.org/10.48550/arxiv.2507.06878) | q2 · theoretical · r2 | i? | [Students in active learning environments learned more but felt they learned less, mistakin](active-learning-felt-learning-paradox.md) (supports) |
 | [Carpenter et al. 2013](https://doi.org/10.3758/s13423-013-0442-z) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |
 | [Rhodes & Castel 2008](https://doi.org/10.1037/a0013684) | q3 · causal · r? | i? | [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) (supports) |

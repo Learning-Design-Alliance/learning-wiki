@@ -35,7 +35,7 @@ Mariëtte van Loon, Claudia M. Roebers. (2024). Development of metacognitive mon
 
 `q2 · i?` · `associational · r2`
 
-Latent profile analyses of six z-standardized indicators (monitoring accuracy, effective restudy, decision accuracy for text and Kanji tasks) in 151 second and 176 fourth graders. Three-profile solutions were selected per grade at each time point, "confirming H1" that profiles differ in metacognitive quality.
+Latent profile analyses of six z-standardized indicators (monitoring accuracy, effective restudy, decision accuracy for text and Kanji tasks) among the 151 second and 176 fourth graders who took part at the first measurement point; only children who completed both the text and the Kanji task at a measurement point were included, so each analysis used fewer children than took part. Three-profile solutions were selected per grade at each time point, "confirming H1" that profiles differ in metacognitive quality.
 
 > "In sum, for both age groups and at both time points, identified profiles showed differences in the quality of metacognitive monitoring and control skills (confirming H1)."
 

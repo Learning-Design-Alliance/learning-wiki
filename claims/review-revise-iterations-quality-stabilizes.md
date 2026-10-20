@@ -49,4 +49,4 @@ Analysis of the three review-revise iterations (Table 7) scoring accepted proble
 - [Refinement gains stabilize or decline beyond three iterations, and beam-size gains become negligible beyond two samples](refinement-iterations-and-beam-size-tuning-results.md) — related
 - [Under the same teacher model, AgenticMath outperforms prior data-generation methods, indicating gains arise from framework design rather than teacher strength](agenticmath-gains-not-from-stronger-teacher.md) — related
 - [Beam search-based self-refinement improves simulated solution alignment with predicted student behavior](beam-search-self-refinement-improves-solution-simulation.md) — related
-- [Iterative redesign of a peer-feedback task increased class engagement across three rounds](iterative-task-redesign-increased-engagement.md) — related
+- [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related

@@ -86,12 +86,14 @@ Cross age tutoring is one of the few arrangements that reliably benefits *both* 
 - [Involve cross-age peer tutors in maker-project pedagogical infrastructure](cross-age-peer-tutors-maker-infrastructure.md)
 
 ## Examples
+
 - **Reading Recovery–style buddy reading programs** — upper-elementary students pair with first-graders for repeated timed reading with error correction, a common cross age fluency intervention.
 - **[Cross-Age Tutoring in Success for All](https://www.successforall.org)** — the Success for All reading program incorporates structured cross age tutoring blocks with scripted materials and trained tutors.
 - **[Reading Partners](https://readingpartners.org)** — community volunteers deliver structured one-to-one tutoring; the same session architecture transfers directly to older-student tutors.
 - **Reading Buddies programs** — common in elementary schools, where upper-grade students read with and to early-grade students several times weekly; widely used within [Success for All](https://www.successforall.org) and described by [Reading Rockets](https://www.readingrockets.org/topics/peer-assisted-learning/articles/peer-tutoring)
 - **Peer-Assisted Learning Strategies (PALS)** — [Vanderbilt Kennedy Center](https://vkc.vumc.org/vkc/pals) — though primarily same-age, its cross-age variants pair older elementary tutors with younger readers using structured scripts
 - **Cross-age math tutoring** — middle schoolers tutoring elementary students on computation using task cards, with tutors explaining solution steps before the tutee attempts parallel problems
+- [Organize schools into educational clusters where older students teach younger ones to break the linearity of the system](../strategies/educational-clusters-older-teach-younger.md): Mead's 1971 proposal to co-locate day care through community college so older students teach younger ones (a proposal, not an evaluated programme)
 
 ## Key Sources
 - Cohen, P. A., Kulik, J. A., & Kulik, C.-L. C. (1982). Educational outcomes of tutoring: A meta-analysis of findings. *American Educational Research Journal, 19*(2), 237–248. [doi:10.3102/00028312019002237](https://doi.org/10.3102/00028312019002237)

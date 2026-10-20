@@ -42,6 +42,8 @@ wed in isolation, but must be understood as an interdependent structure which pe
 
 ## Discussion
 
+The chapter's response is to [design adaptive, reflexive structures at macro, meso and micro levels](../strategies/adaptive-reflexive-structures-all-levels.md).
+
 
 ## Related Claims
 - [Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level](policy-claims-macro-meso-dominance.md) — related

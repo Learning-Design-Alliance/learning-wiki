@@ -12277,12 +12277,12 @@
 "type":"claim"
 },
 {
-"description":"AI applications support self-regulated learning regulation but not motivational regulation",
+"description":"Learners perceive AI applications as useful for regulating their learning but not for regulating motivation",
 "evidence_strength":"weak",
 "id":"ai-supports-srl-not-motivation-regulation",
 "path":"claims/ai-supports-srl-not-motivation-regulation.md",
 "status":"review",
-"title":"AI applications support self-regulated learning regulation but not motivational regulation",
+"title":"Learners perceive AI applications as useful for regulating their learning but not for regulating motivation",
 "type":"claim"
 },
 {
@@ -32844,12 +32844,12 @@
 "type":"claim"
 },
 {
-"description":"Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises",
+"description":"Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms a baseline averaged over all possible groupings in both exercises",
 "evidence_strength":"moderate",
 "id":"clustering-ttx-team-assessment-aligns-instructor-scores",
 "path":"claims/clustering-ttx-team-assessment-aligns-instructor-scores.md",
 "status":"review",
-"title":"Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms the random-grouping baseline in both exercises",
+"title":"Clustering of TTX activity logs aligns with instructor-assigned milestone scores and outperforms a baseline averaged over all possible groupings in both exercises",
 "type":"claim"
 },
 {
@@ -34869,12 +34869,12 @@
 "type":"claim"
 },
 {
-"description":"CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0",
+"description":"CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0",
 "evidence_strength":"moderate",
 "id":"coi-presence-uneven-profile-mba",
 "path":"claims/coi-presence-uneven-profile-mba.md",
 "status":"review",
-"title":"CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0",
+"title":"CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0",
 "type":"claim"
 },
 {
@@ -39184,12 +39184,12 @@
 "type":"claim"
 },
 {
-"description":"Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade",
+"description":"Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with effects ranging from negligible to small by grade",
 "evidence_strength":"moderate",
 "id":"content-proximity-math-scores-higher",
 "path":"claims/content-proximity-math-scores-higher.md",
 "status":"review",
-"title":"Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade",
+"title":"Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with effects ranging from negligible to small by grade",
 "type":"claim"
 },
 {
@@ -39490,12 +39490,12 @@
 "type":"claim"
 },
 {
-"description":"With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations",
+"description":"With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations",
 "evidence_strength":"weak",
 "id":"contextual-spacing-effect-survives-orienting-tasks",
 "path":"claims/contextual-spacing-effect-survives-orienting-tasks.md",
 "status":"review",
-"title":"With incidental orienting tasks that eliminate structural encoding, distributed presentations produce better free recall than massed presentations",
+"title":"With incidental orienting tasks that focus processing on individual words and give no incentive to form associations, distributed presentations produce better free recall than massed presentations",
 "type":"claim"
 },
 {
@@ -44537,12 +44537,12 @@
 "type":"claim"
 },
 {
-"description":"Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress",
+"description":"Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress",
 "evidence_strength":"moderate",
 "id":"cscl-groups-mostly-regulate-task-performance",
 "path":"claims/cscl-groups-mostly-regulate-task-performance.md",
 "status":"review",
-"title":"Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress",
+"title":"Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress",
 "type":"claim"
 },
 {
@@ -50954,12 +50954,12 @@
 },
 {
 "aliases":["project-based-course-declarative-gain-only"],
-"description":"Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest",
+"description":"Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest",
 "evidence_strength":"mixed",
 "id":"dinsmore-project-based-declarative-only",
 "path":"claims/dinsmore-project-based-declarative-only.md",
 "status":"review",
-"title":"Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest",
+"title":"Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest",
 "type":"claim"
 },
 {
@@ -65627,12 +65627,12 @@
 "type":"claim"
 },
 {
-"description":"Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.",
+"description":"Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.",
 "evidence_strength":"moderate",
 "id":"expert-poetry-interpretive-strategies",
 "path":"claims/expert-poetry-interpretive-strategies.md",
 "status":"review",
-"title":"Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.",
+"title":"Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.",
 "type":"claim"
 },
 {
@@ -66700,12 +66700,12 @@
 "type":"claim"
 },
 {
-"description":"Frequency of word occurrence is the strongest predictor of incidental vocabulary gains from reading",
+"description":"The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation",
 "evidence_strength":"weak",
 "id":"exposure-frequency-predicts-incidental-gains",
 "path":"claims/exposure-frequency-predicts-incidental-gains.md",
 "status":"review",
-"title":"The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies",
+"title":"The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation",
 "type":"claim"
 },
 {
@@ -69182,7 +69182,7 @@
 "id":"feedback-improves-learning",
 "path":"claims/feedback-improves-learning.md",
 "status":"review",
-"title":"Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance",
+"title":"Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative",
 "type":"claim"
 },
 {
@@ -70302,7 +70302,7 @@
 "id":"fiber-crafting-develops-proportional-reasoning-through-unitizing",
 "path":"claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md",
 "status":"review",
-"title":"Fiber crafting develops proportional reasoning through nested, personally-defined units",
+"title":"Fiber crafting can engage proportional reasoning through nested, personally-defined units",
 "type":"claim"
 },
 {
@@ -76316,12 +76316,12 @@
 "type":"claim"
 },
 {
-"description":"Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work",
+"description":"Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work",
 "evidence_strength":"weak",
 "id":"gbsri-interview-attributions-and-pair-work-discomfort",
 "path":"claims/gbsri-interview-attributions-and-pair-work-discomfort.md",
 "status":"review",
-"title":"Interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work",
+"title":"Most interviewees attributed writing improvement to explicit instruction, scaffolding and collaborative learning, and self-regulated writing, though some felt uncomfortable in pair work",
 "type":"claim"
 },
 {
@@ -81136,12 +81136,12 @@
 "type":"claim"
 },
 {
-"description":"All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.",
+"description":"All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.",
 "evidence_strength":"moderate",
 "id":"gps-wayfinding-actional-immersion-accessible",
 "path":"claims/gps-wayfinding-actional-immersion-accessible.md",
 "status":"review",
-"title":"All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.",
+"title":"All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.",
 "type":"claim"
 },
 {
@@ -82279,12 +82279,12 @@
 "type":"claim"
 },
 {
-"description":"Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present",
+"description":"Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present",
 "evidence_strength":"weak",
 "id":"graph-helpful-harmful-contrasting-cases",
 "path":"claims/graph-helpful-harmful-contrasting-cases.md",
 "status":"review",
-"title":"Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present",
+"title":"Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present",
 "type":"claim"
 },
 {
@@ -83594,12 +83594,12 @@
 "type":"claim"
 },
 {
-"description":"Guided reflection assignments produce roughly twice as much written reflection as free assignments",
+"description":"Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments",
 "evidence_strength":"moderate",
 "id":"guided-reflection-produces-longer-reflections",
 "path":"claims/guided-reflection-produces-longer-reflections.md",
 "status":"review",
-"title":"Guided reflection assignments produce roughly twice as much written reflection as free assignments",
+"title":"Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments",
 "type":"claim"
 },
 {
@@ -85229,7 +85229,7 @@
 "id":"high-confidence-errors-improve-retention",
 "path":"claims/high-confidence-errors-improve-retention.md",
 "status":"review",
-"title":"High-confidence errors lead to better retention after correction than low-confidence errors.",
+"title":"High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.",
 "type":"claim"
 },
 {
@@ -93106,12 +93106,12 @@
 "type":"claim"
 },
 {
-"description":"Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter",
+"description":"Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter",
 "evidence_strength":"moderate",
 "id":"instruction-positive-effect-peaks-then-diminishes",
 "path":"claims/instruction-positive-effect-peaks-then-diminishes.md",
 "status":"review",
-"title":"Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter",
+"title":"Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter",
 "type":"claim"
 },
 {
@@ -96177,12 +96177,12 @@
 "type":"claim"
 },
 {
-"description":"ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall",
+"description":"ISHS attendance is associated with 75 to 80 percent higher odds of economically disadvantaged students entering a Texas four-year college, with no significant college-entry difference for students overall",
 "evidence_strength":"moderate",
 "id":"ishs-four-year-entry-economically-disadvantaged",
 "path":"claims/ishs-four-year-entry-economically-disadvantaged.md",
 "status":"review",
-"title":"ISHS attendance increases the odds of economically disadvantaged students entering a Texas four-year college by 75 to 80 percent, with no significant college-entry effect for students overall",
+"title":"ISHS attendance is associated with 75 to 80 percent higher odds of economically disadvantaged students entering a Texas four-year college, with no significant college-entry difference for students overall",
 "type":"claim"
 },
 {
@@ -96583,12 +96583,12 @@
 "type":"claim"
 },
 {
-"description":"Iterative redesign of a peer-feedback task increased class engagement across three rounds",
+"description":"In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class",
 "evidence_strength":"weak",
 "id":"iterative-task-redesign-increased-engagement",
 "path":"claims/iterative-task-redesign-increased-engagement.md",
 "status":"review",
-"title":"Iterative redesign of a peer-feedback task increased class engagement across three rounds",
+"title":"In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class",
 "type":"claim"
 },
 {
@@ -100467,12 +100467,12 @@
 "type":"claim"
 },
 {
-"description":"Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms",
+"description":"Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms",
 "evidence_strength":"weak",
 "id":"lack-of-practice-teacher-centered-anxiety",
 "path":"claims/lack-of-practice-teacher-centered-anxiety.md",
 "status":"review",
-"title":"Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms",
+"title":"Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms",
 "type":"claim"
 },
 {
@@ -108945,12 +108945,12 @@
 "type":"claim"
 },
 {
-"description":"Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format",
+"description":"Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format",
 "evidence_strength":"moderate",
 "id":"lower-baseline-self-efficacy-greater-learning-gains",
 "path":"claims/lower-baseline-self-efficacy-greater-learning-gains.md",
 "status":"review",
-"title":"Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format",
+"title":"Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format",
 "type":"claim"
 },
 {
@@ -129530,12 +129530,12 @@
 "type":"claim"
 },
 {
-"description":"Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams",
+"description":"Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team",
 "evidence_strength":"weak",
 "id":"off-task-more-common-in-larger-making-teams",
 "path":"claims/off-task-more-common-in-larger-making-teams.md",
 "status":"review",
-"title":"Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams",
+"title":"Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team",
 "type":"claim"
 },
 {
@@ -131467,12 +131467,12 @@
 "type":"claim"
 },
 {
-"description":"Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring",
+"description":"In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest",
 "evidence_strength":"moderate",
 "id":"optimal-challenge-sustains-gaming-engagement",
 "path":"claims/optimal-challenge-sustains-gaming-engagement.md",
 "status":"review",
-"title":"Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring",
+"title":"In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest",
 "type":"claim"
 },
 {
@@ -132134,12 +132134,12 @@
 "type":"claim"
 },
 {
-"description":"Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes",
+"description":"Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality",
 "evidence_strength":"moderate",
 "id":"outcome-oriented-causal-conception",
 "path":"claims/outcome-oriented-causal-conception.md",
 "status":"review",
-"title":"Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes",
+"title":"Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality",
 "type":"claim"
 },
 {
@@ -139542,12 +139542,12 @@
 "type":"claim"
 },
 {
-"description":"Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware",
+"description":"Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated",
 "evidence_strength":"moderate",
 "id":"pidgin-fine-tuning-improves-linguistic-alignment",
 "path":"claims/pidgin-fine-tuning-improves-linguistic-alignment.md",
 "status":"review",
-"title":"Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware",
+"title":"Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated",
 "type":"claim"
 },
 {
@@ -139587,12 +139587,12 @@
 "type":"claim"
 },
 {
-"description":"Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings",
+"description":"Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)",
 "evidence_strength":"moderate",
 "id":"pilot-efa-four-factor-solution",
 "path":"claims/pilot-efa-four-factor-solution.md",
 "status":"review",
-"title":"Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings",
+"title":"Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)",
 "type":"claim"
 },
 {
@@ -146198,12 +146198,12 @@
 "type":"claim"
 },
 {
-"description":"Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts",
+"description":"Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts",
 "evidence_strength":"moderate",
 "id":"procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts",
 "path":"claims/procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts.md",
 "status":"review",
-"title":"Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts",
+"title":"Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts",
 "type":"claim"
 },
 {
@@ -149686,12 +149686,12 @@
 "type":"claim"
 },
 {
-"description":"Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing",
+"description":"Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing",
 "evidence_strength":"mixed",
 "id":"public-vs-private-reflection-mixed",
 "path":"claims/public-vs-private-reflection-mixed.md",
 "status":"review",
-"title":"Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing",
+"title":"Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing",
 "type":"claim"
 },
 {
@@ -154423,12 +154423,12 @@
 "type":"claim"
 },
 {
-"description":"Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge",
+"description":"Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge",
 "evidence_strength":"moderate",
 "id":"reflective-thinking-correlates-epistemological-beliefs",
 "path":"claims/reflective-thinking-correlates-epistemological-beliefs.md",
 "status":"review",
-"title":"Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge",
+"title":"Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge",
 "type":"claim"
 },
 {
@@ -154550,12 +154550,12 @@
 "type":"claim"
 },
 {
-"description":"More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence",
+"description":"Learners with more misconceptions made more overconfident comprehension predictions after a standard text with a misconception list, an association not seen with refutation texts or think sheets",
 "evidence_strength":"moderate",
 "id":"refutation-text-think-sheet-counteract-comprehension-overconfidence",
 "path":"claims/refutation-text-think-sheet-counteract-comprehension-overconfidence.md",
 "status":"review",
-"title":"More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence",
+"title":"Learners with more misconceptions made more overconfident comprehension predictions after a standard text with a misconception list, an association not seen with refutation texts or think sheets",
 "type":"claim"
 },
 {
@@ -157047,12 +157047,12 @@
 "type":"claim"
 },
 {
-"description":"As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease",
+"description":"In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it",
 "evidence_strength":"weak",
 "id":"retention-transfer-scores-decrease-with-element-interactivity",
 "path":"claims/retention-transfer-scores-decrease-with-element-interactivity.md",
 "status":"review",
-"title":"As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease",
+"title":"In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it",
 "type":"claim"
 },
 {
@@ -159730,12 +159730,12 @@
 "type":"claim"
 },
 {
-"description":"The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance",
+"description":"Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load",
 "evidence_strength":"weak",
 "id":"rubric-benefits-independent-of-task-performance",
 "path":"claims/rubric-benefits-independent-of-task-performance.md",
 "status":"review",
-"title":"The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance",
+"title":"Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load",
 "type":"claim"
 },
 {
@@ -167601,12 +167601,12 @@
 "type":"claim"
 },
 {
-"description":"SES effect sizes vary by SES indicator type, outcome type, grade level, and study year",
+"description":"SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes",
 "evidence_strength":"weak",
 "id":"ses-effect-moderators-indicator-outcome-grade-year",
 "path":"claims/ses-effect-moderators-indicator-outcome-grade-year.md",
 "status":"review",
-"title":"SES effect sizes vary by SES indicator type, outcome type, grade level, and study year",
+"title":"SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes",
 "type":"claim"
 },
 {
@@ -168205,12 +168205,12 @@
 "type":"claim"
 },
 {
-"description":"Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output",
+"description":"In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task",
 "evidence_strength":"moderate",
 "id":"sft-less-effective-than-prompting-for-feedback-generation",
 "path":"claims/sft-less-effective-than-prompting-for-feedback-generation.md",
 "status":"review",
-"title":"Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output",
+"title":"In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task",
 "type":"claim"
 },
 {
@@ -172564,12 +172564,12 @@
 "type":"claim"
 },
 {
-"description":"Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold",
+"description":"Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold",
 "evidence_strength":"moderate",
 "id":"socratic-more-attempts-many-never-reach-mastery",
 "path":"claims/socratic-more-attempts-many-never-reach-mastery.md",
 "status":"review",
-"title":"Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold",
+"title":"Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold",
 "type":"claim"
 },
 {
@@ -183589,12 +183589,12 @@
 "type":"claim"
 },
 {
-"description":"Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)",
+"description":"Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = -0.39)",
 "evidence_strength":"weak",
 "id":"swpbis-reduces-grade-retention-skilled",
 "path":"claims/swpbis-reduces-grade-retention-skilled.md",
 "status":"review",
-"title":"Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)",
+"title":"Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = -0.39)",
 "type":"claim"
 },
 {
@@ -185984,12 +185984,12 @@
 "type":"claim"
 },
 {
-"description":"Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3",
+"description":"In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3",
 "evidence_strength":"moderate",
 "id":"teacher-aes-agree-tails-diverge-middle",
 "path":"claims/teacher-aes-agree-tails-diverge-middle.md",
 "status":"review",
-"title":"Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3",
+"title":"In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3",
 "type":"claim"
 },
 {
@@ -191849,12 +191849,12 @@
 "type":"claim"
 },
 {
-"description":"Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear",
+"description":"Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear",
 "evidence_strength":"mixed",
 "id":"three-oer-competencies-depend-on-education-level",
 "path":"claims/three-oer-competencies-depend-on-education-level.md",
 "status":"review",
-"title":"Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear",
+"title":"Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear",
 "type":"claim"
 },
 {
@@ -194236,12 +194236,12 @@
 "type":"claim"
 },
 {
-"description":"Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users",
+"description":"Training improved accuracy in every digital-forensics experience group and most generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users",
 "evidence_strength":"mixed",
 "id":"training-gains-across-experience-levels-largest-for-novices",
 "path":"claims/training-gains-across-experience-levels-largest-for-novices.md",
 "status":"review",
-"title":"Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users",
+"title":"Training improved accuracy in every digital-forensics experience group and most generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users",
 "type":"claim"
 },
 {
@@ -200868,12 +200868,12 @@
 "type":"claim"
 },
 {
-"description":"Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly",
+"description":"Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly",
 "evidence_strength":"moderate",
 "id":"visuospatial-sketchpad-predicts-higher-qnc",
 "path":"claims/visuospatial-sketchpad-predicts-higher-qnc.md",
 "status":"review",
-"title":"Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly",
+"title":"Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly",
 "type":"claim"
 },
 {

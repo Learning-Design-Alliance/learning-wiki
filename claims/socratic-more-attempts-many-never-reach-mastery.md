@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold"
-description: "Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold"
+title: "Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold"
+description: "Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold"
 id: socratic-more-attempts-many-never-reach-mastery
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold
+# Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of the exercises of Socratic participants who abandoned the dialogue mid-way never reached the threshold
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
@@ -35,7 +35,7 @@ Alexandre Clin Deffarges, Nataliya Kosmyna, and Pattie Maes. (2026). Socrates we
 
 `q2 · i3` · `causal · r2`
 
-Comparison of attempts to reach the 80% mastery threshold during training, excluding Mode 3 where the adaptive system redirects to sub-questions after incorrect answers. The printed effect size is d = -2.01, described as a "very large effect"; the authors also report 58% of Socratic exercises abandoned mid-way never reached the threshold.
+Comparison of attempts to reach the 80% mastery threshold during training, excluding Mode 3 where the adaptive system redirects to sub-questions after incorrect answers. The printed effect size is d = -2.01, described as a "very large effect"; the authors also report that 58% of the exercises of participants in Socratic Mode who abandoned the dialogue mid-way never reached the threshold.
 
 > "Socratic participants required nearly twice as many attempts (𝑀= 2.80,𝑆𝐷= 0.73) as Full participants (𝑀= 1.46,𝑆𝐷= 0.59); Welch's𝑡=− 5.865,𝑝<. 0001,𝑑=− 2.01(very large effect)."
 

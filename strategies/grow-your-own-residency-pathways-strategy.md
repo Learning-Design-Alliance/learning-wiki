@@ -68,7 +68,7 @@ The report describes GYO programs that "recruit local community members into tea
 - [Program-leader recommendations for strengthening teacher apprenticeship experiences](rtap-program-leader-recommendations.md)
 
 ## Examples
--
+- [California Classified School Employee Teacher Credentialing Program](../products/california-classified-school-employee-teacher-credentialing-program-grow-your-own.md) — state funding for tuition reimbursement of classified staff becoming teachers
 
 ## Key Sources
 - Carver-Thomas, D., Burns, D., Leung, M., & Ondrasek, N. (2022). Teacher shortages during the pandemic: How California districts are responding. Learning Policy Institute. https://doi.org/10.54300/899.809

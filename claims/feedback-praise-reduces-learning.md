@@ -115,7 +115,7 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 
 - [Feedback Most Effective At Task And Process Levels](feedback-most-effective-at-task-and-process-levels.md) — the general claim this finding bears on, with the studies behind it
 
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Assessment for learning improves achievement.](assessment-for-learning-improves-achievement.md) — the informational alternative: feedback that tells learners how to improve.
 - [Autonomy supports intrinsic motivation.](autonomy-supports-intrinsic-motivation.md) — the motivational mechanism through which controlling praise backfires.

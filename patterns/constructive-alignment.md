@@ -226,6 +226,9 @@ The article's central design recommendation is that practice should be built int
 - [Practice Presence Raises Cbi Posttest Achievement](../claims/practice-presence-raises-cbi-posttest-achievement.md) [+M]
 - [Single Event Removal No Achievement Effect](../claims/single-event-removal-no-achievement-effect.md) [~M]
 
+## Examples
+- [Assessment Design Matrix (ADM) for ICT tertiary education](../designs/assessment-design-matrix-adm.md) — competencies inform strategy choice, strategies guide method choice
+
 ## Related Principles
 - 
 

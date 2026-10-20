@@ -36,7 +36,7 @@ LVN treats it as an essential part of arithmetic proficiency in primary school a
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+W] — instruction changes it
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+W] — instruction changes it
 - [Learning is effective when it builds on children's existing knowledge in real-world contexts, and early fraction foundations matter because many older children struggle with rational numbers](../claims/early-fraction-foundations-given-rational-number-difficulty.md) [+W] — learners who differ on it differ in outcomes
 - [Spontaneous break-apart-make-ten strategy use is associated with stronger multiplicative double-counting reasoning](../claims/spontaneous-additive-strategy-relates-to-multiplicative-reasoning.md) [+W] — learners who differ on it differ in outcomes
 - [Student errors on underestimated fraction items reflect systematic misconception patterns rather than random error](../claims/fraction-errors-systematic-misconception-patterns.md) [+M] — learners who differ on it differ in outcomes

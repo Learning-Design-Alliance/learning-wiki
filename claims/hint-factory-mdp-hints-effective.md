@@ -9,10 +9,10 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 sources:
-  - id: kenneth-r-koedinger-2012
-    resource: "http://learnlab.org/datashop"
-    title: "Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop"
-    author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
+  - id: kenneth-r-koedinger-2013
+    resource: "https://doi.org/10.1609/aimag.v34i3.2484"
+    title: "Koedinger, K. R., Brunskill, E., Baker, R. S. J. d., McLaughlin, E. A., & Stamper, J. (2013). New potentials for data-driven intelligent tutoring system development and optimization. *AI Magazine, 34*(3), 27–41. [doi:10.1609/aimag.v34i3.2484](https://doi.org/10.1609/aimag.v34i3.2484)"
+    author: "Koedinger, K. R., Brunskill, E., Baker, R. S. J. d., McLaughlin, E. A., & Stamper, J."
     q: 2
     i: "?"
     kind: review
@@ -25,17 +25,17 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Extracted MDPs from historical student data provided correct next-step hints over 80% of the time, and augmenting a propositional logic tutor with the Hint Factory increased the number of proof problems students solved. [→ Kenneth R. Koedinger 2012](#kenneth-r-koedinger-2012)
+`q2 i?` As reported in this review of Barnes and Stamper (2008), extracted MDPs from historical student data provided correct next-step hints over 80% of the time, and augmenting a propositional logic tutor with the Hint Factory increased the number of proof problems students solved. [→ Kenneth R. Koedinger 2013](#kenneth-r-koedinger-2013)
 
 ## Evidence
 
-### Kenneth R. Koedinger 2012
+### Kenneth R. Koedinger 2013
 
-Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper. (2012). New Potentials for Data-Driven Intelligent Tutoring System Development and Optimization. http://learnlab.org/datashop
+Koedinger, K. R., Brunskill, E., Baker, R. S. J. d., McLaughlin, E. A., & Stamper, J. (2013). New potentials for data-driven intelligent tutoring system development and optimization. *AI Magazine, 34*(3), 27–41. [doi:10.1609/aimag.v34i3.2484](https://doi.org/10.1609/aimag.v34i3.2484)
 
 `q2 · i?` · `review · r2`
 
-Feasibility demonstration on historical student attempt data, reported in this article as Barnes and Stamper (2008): extracted MDPs "could provide correct next-step hints towards the problem solution over 80% of the time". A pilot study augmenting a logic tutor showed students solved more proof problems with hints included.
+Secondary report: this review article describes Barnes and Stamper (2008), whose feasibility demonstration on historical student attempt data found that extracted MDPs "could provide correct next-step hints towards the problem solution over 80% of the time". In a pilot study, also by Barnes and Stamper, augmenting a logic tutor with the Hint Factory let students solve more proof problems when hints were included. This article gives no figures for the pilot.
 
 > "Barnes and Stamper (2008) demonstrated the feasibility of this approach on historical data, showing that extracted MDPs with the proposed hint-generating functions could provide correct next-step hints towards the problem solution over 80% of the time."
 

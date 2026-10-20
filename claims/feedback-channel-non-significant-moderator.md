@@ -41,6 +41,6 @@ Mixed-effects moderator analysis across 994 effect sizes (Tables 2–3); feedbac
 
 ## Related Claims
 
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Corrective feedback on second-language errors has a significant effect on L2 development that is maintained on delayed tests](corrective-feedback-effect-on-l2-development-is-significant-and-durable.md) — related
 - [SCMC interaction shows a small, non-significant advantage over FTF on overall L2 learning outcomes](scmc-small-advantage-overall-l2-outcomes.md) — related

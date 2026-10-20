@@ -16,7 +16,7 @@ sources:
 # Similarity account: first and adult second language acquisition are neither wholly identical nor wholly different, but similar
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q2` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article proposes that adult second language acquisition resembles child first language acquisition in key respects without being identical to it. It states that "Both successful adults and children appear to have very similar linguistic motivation, neural apparatus, amount of time for language contact, stages of language acquisition, and causes for linguistic errors." The account emerged from the Brigham Young University Hawaii research, which led the author to re-evaluate the extreme claim that the two kinds of acquisition are identical, while also finding the claim that they are wholly different wanting. It underpins the paper's recommendation to plan courses situationally rather than grammatically.

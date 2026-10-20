@@ -45,5 +45,5 @@ The same growth curve analysis of the eye-tracking reading data showed that "tot
 ## Related Claims
 - [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](s-shaped-reading-time-decrease-repeated-exposure.md) — related
 - [Number of exposures was the strongest predictor of incidental vocabulary learning of both word form and meaning](exposure-frequency-strongest-predictor-vocabulary-learning.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related

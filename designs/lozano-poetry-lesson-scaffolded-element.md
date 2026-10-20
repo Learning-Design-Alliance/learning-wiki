@@ -17,7 +17,7 @@ sources:
 # 1st/2nd grade poetry-analysis lesson with differentiated poem sets and scaffolded edge learning
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 An early elementary lesson example, inspired by a lesson taught by Olivia Lozano at the UCLA Lab School, in which 1st and 2nd grade English learners and monolingual peers analyze poetic devices such as rhyme and repeated line. Students receive "sets of poems of varying complexity," first work through a sample poem with the teacher, then analyze independently with teacher conferences and peer feedback. The brief notes scaffolding "supports students to work at the edge of their competencies" and that learning would not have been supported had the teacher analyzed the poem for the whole class.
@@ -37,7 +37,9 @@ An early elementary lesson example, inspired by a lesson taught by Olivia Lozano
 - Identifying and describing grade-level poetic devices while developing language in context
 
 ### Claims
+
 - Temporary Contingent Scaffolding Principle [+M]
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](../claims/expert-poetry-interpretive-strategies.md) [+W]
 
 ## Related Designs
 - 

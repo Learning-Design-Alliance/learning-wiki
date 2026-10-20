@@ -46,6 +46,7 @@ The report recommends states: build higher education capacity for a diverse work
 - [Four-part state policy agenda: coherent administration, universal affordability, a well-qualified workforce, and quality improvement for all programs](california-ece-four-part-policy-agenda.md)
 - [Build high-retention, supportive pathways into teaching for candidates of color](high-retention-supportive-pathways-teachers-of-color.md)
 - [Six state policy recommendations to stabilize, support, and expand the early childhood workforce and build diverse TK pathways](six-state-recommendations-tk-workforce.md)
+- [Six common features of promising early educator preparation models](../designs/common-features-promising-ece-preparation-models.md) — the programme features the policy steps would support
 
 ## Examples
 -

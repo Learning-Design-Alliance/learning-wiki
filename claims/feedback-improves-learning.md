@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance"
+title: "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative"
 status: review
 generated:
   by: claude/unspecified
@@ -29,7 +29,7 @@ sources:
     rigour: 2
 ---
 
-# Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance
+# Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
@@ -41,7 +41,7 @@ Information provided to learners about their performance or understanding can im
 
 `q4 i2` On average, feedback improves student learning by a medium amount (d = 0.48 across 435 studies), but the effects vary widely, and the size depends on how much information the feedback carries: reinforcement or punishment d = 0.24, corrective feedback d = 0.46, high-information feedback d = 0.99. [→ Wisniewski et al. 2020](#wisniewski-et-al-2020)
 
-`q4 i2` Feedback interventions improve performance on average (d = .41), but more than a third of them made performance worse, and they work less well the more they turn the learner's attention away from the task and toward the self. [→ Kluger & DeNisi 1996](#kluger-denisi-1996)
+`q4 i2` Feedback interventions improve performance on average (d = .41), but over 38% of the 607 effect sizes were negative, and the authors' theory, tested with moderator analyses across laboratory and field tasks, holds that feedback works less well the more it turns the recipient's attention away from the task and toward the self. [→ Kluger & DeNisi 1996](#kluger-denisi-1996)
 
 `q4 i2` A meta-analysis of 435 studies (k=994 effect sizes, N>61,000) finds a medium overall effect of feedback on student learning (d=0.48), but the pooled effect masks large heterogeneity by feedback type and outcome domain — feedback is not a single consistent treatment. [→ Wisniewski et al. 2020](#wisniewski-et-al-2020)
 
@@ -55,7 +55,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 
 `q4 · random-effects meta-analysis` · `i2 · medium effect, d=0.48` · `n=435 studies (k=994 effects, N>61,000)` · `quant-synthesis · r2`
 
-A random-effects meta-analysis of empirical studies of feedback on student learning in education, drawn from the studies behind earlier meta-analyses. The overall effect was medium (d = 0.48), but heterogeneity was large, so the authors argue that feedback should not be treated as a single intervention. The most important moderator was how much information the feedback carried: reinforcement or punishment gave d = 0.24 [0.06–0.43], corrective feedback d = 0.46 [0.39–0.55], and high-information feedback, which adds information about self-regulation, d = 0.99 [0.82–1.15]. Effects were larger on cognitive (d = 0.51) and motor-skill (d = 0.63) outcomes than on motivational ones (d = 0.33).
+A random-effects meta-analysis of empirical studies of feedback on student learning in education, drawn from the studies behind earlier meta-analyses. The overall effect was medium (d = 0.48), but heterogeneity was large, so the authors argue that feedback should not be treated as a single intervention. The most important moderator was how much information the feedback carried: reinforcement or punishment gave d = 0.24 [0.06–0.43], corrective feedback d = 0.46 [0.39–0.55], and high-information feedback, which adds information about self-regulation, d = 0.99 [0.82–1.15]. Effects were larger on cognitive (d = 0.51) and motor-skill (d = 0.63) outcomes than on motivational ones (d = 0.33). 17% of the effects were negative, fewer than the "about a third" the authors note for Kluger and DeNisi (1996).
 
 <!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from feedback-use-improves-learning; same citation and DOI (Crossref: "The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research", Wisniewski 2020). Its note that Kluger & DeNisi (1996) could not be read is out of date: that study is now an entry on this page.
 ### Wisniewski Zierer Hattie 2020
@@ -73,7 +73,7 @@ Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on per
 
 `q4 · meta-analysis` · `i2 · medium effect, d=.41` · `n=607 effect sizes (23,663 observations)` · `quant-synthesis · r2`
 
-A meta-analysis of feedback interventions on task performance in laboratory and field settings, not only in education. On average, feedback improved performance (d = .41), but more than a third of the interventions reduced performance, and sampling error or whether the feedback was positive or negative did not explain this. The authors' feedback intervention theory, tested with moderator analyses, proposes that feedback becomes less effective as it pulls the learner's attention away from the task and toward the self. This is a strong qualification of the general claim.
+A meta-analysis of feedback interventions on task performance in laboratory and field settings, not only in education. On average, feedback improved performance (d = .41), but over 38% of the 607 effect sizes were negative, and sampling error or whether the feedback was positive or negative did not explain this. The authors' feedback intervention theory, tested with moderator analyses across these task-performance settings, proposes that feedback becomes less effective as it pulls the recipient's attention away from the task and toward the self. This is a strong qualification of the general claim.
 
 <!-- merged 2026-10-15 from fi-meta-analysis-mean-d-41-over-38-percent-negative: that page's entry for this study, which differed from the one above, kept verbatim.
 ### Kluger 1996

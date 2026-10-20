@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts
-description: Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts
+title: Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts
+description: Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts
 id: procedural-memory-predicts-regular-past-ugjt-metalinguistic-prompts
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Procedural memory predicts immediate UGJT posttest gains for regular past tense only under metalinguistic prompts
+# Procedural memory predicts immediate regular-past-tense UGJT posttest scores, controlling for pretest, only under metalinguistic prompts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2` · `i2` medium

@@ -66,7 +66,7 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Manu Kapur 2016](https://doi.org/10.1080/00461520.2016.1155457) | q2 / q3 · theoretical · r3 | i? | this claim; [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) (qualifies) |
-| [Clark 2010](https://doi.org/10.48550/arxiv.1009.0260) | q2 · associational · r2 | i? | [Direct instruction on forces produces a significant positive effect on Newton's Third Law ](instruction-positive-effect-peaks-then-diminishes.md) (supports) |
+| [Clark 2010](https://doi.org/10.48550/arxiv.1009.0260) | q2 · associational · r2 | i? | [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at](instruction-positive-effect-peaks-then-diminishes.md) (supports) |
 | Raafat Gabriel 2009 | q2 · review · r2 | i? | [Explicit teaching is more effective for EFL copular be learning but its effect is not dura](explicit-teaching-effective-but-not-durable.md) (supports) |
 <!-- synthesis:end -->
 
@@ -82,6 +82,6 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 - [Preceding high guidance with low guidance conferred no advantage for children's CVS learning](no-advantage-low-before-high-guidance.md) — related
 - [Neither the quantity nor the quality of PF students' own solution attempts correlated with their conceptual knowledge acquisition](solution-attempts-not-correlated-with-conceptual-knowledge.md) — related
 - [Traditional instruction is more effective than PBL for short-term retention as measured by standardized board exams](traditional-instruction-short-term-retention-board-exams.md) — related
-- [Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — a narrower finding that bears on this claim
+- [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](instruction-positive-effect-peaks-then-diminishes.md) — a narrower finding that bears on this claim
 - [Direct instruction may create a lock-in that constrains search for novel solutions](direct-instruction-lock-in-constrains-exploration.md) — related
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related

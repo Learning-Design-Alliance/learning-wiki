@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` Absolute accuracy improved over time (main effect of time, ηp2 = .234) and differed strongly across quartiles (ηp2 = .54), with no time-by-quartile interaction. [→ de Bruin 2017](#de-bruin-2017)
+`q3 i3` The signed prediction-minus-exam-score difference (the paper's "absolute accuracy") decreased over time (main effect of time, ηp2 = .234) and differed strongly across quartiles (ηp2 = .54), with no time-by-quartile interaction; this brought the overconfident lower quartiles closer to their scores but left the underconfident top quartile slightly more underconfident (−0.80 to −1.03). [→ de Bruin 2017](#de-bruin-2017)
 
 ## Evidence
 

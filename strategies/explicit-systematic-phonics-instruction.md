@@ -43,7 +43,7 @@ Phonics instruction is one of the most consistently supported findings in educat
 - Instruction that is "systematic" but implicit (expecting children to induce patterns from exposure) is markedly less effective than explicit teaching [-M]
 - Overly long, whole-class drill for children who have already mastered the correspondences wastes instructional time and can dampen motivation [~M]
 - For typically developing readers, benefits are strongest in kindergarten through first grade and diminish thereafter; older struggling readers need morphological and multisyllabic word instruction more than single-letter phonics [~S]
-- Phonics instruction improves decoding and word reading but shows weaker, less consistent effects on comprehension and vocabulary in isolation [Ehri et al. found effects on comprehension were smaller and less durable than effects on word reading.](https://doi.org/10.1598/RRQ.36.3.2) [~S] — it must be paired with rich oral language and comprehension work
+- Phonics instruction improves decoding and word reading but shows weaker, less consistent effects on comprehension and vocabulary in isolation [Ehri et al. found effects on comprehension were smaller and less durable than effects on word reading.](https://doi.org/10.3102/00346543071003393) [~S] — it must be paired with rich oral language and comprehension work
 - Effects diminish once readers are past the early grades; phonics-only remediation for older struggling readers rarely closes gaps alone [Castles, Rastle, and Nation argue that phonics is necessary but insufficient beyond the alphabetic phase.](https://doi.org/10.1177/1529100618772271) [~M]
 - Overly long, decontextualized drill on isolated sounds without application to real reading wastes instructional time and can depress motivation [-W]
 - English orthography is partially irregular; programs that treat it as fully transparent or that teach rare correspondences early create confusion [~W]
@@ -138,7 +138,7 @@ Explicit systematic phonics teaches letter–sound correspondences directly and 
 
 ## Design Implications
 
-Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest gains for struggling readers [Ehri et al.'s meta-analysis found systematic phonics outperformed unsystematic and non-phonics comparison instruction.](https://doi.org/10.1598/RRQ.36.3.2) [+S]. The goal is automatic word recognition: once decoding is automatic, attentional resources are freed for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction must therefore build toward fluency, not just accuracy — each new correspondence needs cumulative review and repeated application until decoding is effortless ([Automaticity](../elements/automaticity.md)).
+Systematic phonics instruction produces reliably stronger word-reading outcomes than non-systematic or incidental approaches, with the largest gains for struggling readers [Ehri et al.'s meta-analysis found systematic phonics outperformed unsystematic and non-phonics comparison instruction.](https://doi.org/10.3102/00346543071003393) [+S]. The goal is automatic word recognition: once decoding is automatic, attentional resources are freed for comprehension [Automatic word recognition frees cognitive resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]. Instruction must therefore build toward fluency, not just accuracy — each new correspondence needs cumulative review and repeated application until decoding is effortless ([Automaticity](../elements/automaticity.md)).
 
 ### Context
 #### Requirements
@@ -148,7 +148,7 @@ Systematic phonics instruction produces reliably stronger word-reading outcomes 
 - Short, frequent sessions with cumulative review of previously taught patterns
 
 #### Constraints
-- Phonics instruction improves decoding and word reading but shows weaker, less consistent effects on comprehension and vocabulary in isolation [Ehri et al. found effects on comprehension were smaller and less durable than effects on word reading.](https://doi.org/10.1598/RRQ.36.3.2) [~S] — it must be paired with rich oral language and comprehension work
+- Phonics instruction improves decoding and word reading but shows weaker, less consistent effects on comprehension and vocabulary in isolation [Ehri et al. found effects on comprehension were smaller and less durable than effects on word reading.](https://doi.org/10.3102/00346543071003393) [~S] — it must be paired with rich oral language and comprehension work
 - Effects diminish once readers are past the early grades; phonics-only remediation for older struggling readers rarely closes gaps alone [Castles, Rastle, and Nation argue that phonics is necessary but insufficient beyond the alphabetic phase.](https://doi.org/10.1177/1529100618772271) [~M]
 - Overly long, decontextualized drill on isolated sounds without application to real reading wastes instructional time and can depress motivation [-W]
 - English orthography is partially irregular; programs that treat it as fully transparent or that teach rare correspondences early create confusion [~W]

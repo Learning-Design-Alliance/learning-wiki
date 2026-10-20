@@ -26,6 +26,7 @@ My Math Academy is a game-based adaptive mathematics learning platform for pre-K
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Adaptive game design pattern](../designs/mma-adaptive-game-design-pattern.md): game activities mapped to learning objectives, with adaptivity within games, between games and across the system
 
 ### Claims
 

@@ -17,7 +17,7 @@ sources:
 # Statewide induction support for early-career leaders via mentoring, coaching, and cohort learning
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Ten states operate initiatives specifically targeting early-career leaders, six focused exclusively on induction into the principalship and four covering other roles such as the assistant principalship. Programs pair new leaders with experienced mentors (e.g., Idaho's twice-monthly calls and two site visits per quarter), provide cohort-based seminars and coaching (Hawaii's 2-year New Principal Academy), and build networks. The report notes 23 states required early-career principal induction as of 2021, and that state programs can supplement or substitute where districts provide none.
@@ -43,6 +43,11 @@ Ten states operate initiatives specifically targeting early-career leaders, six 
 
 ### Claims
 - Six Functions State Leadership Initiatives [+M]
+- [State leadership initiatives most commonly take the form of cohort-based academies or institutes serving principals, with other roles served less often](../claims/initiative-forms-and-roles-served.md) [~M]
+- [At least 26 states supported ongoing statewide leadership development initiatives for in-service leaders as of 2022–23](../claims/26-states-statewide-leadership-initiatives.md) [~M]
+
+## Patterns Used
+- [Mentoring and Coaching](../principles/mentoring-and-coaching.md): new principals paired with experienced mentors through regular calls and site visits, alongside cohort seminars and coaching
 
 ## Related Designs
 - 

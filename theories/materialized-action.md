@@ -36,7 +36,7 @@ Constructionism holds that learners deepen understanding by building external ar
 
 ## Claims
 
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
 - [Computation in fabric manipulation is characterized as speculative physical 3D modeling](../claims/fabric-manipulation-speculative-3d-modeling.md) [+W] — attached 2026-10-18 from Anna Keune (2022), which proposed "Material syntonicity: ongoing physical intra-action with materials shapes what can be learned computationally".
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](../claims/weaving-algorithm-one-dimension-at-a-time.md) [+W]
 - [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](../claims/human-material-collaboration-fibre-craft-algorithms.md) [+W]

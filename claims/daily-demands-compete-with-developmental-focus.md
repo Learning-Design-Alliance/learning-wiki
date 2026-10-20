@@ -35,7 +35,7 @@ Stevens, W. D., with Kahne, J. (2006). Professional Communities and Instructiona
 
 `q2 · i?` · `qualitative · r2`
 
-Across interviews in seven CHSRI schools, teachers attributed the rarity of developmental practices to daily work demands. One teacher explained, "I think that we have so many things to cover in our meetings and we have meetings every other day," with staff burnt out and focused on immediate issues like test preparation and attendance.
+Across interviews in seven CHSRI schools, teachers attributed the rarity of developmental practices to daily work demands. One teacher explained, "I think that we have so many things to cover in our meetings and we have meetings every other day," adding that "some people are just burnt out from meetings" and naming immediate issues such as preparing juniors for the PSAE, mandated professional development and attendance.
 
 > "Though teachers recognized the value of, and desired regular collective discussion and activities related to instructional development, they rarely initiated or organized such activities."
 

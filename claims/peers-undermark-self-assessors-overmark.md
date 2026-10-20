@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In the CA-2006 exam, students marked peers' papers on average 0.12 points below the teacher, a slight under-marking. [→ Bouzidi 2009](#bouzidi-2009)
+`q2 i?` In the CA-2006 exam, peer marks were slightly below the teacher's: by 0.39 points for peer-only marks and 0.12 for peer marks incorporating self-assessment (Table 3), a difference a t-test did not find significant (Table 5). [→ Bouzidi 2009](#bouzidi-2009)
 `q2 i?` In the same exam, paper authors marked their own papers on average 0.83 points above the teacher, an over-marking. [→ Bouzidi 2009 (2)](#bouzidi-2009-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Bouzidi, L., & Jaillet, A. (2009). Can Online Peer Assessment be Trusted?. Educa
 
 `q2 · i?` · `design · r2`
 
-Descriptive mean differences from the CA-2006 item analysis (Table 3): peers under-marked relative to the teacher by a printed average difference of 0.12; the value is descriptive, with no test statistic reported for it.
+Descriptive mean differences from the CA-2006 item analysis (Table 3): peer-only marks (PM) were below the teacher's by a printed average difference of 0.39, and peer marks incorporating the self-assessment (SPM) by 0.12. The article's text attributes the 0.12 to peers, but in Table 3 it is the SPM figure. Table 5's t-tests found neither the teacher-versus-peer nor the teacher-versus-SPM difference significant for CA-2006 (teacher mean 8.43, PM 8.13, SPM 8.40; Cohen's d = 0.11 for both).
 
 > "The students, with a positive average difference between their marks and those of the teacher (0.12), very slightly under-mark the papers of their peers."
 

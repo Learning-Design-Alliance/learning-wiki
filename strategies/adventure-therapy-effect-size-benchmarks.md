@@ -48,7 +48,7 @@ The authors recommend using their meta-analytic results as comparative benchmark
 - 
 
 ## Examples
--
+- [Adventure therapy outcome meta-analytic dataset and coding manual](../products/adventure-therapy-outcome-meta-analytic-dataset-and-coding-manual.md) — the coded corpus the benchmarks come from
 
 ## Key Sources
 - Daniel J. Bowen and James T. Neill. (2013). A Meta-Analysis of Adventure Therapy Outcomes and Moderators. The Open Psychology Journal, 2013, 6, 28-53. http://www.daniel-bowen.com.au/meta-analysis

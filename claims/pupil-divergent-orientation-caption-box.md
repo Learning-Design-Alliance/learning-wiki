@@ -41,6 +41,8 @@ Video-fragment analysis across lessons shows pupils repeatedly leaving the capti
 
 ## Discussion
 
+The caption box is part of the [kar2ouche](../products/kar2ouche.md) storyboarding tool the pupils were using, where it was meant to hold their reasons for each frame.
+
 
 ## Related Claims
 

@@ -29,7 +29,7 @@ Insta-Reviewer is a research-developed software system that extracts salient sen
 
 ### Claims
 
-- [Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output](../claims/sft-less-effective-than-prompting-for-feedback-generation.md) [-W]
+- [In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task](../claims/sft-less-effective-than-prompting-for-feedback-generation.md) [-W]
 
 ## Related Products and Programmes
 

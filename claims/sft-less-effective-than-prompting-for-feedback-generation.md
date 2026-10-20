@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
-description: Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
+title: In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task
+description: In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task
 id: sft-less-effective-than-prompting-for-feedback-generation
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output
+# In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`
@@ -35,7 +35,7 @@ Adnan Labib, Yixuan Huang, Jiahui Wu, John Maurice Gayed, Zheng Yuan, Qiao Wang.
 
 `q2 · i?` · `design · r2`
 
-Preliminary check of directly prompted models' micro feedback sufficiency on the 40 test essays; a qualitative review of three randomly selected essays confirmed Claude 3.7's additional comments were more fine-grained and pedagogically necessary, so validation focused on Claude 3.7.
+In the preliminary check, neither fine-tuned model produced usable output (fine-tuned GPT-4o's output was truncated at the 8,000-token context window on every essay; fine-tuned LLaMA-3.3-70B's could not be parsed as valid JSON), so fine-tuned feedback was excluded from human evaluation and no like-for-like comparison of feedback quality was made; the authors conclude only that prompting "may even be more effective" than supervised fine-tuning. Preliminary check of directly prompted models' micro feedback sufficiency on the 40 test essays: a qualitative review of three randomly selected essays confirmed Claude 3.7's additional comments were more fine-grained and pedagogically necessary, so validation focused on Claude 3.7.
 
 > "Of the 40 test essays, LLaMA-3.3-70B generated 336 comments and GPT-4o generated 368 comments, the averages of both were below 10. Claude 3.7, however, generated 628 comments."
 

@@ -44,7 +44,7 @@ Correlational analysis of post-test scores among the 64 participants. The study 
 
 ## Related Claims
 - [Prospective teachers hold more misconceptions about teaching and learning than current faculty both before and after training, and misconceptions decreased only among current faculty](prospective-teachers-more-misconceptions.md) — related
-- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
 - [After training, prospective teachers caught up with current faculty in reasoning but still had lower noticing scores](posttest-group-differences-reasoning-noticing.md) — related
 - [Reasoning scores of both prospective and current faculty teachers increased significantly during the short pedagogical training, but noticing did not improve significantly in either group](training-improves-reasoning-not-noticing.md) — related
 - [Short online pedagogy courses shifted university teachers’ interpretations of a learning-focused teaching video from knowledge transmission toward learning facilitation](short-online-training-shifts-interpretations-learning-focused-video.md) — related

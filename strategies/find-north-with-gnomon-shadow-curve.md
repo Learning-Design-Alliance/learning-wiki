@@ -17,7 +17,7 @@ sources:
 # Ubicar el norte marcando la sombra de la punta de un gnomon sobre una circunferencia, en lugar de usar una brújula
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 El recuadro del artículo propone un método de orientación sin brújula: se dibuja una circunferencia con un gnomon vertical en su centro y se marcan los puntos que recorre la sombra de la punta, obteniéndose una curva que corta la circunferencia en dos puntos equidistantes del mediodía solar; la recta que los une da la dirección este-oeste y su perpendicular, la norte-sur.
@@ -37,8 +37,14 @@ El recuadro del artículo propone un método de orientación sin brújula: se di
 - orientación con las sombras
 - puntos cardinales
 
+## Claims
+
+- [Los estudiantes de secundaria tienen dificultades persistentes para reconocer los cambios observables en el movimiento aparente del Sol y los momentos singulares del año](../claims/students-difficulties-solar-movement-observable-changes.md) [+M] (por qué trabajar con las sombras observables)
+
 ## Related Strategies
-- 
+
+- [Secuencia de cinco actividades que va del problema cotidiano a la construcción de un instrumento de medición](../designs/five-activity-shadow-to-sundial-sequence.md): la secuencia de actividades sobre sombras de la que forma parte
+- [Maqueta de esferas de telgopor, alambres y linterna para representar los arcos solares diurnos en tres momentos del año](../elements/solar-arc-maqueta-foam-wire-flashlight.md): la maqueta del arco solar del mismo artículo
 
 ## Examples
 -

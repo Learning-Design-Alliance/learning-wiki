@@ -47,7 +47,7 @@ Interaction-analysis findings section: sensory and social immersion supported "s
 - [Home Learning Environment](../learner-variables/home-learning-environment.md) — outcome: instruction changes it
 
 ## Related Claims
-- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](gps-wayfinding-actional-immersion-accessible.md) — related
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.](gps-wayfinding-actional-immersion-accessible.md) — related
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](mobile-ar-families-immersive-geoscience-lotm.md) — a broader claim this one bears on
 - [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](sensory-immersion-prompted-geoscientific-observation.md) — related
 - [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related

@@ -44,6 +44,6 @@ Human evaluation of Claude 3.7 micro feedback on the same 40 essays, rated on ne
 
 ## Related Claims
 - [Directly prompted Claude 3.7 macro-level deep feedback was judged effective for 93.03% of 201 paragraph-level comments](wraft-macro-feedback-93-percent-effective.md) — related
-- [Supervised fine-tuning was less effective than direct prompting of SOTA LLMs for generating deep-level feedback, a task with non-deterministic output](sft-less-effective-than-prompting-for-feedback-generation.md) — related
+- [In one essay-feedback system, fine-tuned models produced no usable deep-level feedback output, so only directly prompted LLMs were evaluated; the authors suggest prompting may be more effective than supervised fine-tuning for this task](sft-less-effective-than-prompting-for-feedback-generation.md) — related
 - [Directly prompted GPT-4o surface-level corrective edits were judged necessary and effective in 96.14% of 2049 identified edits](wraft-surface-feedback-96-percent-precision.md) — related
 - [Existing AI × SEL policy claims concentrate at macro and meso levels, with almost none at the classroom level](policy-claims-macro-meso-dominance.md) — related

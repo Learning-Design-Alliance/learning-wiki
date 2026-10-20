@@ -46,6 +46,6 @@ ANOVAs on difference scores divided by exposure number (two through eight) in th
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related
 - [The incidental learning advantage occurs from as little as two exposures to multimodal stimuli in complete beginners](incidental-learning-from-two-exposures.md) — related
 - [No significant overall linear trend of exposure number on the incidental learning effect, though two exposures yield a significantly smaller effect than eight in block 1](no-linear-trend-two-versus-eight-exposures.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Incidental multimodal exposure produces better explicit translation-recognition performance on previously exposed words than on new words in beginner FL learners](incidental-multimodal-exposure-benefits-explicit-learning.md) — related
 - [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](s-shaped-reading-time-decrease-repeated-exposure.md) — related

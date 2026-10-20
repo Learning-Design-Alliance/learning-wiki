@@ -50,4 +50,4 @@ Pearson correlation analysis of the four scale dimensions in a correlational stu
 - [Adults' acceptance of education-related epistemic violence is moderate, with 48.1% at a moderate and 40.3% at a high level](adults-moderate-acceptance-epistemic-violence.md) — related
 - [Adults' past enjoyment of education-related epistemic freedom is between moderate and high, and their tendency toward it is high](adults-past-freedom-moderate-high-tendency-high.md) — related
 - The study's correlational, cross-sectional design limits internal validity and causal interpretation — related
-- [Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related
+- [Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge](reflective-thinking-correlates-epistemological-beliefs.md) — related

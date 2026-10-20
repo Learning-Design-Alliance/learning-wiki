@@ -27,6 +27,7 @@ LUDIA is a browser-based, private, multilingual AI thought-partner tool develope
 ## Related Products and Programmes
 
 - [Waterproof](waterproof.md)
+- [The Four T's: Tell, Tinker, Tweak, Transfer for using an AI UDL thought partner](../strategies/four-ts-ai-udl-thought-partner-routine.md): the Tell, Tinker, Tweak, Transfer routine for using LUDIA
 
 ## Key Sources
 - Stark, B., & Rostan, J. (2026). LUDIA: A design and evidence statement (Version 1.0). Ask LUDIA. https://askludia.com/en [doi:10.35542/osf.io/3nmgp_v1](https://doi.org/10.35542/osf.io/3nmgp_v1)

@@ -98,7 +98,7 @@ Because working memory is severely limited and attention is selective, instructi
 
 ## Key Sources
 - Sweller, J., Ayres, P., & Kalyuga, S. (2011). *Cognitive load theory*. Springer. [doi:10.1007/978-1-4419-8126-4](https://doi.org/10.1007/978-1-4419-8126-4)
-- Mayer, R. E., & Fiorella, L. (2014). Twelve principles of multimedia learning based on cognitive load theory. In R. Brunken, J. L. Plass, & R. Moreno (Eds.), *Cognitive load theory* (pp. 151–170). Cambridge University Press.
+- Mayer, R. E., & Fiorella, L. (2014). Principles for reducing extraneous processing in multimedia learning: Coherence, signaling, redundancy, spatial contiguity, and temporal contiguity principles. In R. E. Mayer (Ed.), *The Cambridge handbook of multimedia learning* (2nd ed., pp. 279–315). Cambridge University Press. [doi:10.1017/CBO9781139547369.015](https://doi.org/10.1017/CBO9781139547369.015)
 - Harp, S. F., & Mayer, R. E. (1998). How seductive details do their damage: A theory of cognitive interest in science learning. *Journal of Educational Psychology, 90*(3), 414–434. [doi:10.1037/0022-0663.90.3.414](https://doi.org/10.1037/0022-0663.90.3.414)
 - Altenburg, T. M., Chinapaw, M. J., & Singh, A. S. (2016). Effects of one physically active break on the cognitive functions of primary school children. *Pediatric Exercise Science, 28*(4), 545–551.
 - Gagné, R. M., Briggs, L. J., & Wager, W. W. (1992). *Principles of instructional design* (4th ed.). Harcourt Brace Jovanovich.

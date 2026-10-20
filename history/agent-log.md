@@ -5,6 +5,30 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-20 (later) — open items cleared before the sweep resumes; batches now clean up after themselves
+
+- **Batches clean up after themselves** (`run_scrape_batch.py`; CLAUDE.md "Every batch cleans up after
+  itself"): new claims linked into concept pages (verified), claim pairs merged on two-model agreement,
+  new title pairs judged, inline citations linked, study tables re-rendered, every load-bearing claim
+  judged. The sweep's guard also holds on unmarked citations, unsupported `i` codes and unjudged
+  collisions (`journals/health_attention.py`, scratchpad).
+- **Decisions are committed, so counts mean open work**: duplicate verdicts moved to `eval/duplicates/`;
+  `find_title_duplicates.py` lists only unjudged pairs (554 → 0: 549 were already judged different, 5
+  judged now); the 66 cross-folder collisions settled this morning are recorded; verified distinct works
+  go in `eval/citations/distinct-works.ndjson` (citation conflicts 22 → 0).
+- **Citations**: Xenidou-Dervou collision, Glenberg title, fabricated Mayer & Fiorella / Breakstone /
+  Owen references replaced or commented out, Wineburg & McGrew corrected, DL2F's journal DOI replaced by
+  its ERIC record. `check_citations.py` reads full citation lines and skips commented-out citations. Four
+  "title" flags remain that differ only after the title (venue strings, place, pages).
+- **Load-bearing**: `check_load_bearing.py` now judges against an open-access full text where one exists
+  (199 found); abstract-unsettled 507 → 249. The 145 failures it surfaced were triaged against the
+  sources (most fixed, some dismissed); 40 claims retitled, link text updated. Dismissed entries now
+  count as checked in the health report.
+- **Isolated pages** 210 → 53: 29 linked by the verified linker, 128 by hand; 53 flagged for the
+  maintainer (duplicates to fold, research practice, out of scope, near-empty).
+- **No copy of the wiki index exists outside this repo** (checked in the Lazuli app and the design-spec
+  repo); CLAUDE.md corrected.
+
 ## 2026-10-20 — overnight fix pass: claim merging, duplicates, markers, load-bearing triage, retired names
 
 - **Paper VI**: six claims realigned with the paper; slug renamed to
@@ -26,7 +50,7 @@ at the top, under this paragraph.
   not guessed.
 - **Design-based research** moved to `processes/` (maintainer): `research-methods/` is secondary.
 - **Retired names across kinds**: `moved_from: [kind/slug]` plus a `moved` map in `wiki-index.json`
-  (additive; Lazuli's copy of the index may want to read it). `merge_pages.py` writes it; 1,570 retired ids
+  (additive). `merge_pages.py` writes it; 1,570 retired ids
   backfilled.
 - **Study tables** re-rendered for all 455 synthesis specs after the merges.
 

@@ -33,6 +33,7 @@ A statewide accountability and reporting instrument for educator preparation pro
 ## Related Products and Programmes
 
 - [CTC teacher preparation program completer survey system](ctc-teacher-preparation-program-completer-survey-system.md)
+- [Missouri teacher equity plan](../products/missouri-teacher-equity-plan.md): Missouri's shortage-prediction model, from the same brief
 
 ## Key Sources
 - Data Quality Campaign. (2017). Using Data to Ensure That Teachers Are Learner Ready on Day One. https://www.dataqualitycampaign.org

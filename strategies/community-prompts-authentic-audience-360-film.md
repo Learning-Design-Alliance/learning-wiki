@@ -43,7 +43,7 @@ Program observations identified the challenge prompts (share what makes your com
 - [Racial Equity in PBL - Focus Projects on Issues of Justice](racial_equity_in_pbl_-_focus_projects_on_issues_of_justice.md)
 
 ## Examples
--
+- [360 Filmmakers Challenge](../products/360-filmmakers-challenge.md)
 
 ## Key Sources
 - 360 Filmmakers Challenge: Key Findings from the Fall 2016 Program. (2017). Digital Promise Global. https://digitalpromise.dspacedirect.org/items/bf98d40e-980c-4f54-9985-46bf5675d2fa

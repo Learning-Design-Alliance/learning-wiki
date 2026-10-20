@@ -17,7 +17,7 @@ sources:
 # The data lifecycle: extending participatory science beyond data collection to decisions and action
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article describes the data lifecycle as the full arc of participatory science work, from developing expertise and defining research questions through collecting, interpreting, and sharing data to making decisions and taking action, then evaluating outcomes and reassessing goals. It holds that "data alone do not contain instructions for which actions to take" and that decisions are expressions of preference shaped by identity. The authors used it as an instructional design process for centering youth agency in their bird-monitoring CCS project.
@@ -38,10 +38,15 @@ The article describes the data lifecycle as the full arc of participatory scienc
 - environmental decision-making and agency
 
 ### Claims
-- 
+- [Students' differing values about a campus predator-prey problem produced no agreed definition of the issue and no agreed action](../claims/differing-values-no-agreed-environmental-decision.md) [~M] — the decision stage depends on values the data do not settle, as the framework holds
+- [Seven of ten focal students explained they could help the birds by expanding their research efforts on campus and beyond](../claims/students-expand-research-efforts-ccs.md) [+M]
+
+## Patterns Used
+- [Inquiry-Based Learning](../principles/inquiry-based-learning.md): students move through the lifecycle from defining research questions to collecting, interpreting and acting on their own data
 
 ## Related Designs
-- 
+- [A school-based CCS project enacting the full data lifecycle with youth-led decisions](school-ccs-data-lifecycle-project-design.md) — the project design built on this framework
+- [Support youth as knowledge producers with rigorous criteria for evaluating their environmental decisions](../strategies/position-youth-knowledge-producers-criteria.md)
 
 ## Examples
 -

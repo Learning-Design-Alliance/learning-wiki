@@ -43,7 +43,8 @@ McLane High School transformed its homeroom structure as a core RCS effort to bu
 - 
 
 ## Related Designs
-- 
+
+- [Youth-led professional development trainings on racial justice and relationship-centered practices](youth-led-pd-racial-justice-trainings.md)
 
 ## Examples
 -

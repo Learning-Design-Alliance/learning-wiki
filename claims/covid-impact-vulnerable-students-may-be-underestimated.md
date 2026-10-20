@@ -35,7 +35,7 @@ Megan Kuhfeld, Beth Tarasawa, Angela Johnson, Erik Ruzek, Karyn Lewis. (2020). L
 
 `q2 · i?` · `associational · r2`
 
-Authors' interpretive caution drawn from their analysis of fall 2020 MAP Growth data: "Systematic demographic differences in available assessment data" mean the measured impacts likely understate losses for the most vulnerable students. This is an interpretation, not a separately tested estimate.
+Authors' interpretive caution drawn from their analysis of fall 2020 MAP Growth data: "Systematic demographic differences in available assessment data" suggest the measured impacts for the most vulnerable students may be underestimated. This is an interpretation, not a separately tested estimate.
 
 > "Systematic demographic differences in available assessment data suggest the impacts of COVID-19 on achievement for the most vulnerable students may be underestimated."
 

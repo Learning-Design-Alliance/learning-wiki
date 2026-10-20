@@ -45,7 +45,8 @@ The guide prescribes how teams should work with its tools: "Completion of the to
 - [Five getting-started steps for building an integrated, school-based system of care](getting-started-steps-integrated-systems-of-care.md)
 
 ## Examples
--
+
+- [Six-Tool Starter Set for State and District Evidence-Based Improvement](../products/six-tool-starter-set-for-state-and-district-evidence-based-improvement.md): the six-tool starter set this advice is about
 
 ## Key Sources
 - Hale, S., Dunn, L., Filby, N., Rice, J., & Van Houten, L. (2017). Evidence-based improvement: A guide for states to strengthen their frameworks and supports aligned to the evidence requirements of ESSA. San Francisco: WestEd. http://www.wested.org/resources/evidence-based-improvement-essa-guide-for-states

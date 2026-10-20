@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings
-description: Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings
+title: Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)
+description: Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)
 id: pilot-efa-four-factor-solution
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings
+# Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Pilot EFA supported a four-factor solution and three items were removed for weak or ambiguous loadings. [→ Fan Bu and Wei Li 2026](#fan-bu-and-wei-li-2026)
+`q2 i?` Pilot EFA supported a four-factor solution and three items were removed: one for a weak primary loading (0.43), one for a cross-loading (0.52 and 0.39), and one for a low corrected item–total correlation (0.34) and content duplicating another item. [→ Fan Bu and Wei Li 2026](#fan-bu-and-wei-li-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Fan Bu and Wei Li (2026). Trust calibration and perceived developmental gains in
 
 `q2 · i?` · `associational · r2`
 
-Pilot EFA (principal axis factoring with oblimin rotation) with an independent sample of 94 undergraduates from two universities outside the formal survey sample. The article reports the solution "supported a four-factor solution" and that removals left retained item loadings ranging from 0.58 to 0.83.
+Pilot EFA (principal axis factoring with oblimin rotation) with an independent sample of 94 undergraduates from two universities outside the formal survey sample. The article reports the solution "supported a four-factor solution" and that removals left retained item loadings ranging from 0.58 to 0.83. Table 6 summarises the three removals as "for weak or ambiguous loadings", but the text gives a low item–total correlation and duplicated content, not a loading, as the reason for the third.
 
 > "The analyses supported a four-factor solution. Three items were removed. One contextual-support item had a weak primary loading of 0.43 and a communality of 0.36."
 

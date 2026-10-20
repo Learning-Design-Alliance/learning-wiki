@@ -38,7 +38,9 @@ A justificatory strategy in which a theory or commitment is justified by applyin
 ### Claims
 
 ## Related Theories
-- 
+
+- [Siegel's reasons conception: critical thinking as being appropriately moved by reasons](../theories/siegel-reasons-conception-critical-thinking.md): Siegel's account of critical thinking as being moved by reasons, which this argument defends
+- [Siegel's broad rationality: critical thinking as an educational and moral ideal grounding Constructivism](../theories/siegel-broad-rationality-critical-thinking-ideal.md): rationality as the ideal the argument justifies
 
 ## Examples
 -

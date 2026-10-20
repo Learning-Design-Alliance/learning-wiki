@@ -13,7 +13,7 @@ generated:
 # RP-Observe observation tool
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 mixed) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 RP-Observe is a Rutgers University-developed school observation tool for assessing restorative-justice implementation and outcomes.
@@ -24,8 +24,13 @@ RP-Observe is a Rutgers University-developed school observation tool for assessi
 
 ### Claims
 
+- [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](../claims/school-data-systems-do-not-track-rj.md) [~W] (why a dedicated observation instrument is needed)
+- [Experts report there is neither a clear definition nor a widely accepted model of restorative justice in schools](../claims/no-clear-definition-or-accepted-model-of-school-rj.md) [~W]
+
 ## Related Products and Programmes
--
+
+- [Restorative Practices](../strategies/restorative-practices.md): the practice the tool observes
+- [Use rigorous formative studies to refine the RJ framework and document outcomes before scaling](../strategies/formative-studies-first-for-school-rj.md): the same report's call for formative studies, which need instruments like this one
 
 ## Key Sources
 - Hurley, N., Guckenburg, S., Persson, H., Fronius, T., & Petrosino, A. (2015). What Further Research is Needed on Restorative Justice in Schools? WestEd. https://www.wested.org

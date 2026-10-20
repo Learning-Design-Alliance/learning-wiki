@@ -42,8 +42,11 @@ This pattern organizes curriculum units and modules around a Driving Task Prompt
 ### Claims
 - 
 
+## Patterns Used
+- [Disciplinary Literacy](../principles/disciplinary-literacy.md): units are organised around a driving task prompt in a disciplinary-literacy framework, moving from comprehension and knowledge building to synthesis and writing
+
 ## Related Designs
-- 
+- [Lenses on Literature](../products/lenses-on-literature.md) — the curriculum programme organised around these driving task prompts
 
 ## Examples
 -

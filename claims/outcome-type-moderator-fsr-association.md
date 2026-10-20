@@ -46,4 +46,4 @@ Univariate meta-regression with robust variance estimation across the 128 effect
 - [Perceived faculty-student relationships show a small but statistically significant positive correlation with postsecondary students' academic outcomes (r = .18)](fsr-positive-correlation-academic-outcomes-meta-analysis.md) — related
 - [FSRs correlate more strongly with persistence (r = .33) than with achievement outcomes in postsecondary settings](fsr-strongest-correlation-persistence.md) — possibly the same claim (merge candidate)
 - [FSRs correlate positively but weakly with GPA (r = .17) and course grades (r = .16)](fsr-weak-correlation-gpa-grades.md) — related
-- [SES effect sizes vary by SES indicator type, outcome type, grade level, and study year](ses-effect-moderators-indicator-outcome-grade-year.md) — a broader claim this one bears on
+- [SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes](ses-effect-moderators-indicator-outcome-grade-year.md) — a broader claim this one bears on

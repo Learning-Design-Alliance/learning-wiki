@@ -114,7 +114,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — not settled: the text available could not confirm the entries (abstract)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — not settled: the text available could not confirm the entries (abstract)
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
+- [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](../claims/high-confidence-errors-improve-retention.md) [~M] — not settled: the text available could not confirm the entries (abstract)
 - [Students avoided metaphorical visualizations they perceived as childish or insufficiently rigorous, signaling disciplinary legitimacy concerns even when the tools could help them](../claims/legitimacy-disciplinary-identity-resistance.md) [~W]
 - [Students without prior programming experience anchor more heavily in code and engage minimally with metaphor views compared to students with prior experience](../claims/prior-experience-shapes-view-engagement.md) [~M]
 - [Collaborative metaphor workshops helped higher education staff and students make sense of GenAI and raised their awareness of its ethical dimensions](../claims/metaphor-workshops-support-genai-sensemaking.md) [+W]
@@ -142,10 +142,12 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - [Inquiry-based Learning](inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.
 
 ## Examples
+
 - **Math analogies**: A teacher uses balance-scale imagery to explain equation solving and then asks learners to test where the analogy holds.
 - **Science metaphors**: Learners compare electrical flow to water flow, then identify the limits of the comparison.
 - **Writing identity metaphors**: Learners use metaphor to describe their writing process and reflect on how that framing shapes revision habits.
 - **Digital literacy comparisons**: Learners use familiar physical systems to reason about files, networks, or information flow.
+- [A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness](../designs/twelve-activity-model-remoteness-abstractness.md)
 
 ### Illustrative
 
@@ -169,7 +171,7 @@ Analogical reasoning is the principle of using relational similarity between a f
 
 ## Implications
 
-Analogical reasoning is most valuable when learners need help seeing a new concept through the structure of something they already understand. The principle works best when the analogy highlights deep relational similarity rather than superficial resemblance alone, because a coherent mapping can reduce interpretive burden and help learners organize new information [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]. In instruction, that means the teacher or task must help learners map the source and target explicitly, notice where the analogy is helpful, and identify where it breaks down; analogies become even stronger when learners explain why the mapping works [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Poor analogies do not merely fail to help; they can actively mislead by inviting false transfer from surface features, though even confident misreadings can become productive if the mismatch is made explicit and corrected [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M].
+Analogical reasoning is most valuable when learners need help seeing a new concept through the structure of something they already understand. The principle works best when the analogy highlights deep relational similarity rather than superficial resemblance alone, because a coherent mapping can reduce interpretive burden and help learners organize new information [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S]. In instruction, that means the teacher or task must help learners map the source and target explicitly, notice where the analogy is helpful, and identify where it breaks down; analogies become even stronger when learners explain why the mapping works [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]. Poor analogies do not merely fail to help; they can actively mislead by inviting false transfer from surface features, though even confident misreadings can become productive if the mismatch is made explicit and corrected [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](../claims/high-confidence-errors-improve-retention.md) [~M].
 
 ### Context
 #### Requirements
@@ -204,7 +206,7 @@ Analogical reasoning is most valuable when learners need help seeing a new conce
 
 - [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [~S] — analogies can support chunking and organization when the relational mapping is coherent
 - [Self-explanation improves conceptual understanding and problem-solving performance.](../claims/self-explanation-improves-conceptual-understanding.md) [+S] — analogies become stronger when learners explain why the mapping works
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [~M] — analogies that trigger confident but incorrect predictions can still be instructionally useful if the mismatch is corrected explicitly
+- [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](../claims/high-confidence-errors-improve-retention.md) [~M] — analogies that trigger confident but incorrect predictions can still be instructionally useful if the mismatch is corrected explicitly
 -->
 - [Undergraduate computing students evaluate GenAI analogies by structural correspondence between source and target domain, flagging specific mapping breakdowns rather than judging holistically](../claims/students-audit-genai-analogy-structural-correspondence.md) [~W]
 

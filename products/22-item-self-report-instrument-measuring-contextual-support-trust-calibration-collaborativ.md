@@ -22,7 +22,7 @@ A five-point Likert-scale instrument developed by Fan Bu et al. to measure conte
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](../claims/pilot-efa-four-factor-solution.md) [+M]
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](../claims/pilot-efa-four-factor-solution.md) [+M]
 
 ## Related Products and Programmes
 

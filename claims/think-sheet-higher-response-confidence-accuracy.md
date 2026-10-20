@@ -43,7 +43,7 @@ Contrast analysis (weights: think-sheet +2, refutation-text −1, control −1) 
 
 
 ## Related Claims
-- [More misconceptions lead to overconfident comprehension predictions with a standard text, and both refutation texts and think sheets counteract this overconfidence](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
+- [Learners with more misconceptions made more overconfident comprehension predictions after a standard text with a misconception list, an association not seen with refutation texts or think sheets](refutation-text-think-sheet-counteract-comprehension-overconfidence.md) — related
 - [Misconceptions impair comprehension of a standard text, and both a refutation text and a think sheet compensate for this detrimental effect](refutation-text-think-sheet-compensate-misconception-comprehension.md) — related
 - [Misconceptions did not impair transfer in the strong control condition, but learners with more misconceptions in the think-sheet group transferred better](think-sheet-misconceptions-positive-transfer-effect.md) — related
 - [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related

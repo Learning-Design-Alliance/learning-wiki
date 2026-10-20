@@ -56,7 +56,7 @@ Reassessment leverages the testing effect a second time: the initial response fu
 
 ## The evidence by question
 - *Does discussing a committed answer with peers improve a later individual answer on a new question?* [Peer Discussion Improves Conceptual Understanding](../claims/peer-discussion-improves-conceptual-understanding.md) [+M]
-- *Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?* [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+M]
+- *Which errors to correct first: are errors made with high confidence corrected more durably than low-confidence ones?* [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
 ## Related Elements
 - [Assessment](assessment.md) — the initial response is a low-stakes assessment event; reassessment is its second act

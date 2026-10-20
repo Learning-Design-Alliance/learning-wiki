@@ -46,6 +46,7 @@ Empathy interviews are "open-ended conversations with a predetermined protocol" 
 - [Start with Yourself (Identity Mapping)](start-with-yourself-identity-mapping.md)
 - [Conduct one-on-one empathy interviews with open-ended questions to uncover root causes of system challenges](empathy-interviews-root-causes.md)
 - [Use empathy interviews as a natural, informal conversation to uncover students' experiences, emotions, and unmet needs in mathematics learning](empathy-interviews-uncover-student-experiences.md)
+- [Student-centred, first-person responsible use policy](../designs/student-centered-first-person-responsible-use-policy.md) — the student-facing policy the interviews can inform
 
 ## Examples
 -

@@ -35,7 +35,7 @@ Iwatani, E., Hardy, A., Means, B., Daal, S., & Wei, X. (2023). Evaluation of Wor
 
 `q2 · i?` · `causal · r2`
 
-Teacher interviews (25 teachers plus 6 usability interviews) and a purposive review of 26 activities found modifications in three categories: assignment scaffolds, slide decks to motivate and explain, and PDF-to-Word conversion for editability.
+Teacher interviews (25 in total, including 6 usability interviews and 2 exit interviews; 13 were analysed for usability) and a purposive review of 26 activities found modifications in three categories: assignment scaffolds, slide decks to motivate and explain, and PDF-to-Word conversion for editability.
 
 > "All interviewed teachers reported that they found World History Project to be overwhelming in their initial year of adoption, due to the abundance of available resources. Many also reported that they often felt the need to make substantial modifications to World History Project resources"
 

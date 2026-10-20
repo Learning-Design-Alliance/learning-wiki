@@ -48,6 +48,7 @@ Beyond general social belonging, teachers cultivated a sense of "mathematics bel
 - [Reinforce growth mindsets through explicit messages plus implicit classroom practices](growth-mindset-explicit-and-implicit-practices.md)
 - [Promote a Growth Mindset](promote_a_growth_mindset.md)
 - [Growth Mindset Development](growth_mindset_development.md)
+- [Six-component engaged math lesson structure](../designs/six-component-engaged-math-lesson-structure.md) — the observed lesson structure these practices sit within
 
 ## Examples
 -

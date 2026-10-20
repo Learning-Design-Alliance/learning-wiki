@@ -23,7 +23,7 @@ Nwogo et al.'s publicly released corpus of Nigerian Pidgin text entries scraped,
 - **Curated Nigerian Pidgin English corpus of 416,343 text entries scraped from BBC Pidgin and Prime9ja, publicly released for fine-tuning and evaluation**: A web-scraped corpus of Nigerian Pidgin English built from publicly accessible news platforms including BBC Pidgin and Prime9ja, cleaned through lowercasing, deduplication and normalisation, and formatted into instruction-style conversational pairs. The authors state "the final dataset comprises 416,343 high-quality Nigerian Pidgin English text entries spanning news reporting, commentary, and informal discourse". It was used to fine-tune the platform's Pidgin-aware LLM and released publicly via Zenodo and Hugging Face. (Nwogo et al. (2026))
 
 ### Claims
-- [Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware](../claims/pidgin-fine-tuning-improves-linguistic-alignment.md) [+M]
+- [Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated](../claims/pidgin-fine-tuning-improves-linguistic-alignment.md) [+M]
 
 ## Related Products and Programmes
 -

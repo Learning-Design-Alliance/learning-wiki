@@ -41,7 +41,8 @@ As an applied implication, the article recommends that "more intensive practice 
 - Automated Counting Procedure Model Addition
 
 ## Related Strategies
-- 
+
+- [Interventions for adult DD should target both number-specific core deficiencies and domain-general skills while incorporating preserved skills](dd-adult-intervention-target-core-and-preserved-skills.md)
 
 ## Examples
 -

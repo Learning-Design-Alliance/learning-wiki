@@ -17,7 +17,7 @@ sources:
 # Cueing strategy progressing from language models and closed cues to open cues to build independent language use
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 mixed) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Workbook C of the language unit presents a cueing strategy for developing pupils' independent language use. The document states "it is important that the teacher follow a cueing strategy which moves gradually from a pattern of models and closed cues, to one of open cues." Closed cues (including language models and one-word-answer questions) restrict the language a pupil can use, while open cues place no restriction and call for independent, creative language use. The strategy is depicted as an arrow diagram running from dependence to independence, first introducing new language with models and closed cues, then moving to open cues so pupils use the new language to talk about their own experiences.
@@ -38,7 +38,13 @@ Workbook C of the language unit presents a cueing strategy for developing pupils
 - independent language use
 
 ### Claims
-- 
+- [A 1970 teacher self-analysis programme asserts, without data, that teacher responses including verbal rewards can close off pupil thinking](../claims/teacher-responses-can-close-off-pupil-thinking.md) [~W] — an assertion from the same 1970 teacher self-analysis programme, without data
+
+## Patterns Used
+- [Scaffolding and Fading](../principles/scaffolding-and-fading.md): cues fade from language models and closed, one-word-answer cues to open cues that call for independent language use
+
+## Related Designs
+- [GSA teacher self-analysis system](../products/gsa.md) — the professional development system whose workbook this language unit belongs to
 
 ## Related Patterns
 - 

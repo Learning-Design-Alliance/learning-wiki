@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
-description: Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
+title: Training improved accuracy in every digital-forensics experience group and most generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
+description: Training improved accuracy in every digital-forensics experience group and most generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
 id: training-gains-across-experience-levels-largest-for-novices
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
+# Training improved accuracy in every digital-forensics experience group and most generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
 `q3 i?` The BA×Post training effect was largest among participants with no prior forensics experience (9.2 percentage points, 95% CI: [3.5, 14.2]), with smaller gains of 5.4 and 2.0 points for the less-than-one-year and more-than-one-year groups. [→ Negar Kamali 2026](#negar-kamali-2026)
-`q3 i?` The estimated training effect was largest among frequent or daily generative-AI users (7.2 percentage points, 95% CI: [3.9, 10.0]), with smaller estimated gains for occasional and rare users. [→ Negar Kamali 2026 (2)](#negar-kamali-2026-2)
+`q3 i?` The estimated training effect was largest among frequent or daily generative-AI users (7.2 percentage points, 95% CI: [3.9, 10.0]), with smaller estimated gains for occasional (6.0 points) and rare (2.9 points) users whose confidence intervals include zero; estimates for participants with no prior generative-AI use were not interpreted because of the small sample. [→ Negar Kamali 2026 (2)](#negar-kamali-2026-2)
 
 ## Evidence
 

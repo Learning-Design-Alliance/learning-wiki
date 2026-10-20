@@ -47,7 +47,7 @@ The introduction's summary of the Zimmerman, Land, Faimon, and Chiu study of fam
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](multiple-immersive-processes-at-microsites.md) — a narrower finding that bears on this claim
 - [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](photo-taking-evidence-of-observation.md) — related
 - [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](no-substantial-emancipatory-immersion-example.md) — related
-- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](gps-wayfinding-actional-immersion-accessible.md) — related
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.](gps-wayfinding-actional-immersion-accessible.md) — related
 - [Mobile apps increased timely, direct communication between parents and educators during remote schooling](mobile-apps-timely-parent-teacher-communication.md) — related
 - [Teachers adopted varying levels and strategies of guidance during reflective dialogues about VR experiences, which shaped students' meaning making](teacher-guidance-varied-in-vr-reflections.md) — related
 - [Virtual and in-person parent-to-parent forums deepened caregivers' sense of community and support](parent-to-parent-forums-community-support.md) — related

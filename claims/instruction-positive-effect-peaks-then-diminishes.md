@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter"
-description: "Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter"
+title: "Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter"
+description: "Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter"
 id: instruction-positive-effect-peaks-then-diminishes
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter
+# Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -35,7 +35,7 @@ Clark, J. W., Sayre, E. C., and Franklin, S. V. (2010). Fluctuations in Student 
 
 `q2 · i?` · `associational · r2`
 
-Between-student response curve for Mechanics (Fig. 3), averaged across fall and winter sections. Before instruction responses hover around the chance line of 20%; the curve peaks in week 6 and then "rapidly drops" toward chance.
+Between-student response curve for Mechanics (Fig. 3), averaged across fall and winter sections. Before instruction responses hover around the chance line of 20%; the curve peaks in week 6 and then "rapidly drops" toward chance. Different students answered in different weeks, and the week-6 peak coincides with both the end of force instruction and the exam, so the curve tracks a rise and fall alongside instruction without isolating instruction as its cause.
 
 > "Instruction on forces begins in week 4, and student performance begins to rise, culminating with a maximum performance in week 6. Not coincidentally, week 6 is also the last week of instruction on forces, and includes the examination. After instruction, the response rapidly drops, with two of the questions ending just above the chance line at the end of the quarter."
 

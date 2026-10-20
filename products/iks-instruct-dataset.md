@@ -26,7 +26,8 @@ A released multilingual dataset of 24,795 instruction-response pairs for fine-tu
 - [Model-level judge quality is non-monotonic in dataset size: the 13,882-pair v1.1 yields the best model (6.39), while both expansion to ~20,000 pairs (6.33) and aggressive curation to 7,130 pairs (6.12) reduce quality](../claims/non-monotonic-quality-volume-iks-instruct.md) [+M]
 
 ## Related Products and Programmes
--
+
+- [Set per-technique coverage targets rather than scaling raw volume when constructing domain-specific instruction datasets](../strategies/per-technique-coverage-targets-over-raw-volume.md): the dataset-construction guideline drawn from its per-technique analysis
 
 ## Key Sources
 - Shwetha Singaravelu, Gayathri Muruganantham, Lakshmi Rajendran, Santhosh Sivasubramani. (2026). IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems. arXiv. https://arxiv.org/abs/2607.23322

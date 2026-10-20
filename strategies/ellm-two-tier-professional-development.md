@@ -55,7 +55,8 @@ ELLM's instructional support system uses two programs, one developing teachers a
 - [Layered professional development: summer institute plus weekly web conferencing follow-up](tri-layered-pd-summer-institute-web-conferencing.md)
 
 ## Examples
--
+
+- [ELLM/Plus curriculum](../products/ellmplus-curriculum.md): the literacy curriculum this professional development supports
 
 ## Key Sources
 - Early Literacy and Learning Model (ELLM/Plus). (2008). Evidence rating summary, Preschool Curriculum Evaluation Research (PCER) studies. https://evidenceforessa.org/program/early-literacy-and-learning-model-plus-ellm-plus/

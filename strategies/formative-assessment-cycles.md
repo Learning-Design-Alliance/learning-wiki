@@ -81,7 +81,7 @@ Two design consequences follow. The eliciting move has to be diagnostic rather t
 
 ### Target Learning Goals
 - Accurate mastery of specific content, by catching and repairing gaps before they compound
-- Correction of misconceptions, particularly the confident ones that never surface unprompted [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+M]
+- Correction of misconceptions, particularly the confident ones that never surface unprompted [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](../claims/high-confidence-errors-improve-retention.md) [+M]
 - Self-regulation, when learners are brought inside the loop rather than being its subject
 - Retention, since well-designed eliciting tasks are themselves retrieval events [Feedback Enhances Retrieval Practice](../claims/feedback-enhances-retrieval-practice.md) [+M]
 - Conceptual understanding: diagnosing and correcting misconceptions mid-instruction

@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 46 claims (17 for, 22 mixed, 6 against, 1 unmarked) · 27 studies (15 causal, 6 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 27 report an effect size · 43 claims rest on one study
+> **Evidence** · 46 claims (18 for, 22 mixed, 6 against) · 27 studies (15 causal, 6 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 27 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -93,7 +93,7 @@ The relationship is conditional on five things, each from the evidence below:
 - **What is being learned.** For domain-general skills, such as the control-of-variables strategy, the instruction-first order did better.
 - **How long the intervention runs.** In the meta-regression, the fidelity benefit tended to shrink for interventions spanning only a few hours (a marginal interaction, p = .055); longer interventions also had higher fidelity.
 
-How this sits beside its neighbours: [Guided Discovery Learning](inquiry-based-learning.md) and the evidence against minimal guidance concern learning *without* the instruction that follows; productive failure always ends with full instruction, and the question is only its order. [Worked Examples](worked-examples.md) and [Cognitive Load Management](cognitive-load-management.md) argue for teaching first, especially for novices learning procedures; the evidence here agrees for procedural outcomes and for young learners, and differs for conceptual outcomes in learners old enough to generate solutions. [Pretesting](../claims/pretesting-enhances-learning.md) is a smaller cousin: an attempt before study, without the generation of methods.
+How this sits beside its neighbours: [Guided Discovery Learning](inquiry-based-learning.md) and the evidence against minimal guidance concern learning *without* the instruction that follows; productive failure always ends with full instruction, and the question is only its order. [Worked Examples](worked-examples.md) and [Cognitive Load Management](cognitive-load-management.md) argue for teaching first, especially for novices learning procedures; the evidence here agrees for procedural outcomes and for young learners, and differs for conceptual outcomes in learners old enough to generate solutions. [Pretesting](pretesting.md) is a smaller cousin: an attempt before study, without the generation of methods.
 
 ## Default design, while the dose is untested
 

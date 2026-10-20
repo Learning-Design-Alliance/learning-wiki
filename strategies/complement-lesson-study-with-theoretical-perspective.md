@@ -40,7 +40,8 @@ The article argues the need "to complement a lesson study with a theoretical per
 - Variation Theory Discernment Simultaneity Variation
 
 ## Related Strategies
-- 
+
+- [Move beyond explorative expert-novice comparisons to hypothesis-driven designs investigating application of evidence-based pedagogical principles](hypothesis-driven-designs-beyond-expert-novice.md)
 
 ## Examples
 -

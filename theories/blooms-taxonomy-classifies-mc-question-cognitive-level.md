@@ -46,6 +46,7 @@ The article uses Bloom's Taxonomy as the classification scheme for the cognitive
 - [Bloom's Taxonomy](blooms-taxonomy.md)
 - [ICAP-Bloom adapted coding scheme for cognitive engagement in online discussion posts](icap-bloom-coding-scheme-discussion-posts.md)
 - [Four-category categorical system for organizing technology content into teachable units](four-category-technology-content-taxonomy.md)
+- [Three-category state PreK4 investment classification (High, Growing, Low)](prek4-investment-three-category-classification.md)
 
 ## Examples
 

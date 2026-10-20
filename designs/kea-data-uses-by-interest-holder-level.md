@@ -17,7 +17,7 @@ sources:
 # Tiered uses of KEA data across classroom, building, district, and state levels
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The brief organizes potential KEA uses by interest-holder level in an appendix table adapted from Garver and Yun and colleagues. At the classroom level, uses include tailoring individualized instruction and engaging families; at the building level, shaping schoolwide programming and tracking students in a data management system; at the district level, measuring curriculum effectiveness and informing resource allocation; and at the state level, evaluating progress toward state goals and allocating funding. Uses marked with an asterisk require a dedicated evaluation study.
@@ -37,7 +37,9 @@ The brief organizes potential KEA uses by interest-holder level in an appendix t
 - guiding instruction, programming, resource allocation, and progress monitoring from KEA data
 
 ### Claims
+
 - Kea Data Not For Accountability Or Diagnosis [+M]
+- [It is inappropriate to use KEA scores to evaluate teachers or preschool programs, hold children back from kindergarten, or diagnose learning disabilities](../claims/kea-inappropriate-uses-teacher-eval-retention-diagnosis.md) [+W]
 
 ## Related Designs
 - 

@@ -44,7 +44,7 @@ Sun Y., Liao Y. & Ma X. (2026). Advancing diagram-based reasoning in AI tutoring
 
 `q2 · i?` · `design · r2`
 
-Quantitative evaluation of the StructRAG framework against three baselines and ablated variants on the same 1,650-question dataset, reported as "a macro-average question-level accuracy of 89.3%" and "a micro-averaged edge-level F1 score of 93.0%". No effect size is printed, so impact is null.
+Quantitative evaluation of the StructRAG framework against three baselines and ablated variants on the same 1,650-question dataset, reported as "a macro-average question-level accuracy of 89.3%" and "a micro-averaged edge-level F1 score of 93.0%". No effect size is printed, so the magnitude of the improvement is not coded (`i?`).
 
 > "We evaluate StructRAG on a dataset of 1,650 STEM-related questions. The results show a macro-average question-level accuracy of 89.3% and a micro-averaged edge-level F1 score of 93.0%, outperforming OCR+CV, GPT-4 graph-only, direct-image GPT-4o, and ablated StructRAG variants."
 
@@ -54,7 +54,7 @@ Sun Y., Liao Y. & Ma X. (2026). Advancing diagram-based reasoning in AI tutoring
 
 `q2 · i?` · `design · r2`
 
-Significance testing of the performance differences over the compared baselines: paired bootstrap tests with Holm–Bonferroni correction, reported as "statistically signiﬁcant at p < 0.01". Only a p-value is printed, with no effect size, so impact is null.
+Significance testing of the performance differences over the compared baselines: paired bootstrap tests with Holm–Bonferroni correction, reported as "statistically signiﬁcant at p < 0.01". Only a p-value is printed, with no effect size, so the magnitude is not coded (`i?`).
 
 > "Paired bootstrap tests with Holm–Bonferroni correction indicate that these improvements are statistically signiﬁcant at p < 0.01."
 

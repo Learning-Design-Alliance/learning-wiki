@@ -99,6 +99,7 @@ Shared reading works because it makes expert reading behavior observable and imi
 - **Big-book shared reading** in kindergarten classrooms (Holdaway's shared book experience): teacher reads an enlarged text while the class tracks print, then children reread it in small groups.
 - **Reading Rockets** ([https://www.readingrockets.org](https://www.readingrockets.org)) — practitioner guidance and video models of interactive read-aloud techniques for teachers and parents.
 - A teacher reads *The Very Hungry Caterpillar* with a big book, pausing at each page for children to predict ("What do you think he'll eat next?") and join the refrain, then children illustrate and dictate their own "hungry" story pages.
+- [Shared story reading for students with disabilities: definition and common features](../designs/shared-story-reading-definition-features.md) — repeated story lines, attention getters, picture symbols paired with words and repeated readings
 
 ## Key Sources
 - Roberts, J., Jurgens, J., & Burchinal, M. (2005). The effects of book reading on children's language development. *Journal of Applied Developmental Psychology, 26*(3), 337–351.

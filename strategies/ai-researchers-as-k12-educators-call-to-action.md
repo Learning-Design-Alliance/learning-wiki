@@ -44,6 +44,7 @@ The paper closes with a call to action urging AI researchers to become AI educat
 
 - [Editorial mandates and policymaker practices to close the AI × SEL policy gap](editorial-policymaker-policy-engagement-practices.md)
 - [District actions for sustained, equitable impact with powerful technology](district-actions-powerful-technology-impact.md)
+- [AI4K12 Five Big Ideas in Artificial Intelligence](../products/ai4k12-five-big-ideas-in-artificial-intelligence.md) — the guidelines framework the paper introduces
 
 ## Examples
 -

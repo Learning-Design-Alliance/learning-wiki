@@ -53,7 +53,7 @@ Schuessler, K., Fischer, V., & Walpuski, M. (2025). Investigating construct vali
 
 `q2 · i1` · `causal · r1`
 
-Task-level comparison of 61 multiple-choice single-select items and 65 open-ended items from the competence test, using a bootstrapped t-test with adjusted results. The article reports the adjusted difference as "significant, t(112.133) = 2.13, p = 0.035, d = 0.38".
+Item-level comparison of 61 multiple-choice single-select items and 65 open-ended items from the competence test, using a bootstrapped t-test with adjusted results. The article reports the adjusted difference as "significant, t(112.133) = 2.13, p = 0.035, d = 0.38".
 
 > "This difference, ΔM = 0.49, 95% BCa CI [0.03, 0.94], is significant, t(112.133) = 2.13, p = 0.035, d = 0.38 (as the Levene–test revealed significant variance differences we report the adjusted results)."
 

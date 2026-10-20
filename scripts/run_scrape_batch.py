@@ -33,6 +33,8 @@ WIKI_ROOT = Path(__file__).parent.parent
 sys.path.insert(0, str(WIKI_ROOT))
 
 from scripts.eval import discover_articles, fetch_article, scrape_report
+sys.path.insert(0, str(WIKI_ROOT / "scripts"))
+import okf_lib  # noqa: E402
 
 
 def eval_harness_safe_model_dirname(model: str) -> str:
@@ -419,6 +421,47 @@ def run(args) -> None:
         _run_chained_step([sys.executable, "-u", "scripts/link_pages.py", "--new", "--apply",
                            "--out", f"eval/runs/page-links/{args.label}.ndjson"],
                           SCRAPE_CONSOLE_LOG_PATH)
+        # The overnight cleanup of 2026-10-20 did by hand, wiki-wide, what each batch should do
+        # for its own pages; these keep it from accruing again. Claims: link the batch's new
+        # claims into the concept pages that should cite them (a second model verifies each
+        # link), and fold a new claim into an existing one only when two models agree it states
+        # the same finding (link_claims labels candidates above; title near-duplicates too).
+        # Pages: judge new same-folder title pairs (only pairs no judge has decided are asked),
+        # give inline author-year citations their link where the wiki says which work it is,
+        # and re-render the study tables, whose members a merge may have just folded.
+        new_files = subprocess.run(["git", "status", "--porcelain", "--untracked-files=all"],
+                                   cwd=WIKI_ROOT, capture_output=True, text=True).stdout.splitlines()
+        new_claims = [l[3:-3].split("/", 1)[1] for l in new_files
+                      if l.startswith("??") and l[3:].startswith("claims/") and l.endswith(".md")
+                      and not l.endswith("/index.md")]
+        if new_claims:
+            keys = WIKI_ROOT / "eval" / "runs" / "page-links" / f"{args.label}-new-claims.txt"
+            keys.parent.mkdir(parents=True, exist_ok=True)
+            keys.write_text("\n".join(new_claims) + "\n", encoding="utf-8")
+            print(f"\n=== linking the batch's new claims into concept pages ===", flush=True)
+            _run_chained_step([sys.executable, "-u", "scripts/link_pages.py", "--orphan-claims",
+                               "--only", str(keys), "--verify", "--apply",
+                               "--out", f"eval/runs/page-links/orphans-{args.label}.ndjson"],
+                              SCRAPE_CONSOLE_LOG_PATH)
+        print(f"\n=== merging claims two models judge the same finding ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/judge_claim_merges.py", "--judge", "--titles"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        _run_chained_step([sys.executable, "-u", "scripts/judge_claim_merges.py", "--apply"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        print(f"\n=== judging new near-duplicate pages ===", flush=True)
+        for kind in okf_lib.CONTENT_FOLDERS:
+            if kind != "claims":
+                _run_chained_step([sys.executable, "-u", "scripts/judge_duplicates.py", "--type", kind, "--apply"],
+                                  SCRAPE_CONSOLE_LOG_PATH)
+        print(f"\n=== linking inline author-year citations ===", flush=True)
+        _run_chained_step([sys.executable, "-u", "scripts/link_inline_citations.py", "--apply"],
+                          SCRAPE_CONSOLE_LOG_PATH)
+        print(f"\n=== re-rendering study tables ===", flush=True)
+        for spec in sorted((WIKI_ROOT / "eval" / "synthesis").glob("*.json")):
+            if _run_chained_step([sys.executable, "-u", "scripts/synthesize_claim.py", "--apply", str(spec)],
+                                 SCRAPE_CONSOLE_LOG_PATH):
+                print(f"=== study table {spec.name} did not render: a member was probably merged; "
+                      f"edit the spec ===", flush=True)
         # A claim reporting a finding about a learner characteristic (prior knowledge,
         # working memory, ...) links into its learner-variables/ page and back, the join
         # learning-design-spec's learner dimensions reach the research through. Without
@@ -461,13 +504,14 @@ def run(args) -> None:
                           SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/build_indexes.py"], SCRAPE_CONSOLE_LOG_PATH)
 
-        # The judge the batch no longer gates on is spent here, on the claims the
-        # most design pages cite (eval/load-bearing/README.md). Only entries that
-        # changed or newly entered the top 200 are judged, so this costs cents. It
-        # writes to no page and cannot fail the batch: its failures are for a person.
+        # The judge the batch no longer gates on is spent here, on every claim three or
+        # more design pages cite (eval/load-bearing/README.md), not only the top 200: a
+        # batch's new pages can make a claim load-bearing far down the ranking. Only entries
+        # whose page or source text changed are judged, so this costs cents. It writes to no
+        # page and cannot fail the batch: its failures are for a person.
         print(f"\n=== judging the most-cited claims' evidence ===", flush=True)
         _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py",
-                           "--top", "200", "--min-designs", "3", "--budget", "0.25"], SCRAPE_CONSOLE_LOG_PATH)
+                           "--top", "5000", "--min-designs", "3", "--budget", "2"], SCRAPE_CONSOLE_LOG_PATH)
         _run_chained_step([sys.executable, "-u", "scripts/check_load_bearing.py", "--report"],
                           SCRAPE_CONSOLE_LOG_PATH)
 

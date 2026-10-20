@@ -72,7 +72,10 @@ Peer assessment is the element in which learners evaluate the work or reasoning 
 - [Discussion-Based Learning](../principles/collaborative-learning.md)
 
 ## Examples
+
 - Learners score peer work with a rubric and justify their ratings.
+- [Moodle Workshop module](../products/moodle-workshop-module.md): Moodle's Workshop activity, which distributes submissions for anonymous peer and teacher marking against a scheme
+- [iLAP (Interactive Learning and Assessment Platform)](../products/ilap-interactive-learning-and-assessment-platform.md): a platform for assignment submission, rubric-based peer assessment and performance monitoring
 
 ## Key Sources
 - Topping, K. J. (1998). Peer assessment between students in colleges and universities. *Review of Educational Research, 68*(3), 249-276. [https://doi.org/10.3102/00346543068003249](https://doi.org/10.3102/00346543068003249)

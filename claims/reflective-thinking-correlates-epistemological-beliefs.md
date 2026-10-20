@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
-description: Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
+title: Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge
+description: Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge
 id: reflective-thinking-correlates-epistemological-beliefs
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 1
 ---
 
-# Reflective thinking dimensions correlate positively with learning process/expert knowledge and learning effort, and negatively with innate/fixed ability and certainty of knowledge
+# Reflective thinking dimensions correlate positively with learning process/expert knowledge, and most correlate positively with learning effort and negatively with innate/fixed ability and certainty of knowledge
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q3` · `i1` small
@@ -54,7 +54,7 @@ Balta, E. E. (2018). Reflective Thinking Tendencies and Epistemological Beliefs 
 
 `q3 · i1` · `associational · r1`
 
-Correlation analysis (Table 6, n=410) for the looking professional dimension; all printed correlations are small in magnitude. The researcher and foresighted and sincere dimensions were not correlated with innate/fixed ability in the printed table.
+Correlation analysis (Table 6, n=410) for the looking professional dimension, whose correlations are small (|r| = .16 to .28); Table 6 also prints larger ones elsewhere, such as r = .537 between learning process/expert knowledge and learning effort. Not every reflective-thinking dimension correlated with every belief: researcher (r = -.017) and foresighted and sincere (r = -.029) were not significantly correlated with innate/fixed ability or with certainty of knowledge, and open-minded was not significantly correlated with learning effort.
 
 > "Moreover, looking professional dimension was significantly and positively correlated with learning process/expert knowledge (r=0,278;  p<0,01) and learning effort (r=0,161; p<0,0 1) while it significantly and negatively correlated with innate/fixed ability (r= -0,179; p<0,0 1) and certainty of knowledge (r=-0,165; p<0,01)."
 

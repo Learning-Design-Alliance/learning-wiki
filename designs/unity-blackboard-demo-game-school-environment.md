@@ -44,7 +44,8 @@ A standalone Universal Windows Platform demo game serving as the practical use c
 - [Hypergamification: bidirectional LMS-game integration where the whole game environment is generated from LMS content](hypergamification-bidirectional-lms-game-integration.md)
 
 ## Examples
--
+
+- [Reusable Unity package for Blackboard Learn API integration](../products/reusable-unity-package-for-blackboard-learn-api-integration.md): the reusable Unity package that handles Blackboard authentication and Learn API calls
 
 ## Key Sources
 - Araz Yusubov, Tangiz Alizada, Michael Bechtel. (2026). Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game. https://github.com/ADA-SITE-SITE4890-2023-Spring/senior-design-project-ay5-gamification-2-0-unity-bb/

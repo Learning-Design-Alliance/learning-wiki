@@ -58,7 +58,7 @@ Categorical moderator analysis under the random effects model comparing subgroup
 - [SRL training programs targeting older students and students with lower prior academic achievement show larger effects on resource management strategies](student-characteristics-moderate-resource-management-effects.md) — related
 - [No group differences appear in self-regulation, strategies, or motivation across the four mathematics achievement groups](no-group-differences-other-metacognition.md) — related
 - [Self-regulated learning facets that are conceptually common across three popular questionnaires appear empirically disparate](srl-questionnaire-facets-empirically-disparate.md) — related
-- [AI applications support self-regulated learning regulation but not motivational regulation](ai-supports-srl-not-motivation-regulation.md) — related
+- [Learners perceive AI applications as useful for regulating their learning but not for regulating motivation](ai-supports-srl-not-motivation-regulation.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Self Regulated Learning Predicts Achievement](self-regulated-learning-predicts-achievement.md) — related
 - [Most direct SRL promotion targeted cognitive capabilities and rarely mentioned the benefit of strategy use](cognitive-capability-dominance-benefit-rarely-mentioned.md) — related

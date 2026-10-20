@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Guided reflection assignments produce roughly twice as much written reflection as free assignments
-description: Guided reflection assignments produce roughly twice as much written reflection as free assignments
+title: Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments
+description: Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments
 id: guided-reflection-produces-longer-reflections
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Guided reflection assignments produce roughly twice as much written reflection as free assignments
+# Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
@@ -35,7 +35,7 @@ Sturgill, A., & Motley, P. (2014). Methods of Reflection about Service Learning:
 
 `q2 · i?` · `causal · r1`
 
-Paragraph-count comparison across two guided and two free journal sections of the same course cohort. The authors interpret the longer guided output as suggesting "students spent more time in preparing the longer reflections" and potentially more thinking.
+Paragraph-count comparison across two guided and two free journal sections of the same course cohort. The sections were intact course sections, not randomly assigned, and the authors say the study lacks experimental control, so the difference cannot be attributed to the assignment type alone. The authors interpret the longer guided output as suggesting "students spent more time in preparing the longer reflections" and potentially more thinking.
 
 > "There were two sections each given guided and free journal assignments. The guided journals yielded 926 paragraphs; the free journals, 478."
 
@@ -48,5 +48,5 @@ Paragraph-count comparison across two guided and two free journal sections of th
 
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — related
-- [Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
+- [Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related

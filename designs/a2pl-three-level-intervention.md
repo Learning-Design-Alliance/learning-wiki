@@ -17,7 +17,7 @@ sources:
 # A2PL three-level intervention design: Person, Task, and Person x Task levels
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The A2PL intervention operates at three levels. At the Person level, learners reflect on aspirations and long-term vision of societal achievement and professional growth. At the Task level, "Learners and GAI co-create complex thinking tasks within real world scenarios that align with learners' aspirations". At the Person x Task level, learners construct a summative self-assessment framework by aligning identified ability, skill, and strategy gaps with task-aligned personal aims, fostering a more clearly defined strategic learning pathway. Starting from the second round, reflective practices adjust alignment and initiate a new SDL cycle.
@@ -38,7 +38,8 @@ The A2PL intervention operates at three levels. At the Person level, learners re
 - strategically aligned personal learning pathways
 
 ### Claims
-- 
+
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](../claims/whole-person-initiatives-fragmented-siloes-fail.md) [+W]
 
 ## Related Designs
 - 

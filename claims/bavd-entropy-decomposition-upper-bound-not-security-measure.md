@@ -43,5 +43,7 @@ Analytical correction (Equations 11a-11b, Theorem 3): decoy placement is drawn c
 
 
 ## Related Claims
+
 - [Theoretical results establish content fidelity, rendering stability, entropy boundedness, and integrity convergence for the BAVD model](bavd-theoretical-properties-fidelity-stability-convergence.md) — related
 - [Accessibility attenuation buys reduced sensory burden at a measurable, monotone cost in capture resistance](bavd-attenuation-monotone-accessibility-security-tradeoff.md) — related
+- [The temporal diversion channel is unavailable on commodity 60 Hz displays, leaving a weaker spatial-only variant](bavd-temporal-channel-unavailable-60hz-hardware.md)

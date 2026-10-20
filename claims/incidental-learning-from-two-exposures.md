@@ -47,4 +47,4 @@ Simple effects analyses in block 1 of the translation recognition task (66 analy
 - [No significant overall linear trend of exposure number on the incidental learning effect, though two exposures yield a significantly smaller effect than eight in block 1](no-linear-trend-two-versus-eight-exposures.md) — related
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related
 - [Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect](per-exposure-gains-decrease.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related

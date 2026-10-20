@@ -43,4 +43,4 @@ The framework recommends that educators implement AI learning objectives by pair
 -
 
 ## Key Sources
-- Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students
+- Miao, Fengchun; Shiohira, Kelly; Lao, Natalie. (2024). AI competency framework for students. UNESCO. https://www.unesco.org/en/articles/ai-competency-framework-students [doi:10.54675/jkjb9835](https://doi.org/10.54675/jkjb9835)

@@ -27,6 +27,7 @@ Scholastic RISE and RISE Up is a Scholastic Tier 2 small-group reading intervent
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Scholastic RISE and RISE Up Tier 2 small-group reading intervention program**: Scholastic RISE and RISE Up is a Tier 2 intervention for students in grades 1-5 providing "targeted small-group instruction to address and prevent reading gaps using explicit, structured comprehension, word study, phonics instruction, and guided writing". RISE (levels C-N) has groups of four students rotate through four stations; RISE Up (levels O-Z) uses three stations focused on comprehension strategies on short texts. A kit provides teacher resources, books, short reads, and digital access. (Schechter et al (2024))
+- [Small-group station rotation for Tier 2 reading](../designs/small-group-station-rotation-tier2-reading.md): groups of four rotating through instruction stations 45-60 minutes a day for six to eight weeks
 
 ### Claims
 

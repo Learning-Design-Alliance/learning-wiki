@@ -71,7 +71,7 @@ Self-assessment against explicit criteria is the specific form that works, becau
 ### Target Learning Goals
 - Self-regulation: planning, monitoring, and adjusting one's own learning [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [+M]
 - Calibration — bringing confidence into line with actual performance
-- Improved performance on the work itself, via the feedback half of the pair [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- Improved performance on the work itself, via the feedback half of the pair [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]
 - Internalized criteria: knowing what good looks like without being told each time
 - Persistence, since visible cumulative progress is more motivating than isolated marks
 

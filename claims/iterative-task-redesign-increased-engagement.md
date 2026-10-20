@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Iterative redesign of a peer-feedback task increased class engagement across three rounds
-description: Iterative redesign of a peer-feedback task increased class engagement across three rounds
+title: In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class
+description: In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class
 id: iterative-task-redesign-increased-engagement
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Iterative redesign of a peer-feedback task increased class engagement across three rounds
+# In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r3` · `q2`
 
 ## Subclaims
-`q2 i?` Across three rounds of improvement of a weekly speaking task (Text Chat feedback, then notetaking in Chat, then anonymous two-column Whiteboard notetaking), the teacher produced progressively more engaged classes. [→ Qi 2022](#qi-2022)
+`q2 i?` Across three rounds of improvement of a weekly speaking task, Text Chat feedback in Week 2 drew only four students, notetaking in Chat in Week 3 produced more specific and varied notes (which the authors read as a much more engaged class), and Week 5 moved notetaking to an anonymous two-column Whiteboard, which the teacher found more effective than Chat; engagement was not measured. [→ Qi 2022](#qi-2022)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Qi, G. Y., & Wang, Y. (2022). Challenges and responses: A Complex Dynamic System
 
 `q2 · i?` · `qualitative · r3`
 
-Stimulated-recall and class-recording evidence from Period 3: Week 2 Text Chat feedback drew only four students, Week 3 notetaking drew more specific and varied notes, and Week 5 added an anonymous two-column Whiteboard that engaged both cohorts.
+Stimulated-recall and class-recording evidence from Period 3: Week 2 Text Chat feedback drew only four students, Week 3 notetaking drew more specific and varied notes, and Week 5 added an anonymous two-column Whiteboard which, placed at the centre of the interface, "could easily draw the attention of both cohorts"; the article does not measure engagement in Week 5.
 
 > "In Week 3, Yang changed the provision of peer feedback to notetaking by asking the students to type what they heard from the presentation, as much as they could. As shown in Appendix C, more specific and varied notes were recorded in the Text Chat, showing a much more engaged class."
 

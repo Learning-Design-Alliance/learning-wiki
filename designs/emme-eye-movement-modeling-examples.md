@@ -46,7 +46,8 @@ EMME are recordings of a model's eye movements performed during a task, overlaid
 - Emme Three Perspectives Effectiveness
 
 ## Examples
--
+
+- [Frame abstract gaze cues as human eye movements in the introductory text so learners perceive EMME as a social learning situation](../strategies/introduce-gaze-cues-as-human-gaze.md): telling learners the abstract cue is a person's gaze, so EMME are read as a social learning situation
 
 ## Key Sources
 - Krebs, M.-C., Schüler, A., & Scheiter, K. (2021). Do prior knowledge, model-observer similarity and social comparison influence the effectiveness of eye movement modeling examples for supporting multimedia learning? Instructional Science, 49, 607–635. https://doi.org/10.1007/s11251-021-09552-7

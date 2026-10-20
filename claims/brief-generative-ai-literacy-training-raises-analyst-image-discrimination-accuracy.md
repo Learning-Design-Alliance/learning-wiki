@@ -63,7 +63,7 @@ Same pre-registered OLS analysis applied to pair accuracy, a stricter post hoc m
 ## Related Claims
 
 - [AI literacy interventions show a large, statistically significant overall positive effect on student AI literacy outcomes (g = 0.837)](ai-literacy-interventions-large-overall-effect.md) — the general claim this finding bears on, with the studies behind it
-- [Training improved accuracy across all digital-forensics experience and generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users](training-gains-across-experience-levels-largest-for-novices.md) — related
+- [Training improved accuracy in every digital-forensics experience group and most generative-AI familiarity groups, with the largest estimated gains among analysts with no forensics experience and frequent generative-AI users](training-gains-across-experience-levels-largest-for-novices.md) — related
 - [The training gain was driven by a 14.2-percentage-point improvement in accuracy on real images, while the gain on AI-generated images was not statistically significant](training-gain-driven-by-real-image-accuracy-not-skepticism.md) — related
 - [Training effects concentrated in portrait images (+39.8 percentage points, significant), with directional non-significant negative estimates for full-body and posed-group images](training-effects-largest-for-portrait-images.md) — related
 - [Training gains were distributed broadly across the 97 stimulus images rather than concentrated in a small subset, though stimulus-level effects were heterogeneous](training-gains-distributed-broadly-across-stimuli.md) — related

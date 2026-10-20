@@ -284,7 +284,7 @@ The article concludes that "Teachers are responsible for determining a topic's l
 
 - [Mental Effort Study Time Indicate Element Interactivity](../claims/mental-effort-study-time-indicate-element-interactivity.md) [+M]
 - [Clt Design Effective Learning Retention Transfer](../claims/clt-design-effective-learning-retention-transfer.md) [+M]
-- [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](../claims/retention-transfer-scores-decrease-with-element-interactivity.md) [+W]
+- [In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it](../claims/retention-transfer-scores-decrease-with-element-interactivity.md) [+W]
 - [A CLT-based instructional design yields significantly higher retention and transfer scores than lecturer-designed instruction in thermodynamics, controlling for prior knowledge and memory span](../claims/clt-instructional-design-raises-retention-transfer-thermodynamics.md) [+W]
 - [No significant difference between groups on the thermodynamics achievement post-test or cognitive load scale after CLT-based versus lecturer-designed instruction](../claims/no-group-difference-tat-posttest-cls.md) [~W]
 

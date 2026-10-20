@@ -79,10 +79,12 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Situated Learning](situated-learning.md) — shares the claim that knowledge and development cannot be understood apart from the social, material, and cultural context in which they occur
 - [Social Learning Theory](social-learning-theory.md) — Bandura's observational learning (e.g., parental role modeling) operates within the microsystem this model describes
 - [Contextual Systems Model (CSM): child/family and school/schooling as interrelated systems](contextual-systems-model-csm.md)
+- [Layers of Necessity Model](layers-of-necessity-id-model.md)
 
 ## Examples
 <!-- Candidate future claim page: authoritative vs. authoritarian parenting effects are moderated by neighborhood risk context (Florsheim, Tolan, & Gorman-Smith, 1996), tagged [~M]. -->
 - [Reciprocal peer teaching with parent-facing explanation to sustain collaborative learning in exam-oriented contexts](../strategies/reciprocal-teaching-parent-persuasion-strategy.md)
+- [Conditions for equitable learning and development: personal, school and system](../designs/conditions-for-equitable-learning-and-development-three-categories.md) — a district alignment framework whose three categories follow ecological levels
 
 ## Key Sources
 - Bronfenbrenner, U. (1979). *The ecology of human development: Experiments by nature and design*. Harvard University Press.

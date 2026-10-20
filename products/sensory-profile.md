@@ -13,7 +13,7 @@ generated:
 # Sensory Profile
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The Sensory Profile is a parent-reported standardized questionnaire developed by Winnie Dunn for assessing children's sensory processing in everyday activities, including auditory, visual, tactile, movement, and social-emotional responses.
@@ -24,8 +24,12 @@ The Sensory Profile is a parent-reported standardized questionnaire developed by
 
 ### Claims
 
+- [ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD](../claims/odd-anxiety-predict-severe-sensory-problems.md) [+M] (sensory problems assessed with the Sensory Profile and related checklists)
+- [Tactile defensiveness in ADHD is specific to affected children, more frequent in females, and not due to tactile perception impairment](../claims/tactile-defensiveness-specific-to-adhd-children.md) [+M]
+
 ## Related Products and Programmes
--
+
+- [Educate parents about sensory processing problems and minimize classroom background noise for children with ADHD and auditory processing problems](../strategies/parent-education-and-noise-minimization-for-sensory-problems.md): the classroom and home responses the same review recommends once sensory problems are identified
 
 ## Key Sources
 - Ghanizadeh A. (2011). Sensory Processing Problems in Children with ADHD, a Systematic Review. Psychiatry Investig 2011;8:89-94. https://doi.org/10.4306/pi.2011.8.2.89

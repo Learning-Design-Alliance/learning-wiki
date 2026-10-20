@@ -57,7 +57,7 @@ Value affirmation addresses the motivational and identity-based barriers that de
 5. Avoid collecting or grading the writing; evaluative framing undermines the self-integrity mechanism
 
 ## Related Strategies
-- [Belonging interventions](../claims/belonging-interventions-improve-outcomes.md) — the closely related family of social-psychological interventions; both target threat rather than content
+- [Belonging interventions](belonging-interventions.md) — the closely related family of social-psychological interventions; both target threat rather than content
 - [Check-In](../elements/check-in.md) — routine affective monitoring that sustains the same psychological safety over time
 
 ## Examples

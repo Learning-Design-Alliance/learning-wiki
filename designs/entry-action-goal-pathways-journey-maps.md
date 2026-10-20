@@ -42,7 +42,8 @@ The blueprint uses journey maps as a reusable design structure for codifying suc
 - 
 
 ## Related Designs
-- 
+- [Blueprint for statewide pathways scaling](../products/blueprint-for-statewide-pathways-scaling.md) — the blueprint these journey maps belong to
+- [Statewide pathways theory of action for regional replication](../theories/statewide-pathways-theory-of-action-regional-replication.md)
 
 ## Examples
 -

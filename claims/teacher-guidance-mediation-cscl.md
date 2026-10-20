@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
-`q2 i?` Across multiple studies in the issue (Greiffenhagen; Song and Looi; Onrubia and Engel), teacher guidance—both in-the-moment rounds and orchestrated enactment of designs or scripts—h significantly shapes collaborative learning outcomes. [→ Gerry Stahl 2012](#gerry-stahl-2012)
+`q2 i?` In his editorial, Stahl draws a common theme of teacher guidance from three papers in the issue: Greiffenhagen's single ethnomethodological case study of a teacher's classroom rounds (offered as insight, not as an effect on outcomes), Song and Looi's comparative study of two teachers, in whose summary he states that how teachers enact lessons "has a significant impact on the outcomes of student collaborative learning", and Onrubia and Engel's exploratory case study relating teacher assistance to group work and group performance. [→ Gerry Stahl 2012](#gerry-stahl-2012)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Gerry Stahl. (2012). Ethnomethodologically informed. Computer-Supported Collabor
 
 `q2 · i?` · `theoretical · r3`
 
-In his editorial summary, Stahl reports Song and Looi's microanalytic study of two teachers teaching the same inquiry-based CSCL lesson in Singapore with Group Scribbles, showing that teacher beliefs and moment-by-moment enactment practices shaped student learning outcomes across the two classrooms.
+In his editorial summary, Stahl summarises Song and Looi's fine-grained comparative study of two teachers teaching the same inquiry-based CSCL lesson in Singapore with Group Scribbles, an analysis "oriented to discover the connections among teacher beliefs, teacher practices and student learning"; the editorial states the conclusion quoted below but does not report the study's comparative findings.
 
 > "How teachers enact the lessons and orchestrate classroom interactions has a significant impact on the outcomes of student collaborative learning."
 

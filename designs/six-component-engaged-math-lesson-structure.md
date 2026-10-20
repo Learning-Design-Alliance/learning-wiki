@@ -40,6 +40,11 @@ The observed middle school math lessons shared a common structure of six compone
 ### Claims
 - 
 
+## Patterns Used
+- ["Which one doesn't belong" low-stakes warm-up](../strategies/which-one-doesnt-belong-low-stakes-warmup.md): the warm-up component, with multiple entry points and no grade
+- [Cooperative Learning](../patterns/cooperative-learning.md): the group activity at standing whiteboard stations, with randomly assigned rather than ability-based groups
+- [Mathematics belonging recognition practices](../strategies/mathematics-belonging-recognition-practices.md): the share-out and checks that recognise each student's contribution
+
 ## Related Designs
 - 
 

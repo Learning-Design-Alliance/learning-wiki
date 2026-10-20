@@ -41,6 +41,7 @@ Gateway practices an inclusion model in keeping with its founding mission to sup
 ## Related Strategies
 
 - [Learning seminar courses that teach students how to learn by addressing behaviors, mindsets, and habits that undermine learning](gateway-learning-seminar-courses.md)
+- [Gateway guiding principles and structures](../designs/gateway-guiding-principles-structures-pattern.md) — the whole-school design this practice belongs to
 
 ## Examples
 -

@@ -41,7 +41,7 @@ An intensive 6-week literacy unit embedded within two existing special education
 - [2009 Cohort Significant Literacy Knowledge Gains](../claims/2009-cohort-significant-literacy-knowledge-gains.md) [+M]
 
 ## Related Designs
-- 
+- [Dual-perspective weekly literacy presentations](dual-perspective-weekly-literacy-presentations.md) — each week's topic presented first for typically developing learners, then for students with exceptional learning needs
 
 ## Examples
 -

@@ -17,7 +17,7 @@ sources:
 # Shared story reading: reader-listener interaction around read-aloud age-appropriate literature with supported student interaction
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (1 for, 1 mixed) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 Shared story reading (also called read alouds, repeated storybook reading, story-based lesson, and literacy-based lesson) is defined as "a practice used to access age-appropriate literature through reader-listener interaction in which a story is read aloud and student interaction with the reader and the story is supported." Common features include repeated story lines, attention getters, picture symbols paired with words, summarized text with controlled vocabulary, and repeated readings. With older children, lesson content and style reflect age-appropriate literature such as chapters.
@@ -38,9 +38,13 @@ Shared story reading (also called read alouds, repeated storybook reading, story
 
 ### Claims
 - Shared Story Reading Moderate Evidence Extensive Support Needs [+M]
+- [Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading](../claims/twenty-participants-literacy-gains-shared-story-reading.md) [+M]
+- [Shared story reading was always implemented as one component of a multi-component intervention package, so component contributions are unknown](../claims/shared-story-reading-multicomponent-package-unknown-components.md) [~M] — which of the common features does the work is not known
+
+## Patterns Used
+- [Shared Reading](../strategies/shared-reading.md): a story read aloud with supported reader-listener interaction, adapted with repeated story lines, attention getters, picture symbols and controlled vocabulary for students with disabilities
 
 ## Related Designs
-- 
 
 ## Examples
 -

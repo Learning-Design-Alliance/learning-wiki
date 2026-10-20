@@ -27,7 +27,7 @@ A mobile augmented-reality app developed by Heather Toomey Zimmerman and colleag
 - [Sensory immersion prompted by the MAR app supported families' geoscientific talk and observation of rock features during place-based LOTM.](../claims/sensory-immersion-prompted-geoscientific-observation.md) [+W]
 - [All families took photographs at each microsite as evidence of their observation, with only one family personalizing photos by including children.](../claims/photo-taking-evidence-of-observation.md) [+W]
 - [Families engaged in multiple immersive processes at the same microsites, combining sense-making conversations, observational inquiry, and deep geoscience engagement.](../claims/multiple-immersive-processes-at-microsites.md) [+W]
-- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.](../claims/gps-wayfinding-actional-immersion-accessible.md) [+W]
+- [All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.](../claims/gps-wayfinding-actional-immersion-accessible.md) [+W]
 - [No substantial example of emancipatory immersion was found in the family data, despite the framework including it.](../claims/no-substantial-emancipatory-immersion-example.md) [-W]
 - [Families' geoscience sense-making during learning-on-the-move was shaped by the immersive qualities of a mobile AR app](../claims/mobile-ar-families-immersive-geoscience-lotm.md) [+W]
 

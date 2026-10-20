@@ -48,7 +48,8 @@ The CRITICS approach integrates machine translation and educational technology a
 - [Teaching and Learning Sequence (TLS) generator transforming translated scientific literature into structured educational resources](tls-generator-translated-scientific-literature.md)
 
 ## Examples
--
+
+- [CRITICS](../products/critics.md): the project's product page, describing its LLM-based scientific document translation system
 
 ## Key Sources
 - Agerri, R., Aldabe, I., Cabrio, E., Cieliebak, M., Deriu, J., Flores, M., Kapočiūtė-Dzikienė, J., Kuizinienė, D., Rico, A., Ruiz-González, A., Soroa, A., Vaškevičius, M. and Villata, S. (2026). CRITICS - Critical Science Without Borders: Language Models to Promote Critical Thinking in Science Education. SEPLN 2026. https://www.hitz.eus/critics

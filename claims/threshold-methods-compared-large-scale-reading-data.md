@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` A large-scale study compared threshold-setting methods for detecting noneffortful item responses using reading test scores from over 728,923 3rd-8th-grade students in 2,056 schools across the US. [→ Soland 2021](#soland-2021)
+`q2 i?` A large-scale study compared threshold-setting methods for detecting noneffortful item responses using reading test scores from over 728,923 3rd-8th-grade students in 2,056 schools in one U.S. state (the abstract says "across the United States", but the Methods section places the data in one state). [→ Soland 2021](#soland-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Soland, J., Kuhfeld, M., & Rios, J. (2021). Comparing different response time th
 
 `q2 · i?` · `associational · r2`
 
-An NWEA publications listing (read in place of the article) gives this study's summary: a large-scale comparison of threshold-setting methods on reading test scores, covering "over 728,923 3rd–8th-grade students in 2,056 schools across the US". No per-method results are printed in the listing.
+An NWEA publications listing (read in place of the article) gives this study's summary: a large-scale comparison of threshold-setting methods on reading test scores, covering "over 728,923 3rd–8th-grade students in 2,056 schools across the US". No per-method results are printed in the listing. The article's Methods section states that the data are from one U.S. state, so "across the US" describes the summary's wording, not a nationwide sample.
 
 > "This study uses reading test scores from over 728,923 3rd–8th-grade students in 2,056 schools across the US to compare threshold-setting methods to detect noneffortful item responses."
 

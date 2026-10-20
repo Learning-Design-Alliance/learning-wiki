@@ -42,6 +42,7 @@ From open-ended survey responses, the report tallies seven activity types grante
 ## Related Designs
 
 - [Twelve common TA set-aside activities supporting quality authorizing, led by contracting providers and evaluating current practices](se-quality-authorizing-ta-activity-set.md)
+- [Charter Schools Program technical-assistance set-aside](../products/charter-schools-program-csp-technical-assistance-set-aside.md) — the federal set-aside these activities are funded from
 
 ## Examples
 -

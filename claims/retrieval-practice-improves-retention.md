@@ -239,7 +239,7 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Distributed practice improves retention.](spaced-practice-improves-retention.md) — spaced retrievals amplify the testing effect relative to massed testing
 - [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](desirable-difficulties-enhance-learning.md) — possibly the same claim (merge candidate)
 - [Feedback Enhances Retrieval Practice](feedback-enhances-retrieval-practice.md) — related
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md) — a narrower finding that bears on this claim
+- [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](high-confidence-errors-improve-retention.md) — a narrower finding that bears on this claim
 - [Gains from an intensive period of second-language study persist for weeks without rehearsal.](l2-fluency-gains-persist-weeks-without-practice.md) — a narrower finding that bears on this claim
 - [Faster rate of learning may be negatively related to long-term retention (efficiency-effectiveness trade-off)](learning-rate-retention-tradeoff.md) — related
 - [Repeatedly recalling a text without feedback or rereading produces the best one-week retention, while repeated studying leads on a final test at the end of the session](repeated-recall-without-feedback-beats-repeated-study-at-one-week-but-not-five-minutes.md) — a narrower finding that bears on this claim

@@ -39,7 +39,7 @@ Unit (a 3-day, 4-hours-per-day camp in the source study — one craft type per d
 
 ### Target Goals
 - Developing multiplicative proportional reasoning through personally-defined, materially-constrained units
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](../claims/fiber-crafting-develops-proportional-reasoning-through-unitizing.md) [+M]
 
 ### Target Learners
 - Upper-elementary/middle-school learners (studied at ages 9-12), including learners for whom traditional symbolic approaches to proportional reasoning have not been effective

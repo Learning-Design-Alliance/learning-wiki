@@ -41,7 +41,7 @@ Skyline College's Education/Child Development Program is a traditional community
 - [Clinical support (communication, observation, feedback) is strongly related to perceived preparation effectiveness, yet 43% of preservice completers reported less than the required 600 hours of student teaching](../claims/clinical-support-related-to-preparedness-600-hours.md) [+W]
 
 ## Related Designs
-- 
+- [Six common features of promising early educator preparation models](common-features-promising-ece-preparation-models.md) — the cross-case features this programme shares
 
 ## Examples
 -

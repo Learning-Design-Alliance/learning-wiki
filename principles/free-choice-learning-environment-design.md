@@ -155,6 +155,7 @@ Dwell time, voluntary return, self-extended projects, explained understanding at
 - FUSE Studio: ~30 leveled STEAM challenges, no completion requirements, a peer-expert help-seeking structure, and facilitators who "circle the room, observe, and drop in."
 - [Intelligent Mixed-Reality Exhibit](../designs/intelligent-mixed-reality-exhibit.md): the design behind the one randomised exhibit comparison (step 4)
 - [Design assessment as information, not reward and punishment, and provide an engaging curriculum with choice and community](../strategies/assessment-as-information-not-reward.md)
+- [Co-Census](../products/co-census.md) — museum software that turns visitors' answers about identity, family and work into visualisations they control by moving, to spark dialogue among visitors
 
 ## Key Sources
 - Ashton, S., Nelson, K. R., & Millward, L. (2018). Careers in museum learning: Making a difference in museums through instructional design. In R. West (Ed.), *Foundations of Learning and Instructional Design Technology*. EdTech Books. [https://edtechbooks.org/lidtfoundations/careers_in_museum_learning](https://edtechbooks.org/lidtfoundations/careers_in_museum_learning)

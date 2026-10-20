@@ -49,7 +49,8 @@ El patrón organiza la enseñanza en cinco actividades encadenadas: indagación 
 - 
 
 ## Examples
--
+
+- [Ubicar el norte marcando la sombra de la punta de un gnomon sobre una circunferencia, en lugar de usar una brújula](../strategies/find-north-with-gnomon-shadow-curve.md): orientación sin brújula con la curva de la sombra de un gnomon
 
 ## Key Sources
 - Gangui, Alejandro; Iglesias, María C.; Quinteros, Cynthia P. (2009). El movimiento de las sombras: Una propuesta de trabajo para la escuela secundaria. Ciencia Hoy. https://cms.iafe.uba.ar/gangui

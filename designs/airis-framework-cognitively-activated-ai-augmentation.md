@@ -44,7 +44,7 @@ AIRIS (Activate – Inquire – Reflect with Intelligent Support) is a three-pha
 - 
 
 ## Examples
--
+- [Shard elevator acceleration task](shard-elevator-acceleration-ai-task.md) — smartphone acceleration data from an elevator ride, analysed through the AIRIS steps
 
 ## Key Sources
 - Jochen Kuhn, Stefan Küchemann, David J. Rakestraw, & Patrik Vogt. (2026). It's Not the Tool, It's the Task: A Framework for Cognitively Activated AI Augmentation in Physics Instruction.

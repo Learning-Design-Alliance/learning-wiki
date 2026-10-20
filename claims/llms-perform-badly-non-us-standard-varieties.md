@@ -64,5 +64,5 @@ Analysis of a ChatGPT-4 one-shot prompt rewriting an abstract in Nigerian Englis
 ## Related Claims
 - [In LLM-assisted team formation, persona nationality systematically shifts assignments, with Nigerian names favored for Quality Assurance and South Korean names for Interface Design relative to Chinese names](llm-team-formation-nationality-bias.md) — related
 - [Current LLMs reproduce linguistic hierarchies by being built on dominant standard English varieties, producing a monolithic English that ignores regional variation](llms-reproduce-linguistic-hierarchies-monolithic-english.md) — a broader claim this one bears on
-- [Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware](pidgin-fine-tuning-improves-linguistic-alignment.md) — related
+- [Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated](pidgin-fine-tuning-improves-linguistic-alignment.md) — related
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — related

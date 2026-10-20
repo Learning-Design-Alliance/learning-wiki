@@ -36,7 +36,7 @@ Chokri Barhoumi; Pier Giuseppe Rossi. (2013). The Effectiveness of Instruction-O
 
 `q2 · i?` · `causal · r1`
 
-Quasi-experimental comparison of two intact groups of 73 students each in a Moodle e-learning environment during academic year 2010; the experimental group studied Adobe Flash with flexible hypertext design, the control group Adobe Illustrator with direct design. Reported achievement-test averages were "experimental group (76%) and of the control group (59%)". No effect size or significance test is printed for this contrast. Because the two groups also studied different software (Flash against Illustrator), the difference in scores cannot be attributed to the course design alone.
+Comparison of two groups of 73 students each, formed by splitting each pretest achievement band in half and assigning the halves at random, in a Moodle e-learning environment during academic year 2010; the experimental group studied Adobe Flash with flexible hypertext design, the control group Adobe Illustrator with direct design. Reported achievement-test averages were "experimental group (76%) and of the control group (59%)". No effect size or significance test is printed for this contrast. Because the two groups also studied different software (Flash against Illustrator), the difference in scores cannot be attributed to the course design alone.
 
 > "Based on the value of the time suggested by online instructor (10 minutes) to finish one test and based on scores on achievement test of the experimental group (76%) and of the control group (59%), we deduced that students of the experimental group using online course design based cognitive flexibility hypertext theory acquired more knowledge"
 

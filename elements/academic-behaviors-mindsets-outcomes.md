@@ -45,7 +45,8 @@ The paper treats a set of non-tested student outcomes — "a range of academic b
 - [Upper-elementary teachers have large effects on students' self-reported behavior in class, self-efficacy in math, and happiness in class that are similar in magnitude to their effects on math test scores](../claims/teachers-large-effects-behaviors-mindsets-similar-to-test-scores.md) [+M]
 
 ## Related Elements
-- 
+
+- [Landscape analysis of instruments measuring learning strategies and student mindsets in middle childhood](landscape-analysis-non-cognitive-measures-instruments.md)
 
 ## Examples
 

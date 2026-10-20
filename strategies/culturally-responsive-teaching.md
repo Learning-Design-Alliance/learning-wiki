@@ -90,6 +90,7 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - [Teach AI/AN students through place-based content, culturally familiar interaction patterns, and culturally harmonious assessment integrated with the CCSS](place-based-culturally-harmonious-ccss-instruction.md)
 
 ## Examples
+
 - **Funds of Knowledge projects** (Moll et al., University of Arizona) — teachers conduct household visits to map students' community knowledge and design instruction around it.
 - **Zaretta Hammond's "Culturally Responsive Teaching and the Brain" framework** — pairs CRT with cognitive science, emphasizing information processing over cultural trivia.
 - **Educator microcredentials** tagged "addressing adult learner variability" and "designing for learner variability" — structured professional learning through which educators deepen CRT practice.
@@ -98,6 +99,7 @@ CRT treats students' cultural knowledge as an instructional asset rather than a 
 - **The Algebra Project** (https://www.algebraproject.org) — Robert Moses' curriculum that grounds algebra in students' physical and community experiences, demonstrating CRT applied to rigorous mathematics.
 - **Native American culturally based education programs** (e.g., the Sealaska Heritage "Voices on the Rampage" and language-nested schooling in Alaska and Hawai'i) — integrate Indigenous knowledge systems into standards-aligned instruction.
 - **Responsive Classroom** (https://www.responsiveclassroom.org) — morning meeting and [Check-In](../elements/check-in.md) structures that surface student experience as instructional input.
+- [Motivational Framework for Culturally Responsive Teaching (MFCRT)](../products/motivational-framework-for-culturally-responsive-teaching-mfcrt.md): Wlodkowski and Ginsberg's framework: inclusion, attitude, meaning and competence as conditions for intrinsic motivation
 
 ## Key Sources
 - Gay, G. (2018). *Culturally Responsive Teaching: Theory, Research, and Practice* (3rd ed.). Teachers College Press.

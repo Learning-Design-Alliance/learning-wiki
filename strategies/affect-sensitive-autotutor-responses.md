@@ -48,7 +48,7 @@ The authors propose programming AutoTutor to respond appropriately to affective 
 - [Affect-aware CPS systems should monitor local trajectories of confusion and disengagement over time rather than responding to isolated affective signals](monitor-local-affect-trajectories-in-cps-systems.md)
 
 ## Examples
--
+- [Annotated student-utterance emotion dataset (224 turns)](../products/annotated-student-utterance-emotion-dataset-224-turns-for-text-based-emotion-recognition-i.md) — boredom, engagement and neutral labels for training text-based emotion recognition in math tutoring
 
 ## Key Sources
 - Scotty D. Craig, Sidney D'Mello, Amy Witherspoon, and Art Graesser. (2008). Emote aloud during learning with AutoTutor: Applying the Facial Action Coding System to cognitive/affective states during learning. Cognition and Emotion, 22(5), 777-788. https://doi.org/10.1080/02699930701516759

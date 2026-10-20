@@ -39,6 +39,7 @@ Usage:
 
 import argparse
 import itertools
+import json
 import re
 import sys
 from collections import defaultdict
@@ -67,12 +68,30 @@ def _title(path: Path) -> str:
     return m.group(1) if m else path.stem.replace("_", " ").replace("-", " ")
 
 
-def find_pairs(folder: str, threshold: float = 0.6) -> list:
+def judged(folder: str) -> set:
+    """Pairs a model judge already decided (judge_duplicates.py, or judge_claim_merges.py for
+    claims), as frozensets of slugs. A pair judged the same was folded, so what remains here was
+    judged different: listing it again would ask for the same verdict and count it as open work."""
+    files = ([WIKI_ROOT / "eval" / "claim-merges" / "decisions.ndjson"] if folder == "claims"
+             else [WIKI_ROOT / "eval" / "duplicates" / f"{folder}.ndjson"])
+    out = set()
+    for f in files:
+        if f.exists():
+            for line in f.read_text(encoding="utf-8").splitlines():
+                if line.strip():
+                    d = json.loads(line)
+                    out.add(frozenset((d["keep"], d["fold"])))
+    return out
+
+
+def find_pairs(folder: str, threshold: float = 0.6, include_judged: bool = False) -> list:
     """[(score, path_a, path_b)] for same-folder pages whose titles overlap by
-    at least `threshold` (Jaccard over significant words), highest first."""
+    at least `threshold` (Jaccard over significant words), highest first. Pairs a
+    judge has already decided are left out unless `include_judged`."""
     d = WIKI_ROOT / folder
     if not d.exists():
         return []
+    done = set() if include_judged else judged(folder)
     pages = [(p, _tokens(_title(p))) for p in sorted(d.glob("*.md")) if p.stem != "index"]
 
     # Invert to token -> page ids so only pages sharing a word are compared.
@@ -93,7 +112,7 @@ def find_pairs(folder: str, threshold: float = 0.6) -> list:
             if not ta or not tb:
                 continue
             score = len(ta & tb) / len(ta | tb)
-            if score >= threshold:
+            if score >= threshold and frozenset((pages[a][0].stem, pages[b][0].stem)) not in done:
                 pairs.append((score, pages[a][0], pages[b][0]))
     pairs.sort(key=lambda x: -x[0])
     return pairs
@@ -106,12 +125,14 @@ def main() -> None:
     ap.add_argument("--threshold", type=float, default=0.6,
                     help="Minimum title-word overlap, 0-1 (default 0.6)")
     ap.add_argument("--out", default=None)
+    ap.add_argument("--include-judged", action="store_true",
+                    help="also list pairs a model judge has already decided")
     args = ap.parse_args()
 
     folders = (args.type,) if args.type else PAGE_TYPES
     lines, total = [], 0
     for folder in folders:
-        pairs = find_pairs(folder, args.threshold)
+        pairs = find_pairs(folder, args.threshold, args.include_judged)
         total += len(pairs)
         lines.append(f"\n## {folder} — {len(pairs)} candidate pair(s)\n")
         for score, a, b in pairs:

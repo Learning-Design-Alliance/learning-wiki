@@ -35,7 +35,7 @@ sources:
 
 `q2 · i?` · `causal · r2`
 
-Eye-tracking AOI analysis across the 36 participants; students spent 19.0 ± 10.2% of total time viewing the graph, taken about equally from input and statement areas. The quotient between input and statement did not differ significantly (p > 0.05).
+Eye-tracking AOI analysis of 36 participants randomly assigned to solve the problems with graphs (N = 20) or without (N = 16); dwell on the input and statement areas was compared across the two groups, and the 20 students with graphs spent 19.0 ± 10.2% of total time viewing the graph, taken about equally from input and statement areas. The quotient between input and statement did not differ significantly (p > 0.05).
 
 > "The proportion of total dwell time on both the input and problem statement was signiﬁcantly shorter when the graph was present, according to a two sample t test (p<0:001)"
 
@@ -48,4 +48,4 @@ Eye-tracking AOI analysis across the 36 participants; students spent 19.0 ± 10.
 - [Solving problems with graphs increased mental effort, shown by a higher proportion of silence in think-aloud data](graphs-increase-mental-effort-silence.md) — related
 - [Picture bias: graphs made students more likely to confirm problem statements, irrespective of whether the statements were true](picture-bias-graphs-confirm-statements.md) — related
 - [Frequent eye transitions between graph and problem statement were marginally associated with correct answers](graph-statement-transitions-performance.md) — related
-- [Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related
+- [Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](graph-helpful-harmful-contrasting-cases.md) — related

@@ -55,6 +55,7 @@ Role-playing is the element in which learners adopt roles and act through a scen
 
 ## Examples
 - Learners take stakeholder roles and negotiate a policy or case decision.
+- [Five characteristics of effective law-related education programs](../designs/effective-lre-program-characteristics.md) — role-play, simulations and mock trials for civic participation skills
 
 ## Key Sources
 - Yardley-Matwiejczuk, K. M. (1997). *Role play: Theory and practice*. Sage.

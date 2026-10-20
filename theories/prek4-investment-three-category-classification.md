@@ -39,10 +39,13 @@ The report develops a classification scheme that sorts states into three PreK4 i
 
 
 ## Related Theories
-- 
+
+- [Bloom's Taxonomy as a six-level scheme for classifying the cognitive level of multiple-choice questions](blooms-taxonomy-classifies-mc-question-cognitive-level.md)
 
 ## Examples
--
+
+- [Sort And Classify](../strategies/sort-and-classify.md)
+- [Little and McDaniel category learning paradigm distinguishing memorization from rule learning](../designs/little-mcdaniel-category-learning-paradigm.md)
 
 ## Key Sources
 - Sarah Collier Villaume, Amy Auletto, & Kadir Bahar. (2025). Investing Early: The Impact of State Prekindergarten Funding on Kindergarten Academic Outcomes. E4 Center. https://e4.northwestern.edu/2025/06/30/investing-early-the-impact-of-state-prekindergarten-funding-on-kindergarten-academic-outcomes/

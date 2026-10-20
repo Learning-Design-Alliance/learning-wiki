@@ -41,7 +41,8 @@ This element is the Mathematica Policy Research landscape analysis project on no
 
 
 ## Related Elements
-- 
+
+- [Academic behaviors and mindsets as student outcomes beyond test scores](academic-behaviors-mindsets-outcomes.md)
 
 ## Examples
 -

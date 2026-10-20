@@ -20,6 +20,8 @@ ASE-26 is Mikael Gorsky's twenty-one-module undergraduate curriculum for teachin
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Auditability principle and the seven-part anatomy of an agentic workflow](../designs/auditability-principle-seven-part-workflow-anatomy.md): the discipline's defining principle as the curriculum states it
+- [Durable principles versus contingent capabilities](../strategies/durable-principles-versus-contingent-capabilities.md): the closing module's inventory of what is likely to last
 
 ### Claims
 

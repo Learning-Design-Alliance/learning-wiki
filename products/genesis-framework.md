@@ -20,6 +20,7 @@ A five-pillar framework proposed by Ahangama (2026) for guiding GenAI-era assess
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
+- [Assessment Design Matrix (ADM)](../designs/assessment-design-matrix-adm.md): the practical guide the same article offers assessment designers, linking competencies, assessment strategies and methods
 
 ### Claims
 - [GenAI-era ICT assessment reform requires a whole-of-institution transformation across seven sequential themes](../claims/genai-assessment-reform-sequential-seven-themes.md) [+M]

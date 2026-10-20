@@ -150,7 +150,7 @@ A filled-in organizer, immediate comprehension, delayed retention, transfer and 
 ## Claims
 
 - [Teacher-initiated and student-mediated semantic mapping did not differ significantly in their effects on EFL reading comprehension](../claims/teacher-initiated-and-student-mediated-mapping-no-difference.md) [~W]
-- [Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](../claims/graph-helpful-harmful-contrasting-cases.md) [~W]
+- [Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present](../claims/graph-helpful-harmful-contrasting-cases.md) [~W]
 - [No evidence for a mapping between representational format and enhancement of a specific kind of understanding](../claims/no-format-knowledge-type-mapping.md) [-W]
 - [Semiempty concept mapping dyads use substantive historical and metahistorical concepts more often than summary-writing dyads](../claims/concept-mapping-more-historical-metahistorical-concepts.md) [+W]
 - [Merely adding an expert example concept map does not add to the value of students creating their own concept maps for this population](../claims/expert-example-alone-no-learning-gain-concept-mapping.md) [~W]
