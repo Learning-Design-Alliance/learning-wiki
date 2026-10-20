@@ -64,7 +64,7 @@ The report states that after these comparisons "the difference after these compa
 - [Gender](../learner-variables/gender.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
-- [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
+- [Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Gender differences in ninth-grade math grades were similar across racial/ethnic groups, with young men earning fewer points in every group](gender-grade-gap-similar-across-race-ethnicity-ninth-grade-math.md) — related
 - [Differential course placement gave young men and women different grading category weights, with young women more often in honors and geometry](differential-course-placement-created-different-category-weights.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related

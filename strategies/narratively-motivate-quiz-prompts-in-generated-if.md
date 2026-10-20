@@ -40,7 +40,7 @@ The article translates participant feedback into design targets: "the in-fiction
 
 - [Abrupt location or character changes mid-scenario co-occur with the lowest story-content coherence ratings](../claims/abrupt-setting-changes-lowest-coherence.md) [+W]
 - [Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot](../claims/ai-generated-if-coherence-weakest-dimension.md) [+W]
-- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [+W]
+- [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [+W]
 
 ## Related Strategies
 - 

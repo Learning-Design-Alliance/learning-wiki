@@ -44,7 +44,7 @@ A 2x8 mixed ANOVA on bias scores from prediction judgments across eight Kahoots 
 
 ## Related Claims
 - [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](inconsistent-absolute-accuracy-competitiveness.md) — related
-- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
 - [Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points](no-competitiveness-difference-kahoot-performance.md) — related
 - [In Experiment 1, the feedback group showed significantly lower absolute (unsigned) metacognitive bias than the no-feedback group at both pre-task and post-task](feedback-reduces-absolute-metacognitive-bias-exp1.md) — related
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related

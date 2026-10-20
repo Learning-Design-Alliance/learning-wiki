@@ -43,7 +43,7 @@ Descriptive statement of the study's scope: IES selected Mathematica Policy Rese
 
 
 ## Related Claims
-- [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
+- [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — related
 - [The retention comparison covers two cohorts of novice TRP teachers across six districts served by 12 TRPs, with a representative non-TRP comparison sample](trp-retention-study-scope-six-districts-12-trps.md) — related
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related

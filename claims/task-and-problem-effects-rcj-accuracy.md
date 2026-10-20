@@ -9,10 +9,10 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 sources:
-  - id: marie-geurten-patrick-lemaire-2017
-    resource: "https://www.google.com/search?q=Metacognition+for+Strategy+Selection+during+Arithmetic+Problem+Solving+in+Young+and+Older+Adults"
-    title: "Marie Geurten & Patrick Lemaire. (2017). Metacognition for Strategy Selection during Arithmetic Problem Solving in Young and Older Adults. https://www.google.com/search?q=Metacognition+for+Strategy+Selection+during+Arithmetic+Problem+Solving+in+Young+and+Older+Adults"
-    author: "Marie Geurten & Patrick Lemaire"
+  - id: marie-geurten-patrick-lemaire-2018
+    resource: "https://doi.org/10.1080/13825585.2018.1464114"
+    title: "Geurten, M., & Lemaire, P. (2018). Metacognition for strategy selection during arithmetic problem-solving in young and older adults. *Aging, Neuropsychology, and Cognition, 26*(3), 424–446. [doi:10.1080/13825585.2018.1464114](https://doi.org/10.1080/13825585.2018.1464114)"
+    author: "Geurten, M., & Lemaire, P."
     q: 3
     i: 3
     kind: causal
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` RCJ accuracy was higher for selection-only (.67) than selection-execution (.60), and higher on homogeneous (.71) than heterogeneous (.57) problems. [→ Marie Geurten & Patrick Lemaire 2017](#marie-geurten-patrick-lemaire-2017)
+`q3 i3` RCJ accuracy was higher for selection-only (.67) than selection-execution (.60), and higher on homogeneous (.71) than heterogeneous (.57) problems. [→ Marie Geurten & Patrick Lemaire 2018](#marie-geurten-patrick-lemaire-2018)
 
 ## Evidence
 
-### Marie Geurten & Patrick Lemaire 2017
+### Marie Geurten & Patrick Lemaire 2018
 
-Marie Geurten & Patrick Lemaire. (2017). Metacognition for Strategy Selection during Arithmetic Problem Solving in Young and Older Adults. https://www.google.com/search?q=Metacognition+for+Strategy+Selection+during+Arithmetic+Problem+Solving+in+Young+and+Older+Adults
+Geurten, M., & Lemaire, P. (2018). Metacognition for strategy selection during arithmetic problem-solving in young and older adults. *Aging, Neuropsychology, and Cognition, 26*(3), 424–446. [doi:10.1080/13825585.2018.1464114](https://doi.org/10.1080/13825585.2018.1464114)
 
 `q3 · i3` · `causal · r2`
 

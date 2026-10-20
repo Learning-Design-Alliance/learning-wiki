@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Games with no story or irrelevant story context show larger learning effects than games with relevant story context
-description: Games with no story or irrelevant story context show larger learning effects than games with relevant story context
+title: Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect
+description: Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect
 id: irrelevant-story-larger-effects-than-relevant
 aliases: [story-relevance-negative-moderator]
 status: review
@@ -20,16 +20,16 @@ sources:
     rigour: 3
 ---
 
-# Games with no story or irrelevant story context show larger learning effects than games with relevant story context
+# Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i2` medium
 
 ## Subclaims
 
-`q3 i2` Media comparisons showed larger effects for games with no story (g = 0.44) or irrelevant story (g = 0.63) than games with relevant story (g = 0.17, CI including zero), consistent with Moderator Hypothesis 3d. [→ Clark 2016](#clark-2016)
+`q3 i2` Media comparisons showed a significantly larger effect for games with irrelevant story (g = 0.63) than games with relevant story (g = 0.17, CI including zero), consistent with Moderator Hypothesis 3d; games with no story averaged g = 0.44, but their difference from relevant-story games was not marked significant. [→ Clark 2016](#clark-2016)
 
-`q3 i2` Games with irrelevant story relevance averaged g = 0.63 and games with no story g = 0.44, versus g = 0.17 for relevant stories, a significant moderator difference. [→ Clark Douglas B. 2016](#clark-2016)
+`q3 i2` Games with irrelevant story relevance averaged g = 0.63 and games with no story g = 0.44, versus g = 0.17 for relevant stories; the story-relevance moderator was significant overall, and the pairwise difference was significant for irrelevant versus relevant story only. [→ Clark Douglas B. 2016](#clark-2016)
 
 ## Evidence
 
@@ -39,7 +39,7 @@ Clark, D. B., Tanner-Smith, E. E., & Killingsworth, S. S. (2016). Digital Games,
 
 `q3 · i2` · `quant-synthesis · r3`
 
-Moderator analysis from Table 3 of media comparisons, with the asterisk indicating a significant meta-regression difference by story relevance and superscripts marking the pairwise difference between irrelevant and relevant story conditions. The irrelevant-story mean g = 0.63 is a medium effect. The review predicted smaller effects with increased story relevance.
+Moderator analysis from Table 3 of media comparisons, with the asterisk indicating a significant meta-regression difference by story relevance and superscripts marking the pairwise difference between irrelevant and relevant story conditions. Only the irrelevant-versus-relevant pair is marked as differing; the no-story mean (g = 0.44) is higher than the relevant-story mean descriptively, without a significant pairwise test. The irrelevant-story mean g = 0.63 is a medium effect. The review predicted smaller effects with increased story relevance.
 
 > "Story relevance	*			
  None		0.44	[0.16, 0.71]	46 (17)	0.28	

@@ -13,7 +13,7 @@ generated:
 # Positive Behavioral Interventions and Supports (PBIS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (10 for, 2 mixed) · 6 studies (6 causal), `q2`–`q3` · 3 of 6 report an effect size · 11 claims rest on one study
+> **Evidence** · 15 claims (12 for, 3 mixed) · 14 studies (10 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 14 report an effect size · 11 claims rest on one study
 
 ## Description
 PBIS is an evidence-based, multitiered framework used by schools to organize data, systems, and behavioral practices through universal, targeted, and individualized supports.

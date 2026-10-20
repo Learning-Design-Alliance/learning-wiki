@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability
-description: Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability
+title: Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability
+description: Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability
 id: task-specific-questionnaire-low-subscale-reliabilities
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 1
 ---
 
-# Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability
+# Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2`

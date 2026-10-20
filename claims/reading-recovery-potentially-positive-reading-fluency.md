@@ -14,7 +14,7 @@ sources:
     title: "Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org"
     author: Reading Recovery®
     q: 3
-    i: "?"
+    i: 3
     kind: review
     rigour: 3
   - id: reading-recovery-2013-2
@@ -30,10 +30,10 @@ sources:
 # Reading Recovery has potentially positive effects on reading fluency, from a single randomized trial
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r3` · `q3`
+> **Evidence** · 1 study (2 entries) · review `r3` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i?` One RCT found statistically significant positive effects of Reading Recovery on oral reading and text reading level measures, with an improvement index of +46 percentile points. [→ Reading Recovery® 2013](#reading-recovery-2013)
+`q3 i3` One RCT found statistically significant positive effects of Reading Recovery on oral reading and text reading level measures, with a WWC domain average effect size of 1.71 and an improvement index of +46 percentile points. [→ Reading Recovery® 2013](#reading-recovery-2013)
 
 ## Evidence
 
@@ -41,9 +41,9 @@ sources:
 
 Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org
 
-`q3 · i?` · `review · r3`
+`q3 · i3` · `review · r3`
 
-A single randomized controlled trial (Schwartz 2005, 74 students) reported positive and statistically significant effects on the Slosson Oral Reading Test–Revised and the Text Reading Level subtest; Table 1 reports an improvement index of "+46" (range +32 to +49). No standardized effect size is printed, so impact is null.
+A single randomized controlled trial (Schwartz 2005, 74 students) reported positive and statistically significant effects on the Slosson Oral Reading Test–Revised and the Text Reading Level subtest; Table 1 reports an improvement index of "+46" (range +32 to +49). The appendix prints effect sizes of 0.93 on the Slosson test and 2.49 on Text Reading Level (a Cox index from a logged odds ratio), a domain average of 1.71.
 
 > "Schwartz (2005) found, and the WWC confirmed, positive and statistically significant effects of Reading Recovery® on the Slosson Oral Reading Test–Revised and the Text Reading Level subtest of the Observation Survey of Early Literacy Achievement."
 

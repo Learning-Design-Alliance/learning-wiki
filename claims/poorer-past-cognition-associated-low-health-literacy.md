@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i1` Similar associations were found for past cognitive functioning (all ORs < 0.75, p-values < .05), suggesting health literacy reflects lifelong general cognitive ability. [→ Geboers B 2018](#geboers-b-2018)
+`q3 i1` Better cognitive functioning measured 10 years earlier was associated with lower odds of low health literacy (education-adjusted ORs per SD 0.51–0.75, all p < .05; n = 729–734), which the authors read as health literacy reflecting lifelong general cognitive ability; the association cannot show cause. [→ Geboers B 2018](#geboers-b-2018)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Geboers B, Uiters E, Reijneveld SA, Jansen CJM, Almansa J, Nooyens ACJ, Verschur
 
 `q3 · i1` · `associational · r2`
 
-Logistic regression analyses using cognitive data from round four (10 years earlier) among 988 participants of the Doetinchem Cohort Study. "Similar associations were found for past cognitive functioning (all ORs < 0.75, p-values<.05)." The printed odds ratios below 0.75 indicate a small protective association per SD of better past cognitive functioning. Authors state this supports the conclusion that health literacy reflects lifelong general cognitive ability.
+Logistic regression analyses in the Doetinchem Cohort Study (988 participants in all) using cognitive data from round four, 10 years earlier, which was available for 737 of them; the past-cognition models use 729–734. The abstract summarises these as "all ORs < 0.75"; Table 2's odds ratios of low health literacy per SD of better past functioning, adjusted for age, gender and education, are 0.71 for memory, 0.71 for processing speed, 0.75 for mental flexibility (95% CI 0.56–1.00) and 0.51 for global cognitive functioning, all p < .05. Better past cognitive functioning goes with lower odds of low health literacy; this is an association and cannot show cause. Authors state this supports the conclusion that health literacy reflects lifelong general cognitive ability.
 
 > "Similar associations were found for past cognitive functioning (all ORs < 0.75, p-values<.05)."
 

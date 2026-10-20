@@ -44,7 +44,7 @@ A teacher induction model that goes beyond traditional induction by combining se
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](../claims/induction-no-other-outcome-impacts.md) [-W]
 - [One year of comprehensive teacher induction showed no impact on student achievement](../claims/comprehensive-induction-no-student-achievement-gains-first-year.md) [-W]
 - [Two years of comprehensive teacher induction can boost student achievement compared with business-as-usual induction](../claims/two-year-comprehensive-induction-boosts-achievement.md) [+W]
-- [The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program](../claims/induction-null-impacts-one-and-two-year-programs.md) [~W]
+- [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](../claims/induction-null-impacts-one-and-two-year-programs.md) [~W]
 
 ## Related Elements
 

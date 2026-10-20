@@ -47,5 +47,5 @@ Descriptive subscale results across N = 22 participants playing one generated sc
 - [Engagement with AI-generated educational interactive fiction is marginal, near the neutral midpoint of the scale](ai-generated-if-engagement-marginal.md) — related
 - [Self-reported perceived quality is largely decoupled from quiz performance in AI-generated educational interactive fiction](if-quality-ratings-decoupled-from-quiz-performance.md) — related
 - [AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants](ai-generated-if-narrative-clarity-length-accepted.md) — related
-- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
+- [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
 - [Participants liked the co-created stories (mean likability 8.61) and perceived them as coherent (mean coherence 8.28) on a 1-10 scale](icub-stories-liked-and-coherent-ratings.md) — related

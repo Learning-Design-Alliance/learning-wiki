@@ -43,7 +43,7 @@ sources:
 ## Subclaims
 `q2 i?` Teachers' probability of remaining through the following year was 89% under well-prepared principals versus 78% under poorly prepared principals. [→ Darling-Hammond 2026](#darling-hammond-2026)
 `q2 i?` Mathematics learning differentials for historically underserved students whose principals had little versus extensive instructional-leadership training were equivalent to approximately 4 months of instruction. [→ Darling-Hammond 2026 (2)](#darling-hammond-2026-2)
-`q2 i?` Early-career principals with extensive professional development produced greater mathematics gains than more senior principals with similar access. [→ Darling-Hammond 2026 (3)](#darling-hammond-2026-3)
+`q2 i?` Students in schools led by early-career principals with extensive professional development showed greater mathematics gains than students under more senior principals with similar access; the study reports this as an association, not a demonstrated effect of the professional development. [→ Darling-Hammond 2026 (3)](#darling-hammond-2026-3)
 
 ## Evidence
 
@@ -73,7 +73,7 @@ Darling-Hammond, L., Fitz, J., Giani, M. V., Gordon, M. F., & Wechsler, M. (2026
 
 `q2 · i?` · `review · r2`
 
-The California study found early-career principals with extensive professional development produced mathematics gains "greater than those in schools led by more senior principals with similar access to professional development," suggesting intensive PD can help close the gap for new principals.
+The California study found that students in schools led by early-career principals with extensive professional development showed mathematics gains "greater than those in schools led by more senior principals with similar access to professional development," The report says these results show intensive PD can help close the gap for new principals, but the comparison is an association between principals' reported PD and their students' gains and does not establish that the PD caused them.
 
 > "students in schools led by early-career principals who experienced extensive professional development—including on instructional leadership, teaching diverse learners, and managing change—demonstrated achievement gains in mathematics greater than those in schools led by more senior principals with similar access to professional development."
 

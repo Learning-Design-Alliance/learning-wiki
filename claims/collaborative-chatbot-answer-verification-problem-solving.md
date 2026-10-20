@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together"
-description: "Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together"
+title: "Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers"
+description: "Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers"
 id: collaborative-chatbot-answer-verification-problem-solving
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together
+# Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Students reported that sharing and checking the chatbot's response in a group setting validated its accuracy, encouraged critical thinking, and deepened understanding of underlying concepts. [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)
+`q2 i?` Students called the process of using the chatbot to solve a problem and evaluating its answer "quite insightful"; the authors argue that sharing and checking the chatbot's response in a group can help ensure its accuracy, encourage critical thinking, and deepen understanding of underlying concepts. [→ Saif Alneyadi and Yousef Wardat 2024](#saif-alneyadi-and-yousef-wardat-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Saif Alneyadi and Yousef Wardat. (2024). Integrating ChatGPT in Grade 12 Quantum
 
 `q2 · i?` · `causal · r1`
 
-Qualitative theme from interviews and a worked example (Fig. 2): the chatbot calculated kinetic energy of 9.6 × 10−19 Joules using K.E. = eV0, and students verified the steps collaboratively with peers and teachers.
+Qualitative theme from interviews and a worked example (Fig. 2): the chatbot calculated kinetic energy of 9.6 × 10−19 Joules using K.E. = eV0, and the authors describe collaborative discussion with groups and teachers as a process that "can help ensure" the solution's accuracy. The article does not report students actually carrying out that verification.
 
 > "Individuals can analyze the problem -solving strategy and collectively verify the calculation step s by sharing the chatbot’s response in a group setting. This collaborative process validates the chatbot’s accuracy, encourages critical thinking, and fosters a deeper understanding of the underlying concepts."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality
-description: A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality
+title: A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality
+description: A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality
 id: literacy-factor-predicts-early-writing
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality
+# A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -35,7 +35,7 @@ Kent, S., Wanzek, J., Petscher, Y., Al Otaiba, S. S., & Kim, Y.-S. (2014). Writi
 
 `q2 · i?` · `associational · r2`
 
-SEM of kindergarten writing production in the 265-student sample. Reading and spelling factors were so highly related (r = .95) that a second-order literacy factor was preferred via chi-square difference test (Δχ2 = 8.84, df = 4, p = .065); literacy showed the largest unique path to compositional fluency.
+Observational SEM of extant longitudinal data on a 265-student cohort (seven classroom clusters with fewer than five students, 10 students in all, were removed for the analyses), so the paths are statistical associations, not causal effects. Reading and spelling factors were so highly related (r = .95) that a second-order literacy factor was preferred via chi-square difference test (Δχ2 = 8.84, df = 4, p = .065); literacy showed the largest unique path to compositional fluency.
 
 > "Early literacy skill in reading and spelling (γ = .58, p < .001), as well as letter-writing fluency (γ = .13, p = .047) were also uniquely and positively related to students' composition fluency"
 

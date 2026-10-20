@@ -35,7 +35,7 @@ Schachner, J.N., Marwell, N.P., de la Torre, M., Gwynne, J.A., & Allensworth, E.
 
 `q2 · i?` · `associational · r3`
 
-OLS models predicting the fall 2020 engagement index as a function of program eligibility among eligible students, with student and pandemic-era controls. Eligibility showed opposite-signed associations by pre-pandemic GPA group, with the printed magnitudes 0.04 SD and 0.10 SD; no further standardized effect size is printed.
+OLS models predicting the fall 2020 engagement index as a function of program eligibility, comparing eligible with ineligible students in the analytic sample, with student and pandemic-era controls. Eligibility showed opposite-signed associations by pre-pandemic GPA group, with the printed magnitudes 0.04 SD and 0.10 SD; no further standardized effect size is printed.
 
 > "For students with high pre-pandemic GPAs, eligibility was associated with an increase in remote learning engagement, measured in fall 2020 (by 0.04 SD), but a decrease in remote learning engagement for students with low pre-pandemic GPAs (by 0.10 SD)."
 

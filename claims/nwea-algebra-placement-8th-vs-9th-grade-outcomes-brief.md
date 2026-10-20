@@ -34,18 +34,14 @@ sources:
     i: "?"
     kind: associational
     rigour: "?"
-  - id: emily-morton-2026
-    resource: "https://www.nwea.org/research/publication/tech-appendix-for-from-loss-to-recovery-diverging-paths-and-uneven-gains-across-schools/"
-    title: "Emily Morton, Megan Kuhfeld, Ayesha K. Hashim, Scott J. Peters. (2026). Tech Appendix for “From loss to recovery: Diverging paths and uneven gains across schools”. NWEA Research. https://www.nwea.org/research/publication/tech-appendix-for-from-loss-to-recovery-diverging-paths-and-uneven-gains-across-schools/"
-    author: Emily Morton, Megan Kuhfeld, Ayesha K. Hashim, Scott J. Peters
+  - id: megan-kuhfeld-2026-2
+    title: Megan Kuhfeld 2026 (2)
     q: 2
     i: "?"
     kind: associational
     rigour: "?"
-  - id: trend-snapshots-covid-19-recovery-in-k2-2026
-    resource: "https://www.nwea.org/research/publication/trend-snapshots-covid-19-recovery-in-k-2-positive-recovery-trends/"
-    title: "Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends. (2026). NWEA. https://www.nwea.org/research/publication/trend-snapshots-covid-19-recovery-in-k-2-positive-recovery-trends/"
-    author: "Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends"
+  - id: megan-kuhfeld-2026-3
+    title: Megan Kuhfeld 2026 (3)
     q: 2
     i: "?"
     kind: associational
@@ -69,9 +65,9 @@ sources:
 
 `q2 i?` Using a nationwide sample of MAP Growth scores, researchers examined how many students ready for Algebra enrolled in 8th grade and how outcomes differed for students who were or were not ready. [→ Megan Kuhfeld 2026](#megan-kuhfeld-2026)
 
-`q2 i?` Using a nationwide sample of MAP Growth scores for middle schoolers, researchers examined how many students who were ready for Algebra actually enrolled, and how outcomes were affected for students who were or were not ready for the course. [→ Emily Morton 2026](#emily-morton-2026)
+`q2 i?` Using a nationwide sample of MAP Growth scores for middle schoolers, researchers examined how many students who were ready for Algebra actually enrolled, and how outcomes were affected for students who were or were not ready for the course. [→ Megan Kuhfeld 2026 (2)](#megan-kuhfeld-2026-2)
 
-`q2 i?` Using a nationwide sample of MAP Growth scores for middle schoolers, NWEA researchers examined how many students who were ready for Algebra actually enrolled and how outcomes differed for students who were or were not ready for the course. [→ Trend Snapshots: COVID-19 recovery in K–2 2026](#trend-snapshots-covid-19-recovery-in-k2-2026)
+`q2 i?` Using a nationwide sample of MAP Growth scores for middle schoolers, NWEA researchers examined how many students who were ready for Algebra actually enrolled and how outcomes differed for students who were or were not ready for the course. [→ Megan Kuhfeld 2026 (3)](#megan-kuhfeld-2026-3)
 
 ## Evidence
 
@@ -129,23 +125,23 @@ The blurb for "Getting Algebra Placement Right" describes a nationwide sample of
 
 > "Using a nationwide sample of MAP Growth scores for middle schoolers, NWEA researchers looked at how many students who were ready for Algebra actually enrolled, and how outcomes were affected for students who were or were not ready for the course."
 
-### Emily Morton 2026
+### Megan Kuhfeld 2026 (2)
 
-Emily Morton, Megan Kuhfeld, Ayesha K. Hashim, Scott J. Peters. (2026). Tech Appendix for “From loss to recovery: Diverging paths and uneven gains across schools”. NWEA Research. https://www.nwea.org/research/publication/tech-appendix-for-from-loss-to-recovery-diverging-paths-and-uneven-gains-across-schools/
+Kuhfeld, M., Long, D., & Peters, S. J. (2026, August). Getting Algebra Placement Right: Expanding Opportunity and Strengthening Preparation. NWEA Research. https://www.nwea.org/research/publication/getting-algebra-placement-right-expanding-opportunity-and-strengthening-preparation/
 
 `q2 · i?` · `associational · r?`
 
-The listing describes the “Getting Algebra Placement Right” brief: an examination of whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, using a nationwide sample of MAP Growth scores for middle schoolers. No results or statistics are printed on this page.
+Read from the related-publications listing on the NWEA page for Morton et al.'s (2026) technical appendix to "From loss to recovery", which is a different work; the listing describes the “Getting Algebra Placement Right” brief cited here: an examination of whether taking Algebra in 8th grade instead of 9th grade improves student outcomes, using a nationwide sample of MAP Growth scores for middle schoolers. No results or statistics are printed on this page.
 
 > "Using a nationwide sample of MAP Growth scores for middle schoolers, NWEA researchers looked at how many students who were ready for Algebra actually enrolled, and how outcomes were affected for students who were or were not ready for the course."
 
-### Trend Snapshots: COVID-19 recovery in K–2 2026
+### Megan Kuhfeld 2026 (3)
 
-Trend Snapshots: COVID-19 recovery in K–2, positive recovery trends. (2026). NWEA. https://www.nwea.org/research/publication/trend-snapshots-covid-19-recovery-in-k-2-positive-recovery-trends/
+Kuhfeld, M., Long, D., & Peters, S. J. (2026, August). Getting Algebra Placement Right: Expanding Opportunity and Strengthening Preparation. NWEA Research. https://www.nwea.org/research/publication/getting-algebra-placement-right-expanding-opportunity-and-strengthening-preparation/
 
 `q2 · i?` · `associational · r?`
 
-The page's description of the research brief "Getting Algebra Placement Right" reports an examination of "whether taking Algebra in 8th grade instead of 9th grade improves student outcomes." No findings, effect sizes, or sample sizes are printed on this page.
+Read from the related-publications listing on the NWEA page for "Trend Snapshots: COVID-19 recovery in K–2" (2026), a different work; the listing's description of the research brief "Getting Algebra Placement Right" cited here reports an examination of "whether taking Algebra in 8th grade instead of 9th grade improves student outcomes." No findings, effect sizes, or sample sizes are printed on this page.
 
 > "Using a nationwide sample of MAP Growth scores for middle schoolers, NWEA researchers looked at how many students who were ready for Algebra actually enrolled, and how outcomes were affected for students who were or were not ready for the course."
 

@@ -67,7 +67,7 @@ The report identifies a middle group harmed by sorting: "students with slightly 
 
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 
-- [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
+- [A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](sorting-effect-comparable-to-curriculum-content.md) — related
 - [Fish pond effects: above-norm students became more likely to fail algebra when their skills were low relative to classroom peers after sorting](fish-pond-effects-increase-failure-above-norm.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related

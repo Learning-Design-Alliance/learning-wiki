@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition
-description: Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition
+title: Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect
+description: Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect
 id: prior-genai-use-poorer-unaided-reasoning
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition
+# Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q3` · `i1` small
@@ -54,7 +54,7 @@ Dawid Ratajczyk, Agata Dymarska, Adam Matłoka, Michał Tomczyk, Małgorzata Wi�
 
 `q3 · i?` · `causal · r3`
 
-Preregistered 2×2 ANOVA on Stage 2 network-reasoning accuracy in the same lab experiment. The quoted tests show no significant genAI, incentive, or interaction effects, so H1a, H1b and H4 were not supported.
+Preregistered 2×2 ANOVA on Stage 2 network-reasoning accuracy in the same lab experiment. The quoted tests show no significant genAI, incentive, or interaction effects, so H1a, H1b and H4 were not supported. The lower odds of a correct answer appear only in the exploratory item-level analysis, within the no-incentive condition; the genAI × incentive interaction was not significant there either, and the authors say this conditional effect "should not be interpreted as evidence that the effect of genAI differed between incentive conditions". GenAI access was assigned; the study does not separate those who used the tool from those who had it.
 
 > "There was no significant main effect of prior genAI access (𝐹(1,153) = 1.84,𝑝=.177,𝜂 2 𝑝 =.011), no significant main effect of incentives (𝐹(1,153) = 1.14,𝑝=.287,𝜂 2 𝑝 =.007), and no significant interaction between prior genAI access and incentives (𝐹(1,153) = 2.22,𝑝=.138,𝜂 2 𝑝 =.014)."
 

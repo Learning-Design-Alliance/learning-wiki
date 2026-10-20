@@ -40,7 +40,7 @@ sources:
 # Peer-Assisted Learning Strategies (PALS)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 12 claims (7 for, 3 mixed, 2 against) · 3 studies (2 quant-synthesis, 1 causal), `q2`–`q3` · 3 of 3 report an effect size · 12 claims rest on one study
+> **Evidence** · 16 claims (10 for, 4 mixed, 2 against) · 15 studies (8 quant-synthesis, 4 causal, 2 review, 1 qualitative), `q2`–`q4` · 8 of 15 report an effect size · 12 claims rest on one study
 
 ## Description
 A commercially distributed, scripted peer-assisted reading and literacy curriculum for kindergarten through upper elementary grades, developed by researchers including Patricia G. Mathes and distributed through the Vanderbilt Kennedy Center and Sopris West.

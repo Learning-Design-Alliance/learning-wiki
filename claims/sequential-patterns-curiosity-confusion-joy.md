@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students"
-description: "In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students"
+title: "In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)"
+description: "In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)"
 id: sequential-patterns-curiosity-confusion-joy
 status: review
 generated:
@@ -35,14 +35,14 @@ sources:
     rigour: 1
 ---
 
-# In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students
+# In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · associational `r1`–`r2` · `q2`
 
 ## Subclaims
-`q2 i?` With a support value of 0.6, 370 subsequences were generated, mostly consisting of joy with some curiosity or confusion, and 274 included confusion. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)
-`q2 i?` In more than 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity, confirming Path 1 (joy–curiosity–confusion–joy) and its bidirectional pattern. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022 (2)](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-2)
+`q2 i?` With a support value of 0.6, 370 subsequences were generated, of which 274 included confusion; the ten longest (Table 4) consisted of many manifestations of joy and a few of curiosity or confusion. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022)
+`q2 i?` In more than 60% of inquiry threads, curiosity was followed by confusion and joy or confusion by curiosity (the authors write "lead to" and "trigger"; these are observed sequences, not tested causes), which the authors read as confirming Path 1 (joy–curiosity–confusion–joy) and its bidirectional pattern. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022 (2)](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-2)
 `q2 i?` At support 0.3, analysis of rarer emotions showed anxiety and surprise interconnecting and confusion possibly leading to boredom and boredom resolving to joy, partially confirming Paths 2 and 3. [→ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan 2022 (3)](#yuqin-yang-gaoxia-zhu-carol-k-k-chan-2022-3)
 
 ## Evidence
@@ -53,7 +53,7 @@ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan. (2022). Evolution of the academic 
 
 `q2 · i?` · `associational · r2`
 
-Sequential pattern mining with the ArulesSequences package in R over emotion-coded inquiry threads; the article reports these subsequences "consisted of many manifestations of joy" and a few of curiosity or confusion, suggesting the spread of positive emotions.
+Sequential pattern mining with the ArulesSequences package in R over emotion-coded inquiry threads. Of the 370 subsequences, 274 include confusion and 112 include confusion, curiosity and joy; the article says the ten longest subsequences, shown in Table 4, "consisted of many manifestations of joy and a few of curiosity or confusion", suggesting the spread of positive emotions. It does not characterise all 370 that way.
 
 > "When the support value was set to 0.6 (meaning that a particular emotion subsequence appears in no less than 60% of the inquiry threads), 370 subsequences were generated."
 
@@ -63,7 +63,7 @@ Yuqin Yang · Gaoxia Zhu · Carol K. K. Chan. (2022). Evolution of the academic 
 
 `q2 · i?` · `associational · r1`
 
-Sequential pattern analysis of emotion subsequences starting and ending with different emotions; the article states these representative subsequences confirm Path 1 (joy–curiosity–confusion–joy) and its bi-directional pattern.
+Sequential pattern analysis of emotion subsequences starting and ending with different emotions, from observational coding of Knowledge Forum notes; the article states these representative subsequences confirm Path 1 (joy–curiosity–confusion–joy) and its bi-directional pattern. The authors' "lead to" and "trigger" describe the order in which emotions appeared; the design cannot show that one emotion caused the next.
 
 > "Overall, in more than 60% of the inquiry threads of the four classes, curiosity was found to lead to confusion (e.g., SID 1, 6, and 7), and joy or confusion was found to trigger curiosity (e.g., SID 2, 3, 4, and 5)."
 

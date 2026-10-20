@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: erin-dillon-2015
-    resource: "https://doi.org/10.18289/oef.2015.002"
-    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)"
+    resource: "https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
+    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
     author: Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Erin Dillon 2015
 
-Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)
+Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college
 
 `q2 · i?` · `associational · r?`
 
@@ -50,5 +50,5 @@ Key findings section of a Mathematica policy brief reporting a comparative study
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [In math, meeting the PARCC college-readiness standard predicts higher college performance than meeting the MCAS proficiency standard](parcc-math-standard-higher-college-performance.md) — related
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](parcc-higher-math-standard-mcas-comparable-prediction.md) — related
-- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md) — related

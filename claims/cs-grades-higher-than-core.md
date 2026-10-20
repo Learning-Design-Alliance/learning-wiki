@@ -45,6 +45,6 @@ Analysis of student grades in CS courses compared to core courses across CPS hig
 ## Related Claims
 - [Students in the lowest-SES neighborhoods were 3 percentage points less likely to enroll in CS, a gap largely explained by differential access to schools offering CS](low-ses-cs-enrollment-access-explained.md) — related
 - [High- and middle-achieving Black students saw core GPA declines at least twice as large as White peers with similar eighth-grade GPAs](black-students-disproportionate-gpa-declines.md) — related
-- [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
+- [Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Ninth-grade GPAs varied substantially by gender, race/ethnicity, neighborhood SES, incoming test scores, course level, and school](ninth-grade-gpa-demographic-variation.md) — related
 - [Most Chicago freshmen fail at least one course, miss substantial school, or earn below a C average in their first year](freshman-year-room-for-improvement.md) — related

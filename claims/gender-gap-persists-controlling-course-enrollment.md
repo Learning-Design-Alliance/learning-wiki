@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings
-description: Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings
+title: Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level
+description: Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level
 id: gender-gap-persists-controlling-course-enrollment
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings
+# Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -35,7 +35,7 @@ Easton, J.Q. & Diaz, B. (2023). Lasting differences: Math grades and gender. Chi
 
 `q2 · i?` · `associational · r2`
 
-Regression models with a male indicator controlling for algebra/geometry and honors/regular enrollment on 29,229 students. The report states "young women's math grades were still higher by a small but statistically significant amount" even comparing similar students.
+Regression models with a male indicator controlling for algebra/geometry and honors/regular enrollment on 29,229 students; these were points-only models, so teachers' grading-category weights (which varied across classes) were not applied or held constant. The report states "young women's math grades were still higher by a small but statistically significant amount" even comparing similar students.
 
 > "the assessments model estimated the size of the difference to be 0.0216 standard deviations in favor of young women, with a 95% confidence interval of +/-0.002, indicating that even comparing very similar students, young women's math grades were still higher by a small but statistically significant amount."
 

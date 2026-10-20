@@ -54,7 +54,7 @@ Hertzog C, Dunlosky J. (2011). Metacognition in Later Adulthood: Spared Monitori
 
 `q2 · i?` · `review · r2`
 
-Cross-sectional study of adults ages 18 to 81 who studied related and unrelated word pairs, made immediate JOLs, and completed paired-associate recall; regression of gamma correlations on age showed "No age declines in resolution arose across the adult life-span" and significant age-related increases in aggregate resolution.
+The review summarises the authors' separate cross-sectional study (Hertzog, Sinclair, & Dunlosky, 2010, *Developmental Psychology*) of adults ages 18 to 81 who studied related and unrelated word pairs, made immediate JOLs, and completed paired-associate recall; regression of gamma correlations on age showed "No age declines in resolution arose across the adult life-span" and significant age-related increases in aggregate resolution.
 
 > "No age declines in resolution arose across the adult life-span. In fact, significant age-related increases occurred in the aggregate gamma correlations, as reflected in the positive slope of the black line."
 

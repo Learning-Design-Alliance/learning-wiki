@@ -14,7 +14,7 @@ sources:
     title: "Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland. (2015). The Beaverton School District Arts for Learning (A4L) Lessons Project, An Investing in Innovation (i3) Development Grant: Student Impact Findings from Years 1, 2, and 3. WestEd. https://eric.ed.gov/?id=ED560945"
     author: Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland
     q: 4
-    i: "?"
+    i: 0
     kind: causal
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # The A4L Lessons Project had no statistically significant impact on students' OAKS Reading/Literature achievement after one, two, or three years of participation
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q4`
+> **Evidence** · 1 study · causal `r2` · `q4` · `i0` negligible
 
 ## Subclaims
-`q4 i?` Differences between treatment and control students on the OAKS after one, two, and three years of program participation were not statistically significant, with effect sizes ranging from -0.03 to 0.05. [→ Jonathan Nakamoto 2015](#jonathan-nakamoto-2015)
+`q4 i0` Differences between treatment and control students on the OAKS after one, two, and three years of program participation were not statistically significant, with effect sizes ranging from -0.03 to 0.05. [→ Jonathan Nakamoto 2015](#jonathan-nakamoto-2015)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland. (2015). The Beaverton School District Arts for Learning (A4L) Lessons Project, An Investing in Innovation (i3) Development Grant: Student Impact Findings from Years 1, 2, and 3. WestEd. https://eric.ed.gov/?id=ED560945
 
-`q4 · i?` · `causal · r2`
+`q4 · i0` · `causal · r2`
 
-Confirmatory ITT analyses from a cluster-randomized trial of 32 schools (16 treatment, 16 control) using HLM with baseline covariates. Effect sizes "ranged from -0.03 to 0.05"; the report notes impacts under one-tenth of a standard deviation are not considered meaningful. No effect size per contrast beyond this range is printed, so impact is null.
+Confirmatory ITT analyses from a cluster-randomized trial of 32 schools (16 treatment, 16 control) using HLM with baseline covariates. Effect sizes "ranged from -0.03 to 0.05"; the report notes impacts under one-tenth of a standard deviation are not considered meaningful. The printed effect sizes are negligible (coded `i0`); a non-significant difference shows no detectable impact, not that the true effect is zero.
 
 > "The differences between the treatment and control students on the OAKS after one, two, and three years of program participation were not statistically significant. The magnitude of the differences between treatment and control students, as indexed by the effect sizes, ranged from -0.03 to 0.05 and were very small."
 

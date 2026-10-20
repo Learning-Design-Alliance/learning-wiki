@@ -74,5 +74,5 @@ First-year impact findings from a large-scale randomized controlled study of two
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
 - [Mathematica is examining whether high-intensity teacher induction programs lead to higher retention rates and other positive teacher and student outcomes](high-intensity-teacher-induction-retention-outcomes-study.md) — a broader claim this one bears on
 - [Comprehensive teacher induction showed no impacts on outcomes other than student achievement](induction-no-other-outcome-impacts.md) — a broader claim this one bears on
-- [The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
+- [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
 - [Combining intensive mentoring with other supports is associated with the largest retention-plan gaps: 48 percentage points for elementary and 55 for high school novices](combined-mentoring-supports-largest-retention-gain.md) — related

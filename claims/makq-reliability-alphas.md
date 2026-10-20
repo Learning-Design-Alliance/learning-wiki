@@ -52,4 +52,4 @@ Reliability analysis in Study One (N = 293) using Cronbach's alpha on the finali
 - [CTAT shows robust psychometric properties for higher education CS/AI students, with reliable internal consistency and adequate IRT item parameters](ctat-robust-psychometric-properties.md) — related
 - [The TQsrl and SQsrl questionnaires are validated instruments measuring SRL sub-processes with emphasis on reflection](t-sqsrl-validated-srl-questionnaires.md) — related
 - [The MAKQ self-knowledge items show a stable two-factor structure: meta-attention control (15 items) and meta-attention monitoring (5 items)](makq-two-factor-self-knowledge-structure.md) — related
-- [Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related
+- [Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related

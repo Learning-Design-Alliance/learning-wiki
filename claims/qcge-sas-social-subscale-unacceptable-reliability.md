@@ -44,4 +44,4 @@ Reliability analysis of the QCGE-SAS in the validation study (N = 246), covering
 
 
 ## Related Claims
-- [Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related
+- [Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related

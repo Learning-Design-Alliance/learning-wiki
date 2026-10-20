@@ -9,18 +9,18 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 sources:
-  - id: pooya-razavi-2025
+  - id: razavi-2026
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
-    author: Pooya Razavi, Sonya Powers
+    title: "Razavi, P., & Powers, S. (2026). Estimating item difficulty using large language models and tree-based machine learning algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015"
+    author: "Razavi, P., & Powers, S."
     q: 2
     i: 3
     kind: associational
     rigour: 2
-  - id: pooya-razavi-2025-2
+  - id: razavi-2026-2
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
-    author: Pooya Razavi, Sonya Powers
+    title: "Razavi, P., & Powers, S. (2026). Estimating item difficulty using large language models and tree-based machine learning algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015"
+    author: "Razavi, P., & Powers, S."
     q: 2
     i: 3
     kind: design
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2` · `i3` large
 
 ## Subclaims
-`q2 i3` For math, the feature-based random forest (RMSE = 0.83, MAE = 0.64; r = .87) beat the direct approach and all benchmarks; GBM was strongest overall, cutting RMSE 18.5% versus the dummy regressor on average. [→ Pooya Razavi 2025](#pooya-razavi-2025)
-`q2 i3` For reading, the feature-based random forest (RMSE = 0.72, MAE = 0.58; r = .87) outperformed the direct approach and all benchmarks, reducing RMSE 31.6% versus the dummy regressor on average. [→ Pooya Razavi 2025 (2)](#pooya-razavi-2025-2)
+`q2 i3` For math, the feature-based random forest (RMSE = 0.83, MAE = 0.64; r = .87) beat the direct approach and all benchmarks; GBM was strongest overall, cutting RMSE 18.5% versus the dummy regressor on average. [→ Razavi 2026](#razavi-2026)
+`q2 i3` For reading, the feature-based random forest (RMSE = 0.72, MAE = 0.58; r = .87) outperformed the direct approach and all benchmarks, reducing RMSE 31.6% versus the dummy regressor on average. [→ Razavi 2026 (2)](#razavi-2026-2)
 
 ## Evidence
 
-### Pooya Razavi 2025
+### Razavi 2026
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Razavi, P., & Powers, S. (2026). Estimating item difficulty using large language models and tree-based machine learning algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015
 
 `q2 · i3` · `associational · r2`
 
@@ -48,9 +48,9 @@ Holdout evaluation of the math random forest on LLM-extracted features plus meta
 
 > "produced an RMSE of 0.83 and MAE of 0.64, showing that the model’s predictions are more accurate than the ones from the previous approach (i.e., direct LLM estimation: RMSE = 0.91, MAE = 0.72)"
 
-### Pooya Razavi 2025 (2)
+### Razavi 2026 (2)
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Razavi, P., & Powers, S. (2026). Estimating item difficulty using large language models and tree-based machine learning algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. https://doi.org/10.1016/j.ijaied.2026.100015
 
 `q2 · i3` · `design · r2`
 

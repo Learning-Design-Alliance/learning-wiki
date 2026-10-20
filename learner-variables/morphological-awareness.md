@@ -13,7 +13,7 @@ generated:
 # Morphological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 11 claims (7 show a difference, 2 mixed, 2 no difference) · 8 studies (4 causal, 3 quant-synthesis, 1 qualitative), `q2`–`q3` · 4 of 8 report an effect size · 10 claims rest on one study
+> **Evidence** · 11 claims (7 show a difference, 2 mixed, 2 no difference) · 8 studies (3 causal, 3 quant-synthesis, 1 associational, 1 qualitative), `q2`–`q3` · 4 of 8 report an effect size · 10 claims rest on one study
 
 ## Description
 Morphological awareness is recognising and using morphemes, the smallest meaningful parts of words, such as the root and prefix in *replay*. This page also covers morphological knowledge, the LVN's name for the same capacity in older children. Learners who understand morphemes can treat them as building blocks, recognising, understanding and producing longer, more complex words when reading and writing. It also includes knowing how stress and pronunciation change between related words (*sign* and *signature*) and how some morphemes carry grammatical meaning (adding *-ed* for the past tense). It is measured with tasks in which learners choose or complete the right word form, such as picking the suffix that fits a sentence.

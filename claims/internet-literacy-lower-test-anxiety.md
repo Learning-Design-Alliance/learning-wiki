@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Internet literacy showed a negative effect on test anxiety: students with higher internet literacy show lower amounts of test anxiety. [→ Conijn 2022](#conijn-2022)
+`q2 i?` Internet literacy was negatively associated with test anxiety: students with higher internet literacy reported lower test anxiety. The survey design cannot show that literacy causes the difference. [→ Conijn 2022](#conijn-2022)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Conijn, R., Kleingeld, A., Matzat, U., & Snijders, C. (2022). The fear of big br
 
 `q2 · i?` · `associational · r2`
 
-Multi-level model M2 (Table 4) on test anxiety in proctored and non-proctored online exams, with internet literacy measured on a subset of the 21st-century digital skills questionnaire (α = 0.82). The study reports "Internet literacy showed a negative effect on test anxiety"; hypothesis 2.2 was supported.
+Multi-level model M2 (Table 4) on test anxiety in proctored and non-proctored online exams, with internet literacy measured on a subset of the 21st-century digital skills questionnaire (α = 0.82). The study reports "Internet literacy showed a negative effect on test anxiety" (hypothesis 2.2 supported), but internet literacy was measured, not manipulated, in an observational survey, so the result is a negative association rather than a demonstrated causal effect.
 
 > "Internet literacy showed a negative effect on test anxiety, showing that students with higher internet literacy, show lower amounts of test anxiety."
 

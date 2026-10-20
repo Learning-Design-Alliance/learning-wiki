@@ -13,7 +13,7 @@ generated:
 # Self-Determined Learning Model of Instruction
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 4 claims (4 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 4 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 against) · 5 studies (1 causal, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size · 4 claims rest on one study
 
 ## Description
 A teacher-implemented instructional model developed by Palmer et al. that guides young learners, including those with diverse learning needs, through interest investigation, choice making, and goal setting and attainment across curricular contexts.

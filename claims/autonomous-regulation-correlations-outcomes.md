@@ -14,7 +14,7 @@ sources:
     title: "Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588"
     author: Ana Rothes, Marina S. Lemos, and Teresa Gonçalves
     q: 2
-    i: 3
+    i: 2
     kind: associational
     rigour: 1
 ---
@@ -22,10 +22,10 @@ sources:
 # Autonomous regulation correlates positively with self-efficacy, learning strategies, and behavioral engagement, while controlled regulation shows no significant linear relations with these outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
+> **Evidence** · 1 study · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i2` Autonomous regulation had significant positive correlations with all external variables except teacher-reported engagement, especially learning strategies (r = .48), behavioral engagement (r = .57), and self-efficacy (r = .45). [→ Ana Rothes 2017](#ana-rothes-2017)
+`q2 i2` Autonomous regulation had significant positive correlations with all external variables except teacher-reported engagement, especially learning strategies (r = .45), behavioral engagement (r = .37), and self-efficacy (r = .34). [→ Ana Rothes 2017](#ana-rothes-2017)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Ana Rothes, Marina S. Lemos, and Teresa Gonçalves. (2017). Motivational Profiles of Adult Learners. Adult Education Quarterly. https://doi.org/10.1177/0741713616669588
 
-`q2 · i3` · `associational · r1`
+`q2 · i2` · `associational · r1`
 
-Correlational analysis of all measured variables in the 188-participant sample (Table 1). Autonomous regulation correlated with learning strategies r = .48, behavioral engagement r = .57, and self-efficacy r = .45, all p < .01, as printed in the correlation table. Controlled regulation showed no significant correlations with these outcomes.
+Correlational analysis of all measured variables (Table 1) among 188 adult learners; the later-administered learning-strategy and engagement scales were answered by 175, and teacher-reported engagement was collected for 124. Autonomous regulation correlated with learning strategies r = .45, behavioral engagement r = .37, and self-efficacy r = .34, all p < .01, as printed in the correlation table. Controlled regulation showed no significant correlations with these outcomes.
 
 > "Autonomous regulation had significant positive linear relations with all the external variables except for teacher-reported engage- ment, especially with learning strategies, behavioral engagement, and self-efficacy, while controlled regulation had no significant linear relations with the latter"
 

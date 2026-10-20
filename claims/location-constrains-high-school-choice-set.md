@@ -46,7 +46,7 @@ Focus-group finding from the Setting Factors section: students reported direct i
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
-- [Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
+- [Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - [Most students reported a high degree of agency in deciding which high school to attend, though agency was constrained or absent for some](student-agency-school-selection.md) — related
 - [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — related

@@ -44,7 +44,7 @@ A 2 (Competitiveness Group) X 8 (Time) mixed ANOVA of Kahoot scores for HC (n = 
 
 ## Related Claims
 - [Absolute monitoring accuracy showed a mixed, inconsistent group-by-time interaction rather than a stable competitiveness difference](inconsistent-absolute-accuracy-competitiveness.md) — related
-- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](no-competitiveness-difference-monitoring-bias.md) — related
 - [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](quiz1-kahoot-moderation-competitiveness.md) — related
 - [Most motivational and self-regulation measures did not differ by competitive preference, though overall interest in educational psychology declined over the semester](no-competitiveness-differences-motivation-measures.md) — related

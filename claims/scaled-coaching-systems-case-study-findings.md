@@ -83,5 +83,5 @@ Qualitative case-study findings from interviews and focus groups: participants "
 
 - [Pairing coaching with group trainings is associated with larger effects on instruction and achievement; instructional materials with larger, and video libraries with smaller, effects on instruction](coaching-complementary-elements-moderators.md) — the general claim this finding bears on, with the studies behind it
 - [No specific coaching dosage is established as necessary; coaching outcomes appear more sensitive to coaching quality than dosage, with sustained duration favoring comprehensive coaching](coaching-dosage-quality-over-quantity.md) — related
-- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week](sustained-coaching-contact-hours.md) — related
 - [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related

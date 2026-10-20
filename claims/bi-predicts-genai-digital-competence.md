@@ -44,7 +44,7 @@ PLS-SEM analysis of survey data from 434 in-service teachers in the Dominican Re
 
 ## Related Claims
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
-- [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [SDT-driven activity system redesign in Cycle 2 produced significant pre-post gains in AI-TPACK (d = 0.70), IPACK (d = 0.86), and AI attitude (d = 0.58)](sdt-driven-redesign-capacity-willingness-gains.md) — related

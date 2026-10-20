@@ -35,7 +35,7 @@ Benedek Mathias, Jauk Emanuel, Sommer Markus, Arendasy Martin, Neubauer Aljoscha
 
 `q3 · i3` · `associational · r2`
 
-Latent variable regression in a 230-participant SEM study (executive functions regressed on fluid intelligence). The article reports the standardized path updating strongly predicts Gf (β = .53), with inhibition (β = .12, p = .30) and shifting non-significant.
+Latent variable regression in a 230-participant SEM study (fluid intelligence and creativity regressed on the latent updating, shifting and inhibition factors; the design is correlational, so the paths are predictive, not causal). The article reports the standardized path updating strongly predicts Gf (β = .53), with inhibition (β = .12, p = .30) and shifting non-significant.
 
 > "The model further revealed that updating strongly predicts Gf (β = .53, p < .001) and, to a lesser extent, also creativity (β = .29, p < .001). By contrast, inhibition predicted creativity (β = .20, p = .04) but not Gf (β = .12, p = .30)."
 

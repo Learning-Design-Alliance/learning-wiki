@@ -45,5 +45,5 @@ Exploratory moderation analyses testing whether rubric effects depended on overa
 ## Related Claims
 - [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) — related
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
-- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related

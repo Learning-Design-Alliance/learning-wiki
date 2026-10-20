@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships
-description: Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships
+title: Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships
+description: Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships
 id: longer-partnership-greater-data-capacity
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: "?"
 ---
 
-# Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships
+# Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r?` · `q2`
@@ -35,7 +35,7 @@ Cassie Pickens Jewell, Libby Makowsky, Kristin Hallgren, Jacob Hartog. (2014). C
 
 `q2 · i?` · `qualitative · r?`
 
-Descriptive case-study finding comparing longer-tenured partner agencies with newer partners. The report states there "were differences" in capacity and data-use activities but does not quantify them or test whether partnership duration caused them.
+Descriptive case-study finding comparing longer-tenured partner agencies with newer partners. The report states there "were differences" in capacity and data-use activities but does not say which group had more capacity or activity, does not quantify the differences, and does not test whether partnership duration caused them.
 
 > "There were, however, differences in the capacity for using data, and in data use activities, between agencies that had partnered with SDP or EP for longer periods of time and those new to their partnerships."
 

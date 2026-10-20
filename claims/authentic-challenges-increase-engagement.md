@@ -46,4 +46,4 @@ The report asserts, in its rationale section, that research evidence supports gr
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — the general claim this finding bears on, with the studies behind it
 - [Instruction organized to promote authentic intellectual work was associated with more complex student thinking and greater standardized test gains](authentic-intellectual-work-complex-thinking-gains.md) — related
 - [Intellectually Ambitious Instruction Is Associated with Improved Student Learning Across Populations](intellectually-ambitious-instruction-improves-learning.md) — related
-- [Both high- and low-prior-achieving students benefited from exposure to high-quality assignments](high-and-low-achievers-benefit-from-quality-assignments.md) — related
+- [In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains](high-and-low-achievers-benefit-from-quality-assignments.md) — related

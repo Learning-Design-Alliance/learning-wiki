@@ -43,7 +43,7 @@ The article states its novelty claim directly: "Mathematica's study is the first
 
 
 ## Related Claims
-- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades](mcas-and-parcc-both-predict-college-grades-similar-validity.md) — related
 - [In math, the PARCC college-ready standard predicts higher college performance than the MCAS proficient standard, while in ELA the standards are similar](parcc-college-ready-standard-higher-math-college-performance.md) — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md) — related

@@ -44,6 +44,6 @@ Meta-regression moderator analysis of player grouping in media comparisons (Tabl
 
 ## Related Claims
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — related
-- [Games with no story or irrelevant story context show larger learning effects than games with relevant story context](irrelevant-story-larger-effects-than-relevant.md) — related
+- [Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect](irrelevant-story-larger-effects-than-relevant.md) — related
 - [Multi-session game conditions outperform nongame conditions while single-session games do not, though total play duration shows no association with effect size](multiple-sessions-benefit-single-session-null.md) — related
 - [Single noncollaborative, noncompetitive play shows the largest learning effects, significantly larger than single competitive play](single-noncompetitive-play-largest-media-effects.md) — possibly the same claim (merge candidate)

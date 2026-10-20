@@ -38,7 +38,7 @@ Teaching residency programs are alternative teacher-training models funded under
 
 ## Claims
 
-- [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](../claims/tqp-grant-program-created-trps-2008.md) [+W]
+- [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](../claims/tqp-grant-program-created-trps-2008.md) [+W]
 - [The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention](../claims/trp-multisite-study-30-programs.md) [+W]
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](../claims/trp-retention-similar-to-other-routes.md) [~M]
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](../claims/trp-stipend-three-year-commitment.md) [+W]

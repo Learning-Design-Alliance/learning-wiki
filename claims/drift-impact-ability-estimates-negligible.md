@@ -35,7 +35,7 @@ He, W. (2022). MAP Growth item parameter drift study. NWEA Research Report. http
 
 `q2 · i?` · `design · r2`
 
-Rescoring analysis: 3,000 test events were randomly selected in each subject and term from Fall 2011 to Spring 2013 and rescored using the operational ability estimate procedure with new item difficulty estimates. The report views the average magnitudes as negligible given the 1-point RIT reporting increment.
+Rescoring analysis: up to 3,000 test events were randomly selected in each subject and term (Table 3.3 shows 2,476–3,000 per cell) from Fall 2011 to Spring 2013 and rescored using the operational ability estimate procedure with new item difficulty estimates. The report views the average magnitudes as negligible given the 1-point RIT reporting increment.
 
 > "The average ability estimate differences for all subjects and terms is quite small, with the largest magnitude being 0.03 logit (i.e., 0.3 RIT) observed for the Spring 2013 math tests."
 

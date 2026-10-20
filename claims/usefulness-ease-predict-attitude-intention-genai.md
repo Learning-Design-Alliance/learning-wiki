@@ -47,7 +47,7 @@ PLS-SEM analysis in the 434-teacher sample testing H1–H4. PU→AOU (β = 0.178
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
 - [Teacher self-efficacy significantly predicts perceived usefulness and perceived ease of use of GenAI tools](self-efficacy-predicts-usefulness-ease-genai.md) — related
-- [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - Perceived ease of use does not significantly predict intention to use the contextual mobile language learning app — related
 - [Attitude, facilitating conditions, and social influence correlate most strongly with behavioral intention, while perceived ease of use correlates weakest](at-fc-si-strongest-bi-correlates-peou-weakest.md) — related
 - Perceived contextual value is the primary driver of perceived usefulness of the contextual app — related

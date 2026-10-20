@@ -40,7 +40,7 @@ Katy Ilonka Gero, Tao Long, Carly Schnitzler, and Paramveer S. Dhillon. 2026. Fr
 
 `q3 · i?` · `causal · r2`
 
-Pre-planned contrast C2 from the between-subjects experiment (n=253) on prompt-adjusted ownership means: "assistance during drafting lowers ownership substantially more than assistance during planning or revision." Only the test statistic and p-value were printed; no standardized effect size.
+Pre-planned contrast C2 from the between-subjects experiment (n=253) on prompt-adjusted ownership means: "assistance during drafting lowers ownership substantially more than assistance during planning or revision." Only the raw contrast estimate (−1.65 ownership points) and its p-value were printed; no test statistic and no standardized effect size.
 
 > "C2(ai–draftvs. the average ofai–planandai–revision) was −1.65points (𝑝<. 001), showing that assistance during drafting lowers ownership substantially more than assistance during planning or revision."
 

@@ -43,7 +43,7 @@ A study design report prepared by Mathematica Policy Research for the U.S. Depar
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](../claims/few-districts-aligned-bonuses-with-tif-guidance.md) [+W]
 - [Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect](../claims/tif-bonuses-reading-gain-one-percentile.md) [+W]
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](../claims/teachers-misunderstood-bonus-eligibility-and-amounts.md) [+W]
-- [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
 - [In the 2010 TIF pay-for-performance programs, over 60% of teachers received a bonus, with average bonuses of about $1,800 and top performers earning more than 3 times the average](../claims/tif-bonuses-easily-earned-top-performers-larger.md) [+W]
 - [The average TIF bonus was about 4% of average teacher salary, below the 5% recommended by TIF grant guidance for substantial bonuses](../claims/tif-average-bonus-below-recommended-share.md) [+W]
 

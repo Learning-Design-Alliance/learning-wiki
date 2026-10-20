@@ -13,7 +13,7 @@ generated:
 # Race and Ethnicity
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 183 claims (153 show a difference, 25 mixed, 5 no difference) · 137 studies (82 associational, 22 review, 13 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 137 report an effect size · 181 claims rest on one study
+> **Evidence** · 183 claims (153 show a difference, 25 mixed, 5 no difference) · 138 studies (83 associational, 22 review, 13 causal, 8 theoretical, 7 qualitative, 3 design, 2 quant-synthesis), `q1`–`q3` · 1 of 138 report an effect size · 181 claims rest on one study
 
 ## How to read this page
 
@@ -154,7 +154,7 @@ Race and ethnicity are social categories, recorded in most education research fr
 - [Nearly half of Black and Hispanic preschoolers attend schools where over 90% of students are students of color](../claims/preschool-racial-isolation-black-hispanic.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Ninth-grade enrollment in school types differed by community-area racial/ethnic makeup: 22 of 30 majority-Black areas had at least 25 percent of ninth-graders in charter schools, and no majority-Latinx area had a quarter in selective enrollment](../claims/enrollment-school-types-differed-by-community-race.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [On-Track gains were largest in the lowest-performing schools and among African American and Latino males](../claims/on-track-gains-largest-bottom-quartile-and-minority-males.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
-- [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](../claims/high-intensity-active-learning-narrows-gaps.md) [~M] — an instructional effect differs by group
+- [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](../claims/high-intensity-active-learning-narrows-gaps.md) [~M] — an instructional effect differs by group
 - [Overreliance on dominant outcomes constrains learning and mathematical identity of students of color](../claims/dominant-outcomes-overreliance-constrains-students-of-color.md) [+W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Pandemic achievement declines were uneven across racial/ethnic groups, with the largest declines still apparent for Hispanic, Black, and AIAN students in spring 2022](../claims/pandemic-declines-largest-hispanic-black-aian-students.md) [+M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [Perceived safety changes under reduced suspension use varied by school racial composition: a small decline in predominantly Latino schools and a similar-sized but non-significant improvement in predominantly Black schools](../claims/cps-suspension-reduction-perceived-safety.md) [~M] — an instructional effect differs by group

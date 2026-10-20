@@ -48,5 +48,5 @@ Secondary analysis comparing ITBS learning gains of high- and low-prior-achievin
 ## Related Claims
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
 - [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](authentic-assignments-igap-value-added.md) — related
-- [Both high- and low-prior-achieving students benefited from exposure to high-quality assignments](high-and-low-achievers-benefit-from-quality-assignments.md) — a broader claim this one bears on
+- [In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains](high-and-low-achievers-benefit-from-quality-assignments.md) — a broader claim this one bears on
 - [Authentic Pedagogy Assignments Predict Higher Achievement Gains in Chicago Elementary Schools](authentic-assignments-greater-itbs-gains.md) — related

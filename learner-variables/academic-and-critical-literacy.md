@@ -13,7 +13,7 @@ generated:
 # Academic and Critical Literacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 40 claims (25 show a difference, 12 mixed, 3 no difference) · 35 studies (10 causal, 8 associational, 5 quant-synthesis, 5 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 10 of 35 report an effect size · 37 claims rest on one study
+> **Evidence** · 40 claims (25 show a difference, 12 mixed, 3 no difference) · 35 studies (10 causal, 8 associational, 5 quant-synthesis, 5 review, 3 qualitative, 3 design, 1 theoretical), `q1`–`q4` · 11 of 35 report an effect size · 37 claims rest on one study
 
 ## Description
 This page brings together two related factors from the Learner Variability Navigator; its third, Core Academic Literacies (general fluency across the core subjects), is on [prior knowledge](prior-knowledge.md). Disciplinary literacy is the ability to read, write, speak and present in the ways each discipline uses (proofs, lab reports, historical arguments) and, for adults, in real-world domains such as health and finance. Critical literacy is the ability to identify a text's purpose, motives and possible biases, which supports comprehension and critical thinking and prepares learners for civic participation.
@@ -39,7 +39,7 @@ They are assessed through performance tasks rather than a single test: argumenta
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
 - [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](../claims/academic-integrity-strongest-predictor-ethical-genai.md) [+M] — learners who differ on it differ in outcomes
-- [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](../claims/ai-literacy-enhances-critical-ai-evaluation.md) [+W] — instruction changes it
+- [AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning](../claims/ai-literacy-enhances-critical-ai-evaluation.md) [+W] — instruction changes it
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](../claims/ai-task-scaffolding-positive-higher-order-outcomes.md) [+M] — instruction changes it
 - [AI verification literacy does not directly predict critical thinking or technical problem-solving](../claims/ai-verification-literacy-no-direct-effect.md) [-M] — learners who differ on it differ in outcomes
 - [An evaluation of the World History Project detected no statistically significant difference from comparison students in the other five historical thinking skills](../claims/whp-comparable-other-five-skills.md) [-M] — instruction changes it

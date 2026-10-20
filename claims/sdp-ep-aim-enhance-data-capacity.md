@@ -69,7 +69,7 @@ The article's stated description of the two programs' purpose and mechanism: enh
 
 - [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — a narrower finding that bears on this claim
 - Agency experiences with data practices were documented through interviews covering collection, use, analysis, and reporting — related
-- [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — a narrower finding that bears on this claim
+- [Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — a narrower finding that bears on this claim
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](sdp-ep-year1-agencies-began-partnership.md) — a narrower finding that bears on this claim

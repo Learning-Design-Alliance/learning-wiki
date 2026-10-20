@@ -35,9 +35,9 @@ sources:
 
 ## Subclaims
 
-`q2 i?` Students who rapidly guess repeatedly over multiple tests show strong associations with lower academic self-efficacy and self-management survey scores. [→ James Soland 2020](#james-soland-2020)
+`q2 i?` Repeated rapid guessing over multiple tests is reported as strongly associated with academic self-efficacy and self-management survey scores; the available text does not state the direction or print a coefficient. [→ James Soland 2020](#james-soland-2020)
 
-`q2 i?` Students who rapidly guess repeatedly over several tests show a strong association with lower academic self-efficacy and self-management scores. [→ James Soland 2019](#james-soland-2019)
+`q2 i?` Repeated rapid guessing over several tests is reported as strongly associated with academic self-efficacy and self-management scores; the abstract does not state the direction or print a coefficient. [→ James Soland 2019](#james-soland-2019)
 
 ## Evidence
 
@@ -57,7 +57,7 @@ James Soland, Megan Kuhfeld. (2019). Do students rapidly guess repeatedly over t
 
 `q2 · i?` · `associational · r?`
 
-Longitudinal study relating repeated rapid guessing across multiple test administrations to psychological measures. The article reports that repeated rapid guessing "is strongly associated with students’ academic self-efficacy and self-management scores." The association is correlational; no effect size or coefficient is printed in the available text.
+Longitudinal study (six test administrations over three years) relating repeated rapid guessing to psychological and background measures. The article's abstract reports that repeated rapid guessing "is strongly associated with students’ academic self-efficacy and self-management scores." The association is correlational; the abstract states neither its direction nor a coefficient. The same study was presented by Soland and Wise at the 2020 NCME conference (previous entry).
 
 > "Further, we show that repeated rapid guessing is strongly associated with students’ academic self-efficacy and self-management scores."
 

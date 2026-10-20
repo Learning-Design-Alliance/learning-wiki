@@ -28,7 +28,7 @@ A U.S. Department of Education grant programme that funds teacher-residency and 
 - **Teaching residency programs (TRPs) funded through the Teacher Quality Partnership grants program**: Teaching residency programs are teacher-preparation models in which, per the brief, TRPs "prepare new teachers primarily through a year-long residency in a high-need school and integrated coursework leading to a master's degree." They are funded through the U.S. Department of Education's Teacher Quality Partnership grants program. This brief examines retention outcomes for teachers trained through 12 such TRPs serving six districts. (Tim Silva et al. (2015))
 
 ### Claims
-- [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](../claims/tqp-grant-program-created-trps-2008.md) [+W]
+- [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](../claims/tqp-grant-program-created-trps-2008.md) [+W]
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](../claims/trp-stipend-three-year-commitment.md) [+W]
 
 ## Related Products and Programmes
@@ -63,7 +63,7 @@ Teaching residency programs are teacher-preparation models in which, per the bri
 
 ## Claims
 
-- [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](../claims/tqp-grant-program-created-trps-2008.md) [+W]
+- [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](../claims/tqp-grant-program-created-trps-2008.md) [+W]
 - [TRP participants could accept a stipend in exchange for committing to teach in the same district for at least three years](../claims/trp-stipend-three-year-commitment.md) [+W]
 
 ## Related Elements

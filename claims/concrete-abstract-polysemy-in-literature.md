@@ -35,7 +35,7 @@ Julia Chatain, Charlotte Müller, Keny Chatain, Leon Calabrese, Manu Kapur. (202
 
 `q2 · i?` · `qualitative · r3`
 
-Qualitative corpus study: the authors searched the ERIC database for peer-reviewed journal articles on concreteness and abstraction in mathematics education and retrieved "the content of 368 papers" as their final sample. Four researchers double-coded contexts, collecting 4309 contexts in total.
+Qualitative corpus study: the authors searched the ERIC database for peer-reviewed journal articles on concreteness and abstraction in mathematics education and retrieved "the content of 368 papers" as their final sample. The authors collected 4309 contexts from that sample, which four researchers double-coded; a corpus added after the first revision round gave a further 592 contexts per reviewer, coded after the taxonomy was built.
 
 > "From this sample, we could retrieve the content of 368 papers through open or institutional access, which constitutes our ﬁnal sample"
 

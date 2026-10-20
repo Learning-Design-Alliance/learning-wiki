@@ -44,7 +44,7 @@ PLS-SEM path analysis in the 434-teacher sample. The AOU→BI path was significa
 ## Related Claims
 
 - [Teachers who believe AI will help them reach professional goals and improve students' learning outcomes (utility value) may be more motivated to use it (theoretical argument).](teacher-utility-value-increases-motivation-to-use-ai.md) — the general claim this finding bears on, with the studies behind it
-- [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related
 - [Students rate their ethical awareness of AI higher than instructors, while instructors report stronger willingness to experiment with AI tools and higher behavioural intention](students-higher-ethical-awareness-instructors-higher-intention.md) — related

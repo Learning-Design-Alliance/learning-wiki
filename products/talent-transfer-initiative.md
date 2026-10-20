@@ -33,7 +33,7 @@ A U.S. Department of Education–supported programme that offered high-performin
 
 ### Claims
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](../claims/selective-transfer-targets-hardest-to-staff-schools.md) [+W]
-- [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](../claims/tti-20000-incentive-filled-90-percent-vacancies.md) [+M]
 - [TTI increased elementary school test scores but not middle school test scores](../claims/tti-no-middle-school-effects.md) [+M]
 - [Most TTI teachers stayed on the job even after transfer payments ended](../claims/tti-teachers-stayed-after-payments-ended.md) [+M]
@@ -78,7 +78,7 @@ The Talent Transfer Initiative was a teacher transfer incentive program evaluate
 ## Claims
 
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](../claims/selective-transfer-targets-hardest-to-staff-schools.md) [+W]
-- [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
 
 ## Related Elements
 
@@ -124,7 +124,7 @@ The Talent Transfer Initiative is a transfer-incentive strategy piloted in seven
 - [Most TTI teachers stayed on the job even after transfer payments ended](../claims/tti-teachers-stayed-after-payments-ended.md) [+M]
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](../claims/selective-transfer-incentive-20000-hard-to-staff-schools.md) [+W]
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](../claims/tti-increased-elementary-test-scores.md) [+M]
-- [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](../claims/teacher-transfer-incentive-behavioral-responses.md) [+W]
 - [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](../claims/selective-transfer-targets-hardest-to-staff-schools.md) [+W]
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](../claims/tti-more-cost-effective-than-similar-interventions.md) [+W]
 - [Most TTI teachers stayed on the job even after incentive payments ended](../claims/tti-teachers-retained-after-payments.md) [+M]

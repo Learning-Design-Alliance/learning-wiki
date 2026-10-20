@@ -44,7 +44,7 @@ Key finding from the Year 2 descriptive implementation study, based on longitudi
 
 ## Related Claims
 - [Agencies built multi-source linked data systems and worked to increase analytic capacity through hiring, vendor partnerships, and training](agencies-built-linked-data-systems-and-analytic-capacity.md) — related
-- [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related
+- [Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related
 - [SDP and EP programs aim to enhance education agencies' data capacity through support, training, and staff placement](sdp-ep-aim-enhance-data-capacity.md) — related
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related
 - [Single-initiative data analysis has not always changed agency-wide policies and practices, and many staff may lack skills to interpret findings](single-initiative-analysis-limited-agency-wide-impact.md) — related

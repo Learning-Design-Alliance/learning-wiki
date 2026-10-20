@@ -64,6 +64,6 @@ In the same study, teachers who were initially unsure what to add used the highl
 ## Related Claims
 - [Graphic Organizers Support Novice Comprehension](graphic-organizers-support-novice-comprehension.md) — related
 - [Reading AI-generated scaffolds prompted teachers to reflect on and revise their classroom practices, and shifted initial AI hesitancy toward wanting students to use the tool](concept-catalyst-outputs-inspire-practice-reflection.md) — related
-- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
+- [Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
 - [The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles](concept-catalyst-scaffold-diversity-matches-practices.md) — related
 - [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](woz-study-positive-teacher-feedback-concept-catalyst-framework.md) — a broader claim this one bears on

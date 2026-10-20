@@ -45,4 +45,4 @@ The 2×2 experiment's omnibus interaction test found "no interaction effect" on 
 ## Related Claims
 - [Providing navigation features in an instructional video does not improve retention or comprehension when learning time is controlled](navigation-features-no-learning-benefit-controlled-time.md) — related
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related
-- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related

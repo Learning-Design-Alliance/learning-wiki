@@ -14,7 +14,7 @@ sources:
     title: "Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133"
     author: "Ariel, R., & Karpicke, J. D."
     q: 3
-    i: 2
+    i: 3
     kind: causal
     rigour: 2
   - id: ariel-2018-2
@@ -30,10 +30,10 @@ sources:
 # Retrieval practice instructions led students to recall items to a criterion of about three correct retrievals before dropping them
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
-`q3 i2` The instructed group recalled translations approximately three times before dropping them, whereas the control group dropped items after about one correct retrieval. [→ Ariel 2018](#ariel-2018)
+`q3 i3` The instructed group recalled translations approximately three times before dropping them, whereas the control group dropped items after about one correct retrieval. [→ Ariel 2018](#ariel-2018)
 `q3 i2` Instructions increased the proportion of items recalled three or more times and decreased items never recalled or recalled only once. [→ Ariel 2018 (2)](#ariel-2018-2)
 
 ## Evidence
@@ -42,7 +42,7 @@ sources:
 
 Ariel, R., & Karpicke, J. D. (2018). Improving Self-Regulated Learning With a Retrieval Practice Intervention. Journal of Experimental Psychology: Applied. https://doi.org/10.1037/xap0000133
 
-`q3 · i2` · `causal · r2`
+`q3 · i3` · `causal · r2`
 
 Experiment 1 behavioral analysis of self-regulated choices. Group means differed, t(58) = 3.52, p < .01, d = 0.92; the instructed group's mean did not differ from 3, t(29) = 0.55, p = .58, while the control group's did, "t(29) = 8.09, p < .001, d = 1.48".
 

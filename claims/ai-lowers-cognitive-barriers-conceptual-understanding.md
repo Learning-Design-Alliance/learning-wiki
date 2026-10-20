@@ -44,7 +44,7 @@ Qualitative thematic analysis of interviews and open-ended questionnaires with f
 
 ## Related Claims
 - [AI serves two complementary roles in learning: cognitive partner and personalized recommendation mechanism](ai-dual-roles-cognitive-partner-recommender.md) — related
-- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
+- [Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
 - [GAI is rated highly effective for supporting cognitive presence by 85.71% of surveyed marketing educators](gai-rated-highly-effective-cognitive-presence.md) — related
 - [AI tools are reshaping traditional experimental approaches and creating novel opportunities for enhanced learning experiences in chemistry](ai-reshaping-experimental-approaches-learning-opportunities.md) — related
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](ai-supports-consolidation-comparison-reorganization-transfer.md) — related

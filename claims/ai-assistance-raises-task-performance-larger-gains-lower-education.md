@@ -47,7 +47,7 @@ Intent-to-treat estimates from the preregistered randomized experiment (1,174 co
 - [AI assistance closes about three-quarters of the baseline education-based task-performance gap, though a 0.139 SD gap remains among treated participants](ai-closes-three-quarters-of-education-task-gap.md) — related
 - [AI-induced gains are not purely delegation: treated participants do not perform worse once AI is removed, and lower-education participants retain part of their gain, though a 0.200 SD gap re-emerges](ai-gains-carry-over-followup-not-pure-delegation.md) — related
 - [AI access raises unaided essay quality in both sessions, while AI-generated text detectable in Session One essays disappears by Session Two](genai-raises-unaided-essay-quality.md) — related
-- [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
+- [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [AI assistance raises the probability of correctly identifying the task's root cause for both education groups, with near-equalization among treated participants](ai-raises-root-cause-detection-near-equalization.md) — related
 - [AI access raises immediate unaided test scores by 7.2 percentage points (0.28 SD) after a timed learning phase](genai-access-raises-immediate-test-scores.md) — related
 - [Both instructional groups improved significantly from pre-test to post-test, with larger gains in the generative AI-supported group](genai-geometry-within-group-gains.md) — related

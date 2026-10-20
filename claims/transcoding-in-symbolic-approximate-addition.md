@@ -9,9 +9,9 @@ generated:
   at: 2026-10-17
 evidence_strength: moderate
 sources:
-  - id: xenidou-dervou-2014
+  - id: xenidou-dervou-2015
     resource: "https://doi.org/10.1080/17470218.2014.977303"
-    title: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303"
+    title: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2015). Working memory and number line representations in single-digit addition: Approximate versus exact, nonsymbolic versus symbolic. *Quarterly Journal of Experimental Psychology, 68*(6), 1148–1167. [doi:10.1080/17470218.2014.977303](https://doi.org/10.1080/17470218.2014.977303)"
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Nonsymbolic number line estimation, VSSP and CE each significantly predicted symbolic approximate addition. [→ Xenidou-Dervou 2014](#xenidou-dervou-2014)
+`q3 i?` Nonsymbolic number line estimation, VSSP and CE each significantly predicted symbolic approximate addition. [→ Xenidou-Dervou 2015](#xenidou-dervou-2015)
 
 ## Evidence
 
-### Xenidou-Dervou 2014
+### Xenidou-Dervou 2015
 
-Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
+Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2015). Working memory and number line representations in single-digit addition: Approximate versus exact, nonsymbolic versus symbolic. *Quarterly Journal of Experimental Psychology, 68*(6), 1148–1167. [doi:10.1080/17470218.2014.977303](https://doi.org/10.1080/17470218.2014.977303)
 
 `q3 · i?` · `associational · r2`
 

@@ -108,7 +108,7 @@ The report synthesizes prior research on teacher residency outcomes, citing Lear
 
 - [Residency graduates show high retention rates of roughly 80-90% after three years and 70-80% after five years](residency-graduates-high-retention-rates.md) — possibly the same claim (merge candidate)
 - [In rigorous controlled studies, residency graduates retained at significantly higher rates than non-residency peers](residency-retention-significant-vs-peers.md) — possibly the same claim (merge candidate)
-- [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
+- [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
 - [Novice TRP teachers' district retention rates are roughly the same as those of teachers entering through other preparation programs](trp-retention-similar-to-other-routes.md) — reports the opposite
 - [School-retention rates are similar between TRP-trained and non-TRP novice teachers](trp-school-retention-rates-similar.md) — related
 - [Alder residency graduates show higher 3-year same-LEA retention than teachers prepared through other pathways in the same LEAs](alder-graduates-higher-retention-other-pathways.md) — related

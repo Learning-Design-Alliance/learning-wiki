@@ -19,8 +19,8 @@ sources:
     kind: associational
     rigour: "?"
   - id: erin-dillon-2015
-    resource: "https://doi.org/10.18289/oef.2015.002"
-    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)"
+    resource: "https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
+    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
     author: Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place
     q: 2
     i: "?"
@@ -53,7 +53,7 @@ The study compared how high school PARCC and MCAS exams predict placement in rem
 
 ### Erin Dillon 2015
 
-Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)
+Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college
 
 `q2 · i?` · `associational · r?`
 
@@ -73,7 +73,7 @@ Key findings statement from the policy brief comparing MCAS and PARCC as predict
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard](parcc-math-standard-less-remediation.md) — a narrower finding that bears on this claim
 - [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](parcc-math-standard-less-remediation-than-mcas-proficient.md) — a narrower finding that bears on this claim
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md) — a narrower finding that bears on this claim
-- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](parcc-mcas-similar-validity-college-grades.md) — related
 - [In math, the PARCC college-ready standard predicts higher college performance than the MCAS proficient standard, while in ELA the standards are similar](parcc-college-ready-standard-higher-math-college-performance.md) — related
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related

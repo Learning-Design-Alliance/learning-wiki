@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations
-description: Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations
+title: Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations
+description: Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations
 id: segmentation-improves-learning-dynamic-visualizations
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: 3
 ---
 
-# Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations
+# Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · theoretical `r3` · `q3`
 
 ## Subclaims
-`q3 i?` Participants studying segmented video or animation of modeled teaching skills remembered more of the modeled behaviour and reported lower mental effort and difficulty than participants with non-segmented versions. [→ Spanjers 2010](#spanjers-2010)
+`q3 i?` In Moreno (2007), as this review reports it, participants studying segmented video or animation of modeled teaching skills remembered more of the modeled behaviour and reported lower mental effort and difficulty than participants with non-segmented versions. [→ Spanjers 2010](#spanjers-2010)
 `q3 i?` Learners studying a segmented animation or a pausable animation performed better on difficult test questions than learners studying non-segmented versions without learner control, with learning time equalized. [→ Spanjers 2010 (2)](#spanjers-2010-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Spanjers, I. A. E., van Gog, T., & van Merriënboer, J. J. G. (2010). A Theoreti
 
 `q3 · i?` · `theoretical · r3`
 
-The review reports two experiments (classroom video and animation of modeled teaching skills) comparing segmented and non-segmented versions; segmented groups "remembered more of the modelled behaviour" and reported less mental effort and difficulty. No effect sizes are printed.
+The review summarises Moreno's (2007) two experiments (classroom video and animation of modeled teaching skills), which compared segmented and non-segmented versions; the experiments are Moreno's, not the reviewers'. Segmented groups "remembered more of the modelled behaviour" and reported less mental effort and difficulty. No effect sizes are printed. The review concludes that segmentation helps "at least for novices": in the studies it covers, students with more prior knowledge sometimes learned equally well from non-segmented versions (an expertise reversal).
 
 > "Moreno ( 2007) found that participants who studied a segmented version of an exemplary classroom video (experiment 1) or animation (experiment 2) in which teaching skills were modeled remembered more of the modelled behaviour, reported to invest less mental effort, and experienced the learning materials as less difficult than participants who studied non- segmented versions of the material."
 

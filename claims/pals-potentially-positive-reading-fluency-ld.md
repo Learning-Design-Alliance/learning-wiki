@@ -36,7 +36,7 @@ What Works Clearinghouse, U.S. Department of Education. (2012). Peer-Assisted Le
 
 `q3 · i1` · `quant-synthesis · r1`
 
-WWC synthesis of two studies (Fuchs et al., 1997, 40 students; Saenz et al., 2005, 20 ELL students with learning disabilities), both RCTs against business-as-usual. The Saenz et al. (2005) fluency effect size was 0.41; the "domain average for reading fluency across all studies" was 0.36, improvement index +14, not statistically significant.
+WWC synthesis of two studies (Fuchs et al., 1997, 40 students; Saenz et al., 2005, 20 ELL students with learning disabilities), both against business-as-usual: Saenz et al. (2005) is a randomized controlled trial; Fuchs et al. (1997) randomized schools, but the WWC reviewed it as a quasi-experimental design (meeting standards with reservations) because teachers knew their condition when they selected students. The Saenz et al. (2005) fluency effect size was 0.41; the "domain average for reading fluency across all studies" was 0.36, improvement index +14, not statistically significant.
 
 > "However, the WWC-calculated average effect size across these two measures was 0.41—large enough to be considered substantively important by the WWC. The WWC characterizes these study findings as a substantively important positive effect."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance"
-description: "ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance"
+title: "ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance"
+description: "ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance"
 id: chatgpt-boosts-self-efficacy-not-performance
 status: review
 generated:
@@ -27,10 +27,12 @@ sources:
     rigour: 1
 ---
 
-# ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance
+# ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q3` · `i2` medium
+
+In the same experiment ChatGPT did improve actual performance (solution quality, elaboration and originality); the finding here is that the self-efficacy boost was larger than performance warranted, since self-efficacy correlated negligibly with performance and was associated with overestimation.
 
 ## Subclaims
 `q3 i2` Self-efficacy for task resolution with ChatGPT was moderately higher than control self-efficacy, F(1,142) = 16.28, η2p = .10. [→ Urban 2024](#urban-2024)
@@ -63,7 +65,7 @@ Exploratory correlation analysis of Table 3 from the same experiment. The articl
 
 
 ## Related Claims
-- [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — reports the opposite
+- [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — same study: ChatGPT did improve performance
 - [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
 - [Perceived usefulness of ChatGPT, an invalid cue, is associated with overestimation of performance](perceived-usefulness-invalid-metacognitive-cue.md) — related

@@ -46,5 +46,5 @@ The review's synthesis of the 22 studies reporting learning performance effects 
 
 - AI performance is the most frequent research theme (35%) in research on generative AI in secondary STEM education, ahead of tool development (22%) and application & impact (19%) — related
 - [GPA and prior topic knowledge do not moderate the performance effect of LLM-assisted self-study](gpa-prior-knowledge-do-not-moderate-llm-gains.md) — related
-- [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
+- [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Reviewed studies reported good algorithm accuracy and efficiency for AI in STEM, with performance varying by algorithm and granularity](ai-stem-technological-effects-algorithm-accuracy.md)

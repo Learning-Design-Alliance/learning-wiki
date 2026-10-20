@@ -57,4 +57,4 @@ The special-issue introduction's summary of Nückles et al.'s two longitudinal f
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Expertise reversal: high-guidance worked examples become ineffective or detrimental once learners have developed cognitive schemata](expertise-reversal-worked-examples.md) — related
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](prompting-raises-quantity-of-cognitive-strategy-segments.md) — related
-- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — related
+- [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — related

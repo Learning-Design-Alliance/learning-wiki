@@ -35,7 +35,7 @@ Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predicto
 
 `q3 · i?` · `associational · r2`
 
-SEM results from the longitudinal sample using teacher-rated SWAN attention (α = .91). The quote reports the null attention path for narrative; the expository model likewise found the other predictors not related (ps ≥ .18). No effect size was printed for the null paths.
+SEM results from the longitudinal sample using teacher-rated SWAN attention (α = .91). The quote reports the nonsignificant attention path for narrative (β = .03, p = .77); in the expository model only kindergarten literacy was related (β = .43, p < .001) and attention was among the predictors not related (ps ≥ .18), with one exception among the controls: treatment status was negatively related to expository writing quality (β = −.23, p = .009). The expository attention coefficient is shown only in Figure 2.
 
 > "In contrast, kindergarten attentiveness (β = .03, p = .77) and letter writing automaticity (β = −.07, p = .43) were not independently related to narrative writing quality after accounting for kindergarten literacy, oral language skills, free and reduced lunch status, and treatment status."
 

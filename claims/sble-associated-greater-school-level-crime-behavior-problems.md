@@ -44,7 +44,7 @@ Robust variance estimation meta-analysis of 520 school-level effect sizes from 2
 
 ## Related Claims
 - [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — possibly the same claim (merge candidate)
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](sble-student-level-crime-behavior-null.md) — reports the opposite
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — reports the opposite
 - [Review findings are consistent across study design features; no moderator showed meaningful relationships](sble-findings-consistent-across-design-features.md) — related
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related

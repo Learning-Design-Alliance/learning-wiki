@@ -41,7 +41,7 @@ The article supports embedding ChatGPT-supported activities in Quantum Theory co
 
 - [ChatGPT-enhanced instruction produced significantly higher overall post-test achievement in Grade 12 Quantum Theory than traditional teaching, with a large effect size (η² > 0.14)](../claims/chatgpt-instruction-higher-quantum-posttest-achievement.md) [+W]
 - [Students reported that ChatGPT enhanced engagement, comprehension, problem-solving, and perceived relevance in Quantum Theory](../claims/chatgpt-qualitative-engagement-comprehension-quantum.md) [+W]
-- [Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together](../claims/collaborative-chatbot-answer-verification-problem-solving.md) [+W]
+- [Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers](../claims/collaborative-chatbot-answer-verification-problem-solving.md) [+W]
 - [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+W]
 
 ## Related Strategies

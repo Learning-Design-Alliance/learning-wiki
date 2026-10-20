@@ -43,6 +43,6 @@ In qualitative findings on visual humanlikeness (§5.2.2), participants reported
 
 
 ## Related Claims
-- [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
+- [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process](synchronous-ai-contextual-misalignment.md) — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related

@@ -41,7 +41,7 @@ A multi-phase assessment paradigm for children's metacognitive monitoring and co
 ### Claims
 
 - [Monitoring-based control (the relation between confidence judgments and maintenance decisions) is stronger for fourth graders than second graders and strengthens over time for open-ended questions](../claims/monitoring-based-control-strengthens-age-and-time.md) [+W]
-- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions](../claims/age-effect-monitoring-open-ended-only.md) [+W]
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](../claims/age-effect-monitoring-open-ended-only.md) [+W]
 
 ## Related Designs
 

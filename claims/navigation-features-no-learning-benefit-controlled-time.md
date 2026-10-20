@@ -45,4 +45,4 @@ In the 2×2 experiment with 128 university students learning about thunderstorms
 ## Related Claims
 - [Self-explanation prompts in an instructional video do not improve retention or comprehension when learning time is controlled](self-explanation-prompts-no-learning-benefit-controlled-time.md) — related
 - [Navigation features and self-explanation prompts do not interact in their effect on video learning](no-interaction-navigation-prompts-learning.md) — related
-- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related

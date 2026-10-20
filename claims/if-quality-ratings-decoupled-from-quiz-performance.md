@@ -46,6 +46,6 @@ Exploratory correlation analysis in the pilot (N = 22) linking questionnaire sub
 ## Related Claims
 - [Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot](ai-generated-if-coherence-weakest-dimension.md) — related
 - [AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants](ai-generated-if-narrative-clarity-length-accepted.md) — related
-- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
+- [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
 - [Students associate poor slide quality with AI as the source: perceived quality correlates negatively with AI-source guesses](quality-rating-negative-ai-guess-correlation.md) — related
 - [Pedagogy and production dimensions associated most strongly with global quality (Spearman ρ = 0.68 and 0.66), while content was relatively independent (ρ = 0.46)](bespoke-pedagogy-production-correlate-with-global-quality.md) — related

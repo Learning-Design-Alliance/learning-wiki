@@ -54,7 +54,7 @@ Cummins, James. (1979). Linguistic interdependence and the educational developme
 
 `q2 · i?` · `theoretical · r2`
 
-The review reports Ramírez and Politzer's (1976) finding on home language use among Spanish-English children. In both studies, "a loss in LI did not result inany gains in L2 despite the increased interaction through L2."
+A theoretical paper (the developmental-interdependence and threshold hypotheses), not an empirical review; as evidence for its interdependence hypothesis it cites Ramírez and Politzer's (1976) finding on home language use among Spanish-English children. In both studies, "a loss in LI did not result inany gains in L2 despite the increased interaction through L2."
 
 > "use of Spanish at home resulted in higher levels of Spanish skills atno cost to English achievement while the use of English at home resulted in a deterioration of Spanish skills but no improvement in English."
 

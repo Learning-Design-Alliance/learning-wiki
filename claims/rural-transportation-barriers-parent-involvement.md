@@ -64,7 +64,7 @@ Site visit data on improvement actions: four of nine rural schools made parent i
 ## Related Claims
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — a broader claim this one bears on
 - [Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)](rural-sig-schools-favor-transformation-model.md) — related
-- [Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
+- [Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
 - [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related
 - [Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues](small-rural-staffs-cross-subject-plcs-isolation.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — a broader claim this one bears on

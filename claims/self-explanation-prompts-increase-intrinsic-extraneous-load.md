@@ -43,4 +43,4 @@ Follow-up ANOVAs after a significant MANOVA main effect for self-explanation pro
 
 
 ## Related Claims
-- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related

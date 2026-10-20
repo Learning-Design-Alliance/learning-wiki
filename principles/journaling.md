@@ -142,7 +142,7 @@ Better entries, more entries, self-regulation questionnaire scores, course exams
 
 - [Using the chatbot-based journaling system improves self-reported SRL strategy use from pre-survey to 12-week follow-up in all groups, including baseline](../claims/journaling-system-improves-srl-all-groups.md) [~W]
 - [A personal utility prompt in journal writing improves learning motivation and comprehension](../claims/personal-utility-prompt-motivation-comprehension.md) [+W]
-- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](../claims/journal-writing-improves-outcomes-with-support.md) [+W]
+- [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](../claims/journal-writing-improves-outcomes-with-support.md) [+W]
 
 ## Related Principles
 - [Purposeful Reflection](reflection.md) — journaling is one concrete routine for structured reflection.

@@ -45,5 +45,5 @@ DLP year 2 survey contrast of coached versus non-coached teachers on active-lear
 
 ## Related Claims
 - [Time spent between teachers and coaches is one of the most important factors in a successful coaching program](coach-teacher-time-key-success-factor.md) — a broader claim this one bears on
-- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week](sustained-coaching-contact-hours.md) — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related

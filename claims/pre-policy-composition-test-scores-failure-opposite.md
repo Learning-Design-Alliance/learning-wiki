@@ -67,6 +67,6 @@ Pre-policy bottom panel of Table 3. The article links this pattern to a frog pon
 
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 - Academic composition of algebra classrooms affects math achievement among high-skill students — related
-- [Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
+- [Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy](below-norm-score-gains-composition-null-post-policy.md) — related
 - [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
 - [Classroom peer skill levels explain about 20% of post-policy test score improvements among above-norm algebra students in Chicago](above-norm-score-gains-peer-ability-spillover.md) — related

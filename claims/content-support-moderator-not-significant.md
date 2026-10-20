@@ -43,7 +43,7 @@ For collaboration skills, no mean effect could be estimated for the no-support s
 
 
 ## Related Claims
-- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills](transactivity-moderator-not-significant.md) — related
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction](transactivity-moderator-not-significant.md) — related
 - [The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills](script-level-moderator-not-significant.md) — related
 - [Subject discipline significantly moderates CSCL script effects on collaboration skills, while study duration and measurement level do not significantly moderate effects](further-moderators-discipline-duration-measurement-level.md) — related
 - [CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning](cscl-scripts-motivation-non-significant-meta-analysis.md) — related

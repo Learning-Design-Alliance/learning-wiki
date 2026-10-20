@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` In pre-task regulation, 363 (75.00%) of 938 metacognitive episodes were coded as accepted interaction and only 29 (5.99%) as shared. [→ Kielstra 2022](#kielstra-2022)
+`q2 i?` In pre-task regulation, 363 (75.00%) of the 484 pre-task metacognitive episodes (938 across pre- and post-task) were coded as accepted interaction and only 29 (5.99%) as shared. [→ Kielstra 2022](#kielstra-2022)
 `q2 i?` In post-task regulation, 302 (66.52%) episodes were accepted and only 16 (3.52%) were co-constructed. [→ Kielstra 2022](#kielstra-2022)
 
 ## Evidence

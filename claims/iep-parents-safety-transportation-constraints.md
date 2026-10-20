@@ -47,7 +47,7 @@ Interview findings report that "Parents’ choices were constrained by fears for
 - [Many parents of students with IEPs lacked viable options to engage in school choice after forced school closings](iep-parents-lacked-viable-choice-options.md) — related
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
-- [Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
+- [Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day](rural-transportation-shapes-learning-time-expansion.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
 - [Parents of students with IEPs share a common vision of an ideal school that is safe, supportive, academically strong, and inclusive with needed supports](iep-parents-shared-ideal-school-vision.md) — related
 - [School location, distance from home, and transportation logistics constrained which high schools students considered and their ultimate choice](location-constrains-high-school-choice-set.md) — related

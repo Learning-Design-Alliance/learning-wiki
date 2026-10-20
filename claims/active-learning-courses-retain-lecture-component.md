@@ -46,7 +46,7 @@ Systematic review of 57 comparison studies (88 active learning conditions) from 
 
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 
-- [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — the general claim this finding bears on, with the studies behind it
+- [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — the general claim this finding bears on, with the studies behind it
 - [Time-on-task is frequently unequal across compared conditions, with active learning conditions typically requiring more home time](time-on-task-unequal-in-active-learning-comparisons.md) — related
 - [Active learning conditions more often include quizzes, homework, and learning/exam preparation than lecture conditions](active-learning-conditions-more-other-pedagogical-features.md) — related
 - Post-2014 comparison studies still most commonly contrast one active learning condition with one lecture condition — related

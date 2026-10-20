@@ -81,7 +81,7 @@ Survey correlations from the DLP: voluntary participation with a printed "corr w
 ## Related Claims
 - Most coached teachers report improvement across classroom challenge categories after working with a coach — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related
-- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week](sustained-coaching-contact-hours.md) — related
 - [When district administration encourages a culture of coaching, teachers feel more comfortable participating in coaching and taking ownership of change](coaching-culture-increases-teacher-participation.md) — related
 - Coached teachers report significantly higher confidence in their ability to implement impactful technology use — related
 - Teachers and coaches in the qualitative study perceived that coaching increased teacher knowledge and practice, with sustainable practices and positive student learning outcomes — related

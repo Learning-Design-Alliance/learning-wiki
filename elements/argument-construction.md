@@ -13,7 +13,7 @@ generated:
 # Argument Construction
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (6 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q2`–`q4` · 3 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 7 claims (5 for, 2 mixed) · 11 studies (6 causal, 3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 11 report an effect size · 4 claims rest on one study
 
 ## Description
 Argument construction asks learners to build a structured claim–evidence–reasoning case for a position, typically using an explicit framework such as Toulmin's model (claim, grounds, warrant, backing, qualifier, rebuttal). Learners must gather and evaluate evidence, articulate warrants connecting evidence to claims, and anticipate counterarguments — converting domain knowledge into defensible reasoning rather than recall.

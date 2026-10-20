@@ -9,9 +9,9 @@ generated:
   at: 2026-10-08
 evidence_strength: moderate
 sources:
-  - id: sartain-2014
+  - id: sartain-2015
     resource: "https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools"
-    title: "Sartain, L., Allensworth, E., & Porter, S. (2014). Suspending Chicago's Students: Differences in Discipline across Schools. UChicago Consortium. https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools"
+    title: "Sartain, L., Allensworth, E., & Porter, S. (2015). Suspending Chicago's Students: Differences in Discipline Practices across Schools. UChicago Consortium. https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools"
     author: "Sartain, L., Allensworth, E., & Porter, S."
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` About a quarter of high schools and 10 percent of schools with middle grades have very high suspension rates, and almost all predominantly serve African-American students from the poorest neighborhoods with the lowest incoming achievement. [→ Sartain 2014](#sartain-2014)
+`q2 i?` About a quarter of high schools and 10 percent of schools with middle grades have very high suspension rates, and almost all predominantly serve African-American students from the poorest neighborhoods with the lowest incoming achievement. [→ Sartain 2015](#sartain-2015)
 
 ## Evidence
 
-### Sartain 2014
+### Sartain 2015
 
-Sartain, L., Allensworth, E., & Porter, S. (2014). Suspending Chicago's Students: Differences in Discipline across Schools. UChicago Consortium. https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools
+Sartain, L., Allensworth, E., & Porter, S. (2015). Suspending Chicago's Students: Differences in Discipline Practices across Schools. UChicago Consortium. https://consortium.uchicago.edu/publications/suspending-chicagos-students-differences-discipline-practices-across-schools
 
 `q2 · i?` · `associational · r?`
 

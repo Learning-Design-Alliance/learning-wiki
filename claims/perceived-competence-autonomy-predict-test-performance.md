@@ -51,5 +51,5 @@ p = .05 ], indicating that participants who rated their competence higher perfor
 - [Example–problem pairs raise perceived competence but not perceived autonomy or enjoyment](example-problem-pairs-raise-perceived-competence.md) — related
 - [Gifted primary students report higher need for cognition, perceived competence and perceived autonomy than nongifted students](gifted-students-higher-nfc-competence-autonomy.md) — related
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
-- [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
+- [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [Inattention moderates how baseline competence frustration and baseline autonomy translate into perceived AI benefits, weakening both positive associations](inattention-moderates-ai-benefit-associations.md) — related

@@ -18,7 +18,7 @@ sources:
 # Pennsylvania teacher evaluation pilot dataset
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 8 claims (5 for, 3 mixed) · 5 studies (4 associational, 1 design), `q1`–`q3` · 1 of 5 report an effect size · 7 claims rest on one study
+> **Evidence** · 8 claims (5 for, 3 mixed) · 6 studies (5 associational, 1 design), `q1`–`q3` · 1 of 6 report an effect size · 7 claims rest on one study
 
 ## Description
 A dataset covering teacher-observation and value-added evaluation measures for 6,676 teachers across 269 Pennsylvania districts during the 2012–2013 pilot and comparison period, assembled for the Pennsylvania teacher-evaluation pilot.

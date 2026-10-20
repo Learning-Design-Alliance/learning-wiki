@@ -14,7 +14,7 @@ sources:
     title: "Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association between Children's Numerical Magnitude Processing and Mental Multi-digit Subtraction. Acta Psychologica. https://doi.org/10.1016/j.actpsy.2013.10.008"
     author: Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B.
     q: 3
-    i: "?"
+    i: 2
     kind: associational
     rigour: 2
 ---
@@ -22,10 +22,10 @@ sources:
 # Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence** · 1 study · associational `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i?` Accuracy on the subtraction task was associated with symbolic comparison, nonsymbolic comparison, and symbolic number line estimation, whereas speed was associated only with the two symbolic tasks. [→ Linsen 2014](#linsen-2014)
+`q3 i2` Accuracy on the subtraction task was associated with symbolic comparison, nonsymbolic comparison, and symbolic number line estimation, whereas speed was associated only with the two symbolic tasks. [→ Linsen 2014](#linsen-2014)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Linsen, S., Verschaffel, L., Reynvoet, B., De Smedt, B. (2014). The Association between Children's Numerical Magnitude Processing and Mental Multi-digit Subtraction. Acta Psychologica. https://doi.org/10.1016/j.actpsy.2013.10.008
 
-`q3 · i?` · `associational · r2`
+`q3 · i2 · medium correlations, partial r = .35–.50` · `associational · r2`
 
-Correlational analyses in the 56-child sample dissociated accuracy and speed: subtraction accuracy correlated with both symbolic and nonsymbolic tasks, while "the speed by which children solved the subtraction items was only associated with the two symbolic tasks". No effect sizes are printed for this dissociation.
+Partial correlations (controlling for intellectual ability) in the 56-child sample dissociated accuracy and speed: subtraction accuracy correlated with both symbolic and nonsymbolic tasks, while "the speed by which children solved the subtraction items was only associated with the two symbolic tasks". In Table 3, subtraction response times correlated with symbolic comparison RT (r = .43 and .50 for direct-subtraction and indirect-addition items) and symbolic number line error (r = .37 and .35), but not significantly with nonsymbolic comparison (r = -.26 and -.24). The data are cross-sectional, and the authors note they do not allow causal interpretation.
 
 > "By contrast, the speed by which children solved the subtraction items was only associated with the two symbolic tasks and not with the nonsymbolic tasks, indicating the association to be more prominent for the symbolic tasks"
 

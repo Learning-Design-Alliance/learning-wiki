@@ -50,7 +50,7 @@ Five-point Likert perception ratings after each lesson in the crossover RCT (Fig
 
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [Students learn more with a research-based AI tutor than with in-class active learning on identical content (post-test scores)](ai-tutor-beats-active-learning-post-test.md) — related
-- [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
+- [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
 - [Students with a stronger sense of belonging tend to show more academic self-confidence, motivation, engagement and achievement (review reports Pedler et al.)](stronger-belonging-linked-engagement-achievement.md) — related
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — related
 - [SupplyNet was rated significantly more immersive, motivating, and enjoyable than the baseline, with engagement showing the most pronounced difference.](supplynet-higher-engagement-than-baseline.md) — related

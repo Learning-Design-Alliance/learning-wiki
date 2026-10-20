@@ -56,7 +56,7 @@ Radkowitsch, A., Vogel, F., & Fischer, F. (2020). Good for learning, bad for mot
 
 `q3 · i1` · `quant-synthesis · r2`
 
-Random-effects meta-analysis of 124 domain-learning effects (54 independent) from experimental comparisons of CSCL-scripted versus unguided collaborative learning; "a small significant positive summary effect, with Hedges' g of 0.24". Heterogeneity was high (I2 = 46.23% per Table 2).
+Random-effects meta-analysis of 124 domain-learning effects (54 independent) from experimental comparisons of CSCL-scripted versus unguided collaborative learning; "a small significant positive summary effect, with Hedges' g of 0.24". Heterogeneity was significant (Q = 101.77, df = 53, p < .001) but low by the authors' own criteria (I2 = 46.23% per Table 2; 25–49% counts as low).
 
 > "In total, we examined 124 effects of CSCL scripts on domain learning, of which 54 were independent. Overall, the meta-analysis resulted in a small significant positive summary effect, with Hedges' g of 0.24."
 

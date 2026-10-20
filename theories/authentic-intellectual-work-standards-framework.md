@@ -52,7 +52,7 @@ The manual's research strand rests on an intellectual foundation drawn from Fred
 - [Students showed more authentic intellectual work in writing than in mathematics](../claims/authentic-work-greater-in-writing-than-math.md) [+W]
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](../claims/authentic-assignments-greater-itbs-gains.md) [+W]
 - [Exposure to high-quality assignments predicted substantially higher IGAP reading, mathematics, and writing performance (effect sizes 0.43, 0.64, 0.52)](../claims/authentic-assignments-igap-value-added.md) [+W]
-- [Both high- and low-prior-achieving students benefited from exposure to high-quality assignments](../claims/high-and-low-achievers-benefit-from-quality-assignments.md) [+W]
+- [In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains](../claims/high-and-low-achievers-benefit-from-quality-assignments.md) [+W]
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](../claims/high-and-low-achievers-benefit-authentic-assignments.md) [+W]
 - [Classroom composition (prior achievement, race, socioeconomic status, gender) showed virtually no relationship to exposure to high-quality assignments](../claims/classroom-composition-not-linked-assignment-quality.md) [+W]
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](../claims/assignment-quality-improved-but-math-challenge-low.md) [+W]

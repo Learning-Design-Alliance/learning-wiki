@@ -43,5 +43,5 @@ Exploratory analysis of PMQ and ASA questionnaire data (n=48, 16 per variant) wi
 
 
 ## Related Claims
-- [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
+- [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [Participants generally felt humanlikeness should not be a design goal for a writing-support agent used as a tool](participants-prefer-tool-over-humanlike-agent.md) — related

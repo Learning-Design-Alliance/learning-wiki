@@ -38,7 +38,7 @@ An evidence publication comparing the validity of two standardized tests for ass
 
 ## Claims
 
-- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](../claims/first-study-parcc-college-readiness-massachusetts-decision.md) [+W]
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](../claims/first-study-parcc-college-readiness-massachusetts-decision.md) [+W]
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](../claims/parcc-mcas-similar-validity-college-grades.md) [+W]
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](../claims/parcc-higher-math-standard-mcas-comparable-prediction.md) [+W]
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](../claims/first-study-parcc-college-readiness-goal.md) [+W]

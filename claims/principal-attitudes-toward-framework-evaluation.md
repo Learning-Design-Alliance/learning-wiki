@@ -35,7 +35,7 @@ Lauren Sartain, Sara Ray Stoelinga, and Emily Krone. (2010). Findings From the F
 
 `q2 · i?` · `design · r2`
 
-Interview and survey data from 39 principal interviews in the year-one qualitative study showed "Fifty-seven percent of principals had positive attitudes about the Framework and their conferences with teachers," while a little less than half (43 percent) were characterized by mixed to mostly negative attitudes about the Framework and the conferences.
+Coding of 39 principal interviews in the year-one qualitative study showed "Fifty-seven percent of principals had positive attitudes about the Framework and their conferences with teachers," while a little less than half (43 percent) were characterized by mixed to mostly negative attitudes about the Framework and the conferences.
 
 > "Fifty-seven percent of principals had positive attitudes about the Framework and their conferences with teachers, perceived teacher buy-in as high, and said they saw changes in instructional practice stem from the evaluation system."
 

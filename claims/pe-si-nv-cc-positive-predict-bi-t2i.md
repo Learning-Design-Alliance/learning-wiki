@@ -45,7 +45,7 @@ Structural model (latent-variable SEM) of survey responses from 400 students wit
 - [Effort expectancy and facilitating conditions negatively predict behavioral intention, contradicting conventional UTAUT assumptions in studio-based creative education](ee-fc-negative-predict-bi-t2i.md) — related
 - [Behavioral intention translates only weakly into self-reported use behavior, and the extended UTAUT model explains intention formation better than enactment](intention-use-gap-t2i-creative-education.md) — related
 - [Perceived usefulness and perceived ease of use of GenAI tools significantly predict teachers' attitudes and behavioural intention](usefulness-ease-predict-attitude-intention-genai.md) — related
-- [Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention](enjoyment-predicts-attitude-ease-intention-genai.md) — related
+- [Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey](enjoyment-predicts-attitude-ease-intention-genai.md) — related
 - [Importance-performance mapping identifies behavioural intention as the strategic priority for raising teachers' GenAI digital competence](ipma-bi-strategic-priority-genai-competence.md) — related
 - [Teachers' attitudes toward GenAI tools significantly predict their behavioural intention to integrate them](attitude-predicts-intention-genai.md) — related
 - [Behavioural intention to use GenAI tools significantly predicts in-service teachers' self-reported pedagogical digital competence for curriculum planning](bi-predicts-genai-digital-competence.md) — related

@@ -21,7 +21,7 @@ sources:
 # SEL status-and-growth early-warning modeling
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 12 claims (12 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 12 claims rest on one study
+> **Evidence** · 11 claims (11 for) · 3 studies (2 associational, 1 review), `q2`–`q3` · 0 of 3 report an effect size · 11 claims rest on one study
 
 ## Description
 This framework treats social-emotional learning constructs (academic growth mindset, self-efficacy, self-management) as developmental processes with their own growth trajectories, asking "whether a student's mean SEL score in 6th grade (status) or growth between 6th through 8th grade is more predictive of being off track academically in 9th grade." The article operationalizes it with latent growth curve models, in which "the random intercept reflects the average 6th grade score and the latent growth factor represents the linear change between 6th and 8th grade." Status and growth factors are then used as predictors of 9th-grade off-track indicators.
@@ -38,7 +38,6 @@ This framework treats social-emotional learning constructs (academic growth mind
 - [Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct](../claims/self-management-growth-predictive-beyond-status.md) [+M]
 - [Self-management and self-efficacy show highly collinear growth during middle school, with slopes correlated .95 and intercepts .74](../claims/sel-growth-construct-collinearity.md) [+M]
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](../claims/sel-trajectories-relate-secondary-school-transition.md) [+M]
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](../claims/sel-middle-school-predicts-off-track-graduation.md) [+M]
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](../claims/self-management-growth-predicts-off-track-beyond-status.md) [+M]
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](../claims/sel-trajectories-improve-off-track-identification.md) [+M]
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](../claims/sel-status-more-frequently-significant-predictor-off-track.md) [+M]
@@ -85,7 +84,6 @@ A NWEA working paper and companion research brief by James Soland and Megan Kuhf
 
 ## Claims
 
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](../claims/sel-middle-school-predicts-off-track-graduation.md) [+W]
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](../claims/sel-trajectories-relate-secondary-school-transition.md) [+W]
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](../claims/self-management-growth-predicts-off-track-beyond-status.md) [+M]
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](../claims/sel-trajectories-improve-off-track-identification.md) [+M]
@@ -136,7 +134,6 @@ The article organizes its inquiry around a framework contrasting two ways of sum
 
 - [Sel Status More Frequently Significant Predictor Off Track](../claims/sel-status-more-frequently-significant-predictor-off-track.md) [+M]
 - [Self Management Growth Predicts Off Track Beyond Status](../claims/self-management-growth-predicts-off-track-beyond-status.md) [+M]
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](../claims/sel-middle-school-predicts-off-track-graduation.md) [+M]
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](../claims/sel-trajectories-relate-secondary-school-transition.md) [+M]
 - [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](../claims/sel-constructs-predict-long-term-achievement-attainment.md) [+M]
 

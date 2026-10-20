@@ -47,7 +47,7 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 - [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — related
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](inclusion-evidence-low-quality-serious-risk-of-bias.md) — related
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](sble-student-level-crime-behavior-null.md) — related
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related
 - [Students in schools with SBLE tended to feel safer, but this finding rests on very little data](sble-students-feel-safer-limited-data.md) — related
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related
 - [School-based law enforcement is not associated with statistically significant changes in students' perceptions of safety at school](school-based-law-enforcement-no-significant-change-perceptions-of-safety.md) — related

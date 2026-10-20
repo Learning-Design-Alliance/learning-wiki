@@ -65,7 +65,7 @@ Age main effect on the bias index in the same experiment: older children (M = .2
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions](age-effect-monitoring-open-ended-only.md) — related
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related
 - [Overconfidence (bias) decreased from pretest to posttest across all groups including control, with no group differences](bias-decreased-across-groups-no-feedback-effect.md) — related
 - [Pre-monitoring judgments before recognition increase rather than decrease overconfidence in kindergartners and second graders](pre-monitoring-increases-overconfidence-children.md) — related
 - [Pre-monitoring does not significantly improve children's relative monitoring accuracy (discrimination between correct and incorrect answers)](pre-monitoring-no-discrimination-improvement.md) — related

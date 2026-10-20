@@ -14,7 +14,7 @@ sources:
     title: "Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org"
     author: Reading Recovery®
     q: 3
-    i: "?"
+    i: 2
     kind: review
     rigour: 3
   - id: reading-recovery-2013-2
@@ -22,7 +22,7 @@ sources:
     title: "Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org"
     author: Reading Recovery®
     q: 3
-    i: "?"
+    i: 2
     kind: causal
     rigour: 2
 ---
@@ -30,10 +30,10 @@ sources:
 # Reading Recovery has potentially positive effects on alphabetics for beginning readers
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i?` Two RCTs reported positive effects in the alphabetics domain—one statistically significant and one substantively important—with an average improvement index of +21 percentile points. [→ Reading Recovery® 2013](#reading-recovery-2013)
+`q3 i2` Two RCTs reported positive effects in the alphabetics domain—one statistically significant and one substantively important—with a WWC domain average effect size of 0.55 and an average improvement index of +21 percentile points. [→ Reading Recovery® 2013](#reading-recovery-2013)
 
 ## Evidence
 
@@ -41,9 +41,9 @@ sources:
 
 Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org
 
-`q3 · i?` · `review · r3`
+`q3 · i2` · `review · r3`
 
-WWC synthesis of two RCTs including 148 students. Table 1 reports a "Potentially positive effects" rating with improvement index "+21" (range +9 to +42) and a small extent of evidence for the alphabetics domain; no standardized effect size is printed, so impact is null.
+WWC synthesis of two RCTs including 148 students. Table 1 reports a "Potentially positive effects" rating with improvement index "+21" (range +9 to +42) and a small extent of evidence for the alphabetics domain; the appendix prints a domain average effect size of 0.55 across the two studies (0.47 for Pinnell, DeFord, & Lyons 1988, not statistically significant; 0.62 for Schwartz 2005, statistically significant).
 
 > "Alphabetics Potentially positive effects +21 +9 to +42 2 148 Small"
 
@@ -51,9 +51,9 @@ WWC synthesis of two RCTs including 148 students. Table 1 reports a "Potentially
 
 Reading Recovery®. (2013). What Works Clearinghouse Intervention Report, Beginning Reading. Updated July 2013. http://www.readingrecovery.org
 
-`q3 · i?` · `causal · r2`
+`q3 · i2` · `causal · r2`
 
-The effectiveness summary reports that across phonemic awareness, letter knowledge, and phonics constructs, one study showed a statistically significant positive effect (Schwartz 2005) and one a substantively important positive effect (Pinnell, DeFord, & Lyons 1988). No effect size is printed for the domain-level finding.
+The effectiveness summary reports that across phonemic awareness, letter knowledge, and phonics constructs, one study showed a statistically significant positive effect (Schwartz 2005) and one a substantively important positive effect (Pinnell, DeFord, & Lyons 1988). The report's appendix prints the domain-level effect sizes: 0.62 for Schwartz (2005) and 0.47 for Pinnell et al. (1988), averaging 0.55 (improvement index +21).
 
 > "Thus, for the alphabetics domain, among the two studies with a strong design, one showed a statistically significant positive effect and one showed a substantively important positive effect."
 

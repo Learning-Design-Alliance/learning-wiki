@@ -65,11 +65,11 @@ Interview data from the same user study showed synchronous pop-up suggestions di
 - [Attention](../learner-variables/attention.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
+- [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [An agentic cursor increased participants' understanding and predictability of the AI agent's actions during collaborative writing](agentic-cursor-increases-agent-understandability.md) — related
 - [Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process](synchronous-ai-contextual-misalignment.md) — related
 - [Frequent generative AI use enhances perceived confidence and efficiency but increases technological dependence among university students](genai-self-efficacy-paradox-technological-dependence.md) — related
 - [Synchronous AI suggestions shape subsequent writing, offering new ideas but risking influence over the writer's voice and argument](synchronous-suggestions-shape-subsequent-writing.md) — related
-- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
+- [Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
 - [Adding a second writing agent increased reported cognitive load, and writing confidence did not increase monotonically with support, with the Single condition reporting the lowest confidence](second-agent-increases-cognitive-load-writing.md) — related
 - [Training on AI interaction strategies slightly increases cognitive load during AI-assisted design](ai-interaction-training-slightly-increases-cognitive-load.md) — related

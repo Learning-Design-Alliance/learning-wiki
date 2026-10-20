@@ -59,5 +59,5 @@ Mini meta-analysis (following Goh et al., 2016) pooling the program's experiment
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
-- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on
+- [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on
 - [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related

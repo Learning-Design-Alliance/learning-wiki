@@ -9,10 +9,10 @@ generated:
   at: 2026-10-12
 evidence_strength: weak
 sources:
-  - id: pooya-razavi-2025
+  - id: pooya-razavi-2026
     resource: "https://doi.org/10.1016/j.ijaied.2026.100015"
-    title: "Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015"
-    author: Pooya Razavi, Sonya Powers
+    title: "Razavi, P., & Powers, S. (2026). Estimating item difficulty using large language models and tree-based machine learning algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. [doi:10.1016/j.ijaied.2026.100015](https://doi.org/10.1016/j.ijaied.2026.100015)"
+    author: "Razavi, P., & Powers, S."
     q: 2
     i: "?"
     kind: design
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Post-hoc importance analyses (permutation importance for random forests; SHAP for GBMs) showed predictions draw on both objective metadata and granular LLM-rated features. [→ Pooya Razavi 2025](#pooya-razavi-2025)
+`q2 i?` Post-hoc importance analyses (permutation importance for random forests; SHAP for GBMs) showed predictions draw on both objective metadata and granular LLM-rated features. [→ Pooya Razavi 2026](#pooya-razavi-2026)
 
 ## Evidence
 
-### Pooya Razavi 2025
+### Pooya Razavi 2026
 
-Pooya Razavi, Sonya Powers. (2025). Estimating Item Difficulty Using Large Language Models and Tree-Based Machine Learning Algorithms. Edmentum. https://doi.org/10.1016/j.ijaied.2026.100015
+Razavi, P., & Powers, S. (2026). Estimating item difficulty using large language models and tree-based machine learning algorithms. *International Journal of Artificial Intelligence in Education, 36*, 100015. [doi:10.1016/j.ijaied.2026.100015](https://doi.org/10.1016/j.ijaied.2026.100015)
 
 `q2 · i?` · `design · r2`
 

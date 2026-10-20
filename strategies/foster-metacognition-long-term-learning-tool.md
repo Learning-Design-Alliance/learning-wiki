@@ -42,7 +42,7 @@ Based on the finding that early metacognitive efficiency predicted performance i
 - [Metacognitive efficiency at Grade 1 predicts children's performance improvement 10 months later in both a linguistic and a non-linguistic task](../claims/metacognitive-efficiency-predicts-longitudinal-learning.md) [+W]
 - [Metacognitive sensitivity increases with age between 5 and 8 years, similarly across number and emotion domains](../claims/metacognitive-sensitivity-increases-age-5-to-8.md) [+W]
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](../claims/metacognition-predicts-l2-vocabulary-growth-primary-school.md) [+W]
-- [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable](../claims/developmental-changes-l2-metacognition-emotions-t0-t1.md) [+W]
+- [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](../claims/developmental-changes-l2-metacognition-emotions-t0-t1.md) [+W]
 
 ## Related Strategies
 - 

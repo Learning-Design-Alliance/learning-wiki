@@ -35,7 +35,7 @@ Miller Amanda C., Fuchs Douglas, Fuchs Lynn S., Compton Donald L., Kearns Devin,
 
 `q3 · i?` · `associational · r2`
 
-Same multivariate path analysis of 110 at-risk first graders. For listening comprehension growth, significant predictors were matrix reasoning, pre-treatment listening comprehension, and vocabulary; attention was not significant. No effect size was printed; equivalence was not tested.
+Same multivariate path analysis of at-risk first graders (model fit reported with N = 124; 110 completed all phases through third grade). For listening comprehension growth, significant predictors were matrix reasoning, pre-treatment listening comprehension, and vocabulary; attention was not significant. The text reports bootstrapped 95% confidence intervals and gives the standardized path coefficients only in its path diagram (Figure 2), so impact is coded `i?`; equivalence was not tested.
 
 > "For growth in listening comprehension, the significant predictors were pre-treatment matrix reasoning (CI = .10 to .37), listening comprehension (CI = −.63 to −.37), and vocabulary (CI = .01to .21). Pre-treatment attention, hyperactivity, and backward digit recall were not significant predictors of first grade listening comprehension growth."
 

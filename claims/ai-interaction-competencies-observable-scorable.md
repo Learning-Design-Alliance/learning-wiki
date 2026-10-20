@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In the deployed physics tasks, student AI interaction competencies were observable and scorable using defensible rubrics. [→ Gao 2026](#gao-2026)
+`q2 i?` For two physics tasks deployed in a course, the authors developed rubrics and argue that student AI interaction competencies are observable in response artifacts and scorable; no scored student data are reported. [→ Gao 2026](#gao-2026)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Gao, Y., Chen, Z., Li, M., & Zhai, X. (2026). Generative AI as a Design Variable
 
 `q2 · i?` · `design · r2`
 
-Design demonstration in an undergraduate introductory physics course: two Require-GenAI tasks were deployed and scored with four rubrics (D1 0–4, D2 0–3 per task) anchored in an expert answer key. No effect sizes or test statistics are reported; the support is a worked demonstration rather than a controlled comparison.
+Design demonstration in an undergraduate introductory physics course: two Require-GenAI tasks were deployed, and four rubrics (D1 0–4, D2 0–3 per task) anchored in an expert answer key were developed to show that the tasks' artifacts can be scored. The paper reports no scores or analysis of the deployed students' responses, and no effect sizes or test statistics; the support is a worked design demonstration rather than an empirical comparison.
 
 > "we present two task designs deployed in an introductory physics course and demonstrate that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge."
 

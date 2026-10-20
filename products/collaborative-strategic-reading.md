@@ -18,7 +18,7 @@ sources:
 # Collaborative Strategic Reading
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 4 claims (4 for) · 11 studies (5 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 11 report an effect size
 
 ## Description
 A structured reading-comprehension program developed by Janette K. Klingner and Sharon Vaughn that combines metacognitive comprehension strategies with small-group cooperative learning during English-language arts or content-area instruction.

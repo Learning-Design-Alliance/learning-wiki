@@ -46,6 +46,6 @@ Analysis of 4 years of CTC program completer survey data (6,812 completers, Sept
 - [Coaching dosage shows precisely estimated null effects: more coaching hours are not associated with larger program effects](coaching-dosage-null-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Induction program administration, structures, and funding vary widely across California, with advertised costs from $0 to $10,000 and no dedicated state funding](induction-program-variation-and-funding-challenges.md) — related
 - [California administrator induction is rated effective by over 90% of completers, with at least 85% reporting strong preparation on every CPSEL leadership skill](induction-rated-effective-cpsel-preparation.md) — related
-- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related
+- [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week](sustained-coaching-contact-hours.md) — related
 - Teachers who find coaching valuable spend more time and meet more frequently with their coaches — related
 - [Induction works especially well when coordinated with administrators' existing professional supports: district-run programs were most likely to be rated very effective](district-alignment-strengthens-induction.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program
-description: The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program
+title: Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program
+description: Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program
 id: induction-null-impacts-one-and-two-year-programs
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program
+# Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q3`
 
 ## Subclaims
-`q3 i?` Null impacts on test scores, retention, and retained-teacher qualifications were the same for one-year and two-year comprehensive induction programs. [→ Eric Isenberg 2009](#eric-isenberg-2009)
+`q3 i?` Comprehensive induction produced no measurable improvements in test scores, retention, or retained-teacher qualifications under either one-year or two-year programs; no test of a difference between the two durations is reported. [→ Eric Isenberg 2009](#eric-isenberg-2009)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Eric Isenberg, Steven Glazerman, Martha Bleeker, Amy Johnson, Julieta Lugo-Gil, 
 
 `q3 · i?` · `causal · r?`
 
-The report states the null second-year findings "was true whether induction programs were delivered as one-year or two-year programs", indicating program duration did not change the absence of measurable impacts. No effect size is printed on this page.
+The report states the null second-year findings "was true whether induction programs were delivered as one-year or two-year programs", that is, there were no measurable improvements under either duration. The page reports no test of whether the one-year and two-year effects differed. No effect size is printed on this page.
 
 > "This was true whether induction programs were delivered as one-year or two-year programs."
 

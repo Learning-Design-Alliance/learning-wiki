@@ -10,9 +10,9 @@ generated:
 evidence_strength: weak
 sources:
   - id: wise-2020
-    resource: "https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    title: "Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    author: Wise, S.
+    resource: "https://doi.org/10.1080/13803611.2021.1963942"
+    title: "Wise, S. L. (2020). Six insights regarding test-taking disengagement. *Educational Research and Evaluation, 26*(5–6), 328–338. [doi:10.1080/13803611.2021.1963942](https://doi.org/10.1080/13803611.2021.1963942)"
+    author: Wise, S. L.
     q: 2
     i: "?"
     kind: review
@@ -31,13 +31,13 @@ sources:
 
 ### Wise 2020
 
-Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/
+Wise, S. L. (2020). Six insights regarding test-taking disengagement. *Educational Research and Evaluation, 26*(5–6), 328–338. [doi:10.1080/13803611.2021.1963942](https://doi.org/10.1080/13803611.2021.1963942)
 
 `q2 · i?` · `review · r?`
 
-The page's abstract reports a discussion paper synthesizing "six important insights yielded by 20 years of research" on disengaged test taking and its implications for the validity of attainment inferences. The insights themselves are not printed on the page.
+The article's abstract describes a discussion paper setting out six insights from 20 years of research on disengaged test taking, which has advanced both the measurement of disengagement and the understanding of its distortive impact on individual and aggregated scores. The insights themselves are not in the abstract.
 
-> "There has been increasing concern about the presence of disengaged test taking in international assessment programs and its implications for the validity of inferences made regarding a country's level of educational attainment. In this paper, the author discusses six important insights yielded by 20 years of research on this and implications for assessment programs."
+> "There has been increasing concern about the presence of disengaged test taking in international assessment programmes and its implications for the validity of inferences made regarding a country’s level of educational attainment. This issue has received a growing research interest over the past 20 years, with notable advances in both the measurement of disengagement as well as our understanding of its distortive impact on both individual and aggregated scores. In this paper, I discuss six important insights yielded by this research and their implications for assessment programmes."
 
 ## Discussion
 

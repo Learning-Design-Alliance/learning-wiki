@@ -35,7 +35,7 @@ Faulkner-Bond, M. (2026). Finding the sweet spot for English Learner reclassific
 
 `q2 · i?` · `associational · r3`
 
-Replication analyses conducted by WestEd and the CDE using 2021-22 and 2022-23 student-level records, applying U.S. Department of Education National Evaluation of Title III methods. The report states the "2017–18 data and the 2022–23 data both identify ELPAC overall PL 4" as the threshold level, validating the original 2018-19 results.
+Replication analyses conducted by WestEd and the CDE in 2023–24, applying U.S. Department of Education National Evaluation of Title III methods. The threshold results rest on 2022–23 student-level records; 2021–22 records were added only for the analysis of later academic trajectories of students scoring at PL 4. The report states the "2017–18 data and the 2022–23 data both identify ELPAC overall PL 4" as the threshold level, supporting the original analyses done in 2018–19 on 2017–18 data.
 
 > "The numerical results from the two different data sets are similar. In other words, the 2017–18 data and the 2022–23 data both identify ELPAC overall PL 4 as the level at which EL students appear to have similar chances of being proficient or not proficient on the SBAC ELA."
 

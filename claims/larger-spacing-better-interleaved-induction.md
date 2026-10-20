@@ -47,7 +47,7 @@ Experiment with 53 UCLA undergraduates studying 16 butterfly species, all interl
 
 ## Related Claims
 - [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](interrupting-juxtaposition-impairs-inductive-learning.md) — related
-- [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — reports the opposite
+- [When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — reports the opposite
 - [Spaced Practice Improves Retention](spaced-practice-improves-retention.md) — a broader claim this one bears on
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — related
 - [Learners overwhelmingly judge blocking more effective than interleaving even when their test performance favors interleaving](metacognitive-illusion-blocking-interleaving.md) — related

@@ -46,6 +46,6 @@ Authors' methodological conclusion drawn from the N = 161 experiment: making JOL
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Making JOLs with word stems enhances interim recall of new List-5 material compared to restudy](jol-word-stems-enhance-list5-interim-recall.md) — a narrower finding that bears on this claim
 - [Drawing after learning, both from scratch and with spatial scaffolds, improves absolute monitoring accuracy (calibration) compared with a time-matched mental reactivation control condition](drawing-after-learning-improves-absolute-monitoring-accuracy.md) — related
-- [Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — a narrower finding that bears on this claim
+- [Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — a narrower finding that bears on this claim
 - [Overt retrieval practice enhances interim recall of new List-5 material compared to restudy, and does not differ from JOLs with word stems](retrieval-practice-forward-effect-list5-interim.md) — a narrower finding that bears on this claim
 - [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related

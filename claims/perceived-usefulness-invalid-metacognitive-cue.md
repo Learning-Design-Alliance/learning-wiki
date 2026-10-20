@@ -44,4 +44,4 @@ Exploratory correlational analysis within the experimental group (N = 77) report
 
 
 ## Related Claims
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related

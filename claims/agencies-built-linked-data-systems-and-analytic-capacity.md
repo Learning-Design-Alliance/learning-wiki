@@ -44,7 +44,7 @@ Key finding from the case studies of SDP- and EP-partnered agencies. Agencies bu
 
 
 ## Related Claims
-- [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related
+- [Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related
 - [The SDP and EP programs aim to enhance education agencies' data capacity through support, training, and placement of additional staff](sdp-ep-aim-enhance-data-capacity.md) — related
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](similar-data-capacity-sdp-ep-agencies.md) — related

@@ -35,7 +35,7 @@ Candace Walkington and Katie Bainbridge. (2025). Mathematics Teachers' Use of Ge
 
 `q2 · i?` · `qualitative · r2`
 
-Reflexive thematic analysis of the 5 interviewed Algebra 1 teachers' feedback on ChatGPT question generation (Table 4 themes); teachers also cited hallucinations, noting "GPT could be wrong. Human[s] need to justify whether their answer is right or wrong."
+Reflexive thematic analysis of the written feedback from the 11 teachers in a university Algebraic Reasoning course, who had ChatGPT pose mathematics questions from photos of their surroundings and then reflected on it as a brainstorming partner (Table 4 themes); teachers also cited hallucinations, noting "GPT could be wrong. Human[s] need to justify whether their answer is right or wrong."
 
 > "“It doesn’t have a good grasp of what mathematical concepts are appropriate for a specific grade level. I asked it for Algebra 2-level math questions, and it gave me a lot of geometry-related questions.”"
 

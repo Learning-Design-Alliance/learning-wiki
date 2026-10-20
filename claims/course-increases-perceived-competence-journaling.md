@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The example-based course increases perceived competence, but neither feature affects perceived choice or pressure
-description: The example-based course increases perceived competence, but neither feature affects perceived choice or pressure
+title: The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure
+description: The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure
 id: course-increases-perceived-competence-journaling
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# The example-based course increases perceived competence, but neither feature affects perceived choice or pressure
+# The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` The course had a small significant effect on perceived competence (η² = 0.04); the assistant had no effect, and actual days of assistant use showed no significant impact on competence. [→ Sven Scheu 2026](#sven-scheu-2026)
-`q3 i?` ANOVAs for perceived choice and pressure were not significant for either feature. [→ Sven Scheu 2026 (2)](#sven-scheu-2026-2)
+`q3 i2` The course had a small significant effect on perceived competence (η² = 0.04); access to the assistant made no significant difference, and actual days of assistant use showed no significant impact on competence. [→ Sven Scheu 2026](#sven-scheu-2026)
+`q3 i?` ANOVAs for perceived choice and pressure were not significant for either feature, though the number of days the assistant was used predicted perceived choice (t = 2.05, p < 0.05) but not pressure. [→ Sven Scheu 2026 (2)](#sven-scheu-2026-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Sven Scheu, Simone N. Loeffler and Alexander Maedche. (2026). Designing a mobile
 
 `q3 · i2` · `causal · r?`
 
-ANOVA on IMI perceived competence among active participants in the field experiment found a small significant course effect (η² = 0.04) and no assistant effect. A follow-up model on actual usage found no significant impact of the number of days the assistant was used (t = 1.95, p = 0.054) or days with a journal entry (t = 0.18, p = 0.86).
+ANOVA on IMI perceived competence among active participants in the field experiment found a small significant course effect (η² = 0.04) and no significant difference between those with and without access to the assistant. A follow-up model on actual usage found no significant impact of the number of days the assistant was used (t = 1.95, p = 0.054) or days with a journal entry (t = 0.18, p = 0.86).
 
 > "The treatment-based comparison indicated a small ( η2 =0 .04) but significant effect of the course on perceived competence (F (1, 154) = 5 .77,p < 0.05). There was no significant difference in perceived competence between users who had access to the assistant and those who had not( F (1, 154) = 0 .00,p =0 .95)."
 
@@ -54,7 +54,7 @@ Sven Scheu, Simone N. Loeffler and Alexander Maedche. (2026). Designing a mobile
 
 `q3 · i?` · `causal · r2`
 
-ANOVAs on the IMI perceived-choice and pressure sub-scales among active participants found no significant effects for either feature; pressure results were likewise non-significant (course F(1, 154) = 0.13, p = 0.72; assistant F(1, 154) = 0.38, p = 0.54).
+ANOVAs on the IMI perceived-choice and pressure sub-scales among active participants found no significant effects for either feature; pressure results were likewise non-significant (course F(1, 154) = 0.13, p = 0.72; assistant F(1, 154) = 0.38, p = 0.54). Non-significance here does not show the features had no effect. In a model on actual usage, the number of days the assistant was used did predict perceived choice (t = 2.05, p < 0.05), but not pressure (t = −1.36, p = 0.18).
 
 > "The ANOVAs for choice were not significant for both the course (F (1, 154) = 0 .05,p =0 .83) and the assistant ( F (1, 154) = 0 .70,p =0 .40)."
 

@@ -67,7 +67,7 @@ Null finding from the same multilevel model: instructional quality in responsive
 
 ## Related Claims
 - [Approximately 13–14% of total variance in first-grade written composition is attributable to differences among classrooms](classroom-level-variance-written-composition-first-grade.md) — related
-- [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
+- [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [No statistically significant interactions between child-level and instructional quality predictors for either written composition dimension](no-child-by-instructional-quality-interactions-written-composition.md) — related
 - [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
 - [Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language](attention-unique-predictor-kindergarten-writing-fluency.md) — related

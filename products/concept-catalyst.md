@@ -23,7 +23,7 @@ Concept Catalyst is an LLM-assisted web tool developed by Singh et al. that help
 
 ### Claims
 
-- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](../claims/concept-catalyst-reduces-cognitive-load-quick-generation.md) [+M]
+- [Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI](../claims/concept-catalyst-reduces-cognitive-load-quick-generation.md) [+M]
 - [Teachers judged the AI-generated scaffolds relevant and of similar quality to their own questions, though some felt the wording was too fancy or long and needed modification](../claims/concept-catalyst-scaffold-quality-relevant-but-needs-editing.md) [+M]
 - [The concept-map interface let teachers generate scaffolds matching their content focuses, class activities, and teaching styles](../claims/concept-catalyst-scaffold-diversity-matches-practices.md) [+M]
 - [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](../claims/woz-study-positive-teacher-feedback-concept-catalyst-framework.md) [~W]

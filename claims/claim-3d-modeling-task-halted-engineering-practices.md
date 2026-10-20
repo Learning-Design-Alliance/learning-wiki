@@ -46,7 +46,7 @@ Process-rug analysis reported in the Findings section: after a fifth-session ins
 - [Time and Continuity](../learner-variables/time-and-continuity.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects](claim-embodied-practices-cooccurred-maker-practices.md) — related
+- [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — related
 - [Embedded AI assistance enabled a novice student to troubleshoot in real time and stay in creative flow](copilot-embedded-support-real-time-troubleshooting.md) — related
 - [Teachers visited teams frequently but mostly only briefly, except during phases requiring more intense teacher engagement](claim-teacher-visit-pattern-brief-with-phase-exceptions.md) — related
 - [The SleepSound team applied science, computer engineering, and product design practices in more segments and at higher simultaneous intensity than the other two teams](claim-sleepsound-intensity-fixes.md) — related

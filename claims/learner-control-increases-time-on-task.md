@@ -48,7 +48,7 @@ Log-file analysis of the learner control group (n = 26) showed every participant
 ## Related Claims
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related
-- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Engage-to-Unlock redistributed effort across tasks: participants spent more time writing and less time evaluating, without increasing overall task duration](engage-to-unlock-redistributes-effort-across-tasks.md) — related
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — related
 - [Segmenting principle: learner-paced segments of narrated animation improve transfer over continuous presentation](segmenting-principle-mayer-2008.md) — related

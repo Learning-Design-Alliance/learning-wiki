@@ -44,4 +44,4 @@ Descriptive account of the SEED Partnership Project as presented in the brief's 
 
 ## Related Claims
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](sdp-ep-partnerships-enabled-new-data-use-practices.md) — related
-- [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related
+- [Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships](longer-partnership-greater-data-capacity.md) — related

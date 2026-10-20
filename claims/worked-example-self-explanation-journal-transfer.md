@@ -35,7 +35,7 @@ Nückles, M., Roelle, J., Glogger-Frey, I., Waldeyer, J., & Renkl, A. (2020). Th
 
 `q3 · i?` · `review · r2`
 
-Experiment with high school students who read a journal-writing introduction, then either self-explained a well-written example journal entry (assigning passages to prompts with feedback) or not, followed by training and 1-week transfer sessions. "Self-explaining a learning journal example enhanced in particular elaborative learning strategies" with strong effects, and a strong effect on transfer learning outcomes.
+A review of the authors' research programme on journal writing; this entry rests on its summary of one experiment, Hübner et al. (2010), not on a study the review itself ran. In that experiment high school students read a journal-writing introduction, then either self-explained a well-written example journal entry (assigning passages to prompts with feedback) or not, followed by training and 1-week transfer sessions. "Self-explaining a learning journal example enhanced in particular elaborative learning strategies" with strong effects, and a strong effect on transfer learning outcomes; the summary gives no effect-size values.
 
 > "Self-explaining a learning journal example enhanced in particular elaborative learning strategies as expressed in the learning journals, both in the training and in the transfer session (strong effects)"
 
@@ -54,4 +54,4 @@ Experiment with high school students who read a journal-writing introduction, th
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — a broader claim this one bears on
 - [Writing-to-learn activities improve content learning in Grades 1–12, with effects in mathematics indistinguishable from those in science and social studies, in one meta-analysis](writing-improves-mathematical-understanding.md) — related
 - [Writing To Learn Improves Understanding](writing-to-learn-improves-understanding.md) — related
-- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on
+- [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on

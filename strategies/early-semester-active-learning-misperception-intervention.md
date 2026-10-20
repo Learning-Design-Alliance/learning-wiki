@@ -17,7 +17,7 @@ sources:
 # Intervene early in the semester to address students' misperception that the cognitive effort of active learning signals poor learning
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q3` · 0 of 3 report an effect size · 3 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (3 causal), `q3` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The authors recommend that instructors counter students' inherent bias against active learning at the start of the semester, by "explicitly presenting the value of increased cognitive efforts associated with active learning." They advise giving an examination or other assessment as early as possible so students can gauge their actual learning, adopting research-based explanation and facilitation strategies, encouraging hard work during activities, and soliciting frequent feedback such as one-minute papers throughout the course.

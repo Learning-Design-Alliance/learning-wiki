@@ -35,7 +35,7 @@ Peichen Hu. (2026). Psychological predictors of continued ChatGPT use among univ
 
 `q3 · i?` · `associational · r2`
 
-Index of moderated mediation with Monte Carlo confidence intervals (20,000 draws) in the SEM of 450 existing ChatGPT users; printed estimate "[−0.03, 95% CI (−0.05, −0.02)]". No standardised effect size is printed for the index.
+Index of moderated mediation with Monte Carlo confidence intervals (20,000 draws) in the SEM of 450 existing ChatGPT users; printed estimate "[−0.03, 95% CI (−0.05, −0.02)]". Table 3 notes that its estimates, this index included, are standardised; the index is a change in a standardised indirect effect per unit of anxiety rather than a group difference, so it is not coded on the impact scale.
 
 > "The index of moderated mediation for the serial pathway was negative and signiﬁcant [−0.03, 95% CI (−0.05, −0.02)], indicating that the indirect association of AI literacy with continued use through trust and self-eﬃcacy was progressively weaker at higher levels of anxiety."
 

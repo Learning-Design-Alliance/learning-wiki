@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques
-description: Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques
+title: Calibrated Equalized Odds Post-processing showed lower balanced accuracy and higher EOD than the preprocessing techniques DIR and RW in student performance prediction
+description: Calibrated Equalized Odds Post-processing showed lower balanced accuracy and higher EOD than the preprocessing techniques DIR and RW in student performance prediction
 id: cpp-postprocessing-accuracy-fairness-tradeoff
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques
+# Calibrated Equalized Odds Post-processing showed lower balanced accuracy and higher EOD than the preprocessing techniques DIR and RW in student performance prediction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The CPP method exhibited significant drops in balanced accuracy coupled with higher EOD values, particularly for age, IMD, and disability attributes. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)
+`q2 i?` The CPP method showed lower balanced accuracy coupled with higher EOD for the age and IMD attributes, and the largest disparity for disability, where balanced accuracy and EOD varied widely across techniques. [→ Raymond A. Opoku 2025](#raymond-a-opoku-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Raymond A. Opoku, Bo Pei and Wanli Xing. (2025). Unveiling Accuracy-Fairness Tra
 
 `q2 · i?` · `causal · r2`
 
-Accuracy-fairness trade-off analysis of LR models with four mitigation techniques on OULAD, plotted as BAcc versus EOD per demographic attribute (Figure 7). The article reports CPP "exhibited significant drops in accuracy" for age, IMD, and disability. No effect size is printed.
+Accuracy-fairness trade-off analysis of LR models with four mitigation techniques on OULAD, plotted as BAcc versus EOD per demographic attribute (Figure 7). The article reports that CPP showed lower accuracy and higher EOD for age and IMD ("a significant drop in accuracy coupled with a higher EOD" for IMD), and the largest disparity for disability, where it does not separately describe the accuracy and EOD values. These are readings of the Figure 7 plot; no test of the trade-off and no effect size is printed for them.
 
 > "While some bias mitigation techniques, such as DIR and RW, improved fairness metrics (EOD) while maintaining relatively high balanced accuracy (BAcc), others, like CPP, exhibited significant drops in accuracy coupled with higher EOD values."
 

@@ -10,22 +10,22 @@ generated:
 evidence_strength: weak
 sources:
   - id: khatib-2011
-    resource: "https://doi.org/10.5539/ies.v4n4p192"
+    resource: "https://doi.org/10.1017/S0142716404001110"
     title: "Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192"
     author: "Khatib, M., & Fat'hi, J."
     q: 2
     i: "?"
-    kind: causal
-    rigour: 2
+    kind: associational
+    rigour: "?"
 ---
 
 # Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r2` · `q2`
+> **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Morphological awareness contributed significantly to pseudoword reading and reading comprehension after controlling for prior reading ability, intelligence, and phonological awareness, with effects lasting three years. [→ Khatib 2011](#khatib-2011)
+`q2 i?` Khatib and Fat'hi (2011) report, from Deacon and Kirby's (2004) four-year longitudinal study, that morphological awareness contributed significantly to pseudoword reading and reading comprehension after controlling for prior reading ability, intelligence, and phonological awareness, and that the contribution remained three years after it was assessed; Khatib and Fat'hi's own study did not measure morphological awareness. [→ Khatib 2011](#khatib-2011)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Khatib, M., & Fat'hi, J. (2011). The Effect of Automatization of the Phonological Component on the Reading Comprehension of ESP Students. International Education Studies, 4(4). https://doi.org/10.5539/ies.v4n4p192
 
-`q2 · i?` · `causal · r2`
+`q2 · i?` · `associational · r?`
 
-The article reports, citing Deacon and Kirby (2004), a four-year longitudinal study comparing phonological and morphological awareness across three reading measures. The contribution "remained 3 years after morphological awareness was assessed"; no effect size is printed.
+Secondary report. Khatib and Fat'hi's own study is a one-semester comparison of phonological-component instruction with translation-based instruction for 60 ESP students; this finding comes from their literature review, which summarises Deacon and Kirby (2004), *Applied Psycholinguistics*, 25(2), 223-238 ([doi:10.1017/S0142716404001110](https://doi.org/10.1017/S0142716404001110)), a four-year longitudinal study comparing phonological and morphological awareness across three reading measures. The contribution "remained 3 years after morphological awareness was assessed"; no effect size is printed, and the primary study has not been read here.
 
 > "The results of their study divulged that morphological awareness contributed significantly to pseudoword reading and reading comprehension, after controlling prior measures of reading ability, verbal and nonverbal intellig ence, and phonological awareness."
 

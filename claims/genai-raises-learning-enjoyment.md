@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness
-description: AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness
+title: In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness
+description: In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness
 id: genai-raises-learning-enjoyment
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness
+# In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r3` · `q4`
@@ -44,7 +44,7 @@ Zara Contractor and Germán Reyes. (2026). Experimental Evidence on the Learning
 
 `q4 · i?` · `causal · r3`
 
-Post-learning survey measure from the randomized experiment. The article also reports the share of students rating enjoyment at or above the sample median rises by 12.1 pp (p= 0.082), while the effect on feeling skilled or effective is 0.06 points (p= 0.834).
+Post-learning survey measure from the randomized experiment; the enjoyment effect is marginal (p = 0.063), which the authors describe as AI making learning more enjoyable. The article also reports the share of students rating enjoyment at or above the sample median rises by 12.1 pp (p= 0.082), while the effect on feeling skilled or effective is 0.06 points (p= 0.834).
 
 > "Enjoyment of the learning task rises by ˆβ= 0.58points on the 0–10 scale (p= 0.063), an 11 percent improvement over the control mean of 5.22."
 

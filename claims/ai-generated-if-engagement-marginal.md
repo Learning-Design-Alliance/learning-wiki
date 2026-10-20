@@ -48,4 +48,4 @@ Descriptive subscale results from the same pilot (N = 22). Engagement (Cronbach'
 ## Related Claims
 - [Story-content coherence is the weakest perceived-quality dimension of AI-generated educational interactive fiction in this pilot](ai-generated-if-coherence-weakest-dimension.md) — related
 - [AI-generated interactive-fiction learning scenarios are perceived as narratively clear and of appropriate length by STEM higher-education participants](ai-generated-if-narrative-clarity-length-accepted.md) — related
-- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related
+- [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](artificial-in-fiction-quiz-motivation-dominant-criticism.md) — related

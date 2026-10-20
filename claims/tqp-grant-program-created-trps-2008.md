@@ -1,7 +1,7 @@
 ---
 type: claim
-title: TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools
-description: TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools
+title: Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools
+description: Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools
 id: tqp-grant-program-created-trps-2008
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools
+# Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · theoretical `r1` · `q1`
@@ -35,7 +35,7 @@ Tim Silva, Allison McKie, Virginia Knechtel, Philip Gleason, Libby Makowsky. (20
 
 `q1 · i?` · `theoretical · r1`
 
-Background statement printed in the article's introduction: "In 2008, Congress created the Teacher Quality Partnership Grant Program" to fund alternative training programs targeting high-need schools. No empirical test is reported for this policy-origin claim.
+Background statement printed in the article's introduction: "In 2008, Congress created the Teacher Quality Partnership Grant Program" to fund alternative training programs targeting high-need schools, and teaching residency programs are "funded under this grant"; the summary does not date the TRPs themselves. No empirical test is reported for this policy-origin claim.
 
 > "In 2008, Congress created the Teacher Quality Partnership Grant Program to fund alternative training programs that draw highly qualified teachers to high-need schools."
 
