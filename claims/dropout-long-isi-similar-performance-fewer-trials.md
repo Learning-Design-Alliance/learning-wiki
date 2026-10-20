@@ -64,7 +64,7 @@ Replication experiment with 66 undergraduates in three groups (5-5-5, 23-23-23, 
 ## Related Claims
 - [Dropping initially correct items incurred a cost relative to a long-ISI conventional schedule in Experiment 2, but this was offset by gains on initially incorrect items](dropout-cost-for-initially-correct-items.md) — related
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — a broader claim this one bears on
-- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length and, the authors judge, unlikely to be due to item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related
 - [A short-ISI dropout schedule (5-drop) used significantly fewer trials but yielded lower final test performance than conventional schedules in Experiment 1](short-isi-dropout-lower-performance.md) — related
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
 - [Repeated test-restudy trials produced higher final cued recall than study-only or single test-restudy controls across both experiments](test-restudy-beats-controls.md) — related

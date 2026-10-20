@@ -66,7 +66,7 @@ Despite this psychometric strength, intelligence tests and the definitions of in
 - [When previous academic achievement is controlled, intelligence predicts only later reading comprehension and age-10 mathematics, and WMC predicts nothing additionally](../claims/precursors-reduce-iq-wmc-prediction.md) [+W]
 - [Processing speed has a significant effect on both letter and category fluency in older adults, while IQ does not](../claims/processing-speed-significant-covariate-both-fluencies.md) [~W]
 - [In latent-variable SEM models, intelligence — not working memory — is the significant direct predictor of academic outcomes in both childhood and early adulthood](../claims/sem-iq-only-significant-predictor.md) [+W]
-- [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](../claims/specific-processing-speed-predicts-grade9-entrance-exam-math.md) [+W]
+- [Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9](../claims/specific-processing-speed-predicts-grade9-entrance-exam-math.md) [+W]
 - [Specific processing speed generalises beyond mathematics, significantly predicting Chinese and English achievement in both Grade 7 and Grade 9](../claims/specific-processing-speed-generalises-to-all-academic-achievements.md) [+W]
 - [Fluid reasoning and self-control jointly explain far more variance in standardized test scores than in grades](../claims/variance-explained-tests-versus-grades.md) [+W]
 

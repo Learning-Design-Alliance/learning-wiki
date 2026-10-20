@@ -12,7 +12,7 @@ generated:
 # Outcome-oriented equity framework distinguishing access equity from impact equity
 
 > **Research Method** · [All research methods](index.md)
-> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 theoretical), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 theoretical), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The paper distinguishes access equity, whether students and institutions can obtain devices, broadband, software, and support, from impact equity, whether AI-enabled learning produces comparable gains across subgroups. It argues that 'Access without learning gains can reproduce inequality in a more technologically sophisticated form, while learning gains observed only in average outcomes can obscure subgroup harms.' Evaluation should use disaggregated evidence on learning gains, transfer, persistence, and confidence calibration.

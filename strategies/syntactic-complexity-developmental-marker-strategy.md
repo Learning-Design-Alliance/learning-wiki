@@ -42,7 +42,7 @@ The article recommends a specific assessment practice: "syntactic complexity cou
 - [Syntactic complexity of narrative writing increases significantly between fourth and sixth grade, while text length and story content do not](../claims/syntactic-complexity-develops-upper-elementary-not-length-content.md) [+W]
 - [Transcription skills are not longitudinally predictive of syntactic complexity in the upper elementary grades, consistent with their declining influence as handwriting and spelling automatize](../claims/transcription-skills-decline-upper-grades.md) [+W]
 - [Executive functions do not directly predict syntactic complexity or story content once transcription and language skills are controlled](../claims/ef-no-direct-effect-syntactic-complexity-story-content.md) [+W]
-- [Handwriting fluency mediates the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](../claims/handwriting-fluency-mediates-ef-narrative-writing.md) [+W]
+- [In a cross-sectional path model of fourth graders, handwriting fluency statistically mediated the relation between inhibition/updating and all narrative outcomes (text length, syntactic complexity, story content)](../claims/handwriting-fluency-mediates-ef-narrative-writing.md) [+W]
 
 ## Related Strategies
 

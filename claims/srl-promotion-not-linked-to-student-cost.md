@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level"
-description: "Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level"
+title: "Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level"
+description: "Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level"
 id: srl-promotion-not-linked-to-student-cost
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level
+# Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i0` Hypothesised negative relations between SRL promotion and students' perceived cost were not confirmed at either the class or the student level. [→ Johannes Jud 2024](#johannes-jud-2024)
+`q3 i0` The authors report the hypothesised negative relation between teachers' SRL promotion and students' perceived cost as not confirmed; for student-reported SRL promotion, at the class level it was nonsignificant, and at the student level the bivariate correlation was negligible (r = −.04), though marked significant in Table 1. [→ Johannes Jud 2024](#johannes-jud-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Johannes Jud, Yves Karlen, Carmen Nadja Hirt. (2024). Linking teachers' and stud
 
 `q3 · i0` · `associational · r2`
 
-Null finding from the full-perspective MSEM and correlational analyses (167 teachers, 2,785 students): "no significant correlation was found on the class or the student level" for cost. Equivalence was not tested; no effect size printed.
+Full-perspective MSEM and correlational analyses (167 teachers, 2,785 students), with SRL promotion as students reported it. The article is internally inconsistent on cost: its discussion of H2b says "no significant correlation was found on the class or the student level", but Table 1 marks the student-level correlation between student-reported SRL promotion and cost as significant (r = −0.04*, p < .05), and the results text calls it a negative relation. At the class level the correlation and the MSEM path were nonsignificant. At the student level the association is, on either reading, negligible in size. Equivalence was not tested.
 
 > "Our hypothesis H2b, assuming negative relations between teachers' SRL promotion and students' perceived costs, could not be confirmed, as no significant correlation was found on the class or the student level."
 

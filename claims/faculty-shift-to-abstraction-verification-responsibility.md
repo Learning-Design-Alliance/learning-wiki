@@ -44,5 +44,5 @@ Qualitative outcome of the November 2025 faculty workshop (30 attendees from Nor
 
 ## Related Claims
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
-- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](ncstate-brief-training-stage-movement.md) — related
+- [After brief 1–2 day training, participants showed behaviors consistent with movement from Stage 0–1 toward Stage 1–2, and sustained courses were associated with Stage 3–4 behaviors (observational; no pre/post measure or comparison group)](ncstate-brief-training-stage-movement.md) — related
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related

@@ -45,7 +45,7 @@ The article reports, citing both the research literature and the CST survey of 1
 ## Related Claims
 - [Strong local community connections and commitment can provide one of the biggest boosts to rural school turnaround efforts](rural-community-commitment-boosts-turnaround.md) — related
 - Amargosa Valley School had eight weeks to fill 8 of its 14 certified positions after more than half its teachers left before SIG implementation — a narrower finding that bears on this claim
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — a narrower finding that bears on this claim
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — a narrower finding that bears on this claim
 - [Recruitment and retention of teaching staff is an activity integral to school improvement efforts under SIG, and the article presents findings on it in rural schools](staffing-recruitment-retention-integral-sig-improvement.md) — related
 - [Rural school settings' distance from urban areas and long commutes can exacerbate the challenges struggling rural schools face](rural-setting-exacerbates-school-improvement-challenges.md) — related
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related

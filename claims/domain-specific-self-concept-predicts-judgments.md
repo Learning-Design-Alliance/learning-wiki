@@ -66,7 +66,7 @@ Study 2 regression on postdiction bias in the psychology exam. The article repor
 
 ## Related Claims
 - [Big Five personality factors show few consistent effects on metacognitive judgments in domain-specific tests](big-five-few-consistent-effects-on-judgments.md) — related
-- [Motivational and personality variables relate more strongly to global than to local postdicted judgments](global-judgments-more-trait-driven-than-local.md) — related
+- [Domain-specific self-concept relates more strongly to global than to local postdicted judgments, while most other motivational and personality variables do not differ](global-judgments-more-trait-driven-than-local.md) — related
 - [Global predictions rely on domain-specific self-concept but not on test performance, unlike postdictions](predictions-rely-on-self-concept-not-performance.md) — related
 - [Female students provided lower local judgments with lower sensitivity but higher specificity than male students](gender-differences-local-judgments-sensitivity-specificity.md) — related
 - [Test performance is the strongest predictor of local and global postdicted judgments after test taking](test-performance-strongest-predictor-postdictions.md) — related

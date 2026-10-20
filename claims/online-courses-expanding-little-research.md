@@ -44,7 +44,7 @@ The abstract frames the study's motivation: online courses are "a rapidly expand
 
 ## Related Claims
 - [The estimated online-course effects are local to students with access to both online and in-person options](online-course-effects-local-to-dual-option-students.md) — related
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — a narrower finding that bears on this claim
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — a narrower finding that bears on this claim
 - [Taking a course online instead of in person reduces student success and progress in college](online-course-taking-reduces-college-success.md) — a narrower finding that bears on this claim
 - [Despite rapid expansion of alternative routes into teaching, little research exists to guide judgments about the effectiveness of different teacher training strategies](little-research-teacher-training-strategy-effectiveness.md) — related
 - [The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.](interaction-assumed-important-online-course-questions-remain.md) — related

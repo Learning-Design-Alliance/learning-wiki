@@ -89,9 +89,9 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 | [Mol et al. 2008](https://doi.org/10.1080/10409280701838603) | q3 · quant-synthesis · r3 | i2 · medium effect, d=.59 (expressive vocabulary); i2 · medium effect, d=.59 | this claim; [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) (supports) |
 | [Mol & Bus 2011](https://doi.org/10.1037/a0021890) | q3 · quant-synthesis · r? | i2 · moderate-to-strong correlations; print exposure explained 12% of variance in oral language in preschool/kindergarten | this claim |
 | [Sénéchal and Young 2008](https://doi.org/10.3102/0034654308320319) | q4 · quant-synthesis · r? | i? | [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) (supports) |
-| Gabrieli, MIT McGovern Institute | q2 · associational · r? | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
-| Hart and Risley 1995 | q2 · associational · r? | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
-| [Darling-Hammond 2018](https://doi.org/10.54300/145.655) | q2 · review · r2 | i? | [Conversational turn-taking predicts language development better than raw word count or soc](conversational-turns-predict-language-development.md) (qualifies) |
+| Gabrieli, MIT McGovern Institute | q2 · associational · r? | i? | [The number of conversational turns is more closely associated with children's language ski](conversational-turns-predict-language-development.md) (qualifies) |
+| Hart and Risley 1995 | q2 · associational · r? | i? | [The number of conversational turns is more closely associated with children's language ski](conversational-turns-predict-language-development.md) (qualifies) |
+| [Darling-Hammond 2018](https://doi.org/10.54300/145.655) | q2 · review · r2 | i? | [The number of conversational turns is more closely associated with children's language ski](conversational-turns-predict-language-development.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion
@@ -117,7 +117,7 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Cognitive load reduction improves learning.](cognitive-load-reduction-improves-learning.md) — shared reading lets an adult carry the decoding load so the child can attend to meaning
 - [In teacher-led big-book reading, children exercise cognitive autonomy by making their own connections between spoken and written words within the activity's boundaries](big-book-reading-cognitive-autonomy.md) — related
 - Children attending early childhood education programs are far more likely to be on track in emergent literacy and numeracy — related
-- [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Dialogic Reading Improves Expressive Language](dialogic-reading-improves-language-outcomes.md) — related
 - [Parent Involvement Improves Early Reading](parent-involvement-improves-early-reading.md) — related
 - [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](parent-involvement-improves-achievement.md) — related
@@ -134,4 +134,4 @@ This research synthesis meta-analysed 99 studies (N = 7,669) of leisure-time rea
 - [Book-sharing interventions produce a large improvement in caregiver book-sharing competence (d=1.01)](book-sharing-caregiver-competence-large-effect.md) — related
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
 - [Native-speaker children have about 2,500 words at school entry and vocabulary growth becomes exponential once independent reading begins](ns-vocabulary-2500-entry-exponential-growth.md) — related
-- [Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment](hle-child-health-predict-reading-readiness.md) — related
+- [Home literacy environment and child health predict reading readiness at school entry, and socioeconomic status stops being a significant predictor once home literacy environment is entered (suggestive of mediation, not tested)](hle-child-health-predict-reading-readiness.md) — related

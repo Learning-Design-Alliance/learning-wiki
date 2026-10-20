@@ -45,4 +45,4 @@ In the same 50-subject within-subjects map-learning experiment, blind-scored fin
 ## Related Claims
 - [Map drawing after 30 min is more accurate for maps learned through covert-retrieval tests than for maps learned through equal conventional study time](covert-retrieval-tests-improve-map-learning.md) — related
 - [Retrieval practice benefits extend to nonverbal visual materials, spatial map learning, and educational texts with different structures](retrieval-practice-benefits-extend-to-nonverbal-spatial-and-differently-structured-text-materials.md) — a broader claim this one bears on
-- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](ttst-advantage-not-different-at-5min-24h.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related

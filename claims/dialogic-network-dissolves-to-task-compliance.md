@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` After about six minutes of collaborative argumentation, a student's call to start working shifted the group from dialogic argumentation to obedient card classification, ending the dialogue. [→ Baruch B. Schwarz 2025](#baruch-b-schwarz-2025)
+`q2 i?` After about six minutes of collaborative argumentation, a student's call to start working shifted the group from dialogic argumentation to a less dialogic network of reading and classifying cards, ending their collaborative argumentation. [→ Baruch B. Schwarz 2025](#baruch-b-schwarz-2025)
 
 ## Evidence
 

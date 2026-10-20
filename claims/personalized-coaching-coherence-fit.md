@@ -44,7 +44,7 @@ DLP year 2 survey: coached core-subject teachers reported better PD fit than non
 
 
 ## Related Claims
-- [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
+- [Teachers who report coaching as a partnership report more improvement in classroom challenges and higher technology-use confidence; voluntary participation and non-evaluative support correlate with improvement in classroom challenges](coaching-partnership-voluntary-non-evaluative.md) — related
 - Coached teachers report significantly higher confidence in their ability to implement impactful technology use — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours](sustained-coaching-contact-hours.md) — related

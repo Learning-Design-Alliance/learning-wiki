@@ -44,7 +44,7 @@ Finding from the same qualitative analysis of 38 undergraduates' GenAI engagemen
 
 ## Related Claims
 - [In unguided GenAI collaboration, ethnic minority preparatory students’ strategy talk co-occurred with passive sharing and uncritical acceptance, forming a plan-and-paste loop](unguided-strategy-talk-plan-and-paste-loop.md) — a narrower finding that bears on this claim
-- [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — a narrower finding that bears on this claim
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — a narrower finding that bears on this claim
 - [Student reflections identify speed and scaffolding as the dominant theme, with verification burden, overreliance worries, and prompt precision also prevalent](reflection-themes-copilot-comment-workflow.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — a broader claim this one bears on
 - [Student engagement with generative AI in unsupervised assessments forms a spectrum bounded by cognitive outsourcing and cognitive reallocation](genai-engagement-spectrum-outsourcing-to-reallocation.md) — a broader claim this one bears on

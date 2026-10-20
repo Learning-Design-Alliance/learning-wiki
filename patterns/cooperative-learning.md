@@ -137,7 +137,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Cooperative learning gains were large for observation and interpretation but small for analysis in 4th graders](../claims/cooperative-learning-skill-specific-ct-gains.md) [~W]
 - [Cooperative learning reduced disparities between students' critical thinking scores, with lower performers gaining most](../claims/cooperative-learning-reduces-score-disparities.md) [+W]
 - [Participation within teams was fairly equal in all conditions, with Gini coefficients close to zero and no significant between-condition differences](../claims/equal-participation-across-collaboration-conditions.md) [~W]
-- [Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
+- [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
 - [Across cultures, classroom arrangements facilitating cooperative learning are more effective in supporting motivation and achievement than individual or competitive goal structures](../claims/cooperative-learning-more-effective-than-competitive-structures.md) [+W]
 
 ## Related Patterns

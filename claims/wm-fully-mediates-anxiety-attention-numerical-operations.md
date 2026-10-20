@@ -47,10 +47,10 @@ SEM analysis (Full Mediation model, best fitting for NO) in 330 children; this s
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — a broader claim this one bears on
+- [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — a broader claim this one bears on
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
-- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
 - [Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations](reading-comprehension-predicts-mr-not-no.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — a broader claim this one bears on

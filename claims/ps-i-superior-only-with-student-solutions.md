@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.1007/s11251-024-09665-9"
     title: "Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel. (2025). CID: a framework for the cognitive analysis of composite instructional designs. Instructional Science. https://doi.org/10.1007/s11251-024-09665-9"
     author: Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel
-    q: 3
+    q: 2
     i: "?"
     kind: theoretical
     rigour: 3
@@ -22,10 +22,10 @@ sources:
 # PS-I sequence outperforms I-PS on conceptual knowledge only when instruction builds on student solutions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r3` · `q3`
+> **Evidence** · 1 study · theoretical `r3` · `q2`
 
 ## Subclaims
-`q3 i?` Loibl and Rummel (2014) found a significant interaction: PS-I was superior to I-PS for conceptual knowledge only when the instruction built on student solutions. [→ Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel 2025](#katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025)
+`q2 i?` Loibl and Rummel (2014), as reported in the 2025 CID framework article, found a significant interaction: PS-I was superior to I-PS for conceptual knowledge only when the instruction built on student solutions. [→ Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel 2025](#katharina-loibl-timo-leuders-inga-glogger-frey-nikol-rummel-2025)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Katharina Loibl · Timo Leuders · Inga Glogger-Frey · Nikol Rummel. (2025). CID: a framework for the cognitive analysis of composite instructional designs. Instructional Science. https://doi.org/10.1007/s11251-024-09665-9
 
-`q3 · i?` · `theoretical · r3`
+`q2 · framework article reporting an earlier experiment · i?` · `theoretical · r3`
 
-Experimental study by Loibl and Rummel (2014) implementing all four conditions (PS-I and I-PS, each with and without building on student solutions). The article reports the significant interaction and that PS-I with student solutions outperformed I-PS with student solutions, which outperformed the two standard-instruction conditions, with no significant difference between the latter two.
+Framework article (Loibl, Leuders, Glogger-Frey & Rummel, 2025) that reports and interprets the earlier experiment by Loibl and Rummel (2014), which implemented all four conditions (PS-I and I-PS, each with and without building on student solutions). The article reports the significant interaction and that PS-I with student solutions outperformed I-PS with student solutions, which outperformed the two standard-instruction conditions, with no significant difference between the latter two.
 
 > "They found a significant interaction insofar as the PS-I sequence was only superior to I-PS in terms of acquiring conceptual knowledge (K 2) when the instruction (I 2) was building on student solutions."
 

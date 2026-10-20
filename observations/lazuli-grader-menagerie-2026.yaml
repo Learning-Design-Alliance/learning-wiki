@@ -1,0 +1,465 @@
+# ============================================================================
+# THE REPLICATION OF THE CEILING, on a corpus built for the question.
+#
+# Every other record here measures a GRADER against human grades. This one
+# measures HUMANS against each other, on a deposit whose stated purpose was
+# "a study into the consistency of human graders": 279 CS1 Java submissions
+# re-graded post hoc by 28 recruited graders, four raters on 1,084 of the 1,116
+# items and three on 32, four rubric dimensions scored separately. The published grades are deliberately
+# NOT the students' awarded grades — the depositors could not get ethical
+# permission to release those.
+#
+# No model is involved in the ceiling observations below. `ai_processing` on
+# the analysis that produced them is false, and that is the honest value.
+# THE EXCEPTION, added 2026-10-06: one observation,
+# `label-effect-on-whole-programs`, comes from the label-stability re-test,
+# which sent 60 of the deposit's programs to three hosted models. Its analysis
+# is `label-stability`, with `ai_processing: true`.
+#
+# READ `provenance.source_type` BEFORE POOLING: `platform-experiment`. The
+# programme's own analysis of somebody else's corpus, not a finding from its depositors.
+#
+# Every figure below was reproduced from grades.csv on 2026-09-25.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-grader-menagerie-2026
+  citation: 'David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844'
+  design:
+    family: other
+    design_detail: >-
+      Agreement between recruited human graders on archival student work. No
+      manipulation and no assignment: the 28 graders worked in SEVEN GROUPS OF
+      FOUR (Messer, Brown, Kolling & Shi 2024, arXiv:2409.12967 — the study the
+      deposit was collected for). Each grader graded 40 submissions on four
+      dimensions (28 x 40 x 4 = 4,480 rows). After 33 blank or NAN grades are
+      dropped, 1,084 of the 1,116 rubric-dimension items have four graders
+      and 32 have three, which gives 6,600 co-grading pairs. The analysis is
+      the pairwise agreement between them. Reported at two scale granularities,
+      because the corpus's 14-level letter scale is finer than the corpora this
+      is compared against and finer scales depress agreement.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-15
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: expert-human-graders-agree-with-each-other-far-less-than-assumed
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      The independent replication. A second corpus, purpose-built, four raters
+      instead of two, and a LOWER figure than Mohler's on a comparable scale.
+  - claim: showing-a-grader-a-learners-prior-performance-biases-the-grade
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      Extends the label effect from short answers to whole programs and a
+      14-level rubric. The sign holds on all three models; the size is 2.8x
+      and 2.4x its short-answer share on GPT-4.1-mini and Qwen and 0.4x on
+      Gemini, so magnitudes do not transfer across item types.
+  - claim: llm-short-answer-graders-can-reach-human-rater-agreement
+    bearing: qualifies
+    anchor: porcaro-2026
+    note: >-
+      It does not measure the Lazuli grader at all — the corpus is Java code, not short
+      text answers. It qualifies that claim by establishing the bar is low in a
+      second setting, and simultaneously by showing the bar is a DISTRIBUTION
+      spanning 0.035 to 0.730, so "at or above the human ceiling" is a statement
+      about a range rather than a threshold.
+
+evidence_base:
+  unit: items
+  size:
+    value: 1116
+    unit: items
+  additional_sizes:
+    - value: 6600
+      unit: pairs
+      note: >-
+        Co-grading pairs — every unordered pair of graders who scored the same
+        item. NOT 6,600 independent observations: the same 42 pairs recur across
+        items, so this overstates the information available and the per-pair
+        spread is the honest summary.
+    - value: 28
+      unit: other
+      note: Recruited graders.
+    - value: 279
+      unit: other
+      note: >-
+        CS1 Java submissions. Each yields four rubric-dimension items
+        (correctness, code elegance, readability, documentation), scored
+        separately rather than rolled into one grade.
+  population:
+    description: >-
+      28 recruited graders marking introductory (CS1) Java submissions. The
+      SUBJECTS OF INTEREST ARE
+      THE GRADERS, not the students — this is the one corpus here where that is
+      true, and it is why the record can speak to a ceiling at all.
+    age_or_stage: >-
+      NOT ESTABLISHED for the graders; the deposit points to a demographics
+      notebook that was not read for this record. Students are undergraduates.
+    prior_knowledge: >-
+      PARTIALLY ESTABLISHED. The source study (arXiv:2409.12967) records 28
+      participants in seven groups of four, which the data corroborates exactly.
+      Whether they were academics, teaching assistants, students or
+      practitioners is NOT stated in the abstract and was not established for
+      this record. It matters — a low figure means something different for
+      recruited novices than for experienced markers — so it stays a limitation
+      rather than an assumption, and the full paper would settle it.
+  context:
+    setting: >-
+      Archival and post hoc. Grading was performed for a consistency study, not
+      as part of the course, and the results were never returned to a student.
+    delivery_mode: >-
+      Offline analysis of the deposit. No model call anywhere in this record.
+    duration: Analysis run 2026-09-15.
+  arms:
+    - id: grader-pool
+      description: >-
+        The 28 recruited graders, treated as one pool. Not an intervention — the
+        schema needs an arm for an observation to hang from, and there is only
+        one condition here: humans grading.
+      size:
+        value: 1116
+        unit: items
+    - id: programs-label-high
+      description: >-
+        60 submissions, each rubric dimension graded by a hosted model told a
+        high attainment label (the swapped-label study's high labels rescaled
+        to the 14-level scale). Models gemini-3.5-flash-lite, gpt-4.1-mini,
+        qwen3-235b-a22b-2507.
+      size:
+        value: 240
+        unit: items
+    - id: programs-label-low
+      description: The same 240 items graded under the paired low label.
+      size:
+        value: 240
+        unit: items
+
+comparisons:
+  - id: grader-vs-grader
+    kind: other
+    index_arm: grader-pool
+    reference_arm: grader-pool
+    description: >-
+      Agreement between graders who scored the same item. Both slots name the
+      same arm because there is no contrast of conditions: the quantity is the
+      spread within one pool, which is what a ceiling is.
+  - id: program-label
+    kind: other
+    index_arm: programs-label-high
+    reference_arm: programs-label-low
+    description: >-
+      The same program dimension graded under a high and a low attainment
+      label. The quantity is the label effect on identical work as a share of
+      the score range, compared with the same share on short answers.
+
+observations:
+  - id: ceiling-replicated
+    sample:
+      value: 6600
+      unit: pairs
+    comparison_ref: grader-vs-grader
+    analysis_ref: menagerie-irr
+    outcome:
+      construct: Agreement between human graders on the same student work
+      source_language: quadratic-weighted kappa between co-grading pairs
+      measure: >-
+        QWK over the scale's own levels, computed by the same function every
+        machine figure in this release uses — the only reason the two are
+        comparable. Reported at 14 levels (as deposited) and collapsed to the
+        bare letter (5 levels), which is the granularity of the corpus this
+        replicates.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+    time:
+      label: As graded in the consistency study
+    result:
+      measure_type: other
+      estimate: 0.465
+      model: >-
+        5-level (bare letter), the Mohler-comparable granularity: QWK 0.465.
+        14-level as deposited: 0.424. n=6,600 co-grading pairs over 1,116
+        rubric-dimension items.
+      interpretation: >-
+        THE CEILING REPLICATES, AND LOWER. Two independent corpora now put
+        human graders below 0.52 — Mohler at 0.519, itself an over-estimate,
+        and this at 0.465 on a comparable scale. This corpus is the stronger
+        instrument: four raters rather than two, and a deposit whose stated
+        purpose was studying grader consistency rather than a marking job that
+        happened to be done twice. Quote the 5-level figure in any comparison;
+        the 14-level one is not comparable, because finer scales depress
+        agreement by forcing distinctions raters may not hold.
+    moderators:
+      reported:
+        - variable: scale granularity
+          relationship: >-
+            Collapsing 14 levels to 5 raises agreement from 0.424 to 0.465 on
+            identical judgements. A grading scheme's resolution is part of what
+            its reliability measures.
+          source_quote: >-
+            From the release: 0.424 at 14 levels and 0.465 at 5, on the same
+            6,600 pairs.
+        - variable: agreement statistic
+          relationship: >-
+            Under Gwet's AC2, whose chance term does not come from the
+            marginals, the same pairs agree at 0.887 (5 levels) and 0.749 (14
+            levels), and per pair 0.61-0.92 against QWK's 0.035-0.730. The
+            level is statistic-dependent; under QWK every grader is far below the humans; under AC2 the difference is not resolved on 14 levels for any grader, and on 5 levels only Qwen stays below (-0.06 [-0.13, -0.005]). AC2 also credits a
+            constant always-A- grader at 0.854, above the raters' 0.706 on
+            the same items.
+          source_quote: >-
+            From studies/measurement/grader-ceiling-robustness: pooled AC2
+            0.887 / 0.749 against QWK 0.465 / 0.424.
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Population detail is only partial and it is the gap that matters: the
+      seven-groups-of-four design is established from the source study, but
+      whether the 28 graders were academics, teaching assistants, students or
+      practitioners is not stated in its abstract and was not established here.
+      A low figure means something different for recruited novices than for
+      experienced markers; the full paper, or the deposit's demographics
+      notebook, would settle it.
+
+      INDEPENDENT CORROBORATION, which is worth more than the number agreeing.
+      The study the corpus was collected for reaches the same conclusion from
+      the same data by its own analysis: human graders "can not agree on the
+      grade to give a piece of student work and are often individually
+      inconsistent", so "the idea of a 'gold standard' of human grading might be
+      flawed", and "a shared rubric alone is not enough to ensure consistency".
+      That is not a replication — it is the same rows — but it does mean the
+      reading here is not an artefact of this release's scale mapping or its
+      choice of statistic, neither of which was theirs.
+    source_quote: >-
+      From the release: 0.465 on the Mohler-comparable 5-level scale, against
+      Mohler's 0.519.
+    source_location: release 1.0.0, evidence ceiling-replicated
+
+  - id: ceiling-is-a-distribution
+    sample:
+      value: 42
+      unit: pairs
+    comparison_ref: grader-vs-grader
+    analysis_ref: menagerie-irr
+    outcome:
+      construct: >-
+        How much agreement depends on WHICH two humans are compared, rather than
+        on the work or the rubric
+      source_language: distribution of QWK across rater pairs
+      measure: >-
+        QWK computed separately for each grader pair that co-graded at least 30
+        items, on the 14-level scale
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+    time:
+      label: As graded in the consistency study
+    result:
+      measure_type: other
+      estimate: 0.410
+      ci_lower: 0.117
+      ci_upper: 0.557
+      # NOT a confidence interval on a mean. The bounds are the quartiles of an
+      # observed distribution across rater pairs, and the field is used for them
+      # because a reader needs the spread beside the middle. Named honestly here
+      # rather than dressed up as sampling uncertainty.
+      interval_type: other
+      model: >-
+        42 pairs with n>=30. min 0.035, q1 0.117, median 0.410, q3 0.557, max
+        0.730. Bounds above are the quartiles, not a confidence interval.
+      interpretation: >-
+        "THE HUMAN CEILING" IS A DISTRIBUTION, NOT A NUMBER, and this is the
+        finding that most changes how an agreement figure should be read. A
+        quarter of grader pairs agree at QWK <= 0.12 — essentially not at all —
+        while the best reaches 0.730, on the same work under the same rubric.
+        67% of pairs fall below the 0.519 the companion corpus reports. Which
+        humans are chosen as the reference therefore changes a measured
+        agreement more than anything about the system being measured, which is
+        the same lesson the companion record's 0.549-versus-0.798 split teaches
+        from two raters instead of 42 pairs.
+    moderators:
+      reported: []
+      candidate:
+        - variable: grader experience or role
+          relationship: >-
+            An obvious candidate explanation for a spread this wide, and
+            untestable from the data read here because the graders' roles are
+            not established.
+          note: CANDIDATE, never promoted.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Pairs with fewer than 30 co-graded items are excluded, so the spread is of
+      reasonably-estimated pairs rather than of all pairs. That filter narrows
+      the reported range rather than widening it.
+    source_quote: >-
+      From the release: per-pair QWK ranges 0.035 to 0.730, median 0.410, with
+      67% of pairs below 0.519.
+    source_location: release 1.0.0, evidence ceiling-is-a-distribution
+
+  - id: agreement-varies-by-rubric-dimension
+    sample:
+      value: 6600
+      unit: pairs
+    comparison_ref: grader-vs-grader
+    analysis_ref: menagerie-irr
+    outcome:
+      construct: >-
+        Whether human agreement depends on what the rubric asks the grader to
+        judge
+      source_language: QWK by rubric dimension
+      measure: >-
+        QWK per dimension on the 14-level scale. The corpus scores four
+        dimensions separately rather than rolling them into one grade, which is
+        what makes this measurable at all.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+    time:
+      label: As graded in the consistency study
+    result:
+      measure_type: other
+      estimate: 0.486
+      model: >-
+        Correctness 0.486 (n=1,653); Readability 0.412 (n=1,674); Code Elegance
+        0.383 (n=1,674); Documentation 0.368 (n=1,599). Same submissions, same
+        graders, 14-level scale.
+      interpretation: >-
+        AGREEMENT TRACKS HOW OBJECTIVE THE JUDGEMENT IS, in the order anyone
+        would guess: correctness highest, documentation lowest, a spread of
+        0.118 between them on the same work by the same people. This is a
+        rubric-design finding as much as a grading one. A dimension whose HUMANS
+        agree at 0.37 is not a dimension on which a machine can be held to a
+        higher standard, and reporting one agreement figure for a rubric that
+        mixes such dimensions averages over a real difference.
+    moderators:
+      reported:
+        - variable: objectivity of the dimension
+          relationship: >-
+            The most nearly objective dimension agrees best and the most
+            interpretive worst, monotonically across all four.
+          source_quote: >-
+            From the release: Correctness 0.486, Readability 0.412, Code
+            Elegance 0.383, Documentation 0.368.
+      candidate: []
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      The ordering is clean and the gaps between adjacent dimensions are small;
+      the end-to-end spread is the part to rely on, not the rank of the middle
+      two.
+    source_quote: >-
+      From the release: Correctness 0.486 down to Documentation 0.368, on the
+      same submissions by the same graders.
+    source_location: release 1.0.0, evidence agreement-varies-by-rubric-dimension
+
+  - id: label-effect-on-whole-programs
+    sample:
+      value: 240
+      unit: items
+    comparison_ref: program-label
+    analysis_ref: label-stability
+    outcome:
+      construct: >-
+        Whether the attainment label's effect on identical work holds, and at
+        what size, on whole programs and on other score scales
+      source_language: >-
+        s, the label effect as a share of the score range, by corpus and model
+      measure: >-
+        Mark under the high label minus mark under the low label on the same
+        work, divided by the scale's range; cluster bootstrap 95% intervals by
+        submission (Menagerie), question (Mohler) or learner (JorGPT)
+      scale: proportion
+      direction: contextual
+      role: capability-evidence
+      role_basis: stated
+      anchors:
+        - claims/showing-a-grader-a-learners-prior-performance-biases-the-grade
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: other
+      estimate: 0.105
+      ci_lower: 0.094
+      ci_upper: 0.116
+      interval_type: confidence
+      model: >-
+        Share of the range, Menagerie programs (14 levels) against JorGPT 0-10,
+        JorGPT re-marked 0-5 and Mohler 0-5: gpt-4.1-mini 0.105 [0.094, 0.116]
+        against 0.038, 0.039, 0.031; qwen3-235b-a22b-2507 0.179 [0.160, 0.198]
+        against 0.076, 0.060, 0.069; gemini-3.5-flash-lite 0.015 [0.007, 0.023]
+        against 0.037, 0.031, 0.016. In points on programs: +1.37, +2.32 and
+        +0.20 per rubric dimension (0.56, 0.94 and 0.08 SD of the human
+        grades). All 13 model-by-corpus cells positive (DIRECTION-STABLE).
+        Scale only, identical answers (0-5 minus 0-10): equivalent within
+        +/-0.02 on Gemini and GPT-4.1-mini, smaller on Qwen (-0.016). Verdict
+        MIXED-ACROSS-MODELS. The estimate above is GPT-4.1-mini on programs.
+      interpretation: >-
+        THE SIGN GENERALISES ACROSS ITEM TYPES AND SCALES; THE SIZE DOES NOT.
+        On whole programs the label moved the mark by 2.8x (GPT-4.1-mini) and
+        2.4x (Qwen) its short-answer share, more than half a human SD, and by
+        0.4x on Gemini. Programs differ from short answers in task and rubric as
+        well as length, so length is not isolated. The two models with the
+        largest program effect are the two whose marks track the human raters
+        least there (r 0.25 and 0.33), consistent with leaning on the label
+        where the work is read least well; not tested.
+    moderators:
+      reported:
+        - variable: item type (short answer against whole program)
+          relationship: >-
+            Larger on programs for two models and smaller for one; confounded
+            with task and rubric.
+          source_quote: >-
+            C5 programs minus short answers +0.068 (GPT-4.1-mini), +0.103
+            (Qwen), -0.022 (Gemini), all resolved.
+      candidate:
+        - variable: answer length within a corpus
+          relationship: >-
+            No length trend resolved within JorGPT or Mohler.
+          note: >-
+            CANDIDATE. The floor showed the instrument could not resolve a
+            within-corpus trend of the planted size, so this is a
+            non-detection, not a null.
+    observability:
+      population_detail: partial
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Pre-registered. 55 of 60 programs were truncated to 60,000
+      characters. Marks track the deposit's rater mean at r 0.58 (Gemini),
+      0.25 and 0.33 on programs, against 0.76-0.82 on short answers. Gemini
+      marks programs high (mean 11.4 of 13). Qwen's 0-10 cell came from a run
+      hours earlier; a host change between runs is not ruled out.
+    source_quote: >-
+      From studies/measurement/grader-label-stability: direction stable in all
+      13 cells; programs 0.4x to 2.8x the short-answer share.
+    source_location: studies/measurement/grader-label-stability/out/results.json

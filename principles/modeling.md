@@ -152,7 +152,7 @@ Imitation right after the model, unaided immediate performance, delayed retentio
 ## Claims
 
 - [Witnessing mentor teachers model advocacy actions shaped novice ESL teachers' advocacy beliefs and practices](../claims/mentor-modeling-shapes-novice-advocacy-beliefs.md) [+W]
-- [Studying a video modeling example produces large pretest-to-posttest gains in learning and near transfer of probability calculation for novice secondary students, regardless of model or observer gender](../claims/video-modeling-examples-large-gains-probability-novices.md) [+W]
+- [Novice secondary students show large pretest-to-posttest gains in learning and near transfer of probability calculation after studying a video modeling example, regardless of model or observer gender](../claims/video-modeling-examples-large-gains-probability-novices.md) [+W]
 
 ## Related Principles
 - [Observation/Shadowing](observationshadowing.md) — both principles rely on seeing performance, but modeling is usually more intentionally annotated and instructional

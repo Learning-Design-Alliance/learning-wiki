@@ -47,7 +47,7 @@ Repeated-measures ANOVA on self-reported metacognitive strategy use (t1–t4) in
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](long-term-prompting-no-added-benefit-declines-regardless.md) — related
+- [Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable](long-term-prompting-no-added-benefit-declines-regardless.md) — related
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](prompting-raises-quantity-of-cognitive-strategy-segments.md) — related
 - [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](short-term-journal-prompts-increase-cognitive-strategy-use.md) — related
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — a broader claim this one bears on

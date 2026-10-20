@@ -26,7 +26,7 @@ Admiral Squad is a Middletown City Schools fellowship and recruitment initiative
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose](../claims/admiral-squad-confidence-beloning-impact.md) [+M]
+- [One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose](../claims/admiral-squad-confidence-beloning-impact.md) [+M]
 
 ## Related Products and Programmes
 -

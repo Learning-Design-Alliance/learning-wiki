@@ -46,7 +46,7 @@ Correlational analyses in the 56-child sample dissociated accuracy and speed: su
 - [Number Sense](../learner-variables/number-sense.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](magnitude-comparison-more-unique-than-number-line.md) — related
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](magnitude-comparison-more-unique-than-number-line.md) — related
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](magnitude-processing-associated-mental-multidigit-subtraction.md) — a broader claim this one bears on
 - [Both numerical magnitude processing tasks correlate positively with arithmetic fact retrieval, more strongly for symbolic](nmp-correlates-fact-retrieval-symbolic-stronger.md) — related
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related

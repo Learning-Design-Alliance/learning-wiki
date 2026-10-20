@@ -44,7 +44,7 @@ Conceptual distinction drawn in Section 3.2 of the position paper. The article p
 
 ## Related Claims
 - [GenAI use involves substantial hidden labor of prompting, verification, and correction that remains invisible in productivity evaluation](genai-hidden-verification-labor-invisible.md) — related
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Learner agency in GenAI-mediated learning is enacted through prompting, questioning, verification, comparison, revision, and disciplinary judgment](learner-agency-genai-verification-revision.md) — related
 - [Students describe concrete verification behaviors for GenAI explanations, treating evaluation as an iterative filter rather than a single accept-or-reject judgment](iterative-verification-of-genai-explanations.md) — related
 - [Reviewed literature reports risks of overreliance, AI errors in complex tasks, and students' uncritical acceptance of AI-generated outputs](ai-math-risks-overreliance-errors-uncritical-trust.md) — related

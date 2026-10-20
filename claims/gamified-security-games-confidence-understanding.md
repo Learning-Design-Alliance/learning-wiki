@@ -43,6 +43,6 @@ Self-report items Q1 and Q2 on perceived learning and self-efficacy in the 50-st
 
 
 ## Related Claims
-- [Gamified security training showed stronger confidence and format-preference effects among female students than male students](gender-differences-gamified-security-training.md) — a narrower finding that bears on this claim
+- [After gamified security training, female students gave more positive confidence and format-preference ratings than male students (descriptive survey percentages, no inferential test)](gender-differences-gamified-security-training.md) — a narrower finding that bears on this claim
 - [Educators reported that LVN-selected strategies supported student engagement, content knowledge, confidence, and collaboration](lvn-strategies-support-engagement-and-knowledge.md) — related
 - [College students overwhelmingly prefer short, mobile-friendly gamified security training over long desktop training or videos](students-prefer-mobile-gamified-security-training.md) — related

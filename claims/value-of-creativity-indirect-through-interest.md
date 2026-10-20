@@ -49,4 +49,4 @@ In the two-wave SEM of the 360-student sample, "the indirect effects were strong
 ## Related Claims
 - [Perceived difficulty and task interest in Task 1 indirectly inform expectancy beliefs for Task 2](difficulty-interest-cues-subsequent-expectancy.md) — related
 - [Creative performance weakly predicts metacognitive judgments, with perceived difficulty and task interest serving as additional cues](performance-difficulty-interest-cues-judgments.md) — related
-- [Task interest remains stable across consecutive creativity tasks, driven directly by prior interest rather than mediated task experience](task-interest-stable-across-creativity-tasks.md) — related
+- [Task interest remains stable across consecutive creativity tasks: interest in one task is strongly and directly associated with interest in the next, with little mediation by task experience](task-interest-stable-across-creativity-tasks.md) — related

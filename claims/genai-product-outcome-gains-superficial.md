@@ -41,7 +41,7 @@ Narrative review attribution: the article reports, citing Mariñoso et al. (2025
 
 
 ## Related Claims
-- [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - genAI-supported work can improve while the constructive processing underlying durable expertise erodes (the performance–metacognition dilemma) — a broader claim this one bears on
 - [Falsifiable hypothesis: unrestricted AI use on deep-processing tasks will produce a product–process dissociation—higher-rated assignments but lower unaided delayed transfer](h3-product-process-dissociation-hypothesis.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related

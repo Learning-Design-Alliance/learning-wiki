@@ -65,7 +65,7 @@ Null moderator analyses within the meta-analysis: intervention duration and moti
 | Martha Bleeker 2018 | q2 · causal · r? | i? | [Increases in the percentage of students in the Harlem Fitness Zone were generally larger f](healthy-harlem-hfz-gains-larger-for-boys.md) (counts against) |
 | City Study 2022: Fort Worth 2022 | q2 · associational · r2 | i2; i? | [Fort Worth charter school male students significantly outgrew district-school male student](fort-worth-gender-subgroups-charter-district-growth.md) (counts against) |
 | Bo 2020 | q2 · causal · r2 | i? | [The Altair (engine) main effect is not significant for winter RIT scores in either content](altair-effect-null-reading-sex-interaction.md) (qualifies) |
-| [Bingjun Li 2025](https://doi.org/10.65879/3070-5789.2025.01.07) | q2 · design · r2 | i? | [Gamified security training showed stronger confidence and format-preference effects among ](gender-differences-gamified-security-training.md) (counts against) |
+| [Bingjun Li 2025](https://doi.org/10.65879/3070-5789.2025.01.07) | q2 · design · r2 | i? | [After gamified security training, female students gave more positive confidence and format](gender-differences-gamified-security-training.md) (counts against) |
 | [Jake Renzella 2026](https://doi.org/10.48550/arxiv.2606.14718) | q3 · causal · r1 | i2 | [Female students show broader post-workshop gains than males, including significant increas](females-broader-gains-career-interest-narrow-gap.md) (counts against) |
 | [Hui Zhao & Huijuan Gu 2026](https://doi.org/10.1038/s41598-026-54337-y) | q2 · associational · r1 | i? | [The effects of thoughtless GenAI use on motivation, self-efficacy, and self-directed learn](gender-moderates-tuga-effects.md) (counts against) |
 <!-- synthesis:end -->

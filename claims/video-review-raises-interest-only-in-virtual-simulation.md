@@ -68,5 +68,5 @@ Pairwise contrast from the same ANCOVA showing the video-review interest benefit
 - [Video review scaffolds self-regulated learning, and hands-on activity groups show greater self-regulation than virtual simulation groups](video-review-scaffolds-self-regulated-learning.md) — related
 - [Hands-on activity groups show fewer erroneous operations than correct ones, and hands-on with video review students use video more than virtual simulation peers](hands-on-lower-error-frequency-higher-video-use.md) — related
 - [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — related
-- [Virtual patients show no significant differences versus other types of digital education for knowledge or skills](vp-vs-other-digital-no-difference.md) — related
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [The review reports that real-world experiential simulations offer affordances beyond virtual-only formats, including heightened presence through embodiment, place, and face-to-face social immersion](real-world-simulations-embodiment-affordances.md) — related

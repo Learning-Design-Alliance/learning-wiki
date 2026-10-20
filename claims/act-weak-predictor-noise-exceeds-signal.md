@@ -62,7 +62,7 @@ Random-slope ACT model variance components. The article concludes that "noise in
 
 
 ## Related Claims
-- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
+- [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
 - [ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal](act-weak-inconsistent-predictor-college-graduation.md) — possibly the same claim (merge candidate)
 - [For four-year (rather than six-year) graduation, ACT scores are slightly predictive but their coefficient is one-sixth the HSGPA coefficient](act-weakly-predicts-four-year-graduation.md) — related
 - [Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates](gpa-and-act-predict-enrollment-college-quality.md) — related

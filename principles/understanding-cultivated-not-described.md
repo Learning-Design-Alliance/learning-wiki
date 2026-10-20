@@ -144,7 +144,7 @@ Understanding shown in an oral explanation of one's own work, judgement of a new
 
 ## Claims
 
-- [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [-W]
+- [Contrasting cases without explicit guidance on their use showed no significant effect on conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [-W]
 - [Empirical case of martial arts instruction grounds the argument that practice can support discovery](../claims/martial-arts-instruction-case-practice-discovery.md) [+W]
 - [One student asked for a disciplinary explanation twelve times during a 53-minute problem-solving process without anyone clarifying it sufficiently](../claims/twelve-unanswered-conceptual-questions.md) [-W]
 

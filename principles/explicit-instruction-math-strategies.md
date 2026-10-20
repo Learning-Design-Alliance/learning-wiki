@@ -147,7 +147,7 @@ Choosing a method, writing a correct equation, solving correctly, explaining why
 
 ## Claims
 
-- [Contrasting cases without explicit guidance on their use do not improve conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [+W]
+- [Contrasting cases without explicit guidance on their use showed no significant effect on conceptual understanding or solution-attempt quality](../claims/unguided-contrasting-cases-no-learning-effect.md) [+W]
 - [VSDR helped students reflect on and adopt alternative problem-solving approaches to tasks](../claims/vsdr-alternative-problem-solving-reflection.md) [+W]
 
 ## Related Principles

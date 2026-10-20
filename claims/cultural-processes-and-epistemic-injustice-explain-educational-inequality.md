@@ -46,7 +46,7 @@ Göktürk, D. (2021). Epistemic Injustice and Cultural Processes in Education. K
 
 Conceptual article (theoretical argument, no new data). It builds a framework from Lamont, Beljean and Clair's cultural processes and Fricker's epistemic injustice, applied to one published ethnography, and concludes these "should be taken into consideration in understanding the production and maintenance of inequalities in education."
 
-> "This article indicates that cultural processes and epistemic injustice forms should be taken into consideration in understanding the production and maintenance of inequalities in education."
+> "The result indicates that cultural processes and epistemic injustice forms should be taken into consideration in understanding the production and maintenance of inequalities in education."
 
 ### Göktürk 2021 (2)
 

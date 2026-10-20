@@ -24,7 +24,7 @@ A corpus of line-level code explanations produced by novice programming students
 ### Claims
 
 - [LLM-based automated assessment of student code self-explanations outperforms semantic similarity methods on a balanced classification task](../claims/llm-assessment-outperforms-semantic-similarity-code-explanations.md) [+W]
-- [LLM-based scoring produces fewer false negatives than Deep Tutor, reducing student frustration from correct explanations judged incorrect](../claims/llm-scoring-fewer-false-negatives-than-deep-tutor.md) [+W]
+- [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](../claims/llm-scoring-fewer-false-negatives-than-deep-tutor.md) [+W]
 
 ## Related Products and Programmes
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing"
-description: "Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing"
+title: "Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing"
+description: "Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing"
 id: pl-student-choice-limited-teacher-driven
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing
+# Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2`
@@ -35,7 +35,7 @@ John F. Pane, Elizabeth D. Steiner, Matthew D. Baird, Laura S. Hamilton. (2015).
 
 `q2 · i?` · `associational · r1`
 
-Implementation analysis combining teacher and student surveys in the 32 NGLC schools; two-thirds to three-quarters of students reported sometimes, rarely, or never choosing materials or topics. Administrators said choice varied by course, teacher, and age of the student.
+Implementation analysis of 32 NGLC schools, combining teacher surveys with student surveys, which were administered in 29 schools (those with students in grade 6 or above, or aged 11 and older); two-thirds to three-quarters of students reported sometimes, rarely, or never choosing materials or topics. Administrators said choice varied by course, teacher, and age of the student.
 
 > "Where flexibility and choice were offered, they appeared to be teacher-driven rather than student-driven—on the survey, most teachers did not report high levels of student choice in content or path."
 

@@ -94,7 +94,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [~W]
 - [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](../claims/creative-inquiry-course-creative-self-efficacy-increase.md) [+W]
 - [Reported teacher self-efficacy for teaching autistic children differs across countries, with relatively high levels in Ireland and the opposite conclusion for German teachers](../claims/country-differences-teacher-self-efficacy-autistic-children.md) [~W]
-- [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
+- [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [+W]
 - [CSE partially mediates anxiety's effect on PEU: the direct ANX–PEU path remains significant but weaker](../claims/cse-partial-mediation-anx-peu-weakened.md) [+W]
 - [Goal orientations moderate self-efficacy perceptions in ways not originally predicted by self-efficacy theory](../claims/goal-orientations-moderate-efficacy-perceptions.md) [~W]
 - [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](../claims/infrequent-experiences-descriptive-self-efficacy-patterns.md) [~W]

@@ -64,7 +64,7 @@ Descriptive survey data from DLP coached teachers on coaching dosage: "more than
 
 
 ## Related Claims
-- [Teachers who report coaching as a voluntary, non-evaluative partnership report more improvement in classroom challenges and higher technology-use confidence](coaching-partnership-voluntary-non-evaluative.md) — related
+- [Teachers who report coaching as a partnership report more improvement in classroom challenges and higher technology-use confidence; voluntary participation and non-evaluative support correlate with improvement in classroom challenges](coaching-partnership-voluntary-non-evaluative.md) — related
 - Coached teachers report significantly higher confidence in their ability to implement impactful technology use — related
 - [Coaching is more effective when it is job-embedded with frequent face-to-face interaction between coach and teacher](job-embedded-coaching-active-learning.md) — related
 - [Coaching is more effective when support is personalized to teachers' needs and classroom contexts](personalized-coaching-coherence-fit.md) — related

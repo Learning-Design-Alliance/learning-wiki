@@ -47,5 +47,5 @@ Contrasting single case: one participant, working remotely on a different day fr
 - [A pedagogical gap separates 4E-informed learning science from the disembodied, individualised pedagogical assumptions encoded in current AI systems](pedagogical-gap-4e-vs-ai-design.md) — a broader claim this one bears on
 - [An AI assistant configured on the ISLE approach can scaffold the epistemic core of inquiry, at the level of feasibility](ai-gem-scaffolds-isle-epistemic-core.md) — related
 - Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — related
-- [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](remote-shift-reduced-collaborative-learning.md) — related
+- [In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before](remote-shift-reduced-collaborative-learning.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related

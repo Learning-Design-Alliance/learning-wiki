@@ -177,7 +177,7 @@ Immediate recall, delayed recall, explanation and transfer are separate claims; 
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
 - [Quality of self-generated examples correlated with knowledge transfer and perceived learning control but not with knowledge retention](../claims/example-quality-correlates-transfer-control.md) [~W]
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
-- [Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
+- [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](../claims/example-correctness-correlations-posttest.md) [~W]
 
 ## Related Principles

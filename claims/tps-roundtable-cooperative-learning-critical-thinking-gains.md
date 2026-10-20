@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders
-description: Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders
+title: Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment
+description: Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment
 id: tps-roundtable-cooperative-learning-critical-thinking-gains
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders
+# Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2` · `i3` large
 
 ## Subclaims
-`q2 i3` Over four months, the cooperative learning group showed a significant pretest-to-posttest gain in total CTTBE critical thinking score while the control group did not, with a large between-group effect size (d = 1.36). [→ Silva 2022](#silva-2022)
+`q2 i3` Over four months, the cooperative learning group showed a significant pretest-to-posttest gain in total CTTBE critical thinking score (+7.60 points) while the control group's small gain (+0.62) was not significant; the difference in gains was large (d = 1.36), though no significance test of the between-group difference is reported. [→ Silva 2022](#silva-2022)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Silva, H., Lopes, J., Dominguez, C., & Morais, E. (2022). Think-Pair-Share and R
 
 `q2 · i3` · `causal · r2`
 
-Quasi-experimental pretest-posttest study of two 4th-grade classes (experimental N = 24, control N = 17) over four months; experimental group pretest M = 33.81, posttest M = 41.42, control pretest M = 34.71, posttest M = 35.32. The article reports "The observed effect size is large (d = 1.36)".
+Quasi-experimental pretest-posttest study of two 4th-grade classes (experimental N = 24, control N = 17) over four months; experimental group pretest M = 33.81, posttest M = 41.42, control pretest M = 34.71, posttest M = 35.32. Paired t-tests within each class: experimental t(23) = −7.30, p < .001; control t(16) = −0.57, p = .577. The article reports "The observed effect size is large (d = 1.36)" for the difference between the two classes' average gains, but reports no significance test of that between-group difference. With two intact classes, class and teacher differences are not separated from the intervention.
 
 > "the experimental group had a significant gain in the CTTBE posttest score compared to the pretest score, while the control group had no significant gain. The observed effect size is large (d = 1.36)."
 

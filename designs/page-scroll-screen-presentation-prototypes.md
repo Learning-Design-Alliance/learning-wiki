@@ -43,7 +43,7 @@ Two HyperTalk word-processing prototypes compared in both experiments. The Page 
 - [Page Revising Coherence Corrections](../claims/page-revising-coherence-corrections.md) [+M]
 - [Writers revising in Page mode backtrack more than Scroll writers, with no difference in total revising time](../claims/page-revising-more-backtracking.md) [+W]
 - [The effect of page-break response cues on locating accuracy depends on the presentation mode read: they help Page readers and hurt Scroll readers](../claims/page-break-response-cues-interaction.md) [~W]
-- [Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [+W]
+- [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [+W]
 - [Reading time did not differ between Page and Scroll, though Page readers tended to backtrack more](../claims/reading-time-null-backtracking-tendency.md) [~W]
 
 ## Related Designs

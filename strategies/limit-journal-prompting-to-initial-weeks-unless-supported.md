@@ -38,12 +38,12 @@ The study found that short-term prompting (four weekly journals) activated cogni
 
 ## Claims
 
-- [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [+W]
+- [Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable](../claims/long-term-prompting-no-added-benefit-declines-regardless.md) [+W]
 - [Short-term prompting increases the quantity of cognitive strategy use in open-ended learning journals, but not the quantity of metacognitive strategy use](../claims/prompting-raises-quantity-of-cognitive-strategy-segments.md) [+W]
 - [Self-efficacy, but not self-reported strategy use, predicts subsequent exam grades in the university course](../claims/self-efficacy-predicts-exam-grades-strategy-use-does-not.md) [+W]
 - [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](../claims/short-term-journal-prompts-increase-cognitive-strategy-use.md) [+W]
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](../claims/short-term-journal-prompts-increase-metacognitive-strategy-use.md) [+W]
-- [Short-term prompting in learning journals does not change university students' self-efficacy](../claims/short-term-prompts-do-not-change-self-efficacy.md) [+W]
+- [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](../claims/short-term-prompts-do-not-change-self-efficacy.md) [+W]
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+M]
 
 ## Related Strategies

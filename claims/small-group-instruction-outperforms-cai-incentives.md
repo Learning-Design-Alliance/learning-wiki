@@ -47,11 +47,11 @@ Meta-regression including all instructional methods and moderators without missi
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Dietrichson J 2020](https://doi.org/10.1002/cl2.1081) | q3 · quant-synthesis · r3 | i1 | this claim |
-| [Dietrichson 2021](https://doi.org/10.1002/cl2.1152) | q3 · quant-synthesis · r3 | i? | [Peer-assisted instruction and small-group instruction by adults have large, robust short-t](peer-assisted-and-small-group-instruction-most-effective.md) (supports) |
+| [Dietrichson 2021](https://doi.org/10.1002/cl2.1152) | q3 · quant-synthesis · r3 | i? | [Peer-assisted instruction and small-group instruction by adults have statistically signifi](peer-assisted-and-small-group-instruction-most-effective.md) (supports) |
 | Sarah Herrera 2021 | q3 · quant-synthesis · r2 | i2 | [Among language-only interventions, instructional practices and one-on-one or small-group d](small-group-language-instruction-larger-effects.md) (supports) |
 | Baker 2014 | q2 · review · r? | i? | [Small-group instructional intervention for students struggling in literacy and English lan](small-group-intervention-literacy-eld-moderate-evidence.md) (supports) |
 | Laura Meyer 2024 | q3 · causal · r2 | i? | [Saga tutoring impacts were larger in schools with fewer staffing challenges and in tutorin](saga-impacts-larger-fewer-staffing-challenges-small-groups.md) (qualifies) |
-| [Bondebjerg 2023](https://doi.org/10.1002/cl2.1345) | q1 · review · r3 | i? | [A 1997 New York City report found that increasing resource room instructional group sizes ](gottlieb-1997-group-size-increase-lowered-reading-scores.md) (qualifies) |
+| [Bondebjerg 2023](https://doi.org/10.1002/cl2.1345) | q1 · review · r3 | i? | [A later review reports that a 1997 New York City report found lower reading achievement af](gottlieb-1997-group-size-increase-lowered-reading-scores.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

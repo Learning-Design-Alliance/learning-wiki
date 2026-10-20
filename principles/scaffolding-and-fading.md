@@ -117,7 +117,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [Fading is associated with fewer unproductive learning events, which the authors link to better learning outcomes](../claims/fading-fewer-unproductive-learning-events.md) [+W] — attached 2026-10-13 from Renkl et al. (2004), which proposed "Fade out worked solution steps successively to support the transition from example study to problem solving".
 - [Metacognitive development exhibits equifinality: multiple viable trajectories challenge linear developmental models](../claims/equifinality-metacognitive-trajectories.md) [-W]
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
-- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
+- [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
 
 ## Objective and learner-valued goal
 
@@ -524,7 +524,7 @@ The paper recommends that librarians provide support while consistently presenti
 
 - [Challenge Support Imbalance Effects Novice Learners](../claims/challenge-support-imbalance-effects-novice-learners.md) [+W]
 - [Qualitative findings: ease of use supports engagement and confidence, but challenge must be tailored to ability and content must be culturally relatable](../claims/koku-qualitative-acceptability-themes.md) [+W]
-- [Teacher support in AI-based instruction is effective only when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
+- [More teacher support in AI-based instruction is not always better; a review found support worked well when balanced with students' autonomy and independent thinking](../claims/teacher-support-benefits-conditional-on-autonomy-balance.md) [~W]
 
 ## Related Principles
 - 

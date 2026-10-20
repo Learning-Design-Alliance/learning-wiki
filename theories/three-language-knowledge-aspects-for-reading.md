@@ -41,7 +41,7 @@ In analyzing how home-school language switching affects reading development, the
 ### Claims
 
 - [Developmental Interdependence Hypothesis](../theories/developmental-interdependence-hypothesis.md) [+M]
-- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts transfer across languages, vocabulary and comprehension do not](../claims/cross-linguistic-transfer-skill-specific.md) [~W]
+- [Cross-linguistic transfer is skill-specific: phonological awareness and print concepts are more likely to transfer across languages, while vocabulary and comprehension are more language-dependent](../claims/cross-linguistic-transfer-skill-specific.md) [~W]
 
 ## Related Patterns
 - 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories
-description: Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories
+title: Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations
+description: Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations
 id: generation-approaches-elicit-more-elaborative-processes
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 1
 ---
 
-# Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories
+# Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q3`
 
 ## Subclaims
-`q3 i?` Learners in the self-explanation-based and inquiry environments developed and tested more hypotheses and related and integrated more than learners in the hypermedia and observational environments, and gave more (self-)explanations than the observational and hypermedia groups. [→ Tessa H. S. Eysink & Ton de Jong 2012](#tessa-h-s-eysink-ton-de-jong-2012)
+`q3 i?` Learners in the self-explanation-based and inquiry environments developed and tested more hypotheses and related and integrated more than learners in the hypermedia and observational environments, Self-explanation-based learners also gave more (self-)explanations than both the observational and hypermedia groups, while inquiry learners gave more than the observational group only. [→ Tessa H. S. Eysink & Ton de Jong 2012](#tessa-h-s-eysink-ton-de-jong-2012)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Tessa H. S. Eysink & Ton de Jong (2012). Does Instructional Approach Matter? How
 
 `q3 · i?` · `causal · r1`
 
-Kruskal-Wallis tests on think-aloud protocol codes for the three elaborative subcategories showed significant differences between the four instructional approaches, with Mann-Whitney pairwise comparisons confirming the generation-based environments engaged more elaborative processing.
+Kruskal-Wallis tests on think-aloud protocol codes for the three elaborative subcategories showed significant differences between the four instructional approaches, with Bonferroni-corrected Mann-Whitney comparisons showing both generation-based environments exceeded both comparison environments on developing and testing hypotheses and on relating and integrating; for giving (self-) explanations, the self-explanation group exceeded both comparison groups but the inquiry group exceeded only the observational group.
 
 > "Signiﬁcant differences between instructional approaches were found for developing and testing hypotheses, χ 2(3, 40) = 29.99, p < .001; relating and integrating, χ 2(3, 40) = 26.52, p < .001; and giv- ing (self-) explanations, χ 2(3, 40) = 19.66, p < .001."
 

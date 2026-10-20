@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content"
-description: "Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content"
+title: "Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity"
+description: "Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity"
 id: educators-rarely-facilitated-connections-between-playlists
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content
+# Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
@@ -35,7 +35,7 @@ Li, L., Maher, B., Weiser, G., Orenstein, A., Chow, E., & Atienza, S. (2019). He
 
 `q2 · i?` · `causal · r2`
 
-Observational study of educator support across introductions, in-game assistance, and debriefings, supplemented by educator interviews. Researchers did not observe students making connections between playlists, activities, or their own lives; educators likewise rarely contextualized e-book content or connected the notebook to other activities.
+Observational study of educator support across introductions, in-game assistance, and debriefings, supplemented by educator interviews. Introductions focused on instructions and logistics, in-game help on logistics and troubleshooting, and debriefings were often unstructured reviews of the activity. Most educators reported in interviews that they did not observe students making connections between playlists, between activities, or to their own lives (two recalled a single instance each), and researchers observed none in sessions; observed educators also rarely contextualized e-book content or connected the notebook to other activities.
 
 > "In all three types of educator support, facilitating connections was not a primary focus and was not consistently included in educators' scaffolding."
 

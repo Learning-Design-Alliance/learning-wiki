@@ -46,7 +46,7 @@ The review categorized direct impacts of AI on SRL into cognition, metacognition
 - [Self-Regulation](../learner-variables/self-regulation.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [SRL interventions combining metacognitive, cognitive, and motivational components were most frequent and, per the authors, had the greatest impact](mixed-srl-strategy-interventions-greatest-impact.md) — related
 - AI-SRL research predominantly focuses on higher education students, with minimal attention to primary education and educators — related
 - [AI-generated diagnostic information is inherently incomplete, focusing on performance data and omitting contextual and motivational information](ai-diagnostic-information-incomplete-contextual-knowledge-needed.md) — related

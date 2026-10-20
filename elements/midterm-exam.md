@@ -58,7 +58,7 @@ Midterms leverage the testing effect — the act of retrieving information stren
 
 ## The evidence by question
 - *In real courses, do quizzes raise achievement, and when, how often and with what questions should they be given?* [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+M]
-- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](../claims/test-anxiety-negative-exam-performance.md) [~M]
+- *Does anxiety about the end-point test lower the scores it records, and do the test's conditions change that?* [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](../claims/test-anxiety-negative-exam-performance.md) [~M]
 - *Do gains learners make with generative AI on coursework show up on midterm and final exams taken without it?* [Students received significantly higher homework scores during GenAI-evaluation periods, but this advantage did not transfer to downstream exams](../claims/genai-homework-advantage-no-transfer.md) [+M]
 
 ## Related Elements

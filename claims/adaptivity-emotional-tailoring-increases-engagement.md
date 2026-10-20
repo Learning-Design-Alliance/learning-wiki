@@ -42,7 +42,7 @@ The review reports, citing its included studies, that "engagement increases when
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does adapting to the learner raise engagement and motivation, and when does it backfire?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **10 distinct studies** (5 review, 2 qualitative, 2 causal, 1 associational), `q2`–`q3`, 1 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does adapting to the learner raise engagement and motivation, and when does it backfire?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **10 distinct studies** (5 review, 2 qualitative, 2 causal, 1 associational), `q2`–`q3`, 2 of 10 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -54,7 +54,7 @@ The review reports, citing its included studies, that "engagement increases when
 | [engagement-1](https://doi.org/10.48550/arxiv.2605.17857) | q2 · qualitative · r? | i? | [Learner engagement was strengthened when the AI tutor adapted to learners' pace and prior ](ai-tutor-pace-adaptation-strengthened-engagement.md) (supports) |
 | [Alexandre Clin Deffarges 2026](https://doi.org/10.48550/arxiv.2609.00584) | q2 · causal · r2 | i? | [The EEG-adaptive exercise condition produced significantly higher cognitive engagement dur](adaptive-mode-higher-eeg-engagement.md) (supports) |
 | [Digital Promise 2020](https://doi.org/10.51388/20.500.12265/99) | q2 · qualitative · r2 | i? | [Students in focus groups were positive about adaptive courseware but reported alignment, a](student-focus-group-perceptions-courseware.md) (qualifies) |
-| [Sibley 2026](https://doi.org/10.1016/j.caeo.2026.100420) | q3 · causal · r3 | i? | [Adaptive versus non-adaptive ITS condition showed no significant differences in mental eff](adaptive-its-no-difference-cognitive-load-enjoyment.md) (qualifies) |
+| [Sibley 2026](https://doi.org/10.1016/j.caeo.2026.100420) | q3 · causal · r3 | i0 · negligible, partial η² ≤ .01, not significant | [Adaptive versus non-adaptive ITS condition showed no significant differences in mental eff](adaptive-its-no-difference-cognitive-load-enjoyment.md) (qualifies) |
 | [Li J 2026](https://doi.org/10.3389/fpsyg.2026.1915839) | q3 · associational · r2 | i?; i2 | [Negative emotional associations of AI-adaptive environments are pronounced among students ](simple-slopes-ai-literacy-low-high.md) (qualifies); [Perceived AI-adaptive learning environments are negatively associated with college student](ai-adaptive-environment-negative-srl-longitudinal.md) (counts against) |
 <!-- synthesis:end -->
 

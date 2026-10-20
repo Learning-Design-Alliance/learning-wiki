@@ -44,7 +44,7 @@ Analysis of drop timing across the two-year data set (Table 5): 8 percent of onl
 
 ## Related Claims
 
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related

@@ -44,7 +44,7 @@ In the study's unassisted second math assignment, administered on average thirty
 
 ## Related Claims
 - [AIfred and ChatGPT produce comparable math scores while assistance is available](aifred-chatgpt-comparable-assisted-math.md) — related
-- [Review-attributed evidence: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
+- [As cited second-hand in an AI-literacy framework paper: ChatGPT use improved short-term essay scores but triggered metacognitive laziness with no significant knowledge-transfer gains](chatgpt-metacognitive-laziness-fan-2025.md) — related
 - [The decisive empirical test of AI-augmented instruction frameworks is whether students retain representational competence when AI support is withdrawn](withdrawal-condition-ai-instruction-frameworks.md) — related
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](ai-assistance-withdrawal-performance-decline.md) — related
 - [FRAC and combined intervention advantages transferred to a new writing task and were retained after AI support was withdrawn](frac-transfer-retention-after-ai-removal.md) — related

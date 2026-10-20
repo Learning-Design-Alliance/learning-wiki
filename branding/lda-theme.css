@@ -285,16 +285,24 @@ body[data-md-color-primary="custom"] {
  * swaps the rendered image without touching the markup mkdocs generates (and without a
  * second <img> that a screen reader would read twice). Paths are relative to this file. */
 [data-md-color-scheme="slate"] .md-logo img,
-[data-md-color-scheme="slate"] .md-nav__button.md-logo img {
+[data-md-color-scheme="slate"] .md-nav__button.md-logo img,
+[data-md-color-scheme="slate"] .lt-logo img {
   content: url("lda-monogram-dawn.svg");
 }
 
 /* The LDA monogram is wider than tall (96 x 62), so at Material's fixed 1.2rem logo height
- * it read as small type. A taller box keeps it legible beside the header controls. */
+ * it read as small type. A taller box keeps it legible beside the header controls. The
+ * long-tail pages (build_longtail.py) carry the same mark at the same size, so the header
+ * does not change as a reader moves between the two tiers. */
 .md-header__button.md-logo img,
-.md-header__button.md-logo svg {
+.md-header__button.md-logo svg,
+.lt-logo img {
   height: 1.7rem;
   width: auto;
+}
+.lt-logo img { display: block; }
+.lt-header a.lt-logo {
+  margin-right: 1rem;
 }
 
 /* ---------- Footer ---------- */

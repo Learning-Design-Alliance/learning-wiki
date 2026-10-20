@@ -33,7 +33,7 @@ A public online data tool developed and maintained by the To&Through Project tha
 
 ### Claims
 
-- [Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](../claims/chicago-2006-2017-attainment-indicator-gains.md) [+W]
+- [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](../claims/chicago-2006-2017-attainment-indicator-gains.md) [+W]
 
 ## Related Products and Programmes
 

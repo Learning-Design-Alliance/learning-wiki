@@ -60,7 +60,7 @@ Cohort comparison across percentile rank groups; the article explains grades dep
 ## Related Claims
 
 - [Double-dose algebra improved test scores but did not reduce algebra failure rates](double-dose-did-not-improve-failure-rates.md) — possibly the same claim (merge candidate)
-- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
 - [The double-dose algebra policy adversely affected non-targeted above-norm students: their algebra grades declined and failure rates increased post-policy](double-dose-policy-harmed-above-norm-grades.md) — related
 - [Below-norm students' algebra test scores improved despite having lower-skill peers post-policy, consistent with additional supports offsetting compositional decline](below-norm-scores-improved-despite-lower-peers.md) — related
 - [Evidence on the policy's effects on 10th-grade geometry outcomes was inconsistent across groups and years](double-dose-geometry-outcomes-inconsistent.md) — related

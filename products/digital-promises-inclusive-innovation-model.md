@@ -74,7 +74,7 @@ An equity-centered research-and-development framework created by Digital Promise
 - [Educators sustained the student voice and leadership tenet by incorporating student input and co-leadership into their ongoing roles](../claims/student-voice-tenet-sustained-educator-practice.md) [+M]
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](../claims/inclusive-innovation-solutions-perceived-met-outcomes.md) [+M]
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](../claims/inclusive-innovation-implementation-barriers.md) [~M]
-- [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](../claims/inclusive-innovation-sustainability-factors.md) [+W]
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](../claims/inclusive-innovation-sustainability-factors.md) [+W]
 - [Sunnyside students participating in the Compact Writing Assignments pilot completed quarterly research papers at a rate more than 15 percent higher than non-participants](../claims/sunnyside-writing-engagement-15-percent-increase.md) [+W]
 
 ## Related Products and Programmes
@@ -390,7 +390,7 @@ Inclusive Innovation is an education R&D model that brings students, families, a
 ### Claims
 
 - [Student Voice Tenet Sustained Educator Practice](../claims/student-voice-tenet-sustained-educator-practice.md) [+M]
-- [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](../claims/inclusive-innovation-sustainability-factors.md) [+W]
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](../claims/inclusive-innovation-sustainability-factors.md) [+W]
 - [District-community Core Team participants across four pilot districts perceived their co-designed solutions successfully met the team-defined intended outcomes](../claims/inclusive-innovation-solutions-perceived-met-outcomes.md) [+W]
 
 ## Related Theories

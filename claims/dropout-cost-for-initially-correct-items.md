@@ -62,6 +62,6 @@ Experiment 1 conditional analyses (Table 1): 23-drop and 5-drop-after-2 groups, 
 
 
 ## Related Claims
-- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length and, the authors judge, unlikely to be due to item difficulty in Experiment 2](dropout-benefits-initially-incorrect-items.md) — related
 - [A 23-item-ISI dropout schedule achieved final cued-recall performance similar to conventional schedules while using significantly fewer test-restudy trials in two experiments](dropout-long-isi-similar-performance-fewer-trials.md) — related
 - [The effectiveness of dropout schedules depends critically on the length of the interval between presentations of an item](dropout-effectiveness-depends-on-interval.md) — related

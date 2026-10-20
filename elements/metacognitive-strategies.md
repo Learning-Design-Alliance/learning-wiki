@@ -42,7 +42,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Metacognitive prompts improve learning](../claims/metacognitive-prompts-improve-learning.md) [+W]
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](../claims/genai-ethics-reflection-versus-copying-boundaries.md) [+W]
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](../claims/genai-ethics-reflection-versus-copying-boundaries.md) [+W]
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+W] — attached 2026-10-17 from van de Kamp et al. (2016), which proposed "A 50-minute metacognitive strategy instruction lesson on divergent thinking for visual arts"; tests this page's relationship.
 - [Elementary teachers more often instruct cognitive strategies than metacognitive strategies during a standardized lesson](../claims/teachers-instruct-cognitive-more-than-metacognitive-strategies.md) [-W]
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](../claims/no-competitiveness-difference-monitoring-bias.md) [~W]

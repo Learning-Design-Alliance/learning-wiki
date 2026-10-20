@@ -50,5 +50,5 @@ Models predicting enrollment among all high school graduates (n=55,084 per the m
 - [School average ACT scores predict college graduation for students with the same individual HSGPA and ACT score, reducing between-school variance by 42 percent, while school poverty is not significant once average ACT is included](school-average-act-explains-school-variance.md) — related
 - [ACT scores show a weak relationship with college graduation, with slope variation across high schools larger than the average signal](act-weak-inconsistent-predictor-college-graduation.md) — related
 - [School-average ACT scores strongly predict individual college graduation, doubling the odds per standard deviation](school-average-act-predicts-graduation.md) — related
-- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
+- [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
 - [Students' grades are a more important predictor of college enrollment than ACT scores, which mainly constrain the selectivity of colleges attended](grades-predict-enrollment-more-than-act-chicago.md) — related

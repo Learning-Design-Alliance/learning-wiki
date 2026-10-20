@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult"
-description: "Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive task..."
+title: "Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult"
+description: "Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive task..."
 id: prior-knowledge-and-prompting-moderate-load-and-interest
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult
+# Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
@@ -44,7 +44,7 @@ Katrin Schuessler, Jenna Koenen, Elke Sumfleth, Marvin Rost. (2026). Variations 
 
 `q3 · i?` · `causal · r?`
 
-Bayesian multilevel ordinal regression results for perceived task difficulty (best-fitting model G1, global non-linear trend) in the N = 360 sample; no standardized effect size is printed for these moderator effects.
+Bayesian multilevel ordinal regression results for perceived task difficulty (best-fitting model G1, global non-linear trend) in the N = 360 sample; prior knowledge and intervention group enter that model as fixed effects (main effects), not as moderators; no standardized effect size is printed for them.
 
 > "Overall, regardless of the intervention group, prior knowledge has an influence on the perceived difficulty of the task. The intervention groups with prompting differ from the groups without prompting in terms of perceived difficulty, that is, intervention groups without prompting perceive the tasks as less difficult."
 

@@ -52,7 +52,7 @@ The review reports, citing Aura, Alho, and Kallio (2023), that role-playing exer
 | [Ahlquist 2020](https://doi.org/10.17161/jomr.v6i1.12051) | q2 · qualitative · r2 | i? | [In the owl game, being shown the solids and working with pictures and labels did not help ](owl-game-body-based-experience-needed-for-solids.md) (supports) |
 | [Palatnik & Abrahamson 2026](https://doi.org/10.1080/10508406.2026.2622059) | q1 · qualitative · r2 | i? | [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) (supports) |
 | [Khan Abdus Salam 2025](https://doi.org/10.7759/cureus.94133) | q2 · causal · r2 | i? | [Focus group participants described role-play as transformative for conceptual clarity and ](role-play-transformative-consent-clarity-confidence.md) (supports) |
-| [ev-6](https://doi.org/10.51388/20.500.12265/316) | q2 · review · r2 | i? | [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' t](readers-theater-alone-no-unique-eb-gains-evidence.md) (counts against) |
+| [Taboada Barber 2026](https://doi.org/10.51388/20.500.12265/316) | q2 · review · r2 | i? | [No evidence demonstrates unique, reliable, or EL-specific gains attributable to readers' t](readers-theater-alone-no-unique-eb-gains-evidence.md) (counts against) |
 <!-- synthesis:end -->
 
 ## Discussion

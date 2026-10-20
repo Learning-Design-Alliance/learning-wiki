@@ -47,7 +47,7 @@ Partial correlational analyses in a study of 56 third-graders, controlling for i
 
 ## Related Claims
 - [Direct subtraction items were solved more accurately and faster than indirect addition items](ds-items-faster-more-accurate-than-ia-items.md) — related
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](magnitude-comparison-more-unique-than-number-line.md) — related
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](magnitude-comparison-more-unique-than-number-line.md) — related
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — a narrower finding that bears on this claim
 - [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](magnitude-processing-stronger-indirect-addition-items.md) — a narrower finding that bears on this claim
 - [The three estimation tasks do not represent the same construct in young children and should not be combined into composites](estimation-tasks-not-same-construct-kindergarten.md) — related

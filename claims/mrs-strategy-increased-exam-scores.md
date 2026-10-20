@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not"
-description: "A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not"
+title: "A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone showed no significant effect"
+description: "A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone showed no significant effect"
 id: mrs-strategy-increased-exam-scores
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not
+# A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone showed no significant effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
@@ -35,7 +35,7 @@ de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact
 
 `q3 · i?` · `causal · r2`
 
-Multilevel analysis of exam score with GPA as predictor in the 2x2 factorial intervention study (N completing per condition 28–44). The article reports the MRS main effect as significant and interprets it as an increased exam score; means were 6.78 (MRS) vs 6.35 (control).
+Multilevel analysis of exam score with GPA as predictor in the 2x2 factorial intervention study (N completing per condition: 44 ME, 27 MRS, 33 ME-MRS, 28 control). The article reports the MRS main effect as significant and interprets it as an increased exam score; means were 6.78 (MRS) vs 6.35 (control).
 
 > "Moreover, a main effect of MRS was found, b = −.26, SE =. 1 2 , t(193.32) =−2.25, p = .025, but no main effect of ME"
 

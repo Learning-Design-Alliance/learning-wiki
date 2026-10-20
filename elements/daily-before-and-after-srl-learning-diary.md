@@ -50,7 +50,7 @@ A daily online learning diary with two sections per learning day. "Before learni
 - [Prompts increased learners' self-efficacy during learning within the prompted group but did not produce between-group differences at mid-learning or post-learning](../claims/prompts-increase-self-efficacy-during-learning.md) [~W]
 - [Self-report measures of SRL capture perceptions of strategy use rather than implementation quality, and a combined trace-data approach may be best](../claims/self-report-srl-limitations-combined-approach.md) [~W]
 - [The choice of online versus offline measures of SRL moderates the strength of the relationship between SRL processes and achievement](../claims/measure-type-moderates-srl-achievement-relation.md) [~W]
-- [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone did not](../claims/mrs-strategy-increased-exam-scores.md) [+W]
+- [A Monitoring and Regulation Strategy delivered online increased university students' exam scores, whereas the Monitoring Exercise alone showed no significant effect](../claims/mrs-strategy-increased-exam-scores.md) [+W]
 - [The intervention did not increase students' SRL aptitude, yet supported higher course grades](../claims/regulatory-support-no-increase-srl-aptitude.md) [~W]
 - [Neither diary-keeping nor diary-plus-instruction improved university students' academic performance](../claims/no-academic-performance-improvement.md) [-W]
 

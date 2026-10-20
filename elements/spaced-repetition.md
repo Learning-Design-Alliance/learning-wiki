@@ -57,7 +57,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 - [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](../claims/spaced-retrieval-multiyear-vocabulary-retention.md) [+W]
 - [The spacing benefit holds even at very short retention intervals, contradicting the Peterson paradox](../claims/spacing-benefit-short-retention-no-peterson-paradox.md) [+W]
 - [Spacing content over time and interweaving different content strengthens learning and retention](../claims/spacing-interleaving-improve-retention.md) [+W]
-- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length or item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
+- [The dropout schedule was particularly effective for initially incorrect items, an advantage not attributable to initial ISI length and, the authors judge, unlikely to be due to item difficulty in Experiment 2](../claims/dropout-benefits-initially-incorrect-items.md) [~W]
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](../claims/expanding-not-better-than-fixed-interval.md) [~W]
 - [Research findings show that various types of learning benefit from spaced study, with demonstrations of these benefits in educational settings](../claims/spacing-benefits-diverse-learning-educational-settings.md) [+W]
 

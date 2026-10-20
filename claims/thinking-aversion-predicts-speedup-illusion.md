@@ -45,7 +45,7 @@ In the prediction sample, Need for Cognition items 3 and 4 showed negative coeff
 
 - [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) — the general claim this finding bears on, with the studies behind it
 - [People are well-calibrated about their own independent completion times](accurate-independent-completion-time-predictions.md) — related
-- [People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
+- [People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)](speedup-illusion-ai-assisted-time-underestimation.md) — related
 - [People expect AI assistance to save far more time than assistance from another highly intelligent human participant](ai-expected-faster-than-human-help.md) — related
 - [Prompting is a major source of AI-assisted cognitive effort: copying prompts reduces effort but not time, and verbose model responses can make AI-assisted completion slower than predicted](prompting-effort-and-verbose-response-costs.md) — related
 - [Slight control over an algorithm's output reduces algorithm aversion, with process control producing the strongest calibration effects](slight-control-reduces-algorithm-aversion.md) — related

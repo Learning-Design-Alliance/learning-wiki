@@ -149,7 +149,7 @@ A good debrief conversation, a correct stated change, the next performance, dela
 
 ## Claims
 
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 - [In one design report on 25 cybersecurity tabletop exercises, the authors observed that trainees consistently wanted more debriefing time than the schedule allowed](../claims/reflection-debriefing-time-underscheduled.md) [+W]
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](../claims/facilitators-prefer-vad-objective-feedback.md) [~W]
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](../claims/peer-students-reconceptualisation-supported.md) [+W]

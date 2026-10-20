@@ -40,7 +40,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Identity-centered making supports STEM engagement and identity affirmation](../claims/identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) [+W] — qualitative, small-sample — indicative of mechanism rather than of effect size
 - [Restorying supports computing identity reconstruction](../claims/restorying-supports-computing-identity-reconstruction.md) [+W] — shows learners actively resisting dominant narratives rather than passively receiving a framing
 - [A regional collective initiative (Teaching is My Favorite Color) provided teachers of color a safe space, belonging, and authentic identity expression](../claims/teaching-is-my-favorite-color-belonging-impact.md) [+W] — instruction changes it
-- [Admiral Squad participation increased Black male educators' confidence, sense of belonging, and sense of purpose](../claims/admiral-squad-confidence-beloning-impact.md) [+W] — instruction changes it
+- [One Black male educator reported that Admiral Squad participation raised his confidence, sense of belonging, and sense of purpose](../claims/admiral-squad-confidence-beloning-impact.md) [+W] — instruction changes it
 - [Belonging is a prerequisite for effective collaborative learning, not merely a positive outcome](../claims/belonging-prerequisite-for-collaborative-learning.md) [+W] — learners who differ on it differ in outcomes
 - [Math tutoring programs may improve students' math confidence and sense of belonging](../claims/tutoring-may-improve-math-confidence-and-belonging.md) [+M] — instruction changes it
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](../claims/microblogging-promotes-interaction-community-language-learners.md) [+M] — instruction changes it
@@ -72,7 +72,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 - [Positive teacher–student relationships relate to math outcomes through self-efficacy, intrinsic motivation, belonging, engagement, and mathematics identity](../claims/relationships-pathways-self-efficacy-motivation-identity.md) [+M] — learners who differ on it differ in outcomes
 - [Sense of mathematics belonging predicts algebra learning, even after controlling for prior knowledge and background factors](../claims/mathematics-belonging-predicts-algebra-learning.md) [+M] — learners who differ on it differ in outcomes
 - [66% of Los Padillas students reported a sense of belonging in 2023–24, well above the 44% for students in the rest of the district](../claims/los-padillas-student-belonging-above-district.md) [+M] — instruction changes it
-- [Getting-to-know-you surveys that surface student-teacher commonalities improved relationships and grades, and closed achievement gaps for Black and Latinx students by more than 60% in one study](../claims/getting-to-know-you-surveys-commonalities-gap-closure.md) [+M] — instruction changes it
+- [In one study summarised in a policy brief, students and teachers who learned their commonalities through getting-to-know-you surveys reported more positive relationships, students earned higher grades, and achievement gaps for Black and Latinx students closed by more than 60%](../claims/getting-to-know-you-surveys-commonalities-gap-closure.md) [+M] — instruction changes it
 - Oakland 11th graders reported improved school connectedness and safety after discipline reform [+M] — instruction changes it
 - Redwood City family engagement participation linked to larger math gains, better attendance, and stronger sense of care [+M] — instruction changes it
 - Students are more likely to feel welcome in AP courses when they see themselves reflected in the curriculum and classmates [+W] — instruction changes it
@@ -107,7 +107,7 @@ Whether a learner expects to be treated as a full participant here — and how m
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
 - *Does a learner's sense of belonging predict motivation, engagement, persistence and achievement?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]
-- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
+- *What in a school or course goes with a stronger sense of belonging?* [Teacher support is among the strongest predictors of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
 
 ## Related Learner Variables
 - Affect regulation — belonging shapes how a setback is felt before any regulation strategy is applied.

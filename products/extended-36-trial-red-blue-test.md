@@ -24,7 +24,7 @@ A computer-based Stroop/Day-Night-adapted assessment for early primary school ch
 
 ### Claims
 
-- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](../claims/rrrp-associated-with-self-regulation-measures.md) [+W]
+- [Fall RRRP scores are significantly associated with working memory and attention measures, and its wait-for-go score with inhibitory-control ratings, in third graders](../claims/rrrp-associated-with-self-regulation-measures.md) [+W]
 
 ## Related Products and Programmes
 

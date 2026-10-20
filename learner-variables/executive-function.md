@@ -13,7 +13,7 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (48 show a difference, 13 mixed, 17 no difference, 2 unmarked) · 45 studies (21 associational, 11 causal, 7 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 11 of 45 report an effect size · 78 claims rest on one study
+> **Evidence** · 80 claims (48 show a difference, 13 mixed, 17 no difference, 2 unmarked) · 45 studies (21 associational, 11 causal, 7 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 12 of 45 report an effect size · 78 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
@@ -89,7 +89,7 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Interference suppression, but not response inhibition, relates to academic achievement and schooling skills](../claims/interference-suppression-not-response-inhibition-predicts-school-competence.md) [~M] — learners who differ on it differ in outcomes
 - [Menstrual cycle phase did not significantly moderate stress effects on cognitive flexibility](../claims/menstrual-phase-no-moderation-flexibility.md) [-M] — an instructional effect differs with it
 - [Most 3–5-year-old children who first learned an inefficient puzzlebox method switched to a witnessed, more efficient alternative](../claims/children-switch-inefficient-to-efficient-puzzlebox.md) [+M] — instruction changes it
-- [Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms](../claims/no-fitness-executive-symptom-changes.md) [-M] — instruction changes it
+- [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](../claims/no-fitness-executive-symptom-changes.md) [-M] — instruction changes it
 - [Neural variability and flexibility may underlie cognitive flexibility, with an optimal level required across the lifespan](../claims/neural-flexibility-supports-cognitive-flexibility.md) [+M] — learners who differ on it differ in outcomes
 - [Obesity (BMI ≥30) is associated with lower performance in verbal abilities, processing speed, and cognitive flexibility in older adults](../claims/obesity-lower-cognitive-performance-old-age.md) [+M] — learners who differ on it differ in outcomes
 - [Obesity is not related to verbal abilities, processing speed, or cognitive flexibility when cognitive reserve in early and midlife is accounted for](../claims/obesity-non-significant-cognitive-reserve-adjusted.md) [-M] — learners who differ on it differ in outcomes

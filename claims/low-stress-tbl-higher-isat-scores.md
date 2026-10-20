@@ -58,7 +58,7 @@ The comparison is between two non-randomised cohorts, medical students in the or
 
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — the general claim this finding bears on, with the studies behind it
 
-- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+- [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it
 - [Medical students in the high-stakes TBL format perceive questions as more difficult and less fair than dental students in the revised format](high-stakes-tbl-questions-seen-harder-less-fair.md) — related

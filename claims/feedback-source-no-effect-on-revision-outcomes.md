@@ -66,5 +66,5 @@ In the same ANCOVA, initial essay quality was a significant covariate, F(1, 64) 
 - [Students' argumentative essay quality improves substantially from initial to revised drafts regardless of feedback source](essay-quality-improves-from-initial-to-revised.md) — related
 - [In one study, feedback quality significantly predicts revised essay quality under teacher feedback but not under either GenAI feedback condition, though the conditions are not compared directly](feedback-quality-predicts-revision-only-in-teacher-condition.md) — related
 - [GenAI feedback quality correlates with initial essay quality while teacher feedback quality does not](genai-feedback-quality-tracks-initial-essay-quality.md) — related
-- [Revising the feedback prompt toward essay-grounded guidance increased feedback specificity odds](prompt-revision-increased-feedback-specificity.md) — related
+- [Revising the feedback prompt toward essay-grounded guidance was associated with more specific feedback in an observational before–after comparison](prompt-revision-increased-feedback-specificity.md) — related
 - [Students' initial knowledge level (midterm scores) did not significantly influence improvement in lab scores, indicating it did not confound the feedback-source difference](midterm-knowledge-did-not-confound-feedback-use.md) — related

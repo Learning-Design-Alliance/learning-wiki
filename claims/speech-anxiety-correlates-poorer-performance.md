@@ -47,5 +47,5 @@ Correlational analysis in the Results section of the two-session study of 61 und
 - [Affect Regulation](../learner-variables/affect-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Public speaking anxiety negatively affects judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — related
+- [Public speaking anxiety is associated with poorer judged speech performance only among individuals low in attentional control](attentional-control-buffers-speech-anxiety-performance.md) — related
 - [Speech length mediates the anxiety-to-judged-quality link only for individuals low in attentional control](moderated-mediation-speech-length-low-acs.md) — a narrower finding that bears on this claim

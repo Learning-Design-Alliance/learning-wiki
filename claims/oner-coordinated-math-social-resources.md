@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · theoretical `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Participants solving a dynamic-geometry problem rely on two major resource categories — mathematical/tool-enabled and collaboration resources — whose coordination characterizes productive math learning. [→ Gerry Stahl 2013](#gerry-stahl-2013)
+`q2 i?` Participants solving a dynamic-geometry problem rely on two major resource categories — mathematical/tool-enabled and collaboration resources — and Öner proposes analyzing the coordination of these resources, which characterizes collaborative dynamic-geometry problem solving, as a way to understand productive math learning (a methodological proposal from a case analysis; no learning outcome was assessed). [→ Gerry Stahl 2013](#gerry-stahl-2013)
 
 ## Evidence
 

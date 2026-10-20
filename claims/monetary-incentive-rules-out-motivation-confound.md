@@ -45,4 +45,4 @@ Authors' interpretation in the Discussion: the study is described as the first t
 ## Related Claims
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
-- [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](quizzing-beats-restudying-and-elaborative-controls.md) — a broader claim this one bears on
+- [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](quizzing-beats-restudying-and-elaborative-controls.md) — a broader claim this one bears on

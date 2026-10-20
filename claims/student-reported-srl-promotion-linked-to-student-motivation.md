@@ -46,6 +46,6 @@ Full-perspective multilevel SEM (167 teachers, 2,785 students); class-level resu
 ## Related Claims
 - [Teachers' self-efficacy for SRL promotion shows significant indirect effects on students' self-efficacy, utility value and attainment value via teacher- and student-reported SRL promotion, with no indirect path to cost](indirect-effects-teacher-self-efficacy-via-srl-promotion.md) — related
 - [No significant direct effects exist between teachers' motivation to promote SRL and students' SRL motivation](no-direct-teacher-student-motivation-effects.md) — related
-- [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](srl-promotion-not-linked-to-student-cost.md) — related
+- [Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level](srl-promotion-not-linked-to-student-cost.md) — related
 - [Teachers' self-efficacy for SRL promotion, but not their attainment value, is positively related to their self-reported SRL promotion when both are modelled simultaneously](teacher-self-efficacy-predicts-srl-promotion.md) — related
 - [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](teacher-scaffolding-strategy-use-performance-phase.md) — related

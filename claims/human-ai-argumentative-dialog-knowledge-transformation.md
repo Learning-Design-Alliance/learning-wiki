@@ -45,4 +45,4 @@ Theoretical position stated in the abstract and elaborated in the discussion. Th
 ## Related Claims
 - [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shift responsibility for knowledge validation, though some engage dialogically](distributed-epistemic-agency-machine-authority.md) — related
 - [GenAI can support learner agency through self-regulated learning, self-efficacy, and feedback literacy under appropriate conditions](genai-agency-supportive-patterns.md) — related
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — related

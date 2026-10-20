@@ -43,7 +43,7 @@ Pairwise comparisons with Bonferroni correction (corrected alpha = .002) in the 
 
 
 ## Related Claims
-- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
 - [Intervention effects on relative metacomprehension accuracy did not differ between school and university students](intervention-effects-school-university-students-no-difference.md) — related
 - [Situation-model-approach interventions also directly improved comprehension, albeit with a small effect](situation-model-interventions-improve-comprehension-small-effect.md) — related
 - [Situation-model-approach interventions produce a medium positive average effect (g = 0.46) on relative metacomprehension accuracy](situation-model-interventions-medium-average-effect-metacomprehension.md) — a broader claim this one bears on

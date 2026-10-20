@@ -46,7 +46,7 @@ Follow-up t-test comparison of N = 43 children in the top quartile for anger or 
 - [Achievement Emotions](../learner-variables/achievement-emotions.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity, with the top third of the distribution rated worst](observed-interest-arousal-predicts-poorer-readiness.md) — related
+- [Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third](observed-interest-arousal-predicts-poorer-readiness.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - [Observed shame expressions during challenging tasks predict greater teacher-rated social competence, work-related skills, and academic skills](observed-shame-predicts-school-readiness.md) — related
 - [Observed anxiety expressions during challenging tasks predict lower teacher-rated work-related and self-regulation skills](observed-anxiety-predicts-lower-work-self-regulation.md) — related

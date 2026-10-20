@@ -59,7 +59,7 @@ Inquiry can build deep conceptual understanding and durable engagement because l
 - [The study's findings suggest AI-supported inquiry-based learning mainly supports creativity and affective development, with limited effect on problem-solving skills](../claims/ai-ibi-mainly-supports-creativity-and-affect.md) [-W]
 - [ChatGPT use in STEAM IBL is reported to enhance learner outcomes including motivation, critical thinking, engagement, and problem-solving](../claims/chatgpt-steam-ibl-learner-advantages.md) [+W]
 - [Learners have a strong natural tendency to induce a rationale from discovered relations, which can evoke erroneous hypotheses about undiscovered relations and reduce inquiry success](../claims/natural-tendency-to-induce-rationale-evokes-error-prone-hypotheses.md) [-W]
-- [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
+- [Open-ended tasks are associated with higher disciplinary engagement in the same observation interval](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
 - [In open-ended constructivist activities, task success or failure is not a reliable indicator of learning, so learner models based only on performance risk misjudging learners](../claims/performance-not-indicator-learning-open-ended.md) [~W]
 - [Task type did not affect time on task, number of unique experiments, duplicated experiments, or percentage of unspecified hypotheses](../claims/task-type-no-effect-time-and-experiment-counts.md) [~W]
 

@@ -43,5 +43,5 @@ Manipulation check in the randomized experiment: overall drawing quality correla
 
 
 ## Related Claims
-- [Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch](scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) — related
+- [Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy](scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) — related
 - [Drawing quality predicted JOLs to a similar extent in both drawing conditions, contrary to the expectation that scaffolds would strengthen this cue use](drawing-quality-predicts-jols-similarly-both-conditions.md) — related

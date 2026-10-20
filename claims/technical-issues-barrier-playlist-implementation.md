@@ -53,7 +53,7 @@ Observational and interview study of four after-school sites; educators reported
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](hero-elementary-notebook-technical-difficulties-projection-loading.md) — related
 - [Motivation, internet connectivity, and hardware/software problems were widespread challenges in remote STEM courses](widespread-remote-stem-challenges-motivation-connectivity.md) — related
 - In informal virtual programs, technology access was the first and most significant barrier to participating in Hero Elementary — related
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](educators-rarely-facilitated-connections-between-playlists.md) — related
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](educators-rarely-facilitated-connections-between-playlists.md) — related
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — a narrower finding that bears on this claim
 - Student engagement with the Science Power Notebooks and eBooks dropped significantly after the transition to distance learning — related
 - [Well-designed courseware enhances efficiency, supports independent student navigation, and lets faculty focus on teaching rather than technical challenges](courseware-efficiency-usability-gateway-math.md) — related

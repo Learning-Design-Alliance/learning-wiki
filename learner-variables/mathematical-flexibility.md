@@ -45,7 +45,7 @@ LVN follows it from preschool to grade 10. Its general counterpart is cognitive 
 - [Preschool working memory–flexibility predicts later math achievement, especially in Grade 3](../claims/preschool-wm-flexibility-predicts-math-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](../claims/wm-flexibility-predicts-math-composite-both-grades.md) [+M] — learners who differ on it differ in outcomes
 - [A 50-minute metacognitive strategy instruction produced positive effects on secondary students' fluency, flexibility and originality of ideas in both cohorts](../claims/strategy-instruction-improves-divergent-thinking.md) [+M] — instruction changes it
-- [After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning](../claims/post-lesson-flexible-perspective-switching.md) [+M] — instruction changes it
+- [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](../claims/post-lesson-flexible-perspective-switching.md) [+M] — instruction changes it
 - [As predicted by the adaptive strategy choice model, children's retrieval frequency correlates with retrieval efficiency but not with procedural efficiency](../claims/retrieval-frequency-correlates-retrieval-efficiency.md) [~M] — learners who differ on it differ in outcomes
 
 ## Measures

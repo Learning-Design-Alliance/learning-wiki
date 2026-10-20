@@ -13,7 +13,7 @@ generated:
 # Self-Monitoring
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 13 claims (4 for, 9 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 4 of 12 report an effect size · 9 claims rest on one study
+> **Evidence** · 13 claims (4 for, 9 mixed) · 12 studies (5 quant-synthesis, 4 causal, 2 associational, 1 theoretical), `q2`–`q4` · 5 of 12 report an effect size · 9 claims rest on one study
 
 ## Description
 Self-monitoring is the element in which learners track their own attention, behavior, progress, or accuracy during learning.
@@ -30,7 +30,7 @@ Self-monitoring is the element in which learners track their own attention, beha
 - [Self Assessment Accuracy Is Low Without Training](../claims/self-assessment-accuracy-is-low-without-training.md) [+M]
 - [Prior Knowledge Needed For Accurate Self Assessment](../claims/prior-knowledge-needed-for-accurate-self-assessment.md) [~M]
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](../claims/self-monitoring-comprehension-improves-learning.md) [+M]
-- [Scaffolded drawing does not improve absolute monitoring accuracy compared with drawing from scratch](../claims/scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) [~W]
+- [Scaffolded drawing showed no significant advantage over drawing from scratch for absolute monitoring accuracy](../claims/scaffolded-drawing-no-better-than-scratch-absolute-monitoring.md) [~W]
 - [Self-scoring improves regulation accuracy for the whole sample, but not significantly for low- and high-performing students on division tasks](../claims/self-scoring-regulation-accuracy-limited-division.md) [~W]
 - [Self-scoring improves primary students' monitoring accuracy on math problem-solving tasks to near-accurate levels](../claims/self-scoring-improves-monitoring-accuracy-math.md) [+W]
 - [Better calibration (lower Absolute Accuracy Index) is associated with higher Word Reading and Composite achievement scores](../claims/absolute-accuracy-index-predicts-reading-composite.md) [~W]

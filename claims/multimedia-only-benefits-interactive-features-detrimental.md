@@ -81,7 +81,7 @@ Meta-analytic subgroup moderator analysis of story comprehension with printed ef
 
 
 ## Related Claims
-- [Multimedia-enhanced stories significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related
+- [Technology-enhanced stories (any digital addition, not multimedia alone) significantly improve expressive vocabulary for children disadvantaged by environmental factors such as low parental education](multimedia-expressive-vocabulary-environmentally-disadvantaged.md) — related
 - [Technology-enhanced stories yield a small but significant additional benefit over traditional story presentations for story comprehension and expressive vocabulary in young children](technology-enhanced-stories-small-benefit-comprehension-expressive-vocabulary.md) — a broader claim this one bears on
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related

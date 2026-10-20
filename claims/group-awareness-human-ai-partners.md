@@ -43,7 +43,7 @@ Theoretical argument extending group awareness research to human-AI collaboratio
 
 
 ## Related Claims
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
 - [Role metaphors positioned GenAI as helper, learning partner, and friend/foe, with a high proportion combining friend and foe](role-metaphors-genai-frenemy-ambivalence.md) — related
 - [Working with imperfect AI outputs under mentor supervision was followed by students developing skepticism and independent debugging skills](ai-error-debugging-builds-student-skepticism.md) — related

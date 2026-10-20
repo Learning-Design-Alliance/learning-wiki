@@ -43,10 +43,10 @@ Teacher interview report from the in-school implementation section of a qualitat
 
 
 ## Related Claims
-- [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
+- [Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
 - [Educators' adaptations of the modified Hero Elementary resources, including accommodations and modifications, provided students with greater access to the virtual learning content](educator-adaptations-greater-access-virtual-content.md) — related
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](hero-elementary-training-discussion-facilitation-online-resources-challenge.md) — related
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — related
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](hero-elementary-playlists-no-significant-science-knowledge-effect.md) — related
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](educators-rarely-facilitated-connections-between-playlists.md) — related
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](educators-rarely-facilitated-connections-between-playlists.md) — related
 - [Digital notebooks presented technical difficulties with projection and loading during in-school implementation.](hero-elementary-notebook-technical-difficulties-projection-loading.md) — related

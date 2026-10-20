@@ -42,7 +42,7 @@ The article recommends administering the SYMP Test as an early screening tool: b
 
 - [The SYMP Test shows convergent validity with a computerized version of the task and discriminant validity against spelling achievement](../claims/symp-convergent-discriminant-validity.md) [+W]
 - [SYMP Test performance correlates moderately and significantly with mathematics achievement in every grade of primary school, for both one-digit and two-digit comparison](../claims/symp-correlates-math-achievement-all-grades.md) [+W]
-- [Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6](../claims/symp-mld-lower-except-grade-6.md) [+W]
+- [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](../claims/symp-mld-lower-except-grade-6.md) [+W]
 - [The SYMP Test shows satisfactory test-retest reliability, with overall-score correlations between .72 and .86 across Grades 1–6](../claims/symp-test-reliable-test-retest-overall-scores.md) [+W]
 
 ## Related Strategies

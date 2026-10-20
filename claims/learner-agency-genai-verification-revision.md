@@ -43,7 +43,7 @@ This is the article's own statement of its second contribution, derived from a f
 ## Related Claims
 - [Assessment design functions as a pedagogical condition shaping how students engage with GenAI during learning](assessment-design-shapes-genai-engagement.md) — related
 - Students, not AI, are the actors associated with knowing, judging and verifying in GenAI higher-education abstracts — related
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [Students exercise ethical agency in GenAI use through human-AI collaboration strategies, personal ethical frameworks, strategic calibration of use, and resistance to over-reliance](student-ethical-agency-genai-use.md) — related
 - [AI's role in shaping interaction, epistemic agency, and shared regulation in collaborative learning remains under-theorized](ai-role-collaborative-learning-undertheorized.md) — a broader claim this one bears on

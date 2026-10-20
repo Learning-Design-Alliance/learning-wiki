@@ -44,7 +44,7 @@ Descriptive comparison of SIG model adoption reported in the brief's introductio
 
 ## Related Claims
 - [Rural SIG schools reported additional challenges from remote locations and large catchment areas beyond those reported by nonrural SIG schools](rural-sig-schools-additional-location-challenges.md) — related
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
 - [Over 96 percent of surveyed low-performing schools adopted three SIG-promoted improvement practices: data-informed differentiated instruction, expanded technology access or computer-assisted instruction, and collaborative or leader-facilitated ongoing professional development](sig-schools-adopt-three-improvement-practices.md) — related
 - [Rural schools were far more likely than nonrural schools to offer Project On-Track tutoring during school only](ontrack-rural-schools-during-school-tutoring.md) — related

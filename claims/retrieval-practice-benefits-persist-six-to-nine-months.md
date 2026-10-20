@@ -62,7 +62,7 @@ The chapter reports, citing Carpenter et al. (2009), research with middle-school
 
 ## Related Claims
 
-- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
+- [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Enhances Long Term Retention](retrieval-practice-improves-retention.md)
 - [Classroom quizzing delivered by clickers, computer software, or paper improves student performance on classroom exams in middle school and college courses](classroom-quizzing-improves-exam-performance-across-grades-and-content.md) — related
 - [Most middle and high school students surveyed after classroom retrieval practice programs viewed them positively and said frequent retrieval practice helped them feel less nervous about exams](students-report-classroom-retrieval-practice-helps-learning-and-reduces-exam-nervousness.md) — related

@@ -46,6 +46,6 @@ Hierarchical regression on the full sample with IQ at step 1 (R2 = 0.47); step 2
 
 ## Related Claims
 - [Math anxiety predicts mathematics achievement in linear regression (R2=.357)](math-anxiety-predicts-achievement-regression.md) — related
-- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
 - [Children with MLD score lower in self-image than typical and high achievers when IQ is partialled out](mld-lower-self-image-than-ta-ha.md) — related
 - [Children with MLD report higher learning mathematics anxiety than LA, TA, and HA peers, but not higher evaluation anxiety](mld-higher-lma-not-mea.md) — related

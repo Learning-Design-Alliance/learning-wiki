@@ -124,7 +124,7 @@ Do not promise a gain from "using the CoI framework" or "designing for three int
 
 ## The evidence by question
 
-- *Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* [Grades are lower both for courses taken online and in future courses](../claims/online-course-lower-grades-current-and-future.md) [~M]
+- *Do learners do as well, and stay as long, in a fully online course as in the same course face to face?* [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](../claims/online-course-lower-grades-current-and-future.md) [~M]
 - *Does building self-regulation support (planning, if-then plans, self-checks) into an online course improve learning and completion?* [Self-regulated learning interventions have a moderate effect (0.65) on learning outcomes in online and blended environments](../claims/srl-interventions-moderate-effect-online-blended.md) [+M]
 - *Does structuring online group discussion (roles, group rewards, a student-led group task) raise achievement, or only participation and attitudes?* [Structuring positive interdependence (role, reward, or both) did not affect posttest achievement for undergraduate business majors in asynchronous online small group work](../claims/interdependence-type-no-achievement-effect-asynchronous.md) [-M]
 - *What should an online discussion prompt ask learners to do?* [Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice](../claims/information-exchange-prompts-higher-transactivity.md) [+W]
@@ -156,7 +156,7 @@ This pattern is scoped to the shape of a mostly online course across a term. How
 
 - [Interactivity, information sharing, and collaborative environment are each positively associated with perceived social presence in agentic AI-supported online learning](../claims/affordances-positive-social-presence-agentic-ai.md) [~W]
 - [Learner-instructor and learner-content engagement strategies are negatively associated with digital distraction in online courses](../claims/instructor-content-engagement-associated-lower-distraction.md) [~W]
-- [Collaborative learning opportunities largely disappeared when courses shifted to remote instruction](../claims/remote-shift-reduced-collaborative-learning.md) [+W]
+- [In case-study courses that shifted to remote instruction, few instructors offered collaborative learning activities, and some dropped ones used before](../claims/remote-shift-reduced-collaborative-learning.md) [+W]
 - [Disclosing personal histories related to course topics tends to lead to longer and deeper discussion threads, especially when instructors encourage such identity presence](../claims/identity-presence-deeper-discussion-threads.md) [~W]
 - [The Web-based learning literature supports the assumption that interaction is important for a successful online course, while questions remain about its nature, extent, and effects on performance.](../claims/interaction-assumed-important-online-course-questions-remain.md) [+W]
 - [Students rated icebreaker/introduction discussions and collaborative work with online communication tools as the most beneficial learner-to-learner strategies](../claims/icebreaker-collaboration-top-learner-learner-strategies.md) [+W]

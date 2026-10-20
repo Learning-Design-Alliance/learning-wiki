@@ -13,7 +13,7 @@ sources:
     resource: "http://www.taylorandfrancis.com/"
     title: "Schunk, D. H. (1995). Self-efficacy, motivation, and performance. Journal of Applied Sport Psychology, 7(2), 112-137. http://www.taylorandfrancis.com/"
     author: Schunk, D. H.
-    q: 3
+    q: 2
     i: "?"
     kind: review
     rigour: 2
@@ -30,10 +30,10 @@ sources:
 # Peer models raised self-efficacy and skill better than teacher models, but model-competence findings conflict across studies
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · review `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · review `r2` · `q2`–`q3`
 
 ## Subclaims
-`q3 i?` Schunk and Hanson (1985) found peer models increased self-efficacy for learning, posttest self-efficacy, and skill better than a teacher model or no model. [→ Schunk 1995](#schunk-1995)
+`q2 i?` Schunk and Hanson (1985), as reviewed by Schunk (1995), found peer models increased self-efficacy for learning, posttest self-efficacy, and skill better than a teacher model or no model. [→ Schunk 1995](#schunk-1995)
 `q3 i?` Lirgg and Feltz (1991) found skilled adult or peer models both outperformed controls, conflicting with the peer-model advantage. [→ Schunk 1995 (2)](#schunk-1995-2)
 
 ## Evidence
@@ -42,9 +42,9 @@ sources:
 
 Schunk, D. H. (1995). Self-efficacy, motivation, and performance. Journal of Applied Sport Psychology, 7(2), 112-137. http://www.taylorandfrancis.com/
 
-`q3 · i?` · `review · r2`
+`q2 · narrative review · i?` · `review · r2`
 
-Experiment in which low-achieving children observed videotaped peer mastery, peer coping, or adult teacher models during subtraction instruction. All model conditions showed higher motivation than no-model subjects; mastery and coping conditions did not differ.
+Narrative review summarizing the Schunk and Hanson (1985) experiment, in which low-achieving children observed videotaped peer mastery, peer coping, or adult teacher models during subtraction instruction; Schunk (1995) reports that experiment and did not run it. All model conditions showed higher motivation than no-model subjects; mastery and coping conditions did not differ.
 
 > "Peer models increased self-efficacy for learning and posttest self-efficacy and skill better than the teacher model or no model; teacher-model children outperformed no-model students."
 

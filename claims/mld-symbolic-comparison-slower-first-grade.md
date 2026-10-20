@@ -48,4 +48,4 @@ Repeated measures ANOVA on reaction times of 82 first graders (20 MLD, 21 LA, 41
 ## Related Claims
 - [Children with LA show a less severe impairment pattern than children with MLD, differing only on symbolic approximate addition](la-less-severe-pattern-than-mld.md) — related
 - [Children with MLD and LA are less accurate than TA children on symbolic but not non-symbolic approximate addition](symbolic-approximate-addition-group-deficit.md) — related
-- [Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6](symp-mld-lower-except-grade-6.md) — related
+- [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](symp-mld-lower-except-grade-6.md) — related

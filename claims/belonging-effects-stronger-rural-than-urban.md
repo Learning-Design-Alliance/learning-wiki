@@ -46,5 +46,5 @@ Moderator analysis within the meta-analysis of 51 studies (N = 67,378). The arti
 
 ## Related Claims
 
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
 -

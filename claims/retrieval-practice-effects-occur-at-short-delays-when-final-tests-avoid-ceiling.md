@@ -62,7 +62,7 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 
 ## Related Claims
 
-- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
+- [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval Practice Improves Retention](retrieval-practice-improves-retention.md)
 - [Retrieval practice effects on mediator-cued final tests have been positive, but Coppens et al. (2016) concluded the true effect may be only about 0.10 to 0.20](mediator-cued-final-test-effects-of-retrieval-practice-may-be-small.md) — a narrower finding that bears on this claim
 - [Repeated retrieval practice alters the rate at which learned items are forgotten, according to learn-to-criterion studies and forgetting-curve analyses the chapter reviews](repeated-retrieval-alters-the-rate-of-forgetting.md) — related
@@ -72,4 +72,4 @@ The chapter's own methodological argument: because restudy reexposes the whole s
 - [Testing benefits retention over a conservative restudy control, establishing the testing effect as robust](testing-effect-robust-versus-restudy-control.md) — related
 - [The testing effect is largest at a retention interval of 1–6 days (g = 0.82) and robust across all intervals](retention-interval-one-to-six-days-largest.md) — related
 - [Offering a monetary incentive in both test and study conditions strengthens the case that testing has a true learning advantage over motivated restudy](monetary-incentive-rules-out-motivation-confound.md) — related
-- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](ttst-advantage-not-different-at-5min-24h.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related

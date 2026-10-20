@@ -43,5 +43,5 @@ The brief reports U.S. Department of Education statistics on four-year adjusted 
 
 
 ## Related Claims
-- [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — related
+- [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with learning disabilities, mild cognitive disabilities or emotional disturbances than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related

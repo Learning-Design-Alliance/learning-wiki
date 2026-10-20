@@ -43,7 +43,7 @@ sources:
 # Autonomy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 37 claims (12 for, 23 mixed, 2 against) · 41 studies (12 review, 7 theoretical, 6 causal, 6 qualitative, 4 associational, 3 quant-synthesis, 3 design), `q1`–`q4` · 5 of 41 report an effect size · 29 claims rest on one study
+> **Evidence** · 37 claims (12 for, 23 mixed, 2 against) · 40 studies (12 review, 7 theoretical, 6 causal, 6 qualitative, 3 quant-synthesis, 3 associational, 3 design), `q1`–`q4` · 4 of 40 report an effect size · 28 claims rest on one study
 
 ## Conditional relationship
 
@@ -169,7 +169,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Students perceived AIvaluate assessments as reducing social pressure and offering flexible pacing and ease of use, but noted technical challenges and lack of dynamic human interaction](../claims/aivaluate-thematic-advantages-and-limitations.md) [+W]
 - Constrained Authoring Improves Puzzle Quality [+M]
 - [Meaningful choice about learning tasks increases interest, but only under boundary conditions](../claims/meaningful-choice-increases-interest-limited.md) [~W]
-- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
+- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
 - [People offered a reward generally choose the easiest possible task, whereas children without rewards pick tasks just beyond their current ability](../claims/rewards-easiest-task-choice.md) [+W]
 
 ## Related Principles

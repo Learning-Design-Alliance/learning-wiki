@@ -47,5 +47,5 @@ One-way ANOVA on the full sample (n = 1,588) comparing grades on the one-digit s
 
 ## Related Claims
 - [SYMP Test performance correlates moderately and significantly with mathematics achievement in every grade of primary school, for both one-digit and two-digit comparison](symp-correlates-math-achievement-all-grades.md) — related
-- [Typically achieving children outperform children with mathematical learning difficulties on both SYMP subtests in all grades except Grade 6](symp-mld-lower-except-grade-6.md) — related
+- [Typically achieving children outperform children with mathematical learning difficulties on the SYMP one-digit subtest in Grades 1–5 and the two-digit subtest in Grades 2–5, but not in Grade 6](symp-mld-lower-except-grade-6.md) — related
 - [The association between one-digit comparison and mathematics achievement decreases across grades, while the two-digit association remains stable](one-digit-math-association-decreases-with-grade.md) — related

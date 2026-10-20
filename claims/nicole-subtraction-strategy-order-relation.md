@@ -65,5 +65,5 @@ The authors' discussion of Nicole's case states the subtraction strategy is nove
 - [Operations and Place Value](../learner-variables/operations-and-place-value.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [After a lesson series, students can flexibly switch between mathematically correct number-line reasoning and context-based absolute-value reasoning](post-lesson-flexible-perspective-switching.md) — related
+- [After a lesson series, two sixth graders could switch flexibly between perspectives when comparing negative integers; one distinguished number-line order from context-based absolute-value reasoning about debts](post-lesson-flexible-perspective-switching.md) — related
 - [Students' errors on the desk-scale number line cluster on subtracting a negative number, with fewer errors on subtracting a positive from a negative or adding a negative to a positive](snl-errors-subtracting-negative.md) — related

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits
-description: After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits
+title: Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions
+description: Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions
 id: inclusive-innovation-sustainability-factors
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits
+# Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
@@ -35,7 +35,7 @@ Viki M. Young, Ph.D. and Alexandra Merritt Johnson, Ph.D. (2024). Sustainability
 
 `q2 · i?` · `qualitative · r2`
 
-Thematic analysis of semi-structured interviews conducted in spring 2023 with 21 students, 8 teachers and instructional coaches, and 3 school and district leaders across four pilots, coded for sustainability constructs. The analysis found "key lessons emerged: garnering buy-in at multiple levels of the district system" plus iteration, embedding, and demonstrating benefits.
+Thematic analysis of semi-structured interviews and focus groups conducted in spring 2023 (respondents: 21 students, reached through focus groups or interviews, 8 teachers and instructional coaches, and 3 school and district leaders) across four pilots, coded for sustainability constructs, plus pilot artifacts. The four factors are lessons the authors drew from these qualitative accounts, not factors shown to cause sustainability; the authors note sustainability blurred with ongoing implementation, since pilots ended between December 2022 and March 2023. The analysis found "key lessons emerged: garnering buy-in at multiple levels of the district system" plus iteration, embedding, and demonstrating benefits.
 
 > "As we examined what aspects of the original solution each district continued to implement and factors that helped explain their ability to do so, key lessons emerged: garnering buy-in at multiple levels of the district system; iterating on implementation to improve sustainability; embedding the solution and leveraging existing systems; and demonstrating the beneﬁts of the solution."
 

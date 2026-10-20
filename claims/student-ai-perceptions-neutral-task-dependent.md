@@ -43,7 +43,7 @@ Systematic literature review (PRISMA framework) synthesizing recent studies of A
 
 
 ## Related Claims
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — a narrower finding that bears on this claim
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — a narrower finding that bears on this claim
 - [The review reports some evidence that over-dependence on AI contributes to cognitive offloading and decreased independent reasoning, while guided AI use can be helpful](ai-overdependence-cognitive-offloading-guided-use-helpful.md) — related
 - [AI integration in academic settings has outpaced regulatory frameworks, leaving ethical practices, assessment, and institutional responses inconsistent](ai-adoption-outpaces-regulatory-frameworks-inconsistency.md) — related
 - [Faculty attitudes toward AI fall into four profiles—optimistic, critical, critically reflective, and neutral—and optimistic faculty with high AI self-efficacy are more likely to adopt AI](faculty-four-ai-attitude-profiles.md) — related

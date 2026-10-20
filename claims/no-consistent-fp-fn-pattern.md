@@ -43,7 +43,7 @@ Null observational finding from the rubric-item-level error analysis across five
 
 
 ## Related Claims
-- [LLM-based scoring produces fewer false negatives than Deep Tutor, reducing student frustration from correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
+- [LLM-based scoring produced fewer false negatives than Deep Tutor on a balanced test set, which the authors expect would spare students the frustration of correct explanations judged incorrect](llm-scoring-fewer-false-negatives-than-deep-tutor.md) — related
 - [Some LLMs exhibit a selection bias against selecting option D on multiple-choice pedagogy questions](llm-selection-bias-against-option-d.md) — related
 - [GPT models showed lower accuracy with more rubric-related errors (28% vs. 13% for Gemini 3 Flash) and near parity between false positives and negatives](gpt-models-more-rubric-errors-than-gemini.md) — related
 - [AI grading errors concentrate in graphical tasks and include both false positives on incorrect equations and false negatives from misread sketches and labels](ai-grading-failure-modes-graphical-tasks.md) — related

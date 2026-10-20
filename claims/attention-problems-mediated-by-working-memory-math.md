@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
-description: Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
+title: In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
+description: In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
 id: attention-problems-mediated-by-working-memory-math
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
+# In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q3`
 
 ## Subclaims
-`q3 i?` Attention problems had no direct paths to either NO or MR; their effects ran through WM regardless of task verbal load. [→ Wu 2017](#wu-2017)
+`q3 i?` In the structural equation models, attention problems had no direct paths to either NO or MR; their associations ran through WM regardless of task verbal load. The data are cross-sectional, so the paths cannot show the direction of cause. [→ Wu 2017](#wu-2017)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Wu, S. S., Chen, L., Battista, C., Watts, A. K. S., Willcutt, E. G., & Menon, V.
 
 `q3 · i?` · `associational · r3`
 
-Discussion of the SEM results in 330 children; in the models, attention showed significant negative paths to WM, and for MR an additional indirect path via reading achievement.
+Discussion of the SEM results in 330 children; in the models, attention showed significant negative paths to WM, and for MR an additional indirect path via reading achievement. The paths are modelled associations: the authors state that the cross-sectional design could not determine the direction of causality.
 
 > "in contrast to math anxiety, the effect of attention problems was fully mediated by WM regardless of the non-verbal or verbal nature of the math task. Consequently, attention problems did not have any direct paths to either NO or MR."
 
@@ -50,7 +50,7 @@ Discussion of the SEM results in 330 children; in the models, attention showed s
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
 - [Reading comprehension significantly predicts verbal Math Reasoning but not non-verbal Numerical Operations](reading-comprehension-predicts-mr-not-no.md) — related
 - [Math anxiety has both a direct negative effect and a WM-mediated indirect effect on children's verbal Math Reasoning, but only an indirect effect on Numerical Operations](math-anxiety-direct-effect-verbal-math-reasoning.md) — related
-- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
 - [Verbal working memory directly and positively predicts math performance in grades 3 and 4](verbal-wm-predicts-math-grades-3-4.md) — related
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
 - [Processing speed affects math achievement directly and both reading and math indirectly through working memory](ps-direct-math-indirect-wm-academic-effects.md) — related

@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q2`
 
 ## Subclaims
-`q2 i?` AI predictive analytics enables early identification of at-risk students and data-driven interventions that improve academic performance and collaborative learning performance. [→ Kovari 2025](#kovari-2025)
+`q2 i?` A systematic review reports, citing Villanueva et al. (2018), that AI models predict student outcomes and identify at-risk students early enough for timely intervention, and, citing Ouyang et al. (2023), that combining AI with learning analytics for continuous feedback improved collaborative learning performance and satisfaction. [→ Kovari 2025](#kovari-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Kovari, A. (2025). A systematic review of AI-powered collaborative learning in h
 
 `q2 · i?` · `review · r2`
 
-The review's synthesis of predictive-analytics studies (narrative review attributing this to Villanueva et al., 2018) reports that AI models predict student outcomes from summative and formative data, with "early identification of at-risk students" enabling timely interventions. No effect sizes are printed.
+A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. Citing Villanueva et al. (2018), it reports that AI models predict student outcomes from summative and formative data, with "early identification of at-risk students" enabling timely interventions; Villanueva is cited for prediction, not for an intervention that improved performance. The improvement in collaborative learning performance and satisfaction it attributes separately to Ouyang et al. (2023), who combined AI and learning analytics to give continuous feedback. No effect sizes are printed.
 
 > "AI models can predict student outcomes through a combination of summative and formative data. Such predictive capabilities consider the early identification of at-risk students, enabling timely interventions"
 

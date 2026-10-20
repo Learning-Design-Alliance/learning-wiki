@@ -62,4 +62,4 @@ Longitudinal SoCQ study of Kansas elementary teachers implementing SCIS, assesse
 - [Anticipating a workshop versus having prior workshop experience differentiates teachers' concern profiles](prior-workshop-experience-differentiates-concerns.md) — related
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
 - Reentry teachers without mentors made the greatest progress through Fuller's stages; reentry teachers with mentors developed very limitedly — related
-- [Brief 1–2 day training moved participants from Stage 0–1 toward Stage 1–2, while sustained courses supported progression toward Stages 3–4 (observational)](ncstate-brief-training-stage-movement.md) — a narrower finding that bears on this claim
+- [After brief 1–2 day training, participants showed behaviors consistent with movement from Stage 0–1 toward Stage 1–2, and sustained courses were associated with Stage 3–4 behaviors (observational; no pre/post measure or comparison group)](ncstate-brief-training-stage-movement.md) — a narrower finding that bears on this claim

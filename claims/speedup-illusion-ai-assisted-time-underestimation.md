@@ -1,7 +1,7 @@
 ---
 type: claim
-title: People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)
-description: People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)
+title: People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)
+description: People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)
 id: speedup-illusion-ai-assisted-time-underestimation
 aliases: [speedup-illusion-ai-time-savings]
 status: review
@@ -28,7 +28,7 @@ sources:
     rigour: 3
 ---
 
-# People significantly underestimate AI-assisted completion times even though actual AI-assisted and independent completion times do not differ (the speedup illusion)
+# People significantly underestimate AI-assisted completion times on simple cognitive tasks, even though AI assistance saves little or no actual time (the speedup illusion)
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 causal `r3` · `q3`
@@ -47,7 +47,7 @@ Sunny Yu, Myra Cheng, Ahmad Jabbar, Ilia Sucholutsky, Katherine M. Collins, Dan 
 
 `q3 · i?` · `causal · r3`
 
-Preregistered between-subjects behavioral study (prediction and completion samples, N=1237) fitting a linear mixed-effects model of predicted vs. actual times. The article reports "the actual completion time was almost one minute greater than the predicted time" for AI assistance, holding across all four task categories and both difficulty levels.
+Preregistered between-subjects behavioral study (prediction and completion samples, N=1237) fitting a linear mixed-effects model of predicted vs. actual times. The article reports "the actual completion time was almost one minute greater than the predicted time" for AI assistance, holding across all four task categories and both difficulty levels. Overall, actual AI-assisted and independent completion times did not differ, but AI assistance did make difficult tasks faster, by 26.14 seconds (SE = 11.9, p < .05); no difference was found for easy tasks.
 
 > "the actual completion time was almost one minute greater than the predicted time (β=57.8,SE=8.79,z=6.57,p<0.001). The speedup illusion holds across all four task categories and both difficulty levels."
 

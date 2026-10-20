@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Open-ended tasks are associated with higher subsequent disciplinary engagement
-description: Open-ended tasks are associated with higher subsequent disciplinary engagement
+title: Open-ended tasks are associated with higher disciplinary engagement in the same observation interval
+description: Open-ended tasks are associated with higher disciplinary engagement in the same observation interval
 id: open-ended-tasks-higher-disciplinary-engagement
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# Open-ended tasks are associated with higher subsequent disciplinary engagement
+# Open-ended tasks are associated with higher disciplinary engagement in the same observation interval
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2` · `i0` negligible
 
 ## Subclaims
-`q2 i0` In Model 2, the time-varying task feature open-ended task had a small positive, credible-interval-significant regression on disciplinary engagement (0.08), while its regressions on CE (0.03) and ME (0.04) were negligible. [→ Rogat 2026](#rogat-2026)
+`q2 i0` In Model 2, the time-varying task feature open-ended task had a small positive, credible-interval-significant regression on disciplinary engagement (0.08), while its regressions on CE (0.03) and ME (0.04) were not credibly different from zero. The association is contemporaneous (same interval), not a lagged prediction of later engagement. [→ Rogat 2026](#rogat-2026)
 
 ## Evidence
 

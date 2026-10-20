@@ -114,7 +114,7 @@ The core interpretive point is that "is lecture effective?" is the wrong questio
 
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — the general claim this finding bears on, with the studies behind it
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — a related, more recent body of evidence on when moving away from pure lecture format matters most
-- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [Unassisted discovery produces less learning than explicit instruction, while discovery enhanced with guidance outperforms other instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Case-based learning improves exam performance](case-based-learning-improves-exam-performance.md) — related
 - [E-teachers reported shifting from lecture-based, teacher-as-source teaching toward a facilitator role in the online classroom](e-teachers-widen-object-toward-independent-learning.md) — related

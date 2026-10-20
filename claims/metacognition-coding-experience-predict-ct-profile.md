@@ -35,7 +35,7 @@ Tanya Chichekian, Maria Cutumisu, Annie Savard and Yi-Mei Zhang. (2026). Profili
 
 `q2 · i?` · `associational · r1`
 
-Linear discriminant analysis (Box's M = 4.747, p = .593, equal covariance assumption met) tested metacognitive strategies and coding experience as predictors of profile membership. The article reports "Wilks' λ = .62, p < .001" with metacognition contributing more strongly; no standardized effect size is printed.
+Linear discriminant analysis (Box's M = 4.747, p = .593, equal covariance assumption met) tested metacognitive strategies and coding experience as predictors of profile membership. The article reports "Wilks' λ = .62, p < .001" with metacognition contributing more strongly (standardized discriminant coefficient = .78). That coefficient is a weight within the discriminant function, not a between-group effect size, so no magnitude of the kind the `i` code reads (a d or equivalent) is printed; the analysis is associational and cannot show that metacognition or coding experience causes profile membership.
 
 > "MetaCog (M = 5.73, SD = .84) and CodExp significantly predicted Proficient profile membership (Wilks' λ = .62, p < .001), with MetaCog contributing more strongly (standardized coefficient = .78)."
 

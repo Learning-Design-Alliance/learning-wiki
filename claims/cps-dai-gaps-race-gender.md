@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` If underlying rates do not change, 10 percent of Black young men and 13 percent of Latino young men who were ninth-graders in 2017 are predicted to earn a bachelor's degree in 10 years, compared to the 19 percent district average; within each racial group, young women outpace young men by 9–10 percentage points. [→ Nagaoka 2018](#nagaoka-2018)
+`q2 i?` If underlying rates do not change, 10 percent of Black young men and 13 percent of Latino young men who were ninth-graders in 2017 are predicted to earn a bachelor's degree in 10 years, compared to the 19 percent district average; within each racial group young women outpace young men, by 9 percentage points among Black students and 10 among Latino students (Table 2 shows 19 among White and 13 among Asian students). [→ Nagaoka 2018](#nagaoka-2018)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Nagaoka, J., & Seeskin, A. (2018). The Educational Attainment of Chicago Public 
 
 `q2 · i?` · `associational · r2`
 
-Descriptive subgroup analysis of the milestone rates composing the Bachelor's DAI, shown in Table 2 for 26,817 first-time ninth-graders. The brief reports Black young women are "9 percentage points and Latina young women are 10 percentage points more likely" to earn a degree than male peers.
+Descriptive subgroup analysis of the milestone rates composing the Bachelor's DAI, shown in Table 2 for 26,817 first-time ninth-graders. The brief reports Black young women are "9 percentage points and Latina young women are 10 percentage points more likely" to earn a degree than male peers; in Table 2 the gap is larger for White (53% vs 34%) and Asian (59% vs 46%) students.
 
 > "we predict that 10 percent of Black young men and 13 percent of Latino young men who were ninth-graders in 2017 will have a bachelor’s degree in 10 years, compared to the district average of 19 percent."
 

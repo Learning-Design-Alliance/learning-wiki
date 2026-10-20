@@ -43,7 +43,7 @@ Second meta-analysis coded on mean comprehension test performance per participan
 
 
 ## Related Claims
-- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
 - [Comprehension-test expectancy tended to be more effective than delayed-keywords listing and rereading, though interventions did not substantially differ overall](test-expectancy-tendency-larger-than-keywords-rereading.md) — related
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [Situation-model-approach interventions produce a medium positive average effect (g = 0.46) on relative metacomprehension accuracy](situation-model-interventions-medium-average-effect-metacomprehension.md) — related

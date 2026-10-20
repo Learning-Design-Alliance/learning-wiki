@@ -38,7 +38,7 @@ The evaluation method used for this report: a quasi-experimental, matched compar
 
 ## Claims
 
-- [The Kauffman School had positive, statistically significant, educationally meaningful impacts on student achievement growth in mathematics, reading, and science during 2011-2012 through 2013-2014](../claims/kauffman-school-positive-achievement-impacts-three-subjects.md) [+W]
+- [The Kauffman School had substantial positive, statistically significant impacts on student achievement in mathematics, reading, and science during its first three years of operation](../claims/kauffman-school-positive-achievement-impacts-three-subjects.md) [+W]
 - [The Kauffman School raised student attendance by approximately 1 percentage point relative to comparison students](../claims/kauffman-school-attendance-impact-one-percentage-point.md) [+W]
 - [The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City](../claims/kauffman-suspension-rate-substantially-higher.md) [+W]
 

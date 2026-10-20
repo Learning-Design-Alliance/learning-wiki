@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues
-description: The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues
+title: The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues
+description: The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues
 id: photon-fusion-sus-good-but-variable-usability
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues
+# The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · design `r2` · `q2`

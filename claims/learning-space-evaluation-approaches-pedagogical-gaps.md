@@ -44,5 +44,5 @@ This is the review's own critical-comparison activity, stated in its abstract: s
 
 ## Related Claims
 - [The review identifies gaps in existing evaluative approaches for physical learning environments](gaps-in-learning-environment-evaluation-approaches.md) — possibly the same claim (merge candidate)
-- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — related
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — related
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — related

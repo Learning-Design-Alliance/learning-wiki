@@ -47,7 +47,7 @@ Regression models (OLS or logistic) estimated on CHKS cross-sectional data, with
 
 ## Related Claims
 
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
 - [Disparities are not uniform: some gender- and sexual-minority groups report equal or better school experiences than majority peers (e.g., Black transgender students, Cambodian gay/lesbian students)](lgbtq-disparities-vary-with-exceptions-by-group.md) — related
 - [Equalizing perceived supports and safety would reduce gay/lesbian/bisexual versus straight disparities in connectedness by 90-100 percent and other disparities by half](supports-safety-account-orientation-disparities.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — related

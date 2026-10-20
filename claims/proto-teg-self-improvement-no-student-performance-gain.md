@@ -44,4 +44,4 @@ The article reports a null outcome: the self-improving knowledge acquired in the
 
 ## Related Claims
 - [An empirical experiment discovered applicability conditions for five of PROTO-TEG's nine didactic strategies](proto-teg-conditions-discovered-five-of-nine-strategies.md) — related
-- [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](constraints-selectively-affect-inefficient-strategies.md) — reports the opposite
+- [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — reports the opposite

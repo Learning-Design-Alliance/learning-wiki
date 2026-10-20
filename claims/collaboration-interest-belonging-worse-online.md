@@ -48,7 +48,7 @@ Survey item comparing six course-experience facets before and after going online
 
 ## Related Claims
 
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — the general claim this finding bears on, with the studies behind it
 
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - Opportunities for peer collaboration largely disappeared when STEM courses went remote, with few instructors sustaining collaborative activities online — related

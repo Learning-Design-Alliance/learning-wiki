@@ -33,7 +33,7 @@ sources:
 > **Evidence** · 1 study (2 entries) · quant-synthesis `r1` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i?` Children from families with low socioeconomic status were more affected by school closures than children from high-SES families, with one study reporting +60% learning loss in low-SES students and a grade-by-SES interaction. [→ Hammerstein Svenja 2021](#hammerstein-svenja-2021)
+`q3 i?` Children from families with low socioeconomic status were more affected by school closures than children from high-SES families, with one study (Engzell et al., Netherlands) reporting +60% learning loss in low-SES students, and another (Gore et al., Australia) a grade-by-SES interaction. [→ Hammerstein Svenja 2021](#hammerstein-svenja-2021)
 `q2 i0` One study found an interaction between grade and SES: younger children from low school-level-SES schools lost 0.16 SD while younger children from medium school-level-SES schools gained 0.15 SD. [→ Hammerstein Svenja 2021 (2)](#hammerstein-svenja-2021-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Hammerstein Svenja, König Christoph, Dreisörner Thomas, Frey Andreas. (2021). 
 
 `q3 · i?` · `review · r3`
 
-Review synthesis of differential effects; Table 1 records "+60% learning loss in low-SES students" (Engzell et al., Netherlands, n = 350,000) and larger effects in low-SES students (Maldonado and De Witte, Belgium). No standardized effect size is printed for this contrast, so impact is null. The review cites lower access to remote learning, less school learning assistance, and less learning time for low-SES children.
+Review synthesis of differential effects; Table 1 records "+60% learning loss in low-SES students" (Engzell et al., Netherlands, n = 350,000) and larger effects in low-SES students (Maldonado and De Witte, Belgium). No standardized effect size is printed for this contrast, so impact is coded `i?` (magnitude not reported), which does not mean no impact. The grade-by-SES interaction it also records comes from a separate Australian study (Gore et al., 2021; see the next entry), not from the Engzell sample. The review cites lower access to remote learning, less school learning assistance, and less learning time for low-SES children.
 
 > "Second, children from families with a low socioeconomic status (SES) were more affected than children from families with a high SES were (Maldonado and De Witte, 2020; Engzell et al., 2021)."
 

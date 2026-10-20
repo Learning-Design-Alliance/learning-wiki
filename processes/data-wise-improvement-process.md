@@ -63,7 +63,7 @@ Program or school — the cycle operates at the level of instructional teams, de
 
 ### Claims
 
-- [In practice, education data often leaves educators and policymakers unmoved or drowns them in extraneous information rather than driving decisions](../claims/data-often-fails-to-drive-education-decisions.md) [-W]
+- [Education data can easily leave educators and policymakers unmoved or drown them in extraneous information rather than driving decisions](../claims/data-often-fails-to-drive-education-decisions.md) [-W]
 - [Improvement teams with representation from teachers, principals, and district leadership gained broader buy-in than teams missing any level](../claims/cross-level-team-composition-buy-in.md) [~W]
 
 #### Supporting

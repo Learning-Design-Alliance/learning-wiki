@@ -64,7 +64,7 @@ Student suggestion quoted in the teacher-role theme, manifesting a contradiction
 ## Related Claims
 - [GenAI's immediate answers reduce engineering students' teacher-student interactions for generalizable tasks, while teachers remain preferred for complex problem-solving](genai-immediacy-reduces-teacher-interactions.md) — related
 - [Engineering students develop implicit rules for using GenAI as a self-directed, efficient learning tool when traditional educational tools fall short](genai-implicit-rules-self-directed-efficient-learning.md) — related
-- [Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking](genai-ethics-reflection-versus-copying-boundaries.md) — related
+- [In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check](genai-ethics-reflection-versus-copying-boundaries.md) — related
 - [Nearly all students valued learning through effort while feeling drawn toward AI, and split into those who limited use and those whose use conflicted with stated values](value-effort-tension-ai-shortcuts.md) — related
 - Generic binary GenAI declarations fail to capture the diversity of ways students use GenAI in academic work — related
 - [Undifferentiated GenAI integrity rules convert linguistic disadvantage into integrity risk for EAL students](undifferentiated-genai-rules-convert-language-disadvantage-into-integrity-risk.md) — related

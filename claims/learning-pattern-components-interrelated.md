@@ -43,6 +43,6 @@ Narrative review of studies since 2004 in new samples (e.g., Loyens et al. 2008;
 
 
 ## Related Claims
-- [Learning patterns relate to personal factors (personality, motivation, beliefs, prior education, age, gender) with weak-to-moderate associations indicating potential for change](learning-patterns-personal-factors.md) — related
+- [Learning patterns are associated with personal factors (personality, motivation, beliefs, prior education, age, gender); their associations with personality are weak to moderate, indicating learning patterns are not stable traits](learning-patterns-personal-factors.md) — related
 - [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md) — a narrower finding that bears on this claim
 - [Students who doubt their own learning capacity are at risk of adopting an inadequate lack-of-regulation strategy](self-perceived-inability-predicts-lack-of-regulation.md) — a narrower finding that bears on this claim

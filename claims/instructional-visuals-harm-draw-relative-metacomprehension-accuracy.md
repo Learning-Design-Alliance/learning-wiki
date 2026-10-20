@@ -63,6 +63,6 @@ Lab experiment with 48 undergraduates reading chemistry texts, randomly assigned
 
 ## Related Claims
 - [Students in the image condition gave higher draw judgment magnitude than text-only students in Study 1a](image-condition-inflated-draw-judgment-magnitude.md) — related
-- [Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) — related
+- [In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md) — related
 - [Students using representation-based cues showed higher draw relative accuracy than those using heuristic cues](representation-based-cues-support-draw-relative-accuracy.md) — related
 - [Students reported using visual cues for draw judgments but not for test or explain judgments](visual-cues-reported-only-for-draw-judgments.md) — related

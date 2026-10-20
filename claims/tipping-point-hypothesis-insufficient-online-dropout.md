@@ -43,7 +43,7 @@ Observational analysis of two years of dropout data from 196 university-level on
 
 ## Related Claims
 
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 
 - [A review of music education asserts that MOOC completion is typically under 10% and that embodied musical learning resists short video lectures and self-graded quizzes](moocs-low-completion-embodied-music-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Student Momentum graph shapes differ markedly by subject area, with math courses predominantly convex slope and political science courses predominantly steep wall](momentum-graph-shapes-vary-by-subject.md) — related

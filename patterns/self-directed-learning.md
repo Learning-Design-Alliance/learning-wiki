@@ -139,7 +139,7 @@ This pattern is scoped to a course or unit in which control is handed to learner
 
 ## Claims
 
-- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported rarely or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
+- [Student choice about learning content and path was limited: most teachers did not report high levels of student choice, and two-thirds to three-quarters of students reported sometimes, rarely, or never choosing](../claims/pl-student-choice-limited-teacher-driven.md) [-W]
 
 ## Related Patterns
 - [Self-Regulated Learning](self-regulated-learning.md) — the within-task plan–monitor–act prompting this pattern uses in its teaching step

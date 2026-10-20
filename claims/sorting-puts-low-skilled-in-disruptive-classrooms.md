@@ -45,5 +45,5 @@ The report examines classroom environments under sorted versus de-sorted conditi
 
 - [Between- or within-class homogeneous ability grouping has a small negative effect on low-ability primary students but no effect on other students](homogeneous-ability-grouping-negative-low-ability.md) — the general claim this finding bears on, with the studies behind it
 - [How students are sorted into classrooms by skill level can affect their achievement as much as the content they are taught](sorting-effect-comparable-to-curriculum-content.md) — related
-- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](double-dose-failure-rates-divergent.md) — related
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](double-dose-failure-rates-divergent.md) — related
 - [Average test scores are higher when classes are sorted by skill, driven by large learning gains for high-skilled students and slightly lower scores for low-skilled students](sorting-raises-test-scores-via-high-skill-gains.md) — related

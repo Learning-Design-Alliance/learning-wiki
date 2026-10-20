@@ -49,6 +49,6 @@ In the Inefficient first condition, "61 children (85% of those who switched) rev
 ## Related Claims
 - [Children who first learned the efficient method switched to the observed inefficient method](children-switch-efficient-to-inefficient-method.md) — related
 - [Most 3–5-year-old children who first learned an inefficient puzzlebox method switched to a witnessed, more efficient alternative](children-switch-inefficient-to-efficient-puzzlebox.md) — related
-- [System constraints have minimal effect on already-efficient task-selection strategies while strongly correcting inefficient ones](constraints-selectively-affect-inefficient-strategies.md) — related
+- [In simulated mastery learning, system constraints left most other task-selection strategies' overpractice stable while sharply reducing it under the outlier risk-averse strategy](constraints-selectively-affect-inefficient-strategies.md) — related
 - [Children switched to the efficient method more often than chimpanzees on the same puzzlebox task](children-switch-more-than-chimpanzees-serialbox.md) — related
 - [Children who observed the efficient method first switched earlier than children observing the inefficient method first](efficient-first-children-switch-earlier.md) — related

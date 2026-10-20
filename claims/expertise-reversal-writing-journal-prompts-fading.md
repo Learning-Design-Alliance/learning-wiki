@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · review `r2` · `q3`
 
 ## Subclaims
-`q3 i?` In longitudinal field studies of journal writing, permanently presented prompts produced higher early-term learning but worse end-of-term outcomes and motivation, while gradual adaptive fading of prompts sustained strategy use and learning. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)
+`q3 i?` In two longitudinal field studies of journal writing (Nückles et al., summarized in this special-issue introduction), prompted students in Experiment 1 applied more strategies and learned more than an unprompted control in the first half of the term but performed worse and were less motivated by its end; in Experiment 2, prompts faded adaptively sustained strategy use and gave substantially better end-of-term learning than permanently presented prompts. [→ Slava Kalyuga 2010](#slava-kalyuga-2010)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Slava Kalyuga, Alexander Renkl. (2010). Expertise reversal effect and its instru
 
 `q3 · i?` · `review · r2`
 
-Two longitudinal field studies in developmental psychology courses: Experiment 1 compared cognitive-plus-metacognitive prompts with no prompts over a term; Experiment 2 introduced fading of each prompt once the prompted strategy was applied satisfactorily. The fading group applied increasingly more cognitive strategies while the permanent prompts group applied increasingly less.
+The special-issue introduction's summary of Nückles et al.'s two longitudinal field studies in developmental psychology courses: Experiment 1 compared cognitive-plus-metacognitive prompts with no prompts over a term; Experiment 2 introduced fading of each prompt once the prompted strategy was applied satisfactorily. The fading group applied increasingly more cognitive strategies while the permanent prompts group applied increasingly less.
 
 > "At the end of the term, the permanent prompts group showed substantially lower learning outcomes than the fading group."
 

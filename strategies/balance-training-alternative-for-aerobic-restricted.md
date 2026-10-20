@@ -45,7 +45,7 @@ The article recommends balance training "might represent a promising alternative
 
 - [Balance training improves memory in healthy adults relative to relaxation training](../claims/balance-training-improves-memory.md) [+W]
 - [Balance training improves spatial cognition in healthy adults relative to relaxation training](../claims/balance-training-improves-spatial-cognition.md) [+W]
-- [Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms](../claims/no-fitness-executive-symptom-changes.md) [~W]
+- [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](../claims/no-fitness-executive-symptom-changes.md) [~W]
 
 ## Related Strategies
 - 

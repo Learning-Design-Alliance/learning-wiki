@@ -63,6 +63,6 @@ Pearson correlation analysis (Table 1) with Bonferroni correction across 136 cor
 
 ## Related Claims
 - [The prediction power of specific processing speed for mathematics decreases with reduced arithmetic fluency: complex multiplication did not predict mathematics although it predicted Chinese and English](arithmetic-fluency-gradient-complex-multiplication-null-for-math.md) — related
-- [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
+- [Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
 - [Specific processing speed (reading fluency and simple/complex subtraction fluency) makes a significant unique contribution to Grade 7 mathematics achievement after controlling for age, gender, and general cognitive abilities](specific-processing-speed-predicts-grade7-math.md) — related
 - [Visual processing correlates concurrently with character reading and mathematics at both kindergarten and grade one](visual-processing-concurrent-correlations-reading-math.md) — related

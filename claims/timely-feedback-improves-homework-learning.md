@@ -70,7 +70,7 @@ The authors describe their own rigorous study of the ASSISTments platform, which
 | Feng 2023 | q3 · causal · r3 | i1 | [ASSISTments use in grade 7 math homework produces a statistically significant long-term po](assistments-long-term-math-impact-grade-8.md) (supports) |
 | [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Completing the follow-up homework assignment modestly boosted exam question performance](follow-up-homework-modestly-boosts-exam-performance.md) (supports) |
 | [Ethan Dickey 2026](https://doi.org/10.48550/arxiv.2607.27586) | q3 · causal · r2 | i1 | [Students received significantly higher homework scores during GenAI-evaluation periods, bu](genai-homework-advantage-no-transfer.md) (qualifies) |
-| [Hasnain Heickal and Andrew Lan 2026](https://doi.org/10.48550/arxiv.2606.08807) | q2 · associational · r1 | i? | [Valid test case feedback improves correctness without reducing subsequent submission count](valid-test-cases-not-fewer-submissions.md) (supports) |
+| [Hasnain Heickal and Andrew Lan 2026](https://doi.org/10.48550/arxiv.2606.08807) | q2 · associational · r1 | i? | [Submissions receiving valid LLM-generated test-case feedback had higher pass rates, but va](valid-test-cases-not-fewer-submissions.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

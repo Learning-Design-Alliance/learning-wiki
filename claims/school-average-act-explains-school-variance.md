@@ -62,7 +62,7 @@ School-level predictor models. The intercept variance falls from 0.622 to 0.324 
 
 
 ## Related Claims
-- [Adding ACT scores to models with HSGPA does not improve prediction of college graduation or reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
+- [Adding ACT scores to models with HSGPA contributes little to the prediction of college graduation and does not reduce between-school variability](act-adds-little-beyond-hsgpa.md) — related
 - [ACT scores show significant subgroup misprediction by race, ethnicity, and gender that HSGPA models do not, and school-level variance is smaller among students with the same ACT score than the same HSGPA](act-subgroup-misprediction-and-school-variance.md) — related
 - [Both HSGPA and ACT strongly predict four-year college enrollment and enrollment in colleges with strong graduation rates](gpa-and-act-predict-enrollment-college-quality.md) — related
 - [Students with the same HSGPA or the same ACT score graduate from college at different rates depending on which high school they attended](high-school-effects-same-gpa-act-graduation-rates.md) — related

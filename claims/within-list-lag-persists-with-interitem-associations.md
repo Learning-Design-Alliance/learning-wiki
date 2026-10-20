@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition
-description: A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition
+title: A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
+description: A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
 id: within-list-lag-persists-with-interitem-associations
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, disconfirming a pure context-retrieval account for that condition
+# A within-list lag effect persisted at all retention intervals (up to 7 days) when the orienting task allowed interitem associations, contrary to what a context-only retrieval account predicts for that condition
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
@@ -44,7 +44,7 @@ Glenberg, A. M., & Lehmann, T. S. (1980). Spacing repetitions over 1 week. Memor
 
 `q3 · i?` · `causal · r2`
 
-Experiment 2 within-list analysis on 96 subjects. The authors attribute the persistence of the lag effect to incidental storage of interitem associations, noting subjects reused superordinates and sometimes generated previous list words as associates.
+Experiment 2 within-list analysis on 96 subjects. The result ran contrary to the component-levels prediction; the authors attribute the persistence of the lag effect to incidental storage of interitem associations acting as extra retrieval cues, noting subjects reused superordinates and sometimes generated previous list words as associates, and say the finding "can be accommodated within component-levels theory" if such associations are stored. It challenges a context-only account under these conditions, not context retrieval generally.
 
 > "Contrary to the predic­tion from components-levels theory, there was a within­list lag effect in almost every list, regardless of the retention interval. The effect was significant [F(1 ,48) = 64.35, MSe =.90], and it did not interact with any variable in a way that changes these conclusions. The predicted four-way interaction was far from significant (F < 1)."
 

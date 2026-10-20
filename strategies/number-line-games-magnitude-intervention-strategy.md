@@ -40,7 +40,7 @@ In the discussion the authors propose intervention research examining whether tr
 ## Claims
 
 - [Direct subtraction items were solved more accurately and faster than indirect addition items](../claims/ds-items-faster-more-accurate-than-ia-items.md) [+W]
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](../claims/magnitude-comparison-more-unique-than-number-line.md) [+W]
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](../claims/magnitude-comparison-more-unique-than-number-line.md) [+W]
 - [Numerical magnitude processing is significantly associated with children's mental multi-digit subtraction performance, controlling for intellectual ability and motor speed](../claims/magnitude-processing-associated-mental-multidigit-subtraction.md) [+W]
 - [The association between numerical magnitude processing and subtraction is more prominent for items eliciting indirect addition than for direct subtraction items](../claims/magnitude-processing-stronger-indirect-addition-items.md) [+W]
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](../claims/symbolic-nonsymbolic-accuracy-speed-dissociation.md) [+W]

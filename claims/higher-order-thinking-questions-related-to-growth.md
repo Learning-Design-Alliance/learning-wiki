@@ -45,6 +45,6 @@ The Key Findings list includes this higher-order questioning practice among thos
 ## Related Claims
 - [Question prompts improve learning](question-prompts-improve-learning.md) — related
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — related
-- [Active and collaborative approaches promote higher-order thinking and complex reasoning (review attribution)](active-collaborative-approaches-higher-order-thinking.md) — a broader claim this one bears on
+- [Active and collaborative approaches promote higher-order thinking and complex reasoning (attributed to earlier studies in a framework paper)](active-collaborative-approaches-higher-order-thinking.md) — a broader claim this one bears on
 - [Focusing students' attention on the meaning of a text before reading, such as introducing the topic and encouraging predictions, is among the practices most consistently related to student growth](pre-reading-meaning-focus-related-to-growth.md) — related
 - [Helping students make connections between prior knowledge and the texts they read is among the practices most consistently related to student growth](prior-knowledge-text-connections-related-to-growth.md) — related

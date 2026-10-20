@@ -35,5 +35,5 @@ Promote a sense of home is the element of creating belonging, familiarity, and s
 
 ## The evidence by question
 - *Does a brief intervention that frames doubts about belonging as common and temporary improve learners' persistence and grades, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]
-- *What in a learning setting builds learners' sense of belonging?* [Teacher support is the strongest predictor of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
+- *What in a learning setting builds learners' sense of belonging?* [Teacher support is among the strongest predictors of school belonging](../claims/teacher-support-strongest-predictor-school-belonging.md) [+M]
 - *Does a stronger sense of belonging go with more engagement, achievement and persistence?* [Belongingness is among the factors that most strongly and reliably affect learners' academic motivation and achievement](../claims/belongingness-strongly-affects-motivation-achievement.md) [+M]

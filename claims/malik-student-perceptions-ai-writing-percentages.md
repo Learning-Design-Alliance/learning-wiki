@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)"
-description: "Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and alg..."
+title: "Among 245 Indonesian undergraduates, majorities reported concern about reduced critical thinking when depending on AI (75%), excessive reliance (73%), misinformation (70%) and unintentional plagiarism (69%), and 40% about algorithmic bias"
+description: "Among 245 Indonesian undergraduates, majorities reported concern about reduced critical thinking when depending on AI (75%), excessive reliance (73%), misinformation (70%) and unintentional plagiarism (69%), and 40% about algorithmic bias"
 id: malik-student-perceptions-ai-writing-percentages
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Among 245 Indonesian undergraduates, majorities reported potential reduction of critical thinking when depending on AI (75%), excessive reliance risk (73%), misinformation (70%), unintentional plagiarism (69%) and algorithmic bias (40%)
+# Among 245 Indonesian undergraduates, majorities reported concern about reduced critical thinking when depending on AI (75%), excessive reliance (73%), misinformation (70%) and unintentional plagiarism (69%), and 40% about algorithmic bias
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
@@ -35,7 +35,7 @@ Chunpeng Zhai, Santoso Wibowo and Lily D. Li. (2024). The effects of over-relian
 
 `q2 · i?` · `review · r2`
 
-Case study reported within the review: Malik et al. surveyed 245 undergraduate students from 25 tertiary institutions across Eastern and Central Indonesian provinces on AI integration in academic essay writing. The study also found AI had "a positive influence on students' writing skills, self-confidence, and their grasp of academic integrity principles". Percentages are as printed; no effect sizes reported.
+Case study reported within the review: Malik et al. enlisted 245 undergraduate students from 25 tertiary institutions across Eastern and Central Indonesian provinces in a study of AI integration in academic essay writing. The study also found AI had "a positive influence on students' writing skills, self-confidence, and their grasp of academic integrity principles". Percentages are as printed; no effect sizes reported.
 
 > "The study reports the potential reduction in critical thinking skills when depending on AI (75%), the risk of excessive reliance on technology (73%), and the prevalence of misinformation and inaccuracies (70%). Furthermore, there is substantial apprehension regarding the ethical implications of unintentional plagiarism (69%) and algorithmic biases (40%)."
 

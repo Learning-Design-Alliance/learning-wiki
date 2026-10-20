@@ -110,7 +110,7 @@ This pattern is scoped to a short routine embedded in a larger lesson. It is not
 
 - [Learners change the direction of their assumptions more often to agree with a partner than to disagree](../claims/direction-change-more-often-to-agree.md) [+W]
 - [Fine-grained matching by ability level is reported to be optimal except in pairs where both students are at the very low ability level](../claims/fine-matching-optimal-except-very-low-pairs.md) [~W]
-- [Cooperative learning with Think-Pair-Share and RoundTable produces significantly larger critical thinking gains than traditional teaching in 4th graders](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
+- [Cooperative learning with Think-Pair-Share and RoundTable was followed by larger critical thinking gains than traditional teaching in 4th graders, in a two-class quasi-experiment](../claims/tps-roundtable-cooperative-learning-critical-thinking-gains.md) [+W]
 
 ## Related Patterns
 - [Peer Instruction](peer-instruction.md)

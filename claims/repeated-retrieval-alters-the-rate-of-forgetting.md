@@ -67,9 +67,9 @@ The chapter reports, citing Carpenter et al. (2008), three experiments with fina
 
 - [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — the general claim this finding bears on, with the studies behind it
 
-- [Retention interval moderates the testing effect, with effects often smaller, null, or reversed at short intervals](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
+- [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](retention-interval-moderates-testing-effect.md) — the general claim this finding bears on, with the studies behind it
 - [Retrieval practice produces reliable positive effects at short delays, although some forgetting must set in so that the final test is not at ceiling](retrieval-practice-effects-occur-at-short-delays-when-final-tests-avoid-ceiling.md) — related
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
 - [In Mnemosyne flashcard log data, adding a delay term improves the recall-prediction performance of exponential forgetting curve memory models.](delay-term-improves-exponential-forgetting-curve-recall-prediction.md) — related
 - [In the perceptual-cue reanalysis, the only reliable forgetting and slip deviations were a small forgetting reduction under incongruent color and a modest slip reduction under congruent spacing](cue-effects-forgetting-slip-small-reductions.md) — related
-- [The retrieval benefit holds at both short (5 min) and long (24 h) retention delays](ttst-advantage-not-different-at-5min-24h.md) — related
+- [The retrieval (TTST) advantage appeared at both short (5 min) and long (24 h) retention delays, with no reliable evidence that it differed between them](ttst-advantage-not-different-at-5min-24h.md) — related

@@ -58,4 +58,4 @@ The same correlational analysis tested teacher and child characteristics as mode
 
 
 ## Related Claims
-- [Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
+- [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related

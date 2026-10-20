@@ -55,7 +55,7 @@ Integration activities convert learning from an isolated instructional event int
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Adult learners perceive AI as supporting consolidation-phase comparison, knowledge reorganization, and transfer](../claims/ai-supports-consolidation-comparison-reorganization-transfer.md) [+W]
 - [Generative learning involves mentally reorganizing and integrating to-be-learned information with prior knowledge, enabling application to new situations](../claims/generative-learning-reorganizing-integrating-prior-knowledge.md) [+W]
-- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions and debriefings focused on logistics rather than science content](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
+- [Educators rarely facilitated connections between playlist activities or to students' lives; introductions focused on instructions and logistics, and debriefings were often unstructured reviews of the activity](../claims/educators-rarely-facilitated-connections-between-playlists.md) [-W]
 - [Students' postings of personal experiences in discussion forums support, rather than undermine, knowledge building](../claims/personal-experiences-support-knowledge-building.md) [+W]
 - [Internalizing wiki information can yield emergent knowledge that was in neither the person's prior knowledge nor the wiki](../claims/emergent-knowledge-from-internalization.md) [~W]
 - [Greater time and effort invested in the task correlate with better integration and smaller calibration error](../claims/engagement-correlates-integration-calibration.md) [~W]

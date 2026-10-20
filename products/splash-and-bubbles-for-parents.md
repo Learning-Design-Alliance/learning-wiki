@@ -43,7 +43,7 @@ A PBS KIDS companion app for the Splash and Bubbles television series that suppo
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](../claims/splash-bubbles-app-section-variability-by-child-age-interest.md) [~W]
 - [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](../claims/splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) [~W]
 - [Most families used the Activities section and rated it highly helpful, with many completing two or more activities](../claims/splash-bubbles-activities-section-high-ratings-multiple-completion.md) [+W]
-- [Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes](../claims/deeper-app-use-linked-stronger-attitude-changes.md) [+W]
+- [In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science](../claims/deeper-app-use-linked-stronger-attitude-changes.md) [+W]
 - [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](../claims/splash-bubbles-sync-feature-uptake-and-barriers.md) [~W]
 
 ## Related Products and Programmes
@@ -128,7 +128,7 @@ The Splash and Bubbles for Parents app is a second-screen digital resource provi
 - [Families used multiple sections of the Splash and Bubbles for Parents app, with Dive In the most used and Let's Talk About It conversation starters rated most helpful within it](../claims/splash-bubbles-app-section-use-dive-in-conversation-starters.md) [+W]
 - [Families showed widespread variability in which Ocean Guide and Activities components they found most helpful, often citing child age and interest](../claims/splash-bubbles-app-section-variability-by-child-age-interest.md) [~W]
 - [Attrition in the station study was higher than expected, and partial-data families rated app components slightly lower than complete-data families](../claims/splash-bubbles-station-study-attrition-partial-data-lower-ratings.md) [~W]
-- [Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes](../claims/deeper-app-use-linked-stronger-attitude-changes.md) [+W]
+- [In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science](../claims/deeper-app-use-linked-stronger-attitude-changes.md) [+W]
 - [Sync feature uptake declined between survey and interview, with non-users citing unawareness, technical difficulties, or single-device viewing](../claims/splash-bubbles-sync-feature-uptake-and-barriers.md) [~W]
 
 ## Related Elements

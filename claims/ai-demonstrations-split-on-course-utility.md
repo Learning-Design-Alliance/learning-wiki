@@ -45,4 +45,4 @@ Post-survey demonstration feedback from 60 demo-section respondents, coded with 
 ## Related Claims
 - [A six-session faculty learning community on AI was implemented in a physics department, engaging nineteen faculty across biweekly meetings](physics-faculty-learning-community-ai-workshop-series.md) — related
 - Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
-- [Viewing of the personalized AI video library declined sharply across the quarter, with fewer than 10% of the course population watching voluntarily by week 9](video-views-declined-across-quarter.md) — related
+- [Viewing of the personalized AI videos declined sharply across the quarter, with views of the first week-9 video set suggesting fewer than 10% of the course population was watching voluntarily by the end of the course](video-views-declined-across-quarter.md) — related

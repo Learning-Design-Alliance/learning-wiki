@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly
-description: Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly
+title: Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly
+description: Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly
 id: page-presentation-summary-details-recall
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: 2
 ---
 
-# Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly
+# Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Readers included details in summaries significantly more often in the Page condition (3.61 vs. 5.33), though p was marginal at 0.0562. [→ Annie Piolat 1997](#annie-piolat-1997)
+`q3 i?` The article reports that readers included details in summaries more often in the Page condition, but the test was marginal (F(1, 34) = 3.907, p = 0.0562), not significant at the .05 level; the printed means (3.61 vs. 5.33) are not labelled by condition and, read in the order the sentence names the conditions, would point the other way. [→ Annie Piolat 1997](#annie-piolat-1997)
 `q3 i?` The difference in main-idea grades between Page and Scroll summaries was not statistically significant. [→ Annie Piolat 1997 (2)](#annie-piolat-1997-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Annie Piolat, Jean-Yves Roussey and Olivier Thunin. (1997). Effects of screen pr
 
 `q3 · i?` · `causal · r2`
 
-Experiment 1 summarizing task: judge-graded details in summaries written by no-page-break participants. Page readers included more details (3.61 vs. 5.33), F(1, 34) = 3.907, p = 0.0562, just above the .05 threshold.
+Experiment 1 summarizing task: judge-graded details in summaries written by no-page-break participants. The article says Page readers included details "significantly more often" than Scroll readers, but the printed test is F(1, 34) = 3.907, p = 0.0562, just above the .05 threshold, so the difference is marginal. The means printed with it (3.61 vs. 5.33) are not labelled by condition, and read in the order of the sentence they would show fewer details for Page; the discussion section repeats that the Page advantage held for details.
 
 > "they did so significantly more often in the Page condition than in the Scroll condition, which validates Prediction 6 (3.61vs. 5.33;F(1, 34) = 3.907; p = 0.0562)."
 

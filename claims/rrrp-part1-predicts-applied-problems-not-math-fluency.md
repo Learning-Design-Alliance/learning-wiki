@@ -43,7 +43,7 @@ A separate two-level HLM model tested fall RRRP Parts 1 and 2 against spring WJ-
 
 
 ## Related Claims
-- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](rrrp-associated-with-self-regulation-measures.md) — related
+- [Fall RRRP scores are significantly associated with working memory and attention measures, and its wait-for-go score with inhibitory-control ratings, in third graders](rrrp-associated-with-self-regulation-measures.md) — related
 - [Conceptual counting uniquely predicts fluency, computation, and applied problems but not story problems; procedural counting uniquely predicts only applied problems](counting-type-specificity-grade1-outcomes.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
 - [RRRP scores were fairly stable across fall to spring in third grade, with a slight decrease in Part 1 and no change in Part 2](rrrp-scores-stable-fall-to-spring.md) — related

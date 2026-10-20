@@ -48,4 +48,4 @@ From the interview study of sixty first graders on the ecological and challengin
 
 ## Related Claims
 - [Metacognitive strategies correlate strongly with problem-solving skills, and behavioural metrics correlate with task performance](metacognition-problem-solving-correlation.md) — related
-- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related

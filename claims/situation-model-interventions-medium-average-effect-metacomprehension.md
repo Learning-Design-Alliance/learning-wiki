@@ -43,7 +43,7 @@ Random-effects meta-analysis of 28 effect sizes from 17 records comprising 2,236
 
 
 ## Related Claims
-- [All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy](individual-interventions-effective-except-self-explaining.md) — related
+- [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
 - [Intervention effects on relative metacomprehension accuracy did not differ between school and university students](intervention-effects-school-university-students-no-difference.md) — a narrower finding that bears on this claim
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — a narrower finding that bears on this claim
 - [Situation-model-approach interventions also directly improved comprehension, albeit with a small effect](situation-model-interventions-improve-comprehension-small-effect.md) — related

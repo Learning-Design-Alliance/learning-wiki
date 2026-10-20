@@ -42,7 +42,7 @@ The study's curricula organized groupwork around cognitively and socially demand
 
 ## Claims
 
-- [Open-ended tasks are associated with higher subsequent disciplinary engagement](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
+- [Open-ended tasks are associated with higher disciplinary engagement in the same observation interval](../claims/open-ended-tasks-higher-disciplinary-engagement.md) [+W]
 
 ## Related Strategies
 

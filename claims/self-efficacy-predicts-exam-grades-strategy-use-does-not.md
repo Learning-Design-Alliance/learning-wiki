@@ -48,7 +48,7 @@ Multiple regression for hypothesis H3 with cognitive strategy use, metacognitive
 - [Self-Regulation](../learner-variables/self-regulation.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Continuing prompts long-term in learning journals confers no additional benefit: strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions](long-term-prompting-no-added-benefit-declines-regardless.md) — related
+- [Continuing prompts long-term in learning journals confers no additional benefit: self-reported strategy use and self-efficacy decline across the second unit in both the short-term and long-term conditions, while the quantity of cognitive strategy use in the journals stays stable](long-term-prompting-no-added-benefit-declines-regardless.md) — related
 - [Web-based SRL training combined with a learning diary (Group TD) produced statistically significant pre-post gains in SRL knowledge, the SRL overall score and self-efficacy, but not in mathematics scores, among prospective university students in an online preparation course](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) — related
-- [Short-term prompting in learning journals does not change university students' self-efficacy](short-term-prompts-do-not-change-self-efficacy.md) — related
+- [University students' self-efficacy showed no significant change during a unit of short-term prompting in learning journals](short-term-prompts-do-not-change-self-efficacy.md) — related
 - [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md) — related

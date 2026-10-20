@@ -39,7 +39,7 @@ A VR learning environment in which teachers and students connect via Wi-Fi using
 ### Claims
 
 - [VR sickness in the system is minimal overall (SSQ total 12.88), with nausea lowest and oculomotor symptoms most significant](../claims/photon-fusion-minimal-vr-sickness-ssq.md) [+W]
-- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [+W]
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [+W]
 
 ## Related Designs
 

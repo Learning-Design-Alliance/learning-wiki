@@ -44,6 +44,6 @@ ANCOVA on a composite of perspective-taking, figure-orientation and mirror-image
 
 ## Related Claims
 - [Balance training improves memory in healthy adults relative to relaxation training](balance-training-improves-memory.md) — related
-- [Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
+- [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
 - [Cognitive benefits of balance training do not differ by age in adults aged 19–65](balance-training-benefits-age-invariant.md) — related
 - [Balance training improves dynamic balance performance but not functional balance or postural sway](balance-training-improves-dynamic-balance-only.md) — related

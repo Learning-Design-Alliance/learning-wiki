@@ -44,7 +44,7 @@ Sander de Jong. (2026). Open Questions Towards Skill-Sustaining Reliance in Refl
 
 `q1 · i?` · `theoretical · r3`
 
-Narrative review attribution in Section 4: the paper reports, citing Fernandes et al., that LLMs improved task performance but made users overconfident, and that single prompts without follow-up did not encourage reflection.
+A workshop position paper that poses open questions; it runs no study and has no review method. In Section 4 it reports, second-hand and citing Fernandes et al., that LLMs improved task performance but made users overconfident about their own accuracy, and that most participants relied on single prompts without follow-up, which the author reads as the interaction not encouraging reflection. The finding is Fernandes et al.'s, not this paper's.
 
 > "Fernandes et al., who found that LLMs improved task performance but made users overconfident about their own accuracy [11]. Most participants relied on single prompts without further follow-up"
 

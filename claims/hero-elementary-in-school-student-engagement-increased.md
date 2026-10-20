@@ -47,7 +47,7 @@ Teacher report on engagement in the in-school implementation findings section. T
 
 ## Related Claims
 - [Technical issues (login scanning, internet connectivity, projector setup, and glitches) frustrated students and created a significant barrier to playlist implementation](technical-issues-barrier-playlist-implementation.md) — reports the opposite
-- [Animated videos were the easiest and most engaging Hero Elementary component to implement virtually, providing an accessible shared entry point for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
+- [Teachers found the animated videos the easiest Hero Elementary component to implement virtually and fun and engaging for students, and described them as an equal, shared platform for students with IEPs and English learners](animated-videos-easiest-engaging-virtual-component.md) — related
 - [Digital game loading time caused issues but students had no significant navigation problems once the game loaded.](hero-elementary-game-loading-time-navigation-issues.md) — related
 - The range of multiplatform activity types and multiple representations of NGSS-aligned concepts engaged students with different learning preferences and abilities — related
 - [During observed playlist sessions, students were mostly on task and concentrating, though off-task behavior rose when the digital notebook was repeated](bromp-observation-mostly-on-task-concentrating.md) — a narrower finding that bears on this claim

@@ -88,6 +88,6 @@ The chapter describes Hanawalt's (1937) experiment with geometric line drawings 
 - [Retrieval Practice Enhances Long Term Retention](retrieval-practice-improves-retention.md)
 - [Rereading Less Effective Than Retrieval Practice](rereading-less-effective-than-retrieval-practice.md)
 - [Spaced retrieval practice produces better final retention than massed retrieval even though spacing lowers initial retrieval success, and more absolute spacing enhances long-term retention](spaced-retrieval-outperforms-massed-retrieval-despite-lower-initial-recall.md) — related
-- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — a narrower finding that bears on this claim
+- [A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention](retrieval-practice-implementation-case-newell.md) — a narrower finding that bears on this claim
 - [Spaced and interleaved homework practice improves learning and retention](spaced-interleaved-homework-practice.md) — related
 - [The pretesting effect on text memory grows with retention interval, being largest at one week](pretesting-effect-grows-with-retention-interval.md) — related

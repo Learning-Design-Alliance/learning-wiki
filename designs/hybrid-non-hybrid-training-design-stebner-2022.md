@@ -17,7 +17,7 @@ sources:
 # Year-long hybrid versus non-hybrid metacognitive skill training design with strategy crossover
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 causal), `q3` · 1 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 3 studies (3 causal), `q2`–`q3` · 1 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 The study trained 243 fifth-grade students from two German secondary schools across one full school year. For the first 15 weeks of 90-minute training, students were randomly assigned to two hybrid conditions (metacognitive skills with conducting experiments, or with text highlighting) or one non-hybrid condition; in the second 15 weeks all groups received non-hybrid training in the cognitive strategy not trained before, so "the cognitive strategy of the second half of the school year represented a new strategy for all participants." Transfer was tested at T2 and T3.

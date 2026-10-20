@@ -44,5 +44,5 @@ A repeated measures ANCOVA compared fall and spring RRRP scores in the same samp
 
 ## Related Claims
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
-- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](rrrp-associated-with-self-regulation-measures.md) — related
+- [Fall RRRP scores are significantly associated with working memory and attention measures, and its wait-for-go score with inhibitory-control ratings, in third graders](rrrp-associated-with-self-regulation-measures.md) — related
 - [Fall RRRP Part 1 predicted spring Applied Problems mathematics scores and gains, but did not predict spring Math Fluency](rrrp-part1-predicts-applied-problems-not-math-fluency.md) — related

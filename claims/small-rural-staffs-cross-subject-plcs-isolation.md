@@ -44,6 +44,6 @@ Site visit findings on job-embedded professional development: eight of nine rura
 ## Related Claims
 
 - Reported PLC outcomes frequently do not correspond with the stated object; complete object–outcome correspondence appeared in only three studies — the general claim this finding bears on, with the studies behind it
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](rural-transportation-barriers-parent-involvement.md) — related
 - [Geographic distance and insufficient internet bandwidth can derail rural schools' plans for cross-school professional learning communities](rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs.md) — related

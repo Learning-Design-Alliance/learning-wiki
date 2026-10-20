@@ -43,5 +43,5 @@ Across the HLM models of spring mathematics and reading outcomes in the 282-stud
 
 
 ## Related Claims
-- [Fall RRRP performance is significantly associated with independent measures of working memory, attention, and inhibitory control in third graders](rrrp-associated-with-self-regulation-measures.md) — related
+- [Fall RRRP scores are significantly associated with working memory and attention measures, and its wait-for-go score with inhibitory-control ratings, in third graders](rrrp-associated-with-self-regulation-measures.md) — related
 - [Teacher-rated hyperactive/impulsive behavior did not predict any first-grade academic outcomes in children with low number sense](hyperactivity-impulsivity-no-prediction-academic-outcomes.md) — related

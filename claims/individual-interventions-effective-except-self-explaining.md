@@ -1,7 +1,7 @@
 ---
 type: claim
-title: All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy
-description: All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy
+title: Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly
+description: Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly
 id: individual-interventions-effective-except-self-explaining
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# All seven situation-model interventions except self-explaining significantly improved relative metacomprehension accuracy
+# Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r2` · `q3`
@@ -35,7 +35,7 @@ Anja Prinz & Stefanie Golke & Jörg Wittwer. (2020). To What Extent Do Situation
 
 `q3 · i?` · `quant-synthesis · r2`
 
-Mixed-effects moderator analysis across the seven intervention categories (Table 2). The article states "The average effect for self-explaining was not significant" and concept mapping was marginally significant (p = .097).
+Mixed-effects moderator analysis across the seven intervention categories (Table 2). The article states "The average effect for self-explaining was not significant" and concept mapping had a marginally significant medium effect (p = .097), not significant at the conventional .05 level; the abstract nonetheless summarises every intervention except self-explaining as having "a significant positive effect".
 
 > "the moderator analysis with intervention revealed a significant positive average effect of small-to-medium size for rereading and delayed-keywords listing, of medium size for delayed-summary writing, of medium-to-large size for delayed-diagram completion, and of large size for setting a comprehension-test expectancy"
 

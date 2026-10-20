@@ -43,7 +43,7 @@ Survey and interview data on sync feature use. The sync utilizes ACR technology 
 
 
 ## Related Claims
-- [Families who used the app's features more extensively internalized its purpose and reported stronger changes in joint media engagement and science attitudes](deeper-app-use-linked-stronger-attitude-changes.md) — related
+- [In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science](deeper-app-use-linked-stronger-attitude-changes.md) — related
 - [Nearly all participating families reported using the Splash and Bubbles for Parents app and found it helpful for supporting children's science learning](splash-bubbles-app-high-uptake-perceived-learning-support.md) — related
 - Dedicated sense-of-belonging courseware features were underused: most students were unaware of the Lumen Community and vaguely remembered the Introduce Yourself module — related
 - [Barriers to integrating AAC into daily routines and accessing AAC programs are frequently reported despite high perceived benefits](aac-access-and-integration-barriers-frequent.md) — related

@@ -50,10 +50,10 @@ Accuracy of self-appraisal section comparing Bandura's phobic research (84-92 pe
 | Schunk 1996 | q2 · review · r2 | i? | this claim |
 | [Bellhäuser 2022](https://doi.org/10.3389/fpsyg.2022.813381) | q3 · causal · r2 | i? | [Web-based SRL training combined with a learning diary (Group TD) produced statistically si](web-based-srl-training-with-diary-raises-srl-knowledge-and-self-efficacy-not-math.md) (supports) |
 | [Yifan Liu 2026](https://doi.org/10.48550/arxiv.2606.08936) | q2 · review · r2 | i? | [AI literacy instruction widened a confidence-knowledge gap: students' perceived understand](ai-literacy-confidence-knowledge-gap.md) (supports) |
-| [Chiara Marcoccia 2026](https://doi.org/10.31234/osf.io/5y6m4_v1) | q3 · causal · r3 | i? | [Access to AI advice roughly doubles reported confidence in answers even though the advice ](ai-access-inflates-confidence.md) (supports) |
+| [Chiara Marcoccia 2026](https://doi.org/10.31234/osf.io/5y6m4_v1) | q3 · causal · r3 | i? | [Access to AI advice roughly doubled reported confidence in answers in one experiment](ai-access-inflates-confidence.md) (supports) |
 | [Nicolas Rodriguez-Alvarez 2026](https://doi.org/10.48550/arxiv.2605.26010) | q2 · associational · r1 | i? | [Secondary students report near-maximum confidence in passive digital tasks but sharply low](confidence-competence-divide-passive-vs-active-creation.md) (qualifies) |
 | [expectancy-1](https://doi.org/10.1145/3765964.3811653) | q2 · qualitative · r3 | i? | [Some students described confidence in programming that depended on AI being available](ai-dependent-confidence-expectancy.md) (qualifies) |
-| [Esposito 2026](https://doi.org/10.48550/arxiv.2604.27618) | q2 · design · r2 | i? | [AI-assistant mode inflates self-reported mathematics self-efficacy and suppresses reported](ai-assistant-mode-inflates-math-self-efficacy.md) (supports) |
+| [Esposito 2026](https://doi.org/10.48550/arxiv.2604.27618) | q2 · design · r2 | i? | [LLMs simulating survey respondents under AI-assistant instructions report higher mathemati](ai-assistant-mode-inflates-math-self-efficacy.md) (supports) |
 | [Liu 2026](https://doi.org/10.1186/s40594-025-00592-w) | q2 · qualitative · r3 | i? | [AI-section students showed tool-linked self-efficacy and attenuated metacognitive calibrat](attenuated-calibration-tool-linked-self-efficacy.md) (supports) |
 <!-- synthesis:end -->
 

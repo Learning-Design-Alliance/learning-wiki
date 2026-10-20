@@ -44,5 +44,5 @@ Metaregression moderator analysis of simulation type. Document-based simulations
 
 ## Related Claims
 - [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on
-- [Virtual patients show no significant differences versus other types of digital education for knowledge or skills](vp-vs-other-digital-no-difference.md) — related
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — related

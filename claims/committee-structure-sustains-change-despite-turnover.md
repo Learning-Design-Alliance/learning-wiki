@@ -46,7 +46,7 @@ The authors' expert interpretation from consulting across many districts, not a 
 
 - [An innovation foreign to the rest of its system tends to be rejected; lasting change needs a coordinated bundle of innovations.](isolated-innovations-are-rejected-by-the-system-they-enter.md) — the general claim this finding bears on, with the studies behind it
 
-- [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — the general claim this finding bears on, with the studies behind it
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — the general claim this finding bears on, with the studies behind it
 - [In one participatory budgeting case, Latino immigrant participation lapsed under outreach with interpretation and was sustained only after the activity structure was redesigned](resolving-participation-double-bind-requires-redesigned-activity-structures.md) — related
 - Female principals empowered others through shared ownership, committee involvement, and staff development — related
 - Female principals maintained autonomy and connectedness despite hierarchical bureaucratic structures, and reported no isolation — related

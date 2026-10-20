@@ -22,7 +22,7 @@ A study-developed assessment instrument by Laura Dörrenbächer-Ulrich and colle
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 
 ### Claims
-- [Each SRL component predicts GPA only via a specific assessment method: cognition via strategy knowledge test, motivation via questionnaire, metacognition via open-ended microanalytic question](../claims/different-methods-different-srl-components-achievement.md) [+M]
+- [Whether an SRL component correlates with GPA depends on how it is assessed: cognition via a strategy knowledge test, motivation via questionnaire, metacognition via an open-ended microanalytic question](../claims/different-methods-different-srl-components-achievement.md) [+M]
 
 ## Related Products and Programmes
 

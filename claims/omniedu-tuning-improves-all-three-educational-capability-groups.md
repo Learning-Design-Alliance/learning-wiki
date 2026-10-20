@@ -37,7 +37,7 @@ Hao Liang, Qihan Lin, Meiyi Qiang, Linzhuang Sun, Hengyi Feng, Mingrui Chen, Siz
 
 `q2 · i?` · `design · r2`
 
-Benchmark evaluation of fine-tuned OmniEdu-4B/9B/27B against their Qwen3.5 base models and open-weight educational and proprietary baselines. The article's overall-findings section states that "education-oriented tuning consistently improves performance at every model scale" across K12-Bench, MathFish, and EDUMATH.
+Benchmark evaluation of fine-tuned OmniEdu-4B/9B/27B against the models they were tuned from (Qwen3.5-4B-Base, Qwen3.5-9B-Base and Qwen3.8-27B) and open-weight educational and proprietary baselines. The article's overall-findings section states that "education-oriented tuning consistently improves performance at every model scale" across K12-Bench, MathFish, and EDUMATH.
 
 > "Across all three curriculum benchmarks, education-oriented tuning consistently improves performance at every model scale."
 

@@ -44,7 +44,7 @@ Analysis of coded withdrawal reasons from online courses over two years, after c
 
 ## Related Claims
 
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - [Self-reported withdrawal reasons are largely similar online and onground, led by no/other reason, transfer, and schedule conflict](withdrawal-reasons-similar-across-modalities.md) — related
 - [After instruction has begun, drop rates are essentially the same in online and onground continuing education classes](no-drop-rate-difference-after-instruction-starts.md) — related

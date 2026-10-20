@@ -48,7 +48,7 @@ The double-dose strategy created homogeneous algebra classes for organizational 
 - [Below-norm students' pass rates improved post-policy because their skills relative to classroom peers improved under sorting](../claims/below-norm-pass-rates-improved-relative-skills.md) [+W]
 - [The double-dose policy led schools to track algebra classes by entering math skills, making classrooms more homogeneous in ability](../claims/double-dose-induced-algebra-tracking.md) [+W]
 - [Chicago's double-dose algebra policy raised algebra test scores for both low-skill and high-skill students](../claims/double-dose-algebra-raised-test-scores-both-skill-groups.md) [+W]
-- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points), largely explained by classroom environment and peer ability](../claims/double-dose-failure-rates-divergent.md) [~W]
+- [Algebra failure rates rose post-policy for above-norm students (~3 percentage points) but fell for below-norm students (~4 points); classroom environment and peer ability explained most of the above-norm rise but not the below-norm fall](../claims/double-dose-failure-rates-divergent.md) [~W]
 - [Double-dose algebra policy increased academic demand for both high- and low-skill students, with below-norm students' gains not attributable to peer ability changes](../claims/double-dose-algebra-increased-academic-demand-both-groups.md) [+W]
 - [Tracking intensified concentration of behavioral and absentee problems in double-dose algebra classes, explained by declines in peer ability](../claims/double-dose-concentrated-behavioral-problems.md) [-W]
 

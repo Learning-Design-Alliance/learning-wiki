@@ -84,7 +84,7 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a learner's device, connectivity and technical support predict whether they can take part in technology-delivered learning and assessment?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **12 distinct studies** (5 associational, 3 review, 2 causal, 2 qualitative), `q2`–`q3`, 0 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a learner's device, connectivity and technical support predict whether they can take part in technology-delivered learning and assessment?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **12 distinct studies** (5 associational, 2 causal, 2 review, 2 qualitative, 1 theoretical), `q1`–`q3`, 0 of 12 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -97,7 +97,7 @@ Structured-response survey item on hardware/software problem frequency; ten perc
 | [Arzu Akbaba 2026](https://doi.org/10.1186/s12912-026-04986-1) | q2 · qualitative · r3 | i? | [Infrastructure barriers — limited internet speed, connectivity problems and lack of techni](infrastructure-barriers-ai-use-nursing-education.md) (supports) |
 | [Conrad Borchers 2026](https://doi.org/10.48550/arxiv.2606.22294) | q2 · qualitative · r3 | i? | [Teachers identify attendance, unreliable devices, prior academic gaps, and COVID-related d](contextual-barriers-persistence-theme.md) (supports) |
 | [Zachariah 2025](https://doi.org/10.51388/20.500.12265/270) | q2 · review · r1 | i? | [Access and resource disparities in AI usage widen divides among postsecondary students](student-ai-access-disparities.md) (supports) |
-| [Theodora 2026](https://doi.org/10.48550/arxiv.2605.16296) | q2 · review · r1 | i? | [AI in adult education risks reinforcing existing inequalities via the digital divide, part](ai-digital-divide-reinforces-inequality.md) (supports) |
+| [Theodora 2026](https://doi.org/10.48550/arxiv.2605.16296) | q1 · theoretical · r? | i? | [AI in adult education risks reinforcing existing inequalities via the digital divide, part](ai-digital-divide-reinforces-inequality.md) (supports) |
 | Vanessa Coca 2007 | q2 · associational · r2 | i? | [Schools where principals reported fewer technology barriers had higher student access and ](principal-barrier-reports-track-teacher-student-technology.md) (supports) |
 | Jesse Chandler 2021 | q2 · causal · r? | i? | [Participants who accessed the report card site with mobile devices had more difficulty usi](mobile-access-increases-report-card-difficulty.md) (supports) |
 <!-- synthesis:end -->

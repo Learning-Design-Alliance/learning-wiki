@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Protocol analysis shows a single learner engages the HPT target through multiple simultaneous selves (hypothetical, factual-seeming, and reflective), contradicting a dichotomous learner-versus-target view. [→ Nilsen 2016](#nilsen-2016)
+`q2 i?` Protocol analysis shows a single learner engages the HPT target by shifting among multiple selves (now-self, hypothetical past self, imagined past self), whose perspectives the article describes as intertwined, contradicting a dichotomous learner-versus-target view. [→ Nilsen 2016](#nilsen-2016)
 
 ## Evidence
 

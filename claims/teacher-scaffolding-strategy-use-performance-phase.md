@@ -44,5 +44,5 @@ One of only two cross-sectional studies on classroom-level interactions and regu
 
 ## Related Claims
 - [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](student-reported-srl-promotion-linked-to-student-motivation.md) — related
-- [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](srl-promotion-not-linked-to-student-cost.md) — related
+- [Student-reported SRL promotion is not significantly associated with students' perceived cost of using strategies at class level, and only negligibly (r = −.04) at student level](srl-promotion-not-linked-to-student-cost.md) — related
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related

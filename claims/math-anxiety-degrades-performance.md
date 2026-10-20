@@ -46,14 +46,14 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do learners with higher anxiety about a subject or a test achieve less in it?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **11 distinct studies** (3 review, 2 quant-synthesis, 2 associational, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q4`, 4 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do learners with higher anxiety about a subject or a test achieve less in it?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **11 distinct studies** (3 review, 2 quant-synthesis, 2 associational, 2 causal, 1 qualitative, 1 theoretical), `q1`–`q4`, 3 of 11 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Barroso et al. 2021](https://doi.org/10.1037/bul0000307) | q3 · quant-synthesis · r2 | i2 · medium effect, r=-.28 | this claim |
 | [Yasser Teimouri 2019](https://doi.org/10.1017/s0272263118000311) | q3 / q4 · quant-synthesis · r2 | i2; i? | [L2 anxiety is negatively correlated with L2 achievement, with a mean correlation of r = −.](l2-anxiety-negative-correlation-achievement-meta-analysis.md) (supports); [The anxiety–achievement correlation varies across educational levels, target languages, an](anxiety-achievement-moderators-levels-languages-anxiety-types.md) (qualifies); [The anxiety–achievement correlation varies across types of language achievement measures](anxiety-achievement-varies-by-achievement-measure-type.md) (qualifies) |
-| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Test anxiety is negatively related to exam performance, and proctoring does not moderate t](test-anxiety-negative-exam-performance.md) (supports) |
-| [Fan 2025](https://doi.org/10.1186/s40594-025-00537-3) | q3 · causal · r2 | i3 | [At semester end, intrinsic motivation was positively correlated and programming anxiety ne](motivation-anxiety-correlate-with-programming-performance.md) (supports) |
+| [Conijn 2022](https://doi.org/10.1111/jcal.12651) | q2 · associational · r2 | i? | [Test anxiety is negatively associated with exam performance, and no moderation by proctori](test-anxiety-negative-exam-performance.md) (supports) |
+| [Fan 2025](https://doi.org/10.1186/s40594-025-00537-3) | q3 · causal · r2 | i? | [At semester end, intrinsic motivation was positively correlated and programming anxiety ne](motivation-anxiety-correlate-with-programming-performance.md) (supports) |
 | Andrew Leichsenring 2010 | q1 · qualitative · r2 | i? | [Anxiety in foreign language classroom learning experiences is linked with oral performance](flca-linked-with-oral-performance-japanese-efl.md) (supports) |
 | [Zhao 2016](https://doi.org/10.64152/10125/66903) | q2 · associational · r2 | i2; i? | [Incidental vocabulary learning anxiety positively predicts L2 incidental vocabulary acquis](incidental-vocabulary-anxiety-positive-predictor.md) (counts against); [L2 proficiency, anxiety, and mastery of strategies jointly explain 18% of variance in inci](learner-factors-model-18-percent-variance.md) (qualifies) |
 | [Elaine K. Horwitz 2010](https://doi.org/10.1017/s026144480999036x) | q1 · theoretical · r? | i? | [Early studies of the relationship between anxiety and achievement produced mixed and confu](early-anxiety-achievement-studies-mixed-results.md) (qualifies) |
@@ -80,7 +80,7 @@ Multilevel meta-analysis of 223 studies published 1992–2018, modeling 747 corr
 
 ## Related Claims
 
-- [Test anxiety is negatively related to exam performance, and proctoring does not moderate this relation](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
+- [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](test-anxiety-negative-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 
 - [Cognitive overload degrades learning](cognitive-overload-degrades-learning.md) — anxiety imposes extraneous load that competes with the same working memory resources
 - [Chunking reduces working memory load](chunking-reduces-working-memory-load.md) — reducing intrinsic load can buffer against anxiety-induced impairment

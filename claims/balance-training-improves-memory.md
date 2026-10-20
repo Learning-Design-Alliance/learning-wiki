@@ -44,5 +44,5 @@ In the randomized controlled trial, ANCOVA of posttest memory (auditory verbal p
 
 ## Related Claims
 - [Balance training improves spatial cognition in healthy adults relative to relaxation training](balance-training-improves-spatial-cognition.md) — related
-- [Neither balance nor relaxation training changes cardiorespiratory fitness, executive functions, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
+- [In one 12-week trial, balance and relaxation training did not detectably differ in their effects on cardiorespiratory fitness, Stroop interference, or psychopathological symptoms](no-fitness-executive-symptom-changes.md) — related
 - [Cognitive benefits of balance training do not differ by age in adults aged 19–65](balance-training-benefits-age-invariant.md) — related

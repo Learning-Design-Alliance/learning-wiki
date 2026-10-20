@@ -35,7 +35,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 
 ## Claims
 <!-- Claims reporting findings about this variable, with evidence tags -->
-- [A middle school math teacher replaced rereading with three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [-W] — instruction changes it
+- [A math teacher whose students had typically prepared for tests by rereading notes implemented three retrieval-practice strategies after learning that rereading is not effective for long-term retention](../claims/retrieval-practice-implementation-case-newell.md) [-W] — instruction changes it
 - [Contextual diversity facilitates episodic recall but impairs recognition](../claims/cd-facilitates-recall-impairs-recognition.md) [~M] — instruction changes it
 - [Declarative memory predicts immediate UGJT posttest gains for irregular past tense only under recasts](../claims/declarative-memory-predicts-irregular-past-ugjt-recasts.md) [~W] — learners who differ on it differ in outcomes
 - [Declarative memory shows no association with regular past tense learning under any CF type](../claims/declarative-memory-null-regular-past-tense.md) [-W] — learners who differ on it differ in outcomes

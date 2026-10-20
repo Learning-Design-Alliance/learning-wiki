@@ -45,5 +45,5 @@ Hierarchical regression analysis of 212 junior high students tested at the start
 ## Related Claims
 - [The prediction power of specific processing speed for mathematics decreases with reduced arithmetic fluency: complex multiplication did not predict mathematics although it predicted Chinese and English](arithmetic-fluency-gradient-complex-multiplication-null-for-math.md) — related
 - [Specific processing speed generalises beyond mathematics, significantly predicting Chinese and English achievement in both Grade 7 and Grade 9](specific-processing-speed-generalises-to-all-academic-achievements.md) — related
-- [Specific processing speed measured in Grade 7 predicts mathematics achievement on the Grade 9 high school entrance examination two years later](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
+- [Specific processing speed measured at the start of Grade 7 predicts mathematics achievement on the high school entrance examination at the end of Grade 9](specific-processing-speed-predicts-grade9-entrance-exam-math.md) — related
 - [Kindergarten visual processing uniquely predicts grade-one early mathematics after controlling for prior mathematics and general cognitive abilities](visual-processing-predicts-grade-one-mathematics.md) — related

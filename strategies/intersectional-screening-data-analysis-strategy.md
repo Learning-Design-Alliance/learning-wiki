@@ -39,7 +39,7 @@ The article recommends that educators and policymakers analyze screening data at
 ## Claims
 
 - [The likelihood of being identified as significantly below benchmark in early literacy screening increases as historically underserved background characteristics intersect](../claims/intersecting-backgrounds-increase-literacy-risk.md) [+W]
-- [School characteristics—percentage of low income students, teacher retention, and attendance—affect students' likelihood of being identified as at significant risk in early literacy screening](../claims/school-characteristics-affect-literacy-risk.md) [+W]
+- [School characteristics—percentage of low income students, teacher retention, and attendance—are associated with students' likelihood of being identified as at significant risk in early literacy screening](../claims/school-characteristics-affect-literacy-risk.md) [+W]
 
 ## Related Strategies
 

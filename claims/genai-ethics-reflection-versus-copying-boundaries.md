@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking
-description: Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking
+title: In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check
+description: In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check
 id: genai-ethics-reflection-versus-copying-boundaries
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Engineering students treat GenAI as acceptable when it stimulates reflection but view directly copying outputs as cheating, leveraging its fallibility to prompt double-checking
+# In interviews with 25 engineering students at one Swedish university, students described GenAI as acceptable when it stimulates reflection and directly copying its outputs as cheating, and one used its fallibility as a prompt to double-check
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Students value personal reflection in their work, viewing extensive automation with GenAI as a violation of their rules and direct copying of outputs as essentially cheating. [→ Tiina Leino Lindell 2026](#tiina-leino-lindell-2026)
-`q2 i?` Students exercise caution in trusting GenAI answers and use its potential for error as a reason to double-check everything during learning. [→ Tiina Leino Lindell 2026 (2)](#tiina-leino-lindell-2026-2)
+`q2 i?` In this qualitative interview sample, some students valued personal reflection in their work, viewing extensive automation with GenAI as a violation of their rules; one called directly copying outputs essentially cheating. [→ Tiina Leino Lindell 2026](#tiina-leino-lindell-2026)
+`q2 i?` One interviewed student described exercising caution in trusting GenAI answers and using its potential for error as a reason to double-check everything while learning. [→ Tiina Leino Lindell 2026 (2)](#tiina-leino-lindell-2026-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Tiina Leino Lindell, Christian Stöhr. (2026). The AI disruption in engineering 
 
 `q2 · i?` · `qualitative · r2`
 
-Student account from the ethics theme of the interview study. Another student said the software cannot be used for making reports because assignments are tasks students must do themselves in order to understand the content.
+Student account from the ethics theme of a qualitative interview study of 25 purposively sampled engineering students at one technical university in Sweden; the views are those of some participants, not a measured prevalence. Another student said the software cannot be used for making reports because assignments are tasks students must do themselves in order to understand the content.
 
 > "Just directly copying outputs from ChatGPT, that' s essentially cheating. You need to be able to reason through what you write."
 
@@ -54,7 +54,7 @@ Tiina Leino Lindell, Christian Stöhr. (2026). The AI disruption in engineering 
 
 `q2 · i?` · `qualitative · r2`
 
-Student account in the ethics theme describing discussing new concepts with AI. The student found it reassuring that AI can be wrong, because "it means you have to double-check everything", making the interaction more of a natural conversation than receiving a right answer.
+One student's account in the ethics theme of the same 25-student interview study, describing discussing new concepts with AI. The student found it reassuring that AI can be wrong, because "it means you have to double-check everything", making the interaction more of a natural conversation than receiving a right answer.
 
 > "it feels helpful to discuss a new concept with someone. And I think AI works very well for that, especially since you are aware that it can be wrong"
 

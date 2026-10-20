@@ -45,4 +45,4 @@ Findings from interviews with district and EPP staff and administrators in the T
 ## Related Claims
 - [TCLAS stipends of $20,000 enabled residents to participate in yearlong residencies by forgoing outside employment](stipends-enable-full-residency-participation.md) — related
 - Charlotte-Mecklenburg’s Strategic Staffing Initiative improved leadership satisfaction and student achievement in struggling schools — related
-- [Long teacher commutes and isolated communities hampered teacher recruitment and retention in eight of nine rural SIG schools](rural-teacher-commutes-hinder-staffing.md) — related
+- [Administrators in eight of nine rural SIG schools reported rural-setting factors, chiefly long teacher commutes (six schools) or isolated communities (four), that hampered teacher recruitment or retention](rural-teacher-commutes-hinder-staffing.md) — related

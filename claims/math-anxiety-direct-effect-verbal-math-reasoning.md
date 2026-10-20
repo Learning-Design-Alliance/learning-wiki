@@ -68,10 +68,10 @@ SEM model comparison for NO in the same sample; the direct math-anxiety path was
 ## Related Claims
 - [Math anxiety's direct effect on math performance emerges in grade 4 but not grade 3, suggesting a developmental trajectory](math-anxiety-direct-effect-emerges-grade-4.md) — related
 - [Working memory fully mediates the effects of math anxiety and attention on children's non-verbal Numerical Operations](wm-fully-mediates-anxiety-attention-numerical-operations.md) — related
-- [Attention problems negatively affect both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
+- [In a cross-sectional model, attention problems relate to both non-verbal and verbal math performance only indirectly, through working memory (and, for MR, reading)](attention-problems-mediated-by-working-memory-math.md) — related
 - [Working memory mediates the indirect effects of anxiety on math performance](wm-mediates-anxiety-effect-on-math.md) — a broader claim this one bears on
 - [Math anxiety partially mediates the relation between attention problems and both math outcomes](math-anxiety-partially-mediates-attention-relation.md) — related
-- [Mathematical metacognition mediates the effect of mathematics anxiety on children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
+- [Mathematical metacognition statistically mediates the association between mathematics anxiety and children's word problem solving after controlling for IQ](metacognition-mediates-ma-wps-children.md) — related
 - [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related
 - [The association between math anxiety and math performance is significant in Grade 3 after accounting for general anxiety](math-anxiety-performance-link-significant-grade-3.md) — related
 - [Math anxiety relates more strongly to Mathematical Reasoning than to Numerical Operations in second and third graders](math-anxiety-stronger-mathematical-reasoning-than-numerical-operations.md) — related

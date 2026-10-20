@@ -44,5 +44,5 @@ Validation sub-study: 60-min samples from 10 of the home recordings were transcr
 
 ## Related Claims
 - [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related
-- [Conversational turn-taking predicts language development better than raw word count or socioeconomic status.](conversational-turns-predict-language-development.md) — related
+- [The number of conversational turns is more closely associated with children's language skills and language-related brain function than the raw number of words heard, regardless of family income or education.](conversational-turns-predict-language-development.md) — related
 - [Child-directed speech varies dramatically among low-SES families, up to an 18-fold difference, largely independent of maternal education and overall talkativeness](cds-variability-within-low-ses-families.md) — related

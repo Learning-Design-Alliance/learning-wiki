@@ -46,5 +46,5 @@ The authors' position statement asserts that "SoB can help promote and consolida
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — related
 - [Short belonging interventions in college settings can produce significant and lasting effects](brief-belonging-interventions-lasting-effects.md) — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — a narrower finding that bears on this claim
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — a broader claim this one bears on

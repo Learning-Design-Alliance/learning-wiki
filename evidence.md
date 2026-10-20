@@ -6,11 +6,11 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **6,029 distinct studies** behind 22,548 claims. What they add up to (the sections below have the detail):
+The wiki holds **6,032 distinct studies** behind 22,556 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 30% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
-- **Few print an effect size.** 1,385 of 6,029 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 611 studies are rated `r3`, done well for their kind; 397 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 1,385 of 6,032 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 610 studies are rated `r3`, done well for their kind; 397 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 71% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
 - **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 45% moderate and 50% weak, and 49% supporting, 46% conditional and 6% against.
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 22,548 |
-| Evidence entries | 26,929 |
-| Distinct studies | 6,029 |
-| Claims resting on one study | 22,032 (98%) |
-| Claims with no coded evidence | 4 |
-| Studies reporting an effect size | 1,385 of 6,029 (23%) |
+| Claims | 22,556 |
+| Evidence entries | 26,934 |
+| Distinct studies | 6,032 |
+| Claims resting on one study | 22,038 (98%) |
+| Claims with no coded evidence | 6 |
+| Studies reporting an effect size | 1,385 of 6,032 (23%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 78 | 772 | 262 | 356 | 1,468 |
-| quant-synthesis | 72 | 140 | 38 | 120 | 370 |
+| causal | 78 | 773 | 262 | 357 | 1,470 |
+| quant-synthesis | 71 | 141 | 38 | 120 | 370 |
 | review | 104 | 408 | 103 | 125 | 740 |
 | associational | 64 | 894 | 356 | 267 | 1,581 |
 | qualitative | 123 | 319 | 68 | 88 | 598 |
-| design | 59 | 532 | 131 | 32 | 754 |
+| design | 59 | 533 | 131 | 32 | 755 |
 | theoretical | 111 | 297 | 53 | 57 | 518 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 749 (12%) | 3,493 (58%) | 1,656 (27%) | 131 (2%) |
+| 748 (12%) | 3,495 (58%) | 1,658 (27%) | 131 (2%) |
 
-**Studies per claim:** 0: 4, 1: 22,032, 2: 430, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 6, 1: 22,038, 2: 430, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -160,5 +160,5 @@ Each page that cites claims carries its own profile under its title. Summarised 
 
 ## Toward pooled estimates
 
-A pooled effect size needs effect sizes with their uncertainty, on one scale, for comparable contrasts and outcomes. Those are recorded in `observations/`, which holds **21 study records**: 2 report a standardised mean difference directly and 6 more report a statistic convertible to one (a correlation, an odds ratio, a partial η²). Fewer than three studies are on that scale at all, so **no pooled estimate is reported**. The wiki's `i` codes are not a substitute: they are bins, and averaging them would state a precision nobody measured.
+A pooled effect size needs effect sizes with their uncertainty, on one scale, for comparable contrasts and outcomes. Those are recorded in `observations/`, which holds **27 study records**: 2 report a standardised mean difference directly and 6 more report a statistic convertible to one (a correlation, an odds ratio, a partial η²). Fewer than three studies are on that scale at all, so **no pooled estimate is reported**. The wiki's `i` codes are not a substitute: they are bins, and averaging them would state a precision nobody measured.
 

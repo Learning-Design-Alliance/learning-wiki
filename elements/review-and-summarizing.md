@@ -56,7 +56,7 @@ Summarizing is effective because it forces generative processing: learners must 
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Training in text structure improves college students' summaries, but summarizing has not been shown here to improve recall or writing more than rereading or other active reading](../claims/summarization-improves-learning.md) [+M]
 - [Summary-writing dyads produce more utterances overall, but most reflect mechanical dictation and copying rather than historical reasoning](../claims/summary-writing-more-utterances-more-off-analysis.md) [~W]
-- [Page readers included more details in their summaries than Scroll readers, while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [~W]
+- [Page readers tended to include more details in their summaries than Scroll readers (a marginal result, p = .056), while recall of main ideas did not differ significantly](../claims/page-presentation-summary-details-recall.md) [~W]
 
 ## Related Elements
 - [Advance Organizers](advance-organizers.md) — the bookend: organizers structure material before learning; summaries consolidate it after

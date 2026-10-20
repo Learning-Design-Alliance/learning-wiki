@@ -9,10 +9,10 @@ generated:
   at: 2026-10-16
 evidence_strength: moderate
 sources:
-  - id: koedinger-2008
-    resource: "https://learnlab.org/"
-    title: "Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/"
-    author: "Koedinger, K., Aleven, V., Roll, I., & Baker, R."
+  - id: koedinger-2009
+    resource: "https://doi.org/10.4324/9780203876428-29"
+    title: "Koedinger, K. R., Aleven, V., Roll, I., & Baker, R. (2009). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. In *Handbook of Metacognition in Education*. Routledge. [doi:10.4324/9780203876428-29](https://doi.org/10.4324/9780203876428-29)"
+    author: "Koedinger, K. R., Aleven, V., Roll, I., & Baker, R."
     q: 3
     i: "?"
     kind: causal
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · causal `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Students who explained their steps with the tutor showed greater gains on Reason items and Not Enough Info transfer items than students who only solved problems. [→ Koedinger 2008](#koedinger-2008)
+`q3 i?` Students who explained their steps with the tutor showed greater gains on Reason items and Not Enough Info transfer items than students who only solved problems. [→ Koedinger 2009](#koedinger-2009)
 
 ## Evidence
 
-### Koedinger 2008
+### Koedinger 2009
 
-Koedinger, K., Aleven, V., Roll, I., & Baker, R. (2008). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. https://learnlab.org/
+Koedinger, K. R., Aleven, V., Roll, I., & Baker, R. (2009). In vivo experiments on whether supporting metacognition in intelligent tutoring systems yields robust learning. In *Handbook of Metacognition in Education*. Routledge. [doi:10.4324/9780203876428-29](https://doi.org/10.4324/9780203876428-29)
 
 `q3 · i?` · `causal · r2`
 

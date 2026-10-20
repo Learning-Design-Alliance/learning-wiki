@@ -44,7 +44,7 @@ Secondary analysis regrouping the two-year drop data: online drops before course
 
 ## Related Claims
 
-- [Grades are lower both for courses taken online and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
+- [For college students who can choose between online and in-person sections, taking a course online lowers grades both in that course and in future courses](online-course-lower-grades-current-and-future.md) — the general claim this finding bears on, with the studies behind it
 - [Expressed dissatisfaction with online technology, instruction, or content is not the primary reason for dropping](dissatisfaction-not-primary-drop-reason.md) — related
 - [Online attrition during Orientation Week is twice that of onground classes' first week](orientation-week-attrition-double-online.md) — related
 - [Online continuing education courses show lower persistence than comparable onground courses (79% vs 84%) over eight quarters](online-continuing-education-persistence-lower-than-onground.md) — related

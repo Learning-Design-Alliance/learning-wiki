@@ -46,4 +46,4 @@ Thematic analysis of interviews with three middle school teachers and twelve 7th
 - [CoBi's speech-based pipeline is technically feasible in noisy middle school classrooms, with visualizations updating in 10-second intervals](cobi-technical-feasibility-classrooms.md) — related
 - [Students strongly prefer qualitative tree visualizations over quantitative radar charts of classroom collaboration](students-prefer-qualitative-tree-over-radar.md) — related
 - [Barriers to using equity visualizations included lack of classroom diversity and teachers' own equity beliefs](barriers-to-equity-visualization-use.md) — related
-- [After the Inclusive Innovation pilots, district-community teams sustained solutions through multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits](inclusive-innovation-sustainability-factors.md) — related
+- [Interviews after the Inclusive Innovation pilots identified multi-level buy-in, implementation iteration, embedding in existing systems, and demonstrating benefits as key lessons for sustaining district-community solutions](inclusive-innovation-sustainability-factors.md) — related

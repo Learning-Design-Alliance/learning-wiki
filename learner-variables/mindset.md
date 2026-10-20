@@ -47,7 +47,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 - [Students with more positively oriented academic mindsets show better academic behaviors and earn better grades than students for whom the mindset beliefs do not feel true](../claims/positive-mindsets-better-behaviors-grades.md) [+W] — learners who differ on it differ in outcomes
 - [Teachers who are effective at improving academic behaviors and mindsets are often not the same teachers who raise math test scores](../claims/teacher-effectiveness-noncognitive-uncorrelated-test-scores.md) [~M] — instruction changes it
 - [The framework's literature review reports students' academic mindsets, learning strategies, perseverance, and behaviors were clearly and significantly related to school performance](../claims/noncognitive-factors-related-to-school-performance-farrington-2012.md) [+W] — learners who differ on it differ in outcomes
-- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](../claims/growth-mindset-reduces-fixed-mindset-beliefs.md) [+M] — instruction changes it
+- [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](../claims/growth-mindset-reduces-fixed-mindset-beliefs.md) [+M] — instruction changes it
 - [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](../claims/growth-mindset-achievement-correlation-weak.md) [+M] — learners who differ on it differ in outcomes
 - [The same student can hold different mindsets in different classrooms, and grades rise or fall across classrooms as mindsets change, with differences traceable to teachers' practices](../claims/mindsets-vary-across-classrooms-with-teacher-practices.md) [~W] — learners who differ on it differ in outcomes
 - [Academic grit mediates a positive indirect effect of growth math mindset on math achievement](../claims/grit-mediation-growth-math-mindset-achievement.md) [+M] — learners who differ on it differ in outcomes
@@ -63,7 +63,7 @@ Mindset is Dweck's term for implicit theories of intelligence: a fixed mindset h
 
 ## The evidence by question
 - *Do growth-mindset interventions raise achievement, and for which learners and in which settings?* [Growth-mindset interventions have weak average effects on achievement, including a negligible GPA gain (d = 0.11) for lower-achieving US ninth-graders in one preregistered national trial](../claims/growth-mindset-improves-achievement.md) [+S]
-- *Can a brief intervention, a programme or a teacher change a learner's mindset?* [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with effects homogeneous across schools](../claims/growth-mindset-reduces-fixed-mindset-beliefs.md) [+M]
+- *Can a brief intervention, a programme or a teacher change a learner's mindset?* [The growth mindset intervention reduced fixed-mindset beliefs among lower-achieving adolescents, with no significant variation in this effect detected across schools](../claims/growth-mindset-reduces-fixed-mindset-beliefs.md) [+M]
 - *Do learners who hold more of a growth mindset achieve more, and for whom is the link stronger or weaker?* [The meta-analytic correlation between growth mind-set and academic achievement is weak (r = .10)](../claims/growth-mindset-achievement-correlation-weak.md) [+M]
 
 ## Related Learner Variables

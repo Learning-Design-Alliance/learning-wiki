@@ -44,7 +44,7 @@ Observational tracking report from the Consortium on Chicago School Research int
 
 ## Related Claims
 - [Ninth-grade on-track status predicts graduation more strongly than prior achievement, with a 55 percentage point gap after controls](ontrack-predicts-graduation-beyond-prior-achievement.md) — possibly the same claim (merge candidate)
-- [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — a narrower finding that bears on this claim
+- [The freshman on-track indicator predicts five-year graduation equally or more strongly for students with learning disabilities, mild cognitive disabilities or emotional disturbances than for students without disabilities, with on-track students two to six times more likely to graduate](on-track-predicts-graduation-students-with-disabilities.md) — a narrower finding that bears on this claim
 - [Freshman OnTrack remains a strong predictor of high school graduation even as on-track rates have risen](freshman-ontrack-predictiveness-held-over-time.md) — possibly the same claim (merge candidate)
 - [Ninth-grade GPA strongly predicts on-time high school graduation, with an especially large gap between F and D students](ninth-grade-gpa-predicts-graduation.md) — related
 - [Within every student category, freshman GPA, course failures, and absences are strongly related to five-year graduation rates, with large drops per half grade point, per additional course failure, and per absence band](freshman-indicators-predict-graduation-within-disability-categories.md) — related

@@ -72,7 +72,7 @@ A team-science randomized experiment with 26,911 incoming students at 22 diverse
 | [Hausmann 2007](https://doi.org/10.1007/s11162-007-9052-9) | q3 · causal · r? | i? | [A belonging-enhancing intervention produced a smaller decline in sense of belonging over t](belonging-intervention-smaller-decline.md) (supports); [Both sense of belonging and intentions to persist decline over the first academic year](belonging-and-persistence-intentions-decline-first-year.md) (qualifies) |
 | [Norberg 2025](https://doi.org/10.1007/978-3-031-98465-5_24) | q2 · design · r2 | i? | [A single 30-minute session co-authoring math word problems with AMPT significantly increas](ampt-session-increased-math-belonging.md) (supports); [After the AMPT co-authoring session, attitudes towards mathematics other than sense of bel](ampt-other-attitudes-unchanged.md) (qualifies) |
 | Harris 2023 | q2 · design · r3 | i? | [Instructional practices aligned to the Belonging MDP were associated with significant decl](belonging-mdp-reduces-effort-and-threat-perceptions.md) (supports) |
-| Hernández 2024 | q2 · review · r1 | i? | [Getting-to-know-you surveys that surface student-teacher commonalities improved relationsh](getting-to-know-you-surveys-commonalities-gap-closure.md) (supports) |
+| Hernández 2024 | q2 · review · r1 | i? | [In one study summarised in a policy brief, students and teachers who learned their commona](getting-to-know-you-surveys-commonalities-gap-closure.md) (supports) |
 <!-- synthesis:end -->
 
 ## Discussion

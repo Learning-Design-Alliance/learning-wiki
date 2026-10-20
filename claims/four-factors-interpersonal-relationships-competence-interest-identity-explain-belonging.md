@@ -44,6 +44,6 @@ Frequency counts of belonging-explanation codes from the interviews, shown in Fi
 
 ## Related Claims
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
-- [Teacher support is the strongest predictor of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
+- [Teacher support is among the strongest predictors of school belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
 - [Belonging measures were typically validated on small, primarily White and middle-class samples without testing factor-structure differences by demographics](belonging-measures-validation-sampling-limits.md) — related

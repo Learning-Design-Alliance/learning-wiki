@@ -14,7 +14,7 @@ sources:
     title: "Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner. (2019). Effects of group experience and information distribution on collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-019-09495-0"
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
-    i: "?"
+    i: 3
     kind: causal
     rigour: 2
   - id: jimmy-zambrano-2019-2
@@ -22,7 +22,7 @@ sources:
     title: "Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner. (2019). Effects of group experience and information distribution on collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-019-09495-0"
     author: Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner
     q: 3
-    i: "?"
+    i: 2
     kind: causal
     rigour: 2
 ---
@@ -30,11 +30,11 @@ sources:
 # Groups with prior collaborative experience on similar tasks outperform inexperienced groups on individual retention tests after collaborative learning of complex tasks
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i2`–`i3`
 
 ## Subclaims
-`q3 i?` In the learning phase, experienced groups outperformed inexperienced groups on task performance. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)
-`q3 i?` In the delayed retention test one week later, experienced groups still outperformed inexperienced groups on individual test performance. [→ Jimmy Zambrano 2019 (2)](#jimmy-zambrano-2019-2)
+`q3 i3` In the learning phase, experienced groups outperformed inexperienced groups on task performance. [→ Jimmy Zambrano 2019](#jimmy-zambrano-2019)
+`q3 i2` In the delayed retention test one week later, experienced groups still outperformed inexperienced groups on individual test performance. [→ Jimmy Zambrano 2019 (2)](#jimmy-zambrano-2019-2)
 
 ## Evidence
 
@@ -42,9 +42,9 @@ sources:
 
 Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner. (2019). Effects of group experience and information distribution on collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-019-09495-0
 
-`q3 · i?` · `causal · r2`
+`q3 · i3 · large effect, ηp² = .26` · `causal · r2`
 
-ANOVA from the learning phase of the 2×2 experiment with 240 secondary school students in 3-person groups. In the learning phase on break-even problems, "experienced groups (M = .52, SD = .42) outperformed inexperienced groups (M = .13, SD = .21)"; the printed means are reported without an effect size in this sentence.
+ANOVA from the learning phase of the 2×2 experiment. Of 240 secondary school students recruited, the learning phase analysed 65 three-person groups after exclusions (39 experienced, 26 inexperienced), at group level (F(1, 61) = 21.12, p < .001, ηp² = .26, Table 4). On break-even problems, "experienced groups (M = .52, SD = .42) outperformed inexperienced groups (M = .13, SD = .21)".
 
 > "Concerning performance, ANOVA revealed that experienced groups (M = .52, SD = .42) outperformed inexperienced groups (M = .13, SD = .21)."
 
@@ -52,9 +52,9 @@ ANOVA from the learning phase of the 2×2 experiment with 240 secondary school s
 
 Jimmy Zambrano, Femke Kirschner, John Sweller, Paul A. Kirschner. (2019). Effects of group experience and information distribution on collaborative learning. Instructional Science. https://doi.org/10.1007/s11251-019-09495-0
 
-`q3 · i?` · `causal · r2`
+`q3 · i2 · medium effect, ηp² = .09` · `causal · r2`
 
-Analysis of the delayed retention test taken seven days after the learning phase, individually scored on three transfer problems. "experienced groups (M = .46, SD = .30) outperformed inexperienced groups (M = .29, SD = .26)"; no effect size is printed in this sentence.
+Analysis of the delayed retention test taken seven days after the learning phase, solved individually: three problems similar to the learning tasks, with the business situation and cost names varied. "experienced groups (M = .46, SD = .30) outperformed inexperienced groups (M = .29, SD = .26)" (F(1, 177) = 17.23, p < .001, ηp² = .09, Table 4).
 
 > "For performance (Table 4), the analysis revealed that experienced groups (M = .46, SD = .30) outperformed inexperienced groups (M = .29, SD = .26)."
 

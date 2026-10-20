@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
-description: Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
+title: In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
+description: In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
 id: chicago-2006-2017-attainment-indicator-gains
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 1
 ---
 
-# Between 2006 and 2017, Chicago Public Schools saw large rises in freshman on-track, graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
+# In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · design `r1` · `q2`
 
 ## Subclaims
 `q2 i?` Between 2006 and 2017, the proportion of CPS freshmen on-track to graduate rose 28 percentage points, with the greatest increases among Black and Latino males. [→ Moeller 2018](#moeller-2018)
-`q2 i?` Over the same period, high school graduation rates rose 18 percentage points and the four-year college enrollment rate rose 14 percentage points, while the proportion of freshmen projected to earn a bachelor's degree doubled. [→ Moeller 2018 (2)](#moeller-2018-2)
+`q2 i?` In what the report calls "the past decade or so" (it gives exact years only for the on-track figure), high school graduation rates rose 18 percentage points and the four-year college enrollment rate rose 14 percentage points, while the proportion of freshmen projected to earn a bachelor's degree doubled. [→ Moeller 2018 (2)](#moeller-2018-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ Moeller, E., Seeskin, A., & Nagaoka, J. (2018). Practice-Driven Data: Lessons fr
 
 `q2 · i?` · `design · r1`
 
-The introduction's descriptive trend summary for CPS: graduation rates up 18 percentage points, four-year college enrollment up 14 percentage points, and the proportion of freshmen projected to earn a bachelor's degree doubled, described as occurring "even with thousands of more high school graduates". Figures are descriptive; no inferential statistics are printed.
+The introduction's descriptive trend summary for CPS over "the past decade or so" (exact years are given only for the on-track rise): graduation rates up 18 percentage points, four-year college enrollment up 14 percentage points, and the proportion of freshmen projected to earn a bachelor's degree doubled, described as occurring "even with thousands of more high school graduates". Figures are descriptive; no inferential statistics are printed.
 
 > "High school graduation rates have increased by 18 percentage points, with ACT scores improving at the same time. Most impressively, even with thousands of more high school graduates, the four-year college enrollment rate rose by 14 percentage points, and the overall proportion of high school freshmen who are projected to earn a bachelor's degree has doubled in the last decade."
 

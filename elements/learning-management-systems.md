@@ -28,7 +28,7 @@ Learning management systems are the element in which course organization, materi
 - [LMS activity contributes only modestly to explained variance in exam grades, and gender-by-LMS interactions add no explained variance in any course](../claims/lms-activity-no-gap-reduction.md) [-W]
 - [AI agents can now navigate and complete tasks within learning management systems](../claims/ai-agents-navigate-and-complete-lms-tasks.md) [~W]
 - [Computer anxiety negatively affects students' perceived ease of use of a learning management system](../claims/computer-anxiety-negative-effect-lms-peu.md) [~W]
-- [Computer self-efficacy significantly mediates the effect of computer anxiety on perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [~W]
+- [In a cross-sectional survey, computer self-efficacy statistically mediates the association between computer anxiety and perceived ease of use of an LMS](../claims/cse-mediates-anxiety-peu-lms.md) [~W]
 - [LMS quality did not significantly influence academic performance and did not independently mediate the AI literacy–performance relationship](../claims/lms-quality-no-direct-effect-no-independent-mediation.md) [-W]
 - [Self-reported weekly time-on-task is positively correlated with LMS-based time-on-task and activity measures in engineering courses](../claims/self-reported-lms-time-on-task-correlated.md) [~W]
 - [The sequential pathway from AI literacy through LMS quality and blended-learning satisfaction to academic performance is significant (β = .263, p < .001)](../claims/sequential-mediation-pathway-significant.md) [~W]

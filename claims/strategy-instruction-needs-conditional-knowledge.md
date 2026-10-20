@@ -71,7 +71,7 @@ This is the source paper that introduces conditional knowledge as one of three c
 | [Alfieri et al. 2013](https://doi.org/10.1080/00461520.2013.775712) | q4 · quant-synthesis · r? | i2 · medium effect, d=0.50, 95% CI [.44, .56] | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Gentner et al. 2003](https://doi.org/10.1037/0022-0663.95.2.393) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
 | [Rittle-Johnson & Star 2007](https://doi.org/10.1037/0022-0663.99.3.561) | q3 · causal · r? | i? | [Comparing cases side by side improves learning and transfer by a moderate average amount, ](comparing-contrasting-cases-improves-learning.md) (qualifies) |
-| [Burgos 2021](https://doi.org/10.17583/redimat.2021.6778) | q2 · theoretical · r2 | i? | [Students can apply procedural knowledge to solve integration problems but show limited und](procedural-strong-conceptual-limited-integral.md) (supports) |
+| [Burgos 2021](https://doi.org/10.17583/redimat.2021.6778) | q1 · theoretical · r2 | i? | [Students can apply procedural knowledge to solve integration problems but show limited und](procedural-strong-conceptual-limited-integral.md) (supports) |
 | Star 2015 | q2 · review · r3 | i? | [Alternative-strategy practices are most effective for improving procedural flexibility, wi](alternative-strategies-most-effective-for-procedural-flexibility.md) (supports) |
 <!-- synthesis:end -->
 

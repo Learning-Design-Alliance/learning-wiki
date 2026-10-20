@@ -32,7 +32,7 @@ Parent Teacher Home Visits (PTHV) is a family-engagement programme run by the Pa
 - **Parent Teacher Home Visits (PTHV) family engagement model**: PTHV is a family engagement program co-created by parents and educators using community organizing principles of shared leadership. Teachers conduct 30-40 minute home visits in which they listen, ask questions, and make observations to improve instruction. The model is structured by five non-negotiables, including that "Visits are voluntary and arranged in advance" and "Educators go in pairs and reflect." (Academic Performance — Parent Teacher Home Visits (2021))
 
 ### Claims
-- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
+- [Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
 - [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [+W] — (also cited [~W])
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](../claims/pthv-home-visit-reduces-disciplinary-incidents.md) [+W]
 
@@ -73,7 +73,7 @@ PTHV is a family engagement program co-created by parents and educators using co
 
 ## Claims
 
-- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
+- [Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
 - [Home visits improved standardized math scores (ES = +0.11) but showed no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [+W]
 - [A home visit before the school year reduced the likelihood of a disciplinary incident (effect size = +0.10)](../claims/pthv-home-visit-reduces-disciplinary-incidents.md) [+W]
 
@@ -119,7 +119,7 @@ PTHV is a family engagement program co-created by parents and educators using co
 
 ## Claims
 
-- [Teacher home visits slightly improved student attendance in the following school year (ES = +0.02)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
+- [Teacher home visits slightly improved student attendance in the following school year (95.28% vs 94.93%; ES = +0.02 in the Evidence for ESSA summary)](../claims/pthv-home-visits-improve-attendance-slightly.md) [+W]
 - [Home visits showed slight improvements in math scores but no difference in ELA scores](../claims/pthv-home-visit-math-gain-no-ela-difference.md) [~W]
 
 ## Related Elements

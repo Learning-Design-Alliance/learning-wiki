@@ -70,7 +70,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 - [Accumulation and cross-text elaboration are uncorrelated and show opposite-sign correlations with intertextual comprehension](../claims/strategy-dimensions-uncorrelated-opposite-correlations.md) [~W]
 - [Prompted and control groups show no significant differences in separative elaborations within domains or in additions](../claims/no-prompt-effect-within-domain-elaborations-additions.md) [-W]
 - [Older adults produce fewer internal details than younger adults during elaboration across both experiments](../claims/aging-fewer-internal-details-elaboration.md) [~W]
-- [Self-explanation-based and inquiry learning elicit more elaborative processes specifically, across all three elaborative subcategories](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
+- [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](../claims/generation-approaches-elicit-more-elaborative-processes.md) [+W]
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](../claims/example-correctness-correlations-posttest.md) [~W]
 - [Instruction followed by either self-generated or provided illustrative examples outperformed instruction only on knowledge retention and transfer in student teachers](../claims/examples-after-instruction-beat-instruction-only-retention-transfer.md) [+W]
 - [Elaboration was not correlated with goal attainment in MOOCs](../claims/elaboration-not-correlated-goal-attainment.md) [-W]
@@ -84,7 +84,7 @@ Elaboration improves retention and comprehension because deeper processing at en
 
 - *Does answering 'why is this true?' about each statement improve memory and understanding of it over reading it, and when does it not?* [Elaborative Interrogation Improves Learning](../claims/elaborative-interrogation-improves-learning.md) [+S]
 - *Does having learners generate their own elaborations improve learning, compared with no elaboration or with elaborations supplied to them?* [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](../claims/generative-processing-improves-learning.md) [+M]
-- *Is time spent elaborating on material better spent than the same time retrieving it?* [Quizzing outperforms no/filler activity, fewer-question testing, restudying, and other elaborative strategies, with the advantage shrinking as the control condition's reexposure increases.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [-M]
+- *Is time spent elaborating on material better spent than the same time retrieving it?* [Quizzing outperforms no/filler activity, fewer-question testing and restudying, with a larger advantage over no/filler activity (low reexposure) than over restudying (high reexposure); against other elaborative strategies its advantage is small and not significant.](../claims/quizzing-beats-restudying-and-elaborative-controls.md) [-M]
 
 ## Related Elements
 - [Analogies](analogies.md) — a specific elaboration form connecting new content to familiar domains

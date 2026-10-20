@@ -44,7 +44,7 @@ Bivariate correlation analysis (Table 1) among the three estimation tasks in the
 
 ## Related Claims
 - [Number naming and number comparison are better predictors of kindergarten arithmetic than number line estimation](number-naming-comparison-better-predictors-than-number-line-estimation.md) — related
-- [Symbolic numerical magnitude comparison contributes more uniquely to subtraction performance than number line estimation](magnitude-comparison-more-unique-than-number-line.md) — related
+- [Symbolic numerical magnitude comparison has a more unique association than number line estimation with children's speed on indirect-addition subtraction items](magnitude-comparison-more-unique-than-number-line.md) — related
 - [Both symbolic and nonsymbolic magnitude processing correlate with subtraction accuracy, but subtraction speed is associated only with symbolic tasks](symbolic-nonsymbolic-accuracy-speed-dissociation.md) — related
 - [Number line estimation and numerical magnitude comparison correlate with mathematics achievement (r = .24 to .44), with number line estimation more strongly related in older children](number-sense-tasks-correlate-with-math-achievement.md) — reports the opposite
 - [Symbolic number comparison accuracy is the only number sense measure with a significant partial correlation with math](symbolic-comparison-partial-correlation-math.md) — related

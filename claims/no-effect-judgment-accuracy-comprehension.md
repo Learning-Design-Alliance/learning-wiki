@@ -45,4 +45,4 @@ Regression analysis on judgment accuracy of comprehension (bias, scored from -4.
 ## Related Claims
 
 - [Adequacy of regulation decisions did not depend on misconceptions or instructional method](no-effect-regulation-decision-adequacy.md)
-- [Instructional visuals did not affect test performance or test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md)
+- [In Studies 1a and 2, instructional visuals produced no significant difference in test performance or in test and explain relative metacomprehension accuracy](instructional-visuals-no-effect-test-performance-or-test-explain-accuracy.md)

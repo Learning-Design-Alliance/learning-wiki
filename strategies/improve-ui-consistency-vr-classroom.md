@@ -38,7 +38,7 @@ The authors' forward-looking recommendation is to improve usability through enha
 
 ## Claims
 
-- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation attributed to UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [+W]
+- [The system receives a good average usability rating (SUS 69.7, grade B) but with wide individual variation, which the authors take to suggest UI consistency issues](../claims/photon-fusion-sus-good-but-variable-usability.md) [+W]
 
 ## Related Strategies
 - 

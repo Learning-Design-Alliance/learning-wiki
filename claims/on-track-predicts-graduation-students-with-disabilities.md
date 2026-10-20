@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate
-description: The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to grad...
+title: The freshman on-track indicator predicts five-year graduation equally or more strongly for students with learning disabilities, mild cognitive disabilities or emotional disturbances than for students without disabilities, with on-track students two to six times more likely to graduate
+description: The freshman on-track indicator predicts five-year graduation equally or more strongly for students with learning disabilities, mild cognitive disabilities or emotional disturbances than for students without disabilities, with on-track students two to six times more likely to graduate
 id: on-track-predicts-graduation-students-with-disabilities
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# The freshman on-track indicator predicts five-year graduation equally or more strongly for students with disabilities than for students without disabilities, with on-track students two to six times more likely to graduate
+# The freshman on-track indicator predicts five-year graduation equally or more strongly for students with learning disabilities, mild cognitive disabilities or emotional disturbances than for students without disabilities, with on-track students two to six times more likely to graduate
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r3` · `q2`
@@ -44,7 +44,7 @@ Julia Gwynne, Joy Lesnick, Holly M. Hart, Elaine M. Allensworth. (2009). What Ma
 
 `q2 · i?` · `associational · r3`
 
-Chapter 3 analysis of the 2001 CPS freshman cohort relating freshman on-track status to five-year graduation. Figure 11 prints on-track versus off-track graduation rates for each of five categories, e.g. 87% versus 31% for students without disabilities.
+Chapter 3 analysis of the 2001 CPS freshman cohort relating freshman on-track status to five-year graduation. Figure 11 prints on-track versus off-track graduation rates for each of five categories (no identified disability, two or more years below grade level, learning disability, mild cognitive disability, emotional disturbance), e.g. 87% versus 31% for students without disabilities. Students with speech/language or physical/sensory disabilities are not in this analysis, so the finding covers those three disability categories, not students with disabilities as a whole.
 
 > "although only 57 percent of on-track students with emotional disturbances graduate in five years (compared with 87 percent of students without disabilities), on-track students with emotional disturbances are almost six times more likely to graduate than off-track students with emotional disturbances."
 
