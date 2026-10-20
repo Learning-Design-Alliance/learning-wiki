@@ -37,7 +37,7 @@ The "hypercorrection effect" describes the phenomenon where errors committed wit
 
 ## Subclaims
 `q2 i?` Correcting high-confidence errors leads to superior long-term retention of the correct information compared to correcting low-confidence errors. [→ Metcalfe 2017](#metcalfe-2017)
-`q3 i?` The surprise of being wrong triggers deeper attention and memory reconsolidation for high-confidence errors. [→ Fazio & Marsh 2009](#fazio-marsh-2009)
+`q3 i?` Feedback that contradicts a high-confidence answer is better remembered, in both its appearance and its content, a pattern the authors read as consistent with surprise drawing attention to the feedback at encoding. [→ Fazio & Marsh 2009](#fazio-marsh-2009)
 
 ## Evidence
 
@@ -55,9 +55,9 @@ This comprehensive review synthesizes decades of research on learning from error
 
 Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. *Psychonomic Bulletin & Review, 16*(1), 88–92. [https://doi.org/10.3758/PBR.16.1.88](https://doi.org/10.3758/PBR.16.1.88)
 
-`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=unspecified` · `causal · r?`
+`q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=118` · `causal · r?`
 
-Experiments in this study confirmed that feedback is more effectively processed and remembered when it contradicts a high-confidence prediction, supporting the mechanism of surprise-driven attention in error correction.
+Two experiments with undergraduates (46 in Experiment 1, 72 in Experiment 2) found better memory for the appearance of feedback (its font colour or voice) when it contradicted participants' confidence, and Experiment 2 also showed the hypercorrection effect itself. The authors read this as consistent with the surprise hypothesis, using memory for the feedback's appearance as a measure of attention; attention was not manipulated directly.
 
 ## Studies bearing on this claim
 

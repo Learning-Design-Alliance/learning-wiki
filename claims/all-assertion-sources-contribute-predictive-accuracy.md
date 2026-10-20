@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · design `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Corpus-derived and construct-derived assertions each add predictive accuracy beyond word-only features, as measured by macro-F1 and Cohen's kappa. [→ Julian Bernado 2026](#julian-bernado-2026)
+`q2 i?` Models using words plus corpus-derived and construct-derived assertions reached macro-F1 0.527–0.673 against 0.339 for words only; the authors conclude all three sources contribute, though Table 1 reports no words-plus-construct-derived-only condition. [→ Julian Bernado 2026](#julian-bernado-2026)
 
 ## Evidence
 

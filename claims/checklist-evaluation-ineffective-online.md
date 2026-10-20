@@ -53,7 +53,7 @@ In the two quasi-experiments recorded here, a single library session teaching th
 
 `q2 i?` In a one-shot library session for first-year business students, CRAAP-checklist sections did no better or worse than six-question-word sections on source-evaluation quizzes, but produced lower-rated source use in end-of-semester papers. Students in both conditions still leaned on domain-name heuristics for web sources. This qualifies the claim: it is a comparison with a similar method, not with lateral reading. [→ Lowe et al. 2021](#lowe-et-al-2021)
 
-`q2 i?` Against the claim: in one-shot instruction with undergraduate nursing students, the CRAAP Test group's accuracy in judging live health websites rose significantly from pre-test to a five-week post-test. It did not differ from a networked (lateral-reading-style) framework at any time point. There was no untrained control group. [→ Ratcliffe 2026](#ratcliffe-2026)
+`q2 i?` Against the claim: in one-shot instruction with undergraduate nursing students, the CRAAP Test group's mean accuracy across the test sources (health-misinformation sites, reliable consumer-health sites and peer-reviewed articles) rose significantly from 41% at pre-test to 59% at a five-week post-test. It did not differ from a networked (lateral-reading-style) framework at any time point. There was no untrained control group. [→ Ratcliffe 2026](#ratcliffe-2026)
 
 ## Evidence
 

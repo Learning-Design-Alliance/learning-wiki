@@ -31,7 +31,7 @@ sources:
 
 ### Goodson 1994
 
-Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. https://eric.ed.gov/?id=ED376160 [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)
+Goodson, Ivor F. (1994). 'The Story So Far': Personal Knowledge and the Political. ERIC ED376160. https://eric.ed.gov/?id=ED376160 — the version read here; the article was published as Goodson, I. F. (1995), The story so far: personal knowledge and the political, *International Journal of Qualitative Studies in Education, 8*(1), 89–98, [doi:10.1080/0951839950080109](https://doi.org/10.1080/0951839950080109)
 
 `q1 · i?` · `theoretical · r2`
 

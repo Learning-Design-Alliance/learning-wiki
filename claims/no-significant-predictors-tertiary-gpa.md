@@ -35,7 +35,7 @@ Mussel, Patrick. (2022). Processes Underlying the Relation between Cognitive Abi
 
 `q3 · i?` · `associational · r2`
 
-Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). The article reports this null pattern as conflicting with existing literature, and the author attributes it to the heterogeneous sample drawn from career counseling, with much variance within degree categories. Equivalence was not tested.
+Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). The article reports this null pattern as conflicting with existing literature, and the author attributes it to the heterogeneous sample drawn from career counseling, with much variance within degree categories. The study tested measurement equivalence of the predictors across measurement occasions, but ran no statistical equivalence test on these null associations, so they show no detected association rather than evidence of none.
 
 > "In contrast, none of the three constructs was signiﬁcantly associated with tertiary academic performance."
 

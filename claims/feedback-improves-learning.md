@@ -1,6 +1,6 @@
 ---
 type: claim
-title: "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance"
+title: "Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative"
 status: review
 generated:
   by: claude/unspecified
@@ -29,7 +29,7 @@ sources:
     rigour: 2
 ---
 
-# Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance
+# Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 2 quant-synthesis `r2` · `q4` · `i2` medium
@@ -55,7 +55,7 @@ Wisniewski, B., Zierer, K., & Hattie, J. (2020). The power of feedback revisited
 
 `q4 · random-effects meta-analysis` · `i2 · medium effect, d=0.48` · `n=435 studies (k=994 effects, N>61,000)` · `quant-synthesis · r2`
 
-A random-effects meta-analysis of empirical studies of feedback on student learning in education, drawn from the studies behind earlier meta-analyses. The overall effect was medium (d = 0.48), but heterogeneity was large, so the authors argue that feedback should not be treated as a single intervention. The most important moderator was how much information the feedback carried: reinforcement or punishment gave d = 0.24 [0.06–0.43], corrective feedback d = 0.46 [0.39–0.55], and high-information feedback, which adds information about self-regulation, d = 0.99 [0.82–1.15]. Effects were larger on cognitive (d = 0.51) and motor-skill (d = 0.63) outcomes than on motivational ones (d = 0.33).
+A random-effects meta-analysis of empirical studies of feedback on student learning in education, drawn from the studies behind earlier meta-analyses. The overall effect was medium (d = 0.48), but heterogeneity was large, so the authors argue that feedback should not be treated as a single intervention. The most important moderator was how much information the feedback carried: reinforcement or punishment gave d = 0.24 [0.06–0.43], corrective feedback d = 0.46 [0.39–0.55], and high-information feedback, which adds information about self-regulation, d = 0.99 [0.82–1.15]. Effects were larger on cognitive (d = 0.51) and motor-skill (d = 0.63) outcomes than on motivational ones (d = 0.33). 17% of the effects were negative, fewer than the "about a third" the authors note for Kluger and DeNisi (1996).
 
 <!-- merged 2026-10-05: a second write-up of this study, kept verbatim. It came from feedback-use-improves-learning; same citation and DOI (Crossref: "The Power of Feedback Revisited: A Meta-Analysis of Educational Feedback Research", Wisniewski 2020). Its note that Kluger & DeNisi (1996) could not be read is out of date: that study is now an entry on this page.
 ### Wisniewski Zierer Hattie 2020

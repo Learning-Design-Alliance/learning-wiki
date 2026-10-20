@@ -1,7 +1,7 @@
 ---
 type: claim
-title: As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease
-description: As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease
+title: In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it
+description: In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it
 id: retention-transfer-scores-decrease-with-element-interactivity
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 2
 ---
 
-# As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease
+# In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Session-level retention and transfer scores in both groups fell as experts' element interactivity classification of the session topics rose, though teaching style also influenced scores. [→ Kala 2023](#kala-2023)
+`q2 i?` Comparing session-level retention and transfer scores with experts' element interactivity classification of the session topics, the authors concluded that scores generally decreased as element interactivity rose, but the pattern was not consistent: the control group's highest retention score came in a high-interactivity session (Session 7) and a low one in a low-interactivity session (Session 4), and the authors note that teaching style and question type (conceptual versus procedural) also affected scores. [→ Kala 2023](#kala-2023)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Kala, N., & Ayas, A. (2023). Effect of instructional design based on cognitive l
 
 `q2 · i?` · `causal · r2`
 
-Descriptive analysis of the eight RTs and TTs plotted against the experts' low/high/very-high classification (Figures 3 and 4): the authors determined that "as the element interactivity level of the topics learned in the study increased, learning became more difficult and scores decreased."
+Descriptive analysis of the eight RTs and TTs plotted against the experts' low/high/very-high classification (Figures 3 and 4): the authors determined that "as the element interactivity level of the topics learned in the study increased, learning became more difficult and scores decreased." This is a descriptive reading of the plots with no test of the trend, and it has exceptions the authors list: all students in Session 5 and the control group in Session 4 scored lower than the experts' classification predicted, the control group's highest retention score came in high-interactivity Session 7, and the authors attribute part of the variation to teaching style and to conceptual versus procedural questions.
 
 > "it was determined that as the element interactivity level of the topics learned in the study increased, learning became more difficult and scores decreased."
 

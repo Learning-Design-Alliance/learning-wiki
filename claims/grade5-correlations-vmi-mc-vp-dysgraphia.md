@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
 
 ## Subclaims
-`q2 i3` In group GV, VMI correlated with MC (r = 0.748, p = 0.013) and VP correlated with dysgraphia classification (r = 0.643, p = 0.045) under Bonferroni correction (p < 0.0008). [→ Capellini 2017](#capellini-2017)
+`q2 i3` In group GV, VMI correlated with MC (r = 0.748, p = 0.013) and VP correlated with dysgraphia classification (r = 0.643, p = 0.045); the authors mark both as significant, although neither p-value meets the Bonferroni threshold (p < 0.0008) they state. [→ Capellini 2017](#capellini-2017)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Capellini, S. A., Giaconi, C., & Germano, G. D. (2017). Relation between Visual 
 
 `q2 · i3` · `associational · r1`
 
-Correlation analysis across VMI, VP, MC and dysgraphia classification for the whole population, Bonferroni-corrected at p < 0.0008. Table 7 prints GV correlations of r = 0.748 (VMI-MC, p = 0.013) and r = 0.643 (VP-classification, p = 0.045); "only group GV there was two positives correlations with moderate force".
+Correlation analysis across VMI, VP, MC and dysgraphia classification for the whole population, Bonferroni-corrected at p < 0.0008. Table 7 prints GV correlations of r = 0.748 (VMI-MC, p = 0.013) and r = 0.643 (VP-classification, p = 0.045), both marked significant although neither meets the stated corrected threshold; "only group GV there was two positives correlations with moderate force".
 
 > "Results are reported i n Table 7  showed that only group GV there was two positives correlations with moderate force (Zou, Tunacall, & Silverman, 2003) between VMI and MC"
 

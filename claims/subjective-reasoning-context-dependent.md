@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
-`q2 i?` About 60% of PSMTs (41 of 68) reasoned subjectively in the giving-birth context, but no subjective reasoning appeared in the die task, showing realistic contexts elicit subjective probability where randomising-device tasks do not. [→ Elbehary 2021](#elbehary-2021)
+`q2 i?` About 60% of PSMTs (41 of 68) reasoned subjectively in the giving-birth context, but no subjective reasoning appeared in the die task; in this one comparison of two items, the realistic context elicited subjective reasoning and the die task did not (other realistic contexts and randomising devices were not tested). [→ Elbehary 2021](#elbehary-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Elbehary, S.G.A. (2021). Reasoning under uncertainty within the context of proba
 
 `q2 · i?` · `qualitative · r2`
 
-Cross-case comparison of the same 68 PSMTs' responses to two questionnaire items. The article reports subjective reasoning matched 'nearly 60% (41 cases from 68)' in giving birth yet 'did not emerge in the task of throwing a die', supporting the fruitfulness of realistic contexts for displaying subjective probability.
+Cross-case comparison of the same 68 PSMTs' responses to two questionnaire items. The article reports subjective reasoning matched 'nearly 60% (41 cases from 68)' in giving birth yet 'did not emerge in the task of throwing a die'; the author reads this as supporting the fruitfulness of realistic contexts for displaying subjective probability, from one realistic item and one die item.
 
 > "the category of subjectively oriented thinkers, noted by S and including s, s*, and s **, which matches nearly 60% (41 cases from 68) of PSMTs’ reasoning in the context of giving birth, did not emerge in the task of throwing a die"
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.
-description: All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.
+title: All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.
+description: All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.
 id: gps-wayfinding-actional-immersion-accessible
 status: review
 generated:
@@ -19,14 +19,14 @@ sources:
     rigour: 2
 ---
 
-# All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old navigating alone.
+# All families in the dataset successfully used the GPS wayfinding map for actional immersion, including a 5-year-old who took over wayfinding while his mother cared for a younger sibling.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
 
 ## Subclaims
 `q2 i?` Every family used the GPS map to navigate between microsites, with children partnering in navigation. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)
-`q2 i?` Even young children successfully used the GPS map for wayfinding when adults were occupied. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)
+`q2 i?` In one family a 5-year-old took the iPad and successfully used the GPS map for wayfinding while his mother was occupied with his younger sibling. [→ Heather Toomey Zimmerman 2023](#heather-toomey-zimmerman-2023)
 
 ## Evidence
 

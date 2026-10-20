@@ -23,7 +23,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q3`
 
 ## Subclaims
-`q3 i?` Self-efficacy increased progressively from maladaptive (M = 3.94) to moderate (M = 4.61) to positive adaptation (M = 5.11), F = 42.13, p < 0.001, with all pairwise differences significant. [→ Wu Y 2026](#wu-y-2026)
+`q3 i?` Self-efficacy increased progressively from maladaptive (M = 3.94) to moderate (M = 4.61) to positive adaptation (M = 5.11), Wald χ²(2) = 42.13, p < 0.001, with all pairwise differences significant. [→ Wu Y 2026](#wu-y-2026)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ Wu Y (2026) Proﬁles and transitions of psychological adaptation in AI-assisted
 
 `q3 · i?` · `associational · r2`
 
-BCH-adjusted Wald tests of Time 3 distal outcomes across profiles, accounting for classification uncertainty; all three profiles differed significantly from one another in self-efficacy, increasing progressively from maladaptive to positive adaptation.
+BCH-adjusted Wald tests of Time 3 distal outcomes across profiles, accounting for classification uncertainty; all three profiles differed significantly from one another in self-efficacy, increasing progressively from maladaptive to positive adaptation. Table 8 gives the omnibus statistic as a Wald chi-square with two degrees of freedom, χ²Wald(2) = 42.13; the text below labels the same value F.
 
 > "For Japanese learning self- eﬃcacy, the omnibus test was signiﬁcant, F = 42.13, p < 0.001. Learners in the positive adaptation proﬁle reported the highest level of self-eﬃcacy (M = 5.11), followed by those in the moderate adaptation proﬁle (M = 4.61), whereas those in the maladaptive adaptation proﬁle reported the lowest level (M = 3.94)."
 

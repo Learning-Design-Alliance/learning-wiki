@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present"
-description: "Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present"
+title: "Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present"
+description: "Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present"
 id: graph-helpful-harmful-contrasting-cases
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Contrasting problems show the same graph can be helpful or harmful: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present
+# Contrasting problems show a graph can help on one problem and harm on another: verbal data reveal both more active graph use and more shallow, confident confirmation when graphs were present
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r2` · `q2`

@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Sessions starting with Argue trigger Discuss (43%), Evaluate (14%), and continued Argue (12%), whereas sessions starting with Share or Discuss continue at low cognitive levels (Discuss 33%, Share 14%, Socialize 21%). [→ Mohammed Saqr 2023](#mohammed-saqr-2023)
+`q2 i?` In the group-level process model, Argue was followed by Discuss (43%), Evaluate (14%) and further Argue (12%), whereas Share and Discuss were followed by low-cognitive interactions (Discuss 33%, Share 14%, Socialize 21%). [→ Mohammed Saqr 2023](#mohammed-saqr-2023)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Mohammed Saqr, Sonsoles López-Pernas. (2023). The temporal dynamics of online p
 
 `q2 · i?` · `associational · r2`
 
-Stochastic process mining with a first-order Markov model (RQ1) estimated transition probabilities between coded interactions in the PBL groups, showing that argument-initiated discussions lead to productive exchanges, while "students who start with Share and Discuss do not progress to other types of high cognitive interactions".
+Stochastic process mining with a first-order Markov model (RQ1) estimated transition probabilities between coded interactions in the PBL groups, showing that Argue was more often followed by productive exchanges (transition probabilities in observational data, so associations rather than demonstrated causes), while "students who start with Share and Discuss do not progress to other types of high cognitive interactions".
 
 > "students who start the discussion with Argue trigger discussions (Discuss, 43%), Evaluate (14%), continue to Argue (12%), or Socialize, expressing gratitude, or appreciation of an argument"
 

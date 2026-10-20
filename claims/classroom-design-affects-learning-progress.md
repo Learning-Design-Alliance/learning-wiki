@@ -49,7 +49,7 @@ The physical characteristics of a classroom — daylight, air quality, temperatu
 
 `q2 i2` Across 153 primary classrooms, design factors grouped as naturalness, individualisation, and stimulation explained roughly 16% of the variation in pupils' learning progress over one year. [→ Barrett et al. 2015](#barrett-et-al-2015)
 
-`q2 i2` Naturalness factors — daylight, air quality, and temperature — carry about half the total design effect, making them the highest-leverage targets in a retrofit. [→ Barrett et al. 2015](#barrett-et-al-2015)
+`q2 i2` Naturalness factors — daylight, air quality, and temperature — carry about half the total design effect in this observational model; the study did not test retrofits or other interventions. [→ Barrett et al. 2015](#barrett-et-al-2015)
 
 `q2 i?` An earlier pilot across 34 classrooms established the same multi-level structure and identified the six design parameters the later study confirmed. [→ Barrett et al. 2013](#barrett-et-al-2013)
 
@@ -65,7 +65,7 @@ Barrett, P., Davies, F., Zhang, Y., & Barrett, L. (2015). The impact of classroo
 
 `q2 · observational multi-level regression with pupil-level controls (not randomised)` · `i2 · design factors explain ~16% of variance in year-on-year progress` · `n=3766 pupils, 153 classrooms, 27 schools` · `associational · r2`
 
-The HEAD (Holistic Evidence and Design) study surveyed 153 classrooms across 27 English primary schools, coding each room on physical parameters measured on site, and matched them to 3,766 pupils' reading, writing, and mathematics progress across one academic year. A multi-level model controlling for pupil age, gender, and prior attainment attributed about 16% of the variation in progress to classroom design. The effects clustered into three groups: **naturalness** (daylight, air quality, temperature) contributing roughly half the total; **individualisation** (ownership of the space, flexibility of layout — [flexible seating](../strategies/flexible-seating.md), display of pupils' own work); and **stimulation** (wall display complexity and colour), which behaved curvilinearly, with both under- and over-decorated rooms scoring lower than moderate ones.
+The HEAD (Holistic Evidence and Design) study surveyed 153 classrooms across 27 English primary schools, coding each room on physical parameters measured on site, and matched them to 3,766 pupils' reading, writing, and mathematics progress across one academic year. A multi-level model controlling for pupils' starting attainment and attainment relative to age, free school meals, EAL and SEN status (gender was tested and was not significant) attributed about 16% of the variation in progress to classroom design. The effects clustered into three groups: **naturalness** (daylight, air quality, temperature) contributing roughly half the total; **individualisation** (ownership of the space, flexibility of layout — [flexible seating](../strategies/flexible-seating.md), display of pupils' own work); and **stimulation** (visual complexity of the room layout, ceiling and displays, and colour), both of which behaved curvilinearly, with high- and low-complexity classrooms scoring lower than intermediate ones.
 
 ### Barrett et al. 2013
 

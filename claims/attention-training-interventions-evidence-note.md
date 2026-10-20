@@ -11,8 +11,8 @@ evidence_strength: weak
 sources:
   - id: stevens-courtney-2009
     resource: "https://doi.org/10.1111/j.1467-7687.2009.00807.x"
-    title: "Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x"
-    author: Stevens Courtney, Lauinger Brittni, Neville Helen
+    title: "Stevens, C., Lauinger, B., & Neville, H. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x"
+    author: "Stevens, C., Lauinger, B., & Neville, H."
     q: 2
     i: "?"
     kind: associational
@@ -25,17 +25,17 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q1 i?` The review of existing work attributes to several studies that attention can be trained and that effective interventions exist for improving attention in children of all ages. [→ Stevens Courtney 2009](#stevens-courtney-2009)
+`q1 i?` In its discussion, this ERP study's review of earlier work attributes to several studies that attention can be trained and that effective interventions exist for improving attention in children of all ages. [→ Stevens Courtney 2009](#stevens-courtney-2009)
 
 ## Evidence
 
 ### Stevens Courtney 2009
 
-Stevens Courtney, Lauinger Brittni, Neville Helen. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
+Stevens, C., Lauinger, B., & Neville, H. (2009). Differences in the neural mechanisms of selective attention in children from different socioeconomic backgrounds: An event-related brain potential study. Developmental Science, 12(4), 634-646. https://doi.org/10.1111/j.1467-7687.2009.00807.x
 
 `q2 · i?` · `associational · r1`
 
-Narrative review of intervention work named in the article (Tools of the Mind, a computerized preschool attention training curriculum, prior attention training before a writing intervention), reported here second-hand with no pooled estimates; the article concludes "attention can indeed be trained".
+The article is an ERP study of selective attention in 32 children aged 3 to 8, grouped by maternal education; it ran no intervention. Its discussion reviews intervention work by others (Tools of the Mind, a computerized preschool attention training curriculum, prior attention training before a writing intervention), reported here second-hand with no pooled estimates; the article concludes "attention can indeed be trained".
 
 > "These studies suggest that attention can indeed be trained and that effective interventions exist for improving attention in children of all ages. Furthermore, at least two studies (Rueda et al., 2005; Stevens, Fanning et al., 2008) report that behavioral improvements in attention, nonverbal intelligence, and/or language and preliteracy are accompanied by changes in the neural mechanisms of attention"
 

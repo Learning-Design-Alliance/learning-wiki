@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
-description: Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
+title: In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
+description: In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
 id: teacher-aes-agree-tails-diverge-middle
 status: review
 generated:
@@ -27,14 +27,14 @@ sources:
     rigour: 2
 ---
 
-# Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
+# In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Teachers were more likely to give a 2 while the AES was more likely to give a 3, with agreement at scores of 1 and 4 across domains. [→ Greene Nolan 2023](#greene-nolan-2023)
-`q2 i?` In Organization and Language & Style, teachers skewed toward 1s and 2s while AES showed a normal distribution centered on 2s and 3s, a pattern teachers attributed to holistic human reading versus line-by-line AES feedback. [→ Greene Nolan 2023 (2)](#greene-nolan-2023-2)
+`q2 i?` In Support & Evidence and Claim & Focus, teachers were more likely to give a 2 while the AES was more likely to give a 3, with agreement at the lowest and highest scores; Organization and Language & Style showed a different pattern. [→ Greene Nolan 2023](#greene-nolan-2023)
+`q2 i?` In Organization and Language & Style, teachers skewed toward 1s and 2s while most AES scores were 2s and 3s (described as a normal distribution for Organization); for Organization, teachers attributed the pattern to holistic human reading versus line-by-line AES feedback. [→ Greene Nolan 2023 (2)](#greene-nolan-2023-2)
 
 ## Evidence
 
@@ -44,7 +44,7 @@ Greene Nolan, H. L., & Vang, M. C. (2023). Automated essay scoring in middle sch
 
 `q2 · i?` · `associational · r2`
 
-Domain-level score distributions (Figures 2–5) from the 160-essay convening scoring show tail agreement and middle-score divergence; teachers described erring toward indicating a student is still on their way.
+Domain-level score distributions (Figures 2–5) from the 160-essay convening scoring show tail agreement and middle-score divergence in Support & Evidence and Claim & Focus (not in Organization or Language & Style); teachers described erring toward indicating a student is still on their way.
 
 > "Just like in the domain of Support & Evidence, teachers were more likely to give a 2 as a score, whereas the AES appeared more likely to give a 3 as a score"
 

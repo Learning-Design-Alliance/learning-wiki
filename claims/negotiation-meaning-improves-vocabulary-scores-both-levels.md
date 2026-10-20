@@ -39,6 +39,8 @@ Independent samples T-tests (Table 3): high school vocabulary score T=9.172, col
 
 > "both of the experimental groups (mean=5. 8393, 3.7143,) outperform the two control groups (mean= 2.1667, 3.7143) in the post-vocabulary tests that are held a week later (P=0. 000<0.05)"
 
+The second control mean in that sentence is a typo in the article: Table 3 gives the college control group a mean of 2.1579 (n=38) against 3.7143 (n=42) for the college experimental group, and 2.1667 (n=42) against 5.8393 (n=56) in the high school sample.
+
 ## Discussion
 
 ## Related Claims

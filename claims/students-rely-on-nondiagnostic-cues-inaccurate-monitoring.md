@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` The review reports, citing Bol et al. (2010), Hacker et al. (2008), and Thiede et al. (2010), that students tend to rely on non-diagnostic cues such as text length, interest, or study effort rather than diagnostic performance cues, resulting in inaccurate judgments. [→ van de Pol 2024](#van-de-pol-2024)
+`q2 i?` The article (a conceptual and methodological framework with an explorative study) states in its background, citing Bol et al. (2010), Hacker et al. (2008), and Thiede et al. (2010), that students tend to rely on non-diagnostic cues such as text length, interest, or study effort rather than diagnostic performance cues, resulting in inaccurate judgments. [→ van de Pol 2024](#van-de-pol-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ van de Pol, J., & Oudman, S. (2024). Teachers' judgment accuracy of students' mo
 
 `q2 · i?` · `associational · r2`
 
-The review attributes this pattern to prior research on students' cue-utilization when judging their own performance, naming text length, topic interest, and study effort as non-diagnostic cues students use.
+The article, a conceptual and methodological framework with an explorative study of teachers' judgments, does not test this itself; in its background it attributes the pattern to prior research on students' cue-utilization when judging their own performance, naming text length, topic interest, and study effort as non-diagnostic cues students use.
 
 > "When judging their performance, students tend to rely on non-diagnostic cues such as text length, interest in the text topic, or study effort instead of diagnostic performance cues such as their ability to explain the meaning of a text, resulting in inaccurate judgments"
 

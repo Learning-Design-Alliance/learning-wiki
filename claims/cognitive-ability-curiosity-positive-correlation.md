@@ -35,7 +35,7 @@ Mussel, Patrick. (2022). Processes Underlying the Relation between Cognitive Abi
 
 `q3 · i1` · `associational · r2`
 
-Bivariate correlations from the German Personality Panel longitudinal study (N = 1965 at T1), reported in the Results section. The article reports a positive correlation between cognitive ability and curiosity, "r = 0.27 for T1", consistent with prior literature on investment traits.
+Bivariate correlations from the German Personality Panel longitudinal study (total N = 1965; T1 measures available for 1940 on cognitive ability and 1662 on curiosity), reported in the Results section. The article reports a positive correlation between cognitive ability and curiosity, "r = 0.27 for T1", consistent with prior literature on investment traits.
 
 > "In line with the literature, cognitive ability and curiosity were positively correlated ( r = 0.27 for T1)."
 

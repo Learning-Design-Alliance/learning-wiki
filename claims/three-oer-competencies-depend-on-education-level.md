@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear
-description: Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear
+title: Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear
+description: Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear
 id: three-oer-competencies-depend-on-education-level
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: 1
 ---
 
-# Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear
+# Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1` · `q2` · `i2` medium
 
 ## Subclaims
-`q2 i?` Chi-square tests found significant dependence between educational level and competence for defining OER elements (p = .006), communicating in another language (p = .011), and OER search (p = .001). [→ García-López 2017](#garcia-lopez-2017)
+`q2 i?` Of 37 item-level chi-square tests, three found a significant association between educational level and the competence item: defining OER elements (module 1, question 6; p = .006), communicating in another language (p = .011), and OER search (p = .001). These are associations in a survey, not evidence that educational level causes the differences. [→ García-López 2017](#garcia-lopez-2017)
 `q2 i2` For defining OER elements, the printed effect size Spearman's Rho = .258 indicates the association with level of studies is very low and not linear. [→ García-López 2017 (2)](#garcia-lopez-2017-2)
 
 ## Evidence

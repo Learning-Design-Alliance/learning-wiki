@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r1` · `q2`
 
 ## Subclaims
-`q2 i?` The study concludes that active participation and feeling accepted enhance learning more than belonging alone. [→ Wabike 2021](#wabike-2021)
+`q2 i?` The study concludes that active participation has a more significant impact on learning than mere membership, and that feeling accepted enhances the learning experience. [→ Wabike 2021](#wabike-2021)
 
 ## Evidence
 

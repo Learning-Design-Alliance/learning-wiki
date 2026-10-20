@@ -1,7 +1,7 @@
 ---
 type: claim
-title: AI applications support self-regulated learning regulation but not motivational regulation
-description: AI applications support self-regulated learning regulation but not motivational regulation
+title: Learners perceive AI applications as useful for regulating their learning but not for regulating motivation
+description: Learners perceive AI applications as useful for regulating their learning but not for regulating motivation
 id: ai-supports-srl-not-motivation-regulation
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# AI applications support self-regulated learning regulation but not motivational regulation
+# Learners perceive AI applications as useful for regulating their learning but not for regulating motivation
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`

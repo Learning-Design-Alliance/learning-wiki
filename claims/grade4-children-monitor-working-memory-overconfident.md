@@ -35,7 +35,7 @@ Freeman, Emily E.; Karayanidis, Frini; Chalmers, Kerry A. (2017). Metacognitive 
 
 `q3 · i?` · `associational · r2`
 
-Repeated-measures experiment with 73 Grade 4 children completing the WMPT across five difficulty levels. The discussion reports confidence fell with difficulty but less than accuracy, so children "tend to be over-confident in their ability", especially on difficult tasks.
+Correlational study of 73 Grade 4 children who completed the WMPT at five difficulty levels (a repeated-measures task), analysed with correlations and regressions; the authors note that its correlational nature limits causal or directional claims. The discussion reports confidence fell with difficulty but less than accuracy, so children "tend to be over-confident in their ability", especially on difficult tasks.
 
 > "The expected decrease in children’s confidence in their decisions on the WMPT was also found, but this decrease was not as large as the decrease in accuracy, suggesting that while metacognitive monitoring of working memory is related to performance, children tend to be over-confident in their ability."
 
