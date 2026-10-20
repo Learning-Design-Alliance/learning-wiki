@@ -42,3 +42,4 @@ In the multiple mediation model testing four mediators simultaneously, maternal 
 
 ## Related Claims
 - [Household and community factors—parenting knowledge, stress, depression, and resource scarcity—may mediate or constrain SES-related differences in input and learning](household-community-factors-constrain-input.md) — reports the opposite
+- [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — related

@@ -46,3 +46,4 @@ Conference report by the editors describing attendance at CSCL 2011 in Hong Kong
 
 - [Shanghai students took first place in all three major PISA 2009 categories, with Asian countries dominating the top rankings](shanghai-first-place-pisa-2009-all-categories.md)
 - [The series reached nearly 1,200 registrations across four events, drawing experienced educators from 22 countries](edcamp-dfl-reach-and-audience.md)
+- [The EDPR editorial board spans 50 members from 10 countries across 4 continents, and the editor sees more diversity as valuable](edpr-board-geographic-diversity.md) — related

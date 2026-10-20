@@ -46,3 +46,4 @@ Systematic scoping review following PRISMA, searching three databases to March 2
 
 - [Fifteen unique RCR outcome measures with supporting validation evidence were identified, all covering research integrity but only ten covering research ethics](fifteen-validated-rcr-measures-ri-re-coverage.md)
 - [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md)
+- [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — related

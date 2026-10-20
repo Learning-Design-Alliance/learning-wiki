@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 75 claims (55 show a difference, 10 mixed, 10 no difference) · 56 studies (19 causal, 18 associational, 11 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 15 of 56 report an effect size · 72 claims rest on one study
+> **Evidence** · 77 claims (57 show a difference, 10 mixed, 10 no difference) · 57 studies (19 causal, 18 associational, 12 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 16 of 57 report an effect size · 74 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -116,6 +116,8 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Students learned more from context about words not previously known, but this prior-knowledge interaction appeared only in the multiple-choice data](../claims/context-learning-prior-knowledge-interaction-mixed.md) [~W] — an instructional effect differs with it
 - [Vocabulary is the only unique predictor of global coherence inference making at all three ages, 6 through 10 years](../claims/vocabulary-only-unique-predictor-global-coherence-all-ages.md) [+W] — learners who differ on it differ in outcomes
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~W] — learners who differ on it differ in outcomes
+- [Family SES effects on children's reading are partially mediated in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

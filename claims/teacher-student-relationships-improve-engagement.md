@@ -182,3 +182,4 @@ A narrative review reports this meta-analysis of more than 90 PreK–12 articles
 - Subject-matter-centered reform that ignores climate may raise achievement scores while increasing dropout rates — related
 - [Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)](interest-achievement-correlation-31.md) — related
 - [Pokémon Go play is associated with improved social well-being, belonging, and connection, and reduced anxiety about leaving the house](pokemon-go-social-wellbeing-benefits.md) — a narrower finding that bears on this claim
+- [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related

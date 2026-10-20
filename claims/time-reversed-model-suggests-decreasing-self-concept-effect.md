@@ -44,3 +44,6 @@ Simulation analysis fitting both the RI-CCLPM-C and a time-reversed model to SIM
 
 ## Related Claims
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) — related
+- [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
+- [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
+- [The alternative models proposed by Sorjonen et al. relied on specifications that raised model-validity concerns or did not fully capture the extended REM's temporal structure](sorjonen-models-specification-validity-concerns.md) — related

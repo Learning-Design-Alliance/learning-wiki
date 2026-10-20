@@ -2,7 +2,7 @@
 
 Designs for a particular setting, course, population or product: what a design uses the general patterns for. A pattern is general across contexts; a design is not.
 
-**973 entries** · 0 stable · 973 in review · 0 drafts
+**974 entries** · 0 stable · 974 in review · 0 drafts
 
 ---
 
@@ -180,6 +180,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Community Integrated Data System for coordinating student supports](community-integrated-data-system-ucla-cs.md) - During the COVID-19 pandemic, UCLA-CS partnered with UCLA's Life Course Intervention Research Network to create a Community Integrated Data System (CIDS) that helps three support teams, faculty, and staff communicate...
 * [Community organizing cycle as a model for school transformation](community-organizing-cycle-school-change.md) - The report describes the community organizing cycle as the change model embodied by the RCS campaign.
 * [Community-building through celebratory traditions: quarterly awards, bridging ceremonies, and staff-family-student recognition](celebratory-traditions-school-community.md) - This pattern uses recurring celebratory events to build school community and reinforce culture.
+* [COMPASS: a theory-driven intervention addressing dimensional and temporal comparison processes and their associated beliefs](compass-comparison-intervention-framework.md) - COMPASS (comparison processes in students' self-concept formation) is an intervention framework that enhances subject-specific academic self-concepts by educating students about dimensional comparisons (comparisons of...
 * [Competency-mapping module organizing curriculum topics by difficulty, prerequisites, and concept clusters](cyberagents-competency-mapping-module.md) - The competency-mapping module extracts structured competencies from course materials using a cybersecurity-specific competency schema.
 * [Complementary-affordances account: AI dialogue as supported monologue versus human dialogue as interactional-competence practice](ai-supported-monologue-complementary-affordances.md) - The article's explanatory framework holds that AI and human dialogue \"create distinct but complementary conditions for L2 practice.\" AI dialogue \"structurally approximates supported monologue\": sustained output with f...
 * [Composite daily math lesson structure with six engagement-oriented components](six-component-engaged-math-lesson-structure.md) - The observed middle school math lessons shared a common structure of six components: a warm-up, direct instruction, group activity, share-out, note-taking, and demonstration of understanding.

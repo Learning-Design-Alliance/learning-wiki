@@ -53,3 +53,4 @@ The brief summarizes its OPRE comprehensive review of self-regulation interventi
 - Childhood poverty interferes with adult working memory, with chronic childhood stress a major contributor — related
 - [Mindfulness interventions in schools show the largest between-group effects for cognitive performance (g = 0.80) and smaller significant effects for stress (g = 0.39) and resilience (g = 0.36)](mindfulness-domain-effects-cognitive-stress-resilience.md) — related
 - [Mindfulness and yoga interventions improved self-regulation in 4 of 8 interventions (50%), mostly applied within the adolescent age group.](mindfulness-yoga-interventions-improved-sr-4-of-8.md) — related
+- [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](meditation-small-social-competence-effects.md) — related

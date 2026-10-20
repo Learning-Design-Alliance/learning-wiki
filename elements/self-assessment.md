@@ -22,7 +22,7 @@ sources:
 # Self-Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 53 claims (12 for, 28 mixed, 13 against) · 43 studies (21 causal, 10 associational, 4 review, 3 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q2`–`q4` · 16 of 43 report an effect size · 49 claims rest on one study
+> **Evidence** · 54 claims (13 for, 28 mixed, 13 against) · 44 studies (21 causal, 10 associational, 4 review, 4 theoretical, 3 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 16 of 44 report an effect size · 50 claims rest on one study
 
 ## Description
 Self-assessment is the element in which learners judge their own work, understanding, or progress against explicit criteria. It is useful when the goal is not only better immediate performance, but stronger self-monitoring and more accurate judgments about what to improve next.
@@ -103,6 +103,7 @@ Self-assessment is the element in which learners judge their own work, understan
 - [Verbalized self-reported confidence is overconfident in the mid-confidence range, while consistency-based confidence shows good average calibration but localized failure regions](../claims/verbalizing-overconfidence-consistency-local-failures.md) [~W]
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](../claims/effort-item-wording-flips-correlation-direction.md) [~W]
 - [The relationship between invested mental effort and self-assessed understanding is weak and inconsistent, with most correlations non-significant and mixed directions](../claims/effort-understanding-weak-inconsistent-relationship.md) [-W]
+- [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](../claims/students-overestimate-sport-performance-calibration.md) [+W]
 
 ## The evidence by question
 

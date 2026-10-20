@@ -73,3 +73,4 @@ Descriptive statistics across the four groups (Table 1) show the APCA group's lo
 - [Learners are substantially overconfident when evaluating the quality of their self-generated examples](overconfidence-evaluating-self-generated-examples.md) — related
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
 - [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](practice-feedback-improves-metacognitive-calibration.md) — related
+- [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](students-overestimate-sport-performance-calibration.md) — a narrower finding that bears on this claim

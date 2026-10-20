@@ -125,3 +125,5 @@ A review synthesising the classroom-environment literature into two channels. **
 - [Physical environment elements — sunlight, nature views, temperature, and lighting — affect learning](physical-environment-affects-learning.md) — a narrower finding that bears on this claim
 - [Natural lighting and green window views benefit mood, sleep, cognition, and test performance](daylight-green-views-benefit-students.md) — related
 - [Poor indoor air quality harms student health and can hinder academic success directly or indirectly](poor-iaq-harms-student-health-and-learning.md) — related
+- [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — a narrower finding that bears on this claim
+- [In a same-teacher study of different math classes, student characteristics contributed 7–13% of variance in instructional quality across individual lessons](student-characteristics-7-13-percent-variance-instructional-quality.md) — related

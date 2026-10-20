@@ -49,3 +49,4 @@ Report's data systems section, from county interviews and document review, finds
 - County-administered QRIS in California is voluntary, uneven, and destabilized by time-limited categorical funding — related
 - A landscape review found fragmentation in California's teacher workforce infrastructure, with no agency holding singular responsibility for workforce planning — related
 - Fragmented California educator data systems limit leaders' ability to assess bilingual workforce investments and address shortages — related
+- [Test-based Quality Rating and Improvement Systems have been costly, inefficient, and subject to manipulation, while collaborative quality-improvement approaches are emerging](qris-test-based-costly-manipulated-collaborative-emerging.md) — related

@@ -52,3 +52,4 @@ Hierarchical regression (Model 2) predicting performance expectations in the sam
 - [Fake social-comparative feedback combined with fictional malleability information successfully induces large changes in self-efficacy beliefs](fake-feedback-induces-self-efficacy-changes.md) — related
 - [Older age groups report lower global performance judgments of their mathematical competence, controlling for education](age-lower-math-performance-judgment-adults.md) — related
 - [Older age groups report lower global performance judgments of their reading competence, controlling for education](age-lower-reading-performance-judgment-adults.md) — related
+- [Self-efficacy is moderately related to academic achievement but is more a product of past performance than a driver of future performance](self-efficacy-achievement-and-past-performance.md) — related

@@ -51,3 +51,4 @@ PLS-SEM structural model with the three psychological needs predicting objective
 - [Engineering students perceive AI chatbot benefits as strongest for relief from competence frustration, moderate for autonomy, and weakest for relatedness](ai-chatbot-need-specific-benefits-engineering-students.md) — related
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
+- [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related

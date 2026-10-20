@@ -36022,5 +36022,89 @@
  "worked-examples\tworked examples\theuristics-based search for problem-solving steps": {
   "label": "worked examples vs problem-solving search",
   "treatment_is_a": true
+ },
+ "active-learning\tnon-interactive teaching\trestudy": {
+  "label": "Non-interactive teaching vs restudy",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem- and project-based learning requiring students to work together\tlecture-based pedagogy": {
+  "label": "Problem- and project-based learning vs lecture-based pedagogy",
+  "treatment_is_a": true
+ },
+ "active-learning\twritten non-interactive teaching\tretrieval": {
+  "label": "Retrieval practice vs written non-interactive teaching",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tchose elements and names in a computer game\tdid not choose the elements and names": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchose the category of anagrams\tyoked category chosen for them": {
+  "label": "choice vs no choice",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tmotivational teaching style\tcomparison not stated": {
+  "label": "autonomy-supportive teaching vs comparison teaching",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher allowing students to make choices\tlower demonstration of allowing students to make choices": {
+  "label": "more vs less autonomy-supportive teaching",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers allowing students to make choices\tother teacher behaviours": {
+  "label": "autonomy-supportive teaching vs other teacher behaviours",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteachers allowing students to make choices\tother teacher behaviours in the model": {
+  "label": "autonomy-supportive teaching vs other teacher behaviours",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmore direct instruction\tless direct instruction": {
+  "label": "more direct instruction vs less direct instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tno coverage of ethical standards\tcoverage of ethical standards": {
+  "label": "ethical-standards coverage vs no ethical-standards coverage",
+  "treatment_is_a": false
+ },
+ "interleaving\thigher motivation plus information about strategy effectiveness\thigher motivation alone": {
+  "label": "strategy-effectiveness information plus motivation vs motivation alone",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved study sequence with awareness of utility and effectiveness\tless demanding study strategy": {
+  "label": "interleaved study with strategy-utility and effectiveness awareness vs less demanding study strategy",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved study sequences with goal relevance and strategy-effectiveness information\tless demanding blocked study strategy or motivation information alone": {
+  "label": "interleaved study with goal relevance and strategy-effectiveness information vs blocked study or motivation-only strategy",
+  "treatment_is_a": true
+ },
+ "interleaving\tinterleaved study sequences, with strategy utility and effectiveness explained\tless demanding strategy or interleaving without sufficient strategy-effectiveness information": {
+  "label": "interleaved study with strategy-effectiveness information vs less demanding strategy or insufficiently explained interleaving",
+  "treatment_is_a": true
+ },
+ "media-design\tcluttered classroom walls\tsparse classroom walls": {
+  "label": "cluttered classroom walls vs sparse classroom walls",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated practice\tlittle or no repetition": {
+  "label": "more practice vs less or no practice",
+  "treatment_is_a": true
+ },
+ "problem-first\tproblem-based curriculum\tsubject-based curriculum": {
+  "label": "problem-based vs subject-based curriculum",
+  "treatment_is_a": true
+ },
+ "retrieval-practice\tnon-interactive teaching\tretrieval practice": {
+  "label": "retrieval practice vs non-interactive teaching",
+  "treatment_is_a": false
+ },
+ "rewards-incentives\textrinsic rewards for already-motivated activities\tno extrinsic rewards": {
+  "label": "extrinsic rewards vs no extrinsic rewards",
+  "treatment_is_a": true
+ },
+ "scaffolding\thigher perceived teacher scaffolding\tlower perceived teacher scaffolding": {
+  "label": "higher teacher scaffolding vs lower teacher scaffolding",
+  "treatment_is_a": true
  }
 }

@@ -49,3 +49,4 @@ The commentary summarizes Törmänen et al.'s (2025) systematic review of 80 emp
 - [Affective experience during situated collaborative problem solving is organized around a stable epistemic core linking curiosity, optimism, and confusion with short-range persistence](stable-epistemic-core-curiosity-optimism-confusion-cps.md) — related
 - [Elementary school children show substantial day-to-day within-person fluctuations in sleep quality, time in bed, daytime tiredness, and working memory performance](children-daily-fluctuations-sleep-and-working-memory.md) — related
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
+- [A small a priori set of motivational constructs risks three failures in explaining situated motivated action](a-priori-construct-sets-risk-three-failures.md) — related

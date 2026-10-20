@@ -43,4 +43,4 @@ The commentary reports that Asikainen and Gijbels' (2017) systematic review of s
 
 
 ## Related Claims
--
+- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related

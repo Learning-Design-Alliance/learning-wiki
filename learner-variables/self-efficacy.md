@@ -13,7 +13,7 @@ generated:
 # Self-Efficacy
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 120 claims (94 show a difference, 15 mixed, 11 no difference) · 101 studies (41 associational, 20 causal, 14 qualitative, 12 review, 8 design, 5 theoretical, 1 quant-synthesis), `q1`–`q3` · 15 of 101 report an effect size · 117 claims rest on one study
+> **Evidence** · 122 claims (96 show a difference, 15 mixed, 11 no difference) · 103 studies (41 associational, 20 causal, 14 qualitative, 13 review, 8 design, 5 theoretical, 2 quant-synthesis), `q1`–`q3` · 17 of 103 report an effect size · 119 claims rest on one study
 
 ## Description
 Self-efficacy is Bandura's term for task-specific confidence: how sure a learner is that they can do what a task requires. It is measured with self-report scales tied to a domain (mathematics self-efficacy, writing self-efficacy, computer self-efficacy). It predicts effort, persistence and achievement, it moderates some instructional effects, and it is itself an outcome that instruction can raise, chiefly through experiences of success, seeing similar others succeed, and specific feedback. It is narrower than [motivation](motivation.md) and distinct from general self-esteem.
@@ -151,6 +151,8 @@ Self-efficacy is Bandura's term for task-specific confidence: how sure a learner
 - [All participants reported higher teaching self-efficacy after the teaching-simulation training](../claims/teaching-simulation-training-raises-self-efficacy.md) [+M] — instruction changes it
 - [Teachers' self-efficacy for SRL promotion shows significant indirect effects on students' self-efficacy, utility value and attainment value via teacher- and student-reported SRL promotion, with no indirect path to cost](../claims/indirect-effects-teacher-self-efficacy-via-srl-promotion.md) [+M] — instruction changes it
 - [Endorsement of brilliance-oriented FABs predicts lower self-efficacy among stigmatized students in brilliance-oriented contexts](../claims/brilliance-contexts-lower-self-efficacy.md) [~M] — instruction changes it
+- [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](../claims/pa-improve-self-efficacy-expectations.md) [+M] — instruction changes it
+- [Self-efficacy is moderately related to academic achievement but is more a product of past performance than a driver of future performance](../claims/self-efficacy-achievement-and-past-performance.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

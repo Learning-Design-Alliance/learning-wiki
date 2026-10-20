@@ -47,3 +47,4 @@ A narrative synthesis of four mainstream motivation theories reviewing their ide
 - [Situational motivation is highly context-dependent and fluctuates within and between learners, but most studies rely on self-reports](situational-motivation-context-dependent-fluctuating-self-report-dominated.md) — related
 - [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](autonomy-supports-intrinsic-motivation.md) — related
 - [Sociocultural SLA literature portrays learners who resist mainstream social interaction negatively, as 'nonparticipating' or having 'negative attitude'](sociocultural-sla-demonizes-socially-resistant-learners.md) — related
+- [A small a priori set of motivational constructs risks three failures in explaining situated motivated action](a-priori-construct-sets-risk-three-failures.md) — a narrower finding that bears on this claim

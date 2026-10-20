@@ -50,3 +50,4 @@ The primer's social-and-cognitive-benefits section reports, citing Clarke et al.
 - [Participants reported that the trust-building collaborative environment enabled open and vulnerable sharing](trust-climate-enabled-open-sharing.md) — a narrower finding that bears on this claim
 - [Interacting repeatedly across convenings built trust that enabled districts to give and receive critiques of one another's plans](repeated-convenings-trust-enables-critique.md) — a narrower finding that bears on this claim
 - [Collaboration was sustained after both direct and soft disagreements, with no rude behaviors observed](collaboration-sustained-after-disagreements.md)
+- [Familiarity with the target improves SPT accuracy](target-familiarity-improves-spt-accuracy.md) — related

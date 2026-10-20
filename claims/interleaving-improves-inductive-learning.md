@@ -155,3 +155,4 @@ Multilevel random-effects meta-analysis of 59 studies (238 effect sizes, 158 sam
 - [The discriminative-contrast hypothesis treats spacing and interleaving as distinct effects, with interleaving benefits more likely for similar than dissimilar interleaved tasks](discriminative-contrast-distinct-effects.md) — related
 - [Interleaving benefits low-skilled students more than high-skilled students when learning math problem categories](interleaving-benefit-low-skilled-students.md) — related
 - [Verbal learning tasks with intervals filled with other to-be-learned items test the discriminative-contrast hypothesis rather than the spacing effect](verbal-learning-tasks-test-discriminative-contrast.md) — related
+- [The text generation effect shrinks with longer texts and is small and nonsignificant for texts over 900 words](text-length-moderator-generation-effect.md) — related

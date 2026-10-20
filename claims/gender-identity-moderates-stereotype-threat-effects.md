@@ -46,3 +46,4 @@ Structural equation modeling with moderated multiple mediation tested interactio
 - [Working memory effectiveness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](working-memory-mediation-chronic-stereotype-threat.md) — a narrower finding that bears on this claim
 - [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
 - [Negative stereotype salience combined with high ethnic self-identification inhibits academic performance, while positive stereotypes facilitate it](stereotype-threat-ethnic-identity-performance.md) — related
+- [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related

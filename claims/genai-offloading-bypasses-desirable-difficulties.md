@@ -51,3 +51,4 @@ Theoretical argument in this perspective article's section on cognitive offloadi
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
 - AIEd research is weakly connected to theoretical pedagogical perspectives — related
 - [Learners learning with generative AI risk offloading monitoring and control of learning to the AI, suppressing learner agency](generative-ai-offloading-suppresses-srl-agency.md) — related
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related

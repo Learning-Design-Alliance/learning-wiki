@@ -239,3 +239,5 @@ This study found that the seductive details effect was not uniform: readers with
 - [Seductive detail amount did not increase learners' intrinsic motivation in either study](sd-amount-no-motivation-effect.md)
 - [Reading passages without intent to learn was classified as rest because participants were not informed of a later test](incidental-reading-classified-as-rest.md) — related
 - [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](suboptimal-design-hints-trigger-costly-self-management.md) — related
+- [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](individual-interest-predicts-achievement.md) — a narrower finding that bears on this claim
+- [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related

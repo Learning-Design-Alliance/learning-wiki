@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1823 entries** · 0 stable · 1823 in review · 0 drafts
+**1826 entries** · 0 stable · 1826 in review · 0 drafts
 
 ---
 
@@ -659,6 +659,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [GeoVAD-Bench](geovad-bench.md) - A diagnostic benchmark created by Zhitong Dong et al.
 * [GeoWeave](geoweave.md) - A post-training framework developed by Zhitong Dong et al.
 * [Gephi](gephi.md) - Gephi is an open-source network analysis and visualization platform developed and maintained by the Gephi community and contributors.
+* [German Test Anxiety Inventory (PAF)](german-test-anxiety-inventory-paf.md) - A 20-item self-report questionnaire measuring worry, interference, lack of confidence, and arousal facets of test anxiety in students.
 * [Getting Ready](getting-ready.md) - Getting Ready is a University of Nebraska–Lincoln program that trains early childhood educators in evidence-based family-partnership strategies and coaches them in collaborative goal-setting through home visits, conferences, and informal interactions.
 * [GGMnonreg](ggmnonreg.md) - GGMnonreg is an R package that implements non-regularized Gaussian graphical-modeling methods for low-dimensional data, developed by Donald Williams.
 * [GO Tutor Corps](go-tutor-corps.md) - GO Tutor Corps is a school-based high-impact mathematics tutoring programme that provides individualized or small-group tutoring, structured sessions, and progress monitoring for students needing additional academic support.
@@ -766,6 +767,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Intermediate Mechanics Tutorials](intermediate-mechanics-tutorials.md) - A University of Maine curriculum under development for second-year mechanics courses in which students first encounter differential equations, with associated materials made available through the project.
 * [Internationals Network for Public Schools](internationals-network-for-public-schools.md) - The Internationals Network for Public Schools framework guides a network of schools serving recent immigrant and English-learner students through five principles covering collaboration, experiential learning, language–content integration, local autonomy, and a common learning model.
 * [IntroEduAI](introeduai.md) - IntroEduAI is an educational platform developed to deliver programming assignments, automatically evaluate student responses with large language models against instructor-authored rubrics, and generate response-level feedback and assignment-level reports.
+* [Inventory of Learning Styles (ILS)](inventory-of-learning-styles-ils.md) - A self-report assessment developed by Jan Vermunt to measure higher-education students' processing and regulation strategies, conceptions of learning, and learning orientations.
 * [Inventory of Perceived Study Environment Extended (IPSEE)](inventory-of-perceived-study-environment-extended-ipsee.md) - A 56-item student questionnaire, with a parallel teacher version, developed by Karin D.
 * [Investigations in Number, Data, and Space; Math Expressions; Saxon Math; and Scott Foresman-Addison Wesley Mathematics](investigations-in-number-data-and-space-math-expressions-saxon-math-and-scott-foresman-add.md) - Four published elementary mathematics curricula evaluated comparatively by Agodini et al.
 * [iRCL](ircl.md) - i-Ready Classroom Mathematics is Curriculum Associates’ core K–8 mathematics curriculum integrating print and digital instructional materials, practice tools, hands-on resources, and professional learning supports.
@@ -1035,6 +1037,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Modified 5E lesson design planning template](modified-5e-lesson-design-planning-template.md) - This is a lesson-planning framework adapted by WestEd's K–12 Alliance for the Montebello project, modifying the 5E Instructional Model with concept, teacher, and student columns and embedded evaluation.
 * [Modified Intermodal Preferential Looking Paradigm (IPLP) word-learning task with novel word/object pairings](modified-intermodal-preferential-looking-paradigm-iplp-word-learning-task-with-novel-wordo.md) - A researcher-modified preferential-looking assessment developed and used by Houston et al.
 * [MoFaCTS](mofacts.md) - MoFaCTS is an online drill-trial problem-authoring and deployment platform that administers instructional and assessment activities, scores responses, and delivers corrective feedback.
+* [Montessori education system](montessori-education-system.md) - An educational programme developed by Maria Montessori that uses mixed-age groupings, prepared environments, specialized materials, and trained teachers to support self-directed learning from birth through adolescence.
 * [Montevidisco](montevidisco.md) - An interactive video-based Spanish-language conversational simulation created by Edward Schneider and Junius Bennion in which learners navigate branching encounters in a Mexican village and record spoken responses for evaluation.
 * [MOOC Replication Framework](mooc-replication-framework.md) - MORF, described by Gardner (2018), is a framework that supports controlled, privacy-preserving replication of predictive analyses across MOOC studies, courses, and datasets.
 * [Moodle Workshop module](moodle-workshop-module.md) - Moodle's Workshop activity module supports the distribution, anonymous peer assessment, and teacher assessment of learner submissions using defined assessment criteria and grading schemes.

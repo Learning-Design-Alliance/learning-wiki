@@ -63,6 +63,7 @@ Games work when the winning actions *are* the learning actions — when answerin
 - [Peer tutoring](peer-tutoring.md) — team games create natural peer-teaching moments when stronger students explain answers
 - [Formative assessment](../patterns/formative-assessment.md) — game performance data reveals which content needs reteaching
 - [Select games that maximize participation and match proficiency, and use games as complementary activities](select-games-participation-proficiency-complementary.md)
+- [Format learning activities as play using the three interrelated parameters of involvement, rules, and degrees of freedom](play-format-three-parameters.md)
 
 ## Examples
 - **Kahoot!** ([kahoot.com](https://kahoot.com)) — multiple-choice quiz races with instant feedback; use team mode or pacing modes to reduce speed pressure

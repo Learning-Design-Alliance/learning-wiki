@@ -47,3 +47,4 @@ Review synthesis across multiple studies on genre effects. Expository texts were
 - [Higher background knowledge enables better reading comprehension for both skilled and low-skilled primary readers](background-knowledge-improves-comprehension-primary.md) — related
 - [Reader misconceptions inhibit comprehension; low-skill readers prefer prior knowledge over contradictory text information](misconceptions-inhibit-reading-comprehension.md) — related
 - [Text cohesion interacts with background knowledge: low-knowledge readers benefit from high cohesion, high-knowledge readers from low cohesion (reverse cohesion effect)](reverse-cohesion-effect-background-knowledge.md) — related
+- [The genre-by-generation-task interaction: sentence unscrambling beats letter completion in expository texts, and letter completion beats sentence unscrambling descriptively in narratives](genre-by-generation-task-interaction-map.md) — related

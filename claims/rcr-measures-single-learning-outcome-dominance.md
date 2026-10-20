@@ -49,3 +49,4 @@ Learning-outcome analysis using the Katsarov et al. framework (sensitivity, know
 - [Publication and dissemination is the most frequent research integrity item topic, and consent the most frequent research ethics topic, in validated RCR measures](publication-and-consent-top-validated-rcr-measure-topics.md)
 - [The majority of published RCR education evaluations use measures without reported validation evidence](majority-rcr-evaluations-unvalidated-measures.md)
 - [Validated RCR measures omit emerging and social-safety topics including EDI, whistleblower protections, AI use in research, predatory journals and open-science practices](validated-rcr-measures-missing-topics-edi-ai-open-science.md)
+- [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — related

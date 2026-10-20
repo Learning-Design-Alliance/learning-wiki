@@ -17,7 +17,7 @@ sources:
 # Belonging
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 32 claims (22 for, 8 mixed, 2 against) · 24 studies (6 review, 5 theoretical, 4 qualitative, 3 causal, 3 associational, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 24 report an effect size · 29 claims rest on one study
+> **Evidence** · 34 claims (22 for, 10 mixed, 2 against) · 25 studies (6 review, 5 qualitative, 5 theoretical, 3 causal, 3 associational, 2 quant-synthesis, 1 design), `q1`–`q4` · 2 of 25 report an effect size · 31 claims rest on one study
 
 ## Description
 Belonging is a learner's subjective sense of being a valued member of a learning community — accepted by peers and instructors, and confident that they fit there. It is not an activity but a psychological state that instructional designs can foster or undermine. Because belonging shapes persistence, engagement, and interpretation of difficulty, it functions as a motivational foundation on which other elements depend.
@@ -90,6 +90,8 @@ Belonging uncertainty — doubt about whether one fits in a setting — dispropo
 - [A welcoming campus racial climate fosters African American students' sense of belonging and intent to continue enrollment in mostly White schools](../claims/welcoming-climate-belonging-enrollment-intent.md) [+W]
 - [Underrepresented racial and first-generation students systematically report fewer institutional belonging opportunities than white and continuing-generation peers](../claims/underrepresented-students-fewer-belonging-affordances.md) [~W]
 - [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](../claims/vi-students-fit-in-less-accepted-at-school.md) [-W]
+- [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](../claims/belonging-multifaceted-context-dependent.md) [~W]
+- [Belonging-related theories are underutilized in educational practice, partly because translating theoretical concepts into implementable strategies is difficult](../claims/belonging-theory-practice-gap.md) [~W]
 
 ## The evidence by question
 - *Do brief interventions that address belonging uncertainty improve achievement and persistence, and for whom?* [Belonging Interventions Improve Outcomes](../claims/belonging-interventions-improve-outcomes.md) [+S]

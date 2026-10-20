@@ -48,3 +48,4 @@ Preliminary Pearson correlation analysis of all study variables (Table 1) showed
 ## Related Claims
 - [Mastery-approach, performance-approach, and performance-avoidance goals positively predict engagement, while mastery-avoidance goals do not, in AI-assisted English learning](goal-orientations-predict-engagement-ai-efl.md) — related
 - [Teacher support positively predicts mastery-approach and performance-approach goals, but not mastery-avoidance or performance-avoidance goals, in AI-assisted English learning](teacher-support-predicts-approach-goals-ai-efl.md) — related
+- [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related

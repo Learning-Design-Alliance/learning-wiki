@@ -47,3 +47,4 @@ Attrition analysis comparing retained versus lost participants in the two-wave G
 - [Immigration discussion frequency shows no significant association with critical reflection or sociopolitical efficacy](immigration-discussion-null-critical-consciousness.md) — related
 - [More frequent immigration discussion predicts increased hope for immigrant-origin GSA members but not non-immigrant-origin members](immigration-discussion-hope-immigrant-origin-only.md) — related
 - [Discussing immigration more frequently than fellow GSA members predicts increased perceived peer validation by year's end](immigration-discussion-in-gsas-predicts-peer-validation.md) — related
+- [Longitudinal subject attrition produces systematic baseline differences among continuing, dropout, and non-participating students](longitudinal-attrition-systematic-baseline-differences.md) — related

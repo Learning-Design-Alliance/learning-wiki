@@ -90,3 +90,4 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [The program showed no significant overall math difference, though items on visual-spatial vocabulary and nonstandard measurement improved for the treatment condition](nico-nor-math-null-with-item-gains.md) — related
 - [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — related
 - [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](tosa-age-3-predicts-age-4-math.md) — related
+- [Object-oriented play peaks between approximately 18 months and 3.5 years of age](oop-peak-18-months-to-3-5-years.md) — related

@@ -42,7 +42,8 @@ The chapter recommends helping students monitor and adjust to classroom task req
 - [Pintrich Four Phase Four Area Srl Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Use the contextual embeddedness of learning patterns to foster the quality of student learning](foster-learning-patterns-via-context.md)
 
 ## Examples
 -

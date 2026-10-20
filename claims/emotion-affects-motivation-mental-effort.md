@@ -49,3 +49,4 @@ Theoretical argument from the article's abstract, the fourth perspective. It pro
 - [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](task-value-increases-motivation-and-engagement.md) — a narrower finding that bears on this claim
 - [Pre-actional metacognitive, motivational, and positive-emotional components are positively associated with regulatory behavior in the actional phase, while anger and anxiety are negatively associated](pre-actional-components-predict-actional-regulation.md) — related
 - Institutional and supervisor support are associated with adaptive motivation among final-year master's thesis students — related
+- [Effort investment is driven differently in CLT (data-driven, task difficulty) versus SRL theories (goal-driven, motivation)](effort-drivers-data-driven-vs-goal-driven.md) — related

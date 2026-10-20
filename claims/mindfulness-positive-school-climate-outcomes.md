@@ -52,3 +52,4 @@ The brief attributes these school climate outcomes to three cited studies: compa
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [A practice brief reviewing self-regulation interventions reports substantial benefits of mindfulness programs for cognitive and emotional regulation, stress and mental health in adolescents and young adults](mindfulness-programs-benefit-adolescent-regulation.md) — related
 - [Review reports a game-based learning course increased adolescents' empathy and compassion in migration/refugee context](game-based-learning-empathy-sec.md) — related
+- [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](meditation-improves-emotional-regulation.md) — related

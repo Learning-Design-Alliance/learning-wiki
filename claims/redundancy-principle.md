@@ -161,3 +161,4 @@ The page records one review (Trypke et al. 2023); the classic primary experiment
 - [Reduction of cognitive load can sometimes impair learning rather than enhance it](load-reduction-can-impair-learning.md) — related
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — related
 - [Redundant speech-gesture cooperation improves recall and social perception more than complementarity](speech-gesture-redundancy-better.md) — related
+- [Oral non-interactive teaching can enhance learning more than written teaching for complex materials](oral-written-modality-boundary-noninteractive-teaching.md) — related

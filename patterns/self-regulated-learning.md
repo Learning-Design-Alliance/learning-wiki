@@ -25,7 +25,7 @@ grain_size: unit
 # Self-Regulated Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 62 claims (22 for, 37 mixed, 3 against) · 55 studies (21 causal, 10 associational, 9 review, 8 quant-synthesis, 5 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 55 report an effect size · 55 claims rest on one study
+> **Evidence** · 63 claims (22 for, 38 mixed, 3 against) · 56 studies (21 causal, 10 associational, 9 review, 8 quant-synthesis, 6 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 15 of 56 report an effect size · 56 claims rest on one study
 
 ## Description and scope
 
@@ -125,6 +125,10 @@ Record: **task and criterion → supports present (prompts, model, rubric, feedb
 [Goal setting](../elements/goal-setting.md), [self-monitoring](../elements/self-monitoring.md), [prompts](../elements/prompts.md), [metacognitive strategies](../elements/metacognitive-strategies.md), [self-assessment](../elements/self-assessment.md), [rubric](../elements/rubrics.md), [feedback](../elements/feedback.md), [peer feedback](../elements/peer-feedback.md), [reflection](../elements/reflection.md), [daily before-and-after SRL learning diary](../elements/daily-before-and-after-srl-learning-diary.md) and [fading scaffolding](../elements/fading-scaffolding.md).
 
 This pattern is scoped to regulation attached to subject-matter tasks over a unit. Standalone study-skills courses, motivational interventions, behavioural self-monitoring for on-task conduct and adaptive systems that take regulation decisions for the learner are distinct configurations with their own evidence. The present policy supports observation and design reasoning; its branches, fading rule and the role of the learner's valued goal remain to be tested with actual learners.
+
+## Claims
+
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](../claims/metacognitive-displacement-illusion-of-competence.md) [~W]
 
 ## Key Sources
 - Zimmerman, B. J. (2002). Becoming a self-regulated learner: An overview. *Theory Into Practice, 41*(2), 64-70. [https://doi.org/10.1207/s15430421tip4102_2](https://doi.org/10.1207/s15430421tip4102_2)

@@ -45,3 +45,4 @@ Discussion of the two-text between-subjects design with 57 eighth graders: learn
 ## Related Claims
 - [Eighth-grade students acquire measurable partial knowledge of unfamiliar word meanings incidentally while reading natural text, with a small but statistically reliable context-learning effect](incidental-word-learning-from-natural-context.md) — related
 - [Incidental vocabulary exposure produces reliable learning, but learners pick up only a small share of the unknown words they meet](incidental-vocabulary-exposure-limited.md) — related
+- [The genre-by-generation-task interaction: sentence unscrambling beats letter completion in expository texts, and letter completion beats sentence unscrambling descriptively in narratives](genre-by-generation-task-interaction-map.md) — related

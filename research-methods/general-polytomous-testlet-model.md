@@ -35,7 +35,8 @@ The general polytomous testlet model is an item response theory model for testle
 - [The proportionality restrictions that the testlet model imposes on the bifactor model were implausible in the applied dataset, as specific-to-general loading quotients varied far from constant within testlets](../claims/testlet-proportionality-restrictions-implausible.md) [~W]
 
 ## Related Research Methods
--
+
+- [Matrix sampling with planned missingness in large-scale assessments](matrix-sampling-with-planned-missingness-in-large-scale-assessments.md)
 
 ## Key Sources
 - Yanmei Li, Shuhong Li, and Lin Wang. (2010). Application of a General Polytomous Testlet Model to the Reading Section of a Large-Scale English Language Assessment. ETS Research Report RR-10-21. http://www.ets.org/research/contact.html

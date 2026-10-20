@@ -52,3 +52,4 @@ Systematic review phase identifying the ten themes, including the individual-dif
 - [Contextual themes (extracurricular activities, environmental/school safety) are associated with school belonging](contextual-themes-school-belonging.md) — related
 - [Social support factors (parent, peer, teacher) are among the themes associated with adolescent school belonging](social-support-themes-school-belonging.md) — related
 - [Across nearly all race/ethnicity groups, transgender high school students report fewer school supports, lower safety, lower motivation, and lower connectedness than non-transgender peers](transgender-students-report-fewer-school-supports-lower-safety.md) — related
+- [The need to belong is relevant to all academic disciplines that study human behavior, with immense importance to educational psychology](need-to-belong-relevance-educational-psychology.md) — related

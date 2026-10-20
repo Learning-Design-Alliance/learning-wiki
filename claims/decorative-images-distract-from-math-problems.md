@@ -59,3 +59,4 @@ The authors' interpretation of cognitive science research as applied in the bump
 - [Interactive visual grounding helped children interpret word problems by making hidden relational constraints manipulable and visible](interactive-visual-grounding-relational-interpretation.md) — related
 - [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
 - [Decorative pictures show consistently null effects on elementary schoolers' word problem-solving performance regardless of task characteristics](decorative-pictures-null-effects.md) — related
+- [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related

@@ -69,3 +69,4 @@ The review reports Harrington et al. (2025) found that, despite identical instit
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Male Chinese HSS students reported higher perceived GenAI gains in independent thinking, creativity and motivation, with minimal gender difference in performance](genai-gender-differences-perceived-gains.md) — related
 - Research on student voices on academic integrity in GenAI use is nascent and methodologically immature, with most instruments self-developed and all reviewed studies cross-sectional — related
+- [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related

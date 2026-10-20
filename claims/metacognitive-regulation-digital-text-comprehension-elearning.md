@@ -51,3 +51,4 @@ Study of 219 college students reading two low previous knowledge hypertexts at h
 - [The metacognitive scale yields two factors: Global/Monitoring and Problem Solving](metacognitive-scale-two-factors-global-monitoring-problem-solving.md) — related
 - [Metacognitive strategy instruction, which includes comprehension monitoring, improves academic performance by a medium amount, and in one non-randomised study comprehension-monitoring training raised low achievers' reading scores](self-monitoring-comprehension-improves-learning.md) — a broader claim this one bears on
 - [Metacognitive prompts improve learning](metacognitive-prompts-improve-learning.md) — related
+- [Teaching between study phases contributes to comprehension more than teaching after the study phase](teaching-timing-between-study-phases.md) — related

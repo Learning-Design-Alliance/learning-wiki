@@ -86,3 +86,4 @@ Theoretical argument summarising the utility value section, with no data: when A
 - [Educators moved from awareness to interest in integrating the studio's technology into their coursework](educators-awareness-to-interest-technology-integration.md) — a narrower finding that bears on this claim
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related
 - [Perceived instrumentality enhances student motivation only for students with a positive attitude toward their personal future; for students with a negative future outlook, high utility has the opposite effect](instrumentality-future-attitude-interaction.md) — related
+- [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](influential-behaviours-span-multiple-motivational-theories.md) — related

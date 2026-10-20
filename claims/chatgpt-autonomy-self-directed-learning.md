@@ -51,3 +51,4 @@ Interview thematic analysis: students reported learning independently from ChatG
 - [Personalized ChatGPT-supported feedback in an augmented-reality quantum physics laboratory improved learning outcomes and directed visual attention](chatgpt-ar-lab-feedback-improves-outcomes.md) — related
 - Participants simultaneously affirmed ChatGPT feedback as useful while rejecting it as final grader, treating feedback utility and evaluative authority as separate judgements — related
 - [Both ChatGPT feedback and peer feedback prompted doctoral students to actively exercise hard evaluative judgement in statistical analysis, through different challenges](both-feedback-modalities-prompt-hard-evaluative-judgement.md) — related
+- [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related

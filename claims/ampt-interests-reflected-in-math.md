@@ -50,3 +50,4 @@ The authors' interpretation of the pre/post attitude study, offered without addi
 - Students are more likely to feel welcome in AP courses when they see themselves reflected in the curriculum and classmates — a broader claim this one bears on
 - [After the AMPT co-authoring session, attitudes towards mathematics other than sense of belonging remained unchanged](ampt-other-attitudes-unchanged.md) — related
 - [Community-based mathematical investigations gave students confidence to use mathematics for social change](community-based-math-social-change.md) — related
+- [Belonging is multi-faceted and context-dependent, with different expressions (group membership, momentary feeling, durable sense) often conflated in research](belonging-multifaceted-context-dependent.md) — related

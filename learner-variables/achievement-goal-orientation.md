@@ -13,7 +13,7 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 31 claims (15 show a difference, 9 mixed, 5 no difference, 2 unmarked) · 19 studies (10 associational, 4 causal, 3 review, 2 theoretical), `q2`–`q3` · 8 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 32 claims (16 show a difference, 9 mixed, 5 no difference, 2 unmarked) · 20 studies (10 associational, 4 causal, 3 review, 3 theoretical), `q2`–`q3` · 9 of 20 report an effect size · 30 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
@@ -66,6 +66,7 @@ Achievement goal theory distinguishes mastery goals (developing competence and u
 - [The four achievement goal profiles differ significantly in all four dimensions of writing self-efficacy](../claims/goal-profiles-differ-writing-self-efficacy.md) [+M] — learners who differ on it differ in outcomes
 - [The four achievement goal profiles differ significantly in use of motivation regulation strategies (interest enhancement, motivational self-talk, emotional control)](../claims/goal-profiles-differ-motivation-regulation.md) [+M] — learners who differ on it differ in outcomes
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](../claims/profile-varying-predictive-effects-writing-achievement.md) [~W] — an instructional effect differs with it
+- [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](../claims/achievement-goals-small-correlations-achievement.md) [+W] — learners who differ on it differ in outcomes
 
 ## Related Learner Variables
 

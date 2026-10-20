@@ -64,3 +64,4 @@ Table 1 entry for Booth et al. (2015a, b), a Con-ErrEx vs PS comparison on calcu
 ## Related Claims
 
 - [Students with high initial performance profit more from area-specific practice while students with low initial performance profit more from general practice](initial-performance-moderates-practice-type-benefit.md)
+- [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](prior-knowledge-moderates-noninteractive-teaching.md) — related

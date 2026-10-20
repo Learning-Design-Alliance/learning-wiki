@@ -174,3 +174,5 @@ There is also a cultural dimension: in high-power-distance educational contexts,
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
 - [Mainstream motivation theories have extended toward identity and culture but keep explanatory constructs within individuals](mainstream-motivation-theories-individual-constructs.md) — related
 - [The worked example effect holds for the schema-acquisition goal, but other instructional goals may be better served by other means](worked-example-effect-goal-dependent.md) — related
+- [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — possibly the same claim (merge candidate)
+- [Play is characterized by four dispositions: involvement, intrinsic motivation, pleasure, and freedom to modify rules](four-play-dispositions-rubin.md) — related

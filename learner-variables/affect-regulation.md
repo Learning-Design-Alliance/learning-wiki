@@ -13,7 +13,7 @@ generated:
 # Affect Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 142 claims (99 show a difference, 29 mixed, 14 no difference) · 95 studies (35 associational, 20 causal, 14 review, 9 qualitative, 7 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 25 of 95 report an effect size · 136 claims rest on one study
+> **Evidence** · 145 claims (101 show a difference, 29 mixed, 15 no difference) · 97 studies (36 associational, 20 causal, 15 review, 9 qualitative, 7 quant-synthesis, 6 theoretical, 4 design), `q1`–`q4` · 26 of 97 report an effect size · 139 claims rest on one study
 
 ## Description
 What a learner does with frustration, anxiety and failure while the work is still in front of them. It decides whether a hard check needs a recoverable framing and how failure is surfaced. Anxiety is not only unpleasant — it consumes the same working memory the task needs, so it degrades performance through a mechanism entirely separate from motivation [-M]. Naming an emotion measurably reduces its grip, which is why the strategies here look unexpectedly linguistic.
@@ -182,6 +182,9 @@ What a learner does with frustration, anxiety and failure while the work is stil
 - [Teacher's direct support of a stuck presenter corresponded with a clear decrease in situational stress (ASV)](../claims/teacher-support-asv-release.md) [+M] — instruction changes it
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](../claims/need-frustration-not-necessary-for-learning.md) [-M] — learners who differ on it differ in outcomes
 - [Mathematics anxiety does not moderate the effect of mathematics test practice on subsequent performance](../claims/math-anxiety-does-not-moderate-practice-effect.md) [-M] — an instructional effect differs with it
+- [Arousal showed a positive relationship with final high school mathematics grade when controlling for the other test anxiety facets](../claims/arousal-positive-mathematics-grade.md) [+M] — learners who differ on it differ in outcomes
+- [School meditation studies show significant improvements in emotional regulation, including reduced involuntary stress responses and behavioural dysregulation](../claims/meditation-improves-emotional-regulation.md) [+M] — instruction changes it
+- [Worry did not explain unique variance in students' test performance or mathematics grade, challenging the worry-based explanation of the test anxiety-performance link](../claims/worry-no-unique-variance-performance.md) [-M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

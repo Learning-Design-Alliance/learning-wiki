@@ -13,7 +13,7 @@ generated:
 # Social Awareness and Relationship Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 81 claims (58 show a difference, 15 mixed, 8 no difference) · 62 studies (15 review, 15 associational, 10 causal, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 18 of 62 report an effect size · 77 claims rest on one study
+> **Evidence** · 84 claims (59 show a difference, 17 mixed, 8 no difference) · 65 studies (18 review, 15 associational, 10 causal, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 19 of 65 report an effect size · 80 claims rest on one study
 
 ## Description
 Social awareness is the ability to take another person's perspective, read their feelings and understand the social norms of a setting; relationship skills are the ability to make and keep positive relationships, cooperate, communicate clearly and handle conflict. They are usually measured by parent, teacher and self-report rating scales of social-emotional competence, and by self-report scales of empathy and of how well a learner feels they fit in.
@@ -122,6 +122,9 @@ The page overlaps with [emotional intelligence](emotional-intelligence.md), whic
 - [The competency–knowledge integration relationships differ between scientific and economic samples: reflexivity is significant only in the scientific sample, while tolerance of ambiguity and uncertainty and perspective taking are significant only in the economic sample](../claims/competency-knowledge-integration-links-differ-by-context.md) [~M] — learners who differ on it differ in outcomes
 - [Interpersonal perceptions affected most students implicitly during feedback provision and most students explicitly during feedback processing](../claims/interpersonal-perceptions-implicit-provision-explicit-processing.md) [+M] — learners who differ on it differ in outcomes
 - [Emotion differentiation is linked to more effective emotion regulation and more accurate understanding of others' emotions](../claims/emotion-differentiation-linked-regulation-and-understanding.md) [+M] — learners who differ on it differ in outcomes
+- [Higher teacher-student conflict is associated with lower metacognitive skills, while closeness is positively associated with metacognition in upper elementary school](../claims/dyadic-conflict-lower-metacognition.md) [+W] — learners who differ on it differ in outcomes
+- [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](../claims/strategy-inductions-affect-spt-outcomes.md) [~W] — instruction changes it
+- [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](../claims/meditation-small-social-competence-effects.md) [~W] — instruction changes it
 
 ## Measures
 - **Devereux Student Strengths Assessment (DESSA)** (LeBuffe, Naglieri & Shapiro, 2012): parent or teacher rating of social-emotional competencies, including social awareness and relationship skills, from kindergarten to grade 8, with a short screening form (DESSA-mini).

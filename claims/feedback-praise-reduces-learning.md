@@ -147,3 +147,4 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 - [Person praise raises state self-esteem (d = 0.40), and under task-involving feedback higher state self-esteem is negatively related to motivation, supporting a distraction mechanism only in the low-threat condition](state-self-esteem-distraction-mechanism-task-involving.md) — related
 - [High-level prompting and specific praise continue to predict students' social reasoning one turn later (Lag-2), suggesting a vicarious reinforcing experience](prompting-praise-delayed-effect-social-reasoning-lag2.md) — related
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
+- [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — related

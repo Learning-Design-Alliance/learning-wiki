@@ -45,3 +45,4 @@ Null finding from the full-perspective MSEM and correlational analyses (167 teac
 ## Related Claims
 - [Student-reported SRL promotion is associated with students' self-efficacy, utility value and attainment value for SRL at class and student levels, but not with perceived cost](student-reported-srl-promotion-linked-to-student-motivation.md) — related
 - [Teachers' self-efficacy for SRL promotion shows significant indirect effects on students' self-efficacy, utility value and attainment value via teacher- and student-reported SRL promotion, with no indirect path to cost](indirect-effects-teacher-self-efficacy-via-srl-promotion.md) — related
+- [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](teacher-scaffolding-strategy-use-performance-phase.md) — related

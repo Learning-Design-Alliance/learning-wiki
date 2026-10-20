@@ -48,3 +48,4 @@ One-way ANCOVA on posttest cognitive engagement with pretest covariate in the qu
 - [AI-peer integrated feedback produces significantly higher posttest behavioral engagement than conventional peer feedback in EFL writing](ai-peer-feedback-higher-behavioral-engagement.md) — related
 - [AI-peer integrated feedback yields significant gains on all four writing dimensions, with the group × dimension interaction showing differential improvement favoring task achievement and lexical resource over coherence and cohesion](ai-peer-feedback-writing-gains-differential.md) — related
 - [ChatGPT-integrated instruction produced significantly higher post-test writing motivation scores than conventional instruction among EFL learners, with a medium effect size](chatgpt-instruction-enhanced-efl-writing-motivation.md) — related
+- [Pedagogical agents do not significantly affect learners' engagement (g = -0.02, non-significant)](pa-no-effect-engagement.md) — related

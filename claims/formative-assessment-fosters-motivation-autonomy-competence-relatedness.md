@@ -51,3 +51,4 @@ The primer reports this as a theoretical account attributed to Leenknecht et al.
 - Both SDT and IE hold that people's actions are based on their perceptions of their contexts — related
 - [Autonomy-supportive training programs are overall effective, with a weighted effect size of 0.63 across 19 studies](autonomy-support-training-effective-d63.md) — related
 - [Successful aging comprises six features and creative activity contributes to it](successful-aging-six-features-creative-activity.md) — related
+- [Theories of school belonging situate causes at the individual level and neglect the structural and compositional features of schools, which remain under-theorized](structural-compositional-school-features-neglected.md) — related

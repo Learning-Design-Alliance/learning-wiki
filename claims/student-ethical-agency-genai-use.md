@@ -85,3 +85,4 @@ The review reports, citing Barus et al. (2025), that the policy and training vac
 - [Human oversight in co-pilot mode improved Agent Laboratory research output quality ratings from 3.8/10 to 4.38/10](agent-laboratory-copilot-quality-gain.md) — a narrower finding that bears on this claim
 - [Students resisted external definitions of mathematical success and asserted agency in defining their own strategies](student-resistance-own-strategies-math.md) — related
 - [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md)
+- [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](ai-directed-self-testing-diminishes-metacognitive-judgment.md) — related

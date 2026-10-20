@@ -66,3 +66,4 @@ Delayed-posttest synthesis (k = 7 for reading comprehension). The immediate effe
 - [Programs focusing solely on motivation are equally effective in stimulating affirming motivations and reading comprehension as programs combining motivational support with skills instruction](motivation-only-equally-effective.md) — related
 - [Effects on affirming motivations are larger when total intervention duration is longer and when the share of boys in the sample is higher](duration-and-gender-moderators.md) — related
 - [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
+- [Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses](borderline-moderators-design-and-post-test-timing.md) — related

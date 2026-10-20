@@ -50,3 +50,4 @@ Scoping review measure-selection stage: from 18 accessible measures with validat
 - [Validation evidence across the 15 RCR measures is partial and heterogeneous, with no test–retest, criterion validity or factor-analytic evidence reported](rcr-measure-validation-evidence-heterogeneous-limited.md)
 - [Most validated RCR measures assess a single learning outcome, with attitudes most common and only four measures testing knowledge](rcr-measures-single-learning-outcome-dominance.md)
 - [Validated RCR measures omit emerging and social-safety topics including EDI, whistleblower protections, AI use in research, predatory journals and open-science practices](validated-rcr-measures-missing-topics-edi-ai-open-science.md)
+- [Mono-disciplinary RCR courses were not more effective than multi-domain courses, contradicting prior reviews](rcr-mono-disciplinary-not-replicated.md) — related

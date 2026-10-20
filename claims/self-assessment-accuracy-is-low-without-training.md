@@ -130,3 +130,4 @@ A meta-analysis of 51 quantitative studies comparing students' self-assessed mar
 - [Students with good-quality or moderately positive profiles self-assessed more accurately after studying video modeling examples than students with poor-quality or moderately negative profiles](motivational-profile-self-assessment-accuracy.md) — related
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [SRSD instruction improved students' accuracy in self-evaluating their texts' quality, although overestimation persisted](srsd-improves-monitoring-accuracy-overestimation-persists.md) — related
+- [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](students-overestimate-sport-performance-calibration.md) — a narrower finding that bears on this claim

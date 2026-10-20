@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 67 claims (37 show a difference, 11 mixed, 19 no difference) · 42 studies (19 associational, 16 causal, 3 review, 2 quant-synthesis, 2 design), `q1`–`q3` · 14 of 42 report an effect size · 65 claims rest on one study
+> **Evidence** · 71 claims (40 show a difference, 12 mixed, 19 no difference) · 43 studies (19 associational, 16 causal, 3 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 43 report an effect size · 69 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -108,6 +108,10 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Reading deficits are uniquely associated with phoneme awareness and naming speed, whereas math deficits are uniquely associated with set shifting](../claims/disorder-specific-phoneme-naming-set-shifting.md) [+M] — learners who differ on it differ in outcomes
 - [Supplemental first-grade interventions for ELLs improved phonological and word-level skills but not comprehension, with comprehension gains emerging at one-year follow-up](../claims/ell-early-reading-intervention-word-level-gains.md) [+M] — instruction changes it
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](../claims/pa-fluency-largest-relations-comprehension-spanish.md) [+M] — learners who differ on it differ in outcomes
+- [Composite SES indices predict phonological awareness more strongly than single SES indicators](../claims/composite-ses-index-stronger-predictor-phonological-awareness.md) [+M] — instruction changes it
+- [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](../claims/country-ses-moderates-skill-reading-paths-not-ses-reading.md) [~M] — learners who differ on it differ in outcomes
+- [Family SES effects on children's reading are partially mediated in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

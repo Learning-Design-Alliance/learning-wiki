@@ -43,6 +43,7 @@ Based on the mediation findings, the authors recommend that interventions addres
 ## Related Strategies
 
 - [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](active-school-intervention-against-bullying.md)
+- [Interventions should simultaneously enhance academic self-concept and achievement](interventions-enhance-both-self-concept-and-achievement.md)
 
 ## Examples
 -

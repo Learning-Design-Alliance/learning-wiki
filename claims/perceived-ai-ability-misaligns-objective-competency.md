@@ -48,3 +48,4 @@ Correlational analysis in the prior-knowledge survey of the 13-student course, c
 - [SR–OB profile patterns differ by prior AI literacy experience: overestimation appears only among experienced teachers and a low–low profile only among inexperienced teachers](prior-experience-moderates-sr-ob-profiles.md) — related
 - [Latent profile analysis of combined SR and OB factors identifies six distinct teacher profiles spanning overestimation, underestimation, and alignment](six-lpa-profiles-sr-ob-ai-literacy.md) — related
 - [Perceived and objectively demonstrated AI literacy show only limited alignment in the same samples (pooled r = .055, interval including zero)](subjective-objective-ai-literacy-low-correlation.md) — related
+- [Unidimensional measurement of SPT leaves the SPT–conflict resolution relationship unclear](unidimensional-spt-measurement-limits-conflict-findings.md) — related

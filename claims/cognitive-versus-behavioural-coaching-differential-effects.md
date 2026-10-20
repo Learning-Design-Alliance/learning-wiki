@@ -71,3 +71,4 @@ Study 2 evaluated a behavioural-based coaching program with trainee accountants.
 - A combined cognitive and behavioural coaching program outperformed cognitive-only and behavioural-only programs for academic performance, with gains maintained at follow-up only for the combined program. — related
 - Participation in a solution-focused cognitive-behavioural life coaching program is associated with significantly enhanced mental health, quality of life and increased goal attainment in normal adults. — related
 - [Using the ITS reduced executive state-math anxiety and improved algebra learning across conditions](its-reduces-executive-state-ma-improves-algebra.md) — related
+- [Problem-based curricula enhance deep approaches and discourage surface approaches compared with subject-based curricula](problem-based-curricula-deep-approach-advantage.md) — related

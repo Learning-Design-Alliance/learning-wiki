@@ -53,3 +53,5 @@ Analytical argument in the article's section on inadequate selection criteria. F
 - [The eight Barkley Current Behavior Scale items chosen for DESR show high internal consistency](desr-eight-item-scale-high-internal-consistency.md) — related
 - [Detection accuracy is more internally consistent within phishing and within legitimate emails (α = 0.77 each) than across all emails (α = 0.59)](cronbach-alpha-higher-within-email-categories.md) — related
 - [The MAKQ dimensions show acceptable internal consistency across both studies (alphas 0.77-0.93)](makq-reliability-alphas.md) — related
+- [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related
+- [A low alpha does not necessarily indicate high content validity, because reliability and validity can both be high](low-alpha-not-evidence-of-content-validity.md) — related

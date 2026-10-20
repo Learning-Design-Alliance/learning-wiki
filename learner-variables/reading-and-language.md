@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 154 claims (94 show a difference, 24 mixed, 34 no difference, 2 unmarked) · 117 studies (34 causal, 28 associational, 21 review, 20 quant-synthesis, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 26 of 117 report an effect size · 145 claims rest on one study
+> **Evidence** · 155 claims (95 show a difference, 24 mixed, 34 no difference, 2 unmarked) · 118 studies (34 causal, 28 associational, 21 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 26 of 118 report an effect size · 146 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -205,6 +205,7 @@ What a learner can read without effort, and whether the language of instruction 
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](../claims/open-questions-comprehension-unique-predictor-integration.md) [~M] — learners who differ on it differ in outcomes
 - [Verbal ability and Internet experience predict correct answering of comprehension questions about digital texts in e-learning](../claims/verbal-ability-internet-experience-predict-elearning-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](../claims/pa-fluency-largest-relations-comprehension-spanish.md) [+W] — learners who differ on it differ in outcomes
+- [Family SES effects on children's reading are partially mediated in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

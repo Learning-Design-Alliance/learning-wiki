@@ -124,3 +124,4 @@ Open questions: how large effects remain beyond the typical 1–2 year follow-up
 - [Social and emotional learning programs promote competencies, reduce behavior problems, and improve engagement and achievement, with sustained longer-term benefits](sel-programs-improve-behavior-engagement-achievement.md) — a broader claim this one bears on
 - [SEL programs reduce disruptive behavior problems and emotional distress and foster prosocial behavior](sel-programs-reduce-behavior-problems-distress.md) — related
 - [SEL interventions improve attitudes, self-regulation, behaviour, and academic performance across reported effect-size ranges](sel-interventions-improve-school-outcomes.md) — related
+- [School belonging has powerful long- and short-term implications for students' positive psychological and academic outcomes](school-belonging-implications-psychological-academic-outcomes.md) — related

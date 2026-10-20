@@ -45,3 +45,4 @@ Re-analysis (Mason & Krashen 2010) of File and Adams' data reported in the revie
 ## Related Claims
 - [Adult ESL students who read a short story could use incidentally acquired words in sentences, while students who learned word meanings in isolation could not](incidental-reading-enables-productive-word-use.md) — related
 - [Incidental vocabulary acquisition through comprehensible input is more powerful than intentional vocabulary learning](incidental-vocabulary-acquisition-more-powerful-than-intentional.md) — a broader claim this one bears on
+- [Generation effects are larger in incidental than intentional learning studies, though the direct intentional-vs-incidental contrast was not significant](intentionality-moderator-generation-effect.md) — related

@@ -45,3 +45,4 @@ Latent correlations from the second-order CFA (Model FO-4V) in 1,868 ninth-grade
 ## Related Claims
 - [Self-concept and value beliefs emerge as equally important predictors of teacher-rated behavioral engagement](self-concept-and-value-equal-predictors-teacher-engagement.md) — related
 - [Different value components differentially predict outcomes: low cost for achievement, attainment value for effort, and utility value uniquely predicting none](value-components-differential-prediction-outcomes.md) — related
+- [School grades tend to be more highly correlated with academic self-concept than standardized test scores](grades-more-correlated-with-self-concept-than-tests.md) — related

@@ -46,3 +46,4 @@ Correlational analysis (Table 1) from the same log-file study of 70 students. Th
 
 - [A game-based assessment of persistence predicts physics post-test gains for low-performing players after controlling for background and enjoyment](gap-predicts-learning-gains-struggling-players.md) — a narrower finding that bears on this claim
 - [Creativity estimate significantly predicts physics learning and game enjoyment](creativity-predicts-learning-enjoyment.md)
+- [Free choice of activities increases performance, task interest, and persistence across ages and settings](montessori-free-choice-benefits-learning.md) — related

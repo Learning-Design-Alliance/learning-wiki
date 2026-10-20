@@ -49,3 +49,4 @@ Theoretical neurobiological argument in the review: rising catecholamines and co
 - [The relationship between effort and meaning follows an inverted U-shape: moderate friction enhances meaning and motivation while excessive friction overwhelms](effort-meaning-inverted-u-shape.md) — related
 - [Increased physiological arousal relates to less monitoring with neutral valence](arousal-negative-predictor-neutral-valence.md) — related
 - [Curiosity and confidence show an inverted U-shaped relationship, peaking at an intermediate confidence level](inverted-u-curiosity-confidence-relationship.md)
+- [No evidence for a curvilinear relationship between arousal and test performance](no-curvilinear-arousal-performance.md) — a narrower finding that bears on this claim

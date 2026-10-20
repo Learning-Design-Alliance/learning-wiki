@@ -55,6 +55,7 @@ The article presents activity theory as a socio-cultural and historical lens for
 
 - [Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants](../strategies/activity-system-analysis-as-csl-reflection-tool.md)
 - [Allocate human and AI effort by dimension type: automate explicit-criteria dimensions, retain human review for pedagogical judgment](../strategies/human-ai-division-of-labor-mcq-generation.md)
+- [Format learning activities as play using the three interrelated parameters of involvement, rules, and degrees of freedom](../strategies/play-format-three-parameters.md)
 
 ## Key Sources
 - Koszalka, T. A. & Wu, C.-P. (2001). A cultural historical activity theory [CHAT] analysis of technology integration: Case study of two teachers. https://eric.ed.gov/?q=A+cultural+historical+activity+theory+analysis+of+technology+integration

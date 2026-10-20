@@ -47,3 +47,4 @@ Comparison of coded belonging reasons between majors and leavers in the intervie
 - [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related
 - [Students of color majoring in STEM report significantly lower sense of belonging than white majors](students-of-color-report-less-belonging-than-white-majors.md) — related
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — related
+- [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related

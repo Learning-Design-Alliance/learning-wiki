@@ -32,7 +32,7 @@ grain_size: lesson
 # Structured Peer Review
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 45 claims (28 for, 17 mixed) · 54 studies (16 causal, 10 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 11 of 54 report an effect size · 31 claims rest on one study
+> **Evidence** · 47 claims (30 for, 17 mixed) · 55 studies (16 causal, 11 quant-synthesis, 9 associational, 8 review, 4 qualitative, 4 theoretical, 3 design), `q1`–`q4` · 12 of 55 report an effect size · 33 claims rest on one study
 
 ## Description and scope
 
@@ -150,6 +150,7 @@ Claims the earlier page cited, and others that bear on it, not used as core evid
 - [Acting on the collaborative writing recommendations is argued to produce active student writers who attend to what their peers say](../claims/collaborative-writing-recommendations-argued-to-produce-active-student-writers.md) [+W] — read 2026-10-19: a 1988 conference paper's own prediction, with no data; consistent with the pattern's intent, adds no design move.
 - [Collaborative writing methods such as peer criticism and group revision were in use before the collaborative learning movement](../claims/collaborative-writing-methods-predate-the-collaborative-learning-movement.md) [~W] — read 2026-10-19: a historical argument about where peer criticism in composition came from; no test.
 - [Reported reviser scores interact with episode for reading the assignment, with the effect reversing from episode 2 onwards](../claims/reviser-score-episode-reading-assignment.md) [~W] (not about this page) — read 2026-10-19: twenty students' self-reported writing habits against their think-aloud behaviour while writing alone; no peer review.
+- [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](../claims/generic-provision-support-also-boosts-knowledge.md) [+W] — attached 2026-10-19 from Hornstein et al. (2025), which proposed "Integrate instructional support into peer-feedback scenarios, prioritizing the feedback provision phase".
 
 ## Illustrative design instance and observation record
 
@@ -162,6 +163,10 @@ Record: **draft and the criteria as given → each reviewer's comments on the an
 [Peer review](../elements/peer-review.md), [peer assessment](../elements/peer-assessment.md), [feedback](../elements/feedback.md), [rubrics](../elements/rubrics.md), [exemplars](../elements/exemplars.md), [revision](../elements/revision.md), [assessment](../elements/assessment.md), [reflection](../elements/reflection.md) and [peer discussion](../elements/peer-discussion.md). Principles the pattern applies: [Peer Feedback/Peer Review](../principles/peer-learning.md), [Formative Assessment](../principles/formative-assessment.md), [Assessment for Learning](../principles/assessment-for-learning.md), [Multiple Methods of Assessment](../principles/multiple-methods-of-assessment.md), [Process-Based Writing](../principles/process-based-writing.md) and [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md). [Calibrated Peer Review](../strategies/calibrated_peer_review.md) is a strategy that implements steps 2 and 3.
 
 This pattern is scoped to peers commenting on an individual's draft that the author then revises before it is judged. Learning to judge quality without a draft to improve is [collaborative evaluation](collaborative-evaluation.md); co-writing a shared text is [collaborative learning](collaborative-learning.md); the teacher-side loop of reading evidence and choosing a next action is [formative assessment](formative-assessment.md). The policy supports observation and design reasoning; whether the full cycle improves the revised work and the reviewer's own next draft more than peer comments without calibration or a required revision plan, for which learners, at what time cost and at what horizon, remains to be tested.
+
+## Claims
+
+- [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](../claims/provision-support-improves-both-process-qualities.md) [+W]
 
 ## Related Patterns
 - [Collaborative Evaluation](collaborative-evaluation.md)

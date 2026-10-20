@@ -63,3 +63,4 @@ SEM results (Table 3) show supported paths from mastery-approach (β = 0.312), p
 - [Only mastery-approach and performance-approach goals mediate the relationship between teacher support and engagement in AI-assisted English learning](approach-goals-mediate-support-engagement-ai.md) — related
 - [Teacher support correlates with mastery-approach and performance-approach goals and engagement, but not with avoidance-oriented goals](teacher-support-correlations-avoidance-goals-null.md) — related
 - [Teacher support directly and positively predicts learning engagement in AI-assisted English learning](teacher-support-direct-effect-engagement-ai.md) — related
+- [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related

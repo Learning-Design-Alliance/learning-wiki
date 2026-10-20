@@ -43,4 +43,4 @@ Synthesis of racial battle fatigue research within the review's analysis section
 
 
 ## Related Claims
--
+- [School belonging has powerful long- and short-term implications for students' positive psychological and academic outcomes](school-belonging-implications-psychological-academic-outcomes.md) — related

@@ -37,7 +37,8 @@ The article outlines implementable options for blocking back-door paths when ran
 - estimating causal effects of analytics interventions from observational data
 
 ## Related Strategies
-- 
+
+- [Select confounders using a modified disjunctive cause criterion, controlling covariates measured prior to the treatment variable](modified-disjunctive-cause-criterion-confounder-selection.md)
 
 ## Examples
 -

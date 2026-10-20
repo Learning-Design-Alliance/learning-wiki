@@ -71,3 +71,6 @@ Sensitivity analyses across the 211 included studies. The pooled estimate stayed
 - [Emerging technologies show a small-to-moderate positive overall effect on TEFL outcomes (g = 0.38, corrected to 0.28 for publication bias)](emerging-tech-tefl-pooled-effect-g038.md) — related
 - [The pooled association is robust to dependence, baseline-adjustment, risk-of-bias, and effect-size-derivation sensitivity analyses](pooled-association-robust-sensitivity-analyses.md) — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
+- [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — related

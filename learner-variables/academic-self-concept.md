@@ -13,7 +13,7 @@ generated:
 # Academic Self-Concept
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 37 claims (29 show a difference, 3 mixed, 3 no difference, 2 unmarked) · 22 studies (7 associational, 5 causal, 5 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 6 of 22 report an effect size · 36 claims rest on one study
+> **Evidence** · 48 claims (38 show a difference, 5 mixed, 3 no difference, 2 unmarked) · 27 studies (10 associational, 6 causal, 6 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q3` · 8 of 27 report an effect size · 47 claims rest on one study
 
 ## Description
 Academic self-concept is a learner's self-perception of ability in a domain ("I am good at maths"). It is domain-specific: mathematics self-concept and verbal self-concept are only weakly related, because learners compare their own subjects with one another as well as with other learners (the internal/external frame of reference model). It is formed partly by comparison with classmates, so the same learner may report a lower self-concept in a high-achieving class (the big-fish-little-pond effect). Self-concept and achievement affect each other over time. It is related to but distinct from [self-efficacy](self-efficacy.md), which is confidence about succeeding at specific tasks.
@@ -72,6 +72,17 @@ Academic self-concept is a learner's self-perception of ability in a domain ("I 
 - [Domain-specific self-concept consistently predicts metacognitive judgments and accuracy: higher self-concept means higher judgments, higher sensitivity, lower specificity, and more overconfidence](../claims/domain-specific-self-concept-predicts-judgments.md) [+M] — learners who differ on it differ in outcomes
 - [Global predictions rely on domain-specific self-concept but not on test performance, unlike postdictions](../claims/predictions-rely-on-self-concept-not-performance.md) [+M] — learners who differ on it differ in outcomes
 - [Motivational and personality variables relate more strongly to global than to local postdicted judgments](../claims/global-judgments-more-trait-driven-than-local.md) [~M] — learners who differ on it differ in outcomes
+- [A meta-analysis of 68 longitudinal studies found prior achievement predicted subsequent self-concept and prior self-concept predicted subsequent achievement](../claims/wu-2021-meta-analysis-reciprocal-self-concept-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](../claims/rem-reciprocal-effects-ri-clpm-clpm-palma.md) [+M] — learners who differ on it differ in outcomes
+- [Changes in math self-concept correlate positively with changes in both comparison-related beliefs after the COMPASS intervention](../claims/self-concept-change-correlates-belief-change.md) [+M] — instruction changes it
+- [Dimensional comparisons: achievement–self-concept paths are positive in similar subjects but negative in dissimilar subjects](../claims/moller-2020-dimensional-comparisons-path-coefficients.md) [~M] — learners who differ on it differ in outcomes
+- [Huang's meta-analysis of 39 independent samples reported average cross-lagged correlations between self-concept and achievement of roughly .19 to .27](../claims/huang-2011-meta-analysis-self-concept-achievement-correlations.md) [+M] — learners who differ on it differ in outcomes
+- [Math self-concept gains from the COMPASS intervention are sustained at three- and six-month follow-ups in Group A, but the three-month gain in waiting-list Group B was not statistically significant](../claims/compass-math-self-concept-sustained-follow-ups.md) [~W] — instruction changes it
+- [Meta-analyses show prior academic self-concept predicts subsequent achievement, controlling prior achievement](../claims/meta-analyses-asc-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](../claims/reanalyses-converging-support-extended-rem-asc-effect.md) [+M] — learners who differ on it differ in outcomes
+- [School grades tend to be more highly correlated with academic self-concept than standardized test scores](../claims/grades-more-correlated-with-self-concept-than-tests.md) [+M] — learners who differ on it differ in outcomes
+- [Students' domain-specific self-concept moderates non-interactive teaching: low self-concept students profit, high self-concept students do not](../claims/self-concept-moderates-noninteractive-teaching.md) [+M] — an instructional effect differs with it
+- [The COMPASS intervention significantly increases students' math self-concept immediately after participation in both an intervention group and a waiting-list control group](../claims/compass-increases-math-self-concept-immediately.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 

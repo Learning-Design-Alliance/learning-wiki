@@ -76,3 +76,4 @@ Cross-over trial in which 552 children aged 8–12 were randomized by school int
 - [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — a narrower finding that bears on this claim
 - [Exercise intensity differentially moderates acute exercise cognitive benefits, with moderate intensity favoring executive functions and high intensity favoring information processing](exercise-intensity-moderates-cognitive-benefits.md) — related
 - [Inhibitory control is the EDF subdomain most repeatedly linked to ADHD](inhibitory-control-repeatedly-adhd-related.md)
+- [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](meditation-improves-cognitive-functioning-measures.md) — related

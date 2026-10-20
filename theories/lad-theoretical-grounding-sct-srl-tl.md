@@ -49,7 +49,8 @@ The article argues LAD design should be anchored in established educational theo
 - [Constructivism as a theory of knowledge and learning with individualistic, social, and combined branches](constructivism-knowledge-learning-theory-branches.md)
 
 ## Examples
--
+
+- [Embed SRL supports in digital and AI-enhanced learning environments, grounded in solid SRL theory](../strategies/embed-srl-in-digital-ai-learning-environments.md)
 
 ## Key Sources
 - Gomathy Ramaswami, Teo Susnjak and Anuradha Mathrani. (2023). Effectiveness of a Learning Analytics Dashboard for Increasing Student Engagement Levels. Journal of Learning Analytics, 10(3). https://doi.org/10.18608/jla.2023.7935

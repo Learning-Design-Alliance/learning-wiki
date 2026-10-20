@@ -47,3 +47,5 @@ Qualitative thematic interviews with 671 students, coded by keyword extraction a
 - Qualitative interviews identify prior coding interest, time resources, course pacing, and financial constraints as key experiential factors shaping LC101 persistence — related
 - [Only 4.3% of surveyed secondary vocational students meet mental health knowledge standards](vocational-students-low-mental-health-literacy-4-3-percent.md) — related
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
+- [Prominent quantitative measures of belonging focus overwhelmingly on social connectedness and general fit, with only 1 of 70 items assessing resource fit](belonging-measures-focus-social-fit-content-analysis.md) — related
+- [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — related
