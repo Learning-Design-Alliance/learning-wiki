@@ -13,7 +13,7 @@ generated:
 # Establishing Classroom Routines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 against) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 3 report an effect size
+> **Evidence** · 2 claims (1 for, 1 against) · 5 studies (2 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Classroom routines are taught, rehearsed procedures for recurring activities — entering the room, transitioning between tasks, distributing materials, starting work, closing class. The strategy involves explicitly modeling each routine, practicing it, and providing brief corrective feedback until execution becomes automatic, after which the routine runs without teacher direction.

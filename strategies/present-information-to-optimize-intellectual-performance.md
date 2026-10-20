@@ -18,7 +18,7 @@ sources:
 # Present information in a manner that encourages learner activities that optimize intellectual performance
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 quant-synthesis, 1 review), `q1`–`q4` · 1 of 3 report an effect size · 4 claims rest on one study
 
 ## Description
 The article states that cognitive load theory "has been designed to provide guidelines intended to assist in the presentation of information in a manner that encourages learner activities that optimize intellectual performance." As a strategy, information presentation should be arranged so that learners engage in activities aligned with the theory's guidelines rather than activities that waste working memory capacity.

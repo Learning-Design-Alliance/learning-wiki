@@ -149,10 +149,6 @@
           "~"
         ],
         [
-          "srl-effect-sizes-heterogeneous-random-effects",
-          "~"
-        ],
-        [
           "srl-meta-analysis-publication-bias-absent",
           "+"
         ],

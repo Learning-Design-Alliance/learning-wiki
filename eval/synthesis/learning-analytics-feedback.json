@@ -43,10 +43,6 @@
           "-"
         ],
         [
-          "course-signals-selection-effect-caution",
-          "-"
-        ],
-        [
           "course-signals-confounding-number-of-classes",
           "-"
         ],
@@ -107,10 +103,6 @@
         [
           "secondary-outcomes-varied-predictability",
           "~"
-        ],
-        [
-          "predicting-academic-performance-ai-ed-he",
-          "+"
         ]
       ]
     },
