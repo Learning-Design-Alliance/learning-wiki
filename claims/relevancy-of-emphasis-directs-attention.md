@@ -64,7 +64,7 @@ In the same study, the main effect for relevancy was also significant for the lo
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does it matter what is cued, and what happens to attention to the rest?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 review), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does it matter what is marked, and who marks it (learner or instructor)?* This table gathers the studies behind this claim and the 10 narrower claims that bear on it: **6 distinct studies** (4 causal, 2 review), `q2`–`q3`, 2 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

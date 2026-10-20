@@ -46,3 +46,4 @@ The meta-analysis's assessment of the evidence base from its 165 studies. The au
 - [Instructional design models are rarely tested against outcomes; their credibility comes from practitioners finding them useful.](instructional-design-models-are-validated-by-adoption-not-testing.md) — a broader claim this one bears on
 - [Unguided or minimally guided instructional approaches are popular and intuitively appealing but ignore human cognitive architecture and the empirical evidence](minimally-guided-approaches-ignore-cognitive-architecture.md) — related
 - Few studies of online instruction's operations and effects existed before the National Study of Online Charter Schools — related
+- [Before this review, available evidence for jigsaw effectiveness was scant and mixed, with neither meta-analysis nor systematic review](jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis.md) — related

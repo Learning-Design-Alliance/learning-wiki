@@ -52,3 +52,4 @@ The report's introduction states this research gap as the motivation for studyin
 - [Students with alternatively certified teachers did no worse on achievement tests than students with traditionally certified teachers](alt-cert-teachers-no-worse-student-achievement.md) — related
 - [Teachers prepared through traditional certification pathways are retained at higher rates over 5 years than alternatively certified or noncertified Texas teachers](traditional-pathway-higher-retention-texas.md) — related
 - [An evaluation study compares teachers trained through different routes to certification](evaluation-teachers-different-certification-routes.md) — related
+- [Little is known about substitute teachers' work conditions, motivations, experiences, and support despite their ubiquity in the teaching workforce](substitute-teacher-research-gap.md) — related

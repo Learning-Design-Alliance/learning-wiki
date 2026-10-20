@@ -2,7 +2,7 @@
 
 Named products and programmes others adopt: software and platforms, curricula, assessments and instruments, datasets, and branded programmes and initiatives, each with its own frameworks and the evidence about it. A design is one setting's.
 
-**1822 entries** · 0 stable · 1822 in review · 0 drafts
+**1825 entries** · 0 stable · 1825 in review · 0 drafts
 
 ---
 
@@ -632,6 +632,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [GAI-A (Generative Artificial Intelligence in Architecture) interface with Collage Tool](gai-a-generative-artificial-intelligence-in-architecture-interface-with-collage-tool.md) - GAI-A is a React.js and Flask-based generative-AI architecture design interface developed by Leman Figen Gül and colleagues that converts user-created image collages into cohesive architectural renderings.
 * [GAIDE: A Guiding Framework for AI-Integrated Design for Educators](gaide-a-guiding-framework-for-ai-integrated-design-for-educators.md) - Song et al.'s GAIDE framework guides K–12 teachers through AI understanding, iterative collaborative design and prototyping, and reflection on ethical application when creating AI-powered learning technologies.
 * [Galaxy Math](galaxy-math.md) - Galaxy Math is an AIR-disseminated, space-themed one-to-one tutoring programme in which paraprofessionals provide at-risk first graders with frequent sessions focused on addition and subtraction.
+* [Game Performance Assessment Instrument (GPAI)](game-performance-assessment-instrument-gpai.md) - The GPAI is a physical-education observational assessment instrument used to code students' in-game skill execution and tactical performance during live games or recordings.
 * [Game-based assessment of persistence (GAP)](game-based-assessment-of-persistence-gap.md) - Ventura et al.'s game-based assessment measures learner persistence from log-derived time spent on unsolved problems during gameplay.
 * [Gator Mentoring](gator-mentoring.md) - Gator Mentoring is a school-wide, full-year initiative that pairs at-risk middle-school students with adult staff mentors for bi-weekly support and guidance.
 * [GBSRI](gbsri.md) - GBSRI is a genre-based, self-regulated writing-instruction framework developed by the article’s authors for EFL writing instruction.
@@ -1001,6 +1002,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Mentira](mentira.md) - Mentira is a place-based mobile game developed by Holden and Sykes that teaches Spanish sociopragmatic language use through collaborative crime-mystery interactions and contextual corrective feedback.
 * [Mentor Tech](mentor-tech.md) - Mentor Tech is a Texas Tech University programme that supports underrepresented students through matched faculty mentoring, workshops, community connections, and scholarships.
 * [Menu of Measures](menu-of-measures.md) - A curated resource developed by Mathematica and a panel of mathematics-instruction and measurement researchers for Bill & Melinda Gates Foundation grantees, listing valid, reliable, and accessible measures of middle-grades mathematics outcomes.
+* [Meta-analytic corpus of 42 U.S. causal studies yielding 73 effect estimates of grant aid on persistence and degree attainment](meta-analytic-corpus-of-42-us-causal-studies-yielding-73-effect-estimates-of-grant-aid-on.md) - A research dataset compiling causal effect estimates from U.S.
 * [Meta-analytic corpus of 77 studies and 276 effect sizes on school racial climate and belonging](meta-analytic-corpus-of-77-studies-and-276-effect-sizes-on-school-racial-climate-and-belon.md) - A research corpus assembled by Christy M.
 * [Meta-analytic corpus of 97 reports, 105 independent samples, and 216 effect sizes on L2 anxiety and achievement](meta-analytic-corpus-of-97-reports-105-independent-samples-and-216-effect-sizes-on-l2-anxi.md) - An open meta-analytic corpus assembled by Yasser Teimouri and colleagues from reports on second-language anxiety and achievement, with coded effect sizes and moderator information available through the IRIS database.
 * [Meta-analytic dataset of 38 RAE studies across 14 sports and 16 countries](meta-analytic-dataset-of-38-rae-studies-across-14-sports-and-16-countries.md) - A dataset assembled and reanalysed by Cobley et al.
@@ -1600,6 +1602,7 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Symphony Math](symphony-math.md) - Symphony Math is a web-browser and iPad technology intervention program that provides individualized mathematics practice for K–8 students, developed and distributed as the Symphony Math program.
 * [Syntea](syntea.md) - Syntea is IU International University of Applied Sciences' AI-based learning-assistant software for question answering, interactive tutoring, personalized feedback, progress tracking, and exam preparation.
 * [Synthesis Lab](synthesis-lab.md) - Synthesis Lab is a web application that integrates with social annotation tools to help learners categorize peer annotations into conceptual building blocks and develop knowledge syntheses.
+* [Systematic review corpus of 69 jigsaw studies (1978–2022)](systematic-review-corpus-of-69-jigsaw-studies-19782022.md) - A corpus of 69 studies conducted from 1978 through 2022 that met review criteria for examining jigsaw's effects on academic performance and psychosocial outcomes.
 * [Systematic review evidence corpus: 49 studies of learning approaches and academic performance in medical and dental education (2000–2023)](systematic-review-evidence-corpus-49-studies-of-learning-approaches-and-academic-performan.md) - A PRISMA-guided corpus of 49 empirical studies on learning approaches and academic performance among undergraduate medical and dental students, assembled by Marlen A.
 * [Systems Review](systems-review.md) - Systems Review is an inquiry-based, systems-focused approach for teams working to improve a system, developed and facilitated by R15CC.
 

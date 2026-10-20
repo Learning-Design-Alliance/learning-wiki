@@ -13,7 +13,7 @@ generated:
 # Expert Groups
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (3 for) · 11 studies (3 causal, 3 quant-synthesis, 3 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 11 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 qualitative), `q2`–`q4` · 1 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
 Expert groups are a cooperative structure in which learners first work in same-topic groups to master one segment of a topic, then return to heterogeneous groups to teach their segment to peers. Each learner becomes the sole source of a piece of knowledge, making the group's success depend on every member's contribution. The structure is the core mechanism of the Jigsaw classroom and related collaborative inquiry formats.
@@ -52,7 +52,7 @@ Expert groups promote deep processing because preparing to teach forces learners
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Before this review, available evidence for jigsaw effectiveness was scant and mixed, with neither meta-analysis nor systematic review](../claims/jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis.md) [~W]
 
 ## Related Elements
 - [Collaboration](collaboration.md) — the general element expert groups formalize with role-based expertise

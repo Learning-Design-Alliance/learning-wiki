@@ -69,3 +69,4 @@ The review reports this non-random experiment trial (Table 2 lists it as non-ran
 - [Meditation shows significant but predominantly small effects on social competence, with teacher-facilitated programmes showing more significant effects](meditation-small-social-competence-effects.md) — related
 - [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](meditation-programme-characteristics-moderators.md) — related
 - [Across 15 school meditation studies, 61% of calculable effect sizes were statistically significant, with most effects small](school-meditation-61-percent-significant-effects.md) — related
+- [Before this review, available evidence for jigsaw effectiveness was scant and mixed, with neither meta-analysis nor systematic review](jigsaw-evidence-previously-scant-and-mixed-no-meta-analysis.md) — related

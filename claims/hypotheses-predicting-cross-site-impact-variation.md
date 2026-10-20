@@ -46,3 +46,4 @@ Per the abstract, the estimated cross-site standard deviations are used to "expl
 - [Cross-site standard deviations of ITT effects were estimated for education and workforce interventions using data from 16 large multisite randomized controlled trials](cross-site-itt-effect-variation-16-multisite-rcts.md) — related
 - [Cross-site impact variation has implications for the statistical precision of multisite trials](cross-site-variation-implications-trial-precision.md) — related
 - [Methods for estimating impacts when treatment effects vary apply to randomized controlled trials and are also applicable to quasi-experimental designs](varying-effects-methods-rct-and-quasi-experimental.md) — related
+- [Factors highlighted in the co-teaching literature as preconditions for effectiveness did not explain variation in effect sizes](coteaching-preconditions-no-moderation.md) — a narrower finding that bears on this claim

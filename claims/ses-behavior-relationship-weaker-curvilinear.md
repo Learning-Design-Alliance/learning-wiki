@@ -51,3 +51,4 @@ Growth curve models of ECLS-B behavior outcomes (teacher/interviewer nonparent r
 - [Maternal education has the largest peak association with cognitive development: a high-school-to-college increase predicts about 0.4 SD higher reading and math scores at the peak.](maternal-education-largest-peak-association.md) — related
 - [Socioeconomic resources changed meaningfully over early childhood, with household income rising from 290% to 351% of the poverty line, concentrated in the prekindergarten year.](ses-resource-levels-changed-over-early-childhood.md) — related
 - [Higher SES is associated with higher parent-reported curiosity at kindergarten](higher-ses-associated-higher-kindergarten-curiosity.md) — related
+- [Educational domain, cultural orientation, age, gender, and socioeconomic status are candidate moderators of model effects](tcm-candidate-moderators-of-model-effects.md) — a broader claim this one bears on

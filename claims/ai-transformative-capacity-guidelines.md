@@ -60,3 +60,4 @@ The review's C1 synthesis, citing Aberšek and Flogie (2021), Chaudhry and Kazim
 - [GenAI tools are largely Global North products that have spread rapidly worldwide, including into Global South higher education](genai-global-north-origin-rapid-spread.md) — related
 - [Little attention has been paid to the undesirable consequences of indiscriminate AI application, including automation-driven socio-economic inequality](k12-ai-literacy-neglects-undesirable-consequences.md) — related
 - [AI has transformed the traditional teacher-student relationship into a teacher-AI-student dynamic](ai-transforms-teacher-student-relationship.md) — related
+- [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](world-bank-technical-assistance-structural-constraint.md) — related

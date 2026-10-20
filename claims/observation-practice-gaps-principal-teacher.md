@@ -48,3 +48,4 @@ Statewide survey of educators from 24 districts (2015). A parallel item found 93
 - [In one case-study school, a principal's lack of Framework knowledge and inability to rate practice led teachers to perceive the new evaluation as subjective, undermining buy-in](principal-framework-knowledge-subjectivity-perception.md) — related
 - [Principals rated teaching practice reliably at the low and middle ends of the rating scale, and most principals' severity matched trained observers](principal-rater-severity-variation.md) — related
 - [Developers of the principal practice instruments provided only partial information about the instruments' reliability and validity](practice-instrument-partial-reliability-validity-info.md) — related
+- [Effects of collaborative instruction are mostly the same size whether interventions used trained teachers or assistants without teaching qualifications](assistant-vs-trained-teacher-similar-effects.md) — related

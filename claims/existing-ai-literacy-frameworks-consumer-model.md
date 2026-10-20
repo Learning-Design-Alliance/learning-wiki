@@ -52,3 +52,4 @@ Theoretical analysis of four publicly available AI literacy frameworks spanning 
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
 - [The debt is incurred by deploying organizations but paid by users, patients, and citizens, making it an AI ethics problem](literacy-debt-incurred-deployers-paid-by-users.md) — related
 - [Teacher professional judgement is represented in AI ethics literature as an ethical and interpretive capacity central to responsible AI use, not a technical skill to be replaced](teacher-judgement-ethical-interpretive-capacity.md) — reports the opposite
+- [Technical assistance functions as a structural constraint that embeds World Bank frameworks in national policymaking, not merely as advice](world-bank-technical-assistance-structural-constraint.md) — related

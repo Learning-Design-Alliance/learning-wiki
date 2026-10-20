@@ -53,3 +53,4 @@ Direct-path results from the structural equation model of the 1243-student surve
 - [The structural model explains 71.6% of variance in GenAI-assisted learning procrastination and 58.5% in behavioral intention](model-variance-explained-galp-bi.md) — related
 - [Prior comparative evidence shows small intention–norm and intention–control associations and a TPB model significant in Thailand but not South Africa](comparative-tpb-evidence-thailand-south-africa.md) — related
 - [Social norms, peer behaviors, family attitudes, insufficient sanctions, teacher attitude, high expectations, and adverse conditions positively predict AI-assisted dishonesty, while ethical and moral education negatively predicts it](social-contextual-predictors-ai-assisted-dishonesty.md) — related
+- [Autonomous motivation significantly and positively predicts subjective norms, contrary to theoretical expectations](autonomous-motivation-predicts-subjective-norms-positively.md) — related
