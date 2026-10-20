@@ -26,8 +26,8 @@ sources:
     resource: "https://doi.org/10.51388/20.500.12265/155"
     title: "Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155"
   - id: merueña-2023
-    resource: "https://doi.org/10.36713/epra2016"
-    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    resource: "https://eric.ed.gov/?id=ED637673"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673"
     author: Merueña, J. A. A
 ---
 
@@ -195,7 +195,7 @@ Following the information on the corrected item, unaided performance on a new it
 - Clark, I. (2012). Formative assessment: Assessment is for self-regulated learning. *Educational Psychology Review, 24*(2), 205-249. [https://doi.org/10.1007/s10648-011-9191-6](https://doi.org/10.1007/s10648-011-9191-6)
 - Pollard, V., Armatas, C., & Pepe, A. (2025). Feedback is integral: Using a revised ICAP Framework to achieve active learning in an asynchronous online course. Online Learning, 29(3), 236-253. https://doi.org/10.24059/olj.v29i3.4555
 - Baker, A., Weisgrau, J., & Bristal Philyaw, K. (2022, May). Feedback loops: Mapping transformative interactions in education innovation. Digital Promise. https://doi.org/10.51388/20.500.12265/155
-- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673
 
 <!-- deprecated 2026-10-05: superseded by the conditional model above. The previous body, kept verbatim.
 ## Description
@@ -377,5 +377,5 @@ DL2F treats language proficiency as an ongoing journey rather than a fixed desti
 -
 
 ## Key Sources
-- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673
 -->

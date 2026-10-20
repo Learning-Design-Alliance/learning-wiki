@@ -1,6 +1,6 @@
 ---
 type: claim
-title: High-confidence errors are more likely than low-confidence errors to be corrected and retained after feedback.
+title: High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.
 status: review
 generated:
   by: "process:wiki-ingest"
@@ -28,7 +28,7 @@ id: high-confidence-errors-improve-retention
 evidence_strength: strong
 ---
 
-# High-confidence errors are more likely than low-confidence errors to be corrected and retained after feedback.
+# High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 causal `r?`, 1 review `r?` · `q2`–`q3`
@@ -57,7 +57,7 @@ Fazio, L. K., & Marsh, E. J. (2009). Surprising feedback improves later memory. 
 
 `q3 · peer-reviewed experiment` · `i? · no source text available to check; the entry prints no effect size` · `n=118` · `causal · r?`
 
-Two experiments with undergraduates (46 in Experiment 1, 72 in Experiment 2) found better memory for the appearance of feedback (its font colour or voice) when it contradicted participants' confidence, and Experiment 2 also showed the hypercorrection effect itself. The authors read this as consistent with the surprise hypothesis, using memory for the feedback's appearance as a measure of attention; attention was not manipulated directly.
+Two experiments with undergraduates (46 in Experiment 1, 72 in Experiment 2) found better memory for the appearance of feedback (its font colour or voice) when it did not match their expectation (feedback on a high-confidence error or on a low-confidence correct answer), and Experiment 2 also showed the hypercorrection effect itself. The authors read this as consistent with the surprise hypothesis, using memory for the feedback's appearance as a measure of attention; attention was not manipulated directly.
 
 ## Studies bearing on this claim
 

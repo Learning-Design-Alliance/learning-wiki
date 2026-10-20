@@ -19,8 +19,8 @@ sources:
     title: "Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org"
     author: "Comprehensive Early Literacy Policy: Fundamental Principles"
   - id: merueña-2023
-    resource: "https://doi.org/10.36713/epra2016"
-    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    resource: "https://eric.ed.gov/?id=ED637673"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673"
     author: Merueña, J. A. A
   - id: boise-cascade-center-for-community-development-1972
     resource: "https://eric.ed.gov/?id=ED134349"
@@ -201,7 +201,7 @@ Observed practice, student achievement, teacher satisfaction and maintenance aft
 ## Key Sources
 - Ferraro, Joan M. (2000). Reflective Practice and Professional Development. ERIC Digest. https://eric.ed.gov/?id=ED449120
 - Comprehensive Early Literacy Policy: Fundamental Principles. (2024). ExcelinEd Policy Toolkit. https://www.excelined.org
-- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673
 - Boise Cascade Center for Community Development. (1972). Indian Economic Development: An Evaluation of EDA's Selected Indian Reservation Program. Volume I: Narrative. https://eric.ed.gov/?id=ED134349
 - CEO Forum on Education and Technology. (1999). School Technology and Readiness Report. Professional Development: A Link to Better Learning. The CEO Forum on Education and Technology, Year Two. https://eric.ed.gov/?id=ED428747
 - Smith, T. M., Walters, K., Griffin, M., Jones, W., Lennon, V., & Sanders, Z. (2021). The Better Math Teaching Network: Lessons Learned From a 5-Year Instructionally Focused NIC. American Institutes for Research & WestEd. https://www.bettermathteachingnetwork.org/
@@ -356,7 +356,7 @@ The article identifies teacher development as a condition for sustained implemen
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](../strategies/educator-ai-development-support-programs.md)
 
 ## Key Sources
-- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673
 -->
 
 <!-- merged 2026-10-15 from principles/on-the-job-specialist-training-for-tribal-development-personnel ("Outside specialists should train tribal personnel on the job by working alongside them on real projects rather than delivering one-time reports"), a fragment of this page: a non-canonical page folded into its canonical parent, chosen by two models agreeing or a third settling (2026-10-15): its body as it stood. Its bullets this page lacked were added above.

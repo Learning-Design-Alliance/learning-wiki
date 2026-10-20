@@ -564,8 +564,9 @@ The route for the rest, when the structure has proved itself:
 **One fixture corrected the claim page it came from, which is the point of doing this.**
 `claims/game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md` renders
 Frolli et al. as finding Italian articles "disproportionately hard for this group". The
-paper reports articles as an *instructional accommodation* — the one topic that needed
-occasional Russian, because articles are absent from Russian and Ukrainian grammar — and
+paper reports articles as an *instructional accommodation* — one example ("for instance") of
+complex topics taught with occasional Russian, because articles are absent from Russian and
+Ukrainian grammar — and
 measured no article-specific outcome at all. The observation file records it as an
 implementation note and a `candidate` moderator, never a reported one. Structuring a study
 is a re-read of it, and a re-read finds things.

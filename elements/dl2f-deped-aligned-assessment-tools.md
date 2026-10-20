@@ -9,8 +9,8 @@ generated:
   at: 2026-09-25
 sources:
   - id: merueña-2023
-    resource: "https://doi.org/10.36713/epra2016"
-    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016"
+    resource: "https://eric.ed.gov/?id=ED637673"
+    title: "Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673"
     author: Merueña, J. A. A
 ---
 
@@ -51,4 +51,4 @@ A component of DL2F implementation is a set of assessment and evaluation tools d
 - [Adapt DL2F to local context by aligning with the national curriculum, using authentic local materials, multilingual approaches, and pragmatic low-bandwidth technology integration](../strategies/dl2f-philippine-contextual-adaptation-strategy.md)
 
 ## Key Sources
-- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://doi.org/10.36713/epra2016
+- Merueña, J. A. A. (2023). Dynamic Language Learning Framework (DL2F) Instructional Model. EPRA International Journal of Research and Development (IJRD). https://eric.ed.gov/?id=ED637673

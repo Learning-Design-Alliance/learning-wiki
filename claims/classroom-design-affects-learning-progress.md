@@ -53,7 +53,7 @@ The physical characteristics of a classroom — daylight, air quality, temperatu
 
 `q2 i?` An earlier pilot across 34 classrooms established the same multi-level structure and identified the six design parameters the later study confirmed. [→ Barrett et al. 2013](#barrett-et-al-2013)
 
-`q2 i?` Visual stimulation is curvilinear rather than monotonic: sparsely decorated and heavily decorated classrooms both underperform moderately decorated ones. [→ Barrett et al. 2015](#barrett-et-al-2015)
+`q2 i?` Visual stimulation is curvilinear rather than monotonic: classrooms low or high in overall visual complexity (layout, ceiling and displays) and in colour both underperform intermediate ones. [→ Barrett et al. 2015](#barrett-et-al-2015)
 
 `q2 i?` Both structural features (light, noise, temperature) and symbolic features (what the decoration signals about who belongs) affect achievement, and the symbolic channel operates independently of the physical one. [→ Cheryan et al. 2014](#cheryan-et-al-2014)
 
@@ -104,7 +104,7 @@ A review synthesising the classroom-environment literature into two channels. **
 
 **The effect is concentrated at the bad end.** Across both the HEAD work and Cheryan et al.'s review, the pattern is that fixing genuinely poor conditions — a stuffy, dim, overheated, or noisy room — produces the observable gain, while further optimising an already adequate room produces little. Design is therefore best treated as a threshold variable rather than a lever to be maximised.
 
-**Stimulation is curvilinear, and this is the most frequently misread finding.** The HEAD result does not say that colourful classrooms help; it says that moderately decorated rooms outperform both bare and cluttered ones. Excess display competes for attention in exactly the way irrelevant graphics do in multimedia materials — see [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) and [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md). The design implication is purposeful display, not maximal display.
+**Stimulation is curvilinear, and this is the most frequently misread finding.** The HEAD result does not say that colourful classrooms help; it says that rooms of intermediate visual complexity (layout, ceiling and displays together) outperform both very plain and very complex ones. Excess display competes for attention in exactly the way irrelevant graphics do in multimedia materials — see [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) and [Cognitive Overload Degrades Learning](cognitive-overload-degrades-learning.md). The design implication is purposeful display, not maximal display.
 
 **Design does not substitute for instruction.** The variance attributable to the room is small next to the variance attributable to teaching, and redesigning space without changing pedagogy reliably produces nothing — see [Learning Space Redesign Alone Insufficient](learning-space-redesign-alone-insufficient.md). Flexible furniture that is used to seat pupils in rows is a layout change, not an instructional one.
 
