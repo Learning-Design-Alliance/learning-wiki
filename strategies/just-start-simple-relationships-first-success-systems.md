@@ -43,6 +43,7 @@ Drawing on Demopolis High School's experience, the report recommends that distri
 - [Conduct ed-tech pilots by articulating the instructional need, setting clear product-review criteria, involving educators in planning, supporting educators throughout, gathering data from all users, deciding from data, negotiating purchasing options, and sharing results](rapid-cycle-edtech-pilot-best-practices.md)
 - [Know every student well through many adults, multi-year teacher loops, and flexible small-group instruction](know-every-student-well-flexible-grouping.md)
 - [Design schools for strong, personalized relationships through small learning communities, looping, advisory systems, teaching teams, and longer grade spans](personalized-relationship-structures-strategy.md)
+- [Distance from broad global solutions and design education around specific local needs, letting communities decide the purpose school serves](locally-negotiated-education-hunter-gatherer.md)
 
 ## Examples
 -

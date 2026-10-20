@@ -59,9 +59,11 @@ Transfer does not happen automatically; near transfer is common but far transfer
 6. Fade the prompts as learners develop the habit of searching for applications themselves
 
 ## Related Strategies
+
 - [Analogical Reasoning](../principles/analogical-reasoning.md) — the cognitive mechanism underlying most transfer; comparing source and target structures
 - [Activating Prior Knowledge](../strategies/activating-prior-knowledge.md) — transfer depends on retrieving relevant prior learning at the right moment
 - [Case-Based Learning](case-based-learning.md) — the multiple-case structure that supports schema abstraction
+- [Foster mindful transfer by systematically saturating instruction with attention to transfer](saturate-instruction-with-attention-to-transfer.md)
 
 ## Examples
 - **Gick & Holyoak's radiation problem studies** — learners who read a fortress-and-general story and were explicitly prompted to use it solved Duncker's tumor problem at far higher rates than those who read the story without a transfer prompt; the canonical demonstration that analogical transfer requires prompting.

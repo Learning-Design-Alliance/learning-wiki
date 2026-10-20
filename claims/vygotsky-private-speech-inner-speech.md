@@ -52,3 +52,4 @@ This is a descriptive exposition in the article's summary of Vygotsky's concepts
 - [DL2F aligns with social and cognitive constructivist theories of learning](dl2f-constructivist-alignment.md) — related
 - [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](debriefing-conversational-remembering-public-artifact.md) — related
 - [Communicating feelings of difficulty is significantly associated with six-year-olds' deployment of metacognition and self-regulation, with the exception of planning](fod-communication-associated-with-metacognition-except-planning.md) — related
+- [The appropriate unit of analysis for studying learning is goal-directed, tool-mediated activity, with training sessions treated as the theoretically compelling period in which learning occurs](unit-of-analysis-tool-mediated-activity.md) — related

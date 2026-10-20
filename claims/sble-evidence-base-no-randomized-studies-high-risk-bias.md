@@ -54,3 +54,4 @@ In the Results section on risk of bias, the review reports "The risk of bias in 
 - The evidence base on SBLE lacks randomized trials, though recent strong quasi-experiments indicate increasing rigor — possibly the same claim (merge candidate)
 - The evidence base on COVID-19 learning is geographically skewed toward high-income countries and about half of studies carry serious or critical risk of bias, with no evidence of publication bias — related
 - [SBLE presence is unrelated to learning outcomes including achievement, proficiency, and attendance](sble-unrelated-learning-outcomes.md) — related
+- [Experimental designs and study-specific measures are associated with larger program effects, while peer-reviewed status shows no indication of publication bias](flp-design-and-measure-modulators.md) — related

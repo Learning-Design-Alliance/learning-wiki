@@ -13,7 +13,7 @@ generated:
 # Writing Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 91 claims (62 show a difference, 17 mixed, 12 no difference) · 60 studies (22 causal, 19 associational, 7 quant-synthesis, 6 review, 3 design, 3 theoretical), `q1`–`q4` · 21 of 60 report an effect size · 86 claims rest on one study
+> **Evidence** · 92 claims (63 show a difference, 17 mixed, 12 no difference) · 61 studies (22 causal, 19 associational, 8 quant-synthesis, 6 review, 3 design, 3 theoretical), `q1`–`q4` · 21 of 61 report an effect size · 87 claims rest on one study
 
 ## Description
 Writing skills run from the foundational to the compositional. At the foundation are the motor skills of handwriting, knowledge of letters and print, spelling, punctuation, capitalisation and writing speed. Composition is the expression of ideas in writing: setting goals for a piece, deciding on content and structure, and shaping it for an audience and purpose. Genre knowledge is knowing the elements, vocabulary and order a narrative, persuasive or informative text calls for, and argumentative reasoning is the ability to make and support a claim with evidence and judge other people's arguments. The Learner Variability Navigator covers these as five factors across early childhood, the primary and secondary grades and adult learning.
@@ -129,6 +129,7 @@ They are assessed with curriculum-based measures (copying, dictation, spelling, 
 - [Writing instruction produces a statistically significant positive overall effect on the writing performance of K-12 English language learners in the United States (g = 0.33)](../claims/writing-instruction-positive-overall-effect-us-ell.md) [+W] — instruction changes it
 - [Writing interventions improve writing quality, the most frequently assessed outcome, with an effect of 0.33 for US ELL students](../claims/writing-quality-effect-us-ell.md) [+W] — instruction changes it
 - [The genre-by-generation-task interaction: sentence unscrambling beats letter completion in expository texts, and letter completion beats sentence unscrambling descriptively in narratives](../claims/genre-by-generation-task-interaction-map.md) [~M] — instruction changes it
+- [Educational technology interventions show positive effects on writing proficiency in elementary school](../claims/edtech-positive-effects-writing-proficiency.md) [+M] — instruction changes it
 
 ## Measures
 - **Wechsler Individual Achievement Test (Third Edition)** (Breaux & Frey, 2010): This multi-battery test can be used in a variety of settings to measure ability and screen for potential learning disabilities. There are extensive written expression sub-tests to analyze Composition abilities.

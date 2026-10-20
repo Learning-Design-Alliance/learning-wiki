@@ -65,3 +65,4 @@ In the same regression series, adolescent-reported posttraumatic stress symptoms
 - [Earlier community violence exposure inversely predicts later school engagement, but earlier school engagement does not predict later community violence exposure](community-violence-predicts-lower-later-school-engagement-unidirectional.md) — related
 - [Internalizing, externalizing, and posttraumatic stress symptoms do not mediate the association between community violence exposure and GPA](psychological-symptoms-do-not-mediate-violence-gpa.md) — related
 - [School engagement partially mediates the association between earlier community violence exposure and later cumulative GPA](school-engagement-partially-mediates-violence-gpa-link.md) — related
+- [Community violence detrimentally impacts youth and communities, motivating a well-founded educational response](community-violence-detrimental-impact-motivates-educational-response.md) — related

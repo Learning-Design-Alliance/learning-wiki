@@ -13,7 +13,7 @@ generated:
 # Socioeconomic Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 113 claims (68 show a difference, 29 mixed, 16 no difference) · 86 studies (49 associational, 17 causal, 10 review, 5 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 8 of 86 report an effect size · 112 claims rest on one study
+> **Evidence** · 114 claims (68 show a difference, 29 mixed, 17 no difference) · 87 studies (49 associational, 17 causal, 10 review, 6 quant-synthesis, 3 theoretical, 1 qualitative, 1 design), `q1`–`q3` · 8 of 87 report an effect size · 113 claims rest on one study
 
 ## How to read this page
 
@@ -198,6 +198,7 @@ A learner's economic and social position: family income or poverty (often measur
 - [Low-income children in high-fidelity Montessori significantly closed the achievement gap with higher-income children by the end of a longitudinal lottery study](../claims/montessori-closed-income-achievement-gap.md) [+M] — an instructional effect differs by group
 - [SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes](../claims/ses-effect-moderators-indicator-outcome-grade-year.md) [~M] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 - [SES moderates relationships between other variables and student learning](../claims/ses-as-moderator-of-other-relationships.md) [+M] — an instructional effect differs by group
+- [Study quality, publication source, locality, socioeconomic status, years in multigrade classes, and publication year did not significantly predict multigrade cognitive effects](../claims/null-moderators-multigrade-cognitive.md) [-W] — outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## The evidence by question
 - *Does family income predict achievement and attainment, how large are the gaps, and when do they open?* [School test score averages are strongly related to the income of the families a school serves](../claims/school-test-scores-strongly-related-to-family-income.md) [+M]

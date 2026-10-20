@@ -18,7 +18,7 @@ moved_from: [principle/self-determination-theory]
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 47 claims (31 for, 15 mixed, 1 against) · 39 studies (11 review, 11 associational, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 9 of 39 report an effect size · 41 claims rest on one study
+> **Evidence** · 49 claims (33 for, 15 mixed, 1 against) · 40 studies (11 review, 11 associational, 7 causal, 4 quant-synthesis, 4 theoretical, 2 design, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 43 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -102,6 +102,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [The BPNSFS 3×2 six-facet structure (three needs × satisfaction/frustration) fits Australian school-leader data excellently and better than models collapsing valence](../claims/bpnsfs-3x2-structure-excellent-fit-school-leaders.md) [+W] — attached 2026-10-20 from Marsh et al. (2025), which proposed "SDT dual-process model of need satisfaction and frustration applied to constrained-autonomy leadership roles".
 - [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](../claims/competence-relatedness-content-pathways-c3.md) [+W]
 - [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](../claims/three-facet-mtmm-content-valence.md) [+W]
+- [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](../claims/competence-strongest-need-predictor-student-motivation.md) [+M] — attached 2026-10-20 from Bureau et al. (2022), which proposed "Self-determination theory's motivational sequence: autonomy support → psychological need satisfaction → motivation quality"; tests this page's relationship.
+- [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](../claims/teacher-autonomy-support-stronger-than-parental.md) [+M] — attached 2026-10-20 from Bureau et al. (2022), which proposed "Self-determination theory's motivational sequence: autonomy support → psychological need satisfaction → motivation quality"; tests this page's relationship.
 
 ## The evidence by question
 
@@ -138,6 +140,8 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 - [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
 - [Teaching Through Interactions framework](../research-methods/teaching-through-interactions-framework.md)
+- [Target teachers first in autonomy-support interventions to foster student autonomous motivation](../strategies/autonomy-support-interventions-target-teachers-first.md)
+- [Go beyond autonomy support with competence-supporting behaviors such as high-quality feedback](../strategies/competence-support-high-quality-feedback.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

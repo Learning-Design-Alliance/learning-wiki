@@ -13,7 +13,7 @@ generated:
 # Dialogic Reading
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 4 claims (4 for) · 12 studies (5 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q2`–`q4` · 3 of 12 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 13 studies (6 quant-synthesis, 2 causal, 2 review, 2 associational, 1 qualitative), `q2`–`q4` · 4 of 13 report an effect size · 1 claim rests on one study
 
 ## Description
 Dialogic reading is a shared-reading technique in which the adult shifts from reading *to* the child to reading *with* the child, using structured prompts (completion, recall, open-ended, wh-, and distancing questions), expansions of the child's utterances, and corrective feedback. The child progressively takes on more of the storytelling role, making the reading session a scaffolded conversation about the text rather than a passive read-aloud.
@@ -54,6 +54,7 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Back-and-forth conversational turns with adults are more critical to children's language development and brain physiology than sheer quantity of words heard](../claims/conversational-turns-predict-language-development.md) [+W]
+- [Training in a single setting (home only or center/school only) yields larger comprehension-related effects than training in both contexts or no training](../claims/flp-single-setting-training-larger-comprehension-effects.md) [~W]
 
 ## The evidence by question
 

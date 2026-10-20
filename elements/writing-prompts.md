@@ -13,7 +13,7 @@ generated:
 # Writing Prompts
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 11 claims (7 for, 4 mixed) · 18 studies (6 causal, 6 quant-synthesis, 3 associational, 1 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 18 report an effect size · 6 claims rest on one study
+> **Evidence** · 12 claims (7 for, 5 mixed) · 19 studies (6 causal, 6 quant-synthesis, 3 associational, 2 review, 1 design, 1 theoretical), `q1`–`q4` · 6 of 19 report an effect size · 7 claims rest on one study
 
 ## Description
 A writing prompt specifies a task that requires learners to generate written text — an explanation, argument, reflection, or summary — rather than select or recognize a response. Prompts function both as learning activities (writing to consolidate understanding) and as assessment instruments (writing to reveal it), and their design determines which of these functions dominates.
@@ -59,6 +59,7 @@ Writing prompts leverage the "generation effect": producing explanations and arg
 - [Assessment shifts from the quality of AI-generated text to articulating tasks, justifying prompt choices, and reflexively evaluating AI behaviour](../claims/assessment-shift-task-articulation-over-text-quality.md) [+W]
 - [Gaps in reflective training: 42.9 per cent of trainees had not experienced on-line collaborative talk and 42 per cent had not been asked to produce written assignments about ELT in Oman](../claims/gaps-collaborative-talk-and-written-assignments.md) [+W]
 - [No significant medium, context, or medium-by-context effects on written response length as a measure of behavioral engagement](../claims/no-medium-context-effect-response-length.md) [~W]
+- [Experimental research on free writing's effectiveness for improving writing is inconclusive](../claims/free-writing-experimental-evidence-inconclusive.md) [~W]
 
 ## The evidence by question
 

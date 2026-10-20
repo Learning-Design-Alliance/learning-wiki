@@ -49,3 +49,4 @@ The review's cross-study coding against Ouyang and Jiao's three-paradigm framewo
 - [Intelligent Tutoring Systems in VET foster declarative and procedural knowledge](its-vet-foster-declarative-procedural-knowledge.md) — related
 - [AI chatbots in VET show promising effects on self-regulation and task performance](ai-chatbots-vet-self-regulation-task-performance.md) — related
 - [Intelligent Extended Reality interventions in VET show consistent positive effects on procedural competence, practical skills, and learner motivation](ixr-vet-positive-effects-procedural-motivation.md) — related
+- [Most educational interventions to counter community violence focus on individual behavior or group interaction, while strategies for transformation of social systems are underrepresented](community-violence-interventions-individual-group-focus-systems-underrepresented.md) — a narrower finding that bears on this claim

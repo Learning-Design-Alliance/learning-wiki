@@ -48,3 +48,4 @@ Moderator analyses of five non-significant factors in the meta-analysis. Descrip
 - [Participation in the short INSIGHT training session is associated with a significant pre-post increase in teachers’ perceived ease of use of AI-based technologies](insight-training-increases-perceived-ease-of-use-ai.md) — related
 - [Intervention types (cue-generation encoding-based, retrieval-based, cue-attention, cue-selection) do not substantially differ in effectiveness](intervention-types-no-substantial-difference.md) — related
 - [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](technology-type-did-not-moderate-metacognition-effects.md) — related
+- [Effects of educational technology literacy interventions differ according to characteristics of the interventions and participants](edtech-effects-differ-by-intervention-participant-characteristics.md) — reports the opposite

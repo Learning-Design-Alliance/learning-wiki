@@ -69,3 +69,4 @@ Review synthesis of predictive studies (Box 1.1), citing University of Californi
 - [College readiness is best understood as a property of interactions between students and the college context, not only individual skills](college-readiness-as-student-college-interaction.md) — related
 - [Across the college-going population, course grades are consistently the strongest indicators of students' general academic preparation](grades-strongest-indicator-academic-preparation.md) — related
 - [Demanding excellence for the many rather than the few is questionable, and academic excellence defined as test success is too narrow](excellence-for-all-questionable.md) — related
+- [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related

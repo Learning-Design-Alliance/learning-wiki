@@ -30,7 +30,7 @@ Hoax websites function as [erroneous examples](../claims/erroneous-examples-buil
 
 #### Constraints
 - Teaching surface-feature checklists (e.g., "look for typos, check the .org domain") can backfire: modern hoax sites are professionally designed, and cue-based heuristics fail against sophisticated fabrication ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [-S]
-- Learners with high confidence in their own evaluation skill show the largest gaps between perceived and actual ability, so the strategy must confront overconfidence rather than assume it [Breakstone et al., 2021] [-M]
+- Learners with high confidence in their own evaluation skill show the largest gaps between perceived and actual ability, so the strategy must confront overconfidence rather than assume it ([Breakstone et al., 2021](https://doi.org/10.37016/mr-2020-56)) [-M]
 - One-off lessons produce fragile gains; evaluation habits require distributed practice across varied contexts [~M]
 - If the hoax is too obviously fake, learners never experience the failure that motivates deeper strategies [-W]
 
@@ -41,7 +41,7 @@ Hoax websites function as [erroneous examples](../claims/erroneous-examples-buil
 - **Current-events integration:** applying the same analysis to live social media claims rather than archived hoaxes
 
 ### Target Learners
-- Secondary and post-secondary students, who research shows perform poorly on source evaluation despite high self-confidence [Breakstone et al., 2021] [+S]
+- Secondary and post-secondary students, who research shows perform poorly on source evaluation despite high self-confidence ([Breakstone et al., 2021](https://doi.org/10.37016/mr-2020-56)) [+S]
 - Learners with high prior confidence benefit especially, because confronting a convincing hoax creates [cognitive conflict](../elements/cognitive-conflict.md) that destabilizes unreliable heuristics [~M]
 - Not restricted by prior knowledge of the topic; evaluation skill is domain-general but transfers best with practice across domains [~W]
 

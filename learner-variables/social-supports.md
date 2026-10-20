@@ -13,7 +13,7 @@ generated:
 # Social Supports
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 55 claims (48 show a difference, 4 mixed, 3 no difference) · 50 studies (15 associational, 14 qualitative, 9 review, 5 causal, 3 design, 3 theoretical, 1 quant-synthesis), `q1`–`q3` · 2 of 50 report an effect size · 55 claims rest on one study
+> **Evidence** · 56 claims (49 show a difference, 4 mixed, 3 no difference) · 51 studies (15 associational, 14 qualitative, 9 review, 5 causal, 3 design, 3 theoretical, 2 quant-synthesis), `q1`–`q3` · 2 of 51 report an effect size · 56 claims rest on one study
 
 ## Description
 Social supports are the people available to help a learner if needed, and the learner's perception that they are there: parents and family, friends and classmates, teachers and other school staff, and the wider community. The support they give can be emotional (care and compassion), appraisal (useful feedback), instrumental (time, money, resources) and informational (advice). The LVN stresses perception: feeling that support would be there, even if it is never called on, contributes to well-being and academic success, and help that is actually received can strengthen that perception and a learner's sense of efficacy. Effective support looks different across families and cultures and can be provided across income levels; what matters is what the people around a learner do. Supports can be eroded by family separation, bereavement, parental imprisonment, substance misuse or illness, by bullying and discrimination, and by moving schools, and a relationship with another trusted adult can partly make up for that. It is measured with perceived-support scales for children, adolescents and adults. It overlaps with [belonging](belonging.md) and with the [home learning environment](home-learning-environment.md).
@@ -91,6 +91,7 @@ Social supports are the people available to help a learner if needed, and the le
 - [Struggling participants in the rule-based game initiated emergent facilitation — self-organized peer facilitation — which was fuelled by cognitive load, scope disturbances and high distance and supported first- and second-order learning](../claims/emergent-facilitation-by-participants-in-rule-based-sg.md) [+M] — instruction changes it
 - [Teachers who completed a scaffolding intervention program increased the contingency of their support far more than non-participating teachers](../claims/scaffolding-intervention-increases-teacher-contingency.md) [+M] — instruction changes it
 - [The relative importance of academic self-concepts depends on explicit social and cultural supports for their valuation](../claims/academic-self-concept-cultural-valuation.md) [~W] — an instructional effect differs with it
+- [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](../claims/teacher-autonomy-support-stronger-than-parental.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Social Support Questionnaire, Short Form** (Sarason et al., 1987): self-report of the number of supportive relationships an adult has and satisfaction with them.

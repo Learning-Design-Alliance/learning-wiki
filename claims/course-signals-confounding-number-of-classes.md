@@ -76,3 +76,4 @@ The paper's review of the Course Signals deployment, piloted at Purdue in 2007, 
 - [In an AI-based early warning system, the predictive importance of CAM dimensions shifted over an instructional unit, with affect/metacognition self-reports leading early and cognitive artifacts gaining accuracy toward the end](early-warning-system-cam-predictive-importance-shifts-over-unit.md) — related
 - [Prior cross-sectional between-group research on the platform found a positive usage–test-score relationship but could not rule out unobserved confounding](prior-cross-sectional-platform-usage-achievement-link.md) — related
 - [Early warning and proactive support agents are associated with reported retention and grade improvements in institutional deployments](early-warning-agents-retention-gains.md) — reports the opposite
+- [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — related

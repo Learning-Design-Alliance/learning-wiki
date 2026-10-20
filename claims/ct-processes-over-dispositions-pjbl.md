@@ -51,3 +51,4 @@ Qualitative coding of the 28 included studies' definitions and instruments; the 
 - [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — related
 - [Instructional designers define dispositions in varied and divergent ways, with several conflating them with soft skills](ids-varied-definitions-of-dispositions.md) — related
 - [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related
+- [Prior knowledge and prior knowledge activation are often vaguely defined in the activation literature, with only 10 of 54 articles explicitly defining prior knowledge](prior-knowledge-definitions-vague-in-activation-research.md) — related

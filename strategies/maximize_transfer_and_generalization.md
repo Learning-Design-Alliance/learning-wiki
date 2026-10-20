@@ -87,6 +87,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - [Authentic Learning Tasks](authentic_learning_tasks.md) — grounding practice in realistic contexts increases the likelihood of application beyond the classroom
 - [Teach workplace problem solving through case studies and role plays with a structured procedure](workplace-problem-solving-role-plays.md)
 - [Context-prompt reflection assignments in which students elaborate on a concept, apply it to a novel problem, and receive AI feedback](ai-reflection-context-prompt-assignments.md)
+- [Foster mindful transfer by systematically saturating instruction with attention to transfer](saturate-instruction-with-attention-to-transfer.md)
 
 ## Examples
 - **Gick & Holyoak's radiation problem** — learners who first compared two analogous stories (the fortress and the general) were far more likely to solve Duncker's radiation problem than those given the stories without comparison prompts ([doi:10.1016/0010-0285(83)90003-0](https://doi.org/10.1016/0010-0285(83)90003-0))

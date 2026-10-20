@@ -48,3 +48,4 @@ Stage-wise comparison of Complementarity Index values for the two outcome groups
 - [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
 - [Overall therapist complementarity across the full therapeutic relationship does not differ significantly between successful and unsuccessful outcome groups](overall-therapist-complementarity-not-related-to-therapy-outcome.md) — reports the opposite
 - [The hypothesis that both teachers can refrain from complementarity when facing hostile student behavior could not be confirmed](refraining-from-complementarity-hypothesis-not-confirmed.md) — related
+- [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related

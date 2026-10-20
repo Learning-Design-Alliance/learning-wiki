@@ -48,6 +48,7 @@ The guide recommends design thinking as a human-centered, recursive framework fo
 - [Use iterative design with short feedback loops and multiple user-feedback methods during product development](iterative-design-short-feedback-loops.md)
 - [Integrate co-design and continuous feedback loops into AI evaluation processes](co-design-feedback-loops-ai-evaluation.md)
 - [Use the DOT Framework's Empathize and Test/Feedback stages as practical checklists, and build professional learning communities around shared prompting and critique practices](dot-empathize-test-checklist-plc-strategy.md)
+- [Distance from broad global solutions and design education around specific local needs, letting communities decide the purpose school serves](locally-negotiated-education-hunter-gatherer.md)
 
 ## Examples
 -

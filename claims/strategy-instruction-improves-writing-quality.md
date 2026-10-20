@@ -118,3 +118,4 @@ Open questions for future evidence entries include the durability of effects aft
 - [An analytical strategy training program embedded in a digital literacy course improved university students' performance on online search and evaluation tasks, though to varying extent.](analytical-strategy-training-improves-online-reading-performance.md) — related
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — related
 - [Low-prior-knowledge students struggle to deploy key self-regulatory processes during learning](low-prior-knowledge-students-struggle-self-regulation.md) — related
+- [General composing heuristics produced mixed results in studies of their effectiveness](general-heuristics-mixed-effectiveness-results.md) — related

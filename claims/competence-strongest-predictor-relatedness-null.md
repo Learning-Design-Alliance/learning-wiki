@@ -55,3 +55,4 @@ PLS-SEM structural model with the three psychological needs predicting objective
 - [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related
 - [Students with higher baseline relatedness satisfaction perceive less additional relatedness support from AI chatbot use](baseline-relatedness-diminishes-perceived-ai-relatedness.md) — related
 - [CHAT analysis identified three Type 2 secondary contradictions whose operation through psychological need frustration explained motivational decline despite growing competence](type2-contradictions-thwart-sdt-needs.md) — related
+- [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related

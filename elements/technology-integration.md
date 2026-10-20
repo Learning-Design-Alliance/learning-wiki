@@ -13,7 +13,7 @@ generated:
 # Technology Integration
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 86 claims (37 for, 42 mixed, 7 against) · 80 studies (20 associational, 16 qualitative, 12 review, 11 causal, 8 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 14 of 80 report an effect size · 83 claims rest on one study
+> **Evidence** · 88 claims (39 for, 42 mixed, 7 against) · 81 studies (20 associational, 16 qualitative, 12 review, 11 causal, 9 quant-synthesis, 8 design, 5 theoretical), `q1`–`q4` · 14 of 81 report an effect size · 85 claims rest on one study
 
 ## Description
 Technology integration is the element in which digital tools are used in direct service of learning goals, feedback, access, or collaboration.
@@ -111,6 +111,8 @@ Technology integration is the element in which digital tools are used in direct 
 - [All participants intended to continue integrating AI into teaching and to recommend the institute, and 70% had already begun implementing AI-enhanced tools or assignments](../claims/ubridge-implementation-intentions.md) [+W]
 - [Technology type did not significantly moderate effects on metacognitive outcomes, though generative-AI interventions showed a descriptively larger estimate](../claims/technology-type-did-not-moderate-metacognition-effects.md) [~W]
 - [Teachers' access to and professional use of technology improved considerably from 2001 to 2003, but did not translate into proportionate increases in technology-rich student assignments](../claims/teacher-access-use-rose-assignments-modest.md) [-W]
+- [Educational technology interventions show positive effects on constrained literacy skills in elementary school](../claims/edtech-positive-effects-constrained-skills.md) [+W]
+- [Educational technology interventions show positive effects on unconstrained literacy skills in elementary school](../claims/edtech-positive-effects-unconstrained-skills.md) [+W]
 
 ## The evidence by question
 - *Does building AI tools into instruction raise achievement over teaching the same content without them, and in which settings?* [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](../claims/ai-instruction-stem-moderate-positive-effect.md) [+M]

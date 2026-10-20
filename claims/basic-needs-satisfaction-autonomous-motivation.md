@@ -51,3 +51,6 @@ Meta-analysis reported in the self-determination theory section "confirmed that 
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](autonomous-vs-controlled-motivation-achievement.md) — related
 - [School-side support (teacher, instructional, and institutional provision) is associated with learners' motivation, engagement, and need satisfaction](school-side-support-genai-engagement.md) — related
 - [Positive teacher-student relationships fulfill relatedness needs and support internalization of learning](relatedness-care-support-internalization.md) — a narrower finding that bears on this claim
+- [Competence need satisfaction is the strongest psychological-need predictor of students' self-determined motivation types](competence-strongest-need-predictor-student-motivation.md) — related
+- [Teacher autonomy support predicts students' need satisfaction and self-determined motivation more strongly than parental autonomy support](teacher-autonomy-support-stronger-than-parental.md) — related
+- [Need satisfaction and autonomy support did not predict external regulation, and introjected associations did not hold in the full model](needs-autonomy-support-not-predict-external-regulation.md) — related

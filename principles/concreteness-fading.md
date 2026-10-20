@@ -183,6 +183,7 @@ The expectation should weaken if direct comparisons with comparable learners and
 - [Seven-Lesson Kindergarten Equal Sign Sequence](../designs/kindergarten-balance-scale-equal-sign-lesson-sequence.md) — a design using balances and cubes for equations.
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — the learner variable that decides where to start.
 - [DragonBox Algebra 5+ App](../strategies/dragonbox-algebra-5-app.md)
+- [Five key representations for introductory statistics: verbal descriptions, visualizations, word equations, GLM notation, and R code](../designs/statistics-five-key-representations.md)
 
 ## Key Sources
 - Fyfe, E. R., McNeil, N. M., Son, J. Y., & Goldstone, R. L. (2014). Concreteness fading in mathematics and science instruction: A systematic review. *Educational Psychology Review, 26*(1), 9–25. [doi:10.1007/s10648-014-9249-3](https://doi.org/10.1007/s10648-014-9249-3)

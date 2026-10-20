@@ -45,3 +45,4 @@ Narrative review of task complexity conceptual frameworks, summarised in Table 1
 ## Related Claims
 - [Instructional method and prior knowledge interact on conceptual understanding of statistics (expertise reversal effect)](expertise-reversal-conceptual-understanding-statistics.md) — related
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
+- [Prior knowledge and prior knowledge activation are often vaguely defined in the activation literature, with only 10 of 54 articles explicitly defining prior knowledge](prior-knowledge-definitions-vague-in-activation-research.md) — related

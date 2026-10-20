@@ -36258,5 +36258,73 @@
  "worked-examples\tstudy worked-out solutions\tsolve equivalent problems": {
   "label": "study worked examples vs solve equivalent problems",
   "treatment_is_a": true
+ },
+ "active-learning\tOpen-ended prompts answered through whole-class, group, or paired discussion\tOther study conditions": {
+  "label": "active learning vs other study conditions",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomous home upbringing with child choice\tobedient, hierarchical, regimented school": {
+  "label": "autonomous/noncoercive learning vs controlling/regimented schooling",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tautonomy support with psychological needs as mediators\tno autonomy-support pathway": {
+  "label": "autonomy-support pathway with psychological-needs mediation vs no autonomy-support pathway",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tchildren’s autonomy and choice over school participation\tschool-imposed obedience and regimented routines": {
+  "label": "child autonomy and choice in participation vs school-imposed obedience and regimentation",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thierarchical, regimented school conditions\tautonomous, noncoercive home learning": {
+  "label": "autonomous/noncoercive learning vs controlling/regimented schooling",
+  "treatment_is_a": false
+ },
+ "autonomy-support\thigher parental autonomy support\tlower parental autonomy support": {
+  "label": "higher parental autonomy support vs lower parental autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\thigher teacher autonomy support\tlower teacher autonomy support": {
+  "label": "higher teacher autonomy support vs lower teacher autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tparents respecting children’s decisions about school attendance\tparents being pressured to force children to attend": {
+  "label": "parental respect for children's school-attendance decisions vs pressured parental enforcement",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tparticipation in formal schooling\tautonomous learning through play, pitching in, and community activities": {
+  "label": "autonomous learning through play, participation, and community activities vs formal schooling",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tschool’s hierarchical, controlling and regimented routines\tautonomous, noncoercive home and community learning": {
+  "label": "autonomous/noncoercive learning vs controlling/regimented schooling",
+  "treatment_is_a": false
+ },
+ "autonomy-support\tteacher autonomy support\tlower teacher autonomy support": {
+  "label": "higher teacher autonomy support vs lower teacher autonomy support",
+  "treatment_is_a": true
+ },
+ "autonomy-support\tteacher autonomy support\tparental autonomy support": {
+  "label": "teacher autonomy support vs parental autonomy support",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tformal school learning and school-based skills\tlearning traditional skills and knowledge through subsistence, domestic, cultural activities, play, and stories": {
+  "label": "explicit instruction vs informal learning",
+  "treatment_is_a": true
+ },
+ "prompts\tKWL chart used individually or collaboratively\tcomparison condition": {
+  "label": "KWL chart prompts vs no KWL chart",
+  "treatment_is_a": true
+ },
+ "prompts\topen-ended prompts\tcomparison condition": {
+  "label": "open-ended prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "prompts\topen-ended prompts\tcontrol condition": {
+  "label": "open-ended prompts vs no prompts",
+  "treatment_is_a": true
+ },
+ "scaffolding\tduring-reading scaffolds added to activation\ttechniques without added during-reading scaffolds": {
+  "label": "during-reading scaffolds vs no added during-reading scaffolds",
+  "treatment_is_a": true
  }
 }

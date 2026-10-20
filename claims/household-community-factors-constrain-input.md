@@ -49,3 +49,4 @@ The review argues, citing prior work, that scarcity captures mental resources, t
 - [Family stress and family investment models explain mediating processes of SES influence](ses-family-stress-investment-mediation.md) — a broader claim this one bears on
 - [Poverty predicts children's cortisol and executive function, partially mediated by parental sensitive caregiving](poverty-cortisol-executive-function-mediation.md) — a narrower finding that bears on this claim
 - [Parenting quality and life stress fully mediate the relationship between SES and children's hippocampal volume](stress-parenting-mediate-ses-hippocampal-volume.md) — related
+- [The direct and indirect costs of schooling are often too high for hunter-gatherer families, constituting an economic barrier to attendance](economic-barriers-hunter-gatherer-schooling.md) — related

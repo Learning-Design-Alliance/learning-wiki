@@ -57,3 +57,4 @@ Bivariate correlation analysis in the Results section (tertiary GPA, N = 143). T
 - Stimulus change can selectively reinforce behaviors that produce change and elicit exploratory behavior — related
 - [No significant impact of frustration or boredom (or anxiousness, discouragement, distractedness) on practice performance was found](frustration-boredom-no-significant-impact.md) — related
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related
+- [Standardized test batteries are poor predictors of counselor trainee success](standardized-tests-poor-predictors-trainee-success.md) — related
