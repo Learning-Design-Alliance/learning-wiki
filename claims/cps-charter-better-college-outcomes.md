@@ -77,3 +77,4 @@ Chapter 5 college persistence analysis of the 2008-10 cohorts among high school 
 - [Selective enrollment students from low-income neighborhoods are less likely to attend selective colleges than similarly-performing low-income students who do not enroll](sehs-low-income-selective-college-enrollment.md) — related
 - Attending a high school with higher social-emotional value-added increases students' likelihood of graduating and enrolling in a four-year college — related
 - [Early College high school students are significantly more likely than comparison students to graduate from high school, enroll in college, and complete college](early-college-attainment-gains.md) — related
+- [Chicago multi-grade charter high schools appear to increase the probability of graduating high school](chicago-multigrade-charter-high-schools-graduation-gains.md) — related

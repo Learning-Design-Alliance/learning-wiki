@@ -43,4 +43,5 @@ Same multiple regression in the 128-participant online study predicting AUROC2 o
 
 
 ## Related Claims
--
+- [Higher (worse) prospective discrepancy scores predict higher metacognitive sensitivity on a memory task](prospective-discrepancy-predicts-metacognitive-sensitivity.md) — related
+- [Eliciting confidence ratings leads to poorer metacognitive monitoring in older adults](cr-poorer-metacognitive-monitoring-miscalibration.md) — related

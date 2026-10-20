@@ -46,3 +46,5 @@ A randomized experiment with N = 83 student teachers assigned to reading (n = 25
 - [Reading provided examples is not more effective than generating examples for learning relational categories](reading-not-superior-to-generating-examples.md) — related
 - [Correctness of generated and classified examples during learning correlates selectively with posttest task performance](example-correctness-correlations-posttest.md) — related
 - [Generating examples produces overconfident judgments of learning, especially for principles and procedures](example-generation-overconfidence-judgment-bias.md) — related
+- [Interleaving is especially useful for inductive, subtle pattern learning without a clear verbal rule, but can equal or exceed blocking in rule-based domains too](interleaving-rule-based-learning-boundary.md) — a broader claim this one bears on
+- [Learning relational categories becomes more difficult as the complexity of the knowledge type increases](knowledge-type-complexity-learning-difficulty.md) — related

@@ -52,3 +52,5 @@ Headline finding of the implementation analysis of grantee activities from Decem
 - [Limited school staff time is a crucial obstacle impeding cross-sector collaboration](limited-staff-time-obstacle-collaboration.md) — related
 - [Teachers across sectors are receptive to collaboration on average, but the proportion of teachers involved in grant activities has been limited](teachers-receptive-but-involvement-limited.md) — related
 - [Structural Fragmentation of HRM Functions Impedes Strategic Coordination in School Districts](hrm-structural-fragmentation-impedes-coordination.md) — related
+- [Teacher-level cross-sector collaboration remained low across grantee sites, in part because many collaborative activities targeted school leaders rather than teachers](teacher-level-collaboration-remained-low-activities-targeted-leaders.md) — related
+- [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related

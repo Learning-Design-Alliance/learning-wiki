@@ -47,3 +47,4 @@ In the randomized experiment, the null contrast between implicit learners and ot
 - [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — reports the opposite
 - [High-explicitness rule-oriented instruction outperforms implicit instruction or no instruction](rule-oriented-explicit-outperforms-implicit.md) — reports the opposite
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](explicit-instruction-context-dependent-synthesis.md) — related
+- [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — related

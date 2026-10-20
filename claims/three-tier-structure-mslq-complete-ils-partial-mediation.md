@@ -62,4 +62,4 @@ Loyens, S. M. M., Rikers, R. M. J. P., & Schmidt, H. G. (2008). Relationships be
 
 
 ## Related Claims
--
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — related

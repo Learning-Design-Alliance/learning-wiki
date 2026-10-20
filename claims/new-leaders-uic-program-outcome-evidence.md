@@ -70,3 +70,5 @@ The report's profile of the University of Illinois at Chicago's Ed.D. in Urban E
 - [NLNS and UIC elementary schools rated more positively than non-program principal schools on several measures](nlns-uic-elementary-rated-positively.md) — related
 - [NISL-trained principals' schools outperformed comparable non-NISL schools in student achievement over a 4-year period](nisl-principals-student-achievement-gains.md) — related
 - [Targeted recruitment of teacher leaders is associated with candidates more likely to become and remain principals](targeted-principal-candidate-recruitment-outcomes.md) — related
+- [Students in New Leaders-led Oakland schools show greater ELA achievement growth than other OUSD students (effect size 0.06)](new-leaders-oakland-ela-growth-es-006.md) — related
+- [Students in New Leaders-led Oakland schools show greater math achievement growth than other OUSD students (effect size 0.16)](new-leaders-oakland-math-growth-es-016.md) — related

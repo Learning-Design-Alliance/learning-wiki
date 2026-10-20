@@ -277,3 +277,5 @@ Open questions that evidence entries should address include: how retrieval pract
 - [Active control over the learning experience enhances recognition memory from age 7 into adulthood](active-control-enhances-memory-development.md) — related
 - [Retrieval practice conditions produced significantly higher cognitive load than rereading](retrieval-practice-increases-cognitive-load.md) — related
 - [Retrieval practice produces better retention than restudying, with meta-analytic reviews reporting people 2.5 times as likely to remember tested information and medium-to-large classroom effects](retrieval-practice-beats-restudying.md) — related
+- [Retrieval practice enhances learning across domains and the lifespan in applied educational settings](retrieval-practice-enhances-learning-applied-settings.md) — a broader claim this one bears on
+- [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](targeted-retrieval-improves-targeted-information-retention.md) — a narrower finding that bears on this claim

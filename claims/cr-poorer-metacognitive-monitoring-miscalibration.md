@@ -51,3 +51,5 @@ Follow-up regression with retrospective appraisal as criterion showed Overall Ac
 - [Young and older adults make accurate retrospective confidence judgments but not prospective ease-of-selection judgments about their arithmetic strategy selections](retrospective-not-prospective-accuracy-strategy-selection.md) — related
 - [Low-confidence judgments on one problem predict better strategy selection on the immediately following problem, equally in young and older adults](low-confidence-regulates-next-item-strategy-selection.md) — related
 - [Retrospective metacognitive accuracy for strategy selection is higher in the selection-only task than the selection-execution task and on homogeneous than heterogeneous unit-digit problems](task-and-problem-effects-rcj-accuracy.md) — related
+- [Higher (worse) prospective discrepancy scores predict higher metacognitive sensitivity on a memory task](prospective-discrepancy-predicts-metacognitive-sensitivity.md) — related
+- [Lower (better) retrospective discrepancy scores predict higher metacognitive sensitivity on a memory task](retrospective-discrepancy-predicts-metacognitive-sensitivity.md) — related

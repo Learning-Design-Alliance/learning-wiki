@@ -55,3 +55,4 @@ Longitudinal study fitting growth models on four years of SEL data from students
 - [8th grade growth mindset and academic behavior self-reports positively predicted 9th grade on-track status; performance avoidance did not](mindset-behavior-predict-on-track-performance-avoidance-does-not.md) — related
 - [Predicted probability of 9th grade on-track status varied substantially across the growth-mindset and academic-behavior scales](predicted-on-track-probability-varies-with-mindset-behavior-scores.md) — related
 - [Academic self-regulation in 8th grade robustly predicts both GPA and school adjustment in 9th grade](asr-predicts-gpa-and-school-adjustment.md) — related
+- [Growth in self-management predicts 9th-grade off-track status above and beyond 6th-grade status on that construct](self-management-growth-predictive-beyond-status.md) — related

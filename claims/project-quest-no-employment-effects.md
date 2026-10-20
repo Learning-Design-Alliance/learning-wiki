@@ -66,3 +66,4 @@ Table 4 row from the Elliott & Roder (2017) RCT: intervention 66.60% versus comp
 - [Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings](project-quest-no-earnings-effects.md) — related
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
 - [Career coaching participants showed increased employment rates and earnings after participating in coaching activities](coaching-associated-employment-earnings-gains.md) — related
+- [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related

@@ -76,3 +76,4 @@ Key findings statement from the policy brief comparing MCAS and PARCC as predict
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](first-study-parcc-college-readiness-massachusetts-decision.md) — related
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](parcc-mcas-similar-validity-college-grades.md) — related
 - [In math, the PARCC college-ready standard predicts higher college performance than the MCAS proficient standard, while in ELA the standards are similar](parcc-college-ready-standard-higher-math-college-performance.md) — related
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related

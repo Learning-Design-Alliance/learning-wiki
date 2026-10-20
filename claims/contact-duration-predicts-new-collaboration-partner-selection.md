@@ -46,3 +46,4 @@ Meta-analysis across 12 workshops of RSiena stochastic actor-oriented models on 
 
 - [Researchers disagree substantially in their recall of previous collaborations with workshop peers](low-recall-agreement-of-previous-collaborations.md)
 - [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md)
+- [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md) — related

@@ -68,3 +68,4 @@ Comparative analysis of nearly a quarter century of NAEP data (early 1990s to 20
 - [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — related
 - [The DC reform analysis used advanced statistical methods to account for pre-reform differences between DC and other areas and general trends afterward](dc-reform-analysis-statistical-controls.md) — related
 - [Reformed elementary schools made significant test-score improvements versus matched comparison schools, with gains growing gradually over four years](chicago-turnaround-elementary-test-score-gains-gradual.md) — related
+- [The DC reforms were associated with grade 8 math gains, especially for cohorts with more exposure, but not grade 8 reading gains](dc-reform-gains-grade-8-math-not-reading-brief.md) — related

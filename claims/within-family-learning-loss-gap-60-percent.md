@@ -43,4 +43,4 @@ Robustness analysis addressing loss to follow-up using fixed-effects models comp
 
 
 ## Related Claims
--
+- [Children from low-SES families were more negatively affected by COVID-19 school closures than children from high-SES families](covid-closures-low-ses-students-more-affected.md) — possibly the same claim (merge candidate)

@@ -43,4 +43,4 @@ SEM path analysis across both the ILS and MSLQ models (N = 98); Table 3 and Tabl
 
 
 ## Related Claims
--
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — reports the opposite

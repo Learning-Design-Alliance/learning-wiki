@@ -63,3 +63,4 @@ The Fein & Hamadyk (2018) RCT contributed the short-term earnings outcome analyz
 - [Year Up may result in little to no change in short-term employment](year-up-no-effect-short-term-employment.md) — related
 - [Project QUEST shows no discernible effects on short-term, medium-term, and long-term earnings](project-quest-no-earnings-effects.md) — related
 - [I-BEST has potentially positive effects on short-term earnings, with mixed results across states (average improvement index 0)](ibest-mixed-short-term-earnings.md) — related
+- [Year Up may result in little to no change in medium-term employment](year-up-no-effect-medium-term-employment.md) — related

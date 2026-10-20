@@ -41,4 +41,6 @@ Meta-analysis of 13 studies (14 pairwise comparisons) of acute exercise effects 
 
 
 ## Related Claims
--
+- [Acute exercise significantly improves inhibitory control in children and adolescents with a small effect size (SMD = −0.25)](acute-exercise-improves-inhibitory-control-children.md) — related
+- [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — a broader claim this one bears on

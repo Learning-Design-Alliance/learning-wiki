@@ -45,3 +45,4 @@ Qualitative thematic analysis of think-aloud recordings during feedback provisio
 ## Related Claims
 - [During peer-feedback provision, students deal with errors in one of two patterns: quick discovery (identification simultaneous with decoding, often without evaluation) or elaborate discovery (identification resulting from an interpreting/evaluating phase)](two-patterns-error-discovery-feedback-provision.md) — related
 - [Students focused more on errors than on pluses both when providing and when processing peer-feedback](students-focus-more-on-errors-than-pluses.md) — related
+- [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](generic-provision-support-also-boosts-knowledge.md) — related

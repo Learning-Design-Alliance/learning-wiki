@@ -43,4 +43,7 @@ The article cites the Vogel et al. (2016) meta-analysis as evidence; no pooled e
 
 
 ## Related Claims
--
+- [Learning with CSCL scripts yields a large positive effect on collaboration skills compared to unstructured CSCL](cscl-scripts-large-effect-collaboration-skills.md) — a narrower finding that bears on this claim
+- [CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning](cscl-scripts-medium-positive-collaboration-skills-effect.md) — a narrower finding that bears on this claim
+- [CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning](cscl-scripts-motivation-non-significant-meta-analysis.md) — related
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — a narrower finding that bears on this claim

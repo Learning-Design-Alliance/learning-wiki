@@ -55,3 +55,4 @@ The article's abstract states the premise of the study: that in computer-based t
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [A method for identifying partial test-taking engagement is validated, with effort-moderated scores to be interpreted cautiously when partial engagement is indicated](partial-engagement-method-effort-moderated-scores-caution.md) — related
 - [Rapid guessing is a validated indicator of disengaged item responding](rapid-guessing-validated-disengagement-indicator.md) — possibly the same claim (merge candidate)
+- [Computer-based test advantages can be used to manage the effects of disengagement as a construct-irrelevant factor](cbt-manages-disengagement-construct-irrelevance.md) — related

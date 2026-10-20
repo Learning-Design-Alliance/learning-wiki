@@ -70,3 +70,4 @@ Within-group pre-post comparison on the MAT for the 49 experimental students: pr
 - Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness — related
 - [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
 - [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — a broader claim this one bears on
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related

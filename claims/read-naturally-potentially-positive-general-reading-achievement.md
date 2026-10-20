@@ -49,3 +49,4 @@ WWC synthesis of two studies (one RCT without reservations, one quasi-experiment
 - [Growth Mindset interventions have potentially positive effects on postsecondary academic achievement (improvement index +13)](growth-mindset-potentially-positive-academic-achievement-postsecondary.md) — related
 - [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related
 - [Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) — related
+- [Read Naturally® shows no discernible effects on alphabetics for beginning readers](read-naturally-no-discernible-effects-alphabetics.md) — related

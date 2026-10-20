@@ -48,3 +48,5 @@ WWC synthesis of the two RCTs on fluency outcomes (Oral Reading Fluency test in 
 - [SpellRead™ has positive effects on alphabetics for struggling beginning readers, with an average improvement index of +18 percentile points](spellread-positive-effects-alphabetics.md) — related
 - [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — a narrower finding that bears on this claim
 - [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — a narrower finding that bears on this claim
+- [Reading Recovery has potentially positive effects on alphabetics for beginning readers](reading-recovery-potentially-positive-alphabetics.md) — related
+- [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](spellread-potentially-positive-comprehension.md) — related

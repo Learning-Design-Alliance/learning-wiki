@@ -62,4 +62,7 @@ Meta-regression moderator analysis for collaboration skills in the same meta-ana
 
 
 ## Related Claims
--
+- [CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning](cscl-scripts-motivation-non-significant-meta-analysis.md) — related
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — related
+- [The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills](script-level-moderator-not-significant.md) — related
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills](transactivity-moderator-not-significant.md) — related

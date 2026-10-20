@@ -90,3 +90,4 @@ The chapter reports Chan (2009), where randomizing sentence order disrupted rela
 - [Struggling to encode, retrieve, and reorganize information produces deeper comprehension and retention, and AI-supplied ready-made solutions short-circuit these processes](ai-removing-struggle-short-circuits-desirable-difficulties.md) — related
 - [Pre-instruction testing enhances memory for directly tested text content relative to non-testing controls, at both immediate and one-week delayed posttests](pretesting-enhances-learning.md) — related
 - [Cued-recall testing can impair later memory for competitive, related but non-practiced information (retrieval-induced forgetting)](retrieval-induced-forgetting-cued-recall.md) — related
+- [Targeted retrieval via specific short-answer tasks improves retention of directly targeted information more than holistic retrieval via free-recall tasks](targeted-retrieval-improves-targeted-information-retention.md) — related

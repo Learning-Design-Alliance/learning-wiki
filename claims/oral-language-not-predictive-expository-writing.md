@@ -54,3 +54,5 @@ Structural equation model for expository writing quality in the same longitudina
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
 - [Kindergarten treatment status was negatively related to third-grade expository writing quality](treatment-status-negatively-related-expository-quality.md) — reports the opposite
 - [Reading comprehension measured with open questions uniquely predicts integration while cloze-measured comprehension does not](open-questions-comprehension-unique-predictor-integration.md) — related
+- [Kindergarten attention is not uniquely predictive of third-grade writing quality in either genre](kindergarten-attention-not-predictive-grade3-writing.md) — related
+- [Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality](letter-writing-automaticity-not-predictive-grade3-writing.md) — a broader claim this one bears on

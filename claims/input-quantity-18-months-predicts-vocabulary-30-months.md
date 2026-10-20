@@ -45,3 +45,4 @@ Longitudinal regression analysis of 50 dyads predicting PPVT at 30 months. "When
 ## Related Claims
 - [Maternal talk quantity at 18 months predicts Spanish-learning children's vocabulary size and vocabulary gains at 24 months, controlling for earlier vocabulary](maternal-input-quantity-predicts-vocabulary-gains-spanish-learners.md) — related
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — a broader claim this one bears on
+- [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) — related

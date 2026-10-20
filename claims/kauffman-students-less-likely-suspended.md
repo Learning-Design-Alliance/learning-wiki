@@ -46,3 +46,5 @@ Behavioral finding from the Mathematica evaluation of the school's first nine ye
 - [Kauffman students had higher attendance rates and were less likely to be suspended than similar Kansas City students](kauffman-students-higher-attendance-lower-suspension.md) — a broader claim this one bears on
 - [The Kauffman School suspends students at a substantially higher rate than other schools in Kansas City](kauffman-suspension-rate-substantially-higher.md) — reports the opposite
 - [Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year](kauffman-suspension-days-small-versus-extended-time.md) — related
+- [Kauffman students had higher attendance rates than other similar students in Kansas City](kauffman-students-higher-attendance-rates.md) — related
+- [In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension](kauffman-school-2021-22-suspensions-12-points-higher.md) — reports the opposite

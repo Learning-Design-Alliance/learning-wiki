@@ -45,3 +45,4 @@ Kruskal-Wallis tests of digital event frequencies across four exam-performance q
 ## Related Claims
 
 - [Frequency of correct quiz submissions differs across performance quartiles, with high performers submitting correct answers most often](correct-submissions-differ-across-quartiles.md)
+- [Exam scores correlate positively with correct submissions and negatively with incorrect submissions and solution access](trace-frequencies-correlate-with-exam-scores.md) — related

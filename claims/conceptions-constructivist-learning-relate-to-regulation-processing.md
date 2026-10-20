@@ -45,3 +45,8 @@ Structural equation modelling with 98 third- and fourth-year psychology students
 ## Related Claims
 
 - [Conceptions of motivation to learn relate positively to self-regulation and external regulation and negatively to lack of regulation](motivation-to-learn-relates-to-regulation-strategies.md)
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation](loyens-conceptions-relate-strategies.md) — possibly the same claim (merge candidate)
+- [Students who doubt their own learning capacity are at risk of adopting an inadequate lack-of-regulation strategy](self-perceived-inability-predicts-lack-of-regulation.md) — a narrower finding that bears on this claim
+- [Conceptions of knowledge construction showed no significant relationships with students' reported regulation strategies](knowledge-construction-conceptions-no-regulation-relationships.md) — reports the opposite
+- [A three-tiered conceptual-controlling-operational structure is fully valid for MSLQ variables but only partially for ILS variables](three-tier-structure-mslq-complete-ils-partial-mediation.md) — related
+- [Conceptions of self-regulated learning had small, non-significant relationships with actual reported self-regulation activities](srl-conceptions-nonsignificant-with-reported-srl.md) — related

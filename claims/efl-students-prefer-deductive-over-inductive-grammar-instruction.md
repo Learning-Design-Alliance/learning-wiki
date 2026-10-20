@@ -48,3 +48,5 @@ Descriptive survey results from 927 students grouped by year of study. The artic
 - [Majorities of students believed inductive instruction more effective for simple structures and, conversely, for difficult structures](student-beliefs-inductive-effectiveness-structure-complexity.md) — related
 - [All student groups preferred explicit over implicit grammar instruction](efl-students-prefer-explicit-over-implicit-grammar-instruction.md) — related
 - [Focus on form was the least preferred method of grammar instruction regardless of year of study](fonf-least-preferred-grammar-instruction.md) — related
+- [Preferred instruction type shifted by year: Prep School, freshman and sophomore students preferred implicit instruction while junior and senior students preferred meaning-focused instruction](year-of-study-shifts-preferred-grammar-instruction.md) — related
+- [Explicit grammar teaching outperforms implicit teaching; one review found the advantage only for complex rules, but a meta-analysis found it for simple rules too](explicit-teaching-complex-rules-only-advantage.md) — related

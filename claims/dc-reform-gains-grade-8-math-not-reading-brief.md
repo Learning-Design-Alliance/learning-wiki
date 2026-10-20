@@ -65,3 +65,6 @@ The same NAEP comparative analysis reports no analogous gains for grade 8 readin
 - [The DC school reforms were associated with learning gains in grade 8 math but not in grade 8 reading](dc-reforms-grade8-math-gains-not-reading.md) — possibly the same claim (merge candidate)
 - [The 2007 DC school reforms improved student learning in math, per testimony based on NAEP data from the early 1990s to 2017](dc-reforms-improved-math-achievement.md) — related
 - [Impacts of the DC reforms on NAEP math scores were largest for Black students](dc-reforms-naep-math-impacts-largest-black-students.md) — related
+- [The DC school reforms were associated with larger than expected improvements in grade 4 math and reading scores on the National Assessment of Educational Progress](dc-reforms-larger-expected-grade4-math-reading-naep-gains.md) — related
+- [Student outcome improvements from LCFF funding were more pronounced for cohorts exposed to funding increases for more of their school-age years](lcff-dosage-cohort-exposure-effect.md) — related
+- [The 2007 DC school reforms improved student learning in reading, per testimony based on NAEP data through 2017](dc-reforms-improved-reading-achievement.md) — related

@@ -44,3 +44,7 @@ Appendix C of the guide reports "domain-level effect sizes across the 34 studies
 
 ## Related Claims
 - [Practice making sense of stretch text has moderate evidence, based on 15 studies](moderate-evidence-stretch-text-practice-grades-4-9.md) — related
+- [In the Rashotte, MacPhee, and Torgesen (2001) RCT, SpellRead™ produced statistically significant positive effects on alphabetics and reading fluency for fifth- and sixth-grade struggling readers after eight weeks](rashotte-2001-spellread-significant-gains.md) — related
+- [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — related
+- [Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) — related
+- [A WWC practice guide rests its recommendation to teach academic vocabulary intensively across several days on six studies meeting WWC standards (five RCTs, one quasi-experiment)](academic-vocabulary-intensive-instruction-strong-evidence.md) — related

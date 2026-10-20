@@ -49,3 +49,5 @@ HLM analysis of 467 preschoolers nested in 84 classrooms regressed each academic
 ## Related Claims
 - [Aggression is not a unique predictor of preschool academic development once attention problems and social skills are controlled](aggression-not-unique-predictor-preschool-academics.md) — related
 - [Preschoolers' social skills are related to preliteracy, language, and mathematics development controlling for attention and aggression problems](social-skills-independently-predict-emergent-academics.md) — related
+- [Teacher-rated behavioral inattention was not uniquely predictive of any grade 1 math outcome despite significant zero-order correlations](behavioral-inattention-not-unique-predictor.md) — related
+- [Among kindergartners with low number sense, attention problems and executive functioning each uniquely predict first-grade mathematics outcomes](ef-attention-unique-predictors-first-grade-math-low-number-sense.md) — related

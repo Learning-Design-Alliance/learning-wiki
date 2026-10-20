@@ -52,3 +52,5 @@ Narrative review synthesis of narrative and meta-analytic reviews of acute exerc
 - [Acute cardio exercise improves executive functions, response time, and academic performance in children with ADHD](acute-cardio-exercise-improves-executive-function-adhd-children.md) — a narrower finding that bears on this claim
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
 - [A 10-minute bout of moderate-intensity exercise improves Stroop inhibitory control with increased left dorsolateral prefrontal activation in young adults](moderate-exercise-stroop-dlpfc-activation.md) — a narrower finding that bears on this claim
+- [Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)](acute-exercise-improves-cognitive-flexibility-children.md) — a narrower finding that bears on this claim
+- [Acute exercise significantly improves inhibitory control in children and adolescents with a small effect size (SMD = −0.25)](acute-exercise-improves-inhibitory-control-children.md) — a narrower finding that bears on this claim

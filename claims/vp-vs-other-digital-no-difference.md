@@ -49,3 +49,5 @@ Narrative synthesis of the few trials comparing virtual patients with other digi
 - [Virtual patient blended learning shows a moderate but non-significant pooled skills effect versus traditional education alone (SMD=0.60, CI crossing zero)](vp-blended-skills-mixed.md) — related
 - [Video review enhances practical skill performance in both modalities and eliminates the hands-on versus virtual simulation difference](video-review-eliminates-modality-performance-gap.md) — related
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
+- [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
+- [Virtual patients more effectively improve skills than traditional education (pooled SMD=0.90)](vp-traditional-skills-advantage.md) — related

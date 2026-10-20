@@ -50,3 +50,4 @@ In the Efficient first control condition, "52 (81%) children switched from the e
 - [Most 3–5-year-old children who first learned an inefficient puzzlebox method switched to a witnessed, more efficient alternative](children-switch-inefficient-to-efficient-puzzlebox.md) — related
 - [Children switched to the efficient method more often than chimpanzees on the same puzzlebox task](children-switch-more-than-chimpanzees-serialbox.md) — related
 - [Children who observed the efficient method first switched earlier than children observing the inefficient method first](efficient-first-children-switch-earlier.md) — related
+- [Younger children performed more redundant actions than older children](younger-children-more-redundant-actions.md) — related

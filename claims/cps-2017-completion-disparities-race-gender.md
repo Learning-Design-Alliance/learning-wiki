@@ -51,3 +51,6 @@ Descriptive analysis of 14,807 immediate college enrollees from the CPS class of
 - [College completion among immediate enrollees in the CPS class of 2015 shows large race/ethnicity and gender gaps, with fewer than a third of Black and Latino young men completing a bachelor's degree](cps-college-completion-race-gender-gaps.md) — related
 - [Young women were more likely than young men to both immediately enroll in and persist through college, in both four-year and two-year colleges](gender-gap-enrollment-persistence-cps.md) — related
 - Black graduates are underrepresented among associate degree earners in 33 of 41 examined states, with only three states at parity for bachelor's degrees — related
+- [Attainment indices vary sharply by race/ethnicity and gender: Black young men face a projected PAI of 12.6 percent versus 62.0 percent for Asian/Pacific Islander young women](cps-2019-attainment-indices-race-gender-disparities.md) — related
+- [Bachelor's DAI varies sharply by race/ethnicity and gender: Black and Latino young men are projected at 10 and 13 percent versus a 19 percent district average](cps-dai-gaps-race-gender.md) — related
+- [Projected bachelor's degree attainment is far lower for Black and Latino young men (10 and 14 percent) than the CPS district average of 20 percent](cps-attainment-gaps-black-latino-young-men.md) — related

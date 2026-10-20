@@ -43,4 +43,4 @@ The article reports, citing Nelson, Benner, and Gonzalez (2003), a meta-analysis
 
 
 ## Related Claims
--
+- [In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes](ssl-nelson-benner-gonzalez-2005-significant-outcomes.md) — related

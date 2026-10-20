@@ -43,4 +43,4 @@ SEM path analysis (N = 98); the path from conceptions of self-regulated learning
 
 
 ## Related Claims
--
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md) — related

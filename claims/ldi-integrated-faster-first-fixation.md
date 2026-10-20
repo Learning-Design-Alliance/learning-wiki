@@ -47,3 +47,4 @@ Exploratory ANCOVA on time to first fixation during interpretation phases, contr
 - [Linkages between picture elements and interpretation statements are better recognized with an LDI integrated than an LDI separated audio structure](ldi-integrated-better-recognition-linkages.md) — related
 - [Audio explanations with an LDI integrated structure lead to longer fixation times on referred-to picture elements during interpretation phases than LDI separated structures](ldi-integrated-longer-fixations-interpretation.md) — related
 - [LDI structure does not significantly affect cued recall of picture details or of interpretations themselves](ldi-structure-no-effect-recall-details-interpretations.md) — related
+- [Split Attention Effect Degrades Learning](split-attention-effect-degrades-learning.md) — a broader claim this one bears on

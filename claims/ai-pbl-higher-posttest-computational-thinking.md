@@ -67,3 +67,4 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [Gender does not significantly moderate the effect of AI-supported PBL on computational thinking or academic achievement](gender-does-not-moderate-ai-pbl-effects.md) — related
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — related
 - [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](year-level-moderates-ct-instruction-effectiveness.md) — related
+- [In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance](unscaffolded-genai-lower-instructional-design-performance.md) — related

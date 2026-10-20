@@ -73,3 +73,4 @@ Large-scale analysis of math and reading test scores for over seven million K-8 
 - [A seasonal analysis of roughly 2 million students examines racial/ethnic disparities in learning from kindergarten through eighth grade](seasonal-analysis-2m-students-racial-ethnic-disparities-k-8.md) — related
 - [Seasonality affects estimates of school effectiveness](seasonality-affects-school-effectiveness-estimates.md) — related
 - [Fall-to-spring growth rates in high school grades, particularly in reading, are often close to zero and can be negative](high-school-fall-spring-growth-near-zero.md) — related
+- [The seasonal analysis of racial/ethnic disparities spans kindergarten through eighth grade](seasonal-disparities-analysis-span-kindergarten-eighth-grade.md) — related

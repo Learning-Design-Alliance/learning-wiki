@@ -48,3 +48,5 @@ The PCER Consortium (2008) randomized trial assessed oral language with the PPVT
 - [Bright Beginnings shows no discernible effects on preschool math (domain average effect size 0.07, not statistically significant)](bright-beginnings-null-math.md) — related
 - [Bright Beginnings shows a substantively important positive effect on the TERA-3 print knowledge measure (effect size 0.32) but no discernible effect on the print knowledge domain overall](bright-beginnings-print-knowledge-tera3-mixed.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
+- [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related

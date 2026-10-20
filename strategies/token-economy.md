@@ -81,7 +81,7 @@ Token economies reliably increase the frequency of targeted behaviors, especiall
 - [Check-Ins](../principles/check-ins.md) — regular reviews that keep token systems transparent and fair
 - [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 - [Praise and specific feedback](praise-specific-feedback.md) — the verbal counterpart that should gradually replace tokens
-- [Classroom routines and procedures](establishing-routines.md) — the behaviors token economies most often target
+- [Classroom routines and procedures](establishing-classroom-routines.md) — the behaviors token economies most often target
 
 ## Examples
 - **[Good Behavior Game](../products/good-behavior-game.md)** — a well-researched group contingency in which teams earn privileges by keeping disruptive behavior below a criterion; decades of classroom trials support it [~S]
@@ -151,7 +151,7 @@ Token economies reliably increase the frequency of explicitly targeted behaviors
 ## Related Strategies
 
 - [Praise and specific feedback](praise-specific-feedback.md) — the verbal counterpart that should gradually replace tokens
-- [Classroom routines and procedures](establishing-routines.md) — the behaviors token economies most often target
+- [Classroom routines and procedures](establishing-classroom-routines.md) — the behaviors token economies most often target
 - [Gamification](gamification.md) — a broader motivational design that borrows token mechanics (points, badges) but adds narrative and progress structures
 - [Use a themed token-reward system (moon rocks) to motivate on-task behavior during tutoring](themed-token-rewards-moon-rocks.md)
 

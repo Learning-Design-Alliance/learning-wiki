@@ -48,3 +48,6 @@ The page lists the associated journal article, titled "A seasonal analysis of ra
 - [Racial/ethnic disparities observed among older students are largely already in place among kindergartners](older-student-disparities-present-at-kindergarten.md) — related
 - [Black-White achievement gaps widen during school periods and shrink during summers among kindergarten through eighth-grade students](black-white-gaps-widen-school-shrink-summer.md) — a narrower finding that bears on this claim
 - [Asian students generally pull ahead of White students at a faster rate during summers than during school periods](asian-white-summer-growth-advantage.md) — a narrower finding that bears on this claim
+- [The study frames schooling as a candidate explanation for the development of racial and ethnic inequalities in academic skills](schooling-role-racial-ethnic-inequality-development.md) — related
+- [Assuming linear within-year achievement growth is often not justified, particularly in reading](linear-within-year-growth-assumption-unjustified-reading.md) — related
+- [Black–White achievement gaps widen during the school year in both rural and nonrural schools](black-white-gaps-widen-during-school-year-rural-and-nonrural.md) — related

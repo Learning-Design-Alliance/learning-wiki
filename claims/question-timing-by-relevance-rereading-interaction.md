@@ -47,3 +47,5 @@ Robust two-way mixed ANOVA with relevance of rereading as within-subjects variab
 - [Pre-reading relevance instructions did not change reading time on sentences targeted by the questions](no-reading-time-difference-targeted-sentences.md) — related
 - [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md)
 - [Post-reading-question students search significantly more text segments than inserted-question students, indicating less efficient search](post-reading-questions-inefficient-search.md)
+- [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](inserted-questions-longer-initial-reading.md) — related
+- [Post-reading-question students spend more time reading the questions for the first time than inserted-question students](post-reading-longer-task-model-formation.md) — related

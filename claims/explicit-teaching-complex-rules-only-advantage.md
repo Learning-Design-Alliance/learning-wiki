@@ -84,3 +84,5 @@ Spada and Tomita (2010), a meta-analysis of 41 studies, found larger effects for
 - [No differential effect of explicit instruction depending on the variable complexity](no-differential-explicit-instruction-effect-complexity.md) — reports the opposite
 - [Peer instruction is less effective than explicit teacher creativity teaching for lower-level students](peer-instruction-less-effective-low-achievers-creativity.md) — related
 - [Attention to form via structural analysis or via highlighting structures in context promotes interlanguage grammar acquisition, but only highlighting in context comes with comprehension of input](attention-to-form-rule-vs-highlighting-comprehension.md) — a narrower finding that bears on this claim
+- [All student groups preferred deductive over inductive grammar instruction](efl-students-prefer-deductive-over-inductive-grammar-instruction.md) — related
+- [No differential effect of explicit instruction depending on the variable morphology/syntax](no-differential-explicit-instruction-effect-morphology-syntax.md) — reports the opposite

@@ -69,3 +69,4 @@ Replication experiment (N = 103 university students, cognitive load theory conte
 - [Prompting metacognitive strategies before cognitive strategies improves strategy quality and conceptual knowledge](metacognitive-first-prompt-sequence.md) — related
 - [Without instructional support, learners show low cognitive strategy use and almost absent metacognitive strategies in journal writing, and realized strategy use correlates with learning outcomes](unsupported-journal-writing-low-strategy-use.md) — related
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — related
+- [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](short-term-journal-prompts-increase-cognitive-strategy-use.md) — a narrower finding that bears on this claim

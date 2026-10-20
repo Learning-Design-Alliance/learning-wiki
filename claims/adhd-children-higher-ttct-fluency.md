@@ -52,3 +52,4 @@ One-factor ANOVA comparing 34 ADHD children with 34 matched controls on TTCT-Fig
 - [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](adhd-children-higher-creativity-index.md) — related
 - [Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children](higher-adhd-traits-better-semantic-fluency.md) — related
 - [Music training effects on fluency are largely null, with one case-control study reporting improved verbal fluency](music-training-fluency-largely-null.md) — related
+- [ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure](adhd-no-difference-elaboration-abstractness-closure.md) — related

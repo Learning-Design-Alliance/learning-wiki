@@ -70,3 +70,4 @@ Completion-sample participants answered the 5-question NASA-TLX after each task.
 - [GenAI access reduces perceived difficulty of the assisted reasoning task](genai-reduces-perceived-task-difficulty.md) — related
 - [The AI+Robot condition is associated with lower perceived workload than AI-Only on effort, frustration, temporal demand, physical demand, and Raw TLX](ai-robot-condition-lower-workload.md) — a narrower finding that bears on this claim
 - [No differences were found on mental effort during instruction or on transfer across illusion-of-control and instruction-method conditions](no-mental-effort-differences.md) — related
+- [Proactive feedback produces significant post-intervention increases in Joint Mental Effort of dyads](propact-feedback-increases-jme-post-intervention.md) — related

@@ -46,3 +46,4 @@ Post hoc moderator tests in the group randomized trial found null interactions f
 
 - [SWPBIS reduces the rate of increase in teacher-reported bullying perpetration over elementary school](swpbis-reduces-growth-teacher-reported-bullying.md) — the general claim this finding bears on, with the studies behind it
 -
+- [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school](swpbis-reduces-growth-peer-rejection.md) — related

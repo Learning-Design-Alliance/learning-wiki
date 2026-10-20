@@ -49,3 +49,5 @@ WWC synthesis computing improvement indices (difference in percentile rank betwe
 
 - [Dialogic Reading Improves Language Outcomes](dialogic-reading-improves-language-outcomes.md) — the general claim this finding bears on, with the studies behind it
 -
+- [Dialogic Reading combined with Sound Foundations shows potentially positive effects on print knowledge and early reading/writing but not oral language](dialogic-reading-sound-foundations-combined-outcomes.md) — related
+- [Dialogic reading has potentially positive effects on communication and language competencies for children with disabilities](dialogic-reading-potentially-positive-communication-language-disabilities.md) — related

@@ -51,7 +51,6 @@ The study organizes chatbot design around a three-phase conceptualization of sel
 
 - [Four design insights for GAI chatbots supporting SRL: real-time personalization, warm language, platform integration, and course-content embedding](../strategies/four-design-insights-gai-chatbots-srl.md)
 - [Self Regulated Learning Instruction](../strategies/self-regulated-learning-instruction.md)
-- [Self Regulated Learning](../strategies/self-regulated-learning.md)
 - [Four-phase weekly cycle for AI-based noticing practice: video, chatbot interaction, reflection, mentor feedback](../designs/four-phase-weekly-ai-simulation-cycle.md)
 - [Use the SRL conceptual framework to guide future research on college student motivation and learning](../strategies/srl-framework-guides-future-research.md)
 

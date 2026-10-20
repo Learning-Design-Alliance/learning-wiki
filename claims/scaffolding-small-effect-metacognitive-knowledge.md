@@ -43,4 +43,4 @@ Planned comparison of the control group with the two scaffolding conditions on a
 
 
 ## Related Claims
--
+- [Problematizing scaffolds produced a small significant positive effect on individual metacognitive knowledge compared to structuring scaffolds](problematizing-scaffolds-metacognitive-knowledge.md) — related

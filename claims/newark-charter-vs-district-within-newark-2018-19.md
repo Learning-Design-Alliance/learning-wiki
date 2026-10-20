@@ -51,3 +51,4 @@ Within-Newark sector comparison of 2018-19 growth between charter schools and ot
 - [Newark CMO-affiliated charters outgrew the state average in both subjects, while independent charters did so only in math](newark-cmo-vs-independent-charter-growth.md) — related
 - Newark students overall made significantly above-state-average math growth in 2018-19, with non-significant reading growth — related
 - [District schools in the aggregate showed near-zero effects, significantly lower than charter schools in the same grades, but the district sample was small](pl-district-schools-near-zero-vs-charter.md)
+- [Fort Worth charter school students in poverty significantly outgrew district-school students in poverty in reading growth](fort-worth-poverty-students-charter-advantage-reading.md) — related

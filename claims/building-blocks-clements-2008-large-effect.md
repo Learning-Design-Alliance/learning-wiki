@@ -45,3 +45,4 @@ Cluster randomized controlled trial rated Meets WWC Group Design Standards Witho
 - [Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC](building-blocks-prek-positive-effects-math.md) — related
 - [Building Blocks has a potentially positive effect on preschool mathematics achievement, with a pooled effect size of 0.58 across three studies meeting WWC standards](building-blocks-potentially-positive-preschool-math-effect.md) — a broader claim this one bears on
 - Connect Science raises fourth-grade science achievement more than business-as-usual science instruction (effect size +0.36) — related
+- [In a 2006 randomized trial, Building Blocks for Math significantly outperformed business-as-usual on the Early Mathematics Assessment](building-blocks-2006-rct-significant-math-gain.md) — related

@@ -47,3 +47,4 @@ WWC synthesis of two studies meeting evidence standards and one meeting standard
 - [Lexia Reading shows no discernible effects on general reading achievement](lexia-reading-no-discernible-general-achievement.md) — related
 - [Lexia Reading has potentially positive effects on comprehension](lexia-reading-potentially-positive-comprehension.md) — related
 - [Sound Partners tutoring has positive effects on the alphabetics of beginning readers in grades K–3](sound-partners-positive-effects-alphabetics.md) — related
+- [Lexia Reading shows no discernible effects on reading fluency](lexia-reading-no-discernible-fluency.md) — related

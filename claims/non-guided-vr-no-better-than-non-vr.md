@@ -47,3 +47,4 @@ Post-hoc pairwise comparisons with Holm's sequential Bonferroni following the si
 - [Accommodator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](accommodators-gain-most-vr-guided-exploration.md) — related
 - [Assimilator learners gained significantly more in the VR (guided exploration) mode than in VR (non-guided exploration) or Non VR modes](assimilators-gain-most-vr-guided-exploration.md) — related
 - [In the VR (guided exploration) mode, assimilator and accommodator learners did not differ significantly in gain score](guided-vr-no-learning-style-difference.md) — related
+- [No significant interaction between learning mode and learning style on gain scores, while the learning-mode main effect was significant](no-mode-by-style-interaction-vr-gains.md) — related

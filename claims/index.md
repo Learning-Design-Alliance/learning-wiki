@@ -2,7 +2,7 @@
 
 Empirical claims with evidence ratings, sources, and competing views.
 
-**22556 entries** · 0 stable · 22556 in review · 0 drafts
+**22555 entries** · 0 stable · 22555 in review · 0 drafts
 
 ---
 
@@ -4629,7 +4629,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.](cscl-interanimate-quantitative-qualitative-methods.md) - CSCL needs to promote the inter-animation of complementary quantitative and qualitative perspectives rather than converge on a single ideal method.
 * [CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies](cscl-relations-matter-two-ways.md) - CSCL relations matter in two ways: interventions informed by empirical studies can support collaboration, and CSCL environments can foster key competencies
 * [CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning](cscl-scripts-medium-positive-collaboration-skills-effect.md) - CSCL scripts have a medium significant positive effect on collaboration skills compared to unstructured collaborative learning
-* [CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning](cscl-scripts-non-significant-positive-motivation-effect.md) - CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning
 * [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) - CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning
 * [CSCL should focus analytic attention on small-group interactions rather than individuals or society](small-group-unit-of-analysis-cscl.md) - CSCL should focus analytic attention on small-group interactions rather than individuals or society
 * [CSCL theory has contributed more to understanding collaboration and group cognition than to technology design and analytic methodology](cscl-theory-stronger-than-design-methodology.md) - CSCL theory has contributed more to understanding collaboration and group cognition than to technology design and analytic methodology

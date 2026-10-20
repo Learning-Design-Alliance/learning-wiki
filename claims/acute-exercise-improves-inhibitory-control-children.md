@@ -42,3 +42,5 @@ Meta-analysis of 23 studies of acute exercise effects on inhibitory control meas
 
 ## Related Claims
 - [Aerobic exercise improves executive functioning, most notably inhibitory control, in typically developing children, though evidence is tentative and one week-long study found no main effect](aerobic-exercise-improves-executive-function-children.md) — related
+- [Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)](acute-exercise-improves-cognitive-flexibility-children.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — a broader claim this one bears on

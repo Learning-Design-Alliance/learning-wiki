@@ -63,3 +63,4 @@ End-of-year-1 classroom observations in the Kim et al. (2011) randomized trial f
 
 ## Related Claims
 - [The Pathway to Academic Success Project has potentially positive effects on writing quality for English learners in grades 7-12](pathway-project-potentially-positive-writing-quality.md) — related
+- [The Pathway to Academic Success Project has potentially positive effects on writing conventions for English learners in grades 6-12](pathway-project-potentially-positive-writing-conventions.md) — related

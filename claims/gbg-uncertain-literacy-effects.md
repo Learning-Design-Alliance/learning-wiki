@@ -51,3 +51,5 @@ WWC synthesis of two studies (Humphrey et al., 2018, Hodder Group Reading Test, 
 - PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students — related
 - PAX Good Behavior Game classes achieved higher reading scores than matched control classes, with an effect size of +0.19 — related
 - PAX Good Behavior Game also shows positive effects on reading outcomes — related
+- [Good Behavior Game improves teacher practice related to student behavior, with a pooled effect size of 0.79 across two studies](gbg-improves-teacher-practice.md) — related
+- [Good Behavior Game improves student writing conventions and writing productivity in one single-case study](gbg-improves-writing-outcomes.md) — related

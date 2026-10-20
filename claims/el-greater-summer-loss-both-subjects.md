@@ -49,3 +49,5 @@ Seasonal decomposition of K-4 growth for ELs versus never-ELs; the math results 
 - [Dually-identified EL/SPED students had the lowest scores with gaps widening over time, driven by larger summer loss](dually-identified-lowest-scores-widening-gaps.md) — related
 - [All three EL subgroups scored lower than never-ELs in math and reading throughout kindergarten to 4th grade](el-groups-lower-achievement-than-never-els-k4.md) — related
 - [In reading, ELs grew less than never-ELs in K-1 but more in later grades, with greater summer loss](el-reading-graded-growth-pattern-summer-loss.md) — related
+- [In reading, dual language participants grew slightly more slowly during school years but lost less learning during summers, closing the gap with the national average](dual-language-reading-slower-school-year-growth-less-summer-loss.md) — reports the opposite
+- [Dual language participants grew faster than nonparticipants in math during each school year in grades 2 to 5 but lost more learning during subsequent summers](dual-language-math-faster-school-year-growth-greater-summer-loss.md) — reports the opposite

@@ -62,3 +62,4 @@ Subgroup analysis of chronic exercise effects on working memory by intervention 
 - [Reported benefits of physical activity programs on executive functions depend on program duration and the executive domain analyzed](pa-program-duration-dependent-ef-benefits.md) — related
 - [Sustained aerobic exercise improves children's EFs, with dose-response benefits for the most EF-demanding task and math in the high-dose group only](aerobic-exercise-dose-response-ef.md) — related
 - [Physical activities combining exercise with character development or mindfulness improved children's EFs more than exercise alone: tae kwon do outperformed standard PE, and a yoga pilot improved planning](exercise-plus-character-or-mindfulness-improves-efs.md) — a narrower finding that bears on this claim
+- [Acute exercise significantly improves working memory in children and adolescents with a moderate effect size (SMD = −0.72)](acute-exercise-improves-working-memory-children.md) — related

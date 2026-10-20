@@ -67,3 +67,5 @@ Within-group pre-post comparison on the 20-point RCT for the same 49 experimenta
 - Experimental and control groups were statistically equivalent on pre-test reading comprehension and morphological awareness — related
 - [Explicit instruction of four reading comprehension strategies with short stories yields higher reading comprehension post-test scores than regular syllabus instruction in EFL preparatory students](explicit-strategy-instruction-short-stories-improve-efl-reading-comprehension.md) — related
 - Experimental and control groups showed no significant pre-test difference in reading comprehension before treatment — related
+- [Morphological awareness contributes to pseudoword reading and reading comprehension beyond phonological awareness](morphological-awareness-contributes-reading-development.md) — related
+- [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — reports the opposite

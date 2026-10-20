@@ -49,3 +49,4 @@ The guide's evidence summary for Recommendation 1 reports the underlying study b
 - [Multisyllabic word-reading instruction improves reading for students in grades 4–9 with reading difficulties, with strong supporting evidence](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
 - [Game-based vocabulary practice produced larger gains than traditional instruction for newly arrived migrant children.](game-based-practice-outperforms-traditional-l2-vocabulary-instruction.md) — related
 - [Integrating oral and written English language instruction into content-area teaching shows positive impacts on content-area acquisition in five RCTs](integrate-oral-written-language-content-teaching.md) — related
+- [Comprehension-building practices for struggling readers in grades 4–9 have strong evidence, based on 34 studies](strong-evidence-comprehension-building-practices-grades-4-9.md) — related

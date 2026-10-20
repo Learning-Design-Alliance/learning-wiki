@@ -49,3 +49,4 @@ WWC-computed study-level averages from Appendix A3.1: effect size 0.45 (8 school
 - [Failure Free Reading shows no discernible effects on alphabetics outcomes for beginning readers](failure-free-reading-no-discernible-effects-alphabetics.md) — related
 - [In the Vaughn, Cirino, et al. (2006) trial, no reading measure reached statistical significance, but five of seven effect sizes were substantively important](enhanced-proactive-reading-cirino-substantively-important-nonsignificant.md) — related
 - [The WWC rates PALS as having potentially positive effects on alphabetics, no discernible effects on fluency, and mixed effects on comprehension for beginning readers](pals-wwc-effectiveness-ratings-three-domains.md) — related
+- [The WWC found Voyager Universal Literacy System® had potentially negative effects on comprehension](voyager-potentially-negative-comprehension.md) — related

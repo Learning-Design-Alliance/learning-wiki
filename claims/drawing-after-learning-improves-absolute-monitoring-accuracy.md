@@ -53,3 +53,4 @@ Randomized experiment with 88 university students (29 control, 29 drawing-from-s
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
 - [Diagramming scaffold also improves absolute metacomprehension accuracy for causal relations, extending the effect beyond relative accuracy](diagramming-improves-absolute-metacomprehension-accuracy.md) — related
 - [Monitoring accuracy predicts comprehension-based regulation accuracy, and cue availability also has an indirect effect on regulation accuracy via monitoring accuracy](monitoring-accuracy-predicts-regulation-accuracy-indirect-effect.md) — related
+- [Targeted retrieval via short-answer tasks improves metacognitive calibration more than holistic retrieval via free-recall](short-answer-tasks-improve-metacognitive-calibration.md) — related

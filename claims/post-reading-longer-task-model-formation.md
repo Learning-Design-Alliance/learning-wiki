@@ -47,3 +47,5 @@ Robust t-test on time spent reading each question for the first time in the rand
 - [Application reading instructions lead students to spend longer reading the text than general or memory instructions](application-instruction-increases-reading-time.md)
 - [Answering inserted adjunct questions with the text available produces higher delayed transfer learning than answering post-reading questions](inserted-adjunct-questions-better-learning-than-post-reading.md)
 - [Post-reading-question students search significantly more text segments than inserted-question students, indicating less efficient search](post-reading-questions-inefficient-search.md)
+- [Students in the inserted-question condition spend more time reading the text initially than students in the post-reading condition](inserted-questions-longer-initial-reading.md) — related
+- [Question timing interacts with relevance of rereading: inserted-question students reread more relevant and less non-relevant information than post-reading students](question-timing-by-relevance-rereading-interaction.md) — related

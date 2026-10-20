@@ -46,3 +46,5 @@ Process-level analysis addressing RQ2: JME aggregated two minutes before versus 
 - [Proactive feedback produces significant post-intervention increases in Joint Visual Attention of dyads](propact-feedback-increases-jva-post-intervention.md) — related
 - [Proactive multimodal feedback significantly increases feedback uptake compared to control](propact-feedback-increases-feedback-uptake.md) — related
 - [Proactive multimodal feedback significantly increases debugging success in pair programming compared to no-feedback control](propact-proactive-feedback-improves-debugging-success.md) — related
+- [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
+- [In a 30-participant user study, proactive paradigms are preferred over user-initiated interaction, with lower workload, fewer window switches, shorter editing time, and higher acceptance](user-study-proactive-paradigms-preferred.md) — related

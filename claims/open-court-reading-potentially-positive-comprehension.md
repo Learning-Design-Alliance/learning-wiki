@@ -44,3 +44,4 @@ A multisite cluster randomized field trial across five schools in five states du
 
 ## Related Claims
 - [Open Court Reading© has potentially positive effects on general reading achievement for beginning readers, with a small extent of evidence](open-court-reading-potentially-positive-general-reading-achievement.md) — related
+- [The evidence base for Open Court Reading© is thin: of 185 identified studies, only two met WWC group design standards, and none met standards for alphabetics or reading fluency](open-court-reading-small-evidence-base-two-domains-uncovered.md) — related

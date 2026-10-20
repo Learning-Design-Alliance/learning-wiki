@@ -48,3 +48,4 @@ WWC review of the Elliott & Roder (2017) RCT (n = 410 for earnings outcomes). Ta
 - [Project QUEST may decrease postsecondary degree attainment (improvement index -3, two studies, 1,301 students)](project-quest-potentially-negative-degree-attainment.md) — related
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
 - [Year Up is likely to increase short-term earnings for low-income young adults](year-up-positive-short-term-earnings.md) — related
+- [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related

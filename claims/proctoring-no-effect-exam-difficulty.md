@@ -45,3 +45,8 @@ Multi-level regression with a random intercept for course (18% of variance at co
 ## Related Claims
 - [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](proctored-online-exams-increase-test-anxiety.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related
+- [Familiarity with online and proctored exams, approximated by exam quartile, shows no effect on test anxiety](familiarity-no-effect-test-anxiety.md) — related
+- [Test anxiety is negatively associated with exam performance, and no moderation by proctoring was detected](test-anxiety-negative-exam-performance.md) — related
+- [Higher internet literacy is associated with lower test anxiety in online exams](internet-literacy-lower-test-anxiety.md) — related
+- [Student anxiety under remote proctoring is mixed: some students report reduced anxiety from home comfort and no travel, while others face anxiety from connectivity issues and fear of wrongful accusations](mixed-anxiety-remote-proctored-exams.md) — related
+- [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](contextual-factors-increase-test-anxiety.md) — related

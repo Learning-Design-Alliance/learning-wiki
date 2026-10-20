@@ -48,3 +48,4 @@ Linear contrast analysis of input proportions across 50 dyads. "a significant li
 - [Parental language input differs in quantity and quality across SES groups and relates to children's vocabulary, grammar, and processing development](ses-differences-quantity-quality-parental-input.md) — related
 - [Parent rare word use at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](rare-word-use-30-months-predicts-vocabulary-42-months.md) — related
 - [Parent vocabulary diversity at 30 months predicts child PPVT at 42 months with quantity, SES, and prior vocabulary controlled](vocabulary-diversity-30-months-predicts-vocabulary-42-months.md) — related
+- [Parent narrative utterances at 42 months predict child PPVT at 54 months with quantity, SES, and prior vocabulary controlled](narrative-utterances-42-months-predict-vocabulary-54-months.md) — related

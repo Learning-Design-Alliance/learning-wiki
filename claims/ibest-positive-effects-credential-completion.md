@@ -60,3 +60,4 @@ In the Glosser et al. (2018) RCT, 33.5% of the intervention group versus 18.2% o
 - [Project QUEST is likely to increase industry-recognized credential, certificate, or license completion (improvement index +15, two studies, 1,301 students)](project-quest-positive-credential-completion.md) — related
 - [Year Up may result in little to no change in industry-recognized credential, certificate, or license completion](year-up-no-effect-credential-completion.md) — related
 - [Job Corps has potentially positive effects on completing school: more youth without credentials earned a diploma or GED](job-corps-potentially-positive-completing-school.md) — related
+- [Year Up may result in little to no change in medium-term earnings](year-up-no-effect-medium-term-earnings.md) — related

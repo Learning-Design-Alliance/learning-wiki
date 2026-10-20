@@ -46,3 +46,4 @@ Cross-sectional survey comparing K-DTVP-2 scores across six 10-yr age groups (n=
 - [K-DTVP-2 appears more strongly affected by age than VMI-3R, but is also more sensitive to gender and disease](k-dtvp2-more-age-sensitive-than-vmi3r.md) — related
 - [VMI-3R scores decline significantly with age in Korean adults, dropping significantly from the 50s compared to the 20s](vmi-3r-score-declines-with-aging-from-50s.md) — related
 - [Age, gender, and presence of diseases significantly affect K-DTVP-2 score, while only age significantly affects VMI-3R score](regression-factors-vp-vmi-aging.md) — related
+- [K-DTVP-2 and VMI-3R scores are strongly positively correlated (r = 0.855)](k-dtvp2-vmi3r-strong-positive-correlation.md) — related

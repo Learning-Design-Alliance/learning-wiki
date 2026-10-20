@@ -43,4 +43,4 @@ The meta-analysis of 31 intervention studies distinguished four executive functi
 
 
 ## Related Claims
--
+- [Longitudinal physical activity programs have a positive effect on academic performance in preadolescent children (g = 0.26)](longitudinal-physical-activity-improves-academic-performance.md) — a narrower finding that bears on this claim

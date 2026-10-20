@@ -46,3 +46,5 @@ WWC synthesis of three studies (one RCT without reservations, two QEDs with rese
 - [In an RCT, DCMP significantly increased completion of the developmental math sequence and passing of college-level math](dcmp-rct-rutschow-developmental-outcomes.md) — a narrower finding that bears on this claim
 - [In a propensity-score-matched QED, DCMP students passed college-level math at much higher rates than a two-to-three-semester sequence comparison](dcmp-qed-schudde-keisler-college-math.md) — a narrower finding that bears on this claim
 - [Linked learning communities show no discernible effects on any of five outcome domains for community college students in developmental education](linked-learning-communities-no-discernible-effects-five-domains.md) — related
+- [DCMP's effect on overall college credits earned was not statistically significant in the RCT](dcmp-college-credits-null-rutschow.md) — related
+- [Carnegie Math Pathways students earned college-level math credits at three to four times the rate of peers in traditional sequences and graduated at double the rate](carnegie-math-pathways-outcomes-claim.md) — related

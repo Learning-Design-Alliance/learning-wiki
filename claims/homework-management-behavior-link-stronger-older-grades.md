@@ -44,3 +44,5 @@ Multigroup SEM comparing grade groups (Group 1: n = 268; Group 2: n = 257) with 
 
 ## Related Claims
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](assistments-grade-6-differential-impact.md) — related
+- [Twelve weeks of MITCA homework prescription produced higher time management than traditional homework in 5th–6th graders](mitca-improves-time-management-primary.md) — related
+- [The homework management–homework behavior link is stronger for girls than for boys](homework-management-behavior-link-stronger-girls.md) — related

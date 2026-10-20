@@ -43,3 +43,7 @@ Meta-analysis of 22 studies (27 pairwise comparisons) of acute exercise effects 
 ## Related Claims
 
 - [Exercise session time of 30 minutes or less yields a larger working memory effect than longer sessions in chronic exercise interventions](shorter-session-time-larger-working-memory-effect.md)
+- [Acute exercise significantly improves cognitive flexibility in children and adolescents with a small effect size (SMD = −0.34)](acute-exercise-improves-cognitive-flexibility-children.md) — related
+- [Open-skill exercises yield larger executive function benefits than closed-skill exercises for inhibitory control and working memory](open-skill-exercise-larger-ef-benefits.md) — related
+- [Age moderates exercise effects in opposite directions: adolescents benefit more for inhibitory control, younger children more for working memory](age-moderates-exercise-effects-opposite-directions.md) — related
+- [Chronic exercise significantly improves working memory, inhibitory control, and cognitive flexibility in children and adolescents](chronic-exercise-improves-executive-function-children.md) — related

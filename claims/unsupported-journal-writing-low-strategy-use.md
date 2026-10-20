@@ -58,3 +58,4 @@ Observational analysis of university students' learning journal entries written 
 - [Metacognitive Strategies Improve Learning](metacognitive-strategies-improve-learning.md) — a broader claim this one bears on
 - [Short-term prompting in weekly learning journals increases university students' self-reported metacognitive strategy use over time](short-term-journal-prompts-increase-metacognitive-strategy-use.md) — a narrower finding that bears on this claim
 - [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — a broader claim this one bears on
+- [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](short-term-journal-prompts-increase-cognitive-strategy-use.md) — a narrower finding that bears on this claim

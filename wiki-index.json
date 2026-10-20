@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22556,
+"claim":22555,
 "design":974,
 "element":1066,
 "learner-variable":75,
@@ -10,7 +10,7 @@
 "process":18,
 "product":1826,
 "research-method":500,
-"strategy":6315,
+"strategy":6308,
 "theory":1361
 },
 "kinds":[
@@ -42692,21 +42692,13 @@
 "type":"claim"
 },
 {
+"aliases":["cscl-scripts-non-significant-positive-motivation-effect"],
 "description":"The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation",
 "evidence_strength":"weak",
 "id":"cscl-scripts-motivation-non-significant-meta-analysis",
 "path":"claims/cscl-scripts-motivation-non-significant-meta-analysis.md",
 "status":"review",
 "title":"The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation",
-"type":"claim"
-},
-{
-"description":"CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning",
-"evidence_strength":"moderate",
-"id":"cscl-scripts-non-significant-positive-motivation-effect",
-"path":"claims/cscl-scripts-non-significant-positive-motivation-effect.md",
-"status":"review",
-"title":"CSCL scripts have a non-significant positive effect on learners' motivation compared to unstructured collaborative learning",
 "type":"claim"
 },
 {
@@ -256997,7 +256989,7 @@
 "type":"strategy"
 },
 {
-"aliases":["establishing_classroom_routines"],
+"aliases":["establishing_classroom_routines","establishing_routines_and_procedures","establishing-routines"],
 "description":"Deliberately teaching and rehearsing predictable procedures for recurring classroom activities so that management overhead drops and instructional time increases.",
 "id":"establishing-classroom-routines",
 "path":"strategies/establishing-classroom-routines.md",
@@ -257011,15 +257003,6 @@
 "path":"strategies/establishing-clear-expectations.md",
 "status":"review",
 "title":"Establishing Clear Expectations",
-"type":"strategy"
-},
-{
-"aliases":["establishing_routines_and_procedures"],
-"description":"Establishing predictable, rehearsed patterns for recurring classroom or course activities so that procedural overhead is automated and attention is freed for learning.",
-"id":"establishing-routines",
-"path":"strategies/establishing-routines.md",
-"status":"review",
-"title":"Establishing Routines",
 "type":"strategy"
 },
 {
@@ -258658,19 +258641,12 @@
 "type":"strategy"
 },
 {
+"aliases":["familiar-repetitive-tasks"],
 "description":"Using familiar, quiet, and repetitive fine motor and visual tasks can be a calming experience for many children.",
 "id":"familiar-quiet-and-repetitive-tasks",
 "path":"strategies/familiar-quiet-and-repetitive-tasks.md",
 "status":"review",
 "title":"Familiar, Quiet, and Repetitive Tasks",
-"type":"strategy"
-},
-{
-"description":"Providing learners with familiar, quiet, repetitive fine motor and visual tasks at the start of the day or during transitions to promote calmness and focus.",
-"id":"familiar-repetitive-tasks",
-"path":"strategies/familiar-repetitive-tasks.md",
-"status":"review",
-"title":"Familiar, Repetitive Tasks",
 "type":"strategy"
 },
 {
@@ -260098,7 +260074,7 @@
 "type":"strategy"
 },
 {
-"aliases":["fostering_self-advocacy_and_self-determination","foster_self-advocacy_and_self-determination"],
+"aliases":["fostering_self-advocacy_and_self-determination","foster_self-advocacy_and_self-determination","prioritizing_self-advocacy_and_self-determination"],
 "description":"Prioritizing explicit instruction and authentic practice of self-advocacy and self-determination skills so students — especially those with disabilities — can direct their own learning and life paths.",
 "id":"fostering-self-advocacy-and-self-determination",
 "path":"strategies/fostering-self-advocacy-and-self-determination.md",
@@ -266385,6 +266361,7 @@
 "type":"strategy"
 },
 {
+"aliases":["metacognitive_journaling"],
 "description":"Journaling involves writing or recording thoughts and feelings to develop metacognitive awareness and build self-regulation skills.",
 "id":"journaling_for_metacognitive_awareness",
 "path":"strategies/journaling_for_metacognitive_awareness.md",
@@ -269178,14 +269155,6 @@
 "path":"strategies/metacognitive_awareness_for_self-regulation.md",
 "status":"review",
 "title":"Metacognitive Awareness for Self-Regulation",
-"type":"strategy"
-},
-{
-"description":"Metacognitive journaling involves writing about one's own thinking, including tendencies, changes in thinking over time, biases, or blind spots.",
-"id":"metacognitive_journaling",
-"path":"strategies/metacognitive_journaling.md",
-"status":"review",
-"title":"Metacognitive Journaling",
 "type":"strategy"
 },
 {
@@ -274906,6 +274875,7 @@
 "type":"strategy"
 },
 {
+"aliases":["using_positive_affirmations"],
 "description":"Repeating short, positive self-statements intended to build self-esteem, confidence, and a more optimistic outlook.",
 "id":"positive_affirmations",
 "path":"strategies/positive_affirmations.md",
@@ -275695,6 +275665,7 @@
 "type":"strategy"
 },
 {
+"aliases":["presentation-guidelines-optimize-intellectual-performance"],
 "description":"The article states that cognitive load theory \\\"has been designed to provide guidelines intended to assist in the presentation of information in a manner that encourages learner activities that optimize intellectual pe...",
 "id":"present-information-to-optimize-intellectual-performance",
 "path":"strategies/present-information-to-optimize-intellectual-performance.md",
@@ -275708,14 +275679,6 @@
 "path":"strategies/present_tense_messages.md",
 "status":"review",
 "title":"Present Tense Messages",
-"type":"strategy"
-},
-{
-"description":"Cognitive load theory is described as \\\"designed to provide guidelines intended to assist in the presentation of information in a manner that encourages learner activities that optimize intellectual performance.\\\" As an...",
-"id":"presentation-guidelines-optimize-intellectual-performance",
-"path":"strategies/presentation-guidelines-optimize-intellectual-performance.md",
-"status":"review",
-"title":"Present information in a manner that encourages learner activities optimizing intellectual performance",
 "type":"strategy"
 },
 {
@@ -275988,14 +275951,6 @@
 "path":"strategies/prioritizing_agency_for_students_with_disabilities.md",
 "status":"review",
 "title":"Prioritizing Agency for Students With Disabilities",
-"type":"strategy"
-},
-{
-"description":"Systematically embedding self-advocacy and self-determination into the structures of education — teacher preparation, curriculum goals, assessment, and accountability — rather than treating them as incidental outcomes.",
-"id":"prioritizing_self-advocacy_and_self-determination",
-"path":"strategies/prioritizing_self-advocacy_and_self-determination.md",
-"status":"review",
-"title":"Prioritizing Self-Advocacy and Self-Determination",
 "type":"strategy"
 },
 {
@@ -281709,15 +281664,7 @@
 "type":"strategy"
 },
 {
-"description":"A strategy in which learners actively plan, monitor, and control their own cognition, motivation, and behavior toward learning goals, supported by explicit instruction in these processes.",
-"id":"self-regulated-learning",
-"path":"strategies/self-regulated-learning.md",
-"status":"review",
-"title":"Self Regulated Learning",
-"type":"strategy"
-},
-{
-"aliases":["self-regulated-learning-strategy-instruction"],
+"aliases":["self-regulated-learning-strategy-instruction","self-regulated-learning"],
 "description":"Explicitly teaching learners to plan, monitor, and control their own learning processes rather than relying on teacher-directed regulation.",
 "id":"self-regulated-learning-instruction",
 "path":"strategies/self-regulated-learning-instruction.md",
@@ -291026,14 +290973,6 @@
 "path":"strategies/using_manipulatives.md",
 "status":"review",
 "title":"Using Manipulatives",
-"type":"strategy"
-},
-{
-"description":"Replacing negative self-talk with positive affirmations to support self-efficacy, emotional regulation, and a growth mindset.",
-"id":"using_positive_affirmations",
-"path":"strategies/using_positive_affirmations.md",
-"status":"review",
-"title":"Using Positive Affirmations",
 "type":"strategy"
 },
 {
@@ -308634,7 +308573,7 @@
 "cscl-scripts-large-effect-collaboration-skills":"cscl-scripts-large-effect-collaboration-skills",
 "cscl-scripts-medium-positive-collaboration-skills-effect":"cscl-scripts-medium-positive-collaboration-skills-effect",
 "cscl-scripts-motivation-non-significant-meta-analysis":"cscl-scripts-motivation-non-significant-meta-analysis",
-"cscl-scripts-non-significant-positive-motivation-effect":"cscl-scripts-non-significant-positive-motivation-effect",
+"cscl-scripts-non-significant-positive-motivation-effect":"cscl-scripts-motivation-non-significant-meta-analysis",
 "cscl-scripts-positive-learning-collaboration-skills":"cscl-scripts-positive-learning-collaboration-skills",
 "cscl-scripts-small-effect-domain-knowledge":"cscl-scripts-small-positive-domain-learning-effect",
 "cscl-scripts-small-positive-domain-learning-effect":"cscl-scripts-small-positive-domain-learning-effect",
@@ -333879,11 +333818,11 @@
 "establishing-clear-expectations":"establishing-clear-expectations",
 "establishing-discussion-norms":"class-discussion-norms",
 "establishing-group-roles":"establish-group-roles",
-"establishing-routines":"establishing-routines",
+"establishing-routines":"establishing-classroom-routines",
 "establishing_classroom_norms":"establishing_classroom_norms",
 "establishing_classroom_routines":"establishing-classroom-routines",
 "establishing_norms_co-constructively":"establishing_norms_co-constructively",
-"establishing_routines_and_procedures":"establishing-routines",
+"establishing_routines_and_procedures":"establishing-classroom-routines",
 "establishing_rules_and_expectations":"establishing_rules_and_expectations",
 "estimate-minimum-rss-from-skill-variables":"estimate-minimum-rss-from-skill-variables",
 "estimate_and_predict":"estimate_and_predict",
@@ -334104,7 +334043,7 @@
 "false-feedback-paradigm-disentangle-ability-from-feedback":"false-feedback-paradigm-disentangle-ability-from-feedback",
 "familiar-contexts-and-age-appropriate-materials-integrated-ai":"familiar-contexts-and-age-appropriate-materials-integrated-ai",
 "familiar-quiet-and-repetitive-tasks":"familiar-quiet-and-repetitive-tasks",
-"familiar-repetitive-tasks":"familiar-repetitive-tasks",
+"familiar-repetitive-tasks":"familiar-quiet-and-repetitive-tasks",
 "family-community-student-engagement-sead-partnerships":"family-community-student-engagement-sead-partnerships",
 "family-engagement":"family-engagement",
 "family-engagement-in-homework":"family-engagement-in-homework",
@@ -335478,7 +335417,7 @@
 "metacognitive-strategy-instruction":"metacognitive-strategy-instruction",
 "metacognitive_accountable_talk_stems":"metacognitive_accountable_talk_stems",
 "metacognitive_awareness_for_self-regulation":"metacognitive_awareness_for_self-regulation",
-"metacognitive_journaling":"metacognitive_journaling",
+"metacognitive_journaling":"journaling_for_metacognitive_awareness",
 "metacognitive_reflection":"metacognitive_reflection",
 "metacognitive_reflection_prompts":"metacognitive_reflection_prompts",
 "metacognitive_strategies":"metacognitive_strategies",
@@ -336337,7 +336276,7 @@
 "preschool-screening-attention-and-social-skills":"preschool-screening-attention-and-social-skills",
 "present-information-to-optimize-intellectual-performance":"present-information-to-optimize-intellectual-performance",
 "present_tense_messages":"present_tense_messages",
-"presentation-guidelines-optimize-intellectual-performance":"presentation-guidelines-optimize-intellectual-performance",
+"presentation-guidelines-optimize-intellectual-performance":"present-information-to-optimize-intellectual-performance",
 "presentation-mini-sets-community-benchmark":"presentation-mini-sets-community-benchmark",
 "preserve-critical-stance-while-reducing-debilitating-anxiety":"preserve-critical-stance-while-reducing-debilitating-anxiety",
 "preserve-generative-work-ai-configurations":"preserve-generative-work-ai-configurations",
@@ -336372,7 +336311,7 @@
 "prioritize-relevance-concision-over-human-likeness":"prioritize-relevance-concision-over-human-likeness",
 "prioritize-trust-calibration-over-maximization":"prioritize-trust-calibration-over-maximization",
 "prioritizing_agency_for_students_with_disabilities":"prioritizing_agency_for_students_with_disabilities",
-"prioritizing_self-advocacy_and_self-determination":"prioritizing_self-advocacy_and_self-determination",
+"prioritizing_self-advocacy_and_self-determination":"fostering-self-advocacy-and-self-determination",
 "privacy-conscious-teacher-mediated-genai-feedback-workflow":"privacy-conscious-teacher-mediated-genai-feedback-workflow",
 "privacy-stage-gate-data-flow-summary":"privacy-stage-gate-data-flow-summary",
 "privacy-training-and-transparency-build-trust":"privacy-training-and-transparency-build-trust",
@@ -337144,7 +337083,7 @@
 "self-monitoring_strategies":"self-monitoring-strategies",
 "self-organized_learning_groups":"self-organized_learning_groups",
 "self-questioning":"self-questioning",
-"self-regulated-learning":"self-regulated-learning",
+"self-regulated-learning":"self-regulated-learning-instruction",
 "self-regulated-learning-instruction":"self-regulated-learning-instruction",
 "self-regulated-learning-strategy-instruction":"self-regulated-learning-instruction",
 "self-regulated-strategy-development":"self-regulated-strategy-development-srsd",
@@ -338380,7 +338319,7 @@
 "using_colors_for_different_feelings":"using_colors_for_different_feelings",
 "using_empathy_interviews_for_family_engagement":"using_empathy_interviews_for_family_engagement",
 "using_manipulatives":"using_manipulatives",
-"using_positive_affirmations":"using_positive_affirmations",
+"using_positive_affirmations":"positive_affirmations",
 "using_reflection_for_habit_formation":"using_reflection_for_habit_formation",
 "using_technology":"using_technology",
 "utility-value-connections":"utility-value-connections",

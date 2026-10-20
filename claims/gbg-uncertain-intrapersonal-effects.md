@@ -48,3 +48,4 @@ WWC synthesis of two studies (Ialongo et al., 2019, emotion regulation subscale,
 - [Good Behavior Game shows uncertain effects on school climate in after-school programs, with a pooled effect size of 0.15 that is not statistically significant](gbg-uncertain-school-climate-effects.md) — related
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](gbg-uncertain-math-effects.md) — related
 - [Good Behavior Game improves teacher practice related to student behavior, with a pooled effect size of 0.79 across two studies](gbg-improves-teacher-practice.md) — related
+- [Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant](cognitive-intrapersonal-similar-interpersonal-null.md) — related

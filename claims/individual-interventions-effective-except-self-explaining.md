@@ -56,3 +56,4 @@ Mixed-effects moderator analysis across the seven intervention categories (Table
 - [Rereading Is A Low Utility Study Strategy](rereading-is-a-low-utility-study-strategy.md) — related
 - [Situation-model-approach interventions also directly improved comprehension, albeit with a small effect](situation-model-interventions-improve-comprehension-small-effect.md) — related
 - [Generative and visualizing tasks improve metacomprehension and monitoring accuracy but show small or null effects on learning outcomes](generative-tasks-monitoring-accuracy-not-outcomes.md) — a narrower finding that bears on this claim
+- [Working memory capacity predicts monitoring accuracy after a single reading but not after rereading, independently of comprehension ability (Experiment 2)](wmc-by-rereading-interaction.md) — a narrower finding that bears on this claim

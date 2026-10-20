@@ -50,3 +50,5 @@ A key finding of the TTI evaluation report, from the multisite randomized experi
 - [The Talent Transfer Initiative increased elementary school math and reading test scores by the equivalent of 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related
 - [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related
 - Retention bonuses for high-poverty schools work only while payments last, and working conditions may outweigh pay — reports the opposite
+- [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
+- [The transfer incentive targeted high-performing teachers into the hardest-to-staff schools within their own districts](selective-transfer-targets-hardest-to-staff-schools.md) — related

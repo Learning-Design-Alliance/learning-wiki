@@ -46,3 +46,4 @@ Student-level analysis comparing achievement growth of students with New Leaders
 - [Students in New Leaders-led Oakland schools show greater ELA achievement growth than other OUSD students (effect size 0.06)](new-leaders-oakland-ela-growth-es-006.md) — related
 - [Attending a New Leaders-led school in Oakland has positive, statistically significant effects on student achievement](new-leaders-oakland-positive-significant-achievement-effects.md) — a broader claim this one bears on
 - [FFL scores correlate more strongly with contributions to math achievement than to achievement in other subjects](ffl-math-value-added-stronger-correlation.md) — related
+- [Graduates of partnership-based preparation programs showed above-average achievement gains and persistence in leadership roles](new-leaders-uic-program-outcome-evidence.md) — related

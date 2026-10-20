@@ -49,3 +49,4 @@ Key finding from the issue brief's analysis of Chicago data; the brief states th
 - Charter school research has historically focused on test scores, with longer-term outcomes only recently examined — related
 - [Students attending charter high schools are more likely to graduate from high school and enroll in college](charter-high-schools-more-likely-graduate-enroll-college.md) — related
 - [Students attending charter high schools are more likely to persist in college](charter-high-schools-more-likely-persist-college.md) — related
+- [Chicago multi-grade charter high schools appear to increase the probability of enrolling in college](chicago-multigrade-charter-high-schools-college-entry-gains.md) — related

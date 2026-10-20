@@ -92,3 +92,5 @@ Both studies share a structure worth noting for design purposes: the achievement
 - [Nature-based learning appears to work especially well for disadvantaged and disengaged students, potentially narrowing achievement gaps](nature-based-learning-benefits-disadvantaged-students.md) — related
 - [High course structure significantly reduces failure rates in introductory biology independent of student ability, while moderate structure has a marginal effect](high-structure-reduces-failure-intro-biology.md) — related
 - [Socially disadvantaged children do not differ in physical fitness but score significantly lower on academic performance than non-disadvantaged peers](sdc-lower-academic-performance-equal-fitness.md) — related
+- [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
+- [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related

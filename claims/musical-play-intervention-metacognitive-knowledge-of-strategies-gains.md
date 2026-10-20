@@ -43,4 +43,6 @@ Facet-level repeated-measures ANCOVA of interview responses coded for knowledge 
 
 
 ## Related Claims
--
+- [Musical play intervention significantly increased children's metacognitive knowledge at interview compared with controls](musical-play-intervention-metacognitive-knowledge-interview-gains.md) — related
+- [No intervention effect on directly observed on-task self-regulation in the musical play study](musical-play-intervention-no-on-task-self-regulation-effect.md) — related
+- [Age moderated change in metacognitive regulation, with younger children decreasing and older children increasing between pre- and post-test](age-moderates-metacognitive-regulation-change.md) — related

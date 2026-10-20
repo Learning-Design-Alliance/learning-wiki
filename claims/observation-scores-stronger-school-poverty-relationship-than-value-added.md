@@ -73,3 +73,4 @@ Same observational analysis of REACH Students data. Observation-score concentrat
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — related
 - [Differences in evaluation scores between high- and low-poverty schools persist after controlling for teacher experience and credentials](school-poverty-score-gaps-persist-controlling-teacher-background.md) — related
 - [Algebra access gaps are tied to school poverty levels, geography, and race/ethnicity](algebra-access-gaps-poverty-geography-race.md) — related
+- [Teachers in schools with better organizational and learning climates have higher value-added and observation scores, even compared with schools serving similar students](school-climate-associated-higher-teacher-evaluation-scores.md) — related

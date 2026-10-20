@@ -66,3 +66,5 @@ Random-effects meta-analysis of randomized trials comparing virtual patients wit
 - [Virtual patients are as effective as traditional education for knowledge outcomes (pooled SMD=0.11)](vp-traditional-knowledge-no-difference.md) — related
 - [Virtual patients blended with traditional education improve knowledge more than traditional education alone (pooled SMD=0.73)](vp-blended-knowledge-advantage.md) — related
 - [Simulation Based Education With Deliberate Practice Improves Clinical Outcomes](simulation-based-education-with-deliberate-practice-improves-clinical-outcomes.md) — a broader claim this one bears on
+- [In the few trials comparing them, virtual patients showed no significant knowledge differences versus other digital education, and skills differences in only one of three studies](vp-vs-other-digital-no-difference.md) — related
+- [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) — a broader claim this one bears on

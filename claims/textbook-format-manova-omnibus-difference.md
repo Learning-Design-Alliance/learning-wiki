@@ -43,4 +43,5 @@ Omnibus one-way MANOVA comparing the two self-selected format groups on five cor
 
 
 ## Related Claims
--
+- [University students who choose e-textbooks report greater use of cognitive strategies than students who choose print textbooks](e-textbook-choice-higher-cognitive-strategy-use.md) — a narrower finding that bears on this claim
+- [University students who choose e-textbooks report greater self-regulation of learning than students who choose print textbooks](e-textbook-choice-higher-self-regulation.md) — a narrower finding that bears on this claim

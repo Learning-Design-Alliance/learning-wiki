@@ -51,3 +51,4 @@ Cross-sectional SEM among 360 GenAI-experienced Chinese university students; the
 - [Perceived AI empowerment and perceived AI threat are weakly and non-significantly correlated, suggesting relatively independent appraisals](empowerment-and-threat-appraisals-weakly-correlated.md) — related
 - [Epistemic and society-related AI knowledge were negatively associated with trust in GenAI](epistemic-knowledge-negatively-associated-with-genai-trust.md) — related
 - [Observers' perceptions of a classmate's GenAI use are negatively associated with interpersonal trust among university students](genai-use-negatively-associated-interpersonal-trust.md) — related
+- [Perceived trust mediates the relationship between social influence and generative AI dependence](trust-mediation-social-influence-ai-dependence.md) — related

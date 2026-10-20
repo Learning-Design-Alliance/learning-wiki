@@ -66,3 +66,4 @@ SEM path analysis of the MSLQ model (N = 98); Table 4 reports a standardized est
 - [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies](conceptions-constructivist-learning-relate-to-regulation-processing.md)
 - [Students who doubt their own learning capacity are at risk of adopting an inadequate lack-of-regulation strategy](self-perceived-inability-predicts-lack-of-regulation.md)
 - [Studies since 2004 confirm strong interrelations among processing strategies, regulation strategies, conceptions, and motivations of learning patterns](learning-pattern-components-interrelated.md) — a broader claim this one bears on
+- [Structural relations exist between students' conceptions of constructivist learning and their regulation and processing strategies, and doubting students risk inadequate regulation](loyens-conceptions-relate-strategies.md) — related

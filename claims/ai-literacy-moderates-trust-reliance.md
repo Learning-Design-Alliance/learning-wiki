@@ -66,3 +66,4 @@ The Results section describes the interaction pattern plotted in Figure 4a with 
 - [Higher post-task trust in an AI assistant predicts lower appropriate reliance during AI-assisted programming problem-solving](higher-trust-lower-appropriate-reliance-ai-assistant.md) — related
 - [Need for cognition negatively moderates the trust–appropriate reliance relationship, with the trust slope becoming more negative as need for cognition increases](need-for-cognition-moderates-trust-reliance.md) — related
 - [The trust–appropriate reliance relationship is non-linear, with the decline attenuating at higher trust and no reversal within the observed data](nonlinear-trust-reliance-no-optimal-trust.md) — related
+- [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related

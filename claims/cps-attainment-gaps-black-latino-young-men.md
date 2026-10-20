@@ -55,3 +55,4 @@ Descriptive subgroup analysis from the 2018 snapshot comparing DAI projections f
 - [Four- versus six-year completion gaps of 15–25 percentage points appeared across academic and demographic groups, with Black young men at 13% four-year and 31% six-year completion](student-characteristics-completion-gaps.md) — related
 - Black graduates are underrepresented among associate degree earners in 33 of 41 examined states, with only three states at parity for bachelor's degrees — related
 - White students outcomplete Black students by at least 11 percentage points in every family income group at four-year institutions — related
+- [College completion among CPS 2017 immediate enrollees shows large disparities by race/ethnicity and gender, with fewer than one-third of Black and Latino young men completing a bachelor's degree](cps-2017-completion-disparities-race-gender.md) — related

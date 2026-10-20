@@ -43,4 +43,5 @@ Overall result of the randomised trial: intervention students played specified g
 
 
 ## Related Claims
--
+- [Playing commercial video games for eight weeks improved self-reported communication skill more than control conditions in a randomised trial of undergraduates](video-games-improve-communication-skill-rct.md) — a narrower finding that bears on this claim
+- [Playing commercial video games for eight weeks improved self-reported resourcefulness more than control conditions in a randomised trial of undergraduates](video-games-improve-resourcefulness-rct.md) — a narrower finding that bears on this claim

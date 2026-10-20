@@ -67,3 +67,5 @@ Cross-case qualitative finding from the six welcoming-school case studies. Staff
 - [Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting](four-day-week-no-effect-other-incident-types.md) — reports the opposite
 - [Staff in welcoming schools said the planning process for merging closed schools into welcoming schools was insufficient, leaving them unprepared](school-closing-planning-insufficient-staff-unprepared.md) — related
 - [School closings severed longstanding social connections among families and staff, producing a period of mourning and us-vs-them dynamics](school-closings-severed-social-connections-mourning.md) — possibly the same claim (merge candidate)
+- [Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%](four-day-week-decreases-bullying-incidents.md) — reports the opposite
+- [Four-day school weeks decrease per-pupil fighting incidents among high school students by approximately 31%](four-day-week-decreases-fighting-incidents.md) — reports the opposite

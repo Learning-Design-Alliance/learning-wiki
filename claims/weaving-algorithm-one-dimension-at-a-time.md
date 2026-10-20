@@ -48,3 +48,4 @@ Qualitative posthumanist video analysis of the weaving unit shows intra-actions 
 - [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
 - [Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production](algorithms-expand-over-time-youth-material-changes.md) — related
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
+- [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related

@@ -44,3 +44,4 @@ Narrative synthesis attributed to the earlier review by Mugnaini et al. (2009) o
 
 ## Related Claims
 - [Children's perceptions of peers with internalising problems (depression) are under-researched relative to externalising problems](internalising-peer-perceptions-under-researched.md) — related
+- [Poor readers show moderately elevated general internalising problems compared to typical readers (d = 0.41)](poor-readers-moderate-internalising-problems.md) — related

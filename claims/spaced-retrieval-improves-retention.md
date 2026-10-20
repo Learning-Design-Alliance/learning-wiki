@@ -133,3 +133,4 @@ Meta-analysis (subset 1) aggregating 39 effect sizes from studies comparing spac
 - [The authors' findings add to evidence that expanding-interval schedules are not more effective than fixed-interval schedules of practice](expanding-not-better-than-fixed-interval.md) — related
 - [Preschool children do not exhibit a spacing effect in free recall, although they benefit from repetition](preschoolers-no-spacing-effect-free-recall.md) — a narrower finding that bears on this claim
 - [Tier 2 dosage and scheduling findings are mixed: more frequent kindergarten sessions helped, but first-grade studies found no outcome differences across 16-hour and 32-hour schedules](tier2-dosage-scheduling-mixed-findings.md) — related
+- [Spaced retrieval practice (successive relearning) produced multi-year retention of foreign language vocabulary in adults, as reported by the review](spaced-retrieval-multiyear-vocabulary-retention.md) — related

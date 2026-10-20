@@ -71,3 +71,4 @@ In Experiment 2's stepwise regression, the rereading-vs-once dummy variable was 
 - [The context-learning effect did not significantly interact with reading comprehension ability, though the trend favored more able readers](context-learning-comprehension-interaction-marginal.md) — related
 - [Self-questioning during study benefits low verbal ability high school students more than high verbal ability students (Experiment 1)](self-questioning-benefits-low-verbal-ability-more.md) — related
 - [Five of seven situation-model interventions significantly improved relative metacomprehension accuracy, concept mapping only marginally (p = .097), and self-explaining not significantly](individual-interventions-effective-except-self-explaining.md) — related
+- [Reading comprehension ability predicts monitoring accuracy after a single reading but not after rereading (Experiments 1 and 2)](comprehension-ability-by-rereading-interaction.md) — related

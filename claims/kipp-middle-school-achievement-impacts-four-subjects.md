@@ -78,3 +78,5 @@ Multiyear evaluation of KIPP middle schools reporting that the schools "have sig
 - [The Kauffman School's achievement impacts are higher than the average impacts found in studies of other charter schools](kauffman-impacts-exceed-average-charter-impacts.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
 - [KIPP Atlanta middle schools substantially improve student proficiency on Georgia statewide assessments](kipp-atlanta-middle-schools-improve-proficiency.md) — a narrower finding that bears on this claim
+- [KIPP high schools have positive, statistically significant, and educationally meaningful achievement impacts for students new to the KIPP network](kipp-high-school-impacts-new-entrants.md) — related
+- [KIPP high schools have positive, statistically significant achievement impacts for students new to the KIPP network, but not for students continuing from KIPP middle schools](kipp-high-school-impacts-new-entrants-not-continuing.md) — related

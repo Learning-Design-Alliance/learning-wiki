@@ -49,3 +49,4 @@ Preliminary analyses tested whether a cumulative prenatal risk index (premature 
 - [Foster children who received the ABC intervention showed stronger theory of mind at preschool age than foster children who received a control intervention](abc-intervention-improves-theory-of-mind-foster-preschoolers.md) — related
 - [Executive function performance significantly predicts semantic fluency in preschool children](ef-significant-effect-semantic-fluency-preschool.md) — related
 - [Low-income children show theory of mind development differences compared with typically studied higher-income samples](low-income-children-tom-development-differences.md) — related
+- [Foster children who received the ABC intervention in infancy showed stronger cognitive flexibility at preschool age than foster children who received a control intervention](abc-intervention-improves-cognitive-flexibility-foster-preschoolers.md) — related

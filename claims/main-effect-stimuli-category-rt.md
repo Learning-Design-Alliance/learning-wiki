@@ -46,3 +46,4 @@ Linear mixed model omnibus test of the main effect of stimuli category (no cue, 
 - [Neither muscle mass nor weekly training frequency is associated with reaction time across cue conditions in healthy male high-school students](muscle-mass-weekly-training-not-associated-rt.md) — related
 - [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following valid cues in healthy male high-school students](vo2max-associated-faster-rt-valid-cue.md) — related
 - [Cardiorespiratory fitness is not associated with reaction times for uncued stimuli in healthy male high-school students](vo2max-not-associated-rt-no-cue.md) — related
+- [Higher cardiorespiratory fitness is associated with faster reaction times for stimuli following invalid cues in healthy male high-school students](vo2max-associated-faster-rt-invalid-cue.md) — related

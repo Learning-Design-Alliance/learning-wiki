@@ -53,3 +53,5 @@ The brief's headline summary of the study states that MCAS scores "predict colle
 - [MCAS and PARCC scores similarly predict which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
 - [In mathematics, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in English language arts the standards are not statistically distinguishable](parcc-math-standard-less-remediation-than-mcas-proficient.md) — related
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard; in ELA the standards are not statistically distinguishable](parcc-college-ready-standard-lower-math-remediation.md)
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
+- [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — related

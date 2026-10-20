@@ -52,3 +52,4 @@ Kindergarten follow-up tables (Appendices A4.1–A4.3) print effect sizes from �
 - REDI effects largely fade by end of kindergarten, with significant positive effects only on TOWRE Phonetic Decoding Efficiency — related
 - [A WWC expert panel distilled recent research into seven recommendations for preschool educators on preparing young children for school](wwc-seven-recommendations-preschool-school-readiness.md) — related
 - [Children who attend pre-kindergarten are more ready for kindergarten at the end of their pre-k year than children who do not attend](prek-attendance-kindergarten-readiness.md) — related
+- [Ready, Set, Leap!® has no significant effect on preschool phonological processing (domain average effect size 0.06)](ready-set-leap-null-phonological-processing.md) — related
