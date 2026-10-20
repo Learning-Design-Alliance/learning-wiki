@@ -19,7 +19,7 @@
 <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
 <script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
 <header class="lt-header">
-<a href="../../"><strong>Learning Design Wiki</strong></a>
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
 <a href="../../claims/">Claims</a>
 <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
@@ -36,12 +36,12 @@
 the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
 <p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 </details>
-<p><code>q3 i?</code> Fast-mode LLM grading showed low weighted kappas with humans (0.070–0.287), while thinking mode raised agreement, most for ChatGPT (0.718). <a href="#brevik-a-2026">→ Brevik A 2026</a></p>
+<p><code>q3 i?</code> Fast-mode LLM grading showed low weighted kappas with humans (0.070–0.287); thinking mode raised agreement for ChatGPT (to 0.718), Kimi (0.571) and LeChat (0.186) but not for Gemini, which fell to 0.237. <a href="#brevik-a-2026">→ Brevik A 2026</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="brevik-a-2026">Brevik A 2026<a class="headerlink" href="#brevik-a-2026" title="Permanent link">&para;</a></h3>
 <p>Brevik A, Jerpseth H and Lafontan SR (2026). Large language models as grading assistants in public health education: a method-comparison study of essay-style exam assessment. Front. Educ. 11:1904452. https://doi.org/10.3389/feduc.2026.1904452</p>
 <p><code>q3 · i?</code> · <code>design · r2</code></p>
-<p>Single-file comparison of four LLMs against human grades on 32 submissions. Table 1 shows fast-mode kappas of 0.269 (ChatGPT), 0.287 (Gemini), 0.070 (LeChat), 0.227 (Kimi); thinking mode improved these, and "the LLMs utilized more of the full grading scale" in thinking mode.</p>
+<p>Single-file comparison of four LLMs against human grades on 32 submissions. Table 1 shows fast-mode kappas of 0.269 (ChatGPT), 0.287 (Gemini), 0.070 (LeChat), 0.227 (Kimi); thinking mode raised them for ChatGPT (0.718), Kimi (0.571) and LeChat (0.186) but lowered Gemini's (0.237); Gemini Pro, tested only in thinking mode, reached 0.380. In thinking mode "the LLMs utilized more of the full grading scale".</p>
 <blockquote>
 <p>"The weighted Cohen's kappa measuring inter-rater reliability for grading method comparisons indicated that the agreement between human graders and fast LLM grading was not high."</p>
 </blockquote>

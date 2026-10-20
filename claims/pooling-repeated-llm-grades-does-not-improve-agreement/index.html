@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pooling Repeated LLM Grades Does Not Improve Agreement on Short Answers - Learning Design Wiki</title>
+<link rel="icon" href="../../branding/lda-favicon.png">
+<link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
+<link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+<link rel="stylesheet" href="../../branding/lda-theme.css">
+<style>
+.lt-header{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}
+.lt-header a{color:inherit;text-decoration:none;margin-right:.6rem}
+.lt-header a:hover{text-decoration:underline}
+.lt-header form{display:inline;float:right}
+.lt-main{max-width:52rem;margin:0 auto;padding:1rem 1.2rem 3rem}
+</style>
+</head>
+<body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
+<script>try{var s=new URL("../../"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}catch(e){}</script>
+<header class="lt-header">
+<a class="lt-logo" href="../../"><img src="../../branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
+<a href="../../claims/">Claims</a>
+<form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
+</header>
+<main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
+<h1 id="pooling-repeated-llm-grades-does-not-improve-agreement-on-short-answers">Pooling Repeated LLM Grades Does Not Improve Agreement on Short Answers<a class="headerlink" href="#pooling-repeated-llm-grades-does-not-improve-agreement-on-short-answers" title="Permanent link">&para;</a></h1>
+<blockquote>
+<p><strong>Claim</strong> · <a href="../">All claims</a>
+<strong>Evidence</strong> · 1 study · causal <code>r?</code> · <code>q2</code>
+<strong>Evidence quality</strong> · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.</p>
+</blockquote>
+<p>On short free-text answers, taking the median or mean of several LLM grades for the same answer does not improve agreement with a human grader in kappa, error or correlation, does not remove the grader's systematic bias, and only marginally reduces how often the same work receives a different mark. Measured on one model and one corpus of short answers; whether pooling helps on long, noisier work was not tested in this release, so the claim is scoped to short answers.</p>
+<h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
+<details class="info">
+<summary>Reading the evidence codes</summary>
+<p><code>q</code> is the design tier, <code>i</code> the impact, <code>n</code> the sample, and the kind with its <code>r</code>
+the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
+<p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
+</details>
+<ul>
+<li>Pooling across <em>different</em> models can be worse than using the best model alone: the weaker members' votes drag the estimate down.</li>
+<li>Bias is untouched by pooling, which is the diagnostic. Averaging removes variance; a grader that is systematically generous is generous in every draw.</li>
+<li>Pooling is a variance reduction, so it should be judged separately on agreement and on self-consistency. It fails on both here, but for different reasons, and the second failure is the more interesting one.</li>
+<li>The agreement null holds in correlation as well as kappa on short answers. Averaging compresses scores and kappa penalises compression, so kappa can hide a ranking gain; on the short-answer corpus it hides almost nothing (nine passes: Pearson r +0.0035, inside a pre-set ±0.01 equivalence margin), because repeated grades of one answer rarely differ and never straddle the human mark.</li>
+</ul>
+<h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
+<h3 id="porcaro-2026">Porcaro 2026<a class="headerlink" href="#porcaro-2026" title="Permanent link">&para;</a></h3>
+<p>David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844</p>
+<p><code>q2 · i?</code> · <code>causal · r?</code></p>
+<p>Pooled estimators (median and mean of three passes, and a cross-model pool) against a single call on the same 150 stratified answers from a public, teacher-graded corpus of undergraduate computer-science answers, on Gemini 3.5 Flash Lite in single runs, with re-grade flip rates on 100 answers and a later re-run of nine passes read in Pearson r with intervals resampling students. These results are in the release's evidence records and interpretation, not in its article. Observation record: <code>lazuli-grader-jorgpt-2026</code>.</p>
+<h2 id="discussion">Discussion<a class="headerlink" href="#discussion" title="Permanent link">&para;</a></h2>
+<p><strong>Scope of the claim.</strong> Self-consistency by majority vote is a well-established technique for reasoning tasks with a verifiable answer, where independent errors cancel. This claim is about <em>rubric scoring</em>, where the residual disagreement with a human reference is dominated by systematic error and by noise in the reference itself — neither of which averaging can reach. It is not a claim that self-consistency does not work in general.</p>
+<p><strong>Why it fails on stability too, which is less obvious.</strong> Learners do not complain that their grade is wrong; they complain that the same work got a different mark. That is a variance phenomenon and pooling is a variance reduction, so it should help, and it barely does: pure re-grade flips fall from a quarter to a fifth, within the standard error at the sample size measured. Against reformatted resubmissions it does essentially nothing, because a reformat <em>shifts</em> where the grader settles rather than resampling it, and pooling averages around a centre rather than moving the centre back.</p>
+<p><strong>What follows practically.</strong> Three or four model calls per grade is a three- or fourfold cost increase for no measurable return on either objective. If the budget exists, it buys more as a better model tier, which does move calibration. And the stability problem has a cheaper and complete answer: do not re-grade unchanged content at all.</p>
+<p><strong>What kappa cannot see, and where it might matter.</strong> Pooling was first measured in kappa only, and kappa penalises the compression averaging creates, so a ranking gain could hide behind it. Re-run on the short-answer corpus with nine passes and read in <em>r</em>, the gain is +0.0035 (learner-clustered 95% interval +0.0026 to +0.0048), kappa +0.007, mean absolute error unchanged. The reason is the grader's per-item noise: on short answers the nine passes of one answer have a standard deviation of 0.18 points and no answer's passes straddle the human mark, so there is nothing for averaging to cancel. Items where a grader's per-item noise is larger, such as whole programs, could behave differently; that is outside what this release reports.</p>
+<p><strong>Where pooling might still earn its place.</strong> Near a threshold — a pass mark, an unlock condition — the quantity that matters is not mean agreement but the probability of landing on the wrong side of one boundary, and a blanket k=3 is the wrong shape for that anyway. Targeted self-consistency near thresholds only was not tested here and remains open.</p>
+<h2 id="related-claims">Related Claims<a class="headerlink" href="#related-claims" title="Permanent link">&para;</a></h2>
+<ul>
+<li><a href="../llm-short-answer-graders-can-reach-human-rater-agreement/">LLM short-answer graders can reach human rater agreement.</a> — why there is little residual agreement left to win</li>
+<li><a href="../surface-formatting-changes-shift-llm-grades-without-penalising-them/">Surface formatting changes shift LLM grades without penalising them.</a> — the instability pooling was expected to fix</li>
+<li><a href="../graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at/">Graded exemplars shift an LLM grader by the level they are marked at.</a> — what to spend the budget on instead</li>
+</ul>
+<details class="info">
+<summary>Page metadata</summary>
+<table>
+<thead>
+<tr>
+<th>Field</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>type</code></td>
+<td><code>claim</code></td>
+</tr>
+<tr>
+<td><code>id</code></td>
+<td><code>pooling-repeated-llm-grades-does-not-improve-agreement</code></td>
+</tr>
+<tr>
+<td><code>title</code></td>
+<td><code>Pooling Repeated LLM Grades Does Not Improve Agreement on Short Answers</code></td>
+</tr>
+<tr>
+<td><code>status</code></td>
+<td><code>review</code></td>
+</tr>
+<tr>
+<td><code>generated</code></td>
+<td>by <code>claude/unspecified</code> on <code>2026-10-19</code></td>
+</tr>
+<tr>
+<td><code>trust</code></td>
+<td>unverified — no one has confirmed this page's content</td>
+</tr>
+<tr>
+<td><code>sources</code></td>
+<td>1 — <code>porcaro-2026</code></td>
+</tr>
+</tbody>
+</table>
+<p>Frontmatter is the page's machine-readable record — see the <a href="../../CLAUDE/">Schema &amp; Guide</a>.</p>
+</details>
+</article></main>
+<footer class="lt-footer"><span class="lda-footer-links"><a href="https://www.learningdesignalliance.org">Learning Design Alliance</a> · <a href="https://reports.learningdesignalliance.org">Research reports</a> · <a href="https://wiki.learningdesignalliance.org">Wiki</a> · <a href="https://lazuli.design">Lazuli</a></span> Copyright &copy; Learning Design Alliance — content licensed CC BY-SA 4.0</footer>
+</body>
+</html>
