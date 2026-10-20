@@ -41,7 +41,7 @@ TEMPLATE = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title} - Learning Design Wiki</title>
-<link rel="icon" href="{rel}branding/lda-favicon.png">
+<link rel="icon" href="{rel}branding/lda-monogram-dawn.svg" type="image/svg+xml">
 {css}
 <style>
 .lt-header{{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}}

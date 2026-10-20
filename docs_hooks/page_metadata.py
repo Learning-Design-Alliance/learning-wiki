@@ -234,12 +234,33 @@ def _evidence_legend(meta=None) -> str:
     ])
 
 
+def _break_banner_lines(markdown: str) -> str:
+    """End each line of the banner under the H1 with a hard break.
+
+    The banner is consecutive blockquote lines (`> **Claim** · ...` then `> **Evidence** · ...`),
+    which markdown joins into one paragraph, so the Evidence line ran on after "All claims".
+    Only the first blockquote after the H1 is touched, and only its `> **Label**` lines."""
+    lines = markdown.split("\n")
+    i = next((n for n, l in enumerate(lines) if l.startswith("# ")), None)
+    if i is None:
+        return markdown
+    j = i + 1
+    while j < len(lines) and not lines[j].strip():
+        j += 1
+    while j + 1 < len(lines) and lines[j].startswith("> **") and lines[j + 1].startswith("> **"):
+        lines[j] = lines[j].rstrip() + "  "
+        j += 1
+    return "\n".join(lines)
+
+
 def on_page_markdown(markdown: str, page, config, files) -> str:
     if page.file.src_path.split("/")[-1] in SKIP_BASENAMES:
         return markdown
     meta = page.meta or {}
     if not meta.get("type"):
         return markdown          # not a content page
+
+    markdown = _break_banner_lines(markdown)
 
     # Claim pages get the q/i key inserted right under ## Subclaims, which is
     # where the bare codes are read. Appending it at the bottom would put the
