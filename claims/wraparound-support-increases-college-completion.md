@@ -44,3 +44,4 @@ In its wraparound supports section, the scan reports, citing MDRC research publi
 - Faculty contact relates to retention: part-time instruction lowers odds, interaction frequency raises intent to stay — related
 - Wraparound SES math gains are notable for Hispanic, female, and Title I students — related
 - [Belonging Interventions Improve Outcomes](belonging-interventions-improve-outcomes.md) — related
+- [No published research describes colleges using segmentation to improve student success, though authors and experts see promise in the approach](no-published-segmentation-application-example.md) — related

@@ -43,4 +43,4 @@ The report cites the Trends in International Mathematics and Science Study, an a
 
 
 ## Related Claims
--
+- [Girls show less confidence and interest in math and science from early adolescence, and a strong math/science self-concept predicts course choice and performance for both genders](girls-confidence-interest-gap-self-concept-predicts-choices.md) — related

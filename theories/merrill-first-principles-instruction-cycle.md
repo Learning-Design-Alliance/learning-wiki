@@ -45,6 +45,7 @@ The article builds on previously identified first principles of instruction, whi
 - [First Principles of Instruction](first-principles-of-instruction.md)
 - [Merrill's First Principles of Instruction: four phases revolving around a problem](merrill-first-principles-four-phases-problem.md)
 - [Pebble-in-the-Pond instructional design: a content-first, task-centered development model](pebble-in-the-pond-instructional-design-model.md)
+- [Merrill's first five principles of instruction as the framework for quality teaching and learning](merrill-first-five-principles-framework-sarfo-2010.md)
 
 ## Examples
 

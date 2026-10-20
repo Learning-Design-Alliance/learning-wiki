@@ -44,7 +44,8 @@ The article presents Complex Dynamic Systems Theory (CDST) as an explanatory fra
 - [Cognitive Linguistics as a usage-based model of language in which meaning motivates form](cognitive-linguistics-usage-based-meaning-motivates-form.md)
 
 ## Examples
--
+
+- [Future CDST research should examine learner-environment interactions and define systems on a principled basis](../strategies/future-cdst-research-learner-environment-interaction.md)
 
 ## Key Sources
 - Shetye, S. (2023). Interconnected Dynamic Components of Learner Language. Studies in Applied Linguistics & TESOL at Teachers College, Columbia University, 22(2), 15-18. https://www.tc.columbia.edu

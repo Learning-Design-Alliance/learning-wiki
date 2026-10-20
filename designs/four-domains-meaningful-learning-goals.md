@@ -17,7 +17,7 @@ sources:
 # Four domains central to meaningful learning goals
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report defines meaningful 21st century learning goals through four domains: "Both research and local knowledge suggest four specific domains that are central to meaningful learning" — high-level cognitive skills in core academic disciplines; culturally and linguistically responsive curriculum and instruction; social and emotional learning developing self-regulation, collaboration, problem-solving, conflict resolution, perseverance, and resilience; and pathways integrating college and career preparation. It recommends a whole-child approach that improves academic opportunities, affirms cultural and linguistic identities, supports well-being, and redesigns high schools through integrated pathways.
@@ -37,7 +37,8 @@ The report defines meaningful 21st century learning goals through four domains: 
 - Higher-order thinking and deeper learning in the disciplines, culturally and linguistically responsive learning, social and emotional competencies, and college and career readiness
 
 ### Claims
-- 
+
+- [Critical thinking, problem solving, and decision making appear in all seven reviewed frameworks](../claims/critical-thinking-in-all-seven-frameworks.md) [+W]
 
 ## Related Designs
 - 

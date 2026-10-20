@@ -43,4 +43,7 @@ Narrative review attributing to Järvenoja et al. (2018) a multi-tier video codi
 
 
 ## Related Claims
--
+- [A negative-emotion alert followed by cognitive-affective reframing of the task coincided with branching of one student's engagement structure from completion-oriented to exploratory engagement](alert-reframing-branches-engagement-structure.md) — a narrower finding that bears on this claim
+- [Case analysis shows regulation strategies did not always align with the challenges faced, leading to recurring difficulties within the group](regulation-misalignment-recurring-group-difficulties.md) — a narrower finding that bears on this claim
+- [Affective reinforcement after a negative alert coincided with stabilization of an ongoing engagement structure, producing a brief affective shift from confusion to reassurance that returned to confusion](affective-reinforcement-stabilizes-engagement-structure.md) — a narrower finding that bears on this claim
+- [Social flow and group flow were sustained and even strengthened as task challenge increased in the game's algebraic stages](flow-sustained-as-challenge-increases.md) — related

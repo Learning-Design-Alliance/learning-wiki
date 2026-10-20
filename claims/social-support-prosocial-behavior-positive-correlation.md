@@ -45,3 +45,7 @@ Pearson correlation analysis in the 1171-adolescent survey. The article reports 
 ## Related Claims
 
 - [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](empathy-social-support-positive-correlation-adolescents.md)
+- [Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)](empathy-prosocial-behavior-positive-correlation-adolescents.md) — related
+- [Objective support was not significantly correlated with utilization of support or prosocial behavior](objective-support-null-correlation-prosocial.md) — related
+- [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](subjective-support-dimension-mediation.md) — related
+- [Social support partially mediates the relationship between empathy and prosocial behavior](social-support-partial-mediator-empathy-prosocial.md) — related

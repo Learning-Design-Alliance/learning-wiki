@@ -44,3 +44,4 @@ The report's review of research context across WWC-reviewed interventions report
 
 ## Related Claims
 - The Exact Path evaluation sample was demographically diverse, including 42% African American, 47% economically disadvantaged, and 22% ESE students — related
+- [Effects were larger in intervention schools with a higher percentage of economically disadvantaged students or a lower percentage of White students](assistments-school-composition-moderators.md) — related

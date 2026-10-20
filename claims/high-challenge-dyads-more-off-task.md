@@ -43,4 +43,4 @@ Mann-Whitney U test on relative frequencies of off-task verbal turns for the 18 
 
 
 ## Related Claims
--
+- [High-cognition appears only in the low challenge process model and off-task activities only in the high challenge process model](high-cognition-only-low-challenge-model.md) — related

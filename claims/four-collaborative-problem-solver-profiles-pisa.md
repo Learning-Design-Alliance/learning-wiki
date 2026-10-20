@@ -51,3 +51,4 @@ The editorial reports, citing Ma, Zhang, Ni and Zhou, a latent profile analysis 
 - [Gaussian Mixture Modeling identifies two latent clusters of delayed start behavior, outperforming three-cluster and unimodal models](gmm-two-clusters-delayed-start.md) — related
 - [Latent profile analysis identifies three career adapt-abilities subgroups (low, moderate, high) among English majors](three-career-adapt-abilities-latent-profiles-english-majors.md) — related
 - [Latent profile analysis of six AI-attitude indicators yields four profiles: Positive Empowerment, Anxious Acceptance, Low-Perception Detached, and High-Perception High-Vigilance](four-ai-attitude-latent-profiles-university-students.md) — related
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related

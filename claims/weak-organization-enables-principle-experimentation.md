@@ -43,4 +43,4 @@ Episode analysis of group 4 shows one student (Vera) introduced a graphical prin
 
 
 ## Related Claims
--
+- [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — related

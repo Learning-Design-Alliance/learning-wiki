@@ -43,4 +43,4 @@ ANOVA on Study 1 data (153 students after exclusions; 70 game, 83 non-game) comp
 
 
 ## Related Claims
--
+- [No significant gender difference in gaming the system appears in the non-game control condition or in the problem-solving step](no-gender-gaming-difference-nongame-and-problem-solving.md) — related

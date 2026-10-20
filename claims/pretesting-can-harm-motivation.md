@@ -81,3 +81,4 @@ Janelli, M., & Lipnevich, A. A. (2021). Effects of pre-tests and feedback on per
 - About half of assigned adults dropped out before post-testing, and non-completers differed initially from completers — related
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](planning-prompts-increase-mooc-completion.md) — related
 - [In chemistry cycle 1, students actively engaged in experimentation still did worse on the volume-rate item, with correct answers falling 6% from pre-test to post-test](active-engagement-insufficient-cycle1-volume-item.md) — related
+- [Long-term learning gains may be optimized in collaborative situations that display discouraging short-term process costs](process-costs-tradeoff-long-term-gains.md) — related

@@ -44,4 +44,4 @@ Hayashi, Y. (2020). Gaze awareness and metacognitive suggestions by a pedagogica
 
 
 ## Related Claims
--
+- [Gaze feedback and PCA suggestions show no interaction effect on the collaborative process ratings](no-gaze-pca-interaction-on-process.md) — related

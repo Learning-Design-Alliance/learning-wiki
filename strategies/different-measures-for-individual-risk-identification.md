@@ -43,6 +43,7 @@ Because the KEI threshold produced many individual-level misclassifications, the
 ## Related Strategies
 
 - [Apply the established KEI threshold to future kindergarten cohorts to track changes in the percentage of students on-track for grade 3 reading proficiency](apply-kei-threshold-cohort-tracking.md)
+- [Regularly examine the validity of classification instruments and procedures, monitoring accuracy for student groups prone to classification errors](monitor-el-classification-validity-vulnerable-groups.md)
 
 ## Examples
 -

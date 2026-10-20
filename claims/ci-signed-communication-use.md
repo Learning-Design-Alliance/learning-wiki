@@ -65,3 +65,4 @@ From the step-wise regression analyses of parent survey data. The authors call f
 
 - [Parents' postimplant experiences of children's outcomes largely matched their preimplant expectations, with about four fifths reporting expectations met](ci-parent-expectations-matched-experiences.md)
 - [Parents experienced more rehabilitation stress than they had expected before their children's implantation](ci-rehabilitation-stress-exceeded-expectations.md)
+- [Children with cochlear implants had difficulty following spoken conversation in groups, with teachers reporting far more difficulty than parents](ci-group-conversation-difficulty.md) — related

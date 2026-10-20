@@ -43,4 +43,4 @@ The review reports a neural-network modeling analysis of students' self-regulati
 
 
 ## Related Claims
--
+- [Neural network models predicted students' writing performance groups with 94–100% accuracy from self-regulation characteristics](neural-networks-predict-writing-performance-groups.md) — possibly the same claim (merge candidate)

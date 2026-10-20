@@ -71,3 +71,4 @@ The review reports Scala et al.'s (2025) randomised experiment comparing human-o
 - [Metacognitive self-regulation mediates the relationships between all three AI interaction mechanisms and both higher-order outcomes](msr-mediation-ai-interaction-outcomes.md) — related
 - [Need for cognition correlates positively with critical genAI use and negatively with perceived usefulness of genAI](nfc-correlates-critical-use-and-skeptical-usefulness.md) — related
 - [The Struggling profile exhibited a fragmented AI-support pattern, with strong ENA connections between foundational scaffolding and irrelevant/off-task responses alongside cognitive offloading and collaborative impasse](struggling-profile-fragmented-ai-support-pattern.md) — related
+- [Systematic review of 43 investigations finds no consistent evidence that higher education produces more critical analytic ways of thinking](no-consistent-evidence-higher-education-deeper-approaches.md) — related

@@ -40,7 +40,8 @@ Alder's curriculum is organized around four Program Learning Outcomes: asset-bas
 - 
 
 ## Related Designs
-- 
+
+- [Sanger STaR integrated two-semester curriculum: eleven courses consolidated into two yearlong integrated courses, saving residents roughly $4,000](sanger-star-integrated-two-semester-curriculum.md)
 
 ## Examples
 -

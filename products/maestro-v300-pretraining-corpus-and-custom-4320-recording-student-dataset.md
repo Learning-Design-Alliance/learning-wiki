@@ -24,7 +24,8 @@ The MAESTRO corpus is a public collection of MIDI-aligned solo-piano performance
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [MUSE: a 12-task benchmark of artistic image understanding for situated education](muse-a-12-task-benchmark-of-artistic-image-understanding-for-situated-education.md)
 
 ## Key Sources
 - Zhu Z, Luo C and Li L (2026) Adaptive teaching assistance model combining generative AI and big data analytics. Front. Psychol. 17:1844703. https://doi.org/10.3389/fpsyg.2026.1844703

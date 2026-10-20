@@ -49,3 +49,4 @@ Results section (Table 2) reports subtest-level means for the CI-HS sample: Comp
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
 - [Verbal reasoning subtest scores of long-term CI users increased from elementary grades to high school beyond expected age-related growth](ci-verbal-reasoning-gains-exceed-expected-growth.md) — related
 - [71% of adolescent long-term CI users obtain verbal IQs within or above one standard deviation of hearing age-mates](ci-adolescents-viq-within-normal-range.md) — related
+- [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related

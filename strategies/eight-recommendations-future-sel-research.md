@@ -17,7 +17,7 @@ sources:
 # Eight research-design recommendations for the next generation of SEL research
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report recommends eight areas of research conceptualization, design, and analysis for future SEL research: meeting Tier I or II ESSA criteria, seeking large enough samples to detect low-rate events, examining impacts on development over time, looking beyond main effects to subgroup effects, identifying how programs promote equity and cultural competence, replicating developer-involved studies independently, using reliable multi-outcome assessments that test the intervention's logic model, and considering additional benchmarks of impact beyond conventional effect sizes.
@@ -39,8 +39,13 @@ The report recommends eight areas of research conceptualization, design, and ana
 - improving the evidence base for SEL programs
 - understanding for whom and under what conditions SEL works
 
+## Claims
+
+- [Program and delivery characteristics moderate SEL effects: implementation quality, duration, skill practice, and delivery agent](../claims/sel-effects-moderators-implementation-delivery.md) [+M]
+
 ## Related Strategies
-- 
+
+- [Implement SEL systemically as a public health approach with shared vision, adult SEL, aligned programs, and continuous improvement](systemic-sel-public-health-implementation.md)
 
 ## Examples
 -

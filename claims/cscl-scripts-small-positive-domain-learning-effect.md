@@ -87,3 +87,5 @@ Random-effects meta-analysis of 33 effect sizes from 21 articles comparing CSCL-
 ## Related Claims
 
 - [The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation](cscl-scripts-motivation-non-significant-meta-analysis.md)
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — related
+- [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related

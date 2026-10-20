@@ -17,7 +17,7 @@ sources:
 # Dedicate time each day to math and integrate math instruction throughout the school day
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The guide's fifth recommendation tells teachers to "Dedicate time each day to teaching math, and integrate math instruction throughout the school day." Its sub-strategies are to plan daily instruction targeting specific math concepts, embed math in classroom routines and activities, highlight math within topics of study across the curriculum, create a math-rich environment where children can meaningfully apply math, and use games to teach and give practice in math concepts and skills.
@@ -36,8 +36,13 @@ The guide's fifth recommendation tells teachers to "Dedicate time each day to te
 ### Target Learning Goals
 - applying math concepts and skills across everyday contexts and content areas
 
+## Claims
+
+- [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](../claims/number-operations-instruction-improves-early-math-achievement.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Use progress monitoring to tailor math instruction to each child's position on a developmental progression](progress-monitoring-tailor-early-math-instruction.md)
 
 ## Examples
 -

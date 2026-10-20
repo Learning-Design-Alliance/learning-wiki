@@ -43,4 +43,6 @@ The editorial reports, attributing to Saab et al., that "in one condition that t
 
 
 ## Related Claims
--
+- [Team regulation correlates positively with learning results only in the CHT condition](team-regulation-learning-results-correlation-cht.md) — a narrower finding that bears on this claim
+- [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
+- [Regulation of social activities positively affected group performance (Janssen et al.)](social-activities-regulation-group-performance.md) — related

@@ -109,3 +109,5 @@ A registered systematic review of single (acute) bouts of classroom movement bre
 - [Daily moderate-to-vigorous physical activity is associated with better executive functioning in boys with ADHD](mvpa-associated-executive-function-adhd-boys.md) — related
 - [Systematic reviews on regular physical activity and children's cognition reach conflicting conclusions, with math performance the most consistent beneficiary](pa-cognition-evidence-inconclusive-except-math.md)
 - [Classroom active breaks show no reliable effect on mathematical fluency](active-breaks-null-effect-mathematical-fluency.md) — related
+- [Intervention studies show stronger physical-activity effects on children's cognition than correlational studies](intervention-studies-stronger-than-correlational-physical-activity-cognition.md) — reports the opposite
+- [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — related

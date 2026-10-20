@@ -43,4 +43,6 @@ This interpretive conclusion integrates both studies: the two-factor CFA in Stud
 
 
 ## Related Claims
--
+- [Baseline intercorrelations among the six tests were small, suggesting the battery covered relatively independent cognitive processes](baseline-intercorrelations-independent-processes.md) — related
+- [Children use qualitatively different strategies from adults for flexible cognition, shifting control strategies around 8 to 9 years of age](children-qualitatively-different-flexibility-strategies.md) — related
+- [Children's cognitive flexibility improved on average from preschool to first grade](cognitive-flexibility-increases-preschool-to-first-grade.md) — related

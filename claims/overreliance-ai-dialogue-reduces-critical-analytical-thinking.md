@@ -53,3 +53,4 @@ Systematic review synthesis answering research question 1, integrating findings 
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Nursing students and faculty report concerns that AI use may weaken critical thinking, enable plagiarism and misinformation, and create unequal access](ai-concerns-critical-thinking-plagiarism-nursing.md) — a narrower finding that bears on this claim
 - [GenAI shows a dual-mechanism profile: meta-analytic learning benefits coexist with dependence-related costs to critical thinking](genai-dual-mechanism-amplifier-substitute.md) — related
+- [Systematic review of 43 investigations finds no consistent evidence that higher education produces more critical analytic ways of thinking](no-consistent-evidence-higher-education-deeper-approaches.md) — related

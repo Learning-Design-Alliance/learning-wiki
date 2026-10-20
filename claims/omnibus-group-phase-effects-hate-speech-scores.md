@@ -43,4 +43,7 @@ Fixed-value omnibus tests (Table 2) on mean scores per group, question and phase
 
 
 ## Related Claims
--
+
+- [The large online group showed significant score improvements from phase onward on question 1 while the smaller groups did not, indicating collective intelligence capacity emerged in the large group](collective-intelligence-large-group-hate-speech-improvement.md)
+- [Mean answer scores in the large group rose continually across the interaction phases, especially from phase 4 onward, but stagnated on question 3](large-group-mean-scores-rose-phases.md)
+- [The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2](small-groups-no-improvement-hate-speech-scores.md)

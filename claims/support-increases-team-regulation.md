@@ -68,3 +68,4 @@ Bonferroni post hoc analysis following the MANCOVA compared team regulation freq
 - [RIDE instruction shows no direct effect on discovery learning results (SWLE or domain knowledge posttest)](ride-instruction-no-direct-effect-learning-results.md) — related
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
 - [Dyads given the full Process Coordinator used the regulative tool about three times as long and twice as often as dyads with the empty version](full-pc-more-frequent-prolonged-regulative-tool-use.md) — related
+- [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related

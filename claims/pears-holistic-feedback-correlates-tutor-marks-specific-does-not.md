@@ -43,4 +43,4 @@ An evaluation study comparing holistic with specific feedback using the PEARS sy
 
 
 ## Related Claims
--
+- [Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis](peer-marks-mean-correlation-069-with-teacher-marks.md) — related

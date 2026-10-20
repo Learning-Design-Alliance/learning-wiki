@@ -46,3 +46,6 @@ Parallel mediation SEM (Fig. 2) on the same sample; fit indexes acceptable (χ2/
 
 - [Objective support was not significantly correlated with utilization of support or prosocial behavior](objective-support-null-correlation-prosocial.md)
 - [Social support partially mediates the relationship between empathy and prosocial behavior](social-support-partial-mediator-empathy-prosocial.md)
+- [Adolescents' empathy is significantly positively correlated with prosocial behavior (r = 0.333)](empathy-prosocial-behavior-positive-correlation-adolescents.md) — a broader claim this one bears on
+- [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](empathy-social-support-positive-correlation-adolescents.md) — related
+- [Social support is significantly positively correlated with adolescents' prosocial behavior (r = 0.206)](social-support-prosocial-behavior-positive-correlation.md) — related

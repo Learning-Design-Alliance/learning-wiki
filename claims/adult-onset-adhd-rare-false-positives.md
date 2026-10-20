@@ -43,4 +43,4 @@ Narrative review section on adult onset ADHD, reporting the conclusion of Sibley
 
 
 ## Related Claims
--
+- [More current comorbid conditions are associated with higher DESR scores in adults with ADHD](dose-response-comorbidity-count-and-desr.md) — related

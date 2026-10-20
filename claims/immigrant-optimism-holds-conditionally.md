@@ -62,4 +62,6 @@ The review reports, citing Pels (1998) and Phalet and Schönpflug (2001b), that 
 
 
 ## Related Claims
--
+
+- [Bicultural identity and integration-type acculturation attitudes are most conducive to minority students' school success, with weak or inconsistent associations for ethnic identification alone](bicultural-identity-integration-school-success.md)
+- [The attitude-achievement paradox: disadvantaged minority youth may show low achievement despite high motivation to achieve upward mobility through schooling](attitude-achievement-paradox-minority-youth.md)

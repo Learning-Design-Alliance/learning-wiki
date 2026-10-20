@@ -40,6 +40,7 @@ The report recommends that practitioners receive "scheduled and consistent copla
 
 - [Administrators sustain high-quality Tier 1 Core Instruction by creating conditions, structural supports, and a sitewide culture valuing dual-language learning](administrator-supports-tier1-core-instruction.md)
 - [Fund collaborative participatory teams and broaden dissemination to bridge edtech design and research for MLLs](participatory-collaborative-funding-bridge-mll-design-research.md)
+- [Train elementary school teachers in APD symptomatology so they can identify suspected cases and serve on multidisciplinary teams](teacher-training-apd-symptomatology-identification.md)
 
 ## Examples
 -

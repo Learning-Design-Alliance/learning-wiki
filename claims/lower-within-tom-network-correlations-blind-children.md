@@ -62,4 +62,9 @@ One-tailed paired t-tests within the blind group (n=17) comparing within- versus
 
 
 ## Related Claims
--
+- [The condition-dependent response profile of ToM brain regions is quantitatively weaker in blind than sighted children](weaker-tom-region-response-profile-blind-children.md) — related
+- [Blind and sighted children do not differ in performance on false-belief items of the non-visual ToM task](no-group-difference-false-belief-items.md) — related
+- [RTPJ selectivity for mental state content does not differ between blind and sighted children](rtpj-selectivity-similar-blind-sighted-children.md) — related
+- [Congenitally blind children perform slightly less accurately on a non-visual behavioral ToM task than sighted children, controlling for age](blind-children-slightly-lower-tom-task-performance.md) — related
+- [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md) — related
+- [Blind children reason about visually sourced mental states similarly to sighted children](blind-children-similar-visual-experience-items.md) — related

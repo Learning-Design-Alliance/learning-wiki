@@ -45,3 +45,8 @@ Numerical model-fitting (optimization) of the probabilistic population network t
 ## Related Claims
 
 - [A single-parameter change in feed-forward connection strength in a neural decision model captures VGP behavior, including faster RTs with stable accuracy](neural-model-single-parameter-feedforward-captures-vgp.md)
+- [VGPs respond faster than NVGPs with equivalent accuracy, and the RT advantage is larger at low motion coherence](vgp-faster-rt-equivalent-accuracy-coherence-interaction.md) — related
+- [Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task](vgp-greater-integration-rate-motion-ddm.md) — related
+- [In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts](fixed-duration-faster-accuracy-rise-vgp.md) — related
+- [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related
+- [Fifty hours of action video-game training causally improves probabilistic inference in non-gamers, with better use of evidence only in the action-trained group](action-training-causal-probabilistic-inference.md) — related

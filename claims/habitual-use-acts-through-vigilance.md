@@ -81,4 +81,7 @@ Two-group PLS-SEM results; habit predicted longer average use duration only when
 
 
 ## Related Claims
--
+- [Smartphone settings moderate how vigilance translates into phone use: vigilance raises checking frequency more when notifications are revealed, and use duration more when notifications are hidden](settings-moderate-vigilance-phone-use-link.md) — related
+- [Students with visible notifications check their phones more frequently in class than students with hidden notifications](notification-revealed-higher-phone-use-frequency.md) — related
+- [Phone-use behavior under hidden notifications is highly heterogeneous: about half of NH students abstained entirely, and most NR checks were brief glances](heterogeneous-phone-use-under-hidden-notifications.md) — related
+- [Notification-hidden students showed longer average phone-use duration and no performance difference versus notification-revealed students](no-performance-difference-notification-settings.md) — related

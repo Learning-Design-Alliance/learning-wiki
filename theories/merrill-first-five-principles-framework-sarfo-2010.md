@@ -40,10 +40,19 @@ The article adopts Merrill's first principles of instruction as its organizing f
 ### Claims
 
 ## Related Theories
-- 
+
+- [Merrill's First Principles of Instruction: four phases revolving around a problem](merrill-first-principles-four-phases-problem.md)
+- [First Principles of Instruction](first-principles-of-instruction.md)
+- [First principles of instruction: a cycle of activation, demonstration, application, and integration in the context of real-world tasks](merrill-first-principles-instruction-cycle.md)
 
 ## Examples
--
+
+- [4C/ID (Four-Component Instructional Design)](../patterns/4cid-four-component-instructional-design.md)
+- [Learning Tasks](../elements/learning-tasks.md)
+- [Integration](../elements/integration.md)
+- [Application of Knowledge](../elements/application-of-knowledge.md)
+- [Application](../elements/application.md)
+- [Enhance retention and transfer](../elements/enhance-retention-and-transfer.md)
 
 ## Key Sources
 - Sarfo, F. K., & Ansong-Gyimah, K. (2010). The perceptions of students, teachers, and educational officers in Ghana on the role of computer and the teacher in promoting the first five principles of instruction. The Turkish Online Journal of Educational Technology, 9(3). https://www.tojet.net

@@ -30,7 +30,8 @@ Innovamat's PreK–8 mathematics curriculum package combines socio-constructivis
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [OGAP Math](ogap-math.md)
 
 ## Key Sources
 - Thinking Math! (Innovamat core curriculum) evidence rating summary. (2025). https://evidenceforessa.org/program/innovamat-2/

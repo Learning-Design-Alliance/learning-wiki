@@ -43,4 +43,4 @@ Senior survey item on hours of homework per week; the report states "Nationally,
 
 
 ## Related Claims
--
+- [Parental involvement declines as students move from eighth to tenth grade in Chicago and nationally](parental-involvement-declines-high-school-transition.md) — related

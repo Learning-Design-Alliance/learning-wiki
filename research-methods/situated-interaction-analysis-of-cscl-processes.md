@@ -38,6 +38,7 @@ The editorial's closing design recommendation for CSCL research: computer-suppor
 - [Thick description as the analytic basis for understanding transactive discourse](thick-description-as-the-analytic-basis-for-understanding-transactive-discourse.md)
 - [Interpersonal multilevel analysis of regulation in collaborative learning](interpersonal-multilevel-analysis-of-regulation-in-collaborative-learning.md)
 - [PISA collaborative problem-solving framework](pisa-collaborative-problem-solving-framework.md)
+- [Data sessions and multiple experienced analysts for intersubjective validation](data-sessions-and-multiple-experienced-analysts-for-intersubjective-validation.md)
 
 ## Key Sources
 - Gerry Stahl & Friedrich Hesse. (2010). Beyond folk theories of CSCL. Computer-Supported Collaborative Learning. https://doi.org/10.1007/s11412-010-9098-0

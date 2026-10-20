@@ -46,3 +46,4 @@ Coding of cognitive challenges across the 37 included studies. The review report
 - [Authentic assessment designs in higher education predominantly replicate professional workplace scenarios, with few addressing social authenticity](aa-designs-predominantly-professional-authenticity.md) — related
 - [Formative feedback dominates authentic assessment designs while sustainable feedback is rare](aa-formative-feedback-dominates-sustainable-rare.md) — related
 - [Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration](aa-social-collaboration-limited-community-connection.md) — related
+- [Critical thinking, problem solving, and decision making appear in all seven reviewed frameworks](critical-thinking-in-all-seven-frameworks.md) — related

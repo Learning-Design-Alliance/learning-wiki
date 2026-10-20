@@ -47,3 +47,4 @@ Laboratory study with 44 learners studying about artificial intelligence in educ
 - [A theory-driven trace-based SRL measurement achieved a match rate of 38.97% with think aloud data when evaluated against think aloud as reference point](theory-driven-srl-trace-measurement-low-match-rate.md) — related
 - [Substantial differences existed between the time distribution of trace-extracted and think aloud-coded SRL processes: 41.66% of session duration had no think aloud code while only 3.19% had no trace process](time-distribution-differences-trace-vs-thinkaloud.md) — related
 - [Adding think-aloud data to theory prompts improves GPT-4o codebook completeness and alignment with the data](theory-plus-data-prompting-improves-codebook.md) — related
+- [Only nine of 66 reviewed studies specified a theoretical basis, with seven using regulation of learning theory and two using Community of Inquiry](nine-studies-theoretical-bases-individual-participation.md) — related

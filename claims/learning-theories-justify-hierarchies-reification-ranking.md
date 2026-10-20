@@ -43,4 +43,4 @@ Theoretical argument in the article's framing section, drawing on Gould (1996), 
 
 
 ## Related Claims
--
+- [Behaviorism was explicitly a theory of society, articulated in opposition to eugenics](behaviorism-explicit-theory-of-society-anti-eugenics.md) — related

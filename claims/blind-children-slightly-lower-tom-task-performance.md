@@ -43,4 +43,4 @@ Behavioral ToM task administered outside the scanner to 12 blind and 21 sighted 
 
 
 ## Related Claims
--
+- [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related

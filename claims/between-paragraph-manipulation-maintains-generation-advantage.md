@@ -43,4 +43,5 @@ Mixed-design experiment with 68 students in which encoding task switched between
 
 
 ## Related Claims
--
+- [Experiencing a generation advantage on a first test eliminates the generation advantage on a subsequent test by improving recall of read items](experiencing-generation-advantage-eliminates-it-on-later-test.md) — related
+- [Participants who consciously notice a generation advantage after a first test tend to eliminate it on a second test](noticing-generation-advantage-predicts-strategy-change.md) — related

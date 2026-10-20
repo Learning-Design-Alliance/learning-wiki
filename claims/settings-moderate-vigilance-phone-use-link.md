@@ -64,3 +64,4 @@ PLS-SEM moderation test on all 84 participants; the Group×SV interaction on ave
 ## Related Claims
 
 - [Phone-use frequency and duration increase phone-use mental effort, which negatively affects learning performance, mediating the behavior–performance link](mental-effort-mediates-phone-use-learning-cost.md)
+- [Habitual phone use heightens smartphone vigilance but does not directly increase checking frequency; it lengthens use duration only when notifications are hidden](habitual-use-acts-through-vigilance.md) — related

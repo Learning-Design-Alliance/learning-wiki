@@ -17,7 +17,7 @@ sources:
 # Design teacher PD on SRL to combine situated learning with cognitive instruction, and use short workshops as an economical entry point
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that teacher interventions on SRL promotion combine both research traditions: "intervention studies are needed that combine situated learning and cognitive instruction (see Vosniadou, 2001) as methods of teachers' PD program". It further argues that short workshops are worth investigating because "Even short workshops of a few hours produce effects (e.g., Bernacki et al., 2020)", and that evaluation should cover teachers' competence development rather than only classroom practice, and include teacher and student perspectives.
@@ -35,6 +35,10 @@ The article recommends that teacher interventions on SRL promotion combine both 
 
 ### Target Learning Goals
 - Teachers' competence and practice in promoting students' self-regulated learning
+
+## Claims
+
+- [An 8-hour SRL teacher training improved teachers' self-efficacy to foster SRL and perceived SRL practice, but not student-level outcomes](../claims/srl-training-teacher-level-not-student-level-effects.md) [+W]
 
 ## Related Strategies
 - 

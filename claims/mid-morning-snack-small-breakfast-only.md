@@ -45,3 +45,5 @@ The review describes an acute experimental study (attributed to Benton and Jarvi
 ## Related Claims
 
 - [A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period](low-gl-breakfast-on-task-shortlived.md)
+- [Acute experimental studies show inconsistent effects of breakfast on classroom behavior, with three of seven showing an on-task advantage](acute-breakfast-classroom-behavior-inconsistent.md) — related
+- [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — a broader claim this one bears on

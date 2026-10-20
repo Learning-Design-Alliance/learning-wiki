@@ -117,6 +117,7 @@ Achievement emotions are the emotions learners feel about learning activities (e
 ## Examples
 
 - [Adapt tutor responses to detected learner affect: leading hints for frustration, engaging hooks for boredom, and timed intervention for confusion](../strategies/affect-sensitive-autotutor-responses.md)
+- [AEQ-ES adapted to English as L2 for primary school children](../products/aeq-es-adapted-to-english-as-l2-for-primary-school-children.md)
 
 ## Key Sources
 - Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A systematic review of meta-analyses. *Learning and Individual Differences, 118*, 102621. [doi:10.1016/j.lindif.2024.102621](https://doi.org/10.1016/j.lindif.2024.102621)

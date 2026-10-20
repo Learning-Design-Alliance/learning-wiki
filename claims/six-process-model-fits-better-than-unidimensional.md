@@ -42,3 +42,4 @@ CFA with theta parameterization and WLSMV estimator on the online figurative tes
 
 ## Related Claims
 - [Tutor ratings do not entirely tap one underlying trait; one- and two-factor models fit unsatisfactorily](tutor-rating-factors-not-one-trait.md) — related
+- [The hierarchical model of Similarity, Dissimilarity, and Integration is empirically supported with domain-general figurative items](hierarchical-similarity-dissimilarity-integration-confirmed-figurative.md) — related

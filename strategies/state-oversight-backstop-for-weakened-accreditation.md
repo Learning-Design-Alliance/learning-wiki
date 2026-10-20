@@ -40,6 +40,8 @@ Because the forthcoming regulations are set to weaken accreditors' ability to fu
 ## Related Strategies
 
 - [Stakeholders should use both ED's rulemaking comment period and accreditors' own standards-revision input processes to advocate for opportunity-expanding policies](stakeholder-engagement-rulemaking-and-accreditor-comment-processes.md)
+- [State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements](state-choice-quality-and-equity-safeguards.md)
+- [Retain, strengthen, and improve statewide choice options, with urgent state action on information, oversight, and funding equity](retain-strengthen-improve-choice-options.md)
 
 ## Examples
 -

@@ -65,3 +65,6 @@ Comparing STEM vs. non-STEM students within the expository condition, effect siz
 
 - [Narrative and expository instruction produce no significant differences in recall or understanding of biological concepts](narrative-expository-no-recall-understanding-difference.md)
 - [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md)
+- [Prior biology knowledge tentatively moderates material effectiveness: non-STEM students favor narratives, STEM students favor expository texts for recall and understanding](prior-knowledge-moderates-narrative-effectiveness.md) — possibly the same claim (merge candidate)
+- [Narrative instruction leads to higher germane cognitive load and self-efficacy, and lower extraneous cognitive load, than expository instruction](narrative-instruction-learning-mechanisms-cognitive-load-self-efficacy.md) — related
+- [Background knowledge has a greater impact on comprehension of expository texts than narrative texts for primary children](knowledge-impact-greater-expository-narrative.md) — related

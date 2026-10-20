@@ -44,4 +44,5 @@ Correlational analysis in the online study (N = 425) with BCa bootstrapped confi
 
 
 ## Related Claims
--
+- [Self-assessed creative performance and self-assessed idea creativity are moderately correlated but empirically distinct judgments](performance-and-idea-self-assessments-moderately-related.md) — related
+- [Higher divergent thinking, creative self-efficacy, creative self-concept, and task motivation predict more positive self-assessed creative performance](predictors-of-self-assessed-creative-performance.md) — related

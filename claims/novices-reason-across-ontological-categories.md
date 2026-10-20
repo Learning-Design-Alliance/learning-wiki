@@ -44,3 +44,5 @@ The article's central thesis, argued from examples of everyday speech, classroom
 
 ## Related Claims
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
+- [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related
+- [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related

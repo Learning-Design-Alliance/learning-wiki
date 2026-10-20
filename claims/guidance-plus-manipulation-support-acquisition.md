@@ -46,3 +46,6 @@ Authors' overall interpretation of the 72-student Tarski's World experiment, sta
 
 - [Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional](guidance-improves-posttest-logic-conditional.md)
 - [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md)
+- [A systematic review argues that concrete materials aid mathematics and science learning when they are explicitly and gradually connected to the abstract symbols they represent](manipulatives-require-connection-to-concept.md) — related
+- [Combining tangible puppets as mediating manipulatives with 3D manipulable animations fostered immediate transfer of imaginary students' perspectives in microteaching role-plays](puppets-3d-manipulatives-perspective-taking-transfer.md) — related
+- [In the underlying laboratory study, only expository instruction combined with probes produced CVS learning, with transfer limited by grade level](lab-expository-instruction-probes-effective.md) — related

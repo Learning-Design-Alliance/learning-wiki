@@ -17,7 +17,7 @@ sources:
 # Target school engagement and psychological distress as early, changeable intervention points for violence-exposed adolescents
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 3 studies (2 review, 1 associational), `q2`–`q3` · 0 of 3 report an effect size · 5 claims rest on one study
 
 ## Description
 Because school engagement is more malleable than cumulative achievement, the authors propose using decreased school connectedness and psychological distress as early warning signs and intervention targets for violence-exposed youth. They suggest teachers' efforts to support and motivate students may promote engagement, which "in turn, also may positively affect academic achievement", and note high teacher support relates to adaptive functioning in exposed adolescents, pointing toward multi-system family-school coordination.
@@ -42,6 +42,8 @@ Because school engagement is more malleable than cumulative achievement, the aut
 - [Earlier community violence exposure inversely predicts later school engagement, but earlier school engagement does not predict later community violence exposure](../claims/community-violence-predicts-lower-later-school-engagement-unidirectional.md) [+W]
 - [Externalizing and internalizing symptoms, but not posttraumatic stress symptoms, mediate the association between community violence exposure and later school engagement](../claims/internalizing-externalizing-symptoms-mediate-violence-engagement.md) [+W]
 - [School engagement partially mediates the association between earlier community violence exposure and later cumulative GPA](../claims/school-engagement-partially-mediates-violence-gpa-link.md) [+W]
+- [Strong early-warning monitoring systems paired with strong norms and routines help students recover emotionally and engage academically](../claims/early-warning-systems-norms-routines-support-recovery.md) [+W]
+- [Positive developmental relationships and school connectedness protect against violence, absenteeism, and substance abuse, and increase threat reporting](../claims/positive-relationships-protect-against-violence.md) [+W]
 
 ## Related Strategies
 - 

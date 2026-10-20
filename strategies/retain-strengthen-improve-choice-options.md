@@ -39,6 +39,7 @@ The report's central recommendation is that Minnesota "retain, strengthen and im
 ## Related Strategies
 
 - [State policymakers should pair any choice expansion with quality controls, equitable access safeguards, integration management, and research and evaluation requirements](state-choice-quality-and-equity-safeguards.md)
+- [State policymakers should strengthen their own oversight capacity as accreditors' watchdog role weakens](state-oversight-backstop-for-weakened-accreditation.md)
 
 ## Examples
 -

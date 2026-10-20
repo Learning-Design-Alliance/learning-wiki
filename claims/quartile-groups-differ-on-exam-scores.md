@@ -43,4 +43,7 @@ The 482 students were divided into quartiles by first-unit exam score (high n = 
 
 
 ## Related Claims
--
+- [The six clusters differ substantially in academic performance: Final Grade ANOVA η² = 0.770, with C0 exceeding C1 by 40.17 exam-score points](cluster-performance-anova-tukey.md) — related
+- [Low-performing students access solutions more often than higher-performing students, while hint access does not differ across quartiles](solution-access-differs-hints-do-not.md) — related
+- [Exam score predictions decreased from the start to the end of the course for all performance quartiles, leaving poor performers overconfident and high performers underconfident](predictions-decrease-over-course-quartiles.md) — related
+- [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md) — related

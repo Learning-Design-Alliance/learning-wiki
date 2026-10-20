@@ -51,3 +51,4 @@ The review's psychometric synthesis (Section 3.3, Table 3) of instruments develo
 - Exploratory factor analysis of survey items yields a unidimensional 9-item AI pedagogical orientation scale with strong reliability — related
 - Critical Evaluation and Dependent reliance emerge as empirically distinct constructs, with near-zero correlation between the two facets — a narrower finding that bears on this claim
 - Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — a narrower finding that bears on this claim
+- [Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments](convergence-key-noncognitive-attributes.md) — reports the opposite

@@ -43,6 +43,9 @@ The review attributes this finding to Schurger & Sher (2008), reporting that par
 
 
 ## Related Claims
+
 - [Many four-cell PDW payoff matrices imply an optimal strategy of always wagering high](many-pdw-matrices-imply-always-wager-high-optimal.md) — related
 - [No-loss gambling and gains-only designs avoid loss-aversion complications in PDW](no-loss-gambling-and-gains-only-designs-avoid-loss-aversion.md) — related
 - [In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal](free-choice-only-extreme-wagers-optimal.md) — related
+- [Most four-cell PDW payoff matrices fulfill the intuitive wagering-on-correctness properties](four-cell-matrices-fulfill-wagering-on-correctness-properties.md) — related
+- [Free-choice wager designs vary widely in wager categories and often match other instruments](free-choice-designs-wager-categories-and-instrument-matching.md)

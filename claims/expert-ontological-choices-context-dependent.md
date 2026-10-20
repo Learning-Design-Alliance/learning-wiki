@@ -43,4 +43,6 @@ The authors cite a plasma physics text (Chen, 1977) and parallel examples from n
 
 
 ## Related Claims
--
+- [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — related
+- [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — a narrower finding that bears on this claim
+- [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related

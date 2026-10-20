@@ -46,3 +46,5 @@ Selectivity analysis in individual-subject and group-defined ToM ROIs comparing 
 
 - [Blind children reason about visually sourced mental states similarly to sighted children](blind-children-similar-visual-experience-items.md)
 - [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md)
+- [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related
+- [The condition-dependent response profile of ToM brain regions is quantitatively weaker in blind than sighted children](weaker-tom-region-response-profile-blind-children.md) — related

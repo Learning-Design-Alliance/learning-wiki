@@ -49,3 +49,4 @@ The editorial reports, from Ingulfsen et al.'s detailed interaction analysis of 
 - [In a CSCL biology problem-solving session, procedural problem solving tended to dominate students' interactions, with conceptual knowledge construction present only where strictly necessary](procedural-dominance-cscl-biology.md) — related
 - [Students perceived online lab exercises as more effective when instructors were present online and used scaffolds and probes directing attention to key procedure aspects](online-labs-better-with-instructor-scaffolds.md) — related
 - [Cognitively oriented challenges dominated student help requests during computer-supported lab work, with 45.1% conceptual and 28.7% cognitive-regulation requests](help-requests-mostly-conceptual-cogreg.md)
+- [A free-flowing online and face-to-face community of teachers, researchers, and students made the expert–novice dialectic visible](cscl-community-expert-novice-dialectic.md) — related

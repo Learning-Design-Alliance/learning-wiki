@@ -43,4 +43,4 @@ Kruskal-Wallis tests on think-aloud protocol codes for the three elaborative sub
 
 
 ## Related Claims
--
+- [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — related

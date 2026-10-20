@@ -46,3 +46,4 @@ Video-based process mining (MAXQDA 24 coding of cognitive and social behaviors) 
 
 - [The mixed algorithm produced groups differing significantly in marker-feature distributions, with shared (overlapping) yellow markers significantly lower than unique yellow markers](marker-feature-distributions-differ-across-groups.md)
 - [In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping](mixed-ga-grouping-greater-vocabulary-gain-efl.md)
+- [A text-mining group and representation tool scaffolds students' learning processes and improves outcomes under specific conditions](grt-text-mining-group-formation-scaffolds-learning.md) — related

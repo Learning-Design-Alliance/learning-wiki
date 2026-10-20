@@ -167,3 +167,4 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [The talking head contributes little to AutoTutor's learning gains; the content of the conversation matters](autotutor-content-matters-not-talking-head.md) — related
 - [Individual-level critical thinking instruction has an unimpressive track record, motivating communal-level intervention](critical-thinking-individual-intervention-unimpressive-track-record.md) — related
 - [Students in an open science citizen science platform gained understanding of experimental design and research ethics but struggled with peer review and aligning methods to questions](open-science-platform-students-gain-design-ethics-struggle-peer-review.md) — related
+- [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — related

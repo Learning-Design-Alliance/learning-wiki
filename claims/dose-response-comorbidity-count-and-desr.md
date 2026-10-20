@@ -49,3 +49,5 @@ Descriptive dose–response analysis in ADHD probands relating the number of cur
 - [DESR overlaps with ODD but is not identified by ODD diagnosis alone in adults with ADHD](desr-overlaps-odd-but-not-identified-by-odd.md) — related
 - [A majority of adults with ADHD show extreme DESR exceeding the 95th percentile of control subjects](extreme-desr-majority-of-adhd-adults.md) — related
 - [Having three or more comorbid psychiatric conditions increases risk for slow processing speed, but a single comorbid condition does not](multiple-comorbidities-increase-slow-ps-risk.md) — related
+- [Adult onset of ADHD is rare and most people exceeding the symptom threshold for diagnosis are, on closer examination, false positives](adult-onset-adhd-rare-false-positives.md) — related
+- [ODD and anxiety co-morbidity predict more severe sensory processing problems in children with ADHD](odd-anxiety-predict-severe-sensory-problems.md) — related

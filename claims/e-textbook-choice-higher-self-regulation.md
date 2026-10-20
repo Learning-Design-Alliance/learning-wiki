@@ -43,4 +43,4 @@ Same causal-comparative MANOVA follow-up on the self-regulation subscale (e-text
 
 
 ## Related Claims
--
+- [Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores](textbook-format-manova-omnibus-difference.md) — a broader claim this one bears on

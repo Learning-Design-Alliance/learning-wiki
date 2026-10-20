@@ -43,7 +43,8 @@ The paper proposes linking Goffman's concept of role distance to Halpin and Crof
 - [Goffman's role distance concept: behaviors perceived as expressing detachment, disaffection, or resistance against a situated role](goffman-role-distance-concept.md)
 
 ## Examples
--
+
+- [Make ambiguous behavioral-science constructs empirically tractable by linking them to better-behaved concepts from related nomological networks](../methods/link-ambiguous-constructs-to-operational-concepts.md)
 
 ## Key Sources
 - Brumbaugh, Robert B. (1968). Authenticity, Role Distance, and Organizational Climate: Toward a Conceptual Clarification. Paper presented at the Annual Meeting of the American Educational Research Association. https://eric.ed.gov/?id=ED026738

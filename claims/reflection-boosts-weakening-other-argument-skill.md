@@ -62,4 +62,4 @@ Individual-level analysis (Table 2) confirmed the group-level result: both condi
 
 
 ## Related Claims
--
+- [The two conditions performed comparably in using evidence to support their own position, the less demanding argument function](support-own-evidence-comparable-across-conditions.md) — related

@@ -78,3 +78,4 @@ A synthesis of eight major meta-analyses of PBL since 1992, reported by the arti
 - [PBL is superior to conventional instruction for long-term retention, according to a meta-synthesis of meta-analyses](pbl-superior-long-term-retention.md) — related
 - [Low-guidance set-ups took longer than high-guidance set-ups in the CVS instruction sessions](low-guidance-longer-time-on-task.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — related
+- [Long-term learning gains may be optimized in collaborative situations that display discouraging short-term process costs](process-costs-tradeoff-long-term-gains.md) — related

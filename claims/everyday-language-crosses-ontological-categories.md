@@ -44,3 +44,5 @@ The authors' linguistic analysis of everyday expressions, drawing on Lakoff and 
 
 ## Related Claims
 - [Material difficulty is not determined solely by element number and interactivity](difficulty-beyond-element-interactivity.md) — related
+- [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — a narrower finding that bears on this claim
+- [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — a narrower finding that bears on this claim

@@ -69,3 +69,4 @@ Spearman correlation between LLM scores and human mean scores across the 10 disc
 - [LLM ratings of classroom transcripts are more correlated with each other than with expert human ratings, across the same and different tasks](llm-llm-agreement-exceeds-llm-human-classroom-ratings.md) — related
 - [Rank-based metrics can be misleading for analytic assessment: systems prompted for holistic scoring achieve strong, sometimes stronger, correlations with analytic scores than when prompted for those aspects](rank-based-metrics-misleading-analytic-assessment.md) — related
 - [Differences between human and ChatGPT feedback quality were small, with means within one point and partial eta-squared ranging from .01 to .12](small-effect-sizes-human-ai-feedback-differences.md) — related
+- [Expert rankings validate the Ratio variables, not absolute frequencies, as meaningful proxies for productive dialogue](expert-rankings-validate-ratio-variables.md) — related

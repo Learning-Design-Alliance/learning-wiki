@@ -43,4 +43,6 @@ Omnibus test from the same 2 (Diversity: present vs. absent) × 2 (Mindset: comm
 
 
 ## Related Claims
--
+- [Cultural diversity increases schoolchildren's creativity when a communal mindset is salient](diversity-boosts-creativity-communal-mindset.md) — related
+- [Cultural diversity does not increase schoolchildren's creativity when a divisional mindset emphasizing group distinctions is salient](divisional-mindset-nullifies-diversity-creativity-effect.md) — a narrower finding that bears on this claim
+- [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](cultural-diversity-cooperative-task-increases-childrens-creativity.md) — related

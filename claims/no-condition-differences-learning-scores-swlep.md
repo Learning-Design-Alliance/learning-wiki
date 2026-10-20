@@ -48,3 +48,4 @@ ANOVA on team scores (percentage correct assignments) across the three condition
 - [Provided support does not influence task regulation between conditions](support-does-not-influence-task-regulation.md) — related
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
 - [Team regulation correlates positively with learning results only in the CHT condition](team-regulation-learning-results-correlation-cht.md) — related
+- [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related

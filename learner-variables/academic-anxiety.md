@@ -149,6 +149,10 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - *Does the format and setting of an assessment change how anxious learners are about it?* [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
 - *Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?* [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
 
+## Examples
+
+- [AEQ-ES adapted to English as L2 for primary school children](../products/aeq-es-adapted-to-english-as-l2-for-primary-school-children.md)
+
 ## Related Learner Variables
 - [Affect Regulation](affect-regulation.md)
 - [Self-Efficacy](self-efficacy.md)

@@ -64,3 +64,6 @@ The editorial reports that in the Eberle et al. study "a group awareness interve
 ## Related Claims
 
 - [Transitivity, reciprocity and contact duration are relevant for researchers' identification of new potential collaboration partners at face-to-face events, as the editorial reports of Eberle et al.](transitivity-reciprocity-contact-duration-collaboration-partners.md)
+- [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md) — related
+- [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md) — related
+- [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md) — related

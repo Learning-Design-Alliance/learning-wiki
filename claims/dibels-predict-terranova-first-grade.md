@@ -64,3 +64,5 @@ Regression on first-grade TerraNova Reading found "Letter Naming Fluency and Pho
 ## Related Claims
 - [Fall self-regulation (HTKS) scores predict spring literacy gains in first grade](fall-htks-predicts-literacy-gains.md) — related
 - [Fall RRRP predicted spring reading outcomes, with Part 1 predicting decoding and comprehension and Part 2 predicting vocabulary and gains in comprehension and vocabulary](rrrp-parts-differentially-predict-reading-outcomes.md) — related
+- [Kindergarten DIBELS subtests show significant concurrent positive relationships with standardized early literacy measures in urban kindergartners](dibels-kindergarten-concurrent-literacy-validity.md) — related
+- [Nonsense Word Fluency adds no unique predictive information about first-grade reading when considered simultaneously with other DIBELS subtests](nwf-no-unique-predictive-contribution.md) — a narrower finding that bears on this claim

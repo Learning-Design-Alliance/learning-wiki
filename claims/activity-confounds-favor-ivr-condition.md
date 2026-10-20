@@ -45,3 +45,4 @@ Analysis of Category 7 results in the review. Advantages consisted of the IVR co
 ## Related Claims
 
 - [IVR conditions included participatory activities in 50% of comparisons while conventional conditions did so in only 20%](ivr-conditions-more-likely-to-include-activities.md)
+- [IVR conditions outperformed conventional conditions in only 24% of comparisons, with 54% tied, and the review finds no strong evidence IVR is more effective](no-strong-evidence-ivr-more-effective-stem.md) — related

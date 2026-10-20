@@ -84,3 +84,4 @@ Think-aloud coding showed significant text type differences in coherence stateme
 - [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related
 - [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](epistemic-beliefs-anger-predict-low-epistemic-processing.md) — related
 - [Young adults exhibit my-side bias when writing summaries of contradictory historical accounts, with 72% producing one-sided reports despite explicit instructions to summarize both texts](my-side-bias-written-summaries-controversial-history.md) — related
+- [External strategy use affects comprehension of relations among controversial texts, according to the article's title statement](external-strategy-use-comprehension-controversial-texts.md) — related

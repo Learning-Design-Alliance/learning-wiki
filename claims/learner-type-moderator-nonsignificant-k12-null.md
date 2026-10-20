@@ -43,4 +43,4 @@ Learner-type moderator analysis across the 51 contrasts; the K–12 subset compr
 
 
 ## Related Claims
--
+- [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — related

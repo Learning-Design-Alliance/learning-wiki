@@ -43,4 +43,4 @@ The article cites the Vogel et al. (2016) meta-analysis as evidence; no pooled e
 
 
 ## Related Claims
--
+- [The effect of CSCL scripts on collaboration skills is significantly greater than their effect on domain-specific knowledge](cscl-scripts-effect-larger-for-skills-than-knowledge.md) — a narrower finding that bears on this claim

@@ -67,3 +67,4 @@ Stated limitation: the pooled state samples were heterogeneous by gender and eth
 - Sample truncation based on at-risk status can induce collider bias that undermines internal as well as external validity — related
 - [Participant samples in AI trust research skew WEIRD: mostly Western, adult, university-educated participants, limiting external validity](weird-bias-ai-trust-research.md) — related
 - Establishing longitudinal factorial invariance is neither sufficient nor necessary for examining developmental change — related
+- [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related

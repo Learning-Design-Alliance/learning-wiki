@@ -43,4 +43,4 @@ The report's review of existing models attributes these outcomes to the Tamarack
 
 
 ## Related Claims
--
+- [Increased per-pupil spending across all 12 years of public school is associated with more completed education, higher wages, and reduced adult poverty, with larger effects for low-income children](per-pupil-spending-long-term-outcomes.md) — related

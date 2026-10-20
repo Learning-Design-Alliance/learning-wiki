@@ -54,3 +54,4 @@ This is a conceptual argument in an opinion paper: Cummins reasons that all chil
 - Critics argue Cummins' framework neglects the sociocultural context and CALP may index acculturation rather than cognitive ability — reports the opposite
 - [Sociocultural learning theory holds that knowledge develops through engagement in social interaction with others, so English learners benefit from meaningful interaction with peers](el-collaborative-discussion-sociocultural-benefit.md) — related
 - [Language development functions as a consequence of, not a prerequisite for, deep conceptual exploration in secondary mathematics for English Learners](language-consequence-not-prerequisite-math-el.md) — related
+- [Bilingual language policy facilitates multilingual and multicultural pedagogical interaction in Indonesian university classrooms](bilingual-policy-fosters-multicultural-pedagogical-interaction.md) — a narrower finding that bears on this claim

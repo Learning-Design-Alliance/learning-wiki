@@ -49,3 +49,4 @@ Observational analysis of classroom video from the first project site, comparing
 - [Teachers reported that CRS-and-TEFA use gave them more information about student thinking and that they changed lessons in response to that formative information](tefa-formative-information-changed-lessons.md) — related
 - Teachers typically encounter the first three TEFA skill areas in order: technology operation, question design, then discourse orchestration — related
 - [The TEFA-T model improves students' critical thinking skills on all measured indicators compared with conventional instruction](tefa-t-improves-critical-thinking-skills.md) — related
+- [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — a broader claim this one bears on

@@ -47,3 +47,4 @@ Meta-analytic estimate for longitudinal physical activity programs on attention 
 - [Acute physical activity has a positive effect on attention in preadolescent children (g = 0.43)](acute-physical-activity-improves-attention-preadolescents.md)
 - [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md)
 - [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md)
+- [The effects of physical activity on cognition and academic outcomes depend on the subdomain examined](physical-activity-effects-depend-on-subdomain.md) — a broader claim this one bears on

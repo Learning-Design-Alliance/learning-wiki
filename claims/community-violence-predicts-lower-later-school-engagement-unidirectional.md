@@ -45,3 +45,4 @@ Cross-lagged Structural Equation Model with 118 adolescents assessed twice rough
 ## Related Claims
 - [School engagement partially mediates the association between earlier community violence exposure and later cumulative GPA](school-engagement-partially-mediates-violence-gpa-link.md) — related
 - [Externalizing and internalizing symptoms, but not posttraumatic stress symptoms, mediate the association between community violence exposure and later school engagement](internalizing-externalizing-symptoms-mediate-violence-engagement.md) — related
+- [Internalizing, externalizing, and posttraumatic stress symptoms do not mediate the association between community violence exposure and GPA](psychological-symptoms-do-not-mediate-violence-gpa.md) — related

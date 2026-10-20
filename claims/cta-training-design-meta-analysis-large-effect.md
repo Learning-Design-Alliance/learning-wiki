@@ -45,3 +45,8 @@ The article reports, citing Tofel-Grehl and Feldon (2013), a meta-analysis of 20
 ## Related Claims
 
 - [CDM study of emergency responders (31 participants, over 51 hours of interviews) generated a theoretical model of command-level indecision](cdm-emergency-command-indecision-model.md)
+- [Instructionally supported (prompted) journal writing outperforms unsupported journal writing on learning outcomes (Hedges's g = 0.78)](prompted-journal-writing-medium-large-effect.md) — related
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — related
+- [Parent Implemented Intervention Improves Outcomes](parent-implemented-intervention-improves-outcomes.md) — related
+- [Taking and reviewing handwritten notes yields slightly higher achievement than typing notes among college students, by one meta-analysis reported second-hand](handwritten-notes-higher-achievement-than-typing.md) — related
+- [Interleaving during concept learning benefits memory of studied items, with effect sizes (Hedges' g) of up to 0.65](interleaving-memory-benefit-meta-analysis.md) — related

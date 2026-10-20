@@ -62,4 +62,4 @@ Correlational analyses of all scaffolding variables at each time point against c
 
 
 ## Related Claims
--
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related

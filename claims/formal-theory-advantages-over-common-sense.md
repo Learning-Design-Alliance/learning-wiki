@@ -64,3 +64,4 @@ The review's own statement of an open empirical question, acknowledging critics 
 ## Related Claims
 - [Minimal guidance is less effective for novices than explicit instruction](minimal-guidance-less-effective-for-novices.md) — related
 - [Engelmann's Direct Instruction curricula improve academic outcomes across reading, mathematics, language and spelling](direct-instruction-improves-outcomes.md) — reports the opposite
+- [All CSCL research is necessarily theory-laden; unreflective research adopts commonsense folk theories](cscl-research-necessarily-theory-laden.md) — related

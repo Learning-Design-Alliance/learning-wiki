@@ -50,3 +50,4 @@ Small-group hands-on testing during Session 3, in which faculty tried prompts on
 - [Students primarily benefit from AI chatbots in three key areas: homework and study assistance, personalized learning, and skills development](ai-chatbots-three-student-benefit-areas.md) — reports the opposite
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — reports the opposite
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — reports the opposite
+- [Teachers who focused on knowledge-building principles showed deeper understanding than those focused on surface procedures or technical aspects](principle-focused-teachers-deeper-understanding.md) — related

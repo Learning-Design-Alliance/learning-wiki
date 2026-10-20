@@ -44,6 +44,7 @@ A self-designed wiki environment on energy sources in which awareness informatio
 ## Related Designs
 
 - [Group formation system with automatic grouping panel, group composition visualization, and Wordcloud group-awareness tool](wordcloud-group-formation-system-element.md)
+- [Paper-based group awareness brochure with participant profiles](paper-based-group-awareness-brochure.md)
 
 ## Examples
 -

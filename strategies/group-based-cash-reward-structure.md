@@ -17,7 +17,7 @@ sources:
 # Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The paper proposes dividing students into groups of three, four, or five, constituted by teacher assignment or student preference, competing for cash rewards against one another or against a uniform standard, with payments disbursed by each group's average attainment. It argues this arrangement "would identify the interests of the peer group [with those] of the individual student", so peer pressure encourages attainment and mutual assistance. Internal allocation of winnings could be left partly to the group's discretion.
@@ -37,8 +37,13 @@ The paper proposes dividing students into groups of three, four, or five, consti
 ### Target Learning Goals
 - Academic achievement and motivation toward academic goals
 
+## Claims
+
+- [In one experiment with undergraduate business majors in asynchronous online small groups, reward interdependence raised agreement that group work was beneficial and generated better ideas](../claims/reward-interdependence-benefit-attitudes.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Cooperative Classroom Activities](cooperative_classroom_activities.md)
 
 ## Examples
 -

@@ -54,3 +54,4 @@ This is a small, purposive case study (3 focal youth from a 17-participant camp)
 - Teachers adapt TEFA to their own terms and contexts, with learning trajectories that are personal and idiosyncratic — related
 - [Well-defined tasks and accessible materials support shared creative influence in group work](well-defined-tasks-and-accessible-materials-support-shared-creative-influence.md) — related
 - [Material choice shapes conceptual learning and who feels invited to learn](material-choice-shapes-conceptual-learning-and-participation.md) — related
+- [Organized (vs. non-organized) youth sport participation is associated with lower adult creativity](organized-sport-lower-adult-creativity.md) — related

@@ -43,4 +43,4 @@ The white paper attributes, citing Arnett and others, that delayed entry into ad
 
 
 ## Related Claims
--
+- [Lower inhibitory control in early adolescence predicts greater increases in delinquency from middle adolescence to emerging adulthood](early-adolescent-inhibitory-control-predicts-delinquency-increase.md) — related

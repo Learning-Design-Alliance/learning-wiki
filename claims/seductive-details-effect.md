@@ -242,3 +242,6 @@ This study found that the seductive details effect was not uniform: readers with
 - [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](individual-interest-predicts-achievement.md) — a narrower finding that bears on this claim
 - [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](orderly-classroom-environments-support-learning.md) — related
 - [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — related
+- [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
+- [Multimedia learning principles are not clearly attributable to the multicomponent model or to applied multimedia theories](multimedia-principles-not-attributable-to-multicomponent-model.md) — related
+- [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — a narrower finding that bears on this claim

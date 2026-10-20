@@ -48,3 +48,4 @@ The report's Section 5.2 presents lifetime present values at age 20 for disconne
 - [The lifetime fiscal loss per Arizona high school dropout is $135,730 across all levels of government, or $2.5 billion per cohort](arizona-dropout-fiscal-loss-135730.md) — related
 - [Each Arizona high school dropout imposes a lifetime social loss of $421,280, totaling $7.6 billion per annual cohort of 18,100 dropouts](arizona-dropout-lifetime-social-loss-421280.md) — related
 - [Arizona high school graduates are predicted to earn $271,040 more over a lifetime than dropouts, net of ability and motivation adjustments](arizona-graduate-earnings-gap-271040.md) — related
+- [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md) — related

@@ -45,3 +45,4 @@ Causal-precedence LCM (Model E) on the BURN11 dataset. The article reports "a si
 ## Related Claims
 
 - [A confirmatory factor analysis supported a two-factor Gf–Gc representation of the cognitive measures, with a significant .33 correlation between the factors](cfa-two-factor-gf-gc-structure.md)
+- [Fluid abilities (Gf) significantly predicted the rate of learning, whereas crystallized abilities (Gc) significantly predicted final learning performance in a one-week instructional process](gf-rate-gc-final-level-learning.md) — related

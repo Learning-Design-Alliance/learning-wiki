@@ -47,3 +47,4 @@ Descriptive statistics on the attitude subscale among experimental-group student
 - [Primary school teachers report moderately positive overall perceptions of AI in mathematics instruction, with willingness and attitudes higher than personal experience](moderately-positive-teacher-ai-perceptions-primary-math.md) — related
 - [Senior high school students taught with generative AI-supported instruction scored significantly higher on geometric reasoning and proof construction than students taught conventionally](genai-instruction-higher-geometry-proof-scores.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
+- [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related

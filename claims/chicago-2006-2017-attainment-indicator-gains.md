@@ -66,3 +66,4 @@ The introduction's descriptive trend summary for CPS over "the past decade or so
 
 ## Related Claims
 - Chicago's on-track data system was associated with improved high school graduation rates — related
+- [Black and Latino students' success in progressive mathematics triggers system reactions questioning the program's rigor](minority-success-damns-reform-program.md) — related

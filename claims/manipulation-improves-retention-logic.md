@@ -46,3 +46,5 @@ In the same 72-student experiment in Tarski's World, the manipulation variable w
 
 - [Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional](guidance-improves-posttest-logic-conditional.md)
 - [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md)
+- [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — reports the opposite
+- [Virtual objects in shared VR environments can serve as effective media for collaborative knowledge building among in-service teachers manipulating geometric shapes](virtual-objects-shared-vr-collaborative-knowledge-building.md) — related

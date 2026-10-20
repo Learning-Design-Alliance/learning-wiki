@@ -43,4 +43,7 @@ Episode analysis of group 1 shows early placement of contributions affected subs
 
 
 ## Related Claims
--
+- [The two phases of the argumentative task required different organizing principles, and groups changed or failed to change accordingly](two-phases-require-different-principles.md) — related
+- [Organizing principles for a shared workspace emerge from implicit negotiation of conventions among group members](organizing-principles-emerge-implicit-negotiation.md) — a broader claim this one bears on
+- [Weak initial organization enables experimentation with alternative graphical organizing principles](weak-organization-enables-principle-experimentation.md) — related
+- [A shared organizing principle can be established by one member and followed by others, becoming stronger with each application](principle-initiated-by-one-member-reified.md) — related

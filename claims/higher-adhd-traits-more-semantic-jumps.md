@@ -45,3 +45,6 @@ Linear regressions on per-child mean and SD of word2vec semantic distances in th
 ## Related Claims
 
 - [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md)
+- [Children with higher ADHD rating-scale scores make longer transitions between consecutively retrieved items in a visual search task](higher-adhd-traits-longer-visual-search-transitions.md) — related
+- [The exploration advantage in semantic search is interpreted as context-dependent, potentially beneficial in sparsely distributed target environments](exploration-bias-benefit-context-dependent.md) — related
+- [Exploratory search behaviour in visual and semantic tasks is not correlated across children once ADHD score is controlled](no-cross-domain-correlation-exploratory-search.md) — related

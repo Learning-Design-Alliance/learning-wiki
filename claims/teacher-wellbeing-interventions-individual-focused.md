@@ -43,4 +43,6 @@ Qualitative content analysis of the 46 studies' intervention focus, reported in 
 
 
 ## Related Claims
--
+- [Teacher activities in CHSRI small schools' professional communities were primarily oriented toward supportive rather than developmental practices](chrsi-teachers-oriented-toward-supportive-practices.md) — related
+- [PLC in mathematics in prior research pursue three distinct objects, with developing teachers' repertoire of teaching actions the most common](plc-mathematics-three-objects-repertoire-most-common.md) — related
+- [A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative](scoping-review-46-teacher-wellbeing-intervention-studies.md) — related

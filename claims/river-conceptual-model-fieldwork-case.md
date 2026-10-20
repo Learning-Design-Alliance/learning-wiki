@@ -45,3 +45,4 @@ A case study of a conceptual model designed in line with the article's recommend
 ## Related Claims
 
 - [Small-screen design recommendations were explicated through an inquiry in which teachers and students interacted with learning objects on handheld devices](small-screen-recommendations-inquiry.md)
+- [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related

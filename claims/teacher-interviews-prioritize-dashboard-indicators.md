@@ -63,3 +63,4 @@ Kano-method ratings with the same teachers on MathTutor-loggable indicators. Exc
 
 ## Related Claims
 - [Five learner-valued indicators extend established CSCL frameworks, while six map closely onto existing dimensions](learner-indicators-extend-established-cscl-frameworks.md) — related
+- [Dashboard support type did not influence detection of CSCL events but did influence teachers' interpretation of the situation](dashboard-support-type-affects-interpretation-not-detection.md) — related

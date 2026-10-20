@@ -43,4 +43,7 @@ DDM fits to the auditory analog task (tone in white noise, varying tone-to-noise
 
 
 ## Related Claims
--
+- [Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task](vgp-greater-integration-rate-motion-ddm.md) — related
+- [In fixed-duration conditions, accuracy rises faster with presentation duration in VGPs, confirming greater sensory integration and ruling out non-decision-time accounts](fixed-duration-faster-accuracy-rise-vgp.md) — related
+- [A single-parameter change in feed-forward connection strength in a neural decision model captures VGP behavior, including faster RTs with stable accuracy](neural-model-single-parameter-feedforward-captures-vgp.md) — related
+- [According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task](vgp-better-posterior-log-odds-motion.md) — related

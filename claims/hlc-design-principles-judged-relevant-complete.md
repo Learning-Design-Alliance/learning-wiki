@@ -43,4 +43,4 @@ Questionnaire evaluation of intervention content across the four cases (BNR, POH
 
 
 ## Related Claims
--
+- [A boundary crossing intervention led most interprofessional design team members to perceive a set of HLC design principles as useful for structuring knowledge and gaining an overview of HLC design](boundary-crossing-intervention-enhances-perceived-usefulness-design-principles.md) — related

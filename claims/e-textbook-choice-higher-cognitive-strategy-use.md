@@ -43,4 +43,4 @@ Causal-comparative study of 538 undergraduates, masters, and doctoral students w
 
 
 ## Related Claims
--
+- [Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores](textbook-format-manova-omnibus-difference.md) — a broader claim this one bears on

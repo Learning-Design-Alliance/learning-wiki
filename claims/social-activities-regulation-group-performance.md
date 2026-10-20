@@ -43,4 +43,4 @@ The editorial reports, attributing to Janssen et al., that "regulation of social
 
 
 ## Related Claims
--
+- [Team regulation affected group learning results in one condition (Saab et al.)](team-regulation-affected-group-results-one-condition.md) — related

@@ -50,3 +50,5 @@ Latent class analysis was applied in Mplus to eight ACEs measured at 9 months an
 - [Harsh parenting and physical punishment show the strongest individual-ACE associations with externalizing behavior](harsh-parenting-physical-punishment-externalizing.md)
 - [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md)
 - [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md)
+- [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — reports the opposite
+- [Latent Class Analysis identifies six provisional manager typologies with heterogeneous readiness and barrier profiles](six-provisional-manager-typologies-lca.md) — related

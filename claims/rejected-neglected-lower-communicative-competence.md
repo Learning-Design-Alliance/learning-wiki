@@ -45,3 +45,6 @@ The review reports, from van der Wilt et al. (2018b) (N = 570 children aged 3.99
 ## Related Claims
 
 - [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](gender-moderates-competence-acceptance-relation.md)
+- [Children's oral communicative competence is significantly related to their sociometric status in childhood](oral-communicative-competence-related-sociometric-status.md) — a broader claim this one bears on
+- [Children with poorer oral communicative competence experience higher levels of peer rejection after controlling for gender, age, and SES](poorer-communicative-competence-higher-peer-rejection.md) — related
+- [The relation between oral communicative competence and sociometric status is expected to be interactional and transactional rather than unidirectional](transactional-competence-sociometric-relation.md) — related

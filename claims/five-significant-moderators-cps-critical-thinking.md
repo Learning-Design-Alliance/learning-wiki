@@ -43,4 +43,7 @@ Subgroup moderator analysis of the 79 effect quantities across 36 studies (Table
 
 
 ## Related Claims
--
+- [Teacher-supported learning scaffolds show the largest effect (ES = 0.92), and longer intervention durations yield larger effects](teacher-scaffolds-and-longer-duration-stronger-cps-effects.md) — a narrower finding that bears on this claim
+- [Science-related subject areas (mathematics, science, medical science) show larger effects than programming technology and other fields](subject-area-moderates-cps-critical-thinking-effects.md) — a narrower finding that bears on this claim
+- [Intervention duration significantly moderates Gen-AI's effect on HOT, with the strongest effects at 8–16 weeks (ES = 0.759) and weaker effects for shorter (0.494) and longer (0.372) interventions](genai-intervention-duration-moderator.md) — related
+- [Collaborative problem-solving improves attitudinal tendency (ES = 1.17) more than cognitive skills (ES = 0.70)](cps-attitudinal-tendency-stronger-than-cognitive-skills.md) — related

@@ -45,3 +45,4 @@ The review's Results section reports pretest‐adjusted effect sizes from the si
 ## Related Claims
 - [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
 - [Mandatory-random student drug testing reduces high school students' reported past-30-day substance use relative to schools without MRSDT](mrsdt-reduces-past-30-day-substance-use.md) — related
+- [National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school](national-estimates-adolescent-substance-use-prevalence.md) — related

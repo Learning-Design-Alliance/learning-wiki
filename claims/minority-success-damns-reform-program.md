@@ -44,3 +44,4 @@ Anecdotal case reported by the author from a researcher network on inquiry-based
 
 ## Related Claims
 - In a contrasting case study of Chicago schools with teacher-reported strong principal instructional leadership, half showed continuously growing test scores while half did not — related
+- [In the decade or so to 2017, Chicago Public Schools saw large rises in freshman on-track rates (2006 to 2017), graduation, and college enrollment, with the greatest on-track increases among Black and Latino males](chicago-2006-2017-attainment-indicator-gains.md) — related

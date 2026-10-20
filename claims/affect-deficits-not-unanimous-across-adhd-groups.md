@@ -51,3 +51,4 @@ Authors' overall interpretation in the Discussion of the combined ANOVA and regr
 - [Inattentive symptoms are significantly positively correlated with fearful and vocal channel affect recognition errors](inattentive-symptoms-fearful-vocal-error-correlations.md) — related
 - [Inattentive symptoms are positively associated with sad affect recognition errors while hyperactive-impulsive symptoms are negatively associated](inattentive-symptoms-positive-hyperactive-negative-sad-errors.md) — related
 - [No significant differences in affect recognition errors emerged between the ADHD-Combined group and controls or between the ADHD-C and ADHD-I groups](no-adhd-combined-affect-recognition-differences.md) — a narrower finding that bears on this claim
+- [Tactile defensiveness in ADHD is specific to affected children, more frequent in females, and not due to tactile perception impairment](tactile-defensiveness-specific-to-adhd-children.md) — related

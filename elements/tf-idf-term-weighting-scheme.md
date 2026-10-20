@@ -17,7 +17,7 @@ sources:
 # tf-idf term-weighting scheme from information retrieval
 
 > **Element** · [All elements](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (1 for, 2 against) · 3 studies (2 design, 1 associational), `q2` · 1 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 tf-idf is a composite weighting scheme from information retrieval that combines a term's frequency within a document with its inverse document frequency across the collection, formalized as tf(t,d) times idf(t,D). The chapter states that "tf-idf selects for terms that occur many times in a small number of documents, penalizing terms that occur only a few times in a document, or that occur in many documents." It is used to identify effective keywords and provides the feature space for distributional models such as latent semantic indexing and Bayesian topic models, illustrating that context-sensitive dispersion measures are useful for retrieval systems and, by analogy, for understanding human lexical organization.
@@ -40,7 +40,9 @@ tf-idf is a composite weighting scheme from information retrieval that combines 
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [IDF reweighting of knowledge vectors improves retrieval over binary KC-incidence vectors, with the largest gains in mAP](../claims/idf-reweighting-improves-kc-retrieval.md) [+W]
+- [Under the fixed protocol, hosted LLMs produce the largest gain on Spanish thematic classification, with thematic macro F1 rising from 0.46 (TF-IDF) to roughly 0.82-0.86 for the two hosted LLMs](../claims/llms-largest-gain-spanish-thematic-macro-f1.md) [-W]
+- [Feature-based models (LLM-extracted features plus metadata in random forest and gradient boosting) outperform direct LLM estimation, dummy regressor, TF-IDF, and metadata-only benchmarks, with correlations up to r = .87](../claims/feature-based-llm-models-outperform-direct-estimation-and-benchmarks.md) [-W]
 
 ## Related Elements
 - 

@@ -45,3 +45,6 @@ Narrative synthesis of experimental and quasi-experimental studies contrasting d
 ## Related Claims
 
 - [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md)
+- [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — reports the opposite
+- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](blended-larger-advantage-than-pure-online.md) — related
+- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related

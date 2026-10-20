@@ -43,4 +43,7 @@ Authors' interpretation, attributed to Parker et al. (2006): because antecedents
 
 
 ## Related Claims
--
+- [Children's oral communicative competence is significantly related to their sociometric status in childhood](oral-communicative-competence-related-sociometric-status.md) — a narrower finding that bears on this claim
+- [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md) — related
+- [Children with poorer oral communicative competence experience higher levels of peer rejection after controlling for gender, age, and SES](poorer-communicative-competence-higher-peer-rejection.md) — related
+- [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) — related

@@ -59,3 +59,4 @@ The brief reports, citing Ginsburg & Smith (2016), that interventions recognized
 
 ## Related Claims
 - Springboard Summer scholars show larger reading improvements than statistically equivalent non-participating peers, meeting ESSA Tier 2 moderate evidence standards — related
+- [Workshop engagement reaches an inflection point at the first shareback of newly generated text, after which participant questions about LLMs become more incisive](shareback-inflection-point-engagement.md) — related

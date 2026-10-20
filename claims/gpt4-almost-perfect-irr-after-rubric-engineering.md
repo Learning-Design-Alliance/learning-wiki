@@ -50,3 +50,4 @@ Results of the three-iteration scoring study at ZSOM and UCSF, where faculty sco
 - [Adding a model answer to the GPT-4 prompt was counterproductive, lowering scoring reliability](model-answer-in-prompt-lowered-reliability.md) — related
 - [Sentence embedding models reach only moderate agreement and need human supervision for open-ended grading](embedding-models-moderate-agreement-need-supervision.md) — related
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — related
+- [DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)](dspy-optimization-communication-evaluator-gains.md) — related

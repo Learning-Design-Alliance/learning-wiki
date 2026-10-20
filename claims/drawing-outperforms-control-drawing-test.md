@@ -43,4 +43,6 @@ ANCOVA on drawing test performance (visuo-spatial knowledge) with prior knowledg
 
 
 ## Related Claims
--
+- [Drawing conditions that were compared to control outperformed the read-only control condition on transfer performance](drawing-outperforms-control-transfer.md) — related
+- [Neither global nor local drawing support increased drawing quality, and local support significantly decreased it relative to unsupported drawing](drawing-support-did-not-increase-quality.md) — reports the opposite
+- [Drawing provided no benefit for lower-order recognition knowledge, and the local support condition scored significantly lower than control](drawing-no-recognition-benefit-local-worse.md) — related

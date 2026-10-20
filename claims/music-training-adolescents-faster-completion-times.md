@@ -44,3 +44,4 @@ The review reports two Finnish adolescent case-control studies (Saarikivi et al.
 
 - [Music training RCTs show improved verbal working memory (backward digit span), but not visuospatial or forward-span tasks](music-training-verbal-working-memory-backward-span.md)
 - [Only one identified study found improved visuospatial working memory after music training](music-training-visuospatial-working-memory-single-study.md)
+- [The review concludes music training has a beneficial effect on core executive function performance, primarily in inhibitory control and to a lesser extent in working memory and cognitive flexibility](review-concludes-music-training-benefits-core-executive-functions.md) — related

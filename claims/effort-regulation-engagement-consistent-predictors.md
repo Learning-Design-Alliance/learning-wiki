@@ -43,4 +43,4 @@ Multiple regression analysis (Table 5) regressing each strategy on self-control,
 
 
 ## Related Claims
--
+- [Cramming was negatively correlated with spacing (r = -0.54) and with all other learning strategies investigated](cramming-negatively-correlated-spacing-and-strategies.md) — related

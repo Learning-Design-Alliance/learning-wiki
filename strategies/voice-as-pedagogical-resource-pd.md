@@ -17,7 +17,7 @@ sources:
 # Professional development treating teacher voice as a pedagogical resource in team teaching
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The article recommends that professional development for team teaching treat teacher voice as a pedagogical resource for coordinating classroom activity rather than merely a channel for transmitting content. It argues that "Deliberate modulation of loudness can foreground key information, signal transitions, and support engagement across lesson phases". Making such tacit vocal strategies explicit through targeted training may help less experienced teachers develop adaptive vocal repertoires for team-teaching contexts.
@@ -35,6 +35,11 @@ The article recommends that professional development for team teaching treat tea
 
 ### Target Learning Goals
 - developing adaptive vocal repertoires for coordinating classroom activity in team-teaching contexts
+
+## Claims
+
+- [High-experience team teachers show higher voice-quality/spectral-structure and greater loudness-dynamics components than low-experience teachers across spatial pedagogy behavioural categories](../claims/experience-differences-team-teaching-acoustics.md) [+W]
+- [Collaborative tasks elicit higher loudness-dynamics components in team-teacher talk than individual tasks, which show higher spectral-slope and voice-quality components](../claims/task-design-differences-team-teaching-acoustics.md) [+W]
 
 ## Related Strategies
 - 

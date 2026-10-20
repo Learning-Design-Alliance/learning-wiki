@@ -35,7 +35,8 @@ A statewide administrative dataset maintained by the Illinois Community College 
 - [NSC and ICCB data agree on immediate two-year college enrollment for about 96 percent of students, with ICCB showing a slightly higher enrollment rate](../claims/nsc-iccb-enrollment-alignment-96-percent.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [CALPADS student-level longitudinal course record dataset](calpads-student-level-longitudinal-course-record-dataset.md)
 
 ## Key Sources
 - Jenny Nagaoka and Shelby Mahaffie. (2020). Tracking Two-Year College Outcomes: Comparing National Student Clearinghouse and Illinois Community College Board as Sources of Two-Year College Data. Technical Paper, University of Chicago Consortium on School Research. https://consortium.uchicago.edu/publications/tracking-two-year-college-outcomes

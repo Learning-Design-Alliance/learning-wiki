@@ -63,3 +63,4 @@ The article reports, citing Banerjee (2019), that oppression extended into worke
 ## Related Claims
 
 - [School social workers perceive immigration enforcement as a daily macro-level force producing fear and trauma among immigrant students and families](ssws-perceive-enforcement-daily-macro-force.md)
+- [Disciplinary authenticity in computing education, as conceived in the Learning Sciences, is predicated on the erasure of endarkened people in computing](disciplinary-authenticity-computing-erasure-endarkened-people.md) — a broader claim this one bears on

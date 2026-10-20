@@ -43,4 +43,4 @@ Exploratory analysis of the generalized condition only, comparing compliance bet
 
 
 ## Related Claims
--
+- [In the generalized condition, compliance with several suggested actions was associated with higher essay scores, with one exception: note-taking after the last scaffold was associated with lower essay scores.](compliance-suggested-actions-essay-scores-mixed.md) — related

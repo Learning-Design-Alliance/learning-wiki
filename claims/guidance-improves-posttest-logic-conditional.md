@@ -46,3 +46,4 @@ Experiment with 72 first- and second-year social science students in the compute
 
 - [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md)
 - [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md)
+- [Guidance during initial problem solving does not translate into better learning from subsequent instruction](initial-guidance-does-not-improve-learning-from-instruction.md) — related

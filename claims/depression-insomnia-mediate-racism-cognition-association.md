@@ -48,3 +48,4 @@ Mediation analysis using the difference method with the %Mediate macro in the BW
 - [Consistently reported high daily racism across 12 years is associated with over four times the odds of poor subjective cognitive function](consistent-racism-exposure-stronger-cognition-association.md) — related
 - [Racism reported 12 years earlier (1997) shows similar but attenuated associations with subjective cognitive function compared to 2009 reports](earlier-racism-reports-similar-attenuated-associations.md) — related
 - [Institutional racism exposure is associated with poorer subjective cognitive function in African American women in a graded manner](institutional-racism-associated-poorer-subjective-cognitive-function.md) — related
+- [Both memory-specific and non-memory cognitive questions show similar associations with racism exposure](memory-and-non-memory-questions-similar-associations.md) — related

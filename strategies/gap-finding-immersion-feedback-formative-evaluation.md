@@ -37,7 +37,9 @@ The article identifies three commonly mentioned ways to find gaps where bridges 
 - Culturally responsive design; identifying prerequisite-knowledge gaps
 
 ## Related Strategies
-- 
+
+- [Use ethnographic research methods to authenticate culture-specific designs for target audiences](ethnographic-methods-authenticate-design.md)
+- [Mirrors, Windows, and Sliding Glass Doors](mirrors-windows-and-sliding-glass-doors.md)
 
 ## Examples
 -

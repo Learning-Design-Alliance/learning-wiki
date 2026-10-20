@@ -43,7 +43,16 @@ The manual organizes writing instruction around a process approach that focuses 
 - [Whole language approach: simultaneous teaching of language skills strengthens reading and writing together](whole-language-approach-ged-prep.md)
 
 ## Examples
--
+
+- [Prewriting Activities](../strategies/prewriting_activities.md)
+- [Self Monitoring In Writing](../strategies/self-monitoring-in-writing.md)
+- [Process Writing](../strategies/process-writing.md)
+- [Collaborative Writing](../strategies/collaborative-writing.md)
+- [Goal Setting In Writing](../strategies/goal-setting-in-writing.md)
+- [Process Writing Workshop](../strategies/process-writing-workshop.md)
+- [Process Writing Approach](../strategies/process_writing_approach.md)
+- [Process-based Writing](../principles/process-based-writing.md)
+- [Writing Workshop](../strategies/writing_workshop.md)
 
 ## Key Sources
 - Coombs, Lucinda H. (1987). The GED Writing Skills Test Essay Teacher Training Manual. Maine Dept. of Educational and Cultural Services / University of Maine. https://eric.ed.gov/?id=ED324536

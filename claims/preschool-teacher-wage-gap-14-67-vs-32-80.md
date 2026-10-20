@@ -43,4 +43,5 @@ Descriptive wage comparison reported in the challenges section, citing Economic 
 
 
 ## Related Claims
--
+- [IQ, psychological empowerment, self-realization, and self-regulation subscale scores contributed significantly to variance in hourly pay, while number of vocational education classes did not](self-determination-subdomains-predict-wage-vocational-classes-do-not.md) — related
+- [High wage earners had higher total self-determination, autonomy, and psychological empowerment scores than low wage earners, controlling for intelligence](high-earners-higher-self-determination-scores.md) — related

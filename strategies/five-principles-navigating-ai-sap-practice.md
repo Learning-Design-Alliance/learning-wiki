@@ -17,7 +17,7 @@ sources:
 # Use five guiding principles to navigate artificial intelligence in students as partners practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article offers a set of five guiding principles as a practical navigation aid for students as partners practice in the era of artificial intelligence. The title announces "Five guiding principles for navigating artificial intelligence in students as partners practice", and the keywords confirm the contribution type as "principles" concerned with "AI", "trust", "pedagogical partnership" and "generative AI". The strategy directs partnership practitioners to work from explicit principles rather than ad hoc responses when AI reshapes partnership work.
@@ -35,6 +35,10 @@ The article offers a set of five guiding principles as a practical navigation ai
 
 ### Target Learning Goals
 - navigating AI integration in students as partners practice
+
+## Claims
+
+- [The article argues that navigating AI in students as partners practice requires guiding principles to preserve pedagogical trust](../claims/ai-navigation-requires-guiding-principles.md) [+W]
 
 ## Related Strategies
 - 

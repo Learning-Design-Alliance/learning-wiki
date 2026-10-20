@@ -47,3 +47,5 @@ This is the author's interpretive observation from the validation phase, not a t
 - Interview-containing prompts increased response diversity for Claude and GPT, while Gemini diversified with demographic-only prompts — related
 - Claude showed the highest alignment with human BREQ responses, and interview-containing prompts aligned better than baseline prompts — related
 - Prompt settings and temperature settings have significant main effects on correlations among the three LLM chatbots — related
+- [GPT-4o and GPT-5.2 achieve higher accuracy and more fully correct answers on university IVDA multiple-choice questions than the smaller Mistral-7B and DeepSeek-R1 models](gpt-models-outperform-smaller-llms-on-ivda-mcqs.md) — related
+- [Chain-of-thought and reasoning prompting significantly improve LLM proportional match with human-authored distractors over direct prompting on both math and science MCQs](reasoning-prompting-improves-llm-distractor-match.md) — related

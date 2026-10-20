@@ -45,3 +45,5 @@ Secondary analysis summing significant quantiles per child into visual and seman
 ## Related Claims
 
 - [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md)
+- [Higher ADHD scores increase the variability of semantic search paths via more long-distance jumps, but not mean semantic distance](higher-adhd-traits-more-semantic-jumps.md) — related
+- [Children with higher ADHD rating-scale scores make longer transitions between consecutively retrieved items in a visual search task](higher-adhd-traits-longer-visual-search-transitions.md) — related

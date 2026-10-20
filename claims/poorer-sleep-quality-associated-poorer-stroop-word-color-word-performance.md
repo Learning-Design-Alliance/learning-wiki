@@ -43,9 +43,11 @@ Cross-sectional correlational analysis in 37 healthy older adults (mean age 64.5
 
 
 ## Related Claims
+
 - [Hypertension is associated with poorer Stroop Word and Color performance in healthy older adults](hypertension-associated-poorer-stroop-word-color-performance.md) — related
 - [Greater Lentisphaerae proportion is associated with better Stroop Color-Word performance independent of carbohydrate intake](lentisphaerae-proportion-associated-stroop-color-word-performance.md) — related
 - [Sleep quality remains a significant predictor of Stroop Color-Word performance independent of Lentisphaerae proportion, while the Lentisphaerae-Stroop relationship reduces to non-significance](sleep-quality-predicts-color-word-independent-lentisphaerae.md) — a narrower finding that bears on this claim
 - [Sleep quality and Verrucomicrobia are not independently associated with Stroop Word performance](sleep-quality-verrucomicrobia-not-independent-stroop-word.md) — reports the opposite
 - [Poorer sleep quality is associated with lower proportions of the gut microbial phyla Verrucomicrobia and Lentisphaerae in healthy older adults](poorer-sleep-quality-lower-verrucomicrobia-lentisphaerae-proportions.md) — related
 - [Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension](verrucomicrobia-proportion-associated-stroop-word-performance.md) — related
+- [Five nights of sleep restriction cause lower quiz performance in a simulated classroom among adolescents](sleep-restriction-lowers-simulated-classroom-quiz-scores.md)

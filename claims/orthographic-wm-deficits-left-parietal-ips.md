@@ -47,3 +47,4 @@ Voxel-based lesion-mapping analysis of the same post-stroke dysgraphia sample, w
 - [Orthographic long-term memory deficits in dysgraphia are centered in the left posterior inferior frontal region or left ventral temporal cortex](orthographic-ltm-deficits-frontal-ventral-temporal.md)
 - [Behavioral profiles alone can identify dysgraphia cases with deficits selectively affecting orthographic long-term memory or working memory](behavioral-profiles-classify-dysgraphia-subtypes.md)
 - [Lesion evidence links written-language processes to language, working memory, and other cognitive skills](written-language-neural-instantiation-relates-cognitive-skills.md)
+- [Distinct neural substrates selectively support orthographic long-term memory and orthographic working memory in spelling](selective-substrates-orthographic-ltm-versus-wm.md) — a broader claim this one bears on

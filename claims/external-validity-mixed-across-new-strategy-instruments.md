@@ -48,3 +48,4 @@ External-validity discussion of a questionnaire study assessing shallow informat
 - Within-method convergence (RSAT coding vs human coding; G vs d') indicates stability, not construct validity — related
 - [Schellings' questionnaire-thinking-aloud convergent correlation of .51 rests on a small sample and is questionable against other studies](schellings-convergent-validity-n16-correlation-51.md) — related
 - [Self-reported accumulation negatively predicts intertextual comprehension while cross-text elaboration positively predicts it, after controlling for prior knowledge](strategies-predict-intertextual-comprehension.md)
+- [External strategy use affects comprehension of relations among controversial texts, according to the article's title statement](external-strategy-use-comprehension-controversial-texts.md) — related

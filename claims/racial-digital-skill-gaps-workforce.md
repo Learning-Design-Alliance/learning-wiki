@@ -50,3 +50,4 @@ The report attributes these figures to a 2020 National Skills Coalition study, a
 - [Digital skills gaps span demographic groups and shape e-learning, job performance, and earnings](digital-literacy-gaps-span-demographics.md) — a broader claim this one bears on
 - [A skills-first approach to hiring and advancement is taking hold in the private and public sectors](skills-first-hiring-taking-hold.md) — related
 - Roughly 30% of core workplace skills changed in ten years and over 60% of job titles mentioning AI are non-tech roles — related
+- [Disciplinary authenticity in computing education, as conceived in the Learning Sciences, is predicated on the erasure of endarkened people in computing](disciplinary-authenticity-computing-erasure-endarkened-people.md) — related

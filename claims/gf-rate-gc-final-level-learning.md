@@ -45,3 +45,4 @@ Conditional latent curve model on the BURN11 dataset (101 high-school students, 
 ## Related Claims
 
 - [Final achievement level and rate of achievement change were positively correlated: students with higher final levels experienced smaller achievement decrements](intercept-slope-positive-correlation.md)
+- [There was a significant indirect effect of Gf through Gc onto final learning performance, and the Gf→Gc→Learning model fit better than the reverse causal ordering](gf-through-gc-indirect-effect.md) — related

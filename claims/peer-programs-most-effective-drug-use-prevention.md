@@ -44,3 +44,4 @@ The review reports, citing two meta-analyses (Tobler 1986; Bangert-Drowns 1988) 
 
 ## Related Claims
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
+- [National estimates indicate nearly half of students report having ever used illicit drugs and most report having drunk alcohol before leaving high school](national-estimates-adolescent-substance-use-prevalence.md) — related

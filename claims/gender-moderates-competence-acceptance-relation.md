@@ -45,3 +45,5 @@ The review reports, from van der Wilt et al. (2016) (N = 54 children aged 3.83�
 ## Related Claims
 
 - [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md)
+- [Children's oral communicative competence is significantly related to their sociometric status in childhood](oral-communicative-competence-related-sociometric-status.md) — related
+- [Children with poorer oral communicative competence experience higher levels of peer rejection after controlling for gender, age, and SES](poorer-communicative-competence-higher-peer-rejection.md) — related

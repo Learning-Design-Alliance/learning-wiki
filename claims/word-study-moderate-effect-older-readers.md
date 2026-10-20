@@ -43,4 +43,7 @@ Meta-analytic review (Scammacca et al., 2007) of word study interventions for ol
 
 
 ## Related Claims
--
+- [Morphological instruction improves word-level literacy outcomes (decoding, spelling, vocabulary, morphological knowledge) but shows no reliable effect on reading comprehension](morphological-instruction-improves-literacy.md) — related
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
+- [Morphological Instruction Improves Vocabulary](morphological-instruction-improves-vocabulary.md) — related
+- [Fluency interventions for older students show very small effects on rate and accuracy and virtually no effect on standardized comprehension](fluency-small-effects-older-readers.md) — related

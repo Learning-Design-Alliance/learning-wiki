@@ -43,4 +43,9 @@ Bivariate correlational analysis in a stratified random sample of 330 urban kind
 
 
 ## Related Claims
--
+- [Kindergarten DIBELS subtests predict first-grade instructional reading, with Letter Naming Fluency the strongest predictor](dibels-predict-first-grade-reading.md) — related
+- [Kindergarten DIBELS subtests correlate significantly with early mathematics ability and with behavioral approaches to learning](dibels-convergent-math-learning-behaviors.md) — related
+- [DIBELS subtests show significant negative relationships with peer-play difficulties and weaker links to social-behavioral than cognitive measures](dibels-discriminant-social-behavioral-validity.md) — related
+- [DIBELS subtests form a significant multivariate pair with peer-play and learning-behavior dimensions (Engaged Literacy Learning variate)](dibels-engaged-literacy-learning-canonical.md) — related
+- [Kindergarten DIBELS subtests significantly predict first-grade TerraNova vocabulary, language, and reading outcomes](dibels-predict-terranova-first-grade.md) — related
+- [DIBELS subtests share a significant multivariate relationship with TERA early reading dimensions (Early Literacy Competence variate)](dibels-tera-canonical-early-literacy-competence.md) — related

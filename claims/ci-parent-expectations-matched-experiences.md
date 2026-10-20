@@ -46,3 +46,4 @@ Survey comparison of parents' retrospective preimplant expectations with current
 
 - [Parents experienced more rehabilitation stress than they had expected before their children's implantation](ci-rehabilitation-stress-exceeded-expectations.md)
 - [A substantial proportion of children with cochlear implants used some form of signed communication despite parents' initial expectations otherwise](ci-signed-communication-use.md)
+- [Exploratory subgroup and correlation analyses show mostly no significant differences in benefit or experience scores by child and family characteristics](aac-perceptions-null-subgroup-associations.md) — related

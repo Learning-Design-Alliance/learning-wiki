@@ -46,3 +46,4 @@ Analysis of false-belief items from the non-visual ToM task in 12 blind and 21 s
 
 - [Explicit mentalizing (false-belief understanding) emerges robustly between ages 4 and 6](explicit-mentalizing-emerges-ages-4-6.md) — related
 - [RTPJ selectivity correlates with behavioral ToM task performance across blind and sighted children combined](rtpj-selectivity-correlates-tom-behavior.md)
+- [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related

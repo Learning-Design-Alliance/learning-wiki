@@ -46,3 +46,4 @@ Practitioner observation across repeated deliveries of the Fundamentals lessons 
 - [Professional learning experiences shift teachers' beliefs away from traditional views toward practice-based science and increase implementation confidence, with gains leveling off after initial workshops](openscied-pd-shifts-teacher-beliefs-confidence.md) — related
 - [The two-week SCIS workshop shifted participants' concerns from lower-stage nonuser patterns toward higher-stage user patterns](workshop-shifts-concerns-toward-user-profile.md) — related
 - [Across approximately 400 workshop participants, learners report that hands-on n-gram activities build a new mental model of LLMs as probabilistic next-word generation at scale](unplugged-ngram-activities-demystify-llms.md) — related
+- [Workshop participants reported that the ESSA four-tier model under-delivers evidence about for whom and under what conditions technologies work](four-tier-model-misses-context-evidence.md) — related

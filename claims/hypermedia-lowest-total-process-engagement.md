@@ -43,4 +43,6 @@ Bonferroni-corrected Mann-Whitney pairwise comparisons from the think-aloud expe
 
 
 ## Related Claims
--
+- [Self-explanation-based and inquiry learning environments elicit significantly more total learning-process instances than hypermedia and observational learning environments](generation-approaches-elicit-more-learning-processes.md) — possibly the same claim (merge candidate)
+- [Observational learners read and filter more than hypermedia learners, and hypermedia learners check more solution steps than self-explanation learners](superficial-subcategory-contrasts.md) — related
+- [Self-explanation-based and inquiry learning elicit more elaborative processes than hypermedia and observational learning, fully for hypothesis testing and integrating and partly for giving explanations](generation-approaches-elicit-more-elaborative-processes.md) — related

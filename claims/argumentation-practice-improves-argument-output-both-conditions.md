@@ -65,3 +65,4 @@ GLMM on evidence-based units in essays showed no condition-by-time interaction (
 
 - [Both agent-based model and visualization video conditions produce comparable gains in declarative nanoscience knowledge, with no Group × Time interaction](abm-video-equal-declarative-knowledge-gains.md)
 - [Microgenetic analysis showed the reflection condition diverged from the control condition in Weakening-Other usage only after reflective activities were introduced](microgenetic-divergence-weakening-other-after-reflection.md)
+- [The two conditions performed comparably in using evidence to support their own position, the less demanding argument function](support-own-evidence-comparable-across-conditions.md) — related

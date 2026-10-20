@@ -62,4 +62,4 @@ Per-experiment t-tests: in experiment 2 no tendency towards a difference between
 
 
 ## Related Claims
--
+- [Lessons using contrasts between critical aspects produced greater long-term retention than the other lessons in each learning study cycle, though not significantly so in individual experiments](contrast-lessons-greater-long-term-retention.md) — possibly the same claim (merge candidate)

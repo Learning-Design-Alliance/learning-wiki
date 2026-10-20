@@ -164,3 +164,4 @@ A systematic search of bibliographic databases identified 69 effect sizes from 6
 - [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — related
 - [Non-interactive teaching is more than a special case of retrieval practice, with generative processing and social presence linked to its effects](noninteractive-teaching-beyond-retrieval.md) — a narrower finding that bears on this claim
 - [AI shifts the learner's role from producer to evaluator of mathematical meaning across multiple generative strategies](production-to-evaluation-shift-generative-strategies.md) — related
+- [Awareness prompts stimulated discourse about more concepts but did not improve shared drawing quality in elementary dyads](awareness-prompts-discourse-not-drawing-quality.md) — related

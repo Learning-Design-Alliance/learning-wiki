@@ -66,3 +66,4 @@ Theoretical argument drawn from the Bayesian framework literature: without such 
 - [The framework's validation is limited: structure and parameterisation were tested only on a small dataset and only for predictive accuracy](causal-assessment-framework-validation-limitations.md) — related
 - [On the ASSISTments 2020 dataset, StanBKT inference methods achieve nearly identical predictive performance while differing mainly in fit time](stanbkt-methods-comparable-predictive-performance-assistments-2020.md) — related
 - [Group-level marginal inferences identify population propensity and autonomy but are nearly vacuous for higher algorithmic skill levels](group-marginal-inferences-cat-skills-propensity.md) — related
+- [Children extend statistical causal learning to psychological causes, inferring others' desires by 20 months](statistical-causal-learning-psychological-domains.md) — a narrower finding that bears on this claim

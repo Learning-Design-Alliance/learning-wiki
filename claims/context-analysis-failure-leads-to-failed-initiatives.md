@@ -43,4 +43,4 @@ Theoretical argument in the article's introduction, attributed to Romiszowski an
 
 
 ## Related Claims
--
+- [School reform efforts often narrowly focus on instruction, curriculum and pedagogy while overlooking organizational and community conditions](reform-narrowly-focuses-on-instruction.md) — a broader claim this one bears on

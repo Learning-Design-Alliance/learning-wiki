@@ -43,4 +43,4 @@ Comparison of teacher marks (TM) with peer marks (PM) and peer-plus-self marks (
 
 
 ## Related Claims
--
+- [Item analysis flags items whose marking instructions mislead peer assessors](item-analysis-flags-marking-instruction-problems.md) — related

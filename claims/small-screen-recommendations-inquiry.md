@@ -45,3 +45,5 @@ A qualitative design-inquiry in which learning objects demonstrating various mod
 ## Related Claims
 
 - [A river-study conceptual model on handhelds supported observation, analysis, experimentation, and report writing for 72 secondary students in fieldwork](river-conceptual-model-fieldwork-case.md)
+- [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related
+- [Augmented reality and QR-code mobile systems enable context-aware language learning in designated physical zones](ar-qr-codes-context-aware-language-learning.md) — related

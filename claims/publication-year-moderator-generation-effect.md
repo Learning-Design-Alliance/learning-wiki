@@ -43,4 +43,5 @@ Subset moderator analysis splitting studies at the year 2000, plus meta-regressi
 
 
 ## Related Claims
--
+
+- [Text generation interventions improve learning with texts compared to reading them, with a medium overall effect (g = 0.41)](text-generation-overall-effect.md)

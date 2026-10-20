@@ -45,3 +45,6 @@ Partial correlation analysis in a cross-sectional study of 1561 children aged 8�
 ## Related Claims
 
 - [Screen time is negatively correlated with self-regulation in Chilean children](screen-time-negatively-correlated-self-regulation-children.md)
+- [Children meeting more healthy lifestyle habits show higher self-regulation](more-healthy-habits-higher-self-regulation.md) — related
+- [Active children show higher self-regulation than inactive/high screen time peers regardless of their own screen time level](active-children-high-screen-time-higher-self-regulation.md) — a narrower finding that bears on this claim
+- [Active children show higher self-regulation than inactive children, and children with under 2 h/day screen time show higher self-regulation than those with 2 h or more](active-children-higher-self-regulation-than-inactive.md) — related

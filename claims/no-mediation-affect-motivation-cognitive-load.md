@@ -43,4 +43,7 @@ Path models tested affect (PANAS), motivation (four IMI subscales), and cognitiv
 
 
 ## Related Claims
--
+- [Learning the CVS with self-generated, vicarious, combined, or no errors during PS-I does not differentially affect CVS posttest performance when controlling for prior knowledge](cvs-error-type-no-posttest-differences.md) — related
+- [Error conditions differed in negative affect but not positive affect after the PS-phase learning materials](negative-affect-differs-positive-affect-not.md) — related
+- [Cognitive load partially mediates the relationship between AI-based educational technology use and critical thinking](cognitive-load-partially-mediates-ai-critical-thinking.md) — related
+- [Motivation, affect, and learner beliefs shape whether AI evidence is accepted, resisted, or used in singing training](motivation-affect-beliefs-shape-ai-feedback-use.md) — related

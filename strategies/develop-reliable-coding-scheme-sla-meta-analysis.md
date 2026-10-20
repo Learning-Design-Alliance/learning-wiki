@@ -42,7 +42,8 @@ As the second of the review's four stages, meta-analysts in SLA should develop a
 
 
 ## Related Strategies
-- 
+
+- [Segment simulations into beginning, escalation, and peak phases before analyzing regulation and physiological activation](segment-simulation-phases-before-regulation-analysis.md)
 
 ## Examples
 -

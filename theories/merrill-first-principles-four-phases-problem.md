@@ -44,6 +44,7 @@ The digest presents Merrill's (2002) First Principles of Instruction as the most
 - [First Principles of Instruction](first-principles-of-instruction.md)
 - [TEFA-T: a teaching factory learning model structured around a nine-step troubleshooting syntax](../products/tefa-t.md)
 - [First principles of instruction: a cycle of activation, demonstration, application, and integration in the context of real-world tasks](merrill-first-principles-instruction-cycle.md)
+- [Merrill's first five principles of instruction as the framework for quality teaching and learning](merrill-first-five-principles-framework-sarfo-2010.md)
 
 ## Examples
 

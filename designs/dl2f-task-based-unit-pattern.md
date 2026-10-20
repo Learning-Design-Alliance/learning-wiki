@@ -44,6 +44,10 @@ DL2F organizes instruction into task-based learning units embedded in the existi
 - [DL2F is grounded in communicative language teaching theory prioritizing communication as the key objective of language learning](../claims/dl2f-grounded-in-clt-theory.md) [+W]
 - [DL2F aligns with social and cognitive constructivist theories of learning](../claims/dl2f-constructivist-alignment.md) [+W]
 
+## Related Designs
+
+- [Language-embedded, project-based college-preparatory curriculum integrating content and language objectives](content-language-integration-bricks-and-mortar.md)
+
 ## Related Patterns
 - 
 

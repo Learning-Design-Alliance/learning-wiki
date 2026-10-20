@@ -47,3 +47,4 @@ The authors' theoretical interpretation of dialogue patterns, offered as an expl
 - [In school studies, cooperative and peer-learning methods that reward groups on every member's individual learning raised achievement more than methods without such rewards](cooperative-learning-group-rewards-and-individual-accountability.md) — related
 - [Turn-taking with an AI partner shows slower responses, reduced learner floor share, and greater within-turn fluency](ai-turn-taking-latency-floor-pause.md) — related
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
+- [Students interpreted discourse visualisation accurately and expressed motivation to contribute more to rank highly](students-interpret-visualisation-and-motivated-to-contribute.md) — related

@@ -43,4 +43,8 @@ The review's synthesis of its 58 included studies states that interventions "are
 
 
 ## Related Claims
--
+- [A 9-month afterschool physical activity program improved cardiorespiratory fitness and the cognitive control of working memory, with ERP evidence of more effective cognitive control](kamijo-afterschool-fitness-working-memory.md) — a narrower finding that bears on this claim
+- [Physical activity, including brief aerobic exercise sessions, improves children's selective attention](physical-activity-improves-children-selective-attention.md) — a narrower finding that bears on this claim
+- [Adolescents with high weekly physical exercise hours (more than 4 h/week) show significantly better selective attention, concentration, and processing speed than lower-exercise groups, with no differences between low and moderate groups](high-exercise-hours-better-cognitive-adolescents.md) — related
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — reports the opposite
+- [Physical activity is positively correlated with children's working memory, and integrated exercise with gestures yields the best preschool foreign-language vocabulary learning](physical-activity-working-memory-vocabulary.md) — related

@@ -43,4 +43,4 @@ Qualitative and content analysis of transcribed DP role-play discourse under the
 
 
 ## Related Claims
--
+- [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — related

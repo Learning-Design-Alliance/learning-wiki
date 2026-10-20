@@ -45,3 +45,4 @@ Methodological-moderator analysis of the 51 contrasts testing six variables: sam
 ## Related Claims
 
 - [Studies in which online learners spent more time on task than face-to-face learners showed a greater benefit for online learning (+0.46 vs. +0.19; Q = 3.88, p < .05).](time-on-task-moderates-online-advantage.md)
+- [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md) — related

@@ -46,3 +46,4 @@ Quantitative synthesis of 111 payoff designs extracted from 63 publications incl
 - [Many four-cell PDW payoff matrices imply an optimal strategy of always wagering high](many-pdw-matrices-imply-always-wager-high-optimal.md) — related
 - [In standard free-choice wagering schemes only the lowest and highest wagers are ever optimal](free-choice-only-extreme-wagers-optimal.md) — related
 - [No-loss gambling and gains-only designs avoid loss-aversion complications in PDW](no-loss-gambling-and-gains-only-designs-avoid-loss-aversion.md) — related
+- [Participants frequently deviate from optimal wagering strategies implied by payoff matrices](participants-deviate-from-optimal-wagering-strategies.md) — related

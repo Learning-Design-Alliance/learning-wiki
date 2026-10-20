@@ -17,7 +17,7 @@ sources:
 # Sensitize teachers and school administrators to chronic stereotype threat effects and provide classroom-based interventions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 3 claims (3 for) · 3 studies (1 review, 1 associational, 1 theoretical), `q1`–`q3` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article recommends that from a practical perspective, it is essential for teachers and school administrators to be sensitized to the effects of chronic stereotype threat and its consequences. It suggests that "Mindfulness training or methods used in cognitive-behavioral therapy may be suitable to reduce the emotional and cognitive outcomes of a repeated experience of stereotype threat." Such interventions can be provided by teachers as parts of classroom training.
@@ -35,6 +35,12 @@ The article recommends that from a practical perspective, it is essential for te
 
 ### Target Learning Goals
 - reducing stereotype threat effects on emotions, cognition, and performance
+
+## Claims
+
+- [Stereotype threat in collaborative contexts can interfere with working memory and reduce meaningful contribution](../claims/stereotype-threat-undermines-collaborative-contribution.md) [+W]
+- [Chronic stereotype threat is negatively associated with mathematical achievement in secondary schoolgirls](../claims/chronic-stereotype-threat-lower-math-achievement.md) [+W]
+- [Stereotype threat compromises the test performance of learners whose group is the target of a negative stereotype](../claims/stereotype-threat-compromises-performance.md) [+M]
 
 ## Related Strategies
 - 

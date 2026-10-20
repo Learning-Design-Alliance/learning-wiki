@@ -73,6 +73,7 @@ Positive interdependence is the mechanism through which cooperative structures o
 
 **Team-based learning (TBL)** — Michaelsen's Readiness Assurance process: teams submit a single answer sheet and receive immediate group feedback, with individual and team scores both counting.
 - [Design CSCL assignments with individual accountability and positive interdependence](../strategies/cscl-individual-accountability-positive-interdependence.md)
+- [Combine monetary inducements with group-based competition for cash rewards to motivate lower-class adolescents](../strategies/group-based-cash-reward-structure.md)
 
 ## Key Sources
 - Johnson, D. W., & Johnson, R. T. (2009). An educational psychology success story: Social interdependence theory and cooperative learning. *Educational Researcher, 38*(5), 365–379. [doi:10.3102/0013189X09339057](https://doi.org/10.3102/0013189X09339057)

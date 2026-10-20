@@ -17,7 +17,7 @@ sources:
 # Future research should study affect and emotion as structural, systemic, racialized, gendered, and embodied phenomena
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The editorial's forward-looking agenda calls for research on affect/emotion as structural or systemic phenomena, and research "that delves deeply into affect and emotion as racialized, gendered, and embodied phenomena in relation to intersecting systems of oppression." The authors note this may require new methodological approaches, since the papers in this issue largely rely on coding or discourse analysis of teachers' talk, and additional conceptual and theoretical innovation drawing on affect theories from other disciplines.
@@ -37,6 +37,10 @@ The editorial's forward-looking agenda calls for research on affect/emotion as s
 
 ### Target Learning Goals
 - Understanding affect and emotion in STEM teacher learning as structural and systemic phenomena
+
+## Claims
+
+- [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](../claims/racialized-emotions-unexplored-construct.md) [+W]
 
 ## Related Strategies
 - 

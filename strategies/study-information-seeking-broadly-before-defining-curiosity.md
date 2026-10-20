@@ -17,7 +17,7 @@ sources:
 # Study curiosity broadly as information-seeking in ethological context rather than fixing a strict definition first
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that researchers "study it in its ethological context" and that "the definition stage follow a relatively solid characterization of curiosity, defined as broadly as possible". Broadening scope allows study of information-seeking in non-humans, sets aside speculation about decision-makers' motivations, builds bridges to reward and learning, and exploits powerful new information-seeking tasks. The authors accept the resulting terminological confusion as a cost outweighed by open-mindedness.
@@ -35,6 +35,10 @@ The article recommends that researchers "study it in its ethological context" an
 
 ### Target Learning Goals
 - building an integrative empirical understanding of curiosity and information-seeking
+
+## Claims
+
+- [Monkeys pay for non-strategic information: information about a reward is worth about 25% of the reward's value](../claims/monkeys-value-information-25-percent-of-reward.md) [+W]
 
 ## Related Strategies
 - 

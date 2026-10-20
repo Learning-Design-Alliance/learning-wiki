@@ -45,3 +45,4 @@ The commentary reports, citing McDaniel and Einstein (2005), the material-approp
 ## Related Claims
 
 - [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md)
+- [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — a narrower finding that bears on this claim

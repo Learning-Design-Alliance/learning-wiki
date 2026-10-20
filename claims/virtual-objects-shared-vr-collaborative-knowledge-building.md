@@ -47,3 +47,4 @@ The introduction's summary of the Huang, Walkington, and Nathan study reports th
 - [Collaborative speech strongly co-occurs with actions on virtual objects and virtual hand gestures in shared VR geometry tasks](speech-co-occurs-with-actions-and-gestures-shared-vr.md) — a narrower finding that bears on this claim
 - [Virtual objects serve as effective media for collaborative knowledge building in shared VR environments](virtual-objects-effective-media-collaborative-knowledge-vr.md) — possibly the same claim (merge candidate)
 - [Embodied collaborative construction can build shared geometric reasoning](embodied-collaborative-construction-can-build-shared-geometric-reasoning.md) — related
+- [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md) — related

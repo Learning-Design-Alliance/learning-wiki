@@ -43,7 +43,9 @@ Three-level random-effects meta-analysis of k = 129 effect sizes nested in 74 un
 
 
 ## Related Claims
+
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
 - [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related
 - [Scaffolded Close Reading Improves Comprehension For Struggling Readers](scaffolded-close-reading-improves-comprehension-for-struggling-readers.md) — related
 - [In the grades 4-5 cluster RCT, ITSS produced statistically significant positive effects on all six comprehension outcomes (average effect size 0.24)](itss-grade45-rct-comprehension-gains.md) — related
+- [Earlier studies report larger text generation effects than later studies, with a stable negative effect of publication year](publication-year-moderator-generation-effect.md)

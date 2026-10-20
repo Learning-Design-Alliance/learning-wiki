@@ -54,3 +54,4 @@ Statewide credential-issuance figures reported in the report's background sectio
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
 - Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [California substandard credentials and permits tripled between 2013 and 2023 and made up more than half of new teaching authorizations issued in 2023](california-substandard-credentials-tripled-2013-2023.md) — related
+- [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — related

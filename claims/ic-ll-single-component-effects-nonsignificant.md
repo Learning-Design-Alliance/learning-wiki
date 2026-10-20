@@ -45,3 +45,4 @@ Subgroup findings in Appendix A4.2 report Literature Logs only versus comparison
 
 - [Some classroom discussion approaches improve text comprehension, but gains are not uniform across approaches and more student talk alone does not produce them](structured-discussion-methods-improve-comprehension.md) — the general claim this finding bears on, with the studies behind it
 - [Instructional Conversations and Literature Logs produce statistically significant positive effects on factual and interpretive story comprehension in a short-term randomized trial with English language learners](ic-ll-significant-story-comprehension-rct.md) — related
+- [Shared story reading was always implemented as one component of a multi-component intervention package, so component contributions are unknown](shared-story-reading-multicomponent-package-unknown-components.md) — a narrower finding that bears on this claim

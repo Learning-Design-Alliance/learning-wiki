@@ -44,3 +44,6 @@ The executive summary's framing paragraph reports national prevalence figures, a
 
 ## Related Claims
 - The 2013 SCS report also covers gangs, weapons, drugs, alcohol, bullying, cyberbullying, and avoidance behaviors at school — related
+- [Peer programs, including cooperative learning strategies, were concluded to be the single most effective school-based approach for reducing youth alcohol and drug use](peer-programs-most-effective-drug-use-prevention.md) — related
+- [Recovery high school attendance may improve absenteeism, abstinence, and reduce marijuana and other drug use, based on a single quasi‐experimental study with serious risk of bias](rhs-improves-absenteeism-abstinence-drug-use-single-qed.md) — related
+- [Recovery high schools were no better or worse than comparison high schools on grade point average, truancy, or alcohol use in the single included study](rhs-no-difference-gpa-truancy-alcohol.md) — related

@@ -27,7 +27,8 @@ The article adapts the Graesser et al. taxonomy, which "classifies student quest
 - [Continuing-generation students showed higher usage of procedural and directive question types, while first-generation students leaned toward verification and expectational questions](../claims/generation-differences-in-question-type-usage.md) [+M]
 
 ## Related Research Methods
--
+
+- [Four-level rubric for teachers' reflective prompts adapted from Van Manen's reflective levels](four-level-rubric-for-teachers-reflective-prompts-adapted-from-van-manens-reflective-level.md)
 
 ## Key Sources
 - Matin Amoozadeh and Amin Alipour. (2026). Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks. https://arxiv.org/abs/2608.17919

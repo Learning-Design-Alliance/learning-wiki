@@ -62,3 +62,4 @@ Qualitative case-study analysis of conversational interactions of 7 dyads workin
 - [After working with the script, students improved their individual task representation of high-level tasks and their strategy reflection](post-script-improvement-task-representation-strategy-reflection.md) — related
 - [Middle school students in inquiry-based computer-based learning environments gain more conceptual understanding of force and energy than peers in regular inquiry-based classrooms](computer-based-ibl-greater-conceptual-understanding-gains.md) — related
 - [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](vr-participants-lacked-mutual-engagement-role-playing.md) — related
+- [Awareness prompts stimulated discourse about more concepts but did not improve shared drawing quality in elementary dyads](awareness-prompts-discourse-not-drawing-quality.md) — related

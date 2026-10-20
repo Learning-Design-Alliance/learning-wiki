@@ -45,3 +45,6 @@ The editors report on the experimental study by Erkens, Bodemer, and Hoppe, in w
 ## Related Claims
 
 - [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md)
+- [In a high school EFL active-reading setting, mixed genetic algorithm group formation with Wordcloud awareness produced significantly greater vocabulary learning gains than random grouping](mixed-ga-grouping-greater-vocabulary-gain-efl.md) — a narrower finding that bears on this claim
+- [Scaffolding improves learning](scaffolding-improves-learning.md) — a broader claim this one bears on
+- [Process mining of two fitness-typical groups suggests the group with more heterogeneous yellow markers and shared red markers worked more efficiently while both achieved the same summary outcome](process-mining-heterogeneous-yellow-group-more-efficient.md) — related

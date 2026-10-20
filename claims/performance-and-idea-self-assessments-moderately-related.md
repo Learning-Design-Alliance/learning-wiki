@@ -45,3 +45,4 @@ Descriptive intercorrelation analysis in the online study (N = 425): "Self-asses
 ## Related Claims
 
 - [Self-assessed creative performance is slightly underestimated while self-assessed idea creativity is moderately overestimated](performance-underestimated-ideas-overestimated.md)
+- [Self-assessed creative performance correlates moderately with divergent thinking, but self-assessed idea creativity does not](performance-self-assessment-tracks-dt-idea-self-assessment-does-not.md) — related

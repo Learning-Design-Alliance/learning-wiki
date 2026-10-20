@@ -62,4 +62,7 @@ Profile plots and fit metrics characterised the four classes; AvePP values were 
 
 
 ## Related Claims
--
+- [Four distinct LLM learner profiles emerge from latent class analysis of learning contexts, tasks, and devices](four-llm-learner-profiles-lca.md) — related
+- [Exploratory K-means clustering identifies four heterogeneous student AI-user profiles differing in experience, competence, usefulness, trust, and control, but the solution's optimality and stability are not established](exploratory-four-cluster-student-ai-profiles.md) — related
+- [Three emergent roles — leader, social mediator, and peripheral explorer — were identified in online PBL discussions from CoI-coded discourse using latent class analysis.](coi-three-pbl-roles-lca.md) — related
+- [Latent profile analysis of 2015 PISA data identifies four collaborative problem-solver profiles among Chinese 15-year-old students](four-collaborative-problem-solver-profiles-pisa.md) — related

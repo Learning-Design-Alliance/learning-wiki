@@ -64,3 +64,4 @@ Concluding statement of the exploratory study of whiteboard and chat collaborati
 ## Related Claims
 
 - [The acknowledgment rate — how often partners give feedback of having perceived, understood, and accepted contributions — varies according to the medium and the content of interactions](acknowledgment-rate-varies-media-and-content.md)
+- [Tabletops tend to be small-group environments, contrasting with personal devices and public whiteboards](tabletops-small-group-environments-contrast-desktops-whiteboards.md) — related

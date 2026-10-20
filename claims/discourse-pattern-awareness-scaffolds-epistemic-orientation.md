@@ -45,3 +45,5 @@ The editors state this as an implication of the Fu et al. discourse-pattern clas
 ## Related Claims
 
 - [A text-mining group and representation tool scaffolds students' learning processes and improves outcomes under specific conditions](grt-text-mining-group-formation-scaffolds-learning.md)
+- [Educational YouTube videos about ChatGPT fall into three structurally distinct discourse groups: learning-oriented scaffolding (G1), skill-building retrieval practice (G2), and output/productivity orientation (G3)](three-chatgpt-youtube-discourse-groups.md) — related
+- [Positioning personal experience as an epistemic resource supports expansion from inward to outward critical orientations](positioning-personal-experience-as-epistemic-resource-supports-critical-orientation-expansion.md) — related

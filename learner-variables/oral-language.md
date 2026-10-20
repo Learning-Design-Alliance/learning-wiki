@@ -142,6 +142,8 @@ It matters most in preschool and the early grades. Telling stories helps childre
 
 ## Examples
 
+- [Sobrato Early Academic Language (SEAL) model](../products/sobrato-early-academic-language-seal-model.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Language Skills (Building Math PK-2). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-pk-2/factors/language-skills-math-pk-2/summary). Licensed CC BY-NC 4.0.
 - Digital Promise. *Learner Variability Navigator*: Narrative Skills (Building Literacy PK-3). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/literacy-pk-3/factors/narrative-skills-literacy-pk-3/summary). Licensed CC BY-NC 4.0.

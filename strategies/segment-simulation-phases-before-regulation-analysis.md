@@ -45,7 +45,8 @@ The article argues that examining EDA and its relationship to regulation is chal
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](../claims/srl-ssrl-behaviors-predict-eda-simulation-stages.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Develop a reliable coding scheme as a distinct stage of an SLA meta-analysis](develop-reliable-coding-scheme-sla-meta-analysis.md)
 
 ## Examples
 -

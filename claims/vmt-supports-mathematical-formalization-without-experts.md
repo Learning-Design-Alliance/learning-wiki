@@ -43,4 +43,5 @@ Editorial report of Diler Oner's case study of three students collaboratively so
 
 
 ## Related Claims
--
+- [Persistence of inscriptions in the VMT environment supported students explaining postings and establishing collaborative activity](persistence-affordance-supports-collaborative-explanation.md) — related
+- [SAGLET's real-time learning analytics provided alerts that enabled the teacher to monitor groups and give appropriate feedback](saglet-alerts-teacher-monitoring-feedback.md) — related

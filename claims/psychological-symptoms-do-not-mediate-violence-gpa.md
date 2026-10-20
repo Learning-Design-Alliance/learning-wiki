@@ -45,3 +45,4 @@ Hierarchical multiple regression with the GPA subsample (n = 96) testing interna
 ## Related Claims
 - [Externalizing and internalizing symptoms, but not posttraumatic stress symptoms, mediate the association between community violence exposure and later school engagement](internalizing-externalizing-symptoms-mediate-violence-engagement.md) — related
 - [School engagement partially mediates the association between earlier community violence exposure and later cumulative GPA](school-engagement-partially-mediates-violence-gpa-link.md) — related
+- [Earlier community violence exposure inversely predicts later school engagement, but earlier school engagement does not predict later community violence exposure](community-violence-predicts-lower-later-school-engagement-unidirectional.md) — related

@@ -64,3 +64,4 @@ The review attributes the null RCT findings partly to implementation: "SBP atten
 ## Related Claims
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
 - [A binding SBP mandate increases milk and fruit consumption and decreases soda consumption, but its effects on attendance are imprecise, suggesting the achievement effect operates through improved nutrition](sbp-improves-nutrition-not-attendance.md) — related
+- [A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period](low-gl-breakfast-on-task-shortlived.md) — reports the opposite

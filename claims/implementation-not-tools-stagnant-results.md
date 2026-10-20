@@ -45,3 +45,5 @@ Authors' interpretive conclusion drawn from usage data across the three pilots; 
 ## Related Claims
 - U.S. technology spending per learner is far lower in adult education (about $50) than in K-12 (about $145), signaling stagnant ed-tech innovation in adult learning — related
 - US federal adult education funding structures (AEFLA and Title I) are fragmented and lack purchasing leverage, making scale difficult for ed-tech entrepreneurs — related
+- [A matched-comparison analysis found no effect of the TenMarks summer program on NWEA MAP math scores](tenmarks-summer-no-effect-map.md) — related
+- [Students used their assigned ed-tech tools far below recommended levels, and usage declined over the summer](low-declining-summer-edtech-usage.md) — related

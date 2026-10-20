@@ -43,4 +43,9 @@ Study of 48 dyads of 10th grade students (15–17 year-old) using a computer sim
 
 
 ## Related Claims
--
+- [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
+- [Team regulation correlates positively with learning results only in the CHT condition](team-regulation-learning-results-correlation-cht.md) — reports the opposite
+- [In collaborative inquiry learning, dyads use more team regulation than task regulation in all support conditions](team-regulation-exceeds-task-regulation-collaborative-inquiry.md) — related
+- [Provided support does not influence task regulation between conditions](support-does-not-influence-task-regulation.md) — related
+- [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
+- [Instruction about collaboration rules alone has limited utility; explicit scaffolding via joint reflection tools during collaboration adds unique value](instruction-alone-limited-joint-reflection-tool-values.md) — a broader claim this one bears on

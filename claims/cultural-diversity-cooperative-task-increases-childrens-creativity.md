@@ -43,4 +43,5 @@ Randomized 2×2 between-subjects experiment with 149 Italian elementary schoolch
 
 
 ## Related Claims
--
+- [Cultural diversity increases schoolchildren's creativity when a communal mindset is salient](diversity-boosts-creativity-communal-mindset.md) — related
+- [The effect of cultural diversity on children's creativity is moderated by mindset, with a significant Diversity × Mindset interaction](diversity-mindset-interaction-childrens-creativity.md) — related

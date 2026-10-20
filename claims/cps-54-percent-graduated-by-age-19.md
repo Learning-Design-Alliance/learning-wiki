@@ -46,3 +46,4 @@ Cohort-tracking analysis of Chicago Public Schools administrative records follow
 - [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — a broader claim this one bears on
 - [Only about 53 percent of CPS students who were first-time freshmen in 2000-01 took the PSAE within four years, with rates varying by race and gender](psae-cohort-freshmen-53-percent-tested.md) — related
 - [Over 40 percent of Chicago Public Schools students drop out by age 19, with a slight downward trend across the 1991–1994 cohorts](cps-cohort-dropout-over-40-percent-slight-decline.md) — related
+- [Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years](transfer-coding-explains-only-2005-2008-gains.md) — related

@@ -72,3 +72,4 @@ Comparison of publicly reported proficiency trends with the report's own student
 - [Profile trends labeled up or down are determined by statistical criteria, so those labels denote statistically significant trends](trend-labels-statistically-significant-criteria.md) — related
 - [Increased score variability was primarily driven by spreading out at the bottom end of the achievement distribution](variability-driven-by-bottom-of-distribution.md) — related
 - Rising CPS graduation rates have been accompanied by higher achievement, including ACT and GPA gains — related
+- [Data coding issues could account for some graduation-rate improvement between 2005 and 2008, but not for improvements in subsequent years](transfer-coding-explains-only-2005-2008-gains.md) — related

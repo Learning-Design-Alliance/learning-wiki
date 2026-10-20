@@ -66,3 +66,4 @@ The review attributes to Schulz and Gopnik (2004) the finding that covariation-b
 - [Preschoolers make probabilistic backward-blocking causal inferences, with capacities appearing by 18 months](backward-blocking-preschoolers-infants.md) — related
 - [Four-year-olds infer unobserved hidden causes when observed variables cannot explain the evidence](children-infer-unobserved-causes.md) — related
 - [Children integrate prior knowledge with new statistical evidence in a Bayesian way, overturning initially likely hypotheses](children-bayesian-prior-evidence-integration.md) — a broader claim this one bears on
+- [Formalisation of theory offers generative models, counterfactual reasoning, and optimal-performance yardsticks unavailable to verbal accounts](benefits-of-formal-modelling-theory.md) — a broader claim this one bears on

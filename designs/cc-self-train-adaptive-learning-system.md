@@ -43,6 +43,7 @@ The adaptive learning system observes learner engagement quality through keyword
 
 - [Closed-loop three-layer interpretable ITS architecture linking multimodal scoring, expressive diagnostics, and conversational coaching](closed-loop-three-layer-interpretable-its-architecture.md)
 - [HeuristicEdu: an SFT-then-GRPO alignment pipeline with a three-component heuristic reward for Socratic tutoring](heuristicedu-sft-grpo-pipeline.md)
+- [TANDEM radar-tracking simulation training task with 2x2x2 fully crossed experimental design (N = 350)](tandem-radar-simulation-2x2x2-active-learning-experiment.md)
 
 ## Examples
 -

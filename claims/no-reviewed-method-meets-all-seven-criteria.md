@@ -43,4 +43,7 @@ Comparative analysis in Table #1 rating six method families against the seven cr
 
 
 ## Related Claims
--
+- [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — a broader claim this one bears on
+- [Algorithmic empathy is culturally fragile: emotional inference errors in socio-emotional AI can invalidate teachers' experiences, so systems require local validation and participatory design](cultural-fragility-algorithmic-empathy.md) — related
+- [Community college students want to play a role in edtech evaluation and procurement decisions](ccc-students-want-role-in-edtech-evaluation.md) — related
+- [The review reports that role-playing exercises significantly enhanced students' 21st-century skills including communication, collaboration, and critical thinking](role-play-enhances-21st-century-skills.md) — related

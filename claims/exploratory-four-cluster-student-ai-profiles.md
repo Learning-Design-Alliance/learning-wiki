@@ -70,3 +70,4 @@ Exploratory K-means clustering among students only (n = 961, nine features, fixe
 - [Three learning profiles emerge among university students: organized-deep, unorganized-deep, and dissonant](three-learning-profiles-kmeans.md) — related
 - [Cluster analysis across both studies identifies three meta-attention knowledge profiles, including an overconfident group with a self-knowledge/strategy mismatch](makq-three-meta-attention-profiles.md) — related
 - [Affinity propagation clustering of gameplay attempts yielded an interpretable six-cluster solution (part.6)](affinity-propagation-six-cluster-solution.md)
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related

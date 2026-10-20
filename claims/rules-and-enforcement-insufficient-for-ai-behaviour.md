@@ -43,4 +43,4 @@ The article's introductory assertion, attributed to cited empirical work rather 
 
 
 ## Related Claims
--
+- [Universities remaining at early AI-adoption stages risk reactive policies, fragmented practice, and misalignment between assessment and real-world practice](early-stage-ai-adoption-risks.md) — related

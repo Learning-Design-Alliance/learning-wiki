@@ -48,3 +48,4 @@ Strukelj et al. (as summarized in this commentary) identify the definitional pro
 - [Neither disfluency nor distinctiveness affected memory across three experiments with alien-list stimuli](disfluency-distinctiveness-null-rummer.md)
 - [Disfluency shows no negative effects on learning; the common-sense hypothesis that it harms learning can be rejected](disfluency-no-negative-effects.md)
 - [Whether a difficulty benefits memory depends on whether it exercises processes not already supported by the material (material-appropriate processing)](material-appropriate-processing-difficulty-fit.md)
+- [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related

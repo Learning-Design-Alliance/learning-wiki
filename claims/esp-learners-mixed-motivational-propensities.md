@@ -108,3 +108,4 @@ Descriptive item analysis of intrinsic subtypes: "all Intrinsic Motivati on-Know
 - [Teachers hold conflicting attitudes about whether gameful assessments support students’ intrinsic motivation and desire to learn](teacher-attitudes-gameful-assessment-conflicted.md) — related
 - [Language barriers were the biggest concern for Chinese international students, who reported tripling their reading time in English](language-barriers-biggest-concern-chinese-students.md) — related
 - [Students perceive manageable challenge matched to their skills, with a sense of accomplishment, as an intrinsically rewarding element of fun in formal learning](challenge-accomplishment-fun-primary.md) — related
+- [Item analysis showed high self-reported engagement and subscale differences in discriminatory power, with social engagement items weakest and cognitive engagement items strongest](qcge-sas-item-analysis-discrimination-subscale-differences.md) — related

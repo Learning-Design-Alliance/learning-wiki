@@ -49,3 +49,4 @@ Interview findings from California district leaders in fall 2020. Leaders estima
 - [Core Teams identified communication challenges, school and district leadership turnover, and teacher burnout as barriers that influenced solution success](inclusive-innovation-implementation-barriers.md) — related
 - [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
 - [High teacher attrition, near 8% annually, is the largest share of teacher demand, and halving it could virtually eliminate shortages](teacher-attrition-largest-demand-driver.md) — related
+- [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — related

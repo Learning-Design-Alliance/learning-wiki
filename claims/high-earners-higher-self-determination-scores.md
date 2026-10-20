@@ -45,3 +45,4 @@ Same MANCOVA analysis of former students with cognitive disabilities; the null f
 ## Related Claims
 - [IQ, psychological empowerment, self-realization, and self-regulation subscale scores contributed significantly to variance in hourly pay, while number of vocational education classes did not](self-determination-subdomains-predict-wage-vocational-classes-do-not.md) — a narrower finding that bears on this claim
 - [Former students in the high self-determination group were more likely to be employed for pay about one year after leaving school than those in the low self-determination group](self-determination-higher-employment-one-year-out.md) — related
+- [Preschool teachers' median hourly wage is more than $18 lower than kindergarten teachers' median hourly wage](preschool-teacher-wage-gap-14-67-vs-32-80.md) — related

@@ -65,3 +65,6 @@ The review reports "A total of six (n=6) studies on professional development int
 
 - [Mindfulness and meditation interventions supported teacher well-being in 10 of 12 studies, with two studies showing non-significant changes](mindfulness-interventions-support-teacher-wellbeing.md)
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related
+- [Most reviewed teacher well-being interventions (37 of 46) were categorised supportive, while 9 showed no significant impacts](most-teacher-wellbeing-interventions-supportive.md) — a broader claim this one bears on
+- [Teacher well-being intervention content falls into seven activity themes, with professional development (n=20) and mindfulness/meditation (n=12) most common](seven-content-themes-teacher-wellbeing-interventions.md) — related
+- [A scoping review identified 46 peer-reviewed teacher well-being and burnout intervention studies covering 7369 participants in 15 countries, mostly quantitative](scoping-review-46-teacher-wellbeing-intervention-studies.md) — related

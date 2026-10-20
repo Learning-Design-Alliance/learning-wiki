@@ -43,4 +43,6 @@ Monotrait-heteromethod correlational analysis (Table 7) in 70 college students; 
 
 
 ## Related Claims
--
+- [SRL components show moderate correlations within one assessment level but no correlations across different assessment methods within one component](srl-monomethod-correlations-no-heteromethod.md) — possibly the same claim (merge candidate)
+- [The SKT-SRL shows low, mostly non-significant correlations with SRL microanalysis (online measure)](skt-srl-microanalysis-low-correlation.md) — related
+- [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](task-specific-questionnaire-think-aloud-correlation-51.md) — related

@@ -83,3 +83,4 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 ## Related Claims
 - [Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning](covid-closures-achieving-level-differential-effects.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
+- [Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%](within-family-learning-loss-gap-60-percent.md) — related

@@ -43,4 +43,4 @@ Case-study analysis from the Virtual Math Teams project, part of the project's d
 
 
 ## Related Claims
--
+- [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related

@@ -45,3 +45,4 @@ The authors' synthesis of the six special-issue studies, which collectively exam
 ## Related Claims
 
 - [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md)
+- [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related

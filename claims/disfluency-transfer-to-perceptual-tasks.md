@@ -43,4 +43,7 @@ The authors' concluding speculation, framed from the perspective of transfer. Th
 
 
 ## Related Claims
--
+- [The learning benefits of perceptual disfluency reported by Diemand-Yauman et al. (2011) do not replicate in any general way](disfluency-benefits-do-not-replicate.md) — related
+- [Disfluency is not clearly defined across the literature, hindering replication and precise measurement](disfluency-definition-problem.md) — related
+- [Whether a difficulty benefits memory depends on whether it exercises processes not already supported by the material (material-appropriate processing)](material-appropriate-processing-difficulty-fit.md) — a broader claim this one bears on
+- [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related

@@ -147,6 +147,7 @@ Bullying rated by teachers, bullying reported by students, fear of bullying, bys
 - [Acting and role-play](../strategies/acting-role-play.md) — the format for rehearsing bystander moves
 - [Schools should intervene actively against bullying rather than relying on adolescents' social support networks](../strategies/active-school-intervention-against-bullying.md)
 - [Cast a popular child in the defender role-play](../strategies/popular-child-as-defender-roleplay.md)
+- [The Bullying Circle of participant player roles](../designs/bullying-circle-participant-roles.md)
 
 ## Key Sources
 - U.S. Centers for Disease Control and Prevention. StopBullying.gov.

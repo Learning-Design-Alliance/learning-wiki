@@ -208,3 +208,5 @@ Responding directly to Cameron and Pierce's (1994) conclusion that the undermini
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](need-frustration-not-necessary-for-learning.md) — related
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — possibly the same claim (merge candidate)
 - [Being good role models, taking interest in students' lives outside class, and allowing students choices were the behaviours most consistently associated with positive change in engagement](role-modelling-interest-choice-top-engagement-predictors.md) — related
+- [Behavior modification programs relying on rewards rarely produce lasting changes in attitudes or behavior, and children whose parents frequently use rewards tend to be less generous](rewards-fail-lasting-change-values.md) — related
+- [Reach — which lever settings remain in force when the student is alone with AI — is the framework's organizing question](reach-organizing-question-unsupervised-ai-use.md) — related

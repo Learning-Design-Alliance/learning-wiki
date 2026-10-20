@@ -17,7 +17,7 @@ sources:
 # Semi-structured interview protocol and PVEST-aligned codebook for studying Black girls' identity and socialization
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A qualitative data-collection and analysis toolkit: 12 semi-structured interviews (average 32 minutes, ranging 23–42) covering Black girlhood meaning-making, school and STEM attitudes, and parental messaging, coded in Dedoose with a codebook of "seven overarching codes across identity and socialization." Intercoder percent agreement was 74.48%, slightly below the commonly recommended 80%, which the authors attribute to complex subcodes and simultaneous coding. Figures 1 and 2 depict the socialization and identity codes and subcodes.
@@ -37,7 +37,8 @@ A qualitative data-collection and analysis toolkit: 12 semi-structured interview
 - understanding identity development and parental socialization processes
 
 ### Claims
-- 
+
+- [All participating girls reported parents helping them navigate school-based conflict, with parents advising silence or non-engagement as a protective strategy](../claims/parental-silence-advice-protective-school-conflict.md) [+W]
 
 ## Related Designs
 - 

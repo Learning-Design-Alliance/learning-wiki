@@ -68,3 +68,4 @@ Study 2 Global Theme 3 held that "The sense of fulfillment through positive expe
 - [Instructors perceive that experiential learning cultivates enjoyment, satisfaction, and self-confidence through peer and community engagement (beauty)](instructors-enjoyment-peer-community-engagement.md) — related
 - [Students perceive that interacting with others in experiential learning fosters empathy and a sense of community by enhancing perspective-taking (beauty)](students-interaction-empathy-perspective-taking.md) — related
 - [Teachers rated personal efficiency, caring for learners' needs, and societal contribution as similarly highly important purposes of AI](no-difference-ai-purpose-ratings.md) — related
+- [ACTA study of global leaders identified expertise components including reading people closely, bridging cross-cultural communication, and perspective taking](acta-global-leadership-expertise-components.md) — related

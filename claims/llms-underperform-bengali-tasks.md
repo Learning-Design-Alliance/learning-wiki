@@ -43,4 +43,6 @@ Review of published benchmark evaluations (BenLLM-Eval, Kabir et al. 2024; Bhowm
 
 
 ## Related Claims
+
 - [Bengali's alphasyllabary script incurs a tokenization penalty: elevated token fertility fragments linguistic units and compounds the training data deficit](bengali-tokenization-penalty-fertility.md) — related
+- [Individual internet penetration in rural Bangladesh (36.5%) is about half the urban rate (71.4%), which one case-study preprint argues puts cloud-dependent AI tools out of reach for rural learners](rural-urban-connectivity-exclusion-bangladesh.md)

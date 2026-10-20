@@ -49,3 +49,4 @@ Controlled experiments breaking a continuous narrated animation into learner-pac
 - [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — a broader claim this one bears on
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
+- [Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text](segmentation-idea-units-improve-learning.md) — related

@@ -65,6 +65,8 @@ The review reports, citing Mickelson (1990), the discrepancy between abstract an
 - [Race and Ethnicity](../learner-variables/race-and-ethnicity.md) — predictor: outcomes differ by group: a gap reflecting circumstances and treatment, not a cause
 
 ## Related Claims
+
 - [Ethnic-minority children report higher intrinsic motivation than European-American children despite higher stigma awareness](ethnic-minority-children-higher-intrinsic-motivation.md) — related
 - [Among African American eighth graders high in racial centrality, stronger endorsement of the traditional academic race stereotype is associated with lower academic self-concept, controlling achievement and demographics (Study 1)](stereotype-endorsement-lowers-self-concept-high-centrality-study1.md) — related
 - [Perceived instrumentality enhances student motivation only for students with a positive attitude toward their personal future; for students with a negative future outlook, high utility has the opposite effect](instrumentality-future-attitude-interaction.md) — related
+- [The immigrant optimism hypothesis holds in some cultural contexts but not in others, depending on cultural congruence, cooperative learning, and family educational investment](immigrant-optimism-holds-conditionally.md)

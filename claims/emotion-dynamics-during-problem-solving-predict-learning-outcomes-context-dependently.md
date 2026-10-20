@@ -68,3 +68,4 @@ The paper's most important methodological caution is built into its own framing:
 - [Students exposed to failure-driven scaffolding demonstrated higher quality of constructive reasoning](failure-driven-scaffolding-higher-quality-constructive-reasoning.md) — related
 - [Differential scaffold benefits were more salient for the more difficult learning concept](scaffold-benefits-more-salient-for-difficult-concept.md) — related
 - [Unscaffolded problem-solving before instruction lets students entertain exploratory hypotheses at the expense of experiencing initial failures](unscaffolded-problem-solving-exploratory-hypotheses-versus-failures.md) — related
+- [Manipulation check: instructional condition significantly affected errors made during training, with exploratory learning producing more errors](manipulation-check-exploratory-more-errors.md) — related

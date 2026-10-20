@@ -79,6 +79,7 @@ The Learner Variability Project, developed by Digital Promise, provides the Lear
 ## Related Products and Programmes
 
 - [Renzulli Learning](renzulli-learning.md)
+- [OGAP Math](ogap-math.md)
 
 ## Key Sources
 - Medha Tare, Alison R. Shell, Jessica Jackson. (2022). Shifting Mindsets: Designing Lessons for Learner Variability. Digital Promise. https://digitalpromise.dspacedirect.org/items/c1921acf-1964-4f4d-8232-1e8af6ad7367

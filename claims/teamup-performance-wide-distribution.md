@@ -46,3 +46,4 @@ Descriptive assessment of the logged dataset of 106 teams. The study reports "Th
 
 - [Team psychological safety and team member exchange are not significantly correlated with TEAMUP in-game performance indicators](teamup-psych-safety-exchange-null.md)
 - [In-game time and distance are not very useful indicators of team quality because they are largely driven by team structure](teamup-time-distance-poor-quality-indicators.md)
+- [In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables](teamup-errors-explained-by-cohesiveness.md) — related

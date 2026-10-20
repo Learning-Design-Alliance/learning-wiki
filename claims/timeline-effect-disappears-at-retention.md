@@ -69,3 +69,4 @@ Paired-samples t-tests per condition in the same experiment: Visual and Timeline
 - [The Timeline condition's advantage was concentrated in time-related test items and disappeared in the long run](timeline-advantage-driven-by-time-related-items.md) — related
 - [Presentation condition does not differentially affect microstructure comprehension over five weeks, though VNT and NT groups improved while the text-only group did not](mics-pre-post-no-group-differential-effect.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
+- [Object manipulation in a visual representation significantly improves scores from post-test to retention test after two weeks of non-instruction](manipulation-improves-retention-logic.md) — reports the opposite

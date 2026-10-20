@@ -43,4 +43,4 @@ The review reports that Pare´ and Joordens (2008) found "a small but significan
 
 
 ## Related Claims
--
+- [Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis](peer-marks-mean-correlation-069-with-teacher-marks.md) — related

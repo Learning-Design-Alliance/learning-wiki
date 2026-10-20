@@ -81,3 +81,4 @@ Spearman correlation analysis of continuous factors in the survey. Training dura
 - [Child-parent communication frequency is not associated with CMS scores](cms-communication-null.md) — related
 - [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related
 - [Perceptions of engagement strategies were analyzed for differences by age, gender, and online learning experience](demographic-differences-engagement-strategy-perceptions.md)
+- [Parents' postimplant experiences of children's outcomes largely matched their preimplant expectations, with about four fifths reporting expectations met](ci-parent-expectations-matched-experiences.md) — related

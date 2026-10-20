@@ -17,7 +17,7 @@ sources:
 # Provide a robust orientation when introducing parents to a new second-screen companion app
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Because an app for parents designed to accompany a children's show is a new type of tool for many families, the researchers conclude that a more robust orientation to the app would likely increase its effectiveness. Families who understood the app's purpose explored its components and experimented with its use during co-viewing, while families confused about it did not try out the strategies or tools. Orientation support should therefore accompany distribution of parent-facing companion apps.
@@ -35,6 +35,10 @@ Because an app for parents designed to accompany a children's show is a new type
 
 ### Target Learning Goals
 - Supporting family science talk and joint media engagement around educational media
+
+## Claims
+
+- [In interviews, families who used the app's features more extensively seemed to have better internalized its purpose, and those who explored it most reported stronger self-reported changes in joint media engagement and science](../claims/deeper-app-use-linked-stronger-attitude-changes.md) [+W]
 
 ## Related Strategies
 - 

@@ -45,3 +45,5 @@ A null finding from the targeted document review and expert interviews: the revi
 ## Related Claims
 - [Literature and expert opinion converge on a limited number of key noncognitive attributes that matter for student success, with multiple available instruments](convergence-key-noncognitive-attributes.md) — related
 - Most research on noncognitive assessment and segmentation in postsecondary education is theoretical rather than applied to college practice — related
+- [Comprehensive programs offering wraparound support increase college completion rates, including when replicated in other contexts](wraparound-support-increases-college-completion.md) — related
+- [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related

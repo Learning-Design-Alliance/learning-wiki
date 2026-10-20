@@ -43,4 +43,4 @@ Gap between the course as designed and as taught in the single Spring 2026 offer
 
 
 ## Related Claims
--
+- [The SleepSound team applied science, computer engineering, and product design practices in more segments and at higher simultaneous intensity than the other two teams](claim-sleepsound-intensity-fixes.md) — related

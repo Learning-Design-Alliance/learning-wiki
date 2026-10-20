@@ -51,3 +51,4 @@ Case-study analysis of the Sam/Mick and Nigel/Stan dyads, whose conversational i
 - [Computer-supported collaborative learning with simulation programs fostered conceptual change for students who were cognitively engaged and prepared to reflect on and reconstruct their conceptions](cscl-simulation-conceptual-change-cognitive-engagement.md) — related
 - [Peer conflicts did not always produce conceptual change; they appeared to work only for students prepared to reflect on and reconstruct their conceptions](peer-conflicts-conditional-on-reflection.md) — related
 - [VR participants lacked mutual engagement in collaborative role-playing during the teaching simulation](vr-participants-lacked-mutual-engagement-role-playing.md) — related
+- [Awareness prompts stimulated discourse about more concepts but did not improve shared drawing quality in elementary dyads](awareness-prompts-discourse-not-drawing-quality.md) — related

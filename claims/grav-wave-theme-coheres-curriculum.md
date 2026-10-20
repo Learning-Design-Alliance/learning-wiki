@@ -48,3 +48,4 @@ The authors' interpretive report (type e) from their year-long implementation in
 - [Coherent instruction is theorized to promote achievement by supporting connected learning experiences and student motivation](coherence-theory-student-learning-motivation.md) — a broader claim this one bears on
 - [Integrating literacy and science within authentic real-world experiences can produce greater learning in both areas than teaching either separately](integrated-literacy-science-greater-learning-than-separate.md) — related
 - [Wave 1's greatest challenge was achieving mutual knowledge and coherence among six independently selected projects while respecting their differences](seernet-wave1-coherence-challenge.md) — related
+- [Similar introductory lessons on the same topics were observed across grades separated by multiple years, indicating little curricular development](similar-lessons-across-grades-little-development.md) — related

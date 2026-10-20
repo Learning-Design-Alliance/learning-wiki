@@ -48,3 +48,4 @@ Spearman correlations between PSQI scores and gut microbial phylum proportions i
 - [Sleep quality remains a significant predictor of Stroop Color-Word performance independent of Lentisphaerae proportion, while the Lentisphaerae-Stroop relationship reduces to non-significance](sleep-quality-predicts-color-word-independent-lentisphaerae.md) — related
 - [Sleep quality and Verrucomicrobia are not independently associated with Stroop Word performance](sleep-quality-verrucomicrobia-not-independent-stroop-word.md) — related
 - [Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension](verrucomicrobia-proportion-associated-stroop-word-performance.md) — related
+- [Hypertension is associated with poorer Stroop Word and Color performance in healthy older adults](hypertension-associated-poorer-stroop-word-color-performance.md) — related

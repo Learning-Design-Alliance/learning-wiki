@@ -62,4 +62,6 @@ The same ANOVA framework found a small nonsignificant effect for extraneous cogn
 
 
 ## Related Claims
--
+- [Learning mechanisms are triggered to a greater extent for non-STEM-background students in the narrative condition and for STEM-background students in the expository condition](learning-mechanisms-moderated-by-educational-background.md) — related
+- [Narrative and expository instruction produce no significant differences in recall or understanding of biological concepts](narrative-expository-no-recall-understanding-difference.md) — related
+- [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md) — related

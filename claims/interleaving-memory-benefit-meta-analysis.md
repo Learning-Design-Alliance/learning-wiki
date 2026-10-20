@@ -44,3 +44,4 @@ Meta-analysis of a subset of 17 studies (32 constituent datasets) from the 26-st
 
 ## Related Claims
 - [Interleaving benefits transfer to novel items from a learned category, with effect sizes of up to 0.66](interleaving-transfer-benefit-meta-analysis.md) — related
+- [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related

@@ -45,3 +45,5 @@ Video-analysis study by Silvis, Taylor and Stevens of sibling or caregiver-child
 ## Related Claims
 
 - [Collaborative location-based games design was implemented within a formal classroom aligned to the Norwegian national competency framework](location-based-games-design-formal-classroom.md)
+- [LLM capabilities enabled family education systems across conversational, embodied, and spatial interface forms to generate support from the context of an unfolding interaction](llm-generated-support-unfolding-interaction.md) — related
+- [Spatial Training Improves Math Performance](spatial-training-improves-math-performance.md) — related

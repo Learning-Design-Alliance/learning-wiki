@@ -47,3 +47,4 @@ A statewide study of North Carolina high school students over four years; initia
 - [In a North Carolina middle school study, a teacher with 12 years of experience raised scores 0.08 SD in ELA and 0.18 SD in math versus a novice teacher, with returns persisting through 21–27 years](ladd-sorensen-middle-school-experience-returns.md) — related
 - Teachers improve faster when they teach the same grade level and subject for multiple years — related
 - Teacher improvement is fastest in the first five years of teaching — a broader claim this one bears on
+- [Teaching experience is positively and significantly associated with student achievement gains throughout a teacher's career, per a review of 30 studies](teaching-experience-positive-achievement-gains-review.md) — a broader claim this one bears on

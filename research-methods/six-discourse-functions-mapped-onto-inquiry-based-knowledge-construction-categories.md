@@ -29,6 +29,7 @@ The article inductively derived a coding taxonomy: "This resulted in the followi
 ## Related Research Methods
 
 - [A bottom-up taxonomy of seven student LLM usage categories organized into three support types](a-bottom-up-taxonomy-of-seven-student-llm-usage-categories-organized-into-three-support-ty.md)
+- [Six-dimension taxonomy of faculty-student relationships extracted from over a dozen measures](six-dimension-taxonomy-of-faculty-student-relationships-extracted-from-over-a-dozen-measur.md)
 
 ## Key Sources
 - Aaron J. Peltoniemi, Joni Lämsä, Sami Lehesvuori, Raija Hämäläinen. (2025). Understanding the role of I-positions facilitating knowledge construction in a computer-supported collaborative learning environment. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09447-6

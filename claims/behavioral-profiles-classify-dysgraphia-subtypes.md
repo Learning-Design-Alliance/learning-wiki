@@ -46,3 +46,4 @@ Participant-classification component of the lesion-mapping study: 27 stroke surv
 
 - [Orthographic long-term memory deficits in dysgraphia are centered in the left posterior inferior frontal region or left ventral temporal cortex](orthographic-ltm-deficits-frontal-ventral-temporal.md)
 - [Orthographic working memory deficits in dysgraphia arise primarily from lesions of the left parietal cortex centered on the intraparietal sulcus](orthographic-wm-deficits-left-parietal-ips.md)
+- [Distinct neural substrates selectively support orthographic long-term memory and orthographic working memory in spelling](selective-substrates-orthographic-ltm-versus-wm.md) — related

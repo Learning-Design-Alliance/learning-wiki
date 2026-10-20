@@ -40,7 +40,8 @@ The student project used a hardware disassembly station consisting of two robots
 - 
 
 ## Related Designs
-- 
+
+- [Digital Technologies project framework: semester-spanning agile Scrum projects as an integral third of a robotics-relevant CS curriculum](digital-technologies-agile-project-framework.md)
 
 ## Examples
 -

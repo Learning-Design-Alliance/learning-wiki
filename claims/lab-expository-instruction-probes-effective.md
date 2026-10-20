@@ -65,3 +65,4 @@ Grade-moderated transfer from the same summarized laboratory study: third and fo
 - [Group CVS performance on classroom worksheets rose after instruction, and experimentation alone without instruction produced no significant gain](classroom-worksheet-cvs-gains.md) — related
 - [Physical and virtual instructional materials are equally effective for teaching fourth- and fifth-graders to design unconfounded experiments when instructional method is controlled](physical-virtual-materials-equal-cvs-learning.md) — related
 - [High-then-high guidance produced stronger understanding of CVS than low-then-low guidance in third graders, including on a 5-month post-test](hh-guidance-beats-ll-cvs-children.md) — related
+- [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md) — related

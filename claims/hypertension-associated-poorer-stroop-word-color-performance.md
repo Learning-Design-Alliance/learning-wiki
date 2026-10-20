@@ -46,3 +46,4 @@ Preliminary correlational analysis in 37 healthy older adults examining medical 
 - [Poorer sleep quality is associated with poorer Stroop Word and Color-Word performance in healthy older adults after controlling for hypertension and carbohydrate intake](poorer-sleep-quality-associated-poorer-stroop-word-color-word-performance.md) — related
 - [Higher Verrucomicrobia proportion is associated with better Stroop Word performance after controlling for carbohydrate intake and hypertension](verrucomicrobia-proportion-associated-stroop-word-performance.md) — related
 - [Sleep quality and Verrucomicrobia are not independently associated with Stroop Word performance](sleep-quality-verrucomicrobia-not-independent-stroop-word.md) — related
+- [Poorer sleep quality is associated with lower proportions of the gut microbial phyla Verrucomicrobia and Lentisphaerae in healthy older adults](poorer-sleep-quality-lower-verrucomicrobia-lentisphaerae-proportions.md) — related

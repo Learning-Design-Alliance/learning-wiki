@@ -13,7 +13,7 @@ generated:
 # Peer nomination procedure
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 1 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 A peer-report sociometric assessment developed by Moreno and adapted by Coie et al. in which children nominate liked and disliked peers to derive acceptance, rejection, social impact, social preference, and sociometric-status groups.
@@ -24,6 +24,9 @@ A peer-report sociometric assessment developed by Moreno and adapted by Coie et 
 - **Peer nomination (sociometric) methodology for assessing classroom citizenship behaviors and relationships**: Peer nomination methods ask children to nominate classmates on behavioral and affective items, so that "children act as multiple observers of classmates' typical behaviors and of their relationships with others." Behavioral items describe interpersonal behavior (e.g., who helps others) and affective items capture relationships (e.g., whom classmates like most). The review proposes this approach as a systematic, quantitative complement to self-report measures in citizenship research, mapping classroom social dynamics into a social network. (Krijnen et al. (2024))
 
 ### Claims
+
+- [Children's oral communicative competence is significantly related to their sociometric status in childhood](../claims/oral-communicative-competence-related-sociometric-status.md) [+W]
+- [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](../claims/rejected-neglected-lower-communicative-competence.md) [+W]
 
 ## Related Products and Programmes
 -

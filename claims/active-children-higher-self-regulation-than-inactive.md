@@ -64,3 +64,6 @@ ANCOVA comparison of self-regulation across screen time categories (less than 2 
 ## Related Claims
 
 - [Active children show higher self-regulation than inactive/high screen time peers regardless of their own screen time level](active-children-high-screen-time-higher-self-regulation.md)
+- [Children meeting more healthy lifestyle habits show higher self-regulation](more-healthy-habits-higher-self-regulation.md) — a broader claim this one bears on
+- [Screen time is negatively correlated with self-regulation in Chilean children](screen-time-negatively-correlated-self-regulation-children.md) — related
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](physical-activity-positively-correlated-self-regulation-children.md) — related

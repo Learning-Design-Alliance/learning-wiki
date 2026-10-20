@@ -13,7 +13,7 @@ generated:
 # ASTRA
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan Chew and colleagues that automates the simpilot role through speech recognition, response generation, and geospatial scenario visualization.
@@ -27,6 +27,7 @@ ASTRA is an end-to-end air-traffic-control training simulator developed by Ethan
 ### Claims
 
 - [XTTS and Orpheus achieve the highest human-rated MOS for Singaporean-accented ATC speech synthesis (3.71 and 3.70), with female voices preferred across models](../claims/astra-tts-mos-xtts-orpheus-best.md) [+W]
+- [DSPy prompt optimization improves all radiotelephony evaluators, with the largest gain in accuracy (+7.9%)](../claims/dspy-optimization-communication-evaluator-gains.md) [+W]
 
 ## Related Products and Programmes
 -

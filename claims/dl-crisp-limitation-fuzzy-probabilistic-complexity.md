@@ -65,3 +65,4 @@ The article's assessment of fuzzy DL tooling and scalability in its fuzzy DL sec
 
 - Fuzzy time series forecasting beats nonlinear regression when only a quadratic term is included, but loses when a cubic term is included — related
 - [Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome](ontology-adoption-barriers-practical-elearning.md)
+- [Existing deep sequential knowledge tracing encoders treat concept nodes as isolated deterministic vectors, limiting handling of structural sparsity and epistemic uncertainty](kt-encoders-entity-isolated-deterministic-limits.md) — related

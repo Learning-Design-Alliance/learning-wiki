@@ -43,7 +43,8 @@ The report identifies relationships as the foundation of the school's learning c
 - [Oakland International Students Report Sense Of Community](../claims/oakland-international-students-report-sense-of-community.md) [+M]
 
 ## Related Designs
-- 
+
+- [Newcomer schools as self-contained learning environments for recently-arrived immigrant English Learners](newcomer-school-element.md)
 
 ## Examples
 -

@@ -64,3 +64,5 @@ Among the roughly two-thirds of reviewed studies using longitudinal datasets wit
 ## Related Claims
 - Teachers continue to improve in their second decade of teaching, though fewer studies find improvement after 15 years — a narrower finding that bears on this claim
 - [A Florida study found experience effects in elementary and middle school math and reading up to 0.16 SD for teachers with 15–24 years, but no returns to experience for high school teachers](florida-experience-effects-no-high-school-returns.md) — a narrower finding that bears on this claim
+- [In a North Carolina high school study with teacher fixed effects, achievement returns to experience rose up to 20 years, from about 0.06 SD at 1–2 years to about 0.27 SD beyond 27 years](north-carolina-high-school-returns-twenty-years.md) — a narrower finding that bears on this claim
+- [On average, more effective early-career teachers remain in the teaching profession and stay in their initial schools](more-effective-teachers-remain-in-profession-and-school.md) — related

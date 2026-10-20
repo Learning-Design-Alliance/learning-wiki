@@ -64,6 +64,7 @@ The **problem-centered** principle further restructures the typical topic-by-top
 - [Constructivism](constructivism.md) + shares an emphasis on authentic, whole tasks and learner integration of new knowledge into existing mental models
 - [Merrill's First Principles of Instruction: four phases revolving around a problem](merrill-first-principles-four-phases-problem.md)
 - [First principles of instruction: a cycle of activation, demonstration, application, and integration in the context of real-world tasks](merrill-first-principles-instruction-cycle.md)
+- [Merrill's first five principles of instruction as the framework for quality teaching and learning](merrill-first-five-principles-framework-sarfo-2010.md)
 
 ## Examples
 

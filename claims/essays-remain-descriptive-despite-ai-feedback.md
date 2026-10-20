@@ -46,3 +46,4 @@ Coding of essay reflection depth with a Hatton–Smith-derived four-category sch
 - [Expressed helpfulness of AI feedback showed no association with next essay reflection depth](helpfulness-no-association-next-reflection-depth.md) — related
 - [Students found AI feedback helpful and actionable more often than not across a semester of reflective writing](students-find-ai-feedback-helpful-more-often-than-not.md) — related
 - [Student appraisals became more critical over the semester, with actionable-support themes falling from 67% to 43%](ai-feedback-appraisals-shift-negative-over-semester.md) — related
+- [In the graduate course, most individual synthesis artifacts remained at surface level, with format and depth varying by group and reflecting differing conceptions of synthesis](synthesis-artifacts-varied-in-format-and-depth.md) — related

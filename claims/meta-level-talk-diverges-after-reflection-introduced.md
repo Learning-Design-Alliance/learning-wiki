@@ -43,4 +43,4 @@ Microgenetic analysis of metatalk in the electronic dialogs, with utterances cat
 
 
 ## Related Claims
--
+- [The two conditions performed comparably in using evidence to support their own position, the less demanding argument function](support-own-evidence-comparable-across-conditions.md) — related
