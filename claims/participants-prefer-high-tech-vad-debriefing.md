@@ -44,5 +44,5 @@ Qualitative focus group interviews after three one-day simulation trainings in t
 
 ## Related Claims
 - [Implementing VAD raised facilitator cognitive demand, debriefing time, and attention competition with the video, with segment-search time greater in lower-tech VAD](vad-implementation-costs-facilitator-cognitive-load.md) — related
-- [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](vad-stress-psychological-safety-threat.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](vad-outside-view-observational-learning.md) — related

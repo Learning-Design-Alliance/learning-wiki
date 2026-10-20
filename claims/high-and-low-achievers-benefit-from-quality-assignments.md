@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Both high- and low-prior-achieving students benefited from exposure to high-quality assignments
-description: Both high- and low-prior-achieving students benefited from exposure to high-quality assignments
+title: In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains
+description: In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains
 id: high-and-low-achievers-benefit-from-quality-assignments
 aliases: [demanding-assignments-benefit-all-achievement-levels]
 status: review
@@ -28,14 +28,14 @@ sources:
     rigour: 2
 ---
 
-# Both high- and low-prior-achieving students benefited from exposure to high-quality assignments
+# In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 2 studies · 1 associational `r2`, 1 theoretical `r2` · `q2`–`q3`
 
 ## Subclaims
 
-`q2 i?` Students at both high and low prior achievement levels benefited from exposure to high-quality assignments. [→ Wenzel 2002](#wenzel-2002)
+`q2 i?` In the purposively sampled Chicago schools studied, students at both high and low prior achievement levels who received higher-quality assignments made greater-than-average gains; the comparison is observational, not a test of cause. [→ Wenzel 2002](#wenzel-2002)
 
 `q3 i?` Students with both high and low prior achievement benefit from intellectually demanding assignments, with high-achieving students benefiting more in reading and low-achieving students benefiting more in mathematics. [→ Smylie 2006](#smylie-2006)
 
@@ -47,7 +47,7 @@ Wenzel, S., Nagaoka, J., Morris, L., Billings, S., & Fendt, C. (2002). Documenta
 
 `q2 · i?` · `associational · r2`
 
-The manual summarizes this finding from the Newmann, Bryk, and Nagaoka (2001) report, printing that "Both students with high and low prior achievement levels benefit from being exposed to high quality assignments." No effect size is given here.
+The manual summarizes this finding from the Newmann, Bryk, and Nagaoka (2001) report, printing that "Both students with high and low prior achievement levels benefit from being exposed to high quality assignments." The manual notes that its schools were sampled purposively and the findings "cannot be used to generalize to all Chicago public schools"; the finding is an observational association between assignment quality and achievement gains, not a randomized or quasi-experimental test. No effect size is given here.
 
 > "Both students with high and low prior achievement levels benefit from being exposed to high quality assignments."
 

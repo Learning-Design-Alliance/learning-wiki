@@ -46,6 +46,6 @@ A 2x8 mixed ANOVA on absolute accuracy (η2 = 0.043 interaction) decomposed into
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](no-competitiveness-difference-monitoring-bias.md) — related
 - [Kahoot performance over a semester did not differ between high- and low-competitive undergraduates, though scores varied across time points](no-competitiveness-difference-kahoot-performance.md) — related
 - [WMPT accuracy, confidence, Bias Index and Absolute Accuracy Index all change significantly with task difficulty](wmpt-measures-vary-with-difficulty.md) — related
-- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
 - [The relationship between Kahoot performance and quiz scores differed by competitiveness only on the first quiz, and was not replicated later in the semester](quiz1-kahoot-moderation-competitiveness.md) — related
 - [Monitoring accuracy score does not moderate the effort–monitoring correlation](monitoring-accuracy-no-moderation.md) — related

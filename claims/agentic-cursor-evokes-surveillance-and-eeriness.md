@@ -1,7 +1,7 @@
 ---
 type: claim
-title: The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
-description: The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
+title: Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers
+description: Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers
 id: agentic-cursor-evokes-surveillance-and-eeriness
 status: review
 generated:
@@ -27,13 +27,13 @@ sources:
     rigour: "?"
 ---
 
-# The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers
+# Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Humanlike cursor behaviour made participants feel watched and judged while writing. [→ Michael Yin 2026](#michael-yin-2026)
+`q2 i?` Participants attributed a feeling of being watched and judged while writing to the agent's social presence under humanlike design (synchronous typing and the cursor together); the abstract links the cursor to feelings of surveillance. [→ Michael Yin 2026](#michael-yin-2026)
 `q2 i?` The moving cursor created visual distraction and anticipation that disrupted writing. [→ Michael Yin 2026 (2)](#michael-yin-2026-2)
 
 ## Evidence
@@ -44,7 +44,7 @@ Michael Yin, Angela Chiang, Samuel Rhys Cox, and Robert Xiao. (2026). "It Felt a
 
 `q2 · i?` · `causal · r1`
 
-In the thematic analysis of social presence (§5.3.1), participants reported feeling monitored; P35 said "So it felt a bit eerie, like someone else is reading my text".
+In the thematic analysis of social presence (§5.3.1), participants reported feeling monitored, which the authors attribute to the social presence created by humanlike design, temporal and visual together, rather than to the cursor alone; P35 said "So it felt a bit eerie, like someone else is reading my text".
 
 > "So it felt a bit eerie, like someone else is reading my text."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use
-description: Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use
+title: "Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied"
+description: "Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied"
 id: journal-writing-improves-outcomes-with-support
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use
+# Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · review `r2` · `q2`
@@ -35,7 +35,7 @@ Tina Seufert. (2020). Building Bridges Between Self-Regulation and Cognitive Loa
 
 `q2 · i?` · `review · r2`
 
-The review reports, citing Nückles, Roelle, Glogger-Frey, Waldeyer, and Renkl, that "writing learning journals could be shown as an effective means to improve learning outcomes," with dual functions of external memory relief and germane-load investment.
+The review reports, citing Nückles, Roelle, Glogger-Frey, Waldeyer, and Renkl, that "writing learning journals could be shown as an effective means to improve learning outcomes," with dual functions of external memory relief and germane-load investment. It adds that learners often do not invest these germane resources or apply sufficient strategies (Nückles et al. 2004), and that Nückles and colleagues' study programme analysed prompts, worked examples for self-explanation, and adapting or fading the support; this editorial summary does not report those supports' effects or show that each is necessary.
 
 > "Writing learning journals could be shown as an effective means to improve learning outcomes. The authors discuss these effects in the light of two potential functions of journal writing, which are linked to cognitive load: on the one hand, the externalized writings can relieve learners as they provide an external memory source, but on the other hand, learners are asked to invest more cognitive resources in terms of germane cognitive load."
 

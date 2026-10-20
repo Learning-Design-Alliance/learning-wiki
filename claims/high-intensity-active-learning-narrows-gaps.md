@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
-description: Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
+title: High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps
+description: High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps
 id: high-intensity-active-learning-narrows-gaps
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps
+# High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3`
 
 ## Subclaims
-`q3 i?` With low-intensity active learning the examination gap is −0.48 SDs (a 22% reduction versus lecturing) and the passing-rate gap −9.6%; with high-intensity active learning the gaps are −0.36 SDs (42% reduction) and −2.0% (76% reduction). [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)
+`q3 i?` With low-intensity active learning the examination gap is −0.48 SDs (a 22% reduction versus lecturing) and the passing-rate gap −9.6% (a 16% increase versus lecturing); with high-intensity active learning the gaps are −0.36 SDs (42% reduction) and −2.0% (76% reduction). [→ Theobald Elli J. et al 2020](#theobald-elli-j-et-al-2020)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Theobald Elli J. et al. (2020). Active learning narrows achievement gaps for und
 
 `q3 · i?` · `quant-synthesis · r3`
 
-Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, with intensity defined as the reported proportion of class time students spent actively engaged on in-class activities. Only high-intensity classes narrowed gaps; low-intensity classes showed smaller reductions (22% exam, 16% passing). The article reports no standardized effect-size statistic for this moderator finding.
+Moderator analysis using a three-way Trt × MGS × Moderator Bayesian model, with intensity defined as the reported proportion of class time students spent actively engaged on in-class activities. Relative to traditional lecturing, low-intensity classes narrowed the examination gap by 22% but widened the passing-rate gap by 16% (to −9.6%), while high-intensity classes narrowed them by 42% and 76%. The authors summarise this as "only classes that implement high-intensity active learning narrow achievement gaps", which their own examination figure qualifies. The article reports no standardized effect-size statistic for this moderator finding.
 
 > "students from MGS vs. non-MGS average a difference of −0.48 (95% CI: −0.60 to −0.37) with low-intensity active learning, but only −0.36 (95% CI: −0.45 to −0.27) with high-intensity active learning"
 

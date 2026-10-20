@@ -46,5 +46,5 @@ Association rule mining on the same 300-observation dataset (100 records each fo
 
 - [Boredom during learning shows a significant association with facial action unit 43 (eye closure), but no association rules between action units](boredom-facial-action-unit-43-eye-closure.md)
 - [Frustration during learning is associated with facial action units 1, 2, and 14, with a mutual trigger rule between the inner and outer brow raises](frustration-facial-action-units-1-2-14.md)
-- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md)
+- [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](sequential-patterns-curiosity-confusion-joy.md)
 - [The emote-aloud procedure is limited by non-reporting and floor effects: 2 of 7 participants did not verbalise affective states and four states were removed from analysis](emote-aloud-floor-effects-limitation.md)

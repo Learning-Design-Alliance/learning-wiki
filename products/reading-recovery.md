@@ -29,7 +29,7 @@ sources:
 # Reading Recovery
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 11 claims (9 for, 2 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 2 of 7 report an effect size · 11 claims rest on one study
+> **Evidence** · 11 claims (9 for, 2 mixed) · 7 studies (4 causal, 2 quant-synthesis, 1 review), `q2`–`q3` · 3 of 7 report an effect size · 11 claims rest on one study
 
 ## Description
 Reading Recovery is a one-to-one early-literacy tutoring programme for low-achieving first-grade readers, delivered by specially trained teachers through daily individual lessons and progress monitoring.

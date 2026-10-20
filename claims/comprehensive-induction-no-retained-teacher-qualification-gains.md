@@ -44,7 +44,7 @@ Second-year findings from the national randomized controlled evaluation of compr
 
 ## Related Claims
 - [Comprehensive teacher induction did not measurably increase the percentage of teachers remaining in their district or in the profession compared to business-as-usual induction](comprehensive-induction-no-retention-gains-year-two.md) — related
-- [The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
+- [Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program](induction-null-impacts-one-and-two-year-programs.md) — related
 - [Comprehensive teacher induction did not increase teacher retention during the first year of teaching](comprehensive-induction-no-retention-gain-first-year.md) — related
 - [Comprehensive teacher induction did not lead to measurable improvements in student test scores compared to business-as-usual induction in the second year of a randomized controlled study](comprehensive-induction-no-student-test-score-gains-year-two.md) — related
 - [One year of comprehensive teacher induction showed no impact on student achievement](comprehensive-induction-no-student-achievement-gains-first-year.md) — related

@@ -47,6 +47,6 @@ Two-factorial ANOVA on Lists 1–4 interim JOL magnitudes for both JOL groups in
 - [Overt retrieval practice enhances interim recall of new List-5 material compared to restudy, and does not differ from JOLs with word stems](retrieval-practice-forward-effect-list5-interim.md) — related
 - [Making JOLs with word stems enhances interim recall of new List-5 material compared to restudy](jol-word-stems-enhance-list5-interim-recall.md) — related
 - [JOLs with word stems and retrieval practice reduce prior-list intrusions on the List-5 test, whereas JOLs with complete words do not](word-stem-jols-reduce-prior-list-intrusions.md) — related
-- [Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — related
+- [Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — related
 - [Aging does not materially reduce the relative accuracy (resolution) of judgments of learning during encoding, with cross-sectional evidence of no age declines and even age-related increases in aggregate JOL resolution across ages 18 to 81](aging-spares-jol-resolution-encoding.md) — related
 - [Delayed JOL bias: multiple text readers are underconfident, rereaders overconfident at one day, and single readers overconfident at one week](mtr-underconfident-rr-overconfident-bias.md) — related

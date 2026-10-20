@@ -45,7 +45,7 @@ In the same controlled-time experiment (N = 128), the MANOVA revealed "no signif
 ## Related Claims
 - [Providing navigation features in an instructional video does not improve retention or comprehension when learning time is controlled](navigation-features-no-learning-benefit-controlled-time.md) — related
 - [Navigation features and self-explanation prompts do not interact in their effect on video learning](no-interaction-navigation-prompts-learning.md) — related
-- [Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
+- [Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes](cognitive-load-no-mediation-video-learning.md) — related
 - [Prompting learners to self-explain, one generative strategy, improves learning by a moderate average amount; other generative activities are not tested by the evidence recorded here](generative-processing-improves-learning.md) — reports the opposite
 - [Self-explanation beats unguided studying for equal time, but instructional explanations, problem solving and retrieval practice can be equally or more effective](instructional-explanations-sometimes-equal-or-better-than-self-explanation.md) — related
 - [Explaining one's own potentially incorrect ideas can reduce learning, while explaining known-correct content supports it](explaining-own-incorrect-ideas-reduces-learning.md) — related

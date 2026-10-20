@@ -39,7 +39,7 @@ Peer Instruction restructures lecture so short presentations on key points are e
 
 ## Claims
 
-- [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](../claims/fci-gain-increased-peer-instruction-harvard.md) [+W]
+- [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](../claims/fci-gain-increased-peer-instruction-harvard.md) [+W]
 
 ## Related Strategies
 

@@ -18,7 +18,7 @@ sources:
 # Self-Regulated Strategy Development (SRSD)
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 5 claims (4 for, 1 against) · 2 studies (1 causal, 1 review), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
+> **Evidence** · 6 claims (5 for, 1 against) · 5 studies (2 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size · 5 claims rest on one study
 
 ## Description
 Self-Regulated Strategy Development is a structured instructional framework developed by Karen Harris and Steven Graham for teaching academic strategies and self-regulation skills, especially in writing and other achievement domains.

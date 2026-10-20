@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` Black students in charter schools in cities such as Denver, Indianapolis, Kansas City, and San Antonio show stronger performance trends than Black students citywide; Hispanic and poverty students in charters similarly outperform their citywide and state counterparts. [→ Margaret E. Raymond 2022](#margaret-e-raymond-2022)
+`q2 i?` Black students in charter schools in cities such as Denver, Indianapolis, Kansas City, and San Antonio show stronger performance trends than Black students citywide; in most cities Hispanic charter students perform better than Hispanic students in the state and show stronger growth than Hispanic students citywide; charter students in poverty tend to perform better than students in poverty statewide, with stronger growth than citywide peers in poverty reported for Indianapolis and Kansas City and upward trends in San Antonio and St. Louis. [→ Margaret E. Raymond 2022](#margaret-e-raymond-2022)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Margaret E. Raymond, Won Fy Lee. (2022). City Studies Project Meta-Analysis by C
 
 `q2 · i?` · `associational · r2`
 
-Section 3 summary comparing charter subgroup growth trends (Black, Hispanic, poverty, ELL, special education) to the citywide subgroup trends in sections 2.3-2.7. The report states these charter-enrolled subgroups "have shown stronger performance trends than the Black students as a whole in those cities."
+Section 3 summary comparing charter subgroup growth trends (Black, Hispanic, poverty, ELL, special education) to the citywide subgroup trends in sections 2.3-2.7. For Black students the report states that charter-enrolled students "have shown stronger performance trends than the Black students as a whole in those cities"; for Hispanic students and students in poverty it compares both performance levels (against the state) and growth (against the city), and names fewer cities for poverty. These are comparative observational trends; they do not show that charter enrolment caused the differences.
 
 > "Black students enrolled in charter schools in cities such as Denver, Indianapolis, Kansas City, and San Antonio have shown stronger performance trends than the Black students as a whole in those cities."
 

@@ -14,7 +14,7 @@ sources:
     title: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555"
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
-    i: "?"
+    i: 1
     kind: causal
     rigour: 2
   - id: cortes-2022-2
@@ -22,7 +22,7 @@ sources:
     title: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555"
     author: "Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E."
     q: 3
-    i: "?"
+    i: 1
     kind: causal
     rigour: 2
 ---
@@ -30,11 +30,11 @@ sources:
 # A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study (2 entries) · causal `r2` · `q3`
+> **Evidence** · 1 study (2 entries) · causal `r2` · `q3` · `i1` small
 
 ## Subclaims
-`q3 i?` Geospatial students improved more than propensity-matched controls on a syllogistic verbal reasoning task from pre-test to post-test. [→ Cortes 2022](#cortes-2022)
-`q3 i?` The transfer extended to trials with overtly nonspatial relations (e.g., 'better than'), indicating transfer beyond the spatial domain. [→ Cortes 2022 (2)](#cortes-2022-2)
+`q3 i1` Geospatial students improved more than propensity-matched controls on a syllogistic verbal reasoning task from pre-test to post-test. [→ Cortes 2022](#cortes-2022)
+`q3 i1` The transfer extended to trials with overtly nonspatial relations (e.g., 'better than'), indicating transfer beyond the spatial domain. [→ Cortes 2022 (2)](#cortes-2022-2)
 
 ## Evidence
 
@@ -42,9 +42,9 @@ sources:
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i?` · `causal · r2`
+`q3 · i1 · small effect, ηp² = 0.034` · `causal · r2`
 
-Group-by-Time ANOVA covarying PSAT, GPA, and gender in the full main study sample (N = 182) of Geospatial and propensity-matched control students tested before and after the school year. The article reports "greater Reasoning improvement than controls" with np2 = 0.034; no standardized effect size is printed, so impact is null.
+Group-by-Time ANOVA covarying PSAT, GPA, and gender in the full main study sample (N = 182) of Geospatial and propensity-matched control students tested before and after the school year. The article reports "greater Reasoning improvement than controls" with np2 = 0.034 (partial eta squared), a small effect by the conventional benchmarks for η².
 
 > "Geospatial students showed greater Reasoning improvement than controls from T1 to T2 (Group-by-Time interaction: F4,15 = 5.60, P = 0.019, np2 = 0.034; Fig. 1B and table S3)."
 
@@ -52,9 +52,9 @@ Group-by-Time ANOVA covarying PSAT, GPA, and gender in the full main study sampl
 
 Cortes, R. A., Peterson, E. G., Kraemer, D. J. M., Kolvoord, R. A., Uttal, D. H., Dinh, N., Weinberger, A. B., Daker, R. J., Lyons, I. M., Goldman, D., & Green, A. E. (2022). Transfer from spatial education to verbal reasoning and prediction of transfer from learning-related neural change. Science Advances. https://doi.org/10.1126/sciadv.abo3555
 
-`q3 · i?` · `causal · r2`
+`q3 · i1 · small effect, ηp² = 0.040` · `causal · r2`
 
-Same quasi-experimental pre-post sample; the nonspatial-trial subset of the Reasoning task was analyzed separately, showing "greater improvement when nonspatial relation trials" were analyzed alone, np2 = 0.040, supporting transfer beyond the spatial domain. No standardized effect size is printed, so impact is null.
+Same quasi-experimental pre-post sample; the nonspatial-trial subset of the Reasoning task was analyzed separately, showing "greater improvement when nonspatial relation trials" were analyzed alone, np2 = 0.040 (partial eta squared, a small effect by the conventional benchmarks for η²), supporting transfer beyond the spatial domain.
 
 > "Geospatial students also showed greater improvement when nonspatial relation trials (e.g., "better than") were analyzed separately (F4,158 = 6.65, P = 0.011, np2 = 0.040; table S4), providing additional evidence that transfer extended beyond the spatial domain."
 

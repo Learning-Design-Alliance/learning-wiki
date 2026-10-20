@@ -89,7 +89,7 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](../claims/attributional-feedback-credibility-effort-ability.md) [+W]
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](../claims/belonging-task-relevance-mindset-predict-self-efficacy.md) [~W]
 - [Boys rate their mathematics ability under challenge significantly higher than girls at every level of observed mathematics ability, including the highest (p < 0.001)](../claims/boys-higher-math-ability-beliefs-under-challenge-same-observed-ability.md) [+W]
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
 - [Coping versus mastery model benefits depend on task difficulty and observers' prior success](../claims/coping-versus-mastery-models-task-difficulty.md) [~W]
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](../claims/cognitive-modeling-versus-didactic-instruction-division.md) [~W]
 - [Creative Inquiry course produced a significant increase in participants' creative self-efficacy](../claims/creative-inquiry-course-creative-self-efficacy-increase.md) [+W]

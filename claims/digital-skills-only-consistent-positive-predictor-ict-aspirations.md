@@ -9,9 +9,9 @@ generated:
   at: 2026-10-11
 evidence_strength: moderate
 sources:
-  - id: popa-2022
+  - id: popa-2026
     resource: "https://doi.org/10.48550/arxiv.2605.27391"
-    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)"
+    title: "Popa, D. M., Oprea, S.-V., & Bâra, A. (2026). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)"
     author: "Popa, D. M., Oprea, S.-V., & Bâra, A."
     q: 2
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · associational `r2` · `q2`
 
 ## Subclaims
-`q2 i?` In multivariate country-level regression, digital skills show a small positive standardized association with ICT aspiration growth (β = 0.072), while teacher support (β = -0.324) and autonomy (β = -0.192) are negatively associated. [→ Popa 2022](#popa-2022)
+`q2 i?` In multivariate country-level regression, digital skills show a small positive standardized association with ICT aspiration growth (β = 0.072), while teacher support (β = -0.324) and autonomy (β = -0.192) are negatively associated. [→ Popa 2026](#popa-2026)
 
 ## Evidence
 
-### Popa 2022
+### Popa 2026
 
-Popa, D. M., Oprea, S.-V., & Bâra, A. (2022). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)
+Popa, D. M., Oprea, S.-V., & Bâra, A. (2026). Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills? Department of Economic Informatics and Cybernetics, Bucharest University of Economic Studies. simona.oprea@csie.ase.ro. https://arxiv.org/abs/2605.27391 [doi:10.48550/arxiv.2605.27391](https://doi.org/10.48550/arxiv.2605.27391)
 
 `q2 · i?` · `associational · r2`
 

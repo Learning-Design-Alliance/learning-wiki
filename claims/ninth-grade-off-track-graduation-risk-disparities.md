@@ -33,7 +33,7 @@ sources:
 
 ## Subclaims
 
-`q2 i?` Being off track for graduation after ninth grade makes students less than half as likely to graduate than their on-track peers, and Black and Latino students were 46% and 31% more likely than the national average to be off track in 2022. [→ Liberman 2025](#liberman-2025)
+`q2 i?` Students off track for graduation after ninth grade are less than half as likely to graduate as their on-track peers (an association the report cites, not a demonstrated cause), and Black and Latino students were 46% and 31% more likely than the national average to be off track in 2022. [→ Liberman 2025](#liberman-2025)
 
 `q2 i?` Students who are off track for graduation after ninth grade are less than half as likely to graduate than their on-track peers. [→ ontrack-1](#ontrack-1)
 

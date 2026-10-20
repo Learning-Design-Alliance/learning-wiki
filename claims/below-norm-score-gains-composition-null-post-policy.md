@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy"
-description: "Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy"
+title: "Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy"
+description: "Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy"
 id: below-norm-score-gains-composition-null-post-policy
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy
+# Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
@@ -35,7 +35,7 @@ Takako Nomi, Elaine M. Allensworth. (2010). The Effects of Tracking with Support
 
 `q3 · i?` · `causal · r2`
 
-Model 1 of the sequential test-score regressions on the two-cohort discontinuity sample. Because peers with absenteeism and disciplinary problems have negative relationships with test scores, below-norm scores improved more than expected given their worse classroom climate.
+Model 1 of the sequential test-score regressions on the two-cohort discontinuity sample. Because peers with absenteeism and disciplinary problems have negative relationships with test scores, below-norm scores improved more than expected given their worse classroom climate. Post-policy, the estimated relationship between classroom average ability and below-norm students' algebra scores was -0.28 and not significantly different from zero (p > 0.1) after controlling for other classroom variables: no detected association, which does not show that none exists.
 
 > "Above-norm students had higher algebra scores by .56 points post-policy compared to similar pre-policy students. Below-norm students improved their test scores by additional 0.32 points post-policy, totaling 0.88 points higher than similar low-ability students pre-policy."
 

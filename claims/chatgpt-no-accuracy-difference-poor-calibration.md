@@ -62,7 +62,7 @@ Exploratory examination of the correlation matrix in Table 3 from the same exper
 
 
 ## Related Claims
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Free ChatGPT use boosts originality on the assisted creative task but the advantage disappears when assistance is removed](chatgpt-free-use-originality-gains-vanish-unassisted.md) — related

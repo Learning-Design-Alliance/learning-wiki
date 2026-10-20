@@ -46,7 +46,7 @@ Post-test judgment among the 114 Experiment 2 participants: 65% (37/57) favored 
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — the general claim this finding bears on, with the studies behind it
 - [Interleaving Improves Discrimination](interleaving-improves-discrimination.md) — possibly the same claim (merge candidate)
 - [Learners Misjudge Spacing Benefits](learners-misjudge-spacing-benefits.md) — a broader claim this one bears on
-- [Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
+- [When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study](spacing-interleaving-subadditive-interaction.md) — related
 - [Inserting trivia questions between interleaved exemplars impairs inductive learning when it disrupts juxtaposition of categories, with total spacing held constant](interrupting-juxtaposition-impairs-inductive-learning.md) — related
 - [Interleaving category examples improves inductive category learning for visual and mathematical materials, but not for expository texts or word categories](interleaving-improves-inductive-learning.md) — related
 - [When exemplars are already interleaved, larger temporal spacing between same-category exemplars yields better inductive learning than smaller spacing](larger-spacing-better-interleaved-induction.md) — related

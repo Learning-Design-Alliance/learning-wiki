@@ -63,6 +63,6 @@ The commentary reports, citing David et al. (2024), a meta-analysis finding the 
 
 ## Related Claims
 - [Metacognitive evaluations of effort and performance, rather than objective performance, drive spontaneous offloading](subjective-expectations-drive-offloading.md) — related
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
 - [Behavioral interaction metrics are weakly or inconsistently correlated with task performance in AI-assisted programming](interaction-metrics-weakly-correlated-task-performance.md) — related

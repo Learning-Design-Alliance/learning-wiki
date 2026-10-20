@@ -44,7 +44,7 @@ Controlled lab experiment in a multiple-list paradigm with N = 161 undergraduate
 
 ## Related Claims
 - [On the final cumulative test, JOLs with word stems and retrieval practice improve List-5 recall over restudy, while restudy shows a List-1 advantage](final-cumulative-test-list-dependent-testing-effects.md) — related
-- [Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — related
+- [Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy](jol-complete-words-no-list5-interim-benefit.md) — related
 - [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](jol-magnitudes-decline-across-lists.md) — related
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — a broader claim this one bears on
 - [Overt retrieval practice enhances interim recall of new List-5 material compared to restudy, and does not differ from JOLs with word stems](retrieval-practice-forward-effect-list5-interim.md) — related

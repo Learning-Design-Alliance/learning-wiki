@@ -68,4 +68,4 @@ In the Thursday activity both classes did the same thing: each child shared a wo
 ## Related Claims
 - Students' preferred activity diverged between classes: Year 2-1 most often chose the primary-language activity, Year 2-2 the teacher-controlled storytelling session — related
 - [Children's drawings suggested they noticed the robot's embedded integration elements and shifted attention from the robot to peer communication](children-drawings-notice-integration-elements.md) — related
-- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related

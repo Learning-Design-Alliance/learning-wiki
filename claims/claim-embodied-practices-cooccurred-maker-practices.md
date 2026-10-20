@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects"
-description: "Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects"
+title: "Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it"
+description: "Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it"
 id: claim-embodied-practices-cooccurred-maker-practices
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects
+# Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q1`
@@ -35,7 +35,7 @@ Sini Davies, Pirita Seitamaa-Hakkarainen, Kai Hakkarainen. (2024). Knowledge cre
 
 `q1 · i?` · `qualitative · r2`
 
-Analysis of the coded process rugs in the Findings section found "these practices often occur together": sketching and experimenting co-occurred with product design, computer engineering, and science practices across teams; an embodied practice was present in nearly all segments with science practices.
+Analysis of the coded process rugs in the Findings section found "these practices often occur together": sketching and experimenting co-occurred with product design, computer engineering, and science practices across teams; an embodied practice was present in nearly all segments with science practices. Model making "did not have as clear a connection" to these practices; model-making activities were often followed by a period of analysis and dense application of them.
 
 > "Figure 1 shows the close relationship between the embodied design process practices of sketching (light green) and experimenting (bright green and bright blue) and the application of product design, computer engineering, and science practices, where these practices often occur together."
 

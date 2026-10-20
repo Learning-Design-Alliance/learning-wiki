@@ -60,4 +60,4 @@ Teacher quote (T3, 4 years of teaching, Help-Seeking/Giving Control) from the AI
 ## Related Claims
 - Teachers raise big-picture concerns about GenAI including surveillance, over-reliance, reduced teacher collaboration, job replacement, and training needs — related
 - [Student-facing AI raises serious wellbeing, equity, and safety concerns, and some educators express more confidence in teacher-facing tools](student-facing-ai-wellbeing-equity-safety-concerns.md) — related
-- [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](vad-stress-psychological-safety-threat.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related

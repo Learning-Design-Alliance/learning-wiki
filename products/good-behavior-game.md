@@ -18,7 +18,7 @@ sources:
 # Good Behavior Game
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 6 claims (3 for, 3 mixed) · 1 study (1 quant-synthesis), `q2` · 1 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 7 claims (4 for, 3 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q2`–`q3` · 3 of 4 report an effect size · 6 claims rest on one study
 
 ## Description
 A classroom behavior-management programme originally developed at Johns Hopkins University in which students work in teams and receive recognition for meeting classroom behavior expectations, with implementations including PAX and AIR versions.

@@ -44,7 +44,7 @@ The same systematic review of 12 quasi-experiments reported that "common non-cur
 
 ## Related Claims
 - [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — reports the opposite
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](sble-student-level-crime-behavior-null.md) — related
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](sble-evidence-base-no-randomized-studies-high-risk-bias.md) — related
 - [SRO removal was not significantly related to changes in overall discipline infractions or in suspensions at either the student or school level](sro-removal-no-change-infractions-suspensions.md) — related
 - [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](sble-increases-exclusionary-discipline.md) — related

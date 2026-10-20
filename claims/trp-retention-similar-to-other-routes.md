@@ -43,7 +43,7 @@ Multisite study of 30 TRPs and their current and former participants reports ret
 
 
 ## Related Claims
-- [TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
+- [Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools](tqp-grant-program-created-trps-2008.md) — related
 - [TRP teachers who changed schools within their district tended to move to schools with similar low-income shares, a lower percentage of black students, and higher achievement](trp-movers-join-higher-achievement-schools.md) — related
 - [The 2010-2015 study examined characteristics of 30 TRPs, including required coursework, teacher backgrounds and experiences, and teacher retention](trp-multisite-study-30-programs.md) — related
 - [Novice teachers trained through teaching residency programs are more likely than similar non-TRP teachers to remain teaching in the same district](residency-graduates-higher-retention.md) — reports the opposite

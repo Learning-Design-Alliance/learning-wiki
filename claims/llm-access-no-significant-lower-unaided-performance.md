@@ -49,4 +49,4 @@ Confirmatory test of H1 comparing the AI-only condition (M = 0.62, SD = 0.34) wi
 - [An effort-based reward did not significantly reduce answer offloading or improve unaided performance](effort-based-reward-no-effect-offloading-or-unaided-performance.md) — related
 - [Unguarded answer-giving AI harmed unaided exam performance while a guarded version of the same model erased the harm (Bastani et al., 2025, as reported)](gpt4-access-harms-learning-after-withdrawal.md) — reports the opposite
 - [GenAI use weakens effort adjustment to incentives on subsequent unaided reasoning](genai-weakens-effort-adjustment-to-incentives.md) — related
-- [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — related
+- [Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect](prior-genai-use-poorer-unaided-reasoning.md) — related

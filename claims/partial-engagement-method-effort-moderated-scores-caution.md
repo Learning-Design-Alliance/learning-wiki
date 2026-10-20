@@ -9,10 +9,10 @@ generated:
   at: 2026-10-08
 evidence_strength: weak
 sources:
-  - id: wise-2020
-    resource: "https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    title: "Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/"
-    author: Wise, S.
+  - id: wise-2021
+    resource: "https://doi.org/10.1080/08957347.2021.1890745"
+    title: "Wise, S. L., & Kuhfeld, M. (2021). A method for identifying partial test-taking engagement. *Applied Measurement in Education, 34*(2), 150–161. [doi:10.1080/08957347.2021.1890745](https://doi.org/10.1080/08957347.2021.1890745)"
+    author: "Wise, S. L., & Kuhfeld, M."
     q: 2
     i: "?"
     kind: design
@@ -25,17 +25,17 @@ sources:
 > **Evidence** · 1 study · design `r?` · `q2`
 
 ## Subclaims
-`q2 i?` A described method for identifying partial test-taking engagement has validation evidence supporting its use, and effort-moderated scores should be interpreted cautiously when test events indicate partial engagement. [→ Wise 2020](#wise-2020)
+`q2 i?` A described method for identifying partial test-taking engagement has validation evidence supporting its use, and effort-moderated scores should be interpreted cautiously when test events indicate partial engagement. [→ Wise 2021](#wise-2021)
 
 ## Evidence
 
-### Wise 2020
+### Wise 2021
 
-Wise, S. (2020). Validation and applications of rapid guessing to detect test taker disengagement. NWEA Research. https://www.nwea.org/research/publication/validation-and-applications-of-rapid-guessing-to-detect-test-taker-disengagement/
+Wise, S. L., & Kuhfeld, M. (2021). A method for identifying partial test-taking engagement. *Applied Measurement in Education, 34*(2), 150–161. [doi:10.1080/08957347.2021.1890745](https://doi.org/10.1080/08957347.2021.1890745)
 
 `q2 · i?` · `design · r?`
 
-The page's abstract reports a methods paper that "provides validation evidence to support its use and interpretation" for identifying partial engagement, and advises cautious interpretation of effort-moderated scores. No validation statistics are printed on the page.
+Read only through the one-paragraph description NWEA's research listing gives of this article (it appears on the listing page for Wise's 2020 workshop presentation, "Validation and applications of rapid guessing to detect test taker disengagement", which was the page cited here before). The description reports a methods paper that "provides validation evidence to support its use and interpretation" for identifying partial engagement, and advises cautious interpretation of effort-moderated scores. No method details or validation statistics are given in that description.
 
 > "This paper describes a method for identifying partial engagement and provides validation evidence to support its use and interpretation. When test events indicate the presence of partial engagement, effort-moderated scores should be interpreted cautiously."
 

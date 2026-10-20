@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard
-description: Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard
+title: In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction
+description: In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction
 id: fci-gain-increased-peer-instruction-harvard
 status: review
 generated:
@@ -9,9 +9,9 @@ generated:
   at: 2026-10-15
 evidence_strength: moderate
 sources:
-  - id: crouch-2003
-    resource: "https://scholar.google.com"
-    title: "Crouch, C. H., Watkins, J., Fagen, A. P., & Mazur, E. (2003). Peer Instruction: Engaging Students One-on-One, All At Once. Research-Based Reform of University Physics. https://scholar.google.com"
+  - id: crouch-2007
+    resource: "https://doi.org/10.1119/RevPERv1.1.3"
+    title: "Crouch, C. H., Watkins, J., Fagen, A. P., & Mazur, E. (2007). Peer Instruction: Engaging Students One-on-One, All At Once. In E. F. Redish & P. J. Cooney (Eds.), *Research-Based Reform of University Physics* (Reviews in Physics Education Research, Vol. 1), 1–55. [doi:10.1119/RevPERv1.1.3](https://doi.org/10.1119/RevPERv1.1.3)"
     author: "Crouch, C. H., Watkins, J., Fagen, A. P., & Mazur, E."
     q: 2
     i: "?"
@@ -19,24 +19,23 @@ sources:
     rigour: 1
 ---
 
-# Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard
+# In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r1` · `q2`
-> **Evidence quality** · No study behind this claim is a peer-reviewed article with a DOI: it rests on a source with no registered publication record (a web page, book or unpublished report). It is kept because 2 design pages cite it; treat it as a lead to check, not an established finding.
 
 ## Subclaims
-`q2 i?` Average FCI posttest score in the calculus-based course increased dramatically when instruction changed from traditional (1990) to PI (1991), and normalized gain continued to rise with continued use and course improvements. [→ Crouch 2003](#crouch-2003)
+`q2 i?` Average FCI posttest score in the calculus-based course increased dramatically when instruction changed from traditional (1990) to PI (1991), and normalized gain continued to rise with continued use and course improvements. [→ Crouch 2007](#crouch-2007)
 
 ## Evidence
 
-### Crouch 2003
+### Crouch 2007
 
-Crouch, C. H., Watkins, J., Fagen, A. P., & Mazur, E. (2003). Peer Instruction: Engaging Students One-on-One, All At Once. Research-Based Reform of University Physics. https://scholar.google.com
+Crouch, C. H., Watkins, J., Fagen, A. P., & Mazur, E. (2007). Peer Instruction: Engaging Students One-on-One, All At Once. In E. F. Redish & P. J. Cooney (Eds.), *Research-Based Reform of University Physics* (Reviews in Physics Education Research, Vol. 1), 1–55. [doi:10.1119/RevPERv1.1.3](https://doi.org/10.1119/RevPERv1.1.3)
 
 `q2 · i?` · `causal · r1`
 
-Course-level comparison of FCI results across years of the Harvard calculus-based introductory physics course, contrasting the traditionally taught 1990 offering with PI-taught years. The article reports the posttest "increases dramatically on changing from traditional instruction (1990) to PI (1991)" and that normalized gain continued to rise through 1993-1997 with refinements.
+Course-level comparison of FCI results across years of the Harvard calculus-based introductory physics course, contrasting the traditionally taught 1990 offering with PI-taught years. The article reports the posttest "increases dramatically on changing from traditional instruction (1990) to PI (1991)" and that normalized gain continued to rise through 1993-1997 "along with additional improvements to the course". It is a before-and-after comparison of course offerings, not a controlled test: it does not isolate the lecture-format switch from the other changes made to the course.
 
 > "The average posttest score <Spost> (after instruction) in the calculus-based course increases dramatically on changing from traditional instruction (1990) to PI (1991)"
 

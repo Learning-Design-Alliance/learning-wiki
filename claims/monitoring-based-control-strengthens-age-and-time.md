@@ -62,6 +62,6 @@ Repeated measures ANOVA on gamma correlations between CJs and maintenance. For o
 
 
 ## Related Claims
-- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions](age-effect-monitoring-open-ended-only.md) — related
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related
 - [Elementary school children monitor and control their answers to open-ended text comprehension questions more accurately than answers to true-false questions](monitoring-control-more-accurate-open-ended-than-true-false.md) — related
 - [Children of both age groups improved monitoring and control accuracy from T1 to T2 for both test formats, mainly for incorrect rather than correct answers](longitudinal-improvement-monitoring-control-incorrect-answers.md) — related

@@ -57,6 +57,6 @@ The essay reports, citing Zhang et al. (2006), Guo et al. (2014), and Ibrahim et
 
 
 ## Related Claims
-- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](segmentation-improves-learning-dynamic-visualizations.md) — related
 - [Students reported that long recorded lectures impeded focus, and one student appreciated an instructor's choice to break lectures into shorter videos](long-recorded-lectures-impeded-focus.md) — related
 - [Letting learners pace instruction helped on complex material in one experiment, while learner control in general showed almost no effect across 18 studies](learner-paced-beats-system-paced-complex-material.md) — related

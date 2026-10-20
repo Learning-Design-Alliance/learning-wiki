@@ -1,7 +1,7 @@
 ---
 type: claim
-title: In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours
-description: Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours
+title: In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week
+description: "In a survey of Dynamic Learning Project teachers, 47% of coached versus 30% of non-coached core-subject teachers reported sustained PD with follow-up; more than 81% of coached teachers got at least 30 minutes of coaching a week, 43% more than an hour"
 id: sustained-coaching-contact-hours
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours
+# In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r1`–`r2` · `q2`

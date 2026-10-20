@@ -44,7 +44,7 @@ Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinki
 
 `q2 · i?` · `theoretical · r3`
 
-The article reports, citing Cleary et al. (2019), a study of 157 first-year medical students in virtual patient simulations across history-taking and physical examination subtasks; the review attributes this calibration bias pattern to that study, which was not read directly.
+The article reports, citing Cleary et al. (2019), a study of 157 first-year medical students in virtual patient simulations across history-taking and physical examination subtasks; this conceptual article (not an empirical review) attributes this calibration bias pattern to that study, which was not read directly.
 
 > "95–98% of students overestimated their own performance, producing a systematic calibration bias that was more pronounced for the cognitively demanding subtask."
 
@@ -54,7 +54,7 @@ Tsim, F., Gutoreva, A., Weiss, A., & Dubosh, N. (2026). AI as Teammate: Rethinki
 
 `q2 · i?` · `theoretical · r2`
 
-The article reports, citing Garbayo et al. (2023), a replication in high-fidelity patient simulations with 80 teams; the review attributes these accuracy-confidence figures to that study and notes team discussion narrowed but did not close the gap.
+The article reports, citing Garbayo et al. (2023), a replication in high-fidelity patient simulations with 80 teams; this conceptual article (not an empirical review) attributes these accuracy-confidence figures to that study and notes team discussion narrowed but did not close the gap.
 
 > "faculty-rated diagnostic accuracy ranged from 23–74%, while student self-reported confidence ranged from 71–86%."
 

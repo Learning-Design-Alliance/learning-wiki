@@ -9,17 +9,17 @@ generated:
   at: 2026-10-12
 evidence_strength: moderate
 sources:
-  - id: guo-2025
+  - id: guo-2026
     resource: "https://doi.org/10.31234/osf.io/srxga_v1"
-    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
+    title: "Guo, Z., Fryer, L. K., & Shum, A. (2026). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
     i: 2
     kind: causal
     rigour: 1
-  - id: guo-2025-2
+  - id: guo-2026-2
     resource: "https://doi.org/10.31234/osf.io/srxga_v1"
-    title: "Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
+    title: "Guo, Z., Fryer, L. K., & Shum, A. (2026). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)"
     author: "Guo, Z., Fryer, L. K., & Shum, A."
     q: 3
     i: "?"
@@ -33,14 +33,14 @@ sources:
 > **Evidence** · 1 study (2 entries) · causal `r1` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i2` The collective generative AI condition (E2) showed significantly higher post-intervention relevance as identification with math than the control group, with a medium effect size (η2 = 0.073). [→ Guo 2025](#guo-2025)
-`q3 i?` The omnibus MANCOVA effect of the intervention on the two post-test outcomes was significant. [→ Guo 2025 (2)](#guo-2025-2)
+`q3 i2` The collective generative AI condition (E2) showed significantly higher post-intervention relevance as identification with math than the control group, with a medium effect size (η2 = 0.073). [→ Guo 2026](#guo-2026)
+`q3 i?` The omnibus MANCOVA effect of the intervention on the two post-test outcomes was significant. [→ Guo 2026 (2)](#guo-2026-2)
 
 ## Evidence
 
-### Guo 2025
+### Guo 2026
 
-Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
+Guo, Z., Fryer, L. K., & Shum, A. (2026). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
 `q3 · i2` · `causal · r1`
 
@@ -48,13 +48,13 @@ Quasi-experimental MANCOVA with 218 Chinese high school students in three intact
 
 > "the students in E2 (adj. Mean = 2.08, SE = 0.10) reported higher relevance as identification with math than that reported by the students in C (adj. Mean = 1.57, SE = 0.10) (F = 11.11, p = 0.001, η2 = 0.073)"
 
-### Guo 2025 (2)
+### Guo 2026 (2)
 
-Guo, Z., Fryer, L. K., & Shum, A. (2025). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
+Guo, Z., Fryer, L. K., & Shum, A. (2026). Utilizing generative AI to promote high school students' personal relevance to math and interest in the math class: An intervention. [doi:10.31234/osf.io/srxga_v1](https://doi.org/10.31234/osf.io/srxga_v1)
 
 `q3 · i?` · `causal · r1`
 
-Omnibus MANCOVA on post relevance as identification and post math class interest, controlling five covariates; the article reports the overall intervention effect as "significant (Wilk's λ =0 .94, F = 3.13, p = 0.015 < 0.05)". No effect size was printed for the omnibus test.
+Omnibus MANCOVA on post relevance as identification and post math class interest, controlling five covariates; the article reports the overall intervention effect as "significant (Wilk's λ =0 .94, F = 3.13, p = 0.015 < 0.05)". No effect size was printed for the omnibus test. The omnibus test shows only that the conditions differed overall; the collective-AI-versus-control contrast itself is the planned comparison in the entry above.
 
 > "the overall effect of utilizing generative AI on the two dependent variables was significant (Wilk's λ =0 .94, F = 3.13, p = 0.015 < 0.05)"
 

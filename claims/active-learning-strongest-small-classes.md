@@ -43,7 +43,7 @@ Moderator analysis of examination-score effect sizes by binned class size (small
 
 ## Related Claims
 
-- [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — the general claim this finding bears on, with the studies behind it
+- [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — the general claim this finding bears on, with the studies behind it
 - [Active learning's performance benefits hold across all STEM disciplines](active-learning-benefits-hold-across-stem-disciplines.md) — related
 - [Effect sizes are highest in medium-sized classes (50–99 students), with class-size differences only marginally significant](ai-effect-medium-class-size-highest.md) — reports the opposite
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — possibly the same claim (merge candidate)

@@ -33,7 +33,7 @@ AUSL's foundation-funded initiative coordinated schools, pre-k, professional dev
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](../claims/nlci-high-school-outcomes-lower-than-similar-students.md) [-W]
 - [High student mobility limited the vertical-integration strategy: only about one-third of the 2014-15 NLCI pre-k cohort remained at NLCI schools by second grade](../claims/nlci-student-mobility-limits-vertical-integration-gains.md) [-W]
 - [Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative](../claims/nlci-test-scores-improved-similar-to-district.md) [-W]
-- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](../claims/nlci-fullday-conversion-attendance-gains.md) [+W]
+- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than propensity-weighted comparison schools after expansion](../claims/nlci-fullday-conversion-attendance-gains.md) [+W]
 - [In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant](../claims/nlci-year-one-attendance-difference-not-significant.md) [~W]
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](../claims/full-day-prek-higher-attendance-than-half-day.md) [+W]
 
@@ -77,7 +77,7 @@ The NLCI was a foundation-funded initiative run by AUSL from 2013-14 through 201
 - [NLCI high school outcomes were lower than those of similar students at other CPS schools for most years of the initiative](../claims/nlci-high-school-outcomes-lower-than-similar-students.md) [-W]
 - [High student mobility limited the vertical-integration strategy: only about one-third of the 2014-15 NLCI pre-k cohort remained at NLCI schools by second grade](../claims/nlci-student-mobility-limits-vertical-integration-gains.md) [-W]
 - [Test scores in grades 2-8 at NLCI schools improved at rates similar to the district, so gains cannot be attributed to the initiative](../claims/nlci-test-scores-improved-similar-to-district.md) [-W]
-- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](../claims/nlci-fullday-conversion-attendance-gains.md) [+W]
+- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than propensity-weighted comparison schools after expansion](../claims/nlci-fullday-conversion-attendance-gains.md) [+W]
 - [In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant](../claims/nlci-year-one-attendance-difference-not-significant.md) [~W]
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](../claims/full-day-prek-higher-attendance-than-half-day.md) [+W]
 

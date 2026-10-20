@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22732,
+"claim":22731,
 "design":976,
 "element":1066,
 "learner-variable":75,
@@ -5591,12 +5591,12 @@
 "type":"claim"
 },
 {
-"description":"Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions",
+"description":"Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions",
 "evidence_strength":"moderate",
 "id":"age-effect-monitoring-open-ended-only",
 "path":"claims/age-effect-monitoring-open-ended-only.md",
 "status":"review",
-"title":"Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions",
+"title":"Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions",
 "type":"claim"
 },
 {
@@ -6176,12 +6176,12 @@
 "type":"claim"
 },
 {
-"description":"The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers",
+"description":"Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers",
 "evidence_strength":"moderate",
 "id":"agentic-cursor-evokes-surveillance-and-eeriness",
 "path":"claims/agentic-cursor-evokes-surveillance-and-eeriness.md",
 "status":"review",
-"title":"The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers",
+"title":"Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers",
 "type":"claim"
 },
 {
@@ -9101,12 +9101,12 @@
 "type":"claim"
 },
 {
-"description":"AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning",
+"description":"AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning",
 "evidence_strength":"moderate",
 "id":"ai-literacy-enhances-critical-ai-evaluation",
 "path":"claims/ai-literacy-enhances-critical-ai-evaluation.md",
 "status":"review",
-"title":"AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning",
+"title":"AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning",
 "type":"claim"
 },
 {
@@ -15133,12 +15133,12 @@
 "type":"claim"
 },
 {
-"description":"The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts",
+"description":"In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts",
 "evidence_strength":"weak",
 "id":"artificial-in-fiction-quiz-motivation-dominant-criticism",
 "path":"claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md",
 "status":"review",
-"title":"The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts",
+"title":"In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts",
 "type":"claim"
 },
 {
@@ -19375,12 +19375,12 @@
 "type":"claim"
 },
 {
-"description":"Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy",
+"description":"Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy",
 "evidence_strength":"moderate",
 "id":"below-norm-score-gains-composition-null-post-policy",
 "path":"claims/below-norm-score-gains-composition-null-post-policy.md",
 "status":"review",
-"title":"Below-norm students' test scores improved post-policy (0.88 points total), and classroom average ability no longer predicted their scores post-policy",
+"title":"Below-norm students' test scores improved post-policy (0.88 points total), and the relationship between classroom average ability and their scores was no longer statistically significant post-policy",
 "type":"claim"
 },
 {
@@ -22464,12 +22464,12 @@
 },
 {
 "aliases":["bto-schools-more-positive-school-climates"],
-"description":"Beating-the-odds schools have substantially more positive school climate than other California middle and high schools",
+"description":"Beating-the-odds schools have substantially more positive school climate than the other California middle and high schools in a 1,715-school survey sample",
 "evidence_strength":"moderate",
 "id":"bto-schools-higher-school-climate-percentile",
 "path":"claims/bto-schools-higher-school-climate-percentile.md",
 "status":"review",
-"title":"Beating-the-odds schools have substantially more positive school climate than other California middle and high schools",
+"title":"Beating-the-odds schools have substantially more positive school climate than the other California middle and high schools in a 1,715-school survey sample",
 "type":"claim"
 },
 {
@@ -26854,12 +26854,12 @@
 "type":"claim"
 },
 {
-"description":"ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance",
+"description":"ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance",
 "evidence_strength":"moderate",
 "id":"chatgpt-boosts-self-efficacy-not-performance",
 "path":"claims/chatgpt-boosts-self-efficacy-not-performance.md",
 "status":"review",
-"title":"ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance",
+"title":"ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance",
 "type":"claim"
 },
 {
@@ -29863,12 +29863,12 @@
 "type":"claim"
 },
 {
-"description":"Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects",
+"description":"Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it",
 "evidence_strength":"weak",
 "id":"claim-embodied-practices-cooccurred-maker-practices",
 "path":"claims/claim-embodied-practices-cooccurred-maker-practices.md",
 "status":"review",
-"title":"Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects",
+"title":"Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it",
 "type":"claim"
 },
 {
@@ -32718,12 +32718,12 @@
 "type":"claim"
 },
 {
-"description":"Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes",
+"description":"Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes",
 "evidence_strength":"weak",
 "id":"cognitive-load-no-mediation-video-learning",
 "path":"claims/cognitive-load-no-mediation-video-learning.md",
 "status":"review",
-"title":"Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes",
+"title":"Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes",
 "type":"claim"
 },
 {
@@ -33537,12 +33537,12 @@
 "type":"claim"
 },
 {
-"description":"Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together",
+"description":"Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers",
 "evidence_strength":"moderate",
 "id":"collaborative-chatbot-answer-verification-problem-solving",
 "path":"claims/collaborative-chatbot-answer-verification-problem-solving.md",
 "status":"review",
-"title":"Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together",
+"title":"Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers",
 "type":"claim"
 },
 {
@@ -36080,12 +36080,12 @@
 "type":"claim"
 },
 {
-"description":"A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI",
+"description":"Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI",
 "evidence_strength":"weak",
 "id":"concept-catalyst-reduces-cognitive-load-quick-generation",
 "path":"claims/concept-catalyst-reduces-cognitive-load-quick-generation.md",
 "status":"review",
-"title":"A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI",
+"title":"Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI",
 "type":"claim"
 },
 {
@@ -39637,12 +39637,12 @@
 "type":"claim"
 },
 {
-"description":"The example-based course increases perceived competence, but neither feature affects perceived choice or pressure",
+"description":"The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure",
 "evidence_strength":"moderate",
 "id":"course-increases-perceived-competence-journaling",
 "path":"claims/course-increases-perceived-competence-journaling.md",
 "status":"review",
-"title":"The example-based course increases perceived competence, but neither feature affects perceived choice or pressure",
+"title":"The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure",
 "type":"claim"
 },
 {
@@ -40505,12 +40505,12 @@
 "type":"claim"
 },
 {
-"description":"Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques",
+"description":"Calibrated Equalized Odds Post-processing showed lower balanced accuracy and higher EOD than the preprocessing techniques DIR and RW in student performance prediction",
 "evidence_strength":"moderate",
 "id":"cpp-postprocessing-accuracy-fairness-tradeoff",
 "path":"claims/cpp-postprocessing-accuracy-fairness-tradeoff.md",
 "status":"review",
-"title":"Calibrated Equalized Odds Post-processing shows significant accuracy drops and higher EOD compared to preprocessing techniques",
+"title":"Calibrated Equalized Odds Post-processing showed lower balanced accuracy and higher EOD than the preprocessing techniques DIR and RW in student performance prediction",
 "type":"claim"
 },
 {
@@ -48054,12 +48054,12 @@
 "type":"claim"
 },
 {
-"description":"Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable",
+"description":"Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change",
 "evidence_strength":"moderate",
 "id":"developmental-changes-l2-metacognition-emotions-t0-t1",
 "path":"claims/developmental-changes-l2-metacognition-emotions-t0-t1.md",
 "status":"review",
-"title":"Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable",
+"title":"Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change",
 "type":"claim"
 },
 {
@@ -58008,12 +58008,12 @@
 "type":"claim"
 },
 {
-"description":"ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth",
+"description":"ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth",
 "evidence_strength":"moderate",
 "id":"ell-lower-start-faster-reading-growth-only",
 "path":"claims/ell-lower-start-faster-reading-growth-only.md",
 "status":"review",
-"title":"ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth",
+"title":"ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth",
 "type":"claim"
 },
 {
@@ -60016,12 +60016,12 @@
 "type":"claim"
 },
 {
-"description":"Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention",
+"description":"Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey",
 "evidence_strength":"moderate",
 "id":"enjoyment-predicts-attitude-ease-intention-genai",
 "path":"claims/enjoyment-predicts-attitude-ease-intention-genai.md",
 "status":"review",
-"title":"Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention",
+"title":"Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey",
 "type":"claim"
 },
 {
@@ -67328,12 +67328,12 @@
 "type":"claim"
 },
 {
-"description":"Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard",
+"description":"In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction",
 "evidence_strength":"moderate",
 "id":"fci-gain-increased-peer-instruction-harvard",
 "path":"claims/fci-gain-increased-peer-instruction-harvard.md",
 "status":"review",
-"title":"Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard",
+"title":"In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction",
 "type":"claim"
 },
 {
@@ -69560,12 +69560,12 @@
 "type":"claim"
 },
 {
-"description":"The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC",
+"description":"The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC",
 "evidence_strength":"moderate",
 "id":"first-study-parcc-college-readiness-massachusetts-decision",
 "path":"claims/first-study-parcc-college-readiness-massachusetts-decision.md",
 "status":"review",
-"title":"The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC",
+"title":"The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC",
 "type":"claim"
 },
 {
@@ -76622,12 +76622,12 @@
 "type":"claim"
 },
 {
-"description":"AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness",
+"description":"In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness",
 "evidence_strength":"moderate",
 "id":"genai-raises-learning-enjoyment",
 "path":"claims/genai-raises-learning-enjoyment.md",
 "status":"review",
-"title":"AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness",
+"title":"In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness",
 "type":"claim"
 },
 {
@@ -77667,12 +77667,12 @@
 "type":"claim"
 },
 {
-"description":"Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings",
+"description":"Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level",
 "evidence_strength":"moderate",
 "id":"gender-gap-persists-controlling-course-enrollment",
 "path":"claims/gender-gap-persists-controlling-course-enrollment.md",
 "status":"review",
-"title":"Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings",
+"title":"Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level",
 "type":"claim"
 },
 {
@@ -83539,12 +83539,12 @@
 },
 {
 "aliases":["demanding-assignments-benefit-all-achievement-levels"],
-"description":"Both high- and low-prior-achieving students benefited from exposure to high-quality assignments",
+"description":"In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains",
 "evidence_strength":"weak",
 "id":"high-and-low-achievers-benefit-from-quality-assignments",
 "path":"claims/high-and-low-achievers-benefit-from-quality-assignments.md",
 "status":"review",
-"title":"Both high- and low-prior-achieving students benefited from exposure to high-quality assignments",
+"title":"In a purposive sample of Chicago schools, both high- and low-prior-achieving students who received more intellectually demanding assignments made larger test-score gains",
 "type":"claim"
 },
 {
@@ -83872,12 +83872,12 @@
 "type":"claim"
 },
 {
-"description":"Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps",
+"description":"High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps",
 "evidence_strength":"moderate",
 "id":"high-intensity-active-learning-narrows-gaps",
 "path":"claims/high-intensity-active-learning-narrows-gaps.md",
 "status":"review",
-"title":"Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps",
+"title":"High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps",
 "type":"claim"
 },
 {
@@ -90160,12 +90160,12 @@
 "type":"claim"
 },
 {
-"description":"The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program",
+"description":"Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program",
 "evidence_strength":"moderate",
 "id":"induction-null-impacts-one-and-two-year-programs",
 "path":"claims/induction-null-impacts-one-and-two-year-programs.md",
 "status":"review",
-"title":"The null impacts of comprehensive teacher induction held whether the program was delivered as a one-year or two-year program",
+"title":"Comprehensive teacher induction produced no measurable improvements whether delivered as a one-year or two-year program",
 "type":"claim"
 },
 {
@@ -94465,12 +94465,12 @@
 },
 {
 "aliases":["story-relevance-negative-moderator"],
-"description":"Games with no story or irrelevant story context show larger learning effects than games with relevant story context",
+"description":"Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect",
 "evidence_strength":"moderate",
 "id":"irrelevant-story-larger-effects-than-relevant",
 "path":"claims/irrelevant-story-larger-effects-than-relevant.md",
 "status":"review",
-"title":"Games with no story or irrelevant story context show larger learning effects than games with relevant story context",
+"title":"Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect",
 "type":"claim"
 },
 {
@@ -95780,12 +95780,12 @@
 "type":"claim"
 },
 {
-"description":"Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy",
+"description":"Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy",
 "evidence_strength":"moderate",
 "id":"jol-complete-words-no-list5-interim-benefit",
 "path":"claims/jol-complete-words-no-list5-interim-benefit.md",
 "status":"review",
-"title":"Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy",
+"title":"Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy",
 "type":"claim"
 },
 {
@@ -95951,12 +95951,12 @@
 "type":"claim"
 },
 {
-"description":"Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use",
+"description":"Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied",
 "evidence_strength":"weak",
 "id":"journal-writing-improves-outcomes-with-support",
 "path":"claims/journal-writing-improves-outcomes-with-support.md",
 "status":"review",
-"title":"Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use",
+"title":"Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied",
 "type":"claim"
 },
 {
@@ -96392,12 +96392,12 @@
 "type":"claim"
 },
 {
-"description":"Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect",
+"description":"Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect",
 "evidence_strength":"moderate",
 "id":"kahoot-enjoyment-stable-across-groups-and-time",
 "path":"claims/kahoot-enjoyment-stable-across-groups-and-time.md",
 "status":"review",
-"title":"Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect",
+"title":"Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect",
 "type":"claim"
 },
 {
@@ -103215,12 +103215,12 @@
 "type":"claim"
 },
 {
-"description":"A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality",
+"description":"A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality",
 "evidence_strength":"moderate",
 "id":"literacy-factor-predicts-early-writing",
 "path":"claims/literacy-factor-predicts-early-writing.md",
 "status":"review",
-"title":"A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality",
+"title":"A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality",
 "type":"claim"
 },
 {
@@ -106198,12 +106198,12 @@
 "type":"claim"
 },
 {
-"description":"Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships",
+"description":"Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships",
 "evidence_strength":"weak",
 "id":"longer-partnership-greater-data-capacity",
 "path":"claims/longer-partnership-greater-data-capacity.md",
 "status":"review",
-"title":"Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships",
+"title":"Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships",
 "type":"claim"
 },
 {
@@ -122247,12 +122247,12 @@
 "type":"claim"
 },
 {
-"description":"Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion",
+"description":"Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than propensity-weighted comparison schools after expansion",
 "evidence_strength":"moderate",
 "id":"nlci-fullday-conversion-attendance-gains",
 "path":"claims/nlci-fullday-conversion-attendance-gains.md",
 "status":"review",
-"title":"Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion",
+"title":"Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than propensity-weighted comparison schools after expansion",
 "type":"claim"
 },
 {
@@ -143595,12 +143595,12 @@
 "type":"claim"
 },
 {
-"description":"Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition",
+"description":"Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect",
 "evidence_strength":"mixed",
 "id":"prior-genai-use-poorer-unaided-reasoning",
 "path":"claims/prior-genai-use-poorer-unaided-reasoning.md",
 "status":"review",
-"title":"Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition",
+"title":"Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect",
 "type":"claim"
 },
 {
@@ -158630,12 +158630,12 @@
 "type":"claim"
 },
 {
-"description":"Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day",
+"description":"Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day",
 "evidence_strength":"weak",
 "id":"rural-transportation-shapes-learning-time-expansion",
 "path":"claims/rural-transportation-shapes-learning-time-expansion.md",
 "status":"review",
-"title":"Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day",
+"title":"Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day",
 "type":"claim"
 },
 {
@@ -159440,12 +159440,12 @@
 "type":"claim"
 },
 {
-"description":"Student-level analyses show no association between SBLE and crime or behavior outcomes",
+"description":"Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports",
 "evidence_strength":"weak",
 "id":"sble-student-level-crime-behavior-null",
 "path":"claims/sble-student-level-crime-behavior-null.md",
 "status":"review",
-"title":"Student-level analyses show no association between SBLE and crime or behavior outcomes",
+"title":"Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports",
 "type":"claim"
 },
 {
@@ -162915,12 +162915,12 @@
 "type":"claim"
 },
 {
-"description":"Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations",
+"description":"Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations",
 "evidence_strength":"moderate",
 "id":"segmentation-improves-learning-dynamic-visualizations",
 "path":"claims/segmentation-improves-learning-dynamic-visualizations.md",
 "status":"review",
-"title":"Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations",
+"title":"Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations",
 "type":"claim"
 },
 {
@@ -163137,15 +163137,6 @@
 "path":"claims/sel-meta-analysis-graduation-increases.md",
 "status":"review",
 "title":"A 2017 meta-analysis found SEL program participation associated with a 6% increase in high school and an 11% increase in college graduation rates",
-"type":"claim"
-},
-{
-"description":"Middle school social-emotional learning skills predict being off-track to graduate high school",
-"evidence_strength":"weak",
-"id":"sel-middle-school-predicts-off-track-graduation",
-"path":"claims/sel-middle-school-predicts-off-track-graduation.md",
-"status":"review",
-"title":"Middle school social-emotional learning skills predict being off-track to graduate high school",
 "type":"claim"
 },
 {
@@ -165718,12 +165709,12 @@
 "type":"claim"
 },
 {
-"description":"In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students",
+"description":"In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)",
 "evidence_strength":"moderate",
 "id":"sequential-patterns-curiosity-confusion-joy",
 "path":"claims/sequential-patterns-curiosity-confusion-joy.md",
 "status":"review",
-"title":"In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students",
+"title":"In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)",
 "type":"claim"
 },
 {
@@ -168113,12 +168104,12 @@
 "type":"claim"
 },
 {
-"description":"Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction",
+"description":"Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)",
 "evidence_strength":"moderate",
 "id":"simulation-games-as-supplement-not-standalone",
 "path":"claims/simulation-games-as-supplement-not-standalone.md",
 "status":"review",
-"title":"Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction",
+"title":"Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)",
 "type":"claim"
 },
 {
@@ -171691,12 +171682,12 @@
 "type":"claim"
 },
 {
-"description":"Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study",
+"description":"When spacing is created by inserting trivia questions between exemplars, spacing and interleaving are subadditive in inductive category learning; spacing that keeps categories juxtaposed can still help interleaved study",
 "evidence_strength":"moderate",
 "id":"spacing-interleaving-subadditive-interaction",
 "path":"claims/spacing-interleaving-subadditive-interaction.md",
 "status":"review",
-"title":"Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study",
+"title":"When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study",
 "type":"claim"
 },
 {
@@ -176328,12 +176319,12 @@
 "type":"claim"
 },
 {
-"description":"A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested",
+"description":"A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested",
 "evidence_strength":"weak",
 "id":"streaming-impacts-negatively-on-learning-outcomes",
 "path":"claims/streaming-impacts-negatively-on-learning-outcomes.md",
 "status":"review",
-"title":"A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested",
+"title":"A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested",
 "type":"claim"
 },
 {
@@ -181668,12 +181659,12 @@
 "type":"claim"
 },
 {
-"description":"Coaching is more effective when sustained over time, with coached teachers receiving substantial weekly and yearly contact hours",
+"description":"In a survey of Dynamic Learning Project teachers, 47% of coached versus 30% of non-coached core-subject teachers reported sustained PD with follow-up; more than 81% of coached teachers got at least 30 minutes of coaching a week, 43% more than an hour",
 "evidence_strength":"moderate",
 "id":"sustained-coaching-contact-hours",
 "path":"claims/sustained-coaching-contact-hours.md",
 "status":"review",
-"title":"In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers and receive substantial weekly coaching hours",
+"title":"In one survey, coached teachers more often report sustained, followed-up professional development than non-coached peers, and more than 81% received at least 30 minutes of one-on-one coaching a week",
 "type":"claim"
 },
 {
@@ -184054,12 +184045,12 @@
 "type":"claim"
 },
 {
-"description":"Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability",
+"description":"Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability",
 "evidence_strength":"moderate",
 "id":"task-specific-questionnaire-low-subscale-reliabilities",
 "path":"claims/task-specific-questionnaire-low-subscale-reliabilities.md",
 "status":"review",
-"title":"Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability",
+"title":"Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability",
 "type":"claim"
 },
 {
@@ -186359,12 +186350,12 @@
 "type":"claim"
 },
 {
-"description":"A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts",
+"description":"A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts",
 "evidence_strength":"weak",
 "id":"teacher-transfer-incentive-behavioral-responses",
 "path":"claims/teacher-transfer-incentive-behavioral-responses.md",
 "status":"review",
-"title":"A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts",
+"title":"A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts",
 "type":"claim"
 },
 {
@@ -192342,12 +192333,12 @@
 "type":"claim"
 },
 {
-"description":"TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools",
+"description":"Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools",
 "evidence_strength":"weak",
 "id":"tqp-grant-program-created-trps-2008",
 "path":"claims/tqp-grant-program-created-trps-2008.md",
 "status":"review",
-"title":"TRPs were created in 2008 under the Teacher Quality Partnership Grant Program to draw highly qualified teachers to high-need schools",
+"title":"Congress created the Teacher Quality Partnership Grant Program in 2008, which funds teaching residency programs (TRPs) meant to draw highly qualified teachers to high-need schools",
 "type":"claim"
 },
 {
@@ -192972,12 +192963,12 @@
 "type":"claim"
 },
 {
-"description":"Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills",
+"description":"Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction",
 "evidence_strength":"weak",
 "id":"transactivity-moderator-not-significant",
 "path":"claims/transactivity-moderator-not-significant.md",
 "status":"review",
-"title":"Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills",
+"title":"Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge, and for collaboration skills the difference runs opposite to the expected direction",
 "type":"claim"
 },
 {
@@ -197182,12 +197173,12 @@
 "type":"claim"
 },
 {
-"description":"High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms",
+"description":"High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety",
 "evidence_strength":"moderate",
 "id":"vad-stress-psychological-safety-threat",
 "path":"claims/vad-stress-psychological-safety-threat.md",
 "status":"review",
-"title":"High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms",
+"title":"High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety",
 "type":"claim"
 },
 {
@@ -323984,7 +323975,6 @@
 "sel-measurement-lack-unbiased-measures":"sel-measurement-lack-unbiased-measures",
 "sel-measurement-narrow-skills-versus-broad-competency-tradeoff":"sel-measurement-narrow-skills-versus-broad-competency-tradeoff",
 "sel-meta-analysis-graduation-increases":"sel-meta-analysis-graduation-increases",
-"sel-middle-school-predicts-off-track-graduation":"sel-middle-school-predicts-off-track-graduation",
 "sel-moderation-tests-rare-inconsistent":"sel-moderation-tests-rare-inconsistent",
 "sel-no-prediction-chronic-absenteeism":"sel-no-prediction-chronic-absenteeism",
 "sel-programs-11-percentile-academic-gain":"sel-programs-improve-academic-performance",

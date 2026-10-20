@@ -49,4 +49,4 @@ Content analysis of 1,565 Knowledge Forum notes coded into seven academic emotio
 ## Related Claims
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](emotion-transition-similar-emotions-lsa.md) — related
 - [Academically low-achieving students in Knowledge Building demonstrated high joy and low frustration and boredom, with emotions transitioning to similar states](low-achievers-emotions-knowledge-building.md) — possibly the same claim (merge candidate)
-- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related
+- [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](sequential-patterns-curiosity-confusion-joy.md) — related

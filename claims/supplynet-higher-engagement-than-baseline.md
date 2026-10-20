@@ -50,4 +50,4 @@ Engagement results of the same within-subjects user study (N=14). The article st
 ## Related Claims
 - [SupplyNet fostered a reciprocal relationship between engagement and learning support operating through two pathways: engagement leading to learning and learning itself becoming engaging.](reciprocal-engagement-learning-dual-pathway.md) — related
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
-- [AI access makes learning more enjoyable but does not change self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related
+- [In a randomised experiment, AI access raised students' enjoyment of learning (p = 0.063) with no statistically detectable effect on self-assessed knowledge or felt effectiveness](genai-raises-learning-enjoyment.md) — related

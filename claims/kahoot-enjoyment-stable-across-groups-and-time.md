@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect
-description: Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect
+title: Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect
+description: Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect
 id: kahoot-enjoyment-stable-across-groups-and-time
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect
+# Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q3`
@@ -35,7 +35,7 @@ Daniell DiFrancesca, Dan Spencer. (2025). The effects of competitive classroom a
 
 `q3 · i?` · `associational · r1`
 
-A 2x8 mixed ANOVA on post-Kahoot enjoyment ratings (LC n = 18, HC n = 27) found no significant effects; Table 2 shows total enjoyment means stayed between 4.29 and 4.02 across all eight sessions.
+A 2x8 mixed ANOVA on post-Kahoot enjoyment ratings (LC n = 18, HC n = 27) found no significant effects; Table 2 shows total enjoyment means of 4.29 at the first Kahoot and 4.02 at the eighth. The nonsignificant time effect in this small sample means no wear-out was detected, not that none occurred.
 
 > "No significant time, F(4.35, 83.23) = 1.39, p =.24, group, F(1, 43) = 0.79, p =.38, or interaction, F(1.19, 83.23) = 0.61, p =.67, effects were observed."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts
-description: A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts
+title: A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts
+description: A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts
 id: teacher-transfer-incentive-behavioral-responses
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: "?"
 ---
 
-# A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts
+# A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
 
 ## Subclaims
-`q2 i?` High-performing teachers exhibited behavioral responses to an incentive program offering $20,000 to transfer into the hardest-to-staff schools in their districts. [→ Ali Protik 2015](#ali-protik-2015)
+`q2 i?` Protik et al. examined how high-performing teachers responded to an incentive program offering $20,000 to transfer into the hardest-to-staff schools in their districts; the available summary does not report what the responses were. [→ Ali Protik 2015](#ali-protik-2015)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Ali Protik, Steven Glazerman, Julie Bruch, Bing-ru Teh. (2015). Staffing a Low-P
 
 `q2 · i?` · `causal · r?`
 
-The article's stated purpose is to examine "behavioral responses" to a selective transfer incentive offering $20,000 to high-performing teachers in 10 school districts; no effect sizes are printed in the available text.
+The article's stated purpose is to examine "behavioral responses" to a selective transfer incentive offering $20,000 to high-performing teachers in 10 school districts; the available text is a publication summary that states this purpose but reports no findings or effect sizes.
 
 > "Protik et al. examine behavioral responses to an incentive program that offers high-performing teachers in 10 school districts across the country $20,000 to transfer into the hardest-to-staff schools in those districts."
 

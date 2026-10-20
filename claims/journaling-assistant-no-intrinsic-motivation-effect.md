@@ -49,6 +49,6 @@ Type-II ANOVA on IMI enjoyment among the 157 active participants in the randomiz
 - [GenAI-assisted education produces significantly higher learning motivation than non-GenAI approaches (g = 0.81)](genai-learning-motivation-g081.md) — the general claim this finding bears on, with the studies behind it
 - [An example-based built-in course in a mobile chatbot journaling system increases students' intrinsic motivation for creating a learning journal](example-based-course-increases-journaling-intrinsic-motivation.md) — related
 - [Course users create their journal entries earlier relative to the daily notification, while assistant access shows no significant timing effect](course-users-earlier-journal-entry-timing.md) — related
-- [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
+- [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [Both the course and the assistant increase behavioral engagement, measured as characters written per journaling prompt](course-and-assistant-increase-writing-engagement.md) — related
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — related

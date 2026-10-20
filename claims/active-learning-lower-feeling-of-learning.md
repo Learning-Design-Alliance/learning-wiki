@@ -14,7 +14,7 @@ sources:
     title: "Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1821936116"
     author: Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G.
     q: 3
-    i: "?"
+    i: 2
     kind: causal
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # Students in active classrooms reported lower feeling of learning than students in passive lectures (0.56 SD lower, P < 0.001)
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q3`
+> **Evidence** · 1 study · causal `r3` · `q3` · `i2` medium
 
 ## Subclaims
-`q3 i?` Students in active classrooms reported feeling of learning more than half an SD (0.56) lower than students in passive lectures (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)
+`q3 i2` Students in active classrooms reported feeling of learning more than half an SD (0.56) lower than students in passive lectures (P < 0.001). [→ Deslauriers L. 2019](#deslauriers-l-2019)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Deslauriers L., McCarty L. S., Miller K., Callaghan K., Kestin G. (2019). Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom. Proceedings of the National Academy of Sciences of the United States of America. https://doi.org/10.1073/pnas.1821936116
 
-`q3 · i?` · `causal · r3`
+`q3 · i2` · `causal · r3`
 
-Fixed-effects regression (model 1) predicting composite feeling-of-learning z scores in the same randomized crossover experiment (149 students). Students in active classrooms reported "more than half an SD (0.56) lower FOL compared with those in passive lectures"; the article prints no standardized effect size for this finding.
+Fixed-effects regression (model 1) predicting composite feeling-of-learning z scores in the same randomized crossover experiment (149 students). Students in active classrooms reported "more than half an SD (0.56) lower FOL compared with those in passive lectures"; the outcome is a z score, so 0.56 is a standardized difference (coded `i2`, medium).
 
 > "The students in active classrooms reported more than half an SD (0.56) lower FOL compared with those in passive lectures."
 

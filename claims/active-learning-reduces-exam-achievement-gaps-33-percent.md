@@ -51,5 +51,5 @@ Individual-participant-data meta-analysis of examination scores from 15 studies 
 - [Effects of active learning on achievement gaps vary widely across studies, with a minority of studies showing larger benefits for non-minoritized students](active-learning-gap-effects-vary-across-studies.md) — related
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related
-- [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
+- [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Students in traditional lecture STEM courses are 1.5 times more likely to fail than students in active-learning courses](lecturing-increases-stem-failure-rates.md) — related

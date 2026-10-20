@@ -46,7 +46,7 @@ The snapshot's key findings report impacts from the third year of a national, mu
 - [Many teachers misunderstood whether they were eligible for performance bonuses or the amount they could earn](teachers-misunderstood-bonus-eligibility-and-amounts.md) — related
 - [Few districts structured pay-for-performance bonuses to align well with TIF grant guidance](few-districts-aligned-bonuses-with-tif-guidance.md) — related
 - [Missouri's Teacher Career Ladder program has at most a very small positive effect on student test scores](career-ladder-missouri-small-or-no-achievement-effect.md) — related
-- [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
 - [Offering pay-for-performance bonuses in 10 TIF districts increased student reading achievement by 1 percentile point after two years, with a similar-magnitude but statistically non-significant math effect](tif-bonuses-reading-gain-one-percentile.md) — related
 - [The TIF evaluation is designed to estimate impacts of performance pay on student achievement and on educators' attitudes, awareness, mobility, and recruitment](tif-evaluation-outcome-domains-design.md) — related
 - [Providing educators with performance feedback and offering pay-for-performance bonuses can improve student achievement, with positive cumulative impacts on math or reading in some years](performance-feedback-and-pay-for-performance-improve-achievement.md) — a broader claim this one bears on

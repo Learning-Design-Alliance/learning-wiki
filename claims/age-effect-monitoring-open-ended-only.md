@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions
-description: Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions
+title: Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions
+description: Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions
 id: age-effect-monitoring-open-ended-only
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions
+# Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3` · `i2` medium

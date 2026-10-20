@@ -44,6 +44,6 @@ Intensity analysis of the coded process rugs in the Findings section. The SleepS
 
 ## Related Claims
 - [Student teams differed markedly in their application of computer engineering and product design practices and in their share of off-task activity](claim-team-variation-off-task.md) — related
-- [Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects](claim-embodied-practices-cooccurred-maker-practices.md) — related
+- [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — related
 - [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](claim-3d-modeling-task-halted-engineering-practices.md) — related
 - [The build-a-language-model-from-scratch strand was not delivered: team projects absorbed the class time it needed, leaving only an optional reading](llm-from-scratch-strand-crowded-out-by-team-project.md) — related

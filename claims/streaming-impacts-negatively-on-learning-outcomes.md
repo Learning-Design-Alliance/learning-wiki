@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested"
-description: A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
+title: "A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested"
+description: A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
 id: streaming-impacts-negatively-on-learning-outcomes
 status: review
 generated:
@@ -13,21 +13,21 @@ sources:
     resource: "https://doi.org/10.29333/iejme/11198"
     title: "Marks, A., Woolcott, G., & Markopoulos, C. (2021). Differentiating Instruction: Development of a Practice Framework for and with Secondary Mathematics Classroom Teachers. International Electronic Journal of Mathematics Education, 16(3), em0657. https://doi.org/10.29333/iejme/11198"
     author: "Marks, A., Woolcott, G., & Markopoulos, C."
-    q: 2
+    q: 1
     i: "?"
-    kind: review
-    rigour: 2
+    kind: theoretical
+    rigour: "?"
 ---
 
-# A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
+# A practice-framework article, quoting Johnston and Wildy (2016), reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · review `r2` · `q2`
+> **Evidence** · 1 study · theoretical `r?` · `q1`
 
 <!-- title before 2026-10-15: Attainment (ability) grouping is generally reported to impact negatively on student learning outcomes -->
 
 ## Subclaims
-`q2 i?` The literature generally shows that streaming, setting or tracking based on attainment impacts negatively on student learning outcomes, with the greatest disadvantages for lower-achieving students. [→ Marks 2021](#marks-2021)
+`q1 i?` The literature generally shows that streaming, setting or tracking based on attainment impacts negatively on student learning outcomes, with the greatest disadvantages for lower-achieving students. [→ Marks 2021](#marks-2021)
 
 ## Evidence
 
@@ -35,9 +35,9 @@ sources:
 
 Marks, A., Woolcott, G., & Markopoulos, C. (2021). Differentiating Instruction: Development of a Practice Framework for and with Secondary Mathematics Classroom Teachers. International Electronic Journal of Mathematics Education, 16(3), em0657. https://doi.org/10.29333/iejme/11198
 
-`q2 · i?` · `review · r2`
+`q1 · conceptual practice-framework article` · `i?` · `theoretical · r?`
 
-Narrative review of grouping research: the article reports, citing Johnston & Wildy (2016), that "the literature generally shows that streaming impacts negatively on student learning outcomes". No effect size is printed; the claim is the review's synthesis of cited studies.
+A conceptual article that develops a differentiated-instruction practice framework for secondary mathematics teachers; it does not itself review or synthesise grouping studies. In its introduction it quotes Johnston & Wildy (2016, p. 42) that "the literature generally shows that streaming impacts negatively on student learning outcomes", and states that streaming may have a more significant negative impact on lower-achieving students. No effect size is printed.
 
 > "While research is contentious and often contested, the literature generally shows that streaming impacts negatively on student learning outcomes."
 

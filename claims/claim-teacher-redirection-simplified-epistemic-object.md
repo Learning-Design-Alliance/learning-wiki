@@ -43,5 +43,5 @@ On-site observational finding about the Sunny team reported in the Findings sect
 
 
 ## Related Claims
-- [Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects](claim-embodied-practices-cooccurred-maker-practices.md) — related
+- [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](claim-embodied-practices-cooccurred-maker-practices.md) — related
 - [A mandated mid-project 3D digital-modeling task interrupted the teams' engineering-based knowledge-creation activities](claim-3d-modeling-task-halted-engineering-practices.md) — related

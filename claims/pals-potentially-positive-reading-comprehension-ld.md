@@ -35,7 +35,7 @@ What Works Clearinghouse, U.S. Department of Education. (2012). Peer-Assisted Le
 
 `q3 · i2` · `quant-synthesis · r1`
 
-WWC synthesis of two RCTs measuring reading comprehension with the CRAB Questions Correct subscale in subsets of students with learning disabilities (40 and 20 students). The Fuchs et al. (1997) effect size was 0.60; the Saenz et al. (2005) effect size was 0.91; the domain average across studies was 0.75, improvement index +26, not statistically significant.
+WWC synthesis of two studies measuring reading comprehension with the CRAB Questions Correct subscale in subsets of students with learning disabilities (40 and 20 students): Saenz et al. (2005), a randomized controlled trial, and Fuchs et al. (1997), which randomized schools but which the WWC reviewed as a quasi-experimental design (meeting standards with reservations) because teachers knew their condition when they selected students. The Fuchs et al. (1997) effect size was 0.60; the Saenz et al. (2005) effect size was 0.91; the domain average across studies was 0.75, improvement index +26, not statistically significant.
 
 > "However, the WWC-calculated effect size for this measure was 0.60—large enough to be considered substantively important according to WWC criteria. The WWC characterizes these study findings as a substantively important positive effect."
 

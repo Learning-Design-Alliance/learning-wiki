@@ -45,5 +45,5 @@ The same regression models applied to the emotion recognition task showed metaco
 ## Related Claims
 - [Metacognitive confidence judgments and control predict English vocabulary performance from the beginning to the end of the school year in primary school children](metacognition-predicts-l2-vocabulary-growth-primary-school.md) — related
 - [The ability to identify basic emotions from non-linguistic vocal bursts improves significantly with age from 5 to 17 years](vocal-emotion-recognition-improves-age-5-17.md) — related
-- [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
+- [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
 - [Metacognitive efficiency shows partial domain-general structure: strong shared metacognition between lexical decision and emotion recognition tasks](partial-domain-general-metacognition-early-readers.md) — related

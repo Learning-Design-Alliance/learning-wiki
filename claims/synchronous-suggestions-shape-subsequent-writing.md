@@ -46,7 +46,7 @@ In the thematic analysis of interviews (§5.1.3), participants valued suggestion
 - [Writing Skills](../learner-variables/writing-skills.md) — outcome: instruction changes it
 
 ## Related Claims
-- [The agentic cursor evoked feelings of surveillance, judgment and eeriness, and its anticipation effects distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
+- [Humanlike AI co-writing (real-time suggestions and an agentic cursor) evoked feelings of surveillance, judgment and eeriness, and the moving cursor distracted writers](agentic-cursor-evokes-surveillance-and-eeriness.md) — related
 - [Synchronous collaboration with an artificial agent amplifies contextual misalignment because the agent only sees ongoing output, not the writer's planning process](synchronous-ai-contextual-misalignment.md) — related
 - [Synchronous autonomous AI suggestions increased perceived writing efficiency but also caused distraction and mental overload during writing](synchronous-suggestions-efficiency-and-distraction.md) — related
 - [AI support shifts perceived attribution of ideas and text toward the AI, most strongly for AI-generated drafts, and an AI draft based on the writer's own outline contributed more ideas than expected (27%).](ai-stage-shifts-idea-text-attribution.md) — related

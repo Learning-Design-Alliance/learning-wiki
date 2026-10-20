@@ -62,7 +62,7 @@ An additional hierarchical regression checked whether metacognitive measures pre
 
 
 ## Related Claims
-- [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
+- [Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change](developmental-changes-l2-metacognition-emotions-t0-t1.md) — related
 - [English vocabulary correlates with metacognitive monitoring and control at both time points, but only with the negative emotions boredom and anxiety at T1](l2-vocabulary-correlates-metacognition-negative-emotions.md) — related
 - [Better metacognitive monitoring and control at the start of the year predict lower boredom and anxiety about English at year's end](early-metacognition-predicts-later-negative-emotions.md) — related
 - [Boredom is the only achievement emotion predicting English vocabulary growth in primary school L2 learners; enjoyment and anxiety show no significant effect](boredom-predicts-l2-vocabulary-growth.md) — related

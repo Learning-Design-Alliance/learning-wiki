@@ -24,7 +24,7 @@ sources:
 # Competency-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 65 claims (22 for, 36 mixed, 7 against) · 65 studies (20 causal, 10 quant-synthesis, 9 associational, 7 review, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 12 of 65 report an effect size · 57 claims rest on one study
+> **Evidence** · 65 claims (22 for, 36 mixed, 7 against) · 65 studies (20 causal, 10 quant-synthesis, 9 associational, 7 review, 7 design, 6 qualitative, 6 theoretical), `q1`–`q4` · 13 of 65 report an effect size · 57 claims rest on one study
 
 ## Description and scope
 

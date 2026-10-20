@@ -24,7 +24,7 @@ The Making-Process-Rug is a visual video-analysis method developed by the author
 
 ### Claims
 - [Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team](../claims/model-making-experimenting-share-successful-co-invention-teams.md) [+M]
-- [Embodied design practices of sketching, experimenting, and model making co-occurred with the application of product design, computer engineering, and science practices and advanced the teams' epistemic objects](../claims/claim-embodied-practices-cooccurred-maker-practices.md) [+W]
+- [Embodied design practices of sketching and experimenting co-occurred with the application of product design, computer engineering, and science practices, while model making was more often followed by it](../claims/claim-embodied-practices-cooccurred-maker-practices.md) [+W]
 - [Student teams differed markedly in their application of computer engineering and product design practices and in their share of off-task activity](../claims/claim-team-variation-off-task.md) [+W]
 
 ## Related Research Methods

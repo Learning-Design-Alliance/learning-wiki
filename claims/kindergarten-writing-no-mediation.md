@@ -50,4 +50,4 @@ Full SEM with direct and indirect effects (Model 4) in the same cohort, testing 
 - [Kindergarten attention uniquely predicts both first-grade compositional fluency and quality one year later](attention-longitudinal-first-grade-writing.md) — related
 - [Kindergarten attention regulation is uniquely and positively related to compositional fluency after controlling for literacy, letter-writing fluency, and oral language](attention-unique-predictor-kindergarten-writing-fluency.md) — related
 - [Kindergarten oral language is uniquely related to first-grade writing quality but not to compositional fluency](oral-language-first-grade-quality-only.md) — related
-- [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
+- [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related

@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · associational `r?` · `q2`
 
 ## Subclaims
-`q2 i?` Access to early Algebra remains highly inequitable across the United States. [→ Daniel Long 2025](#daniel-long-2025)
+`q2 i?` In NWEA data from 162,000 eighth graders across 22 states, access to early Algebra is highly inequitable; the brief describes this as the situation across the United States. [→ Daniel Long 2025](#daniel-long-2025)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Daniel Long, Megan Kuhfeld, Scott J. Peters. (2025). Unequal Access to 8th-Grade
 
 `q2 · i?` · `associational · r?`
 
-The brief's own description states its central finding: access to early Algebra "remains highly inequitable across the United States." The finding is based on NWEA data analysis of eighth-grade students nationwide.
+The brief's own description states its central finding: access to early Algebra "remains highly inequitable across the United States." The finding is based on NWEA data from 162,000 eighth-grade students across 22 states, not a nationally representative sample.
 
 > "This NWEA research brief examines how access to early Algebra – a key gateway to advanced high school math, STEM majors, and higher lifetime earnings – remains highly inequitable across the United States."
 

@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning"
-description: "AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning"
+title: "AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning"
+description: "AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning"
 id: ai-literacy-enhances-critical-ai-evaluation
 status: review
 generated:
@@ -12,18 +12,18 @@ sources:
   - id: gao-l-2026
     title: Gao L 2026
     q: 3
-    i: "?"
+    i: 3
     kind: associational
     rigour: 2
 ---
 
-# AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning
+# AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · associational `r2` · `q3`
+> **Evidence** · 1 study · associational `r2` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i?` AI literacy positively influences critical AI evaluation among university students using generative AI. [→ Gao L 2026](#gao-l-2026)
+`q3 i3` In a time-lagged survey of university students using generative AI, AI literacy was strongly and positively associated with critical AI evaluation (β = 0.893, f² = 3.916); the survey design cannot show that literacy causes the evaluation. [→ Gao L 2026](#gao-l-2026)
 
 ## Evidence
 
@@ -31,9 +31,9 @@ sources:
 
 Gao L, Sun Y and Khan SU (2026) From enhancement to over-reliance: a mixed-method study of generative AI and sustainable learning performance. Front. Psychol. 17:1847369. https://doi.org/10.3389/fpsyg.2026.1847369
 
-`q3 · i?` · `associational · r2`
+`q3 · i3` · `associational · r2`
 
-Three-wave time-lagged survey of Chinese university students analyzed with PLS-SEM; the study reports that "AI literacy signiﬁcantly enhances critical AI evaluation". No effect size is printed in the available text, so impact is null.
+Three-wave time-lagged survey of Chinese university students analyzed with PLS-SEM; the path from AI literacy to critical AI evaluation was β = 0.893 (t = 111.167, p < 0.001, f² = 3.916), which the authors call a very large effect. The abstract words this as AI literacy "enhances" critical AI evaluation, but the design is correlational and cannot establish cause.
 
 > "The ﬁndings reveal that AI literacy signiﬁcantly enhances critical AI evaluation, which, along with self-regulated learning, promotes eﬀective AI use."
 

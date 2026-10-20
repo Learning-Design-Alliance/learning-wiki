@@ -82,4 +82,4 @@ Participant reports on current difficulties: lower-tech VAD lacked an option to 
 ## Related Claims
 - [All interviewed facilitators preferred video-assisted debriefing over verbal debriefing because video allowed precise, objective feedback whose credibility was not restricted by facilitator hierarchy](facilitators-prefer-vad-objective-feedback.md) — related
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
-- [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](vad-stress-psychological-safety-threat.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related

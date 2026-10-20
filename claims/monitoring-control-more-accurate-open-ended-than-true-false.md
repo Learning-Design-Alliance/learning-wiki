@@ -65,7 +65,7 @@ Repeated measures ANOVA comparing gamma correlations between maintenance decisio
 - [Metacognition](../learner-variables/metacognition.md) — outcome: instruction changes it
 
 ## Related Claims
-- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no such age difference exists for true-false questions](age-effect-monitoring-open-ended-only.md) — related
+- [Fourth graders monitor and control answers to open-ended questions more accurately than second graders, but no significant age difference was found for true-false questions](age-effect-monitoring-open-ended-only.md) — related
 - [Monitoring-based control (the relation between confidence judgments and maintenance decisions) is stronger for fourth graders than second graders and strengthens over time for open-ended questions](monitoring-based-control-strengthens-age-and-time.md) — related
 - [Children of both age groups improved monitoring and control accuracy from T1 to T2 for both test formats, mainly for incorrect rather than correct answers](longitudinal-improvement-monitoring-control-incorrect-answers.md) — related
 - [Children are considerably more overconfident about incorrect answers to true-false questions than about incorrect answers to open-ended questions](overconfidence-incorrect-answers-higher-true-false.md) — related

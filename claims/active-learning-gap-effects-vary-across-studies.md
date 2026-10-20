@@ -49,5 +49,5 @@ Granular analysis of per-study gap changes (Fig. 2) shows heterogeneous effects:
 - [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related
 - [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
 - [Active learning narrows achievement gaps for disadvantaged and underrepresented students](active-learning-narrows-achievement-gaps.md) — related
-- [Only high-intensity active learning narrows achievement gaps; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
+- [High-intensity active learning narrows achievement gaps far more than low-intensity active learning; intensity of in-class active engagement is positively correlated with narrower gaps](high-intensity-active-learning-narrows-gaps.md) — related
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — related

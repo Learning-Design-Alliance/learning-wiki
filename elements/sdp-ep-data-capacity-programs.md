@@ -42,7 +42,7 @@ The Strategic Data Project (SDP) and Education Pioneers (EP) programs are initia
 - [SDP and EP partner agencies began working with the programs during the study's first year (2012–2013)](../claims/sdp-ep-year1-agencies-began-partnership.md) [+W]
 - [SDP and EP partnerships enabled education agencies to develop new data-use practices that agencies continue to refine](../claims/sdp-ep-partnerships-enabled-new-data-use-practices.md) [+W]
 - [Capacity for data use was similar among SDP- and EP-partnered agencies although the two programs' approaches differ](../claims/similar-data-capacity-sdp-ep-agencies.md) [+W]
-- [Agencies with longer SDP or EP partnerships showed greater data-use capacity and activity than agencies new to their partnerships](../claims/longer-partnership-greater-data-capacity.md) [+W]
+- [Data-use capacity and activity differed between agencies with longer SDP or EP partnerships and agencies new to their partnerships](../claims/longer-partnership-greater-data-capacity.md) [+W]
 
 ## Related Elements
 

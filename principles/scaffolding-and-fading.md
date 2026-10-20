@@ -150,7 +150,7 @@ Assisted performance, unassisted immediate performance, delayed retention, trans
 - [Teachers who worked with the model of contingent teaching increased their teaching quality more than teachers who did not participate, especially on the contingent-teaching steps](../claims/mct-pd-increased-teaching-quality-more-than-control.md) [~W]
 - [When AI assistance is withdrawn, student performance tends to decline, revealing a lack of internalized learning strategies](../claims/ai-assistance-withdrawal-performance-decline.md) [~W]
 - [Cognitive and metacognitive prompts in learning journals helped early in a term but became detrimental by its end; adaptive fading-out mitigated this](../claims/expertise-reversal-writing-journal-prompts-fading.md) [+W]
-- [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](../claims/journal-writing-improves-outcomes-with-support.md) [~W]
+- [Learning journal writing improves learning outcomes, but learners often do not apply sufficient strategies without support; prompts, worked examples and fading are the supports studied](../claims/journal-writing-improves-outcomes-with-support.md) [~W]
 
 ## Related Principles
 - [Concreteness Fading](concreteness-fading.md)

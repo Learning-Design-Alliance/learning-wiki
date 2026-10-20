@@ -43,5 +43,5 @@ The page lists an associated working paper under the heading "Working paper" wit
 
 
 ## Related Claims
-- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth](ell-lower-start-faster-reading-growth-only.md) — related
+- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth](ell-lower-start-faster-reading-growth-only.md) — related
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](self-efficacy-intercept-predicts-achievement-growth-mediation.md) — related

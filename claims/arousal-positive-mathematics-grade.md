@@ -35,7 +35,7 @@ Schillinger, F. L., Mosbacher, J. A., Brunner, C., Vogel, S. E., & Grabner, R. H
 
 `q3 · i?` · `associational · r2`
 
-Ordinal regression predicting self-reported final high school mathematics grade (N = 710) from the four PAF facets; arousal estimate E = 0.06, z = 2.92, p = .003; test anxiety accounted for approximately 2% of variance (R2McFadden = 0.02).
+Ordinal regression predicting self-reported final high school mathematics grade from the four PAF facets (710 students reported a grade; the three reporting the lowest grade were excluded from analyses involving grades); arousal estimate E = 0.06, z = 2.92, p = .003; test anxiety accounted for approximately 2% of variance (R2McFadden = 0.02).
 
 > "Students reporting higher arousal in test situations received a better grade in mathematics than students reporting lower arousal when controlling for the other facets of test anxiety. Again, worry did not explain unique variance in students' mathematics grade."
 

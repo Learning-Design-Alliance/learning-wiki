@@ -46,7 +46,7 @@ The article recommends a blended debrief approach: the four PEARLS phases (react
 - [Three contradictions emerged in the SimLab process — individualised emergency response, excluded non-clinical staff, and outdated CPR training — and their collaborative resolution drove organisational change](../claims/simlab-three-contradictions-catalysts.md) [+W]
 - [Debriefing description phase enacts conversational remembering that turns private recollections into a public, shared epistemic artifact](../claims/debriefing-conversational-remembering-public-artifact.md) [+W]
 - [Video-assisted debriefing enhances precision but risks psychological safety and narrows reflection to individual performance](../claims/video-debriefing-precision-safety-tradeoffs.md) [~W]
-- [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](../claims/vad-stress-psychological-safety-threat.md) [~W]
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](../claims/vad-stress-psychological-safety-threat.md) [~W]
 - [The outside perspective of video-assisted debriefing helped participants observe teammates and see how individual actions related to team performance, though most participants focused mainly on themselves](../claims/vad-outside-view-observational-learning.md) [~W]
 
 ## Related Strategies

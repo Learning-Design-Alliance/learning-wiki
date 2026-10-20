@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · qualitative `r1` · `q2`
 
 ## Subclaims
-`q2 i?` Three profiled New Mexico community schools implementing the framework's key practices saw improvements in test scores, graduation rates, chronic absence, engagement, school climate, health care access, and family engagement. [→ Germain 2025](#germain-2025)
+`q2 i?` Across three profiled New Mexico community schools implementing the framework's key practices, the brief reports improvements in test scores, graduation rates, chronic absence, engagement, school climate, health care access, and family engagement, taken together across the sites rather than at every site; chronic absence fell significantly in two of the three sites since 2022 (by 50% at Los Padillas between 2021 and 2024). [→ Germain 2025](#germain-2025)
 
 ## Evidence
 

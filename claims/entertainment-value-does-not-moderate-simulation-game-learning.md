@@ -44,6 +44,6 @@ Meta-analytic moderator analysis comparing nine high-entertainment samples (N = 
 
 ## Related Claims
 - [Trainees learn more from simulation games when they have unlimited access to the game](unlimited-access-enhances-simulation-game-learning.md) — related
-- [Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction](simulation-games-as-supplement-not-standalone.md) — related
+- [Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)](simulation-games-as-supplement-not-standalone.md) — related
 - [The advantage of simulation games shrinks or reverses when the comparison group learns via active instructional methods](active-comparison-instruction-reverses-simulation-game-advantage.md) — related
-- [Games with no story or irrelevant story context show larger learning effects than games with relevant story context](irrelevant-story-larger-effects-than-relevant.md) — related
+- [Games with irrelevant story context show significantly larger learning effects than games with relevant story context, and games with no story show a larger, untested mean effect](irrelevant-story-larger-effects-than-relevant.md) — related

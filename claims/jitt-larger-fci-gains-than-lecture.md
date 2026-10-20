@@ -46,4 +46,4 @@ Quasi-experimental comparison of 222 students in introductory physics courses ta
 - [Active Learning Improves Exam Performance](active-learning-improves-exam-performance.md) — the general claim this finding bears on, with the studies behind it
 - [The authors conclude that students in Just-in-Time Teaching courses better understand Newton's Third Law after instruction than students in traditional lecture courses](jitt-better-newtons-third-law-understanding.md) — related
 - [On Newton's Third Law questions specifically, Just-in-Time Teaching students gained 50.8%±4.1% while traditional lecture students gained only 6.6%±5.2%](jitt-newtons-third-law-question-gains.md) — related
-- [Switching introductory physics lectures from traditional instruction to Peer Instruction dramatically increased average FCI posttest scores and normalized gain at Harvard](fci-gain-increased-peer-instruction-harvard.md) — related
+- [In Harvard's introductory physics course, average FCI posttest scores and normalized gain rose sharply in the year it switched from traditional lectures to Peer Instruction](fci-gain-increased-peer-instruction-harvard.md) — related

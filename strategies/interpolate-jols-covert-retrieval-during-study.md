@@ -42,7 +42,7 @@ The article recommends that learners and instructors insert metacognitive judgme
 ## Claims
 
 - [On the final cumulative test, JOLs with word stems and retrieval practice improve List-5 recall over restudy, while restudy shows a List-1 advantage](../claims/final-cumulative-test-list-dependent-testing-effects.md) [+M]
-- [Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy](../claims/jol-complete-words-no-list5-interim-benefit.md) [-W]
+- [Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy](../claims/jol-complete-words-no-list5-interim-benefit.md) [-W]
 - [JOL magnitudes decline across successive lists in both JOL groups, reflecting learners' belief that recall decreases with continued new learning](../claims/jol-magnitudes-decline-across-lists.md) [~W]
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](../claims/jol-reactivity-requires-judgment-free-control-condition.md) [~W]
 - [Making JOLs with word stems enhances interim recall of new List-5 material compared to restudy](../claims/jol-word-stems-enhance-list5-interim-recall.md) [+M]

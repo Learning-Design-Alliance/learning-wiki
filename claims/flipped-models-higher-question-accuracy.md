@@ -35,7 +35,7 @@ Liu YJ, Ma HZ, Luo HY, Xiong YX, Qu FW, Xie JP, Guo Y. (2026). From traditional 
 
 `q2 · i?` · `causal · r1`
 
-Classroom interaction analysis in the same three-cohort quasi-experiment (N=68). Question accuracy was compared across the three instructional models; both flipped variants beat the traditional classroom, with the AI-enhanced group showing the stronger contrast.
+Classroom interaction analysis in the same three-cohort quasi-experiment (N=68). Question accuracy was compared across the three instructional models; both flipped variants beat the traditional classroom (p < 0.01 for the AI-enhanced group, p < 0.05 for the flipped group). The article reports no direct comparison of the two flipped variants, so it does not show which had the larger effect.
 
 > "the question accuracy rates in both the AI-enhanced flipped classroom group ( p < 0.01) and the flipped class room group ( p < 0.05) were significantly higher than those in the traditional classroom group"
 

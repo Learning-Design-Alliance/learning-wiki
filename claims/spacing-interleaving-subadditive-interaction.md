@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study"
-description: "Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study"
+title: "When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study"
+description: "When spacing is created by inserting trivia questions between exemplars, spacing and interleaving are subadditive in inductive category learning; spacing that keeps categories juxtaposed can still help interleaved study"
 id: spacing-interleaving-subadditive-interaction
 status: review
 generated:
@@ -35,7 +35,7 @@ sources:
     rigour: 2
 ---
 
-# Spacing and interleaving are subadditive: interleaving beats blocking only when presentation is contiguous, and spacing benefits blocked but not interleaved study
+# When trivia questions space out exemplars, spacing and interleaving are subadditive: interleaving beats blocking only with contiguous presentation, and spacing helps blocked but not interleaved study
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (3 entries) · causal `r2` · `q3` · `i1`–`i2`
@@ -53,7 +53,7 @@ Monica S. Birnbaum, Nate Kornell, Elizabeth Ligon Bjork, & Robert A. Bjork. (201
 
 `q3 · i2` · `causal · r2`
 
-2×2 mixed ANOVA with 114 UCLA undergraduates studying 16 butterfly species (order within participants, mode between). The omnibus interaction was significant, "F(1, 112) 0 10.909, p< .01", with effect size η²p = .089, plus a main advantage of interleaving, F(1, 112) = 12.34, p < .001.
+Experiment 2: a 2×2 mixed ANOVA with 114 UCLA undergraduates studying 16 butterfly species (order within participants, mode between), in which spacing was created by inserting trivia questions between successive exemplars. The omnibus interaction was significant, "F(1, 112) 0 10.909, p< .01", with effect size η²p = .089, plus a main advantage of interleaving, F(1, 112) = 12.34, p < .001.
 
 > "a significant interaction between presentation order (interleaved vs. blocked) and presentation mode (contiguous vs. spaced) was also obtained, F(1, 112) 0 10.909, p< .01, η2 p ¼ :089"
 
@@ -73,7 +73,7 @@ Monica S. Birnbaum, Nate Kornell, Elizabeth Ligon Bjork, & Robert A. Bjork. (201
 
 `q3 · i1` · `causal · r2`
 
-Planned comparison within the blocked condition of the same experiment showed spacing helped, "t(112) 0 2.018, p< .05", effect size d = .379, whereas Kang and Pashler (2012) had found no significant effect of spacing during blocked learning.
+Planned comparison within the blocked condition of the same experiment showed spacing helped, "t(112) 0 2.018, p< .05", effect size d = .379, whereas Kang and Pashler (2012) had found no significant effect of spacing during blocked learning. The subadditivity holds for spacing made with trivia questions, which broke the juxtaposition of categories. In Experiment 3 of the same paper (53 undergraduates), all exemplars were interleaved and spacing was varied by lag instead (3 vs. 15 intervening exemplars of other species, juxtaposition held constant); larger spacing improved induction (M = .42 vs. .29, t(51) = 2.74, p = .008, d = 0.752), so spacing can benefit interleaved learning when it does not disrupt between-category juxtaposition.
 
 > "A planned comparison of performance in the spaced versus contiguous conditions, limited to only the blocked condition, showed that spacing was beneficial for this type of presentation, t(112) 0 2.018, p< .05, d 0 .379"
 

@@ -44,7 +44,7 @@ The review's plain language summary of its meta-analytic findings states "school
 
 ## Related Claims
 - [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — possibly the same claim (merge candidate)
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](sble-student-level-crime-behavior-null.md) — related
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [Students in schools with SBLE tended to feel safer, but this finding rests on very little data](sble-students-feel-safer-limited-data.md) — related
 - [Common non-curricular policing strategies show no overall effects on measures of school crime or discipline](non-curricular-policing-no-overall-effects-crime-discipline.md) — related

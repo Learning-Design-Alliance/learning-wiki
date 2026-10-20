@@ -29,8 +29,6 @@ sources:
 
 `q2 i?` The brief reports evidence that mindfulness and other stress management skills may produce positive effects on educators’ sleep, self-regulation, self-compassion, and overall job satisfaction. [→ Browning 2020](#browning-2020)
 
-`q1 i?` Equipping teachers with mindfulness and stress management skills may be linked to significant gains in job satisfaction, self-regulation, self-compassion, and observation and nonreactivity skills, citing Frank et al. (2015). [→ Browning 2020](#browning-2020)
-
 ## Evidence
 
 ### Browning 2020
@@ -44,6 +42,9 @@ Narrative practitioner brief reporting, with citations to studies of mindfulness
 > "There is evidence that mindfulness and other stress management skills may produce positive effects on educators’ sleep and skills such as self-regulation and self-compassion, as well as on their overall job satisfaction."
 
 <!-- merged 2026-10-15 from mindfulness-training-teacher-wellbeing-gains: that page's entry for this study, which differed from the one above, kept verbatim.
+Subclaim moved here 2026-10-20: it quotes Browning & Romer (2020), not the Browning (2020) brief it linked to.
+`q1 i?` Equipping teachers with mindfulness and stress management skills may be linked to significant gains in job satisfaction, self-regulation, self-compassion, and observation and nonreactivity skills, citing Frank et al. (2015). (Browning & Romer 2020)
+
 ### Browning 2020
 
 Browning, A., & Romer, N. (2020). Mindfulness-based practices for schools. WestEd. https://californias3.wested.org/wp-content/uploads/Mindfulness-Based-Practices-for-Schools.pdf

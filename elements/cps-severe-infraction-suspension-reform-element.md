@@ -17,7 +17,7 @@ sources:
 # CPS severe-infraction suspension reduction reform and schoolwide outcome measures
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (2 associational, 1 causal), `q2` · 0 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 4 studies (3 associational, 1 causal), `q2` · 0 of 4 report an effect size · 7 claims rest on one study
 
 ## Description
 A district-level discipline reform in Chicago Public Schools between 2009-10 and 2013-14, studied via the percent of severe infractions resulting in an out-of-school suspension per school per year. Severe infractions include "weapon or drug possession, theft or burglary, extortion, and fighting with injuries or more than two participants." Outcomes were standardized test scores, GPA, attendance, and My Voice, My School survey measures of perceived safety and school climate, analyzed for all CPS high school students excluding selective enrollment and charter schools.

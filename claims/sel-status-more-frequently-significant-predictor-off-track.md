@@ -44,7 +44,7 @@ Longitudinal study fitting growth models on four years of SEL data from students
 
 ## Related Claims
 - [SEL-related constructs are strongly predictive of long-term academic achievement and attainment](sel-constructs-predict-long-term-achievement-attainment.md) — a broader claim this one bears on
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](sel-middle-school-predicts-off-track-graduation.md) — a broader claim this one bears on
+- Middle school social-emotional learning skills predict being off-track to graduate high school — a broader claim this one bears on
 - [Growth in self-management between 6th and 8th grade predicts being off track academically in 9th grade above and beyond 6th-grade self-management status](self-management-growth-predicts-off-track-beyond-status.md) — reports the opposite
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](sel-trajectories-improve-off-track-identification.md) — reports the opposite
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](sel-trajectories-relate-secondary-school-transition.md) — related

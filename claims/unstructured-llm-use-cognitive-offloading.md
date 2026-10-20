@@ -13,7 +13,7 @@ sources:
     resource: "https://doi.org/10.1016/j.caeai.2026.100572"
     title: "Mireia Vendrell, Samantha-Kaye Johnston. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2026.100572"
     author: Mireia Vendrell, Samantha-Kaye Johnston
-    q: 2
+    q: 1
     i: "?"
     kind: theoretical
     rigour: 2
@@ -22,10 +22,10 @@ sources:
 # Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · theoretical `r2` · `q2`
+> **Evidence** · 1 study · theoretical `r2` · `q1`
 
 ## Subclaims
-`q2 i?` Students relying on LLMs for inquiry tasks report lower cognitive effort and produce weaker arguments than peers using traditional search. [→ Mireia Vendrell 2026](#mireia-vendrell-2026)
+`q1 i?` In one study the paper cites (Stadler et al., 2024), students relying on LLMs for inquiry tasks reported lower cognitive effort and produced weaker arguments than peers using traditional search. [→ Mireia Vendrell 2026](#mireia-vendrell-2026)
 
 ## Evidence
 
@@ -33,9 +33,9 @@ sources:
 
 Mireia Vendrell, Samantha-Kaye Johnston. (2026). Scaffolding critical thinking with generative AI: Design principles for integrating large language models in higher education. Computers and Education: Artificial Intelligence. https://doi.org/10.1016/j.caeai.2026.100572
 
-`q2 · i?` · `theoretical · r2`
+`q1 · conceptual paper` · `i?` · `theoretical · r2`
 
-The article reports, citing Stadler et al. (2024), an experimental comparison in which LLM-supported inquiry students showed "lower cognitive effort and produced weaker arguments" than search-engine peers; the review attributes this finding to that study.
+A conceptual, normative and design-oriented paper that states it does not report an empirical study. It cites Stadler et al. (2024) as comparing students who used LLMs for inquiry-based tasks with peers who used traditional search engines: the LLM users reported "lower cognitive effort and produced weaker arguments". The paper does not describe Stadler et al.'s design; the finding is that study's, reported second-hand here.
 
 > "Stadler et al. (2024) found that students using LLMs for inquiry-based tasks reported lower cognitive effort and produced weaker arguments, suggesting a trade-off between fluency and depth."
 

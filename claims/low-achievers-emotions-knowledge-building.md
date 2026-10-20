@@ -49,4 +49,4 @@ Content analysis and sequential pattern analysis of 120 Grade 9 and Grade 11 stu
 ## Related Claims
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](emotion-transition-similar-emotions-lsa.md) — possibly the same claim (merge candidate)
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](low-achievers-joy-predominance-knowledge-building.md) — possibly the same claim (merge candidate)
-- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](sequential-patterns-curiosity-confusion-joy.md) — related
+- [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](sequential-patterns-curiosity-confusion-joy.md) — related

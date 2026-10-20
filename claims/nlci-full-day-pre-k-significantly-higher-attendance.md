@@ -45,5 +45,5 @@ Quasi-experimental evaluation comparing NLCI elementary schools to propensity-we
 ## Related Claims
 - [Students in full-day pre-k programs had significantly higher attendance rates than students in half-day programs across all study years](full-day-prek-higher-attendance-than-half-day.md) — related
 - [Elementary attendance and school climate improved over time at NLCI schools but not significantly more than at comparison schools](nlci-elementary-attendance-climate-not-significantly-different.md) — related
-- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — possibly the same claim (merge candidate)
+- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than propensity-weighted comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — possibly the same claim (merge candidate)
 - [In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant](nlci-year-one-attendance-difference-not-significant.md) — related

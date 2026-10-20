@@ -19,9 +19,7 @@ sources:
     kind: associational
     rigour: 2
   - id: jennie-y-jiang-2016
-    resource: "http://consortium.uchicago.edu/page/teacher-evaluation"
-    title: "Jennie Y. Jiang, Susan E. Sporte. (2016). Teachers with lowest evaluation scores are overrepresented in high-poverty schools. University of Chicago Consortium on School Research. http://consortium.uchicago.edu/page/teacher-evaluation"
-    author: Jennie Y. Jiang, Susan E. Sporte
+    title: Jennie Y. Jiang 2016
     q: 2
     i: "?"
     kind: associational
@@ -53,13 +51,13 @@ Descriptive correlational analysis of 2013-14 CPS observation scores aggregated 
 
 ### Jennie Y. Jiang 2016
 
-Jennie Y. Jiang, Susan E. Sporte. (2016). Teachers with lowest evaluation scores are overrepresented in high-poverty schools. University of Chicago Consortium on School Research. http://consortium.uchicago.edu/page/teacher-evaluation
+Jiang, J. Y., & Sporte, S. E. (2016, January). Teacher Evaluation in Chicago: Differences in Observation and Value-Added Scores by Teacher, Student, and School Characteristics. University of Chicago Consortium on School Research. http://consortium.uchicago.edu/page/teacher-evaluation
 
 `q2 · i?` · `associational · r2`
 
-Same observational analysis of REACH Students data. Observation-score concentration across poverty levels is steeper than for value-added: "30 percent of the lowest-scoring teachers are found in the highest-poverty schools, while only 9 percent are in schools with the lowest poverty."
+Same observational analysis of REACH Students data. Observation-score concentration across poverty levels is steeper than for value-added: of the teachers with the lowest observation scores, 30 percent are in the highest-poverty schools and 9 percent in the lowest-poverty schools.
 
-> "The differences in observation scores are more pronounced: 30 percent of the lowest-scoring teachers are found in the highest-poverty schools, while only 9 percent are in schools with the lowest poverty."
+> "The differences in observation scores by school poverty level are more pronounced. Of the teachers with the lowest scores on observation ratings, 30 percent are in schools with the highest poverty while only 9 percent are in schools with lowest poverty"
 
 ## Discussion
 

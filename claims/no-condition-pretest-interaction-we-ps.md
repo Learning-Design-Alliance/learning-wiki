@@ -44,7 +44,7 @@ Eman Ganaiem, Ido Roll. (2025). Investigating the order of example-problem seque
 
 `q3 · i?` · `causal · r2`
 
-In the experimental design MANCOVA (n = 113 randomized students), the condition-by-pre-test interaction was non-significant (p = 0.870), contradicting the hypothesis that low prior knowledge students benefit most from WE first.
+In the experimental design MANCOVA (n = 113 students analysed), the condition-by-pre-test interaction was non-significant (p = 0.870), contradicting the hypothesis that low prior knowledge students benefit most from WE first.
 
 > "Also, there is no significant interaction between condition and pre-test: Wilk's Λ = 0988, F (4, 212) = 0.315, p = 0.870, partial η2 = 0.006."
 
@@ -54,7 +54,7 @@ Eman Ganaiem, Ido Roll. (2025). Investigating the order of example-problem seque
 
 `q3 · i?` · `causal · r2`
 
-In the graphing MANCOVA (n = 120 randomized students), the condition-by-pre-test interaction was also non-significant (p = 0.138); equivalence was not tested.
+In the graphing MANCOVA (n = 120 students analysed, of 199 who took part, after high attrition; groups of 38, 40 and 42), the condition-by-pre-test interaction was also non-significant (p = 0.138); equivalence was not tested.
 
 > "There was also no significant interaction between condition and pre-test: Wilk's Λ = 0.940, F (4, 226) = 1.760, p = 0.138, partial η 2 = 0.03."
 

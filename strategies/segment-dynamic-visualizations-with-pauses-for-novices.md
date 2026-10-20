@@ -44,7 +44,7 @@ The review supports showing complex dynamic visualizations in segments with paus
 
 - [Disrupting the event structure of dynamic visualizations — deleting event boundaries or inserting commercials between boundaries — reduces recall of the depicted events](../claims/disrupting-event-structure-reduces-recall.md) [+W]
 - [Segmentation of dynamic visualizations shows an expertise reversal effect: students with lower prior knowledge benefit, while students with higher prior knowledge learn equally well with or without segmentation](../claims/segmentation-benefits-shrink-with-expertise.md) [+W]
-- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, compared with non-segmented presentations](../claims/segmentation-improves-learning-dynamic-visualizations.md) [+W]
+- [Segmenting complex dynamic visualizations into pieces with pauses improves learning outcomes, especially transfer performance, at least for novices, compared with non-segmented presentations](../claims/segmentation-improves-learning-dynamic-visualizations.md) [+W]
 - [Temporal cueing of event boundaries, such as adding key frames to dynamic visualizations, improves posttest performance](../claims/temporal-cueing-event-boundaries-improves-learning.md) [+W]
 - [Segmenting Improves Multimedia Learning](../claims/segmenting-improves-multimedia-learning.md) [+W]
 

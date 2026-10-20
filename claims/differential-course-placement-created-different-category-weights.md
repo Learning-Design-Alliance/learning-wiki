@@ -48,6 +48,6 @@ Analysis of Gradebook enrollment and weighting data (Table 2) showing placement-
 
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — the general claim this finding bears on, with the studies behind it
 - [Higher weights on assessments shrank, but did not eliminate, the gender difference in final grades, because young women were more often in classes weighting assessments heavily](assessment-weights-shrank-gender-grade-gap.md) — related
-- [Gender differences in points earned remained statistically significant when comparing students in the same courses with the same weightings](gender-gap-persists-controlling-course-enrollment.md) — related
+- [Gender differences in assessment points earned remained small but statistically significant after controlling for math course type and level](gender-gap-persists-controlling-course-enrollment.md) — related
 - [Young women outperformed young men in every grading category family in unweighted points, with the largest gap in assignments and smallest in assessments; weighting reversed this ordering](gender-gap-varies-by-grading-category-family.md) — related
 - [Prior achievement, attendance, and suspensions do not explain the gender difference in ninth-grade math grades](prior-achievement-attendance-suspensions-do-not-explain-gender-grade-gap.md) — related

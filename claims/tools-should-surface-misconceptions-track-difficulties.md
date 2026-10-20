@@ -9,9 +9,9 @@ generated:
   at: 2026-10-11
 evidence_strength: weak
 sources:
-  - id: rakib-2025
+  - id: rakib-2026
     resource: "https://doi.org/10.48550/arxiv.2607.00979"
-    title: "Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)"
+    title: "Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2026). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)"
     author: "Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M."
     q: 1
     i: "?"
@@ -25,13 +25,13 @@ sources:
 > **Evidence** · 1 study · qualitative `r3` · `q1`
 
 ## Subclaims
-`q1 i?` The article argues immersive tools should incorporate mechanisms to surface misconceptions and track where learners encounter difficulties, and should be designed with built-in communication loops between learners, educators, and designers. [→ Rakib 2025](#rakib-2025)
+`q1 i?` The article argues immersive tools should incorporate mechanisms to surface misconceptions and track where learners encounter difficulties, and should be designed with built-in communication loops between learners, educators, and designers. [→ Rakib 2026](#rakib-2026)
 
 ## Evidence
 
-### Rakib 2025
+### Rakib 2026
 
-Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2025). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)
+Rakib, M. A. N., Akter, S., Sridhar, E. P., Biswas, S., Raihan, M. R., & Rahman, M. (2026). Visualizing Engineering Fundamentals: Design of Mixed Reality and Physical Toolkits for Effective Learning. Manuscript under review at Ergonomics in Design: The Quarterly of Human Factors Applications. https://arxiv.org/abs/2607.00979 [doi:10.48550/arxiv.2607.00979](https://doi.org/10.48550/arxiv.2607.00979)
 
 `q1 · i?` · `qualitative · r3`
 

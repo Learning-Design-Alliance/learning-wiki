@@ -44,7 +44,7 @@ Nückles, M., Roelle, J., Glogger-Frey, I., Waldeyer, J., & Renkl, A. (2020). Th
 
 `q3 · i?` · `review · r2`
 
-Experimental study with undergraduates (developmental psychology) varying prompt combinations. Students receiving "cognitive, or a combination of cognitive and metacognitive prompts learned more than students without prompts"; metacognitive-only prompts produced high metacognitive but very few cognitive strategies.
+A review of 16 experimental and 4 correlational journal-writing studies; this entry is its summary of Berthold et al. (2007), an experiment with undergraduates (developmental psychology) varying prompt combinations. Students receiving "cognitive, or a combination of cognitive and metacognitive prompts learned more than students without prompts"; metacognitive-only prompts produced high metacognitive but very few cognitive strategies.
 
 > "undergraduate students who received cognitive, or a combination of cognitive and metacognitive prompts learned more than students without prompts. Students provided only with metacognitive prompts, however, did not learn more than those without prompts"
 
@@ -54,7 +54,7 @@ Nückles, M., Roelle, J., Glogger-Frey, I., Waldeyer, J., & Renkl, A. (2020). Th
 
 `q3 · i?` · `review · r3`
 
-Replication experiment (N = 103 university students, cognitive load theory content) with five prompt conditions and an opportunity to revise journals. "metacognitive prompts alone ... also improved learning outcomes" when remedial planning was prompted; the combination of all prompt types was most successful.
+The same review's summary of Nückles et al. (2009), a replication experiment (N = 103 university students, cognitive load theory content) with five prompt conditions and an opportunity to revise journals; the 2020 review did not run the experiment itself. "metacognitive prompts alone ... also improved learning outcomes" when remedial planning was prompted; the combination of all prompt types was most successful.
 
 > "metacognitive prompts alone (i.e., condition c, see above) also improved learning outcomes. That is, prompting metacognitive strategies alone is not detrimental — if the planning of remedial strategies is prompted and learners have the opportunity to realize the remedial strategies"
 

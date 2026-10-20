@@ -50,4 +50,4 @@ Participant-observer finding from the case study; students enjoyed gauging their
 - [Individual and teamwork challenges (language barriers, personality, competition, skill screening, software, duration) can affect game jam learning processes](game-jam-challenges-4c-affected.md) — related
 - [Most surveyed participants reported they had not enjoyed mathematics classes in the past](past-math-class-enjoyment-negative.md) — related
 - [Collaborative Learning Improves Outcomes](collaborative-learning-improves-outcomes.md) — related
-- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, showing no wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related
+- [Students across competitive-preference levels reported enjoying the Kahoot activities consistently throughout the semester, with no detectable wear-out effect](kahoot-enjoyment-stable-across-groups-and-time.md) — related

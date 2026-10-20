@@ -1,7 +1,7 @@
 ---
 type: claim
-title: High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms
-description: High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms
+title: High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety
+description: High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety
 id: vad-stress-psychological-safety-threat
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 3
 ---
 
-# High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms
+# High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · qualitative `r3` · `q2`
@@ -53,7 +53,7 @@ Stefan A. Schreder, Helen Jossberger, Hans Gruber. (2025). Mountain rescuers' ex
 
 `q2 · i?` · `qualitative · r3`
 
-Participant quotation (FG 10, P 4) illustrating the emotional risk common to both VAD forms: watching mistake-containing footage in front of team members was considered critical and is discussed by the authors as a potential threat to psychological safety.
+Participant quotation (FG 10, P 4) illustrating the emotional risk common to both VAD forms: watching mistake-containing footage in front of team members "was seen as critical within both forms of VAD", and the authors write that it "can be considered as a threat to psychological safety"; the study does not measure whether psychological safety was actually lowered. Facilitators countered it by ensuring confidentiality and debriefing in private.
 
 > "Generally speaking, I do not like seeing myself in videos, because if the simulation does not go well, you can always be exposed."
 

@@ -34,7 +34,7 @@ Yearim Kim, Injun Baek, and Nojun Kwak. 2026. When Saying No Makes Better Videos
 
 `q2 · i?` · `causal · r1`
 
-Algorithmic assessment of a corpus of 14 videos (7 topics × 2 conditions) from established science and philosophy curricula, generated with identical structure so CTML-informed review was the sole variable. The article reports "temporal contiguity (0.294 vs. 0.273,𝑝=. 021) and coherence (0.729 vs. 0.646,𝑝=. 011)"; no standardized effect size is printed.
+Algorithmic assessment of a corpus of 14 videos (7 topics × 2 conditions) from established science and philosophy curricula, generated with identical structure so CTML-informed generation and review together were the sole variable; the design cannot separate the two. The article reports "temporal contiguity (0.294 vs. 0.273,𝑝=. 021) and coherence (0.729 vs. 0.646,𝑝=. 011)"; no standardized effect size is printed.
 
 > "Two of the five metrics showed significant improvement: temporal contiguity (0.294 vs. 0.273,𝑝=. 021) and coherence (0.729 vs. 0.646,𝑝=. 011). The remaining three showed no significant difference"
 

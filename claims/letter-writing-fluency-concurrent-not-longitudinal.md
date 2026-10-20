@@ -46,7 +46,7 @@ Longitudinal SEM in the same cohort: the kindergarten letter-writing fluency fac
 - [Writing Skills](../learner-variables/writing-skills.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
+- [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [Vocabulary is uniquely and positively related to word reading and spelling in kindergartners after accounting for phonological awareness, alphabet knowledge fluency, and letter writing automaticity](vocabulary-uniquely-related-word-reading-spelling-kindergarten.md) — related
 - [Letter writing automaticity is marginally related to spelling (b = .11, p = .06) but not uniquely related to word reading (b = -.07, p = .28) in kindergartners](letter-writing-automaticity-marginal-spelling-not-word-reading.md) — related
 - [Children's expressive vocabulary is not uniquely related to either dimension of written composition after accounting for other variables](vocabulary-not-uniquely-related-to-written-composition.md) — related

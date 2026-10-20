@@ -42,7 +42,7 @@ An associated NWEA working paper titled "English Language Learners, self-efficac
 
 - [Self-efficacy is related to the achievement gap for English Language Learners](../claims/self-efficacy-related-to-persistence-of-ell-achievement-gaps.md) [+W]
 - [A companion working paper examines the relationship between academic and social-emotional growth for English Language Learners](../claims/ell-working-paper-academic-and-social-emotional-growth.md) [+W]
-- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth](../claims/ell-lower-start-faster-reading-growth-only.md) [+M]
+- [ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth](../claims/ell-lower-start-faster-reading-growth-only.md) [+M]
 - [Fifth-grade self-efficacy is associated with later math and reading growth (.15 and .19 standardized units per SD), mediating ELL status's indirect negative association with growth](../claims/self-efficacy-intercept-predicts-achievement-growth-mediation.md) [+M]
 - [Self-efficacy declines steadily for all students between 5th and 8th grade even while math and reading achievement grow](../claims/self-efficacy-declines-middle-school-achievement-grows.md) [+M]
 - [Non-ELLs outscore ELLs in math, reading, and self-efficacy at every timepoint, with a 2015 self-efficacy gap exceeding .35 standard deviations](../claims/ell-non-ell-gaps-math-reading-self-efficacy.md) [+M]

@@ -79,7 +79,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [The review tutorial yields higher post-training task relevance than the control, but no condition effect on self-efficacy](../claims/review-condition-raises-task-relevance-not-self-efficacy.md) [-W]
 - [Belonging, task relevance, and individual mindset together predict classroom self-efficacy, with belonging the strongest predictor](../claims/belonging-task-relevance-mindset-predict-self-efficacy.md) [+W]
 - [Attributional feedback raises self-efficacy and performance, with ability versus effort feedback credibility depending on learners' capabilities and timing](../claims/attributional-feedback-credibility-effort-ability.md) [+W]
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](../claims/chatgpt-boosts-self-efficacy-not-performance.md) [~W]
 - [Academic self-efficacy is positively associated with school satisfaction among student parents, both directly and indirectly through school-family balance](../claims/academic-self-efficacy-predicts-school-satisfaction-student-parents.md) [+W]
 - [Coping versus mastery model benefits depend on task difficulty and observers' prior success](../claims/coping-versus-mastery-models-task-difficulty.md) [~W]
 - [ESL students taught concept mapping show significantly greater gains in self-efficacy for learning from text than students taught an alternative learning strategy](../claims/concept-mapping-greater-self-efficacy-gains-esl.md) [+W]

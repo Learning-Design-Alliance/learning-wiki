@@ -23,7 +23,7 @@ A taxonomy for coding think-aloud protocols of secondary school students studyin
 
 ### Claims
 - [A task-specific questionnaire built item-by-item from a think-aloud coding taxonomy correlated r=.51 with think-aloud protocols, higher than the -.07 to .42 regularly reported](../claims/task-specific-questionnaire-think-aloud-correlation-51.md) [+M]
-- [Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability](../claims/task-specific-questionnaire-low-subscale-reliabilities.md) [~M]
+- [Most subscale reliabilities of the task-specific questionnaire were moderate to low (three of four subscales with 16 students, all four with 190), despite acceptable full-instrument reliability](../claims/task-specific-questionnaire-low-subscale-reliabilities.md) [~M]
 
 ## Related Research Methods
 

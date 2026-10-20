@@ -63,7 +63,7 @@ ANCOVA on post-task task interest (100-point scale) in the same experiment; the 
 
 
 ## Related Claims
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — related
 - [ChatGPT use improves the quality, elaboration, and originality of university students' solutions to a complex ill-defined problem-solving task](chatgpt-improves-quality-elaboration-originality-pit.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [Effects of GenAI availability on self-reported understanding are insignificant; effects on interest are significant only under the transient-COVID assumption](genai-satisfaction-understanding-null-interest-assumption-dependent.md) — related

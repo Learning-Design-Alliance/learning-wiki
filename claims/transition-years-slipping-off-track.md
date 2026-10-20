@@ -45,6 +45,6 @@ Panel guidance in Recommendation 1 on reviewing ABC indicators from the previous
 ## Related Claims
 - [Students' 6th-grade SEL level and SEL growth from 6th to 8th grade relate to successful transition to secondary school](sel-trajectories-relate-secondary-school-transition.md) — related
 - [Understanding how a student develops social-emotionally over intermediate school can improve identification of students not on track to succeed in high school](sel-trajectories-improve-off-track-identification.md) — related
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](sel-middle-school-predicts-off-track-graduation.md) — related
+- Middle school social-emotional learning skills predict being off-track to graduate high school — related
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](transition-depends-on-academic-and-sel-preparation.md) — related
 - [Successfully transitioning from intermediate school to secondary school is pivotal for students to remain on track to graduate](transition-pivotal-for-remaining-on-track.md) — related

@@ -36,7 +36,7 @@ Melanie Turner, Flaviu A. Hodis. (2025). Strengthening Conscientiousness by Mean
 
 `q3 · i2` · `review · r3`
 
-RCT with active control of 552 participants from the digital-coaching trial who wanted to increase conscientiousness; 10-week online coaching. The review reports facet-level effects and the null observer-report result as printed.
+The review's summary of Olaru et al. (2024), an RCT with active control of 552 participants from Stieger et al. (2021) who wanted to increase their emotional stability, extraversion, or conscientiousness; 10-week online digital coaching. The facet effects are for the subset who wanted to improve conscientiousness, whose size the review does not give; the review reports them and the null observer-report result as printed.
 
 > "coaching increased the facets for organization (post-test/follow-up: d = 0.42/0.49) and productiveness (post-test/follow-up: d = 0.64/0.93), but not responsibility (post-test/follow-up: d = − 0.09/0.19; p = 0.920/0.148). No significant changes in the facets of conscientiousness were found when observer-report data were analyzed"
 

@@ -43,7 +43,7 @@ Janssen M, Toussaint HM, van Mechelen W, Verhagen EALM. (2014). Effects of acute
 
 `q2 · i?` · `review · r3`
 
-Review's narrative synthesis across 12 studies with bouts of 10–45 minutes at ~60% HRmax. Reports short bouts (max 20 min) mostly significant; the 45-min bout (Pirrie & Lodewyk 2012) showed no effect on attention.
+Review's narrative synthesis across 12 studies with bouts of 10–45 minutes; intensity was assessed in eight of them, and in the six laboratory studies it was around 60% of maximum heart rate (moderate). Reports short bouts (max 20 min) mostly significant; the 45-min bout (Pirrie & Lodewyk 2012) showed no effect on attention.
 
 > "In the majority of studies that included a short PA bout of maximum of 20 mi- nutes, a significant effect of PA on attention was found. In contrast, in the study from Pirrie and Lodewyk (2012) no effect was found after a 45 minutes PA bout."
 

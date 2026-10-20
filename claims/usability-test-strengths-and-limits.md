@@ -50,4 +50,4 @@ Usability test with eight participants in two groups (chatbot designers and inst
 - [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — related
 - [AI chatbots provide students detailed feedback, step-by-step homework solutions, and self-quizzing support](chatbot-homework-study-assistance.md) — related
 - [AI chatbots support skills development in writing, problem-solving, and group discussion facilitation](chatbot-skills-development.md) — related
-- [Collaborative evaluation of chatbot solutions in groups supported problem-solving: students verified the chatbot's step-by-step photoelectric-effect calculation together](collaborative-chatbot-answer-verification-problem-solving.md) — related
+- [Students found using a chatbot to solve a photoelectric-effect problem and evaluating its answer insightful, and the authors propose group checking as a way to verify chatbot answers](collaborative-chatbot-answer-verification-problem-solving.md) — related

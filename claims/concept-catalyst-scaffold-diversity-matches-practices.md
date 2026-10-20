@@ -62,6 +62,6 @@ In the same study, teachers generated scaffolds for discussions, homework, asses
 
 
 ## Related Claims
-- [A scrutable concept-map interface reduced teachers' perceived cognitive load and helped them generate scaffolds quickly when creating classroom content with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
+- [Teachers trying a mock-up of a scrutable concept-map interface expected it to reduce their cognitive load and said it helped them generate content quickly when creating classroom materials with generative AI](concept-catalyst-reduces-cognitive-load-quick-generation.md) — related
 - [Building the concept map supported teachers' reflection, helping them synthesize what students should learn and iterate on their plans](concept-catalyst-concept-map-supports-teacher-reflection.md) — related
 - [In a prior Wizard-of-Oz study, K-12 engineering teachers reported positive feedback on the efficiency, quality, and diversity of scaffold content produced with the Concept Catalyst framework](woz-study-positive-teacher-feedback-concept-catalyst-framework.md) — a broader claim this one bears on

@@ -44,7 +44,7 @@ A study commissioned by the state of Massachusetts and conducted by Mathematica 
 - [In math, students meeting the PARCC college-ready standard are less likely to need remediation than students meeting the MCAS proficient standard](../claims/parcc-math-standard-less-remediation.md) [+W]
 - [MCAS and PARCC scores similarly predict which students need remedial coursework in college](../claims/parcc-mcas-similar-remediation-prediction.md) [+W]
 - [PARCC and MCAS scores show similar validity in predicting college grades for Massachusetts students](../claims/parcc-mcas-similar-validity-college-grades.md) [+W]
-- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC](../claims/first-study-parcc-college-readiness-massachusetts-decision.md) [+W]
+- [The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC](../claims/first-study-parcc-college-readiness-massachusetts-decision.md) [+W]
 - [PARCC and MCAS scores show similar validity for predicting college grades](../claims/parcc-mcas-similar-college-grade-validity.md) [+W]
 - [Both MCAS and PARCC assessment scores predict college readiness, with similar validity in predicting college grades](../claims/mcas-and-parcc-both-predict-college-grades-similar-validity.md) [+W]
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](../claims/first-study-parcc-college-readiness-goal.md) [+W]

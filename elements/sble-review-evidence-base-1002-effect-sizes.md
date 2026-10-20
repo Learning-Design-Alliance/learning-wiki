@@ -43,7 +43,7 @@ The review's synthesized corpus comprises "a final sample of 1002 effect sizes f
 - [Review findings are consistent across study design features; no moderator showed meaningful relationships](../claims/sble-findings-consistent-across-design-features.md) [+W]
 - [SBLE is associated with higher exclusionary discipline rates, with no detectable improvements to school crime or violence](../claims/sble-increases-exclusionary-discipline.md) [+W]
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](../claims/sble-no-beneficial-learning-effects.md) [+W]
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](../claims/sble-student-level-crime-behavior-null.md) [+W]
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](../claims/sble-student-level-crime-behavior-null.md) [+W]
 
 ## Related Elements
 - 

@@ -44,7 +44,7 @@ The article's statement of the research gap motivating the study: it reports tha
 
 ## Related Claims
 - [The stability of social-emotional learning competencies over time is an open empirical question with implications for teachers and schools](sel-competencies-stability-over-time-question.md) — possibly the same claim (merge candidate)
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](sel-middle-school-predicts-off-track-graduation.md) — related
+- Middle school social-emotional learning skills predict being off-track to graduate high school — related
 - [Little is known about how much variance in SEL constructs is stable over time versus specific to a given time or context](sel-stability-variance-unknown.md) — a broader claim this one bears on
 - [The rank ordering of math and reading skills is highly stable over time, while four SEL domains are more strongly influenced by contextual factors](sel-domains-less-stable-than-achievement.md) — related
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — related

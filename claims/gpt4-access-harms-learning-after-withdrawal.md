@@ -249,7 +249,7 @@ Every entry this page had was a second-hand report of one trial (Bastani et al.,
 - [Students use standard GPT-4 access as a crutch—copying answers rather than engaging with the material—which explains the harm to learning](gpt-base-crutch-mechanism.md) — related
 - [Intensive LLM use in educational contexts may lead to an accumulation of cognitive debt that weakens critical thinking and epistemic ownership](llm-cognitive-debt-weakens-critical-thinking.md) — related
 - [Positive LLM tutor perceptions do not necessarily translate to learning gains, creating an over-reliance risk](llm-scaffolding-over-reliance-paradox.md) — related
-- [Prior genAI use shows some evidence of poorer subsequent unaided reasoning, confined to the no-incentive condition](prior-genai-use-poorer-unaided-reasoning.md) — a narrower finding that bears on this claim
+- [Prior genAI access shows only exploratory evidence of poorer subsequent unaided reasoning, within the no-incentive condition, and no preregistered main effect](prior-genai-use-poorer-unaided-reasoning.md) — a narrower finding that bears on this claim
 - [Easy access to AI-generated answers may reduce learners' motivation to engage deeply with material](ai-over-reliance-reduces-deep-engagement.md) — a broader claim this one bears on
 - [Meta-reviews reach contradictory conclusions on whether AI reliance harms or helps critical thinking, with substantial design limitations limiting generalizability](contradictory-meta-reviews-ai-critical-thinking.md) — related
 - [Agentivism generates six empirically testable propositions linking delegation structure, verification, reconstruction, and reduced-support transfer to learning outcomes](agentivism-six-testable-propositions.md) — a broader claim this one bears on

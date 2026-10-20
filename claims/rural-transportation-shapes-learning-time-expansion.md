@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day
-description: Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day
+title: Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day
+description: Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day
 id: rural-transportation-shapes-learning-time-expansion
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day
+# Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · qualitative `r2` · `q2`
@@ -35,7 +35,7 @@ A Focused Look at Rural Schools Receiving School Improvement Grants. (2014). NCE
 
 `q2 · i?` · `qualitative · r2`
 
-Site visit findings on how rural context shaped the SIG requirement to increase learning time. One district added one minute to each class period because bussing capacity was stretched; another offered after-school and Saturday programs but could not afford transportation, and Saturday attendance was reportedly low.
+Site visit findings from nine purposively selected rural SIG schools on how rural context shaped the SIG requirement to increase learning time; these are respondents' perceptions in two schools, not a tested cause, and do not generalise to rural SIG schools as a whole. One district added one minute to each class period because bussing capacity was stretched; another offered after-school and Saturday programs but could not afford transportation, and Saturday attendance was reportedly low.
 
 > "Respondents in two rural schools noted that because of the large catchment area served and issues and costs related to transportation, increasing learning time within the existing schedule rather than extending the school day was the best option."
 

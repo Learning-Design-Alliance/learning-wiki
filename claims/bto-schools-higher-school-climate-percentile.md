@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Beating-the-odds schools have substantially more positive school climate than other California middle and high schools
-description: Beating-the-odds schools have substantially more positive school climate than other California middle and high schools
+title: Beating-the-odds schools have substantially more positive school climate than the other California middle and high schools in a 1,715-school survey sample
+description: Beating-the-odds schools have substantially more positive school climate than the other California middle and high schools in a 1,715-school survey sample
 id: bto-schools-higher-school-climate-percentile
 aliases: [bto-schools-more-positive-school-climates]
 status: review
@@ -20,7 +20,7 @@ sources:
     rigour: 3
 ---
 
-# Beating-the-odds schools have substantially more positive school climate than other California middle and high schools
+# Beating-the-odds schools have substantially more positive school climate than the other California middle and high schools in a 1,715-school survey sample
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r3` · `q2`
@@ -29,7 +29,7 @@ sources:
 
 `q2 i?` BTO schools scored at the 82nd percentile on school climate on average, versus the 49th percentile for other schools. [→ Voight 2013](#voight-2013)
 
-`q2 i?` Schools whose test scores outperformed demographic predictions across multiple years had higher School Climate Index scores than all other secondary schools. [→ Voight 2013](#voight-2013)
+`q2 i?` Schools whose test scores outperformed demographic predictions across multiple years had higher average School Climate Index scores than the other secondary schools in the study's sample of 1,715 California public middle and high schools that administered the California Healthy Kids Survey. [→ Voight 2013](#voight-2013)
 
 ## Evidence
 
@@ -39,7 +39,7 @@ Voight, A., Austin, G., and Hanson, T. (2013). A climate for academic success: H
 
 `q2 · i?` · `associational · r3`
 
-Comparative analysis of School Climate Index scores across 1,715 California middle and high schools, contrasting 40 BTO schools with other schools; the report states BTO schools had climate scores at the "82 nd percentile" versus the 49th for others.
+Comparative analysis of School Climate Index scores across 1,715 traditional California public middle and high schools that administered the California Healthy Kids Survey (roughly two-thirds of the state's total), contrasting 40 BTO schools with other schools; the report states BTO schools had climate scores at the "82 nd percentile" versus the 49th for others.
 
 > "BTO schools had climate scores at the 82 nd  percentile, on average, whereas other schools were at the 49 th  percentile, on average."
 

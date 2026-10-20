@@ -17,7 +17,7 @@ sources:
 # MAP Growth assessment product
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (5 for) · 8 studies (8 associational), `q1`–`q2` · 0 of 8 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (5 for) · 9 studies (9 associational), `q1`–`q2` · 0 of 9 report an effect size · 3 claims rest on one study
 
 ## Description
 MAP Growth is NWEA's assessment product, listed as the product behind multiple 2026 research publications. The page describes research using "a nationwide sample of MAP Growth scores for middle schoolers" and trends drawn "from the MAP Growth National Dashboard," covering topics such as growth, informing instruction, math and STEM, and reading and language arts. It supports research on placement, recovery trends, and instructional systems.

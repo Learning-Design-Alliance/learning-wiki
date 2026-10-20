@@ -35,7 +35,7 @@ Jonathan Nakamoto, Sandy Sobolew-Shubin, Martin Orland. (2015). The Beaverton Sc
 
 `q3 · i?` · `causal · r2`
 
-Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report interprets this as the program having an equally positive impact for both FRL and non-FRL students. No effect size is printed for this contrast, so impact is null.
+Exploratory subgroup analyses with grade 4 CCU data in 12 schools; the report interprets this as the program having an equally positive impact for both FRL and non-FRL students. No effect size is printed for this subgroup contrast (coded `i?`); a non-significant difference between subgroups does not show that the impact was null for either group.
 
 > "the free/reduced-price lunch subgroup analyses based on the CCU Assessments with the students in grade 4 did not reveal any statistically significant differences between the free/reduced-price lunch and non-free/reduced-price lunch students."
 

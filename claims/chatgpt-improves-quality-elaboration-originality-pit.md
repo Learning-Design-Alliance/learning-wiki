@@ -64,7 +64,7 @@ Mixed within-between ANCOVA comparing pre-test Unusual Uses Task (solved without
 
 ## Related Claims
 
-- [ChatGPT use boosts university students' self-efficacy for task resolution without improving actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — reports the opposite
+- [ChatGPT use boosts university students' self-efficacy for task resolution, but self-efficacy barely tracks actual performance](chatgpt-boosts-self-efficacy-not-performance.md) — reports the opposite
 - [Solving a creative problem-solving task with ChatGPT is perceived as easier and requires less mental effort, but is not more interesting](chatgpt-lower-perceived-difficulty-effort-no-interest.md) — related
 - [ChatGPT use does not change absolute self-evaluation accuracy, but self-evaluation judgments fail to correlate with performance under ChatGPT assistance](chatgpt-no-accuracy-difference-poor-calibration.md) — related
 - [AI use in training carries risks of uncritical acceptance and overreliance, including undetected conceptual errors and increased delegation of problem solving](ai-training-risks-uncritical-acceptance-overreliance.md) — related

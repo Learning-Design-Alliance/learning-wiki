@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC"
-description: "The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC"
+title: "The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC"
+description: "The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC"
 id: first-study-parcc-college-readiness-massachusetts-decision
 status: review
 generated:
@@ -10,8 +10,8 @@ generated:
 evidence_strength: moderate
 sources:
   - id: erin-dillon-2015
-    resource: "https://doi.org/10.18289/oef.2015.002"
-    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)"
+    resource: "https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
+    title: "Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college"
     author: Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place
     q: 2
     i: "?"
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# The study is the first to examine whether PARCC assessments identify students who are ready for college, and it informed Massachusetts's decision between MCAS and PARCC
+# The study is the first to examine whether PARCC assessments identify students who are ready for college, and it was commissioned to inform Massachusetts's decision between MCAS and PARCC
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r2` · `q2`
@@ -31,7 +31,7 @@ sources:
 
 ### Erin Dillon 2015
 
-Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college [doi:10.18289/oef.2015.002](https://doi.org/10.18289/oef.2015.002)
+Erin Dillon, Ira Nichols-Barrer, Brian Gill, Kate Place. (2015). Policy Brief: Calibrating Performance Standards Across State Lines: How PARCC Predicts College Readiness. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/policy-brief-calibrating-performance-standards-across-state-lines-how-parcc-predicts-college
 
 `q2 · i?` · `associational · r2`
 

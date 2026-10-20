@@ -45,6 +45,6 @@ Propensity-weighted comparison of NLCI elementary schools with matched schools o
 ## Related Claims
 - [Full-day pre-k funding significantly raised pre-k attendance at NLCI elementary schools relative to matched comparison schools](nlci-full-day-pre-k-significantly-higher-attendance.md) — related
 - [In the first year of NLCI expansion, the attendance advantage over similar schools (3.8 percentage points) was not statistically significant](nlci-year-one-attendance-difference-not-significant.md) — related
-- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than matched comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
+- [Four schools that converted half-day pre-k to full-day showed attendance about 4 percentage points higher than propensity-weighted comparison schools after expansion](nlci-fullday-conversion-attendance-gains.md) — related
 - [Eighth-grade graduates fared better in the transition to high school over time, but Freshman OnTrack rates were not consistently higher than at similar schools](nlci-freshman-ontrack-not-consistently-higher.md) — related
 - [High implementation of trauma-engaged practices was associated with higher elementary students' caring-others perceptions](implementation-associated-elementary-caring-others.md) — related

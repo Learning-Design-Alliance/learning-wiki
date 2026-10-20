@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy
-description: Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy
+title: Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy
+description: Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy
 id: jol-complete-words-no-list5-interim-benefit
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Making JOLs with complete words does not enhance interim recall of new List-5 material compared to restudy
+# Making JOLs with complete words did not significantly enhance interim recall of new List-5 material compared to restudy
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`
@@ -35,7 +35,7 @@ Veit Kubik, Kenneth Koslowski, Torsten Schubert, Alp Aslan. (2022). Metacognitiv
 
 `q3 · i?` · `causal · r2`
 
-Same between-subjects experiment (N = 161); the planned contrast for the JOLs-with-complete-words group versus restudy on interim List-5 recall was nonsignificant: "t(79) = 1.12, p = .264, d = 0.25". No effect size beyond d is printed, so impact is null.
+Same between-subjects experiment (N = 161); the planned contrast for the JOLs-with-complete-words group versus restudy on interim List-5 recall was nonsignificant: "t(79) = 1.12, p = .264, d = 0.25". The small, nonsignificant d = 0.25 (95% CI −0.19 to 0.70) neither shows a benefit nor establishes its absence; equivalence was not tested, so impact is left uncoded (`i?`).
 
 > "but that making JOLs with complete words was not, t(79) = 1.12, p = .264, d = 0.25, 95% CI [-0.19, 0.70]"
 

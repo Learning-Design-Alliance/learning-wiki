@@ -1,7 +1,7 @@
 ---
 type: claim
-title: ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
-description: ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
+title: ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth
+description: ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth
 id: ell-lower-start-faster-reading-growth-only
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no faster math or self-efficacy growth
+# ELLs start middle school roughly .6 SD lower in math and .65 SD lower in reading, with faster reading growth (.13 SD) but no significantly faster math or self-efficacy growth
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q2`
@@ -54,7 +54,7 @@ Soland, J. (2019). English Language Learners, Self-efficacy, and the Achievement
 
 `q2 · i?` · `associational · r2`
 
-Self-efficacy growth results from the same SEMs (Question 2, Figure 3). The article concludes ELLs start much lower on self-efficacy and those scores do not grow more over time relative to non-ELLs; the reading-model self-efficacy slope coefficient is negative but indistinguishable from zero. No effect size statistic is printed, so impact is null.
+Self-efficacy growth results from the same SEMs (Question 2, Figure 3). The article concludes ELLs start much lower on self-efficacy and those scores "do not appear to grow more over time" relative to non-ELLs: the association with the slope is not statistically significant (in the reading model, negative but indistinguishable from zero), which is no evidence of faster growth rather than evidence of none. No effect size is printed for the slope association, so impact is coded `i?`.
 
 > "For self-efficacy, ELLs have initial scores that are .23 standard deviations lower, but ELL status is not significantly associated with the slope on self-efficacy."
 

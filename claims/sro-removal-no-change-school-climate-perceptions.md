@@ -34,7 +34,7 @@ sources:
 
 ## Subclaims
 `q2 i?` The districtwide decrease in student perceptions of physical safety held across all SRO presence categories, with no significant difference-in-difference. [→ Arneson 2024](#arneson-2024)
-`q2 i?` No significant difference-in-difference was detected for teacher perceptions of physical safety or for Student-Teacher Trust at student or school levels. [→ Arneson 2024 (2)](#arneson-2024-2)
+`q2 i?` No significant difference-in-difference was detected for teacher perceptions of physical safety (school level) or for Student-Teacher Trust (student and school levels). [→ Arneson 2024 (2)](#arneson-2024-2)
 
 ## Evidence
 
@@ -54,7 +54,7 @@ Arneson, A., Hinze-Pifer, R., Franklin, K., & Johnson, D.W. (2024). Removing pol
 
 `q2 · i?` · `causal · r2`
 
-Null results for the 5Essentials Student-Teacher Trust measure and the supplementary Teacher Physical Safety measure, at both school and student levels. The brief notes climate outcomes are distal and may need multiple years of implementation to change.
+Null results for the 5Essentials Student-Teacher Trust measure, at both school and student levels, and for the supplementary Teacher Physical Safety measure, which was analysed at the school level only (the student-level analysis is marked N/A). The brief notes climate outcomes are distal and may need multiple years of implementation to change.
 
 > "We did not detect significant differences in the Student-Teacher Trust trends with partial or full removal of SROs at the student or school levels"
 

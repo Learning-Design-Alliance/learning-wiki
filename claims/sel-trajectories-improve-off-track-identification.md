@@ -43,7 +43,7 @@ Authors' summary finding from the longitudinal growth-model study of SEL traject
 
 
 ## Related Claims
-- [Middle school social-emotional learning skills predict being off-track to graduate high school](sel-middle-school-predicts-off-track-graduation.md) — related
+- Middle school social-emotional learning skills predict being off-track to graduate high school — related
 - [In a large urban district, 6th-grade SEL status is more frequently a significant predictor of being off track academically in 9th grade than SEL growth between 6th and 8th grade](sel-status-more-frequently-significant-predictor-off-track.md) — reports the opposite
 - [Whether students' SEL skills are stable over time, and whether initial level or change better flags later academic risk, was largely unknown before this study](sel-stability-and-predictive-value-largely-unknown.md) — related
 - [Successful transition from intermediate to secondary school depends on both academic preparation and social-emotional learning skills suited to a more independent environment](transition-depends-on-academic-and-sel-preparation.md) — a broader claim this one bears on

@@ -63,6 +63,6 @@ Facilitator interview evidence corroborating participant self-focus: FA 1 had th
 
 ## Related Claims
 - [Video evidence in VAD increased participants' acceptance of feedback and its credibility, reducing disputes over whether critical observations were correct](video-evidence-increases-feedback-acceptance.md) — related
-- [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](vad-stress-psychological-safety-threat.md) — related
+- [High-tech VAD equipment made some participants feel under observation and stressed, and viewing recorded mistakes before teammates was seen as critical in both VAD forms, a potential threat to psychological safety](vad-stress-psychological-safety-threat.md) — related
 - [Most simulation participants preferred high-tech video-assisted debriefing over lower-tech VAD and verbal debriefing, mainly for its better audio/video quality and focused review](participants-prefer-high-tech-vad-debriefing.md) — related
 - [In the debriefings, students who observed a scenario via live video join facilitators in attempts to reconceptualise the experiences expressed by scenario participants, using audiovisual appearances as a resource](peer-students-reconceptualisation-supported.md) — related

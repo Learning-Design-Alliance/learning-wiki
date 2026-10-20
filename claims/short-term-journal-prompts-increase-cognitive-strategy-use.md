@@ -25,7 +25,7 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q3` · `i3` large
 
 ## Subclaims
-`q3 i3` During the four prompted journals of unit 1, self-reported cognitive strategy use significantly increased from baseline, F(2.55,186.42)=15.95, p<.001, ηp²=0.18. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)
+`q3 i3` Across the four journals of unit 1 (a baseline journal at t1, then prompts at t2–t4), self-reported cognitive strategy use significantly increased from baseline, F(2.55,186.42)=15.95, p<.001, ηp²=0.18. [→ Nadja M. Gentner 2024](#nadja-m-gentner-2024)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Nadja M. Gentner, Lisa Respondek, Tina Seufert. (2024). Effects of short- and lo
 
 `q3 · i3` · `causal · r?`
 
-Repeated-measures ANOVA on the standardized part of weekly learning journals (t1–t4) for the complete sample of N = 74 university students. "This indicates a significant increase in cognitive strategy use over time" with ηp² = 0.18 after Greenhouse-Geisser correction.
+Repeated-measures ANOVA on the standardized part of weekly learning journals (t1–t4) for the complete sample of N = 74 university students; t1 was a baseline journal and prompts were given at t2–t4. "This indicates a significant increase in cognitive strategy use over time" with ηp² = 0.18 after Greenhouse-Geisser correction.
 
 > "There was a main effect of time, F(2.55,186.42) = 15.95, p < .001, ηp² = 0.18. This indicates a significant increase in cognitive strategy use over time"
 

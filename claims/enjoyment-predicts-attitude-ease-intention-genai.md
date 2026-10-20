@@ -1,7 +1,7 @@
 ---
 type: claim
-title: "Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention"
-description: "Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention"
+title: "Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey"
+description: "Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey"
 id: enjoyment-predicts-attitude-ease-intention-genai
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 1
 ---
 
-# Perceived enjoyment of GenAI tools positively influences teachers' attitudes, perceived ease of use and behavioural intention
+# Perceived enjoyment of GenAI tools is positively associated with in-service teachers' attitudes, perceived ease of use and behavioural intention in a Dominican Republic survey
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · associational `r1` · `q2` · `i3` large
@@ -35,7 +35,7 @@ Guillén-Gámez, F. D., Tomczyk, Ł., Habibi, A., & Díaz Vargas, B. L. (2026). 
 
 `q2 · i3` · `associational · r1`
 
-PLS-SEM bootstrapped path analysis (5,000 subsamples) in the 434-teacher sample testing H5–H7. All three enjoyment paths were significant, with printed path coefficients β = 0.530 (PE→AOU), β = 0.188 (PE→BI) and β = 0.323 (PE→PEOU); f² values ranged from 0.034 to 0.282.
+PLS-SEM bootstrapped path analysis of a cross-sectional convenience-sample survey of 434 in-service teachers in the Dominican Republic, testing H5–H7; the paths are associations, not causal effects, and the authors caution that the findings do not generalise beyond the studied population. All three enjoyment paths were significant, with printed path coefficients β = 0.530 (PE→AOU), β = 0.188 (PE→BI) and β = 0.323 (PE→PEOU); f² values ranged from 0.034 to 0.282.
 
 > "The results showed a significant relationship, both with the AOU factor (β = 0.530, t value = 6.377, p <.05), with the BI factor (β = 0.188, t value = 2.539, p <.05), and with the PEOU factor (β = 0.323, t value = 4.499, p <.05), which led to the acceptance of the three hypotheses."
 

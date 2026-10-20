@@ -44,5 +44,5 @@ Exploratory analysis of notification reliance among the 157 active participants:
 ## Related Claims
 
 - [Question-driven AI journaling increases intrinsic motivation and acting confidence among actors](question-driven-ai-journaling-raises-motivation-confidence.md) — the general claim this finding bears on, with the studies behind it
-- [The example-based course increases perceived competence, but neither feature affects perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
+- [The example-based course increased perceived competence, but neither the course nor the assistant had a significant effect on perceived choice or pressure](course-increases-perceived-competence-journaling.md) — related
 - [The LLM-based journaling assistant shows no significant effect on students' intrinsic motivation for creating a learning journal](journaling-assistant-no-intrinsic-motivation-effect.md) — related

@@ -46,7 +46,7 @@ Intermediate impact reported in the TTI evaluation's key findings: teacher reten
 - [Offering $20,000 per teacher filled 90 percent of targeted vacancies in hard-to-staff schools with high-performing teachers across seven districts](tti-20000-incentive-filled-90-percent-vacancies.md) — related
 - [TTI was more cost-effective than similar teacher-transfer incentive interventions](tti-more-cost-effective-than-similar-interventions.md) — related
 - [Most TTI teachers stayed on the job even after incentive payments ended](tti-teachers-retained-after-payments.md) — possibly the same claim (merge candidate)
-- [A $20,000 selective transfer incentive prompted behavioral responses from high-performing teachers in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
+- [A study of a $20,000 selective transfer incentive examined high-performing teachers' behavioral responses in 10 districts](teacher-transfer-incentive-behavioral-responses.md) — related
 - [A $20,000 selective transfer incentive offers high-performing teachers in 10 districts payment to move into their district's hardest-to-staff schools](selective-transfer-incentive-20000-hard-to-staff-schools.md) — related
 - [TTI transfer incentives increased elementary school students' math and reading test scores by an estimated 4 to 10 percentile points](tti-increased-elementary-test-scores.md) — related
 - [TTI did not increase test scores in middle schools](tti-no-middle-school-effects.md) — related

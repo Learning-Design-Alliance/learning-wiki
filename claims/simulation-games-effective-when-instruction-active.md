@@ -43,5 +43,5 @@ Meta-analytic moderator analysis across 46 active-instruction samples (N = 3,260
 
 
 ## Related Claims
-- [Simulation games are effective as a supplement to other instruction but counterproductive as standalone instruction](simulation-games-as-supplement-not-standalone.md) — related
+- [Simulation games are effective as a supplement to other instruction but not as standalone instruction, where comparison groups learned slightly more (a difference not statistically significant)](simulation-games-as-supplement-not-standalone.md) — related
 - [Trainees learn more from simulation games when they have unlimited access to the game](unlimited-access-enhances-simulation-game-learning.md) — related

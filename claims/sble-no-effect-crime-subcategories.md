@@ -43,7 +43,7 @@ Null meta-analytic finding from the 27 school-level studies of SBLE. The analysi
 
 
 ## Related Claims
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](sble-student-level-crime-behavior-null.md) — related
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](sble-student-level-crime-behavior-null.md) — related
 - [School-based law enforcement use is associated with greater crime and behavior problems in studies using schools as the unit of analysis](sble-associated-greater-school-level-crime-behavior-problems.md) — related
 - [SBLE shows no beneficial effects on learning outcomes or other analyzed outcomes](sble-no-beneficial-learning-effects.md) — related
 - [Student-level analyses likewise show higher exclusionary discipline under SBLE with no differences in other crime and behavior outcomes](sble-student-level-exclusionary-discipline.md) — related

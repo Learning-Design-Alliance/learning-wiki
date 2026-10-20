@@ -55,7 +55,7 @@ Low-stakes retrieval opportunities strengthen retention more than rereading or p
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Classroom testing (quizzing) significantly boosts student academic achievement to a medium extent (g = 0.499).](../claims/classroom-quizzing-medium-effect-achievement.md) [+W]
 - [Voluntary classroom uptake of teacher-assigned AI discussions was high on average (85.0% classroom participation) but heterogeneous across teachers and discussions](../claims/high-but-heterogeneous-voluntary-ai-discussion-uptake.md) [~W]
-- [The dominant qualitative criticism of AI-generated educational IF is the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [-W]
+- [In a small pilot of one AI pipeline's educational interactive fiction, the dominant free-text criticism was the artificial in-fiction motivation for quiz prompts](../claims/artificial-in-fiction-quiz-motivation-dominant-criticism.md) [-W]
 - [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](../claims/ungraded-tests-mediating-practice.md) [+W]
 
 ## The evidence by question

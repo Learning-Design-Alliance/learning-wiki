@@ -35,7 +35,7 @@ Kim Young-Suk, Al Otaiba Stephanie, Wanzek Jeanne. (2015). Kindergarten Predicto
 
 `q3 · i3` · `associational · r2`
 
-SEM of the 157-child longitudinal sample; narrative model quote shown. A second model for expository writing found "only kindergarten literacy skill was related (β = .43, p < .001)" while other predictors were not (ps ≥ .18), explaining 43% of variance.
+SEM of the 157-child longitudinal sample; narrative model quote shown. A second model for expository writing found "only kindergarten literacy skill was related (β = .43, p < .001)" while the other kindergarten predictors were not (ps ≥ .18), except that the control variable treatment status was negatively related to expository writing quality (β = −.23, p = .009); the predictors explained 43% of variance.
 
 > "Kindergarten literacy (β = .23, p = .01) and oral language (β = .35, p < .001) were both related to narrative writing quality in third grade."
 
@@ -51,7 +51,7 @@ SEM of the 157-child longitudinal sample; narrative model quote shown. A second 
 - [Kindergarten oral language does not uniquely predict third-grade expository writing quality](oral-language-not-predictive-expository-writing.md) — related
 - [Kindergarten oral language independently predicts third-grade narrative writing quality](kindergarten-oral-language-predicts-narrative-writing-quality.md) — related
 - [Kindergarten letter writing automaticity is not uniquely predictive of third-grade writing quality](letter-writing-automaticity-not-predictive-grade3-writing.md) — related
-- [A higher-order early literacy factor (reading and spelling) uniquely and positively predicts kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
+- [A higher-order early literacy factor (reading and spelling) is uniquely and positively related to kindergarten compositional fluency and first-grade writing fluency and quality](literacy-factor-predicts-early-writing.md) — related
 - [Third-grade narrative and expository writing quality are distinct but strongly related factors](narrative-expository-writing-quality-two-factors.md) — related
 - [Kindergarten treatment status was negatively related to third-grade expository writing quality](treatment-status-negatively-related-expository-quality.md) — related
 - [Set size, crowding and pre-cue use jointly predict literacy, with set size uniquely predicting spelling and pre-cue use uniquely predicting reading](regression-unique-literacy-predictors.md) — related

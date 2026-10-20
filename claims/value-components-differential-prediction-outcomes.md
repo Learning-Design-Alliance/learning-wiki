@@ -36,7 +36,7 @@ Guo, J., Nagengast, B., Marsh, H. W., Kelava, A., Gaspard, H., Brandt, H., Cambr
 
 `q2 · i3` · `associational · r3`
 
-SEM Models C2–C4 with the second-order bi-factor value structure. Attainment value predicted effort at β = .58 (.03)*** and engagement at β = .23; low cost predicted achievement (β = .26 in Model C2, reduced to .09 after global value); the text reports "utility value did not make a unique contribution in predicting the three outcomes".
+SEM Models C2–C4 with the second-order bi-factor value structure. Attainment value predicted effort at β = .58 (.03)*** and engagement at β = .23; low cost predicted achievement (β = .26 in Model C2, which included the global value factor, and β = .09 in Model C3, which excluded it); the text reports "utility value did not make a unique contribution in predicting the three outcomes".
 
 > "Math achievement was more associated with low cost, whereas self-rated effort was more associated with attainment value. Intrinsic value, attainment value, and low cost had uniquely predictive power on teacher-reported engagement. However, utility value did not make a unique contribution in predicting the three outcomes."
 

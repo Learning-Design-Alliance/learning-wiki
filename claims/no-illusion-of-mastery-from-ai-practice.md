@@ -14,7 +14,7 @@ sources:
     title: "Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880 [doi:10.48550/arxiv.2502.02880](https://doi.org/10.48550/arxiv.2502.02880)"
     author: Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth
     q: 4
-    i: "?"
+    i: 0
     kind: causal
     rigour: 3
 ---
@@ -22,10 +22,10 @@ sources:
 # Practicing with AI did not create an illusion of mastery: participants reported learning and skill levels similar to other conditions
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · causal `r3` · `q4`
+> **Evidence** · 1 study · causal `r3` · `q4` · `i0` negligible
 
 ## Subclaims
-`q4 i?` Participants who practiced with AI reported learning about as much as those who practiced without it or not practiced, and judged their writing skill similarly (|ds|≤0.10, ps>.05). [→ Benjamin Lira 2025](#benjamin-lira-2025)
+`q4 i0` Participants who practiced with AI reported learning about as much as those who practiced without it or not practiced, and judged their writing skill similarly (|ds|≤0.10, ps>.05). [→ Benjamin Lira 2025](#benjamin-lira-2025)
 
 ## Evidence
 
@@ -33,7 +33,7 @@ sources:
 
 Benjamin Lira, Todd Rogers, Daniel G. Goldstein, Lyle Ungar, and Angela L. Duckworth. (2025). Coach not crutch: Evidence that AI can improve writing skill despite reducing effort. https://arxiv.org/abs/2502.02880 [doi:10.48550/arxiv.2502.02880](https://doi.org/10.48550/arxiv.2502.02880)
 
-`q4 · i?` · `causal · r3`
+`q4 · i0` · `causal · r3`
 
 Exit questionnaire in the Study 2 experiment (N=2,238). Participants who practiced with AI "reported learning about as much as participants who had practiced without it or not practiced", with all self-report differences |ds|≤0.10 and non-significant.
 

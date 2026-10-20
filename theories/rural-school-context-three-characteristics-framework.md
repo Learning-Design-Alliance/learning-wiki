@@ -41,7 +41,7 @@ The brief organizes rural context around three characteristics that distinguish 
 - [Rural Teacher Commutes Hinder Staffing](../claims/rural-teacher-commutes-hinder-staffing.md) [+M]
 - [Rural SIG schools were more likely than nonrural SIG schools to adopt the transformation model (95 versus 74 percent)](../claims/rural-sig-schools-favor-transformation-model.md) [+W]
 - [Rural SIG schools perceived transportation access and home-school distance as location-related barriers to parent involvement](../claims/rural-transportation-barriers-parent-involvement.md) [+W]
-- [Transportation costs and catchment size led rural SIG schools to increase learning time within the existing schedule rather than extend the school day](../claims/rural-transportation-shapes-learning-time-expansion.md) [+W]
+- [Respondents in two of nine rural SIG schools saw transportation costs and catchment size as making it best to increase learning time within the existing schedule rather than extend the school day](../claims/rural-transportation-shapes-learning-time-expansion.md) [+W]
 - [Small rural teaching staffs forced PLCs across grades and subjects, and teachers in four schools felt isolated from same-subject colleagues](../claims/small-rural-staffs-cross-subject-plcs-isolation.md) [+W]
 
 ## Related Theories

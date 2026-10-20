@@ -35,7 +35,7 @@ What Works Clearinghouse, U.S. Department of Education. (2008). WWC Intervention
 
 `q3 · i0` · `quant-synthesis · r2`
 
-Print knowledge findings from two RCTs. Appendix A3.2 prints individual effect sizes from 0.01 to 0.12 (all ns) and a domain average of 0.06 with improvement index +2 percentile points. PCER also used TERA-3 and WJ III Spelling.
+Print knowledge findings from two RCTs. Appendix A3.2 prints five individual effect sizes from −0.08 to 0.12 (0.12 and −0.08 in RMC 2003; 0.08, 0.01 and 0.02 in PCER 2008; all ns) and a domain average of 0.06 with improvement index +2 percentile points. PCER also used TERA-3 and WJ III Spelling.
 
 > "RMC Research Corporation (2003) reported no significant effect of Ready, Set, Leap!® on print knowledge when measured using the Woodcock-Johnson III (WJ III) Letter-Word Identification subtest and the Dynamic Indicators of Basic Early Literacy Skills (DIBELS) Letter Naming Fluency subtest."
 

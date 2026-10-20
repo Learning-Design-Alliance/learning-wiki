@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes
-description: Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes
+title: Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes
+description: Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes
 id: cognitive-load-no-mediation-video-learning
 status: review
 generated:
@@ -19,7 +19,7 @@ sources:
     rigour: 2
 ---
 
-# Cognitive load does not mediate the effects of navigation features or self-explanation prompts on video learning outcomes
+# Cognitive load showed no significant mediation of the effects of navigation features or self-explanation prompts on video learning outcomes
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r2` · `q3`

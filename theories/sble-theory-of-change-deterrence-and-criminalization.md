@@ -40,7 +40,7 @@ The review articulates a general theory of change (Figure 1) for SBLE programs, 
 - [Sble No Beneficial Learning Effects](../claims/sble-no-beneficial-learning-effects.md) [+M]
 - [The SBLE evidence base contains no randomized experiments and carries high risk of bias](../claims/sble-evidence-base-no-randomized-studies-high-risk-bias.md) [~W]
 - [Review findings are consistent across study design features; no moderator showed meaningful relationships](../claims/sble-findings-consistent-across-design-features.md) [~W]
-- [Student-level analyses show no association between SBLE and crime or behavior outcomes](../claims/sble-student-level-crime-behavior-null.md) [~W]
+- [Student-level analyses find no statistically significant association between SBLE and crime or behavior outcomes, from only four reports](../claims/sble-student-level-crime-behavior-null.md) [~W]
 - [Students in schools with SBLE tended to feel safer, but this finding rests on very little data](../claims/sble-students-feel-safer-limited-data.md) [+W]
 
 ## Related Theories

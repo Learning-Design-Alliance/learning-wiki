@@ -35,7 +35,7 @@ Chunpeng Zhai, Santoso Wibowo and Lily D. Li. (2024). The effects of over-relian
 
 `q2 · i?` · `review · r2`
 
-Systematic review synthesis answering research question 1, integrating findings from 14 articles on AI dialogue systems in academic writing across college and higher education. The review reports this dual impact: tools "enhance writing proficiency, boost self-confidence, and streamline research tasks" while introducing risks of diminished creativity and over-reliance.
+Systematic review synthesis answering research question 1, integrating findings from a 14-article review of over-reliance on AI dialogue systems in educational and research contexts (academic writing in college and higher education among them, alongside medical education and other applications). The review reports this dual impact: tools "enhance writing proficiency, boost self-confidence, and streamline research tasks" while introducing risks of diminished creativity and over-reliance.
 
 > "Studies highlight that although AI tools can aid decision-making and improve efficiency, they often lead to reduced critical and analytical thinking skills, especially when students become overly dependent on AI-generated content."
 

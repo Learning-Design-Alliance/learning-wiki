@@ -17,7 +17,7 @@ sources:
 # Use magnitude-based number line games as candidate interventions for improving mental multi-digit subtraction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (7 for) · 3 studies (2 associational, 1 review), `q3` · 1 of 3 report an effect size · 7 claims rest on one study
+> **Evidence** · 7 claims (7 for) · 3 studies (2 associational, 1 review), `q3` · 2 of 3 report an effect size · 7 claims rest on one study
 
 ## Description
 In the discussion the authors propose intervention research examining whether training children's numerical magnitude processing affects mental subtraction performance. They note that interventions using games based on magnitude processing, e.g. number lines, have enhanced children's performance in numerical magnitude processing tasks as well as learning of multi-digit addition, and suggest examining whether such games affect mental multi-digit subtraction.

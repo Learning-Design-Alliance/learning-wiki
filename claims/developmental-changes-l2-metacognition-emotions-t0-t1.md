@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable
-description: Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable
+title: Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change
+description: Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change
 id: developmental-changes-l2-metacognition-emotions-t0-t1
 status: review
 generated:
@@ -27,7 +27,7 @@ sources:
     rigour: 2
 ---
 
-# Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety stayed stable
+# Over six months, English vocabulary, relative monitoring accuracy and metacognitive control improved, and boredom increased, while enjoyment and anxiety showed no significant change
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study (2 entries) · associational `r2` · `q3`
@@ -54,7 +54,7 @@ Palladino, P., Trotta, E., Bonvino, A., Carlucci, L., & Cottini, M. (2025). How 
 
 `q3 · i?` · `associational · r2`
 
-Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 to M = 2.14 (d = ‒0.41), while enjoyment (p =.167) and anxiety (p =.952) were unchanged. This did not confirm the hypothesis that all achievement emotions would change.
+Paired t tests on the AEQ-ES emotion scales showed boredom rising from M = 1.51 to M = 2.14 (d = ‒0.41), while enjoyment (M = 3.81 to 3.70, p =.167) and anxiety (M = 2.12 to 2.11, p =.952) showed no significant change. This did not confirm the hypothesis that all achievement emotions would change.
 
 > "Finally, with respect to achievement emotions, only boredom significantly changed between the two administration points, increasing from T0 to T1, whereas enjoyment and anxiety did not reach the significance threshold."
 

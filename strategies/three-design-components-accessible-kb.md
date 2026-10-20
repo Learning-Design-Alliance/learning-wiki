@@ -40,7 +40,7 @@ To make Knowledge Building more accessible to low-achieving students, the author
 
 - [Low-achieving students' emotions in Knowledge Building threads tended to transition to the same or similar emotions](../claims/emotion-transition-similar-emotions-lsa.md) [~W]
 - [Low-achieving students in Knowledge Building predominantly expressed joy, with low percentages of frustration and boredom](../claims/low-achievers-joy-predominance-knowledge-building.md) [+W]
-- [In over 60% of inquiry threads, curiosity led to confusion and joy or confusion triggered curiosity among low-achieving students](../claims/sequential-patterns-curiosity-confusion-joy.md) [~W]
+- [In over 60% of inquiry threads of low-achieving students, curiosity was followed by confusion, and joy or confusion by curiosity (sequential patterns, not shown causes)](../claims/sequential-patterns-curiosity-confusion-joy.md) [~W]
 
 ## Related Strategies
 

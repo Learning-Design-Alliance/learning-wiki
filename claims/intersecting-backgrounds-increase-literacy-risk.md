@@ -35,7 +35,7 @@ Lemke, M., Murphy, D., Soo Ping Chow, A., & Acuña, A. (2024). Intersections: St
 
 `q2 · i?` · `associational · r2`
 
-Multilevel statistical model of 2022/23 district-provided screening assessment data estimating likelihood of being significantly below benchmark more than once. The model shows a base chance of "about an 11 percent" rising with each intersecting characteristic, reaching 53 percent for low income English learners receiving special education services.
+Multilevel statistical model of 2022/23 district-provided screening assessment data estimating likelihood of being significantly below benchmark more than once. The model shows a base chance of "about an 11 percent" rising with each intersecting characteristic, to about 53 percent for students from low income backgrounds who receive special education services; the small number who are also English learners have "even higher likelihoods" (no figure given).
 
 > "On average, students have about an 11 percent chance of being identified as significantly below benchmark more than once. That likelihood increases by about 8 percentage points if students come from a low income background, about 17 percentage points if students are English learners, and about 28 percentage points if students receive special education services."
 

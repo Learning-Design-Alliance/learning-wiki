@@ -33,7 +33,7 @@ Tabares-Cruz YB, Cevallos-Sánchez HA, Arteaga-Pita IG, Rodriguez-Alava LA, Carr
 
 `q2 · i?` · `associational · r2`
 
-Structural path estimates from the CB-SEM of 980 students; the article reports standardized β coefficients and states none of the 95% confidence intervals included zero. No standardized effect size beyond β is printed, so impact is null.
+Structural path estimates from the CB-SEM of 980 students; the article reports standardized β coefficients and states none of the 95% confidence intervals included zero. All six paths are positive and significant, with standardized β from 0.114 to 0.231; these are path coefficients in a cross-sectional survey model, not d-scale effects, so impact is coded `i?` rather than converted.
 
 > "Academic integrity and transparency exhibited the strongest effect (β = 0.231), followed by ethical and technical literacy (β = 0.181), critical thinking and content verification (β = 0.177), institutional guidance and ethical education (β = 0.159), self- regulation and academic responsibility (β = 0.119), and data protection, privacy, and risk management (β = 0.114)."
 
@@ -49,5 +49,5 @@ Structural path estimates from the CB-SEM of 980 students; the article reports s
 - [AI task scaffolding is positively associated with critical thinking and technical problem-solving among AI-using university students](ai-task-scaffolding-positive-higher-order-outcomes.md) — related
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
 - [Six predictor constructs jointly explain 44.0% of the variance in ethical GenAI use among university students, with all structural paths positive and significant](six-predictors-explain-44-percent-ethical-genai-use.md) — related
-- [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
+- [AI literacy is strongly associated with students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
 - [Ethical reasoning and reflective thinking are reported as the strongest predictors of sustainable and trustworthy AI use](ethical-reasoning-strongest-predictor-trustworthy-ai-use.md) — reports the opposite
