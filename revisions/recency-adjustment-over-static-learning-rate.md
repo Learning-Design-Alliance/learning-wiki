@@ -3,7 +3,7 @@ type: revisions
 page: ../methods/recency-adjustment-over-static-learning-rate.md
 ---
 
-# Revision history: [principles/recency-adjustment-over-static-learning-rate](../methods/recency-adjustment-over-static-learning-rate.md)
+# Revision history: [principles/recency-adjustment-over-static-learning-rate](../theories/ms-bkt-multistate-recency-weight-model.md)
 
 ### 2026-09-25 · ingest · process:wiki-ingest
 Ingested from eric-ed607821 (Dynamic Knowledge Tracing through Data Driven Recency Weights) via eval_harness.py + ingest_extractions.py

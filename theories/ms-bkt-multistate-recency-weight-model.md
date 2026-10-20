@@ -1,5 +1,7 @@
 ---
 type: theory
+id: ms-bkt-multistate-recency-weight-model
+moved_from: [method/recency-adjustment-over-static-learning-rate]
 title: "MS-BKT: a multistate knowledge tracing model with data-driven recency weights replacing the learning rate"
 description: "MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but makes two changes: the knowledge node expands from 2 to 21 states, and a recency weight parameter R replaces the transition probability p(T..."
 status: review
@@ -26,14 +28,18 @@ MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but ma
 ### Context
 #### Requirements
 - Requires estimating the free recency parameter R and other parameters from data during model fitting
+- The recency weight quantum R must be learned from data during model fitting
 #### Constraints
 - The choice of 21 states was made as granular enough with manageable calculation overhead; the authors note the number of states can be explored further, including a continuous distribution function
+- Prediction quality on held-out data was similar to, not better than, classic BKT on most datasets
 
 ### Target Learners
 - K-12 students practicing tagged skills in intelligent tutoring systems
+- Students in intelligent tutoring systems using mastery learning
 
 ### Target Learning Objectives
 - Real-time estimation of student mastery of a skill to drive adaptive learning
+- Accurate, interpretable real-time estimation of student knowledge level
 
 ### Claims
 
@@ -47,3 +53,39 @@ MS-BKT is a knowledge tracing architecture that keeps BKT's HMM structure but ma
 
 ## Key Sources
 - Agarwal, D., Baker, R.S., & Muraleedharan, A. (2020). Dynamic knowledge tracing through data driven recency weights. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org/edm2020/
+
+<!-- merged 2026-10-20 from methods/recency-adjustment-over-static-learning-rate ("Apply a recency adjustment to Bayesian knowledge-estimation updates instead of a static learning rate"), an isolated part of this page (maintainer 2026-10-20: fold approved): its body as it stood. Its bullets this page lacked were added above.
+
+# Apply a recency adjustment to Bayesian knowledge-estimation updates instead of a static learning rate
+
+> **Design Method** · [All design methods](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The paper's concluding recommendation is that student-model designers consider replacing a static learning rate with a recency adjustment to Bayesian updates, because this "can lead to better properties of knowledge estimation, compared to using a static learning rate". It also proposes treating latent knowledge as a multistate variable rather than 2 states, leading to smoother updates in the learning level estimate. The recommendation rests on the model's demonstrated estimation properties rather than prediction gains.
+
+## Design Implications
+
+### Context
+#### Requirements
+- The recency weight quantum R must be learned from data during model fitting
+#### Constraints
+- Prediction quality on held-out data was similar to, not better than, classic BKT on most datasets
+
+### Target Learners
+- Students in intelligent tutoring systems using mastery learning
+
+### Target Learning Objectives
+- Accurate, interpretable real-time estimation of student knowledge level
+
+### Claims
+
+## Related Principles
+- 
+
+## Examples
+-
+
+## Key Sources
+- Agarwal, D., Baker, R.S., & Muraleedharan, A. (2020). Dynamic knowledge tracing through data driven recency weights. Proceedings of The 13th International Conference on Educational Data Mining (EDM 2020). https://educationaldatamining.org/edm2020/
+-->

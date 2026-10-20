@@ -1,7 +1,7 @@
 ---
 type: product
 id: kauffman-campuses-initiative
-moved_from: [element/kauffman-campuses-initiative-element]
+moved_from: [element/kauffman-campuses-initiative-element, theory/entrepreneurship-emerging-academic-field]
 title: Kauffman Campuses Initiative
 description: A programme run by the Ewing Marion Kauffman Foundation that funds and supports the campuswide expansion of entrepreneurship education at universities.
 product_kind: programme
@@ -65,6 +65,43 @@ The Kauffman Campuses Initiative is a grant-funded program of the Ewing Marion K
 - [Early implementation of the Kauffman Campuses grants was documented through a cross-site analysis of 2005 site visits and a spring 2006 faculty survey](../claims/kauffman-campuses-early-implementation-cross-site-analysis.md) [+W]
 
 ## Related Elements
+- 
+
+## Examples
+-
+
+## Key Sources
+- Hulsey, L., Rosenberg, L., & Kim, B. (2006). Seeding Entrepreneurship Across Campus: Early Implementation Experiences of the Kauffman Campuses Initiative. Princeton, NJ: Mathematica Policy Research. https://www.mathematica.org/publications/seeding-entrepreneurship-across-campus-early-implementation-experiences-of-the-kauffman-campuses-initiative. [doi:10.2139/ssrn.981057](https://doi.org/10.2139/ssrn.981057)
+-->
+
+<!-- merged 2026-10-20 from theories/entrepreneurship-emerging-academic-field ("Entrepreneurship as a newly emerging academic field in U.S. higher education"), an isolated part of this page (maintainer 2026-10-20: fold approved): its body as it stood. Its bullets this page lacked were added above.
+
+# Entrepreneurship as a newly emerging academic field in U.S. higher education
+
+> **Theory** · [All theories](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article frames entrepreneurship as a long-standing feature of American society and an economic contributor that has only recently entered formal higher education, stating that "only recently has entrepreneurship begun to develop as an academic field in U.S. colleges and universities." This framing motivates the Kauffman Foundation's campuswide expansion effort and situates the initiative as building a young academic field.
+
+## Design Implications
+
+### Context
+#### Requirements
+- Institutional support, such as foundation grants, to develop entrepreneurship programs where the academic field is newly forming
+#### Constraints
+- The field's academic development in U.S. colleges and universities is described as recent, so established curricula and structures cannot be assumed
+
+### Target Learners
+- College and university students in the United States
+
+### Target Learning Objectives
+- Development of entrepreneurship as an academic field of study
+
+### Claims
+- 
+
+## Related Theories
 - 
 
 ## Examples
