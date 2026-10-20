@@ -12,7 +12,7 @@ generated:
 # Breathing Exercises
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 quant-synthesis, 1 causal, 1 review), `q3`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Breathing exercises are short, structured practices — such as slow diaphragmatic breathing, box breathing, or paced breath counting — used to help learners regulate arousal, settle distracting thoughts, and prepare for focused work. They are typically delivered as a 1–5 minute whole-class routine at transitions, before assessments, or at the start of a lesson, with the instructor guiding pace and posture until learners can self-initiate the practice.
@@ -35,7 +35,7 @@ Slow, controlled breathing reliably shifts autonomic state — increasing parasy
 #### Implementation Variability
 - Whole-class guided routine vs. self-selected calm-down option vs. personal regulation tool taught once and used independently
 - Eyes-open variants (counting breaths, tracing a shape while breathing) for learners who find eyes-closed practice uncomfortable
-- Integration with movement — pairing breathing with stretching or [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) — for learners who settle better with motion
+- Integration with movement — pairing breathing with stretching or [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+W] — for learners who settle better with motion
 
 ### Target Learners
 - Learners with high anxiety, particularly before assessments or performances [+W]

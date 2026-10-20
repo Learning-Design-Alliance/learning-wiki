@@ -62,3 +62,4 @@ The report cites a quasi-experimental study using HQIM adoption data (DePiper et
 
 ## Related Claims
 - In a matched suburban-district study, Imagine IM showed no differences on GCAS for grades 3-5 but significant positive impacts on the MAP (effect size = +0.38), strongest for students with disabilities and economically disadvantaged students — related
+- [In a Maryland rural fringe district study of over 700 students in grades K-5, Imagine IM showed significant impacts on Acadience Math (+0.26) and Grade 2 NWEA MAP Growth Math (+0.39), with positive but non-significant effects on the state MCAP assessment](imagine-im-maryland-study-acadience-nwea.md) — related

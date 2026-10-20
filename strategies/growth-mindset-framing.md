@@ -69,7 +69,7 @@ Mindset framing works as a small but real motivational lever: brief intervention
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
 
 ## Examples
-- **National Study of Learning Mindsets (Yeager et al., 2019)** — A preregistered, nationally representative experiment in 65 US high schools; a 25-minute online module framing ability as malleable raised GPA among lower-achieving students ([https://mindsetscholarsnetwork.org](https://mindsetscholarsnetwork.org)).
+- **National Study of Learning Mindsets ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y))** — A preregistered, nationally representative experiment in 65 US high schools; a 25-minute online module framing ability as malleable raised GPA among lower-achieving students ([https://mindsetscholarsnetwork.org](https://mindsetscholarsnetwork.org)).
 - **Brainology** — Dweck and colleagues' online curriculum teaching students how the brain grows with effortful learning, used in middle-school settings.
 - **"Not Yet" grading** — Carol Dweck's widely adopted reframing of failing grades, signaling that learning is in progress rather than concluded.
 - **Jo Boaler's youcubed** ([https://www.youcubed.org](https://www.youcubed.org)) — Mathematical mindset lessons and teacher materials that combine mindset framing with open, low-floor/high-ceiling tasks so the framing is backed by genuine opportunity to improve.

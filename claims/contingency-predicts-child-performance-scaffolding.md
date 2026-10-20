@@ -43,4 +43,4 @@ Three regression analyses (one per time-point) predicting child performance duri
 
 
 ## Related Claims
--
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related

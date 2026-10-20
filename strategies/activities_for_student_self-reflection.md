@@ -65,7 +65,7 @@ Self-reflection works because it converts experience into usable knowledge about
 
 ## Examples
 - **Exam wrappers in calculus**: After a midterm, students complete a short form — how they studied, which error types dominated, one change for the next exam — and instructors open the next class by discussing common patterns.
-- **Math autobiographies**: Students write about their history with mathematics, surfacing beliefs that shape persistence; the teacher responds, connecting the reflection to [task value](../claims/task-value-increases-motivation-and-engagement.md).
+- **Math autobiographies**: Students write about their history with mathematics, surfacing beliefs that shape persistence; the teacher responds, connecting the reflection to [task value](../claims/task-value-increases-motivation-and-engagement.md) [+W].
 - **Concept map revision**: Students draw a concept map of a unit at the start and again at the end, making their reorganized understanding visible.
 - **[Perusall](https://www.perusall.com)** — social annotation where students must articulate questions and confusions while reading, a lightweight embedded reflection format.
 

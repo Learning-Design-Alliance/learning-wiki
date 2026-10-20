@@ -46,3 +46,4 @@ Narrative review attribution: the article reports, citing Boaler & Staples (2008
 
 ## Related Claims
 - [A narrative review reports that the literature generally finds attainment grouping (streaming) harms learning outcomes, while noting the research is contested](streaming-impacts-negatively-on-learning-outcomes.md) — a broader claim this one bears on
+- [Reform-driven mathematics classrooms were more successful at narrowing the achievement gap than classrooms focused on rote memorization and recall of procedures](reform-classrooms-narrow-achievement-gap.md) — a narrower finding that bears on this claim

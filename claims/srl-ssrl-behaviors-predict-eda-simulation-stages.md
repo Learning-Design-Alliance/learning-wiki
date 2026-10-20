@@ -49,3 +49,4 @@ The commentary summarizes Moreno et al.'s (2025) empirical study in which "Sixty
 - [SRL 'Evaluation' strategy codes differ between the 'Beginning' and 'Peak' segments of medical simulations](evaluation-codes-differ-beginning-peak.md) — related
 - [In case examples, leaders and team members showed markedly different average peaks-per-segment EDA values during the same simulation segments](leader-team-member-eda-divergence-case-examples.md) — related
 - [Two distinct group deliberation patterns emerge in response to regulation triggers: the Plan and Implementation Approach (PIA) and the Trials and Failure Approach (TFA)](pia-tfa-deliberation-patterns-ssrl.md) — related
+- [Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations](srl-ssrl-codes-predict-eda-across-simulation-segments.md) — possibly the same claim (merge candidate)

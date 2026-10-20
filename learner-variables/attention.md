@@ -13,7 +13,7 @@ generated:
 # Attention
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 99 claims (69 show a difference, 19 mixed, 11 no difference) · 77 studies (20 associational, 18 causal, 17 review, 10 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 13 of 77 report an effect size · 94 claims rest on one study
+> **Evidence** · 102 claims (71 show a difference, 19 mixed, 12 no difference) · 79 studies (20 associational, 18 causal, 17 review, 12 quant-synthesis, 5 qualitative, 5 design, 2 theoretical), `q1`–`q4` · 13 of 79 report an effect size · 97 claims rest on one study
 
 ## Description
 How long a learner can sustain focus, and how readily something else takes it. Distinct from [working memory](working-memory.md): attention governs what *reaches* the store, capacity governs what it holds. It converts into segment length, distractor design, and how much a page may hold in one uninterrupted run. The design lever is mostly subtractive — the strongest findings here are about what to remove [-M].
@@ -137,6 +137,9 @@ How long a learner can sustain focus, and how readily something else takes it. D
 - [The distraction-management dimension of homework management is unrelated to homework quality and not predicted by the homework management latent factor](../claims/distraction-dimension-unrelated-homework-quality.md) [-M] — learners who differ on it differ in outcomes
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](../claims/activity-changes-improve-lesson-attention.md) [+M] — instruction changes it
 - [Cluttered classroom walls distract children and reduce learning, while intermediate-stimulation orderly classrooms support it](../claims/orderly-classroom-environments-support-learning.md) [+M] — instruction changes it
+- [Classroom active breaks show no statistically significant effect on attention in schoolchildren](../claims/active-breaks-no-significant-effect-attention.md) [-W] — instruction changes it
+- [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](../claims/mind-wandering-30-percent-educational-time.md) [+M] — learners who differ on it differ in outcomes
+- [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](../claims/tut-lower-test-performance-7-percent-variance.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does making material more interesting with details that do not carry the target cost learning?* [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](../claims/seductive-details-effect.md) [+S]

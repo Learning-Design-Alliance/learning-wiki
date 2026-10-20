@@ -48,3 +48,4 @@ Randomized controlled trial of 36 kindergarten students with behavior problems (
 ## Related Claims
 - [In the Nelson, Stage, Epstein, & Pierce (2005) RCT, SSL produced statistically significant positive effects on all four alphabetics outcomes](ssl-nelson-stage-2005-significant-outcomes.md) — related
 - [No individual alphabetics outcome reached statistical significance in the WWC analysis](voyager-alphabetics-null-significance.md) — related
+- [A meta-analysis attributes the strongest predictors of nonresponsiveness to rapid naming and problem behavior](meta-analysis-predictors-of-nonresponsiveness.md) — related

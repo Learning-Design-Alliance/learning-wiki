@@ -64,7 +64,7 @@ Environmental quality operates as a background condition that modulates the cogn
 
 ## Examples
 - **Heschong Mahone Group daylighting studies (1999, 2003)** — Large-scale analyses of over 21,000 U.S. students found classrooms with the most daylighting showed 20–26% faster learning progress in math and reading, controlling for other variables.
-- **HEAD study (Barrett et al., 2015)** — Study of 153 classrooms in 27 UK schools identified naturalness factors — light, air quality, and temperature — as explaining the largest share of variance in learning progress.
+- **HEAD study ([Barrett et al., 2015](https://doi.org/10.1016/j.buildenv.2015.02.013))** — Study of 153 classrooms in 27 UK schools identified naturalness factors — light, air quality, and temperature — as explaining the largest share of variance in learning progress.
 - **Low-cost classroom practice** — A teacher without mechanical ventilation places a box fan in a window for cross-flow, keeps blinds half-drawn to cut glare, adds two floor lamps in a reading corner, and posts a student "air monitor" role that opens windows when the CO₂ monitor exceeds 1,000 ppm.
 
 ## Key Sources

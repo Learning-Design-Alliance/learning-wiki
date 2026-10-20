@@ -19,16 +19,16 @@ Focused-attention practice is a brief exercise — typically 1–5 minutes — i
 
 ## Design Implications
 
-Focused-attention practices improve the attentional conditions for learning rather than teaching content directly. Controlled studies show mindfulness training improves working memory capacity and reading comprehension while reducing mind-wandering [Mrazek et al. 2013] [+M], and meta-analytic evidence from school-based programs shows small-to-moderate benefits for attention and executive function [Zenner et al. 2014] [+M]. Because the mechanism is attentional regulation, the practice works best when embedded at transition points — before demanding tasks, after disruptions — rather than as an isolated activity disconnected from instruction.
+Focused-attention practices improve the attentional conditions for learning rather than teaching content directly. Controlled studies show mindfulness training improves working memory capacity and reading comprehension while reducing mind-wandering ([Mrazek et al. 2013](https://doi.org/10.1177/0956797612459659)) [+M], and meta-analytic evidence from school-based programs shows small-to-moderate benefits for attention and executive function ([Zenner et al. 2014](https://doi.org/10.3389/fpsyg.2014.00603)) [+M]. Because the mechanism is attentional regulation, the practice works best when embedded at transition points — before demanding tasks, after disruptions — rather than as an isolated activity disconnected from instruction.
 
 ### Context
 #### Requirements
 - A quiet-enough space and brief protected time (60 seconds to 5 minutes); guided audio, video, or instructor-led scripts are sufficient
-- Consistent, repeated implementation — benefits accrue from practice over days and weeks, not a single session [Tang et al. 2015] [+M]
+- Consistent, repeated implementation — benefits accrue from practice over days and weeks, not a single session ([Tang et al. 2015](https://doi.org/10.1038/nrn3916)) [+M]
 - A clear bridge from the exercise to the learning task that follows, so regulated attention is actually deployed
 
 #### Constraints
-- Effects are small and inconsistent for learners with low baseline motivation or who experience the practice as coercive or unfamiliar [Zenner et al. 2014] [~M] — skeptical or forced participation can produce null or negative responses
+- Effects are small and inconsistent for learners with low baseline motivation or who experience the practice as coercive or unfamiliar ([Zenner et al. 2014](https://doi.org/10.3389/fpsyg.2014.00603)) [~M] — skeptical or forced participation can produce null or negative responses
 - Not a substitute for instructional design: a calm learner facing a poorly structured, high-load task still learns poorly; pair with [Cognitive Load Management](../principles/cognitive-load-management.md) rather than relying on the practice alone
 - Learners with trauma histories may find closed-eye, interoceptive exercises distressing; require opt-out alternatives and eyes-open variants
 - Benefits fade without sustained practice; one-off "mindfulness minutes" show negligible transfer [-W]
@@ -39,8 +39,8 @@ Focused-attention practices improve the attentional conditions for learning rath
 - Delivery: instructor-led, recorded audio (e.g., [Mind Yeti](https://www.mindyeti.com), [Calm Schools Initiative](https://www.calm.com/schools)), or student-led for older learners building self-regulation
 
 ### Target Learners
-- K–12 learners, where school-based mindfulness programs show the most consistent attentional and well-being gains [Zenner et al. 2014] [+M]
-- Adolescents and adults under acute stress or high test anxiety, where arousal regulation protects working memory [Mrazek et al. 2013] [+M]
+- K–12 learners, where school-based mindfulness programs show the most consistent attentional and well-being gains ([Zenner et al. 2014](https://doi.org/10.3389/fpsyg.2014.00603)) [+M]
+- Adolescents and adults under acute stress or high test anxiety, where arousal regulation protects working memory ([Mrazek et al. 2013](https://doi.org/10.1177/0956797612459659)) [+M]
 - Learners developing self-regulation, since noticing mind-wandering is itself a monitoring skill related to [Self-Regulated Learning](../theories/self-regulated-learning.md) [~M]
 
 ### Target Learning Goals

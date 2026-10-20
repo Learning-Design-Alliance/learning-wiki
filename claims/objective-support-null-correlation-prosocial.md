@@ -45,3 +45,6 @@ Pearson correlation analysis of the three social support dimensions (Table 3) in
 ## Related Claims
 
 - [Only the subjective (perceived) support dimension of social support mediates empathy and prosocial behavior](subjective-support-dimension-mediation.md)
+- [Adolescents' empathy is significantly positively correlated with social support (r = 0.164)](empathy-social-support-positive-correlation-adolescents.md) — related
+- [Social support is significantly positively correlated with adolescents' prosocial behavior (r = 0.206)](social-support-prosocial-behavior-positive-correlation.md) — related
+- [Social support partially mediates the relationship between empathy and prosocial behavior](social-support-partial-mediator-empathy-prosocial.md) — related

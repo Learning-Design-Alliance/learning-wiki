@@ -43,4 +43,4 @@ The editorial reports, citing Furtak et al. (this issue), a three-year study of 
 
 
 ## Related Claims
--
+- [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related

@@ -44,3 +44,4 @@ Modeling of 24632 CoI-coded annotations from 9301 discussion-board posts by 135 
 
 ## Related Claims
 - [Trajectories differed in transition structure: free-rider students migrated from social mediator and leader roles into the peripheral explorer role, and rarely returned to leadership directly.](free-rider-transition-structure.md) — related
+- [Latent class analysis of 641 higher education students' survey responses identifies four distinct classes of feedback experience](four-latent-classes-feedback-experiences.md) — related

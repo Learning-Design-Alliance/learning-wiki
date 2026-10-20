@@ -43,4 +43,7 @@ The review attributes this three-part account of small-screen usability limitati
 
 
 ## Related Claims
--
+- [A river-study conceptual model on handhelds supported observation, analysis, experimentation, and report writing for 72 secondary students in fieldwork](river-conceptual-model-fieldwork-case.md) — related
+- [Small-screen design recommendations were explicated through an inquiry in which teachers and students interacted with learning objects on handheld devices](small-screen-recommendations-inquiry.md) — related
+- [Presenting words as spoken narration rather than on-screen text alongside graphics improves learning](modality-effect-narration-over-text.md) — related
+- [Medium moderated disfluency effects on reasoning: disfluent text fostered calibration and performance on screen but not on paper](screen-paper-moderates-disfluency-reasoning.md) — related

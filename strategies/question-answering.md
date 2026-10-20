@@ -19,7 +19,7 @@ Question Answering positions questions — not explanations — as the primary d
 
 ## Design Implications
 
-Answering questions forces retrieval and elaboration, which strengthens memory far more than rereading the same material — the core of the testing effect (Roediger & Karpicke, 2006). The *type* of question matters: lower-order recall questions support retention, while "why," "how," and compare/contrast questions drive inference and integration (King, 1994). Questions also function as formative assessment, surfacing misconceptions the instructor can address immediately [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
+Answering questions forces retrieval and elaboration, which strengthens memory far more than rereading the same material — the core of the testing effect ([Roediger & Karpicke, 2006](https://doi.org/10.1111/j.1467-9280.2006.01693.x)). The *type* of question matters: lower-order recall questions support retention, while "why," "how," and compare/contrast questions drive inference and integration ([King, 1994](https://doi.org/10.3102/00028312031002338)). Questions also function as formative assessment, surfacing misconceptions the instructor can address immediately [Assessment for learning improves achievement.](../claims/assessment-for-learning-improves-achievement.md) [+S].
 
 ### Context
 #### Requirements
@@ -32,16 +32,16 @@ Answering questions forces retrieval and elaboration, which strengthens memory f
 - Rapid-fire low-level questioning can fragment attention and add extraneous load for novices [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Cold-calling without a supportive climate suppresses participation and can threaten belonging [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [~M]
 - Questions asked before learners have any relevant knowledge produce guessing, not retrieval — activation of prior knowledge must come first [Activation improves learning.](../claims/activation-improves-learning.md) [~M]
-- Learners frequently ask surface-level questions; without training, self- or peer-questioning stays shallow (Graesser & Person, 1994) [-M]
+- Learners frequently ask surface-level questions; without training, self- or peer-questioning stays shallow ([Graesser & Person, 1994](https://doi.org/10.3102/00028312031001104)) [-M]
 
 #### Implementation Variability
 - **Instructor-posed**: whole-class questioning with wait time and cold-call or volunteer response
 - **Embedded**: questions inserted into readings, videos, or simulations at key points
-- **Peer-generated**: learners author questions for each other using question stems ("How are X and Y alike?") (King, 1994)
+- **Peer-generated**: learners author questions for each other using question stems ("How are X and Y alike?") ([King, 1994](https://doi.org/10.3102/00028312031002338))
 - **System-posed**: adaptive quizzing that selects questions based on response history
 
 ### Target Learners
-- All levels benefit from retrieval-based questioning; effects are robust across ages and domains (Roediger & Karpicke, 2006) [+S]
+- All levels benefit from retrieval-based questioning; effects are robust across ages and domains ([Roediger & Karpicke, 2006](https://doi.org/10.1111/j.1467-9280.2006.01693.x)) [+S]
 - Novices need more scaffolding and lower question difficulty; experts benefit more from transfer-oriented questions [~M]
 - Reluctant speakers benefit from think-time, written responses, or small-group answering before public sharing
 
@@ -67,7 +67,7 @@ Answering questions forces retrieval and elaboration, which strengthens memory f
 
 ## Examples
 - **Recitation in Direct Instruction** — high-frequency choral and individual questioning with immediate feedback is a signature feature of [Direct Instruction](../patterns/direct-instruction.md) scripts
-- **Peer question stems (King, 1994)** — students use prompt cards ("Explain why…", "What evidence supports…") to question partners during cooperative tasks
+- **Peer question stems ([King, 1994](https://doi.org/10.3102/00028312031002338))** — students use prompt cards ("Explain why…", "What evidence supports…") to question partners during cooperative tasks
 - **Embedded video questions** — platforms like Edpause and [Khan Academy](https://www.khanacademy.org) interrupt demonstrations with questions the learner must answer before proceeding
 
 ## Key Sources

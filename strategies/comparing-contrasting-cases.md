@@ -26,7 +26,7 @@ Comparison is one of the most consistently supported learning strategies: contra
 #### Requirements
 - Cases that are minimally different — varying on the target dimension while holding surface features constant (or vice versa, depending on the discrimination goal)
 - An explicit comparison prompt ("How are these the same? How are they different? Why?") rather than mere juxtaposition
-- A telling or consolidation phase after comparison, in which the instructor names and formalizes what the contrast revealed ([Schwartz & Bransford's](../claims/comparing-contrasting-cases-improves-learning.md) "a time for telling")
+- A telling or consolidation phase after comparison, in which the instructor names and formalizes what the contrast revealed ([Schwartz & Bransford's](../claims/comparing-contrasting-cases-improves-learning.md) [+M] "a time for telling")
 - Sufficient working-memory headroom; two cases plus a prompt is usually the ceiling for novices ([Cognitive Load Management](../principles/cognitive-load-management.md))
 - Two or more cases that share deep structure but differ in surface features (or, for discrimination learning, differ in structure)
 - Spatial or visual alignment of the cases so corresponding elements can be mapped directly

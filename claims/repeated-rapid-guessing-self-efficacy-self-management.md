@@ -77,3 +77,4 @@ Longitudinal study relating repeated rapid guessing across multiple test adminis
 - [Academic disengagement behaviors such as chronic absenteeism and course failures are related to test disengagement behaviors such as rapid guessing](academic-disengagement-related-to-test-disengagement.md) — related
 - [Rapid guessing on achievement tests varies across grades, subjects, and teachers](rapid-guessing-varies-grade-subject-teacher.md) — related
 - Correlations with self-regulation tend to be larger for course grades than for standardized test scores in several coded studies — related
+- [Students who like writing report the highest writing self-efficacy across all studies examining writing attitude](writing-attitude-liking-predicts-self-efficacy.md) — related

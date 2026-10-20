@@ -49,3 +49,4 @@ The page's own description of the accompanying NWEA research brief states it "ex
 - Students chronically absent for multiple years between preschool and second grade have significantly lower second-grade reading outcomes, approaching the threshold for needing intensive reading intervention — related
 - [After the pandemic, more students are off-track and further behind grade-level proficiency, deepening challenges for educators](post-covid-more-students-off-track-behind-grade-level.md) — related
 - Reading Recovery produces two positive outcomes: reaching average levels within 20 weeks or reliable referral for further testing — related
+- [Neither promotion nor retention significantly closed the achievement gap of low-achieving students close to the cutoff, and the lowest achievers deteriorated further](retention-social-promotion-no-gap-closing.md) — related

@@ -19,7 +19,7 @@ Mother tongue interference (negative L1 transfer) occurs when features of a lear
 
 ## Design Implications
 
-Interference errors are systematic, not random, which makes them anticipatable through contrastive analysis of the learner's L1 and the target language [Selinker, 1972]. Explicitly contrasting L1 and L2 forms converts an unconscious habit into an object of attention, and error-focused work is most effective when feedback targets the underlying pattern rather than each surface mistake [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because transfer can be positive as well as negative, the goal is not to suppress the L1 but to manage when and how it is engaged [~M].
+Interference errors are systematic, not random, which makes them anticipatable through contrastive analysis of the learner's L1 and the target language ([Selinker, 1972](https://doi.org/10.1515/iral.1972.10.1-4.209)). Explicitly contrasting L1 and L2 forms converts an unconscious habit into an object of attention, and error-focused work is most effective when feedback targets the underlying pattern rather than each surface mistake [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because transfer can be positive as well as negative, the goal is not to suppress the L1 but to manage when and how it is engaged [~M].
 
 ### Context
 #### Requirements

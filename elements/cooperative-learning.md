@@ -13,7 +13,7 @@ generated:
 # Cooperative Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 5 claims (3 for, 1 mixed, 1 unmarked) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative), `q2`–`q4` · 5 of 7 report an effect size · 3 claims rest on one study
+> **Evidence** · 5 claims (4 for, 1 mixed) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 qualitative), `q2`–`q3` · 4 of 7 report an effect size · 3 claims rest on one study
 
 ## Description
 Cooperative learning organizes instruction so that small groups of learners work interdependently toward a shared goal, with each member responsible for both their own learning and their teammates' learning. It is distinguished from mere group work by deliberate structuring: positive interdependence, individual accountability, promotive interaction, social skills, and group processing (Johnson & Johnson's five elements).
@@ -44,7 +44,7 @@ Cooperative learning reliably improves achievement when group goals and individu
 - Conceptual understanding through peer explanation and elaboration
 - Problem solving with multiple approaches to compare and negotiate
 - Social and communicative competencies as explicit outcomes
-- Retention — explaining to peers is a form of [retrieval and elaboration](../claims/feedback-most-effective-at-task-and-process-levels.md) that strengthens memory
+- Retention — explaining to peers is a form of retrieval and elaboration, and [teaching others improves the tutor's own learning](../claims/learning-by-teaching-improves-tutor-learning.md) [+M]
 
 ### Affordances
 - [Collaborative Learning](../principles/collaborative-learning.md) — cooperative learning is the most rigorously structured enactment of this principle; the five elements specify *how* to make collaboration pedagogically effective rather than merely social

@@ -57,7 +57,7 @@ Repeated reading builds fluency by strengthening the orthographic representation
 - **Reader's Theater / performance rereading** — repeated practice toward a performance purpose raises motivation and produces comparable fluency gains [~M]
 - **Computer-assisted** — speech-recognition or timed-reading platforms (e.g., [Read Naturally](https://www.readnaturally.com)) automate modeling, timing, and progress graphs
 - **Adult-led** (teacher listens and gives corrective feedback) — strongest effects [+S]
-- **Peer-assisted** (paired rereading with a partner following a script, as in [Peer-Assisted Learning Strategies](peer-assisted-learning-strategies-pals.md)) — comparable gains at lower cost [+M]
+- **Peer-assisted** (paired rereading with a partner following a script, as in [Peer-Assisted Learning Strategies](../products/peer-assisted-learning-strategies-pals.md)) — comparable gains at lower cost [+M]
 - **Audio-assisted** (learner reads along with a recorded model, then rereads independently, as in [Read Naturally](https://www.readnaturally.com)) — useful when adult supervision is scarce [+M]
 - **Reader's Theatre** — repeated rehearsal of a script toward a performance, embedding repetition in an [Authentic Audience](../principles/authentic-audiences-purposes.md) [+M]
 - **Assisted repeated reading**: learner reads along with an audio model or adult before rereading independently; strongest evidence for struggling readers
@@ -159,7 +159,7 @@ Repeated reading exploits the fact that word recognition is the bottleneck for c
 
 #### Implementation Variability
 - **Adult-led** (teacher listens and gives corrective feedback) — strongest effects [+S]
-- **Peer-assisted** (paired rereading with a partner following a script, as in [Peer-Assisted Learning Strategies](peer-assisted-learning-strategies-pals.md)) — comparable gains at lower cost [+M]
+- **Peer-assisted** (paired rereading with a partner following a script, as in [Peer-Assisted Learning Strategies](../products/peer-assisted-learning-strategies-pals.md)) — comparable gains at lower cost [+M]
 - **Audio-assisted** (learner reads along with a recorded model, then rereads independently, as in [Read Naturally](https://www.readnaturally.com)) — useful when adult supervision is scarce [+M]
 - **Reader's Theatre** — repeated rehearsal of a script toward a performance, embedding repetition in an [Authentic Audience](../principles/authentic-audiences-purposes.md) [+M]
 

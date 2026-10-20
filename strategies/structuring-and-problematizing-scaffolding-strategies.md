@@ -48,7 +48,8 @@ Following Reiser (2004), the teacher scaffolds either by structuring the task—
 - [The teacher increased task complexity in the IW condition by deteriorating the patient's vital signs in response to student actions, and decreased complexity in the TW condition by structuring the task](../claims/teacher-complexity-adjustment-by-condition.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Extend problem-based learning with role-play cases and interactive whiteboards](pbl-extensions-deteriorating-patient-whiteboards.md)
 
 ## Examples
 -

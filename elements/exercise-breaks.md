@@ -13,7 +13,7 @@ generated:
 # Exercise Breaks
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 16 claims (9 for, 6 mixed, 1 against) · 12 studies (4 quant-synthesis, 4 review, 3 causal, 1 qualitative), `q1`–`q3` · 4 of 12 report an effect size · 14 claims rest on one study
+> **Evidence** · 20 claims (11 for, 6 mixed, 3 against) · 13 studies (5 quant-synthesis, 4 review, 3 causal, 1 qualitative), `q1`–`q3` · 5 of 13 report an effect size · 18 claims rest on one study
 
 ## Description
 Exercise breaks are brief (typically 4–20 minute) episodes of moderate-to-vigorous physical activity — movement games, stretching, jumping, or walking — inserted between instructional segments. They function as attention-restoration and consolidation opportunities rather than as fitness interventions, though regular classroom physical activity also contributes to health outcomes.
@@ -66,6 +66,10 @@ Short aerobic activity reliably improves subsequent attention and on-task behavi
 - [Over a three-year CB-PA intervention, the percent of time spent in MVPA was significantly associated with the percent of time on task (p < 0.01)](../claims/three-year-cbpa-mvpa-time-on-task.md) [+W]
 - [Two 20-min MVPA bouts in a school morning yielded better selective attention than one bout or remaining seated (B = −0.26; 95% CI (−0.52, −0.00))](../claims/two-bouts-better-than-one-selective-attention.md) [~W]
 - [The effect of a single exercise bout on children's short-term memory depends on an interaction of time, age, and exercise type.](../claims/time-age-exercise-interaction-stm.md) [~W]
+- [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](../claims/active-breaks-small-positive-effect-working-memory.md) [+W]
+- [Effects of active breaks on mathematical achievement are small and lose significance under Robust Variance Estimation](../claims/active-breaks-math-achievement-mixed-significance.md) [-W]
+- [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](../claims/active-breaks-pooled-estimates-robust-sensitivity.md) [+W]
+- [Classroom active breaks show no reliable effect on mathematical fluency](../claims/active-breaks-null-effect-mathematical-fluency.md) [-W]
 
 ## Related Elements
 - [Attention](attention.md) — the resource exercise breaks restore; schedule breaks against attentional demand, not the clock alone

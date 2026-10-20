@@ -83,3 +83,9 @@ Review synthesis reporting the grade-by-SES interaction from the Australian stud
 ## Related Claims
 - [Low-performing students were more affected by closures in mathematics while high-performing students were more affected in reading, and low-performing students benefited more from systematic online learning](covid-closures-achieving-level-differential-effects.md) — related
 - [Students in The Netherlands lost on average 3.16 percentile points (0.08 SD) in achievement during the 8-week COVID-19 lockdown](dutch-lockdown-learning-loss-3-percentile-points.md) — related
+- [Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%](within-family-learning-loss-gap-60-percent.md) — related
+- [Achievement declines from 2019 to 2022 were larger for students in high-poverty schools than in low-poverty schools in grades 1–2](early-elementary-covid-losses-school-poverty-disparities.md) — possibly the same claim (merge candidate)
+- [Achievement gaps between low-poverty and high-poverty elementary schools grew by .10–.20 SD, primarily during 2020–2021](covid-poverty-gap-grew-010-020-sd-elementary.md) — possibly the same claim (merge candidate)
+- [Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%](within-family-learning-loss-gap-60-percent.md) — possibly the same claim (merge candidate)
+- [Learning losses were 40% larger than average among students in the two lowest parental-education categories](learning-loss-40-percent-larger-low-parental-education.md) — a narrower finding that bears on this claim
+- [Evidence of academic rebounding in 2021-22 appeared across all school-poverty levels](rebounding-across-all-school-poverty-levels.md) — related

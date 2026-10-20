@@ -44,3 +44,4 @@ Testimonio cualitativo de Jessica, educadora de ciencias de sexto a octavo grado
 
 ## Related Claims
 - En el piloto, la mitad de los coaches y la mayoría de los maestros ganaron micro-credenciales alineadas con sus retos de coaching. — related
+- [SEP national monitoring reports indicate insufficient teacher training for the reform: 35% of surveyed teachers requested training in planning and design of didactic activities, and about 30% of directors rated induction-workshop information as poorly adequate or inadequate](reform-teacher-training-insufficient.md) — related

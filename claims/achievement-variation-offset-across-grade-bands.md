@@ -44,3 +44,4 @@ Decomposition analysis of pretest score variation within classes, between classe
 
 ## Related Claims
 - Random assignment in the Baker (1997) trial produced pretest differences favoring the comparison curriculum, controlled by using the pretest as a covariate — related
+- [Community-area hardship index explained 65% of between-community-area variation; most variation in participation was at the student level](hardship-index-explains-community-variation-chicago-connected.md) — related

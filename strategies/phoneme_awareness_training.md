@@ -59,7 +59,7 @@ Phoneme awareness is one of the best-established causal predictors of reading an
 
 ## Related Strategies
 
-- [Systematic Phonics Instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — the print-side counterpart; phoneme awareness training is most powerful when embedded in it
+- [Systematic Phonics Instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+W] — the print-side counterpart; phoneme awareness training is most powerful when embedded in it
 - [Dictation and Spelling Practice](dictation.md) — applies segmentation to encoding
 - [Include phoneme awareness instruction in kindergarten beginning reading programs to improve early literacy outcomes](phoneme-awareness-instruction-in-kindergarten-beginning-reading.md)
 - [Combine early phonological awareness training with training of the precise number-word sequence to prevent math difficulties](combine-pa-training-with-number-word-sequence-training.md)

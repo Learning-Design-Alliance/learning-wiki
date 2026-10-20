@@ -43,4 +43,6 @@ Same causal-comparative MANOVA follow-up on the self-regulation subscale (e-text
 
 
 ## Related Claims
--
+- [Textbook format choice produces a significant multivariate difference in university students' motivation and self-regulated learning scores](textbook-format-manova-omnibus-difference.md) — a broader claim this one bears on
+- [University students who choose e-textbooks report greater use of cognitive strategies than students who choose print textbooks](e-textbook-choice-higher-cognitive-strategy-use.md) — related
+- [HelpCoach did not significantly outperform Baseline in improving or retaining self-reported self-regulation](helpcoach-no-self-regulation-gain.md) — related

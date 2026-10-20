@@ -49,3 +49,4 @@ Negative Binomial GLMM of hesitation counts for the ADHD subgroup (n=68 observat
 - [Segmenting Improves Multimedia Learning](segmenting-improves-multimedia-learning.md) — the general claim this finding bears on, with the studies behind it
 - [ADHD medication status shows no significant interaction with segmentation, though medicated participants made fewer hesitations](medication-status-segmentation-interaction-null.md) — related
 - [Segmentation reduces errors and hesitations for participants with and without ADHD, with larger point estimates for the ADHD group but no significant segmentation-by-ADHD interaction](segmentation-benefit-larger-for-adhd-group.md) — related
+- [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related

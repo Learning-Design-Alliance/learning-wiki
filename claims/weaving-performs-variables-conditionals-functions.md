@@ -46,3 +46,6 @@ Qualitative analysis of two fiber crafts course sessions at a K-8 charter school
 - [Fabric manipulation (sewing) supports middle school students' performance of the computational concepts variables, conditionals, and functions](fabric-manipulation-performs-variables-conditionals-functions.md) — related
 - [Middle school students experienced their craft performance as computational, connecting weaving and sewing to loops and coding](students-experience-craft-performance-as-computational.md) — related
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
+- [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
+- [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
+- [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on

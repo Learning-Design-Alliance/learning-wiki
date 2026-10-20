@@ -13,7 +13,7 @@ generated:
 # English-Learner Status
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 89 claims (54 show a difference, 20 mixed, 15 no difference) · 64 studies (27 associational, 14 causal, 10 review, 4 quant-synthesis, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 11 of 64 report an effect size · 88 claims rest on one study
+> **Evidence** · 90 claims (54 show a difference, 21 mixed, 15 no difference) · 65 studies (27 associational, 14 causal, 10 review, 5 quant-synthesis, 4 qualitative, 3 design, 2 theoretical), `q1`–`q4` · 11 of 65 report an effect size · 89 claims rest on one study
 
 ## Description
 English-learner (EL) status marks a learner who is acquiring the language of instruction while learning content in it. Schools classify learners on a proficiency test and reclassify them once they reach a threshold, so the EL group changes composition over time: the learners who succeed leave it. In the research the status appears as a predictor of outcomes, as a moderator of instructional effects (language supports that help ELs more), and as the target of programmes such as bilingual and dual-language models. It is narrower than [reading and language](reading-and-language.md), which covers reading and language skill in every learner.
@@ -119,6 +119,7 @@ English-learner (EL) status marks a learner who is acquiring the language of ins
 - [The institutionalized “ELL” label positioned labelled students as the Other, depriving them of access to agentive participation in the unit](../claims/ell-label-positioned-students-as-other.md) [+M] — learners who differ on it differ in outcomes
 - [Effectiveness of the MLS-WEPs intervention generally did not vary by English learners' English proficiency after controlling for prior knowledge](../claims/mls-weps-effective-across-proficiency-levels.md) [-M] — an instructional effect differs with it
 - [English learners' mathematical performance was positively correlated with English proficiency, more strongly for explanations than calculations](../claims/math-performance-correlated-with-proficiency.md) [~M] — learners who differ on it differ in outcomes
+- [L1 (Spanish) reading comprehension is positively correlated with English reading comprehension, with the relationship weaker for students with lower English proficiency](../claims/l1-spanish-comprehension-correlates-english-comprehension.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Do learners classified as English learners reach lower achievement and attainment than their peers, and does the gap hold for those who reach proficiency?* [ELs lag behind peers in achievement and attainment partly due to limited exposure to academic content](../claims/el-lag-limited-academic-content-exposure.md) [+M]

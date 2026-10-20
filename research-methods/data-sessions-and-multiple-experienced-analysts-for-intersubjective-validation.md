@@ -24,7 +24,8 @@ Stahl proposes data sessions—involving multiple analysts reviewing the same da
 ### Claims
 
 ## Related Research Methods
--
+
+- [Situated-interaction analysis of CSCL processes](situated-interaction-analysis-of-cscl-processes.md)
 
 ## Key Sources
 - Gerry Stahl. (2012). Ethnomethodologically informed. Computer-Supported Collaborative Learning 7:1–10. https://doi.org/10.1007/s11412-012-9142-3

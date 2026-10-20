@@ -46,3 +46,4 @@ Authors' interpretive statement about the broader significance of the lesion-map
 
 - [Orthographic working memory deficits in dysgraphia arise primarily from lesions of the left parietal cortex centered on the intraparietal sulcus](orthographic-wm-deficits-left-parietal-ips.md)
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md)
+- [Distinct neural substrates selectively support orthographic long-term memory and orthographic working memory in spelling](selective-substrates-orthographic-ltm-versus-wm.md) — related

@@ -43,4 +43,5 @@ Analysis of variance on the three-item support-by-teacher scale (Cronbach's α =
 
 
 ## Related Claims
--
+- [Within-group analyses show significant increases on several affective and metacognitive dimensions in Scrum classes, while the comparison group showed no significant increases or decreases.](scrum-classes-significant-within-group-perception-increases.md) — related
+- [Fidelity of implementation of early language curricula varies widely across teachers and studies](wide-variability-foi-early-language-curricula.md) — related

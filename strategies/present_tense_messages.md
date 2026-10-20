@@ -55,7 +55,7 @@ Anxious, future-oriented self-talk consumes working memory with off-task ruminat
 2. **Rephrase** — Convert the worry into a present-tense statement of the current action: "I am reading the question and underlining what it asks."
 3. **Name the next step** — Attach one concrete next action; if none is nameable, the problem is task clarity, not self-talk.
 4. **Model it** — Demonstrate the rephrasing move aloud during [Think-Aloud](../elements/think-aloud.md) modeling so learners hear the shift in real time.
-5. **Fade support** — Move from prompted practice to independent use; pair with [Process Goals](../claims/process-goals-outperform-outcome-goals-for-novices.md) framing so the habit generalizes beyond a single task.
+5. **Fade support** — Move from prompted practice to independent use; pair with [Process Goals](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+W] framing so the habit generalizes beyond a single task.
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — reduces the uncertainty that fuels future-oriented worry by anchoring the task in what learners already know

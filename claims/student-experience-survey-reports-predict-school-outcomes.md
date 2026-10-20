@@ -53,3 +53,4 @@ The playbook's research-summary section states that "How students respond to sur
 - [Ninth-grade GPA predicts college enrollment and one-year college persistence in linear, incremental patterns](ninth-grade-gpa-predicts-college-enrollment-persistence.md) — related
 - The College Experiences Survey was conducted as part of an evaluation of factors associated with college persistence and attrition — related
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](elementary-gpa-strong-5essentials-measures.md) — related
+- [As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance](experience-benefits-beyond-test-scores-attendance.md) — related

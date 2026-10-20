@@ -62,6 +62,7 @@ Emphasizing value works because motivation depends on learners both expecting su
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting new material to existing knowledge also builds perceived relevance
 - [Check-Ins](../principles/check-ins.md) — ongoing monitoring of learner motivation and self-perception
 - [Nurture the perceived value of creativity through joyful practice, task relevance, varied tasks, and enthusiastic teacher modeling](nurture-perceived-value-of-creativity-strategies.md)
+- [Align reward with focus support and with SEVT value facets when designing instruction](align-reward-with-focus-support-and-value-facets.md)
 
 ## Examples
 - **Utility-value essays in science courses** — Hulleman & Harackiewicz (2009) had high school science students write briefly about how course topics related to their lives; students with low success expectations showed higher interest and better grades [+S]

@@ -62,4 +62,7 @@ Re-analysis of expert interview excerpts from Slotta and Chi's own study shows e
 
 
 ## Related Claims
--
+- [Neither blood circulation nor diffusion has an inherent correct ontology; predicates from both direct and emergent process categories apply to each](blood-flow-diffusion-no-inherent-ontology.md) — related
+- [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — a broader claim this one bears on
+- [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a broader claim this one bears on
+- [Novices can and do reason across ontological categories in everyday and scientific contexts](novices-reason-across-ontological-categories.md) — related

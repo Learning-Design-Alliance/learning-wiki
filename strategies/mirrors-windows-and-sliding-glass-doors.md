@@ -97,6 +97,7 @@ Diverse text selection alone is insufficient; the empathy and intergroup-attitud
 - [Discussion-Based Learning](../principles/collaborative-learning.md) — the structured dialogue format that converts exposure into perspective-taking
 - [Six recommendations for publishers and curriculum decision-makers to improve representational balance](representational-balance-six-recommendations.md)
 - [Case Studies](../elements/case-studies.md) — extended windows into others' decision-making and circumstances
+- [Immerse in the culture, integrate learner feedback up front, and use formative evaluation to find gaps needing bridges](gap-finding-immersion-feedback-formative-evaluation.md)
 
 ## Related Elements
 - [Assigned Readings](../elements/assigned-readings.md) — the vehicle for shared window texts

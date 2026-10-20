@@ -46,3 +46,4 @@ Segment-level code distributions (Table 3) show parallel upward trends in scienc
 
 - [Individual anger trajectories rose alongside science talk until an inflection point, after which engagement dropped sharply](individual-anger-inflection-lisa.md)
 - [After a team's tilting episode, its conversation became dominated by anger and lost all game-action talk](tilting-collapses-discussion-quality.md)
+- [Groups' anger-talk proportion was inversely related to science-talk proportion across two teams](anger-science-talk-inverse-groups.md) — reports the opposite

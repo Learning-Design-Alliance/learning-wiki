@@ -17,7 +17,7 @@ sources:
 # Future bilingualism studies should measure and analyze language history, context, and methodological modulators
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
 The review's forward-looking recommendation is that further studies on the bilingual effect should consider the role of modulators on the observed results, naming language history and context and methodological differences. This means characterizing participants' language backgrounds, acquisition timing, home and school language contexts, and socioeconomic status, and reporting them consistently. The review presents this as necessary because inconsistent results currently preclude definite conclusions.
@@ -35,6 +35,11 @@ The review's forward-looking recommendation is that further studies on the bilin
 
 ### Target Learning Goals
 - improving research design for studying bilingualism and executive functions
+
+## Claims
+
+- [The bilingual effect tends to emerge in more complex experimental tasks with higher control demands](../claims/task-complexity-moderates-bilingual-effect.md) [+W]
+- [Socioeconomic status differences between bilingual and monolingual groups may determine study outcomes](../claims/ses-moderates-bilingual-executive-function-results.md) [+W]
 
 ## Related Strategies
 - Bilingual Advantage Theory Executive Functions

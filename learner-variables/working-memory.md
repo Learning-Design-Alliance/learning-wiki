@@ -13,16 +13,16 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 68 claims (43 show a difference, 15 mixed, 8 no difference, 2 unmarked) · 59 studies (17 causal, 16 associational, 14 review, 7 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 10 of 59 report an effect size · 63 claims rest on one study
+> **Evidence** · 72 claims (47 show a difference, 16 mixed, 9 no difference) · 61 studies (17 causal, 17 associational, 14 review, 8 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 11 of 61 report an effect size · 67 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Composite working memory **r = .38**, working memory **.35** (k = 829); numerical **.34**, visual-spatial **.31**, verbal **.30**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md)
+- Composite working memory **r = .38**, working memory **.35** (k = 829); numerical **.34**, visual-spatial **.31**, verbal **.30**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 
@@ -111,6 +111,10 @@ How much a learner can hold and manipulate at once. It is the best-evidenced dim
 - [Visual-only text produces higher germane cognitive load than audio-visual text in VR](../claims/vr-visual-only-higher-germane-load.md) [+M] — instruction changes it
 - [Working memory capacity moderated disfluency effects in one study but not another](../claims/wmc-moderates-disfluency-mixed.md) [~M] — an instructional effect differs with it
 - [Some SRSD students, particularly those with poor working memory, struggled to implement the planning strategies they were taught](../claims/poor-working-memory-hinders-srsd-planning-implementation.md) [+M] — learners who differ on it differ in outcomes
+- [Betweenness centrality decreases as working memory capacity increases](../claims/wmc-decreases-betweenness-centrality.md) [+M] — learners who differ on it differ in outcomes
+- [Harmonic centrality and local clustering coefficient show no relation with working memory capacity](../claims/no-wmc-relation-harmonic-clustering.md) [-M] — learners who differ on it differ in outcomes
+- [Moderate-to-vigorous intensity active breaks are associated with slightly greater working-memory improvements than moderate intensity, in exploratory meta-regression](../claims/mvpa-intensity-moderates-working-memory-effect.md) [~M] — instruction changes it
+- [Readers with higher working memory capacity make more transitions between sentences (higher strength)](../claims/wmc-increases-strength-reading-networks.md) [+M] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 

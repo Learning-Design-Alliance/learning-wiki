@@ -46,3 +46,7 @@ Survey results on staffing solutions (Figure 5): substandard credentials 55%, su
 - 77% of school principals and district leaders reported challenges hiring enough substitute teachers during the pandemic, more than for any other staffing position — related
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
 - [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — related
+- [U.S. teacher shortages are nationwide and worsening, with over 300,000 positions unfilled or filled by uncertified teachers in 2023](us-teacher-shortages-300000-vacancies-2023.md) — a broader claim this one bears on
+- [Every surveyed district filled some vacancies with underprepared teachers, and substandard credentials nearly tripled from 2012–13 to 2019–20](underprepared-teacher-hiring-increased.md) — related
+- [Most surveyed California districts faced increased teacher vacancies over pre-COVID-19 years and greater difficulty filling them](pandemic-increased-teacher-vacancies-california-districts.md) — related
+- [Teachers on substandard credentials are unequally distributed, concentrated in districts serving more low-income students](substandard-credentials-unequal-district-distribution.md) — related

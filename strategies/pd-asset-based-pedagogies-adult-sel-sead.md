@@ -52,6 +52,7 @@ The brief argues educators need skills to create culturally affirming environmen
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
 - [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
 - [Policy implications: multi-factor, asset-based support for low-SES students](ses-policy-multi-factor-asset-based-strategy.md)
+- [Incorporate culturally responsive, anti-racist, and multicultural curricula in higher education STEM programs](culturally-responsive-antiracist-stem-curricula.md)
 
 ## Examples
 -

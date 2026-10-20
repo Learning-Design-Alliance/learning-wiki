@@ -43,4 +43,7 @@ Evaluation of the intervention with four HLC design teams via a digital question
 
 
 ## Related Claims
--
+- [Examples of features from the original research context in the guidebook helped participants understand the design principles and relate them to their own HLC](context-examples-enhance-understanding-design-principles.md) — related
+- [Participants across four design teams almost unanimously judged the set of HLC design principles relevant and complete, with no principles considered redundant or missing](hlc-design-principles-judged-relevant-complete.md) — related
+- [The prototyping exercise promoted exchange of ideas for HLC development and enhanced a shared image of the HLC among team members](prototyping-exercise-promotes-idea-exchange-shared-image.md) — related
+- [In a theory-guided in-situ simulation programme, an interprofessional primary care team progressed through the expansive learning cycle from questioning current practice to consolidating new practices](simlab-expansive-learning-cycle-progression.md) — related

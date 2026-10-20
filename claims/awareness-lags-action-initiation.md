@@ -43,4 +43,4 @@ The review reports Libet et al.'s finding (as cited) that when participants lift
 
 
 ## Related Claims
--
+- [Bilinguals maintain target activation longer than monolinguals after the activation peak](bilinguals-maintain-target-activation-longer.md) — related

@@ -83,8 +83,8 @@ New learning is stored in relation to existing knowledge structures; when releva
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Examples
-- **KWL charts (Ogle, 1986)** — Learners record what they *Know*, what they *Want* to know, and later what they *Learned*; widely used in reading instruction to structure activation before and reflection after a text.
-- **[Reciprocal Teaching](reciprocal_teaching.md) (Palincsar & Brown, 1984)** — Before reading, students predict and connect to prior knowledge as one of four comprehension strategies, making activation a recurring habit rather than a one-off event.
+- **KWL charts ([Ogle, 1986](https://doi.org/10.1598/rt.39.6.11))** — Learners record what they *Know*, what they *Want* to know, and later what they *Learned*; widely used in reading instruction to structure activation before and reflection after a text.
+- **[Reciprocal Teaching](reciprocal_teaching.md) ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1))** — Before reading, students predict and connect to prior knowledge as one of four comprehension strategies, making activation a recurring habit rather than a one-off event.
 - **Opening prediction problems in physics courses** — Instructors pose a qualitative question ("Which falls faster, a heavy or light object?") before instruction, surfacing intuitive theories that the lesson then confronts directly.
 - Before reading a narrative text, a teacher asks, "Have you ever been afraid to try something new?" and collects responses on the board, then maps them onto the protagonist's situation as the class reads.
 - [KWL charts](https://www.readingrockets.org/strategies/kwl_chart) — learners list what they *Know*, *Want* to know, and later what they *Learned*; the K and W columns are the activation phase.

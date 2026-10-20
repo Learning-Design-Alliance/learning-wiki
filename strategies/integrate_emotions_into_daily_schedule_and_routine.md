@@ -19,7 +19,7 @@ This strategy embeds emotion teaching into existing daily routines rather than t
 
 ## Design Implications
 
-Anticipating emotions before they occur is a form of situation selection and cognitive reappraisal, two of the most effective families of emotion-regulation strategies in Gross's process model [Gross, 1998] [+M]. Because the practice recurs daily and is tied to concrete upcoming events, it functions as distributed, contextualized rehearsal rather than a one-off lesson, supporting retention and transfer of regulation skills [Durlak et al., 2011] [+S]. Linking emotions to specific schedule items also builds students' emotional granularity — the ability to differentiate feeling states — which is associated with better regulation outcomes [~M].
+Anticipating emotions before they occur is a form of situation selection and cognitive reappraisal, two of the most effective families of emotion-regulation strategies in Gross's process model ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)) [+M]. Because the practice recurs daily and is tied to concrete upcoming events, it functions as distributed, contextualized rehearsal rather than a one-off lesson, supporting retention and transfer of regulation skills ([Durlak et al., 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x)) [+S]. Linking emotions to specific schedule items also builds students' emotional granularity — the ability to differentiate feeling states — which is associated with better regulation outcomes [~M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Anticipating emotions before they occur is a form of situation selection and cog
 - Teacher modeling of emotion vocabulary and coping strategies ([Coaching](../elements/coaching.md))
 
 #### Constraints
-- Requires consistent daily implementation; sporadic use produces little measurable change in regulation behavior [Durlak et al., 2011] [~M] — SEL programs show dose-response effects, and low-implementation classrooms gain significantly less
+- Requires consistent daily implementation; sporadic use produces little measurable change in regulation behavior ([Durlak et al., 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x)) [~M] — SEL programs show dose-response effects, and low-implementation classrooms gain significantly less
 - Prediction is less accurate for novel or unexpected events; the routine does not prepare students for emotions that arise off-schedule [-W]
 - Can consume instructional time and feel ritualistic if the discussion is not varied or connected to real decisions [-W]
 - Students with limited emotion vocabulary may default to "good/bad" labels, limiting the strategy's value until vocabulary is explicitly built [~M]

@@ -49,3 +49,4 @@ PRISMA-selected corpus of 52 educational YouTube videos (557 coded chunks) analy
 - [Productivity-oriented ChatGPT videos achieved platform reach comparable to skill-oriented videos despite weaker learning-oriented framing](productivity-framing-comparable-reach.md) — related
 - [Viewers of learning-oriented content describe ChatGPT as a tutor or thinking partner, while viewers of output-oriented content raise over-reliance and cognitive-offloading concerns](viewer-comments-diverge-by-framing.md) — related
 - [Adaptive spaced retrieval practice produced higher end-of-semester posttest performance than learner-directed AI study, but fixed spaced retrieval did not significantly outperform learner-directed study](adaptive-retrieval-posttest-retention-advantage.md) — related
+- [Awareness of discourse patterns lets teachers scaffold students toward an epistemic orientation and stance](discourse-pattern-awareness-scaffolds-epistemic-orientation.md) — related

@@ -49,3 +49,4 @@ Comparative climate analysis contrasting 40 BTO schools with 20 chronically unde
 - [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](bto-cu-climate-gap-twice-as-large.md) — possibly the same claim (merge candidate)
 - [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](bto-schools-higher-school-climate-percentile.md) — related
 - [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
+- [Only 2.4 percent of the sampled California secondary schools were classified as beating the odds, and 1.2 percent as chronically underperforming](bto-schools-rare-2-point-4-percent.md) — related

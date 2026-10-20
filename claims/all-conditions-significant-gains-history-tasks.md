@@ -65,3 +65,4 @@ Prior-knowledge check: the three conditions were statistically comparable at pre
 - [No significant differences between conditions on the retention test, and scores of the Visual and Timeline conditions decreased significantly from post-test to retention](timeline-effect-disappears-at-retention.md) — related
 - [Experimental and control groups did not differ significantly on pre-test NOS or SK scores](pretest-equivalence-noss-sks-groups.md) — related
 - [Co-constructing visual-textual representations without timeline integration did not significantly raise post-test scores over textual representations](visual-textual-no-significant-gain-over-text.md) — related
+- [Lessons using contrasts between critical aspects produced greater long-term retention than the other lessons in each learning study cycle, though not significantly so in individual experiments](contrast-lessons-greater-long-term-retention.md) — related

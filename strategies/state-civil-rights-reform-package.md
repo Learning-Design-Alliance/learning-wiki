@@ -17,7 +17,7 @@ sources:
 # State reforms: comprehensive discrimination prohibitions, constitutional entrenchment, enforcement capacity, and strengthened state rights to education
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The report recommends states adopt "a far-reaching prohibition of education discrimination that covers all types of discrimination and discrimination in all facets of education," develop definitions covering disparate impact and unintentional discrimination, elevate prohibitions to state constitutions, offer technical and financial assistance to districts, and expand state attorney general or educational agency enforcement authority. States can also strengthen state rights to education by adopting opportunity-to-learn standards and engaging all three branches of government.
@@ -41,6 +41,7 @@ The report recommends states adopt "a far-reaching prohibition of education disc
 
 - [State antidiscrimination laws provide only a patchwork of protection from racial discrimination in education](../claims/state-antidiscrimination-patchwork.md) [+W]
 - [State rights to education have produced substantial gains through funding litigation, but many are limited by unenforceability, variability, and neglect of equitable resource distribution](../claims/state-education-rights-limited.md) [+W]
+- [Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons](../claims/title-vi-limited-nondiscrimination-protection.md) [+W]
 
 ## Related Strategies
 

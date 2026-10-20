@@ -50,3 +50,4 @@ Structural path estimates from the CB-SEM of 980 students; the article reports s
 - [Critical-ethical awareness plays a dual role: it negatively predicts general GenAI reliance but positively predicts shortcut reliance](critical-ethical-awareness-dual-role-reliance.md) — related
 - [Six predictor constructs jointly explain 44.0% of the variance in ethical GenAI use among university students, with all structural paths positive and significant](six-predictors-explain-44-percent-ethical-genai-use.md) — related
 - [AI literacy significantly enhances students' critical AI evaluation in generative-AI-supported learning](ai-literacy-enhances-critical-ai-evaluation.md) — related
+- [Ethical reasoning and reflective thinking are reported as the strongest predictors of sustainable and trustworthy AI use](ethical-reasoning-strongest-predictor-trustworthy-ai-use.md) — reports the opposite

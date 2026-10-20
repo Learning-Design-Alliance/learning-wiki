@@ -43,6 +43,7 @@ The report recommends a set of state-level advocacy actions for advancing equity
 
 - [Provide highly contextualized and resource-intensive federal support for school improvement](contextualized-resource-intensive-federal-improvement-support.md)
 - [Require school-level spending of equity-targeted funds and transparent expenditure reporting](school-level-equity-fund-transparency-requirements.md)
+- [Invest state discretionary dollars in early intervention systems such as MTSS to reduce later intensive supports](early-intervention-mtss-investment-return.md)
 
 ## Examples
 -

@@ -64,7 +64,7 @@ Positive, personal teacher–student interactions at transitions improve engagem
 - [Exchange personal and biographical information between speaker and students before the telelecture](exchange-personal-information-before-telelecture.md)
 
 ## Examples
-- **[Positive Greetings at the Door](positive-greetings-at-the-door.md) (Cook et al., 2018)** — Middle school teachers greeted each student by name with a brief positive interaction before entry; the intervention increased academic engaged time and reduced disruptive behavior in a controlled study.
+- **[Positive Greetings at the Door](positive-greetings-at-the-door.md) ([Cook et al., 2018](https://doi.org/10.1177/1098300717753831))** — Middle school teachers greeted each student by name with a brief positive interaction before entry; the intervention increased academic engaged time and reduced disruptive behavior in a controlled study.
 - **Rob Plevin's "Needs-Focused" classroom management approach** — Recommends informal chitchat and nonconfrontational statements at the door as the first move in a proactive behavior management sequence.
 
 ## Key Sources

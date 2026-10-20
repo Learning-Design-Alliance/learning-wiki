@@ -43,4 +43,4 @@ Bivariate correlational analysis of 482 students' trace frequencies and first-un
 
 
 ## Related Claims
--
+- [Frequency of incorrect quiz submissions differs across performance quartiles, with low performers submitting incorrect answers most often](incorrect-submissions-differ-across-quartiles.md) — related

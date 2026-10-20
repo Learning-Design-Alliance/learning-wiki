@@ -65,7 +65,7 @@ Music and movement add a second, temporally structured representational channel 
 ## Examples
 - **Karl Schaffer and Erik Stern (Math Dance / Dr. Schaffer and Mr. Stern Dance Ensemble)** — classroom workshops and a TEDx talk using dance to teach counting combinations and symmetry ([https://www.mathdance.org](https://www.mathdance.org)).
 - **Corinne Wolfe's triangular-number dance** — a choreography in which two consecutive triangular numbers physically combine to form a square number, making the identity Tₙ + Tₙ₊₁ = (n+1)² visible.
-- **Academic Music (Courey et al., 2012)** — a curriculum using rhythm notation and drumming to teach third-grade fraction concepts, which outperformed business-as-usual instruction on fraction tests.
+- **Academic Music ([Courey et al., 2012](https://doi.org/10.1007/s10649-012-9395-9))** — a curriculum using rhythm notation and drumming to teach third-grade fraction concepts, which outperformed business-as-usual instruction on fraction tests.
 - **KET arts-integrated lesson plans** — published lessons using dance, drama, music, and visual art to teach K–12 mathematics concepts ([https://www.ket.org/education/](https://www.ket.org/education/)).
 
 ## Key Sources

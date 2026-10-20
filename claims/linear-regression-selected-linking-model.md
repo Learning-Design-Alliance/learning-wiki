@@ -51,3 +51,4 @@ Model comparison on the common student sample using Root-Mean-Square Error (Tabl
 - A linear regression on skill variables (n, dim, pc) predicts the minimum RSS value for BKT-BF training with high predictive ability — related
 - [MAP Reading Fluency SWCPM scores correlate highly with Amira Reading Mastery scores (r = 0.90–0.96) across grades 1–5 in fall and winter](swcpm-arm-high-correlation-grades-1-5.md) — related
 - [BFpack handles common statistical analyses with default priors and data missing at random](bfpack-default-priors-missing-data.md) — related
+- [Equated WCPM scores generally correlate more highly with MAP Growth Reading RIT scores than raw WCPM scores, with one exception](equated-wcpm-higher-external-validity-correlations.md) — related

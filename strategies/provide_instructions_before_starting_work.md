@@ -56,7 +56,7 @@ Clear pre-task instructions reduce extraneous cognitive load by eliminating the 
 3. Show a model or exemplar of the expected product before work begins ([Advance Organizers](../elements/advance-organizers.md))
 4. Verify comprehension — have learners restate the goal or identify the first step ([Check-In](../elements/check-in.md))
 5. Keep instructions visible during work as an external reference rather than relying on memory
-6. Fade instructional detail as learners gain experience with the task type [Guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md)
+6. Fade instructional detail as learners gain experience with the task type [Guidance that helps novices can hinder more knowledgeable learners.](../claims/expertise-reversal-effect.md) [+M]
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — pre-task preparation that complements instructions by connecting the task to what learners already know

@@ -57,7 +57,7 @@ Behavioral shadowing is a safety-first intervention that also functions as a dat
 4. Prompt and [Model](../elements/modeling.md) a replacement behavior (e.g., words, a gesture, or a break card) at the first sign of the trigger, and reinforce it immediately.
 5. Provide calm, specific [Feedback](../elements/feedback.md) on the replacement behavior rather than the child's identity or the misbehavior.
 6. Collect ABC data throughout; adjust the protocol as triggers become clearer.
-7. [Fade](../claims/fading-support-promotes-transfer-of-responsibility.md) proximity gradually as the child sustains incident-free periods, transferring monitoring to the classroom routine.
+7. [Fade](../claims/fading-support-promotes-transfer-of-responsibility.md) [+W] proximity gradually as the child sustains incident-free periods, transferring monitoring to the classroom routine.
 
 ## Related Strategies
 - [Positive Behavior Support](../theories/behaviorism.md) — shadowing is a Tier 3, individualized tactic within a broader prevention framework

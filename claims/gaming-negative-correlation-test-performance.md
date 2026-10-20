@@ -43,4 +43,4 @@ Study 1 correlation analysis (Table 2) between test scores, gender, and gaming r
 
 
 ## Related Claims
--
+- [No significant gender difference in gaming the system appears in the non-game control condition or in the problem-solving step](no-gender-gaming-difference-nongame-and-problem-solving.md) — related

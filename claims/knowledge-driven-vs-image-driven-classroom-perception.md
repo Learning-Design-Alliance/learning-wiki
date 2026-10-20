@@ -52,3 +52,4 @@ Authors' interpretive claim (type e) framing their exploratory findings: experts
 - [Experts predict classroom phenomena and student errors far more than novices, who rarely anticipate misalgorithms](experts-predict-student-errors-and-classroom-events.md) — related
 - [Novice teachers notice more negative classroom events than positive ones, whereas expert teachers show the opposite pattern when reflecting on their own MET videos](novices-more-negative-noticing-valence.md) — related
 - [Only a minority of teacher educators interpreted a critical classroom-management incident as theoretically expected, despite marked eye-tracking differences](wyss-critical-incident-rarely-interpreted-as-expected.md) — related
+- [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related

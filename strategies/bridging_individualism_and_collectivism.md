@@ -19,7 +19,7 @@ This strategy addresses the value-system mismatch that occurs when learners from
 
 ## Design Implications
 
-Cultural value orientation shapes how students interpret everyday classroom demands — whether helping a peer is cheating or virtue, whether speaking out individually is participation or self-exposure [Markus & Kitayama, 1991] [+M]. Bridging works by making both value systems legitimate in the room rather than replacing one with the other, which supports students' sense of belonging [Students' sense of belonging improves engagement and outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
+Cultural value orientation shapes how students interpret everyday classroom demands — whether helping a peer is cheating or virtue, whether speaking out individually is participation or self-exposure ([Markus & Kitayama, 1991](https://doi.org/10.1037/0033-295x.98.2.224)) [+M]. Bridging works by making both value systems legitimate in the room rather than replacing one with the other, which supports students' sense of belonging [Students' sense of belonging improves engagement and outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+M].
 
 ### Context
 #### Requirements

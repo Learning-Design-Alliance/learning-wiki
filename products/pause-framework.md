@@ -27,7 +27,8 @@ A Vanderbilt University framework that guides recruitment and hiring teams throu
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [Five-goal state policy framework for increasing educator workforce diversity](five-goal-state-policy-framework-for-increasing-educator-workforce-diversity.md)
 
 ## Key Sources
 - Equitable & Inclusive Hiring Practices: A Reference Guide of Strategies to Grow & Diversify the Educator Workforce. (2023). Rhode Island Department of Education, Office of Educator Excellence. https://www.ride.ri.gov/

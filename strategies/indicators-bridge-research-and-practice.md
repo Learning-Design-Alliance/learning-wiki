@@ -19,7 +19,7 @@ sources:
 # Use research-based indicators to bridge research and practice in college access work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The chapter presents indicator development as a critical mechanism for connecting research findings to front-line practice. It examines "the role of indicator development more generally, and match specifically, as a critical mechanism for bridging research and practice." Practitioners and policy makers can adopt simple indicators, like the college match indicator, to make research actionable in schools.
@@ -37,6 +37,10 @@ The chapter presents indicator development as a critical mechanism for connectin
 
 ### Target Learning Goals
 - Improving college match and access outcomes through data-informed practice
+
+## Claims
+
+- [Ensuring a good match between students and the colleges in which they enroll significantly increases a student's chance of graduating](../claims/good-college-match-increases-graduation-chance.md) [+W]
 
 ## Related Strategies
 

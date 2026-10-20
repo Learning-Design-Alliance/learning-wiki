@@ -19,7 +19,7 @@ Educational charts translate quantitative or procedural information into visual 
 
 ## Design Implications
 
-Well-designed charts exploit the visual system's capacity for rapid pattern detection, offloading cognitive work that would otherwise consume working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Comprehension depends on matching the chart type to the message: position and length encodings (bars, points) are read far more accurately than area, angle, or color saturation encodings [Cleveland & McGill, 1984] [+S]. Charts work best when integrated with verbal explanation rather than standing alone — the combination of visual and verbal channels supports richer mental models than either alone [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
+Well-designed charts exploit the visual system's capacity for rapid pattern detection, offloading cognitive work that would otherwise consume working memory [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Comprehension depends on matching the chart type to the message: position and length encodings (bars, points) are read far more accurately than area, angle, or color saturation encodings ([Cleveland & McGill, 1984](https://doi.org/10.1080/01621459.1984.10478080)) [+S]. Charts work best when integrated with verbal explanation rather than standing alone — the combination of visual and verbal channels supports richer mental models than either alone [Media combinations affect recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,9 +29,9 @@ Well-designed charts exploit the visual system's capacity for rapid pattern dete
 - Verbal framing or annotation that directs attention to the pattern the chart is meant to reveal [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]
 
 #### Constraints
-- Decorative chart junk and 3D effects degrade comprehension by adding irrelevant visual processing [Franconeri et al., 2021] [-S]
-- Learners with low graph literacy misread even well-designed charts, particularly when inference beyond the plotted points is required [Shah & Hoeffner, 2002] [~M]
-- Charts encourage reading *the displayed relationship* as the whole story; learners often fail to consider alternative explanations or missing variables unless prompted [Shah & Hoeffner, 2002] [-M]
+- Decorative chart junk and 3D effects degrade comprehension by adding irrelevant visual processing ([Franconeri et al., 2021](https://doi.org/10.1177/15291006211051956)) [-S]
+- Learners with low graph literacy misread even well-designed charts, particularly when inference beyond the plotted points is required ([Shah & Hoeffner, 2002](https://doi.org/10.1023/a:1013180410169)) [~M]
+- Charts encourage reading *the displayed relationship* as the whole story; learners often fail to consider alternative explanations or missing variables unless prompted ([Shah & Hoeffner, 2002](https://doi.org/10.1023/a:1013180410169)) [-M]
 - Color-only encoding fails for color-vision-deficient learners and in grayscale printing; redundant encoding (shape + color) is required for accessibility
 
 #### Implementation Variability
@@ -51,7 +51,7 @@ Well-designed charts exploit the visual system's capacity for rapid pattern dete
 
 ### Instructions
 1. Identify the single message the chart must convey, then select the chart type whose visual encoding matches that message (comparison, trend, part-whole, process, hierarchy).
-2. Design for accurate perception: use position/length encodings, direct labeling, and minimal ink; avoid 3D and decorative elements [Franconeri et al., 2021] [+S].
+2. Design for accurate perception: use position/length encodings, direct labeling, and minimal ink; avoid 3D and decorative elements ([Franconeri et al., 2021](https://doi.org/10.1177/15291006211051956)) [+S].
 3. Present the chart with a verbal framing question or headline statement that directs attention to the target pattern [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M].
 4. Model interpretation with a [Demonstration](../elements/demonstration.md) — narrate how to read the axes, locate the pattern, and state what it means.
 5. Ask learners to generate the takeaway themselves, e.g., "What does this chart show? What does it *not* show?" — prompting [Self-Explanation](../elements/articulation.md) of the displayed relationship [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].

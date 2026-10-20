@@ -47,3 +47,4 @@ The WWC's effectiveness rating synthesizes eight studies (about 2,000 students) 
 - [The extent of evidence for Fast ForWord is small for alphabetics and reading fluency and medium to large for comprehension and general literacy achievement](fast-forword-extent-of-evidence-ratings.md) — related
 - [The WWC improvement indices for Fast ForWord average +2 (alphabetics), +17 (reading fluency), +8 (comprehension), and +3 (general literacy achievement) percentile points](fast-forword-improvement-indices-by-domain.md) — related
 - [Fast ForWord Language has potentially positive effects on English language development of elementary school English language learners](fast-forword-language-potentially-positive-english-language-development.md) — related
+- [READ 180® shows no discernible effects on alphabetics for adolescent readers](read-180-no-discernible-effects-alphabetics.md) — related

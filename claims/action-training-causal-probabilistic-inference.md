@@ -43,4 +43,5 @@ Training study (Experiment 3): NVGPs underwent 50 hours of action or control vid
 
 
 ## Related Claims
--
+- [Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task](vgp-greater-integration-rate-motion-ddm.md) — related
+- [According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task](vgp-better-posterior-log-odds-motion.md) — related

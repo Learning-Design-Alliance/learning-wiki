@@ -26,7 +26,7 @@ The article prescribes that introduction of any new assessment method for strate
 
 ### Context
 #### Requirements
-- New methods should be validated at introduction (Veenman 2007); convergent validity only makes sense if both measurements represent the same construct of strategy use
+- New methods should be validated at introduction ([Veenman 2007](https://doi.org/10.1007/s11409-007-9017-6)); convergent validity only makes sense if both measurements represent the same construct of strategy use
 #### Constraints
 - Within-method comparisons only establish stability of measures, not construct validity; external validity cannot be determined when the performance measure is incorporated in the calculated score
 

@@ -43,4 +43,4 @@ Zero-order correlational analysis on the full sample (descriptive statistics in 
 
 
 ## Related Claims
--
+- [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related

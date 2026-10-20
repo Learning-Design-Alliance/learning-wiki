@@ -53,3 +53,4 @@ Theoretical argument, not a tested result: the authors reason from prior work th
 - [A general-purpose LLM assessing team emails' emotional tone was biased toward interpreting messages as anxiety-related only](llm-emotional-tone-bias-incident-words.md) — a narrower finding that bears on this claim
 - [Prompting is a form of writing: task definition is a constitutive element of knowledge production, not a neutral procedural step](prompting-as-writing-task-definition-constitutive.md) — a broader claim this one bears on
 - A three-phase human-LLM inductive pipeline produced a hierarchical codebook of 72 items within 19 categories and six domains from 45,000 educator-AI messages — related
+- [All CSCL research is necessarily theory-laden; unreflective research adopts commonsense folk theories](cscl-research-necessarily-theory-laden.md) — related

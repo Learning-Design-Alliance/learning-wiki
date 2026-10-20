@@ -46,4 +46,5 @@ Summary of participant outcomes across the six included single-subject studies, 
 - [Autism Spectrum Disorder](../learner-variables/autism-spectrum-disorder.md) — population: instruction studied with autistic learners, not a comparison with non-autistic learners
 
 ## Related Claims
--
+- [SpellRead™ shows potentially positive effects on comprehension for adolescent readers, with an average improvement index of +11](spellread-potentially-positive-comprehension.md) — related
+- [SpellRead™ shows potentially positive effects on reading fluency for adolescent readers, with an average improvement index of +14](spellread-potentially-positive-reading-fluency.md) — related

@@ -60,3 +60,4 @@ Cohort comparison of fall-to-fall MAP Growth gains: the pandemic cohort (fall 20
 - [The webinar frames pandemic learning impact as a concern particularly for students of color and students living in poverty](pandemic-impact-underserved-students-focus.md) — related
 - [Black and Latinx students generally feel less safe at school than their White peers](black-latinx-students-feel-less-safe.md) — related
 - AP scores of 3 or higher declined in Massachusetts from 2019 to 2022 for all groups, with a 39-percentage-point gap between White and Black students — related
+- [Projected fall 2020 mathematics gains for returning students are approximately 37 to 50% of a typical school year's learning gains](covid-closures-projected-math-gains-37-50-percent.md) — related

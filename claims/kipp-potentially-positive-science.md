@@ -51,3 +51,5 @@ Two quasi-experimental studies (Tuttle et al. 2015 middle school QED and high sc
 - [For students continuing from KIPP middle schools to KIPP high schools, achievement impacts are not statistically significant](kipp-high-school-continuing-students-achievement-null.md) — related
 - [KIPP charter middle schools produce positive, statistically significant test-score effects in reading, math, science, and social studies](kipp-middle-schools-positive-significant-achievement-effects.md) — a broader claim this one bears on
 - [Urban charter schools have more positive impacts on student achievement than other charter schools](urban-charter-schools-more-positive-achievement-impacts.md) — related
+- [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
+- [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related

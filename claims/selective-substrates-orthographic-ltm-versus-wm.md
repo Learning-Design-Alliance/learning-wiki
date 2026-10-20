@@ -43,4 +43,8 @@ Voxel-based lesion-mapping study of 33 individuals with post-stroke dysgraphia, 
 
 
 ## Related Claims
--
+- [Behavioral profiles alone can identify dysgraphia cases with deficits selectively affecting orthographic long-term memory or working memory](behavioral-profiles-classify-dysgraphia-subtypes.md) — related
+- [Lesion evidence links written-language processes to language, working memory, and other cognitive skills](written-language-neural-instantiation-relates-cognitive-skills.md) — related
+- [Orthographic working memory deficits in dysgraphia arise primarily from lesions of the left parietal cortex centered on the intraparietal sulcus](orthographic-wm-deficits-left-parietal-ips.md) — a narrower finding that bears on this claim
+- [Orthographic long-term memory deficits in dysgraphia are centered in the left posterior inferior frontal region or left ventral temporal cortex](orthographic-ltm-deficits-frontal-ventral-temporal.md) — a narrower finding that bears on this claim
+- [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](wm-distinct-from-stm-subsystems-function.md) — related

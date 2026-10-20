@@ -54,3 +54,4 @@ The brief reports, citing University of Chicago Consortium re-examination studie
 - [Yearly high school attendance grew up to 3.55 percentage points more in schools with strong 5Essentials Survey measures than in schools with average scores](high-school-attendance-strong-5essentials-measures.md) — a narrower finding that bears on this claim
 - [Multiple student survey measures negatively predicted GPA; significant negative associations were otherwise rare](student-survey-measures-negative-gpa-prediction.md) — related
 - [A positive school climate improves academic achievement and reduces the negative effects of poverty on achievement](positive-school-climate-improves-achievement.md) — related
+- [As teachers gain experience, their students are more likely to do better on measures beyond test scores, such as school attendance](experience-benefits-beyond-test-scores-attendance.md) — related

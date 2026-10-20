@@ -45,3 +45,4 @@ Design-narrative analysis of classroom runs of Environmental Detectives, includi
 ## Related Claims
 
 - [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md)
+- [Collaborative location-based games design was implemented within a formal classroom aligned to the Norwegian national competency framework](location-based-games-design-formal-classroom.md) — related

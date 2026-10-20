@@ -43,4 +43,4 @@ The review reports, citing Kali and Ronen (2005), that in three semesters of an 
 
 
 ## Related Claims
--
+- [Peer marks correlate with teacher marks, with a mean correlation of 0.69 across studies in a meta-analysis](peer-marks-mean-correlation-069-with-teacher-marks.md) — related

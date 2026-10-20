@@ -36106,5 +36106,157 @@
  "scaffolding\thigher perceived teacher scaffolding\tlower perceived teacher scaffolding": {
   "label": "higher teacher scaffolding vs lower teacher scaffolding",
   "treatment_is_a": true
+ },
+ "active-learning\tFreeman et al. (2014) meta-analysis studies\tsampled 2015–2022 active-learning studies": {
+  "label": "Freeman et al. (2014) evidence base vs 2015–2022 evidence base",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning\tlecture or another active-learning intervention": {
+  "label": "active learning vs lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning\tlecture or passive instruction": {
+  "label": "active learning vs lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive learning instruction\tlecture instruction": {
+  "label": "active learning vs lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning instruction\tlecture instruction": {
+  "label": "active learning vs lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning instruction\tlecture or another active-learning condition": {
+  "label": "active learning vs lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tactive-learning intervention\tlecture intervention": {
+  "label": "active learning vs lecture/passive instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer pairing, peer tutoring, or small collaborative/cooperative groups\tteacher-mediated comparison conditions": {
+  "label": "peer or small-group collaborative learning vs teacher-mediated instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tpeer pairing, peer tutoring, or small collaborative/cooperative groups with literacy activities\tteacher-mediated comparison conditions": {
+  "label": "peer or small-group collaborative learning vs teacher-mediated instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem- and project-based learning\tcomparison conditions": {
+  "label": "problem- or project-based learning vs conventional/comparison instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem- or project-based learning\tconventional or other comparison instruction": {
+  "label": "problem- or project-based learning vs conventional/comparison instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based, project-based, and case-based learning\tteacher-centered/lecture-based learning": {
+  "label": "problem-, project-, or case-based learning vs teacher-centered/lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based, project-based, and case-based learning in STEM\tteacher-centered/lecture-based learning": {
+  "label": "problem-, project-, or case-based learning vs teacher-centered/lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based, project-based, and case-based learning in healthcare\tteacher-centered/lecture-based learning": {
+  "label": "problem-, project-, or case-based learning vs teacher-centered/lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-based, project-based, and case-based learning in other academic domains\tteacher-centered/lecture-based learning": {
+  "label": "problem-, project-, or case-based learning vs teacher-centered/lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-driven learning across a curriculum\tteacher-centered or lecture-based learning": {
+  "label": "problem-driven learning vs teacher-centered/lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproblem-driven learning in a single course\tteacher-centered or lecture-based learning": {
+  "label": "problem-driven learning vs teacher-centered/lecture-based instruction",
+  "treatment_is_a": true
+ },
+ "active-learning\tproject-based learning\tcontrol instruction": {
+  "label": "project-based learning vs control instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tExplicit instruction to segment Spanish CVC words followed by letter-sound instruction\tEnglish decoding instruction without the Spanish CVC segmentation sequence": {
+  "label": "explicit instruction vs less explicit instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tconnections made explicit for students\treliance on self-discovery": {
+  "label": "explicit explanation vs self-discovery",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tdirect instruction in key English vocabulary words\tnot stated": {
+  "label": "direct instruction vs unspecified instruction",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tmorphological instruction\tcontrol condition": {
+  "label": "morphological instruction vs control",
+  "treatment_is_a": true
+ },
+ "explicit-instruction\tsystematic phonologically based interventions\tnot stated": {
+  "label": "systematic phonological instruction vs unspecified intervention",
+  "treatment_is_a": true
+ },
+ "feedback-presence\tsocial feedback\tno social feedback": {
+  "label": "feedback vs no feedback",
+  "treatment_is_a": true
+ },
+ "media-design\temotional design with a narrative frame\temotional design with only warm colors and background music": {
+  "label": "narrative-based emotional design vs non-narrative emotional design",
+  "treatment_is_a": true
+ },
+ "media-design\tintegrated presentation\tsplit-attention presentation": {
+  "label": "integrated presentation vs split-attention presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tredundant presentation\tnonredundant presentation": {
+  "label": "redundant presentation vs nonredundant presentation",
+  "treatment_is_a": true
+ },
+ "media-design\tsignaling with high coherence or spatial contiguity\tsignaling absent under the same conditions": {
+  "label": "signaling vs no signaling",
+  "treatment_is_a": true
+ },
+ "practice-amount\trepeated practice making connections over time\tlearning isolated bits without repeated connection practice": {
+  "label": "repeated practice vs no repeated practice",
+  "treatment_is_a": true
+ },
+ "practice-amount\tself-regulated multiple-choice practice to about one correct answer per item\texperimenter-controlled multiple-choice practice to a higher number of correct answers": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "practice-amount\tself-regulated multiple-choice practice to about one correct answer per item\texperimenter-controlled practice to a higher number of correct answers": {
+  "label": "more practice vs less practice",
+  "treatment_is_a": false
+ },
+ "problem-first\tchallenging task before explicit instruction\texplicit instruction before practice": {
+  "label": "problem-first vs instruction-first",
+  "treatment_is_a": true
+ },
+ "test-format\tposttest including transfer tasks aligned with the learning task\tposttest not aligned with the learning task": {
+  "label": "transfer-aligned posttest vs non-aligned posttest",
+  "treatment_is_a": true
+ },
+ "test-format\tself-regulated multiple-choice practice questions\tself-regulated cued-recall practice questions": {
+  "label": "multiple-choice practice testing vs cued-recall practice testing",
+  "treatment_is_a": true
+ },
+ "test-format\tself-regulated multiple-choice practice testing\texperimenter-controlled multiple-choice practice testing to a higher correct-answer criterion": {
+  "label": "self-regulated practice testing vs experimenter-controlled higher-criterion practice testing",
+  "treatment_is_a": true
+ },
+ "test-format\tself-regulated multiple-choice practice tests\tself-regulated cued-recall practice questions": {
+  "label": "multiple-choice practice testing vs cued-recall practice testing",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudy worked examples\tsolve equivalent problems": {
+  "label": "study worked examples vs solve equivalent problems",
+  "treatment_is_a": true
+ },
+ "worked-examples\tstudy worked-out solutions\tsolve equivalent problems": {
+  "label": "study worked examples vs solve equivalent problems",
+  "treatment_is_a": true
  }
 }

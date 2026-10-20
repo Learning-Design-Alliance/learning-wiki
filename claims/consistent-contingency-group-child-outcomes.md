@@ -45,3 +45,4 @@ Mothers were split into a consistent contingent group (n = 18, at least 30% cont
 ## Related Claims
 
 - [Maternal contingent interventions led to children's successful actions at 12 and 18 months but not at 24 months, while children's success led to contingent withdrawal of support at every time-point](sequential-contingency-success-bidirectional.md)
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related

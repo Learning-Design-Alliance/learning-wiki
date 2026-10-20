@@ -44,3 +44,4 @@ Findings from 54 teacher interviews and workshop observations across the project
 
 ## Related Claims
 - Both case-study teachers increased web and technology use for lesson preparation, presentation, and classroom exploration over the project — related
+- [Mathematics teachers critique ChatGPT-generated generative learning lessons for poor fit to students, boredom, preparation time, missing student-facing materials, mathematical flaws, and required materials](teachers-critique-chatgpt-lesson-output.md) — related

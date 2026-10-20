@@ -43,4 +43,4 @@ In the same four-condition experiment on SES-related threat, the article reports
 
 
 ## Related Claims
--
+- [Making socioeconomic identity salient or presenting a test as diagnostic of intelligence leads low-SES students to perform significantly worse and report lower self-confidence than low-SES participants in non-threatening conditions](ses-stereotype-threat-lowers-low-ses-test-performance.md) — related

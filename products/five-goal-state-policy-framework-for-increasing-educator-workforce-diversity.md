@@ -26,7 +26,8 @@ An Education Trust framework that assesses and guides state policy conditions fo
 ### Claims
 
 ## Related Products and Programmes
--
+
+- [PAUSE framework](pause-framework.md)
 
 ## Key Sources
 - Education Trust. (2020). Educator Diversity State Profile: Massachusetts. https://edtrust.org

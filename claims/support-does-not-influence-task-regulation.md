@@ -46,3 +46,4 @@ Null result from the same MANCOVA comparing conditions on task regulation freque
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — reports the opposite
 - [Team regulation correlates positively with learning results only in the CHT condition](team-regulation-learning-results-correlation-cht.md) — related
+- [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — related

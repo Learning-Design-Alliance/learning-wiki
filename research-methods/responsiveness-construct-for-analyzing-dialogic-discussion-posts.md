@@ -24,7 +24,8 @@ The authors introduce responsiveness as a construct for analyzing discussion con
 ### Claims
 
 ## Related Research Methods
--
+
+- [Theoretically productive classroom dialogue framework: five recurring themes plus the cross-cutting theme of high student contribution](theoretically-productive-classroom-dialogue-framework-five-recurring-themes-plus-the-cross.md)
 
 ## Key Sources
 - Yifat Ben-David Kolikant, Omri Hadar, Asaf Salman. (2025). Talk to the machine: Unleashing the potential of AI to scale dialogic education and reduce polarization. Intern. J. Comput.-Support. Collab. Learn. https://doi.org/10.1007/s11412-025-09461-8

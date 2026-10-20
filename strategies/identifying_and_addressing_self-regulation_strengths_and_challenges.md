@@ -19,7 +19,7 @@ This strategy involves educators systematically observing and assessing students
 
 ## Design Implications
 
-Self-regulation capacities — inhibitory control, working memory, and attentional flexibility — predict academic achievement across grade levels, and they are malleable through instruction and environmental design [Diamond, 2013] [+M]. The educator's role is diagnostic first, instructional second: supports that ignore a student's actual regulatory profile are unlikely to stick, and demands that exceed a student's current capacity produce disengagement rather than growth [~M].
+Self-regulation capacities — inhibitory control, working memory, and attentional flexibility — predict academic achievement across grade levels, and they are malleable through instruction and environmental design ([Diamond, 2013](https://doi.org/10.1146/annurev-psych-113011-143750)) [+M]. The educator's role is diagnostic first, instructional second: supports that ignore a student's actual regulatory profile are unlikely to stick, and demands that exceed a student's current capacity produce disengagement rather than growth [~M].
 
 ### Context
 #### Requirements

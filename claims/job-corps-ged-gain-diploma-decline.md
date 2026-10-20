@@ -67,3 +67,4 @@ Randomized controlled trial, Appendix A4.2: diploma receipt was 5.3% for Job Cor
 - [Job Corps has potentially positive effects on completing school: more youth without credentials earned a diploma or GED](job-corps-potentially-positive-completing-school.md) — related
 - [JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma](jobstart-ged-gain-diploma-negative-effect.md) — related
 - [JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment](jobstart-increased-diploma-or-ged-completion.md) — related
+- [New Chance's completion effect came entirely from GED receipt, with a small negative effect on earning a high school diploma](new-chance-ged-positive-diploma-negative.md) — related

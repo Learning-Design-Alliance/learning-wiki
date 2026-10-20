@@ -43,4 +43,5 @@ Exploratory moderator analysis of the level of outcome measurement for domain-sp
 
 
 ## Related Claims
--
+- [The script level a CSCL script mainly targets does not significantly moderate its effects on domain-specific knowledge or collaboration skills](script-level-moderator-not-significant.md) — related
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills](transactivity-moderator-not-significant.md) — related

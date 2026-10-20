@@ -44,6 +44,7 @@ The guide's third recommendation is a concrete assessment routine: "Use introduc
 
 - [Use syntactic complexity as a sensitive developmental marker to monitor children's writing progress in the upper elementary grades](syntactic-complexity-developmental-marker-strategy.md)
 - [Use cognitive-sensing feedback on attention and learning progress to tailor instruction to individual learners](cognitive-sensing-feedback-tailor-instruction.md)
+- [Dedicate time each day to math and integrate math instruction throughout the school day](daily-dedicated-and-integrated-math-time.md)
 
 ## Examples
 -

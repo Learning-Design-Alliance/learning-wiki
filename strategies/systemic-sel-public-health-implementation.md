@@ -45,6 +45,7 @@ The report recommends that sustainable SEL requires supportive infrastructures a
 - [Design coaching programs as a systemic collective enterprise with shared vision, recruited and developed coaches, and continuous evaluation](systemic-coaching-program-design-six-pillars.md)
 - [Five getting-started steps for building an integrated, school-based system of care](getting-started-steps-integrated-systems-of-care.md)
 - [System-level strategies to build enabling conditions for Powerful Learning](system-level-strategies-powerful-learning-conditions.md)
+- [Eight research-design recommendations for the next generation of SEL research](eight-recommendations-future-sel-research.md)
 
 ## Examples
 -

@@ -19,7 +19,7 @@ Customizable display of information means presenting content in digital formats 
 
 ## Design Implications
 
-Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers (Schneps et al., 2013) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], but added visual decoration does not by itself aid learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~S] — customization should serve legibility and modality access, not ornament.
+Adjusting display parameters changes how much working-memory capacity is consumed by perception and decoding, freeing resources for comprehension [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. For example, larger character spacing and shorter line lengths measurably improve reading speed and comprehension for readers with dyslexia, and e-reader displays that permit font manipulation outperform fixed paper for some of these readers ([Schneps et al., 2013](https://doi.org/10.1371/journal.pone.0075634)) [+M]. Pairing adjustable text with adjustable audio or visual rendering supports dual-channel processing [Dual coding improves recall.](../claims/dual-coding-improves-learning.md) [+S], but added visual decoration does not by itself aid learning [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [~S] — customization should serve legibility and modality access, not ornament.
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Adjusting display parameters changes how much working-memory capacity is consume
 
 ### Target Learners
 - Learners with sensory disabilities (low vision, blindness, deafness, hearing loss), who depend on adjustable size, contrast, screen-reader compatibility, captions, and transcripts [+M]
-- Learners with dyslexia or other decoding difficulties, who benefit from adjustable font, spacing, and text-to-speech (Rello & Baeza-Yates, 2013; Schneps et al., 2013) [+M]
+- Learners with dyslexia or other decoding difficulties, who benefit from adjustable font, spacing, and text-to-speech ([Rello & Baeza-Yates, 2013](https://doi.org/10.1145/2513383.2513447); [Schneps et al., 2013](https://doi.org/10.1371/journal.pone.0075634)) [+M]
 - Second-language learners, who benefit from captions, adjustable reading speed, and translation options [+M]
 - Older adults and learners using small screens or suboptimal environments — effectively most learners at some point
 

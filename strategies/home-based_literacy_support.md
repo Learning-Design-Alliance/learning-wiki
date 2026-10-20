@@ -12,7 +12,7 @@ generated:
 # Home-Based Literacy Support
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 7 studies (4 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (4 review, 1 causal, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 2 of 7 report an effect size
 
 ## Description
 Home-based literacy support is a strategy in which schools equip families with the materials, routines, and instructional guidance needed to reinforce reading and writing development outside the classroom. It typically combines structured activities (shared book reading, word games, guided home reading), parent coaching on *how* to interact productively, and ongoing communication between teachers and families about the child's current reading level and goals.
@@ -49,7 +49,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 ### Target Learning Goals
 - Oral reading fluency and automaticity through repeated home reading
 - Vocabulary and language development via shared reading and conversation
-- Reading motivation and habit formation — positive home experiences build [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) as readers [+M]
+- Reading motivation and habit formation — positive home experiences build [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] as readers
 
 ### Instructions
 1. Assess the child's current reading level and select matched take-home texts ([Assessment](../elements/assessment.md)).
@@ -76,7 +76,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
 
 ## Examples
-- **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.
+- **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.
 - **[Raising a Reader](https://www.raisingareader.org)** — a national program rotating high-quality book bags into homes weekly, paired with parent training on shared-reading techniques.
 - **[Reading Rockets' "Reading Tips for Parents"](https://www.readingrockets.org/topics/parent-tips)** — free, research-based parent guidance sheets in multiple languages, usable as low-cost program materials.
 

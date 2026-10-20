@@ -45,3 +45,7 @@ Critical duration study (Experiment 4): stimuli shown for fixed durations, accur
 ## Related Claims
 
 - [A single-parameter change in feed-forward connection strength in a neural decision model captures VGP behavior, including faster RTs with stable accuracy](neural-model-single-parameter-feedforward-captures-vgp.md)
+- [VGPs respond faster than NVGPs with equivalent accuracy, and the RT advantage is larger at low motion coherence](vgp-faster-rt-equivalent-accuracy-coherence-interaction.md) — related
+- [Action video-game players show greater integration rate (sensitivity) than non-players in a visual motion direction discrimination task](vgp-greater-integration-rate-motion-ddm.md) — related
+- [According to a probabilistic population neural model, VGPs make better use of the evidence, with log odds 19% higher than NVGPs in the motion task](vgp-better-posterior-log-odds-motion.md) — related
+- [The improved probabilistic inference of VGPs generalizes to a novel auditory tone-location discrimination task](vgp-improved-inference-auditory-task.md) — related

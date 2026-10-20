@@ -46,3 +46,4 @@ Planned pairwise contrast from the MANOVA profile analysis comparing the two ina
 - [Inadequate responders to fourth-grade reading intervention show lower verbal knowledge and listening comprehension than adequate responders and typical readers](inadequate-responders-lower-oral-language-than-adequate.md) — related
 - [The multivariate omnibus test shows significant cognitive profile differences across the four reader groups](omnibus-cognitive-profile-differences-four-groups.md) — a broader claim this one bears on
 - [Adequate responders differ from typical readers on verbal knowledge, listening comprehension, working memory, and phonological awareness](adequate-responders-still-below-typical-on-cognitive-measures.md) — related
+- [A meta-analysis attributes the strongest predictors of nonresponsiveness to rapid naming and problem behavior](meta-analysis-predictors-of-nonresponsiveness.md) — related

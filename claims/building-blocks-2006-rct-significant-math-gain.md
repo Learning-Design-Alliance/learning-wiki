@@ -47,3 +47,4 @@ Randomized controlled trial with 28 teachers and 202 children from low- to mixed
 - [Building Blocks for Math has positive effects on preschool mathematics achievement according to the WWC](building-blocks-prek-positive-effects-math.md) — a broader claim this one bears on
 - [In a 2007 randomized trial, Building Blocks for Math significantly improved geometry but not number outcomes](building-blocks-2007-geometry-significant-number-null.md) — related
 - [In a large-scale 106-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 0.48 (improvement index +18)](building-blocks-clements-2011-scale-up-effect.md) — related
+- [In a 28-classroom cluster randomized trial, Building Blocks raised end-of-intervention REMA scores with an effect size of 1.07 (improvement index +36)](building-blocks-clements-2008-large-effect.md) — related

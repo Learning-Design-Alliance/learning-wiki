@@ -49,6 +49,7 @@ The essay discriminates four levels of cross-cultural awareness: Level I, awaren
 ## Examples
 
 - [Use stereotype-awareness and cross-cultural activities to surface assumptions about NESB staff](../strategies/stereotype-awareness-cultural-activities.md)
+- [Immerse in the culture, integrate learner feedback up front, and use formative evaluation to find gaps needing bridges](../strategies/gap-finding-immersion-feedback-formative-evaluation.md)
 
 ## Key Sources
 - Hanvey, Robert G. (1975). An Attainable Global Perspective. Center for War/Peace Studies. https://eric.ed.gov/?id=ED116993

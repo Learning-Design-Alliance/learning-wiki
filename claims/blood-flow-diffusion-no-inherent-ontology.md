@@ -43,4 +43,6 @@ Addressing the SO framework's flagship contrast between blood flow (direct proce
 
 
 ## Related Claims
--
+- [Expert physicists apply matter-based predicates to non-material concepts in professional discourse](experts-use-matter-predicates-for-nonmaterial-concepts.md) — related
+- [Everyday language routinely and productively crosses ontological categories](everyday-language-crosses-ontological-categories.md) — a broader claim this one bears on
+- [Experts' ontological choices about the same physical phenomenon are context-dependent](expert-ontological-choices-context-dependent.md) — related

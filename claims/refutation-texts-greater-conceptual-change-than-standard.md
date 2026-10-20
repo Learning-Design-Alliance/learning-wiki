@@ -43,4 +43,4 @@ Planned orthogonal contrast in the randomized experiment (N = 96, 32 per conditi
 
 
 ## Related Claims
--
+- [Refutation texts did not promote beneficial selection of multimedia material by student teachers](refutation-texts-no-transfer-material-selection.md) — related

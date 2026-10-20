@@ -19,7 +19,7 @@ sources:
 > **Evidence** · 3 claims (3 for) · 1 study (1 theoretical), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
-The paper describes distributed cognition as extending the unit of analysis beyond the individual to the context in which the individual operates, so that "cognition is seen as less a function of the individual as much as a function of an overall system that includes groups of individuals and their tools" (Hutchins, 1995). Cognition may be distributed socially across groups or across artifacts and tools, or both, and situational factors such as social processes can be treated as integral to the cognitive process. The paper notes criticisms that the account risks equating people and artifacts, and that proponents like Salomon and Pea introduced distinctions to avoid that equivalence.
+The paper describes distributed cognition as extending the unit of analysis beyond the individual to the context in which the individual operates, so that "cognition is seen as less a function of the individual as much as a function of an overall system that includes groups of individuals and their tools" ([Hutchins, 1995](https://doi.org/10.7551/mitpress/1881.001.0001)). Cognition may be distributed socially across groups or across artifacts and tools, or both, and situational factors such as social processes can be treated as integral to the cognitive process. The paper notes criticisms that the account risks equating people and artifacts, and that proponents like Salomon and Pea introduced distinctions to avoid that equivalence.
 
 ## Design Implications
 

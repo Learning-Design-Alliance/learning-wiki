@@ -20,7 +20,7 @@ A researcher-administered, norm-referenced picture-based assessment developed by
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-- **PPVT-III as an independent standardized measure of receptive vocabulary**: The Peabody Picture Vocabulary Test (PPVT-III; Dunn & Dunn, 1997) served as the vocabulary outcome measure, administered by a researcher at child ages 30, 42, and 54 months. The authors chose it because "the PPVT is a widely used measure of vocabulary skill and, importantly, because it provides data that is independent from the parent-child interaction." This independence allowed the study to test whether caregiver input predicts vocabulary skill measured outside the interaction, avoiding contamination from concurrent caregiver speech. Raw scores were converted to age-appropriate standardized scores based on published norms. (Rowe Meredith L (2012))
+- **PPVT-III as an independent standardized measure of receptive vocabulary**: The Peabody Picture Vocabulary Test (PPVT-III; [Dunn & Dunn, 1997](https://doi.org/10.1097/00001163-199704000-00005)) served as the vocabulary outcome measure, administered by a researcher at child ages 30, 42, and 54 months. The authors chose it because "the PPVT is a widely used measure of vocabulary skill and, importantly, because it provides data that is independent from the parent-child interaction." This independence allowed the study to test whether caregiver input predicts vocabulary skill measured outside the interaction, avoiding contamination from concurrent caregiver speech. Raw scores were converted to age-appropriate standardized scores based on published norms. (Rowe Meredith L (2012))
 
 ### Claims
 

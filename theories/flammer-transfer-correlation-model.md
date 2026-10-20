@@ -44,7 +44,8 @@ The model treats tasks as sets of mutually independent hypothetical elements who
 - 
 
 ## Examples
--
+
+- [Systematic Instructional Design](../processes/systematic-instructional-design.md)
 
 ## Key Sources
 - Flammer, A. (1973). A Conceptual Model Relating Transfer of Learning and Correlation: Theoretical Paper No. 43. Wisconsin Research and Development Center for Cognitive Learning. https://eric.ed.gov/?id=ED085637

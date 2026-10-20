@@ -41,4 +41,5 @@ The review's overall narrative synthesis of 29 studies (2,693 children in music 
 
 
 ## Related Claims
--
+- [Music training is associated with improved inhibitory control in children, though the largest studies found no executive function differences](music-training-improves-inhibitory-control-children.md) — related
+- [In adolescents, prior music training was associated with faster test completion times but no executive function performance differences](music-training-adolescents-faster-completion-times.md) — related

@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 77 claims (57 show a difference, 10 mixed, 10 no difference) · 58 studies (19 causal, 18 associational, 13 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 16 of 58 report an effect size · 74 claims rest on one study
+> **Evidence** · 78 claims (58 show a difference, 10 mixed, 10 no difference) · 59 studies (19 causal, 18 associational, 14 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 16 of 59 report an effect size · 75 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.
@@ -118,6 +118,7 @@ The page sits within the wiki's broader [reading and language](reading-and-langu
 - [Vocabulary uniquely predicts local coherence inference making for 6- and 8-year-olds, but neither vocabulary nor working memory predicts it for 10-year-olds](../claims/vocabulary-unique-predictor-local-coherence-younger-children.md) [~W] — learners who differ on it differ in outcomes
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Explicit instruction in individual English word meanings, rich in-depth vocabulary instruction, visuals, L1 use, and word-learning strategies improved MLs' English vocabulary](../claims/vocabulary-instruction-practices-improve-ml-english-vocabulary.md) [+M] — instruction changes it
 
 ## Measures
 - **Peabody Picture Vocabulary Test, Fifth Edition (PPVT-5)** (Dunn, 2018): receptive vocabulary for learners of all ages (earlier edition: Dunn & Dunn, 2007).

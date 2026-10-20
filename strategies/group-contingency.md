@@ -15,7 +15,7 @@ generated:
 > **Evidence** · no claims cited
 
 ## Description
-A group contingency is an arrangement in which access to a reward or privilege is contingent on behavior at the group level, rather than on each individual's behavior alone. The instructor announces a clear behavioral criterion, monitors performance, and delivers (or withholds) the shared consequence for the entire class or team. Three canonical forms exist: **dependent** (the group's outcome hinges on one designated student's behavior), **interdependent** (the group must collectively meet a criterion, e.g., a class average or shared goal), and **independent** (each member meeting the criterion earns the reward for themselves, but the arrangement is administered to the whole group) [Litow & Pumroy, 1975].
+A group contingency is an arrangement in which access to a reward or privilege is contingent on behavior at the group level, rather than on each individual's behavior alone. The instructor announces a clear behavioral criterion, monitors performance, and delivers (or withholds) the shared consequence for the entire class or team. Three canonical forms exist: **dependent** (the group's outcome hinges on one designated student's behavior), **interdependent** (the group must collectively meet a criterion, e.g., a class average or shared goal), and **independent** (each member meeting the criterion earns the reward for themselves, but the arrangement is administered to the whole group) ([Litow & Pumroy, 1975](https://doi.org/10.1901/jaba.1975.8-341)).
 
 ## Design Implications
 

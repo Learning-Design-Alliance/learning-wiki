@@ -45,3 +45,6 @@ The same two-way ANOVA (N = 90) found no significant learning-material differenc
 ## Related Claims
 
 - [Learning mechanisms are triggered to a greater extent for non-STEM-background students in the narrative condition and for STEM-background students in the expository condition](learning-mechanisms-moderated-by-educational-background.md)
+- [Prior biology knowledge tentatively moderates material effectiveness: non-STEM students favor narratives, STEM students favor expository texts for recall and understanding](prior-knowledge-moderates-narrative-effectiveness.md) — related
+- [Narrative instruction produces higher transfer performance than expository instruction in undergraduate biology learning](narrative-instruction-higher-transfer-biology.md) — reports the opposite
+- [Narrative instruction leads to higher germane cognitive load and self-efficacy, and lower extraneous cognitive load, than expository instruction](narrative-instruction-learning-mechanisms-cognitive-load-self-efficacy.md) — related

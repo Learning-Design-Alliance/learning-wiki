@@ -38,7 +38,7 @@ Learning a concept means learning which features matter and which do not; multip
 - Unguided discovery of patterns can overload novices; without prompts or prior knowledge, learners may extract the wrong regularity [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
 - Learners with high prior knowledge may find guided comparison redundant and benefit more from independent abstraction [~M]
 - If the pattern is stated before examples are studied, learners may simply confirm it rather than discriminate features [~M]
-- If all examples share surface features, learners induce the wrong pattern and fail to transfer [Chi et al., 1981] [-M]
+- If all examples share surface features, learners induce the wrong pattern and fail to transfer ([Chi et al., 1981](https://doi.org/10.1207/s15516709cog0502_2)) [-M]
 - Unguided pattern search can overload novices; minimal guidance during discovery is less effective than guided comparison for learners with low prior knowledge [~S]
 - Patterns that are artificial or imposed (e.g., arbitrary mnemonics with no structural relation to content) produce brittle, quickly forgotten associations [-W]
 - Learners with strong prior knowledge may gain little from guided comparison and benefit more from direct abstraction [~M]
@@ -58,7 +58,7 @@ Learning a concept means learning which features matter and which do not; multip
 - Novices who otherwise anchor on surface features when classifying problems [Comparing multiple analogs improves analogical transfer.](https://doi.org/10.1016/0010-0285(83)90018-3) [+S]
 - Intermediate learners building flexible, multi-case representations of a domain [Multiple varied examples improve transfer by highlighting invariant structure.](../claims/cognitive-flexibility-theory-multiple-cases.md) [+M]
 - Less effective as pure discovery for complete novices without comparison prompts [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-S]
-- Novices who lack organized schemas and default to surface-feature reasoning [Chi et al., 1981] [+M]
+- Novices who lack organized schemas and default to surface-feature reasoning ([Chi et al., 1981](https://doi.org/10.1207/s15516709cog0502_2)) [+M]
 - Learners who struggle with rote memorization and benefit from meaningful structure
 - Intermediate learners ready to move from recognizing instances to abstracting principles; fully guided comparison may be redundant for experts [~M]
 
@@ -68,7 +68,7 @@ Learning a concept means learning which features matter and which do not; multip
 - Transfer: applying structure learned in one context to superficially different contexts
 - Discrimination: distinguishing genuine instances from plausible non-instances
 - Schema formation: building categories organized by deep structure
-- Transfer: applying a learned structure to novel problems with different surface features [Schwartz & Bransford, 1998] [+M]
+- Transfer: applying a learned structure to novel problems with different surface features ([Schwartz & Bransford, 1998](https://doi.org/10.1207/s1532690xci1604_4)) [+M]
 - Discrimination learning: distinguishing superficially similar cases that differ structurally
 - Conceptual understanding in domains with strong underlying regularities (mathematics, grammar, scientific classification)
 
@@ -92,7 +92,7 @@ Learning a concept means learning which features matter and which do not; multip
 - **[Concept Attainment](../patterns/concept-attainment.md)** — Bruner's model presents positive and negative instances; learners induce the defining attributes, making pattern detection the core activity.
 - **[Schwartz & Bransford's contrasting cases](https://doi.org/10.1207/s15516709cog2204_2)** — students analyze contrasting graphical data patterns before a lecture, which doubles later learning from the explanation.
 - **Chess instruction** — learners study master games position-by-position, building a repertoire of board patterns ([Chase & Simon, 1973](https://doi.org/10.1016/0010-0285(73)90004-0)).
-- **Physics problem sorting** — students sort problems into categories by solution principle rather than topic, directly training deep-structure recognition [Chi et al., 1981].
+- **Physics problem sorting** — students sort problems into categories by solution principle rather than topic, directly training deep-structure recognition ([Chi et al., 1981](https://doi.org/10.1207/s15516709cog0502_2)).
 
 ## Key Sources
 - Gick, M. L., & Holyoak, K. J. (1983). Schema induction and analogical transfer. *Cognitive Psychology, 15*(1), 1–38. [doi:10.1016/0010-0285(83)90002-6](https://doi.org/10.1016/0010-0285(83)90002-6)

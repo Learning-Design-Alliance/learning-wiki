@@ -43,9 +43,11 @@ Counterbalanced within-subject sleep manipulation of 16 healthy adolescents (5 n
 
 
 ## Related Claims
+
 - [Experimental sleep restriction causally extends adolescent sleep-loss effects beyond sleepiness to attention and learning](sleep-restriction-effects-extend-beyond-sleepiness.md) — a broader claim this one bears on
 - [Sleep restriction increases objectively coded inattentive behaviors in a simulated classroom](sleep-restriction-increases-inattentive-classroom-behaviors.md) — related
 - [Sleep restriction lowers tonic arousal (raises EEG theta power) in a simulated classroom, with a medium effect](sleep-restriction-lowers-tonic-arousal-classroom.md) — related
 - [Weekly average sleep measures show no association with working memory performance in older adolescents](weekly-sleep-no-working-memory-association.md) — related
 - [Free-living sleep measures show no association with visual attention task performance in older adolescents](sleep-no-visual-attention-association.md) — related
 - [Adolescents with 7 hours or less total rest time show longer 3-back response times, both acutely and averaged over the week](seven-hour-rest-threshold-3back-response.md) — related
+- [Poorer sleep quality is associated with poorer Stroop Word and Color-Word performance in healthy older adults after controlling for hypertension and carbohydrate intake](poorer-sleep-quality-associated-poorer-stroop-word-color-word-performance.md)

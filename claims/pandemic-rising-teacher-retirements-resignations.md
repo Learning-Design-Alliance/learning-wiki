@@ -46,3 +46,4 @@ Fall 2020 interviews with California district leaders. Five districts reported i
 ## Related Claims
 - [Increased retirements and resignations contributed to shortages in most large districts surveyed](retirements-resignations-contributed-shortages.md) — related
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
+- [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — related

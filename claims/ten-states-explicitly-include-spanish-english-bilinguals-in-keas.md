@@ -64,3 +64,6 @@ Interpretive conclusion drawn from the scan's Table 1 counts, which categorized 
 
 - [As of May 2024, 37 states require that some type of statewide or district-level KEA be administered to all incoming kindergarten students](37-states-require-kea-2024.md) — related
 - [Only 15 states and the District of Columbia mandate kindergarten attendance, and 11 of those states require students to take a KEA](15-states-mandate-kindergarten-attendance.md)
+- [Spanish–English bilinguals performed better on kindergarten mathematics assessments when tested in Spanish](bilinguals-better-math-tested-in-spanish.md) — related
+- [Spanish use at home does not limit English learning: young Spanish–English bilinguals with more Spanish at school entry show higher English skills by year's end](spanish-home-use-does-not-limit-english-learning.md) — related
+- [Teaching students in a language they understand benefits both language learning and broader learning](cl-teaching-in-language-students-understand-improves-learning.md) — related

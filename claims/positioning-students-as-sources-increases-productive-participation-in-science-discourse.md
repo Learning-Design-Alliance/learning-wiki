@@ -56,3 +56,4 @@ The authors are explicit that the co-variation between student-resource invocati
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - Outdoor learning activities with Elders increased participation among children who rarely spoke or answered questions in class — related
 - [Translanguaging practices briefly afforded multilingual participation, but this positioning did not endure across the unit](translanguaging-afforded-participation-not-enduring.md) — related
+- [The IRE classroom discourse structure constrains students' everyday mathematical register, conjectures, and participation of lower socioeconomic groups](ire-structure-constrains-math-participation.md) — a narrower finding that bears on this claim

@@ -65,3 +65,4 @@ Cortisol reactivity analysis comparing the stress group with a randomly-selected
 - [Acute stress impaired cognitive flexibility in men (more perseverative errors than male controls)](acute-stress-impairs-flexibility-men.md) — related
 - [Prior studies support the experiential canalization framework: preschoolers in poverty are almost five times as likely to show disrupted diurnal cortisol patterns, and increased economic hardship is associated with significantly lower cognitive self-regulation](poverty-stress-physiology-self-regulation-evidence.md) — related
 - [Acute stress did not significantly affect women's cognitive flexibility](acute-stress-no-effect-women-flexibility.md) — related
+- [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related

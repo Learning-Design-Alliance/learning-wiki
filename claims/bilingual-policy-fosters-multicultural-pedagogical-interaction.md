@@ -46,3 +46,6 @@ In the findings' language-and-bilingual-policy-in-practice section, the meta-ana
 - [Reasons for applying bilingual education in Indonesian universities are internationalization, foreign language competencies, and law implementation](bilingual-education-reasons-internationalization-law.md) — related
 - [Bilingual language policy implementation in Indonesian higher education is categorized as the preservation of local and national identity](bilingual-policy-preserves-local-national-identity-indonesia.md) — related
 - [Indonesian university bilingual programs pursue three aims: teaching overseas, international-standard schools, and global competence](bilingual-education-three-aims-internationalization.md) — related
+- [Immersion and submersion programs differ socioculturally, communicating success versus failure to children](immersion-submersion-sociocultural-contrast.md) — a broader claim this one bears on
+- [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — a broader claim this one bears on
+- [Teacher repetition and translation as unplanned scaffolding can hinder rather than facilitate learning](repetition-translation-scaffolding-hinders-learning.md) — related

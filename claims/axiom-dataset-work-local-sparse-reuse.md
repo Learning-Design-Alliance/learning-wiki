@@ -45,3 +45,4 @@ Descriptive audit of the JSON snapshot, recomputed with standard-library Python 
 ## Related Claims
 - [Audit finds the stored context fields do not operationally distinguish contextual-scope Types C and D](context-type-c-d-not-operationally-distinguished.md) — related
 - [Contrasting stored skeletons: Hamlet emphasizes epistemic hesitation and contamination, To Live emphasizes endurance and historical contingency](contrasting-skeletons-hamlet-to-live.md) — related
+- [Educational ontologies are rarely used in practical e-learning platforms, mainly due to cost, complexity, integration, performance, and scalability problems, which ontology reuse can partially overcome](ontology-adoption-barriers-practical-elearning.md) — related

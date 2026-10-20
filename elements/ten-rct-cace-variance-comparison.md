@@ -42,6 +42,7 @@ An empirical analysis component of the report in which the authors "used data fr
 ## Related Elements
 
 - [Set of 10 large-scale education RCTs used to compare CACE variance formula significance findings](ten-education-rcts-cace-comparison-dataset.md)
+- [Empirical example using data from a multi-armed education RCT](empirical-example-multi-armed-education-rct.md)
 
 ## Examples
 -

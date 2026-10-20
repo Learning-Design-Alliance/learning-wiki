@@ -43,4 +43,7 @@ Within-subject experiment with 54 university students; one-week-delayed posttest
 
 
 ## Related Claims
--
+- [Holistic retrieval via free-recall improves retention of non-targeted information, but only on the free-recall posttest](holistic-retrieval-improves-non-targeted-information-free-recall-posttest.md) — related
+- [Overall posttest performance does not differ between targeted and holistic retrieval conditions](no-overall-performance-difference-between-retrieval-task-types.md) — related
+- [Retrieval practice improves long-term retention](retrieval-practice-improves-retention.md) — a broader claim this one bears on
+- [Practicing retrieval of some portions of an educational text can enhance retention of related nontested portions (retrieval-induced facilitation), but not when relational encoding is disrupted](retrieval-induced-facilitation-of-nontested-text-material-requires-relational-encoding.md) — related

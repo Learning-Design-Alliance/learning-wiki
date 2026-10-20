@@ -19,7 +19,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The presentation adds culturally sustaining pedagogy (citing Paris, 2012; Paris & Alim, 2014; Wilson-Lopez, 2016) as a fourth 'C' alongside the project's competencies, curricula, and credentialing. It defines three commitments: CSP "Foregrounds students' cultural practices, and it seeks the maintenance of these cultural practices as a primary goal, rather than using them solely as bridges to academic practices"; it seeks to "honor, explore and extend" heritage and evolving contemporary practices; and it "Encourages students to reflectively critique both dominant and non-dominant cultural practices".
+The presentation adds culturally sustaining pedagogy (citing Paris, 2012; [Paris & Alim, 2014](https://doi.org/10.17763/haer.84.1.982l873k2ht16m77); Wilson-Lopez, 2016) as a fourth 'C' alongside the project's competencies, curricula, and credentialing. It defines three commitments: CSP "Foregrounds students' cultural practices, and it seeks the maintenance of these cultural practices as a primary goal, rather than using them solely as bridges to academic practices"; it seeks to "honor, explore and extend" heritage and evolving contemporary practices; and it "Encourages students to reflectively critique both dominant and non-dominant cultural practices".
 
 ## Design Implications
 

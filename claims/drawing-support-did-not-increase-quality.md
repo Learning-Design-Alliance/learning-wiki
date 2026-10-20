@@ -43,4 +43,4 @@ ANOVA on drawing quality across the three drawing conditions, F(2,114) = 31.26, 
 
 
 ## Related Claims
--
+- [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — reports the opposite

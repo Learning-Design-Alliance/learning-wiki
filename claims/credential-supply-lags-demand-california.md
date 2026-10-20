@@ -59,3 +59,4 @@ Analysis of CTC credential data and California Department of Education hire esti
 - [California saw a modest increase in newly prepared teachers beginning in 2020, though completers remain about half the 2004 peak](california-modest-increase-teacher-completers-2020-2021.md) — related
 - [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — related
 - [District leaders attribute limited pools of fully credentialed applicants to licensure testing requirements and inadequate financial aid for teacher preparation](licensure-testing-and-cost-barriers-limit-teacher-pipeline.md) — related
+- [Teacher education enrollments dropped 35% between 2009 and 2014, from 691,000 to 451,000](teacher-prep-enrollment-decline-35-percent.md) — related

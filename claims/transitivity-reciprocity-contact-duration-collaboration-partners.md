@@ -45,3 +45,6 @@ The editorial reports the Eberle et al. study, an intervention study at two CSCL
 ## Related Claims
 
 - [PhD students and Information Technology researchers were selected less often as new collaboration partners, and group awareness support balanced the disciplinary difference, per the editorial's report of Eberle et al.](career-discipline-differentials-partner-selection-ga-balanced.md)
+- [Transitivity predicts the initiation of new potential collaborations at scientific events](transitivity-predicts-new-collaboration-initiation.md) — a narrower finding that bears on this claim
+- [Longer face-to-face contact during a scientific event increases the likelihood that a researcher selects the other as a new potential collaboration partner](contact-duration-predicts-new-collaboration-partner-selection.md) — a narrower finding that bears on this claim
+- [Reciprocity predicts the initiation of new potential collaborations at scientific events](reciprocity-predicts-new-collaboration-initiation.md) — a narrower finding that bears on this claim

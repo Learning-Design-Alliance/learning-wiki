@@ -227,3 +227,5 @@ The effectiveness of self-explanation can be limited by a learner's prior knowle
 - [Self-explaining worked examples improve declarative knowledge of CDR strategies more than solving problems](worked-examples-improve-cdr-declarative-knowledge.md) — a narrower finding that bears on this claim
 - [Closed-book self-explanation prompts show no added value on delayed posttest performance, even with prior active processing of instructional explanations](closed-book-no-delayed-posttest-added-value.md) — a narrower finding that bears on this claim
 - [Frequent use of reflective prompts related to better strategic problem-solving and conceptual understanding](reflective-prompts-frequency-problem-solving.md) — a narrower finding that bears on this claim
+- [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — related
+- [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related

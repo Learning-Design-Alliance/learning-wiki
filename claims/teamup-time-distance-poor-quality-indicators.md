@@ -46,3 +46,5 @@ Regression analysis of team structure and quality factors on the three in-game p
 
 - [Team psychological safety and team member exchange are not significantly correlated with TEAMUP in-game performance indicators](teamup-psych-safety-exchange-null.md)
 - [TEAMUP in-game performance varies widely across teams, with errors ranging from 2 to 37](teamup-performance-wide-distribution.md)
+- [Team structure factors (gender, age, game experience) markedly influence TEAMUP speed and distance but not avoidable mistakes](teamup-structure-drives-time-distance-not-errors.md) — possibly the same claim (merge candidate)
+- [In-game avoidable mistakes in TEAMUP are significantly and markedly explained by team cohesiveness, not by team structure variables](teamup-errors-explained-by-cohesiveness.md) — related

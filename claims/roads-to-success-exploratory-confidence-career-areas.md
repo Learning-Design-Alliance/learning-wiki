@@ -47,3 +47,5 @@ The report's summary of the Roads to Success evaluation identifies two confidenc
 - [Exploratory analyses suggest Roads to Success positively impacted eighth graders' talking to school staff about career and school plans](roads-to-success-exploratory-positive-talking-to-staff.md) — related
 - [Estimated impacts of Roads to Success on student behaviors were mixed](roads-to-success-mixed-behavior-impacts.md) — related
 - [Two years of Roads to Success exposure had no measurable effect on eighth graders' desire to learn job skills or their study and learning habits](roads-to-success-no-effect-desire-job-skills-study-habits.md) — related
+- [Career adaptability positively predicts college students' career decisions](career-adaptability-positively-predicts-career-decisions.md) — related
+- [IPS implemented with adult support and regular review may increase students’ academic engagement, agency, career-relevant knowledge and skills, and college/career drive](ips-with-adult-support-and-review-associated-outcomes.md) — related

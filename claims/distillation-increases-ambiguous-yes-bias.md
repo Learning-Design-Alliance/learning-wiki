@@ -43,4 +43,4 @@ Confusion-matrix analysis of the Mistake Identification task before (Figure 2) a
 
 
 ## Related Claims
--
+- [Verification bottleneck: as reliance on AI increases, accuracy in detecting AI errors decreases while confidence does not](verification-bottleneck-confidence-dissociation.md) — related

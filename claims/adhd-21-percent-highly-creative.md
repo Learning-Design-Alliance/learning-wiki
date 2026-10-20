@@ -50,3 +50,4 @@ Descriptive analysis of the 34-child ADHD group's Creativity Index against age-a
 - [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](adhd-children-higher-creativity-index.md) — related
 - [Unmedicated children with ADHD score higher than controls on TTCT Creative Strengths](adhd-children-higher-creative-strengths.md) — related
 - [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related
+- [Unmedicated children with ADHD score higher than controls on TTCT-Figurative Originality](adhd-children-higher-ttct-originality.md) — related

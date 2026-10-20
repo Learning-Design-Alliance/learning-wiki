@@ -43,4 +43,4 @@ In the conditional process model with shifting as moderator (N = 74), the treatm
 
 
 ## Related Claims
--
+- [Self-explanation quality does not mediate the worked example effect on learning gains in ill-defined statistics problems](no-self-explanation-quality-mediation-worked-example-effect.md) — related

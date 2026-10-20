@@ -12,7 +12,7 @@ generated:
 # Audio + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (2 causal, 2 quant-synthesis, 1 associational), `q2`–`q4` · 1 of 5 report an effect size · 1 claim rests on one study
 
 ## Description
 Students engage with audio resources — podcasts, voice-recorded lectures, music, or dramatized audio — paired with a structured activity that requires them to process, apply, or respond to what they hear. The activity converts passive listening into active engagement: note-taking against a prompt, answering embedded questions, annotating a transcript, or applying the content to a task. Audio is also a low-bandwidth, low-cost medium, making it more accessible than video for learners with limited connectivity.
@@ -37,7 +37,7 @@ Audio alone is a transient, single-channel medium; without structure, listeners 
 #### Implementation Variability
 - **Pre-listening structure**: [Advance Organizers](../elements/advance-organizers.md) or guiding questions given before listening to direct attention
 - **During-listening structure**: guided notes, embedded pauses with questions, or [Annotating](../principles/annotating.md) a transcript while listening
-- **Post-listening structure**: [Practice](../elements/practice.md) problems, [Application](../elements/application.md) tasks, discussion, or [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) prompts requiring learners to reconstruct the audio content in their own words
+- **Post-listening structure**: [Practice](../elements/practice.md) problems, [Application](../elements/application.md) tasks, discussion, or [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] prompts requiring learners to reconstruct the audio content in their own words
 - **Segmented audio**: short clips interleaved with activities, mirroring chunked video designs
 
 ### Target Learners

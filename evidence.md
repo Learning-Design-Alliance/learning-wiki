@@ -6,14 +6,14 @@ What the wiki's evidence adds up to. Every number counts **distinct studies**, k
 
 ## In short
 
-The wiki holds **6,033 distinct studies** behind 22,556 claims. What they add up to (the sections below have the detail):
+The wiki holds **6,068 distinct studies** behind 22,732 claims. What they add up to (the sections below have the detail):
 
 - **Few studies can show a cause.** 30% are experiments or systematic reviews (`q3` or `q4`); only 2% are pre-registered trials or well-powered meta-analyses (`q4`). 58% are quasi-experiments, observational studies or narrative reviews, and 12% are case studies, opinion or theory.
-- **Few print an effect size.** 1,385 of 6,033 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
-- **Strong work is not only trials.** 610 studies are rated `r3`, done well for their kind; 397 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
+- **Few print an effect size.** 1,396 of 6,068 studies (23%) report one for the finding the wiki cites; the rest report a significance test, a description, or nothing that says how large an effect was.
+- **Strong work is not only trials.** 622 studies are rated `r3`, done well for their kind; 404 of them are qualitative, design, theoretical or review work, which the design tier alone would rank low.
 - **Most findings stand alone.** 98% of claims rest on one study; a finding reported once, in one setting, has not been shown to hold elsewhere.
 - **Not all research reaches design.** 71% of studies, and 44% of claims, are cited by a principle, pattern, element, strategy or design; the rest are recorded but not connected to a design decision, either because none has been written or because the finding does not bear on one.
-- **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 45% moderate and 50% weak, and 49% supporting, 46% conditional and 6% against.
+- **Principles and patterns.** Of 224 pages written in the conditional format, 106 have research testing their central relationship, at least in part, and 118 carry a labelled default design because nothing in the wiki tests it. Their citations of claims are 5% strong, 45% moderate and 50% weak, and 49% supporting, 46% conditional and 5% against.
 
 These figures describe two things at once: what education research has produced, and what this wiki has collected so far. As inclusion is held to a higher standard the second will move; the first is why it has to.
 
@@ -21,32 +21,32 @@ These figures describe two things at once: what education research has produced,
 
 | | |
 |---|---|
-| Claims | 22,556 |
-| Evidence entries | 26,942 |
-| Distinct studies | 6,033 |
-| Claims resting on one study | 22,044 (98%) |
+| Claims | 22,732 |
+| Evidence entries | 27,138 |
+| Distinct studies | 6,068 |
+| Claims resting on one study | 22,219 (98%) |
 | Claims with no coded evidence | 0 |
-| Studies reporting an effect size | 1,385 of 6,033 (23%) |
+| Studies reporting an effect size | 1,396 of 6,068 (23%) |
 
 **Studies by kind and rigour** (rigour is judged against the standard of the study's own kind, so an `r3` interview study and an `r3` trial are each strong for what they are; `r?` means the text available could not show it):
 
 | kind | r3 | r2 | r1 | r? | all |
 |---|---|---|---|---|---|
-| causal | 78 | 773 | 262 | 357 | 1,470 |
-| quant-synthesis | 71 | 141 | 38 | 120 | 370 |
-| review | 104 | 408 | 103 | 125 | 740 |
-| associational | 64 | 894 | 356 | 267 | 1,581 |
-| qualitative | 123 | 319 | 68 | 88 | 598 |
+| causal | 79 | 774 | 262 | 358 | 1,473 |
+| quant-synthesis | 75 | 144 | 38 | 120 | 377 |
+| review | 107 | 418 | 103 | 125 | 753 |
+| associational | 64 | 895 | 358 | 267 | 1,584 |
+| qualitative | 124 | 319 | 68 | 88 | 599 |
 | design | 59 | 534 | 131 | 32 | 756 |
-| theoretical | 111 | 297 | 53 | 57 | 518 |
+| theoretical | 114 | 300 | 55 | 57 | 526 |
 
 **Studies by design tier `q`** (the causal-design ladder; where one study is coded differently on two claims, the tier most of its entries give):
 
 | q1 case / opinion / theory | q2 quasi-experiment, observational, narrative review | q3 experiment or systematic review | q4 pre-registered RCT or well-powered meta-analysis |
 |---|---|---|---|
-| 748 (12%) | 3,496 (58%) | 1,658 (27%) | 131 (2%) |
+| 753 (12%) | 3,512 (58%) | 1,671 (28%) | 132 (2%) |
 
-**Studies per claim:** 0: 0, 1: 22,044, 2: 430, 3: 66, 4 or more: 16.
+**Studies per claim:** 0: 0, 1: 22,219, 2: 431, 3: 66, 4 or more: 16.
 
 Most claims rest on one study because of how the wiki grows: an extraction turns one article into claims, so every new claim starts with exactly one source, and gains a second only when a later article is merged into it. The single-study share measures how much merging remains, as much as it measures the literature.
 
@@ -83,31 +83,31 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 
 | Claim | Cited from | Studies | q | Effect size reported |
 |---|---|---|---|---|
-| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 575 pages | 3 | q2–q3 | 0 of 3 |
-| [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 473 pages | 4 | q2–q4 | 1 of 4 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 395 pages | 2 | q4 | 2 of 2 |
-| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 381 pages | 3 | q1–q4 | 1 of 3 |
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 347 pages | 2 | q3–q4 | 1 of 2 |
+| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 571 pages | 3 | q2–q3 | 0 of 3 |
+| [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 472 pages | 4 | q2–q4 | 1 of 4 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 393 pages | 2 | q4 | 2 of 2 |
+| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 378 pages | 3 | q1–q4 | 1 of 3 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 345 pages | 2 | q3–q4 | 1 of 2 |
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 328 pages | 2 | q2 | 0 of 2 |
-| [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 310 pages | 2 | q3 | 0 of 2 |
+| [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 309 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 245 pages | 3 | q3–q4 | 1 of 3 |
 | [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 230 pages | 2 | q3 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 228 pages | 3 | q1–q3 | 0 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 219 pages | 3 | q2–q4 | 2 of 3 |
-| [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 213 pages | 3 | q2–q3 | 2 of 3 |
+| [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 212 pages | 3 | q2–q3 | 2 of 3 |
 | [Spaced Practice Improves Retention](claims/spaced-practice-improves-retention.md) | 189 pages | 5 | q3–q4 | 2 of 5 |
-| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 181 pages | 5 | q2–q4 | 0 of 5 |
+| [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 180 pages | 5 | q2–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 171 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 170 pages | 2 | q3 | 0 of 2 |
 | [Advance organizers aided learning in a 1980 meta-analysis, but activating prior topic …](claims/activation-improves-learning.md) | 151 pages | 3 | q3 | 1 of 3 |
 | [Learners invest more effort in tasks they perceive as interesting, personally important, …](claims/task-value-increases-motivation-and-engagement.md) | 128 pages | 2 | q2–q3 | 0 of 2 |
-| [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 107 pages | 2 | q3 | 0 of 2 |
+| [Process goals lead to better skill acquisition for novices than outcome goals.](claims/process-goals-outperform-outcome-goals-for-novices.md) | 106 pages | 2 | q3 | 0 of 2 |
 | [Worked-example guidance becomes less effective as learner expertise increases.](claims/worked-examples-less-effective-with-expertise.md) | 98 pages | 2 | q3 | 0 of 2 |
 | [In one 37-student classroom experiment, recall and retention differ across media …](claims/media-combinations-affect-recall-and-retention.md) | 90 pages | 1 | q3 | 0 of 1 |
 | [Adding relevant pictures or graphics to text improves learning from it, with a small …](claims/dual-coding-improves-learning.md) | 86 pages | 3 | q2–q4 | 1 of 3 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 85 pages | 6 | q2–q3 | 1 of 6 |
 | [In school studies, cooperative and peer-learning methods that reward groups on every …](claims/cooperative-learning-group-rewards-and-individual-accountability.md) | 82 pages | 3 | q2–q3 | 2 of 3 |
-| [Erroneous examples improve conceptual understanding by forcing comparison with correct …](claims/erroneous-examples-build-conceptual-knowledge.md) | 81 pages | 2 | q3 | 0 of 2 |
+| [Building Empathy Improves Intergroup Attitudes](claims/building-empathy-improves-intergroup-attitudes.md) | 80 pages | 3 | q3 | 0 of 3 |
 
 Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [In one 37-student classroom experiment, recall and retention differ …](claims/media-combinations-affect-recall-and-retention.md), [Part-task practice reduces cognitive load for absolute novices during …](claims/part-task-practice-reduces-load-for-novices.md), [Relevancy of emphasized text directs attention and influences test …](claims/relevancy-of-emphasis-directs-attention.md), [A training-design argument, not tested by any study recorded here, …](claims/whole-task-performance-improves-transfer.md), [Example-first conditions outperformed problem-first conditions on an …](claims/worked-example-problem-sequences.md), [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md).
 
@@ -115,30 +115,30 @@ Of the 39 claims cited from 50 or more pages, **6 rest on one study or none**: [
 
 Claims cited as support on some pages and as counter-evidence on others (`[+]` and `[-]` markers on the same claim). The disagreement is in how pages use the claim, which is often the point: a boundary condition cited against a strategy it limits. It is still where a reader should look twice.
 
-365 claims are cited both ways.
+371 claims are cited both ways.
 
 | Claim | For | Mixed | Against | Studies |
 |---|---|---|---|---|
-| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 140 | 2 |
+| [Cognitive Overload Degrades Learning](claims/cognitive-overload-degrades-learning.md) | 125 | 81 | 139 | 2 |
 | [Interesting but irrelevant details can impair comprehension and transfer, with effects …](claims/seductive-details-effect.md) | 21 | 15 | 49 | 6 |
-| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 319 | 42 | 19 | 3 |
+| [Self-determination theory holds that autonomy support raises intrinsic motivation, and a …](claims/autonomy-supports-intrinsic-motivation.md) | 316 | 43 | 19 | 3 |
 | [Minimal guidance is less effective for novices than explicit instruction](claims/minimal-guidance-less-effective-for-novices.md) | 24 | 25 | 18 | 3 |
-| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 491 | 64 | 17 | 3 |
+| [Chunking reduces working memory load by grouping information into fewer, more meaningful …](claims/chunking-reduces-working-memory-load.md) | 488 | 66 | 17 | 3 |
 | [Learning Styles Matching Does Not Improve Learning](claims/learning-styles-matching-does-not-improve-learning.md) | 2 | 1 | 12 | 3 |
 | [Coherence Principle Irrelevant Material Hurts Learning](claims/coherence-principle-irrelevant-material-hurts-learning.md) | 22 | 5 | 11 | 4 |
-| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 7 | 207 | 10 | 3 |
+| [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 7 | 211 | 10 | 3 |
+| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 294 | 24 | 10 | 2 |
 | [Praise for intelligence, rather than for effort, after success undermines children's …](claims/feedback-praise-reduces-learning.md) | 3 | 7 | 8 | 3 |
-| [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 283 | 21 | 8 | 2 |
 | [Example-based sequences outperform problem-only practice for novices, and fading support …](claims/worked-examples-with-practice-improve-transfer.md) | 44 | 1 | 8 | 2 |
-| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 378 | 9 | 5 | 2 |
+| [Feedback Most Effective At Task And Process Levels](claims/feedback-most-effective-at-task-and-process-levels.md) | 379 | 9 | 5 | 2 |
 | [Fluent Illusions Mislead Self Assessment](claims/fluent-illusions-mislead-self-assessment.md) | 2 | 6 | 5 | 2 |
 | [PS-I effects vary by grade level: negative for 2nd–5th graders and increasing with age](claims/psi-effect-increases-with-grade-level.md) | 1 | 1 | 5 | 1 |
+| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 9 | 10 | 5 | 5 |
+| [Prompting learners to self-explain improves understanding and problem solving on …](claims/self-explanation-improves-conceptual-understanding.md) | 442 | 25 | 5 | 4 |
 | [Executive functions do not directly predict syntactic complexity or story content once …](claims/ef-no-direct-effect-syntactic-complexity-story-content.md) | 2 | 0 | 4 | 1 |
 | [Taking initial multiple-choice tests without feedback can lead students to later produce …](claims/multiple-choice-lures-can-be-learned-as-false-knowledge.md) | 2 | 1 | 4 | 1 |
 | [Redundant on-screen text impairs learning when it competes with a visualization, though …](claims/redundancy-principle.md) | 6 | 8 | 4 | 1 |
-| [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while …](claims/rewards-undermine-intrinsic-motivation.md) | 9 | 10 | 4 | 5 |
-| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 62 | 9 | 4 | 1 |
-| [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 206 | 19 | 3 | 2 |
+| [Worked examples reduce unnecessary search for novices.](claims/worked-examples-reduce-novice-search.md) | 63 | 9 | 4 | 1 |
 
 ## Evidence by kind of page
 
@@ -147,16 +147,16 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | Kind | Pages | Citing a claim | Median studies behind a citing page | Citing pages whose claims have no studies |
 |---|---|---|---|---|
 | [principles](principles/index.md) | 170 | 170 | 27.5 | 0 |
-| [elements](elements/index.md) | 1,066 | 778 | 2 | 0 |
+| [elements](elements/index.md) | 1,066 | 779 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 29 | 0 |
-| [strategies](strategies/index.md) | 6,315 | 3,145 | 4 | 0 |
+| [strategies](strategies/index.md) | 6,321 | 3,170 | 4 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 8 | 0 |
 | [methods](methods/index.md) | 38 | 22 | 1.5 | 0 |
-| [theories](theories/index.md) | 1,361 | 905 | 1 | 0 |
+| [theories](theories/index.md) | 1,361 | 906 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 38 | 0 |
-| [designs](designs/index.md) | 974 | 637 | 1 | 0 |
-| [products](products/index.md) | 1,826 | 1,318 | 1 | 0 |
-| [research-methods](research-methods/index.md) | 500 | 460 | 1 | 0 |
+| [designs](designs/index.md) | 976 | 643 | 1 | 0 |
+| [products](products/index.md) | 1,830 | 1,326 | 1 | 0 |
+| [research-methods](research-methods/index.md) | 507 | 465 | 1 | 0 |
 
 ## Toward pooled estimates
 

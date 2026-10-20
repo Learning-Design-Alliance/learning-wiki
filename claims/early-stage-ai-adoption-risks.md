@@ -47,3 +47,4 @@ This is the authors' analytical argument, not an empirical test: the article off
 - [Governance model shaped AIAS adoption: rapid central rollout generated momentum but curtailed reflection, while department-led adoption built ownership but fragmented strategy](governance-models-shape-aias-adoption.md) — related
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
 - [The article argues that memorization-centered management education faces three specific challenges: theory-practice disconnection, textbook lag, and simulation-reality divide](three-challenges-memorization-management-education.md) — related
+- [The article argues that formal rules and enforcement mechanisms alone are insufficient to shape student AI-use behaviour in practice](rules-and-enforcement-insufficient-for-ai-behaviour.md) — related

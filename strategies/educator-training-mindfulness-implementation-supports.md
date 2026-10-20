@@ -20,7 +20,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The brief recommends training teachers to directly facilitate mindfulness activities, using resources such as Mindful Schools courses for under-resourced public schools, the CARE program to increase prosocial behavior by improving educators' well-being and student relationships (Jennings & Greenberg, 2009), and the Mindfulness in Schools Project for educators serving ages 7–18. It also recommends integrating mindfulness into coaching, extending professional development schoolwide via a train-the-trainer model, sharing leadership with student ambassadors, and monitoring effectiveness against articulated goals.
+The brief recommends training teachers to directly facilitate mindfulness activities, using resources such as Mindful Schools courses for under-resourced public schools, the CARE program to increase prosocial behavior by improving educators' well-being and student relationships ([Jennings & Greenberg, 2009](https://doi.org/10.3102/0034654308325693)), and the Mindfulness in Schools Project for educators serving ages 7–18. It also recommends integrating mindfulness into coaching, extending professional development schoolwide via a train-the-trainer model, sharing leadership with student ambassadors, and monitoring effectiveness against articulated goals.
 
 ## Design Implications
 

@@ -43,4 +43,4 @@ Systematic literature search across education, career technical, medical, higher
 
 
 ## Related Claims
--
+- [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md) — related

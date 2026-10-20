@@ -13,16 +13,16 @@ generated:
 # Number Sense
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 70 claims (46 show a difference, 14 mixed, 8 no difference, 2 unmarked) · 28 studies (16 associational, 5 causal, 2 qualitative, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 10 of 28 report an effect size · 68 claims rest on one study
+> **Evidence** · 70 claims (48 show a difference, 14 mixed, 8 no difference) · 28 studies (16 associational, 5 causal, 2 qualitative, 2 design, 2 theoretical, 1 review), `q1`–`q3` · 10 of 28 report an effect size · 68 claims rest on one study
 
 ## Description
 Number sense is a learner's grasp of how large numbers are and how they relate to one another. It is measured with magnitude comparison (which of two numbers or dot arrays is larger), number line estimation (placing a number on a line with labelled ends) and similar tasks. These measures correlate with mathematics achievement and predict later mathematics learning, and they can be improved by instruction such as number board games and number line activities. It is a domain-specific part of [prior knowledge](prior-knowledge.md) in mathematics.
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Number line estimation **r = .44**, larger after age 9 (.49) than before 6 (.30); symbolic magnitude comparison **.30**, nonsymbolic **.24**, smaller in older samples. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md)
+- Number line estimation **r = .44**, larger after age 9 (.49) than before 6 (.30); symbolic magnitude comparison **.30**, nonsymbolic **.24**, smaller in older samples. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 

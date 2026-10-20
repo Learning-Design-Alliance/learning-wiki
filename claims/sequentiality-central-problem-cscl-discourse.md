@@ -46,3 +46,4 @@ Editors' framing (type e) of the Suthers, Dwyer, Medina and Vatrapu opening arti
 
 - [Sequential analysis of discourse reveals meaning-making processes in small-group CSCL interactions](sequential-analysis-of-small-group-cognition.md)
 - [Diffusion-based centralities elucidate information exchange and uptake in large-scale collaboration, validated against achievement and qualitative analysis, according to the editors' account of Saqr and López-Pernas's study](diffusion-centralities-role-taking-cscl.md)
+- [Co-citation analysis identified eight seminal CSCL works with little overlap with an earlier corpus study, possibly over-generalizing to a European sub-network](co-citation-seminal-works-low-overlap-subnetwork-bias.md) — related

@@ -61,7 +61,7 @@ Templates work by offloading the structural demands of a task so working memory 
 
 - [Modeling and Think-Alouds](../strategies/modeling-and-think-alouds.md) — demonstrating template use makes the reasoning behind the structure visible
 - [Gradual Release of Responsibility](../strategies/gradual-release-of-responsibility.md) — the fading sequence (I do → we do → you do) is the mechanism by which templates build independence
-- [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) — SRSD embeds planning templates within explicit strategy instruction and self-monitoring
+- [Self-Regulated Strategy Development](../products/self-regulated-strategy-development-srsd.md) — SRSD embeds planning templates within explicit strategy instruction and self-monitoring
 - [Provide templates and publicly posted talk moves to scaffold discussion and lower cognitive load](templates-and-posted-talk-moves-scaffolds.md)
 
 ## Examples

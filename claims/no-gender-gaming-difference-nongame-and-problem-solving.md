@@ -62,4 +62,5 @@ Study 1 ANOVA in the game condition found no significant gender difference in ga
 
 
 ## Related Claims
--
+- [Male students game the system significantly more than female students in the self-explanation step of a digital learning game, across three studies](males-gaming-more-self-explanation-game-condition.md) — related
+- [Gaming the system is significantly negatively correlated with test performance in the digital learning game](gaming-negative-correlation-test-performance.md) — related

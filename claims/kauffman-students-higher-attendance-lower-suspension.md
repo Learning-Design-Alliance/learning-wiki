@@ -50,3 +50,4 @@ Key finding on two behavioral outcomes from the eight-year evaluation: "higher a
 - [Days lost to suspension at the Kauffman School are small on average relative to instructional time added by its extended school day and year](kauffman-suspension-days-small-versus-extended-time.md) — related
 - [In 2021-22 the Kauffman School increased attendance rates by approximately 1 percentage point](kauffman-school-2021-22-attendance-increase.md) — related
 - [In 2021-22 Kauffman School students were 12 percentage points more likely than comparison students to receive at least one suspension](kauffman-school-2021-22-suspensions-12-points-higher.md) — reports the opposite
+- [During its first seven years, the Kauffman School had substantial positive impacts on student achievement growth in mathematics, English language arts, and science beyond growth in other Kansas City public schools](kauffman-school-seven-year-achievement-impacts.md) — related

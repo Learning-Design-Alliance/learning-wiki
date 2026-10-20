@@ -43,4 +43,5 @@ Replication with 31 educational psychology students using different textbook par
 
 
 ## Related Claims
--
+- [When generate and read items are tested in separate paragraphs, the generation advantage is maintained across tests](between-paragraph-manipulation-maintains-generation-advantage.md) — related
+- [Experiencing a generation advantage on a first test eliminates the generation advantage on a subsequent test by improving recall of read items](experiencing-generation-advantage-eliminates-it-on-later-test.md) — related

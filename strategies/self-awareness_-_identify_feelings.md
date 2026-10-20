@@ -15,11 +15,11 @@ generated:
 > **Evidence** · no claims cited
 
 ## Description
-This strategy has learners identify, label, or match facial expressions and feelings, categorize feeling words by emotion type, and analyze characters' feelings in literature. Self-awareness — the ability to correctly recognize one's own emotions, thoughts, and values and how they influence behavior — is treated as a prerequisite skill for [Self-Regulated Learning](../theories/self-regulated-learning.md) and for managing interpersonal interactions. The core mechanism is *affect labeling*: putting feelings into words, which research shows reduces amygdala reactivity and improves emotional regulation [Lieberman et al., 2007] [+M].
+This strategy has learners identify, label, or match facial expressions and feelings, categorize feeling words by emotion type, and analyze characters' feelings in literature. Self-awareness — the ability to correctly recognize one's own emotions, thoughts, and values and how they influence behavior — is treated as a prerequisite skill for [Self-Regulated Learning](../theories/self-regulated-learning.md) and for managing interpersonal interactions. The core mechanism is *affect labeling*: putting feelings into words, which research shows reduces amygdala reactivity and improves emotional regulation ([Lieberman et al., 2007](https://doi.org/10.1111/j.1467-9280.2007.01916.x)) [+M].
 
 ## Design Implications
 
-Emotion identification is a learnable perceptual and linguistic skill, not a fixed trait. Explicit instruction in emotion vocabulary combined with repeated [Practice](../elements/practice.md) in labeling — first in others' faces and stories, then in oneself — builds the lexicon and attentional habits learners need to notice and name their own states [Durlak et al., 2011] [+S]. Literature-based analysis offers a low-threat route: discussing *why a character feels X* lets learners practice emotional reasoning without exposing their own inner states [~M].
+Emotion identification is a learnable perceptual and linguistic skill, not a fixed trait. Explicit instruction in emotion vocabulary combined with repeated [Practice](../elements/practice.md) in labeling — first in others' faces and stories, then in oneself — builds the lexicon and attentional habits learners need to notice and name their own states ([Durlak et al., 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x)) [+S]. Literature-based analysis offers a low-threat route: discussing *why a character feels X* lets learners practice emotional reasoning without exposing their own inner states [~M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Emotion identification is a learnable perceptual and linguistic skill, not a fix
 - **RULER-style tools**: the Mood Meter (RULER approach, Yale Center for Emotional Intelligence) structures labeling along valence and energy dimensions
 
 ### Target Learners
-- Early childhood and elementary learners, for whom emotion vocabulary is still developing [Durlak et al., 2011] [+S]
+- Early childhood and elementary learners, for whom emotion vocabulary is still developing ([Durlak et al., 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x)) [+S]
 - Learners with autism or language delays, for whom explicit instruction in reading expressions substitutes for incidental acquisition [+M]
 - Adolescents benefit when labeling is embedded in authentic contexts (literature, current events) rather than decontextualized drills [~M]
 - All learners, but the *modality* must be personalized — public sharing suits some, private reflection others
@@ -85,7 +85,7 @@ Emotion identification is a learnable perceptual and linguistic skill, not a fix
 ## Assessment Evidence
 - Observe and listen to learners' conversations and check-in responses for accurate, specific emotion labels.
 - Use scenario vignettes ("What might this person be feeling? How do you know?") as a low-stakes written check.
-- Long-run evidence: kindergarten social-emotional competence predicts adult health, education, and employment outcomes [Jones et al., 2015] [+M]; universal SEL programs including emotion identification improve social-emotional skills and academic performance [Durlak et al., 2011] [+S].
+- Long-run evidence: kindergarten social-emotional competence predicts adult health, education, and employment outcomes ([Jones et al., 2015](https://doi.org/10.2105/ajph.2015.302630)) [+M]; universal SEL programs including emotion identification improve social-emotional skills and academic performance ([Durlak et al., 2011](https://doi.org/10.1111/j.1467-8624.2010.01564.x)) [+S].
 
 ## Key Sources
 - Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science, 18*(5), 421–428. [doi:10.1111/j.1467-9280.2007.01916.x](https://doi.org/10.1111/j.1467-9280.2007.01916.x)

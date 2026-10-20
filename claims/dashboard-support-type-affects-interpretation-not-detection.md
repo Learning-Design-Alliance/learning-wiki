@@ -44,3 +44,4 @@ Headline summary of the between-subjects experiment (n = 53) comparing mirroring
 
 ## Related Claims
 - [Teachers reported the highest confidence in their situational awareness in the alerting & guiding dashboard condition](teacher-confidence-highest-with-guiding-dashboard.md) — related
+- [Teacher interviews identified five types of monitored information and, via the Kano method, four highest-priority dashboard indicators for CSCL monitoring](teacher-interviews-prioritize-dashboard-indicators.md) — related

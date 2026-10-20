@@ -43,4 +43,4 @@ Theoretical argument citing research inspired by the multicomponent model on dom
 
 
 ## Related Claims
--
+- [Multimedia learning principles are not clearly attributable to the multicomponent model or to applied multimedia theories](multimedia-principles-not-attributable-to-multicomponent-model.md) — related

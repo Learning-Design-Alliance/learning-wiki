@@ -43,4 +43,4 @@ Meta-analysis of 99 studies reviewed in the article on teacher-reported relation
 
 
 ## Related Claims
--
+- [First- and second-year teachers' students gain roughly 20 percent of a standard deviation less than students of more experienced teachers](novice-teacher-gains-lower-20-percent-sd.md) — related

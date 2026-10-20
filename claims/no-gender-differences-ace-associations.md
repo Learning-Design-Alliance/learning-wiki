@@ -50,3 +50,8 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [ACE scores show a graded positive association with internalizing behavior trajectories from age 3 to 14](ace-score-graded-internalizing-trajectories.md)
 - [Harsh parenting and physical punishment show the strongest individual-ACE associations with externalizing behavior](harsh-parenting-physical-punishment-externalizing.md)
 - [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md)
+- [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related
+- [Total anxiety predicts later fluency for girls only, via a significant gender-by-anxiety interaction](gender-moderates-anxiety-fluency-relation.md) — reports the opposite
+- [Gender did not significantly moderate relationships between social functioning and academic development in preschoolers](gender-does-not-moderate-social-academic-relations.md) — related
+- [Gender moderates the link between educational processes and children's social–emotional competence, with stronger associations for girls than boys](gender-moderates-educational-processes-to-social-emotional-competence-link.md) — reports the opposite
+- [Growth mindset interacts with gender for health major choice — men's chances decline 3.9 percentage points per unit increase — but no gender difference appears in how ability beliefs influence PEMC major choice](gender-growth-mindset-interaction-health-not-pemc.md) — reports the opposite

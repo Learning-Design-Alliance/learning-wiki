@@ -43,4 +43,4 @@ The editorial describes the Italian community-building activities in the second 
 
 
 ## Related Claims
--
+- [Teacher support with real-time labs requires adaptive expert input that closes cognitive, social, and design gaps](adaptive-expert-teacher-closes-gaps-real-time-labs.md) — related

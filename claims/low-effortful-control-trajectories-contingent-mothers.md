@@ -43,4 +43,4 @@ Exploratory case comparison (Fig. 3) of three matched pairs of children who bega
 
 
 ## Related Claims
--
+- [Maternal contingency during infant play is consistent across toys at 12 months but shows no consistency over time](contingency-consistent-across-toys-not-over-time.md) — related

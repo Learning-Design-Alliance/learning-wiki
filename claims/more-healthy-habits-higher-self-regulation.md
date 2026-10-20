@@ -44,3 +44,8 @@ Comparison of mean self-regulation by number of healthy lifestyle habits met (PA
 
 ## Related Claims
 - The study's cross-sectional self-report design does not allow causal inference about lifestyle habits and academic achievement — related
+- [Mediterranean Diet adherence alone shows no significant association with self-regulation, but helps in combination with other habits](mediterranean-diet-adherence-alone-no-significant-self-regulation-association.md) — related
+- [Active children show higher self-regulation than inactive children, and children with under 2 h/day screen time show higher self-regulation than those with 2 h or more](active-children-higher-self-regulation-than-inactive.md) — a narrower finding that bears on this claim
+- [Active children show higher self-regulation than inactive/high screen time peers regardless of their own screen time level](active-children-high-screen-time-higher-self-regulation.md) — related
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](physical-activity-positively-correlated-self-regulation-children.md) — related
+- [Screen time is negatively correlated with self-regulation in Chilean children](screen-time-negatively-correlated-self-regulation-children.md) — related

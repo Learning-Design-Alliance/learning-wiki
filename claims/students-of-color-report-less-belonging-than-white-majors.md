@@ -47,3 +47,4 @@ Test of proportions on interview codes comparing 70 white, 11 Asian, and 50 URM 
 - [Female STEM majors report significantly lower sense of belonging than male majors](female-majors-report-less-belonging-than-male-majors.md) — related
 - [Women of color are the least likely, and white men the most likely, to report a sense of belonging in STEM majors](intersectional-belonging-women-of-color-lowest-white-men-highest.md) — related
 - [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — possibly the same claim (merge candidate)

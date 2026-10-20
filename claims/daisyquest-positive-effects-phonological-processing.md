@@ -62,3 +62,5 @@ WWC synthesis of two randomized controlled trials (Foster et al., 1994; Lonigan 
 - [Earobics® has positive effects on alphabetics for K–3 beginning readers, based on four WWC-reviewed studies](earobics-positive-effects-alphabetics.md) — related
 - Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations — related
 - Federally funded evidence reviews have historically reserved their highest quality ratings for randomized control trials — related
+- [Phonological awareness training plus letter knowledge training has positive effects on preschoolers' print knowledge](pat-lk-positive-print-knowledge-preschool.md) — related
+- [Tyler et al. (2003) found no statistically significant differences between phonological awareness training and a morphosyntactic intervention (indeterminate effect)](tyler-2003-phonological-vs-morphosyntactic-indeterminate.md) — related

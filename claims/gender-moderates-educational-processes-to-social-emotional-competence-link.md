@@ -65,3 +65,4 @@ Simple slope tests probing the gender interaction. The association between educa
 - [Gender was not significantly correlated with social–emotional competence in this sample, though it functioned as a moderator](no-zero-order-gender-difference-in-preschoolers-social-emotional-competence.md) — related
 - [Girls outperform boys on effortful control, teacher-rated social competence, and achievement in this sample](sex-differences-ec-social-achievement.md) — related
 - [The homework management–homework behavior link is stronger for girls than for boys](homework-management-behavior-link-stronger-girls.md) — a narrower finding that bears on this claim
+- [ACE-outcome associations did not differ between girls and boys](no-gender-differences-ace-associations.md) — reports the opposite

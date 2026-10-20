@@ -56,7 +56,7 @@ Lateral reading works because it shifts evaluation from judging *content* to jud
 - Secondary and higher-education students, whose credibility judgments rely heavily on surface features like design polish and domain endings [Students' civic online reasoning is weak across grade levels.](https://doi.org/10.3102/0013189X211035106) [+S]
 - Adult learners in professional development focused on media and information literacy
 - Learners of all ages benefit, but instruction must be scaffolded for novices; brief interventions produce measurable gains even at scale [Brief instruction in lateral reading improves students' credibility evaluations.](https://doi.org/10.3102/0013189X211035106) [+M]
-- Secondary and higher-education students, who in studies overwhelmingly fail to apply lateral reading without instruction [Breakstone et al., 2021] [-S for untaught populations]
+- Secondary and higher-education students, who in studies overwhelmingly fail to apply lateral reading without instruction ([Breakstone et al., 2021](https://doi.org/10.3102/0013189x211017495)) [-S for untaught populations]
 - Adult learners and professionals in media-literacy and civic-education programs
 - Less necessary for learners already trained as professional fact-checkers, who use the strategy spontaneously [+S]
 
@@ -85,7 +85,7 @@ Lateral reading works because it shifts evaluation from judging *content* to jud
 - **Stanford History Education Group — Civic Online Reasoning curriculum** ([cor.stanford.edu](https://cor.stanford.edu)) — free lessons and assessments in which students lateral-read real websites; the underlying research shows fact-checkers read laterally while historians and students stayed on-page and were far more often deceived [Wineburg & McGrew's studies of professional fact-checkers.](https://doi.org/10.1177/016146811912100902) [+S]
 - **News Literacy Project — Checkology®** ([checkology.org](https://checkology.org)) — interactive modules where learners practice lateral reading on simulated sources in a safe environment
 - **A high school civics unit**: students evaluate a polished advocacy site, first vertically, then laterally, discovering through a Wikipedia search that the organization is an industry front group
-- **Stanford History Education Group's Civic Online Reasoning curriculum** — free classroom lessons and assessments built on lateral reading; field experiments show students taught these strategies outperform controls on live-source evaluations [Breakstone et al., 2021] [+S]
+- **Stanford History Education Group's Civic Online Reasoning curriculum** — free classroom lessons and assessments built on lateral reading; field experiments show students taught these strategies outperform controls on live-source evaluations ([Breakstone et al., 2021](https://doi.org/10.3102/0013189x211017495)) [+S]
 - **A high school civics lesson on a viral claim**: students first judge a polished advocacy site vertically, then watch the teacher open tabs to find the site's funder via Wikipedia and news coverage, then repeat the process on a new source
 - **Newsroom practice**: professional fact-checkers at outlets like *The Washington Post*'s Fact Checker routinely resolve credibility questions in under a minute by leaving the source immediately — the expert behavior the strategy aims to build in students
 

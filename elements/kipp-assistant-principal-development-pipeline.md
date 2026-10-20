@@ -48,7 +48,8 @@ An organizational element of KIPP, described in this publication as the largest 
 - [KIPP Successor Prep program preparing new principals to lead existing schools](../products/successor-prep.md)
 
 ## Examples
--
+
+- [Use the assistant principalship as an explicit training ground for aspiring principals](../strategies/assistant-principalship-as-training-ground.md)
 
 ## Key Sources
 - Jeff Archer, Jeffrey Max. (2019). Strengthening Principal Preparation Through On-The-Job Training: Insights from KIPP's Strategies for Developing Assistant Principals as School Leaders. Washington, DC: Mathematica Policy Research. https://www.mathematica.org/publications/strengthening-principal-preparation-through-on-the-job-training-insights-from-kipps-strategies

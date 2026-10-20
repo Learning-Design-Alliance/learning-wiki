@@ -24,7 +24,9 @@ The study adapts Van Manen's (1977) cumulative levels of reflection into a four-
 ### Claims
 
 ## Related Research Methods
--
+
+- [Graesser et al. question taxonomy adapted to student-AI programming interactions](graesser-et-al-question-taxonomy-adapted-to-student-ai-programming-interactions.md)
+- [Continuum for classifying instructional quality frameworks: generic, subject-specific, and hybrid](continuum-for-classifying-instructional-quality-frameworks-generic-subject-specific-and-hy.md)
 
 ## Key Sources
 - Avivit Arvatz, Boaz Hadas, Rotem Waitzman, Yehudit Judy Dori (2025). Putting self-regulated learning and teaching into practice: insights from two science teachers and their students. Instructional Science. https://doi.org/10.1007/s11251-025-09719-6

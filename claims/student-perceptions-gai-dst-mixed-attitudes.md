@@ -47,3 +47,4 @@ Descriptive survey results from an 18-item modified scale (Cronbach's α = 0.86)
 - [Over-reliance on GAI risks weakening teaching and social presence and depriving students of foundational skill development](gai-overreliance-risks-presence-and-skills.md) — related
 - [Teachers report strongly positive attitudes toward AI, low concern, high confidence in using AI tools, and strong but uneven institutional support](descriptive-profile-teacher-ai-attitudes-concerns-confidence.md) — related
 - [Participants held generally positive attitudes toward VISIGARP but rated diagram layout clarity low while finding layout easy to adjust](visigarp-attitudes-layout.md) — related
+- [Positive attitudes toward ChatGPT increased from before to during the practicum](chatgpt-attitudes-increased-during-practicum.md) — related

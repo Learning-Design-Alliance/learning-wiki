@@ -51,3 +51,4 @@ Intent-to-treat impact analysis from the ASSISTments North Carolina replication 
 - [ASSISTments use in grade 7 math homework produces a statistically significant long-term positive effect on grade 8 state test scores one year after the intervention ends](assistments-long-term-math-impact-grade-8.md) — possibly the same claim (merge candidate)
 - [NBA Math Hoops significantly improves elementary and middle school students' math achievement compared to business-as-usual summer STEM programming (0.19 SD gain)](nba-math-hoops-improves-summer-math-achievement.md) — related
 - [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related
+- [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related

@@ -16,7 +16,7 @@ sources:
 # Build community engagement and stakeholder buy-in, supported by effective communication and simplified informed consent, to sustain school testing programs
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report's implementation lessons hold that testing programs succeed when schools invest in community engagement and buy-in from key stakeholders. It states that "Community engagement and buy-in from key stakeholders are critical to the success of a testing program," and that "Effective communication and simplified informed consent processes can a long way in building trust in testing programs and boosting participation rates." Schools should therefore pair testing logistics with trust-building communication and streamlined consent.
@@ -38,7 +38,8 @@ The report's implementation lessons hold that testing programs succeed when scho
 - Maintaining safe, trusted in-person school environments so learning can continue
 
 ### Claims
-- 
+
+- [Oakland Unified sustained its full-service community schools initiative through leadership turnover and lean funding by engaging stakeholders, braiding funding sources, and enacting formal policy commitments](../claims/ousd-sustained-fscs-through-stakeholders-funding-policy.md) [+W]
 
 ## Related Designs
 - 

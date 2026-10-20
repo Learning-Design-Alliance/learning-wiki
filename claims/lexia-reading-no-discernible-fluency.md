@@ -51,3 +51,4 @@ WWC synthesis of fluency findings from Gale (2006), the only study contributing 
 - [Lexia Reading shows no discernible effects on general reading achievement](lexia-reading-no-discernible-general-achievement.md) — related
 - [Lexia Reading has potentially positive effects on comprehension](lexia-reading-potentially-positive-comprehension.md) — related
 - [Lexia Early Reading outperforms no supplemental instruction on kindergarten alphabetics outcomes in Gale (2006), significant by author but not WWC calculations](lexia-versus-control-kindergarten-alphabetics.md) — related
+- [Lexia Reading has potentially positive effects on alphabetics for beginning readers](lexia-reading-potentially-positive-alphabetics.md) — related

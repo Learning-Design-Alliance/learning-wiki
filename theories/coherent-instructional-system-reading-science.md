@@ -31,13 +31,16 @@ The page describes a research brief that "examines the practices and conditions 
 #### Requirements
 - The model is presented as adaptable by school leaders to their own schools, per the brief's description.
 - A case study district context in which the practices and conditions of a coherent instructional system can be examined
+- School leaders adapt the practical model to their own schools
 #### Constraints
 - The page supplies only an abstract-level description; the model's practices, conditions, and impacts are detailed in the brief itself, not in the supplied text.
 - The model is derived from a single U.S. school district case study, as the page's description states
+- The evidence base described is a single U.S. school district case study
 
 ### Target Learners
 - K-12 students in a U.S. school district case study
 - K-12 students in reading and science
+- Students in U.S. school districts receiving reading and science instruction
 
 ### Target Learning Objectives
 - Strengthening reading and science instruction across classrooms
@@ -60,6 +63,7 @@ The page describes a research brief that "examines the practices and conditions 
 ## Key Sources
 - NWEA Research publications listing page. (2026). https://www.nwea.org/research/
 - NWEA Research. (2026). NWEA Research — Publications listing page. https://www.nwea.org/research/
+- NWEA Research. (2026). NWEA Research — Publications and Research Partnerships Page. https://www.nwea.org
 
 <!-- merged 2026-10-09 from theories/coherent-instructional-system-reading-science-model ("A coherent instructional system model for reading and science improvement"),  a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
 
@@ -102,4 +106,40 @@ NWEA's 2026 brief "The Power of Connectedness" offers "a practical model that le
 
 ## Key Sources
 - NWEA Research. (2026). NWEA Research — Publications listing page. https://www.nwea.org/research/
+-->
+
+<!-- merged 2026-10-20 from strategies/coherent-instructional-system-reading-science ("Build a coherent instructional system across classrooms, examined through a district case study"), misfiled as a strategie and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+
+# Build a coherent instructional system across classrooms, examined through a district case study
+
+> **Strategy** · [All strategies](index.md)
+> **Evidence** · no claims cited
+
+## Description
+This strategy comes from a research brief that uses "a case study from a U.S. school district" to examine "the practices and conditions of a coherent instructional system, and where and how it had the most impact." The brief offers "a practical model that leaders can adapt in their own schools to help strengthen instruction across classrooms" in reading and science improvement.
+
+## Design Implications
+
+### Context
+#### Requirements
+- School leaders adapt the practical model to their own schools
+#### Constraints
+- The evidence base described is a single U.S. school district case study
+
+### Target Learners
+- Students in U.S. school districts receiving reading and science instruction
+
+### Target Learning Goals
+- Strengthening reading and science instruction across classrooms
+
+## Related Strategies
+
+- [A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms](../strategies/coherent-instructional-system-model-for-leaders.md)
+- [Adapt a practical model of a coherent instructional system for reading and science improvement](../strategies/coherent-instructional-system-model-reading-science.md)
+
+## Examples
+-
+
+## Key Sources
+- NWEA Research. (2026). NWEA Research — Publications and Research Partnerships Page. https://www.nwea.org
 -->

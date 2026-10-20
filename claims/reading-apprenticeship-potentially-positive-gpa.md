@@ -46,3 +46,6 @@ WWC synthesis row for the academic achievement domain, from one RCT (Somers et a
 - [Reading Apprenticeship® has potentially positive effects on student science achievement in grades 7–9, based on one qualifying study](reading-apprenticeship-potentially-positive-science-achievement.md) — related
 - [The Pathway to Academic Success Project has potentially positive effects on literacy achievement for English learners in grades 6-12](pathway-project-potentially-positive-literacy-achievement.md) — related
 - [Reading Apprenticeship® shows uncertain effects on reading comprehension across five studies](reading-apprenticeship-uncertain-reading-comprehension.md) — related
+- [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](reading-apprenticeship-uncertain-life-sciences.md) — related
+- [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](reading-apprenticeship-uncertain-literacy-achievement.md) — related
+- [Reading Apprenticeship® shows uncertain effects on social studies achievement in one study](reading-apprenticeship-uncertain-social-studies.md) — related

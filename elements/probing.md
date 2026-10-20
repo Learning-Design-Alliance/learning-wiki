@@ -81,7 +81,7 @@ Probing converts a surface-level answer into an act of retrieval and elaboration
 
 **[Socratic questioning in case discussions](../patterns/case-based-learning.md)** — In Harvard Business School case teaching, the instructor probes a student's analysis ("Why that recommendation? What data contradicts it?") and then redirects the same probe to other students, building a chain of public reasoning.
 
-**Reciprocal peer questioning (King, 1990s)** — Students are taught generic probe stems ("Explain why…", "How do … and … relate?") and question each other in pairs; trained questioners outperform control groups on comprehension measures.
+**Reciprocal peer questioning ([King, 1990s](https://doi.org/10.3102/00028312027004664))** — Students are taught generic probe stems ("Explain why…", "How do … and … relate?") and question each other in pairs; trained questioners outperform control groups on comprehension measures.
 
 **[Perusall](https://www.perusall.com)** — Social annotation platforms operationalize probing asynchronously: instructor or peer replies to an annotation with a follow-up question, requiring the annotator to elaborate before the thread resolves.
 

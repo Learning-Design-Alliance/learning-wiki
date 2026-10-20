@@ -48,3 +48,6 @@ Randomized controlled trial comparing phonological awareness training (target-so
 ## Related Claims
 - [Tyler et al. (2011) found no statistically significant differences between a phonemic awareness intervention and a morphosyntactic intervention at the US site (indeterminate effect)](tyler-2011-phonemic-awareness-us-site-indeterminate.md) — related
 - Of 225 reviewed studies of phonological awareness training, only four RCTs met WWC evidence standards without reservations — related
+- [DaisyQuest has positive effects on phonological processing in preschool children, with a domain-average effect size of 0.68 across two randomized controlled trials](daisyquest-positive-effects-phonological-processing.md) — related
+- [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
+- [In the Torgesen et al. (2006) RCT, SpellRead™ showed indeterminate effects for fifth graders, with no statistically significant or substantively important effects in any domain after six months](torgesen-2006-spellread-indeterminate.md) — related

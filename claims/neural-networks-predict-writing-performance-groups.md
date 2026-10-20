@@ -45,3 +45,4 @@ Statistical learning analysis reviewed by the article: neural networks predicted
 ## Related Claims
 - Performance expectancy, effort expectancy, social influence and facilitating conditions predict vocational students' LMS acceptance, with performance expectancy the most influential — related
 - [Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change](aes-lowest-baseline-students-gain-most.md) — related
+- [Empirical studies support Boekaerts' Dual Processing model, including task-specific appraisals predicting learning intention and neural-network prediction of performance groups](empirical-support-boekaerts-dual-processing.md) — possibly the same claim (merge candidate)

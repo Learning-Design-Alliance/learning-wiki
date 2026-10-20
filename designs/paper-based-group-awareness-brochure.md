@@ -40,7 +40,8 @@ The group awareness intervention was a paper-based brochure containing profiles 
 - 
 
 ## Related Designs
-- 
+
+- [Wiki learning environment with knowledge bars and participation bars at individual, group, and subgroup levels](gat-wiki-environment-bar-visualizations.md)
 
 ## Examples
 -

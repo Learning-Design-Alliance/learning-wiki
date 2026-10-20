@@ -60,7 +60,7 @@ Repetition increases the probability that a key idea is encoded, consolidated, a
 
 - [Chunking](../principles/chunking.md) — grouping content so that what gets repeated is a coherent unit, not fragments
 - [Clear Structure](../principles/clear-structure.md) — a predictable lesson structure gives repetitions natural, recognizable slots
-- [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) — the research basis for distributing repetitions over time
+- [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) [+S] — the research basis for distributing repetitions over time
 - [Switch to written notes when verbal communication with a hearing-impaired patron breaks down](written-notes-communication-hearing-impaired-patrons.md)
 - [STeLLA® teaching strategies for explaining, identifying, and engaging science concepts](stella-teaching-strategies-three-emphases.md)
 

@@ -43,4 +43,5 @@ Within-subjects experiment with 44 introductory psychology students studying two
 
 
 ## Related Claims
--
+- [When generate and read items are tested in separate paragraphs, the generation advantage is maintained across tests](between-paragraph-manipulation-maintains-generation-advantage.md) — related
+- [Participants who consciously notice a generation advantage after a first test tend to eliminate it on a second test](noticing-generation-advantage-predicts-strategy-change.md) — related

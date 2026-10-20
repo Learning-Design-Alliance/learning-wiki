@@ -43,4 +43,6 @@ Simple-effects analysis of the interaction in the randomized 2×2 experiment; in
 
 
 ## Related Claims
--
+- [Cultural diversity does not increase schoolchildren's creativity when a divisional mindset emphasizing group distinctions is salient](divisional-mindset-nullifies-diversity-creativity-effect.md) — related
+- [Working in culturally diverse groups on a cooperative task increases schoolchildren's creativity (originality) compared with homogeneous groups](cultural-diversity-cooperative-task-increases-childrens-creativity.md) — related
+- [The effect of cultural diversity on children's creativity is moderated by mindset, with a significant Diversity × Mindset interaction](diversity-mindset-interaction-childrens-creativity.md) — related

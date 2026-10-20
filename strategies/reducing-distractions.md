@@ -67,7 +67,7 @@ Working memory is severely limited, and attention allocated to irrelevant input 
 - [Keep the video player user interface consistent when pausing for self-explanation prompts to avoid extraneous reorientation](consistent-ui-when-video-prompts-pause.md)
 
 ## Examples
-- **Multimedia course design:** applying the coherence principle by replacing decorative stock photos in an online biology module with diagrams tied to the explained process (Clark & Mayer, 2016).
+- **Multimedia course design:** applying the coherence principle by replacing decorative stock photos in an online biology module with diagrams tied to the explained process ([Clark & Mayer, 2016](https://doi.org/10.1002/9781119239086)).
 - **Laptop classrooms:** research by Sana et al. (2013) found that students multitasking on laptops scored significantly lower on comprehension tests — and peers seated in view of the multitasking screen were also impaired — informing many instructors' device policies.
 - **Video platforms:** [Khan Academy](https://www.khanacademy.org) videos use a minimal visual field (blackboard-style, single problem, no background music), consistent with coherence findings.
 

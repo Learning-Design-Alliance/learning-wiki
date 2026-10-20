@@ -43,4 +43,4 @@ Randomized two-condition experiment in teacher education seminars (n = 36 with p
 
 
 ## Related Claims
--
+- [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related

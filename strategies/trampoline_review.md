@@ -12,7 +12,7 @@ generated:
 # Trampoline Review
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 2 claims (2 for) · 9 studies (5 quant-synthesis, 3 causal, 1 associational), `q2`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Trampoline Review is a kinesthetic strategy in which learners rehearse or retrieve academic content while bouncing on a mini-trampoline or performing comparable rhythmic gross-motor movement (marching, jumping jacks, ball tossing). The movement is intended to raise arousal and engagement while the learner performs retrieval of the target material. The strategy is best understood as retrieval practice delivered under elevated physiological arousal, not as a distinct memory mechanism.
@@ -58,8 +58,8 @@ The learning benefit comes almost entirely from the retrieval component, not the
 5. Follow with a seated, movement-free retrieval check to confirm learning transfers out of the movement context.
 
 ## Related Strategies
-- [Spaced repetition](../claims/spaced-practice-improves-retention.md) — the retrieval schedule matters far more than the movement; trampoline review should be scheduled across days, not massed
-- [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) — for conceptual content, replace bouncing with prompted explanation, which has stronger support
+- [Spaced repetition](../claims/spaced-practice-improves-retention.md) [+M] — the retrieval schedule matters far more than the movement; trampoline review should be scheduled across days, not massed
+- [Self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] — for conceptual content, replace bouncing with prompted explanation, which has stronger support
 
 ## Examples
 - Elementary classroom: students bounce on a mini-trampoline station while reciting multiplication facts, rotating through in small groups with the teacher checking answers.

@@ -13,16 +13,16 @@ generated:
 # Academic Anxiety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 106 claims (68 show a difference, 23 mixed, 13 no difference, 2 unmarked) · 68 studies (29 associational, 13 review, 12 causal, 5 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 18 of 68 report an effect size · 100 claims rest on one study
+> **Evidence** · 107 claims (70 show a difference, 24 mixed, 13 no difference) · 69 studies (29 associational, 14 review, 12 causal, 5 qualitative, 4 quant-synthesis, 4 theoretical, 1 design), `q1`–`q4` · 18 of 69 report an effect size · 101 claims rest on one study
 
 ## Description
 Academic anxiety is fear or tension aroused by a subject or by being evaluated in it. The research mostly studies three forms: mathematics anxiety, test anxiety and foreign-language anxiety, each measured with self-report scales. Anxiety predicts lower performance, partly because worry takes up [working memory](working-memory.md); it moderates instructional effects (timed or high-stakes formats hurt anxious learners more); and it is an outcome that some designs reduce, such as low-stakes practice testing and expressive writing before an exam. It is a narrower case of [affect regulation](affect-regulation.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [~W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Mathematics anxiety **r = −.28** (k = 747), weaker in older samples; test anxiety **−.23**; general anxiety **−.19** and **−.09**. [Claim](../claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md)
+- Mathematics anxiety **r = −.28** (k = 747), weaker in older samples; test anxiety **−.23**; general anxiety **−.19** and **−.09**. [Claim](../claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 
@@ -142,11 +142,16 @@ Academic anxiety is fear or tension aroused by a subject or by being evaluated i
 - [Arousal showed a positive relationship with final high school mathematics grade when controlling for the other test anxiety facets](../claims/arousal-positive-mathematics-grade.md) [+M] — learners who differ on it differ in outcomes
 - [The tribute reports that self-efficacy consistently outperformed anxiety as a predictor of academic performance](../claims/self-efficacy-outperformed-anxiety-predicting-academic-performance.md) [+W] — learners who differ on it differ in outcomes
 - [Worry did not explain unique variance in students' test performance or mathematics grade, challenging the worry-based explanation of the test anxiety-performance link](../claims/worry-no-unique-variance-performance.md) [-M] — learners who differ on it differ in outcomes
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](../claims/srl-training-programmes-improve-outcomes.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Do learners with higher anxiety about a subject or a test achieve less in it?* [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](../claims/math-anxiety-degrades-performance.md) [+M]
 - *Does the format and setting of an assessment change how anxious learners are about it?* [Students taking online and proctored online exams report higher test anxiety than students taking on-campus exams and non-proctored online exams](../claims/proctored-online-exams-increase-test-anxiety.md) [+M]
 - *Does private, low-pressure and repeated practice lower learners' anxiety about using a second language?* [AI reduces foreign language anxiety and strengthens self-efficacy and self-confidence, supporting the Affective Foundation Pathway](../claims/ai-reduces-fl-anxiety-private-practice.md) [+M]
+
+## Examples
+
+- [AEQ-ES adapted to English as L2 for primary school children](../products/aeq-es-adapted-to-english-as-l2-for-primary-school-children.md)
 
 ## Related Learner Variables
 - [Affect Regulation](affect-regulation.md)

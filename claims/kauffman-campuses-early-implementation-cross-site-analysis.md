@@ -43,4 +43,4 @@ Descriptive cross-site implementation analysis of the Kauffman Campuses Initiati
 
 
 ## Related Claims
--
+- [Cross-sector leadership programs were widely viewed as the most successful collaboration grant activities, while limited grant time period and scope and lack of goal clarity hindered implementation](leadership-programs-most-successful-grant-activities.md) — related

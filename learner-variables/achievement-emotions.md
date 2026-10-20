@@ -13,16 +13,16 @@ generated:
 # Achievement Emotions
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (50 show a difference, 15 mixed, 7 no difference, 2 unmarked) · 52 studies (15 causal, 14 associational, 8 qualitative, 7 review, 4 design, 4 theoretical), `q1`–`q4` · 9 of 52 report an effect size · 71 claims rest on one study
+> **Evidence** · 76 claims (52 show a difference, 17 mixed, 7 no difference) · 54 studies (16 causal, 14 associational, 8 qualitative, 7 review, 5 theoretical, 4 design), `q1`–`q4` · 10 of 54 report an effect size · 73 claims rest on one study
 
 ## Description
 Achievement emotions are the emotions learners feel about learning activities (enjoyment, boredom, frustration) and about their outcomes (pride, shame, hope, hopelessness). In control-value theory they arise from how much control a learner feels over an activity and how much they value it. Positive activating emotions such as enjoyment go with engagement and achievement, deactivating ones such as boredom with disengagement, and the relationship runs both ways. Anxiety is an achievement emotion with its own page, [academic anxiety](academic-anxiety.md); enjoyment overlaps with [interest](interest.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [~W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Enjoyment **r = .31**, boredom **−.28**. [Claim](../claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md)
+- Enjoyment **r = .31**, boredom **−.28**. [Claim](../claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 
@@ -109,12 +109,15 @@ Achievement emotions are the emotions learners feel about learning activities (e
 - [Students use positive and negative achievement emotions as cues when making predictions about their comprehension](../claims/emotions-as-cues-predictions.md) [+M] — learners who differ on it differ in outcomes
 - [Three emotion profiles (positive, neutral, negative) differ in prediction and postdiction magnitude and accuracy, with the positive group most overconfident in predictions and least underconfident in postdictions](../claims/emotion-profile-groups-judgment-differences.md) [+M] — learners who differ on it differ in outcomes
 - [Experienced effort-by-need frustration is neither a necessary requirement nor a typical concomitant of high-quality learning](../claims/need-frustration-not-necessary-for-learning.md) [-M] — learners who differ on it differ in outcomes
+- [Academic emotions moderate the relationship between belonging and achievement](../claims/emotions-moderate-belonging-achievement.md) [~M] — an instructional effect differs with it
+- [In Study 1, ChatTutor produced significantly higher trust, enjoyment, and behavioral intentions than ChatGPT, while students were blind to condition](../claims/chattutor-trust-enjoyment-intentions-study1.md) [+M] — instruction changes it
 
 ## Related Learner Variables
 
 ## Examples
 
 - [Adapt tutor responses to detected learner affect: leading hints for frustration, engaging hooks for boredom, and timed intervention for confusion](../strategies/affect-sensitive-autotutor-responses.md)
+- [AEQ-ES adapted to English as L2 for primary school children](../products/aeq-es-adapted-to-english-as-l2-for-primary-school-children.md)
 
 ## Key Sources
 - Breit, M., Schneider, M., & Preckel, F. (2025). Mathematics achievement and learner characteristics: A systematic review of meta-analyses. *Learning and Individual Differences, 118*, 102621. [doi:10.1016/j.lindif.2024.102621](https://doi.org/10.1016/j.lindif.2024.102621)

@@ -20,6 +20,7 @@ The editor argues, quoting Wainer, that replicability is the principal epistemol
 ## Accounts
 <!-- How each source describes or uses the method -->
 - **Demonstrate the stability of potentially useful interventions through independent replication before trusting them**: The editor argues, quoting Wainer, that replicability is the principal epistemological tenet of modern science: small initial studies tolerate false positives, and other investigators should rush to replicate so anomalous results are brushed aside. He suggests educational psychology should "demonstrate the stability of potentially useful interventions through independent replication" and states that EDPR encourages such replications. (Daniel H. Robinson (2012))
+- **Replication studies in educational psychology should use a multi-experiment structure that first replicates the original method and then extends it to identify boundary conditions of the effect**: The editorial sets out the journal's expectation for replication manuscripts: a successful replication article requires at least three experiments, the first reproducing the original study's method with only participants changed, later ones extending the method. The stated aim is that 'we can begin to identify the boundary conditions of the effect'. (Daniel Robinson (2009))
 
 ### Claims
 
@@ -31,3 +32,4 @@ The editor argues, quoting Wainer, that replicability is the principal epistemol
 
 ## Key Sources
 - Daniel H. Robinson. (2012). Editor's Note: Introducing Intervention Studies as a New Article Category. Educational Psychology Review. https://doi.org/10.1007/s10648-012-9209-8
+- Daniel Robinson. (2009). Editor's Note. Educational Psychology Review. https://doi.org/10.1007/s10648-009-9103-1

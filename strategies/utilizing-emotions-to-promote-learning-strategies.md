@@ -47,6 +47,7 @@ The review enumerates implementable strategies by which teachers can use emotion
 - [Racial Equity in PBL - Spark Engagement with Student-Generated Questions](racial_equity_in_pbl_-_spark_engagement_with_student-generated_questions.md)
 - [Discussing Emotions](discussing_emotions.md)
 - [Explicate, Validate, and Address Negative Emotions](explicate-validate-and-address-negative-emotions.md)
+- [Teaching strategies to prevent and manage negative emotions in learning](strategies-prevent-manage-negative-emotions.md)
 
 ## Examples
 -

@@ -42,6 +42,7 @@ The thesis presents "un modelo para la puesta en marcha de cursos virtuales de m
 
 - [Proceso de diseño instruccional ADDIE de cinco fases para cursos virtuales con evaluación formativa](addie-cinco-fases-evaluacion-formativa-virtual.md)
 - [Ambiente computacional \"sólidos geométricos\" con andamiaje de autoeficacia (metas, autoevaluación y mensajes motivacionales)](ambiente-solidos-geometricos-andamiaje-autoeficacia.md)
+- [Diseño mixto con grabación en audio de tutorías de 6 docentes tutores de trabajo de grado](estudio-mixto-audio-tutorias-seis-docentes.md)
 
 ## Examples
 -

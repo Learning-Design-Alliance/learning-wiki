@@ -43,4 +43,6 @@ The review's synthesis of seven within-subjects acute experimental studies of br
 
 
 ## Related Claims
--
+- [Breakfast consumption shows a mainly positive effect on on-task behavior in the classroom in children](breakfast-mainly-positive-on-task-behavior.md) — reports the opposite
+- [A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period](low-gl-breakfast-on-task-shortlived.md) — related
+- [A mid-morning snack benefits on-task behavior only for children who consumed a small breakfast, correcting the energy deficiency](mid-morning-snack-small-breakfast-only.md) — related

@@ -40,7 +40,8 @@ Participants offered practical strategies to reduce the onset of negative emotio
 - promoting student self-regulation of affect
 
 ## Related Strategies
-- 
+
+- [Strategies for utilizing emotions to promote learning: spark curiosity via knowledge gaps, foster mastery orientation, transmit enthusiasm, and time emotional events within lessons](utilizing-emotions-to-promote-learning-strategies.md)
 
 ## Examples
 -

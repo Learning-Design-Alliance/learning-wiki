@@ -19,7 +19,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The digest describes constructivism as the view prominent in the late 1980s that "knowledge is individually constructed and socially co-constructed by learners based on their interpretations of experiences in the world" (Jonassen 1999). It lists five prescriptive principles from constructivism (Driscoll, 2000): embedding learning in complex, realistic, relevant environments; social negotiation as integral to learning; multiple perspectives and modes of representation; ownership in learning; and nurturing self-awareness of the knowledge construction process.
+The digest describes constructivism as the view prominent in the late 1980s that "knowledge is individually constructed and socially co-constructed by learners based on their interpretations of experiences in the world" ([Jonassen 1999](https://doi.org/10.4324/9781410602657)). It lists five prescriptive principles from constructivism (Driscoll, 2000): embedding learning in complex, realistic, relevant environments; social negotiation as integral to learning; multiple perspectives and modes of representation; ownership in learning; and nurturing self-awareness of the knowledge construction process.
 
 ## Design Implications
 

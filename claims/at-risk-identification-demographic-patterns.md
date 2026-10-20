@@ -56,3 +56,4 @@ Descriptive analysis of 2023/24 statewide data, reported in text and Figure 1, o
 - [African American boys received out-of-school suspensions at five times the rate of white/Asian boys in CPS high schools in 2013-14](african-american-boys-oss-disparity-cps.md) — related
 - [Deepfake behaviours show gender patterns: males more likely to have shared deepfakes, females more likely to have reported them](gender-patterns-deepfake-behaviours.md) — related
 - [Demographic covariates were significantly associated with latent class membership](covariates-associated-latent-class-membership.md) — related
+- [GRAD-score-based At-risk identification shows larger proportional year-to-year churn than direct certification would](grad-score-churn-exceeds-direct-certification.md) — related

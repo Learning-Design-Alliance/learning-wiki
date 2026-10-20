@@ -43,4 +43,6 @@ Between-outcome comparison within the meta-analysis testing the difference betwe
 
 
 ## Related Claims
--
+- [CSCL collaboration scripts substantially improve domain-specific and collaborative-skill outcomes compared with unstructured CSCL](cscl-scripts-improve-learning-outcomes.md) — a broader claim this one bears on
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — related
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills](transactivity-moderator-not-significant.md) — related

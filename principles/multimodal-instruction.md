@@ -31,7 +31,7 @@ sources:
 # Multimodal Instruction
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 21 claims (7 for, 11 mixed, 3 against) · 32 studies (14 causal, 9 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 7 of 32 report an effect size · 15 claims rest on one study
+> **Evidence** · 22 claims (8 for, 11 mixed, 3 against) · 33 studies (14 causal, 10 review, 5 quant-synthesis, 2 associational, 1 qualitative, 1 design), `q2`–`q4` · 7 of 33 report an effect size · 16 claims rest on one study
 
 ## Conditional relationship
 
@@ -102,7 +102,7 @@ These rows are proposals and have not been tested with learners as diagnostic br
 - [Learning-styles matching does not improve learning](../claims/learning-styles-matching-does-not-improve-learning.md) [-M]: a systematic review found almost no studies with the crossover design needed to test matching, and judged the one candidate unconvincing. A randomized study with 5th graders (125 classified, 34 in the key analysis) found no style × modality interaction (F(1,38)=1.16, p=0.29). It bears against the style-matched version of multimodal instruction, not against choosing modes by content. Not settled against its sources.
 - [Video with narration and on-screen text](../claims/video-narration-text-improves-immediate-macs-comprehension.md) [+M]: a five-week randomized three-group study with 98 Chinese-speaking university learners of English. On the immediate test, video with narration and text produced higher macrostructure comprehension than text alone or narration with text (r = .33 and .32, as printed). One study, immediate horizon, not yet checked against its source. It qualifies a blanket redundancy rule for second-language readers; it does not test delayed retention.
 
-Retain learners, assignment, materials, pacing, comparator, instrument and horizon when transporting these observations. Do not rank them by effect label: a pooled g, a field-study d and an r from a three-group ANOVA answer different questions. No claim here tests gesture, demonstration, sign or translanguaging as modes. The earlier page's sources on those (Holmström & Schönström 2018; Givens et al. 2020) and its one multimodal-versus-unimodal experiment (Gellevij et al. 2002) have no claim page, so nothing is said here about what they found.
+Retain learners, assignment, materials, pacing, comparator, instrument and horizon when transporting these observations. Do not rank them by effect label: a pooled g, a field-study d and an r from a three-group ANOVA answer different questions. No claim here tests gesture, demonstration, sign or translanguaging as modes. The earlier page's sources on those (Holmström & Schönström 2018; Givens et al. 2020) and its one multimodal-versus-unimodal experiment ([Gellevij et al. 2002](https://doi.org/10.1080/00220970209599507)) have no claim page, so nothing is said here about what they found.
 
 ## The evidence by question
 
@@ -146,6 +146,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - [Complex additions are more accurate in visual than auditory format, with the auditory deficit shrinking with age](../claims/auditory-format-accuracy-deficit-complex-additions.md) [~W]
 - [Folk-tales were used in every session, with photos (78%), videos (74%), songs (67%), classical tales (70%) and crafts (55%) as multimodal materials](../claims/folktale-program-material-frequencies-multimodal.md) [+W]
 - [The effect of learning mode on children’s SSI applications was largest among elementary school children](../claims/learning-mode-effect-largest-elementary-children.md) [~W]
+- [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](../claims/immediate-own-motion-most-effective-graphing-motion.md) [+W]
 
 ## Related Principles
 - [Creating Visual Representations](dual-coding.md) — multimodal instruction often incorporates learner-generated visuals and explanations.

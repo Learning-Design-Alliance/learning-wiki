@@ -43,4 +43,4 @@ Study by Schwarz, Prusak, Swidan, Livny, Gal and Segal of the SAGLET orchestrati
 
 
 ## Related Claims
--
+- [Computer-supported environments can support development of mathematical understanding toward formalization even when domain experts are not present](vmt-supports-mathematical-formalization-without-experts.md) — related

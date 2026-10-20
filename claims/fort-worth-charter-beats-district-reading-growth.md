@@ -52,3 +52,4 @@ Within-Fort Worth sector comparison of one-year growth for 2018-19, benchmarked 
 - [Austin charter students in poverty outperformed Austin district students in poverty in reading, with a non-significant math advantage](austin-charter-poverty-students-outperform-district-peers.md) — related
 - [Newark charter school students outgrew similar Newark district school students in reading but not significantly in math in 2018-19](newark-charter-vs-district-within-newark-2018-19.md) — related
 - Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap — related
+- [Austin charter ELL students outperformed Austin district ELL students in reading growth](austin-charter-ell-students-reading-advantage.md) — related

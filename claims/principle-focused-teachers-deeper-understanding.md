@@ -45,3 +45,6 @@ Evaluation of phase one of the Knowledge-Building Teacher Network comparing teac
 ## Related Claims
 
 - [Scaling up educational innovation requires attention to breadth of use, depth of understanding, sustainability, and teachers' ability to refine the innovation](scaling-up-dimensions-breadth-depth-sustainability.md)
+- [Faculty testing of AI chatbots on real student homework found feedback quality uneven, prompting-dependent, and focused on surface features](ai-chatbot-homework-feedback-limits.md) — related
+- [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
+- [Correct and complete exemplar supports produced greater improvement in preservice teachers' fraction comparison explanations than supports displaying common misconceptions and errors](correct-exemplars-improve-pst-fraction-explanations.md) — related

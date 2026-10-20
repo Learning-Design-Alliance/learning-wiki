@@ -64,3 +64,5 @@ Finding from the same randomized controlled trial, reported in the WWC completin
 ## Related Claims
 - [JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment](jobstart-increased-diploma-or-ged-completion.md) — related
 - [New Chance produced a statistically significant increase in the likelihood of earning a high school diploma or GED certificate](new-chance-significant-increase-diploma-or-ged.md) — related
+- [Job Corps' completion effect came entirely from GED receipt, with a small statistically significant negative effect on earning a high school diploma](job-corps-ged-gain-diploma-decline.md) — related
+- [JOBSTART's completion gain came entirely from GED receipt, with a small significant negative effect on earning a high school diploma](jobstart-ged-gain-diploma-negative-effect.md) — related

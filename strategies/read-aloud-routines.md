@@ -66,7 +66,7 @@ Reading aloud exposes learners to language and text structures above their indep
 - [Vocabulary Pre-Teaching](pre-teaching-vocabulary.md) — the front-loaded complement to in-text vocabulary pauses
 
 ## Examples
-- **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of 2–3-year-olds trained in PEER questioning produced measurable expressive language gains in weeks.
+- **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)) — parents of 2–3-year-olds trained in PEER questioning produced measurable expressive language gains in weeks.
 - **Interactive read aloud in Units of Study / Fountas & Pinnell classroom systems** — whole-class read alouds with planned turn-and-talk and vocabulary anchors across a multi-week text set.
 - **Storyline Online** (https://storylineonline.net) — recorded celebrity read alouds used to supplement, not replace, interactive teacher read alouds.
 

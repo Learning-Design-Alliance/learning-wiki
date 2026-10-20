@@ -101,32 +101,6 @@
       ]
     },
     {
-      "hub": "plc-object-outcome-mismatch",
-      "question": "What goes wrong: outcomes that differ from aims, excluded members, and communities that cannot form?",
-      "members": [
-        [
-          "cop-nonparticipation-invalidates-learner-identities",
-          "~"
-        ],
-        [
-          "plc-literature-trivializes-teacher-practice",
-          "~"
-        ],
-        [
-          "teacher-resistance-agency-challenges-plc",
-          "~"
-        ],
-        [
-          "small-rural-staffs-cross-subject-plcs-isolation",
-          "~"
-        ],
-        [
-          "rural-distance-and-bandwidth-derail-plans-for-cross-school-plcs",
-          "~"
-        ]
-      ]
-    },
-    {
       "hub": "social-presence-strongest-metacognition-association-cbi",
       "question": "In an online community of inquiry, which presences go with learners' regulation and learning?",
       "members": [

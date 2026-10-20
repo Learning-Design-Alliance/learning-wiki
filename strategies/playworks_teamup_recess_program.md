@@ -67,7 +67,7 @@ TeamUp applies the logic of [Direct Instruction](../patterns/direct-instruction.
 
 ## Examples
 - **Playworks TeamUp** ([playworks.org](https://www.playworks.org)) — the program itself: training, game guides, and equipment kits enabling schools to run structured recess without a full-time coach.
-- **Ready for Recess (Omaha, NE)** — a similar structured-recess intervention using activity zones and staff training, which increased children's physical activity at recess (Huberty et al., 2013).
+- **Ready for Recess (Omaha, NE)** — a similar structured-recess intervention using activity zones and staff training, which increased children's physical activity at recess ([Huberty et al., 2013](https://doi.org/10.1016/j.ypmed.2014.09.010)).
 - **SPARK Active Recreation** ([sparkpe.org](https://sparkpe.org)) — a commercial structured-recess and physical-education program with a comparable game-library model.
 
 ## Key Sources

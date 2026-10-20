@@ -43,4 +43,6 @@ Planned orthogonal contrast on the material-selection transfer test (four select
 
 
 ## Related Claims
--
+- [Adding concessive statements to refutation texts yields no added benefit for conceptual change about multimedia-learning misconceptions](concessive-statements-no-added-benefit-conceptual-change.md) — related
+- [Anger does not mediate the effect of concessive refutation statements on conceptual change or transfer](anger-does-not-mediate-concession-effects.md) — related
+- [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related

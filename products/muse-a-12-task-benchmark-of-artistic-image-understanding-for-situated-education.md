@@ -36,6 +36,7 @@ MUSE is a benchmark dataset developed by Luyao Zhu et al. containing annotated a
 ## Related Products and Programmes
 
 - [DrawEduMath](drawedumath.md)
+- [MAESTRO v3.0.0 pretraining corpus and custom 4,320-recording student dataset](maestro-v300-pretraining-corpus-and-custom-4320-recording-student-dataset.md)
 
 ## Key Sources
 - Luyao Zhu, Xun Wei Yee, Wei Li, Mun Thye Mak, Wee Siong Ng. (2026). MUSE: Benchmarking Large Vision-Language Models on Multi-modal Understanding in Situated Education. arXiv preprint. https://arxiv.org/abs/2609.19088

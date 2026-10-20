@@ -20,7 +20,7 @@ Low stakes quizzing embeds frequent, brief tests into instruction with minimal o
 
 ## Design Implications
 
-Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that persist over delays of days to months [Rowland, 2014 meta-analysis] [+S]. The benefit holds across formats, ages, and subject areas, though free-recall and short-answer formats tend to outperform simple recognition [Adesope et al., 2017] [+S]. Because stakes are low, quizzes function as learning events rather than assessments of record — the goal is error correction, not sorting. Feedback after each quiz is essential: retrieval without corrective feedback can entrench errors [~M]. Quizzing also pairs naturally with spacing; distributing quizzes across weeks compounds the retention benefit [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
+Retrieval practice produces substantially larger and more durable learning gains than restudying, with effects that persist over delays of days to months [Rowland, 2014 meta-analysis] [+S]. The benefit holds across formats, ages, and subject areas, though free-recall and short-answer formats tend to outperform simple recognition ([Adesope et al., 2017](https://doi.org/10.3102/0034654316689306)) [+S]. Because stakes are low, quizzes function as learning events rather than assessments of record — the goal is error correction, not sorting. Feedback after each quiz is essential: retrieval without corrective feedback can entrench errors [~M]. Quizzing also pairs naturally with spacing; distributing quizzes across weeks compounds the retention benefit [Distributed practice improves retention.](../claims/spaced-practice-improves-retention.md) [+S].
 
 ### Context
 #### Requirements
@@ -55,7 +55,7 @@ Retrieval practice produces substantially larger and more durable learning gains
 - **Confidence weighting:** asking learners to rate confidence per item surfaces illusions of knowing; errors made with high confidence are especially instructive [High-confidence errors improve retention when corrected.](../claims/high-confidence-errors-improve-retention.md) [+M]
 
 ### Target Learners
-- Learners of all ability levels benefit, though effects are often largest for those with weaker prior knowledge [Rowland, 2014] [+S]
+- Learners of all ability levels benefit, though effects are often largest for those with weaker prior knowledge ([Rowland, 2014](https://doi.org/10.1037/a0037559)) [+S]
 - Younger learners and those with low metacognitive skill benefit especially, since they otherwise over-rely on rereading
 - Anxious learners need genuinely low stakes; high-stakes testing conditions can impair retrieval [~M]
 - All levels, K–12 through higher and adult education; classroom studies show reliable gains in middle school and college settings [McDaniel et al., 2007-style classroom studies] [+M]

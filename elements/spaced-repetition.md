@@ -76,7 +76,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 - **Default:** set the gap from how long the material must be remembered: the best gap was about 20% of the test delay for a test a few weeks away, falling to about 5% for a one-year delay; there is an optimum, not "longer is always better" — [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S], [Distributed Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
 - **Changes when:** second-language learning with a delayed test → longer spacing beat shorter spacing on delayed posttests, but was no better on immediate ones — [Spaced Practice Improves Retention](../claims/spaced-practice-improves-retention.md) [+S]
 - **Changes when:** practice would be spread over years → one narrative review reports that spreading over a couple of years may be worse than over a couple of months — [Distributed practice benefits L2 learning, and one review argues that spreading it over years can be worse than over months](../claims/distributed-practice-limits-l2.md) [~M]
-- **Tested with:** 1,354 adults learning trivia facts with tests up to a year later (Cepeda et al. 2008); L2 vocabulary experiments.
+- **Tested with:** 1,354 adults learning trivia facts with tests up to a year later ([Cepeda et al. 2008](https://doi.org/10.1111/j.1467-9280.2008.02209.x)); L2 vocabulary experiments.
 - **Not settled:** the d = 1.1 for the best gap compares the post hoc best gap with a zero gap, so it is an upper bound for any single schedule; the gaps used in the L2 meta-analysis are not given on the claim pages, and the years-versus-months limit rests on one review of two studies.
 
 ### Should intervals expand, or stay equal?
@@ -101,7 +101,7 @@ Spaced repetition is the element in which key material is revisited at strategic
 
 ### Should harder items get more reviews?
 - **Default:** give harder items more review time on the lower (less-known) decks; for easy items spread time roughly evenly — [Under the Leitner Queue Network optimization, easy items call for roughly uniform time across decks, while more difficult items call for more time on lower decks.](../claims/optimal-leitner-deck-allocation-depends-on-item-difficulty.md) [+W], [Under the mean-recall approximation, the optimal Leitner Queue Network review schedule spends more time on lower decks than on higher decks.](../claims/optimal-leitner-schedule-reviews-lower-decks-more-often.md) [+W]
-- **Tested with:** a scheduling model's optimisation only (Reddy et al. 2016); no learners.
+- **Tested with:** a scheduling model's optimisation only ([Reddy et al. 2016](https://doi.org/10.1145/2939672.2939850)); no learners.
 - **Not settled:** no wiki claim tests item-level allocation with learners, and none compares adaptive with fixed schedules.
 
 ## The evidence by question

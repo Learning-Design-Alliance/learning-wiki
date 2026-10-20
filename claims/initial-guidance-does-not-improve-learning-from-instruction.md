@@ -76,3 +76,4 @@ An independent replication with three conditions (unguided problem solving, guid
 - [PF students outperformed direct-instruction students on conceptual understanding and transfer without compromising procedural fluency](pf-outperformed-di-variance-conceptual-transfer.md) — related
 - [No significant condition differences remain at posttest: both approaches converge on MVC strategy and reasoning after both phases](no-posttest-differences-mvc-convergence.md) — related
 - [Productive failure before instruction outperforms instruction followed by problem-solving](productive-failure-before-instruction-strong-effect.md) — a broader claim this one bears on
+- [Guidance in a computer-based logic environment significantly influences pre- to post-test scores for learning the conditional](guidance-improves-posttest-logic-conditional.md) — related

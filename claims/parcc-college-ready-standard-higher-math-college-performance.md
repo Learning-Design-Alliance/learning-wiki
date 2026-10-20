@@ -75,3 +75,4 @@ Key findings comparison of performance standards across subjects: the brief repo
 - [The study is the first to examine whether PARCC assessments identify students who are ready for college](first-study-parcc-college-readiness-goal.md) — related
 - [MCAS and PARCC scores provide similarly strong predictions of which students need remedial coursework in college](parcc-mcas-similar-remediation-prediction.md) — related
 - [PARCC sets a higher performance standard in mathematics than MCAS, while both exams predict college performance comparably](parcc-higher-math-standard-mcas-comparable-prediction.md) — related
+- [PARCC and MCAS scores show similar validity for predicting college grades](parcc-mcas-similar-college-grade-validity.md) — related

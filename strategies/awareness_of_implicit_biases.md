@@ -12,7 +12,7 @@ generated:
 # Awareness of Implicit Biases
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 review), `q2`–`q3` · 0 of 2 report an effect size
 
 ## Description
 Awareness of implicit biases involves recognizing unconscious attitudes and stereotypes that influence instructor judgments and behaviors — such as grading, questioning patterns, and expectations — and taking deliberate steps to counteract them. In education, these biases can shape which students are called on, how feedback is framed, and whose contributions are credited, with cumulative effects on achievement and belonging. The strategy combines structured self-assessment, evidence-based debiasing habits, and external feedback loops rather than relying on introspection alone.
@@ -46,7 +46,7 @@ Bias awareness supports equitable learning environments, but the evidence base d
 
 ### Target Learning Goals
 - Equitable professional practice: consistent, criterion-referenced evaluation of learners
-- Inclusive climate-building: interaction patterns that support belonging and [task value](../claims/task-value-increases-motivation-and-engagement.md) for all students
+- Inclusive climate-building: interaction patterns that support belonging and [task value](../claims/task-value-increases-motivation-and-engagement.md) [+W] for all students
 - Metacognitive professional development: habituating self-monitoring of one's own judgments
 
 ### Instructions

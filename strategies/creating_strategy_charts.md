@@ -67,7 +67,7 @@ Strategy charts externalize the strategic repertoire that experts hold internall
 
 ## Examples
 - **Elementary mathematics (Cognitively Guided Instruction classrooms)**: an anchor chart titled "What Can I Do When I'm Stuck?" lists strategies such as "draw a picture," "use manipulatives," "start with a smaller number," each with a talk prompt like "I'll try ___ because ___."
-- **IMPROVE program (Mevarech & Kramarski, 1997)**: printed self-questioning prompts — comprehension, connection, strategy, and reflection questions — function as a portable strategy chart embedded in every worksheet, improving mathematical reasoning [doi:10.3102/00028312034002379](https://doi.org/10.3102/00028312034002379)
+- **IMPROVE program ([Mevarech & Kramarski, 1997](https://doi.org/10.2307/1163362))**: printed self-questioning prompts — comprehension, connection, strategy, and reflection questions — function as a portable strategy chart embedded in every worksheet, improving mathematical reasoning [doi:10.3102/00028312034002379](https://doi.org/10.3102/00028312034002379)
 - **Reading workshop anchor charts** (Teachers College Reading & Writing Project): co-created charts of decoding and comprehension strategies ("flip the sound," "back up and reread") that students reference during independent reading
 
 ## Key Sources

@@ -50,3 +50,4 @@ Randomized experiment with 137 tenth-grade students (PF COLL n = 87 analysed, of
 - [Solution quality does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quality-no-mediation.md) — related
 - [Solution quality correlates with conceptual knowledge and gap awareness only for individual problem solvers](pf-solution-quality-correlation-individual-only.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — a broader claim this one bears on
+- [Solution quantity does not mediate the effect of collaboration on conceptual knowledge in PF](pf-solution-quantity-no-mediation.md) — related

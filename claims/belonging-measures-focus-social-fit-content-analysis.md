@@ -46,3 +46,4 @@ The author's own content analysis coded 70 items from the 8 most prominent quant
 - [Belonging measures were typically validated on small, primarily White and middle-class samples without testing factor-structure differences by demographics](belonging-measures-validation-sampling-limits.md) — related
 - [Interpersonal relationships are the most prominent student concern in qualitative interviews (30.61% of coded responses)](interpersonal-relationships-top-student-concern-30-61.md) — related
 - [Daily diary evidence links lower daily self-concept fit to stronger same-day mental burnout and concerns about academic abilities](daily-self-concept-fit-burnout-diary.md) — related
+- [About 6% of items in the most-used measures operationalize students' social and emotional skills, appearing in 58.14% of measures](sel-skills-items-in-school-climate-measures.md) — related

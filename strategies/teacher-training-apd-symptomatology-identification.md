@@ -17,7 +17,7 @@ sources:
 # Train elementary school teachers in APD symptomatology so they can identify suspected cases and serve on multidisciplinary teams
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends additional teacher training in auditory processing disorder symptomatology for grade 1–4 teachers, who deliver the curriculum and monitor pupils' academic performance. It concludes that "findings point to the need for additional training in APD symptomatology for elementary school (grade 1-4) teachers to become valued members of a multidisciplinary team supporting students with auditory processing disorder." Diagnosis and treatment should involve teachers, speech-language pathologists, psychologists and parents.
@@ -36,8 +36,13 @@ The article recommends additional teacher training in auditory processing disord
 ### Target Learning Goals
 - Early identification of children with auditory processing difficulties affecting literacy, language and academic achievement
 
+## Claims
+
+- [Teacher ratings of language and reading skills correlate significantly with PSP-1 total scores, whereas grade point average does not](../claims/teacher-ratings-correlate-psp1-gpa-does-not.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Fund scheduled coplanning time and multidisciplinary team composition for pre-referral, assessment, and referral decisions](coplanning-time-multidisciplinary-teams-strategy.md)
 
 ## Examples
 -

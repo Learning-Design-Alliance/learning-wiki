@@ -46,3 +46,4 @@ Voxel-based lesion-mapping analysis of 27 stroke survivors with dysgraphia, iden
 
 - [Orthographic working memory deficits in dysgraphia arise primarily from lesions of the left parietal cortex centered on the intraparietal sulcus](orthographic-wm-deficits-left-parietal-ips.md)
 - [Behavioral profiles alone can identify dysgraphia cases with deficits selectively affecting orthographic long-term memory or working memory](behavioral-profiles-classify-dysgraphia-subtypes.md)
+- [Distinct neural substrates selectively support orthographic long-term memory and orthographic working memory in spelling](selective-substrates-orthographic-ltm-versus-wm.md) — a broader claim this one bears on

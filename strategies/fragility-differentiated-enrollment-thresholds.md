@@ -17,7 +17,7 @@ sources:
 # Differentiated enrollment thresholds for school autonomy based on territorial fragility
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The framework sets asymmetric minimum enrollment thresholds for schools to retain administrative autonomy, calibrated to the territorial criticality level of their municipality. As the article states, "planningregulationsestablish asymmetric enrollment thresholds based on local vulnerability." Schools in the most vulnerable areas (level four) face a highly protective threshold of four hundred students, while stable areas require one thousand, allowing very small institutions in fragile areas to preserve independent status.
@@ -35,6 +35,10 @@ The framework sets asymmetric minimum enrollment thresholds for schools to retai
 
 ### Target Learning Goals
 - preserving local access to educational services and community resilience during consolidation
+
+## Claims
+
+- [The model was validated on the complete public school network of the Calabria region using real institutional, territorial, and demographic data](../claims/calabria-school-network-case-study.md) [+W]
 
 ## Related Strategies
 

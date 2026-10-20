@@ -57,7 +57,7 @@ Questioning converts passive reception into [Active Learning](../principles/acti
 3. Pose the question, then wait at least 3–5 seconds before taking responses; after a response, wait again before evaluating.
 4. Follow up on answers by probing reasoning and asking other students to agree, disagree, or extend ([Class Discussion](../elements/class-discussion.md)).
 5. Adjust the explanation in response to the pattern of answers — re-teach if a majority errs, move on if responses show mastery ([Assessment for Learning](../principles/assessment-for-learning.md)).
-6. Close by asking students to summarize the key idea in their own words, converting the exchange into a [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunity.
+6. Close by asking students to summarize the key idea in their own words, converting the exchange into a [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] opportunity.
 
 ## Related Strategies
 - [Cold Calling](cold-call.md) — the participation-distribution technique that makes whole-class questioning equitable

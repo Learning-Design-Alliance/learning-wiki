@@ -55,6 +55,7 @@ The paper's organizing framework is joint engagement with media (JEM): intention
 ## Examples
 
 - [Online Videos for Family Learning](../strategies/online_videos_for_family_learning.md)
+- [Differentiate conversation starters for first versus repeat viewings](../strategies/differentiate-starters-first-repeat-viewings.md)
 
 ## Key Sources
 - Digital Promise, The Jim Henson Company, Concord Evaluation Group, & Curious Media. (2021). Designing an app to support families' joint engagement with media: Design principles and lessons from research. [White Paper]. Digital Promise. https://doi.org/10.51388/20.500.12265/121

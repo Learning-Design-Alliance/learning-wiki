@@ -52,3 +52,4 @@ Systematic WWC review of 59 studies, of which two randomized controlled trials m
 - [Phonological awareness training has potentially positive effects on communication/language competencies for preschool children with learning disabilities, with a small extent of evidence](phonological-awareness-training-potentially-positive-communication-effects.md) — related
 - [The Lovaas Model has no discernible effects on communication/language competencies for children with disabilities](lovaas-model-no-discernible-communication-effects.md) — related
 - [The evidence base for dialogic reading with children with disabilities is small, with no qualifying studies in six other outcome domains](dialogic-reading-small-evidence-base-disabilities.md) — related
+- [Dialogic Reading's average oral-language improvement index is +19 percentile points, ranging from –6 to +48 across findings](dialogic-reading-oral-language-improvement-index.md) — related

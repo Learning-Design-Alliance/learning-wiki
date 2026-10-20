@@ -19,7 +19,7 @@ Self monitoring in writing is the metacognitive practice of having writers track
 
 ## Design Implications
 
-Self monitoring converts writing from a single-pass production task into a cyclical process of goal setting, execution, and evaluation, which is characteristic of skilled writers and largely absent in struggling ones (Graham & Harris, 2000) [+S]. Monitoring is only effective when learners have explicit, concrete criteria to monitor *against* — vague instructions to "check your work" produce little change, while criterion-based checklists and rubrics measurably improve revision quality [+M]. Because monitoring consumes working memory, it should be taught as a strategy in its own right and scaffolded with external supports (checklists, structured peer feedback) before being faded toward internalized self-questioning.
+Self monitoring converts writing from a single-pass production task into a cyclical process of goal setting, execution, and evaluation, which is characteristic of skilled writers and largely absent in struggling ones ([Graham & Harris, 2000](https://doi.org/10.1207/s15326985ep3501_2)) [+S]. Monitoring is only effective when learners have explicit, concrete criteria to monitor *against* — vague instructions to "check your work" produce little change, while criterion-based checklists and rubrics measurably improve revision quality [+M]. Because monitoring consumes working memory, it should be taught as a strategy in its own right and scaffolded with external supports (checklists, structured peer feedback) before being faded toward internalized self-questioning.
 
 ### Context
 #### Requirements
@@ -62,7 +62,7 @@ Self monitoring converts writing from a single-pass production task into a cycli
 
 ## Related Strategies
 
-- [Self-Regulated Strategy Development](self-regulated-strategy-development-srsd.md) — the most researched instructional framework embedding self monitoring in writing
+- [Self-Regulated Strategy Development](../products/self-regulated-strategy-development-srsd.md) — the most researched instructional framework embedding self monitoring in writing
 - [Peer Review](../elements/peer-review.md) — externalizes the monitoring criteria through a social partner, calibrating self-judgment
 - [Goal Setting](../elements/goal-setting.md) — monitoring requires a goal to monitor against; the two strategies are interdependent
 - [Revision](../elements/revision.md) — the action phase where monitoring results are enacted

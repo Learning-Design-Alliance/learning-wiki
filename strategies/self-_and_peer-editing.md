@@ -67,8 +67,8 @@ Editing as a formative activity improves writing quality when it is criterion-re
 - [Provide sentence evaluation criteria (clarity, intended audience) and model revision against them](sentence-evaluation-criteria-clarity-audience-revision.md)
 
 ## Examples
-- **Process writing instruction (Graham & Sandmel, 2011):** Across 29 experimental studies, elementary and secondary students in process writing classrooms — which routinely include peer and self-editing with structured response — outperformed controls on writing quality (effect size ≈ 0.34).
-- **Structured peer review in composition courses (Cho & MacArthur, 2011):** College students who reviewed multiple peer drafts of the same assignment produced better revisions of their own writing than students who only received feedback.
+- **Process writing instruction ([Graham & Sandmel, 2011](https://doi.org/10.1080/00220671.2010.488703)):** Across 29 experimental studies, elementary and secondary students in process writing classrooms — which routinely include peer and self-editing with structured response — outperformed controls on writing quality (effect size ≈ 0.34).
+- **Structured peer review in composition courses ([Cho & MacArthur, 2011](https://doi.org/10.1037/a0021950)):** College students who reviewed multiple peer drafts of the same assignment produced better revisions of their own writing than students who only received feedback.
 - **Classroom checklist routine:** Using an editing checklist, students self-edit their drafts, then meet with a partner to peer-edit; the teacher first models the checklist on sample text, and groups collaboratively edit one shared piece.
 
 ## Key Sources

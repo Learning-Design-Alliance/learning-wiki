@@ -46,3 +46,4 @@ Document review of seven higher education outcome frameworks (QAA-FHEQ, Bologna,
 
 - [Communication is the most extensively operationalized domain, with over 80 individual outcomes across all seven frameworks](communication-most-operationalized-domain.md)
 - [Quantitative skills were explicitly addressed by only three of the seven reviewed frameworks](quantitative-skills-absent-most-frameworks.md)
+- [Authentic assessment designs most commonly target knowledge construction and 21st-century skills, with digital literacy rarely addressed](aa-cognitive-challenges-knowledge-and-21st-century-skills.md) — related

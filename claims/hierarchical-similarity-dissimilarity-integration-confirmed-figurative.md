@@ -41,4 +41,4 @@ CFA on the same 267-student figurative test data testing the three-factor hierar
 
 
 ## Related Claims
--
+- [The six-process structure of inductive reasoning fits fifth graders' figurative-test data better than a unidimensional model](six-process-model-fits-better-than-unidimensional.md) — related

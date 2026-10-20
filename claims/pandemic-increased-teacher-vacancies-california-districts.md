@@ -53,3 +53,5 @@ Open-ended survey of 12 California districts (eight largest plus four small rura
 - Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
 - [Schools reporting hiring difficulties are almost twice as likely to have above-average teacher turnover rates](hiring-difficulties-correlated-with-high-turnover.md) — related
+- [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — related
+- [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — related

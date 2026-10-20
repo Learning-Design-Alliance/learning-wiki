@@ -43,4 +43,4 @@ Item analysis of the GEE-2007 exam (9 items of calculations and mathematical rea
 
 
 ## Related Claims
--
+- [Stealth assessment facets show good internal consistency (Cronbach's alpha = 0.76) while MicroDYN reliabilities were low in this middle-school sample](internal-consistency-stealth-versus-microdyn.md) — related

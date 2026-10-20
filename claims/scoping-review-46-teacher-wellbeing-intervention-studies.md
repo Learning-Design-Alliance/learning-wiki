@@ -65,3 +65,7 @@ Methodological characterisation of the 46 included studies in the review's Resul
 - [Most reviewed teacher well-being interventions (37 of 46) were categorised supportive, while 9 showed no significant impacts](most-teacher-wellbeing-interventions-supportive.md)
 - [Intervention contents align with PERMA-H mainly through engagement (25), relationships (17), positive emotions (14) and health (8), with no content matching meaning or accomplishment](perma-h-alignment-intervention-contents.md)
 - [Teacher well-being intervention content falls into seven activity themes, with professional development (n=20) and mindfulness/meditation (n=12) most common](seven-content-themes-teacher-wellbeing-interventions.md)
+- [Mindfulness and meditation interventions supported teacher well-being in 10 of 12 studies, with two studies showing non-significant changes](mindfulness-interventions-support-teacher-wellbeing.md) — a narrower finding that bears on this claim
+- [Gratitude, therapy-based, and the single physical activity intervention positively contributed to teacher well-being, though the physical activity intervention did not mitigate burnout](gratitude-therapy-physical-activity-intervention-outcomes.md) — related
+- [Professional development interventions showed mixed outcomes, with 14 of 20 studies supportive and 6 non-supportive](professional-development-interventions-mixed-outcomes.md) — related
+- [Most teacher well-being interventions target individual actions rather than community well-being](teacher-wellbeing-interventions-individual-focused.md) — related

@@ -40,6 +40,7 @@ The report directs states and districts to regularly examine the frequency, type
 
 - [Use trained staff, parent interviews, and EL classification committees to reduce initial EL misclassifications](el-classification-training-committees-parent-interviews.md)
 - [Establish a provisional classification period of roughly 45 to 90 days to detect and correct initial EL misclassifications](provisional-el-classification-period.md)
+- [Use different measures or thresholds than the KEI cohort threshold when identifying individual students at risk of not reading proficiently](different-measures-for-individual-risk-identification.md)
 
 ## Examples
 -

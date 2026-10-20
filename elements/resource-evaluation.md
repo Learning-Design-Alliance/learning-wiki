@@ -20,31 +20,31 @@ Resource evaluation asks learners to judge the credibility, accuracy, and releva
 
 ## Design Implications
 
-Resource evaluation works when learners actively apply criteria to real, contrasting sources rather than memorizing a rubric. Professional fact-checkers outperform academics by *lateral reading* — leaving a page to investigate the source elsewhere — and teaching this strategy explicitly improves students' evaluative judgments [Wineburg & McGrew, 2019] [+S]. Evaluation tasks also deepen content learning: prompting readers to attend to source features (author, purpose, corroboration) improves their ability to integrate multiple documents [Braasch et al., 2013] [+M]. Structured comparison of credible and non-credible sources supports abstraction of the underlying criteria [Multiple contrasting cases help learners abstract general principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
+Resource evaluation works when learners actively apply criteria to real, contrasting sources rather than memorizing a rubric. Professional fact-checkers outperform academics by *lateral reading* — leaving a page to investigate the source elsewhere — and teaching this strategy explicitly improves students' evaluative judgments ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [+S]. Evaluation tasks also deepen content learning: prompting readers to attend to source features (author, purpose, corroboration) improves their ability to integrate multiple documents ([Braasch et al., 2013](https://doi.org/10.1016/j.cedpsych.2013.03.003)) [+M]. Structured comparison of credible and non-credible sources supports abstraction of the underlying criteria [Multiple contrasting cases help learners abstract general principles.](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 
 ### Context
 #### Requirements
 - A source set that includes genuinely contrasting quality — credible, biased, and unreliable sources on the same topic
 - Explicit evaluation criteria co-developed or operationalized by learners ([Criteria Development](criteria-development.md)), not just handed over
 - A product that requires justification of judgments (annotated bibliography, source memo, verdict with evidence)
-- Instructor feedback on evaluative reasoning, since novices often overweight surface features like domain extension or design polish [Wineburg & McGrew, 2019] [~M]
+- Instructor feedback on evaluative reasoning, since novices often overweight surface features like domain extension or design polish ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [~M]
 
 #### Constraints
-- Checklist approaches (e.g., applying the CRAAP test mechanically) can produce false confidence: learners "pass" manipulated or biased sources that satisfy surface criteria [Wineburg & McGrew, 2019] [-M]
+- Checklist approaches (e.g., applying the CRAAP test mechanically) can produce false confidence: learners "pass" manipulated or biased sources that satisfy surface criteria ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [-M]
 - Ineffective when all provided sources are pre-vetted and credible — learners never practice discrimination
 - High working-memory demand when learners must evaluate content *and* source credibility simultaneously; scaffolds or chunking of the task are needed [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [~M]
-- Prior topic knowledge can bias evaluation — learners rate congenial sources as more credible regardless of quality [Braasch et al., 2013] [~M]
+- Prior topic knowledge can bias evaluation — learners rate congenial sources as more credible regardless of quality ([Braasch et al., 2013](https://doi.org/10.1016/j.cedpsych.2013.03.003)) [~M]
 
 ### Target Learners
 - Undergraduate and graduate students in research-heavy disciplines and academic writing courses
-- Secondary students in media literacy programs, who show large gains from explicit strategy instruction [Wineburg & McGrew, 2019] [+S]
+- Secondary students in media literacy programs, who show large gains from explicit strategy instruction ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [+S]
 - Less effective for learners with no baseline content knowledge, who cannot judge plausibility of claims and rely entirely on surface cues [~W]
 
 ### Target Learning Goals
 - Information literacy: judging source credibility, bias, and provenance
 - Critical analysis: evaluating evidence quality and argument support
 - Epistemic cognition: understanding how knowledge claims are produced and contested
-- Multiple-document comprehension: corroborating and reconciling conflicting accounts [Braasch et al., 2013] [+M]
+- Multiple-document comprehension: corroborating and reconciling conflicting accounts ([Braasch et al., 2013](https://doi.org/10.1016/j.cedpsych.2013.03.003)) [+M]
 
 ### Affordances
 - **Metacognition** — evaluating sources forces learners to monitor their own reasoning ("Why do I trust this?"), and articulating those judgments improves conceptual understanding of both the criteria and the content [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M]

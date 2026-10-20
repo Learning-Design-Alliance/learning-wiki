@@ -14,7 +14,7 @@ grain_size: programme
 # Ten Steps to Complex Learning
 
 > **Design Process** · [All design processes](index.md)
-> **Evidence** · 7 claims (4 for, 1 mixed, 1 against, 1 unmarked) · 13 studies (4 causal, 3 quant-synthesis, 2 review, 2 theoretical, 1 qualitative, 1 design), `q1`–`q4` · 1 of 13 report an effect size · 3 claims rest on one study
+> **Evidence** · 8 claims (5 for, 2 mixed, 1 against) · 14 studies (4 causal, 3 quant-synthesis, 3 theoretical, 2 review, 1 qualitative, 1 design), `q1`–`q4` · 1 of 14 report an effect size · 4 claims rest on one study
 
 ## Description
 Ten Steps is the design process that produces a [4C/ID](../patterns/4cid-four-component-instructional-design.md) blueprint. The pattern describes what the resulting instruction looks like — learning tasks, supportive information, procedural information, part-task practice. This page describes what a designer does to arrive at it, which is a different object and a genuinely different way of working.
@@ -65,6 +65,7 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 ### Claims
 
 - [Ten Steps design of a workplace PD program is time and resource-intensive, spanning nearly two years for a five-month program](../claims/ten-steps-design-cost-time-intensive.md) [-W]
+- [Task complexity and task difficulty are distinct concepts](../claims/task-complexity-distinct-from-difficulty.md) [~W]
 
 #### Supporting
 - [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [+M] — the model's central bet
@@ -95,7 +96,7 @@ The canonical enumeration of the ten steps is in van Merriënboer and Kirschner'
 - [Transfer Tasks](../elements/transfer-tasks.md)
 
 ### Affordances
-- [Cognitive Load Management](../claims/cognitive-load-management.md) — the constraint every sequencing and support decision in the model is answering to
+- [Cognitive Load Management](../claims/cognitive-load-management.md) [+M] — the constraint every sequencing and support decision in the model is answering to
 
 ### Personalization
 - **Learners may take different paths** through the designed task classes based on demonstrated proficiency rather than a fixed order; development portfolios are what make that selection informed rather than arbitrary

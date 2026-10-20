@@ -44,3 +44,10 @@ Classification of the 1,715-school sample based on the difference between actual
 
 ## Related Claims
 - Schools beating the odds — moving from underperformer to overperformer growth status between Grades 1 and 2 — are rare (about 1% of schools) — related
+- [The school climate gap between beating-the-odds and chronically underperforming schools is more than twice as large as the gap between BTO and other schools](bto-cu-climate-gap-twice-as-large.md) — related
+- [Beating-the-odds schools have substantially more positive school climate than other California middle and high schools](bto-schools-higher-school-climate-percentile.md) — related
+- [School climate differences between BTO and chronically underperforming schools are twice as large as differences between BTO and other schools](climate-gap-bto-versus-cu-schools.md) — related
+- [School climate differences between BTO and other schools remain large and significant after adjusting for student demographics and personnel resources](climate-advantage-robust-to-controls.md) — related
+- [Enrollment is the main driver of the association between student demographics and the likelihood of beating the odds](enrollment-main-demographic-driver-of-bto.md) — related
+- [A school's School Climate Index is more strongly associated with its probability of beating the achievement odds than its personnel resources](sci-stronger-than-personnel-resources-for-bto.md) — related
+- [School climate is more strongly associated with the likelihood of beating the odds than student demographics or personnel resources](climate-stronger-association-than-resources.md) — related

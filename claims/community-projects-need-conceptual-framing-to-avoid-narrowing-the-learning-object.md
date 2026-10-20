@@ -75,3 +75,4 @@ This is a single interpretive case study (evidence tier q1) with no comparison c
 - [In one trial, task-centered Entrepreneur course students analyzed a new business as well as completed business majors](entrepreneur-course-trial-matches-business-majors.md) — related
 - [The authors argue that analyzing power imbalances, misshapen structures, and hidden assumptions are familiar critical thinking tasks for hesitant readers](power-analysis-as-familiar-critical-thinking.md) — related
 - [AI systems are non-neutral socio-technical artifacts embedding cultural assumptions and power relations](ai-non-neutral-embeds-power-relations.md) — related
+- [Primary barriers to infusing 21st century skills are psychological, political, and cultural rather than conceptual, technical, or economic](barriers-psychological-political-cultural.md) — related

@@ -13,16 +13,16 @@ generated:
 # Interest
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 118 claims (93 show a difference, 12 mixed, 11 no difference, 2 unmarked) · 94 studies (34 causal, 23 associational, 13 review, 12 design, 5 quant-synthesis, 5 qualitative, 2 theoretical), `q1`–`q4` · 20 of 94 report an effect size · 113 claims rest on one study
+> **Evidence** · 119 claims (95 show a difference, 13 mixed, 11 no difference) · 95 studies (34 causal, 23 associational, 13 review, 12 design, 5 quant-synthesis, 5 qualitative, 3 theoretical), `q1`–`q4` · 20 of 95 report an effect size · 114 claims rest on one study
 
 ## Description
 Interest is a learner's attraction to a topic. Research separates individual interest, a lasting disposition a learner brings, from situational interest, which material or activity sparks in the moment and which can grow into individual interest over time. Interest is measured by self-report, choice and persistence. It predicts attention, depth of processing and course choice, it moderates the effect of materials (seductive details catch interest without helping learning), and it is an outcome of designs that show relevance or give learners choice. It is a narrower case of [motivation](motivation.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [~W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Enjoyment of mathematics **r = .31**; attitudes toward mathematics **.12**. [Claim](../claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md)
+- Enjoyment of mathematics **r = .31**; attitudes toward mathematics **.12**. [Claim](../claims/achievement-emotions-and-anxiety-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 
@@ -153,6 +153,7 @@ Interest is a learner's attraction to a topic. Research separates individual int
 - [Repeated measures of invested mental effort, perceived task difficulty, interest, and self-assessed understanding differ significantly across measurement points within complex learning tasks and are not adequately represented by their mean](../claims/repeated-load-interest-measures-vary-within-complex-tasks.md) [+M] — instruction changes it
 - [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](../claims/individual-interest-predicts-achievement.md) [+W] — learners who differ on it differ in outcomes
 - [The teacher behaviours most predictive of engagement change do not neatly fit within any single motivational theory, supporting theoretical integration](../claims/influential-behaviours-span-multiple-motivational-theories.md) [+W] — instruction changes it
+- [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](../claims/school-racial-climate-positive-motivational-relationships.md) [+M] — instruction changes it
 
 ## The evidence by question
 - *Does seeing a task as interesting, important or useful raise the effort learners invest in it?* [Learners invest more effort in tasks they perceive as interesting, personally important, or useful to their future goals.](../claims/task-value-increases-motivation-and-engagement.md) [+M]

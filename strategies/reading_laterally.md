@@ -41,7 +41,7 @@ Lateral reading works because it shifts evaluation from judging a source's self-
 - Discipline-specific variants: checking journal reputation and retraction status in scientific literacy instruction
 
 ### Target Learners
-- Secondary and postsecondary students, who show widespread difficulty evaluating online sources even at elite universities (Breakstone et al., 2021) [~M]
+- Secondary and postsecondary students, who show widespread difficulty evaluating online sources even at elite universities ([Breakstone et al., 2021](https://doi.org/10.3102/0013189x211017495)) [~M]
 - Pre-service teachers and professionals whose work requires curating information for others
 - General adult learners consuming news and social media; benefits are largest for those with low prior familiarity with fact-checking workflows
 

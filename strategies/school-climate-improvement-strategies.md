@@ -41,7 +41,7 @@ The report names commonly employed school-level strategies for improving climate
 
 - [Target school-climate improvement within individual schools and communities, using schoolwide behavior systems, social-emotional learning, and compensatory supports](school-climate-improvement-strategies-for-equity.md)
 - [Positive Behavior Support](positive-behavior-support.md)
-- [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](../products/positive-behavioral-interventions-and-supports-pbis.md)
 - [Positive Behavior Interventions And Supports](positive-behavior-interventions-and-supports.md)
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 - [Teach Positive Actions](teach_positive_actions.md)

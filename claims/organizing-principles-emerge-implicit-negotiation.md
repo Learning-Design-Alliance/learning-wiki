@@ -43,4 +43,4 @@ Case study of seven groups of three fourth-grade secondary students using a grap
 
 
 ## Related Claims
--
+- [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — a narrower finding that bears on this claim

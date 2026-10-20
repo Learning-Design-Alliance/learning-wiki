@@ -62,3 +62,4 @@ Theoretical/interpretive argument drawing on the author's observations of Chicag
 - [Systematic racial, ethnic and gender differences in grades persist among students with the same test scores, attendance, courses and teachers](race-gender-grade-differences-persist.md) — related
 - [In-school suspension rates nearly doubled for African American high school students between 2008-09 and 2013-14 while remaining steady for other groups](iss-rates-doubled-african-american-high-school-students.md) — related
 - [Student outcomes are higher when principals share students' race/ethnicity, though principals with different backgrounds can also improve outcomes through intentional antiracist approaches](principal-student-race-match-outcomes.md) — related
+- [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](color-blind-ideology-emotion-regulation-difficulties.md) — related

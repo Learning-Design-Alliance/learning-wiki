@@ -13,7 +13,7 @@ generated:
 # Prior Knowledge
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 144 claims (81 show a difference, 43 mixed, 17 no difference, 3 unmarked) · 112 studies (35 causal, 23 review, 15 associational, 15 theoretical, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 112 report an effect size · 129 claims rest on one study
+> **Evidence** · 145 claims (85 show a difference, 43 mixed, 17 no difference) · 113 studies (35 causal, 23 review, 16 theoretical, 15 associational, 8 quant-synthesis, 8 qualitative, 8 design), `q1`–`q4` · 18 of 113 report an effect size · 130 claims rest on one study
 
 ## Description
 A learner's existing domain knowledge in the subject area before instruction begins — the organized network of concepts, procedures, and experiences that new learning must connect to. It is typically operationalized as a pretest score, a standardized prior-achievement measure, or instructor-rated expertise level, and functions as the single strongest predictor of learning gains in most instructional research [~S]. Prior knowledge is the learner-side variable that drives the [Expertise Reversal Effect](../theories/expertise-reversal-effect.md): the same technique that helps novices can hinder more knowledgeable learners.
@@ -22,10 +22,10 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Prior mathematical knowledge and later mathematics achievement: **r = .63** (k = 950), the second-largest of 66 correlates. Most studies relate earlier to later achievement rather than to growth, so this mostly shows how stable achievement is. [Claim](../claims/prior-knowledge-correlates-very-strongly-with-later-math-achievement.md)
-- Mathematics vocabulary **r = .49**, number line estimation **.44**. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md)
+- Prior mathematical knowledge and later mathematics achievement: **r = .63** (k = 950), the second-largest of 66 correlates. Most studies relate earlier to later achievement rather than to growth, so this mostly shows how stable achievement is. [Claim](../claims/prior-knowledge-correlates-very-strongly-with-later-math-achievement.md) [+W]
+- Mathematics vocabulary **r = .49**, number line estimation **.44**. [Claim](../claims/number-sense-tasks-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 
@@ -47,7 +47,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Advance organizers improve learning](../claims/advance-organizers-improve-learning.md) [+M] — organizing frameworks are most effective when learners lack the knowledge to structure material themselves.
 - [Analogical reasoning improves transfer](../claims/comparing-contrasting-cases-improves-learning.md) [+M] — analogies work by mapping new content onto knowledge learners already hold.
 - [Chunking reduces working memory load](../claims/chunking-reduces-working-memory-load.md) [+M] — prior knowledge supplies the schemas that make chunking possible; novices must be given them.
-- [Prior knowledge is not significantly related to test performance in this sample](../claims/prior-knowledge-not-related-to-performance.md) [-W] — a single-sample null finding (Nist & Hogrebe, 1985) that runs against the broader meta-analytic consensus and should not be generalized.
+- [Prior knowledge is not significantly related to test performance in this sample](../claims/prior-knowledge-not-related-to-performance.md) [-W] — a single-sample null finding ([Nist & Hogrebe, 1985](https://eric.ed.gov/?id=ED265520)) that runs against the broader meta-analytic consensus and should not be generalized.
 - [Both high- and low-prior-achieving students benefited from exposure to high-quality assignments](../claims/high-and-low-achievers-benefit-from-quality-assignments.md) [-M] — an instructional effect differs with it
 - [Both high- and low-prior-achieving students benefited from high-quality assignments, with math favoring low achievers and reading favoring high achievers](../claims/high-and-low-achievers-benefit-authentic-assignments.md) [~M] — an instructional effect differs with it
 - Cignition posttest scores correlate significantly with prior knowledge (portion A) scores on both TFL tasks at p < 0.01 [+M] — learners who differ on it differ in outcomes
@@ -192,6 +192,7 @@ The Learner Variability Navigator's Core Academic Literacies factor belongs here
 - [Building extensive, well-organized domain knowledge may enhance functional use of intelligence in novel problems](../claims/organized-knowledge-enhances-functional-intelligence.md) [+W] — learners who differ on it differ in outcomes
 - [Prior knowledge and intervention condition predict repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](../claims/prior-knowledge-and-prompting-moderate-load-and-interest.md) [~M] — an instructional effect differs with it
 - [Prior knowledge moderates non-interactive teaching: low conceptual knowledge learners profit more, but very low-knowledge learners may not benefit at all](../claims/prior-knowledge-moderates-noninteractive-teaching.md) [~M] — an instructional effect differs with it
+- [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](../claims/worked-example-effect-element-interactivity-explanation.md) [+M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does knowing more beforehand mean learning more from the instruction?* [Prior Knowledge Determines New Learning](../claims/prior-knowledge-determines-new-learning.md) [+M]

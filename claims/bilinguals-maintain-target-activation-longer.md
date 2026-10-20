@@ -45,3 +45,4 @@ Eye-tracking timecourse analysis in the 60-participant picture-word identificati
 ## Related Claims
 - [Monolinguals and bilinguals show similar within-language competitor activation during auditory word recognition](similar-within-language-competitor-activation-monolinguals-bilinguals.md) — related
 - [Competitor activation relates to negative priming at different time windows in monolinguals and bilinguals](competitor-activation-priming-timecourse-group-differences.md) — related
+- [Conscious awareness of action onset lags brain activity initiation by hundreds of milliseconds](awareness-lags-action-initiation.md) — related

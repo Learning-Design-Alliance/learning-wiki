@@ -45,3 +45,5 @@ Same quasi-experimental charter-network study comparing RGR users (teachers comp
 ## Related Claims
 - [Grade 1 students receiving Really Great Reading instruction scored higher on the NWEA MAP Reading Growth assessment in winter 2022](rgr-grade1-higher-map-winter-2022.md) — related
 - [Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration](rgr-grade3-no-outperformance-map.md) — related
+- [IMSE's OG+ improves early literacy outcomes in grades K–3, with effect sizes of +0.33 and +0.21 across two quasi-experimental studies](imse-og-plus-improves-early-literacy.md) — related
+- [Third-grade students whose teachers implemented IMSE's Morphology+ scored significantly higher on NWEA MAP Growth Reading than comparison students (effect size +0.05)](morphology-plus-significant-reading-gain-third-grade.md) — related

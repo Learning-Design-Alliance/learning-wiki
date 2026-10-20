@@ -64,3 +64,4 @@ Meta-analysis of 97 reports contributing 105 independent samples (N = 19,933) fr
 - [The anxiety–achievement correlation varies across types of language achievement measures](anxiety-achievement-varies-by-achievement-measure-type.md) — related
 - [Math anxiety has a small-to-moderate negative correlation with math achievement (r = −.28) in a meta-analysis of correlations from 223 studies](math-anxiety-degrades-performance.md) — a broader claim this one bears on
 - [Interest correlates moderately with academic achievement (mean correlation r = .31, meta-analytic)](interest-achievement-correlation-31.md) — related
+- [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](writing-apprehension-negative-correlation-self-efficacy.md) — related

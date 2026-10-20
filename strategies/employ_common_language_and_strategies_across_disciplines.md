@@ -12,14 +12,14 @@ generated:
 # Employ Common Language and Strategies Across Disciplines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Employing common language and strategies across disciplines means that teachers in different subject areas deliberately adopt shared terminology, shared instructional routines, and shared expectations for transferable skills such as writing, argumentation, and reading. Instead of each discipline using its own idiosyncratic vocabulary for the same moves (e.g., "claim–evidence–reasoning" in science but "thesis–support–conclusion" in English), the school or program standardizes the language and the strategy sequence, so students rehearse the same skill under multiple content conditions.
 
 ## Design Implications
 
-Consistency across contexts reduces the extraneous cognitive load of re-decoding instructions and rubrics in every class, freeing working memory for the content itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated, varied application of the same strategy across disciplines is also the classic condition for transfer: a skill practiced in only one context tends to stay bound to that context, while practice across multiple contexts supports abstraction and generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The approach draws on disciplinary literacy research, which argues that common skills (e.g., citing evidence) should be taught with a shared core language while acknowledging discipline-specific variations [Shanahan & Shanahan, 2008].
+Consistency across contexts reduces the extraneous cognitive load of re-decoding instructions and rubrics in every class, freeing working memory for the content itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated, varied application of the same strategy across disciplines is also the classic condition for transfer: a skill practiced in only one context tends to stay bound to that context, while practice across multiple contexts supports abstraction and generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The approach draws on disciplinary literacy research, which argues that common skills (e.g., citing evidence) should be taught with a shared core language while acknowledging discipline-specific variations ([Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.v62444321p602101)).
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 - **Scaffolded versions** of the common language for multilingual learners, using the same structure with added sentence frames
 
 ### Target Learners
-- Adolescents in grades 6–12, who encounter multiple teachers daily and benefit most from consistent expectations [Graham & Perin, 2007] [+M]
+- Adolescents in grades 6–12, who encounter multiple teachers daily and benefit most from consistent expectations ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) [+M]
 - Struggling writers and multilingual learners, for whom inconsistent terminology across classes adds a substantial decoding burden [~M]
 - Students developing transferable academic skills; less relevant for advanced learners who have already abstracted the underlying skill
 
@@ -56,7 +56,7 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 3. Introduce the strategy in one anchor class through [Direct Instruction](../patterns/direct-instruction.md) with [Modeling](../elements/coaching.md) and worked examples.
 4. Have every participating teacher require [Practice](../elements/practice.md) with the same strategy on discipline-specific content, keeping the language identical.
 5. Use the shared rubric to [Provide Feedback](../elements/assess-performance.md), so feedback terms match instruction terms.
-6. Use [Peer Discussion](../elements/class-discussion.md) and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) to help students articulate how the strategy applies across subjects.
+6. Use [Peer Discussion](../elements/class-discussion.md) and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] to help students articulate how the strategy applies across subjects.
 7. Review annually: retire strategies that are not transferring and refine discipline-specific adaptations.
 
 ## Related Strategies

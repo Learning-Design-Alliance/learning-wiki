@@ -48,3 +48,4 @@ Publication-bias assessment for the meta-analysis of 100 effect sizes using a fu
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
 - [Publication bias is unlikely to explain the consistency of SRL intervention effect sizes](srl-meta-analysis-no-publication-bias.md) — related
+- [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related

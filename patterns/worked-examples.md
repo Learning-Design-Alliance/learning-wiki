@@ -14,7 +14,7 @@ grain_size: lesson
 # Worked Examples
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 21 claims (7 for, 9 mixed, 2 against, 3 unmarked) · 16 studies (10 causal, 3 review, 2 theoretical, 1 design), `q2`–`q3` · 1 of 16 report an effect size · 19 claims rest on one study
+> **Evidence** · 21 claims (9 for, 10 mixed, 2 against) · 16 studies (10 causal, 3 review, 2 theoretical, 1 design), `q2`–`q3` · 1 of 16 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -50,9 +50,9 @@ A request for “better learning” does not specify these inputs. Ask for them 
 
 ## Choosing configurations from evidence
 
-- For a comparable initial circuit task, [the four-arm contrast](../claims/worked-example-problem-sequences.md) supports an example-first candidate. Calculators/formula sheets were permitted; solution access was restricted. “Independent” must preserve that distinction.
-- If examples/problems repeat the identical task, [the qualification](../claims/identical-example-problem-order-advantage-not-detected-at-final-test.md) prevents a universal final-test ordering claim. Lack of a detected difference is not equivalence.
-- For a transition to more independent probability reasoning, [backward fading and principle prompts](../claims/fading-and-principle-prompts-improve-probability-transfer.md) provide a candidate configuration. Their study does not validate this table's adaptive branches or a special synergy.
+- For a comparable initial circuit task, [the four-arm contrast](../claims/worked-example-problem-sequences.md) [+W] supports an example-first candidate. Calculators/formula sheets were permitted; solution access was restricted. “Independent” must preserve that distinction.
+- If examples/problems repeat the identical task, [the qualification](../claims/identical-example-problem-order-advantage-not-detected-at-final-test.md) [~W] prevents a universal final-test ordering claim. Lack of a detected difference is not equivalence.
+- For a transition to more independent probability reasoning, [backward fading and principle prompts](../claims/fading-and-principle-prompts-improve-probability-transfer.md) [+W] provide a candidate configuration. Their study does not validate this table's adaptive branches or a special synergy.
 
 Do not convert reported partial η² into a probability, rank unlike comparators using Cohen/Kraft labels, or predict delayed repair from immediate paper-task scores. A precise abstention names the missing comparison, target or observation and the next way to resolve it.
 

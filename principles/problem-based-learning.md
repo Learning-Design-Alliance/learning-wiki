@@ -31,7 +31,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (17 for, 28 mixed, 3 against) · 45 studies (9 causal, 9 review, 8 qualitative, 7 quant-synthesis, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 6 of 45 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (18 for, 29 mixed, 3 against) · 47 studies (10 review, 9 causal, 8 quant-synthesis, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 7 of 47 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -87,7 +87,7 @@ These rows are proposals, untested with learners. A probe can shift confidence a
 
 ## Evidence and qualifications
 
-- [The overall PBL effect in a tutor-background meta-analysis is modest, with large heterogeneity](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M]: a re-analysis (Walker & Leary, 2023) of the Leary et al. (2013) data, 353 outcomes, reports g = 0.27 with I² = 80% of variability attributable to heterogeneity; [individual outcomes range from g = −1.26 to g = 1.91](../claims/massive-range-pbl-outcome-effect-sizes.md) [~M]. Not yet checked against its source. It does not predict the effect of any one PBL implementation, and the claim pages do not report learners, comparators or horizons by outcome.
+- [The overall PBL effect in a tutor-background meta-analysis is modest, with large heterogeneity](../claims/pbl-overall-effect-modest-large-heterogeneity.md) [~M]: a re-analysis ([Walker & Leary, 2023](https://doi.org/10.14434/ijpbl.v17i2.35844)) of the Leary et al. (2013) data, 353 outcomes, reports g = 0.27 with I² = 80% of variability attributable to heterogeneity; [individual outcomes range from g = −1.26 to g = 1.91](../claims/massive-range-pbl-outcome-effect-sizes.md) [~M]. Not yet checked against its source. It does not predict the effect of any one PBL implementation, and the claim pages do not report learners, comparators or horizons by outcome.
 - Publication bias in the same data [~M]: a funnel plot and Egger's test indicate publication bias, and trim-and-fill drops the overall effect to g = 0.103. Treat the average as possibly overstated.
 - [Tutor background does not predict learning](../claims/tutor-background-meta-regression-not-predictive.md) [~M]: in a meta-regression with content novices as the reference, no tutor-expertise category predicted student learning (R² = .01, p = .14), and [the largest subgroup difference was not significant](../claims/tutor-background-meta-regression-not-predictive.md) [~M]. A nonsignificant moderator is not evidence that facilitation does not matter; it says tutors' credentials alone did not explain the variation.
 - [A small meta-analysis reports a large pooled effect on achievement](../claims/pbl-large-positive-effect-academic-achievement.md) [+W]: five studies, random-effects ES = 1.560 (95% CI 0.768–2.353), heterogeneous; the claim page records that the article describes its z-test as not significant (z = 3.859; p > .05), which is internally inconsistent. Do not weigh it against the 353-outcome synthesis.
@@ -121,7 +121,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 - [PBL offers potential to help students develop flexible understanding and lifelong learning skills](../claims/pbl-potential-flexible-understanding-lifelong-learning.md) [~W] — read 2026-10-19: a review's statement of potential, not a measured effect.
 - [Learning through the experience of solving problems can build both content knowledge and thinking strategies](../claims/problem-experience-builds-content-and-thinking-strategies.md) [+W] — read 2026-10-19: the review's theoretical rationale for PBL, not a test of any configuration.
 - [Review synthesis: explicit teaching matters, but its advantage over other approaches varies by context and structure](../claims/explicit-instruction-context-dependent-synthesis.md) [~W] — read 2026-10-19 (not about this page): a narrative review of four studies of explicit grammar teaching for second-language learners; no problem-based condition.
-- [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [~W] — read 2026-10-19 (not about this page): the bias check of a meta-analysis of self-regulated learning strategies (Ergen & Kanadli 2017), not of PBL; it says nothing about the PBL publication bias recorded above.
+- [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](../claims/srl-meta-analysis-publication-bias-absent.md) [~W] — read 2026-10-19 (not about this page): the bias check of a meta-analysis of self-regulated learning strategies ([Ergen & Kanadli 2017](https://doi.org/10.14689/ejer.2017.69.4)), not of PBL; it says nothing about the PBL publication bias recorded above.
 
 On 2026-10-19 (wave 2) the other claims linked here were read and moved into the model: worked examples (already in the novice row), whole-task practice and teacher-guided inquiry (evidence and qualifications), the short- and long-term retention pair (the basic-knowledge row), the equivocal-evidence essay (the curriculum row), engagement and theory-building discussion (observation), the evidence-gaps review (by question), and the rows on group size, learning issues, lectures alongside PBL, groups working over several weeks, and AI tools.
 - [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](../claims/spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) [+W]
@@ -142,6 +142,11 @@ The problem-first expectation should weaken if comparable learners, with compara
 An engaging problem phase, an immediate conceptual gain, delayed retention, transfer to practice and the learner's valued use are separate claims. The evidence recorded here does not establish an optimal amount of guidance, a readiness threshold for open problems, or the effect of whole PBL curricula against conventional instruction.
 
 At the curriculum level, the expectation of a small and variable average should change if bias-corrected syntheses with stated comparators and horizons show a consistent effect, or if moderators (guidance, consolidation, prior knowledge, outcome type) are found that explain the variation.
+
+## Claims
+
+- [The review identifies design issues in P(j)BL effect studies, such as lack of control groups, that question reported outcomes](../claims/pjbl-effect-study-design-issues.md) [+W]
+- [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](../claims/problem-driven-learning-small-positive-effect-motivation.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

@@ -46,3 +46,4 @@ Review examination of study characteristics regarding participant age. The revie
 
 - [Greater SLD stigma is generally associated with less optimal psychological adjustment (anxiety, depression, coping, self-efficacy, quality of life), though most associations could not be meta-analytically pooled](sld-stigma-psychological-adjustment-broader.md)
 - [Greater SLD stigma is associated with lower self-esteem, with a pooled medium-sized correlation (r = −.39) across nine effect sizes from six studies](sld-stigma-self-esteem-pooled-r-negative-39.md)
+- [Experimental stereotype threat effects in SLD samples are heterogeneous (Hedges's g 0.06–1.16), with effects more robust for motivation-related psychological outcomes than for cognitive or academic performance outcomes](sld-stereotype-threat-heterogeneous-effects.md) — related

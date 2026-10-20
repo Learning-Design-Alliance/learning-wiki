@@ -49,7 +49,7 @@ The article recommends that because within-school racial gaps contribute most to
 - [Identifying and Supporting Learners with Relationship Skills](identifying_and_supporting_learners_with_relationship_skills.md)
 - [Positive Behavior Support](positive-behavior-support.md)
 - [Positive Behavior Interventions And Supports](positive-behavior-interventions-and-supports.md)
-- [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](../products/positive-behavioral-interventions-and-supports-pbis.md)
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 - [School-level strategies for improving school climate](school-climate-improvement-strategies.md)
 

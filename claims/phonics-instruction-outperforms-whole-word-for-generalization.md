@@ -156,3 +156,7 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [Children learning orthographically consistent languages show fewer reading deficits and faster spelling development](orthographic-consistency-eases-reading-spelling.md) — related
 - [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — possibly the same claim (merge candidate)
 - [Text generation interventions improve learning with texts compared to reading them, with a medium overall effect (g = 0.41)](text-generation-overall-effect.md) — related
+- [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](no-significant-differences-between-word-reading-approaches.md) — related
+- [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](prior-adolescent-reading-reviews-wide-effect-range.md) — related
+- [Word study intervention shows a moderate overall effect on word reading and comprehension for older struggling readers](word-study-moderate-effect-older-readers.md) — related
+- [Children recognise the orthographic form of a pseudoword more often when its entire letter string was available at once during reading.](whole-word-presentation-improves-orthographic-learning.md) — related

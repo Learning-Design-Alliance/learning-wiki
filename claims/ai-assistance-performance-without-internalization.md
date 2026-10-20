@@ -57,3 +57,4 @@ Cross-contextual observational synthesis (Section 6), explicitly framed as conce
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
 - [Engagement remains an observable and evidential proxy for learning that AI has not broken, though it is not invulnerable](engagement-surviving-proxy.md) — a narrower finding that bears on this claim
 - [Sequencing independent task engagement before LLM consultation is associated with stronger student outputs](independent-work-before-llm-stronger-outputs.md) — related
+- [Long-term learning gains may be optimized in collaborative situations that display discouraging short-term process costs](process-costs-tradeoff-long-term-gains.md) — related

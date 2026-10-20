@@ -23,9 +23,9 @@ Struggle is only productive when learners sustain engagement with it; interpreti
 
 ### Context
 #### Requirements
-- Tasks that genuinely warrant struggle — problems learners can make meaningful progress on before instruction ([productive failure](../claims/productive-failure-improves-conceptual-learning.md) designs)
+- Tasks that genuinely warrant struggle — problems learners can make meaningful progress on before instruction ([productive failure](../claims/productive-failure-improves-conceptual-learning.md) [+M] designs)
 - Instructor language and classroom norms that treat errors as information: analyzing wrong answers publicly, crediting revision
-- Feedback structures that pair normalization with actionable next steps ([Feedback](../claims/feedback-most-effective-at-task-and-process-levels.md))
+- Feedback structures that pair normalization with actionable next steps ([Feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M])
 - Consistency across the course: a single "mistakes are welcome" statement without matching assessment practice is read as insincere
 
 #### Constraints

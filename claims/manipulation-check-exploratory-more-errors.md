@@ -43,4 +43,4 @@ Manipulation-check analysis reported at the end of training: the instructional m
 
 
 ## Related Claims
--
+- [Emotion dynamics during problem-solving predict learning outcomes in a manner that depends on scaffolding design](emotion-dynamics-during-problem-solving-predict-learning-outcomes-context-dependently.md) — related

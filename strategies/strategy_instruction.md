@@ -66,7 +66,7 @@ Strategy instruction works because it converts tacit expert procedures into expl
 - [Explicit reading strategy instruction following the WWW&H rule: explain, model, and support strategy implementation with guided practice](explicit-reading-strategy-instruction-steps.md)
 
 ## Examples
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — seventh graders with poor comprehension learned four strategies (summarizing, questioning, clarifying, predicting) through instructor modeling then student-led group practice; gains of roughly two standard deviations on comprehension assessments
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — seventh graders with poor comprehension learned four strategies (summarizing, questioning, clarifying, predicting) through instructor modeling then student-led group practice; gains of roughly two standard deviations on comprehension assessments
 - **Self-Regulated Strategy Development (SRSD)** (Graham & Harris) — writing instruction in which teachers model planning strategies (e.g., POW + TREE for persuasive essays) with self-talk and goal setting; one of the most strongly supported writing interventions
 - **Context-clue demonstration** — instructor reads an unfamiliar-word sentence aloud, verbalizing how surrounding words and word parts narrow the meaning, then learners practice the routine on new sentences with a cue card
 

@@ -43,4 +43,7 @@ Conditional process analysis (PROCESS model 59) of a randomized two-condition ex
 
 
 ## Related Claims
--
+- [Prior knowledge and working memory capacity did not moderate the worked example effect](no-prior-knowledge-wmc-moderation-worked-examples.md) — related
+- [Worked examples did not significantly increase self-explanation quality compared to problem-solving; both groups generated self-explanations of similar quality](worked-examples-no-self-explanation-quality-advantage.md) — related
+- [Self-explanation quality correlated with prior knowledge and post-test knowledge but not with learning gains](self-explanation-quality-correlations-null-gain.md) — related
+- [The benefit of worked examples over problem-solving increases with decreasing shifting ability, reproducing Schwaighofer et al. (2016)](shifting-ability-moderates-worked-example-benefit.md) — related

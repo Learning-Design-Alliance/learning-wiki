@@ -43,4 +43,6 @@ The article reports, citing Nelson, Benner, and Gonzalez (2003), a meta-analysis
 
 
 ## Related Claims
--
+- [Phonological awareness and rapid naming differentiate inadequate responders with word reading deficits from those without](phonological-processing-separates-inadequate-responder-subgroups.md) — related
+- [Naming speed, vocabulary, sentence imitation, problem behavior, and amount of intervention correctly classify most nonresponsive and always responsive students](discriminant-predictors-of-nonresponsiveness.md) — related
+- [In the Nelson, Benner, & Gonzalez (2005) RCT, SSL produced statistically significant positive effects on all five alphabetics outcomes](ssl-nelson-benner-gonzalez-2005-significant-outcomes.md) — related

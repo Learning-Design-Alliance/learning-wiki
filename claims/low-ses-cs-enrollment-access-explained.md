@@ -53,3 +53,4 @@ Analysis of CS enrollment by neighborhood SES with and without adjustment for sc
 - [Student access to CS grew faster than school access because larger high schools were more likely to offer CS, reaching 92 percent of students by 2018](student-cs-access-92-percent-2018.md) — related
 - Participating districts report large enrollment gaps in CS courses by income and gender — related
 - [ICCSD's enrollment data showed its high school CS courses were not attracting a student demographic representative of the wider district](iccsd-cs-enrollment-unrepresentative.md) — related
+- [U.S. high schools with high enrollments of students from low-income families are less likely to offer advanced mathematics courses than low-poverty schools](high-poverty-schools-offer-fewer-advanced-math-courses.md) — related

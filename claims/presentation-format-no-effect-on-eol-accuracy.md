@@ -43,4 +43,5 @@ Experiment 3 mixed-design study with 64 psychology students compared sequential 
 
 
 ## Related Claims
--
+- [The type of EOL task (difficulty vs. trials-to-learn scale) does not reliably affect EOL accuracy](eol-task-type-no-effect-on-accuracy.md) — a broader claim this one bears on
+- [Older adults show no reliable deficit in assessing item difficulty (EOL accuracy)](no-age-deficit-eol-difficulty-assessment.md) — a broader claim this one bears on

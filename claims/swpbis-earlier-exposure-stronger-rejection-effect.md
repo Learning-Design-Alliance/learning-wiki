@@ -48,4 +48,4 @@ The title follows the article's abstract, which reads the interaction as "sugges
 - [Age and Developmental Stage](../learner-variables/age-and-developmental-stage.md) — moderator: an instructional effect differs with it
 
 ## Related Claims
--
+- [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school](swpbis-reduces-growth-peer-rejection.md) — a broader claim this one bears on

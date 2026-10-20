@@ -57,3 +57,4 @@ The review's own synthesis (attributed to Khalil et al. 2022 and Nigam et al. 20
 - [Review reports ethical concerns of educational AI including algorithmic bias and exploitation of personal data](ethical-concerns-algorithmic-bias-data.md) — related
 - [Integrating AI in CS assessment raises concerns about academic integrity, algorithmic bias, transparency, and ethical evaluation](ai-assessment-integrity-bias-transparency-concerns.md) — related
 - [Adult learners raised data-practice concerns that did not map onto the Community of Inquiry framework, including not knowing what data is collected and where it goes](adult-learners-data-practice-concerns-g1.md) — related
+- [Researchers may need to treat all remotely collected data as potentially identifiable personal data](treat-remote-data-as-potentially-identifiable.md) — related

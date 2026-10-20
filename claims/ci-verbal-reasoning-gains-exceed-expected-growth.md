@@ -45,3 +45,4 @@ Longitudinal comparison of the same 112 students tested at ages 8-9 (CI-E) and i
 ## Related Claims
 - [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
 - [Adolescent CI users perform weakest on connected discourse comprehension and abstract verbal reasoning subtests](ci-weak-connected-discourse-abstract-reasoning.md) — related
+- [Sample selection bias may have led the study to overestimate language outcomes for adolescents with long-term CI use](ci-study-selection-bias-overestimate.md) — related

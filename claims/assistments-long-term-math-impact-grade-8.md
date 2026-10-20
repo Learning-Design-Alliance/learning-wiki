@@ -49,3 +49,4 @@ Intent-to-treat analysis of 5,991 students (2,961 intervention, 3,030 comparison
 - [ASSISTments achieved a long-term effect comparable to high-dosage tutoring at a small fraction of the cost](assistments-cost-comparison-saga-tutoring.md) — related
 - A North Carolina replication found ASSISTments 7th-grade use raised 8th-grade end-of-grade math scores (effect size +0.10) despite COVID-19 disruption — related
 - [ASSISTments benefited Hispanic students more than non-Hispanic students](assistments-hispanic-students-benefit-more.md) — related
+- [Baseline equivalence held between conditions, but both groups scored far below the grade 8 proficiency cut score](assistments-baseline-equivalence-proficiency-gap.md) — related

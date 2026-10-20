@@ -62,4 +62,4 @@ Subgroup analysis of 52 effect quantities for the cognitive skill dimension (Tab
 
 
 ## Related Claims
--
+- [Teaching type, intervention duration, subject area, group size, and learning scaffold significantly moderate the effect of collaborative problem-solving on critical thinking](five-significant-moderators-cps-critical-thinking.md) — related

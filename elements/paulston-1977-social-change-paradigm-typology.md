@@ -44,7 +44,8 @@ Figure 2 reproduces the author's 1977 Comparative Education Review typology, whi
 - 
 
 ## Examples
--
+
+- [Five-step discourse mapping procedure for representing a contested knowledge debate](../strategies/five-step-discourse-mapping-procedure.md)
 
 ## Key Sources
 - Paulston, Rolland G. (1999). Comparative Education After Postmodernity: Occasional Paper Series. https://eric.ed.gov/?id=ED430912

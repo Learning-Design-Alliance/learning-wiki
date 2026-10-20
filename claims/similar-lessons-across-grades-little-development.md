@@ -44,3 +44,6 @@ Observation of math instruction across grades 2, 5, 8, 9, and 10 found introduct
 
 ## Related Claims
 - Over 80 percent of observed Chicago lessons showed little to no depth or complexity, indicating neither depth nor coverage occurs with much frequency — related
+- [Spontaneous responsiveness to real-world events in PBL can deepen student-directed inquiry beyond what designed curriculum achieves](spontaneous-authenticity-in-pbl-deepens-student-directed-inquiry.md) — related
+- [The authors interpret the null result as partly reflecting a tension between adaptive mastery learning and curricular coverage: students who master early topics slowly may not reach later topics tested by the state assessment](adaptive-mastery-versus-coverage-tension-null-result.md) — related
+- [Embedding gravitational-wave science across a year-long astronomy curriculum gave coherence to previously disconnected units and motivated students](grav-wave-theme-coheres-curriculum.md) — related

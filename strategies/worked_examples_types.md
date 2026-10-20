@@ -61,7 +61,7 @@ The choice of worked example type should track learner expertise: high guidance 
 
 ## Related Strategies
 - [Fading](../elements/fading.md) — the mechanism by which example types progress from full support to independence
-- [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) — the diagnosis-and-correction variant that builds conceptual knowledge
+- [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — the diagnosis-and-correction variant that builds conceptual knowledge
 - [Completion Problems](../elements/fading.md) — the intermediate type on the guidance continuum
 
 ## Examples

@@ -62,4 +62,4 @@ Fuzzy Miner process model of the 18 low-challenge dyads; although challenge was 
 
 
 ## Related Claims
--
+- [High-cognition appears only in the low challenge process model and off-task activities only in the high challenge process model](high-cognition-only-low-challenge-model.md) — related

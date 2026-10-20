@@ -45,3 +45,4 @@ Source-modality items of the non-visual ToM task in 12 blind and 21 sighted chil
 ## Related Claims
 
 - [RTPJ selectivity for mental state content does not differ between blind and sighted children](rtpj-selectivity-similar-blind-sighted-children.md)
+- [Inter-region correlations within the ToM network are lower in blind children, while ToM and language networks remain functionally distinct](lower-within-tom-network-correlations-blind-children.md) — related

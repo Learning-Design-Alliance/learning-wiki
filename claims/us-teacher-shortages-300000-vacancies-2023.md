@@ -56,3 +56,4 @@ Analysis of state education agency data reported in the introduction. The report
 - Fresno’s Skillful Leader Project improved teacher retention and hiring — related
 - [The share of uncertified teachers among new Texas entrants rose from 16% in 2018–19 to 49% in 2023–24](texas-uncertified-new-teacher-share-rising.md) — a narrower finding that bears on this claim
 - [Teacher shortages disproportionately impact students in priority and highest-need California schools, which have fewer fully credentialed and more inexperienced teachers](california-shortages-disproportionately-impact-priority-schools.md) — a narrower finding that bears on this claim
+- [Shortage districts fill vacancies with substandard-credential teachers (55%), substitutes (24%), and out-of-field assignments (22%), with high-poverty districts using substandard credentials most](districts-staff-vacancies-substandard-credentials-substitutes.md) — a narrower finding that bears on this claim

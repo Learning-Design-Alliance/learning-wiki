@@ -46,3 +46,5 @@ Editorial report of the meta-analysis results on learning and collaboration outc
 
 - [The editorial reports that a meta-analysis of 53 primary studies found CSCL collaboration scripts had a non-significant positive effect on motivation, countering criticism that scripts harm motivation](cscl-scripts-motivation-non-significant-meta-analysis.md)
 - [The editorial reports an online teacher professional development intervention combining social capital mechanisms and automated scaffolds succeeded, with transactivity as a process indicator](social-capital-online-pd-intervention-success.md)
+- [CSCL scripts have a small significant positive effect on domain learning compared to unstructured collaborative learning](cscl-scripts-small-positive-domain-learning-effect.md) — a narrower finding that bears on this claim
+- [Whether a CSCL script prompts transactive activities does not significantly moderate its effects on domain-specific knowledge or collaboration skills](transactivity-moderator-not-significant.md) — related

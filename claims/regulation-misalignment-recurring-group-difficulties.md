@@ -43,4 +43,4 @@ In-depth qualitative case analysis of group three's spatial reasoning session, t
 
 
 ## Related Claims
--
+- [In-situ analysis of challenge episodes reveals a wide range of cognitive, motivational, emotional, and socially oriented micro-level challenges in collaborative learning](challenge-episodes-reveal-micro-level-challenges.md) — a broader claim this one bears on

@@ -37,7 +37,7 @@ Shadowing works as a form of formative diagnosis: it converts tacit impressions 
 #### Implementation Variability
 - **Student-shadowing** (observer follows a student) vs. **teacher-shadowing** (a peer observes the teacher's moves) — the former surfaces learner experience, the latter instructional technique
 - **Full-day shadowing** (typical in empathy-building and school-redesign work) vs. **single-lesson shadowing** (lighter, more repeatable)
-- **Student-led shadowing**, where students observe and report on their own experience (Cook-Sather, 2002), which doubles as a metacognitive exercise
+- **Student-led shadowing**, where students observe and report on their own experience ([Cook-Sather, 2002](https://doi.org/10.3102/0013189x031004003)), which doubles as a metacognitive exercise
 - **Video-enhanced shadowing**, where segments are recorded for shared analysis in a debrief
 
 ### Target Learners

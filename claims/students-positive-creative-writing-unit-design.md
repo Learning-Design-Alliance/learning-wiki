@@ -64,3 +64,4 @@ The appreciation analysis reports that group differences were scarce: "A Group e
 ## Related Claims
 
 - [Students' creative writing speed decreased in panel 1 except for students with relatively high Creative Self-Concept, and increased in panel 2](creative-writing-speed-panel-pattern-csc.md)
+- [Implementation fidelity of the creative writing unit was high: absentee rates below about 3% and completion of crucial divergent-thinking and writing assignments between 88% and 94%](cwi-unit-high-fidelity-attendance-completion.md) — related

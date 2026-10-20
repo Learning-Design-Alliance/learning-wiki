@@ -44,3 +44,8 @@ Experiment 2 ANCOVA (topic interest as covariate) on the behavioral take-home te
 
 ## Related Claims
 - [Interventions that trigger interest have larger effects on affirming motivations and reading comprehension than interventions that do not](interest-triggering-moderator.md) — related
+- [Interesting but irrelevant details can impair comprehension and transfer, with effects that vary with the material and the learner](seductive-details-effect.md) — a broader claim this one bears on
+- [Related decorative pictures do not enhance transfer performance in either experiment (null results for correctness and metacognitive monitoring)](related-decorative-pictures-no-transfer-effect.md) — related
+- [Sketching and viewing animations produced the best understanding of a geoscience text, while the photograph condition produced the worst](sketching-animation-best-understanding-photograph-worst.md) — related
+- [Related decorative pictures improve metacognitive monitoring accuracy for knowledge items in eighth-graders (Experiment 2), but not for transfer items](related-pictures-improve-metacognitive-monitoring-exp2.md) — related
+- [Reading a text with related decorative pictures yields more correct answers to knowledge items than reading the text without pictures (Experiment 1, university students)](related-decorative-pictures-improve-knowledge-exp1.md) — related

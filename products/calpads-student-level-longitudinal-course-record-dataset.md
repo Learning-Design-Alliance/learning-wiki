@@ -31,7 +31,9 @@ A California Department of Education administrative dataset containing student-l
 - [Grades 10-11 GPA estimates from CALPADS and UC data agreed closely: over 95% of students within three tenths of a point and the at-or-above-3 conclusion matched for 97%](../claims/calpads-uc-gpa-alignment-close.md) [+W]
 
 ## Related Products and Programmes
--
+
+- [Arizona linked education–child welfare student database](arizona-linked-educationchild-welfare-student-database.md)
+- [Illinois Community College Board (ICCB) data via the Illinois Longitudinal Data System (ILDS)](illinois-community-college-board-iccb-data-via-the-illinois-longitudinal-data-system-ilds.md)
 
 ## Key Sources
 - Fong, A., Barrat, V., & Finkelstein, N. (2018). Examination of data usability options for assessing eligibility for higher education in California. San Francisco, CA: WestEd. https://www.wested.org

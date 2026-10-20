@@ -50,3 +50,4 @@ Correlational field study of N = 358 senior high school students in regular biol
 - [Stronger positive emotions are associated with more overconfident predictions, and stronger negative emotions (anxiety, shame, hopelessness) with more underconfident predictions](emotions-prediction-accuracy-over-underconfidence.md) — related
 - [Students also use achievement emotions as cues when making postdictions about their comprehension](emotions-as-cues-postdictions.md) — related
 - [Epistemic beliefs, prior knowledge, and the think-aloud emotion of anger jointly predict low-epistemic processing during reading of the other-side text](epistemic-beliefs-anger-predict-low-epistemic-processing.md) — related
+- [The think-aloud emotion of sadness and prior knowledge predict coherence-based processing during reading of the other-side text](sadness-prior-knowledge-predict-coherence-processing.md) — related

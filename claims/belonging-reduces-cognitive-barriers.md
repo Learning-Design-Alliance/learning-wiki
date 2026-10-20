@@ -51,3 +51,5 @@ Design Principle 2 section, a narrative synthesis, reports that "learning happen
 - The triadic alienation pattern combines low self esteem, low social interest, and high self centrality — related
 - [Teacher support is one of the strongest predictors of student belonging](teacher-support-strongest-predictor-school-belonging.md) — related
 - [Students with belonging, purpose, collaboration, goal-setting, and perseverance skills alongside academic knowledge are more likely to reach their full potential](sel-skills-plus-academics-full-potential.md) — related
+- [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — related
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — a narrower finding that bears on this claim

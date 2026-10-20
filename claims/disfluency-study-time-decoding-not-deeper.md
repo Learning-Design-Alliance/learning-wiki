@@ -48,3 +48,4 @@ Editorial synthesis citing Eitel and Kühl (2015) and Rummer et al. (2015, Exp. 
 - [All 13 special-issue studies failed to show overall better performance due to disfluency](thirteen-studies-null-disfluency-performance.md) — a broader claim this one bears on
 - [Disfluency affected metacognitive monitoring (JOLs) only under specific conditions: within-subjects manipulation with unrelated word pairs, or on screen rather than paper](disfluency-jol-boundary-conditions.md) — related
 - [Fluent Illusions Mislead Self Assessment](fluent-illusions-mislead-self-assessment.md) — related
+- [Any positive effects of responding to disfluency are most likely to appear on later perceptual tasks, not content recall](disfluency-transfer-to-perceptual-tasks.md) — related

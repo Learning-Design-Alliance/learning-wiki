@@ -17,7 +17,7 @@ sources:
 # Information Processing Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 101 claims (50 for, 50 mixed, 1 against) · 60 studies (22 associational, 18 causal, 12 review, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 12 of 60 report an effect size · 98 claims rest on one study
+> **Evidence** · 102 claims (50 for, 51 mixed, 1 against) · 61 studies (22 associational, 19 causal, 12 review, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 12 of 61 report an effect size · 99 claims rest on one study
 
 ## Description
 Information Processing Theory treats learning as the movement and transformation of information through attention, working memory, encoding, storage, and retrieval. In broad terms, the theory asks what learners notice, how much they can actively process at once, how they organize new information, and how it becomes retrievable later.
@@ -164,6 +164,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Working memory is distinct from short-term memory in subsystem count and functional role in higher cognition](../claims/wm-distinct-from-stm-subsystems-function.md) [+W]
 - [Working memory and symbolic number processing are both linked to adult arithmetic and numeracy, replicating prior research](../claims/wm-np-predict-adult-math.md) [~W]
 - [The WM model is criticised as underspecified in its component interactions, limiting its predictive power](../claims/wm-model-underspecified-components-criticism.md) [-W]
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](../claims/monitoring-declines-under-high-wm-load.md) [~W]
 
 ## The evidence by question
 - *How large should a unit be, and does grouping static material help?* [Chunking reduces working memory load by grouping information into fewer, more meaningful units.](../claims/chunking-reduces-working-memory-load.md) [+S]
@@ -181,6 +182,7 @@ Information processing models are often criticized as overly linear and serial, 
 - [Schema theory: learning new information depends on relating it to existing mental blueprints](schema-theory-prior-knowledge-scaffolding.md)
 - [Three-phase model of learning in the brain: encoding, consolidation, retrieval](three-phase-memory-model-encoding-consolidation-retrieval.md)
 - [Dual-process account of category access: general initial facilitation plus accumulating inhibition determined by the number of prior retrievals](facilitation-plus-accumulating-inhibition.md)
+- [Autonomic (rather than cortical) arousal account of the word-arousal memory effect](autonomic-arousal-account-word-recall.md)
 
 ## Examples
 

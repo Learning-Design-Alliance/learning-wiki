@@ -50,3 +50,4 @@ WWC synthesis of one study (Smith et al., 2018), a cluster randomized trial of t
 - [Good Behavior Game shows uncertain effects on mathematics achievement, with an effect size of 0.26 that is not statistically significant](gbg-uncertain-math-effects.md) — related
 - [Good Behavior Game improves teacher practice related to student behavior, with a pooled effect size of 0.79 across two studies](gbg-improves-teacher-practice.md) — related
 - PAX Good Behavior Game is rated in the Promising evidence category based on one qualifying study of 949 students — related
+- [Good Behavior Game improves student writing conventions and writing productivity in one single-case study](gbg-improves-writing-outcomes.md) — related

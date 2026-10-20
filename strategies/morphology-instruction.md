@@ -19,7 +19,7 @@ Morphology instruction teaches learners that words are built from meaningful uni
 
 ## Design Implications
 
-Morphology instruction works because it converts thousands of arbitrary word-learning tasks into a smaller generative system: knowing a handful of high-frequency affixes unlocks families of related words. Meta-analytic evidence shows it improves literacy outcomes, with the strongest effects on morphological awareness itself and smaller but reliable transfer to decoding, spelling, and comprehension [Goodwin & Ahn, 2013]. It functions as a form of [Chunking](../principles/chunking.md): a polymorphemic word held as two or three meaningful units imposes less working-memory load than the same word held as a string of letters [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Morphology instruction works because it converts thousands of arbitrary word-learning tasks into a smaller generative system: knowing a handful of high-frequency affixes unlocks families of related words. Meta-analytic evidence shows it improves literacy outcomes, with the strongest effects on morphological awareness itself and smaller but reliable transfer to decoding, spelling, and comprehension ([Goodwin & Ahn, 2013](https://doi.org/10.1080/10888438.2012.689791)). It functions as a form of [Chunking](../principles/chunking.md): a polymorphemic word held as two or three meaningful units imposes less working-memory load than the same word held as a string of letters [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Morphology instruction works because it converts thousands of arbitrary word-lea
 - Oral-only morphological awareness activities for younger learners vs. written word analysis from mid-primary onward
 
 ### Target Learners
-- Struggling readers in upper elementary and secondary school, who gain the largest decoding and comprehension benefits [Goodwin & Ahn, 2013] [+M]
+- Struggling readers in upper elementary and secondary school, who gain the largest decoding and comprehension benefits ([Goodwin & Ahn, 2013](https://doi.org/10.1080/10888438.2012.689791)) [+M]
 - English learners, whose first language often supplies cognate morphemes that transfer (e.g., Spanish *-ción* → English *-tion*) [+M]
 - Beginning decoders benefit less until word recognition is partially automatic [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~M]
 

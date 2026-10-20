@@ -48,3 +48,4 @@ Experiment with elementary preservice teachers (N = 87) in a 2 (within, time poi
 ## Related Claims
 - [Correct exemplars supported greater detection and correction of errors and omissions in explanations than a list of steps focused on structural aspects](correct-exemplars-beat-defining-features-for-error-detection.md) — related
 - [Erroneous examples improve conceptual understanding by forcing comparison with correct models.](erroneous-examples-build-conceptual-knowledge.md) — a broader claim this one bears on
+- [Teachers who focused on knowledge-building principles showed deeper understanding than those focused on surface procedures or technical aspects](principle-focused-teachers-deeper-understanding.md) — related

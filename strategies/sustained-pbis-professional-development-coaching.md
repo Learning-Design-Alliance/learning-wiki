@@ -40,7 +40,7 @@ The article describes a one-year professional development model in which eight s
 
 - [Design professional development that is intensive, on-site, peer-based, responsive, and grounded in teachers' real classroom experiences](tefa-pd-design-strategy.md)
 - [Positive Behavior Interventions And Supports](positive-behavior-interventions-and-supports.md)
-- [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](../products/positive-behavioral-interventions-and-supports-pbis.md)
 - [Sustained teacher professional development with coaching and professional learning communities](sustained-pd-coaching-plc-teacher-training.md)
 - [Provide 70 hours of professional development in three phases: intensive training, practice, and implementation](corrective-reading-70-hour-three-phase-pd-strategy.md)
 - [Combine summer professional development with school-year on-site coaching and provision of complete instructional materials](summer-pd-plus-coaching-plus-materials-kits.md)

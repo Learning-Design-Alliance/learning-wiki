@@ -43,4 +43,4 @@ The report's framing statement, offered without supporting data or citation in t
 
 
 ## Related Claims
--
+- [Value-added estimates are likely to be noisy with the amount of data typically used in practice](value-added-estimates-noisy-typical-data.md) — related

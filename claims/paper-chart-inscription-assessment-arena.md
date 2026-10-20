@@ -43,4 +43,4 @@ Close multimodal analysis of Episode 1, a pre-departure check of a course plan i
 
 
 ## Related Claims
--
+- [Students' spatial positions in the simulator display their understanding of bridge work roles, and instructors use these positions as a basis for embedded assessment and correction](spatial-positions-display-work-role-understanding.md) — related

@@ -62,4 +62,7 @@ Same item analysis of the full item set reported in the Results section: discrim
 
 
 ## Related Claims
--
+- [Chinese college ESP learners show high amotivation-subscale, external-regulation, identified-regulation and intrinsic (knowledge, accomplishment) item means](esp-learners-mixed-motivational-propensities.md) — related
+- [Negative affective experience items were dropped due to floor effects and poor discrimination](negative-affect-items-floor-effect-removed.md) — related
+- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](coi-presence-uneven-profile-mba.md) — related
+- [Subscale reliabilities of the task-specific questionnaire were moderate to low in both a 16-student and a 190-student administration, despite acceptable full-instrument reliability](task-specific-questionnaire-low-subscale-reliabilities.md) — related

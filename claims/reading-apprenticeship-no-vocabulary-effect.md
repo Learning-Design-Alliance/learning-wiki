@@ -46,3 +46,6 @@ WWC synthesis of 1 study meeting standards (Somers et al., 2010; 2,255 grade 9 s
 - [Reading Apprenticeship® shows uncertain effects on reading comprehension across five studies](reading-apprenticeship-uncertain-reading-comprehension.md) — related
 - [Reading Apprenticeship® showed no statistically significant effects on most GRADE outcomes: Cohort 1 comprehension and vocabulary, and Cohort 2 vocabulary](reading-apprenticeship-null-grade-outcomes.md) — related
 - [Reading Apprenticeship® shows uncertain effects on mathematics achievement, with one significant negative finding](reading-apprenticeship-uncertain-mathematics-achievement.md) — related
+- [Reading Apprenticeship® shows uncertain effects on life sciences achievement in one study](reading-apprenticeship-uncertain-life-sciences.md) — related
+- [Reading Apprenticeship® shows uncertain effects on literacy achievement across five studies](reading-apprenticeship-uncertain-literacy-achievement.md) — related
+- [Reading Apprenticeship® shows uncertain effects on social studies achievement in one study](reading-apprenticeship-uncertain-social-studies.md) — related

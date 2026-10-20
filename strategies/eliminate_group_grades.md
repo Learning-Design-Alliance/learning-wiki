@@ -59,7 +59,7 @@ Group grades create a social-loafing problem: when individual contribution is in
 6. Debrief with teams on process (who did what, what worked) to preserve shared responsibility without shared grades.
 
 ## Related Strategies
-- [Individual accountability within cooperative learning](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) — the claim-level basis: group rewards work only when paired with individual accountability
+- [Individual accountability within cooperative learning](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+M] — the claim-level basis: group rewards work only when paired with individual accountability
 - Peer assessment strategies — provide the contribution-visibility mechanism that replaces the shared grade
 - [Assessment for learning](../principles/assessment-for-learning.md) — reframes group work as feedback-rich practice rather than a grading event
 

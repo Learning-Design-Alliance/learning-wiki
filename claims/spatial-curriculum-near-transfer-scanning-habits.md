@@ -85,3 +85,4 @@ Mental rotation task (three-dimensional rotation, not strongly related to the tw
 - [Improvement in spatial scanning predicts and mediates the curriculum's transfer effect to verbal reasoning](spatial-gains-predict-mediate-verbal-transfer.md) — related
 - [A spatial STEM curriculum yields far transfer to improved verbal deductive reasoning in high school students, including on nonspatial relation trials](spatial-curriculum-transfers-to-verbal-reasoning.md) — related
 - [Five hours of Tetris play improved some mental rotation measures but not most spatial skill measures](tetris-play-selective-mental-rotation-gains.md) — related
+- [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related

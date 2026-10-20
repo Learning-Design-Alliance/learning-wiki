@@ -43,4 +43,4 @@ Planned comparison between the problematizing condition (19 triads) and the stru
 
 
 ## Related Claims
--
+- [Problematizing scaffolds produced a small significant positive effect on transfer of individual domain knowledge compared to structuring scaffolds](problematizing-scaffolds-transfer-effect.md) — related

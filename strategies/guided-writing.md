@@ -19,7 +19,7 @@ Guided writing is a small-group or whole-class instructional strategy in which t
 
 ## Design Implications
 
-Guided writing works because it reduces the working-memory and self-regulation demands of composing — planning, transcribing, and revising compete for the same limited resources, especially in novice writers [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Meta-analytic evidence shows that explicit, structured writing instruction — including strategy instruction with teacher modeling and scaffolded practice — produces substantial gains in text quality compared with unguided approaches [Graham & Perin, 2007] [+S]. The teacher's role is to make invisible compositional decisions (audience, structure, sentence construction) visible, then fade support as students internalize them.
+Guided writing works because it reduces the working-memory and self-regulation demands of composing — planning, transcribing, and revising compete for the same limited resources, especially in novice writers [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Meta-analytic evidence shows that explicit, structured writing instruction — including strategy instruction with teacher modeling and scaffolded practice — produces substantial gains in text quality compared with unguided approaches ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) [+S]. The teacher's role is to make invisible compositional decisions (audience, structure, sentence construction) visible, then fade support as students internalize them.
 
 ### Context
 #### Requirements
@@ -40,7 +40,7 @@ Guided writing works because it reduces the working-memory and self-regulation d
 - **Collaborative guided writing**: pairs jointly plan and draft under teacher guidance; peer co-construction improves text quality [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 
 ### Target Learners
-- Emerging and struggling writers, who lack the self-regulation strategies to plan and monitor composition unaided [Graham & Perin, 2007] [+S]
+- Emerging and struggling writers, who lack the self-regulation strategies to plan and monitor composition unaided ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) [+S]
 - English learners, who benefit from explicit models of rhetorical and sentence structures in the target language [+M]
 - Proficient writers benefit less from structured guidance and more from extended independent composing time [~W]
 

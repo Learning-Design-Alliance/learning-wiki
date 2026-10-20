@@ -47,3 +47,4 @@ Harvest plot synthesis (Fig. 5) of 211 estimates of over-time change in inequali
 - Inequality within schools increased after the 2020 school closures, with the Gini coefficient rising by 17% for mathematics and 20% for Dutch — a narrower finding that bears on this claim
 - [Remote learning exacerbated pre-pandemic disparities in no-credit grades for low-income students and students of color in grades 4-8, but within-school differences were small](cps-nocredit-disparities-exacerbated-remote-learning.md) — possibly the same claim (merge candidate)
 - [On average, students across most grades made reading and math gains during the 2020-21 pandemic-affected school year](covid-2020-21-average-gains-most-grades.md) — related
+- [Within-family fixed-effects analysis estimates the learning-loss gap between educational backgrounds at 60%](within-family-learning-loss-gap-60-percent.md) — a narrower finding that bears on this claim

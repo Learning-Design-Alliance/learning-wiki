@@ -49,3 +49,4 @@ The authors relate this to the load of mathematical problem solving, which requi
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
 - [Executive function measures predict early mathematics achievement over and above reading ability and IQ](executive-functions-predict-early-math-over-iq.md) — related
 - [Executive functions show significant associations with reading outcomes in elementary school children (meta-analysis of 60 studies, 275 effect sizes)](ef-significantly-associated-with-reading-meta-analysis.md)
+- [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](ef-academic-performance-small-to-medium-meta-analytic.md) — related

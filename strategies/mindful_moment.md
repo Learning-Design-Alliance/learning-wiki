@@ -80,7 +80,7 @@ Mindful moments work as an attention-reset mechanism: brief breath-focused pract
 
 ## Examples
 - At the beginning of class, or after a transition, invite learners to close their eyes (if they're comfortable doing so) and take a few deep breaths. They can pay attention to breathing — what does it feel like when they breathe in and out? Or they can notice their thoughts — is their mind really busy or quiet right now? Use a short video as a guide.
-- The [MindUP](https://mindup.org) program embeds a daily "brain break" — a three-minute mindful breathing practice — across the school day; a randomized evaluation (Schonert-Reichl et al., 2015) showed improvements in executive function, attention, and prosocial behavior in elementary students [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [+M]
+- The [MindUP](https://mindup.org) program embeds a daily "brain break" — a three-minute mindful breathing practice — across the school day; a randomized evaluation ([Schonert-Reichl et al., 2015](https://doi.org/10.1037/a0038454)) showed improvements in executive function, attention, and prosocial behavior in elementary students [Mindfulness-based interventions in schools show small positive effects on attention and resilience.](https://doi.org/10.3389/fpsyg.2014.06033) [+M]
 - Mrazek and colleagues gave undergraduates two weeks of brief daily mindfulness practice before the GRE; the trained group improved reading comprehension scores and working memory capacity relative to a control group [Mindfulness training improves working memory capacity and GRE performance while reducing mind wandering.](https://doi.org/10.1177/0956797612459659) [+M]
 
 ## Key Sources

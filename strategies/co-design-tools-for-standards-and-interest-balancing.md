@@ -17,7 +17,7 @@ sources:
 # Co-Design Tools for Standards and Interest Balancing
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Curriculum co-design teams often face two goals in tension: covering required standards, and connecting to what students and their communities actually find compelling. This strategy sequences a specific set of tools that make both goals visible and negotiable at the same time, rather than treating standards coverage as a fixed constraint decided in advance and student interest as an afterthought layered on top. The tools work through three interacting mechanisms: deliberation (confronting different perspectives on what standards mean and what counts as compelling), anticipation (rehearsing a unit's launch to test whether it actually elicits the intended questions), and reflection (explicit group review of how well each tool served its purpose).
@@ -35,7 +35,7 @@ Curriculum co-design teams often face two goals in tension: covering required st
 - Standards alignment sometimes had to override strong measured student interest (a highly-rated phenomenon was dropped because it matched middle-school, not high-school, standards)
 
 ### Target Learners
-- [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](../claims/co-design-tools-support-balancing-standards-and-student-interests.md)
+- [Co-design tools for standards analysis, student-interest data, and launch rehearsal support balancing standards alignment with student interests](../claims/co-design-tools-support-balancing-standards-and-student-interests.md) [+W]
 
 ### Target Learning Goals
 - Producing curriculum units (see [Storyline Science Curriculum Design](../patterns/anchored-instruction.md)) that are simultaneously standards-aligned and grounded in genuine student and community interest

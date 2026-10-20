@@ -13,7 +13,7 @@ generated:
 # Safety
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 74 claims (51 show a difference, 17 mixed, 6 no difference) · 44 studies (16 associational, 10 review, 6 qualitative, 5 causal, 4 quant-synthesis, 2 theoretical, 1 design), `q1`–`q4` · 2 of 44 report an effect size · 74 claims rest on one study
+> **Evidence** · 75 claims (52 show a difference, 17 mixed, 6 no difference) · 45 studies (16 associational, 10 review, 6 qualitative, 5 causal, 4 quant-synthesis, 3 theoretical, 1 design), `q1`–`q4` · 2 of 45 report an effect size · 75 claims rest on one study
 
 ## Description
 Safety here means both being and feeling physically and psychologically secure in the places a learner spends time: home, school or work, the neighbourhood and the wider community. It covers violence and crime, bullying and cyberbullying, and, from adolescence on, a learner's own risk-taking behaviour such as substance use. It matters for learning because a learner who feels safe can focus on the task, while one who feels unsafe tends to miss school and take part less in class, losing learning opportunities. For adults, the LVN adds that learners who had bad experiences of school need to feel safe enough to learn again. It is measured with self-report bullying and victimisation scales, neighbourhood questionnaires and screening tools for risky behaviour. It overlaps with [adverse experiences](adverse-experiences.md), since feeling unsafe can be traumatic, and with [belonging](belonging.md).
@@ -110,6 +110,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - [The association between perceived neighborhood safety and GPA is moderated by observer-rated neighborhood disorder and by neighborhood affluence](../claims/safety-gpa-moderated-by-disorder-and-affluence.md) [~W] — learners who differ on it differ in outcomes
 - [High-tech VAD equipment made participants feel under observation and stressed, and viewing recorded mistakes before teammates threatened psychological safety in both VAD forms](../claims/vad-stress-psychological-safety-threat.md) [+M] — instruction changes it
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](../claims/resource-fit-qualitative-belonging.md) [+M] — learners who differ on it differ in outcomes
+- [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](../claims/school-racial-climate-positive-motivational-relationships.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Electronic Bullying Questionnaire** (Kowalski & Limber, 2007): self-report of how often a person has been cyberbullied or has cyberbullied others.
@@ -117,7 +118,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - **Peer Victimization Scale** (Austin & Joseph, 1996): assesses being bullied at school for children aged 8 to 11.
 - **Gatehouse Bullying Scale** (Bond et al., 2007): assesses bullying victimisation at school for ages 10 to 15.
 - **Neighborhood Environment Walkability Scale (NEWS)** (Saelens et al., 2003): residents' perceptions of neighbourhood features including safety, traffic hazards and crime.
-- **Neighborhood Questionnaire** (Greenberg & Lengua, 1995): a parent's view of neighbourhood safety, public services and violent crime.
+- **Neighborhood Questionnaire** ([Greenberg & Lengua, 1995](https://doi.org/10.1017/s0954579400006374)): a parent's view of neighbourhood safety, public services and violent crime.
 
 ## Related Learner Variables
 - [Adverse Experiences](adverse-experiences.md): feeling unsafe can be traumatic, and trauma lowers felt safety.

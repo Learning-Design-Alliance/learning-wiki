@@ -44,3 +44,5 @@ Background-item comparison across the two anonymous questionnaire rounds. The sh
 
 ## Related Claims
 - Reported prior knowledge of lesson content differed sharply between sessions (r=−.330) and was treated as a measure of content divergence, not a covariate — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a broader claim this one bears on
+- [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — a broader claim this one bears on

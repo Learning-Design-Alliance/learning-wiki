@@ -44,3 +44,4 @@ Pre-registered mixed ANOVA on the full sample (N = 710; 235 confidence rating, 2
 
 ## Related Claims
 - [High levels of induced social presence during non-interactive teaching can impair learning relative to restudy (a double-edged sword)](social-presence-double-edged-sword-noninteractive-teaching.md) — related
+- [Rule learners report higher confidence in their described rules than non-learners, but confidence does not differ within flexibility groups](rule-learner-confidence-higher-than-non-learners.md) — related

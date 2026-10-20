@@ -12,7 +12,7 @@ generated:
 # Augmented Reality (AR) in Classroom
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (1 for, 1 mixed, 1 against, 1 unmarked) · 14 studies (9 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 4 of 14 report an effect size
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 14 studies (9 causal, 4 quant-synthesis, 1 review), `q2`–`q4` · 4 of 14 report an effect size
 
 ## Description
 Augmented reality overlays digital content — 3D models, annotations, audio, video — onto the learner's physical environment, typically via smartphone, tablet, or AR headset. In classrooms, AR is used to visualize phenomena that are otherwise invisible or inaccessible (molecular structures, anatomy, historical sites), to add interactive layers to physical materials such as textbooks and worksheets, and to support situated, inquiry-based activity. Unlike virtual reality, AR keeps learners grounded in the real environment, allowing digital and physical information to be manipulated together.
@@ -55,7 +55,7 @@ AR's learning benefit comes primarily from externalizing abstract or spatially c
 
 ### Instructions
 1. Identify a learning goal where visualization or manipulation genuinely adds value — typically spatial, structural, or process content; do not adopt AR for content that works as well in text or 2D [Decorative illustrations do not improve learning.](../claims/seductive-details-effect.md) [-S]
-2. [Activate prior knowledge](../claims/activation-improves-learning.md) before the AR activity so students approach the overlay with a question to answer, not just a toy to explore
+2. [Activate prior knowledge](../claims/activation-improves-learning.md) [~M] before the AR activity so students approach the overlay with a question to answer, not just a toy to explore
 3. Introduce the AR tool with a brief [demonstration](../elements/demonstration.md) of the interface itself, so device manipulation does not compete with content processing during the task [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 4. Structure the AR experience around an explicit task — prediction, comparison, labeling, or inquiry — rather than free exploration; pair with a [graphic organizer](../elements/graphic-organizers.md) or recording sheet to direct attention
 5. Follow with [practice](../elements/practice.md) in a non-AR format (drawing, explaining, solving) to check that the visualization produced durable understanding rather than momentary engagement

@@ -28,7 +28,7 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 
 ### Context
 - Speaking in class, especially in front of classmates and where what will be said is hard to predict, is the setting the sources most associate with this anxiety.
-- Teacher-centred classrooms that give little speaking practice are named as a source of anxiety (Sadighi & Dastpak, 2017).
+- Teacher-centred classrooms that give little speaking practice are named as a source of anxiety ([Sadighi & Dastpak, 2017](https://doi.org/10.7575/aiac.ijels.v.5n.4p.111)).
 
 ### Target Learners
 - The fetched evidence comes from Iranian EFL institute learners, two Japanese adult EFL learners studying in Japan and the USA, and Chinese university students learning English.
@@ -36,7 +36,7 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 
 ### Target Learning Objectives
 - Oral performance and willingness to take part in class.
-- Vocabulary acquisition. Here the direction of the effect depends on the kind of anxiety (Zhao et al., 2016).
+- Vocabulary acquisition. Here the direction of the effect depends on the kind of anxiety ([Zhao et al., 2016](https://doi.org/10.64152/10125/66903)).
 
 ## Claims
 
@@ -58,7 +58,7 @@ Most researchers, as Zhao et al. (2016) put it, agree that FLA "negatively influ
 ## Related Theories
 
 - [Social-psychological construct framework for Foreign Language Classroom Anxiety](social-psychological-constructs-flca-framework.md) — source-framed variant (Leichsenring, 2010)
-- [Attachment Theory account of social anxiety in language learning](attachment-theory-social-anxiety-efl.md) — a neighbouring account of the social-anxiety component (Sadighi & Dastpak, 2017)
+- [Attachment Theory account of social anxiety in language learning](attachment-theory-social-anxiety-efl.md) — a neighbouring account of the social-anxiety component ([Sadighi & Dastpak, 2017](https://doi.org/10.7575/aiac.ijels.v.5n.4p.111))
 - [Willingness to Communicate in a Second Language](willingness-to-communicate-in-l2.md) — anxiety is part of L2 self-confidence in that model
 - [Krashen's input hypothesis and Monitor Model of second language acquisition](krashen-input-hypothesis-monitor-model.md) — its affective filter hypothesis makes anxiety a block on the use of input
 - [Self-Efficacy Theory](self-efficacy-theory.md)

@@ -53,7 +53,7 @@ The intervention combined several instructional methods: an online inquiry task 
 ## Related Strategies
 
 - [Structuring Group Work](structuring-group-work.md)
-- [Collaborative Strategic Reading](collaborative-strategic-reading.md)
+- [Collaborative Strategic Reading](../products/collaborative-strategic-reading.md)
 
 ## Examples
 -

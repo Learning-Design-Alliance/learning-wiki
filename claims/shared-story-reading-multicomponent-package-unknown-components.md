@@ -43,4 +43,4 @@ Limitation analysis in the review's discussion, drawing on the Browder et al. (2
 
 
 ## Related Claims
--
+- [When implemented alone, neither Literature Logs nor Instructional Conversations produced statistically significant comprehension effects, in contrast to the combined intervention](ic-ll-single-component-effects-nonsignificant.md) — a broader claim this one bears on

@@ -43,4 +43,4 @@ Structural equation modeling of the hypothesized model fitted to 421 effective s
 
 
 ## Related Claims
--
+- [Mastery and performance-approach goals positively predict self-efficacy while performance-avoidance goals negatively predict it across all three grade levels](achievement-goals-predict-self-efficacy.md) — related

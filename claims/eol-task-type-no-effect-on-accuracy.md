@@ -62,4 +62,4 @@ Experiment 3 replicated the nil effect of EOL task with 64 participants, F(1, 56
 
 
 ## Related Claims
--
+- [Presentation format (sequential vs. simultaneous) does not reliably affect EOL accuracy](presentation-format-no-effect-on-eol-accuracy.md) — a narrower finding that bears on this claim

@@ -19,7 +19,7 @@ Daytime blue light exposure means deliberately increasing learners' exposure to 
 
 ## Design Implications
 
-Blue-enriched lighting in classrooms raises self-reported alertness and, in some studies, improves performance on attention and speed tasks [+M]. Field studies in offices show blue-enriched white light improves subjective vitality and alertness compared with standard lighting [Keis et al., 2014] [+M]. Timing is the critical variable: the same wavelengths that help at 9 a.m. impair sleep onset and next-day functioning when delivered in the evening [-S]. The strategy is therefore a *scheduling* strategy as much as a lighting one — bright, blue-rich mornings and dim, warm evenings.
+Blue-enriched lighting in classrooms raises self-reported alertness and, in some studies, improves performance on attention and speed tasks [+M]. Field studies in offices show blue-enriched white light improves subjective vitality and alertness compared with standard lighting ([Keis et al., 2014](https://doi.org/10.1016/j.tine.2014.09.001)) [+M]. Timing is the critical variable: the same wavelengths that help at 9 a.m. impair sleep onset and next-day functioning when delivered in the evening [-S]. The strategy is therefore a *scheduling* strategy as much as a lighting one — bright, blue-rich mornings and dim, warm evenings.
 
 ### Context
 #### Requirements
@@ -66,7 +66,7 @@ Blue-enriched lighting in classrooms raises self-reported alertness and, in some
 
 ## Examples
 - **Dutch classroom lighting studies (Sleegers et al., 2017)** — classrooms fitted with dynamically adjustable lighting (including a focus mode with higher illuminance and cooler color temperature) showed gains in concentration over conventional lighting.
-- **Office field studies (Keis et al., 2014)** — blue-enriched white light improved subjective alertness, vitality, and quickness of thought in daytime workers, a direct analogue for adult learning environments.
+- **Office field studies ([Keis et al., 2014](https://doi.org/10.1016/j.tine.2014.09.001))** — blue-enriched white light improved subjective alertness, vitality, and quickness of thought in daytime workers, a direct analogue for adult learning environments.
 - **School daylight design** — the Heschong Mahone daylighting studies of Capistrano district schools found students in daylit classrooms progressed faster in math and reading, motivating daylight-first school architecture.
 - **Evening screen management** — night-mode and blue-light-filter settings (e.g., Night Shift, f.lux) applied to evening homework devices to avoid counteracting the daytime benefit.
 

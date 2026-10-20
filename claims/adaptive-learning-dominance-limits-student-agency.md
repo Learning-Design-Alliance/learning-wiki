@@ -47,3 +47,4 @@ An untested assertion in the review's discussion, attributed to Bates et al. (20
 - [Overreliance on AI is the most prevalent pedagogical limitation (27 studies, 50%), followed by reduced critical thinking (25 studies, 46%)](overreliance-reduced-critical-thinking-ai-efl.md) — related
 - AI assistance raises individual creative self-assessments but reduces collective diversity of novel content (reviewed finding) — related
 - [The review reports AI-driven personalization improves student engagement and learning outcomes, and virtual teaching assistants support diverse learning needs](ai-personalized-learning-reported-benefits.md) — reports the opposite
+- [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related

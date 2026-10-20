@@ -43,4 +43,4 @@ Stimulated recall interview with one pair of students from Leo's group using pla
 
 
 ## Related Claims
--
+- [In individual dialogue patterns, the dominant speaker learns more than the listening partner, potentially explaining null collaboration findings](individual-dialogue-dominant-speaker-learns-more.md) — related

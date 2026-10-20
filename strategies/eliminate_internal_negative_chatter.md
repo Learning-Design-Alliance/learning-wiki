@@ -51,7 +51,7 @@ Negative self-talk consumes working memory and attention that would otherwise su
 - Persistence and resilience: sustaining effort on challenging tasks by preventing ability-based self-disqualification
 
 ### Instructions
-1. **Capture.** For one week, log situations that trigger negative self-talk: the trigger, the exact thought, and the feeling. (Thought logs scaffold the [self-monitoring](../claims/self-monitoring-improves-self-regulation.md) this strategy depends on.)
+1. **Capture.** For one week, log situations that trigger negative self-talk: the trigger, the exact thought, and the feeling. (Thought logs scaffold the [self-monitoring](../claims/self-monitoring-improves-self-regulation.md) [+W] this strategy depends on.)
 2. **Interrupt.** When a negative thought recurs in real time, use a consistent stop cue — a silent "Stop," a physical gesture, or a visualized stop sign — then immediately move to step 3. Interruption without replacement risks rebound.
 3. **Challenge.** Ask: What is the evidence? Is this thought global ("always," "never") or specific? What would I tell a friend in this situation?
 4. **Replace.** Substitute an accurate, instructional statement — preferably process- and strategy-focused ("I missed this because I skipped the practice problems") rather than trait-focused [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]

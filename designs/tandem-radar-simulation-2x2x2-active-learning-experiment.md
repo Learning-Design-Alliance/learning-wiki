@@ -42,7 +42,8 @@ The study's training task is TANDEM, a PC-based radar-tracking simulation requir
 - 
 
 ## Related Designs
-- 
+
+- [cc-self-train adaptive learning system: a three-layer hook-based engagement observation and scaffolding adjustment mechanism](cc-self-train-adaptive-learning-system.md)
 
 ## Examples
 -

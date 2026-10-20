@@ -33,7 +33,7 @@ The process writing approach treats composing as a recursive cycle — planning,
 
 ## Design Implications
 
-The approach works because it distributes cognitive load across the composing cycle — writers plan and revise with feedback rather than attempting to plan, compose, and edit simultaneously — and because frequent low-stakes writing builds fluency and automaticity in transcription, freeing working memory for higher-order composition [Collaborative writing with feedback improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]. Meta-analytic evidence (Graham & Perin, 2007) identifies process writing, strategy instruction, and sentence combining among the most effective practices for adolescent writing improvement [+S].
+The approach works because it distributes cognitive load across the composing cycle — writers plan and revise with feedback rather than attempting to plan, compose, and edit simultaneously — and because frequent low-stakes writing builds fluency and automaticity in transcription, freeing working memory for higher-order composition [Collaborative writing with feedback improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]. Meta-analytic evidence ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) identifies process writing, strategy instruction, and sentence combining among the most effective practices for adolescent writing improvement [+S].
 
 ### Context
 #### Requirements

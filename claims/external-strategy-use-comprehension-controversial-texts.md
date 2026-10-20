@@ -43,4 +43,6 @@ The repository record for this Instructional Science journal article (published 
 
 
 ## Related Claims
--
+- [Cognitive processing differs by text type: participants engaged in more epistemic processing, meta-comprehension, and coherence-based processing when reading the other-side text than the own-side text](differential-processing-own-other-side-texts.md) — related
+- [Young adults exhibit my-side bias when writing summaries of contradictory historical accounts, with 72% producing one-sided reports despite explicit instructions to summarize both texts](my-side-bias-written-summaries-controversial-history.md) — related
+- [External validity of the special-issue strategy measures was mixed: low-to-moderate comprehension correlations for Bräten and Strømsø and Magliano et al., indeterminate for Schellings and Winne and Muis](external-validity-mixed-across-new-strategy-instruments.md) — related

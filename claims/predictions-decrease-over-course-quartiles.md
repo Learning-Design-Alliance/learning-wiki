@@ -43,4 +43,4 @@ de Bruin, A. B. H., Kok, E. M., Lobbestael, J., & de Grip, A. (2017). The impact
 
 
 ## Related Claims
--
+- [The four exam-performance quartile groups differed significantly on first-unit exam scores, validating the grouping used for behavioral comparisons](quartile-groups-differ-on-exam-scores.md) — related

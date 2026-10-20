@@ -43,7 +43,7 @@ Observing a model reduces the unguided search that overwhelms novices during ini
 
 ### Target Learners
 - Novices encountering a skill or process for the first time [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M]
-- Learners with low self-efficacy for the task, who benefit from seeing a peer-like model succeed [Bandura, 1977]
+- Learners with low self-efficacy for the task, who benefit from seeing a peer-like model succeed ([Bandura, 1977](https://doi.org/10.1037/0033-295x.84.2.191))
 - Less beneficial for experts or near-experts, for whom modeling is redundant [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learning Goals

@@ -13,7 +13,7 @@ generated:
 # Completion Problems First
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (4 for, 1 mixed, 2 against, 1 unmarked) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Completion problems first is a sequencing strategy in which learners' earliest practice tasks are partially completed — some steps or solution states are given, and learners fill in the remainder. It operationalizes the *completion strategy* (van Merriënboer) as a bridge between studying full [worked examples](../principles/worked-examples.md) and solving problems unaided, implementing a smooth [fading](../elements/fading.md) of guidance rather than an abrupt transition.
@@ -29,7 +29,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - Deliberate selection of which steps to blank — typically the steps carrying the learning goal, not arbitrary gaps
 - Feedback or a correct model answer so learners can check their completions
 - A set of high-quality worked solutions to draw the completed portion from
-- A task sequence in which the completed portion shrinks (and learner-supplied portion grows) as competence develops ([Fading](../claims/fading-support-promotes-transfer-of-responsibility.md))
+- A task sequence in which the completed portion shrinks (and learner-supplied portion grows) as competence develops ([Fading](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M])
 - Clear marking of which steps are given and which the learner must supply, so learners do not waste effort parsing the interface rather than the content
 - Feedback or a correct final solution available for self-checking after completion
 
@@ -47,7 +47,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - **Forward fading:** remove early steps first, forcing learners to plan before executing
 - **Completion within worked-example pairs:** alternate example study with an isomorphic completion problem (example–problem pairs)
 - **Programmatic fading:** in adaptive systems such as [ASSISTments](https://www.assistments.org) or [Squirrel AI](https://www.squirrelai.com), the number of given steps adjusts to learner performance
-- **Forward fading**: start with a full worked example, then completion problems with decreasing support, then full problems — the classic sequence [Renkl & Atkinson, 2003]
+- **Forward fading**: start with a full worked example, then completion problems with decreasing support, then full problems — the classic sequence ([Renkl & Atkinson, 2003](https://doi.org/10.1207/s15326985ep3801_3))
 - **Backward fading**: begin with completion problems where only the final step is missing, then fade earlier steps in; some evidence suggests fading later steps first benefits learners with weaker prior knowledge [~M]
 - **Alternation**: interleave worked examples and isomorphic problems one-to-one rather than using completion problems as the intermediate form
 - **Error-based variants**: the given portion contains a deliberate error the learner must find and fix [Erroneous examples can build conceptual knowledge by prompting learners to explain and correct flawed solutions.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W]

@@ -43,4 +43,4 @@ Multimodal interaction analysis of Episode 2, in which the instructor, monitorin
 
 
 ## Related Claims
--
+- [Analog artefacts such as the nautical paper chart serve as public inscriptions and arenas for reasoning about rule following, making students' intentions assessable to instructors and teammates](paper-chart-inscription-assessment-arena.md) — related

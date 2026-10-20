@@ -58,7 +58,7 @@ The strategy works because predictability, not severity, drives behavior change:
 
 ## Related Strategies
 - [Positive reinforcement and specific praise](positive-reinforcement.md) — the counterpart that makes consequence systems work; a high reinforcement ratio keeps warnings rare and credible
-- [Establishing classroom routines](establishing-routines.md) — prevention that reduces the need for warnings in the first place
+- [Establishing classroom routines](establishing-classroom-routines.md) — prevention that reduces the need for warnings in the first place
 - [Restorative conversations](restorative-conversations.md) — the follow-up that converts a consequence into a learning event
 - [Low-Profile Classroom Control](low-profile-classroom-control.md) — the warn-then-follow-through reaction sequence this technique instantiates
 - [Natural and Logical Consequences](../principles/effective-classroom-management-plan.md) — worth checking this specific consequence against, since a fixed break-time deduction can read as punishment rather than a consequence proportionate to and connected with the misbehavior

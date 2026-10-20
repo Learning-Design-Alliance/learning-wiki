@@ -15,11 +15,11 @@ generated:
 > **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 1 review, 1 theoretical), `q1`–`q4` · 3 of 5 report an effect size
 
 ## Description
-Instructors make explicit how writing functions in learners' lives, communities, and future careers — through authentic tasks, professional examples, and guest speakers who describe the role writing plays in their work. The strategy draws on utility-value research: learners persist and perform better when they see course content as useful to their goals [Hulleman & Harackiewicz, 2009] [+S].
+Instructors make explicit how writing functions in learners' lives, communities, and future careers — through authentic tasks, professional examples, and guest speakers who describe the role writing plays in their work. The strategy draws on utility-value research: learners persist and perform better when they see course content as useful to their goals ([Hulleman & Harackiewicz, 2009](https://doi.org/10.1126/science.1177067)) [+S].
 
 ## Design Implications
 
-Relevance connections work best when they are made by learners themselves or tied to their specific interests, not merely asserted by the instructor [Hulleman & Harackiewicz, 2009] [+S]. Generic "you'll need this someday" messaging shows weak effects; concrete, discipline-specific examples and authentic audiences produce stronger gains in motivation and writing quality [authentic audiences and purposes increase engagement and effort.](../principles/authentic-audiences-purposes.md) [+M].
+Relevance connections work best when they are made by learners themselves or tied to their specific interests, not merely asserted by the instructor ([Hulleman & Harackiewicz, 2009](https://doi.org/10.1126/science.1177067)) [+S]. Generic "you'll need this someday" messaging shows weak effects; concrete, discipline-specific examples and authentic audiences produce stronger gains in motivation and writing quality [authentic audiences and purposes increase engagement and effort.](../principles/authentic-audiences-purposes.md) [+M].
 
 ### Context
 #### Requirements

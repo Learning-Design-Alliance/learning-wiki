@@ -43,4 +43,5 @@ Multiple regression analysis in a study of 128 healthy volunteers predicting met
 
 
 ## Related Claims
--
+- [Lower (better) retrospective discrepancy scores predict higher metacognitive sensitivity on a memory task](retrospective-discrepancy-predicts-metacognitive-sensitivity.md) — related
+- [Eliciting confidence ratings leads to poorer metacognitive monitoring in older adults](cr-poorer-metacognitive-monitoring-miscalibration.md) — related

@@ -91,7 +91,7 @@ DBDM operationalizes [Assessment for Learning](../principles/assessment-for-lear
 - [Data-driven decision-making practices in tutoring programs](reading-corps-data-driven-decision-practices.md)
 
 ## Examples
-- **Response to Intervention (RTI)** — Tier 1 progress monitoring with decision rules (e.g., [DIBELS](https://dibels.uoregon.edu) benchmarks every 6–8 weeks) determines whether core instruction is sufficient or students need supplemental tiers [Fuchs & Fuchs, 2006].
+- **Response to Intervention (RTI)** — Tier 1 progress monitoring with decision rules (e.g., [DIBELS](https://dibels.uoregon.edu) benchmarks every 6–8 weeks) determines whether core instruction is sufficient or students need supplemental tiers ([Fuchs & Fuchs, 2006](https://doi.org/10.1598/rrq.41.1.4)).
 - **Data Wise (Harvard)** — a structured 8-step cycle for school teams to analyze student work and adjust instruction ([https://www.gse.harvard.edu/data-wise](https://www.gse.harvard.edu/data-wise)).
 - **CGI-informed math instruction** — teachers analyze student strategy use on problem sets to decide which problem types and representations to feature next ([Cognitively Guided Instruction](../principles/responsive-teaching.md)).
 

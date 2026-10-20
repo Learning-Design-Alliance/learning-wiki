@@ -12,7 +12,7 @@ generated:
 # Text + Structured Activity
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 16 studies (7 quant-synthesis, 5 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 5 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Students engage with text resources (physical or digital) accompanied by a structured activity designed to ensure active learning and engagement with the material. The text conveys information; the structured activity forces processing of that information — answering questions, applying concepts, annotating, or self-explaining — so that reading does not remain passive. This combination provides instruction in pre-class, in-class, or asynchronous settings, and serves as a low-bandwidth alternative to video-based delivery.
@@ -38,7 +38,7 @@ Structured activities convert reading from passive reception into generative pro
 - **Guided reading questions** distributed through the text, answered as the learner reads
 - **Reading + response**: text followed by short written application or reflection, submitted before class
 - **Text + self-explanation prompts**: embedded prompts asking learners to explain why a claim holds or how an example illustrates a principle [Self-explanation improves conceptual understanding when learners articulate how examples relate to underlying principles.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
-- **Text + problem set**: reading paired with problems that require applying what was read, in [example-problem pairs](../claims/worked-example-problem-sequences.md)
+- **Text + problem set**: reading paired with problems that require applying what was read, in [example-problem pairs](../claims/worked-example-problem-sequences.md) [+W]
 - **Annotated reading**: learners mark and comment on the text itself, using [Annotating](../principles/annotating.md) tools such as Perusall or Hypothesis
 
 ### Target Learners

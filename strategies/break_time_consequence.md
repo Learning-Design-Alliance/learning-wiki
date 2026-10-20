@@ -12,7 +12,7 @@ generated:
 # Break Time Consequence
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 review, 1 theoretical), `q3` · 0 of 2 report an effect size
 
 ## Description
 Writing instructions in bold letters on the chalkboard stating that students who continue talking during the lesson will have time taken off their break. By the time the title is written on the board, students need to be sitting in silence. The strategy pairs a visible antecedent (the written rule) with a stated consequence, relying on operant conditioning principles: a mild, immediate, consistently applied penalty for off-task talking [Behaviorism](../theories/behaviorism.md).
@@ -43,7 +43,7 @@ The strategy works through clear expectations and predictable consequences rathe
 ### Target Learners
 - Secondary students, for whom break time is a valued resource and who can understand the contingency
 - Less suitable for students with limited impulse control or those whose talking reflects unmet social or learning needs [~M] — for these learners, [Check-ins](../principles/check-ins.md) and proactive structure are more appropriate
-- Students motivated by avoidance of punishment comply short-term but do not internalize norms; pairing with [self-monitoring](../claims/self-monitoring-improves-self-regulation.md) approaches supports longer-term regulation [~M]
+- Students motivated by avoidance of punishment comply short-term but do not internalize norms; pairing with [self-monitoring](../claims/self-monitoring-improves-self-regulation.md) [+W] approaches supports longer-term regulation
 
 ### Target Learning Goals
 - Classroom management objective: establishing a quiet, attentive start-of-lesson routine
@@ -57,7 +57,7 @@ The strategy works through clear expectations and predictable consequences rathe
 5. Fade the practice as the routine becomes habitual, and reinforce quiet starts with acknowledgment rather than only penalizing violations
 
 ## Related Strategies
-- [Good Behavior Game](../strategies/good-behavior-game.md) — a group-contingent alternative that frames the same contingency as a team challenge rather than a punishment
+- [Good Behavior Game](../products/good-behavior-game.md) — a group-contingent alternative that frames the same contingency as a team challenge rather than a punishment
 - [Proximity Control](../strategies/proximity-control.md) — a less punitive way to suppress off-task talking
 - [Positive Reinforcement](../strategies/positive-reinforcement.md) — the complementary approach; consequences work best when on-task behavior is also reinforced
 

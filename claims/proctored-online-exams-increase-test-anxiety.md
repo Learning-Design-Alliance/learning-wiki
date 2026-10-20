@@ -94,3 +94,4 @@ Separate multi-level model on the same survey data comparing exam types. The stu
 - [Lack of study space and financial issues are associated with higher test anxiety in online exams, and reliable technology with lower](contextual-factors-increase-test-anxiety.md) — related
 - [Proctored online exams show no effect on students' perceived exam difficulty](proctoring-no-effect-exam-difficulty.md) — related
 - [Proctored online exams show no effect on students' exam performance](proctoring-no-effect-exam-performance.md) — related
+- [Computer-based test advantages can be used to manage the effects of test anxiety as a construct-irrelevant factor](cbt-manages-anxiety-construct-irrelevance.md) — related

@@ -71,7 +71,7 @@ Feedback content quality matters more than delivery medium, but format affects h
 - **Zoom / Loom / Screencastify** — screencast feedback walking through learner work
 
 ## Examples
-- **Audio feedback at scale**: Instructors record 3–4 minute MP3 summaries per assignment and distribute via the LMS; studies at the University of Leeds found students rated audio feedback substantially more personal and easier to understand than written comments (Lunt & Curran, 2010).
+- **Audio feedback at scale**: Instructors record 3–4 minute MP3 summaries per assignment and distribute via the LMS; studies at the University of Leeds found students rated audio feedback substantially more personal and easier to understand than written comments ([Lunt & Curran, 2010](https://doi.org/10.1080/02602930902977772)).
 - **Screencast feedback on code**: Instructors record a 5-minute walkthrough of a student's repository, narrating where logic breaks down — combining demonstration with critique.
 - **Hybrid model**: Written inline comments for line-level issues plus a short audio summary of priorities for revision, so learners get both a searchable record and tonal nuance.
 

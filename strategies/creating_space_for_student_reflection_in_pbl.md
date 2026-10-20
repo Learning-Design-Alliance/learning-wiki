@@ -69,7 +69,7 @@ Reflection works because it forces retrieval and articulation of what was learne
 ## Examples
 - **[High Tech High](https://www.hightechhigh.org)** (San Diego) — project debrief protocols and student reflection journals are standard components of every project cycle, with reflections exhibited alongside final products.
 - **[PBLWorks (Buck Institute) Gold Standard PBL](https://www.pblworks.org)** — names "Reflection" as one of the seven essential project design elements, with published reflection protocols and sentence stems for teachers.
-- **[MindUP](https://mindup.org)** — a published curriculum of brief mindfulness lessons; a randomized trial found improvements in optimism and peer relations in students receiving the program (Schonert-Reichl & Lawlor, 2010).
+- **[MindUP](https://mindup.org)** — a published curriculum of brief mindfulness lessons; a randomized trial found improvements in optimism and peer relations in students receiving the program ([Schonert-Reichl & Lawlor, 2010](https://doi.org/10.1007/s12671-010-0011-8)).
 - **Medical education debriefing** — post-case debriefs in simulation-based learning, where structured reflection on team decisions measurably improves subsequent performance.
 
 ## Key Sources

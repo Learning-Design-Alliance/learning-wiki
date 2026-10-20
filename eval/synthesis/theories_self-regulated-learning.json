@@ -59,10 +59,6 @@
           "~"
         ],
         [
-          "srl-effect-sizes-heterogeneous-random-effects",
-          "~"
-        ],
-        [
           "srl-meta-analysis-publication-bias-absent",
           "+"
         ],
@@ -168,10 +164,6 @@
         ],
         [
           "implementation-intentions-improve-goal-attainment",
-          "+"
-        ],
-        [
-          "implementation-intentions-d65-goal-attainment-meta-analysis",
           "+"
         ],
         [

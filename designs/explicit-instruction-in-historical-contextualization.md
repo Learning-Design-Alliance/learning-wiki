@@ -37,7 +37,7 @@ This pattern operationalizes [Historical Reasoning Framework](../theories/histor
 Unit (a multi-week history course; tested as a 28-hour, 7-week sequence)
 
 ### Target Goals
-- [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](../claims/explicit-contextualization-instruction-improves-writing-procedure-not-scores.md)
+- [Explicit contextualization instruction improves procedural aspects of historical writing without improving contextualization scores themselves](../claims/explicit-contextualization-instruction-improves-writing-procedure-not-scores.md) [~W]
 
 ### Target Learners
 - Secondary or university-level history students, including L2/multilingual learners (tested with B2-level English learners)

@@ -51,3 +51,4 @@ Logistic regression in the MLSELD preschool sample, controlling for age, race/et
 - [Higher maternal education predicts membership in faster self-regulation trajectories](maternal-education-predicts-self-regulation-trajectory.md) — related
 - [Child gender predicts self-regulation trajectory membership, with girls more likely to be earlier developers](gender-predicts-self-regulation-trajectory.md) — related
 - [Children follow three distinct behavioral self-regulation trajectories (early, intermediate, and later developers) replicated across three samples](three-self-regulation-trajectories-early-childhood.md) — related
+- [About 20% of children (later developers) make few self-regulation gains in preschool and lag peers by six months to a year and a half](later-developers-few-preschool-gains.md) — related

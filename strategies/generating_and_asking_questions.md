@@ -62,7 +62,7 @@ Question generation is one of the better-supported comprehension strategies: int
 - [Self-Explanation](../elements/self-explanation.md) — a sibling generative strategy; questions prompt the explanations
 
 ## Examples
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — small reading groups rotate a "questioner" role, generating questions about each text segment before discussing answers; produced large comprehension gains with seventh-grade struggling readers.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small reading groups rotate a "questioner" role, generating questions about each text segment before discussing answers; produced large comprehension gains with seventh-grade struggling readers.
 - **QAR (Raphael, 1986)** — students learn to distinguish "Right There," "Think and Search," and "On My Own" questions, improving both the questions they ask and their ability to locate answers.
 - **Classroom practice** — before a chapter on climate change, learners list questions they want answered; during reading they add questions in the margins; afterward they answer, summarize, and flag unresolved questions for [Class Discussion](../elements/class-discussion.md).
 

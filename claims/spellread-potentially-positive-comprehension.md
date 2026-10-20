@@ -51,3 +51,5 @@ WWC synthesis of two randomized controlled trials meeting evidence standards wit
 - [Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) — related
 - [Comprehension effects of SpellRead™ differed between the two studies: Torgesen et al. found no significant effects while Rashotte et al. found significant effects on both outcomes](spellread-comprehension-inconsistent-across-studies.md) — related
 - [SpellRead™ has potentially positive effects on reading comprehension, with an average improvement index of +20 percentile points](spellread-comprehension-index-twenty.md) — related
+- [Twenty participants aged 3 to 14 with varying disabilities all demonstrated literacy gains through shared story reading](twenty-participants-literacy-gains-shared-story-reading.md) — related
+- [SpellRead™ has potentially positive effects on reading fluency, with an average improvement index of +9 percentile points](spellread-potentially-positive-fluency.md) — related

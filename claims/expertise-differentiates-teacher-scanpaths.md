@@ -46,3 +46,6 @@ Communicative-gaze dual-IV comparisons in the same sample of 40 teachers. Within
 
 - [Teachers' gaze scanpaths are more similar within an individual than between individuals, in both attentional and communicative gaze](teacher-scanpaths-intra-individual-similarity.md)
 - [Teachers and students use gaze to express agency and communion during classroom problem-solving](haataja-gaze-agency-communion.md) — related
+- [Culture differentiates communicative but not attentional teacher scanpaths once expertise is controlled](culture-differentiates-communicative-scanpaths.md) — related
+- [Teacher scanpaths are most dissimilar across combined expertise-and-culture sub-groups, significantly for attentional gaze and marginally for communicative gaze](expertise-culture-subgroup-scanpath-difference.md) — related
+- [Expert teachers begin gaze sequences with student fixation and return to students throughout, whereas Hong Kong experts intersperse student scans that UK experts never use](expert-scanpaths-student-fixation-recycling.md) — related

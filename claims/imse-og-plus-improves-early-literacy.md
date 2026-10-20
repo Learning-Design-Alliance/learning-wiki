@@ -71,3 +71,4 @@ Quasi-experimental study during the 2021–2022 school year in Ohio comparing ai
 - Kindergarteners using Bridge to Reading showed greater growth in phonological awareness and phonics/word recognition (ES +0.22 each) — related
 - Kindergarten students using Just Right Reader Take-Everywhere Literacy Packs™ scored significantly higher on end-of-year DIBELS composite scores than matched comparison students (ES = +0.39) — related
 - [The STIR partnership anticipates that schools will report more students at or above early literacy benchmarks relative to prior years](stir-anticipated-benchmark-gains.md) — related
+- [Grade 2 students receiving Really Great Reading instruction scored higher on the NWEA MAP Reading Growth assessment in winter 2022](rgr-grade2-higher-map-winter-2022.md) — related

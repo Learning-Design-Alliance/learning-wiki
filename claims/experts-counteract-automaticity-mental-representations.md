@@ -48,3 +48,4 @@ Illustrated in Figure 2, contrasting the course of improvement of expert perform
 - [Expertise Reversal Guidance Hurts Experts](expertise-reversal-effect.md) — related
 - Expert teachers show intense emotionality and sense of responsibility for their performance, unlike affectless novices and postulants — related
 - [Reflective methods must be internalized as habit to operate in everyday moral choice, and internalization depends on supportive social arrangements](reflective-methods-internalized-as-habit.md) — related
+- [Peer assessment skills are complex and not automatically acquired, so training and guidance are a crucial design variable](peer-assessment-skills-need-training.md) — related

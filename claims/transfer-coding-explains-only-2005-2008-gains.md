@@ -44,3 +44,7 @@ Analysis of transfer-rate trends and conservative rate estimates counting all tr
 
 ## Related Claims
 - CPS Freshman OnTrack rates rose 25 percentage points, from 64 percent in 2003 to 89 percent in 2017 — related
+- [CPS graduation rates increased by 22.4 percentage points over 16 years, from 52.4 percent among students who turned 19 in 1998 to 74.8 percent in 2014](cps-graduation-rates-rose-22-points-1998-2014.md) — related
+- [CPS high school graduation rates rose from 57 percent to 74 percent between 2006 and 2016](cps-hs-graduation-rose-57-to-74.md) — related
+- [About 54 percent of Chicago Public Schools students graduated from CPS by age 19 for the 1998 age-13 cohort and by the fourth year for the 1999 freshman cohort](cps-54-percent-graduated-by-age-19.md) — related
+- [Publicly reported school accountability statistics are not useful for measuring achievement trends over time](publicly-reported-statistics-not-useful-for-trends.md) — related

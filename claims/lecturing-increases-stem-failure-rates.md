@@ -44,3 +44,5 @@ Random-effects meta-analysis of 67 independent comparisons of failure rates (usu
 
 ## Related Claims
 - [Active learning raises undergraduate STEM examination and concept-inventory performance by about 0.47 SDs compared with traditional lecturing](active-learning-improves-exam-performance.md) — related
+- [Active learning narrows the passing-rate gap between minoritized-group and non-minoritized students in undergraduate STEM by 45% on average](active-learning-narrows-passing-rate-gap-45-percent.md) — related
+- [Active learning reduces the examination-score achievement gap between minoritized-group and non-minoritized students in undergraduate STEM by 33% on average](active-learning-reduces-exam-achievement-gaps-33-percent.md) — related

@@ -51,3 +51,4 @@ The report attributes this claim to Tapia (2016) in its Test Design section, con
 - [In Spanish, decoding rate rather than decoding accuracy is the better predictor of passage comprehension](spanish-decoding-rate-better-predictor-than-accuracy.md) — possibly the same claim (merge candidate)
 - [Syllable awareness is a strong and prominent predictor of Spanish reading development](syllable-awareness-strong-predictor-spanish-reading.md) — related
 - [Word recognition fluency significantly predicted reading comprehension in grades 1-3, with rate becoming the stronger predictor by third grade](word-recognition-fluency-predicts-comprehension-grades-1-3.md) — related
+- [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](l1-use-in-decoding-instruction-effective.md) — related

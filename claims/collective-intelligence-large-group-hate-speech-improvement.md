@@ -43,4 +43,7 @@ Mixed model repeated-measures analysis of mean answer scores across the seven ph
 
 
 ## Related Claims
--
+
+- [Mean answer scores in the large group rose continually across the interaction phases, especially from phase 4 onward, but stagnated on question 3](large-group-mean-scores-rose-phases.md) — possibly the same claim (merge candidate)
+- [The small groups did not improve on questions 1 and 4, G2 declined on questions 2 and 3, and G3 improved only on question 2](small-groups-no-improvement-hate-speech-scores.md) — possibly the same claim (merge candidate)
+- [Omnibus tests found significant group, phase and group-by-phase effects on questions 1 and 2, and predominantly group effects on questions 3 and 4](omnibus-group-phase-effects-hate-speech-scores.md)

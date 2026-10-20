@@ -53,3 +53,4 @@ A multilingual-considerations statement in the Test Design section. The report a
 - [L2 oral language proficiency predicts reading comprehension more strongly than decoding skills](oral-proficiency-predicts-l2-reading-comprehension.md) — related
 - [Oral language measures of syntax, listening comprehension, and oral vocabulary do not predict which English learners will struggle with learning to read](oral-language-measures-do-not-predict-reading-struggle.md) — related
 - [Students used two languages flexibly for different mathematical sub-tasks but lacked academic Spanish vocabulary](bilingualism-math-resource-untapped.md) — related
+- [L1 (Spanish) reading comprehension is positively correlated with English reading comprehension, with the relationship weaker for students with lower English proficiency](l1-spanish-comprehension-correlates-english-comprehension.md) — related

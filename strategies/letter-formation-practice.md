@@ -12,7 +12,7 @@ generated:
 # Letter Formation Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 11 studies (4 review, 3 causal, 3 quant-synthesis, 1 theoretical), `q1`–`q4` · 4 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Letter formation practice is the deliberate, repeated production of individual letters by hand, guided by a model that specifies starting point, stroke sequence, and direction. It typically pairs a visual exemplar with verbal mediation (naming the strokes aloud, e.g., "down, over, down") and immediate feedback, moving from tracing and copying to independent production. The goal is automaticity: letterforms produced without conscious attention so working memory is freed for composing.
@@ -47,7 +47,7 @@ Handwriting practice builds a motor memory for each letter that supports rapid, 
 
 ### Target Learning Goals
 - Automaticity of transcription: producing letters without conscious attention
-- Letter knowledge: strengthening letter recognition and letter–sound linkage, which supports [Phonics](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) instruction [+M]
+- Letter knowledge: strengthening letter recognition and letter–sound linkage, which supports [Phonics](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M] instruction
 - Writing fluency as a prerequisite for higher-order composition
 
 ### Instructions

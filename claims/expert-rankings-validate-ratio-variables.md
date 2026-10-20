@@ -44,3 +44,4 @@ Validation exercise in which five transcripts varying in Elaborated, Reasoned an
 
 ## Related Claims
 - [Group-level physiological state transitions in heart rate are positively correlated with on-track sequences during collaboration](physiological-state-transitions-correlate-on-track-sequences.md) — related
+- [LLM-generated 7C collaboration assessment scores fall within the range of human expert variability across ten discussions](llm-7c-scores-within-expert-variability.md) — related

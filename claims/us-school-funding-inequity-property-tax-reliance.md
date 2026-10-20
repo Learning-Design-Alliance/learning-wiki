@@ -43,6 +43,8 @@ The brief reports funding disparities: districts serving the greatest proportion
 
 
 ## Related Claims
+
 - [Thirty-two states and DC guarantee base per-pupil funding, and state legislation can add year-to-year funding guarantees such as California's Proposition 98](guaranteed-funding-floors-32-states.md) — related
 - Stakeholders view parcel taxes—the only local revenue option available to California school districts—as inequitable and regressive — related
 - Because California education funding relies heavily on the personal income tax, state education funds are highly susceptible to economic fluctuations and vulnerable during recessions — related
+- [Educational opportunity and achievement gaps impose large societal costs, including an estimated $156 billion loss in tax revenues and income per yearly cohort of nongraduates](achievement-gap-societal-costs.md)

@@ -44,3 +44,6 @@ Narrative synthesis of 11 studies using direct classroom observation measures. T
 
 ## Related Claims
 - [Regular breakfast consumption is associated with increased odds of high academic achievement in Norwegian adolescent girls and boys, most strongly in girls](regular-breakfast-associated-high-academic-achievement-norwegian-adolescents.md) — related
+- [Acute experimental studies show inconsistent effects of breakfast on classroom behavior, with three of seven showing an on-task advantage](acute-breakfast-classroom-behavior-inconsistent.md) — reports the opposite
+- [A low glycaemic load breakfast increases time on-task in young children, but the effect is short-lived and specific to the first observation period](low-gl-breakfast-on-task-shortlived.md) — a narrower finding that bears on this claim
+- [A mid-morning snack benefits on-task behavior only for children who consumed a small breakfast, correcting the energy deficiency](mid-morning-snack-small-breakfast-only.md) — a narrower finding that bears on this claim

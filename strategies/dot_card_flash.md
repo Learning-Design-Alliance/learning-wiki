@@ -40,7 +40,7 @@ Dot Card Flash is a perceptual-fluency activity: the time limit converts a count
 - Reverse roles so the flasher must also verify the reconstruction — checking is itself a learning opportunity
 
 ### Target Learners
-- Pre-K through Grade 1 learners developing subitizing and early number sense [Clements & Sarama, 2009]
+- Pre-K through Grade 1 learners developing subitizing and early number sense ([Clements & Sarama, 2009](https://doi.org/10.4324/9780203883389))
 - Learners who still count small quantities one-by-one and need perceptual anchors for number
 - Less suitable without adaptation for learners with significant visual-memory or visual-processing challenges
 

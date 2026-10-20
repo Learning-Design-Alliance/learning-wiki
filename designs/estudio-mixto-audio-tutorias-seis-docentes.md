@@ -42,6 +42,7 @@ Elemento metodológico central de la tesis: un estudio con diseño mixto en el q
 ## Related Designs
 
 - [Proceso de diseño instruccional ADDIE de cinco fases para cursos virtuales con evaluación formativa](addie-cinco-fases-evaluacion-formativa-virtual.md)
+- [Modelo de evaluación formativa para cursos virtuales de matemáticas integrado con analítica de aprendizaje](modelo-evaluacion-formativa-matematicas-virtuales.md)
 
 ## Examples
 -

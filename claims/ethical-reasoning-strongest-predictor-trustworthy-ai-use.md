@@ -43,4 +43,6 @@ The article's stated empirical finding, reported in the abstract: "ethical reaso
 
 
 ## Related Claims
--
+- [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](academic-integrity-strongest-predictor-ethical-genai.md) — reports the opposite
+- [All six predictor constructs correlate positively and significantly with ethical GenAI use, ranging from r = 0.370 to r = 0.507](bivariate-correlations-ethical-genai-predictors.md) — related
+- [Six predictor constructs jointly explain 44.0% of the variance in ethical GenAI use among university students, with all structural paths positive and significant](six-predictors-explain-44-percent-ethical-genai-use.md) — related

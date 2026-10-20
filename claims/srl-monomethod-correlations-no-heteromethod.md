@@ -43,4 +43,4 @@ Correlational analysis of 70 college students' data from four SRL measures in a 
 
 
 ## Related Claims
--
+- [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — possibly the same claim (merge candidate)

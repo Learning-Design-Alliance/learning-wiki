@@ -13,7 +13,7 @@ generated:
 # Belonging Interventions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (3 causal, 1 quant-synthesis), `q3` · 0 of 4 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (3 causal, 1 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size
 
 ## Description
 Belonging interventions address students' uncertainty about whether they fit in academically and socially — doubt that is especially acute during transitions (first year, first-generation status, underrepresented minority status). They typically combine (a) information that belonging difficulties are common and temporary ("at first almost everyone worries they don't belong; this fades with time") and (b) structured opportunities for students to articulate their own belonging experiences and connect with peers and instructors. The canonical format is a brief social-belonging session early in a course or program, sometimes followed by reinforcement activities.
@@ -50,7 +50,7 @@ Belonging interventions work by reframing adversity: students who attribute earl
 - **Written reflection**: students read survey findings, then write about their own experience for a future student — the most validated format
 - **Peer testimonials**: videos or quotes from senior students describing doubts that faded; works well at scale in orientation programs
 - **Embedded messaging**: instructors weave "belonging is uncertain for everyone early on" into feedback and course norms rather than a standalone session
-- **Combined packages**: belonging content delivered alongside [growth mindset](../claims/erroneous-examples-build-conceptual-knowledge.md) or value-affirmation activities in multi-component onboarding
+- **Combined packages**: belonging content delivered alongside [growth mindset](../claims/growth-mindset-improves-achievement.md) [~M] or value-affirmation activities in multi-component onboarding
 
 ### Target Learners
 - First-generation and underrepresented minority students, who show the largest GPA and persistence gains [Brief belonging interventions improve GPA and persistence, especially for marginalized students.](../claims/belonging-interventions-improve-outcomes.md) [+S]
@@ -128,7 +128,7 @@ Belonging interventions work not by boosting self-esteem but by changing the *in
 - **Written reflection**: students read survey findings, then write about their own experience for a future student — the most validated format
 - **Peer testimonials**: videos or quotes from senior students describing doubts that faded; works well at scale in orientation programs
 - **Embedded messaging**: instructors weave "belonging is uncertain for everyone early on" into feedback and course norms rather than a standalone session
-- **Combined packages**: belonging content delivered alongside [growth mindset](../claims/erroneous-examples-build-conceptual-knowledge.md) or value-affirmation activities in multi-component onboarding
+- **Combined packages**: belonging content delivered alongside [growth mindset](../claims/growth-mindset-improves-achievement.md) [~M] or value-affirmation activities in multi-component onboarding
 
 ### Target Learners
 - Students entering a setting where they are numerically minoritized or stereotyped (first-generation students, women in male-dominated STEM, students of color at predominantly white institutions) [Walton & Cohen, 2011](https://doi.org/10.1126/science.1198364) [+S]

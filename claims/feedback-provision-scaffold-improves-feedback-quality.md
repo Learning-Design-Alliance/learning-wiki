@@ -44,3 +44,6 @@ Linear mixed model in the randomized 2×2 experiment (N = 254) predicting feedba
 
 ## Related Claims
 - [Instructional support improves quality of feedback provision (g = 0.64) and quality of feedback reception (g = 0.49) but not subject-matter-related knowledge](support-effects-differ-by-dependent-variable.md) — a broader claim this one bears on
+- [Neither scaffold significantly improves pre-service teachers' EIR application skills](no-scaffold-effect-eir-application.md) — related
+- [During feedback provision, content-specific support improves feedback provision quality (g = 0.75) but not knowledge, while generic support improves both provision quality (g = 0.70) and subject-matter-related knowledge (g = 0.55)](generic-provision-support-also-boosts-knowledge.md) — a broader claim this one bears on
+- [Feedback provision support improves quality of feedback provision (g = 0.72) and quality of feedback reception (g = 0.69) but not subject-matter-related knowledge](provision-support-improves-both-process-qualities.md) — a broader claim this one bears on

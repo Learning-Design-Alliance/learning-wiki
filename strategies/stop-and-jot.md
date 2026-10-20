@@ -13,7 +13,7 @@ generated:
 # Stop and Jot
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (6 quant-synthesis, 1 theoretical), `q2`–`q4` · 6 of 7 report an effect size
+> **Evidence** · 3 claims (3 for) · 7 studies (6 quant-synthesis, 1 theoretical), `q2`–`q4` · 6 of 7 report an effect size
 
 ## Description
 Stop and Jot is a structured processing activity in which learners pause at designated points during a lesson and write brief responses — summaries, answers, predictions, or connections — to instructor-posed questions, often in a "stop box" on their notes. The pause gives learners time to consolidate and make sense of material before new content arrives, and gives the instructor a fast formative read on understanding. It functions simultaneously as engagement technique, note-taking scaffold, and comprehension check.
@@ -45,7 +45,7 @@ Stop and Jot converts passive listening into intermittent [Active Learning](../p
 #### Implementation Variability
 - **Jot-Pair-Share** — jots feed a brief pair discussion before whole-class sharing, adding [Collaborative Learning](../principles/collaborative-learning.md)
 - **Quick Jot** — a single 30-second response used as a mid-lesson comprehension pulse
-- **Stop and Fill** — learners complete a partially structured frame or [Graphic Organizer](../claims/graphic-organizers-support-novice-comprehension.md) rather than free writing
+- **Stop and Fill** — learners complete a partially structured frame or [Graphic Organizer](../claims/graphic-organizers-support-novice-comprehension.md) [+M] rather than free writing
 - **Digital jots** — collaborative documents or tools (e.g., Google Docs, Padlet) allow real-time instructor scanning of all responses at once
 - **Prediction jots** before a demonstration or reveal, leveraging the hypercorrection effect when predictions fail
 - **Summary jots** at the end of a segment, functioning as retrieval practice

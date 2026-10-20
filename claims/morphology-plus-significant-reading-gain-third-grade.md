@@ -47,3 +47,4 @@ Quasi-experimental study during the 2024-2025 school year in a Title I Michigan 
 - Morphology+ showed larger positive effects in the informational text (+0.17) and vocabulary (+0.18) subdomains than the overall reading effect — a narrower finding that bears on this claim
 - [Grade 3 Really Great Reading students did not outperform non-users on the winter NWEA MAP administration](rgr-grade3-no-outperformance-map.md) — related
 - [Istation use is associated with significantly greater NWEA MAP Reading growth than comparison students in a South Carolina district (ES +0.06)](istation-sc-map-reading-growth-006.md) — related
+- [Grade 2 students receiving Really Great Reading instruction scored higher on the NWEA MAP Reading Growth assessment in winter 2022](rgr-grade2-higher-map-winter-2022.md) — related

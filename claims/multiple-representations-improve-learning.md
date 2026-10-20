@@ -113,3 +113,4 @@ This review addresses the "representation dilemma": students often must learn un
 - [Students answered questions requiring coordination of two or more representations less accurately than questions answerable from a single representation](coordination-of-two-representations-correctless.md) — related
 - [In verbal protocols, references concentrated on the model (44.4%) and graph (39.4%) with few to the equation (16.1%), and students referenced multiple representations on 42.6% of questions](verbal-protocol-representation-reference-frequencies.md) — related
 - [Reducing extraneous load can also remove affordances for germane processes](extraneous-load-reduction-may-remove-germane-affordances.md) — related
+- [Embodied learning environments using students' own motion immediately linked to its graphical representation are most effective in terms of learning outcomes for graphing motion](immediate-own-motion-most-effective-graphing-motion.md) — related

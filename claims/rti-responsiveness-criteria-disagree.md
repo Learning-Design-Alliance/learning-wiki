@@ -44,3 +44,4 @@ The review states the four dimensions on which responsiveness methods differ (st
 
 ## Related Claims
 - [Many English-only students would fail locally determined cutoff scores often applied to English Learner students under California's Criterion 4 basic-skills requirement](criterion4-barrier-reclassification.md) — related
+- [Definitions of developmental dyscalculia vary widely across studies, with diagnostic cutoffs ranging from below the 3rd to below the 25th percentile](dd-diagnostic-cutoff-variation.md) — a narrower finding that bears on this claim

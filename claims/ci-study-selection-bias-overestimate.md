@@ -43,4 +43,9 @@ Authors' stated limitation in the Discussion: participating families were highly
 
 
 ## Related Claims
--
+- [Two-thirds to three-quarters of adolescent CI users score within the normal range on vocabulary and language content measures](ci-adolescents-language-measures-normal-range.md) — related
+- [71% of adolescent long-term CI users obtain verbal IQs within or above one standard deviation of hearing age-mates](ci-adolescents-viq-within-normal-range.md) — related
+- [The dashboard's cohort view restricts results to students who consistently tested across selected terms, and those outcomes may be positively biased](cohort-view-consistent-testers-positive-bias.md) — related
+- [Verbal reasoning subtest scores of long-term CI users increased from elementary grades to high school beyond expected age-related growth](ci-verbal-reasoning-gains-exceed-expected-growth.md) — related
+- [Adolescent CI users perform weakest on connected discourse comprehension and abstract verbal reasoning subtests](ci-weak-connected-discourse-abstract-reasoning.md) — related
+- [The study's invariance findings may be biased by excluding students who missed a test and by sample heterogeneity](map-invariance-study-sample-bias-limitations.md) — related

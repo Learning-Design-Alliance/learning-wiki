@@ -45,3 +45,5 @@ Observational analysis of search paths from 87 children performing the Bells Tes
 ## Related Claims
 
 - [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md)
+- [Higher ADHD scores increase the variability of semantic search paths via more long-distance jumps, but not mean semantic distance](higher-adhd-traits-more-semantic-jumps.md) — related
+- [Exploratory search behaviour in visual and semantic tasks is not correlated across children once ADHD score is controlled](no-cross-domain-correlation-exploratory-search.md) — related

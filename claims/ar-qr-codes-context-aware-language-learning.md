@@ -65,3 +65,4 @@ The review reports Leonidis et al.'s (2012) claim that the SESIL ambient-intelli
 - [GPS-supported mobile language learning outside the classroom lets students integrate classroom knowledge with authentic daily-life needs](gps-mobile-learning-integrates-classroom-and-daily-life.md) — related
 - [Microblogging and mobile blogging promote target-language interaction, cultural understanding, and a sense of community among language learners](microblogging-promotes-interaction-community-language-learners.md) — related
 - [Learners showed positive attitudes toward receiving SMS vocabulary messages, and instant messaging raised intercultural awareness](sms-positive-attitudes-intercultural-awareness.md) — related
+- [Small-screen design recommendations were explicated through an inquiry in which teachers and students interacted with learning objects on handheld devices](small-screen-recommendations-inquiry.md) — related

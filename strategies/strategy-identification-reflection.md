@@ -19,7 +19,7 @@ Strategy identification & reflection asks learners to explicitly name the cognit
 
 ## Design Implications
 
-Naming strategies converts tacit, in-the-moment decisions into explicit, transferable knowledge, which is the core move of metacognitive instruction [Schraw, 1998] [+M]. Reflection after task completion is most effective when it targets the *process* rather than the outcome, consistent with evidence that process-level feedback drives the largest gains [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because strategy reflection adds a second layer of processing on top of the primary task, it must be brief and well-timed to avoid overloading working memory [Cognitive Load Management](../principles/cognitive-load-management.md).
+Naming strategies converts tacit, in-the-moment decisions into explicit, transferable knowledge, which is the core move of metacognitive instruction ([Schraw, 1998](https://doi.org/10.1023/a:1003044231033)) [+M]. Reflection after task completion is most effective when it targets the *process* rather than the outcome, consistent with evidence that process-level feedback drives the largest gains [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Because strategy reflection adds a second layer of processing on top of the primary task, it must be brief and well-timed to avoid overloading working memory [Cognitive Load Management](../principles/cognitive-load-management.md).
 
 ### Context
 #### Requirements
@@ -47,7 +47,7 @@ Naming strategies converts tacit, in-the-moment decisions into explicit, transfe
 - High-achievers with already-automated strategies may find structured reflection redundant [Expertise reversal: guidance becomes less effective as expertise grows.](../claims/expertise-reversal-effect.md) [~M]
 
 ### Target Learning Goals
-- Metacognitive knowledge: knowing *what* strategies exist and *when* to deploy them [Schraw, 1998] [+M]
+- Metacognitive knowledge: knowing *what* strategies exist and *when* to deploy them ([Schraw, 1998](https://doi.org/10.1023/a:1003044231033)) [+M]
 - Transfer: building a reusable strategy repertoire that applies across task types
 - Self-regulated learning: the monitoring-and-evaluation phase of self-regulated study [Self-regulated learning](../theories/self-regulated-learning.md)
 - Academic language: a precise shared vocabulary for discussing learning processes

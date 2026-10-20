@@ -52,7 +52,7 @@ Teacher expectations and beliefs shape interaction quality with families and stu
 
 ### Instructions
 1. Surface current beliefs through anonymous attribution exercises (e.g., interpreting ambiguous parent-behavior scenarios and comparing explanations).
-2. Present counter-evidence: research on funds of knowledge (Moll et al., 1992) and data on engagement barriers in the local community.
+2. Present counter-evidence: research on funds of knowledge ([Moll et al., 1992](https://doi.org/10.1080/00405849209543534)) and data on engagement barriers in the local community.
 3. Arrange direct, equal-status contact — family panels, home-visit programs, community-based learning partnerships — since contact under supportive conditions reduces stereotyping [Building empathy improves intergroup attitudes.](../claims/building-empathy-improves-intergroup-attitudes.md) [+M].
 4. Audit engagement practices (scheduling, communication, homework design) and redesign those that encode middle-class assumptions.
 5. Establish ongoing norms: name deficit talk when it occurs, and celebrate counter-stereotypical examples of family expertise.

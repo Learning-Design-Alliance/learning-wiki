@@ -47,3 +47,4 @@ Descriptive trajectory results across the three samples showed later developers 
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
 - [Higher maternal education predicts membership in faster self-regulation trajectories](maternal-education-predicts-self-regulation-trajectory.md) — related
 - [Children follow three distinct behavioral self-regulation trajectories (early, intermediate, and later developers) replicated across three samples](three-self-regulation-trajectories-early-childhood.md) — a broader claim this one bears on
+- [Higher expressive vocabulary predicts membership in faster self-regulation trajectories](expressive-vocabulary-predicts-self-regulation-trajectory.md) — related

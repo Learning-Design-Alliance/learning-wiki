@@ -54,6 +54,7 @@ The review proposes stepped- or matched care as the organizing model for embeddi
 - [Multi-Tiered System of Supports (MTSS)](../strategies/multi-tiered-system-of-supports-mtss.md)
 - [Response To Intervention](../strategies/response-to-intervention.md)
 - [Organize integrated support systems as universal, supplemental, and intensive tiers](../strategies/tiered-integrated-support-systems.md)
+- [Stepped Care Model response architecture: chatbot tone, language and support intensity escalate proportionally with detected stress severity](../designs/stepped-care-tiered-response-architecture-chatbot.md)
 
 ## Key Sources
 - Winterdijk Per, Aanstoot Henk‐Jan, Fransman Christine, Mocan Andreia, Nefs Giesje. (2026). Embedding psychological care in diabetes services: Why it's time to innovate and integrate. Diabetic Medicine. https://doi.org/10.1111/dme.70411

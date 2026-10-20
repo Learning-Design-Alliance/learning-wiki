@@ -43,4 +43,4 @@ Experiment with 40 Dutch Grade 10 students randomly assigned to four conditions 
 
 
 ## Related Claims
--
+- [Hypermedia learners show the lowest total engagement in learning processes, devoting most processing to superficial activities](hypermedia-lowest-total-process-engagement.md) — possibly the same claim (merge candidate)

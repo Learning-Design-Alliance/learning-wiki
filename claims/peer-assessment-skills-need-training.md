@@ -43,4 +43,5 @@ The review attributes this assertion to Sluijsmans and Prins (2006), citing it a
 
 
 ## Related Claims
--
+- [Expert performers counteract automaticity by building increasingly complex mental representations, unlike everyday skill learning](experts-counteract-automaticity-mental-representations.md) — related
+- [Three-year formative assessment training improved teachers' eliciting and interpreting skills, leading to better student learning](formative-assessment-training-improves-information-on-results.md) — related

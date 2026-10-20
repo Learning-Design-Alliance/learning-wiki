@@ -41,7 +41,8 @@ The article includes an empirical demonstration applying its design-based estima
 - [Variance terms in multi-armed RCT estimators need slight adjustment under the finite-population framework, which can reduce precision](../claims/variance-adjustment-reduces-precision-multi-armed.md) [+W]
 
 ## Related Elements
-- 
+
+- [Ten-RCT empirical comparison of CACE variance formulas](ten-rct-cace-variance-comparison.md)
 
 ## Examples
 -

@@ -45,3 +45,4 @@ Observational comparison of CPS high schools, reported with Figure 1 including a
 ## Related Claims
 - [Freshman OnTrack rates improved most among the highest-risk students, including Black and Latinx young men and the lowest-achieving entrants](ontrack-gains-largest-among-highest-risk-students.md) — related
 - [Vivaldi students' first-year on-track rates differed across destination high schools for the 1997 cohort](vivaldi-1997-on-track-varies-by-high-school.md) — a narrower finding that bears on this claim
+- [Vivaldi students' first-year on-track rates differed across destination high schools for the 2001 cohort](vivaldi-2001-on-track-varies-by-high-school.md) — a narrower finding that bears on this claim

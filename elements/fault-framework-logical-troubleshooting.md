@@ -45,7 +45,8 @@ FAULT is the article's context-specific fault diagnosis simulation, named becaus
 - [CRESST Integrated Assessment System: a computer-based suite of performance assessment tasks](../products/cresst-integrated-assessment-system.md)
 
 ## Examples
--
+
+- [Rate only poor tests in rule-based aiding: full quality ratings were counterproductive](../strategies/rate-only-poor-tests-in-rule-based-aiding.md)
 
 ## Key Sources
 - Rouse, W. B., Rouse, S. H., Hunt, R. M., Johnson, W. B., and Pelligrino, S. J. (1980). Human Decision-Making in Computer-Aided Fault Diagnosis. Technical Report 434, Coordinated Science Laboratory, University of Illinois. https://eric.ed.gov/?id=ED192743

@@ -48,3 +48,4 @@ Repeated measures ANOVA over pretest, immediate and delayed posttests for the sa
 - [CF treatment improved regular past tense performance on both GJT and EIT with large effects](cf-treatment-improves-regular-past-tense-gjt-eit.md) — related
 - [Pretest scores significantly predict posttest scores across CF types and outcome measures](pretest-scores-predict-posttest-scores.md) — related
 - [No group differences on immediate posttests for either feedback type on either measure](no-immediate-posttest-feedback-group-differences.md) — related
+- [Procedural memory shows no association with irregular past tense learning under any CF type](procedural-memory-null-irregular-past-tense.md) — related

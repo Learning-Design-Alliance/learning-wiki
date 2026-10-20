@@ -43,4 +43,4 @@ Paired t-tests within each experimental group on QAM scales: significant increas
 
 
 ## Related Claims
--
+- [Perceived teacher support differed substantially across the six Scrum-implementing teachers, providing the fidelity check that split the experimental group into top-teachers and growth-teachers.](perceived-teacher-support-fidelity-check-split-experimental-group.md) — related

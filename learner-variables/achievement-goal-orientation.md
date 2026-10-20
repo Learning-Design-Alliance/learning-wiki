@@ -13,16 +13,16 @@ generated:
 # Achievement Goal Orientation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 32 claims (16 show a difference, 9 mixed, 5 no difference, 2 unmarked) · 20 studies (10 associational, 4 causal, 3 review, 3 theoretical), `q2`–`q3` · 9 of 20 report an effect size · 30 claims rest on one study
+> **Evidence** · 32 claims (16 show a difference, 11 mixed, 5 no difference) · 20 studies (10 associational, 4 causal, 3 review, 3 theoretical), `q2`–`q3` · 9 of 20 report an effect size · 30 claims rest on one study
 
 ## Description
 Achievement goal theory distinguishes mastery goals (developing competence and understanding) from performance goals (showing competence relative to others), each with an approach form (seeking success) and an avoidance form (avoiding failure or looking incompetent). Goals are measured by self-report and are shaped by classroom goal structures: how tasks, evaluation and recognition are organised. Mastery-approach goals generally go with persistence and deeper processing, performance-avoidance goals with anxiety and lower achievement. It is one part of [motivation](motivation.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [~W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Mastery goals **r = .17**, performance-approach **.07**, performance-avoidance **−.17**. [Claim](../claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md)
+- Mastery goals **r = .17**, performance-approach **.07**, performance-avoidance **−.17**. [Claim](../claims/mastery-goals-correlate-positively-and-avoidance-goals-negatively-with-math-achievement.md) [~W]
 
 ## Implications
 

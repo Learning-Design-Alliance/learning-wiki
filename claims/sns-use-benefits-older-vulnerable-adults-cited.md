@@ -45,3 +45,4 @@ Narrative review of prior work: the article attributes to Cruwys, Dingle et al. 
 ## Related Claims
 - [Internet use among senior citizens was associated with a 30% reduction in depressive symptoms compared to non-users (reported by cited prior work)](internet-use-reduced-depression-seniors-cited.md) — related
 - [Older adults required more time to learn SNS use, partially validating the age stereotype (reported by cited prior work)](older-adults-more-time-learning-sns-cited.md) — related
+- [Estimated success at helping others learn Facebook decreases significantly as the hypothetical learner's age increases from 20 to 60](estimated-success-decreases-older-learners-facebook.md) — related

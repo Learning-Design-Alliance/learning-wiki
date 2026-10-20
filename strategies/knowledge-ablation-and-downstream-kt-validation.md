@@ -37,7 +37,8 @@ The article proposes two conceptual tests for judging whether the remaining blac
 - predicting problem resolvability and student errors from explicit knowledge states
 
 ## Related Strategies
-- 
+
+- [Evaluate LLM-based tutors with human-inspired methods such as simulated students and behavior analysis before classroom deployment](human-inspired-evaluation-of-llm-tutors.md)
 
 ## Examples
 -

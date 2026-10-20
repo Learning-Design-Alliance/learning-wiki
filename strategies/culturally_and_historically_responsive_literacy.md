@@ -20,7 +20,7 @@ Culturally and Historically Responsive Literacy (CHRL), developed by Gholdy Muha
 
 ## Design Implications
 
-CHRL extends culturally relevant pedagogy [Ladson-Billings, 1995] by making the four goals an explicit planning template: every lesson plan names objectives in each of the four dimensions, not skills alone. Connecting texts and tasks to students' backgrounds raises task value and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M], and culturally familiar emphasis directs attention to relevant text features [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. The framework is additive — it does not replace skill instruction but embeds it within meaningful cultural and historical contexts.
+CHRL extends culturally relevant pedagogy ([Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465)) by making the four goals an explicit planning template: every lesson plan names objectives in each of the four dimensions, not skills alone. Connecting texts and tasks to students' backgrounds raises task value and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M], and culturally familiar emphasis directs attention to relevant text features [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. The framework is additive — it does not replace skill instruction but embeds it within meaningful cultural and historical contexts.
 
 ### Context
 #### Requirements

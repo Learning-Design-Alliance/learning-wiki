@@ -127,3 +127,6 @@ Meta-analysis of the segmenting effect covering "56 investigations including 88 
 - [Learner control over pace and order of an animated multimedia instruction improves transfer performance compared with system control](learner-control-improves-transfer-animated-instruction.md) — related
 - [Learner control substantially increases time-on-task in animated multimedia instruction](learner-control-increases-time-on-task.md) — related
 - [Learner control does not improve retention of the main steps in an animated multimedia instruction](learner-control-no-retention-benefit.md) — related
+- [Properly segmented text facilitates decoding, encoding, and retrieval better than poorly segmented text](segmentation-idea-units-improve-learning.md) — a narrower finding that bears on this claim
+- [Segmentation increases learning time](segmenting-increases-learning-time.md) — related
+- [Nonsegmented spoken–written presentations show a larger advantage over spoken-only presentation than segmented ones](segmentation-moderates-verbal-redundancy.md) — related

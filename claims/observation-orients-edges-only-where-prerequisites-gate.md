@@ -68,3 +68,4 @@ estimator was fooled when abler learners chose the order.
 ## Related Claims
 
 - [Learner records rarely establish that a prerequisite edge exists.](observation-cannot-establish-a-prerequisite-edge.md) — the existence limit
+- [Prior difficulty collections mostly lack fine-grained classification of student difficulties](prior-difficulty-collections-lack-fine-grained-classification.md)

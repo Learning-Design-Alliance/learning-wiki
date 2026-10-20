@@ -47,3 +47,4 @@ Convergent validity analysis using only students who took both MAP Reading Fluen
 - [Equated WCPM scores are more highly correlated across passages read by the same student than raw WCPM scores, suggesting greater reliability](equated-wcpm-higher-cross-passage-correlations.md) — related
 - [Equated WCPM scores from non-reference passages show smaller residuals against reference-passage scores than raw scores, with one passage exception](equated-wcpm-smaller-residuals-one-exception.md) — related
 - [Equated WCPM scores show much less within-student variance than raw WCPM scores, indicating reduced passage-difficulty fluctuations](equated-wcpm-less-within-student-variance.md) — related
+- [Linear regression outperformed equipercentile and mean-sigma equating for predicting ARM scores and was selected as the final linking model](linear-regression-selected-linking-model.md) — related

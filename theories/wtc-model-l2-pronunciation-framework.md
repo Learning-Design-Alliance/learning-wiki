@@ -19,7 +19,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The article uses the WTC model (MacIntyre et al., 1998) as its organizing framework, which takes into account the many variables present when initiating a communicative exchange in the L2. The model distinguishes situational and enduring variables, with L2 self-confidence comprising a cognitive evaluation of L2 abilities and anxiety; sufficient motivation and positive self-confidence produce state communicative self-confidence, leading to L2 use. Accessing pronunciation is treated as a resulting behavior of WTC and the decision to engage in communication with another speaker. The study's self-assessment categories (perceived performance, confidence, anxiety, desire to improve) map onto WTC model variables.
+The article uses the WTC model ([MacIntyre et al., 1998](https://doi.org/10.1111/j.1540-4781.1998.tb05543.x)) as its organizing framework, which takes into account the many variables present when initiating a communicative exchange in the L2. The model distinguishes situational and enduring variables, with L2 self-confidence comprising a cognitive evaluation of L2 abilities and anxiety; sufficient motivation and positive self-confidence produce state communicative self-confidence, leading to L2 use. Accessing pronunciation is treated as a resulting behavior of WTC and the decision to engage in communication with another speaker. The study's self-assessment categories (perceived performance, confidence, anxiety, desire to improve) map onto WTC model variables.
 
 ## Design Implications
 

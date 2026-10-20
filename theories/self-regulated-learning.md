@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 188 claims (89 for, 91 mixed, 8 against) · 146 studies (50 associational, 41 causal, 19 review, 13 quant-synthesis, 8 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 35 of 146 report an effect size · 173 claims rest on one study
+> **Evidence** · 189 claims (90 for, 91 mixed, 8 against) · 147 studies (50 associational, 41 causal, 20 review, 13 quant-synthesis, 8 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 35 of 147 report an effect size · 174 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -235,6 +235,7 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](../claims/teacher-scaffolding-strategy-use-performance-phase.md) [+W]
 - [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](../claims/ai-directed-self-testing-diminishes-metacognitive-judgment.md) [~W]
 - [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](../claims/learning-patterns-versus-srl-models.md) [~W]
+- [Daily SR of students is positively associated with their perceived daily academic success at the within-person level](../claims/daily-sr-within-person-academic-success.md) [+W]
 
 ## The evidence by question
 

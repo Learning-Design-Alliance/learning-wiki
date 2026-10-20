@@ -43,4 +43,8 @@ The review reports, from van der Wilt et al. (2018a) (N = 447 children aged 3.83
 
 
 ## Related Claims
--
+- [Children's oral communicative competence is significantly related to their sociometric status in childhood](oral-communicative-competence-related-sociometric-status.md) — a broader claim this one bears on
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](gender-moderates-competence-acceptance-relation.md) — related
+- [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md) — related
+- [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) — related
+- [The relation between oral communicative competence and sociometric status is expected to be interactional and transactional rather than unidirectional](transactional-competence-sociometric-relation.md) — related

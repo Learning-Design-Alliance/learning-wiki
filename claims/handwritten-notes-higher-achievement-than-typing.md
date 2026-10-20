@@ -45,3 +45,4 @@ The paper reports, citing Flanigan et al. (2024), a meta-analysis of twenty-four
 
 ## Related Claims
 - [Laptop note-takers transcribed more verbatim and did worse on conceptual questions than longhand note-takers in one set of experiments, but a direct replication found no consistent difference in test performance](laptop-notes-verbatim-shallower.md) — related
+- [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related

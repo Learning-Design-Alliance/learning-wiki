@@ -47,3 +47,4 @@ Discriminant function analysis on 104 children using pretreatment Rapid Letter N
 - [Nonresponsiveness to kindergarten intervention is persistent and predicts school-identified reading problems through third grade](nonresponsiveness-persistent-predicts-disability.md)
 - [Nonresponsive students were in classrooms with lower-quality Ladders implementation and lower fall first-grade PALS fidelity](fidelity-associated-with-responsiveness.md)
 - [Nonresponsive students scored significantly lower than always responsive students on seven measures and higher on problem behavior](nonresponders-posthoc-pairwise-deficits.md)
+- [A meta-analysis attributes the strongest predictors of nonresponsiveness to rapid naming and problem behavior](meta-analysis-predictors-of-nonresponsiveness.md) — related

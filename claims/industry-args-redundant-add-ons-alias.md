@@ -46,3 +46,4 @@ Qualitative archival case study reconstructing the two ABC-produced Alias ARGs f
 
 - [The fan-produced Omnifam ARG centred on extending the Alias backstory through the Rambaldi mythology while staying faithful to the fictional universe](omnifam-arg-backstory-extension.md)
 - [Intellectual-property concerns and fan attraction to the backstory jointly shaped the fan ARG's focus on the Rambaldi mythology](omnifam-ip-self-censorship-design.md)
+- [Fan-produced and industry-produced ARGs based on existing media properties perform the same cultural function of extending the narrative within a shared consumption framework](args-shared-consumption-framework.md) — related

@@ -46,3 +46,4 @@ Internal consistency analysis of the validation study measures. The article repo
 - [MicroDYN is a stronger predictor of the in-game problem solving estimates than Raven's, with the rule-application facet more relevant than rule acquisition](microdyn-stronger-predictor-than-ravens.md) — related
 - [Adding MicroDYN rule application significantly improves prediction of overall problem solving, planning, tool usage, and evaluating progress, but not analyzing givens](rule-application-predicts-facets-except-analyzing-givens.md) — related
 - [Stealth assessment estimates of problem solving in Use Your Brainz correlate significantly with external measures (Raven's and MicroDYN) in middle-school students](stealth-assessment-problem-solving-correlates-external-measures.md) — related
+- [An exam with low internal consistency cannot be used to verify peer assessment validity](low-reliability-exam-excluded-from-validity-check.md) — related

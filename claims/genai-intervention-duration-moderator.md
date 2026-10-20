@@ -52,3 +52,4 @@ Moderator analysis (Table 5) of intervention duration across subgroups: 0–8 we
 - The effect of ChatGPT on learning performance is moderated by type of course, learning model, and duration, with problem-based learning and 4–8-week interventions showing the largest effects — related
 - [Interventions longer than one month showed the largest effect size for robot-assisted STEM learning, though duration was not a significant moderator overall](duration-over-one-month-largest-robotics-effect.md) — related
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — related
+- [Teaching type, intervention duration, subject area, group size, and learning scaffold significantly moderate the effect of collaborative problem-solving on critical thinking](five-significant-moderators-cps-critical-thinking.md) — related

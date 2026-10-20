@@ -100,7 +100,7 @@ Practice is one of the most consistently supported instructional elements: activ
 - **Default:** pitch items so most attempts succeed, or give feedback on every failed one. Without feedback, practice at 50% initial success or lower gave no testing effect (g = 0.03), and effects grew as success rose above 75% — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [-M], [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [+M]
 - **Changes when:** feedback follows each attempt → lower success is tolerable; studies with feedback showed the largest effects regardless of initial success — [Retrieval Failure Reduces Benefit](../claims/retrieval-failure-reduces-benefit.md) [~M]
 - **Changes when:** retrieval is made too easy (more cues, or recall straight after study) → the benefit shrinks — [A review reports that retrieval practice effects grow more robust as initial retrieval success rises, especially above 75%, and separately that giving more retrieval cues yields smaller effects](../claims/retrieval-practice-effects-more-robust-when-initial-retrieval-success-exceeds-75-percent.md) [~M]
-- **Tested with:** a between-study moderator analysis of the testing-effect literature (Rowland 2014), reported again in one review chapter; not a direct manipulation of difficulty.
+- **Tested with:** a between-study moderator analysis of the testing-effect literature ([Rowland 2014](https://doi.org/10.1037/a0037559)), reported again in one review chapter; not a direct manipulation of difficulty.
 - **Not settled:** a target success rate for adaptive systems; 75% is a moderator band, not a tested setting.
 
 ### How should practice be scheduled?
@@ -128,7 +128,7 @@ Practice is one of the most consistently supported instructional elements: activ
 ### Part-task or whole-task practice?
 - **Default:** for absolute novices on a task with many interacting elements, practise isolated parts before the whole — [Part-task practice reduces cognitive load for absolute novices during initial skill acquisition.](../claims/part-task-practice-reduces-load-for-novices.md) [+M]
 - **Changes when:** transfer to professional practice is the goal → move to whole, varied tasks with less guidance; this is a design argument, not an experiment — [A training-design argument, not tested by any study recorded here, holds that practising whole complex tasks improves transfer of complex skills](../claims/whole-task-performance-improves-transfer.md) [~W]
-- **Tested with:** one experiment on complex, high-element-interactivity material (Pollock et al. 2002); the whole-task side has no empirical entry.
+- **Tested with:** one experiment on complex, high-element-interactivity material ([Pollock et al. 2002](https://doi.org/10.1016/s0959-4752(01)00016-0)); the whole-task side has no empirical entry.
 - **Not settled:** when to switch from parts to whole tasks.
 
 ### How much practice, and practice until what?

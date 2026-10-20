@@ -16,7 +16,7 @@ generated:
 > **Evidence** · 53 claims (19 for, 25 mixed, 9 against) · 47 studies (14 review, 14 associational, 7 theoretical, 4 causal, 4 qualitative, 4 design), `q1`–`q3` · 4 of 47 report an effect size · 50 claims rest on one study
 
 ## Description
-In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available (Baker & Inventado, 2016). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
+In face-to-face instruction, a teacher can visually notice disengagement or confusion; a distance instructor cannot, and many learners fail to recognize their own need for help or fail to seek it even when it is available ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics)). Educational data mining (EDM) and learning analytics (LA) address this by mining the large amounts of interaction data online and distance courses generate — content-management, discussion-forum, gradebook, and clickstream data — to build models that predict which learners are at risk and to surface feedback that would otherwise depend on an instructor noticing in person.
 
 Baker and Siemens' (2014) framework groups the relevant methods into three families most useful for distance education: **prediction modeling** (inferring a target variable — e.g., likelihood of dropping a course — from other data, as in Purdue's Course Signals project); **structure discovery**, most often social network analysis of learners' interaction patterns, used to understand collaboration quality or sense of community; and **relationship mining** (association rule mining, sequential pattern mining, correlation mining), which surfaces unexpected if-then patterns, such as which behavior sequences characterize successful vs. unsuccessful collaborative groups.
 
@@ -27,7 +27,7 @@ These models feed three uses that benefit learners directly: **automated feedbac
 ### Context
 #### Requirements
 - Sufficient volume and quality of interaction data (content-management, gradebook, discussion, clickstream) to train and validate a model
-- A validated model — tested on data representative of the population and context where it will actually be used, since a model built on one course's population can fail on a different course even within the same institution (Baker & Inventado, 2016)
+- A validated model — tested on data representative of the population and context where it will actually be used, since a model built on one course's population can fail on a different course even within the same institution ([Baker & Inventado, 2016](https://edtechbooks.org/lidtfoundations/educational_data_mining_and_learning_analytics))
 - A low-risk ("fail-soft") intervention paired with the prediction, since no predictive model is perfect and the cost of an incorrect intervention needs to stay low
 #### Constraints
 - Privacy: the same longitudinal data that enables useful long-term analysis also creates privacy exposure; there is no simple solution that fully protects privacy without discarding data that could reveal long-term harms or benefits

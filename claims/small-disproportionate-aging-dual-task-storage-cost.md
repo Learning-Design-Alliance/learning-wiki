@@ -44,3 +44,4 @@ Random-effects meta-analysis of published dual-task studies comparing younger an
 
 ## Related Claims
 - [Dual-task (secondary-task) measures offer concurrent cognitive load assessment but are rarely used](dual-task-concurrent-load-measurement.md) — related
+- [Titration of storage task difficulty reduces the age difference in dual task costs to a non-significant level](titration-reduces-dual-task-cost-age-difference.md) — related

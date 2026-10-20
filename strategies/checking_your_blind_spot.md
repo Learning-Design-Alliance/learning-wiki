@@ -83,7 +83,7 @@ The strategy works because it converts an invisible influence into an object of 
 - [Counter-design practices for deliberate AI engagement](counter-design-ai-offloading-practices.md)
 
 ## Examples
-- **Prejudice habit-breaking intervention (Devine et al., 2012)** — a multi-week program combining bias education, counter-stereotype practice, and daily habit monitoring, producing implicit-bias reductions lasting eight weeks.
+- **Prejudice habit-breaking intervention ([Devine et al., 2012](https://doi.org/10.1016/j.jesp.2012.06.003))** — a multi-week program combining bias education, counter-stereotype practice, and daily habit monitoring, producing implicit-bias reductions lasting eight weeks.
 - **Blind auditions in orchestras** — screens and carpets placed so judges cannot see candidates' gender; a canonical structural countermeasure that dramatically increased women's advancement.
 - **Project Implicit education modules** — used in university and workplace settings to introduce the blind-spot premise, followed by facilitated case discussion and commitment to countermeasures.
 

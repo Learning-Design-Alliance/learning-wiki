@@ -54,7 +54,7 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 
 #### Implementation Variability
 - **Harvard method**: cold-call-driven whole-class case discussion typical of business and law schools — see [Case-Based Learning: Harvard Method](../patterns/case-based-learning.md)
-- **Small-group CBL**: used extensively in medical education, often with a facilitator per group (Thistlethwaite et al., 2012)
+- **Small-group CBL**: used extensively in medical education, often with a facilitator per group ([Thistlethwaite et al., 2012](https://doi.org/10.3109/0142159x.2012.680939))
 - **Trigger-short cases**: brief vignettes that launch discussion, blending CBL with problem-based formats
 - **Asynchronous online CBL**: cases posted with staged releases of information and structured discussion boards
 - **Progressive disclosure** (Harvard method): information is released in stages; learners must commit to decisions before seeing consequences
@@ -104,7 +104,7 @@ CBL works because it situates abstract concepts in the messy, contextualized con
 
 ## Examples
 - **Harvard Business School case method** — MBA students analyze ~500 published cases (e.g., from [HBP Education](https://www.hbs.edu/education/Pages/default.aspx)) in cold-call discussion sections
-- **Case-Based Learning in medicine** — pre-clinical courses use patient cases with staged lab results; a systematic review found CBL favored over lecture for exam performance (Thistlethwaite et al., 2012)
+- **Case-Based Learning in medicine** — pre-clinical courses use patient cases with staged lab results; a systematic review found CBL favored over lecture for exam performance ([Thistlethwaite et al., 2012](https://doi.org/10.3109/0142159x.2012.680939))
 - **Learning by Design™ (Kolodner et al.)** — middle-school science units in which learners design artifacts (vehicles, containers) and use case libraries of peers' attempts to reason about science principles
 - **National Center for Case Study Teaching in Science** ([University at Buffalo](https://sciencecases.lib.buffalo.edu)) — peer-reviewed STEM cases with teaching notes, spanning clicker-based to discussion formats
 - **Harvard Business School case method** — MBA students analyze a new case daily in section discussion, with cold-calling to ensure broad participation; the canonical implementation of progressive-disclosure case teaching

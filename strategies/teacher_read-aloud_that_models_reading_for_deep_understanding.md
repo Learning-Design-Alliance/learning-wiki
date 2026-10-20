@@ -35,9 +35,9 @@ Read-alouds work because they decouple comprehension modeling from decoding: lea
 - Requires teacher preparation and fluency; improvised read-alouds rarely include the strategic modeling that drives the effect
 
 #### Implementation Variability
-- **Interactive read-alouds** (Fisher et al., 2004): teacher pauses at planned points for brief, purposeful talk
+- **Interactive read-alouds** ([Fisher et al., 2004](https://doi.org/10.1598/rt.58.1.1)): teacher pauses at planned points for brief, purposeful talk
 - **Text Talk** (Beck & McKeown, 2001): questions are asked *after* reading segments to prevent learners from answering from pictures rather than integrating language
-- **Dialogic reading** (Whitehurst et al., 1988): learners take increasing turns as storyteller, with the teacher prompting, evaluating, and expanding — a strong fit for early childhood settings
+- **Dialogic reading** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)): learners take increasing turns as storyteller, with the teacher prompting, evaluating, and expanding — a strong fit for early childhood settings
 - **Repeated read-alouds** of the same text across several sessions deepen vocabulary and story-structure knowledge
 
 ### Target Learners

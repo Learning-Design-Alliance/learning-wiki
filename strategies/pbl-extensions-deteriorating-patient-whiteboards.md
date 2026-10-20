@@ -36,7 +36,8 @@ The article describes extending the problem-based learning model used in medical
 - effective teacher scaffolding
 
 ## Related Strategies
-- 
+
+- [Alternate between structuring (decreasing task complexity) and problematizing (increasing task complexity) as learners' competence develops](structuring-and-problematizing-scaffolding-strategies.md)
 
 ## Examples
 -

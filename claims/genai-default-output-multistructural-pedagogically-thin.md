@@ -48,3 +48,4 @@ Reflective demonstration: the authors, role-playing a naive student, prompted Cl
 - [Shallow, copy-pasting engagement occurred but was not the dominant mode of GenAI Tutor use, and was lowest during exam preparation](shallow-engagement-not-dominant-mode.md) — related
 - [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related
 - [Automated verification of AI-drafted content produced mixed results: strong accuracy and integrity scores but only 5 of 10 chapters meeting the pedagogical-progression bar](verification-layer-one-mixed-results.md) — related
+- [In a narrative educator assessment, coding assistants (Cursor and Claude Code) produced the most accurate, complete, and pedagogically sound slides from textbook chapters](coding-assistants-best-slide-generation.md) — related

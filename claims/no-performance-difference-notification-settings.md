@@ -62,4 +62,4 @@ Welch-corrected t-test on the 16-item quiz in the same experiment found "a signi
 
 
 ## Related Claims
--
+- [Habitual phone use heightens smartphone vigilance but does not directly increase checking frequency; it lengthens use duration only when notifications are hidden](habitual-use-acts-through-vigilance.md) — related

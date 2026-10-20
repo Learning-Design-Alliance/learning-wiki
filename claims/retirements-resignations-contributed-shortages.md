@@ -50,3 +50,4 @@ District survey responses collected August–September 2021. The report prints d
 - Michigan's teacher vacancy data are severely underreported, with nearly 90% of districts reporting zero vacancies in 2021-22 — related
 - [Retirements and resignations rose in some districts during the pandemic and leaders expect higher retirement rates next year](pandemic-rising-teacher-retirements-resignations.md) — related
 - [District leaders report pandemic-era teacher workloads have at least doubled, contributing to burnout concerns and earlier-than-planned retirements](pandemic-teacher-workload-increase-burnout-retirement.md) — related
+- [Districts report severe substitute teacher shortages during the pandemic, straining remaining teachers who must cover absent colleagues' classes](pandemic-substitute-teacher-shortage-strain.md) — related

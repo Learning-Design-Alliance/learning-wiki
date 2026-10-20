@@ -65,7 +65,7 @@ Strategy instruction produces reliable but moderate gains, strongest when instru
 - [Spaced Practice](../principles/spaced-learning.md) — a study strategy whose value learners systematically misjudge, making it a prime target for instruction
 
 ## Examples
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — small-group reading instruction cycling through predicting, questioning, clarifying, and summarizing, with teacher modeling fading to student leadership.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small-group reading instruction cycling through predicting, questioning, clarifying, and summarizing, with teacher modeling fading to student leadership.
 - **Self-Regulated Strategy Development (SRSD)** for writing — explicit instruction in planning and revising strategies (e.g., POW+TREE) with modeling, memorization of strategy steps, and self-monitoring; extensive evidence base in K–12 writing.
 - **[Learning Scientists](https://www.learningscientists.org)** — classroom materials teaching evidence-based study strategies (spaced practice, retrieval practice, elaboration) with explicit when-and-why rationale.
 

@@ -45,3 +45,4 @@ PLS-SEM structural path in the cross-sectional survey of 412 undergraduate busin
 - [GenAI dependence is negatively associated with both self-reported critical-thinking disposition and self-perceived employability](genai-dependence-negative-both-outcomes.md) — related
 - [In the SEM, GenAI dependence is positively associated with critical thinking (β = 0.492), human–AI collaboration quality (β = 0.538), and research creativity (β = 0.064), with satisfactory model fit](sem-genai-dependence-positive-paths-creativity.md) — reports the opposite
 - [Teacher support is negatively associated with AI dependency among university students](teacher-support-negatively-associated-ai-dependency.md) — related
+- [GenAI use is positively associated with self-perceived employability among business students](genai-use-positive-employability.md) — related

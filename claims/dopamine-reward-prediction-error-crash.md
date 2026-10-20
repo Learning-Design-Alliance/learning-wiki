@@ -63,3 +63,4 @@ Review narrative citing Lembke (2021): the post-reward crash can cause amotivati
 
 ## Related Claims
 - [Early ability to delay gratification predicts later academic and social outcomes, but the association is weaker and more context-dependent than originally reported.](early-delay-of-gratification-predicts-later-outcomes.md) — related
+- [Techniques yield learning gains only when they compensate for otherwise too-low focus support or reward (baseline-levels condition)](baseline-levels-condition-technique-effects.md) — related

@@ -12,14 +12,14 @@ generated:
 # Web-Based Dictionary & Thesaurus
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 mixed) · 2 studies (1 review, 1 theoretical), `q1`–`q2` · 0 of 2 report an effect size
 
 ## Description
 This strategy integrates web-based dictionaries (e.g., Merriam-Webster, Wiktionary) and thesauruses (e.g., Thesaurus.com, WordHippo) into reading, writing, and vocabulary instruction so learners can resolve word meanings and find synonyms on demand. Unlike print references, digital tools offer instant search, audio pronunciation, embedded example sentences, and hyperlinked cross-references that support rapid, low-cost lookup during authentic reading and writing tasks.
 
 ## Design Implications
 
-Lookups are most valuable when they occur during meaningful reading or writing rather than as isolated drill, because encountering a word in context while resolving its meaning contributes to incidental vocabulary acquisition [Knight, 1994] [+M]. However, lookup alone produces fragile word knowledge; words need multiple encounters and generative use to be retained [Nation, 2001] [+S]. Design the task so the dictionary serves comprehension and production, then require learners to *use* the word — the "involvement load" of a task (need, search, evaluation) predicts how much vocabulary sticks [Laufer & Hulstijn, 2001] [+M].
+Lookups are most valuable when they occur during meaningful reading or writing rather than as isolated drill, because encountering a word in context while resolving its meaning contributes to incidental vocabulary acquisition [Knight, 1994] [+M]. However, lookup alone produces fragile word knowledge; words need multiple encounters and generative use to be retained ([Nation, 2001](https://doi.org/10.1017/cbo9781139524759)) [+S]. Design the task so the dictionary serves comprehension and production, then require learners to *use* the word — the "involvement load" of a task (need, search, evaluation) predicts how much vocabulary sticks ([Laufer & Hulstijn, 2001](https://doi.org/10.1093/applin/22.1.1)) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Lookups are most valuable when they occur during meaningful reading or writing r
 ### Target Learners
 - Intermediate readers and language learners who can decode definitions but lack breadth of vocabulary [+M]
 - Writers seeking precision and variety beyond their productive vocabulary
-- Less suitable for absolute beginners, who need [Automatic Word Recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) built through direct teaching before lookup becomes efficient [~M]
+- Less suitable for absolute beginners, who need [Automatic Word Recognition](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~W] built through direct teaching before lookup becomes efficient
 
 ### Target Learning Goals
 - Receptive vocabulary growth during independent reading
@@ -55,7 +55,7 @@ Lookups are most valuable when they occur during meaningful reading or writing r
 2. Model a lookup aloud: read the whole entry, examine the example sentence, and compare two thesaurus candidates for connotation before choosing.
 3. Have learners read, looking up only words that block understanding; require a guess at meaning from context *before* confirming with the dictionary.
 4. Require generative use: each learner writes an original sentence or short passage using two looked-up words, choosing synonyms deliberately.
-5. Consolidate with spaced review — a personal word list, flashcards, or a class shared glossary — since single encounters rarely produce durable learning [Nation, 2001] [+S].
+5. Consolidate with spaced review — a personal word list, flashcards, or a class shared glossary — since single encounters rarely produce durable learning ([Nation, 2001](https://doi.org/10.1017/cbo9781139524759)) [+S].
 
 ## Related Strategies
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — connecting a new word to known words and experiences before lookup deepens encoding

@@ -43,4 +43,5 @@ The article's own contrapuntal analysis: authenticity in computing education pos
 
 
 ## Related Claims
--
+- [Sociological research reports workplace segregation and coercive labor conditions for immigrant tech workers](immigrant-tech-workers-segregation-legal-violence.md) — a narrower finding that bears on this claim
+- [Digital skill gaps among U.S. workers are pronounced by race, while over 90 percent of jobs demand digital skills](racial-digital-skill-gaps-workforce.md) — related

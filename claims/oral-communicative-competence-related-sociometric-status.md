@@ -62,4 +62,8 @@ The review attributes this meta-analytic result to Troesch et al. (2016): 42 stu
 
 
 ## Related Claims
--
+- [The relation between oral communicative competence and sociometric status is expected to be interactional and transactional rather than unidirectional](transactional-competence-sociometric-relation.md) — a broader claim this one bears on
+- [Oral communicative competence relates to peer acceptance only for boys and not to peer rejection, indicating gender as a moderator](gender-moderates-competence-acceptance-relation.md) — related
+- [Children with poorer oral communicative competence experience higher levels of peer rejection after controlling for gender, age, and SES](poorer-communicative-competence-higher-peer-rejection.md) — a narrower finding that bears on this claim
+- [Rejected and neglected children show lower oral communicative competence than average children, while popular and controversial children do not differ from average](rejected-neglected-lower-communicative-competence.md) — a narrower finding that bears on this claim
+- [Rejected and disliked children communicate less responsively and less coherently than popular or liked peers](rejected-children-less-responsive-communication.md) — a narrower finding that bears on this claim

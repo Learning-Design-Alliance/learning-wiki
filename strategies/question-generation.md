@@ -13,7 +13,7 @@ generated:
 # Question Generation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (4 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 2 of 6 report an effect size
 
 ## Description
 Question generation asks learners to author questions about the material they are studying rather than only answering questions posed to them. It can occur before instruction (generating curiosity questions), during reading or viewing (self-questioning), or after instruction (comprehension-monitoring and elaborative questions). The strategy works because composing a question forces learners to identify the structure of the content, detect gaps in their understanding, and rephrase ideas in their own terms.
@@ -41,7 +41,7 @@ Generating questions is a form of generative processing: learners must select co
 #### Implementation Variability
 - **Pre-questions**: learners pose questions before a text or lecture, orienting attention toward gaps
 - **Self-questioning during reading**: embedded prompts at section boundaries ("What question does this section answer?")
-- **Peer questioning**: students exchange questions in pairs or reciprocal-teaching roles; answering a peer's question resembles the [Learning by Teaching](../claims/learning-by-teaching-improves-tutor-learning.md) effect [+M]
+- **Peer questioning**: students exchange questions in pairs or reciprocal-teaching roles; answering a peer's question resembles the [Learning by Teaching](../claims/learning-by-teaching-improves-tutor-learning.md) [+W] effect
 - **Question stems and prompts**: sentence frames or a "question ladder" (literal → inferential → elaborative) scaffold quality upward
 - **System-prompted questioning**: intelligent tutoring systems such as AutoTutor model deep-reasoning questions and prompt learners to produce them
 - **Pre-questions:** learners pose questions before reading to set reading goals and activate schema
@@ -86,7 +86,7 @@ Generating questions is a form of generative processing: learners must select co
 - **AutoTutor (Graesser et al.)** — an intelligent tutoring system that prompts students to answer deep-reasoning questions and models the questions experts would ask, improving conceptual physics and computer literacy learning.
 - **Question Formulation Technique (Right Question Institute)** — a structured protocol in which students produce, refine, and prioritize their own questions about a prompt (https://rightquestion.org).
 - **AP/IB exam preparation** — students write practice exam questions for each unit, then exchange and answer them; authoring questions in the exam's format doubles as retrieval practice.
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — small groups take turns generating questions about a passage alongside summarizing, clarifying, and predicting; question generation is one of four trained strategies.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small groups take turns generating questions about a passage alongside summarizing, clarifying, and predicting; question generation is one of four trained strategies.
 - **[Question-Answer Relationships](question-answer-relationships.md) (QAR)** — students learn to classify and generate questions by source (right-there vs. inference), improving both question quality and answering.
 - **Case-based courses** — before discussing a case, students submit discussion questions, which the instructor uses to seed [Case-Based Learning](../patterns/case-based-learning.md) sessions.
 

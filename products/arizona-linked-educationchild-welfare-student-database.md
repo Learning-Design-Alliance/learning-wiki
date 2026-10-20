@@ -32,6 +32,7 @@ A study-created database linking longitudinal K–12 education records from the 
 
 - [Linked California child welfare-education dataset](linked-california-child-welfare-education-dataset.md)
 - [SISTC integrated student dataset of 1,027 cleaned records with 14 features for dropout prediction](sistc-integrated-student-dataset-of-1027-cleaned-records-with-14-features-for-dropout-pred.md)
+- [CALPADS student-level longitudinal course record dataset](calpads-student-level-longitudinal-course-record-dataset.md)
 
 ## Key Sources
 - Barrat, V. X., Berliner, B., & Felida, N. J. (2015). Arizona's Invisible Achievement Gap: Education Outcomes of Students in Foster Care in the State's Public Schools. San Francisco: WestEd. http://www.azed.gov/research-evaluation/files/2013/11/2013-a-f-technical-manual.pdf

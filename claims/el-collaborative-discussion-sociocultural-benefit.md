@@ -51,3 +51,4 @@ Theoretical argument in the brief's introduction, citing Vygotsky. The brief ass
 - [Tutoring benefits both tutors and tutees](peer-tutoring-improves-achievement.md) — related
 - [BICS and CALP intersect developmentally but are not identical or reducible one to the other](bics-calp-intersect-not-identical.md) — related
 - [Learning By Teaching Improves Tutor Learning](learning-by-teaching-improves-tutor-learning.md) — related
+- [Sociocultural theory emerged from the Russian Revolution, and English translations systematically deleted its Marxist references](sociocultural-theory-marxist-origins-deleted-translations.md) — related

@@ -47,3 +47,6 @@ In the Oklahoma district-level difference-in-differences analysis, the study fin
 - [Four-day school weeks have no detectable effect on high school attendance](four-day-week-no-effect-attendance.md) — related
 - [Students on the four-day school week have lower English language arts and math test scores over time than peers on five-day schedules](four-day-week-lower-ela-math-scores.md) — reports the opposite
 - [Four-day school weeks have no detectable effect on disciplinary incident types other than bullying and fighting](four-day-week-no-effect-other-incident-types.md) — related
+- [Four-day school weeks decrease per-pupil fighting incidents among high school students by approximately 31%](four-day-week-decreases-fighting-incidents.md) — related
+- [Four-day school weeks decrease per-pupil bullying incidents among high school students by approximately 39%](four-day-week-decreases-bullying-incidents.md) — related
+- [Families and students highly value extra time from the four-day week, and stakeholders report high satisfaction](four-day-week-stakeholder-satisfaction.md) — related

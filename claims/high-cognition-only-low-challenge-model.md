@@ -43,4 +43,6 @@ Fuzzy Miner process model of the 12 high-challenge dyads, where reading showed a
 
 
 ## Related Claims
--
+- [High challenge dyads show an isolated bi-directional cycle between social challenge and off-task activities, while low challenge dyads' challenges feed into metacognitive activities](challenge-off-task-vicious-cycle-high-challenge.md) — related
+- [High social challenge dyads show more off-task activities than low social challenge dyads](high-challenge-dyads-more-off-task.md) — related
+- [Low social challenge dyads verbalize more cognitive processing and more high-cognition than high social challenge dyads](low-challenge-dyads-more-cognition-frequencies.md) — related

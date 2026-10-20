@@ -56,3 +56,5 @@ Observational study (Sabers, Cushing, & Berliner, 1988) in which expert, novice,
 - [Classroom observations revealed subtle but decisive teaching differences correlated with the difference in learning outcomes](observed-classroom-differences-correlated-with-outcomes.md) — related
 - [Expert teachers' classroom perception appears knowledge-driven while novices' appears image-driven, guided by salient visual features](knowledge-driven-vs-image-driven-classroom-perception.md) — related
 - [Novices skipped more classroom areas than experts in all four videos, missing areas that experts continually monitored](novices-skip-more-classroom-areas.md) — related
+- [Experts detect and correct small changes before events become full-blown, while novices are distracted by possibly irrelevant phenomena](expert-monitoring-prevents-full-blown-events.md) — related
+- [Teaching experience is associated with higher frequency of mental/perceptual and action/event words in think-aloud about classroom scenes](expertise-associated-event-cognition-word-usage.md) — related

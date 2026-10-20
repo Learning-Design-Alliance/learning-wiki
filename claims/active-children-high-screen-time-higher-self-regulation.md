@@ -45,3 +45,6 @@ ANCOVA with Bonferroni pairwise post-hoc comparisons across four combined PA and
 ## Related Claims
 
 - [Active children show higher self-regulation than inactive children, and children with under 2 h/day screen time show higher self-regulation than those with 2 h or more](active-children-higher-self-regulation-than-inactive.md)
+- [Children meeting more healthy lifestyle habits show higher self-regulation](more-healthy-habits-higher-self-regulation.md) — related
+- [Physical activity is positively correlated with self-regulation in Chilean children aged 8–12](physical-activity-positively-correlated-self-regulation-children.md) — a broader claim this one bears on
+- [Screen time is negatively correlated with self-regulation in Chilean children](screen-time-negatively-correlated-self-regulation-children.md) — related

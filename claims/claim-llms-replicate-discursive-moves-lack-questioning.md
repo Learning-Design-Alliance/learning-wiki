@@ -69,3 +69,4 @@ Qualitative comparison of AI-agent and human discursive moves. The authors find 
 - [The adaptive virtual patient produces a steadily climbing disclosure trajectory across a session while a prompt-only baseline with the same LLM and persona stays flat](avp-climbing-disclosure-vs-static-flat.md)
 - [Ignoring the emotion strategy neither recognizes nor explores the displayed emotion, closing the discursive space](ignoring-emotion-closes-discursive-space.md)
 - [In blind A/B comparison, raters prefer personalised (Adaptive) questions over non-personalised (Random-topic) questions about 68–69% of the time in Biology and Chemistry](collearn-ab-personalised-question-preference.md)
+- [ChatGPT served as an emotional support agent during practicum, offering a nonjudgmental, constantly available interlocutor](chatgpt-emotional-support-agent-practicum.md) — related

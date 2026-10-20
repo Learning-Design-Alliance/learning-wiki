@@ -46,3 +46,4 @@ Controlled experiment with French children reading pseudowords, half presented w
 
 - [The whole-word presentation effect is independent of target reading accuracy and speed during learning.](whole-word-effect-independent-of-decoding-accuracy-speed.md)
 - [The whole-word presentation effect on orthographic learning is significant and stable from third to fifth grade.](whole-word-effect-stable-grades-three-to-five.md)
+- [Systematic phonics outperforms unsystematic or no-phonics instruction on children's reading overall, but its advantage over whole-word teaching on novel words is untested in children and contested](phonics-instruction-outperforms-whole-word-for-generalization.md) — related

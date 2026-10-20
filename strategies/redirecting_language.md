@@ -12,7 +12,7 @@ generated:
 # Redirecting Language
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (1 for, 1 mixed) · 6 studies (2 causal, 2 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Redirecting language is a classroom management tool that uses clear, non-negotiable instructions to redirect student behavior. It involves firm words in the form of statements or commands that are clear and respectful. The strategy emphasizes what students *should* do rather than what they shouldn't, using "do" statements instead of "don't" statements. Redirecting language is direct and specific, names the desired behavior, is kept brief, and uses statements rather than questions to maintain a firm, non-negotiable tone.
@@ -28,7 +28,7 @@ Redirecting language works because it removes ambiguity about the expected behav
 - Consistency: the same behavior must draw the same redirection, or the language loses its non-negotiable quality
 
 #### Constraints
-- Public redirection can threaten students' sense of face and provoke reactance, especially with adolescents; private or quiet redirection preserves [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) and relationships [~M]
+- Public redirection can threaten students' sense of face and provoke reactance, especially with adolescents; private or quiet redirection preserves [autonomy](../claims/autonomy-supports-intrinsic-motivation.md) [~W] and relationships
 - Ineffective when expectations were never explicitly taught — students cannot comply with a behavior they have not been shown ([Demonstration](../elements/demonstration.md) and [Modeling](../elements/modeling.md) of expectations precede redirection)
 - Insufficient as a standalone response for students with severe or chronic behavioral needs, who require function-based, intensive interventions [~M]
 - Overuse dilutes its force; if everything prompts a command, students habituate and the language stops functioning as a signal

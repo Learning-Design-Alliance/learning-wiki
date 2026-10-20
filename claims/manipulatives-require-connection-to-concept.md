@@ -129,3 +129,9 @@ Open questions: how much guidance is optimal (over-guidance may trigger its own 
 - [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — related
 - [Concreteness, imagery, and verbal associative processes play major roles across multiple educational domains](concreteness-imagery-associative-roles-educational-domains.md) — a broader claim this one bears on
 - [Iconic visual scaffolds in chemistry visualizations helped low-prior-knowledge high-school students but not higher-prior-knowledge ones, with the effect eliminated for younger middle-school children](expertise-reversal-iconic-scaffolds-development.md) — related
+- [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — related
+- [The effectiveness of concrete representations may depend more on how relatable they are than on their real-world existence](concrete-representations-effectiveness-relatability.md) — related
+- [A single representation can be abstract along one dimension and concrete along another, and concrete for one learner but abstract for another](representation-abstract-one-dimension-concrete-another.md) — related
+- [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
+- [The authors conclude that guidance combined with the possibility to manipulate objects supports acquisition of knowledge and skills in a domain](guidance-plus-manipulation-support-acquisition.md) — related
+- [Teachers actively highlight specific in-game actions as examples of tactical decision-making, including distinguishing sound tactical reasoning from negative outcomes](teachers-highlight-tactical-decisions-debriefing.md) — a narrower finding that bears on this claim

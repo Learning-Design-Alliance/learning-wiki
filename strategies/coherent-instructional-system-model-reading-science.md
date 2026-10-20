@@ -49,7 +49,7 @@ Based on a case study from a U.S. school district, NWEA offers a practical model
 ## Related Strategies
 
 - [A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms](coherent-instructional-system-model-for-leaders.md)
-- [Build a coherent instructional system across classrooms, examined through a district case study](coherent-instructional-system-reading-science.md)
+- [Build a coherent instructional system across classrooms, examined through a district case study](../theories/coherent-instructional-system-reading-science.md)
 
 ## Examples
 -
@@ -86,7 +86,7 @@ A research brief and technical appendix examine "the practices and conditions of
 
 - [Adapt a practical model of a coherent instructional system for reading and science improvement](coherent-instructional-system-model-reading-science.md)
 - [A practical model of a coherent instructional system that school leaders can adapt to strengthen instruction across classrooms](coherent-instructional-system-model-for-leaders.md)
-- [Build a coherent instructional system across classrooms, examined through a district case study](coherent-instructional-system-reading-science.md)
+- [Build a coherent instructional system across classrooms, examined through a district case study](../theories/coherent-instructional-system-reading-science.md)
 
 ## Examples
 -

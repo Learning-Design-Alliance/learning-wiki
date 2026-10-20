@@ -25,7 +25,7 @@ A 23-item Likert-scale questionnaire revised by Sadighi et al. to measure and ra
 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
-- **Revised 23-item Foreign Language Classroom Anxiety Scale (FLCAS) questionnaire**: The study's instrument is a revised version of Horwitz, Horwitz, and Cope's (1986) Foreign Language Classroom Anxiety Scale, described as a questionnaire that "had 23 items which included most of the possible causes of foreign language speaking anxiety." Students selected options on a Likert scale from strongly disagree to strongly agree, and response frequencies were counted to rank the main causes. The article reviews prior administrations reporting Cronbach's alpha values of 0.93 (Horwitz et al., 1986), 0.80 (Aida, 1994), and 0.84 (Hajizadeh, 2013, with 38 Iranian learners). (Sadighi et al. (2017))
+- **Revised 23-item Foreign Language Classroom Anxiety Scale (FLCAS) questionnaire**: The study's instrument is a revised version of Horwitz, Horwitz, and Cope's (1986) Foreign Language Classroom Anxiety Scale, described as a questionnaire that "had 23 items which included most of the possible causes of foreign language speaking anxiety." Students selected options on a Likert scale from strongly disagree to strongly agree, and response frequencies were counted to rank the main causes. The article reviews prior administrations reporting Cronbach's alpha values of 0.93 ([Horwitz et al., 1986](https://doi.org/10.1111/j.1540-4781.1986.tb05256.x)), 0.80 (Aida, 1994), and 0.84 (Hajizadeh, 2013, with 38 Iranian learners). (Sadighi et al. (2017))
 
 ### Claims
 

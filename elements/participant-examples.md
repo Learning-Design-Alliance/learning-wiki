@@ -18,7 +18,7 @@ sources:
 # Participant Examples
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 2 studies (2 qualitative), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (2 qualitative), `q1`–`q2` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A participant example (Wortham, 2006) occurs when someone analyzing a case or example also becomes a character in it — positioning their own identity as analogous to, or continuous with, the case's subject, and using the case's reasoning to make an argument about their own category membership. This differs from a standard academic example, in which a distant third party is analyzed at arm's length. When a learner treats a historical or legal case as personally self-referential ("if this person counts, then so do I"), the academic content becomes a vehicle for identity reasoning rather than being separate from it. Repeated use of the same case as a participant example across multiple learners can "thicken" a shared identity category over time.
@@ -52,7 +52,7 @@ A participant example (Wortham, 2006) occurs when someone analyzing a case or ex
 - [Case Study](case-study.md)
 
 ## Examples
-- [Participant examples support identity reconstruction through academic content](../claims/participant-examples-support-identity-reconstruction-through-academic-content.md) — a secular Jewish-Israeli student used a Supreme Court case about a Christian convert's Jewish national status to argue for his own status as a secular Jew
+- [Participant examples support identity reconstruction through academic content](../claims/participant-examples-support-identity-reconstruction-through-academic-content.md) [+W] — a secular Jewish-Israeli student used a Supreme Court case about a Christian convert's Jewish national status to argue for his own status as a secular Jew
 
 ## Key Sources
 - Wortham, S. (2006). *Learning Identity: The Joint Emergence of Social Identification and Academic Learning*. Cambridge University Press.

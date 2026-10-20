@@ -47,3 +47,5 @@ Regression with interaction terms on 57,188 observations. "The negative interact
 
 - [Prior knowledge moderates the effectiveness of erroneous and contrasting erroneous examples, with low-prior-knowledge learners benefiting in several studies but findings contradictory](prior-knowledge-moderates-errex-effectiveness.md)
 - [LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most](la-positive-effect-high-performers-benefit-most-k12-math.md)
+- [Area-of-law-specific and general exam practice contribute about equally and independently to performance development](area-specific-and-general-practice-contribute-equally.md) — related
+- [Performance increases monotonically with the number of practice exams following a slightly concave learning curve without considerable kinks](performance-increases-monotonically-with-practice-exams-concave-curve.md) — related

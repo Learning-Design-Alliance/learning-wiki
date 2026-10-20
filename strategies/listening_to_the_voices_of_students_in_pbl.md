@@ -12,7 +12,7 @@ generated:
 # Listening to the Voices of Students in PBL
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies (5 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 10 studies (5 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Listening to the voices of students means structuring project-based learning so that students have genuine authorship — they pose questions, tell their own stories, make consequential decisions about project direction, and see their input visibly shape the work. It is carried out through elicitation (structured sharing and discussion), responsiveness (instructor acts on what students say), and shared leadership (students hold roles with real decision rights). This contrasts with traditional transmission models in which students are positioned as recipients rather than co-designers of learning.
@@ -30,7 +30,7 @@ Student voice works as a motivational lever: autonomy and perceived ownership su
 
 #### Constraints
 - Tokenism backfires: soliciting voice without acting on it reduces trust and future participation [-M]
-- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) may initially avoid voice opportunities; scaffolding and low-stakes sharing formats are needed before high-stakes authorship
+- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [~W] may initially avoid voice opportunities; scaffolding and low-stakes sharing formats are needed before high-stakes authorship
 - Unstructured voice can drift into unfocused discussion; moderation and clear project constraints keep autonomy productive [~M]
 - Requires a shift in instructor role from content deliverer to facilitator, which can be difficult in accountability-driven settings
 

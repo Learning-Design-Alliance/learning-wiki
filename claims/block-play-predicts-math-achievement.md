@@ -91,3 +91,6 @@ An intact group of 37 four-year-olds at a play-oriented preschool was rated on b
 - [Targeted instruction in number and operations improves young children's early math achievement, with a moderate level of supporting evidence](number-operations-instruction-improves-early-math-achievement.md) — related
 - [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](tosa-age-3-predicts-age-4-math.md) — related
 - [Object-oriented play peaks between approximately 18 months and 3.5 years of age](oop-peak-18-months-to-3-5-years.md) — related
+- [Kindergarten spatial orientation performance longitudinally predicts arithmetic performance four months later](spatial-orientation-predicts-arithmetic-kindergarten.md) — related
+- [Effects of two-dimensional mental rotation training on children's mathematics performance are mixed, with significant correlations between rotation and mathematics measures](2d-rotation-training-math-effects-mixed.md) — related
+- [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — related

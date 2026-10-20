@@ -12,7 +12,7 @@ generated:
 # Growth Mindset Interventions
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
 
 ## Description
 Growth mindset interventions teach learners that intellectual abilities are not fixed but can be developed through effort, effective strategies, and help from others. They are typically delivered as brief (30–60 minute), structured sessions using neuroscience evidence, stories of people who improved, and writing exercises in which learners advocate the malleability view to a struggling peer. Critically, effective versions pair the belief message with concrete strategy guidance and reduce environmental cues (e.g., harsh public ranking) that signal ability is fixed.
@@ -37,12 +37,12 @@ Mindset interventions work by changing how learners interpret difficulty: setbac
 #### Implementation Variability
 - **Core curriculum:** the ~2-session online intervention used in the National Study of Learning Mindsets, with reading, brain science, and peer-advocacy writing
 - **Embedded framing:** instructors weaving malleability language into syllabi, error-handling routines, and [Check-Ins](../elements/check-in.md) rather than a standalone session
-- **Combined belonging + mindset:** pairing with [belonging uncertainty interventions](../claims/belonging-interventions-improve-outcomes.md), which share the same "adversity is normal and temporary" attribution logic [+M]
+- **Combined belonging + mindset:** pairing with [belonging uncertainty interventions](../claims/belonging-interventions-improve-outcomes.md) [+M], which share the same "adversity is normal and temporary" attribution logic
 
 ### Target Learners
 - Lower-achieving or at-risk students, who show the largest grade gains [Lower-achieving students benefited most in the national experiment.](https://doi.org/10.1038/s41586-019-1466-y) [+S]
 - Students transitioning into more challenging environments (middle school, first-year college) where setback interpretation matters most
-- Students experiencing stereotype threat or [belonging uncertainty](../claims/belonging-interventions-improve-outcomes.md), for whom attributing difficulty to normal learning processes is protective [+M]
+- Students experiencing stereotype threat or [belonging uncertainty](../claims/belonging-interventions-improve-outcomes.md) [+M], for whom attributing difficulty to normal learning processes is protective
 - Little benefit for students who already hold growth beliefs or perform well [~S]
 
 ### Target Learning Goals

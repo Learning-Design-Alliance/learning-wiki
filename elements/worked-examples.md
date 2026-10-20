@@ -86,7 +86,7 @@ Worked examples are the element in which learners study complete or partial solu
 ### When and how should the examples be withdrawn?
 - **Default:** fade steps out of the example: full worked examples, then completion problems, then independent problems. In Renkl et al. (2002, n = 71), removing worked steps gradually gave better learning and less mental effort than full problem solving or a block of examples followed by a block of problems — [Fading support promotes the transfer of responsibility from instructor to learner.](../claims/fading-support-promotes-transfer-of-responsibility.md) [+S]
 - **Changes when:** learners already hold the schema → reduce or drop full examples, since guidance that helps novices loses its advantage and in several paradigms reverses once learners have domain schemas — [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~S], [Expertise Reversal Guidance Hurts Experts](../claims/expertise-reversal-effect.md) [~S]
-- **Tested with:** university and secondary students in well-structured domains; electrical trainees reading circuit diagrams (Kalyuga et al. 1998).
+- **Tested with:** university and secondary students in well-structured domains; electrical trainees reading circuit diagrams ([Kalyuga et al. 1998](https://doi.org/10.1518/001872098779480587)).
 - **Not settled:** how fast to fade, and how to tell that a learner has passed the point where examples stop helping. The expertise-reversal pages rest on reviews and abstracts and report no effect sizes, and they note that expertise is specific to each topic, so a learner may need examples again in the next one.
 
 ### Full worked examples or completion problems?
@@ -98,7 +98,7 @@ Worked examples are the element in which learners study complete or partial solu
 ### Should learners be prompted to explain the steps to themselves?
 - **Default:** yes. Across 69 effect sizes from 64 reports, self-explanation prompts improved learning by g = .55, across task types, subjects and levels of education — [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](../claims/self-explanation-improves-conceptual-understanding.md) [+S]
 - **Changes when:** the outcome is classroom or delayed performance in mathematics → the benefit is much less established than for immediate, lab-style tests, and it was stronger when learners were scaffolded toward high-quality explanations — same claim [~S]
-- **Tested with:** meta-analyses spanning school and university levels; mathematics for the Rittle-Johnson et al. synthesis; eighth graders reading a science text (Chi et al. 1994).
+- **Tested with:** meta-analyses spanning school and university levels; mathematics for the Rittle-Johnson et al. synthesis; eighth graders reading a science text ([Chi et al. 1994](https://doi.org/10.1207/s15516709cog1803_3)).
 - **Not settled:** the evidence is for self-explanation in general, not with worked examples specifically, as the claim page says; which prompt format works best is not settled there.
 
 ### Should the examples include errors, or be compared side by side?

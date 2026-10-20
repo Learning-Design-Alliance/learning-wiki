@@ -12,7 +12,7 @@ generated:
 # Listening and reading for specific information
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 10 studies (3 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (4 for) · 10 studies (3 causal, 3 review, 2 quant-synthesis, 1 associational, 1 theoretical), `q1`–`q4` · 1 of 10 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy directs learners to extract particular details — names, dates, figures, key phrases, or specific ideas — from spoken or written input, rather than attempting exhaustive comprehension. Learners receive a purpose or task before engaging with the material, listen or read selectively, monitor their comprehension, and infer missing meaning from linguistic and contextual clues. It is a core comprehension strategy in second-language pedagogy and in academic study skills, where learners must process lectures, reports, and examinations efficiently.
@@ -55,7 +55,7 @@ Selective attention to a stated purpose reduces the processing burden of full co
 2. Present the purpose and the extraction task (a table, questions, or graphic organizer) before exposure ([Advance Organizers](../elements/advance-organizers.md))
 3. Model the strategy on a short excerpt, verbalizing how to locate and verify target information ([Think-Aloud](../elements/think-aloud.md))
 4. Have learners engage with the full material, extracting the targeted information ([Assigned Readings](../elements/assigned-readings.md) or [Lectures](../elements/lectures.md))
-5. Debrief: compare answers, discuss where information occurred and how it was identified, and have learners explain their reasoning ([Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md)) [+M]
+5. Debrief: compare answers, discuss where information occurred and how it was identified, and have learners explain their reasoning ([Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M])
 6. Repeat with progressively longer, faster, or less scaffolded material
 
 ## Related Strategies

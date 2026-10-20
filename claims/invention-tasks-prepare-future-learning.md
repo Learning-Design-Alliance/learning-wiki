@@ -66,3 +66,4 @@ Open questions include how much scaffolding invention tasks should provide, how 
 - [Inventing-phase failure was unproductive: invented solutions did not correlate with transfer, but suboptimal inventions related to lower interest and learning time](inventing-failure-unproductive-no-transfer-correlation.md) — related
 - [Pre-service teachers preparing with a worked example outperform inventing peers on transfer of learning-strategy assessment skills](worked-example-preparation-higher-transfer-than-inventing.md) — related
 - [Metacognitive scaffolding during guided invention improved conceptual features, dataset ranking accuracy, and learning-strategy behaviors over unguided invention](metacognitive-scaffolding-guided-invention-gains.md) — related
+- [Struggling with a challenging task before receiving instruction prepares learners to benefit from explicit connections](struggle-before-instruction-prepares-for-learning.md) — possibly the same claim (merge candidate)

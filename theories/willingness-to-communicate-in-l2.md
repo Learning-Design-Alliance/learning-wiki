@@ -55,9 +55,9 @@ The articles call the model heuristic. They report that different studies find d
 
 ## Related Theories
 
-- [MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2](macintyre-heuristic-pyramid-model-l2-wtc.md) — source-framed variant (Altiner, 2018)
+- [MacIntyre et al.'s (1998) heuristic pyramid model of willingness to communicate in L2](macintyre-heuristic-pyramid-model-l2-wtc.md) — source-framed variant ([Altiner, 2018](https://doi.org/10.11114/jets.v6i11a.3815))
 - [MacIntyre et al.'s situational model of willingness to communicate in L2](macintyre-situational-wtc-model.md) — source-framed variant (Khazaei et al., 2012)
-- [MacIntyre et al.'s willingness-to-communicate (WTC) model as a framework linking pronunciation and affective variables](wtc-model-l2-pronunciation-framework.md) — source-framed variant (Lepore, 2014)
+- [MacIntyre et al.'s willingness-to-communicate (WTC) model as a framework linking pronunciation and affective variables](wtc-model-l2-pronunciation-framework.md) — source-framed variant ([Lepore, 2014](http://www.voicethread.com))
 - [Foreign Language Anxiety](foreign-language-anxiety.md) — anxiety is one of the model's components of L2 self-confidence
 - [L2 Motivational Self System](l2-motivational-self-system.md)
 - [Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning](sdt-intrinsic-extrinsic-orientations-l2-motivation.md)

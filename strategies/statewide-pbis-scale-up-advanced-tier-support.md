@@ -41,7 +41,7 @@ Based on finding that only a minority of trained schools implemented all three t
 
 ## Related Strategies
 
-- [Positive Behavioral Interventions and Supports (PBIS)](positive-behavioral-interventions-and-supports-pbis.md)
+- [Positive Behavioral Interventions and Supports (PBIS)](../products/positive-behavioral-interventions-and-supports-pbis.md)
 - [Positive Behavior Interventions And Supports](positive-behavior-interventions-and-supports.md)
 - [Multi-Tiered System of Supports (MTSS)](multi-tiered-system-of-supports-mtss.md)
 - [Positive Behavior Support](positive-behavior-support.md)

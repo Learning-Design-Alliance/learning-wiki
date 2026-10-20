@@ -57,8 +57,10 @@ Race talk triggers identity threat and emotional arousal that can shut down prod
 5. Close with reflection on how the agreements held, and revise them as the group's capacity grows.
 
 ## Related Strategies
+
 - [Active Listening](active-listening.md) — the individual skill the group agreements are designed to protect and require
 - [Address Biases in the Use of Language and Symbols](address_biases_in_the_use_of_language_and_symbols.md) — a content-level complement to the procedural norms
+- [Integrate race throughout educational psychology courses rather than treating diversity as an afterthought](integrate-race-throughout-edpsych-courses.md)
 
 ## Examples
 - **Courageous Conversations About Race (Singleton)** — a widely used professional development framework whose four agreements and six conditions structure race dialogue in school districts across the US ([Pacific Educational Group](https://www.pacificeducationalgroup.com)).

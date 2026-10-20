@@ -120,3 +120,7 @@ A systematic review of 35 studies of approaches to support self-regulated learni
 - [Self-reported metacognitive regulation of reading contributes to expository digital text comprehension in a home e-learning environment](metacognitive-regulation-digital-text-comprehension-elearning.md) — related
 - [Learning journal writing improves learning outcomes, with support via prompts, worked examples, and fading needed to secure strategy use](journal-writing-improves-outcomes-with-support.md) — related
 - [Teaching between study phases contributes to comprehension more than teaching after the study phase](teaching-timing-between-study-phases.md) — related
+- [Higher compliance with MetaTutor's review-notes prompt is associated with larger proportional learning gains](review-notes-compliance-predicts-learning-gains.md) — a narrower finding that bears on this claim
+- [Higher compliance with MetaTutor's revise-summary prompt is associated with larger proportional learning gains](revise-summary-compliance-predicts-learning-gains.md) — a narrower finding that bears on this claim
+- [Short-term prompting in weekly learning journals increases university students' self-reported cognitive strategy use over time](short-term-journal-prompts-increase-cognitive-strategy-use.md) — a narrower finding that bears on this claim
+- [Higher compliance with MetaTutor's suggest-subgoal prompt is associated with larger proportional learning gains](suggest-subgoal-compliance-predicts-learning-gains.md) — a narrower finding that bears on this claim

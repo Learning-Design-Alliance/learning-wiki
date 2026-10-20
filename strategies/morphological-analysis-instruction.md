@@ -13,7 +13,7 @@ generated:
 # Morphological Analysis Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (2 for, 1 mixed, 1 against) · 10 studies (4 quant-synthesis, 3 causal, 2 review, 1 theoretical), `q1`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Morphological analysis instruction teaches learners to decompose words into morphemes — the smallest units of meaning, such as roots, prefixes, and suffixes — and to use that structure to pronounce, spell, and infer the meanings of unfamiliar words. Instruction typically combines explicit teaching of high-frequency morphemes (e.g., *-tion*, *re-*, *struct*) with guided practice analyzing novel words, often framed around the generative logic of the language ("struct" → *construct*, *destruction*, *restructure*).
@@ -53,7 +53,7 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 - Overemphasis on rules with many exceptions (e.g., *y* → *i* before –ed) can produce overgeneralization errors; [Non-Examples](../elements/non-examples.md) and contrasting cases reduce this [Comparing contrasting cases improves learning.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]
 - Transparent, consistent morphemes yield the largest gains; low-frequency or opaque morphemes produce weak or null effects [~M]
 - Instruction limited to rote memorization of affix definitions without word-generation practice shows markedly smaller effects [~S]
-- For very young learners still consolidating phonemic decoding, heavy morphological emphasis can compete with foundational [Phonics](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) work [~M] — sequencing matters
+- For very young learners still consolidating phonemic decoding, heavy morphological emphasis can compete with foundational [Phonics](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [~M] work — sequencing matters
 - Effects on reading comprehension are indirect and smaller than effects on word-level outcomes; morphology alone does not substitute for comprehension strategy instruction [-M]
 
 #### Implementation Variability
@@ -83,7 +83,7 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 - Less effective as a starting point for beginners still consolidating phonemic decoding [~S]
 - Struggling spellers and students with dyslexia, who benefit from meaning-based spelling strategies that supplement phonological decoding [~S]
 - English learners, for whom morphological awareness transfers from many first languages [~M]
-- Struggling readers and students with dyslexia, who benefit from a structural, meaning-based supplement to phonics [Goodwin & Ahn, 2013] [+M]
+- Struggling readers and students with dyslexia, who benefit from a structural, meaning-based supplement to phonics ([Goodwin & Ahn, 2013](https://doi.org/10.1080/10888438.2012.689791)) [+M]
 - Upper-elementary and middle-grade learners encountering Latinate academic vocabulary, where morphological analysis has the highest payoff [Bowers, Kirby, & Deacon, 2010] [+M]
 - Less effective as a stand-alone intervention for students who cannot yet decode single-syllable words [~M]
 

@@ -168,6 +168,7 @@ Choosing a method, writing a correct equation, solving correctly, explaining why
 - Comparing two or three valid methods for the same problem before independent practice
 - Worked examples annotated with why a strategy was chosen, not just how it was executed
 - Problem-solving notebooks where learners track method choice and reflect on effectiveness
+- [Teach fewer mathematics problems more deeply rather than covering more problems broadly](../strategies/teach-fewer-problems-deeply.md)
 
 ## Key Sources
 - Durkin, K., Star, J. R., & Rittle-Johnson, B. (2017). Using comparison of multiple strategies in the mathematics classroom. *ZDM, 49*(4), 585-597. [doi:10.1007/s11858-017-0853-9](https://doi.org/10.1007/s11858-017-0853-9)

@@ -47,3 +47,4 @@ Secondary analysis restricted to women in the same quartile of daily racism in 1
 - [Higher daily racism exposure is associated with poorer subjective cognitive function in African American women, with a graded dose-response relationship](daily-racism-associated-poorer-subjective-cognitive-function.md) — related
 - [Depression and insomnia mediate a substantial proportion of the association between racism exposure and poor subjective cognitive function](depression-insomnia-mediate-racism-cognition-association.md) — related
 - [Institutional racism exposure is associated with poorer subjective cognitive function in African American women in a graded manner](institutional-racism-associated-poorer-subjective-cognitive-function.md) — related
+- [Both memory-specific and non-memory cognitive questions show similar associations with racism exposure](memory-and-non-memory-questions-similar-associations.md) — related

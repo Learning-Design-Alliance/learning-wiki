@@ -51,3 +51,4 @@ The review's synthesis of qualitative studies (e.g., Faircloth 2009 with ethnica
 - [Qualitative research shows resource fit—safety and financial resources—shapes marginalized students' sense of belonging](resource-fit-qualitative-belonging.md) — a narrower finding that bears on this claim
 - [Daily diary evidence links lower daily self-concept fit to stronger same-day mental burnout and concerns about academic abilities](daily-self-concept-fit-burnout-diary.md) — related
 - [Students who remain in STEM majors report greater sense of belonging than leavers, and lack of science identity distinguishes leavers](belonging-associated-with-persistence-science-identity-differentiates-leavers.md) — related
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related

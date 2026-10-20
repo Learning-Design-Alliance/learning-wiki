@@ -13,16 +13,16 @@ generated:
 # Executive Function
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 80 claims (48 show a difference, 13 mixed, 17 no difference, 2 unmarked) · 45 studies (21 associational, 11 causal, 7 review, 4 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 12 of 45 report an effect size · 78 claims rest on one study
+> **Evidence** · 82 claims (51 show a difference, 13 mixed, 18 no difference) · 47 studies (21 associational, 11 causal, 8 review, 5 quant-synthesis, 1 design, 1 theoretical), `q1`–`q4` · 12 of 47 report an effect size · 80 claims rest on one study
 
 ## Description
 Executive function covers inhibitory control, updating working memory, and shifting between tasks or rules. It is measured by performance tasks (such as the Stroop, Flanker and dimensional card-sort tasks) and by teacher or parent ratings. It develops through childhood and adolescence, predicts school readiness and achievement, moderates designs that load self-direction on learners, and is the target of training programmes, whose effects rarely transfer beyond the trained tasks. It underlies [self-regulation](self-regulation.md) and [attention](attention.md) and overlaps with [working memory](working-memory.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Executive-function composites **r = .40** in preschool and **.36** in elementary school; cognitive flexibility **.35**, more closely related in younger children; inhibition **.29–.30**, shifting **.28–.32**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md)
+- Executive-function composites **r = .40** in preschool and **.36** in elementary school; cognitive flexibility **.35**, more closely related in younger children; inhibition **.29–.30**, shifting **.28–.32**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 
@@ -117,6 +117,8 @@ Executive function covers inhibitory control, updating working memory, and shift
 - [Social functioning fully mediates the relation between early effortful control and later academic achievement](../claims/social-functioning-fully-mediate-ec-achievement.md) [+M] — learners who differ on it differ in outcomes
 - [The mediated EC-achievement model is not moderated by children's sex, age, or SES](../claims/no-moderation-sex-age-ses.md) [+W] — learners who differ on it differ in outcomes
 - [Transfer from computer-based working-memory and reasoning training in children is narrow: gains stay within the trained domain](../claims/narrow-transfer-computerized-ef-training.md) [+M] — instruction changes it
+- [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](../claims/active-breaks-no-significant-effect-inhibitory-control.md) [-W] — instruction changes it
+- [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](../claims/ef-academic-performance-small-to-medium-meta-analytic.md) [+W] — learners who differ on it differ in outcomes
 
 ## The evidence by question
 - *Does a child's executive function predict achievement, and through what?* [Children's executive function at the beginning of pre-kindergarten predicts growth in mathematics achievement across the pre-kindergarten year](../claims/ef-predicts-preschool-math-growth.md) [+M]

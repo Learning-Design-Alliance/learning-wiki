@@ -13,14 +13,14 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (13 for, 12 mixed) · 29 studies (7 review, 6 causal, 6 associational, 5 quant-synthesis, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 10 of 29 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 30 studies (7 review, 6 causal, 6 associational, 5 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 10 of 30 report an effect size · 21 claims rest on one study
 
 ## Description
-Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) [Gross, 1998]. In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
+Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)). In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
 
 ## Design Implications
 
-Emotions are not noise around learning — they shape attention, working memory capacity, and persistence. Anxiety and stress consume working memory resources that would otherwise support reasoning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M], while adaptive reappraisal of arousal as functional can improve performance under pressure [Jamieson et al., 2013] [+M]. Designers should treat regulation as a learnable component of [Self-Regulated Learning](../theories/self-regulated-learning.md), not a fixed learner trait.
+Emotions are not noise around learning — they shape attention, working memory capacity, and persistence. Anxiety and stress consume working memory resources that would otherwise support reasoning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [~M], while adaptive reappraisal of arousal as functional can improve performance under pressure ([Jamieson et al., 2013](https://doi.org/10.1177/0963721412461500)) [+M]. Designers should treat regulation as a learnable component of [Self-Regulated Learning](../theories/self-regulated-learning.md), not a fixed learner trait.
 
 ### Context
 #### Requirements
@@ -30,13 +30,13 @@ Emotions are not noise around learning — they shape attention, working memory 
 - Assessment conditions that allow strategy use (e.g., brief pre-test writing) without becoming a burden
 
 #### Constraints
-- Suppression-based regulation (inhibiting expression) consumes cognitive resources and impairs memory for the learning episode [Gross, 1998] [-M] — instructing learners to hide or ignore emotions backfires
+- Suppression-based regulation (inhibiting expression) consumes cognitive resources and impairs memory for the learning episode ([Gross, 1998](https://doi.org/10.1037/1089-2680.2.3.271)) [-M] — instructing learners to hide or ignore emotions backfires
 - Regulation supports can signal low expectations or stigmatize learners if framed as remediation rather than universal practice
 - Excessive comfort or task simplification removes desirable difficulty; some challenge is necessary for learning, so regulation support should enable engagement with difficulty, not avoidance of it [~M]
 - One-size-fits-all interventions (e.g., mandatory sharing of feelings) can increase discomfort for some learners
 
 ### Target Learners
-- Test-anxious learners, who benefit most from reappraisal and expressive-writing interventions [Ramirez & Beilock, 2011] [+S]
+- Test-anxious learners, who benefit most from reappraisal and expressive-writing interventions ([Ramirez & Beilock, 2011](https://doi.org/10.1126/science.1199427)) [+S]
 - Novices, whose frequent errors make frustration a recurring barrier to persistence
 - Learners transitioning into demanding environments (first-year students, high-stakes courses), where belonging uncertainty amplifies threat appraisals [Belonging interventions improve outcomes.](../claims/belonging-interventions-improve-outcomes.md) [+S]
 
@@ -74,6 +74,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](../claims/inverted-u-arousal-executive-function.md) [~W]
 - [The S-Reg tool prompting groups' awareness of motivational, emotional, and cognitive conditions increased co-regulation, especially early in collaboration](../claims/s-reg-tool-increased-co-regulation.md) [+W]
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](../claims/meditation-small-wellbeing-gains-negative-outcomes.md) [+W]
+- [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](../claims/color-blind-ideology-emotion-regulation-difficulties.md) [~W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]
@@ -92,9 +93,9 @@ Emotions are not noise around learning — they shape attention, working memory 
 
 **[Achievable Micro-Goals](../strategies/achievable_micro-goals.md)** — Breaking tasks into small, attainable steps regulates frustration and overwhelm by making progress visible and reducing the gap between current state and goal.
 
-**Expressive writing before exams (Ramirez & Beilock, 2011)** — A brief writing exercise about test worries, administered immediately before a high-stakes exam, improved performance among anxious students by offloading intrusive thoughts.
+**Expressive writing before exams ([Ramirez & Beilock, 2011](https://doi.org/10.1126/science.1199427))** — A brief writing exercise about test worries, administered immediately before a high-stakes exam, improved performance among anxious students by offloading intrusive thoughts.
 
-**Reappraisal framing (Jamieson et al., 2013)** — Teaching learners that physiological arousal during stress is the body preparing to perform, not a sign of failure, improved outcomes on academic and social-evaluative tasks.
+**Reappraisal framing ([Jamieson et al., 2013](https://doi.org/10.1177/0963721412461500))** — Teaching learners that physiological arousal during stress is the body preparing to perform, not a sign of failure, improved outcomes on academic and social-evaluative tasks.
 - [Attentional training interventions may improve public speaking performance for speech-anxious individuals](../strategies/attentional-training-public-speaking.md)
 - [Use expressive writing before math situations to offload worry and protect working memory resources](../strategies/expressive-writing-before-math.md)
 

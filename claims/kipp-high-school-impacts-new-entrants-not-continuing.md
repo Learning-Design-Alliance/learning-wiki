@@ -69,3 +69,5 @@ The same key-findings section reports that for continuing KIPP students, "impact
 - [KIPP charter schools have positive effects on English language arts achievement for middle and high school students](kipp-positive-ela-achievement.md) — related
 - [KIPP charter schools have positive effects on mathematics achievement for middle and high school students](kipp-positive-math-achievement.md) — related
 - [The findings come from Mathematica's multiyear study of KIPP middle schools conducted for Arnold Ventures](kipp-multiyear-study-mathematica-arnold.md) — related
+- [KIPP middle schools have positive, statistically significant, and educationally meaningful impacts on student achievement in math, reading, science, and social studies](kipp-middle-school-achievement-impacts-four-subjects.md) — related
+- [In the vast majority of 22 KIPP middle schools, impacts on students' state assessment scores in math and reading are positive, statistically significant, and educationally substantial](kipp-middle-schools-positive-significant-math-reading-impacts.md) — related

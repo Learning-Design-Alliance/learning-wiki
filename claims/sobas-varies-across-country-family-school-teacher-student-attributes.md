@@ -43,4 +43,7 @@ The study's overall question was tested with multilevel analyses of survey and t
 
 
 ## Related Claims
--
+- [Family, schoolmate, teacher, and student characteristics are linked to SOBAS and account for most of its variance](multi-level-characteristics-linked-sobas.md) — a narrower finding that bears on this claim
+- [Students in more egalitarian cultures often have higher sense of belonging at school than students in more hierarchical cultures](egalitarian-cultures-higher-sobas.md) — a narrower finding that bears on this claim
+- [The teacher-student relationship has the strongest link with students' sense of belonging at school and mediates the link between egalitarianism and SOBAS](teacher-student-relationship-strongest-sobas-link.md) — a narrower finding that bears on this claim
+- [Collectivism is not significantly linked to students' sense of belonging at school](collectivism-not-linked-sobas.md) — a narrower finding that bears on this claim

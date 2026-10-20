@@ -104,7 +104,7 @@ Daylighting is a physical-design strategy that operates on attention, circadian 
 - **Sleegers et al. (2013)** tested a dynamically lit Dutch classroom (adjustable color temperature and intensity) and found improved concentration compared with a standard-lit control classroom.
 - Scandinavian school studies (e.g., **Küller & Lindsten, 1992**) tracked students across a year and found better mood, behavior, and dental health in classrooms with more daylight and larger windows.
 - **Heschong Mahone Group (1999) Capistrano district study** — analysis of over 21,000 student records found students in classrooms with the most daylighting progressed ~20% faster in math and ~26% faster in reading over a year than those in the least-daylit rooms ([report](https://www.energy.ca.gov/2003publications/CEC-500-2003-082/CEC-500-2003-082.PDF)) [+W] — influential but correlational.
-- **HEAD Study (Barrett et al., 2015)** — 153 classrooms in the UK; natural light was one of seven design factors explaining differences in year-on-year academic progress ([doi:10.1016/j.buildenv.2015.09.002](https://doi.org/10.1016/j.buildenv.2015.09.002)).
+- **HEAD Study ([Barrett et al., 2015](https://doi.org/10.1016/j.buildenv.2015.02.013))** — 153 classrooms in the UK; natural light was one of seven design factors explaining differences in year-on-year academic progress ([doi:10.1016/j.buildenv.2015.09.002](https://doi.org/10.1016/j.buildenv.2015.09.002)).
 - **Low-cost adaptation** — a teacher in an older building repositions desks perpendicular to windows, keeps blinds angled to bounce light off ceilings, and adds a daylight-balanced LED lamp for overcast days.
 
 ## Key Sources

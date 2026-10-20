@@ -43,4 +43,6 @@ Fisher's exact tests on counts of students with positive versus negative score c
 
 
 ## Related Claims
--
+- [Playing commercial video games for eight weeks improved self-reported communication skill more than control conditions in a randomised trial of undergraduates](video-games-improve-communication-skill-rct.md) — related
+- [Playing commercial video games for eight weeks improved self-reported resourcefulness more than control conditions in a randomised trial of undergraduates](video-games-improve-resourcefulness-rct.md) — related
+- [An eight-week commercial video game intervention produced significant gains on all three measured graduate skills relative to control, totalling about 14 hours of play](game-intervention-gains-all-three-graduate-skills.md) — reports the opposite

@@ -47,3 +47,4 @@ Logistic regression in the MLSELD preschool sample found children were "1.30 tim
 - [Child gender predicts self-regulation trajectory membership, with girls more likely to be earlier developers](gender-predicts-self-regulation-trajectory.md) — related
 - [About 20% of children (later developers) make few self-regulation gains in preschool and lag peers by six months to a year and a half](later-developers-few-preschool-gains.md) — related
 - [Children follow three distinct behavioral self-regulation trajectories (early, intermediate, and later developers) replicated across three samples](three-self-regulation-trajectories-early-childhood.md) — related
+- [Greater maternal emotional support during problem-solving predicts greater child cognitive flexibility one year later, in both the preschool-to-kindergarten and kindergarten-to-first-grade intervals](maternal-emotional-support-predicts-cognitive-flexibility-gains.md) — related

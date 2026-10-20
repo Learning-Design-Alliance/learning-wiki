@@ -68,3 +68,4 @@ National Education Longitudinal Study of 1988 panel of 17,224 students in roughl
 - [The Charting Reform surveys reached 266 elementary schools and 40 high schools in Chicago in Spring 1994](charting-reform-surveys-266-elementary-40-high-schools.md) — related
 - [Family engagement typically declines from elementary to middle school for several identified reasons](family-engagement-declines-elementary-to-middle.md) — a broader claim this one bears on
 - [The relationships among perceived parental involvement in homework, student homework behaviors, and academic achievement differ among elementary, junior high, and high school students.](parental-homework-involvement-homework-behaviors-achievement-grade-differences.md) — related
+- [Chicago public high school seniors do considerably less homework than high school seniors nationally](cps-seniors-less-homework-than-national.md) — related

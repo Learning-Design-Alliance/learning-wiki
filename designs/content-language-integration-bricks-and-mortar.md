@@ -42,7 +42,9 @@ At Oakland International, all students learn English language skills alongside a
 - 
 
 ## Related Designs
+
 - Internationals Network Five Core Principles
+- [Task-based learning units integrated into the curriculum structure with collaborative real-world communication activities](dl2f-task-based-unit-pattern.md)
 
 ## Examples
 -

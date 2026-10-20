@@ -48,3 +48,4 @@ Meta-analytic synthesis across the 43 included RCTs and QEs. The review reports 
 ## Related Claims
 - [Linguistic comprehension instruction shows a small immediate effect on generalized linguistic comprehension outcomes](linguistic-comprehension-instruction-small-immediate-generalized-effect.md) — related
 - [Effects of linguistic comprehension instruction differ by outcome domain: small for vocabulary and grammar, moderate for narrative and listening comprehension](differential-language-outcomes-small-vocabulary-grammar-moderate-narrative-listening.md) — related
+- [Morphology instruction shows no clear effect on reading comprehension outcomes at immediate post-test](morphology-instruction-no-reading-comprehension-effect.md) — related

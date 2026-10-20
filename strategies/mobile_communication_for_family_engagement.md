@@ -12,7 +12,7 @@ generated:
 # Mobile Communication for Family Engagement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 4 report an effect size
+> **Evidence** · 2 claims (2 for) · 4 studies (2 quant-synthesis, 2 review), `q2`–`q4` · 2 of 4 report an effect size
 
 ## Description
 Mobile communication for family engagement uses SMS text messaging (and similar low-friction channels) to send families timely information about their student's progress, attendance, and behavior, along with concrete tips for supporting learning at home. Because texts require no app, login, or broadband connection, they reach families that newsletters, portals, and conferences often miss. Effectiveness depends on message design: personalized, actionable, and translated messages outperform generic broadcasts.
@@ -44,7 +44,7 @@ Texting works because it lowers the cost of the school-to-family information flo
 - Families of K–12 students, with the strongest documented effects for early-grades literacy and middle-grades engagement
 - Low-income families and families of color, who are disproportionately reached by text where portals and conferences underperform [Bergman & Chan's texting intervention raised ELA achievement by reducing parent information gaps.](https://doi.org/10.3368/jhr.58.1.0918-9761R1) [+M]
 - Multilingual families, when messages are translated into home languages
-- Families of students with low [Self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) — regular progress messages can build a sense of efficacy and persistence for both parent and child [+W]
+- Families of students with low [Self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] — regular progress messages can build a sense of efficacy and persistence for both parent and child
 
 ### Target Learning Goals
 - Attendance, homework completion, and engagement behaviors

@@ -87,7 +87,7 @@ Adaptive mastery systems ensure that foundational gaps are closed before higher-
 
 ## Examples
 
-**[Duolingo](https://www.duolingo.org)** — Adaptive spaced repetition model predicts when individual learners will forget items and schedules review accordingly; skills unlock only after mastery thresholds are met (Settles & Meeder, 2016).
+**[Duolingo](https://www.duolingo.org)** — Adaptive spaced repetition model predicts when individual learners will forget items and schedules review accordingly; skills unlock only after mastery thresholds are met ([Settles & Meeder, 2016](https://doi.org/10.18653/v1/p16-1174)).
 
 **[Carnegie Learning's MATHia (Cognitive Tutor)](https://www.carnegielearning.com)** — Cognitive tutoring system that adapts problem sequences and hints to a student skill model; demonstrated significant gains in algebra across randomized trials (Pane et al., 2014).
 

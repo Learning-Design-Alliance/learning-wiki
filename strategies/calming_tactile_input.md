@@ -67,7 +67,7 @@ Calming tactile input is best treated as a *regulation support that enables lear
 - **Tactile bin break**: a first-grade classroom keeps a bin of dried beans with hidden small objects; a student who becomes dysregulated after transitions spends three minutes at it, then rejoins the [class discussion](../elements/class-discussion.md).
 - **Weighted lap pad during seatwork**: an occupational therapist provides a 5-lb lap pad for a student with autism during writing tasks, paired with a visual timer.
 - **Beanbag squish**: a learner applies firm full-body pressure by squeezing into a beanbag chair in a classroom calm-down space before returning to [practice](../elements/practice.md).
-- **Temple Grandin's squeeze machine** (Grandin, 1992) — a documented individual application of deep pressure for calming anxiety.
+- **Temple Grandin's squeeze machine** ([Grandin, 1992](https://doi.org/10.1089/cap.1992.2.63)) — a documented individual application of deep pressure for calming anxiety.
 
 ## Key Sources
 - Case-Smith, J., Weaver, L. L., & Fristad, M. A. (2015). A systematic review of sensory processing interventions for children with autism spectrum disorders. *Autism, 19*(2), 133–148. [doi:10.1177/1362361313517762](https://doi.org/10.1177/1362361313517762)

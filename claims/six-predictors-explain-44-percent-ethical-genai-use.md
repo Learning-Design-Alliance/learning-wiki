@@ -43,3 +43,4 @@ Cross-sectional CB-SEM analysis of survey data from 980 students at the State Un
 ## Related Claims
 - [Academic integrity and transparency is the strongest predictor of ethical GenAI use, followed by ethical and technical AI literacy and critical thinking](academic-integrity-strongest-predictor-ethical-genai.md) — related
 - [All six predictor constructs correlate positively and significantly with ethical GenAI use, ranging from r = 0.370 to r = 0.507](bivariate-correlations-ethical-genai-predictors.md) — related
+- [Ethical reasoning and reflective thinking are reported as the strongest predictors of sustainable and trustworthy AI use](ethical-reasoning-strongest-predictor-trustworthy-ai-use.md) — related

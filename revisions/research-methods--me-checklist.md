@@ -3,7 +3,7 @@ type: revisions
 page: ../research-methods/me-checklist.md
 ---
 
-# Revision history: [research-methods/me-checklist](../research-methods/me-checklist.md)
+# Revision history: [research-methods/me-checklist](../products/me-checklist.md)
 
 Recorded as theories/four-phase-evidence-building-process-me-checklist before it was renamed, re-filed or merged.
 

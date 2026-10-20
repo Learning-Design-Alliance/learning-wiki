@@ -43,4 +43,4 @@ Bootstrap mediation analysis (Hayes procedure, 10,000 bootstrap samples) run on 
 
 
 ## Related Claims
--
+- [Refutation texts did not promote beneficial selection of multimedia material by student teachers](refutation-texts-no-transfer-material-selection.md) — related

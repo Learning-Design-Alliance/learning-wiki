@@ -45,3 +45,7 @@ Bivariate correlational tests of consistency in scaffolding variables in the lon
 ## Related Claims
 
 - [Maternal propensity to scaffold during infant play is consistent both across toys and over time from 12 to 24 months](propensity-to-scaffold-stable-across-toys-and-time.md)
+- [Maternal contingency is the only scaffolding variable related to child performance during scaffolding across all three time-points](contingency-predicts-child-performance-scaffolding.md) — related
+- [Children of consistently contingent mothers (30%+ contingent at all three time-points) scored higher on grasping, delay and cognitive measures than children of inconsistently contingent mothers](consistent-contingency-group-child-outcomes.md) — related
+- [Maternal contingency at 12 months predicts children's effortful control at 24 months, explaining 14% unique variance](contingency-12m-predicts-effortful-control-24m.md) — related
+- [Children with low initial effortful control showed rising trajectories to above the mean only when their mothers were consistently contingent](low-effortful-control-trajectories-contingent-mothers.md) — related

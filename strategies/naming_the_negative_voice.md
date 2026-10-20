@@ -19,7 +19,7 @@ Students give their negative inner voice a name — often playful or exaggerated
 
 ## Design Implications
 
-Naming the negative voice works through self-distancing: referring to one's negative experience from an external vantage point reduces emotional reactivity and improves regulation, particularly under academic stress (Kross et al., 2014) [+M]. It also builds metacognitive awareness — students learn to monitor self-talk as an event rather than a fact, a foundation for [Self-Regulated Learning](../theories/self-regulated-learning.md) [+M]. Because the technique separates self-worth from performance, it pairs naturally with growth-mindset framing: the voice's claims become hypotheses to test rather than verdicts (Yeager & Dweck, 2012) [+M].
+Naming the negative voice works through self-distancing: referring to one's negative experience from an external vantage point reduces emotional reactivity and improves regulation, particularly under academic stress ([Kross et al., 2014](https://doi.org/10.1037/a0035173)) [+M]. It also builds metacognitive awareness — students learn to monitor self-talk as an event rather than a fact, a foundation for [Self-Regulated Learning](../theories/self-regulated-learning.md) [+M]. Because the technique separates self-worth from performance, it pairs naturally with growth-mindset framing: the voice's claims become hypotheses to test rather than verdicts ([Yeager & Dweck, 2012](https://doi.org/10.1080/00461520.2012.722805)) [+M].
 
 ### Context
 #### Requirements
@@ -46,7 +46,7 @@ Naming the negative voice works through self-distancing: referring to one's nega
 - Less suitable for students who experience the activity as infantilizing; offer the private journaling variant instead [~W]
 
 ### Target Learning Goals
-- Emotional regulation: creating distance from negative affect during challenging tasks (Kross et al., 2014) [+M]
+- Emotional regulation: creating distance from negative affect during challenging tasks ([Kross et al., 2014](https://doi.org/10.1037/a0035173)) [+M]
 - Metacognition: recognizing self-talk as an internal event that can be examined [+M]
 - Motivation: protecting task engagement by countering self-defeating interpretations of difficulty [+M]
 
@@ -70,7 +70,7 @@ Naming the negative voice works through self-distancing: referring to one's nega
 ## Examples
 - A middle-school math class names voices like "Adverse Antoine" and "Ruthless Ralph"; during problem solving, students write the voice's claim on a sticky note and post a rebuttal beside it before continuing.
 - In a narrative-therapy-informed advisory program, students create a character card for their voice — name, favorite phrases, when it strikes — then track in a journal how often they talked back to it over a month.
-- A test-prep routine: before an exam, students spend two minutes writing what their voice says and one piece of evidence against it, a brief self-distancing intervention shown to reduce test anxiety effects (Kross et al., 2014) [+M]
+- A test-prep routine: before an exam, students spend two minutes writing what their voice says and one piece of evidence against it, a brief self-distancing intervention shown to reduce test anxiety effects ([Kross et al., 2014](https://doi.org/10.1037/a0035173)) [+M]
 
 ## Key Sources
 - Kross, E., Bruehlman-Senecal, E., Park, J., et al. (2014). Self-talk as a regulatory mechanism: How you do it matters. *Journal of Personality and Social Psychology, 106*(2), 304–324. [doi:10.1037/a0035173](https://doi.org/10.1037/a0035173)

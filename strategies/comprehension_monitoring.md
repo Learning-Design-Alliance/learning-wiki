@@ -19,14 +19,14 @@ Comprehension monitoring is the metacognitive process of evaluating one's own un
 
 ## Design Implications
 
-Comprehension monitoring is among the most consistently supported reading strategies, but it rarely develops from exhortation alone: learners must be taught what monitoring feels like, given explicit repair strategies, and provided with structured practice [Dunlosky et al., 2013] [+S]. Because monitoring is invisible, instruction must make it visible — instructors verbalize their own monitoring decisions while reading, then gradually transfer responsibility to learners [Palincsar & Brown, 1984] [+S].
+Comprehension monitoring is among the most consistently supported reading strategies, but it rarely develops from exhortation alone: learners must be taught what monitoring feels like, given explicit repair strategies, and provided with structured practice ([Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266)) [+S]. Because monitoring is invisible, instruction must make it visible — instructors verbalize their own monitoring decisions while reading, then gradually transfer responsibility to learners ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) [+S].
 
 ### Context
 #### Requirements
 - Texts difficult enough to produce genuine comprehension breakdowns; monitoring is unlearnable on trivially easy material
 - Explicit modeling of monitoring behavior (instructor think-alouds that surface confusion, self-questions, and repairs)
 - A taught repertoire of fix-up strategies, since awareness of failure without repair options yields frustration rather than learning
-- Structured practice with feedback, fading external prompts as self-monitoring becomes habitual [Palincsar & Brown, 1984] [+S]
+- Structured practice with feedback, fading external prompts as self-monitoring becomes habitual ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) [+S]
 
 #### Constraints
 - Learners are systematically poor judges of their own comprehension; feelings of fluency are mistaken for understanding, so untrained self-assessment is unreliable [-M]
@@ -36,17 +36,17 @@ Comprehension monitoring is among the most consistently supported reading strate
 
 #### Implementation Variability
 - **Embedded prompts**: margin questions or stop-and-summarize checkpoints inserted into text at predictable breakpoints
-- **Reciprocal teaching**: small groups rotate the roles of questioning, clarifying, summarizing, and predicting [Palincsar & Brown, 1984]
+- **Reciprocal teaching**: small groups rotate the roles of questioning, clarifying, summarizing, and predicting ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1))
 - **Think-aloud protocols**: learners verbalize monitoring while reading, used both as instruction and as assessment
 - **Self-questioning routines**: standardized checks ("Can I state the main idea? Can I predict what comes next?") taught as a reusable script
 
 ### Target Learners
 - Upper elementary through adult readers who decode adequately but struggle with meaning-making
-- Struggling readers and readers with weak self-regulation, who benefit most from explicit monitoring instruction [Palincsar & Brown, 1984] [+S]
+- Struggling readers and readers with weak self-regulation, who benefit most from explicit monitoring instruction ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) [+S]
 - Less valuable for beginning decoders, whose working memory is consumed by word recognition [automatic word recognition frees resources for comprehension](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [+M]
 
 ### Target Learning Goals
-- Reading comprehension of expository and complex narrative text [Dunlosky et al., 2013] [+S]
+- Reading comprehension of expository and complex narrative text ([Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266)) [+S]
 - Metacognitive and self-regulatory skill development that transfers across content areas [Self-regulated learning](../theories/self-regulated-learning.md)
 - Independent learning: equipping learners to diagnose and repair their own understanding without instructor support
 
@@ -64,7 +64,7 @@ Comprehension monitoring is among the most consistently supported reading strate
 - [Annotating](../principles/annotating.md) — a physical trace of monitoring decisions that supports later review
 
 ## Examples
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984): small reading groups rotate the "teacher" role, with each member responsible for questioning, clarifying, summarizing, and predicting — the clarifying role is comprehension monitoring made social.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)): small reading groups rotate the "teacher" role, with each member responsible for questioning, clarifying, summarizing, and predicting — the clarifying role is comprehension monitoring made social.
 - **[Reading Apprenticeship](../products/reading-apprenticeship.md)** (WestEd, https://readingapprenticeship.org): a secondary and postsecondary framework in which instructors routinely model their own metacognitive reading processes, including monitoring breakdowns, using metacognitive conversation routines.
 - While reading a complex science text, a learner pauses to ask, "Can I explain what I just read?" If not, she rereads the paragraph, looks up an unfamiliar term, or reads ahead for a defining example before continuing.
 

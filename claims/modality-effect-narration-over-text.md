@@ -200,3 +200,4 @@ Open questions include how the effect interacts with learner control over pacing
 - [APA presentations tend to overload the visual channel, especially with high element interactivity content](apa-visual-channel-overload.md) — a narrower finding that bears on this claim
 - [No difference in intrinsic cognitive load between visual-only and audio-visual text conditions in VR](vr-modality-no-intrinsic-load-difference.md) — related
 - [Oral non-interactive teaching can enhance learning more than written teaching for complex materials](oral-written-modality-boundary-noninteractive-teaching.md) — a narrower finding that bears on this claim
+- [Reading text and presenting graphics on handheld screens are more difficult than on paper, and interactivity may be compromised](small-screen-usability-limitations.md) — related

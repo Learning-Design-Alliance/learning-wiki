@@ -43,4 +43,4 @@ ANCOVA on transfer performance with prior knowledge as covariate in a randomized
 
 
 ## Related Claims
--
+- [All three drawing conditions scored better than the control condition on the drawing test and performed equally well](drawing-outperforms-control-drawing-test.md) — related

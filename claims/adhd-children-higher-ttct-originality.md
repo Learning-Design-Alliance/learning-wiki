@@ -51,3 +51,5 @@ One-factor ANOVA on TTCT-Figurative Originality in the same 34-versus-34 compari
 - [Unmedicated children with ADHD aged 8-13 score higher than matched controls on TTCT-Figurative Fluency](adhd-children-higher-ttct-fluency.md) — related
 - [Unmedicated children with ADHD obtain a higher overall TTCT Creativity Index than controls](adhd-children-higher-creativity-index.md) — related
 - [ADHD children do not differ from controls on Elaboration, Abstractness of Titles or Resistance to Premature Closure](adhd-no-difference-elaboration-abstractness-closure.md) — related
+- [21% of the ADHD sample scored at or above the 70th percentile on the overall creativity index](adhd-21-percent-highly-creative.md) — related
+- [Higher ADHD rating-scale scores predict better semantic fluency performance and more immediate repetitions in children](higher-adhd-traits-better-semantic-fluency.md) — related

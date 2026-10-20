@@ -12,14 +12,14 @@ generated:
 # Math Games
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 13 report an effect size
+> **Evidence** · 4 claims (3 for, 1 against) · 13 studies (7 quant-synthesis, 3 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 13 report an effect size
 
 ## Description
 Math games are structured activities designed to stimulate enthusiasm for math learning by providing opportunities to explore fundamental number concepts, engage in strategic mathematical thinking, and deepen understanding of numbers. Games encourage exploration of number combinations, place value, patterns, and computational strategies, deepening mathematical understanding and reasoning. They also create authentic opportunities for teachers to observe or assess students and to work with individuals or small groups while the rest of the class plays independently.
 
 ## Design Implications
 
-Well-designed math games embed [practice](../elements/practice.md) in a goal structure that motivates repeated engagement, and repetition is the mechanism through which fluency develops [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The strongest evidence comes from linear number board games: preschoolers from low-income backgrounds who played a linear number board game for four short sessions showed durable gains in numerical magnitude comparison, number line estimation, and counting relative to controls [Ramani & Siegler, 2008] [+S]. Games work best when the mathematical decision-making, not luck or recall speed, determines the outcome, and when play is followed by discussion that makes strategies explicit [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Well-designed math games embed [practice](../elements/practice.md) in a goal structure that motivates repeated engagement, and repetition is the mechanism through which fluency develops [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The strongest evidence comes from linear number board games: preschoolers from low-income backgrounds who played a linear number board game for four short sessions showed durable gains in numerical magnitude comparison, number line estimation, and counting relative to controls ([Ramani & Siegler, 2008](https://doi.org/10.1111/j.1467-8624.2007.01131.x)) [+S]. Games work best when the mathematical decision-making, not luck or recall speed, determines the outcome, and when play is followed by discussion that makes strategies explicit [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Well-designed math games embed [practice](../elements/practice.md) in a goal str
 - Debrief structures that surface strategies, since the learning is in the reasoning, not the winning
 
 #### Constraints
-- Games used solely to drill number facts may not sustain engagement, and may generate negative feelings when recall speed determines success [-M] — timed-recall games disadvantage students with slower retrieval but sound reasoning, and speed pressure can undermine the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) that games are meant to build
+- Games used solely to drill number facts may not sustain engagement, and may generate negative feelings when recall speed determines success [-M] — timed-recall games disadvantage students with slower retrieval but sound reasoning, and speed pressure can undermine the [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [-W] that games are meant to build
 - If luck dominates skill, the game motivates without teaching; the mathematical content must drive outcomes
 - Without a debrief, students may play procedurally and never connect game moves to the underlying concepts [~M]
 - Poorly matched difficulty (too easy or too hard) collapses engagement; games need adjustable rules to stay in the productive struggle zone
@@ -41,7 +41,7 @@ Well-designed math games embed [practice](../elements/practice.md) in a goal str
 - Whole-class vs. pair formats: pairs generate more mathematical talk; solo digital play trades discussion for volume of practice
 
 ### Target Learners
-- Elementary students, especially early-numeracy learners; board game interventions show the largest effects for children from low-income backgrounds who enter with less informal number knowledge [Ramani & Siegler, 2008] [+S]
+- Elementary students, especially early-numeracy learners; board game interventions show the largest effects for children from low-income backgrounds who enter with less informal number knowledge ([Ramani & Siegler, 2008](https://doi.org/10.1111/j.1467-8624.2007.01131.x)) [+S]
 - Students who need many low-stakes repetitions to build fluency without the anxiety of timed testing
 - Less effective as-is for advanced learners unless rules are modified to increase strategic depth
 

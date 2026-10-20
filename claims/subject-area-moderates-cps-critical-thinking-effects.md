@@ -43,4 +43,4 @@ Subgroup analysis by subject area (Table 4): mathematics (4 effect quantities, E
 
 
 ## Related Claims
--
+- [Teaching type, intervention duration, subject area, group size, and learning scaffold significantly moderate the effect of collaborative problem-solving on critical thinking](five-significant-moderators-cps-critical-thinking.md) — a broader claim this one bears on

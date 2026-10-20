@@ -45,4 +45,4 @@ Separate t-tests in the generalized condition comparing essay scores of complier
 
 
 ## Related Claims
--
+- [Selecting a suggested option in the scaffold was associated with higher compliance for four out of twenty scaffold options in the generalized condition.](selecting-scaffold-options-associated-higher-compliance.md) — related

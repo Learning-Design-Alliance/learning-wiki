@@ -49,6 +49,7 @@ The guide organizes community engagement work into three phases: 'Before, During
 - [Dissemination planning and accurate, accessible data visualization](../strategies/dissemination-plan-and-visualization-tips.md)
 - [Facilitate sessions with a welcoming environment, probing questions, and structured pauses](../strategies/facilitation-protocol-probing-questions.md)
 - [Record sessions with consent, data-protection communication, disclosure norms, and detailed notetaking](../strategies/recording-consent-and-data-protection-tips.md)
+- [Needs-sensing before design: surface state-specific structures, communication gaps, and coordination complexity to shape a collaborative](../designs/needs-sensing-informs-collaborative-design.md)
 
 ## Key Sources
 - Collecting and Making Sense of Community Engagement Data. (2025). Regional Educational Laboratory Northwest. https://ies.ed.gov/rel-central/2025/01/dissemination-plan-template

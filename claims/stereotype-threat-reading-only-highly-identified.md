@@ -48,3 +48,4 @@ Moderator analysis reported in the same eighty-student third-grade experiment: t
 
 ## Related Claims
 - [Stereotype threat reverses the gender gap in third-grade reading: boys underperform girls under threat but outperform them under reduced threat](stereotype-threat-reverses-boys-reading-gender-gap.md) — a broader claim this one bears on
+- [Intellectual helplessness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](intellectual-helplessness-mediation-stereotype-threat.md) — related

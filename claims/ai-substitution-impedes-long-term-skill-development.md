@@ -57,3 +57,4 @@ The position paper asserts this in its education section, citing Al-Obaydi & Pik
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a narrower finding that bears on this claim
 - [Outcome feedback (mere knowledge of results) impedes learning of complex tasks in the multiple-cue probability learning paradigm](outcome-feedback-impedes-complex-task-learning-mcpl.md) — related
 - [Students envision dual feedback utilization: real-time feedback for immediate adjustment during collaboration and post hoc feedback for reflective, long-term skill development](dual-real-time-post-hoc-feedback-utilization.md) — related
+- [Long-term learning gains may be optimized in collaborative situations that display discouraging short-term process costs](process-costs-tradeoff-long-term-gains.md) — related

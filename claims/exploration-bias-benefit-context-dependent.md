@@ -45,3 +45,4 @@ Authors' interpretation (type e) from the Discussion: the visual task had unifor
 ## Related Claims
 
 - [Higher ADHD scores predict an excess of long-distance jumps in visual search without any cost to visual search performance](visual-search-performance-unaffected-by-adhd-traits.md)
+- [Higher ADHD scores increase the variability of semantic search paths via more long-distance jumps, but not mean semantic distance](higher-adhd-traits-more-semantic-jumps.md) — related

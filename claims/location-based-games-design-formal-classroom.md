@@ -45,3 +45,5 @@ Design-based study by Wake, Guribye and Wasson in a formal classroom, using vide
 ## Related Claims
 
 - [Children develop locative literacy through informal collaborative digital mapping with family members using Google Earth](locative-literacy-informal-collaborative-mapping.md)
+- [First-generation AR games produced strong collaboration within teams but limited or non-existent collaboration between teams](ar-gen1-strong-within-team-weak-between-team-collaboration.md) — related
+- [Role-based information asymmetry with infrared beaming encourages cross-team information exchange and collaborative discussion](role-asymmetry-beaming-promotes-cross-team-exchange.md) — related

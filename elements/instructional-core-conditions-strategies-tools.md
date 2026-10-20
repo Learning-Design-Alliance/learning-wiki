@@ -19,7 +19,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-Within the instructional core (Cohen & Ball, 1999), the framework defines three components educators can design: conditions (features of the learning environment such as a culture of belonging, norms valuing questioning, and trust and safety), strategies (instructional moves such as formative assessment, feedback, collaborative structures, and choice-giving), and tools (resources learners use, from manipulatives to generative AI). The report stresses that "They are not inherently powerful or harmful" — strategies and tools depend on how they are implemented.
+Within the instructional core ([Cohen & Ball, 1999](https://doi.org/10.1177/0146167299258011)), the framework defines three components educators can design: conditions (features of the learning environment such as a culture of belonging, norms valuing questioning, and trust and safety), strategies (instructional moves such as formative assessment, feedback, collaborative structures, and choice-giving), and tools (resources learners use, from manipulatives to generative AI). The report stresses that "They are not inherently powerful or harmful" — strategies and tools depend on how they are implemented.
 
 ## Design Implications
 

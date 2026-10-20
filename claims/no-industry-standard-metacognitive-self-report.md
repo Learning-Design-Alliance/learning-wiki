@@ -62,4 +62,5 @@ Review's evaluation of Ning's (2017) bifactor model on the JrMAI version A: it "
 
 
 ## Related Claims
--
+- [Social presence shows the strongest association with metacognition in an online case-based course, while teaching presence shows no significant relationship](social-presence-strongest-metacognition-association-cbi.md) — related
+- [Learners misjudge which learning strategies are effective](learners-misjudge-effective-learning-strategies.md) — related

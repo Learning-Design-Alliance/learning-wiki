@@ -70,3 +70,4 @@ Same 48-month follow-up of the randomized controlled trial; footnote 6 reports d
 - [JOBSTART increased the likelihood that disadvantaged high school dropouts earned a high school diploma or GED certificate within 48 months of random assignment](jobstart-increased-diploma-or-ged-completion.md) — related
 - [JOBSTART youth participated in substantially more education and training during follow-up than control youth](jobstart-higher-education-training-participation.md) — related
 - [The JOBSTART and control groups showed no statistically significant baseline differences on compared characteristics](jobstart-rct-baseline-balance.md) — related
+- [New Chance's completion effect came entirely from GED receipt, with a small negative effect on earning a high school diploma](new-chance-ged-positive-diploma-negative.md) — related

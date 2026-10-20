@@ -13,7 +13,7 @@ generated:
 # Real World Math Applications
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (1 for, 1 mixed, 1 against, 1 unmarked) · 10 studies (5 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 4 of 10 report an effect size
+> **Evidence** · 4 claims (1 for, 2 mixed, 1 against) · 10 studies (5 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 4 of 10 report an effect size
 
 ## Description
 Real-world math applications anchor mathematical concepts in authentic contexts — budgeting, design, sports statistics, engineering, commerce — so learners see how the mathematics functions outside the classroom. The strategy is carried out by selecting or constructing tasks whose context genuinely requires the target mathematics, then having learners model, compute, and interpret results within that context rather than practicing decontextualized procedures alone.
@@ -35,7 +35,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 
 #### Constraints
 - Contexts impose extraneous processing: reading comprehension of the scenario can consume working memory needed for the mathematics, especially for struggling readers or second-language learners [~M] — see [Cognitive Load Management](../principles/cognitive-load-management.md)
-- Surface features can mislead: learners may attend to the story details rather than the underlying structure, producing worse transfer than [multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) that strip context away [~S]
+- Surface features can mislead: learners may attend to the story details rather than the underlying structure, producing worse transfer than [multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) [~M] that strip context away
 - Authenticity without instructional guidance risks unproductive struggle; productive failure works only when followed by structured consolidation [Productive failure improves conceptual learning.](../claims/productive-failure-improves-conceptual-learning.md) [~M]
 - Contrived "real-world" problems (e.g., unrealistic numbers, artificial scenarios) can reduce rather than increase engagement and credibility [-W]
 - "Word problems" with superficial contexts can increase extraneous load and reading demands without improving conceptual understanding [Contexts that add extraneous processing without supporting the target mathematics degrade learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
@@ -56,7 +56,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 ### Target Learners
 - Learners who ask "when will I ever use this?" — relevance framing can increase engagement and persistence [~W]
 - Intermediate learners who have basic procedures but need help connecting them to situations; complete novices may be overloaded by simultaneous context and content demands [~M]
-- Learners from communities whose everyday mathematical practices can be leveraged as prior knowledge — street vendors' arithmetic outperformed their school math in classic studies, showing untapped contextual competence (Carraher et al., 1985) [+M]
+- Learners from communities whose everyday mathematical practices can be leveraged as prior knowledge — street vendors' arithmetic outperformed their school math in classic studies, showing untapped contextual competence ([Carraher et al., 1985](https://doi.org/10.1111/j.2044-835x.1985.tb00951.x)) [+M]
 - Students who experience school mathematics as meaningless symbol manipulation and disengage [+M]
 - Learners with strong informal or everyday quantitative reasoning whose knowledge is not being leveraged by traditional instruction [Informal contextual mathematics can be far stronger than school performance suggests.](https://doi.org/10.1111/j.2044-835X.1985.tb00981.x) [+S]
 - Younger learners, who depend more on concrete referents for abstract concepts [~M]
@@ -93,7 +93,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).
 - **[Financial literacy curricula](https://www.cfee.org/)** (e.g., CFEE in Canada) — budgeting, interest, and taxation tasks that apply percent, ratio, and function concepts.
 - **Boaler's Railside study classrooms** — algebra taught through real-world data and design projects; students showed stronger conceptual understanding and more equitable participation than textbook-based comparison groups (Boaler, 1997).
-- **Brazilian street-vendor arithmetic** — children computing prices fluently in market transactions while failing the same operations on school tests, motivating context-connected instruction (Carraher et al., 1985).
+- **Brazilian street-vendor arithmetic** — children computing prices fluently in market transactions while failing the same operations on school tests, motivating context-connected instruction ([Carraher et al., 1985](https://doi.org/10.1111/j.2044-835x.1985.tb00951.x)).
 - **Realistic Mathematics Education (Freudenthal Institute, Netherlands)** — a full curriculum approach in which formal mathematics is progressively reinvented from contextual problems (e.g., the "double number line" emerging from measurement contexts). [https://www.fi.uu.nl/en/rme/](https://www.fi.uu.nl/en/rme/)
 - **Financial literacy units** — computing compound interest on real savings scenarios, comparing loan offers, and budgeting, connecting exponential functions to money decisions.
 - **Data-rich projects (e.g., [Desmos](https://www.desmos.com) classroom activities)** — students fit functions to real data (temperature, population, motion), making the abstract model answer a genuine question.

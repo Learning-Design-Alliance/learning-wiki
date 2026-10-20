@@ -65,6 +65,8 @@ The review reports, citing Phalet and Andriessen (in press), a study of ethnic m
 - [Identity](../learner-variables/identity.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
+
 - [School ethnic composition moderates change in ERI affirmation during adolescence](school-ethnic-composition-moderates-eri-affirmation.md) — related
 - [Ethnic identity associations with functioning are robust across child gender and ethnic group, and ethnic identity scores are uncorrelated with IQ](ethnic-identity-effects-robust-across-gender-ethnicity-uncorrelated-iq.md) — related
 - [Ethnic identity tends to follow an increasing trajectory across the middle-school years among ethnic minority youth](ethnic-identity-increasing-trajectory-grades-6-9.md) — related
+- [The immigrant optimism hypothesis holds in some cultural contexts but not in others, depending on cultural congruence, cooperative learning, and family educational investment](immigrant-optimism-holds-conditionally.md)

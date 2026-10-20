@@ -43,4 +43,4 @@ Validation Study 1 (N = 99) compared the offline SKT-SRL with an online microana
 
 
 ## Related Claims
--
+- [The only significant cross-method correlation within one SRL component is motivation assessed by questionnaire and closed-ended microanalytic questions](motivation-questionnaire-microanalysis-only-cross-method-link.md) — related

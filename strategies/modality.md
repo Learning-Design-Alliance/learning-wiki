@@ -19,7 +19,7 @@ The modality strategy presents verbal information as spoken audio (narration) ra
 
 ## Design Implications
 
-When learners must read text and simultaneously view an animation, both compete for the visual channel; converting the text to narration frees visual resources for the graphic [Pairing graphics with spoken narration improves learning over graphics with on-screen text.](../claims/modality-effect-narration-over-text.md) [+S]. This is one of the most consistently supported effects in multimedia learning research, with meta-analytic support across lab and classroom studies [Ginns, 2005]. The strategy is a core application of [Cognitive Load Management](../principles/cognitive-load-management.md) within [Cognitive Load Theory](../theories/cognitive-load-theory.md) and Mayer's Cognitive Theory of Multimedia Learning.
+When learners must read text and simultaneously view an animation, both compete for the visual channel; converting the text to narration frees visual resources for the graphic [Pairing graphics with spoken narration improves learning over graphics with on-screen text.](../claims/modality-effect-narration-over-text.md) [+S]. This is one of the most consistently supported effects in multimedia learning research, with meta-analytic support across lab and classroom studies ([Ginns, 2005](https://doi.org/10.1016/j.learninstruc.2005.07.001)). The strategy is a core application of [Cognitive Load Management](../principles/cognitive-load-management.md) within [Cognitive Load Theory](../theories/cognitive-load-theory.md) and Mayer's Cognitive Theory of Multimedia Learning.
 
 ### Context
 #### Requirements
@@ -66,7 +66,7 @@ When learners must read text and simultaneously view an animation, both compete 
 ## Examples
 - **[Khan Academy](https://www.khanacademy.org)** — narrated problem-solving videos with handwritten-style visuals; words are spoken, not displayed as paragraphs.
 - **[PhET Interactive Simulations](https://phet.colorado.edu)** — simulations paired with spoken guidance in guided activities, keeping the visual channel focused on the simulation itself.
-- **Anatomy and physiology courses using narrated animation** — e.g., narrated cardiac-cycle animations replacing text-heavy slides, the canonical setting for modality-effect experiments (Mayer & Moreno, 1998).
+- **Anatomy and physiology courses using narrated animation** — e.g., narrated cardiac-cycle animations replacing text-heavy slides, the canonical setting for modality-effect experiments ([Mayer & Moreno, 1998](https://doi.org/10.1037/0022-0663.90.2.312)).
 
 ## Key Sources
 - Mayer, R. E., & Moreno, R. (1998). A split-attention effect in multimedia learning: Evidence for dual processing systems in working memory. *Journal of Educational Psychology, 90*(2), 312–320. [doi:10.1037/0022-0663.90.2.312](https://doi.org/10.1037/0022-0663.90.2.312)

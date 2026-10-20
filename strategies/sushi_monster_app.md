@@ -12,7 +12,7 @@ generated:
 # Sushi Monster App
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 2 causal, 2 review, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 Sushi Monster is a free mathematics app (Scholastic) in which learners build addition and multiplication combinations to feed a hungry sushi monster. Plates of sushi bearing numbers are placed on a counter; the player selects the correct combination of plates to reach a target number, and correct combinations are "gobbled up" by the monster. Each round contains 14 target numbers, and the app offers 12 levels — 7 for addition and 5 for multiplication — providing structured [practice](../elements/practice.md) with immediate feedback.
@@ -35,7 +35,7 @@ Sushi Monster is an example of game-based fluency practice: it embeds repeated a
 
 #### Implementation Variability
 - Use as a station in math rotations (10–15 min sessions) rather than extended play blocks
-- Ask learners to verbalize or record the combinations they found, converting play into [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunities [+M]
+- Ask learners to verbalize or record the combinations they found, converting play into [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] opportunities
 - Pair with concrete manipulatives or number talks so the app's symbolic practice is grounded in representations
 
 ### Target Learners

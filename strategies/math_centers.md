@@ -12,7 +12,7 @@ generated:
 # Math Centers
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 14 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 14 studies (7 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 5 of 14 report an effect size
 
 ## Description
 Math centers are multiple simultaneous activity stations — games, manipulatives, digital tools, collaborative problem sets, or teacher-led small groups — among which learners rotate on a schedule. Each station targets a specific skill or concept, allowing the teacher to run [guided practice](../elements/practice.md) with a small group at one station while others work independently or collaboratively. Centers combine hands-on [application](../elements/application.md) with peer interaction and are a common vehicle for differentiation in K–8 mathematics.
@@ -30,7 +30,7 @@ Centers convert whole-class instruction into distributed [active learning](../pr
 
 #### Constraints
 - Off-task behavior rises when station tasks are too easy, too hard, or lack clear success criteria; independent stations require self-regulation skills many young learners are still developing [-M]
-- Hands-on materials can increase extraneous load if they are visually cluttered or if learners must simultaneously manage objects, directions, and the mathematics [~M] — aligns with [chunking](../claims/chunking-reduces-working-memory-load.md) concerns in task design
+- Hands-on materials can increase extraneous load if they are visually cluttered or if learners must simultaneously manage objects, directions, and the mathematics [~M] — aligns with [chunking](../claims/chunking-reduces-working-memory-load.md) [~W] concerns in task design
 - Centers can become "busywork rotations": engagement without alignment to learning objectives produces activity, not learning [-M]
 - Setup and materials management impose a substantial ongoing preparation cost; poorly maintained centers degrade quickly
 

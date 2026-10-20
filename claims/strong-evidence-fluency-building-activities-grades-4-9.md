@@ -80,3 +80,4 @@ Evidence rating from Recommendation 2: the panel reviewed 33 studies of fluency-
 - [Corrective Reading produced statistically significant positive effects on oral reading fluency in a randomized controlled trial of third-grade struggling readers](corrective-reading-significant-fluency-effect.md) — a narrower finding that bears on this claim
 - [Sound Partners tutoring has positive effects on reading fluency of beginning readers](sound-partners-positive-effects-fluency.md) — a narrower finding that bears on this claim
 - [Practice making sense of stretch text has moderate evidence, based on 15 studies](moderate-evidence-stretch-text-practice-grades-4-9.md) — related
+- [Repeated reading has potentially positive effects on reading comprehension for students with learning disabilities, with a small extent of evidence](repeated-reading-potentially-positive-comprehension-learning-disabilities.md) — related

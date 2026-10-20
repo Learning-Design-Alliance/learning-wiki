@@ -62,3 +62,4 @@ One-way ANOVA comparing confidence across the four flexibility-by-learning group
 - [High cognitive flexibility learners show significantly higher accuracy than low flexibility learners only after rule acquisition in probabilistic rule learning](high-cf-post-learning-accuracy-advantage.md) — related
 - [High and low flexibility learners reach rule acquisition at similar points, so flexibility does not speed rule acquisition in this task](no-faster-rule-acquisition-high-cf.md) — related
 - [High cognitive flexibility learners identify the correct probabilistic rule more often than low flexibility learners](high-cf-higher-rule-acquisition-rate-probabilistic.md) — related
+- [Eliciting confidence ratings impairs rule-based category learning compared to both no-rating and judgment-of-learning conditions on ambiguous transfer items](confidence-ratings-impair-rule-learning.md) — related

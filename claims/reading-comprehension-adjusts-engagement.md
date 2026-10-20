@@ -43,4 +43,5 @@ Covariate effects within the ANCOVAs on behavioral engagement for the 255 partic
 
 
 ## Related Claims
--
+- [Greater time and effort invested in the task correlate with better integration and smaller calibration error](engagement-correlates-integration-calibration.md) — related
+- [The comprehension-skill difference in inference making persists after controlling for memory for the text and delayed retention of the knowledge base](inference-difference-not-explained-by-memory.md) — related

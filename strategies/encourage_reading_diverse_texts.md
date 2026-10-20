@@ -12,7 +12,7 @@ generated:
 # Encourage Reading Diverse Texts
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 against, 1 unmarked) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
+> **Evidence** · 4 claims (3 for, 1 against) · 11 studies (5 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 11 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners read a wide range of text types — narrative, informational, argumentative, visual/multimodal — across genres and disciplines, then think and talk about what they read. The strategy treats breadth of reading experience as a driver of academic language acquisition: each genre exposes learners to distinct vocabulary, syntax, and discourse structures that single-genre reading cannot supply.
@@ -56,7 +56,7 @@ Exposure to varied text structures builds the genre knowledge and vocabulary tha
 1. Curate a text set spanning genres, disciplines, and perspectives on a shared topic or theme.
 2. Activate relevant knowledge before reading ([Activating Prior Knowledge](../strategies/activating-prior-knowledge.md)) and set a purpose for each text.
 3. Assign texts with a framing task — [Assigned Readings](../elements/assigned-readings.md) paired with annotation prompts that direct attention to genre features [Relevancy of emphasis directs attention during reading.](../claims/relevancy-of-emphasis-directs-attention.md) [+M].
-4. Have learners think and talk: structured [Discussion Sections](../elements/discussion-sections.md) or written [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) prompts comparing how the texts treat the topic [+S].
+4. Have learners think and talk: structured [Discussion Sections](../elements/discussion-sections.md) or written [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] prompts comparing how the texts treat the topic.
 5. Close with a synthesis task that requires using the vocabulary and structures encountered (short written argument, summary across texts).
 6. Assess through discussion participation, cross-text summaries, and learners' application of new vocabulary in their own writing.
 

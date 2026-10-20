@@ -57,7 +57,7 @@ Weekly reflection operationalizes the self-regulation cycle of forethought, perf
 2. **Model reflection first.** Demonstrate a think-aloud reflection using [Think-Aloud](../elements/think-aloud.md) so students see what substantive reflection sounds like rather than one-line answers.
 3. **Protect the time.** Schedule 10–15 minutes at a fixed point (end of last class, Friday opening, weekend LMS task).
 4. **Keep it low-stakes.** Grade on completion or not at all; honesty requires safety.
-5. **Respond and act.** Read responses, reply briefly at the [task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md), and visibly adjust instruction — reteaching a muddy concept, for example — so students see reflection has consequences.
+5. **Respond and act.** Read responses, reply briefly at the [task and process levels](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M], and visibly adjust instruction — reteaching a muddy concept, for example — so students see reflection has consequences.
 6. **Fade the scaffolds.** Move from provided prompts to student-generated reflection questions as self-monitoring becomes habitual.
 
 ## Related Strategies

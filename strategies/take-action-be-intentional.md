@@ -63,7 +63,7 @@ Learner-centered teacher-student relationships show consistent positive associat
 - [Activating Prior Knowledge](activating-prior-knowledge.md) — an intentional instructional move that signals whose knowledge counts in the classroom
 
 ## Examples
-- **Empathic discipline practice (Okonofua et al., 2016)** — Middle-school teachers completed a brief online module reframing misbehavior as a relationship moment; the "teacher–student relationship" framing halved suspension rates across the following year. [https://doi.org/10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
+- **Empathic discipline practice ([Okonofua et al., 2016](https://doi.org/10.1073/pnas.1523698113))** — Middle-school teachers completed a brief online module reframing misbehavior as a relationship moment; the "teacher–student relationship" framing halved suspension rates across the following year. [https://doi.org/10.1073/pnas.1523698113](https://doi.org/10.1073/pnas.1523698113)
 - **Culturally responsive teaching (Gay, 2010)** — Teachers intentionally select examples, texts, and interaction norms that reflect students' cultural backgrounds, converting climate-building into curriculum decisions. [https://www.tcpress.com/culturally-responsive-teaching-theory-research-and-practice-9780807757391](https://www.tcpress.com/culturally-responsive-teaching-theory-research-and-practice-9780807757391)
 - **Daily greeting routines** — Teachers greet each student by name at the door; studies of this practice report increased academic engaged time and fewer disruptions, illustrating a low-cost, high-consistency intentional action.
 

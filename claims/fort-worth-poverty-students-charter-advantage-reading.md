@@ -51,3 +51,7 @@ Subgroup comparison of students in poverty in Fort Worth charter versus other di
 - Fort Worth students overall made significantly less reading growth than the state average in 2018-19, with a smaller non-significant math gap — related
 - [Fort Worth charter school Hispanic students significantly outgrew Fort Worth district school Hispanic students in reading growth](fort-worth-hispanic-students-charter-advantage-reading.md) — related
 - [Students in poverty in Houston charter schools outperformed district-school students in poverty in both subjects](houston-poverty-charter-beats-district-both-subjects.md) — related
+- [Austin charter ELL students outperformed Austin district ELL students in reading growth](austin-charter-ell-students-reading-advantage.md) — related
+- [Fort Worth charter school Black students outgrew Fort Worth district school Black students in reading, though the within-Fort Worth contrast was not statistically significant](fort-worth-black-students-charter-district-growth.md) — related
+- [Newark charter school students outgrew similar Newark district school students in reading but not significantly in math in 2018-19](newark-charter-vs-district-within-newark-2018-19.md) — related
+- [Austin charter Hispanic students outperformed Austin district Hispanic students in reading growth](austin-charter-hispanic-students-reading-advantage.md) — related

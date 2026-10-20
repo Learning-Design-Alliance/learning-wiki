@@ -43,4 +43,5 @@ Meta-analysis of 51 contrasts (28 purely online, 23 blended per the report's spl
 
 
 ## Related Claims
--
+- [In the narrative synthesis, blended and purely online conditions within a single study generally produced similar learning outcomes, and media elements such as video or online quizzes did not appear to influence learning.](narrative-synthesis-variants-of-online-learning.md) — related
+- [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md) — a broader claim this one bears on

@@ -61,7 +61,7 @@ Thermal discomfort functions as extraneous cognitive load: the body's effort to 
 
 ## Examples
 - **Wargocki & Wyon's school field studies (Denmark/Sweden)** — classroom intervention studies in which lowering temperature from ~25°C to ~20°C and improving ventilation produced significant gains in speed and accuracy on reading and numerical tasks.
-- **Heat and learning at scale (Goodman et al., 2018)** — analysis of U.S. exam data showing that each 1°F hotter school year reduces learning, with air conditioning substantially offsetting the effect, implying large equity gaps between hot and cool school buildings.
+- **Heat and learning at scale ([Goodman et al., 2018](https://doi.org/10.1257/pol.20180612))** — analysis of U.S. exam data showing that each 1°F hotter school year reduces learning, with air conditioning substantially offsetting the effect, implying large equity gaps between hot and cool school buildings.
 - **Practical low-cost case** — a teacher without thermostat access uses a $10 thermometer, cross-ventilation before class, fans, and a seating plan that moves heat-sensitive students away from sunlit windows.
 
 ## Key Sources

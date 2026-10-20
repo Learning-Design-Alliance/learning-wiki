@@ -19,7 +19,7 @@ The Black Genius Profile is a structured instrument through which parents, careg
 
 ## Design Implications
 
-The profile operationalizes a strengths-based, culturally responsive stance: instruction that connects to learners' cultural knowledge and identities produces stronger engagement and achievement than deficit-framed approaches (Ladson-Billings, 1995) [+M]. Because the child co-authors the profile, the process itself builds self-efficacy — learners see their own interests and identities treated as instructional assets rather than obstacles [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Identity-affirming environments also counteract the performance costs of stereotype threat, which depresses achievement when intellectual identity is under threat (Steele, 1997) [+S].
+The profile operationalizes a strengths-based, culturally responsive stance: instruction that connects to learners' cultural knowledge and identities produces stronger engagement and achievement than deficit-framed approaches ([Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465)) [+M]. Because the child co-authors the profile, the process itself builds self-efficacy — learners see their own interests and identities treated as instructional assets rather than obstacles [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]. Identity-affirming environments also counteract the performance costs of stereotype threat, which depresses achievement when intellectual identity is under threat ([Steele, 1997](https://doi.org/10.1037/0003-066x.52.6.613)) [+S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ The profile operationalizes a strengths-based, culturally responsive stance: ins
 - Adapted for digital completion, allowing multimedia evidence of the child's interests and skills
 
 ### Target Learners
-- Black learners across K–12, particularly in settings where their cultural knowledge and strengths are under-recognized (Ladson-Billings, 1995) [+M]
+- Black learners across K–12, particularly in settings where their cultural knowledge and strengths are under-recognized ([Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465)) [+M]
 - Learners whose interest and identity data would otherwise be invisible to instructional planning — connecting content to interests raises task value and engagement [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Parents, caregivers, and educators as secondary users who gain a shared, strengths-based vocabulary for supporting the child
 

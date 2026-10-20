@@ -43,4 +43,8 @@ The meta-analysis of 31 intervention studies distinguished four executive functi
 
 
 ## Related Claims
--
+- [Longitudinal physical activity programs have a positive effect on academic performance in preadolescent children (g = 0.26)](longitudinal-physical-activity-improves-academic-performance.md) — a narrower finding that bears on this claim
+- [Longitudinal physical activity programs have a positive effect on executive functions in preadolescent children (g = 0.24)](longitudinal-physical-activity-improves-executive-functions.md) — a narrower finding that bears on this claim
+- [Longitudinal physical activity programs show a positive effect on attention in preadolescent children (g = 0.90), based on a single study](longitudinal-physical-activity-improves-attention-single-study.md) — a narrower finding that bears on this claim
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](classroom-physical-activity-improves-attention.md) — related
+- [Acute exercise produces an overall small positive effect on cognition, with executive functions benefiting most and effects lasting up to two hours post-exercise](acute-exercise-small-positive-executive-cognition-effect.md) — related

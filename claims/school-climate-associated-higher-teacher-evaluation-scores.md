@@ -49,3 +49,5 @@ Observational finding from the REACH Students report: "teachers in schools with 
 - [Insight survey domain averages are more stable across years when a school keeps the same leader, suggesting principals affect these measures](insight-domain-stability-same-leader.md) — related
 - [FFT scores correlated positively with value-added measures, with domain correlations ranging from 0.19 to 0.22 and generally statistically significant](fft-vam-correlations-positive-019-022.md) — related
 - Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools — related
+- [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
+- [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related

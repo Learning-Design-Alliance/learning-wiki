@@ -43,4 +43,4 @@ Secondary correlational analysis in the MANCOVA section of the quasi-experimenta
 
 
 ## Related Claims
--
+- [Prior OSL research shows highly inconsistent cognitive and motivational effects of authentic setting features, and few studies measured perceived authenticity](osl-authenticity-studies-inconsistent-effects.md) — related

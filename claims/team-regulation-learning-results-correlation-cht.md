@@ -47,3 +47,5 @@ Pearson product-moment correlations between regulation frequencies and SWLEP com
 - [RIDE communication instruction and RIDE plus CHT both increase team regulation relative to no support](support-increases-team-regulation.md) — related
 - [In collaborative inquiry learning, dyads use more team regulation than task regulation in all support conditions](team-regulation-exceeds-task-regulation-collaborative-inquiry.md) — related
 - [Support conditions did not differ from control in learning scores within the environment](no-condition-differences-learning-scores-swlep.md) — related
+- [Instruction combining communication rules (RIDE) and a hypothesis tool (CHT) increases team regulation in computer-supported collaborative inquiry, and team regulation relates to learning outcomes only in that combined condition](ride-cht-instruction-increases-team-regulation-cscl.md) — reports the opposite
+- [Team regulation affected group learning results in one condition (Saab et al.)](team-regulation-affected-group-results-one-condition.md) — a broader claim this one bears on

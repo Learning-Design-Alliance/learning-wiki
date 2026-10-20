@@ -46,3 +46,4 @@ The editorial reports the Tissenbaum, Berland and Lyons museum study's finding t
 
 - [New Wikipedia knowledge emerges around pivotal articles: high-centrality articles within domains and high-betweenness boundary-spanning articles between domains](new-knowledge-at-pivotal-central-boundary-articles.md)
 - [Central Wikipedia articles are primarily edited by domain specialists while boundary-spanning articles are authored by generalists](specialists-edit-central-generalists-span-boundaries.md)
+- [Tabletops tend to be small-group environments, contrasting with personal devices and public whiteboards](tabletops-small-group-environments-contrast-desktops-whiteboards.md) — related

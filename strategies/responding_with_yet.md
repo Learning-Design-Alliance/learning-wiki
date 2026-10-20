@@ -30,9 +30,9 @@ Adding the word "yet" to responses when learners express frustration or inabilit
 
 #### Constraints
 - Standalone "yet" without concrete support is dismissed as empty encouragement and can degrade instructor credibility [-W]
-- Mindset interventions overall show small and heterogeneous effects; benefits concentrate on at-risk or low-achieving students and shrink for students already confident or high-achieving [~S] (Sisk et al., 2018)
+- Mindset interventions overall show small and heterogeneous effects; benefits concentrate on at-risk or low-achieving students and shrink for students already confident or high-achieving [~S] ([Sisk et al., 2018](https://doi.org/10.1177/0956797617739704))
 - Applied indiscriminately, "yet" can imply that all failure is a matter of insufficient effort, blaming learners for structural barriers or genuine aptitude limits [-W]
-- If effort is praised without progress, learners may conclude that effort signals low ability, reversing the intended effect [~S] (Mueller & Dweck, 1998)
+- If effort is praised without progress, learners may conclude that effort signals low ability, reversing the intended effect [~S] ([Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33))
 
 #### Implementation Variability
 - Verbal responses in one-on-one feedback, written comments on work, and rubric language ("not yet meeting criterion" instead of "failing")

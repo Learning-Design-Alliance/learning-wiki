@@ -62,4 +62,4 @@ Episode analysis of group 2 shows the strong graphical principle persisted into 
 
 
 ## Related Claims
--
+- [The initiation-response organizing principle constrains interaction to a linear structure and breaks down when drawing space runs out](initiation-response-principle-linear-constraints.md) — related

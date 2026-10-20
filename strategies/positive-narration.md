@@ -83,7 +83,7 @@ Positive narration leverages social learning: peers who hear a described behavio
 - [Praise](praise.md) — positive narration is a specific, behavior-descriptive form of praise; the two share the same effectiveness conditions
 - [Withitness](withitness.md) — the teacher awareness that makes narration timely and credible
 - [Proximity Control](proximity-control.md) — often paired with narration as a low-intensity redirect
-- [Establishing Routines](establishing-routines.md) — narration reinforces routines once they are taught
+- [Establishing Routines](establishing-classroom-routines.md) — narration reinforces routines once they are taught
 
 ## Examples
 - **Teach Like a Champion (Lemov)** — the "Positive Framing" and "100%" techniques train teachers to narrate what students are doing right ("Your eyes should be on your copy of the text — I see almost all of them are") rather than what they are doing wrong. https://teachlikeachampion.com
@@ -159,7 +159,7 @@ Positive narration draws on [Social Learning Theory](../theories/social-learning
 - [Praise](praise.md) — positive narration is a specific, behavior-descriptive form of praise; the two share the same effectiveness conditions
 - [Withitness](withitness.md) — the teacher awareness that makes narration timely and credible
 - [Proximity Control](proximity-control.md) — often paired with narration as a low-intensity redirect
-- [Establishing Routines](establishing-routines.md) — narration reinforces routines once they are taught
+- [Establishing Routines](establishing-classroom-routines.md) — narration reinforces routines once they are taught
 
 ## Examples
 - **PBIS (Positive Behavioral Interventions & Supports)** — [pbis.org](https://www.pbis.org): school-wide frameworks train teachers in specific behavior-specific praise and narration of expectations; a large RCT of PBIS showed reduced office discipline referrals [Bradshaw, C. P., et al. (2010)](https://doi.org/10.1177/0022465709338878) [+M]

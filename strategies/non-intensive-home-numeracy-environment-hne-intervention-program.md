@@ -69,7 +69,7 @@ The home numeracy environment — especially the frequency of parent–child act
 - [Embed counting practice in varied classroom activities and inform parents about advanced counting activities at home](embed-counting-classroom-and-home-activities.md)
 
 ## Examples
-- **[Bedtime Math](https://bedtimemath.org)** — A free app and book series delivering a daily short story with leveled math questions; a randomized study found gains in children's math achievement over the school year, largest for children of math-anxious parents (Berkowitz et al., 2015).
+- **[Bedtime Math](https://bedtimemath.org)** — A free app and book series delivering a daily short story with leveled math questions; a randomized study found gains in children's math achievement over the school year, largest for children of math-anxious parents ([Berkowitz et al., 2015](https://doi.org/10.1126/science.aac7427)).
 - **Take-home math kit programs** — Many early-childhood programs circulate "math backpacks" containing a game, manipulatives, and an activity card; the lending model removes cost barriers and signals that math play is valued.
 - **Family Math (Lawrence Hall of Science, UC Berkeley)** — A published activity curriculum ([https://lawrencehallofscience.org](https://www.lawrencehallofscience.org/do-science/family-math)) providing household-math activities designed for home use.
 

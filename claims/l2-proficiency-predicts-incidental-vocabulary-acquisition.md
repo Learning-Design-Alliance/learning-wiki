@@ -75,3 +75,5 @@ Webb et al. (2023) qualify this claim at the level of studies: across second-lan
 - Teacher ratings predicted reading achievement better than common language proficiency tests (41% vs 0-4% additional variance) — related
 - Learners' vocabulary size is significantly and positively related to both L2 video comprehension and incidental vocabulary learning — related
 - [Meaning-focused exposure to spoken L2 input yields large vocabulary gains (g = 1.05) in incidental word learning](spoken-input-incidental-l2-word-learning-large-gains.md) — related
+- [Motivation did not significantly predict L2 incidental vocabulary acquisition through reading](motivation-null-predictor-incidental-vocabulary.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related

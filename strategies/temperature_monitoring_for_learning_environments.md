@@ -12,7 +12,7 @@ generated:
 # Temperature Monitoring for Learning Environments
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 3 studies (2 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 3 studies (2 quant-synthesis, 1 associational), `q2`–`q4` · 2 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 This strategy involves systematically monitoring the temperature of a learning environment and making adjustments to maintain conditions within the range associated with optimal cognitive performance. Environments that are too cold increase distractibility and fidgeting; environments that are too warm produce discomfort, drowsiness, and reduced concentration. Implementation ranges from building-level HVAC policy to direct intervention — adjusting thermostats, opening windows, using fans, or giving learners personal control over their immediate environment.
@@ -52,7 +52,7 @@ Thermal conditions are a low-cost, high-leverage environmental variable: field s
 ### Instructions
 1. **Establish a baseline.** Measure temperature at learner height at several points in the space and times of day; note where it falls relative to the 68–74°F target range.
 2. **Set a target range and adjust.** Use available controls (thermostat, windows, fans) to move conditions into range; prioritize cooling when the space exceeds ~75°F, where performance costs are steepest [+S].
-3. **Build a feedback loop.** Use brief [Check-Ins](../principles/check-ins.md) or comfort surveys so learners can report discomfort; treat thermal complaints as actionable data, applying the same task-level responsiveness that makes [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) effective [+W].
+3. **Build a feedback loop.** Use brief [Check-Ins](../principles/check-ins.md) or comfort surveys so learners can report discomfort; treat thermal complaints as actionable data, applying the same task-level responsiveness that makes [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) [+W] effective.
 4. **Offer personal control.** Where a single setpoint cannot satisfy everyone, provide fans, layered-clothing norms, or seating choice — learner-controlled adjustment is the practical form of [Accommodations](../elements/accommodations.md) for thermal variation [~M].
 5. **Monitor behavior as a proxy.** Watch for fidgeting, drowsiness, and off-task behavior as early indicators that conditions have drifted, and re-check instruments.
 

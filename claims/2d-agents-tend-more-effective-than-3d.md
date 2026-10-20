@@ -43,4 +43,4 @@ Meta-analytic moderator comparison of agent dimensionality across the pooled eff
 
 
 ## Related Claims
--
+- [Multimedia learning principles are not clearly attributable to the multicomponent model or to applied multimedia theories](multimedia-principles-not-attributable-to-multicomponent-model.md) — related

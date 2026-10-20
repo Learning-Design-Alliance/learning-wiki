@@ -63,4 +63,4 @@ t,c"
 
 
 ## Related Claims
--
+- [Retrieval-augmented generation reduces but does not eliminate hallucinations in AI-assisted verification](rag-reduces-not-eliminates-hallucinations.md) — related

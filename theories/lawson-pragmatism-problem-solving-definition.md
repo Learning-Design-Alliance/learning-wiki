@@ -39,7 +39,8 @@ The article recounts Bill Lawson's account of pragmatism, which locates "solving
 
 
 ## Related Theories
-- 
+
+- [Pragmatism and Progressivism (Educational Philosophy)](pragmatism-and-progressivism-educational-philosophy.md)
 
 ## Examples
 -

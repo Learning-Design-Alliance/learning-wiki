@@ -43,4 +43,6 @@ The article's problem-specification section reviews prior attempts at collecting
 
 
 ## Related Claims
+
 - [AI tools collected and organized a previously unavailable granularity of data, including individual student exchanges and classroom discussion data, to generate actionable recommendations](ai-granular-data-collection-actionable-recommendations.md) — related
+- [The Orientation Statistic Read From Learner Records Is a Difficulty Sort](observation-orients-edges-only-where-prerequisites-gate.md)

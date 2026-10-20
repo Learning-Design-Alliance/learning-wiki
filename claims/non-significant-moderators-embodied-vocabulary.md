@@ -64,3 +64,4 @@ Between-subject meta-regressions found no significant moderation by target langu
 ## Related Claims
 - [In exploratory between-subject analyses, embodied learning showed larger effects against passive non-embodied controls (g = 0.43) than against active non-embodied controls (g = 0.86)](control-group-characteristics-moderate-embodied-effects.md) — related
 - [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](movement-meaning-congruency-moderates-vocabulary-learning.md) — related
+- [Instructional moderators: effects significant against passive controls and for researcher-delivered, high-dose, and experimenter-designed trained-item tasks, but moderator contrasts not significant](morphology-moderators-control-type-dose-instructor-task.md) — related

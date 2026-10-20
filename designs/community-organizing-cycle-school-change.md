@@ -17,7 +17,7 @@ sources:
 # Community organizing cycle as a model for school transformation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The report describes the community organizing cycle as the change model embodied by the RCS campaign. It explains that this cycle "seeks to build collaborative power in relationship-centered and incremental ways and to elevate the voices of often marginalized groups in change efforts." Key dimensions include a focus on relationship-building, deliberate efforts to ensure diverse actors can share experiences and concerns to identify actionable issues, and leadership development through educational campaigns and training sessions that expand reach and build alliances. This model positions youth, educators, and leaders as co-drivers of equity-oriented continuous improvement rather than recipients of top-down reform.
@@ -40,7 +40,8 @@ The report describes the community organizing cycle as the change model embodied
 - Understanding of systemic racism and education inequity
 
 ### Claims
-- 
+
+- [Eight enabling factors support relationship-centered school transformation in comprehensive high school settings](../claims/enabling-factors-relationship-centered-transformation.md) [+W]
 
 ## Related Designs
 - 

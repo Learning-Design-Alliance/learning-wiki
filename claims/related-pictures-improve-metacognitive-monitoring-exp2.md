@@ -43,4 +43,4 @@ Randomized experiment with 75 eight-graders (n = 29 with pictures, n = 27 withou
 
 
 ## Related Claims
--
+- [Related decorative pictures do not increase triggered or maintained situational interest; in Experiment 2 they reduced maintained interest](related-pictures-no-interest-increase.md) — related

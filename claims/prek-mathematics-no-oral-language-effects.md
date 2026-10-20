@@ -51,3 +51,7 @@ PCER Consortium (2008) randomized trial, 296 children in 36 schools, assessed or
 - [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool print knowledge](prek-mathematics-no-print-knowledge-effects.md) — related
 - [Pre-K Mathematics with DLM Early Childhood Express Math produces statistically significant positive effects on preschool children's math outcomes](prek-mathematics-positive-math-effects.md) — related
 - [Early math and literacy development intertwine in early childhood](early-math-literacy-development-intertwine.md) — related
+- [Bright Beginnings shows no discernible effects on preschool oral language (domain average effect size 0.15, not statistically significant)](bright-beginnings-null-oral-language.md) — related
+- [Doors to Discovery™ shows potentially positive effects on preschool oral language (PPVT-III effect size 0.27, not statistically significant)](doors-to-discovery-potentially-positive-oral-language.md) — related
+- [Literacy Express has positive effects on oral language for preschool children, with significant effects in two of three studies](literacy-express-positive-oral-language.md) — related
+- [Ready, Set, Leap!® has no significant effect on preschool oral language (domain average effect size 0.02)](ready-set-leap-null-oral-language.md) — related

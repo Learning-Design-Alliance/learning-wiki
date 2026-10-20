@@ -43,4 +43,4 @@ Reported association in the 152-student quasi-experimental OSL study. The articl
 
 
 ## Related Claims
--
+- [Prior OSL research shows highly inconsistent cognitive and motivational effects of authentic setting features, and few studies measured perceived authenticity](osl-authenticity-studies-inconsistent-effects.md) — a broader claim this one bears on

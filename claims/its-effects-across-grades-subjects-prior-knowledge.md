@@ -62,4 +62,7 @@ Subject-domain moderator analysis (Table 3) with heterogeneity QB = 50.67, p < .
 
 
 ## Related Claims
--
+- [ITS effectiveness is not moderated by whether the ITS provides feedback or models student misconceptions](its-effect-not-moderated-by-feedback-or-misconception-modeling.md) — related
+- [AI-supported instruction has a moderate positive effect on student achievement in STEM education (g = 0.670 under a random effects model)](ai-instruction-stem-moderate-positive-effect.md) — a broader claim this one bears on
+- [Bayesian network modeling ITS showed a higher weighted mean effect size than model tracing and constraint-based modeling, but only under a fixed-effect model](its-type-bayesian-higher-than-model-tracing-fixed-effect.md) — related
+- [GenAI chemistry outputs can be fluent and locally persuasive while chemically invalid across representations](genai-fluent-but-chemically-invalid-outputs.md) — related

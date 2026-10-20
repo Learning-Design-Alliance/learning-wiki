@@ -112,3 +112,4 @@ Open questions for future enrichment: whether parent-delivered and professional-
 - ParentCorps improves parent involvement in early learning by teacher report but shows a smaller, non-significant effect by parent report — related
 - [Intervention dosage moderates child language outcomes: brief interventions under 60 minutes show no significant effect](book-sharing-dosage-moderates-language-outcomes.md) — related
 - [Group-based delivery is associated with more improvement in child language than individually delivered interventions](book-sharing-group-delivery-better-than-individual.md) — related
+- [A meta-analysis of 20 studies found a large effect (Hedges' g = 0.871) for CTA use in training design](cta-training-design-meta-analysis-large-effect.md) — related

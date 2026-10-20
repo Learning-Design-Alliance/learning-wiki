@@ -46,3 +46,4 @@ Linear regression analysis of follow-up survey data; Table 1 reports, for exampl
 - [High wage earners had higher total self-determination, autonomy, and psychological empowerment scores than low wage earners, controlling for intelligence](high-earners-higher-self-determination-scores.md) — a broader claim this one bears on
 - [Metacognitive strategies, effort regulation, and coping with problems significantly predict Japanese EFL learners' proficiency](three-srl-strategy-factors-predict-efl-proficiency.md) — related
 - [The pattern of predictive relationships for self-determination differed significantly depending on which measure of self-determination was used](self-determination-predictor-patterns-vary-by-measure.md) — related
+- [Preschool teachers' median hourly wage is more than $18 lower than kindergarten teachers' median hourly wage](preschool-teacher-wage-gap-14-67-vs-32-80.md) — related

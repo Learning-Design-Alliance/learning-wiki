@@ -38,7 +38,8 @@ The article proposes that the emotionally engendered by words affects retention 
 ### Claims
 
 ## Related Theories
-- 
+
+- [Information Processing Theory](information-processing-theory.md)
 
 ## Examples
 -

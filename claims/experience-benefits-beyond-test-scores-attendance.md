@@ -45,3 +45,5 @@ The review's executive summary states that as teachers gain experience, students
 ## Related Claims
 
 - More experienced teachers improve non-test outcomes including attendance, behavior, and college enrollment — possibly the same claim (merge candidate)
+- [Students' survey reports of their school experiences predict later academic and well-being outcomes including attendance, grades, test scores, graduation, college enrollment, and well-being](student-experience-survey-reports-predict-school-outcomes.md) — related
+- [Strong scores and growth on the 5Essentials Survey predict student success measures including GPA, attendance, test scores, and college enrollment](5essentials-scores-predict-student-success-measures.md) — related

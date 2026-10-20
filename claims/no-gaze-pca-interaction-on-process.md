@@ -44,4 +44,7 @@ results show that there were no interactions; therefore, H1c-1 is not supported.
 
 
 ## Related Claims
--
+- [Gaze feedback and PCA suggestions interact on proportional learning gains, with synergy favoring the visible-gaze/visible-agent condition](gaze-pca-interaction-on-learning-gains.md) — related
+- [A successful coordination/high learning-gain correlation appears only for learners receiving both visible gaze feedback and PCA suggestions](process-performance-correlation-only-both-tools.md) — related
+- [Visible real-time gaze feedback improves collaborative-process coordination, especially information pooling, in dyadic knowledge integration tasks](gaze-feedback-improves-collaborative-process.md) — related
+- [Consensus reaching and task division together predict learning gains across conditions](process-codes-predict-learning-gains.md) — related

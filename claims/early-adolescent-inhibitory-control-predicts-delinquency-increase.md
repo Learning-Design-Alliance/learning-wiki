@@ -69,3 +69,4 @@ Parallel prediction models using the parent-reported EATQ-R intercept (no growth
 - [Rate of growth in task-based inhibitory control is unrelated to later delinquent behavior](inhibitory-control-growth-rate-unrelated-delinquency.md) — related
 - [Task-based inhibitory control (Stop Signal Task) improves curvilinearly from ages 11 to 15, with growth slowing around middle adolescence](sst-inhibitory-control-curvilinear-growth-adolescence.md) — related
 - [Parent-reported inhibitory control (EATQ-R) shows no detectable growth from early to middle adolescence](parent-reported-inhibitory-control-no-growth.md) — related
+- [The paper reports that delayed entry into adulthood has increased role ambiguity and individualized identity development in emerging adulthood](emerging-adulthood-delay-increases-role-ambiguity.md) — related

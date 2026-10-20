@@ -89,3 +89,5 @@ Randomized controlled trial in 12 Florida full-day preschools (188 children with
 - [Literacy Express has positive effects on phonological processing for preschool children, with significant effects in two of three studies](literacy-express-positive-phonological-processing.md) — related
 - [Literacy Express has positive effects on print knowledge for preschool children, with significant effects in two of three studies](literacy-express-positive-print-knowledge.md) — related
 - [Headsprout Early Reading has a statistically significant positive effect on the oral language of at-risk preschool children](headsprout-positive-oral-language-preschool.md) — related
+- [Headsprout Early Reading has a statistically significant positive effect on the print knowledge of at-risk preschool children](headsprout-positive-print-knowledge-preschool.md) — related
+- [Pre-K Mathematics with DLM Early Childhood Express Math shows no discernible effects on preschool oral language](prek-mathematics-no-oral-language-effects.md) — related

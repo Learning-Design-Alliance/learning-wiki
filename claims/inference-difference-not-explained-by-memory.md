@@ -51,3 +51,4 @@ Analysis of covariance on the same 26 children's conditionalized inference score
 - [Less skilled comprehenders' inference failures stem more from incorrect premise recall, whereas skilled comprehenders fail more at integrating recalled information](different-sources-inference-failure-groups.md) — related
 - [Skilled comprehenders show superior one-week retention of a taught knowledge base despite comparable immediate recall](skilled-comprehenders-better-delayed-knowledge-retention.md) — related
 - [Less skilled comprehenders make fewer knowledge-based coherence and elaborative inferences than skilled comprehenders even when the relevant knowledge is equally available](poor-comprehenders-fewer-inferences-equal-knowledge.md) — related
+- [Reading comprehension uniquely adjusted behavioral engagement, with better comprehenders investing more time and writing longer responses](reading-comprehension-adjusts-engagement.md) — related

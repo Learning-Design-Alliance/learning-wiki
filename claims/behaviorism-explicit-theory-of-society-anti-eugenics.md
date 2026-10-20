@@ -43,4 +43,4 @@ Historical interpretation offered in the article's analysis of behaviorism as th
 
 
 ## Related Claims
--
+- [Theories of learning have historically operated to justify societal hierarchies through reification and ranking](learning-theories-justify-hierarchies-reification-ranking.md) — related

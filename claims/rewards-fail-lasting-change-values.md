@@ -43,4 +43,4 @@ The digest reports, citing prior research (Fabes et al., 1989; Grusec, 1991; Koh
 
 
 ## Related Claims
--
+- [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](rewards-undermine-intrinsic-motivation.md) — related

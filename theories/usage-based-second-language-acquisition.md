@@ -28,7 +28,7 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 
 ### Context
 - Learners need repeated, meaningful exposure to target constructions. In foreign-language settings input is thin, which the articles identify as a main source of difficulty with English constructions.
-- In the fetched evidence, school grade stood in for language experience (Kim et al., 2020). How much exposure produces which stage has not been measured directly.
+- In the fetched evidence, school grade stood in for language experience ([Kim et al., 2020](https://doi.org/10.15858/engtea.75.s1.202006.55)). How much exposure produces which stage has not been measured directly.
 
 ### Target Learners
 - The fetched evidence comes from Korean EFL learners from elementary school to college, and from advanced L2 learners in a Cognitive Linguistics preposition study.
@@ -59,7 +59,7 @@ The fetched sources do not agree on what "experience" should count. Usage-based 
 
 ## Related Theories
 
-- [Usage-based account of constructional development: from item-based learning to abstract constructions via language experience](usage-based-constructional-development.md) — source-framed variant (Kim et al., 2020)
+- [Usage-based account of constructional development: from item-based learning to abstract constructions via language experience](usage-based-constructional-development.md) — source-framed variant ([Kim et al., 2020](https://doi.org/10.15858/engtea.75.s1.202006.55))
 - [Cognitive Linguistics as a usage-based model of language in which meaning motivates form](cognitive-linguistics-usage-based-meaning-motivates-form.md) — source-framed variant (Sáez, 2014)
 - [Principle of likely need versus principle of repetition as competing accounts of lexical learning](likely-need-versus-repetition-principles.md) — challenges frequency as the measure of experience
 - [Expectancy-congruency learning mechanism updating lexical representations from context fit](expectancy-congruency-learning-mechanism.md)
