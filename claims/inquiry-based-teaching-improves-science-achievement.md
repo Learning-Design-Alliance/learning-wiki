@@ -83,7 +83,7 @@ The chapter reports, citing Furtak et al. (2012), a meta-analysis of 37 studies 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does guided inquiry raise science learning over the usual instruction, and is it the guidance that carries it?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **15 distinct studies** (6 review, 3 quant-synthesis, 3 causal, 2 design, 1 associational), `q1`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does inquiry-based teaching raise science achievement over the usual instruction?* This table gathers the studies behind this claim and the 11 narrower claims that bear on it: **15 distinct studies** (6 review, 3 quant-synthesis, 3 causal, 2 design, 1 associational), `q1`–`q4`, 3 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

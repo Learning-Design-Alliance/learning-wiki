@@ -53,7 +53,7 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 | [Ali Bicer 2026](https://doi.org/10.1007/s11858-026-01816-1) | q2 · qualitative · r3 | i? | [Progressive scaffold fading moved teachers from guided participation toward independent ju](ai-scaffold-fading-independent-justification.md) (supports) |
 | [Matthias Stadler 2024](https://doi.org/10.1016/j.chb.2024.108386) | q2 / q3 · causal · r2 | i2; i? | [Students using Google produce higher-quality justifications in their final recommendations](web-search-higher-quality-justifications-than-llm.md) (counts against); [Germane cognitive load fully mediates the effect of information-search tool on justificati](germane-load-mediates-tool-effect-on-justification-quality.md) (qualifies) |
 | [Voicu 2026](https://doi.org/10.61071/jdp.2665) | q2 · qualitative · r2 | i? | [Hybridization of authorship blends human and AI-generated content, often without learners'](hybridization-of-authorship-argumentation.md) (counts against) |
-| [Mireia Vendrell 2026](https://doi.org/10.1016/j.caeai.2026.100572) | q2 · theoretical · r2 | i? | [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weake](unstructured-llm-use-cognitive-offloading.md) (qualifies) |
+| [Mireia Vendrell 2026](https://doi.org/10.1016/j.caeai.2026.100572) | q1 · theoretical · r2 | i? | [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weake](unstructured-llm-use-cognitive-offloading.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

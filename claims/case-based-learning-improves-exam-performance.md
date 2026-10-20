@@ -68,7 +68,7 @@ A Best Evidence Medical Education review of case-based learning in prequalificat
 |---|---|---|---|
 | [Bonney 2015](https://doi.org/10.1128/jmbe.v16i1.846) | q2 · causal · r2 | i? | this claim |
 | [Thistlethwaite et al. 2012](https://doi.org/10.3109/0142159x.2012.680939) | q3 · review · r3 | i? | this claim |
-| [Zhao J 2026](https://doi.org/10.3389/feduc.2026.1907589) | q2 · review · r2 | i? | [Case-based learning benefits depended on faculty-guided embedding, while complex cases and](genai-cbl-faculty-guided-conditional-benefits.md) (qualifies) |
+| [Zhao J 2026](https://doi.org/10.3389/feduc.2026.1907589) | q2 · review · r2 | i? | [Case-based learning benefits were reported particularly when GenAI was embedded in faculty](genai-cbl-faculty-guided-conditional-benefits.md) (qualifies) |
 | [Alrazeeni 2026](https://doi.org/10.1177/23779608261424597) | q2 · review · r2 | i? | [AI-driven case simulations in ambulatory settings support diagnostic reasoning and anticip](ai-ambulatory-case-simulations-diagnostic-reasoning.md) (qualifies) |
 <!-- synthesis:end -->
 

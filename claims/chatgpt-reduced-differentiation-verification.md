@@ -70,7 +70,7 @@ Diary-entry analysis of the verifying stage: three ChatGPT instances via another
 | [Voicu 2026](https://doi.org/10.61071/jdp.2665) | q2 · qualitative · r2 | i? | [Distributed epistemic agency emerges as learners attribute authority to AI outputs and shi](distributed-epistemic-agency-machine-authority.md) (supports) |
 | [Wang H and Shan W 2026](https://doi.org/10.3389/feduc.2026.1757622) | q1 · theoretical · r2 | i? | [Automation bias toward fluent LLM output surrenders learners' epistemic agency](automation-bias-surrenders-epistemic-agency.md) (supports) |
 | [Du Y 2026](https://doi.org/10.1007/s00146-026-03294-1) | q1 · review · r2 | i? | [Conversational synthesis can hide source plurality behind one voice, weakening verificatio](opaque-synthesis-hides-plurality.md) (supports) |
-| [Saniya Vahedian Movahed and Fred Martin 2025](https://doi.org/10.48550/arxiv.2502.14217) | q2 · qualitative · r2 | i? | [Children use a 'trust test' strategy, asking a chatbot questions they already know the ans](children-trust-test-chatbot-with-known-answers.md) (qualifies) |
+| [Saniya Vahedian Movahed and Fred Martin 2025](https://doi.org/10.48550/arxiv.2502.14217) | q2 · qualitative · r2 | i? | [Some children in a K-8 school study used a 'trust test' strategy, asking a chatbot questio](children-trust-test-chatbot-with-known-answers.md) (qualifies) |
 <!-- synthesis:end -->
 
 ## Discussion

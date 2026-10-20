@@ -42,7 +42,7 @@ A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does flagging at-risk learners from their data and intervening on the flag improve grades, retention or completion?* This table gathers the studies behind this claim and the 14 narrower claims that bear on it: **15 distinct studies** (8 review, 3 theoretical, 2 design, 1 causal, 1 qualitative), `q1`–`q3`, 0 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does flagging at-risk learners from their data and intervening on the flag improve grades, retention or completion?* This table gathers the studies behind this claim and the 13 narrower claims that bear on it: **15 distinct studies** (8 review, 3 theoretical, 2 design, 1 causal, 1 qualitative), `q1`–`q3`, 0 of 15 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
@@ -56,8 +56,8 @@ A PRISMA 2020 systematic review with a narrative (not meta-analytic) synthesis. 
 | EdResearch for Recovery Project 2020 | q2 · review · r? | i? | [Strong early-warning monitoring systems paired with strong norms and routines help student](early-warning-systems-norms-routines-support-recovery.md) (qualifies) |
 | [Wei Dai 2025](https://doi.org/10.18608/jla.2025.8735) | q2 · causal · r1 | i? | [More than 30% of identified at-risk students visited previously unengaged learning activit](relational-feedback-email-increases-activity-visits.md) (supports) |
 | Rumberger 2017 | q3 · review · r3 | i? | [Monitoring all students and proactively intervening on early warning signs has minimal-lev](proactive-monitoring-minimal-evidence.md) (counts against) |
-| [Kaushik Dutta 2026](https://doi.org/10.48550/arxiv.2608.06322) | q2 · theoretical · r2 | i? | [Course Signals at Purdue reported retention and DFW gains that were later questioned as a ](course-signals-confounding-number-of-classes.md) (counts against) |
 | [Weidlich 2022](https://doi.org/10.18608/jla.2022.7577) | q2 · theoretical · r3 | i? | [Confounding may explain the large retention effects reported for the Course Signals early ](course-signals-confounding-number-of-classes.md) (counts against) |
+| [Kaushik Dutta 2026](https://doi.org/10.48550/arxiv.2608.06322) | q2 · theoretical · r2 | i? | [Confounding may explain the large retention effects reported for the Course Signals early ](course-signals-confounding-number-of-classes.md) (counts against) |
 | [James Soland 2015](https://doi.org/10.1177/0031721714561450) | q1 · theoretical · r2 | i? | [Using predictive analytics while ignoring teacher knowledge may misidentify students at ri](ignoring-teacher-knowledge-misidentifies-risk-students.md) (qualifies) |
 | [de Vreugd 2024](https://doi.org/10.18608/jla.2024.8529) | q2 · design · r3 | i? | [Perceived impact of LAD use on study behaviour varied, with most participants reporting no](lad-impact-on-study-behaviour-varied-mostly-null.md) (counts against) |
 | [Jin 2025](https://doi.org/10.18608/jla.2025.8609) | q2 · qualitative · r2 | i? | [Students showed only modest engagement with GenAI functionalities during in-semester use o](modest-in-semester-engagement-genai-feedback-tool.md) (qualifies) |

@@ -61,12 +61,13 @@ Regression path from PROCESS Model 4 (Table 2). With AI anxiety and daily AI use
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do learners who regulate their emotions better show more motivation and stronger executive control?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **3 distinct studies** (3 associational), `q2`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do learners who regulate their emotions better show more motivation and stronger executive control?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **4 distinct studies** (3 associational, 1 review), `q2`–`q3`, 2 of 4 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Zhang Y 2026](https://doi.org/10.3389/fpsyg.2026.1918525) | q2 · associational · r2 | i3; i?; i1 | this claim; [Emotion regulation partially mediates the negative association between AI anxiety and acad](emotion-regulation-partially-mediates-ai-anxiety-motivation.md) (supports); [Gender moderates the association between emotion regulation and academic motivation, with ](gender-moderates-emotion-regulation-motivation-association.md) (qualifies); [AI anxiety is negatively associated with emotion regulation among university students](ai-anxiety-negatively-associated-emotion-regulation.md) (supports) |
 | [Shi Guochun 2026](https://doi.org/10.1186/s40359-026-05038-8) | q3 · associational · r2 | i1; i2 | [Emotion regulation is concurrently associated with executive performance in the reverse di](reappraisal-and-suppression-reverse-linked-to-ef.md) (supports); [Stronger executive function is concurrently associated with greater cognitive reappraisal ](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) (supports); [Inhibitory control is the strongest concurrent correlate of cognitive reappraisal among EF](inhibitory-control-strongest-reappraisal-correlate.md) (supports) |
+| Ahmed Saz P. 2015 | q2 · review · r3 | i? | [Stronger executive function is concurrently associated with greater cognitive reappraisal ](ef-associated-with-reappraisal-and-lower-suppression-adolescents.md) (supports) |
 | [Mathias Mejeh 2026](https://doi.org/10.1016/j.learninstruc.2026.102394) | q3 · associational · r1 | i? | [Pre-actional metacognitive, motivational, and positive-emotional components are positively](pre-actional-components-predict-actional-regulation.md) (supports) |
 <!-- synthesis:end -->
 

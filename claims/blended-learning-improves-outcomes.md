@@ -66,11 +66,12 @@ Meta-analysis of 51 contrasts (28 purely online, 23 blended per the report's spl
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does a blended course produce better learning outcomes than the same course taught in one mode?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **2 distinct studies** (1 quant-synthesis, 1 review), `q2`–`q3`, 1 of 2 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does a blended course produce better learning outcomes than the same course taught in one mode?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **3 distinct studies** (2 quant-synthesis, 1 review), `q2`–`q3`, 2 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Means et al. 2013](https://doi.org/10.1177/016146811311500307) | q3 · quant-synthesis · r? | i2 · medium effect, g+=0.35, p<.0001 | this claim |
+| Means 2009 | q3 · quant-synthesis · r2 | i1 | this claim |
 | Mid-Atlantic Regional Educational Laboratory 2018 | q2 · review · r? | i? | [Some blended learning interventions improve student outcomes, but whether a positive effec](blended-learning-effects-vary-by-intervention-and-domain.md) (qualifies); [Research has not yet identified blended learning implementation strategies that increase t](no-identified-blended-learning-implementation-strategies.md) (qualifies) |
 <!-- synthesis:end -->
 

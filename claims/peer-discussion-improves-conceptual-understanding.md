@@ -68,7 +68,7 @@ Using the same isomorphic-question-pair clicker technique, this study compared t
 |---|---|---|---|
 | [Smith et al. 2009](https://doi.org/10.1126/science.1165919) | q2 · causal · r? | i? | this claim |
 | [Smith et al. 2011](https://doi.org/10.1187/cbe.10-08-0101) | q2 · causal · r? | i? | this claim |
-| Crouch 2003 | q2 · causal · r1 | i? | [Switching introductory physics lectures from traditional instruction to Peer Instruction d](fci-gain-increased-peer-instruction-harvard.md) (supports) |
+| [Crouch 2007](https://doi.org/10.1119/revperv1.1.3) | q2 · causal · r1 | i? | [In Harvard's introductory physics course, average FCI posttest scores and normalized gain ](fci-gain-increased-peer-instruction-harvard.md) (supports) |
 | Miller 2013 | q2 · design · r2 | i? | [Students attributed improved understanding to the discussion process of the implementation](learning-attributed-to-process-not-technology.md) (supports) |
 | [Dana L. Kirkwood-Watts 2022](https://doi.org/10.1128/jmbe.00038-22) | q3 · associational · r2 | i? | [Students answering both clicker votes correctly score significantly higher on isomorphic e](correct-correct-clicker-pattern-higher-exam-performance.md) (qualifies); [Any clicker participation outperforms absence on exam questions, but the lowest quartile s](any-clicker-pattern-beats-absence-except-lowest-quartile.md) (qualifies); [Clicker vote patterns show no significant effect on homework explanation quality, though c](clicker-vote-patterns-null-on-homework-explanations.md) (qualifies); [Clicker participation and homework completion each significantly predict performance on is](clicker-participation-and-homework-completion-predict-exam-performance.md) (qualifies) |
 <!-- synthesis:end -->

@@ -42,11 +42,11 @@ The WWC's systematic review of single-case design studies, using visual analysis
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do interventions chosen from a functional assessment of a learner's behavior improve that learner's behavior and engagement?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Do interventions chosen from a functional assessment of a learner's behavior improve that learner's behavior and engagement?* This table gathers the studies behind this claim and the 3 narrower claims that bear on it: **3 distinct studies** (1 quant-synthesis, 1 review, 1 causal), `q2`–`q3`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| What Works Clearinghouse 2016 | q3 · quant-synthesis · r2 | i? | this claim; The eligible evidence base for FBA-based interventions consists entirely of single-case de (qualifies); [Single-case evidence on FBA-based interventions for social-emotional competence does not r](fba-social-emotional-competence-below-threshold.md) (qualifies) |
+| What Works Clearinghouse 2016 | q3 · quant-synthesis · r2 | i? | this claim; [Single-case evidence on FBA-based interventions for social-emotional competence does not r](fba-social-emotional-competence-below-threshold.md) (qualifies) |
 | [Epstein 2008](https://doi.org/10.1037/e602222011-001) | q2 · review · r2 | i? | [Strategies not linked to a problem behavior's specific context are associated with increas](context-unlinked-strategies-increase-problem-behavior.md) (supports) |
 | [Groff 2011](https://doi.org/10.1901/jaba.2011.44-949) | q2 · causal · r1 | i? | [Inappropriate mealtime behavior was maintained by escape and attention](inappropriate-behavior-maintained-by-escape-and-attention.md) (supports) |
 <!-- synthesis:end -->
