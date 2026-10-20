@@ -37,7 +37,8 @@ The paper enumerates the everyday and mathematical settings where, in its words,
 - recognize proportional structure across varied contexts
 
 ### Claims
-- 
+
+- [Data from any proportional relationship satisfies an equation of the form y = rx, and conversely](../claims/proportional-relationship-y-equals-rx-equivalence.md) [+W]
 
 ## Related Designs
 - 

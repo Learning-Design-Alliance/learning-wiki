@@ -91,11 +91,11 @@ The claims the rest of the wiki cites most, beside what they rest on. A claim ci
 | [Learners' task-specific self-efficacy beliefs predict whether they initiate, persist …](claims/self-efficacy-predicts-academic-persistence.md) | 328 pages | 2 | q2 | 0 of 2 |
 | [Self-regulated learning models treat self-monitoring as a core process through which …](claims/self-monitoring-improves-self-regulation.md) | 309 pages | 2 | q3 | 0 of 2 |
 | [Comparing cases side by side improves learning and transfer by a moderate average amount, …](claims/comparing-contrasting-cases-improves-learning.md) | 245 pages | 3 | q3–q4 | 1 of 3 |
-| [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 230 pages | 2 | q3 | 0 of 2 |
+| [Belonging Interventions Improve Outcomes](claims/belonging-interventions-improve-outcomes.md) | 229 pages | 2 | q3 | 0 of 2 |
 | [Instructional guidance that helps novices can become redundant or counterproductive as …](claims/expertise-reversal-effect.md) | 228 pages | 3 | q1–q3 | 0 of 3 |
 | [Active Learning Improves Exam Performance](claims/active-learning-improves-exam-performance.md) | 219 pages | 3 | q2–q4 | 2 of 3 |
 | [Assessment for learning improves achievement](claims/assessment-for-learning-improves-achievement.md) | 212 pages | 3 | q2–q3 | 2 of 3 |
-| [Spaced Practice Improves Retention](claims/spaced-practice-improves-retention.md) | 189 pages | 5 | q3–q4 | 2 of 5 |
+| [Spaced Practice Improves Retention](claims/spaced-practice-improves-retention.md) | 187 pages | 5 | q3–q4 | 2 of 5 |
 | [Contingent scaffolding improves learning more than fixed or absent support.](claims/contingent-scaffolding-improves-learning.md) | 180 pages | 5 | q2–q4 | 0 of 5 |
 | [Automatic word recognition frees resources for comprehension](claims/automatic-word-recognition-frees-resources-for-comprehension.md) | 171 pages | 2 | q1–q2 | 0 of 2 |
 | [Fading support promotes the transfer of responsibility from instructor to learner.](claims/fading-support-promotes-transfer-of-responsibility.md) | 170 pages | 2 | q3 | 0 of 2 |
@@ -149,13 +149,13 @@ Each page that cites claims carries its own profile under its title. Summarised 
 | [principles](principles/index.md) | 170 | 170 | 27.5 | 0 |
 | [elements](elements/index.md) | 1,066 | 779 | 2 | 0 |
 | [patterns](patterns/index.md) | 54 | 54 | 29 | 0 |
-| [strategies](strategies/index.md) | 6,321 | 3,170 | 4 | 0 |
+| [strategies](strategies/index.md) | 6,321 | 3,175 | 4 | 0 |
 | [processes](processes/index.md) | 18 | 16 | 8 | 0 |
-| [methods](methods/index.md) | 38 | 22 | 1.5 | 0 |
-| [theories](theories/index.md) | 1,361 | 906 | 1 | 0 |
+| [methods](methods/index.md) | 38 | 23 | 1 | 0 |
+| [theories](theories/index.md) | 1,361 | 907 | 1 | 0 |
 | [learner-variables](learner-variables/index.md) | 75 | 75 | 38 | 0 |
-| [designs](designs/index.md) | 976 | 643 | 1 | 0 |
-| [products](products/index.md) | 1,830 | 1,326 | 1 | 0 |
+| [designs](designs/index.md) | 976 | 649 | 1 | 0 |
+| [products](products/index.md) | 1,830 | 1,327 | 1 | 0 |
 | [research-methods](research-methods/index.md) | 506 | 464 | 1 | 0 |
 
 ## Toward pooled estimates

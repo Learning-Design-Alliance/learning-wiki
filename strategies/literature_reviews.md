@@ -65,6 +65,7 @@ Literature reviews develop disciplinary reasoning because learners must weigh co
 - [3-Source Rule](3-2-1_reflection.md) — a simplified multi-source verification habit that prepares younger learners for review work
 - [Case-Based Learning](../strategies/case-based-learning.md) — single-case analysis that literature reviews scale up to many cases
 - [Use the Mentefacto Map to define keywords and inclusion/exclusion criteria in systematic reviews](mentefacto-map-review-criteria.md)
+- [Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews](baseline-strategy-address-review-limitations.md)
 
 ## Examples
 - **Graduate thesis proposals** — the required literature review chapter; strongest when advisors require a synthesis matrix before drafting.

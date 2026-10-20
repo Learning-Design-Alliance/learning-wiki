@@ -37,6 +37,10 @@ The article proposes four directions for closing the theoretical gap between med
 ### Target Learning Goals
 - linking delivery-system selection to instructional strategy and other ISD steps
 
+## Claims
+
+- [Media comparison studies produce uninterpretable "no significant difference" findings.](../claims/media-comparison-studies-produce-uninterpretable-results.md) [+M]
+
 ## Related Strategies
 - 
 

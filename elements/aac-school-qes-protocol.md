@@ -60,6 +60,7 @@ A protocol for a qualitative evidence synthesis (QES) that will identify, review
 - [Combine inductive content analysis with deductive NPT-domain coding, supported by reflexive journalling and peer supervision](../strategies/inductive-deductive-npt-analysis-reflexivity.md)
 - [Use SPIDER to structure inclusion criteria and search strings for a qualitative evidence synthesis of AAC in education](../strategies/spider-structured-aac-search-strategy.md)
 - [Appraise qualitative studies with CASP and grade synthesis confidence with GRADE-CERQual, without excluding studies on quality grounds](../strategies/casp-cerqual-quality-confidence-workflow.md)
+- [Use this methodological baseline to target improvements in interpreting risk of bias, reporting study funding, and citing protocols in systematic reviews](../strategies/baseline-strategy-address-review-limitations.md)
 
 ## Key Sources
 - Byrnes C, Moran G, Clarke MT, Caron J, Smith EM, Galvin R, Gallagher AL. (2026). Experiences of Augmentative and Alternative Communication use in School: A Qualitative Evidence Synthesis Protocol. HRB Open Research. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13550906/

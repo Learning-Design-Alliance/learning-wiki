@@ -39,6 +39,10 @@ The paper recommends treating reflective engagement as an organisational investm
 ### Affordances
 - Skill Sustaining Reliance Framework
 
+## Claims
+
+- [Repeated reflective prompts may habituate, so scaffolding can replace rather than strengthen the user's own metacognitive habits](../claims/reflective-scaffolding-habituation-deskilling.md) [~W]
+
 ## Related Strategies
 - 
 

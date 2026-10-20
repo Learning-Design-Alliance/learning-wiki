@@ -43,7 +43,9 @@ Minai's framework treats the design of aesthetic environments as grounded in an 
 - [Molnar's random-sampling method: synthesis of rules and no-rules toward a higher order of symmetry](molnar-random-sampling-synthesis-method.md)
 
 ## Examples
--
+
+- [Environmental Interaction Analysis](../strategies/environmental_interaction_analysis.md)
+- [Bring the Outdoors In](../strategies/bring_the_outdoors_in.md)
 
 ## Key Sources
 - McWhinnie, Harold J. (1991). Chaos Theory in the Arts and Design. https://eric.ed.gov/?id=ED368622

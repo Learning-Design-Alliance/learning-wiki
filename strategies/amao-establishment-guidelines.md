@@ -36,6 +36,10 @@ The report derives a set of guidelines from performance-standard-setting best pr
 ### Target Learning Goals
 - Setting progress (AMAO 1), attainment (AMAO 2), and academic proficiency (AMAO 3) criteria and targets
 
+## Claims
+
+- [Logistic regression can identify the ELP score at which students have a probability of 0.5 of being proficient on the academic content assessment, as a candidate English-proficient standard](../claims/logistic-regression-half-probability-criterion.md) [+W]
+
 ## Related Strategies
 - 
 

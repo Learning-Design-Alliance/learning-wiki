@@ -44,7 +44,8 @@ The Open Talks are an annual cycle of lectures open to students, researchers, in
 - 
 
 ## Related Designs
-- 
+
+- [Bespoke: a five-stage pipeline that regenerates a complete industry-personalized lecture video from a seed transcript](bespoke-lecture-video-generation-pipeline.md)
 
 ## Examples
 -

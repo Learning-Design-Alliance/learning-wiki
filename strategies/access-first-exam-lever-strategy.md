@@ -41,7 +41,8 @@ The article's policy findings prescribe sequencing and lever selection: "the acc
 - Mandate Governance Archetype Framework
 
 ## Related Strategies
-- 
+
+- [Use state licensing and program approval standards, infrastructure investment, equity targeting, and pipeline reforms to improve principal learning](principal-development-policy-strategies.md)
 
 ## Examples
 -

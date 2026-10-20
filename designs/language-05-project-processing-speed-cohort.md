@@ -39,7 +39,9 @@ The Language 0–5 Project is a large longitudinal cohort in the North West of E
 - productive syntax growth
 
 ### Claims
-- 
+
+- [Children of mothers who produced more word tokens at 18 months were faster to recognize familiar words at 24 months](../claims/maternal-input-predicts-faster-word-recognition.md) [+W]
+- [Faster word recognition at 24 months is associated with larger vocabularies and greater vocabulary gains in Spanish-learning children](../claims/faster-word-recognition-linked-larger-vocabulary.md) [+W]
 
 ## Related Designs
 - 

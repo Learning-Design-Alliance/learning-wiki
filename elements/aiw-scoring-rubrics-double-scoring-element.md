@@ -52,7 +52,8 @@ The project scored assignments and student work using measurement rubrics create
 - [Chicago Annenberg classroom assignment collection and scoring system](annenberg-assignment-collection-scoring-system.md)
 
 ## Examples
--
+
+- [Purposive school sampling plus careful document coding, cleaning, and archiving for longitudinal assignment and student-work research](../strategies/purposive-sampling-document-management-strategy.md)
 
 ## Key Sources
 - Wenzel, S., Nagaoka, J., Morris, L., Billings, S., & Fendt, C. (2002). Documentation of the 1996-2002 Chicago Annenberg Research Project Strand on Authentic Intellectual Demand Exhibited in Assignments and Student Work: A Technical Process Manual. Consortium on Chicago School Research. https://consortium.uchicago.edu/publications/documentation-1996-2002-chicago-annenberg-research-project-authentic-intellectual

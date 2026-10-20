@@ -36,8 +36,14 @@ The review positions its findings as a baseline for quality-improvement work in 
 ### Target Learning Goals
 - Improving methodological quality and reporting completeness of systematic reviews that inform policy and practice decisions
 
+## Claims
+
+- [The evidence base on inclusion effects is methodologically weak: no randomised studies and nearly all synthesised studies at serious risk of bias](../claims/inclusion-evidence-low-quality-serious-risk-of-bias.md) [+W]
+
 ## Related Strategies
-- 
+
+- [Literature Reviews](literature_reviews.md)
+- [Peer Review Protocols](peer-review-protocols.md)
 
 ## Examples
 -

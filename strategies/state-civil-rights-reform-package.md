@@ -42,6 +42,7 @@ The report recommends states adopt "a far-reaching prohibition of education disc
 - [State antidiscrimination laws provide only a patchwork of protection from racial discrimination in education](../claims/state-antidiscrimination-patchwork.md) [+W]
 - [State rights to education have produced substantial gains through funding litigation, but many are limited by unenforceability, variability, and neglect of equitable resource distribution](../claims/state-education-rights-limited.md) [+W]
 - [Title VI of the Civil Rights Act of 1964 is limited in ensuring nondiscrimination in public schools for three stated reasons](../claims/title-vi-limited-nondiscrimination-protection.md) [+W]
+- [The U.S. Supreme Court's 1973 Rodriguez decision held that the 14th Amendment neither explicitly nor implicitly guarantees a right to education](../claims/rodriguez-no-federal-right-to-education.md) [+W]
 
 ## Related Strategies
 

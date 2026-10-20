@@ -39,6 +39,7 @@ The article describes a lightweight classroom workflow: an instructor publishes 
 ## Claims
 
 - [An 11-case manual validation matrix confirms DebugTracker records the debugging process across Python, TypeScript, and Java tasks and three operating systems](../claims/debugtracker-11-case-manual-matrix-cross-language.md) [+W]
+- [DebugTracker's automated test suite passes all 16 checks covering session, capture, mode-policy, and reporting mechanisms](../claims/debugtracker-16-automated-checks-pass.md) [+W]
 
 ## Related Strategies
 

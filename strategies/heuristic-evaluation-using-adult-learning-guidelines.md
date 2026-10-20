@@ -35,6 +35,10 @@ The article contributes "A method for conducting heuristic evaluations of adult 
 ### Target Learning Goals
 - Evaluating and improving AI-supported adult learning technologies
 
+## Claims
+
+- [Stakeholder groups prioritized different design guidelines: instructors most frequently commented on usability (G4), students on educational support (G13), and researchers on instructional best practices and learning engineering](../claims/stakeholder-groups-prioritize-different-guidelines.md) [+W]
+
 ## Related Strategies
 - 
 

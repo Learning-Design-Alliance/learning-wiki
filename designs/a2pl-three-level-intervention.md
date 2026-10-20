@@ -38,7 +38,8 @@ The A2PL intervention operates at three levels. At the Person level, learners re
 - strategically aligned personal learning pathways
 
 ### Claims
-- 
+
+- [Whole-person initiatives often fail to achieve desired outcomes because they operate in fragmented, uncoordinated siloes](../claims/whole-person-initiatives-fragmented-siloes-fail.md) [+W]
 
 ## Related Designs
 - 

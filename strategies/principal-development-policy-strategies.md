@@ -53,6 +53,7 @@ The report recommends four policy actions: develop and better use state licensin
 - [Develop high-quality principal preparation through district-university partnerships with internships and mentorship](high-quality-principal-preparation-partnerships.md)
 - [Invest in high-quality, standards-aligned professional development for school leaders, including leaders of color](invest-principal-professional-development.md)
 - [Prioritize professional development access for early-career principals and focus it on instructional leadership to accelerate their effectiveness](prioritize-pd-for-early-career-principals.md)
+- [Address the access gap before depth stratification, and use examination reform as the primary lever](access-first-exam-lever-strategy.md)
 
 ## Examples
 -

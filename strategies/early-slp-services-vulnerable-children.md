@@ -39,6 +39,10 @@ The article recommends that speech-language pathologists deliver "assessment, in
 ### Affordances
 - Language House Framework Snow
 
+## Claims
+
+- [Early language skills predict later adolescent externalizing behavior problems](../claims/early-language-predicts-externalizing.md) [+W]
+
 ## Related Strategies
 - 
 

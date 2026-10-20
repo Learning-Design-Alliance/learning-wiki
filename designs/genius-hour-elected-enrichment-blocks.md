@@ -44,7 +44,8 @@ Genius Hour is Los Padillas's extended-day enrichment structure in which "Studen
 - [Los Padillas Student Belonging Above District](../claims/los-padillas-student-belonging-above-district.md) [~M]
 
 ## Related Designs
-- 
+
+- [Los Padillas Wildlife Sanctuary (5-acre experiential education facility)](los-padillas-wildlife-sanctuary.md)
 
 ## Examples
 -

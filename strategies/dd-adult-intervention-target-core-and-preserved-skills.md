@@ -44,6 +44,7 @@ The review recommends that intervention methods for adults with DD are likely to
 
 - [Design innovative, age-appropriate interventions for adults with DD targeting cognitive, numerical, social, and emotional dimensions](age-appropriate-interventions-adults-dd.md)
 - [Future research should develop sensitive diagnostic marker tasks and use neurostimulation to identify causal structure-function relations in adult DD](dd-adult-research-diagnostic-markers-neurostimulation.md)
+- [Use intensive practice of counting procedures in primary schools to strengthen and preserve future adults' arithmetic abilities](intensive-counting-practice-primary-schools.md)
 
 ## Examples
 -

@@ -39,6 +39,7 @@ The paper models a strategy of conceptual clarification: rather than abandoning 
 ### Claims
 
 - [Role Distance Dimension Of Authenticity](../theories/role-distance-dimension-of-authenticity.md) [+M]
+- [Unexplicated definitions of key constructs introduce conceptual ambiguity that makes theory integration far less likely](../claims/conceptual-ambiguity-impedes-theory-integration.md) [+W]
 
 ## Related Principles
 - 

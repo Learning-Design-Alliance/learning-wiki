@@ -92,6 +92,8 @@ Operations are assessed with standardised numerical operations subtests that ask
 
 ## Examples
 
+- [Use intensive practice of counting procedures in primary schools to strengthen and preserve future adults' arithmetic abilities](../strategies/intensive-counting-practice-primary-schools.md)
+
 ## Key Sources
 - Digital Promise. *Learner Variability Navigator*: Operations (Building Math 3-6, Building Math 7-10, Building Math PK-2). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-3-6/factors/operations-math-3-6/summary). Licensed CC BY-NC 4.0.
 - Digital Promise. *Learner Variability Navigator*: Place Value (Building Math PK-2). [lvp.digitalpromiseglobal.org](https://lvp.digitalpromiseglobal.org/content-area/math-pk-2/factors/place-value-math-pk-2/summary). Licensed CC BY-NC 4.0.

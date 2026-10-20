@@ -50,6 +50,7 @@ A research intervention delivered in small groups of two to four students in dai
 ## Related Designs
 
 - [Weekly instructional cycle combining whole-class fluency instruction with ability-differentiated small-group practice](weekly-fluency-cycle-ability-differentiated-practice.md)
+- [Decoding/Fluency tutoring program: 20-week adaptive one-on-one intervention with six scripted lesson components](decoding-fluency-tutoring-program.md)
 
 ## Examples
 -

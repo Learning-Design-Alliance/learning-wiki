@@ -79,6 +79,7 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Situated Learning](situated-learning.md) — shares the claim that knowledge and development cannot be understood apart from the social, material, and cultural context in which they occur
 - [Social Learning Theory](social-learning-theory.md) — Bandura's observational learning (e.g., parental role modeling) operates within the microsystem this model describes
 - [Contextual Systems Model (CSM): child/family and school/schooling as interrelated systems](contextual-systems-model-csm.md)
+- [Layers of Necessity Model](layers-of-necessity-id-model.md)
 
 ## Examples
 <!-- Candidate future claim page: authoritative vs. authoritarian parenting effects are moderated by neighborhood risk context (Florsheim, Tolan, & Gorman-Smith, 1996), tagged [~M]. -->

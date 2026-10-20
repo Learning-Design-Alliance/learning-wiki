@@ -44,7 +44,8 @@ The Los Padillas Wildlife Sanctuary is a 5-acre experiential education facility 
 - 
 
 ## Related Designs
-- 
+
+- [Genius Hour: student-elected enrichment blocks in the extended day with showcase events](genius-hour-elected-enrichment-blocks.md)
 
 ## Examples
 -

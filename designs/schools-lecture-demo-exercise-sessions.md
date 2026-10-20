@@ -38,7 +38,8 @@ Schools are the article's format for teaching base qualifications within the pro
 - base qualifications such as ROS programming, node and interface creation, and object detection with YOLO
 
 ### Claims
-- 
+
+- [High school students report they learn best through interactive, hands-on projects, real-world applications, and discussions rather than lectures, note-taking, and worksheets](../claims/students-report-hands-on-learning-most-effective.md) [+W]
 
 ## Related Designs
 - 

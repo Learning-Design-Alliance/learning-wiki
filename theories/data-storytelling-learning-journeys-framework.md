@@ -37,6 +37,7 @@ The paper organizes its argument around the metaphor of learning theories as sto
 
 ### Claims
 
+- [Instructor co-designed tagging transforms raw LMS log data into structured event data reflecting course design and temporal context](../claims/clickstream-tagging-transforms-logs-into-contextualized-events.md) [+W]
 
 ## Related Theories
 - 

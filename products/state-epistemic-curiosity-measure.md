@@ -24,6 +24,8 @@ A researcher-developed multi-item, 5-point Likert self-report assessment by Henk
 
 ### Claims
 
+- [In the treatment condition, both epistemic curiosity and situational interest increased after problem presentation and decreased after the explanatory text](../claims/treatment-condition-arousal-decrease.md) [+W]
+
 ## Related Products and Programmes
 -
 

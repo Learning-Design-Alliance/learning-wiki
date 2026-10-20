@@ -47,6 +47,7 @@ Bespoke is a directed acyclic pipeline that takes a seed lecture transcript, a l
 ## Related Designs
 
 - [Human-supervised AI video production pipeline for personalized instructional videos](ai-personalized-video-production-pipeline.md)
+- [Open Talks about Artificial Intelligence: annual public lecture series](open-talks-ai-lecture-series.md)
 
 ## Examples
 -

@@ -39,7 +39,8 @@ The Layers of Necessity Model, developed by Tessmer and Wedman, proposes that de
 ### Claims
 
 ## Related Theories
-- 
+
+- [Bioecological Model of Human Development](bioecological-model-of-human-development.md)
 
 ## Examples
 -

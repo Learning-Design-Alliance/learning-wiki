@@ -225,7 +225,9 @@ def extract_citations(text: str, source_label: str) -> list[dict]:
         m = re.search(rf"##\s*{re.escape(section_name)}\s*\n(.+?)(?=\n##\s|\Z)", text, re.DOTALL)
         if not m:
             continue
-        for line in m.group(1).splitlines():
+        # A kept old body sits in a multi-line <!-- deprecated --> block; its citations are
+        # history, not assertions, so they are skipped like a one-line comment is.
+        for line in re.sub(r"<!--.*?-->", "", m.group(1), flags=re.S).splitlines():
             line = line.strip()
             if not line or line.startswith("<!--"):
                 continue

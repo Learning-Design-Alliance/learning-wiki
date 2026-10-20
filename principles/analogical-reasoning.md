@@ -142,10 +142,12 @@ Recognising that a source applies, mapping it correctly, using the principle on 
 - [Inquiry-based Learning](inquiry-based-learning.md) — learners can generate and test analogies while exploring new concepts.
 
 ## Examples
+
 - **Math analogies**: A teacher uses balance-scale imagery to explain equation solving and then asks learners to test where the analogy holds.
 - **Science metaphors**: Learners compare electrical flow to water flow, then identify the limits of the comparison.
 - **Writing identity metaphors**: Learners use metaphor to describe their writing process and reflect on how that framing shapes revision habits.
 - **Digital literacy comparisons**: Learners use familiar physical systems to reason about files, networks, or information flow.
+- [A model of twelve divergent thinking activities organised along two dimensions of remoteness and abstractness](../designs/twelve-activity-model-remoteness-abstractness.md)
 
 ### Illustrative
 

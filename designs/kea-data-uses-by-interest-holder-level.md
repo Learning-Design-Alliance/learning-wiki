@@ -37,7 +37,9 @@ The brief organizes potential KEA uses by interest-holder level in an appendix t
 - guiding instruction, programming, resource allocation, and progress monitoring from KEA data
 
 ### Claims
+
 - Kea Data Not For Accountability Or Diagnosis [+M]
+- [It is inappropriate to use KEA scores to evaluate teachers or preschool programs, hold children back from kindergarten, or diagnose learning disabilities](../claims/kea-inappropriate-uses-teacher-eval-retention-diagnosis.md) [+W]
 
 ## Related Designs
 - 

@@ -37,7 +37,9 @@ An early elementary lesson example, inspired by a lesson taught by Olivia Lozano
 - Identifying and describing grade-level poetic devices while developing language in context
 
 ### Claims
+
 - Temporary Contingent Scaffolding Principle [+M]
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](../claims/expert-poetry-interpretive-strategies.md) [+W]
 
 ## Related Designs
 - 
