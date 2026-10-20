@@ -101,3 +101,4 @@ A systematic review and random-effects meta-analysis of randomized controlled tr
 - [Task difficulty (easy vs difficult simultaneous-equation problems) has significant main effects on intrinsic and extraneous cognitive load, but not on germane load](task-difficulty-raises-intrinsic-and-extraneous-but-not-germane-load-in-algebra.md) — related
 - [Proximal goals and ability attributional feedback for early learning raise self-efficacy more than distant goals and effort feedback, by a review's report of earlier studies](proximal-goals-feedback-peer-models-build-learning-efficacy.md) — related
 - [Optimal task design determined in laboratory studies may depend on learners' level of effort-by-allocation](task-design-depends-on-effort-allocation.md) — related
+- [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related

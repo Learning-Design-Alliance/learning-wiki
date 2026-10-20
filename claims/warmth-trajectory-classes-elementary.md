@@ -47,3 +47,4 @@ Growth mixture modeling of teacher-reported warmth (grades 1-5) in Results: boys
 - [Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories](risk-children-overrepresented-adverse-trajectories.md) — related
 - [Low warmth trajectories predict lower achievement gains for boys but not for girls](warmth-trajectories-boys-not-girls.md) — related
 - [Teacher-student conflict follows distinct longitudinal trajectory classes across elementary school, including low-stable, low-increasing, high-declining, and (for boys only) high-stable patterns](conflict-trajectory-classes-elementary.md) — related
+- [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related

@@ -52,3 +52,4 @@ PLS-SEM structural model with the three psychological needs predicting objective
 - [Perceived competence predicts autonomous motivation for AI use but not autonomy support for AI use](competence-predicts-autonomous-motivation-not-autonomy-support.md) — related
 - [The comprehensive psychological need satisfaction configuration (competence core) has the highest coverage for high learning engagement, with GAI use unconstrained](comprehensive-need-satisfaction-configuration-principal.md) — related
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related
+- [Autonomy shows a strong content signal: 53 of 64 outcomes satisfy the a priori autonomy rule, with exceptions for self-efficacy (competence) and collegial support (relatedness)](autonomy-content-signal-c2.md) — related

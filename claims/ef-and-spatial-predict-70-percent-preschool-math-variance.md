@@ -50,3 +50,4 @@ Final hierarchical regression (Model 3) in a longitudinal study of 44 children t
 - [Spatial assembly skill measured at age 3 (TOSA) strongly correlates with mathematics performance one year later at age 4](tosa-age-3-predicts-age-4-math.md) — related
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
 - [Vocabulary (PPVT) is not a significant unique predictor of preschool mathematics once EF and spatial skills are in the model, despite alone accounting for 41% of variance](ppvt-not-unique-math-predictor.md) — related
+- [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related

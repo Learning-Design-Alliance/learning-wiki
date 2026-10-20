@@ -67,3 +67,4 @@ As part of RQ1, the review coded disciplinary origin (first author's affiliation
 - [Inconsistent terminology across agencies and restrictive data-sharing rules are central barriers to identifying and serving highly mobile youth in both states](terminology-and-data-sharing-barriers-hmy.md) — related
 - [The most frequently adapted instruments predate the DSM-5, including Stone's 1987 Autism Knowledge Survey (adapted six times) and Olley et al.'s 1981 attitude scale](outdated-instrument-adaptation-lineage-autism-teacher-competence.md) — related
 - [School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation](school-belonging-definitional-ambiguity.md) — related
+- [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](ct-processes-over-dispositions-pjbl.md) — related

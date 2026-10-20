@@ -48,3 +48,4 @@ Path analysis of cross-sectional survey data from 600 adolescents in seven Harle
 ## Related Claims
 - [Self-efficacy moderates the mediating role of SRL between school belonging and mastery, with the strongest mediation for low-efficacy students](moderated-mediation-belonging-srl-efficacy.md) — related
 - [Self-efficacy did not significantly moderate the mediation of the value-to-mastery relation through SRL](no-efficacy-moderation-value-path.md) — a narrower finding that bears on this claim
+- [Belonging mediates the relationship between racial/ethnic identity and both academic achievement and emotional symptoms](belonging-mediates-identity-achievement.md) — related

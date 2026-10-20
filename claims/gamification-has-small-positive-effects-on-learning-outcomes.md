@@ -96,3 +96,5 @@ gamified vocabulary practice.
 - [Game benefits are similar in magnitude for cognitive and intrapersonal outcomes, while the single interpersonal outcome was not significant](cognitive-intrapersonal-similar-interpersonal-null.md) — related
 - [Digital game conditions produce significantly better learning outcomes than nongame conditions (g = 0.33) in media comparisons](digital-games-outperform-nongame-media-comparisons.md) — related
 - [Theoretically augmented game designs produce better learning outcomes than standard game versions (g = 0.34), with enhanced scaffolding designs showing g = 0.41](value-added-augmented-designs-benefit-learning.md) — related
+- [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](problem-driven-learning-small-positive-effect-motivation.md) — related
+- [Only about a third of K‑5 writing‑motivation studies explicitly referred to motivation theory to justify the design or choice of their motivation measure](weak-theoretical-rationale-motivation-measures.md) — related

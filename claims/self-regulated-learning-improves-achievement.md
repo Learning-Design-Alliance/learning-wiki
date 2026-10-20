@@ -293,3 +293,4 @@ Open questions that evidence entries should address include: which strategy fami
 - [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md) — a narrower finding that bears on this claim
 - [Cognitive Load Theory lacks a motivational focus, which becomes problematic when interpreting interventions that foster effortful learning strategies](clt-motivation-gap.md) — related
 - [Self-selected interventions tend to yield stronger effects on motivation and overall efficacy](self-selected-interventions-stronger-effects.md) — related
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related

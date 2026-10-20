@@ -46,3 +46,4 @@ A linear planned contrast (facts +3 to procedures −3) tested the type-of-knowl
 - [Generating examples produces overconfident judgments of learning, especially for principles and procedures](example-generation-overconfidence-judgment-bias.md) — related
 - [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](retention-transfer-scores-decrease-with-element-interactivity.md) — related
 - [The usefulness of induction and errorful learning varies with the type of terminal task being taught](task-type-moderates-induction-error-usefulness.md) — related
+- [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related

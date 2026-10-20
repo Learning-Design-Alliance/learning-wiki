@@ -13,7 +13,7 @@ generated:
 # Reading and Language
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 155 claims (95 show a difference, 24 mixed, 34 no difference, 2 unmarked) · 118 studies (34 causal, 28 associational, 21 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 26 of 118 report an effect size · 146 claims rest on one study
+> **Evidence** · 167 claims (101 show a difference, 25 mixed, 39 no difference, 2 unmarked) · 122 studies (34 causal, 28 associational, 25 quant-synthesis, 21 review, 7 theoretical, 4 design, 3 qualitative), `q1`–`q4` · 28 of 122 report an effect size · 158 claims rest on one study
 
 ## Description
 What a learner can read without effort, and whether the language of instruction is the one they think in. LVN's largest factor family — decoding, vocabulary, fluency, composition, disciplinary literacy and language of instruction all sit here. The load-bearing fact is that decoding which is not automatic spends the same budget comprehension needs, so a reading problem presents as a thinking problem [+S].
@@ -206,6 +206,18 @@ What a learner can read without effort, and whether the language of instruction 
 - [Verbal ability and Internet experience predict correct answering of comprehension questions about digital texts in e-learning](../claims/verbal-ability-internet-experience-predict-elearning-comprehension.md) [+M] — learners who differ on it differ in outcomes
 - [Phonological awareness and fluency show the largest effect-size relations with reading comprehension among Spanish-speaking children's essential reading components.](../claims/pa-fluency-largest-relations-comprehension-spanish.md) [+W] — learners who differ on it differ in outcomes
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
+- [Children/adolescents with poor literacy skills score poorer on foreign language phonological awareness, letter knowledge, and reading comprehension than peers with typical literacy skills](../claims/poor-literacy-lower-fl-phonological-awareness-letter-knowledge-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Children/adolescents with poor literacy skills show similar average foreign language receptive vocabulary knowledge to peers with typical literacy skills](../claims/poor-literacy-similar-fl-receptive-vocabulary.md) [-M] — learners who differ on it differ in outcomes
+- [Comprehension strategy use distinguished better ML readers more accurately than English reading fluency did](../claims/strategy-use-distinguishes-better-ml-readers.md) [+W] — learners who differ on it differ in outcomes
+- [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](../claims/l2-decoding-strong-relationship-english-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Explicit instruction in individual English word meanings, rich in-depth vocabulary instruction, visuals, L1 use, and word-learning strategies improved MLs' English vocabulary](../claims/vocabulary-instruction-practices-improve-ml-english-vocabulary.md) [+W] — instruction changes it
+- [Foreign language reading comprehension performance varies to a similar extent in poor and typical literacy groups](../claims/similar-variability-fl-reading-comprehension.md) [-M] — learners who differ on it differ in outcomes
+- [L1 (Spanish) reading comprehension is positively correlated with English reading comprehension, with the relationship weaker for students with lower English proficiency](../claims/l1-spanish-comprehension-correlates-english-comprehension.md) [+W] — learners who differ on it differ in outcomes
+- [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](../claims/l2-oral-language-correlates-english-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [Language pairing, onset age of instruction, and age of assessment showed no significant impact on foreign language word reading group differences](../claims/no-moderator-effects-fl-word-reading.md) [-M] — an instructional effect differs with it
+- [Morphology instruction shows no clear effect on reading comprehension outcomes at immediate post-test](../claims/morphology-instruction-no-reading-comprehension-effect.md) [-M] — instruction changes it
+- [No clear differential effects of morphology instruction by child factors: age, reading ability, SES, or linguistic background](../claims/morphology-no-child-factor-moderators.md) [-M] — an instructional effect differs with it
+- [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [~W] — instruction changes it
 
 ## The evidence by question
 - *Does a learner's oral language and vocabulary predict how well they come to read and understand texts?* [A 1997 conference paper reports, citing Sticht, a positive correlation between preschool oral language skills and later reading achievement](../claims/oral-language-predicts-reading-achievement.md) [+W]

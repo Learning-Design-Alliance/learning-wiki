@@ -69,3 +69,4 @@ Sex-stratified LMM contrasts on subcortical volumes in the matched ABCD sample. 
 - [Bullied preadolescent children have lower cognitive scores than non-bullied peers](bullying-associated-with-lower-cognitive-scores.md) — related
 - [Bullied preadolescents show larger cortical volumes in left entorhinal, left superior parietal, and right fusiform regions than matched non-bullied peers](bullying-larger-cortical-volumes-entorhinal-parietal-fusiform.md)
 - [Girls' social problem-solving scores exceed boys' overall and in the Turkish sample but not in the British sample](girls-higher-spsic-turkish-not-british.md)
+- [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related

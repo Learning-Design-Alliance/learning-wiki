@@ -93,3 +93,4 @@ The review synthesises behavioural outcomes across three guiding-analytics studi
 - [LA usage in K–12 mathematics has a generally positive effect on student learning, with high-performing students benefiting most](la-positive-effect-high-performers-benefit-most-k12-math.md) — related
 - [Teacher use of LA for DBDM makes DLS use more effective for learning, and teacher support increases student usage](teacher-dbdm-use-increases-dls-effectiveness.md) — related
 - [Poorly designed or misused assessment practices can harm students through increased anxiety, lost learning time, and deficit-based messages](poor-assessment-practices-harm-students-anxiety-lost-time.md) — related
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related

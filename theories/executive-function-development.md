@@ -12,7 +12,7 @@ generated:
 # Executive Function Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 192 claims (88 for, 100 mixed, 4 against) · 105 studies (60 associational, 19 review, 15 causal, 8 quant-synthesis, 3 theoretical), `q1`–`q4` · 42 of 105 report an effect size · 184 claims rest on one study
+> **Evidence** · 193 claims (88 for, 101 mixed, 4 against) · 106 studies (60 associational, 19 review, 15 causal, 9 quant-synthesis, 3 theoretical), `q1`–`q4` · 42 of 106 report an effect size · 185 claims rest on one study
 
 ## Description
 Executive functions are the self-regulatory processes that let a person inhibit an impulsive response, flexibly shift between tasks or perspectives, hold and manipulate information in mind, and organize behavior toward a goal rather than react automatically to the immediate situation. They emerge gradually starting in early childhood and continue developing through adolescence, driven both by brain maturation — particularly of the prefrontal cortex, which matures later than most other brain regions — and by experience (Fay-Stammbach, Hawes, & Meredith, 2014).
@@ -233,6 +233,7 @@ Executive function is closely tied to, but distinct from, adolescent risk-taking
 - [In e-learning text comprehension, higher working memory and lower self-reported navigation behavior predict better comprehension](../claims/wm-positive-navigation-negative-elearning-comprehension.md) [~W]
 - [Executive function deficits in comorbid RDMD show some evidence of under-additivity, especially in inhibition, shifting, and updating](../claims/rdmd-executive-function-under-additivity.md) [~W]
 - [School meditation studies show significant improvements on several cognitive functioning measures, though effects vary by measure and study](../claims/meditation-improves-cognitive-functioning-measures.md) [~W]
+- [Instructional moderators: effects significant against passive controls and for researcher-delivered, high-dose, and experimenter-designed trained-item tasks, but moderator contrasts not significant](../claims/morphology-moderators-control-type-dose-instructor-task.md) [~W]
 
 ## Related Theories
 

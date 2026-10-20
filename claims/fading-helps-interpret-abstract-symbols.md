@@ -56,3 +56,5 @@ Theoretical argument from the review's abstract, presented as the first of four 
 - [Concreteness fading provides advantages beyond the sum of the benefits of concrete and abstract materials considered independently](manipulatives-require-connection-to-concept.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
+- [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — related
+- [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related

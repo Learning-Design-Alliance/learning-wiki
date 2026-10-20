@@ -50,3 +50,4 @@ Random effects models estimated separate decoding-type effect sizes, each drawn 
 - [Pseudoword decoding, orthographic knowledge, and phonological awareness show moderate relationships with adult reading comprehension (rs .34–.42)](moderate-metalinguistic-pseudoword-adult-comprehension.md) — related
 - [Six component reading skills show strong average relationships with reading comprehension in struggling adult readers (rs ≥ .50)](six-strong-component-skills-adult-reading-comprehension.md) — related
 - [Correlations among reading and reading-related measures were much lower than expected, indicating poor integration of skills in struggling adult readers](poor-integration-low-correlations-adult-readers.md) — related
+- [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](l2-decoding-strong-relationship-english-comprehension.md) — related

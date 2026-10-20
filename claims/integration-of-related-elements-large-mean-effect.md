@@ -49,3 +49,4 @@ Random-effects meta-analysis of 50 effects representing 2375 students from 29 jo
 - [The learning benefit of increasing integration is substantially larger for high element interactivity (complex) materials than for low element interactivity materials](element-interactivity-moderates-contiguity-effect.md) — a narrower finding that bears on this claim
 - [Cognitive load effects including integration benefits may reverse for more experienced learners, whose schemas make integrated additional information redundant](expertise-reversal-split-attention-redundancy-review.md) — related
 - [Spatial and temporal contiguity effects do not differ significantly in mean magnitude](spatial-temporal-contiguity-equivalent-magnitudes.md) — a narrower finding that bears on this claim
+- [Split-attention and redundancy effects occur for high element interactivity material but disappear for low element interactivity material](load-effects-vanish-low-element-interactivity.md) — related

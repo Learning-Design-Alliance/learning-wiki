@@ -12,7 +12,7 @@ generated:
 # Critical Thinking
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 22 claims (16 for, 4 mixed, 2 against) · 21 studies (5 causal, 5 qualitative, 4 review, 4 associational, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 21 report an effect size · 22 claims rest on one study
+> **Evidence** · 23 claims (16 for, 5 mixed, 2 against) · 22 studies (5 causal, 5 review, 5 qualitative, 4 associational, 2 design, 1 quant-synthesis), `q1`–`q3` · 5 of 22 report an effect size · 23 claims rest on one study
 
 ## Description
 Critical thinking requires both a skill (analyzing the reliability and validity of information) and a disposition to actually apply that skill, in principle across any realm of knowledge, not only a single subject or topic (Halpern, 2003; Williams, Oliver, & Stockade, 2004). A critical thinker is not simply someone with a negative or fault-finding attitude; rather, the critical thinker asks key questions, evaluates evidence for ideas, reasons about problems logically and objectively, and expresses ideas and conclusions clearly and precisely — and can carry these habits of mind across more than one domain of life or knowledge.
@@ -62,6 +62,7 @@ Second, who should be taught critical thinking. Surveys have found that teachers
 - [The relation between metacognition and critical thinking is bidirectional: metacognition improves thinking skills and vice versa](../claims/metacognition-ct-bidirectional-relation.md) [~W]
 - [Expert scenarios across educational sectors position students as critical, agentic partners with AI who question and critique AI-generated content](../claims/students-critical-agentic-partners-with-ai-2030-scenarios.md) [+W]
 - [Sysadmins shift from producing solutions to evaluating, correcting, and refining GenAI output, which still requires human expertise](../claims/sysadmin-expertise-shifts-to-validating-genai-output.md) [+W]
+- [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](../claims/ct-processes-over-dispositions-pjbl.md) [~W]
 
 ## The evidence by question
 - *Does teaching critical thinking explicitly, rather than expecting it to emerge from other activities, improve learners' critical thinking, and does it transfer beyond the subject it was taught in?* [Direct CT instruction combined with modeling, coaching, and discussion yields more consistent CT improvement than implicit teaching strategies](../claims/direct-ct-instruction-outperforms-implicit-strategies.md) [+M]

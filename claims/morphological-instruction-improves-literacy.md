@@ -92,3 +92,6 @@ Meta-analysis of 22 peer-reviewed studies of morphological intervention with par
 - One year of STARI significantly improves word recognition, basic reading comprehension efficiency, and morphological awareness in struggling middle school readers — related
 - REDI improves preschool language and literacy outcomes with a mean end-of-preschool effect size of +0.23 — related
 - [Multisyllabic word-reading instruction for struggling readers in grades 4–9 has strong evidence, based on 32 studies](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — related
+- [Morphology instruction produces small-to-moderate improvements in children's spelling outcomes at immediate post-test](morphology-instruction-improves-spelling-posttest.md) — a narrower finding that bears on this claim
+- [Effects of morphology instruction are large for directly trained words in both reading and spelling](morphology-instruction-large-effects-trained-words.md) — a narrower finding that bears on this claim
+- [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related

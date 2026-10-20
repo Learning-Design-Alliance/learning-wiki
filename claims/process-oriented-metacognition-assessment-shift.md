@@ -46,3 +46,4 @@ The editor's observational assessment of methodological trends over the last dec
 
 - [The field of metacognition lacks a unified definition, impeding theoretical integration across disciplines](metacognition-lacks-unified-definition.md)
 - [Integrated multimodal SRL studies are increasing, but motivational and affective processes remain underrepresented and temporal alignment of data streams is rarely done](integrated-multimodal-srl-studies-affect-motivation-underrepresented.md) — related
+- [An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning](mw-multimodal-unobtrusive-27-percent-ml.md) — related

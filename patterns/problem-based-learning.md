@@ -29,7 +29,7 @@ grain_size: unit
 # Problem-Based Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 56 claims (15 for, 37 mixed, 4 against) · 43 studies (14 causal, 8 review, 7 theoretical, 5 qualitative, 4 quant-synthesis, 3 design, 2 associational), `q1`–`q4` · 6 of 43 report an effect size · 51 claims rest on one study
+> **Evidence** · 58 claims (15 for, 39 mixed, 4 against) · 45 studies (15 causal, 8 review, 7 theoretical, 5 quant-synthesis, 5 qualitative, 3 design, 2 associational), `q1`–`q4` · 7 of 45 report an effect size · 53 claims rest on one study
 
 ## Description and scope
 
@@ -145,6 +145,11 @@ Record: **problem and its framing → each learner's first response → resource
 [Problem-based learning](../elements/problem-based-learning.md), [problem scenario](../elements/problem-scenario.md), [solution development](../elements/solution-development.md), [invention](../elements/invention.md), [scaffolding](../elements/scaffolding.md), [case-based learning](../elements/case-based-learning.md), [group roles](../elements/group-roles.md), [feedback](../elements/feedback.md) and [reflection](../elements/reflection.md).
 
 This pattern is scoped to problem-centred units in which an explicit consolidation of target content is planned. Fully self-directed inquiry with no consolidation, assessment of whole PBL curricula, and learner groups below the ages in the evidence need distinct configurations and evidence. The wiki records no direct comparison of whole PBL curricula with conventional instruction, and the diagnostic branches above remain to be tested with actual learners.
+
+## Claims
+
+- [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](../claims/prior-knowledge-correlates-with-load-types.md) [~W]
+- [Creating products as part of problem-driven learning does not change its effect on motivation](../claims/product-creation-no-motivation-difference.md) [~W]
 
 ## Related Patterns
 - [Anchored Instruction](anchored-instruction.md)

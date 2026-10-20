@@ -56,3 +56,4 @@ Hierarchical regression analyses of the LOGIC longitudinal sample (assessments a
 - [Phonological awareness and verbal working memory are the most consistently unique domain general predictors of grade 1 math outcomes](phonological-awareness-verbal-wm-predict-math.md) — a narrower finding that bears on this claim
 - [Working memory, processing speed, and verbal comprehension weaknesses are shared across reading and math deficits](shared-wm-speed-verbal-comprehension-rd-md.md) — a narrower finding that bears on this claim
 - [Complexity of children's naturalistic memory reports predicts reading ability over and above IQ](memory-report-complexity-predicts-reading-ability.md) — related
+- [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related

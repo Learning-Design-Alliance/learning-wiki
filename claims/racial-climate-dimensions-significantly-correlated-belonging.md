@@ -48,3 +48,4 @@ Meta-analysis of 77 studies and 276 effect sizes using three-level random-effect
 ## Related Claims
 - [Color-evasive socialization shows no significant association with school belonging, unlike the other socialization dimensions](color-evasive-socialization-no-significant-association-belonging.md) — a narrower finding that bears on this claim
 - [Country, marginalized group membership, school level, and publication type were tested as moderators of racial climate–belonging associations](moderators-of-racial-climate-belonging-associations.md) — related
+- [School racial climate subscales showed positive relationships with motivational constructs including interest, belonging, and utility value](school-racial-climate-positive-motivational-relationships.md) — related

@@ -45,3 +45,4 @@ Systematic scoping review with a preregistered search across multiple databases 
 ## Related Claims
 - [Most studies provide an explicit definition of motivation regulation, and most definitions describe complex action programs such as strategies](motivation-regulation-definitions-explicit-and-action-program-based.md) — related
 - [The evidence map reveals gaps: little is known about motivation regulation in pre- and primary school children, its development across school years, and its contextual characteristics](motivation-regulation-evidence-gaps-children-context.md) — related
+- [School climate measurement relies heavily on student self-report questionnaires, with families and observational methods rarely represented](student-selfreport-dominates-climate-measurement.md) — related

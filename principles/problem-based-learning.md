@@ -31,7 +31,7 @@ sources:
 # Problem-based Learning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 48 claims (17 for, 28 mixed, 3 against) · 45 studies (9 causal, 9 review, 8 qualitative, 7 quant-synthesis, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 6 of 45 report an effect size · 43 claims rest on one study
+> **Evidence** · 50 claims (18 for, 29 mixed, 3 against) · 47 studies (10 review, 9 causal, 8 quant-synthesis, 8 qualitative, 6 theoretical, 4 associational, 2 design), `q1`–`q4` · 7 of 47 report an effect size · 45 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,11 @@ The problem-first expectation should weaken if comparable learners, with compara
 An engaging problem phase, an immediate conceptual gain, delayed retention, transfer to practice and the learner's valued use are separate claims. The evidence recorded here does not establish an optimal amount of guidance, a readiness threshold for open problems, or the effect of whole PBL curricula against conventional instruction.
 
 At the curriculum level, the expectation of a small and variable average should change if bias-corrected syntheses with stated comparators and horizons show a consistent effect, or if moderators (guidance, consolidation, prior knowledge, outcome type) are found that explain the variation.
+
+## Claims
+
+- [The review identifies design issues in P(j)BL effect studies, such as lack of control groups, that question reported outcomes](../claims/pjbl-effect-study-design-issues.md) [+W]
+- [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](../claims/problem-driven-learning-small-positive-effect-motivation.md) [~W]
 
 ## Related Principles
 - [Inquiry-based Learning](inquiry-based-learning.md) — PBL is one inquiry form centered on authentic problems.

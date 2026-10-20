@@ -69,3 +69,4 @@ Publication bias assessment using funnel plots, trim-and-fill, and Egger's regre
 - [Writing interventions improve writing quality, the most frequently assessed outcome, with an effect of 0.33 for US ELL students](writing-quality-effect-us-ell.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related

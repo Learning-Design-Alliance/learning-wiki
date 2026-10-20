@@ -225,3 +225,4 @@ Seventy seventh-grade students learning to solve algebra equations were randomly
 - [PS-I fosters learning only if specific design features (contrasting cases or building instruction on student solutions) are implemented](ps-i-fosters-learning-only-with-contrasting-cases-or-student-solutions.md) — related
 - [Activation improves learning.](activation-improves-learning.md) — retrieval of relevant prior knowledge supplies the source analog
 - [Advance organizers improve learning.](advance-organizers-improve-learning.md) — organizers can frame new material as analogous to known structures
+- [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — related

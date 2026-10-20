@@ -52,3 +52,4 @@ GEE model predicting negative valence monitoring duration from physiological mea
 - [Students' reactivity to monitoring events showed no significant correlation with EDA peaks.](no-correlation-eda-peaks-reactivity.md) — related
 - [Higher equality of participation in monitoring interactions and more monitoring with positive valence predict better collaborative task performance](equality-and-positive-valence-monitoring-predict-collaborative-performance.md) — related
 - [Real collaborative groups show higher physiological synchrony than randomly matched false groups on %REC, %DET, and ADL](real-groups-higher-synchrony-than-false-groups.md) — related
+- [During an exam, students' expectancy for success decreased and the change in expectancy was negatively associated with change in salivary cortisol](expectancy-decline-linked-cortisol-exam.md) — related

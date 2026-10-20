@@ -12,7 +12,7 @@ generated:
 # Self-Efficacy Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 66 claims (45 for, 19 mixed, 2 against) · 49 studies (24 associational, 12 causal, 11 review, 1 design, 1 theoretical), `q1`–`q3` · 10 of 49 report an effect size · 65 claims rest on one study
+> **Evidence** · 68 claims (47 for, 19 mixed, 2 against) · 50 studies (24 associational, 12 causal, 12 review, 1 design, 1 theoretical), `q1`–`q3` · 11 of 50 report an effect size · 67 claims rest on one study
 
 ## Description
 Self-efficacy is "people's beliefs in their ability to perform a course of action required to achieve a specific task" (Bandura, 1977). The theory's central claim is specificity: self-efficacy is not a general trait like self-confidence or self-concept, and it is not the same as documented ability. A learner's self-efficacy for "correctly subtracting fractions" is a distinct belief from their self-efficacy for "writing a persuasive essay," even though both might contribute to a broader (and much less predictive) sense of being "good at school" (Seifert & Sutton, 2018). Because self-efficacy beliefs are self-constructed rather than measured, they can diverge from true capability in either direction; the most functional level is at or slightly above actual capacity (Bandura, 1997).
@@ -113,6 +113,8 @@ High self-efficacy for a task produces three effects, each with an upside and a 
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](../claims/no-feedback-effort-associations-null.md) [-W]
 - [Feedback valence affects post-task self-efficacy, challenge, and threat: negative feedback lowers self-efficacy and challenge and raises threat (Experiments 1 and 2)](../claims/feedback-valence-affects-self-efficacy-challenge-threat.md) [+M]
 - [The effect of feedback valence on expected effort required is fully mediated by self-efficacy (Experiments 1 and 2) and threat (Experiment 1)](../claims/feedback-effort-mediated-by-self-efficacy-threat.md) [+M]
+- [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](../claims/writing-apprehension-negative-correlation-self-efficacy.md) [+W] — attached 2026-10-20 from Kim M. Mitchell et al. (2023), which proposed "Writing self-efficacy as beliefs about writing ability within Bandura's social cognitive framework of triadic reciprocality".
+- [Writing self-efficacy typically improves over a single academic term but fluctuates and drops when students enter new writing contexts](../claims/writing-self-efficacy-change-over-time.md) [+W] — attached 2026-10-20 from Kim M. Mitchell et al. (2023), which proposed "Writing self-efficacy as beliefs about writing ability within Bandura's social cognitive framework of triadic reciprocality".
 
 ## The evidence by question
 

@@ -46,3 +46,4 @@ Leave-one-out sensitivity analysis re-estimating the productivity meta-analysis 
 ## Related Claims
 - [Pooled effect sizes for deployment on mental health are robust across components of methodological quality in sensitivity analyses](deployment-meta-analysis-robust-sensitivity.md) — related
 - Meta-analytic estimates are robust to the assumed within-study effect size correlation in sensitivity analyses — related
+- [Pooled active-break effect estimates are robust to sensitivity analyses varying within-study correlation and excluding individual studies](active-breaks-pooled-estimates-robust-sensitivity.md) — related

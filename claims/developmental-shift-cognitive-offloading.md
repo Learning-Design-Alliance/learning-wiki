@@ -52,3 +52,4 @@ Narrative review attribution: the article reports a word-pair memory task study 
 - [Productive cognitive offloading to AI can shift into cognitive surrender, abdicating learner intellectual agency](cognitive-offloading-shifts-to-cognitive-surrender.md) — related
 - [Developmental change in offloading reflects metacognitive control, not knowledge](child-development-offloading-selectivity.md) — related
 - [Young children can self-initiate external metacognitive strategies and transfer them across contexts, with flexibility increasing over the preschool and early school years](young-children-self-initiate-external-metacognitive-strategies.md) — related
+- [Some participants used external memory aids such as notes or web sources during practice, and Experiment 2 analyses were checked excluding these participants.](external-memory-aid-use-during-practice.md) — related

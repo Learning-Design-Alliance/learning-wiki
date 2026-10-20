@@ -62,4 +62,4 @@ Follow-up t-tests comparing the prompt and no-prompt groups at the during-learni
 
 
 ## Related Claims
--
+- [In Study 1, differences in self-efficacy between the three conditions did not reach significance](chattutor-self-efficacy-null-study1.md) — related

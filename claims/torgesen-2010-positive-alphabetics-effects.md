@@ -81,3 +81,4 @@ Appendix C.2 prints WRMT-R Word Attack means of 113.70 (12.10) for LiPS vs 99.50
 - [SFA® shows positive effects on alphabetics for beginning readers in grades K–4](sfa-positive-effects-alphabetics-k-4.md) — related
 - [Multisyllabic word-reading instruction improves reading for students in grades 4–9 with reading difficulties, with strong supporting evidence](strong-evidence-multisyllabic-word-reading-instruction-grades-4-9.md) — a broader claim this one bears on
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
+- [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related

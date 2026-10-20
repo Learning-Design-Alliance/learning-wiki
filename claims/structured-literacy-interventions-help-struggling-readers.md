@@ -95,3 +95,6 @@ A meta-analysis of 24 identified studies (16 with sufficient data for pooling; 1
 - [Adults who completed supplemental basic-skills tutoring showed significant pre-to-post gains across a battery of decoding, word recognition, fluency, and comprehension measures](adult-completers-significant-gains-basic-reading.md) — related
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — related
+- [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](no-significant-differences-between-word-reading-approaches.md) — related
+- [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](prior-adolescent-reading-reviews-wide-effect-range.md) — related
+- [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](word-reading-interventions-outcome-type-effects.md) — related

@@ -27,6 +27,7 @@ The study contributes an empirical framework, built on the socially shared regul
 ## Related Research Methods
 
 - [Four observable group-level emotion regulation strategies coding scheme](four-observable-group-level-emotion-regulation-strategies-coding-scheme.md)
+- [Simulation video coding scheme for behaviors and SRL/SSRL strategies](simulation-video-coding-scheme-for-behaviors-and-srlssrl-strategies.md)
 
 ## Key Sources
 - Sobocinski, M., Järvelä, S., Malmberg, J., Dindar, M., Isosalo, A., & Noponen, K. (2020). How does monitoring set the stage for adaptive regulation or maladaptive behavior in collaborative learning? Metacognition and Learning. https://doi.org/10.1007/s11409-020-09224-w

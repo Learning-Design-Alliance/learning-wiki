@@ -50,3 +50,4 @@ Analysis of 2013-14 REACH scores by teacher race/ethnicity, adjusted for the sch
 - [Minority teachers' lower observation scores are largely attributable to school characteristics, and no race/ethnicity differences appear on value-added scores](teacher-race-observation-gaps-explained-by-school-poverty.md) — possibly the same claim (merge candidate)
 - [Observation scores have a stronger relationship with school poverty than value-added scores](observation-scores-stronger-school-poverty-relationship-than-value-added.md) — related
 - [Observation scores have a stronger relationship with school characteristics such as poverty than value-added scores](observation-scores-stronger-school-characteristic-relationship.md) — related
+- [Understandings of valued thinking have been dominated by the voices of White, predominantly male scholars](white-male-scholars-dominated-valued-thinking.md) — related

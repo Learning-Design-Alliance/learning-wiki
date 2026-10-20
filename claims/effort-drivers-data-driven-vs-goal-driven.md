@@ -66,3 +66,4 @@ The commentary reports, citing Abel et al. (2024), an experiment on learners' pr
 - [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related
 - [Emotion affects motivation, which in turn affects mental effort investment during learning](emotion-affects-motivation-mental-effort.md) — related
 - [Invested mental effort and perceived task difficulty are significantly positively correlated at all measurement points except MP2.5, with correlations increasing as material complexity rises](effort-difficulty-positively-correlated-except-mp25.md) — related
+- [Motivational processes are proposed to be instrumental for essential as well as generative processing](motivation-essential-processing-claim.md) — related

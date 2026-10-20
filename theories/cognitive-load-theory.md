@@ -33,7 +33,7 @@ sources:
 # Cognitive Load Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 80 claims (48 for, 23 mixed, 9 against) · 65 studies (30 causal, 14 review, 11 quant-synthesis, 9 theoretical, 1 design), `q1`–`q4` · 11 of 65 report an effect size · 70 claims rest on one study
+> **Evidence** · 81 claims (49 for, 23 mixed, 9 against) · 66 studies (30 causal, 14 review, 11 quant-synthesis, 10 theoretical, 1 design), `q1`–`q4` · 11 of 66 report an effect size · 71 claims rest on one study
 
 ## Description
 Cognitive Load Theory (CLT) proposes that learning is constrained by the limited capacity of working memory. When the total cognitive demand of a learning task exceeds that capacity, learning breaks down — not because the learner lacks ability, but because the instructional design has exhausted the resources available for processing. The theory distinguishes three sources of load and argues that effective instruction reduces unnecessary load to free capacity for the mental work that actually builds schema.
@@ -148,6 +148,7 @@ CLT was developed by John Sweller and colleagues in the 1980s–1990s, drawing o
 - [Working memory demand increases with the complexity of arithmetic and math problems, including operand size and number of solution steps](../claims/working-memory-demand-increases-with-math-problem-complexity.md) [+W]
 - [Correlations of cognitive load types with learning outcomes and prior knowledge support CLT assumptions, and results support the three-factor model](../claims/criterion-validity-supports-three-factor-model.md) [+W] — attached 2026-10-19 from Felix Krieglstein et al. (2022), which proposed "Three-factor model of cognitive load: intrinsic, extraneous, and germane load additively contributing to overall load"; tests this page's relationship.
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](../claims/load-type-correlations-partially-contradict-clt.md) [-W] — attached 2026-10-19 from Felix Krieglstein et al. (2022), which proposed "Three-factor model of cognitive load: intrinsic, extraneous, and germane load additively contributing to overall load"; tests this page's relationship.
+- [Element interactivity can be estimated by counting interacting elements, illustrated with about 28 elements for solving a/b = c and about 25 for a composite geometry area problem](../claims/counting-interacting-elements-examples.md) [+W]
 
 ## The evidence by question
 

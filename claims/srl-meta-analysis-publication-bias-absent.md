@@ -63,3 +63,4 @@ Publication-bias assessment of the 21-study meta-analysis using a thesis-vs-arti
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
 - [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
 - [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related
+- [No evidence of reporting bias was found for the foreign language word reading SMD meta-analysis](no-reporting-bias-fl-word-reading.md) — related

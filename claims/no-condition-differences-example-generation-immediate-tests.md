@@ -49,3 +49,4 @@ Univariate ANOVA on the ratio of correctly solved problems averaged over the six
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [Erroneous examples and problem solving do not differ significantly on an immediate posttest](erroneous-examples-no-immediate-difference.md) — related
 - [In Experiment 1, I-PS students solved the initial problem better but PS-I students learned more from the subsequent instructional video](exp1-process-measures-problem-solving-and-quiz.md) — reports the opposite
+- [In Study 1, the three conditions did not differ significantly on the immediate post-test of conceptual knowledge](chattutor-immediate-posttest-null-study1.md) — related

@@ -13,7 +13,7 @@ generated:
 # Simple-to-complex sequencing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (6 for, 1 mixed) · 11 studies (4 causal, 4 review, 2 theoretical, 1 qualitative), `q2`–`q3` · 0 of 11 report an effect size · 4 claims rest on one study
+> **Evidence** · 10 claims (8 for, 1 mixed, 1 against) · 12 studies (5 causal, 4 review, 2 theoretical, 1 qualitative), `q2`–`q3` · 1 of 12 report an effect size · 7 claims rest on one study
 
 ## Description
 Simple-to-complex sequencing orders instruction so that learners first master basic, prerequisite concepts and skills before encountering more detailed, complex, or integrated ones. It is the default sequencing logic for subjects with cumulative knowledge structures — mathematics, languages, programming — where later content presupposes earlier content. The approach is central to [Elaboration Theory](../patterns/elaboration-theory.md), which prescribes starting with the simplest, most general representation of a topic (an "epitome") and progressively elaborating toward complexity.
@@ -53,6 +53,9 @@ Sequencing from simple to complex manages intrinsic cognitive load by ensuring t
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Students in simulator training encounter a progression from simplified low-fidelity tasks to more complex higher-fidelity tasks as a deliberate instructional logic.](../claims/simulator-task-progression-low-to-high-fidelity.md) [+W]
+- [Delayed post-learning assessments of ICL, ECL, and GCL do not differ between increasing and decreasing complexity sequences](../claims/delayed-assessments-invariant-to-sequence.md) [-W]
+- [ICL ratings track the manipulated complexity sequence: increasing across units in the increasing condition and decreasing in the decreasing condition](../claims/icl-ratings-track-complexity-sequence.md) [+W]
+- [ECL ratings also follow the complexity sequence, rising in the increasing condition and falling in the decreasing condition, though ECL was not manipulated](../claims/ecl-ratings-follow-complexity-sequence.md) [+W]
 
 ## The evidence by question
 

@@ -48,3 +48,4 @@ The editor's report of journal operating statistics: "In 2011, we received 89 ma
 - [Editors observe GenAI has improved surface correctness of manuscripts and increased submissions, but this does not lead to better research quality](genai-surface-quality-submission-quantity-not-quality.md)
 - [EDPR's time to first decision decreased from 50 days in 2006 to 25 days in 2013](edpr-decision-time-50-to-25-days.md) — related
 - [Educational Psychology Review publishes a variety of article types, not only review articles](edpr-publishes-variety-of-article-types.md) — related
+- [Manuscript submissions to Educational Psychology Review increased sharply between 2006 and 2008, which the editor attributes to timely, high-quality reviews and increasing journal visibility](epr-submissions-increased-2006-2008.md) — related

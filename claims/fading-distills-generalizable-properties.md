@@ -49,3 +49,4 @@ Theoretical argument from the review's abstract, presented as the fourth of four
 - [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
 - [Concreteness fading helps learners interpret ambiguous or opaque abstract symbols in terms of well-understood concrete objects](fading-helps-interpret-abstract-symbols.md) — related
 - [Concreteness fading enables learners to build a store of memorable images usable when abstract symbols lose meaning](fading-builds-memorable-images.md) — related
+- [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — related

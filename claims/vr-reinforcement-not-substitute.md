@@ -66,3 +66,4 @@ Discussion-level interpretation (attributed by the review to Hamilton et al., 20
 - [Immersive technologies are rarely adopted in robotics GBL/gamification but studies using them report heightened engagement, improved spatial reasoning, and enhanced perceived realism](immersive-tech-underused-positive-outcomes-robotics.md) — related
 - [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — related
 - [Video review raises learning interest under virtual simulation but not under hands-on activity](video-review-raises-interest-only-in-virtual-simulation.md) — related
+- [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — a narrower finding that bears on this claim

@@ -53,3 +53,5 @@ The essay reports, citing Szpunar et al. (2013), a comparison of interpolated-qu
 - [Pretesting enhances learning](pretesting-enhances-learning.md) — related
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
 - [Changing activities during lessons improves student attention during the activity and subsequent lecture segments](activity-changes-improve-lesson-attention.md) — related
+- [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — related
+- [Task-unrelated thoughts are consistently associated with lower test performance, accounting for approximately 7% of the variation in learning outcomes](tut-lower-test-performance-7-percent-variance.md) — related

@@ -13,7 +13,7 @@ generated:
 # Practice Testing
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 43 claims (26 for, 17 mixed) · 28 studies (13 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 28 report an effect size · 39 claims rest on one study
+> **Evidence** · 46 claims (27 for, 19 mixed) · 29 studies (14 causal, 6 quant-synthesis, 5 review, 2 associational, 1 qualitative, 1 theoretical), `q1`–`q4` · 13 of 29 report an effect size · 42 claims rest on one study
 
 ## Description
 Practice testing (retrieval practice) asks learners to recall or apply information from memory — via low- or no-stakes quizzes, flashcards, free recall, or problem-solving — before or instead of restudying. The act of successful retrieval itself strengthens memory and reveals gaps, making testing a learning event rather than merely an assessment event.
@@ -94,6 +94,9 @@ Retrieval practice produces substantially larger and more durable learning gains
 - [When total learning time is fixed, permitting learners to skip feedback after retrieval improves delayed final recall compared with mandatory feedback](../claims/skipping-feedback-fixed-time-improves-recall.md) [~W]
 - [A systematic review of 50 classroom experiments found retrieval practice yields medium-to-large benefits in most cases, but only 6% were conducted in non-WEIRD countries](../claims/retrieval-practice-review-50-classroom-experiments.md) [~W]
 - [Practice with feedback, regardless of feedback type, improves metacognitive calibration relative to lecture, reducing overconfidence by about 13 percentage points](../claims/practice-feedback-improves-metacognitive-calibration.md) [+W]
+- [Self-regulating students choose to complete multiple-choice practice questions until each item has been answered correctly about one time during practice.](../claims/srl-mc-practice-to-one-correct-answer.md) [+W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
+- [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](../claims/srl-mc-lower-final-test-less-time.md) [~W] — attached 2026-10-20 from Badali et al. (2023), which proposed "Self-regulated practice task with restudy, practice-test, and item-removal options".
+- [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](../claims/restudy-before-first-test-format-interaction.md) [~W]
 
 ## The evidence by question
 - *Does retrieving material (quizzes, practice tests, recall) improve later retention more than restudying it?* [Retrieval practice improves long-term retention](../claims/retrieval-practice-improves-retention.md) [+S]

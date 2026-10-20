@@ -26,6 +26,7 @@ Lumen Learning's online statistics courseware replaces or supplements textbooks 
 ## Components
 <!-- A programme's own frameworks, tools, indicators and instruments, as its sources describe them -->
 - **Lumen One Introduction to Statistics courseware**: Lumen One Introduction to Statistics is an online courseware product designed to replace traditional textbooks in gateway statistics courses. Content is "provided online as short segments of text with extensive graphics and video interspersed with interactive exercises." It includes student-facing components (Readiness Checks, Study Plans, Learn It text, Apply It activities, Fresh Take videos) and instructor-facing supports (a Faculty Engagement Center, automated messages, time-sensitive intervention flags, question banks). The courseware embeds diverse identities and real-world statistics applications, and automatically executes 13 of 27 surveyed EBT practices. (Barbara Means et al. (2026))
+- **Online interactive introductory statistics textbook implementing the practicing connections framework**: The article's design artifact is an online interactive textbook for introductory statistics developed by the authors, in which the framework's connection types and principles are instantiated. The book is organized around the practice of data analysis (explore variation, model variation, evaluate and compare models), three core concepts, and five key representations, with each page using a "struggle first" pedagogy asking students to answer questions before the relevant information is presented. R is interleaved throughout to reduce extraneous load and free resources for reflecting on connections. (Fries et al. (2020))
 
 ### Claims
 - [The number of evidence-based teaching practices enacted in courseware-using statistics classes is strongly associated with class-level affective engagement (r = 0.61).](../claims/ebt-enactment-affective-engagement-correlation.md) [+W]
@@ -40,8 +41,8 @@ Lumen Learning's online statistics courseware replaces or supplements textbooks 
 
 ## Key Sources
 - Barbara Means, Julie Neisler, Daniel Parker, Vanessa Peters Hinton, and Emily Pressler. (2026). Lessons From Implementing Courseware in Gateway Statistics Courses. Digital Promise. https://digitalpromise.dspacedirect.org/items/12bb84f5-0073-40e6-85bb-41561222891b
-
 <!-- merged 2026-10-10 from elements/lumen-one-intro-statistics-courseware ("Lumen One Introduction to Statistics courseware"), misfiled as a element and a duplicate of this page: its body as it stood. Its bullets this page lacked were added above.
+- Fries, L., Son, J. Y., Givvin, K. B., & Stigler, J. W. (2020). Practicing Connections: A Framework to Guide Instructional Design for Developing Understanding in Complex Domains. Educational Psychology Review. https://doi.org/10.1007/s10648-020-09561-x
 
 # Lumen One Introduction to Statistics courseware
 

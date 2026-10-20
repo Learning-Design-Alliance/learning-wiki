@@ -43,4 +43,6 @@ Systematic review (PRISMA) of 20 prospective studies with 6032 students aged 7�
 
 
 ## Related Claims
--
+- [Classroom active breaks show no statistically significant effect on attention in schoolchildren](active-breaks-no-significant-effect-attention.md) — reports the opposite
+- [Classroom active breaks show no statistically significant effect on inhibitory control in schoolchildren](active-breaks-no-significant-effect-inhibitory-control.md) — related
+- [Classroom active breaks produce a small but statistically significant positive effect on working memory in schoolchildren aged 6–16](active-breaks-small-positive-effect-working-memory.md) — related

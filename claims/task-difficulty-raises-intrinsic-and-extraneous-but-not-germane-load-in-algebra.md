@@ -72,3 +72,4 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - Organization and task analysis were the most difficult problems in New York state writing competency testing — related
 - [Task difficulty increases hesitations, with significantly more hesitations on Medium and Hard tasks than Easy tasks](task-difficulty-increases-hesitations-scratch-videos.md) — related
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
+- [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related

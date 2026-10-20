@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 44 claims (28 for, 15 mixed, 1 against) · 38 studies (11 review, 10 associational, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 9 of 38 report an effect size · 38 claims rest on one study
+> **Evidence** · 47 claims (31 for, 15 mixed, 1 against) · 39 studies (11 review, 11 associational, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 9 of 39 report an effect size · 41 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -98,6 +98,9 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](../claims/extrinsic-rewards-deplete-intrinsic-motivation.md) [+W] — attached 2026-10-19 from Angeline S. Lillard (2019), which proposed "Self-determination as Montessori's central premise, with evidence-based corollaries"; tests this page's relationship.
 - [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](../claims/autonomous-vs-controlled-motivation-achievement.md) [+W]
 - [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](../claims/basic-needs-satisfaction-autonomous-motivation.md) [+W]
+- [The BPNSFS 3×2 six-facet structure (three needs × satisfaction/frustration) fits Australian school-leader data excellently and better than models collapsing valence](../claims/bpnsfs-3x2-structure-excellent-fit-school-leaders.md) [+W] — attached 2026-10-20 from Marsh et al. (2025), which proposed "SDT dual-process model of need satisfaction and frustration applied to constrained-autonomy leadership roles".
+- [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](../claims/competence-relatedness-content-pathways-c3.md) [+W]
+- [Three-facet MTMM (content × valence × time) supports the SDT 3×2 architecture, with content the stronger separative force and 20 of 21 planned comparisons supported](../claims/three-facet-mtmm-content-valence.md) [+W]
 
 ## The evidence by question
 

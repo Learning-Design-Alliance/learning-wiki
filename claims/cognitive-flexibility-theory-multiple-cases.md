@@ -98,3 +98,4 @@ This random-effects meta-analysis covers 57 laboratory and classroom experiments
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related
 - [A flexible hypertext course group averaged 76% on achievement tests against 59% for a direct-design group that studied different software, so the contrast confounds design with content](cft-hypertext-design-higher-achievement-scores.md) — a narrower finding that bears on this claim
 - Drawing on the positional reflexivity of two researchers with distinct perspectives can function as a strength for cogenerating themes and theory in policy evaluation — related
+- [Deep understanding is characterized by coherent, interconnected mental schemas that make knowledge transferable](understanding-as-connected-coherent-schemas.md) — related

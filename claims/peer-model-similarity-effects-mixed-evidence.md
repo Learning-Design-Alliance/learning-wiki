@@ -65,3 +65,4 @@ Lirgg and Feltz exposed sixth-grade girls to skilled or unskilled teacher or pee
 - [Cognitive modeling raised division skill more than didactic instruction while both raised self-efficacy equally, with self-efficacy mediating treatment effects](cognitive-modeling-versus-didactic-instruction-division.md) — related
 - [Coping versus mastery model benefits depend on task difficulty and observers' prior success](coping-versus-mastery-models-task-difficulty.md) — related
 - [Self-modeling raised self-efficacy for learning, motivation, and posttest skill among below-grade-level children](self-modeling-raises-efficacy-and-skill.md) — related
+- [Writing interventions had variable effects on writing self-efficacy and performance, with coping models outperforming mastery models and no-model controls in sentence-combining training](writing-interventions-variable-effects-coping-model.md) — related

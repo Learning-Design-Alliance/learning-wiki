@@ -50,3 +50,4 @@ Interactions between gender and each ACE operationalisation were tested in the m
 - [ACE scores show a graded positive association with internalizing behavior trajectories from age 3 to 14](ace-score-graded-internalizing-trajectories.md)
 - [Harsh parenting and physical punishment show the strongest individual-ACE associations with externalizing behavior](harsh-parenting-physical-punishment-externalizing.md)
 - [Parental discord and parental depression show the strongest individual-ACE associations with internalizing behavior](parental-discord-depression-internalizing.md)
+- [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related

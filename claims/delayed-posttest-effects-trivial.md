@@ -67,3 +67,4 @@ Delayed-posttest synthesis (k = 7 for reading comprehension). The immediate effe
 - [Effects on affirming motivations are larger when total intervention duration is longer and when the share of boys in the sample is higher](duration-and-gender-moderators.md) — related
 - [Interventions delivered by researchers have larger effects on reading comprehension than interventions delivered by others, mostly teachers](researcher-delivered-larger-comprehension-effects.md) — related
 - [Study design and post-test timing show only borderline moderating effects in between-subject analyses, not significant in within-subject analyses](borderline-moderators-design-and-post-test-timing.md) — related
+- [Problem-driven learning shows significantly smaller effects on students' reasons for studying than on other motivation constructs](reasons-for-studying-smaller-effect.md) — related

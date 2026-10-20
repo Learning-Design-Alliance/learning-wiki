@@ -64,3 +64,5 @@ Narrative review attribution: the article reports Pedler et al.'s (2022) finding
 - [Students report higher engagement and motivation with the AI tutor, with comparable enjoyment and growth mindset](ai-tutor-engagement-motivation-higher.md) — related
 - [School belonging and centrality are associated with higher intrinsic motivation, but neither buffers the associations between stigma awareness and academic attitudes](school-belonging-centrality-compensation-no-buffering.md) — related
 - [A sense of belonging is firmly linked with improved student attainment, increased learners' satisfaction and reduced attrition rates in campus-based learning](sob-linked-attainment-satisfaction-attrition.md) — possibly the same claim (merge candidate)
+- [Belongingness is more strongly associated with academic achievement among marginalized students than among white students](belonging-achievement-stronger-marginalized-students.md) — a narrower finding that bears on this claim
+- [Academic emotions moderate the relationship between belonging and achievement](emotions-moderate-belonging-achievement.md) — related

@@ -69,3 +69,4 @@ Experiment 1 analysis of the proportion of items reaching criteria of 0, 1, 2, o
 - [Repeated successful retrieval during learning predicted final recall in both experiments](repeated-retrieval-success-predicts-final-recall.md) — related
 - [Retrieval practice instructions improved final recall of translations in Experiment 1](retrieval-instructions-improve-final-recall-exp1.md) — related
 - [Socratic participants required nearly twice as many attempts to reach the 80% mastery threshold as Full participants (d = -2.01), and 58% of their abandoned exercises never reached the threshold](socratic-more-attempts-many-never-reach-mastery.md) — related
+- [Self-regulated multiple-choice students scored lower on final tests than experimenter-controlled groups but spent less time practicing, making their one-correct criterion comparatively time-efficient.](srl-mc-lower-final-test-less-time.md) — related

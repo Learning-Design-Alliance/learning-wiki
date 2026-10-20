@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 64 claims (38 for, 23 mixed, 2 against, 1 unmarked) · 52 studies (23 associational, 11 causal, 11 review, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 14 of 52 report an effect size · 60 claims rest on one study
+> **Evidence** · 65 claims (39 for, 23 mixed, 2 against, 1 unmarked) · 53 studies (24 associational, 11 causal, 11 review, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 61 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -112,6 +112,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - [The effect of feedback valence on expected effort required is fully mediated by self-efficacy (Experiments 1 and 2) and threat (Experiment 1)](../claims/feedback-effort-mediated-by-self-efficacy-threat.md) [+M]
 - [Feedback valence affects post-task self-efficacy, challenge, and threat: negative feedback lowers self-efficacy and challenge and raises threat (Experiments 1 and 2)](../claims/feedback-valence-affects-self-efficacy-challenge-threat.md) [+M]
 - [In the absence of feedback, self-efficacy after problem solving was not associated with invested, expected, or willingness-to-invest effort, and threat was not associated with any effort measure (Experiments 3 and 4)](../claims/no-feedback-effort-associations-null.md) [-W]
+- [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](../claims/competence-relatedness-content-pathways-c3.md) [+W]
 
 ## The evidence by question
 

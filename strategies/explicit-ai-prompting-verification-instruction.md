@@ -55,6 +55,7 @@ The article recommends that curricula incorporate explicit instruction in effect
 - [Scaffolded AI integration with teacher training and reflective tasks to reduce over-reliance](scaffolded-ai-integration-teacher-training-reflective-tasks.md)
 - [Train teachers in prompt engineering, evaluating AI-generated responses, ethical and privacy considerations, and integrating AI outputs into pedagogical decision-making](teacher-training-ai-tools-prompt-evaluation-ethics.md)
 - [Frame GenAI labs explicitly as verification and repair practice alongside prompting](frame-genai-labs-as-verification-and-repair-practice.md)
+- [Raise student and colleague awareness of AI-related privacy risks through research-ethics curricula](ai-privacy-education-research-curricula.md)
 
 ## Examples
 -

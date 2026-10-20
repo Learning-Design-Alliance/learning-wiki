@@ -176,6 +176,7 @@ Behaviour, civic commitment, ethical reasoning, attitudes, achievement and what 
 - [Ubuntu philosophy sessions to build tutor community and student camaraderie](../strategies/ubuntu-philosophy-tutor-pl-sessions.md)
 - [Return observational field-notes to teachers and discuss critical episodes in team meetings as dialogical data generation](../strategies/field-notes-dialogical-data-generation.md)
 - [Create dialogic spaces where students and educators negotiate GenAI dilemmas together](../strategies/dialogic-spaces-genai-negotiation.md)
+- [Teachers foster citizenship through everyday practices: modeling, feedback, and social referencing](../strategies/teacher-everyday-practices-foster-citizenship.md)
 
 ## Key Sources
 - Elkind, D., & Sweet, F. (2004). How to do character education. Retrieved from http://www.goodcharacter.com/Article_4.html

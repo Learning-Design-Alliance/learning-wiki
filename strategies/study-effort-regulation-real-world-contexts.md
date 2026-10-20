@@ -49,6 +49,7 @@ The commentary recommends moving beyond isolated laboratory tasks toward real-wo
 - [Study cognition with methods that allow real-world AI use, including longitudinal designs tracking self-regulation formation](research-methods-ai-present-cognition.md)
 - [Study creative metacognition in extended real-life processes rather than only in laboratory experiments](study-creative-metacognition-beyond-laboratory.md)
 - [Integrate autonomy and agency paradigms, standardise instruments, probe non-demographic moderators, and extend evaluations to longitudinal real-world settings](integrate-paradigms-longitudinal-hri-autonomy-research.md)
+- [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 
 ## Examples
 -

@@ -45,6 +45,7 @@ Under the Embracing Black Identity element, the brief recommends the Center "Int
 - [Incorporate Students' Cultural Practices](incorporate_students_cultural_practices.md)
 - [Selecting Culturally Responsive Texts](selecting_culturally_responsive_texts.md)
 - [Enrichment Through Art and Music](enrichment_through_art_and_music.md)
+- [Incorporate culturally responsive, anti-racist, and multicultural curricula in higher education STEM programs](culturally-responsive-antiracist-stem-curricula.md)
 
 ## Examples
 -

@@ -62,4 +62,4 @@ The review describes path-analytic causal-model tests, including Schunk (1981), 
 
 
 ## Related Claims
--
+- [Writing self-efficacy correlates weakly with writing performance in postsecondary studies, with most correlations below 0.25](writing-self-efficacy-weak-performance-correlation.md) — a narrower finding that bears on this claim

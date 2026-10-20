@@ -13,7 +13,7 @@ generated:
 # Phonological Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 71 claims (40 show a difference, 12 mixed, 19 no difference) · 44 studies (19 associational, 16 causal, 4 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 44 report an effect size · 69 claims rest on one study
+> **Evidence** · 74 claims (43 show a difference, 12 mixed, 19 no difference) · 46 studies (19 associational, 16 causal, 6 quant-synthesis, 3 review, 2 design), `q1`–`q3` · 15 of 46 report an effect size · 72 claims rest on one study
 
 ## Description
 Phonological awareness is the ability to hear and manipulate the sound structure of spoken words: recognising rhymes, splitting words into syllables and individual sounds (phonemes), and blending sounds into words. The broader term phonological processing, which this page also covers, includes detecting and handling speech sounds rapidly in both spoken and written words and holding sound information briefly in memory. These skills are measured with tasks such as rhyming, blending (combining separate sounds into a word), elision (saying what remains when a sound is removed) and phoneme manipulation.
@@ -112,6 +112,9 @@ It sits within the wiki's broader [reading and language](reading-and-language.md
 - [Country SES moderates the linguistic-skill-to-reading paths, with larger phonological-awareness and vocabulary effects in developed countries, but does not moderate the direct SES-reading paths](../claims/country-ses-moderates-skill-reading-paths-not-ses-reading.md) [~M] — learners who differ on it differ in outcomes
 - [The association between family SES and children's reading is partially mediated, statistically, in parallel by phonological awareness and vocabulary knowledge](../claims/ses-reading-partial-parallel-mediation-linguistic-skills.md) [+M] — learners who differ on it differ in outcomes
 - [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](../claims/longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) [+M] — learners who differ on it differ in outcomes
+- [Children/adolescents with poor literacy skills score poorer on foreign language phonological awareness, letter knowledge, and reading comprehension than peers with typical literacy skills](../claims/poor-literacy-lower-fl-phonological-awareness-letter-knowledge-reading-comprehension.md) [+W] — learners who differ on it differ in outcomes
+- [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M] — instruction changes it
+- [Poor readers/spellers vary significantly more than controls in foreign language phonological awareness performance](../claims/poor-literacy-more-variable-fl-phonological-awareness.md) [+W] — learners who differ on it differ in outcomes
 
 ## Measures
 - **The Phonological Awareness Test 2 (PAT 2)** (Robertson & Salter, 2007): covers rhyming and detecting and manipulating phonemes, ages 5 to 9.

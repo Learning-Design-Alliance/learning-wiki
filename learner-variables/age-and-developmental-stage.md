@@ -13,7 +13,7 @@ generated:
 # Age and Developmental Stage
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 139 claims (88 show a difference, 35 mixed, 16 no difference) · 111 studies (49 associational, 21 causal, 15 review, 10 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 15 of 111 report an effect size · 137 claims rest on one study
+> **Evidence** · 142 claims (88 show a difference, 37 mixed, 17 no difference) · 113 studies (49 associational, 21 causal, 15 review, 12 quant-synthesis, 9 theoretical, 5 design, 2 qualitative), `q1`–`q4` · 16 of 113 report an effect size · 140 claims rest on one study
 
 ## Description
 Age and developmental stage cover a learner's chronological age, grade level, and the cognitive, language and social development that comes with them. Research uses them as a predictor (growth curves, when skills emerge), as a moderator (an approach that works for older students but not younger ones, or for adults but not children) and to define a population (early childhood, adolescents, adult learners). Age is often a stand-in for what actually matters, such as prior knowledge, reading skill or self-regulation, so a finding that differs by age is a reason to ask which of those it reflects.
@@ -171,6 +171,9 @@ Age and developmental stage cover a learner's chronological age, grade level, an
 - [Achievement progress is steeper for students tested at younger ages, especially in math](../claims/younger-students-steeper-achievement-gains.md) [+W] — learners who differ on it differ in outcomes
 - [Bottom-quartile SES students show greater progress than top-quartile students when young, but the pattern reverses at older ages](../claims/ses-quartile-gains-reverse-with-age.md) [~W] — learners who differ on it differ in outcomes
 - [Young white students progress more slowly in math and reading than Asian, black, and Hispanic students, with differences attenuating at older ages](../claims/ethnic-differences-younger-student-gains.md) [~W] — learners who differ on it differ in outcomes
+- [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](../claims/l2-decoding-strong-relationship-english-comprehension.md) [~M] — an instructional effect differs with it
+- [L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older](../claims/l1-decoding-positive-relationship-english-comprehension.md) [~M] — an instructional effect differs with it
+- [Language pairing, onset age of instruction, and age of assessment showed no significant impact on foreign language word reading group differences](../claims/no-moderator-effects-fl-word-reading.md) [-M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does being older at school entry, or older than one's classmates, give a lasting achievement advantage?* [Being a year older at kindergarten entry leads to higher initial achievement](../claims/older-entry-higher-initial-achievement.md) [+M]

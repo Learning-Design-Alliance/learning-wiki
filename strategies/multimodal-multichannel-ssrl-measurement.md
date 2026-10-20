@@ -42,6 +42,7 @@ The review's stated forward methodological path is to widen data channels toward
 
 - [Broaden co-regulation methodology using trace data, server logs, episodic coding and multilevel modelling](trace-data-multilevel-methods-for-co-regulation.md)
 - [Triangulate physiological data with other CSCL data streams ( such as video or logfile traces ) to uncover otherwise unidentifiable psychophysiological reactions](triangulate-physiological-data-with-video-or-logs.md)
+- [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 
 ## Examples
 -

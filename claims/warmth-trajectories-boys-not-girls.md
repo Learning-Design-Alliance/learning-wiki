@@ -54,3 +54,4 @@ Prediction of Achievement analysis (Results) using residualized Time 6 achieveme
 - [Children with early behavioral, academic, and demographic risks are over-represented in adverse teacher-student relationship trajectories](risk-children-overrepresented-adverse-trajectories.md) — related
 - [Teacher-reported warmth follows two trajectory classes per gender: a normative high-declining class and a low-increasing class starting from lower warmth](warmth-trajectory-classes-elementary.md) — related
 - [Gender is unevenly distributed across participation profiles: boys are overrepresented among disconnected and girls among diligent students](gender-distribution-participation-profiles.md)
+- [Prosocial behavior, aggression, and peer relationships are stratified along gender, ethnoracial, and socioeconomic lines](citizenship-behavior-sociodemographic-stratification.md) — related

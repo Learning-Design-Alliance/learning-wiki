@@ -1,0 +1,52 @@
+---
+type: claim
+title: Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training
+description: Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training
+id: immersive-vr-boosted-self-efficacy-intrinsic-motivation
+status: review
+generated:
+  by: "process:wiki-ingest"
+  at: 2026-10-20
+evidence_strength: weak
+sources:
+  - id: törmänen-2025
+    resource: "https://doi.org/10.1007/s10648-025-10036-0"
+    title: "Törmänen, T., Ketonen, E., Lehtoaho, E., Turunen, M., Zabolotna, K., Shubina, T., & Järvenoja, H. (2025). Situational Motivation in Academic Learning: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10036-0"
+    author: "Törmänen, T., Ketonen, E., Lehtoaho, E., Turunen, M., Zabolotna, K., Shubina, T., & Järvenoja, H."
+    q: 2
+    i: "?"
+    kind: review
+    rigour: 2
+---
+
+# Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training
+
+> **Claim** · [All claims](index.md)
+> **Evidence** · 1 study · review `r2` · `q2`
+
+## Subclaims
+`q2 i?` Makransky et al. (2019) found the immersive VR simulation increased self-efficacy and intrinsic motivation more than the conventional safety manual. [→ Törmänen 2025](#tormanen-2025)
+
+## Evidence
+
+### Törmänen 2025
+
+Törmänen, T., Ketonen, E., Lehtoaho, E., Turunen, M., Zabolotna, K., Shubina, T., & Järvenoja, H. (2025). Situational Motivation in Academic Learning: A Systematic Review. Educational Psychology Review. https://doi.org/10.1007/s10648-025-10036-0
+
+`q2 · i?` · `review · r2`
+
+The review reports, citing Makransky et al. (2019), a comparison of three learning environments for laboratory safety training — immersive VR, desktop VR, and a conventional safety manual — in which "the immersive VR simulation increased self‐efficacy and intrinsic motivation more than the conventional safety manual."
+
+> "They found that the immersive VR simulation increased self‐efficacy and intrinsic motivation more than the conventional safety manual."
+
+## Discussion
+
+
+## Learner Variables
+- [Motivation](../learner-variables/motivation.md) — outcome: instruction changes it
+
+## Related Claims
+- [Review syntheses: VR/AR most often improved academic achievement and motivation, but sometimes performed no better than conventional technologies](vr-ar-advantages-achievement-motivation-with-null-contrast.md) — a broader claim this one bears on
+- [Immersive technologies such as virtual reality should reinforce, not substitute, the original educational action](vr-reinforcement-not-substitute.md) — a broader claim this one bears on
+- [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
+- [Increased perceptual fidelity fails to reliably improve serious game learning outcomes (the fidelity fallacy)](fidelity-fallacy-serious-games.md) — related

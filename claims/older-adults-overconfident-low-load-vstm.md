@@ -47,3 +47,4 @@ Correlation of mean confidence-interval width with age per memory load in the Ca
 - [Better metacognitive awareness of trial-to-trial VSTM performance is associated with lower error, higher precision, and fewer misbinding errors, but not with item capacity, and this association is invariant across age](metacognitive-awareness-predicts-vstm-quality-not-capacity.md) — related
 - [VSTM performance declines with advancing adult age in raw error, item capacity, precision, and misbinding, even after adjusting for sensorimotor performance](vstm-declines-with-age-all-measures.md) — related
 - [Older age groups overestimate their mathematical and reading competence more than younger age groups, but this may reflect performance differences](age-increased-overestimation-competence-adults.md) — related
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — related

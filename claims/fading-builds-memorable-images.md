@@ -52,3 +52,5 @@ Theoretical argument from the review's abstract, presented as the third of four 
 - [Concreteness fading provides embodied perceptual and physical experiences that can ground abstract thinking](fading-provides-embodied-grounding.md) — related
 - [Manipulatives Improve Math Learning](manipulatives-improve-math-learning.md) — related
 - [Concreteness fading guides learners to strip away extraneous concrete properties and distill generic, generalizable properties](fading-distills-generalizable-properties.md) — related
+- [Mathematics education literature uses the terms concrete and abstract with multiple distinct meanings](concrete-abstract-polysemy-in-literature.md) — related
+- [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related
