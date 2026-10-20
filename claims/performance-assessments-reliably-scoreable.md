@@ -60,3 +60,4 @@ This is the report's own summary assertion, supported by its description of scor
 - [Districts face validity, reliability, comparability, and accountability-tension challenges in assessing future-ready skills](pog-assessment-validity-reliability-challenges.md) — related
 - [Test-taking engagement plays an essential role in the pursuit of valid scores](test-taking-engagement-essential-for-valid-scores.md) — related
 - [The authors assert that innovative assessment measures capture POG competencies more fully than traditional standardized tests](innovative-assessments-capture-pog-competencies.md) — related
+- [Reporting of reliability and validity evidence for quantitative motivation measures was incomplete in K‑5 writing‑motivation studies](incomplete-reliability-validity-reporting-writing-motivation-measures.md) — related

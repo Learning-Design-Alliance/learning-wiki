@@ -44,3 +44,4 @@ Automated structural-complexity analysis treating each material version as the u
 - [Expert EAP reviewers rated GenAI-generated differentiated materials favorably for academic fidelity, proficiency appropriateness, and teachability](genai-eap-materials-favorable-expert-ratings.md) — related
 - [The Proficiency × Material interaction on reading comprehension was significant, indicating heterogeneous material effects across proficiency strata](proficiency-material-interaction-reading-comprehension.md) — related
 - [Differentiated-AI materials exceeded unified-AI materials on reading comprehension within each proficiency stratum, most strongly for high-proficiency learners (d = 1.40)](within-stratum-differentiated-advantage-reading-comprehension.md) — related
+- [Pre-study verified that the three learning units differ in perceived complexity in the intended low, medium, and high ordering](prestudy-verified-complexity-gradient.md) — related

@@ -44,3 +44,4 @@ Theme 4 from the two-cycle thematic analysis of open responses in the n=10 exper
 
 ## Related Claims
 - [The member check did not resolve the dissensus: the distrust item (C4) was the weakest-endorsed confirmatory item, with participants reframing what distrust meant](member-check-c4-weakest-endorsed.md) — related
+- [Disagreements about concreteness and abstraction in mathematics education may be verbal disputes rooted in word meaning](verbal-disputes-concreteness-abstraction.md) — related

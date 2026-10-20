@@ -100,3 +100,4 @@ In the Belonging and Collaboration in Practice section, the primer attributes th
 - [Schools where staff maintain strong relationships and collaborate frequently are more effective in supporting student learning and well-being, and collaboration and teacher leadership approaches contribute to staff retention](staff-collaboration-effectiveness-retention.md) — related
 - [Four factors explain students' sense of belonging in STEM, with interpersonal relationships the most commonly cited](four-factors-interpersonal-relationships-competence-interest-identity-explain-belonging.md) — related
 - [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — related
+- [Academic emotions moderate the relationship between belonging and achievement](emotions-moderate-belonging-achievement.md) — related

@@ -13,7 +13,7 @@ generated:
 # Emotion Regulation
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 25 claims (13 for, 12 mixed) · 29 studies (7 review, 6 causal, 6 associational, 5 quant-synthesis, 2 qualitative, 2 theoretical, 1 design), `q1`–`q4` · 10 of 29 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (13 for, 13 mixed) · 30 studies (7 review, 6 causal, 6 associational, 5 quant-synthesis, 3 theoretical, 2 qualitative, 1 design), `q1`–`q4` · 10 of 30 report an effect size · 21 claims rest on one study
 
 ## Description
 Emotion regulation in learning design refers to the deliberate integration of strategies and supports that help learners recognize and manage their emotional responses to academic demands. Drawing on Gross's process model, regulation can target the situation (choosing or modifying tasks), attention (redirecting focus), cognition (reappraising the meaning of stress), or response (calming techniques) [Gross, 1998]. In instructional contexts, the designer's role is to build regulation opportunities into the learning environment rather than assuming learners arrive with these skills.
@@ -74,6 +74,7 @@ Emotions are not noise around learning — they shape attention, working memory 
 - [Effortful regulation is maximized at moderate levels of emotional and physiological reactivity and declines at very low or very high levels](../claims/inverted-u-arousal-executive-function.md) [~W]
 - [The S-Reg tool prompting groups' awareness of motivational, emotional, and cognitive conditions increased co-regulation, especially early in collaboration](../claims/s-reg-tool-increased-co-regulation.md) [+W]
 - [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](../claims/meditation-small-wellbeing-gains-negative-outcomes.md) [+W]
+- [Pre-service teachers with higher color-blind racial ideology scores had difficulties regulating emotions in racial situations](../claims/color-blind-ideology-emotion-regulation-difficulties.md) [~W]
 
 ## The evidence by question
 - *Does a brief regulation exercise before an evaluation (writing about worries, relabelling the feeling) protect anxious learners' performance?* [Brief expressive writing before an exam can raise test-anxious students' scores, but across the wider literature its effect on test performance is negligible](../claims/expressive-writing-improves-exam-performance.md) [~S]

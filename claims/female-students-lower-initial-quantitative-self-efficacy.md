@@ -50,3 +50,4 @@ Mann-Whitney U-tests compared initial self-efficacy by gender/sex for each task;
 - [Students' self-efficacy for quantitative biology tasks significantly increased after completing collaborative group work assignments, with large effect sizes](group-work-increased-quantitative-self-efficacy.md) — related
 - [Descriptive patterns link infrequently reported experiences to initial self-efficacy: teaching others and no impact were reported by higher self-efficacy students, consulting a teacher by lower](infrequent-experiences-descriptive-self-efficacy-patterns.md) — related
 - [Female students performed significantly worse than male students overall, and learning effects of experience were higher for male students](gender-differences-legal-exam-performance.md)
+- [No gender differences in writing self-efficacy were found in any included postsecondary study](no-gender-differences-writing-self-efficacy.md) — related

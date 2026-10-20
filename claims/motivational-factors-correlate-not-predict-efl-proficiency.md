@@ -80,3 +80,4 @@ The same multiple regression on motivational factors found no significant predic
 - [AI-mediated language instruction increases EFL learners' L2 motivation more than traditional instruction](ai-instruction-increases-l2-motivation.md) — related
 - [Self-efficacy positively and test anxiety negatively predicted classroom grades, while test anxiety positively predicted cognitive strategy use but negatively predicted regulatory strategy use](self-efficacy-and-test-anxiety-predict-performance.md) — related
 - [The predictive effects of writing self-efficacy and motivation regulation strategies on writing achievement vary across achievement goal profiles and writing genre](profile-varying-predictive-effects-writing-achievement.md) — related
+- [Writing apprehension and anxiety show strong negative correlations with writing self-efficacy in postsecondary students](writing-apprehension-negative-correlation-self-efficacy.md) — related

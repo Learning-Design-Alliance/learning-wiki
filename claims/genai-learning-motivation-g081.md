@@ -101,3 +101,4 @@ Random-effects meta-analysis of 56 effect sizes from 42 controlled experimental 
 - [Gen-AI has a moderate positive overall effect on students' higher-order thinking (g = 0.609) across 29 experimental and quasi-experimental studies](genai-moderate-positive-effect-hot.md) — related
 - [AI-assisted pair programming significantly increased undergraduate intrinsic motivation compared to individual programming, with outcomes comparable to human–human pair programming](ai-assisted-pair-programming-increases-intrinsic-motivation.md) — a narrower finding that bears on this claim
 - ChatGPT use shows a large positive pooled effect on students' learning performance (g = 0.867) across 44 experimental and quasi-experimental studies — related
+- [Student-centered, problem-driven learning has a small, positive, heterogeneous effect on students' motivation compared to teacher-centered instruction (d = 0.498)](problem-driven-learning-small-positive-effect-motivation.md) — related

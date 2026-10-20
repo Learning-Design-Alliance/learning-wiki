@@ -46,3 +46,7 @@ The commentary summarizes Bühler et al.'s (2025) systematic review of 134 studi
 ## Related Claims
 - [Providing elaborate explanations and summary interactives instead of just scores increases students' perceptions of engagement and understanding and reduces mind wandering](elaborate-feedback-raises-engagement-perceptions.md) — related
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
+- [Learners engage in mind wandering approximately 30% of the time spent in educational activities, and this is associated with deteriorated learning outcomes](mind-wandering-30-percent-educational-time.md) — related
+- [Affective and motivational SRL processes received little to no attention in mind-wandering research, and few studies used integrated multimodal-plus-SRL analytic approaches](mw-affective-motivational-blind-spot.md) — related
+- [An equal number of reviewed studies measured mind wandering unobtrusively via multimodal data streams, with 27% using machine learning](mw-multimodal-unobtrusive-27-percent-ml.md) — related
+- [Among 134 reviewed studies, a significant number examined mind wandering alongside cognitive and metacognitive SRL processes, predominantly using self-report measures](mw-studies-cognitive-metacognitive-self-report.md) — related

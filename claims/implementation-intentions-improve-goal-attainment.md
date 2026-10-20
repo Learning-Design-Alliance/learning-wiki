@@ -121,3 +121,4 @@ performance](goal-setting-improves-performance.md).
 - [Achievement effects of group-based mastery learning are larger for elementary students than for high school or college students](mastery-effects-larger-elementary.md) — related
 - [All four students achieved above the performance levels teachers expected on the Goal Attainment Scale, exceeding their personal goals by 10% to 20%](students-exceeded-teacher-gas-expectations.md) — related
 - [Open-ended planning prompts at the start of a MOOC increase course completion by 29%](planning-prompts-increase-mooc-completion.md) — a narrower finding that bears on this claim
+- [Within-person reminders of implementation intentions improve students' short-term study behaviour](within-person-reminders-improve-study-behaviour.md) — a narrower finding that bears on this claim

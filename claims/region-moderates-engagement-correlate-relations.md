@@ -47,3 +47,4 @@ Moderator analyses tested gender, age, grade level, publication status, publicat
 - [Agentic engagement is the strongest predictor of teacher support but not of peer support](agentic-engagement-strongest-predictor-teacher-support.md) — related
 - [Emotional engagement is the strongest predictor of motivation, especially need-based motivations](emotional-engagement-strongest-predictor-motivation.md) — related
 - [Geographical region significantly moderates AI literacy intervention effects, with Europe and East Asia outperforming North America](geographic-region-moderates-ai-literacy-effects.md) — related
+- [Research on K‑5 writing motivation self‑reports grew sharply after 2009 and is geographically concentrated in North America and Asia](growth-and-geographic-concentration-writing-motivation-research.md) — related

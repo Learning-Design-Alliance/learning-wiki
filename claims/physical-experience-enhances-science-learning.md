@@ -104,3 +104,4 @@ Undergraduates studying heat and temperature were assigned to physical manipulat
 - [The timing of acute exercise relative to learning modulates memory consolidation](acute-exercise-timing-memory.md) — related
 - [Embodied and cognitive hands-on rely on different feedback sources and are not educationally equivalent](hands-on-forms-different-feedback-sources.md) — related
 - [In one qualitative interview study, science teachers report that AI tools let students experience risky or inaccessible phenomena and practise virtually before real lab work](ai-enables-authentic-contextualized-science-experiences.md) — related
+- [Stronger reward manipulations are predicted to yield learning gains with higher likelihood (magnitude-of-change condition)](magnitude-of-change-condition.md) — related

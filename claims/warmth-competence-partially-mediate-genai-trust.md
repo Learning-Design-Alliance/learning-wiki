@@ -46,3 +46,4 @@ Bias-corrected percentile bootstrap mediation (PROCESS Model 4, 5000 samples) in
 - [Perceived AI literacy does not moderate the indirect warmth and competence pathways from GenAI use to trust](ai-literacy-does-not-moderate-mediation-pathways.md) — related
 - [Observers' perceptions of a classmate's GenAI use are negatively associated with interpersonal trust among university students](genai-use-negatively-associated-interpersonal-trust.md) — related
 - [Perceived AI literacy moderates the direct path: the negative GenAI use–trust association is significant at low literacy and non-significant at high literacy](perceived-ai-literacy-buffers-direct-trust-association.md) — related
+- [Competence and relatedness show distinct content pathways: competence with capability indicators (self-efficacy, progress, resilience) and relatedness with interpersonal-climate indicators (collegial support, trust, social capital)](competence-relatedness-content-pathways-c3.md) — related

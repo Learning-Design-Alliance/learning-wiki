@@ -57,3 +57,4 @@ In a 2 x 2 x 2 factorial experiment with college students solving simultaneous e
 - [Coping versus mastery model benefits depend on task difficulty and observers' prior success](coping-versus-mastery-models-task-difficulty.md) — related
 - [Equation memory shows a strong validity effect (valid > invalid recall) that interacts with equation length](equation-memory-validity-effect-length-interaction.md) — related
 - [Giftedness interacts significantly with instruction type on the learning and recall outcomes in the 2×2×2 study](giftedness-instruction-interaction-significant.md) — related
+- [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related

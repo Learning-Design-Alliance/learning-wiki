@@ -68,3 +68,4 @@ The review identifies a challenge from dual-task studies showing the cost of mem
 - [Two subsets of rational-number CCS items demand working memory capacities of 4 or 5 units respectively](rational-number-item-subsets-capacity-demands.md) — a narrower finding that bears on this claim
 - [Brinley analysis of accuracy reveals two distinct functions differing in intercept for storage-only versus storage-plus-processing tasks, corroborating a disproportionate processing cost](brinley-two-functions-storage-versus-processing.md)
 - [Age differences in memory accuracy are smaller for verbal than nonverbal storage tasks, and domain overlap between storage and processing tasks moderates dual-task age differences](task-domain-moderates-aging-memory-accuracy.md)
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](monitoring-declines-under-high-wm-load.md) — a narrower finding that bears on this claim

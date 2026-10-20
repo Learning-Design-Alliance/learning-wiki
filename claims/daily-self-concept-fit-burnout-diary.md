@@ -51,3 +51,4 @@ The author's own daily diary study (Browman et al., 2025) tracked university stu
 - [High school students with visual impairments fitted in significantly less and felt significantly less accepted at school than in other contexts](vi-students-fit-in-less-accepted-at-school.md) — related
 - [Racial centrality plays different roles across outcomes: protective against discrimination's effects on mental health but a vulnerability factor for stereotype effects on self-perceptions](centrality-dual-role-discrimination-versus-stereotypes.md) — related
 - [Qualitative research shows marginalized students' sense of belonging depends on maintaining connections to their valued identities at school (self-concept fit)](self-concept-fit-qualitative-belonging.md) — related
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related

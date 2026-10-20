@@ -40,6 +40,7 @@ The article's future-directions section recommends extending its observed practi
 
 - [Monitoring Progress](monitoring_progress.md)
 - [Design TTXs with assessment in mind so that log data capture the learning process](design-ttx-with-assessment-in-mind.md)
+- [Use multimodal data and time-sensitive analyses to capture situational motivational processes](multimodal-data-time-sensitive-analyses-motivation.md)
 
 ## Examples
 -

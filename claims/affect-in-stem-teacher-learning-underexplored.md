@@ -47,3 +47,4 @@ The editorial authors, synthesizing recent reviews of teacher emotion research, 
 - [Strict emotional regimes contribute to the production of vulnerability that can precipitate deficit narratives from asset-oriented teachers](emotional-regimes-vulnerability-deficit-narratives.md)
 - [Emotional rules in workplaces can stifle veteran mathematics teachers' epistemic and relational agency and thus their ability to learn](emotional-rules-stifle-teacher-agency.md)
 - [Epistemic empathy, an affective phenomenon, dovetails with science teachers' learning of responsive teaching](epistemic-empathy-dovetails-responsive-teaching.md)
+- [Racialized emotions are a race-focused construct educational psychologists have yet to explicate in teaching and learning](racialized-emotions-unexplored-construct.md) — related

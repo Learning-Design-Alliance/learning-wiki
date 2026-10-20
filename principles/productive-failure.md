@@ -79,7 +79,7 @@ sources:
 # Productive Failure
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 45 claims (16 for, 22 mixed, 6 against, 1 unmarked) · 26 studies (15 causal, 6 review, 3 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 26 report an effect size · 42 claims rest on one study
+> **Evidence** · 46 claims (17 for, 22 mixed, 6 against, 1 unmarked) · 27 studies (15 causal, 6 review, 4 theoretical, 2 quant-synthesis), `q1`–`q4` · 11 of 27 report an effect size · 43 claims rest on one study
 
 ## Conditional relationship
 
@@ -197,6 +197,7 @@ Read 2026-10-19 (second pass, claims linked overnight); the others linked then m
 - [The three preparatory conditions did not differ on procedural knowledge acquisition](../claims/no-condition-differences-procedural-knowledge.md) [~W]: Hartmann et al. (2021), attempting against two kinds of watching; no procedural difference among preparation variants, consistent with the procedure row but not a comparison with teaching first.
 - [The proposed cognitive mechanisms explain both positive and negative effects of PS-I](../claims/mechanisms-explain-positive-and-negative-ps-i-effects.md) [~W]: Loibl, Roll & Rummel's (2017) theoretical move; the review's design findings are already in the fidelity row.
 - [The intervention significantly benefited 6th-grade students but showed no significant effects for 7th or 8th graders](../claims/assistments-grade-6-differential-impact.md) [~W] (not about this page): an evaluation of ASSISTments homework support with teacher professional development, not an attempt-before-instruction design.
+- [Struggling with a challenging task before receiving instruction prepares learners to benefit from explicit connections](../claims/struggle-before-instruction-prepares-for-learning.md) [+W] — attached 2026-10-20 from Fries et al. (2020), which proposed "Engage students in productive struggle before presenting explicit connections and solutions"; tests this page's relationship.
 
 ## Objective and learner-valued goal
 

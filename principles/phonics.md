@@ -31,7 +31,7 @@ sources:
 # Phonics
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 23 claims (16 for, 7 mixed) · 40 studies (11 quant-synthesis, 10 causal, 8 review, 5 associational, 5 theoretical, 1 qualitative), `q1`–`q4` · 10 of 40 report an effect size · 11 claims rest on one study
+> **Evidence** · 24 claims (16 for, 8 mixed) · 41 studies (12 quant-synthesis, 10 causal, 8 review, 5 associational, 5 theoretical, 1 qualitative), `q1`–`q4` · 11 of 41 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -152,6 +152,10 @@ For example, an adult in a workplace literacy course may want to read safety sig
 The expectation should weaken if randomised comparisons of systematic phonics against other structured reading methods, with comparable time and aligned outcomes, show no advantage on decoding, as Bowers argues the current evidence fails to show. If the pseudoword advantage did not carry into reading connected text at a delay, the model should claim decoding only. If older struggling readers or adults gained as much from phonics as beginning readers, the age conditioning would go; if they gained nothing, phonics for them would be a design preference. If dialogic or other meaning-focused reading built decoding as well as phonics did, the parallel strand would become a substitute. Do not protect the model by calling every failure "unsystematic" or "too little phonics" after the fact.
 
 Decoding taught words, decoding new words, spelling, fluency, comprehension and reading what the learner values are separate claims. The present evidence supports the first two most strongly for beginning readers, and sets no pace, lesson length or move-on threshold.
+
+## Claims
+
+- [Transfer to untrained words occurs for spelling but not for reading outcomes](../claims/morphology-transfer-untrained-words-spelling-not-reading.md) [~W]
 
 ## Related Principles
 - [Chunking](chunking.md) — phonics scope-and-sequence works by introducing grapheme–phoneme correspondences in small, cumulative sets

@@ -47,3 +47,4 @@ Partial correlation analysis in the same 713-adolescent cross-sectional sample, 
 - [Cool EF (Stroop inhibition and CNT cognitive flexibility) predicts academic performance, while no hot EF variable does](cool-ef-predicts-academic-performance.md) — reports the opposite
 - [Gender differences appear in academic achievement and several cognitive parameters but not in inhibition/interference or social skills](gender-differences-aa-cognitive-parameters.md) — related
 - [In adolescents, physical fitness components except balance are positively associated with academic achievement, with aerobic endurance the strongest (r=0.49)](pf-components-associated-adolescent-academic-achievement.md) — related
+- [Meta-analytic findings show small-to-medium relations between EF and academic performance, with cognitive flexibility showing the strongest effects](ef-academic-performance-small-to-medium-meta-analytic.md) — reports the opposite

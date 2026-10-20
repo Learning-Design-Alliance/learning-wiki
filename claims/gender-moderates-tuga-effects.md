@@ -77,3 +77,4 @@ PLS-MGA path difference tests (Table 12: H10 difference −0.21, p = .005; H12 d
 - [Male students report significantly higher overall technological self-efficacy than female students (p = 0.001)](overall-gender-gap-technological-confidence.md) — related
 - [Female students report higher job finding anxiety, AI anxiety, and negative AI attitudes than male students](female-students-higher-ai-and-job-anxiety.md) — related
 - [Pedagogical tool significantly moderates the CT gender gap, with programming and robots associated with male-favoring gaps and other tools (e.g., web-based) showing a negative significant effect](pedagogical-tool-moderates-ct-gender-gap.md) — related
+- [No gender differences in writing self-efficacy were found in any included postsecondary study](no-gender-differences-writing-self-efficacy.md) — related

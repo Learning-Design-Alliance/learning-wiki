@@ -23,7 +23,7 @@ sources:
 # Evidence-Based Teaching and Scientific Reasoning
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 24 claims (13 for, 9 mixed, 2 against) · 23 studies (6 causal, 6 review, 5 associational, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 23 report an effect size · 22 claims rest on one study
+> **Evidence** · 27 claims (15 for, 10 mixed, 2 against) · 24 studies (7 review, 6 causal, 5 associational, 3 theoretical, 1 quant-synthesis, 1 qualitative, 1 design), `q1`–`q4` · 0 of 24 report an effect size · 25 claims rest on one study
 
 ## Conditional relationship
 
@@ -155,6 +155,8 @@ Claims the earlier page cited, or that bear on the decision, that are used above
 - [Sequential Field Testing Go No Go](../claims/sequential-field-testing-go-no-go.md) [+W]
 - [The RI-CCLPM-C indicates a positive self-concept effect on achievement even when data are generated without any direct effects between self-concept and achievement](../claims/ri-cclpm-c-positive-effect-without-causal-datagenerating-process.md) [+W] — attached 2026-10-19 from Kimmo Sorjonen et al. (2025), which proposed "Do not treat statistically significant cross-lagged effects with good model fit in observational SEM data as strong evidence of causality"; tests this page's relationship.
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](../claims/time-reversed-model-suggests-decreasing-self-concept-effect.md) [+W] — attached 2026-10-19 from Kimmo Sorjonen et al. (2025), which proposed "True causal hypotheses should survive testing with a broad set of different analyses; model-choice-sensitive support warrants suspended judgement"; tests this page's relationship.
+- [No active learning intervention study in the Freeman et al. (2014) set or the 2015–2022 sample met all 12 internal validity controls](../claims/no-active-learning-studies-meet-all-internal-validity-controls.md) [+W] — attached 2026-10-20 from Amedee Marchand Martella et al. (2023), which proposed "Active learning intervention studies should incorporate internal validity controls such as randomization, group equivalence checks, matched instructors, dosage matching, and implementation fidelity assessment".
+- [Implementation fidelity was assessed in fewer than 8% of active learning intervention studies](../claims/implementation-fidelity-rarely-assessed-active-learning.md) [+W] — attached 2026-10-20 from Amedee Marchand Martella et al. (2023), which proposed "Active learning intervention studies should incorporate internal validity controls such as randomization, group equivalence checks, matched instructors, dosage matching, and implementation fidelity assessment".
 
 ## Objective and learner-valued goal
 
@@ -175,6 +177,7 @@ Choosing on evidence, the quality of the evidence chosen on, the outcome for lea
 - [Only 20% of the 100 most used edtech products have a research rationale](../claims/only-20-percent-top-edtech-research-rationale.md) [+W]
 - [Propensity score matching produced baseline-equivalent treatment and comparison groups on all measured variables](../claims/psm-baseline-equivalence-mtss-study.md) [~W]
 - [The evidence base for Read, Write & Type!™ is a single small-extent randomized trial, limiting confidence in the effectiveness ratings](../claims/rwt-evidence-base-single-small-trial.md) [~W]
+- [About two-thirds of Freeman et al. (2014) articles reported results favoring only the active learning group, but most comparisons were active learning versus lecture with weak internal validity controls](../claims/active-learning-results-favor-experimental-group.md) [~M]
 
 ## Related Principles
 - [Educational Psychology as Both Art and Science](../theories/educational-psychology-as-art-and-science.md)

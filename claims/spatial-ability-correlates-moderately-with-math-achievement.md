@@ -51,3 +51,5 @@ The authors suggest spatial representation is one of several routes to solving m
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
 - [Some aspects of spatial skills are more predictive of mathematical development than others, so the construct must be differentiated](spatial-skills-aspects-differ-in-math-predictivity.md) — related
+- [Spatial ability correlates with educational performance across many STEM disciplines and sub-disciplines](spatial-ability-correlates-stem-performance.md) — a broader claim this one bears on
+- [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related

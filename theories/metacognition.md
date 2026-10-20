@@ -12,7 +12,7 @@ generated:
 # Metacognition
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 387 claims (185 for, 181 mixed, 21 against) · 190 studies (94 causal, 45 associational, 14 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 70 of 190 report an effect size · 380 claims rest on one study
+> **Evidence** · 389 claims (186 for, 182 mixed, 21 against) · 192 studies (96 causal, 45 associational, 14 review, 14 theoretical, 10 qualitative, 8 quant-synthesis, 5 design), `q1`–`q4` · 70 of 192 report an effect size · 382 claims rest on one study
 
 ## Description
 Metacognition is knowledge about, and the ability to regulate, one's own cognitive processes — realistically judging how difficult a task will be, monitoring whether a strategy is working, and adjusting accordingly. It is closely related to, but distinct from, [Executive Function Development](executive-function-development.md): executive function is the underlying capacity to control and coordinate cognition, while metacognition is specifically the learner's own knowledge *about* that cognition and the strategies available to direct it.
@@ -429,6 +429,8 @@ A rough age-8 inflection point has been observed in some longitudinal work: stra
 - [Effort-rating item wording changes what learners reflect on: requirement wording correlates negatively and engagement wording positively with judgments of learning](../claims/effort-item-wording-flips-correlation-direction.md) [~W]
 - [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](../claims/metacognitive-displacement-illusion-of-competence.md) [~W]
 - [The tribute reports students tend to overestimate their sport performance, and four-level model instruction may improve calibration accuracy](../claims/students-overestimate-sport-performance-calibration.md) [+W]
+- [Metacognitive monitoring declines under high working memory load, suggesting functional dependence of MC on WM](../claims/monitoring-declines-under-high-wm-load.md) [+W]
+- [In-person but not online self-regulated multiple-choice students completed fewer restudy trials before their first practice test than cued-recall students.](../claims/restudy-before-first-test-format-interaction.md) [~W]
 
 ## The evidence by question
 

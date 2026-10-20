@@ -43,4 +43,4 @@ Social network analysis of WebCT log data from two NLCs (235 messages in NLC1, 2
 
 
 ## Related Claims
--
+- [Classrooms differ in network density and centrality, indicators of social cohesion](classroom-density-centrality-variation.md) — related

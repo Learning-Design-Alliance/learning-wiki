@@ -109,3 +109,4 @@ Two meta-analyses of elementary and secondary school students related achievemen
 - [SRL training effects vary by outcome category, largest for metacognitive strategies (g = .40) and smallest for cognitive strategies (g = .32)](srl-training-effects-by-outcome-category.md) — related
 - [Extended SRL training programs enhance university students' academic performance, SRL strategies, and motivation (overall g = .38)](srl-training-university-students-overall-g38.md) — related
 - [Learners in the matched condition exhibited more meta-cognitive and cognitive activities—monitoring, preparation, and ending discussions—than learners in other conditions](matched-condition-more-metacognitive-activities.md) — a narrower finding that bears on this claim
+- [SRL training programmes improve SRL strategies, motivation, academic achievement and reduce anxiety across age groups](srl-training-programmes-improve-outcomes.md) — related

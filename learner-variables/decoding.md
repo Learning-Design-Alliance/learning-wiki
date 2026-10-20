@@ -13,7 +13,7 @@ generated:
 # Decoding
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (43 show a difference, 8 mixed, 10 no difference) · 46 studies (14 associational, 11 causal, 10 quant-synthesis, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 14 of 46 report an effect size · 56 claims rest on one study
+> **Evidence** · 69 claims (48 show a difference, 10 mixed, 11 no difference) · 48 studies (14 associational, 12 quant-synthesis, 11 causal, 6 review, 3 design, 2 theoretical), `q1`–`q4` · 16 of 48 report an effect size · 64 claims rest on one study
 
 ## Description
 Decoding is using knowledge of letters and their sounds to work out how an unfamiliar written word is pronounced, and so what it is. This page also covers the related word-level skills the LVN describes separately: sight recognition (knowing a word immediately, without sounding it out, which is necessary for common words that do not follow regular spelling patterns, such as *said* or *could*), orthographic processing (recognising, storing and retrieving the written form of words from memory), and, for adults, the foundational reading skills of phonics and decoding as a whole. Typical measures are reading pseudowords scored by phonics rules, timed word recognition, spelling tasks and lists of high-frequency words.
@@ -102,6 +102,14 @@ It builds on [phonological awareness](phonological-awareness.md) and [alphabet k
 - [Initial word reading skill was the only significant child-level predictor of exposures required for mastery](../claims/initial-word-reading-skill-only-child-predictor.md) [+W] — learners who differ on it differ in outcomes
 - [Teacher-rated behavioral attention significantly predicts first-grade word reading growth among at-risk readers receiving intensive one-on-one intervention, controlling for literacy, language, cognitive, and behavioral covariates](../claims/attention-predicts-word-reading-growth-at-risk-first-graders.md) [+W] — instruction changes it
 - [Third-grade reading comprehension is predicted by third-grade word reading and listening comprehension, with no direct attention effect](../claims/grade3-comprehension-predicted-by-word-reading-and-listening.md) [+W] — learners who differ on it differ in outcomes
+- [Effects of adolescent word-reading interventions are substantially heterogeneous between studies](../claims/substantial-heterogeneity-adolescent-word-reading-effects.md) [~M] — instruction changes it
+- [English (L2) decoding shows a strong linear relationship with English reading comprehension, with the correlation decreasing as children get older](../claims/l2-decoding-strong-relationship-english-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [L1 decoding is positively related to English reading comprehension for Spanish- and Chinese-speaking MLs, with the correlation decreasing as children get older](../claims/l1-decoding-positive-relationship-english-comprehension.md) [+M] — learners who differ on it differ in outcomes
+- [No significant differences emerged between word-reading intervention approaches, though whole word recognition showed trends toward null effects](../claims/no-significant-differences-between-word-reading-approaches.md) [-M] — instruction changes it
+- [Peer pairing, peer tutoring, and small collaborative/cooperative groupings improved MLs' English phonological awareness, decoding, and fluency across grade levels](../claims/peer-pairing-tutoring-grouping-improve-ml-reading-skills.md) [+M] — instruction changes it
+- [Prior reviews report positive word-reading intervention effects for adolescents but with a wide range (0-1.31) due to broad outcome conceptualization](../claims/prior-adolescent-reading-reviews-wide-effect-range.md) [~M] — instruction changes it
+- [Strategic use of MLs' L1 during decoding instruction was effective: shared letter-sound correspondences did not have to be retaught, and Spanish CVC segmentation instruction increased English decoding](../claims/l1-use-in-decoding-instruction-effective.md) [+M] — instruction changes it
+- [Word-reading interventions significantly improve decoding, nonword decoding, reading comprehension, and spelling (g = 0.29-0.45) but not reading fluency](../claims/word-reading-interventions-outcome-type-effects.md) [+W] — instruction changes it
 
 ## Measures
 - **Woodcock Reading Mastery Test, Revised: Word Attack subtest** (Woodcock, 1998): reading pseudowords, scored by regular phonics rules.

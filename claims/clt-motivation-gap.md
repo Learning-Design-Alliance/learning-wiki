@@ -48,3 +48,4 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
 - [CLT lacks explicit assumptions about how cognition and effort are monitored and regulated, unlike SRL theories](clt-lacks-metacognitive-control-assumptions.md) — possibly the same claim (merge candidate)
+- [Techniques raising both focus support and reward simultaneously are predicted to foster learning best; content-irrelevant humor is predicted not to](direction-of-change-condition.md) — related

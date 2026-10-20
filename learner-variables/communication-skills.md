@@ -13,7 +13,7 @@ generated:
 # Communication Skills
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 61 claims (38 show a difference, 13 mixed, 10 no difference) · 51 studies (12 causal, 12 associational, 9 review, 6 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 9 of 51 report an effect size · 60 claims rest on one study
+> **Evidence** · 62 claims (39 show a difference, 13 mixed, 10 no difference) · 52 studies (12 causal, 12 associational, 9 review, 7 quant-synthesis, 5 theoretical, 4 design, 3 qualitative), `q1`–`q3` · 10 of 52 report an effect size · 61 claims rest on one study
 
 ## Description
 Communication is expressing one's thoughts, ideas and emotions and understanding those of others. Language is its main medium (spoken and signed language, reading and writing, listening), but it also includes gesture, drawing, numbers and technology, and the use of more than one language. Using several modes, and mixing languages when a learner's vocabularies do not overlap, is described as extending thinking and making ideas easier for others to engage with. It is measured through vocabulary and language tests, self-assessments of oral competence, and, in mathematics, by coding the detail and soundness of students' spoken explanations and their participation in discussion.
@@ -102,6 +102,7 @@ It overlaps with [reading and language](reading-and-language.md) and [English-le
 - [In the case discourse, failure to integrate individuals' ideas with sound verification was linked to low-level inquiry outcomes, while successful high-level grounding enabled groups to integrate ideas and negotiate shared knowledge](../claims/idea-integration-linked-to-grounding-quality-in-case-discourse.md) [+W] — learners who differ on it differ in outcomes
 - [In the PISG case study, occurrences of high-level grounding and high-level testing co-occurred with more occurrences of high-level inquiry processes](../claims/pisg-case-high-level-grounding-testing-linked-high-inquiry.md) [+M] — learners who differ on it differ in outcomes
 - [Self-explanations from faded double-content examples did not predict change in professional vision, with two isolated exceptions](../claims/self-explanations-no-predictive-effect-pvcm.md) [-M] — learners who differ on it differ in outcomes
+- [L2 oral language shows a moderate to strong positive relationship with L2 reading comprehension for multilingual learners, and the correlation increases with age](../claims/l2-oral-language-correlates-english-reading-comprehension.md) [+M] — learners who differ on it differ in outcomes
 
 ## Measures
 - **Expressive One-Word Picture Vocabulary Test, Fourth Edition (EOWPVT-4)** (Martin & Brownell, 2011): expressive vocabulary across all age groups.

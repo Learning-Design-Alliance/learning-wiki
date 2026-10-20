@@ -71,3 +71,4 @@ Within the same advantages synthesis, the review cites one reviewed study report
 - VR/AR-supported K-12 STEM research is unevenly distributed across subjects: science dominates, engineering has no studies — related
 - [No significant differences between VR-based and conventional training in operational understanding, technical skills, or system usability](no-difference-operational-skills-usability.md) — related
 - [Situated, task-based and game-based learning were the most used strategies in VR/AR-supported K-12 STEM learning](situated-task-game-based-top-vr-ar-strategies.md)
+- [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) — a narrower finding that bears on this claim

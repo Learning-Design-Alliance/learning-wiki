@@ -69,3 +69,4 @@ Partial correlation analysis controlling the other three predictors, reported in
 - [Vocabulary (PPVT) is not a significant unique predictor of preschool mathematics once EF and spatial skills are in the model, despite alone accounting for 41% of variance](ppvt-not-unique-math-predictor.md) — related
 - [Spatial skills uniquely predict 27% of the variance in preschool mathematics over and above executive function](spatial-skills-unique-27-percent-math-variance.md) — related
 - [Block Play Predicts Math Achievement](block-play-predicts-math-achievement.md) — related
+- [Longitudinal evidence shows spatial ability predicts STEM educational and occupational outcomes beyond mathematical and verbal ability](spatial-ability-longitudinal-stem-prediction.md) — related

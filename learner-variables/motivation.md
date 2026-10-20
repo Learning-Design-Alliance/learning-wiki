@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 200 claims (138 show a difference, 41 mixed, 21 no difference) · 158 studies (53 associational, 41 causal, 27 review, 11 theoretical, 10 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 38 of 158 report an effect size · 188 claims rest on one study
+> **Evidence** · 203 claims (140 show a difference, 41 mixed, 22 no difference) · 161 studies (53 associational, 42 causal, 28 review, 11 quant-synthesis, 11 theoretical, 10 qualitative, 6 design), `q1`–`q4` · 40 of 161 report an effect size · 191 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -250,6 +250,9 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](../claims/pa-no-effect-intrinsic-motivation.md) [-M] — instruction changes it
 - [Promoting autonomous motivation was linked to higher motivation, lower experienced cognitive load, and higher achievement, but causality cannot be interpreted](../claims/autonomous-motivation-lower-load-higher-achievement-cross-sectional.md) [+M] — instruction changes it
 - [Teaching expectancy may moderate the non-interactive teaching effect, but this moderation often fails to replicate](../claims/teaching-expectancy-moderation-mixed.md) [~M] — an instructional effect differs with it
+- [FSRs correlate more strongly with persistence (r = .33) than with achievement outcomes in postsecondary settings](../claims/fsr-strongest-correlation-persistence.md) [+M] — learners who differ on it differ in outcomes
+- [Immersive VR simulation increased self-efficacy and intrinsic motivation more than a conventional safety manual in laboratory safety training](../claims/immersive-vr-boosted-self-efficacy-intrinsic-motivation.md) [+M] — instruction changes it
+- [In Study 1, differences in self-efficacy between the three conditions did not reach significance](../claims/chattutor-self-efficacy-null-study1.md) [-M] — instruction changes it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

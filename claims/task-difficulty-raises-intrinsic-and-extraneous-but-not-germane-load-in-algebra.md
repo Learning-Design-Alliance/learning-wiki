@@ -74,3 +74,4 @@ Same experiment, task-difficulty contrast on the CLM germane subscale: "no signi
 - [Germane cognitive load is reformulated as redistributing working memory resources from extraneous to intrinsic processing rather than adding to total load](germane-load-redistributive-function-reformulation.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
 - [Task difficulty increases error counts, with significantly more errors on Medium and Hard tasks than Easy tasks](task-difficulty-increases-errors-scratch-videos.md) — related
+- [Task complexity and task difficulty are distinct concepts](task-complexity-distinct-from-difficulty.md) — related

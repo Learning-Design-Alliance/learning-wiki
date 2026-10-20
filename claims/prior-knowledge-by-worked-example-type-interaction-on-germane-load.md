@@ -76,3 +76,4 @@ Same experiment and CLM measure: "No significant differences were observed betwe
 - [In its traditional treatment, germane cognitive load is essentially indistinguishable from intrinsic load and may be a redundant concept](germane-load-indistinguishable-from-intrinsic-load.md) — reports the opposite
 - [Cognitive load when studying depended on instructional method (highest in the worked-out examples condition), but no prior knowledge or test-phase effects emerged](cognitive-load-method-effect-studying.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
+- [The worked example effect is explained by reduced element interactivity relative to problem solving, and reverses with expertise](worked-example-effect-element-interactivity-explanation.md) — related

@@ -68,3 +68,4 @@ Simple main effects follow-up from the same ANCOVA study, reported in the Result
 - [Problem-based learning environments consistently improve students' critical thinking compared with lecture-based instruction](pbl-consistently-improves-critical-thinking.md) — related
 - [Effectiveness of CT instruction varies with year level: first-year students benefited most under general or infusion approaches](year-level-moderates-ct-instruction-effectiveness.md) — related
 - [In an unscaffolded GenAI-permitted instructional design course, the control group outperformed the experimental group on posttest instructional design performance](unscaffolded-genai-lower-instructional-design-performance.md) — related
+- [Effects of P(j)BL on CT are mixed across studies, with positive, null, and negative findings reported](pjbl-ct-effects-mixed.md) — related

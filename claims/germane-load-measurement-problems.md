@@ -68,3 +68,4 @@ Narrative account of the Klepsch et al. (2017) validation using informed and na�
 - [Correlations among cognitive load types partially contradict theory-based assumptions of the additivity hypothesis](load-type-correlations-partially-contradict-clt.md) — related
 - [GCL-raising activations did not improve learning outcomes: neither prompted imagination nor disfluency produced a significant task-performance advantage](gcl-activation-no-task-performance-effect.md) — related
 - [Self-reported intrinsic and germane cognitive load correlate positively among college students solving algebra problems](intrinsic-and-germane-cognitive-load-correlate-positively-in-algebra.md) — related
+- [Prior knowledge correlates negatively with delayed ICL and ECL and positively with delayed GCL, consistent with meta-analytic findings](prior-knowledge-correlates-with-load-types.md) — related

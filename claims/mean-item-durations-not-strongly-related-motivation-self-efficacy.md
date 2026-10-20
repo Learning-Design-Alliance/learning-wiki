@@ -46,3 +46,4 @@ Analytic example of response-time metadata and social-emotional constructs. The 
 - [Time students spend on math test questions is studied as a potential source of information about motivation and self-efficacy](math-response-times-motivation-self-efficacy.md) — related
 - [Time spent on very difficult math test items is highly correlated with students' academic motivation and self-efficacy](time-on-difficult-items-correlates-motivation-self-efficacy.md) — reports the opposite
 - [Using item response time metadata to measure students' social-emotional learning shows both promise and limitations](response-time-metadata-sel-promise-and-limitations.md) — related
+- [Strength is strongly positively correlated with second-pass reading time, while betweenness, harmonic centrality and local clustering coefficient are not related to duration measures](strength-correlates-second-pass-reading-time.md) — related

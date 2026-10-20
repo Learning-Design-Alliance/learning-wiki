@@ -51,3 +51,4 @@ Qualitative thematic analysis of participant responses on identity. Participants
 - [Lack of mentorship and guidance is a key barrier for first-generation chemists, stemming from limited awareness rather than ability](mentorship-gap-barrier-first-generation-chemists.md) — related
 - [All learning transitions in participants' stories were intersectional, dynamic, and nonlinear](learning-transitions-intersectional-nonlinear.md) — related
 - [Representation in the sub-discipline relates to belonging: women of color in pSTEM report belonging less frequently than white men](field-representation-relates-to-womens-belonging.md) — related
+- [Racially marginalized students are less likely to report a sense of belonging in STEM education](marginalized-students-lower-stem-belonging.md) — related
