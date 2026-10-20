@@ -5,6 +5,31 @@ a session changed across the wiki, why, and the numbers that justified it. `CLAU
 standing rules these entries produced; read the entry before changing one of them. New entries go
 at the top, under this paragraph.
 
+## 2026-10-20 — overnight fix pass: claim merging, duplicates, markers, load-bearing triage, retired names
+
+- **Paper VI**: six claims realigned with the paper; slug renamed to
+  `human-graders-agree-less-than-single-grade-ground-truth-implies` (old slug kept as an alias).
+- **TODOs, drafts, evidence-less claims**: the remaining TODOs and the one draft fixed. Six claims that
+  looked evidence-less had frontmatter broken by an unquoted `: ` or a control character. They were
+  repaired, and `lint.py --type page_text` now catches both.
+- **Evidence markers**: 245 added by reading each citing page (257 → 14 unmarked).
+- **Duplicates**: 7 strategy folds; 87 cross-folder collisions judged (9 folded, 78 kept as different objects);
+  134 isolated pages linked with verification. Related Claims written across the claims corpus from the
+  wiki-wide `link_claims.py` pass (12 decision files, ~16,600 pages). The two-model merge judge ran on
+  206 new pairs; 6 folded.
+- **Load-bearing**: two triage rounds against the sources. Round 1: 144 failures, 126 fixed, 18 dismissed.
+  Round 2: ~150 entries across six batches, most fixed, the rest dismissed as judge-wrong or
+  registry-wrong. A wrong DOI (10.18289/oef.2015.002) was removed from four claims. `i` codes were recoded
+  where the source prints, or does not print, an effect size.
+- **Inline citations**: `link_inline_citations.py` linked 626 author-year citations to their work where
+  the page, a cited claim, or a unique wiki-wide key settles it. 813 are left with no source and are listed,
+  not guessed.
+- **Design-based research** moved to `processes/` (maintainer): `research-methods/` is secondary.
+- **Retired names across kinds**: `moved_from: [kind/slug]` plus a `moved` map in `wiki-index.json`
+  (additive; Lazuli's copy of the index may want to read it). `merge_pages.py` writes it; 1,570 retired ids
+  backfilled.
+- **Study tables** re-rendered for all 455 synthesis specs after the merges.
+
 ## 2026-10-19 — open-access journal sweep, orphan-claim linking, two re-read waves
 
 - **Journal sweep** (`source_lists.py --list journal --issn`, OpenAlex with a Crossref + Unpaywall fallback when
