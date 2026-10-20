@@ -46,5 +46,5 @@ Exploratory moderation analyses (16 total: example quality as moderator for bias
 - [Expert example standards improve university students' judgment accuracy (bias, absolute accuracy, and relative accuracy) when evaluating self-generated examples](expert-example-standards-improve-judgment-accuracy.md) — related
 - [Expert example standards did not significantly enhance relative accuracy in evaluating self-generated examples](expert-standards-relative-accuracy-null.md) — related
 - [Negative example standards do not reliably improve judgment accuracy and significantly decrease relative accuracy in evaluating self-generated examples](negative-example-standards-inconsistent-effects.md) — related
-- [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](rubric-benefits-independent-of-task-performance.md) — related
+- [Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load](rubric-benefits-independent-of-task-performance.md) — related
 - [Benefits of expert example standards depend on example quality: largest for incorrect examples, absent for correct ones](expert-standards-benefit-scope-by-example-quality.md) — reports the opposite

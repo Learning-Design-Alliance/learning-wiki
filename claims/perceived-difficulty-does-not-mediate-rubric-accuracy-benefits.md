@@ -43,7 +43,7 @@ Exploratory mediation analyses with 95% percentile bootstrap confidence interval
 
 
 ## Related Claims
-- [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](rubric-benefits-independent-of-task-performance.md) — related
+- [Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load](rubric-benefits-independent-of-task-performance.md) — related
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [Providing a rubric during self-assessment improves the absolute accuracy of high school students' self-assessments of written scientific abstracts](rubrics-improve-absolute-self-assessment-accuracy.md) — related
 - [Perceived thought validity mediates the effect of the confidence induction on performance](thought-validity-mediation-performance.md) — related

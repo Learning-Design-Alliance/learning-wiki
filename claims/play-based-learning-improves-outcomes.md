@@ -15,7 +15,7 @@ sources:
     author: "Skene, K., O'Farrelly, C. M., Byrne, E. M., Kirby, N., Stevens, E. C., & Ramchandani, P. G."
     q: 3
     i: 1
-    n: 39 studies (17 pooled, N=3893)
+    n: 39 studies (3,893 children in all; 17 pooled)
     kind: quant-synthesis
     rigour: 2
 ---
@@ -23,7 +23,7 @@ sources:
 # Guided play outperforms direct instruction or free play on a few early-childhood outcomes, with no reliable difference on most others, in one meta-analysis
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small · n=39 studies (17 pooled, N=3893)
+> **Evidence** · 1 study · quant-synthesis `r2` · `q3` · `i1` small · n=39 studies (3,893 children in all; 17 pooled)
 <!-- title before 2026-10-15: Play Based Learning Improves Outcomes -->
 
 Guided play and structured play-based approaches can improve academic, social, and self-regulation outcomes relative to didactic instruction, though the strength of the effect depends heavily on how much adult scaffolding is built into the play.

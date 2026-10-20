@@ -197,7 +197,7 @@ Read 2026-10-19 and moved into the model above: the gateway-mathematics, story-p
 - [The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks](../claims/egyptian-curriculum-quasi-pedagogical-dominance.md) [+W]
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
-- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+W]
+- [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](../claims/outcome-oriented-causal-conception.md) [+W]
 
 ## Objective and learner-valued goal
 
@@ -782,7 +782,7 @@ Because traditional randomising-device tasks cannot provide an adequate foundati
 - [The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks](../claims/egyptian-curriculum-quasi-pedagogical-dominance.md) [+W]
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
-- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+W]
+- [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](../claims/outcome-oriented-causal-conception.md) [+W]
 
 ## Related Principles
 - 

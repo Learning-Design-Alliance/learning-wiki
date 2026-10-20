@@ -46,7 +46,7 @@ Think-aloud expert-novice comparison (eight experts, eight novices) reading two 
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](expert-poetry-interpretive-strategies.md) — related
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](expert-poetry-interpretive-strategies.md) — related
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](novices-internalized-poetry-discourse-conventions.md) — related
 - [Experts expressed greater appreciation of the poems and their specific images, while novices very frequently expressed interpretive frustration and dissatisfaction.](poetry-comprehension-supports-appreciation.md) — related
 - [Experts have reduced access to memory traces of their own cognitive processes due to automatization, and large domain knowledge can disadvantage performance on certain tasks](expert-automaticity-reduces-access-to-processes.md) — related

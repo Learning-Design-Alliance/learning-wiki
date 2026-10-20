@@ -38,7 +38,7 @@ sources:
 # Pretesting (Prequestions Before Study)
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 26 claims (6 for, 17 mixed, 3 against) · 24 studies (10 causal, 5 quant-synthesis, 4 review, 4 theoretical, 1 associational), `q1`–`q4` · 11 of 24 report an effect size · 20 claims rest on one study
+> **Evidence** · 26 claims (6 for, 17 mixed, 3 against) · 24 studies (10 causal, 5 quant-synthesis, 4 review, 4 theoretical, 1 associational), `q1`–`q4` · 12 of 24 report an effect size · 20 claims rest on one study
 
 ## Conditional relationship
 

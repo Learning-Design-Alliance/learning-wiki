@@ -51,7 +51,7 @@ Youth were assigned across five circuitry toolkit conditions (including e-textil
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Peppler & Thompson 2024](https://doi.org/10.1080/10508406.2024.2380694) | q3 · causal · r2 | i2 · e-textiles kit produced an 18.7 percentage-point overall gain versus 9.0 for the traditional kit, with a positive correlation between perceived femininity and learning gain | this claim |
-| [Peppler et al. 2025](https://doi.org/10.1080/07370008.2025.2485070) | q2 · qualitative · r? | i? | [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) (supports) |
+| [Peppler et al. 2025](https://doi.org/10.1080/07370008.2025.2485070) | q2 · qualitative · r? | i? | [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) (supports) |
 | [Frank 2012](https://doi.org/10.1103/physrevstper.8.020101) | q2 · qualitative · r2 | i? | [The physical stability of material artifacts such as stacked tickertape strips and workshe](material-artifact-stability-stabilizes-thinking.md) (supports) |
 | Frank 2009 | q2 · qualitative · r2 | i? | [Material arrangement of artifacts (strips centered and ordered by length, worksheets held ](material-arrangement-affords-stability.md) (supports) |
 | [Tofel-Grehl et al. 2024](https://doi.org/10.1080/10508406.2024.2409101) | q2 · qualitative · r2 | i? | [Identity-centered making supports simultaneous STEM engagement and identity affirmation fo](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) (supports) |
@@ -63,6 +63,6 @@ This is the strongest-evidence study in this ingest batch: a randomized comparis
 ## Related Claims
 - (none yet linked)
 - [Identity-centered making supports simultaneous STEM engagement and identity affirmation for queer youth](identity-centered-making-supports-stem-engagement-and-identity-affirmation.md) — related
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Principles of reason assessment are both subject-neutral and subject-specific](reason-assessment-principles-both-neutral-and-specific.md) — related
 - [A tablet-based AR app displaying real-time measurement data above circuit components aided conceptual knowledge acquisition more effectively than traditional physics lab lessons](ar-realtime-measurement-aids-conceptual-knowledge-physics.md) — related

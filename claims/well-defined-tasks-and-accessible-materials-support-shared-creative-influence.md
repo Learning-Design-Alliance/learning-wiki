@@ -51,7 +51,7 @@ This is a single-group case study (one focal group deeply analyzed out of four o
 - [Collaborative situations often fail to be productive in practice, so orchestrating collaboration is not simple](collaborative-situations-often-fail-productive.md) — the general claim this finding bears on, with the studies behind it
 - (none yet linked)
 - [The quality of inter-group interactions shifted from brief, superficial exchanges to long, detailed, collaborative discussions as community norms were negotiated](adlab-interaction-quality-shifted-from-superficial-to-collaborative.md) — related
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Functional fixedness — treating an object's or idea's function as fixed — blocks solutions that require reinterpreting it.](functional-fixedness-limits-problem-solving.md) — related
 - [Verfügungswissen and Orientierungswissen are inversely proportional in open environments](verfugungswissen-orientierungswissen-inverse.md) — related
 - [More group engagement in social regulation of learning is associated with higher-quality collaborative products](more-regulation-higher-product-quality.md) — related

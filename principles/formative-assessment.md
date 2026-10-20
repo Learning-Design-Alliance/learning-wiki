@@ -87,7 +87,7 @@ Before comparing another synthesis or applying an effect-size label, record assi
 Each question below links a general claim that gathers the studies behind it into one table, one row per distinct study, with each study's design and effect as recorded and no averaged verdict (`eval/synthesis/formative-assessment.json`, `scripts/synthesize_claim.py`). The count is of distinct studies across the claim and the narrower claims that bear on it.
 
 - Does using assessment evidence during instruction raise achievement compared with the usual teaching? [Assessment for learning improves achievement](../claims/assessment-for-learning-improves-achievement.md) [~S]: 10 distinct studies.
-- What should the feedback after a check say, and who or what should give it? [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [~S]: 7 distinct studies.
+- What should the feedback after a check say, and who or what should give it? [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [~S]: 7 distinct studies.
 - Should learners assess their own work, and can their self-ratings be trusted? [Self Assessment Improves Self Regulated Learning](../claims/self-assessment-improves-self-regulated-learning.md) [~M]: 13 distinct studies.
 - Should learners assess each other's work, and does it need a rubric or script? [Peer assessment improves academic performance by a small average amount relative to no assessment or to teacher assessment](../claims/peer-assessment-improves-performance.md) [~M]: 2 distinct studies.
 - Does adjusting instruction to each response help, and what do teachers do with the evidence? [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+S]: 20 distinct studies.
@@ -117,7 +117,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Contingent scaffolding improves learning more than fixed or absent support.](../claims/contingent-scaffolding-improves-learning.md) [+M] — not settled: the abstract available could not confirm the entries
 - [Process goals lead to better skill acquisition for novices than outcome goals.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M] — not settled: the abstract available could not confirm the entries
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the abstract available could not confirm the entries
+- [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](../claims/high-confidence-errors-improve-retention.md) [+S] — not settled: the abstract available could not confirm the entries
 - [Llmkt Outperforms Existing Kt Methods On Tutoring Dialogues](../claims/llmkt-outperforms-existing-kt-methods-on-tutoring-dialogues.md) [~W]
 - [Audio Discussions Increase Perceived Pronunciation Ability](../claims/audio-discussions-increase-perceived-pronunciation-ability.md) [+M]
 - [Decreased Perceived Pronunciation Difficulty](../claims/decreased-perceived-pronunciation-difficulty.md) [+M]

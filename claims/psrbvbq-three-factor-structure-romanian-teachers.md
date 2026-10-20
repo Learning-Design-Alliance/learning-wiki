@@ -46,4 +46,4 @@ Exploratory factor analysis of the 18-item questionnaire with 322 Romanian middl
 - [Teachers' perceived severity of bullying predicts their likelihood of reacting to incidents of aggression](perceived-severity-predicts-teacher-reaction.md) — related
 - [The three PSRBVBQ scales show good internal consistency, with Cronbach's alphas of .732 (perceived severity), .841 (response to bully) and .897 (response to victim)](psrbvbq-scales-internal-consistency.md) — related
 - Exploratory factor analysis indicates a four-factor solution best fits the survey response data — related
-- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](pilot-efa-four-factor-solution.md) — related
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](pilot-efa-four-factor-solution.md) — related

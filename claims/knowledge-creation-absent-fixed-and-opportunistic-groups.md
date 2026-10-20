@@ -45,6 +45,6 @@ The editors report the multi-faceted analysis of the fixed-group versus opportun
 ## Related Claims
 - [A coding scheme distinguishing knowledge creation from knowledge sharing and construction can differentiate student groups' engagement in knowledge creation](knowledge-creation-coding-scheme-distinguishes-groups.md) — related
 - [Internalizing wiki information can yield emergent knowledge that was in neither the person's prior knowledge nor the wiki](emergent-knowledge-from-internalization.md) — related
-- [Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — related
+- [Students in a collaborative, project-based engineering design course gained declarative knowledge but not procedural or principled knowledge or personal interest](dinsmore-project-based-declarative-only.md) — related
 - [Group A's discourse contained the idea units needed for knowledge construction but only rare rise-above moves, indicating a threshold rather than well-developed knowledge-creation discourse](group-a-threshold-knowledge-creation-discourse.md) — related
 - [All four groups showed a tendency toward knowledge sharing, presenting information without interpretation or evaluation](information-sharing-without-interpretation-prevalent.md) — related

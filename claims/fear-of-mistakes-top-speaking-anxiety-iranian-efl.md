@@ -44,7 +44,7 @@ Questionnaire survey of 154 EFL learners in English language institutes in Shira
 
 ## Related Claims
 - [Fear of negative evaluation and limited vocabulary knowledge rank second and third as sources of speaking anxiety (78% and 72%)](negative-evaluation-vocabulary-anxiety-ranks.md) — related
-- [Lack of practice ranks fourth among speaking anxiety sources, attributed to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
+- [Lack of practice ranks fourth among speaking anxiety sources, which the authors suggest may be due to teacher-centered Iranian classrooms](lack-of-practice-teacher-centered-anxiety.md) — related
 - [Anxiety in foreign language classroom learning experiences is linked with oral performance among Japanese EFL learners](flca-linked-with-oral-performance-japanese-efl.md) — related
 - [Speaking practice opportunities and teacher support reduced classroom anxiety and increased self-efficacy for one learner](speaking-practice-reduced-flca-increased-self-efficacy.md) — related
 - [EFL students report that games reduce speaking stress and improve speaking skills](games-reduce-speaking-stress-improve-skills.md) — related

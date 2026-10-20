@@ -44,7 +44,7 @@ Controlled between-subjects experiment with N = 93 eleventh- and twelfth-grade s
 
 ## Related Claims
 - [Providing expert example standards enhances absolute judgment accuracy in evaluating self-generated examples](expert-example-standards-enhance-absolute-accuracy.md) — related
-- [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](rubric-benefits-independent-of-task-performance.md) — related
+- [Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load](rubric-benefits-independent-of-task-performance.md) — related
 - [The benefits of rubrics on self-assessment accuracy do not depend on the inferential level of the assessment criteria](rubric-benefits-independent-of-inferential-level.md) — related
 - [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related

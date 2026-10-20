@@ -50,4 +50,4 @@ Qualitative posthumanist video analysis of the weaving unit shows intra-actions 
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
 - [Middle school students experienced their craft performance as computational, connecting weaving and sewing to loops and coding](students-experience-craft-performance-as-computational.md) — related
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related

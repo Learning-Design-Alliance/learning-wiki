@@ -43,7 +43,7 @@ The brief reports Hattie's meta-analytical synthesis of "hundreds of studies," w
 
 ## Related Claims
 
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 
 - [Assessment for learning improves achievement](assessment-for-learning-improves-achievement.md) — the general claim this finding bears on, with the studies behind it
 - [A structured feedback-and-reflection cycle (pre-lesson plan review, immediate verbal comments, written feedback, take-up time, and open-ended questioning) supported the mentee's reflective development](structured-feedback-reflection-cycle-mentoring.md) — related

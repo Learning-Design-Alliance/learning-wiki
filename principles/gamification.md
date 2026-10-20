@@ -13,7 +13,7 @@ generated:
 # Gamification
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 30 claims (12 for, 16 mixed, 2 against) · 40 studies (15 causal, 10 quant-synthesis, 10 review, 3 associational, 1 design, 1 theoretical), `q1`–`q4` · 9 of 40 report an effect size · 22 claims rest on one study
+> **Evidence** · 30 claims (12 for, 16 mixed, 2 against) · 40 studies (15 causal, 10 quant-synthesis, 10 review, 3 associational, 1 design, 1 theoretical), `q1`–`q4` · 10 of 40 report an effect size · 22 claims rest on one study
 
 ## Conditional relationship
 

@@ -11,8 +11,8 @@ evidence_strength: moderate
 sources:
   - id: kenneth-r-koedinger-2013
     resource: "https://doi.org/10.1609/aimag.v34i3.2484"
-    title: "Koedinger, K. R., Brunskill, E., Baker, R. S. J. d., McLaughlin, E. A., & Stamper, J. (2013). New potentials for data-driven intelligent tutoring system development and optimization. AI Magazine, 34(3), 27–41. doi:10.1609/aimag.v34i3.2484"
-    author: Kenneth R. Koedinger, Emma Brunskill, Ryan S.J.d. Baker, Elizabeth A. McLaughlin, and John Stamper
+    title: "Koedinger, K. R., Brunskill, E., Baker, R. S. J. d., McLaughlin, E. A., & Stamper, J. (2013). New potentials for data-driven intelligent tutoring system development and optimization. *AI Magazine, 34*(3), 27–41. [doi:10.1609/aimag.v34i3.2484](https://doi.org/10.1609/aimag.v34i3.2484)"
+    author: "Koedinger, K. R., Brunskill, E., Baker, R. S. J. d., McLaughlin, E. A., & Stamper, J."
     q: 2
     i: "?"
     kind: review

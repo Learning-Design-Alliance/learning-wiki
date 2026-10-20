@@ -13,7 +13,7 @@ generated:
 # Feelings Vocabulary
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q3` · 0 of 7 report an effect size · 1 claim rests on one study
+> **Evidence** · 3 claims (2 for, 1 mixed) · 7 studies (3 causal, 2 review, 1 quant-synthesis, 1 qualitative), `q2`–`q4` · 0 of 7 report an effect size · 1 claim rests on one study
 
 ## Description
 A feelings vocabulary is an explicitly taught lexicon of emotion terms — ranging from basic labels (happy, sad, angry) to granular distinctions (frustrated, disappointed, anxious, relieved) — that learners use to identify, differentiate, and communicate their internal states. It functions as a prerequisite component for emotional regulation, help-seeking, and social collaboration: learners who cannot name a state cannot strategically manage or report it.

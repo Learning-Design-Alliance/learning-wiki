@@ -26,7 +26,7 @@ A culturally adapted self-report scale measuring operational, formal/navigation,
 
 - [Subscales of the adapted Internet Skills Scale show acceptable internal consistency, lowest for the Operational subscale](../claims/internet-skills-scale-reliability-omega.md) [+W]
 - [Operational skills correlate moderately with Internet habitual use, while navigation and evaluation skills correlate only with informational activities](../claims/internet-skills-convergent-validity-use.md) [+W]
-- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed for weak or ambiguous loadings](../claims/pilot-efa-four-factor-solution.md) [+W]
+- [Exploratory factor analysis in the pilot stage supported a four-factor solution, with three items removed (a weak loading, a cross-loading, and a low item–total correlation with duplicated content)](../claims/pilot-efa-four-factor-solution.md) [+W]
 
 ## Related Products and Programmes
 

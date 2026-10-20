@@ -53,7 +53,7 @@ Path analysis (Model 1a) in 146 children; LS also negatively associated with DAY
 - [The WM–flexibility factor predicts math composite scores at both Grade 1 and Grade 3](wm-flexibility-predicts-math-composite-both-grades.md) — related
 - [Math anxiety compromises working memory only when the anxiety is aroused by computation-based tasks, not on verbal span assessments](math-anxiety-compromises-working-memory-when-aroused.md) — related
 - [Lower-than-average math ability, low working memory capacity, susceptibility to public embarrassment, and a nonsupportive teacher are proposed risk factors for developing math anxiety](risk-factors-for-developing-math-anxiety.md) — related
-- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
+- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
 - [Rational-number CCS test performance is predicted by working memory capacity and, to a lesser extent, by intrusion errors in the listening span](rational-number-ccs-predicted-by-wm-and-intrusions.md) — a narrower finding that bears on this claim
 - [QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math](qnc-levels-predict-grade-3-math.md) — related
 - [Teacher-rated general anxiety is associated with lower verbal working memory performance](general-anxiety-undermines-wm.md) — related

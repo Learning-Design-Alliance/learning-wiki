@@ -86,7 +86,7 @@ Fourth- and fifth-grade students (N=74) learned decimal magnitude in a brief tut
 ## Related Claims
 
 - [Students who self-explain worked examples learn more effectively than those who do not, and the quality of self-explanations relates to explaining deep structure](self-explanation-effect-worked-examples.md) — the general claim this finding bears on, with the studies behind it
-- [High-confidence errors lead to better retention after correction than low-confidence errors.](high-confidence-errors-improve-retention.md)
+- [High-confidence errors are more likely than low-confidence errors to be corrected on a later test after feedback.](high-confidence-errors-improve-retention.md)
 - [Prompting learners to self-explain improves understanding and problem solving on immediate tests by a moderate average amount, with little evidence yet on delayed or classroom gains.](self-explanation-improves-conceptual-understanding.md)
 - [Studying worked examples improves novices' algebra performance on problems with the same structure as the examples](worked-examples-improve-math-performance.md) — related
 - [Productive Failure Improves Conceptual Learning](productive-failure-improves-conceptual-learning.md) — related

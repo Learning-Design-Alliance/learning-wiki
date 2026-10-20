@@ -92,7 +92,7 @@ A review of research on the cognitive and social processes of writing, conceptio
 | Yu-Ling You; Shih-Guey Joe 2001 | q2 · qualitative · r2 | i? | [Skilled EFL writers possess audience awareness, keeping readers in mind to judge whether t](skilled-writers-audience-awareness.md) (supports) |
 | de Beaugrande 1977 | q1 · theoretical · r3 | i? | [The prior knowledge of the intended audience determines a text's information density, rate](audience-prior-knowledge-determines-information-density.md) (qualifies) |
 | [Jiaojiao Zhao 2026](https://doi.org/10.48550/arxiv.2606.09041) | q1 · qualitative · r1 | i? | [Presenting prototypes to community partners created a sense of accountability among studen](community-presentation-created-accountability-pressure.md) (supports) |
-| [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Public versus private reflection shows mixed effects: private journals are more analytic/i](public-vs-private-reflection-mixed.md) (qualifies) |
+| [Sturgill 2014](https://doi.org/10.20343/teachlearninqu.2.1.81) | q2 · causal · r1 | i? | [Public versus private reflection shows mixed results: private journal paragraphs were more](public-vs-private-reflection-mixed.md) (qualifies) |
 | [Kahn & Hall 2026](https://doi.org/10.1080/10508406.2026.2624531) | q2 · design · r2 | i? | [Personal connection to data supports critical data-literacy stance-taking](personal-connection-to-data-supports-critical-data-literacy-stance-taking.md) (qualifies) |
 <!-- synthesis:end -->
 
@@ -124,7 +124,7 @@ A review of research on the cognitive and social processes of writing, conceptio
 - [In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness](clt-four-ethical-tensions.md) — related
 - [Social collaboration in authentic assessment is mostly peer- and teacher-based, with few connections to industry or community partners and rare equitable teacher-student collaboration](aa-social-collaboration-limited-community-connection.md) — related
 - [Writing to younger students produced better mixture understanding than writing to the teacher, while younger-student and peer audiences did not differ](younger-audience-beats-teacher-audience-posttest.md) — related
-- [Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
+- [Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
 - [Duplicating readers' experiences helps young writers revise descriptive writing to meet readers' informational needs](duplicating-reader-experiences-meets-informational-needs.md) — related
 - [Instructional designers employ teaching activities such as self-reflection, authentic learning, and collaborative work to foster dispositions, but application is inconsistent](teaching-activities-foster-dispositions.md) — related
 - [Presenting prototypes to community partners created a sense of accountability among students that extended beyond grading](community-presentation-created-accountability-pressure.md) — related

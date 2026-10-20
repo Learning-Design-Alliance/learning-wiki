@@ -39,7 +39,7 @@ Because possession of particular tools, such as shaping materials, "could... giv
 
 ## Claims
 
-- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](../claims/off-task-more-common-in-larger-making-teams.md) [~M] (participation is harder to keep even in larger teams)
+- [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](../claims/off-task-more-common-in-larger-making-teams.md) [~M] (participation is harder to keep even in larger teams)
 - [Successful seventh-grade co-invention teams spent a much larger share of their embodied making actions on model making and experimenting than the unsuccessful team](../claims/model-making-experimenting-share-successful-co-invention-teams.md) [+M]
 
 ## Related Strategies

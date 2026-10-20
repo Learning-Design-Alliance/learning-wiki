@@ -13,7 +13,7 @@ generated:
 # Social Norms Marketing Campaign
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 for) · 5 studies (4 causal, 1 quant-synthesis), `q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (4 causal, 1 quant-synthesis), `q3`–`q4` · 0 of 5 report an effect size
 
 ## Description
 A social norms marketing campaign surveys a population to establish the *actual* prevalence of a behavior or attitude, then communicates that accurate data back to the population through posters, digital media, orientation sessions, or peer leaders. It targets the gap between perceived norms ("most students binge drink") and actual norms ("most students have 0–4 drinks"), on the theory that people misjudge peer behavior and adjust their own behavior toward the (usually exaggerated) perceived norm. The approach originated in campus alcohol prevention (Perkins & Berkowitz, 1986) and has since been applied to academic engagement, bystander behavior, recycling, and equity/climate interventions.

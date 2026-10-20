@@ -39,7 +39,7 @@ The review recommends that policies for improving low-SES students' learning out
 ## Claims
 
 - [SES moderates relationships between other variables and student learning](../claims/ses-as-moderator-of-other-relationships.md) [+M]
-- [SES effect sizes vary by SES indicator type, outcome type, grade level, and study year](../claims/ses-effect-moderators-indicator-outcome-grade-year.md) [+M]
+- [SES–learning effect sizes did not differ by SES indicator or outcome type in an umbrella review's meta-regressions; differences by grade level and study year rested on one or two effect sizes](../claims/ses-effect-moderators-indicator-outcome-grade-year.md) [+M]
 - [Individual meta-analyses report SES–achievement correlations ranging from r = .12 to r = .41](../claims/ses-first-order-effect-size-range.md) [+M]
 - [SES is associated with student learning at a mean effect size of r = .22, deemed large with reference to educational benchmarks](../claims/ses-mean-effect-size-r22-umbrella-review.md) [+M]
 - [SES measurement faces validity and practical challenges including student knowledge of parental data and missing data in single-parent families](../claims/ses-measurement-challenges-student-report.md) [~M]

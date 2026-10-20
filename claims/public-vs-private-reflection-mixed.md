@@ -50,4 +50,4 @@ Comparison of public blog paragraphs (one section) with private journal paragrap
 
 - [Authentic Audiences Improve Student Work](authentic-audiences-improve-student-work.md) — the general claim this finding bears on, with the studies behind it
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — related
-- [Guided reflection assignments produce roughly twice as much written reflection as free assignments](guided-reflection-produces-longer-reflections.md) — related
+- [Course sections given guided reflection assignments wrote roughly twice as much reflection as sections given free assignments](guided-reflection-produces-longer-reflections.md) — related

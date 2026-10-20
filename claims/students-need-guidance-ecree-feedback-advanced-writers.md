@@ -43,7 +43,7 @@ Key finding from the brief's study of Ecree in grade 8–11 ELA classrooms: "Stu
 
 ## Related Claims
 
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Some students struggled to use Ecree's and MI Write's automated feedback](some-students-struggled-automated-feedback-use.md) — related
 - [More than half of surveyed teachers agreed Ecree was useful for improving students' writing, but some students may be overwhelmed by the feedback](teachers-found-ecree-useful-but-some-students-overwhelmed.md) — related
 - [Ecree likely improved the quality of students' writing, especially for students with less advanced writing skills at the start of the school year](ecree-improved-writing-quality-especially-less-advanced-writers.md) — reports the opposite

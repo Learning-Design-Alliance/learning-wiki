@@ -46,5 +46,5 @@ Repeated-measures ANOVA linear contrasts on difference scores (old minus new) in
 - [The incidental learning advantage occurs from as little as two exposures to multimodal stimuli in complete beginners](incidental-learning-from-two-exposures.md) — related
 - [Incidental multimodal exposure produces better explicit translation-recognition performance on previously exposed words than on new words in beginner FL learners](incidental-multimodal-exposure-benefits-explicit-learning.md) — related
 - [Per-exposure learning gains decrease as the number of exposures increases: a small but significant negative linear trend in the normalized incidental learning effect](per-exposure-gains-decrease.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — reports the opposite
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — reports the opposite
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related

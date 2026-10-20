@@ -155,7 +155,7 @@ The guide reports, citing the Swanborn and de Glopper meta-analysis, that "the p
 - [Pairing Contextual Encounters With Explicit Instruction Produces Stronger Vocabulary Outcomes Than Either Alone](pairing-contextual-encounters-with-explicit-instruction-produces-stronger-vocabulary-outcomes-than-either-alone.md) — related
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
 - [Low reading-group first graders read far fewer words than high-group peers, limiting elaboration](low-group-first-graders-read-few-words.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — a narrower finding that bears on this claim
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — a narrower finding that bears on this claim
 - [Extensive reading improves vocabulary acquisition and spelling through repeated meaningful exposure](extensive-reading-improves-vocabulary-and-spelling.md) — a broader claim this one bears on
 - [Participants incidentally acquired an average of 3.19 of 20 target words after reading two passages](incidental-acquisition-rate-3-of-20-words.md) — a narrower finding that bears on this claim
 - [L2 learners pick up vocabulary incidentally from meaning-focused input, with reading the most-studied mode and listening yielding similar proportions of words learned](incidental-vocabulary-learning-through-reading-for-meaning.md) — related

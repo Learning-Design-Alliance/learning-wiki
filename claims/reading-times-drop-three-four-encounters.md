@@ -50,7 +50,7 @@ Post hoc Mann-Whitney comparisons with Bonferroni correction (.05/7 = .007) on e
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — the general claim this finding bears on, with the studies behind it
 - [The L1-L2 distinction in incidental vocabulary acquisition from reading lies in the rate, not the ultimate outcome, of the acquisition process](l1-l2-distinction-rate-not-outcome.md) — related
 - [Unknown words are read significantly longer than known control words in all four eye-tracking measures](targets-read-longer-than-controls-all-measures.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related
 - [Reading times on unfamiliar words decrease non-linearly, following an S-shaped curve, as exposures accumulate during natural reading](s-shaped-reading-time-decrease-repeated-exposure.md) — a broader claim this one bears on
 - [Participants respond increasingly faster to stimuli presented more often during the incidental letter-search task](faster-rt-more-exposures.md) — related
 - [Longer online reading times on unknown words are associated with higher vocabulary recall test scores](longer-reading-times-linked-higher-recall.md) — related

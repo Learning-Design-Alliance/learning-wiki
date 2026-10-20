@@ -47,4 +47,4 @@ Expert contribution to the structured scholarly dialogue: a sociolinguist workin
 - [Economic, educational, and geopolitical inequalities structure differential access to AI capabilities, reproducing an epistemic hierarchy](differential-ai-access-reproduces-epistemic-hierarchy.md) — related
 - [Automated grading systems may produce systematically inequitable outcomes for international and non-Western students](automated-grading-bias-non-native-english.md) — a narrower finding that bears on this claim
 - [Unstructured LLM use contributes to epistemic narrowing by privileging convergent outputs and dominant viewpoints](unstructured-llm-use-epistemic-narrowing.md) — related
-- [Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware](pidgin-fine-tuning-improves-linguistic-alignment.md) — related
+- [Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated](pidgin-fine-tuning-improves-linguistic-alignment.md) — related

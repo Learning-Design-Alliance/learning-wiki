@@ -43,7 +43,7 @@ The review reports, citing Steiss et al., Henderson et al., and Lu et al., that 
 
 ## Related Claims
 
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [AI multimodal feedback is rated higher than educator feedback on specificity, clarity, simplicity, motivation, satisfaction, and lower mental effort, with comparable correctness, trust, and acceptance](ai-feedback-higher-perceived-quality-value.md) — reports the opposite
 - [AI assessors show emerging reliability: acceptable AI-human rater agreement (Cohen's 0.78) in a 12-educator case study and human-comparable feedback helpfulness ratings with 45 learners](agentic-assessment-rater-agreement-and-helpfulness.md) — related
 - [GPT-4o-mini natural language feedback was overwhelmingly helpful and never harmful in quality annotation](nl-feedback-quality-92-percent-helpful.md) — related

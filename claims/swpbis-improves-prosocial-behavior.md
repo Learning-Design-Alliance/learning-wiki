@@ -52,4 +52,4 @@ In the 4-year group RCT, HLM on teacher TOCA-C prosocial behavior ratings showed
 - [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
 - [SWPBIS reduces the rate of increase in teacher-reported peer rejection over elementary school](swpbis-reduces-growth-peer-rejection.md) — related
-- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = -0.39)](swpbis-reduces-grade-retention-skilled.md) — related

@@ -74,7 +74,7 @@ Mediation testing used bias-corrected bootstrapping with 5,000 resamples and 95%
 - [LLMs can deliver scalable, personalized, interactive feedback almost instantly, reducing dependency on teacher availability and supporting self-regulated learning in large courses](llms-scalable-personalized-feedback-large-courses.md) — related
 - [Perceived usefulness of the AI assistant significantly and partially mediated the relationship between AI-assisted programming and collaborative outcomes and performance](perceived-usefulness-mediation-ai-programming-outcomes.md) — related
 - [Metacognitive and strategic scaffold-use subgroups solved more problems correctly than moderate and low-use subgroups](scaffold-use-subgroups-problem-solving.md) — related
-- [AI applications support self-regulated learning regulation but not motivational regulation](ai-supports-srl-not-motivation-regulation.md) — related
+- [Learners perceive AI applications as useful for regulating their learning but not for regulating motivation](ai-supports-srl-not-motivation-regulation.md) — related
 - [GenAI literacy is positively associated with GenAI-assisted self-regulated learning behaviors among special education undergraduates](genai-literacy-positive-srlb-special-education-undergraduates.md) — related
 - [Self-regulatory activities mediate the relationship between person, context, and achievement](srl-activities-mediate-person-context-achievement.md) — a broader claim this one bears on
 - [GenAI learning outcomes depend more on use quality (capability, reflective engagement, retained agency) than on frequency of use](genai-use-quality-over-frequency.md) — related

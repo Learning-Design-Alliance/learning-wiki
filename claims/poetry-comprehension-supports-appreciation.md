@@ -46,7 +46,7 @@ Reader-satisfaction coding of the think-aloud protocols (Research question 4), f
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](expert-poetry-interpretive-strategies.md) — related
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](expert-poetry-interpretive-strategies.md) — related
 - [When experts cannot make clear sense of a passage, they shift from constructing what the poem says to how the poet is saying it, treating obscurity as deliberate.](experts-shift-to-how-poem-means-when-obscure.md) — related
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](novices-internalized-poetry-discourse-conventions.md) — related
 - [Experts spent much longer on each poem and produced longer protocols than novices, because for experts finding a meaningful pattern was only the starting point for higher-level analysis.](poetry-experts-longer-protocols-than-novices.md) — related

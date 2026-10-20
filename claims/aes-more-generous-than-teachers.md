@@ -63,7 +63,7 @@ Dimension-level paired tests (Table 5) found significant AES-higher differences 
 
 ## Related Claims
 
-- [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](teacher-aes-agree-tails-diverge-middle.md) — related
+- [In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](teacher-aes-agree-tails-diverge-middle.md) — related
 - [Middle school students with the lowest baseline argumentative-writing scores showed the largest growth across essay attempts on an AES platform, while mid- and high-baseline students showed limited or no significant change](aes-lowest-baseline-students-gain-most.md)
 - [The best AES models per FRISCO dimension reached strong agreement for Situation (QWK 0.728) and Clarity (QWK 0.763) but only fair agreement for Focus, Reason, and Inference in Indonesian physics essays](aes-frisco-qwk-varies-by-dimension.md)
 - [Automated essay scoring can achieve high agreement with human raters but faces calibration constraints](aes-high-agreement-calibration-constraint.md) — a broader claim this one bears on

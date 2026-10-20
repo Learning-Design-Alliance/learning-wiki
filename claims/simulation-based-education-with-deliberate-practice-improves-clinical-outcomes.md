@@ -22,7 +22,7 @@ sources:
 # Simulation Based Education With Deliberate Practice Improves Clinical Outcomes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i2` medium · n=14 studies
+> **Evidence** · 1 study · quant-synthesis `r?` · `q3` · `i3` large · n=14 studies
 
 Simulation-based education that incorporates deliberate practice — repeated, goal-directed rehearsal with immediate feedback and increasing difficulty — improves clinical skill performance and, in some domains, patient-level outcomes.
 
@@ -47,7 +47,7 @@ Systematic review and meta-analysis of 3,742 identified articles, of which 14 me
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
-| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i2 · medium effect, d=0.71 | this claim |
+| [McGaghie et al. 2011](https://doi.org/10.1097/acm.0b013e318217e119) | q3 · quant-synthesis · r? | i3 · large effect, pooled effect size correlation r=0.71 | this claim |
 | [Cook et al. 2011](https://doi.org/10.1001/jama.2011.1234) | q4 · quant-synthesis · r3 | i3 · large effect, pooled effect sizes 1.09–1.20 for knowledge and skills; 0.79–0.81 for behaviors | [Simulation Based Education Improves Outcomes](simulation-based-education-improves-outcomes.md) (qualifies) |
 | Do 2024 | q2 · causal · r1 | i? | [Deliberate practice interventions produce higher real estate licensing exam pass rates tha](deliberate-practice-raises-licensing-pass-rate.md) (supports) |
 | [Kulik et al. 1990](https://doi.org/10.3102/00346543060002265) | q4 · quant-synthesis · r? | i2 · medium effect, mean ES = 0.52 SD (SE 0.033) across 103 studies of examination performance | [Mastery Learning Improves Outcomes](mastery-learning-improves-outcomes.md) (supports) |

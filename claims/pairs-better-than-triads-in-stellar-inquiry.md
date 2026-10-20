@@ -53,4 +53,4 @@ This is the authors' experiential observation from teaching the inquiry twice (U
 - [Peer Discussion Improves Conceptual Understanding](peer-discussion-improves-conceptual-understanding.md) — related
 - [Team teaching offers planning advantages but carries risks of interpersonal friction and domination by a dogmatic team member](team-teaching-pros-and-cons.md) — related
 - [Whether individual or peer practice works better with ASR-based pronunciation training is unsettled: one study found individual work best, a meta-analysis found peer practice gave larger effects](individual-work-best-asr-pronunciation-training.md) — related
-- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](off-task-more-common-in-larger-making-teams.md) — a narrower finding that bears on this claim
+- [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](off-task-more-common-in-larger-making-teams.md) — a narrower finding that bears on this claim

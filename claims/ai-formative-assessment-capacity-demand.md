@@ -43,7 +43,7 @@ The report's formative assessment section, drawing on educator interviews. One t
 
 - [Effective implementation of formative assessment is hindered by its complexity, summative-assessment pressure, and teachers' negative early experiences](formative-assessment-implementation-barriers.md) — the general claim this finding bears on, with the studies behind it
 - Coursemojo's color-coded engagement dots served as a real-time diagnostic that coaches reported enabled in-the-moment scaffolding and small group pulls — related
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — related
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — related
 - [Nearly all educators most want AI to free up time in existing workflows and return capacity to overburdened staff](educators-want-ai-time-savings.md) — a broader claim this one bears on
 - [Students want ongoing targeted formative feedback, but faculty time constraints and large class sizes limit providing it](formative-feedback-constraints-gateway-math.md) — related
 - [Interest in AI for feedback in higher education is driven by workload reduction and feedback timeliness amid massification](ai-feedback-interest-workload-timeliness.md) — possibly the same claim (merge candidate)

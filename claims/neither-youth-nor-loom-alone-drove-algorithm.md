@@ -48,5 +48,5 @@ Fine-grained video analysis of Boe, a 13-year-old participant, weaving a gap pat
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related
 - [Weaving supports middle school students' performance of the computational concepts variables, conditionals, and functions](weaving-performs-variables-conditionals-functions.md) — related
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Algorithms developed over time through changes in youth-material collaborations, defining learning as physical expansion of algorithmic production](algorithms-expand-over-time-youth-material-changes.md) — related

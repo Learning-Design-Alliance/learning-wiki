@@ -131,7 +131,7 @@ This pattern is scoped to small-group work where each member's individual learni
 - [Neurodivergent students prefer teams of 3–5 students while neurotypical students most prefer teams of 2](../claims/nd-prefer-teams-of-3-to-5-nt-prefer-pairs.md) [~W]
 - [Accountability can produce positive or negative effects depending on type, decision context, and task nature](../claims/accountability-effects-depend-on-type-context-task.md) [~W]
 - [Editorial reports that meta-level talk about group process, but not about individual actions, is associated with superior group outcomes](../claims/editorial-reports-meta-group-talk-aids-group-performance.md) [~W]
-- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
+- [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](../claims/off-task-more-common-in-larger-making-teams.md) [~W]
 - [Kindergarten triads sharing one computer with three mice and interdependent roles enhanced social skills](../claims/kindergarten-triads-shared-computer-social-skills.md) [+W]
 - [Team regulation correlates positively with learning results only in the CHT condition](../claims/team-regulation-learning-results-correlation-cht.md) [~W]
 - [Cooperative learning exercises were rated highly useful by >94% of students and were associated with roughly doubled class attendance](../claims/cooperative-learning-usefulness-attendance.md) [+W]

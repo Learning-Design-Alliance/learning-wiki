@@ -22,7 +22,7 @@ sources:
     author: "Bertsch, S., Pesta, B. J., Wiscott, R., & McDaniel, M. A."
     q: 4
     i: 2
-    n: "445 generation effects, 17,711 subjects"
+    n: 445 generation effects, 17,711 subjects
     kind: quant-synthesis
     rigour: "?"
 ---
@@ -30,7 +30,7 @@ sources:
 # Generation Effect Improves Retention
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4`
+> **Evidence** · 2 studies · 1 causal `r?`, 1 quant-synthesis `r?` · `q3`–`q4` · `i2` medium · n=445 generation effects, 17,711 subjects
 
 Information that learners actively generate (completing a word, producing an answer, deriving a rule) is remembered better than information they passively read, even when generation takes longer or produces errors.
 
@@ -63,12 +63,12 @@ A meta-analytic review of the generation-effect literature. Generating material 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 0 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does generating an answer or item, rather than reading it, improve later memory of it, and for which materials?* This table gathers the studies behind this claim and the 4 narrower claims that bear on it: **3 distinct studies** (2 causal, 1 quant-synthesis), `q2`–`q4`, 1 of 3 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|
 | [Slamecka & Graf 1978](https://doi.org/10.1037/0278-7393.4.6.592) | q3 · causal · r? | i? | this claim |
-| [Bertsch et al. 2007](https://doi.org/10.3758/bf03193441) | q4 · quant-synthesis · r? | i? | this claim |
+| [Bertsch et al. 2007](https://doi.org/10.3758/bf03193441) | q4 · quant-synthesis · r? | i2 · medium effect, d=.40 | this claim |
 | [John Duplice 2025](https://doi.org/10.29140/vli.v14n1.102482) | q2 · causal · r1 | i? | [Treatment-by-test-type interactions in Knowledge scores significantly favor the generation](generation-knowledge-interaction-advantage.md) (supports); [Generation tasks show no significant overall treatment effect on L2 vocabulary Knowledge s](generation-no-overall-knowledge-effect-l2-vocabulary.md) (counts against); [Bonferroni-corrected pairwise comparisons show no significant generation-versus-baseline d](generation-no-pairwise-differences-knowledge.md) (counts against); [Generation as the sole desirable difficulty produced no detrimental effect on L2 vocabular](generation-no-detriment-l2-recall.md) (qualifies) |
 <!-- synthesis:end -->
 

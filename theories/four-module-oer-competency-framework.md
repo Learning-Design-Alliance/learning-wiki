@@ -39,7 +39,7 @@ The article organizes the competencies at stake into four modules: production of
 
 - [Mooc Oer Competencies Mostly Advanced Similar Across Modules](../claims/mooc-oer-competencies-mostly-advanced-similar-across-modules.md) [+M]
 - [Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules](../claims/doctoral-teachers-highest-advanced-oer-competence.md) [+W]
-- [Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear](../claims/three-oer-competencies-depend-on-education-level.md) [~W]
+- [Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear](../claims/three-oer-competencies-depend-on-education-level.md) [~W]
 - [Most teachers report precise identification of OER sources plus at least two diffusion improvements when implementing a diffusion strategy](../claims/oer-diffusion-strategy-implementation-self-reports.md) [+W]
 
 ## Related Theories

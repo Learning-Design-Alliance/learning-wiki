@@ -12,7 +12,7 @@ sources:
   - id: hengtao-tang-2025
     resource: "https://doi.org/10.1007/s11251-024-09699-z"
     title: "Ellison, J. P., & Tang, H. (2025). Self-regulated learning and video annotation in a high school acting classroom. Instructional Science. https://doi.org/10.1007/s11251-024-09699-z"
-    author: Jessica Perry Ellison, Hengtao Tang
+    author: "Ellison, J. P., & Tang, H."
     q: 1
     i: "?"
     kind: design

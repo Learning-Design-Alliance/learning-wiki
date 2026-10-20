@@ -49,7 +49,7 @@ Within-class comparisons in the group-randomized trial using the Services Assess
 - [SWPBIS does not significantly reduce out-of-school suspensions in this trial](swpbis-no-effect-suspensions.md) — related
 - [SWPBIS produces a very small reduction in teacher-rated concentration problems among elementary school children (ES = 0.08)](swpbis-reduces-concentration-problems.md) — related
 - [SWPBIS produces a very small reduction in teacher-rated aggressive and disruptive behavior among elementary school children over 4 years (ES = 0.12)](swpbis-reduces-disruptive-behavior.md) — related
-- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = 0.39)](swpbis-reduces-grade-retention-skilled.md) — related
+- [Socially-emotionally skilled children in SWPBIS schools were less often held back a grade than skilled peers in comparison schools (1.8% vs 4.2%, d = -0.39)](swpbis-reduces-grade-retention-skilled.md) — related
 - [At-risk children in SWPBIS schools are slightly less likely to receive an office discipline referral than at-risk peers in comparison schools (41.3% vs 46.5%, d = -0.13)](swpbis-reduces-odr-at-risk-high-risk.md) — related
 - [SWPBIS reduces the odds of receiving an office discipline referral](swpbis-reduces-office-discipline-referrals.md) — related
 - [At-risk children in SWPBIS schools were significantly less likely to be referred to special education than at-risk peers in comparison schools](swpbis-reduces-special-education-referral-at-risk.md) — related

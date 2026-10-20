@@ -50,4 +50,4 @@ Cross-case comparison of the same 68 PSMTs' responses to two questionnaire items
 - [The Egyptian school probability curriculum is dominated by quasi-pedagogical randomising-device tasks](egyptian-curriculum-quasi-pedagogical-dominance.md) — related
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](m-thinkers-equiprobability-insensitivity-biases.md) — related
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](o-star-star-law-of-large-numbers.md) — related
-- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](outcome-oriented-causal-conception.md) — related
+- [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](outcome-oriented-causal-conception.md) — related

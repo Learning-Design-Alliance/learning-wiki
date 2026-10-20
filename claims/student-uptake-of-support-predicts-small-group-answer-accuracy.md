@@ -14,7 +14,7 @@ sources:
     author: "van de Pol, J., Mercer, N., & Volman, M."
     q: 3
     i: "?"
-    n: 7 seventh-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
+    n: 7 eighth-grade Dutch social studies teachers, 28 students (7 groups of 4), 35 lessons, 13,316 coded interaction turns
     kind: associational
     rigour: 1
 ---

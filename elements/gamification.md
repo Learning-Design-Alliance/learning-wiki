@@ -26,7 +26,7 @@ Gamification is the element in which points, progress indicators, challenges, or
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
 - [Expected tangible rewards reduce later free-choice engagement with a rewarded task, while verbal praise does not](../claims/rewards-undermine-intrinsic-motivation.md) [-M]
 - [Evidence on gamification's effect on engagement in adaptive learning platforms is mixed, with claims of greatest impact alongside reports of minimal effect](../claims/gamification-engagement-mixed-evidence.md) [~W]
-- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](../claims/optimal-challenge-sustains-gaming-engagement.md) [~W]
+- [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](../claims/optimal-challenge-sustains-gaming-engagement.md) [~W]
 
 ## Related Elements
 - [Adaptive Difficulty](adaptive-difficulty.md)

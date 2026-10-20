@@ -63,5 +63,5 @@ Coded percentages of off-task 3-min segments from the process rugs. The Button P
 
 ## Related Claims
 - [The SleepSound team applied science, computer engineering, and product design practices in more segments and at higher simultaneous intensity than the other two teams](claim-sleepsound-intensity-fixes.md) — related
-- [Off-task activity was more common in the larger six-to-seven-member teams than in the compact teams](off-task-more-common-in-larger-making-teams.md) — related
+- [Off-task activity appeared more common in the larger six-to-seven-member teams than in the compact teams, though not in every larger team](off-task-more-common-in-larger-making-teams.md) — related
 - [A shared epistemic object let a team with substantial off-task time (UrPo) still complete a successful co-invention](shared-object-regrouping-after-off-task.md) — related

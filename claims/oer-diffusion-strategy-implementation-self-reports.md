@@ -43,7 +43,7 @@ Self-assessment survey results for module three question 11 on implementing an O
 
 
 ## Related Claims
-- [Three OER competencies depend on educational level, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — related
+- [Teachers' educational level was statistically associated with their responses on three of 37 OER-competency survey items, though the definition-of-elements association is weak and non-linear](three-oer-competencies-depend-on-education-level.md) — related
 - [Doctoral-level teachers show the highest advanced-level percentage in each of the four OER competency modules](doctoral-teachers-highest-advanced-oer-competence.md) — related
 - [MOOC participants self-assess predominantly at the advanced competency level, with very similar level distributions across all four OER competency modules](mooc-oer-competencies-mostly-advanced-similar-across-modules.md) — related
 - [Openness in education shifts the focus from content (OER) to practices (OEP)](openness-shifts-oer-to-oep.md) — related

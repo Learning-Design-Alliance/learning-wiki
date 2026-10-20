@@ -48,5 +48,5 @@ Paragraph-count comparison across two guided and two free journal sections of th
 
 - [Reflective Practice Improves Outcomes When Structured](reflective-practice-improves-outcomes-when-structured.md) — the general claim this finding bears on, with the studies behind it
 - [Guided written reflection yields more analytic and integrative paragraphs than free reflection in service learning](guided-reflection-yields-more-higher-order-paragraphs-than-free.md) — related
-- [Public versus private reflection shows mixed effects: private journals are more analytic/integrative overall, but public blogs elicit more integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
+- [Public versus private reflection shows mixed results: private journal paragraphs were more often analytic or integrative overall, but a larger share of public blog paragraphs were integrative big-picture writing](public-vs-private-reflection-mixed.md) — related
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related

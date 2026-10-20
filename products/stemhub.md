@@ -24,7 +24,7 @@ STEMHub is a modular AI-enhanced personalised and adaptive learning platform dev
 
 ### Claims
 - [Integrating cognitive scores with non-cognitive learner attributes enables the system to dynamically adapt AI-generated explanations in tone, depth and instructional strategy to individual learner performance](../claims/cognitive-noncognitive-integration-adapts-ai-explanations.md) [+W]
-- [Fine-tuning LLMs on Nigerian Pidgin English improves linguistic naturalness and cultural appropriateness: native speakers rated fine-tuned model outputs as understandable and context-aware](../claims/pidgin-fine-tuning-improves-linguistic-alignment.md) [+M]
+- [Native speakers rated outputs of LLMs fine-tuned on Nigerian Pidgin English as understandable and context-aware, though no non-fine-tuned baseline was evaluated](../claims/pidgin-fine-tuning-improves-linguistic-alignment.md) [+M]
 
 ## Related Products and Programmes
 

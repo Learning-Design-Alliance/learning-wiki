@@ -28,7 +28,7 @@ The between-student method, first used in physics by Sayre and Heckler, gives sh
 - **Between-student testing and the response curve as a method for revealing the dynamics of student understanding**: The between-student method, first used in physics by Sayre and Heckler, gives short conceptual quizzes to different sub-groups of the population in successive weeks, avoiding test-retest effects. Plotting average performance over weeks yields a "response curve" sensitive to the current topic of instruction and to exams or homework. The conventional pre/post test corresponds to only the first and last points on the curve and "can miss much of the dynamic evolution of understanding." (Clark et al. (2010))
 
 ### Claims
-- [Direct instruction on forces produces a significant positive effect on Newton's Third Law responses that peaks at instruction's end and diminishes by the end of the quarter](../claims/instruction-positive-effect-peaks-then-diminishes.md) [+M]
+- [Correct responses to Newton's Third Law questions rose while forces were taught, peaked at the end of that instruction and fell back toward chance by the end of the quarter](../claims/instruction-positive-effect-peaks-then-diminishes.md) [+M]
 - [Instruction on scalar electric potential produces a pronounced dip in correct vector-based Newton's Third Law responses in E&M](../claims/scalar-instruction-interferes-with-vector-responses.md) [+M]
 
 ## Related Research Methods

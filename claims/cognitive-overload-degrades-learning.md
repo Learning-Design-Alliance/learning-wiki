@@ -14,7 +14,7 @@ sources:
     author: "Noetel, M., Griffith, S., Delaney, O., Harris, N. R., Sanders, T., Parker, P., del Pozo Cruz, B., & Lonsdale, C."
     q: 4
     i: 1
-    n: 29 reviews (1,189 studies, 78,177 participants)
+    n: 29 reviews (1,189 studies; 78,177 participants in the abstract, 79,415 in the Results)
     kind: quant-synthesis
     rigour: 2
   - id: sweller-1988

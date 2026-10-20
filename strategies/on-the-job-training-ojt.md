@@ -45,7 +45,7 @@ Well-run OJT is essentially [Cognitive Apprenticeship](cognitive-apprenticeship.
 - An experienced worker released from production targets for the duration, and prepared to train rather than merely to be shadowed ([Coaching](../elements/coaching.md))
 - A written task breakdown so that coverage does not depend on which jobs happen to arrive that week
 - A defined competence check that says when the learner is signed off, separate from "the trainer thinks they're fine"
-- Immediate corrective feedback while the task is still in the learner's hands [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- Immediate corrective feedback while the task is still in the learner's hands [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]
 
 #### Constraints
 - Unstructured OJT delivers inconsistent coverage: content varies with the day's workload, and errors in one trainer's practice propagate to every learner they train [-M]

@@ -30,7 +30,7 @@ The CoI Survey, developed by Arbaugh et al., measures students’ perceptions of
 
 ### Claims
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](../claims/cognitive-presence-highest-least-variable-online-cbi.md) [+W]
-- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](../claims/coi-presence-uneven-profile-mba.md) [+W]
+- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0](../claims/coi-presence-uneven-profile-mba.md) [+W]
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](../claims/mba-students-experience-courses-as-coi.md) [+W]
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](../claims/self-co-regulation-highly-correlated-online-cbi.md) [+W]
 
@@ -70,7 +70,7 @@ The study used two validated survey instruments: the 34-item CoI Survey (Arbaugh
 ### Claims
 <!- - Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] - ->
 - [In an online case-based course, students perceive cognitive presence as highest and least variable, and teaching presence as the most variable, among the CoI presences and metacognition dimensions](../claims/cognitive-presence-highest-least-variable-online-cbi.md) [+W]
-- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while facilitation behaviors and resolution-phase items rated below 4.0](../claims/coi-presence-uneven-profile-mba.md) [+W]
+- [CoI survey ratings reveal uneven presence profiles: course organization and exploration rated highest while most facilitation items and three cognitive-presence items (curiosity, reflection, testing and applying knowledge) rated below 4.0](../claims/coi-presence-uneven-profile-mba.md) [+W]
 - [Students in an accelerated online MBA program experience their courses as a community of inquiry, with all three CoI presences rated above 4.0 on a 5-point scale](../claims/mba-students-experience-courses-as-coi.md) [+W]
 - [Self-regulation and co-regulation are significantly and highly correlated in an online case-based course](../claims/self-co-regulation-highly-correlated-online-cbi.md) [+W]
 

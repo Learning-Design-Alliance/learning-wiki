@@ -21,7 +21,7 @@ sources:
     author: "Fazio, L. K., & Marsh, E. J."
     q: 3
     i: "?"
-    n: unspecified
+    n: 118
     kind: causal
     rigour: "?"
 id: high-confidence-errors-improve-retention

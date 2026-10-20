@@ -45,6 +45,6 @@ A second coding iteration on the same video corpus analyzed variations of the ba
 ## Related Claims
 - [The editorial reports that human-material interactions in fibre crafting produce algorithmic outcomes, with materials acting as collaborative agents (Keune)](human-material-collaboration-fibre-craft-algorithms.md) — a broader claim this one bears on
 - [In weaving, performed algorithms emerged as repeated youth-material movements one dimension at a time, producing reliable fabric outputs](weaving-algorithm-one-dimension-at-a-time.md) — related
-- [Fiber crafting develops proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
+- [Fiber crafting can engage proportional reasoning through nested, personally-defined units](fiber-crafting-develops-proportional-reasoning-through-unitizing.md) — related
 - [Neither youth nor loom alone drove the algorithmic production and fabric output; both actively produced it collaboratively](neither-youth-nor-loom-alone-drove-algorithm.md) — related
 - [Computation in weaving is characterized by the performance of automation, with student-loom patterns moving from irregular to regular over time](weaving-computation-as-automation.md) — related

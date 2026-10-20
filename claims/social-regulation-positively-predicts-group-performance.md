@@ -51,5 +51,5 @@ Multiple regression analysis using the four interaction factor scores to predict
 - [Regulation of social activities positively affected group performance (Janssen et al.)](social-activities-regulation-group-performance.md) — possibly the same claim (merge candidate)
 - [Regulation at the dyadic and/or group level is positively related to group performance in CSCL](dyadic-group-regulation-related-group-performance.md) — a broader claim this one bears on
 - [In CSCL history inquiry, regulation of social activities predicts group performance while social activities are negatively related to group performance](regulation-of-social-activities-predicts-group-performance.md) — a broader claim this one bears on
-- [Secondary students in CSCL devote most of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
+- [Secondary students in CSCL devote much of their communication to regulating task performance, especially planning the task and monitoring task progress](cscl-groups-mostly-regulate-task-performance.md) — related
 - [Both regulation of task performance and regulation of the collaboration process are important for effective CSCL](task-and-collaboration-regulation-both-important.md) — a broader claim this one bears on

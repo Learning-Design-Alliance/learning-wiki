@@ -47,4 +47,4 @@ Definitional/argumentative statement in the brief's introduction, citing the lit
 - Productive difficulty at the edge of mastery, with high expectations, fosters deeper learning — possibly the same claim (merge candidate)
 - [Static individual assessment misses developing functions; ZPD-based assessment reveals potential competencies](static-assessment-misses-emerging-functions.md) — related
 - Deep thinking and making connections help students build strong memories and learn more deeply — related
-- [Sustained gaming engagement depends on controlling an optimal level of challenge: games too hard are abandoned and games too easy are boring](optimal-challenge-sustains-gaming-engagement.md) — related
+- [In gamers' interview reports, sustained gaming engagement appeared closely related to controlling an optimal level of challenge: games too hard were often abandoned and games too easy lost their interest](optimal-challenge-sustains-gaming-engagement.md) — related

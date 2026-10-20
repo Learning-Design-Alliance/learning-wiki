@@ -58,7 +58,7 @@ At an Australian secondary school, three grade-7 mathematics classes (C1, C2, C3
 - [Active learning improves exam performance.](active-learning-improves-exam-performance.md) — the pedagogical change that redesigned spaces are meant to enable
 - [Coherence principle: irrelevant material hurts learning.](coherence-principle-irrelevant-material-hurts-learning.md) — over-stimulating decor and novelty can impose extraneous load
 - [Cognitive load theory.](../theories/cognitive-load-theory.md) — framework for why physical distraction and mismatched affordances degrade learning
-- [Iterative redesign of a peer-feedback task increased class engagement across three rounds](iterative-task-redesign-increased-engagement.md) — related
+- [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related
 - [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
 - [Inquiry environments are hard to scale because they are ambitious learning activity systems requiring changes in roles, participation, and system coherence](inquiry-environments-ambitious-systems-hard-to-scale.md) — related
 - [An LLM-based educational agent-enriched learning context improved task performance in most experimental classes but not all, with one experimental class underperforming the control on the complex task](dbagent-improves-achievement-mostly.md) — related

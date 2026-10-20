@@ -143,7 +143,7 @@ A year-long study of 35 fourth-graders across two classrooms implementing Qualit
 - [Accountable Talk](../strategies/accountable_talk.md) — a specific structured discussion framework with explicit talk norms and moves.
 - [Advance organizers produce a small average learning benefit, larger for high-ability than for low-ability learners](advance-organizers-improve-learning.md) — related
 - [Argumentation quality is associated with denser co-occurrence of scientific reasoning and self-regulation processes](argumentation-quality-associated-with-reasoning-self-regulation-co-occurrence.md) — related
-- [Iterative redesign of a peer-feedback task increased class engagement across three rounds](iterative-task-redesign-increased-engagement.md) — related
+- [In a single-teacher case study, redesigning a peer-feedback task produced more specific and varied student notes, which the authors read as a more engaged class](iterative-task-redesign-increased-engagement.md) — related
 - [Reading Strategy Instruction Improves Comprehension](reading-strategy-instruction-improves-comprehension.md) — related
 - [Questioning strategies improve learning.](questioning-strategies-improve-learning.md) — teacher questioning quality is a primary driver of discussion quality
 - [Cognitive disequilibrium motivates conceptual change.](cognitive-disequilibrium-motivates-conceptual-change.md) — productive discussion often works by surfacing and resolving conceptual conflict

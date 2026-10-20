@@ -43,7 +43,7 @@ Protocol comparison at the obscure short lines (27-36) of the metaphysical poem 
 
 
 ## Related Claims
-- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](expert-poetry-interpretive-strategies.md) — related
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](expert-poetry-interpretive-strategies.md) — related
 - [Experts spent much longer on each poem and produced longer protocols than novices, because for experts finding a meaningful pattern was only the starting point for higher-level analysis.](poetry-experts-longer-protocols-than-novices.md) — related
 - [Experts expressed greater appreciation of the poems and their specific images, while novices very frequently expressed interpretive frustration and dissatisfaction.](poetry-comprehension-supports-appreciation.md) — related
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](novices-internalized-poetry-discourse-conventions.md) — related

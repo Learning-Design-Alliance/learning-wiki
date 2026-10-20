@@ -46,7 +46,7 @@ Time-on-task and protocol-length records from the think-aloud study: novices ave
 - [Prior Knowledge](../learner-variables/prior-knowledge.md) — predictor: learners who differ on it differ in outcomes
 
 ## Related Claims
-- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](expert-poetry-interpretive-strategies.md) — related
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](expert-poetry-interpretive-strategies.md) — related
 - [When experts cannot make clear sense of a passage, they shift from constructing what the poem says to how the poet is saying it, treating obscurity as deliberate.](experts-shift-to-how-poem-means-when-obscure.md) — related
 - [Experts expressed greater appreciation of the poems and their specific images, while novices very frequently expressed interpretive frustration and dissatisfaction.](poetry-comprehension-supports-appreciation.md) — related
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](novices-internalized-poetry-discourse-conventions.md) — related

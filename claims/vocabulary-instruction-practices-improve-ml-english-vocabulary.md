@@ -52,4 +52,4 @@ Synthesis of instructional-practice findings across multiple systematic reviews 
 - [Single exposures yield partial word knowledge, and repeated encounters in varied contexts build complete word meaning (fast mapping then full mapping)](fast-mapping-full-mapping-word-learning.md) — related
 - [Vocabulary Instruction Improves Comprehension](vocabulary-instruction-improves-comprehension.md) — related
 - [Vocabulary Knowledge Grows Incrementally With Repeated Encounters In Varied Contexts](vocabulary-knowledge-grows-incrementally-with-repeated-encounters-in-varied-contexts.md) — related
-- [The more often learners meet a word while reading, the more likely they are to learn it incidentally, with a moderate correlation across studies](exposure-frequency-predicts-incidental-gains.md) — related
+- [The more often learners meet a word while reading, the more likely they are to learn it incidentally; a meta-analysis of correlational studies finds a moderate correlation](exposure-frequency-predicts-incidental-gains.md) — related

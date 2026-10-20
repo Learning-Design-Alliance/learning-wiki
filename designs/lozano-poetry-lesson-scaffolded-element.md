@@ -39,7 +39,7 @@ An early elementary lesson example, inspired by a lesson taught by Olivia Lozano
 ### Claims
 
 - Temporary Contingent Scaffolding Principle [+M]
-- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices did not use.](../claims/expert-poetry-interpretive-strategies.md) [+W]
+- [Experts employed productive interpretive strategies in making poems coherent — using structure, binary oppositions, wordplay, rhythm and rhyme as cues, and scanning to contextualize — which novices used minimally.](../claims/expert-poetry-interpretive-strategies.md) [+W]
 
 ## Related Designs
 - 

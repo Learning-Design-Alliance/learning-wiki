@@ -75,7 +75,11 @@ def load_bearing(pages: dict, ranking: list) -> dict:
         verdicts = []
         for j in by_claim.get(r["claim"], []):
             rec = judged.get(j[-2])
-            if rec is None:
+            if rec is None and j[-1] in reviewed:
+                # dismissed after a person or agent read the source; check_load_bearing does
+                # not re-judge it, so it has no verdict at its current text and is not unjudged
+                verdicts.append("dismissed")
+            elif rec is None:
                 verdicts.append("never judged")
             elif rec["verdict"] in ("fail", "not-this-study") and j[-1] in reviewed:
                 verdicts.append("dismissed")
@@ -87,7 +91,7 @@ def load_bearing(pages: dict, ranking: list) -> dict:
             state[r["claim"]] = "not checkable"
         elif "fail" in verdicts or "not-this-study" in verdicts:
             state[r["claim"]] = "open failure"
-        elif "pass" in verdicts:
+        elif "pass" in verdicts or "dismissed" in verdicts:
             state[r["claim"]] = "checked"
         elif "never judged" in verdicts:
             state[r["claim"]] = "never judged"

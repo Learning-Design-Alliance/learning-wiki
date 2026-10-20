@@ -41,7 +41,7 @@ The study models PSMTs' probabilistic reasoning in a unified schema with three c
 - [Attributing outcomes to Allah's will among some PSMTs functioned as probabilistic reasoning, not mere personalist belief](../claims/allahs-will-as-probabilistic-reasoning.md) [+W]
 - [Mathematically oriented PSMTs exhibit equiprobability and insensitivity-to-prior-probability biases](../claims/m-thinkers-equiprobability-insensitivity-biases.md) [+W]
 - [A bias-free experimental-probability subcategory (o**) emerged only in the die-rolling task](../claims/o-star-star-law-of-large-numbers.md) [+W]
-- [Outcome-oriented PSMTs conflate causality with conditionality and predict single-trial outcomes](../claims/outcome-oriented-causal-conception.md) [+W]
+- [Some outcome-oriented PSMTs (types o and o*) predict single-trial outcomes, and type o* thinkers conflate causality with conditionality](../claims/outcome-oriented-causal-conception.md) [+W]
 - [Subjectively oriented reasoning emerged in the giving-birth context but disappeared in the die-rolling task](../claims/subjective-reasoning-context-dependent.md) [+W]
 
 ## Related Theories

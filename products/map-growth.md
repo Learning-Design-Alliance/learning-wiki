@@ -224,7 +224,7 @@ MAP Growth is NWEA's computer-adaptive assessment system, with national achievem
 - [The assessment's engagement feature had a consistently positive impact under both in-person and remote proctoring](../claims/engagement-feature-positive-impact-both-proctoring-modes.md) [+W]
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](../claims/content-proximity-pilot-validity-reliability-comparability.md) [+W]
 - [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](../claims/content-proximity-more-on-grade-items.md) [+M]
-- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade](../claims/content-proximity-math-scores-higher.md) [+W]
+- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with effects ranging from negligible to small by grade](../claims/content-proximity-math-scores-higher.md) [+W]
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](../claims/norms-prediction-rmsd-math-reading.md) [~W]
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](../claims/spanish-map-reading-adaptive-lower-sem.md) [+W]
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](../claims/pilot-blueprint-fulfillment.md) [+M]
@@ -548,7 +548,7 @@ Content Proximity is a new item-selection algorithm used by MAP Growth assessmen
 
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](../claims/content-proximity-pilot-validity-reliability-comparability.md) [+W]
 - [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](../claims/content-proximity-more-on-grade-items.md) [+W]
-- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade](../claims/content-proximity-math-scores-higher.md) [+W]
+- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with effects ranging from negligible to small by grade](../claims/content-proximity-math-scores-higher.md) [+W]
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](../claims/norms-prediction-rmsd-math-reading.md) [~W]
 - [The adaptive algorithm's item selection produces a significantly lower SEM than fixed-form tests](../claims/spanish-map-reading-adaptive-lower-sem.md) [+W]
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](../claims/pilot-blueprint-fulfillment.md) [+W]

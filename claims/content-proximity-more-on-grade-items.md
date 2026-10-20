@@ -43,7 +43,7 @@ Results from the spring 2022 pilot study comparing pilot and propensity-score-ma
 
 
 ## Related Claims
-- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade](content-proximity-math-scores-higher.md) — related
+- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with effects ranging from negligible to small by grade](content-proximity-math-scores-higher.md) — related
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](pilot-blueprint-fulfillment.md) — related
 - [Item difficulty estimates from target-plus-adjacent-grade samples generally differ from original estimates about as much as on-grade estimates do, with mean differences within 0.11 logit](map-growth-three-grade-calibration-comparable-to-original.md) — related
 - [The Content Proximity spring 2022 pilot study examined validity, reliability, and test score comparability of MAP Growth assessments using the new item-selection algorithm](content-proximity-pilot-validity-reliability-comparability.md) — a broader claim this one bears on

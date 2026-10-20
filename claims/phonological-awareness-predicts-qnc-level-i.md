@@ -50,4 +50,4 @@ Structural equation model on the longitudinal sample (108 children at T1, 91 at 
 - [Phonological awareness at age 4–5 does not predict later arithmetic skills despite being predicted by early oral language](phonological-awareness-not-arithmetic-predictor.md) — reports the opposite
 - [QNC Level I predicts QNC Level II/III, which in turn predicts Grade 3 mathematics achievement; QNC Level I also retains a direct path to Grade 3 math](qnc-levels-predict-grade-3-math.md) — related
 - [Preschool counting skills and number knowledge directly predict formal arithmetic skills in primary school, together accounting for 40–46% of variance](counting-number-knowledge-predict-arithmetic.md) — related
-- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and affects Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related
+- [Visual-spatial working memory predicts higher-order QNC (Level II/III) but not basic numerical skills, and is linked to Grade 3 math only indirectly](visuospatial-sketchpad-predicts-higher-qnc.md) — related

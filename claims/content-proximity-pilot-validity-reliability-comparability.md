@@ -43,7 +43,7 @@ The article is an executive summary page for a technical report on the Content P
 
 
 ## Related Claims
-- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with small effects varying by grade](content-proximity-math-scores-higher.md) — related
+- [Content Proximity math scores were consistently higher than traditional MAP Growth math scores, with effects ranging from negligible to small by grade](content-proximity-math-scores-higher.md) — related
 - [Content Proximity pilot tests contained significantly more on-grade items and made better use of adjacent-grade items than traditional MAP Growth tests](content-proximity-more-on-grade-items.md) — a narrower finding that bears on this claim
 - [Pilot test events largely fulfilled updated blueprint requirements, including increased reading passages per test event](pilot-blueprint-fulfillment.md) — a narrower finding that bears on this claim
 - [Growth-norms predictions showed larger RMSDs for pilot math scores but similar predictions for reading](norms-prediction-rmsd-math-reading.md) — a narrower finding that bears on this claim

@@ -49,5 +49,5 @@ Omnibus three-way interaction from the linear mixed-effects model of learning ga
 ## Related Claims
 - [Among low baseline self-efficacy students, favorability toward a format moderated its benefit: tutor favorability favored tutor gains, paper unfavorability favored paper gains](favorability-moderates-format-benefit-low-self-efficacy.md) — possibly the same claim (merge candidate)
 - [ITS-based practice did not improve post-training self-efficacy relative to paper-based practice; baseline self-efficacy was the primary determinant](its-practice-no-self-efficacy-gain.md) — related
-- [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
+- [Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
 - [Tutor-based practice produced greater learning gains than paper-based practice on matched problem sets](tutor-practice-greater-learning-gains-than-paper.md) — related

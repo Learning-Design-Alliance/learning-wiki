@@ -70,7 +70,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 - [Learners prefer receiving corrective feedback more than teachers feel they should provide it](../claims/learners-prefer-cf-more-than-teachers-provide.md) [+W]
 
 ## The evidence by question
-- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](../claims/feedback-improves-learning.md) [+S]
+- *What should the feedback after a check say, and who or what should give it?* [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](../claims/feedback-improves-learning.md) [+S]
 - *Should corrective feedback come immediately after a response, or can it wait?* [A review reports that pretesting helps paired-associate learning only when correct-answer feedback is immediate, but helps trivia-fact learning even when feedback is delayed up to 24 hours](../claims/feedback-timing-moderates-pretesting.md) [~M]
 
 ## Related Elements

@@ -54,4 +54,4 @@ Subgroup analysis of the quasi-experimental study's 1,626 low-performing student
 - [The vPLC-augmented ASSISTments treatment sample comprised 59 teachers and 2,855 students in grades 6-8 from 36 public schools across 24 U.S. states, half in rural areas](treatment-sample-rural-middle-schools-assistments.md) — related
 - [In the full-sample analysis, baseline demographic and prior-achievement differences between treatment and matched comparison groups were minimal, with effect sizes below the WWC threshold](air-tutors-full-sample-baseline-equivalence.md) — related
 - [Rural students overall did not show a significant effect, but low-performing rural students did](vplc-assistments-rural-subgroup-effects.md) — related
-- [Students with lower baseline self-efficacy achieved greater learning gains regardless of practice format](lower-baseline-self-efficacy-greater-learning-gains.md) — related
+- [Students with lower baseline self-efficacy achieved greater learning gains in both practice formats, though the relationship varied with favorability toward each format](lower-baseline-self-efficacy-greater-learning-gains.md) — related

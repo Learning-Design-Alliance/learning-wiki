@@ -26,7 +26,7 @@ The ASAP 2.0 dataset is a public benchmark of approximately 24,000 student argum
 
 - [Out-of-the-box LLMs agree with human essay grades far less than human raters agree with each other](../claims/llm-essay-scoring-weak-human-agreement.md) [+W]
 - [Newer LLM generations do not consistently agree better with human essay graders](../claims/no-consistent-generational-improvement-llm-grading.md) [+W]
-- [Teacher and AES scores agreed most at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](../claims/teacher-aes-agree-tails-diverge-middle.md) [~W]
+- [In Support & Evidence and Claim & Focus, teacher and AES scores agreed at the lowest and highest rubric points but diverged in the middle, with teachers more likely to score a 2 and the AES a 3](../claims/teacher-aes-agree-tails-diverge-middle.md) [~W]
 
 ## Related Products and Programmes
 

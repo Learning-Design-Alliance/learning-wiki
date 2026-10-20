@@ -21,7 +21,7 @@ sources:
     resource: "https://doi.org/10.1073/pnas.2218621120"
     title: "Weiss, C. M., Ran, S., & Halperin, E. (2023). Educating for inclusion: Diversity education programs can reduce prejudice toward outgroups in Israel. *Proceedings of the National Academy of Sciences, 120*(16), e2218621120. [doi:10.1073/pnas.2218621120](https://doi.org/10.1073/pnas.2218621120)"
     author: "Weiss, C. M., Ran, S., & Halperin, E."
-    q: 3
+    q: 4
     i: "?"
     n: 270 students (study 1, 12 classes) + 767 students (study 2, 46 classes, 29 treated)
     kind: causal
@@ -40,7 +40,7 @@ sources:
 # Building Empathy Improves Intergroup Attitudes
 
 > **Claim** · [All claims](index.md)
-> **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3`
+> **Evidence** · 3 studies · 2 causal `r2`, 1 quant-synthesis `r?` · `q3`–`q4`
 
 Empathy-building activities — such as perspective-taking exercises, empathic role-play, and narrative engagement with outgroup members' experiences — improve learners' attitudes toward members of other social groups.
 
@@ -81,7 +81,7 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Does structured perspective-taking or contact improve learners' attitudes towards another person or group, and does it reach behaviour?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q3`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does structured perspective-taking or contact improve learners' attitudes towards another person or group, and does it reach behaviour?* This table gathers the studies behind this claim and the 5 narrower claims that bear on it: **8 distinct studies** (3 causal, 2 review, 2 qualitative, 1 quant-synthesis), `q1`–`q4`, 0 of 8 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

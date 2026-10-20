@@ -44,7 +44,7 @@ Mixed repeated-measures ANOVA with condition as between-subjects factor and infe
 
 ## Related Claims
 - [The reduction in perceived difficulty does not mediate the benefits of rubrics on self-assessment accuracy](perceived-difficulty-does-not-mediate-rubric-accuracy-benefits.md) — related
-- [The benefits of rubrics on self-assessment accuracy and cognitive load do not depend on learners' task performance](rubric-benefits-independent-of-task-performance.md) — related
+- [Exploratory tests found no significant interaction between receiving a rubric and learners' task performance on self-assessment accuracy or cognitive load](rubric-benefits-independent-of-task-performance.md) — related
 - [Self Assessment Accuracy Is Low Without Training](self-assessment-accuracy-is-low-without-training.md) — related
 - [Structured criteria in peer assessment are not shown to improve its effect on academic performance over freeform review](peer-assessment-structured-criteria-improve-learning.md) — related
 - [Self-assessing against a rubric improved the quality of student work in two non-randomised studies, one of which also found more stress and performance-avoidance](rubrics-improve-student-work.md) — related

@@ -62,7 +62,7 @@ Multisite cluster-randomized longitudinal field experiment with 1,176 first-year
 
 - [Reflection improves correspondence between perceived and behavioral reliance on ChatGPT](reflection-improves-awareness-calibration.md) — the general claim this finding bears on, with the studies behind it
 
-- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and more than a third of feedback interventions reduce performance](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
+- [Feedback improves learning by a medium amount on average, but its effect varies widely with the information it carries, and a substantial share of feedback effects are negative](feedback-improves-learning.md) — the general claim this finding bears on, with the studies behind it
 - [Reflective and hybrid feedback outperform direct GenAI feedback on delayed AI-free transfer](agentic-designs-delayed-ai-free-transfer.md) — related
 - [Hybrid feedback outperforms direct GenAI feedback on conceptual learning; the reflective–direct contrast is positive but non-significant](hybrid-feedback-conceptual-learning-advantage.md) — related
 - Randomization produced baseline-equivalent conditions across the four feedback designs — related

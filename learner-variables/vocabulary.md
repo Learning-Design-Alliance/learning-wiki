@@ -13,7 +13,7 @@ generated:
 # Vocabulary
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 78 claims (58 show a difference, 10 mixed, 10 no difference) · 58 studies (19 causal, 18 associational, 13 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 16 of 58 report an effect size · 75 claims rest on one study
+> **Evidence** · 78 claims (58 show a difference, 10 mixed, 10 no difference) · 58 studies (19 causal, 18 associational, 13 quant-synthesis, 5 review, 1 qualitative, 1 design, 1 theoretical), `q1`–`q3` · 17 of 58 report an effect size · 75 claims rest on one study
 
 ## Description
 Vocabulary is the store of words a learner understands (receptive vocabulary) and uses (expressive or productive vocabulary), together with the strategies they use to work out unfamiliar words. It is measured with picture-vocabulary tests, in which a learner picks the picture matching a spoken word, with language samples that count the number and variety of words used, and, for older students, with measures of academic language features in writing.

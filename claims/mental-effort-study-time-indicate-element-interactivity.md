@@ -82,7 +82,7 @@ The authors' summary of the eight-session descriptive analysis, contrasting with
 ## Related Claims
 
 - [Design principle effects are larger in system-paced and in complex media, and learner prior knowledge was not a significant moderator (p = 0.14)](design-principle-effects-moderated-by-pacing-and-complexity.md) — the general claim this finding bears on, with the studies behind it
-- [As the element interactivity level of thermodynamics topics increases, learning becomes more difficult and retention and transfer scores decrease](retention-transfer-scores-decrease-with-element-interactivity.md) — related
+- [In one thermodynamics study, retention and transfer scores tended to be lower on topics of higher element interactivity, a descriptive pattern with several sessions that did not fit it](retention-transfer-scores-decrease-with-element-interactivity.md) — related
 - [Elaborative interrogation increased perceived difficulty and time spent with the lesson](elaborative-interrogation-increases-difficulty-and-time-on-lesson.md) — related
 - [Self-reported mental effort increased less across tasks in the ChatGPT condition while perceived difficulty rose equally in both groups](chatgpt-flatter-mental-effort-trajectory.md) — related
 - [AI assistance reduces subjective mental effort across all tasks even when it does not reduce completion time, dissociating time and effort](ai-effort-reduction-time-effort-dissociation.md) — related
