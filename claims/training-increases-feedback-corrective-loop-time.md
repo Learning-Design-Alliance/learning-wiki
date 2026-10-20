@@ -48,3 +48,4 @@ Classroom observation study of 21 trained and 19 control secondary mathematics t
 
 - [Mastery learning implementation did not reduce material covered or instructional pace, contradicting the Robin Hood contention](mastery-learning-did-not-slow-pace-or-scope.md) — the general claim this finding bears on, with the studies behind it
 - Trained teachers reallocated time unevenly: significantly more to presenting/developing lessons and quizzes, less to homework review, independent practice, and transitions — related
+- [Staff development for multigrade teachers improved time-on-task and teaching skills but did not raise achievement relative to untrained single-grade classes](staff-development-multigrade-teachers-effects.md) — related

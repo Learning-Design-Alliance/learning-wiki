@@ -47,3 +47,4 @@ Bootstrap mediation analysis (Hayes procedure, 10,000 bootstrap samples) run on 
 - [Adding concessive statements to refutation texts yields no added benefit for conceptual change about multimedia-learning misconceptions](concessive-statements-no-added-benefit-conceptual-change.md) — related
 - [Extraneous cognitive load did not mediate the detrimental effect of seductive details in this online study](ecl-mediation-not-replicated-online.md) — related
 - [The intervention did not enhance students' sourcing in specifying the information need](sourcing-intervention-no-effect-specifying-information-need.md) — related
+- [Misconceptions were addressed in nine reviewed articles, all in science, via augmented activation, refutation texts, or analogical reasoning, though one study found activating inaccurate information may not be detrimental](misconception-addressing-techniques-science-review.md) — related

@@ -31,7 +31,7 @@ sources:
 # Match the form and content of staff development interventions to clients' assessed Stages of Concern
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 22 claims (14 for, 8 mixed) · 10 studies (3 associational, 2 review, 2 qualitative, 2 design, 1 theoretical), `q1`–`q2` · 1 of 10 report an effect size · 22 claims rest on one study
+> **Evidence** · 23 claims (14 for, 9 mixed) · 11 studies (3 associational, 2 review, 2 qualitative, 2 design, 2 theoretical), `q1`–`q2` · 1 of 11 report an effect size · 23 claims rest on one study
 
 ## Conditional relationship
 
@@ -164,6 +164,10 @@ For example, a district wants every grade-4 teacher running a new science kit by
 The expectation should weaken if studies comparing stage-matched support with uniform support, for comparable adopters and the same innovation, find no difference in use level or concerns at a term or more, or if a uniform, well-resourced programme with good follow-up does as well as matching. If concern profiles turn out not to predict which support people take up or benefit from, the diagnosis is a description, not a guide to design. If progression-and-retreat or persistent early concerns are the common pattern, the stage labels should give way to tracking several concerns at once. If concern readings, once taken, change what they measure enough to mislead, use observation of use instead. Do not protect the model by calling every failure a mismatch after the fact.
 
 Changes in concerns, changes in use, fidelity of use and effects on students are separate outcomes; the claims here speak mostly to the first, a little to the second, and not at all to the last.
+
+## Claims
+
+- [Every assessment procedure or instrument embodies a sense of telos, producing data that locate people along the researcher's assumed developmental path](../claims/assessment-instruments-embed-telos.md) [~W]
 
 ## Related Principles
 - [Guide change efforts with systemic understanding](systemic-understanding-guides-change-efforts.md) — the whole-system view of a change effort; this page supplies the person-by-person diagnosis inside it.

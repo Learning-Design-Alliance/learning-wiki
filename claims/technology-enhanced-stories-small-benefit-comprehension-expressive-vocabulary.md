@@ -71,3 +71,4 @@ Same meta-analytic synthesis (43 studies, 2,147 children, random effects model).
 - [Technology-enhanced stories show no significant additional effect on receptive vocabulary compared with traditional storybook reading](technology-stories-no-receptive-vocabulary-effect.md) — related
 - Study design moderates the technology effect: between-subject studies yield a significantly higher average effect than within-subject studies — related
 - [Technology-enhanced stories show no significant effect on child engagement and communication during reading](technology-stories-no-engagement-effect.md) — related
+- [Educational technology interventions show positive effects on reading comprehension in elementary school](edtech-positive-effects-reading-comprehension.md) — related

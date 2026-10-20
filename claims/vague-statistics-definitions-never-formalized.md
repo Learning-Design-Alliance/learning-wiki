@@ -48,3 +48,4 @@ Descriptive analysis of statistics definitions in the textbook scan. Go Math! de
 - Variation in meta-analytic effect sizes stems from synthesists' methodological choices (inclusion criteria, data extraction, formulas, outlier handling) and from study quality — related
 - Professional development texts on data use provide few opportunities for educators to learn statistics, treating statistical concepts superficially — a broader claim this one bears on
 - [Session intensity and duration distributions flagged physically impossible persistence as severe statistical outliers](session-intensity-duration-outlier-flagging.md) — related
+- [Prior knowledge and prior knowledge activation are often vaguely defined in the activation literature, with only 10 of 54 articles explicitly defining prior knowledge](prior-knowledge-definitions-vague-in-activation-research.md) — related

@@ -53,3 +53,4 @@ Qualitative evaluation of the VCP rubric used for developmental purposes only fr
 - [District teams struggled to produce rigorous, reliable evidence for assessing their improvement work](districts-struggled-with-evidence-rigor.md) — related
 - [Case-study states rely on locally developed performance assessments created and piloted by teachers, with collaborative scoring](locally-developed-performance-assessments-teacher-collaborative-scoring.md) — related
 - [Districts defined pilot success differently, making it difficult to set a standard for evaluating product effects on student improvement](varied-success-definitions-hinder-evaluation.md) — related
+- [Global-judgment criteria of counselor effectiveness lack clarity, making replication fruitless and the research unproductive](global-judgment-criteria-replication-fruitless.md) — related

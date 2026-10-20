@@ -13,7 +13,7 @@ generated:
 # Domain Context
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 45 claims (36 show a difference, 8 mixed, 1 no difference) · 44 studies (12 review, 11 qualitative, 6 causal, 6 design, 5 quant-synthesis, 3 theoretical, 1 associational), `q1`–`q4` · 6 of 44 report an effect size · 41 claims rest on one study
+> **Evidence** · 47 claims (37 show a difference, 9 mixed, 1 no difference) · 46 studies (13 review, 11 qualitative, 6 causal, 6 design, 5 quant-synthesis, 4 theoretical, 1 associational), `q1`–`q4` · 6 of 46 report an effect size · 43 claims rest on one study
 
 ## Description
 The sector, role or setting a scenario must be placed in before a learner recognises it as theirs. This is the course-specific dimension: what counts as a recognisable case differs by subject in a way the other dimensions do not. It changes who appears in a scenario and what a task is *about*, not how hard it is — and it is the dimension most likely to be filled with the designer's own context by default.
@@ -85,6 +85,8 @@ The sector, role or setting a scenario must be placed in before a learner recogn
 - [Data practice emphasis varies across science disciplines, with environmental science and biology dominating the literature](../claims/data-practices-vary-by-discipline.md) [+M] — learners who differ on it differ in outcomes
 - [Situational motivation is influenced by the learning context, with evidence mainly from situation-specific studies (65%) rather than momentary studies (28%)](../claims/situational-motivation-influenced-by-learning-context.md) [+M] — learners who differ on it differ in outcomes
 - [The effectiveness of concrete representations may depend more on how relatable they are than on their real-world existence](../claims/concrete-representations-effectiveness-relatability.md) [~M] — an instructional effect differs with it
+- [Lave, Murtaugh, and de la Rocha found grocery shoppers nearly infallible at situated price-comparison mathematics but answering fewer than half of identical abstract paper-and-pencil problems correctly](../claims/lave-grocery-shoppers-situated-vs-paper-math.md) [+M] — an instructional effect differs with it
+- [The relevance and level of students' knowledge moderates activation effectiveness: mobilizing irrelevant information impaired comprehension, while open-ended mobilization benefited students with lower topic knowledge more](../claims/knowledge-relevance-and-level-moderate-activation-effects.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does setting problems in contexts drawn from learners' interests raise engagement and performance?* [An IES practice-guide presentation recommends personalized problem contexts, asserting without cited studies that students engage more actively and perform better in them](../claims/personalized-problem-contexts-boost-engagement-grades-4-8.md) [+W]

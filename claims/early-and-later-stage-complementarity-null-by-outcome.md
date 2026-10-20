@@ -67,3 +67,4 @@ Later-stage (last and next-to-last sessions) comparison of Complementarity Index
 - [During the early stage of therapy, more severely maladjusted clients elicit higher levels of therapist complementarity](early-stage-maladjustment-elicits-complementarity.md) — related
 - [Observed interaction frequencies support the Interaction Matrix cell weightings, with the most interactions in the highest-weighted cells](interaction-frequencies-support-matrix-weightings.md) — related
 - Therapy relationships do not show a transition from relational incongruence to congruence across sessions — related
+- [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related

@@ -86,7 +86,7 @@ Small randomized experimental studies (Mueller and Dweck 1998) cited under Recom
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Should the positive comment and the assurance speak to the learner's ability, or to their work and effort?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does crediting a learner's success to the person, rather than to what they did, change how they respond to later difficulty?* This table gathers the studies behind this claim and the 2 narrower claims that bear on it: **5 distinct studies** (3 review, 1 causal, 1 theoretical), `q2`–`q3`, 0 of 5 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

@@ -49,3 +49,4 @@ Selecting a School section finding: some students framed this freedom as possibl
 - [Parents' school choices were constrained by disability-linked safety fears and transportation barriers](iep-parents-safety-transportation-constraints.md) — related
 - [During pairing, both teachers and students favored shared decision-making over full student control for roles, partners, and collaboration content.](claim-shared-control-roles-and-content.md) — related
 - [Eighth-grade students navigating high school choice considered three main categories of factors—setting, school, and student factors—plus two overarching concepts of a good school and fit](three-categories-student-choice-factors-high-school.md) — related
+- [In hunter-gatherer communities, children themselves generally decide whether to attend school, reflecting the cultural value of childhood autonomy](hunter-gatherer-children-decide-school-attendance.md) — related

@@ -47,7 +47,7 @@ A Dutch cohort of roughly 11,000 students entering secondary school in 1999 was 
 ## Studies bearing on this claim
 
 <!-- synthesis:start -->
-*Do a feedback giver's expectations of a learner, or of the learner's group, show in the feedback given and in the learner's later performance?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **6 distinct studies** (2 associational, 1 qualitative, 1 design, 1 review, 1 causal), `q1`–`q2`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
+*Does how a teacher reads a learner, by deficits or by strengths, shape the teacher's expectations, and do those expectations bear on the learner's later performance?* This table gathers the studies behind this claim and the 7 narrower claims that bear on it: **6 distinct studies** (2 associational, 1 qualitative, 1 design, 1 review, 1 causal), `q1`–`q2`, 0 of 6 with an effect size coded. One row per study, codes as each entry records them; no effect is averaged and no verdict is drawn. Built by `scripts/synthesize_claim.py` from `eval/synthesis/`; a row that looks wrong is fixed on the claim it comes from.
 
 | Study | Design | Effect as recorded | Bears on this claim through |
 |---|---|---|---|

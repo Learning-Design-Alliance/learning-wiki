@@ -45,3 +45,4 @@ The review reports, citing studies of grocery shopping (Lave et al., 1984), dair
 ## Related Claims
 
 - [Problem order produced an order effect: solving basketball problems first improved performance on all problems, while school problems first lowered performance](basketball-problem-order-effect-on-performance.md)
+- [Lave, Murtaugh, and de la Rocha found grocery shoppers nearly infallible at situated price-comparison mathematics but answering fewer than half of identical abstract paper-and-pencil problems correctly](lave-grocery-shoppers-situated-vs-paper-math.md) — a narrower finding that bears on this claim

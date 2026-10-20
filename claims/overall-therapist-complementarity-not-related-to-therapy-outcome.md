@@ -49,3 +49,4 @@ Behavioral analysis of 120 rated tape segments from 20 late-adolescent clients (
 - [During the middle stage of therapy, successful therapists respond at a significantly lower level of complementarity than unsuccessful therapists](middle-stage-lower-complementarity-successful-therapists.md) — reports the opposite
 - Therapy relationships do not show a transition from relational incongruence to congruence across sessions — related
 - Response redundancy (relational congruence) is not related to working alliance ratings — related
+- [Quality of the therapeutic relationship and counseling effectiveness are not correlated with each other, though both correlate with therapist experience](therapeutic-relationship-quality-uncorrelated-with-effectiveness.md) — related

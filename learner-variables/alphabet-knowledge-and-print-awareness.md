@@ -13,7 +13,7 @@ generated:
 # Alphabet Knowledge and Print Awareness
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 43 claims (22 show a difference, 10 mixed, 11 no difference) · 25 studies (15 causal, 4 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 17 of 25 report an effect size · 42 claims rest on one study
+> **Evidence** · 46 claims (23 show a difference, 12 mixed, 11 no difference) · 26 studies (15 causal, 5 quant-synthesis, 3 associational, 1 review, 1 qualitative, 1 design), `q1`–`q3` · 18 of 26 report an effect size · 45 claims rest on one study
 
 ## Description
 Alphabet knowledge is knowing the names, written forms and sounds of letters, including letter combinations that represent a single sound. Print awareness is the understanding that print carries meaning and has different functions, and of how it works on the page (that text is read in a set direction, that words are separated by spaces, and so on), something experienced readers forget they had to learn. Both are measured in early childhood: alphabet knowledge by asking children to name and sound out randomly ordered upper- and lower-case letters, print awareness by informal assessments in which a child handles a book.
@@ -83,6 +83,9 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Combined letter name and sound instruction produced greater letter name production gains than letter sound only instruction in preschoolers](../claims/combined-lnls-beats-ls-letter-name-production-gains.md) [+M] — instruction changes it
 - [Combined letter name and sound instruction produced greater letter sound gains than number instruction, with a trend over letter sound only instruction](../claims/combined-lnls-letter-sound-gains-over-control.md) [~M] — instruction changes it
 - [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](../claims/ls-only-possible-letter-name-interference.md) [~M] — instruction changes it
+- [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](../claims/flp-medium-immediate-marginal-followup-effect.md) [~M] — instruction changes it
+- [Programs offering only literacy-related activities yield larger effects than programs also targeting other cognitive or socioemotional skills](../claims/flp-literacy-only-programs-larger-effects.md) [+M] — instruction changes it
+- [Programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no effects](../claims/flp-center-based-component-negatively-associated.md) [~M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

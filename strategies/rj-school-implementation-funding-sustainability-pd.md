@@ -43,6 +43,7 @@ The review distills implementation guidance from the literature and practitioner
 - [Implement sustained educator development programs including needs assessment, coaching, communities of practice, and experiential learning](educator-ai-development-support-programs.md)
 - [Structural supports for restorative practices: funding, people, time, discipline policy, and equity](structural-supports-restorative-implementation.md)
 - [House the certifying entity within structures and policies that promote alignment, buy-in, and sustained funding](certifying-entity-housing-and-sustainability-structures.md)
+- [Integrate multiple strategies in a context-based and community-involved approach to reverse violence and promote peace](context-based-community-involved-violence-response-strategy.md)
 
 ## Examples
 -

@@ -146,3 +146,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [Relevancy of emphasized text directs attention and influences test performance](relevancy-of-emphasis-directs-attention.md) — related
 - [No seductive details effect on transfer was observed, and no definitive conclusions about comprehension effects can be drawn from the multiple-choice transfer data](no-transfer-effect-seductive-details.md) — reports the opposite
 - [Adding seductive details to multimedia instruction significantly worsens recall of pertinent content compared with instruction without seductive details](seductive-details-worsen-recall-versus-control.md) — related
+- [The relevance and level of students' knowledge moderates activation effectiveness: mobilizing irrelevant information impaired comprehension, while open-ended mobilization benefited students with lower topic knowledge more](knowledge-relevance-and-level-moderate-activation-effects.md) — related

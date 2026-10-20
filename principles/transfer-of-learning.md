@@ -155,9 +155,11 @@ Recall of the taught items, near transfer, far transfer, delayed transfer and us
 - [Guided Practice](guided-practice.md) — how the original learning is secured before transfer is asked for
 
 ## Examples
+
 - After learning a proportional reasoning strategy in recipes, learners apply the same structure to map scales, probability tables, and budgeting scenarios.
 - A nursing program asks learners to practice the same clinical reasoning routine across different patient cases so they generalize decision patterns rather than memorize one script.
 - [Horizontal and vertical transfer problem-posing framework](../designs/horizontal-vertical-transfer-problem-posing-framework.md) — physics students pose new problems by changing context (horizontal) or complexity (vertical)
+- [Foster mindful transfer by systematically saturating instruction with attention to transfer](../strategies/saturate-instruction-with-attention-to-transfer.md)
 
 ## Key Sources
 - Perkins, D. N., & Salomon, G. (1992). Transfer of learning. *International Encyclopedia of Education*.

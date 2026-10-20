@@ -49,3 +49,4 @@ This is second-hand evidence cited in the article's discussion, reported as the 
 - The Moving to Opportunity experiment provides conservative estimates of neighborhood effects because it cannot capture the total effect of sustained exposure — a broader claim this one bears on
 - [Prior research has linked moving during childhood with adverse educational and behavioral adjustment outcomes, with the disruptive nature of moving cited as the underlying factor](prior-mobility-research-adverse-child-outcomes.md) — related
 - [Neighborhood context is a transient ecological setting, with many families moving between neighborhood disadvantage quintiles during childhood](neighborhood-context-transient-frequent-mobility.md) — related
+- [Community violence detrimentally impacts youth and communities, motivating a well-founded educational response](community-violence-detrimental-impact-motivates-educational-response.md) — related

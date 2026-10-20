@@ -47,6 +47,7 @@ The brief distills research-based lessons for policymakers incorporating communi
 ## Related Strategies
 
 - [Policy implications: multi-factor, asset-based support for low-SES students](ses-policy-multi-factor-asset-based-strategy.md)
+- [Integrate multiple strategies in a context-based and community-involved approach to reverse violence and promote peace](context-based-community-involved-violence-response-strategy.md)
 
 ## Examples
 -

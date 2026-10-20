@@ -87,3 +87,5 @@ Survey analysis compared frequencies of connectivity and hardware/software probl
 - [Canadian federal and provincial digital policies reflect a laissez-faire approach with near absence of consideration of affordability and digital skills for low-income adults](laissez-faire-digital-policy-gaps.md) — related
 - [Maintaining motivation was the most prevalent non-technology challenge students faced learning at a distance](motivation-most-prevalent-remote-challenge.md) — related
 - [Internet connection rates in Canada differ sharply by income, with 97% of the highest income quartile connected versus 58% of the lowest](income-internet-connection-gap.md) — related
+- [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](multilevel-digital-divide-challenges-parents-partnerships.md) — related
+- [The second-level digital divide (skills and usage gaps) limits the benefits of technology-integrated family–school partnerships for many parents](second-level-digital-divide-limits-partnership-benefits.md) — related

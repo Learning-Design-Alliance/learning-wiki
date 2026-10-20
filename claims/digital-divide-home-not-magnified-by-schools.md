@@ -49,3 +49,4 @@ Equity analysis of survey and administrative data across 434 schools finds home-
 - [School improvement rates varied by community type: Latino, racially diverse, and integrated schools improved disproportionately, while stagnation concentrated in predominantly African-American low-income communities](improvement-rates-vary-community-racial-composition.md) — related
 - [NBCTs are more likely than other teachers to work in magnet schools and less likely to work in the poorest and predominantly African American schools](nbcts-disproportionately-magnet-schools.md) — related
 - [Grow use is consistently greater in predominantly African-American schools across Chicago](greater-grow-use-african-american-schools.md) — reports the opposite
+- [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](multilevel-digital-divide-challenges-parents-partnerships.md) — related

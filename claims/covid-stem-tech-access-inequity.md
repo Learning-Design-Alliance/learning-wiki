@@ -94,3 +94,6 @@ Same national student survey (n = 1,008, weighted sample 23% Hispanic, 15% Black
 - [The article asserts that excellent accountability management systems and digital transformation capabilities guarantee equal access to education for all students](accountability-and-digitalization-equal-access-assertion.md) — reports the opposite
 - [Learning deficits are appreciably larger in middle-income countries than in high-income countries, with no evidence available from low-income countries](covid-deficits-larger-middle-income-countries.md) — related
 - [Remote interventions were being considered as a means to support equity and inclusion during COVID disruptions](remote-interventions-equity-inclusion-covid.md) — related
+- [The multilevel digital divide presents multiple challenges for parents in technology-integrated family–school partnerships](multilevel-digital-divide-challenges-parents-partnerships.md) — related
+- [The second-level digital divide (skills and usage gaps) limits the benefits of technology-integrated family–school partnerships for many parents](second-level-digital-divide-limits-partnership-benefits.md) — related
+- [Digital technology in family–school partnerships provides new opportunities but raises concerns for families with limited access or digital skills](digital-technology-opportunities-and-access-concerns.md) — related

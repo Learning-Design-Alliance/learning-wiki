@@ -76,3 +76,4 @@ Theoretical argument on the safety/legitimacy distinction. The article holds tha
 - [Ungraded practice tests function as a legitimate mediating practice that empowers learners and redefines the instructor's authority](ungraded-tests-mediating-practice.md) — related
 - [AI-generated text can pass as human-authored in up to 80% of cases, making reliable differentiation a significant challenge](ai-text-passes-as-human-up-to-80-percent.md) — related
 - [Detection-oriented integrity approaches are increasingly misaligned with GenAI-augmented assessment (theoretical argument)](detection-approaches-misaligned-genai-assessment.md) — related
+- [Every assessment procedure or instrument embodies a sense of telos, producing data that locate people along the researcher's assumed developmental path](assessment-instruments-embed-telos.md) — related

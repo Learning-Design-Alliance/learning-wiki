@@ -70,3 +70,4 @@ Content analysis of the 23 definitions (Table 2), coding keywords denoting engag
 - [P(j)BL research conceptualizes CT more often as processes than as dispositions, and many studies define and measure CT inconsistently](ct-processes-over-dispositions-pjbl.md) — related
 - [Most studies provide an explicit definition of motivation regulation, and most definitions describe complex action programs such as strategies](motivation-regulation-definitions-explicit-and-action-program-based.md) — related
 - [Learners define engagement through cognitive, behavioral, and emotional criteria that align with the tripartite framework but differ across individuals](learner-definitions-span-tripartite-dimensions.md) — related
+- [Prior knowledge and prior knowledge activation are often vaguely defined in the activation literature, with only 10 of 54 articles explicitly defining prior knowledge](prior-knowledge-definitions-vague-in-activation-research.md) — related

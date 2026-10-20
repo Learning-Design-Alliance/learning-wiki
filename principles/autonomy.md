@@ -202,6 +202,7 @@ Motivation during a task, free-choice engagement afterwards, immediate learning,
 - [Require authors to solve their own created levels before publishing, as a quality filter and a learning act in itself.](../strategies/author-must-solve-own-level.md)
 - [Position children as primary knowers by having them dictate texts for a real purpose to a teacher acting as scribe](../strategies/children-as-primary-knowers-dictation-co-construction.md)
 - [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
+- [Target teachers first in autonomy-support interventions to foster student autonomous motivation](../strategies/autonomy-support-interventions-target-teachers-first.md)
 
 ### Illustrative
 

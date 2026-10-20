@@ -51,3 +51,7 @@ The review reports, citing Talan (2020), a meta-analysis of mobile learning acro
 - Math shows slower recovery than reading in the full meta-analysis — related
 - [Teachers reported spending more time on literacy and numeracy instruction in 2020 than in 2019, particularly after return to schooling](covid19-increased-instructional-volume-2020.md) — related
 - [Using computerized systems as a differentiation tool has small to moderate positive effects on primary students' language and math performance](computerized-differentiation-systems-positive-effects-primary.md) — related
+- [Educational technology interventions show positive effects on reading comprehension in elementary school](edtech-positive-effects-reading-comprehension.md) — related
+- [Educational technology interventions show positive effects on constrained literacy skills in elementary school](edtech-positive-effects-constrained-skills.md) — related
+- [Educational technology interventions show positive effects on unconstrained literacy skills in elementary school](edtech-positive-effects-unconstrained-skills.md) — related
+- [Educational technology interventions show positive effects on writing proficiency in elementary school](edtech-positive-effects-writing-proficiency.md) — related

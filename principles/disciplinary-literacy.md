@@ -19,7 +19,7 @@ sources:
 # Disciplinary Literacy
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 18 claims (9 for, 9 mixed) · 25 studies (12 causal, 4 theoretical, 3 quant-synthesis, 3 review, 2 qualitative, 1 design), `q1`–`q4` · 4 of 25 report an effect size · 11 claims rest on one study
+> **Evidence** · 19 claims (10 for, 9 mixed) · 26 studies (12 causal, 4 review, 4 theoretical, 3 quant-synthesis, 2 qualitative, 1 design), `q1`–`q4` · 4 of 26 report an effect size · 12 claims rest on one study
 
 ## Conditional relationship
 
@@ -142,6 +142,7 @@ Comprehension of new texts, the practised disciplinary thinking skill, disciplin
 ## Claims
 
 - [Reading Apprenticeship® shows uncertain effects on social studies achievement in one study](../claims/reading-apprenticeship-uncertain-social-studies.md) [~W]
+- [Gevinson identified five dimensions of expert literary reading behavior shared across expert readers](../claims/gevinson-five-dimensions-expert-literary-reading.md) [+W]
 
 ## Related Principles
 - [Annotating](annotating.md) — annotation schemes can be discipline-specific (e.g., sourcing marginalia in history), making expert reading moves visible

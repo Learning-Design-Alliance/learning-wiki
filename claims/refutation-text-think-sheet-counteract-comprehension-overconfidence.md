@@ -71,3 +71,4 @@ Omnibus moderation test on comprehension-prediction bias in the same experiment:
 - [Refutation texts produce greater conceptual change about multimedia-learning misconceptions than standard texts in student teachers](refutation-texts-greater-conceptual-change-than-standard.md) — related
 - [Under reading-only, students with more misconceptions achieved better comprehension, but completing a think sheet removed this effect of misconceptions on comprehension](think-sheet-removes-misconception-effect-comprehension.md) — related
 - [Judgment accuracy of comprehension did not depend on misconceptions or instructional method](no-effect-judgment-accuracy-comprehension.md) — related
+- [Misconceptions were addressed in nine reviewed articles, all in science, via augmented activation, refutation texts, or analogical reasoning, though one study found activating inaccurate information may not be detrimental](misconception-addressing-techniques-science-review.md) — related

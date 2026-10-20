@@ -59,3 +59,4 @@ The playbook asserts, citing background research, that family engagement is "con
 - [Health factors and academic outcomes are linked: meeting nutritional and fitness needs, school-based health centers, and positive school climate are associated with achievement, attendance, and behavior](health-factors-linked-academic-outcomes.md) — related
 - [Family engagement in schools is closely linked to improved student academic achievement, social skills, and fewer behavior issues](family-engagement-linked-student-outcomes.md) — related
 - [Parent involvement increased for three consecutive years under family-centered engagement approaches](parent-involvement-increased-three-years.md) — a narrower finding that bears on this claim
+- [Family–school partnerships are empirically linked to children's academic success (as the review states the background evidence)](family-school-partnerships-linked-academic-success.md) — related

@@ -53,3 +53,4 @@ Protocol analysis of think-aloud protocols from both experts and novices; operat
 - [Experts spent much longer on each poem and produced longer protocols than novices, because for experts finding a meaningful pattern was only the starting point for higher-level analysis.](poetry-experts-longer-protocols-than-novices.md) — related
 - [Novices who have had poetry instruction have internalized Culler's general conventions for poetry as discourse: significance, thematic unity, and metaphorical coherence.](novices-internalized-poetry-discourse-conventions.md) — related
 - [Feedback topology matters differentially across development: novices use simpler external topologies while experts use richer connectivity](feedback-topology-differential-across-development.md) — related
+- [Langer found four stances of meaning-making operate across literary and nonliterary reading regardless of text type](langer-four-stances-across-text-types.md) — related

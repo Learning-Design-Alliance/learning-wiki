@@ -71,3 +71,4 @@ Spearman correlation in the same study between pre-test human-directed and post-
 - [Playing REMind significantly increased children's perceived self-efficacy for defending peers](remind-increased-self-efficacy-for-defending.md) — related
 - [Children who chose to comfort the victim reported higher self-efficacy and victim-help expectations than those who chose to confront the bully (descriptive, imbalanced groups)](remind-strategy-choice-descriptive-differences.md) — related
 - [After REMind, children's expectations that confronting a bully would stop the bullying shifted toward a calibrated midpoint](remind-calibrated-bully-outcome-expectations.md) — related
+- [Self-actualization (POI) correlates of rated counseling performance reported by Foulds could not be confirmed on replication](self-actualization-poi-findings-failed-replication.md) — related

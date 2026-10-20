@@ -49,3 +49,4 @@ Theoretical interpretation of the case data: the instructor's design activity de
 - The dialogical pair of responding and responded utterances, not a single utterance, is the minimum unit of analysis for SCMD research — related
 - Social media tools plugged into learning management systems are presented as \"social learning\" solutions without being designed around social learning theory — related
 - [Some students expanded and generalized class tools and rhetorical concepts into their own activities beyond the course](expansion-generalization-beyond-classroom.md) — a narrower finding that bears on this claim
+- [The appropriate unit of analysis for studying learning is goal-directed, tool-mediated activity, with training sessions treated as the theoretically compelling period in which learning occurs](unit-of-analysis-tool-mediated-activity.md) — related

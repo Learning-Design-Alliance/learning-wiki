@@ -162,6 +162,7 @@ A learner's preference for a mode, immediate comprehension, the ability to trans
 - **Annotated screencasts**: Learners watch a process with narration and on-screen highlighting.
 - **Interactive multimodal lessons**: Learners switch between reading, viewing, listening, and doing as they build understanding.
 - [Teach L2 comprehension through a multiliteracies curriculum with video-based visualizing and verbalizing activities](../strategies/multiliteracies-video-comprehension-activities.md)
+- [Five key representations for introductory statistics: verbal descriptions, visualizations, word equations, GLM notation, and R code](../designs/statistics-five-key-representations.md)
 
 ## Key Sources
 - Gellevij, M., Van der Meij, H., de Jong, T., & Pieters, J. (2002). Multimodal versus unimodal instruction in a complex learning context. *The Journal of Experimental Education, 70*(3), 215-239. [https://doi.org/10.1080/00220970209599507](https://doi.org/10.1080/00220970209599507)
