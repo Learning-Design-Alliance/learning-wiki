@@ -1091,7 +1091,7 @@
 <h1 id="evidence-centered-design">Evidence-Centered Design<a class="headerlink" href="#evidence-centered-design" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Design Method</strong> · <a href="../">All design methods</a><br />
-<strong>Evidence</strong> · no claims cited</p>
+<strong>Evidence</strong> · 3 claims (1 for, 2 mixed) · 2 studies (2 theoretical), <code>q1</code>–<code>q2</code> · 0 of 2 report an effect size · 3 claims rest on one study</p>
 </blockquote>
 <h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
 <p>Most assessments are built forwards: someone writes tasks that feel like the subject, learners do them, and the scores are then interpreted as evidence of something. Evidence-centered design (ECD) inverts that order. It is a formal method for assessment design that begins with the claim you intend to make about a learner and works back to the task that would license it, so that the interpretation is designed in rather than argued for afterwards.</p>
@@ -1118,13 +1118,16 @@
 <li><strong>The student model can encode a contestable theory of the domain.</strong> Naming what counts as competence is a substantive claim about the subject, and ECD makes it explicit rather than making it correct. Making it explicit is the benefit; it does not settle the argument.</li>
 <li><strong>Confounds are the standing failure mode.</strong> A task can elicit the target behaviour <em>and</em> several others — see the confounds catalogued on <a href="../../elements/assessment-mechanic/">Assessment Mechanic</a>, where load, differential scaffolding, motor demands, unrelated content knowledge and emotion each turn score variation into something other than the construct.</li>
 <li><strong>Logs are not evidence on their own.</strong> An instrumented environment produces an enormous record of behaviour, and without an evidence model saying which features are salient and how they score, that record is data waiting for a story.</li>
+<li><strong>The student model's grain size is limited by the statistics.</strong> Multidimensional latent variable models rarely support more than about four to six latent variables, so a student model naming many fine-grained constructs may not be estimable from the evidence collected: <a href="../../claims/latent-variable-models-limit-grain-size/">Multidimensional latent variable models rarely support more than about four to six latent variables, limiting fine-grained SKIVE modeling</a> [~W]</li>
+<li><strong>Generative AI weakens evidence rules unevenly.</strong> Where learners can use generative AI, a work product becomes ambiguous between the learner's competence and the tool's, and how far the tool can substitute depends on the task's cognitive demands; the evidence model has to say which: <a href="../../claims/genai-disrupts-evidence-rules-asymmetrically/">GenAI undermines evidence rules by making work products ambiguous between student competence and AI capability</a> [~W]</li>
 </ul>
 <h4 id="implementation-variability">Implementation Variability<a class="headerlink" href="#implementation-variability" title="Permanent link">&para;</a></h4>
 <ul>
 <li><strong>In conventional assessment</strong> — the three models sit behind item specifications and a scoring rubric, and the method mostly disciplines an existing practice.</li>
 <li><strong>In simulations and games</strong> — the task model becomes an <a href="../../elements/assessment-mechanic/">Assessment Mechanic</a>, and the evidence model has to work over event logs rather than responses. Rupp et al. (2010) develop this case for epistemic games specifically.</li>
 <li><strong>Extended with observation</strong> — the G4LI summary notes that supplementing log data of game events and user behaviour with observational data extends the ECD model and yields more valid assessments, particularly of state and trait variables.</li>
-<li><strong>Embedded vs. stealth</strong> — whether the learner is aware the task is assessing them is a design choice made at the task-model level, and the two variants have different validity risks.</li>
+<li><strong>Embedded vs. stealth</strong> — whether the learner is aware the task is assessing them is a design choice made at the task-model level, and the two variants have different validity risks. <a href="../../research-methods/stealth-assessment/">Stealth assessment</a> is the hidden variant.</li>
+<li><strong>Applied to new competencies</strong> — an ECD-based framework has been used to make disciplinary AI-interaction competencies observable in student response artifacts and scorable with rubrics: <a href="../../claims/ai-interaction-competencies-observable-scorable/">Disciplinary AI interaction competencies are observable in student response artifacts and scorable with rubrics</a> [+W]. All three claims cited on this page rest on single conceptual or design studies; no claim in the wiki tests whether assessments built with ECD yield more valid interpretations than assessments built without it.</li>
 </ul>
 <h3 id="target-learners">Target Learners<a class="headerlink" href="#target-learners" title="Permanent link">&para;</a></h3>
 <ul>
@@ -1154,6 +1157,9 @@
 <li><a href="../backward-design/">Backward Design</a> — the same working-backwards logic applied to a whole unit; ECD is the assessment-shaped case, and the two compose naturally</li>
 <li><a href="../task-analysis/">Task Analysis</a> — decomposition that feeds the task model</li>
 <li><a href="../standards-crosswalk/">Standards Crosswalk</a> — where the constructs in a student model have to answer to an external framework</li>
+<li><a href="../../research-methods/evidence-centered-design/">Evidence-Centered Design (research method)</a> — the same framework as the sources in that kind describe it, including the assembly and presentation models and domain modelling that this page's three-model account leaves out</li>
+<li><a href="../../research-methods/retrospective-emulation-of-evidence-centered-design-features-for-learning-analytics/">Retrospective emulation of evidence-centered design features for learning analytics</a> — what to do when the logs already exist and the full method cannot be applied in advance</li>
+<li><a href="../../theories/ecd-framework-structures-games-assessment-simulation-design/">ECD framework as a conceptual and rhetorical structure for designing simulation studies in games-based assessment</a></li>
 </ul>
 <h2 id="examples">Examples<a class="headerlink" href="#examples" title="Permanent link">&para;</a></h2>
 <ul>
@@ -1167,9 +1173,9 @@
 <li>Mislevy, R. J., Steinberg, L. S., &amp; Almond, R. G. (2003). Focus article: On the structure of educational assessments. <em>Measurement: Interdisciplinary Research and Perspectives, 1</em>(1), 3–62. <a href="https://doi.org/10.1207/s15366359mea0101_02">doi:10.1207/s15366359mea0101_02</a></li>
 <li>Rupp, A. A., Gushta, M., Mislevy, R. J., &amp; Shaffer, D. W. (2010). Evidence-centered design of epistemic games: Measurement principles for complex learning environments. <em>Journal of Technology, Learning, and Assessment, 8</em>(4).</li>
 <li>Plass, J. L., Homer, B. D., Kinzer, C., Frye, J., &amp; Perlin, K. (2011). <em>Learning mechanics and assessment mechanics for games for learning</em> (G4LI White Paper #01/2011, Version 0.1). Games for Learning Institute. <a href="https://www.researchgate.net/publication/272815253_Learning_Mechanics_and_Assessment_Mechanics_for_Games_for_Learning">researchgate.net/publication/272815253</a></li>
-<li>Shute, V. J. (2010). <em>Innovative assessment for the 21st century: Supporting educational needs</em>. Springer. <a href="https://doi.org/10.1007/978-1-4419-6530-1">doi:10.1007/978-1-4419-6530-1</a></li>
+<li>Shute, V. J., &amp; Becker, B. J. (Eds.). (2010). <em>Innovative assessment for the 21st century: Supporting educational needs</em>. Springer. <a href="https://doi.org/10.1007/978-1-4419-6530-1">doi:10.1007/978-1-4419-6530-1</a></li>
 </ul>
-<!-- Provenance, and the reason this page is status: draft rather than review. The account
+<!-- Provenance (status: review, model-written and not checked by a person). The account
      of ECD's three models here follows Plass et al. (2011)'s summary of Mislevy, Steinberg
      & Almond (2003) — the wording of the three questions, the "skills, knowledge, identity,
      values and epistemology" phrasing (which Plass et al. take from Rupp et al., 2010), and
@@ -1178,7 +1184,9 @@
      scripts/resolve_doi_conflicts.classify_doi, registry title form retained), but it has
      NOT been read for this page. A reader with the 60-page focus article in hand should
      expect to correct and considerably deepen the three-model description; nothing here was
-     inferred beyond what the secondary source states. Rupp et al. is in the Journal of
+     inferred beyond what the secondary source states. The Shute & Becker (2010) DOI was
+     confirmed on Crossref 2026-10-20 (title; Shute and Becker are its editors, 2010), and the
+     Mislevy DOI re-confirmed the same day (title, Mislevy, 2003). Rupp et al. is in the Journal of
      Technology, Learning, and Assessment, which Crossref does not index; per CLAUDE.md that
      absence is not evidence of fabrication and no DOI was invented for it. -->
 
