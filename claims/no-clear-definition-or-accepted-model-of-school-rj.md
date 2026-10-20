@@ -47,3 +47,4 @@ Qualitative interview study of 43 RJ experts and practitioners conducted between
 - [Experts argue most school RJ implementation is weak and funding should first strengthen implementation before funding research](weak-implementation-before-research-funding.md) — related
 - [Many district and school data systems do not track restorative justice efforts or outcomes for students exposed to RJ processes](school-data-systems-do-not-track-rj.md) — related
 - [The article argues that existing definitions of formative assessment lack a clear rationale delimiting the construct within broader theories of pedagogy.](formative-assessment-lacks-pedagogical-rationale.md) — related
+- [School belonging research is marked by definitional ambiguity and terminology confusion, including conflation of belonging with acceptance, inclusion, and participation](school-belonging-definitional-ambiguity.md) — a narrower finding that bears on this claim

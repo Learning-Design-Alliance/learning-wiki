@@ -51,3 +51,4 @@ The review reports, citing Murray et al. (2016), the only formal mediation analy
 - [Child age, caregiver education and country income level do not moderate book-sharing intervention effects on child language](book-sharing-effects-invariant-age-education-income.md) — related
 - [Group-based delivery is associated with more improvement in child language than individually delivered interventions](book-sharing-group-delivery-better-than-individual.md) — related
 - [Caregiver-directed shared book-reading interventions have a small positive effect on child receptive language (d=0.26)](book-sharing-receptive-language-small-effect.md) — related
+- [Interventions that change educator behaviour to match standard global definitions of quality have delivered negligible effects on children's developmental outcomes](educator-behaviour-interventions-negligible-child-outcomes.md) — reports the opposite

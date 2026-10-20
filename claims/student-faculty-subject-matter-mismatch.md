@@ -48,3 +48,4 @@ Comparison of faculty department ratings with student subject matter orientation
 - Faculty in applied, hard, and life disciplines are more likely than colleagues in pure, soft, and nonlife disciplines to report publicly engaged scholarship overall — related
 - Intensity of publicly engaged activity is higher in applied (2.29 vs 1.76) and life (2.28 vs 1.63) disciplines, with no significant hard/soft difference — related
 - Degree of engagement is higher in applied (1.52 vs 1.22, p=.016) and life (1.56 vs 1.07, p=.000) disciplines, with no significant hard/soft difference — related
+- [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related

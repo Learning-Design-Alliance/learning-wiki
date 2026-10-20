@@ -45,3 +45,4 @@ In a seven-day experience-sampling study, twelve visually impaired high school s
 ## Related Claims
 
 - [School interactions of students with visual impairments were dominated by receiving help, with few involving giving help](school-interactions-receiving-help-not-giving.md)
+- [Daily diary evidence links lower daily self-concept fit to stronger same-day mental burnout and concerns about academic abilities](daily-self-concept-fit-burnout-diary.md) — related

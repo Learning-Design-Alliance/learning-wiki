@@ -138,3 +138,4 @@ Program of controlled experiments in the author's lab comparing concise versus e
 - [Irrelevant changing-state sounds impair children's serial recall of visually presented items, with developmental evidence pointing to two mechanisms](irrelevant-sound-effect-children-serial-recall.md) — related
 - [Weeding extraneous information such as music and complex backgrounds improves retention and transfer from video](weeding-extraneous-content-improves-video-learning.md) — possibly the same claim (merge candidate)
 - [Emotions may act as extraneous cognitive load by competing for limited working memory resources with task-irrelevant processing](emotion-as-extraneous-cognitive-load.md) — related
+- [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](individual-interest-predicts-achievement.md) — a broader claim this one bears on

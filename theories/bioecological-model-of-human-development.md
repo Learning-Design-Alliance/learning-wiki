@@ -12,7 +12,7 @@ generated:
 # Bioecological Model of Human Development
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 26 claims (13 for, 12 mixed, 1 against) · 22 studies (13 associational, 5 review, 3 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 22 report an effect size · 24 claims rest on one study
+> **Evidence** · 28 claims (14 for, 13 mixed, 1 against) · 23 studies (13 associational, 6 review, 3 quant-synthesis, 1 theoretical), `q2`–`q3` · 4 of 23 report an effect size · 26 claims rest on one study
 
 ## Description
 Urie Bronfenbrenner's bioecological model holds that human development results from **proximal processes** — "stimulating, regular face-to-face interactions over extended periods with people, objects, or symbols" (Bronfenbrenner, 1994) — that realize a person's biological, psychological, and social potential. A parent shaping a child through parenting behaviors, modeling, and encouragement is a proximal process. Development is **transactional and bidirectional**: children affect their immediate contexts as much as contexts affect children — insecurely attached children are more emotionally demanding, and language-delayed children elicit less verbal exchange from adults.
@@ -67,6 +67,8 @@ The model also emphasizes **experience**: "the scientifically relevant features 
 - [Quality of the kindergarten teacher–child relationship moderates the preschool-to-kindergarten development of math ability on the ECLS-K Math battery but not the Applied Problems subtest](../claims/teacher-relationship-moderates-ecls-k-math-growth.md) [+W]
 - [Social norms shape role positioning in parent-child dyads playing an educational video game, with children sometimes more expert](../claims/social-norms-role-positioning-parent-child-game.md) [~W]
 - [Within low-SES samples, quality of mother–child communication predicts children's later expressive language more strongly than input quantity](../claims/within-ses-quality-over-quantity.md) [~W]
+- [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](../claims/challenging-behaviour-major-teacher-demand.md) [+W] — attached 2026-10-19 from Bly et al. (2026), which proposed "Classroom ecological model of ECEC quality as co-created by educator, child, and collective of children".
+- [Measures of individual children's experiences within the ECEC group predict child development outcomes with higher effect sizes than global quality measures](../claims/individualised-measures-better-prediction-than-global.md) [~W]
 
 ## The evidence by question
 - *Is closer parent involvement in a child's schooling associated with better student outcomes, and does the form of involvement matter?* [Parent involvement is associated with higher academic achievement in meta-analyses of mostly correlational studies](../claims/parent-involvement-improves-achievement.md) [+M]

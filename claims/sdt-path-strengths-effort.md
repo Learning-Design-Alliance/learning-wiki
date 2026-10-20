@@ -53,3 +53,4 @@ SEM results for the SDT model (n = 511) show standardized path coefficients to i
 - [In the L2MSS, the L2 learning experience predicts intended effort most strongly, while the ideal L2 self is weaker than the theory argues](l2-learning-experience-beats-ideal-l2-self.md) — related
 - SDT and L2MSS constructs correlate as predicted, with the ought-to L2 self/own most closely tied to introjected regulation — related
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — a narrower finding that bears on this claim
+- [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — related

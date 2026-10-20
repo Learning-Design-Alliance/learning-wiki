@@ -105,3 +105,4 @@ Open questions include durability (whether effects persist beyond the transition
 - [A policy report's narrative review states that values affirmation reduced stereotype-threat effects among middle-school students, with higher academic performance for Black students up to 7–9 years later](values-affirmation-long-term-benefits-black-students.md) — related
 - [School belonging mediates the higher intrinsic motivation of Dominican children relative to European-American peers](school-belonging-mediation-dominican-intrinsic-motivation.md) — related
 - [A sense of belonging can help promote and consolidate online learning](sob-promotes-consolidates-online-learning.md) — a broader claim this one bears on
+- [Collaborative pedagogies such as problem- and project-based learning are more likely to promote students' sense of belonging than lecture-based pedagogies, but effects depend on the group's attributes](collaborative-pedagogy-promotes-belonging.md) — related

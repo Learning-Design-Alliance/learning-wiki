@@ -48,3 +48,4 @@ Classroom-level correlational analysis across the fieldwork sample of 437 classe
 ## Related Claims
 - [Assignment quality improved between 1997 and 1999, yet math assignment challenge remained very low](assignment-quality-improved-but-math-challenge-low.md) — related
 - [Chicago classrooms with high-quality authentic intellectual assignments showed greater one-year ITBS gains than classrooms with low-quality assignments](authentic-assignments-greater-itbs-gains.md) — related
+- [Class composition indexing demand on educators (younger age, higher learning needs, disadvantage, minority status) is associated with reduced observed interactional quality in ECEC, with no association for gender](class-composition-demand-reduced-interactional-quality.md) — reports the opposite

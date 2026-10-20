@@ -43,4 +43,4 @@ The review reports, citing Baylor and Kim (2008), that "facial expressions were 
 
 
 ## Related Claims
--
+- [Pedagogical agents significantly improve learners' self-efficacy expectations (g = 0.29), with effects moderated by grade level, facial expressions, and reliability reporting](pa-improve-self-efficacy-expectations.md) — related

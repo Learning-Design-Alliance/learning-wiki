@@ -44,3 +44,4 @@ The editor's own editorial statement about journal operations at Educational Psy
 
 ## Related Claims
 - [Submissions to Educational Psychology Review grew from 33 manuscripts in 2006 to 89 in 2011, with faster initial decisions](edpr-submissions-grew-33-to-89-2006-2011.md) — related
+- [Educational Psychology Review publishes a variety of article types, not only review articles](edpr-publishes-variety-of-article-types.md) — related

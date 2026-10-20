@@ -55,3 +55,4 @@ Longitudinal comparison of LIST-K SRL sub-scale scores across the pre-, post-, a
 - [A randomized controlled trial with 86 K-12 students found a significant gain in self-regulated-learning strategy use from agentic coaching systems](agentic-srl-coaching-rct-86-significant-strategy-gain.md) — related
 - The article is situated within research on self-regulated learning strategies in educational contexts — related
 - [In a randomised control study, university students in the combined condition (online SRL training with mobile-app diaries) improved more than participants in the other conditions](combined-srl-training-with-app-diaries-improved-more.md) — related
+- [Research on teacher-student interactions and elementary SRL shows major gaps: no studies of emotion regulation, few on cognition regulation, and 70% reliance on student self-reports](srl-interaction-research-gaps-self-reports-emotions.md) — related

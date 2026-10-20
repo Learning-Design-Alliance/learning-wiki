@@ -49,3 +49,5 @@ Begg's funnel plots and Egger's regressions conducted for each meta-analysis. Th
 - [School-based mindfulness interventions produce small-to-moderate significant pre-post improvements in youth mental health and well-being compared to control groups](school-mindfulness-small-moderate-effect-youth-mental-health.md) — related
 - Funnel-plot asymmetry was significant in both meta-analyses, indicating possible publication or selection bias — related
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
+- [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
+- [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related

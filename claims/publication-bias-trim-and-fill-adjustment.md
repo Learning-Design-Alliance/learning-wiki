@@ -45,3 +45,4 @@ Publication bias assessment using funnel plot, Egger's regression intercept (t(1
 ## Related Claims
 - [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related
 - [Publication-bias checks indicate the pooled effect is unlikely to result from publication bias](srl-meta-analysis-publication-bias-absent.md) — related
+- [The text generation research field shows a small-study effect suggesting publication bias](small-study-effect-publication-bias.md) — related

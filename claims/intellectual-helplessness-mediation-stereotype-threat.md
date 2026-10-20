@@ -45,3 +45,4 @@ Moderated multiple serial mediation models tested whether intellectual helplessn
 - [Gender identification moderates the relation between chronic stereotype threat and both working memory effectiveness and intellectual helplessness](gender-identity-moderates-stereotype-threat-effects.md) — a broader claim this one bears on
 - [Working memory effectiveness mediates the relation between chronic stereotype threat and mathematical achievement only for highly gender-identified girls](working-memory-mediation-chronic-stereotype-threat.md) — related
 - [Sequential mediation through both intellectual helplessness and working memory is not significant](no-sequential-mediation-helplessness-working-memory.md) — related
+- [Social identity threat impairs math performance via increased intrusive thoughts and working memory load (being-cognition disfluency)](social-identity-threat-working-memory-performance.md) — related

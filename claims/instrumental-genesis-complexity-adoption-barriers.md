@@ -44,3 +44,4 @@ Authors' interpretation (type e) in the editorial's discussion of Ritella & Hakk
 
 ## Related Claims
 - [Four changes in CSCL over thirty years include mainstream collaborative pedagogies, collaboration technology becoming infrastructure, changed definitions of learning, and collaboration changing scale](four-changes-cscl-evolution.md) — related
+- [Belonging-related theories are underutilized in educational practice, partly because translating theoretical concepts into implementable strategies is difficult](belonging-theory-practice-gap.md) — a narrower finding that bears on this claim

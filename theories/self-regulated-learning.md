@@ -21,7 +21,7 @@ sources:
 # Self-Regulated Learning
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 185 claims (88 for, 89 mixed, 8 against) · 143 studies (50 associational, 41 causal, 17 review, 13 quant-synthesis, 8 qualitative, 7 design, 7 theoretical), `q1`–`q4` · 35 of 143 report an effect size · 170 claims rest on one study
+> **Evidence** · 188 claims (89 for, 91 mixed, 8 against) · 146 studies (50 associational, 41 causal, 19 review, 13 quant-synthesis, 8 qualitative, 8 theoretical, 7 design), `q1`–`q4` · 35 of 146 report an effect size · 173 claims rest on one study
 
 ## Description
 Self-Regulated Learning (SRL) explains learning as a cyclical process in which learners set goals, choose strategies, monitor progress, and reflect on outcomes in order to improve later performance. Rather than treating learning as passive reception, SRL emphasizes that effective learners actively manage attention, effort, strategy use, and feedback across time.
@@ -232,6 +232,9 @@ A second, complementary formulation comes from clinical and addiction-behavior r
 - [Hints that instruction is suboptimal trigger compensatory self-regulation, but self-management carries cognitive and motivational costs that deplete over time](../claims/suboptimal-design-hints-trigger-costly-self-management.md) [~W] — attached 2026-10-19 from Tina Seufert (2020), which proposed "Self-regulation as a function of resources and imposed cognitive load: an inverted-u relationship with task difficulty".
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](../claims/srl-ssrl-behaviors-predict-eda-simulation-stages.md) [~W]
 - [Mind wandering can both prompt SRL and function as a regulatory strategy, and multimodal machine-learning sensing offers scalable assessment of attentive states](../claims/mind-wandering-dual-role-srl-regulatory-strategy.md) [~W]
+- [Perceived teacher scaffolding is associated with more surface- and deep-level strategy use during the performance phase of SRL](../claims/teacher-scaffolding-strategy-use-performance-phase.md) [+W]
+- [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](../claims/ai-directed-self-testing-diminishes-metacognitive-judgment.md) [~W]
+- [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](../claims/learning-patterns-versus-srl-models.md) [~W]
 
 ## The evidence by question
 

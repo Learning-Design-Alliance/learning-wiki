@@ -17,7 +17,7 @@ sources:
 # Self-Determination Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 40 claims (24 for, 15 mixed, 1 against) · 36 studies (10 associational, 9 review, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 8 of 36 report an effect size · 34 claims rest on one study
+> **Evidence** · 44 claims (28 for, 15 mixed, 1 against) · 38 studies (11 review, 10 associational, 7 causal, 4 theoretical, 3 quant-synthesis, 2 design, 1 qualitative), `q1`–`q4` · 9 of 38 report an effect size · 38 claims rest on one study
 
 ## Description
 Self-Determination Theory (SDT) explains motivation in terms of the degree to which behavior is experienced as autonomous, competent, and socially connected. Developed by Edward Deci and Richard Ryan, the theory argues that learners are more likely to engage deeply and persist when three basic psychological needs are supported: autonomy, competence, and relatedness.
@@ -94,6 +94,10 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [More effective autonomy-support training programs trained multiple elements of autonomy support](../claims/multiple-elements-moderator-autonomy-training.md) [+W]
 - [Parental factors: autonomous motivation relates to adolescent creativity more strongly with high maternal involvement](../claims/maternal-involvement-moderates-autonomous-motivation-creativity.md) [~W]
 - [Robot exposure affects human autonomy and sense of agency, but no general conclusion about the direction of the effect can be drawn](../claims/robot-exposure-mixed-direction-autonomy-agency.md) [~W]
+- [Free choice of activities increases performance, task interest, and persistence across ages and settings](../claims/montessori-free-choice-benefits-learning.md) [+W] — attached 2026-10-19 from Angeline S. Lillard (2019), which proposed "Self-determination as Montessori's central premise, with evidence-based corollaries"; tests this page's relationship.
+- [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](../claims/extrinsic-rewards-deplete-intrinsic-motivation.md) [+W] — attached 2026-10-19 from Angeline S. Lillard (2019), which proposed "Self-determination as Montessori's central premise, with evidence-based corollaries"; tests this page's relationship.
+- [Autonomous motivation types positively relate to school achievement while controlled types show weak negative or null relations](../claims/autonomous-vs-controlled-motivation-achievement.md) [+W]
+- [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](../claims/basic-needs-satisfaction-autonomous-motivation.md) [+W]
 
 ## The evidence by question
 
@@ -129,6 +133,7 @@ These tactics are not unconditionally beneficial, however. Offering choice can h
 - [Implement GenAI in higher education in ways that support autonomy, competence, relatedness, and value to sustain motivation and engagement](../strategies/motivation-supportive-genai-integration-higher-education.md)
 - [Need-supportive 4C/ID learning environment with 12 integrated autonomy, competence and relatedness implementations](../designs/need-supportive-4cid-learning-environment.md)
 - [Promote autonomous motivation in low-education adult learners by helping them grasp the meaning of education and providing choice and volition](../strategies/promote-autonomous-motivation-low-education-adults.md)
+- [Teaching Through Interactions framework](../research-methods/teaching-through-interactions-framework.md)
 
 ## Key Sources
 - Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry, 11*(4), 227-268. [https://doi.org/10.1207/S15327965PLI1104_01](https://doi.org/10.1207/S15327965PLI1104_01)

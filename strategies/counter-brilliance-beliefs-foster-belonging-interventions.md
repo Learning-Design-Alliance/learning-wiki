@@ -53,6 +53,7 @@ The article proposes that interventions should counter brilliance beliefs and si
 
 - [Personalize the learning environment and instructional process to foster belonging](personalize-learning-environment-belonging-strategy.md)
 - [Racial Equity in PBL - Create Beautiful Spaces](racial_equity_in_pbl_-_create_beautiful_spaces.md)
+- [Interventions should simultaneously enhance academic self-concept and achievement](interventions-enhance-both-self-concept-and-achievement.md)
 
 ## Examples
 -

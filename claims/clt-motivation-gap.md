@@ -47,3 +47,4 @@ Document analysis within the review: the authors note the 1998 CLT theory articl
 - [Well-designed games can promote persistence in practice and high-quality engagement, and when basic needs of autonomy, competence, and relatedness are met, learning becomes its own reward, reducing the temptation to outsource cognitive effort to LLMs.](well-designed-games-foster-practice-and-intrinsic-motivation.md) — related
 - [Self-regulated learning improves achievement](self-regulated-learning-improves-achievement.md) — related
 - [Praise for intelligence, rather than for effort, after success undermines children's motivation and performance after a later failure](feedback-praise-reduces-learning.md) — related
+- [CLT lacks explicit assumptions about how cognition and effort are monitored and regulated, unlike SRL theories](clt-lacks-metacognitive-control-assumptions.md) — possibly the same claim (merge candidate)

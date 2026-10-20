@@ -51,3 +51,4 @@ Factorial ANOVA of the individual-learner WD variant across 21 four-way ANOVAs (
 - [In pairwise WD analyses, learner trajectory similarity dominates variation in percentage-overlap values (57.90% of variation) while remaining design factors are essentially zero](trajectory-similarity-dominates-wd-pair-overlap.md) — related
 - [The WD statistic is more useful for differentiating between simulated learner types when games are played longer](longer-games-sharpen-wd-learner-differentiation.md) — related
 - [The system's generated practice trajectories align with learner skill levels at a peak cosine similarity of 0.962 ± 0.014 at the primary difficulty level](cmt-alignment-cosine-similarity-0962.md) — related
+- [Task difficulty shows a u-shaped relation to regulatory activities, with competing CLT-based and motivational explanations that cannot yet be distinguished](u-shaped-task-difficulty-regulation.md) — related

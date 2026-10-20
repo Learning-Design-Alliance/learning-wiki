@@ -71,3 +71,4 @@ Narrative review attribution: the article reports, citing Kazmaci et al. (2025) 
 - [AI knowledge and attitudes toward AI did not significantly predict teachers' AI integration ability](ai-knowledge-attitudes-not-significant-predictors.md) — related
 - [Teachers' practical use of AI in science and green energy learning significantly predicts their AI integration ability (β = 0.391, p < 0.01, f² = 0.180)](ai-use-in-green-energy-teaching-predicts-integration-ability.md) — related
 - [AI applications in STEM education foster positive affective perception, including attitude, interest, and motivation](ai-stem-positive-affective-perception-effects.md) — related
+- [In the fitted model, teachers' knowledge and willingness to change predicted teaching practice, whereas professional beliefs did not significantly influence teaching practice](willingness-predicts-practice-beliefs-do-not.md) — reports the opposite

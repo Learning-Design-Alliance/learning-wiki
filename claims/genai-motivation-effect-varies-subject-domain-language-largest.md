@@ -52,3 +52,4 @@ Exploratory subgroup analysis of subject domain within the meta-analysis. The ar
 - [GenAI function, intervention duration, publication year, and gender were not significant moderators of GenAI's motivational effect](genai-motivation-null-moderators-function-duration-year-gender.md) — related
 - [GenAI shows positive effects on both intrinsic and extrinsic motivation, with no reliable difference between the two (H-1c not supported)](genai-positive-both-intrinsic-extrinsic-motivation-no-difference.md) — related
 - [AI-supported game-based learning shows positive learning effects across diverse subject domains in the majority of included studies](ai-gbl-positive-knowledge-acquisition-effects.md) — related
+- [Immersion significantly moderated within-subject effects, but the estimate rests on very few effect sizes and should be read as exploratory](immersion-within-subject-moderator-exploratory.md) — related

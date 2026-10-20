@@ -51,6 +51,7 @@ The brief argues educators need skills to create culturally affirming environmen
 - [Diversify the educator workforce through Grow Your Own programs, scholarships, and retention supports](diversify-educator-workforce-grow-your-own.md)
 - [Adopt positive, restorative discipline approaches and ban harmful exclusionary practices](restorative-discipline-ban-harmful-practices.md)
 - [Implement anti-bias curricular models with four goals to build culturally relevant, strength-based classrooms](anti-bias-curriculum-four-goals-strategy.md)
+- [Policy implications: multi-factor, asset-based support for low-SES students](ses-policy-multi-factor-asset-based-strategy.md)
 
 ## Examples
 -

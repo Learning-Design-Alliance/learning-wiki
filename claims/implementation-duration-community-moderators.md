@@ -49,3 +49,4 @@ Treatment-characteristic moderators from the random-effects meta-regression (Tab
 - The review identifies a trend linking AI intervention duration to effect size: longer interventions spanning weeks or months yield larger effect sizes than shorter ones — related
 - In the SISTC Logistic Regression model, student-visa holders and longer study duration were linked to retention, while Pakistani nationality and subjects failed were linked to dropout risk — related
 - [Both preclass (g = 0.186) and postclass (g = 0.536) quizzes enhance learning, with postclass quizzes more effective; benefits increase with treatment duration.](postclass-quizzes-and-longer-duration-larger-gains.md) — related
+- [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](meditation-programme-characteristics-moderators.md) — related

@@ -49,3 +49,5 @@ Publication-bias assessment of the cross-sectional three-level model: visual fun
 - [The meta-analysis finds no major publication bias in the teacher personality–outcome associations](no-major-publication-bias-teacher-personality.md) — related
 - [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
 - [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — related
+- [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
+- [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related

@@ -49,3 +49,4 @@ Publication-bias assessment via funnel plots and a three-parameter selection mod
 - Funnel-plot and fail-safe N analyses indicate small publication bias, and one-study-removal analysis indicates stable pooled effects — related
 - [Publication bias is present in the mathematics–writing literature, though the pooled estimate is robust in sensitivity analyses](publication-bias-math-writing-meta-analysis.md) — related
 - [The pooled effect of writing instruction for US ELL students is robust to sensitivity analyses but funnel plot asymmetry suggests possible missing positive effect sizes](sensitivity-and-bias-checks-ell-writing-meta.md) — related
+- [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related

@@ -51,3 +51,4 @@ The ordering matches achievement-goal theory: mastery goals go with persistence 
 
 - [Mathematics achievement correlates more strongly with learners' knowledge, skills and cognitive abilities than with their personality traits, goals or emotions](math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)
 - [Learning and performance goal orientations are highly positively correlated and not mutually exclusive in adults](learning-and-performance-goals-correlated-adults.md) — related
+- [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related

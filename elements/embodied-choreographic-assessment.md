@@ -18,7 +18,7 @@ sources:
 # Embodied Choreographic Assessment
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 mixed) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 mixed) · 2 studies (1 quant-synthesis, 1 qualitative), `q2`–`q3` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Learners work in small groups to create a dance or movement sequence that represents a concept they have been studying (e.g., resonance, energy transfer). The task unfolds in cycles: collaborative brainstorming and initial choreography, a first sharing with performer reflection on what the dance represents (and misrepresents or omits), structured peer feedback, revision, and a final sharing. The task treats movement as a legitimate epistemic tool: learners must translate an abstract concept into kinetic and narrative form, make representational choices, and defend those choices through explanation.
@@ -45,7 +45,7 @@ Learners work in small groups to create a dance or movement sequence that repres
 
 ### Claims
 <!-- Claims bearing on this element, each a link to a claim page followed by its evidence tag, e.g. [+M] -->
-- 
+- [Movement-meaning congruency is the only moderator consistently associated with stronger embodied vocabulary learning effects across both research designs](../claims/movement-meaning-congruency-moderates-vocabulary-learning.md) [~W]
 
 ## Related Elements
 - [Listening Palette](listening-palette.md) — a lighter-weight multimodal reflection task from the same study, often used earlier in a unit

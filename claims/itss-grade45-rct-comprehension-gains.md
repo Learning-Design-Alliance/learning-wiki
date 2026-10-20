@@ -62,3 +62,4 @@ In the same grades 4-5 cluster RCT, the researcher-designed main idea summary me
 - ITSS shows a positive but statistically non-significant effect on Grade 4 reading comprehension (effect size +0.10) — reports the opposite
 - ITSS significantly improves Grade 5 reading comprehension after 6 to 7 months of implementation (effect size +0.20) — related
 - [ITSS has positive effects on reading comprehension, based on two studies meeting WWC standards covering 6,724 students](itss-positive-effects-comprehension.md) — a broader claim this one bears on
+- [Text generation interventions improve learning with texts compared to reading them, with a medium overall effect (g = 0.41)](text-generation-overall-effect.md) — related

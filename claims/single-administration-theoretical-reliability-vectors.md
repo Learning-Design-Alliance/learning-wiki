@@ -64,3 +64,5 @@ Comparison of reliability estimates on the same data: split-half reliability rgh
 - [Test difficulty value defined as ratio of observed to maximum score vector length times cosine of their angle equals test mean divided by number of items](test-difficulty-value-cosine-definition.md) — related
 - No statistically significant differences among the four Knowledge/Judgment item scores (ANOVA p=.549), confirming similar rank scores — related
 - [A pilot study (N = 10) established timed-administration parameters, showing high internal consistency and minimal speededness for the SCS1 12-item subset](pilot-timed-scs1-subset-reliability-speededness.md) — related
+- [Adding items to a knowledge test can increase reliability without requiring the added items to be redundant with existing items](adding-items-increases-reliability-without-redundancy.md) — related
+- [Cronbach's alpha equals the reliability of the scale score under classical test theory, domain sampling, and generalizability theory, and should be interpreted as a reliability coefficient](alpha-is-reliability-coefficient-knowledge-tests.md) — related

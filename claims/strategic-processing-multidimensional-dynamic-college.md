@@ -49,3 +49,4 @@ The commentary reports that Dinsmore's (2017) systematic review examined 134 stu
 - [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
 - [Zusho concludes SRL, SAL, and engagement perspectives all entail learner adaptation, and that models of student learning mismatch how they are measured](srl-sal-engagement-adaptation-measurement-mismatch.md)
 - [Review findings on college strategic processing: development under-studied, quality of strategy use matters more than frequency, and learner and environmental conditions determine effectiveness](strategy-use-quality-conditionality-over-frequency.md)
+- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related

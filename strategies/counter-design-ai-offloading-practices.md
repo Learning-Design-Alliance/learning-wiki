@@ -41,6 +41,7 @@ Drawing on the counter-design literature, PAUSE recommends concrete practices us
 
 - [Checking Your Blind Spot](checking_your_blind_spot.md)
 - [Describe AI instructional role and learner–AI interaction design in detail (prompts, scaffolds, modality, dialogue structures)](describe-ai-role-and-interaction-design-in-detail.md)
+- [Design AI configurations that preserve generative work: feedback-only audiences, generate-then-compare, and calibrated teaching interactions](preserve-generative-work-ai-configurations.md)
 
 ## Examples
 -

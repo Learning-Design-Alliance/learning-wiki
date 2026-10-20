@@ -51,3 +51,5 @@ Publication-bias assessment using three indicators per Big Five domain with comb
 - [Egger's test indicates asymmetry bias in the cross-sectional ToM–achievement evidence base despite a right-skewed p-curve](egger-asymmetry-bias-tom-achievement.md) — related
 - [No evidence of publication bias was found in the meta-analysis](no-publication-bias-ct-gender-meta-analysis.md) — related
 - [Associations between teacher personality and effectiveness vary substantially across studies, justifying moderator analysis](teacher-personality-effect-heterogeneity.md) — related
+- [Funnel-plot asymmetry ran contrary to small-study effects because larger-sample studies reported larger effect sizes, likely reflecting longer training programs](funnel-asymmetry-contrary-to-small-study-effects.md) — related
+- [Publication bias is present in the embodied vocabulary learning literature, suggesting pooled effects may overestimate the true benefit](publication-bias-embodied-vocabulary-meta-analysis.md) — related

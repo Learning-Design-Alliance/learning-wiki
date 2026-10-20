@@ -34,7 +34,8 @@ Because CAT administrations give different students different items, item-level 
 - [Parceling over-fits models: at the testlet level, data from more complex models fit well with simpler models](../claims/parceling-overfits-factor-models.md) [~W]
 
 ## Related Research Methods
--
+
+- [Matrix sampling with planned missingness in large-scale assessments](matrix-sampling-with-planned-missingness-in-large-scale-assessments.md)
 
 ## Key Sources
 - Shudong Wang, Marty McCall, Hong Jiao, & Gregg Harris. (2013). Construct Validity and Measurement Invariance of Computerized Adaptive Testing: Application to Measures of Academic Progress (MAP) Using Confirmatory Factor Analysis. Journal of Educational and Developmental Psychology, 3(1). https://doi.org/10.5539/jedp.v3n1p88

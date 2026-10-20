@@ -58,3 +58,4 @@ Cross-sectional perception-based survey of 398 business-school students in India
 - [Perceived Competence, Intrinsic Motivation, and Psychological Safety each significantly positively predict Deep Revision Engagement](psychological-mediators-predict-deep-revision.md) — related
 - [Competence is the strongest independent psychological predictor of AI literacy performance, followed by autonomy; relatedness has no independent effect](competence-strongest-predictor-relatedness-null.md) — related
 - [Instructional approach operates indirectly through autonomy and competence, while task type operates primarily through autonomy](differentiated-mediation-autonomy-competence.md) — related
+- [Satisfaction of basic psychological needs is positively associated with autonomous motivation, with competence the strongest predictor](basic-needs-satisfaction-autonomous-motivation.md) — a narrower finding that bears on this claim

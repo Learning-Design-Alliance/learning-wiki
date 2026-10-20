@@ -47,7 +47,7 @@ sources:
 # Motivation
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 82 claims (50 for, 31 mixed, 1 against) · 81 studies (23 review, 19 causal, 10 associational, 9 qualitative, 9 theoretical, 7 quant-synthesis, 4 design), `q1`–`q4` · 9 of 81 report an effect size · 68 claims rest on one study
+> **Evidence** · 84 claims (50 for, 33 mixed, 1 against) · 83 studies (23 review, 19 causal, 10 associational, 10 theoretical, 9 qualitative, 8 quant-synthesis, 4 design), `q1`–`q4` · 9 of 83 report an effect size · 70 claims rest on one study
 
 ## Conditional relationship
 
@@ -217,6 +217,8 @@ Starting, effort, voluntary persistence, enjoyment, reported motivation and lear
 ## Claims
 
 - [Feedback valence does not directly affect willingness to invest effort, but has significant indirect effects via challenge and threat pointing in opposite directions (all four experiments)](../claims/feedback-willingness-indirect-challenge-threat.md) [~W]
+- [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](../claims/pa-non-significant-utility-beliefs.md) [~W]
+- [A small a priori set of motivational constructs risks three failures in explaining situated motivated action](../claims/a-priori-construct-sets-risk-three-failures.md) [~W]
 
 ## Related Principles
 - [Learner Choice](autonomy.md) — one route to stronger ownership and autonomy

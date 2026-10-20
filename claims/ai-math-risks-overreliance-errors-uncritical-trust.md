@@ -169,3 +169,4 @@ Review synthesis on uncritical trust in AI outputs. The authors conclude that "u
 - [Systematic prompting of an LLM can generate cognitively activating formative feedback aligned with research-based scaffold types (demonstrated, not yet empirically validated)](leap-prompt-design-generates-cognitively-activating-feedback.md) — related
 - [Students most often report hybrid interaction modes with generative AI, with passive task delegation and verification-only use as smaller patterns](hybrid-ai-interaction-modes-students.md)
 - [Leading LLMs hallucinated legal authorities in 58%-88% of tested cases while failing to recognise incorrect legal assumptions in prompts](llms-hallucinate-legal-authorities-58-88.md)
+- [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](ai-directed-self-testing-diminishes-metacognitive-judgment.md) — related

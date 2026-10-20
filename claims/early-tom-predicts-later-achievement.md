@@ -47,3 +47,4 @@ Meta-analysis of longitudinal partial correlations for reading comprehension (18
 - [The cross-sectional ToM–achievement association remains significant after controlling for verbal ability, executive functions, non-verbal ability, and SES](tom-achievement-unique-beyond-covariates.md) — related
 - [Longitudinally, the ToM–achievement association does not differ significantly across academic achievement domains, and time lag does not moderate it](longitudinal-domain-moderator-nonsignificant.md) — related
 - [Children's theory of mind shows a significant positive cross-sectional association with academic achievement (r = 0.32)](tom-academic-achievement-positive-association.md) — related
+- [SES longitudinally predicts later reading (r = 0.24), and phonological awareness and vocabulary jointly explain about 45% of that association](longitudinal-ses-predicts-reading-linguistic-skills-explain-variance.md) — related

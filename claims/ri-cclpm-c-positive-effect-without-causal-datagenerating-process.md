@@ -44,3 +44,6 @@ Simulation study using R (lavaan, MASS packages). SIM-NEW data (N = 3527, matchi
 
 ## Related Claims
 - [Time-reversed analysis of simulated data suggests a decreasing rather than increasing effect of self-concept on achievement, yielding inconsistent conclusions from the same data](time-reversed-model-suggests-decreasing-self-concept-effect.md) — related
+- [The extended REM was robust to several alternative modeling specifications proposed by Sorjonen et al.](extended-rem-robust-alternative-specifications.md) — related
+- [Reanalyses of simulated and PALMA data provide converging support for the extended reciprocal effects model, including an effect of academic self-concept on achievement](reanalyses-converging-support-extended-rem-asc-effect.md) — reports the opposite
+- [Across basic and extended RI-CLPMs and CLPMs of five-wave secondary-school data, math self-concept and achievement show consistent reciprocal (bidirectional) directional ordering](rem-reciprocal-effects-ri-clpm-clpm-palma.md) — related

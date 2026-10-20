@@ -64,3 +64,6 @@ The review reports a lottery-based comparison of children entering an AMI-approv
 ## Related Claims
 - [Largest EF-training benefits emerge on the most demanding EF tasks and task conditions, so outcome measures must test the limits of children's EF abilities](demanding-tasks-reveal-ef-training-benefits.md) — a broader claim this one bears on
 - [Curriculum add-ons PATHS and CSRP improve children's EFs and related outcomes in regular classrooms, with CSRP's academic gains mediated largely via EF improvement](paths-csrp-addon-ef-improvement.md) — a narrower finding that bears on this claim
+- [Low-income children in high-fidelity Montessori significantly closed the achievement gap with higher-income children by the end of a longitudinal lottery study](montessori-closed-income-achievement-gap.md) — related
+- [Implementation fidelity matters: classrooms using only Montessori materials produced greater gains than classrooms mixing in other materials](montessori-fidelity-materials-only-gains.md) — related
+- [Children admitted by random lottery to high-fidelity Montessori schools performed better or the same as waitlisted controls on academic, executive function, and social measures, never worse](montessori-lottery-studies-better-or-same-outcomes.md) — related

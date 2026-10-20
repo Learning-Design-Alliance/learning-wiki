@@ -49,3 +49,4 @@ Parallel regression analyses entering the cumulative risk index with nonverbal I
 - [Among child health risks, only hearing problems uniquely predicted reading readiness, accounting for 5.5% of variance](hearing-problems-unique-predictor-reading-readiness.md) — a narrower finding that bears on this claim
 - [Home literacy environment and family stresses predict attention and behaviour at school entry](hle-family-stresses-predict-attention-behaviour.md) — related
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related
+- [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](challenging-behaviour-major-teacher-demand.md) — related

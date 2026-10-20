@@ -81,6 +81,7 @@ Cultural-historical activity theory (CHAT) holds that human thinking and learnin
 
 - [Community-Based Learning](../principles/community-based-learning.md) — CHAT explains why community partnerships can produce a different learning object than the one intended if participants' meaning systems are not reconciled
 - [Use activity-system analysis (objectives, rules, norms, artifacts, division of labour) as a reflection tool for CSL participants](../strategies/activity-system-analysis-as-csl-reflection-tool.md)
+- [Format learning activities as play using the three interrelated parameters of involvement, rules, and degrees of freedom](../strategies/play-format-three-parameters.md)
 
 ## Key Sources
 - Meléndez, J. W. (2021). Latino immigrants in civil society: Addressing the double-bind of participation for expansive learning in participatory budgeting. *Journal of the Learning Sciences, 30*(1), 76-102. [https://doi.org/10.1080/10508406.2020.1807349](https://doi.org/10.1080/10508406.2020.1807349)

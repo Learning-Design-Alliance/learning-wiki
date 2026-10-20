@@ -70,3 +70,4 @@ The sixth proposition, a longitudinal prediction from the theory. The article st
 - [Immediate task success does not establish learning that persists without AI support](immediate-performance-not-evidence-of-independent-learning.md) — a broader claim this one bears on
 - [Proposition 1: outcome-aligned ownership performances will predict later individual transfer beyond AI-assisted product quality alone](proposition-1-ownership-predicts-transfer.md) — a narrower finding that bears on this claim
 - [Proposition 2: mutual evaluation emphasizing reasons and responsive comparison will improve evaluative judgment more than unexplained self-rating](proposition-2-mutual-evaluation-improves-judgment.md) — related
+- [AI-directed problem selection may diminish the metacognitive dimension of self-testing while preserving retrieval practice](ai-directed-self-testing-diminishes-metacognitive-judgment.md) — a narrower finding that bears on this claim

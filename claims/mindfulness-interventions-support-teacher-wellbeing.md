@@ -65,3 +65,4 @@ The review reports two non-supportive mindfulness studies: "participants reporte
 
 - [Professional development interventions showed mixed outcomes, with 14 of 20 studies supportive and 6 non-supportive](professional-development-interventions-mixed-outcomes.md)
 - [Studies of emotional training of aspiring and practicing teachers report positive outcomes for dealing with emotions and reducing stress and burnout](teacher-emotional-training-studies-positive-outcomes.md) — related
+- [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related

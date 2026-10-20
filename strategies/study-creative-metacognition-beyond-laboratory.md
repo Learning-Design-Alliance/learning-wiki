@@ -43,7 +43,8 @@ The article recommends that research on cognitive flexibility, metacognition, an
 - [Professional creators develop the capacity to mindfully mind-wander, identifying and capitalizing on mind wandering during long-term creative enterprises](../claims/mindful-mind-wandering-professional-creators.md) [+W]
 
 ## Related Strategies
-- 
+
+- [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 
 ## Examples
 -

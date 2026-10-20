@@ -64,3 +64,4 @@ Subgroup analysis by intervention duration (Table 4): 1–4 weeks (4 effect quan
 ## Related Claims
 - [Scaffold effects peak at 2–4 weeks of treatment and decrease dramatically for treatments lasting 9–24 weeks](treatment-duration-moderates-scaffold-effects.md) — reports the opposite
 - [Motor skill interventions for DCD improve motor, cognitive, and emotional outcomes, with dose (duration and frequency) influencing treatment effects and interventions of at least 9 weeks tending to be more effective](dcd-motor-intervention-dose-response-yu-review.md) — related
+- [Programme characteristics — longer duration, higher frequency, teacher delivery and older students — were tentatively associated with more significant well-being effects](meditation-programme-characteristics-moderators.md) — related

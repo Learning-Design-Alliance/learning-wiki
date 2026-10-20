@@ -43,4 +43,4 @@ SEM path analysis of fifth-grade data (n = 213) showed mastery (β = 0.23) and p
 
 
 ## Related Claims
--
+- [Achievement goals show small consistent correlations with academic achievement, positive for approach goals and negative for avoidance goals](achievement-goals-small-correlations-achievement.md) — related

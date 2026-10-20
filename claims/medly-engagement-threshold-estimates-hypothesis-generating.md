@@ -51,3 +51,4 @@ Threshold-based estimates from the original evaluation, re-examined in this pape
 - [No clear evidence that Medly's effect differed by Pupil Premium disadvantage status](medly-no-differential-impact-pupil-premium.md) — related
 - [About 750 contact hours of high school ESL support can have a tangible effect toward the postsecondary threshold](750-contact-hours-esl-support-tangible-effect.md) — related
 - [Guidance, immediate feedback, and system-directed control showed unadjusted moderator signals that did not survive multiplicity adjustment, making them hypothesis-generating only](design-moderators-unadjusted-only-hypothesis-generating.md) — related
+- [Intervention studies reported larger effect sizes than cross-sectional studies, and studies including more teaching assistants reported larger effects](moderators-intervention-design-teaching-assistants.md) — related

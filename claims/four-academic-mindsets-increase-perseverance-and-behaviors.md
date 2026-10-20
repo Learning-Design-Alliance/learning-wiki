@@ -66,3 +66,5 @@ The review's synthesis of psychological research on belonging, implicit theories
 - [Students' confidence and readiness correlate mostly with self-efficacy and collaboration rather than with formal instruction](student-confidence-readiness-self-efficacy-collaboration.md) — related
 - [Praise for intelligence (person praise) induces a fixed mindset and helpless reactions compared with process praise](person-praise-induces-fixed-mindset.md) — a narrower finding that bears on this claim
 - [A growth-mindset-of-personality workshop reduced retaliatory aggression and increased prosocial behavior among urban high school students](personality-mindset-workshop-reduced-aggression.md) — a narrower finding that bears on this claim
+- [Belonging uncertainty — the instability of a student's sense of belonging — is distinct from overall belonging level and predicts risk of negative outcomes](belonging-uncertainty-distinct-from-level.md) — related
+- [The need to belong is relevant to all academic disciplines that study human behavior, with immense importance to educational psychology](need-to-belong-relevance-educational-psychology.md) — related

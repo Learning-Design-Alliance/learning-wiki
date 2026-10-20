@@ -49,6 +49,7 @@ The report offers a set of policy recommendations meant to encompass a wide rang
 - [Deploy federal recovery funding to support recovery, accelerate learning, and transform schools](deploy-federal-aid-recovery-acceleration.md)
 - [Design summer programs with purposeful curriculum, stable staff, and cultural relevance, sustained over multiple summers](multi-summer-high-quality-summer-programs.md)
 - [Federal policy should fund wraparound supports and community schools integrating health, mental health, social services, and extended learning time](federal-wraparound-supports-community-schools.md)
+- [Policy implications: multi-factor, asset-based support for low-SES students](ses-policy-multi-factor-asset-based-strategy.md)
 
 ## Examples
 -

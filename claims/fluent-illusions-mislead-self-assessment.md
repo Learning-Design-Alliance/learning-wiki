@@ -173,3 +173,5 @@ Participants studied words printed in different font sizes for a free-recall tes
 - [Students lack metacognitive awareness of the benefits of errorful learning: the three learning groups did not differ in perceived competence, judgments of learning, or rated method effectiveness even after tests](no-metacognitive-awareness-of-errorful-learning-benefits.md) — related
 - [Disfluency increased study times without improving performance, suggesting time was spent deciphering text rather than processing contents more deeply](disfluency-study-time-decoding-not-deeper.md) — related
 - [Making JOLs is not a neutral act: metacognitive ratings reactively affect subsequent learning, so experiments need judgment-free conditions](jol-reactivity-requires-judgment-free-control-condition.md) — related
+- [Subjective effort ratings are affected by invalid cues and only weakly valid as cues to judged learning outcomes](effort-ratings-invalid-cues-weak-validity.md) — related
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related

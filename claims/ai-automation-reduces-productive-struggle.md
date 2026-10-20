@@ -51,3 +51,4 @@ The guide's research-summary section reports, without citing specific studies, s
 - [Task completion with GenAI is a weak proxy for durable competence, with struggling learners at risk of an illusion of competence](task-completion-weak-proxy-competence.md) — related
 - [AI-assisted task performance can rise without corresponding gains in underlying knowledge, metacognitive processing, or independent reasoning](ai-performance-learning-gains-diverge.md) — related
 - [Unstructured LLM use risks cognitive offloading that displaces effortful thought and weakens argument construction](unstructured-llm-use-cognitive-offloading.md) — related
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](metacognitive-displacement-illusion-of-competence.md) — related

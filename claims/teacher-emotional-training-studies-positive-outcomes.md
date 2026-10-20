@@ -50,3 +50,4 @@ The review narrates prior training studies targeting skills such as emotion iden
 - [Mindfulness and stress management skills may produce positive effects on educator sleep, self-regulation, self-compassion, and job satisfaction](mindfulness-positive-effects-educator-wellbeing.md) — related
 - [Professional development interventions showed mixed outcomes, with 14 of 20 studies supportive and 6 non-supportive](professional-development-interventions-mixed-outcomes.md) — related
 - [Gratitude, therapy-based, and the single physical activity intervention positively contributed to teacher well-being, though the physical activity intervention did not mitigate burnout](gratitude-therapy-physical-activity-intervention-outcomes.md) — related
+- [School meditation programmes foster small improvements in well-being, more consistently reducing negative outcomes than promoting positive ones](meditation-small-wellbeing-gains-negative-outcomes.md) — related

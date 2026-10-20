@@ -13,7 +13,7 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 22 claims (9 show a difference, 6 mixed, 5 no difference, 2 unmarked) · 11 studies (5 associational, 3 review, 2 causal, 1 quant-synthesis), `q2`–`q3` · 5 of 11 report an effect size · 22 claims rest on one study
+> **Evidence** · 29 claims (14 show a difference, 8 mixed, 5 no difference, 2 unmarked) · 13 studies (5 review, 5 associational, 2 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 13 report an effect size · 29 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
@@ -57,6 +57,13 @@ Personality traits are relatively stable individual differences, most often meas
 - [Associations between teacher personality and effectiveness are strongest for evaluations of teaching and near zero for academic achievement and classroom observation](../claims/effectiveness-measure-moderates-personality-association.md) [~M] — learners who differ on it differ in outcomes
 - [Teacher Big Five domains show their largest associations with burnout for emotional stability and conscientiousness, but none of the burnout effects are statistically significant](../claims/teacher-personality-burnout-null-findings.md) [-M] — learners who differ on it differ in outcomes
 - [Teacher extraversion, conscientiousness, emotional stability, and openness are each positively associated with teacher effectiveness, while agreeableness is not a significant correlate](../claims/big-five-teacher-effectiveness-meta-analysis.md) [~W] — learners who differ on it differ in outcomes
+- [Behavior activation interventions show a dose-response pattern — completing more conscientiousness challenges produced larger increases — but one behavior activation trial found no significant change](../claims/behavior-activation-dose-response-mixed-effectiveness.md) [~W] — instruction changes it
+- [Digital coaching increased the organization and productiveness facets of conscientiousness but not responsibility, with no observer-reported facet changes](../claims/coaching-facet-effects-organization-productiveness-not-responsibility.md) [~M] — instruction changes it
+- [Digital coaching significantly increased trait conscientiousness, with effects stable one year after the intervention ended](../claims/digital-coaching-increases-trait-conscientiousness-durable.md) [+M] — instruction changes it
+- [Intervention gains in conscientiousness were generally maintained at follow-up, but mediation was never tested and only one intervention examined moderation](../claims/maintenance-evident-mechanisms-untested.md) [+W] — instruction changes it
+- [Learning patterns relate to personal factors (personality, motivation, beliefs, prior education, age, gender) with weak-to-moderate associations indicating potential for change](../claims/learning-patterns-personal-factors.md) [+W] — learners who differ on it differ in outcomes
+- [Most recent interventions to strengthen conscientiousness significantly increased it at the trait, facet, or state level, with small-to-moderate effect sizes](../claims/nine-of-eleven-conscientiousness-interventions-effective.md) [+W] — instruction changes it
+- [One in-person coaching intervention produced a small significant reduction in conscientiousness while the control group showed no change](../claims/coaching-produced-small-reduction-in-conscientiousness.md) [+W] — instruction changes it
 
 ## Related Learner Variables
 

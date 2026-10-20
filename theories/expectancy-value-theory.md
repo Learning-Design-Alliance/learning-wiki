@@ -12,7 +12,7 @@ generated:
 # Expectancy-Value Theory
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 14 claims (6 for, 8 mixed) · 11 studies (3 causal, 3 qualitative, 2 associational, 1 review, 1 design, 1 theoretical), `q2`–`q3` · 4 of 11 report an effect size · 13 claims rest on one study
+> **Evidence** · 15 claims (6 for, 9 mixed) · 12 studies (3 causal, 3 qualitative, 2 associational, 1 quant-synthesis, 1 review, 1 design, 1 theoretical), `q2`–`q3` · 4 of 12 report an effect size · 14 claims rest on one study
 
 ## Description
 Expectancy-Value Theory (Wigfield & Eccles, 2000) proposes that achievement behavior is most immediately predicted by two beliefs: **expectancy for success** (whether the learner believes they will do well on an upcoming task) and **task value** (why the learner believes the task is worth doing). Expectancy for success is conceptually distinct from present-tense **ability beliefs** — expectancy is about future potential, ability belief is about current competence — though the two are closely related in practice.
@@ -72,6 +72,7 @@ The theory is explicitly integrative — it is often used as the organizing fram
 - [Teachers' SRL promotion is not significantly associated with students' perceived cost of using strategies at class or student level](../claims/srl-promotion-not-linked-to-student-cost.md) [~W]
 - [Students with positive perceptions of the instrumentality of schoolwork for future goals are more motivated, use more effective learning strategies, and perform better in school](../claims/positive-instrumentality-enhances-motivation-learning.md) [+W] — attached 2026-10-19 from Phalet et al. (2004), which proposed "Future time perspective theory: cognitive (instrumentality) and dynamic (incentive value) aspects connecting present task goals to distant future goals"; tests this page's relationship.
 - [Perceived instrumentality enhances student motivation only for students with a positive attitude toward their personal future; for students with a negative future outlook, high utility has the opposite effect](../claims/instrumentality-future-attitude-interaction.md) [~W] — attached 2026-10-19 from Phalet et al. (2004), which proposed "Future time perspective theory: cognitive (instrumentality) and dynamic (incentive value) aspects connecting present task goals to distant future goals".
+- [Pedagogical agents show a small-to-moderate but non-significant effect on learners' utility beliefs (g = 0.34, p = 0.05)](../claims/pa-non-significant-utility-beliefs.md) [~W]
 
 ## Related Theories
 

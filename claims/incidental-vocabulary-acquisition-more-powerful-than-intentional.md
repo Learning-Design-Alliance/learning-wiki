@@ -56,3 +56,4 @@ Narrative review of incidental vocabulary acquisition research (Krashen 2004; Le
 - [The SVAS group outperformed the comparison group across oral comprehension and vocabulary rubrics, with the largest gaps in answering questions and translating from Ukrainian](svas-advantage-across-test-rubrics.md) — related
 - [Reading and listening yield similar proportions of incidental vocabulary learning, with reading ahead only on some immediate posttests](reading-versus-listening-incidental-vocabulary-gains.md) — related
 - [Treatment effect interacts with exam sub-section, with oral comprehension showing the largest LWPA advantage](lwpa-by-exam-subsection-interaction.md) — related
+- [Generation effects are larger in incidental than intentional learning studies, though the direct intentional-vs-incidental contrast was not significant](intentionality-moderator-generation-effect.md) — related

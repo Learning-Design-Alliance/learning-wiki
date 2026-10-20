@@ -12,7 +12,7 @@ generated:
 # Instinct, Drive, and Arousal Theories
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · no claims cited
+> **Evidence** · 1 claim (1 against) · 1 study (1 associational), `q3` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 These three theories represent an early, largely biological line of thinking about motivation, each superseding the last, and each still echoed in later frameworks.
@@ -48,6 +48,8 @@ These three theories represent an early, largely biological line of thinking abo
 - Instinct theory has been broadly superseded within the wiki's other motivation theories, which treat most human motives as learned or constructed rather than innate
 
 ## Claims
+
+- [No evidence for a curvilinear relationship between arousal and test performance](../claims/no-curvilinear-arousal-performance.md) [-W]
 
 ## Related Theories
 

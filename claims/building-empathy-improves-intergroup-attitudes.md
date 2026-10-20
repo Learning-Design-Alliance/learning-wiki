@@ -122,3 +122,4 @@ The authors review 418 prejudice-reduction experiments published 2007–2019, es
 - [SEL programs improve social emotional skills](sel-programs-improve-social-emotional-skills.md) — related
 - [Sharing experiences in class discussion modifies learners' attitudes and interpretations](sharing-experiences-modifies-attitudes.md) — related
 - Participating youth appeared to develop perspective-taking skills, with 84% of students reporting greater openness to others' perspectives — related
+- [Induced perspective-taking strategies affect SPT outcomes, but no consensus exists on the most effective strategy](strategy-inductions-affect-spt-outcomes.md) — related

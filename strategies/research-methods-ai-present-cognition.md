@@ -42,7 +42,8 @@ The article recommends that developmental research move beyond lab tasks forbidd
 - [Human Ai Co Regulation Framework](../theories/self-regulated-learning.md)
 
 ## Related Strategies
-- 
+
+- [Study effort regulation in real-world, personally relevant contexts over longer timeframes, including via ecological momentary assessment](study-effort-regulation-real-world-contexts.md)
 
 ## Examples
 -

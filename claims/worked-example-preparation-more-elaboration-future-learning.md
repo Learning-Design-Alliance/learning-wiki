@@ -46,3 +46,4 @@ Think-aloud protocols coded by two independent raters (κ = 0.89) during learnin
 - [Worked-example preparation leads to more application of canonical criteria during future learning, which mediates higher transfer](canonical-criteria-application-mediates-transfer-advantage.md) — related
 - [The inventing group showed more metacognitive regulation during future learning, contrary to hypothesis, without benefiting transfer](inventing-group-more-metacognitive-regulation.md) — related
 - [Contrary to expectation, the worked-example group applied suboptimal criteria more often, and fewer suboptimal applications mediated inventing's transfer](suboptimal-criteria-application-worked-example-contrary-hypothesis.md) — related
+- [Teaching between study phases contributes to comprehension more than teaching after the study phase](teaching-timing-between-study-phases.md) — related

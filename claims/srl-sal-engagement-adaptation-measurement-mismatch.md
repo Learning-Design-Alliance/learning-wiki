@@ -50,3 +50,5 @@ The commentary reports Zusho's (2017) conclusions from reviewing the literature 
 - [Fryer argues perceived control and need for competence may bridge differences among models of higher-education learning toward a mega-theory](perceived-control-competence-mega-theory-bridge.md)
 - [Dinsmore's review of 134 studies argues that models of strategic processing among college students must be multidimensional and dynamic](strategic-processing-multidimensional-dynamic-college.md)
 - [Fewer than half of undergraduate mathematics SE studies define engagement explicitly, and definitions vary in their use of multidimensionality, psychological investment, and observable behavior](se-definitions-heterogeneous-math.md) — related
+- [The learning patterns model differs from SRL models by being multi-dimensional, non-normative, and including external regulation and lack of regulation](learning-patterns-versus-srl-models.md) — related
+- [The special issue's contributions divide between narrative-review and systematic-review methodologies](sal-srl-special-issue-narrative-systematic-divide.md) — related

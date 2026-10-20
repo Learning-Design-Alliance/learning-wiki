@@ -91,3 +91,4 @@ The chapter reports Rohrer et al. (2010), where "this retrieval practice activit
 - [Evidence on whether initial short-answer questions produce more learning than initial multiple-choice questions is mixed, with recent studies finding little or no difference](short-answer-versus-multiple-choice-retrieval-practice-evidence-is-mixed.md) — related
 - [Subtle indirect cueing feedback tends to have higher impacts on learning outcomes than other forms of feedback, per research the review cites](subtle-cueing-feedback-higher-impact.md) — related
 - [Practice retrieval performance did not differ significantly between the three retrieval strategy conditions](practice-retrieval-scores-no-condition-differences.md) — related
+- [The text generation effect is largest for free-recall tests, smaller for cued recall, and near zero for other assessment tasks](assessment-task-moderator-free-recall.md) — related

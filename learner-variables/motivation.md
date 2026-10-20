@@ -13,7 +13,7 @@ generated:
 # Motivation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 193 claims (134 show a difference, 37 mixed, 20 no difference, 2 unmarked) · 152 studies (53 associational, 41 causal, 23 review, 10 qualitative, 10 theoretical, 9 quant-synthesis, 6 design), `q1`–`q4` · 36 of 152 report an effect size · 179 claims rest on one study
+> **Evidence** · 200 claims (138 show a difference, 39 mixed, 21 no difference, 2 unmarked) · 158 studies (53 associational, 41 causal, 27 review, 11 theoretical, 10 quant-synthesis, 10 qualitative, 6 design), `q1`–`q4` · 38 of 158 report an effect size · 186 claims rest on one study
 
 ## Description
 Whether a learner will spend effort here, and what makes it feel worth spending. It decides whether a page must earn attention before it can teach, and how much open-endedness is tolerable. The honest state of the evidence is that the mechanisms are well supported and the *interventions* are modest — growth-mindset programmes produce small average effects concentrated in specific subgroups [+W], which is a reason to design for motivation rather than to bolt an intervention on.
@@ -243,6 +243,13 @@ Whether a learner will spend effort here, and what makes it feel worth spending.
 - [Perceived task difficulty correlates negatively with self-assessed understanding and with interest at essentially all measurement points, while interest and self-assessed understanding correlate positively throughout](../claims/difficulty-negative-interest-understanding-positive-correlations.md) [+M] — learners who differ on it differ in outcomes
 - [Prior knowledge and intervention condition moderate repeated cognitive load and interest measures: prior knowledge lowers effort and difficulty and raises interest and understanding, and prompting groups perceive tasks as more difficult](../claims/prior-knowledge-and-prompting-moderate-load-and-interest.md) [~M] — instruction changes it
 - [Programs focusing solely on motivation are equally effective in stimulating affirming motivations and reading comprehension as programs combining motivational support with skills instruction](../claims/motivation-only-equally-effective.md) [+M] — instruction changes it
+- [Expectancies for success predict academic achievement more strongly than task values](../claims/expectancy-success-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](../claims/extrinsic-rewards-deplete-intrinsic-motivation.md) [+M] — instruction changes it
+- [Individual interest is a stable positive predictor of academic achievement, while seductive details harm recall and transfer](../claims/individual-interest-predicts-achievement.md) [+M] — learners who differ on it differ in outcomes
+- [Motivation generally increases SPT accuracy, but some goals can motivate inaccuracy](../claims/motivation-affects-spt-accuracy-with-exceptions.md) [~M] — learners who differ on it differ in outcomes
+- [Pedagogical agents show essentially no effect on learners' intrinsic motivation (g = 0.00)](../claims/pa-no-effect-intrinsic-motivation.md) [-M] — instruction changes it
+- [Promoting autonomous motivation was linked to higher motivation, lower experienced cognitive load, and higher achievement, but causality cannot be interpreted](../claims/autonomous-motivation-lower-load-higher-achievement-cross-sectional.md) [+M] — instruction changes it
+- [Teaching expectancy may moderate the non-interactive teaching effect, but this moderation often fails to replicate](../claims/teaching-expectancy-moderation-mixed.md) [~M] — an instructional effect differs with it
 
 ## The evidence by question
 - *Does autonomy-supportive teaching raise motivation and engagement compared with controlling teaching?* [Self-determination theory holds that autonomy support raises intrinsic motivation, and a meta-analysis finds expected tangible rewards undermine it](../claims/autonomy-supports-intrinsic-motivation.md) [+M]

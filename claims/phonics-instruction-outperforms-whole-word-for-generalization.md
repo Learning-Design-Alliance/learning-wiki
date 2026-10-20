@@ -155,3 +155,4 @@ Open questions include the optimal pacing of the letter–sound sequence, how mu
 - [The MSDS curriculum showed no statistically significant effects on word recognition, spelling, fluency, or comprehension outcomes](msds-no-effects-other-reading-measures.md) — related
 - [Children learning orthographically consistent languages show fewer reading deficits and faster spelling development](orthographic-consistency-eases-reading-spelling.md) — related
 - [Instruction that includes systematic phonics leads to better spelling and reading outcomes than instruction that does not](systematic-phonics-benefits-spelling-and-reading.md) — possibly the same claim (merge candidate)
+- [Text generation interventions improve learning with texts compared to reading them, with a medium overall effect (g = 0.41)](text-generation-overall-effect.md) — related

@@ -56,3 +56,4 @@ Survey-based case study findings section; Table 2 summarizes unit adoption level
 - [Government regulations and policy incentives are crucial external enablers of institutional AI adoption readiness](government-regulation-external-enabler-ai-adoption.md) — related
 - [Uniform AI integration across a classroom is likely to widen the gap between better- and less-prepared students](uniform-ai-integration-widens-gaps.md) — related
 - [Only eight of 130 sampled universities had a business-school-specific AI policy, limiting discipline-specific alignment](few-business-schools-own-ai-policies.md) — related
+- [Learning patterns relate to contextual factors including teaching strategies, perceptions of the learning environment, and discipline](learning-patterns-contextual-factors.md) — related

@@ -13,7 +13,7 @@ generated:
 # Metacognitive Strategies
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 7 claims (3 for, 3 mixed, 1 against) · 8 studies (2 review, 2 associational, 1 causal, 1 quant-synthesis, 1 qualitative, 1 theoretical), `q1`–`q4` · 1 of 8 report an effect size · 6 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 9 studies (2 review, 2 associational, 2 theoretical, 1 causal, 1 quant-synthesis, 1 qualitative), `q1`–`q4` · 1 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Metacognitive strategies are deliberate learner moves for planning, monitoring, checking, and revising thinking during learning. This element captures concrete supports for self-regulation such as confidence checks, self-questioning, and strategy review.
@@ -48,6 +48,7 @@ Metacognitive strategies are deliberate learner moves for planning, monitoring, 
 - [Metacognitive monitoring bias during competitive Kahoots did not differ by competitive preference, though bias shifted across time](../claims/no-competitiveness-difference-monitoring-bias.md) [~W]
 - [Combining cognitive and metacognitive prompts optimizes germane processing; metacognitive prompts alone help only when remedial planning is prompted and remediation is possible](../claims/combine-cognitive-metacognitive-prompts.md) [~W]
 - [Metacognition may limit creativity during the generative stage but facilitate it during the exploratory stage](../claims/metacognition-dual-impact-generative-exploratory-stages.md) [~W]
+- [AI takeover of metacognitive monitoring may foster illusion of competence (untested conjecture)](../claims/metacognitive-displacement-illusion-of-competence.md) [~W]
 
 ## Related Elements
 - [Self-Assessment](self-assessment.md)

@@ -55,3 +55,4 @@ The essay's 'Learning Motivation' section reports, citing Deci, Koestner & Ryan 
 - Collaboration scripts improve collaborative skills and domain learning, but highly prescriptive scripts can undermine learner motivation and agency — a narrower finding that bears on this claim
 - [Extrinsic goals are more strongly associated with cheating than intrinsic enjoyment of learning](extrinsic-goals-associated-with-cheating.md) — related
 - [Classroom research primarily supports the motivational perspective on cooperative learning effects](classroom-research-supports-motivational-perspective.md) — related
+- [Extrinsic rewards deplete intrinsic motivation for already-motivated activities once the rewards are removed](extrinsic-rewards-deplete-intrinsic-motivation.md) — a narrower finding that bears on this claim

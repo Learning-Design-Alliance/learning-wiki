@@ -50,3 +50,4 @@ Hierarchical regression predicting parental ratings of attention and behaviour (
 - [Family-risk of dyslexia does not predict readiness to learn once other distal, proximal and child risk factors are controlled](family-risk-no-unique-variance-readiness.md) — related
 - [Home literacy environment and child health predict reading readiness at school entry, with socioeconomic status effects mediated by home literacy environment](hle-child-health-predict-reading-readiness.md) — related
 - [Family-risk of dyslexia and preschool language impairment are additive risk factors for reading readiness and attention and behaviour](fr-li-additive-risk-factors-outcomes.md) — related
+- [Children's challenging behaviour, not ability (IQ), is the major source of demand on teachers, and one child's disruptive behaviour can reduce classmates' access to the educator](challenging-behaviour-major-teacher-demand.md) — related

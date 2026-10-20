@@ -42,6 +42,7 @@ The article recommends reallocating scholarly attention from capability benchmar
 
 - [Extend educational LLM benchmarking toward multilingual contexts, real classroom interaction data, and targeted training for identified capability gaps](future-educational-llm-benchmark-extensions.md)
 - [Research agenda for generative AI in teaching and learning: identify needed skills, resources and capabilities](generative-ai-skills-capabilities-research-agenda.md)
+- [Test whether student learning concepts and findings hold in online environments, and relate higher education curricula to secondary curricula](online-environments-validity-and-secondary-curriculum-link.md)
 
 ## Examples
 -

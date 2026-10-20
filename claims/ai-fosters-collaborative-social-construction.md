@@ -50,3 +50,4 @@ RQ2 finding on fostering collaborative and socially constructed learning in the 
 - Human guidance remains essential for ethical grounding when integrating AI with situated learning, including resisting complacency toward generative AI outputs — related
 - [After scaffolding, strategy talk reconfigured around summarizing, critical evaluation, and co-construction, indicating repurposing toward critical scrutiny of AI outputs](scaffolded-strategy-talk-repurposed-critical-evaluation.md) — a narrower finding that bears on this claim
 - [Students' main AI challenges are content reliability and depth, and most expect AI to serve as tutor, creative partner, and critical thinking partner rather than mere content generator](student-critical-ai-role-expectations.md) — related
+- [AI shifts the learner's role from producer to evaluator of mathematical meaning across multiple generative strategies](production-to-evaluation-shift-generative-strategies.md) — related

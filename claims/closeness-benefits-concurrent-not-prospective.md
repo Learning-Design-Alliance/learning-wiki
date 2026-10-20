@@ -47,3 +47,4 @@ Within-time covariation results (Table 4) showed closeness related to engagement
 - [Kindergarten teacher-child conflict and low self-regulation jointly predict decreases in school engagement, which in turn predicts first-grade academic competence](conflict-and-self-regulation-reduce-engagement-then-competence.md) — related
 - [Teacher-child conflict does not predict subsequent increases in children's inattention and impulsivity, contradicting a bidirectional transaction](no-bidirectional-conflict-to-self-regulation-effect.md) — related
 - [Kindergarten-spring conflict is positively associated with first-grade closeness, driven by high-conflict children, suggesting an opportunity for a fresh start](high-conflict-children-can-form-new-closer-relationships.md) — related
+- [Dyadic teacher-student closeness is consistently positively associated with elementary students' regulation of motivation](dyad-closeness-consistent-motivation.md) — related

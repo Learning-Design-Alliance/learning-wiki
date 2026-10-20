@@ -49,3 +49,4 @@ Moderator analysis of effort measurement type (k reported in Table 1: objective 
 - [In the multivariate meta-regression, goal-driven manipulation, judgment timing, and task type remain significant moderators](meta-regression-unique-moderators.md) — related
 - [Effort and monitoring judgments show a medium negative correlation (r = −.355) during learning](negative-effort-monitoring-correlation-meta-analysis.md) — related
 - [Task type moderates the correlation: problem-solving tasks show a stronger negative association than word/paired-associate tasks](problem-solving-tasks-stronger-negative-correlation.md) — related
+- [Physiological measures have limited validity for effort, especially for distinguishing data-driven from goal-driven effort](physiological-effort-measures-limited-validity.md) — related
