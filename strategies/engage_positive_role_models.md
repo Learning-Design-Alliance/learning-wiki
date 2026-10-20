@@ -36,7 +36,7 @@ Role models work through [Social Learning Theory](../theories/social-learning-th
 
 #### Implementation Variability
 - **In-person vs. virtual**: video or videoconference visits lower coordination costs and widen the pool of models
-- **Peer and near-peer models**: slightly older students are often more effective than adults because similarity is maximized [Schunk & Hanson, 1985] [+M]
+- **Peer and near-peer models**: slightly older students are often more effective than adults because similarity is maximized ([Schunk & Hanson, 1985](https://doi.org/10.1037/0022-0663.77.3.313)) [+M]
 - **Embedded vs. event-based**: models integrated into ongoing units (e.g., judging projects, co-running [Expert Groups](../elements/expert-groups.md)) outperform standalone assemblies
 - **Family involvement programs**: sustained, structured partnership models (e.g., Epstein's six-type framework) show stronger achievement effects than diffuse "involvement" [+M]
 

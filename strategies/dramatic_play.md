@@ -19,7 +19,7 @@ Dramatic play, also known as pretend play or sociodramatic play, is a learning s
 
 ## Design Implications
 
-Dramatic play sits at the intersection of [Active Learning](../principles/active-learning.md) and [Building Empathy](../principles/building-empathy.md): by enacting another person's role, learners must adopt that role's goals, language, and constraints, which exercises perspective-taking [~M]. Vygotskian theory holds that in play children perform "above their average age," using self-regulation and private speech to stay within the rules of the imagined role [~W]. However, the strongest recent review of the literature concludes that many claimed causal benefits of pretend play are not well established — much of the evidence is correlational, and matched non-play activities often produce comparable gains [~M] (Lillard et al., 2013). The practical implication is to treat dramatic play as a rich, motivating context for practicing emerging skills rather than as a uniquely necessary engine of development.
+Dramatic play sits at the intersection of [Active Learning](../principles/active-learning.md) and [Building Empathy](../principles/building-empathy.md): by enacting another person's role, learners must adopt that role's goals, language, and constraints, which exercises perspective-taking [~M]. Vygotskian theory holds that in play children perform "above their average age," using self-regulation and private speech to stay within the rules of the imagined role [~W]. However, the strongest recent review of the literature concludes that many claimed causal benefits of pretend play are not well established — much of the evidence is correlational, and matched non-play activities often produce comparable gains [~M] ([Lillard et al., 2013](https://doi.org/10.1037/a0029321)). The practical implication is to treat dramatic play as a rich, motivating context for practicing emerging skills rather than as a uniquely necessary engine of development.
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Dramatic play sits at the intersection of [Active Learning](../principles/active
 - Debriefing or storytelling afterward to consolidate language and social learning ([Class Discussion](../elements/class-discussion.md))
 
 #### Constraints
-- Claims of large causal effects on executive function, theory of mind, or language are weakly supported; correlational designs and weak controls dominate the literature [~M] — gains often appear equally in matched non-pretend activities (Lillard et al., 2013)
+- Claims of large causal effects on executive function, theory of mind, or language are weakly supported; correlational designs and weak controls dominate the literature [~M] — gains often appear equally in matched non-pretend activities ([Lillard et al., 2013](https://doi.org/10.1037/a0029321))
 - Unfacilitated play can entrench conflicts, exclude peers, or collapse into unstructured activity without a shared scenario [-W]
 - Learners new to role-play may not understand the pretend frame or behavioral expectations and need explicit setup [-W]
 - Over-scripted or teacher-directed "play" loses the negotiation and self-regulation that make it valuable [~W]

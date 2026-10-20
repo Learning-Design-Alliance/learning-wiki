@@ -72,7 +72,7 @@ The *quality* of family literacy interaction matters more than its quantity: car
 - [Shared book reading as a potential intervention for increasing lexical diversity in young children's learning environments](shared-book-reading-lexical-diversity-intervention.md)
 
 ## Examples
-- **Dialogic reading interventions** (Whitehurst et al., 1988): parents of preschoolers trained in interactive questioning showed significant gains in children's expressive language relative to controls.
+- **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)): parents of preschoolers trained in interactive questioning showed significant gains in children's expressive language relative to controls.
 - **[Raising a Reader](https://www.raisingareader.org)** — a rotating book-bag program pairing book access with caregiver training in shared-reading routines.
 - **[Dolly Parton's Imagination Library](https://imaginationlibrary.com)** — monthly book delivery to children from birth to age five; strongest outcomes where communities pair delivery with reading guidance.
 - **Family literacy nights with modeling** — schools where teachers demonstrate read-aloud techniques with real children, families practice, and books go home; a common Title I family engagement structure.

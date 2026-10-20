@@ -86,7 +86,7 @@ Generating questions is a form of generative processing: learners must select co
 - **AutoTutor (Graesser et al.)** — an intelligent tutoring system that prompts students to answer deep-reasoning questions and models the questions experts would ask, improving conceptual physics and computer literacy learning.
 - **Question Formulation Technique (Right Question Institute)** — a structured protocol in which students produce, refine, and prioritize their own questions about a prompt (https://rightquestion.org).
 - **AP/IB exam preparation** — students write practice exam questions for each unit, then exchange and answer them; authoring questions in the exam's format doubles as retrieval practice.
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — small groups take turns generating questions about a passage alongside summarizing, clarifying, and predicting; question generation is one of four trained strategies.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small groups take turns generating questions about a passage alongside summarizing, clarifying, and predicting; question generation is one of four trained strategies.
 - **[Question-Answer Relationships](question-answer-relationships.md) (QAR)** — students learn to classify and generate questions by source (right-there vs. inference), improving both question quality and answering.
 - **Case-based courses** — before discussing a case, students submit discussion questions, which the instructor uses to seed [Case-Based Learning](../patterns/case-based-learning.md) sessions.
 

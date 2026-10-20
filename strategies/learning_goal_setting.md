@@ -37,7 +37,7 @@ Goal setting works because specific, difficult goals regulate effort, persistenc
 #### Implementation Variability
 - **Individual written goals** — learners draft personal questions and assumptions before shadowing or field observation
 - **Contract-style goals** — goals negotiated with a mentor or instructor, then revisited at checkpoints
-- **Micro-goals** — breaking a large learning goal into achievable sub-goals, which raises self-efficacy through proximal success experiences [Achievable micro-goals](achievable_micro-goals.md); proximal sub-goals increase self-efficacy and interest (Bandura & Schunk, 1981) [+S]
+- **Micro-goals** — breaking a large learning goal into achievable sub-goals, which raises self-efficacy through proximal success experiences [Achievable micro-goals](achievable_micro-goals.md); proximal sub-goals increase self-efficacy and interest ([Bandura & Schunk, 1981](https://doi.org/10.1037/0022-3514.41.3.586)) [+S]
 - **Assumption-auditing variant** — goals paired with explicit statements of what the learner expects to see, so disconfirming evidence becomes salient
 
 ### Target Learners

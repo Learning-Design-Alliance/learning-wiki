@@ -76,7 +76,7 @@ The strongest evidence favors programs that go beyond supplying books or asking 
 - [Support peer-to-peer reading interventions, whole-school collaborations, and parent-teacher involvement to address peer problems in reading](peer-to-peer-reading-interventions-social-skills.md)
 
 ## Examples
-- **Dialogic reading interventions** (Whitehurst et al., 1988) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.
+- **Dialogic reading interventions** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)) — parents of preschoolers trained in interactive questioning produced significant gains in expressive language compared with controls.
 - **[Raising a Reader](https://www.raisingareader.org)** — a national program rotating high-quality book bags into homes weekly, paired with parent training on shared-reading techniques.
 - **[Reading Rockets' "Reading Tips for Parents"](https://www.readingrockets.org/topics/parent-tips)** — free, research-based parent guidance sheets in multiple languages, usable as low-cost program materials.
 

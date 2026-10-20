@@ -19,12 +19,12 @@ This strategy pairs spoken or written instruction with non-verbal channels: gest
 
 ## Design Implications
 
-Observation of a modeled performance reduces the working-memory and comprehension burden of translating verbal instructions into action, particularly for procedural and motor tasks [Demonstration](../elements/demonstration.md) [+M]. Gesture research shows that speech-accompanying gestures add representational information that learners integrate with speech and later use in their own reasoning [Goldin-Meadow & Alibali, 2013] [+M]. Demonstrations are most effective when the instructor makes reasoning visible while performing — a [Think-Aloud](../elements/think-aloud.md) overlay — and when learners immediately attempt the action themselves rather than only watching.
+Observation of a modeled performance reduces the working-memory and comprehension burden of translating verbal instructions into action, particularly for procedural and motor tasks [Demonstration](../elements/demonstration.md) [+M]. Gesture research shows that speech-accompanying gestures add representational information that learners integrate with speech and later use in their own reasoning ([Goldin-Meadow & Alibali, 2013](https://doi.org/10.1146/annurev-psych-113011-143802)) [+M]. Demonstrations are most effective when the instructor makes reasoning visible while performing — a [Think-Aloud](../elements/think-aloud.md) overlay — and when learners immediately attempt the action themselves rather than only watching.
 
 ### Context
 #### Requirements
 - A visible, accurate model of the target performance (live, video, or animated)
-- Gestures and demonstrations that are congruent with the verbal message; mismatched or decorative gesture adds noise [Clark & Mayer, 2016] [~M]
+- Gestures and demonstrations that are congruent with the verbal message; mismatched or decorative gesture adds noise ([Clark & Mayer, 2016](https://doi.org/10.1002/9781119239086)) [~M]
 - Clear sightlines or camera framing so the critical movements are actually observable
 - A follow-on opportunity for learners to imitate and receive [Coaching](../elements/coaching.md) or [Feedback](../elements/feedback.md)
 
@@ -66,7 +66,7 @@ Observation of a modeled performance reduces the working-memory and comprehensio
 ## Examples
 - A chemistry instructor demonstrates proper titration technique — hand position, swirl motion, reading the meniscus at eye level — while narrating each decision, then circulates as students replicate it.
 - **YouTube-style video modeling in physical education and music** (e.g., slow-motion serve demonstrations in tennis instruction apps) lets learners replay and zoom on critical movements.
-- An elementary teacher uses hand gestures tracing a number line while explaining addition with regrouping, then has students perform the same gestures as they solve — gesture production supports abstraction of the underlying concept [Goldin-Meadow & Alibali, 2013] [+M].
+- An elementary teacher uses hand gestures tracing a number line while explaining addition with regrouping, then has students perform the same gestures as they solve — gesture production supports abstraction of the underlying concept ([Goldin-Meadow & Alibali, 2013](https://doi.org/10.1146/annurev-psych-113011-143802)) [+M].
 
 ## Key Sources
 - Bandura, A. (1977). *Social learning theory*. Prentice Hall.

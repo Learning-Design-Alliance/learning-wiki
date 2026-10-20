@@ -82,7 +82,7 @@ Frequent low-stakes writing builds fluency by reducing the working-memory burden
 - [Freewriting](../strategies/5-minute_writing_conferences.md) — the timed, unedited generation technique underlying journal fluency work
 
 ## Examples
-- **Dialogue journals in ESL/EFL classrooms** (Hyland, 2003): students write weekly entries; the teacher responds personally, modeling natural written English without correcting every error — the response itself supplies comprehensible input.
+- **Dialogue journals in ESL/EFL classrooms** ([Hyland, 2003](https://doi.org/10.1017/cbo9780511667251)): students write weekly entries; the teacher responds personally, modeling natural written English without correcting every error — the response itself supplies comprehensible input.
 - **National Writing Project sites** ([https://www.nwp.org](https://www.nwp.org)) — teacher-consultants use journaling and writer's workshop cycles in which journal entries seed published pieces.
 - **Content-area learning journals** in science and history classes, where students write brief explanatory entries that the teacher responds to for conceptual accuracy, using journals as a window into student thinking.
 

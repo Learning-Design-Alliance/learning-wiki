@@ -118,7 +118,7 @@ Safety here means both being and feeling physically and psychologically secure i
 - **Peer Victimization Scale** (Austin & Joseph, 1996): assesses being bullied at school for children aged 8 to 11.
 - **Gatehouse Bullying Scale** (Bond et al., 2007): assesses bullying victimisation at school for ages 10 to 15.
 - **Neighborhood Environment Walkability Scale (NEWS)** (Saelens et al., 2003): residents' perceptions of neighbourhood features including safety, traffic hazards and crime.
-- **Neighborhood Questionnaire** (Greenberg & Lengua, 1995): a parent's view of neighbourhood safety, public services and violent crime.
+- **Neighborhood Questionnaire** ([Greenberg & Lengua, 1995](https://doi.org/10.1017/s0954579400006374)): a parent's view of neighbourhood safety, public services and violent crime.
 
 ## Related Learner Variables
 - [Adverse Experiences](adverse-experiences.md): feeling unsafe can be traumatic, and trauma lowers felt safety.

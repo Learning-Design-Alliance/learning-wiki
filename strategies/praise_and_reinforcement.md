@@ -67,7 +67,7 @@ Praise works as a reinforcer only when learners perceive it as informative and s
 
 ## Examples
 - **ClassDojo (https://www.classdojo.com)** — a points-based reinforcement system for classroom behaviors; effective when points are tied to specific, explained behaviors and faded over time, counterproductive when used as public standing comparison.
-- **Praise process, not person (Mueller & Dweck, 1998)** — in six studies with elementary students, children praised for intelligence after success chose easier tasks and showed declining persistence after failure, while children praised for effort chose challenge and improved; the design implication is to reinforce strategy and effort, not ability.
+- **Praise process, not person ([Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33))** — in six studies with elementary students, children praised for intelligence after success chose easier tasks and showed declining persistence after failure, while children praised for effort chose challenge and improved; the design implication is to reinforce strategy and effort, not ability.
 - **Direct Instruction programs (e.g., Reading Mastery)** — use rapid, contingent verbal praise and unison responding to reinforce correct academic responses at high rates during early skill acquisition.
 
 ## Key Sources

@@ -16,7 +16,7 @@ generated:
 > **Evidence** · 22 claims (10 for, 10 mixed, 1 against, 1 unmarked) · 28 studies (8 quant-synthesis, 7 review, 5 causal, 3 qualitative, 2 associational, 2 design, 1 theoretical), `q2`–`q4` · 6 of 28 report an effect size · 16 claims rest on one study
 
 ## Description
-Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? (Hattie & Timperley, 2007). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
+Providing feedback gives learners information about the gap between their current and desired performance, so they can correct errors and refine understanding. Effective feedback answers three questions: Where am I going? How am I doing? Where to next? ([Hattie & Timperley, 2007](https://doi.org/10.3102/003465430298487)). It functions as the corrective loop that makes [Practice](practice.md) productive rather than merely repetitive.
 
 ## Design Implications
 

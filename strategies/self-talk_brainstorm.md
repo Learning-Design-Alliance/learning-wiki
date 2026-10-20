@@ -65,7 +65,7 @@ Self-talk brainstorming is a form of guided rehearsal for metacognitive and emot
 
 ## Examples
 - **Second Step (SEL curriculum, Committee for Children)** — middle-school lessons present social scenarios (exclusion, peer conflict) and guide students to generate constructive self-talk as a coping strategy. [https://www.secondstep.org](https://www.secondstep.org)
-- **Sport psychology self-talk training** — athletes brainstorm and rehearse instructional ("elbow up") and motivational ("I've trained for this") cues; meta-analytic evidence supports self-talk for sport performance [+M] (Hatzigeorgiadis et al., 2011).
+- **Sport psychology self-talk training** — athletes brainstorm and rehearse instructional ("elbow up") and motivational ("I've trained for this") cues; meta-analytic evidence supports self-talk for sport performance [+M] ([Hatzigeorgiadis et al., 2011](https://doi.org/10.1177/1745691611413136)).
 - **Test-prep classrooms** — before a high-stakes exam, students brainstorm responses to "I'm going to fail this" and post selected phrases as classroom anchors.
 
 ## Key Sources

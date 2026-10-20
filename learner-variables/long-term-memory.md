@@ -119,7 +119,7 @@ Long-term memory holds information, such as words, facts, events, concepts and p
 ## Measures
 - **Wechsler Memory Scale (WMS)** (Wechsler, 2010): its logical memory subtest asks for details of a story heard once, as a measure of declarative memory.
 - **Children's Memory Scale (CMS)** (Cohen, 1997): assesses long- and short-term memory in verbal, visual and attention domains for ages 5 to 16.
-- **Test of Memory and Learning (TOMAL)** (Reynolds & Voress, 2007): measures verbal, nonverbal and composite memory for ages 5 to 59.
+- **Test of Memory and Learning (TOMAL)** ([Reynolds & Voress, 2007](https://doi.org/10.5014/ajot.63.4.433)): measures verbal, nonverbal and composite memory for ages 5 to 59.
 
 ## Related Learner Variables
 - [Adverse Experiences](adverse-experiences.md): childhood trauma is linked with changes in brain structures that form long-term memories.

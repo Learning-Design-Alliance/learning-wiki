@@ -19,7 +19,7 @@ Inclusive Cultural Response involves addressing gaps in cultural learning and re
 
 ## Design Implications
 
-Inclusive cultural response draws on culturally relevant pedagogy, which holds that learners engage more deeply when curriculum connects to their identities and communities while still demanding academic rigor [Ladson-Billings, 1995]. Perceived relevance and personal value increase motivation and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M], and emphasis on personally meaningful content directs attention toward it [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. The strategy works only when inclusion is substantive — diverse voices must carry conceptual weight in the unit, not appear as sidebars.
+Inclusive cultural response draws on culturally relevant pedagogy, which holds that learners engage more deeply when curriculum connects to their identities and communities while still demanding academic rigor ([Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465)). Perceived relevance and personal value increase motivation and engagement [Task value increases motivation and engagement.](../claims/task-value-increases-motivation-and-engagement.md) [+M], and emphasis on personally meaningful content directs attention toward it [Relevancy of emphasis directs attention.](../claims/relevancy-of-emphasis-directs-attention.md) [+M]. The strategy works only when inclusion is substantive — diverse voices must carry conceptual weight in the unit, not appear as sidebars.
 
 ### Context
 #### Requirements
@@ -68,7 +68,7 @@ Inclusive cultural response draws on culturally relevant pedagogy, which holds t
 
 ## Examples
 - **Rudine Sims Bishop's "mirrors, windows, and sliding glass doors" framework** — widely used in K–12 literacy curriculum revision to justify selecting texts that both reflect learners' identities and expose them to others' (https://readingwhilebrown.blogspot.com — see Bishop, 1990, *Perspectives*)
-- **Culturally responsive mathematics instruction (Gay, 2018; Ladson-Billings, 1995)** — reworking word problems, data contexts, and historical examples so mathematical reasoning is situated in learners' communities rather than only in commercial or majority-culture scenarios
+- **Culturally responsive mathematics instruction (Gay, 2018; [Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465))** — reworking word problems, data contexts, and historical examples so mathematical reasoning is situated in learners' communities rather than only in commercial or majority-culture scenarios
 - **Decolonizing the syllabus initiatives in higher education** (e.g., University of London SOAS and University of Cape Town curriculum review projects) — department-level audits of reading lists followed by structural changes to core units rather than optional further-reading lists
 
 ## Key Sources

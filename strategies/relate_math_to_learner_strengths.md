@@ -19,7 +19,7 @@ This strategy connects mathematical concepts to learners' existing interests, ho
 
 ## Design Implications
 
-Connecting content to personal interest raises situational interest, which supports engagement and can develop into sustained individual interest over time [Personal interest improves learning when the relevant context is genuinely familiar.](../claims/activation-improves-learning.md) [+M]. Personalized problem contexts have produced measurable learning gains in algebra when the contexts match students' actual interests, not just surface-level "real world" framing [Walkington, 2013] [+M]. The mechanism is partly motivational (relevance, [Belonging](../elements/belonging.md)) and partly cognitive: familiar contexts reduce the extraneous load of interpreting a problem, freeing working memory for the mathematics itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
+Connecting content to personal interest raises situational interest, which supports engagement and can develop into sustained individual interest over time [Personal interest improves learning when the relevant context is genuinely familiar.](../claims/activation-improves-learning.md) [+M]. Personalized problem contexts have produced measurable learning gains in algebra when the contexts match students' actual interests, not just surface-level "real world" framing ([Walkington, 2013](https://doi.org/10.1037/a0031882)) [+M]. The mechanism is partly motivational (relevance, [Belonging](../elements/belonging.md)) and partly cognitive: familiar contexts reduce the extraneous load of interpreting a problem, freeing working memory for the mathematics itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S].
 
 ### Context
 #### Requirements
@@ -36,7 +36,7 @@ Connecting content to personal interest raises situational interest, which suppo
 #### Implementation Variability
 - **Instructor-curated contexts**: teacher maintains a bank of interest-tagged problems (e.g., percentages via sports salaries, ratios via cooking, geometry via skateboarding ramps)
 - **Learner-authored problems**: students write and swap problems set in their own domains, doubling as [Application](../elements/application.md) and assessment evidence
-- **Adaptive personalization at scale**: platforms like ASSISTments and Khan Academy-style systems that select context variants by interest profile [Walkington, 2013] [+M]
+- **Adaptive personalization at scale**: platforms like ASSISTments and Khan Academy-style systems that select context variants by interest profile ([Walkington, 2013](https://doi.org/10.1037/a0031882)) [+M]
 - **Project-based framing**: extended projects (designing a basketball court, budgeting a concert) rather than single problems
 
 ### Target Learners

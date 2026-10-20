@@ -16,7 +16,7 @@ generated:
 > **Evidence** · no claims cited
 
 ## Description
-Performance Technology (also called Human Performance Technology, HPT) holds that instructional designers should not assume training is the answer to a performance problem until they have analyzed the gap between desired and actual performance and identified its cause. HPT emerged in the 1960s–70s out of behaviorism — its "father," Thomas Gilbert, was a student of B.F. Skinner — and is grounded in general systems theory: any solution must be understood as operating inside a larger system of people, processes, and organizational culture, not in isolation (Stefaniak, 2018).
+Performance Technology (also called Human Performance Technology, HPT) holds that instructional designers should not assume training is the answer to a performance problem until they have analyzed the gap between desired and actual performance and identified its cause. HPT emerged in the 1960s–70s out of behaviorism — its "father," Thomas Gilbert, was a student of B.F. Skinner — and is grounded in general systems theory: any solution must be understood as operating inside a larger system of people, processes, and organizational culture, not in isolation ([Stefaniak, 2018](https://edtechbooks.org/lidtfoundations/performance_technology)).
 
 Where instructional design assumes instruction is the answer and designs it well, HPT starts a step earlier by asking whether instruction is the right answer at all. A **performance analysis** compares the desired and actual states of performance to locate the gap; a **cause analysis** then identifies why the gap exists — is it a skills/knowledge deficit (which instruction can fix), or a deficit in environment, incentives, tools, or feedback (which it cannot)? Gilbert's (1978) **Behavioral Engineering Model** is the classic tool for this diagnosis, separating causes into environmental supports (information, resources, incentives) and the individual's own repertoire (knowledge/skill, capacity, motives).
 
@@ -42,7 +42,7 @@ Rossett and Schafer (2007) offer a concrete taxonomy for one of these non-instru
 
 ### Theory
 #### Supporting
-- Rooted in behaviorism and general systems theory (Stefaniak, 2018); a systems view is "holistic," focuses on interactions among elements rather than the elements themselves, and treats systems as nested within larger systems (Foshay, Villachica, & Stepich, 2014)
+- Rooted in behaviorism and general systems theory ([Stefaniak, 2018](https://edtechbooks.org/lidtfoundations/performance_technology)); a systems view is "holistic," focuses on interactions among elements rather than the elements themselves, and treats systems as nested within larger systems (Foshay, Villachica, & Stepich, 2014)
 
 ## Claims
 

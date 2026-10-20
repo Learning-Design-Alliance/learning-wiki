@@ -63,7 +63,7 @@ Analyzing self-talk is a self-monitoring intervention: making private speech an 
 - Journaling — the capture mechanism most commonly used for self-talk records
 
 ## Examples
-- **Physical education and sport training.** Athletes log self-talk before and during performance, then work with coaches to identify patterns; instructional self-talk ("bend the knees") and motivational self-talk ("I can do this") are then deliberately assigned — the intervention with the strongest evidence base for self-talk analysis [Hatzigeorgiadis et al., 2011].
+- **Physical education and sport training.** Athletes log self-talk before and during performance, then work with coaches to identify patterns; instructional self-talk ("bend the knees") and motivational self-talk ("I can do this") are then deliberately assigned — the intervention with the strongest evidence base for self-talk analysis ([Hatzigeorgiadis et al., 2011](https://doi.org/10.1177/1745691611413136)).
 - **Elementary science transition.** A teacher uses a daily pre-lab check-in where students jot one thought about the upcoming lab; after a week, students highlight repeated thoughts and map them to the transition from PE, then practice replacement statements.
 - **Cognitive behavior modification in special education.** Meichenbaum's self-instructional training begins exactly here: learners record and analyze their task-irrelevant or self-critical speech before being taught coping self-statements.
 

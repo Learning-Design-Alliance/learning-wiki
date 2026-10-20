@@ -19,7 +19,7 @@ In project-based learning (PBL), teaching academic vocabulary means identifying 
 
 ## Design Implications
 
-Vocabulary knowledge is one of the strongest predictors of academic reading comprehension, and word meanings are learned incrementally through repeated, varied encounters rather than single definitions [~S]. Explicit, rich vocabulary instruction produces reliable gains in word learning and comprehension for adolescent learners, including ELLs [+S] (Carlo et al., 2004). In PBL, the project drive provides authentic purposes for using target vocabulary, which supports retention and transfer compared with isolated word lists [~M].
+Vocabulary knowledge is one of the strongest predictors of academic reading comprehension, and word meanings are learned incrementally through repeated, varied encounters rather than single definitions [~S]. Explicit, rich vocabulary instruction produces reliable gains in word learning and comprehension for adolescent learners, including ELLs [+S] ([Carlo et al., 2004](https://doi.org/10.1598/rrq.39.2.3)). In PBL, the project drive provides authentic purposes for using target vocabulary, which supports retention and transfer compared with isolated word lists [~M].
 
 ### Context
 #### Requirements

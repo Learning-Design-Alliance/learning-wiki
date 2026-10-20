@@ -19,7 +19,7 @@ Student blogging asks learners to publish short written posts on a schedule — 
 
 ## Design Implications
 
-Blogging works because it combines generative writing, spaced practice, and authentic audience effects. Regular posting produces measurable gains in reflective writing quality and course engagement [Yang, 2023 review of classroom blogging studies] [+S], and strengthens learner autonomy and writing fluency when students control topic and voice [Sun, 2010] [+M]. The audience is the active ingredient: writing for actual readers increases audience awareness and revision behavior compared with writing for the instructor alone [+M]. Peer commenting should be structured — unstructured comments tend to be social rather than substantive, and feedback gains are strongest when comments target the task and process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+Blogging works because it combines generative writing, spaced practice, and authentic audience effects. Regular posting produces measurable gains in reflective writing quality and course engagement [Yang, 2023 review of classroom blogging studies] [+S], and strengthens learner autonomy and writing fluency when students control topic and voice ([Sun, 2010](https://doi.org/10.1080/14703297.2010.498184)) [+M]. The audience is the active ingredient: writing for actual readers increases audience awareness and revision behavior compared with writing for the instructor alone [+M]. Peer commenting should be structured — unstructured comments tend to be social rather than substantive, and feedback gains are strongest when comments target the task and process rather than the person [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Blogging works because it combines generative writing, spaced practice, and auth
 - Assessment that values process and reflection, not just polish — otherwise posts become performative essays
 
 #### Constraints
-- Gains are genre-specific: blogging shows no reliable benefit for grammar accuracy or exam performance, and weak or negative effects on reading comprehension and vocabulary when it displaces reading-intensive instruction [Sun, 2010] [-W]
+- Gains are genre-specific: blogging shows no reliable benefit for grammar accuracy or exam performance, and weak or negative effects on reading comprehension and vocabulary when it displaces reading-intensive instruction ([Sun, 2010](https://doi.org/10.1080/14703297.2010.498184)) [-W]
 - Long-term retention of content is not improved by blogging alone [Yang, 2023] [-W] — reflection without retrieval practice does not consolidate memory
 - Public writing raises stakes for anxious or marginalized students; forced publicity can suppress authentic reflection [~M]
 - Without instructor modeling of exemplary posts and comments, peer interaction stays shallow and collaboration benefits fail to materialize [~W]
@@ -42,7 +42,7 @@ Blogging works because it combines generative writing, spaced practice, and auth
 
 ### Target Learners
 - Adolescent and adult learners with basic writing fluency; benefits scale with the ability to sustain multi-paragraph text [+M]
-- Students with writing anxiety report reduced anxiety when posting to peers rather than being graded on every word [Sun, 2010] [+M]
+- Students with writing anxiety report reduced anxiety when posting to peers rather than being graded on every word ([Sun, 2010](https://doi.org/10.1080/14703297.2010.498184)) [+M]
 - Autonomy-supportive conditions are essential: choice of topic and voice drives the motivation gains [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S]
 - Less suitable for beginning language learners focused on accuracy, where the format does not improve grammar [-W]
 
@@ -69,7 +69,7 @@ Blogging works because it combines generative writing, spaced practice, and auth
 ## Examples
 - **Edublogs (https://edublogs.org)** — hosted class and student blogs widely used in K–12, with teacher moderation and privacy controls
 - **WordPress-based course blogs** (e.g., courses at many universities using Domain of One's Own, https://domainofoneown.org) — students run their own domains, maximizing autonomy and digital literacy
-- **Language-education blogging** — EFL/ESL classes using weekly reflective posts with peer comments; the setting where fluency and anxiety-reduction effects are best documented [Sun, 2010]
+- **Language-education blogging** — EFL/ESL classes using weekly reflective posts with peer comments; the setting where fluency and anxiety-reduction effects are best documented ([Sun, 2010](https://doi.org/10.1080/14703297.2010.498184))
 
 ## Key Sources
 - Sun, Y.-C. (2010). Extensive writing in foreign-language classrooms: A blogging approach. *Innovations in Education and Teaching International, 47*(3), 327–339. [doi:10.1080/14703297.2010.498184](https://doi.org/10.1080/14703297.2010.498184)

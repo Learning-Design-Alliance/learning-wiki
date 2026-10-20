@@ -19,7 +19,7 @@ Reducing visual clutter involves minimizing unnecessary or distracting visual st
 
 ## Design Implications
 
-Visual clutter competes for limited attentional resources: young learners in highly decorated classrooms spend more time off-task and score lower on focused learning tasks than learners in sparse classrooms [Fisher et al., 2014] [+M]. Because working memory is severely limited, extraneous visual processing consumes capacity that would otherwise go to schema construction [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. The goal is not sterility but *selective* visual design — every visible element should either support the learning goal or be removed.
+Visual clutter competes for limited attentional resources: young learners in highly decorated classrooms spend more time off-task and score lower on focused learning tasks than learners in sparse classrooms ([Fisher et al., 2014](https://doi.org/10.1177/0956797614533801)) [+M]. Because working memory is severely limited, extraneous visual processing consumes capacity that would otherwise go to schema construction [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+S]. The goal is not sterility but *selective* visual design — every visible element should either support the learning goal or be removed.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Visual clutter competes for limited attentional resources: young learners in hig
 
 #### Constraints
 - Overly sparse environments can feel institutional and may reduce the sense of belonging or warmth that supports engagement [~W] — the effect is on attention, not on motivation broadly
-- Highly decorated environments do not harm all learners equally: effects are strongest for young children and learners with attention difficulties; adults with developed attentional control show smaller effects [Fisher et al., 2014] [~M]
+- Highly decorated environments do not harm all learners equally: effects are strongest for young children and learners with attention difficulties; adults with developed attentional control show smaller effects ([Fisher et al., 2014](https://doi.org/10.1177/0956797614533801)) [~M]
 - Environmental decluttering cannot compensate for cluttered *instructional materials* — a bare classroom with overloaded slides still produces extraneous load [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M]
 - Learners may rely on removed reference displays (e.g., word walls, formula charts); removing them without fading support can disrupt established routines
 
@@ -41,7 +41,7 @@ Visual clutter competes for limited attentional resources: young learners in hig
 - **Individual accommodation:** preferential seating away from high-traffic or visually busy areas for learners with attention or sensory-processing needs ([Accommodations](../elements/accommodations.md))
 
 ### Target Learners
-- Young children (K–2 especially), whose selective attention is immature and most vulnerable to environmental distraction [Fisher et al., 2014] [+M]
+- Young children (K–2 especially), whose selective attention is immature and most vulnerable to environmental distraction ([Fisher et al., 2014](https://doi.org/10.1177/0956797614533801)) [+M]
 - Learners with ADHD or sensory-processing sensitivities, for whom extraneous visual stimuli impose disproportionate attentional cost [~M]
 - Novices in any domain, who lack the prior knowledge to distinguish relevant from irrelevant visual information [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [+M]
 - Less critical for experts, who can filter irrelevant stimuli using domain schemas [~W]

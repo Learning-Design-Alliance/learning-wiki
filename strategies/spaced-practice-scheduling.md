@@ -46,9 +46,9 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - Benefits accrue over weeks and months; spacing does little for performance on an assessment occurring the next day [~S]
 - Gating mechanisms that lock content until an interval passes can frustrate motivated learners or block just-in-time reference use; intervals that are too long cause retrieval failure rather than productive difficulty [~M]
 - Requires sustained adherence across a term; a single spaced session has negligible effect
-- Learners systematically prefer massing and judge it more effective, because fluent short-term performance is mistaken for durable learning [Kornell & Bjork, 2008] [-M] — without explicit guidance, students will cram even when a spaced schedule is offered
+- Learners systematically prefer massing and judge it more effective, because fluent short-term performance is mistaken for durable learning ([Kornell & Bjork, 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x)) [-M] — without explicit guidance, students will cram even when a spaced schedule is offered
 - Spacing gains shrink or vanish when the material is used only once and never re-encountered; spacing a single exposure does nothing
-- Very short intervals (minutes) or very long intervals relative to the retention interval reduce the benefit; the optimal gap scales with how long the knowledge must be retained [Cepeda et al., 2008] [~S]
+- Very short intervals (minutes) or very long intervals relative to the retention interval reduce the benefit; the optimal gap scales with how long the knowledge must be retained ([Cepeda et al., 2008](https://doi.org/10.1111/j.1467-9280.2008.02209.x)) [~S]
 - In fast-moving curricula where each lesson builds tightly on the last, forcing long gaps before skill consolidation can leave learners practicing on an unstable foundation [~M]
 
 #### Implementation Variability
@@ -71,8 +71,8 @@ Spacing is one of the most robust findings in learning science: across hundreds 
 - All age groups benefit, from early readers to medical residents [Cepeda et al. found spacing effects across lifespan and materials.](https://doi.org/10.1037/0033-2909.132.3.354) [+S]
 - Particularly high value for cumulative disciplines (languages, anatomy, mathematics) where later content depends on retained earlier content
 - Learners with weaker metacognitive monitoring benefit most from instructor- or algorithm-scheduled spacing, since they are least likely to self-schedule effectively [~M]
-- All learners benefit, but the effect is largest for retention over weeks and months rather than immediate performance [Cepeda et al., 2006] [+S]
-- Younger learners and novices may need the schedule imposed for them, since they are less likely to self-pace study sessions effectively [Kornell & Bjork, 2008] [-M]
+- All learners benefit, but the effect is largest for retention over weeks and months rather than immediate performance ([Cepeda et al., 2006](https://doi.org/10.1037/0033-2909.132.3.354)) [+S]
+- Younger learners and novices may need the schedule imposed for them, since they are less likely to self-pace study sessions effectively ([Kornell & Bjork, 2008](https://doi.org/10.1111/j.1467-9280.2008.02127.x)) [-M]
 - Learners preparing for cumulative or delayed assessments (licensing exams, prerequisite sequencing) gain the most
 
 ### Target Learning Goals

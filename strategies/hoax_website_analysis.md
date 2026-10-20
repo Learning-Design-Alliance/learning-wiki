@@ -19,7 +19,7 @@ Learners analyze famous hoax or fabricated websites (e.g., the DHMO "dihydrogen 
 
 ## Design Implications
 
-Hoax websites function as [erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]: analyzing a deliberately flawed artifact directs attention to features learners would otherwise overlook and builds the conceptual criteria underlying source evaluation. The strategy works best when hoaxes are contrasted with credible sites, since [multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M] of the underlying evaluation criteria rather than surface heuristics. Research on civic online reasoning shows that students rarely evaluate sources spontaneously; explicit structured analysis is needed [Wineburg & McGrew, 2019] [+S].
+Hoax websites function as [erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M]: analyzing a deliberately flawed artifact directs attention to features learners would otherwise overlook and builds the conceptual criteria underlying source evaluation. The strategy works best when hoaxes are contrasted with credible sites, since [multiple contrasting cases support abstraction](../claims/comparing-contrasting-cases-improves-learning.md) [+M] of the underlying evaluation criteria rather than surface heuristics. Research on civic online reasoning shows that students rarely evaluate sources spontaneously; explicit structured analysis is needed ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [+S].
 
 ### Context
 #### Requirements
@@ -29,13 +29,13 @@ Hoax websites function as [erroneous examples](../claims/erroneous-examples-buil
 - Internet access for learners to practice lateral moves — leaving the site to check claims elsewhere
 
 #### Constraints
-- Teaching surface-feature checklists (e.g., "look for typos, check the .org domain") can backfire: modern hoax sites are professionally designed, and cue-based heuristics fail against sophisticated fabrication [Wineburg & McGrew, 2019] [-S]
+- Teaching surface-feature checklists (e.g., "look for typos, check the .org domain") can backfire: modern hoax sites are professionally designed, and cue-based heuristics fail against sophisticated fabrication ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [-S]
 - Learners with high confidence in their own evaluation skill show the largest gaps between perceived and actual ability, so the strategy must confront overconfidence rather than assume it [Breakstone et al., 2021] [-M]
 - One-off lessons produce fragile gains; evaluation habits require distributed practice across varied contexts [~M]
 - If the hoax is too obviously fake, learners never experience the failure that motivates deeper strategies [-W]
 
 #### Implementation Variability
-- **Lateral reading focus:** learners leave the page immediately to investigate the source (the strategy professional fact-checkers use) rather than reading vertically within the page [Wineburg & McGrew, 2019] [+S]
+- **Lateral reading focus:** learners leave the page immediately to investigate the source (the strategy professional fact-checkers use) rather than reading vertically within the page ([Wineburg & McGrew, 2019](https://doi.org/10.1177/016146811912101102)) [+S]
 - **Reverse engineering:** learners examine the site's "About" page, domain registration, and linked organizations to trace authorship
 - **Creation-based variant:** learners build their own persuasive hoax site, then swap and evaluate peers' sites — deepening understanding of how credibility cues are manufactured
 - **Current-events integration:** applying the same analysis to live social media claims rather than archived hoaxes

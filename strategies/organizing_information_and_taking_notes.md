@@ -32,7 +32,7 @@ Organizing information reduces extraneous cognitive load by offloading working m
 - Provided organizers can become fill-in-the-blank busywork; learners who complete a teacher-structured organizer without making relational decisions show weaker benefits [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [~M]
 - Note-taking during a lecture can overload novices — transcription competes with comprehension, and complete notes taken by others (instructor-provided) sometimes yield better learning for low-knowledge learners [~M]
 - Learners with weak prior knowledge struggle to judge which ideas are important enough to record; without cues, their notes mirror the surface sequence of the material [~M]
-- Rereading and highlighting — the default "organization" many students fall back on — are among the least effective study techniques [Dunlosky et al., 2013] [-S]
+- Rereading and highlighting — the default "organization" many students fall back on — are among the least effective study techniques ([Dunlosky et al., 2013](https://doi.org/10.1177/1529100612453266)) [-S]
 
 #### Implementation Variability
 - **Guided notes / partial outlines**: instructor supplies structure, learners fill key relations — best for novices and fast-paced lectures

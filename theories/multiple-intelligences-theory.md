@@ -40,7 +40,7 @@ Gardner's inter- and intrapersonal intelligences are often combined by other res
 #### Contradicting / Qualifying
 - Morgan (1996) argues the theory relabels existing cognitive-styles research rather than identifying genuinely independent abilities
 - Standard measurement approaches struggle to validate the eight intelligences as empirically distinct (Furnham, 2009; Klein, 1997)
-- No published studies have directly validated the theory as a whole, a gap acknowledged even by Gardner himself (Sternberg, 1994; Allix, 2000; Gardner & Connell, 2000; Gardner, 2004; Sternberg & Grigorenko, 2004)
+- No published studies have directly validated the theory as a whole, a gap acknowledged even by Gardner himself (Sternberg, 1994; Allix, 2000; Gardner & Connell, 2000; Gardner, 2004; [Sternberg & Grigorenko, 2004](https://doi.org/10.1098/rstb.2004.1514))
 - Waterhouse (2006) argues shared neural pathways and genetic factors across cognitive domains, and the absence of a clear evolutionary rationale, count against treating each intelligence as a separate neural mechanism
 
 ## Claims

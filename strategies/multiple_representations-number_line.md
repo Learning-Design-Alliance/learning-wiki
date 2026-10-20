@@ -77,7 +77,7 @@ The number line's power comes from forcing a mapping between numerical magnitude
 - Physical number lines: floor tapes, bead strings, and 0–100 game boards for whole-body movement
 
 ## Examples
-- **The Great Race** (Siegler & Ramani, 2008): a linear 0–10 board game in which preschoolers count-on tokens; 20 minutes of play produced lasting gains in estimation and magnitude comparison.
+- **The Great Race** ([Siegler & Ramani, 2008](https://doi.org/10.1111/j.1467-7687.2008.00714.x)): a linear 0–10 board game in which preschoolers count-on tokens; 20 minutes of play produced lasting gains in estimation and magnitude comparison.
 - **Motion Math Zoom**: learners pinch-zoom a number line to place whole numbers, negatives, and decimals, making place-value recursion manipulable.
 - An elementary teacher prints a 0–100 line as a game board; students roll dice, move tokens, and must name "which number you're closest to" on landing, building estimation into movement.
 

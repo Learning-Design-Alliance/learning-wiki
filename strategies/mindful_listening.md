@@ -64,7 +64,7 @@ Mindful listening operationalizes attention training: the act of noticing distra
 
 ## Examples
 - **[Mindful Schools](https://www.mindfulschools.org)** — publishes sample K–5 lessons built around mindful listening with chimes and sound-scavenger-hunt activities.
-- **MindUP** (Schonert-Reichl et al., 2015) — a widely studied SEL curriculum whose core daily practice is a three-minute mindful listening exercise with a chime; evaluated in randomized trials with fourth and fifth graders.
+- **MindUP** ([Schonert-Reichl et al., 2015](https://doi.org/10.1037/a0038454)) — a widely studied SEL curriculum whose core daily practice is a three-minute mindful listening exercise with a chime; evaluated in randomized trials with fourth and fifth graders.
 - **University wellness programs** — brief chime-based listening practices at the start of lectures to settle attention before instruction.
 
 ## Key Sources

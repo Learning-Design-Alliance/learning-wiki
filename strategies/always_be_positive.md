@@ -19,7 +19,7 @@ Always Be Positive is a professional stance in which the educator commits to res
 
 ## Design Implications
 
-A positive stance works not as generic cheerfulness but as a precondition for the feedback, motivation, and relationship quality that drive learning. Students take intellectual risks and persist through difficulty when they expect interactions to be safe and constructive [Self-efficacy predicts how long students persist at academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M], and positive affect broadens attention and builds durable personal and social resources over time (Fredrickson, 2001) [+M]. The stance is most powerful when positivity is channeled into informational feedback rather than evaluative praise [Feedback is most effective when directed at the task and the process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
+A positive stance works not as generic cheerfulness but as a precondition for the feedback, motivation, and relationship quality that drive learning. Students take intellectual risks and persist through difficulty when they expect interactions to be safe and constructive [Self-efficacy predicts how long students persist at academic tasks.](../claims/self-efficacy-predicts-academic-persistence.md) [+M], and positive affect broadens attention and builds durable personal and social resources over time ([Fredrickson, 2001](https://doi.org/10.1037/0003-066x.56.3.218)) [+M]. The stance is most powerful when positivity is channeled into informational feedback rather than evaluative praise [Feedback is most effective when directed at the task and the process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ A positive stance works not as generic cheerfulness but as a precondition for th
 - Structures that surface student progress so there is something genuine to be positive about ([Check-ins](../principles/check-ins.md), visible progress tracking)
 
 #### Constraints
-- Indiscriminate praise for intelligence or ability backfires: it lowers persistence and encourages performance-avoidance when students later hit difficulty (Mueller & Dweck, 1998) [-S]
+- Indiscriminate praise for intelligence or ability backfires: it lowers persistence and encourages performance-avoidance when students later hit difficulty ([Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33)) [-S]
 - Positivity experienced as controlling or manipulative undermines the autonomy that fuels intrinsic motivation [Autonomy support increases intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [-M] — students detect insincere or coercive enthusiasm
 - "Toxic positivity" that suppresses legitimate frustration or grief prevents the productive struggle and [cognitive conflict](../elements/cognitive-conflict.md) that drive conceptual change [-W]
 - Effort praise alone ("hard work always pays off") can mislead struggling students who are working ineffectively; it must be paired with strategy guidance [Feedback is most effective when directed at the task and the process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [~M]

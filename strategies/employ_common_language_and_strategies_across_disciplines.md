@@ -19,7 +19,7 @@ Employing common language and strategies across disciplines means that teachers 
 
 ## Design Implications
 
-Consistency across contexts reduces the extraneous cognitive load of re-decoding instructions and rubrics in every class, freeing working memory for the content itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated, varied application of the same strategy across disciplines is also the classic condition for transfer: a skill practiced in only one context tends to stay bound to that context, while practice across multiple contexts supports abstraction and generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The approach draws on disciplinary literacy research, which argues that common skills (e.g., citing evidence) should be taught with a shared core language while acknowledging discipline-specific variations [Shanahan & Shanahan, 2008].
+Consistency across contexts reduces the extraneous cognitive load of re-decoding instructions and rubrics in every class, freeing working memory for the content itself [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Repeated, varied application of the same strategy across disciplines is also the classic condition for transfer: a skill practiced in only one context tends to stay bound to that context, while practice across multiple contexts supports abstraction and generalization [Multiple contrasting cases support abstraction.](../claims/comparing-contrasting-cases-improves-learning.md) [+M]. The approach draws on disciplinary literacy research, which argues that common skills (e.g., citing evidence) should be taught with a shared core language while acknowledging discipline-specific variations ([Shanahan & Shanahan, 2008](https://doi.org/10.17763/haer.78.1.v62444321p602101)).
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 - **Scaffolded versions** of the common language for multilingual learners, using the same structure with added sentence frames
 
 ### Target Learners
-- Adolescents in grades 6–12, who encounter multiple teachers daily and benefit most from consistent expectations [Graham & Perin, 2007] [+M]
+- Adolescents in grades 6–12, who encounter multiple teachers daily and benefit most from consistent expectations ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) [+M]
 - Struggling writers and multilingual learners, for whom inconsistent terminology across classes adds a substantial decoding burden [~M]
 - Students developing transferable academic skills; less relevant for advanced learners who have already abstracted the underlying skill
 

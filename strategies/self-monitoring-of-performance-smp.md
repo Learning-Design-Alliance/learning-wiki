@@ -46,7 +46,7 @@ SMP works because it converts an invisible performance stream into visible, imme
 - **Self-monitoring of accuracy** vs. **rate** — accuracy suits quality goals; rate suits fluency goals
 - **Teacher- vs. learner-set goals** — learner-set goals add motivation benefits but require goal-setting training
 - **Graphing** — having learners plot their own data strengthens the feedback loop and sustains engagement
-- **Fading** — recording prompts can be systematically withdrawn once target performance is stable (McDougall & Brady, 1998)
+- **Fading** — recording prompts can be systematically withdrawn once target performance is stable ([McDougall & Brady, 1998](https://doi.org/10.1177/001440299806400201))
 - **Process monitoring** (Did I follow the steps? Am I confused?) vs. **outcome monitoring** (Is the answer correct? Does the draft meet the rubric?) — process monitoring suits skill acquisition, outcome monitoring suits revision and study regulation
 - **Frequency**: continuous (error detection during performance), interval (end of each work session), or milestone-based (end of each task stage)
 - **Recording mode**: tally sheets and timers (behavioral), self-scoring against keys (cognitive), structured reflection prompts (metacognitive)
@@ -86,7 +86,7 @@ SMP works because it converts an invisible performance stream into visible, imme
 - [Use self-scoring against correct answers as a tool to foster primary students' monitoring accuracy during math problem-solving practice](self-scoring-foster-monitoring-accuracy-strategy.md)
 
 ## Examples
-- A student tallies the number of math facts answered correctly during a two-minute timing each day and graphs the results against a personal best (McDougall & Brady, 1998).
+- A student tallies the number of math facts answered correctly during a two-minute timing each day and graphs the results against a personal best ([McDougall & Brady, 1998](https://doi.org/10.1177/001440299806400201)).
 - A middle schooler records pages read during silent study periods and compares weekly totals to a negotiated goal.
 - **[ClassDojo](https://www.classdojo.com)** and similar behavior-tracking apps digitize the recording step, though SMP requires the *learner*, not the teacher, to do the recording for the self-regulation benefit to accrue.
 - **Self-scoring math practice**: students check each problem against an answer key immediately, log error types, and choose the next problem set based on which error type dominates — immediate self-scoring improves subsequent study decisions [+M]

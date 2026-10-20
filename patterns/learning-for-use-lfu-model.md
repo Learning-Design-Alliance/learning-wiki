@@ -115,7 +115,7 @@ Do not rank LfU against direct instruction or other inquiry designs from these c
 
 Claims bearing on the page that are not used as core evidence above.
 
-- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]: a handbook chapter's report of the same meta-analysis (Furtak et al. 2012) that the inquiry-based teaching claim already holds; adds the moderator of epistemic focus, no new study.
+- [Meta-analysis of 37 inquiry-based instruction studies found an overall positive effect moderated by epistemic focus and teacher leadership](../claims/inquiry-based-teaching-improves-science-achievement.md) [+M]: a handbook chapter's report of the same meta-analysis ([Furtak et al. 2012](https://doi.org/10.3102/0034654312457206)) that the inquiry-based teaching claim already holds; adds the moderator of epistemic focus, no new study.
 - [Inquiry-first teaching stimulates interest, sharpens reading, and helps organize course work](../claims/inquiry-first-stimulates-interest-and-organizes-course.md) [+W]: one author's 1969 experience in English language study; bears on the motivate phase's interest rationale, not tested.
 
 ## Illustrative design instance and observation record

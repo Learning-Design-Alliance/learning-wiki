@@ -19,18 +19,18 @@ Growth mindset feedback directs learners' attention to the processes that produc
 
 ## Design Implications
 
-Feedback that addresses the task and the learning process produces stronger learning outcomes than feedback directed at the person, and person-level praise (e.g., "you're so smart") can actively undermine motivation and persistence after failure [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Process-focused feedback works because it gives learners actionable information about *what to do next*, whereas trait praise gives them nothing to act on and raises the stakes of future failure [Mueller & Dweck, 1998] [+S].
+Feedback that addresses the task and the learning process produces stronger learning outcomes than feedback directed at the person, and person-level praise (e.g., "you're so smart") can actively undermine motivation and persistence after failure [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]. Process-focused feedback works because it gives learners actionable information about *what to do next*, whereas trait praise gives them nothing to act on and raises the stakes of future failure ([Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33)) [+S].
 
 ### Context
 #### Requirements
 - Feedback language that names specific strategies and behaviors ("your diagram made the relationship clear") rather than generic effort praise ("you worked hard")
 - A classroom norm that errors are expected and useful — e.g., analyzing common mistakes publicly, valuing revision
-- Instructor consistency: a single trait-praising comment can undo the effect of otherwise process-oriented practice [Mueller & Dweck, 1998] [+S]
+- Instructor consistency: a single trait-praising comment can undo the effect of otherwise process-oriented practice ([Mueller & Dweck, 1998](https://doi.org/10.1037/0022-3514.75.1.33)) [+S]
 - Alignment with assessment practices; if grades reward only outcomes, process feedback rings hollow ([Assessment for Learning](../principles/assessment-for-learning.md))
 
 #### Constraints
 - Generic "effort praise" without strategy content is ineffective and can feel hollow to struggling learners; effort feedback must be coupled with strategy instruction [~M] — praising effort when the learner's approach is wrong reinforces unproductive persistence
-- Effects of standalone mindset interventions are small on average and shrink for already-advantaged or high-achieving students; benefits concentrate among lower-achieving and at-risk students [Yeager et al., 2019] [~S]
+- Effects of standalone mindset interventions are small on average and shrink for already-advantaged or high-achieving students; benefits concentrate among lower-achieving and at-risk students ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y)) [~S]
 - In competitive, grade-dominated environments, process feedback is easily overridden by outcome salience [-M]
 - Learners can perceive effort praise as low expectations ("praise for trying" signaling "you can't do better") [-W]
 
@@ -40,14 +40,14 @@ Feedback that addresses the task and the learning process produces stronger lear
 - Digital systems can deliver process-oriented hints and normalize errors at scale (e.g., ASSISTments' "wrong answers are useful data" messaging)
 
 ### Target Learners
-- Struggling and lower-achieving students benefit most; large-scale studies show mindset effects concentrated in this group [Yeager et al., 2019] [~S]
+- Struggling and lower-achieving students benefit most; large-scale studies show mindset effects concentrated in this group ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y)) [~S]
 - Learners low in academic confidence, for whom process feedback builds perceived competence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [+M]
 - Novices, who benefit from process and strategy focus over outcome focus [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [+M]
 
 ### Target Learning Goals
 - Motivational: persistence, resilience, willingness to attempt difficult tasks
 - Metacognitive: strategy awareness and self-monitoring ([Self-Regulated Learning](../theories/self-regulated-learning.md))
-- Long-term achievement gains, primarily via increased engagement with challenging work [Yeager et al., 2019] [~S]
+- Long-term achievement gains, primarily via increased engagement with challenging work ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y)) [~S]
 
 ### Instructions
 1. Audit existing feedback language; replace trait praise ("brilliant!") with strategy-and-process commentary tied to specific work [Feedback is most effective at task and process levels.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+S]

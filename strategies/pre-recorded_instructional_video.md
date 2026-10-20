@@ -93,7 +93,7 @@ Video is a delivery medium, not a pedagogy — its effectiveness depends entirel
 - **3Blue1Brown** — animated mathematical explanation videos illustrating how signaling and visual reasoning can be carried by video when paired with viewer exercises
 - **Coursera MOOCs** — segmented 5–10 minute videos with embedded in-video questions, based on engagement research on optimal video length
 - **[Flipped Classroom](../principles/flipped-learning.md) implementations** (e.g., chemistry courses using [ChemTube3D](https://www.chemtube3d.com/) or instructor-recorded pre-lecture videos) — students watch short expository videos before class; class time is spent on problem-solving.
-- **[Khan Academy](https://www.khanacademy.org)** — a library of short, informal, narrated demonstration videos; its low-production style aligns with engagement findings [Guo et al., 2014].
+- **[Khan Academy](https://www.khanacademy.org)** — a library of short, informal, narrated demonstration videos; its low-production style aligns with engagement findings ([Guo et al., 2014](https://doi.org/10.1145/2556325.2566239)).
 - **[3Blue1Brown](https://www.3blue1brown.com)** — math explainer videos where animation carries the conceptual load, illustrating purposeful (not decorative) visual design.
 - **LMS-hosted weekly video messages** (Canvas, Moodle) — low-effort instructor presence videos that sustain connection in online courses.
 

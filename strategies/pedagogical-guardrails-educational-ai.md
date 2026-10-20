@@ -29,7 +29,7 @@ The paper recommends that developers of educational AI treat the purpose of AI i
 - Collaboration with pedagogy and human-computer interaction experts
 - Interaction flows that embed self-explanation or reflection steps
 #### Constraints
-- The paper notes the cited guardrail evidence includes a study with limited sample size (Kosmyna et al., 2025) demonstrating AI use that directly deters the objective of education
+- The paper notes the cited guardrail evidence includes a study with limited sample size ([Kosmyna et al., 2025](https://doi.org/10.48550/arxiv.2506.08872)) demonstrating AI use that directly deters the objective of education
 
 ### Target Learners
 - students using AI learning tools

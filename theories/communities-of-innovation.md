@@ -16,7 +16,7 @@ generated:
 > **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
-West's (2014) Communities of Innovation (COI) framework identifies characteristics at three levels that predict a group's capacity for collaborative creativity, positioned as an evolution of Communities of Practice (Lave & Wenger, 1991; Wenger, 1998) specifically for groups whose purpose is producing innovative output.
+West's (2014) Communities of Innovation (COI) framework identifies characteristics at three levels that predict a group's capacity for collaborative creativity, positioned as an evolution of Communities of Practice ([Lave & Wenger, 1991](https://doi.org/10.1017/cbo9780511815355); [Wenger, 1998](https://doi.org/10.1017/cbo9780511803932)) specifically for groups whose purpose is producing innovative output.
 
 **Individual (but socially influenced) characteristics:**
 - **Hacker motivation** — Himanen's "hacker ethic": work motivated by intrinsic value to others (not primarily money), a playful and passionate approach, and open sharing of tools and information. Companies that grant employees time for self-directed, intrinsically motivating projects (e.g., Google's "20% time") have produced some of their most creative output this way.
@@ -54,7 +54,7 @@ West's (2014) Communities of Innovation (COI) framework identifies characteristi
 ### Theory
 #### Supporting
 - [Self-Determination Theory](../theories/self-determination-theory.md) [+M] — autonomy (over means), a core SDT need, is repeatedly identified as central to sustaining the intrinsic motivation that drives innovative work
-- Builds explicitly on Communities of Practice (Lave & Wenger, 1991; Wenger, 1998) as a specifically innovation-focused evolution of that framework
+- Builds explicitly on Communities of Practice ([Lave & Wenger, 1991](https://doi.org/10.1017/cbo9780511815355); [Wenger, 1998](https://doi.org/10.1017/cbo9780511803932)) as a specifically innovation-focused evolution of that framework
 
 ## Claims
 

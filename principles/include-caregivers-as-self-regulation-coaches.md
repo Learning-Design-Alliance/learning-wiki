@@ -100,7 +100,7 @@ These rows are proposals, untested with learners or adults. A probe (asking a yo
 **The brief's own guidance and closest-setting accounts.**
 
 - Murray & Rosanbalm (2017) is the source of the recommendation (Key Sources). Its claims recorded in this wiki are its summaries of research, coded `review` `q2` with no effect sizes: [interventions with high schoolers and young adults improve cognitive regulation](../claims/sr-interventions-improve-cognitive-regulation-young-adults.md) [+W] (the brief's summary of 60 studies), and the developmental and stress claims used in the situation table. None of them tests the adult component.
-- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](../claims/co-regulation-builds-warm-trusting-relationships.md) [+W]: facilitators' interviews and youth focus groups across nine sites of adolescent programmes (Tingey et al. 2023), consistently describing welcoming routines and praise as building relationships. Accounts, not outcome comparisons; the report states it does not address youth outcomes.
+- [Using co-regulation strategies helped facilitators and youth build warm, trusting relationships](../claims/co-regulation-builds-warm-trusting-relationships.md) [+W]: facilitators' interviews and youth focus groups across nine sites of adolescent programmes ([Tingey et al. 2023](https://www.acf.hhs.gov/opre)), consistently describing welcoming routines and praise as building relationships. Accounts, not outcome comparisons; the report states it does not address youth outcomes.
 
 **What limits or qualifies the model.**
 

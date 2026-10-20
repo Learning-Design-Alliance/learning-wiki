@@ -49,7 +49,7 @@ The **problem-centered** principle further restructures the typical topic-by-top
 
 ### Theory
 #### Supporting
-- Presented as a synthesis of convergent principles across many named instructional design theories and models (Merrill, 2002), rather than a wholly new theory
+- Presented as a synthesis of convergent principles across many named instructional design theories and models ([Merrill, 2002](https://doi.org/10.1007/bf02505024)), rather than a wholly new theory
 
 ## Claims
 

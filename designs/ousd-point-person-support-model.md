@@ -28,7 +28,7 @@ Oakland Unified School District's support model for open-access dual enrollment 
 #### Requirements
 - Investment in proactive outreach staffing, integrated academic support, navigation assistance, and instructor professional development
 #### Constraints
-- The model is described in a companion case study (Terrell et al., 2026b); this brief reports it as a single-district example without causal evaluation
+- The model is described in a companion case study ([Terrell et al., 2026b](https://eric.ed.gov/?id=ED681344)); this brief reports it as a single-district example without causal evaluation
 
 ### Target Learners
 - High school students across a wide range of academic backgrounds, including many from low-income and first-generation backgrounds

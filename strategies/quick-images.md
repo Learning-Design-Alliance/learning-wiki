@@ -19,7 +19,7 @@ Quick Images is a routine in which the teacher briefly displays a visual — mos
 
 ## Design Implications
 
-Quick Images exploits the perceptual system's capacity to apprehend small quantities instantly (subitizing) and to estimate larger ones approximately, converting perception into structured number talk [Barth et al., 2003]. The brief exposure functions as a working-memory constraint that is pedagogically useful: without time to count, learners must chunk the display into groups, which is precisely the part-whole structure the routine targets [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. The follow-up discussion — "How did you see it?" — is where most of the learning occurs, as learners articulate and compare multiple decompositions of the same quantity.
+Quick Images exploits the perceptual system's capacity to apprehend small quantities instantly (subitizing) and to estimate larger ones approximately, converting perception into structured number talk ([Barth et al., 2003](https://doi.org/10.1016/s0010-0277(02)00178-6)). The brief exposure functions as a working-memory constraint that is pedagogically useful: without time to count, learners must chunk the display into groups, which is precisely the part-whole structure the routine targets [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+S]. The follow-up discussion — "How did you see it?" — is where most of the learning occurs, as learners articulate and compare multiple decompositions of the same quantity.
 
 ### Context
 #### Requirements

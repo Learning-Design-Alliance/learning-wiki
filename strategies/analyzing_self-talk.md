@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (2 for) · 4 studies (3 review, 1 theoretical), `q2`–`q3` · 0 of 4 report an effect size
 
 ## Description
-Analyzing self-talk is a metacognitive strategy in which learners systematically capture their inner dialogue — often through journaling, thought logs, or prompted reflection — and then examine it for recurring patterns, triggers, and underlying beliefs. The goal is not immediate reframing but accurate self-observation: noticing *what* one says to oneself, *when*, and *in response to what*, so that automatic thoughts become inspectable objects of reflection. It draws on the metacognitive tradition of monitoring one's own cognition [Flavell, 1979] and on self-regulated learning models in which self-monitoring is the first phase of self-control [Zimmerman, 2002].
+Analyzing self-talk is a metacognitive strategy in which learners systematically capture their inner dialogue — often through journaling, thought logs, or prompted reflection — and then examine it for recurring patterns, triggers, and underlying beliefs. The goal is not immediate reframing but accurate self-observation: noticing *what* one says to oneself, *when*, and *in response to what*, so that automatic thoughts become inspectable objects of reflection. It draws on the metacognitive tradition of monitoring one's own cognition ([Flavell, 1979](https://doi.org/10.1037/0003-066x.34.10.906)) and on self-regulated learning models in which self-monitoring is the first phase of self-control ([Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2)).
 
 ## Design Implications
 
@@ -38,7 +38,7 @@ Self-talk analysis converts private, automatic cognition into data that learners
 - **Thought logs**: structured templates with columns for situation, thought, and feeling, completed after study sessions or assessments
 - **Triggered capture**: brief check-ins at fixed points (before exams, after feedback) rather than continuous logging
 - **Comparative analysis**: learners compare self-talk across domains (e.g., math vs. writing) to identify domain-specific beliefs
-- **Instructional self-talk analysis**: in physical education and skill domains, learners distinguish instructional self-talk ("bend your knees") from motivational self-talk ("I've got this") and evaluate which serves the task [Hatzigeorgiadis et al., 2011]
+- **Instructional self-talk analysis**: in physical education and skill domains, learners distinguish instructional self-talk ("bend your knees") from motivational self-talk ("I've got this") and evaluate which serves the task ([Hatzigeorgiadis et al., 2011](https://doi.org/10.1177/1745691611413136))
 
 ### Target Learners
 - Adolescents and adults who have internalized private speech and can report inner dialogue reliably

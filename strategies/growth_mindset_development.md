@@ -67,7 +67,7 @@ Growth mindset interventions produce small but reliable gains in achievement for
 - [School-based interventions promoting growth math mindset and academic grit](school-based-growth-mindset-grit-interventions.md)
 
 ## Examples
-- **[PERTS / Mindset Works](https://www.mindsetworks.com)** — The Brainology curriculum teaches neuroplasticity through interactive modules; the National Study of Learning Mindsets (Yeager et al., 2019) delivered two 25-minute online sessions to ~12,000 ninth-graders and raised GPA among lower-achieving students.
+- **[PERTS / Mindset Works](https://www.mindsetworks.com)** — The Brainology curriculum teaches neuroplasticity through interactive modules; the National Study of Learning Mindsets ([Yeager et al., 2019](https://doi.org/10.1038/s41586-019-1466-y)) delivered two 25-minute online sessions to ~12,000 ninth-graders and raised GPA among lower-achieving students.
 - **"The Power of Yet" framing** — Replacing failing grades with "Not Yet" status so learners see current performance as a point on a trajectory, not a terminal judgment.
 - **Error-analysis journals in mathematics** — Learners document a mistake, identify the faulty strategy, and record the corrected approach, operationalizing "mistakes are information."
 

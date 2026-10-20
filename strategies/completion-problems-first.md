@@ -47,7 +47,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - **Forward fading:** remove early steps first, forcing learners to plan before executing
 - **Completion within worked-example pairs:** alternate example study with an isomorphic completion problem (example–problem pairs)
 - **Programmatic fading:** in adaptive systems such as [ASSISTments](https://www.assistments.org) or [Squirrel AI](https://www.squirrelai.com), the number of given steps adjusts to learner performance
-- **Forward fading**: start with a full worked example, then completion problems with decreasing support, then full problems — the classic sequence [Renkl & Atkinson, 2003]
+- **Forward fading**: start with a full worked example, then completion problems with decreasing support, then full problems — the classic sequence ([Renkl & Atkinson, 2003](https://doi.org/10.1207/s15326985ep3801_3))
 - **Backward fading**: begin with completion problems where only the final step is missing, then fade earlier steps in; some evidence suggests fading later steps first benefits learners with weaker prior knowledge [~M]
 - **Alternation**: interleave worked examples and isomorphic problems one-to-one rather than using completion problems as the intermediate form
 - **Error-based variants**: the given portion contains a deliberate error the learner must find and fix [Erroneous examples can build conceptual knowledge by prompting learners to explain and correct flawed solutions.](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W]

@@ -19,7 +19,7 @@ Interactive video quizzing embeds questions — multiple choice, short answer, o
 
 ## Design Implications
 
-Embedded questions work primarily as retrieval practice: answering a question about just-covered content strengthens memory far more than re-watching or note-taking alone [Rowland, 2014] [+S]. They also counteract the attention decay typical of lecture videos — learners' mind-wandering drops sharply after an interpolated test, and subsequent video segments are processed more attentively [Szpunar et al., 2013] [+S]. Question placement and cognitive demand matter: low-level recall questions inserted mid-video can fragment viewing and add extraneous load if overused [~M].
+Embedded questions work primarily as retrieval practice: answering a question about just-covered content strengthens memory far more than re-watching or note-taking alone ([Rowland, 2014](https://doi.org/10.1037/a0037559)) [+S]. They also counteract the attention decay typical of lecture videos — learners' mind-wandering drops sharply after an interpolated test, and subsequent video segments are processed more attentively [Szpunar et al., 2013] [+S]. Question placement and cognitive demand matter: low-level recall questions inserted mid-video can fragment viewing and add extraneous load if overused [~M].
 
 ### Context
 #### Requirements

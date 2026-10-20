@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (3 for) · 8 studies (3 quant-synthesis, 3 review, 2 theoretical), `q1`–`q4` · 3 of 8 report an effect size
 
 ## Description
-This strategy directs project-based learning toward authentic problems of racial, social, and environmental justice so that students investigate and act on issues with real stakes for their communities. Rather than treating PBL as a format applied to any content, the strategy makes the *purpose* of the project — confronting injustice — the engine of relevance, engagement, and agency. It draws on culturally relevant pedagogy and critical literacy traditions, in which academic learning is coupled with developing students' capacity to identify and challenge inequity [Ladson-Billings, 1995] [+M].
+This strategy directs project-based learning toward authentic problems of racial, social, and environmental justice so that students investigate and act on issues with real stakes for their communities. Rather than treating PBL as a format applied to any content, the strategy makes the *purpose* of the project — confronting injustice — the engine of relevance, engagement, and agency. It draws on culturally relevant pedagogy and critical literacy traditions, in which academic learning is coupled with developing students' capacity to identify and challenge inequity ([Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465)) [+M].
 
 ## Design Implications
 
@@ -41,7 +41,7 @@ Anchoring projects in justice issues raises the authenticity and personal stakes
 - **Depth of partnership:** from guest speakers to sustained [Community-Based Learning](../principles/community-based-learning.md) partnerships with local organizations
 
 ### Target Learners
-- Students from marginalized communities, for whom seeing their communities' concerns treated as worthy academic content signals belonging and value [Ladson-Billings, 1995] [+M]
+- Students from marginalized communities, for whom seeing their communities' concerns treated as worthy academic content signals belonging and value ([Ladson-Billings, 1995](https://doi.org/10.3102/00028312032003465)) [+M]
 - Disengaged adolescents who respond to work with authentic stakes over simulated exercises [~M]
 - All learners benefit, but teachers must scaffold perspective-taking for students whose identities or backgrounds differ from those most affected by the issue
 

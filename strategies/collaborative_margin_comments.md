@@ -67,7 +67,7 @@ Margin comments localize feedback at the point of need, which reduces the transl
 - **Google Docs** (https://docs.google.com) — instructors and peers comment in margins; suggestion mode tracks proposed edits that writers accept or reject individually.
 - **Hypothesis** (https://web.hypothes.is) — social annotation layer used in many university courses for collaborative margin discussion of assigned readings.
 - **Perusall** (https://www.perusall.com) — platform that scores annotation quality and uses margin comments as the primary reading-discussion mechanism.
-- **SWoRD Peer Review** (Cho & Schunn, 2007) — web-based reciprocal peer review system in which scaffolded, location-anchored comments improved writing quality across large undergraduate classes.
+- **SWoRD Peer Review** ([Cho & Schunn, 2007](https://doi.org/10.1016/j.compedu.2005.02.004)) — web-based reciprocal peer review system in which scaffolded, location-anchored comments improved writing quality across large undergraduate classes.
 
 ## Key Sources
 - Cho, K., & Schunn, C. D. (2007). Scaffolded writing and rewriting in the discipline: A web-based reciprocal peer review system. *Computers & Education, 48*(3), 409–426. [doi:10.1016/j.compedu.2005.02.004](https://doi.org/10.1016/j.compedu.2005.02.004)

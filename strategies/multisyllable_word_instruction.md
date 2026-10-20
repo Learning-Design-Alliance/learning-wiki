@@ -42,7 +42,7 @@ Multisyllable word instruction reduces the working-memory burden of decoding lon
 
 ### Target Learners
 - Students in grade 3 and beyond who decode single-syllable words but stall on longer words — the typical "fourth-grade slump" population
-- Older struggling readers and adolescents with decoding gaps; syllable-based instruction produced gains in word identification for struggling middle-school readers in experimental work (Bhattacharya & Ehri, 2004) [+M]
+- Older struggling readers and adolescents with decoding gaps; syllable-based instruction produced gains in word identification for struggling middle-school readers in experimental work ([Bhattacharya & Ehri, 2004](https://doi.org/10.1177/00222194040370040501)) [+M]
 - Adults in literacy programs, for whom syllable and affix instruction offers an efficient, non-infantilizing route to longer words
 - Less appropriate for beginners still acquiring basic letter-sound correspondences [-M]
 

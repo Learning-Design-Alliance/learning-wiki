@@ -133,7 +133,7 @@ KWL charts function as a lightweight [Advance Organizers](../elements/advance-or
 - **Elementary science unit on weather**: Students list known weather facts (K), ask "why do tornadoes happen?" (W), and after the unit revise their K list, crossing out misconceptions — making conceptual change visible.
 - **[Reading Rockets](https://www.readingrockets.org/topics/vocabulary/articles/using-kwl-approach-learning)** — publishes classroom-tested KWL procedures and printable templates for literacy instruction.
 - **Adult ESL / EFL reading courses**: KWL is widely used to frame expository texts; the W column sets a purpose for reading, and the L column doubles as a summary-writing scaffold.
-- **Ogle's original DRTA-derived routine** (Ogle, 1986): fifth-grade students completed group KWL charts before reading expository passages, with the teacher modeling how to generate W questions from the topic.
+- **Ogle's original DRTA-derived routine** ([Ogle, 1986](https://doi.org/10.1598/rt.39.6.11)): fifth-grade students completed group KWL charts before reading expository passages, with the teacher modeling how to generate W questions from the topic.
 - **Science unit launches (KLEW variant)**: teachers using the KLEW chart (e.g., in elementary science methods texts based on Hapgood & Magnusson, 2007) have students tie each "Learning" entry to specific evidence from investigations, connecting the chart to scientific practices.
 - **Content-area literacy programs**: widely used in reading workshop models and district literacy frameworks (e.g., Reading Rockets' KWL templates, https://www.readingrockets.org) as a standard pre-reading organizer for informational text.
 

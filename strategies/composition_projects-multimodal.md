@@ -29,7 +29,7 @@ Multimodal composition leverages the productive overlap of verbal and visual rep
 - Time and scaffolding for drafting and revision across modes, with [Assessment](../elements/assessment.md) criteria that evaluate rhetorical choices, not technical polish
 - Tool instruction delivered just-in-time so software learning does not crowd out content learning
 - Access to creation tools (audio recorders, video editors, web authoring platforms) and time to learn them
-- Explicit instruction in design principles — coherence, signaling, redundancy, spatial contiguity — so learners can justify mode choices [Clark & Mayer, 2016]
+- Explicit instruction in design principles — coherence, signaling, redundancy, spatial contiguity — so learners can justify mode choices ([Clark & Mayer, 2016](https://doi.org/10.1002/9781119239086))
 - Structured critique and revision cycles with [Feedback](../elements/provide-feedback.md) on both content and design decisions
 - Access to computers, multimedia software, and internet connectivity; training in composition techniques for each mode
 - Explicit design criteria so learners understand that mode choice is assessed, not decorative

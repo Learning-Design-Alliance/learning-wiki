@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (2 mixed) · 4 studies (1 causal, 1 quant-synthesis, 1 review, 1 theoretical), `q1`–`q3` · 1 of 4 report an effect size
 
 ## Description
-The reading writing connection treats reading and writing as mutually reinforcing acts of composing and comprehending meaning rather than separate subjects. In practice, learners read mentor texts to study how authors achieve effects, then write in those genres; or they write about what they read (summarizing, analyzing, responding) to deepen comprehension. The strategy rests on shared knowledge theory: both activities draw on common knowledge of text structure, vocabulary, syntax, and rhetorical purpose [Fitzgerald & Shanahan, 2000] [+M].
+The reading writing connection treats reading and writing as mutually reinforcing acts of composing and comprehending meaning rather than separate subjects. In practice, learners read mentor texts to study how authors achieve effects, then write in those genres; or they write about what they read (summarizing, analyzing, responding) to deepen comprehension. The strategy rests on shared knowledge theory: both activities draw on common knowledge of text structure, vocabulary, syntax, and rhetorical purpose ([Fitzgerald & Shanahan, 2000](https://doi.org/10.1207/s15326985ep3501_5)) [+M].
 
 ## Design Implications
 
@@ -32,7 +32,7 @@ Reading and writing instruction produce stronger outcomes when integrated than w
 - Writing about text does not improve comprehension when the writing task is copying or answering low-level recall questions; the effect depends on generative writing such as summarizing and responding [Graham & Hebert, 2010] [~S]
 - Weak decoding or transcription skills consume working memory, leaving few resources for the higher-level connection between reading and composing [Automatic word recognition frees resources for comprehension.](../claims/automatic-word-recognition-frees-resources-for-comprehension.md) [~M]
 - Studying mentor texts without drafting produces shallow gains; the connection requires production, not just analysis [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [~M]
-- Genre mismatch (reading narrative, writing exposition) weakens transfer; shared-structure benefits are strongest within the same genre [Fitzgerald & Shanahan, 2000] [~M]
+- Genre mismatch (reading narrative, writing exposition) weakens transfer; shared-structure benefits are strongest within the same genre ([Fitzgerald & Shanahan, 2000](https://doi.org/10.1207/s15326985ep3501_5)) [~M]
 
 #### Implementation Variability
 - **Writing to read**: summaries, response journals, note-taking, and analytic writing about assigned reading
@@ -47,7 +47,7 @@ Reading and writing instruction produce stronger outcomes when integrated than w
 
 ### Target Learning Goals
 - Reading comprehension: deepening understanding of read material through written response [Graham & Hebert, 2010] [+S]
-- Writing quality: improving text structure, genre knowledge, and craft through mentor-text study [Graham & Perin, 2007] [+S]
+- Writing quality: improving text structure, genre knowledge, and craft through mentor-text study ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) [+S]
 - Metatextual awareness: understanding how texts are constructed for readers
 
 ### Instructions
@@ -63,7 +63,7 @@ Reading and writing instruction produce stronger outcomes when integrated than w
 - [Annotating](../principles/annotating.md) — the bridge activity connecting analytic reading to composing
 
 ## Examples
-- **[Writing Next](https://www.carnegie.org/media/filer_public/9d/e2/9de20604-a055-42da-bc00-77ab79e88e54/cc_writing_next_2007.pdf)** (Graham & Perin, 2007) — meta-analysis of adolescent writing instruction whose recommendations (strategy instruction, summarization, collaborative writing) operationalize the reading–writing connection.
+- **[Writing Next](https://www.carnegie.org/media/filer_public/9d/e2/9de20604-a055-42da-bc00-77ab79e88e54/cc_writing_next_2007.pdf)** ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) — meta-analysis of adolescent writing instruction whose recommendations (strategy instruction, summarization, collaborative writing) operationalize the reading–writing connection.
 - **Reading & Writing Project workshop model** — units of study in which students read stacks of mentor texts in a genre, chart the authors' techniques, then draft and revise their own pieces in that genre.
 - **Writing-about-reading journals** — students write weekly analytic responses to independent reading, a format shown to improve comprehension more than answering questions [Graham & Hebert, 2010] [+M].
 

@@ -19,7 +19,7 @@ A timed writing sprint is a bounded composing session — typically 5 to 25 minu
 
 ## Design Implications
 
-Sprints work by reducing the working-memory load of composing: planning, translating, and reviewing compete for the same attentional resources, and deferring review frees capacity for translation of ideas into text [Attentional overload during writing degrades fluency and quality.](../claims/cognitive-overload-degrades-learning.md) [+M]. Kellogg's experiments showed that writers forced to attend to drafting and revising simultaneously produced worse text than those who separated the phases [Kellogg, 1988] [+M]. The time pressure also suppresses premature evaluation, which is the main bottleneck for reluctant or perfectionist writers, and the visible countdown chunks a large task into an achievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because sprints are self-paced in frequency and topic, they can support learner ownership of writing volume [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
+Sprints work by reducing the working-memory load of composing: planning, translating, and reviewing compete for the same attentional resources, and deferring review frees capacity for translation of ideas into text [Attentional overload during writing degrades fluency and quality.](../claims/cognitive-overload-degrades-learning.md) [+M]. Kellogg's experiments showed that writers forced to attend to drafting and revising simultaneously produced worse text than those who separated the phases ([Kellogg, 1988](https://doi.org/10.1037/0278-7393.14.2.355)) [+M]. The time pressure also suppresses premature evaluation, which is the main bottleneck for reluctant or perfectionist writers, and the visible countdown chunks a large task into an achievable unit [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Because sprints are self-paced in frequency and topic, they can support learner ownership of writing volume [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+M].
 
 ### Context
 #### Requirements
@@ -43,7 +43,7 @@ Sprints work by reducing the working-memory load of composing: planning, transla
 
 ### Target Learners
 - Reluctant or blocked writers whose premature self-editing stalls production [+M]
-- Advanced writers drafting long projects who need to separate generation from revision [Kellogg, 1988] [+M]
+- Advanced writers drafting long projects who need to separate generation from revision ([Kellogg, 1988](https://doi.org/10.1037/0278-7393.14.2.355)) [+M]
 - Less suitable for novice writers still automating transcription and mechanics, for whom the timer adds load rather than removing it [~M]
 
 ### Target Learning Goals

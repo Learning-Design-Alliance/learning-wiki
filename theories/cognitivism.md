@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 4 claims (3 for, 1 mixed) · 4 studies (2 review, 1 associational, 1 design), `q1`–`q2` · 1 of 4 report an effect size · 4 claims rest on one study
 
 ## Description
-Cognitivism emerged in the late 1950s as a reaction against behaviorism's refusal to look inside the "black box" of the mind. Rather than treating learning as a change in observable stimulus-response associations, cognitivists treat it as a change in internal mental structures — the way information is received, organized, stored, and retrieved. Learning is equated with discrete changes between states of knowledge, not with changes in the probability of a response, and the learner is viewed as an active participant who attends to, codes, transforms, rehearses, and stores information rather than merely reacting to it (Ertmer & Newby, 2013).
+Cognitivism emerged in the late 1950s as a reaction against behaviorism's refusal to look inside the "black box" of the mind. Rather than treating learning as a change in observable stimulus-response associations, cognitivists treat it as a change in internal mental structures — the way information is received, organized, stored, and retrieved. Learning is equated with discrete changes between states of knowledge, not with changes in the probability of a response, and the learner is viewed as an active participant who attends to, codes, transforms, rehearses, and stores information rather than merely reacting to it ([Ertmer & Newby, 2013](https://doi.org/10.1002/piq.21143)).
 
 Cognitivism shares with behaviorism an interest in environmental conditions (explanations, demonstrations, examples, practice with feedback), but interprets their role differently: a behaviorist arranges the environment to shape observable responses, while a cognitivist arranges it to support internal mental processing. Memory is central — learning succeeds when information is stored in an organized, meaningful way, and forgetting is explained as a retrieval failure (interference, decay, or missing retrieval cues) rather than the "nonuse" of a habit.
 
@@ -40,7 +40,7 @@ Cognitivism is the broader theoretical paradigm; [Information Processing Theory]
 
 ### Theory
 #### Supporting
-- Grew directly out of dissatisfaction with behaviorism's inability to explain higher-level skills (language development, problem solving, inference, critical thinking) (Ertmer & Newby, 2013)
+- Grew directly out of dissatisfaction with behaviorism's inability to explain higher-level skills (language development, problem solving, inference, critical thinking) ([Ertmer & Newby, 2013](https://doi.org/10.1002/piq.21143))
 #### Contradicting / Qualifying
 - [Constructivism](constructivism.md) rejects cognitivism's assumption that knowledge is mind-independent and can be "mapped" onto a learner, arguing instead that learners construct their own meaning from experience
 

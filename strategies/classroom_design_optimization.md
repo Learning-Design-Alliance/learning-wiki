@@ -60,7 +60,7 @@ Physical conditions function as a baseline [Cognitive Load Management](../princi
 - [Chunking](../principles/chunking.md) — both strategies manage working memory load, one through content design, one through environment design
 
 ## Examples
-- **The HEAD Study (Barrett et al., 2015)** — studied 153 classrooms in 27 UK schools and found that naturalness factors (light, temperature, air quality) accounted for the largest share of explained variation in pupil progress over a year.
+- **The HEAD Study ([Barrett et al., 2015](https://doi.org/10.1016/j.buildenv.2015.02.013))** — studied 153 classrooms in 27 UK schools and found that naturalness factors (light, temperature, air quality) accounted for the largest share of explained variation in pupil progress over a year.
 - **UK BB93 acoustic standards** — Building Bulletin 93 specifies maximum background noise and reverberation times for school classrooms, driving acoustic treatment in new UK school construction.
 - **Open-plan school remediation** — districts retrofitting open-plan 1970s schools with full-height partitions and acoustic ceilings after documented speech-intelligibility and attainment problems.
 

@@ -56,7 +56,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 ### Target Learners
 - Learners who ask "when will I ever use this?" — relevance framing can increase engagement and persistence [~W]
 - Intermediate learners who have basic procedures but need help connecting them to situations; complete novices may be overloaded by simultaneous context and content demands [~M]
-- Learners from communities whose everyday mathematical practices can be leveraged as prior knowledge — street vendors' arithmetic outperformed their school math in classic studies, showing untapped contextual competence (Carraher et al., 1985) [+M]
+- Learners from communities whose everyday mathematical practices can be leveraged as prior knowledge — street vendors' arithmetic outperformed their school math in classic studies, showing untapped contextual competence ([Carraher et al., 1985](https://doi.org/10.1111/j.2044-835x.1985.tb00951.x)) [+M]
 - Students who experience school mathematics as meaningless symbol manipulation and disengage [+M]
 - Learners with strong informal or everyday quantitative reasoning whose knowledge is not being leveraged by traditional instruction [Informal contextual mathematics can be far stronger than school performance suggests.](https://doi.org/10.1111/j.2044-835X.1985.tb00981.x) [+S]
 - Younger learners, who depend more on concrete referents for abstract concepts [~M]
@@ -93,7 +93,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - **[The Math Forum / NCTM Illuminations](https://www.nctm.org/classroom-resources/illuminations/)** — published lessons anchoring standards-aligned mathematics in authentic scenarios (design, finance, data).
 - **[Financial literacy curricula](https://www.cfee.org/)** (e.g., CFEE in Canada) — budgeting, interest, and taxation tasks that apply percent, ratio, and function concepts.
 - **Boaler's Railside study classrooms** — algebra taught through real-world data and design projects; students showed stronger conceptual understanding and more equitable participation than textbook-based comparison groups (Boaler, 1997).
-- **Brazilian street-vendor arithmetic** — children computing prices fluently in market transactions while failing the same operations on school tests, motivating context-connected instruction (Carraher et al., 1985).
+- **Brazilian street-vendor arithmetic** — children computing prices fluently in market transactions while failing the same operations on school tests, motivating context-connected instruction ([Carraher et al., 1985](https://doi.org/10.1111/j.2044-835x.1985.tb00951.x)).
 - **Realistic Mathematics Education (Freudenthal Institute, Netherlands)** — a full curriculum approach in which formal mathematics is progressively reinvented from contextual problems (e.g., the "double number line" emerging from measurement contexts). [https://www.fi.uu.nl/en/rme/](https://www.fi.uu.nl/en/rme/)
 - **Financial literacy units** — computing compound interest on real savings scenarios, comparing loan offers, and budgeting, connecting exponential functions to money decisions.
 - **Data-rich projects (e.g., [Desmos](https://www.desmos.com) classroom activities)** — students fit functions to real data (temperature, population, motion), making the abstract model answer a genuine question.

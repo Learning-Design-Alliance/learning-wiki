@@ -19,7 +19,7 @@ sources:
 > **Evidence** · 2 claims (2 for) · 1 study (1 design), `q1` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
-The report organizes the entire assessment around the Simple View of Reading (Gough & Tunmer, 1986), which it calls "a research-validated model of reading development that proposes two broad factors that enable or limit passage comprehension: decoding and language comprehension." Decoding is measured through Phonological Awareness and Phonics & Word Recognition domains; language comprehension through Picture Vocabulary and Listening Comprehension; oral reading fluency integrates both. The framework determines which measures are administered to students not yet ready to read passages.
+The report organizes the entire assessment around the Simple View of Reading ([Gough & Tunmer, 1986](https://doi.org/10.1177/074193258600700104)), which it calls "a research-validated model of reading development that proposes two broad factors that enable or limit passage comprehension: decoding and language comprehension." Decoding is measured through Phonological Awareness and Phonics & Word Recognition domains; language comprehension through Picture Vocabulary and Listening Comprehension; oral reading fluency integrates both. The framework determines which measures are administered to students not yet ready to read passages.
 
 ## Design Implications
 

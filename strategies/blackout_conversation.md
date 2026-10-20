@@ -72,7 +72,7 @@ Blackout Conversation combines constrained text-marking with perspective-taking:
 - Printed excerpts from dialogue-heavy texts such as Sharon Draper's *Tears of a Tiger*
 
 ## Examples
-- Using the dialogue-form chapters of Sharon Draper's *Tears of a Tiger* (Simon & Schuster, 1994): students black out a conversation between Andy and a friend, revealing what each character is actually asking for beneath the banter.
+- Using the dialogue-form chapters of Sharon Draper's *Tears of a Tiger* ([Simon & Schuster, 1994](https://doi.org/10.5951/jresematheduc.25.5.0472)): students black out a conversation between Andy and a friend, revealing what each character is actually asking for beneath the banter.
 - Drama classes blacking out a scene from a play script, then performing the reduced "poem" version to compare against the full scene.
 
 ## Key Sources

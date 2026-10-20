@@ -71,7 +71,7 @@ CRA manages intrinsic cognitive load by giving abstract notation a referent lear
 - **Partial CRA** — starting at the representational phase when learners already have concrete experience with the concept
 - **Virtual manipulatives** — digital versions (e.g., Brainingcamp, Didax) that can scaffold the concrete phase at scale
 - **Simultaneous linking** — showing concrete, pictorial, and symbolic forms side by side rather than in strict sequence, useful when time is limited
-- **Concreteness fading**: start concrete and fade to abstract within a single lesson sequence (Fyfe et al., 2014)
+- **Concreteness fading**: start concrete and fade to abstract within a single lesson sequence ([Fyfe et al., 2014](https://doi.org/10.1007/s10648-014-9249-3))
 - **Simultaneous linking**: show concrete, pictorial, and symbolic forms side by side rather than strictly sequentially
 - **Virtual manipulatives**: digital versions (e.g., Brainingcamp, Didax virtual manipulatives) trade tactile experience for scalability and clean fading
 - **CRA with explicit instruction**: common in special education, pairing the sequence with scripted teacher demonstration and student verbalization

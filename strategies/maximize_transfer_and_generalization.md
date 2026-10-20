@@ -38,7 +38,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - Far transfer to dissimilar domains frequently fails even after successful near-transfer instruction; promising broad "thinking skills" gains from a single course is not supported [Detterman's review found little evidence of far transfer in most studies.](https://doi.org/10.4324/9781315805893) [-M]
 - High-similarity practice can create overconfidence: learners perform well on near variants and collapse on far ones, so assessment must sample the transfer range, not just near variants [~M]
 - Adding varied contexts increases cognitive load for novices; sequencing from example comparison to independent novel application is needed rather than jumping straight to far problems [~M]
-- Knowledge learned in a single context with a single example tends to remain bound to that context; learners often fail to notice that a new problem is structurally identical to one they have solved [Gick & Holyoak, 1983] [-S]
+- Knowledge learned in a single context with a single example tends to remain bound to that context; learners often fail to notice that a new problem is structurally identical to one they have solved ([Gick & Holyoak, 1983](https://doi.org/10.1016/0010-0285(83)90002-6)) [-S]
 - Far transfer to dissimilar domains rarely occurs spontaneously and cannot be assumed from strong within-domain performance [Detterman, 1993] [-S]
 - High surface similarity between learning and transfer tasks can produce apparent transfer that collapses when surface features change [~M]
 - Excessive variability in early practice can overload novices; variability is best introduced after initial schema formation [~M]
@@ -51,7 +51,7 @@ Transfer depends on learners encoding knowledge in a form that is decontextualiz
 - **Near-transfer design:** vary surface features while holding structure constant (e.g., isomorphic problems across contexts)
 - **Far-transfer design:** use [Case Studies](../elements/case-studies.md) and [Anchored Instruction](../elements/anchored-instruction.md) embedding the target skill in authentic, ill-structured scenarios
 - **Metacognitive route:** teach learners to search for analogies and ask "where else does this apply?" — transfer-appropriate monitoring
-- **Hugging and bridging:** "hugging" keeps practice close to the target application; "bridging" explicitly connects learning to distant contexts [Salomon & Perkins, 1989]
+- **Hugging and bridging:** "hugging" keeps practice close to the target application; "bridging" explicitly connects learning to distant contexts ([Salomon & Perkins, 1989](https://doi.org/10.1207/s15326985ep2402_1))
 
 ### Target Learners
 - Learners who already have a baseline schema in the target domain — transfer tasks presuppose something to transfer; complete novices need initial structured instruction first [~M]

@@ -19,7 +19,7 @@ A shoeless learning space asks learners to remove outdoor shoes at the entrance,
 
 ## Design Implications
 
-The rationale is environmental and affective rather than instructional: physical comfort and a sense of belonging may lower anxiety and free attention for learning, and the physical environment is a documented contributor to academic progress [~S] (Barrett et al., 2013). However, the specific effect of shoelessness is weakly evidenced — most support comes from practitioner reports and small case studies rather than controlled experiments [~W]. Shoe removal should therefore be treated as one component of a coherent comfort-and-ownership design, not a standalone intervention.
+The rationale is environmental and affective rather than instructional: physical comfort and a sense of belonging may lower anxiety and free attention for learning, and the physical environment is a documented contributor to academic progress [~S] ([Barrett et al., 2013](https://doi.org/10.1016/j.buildenv.2012.09.016)). However, the specific effect of shoelessness is weakly evidenced — most support comes from practitioner reports and small case studies rather than controlled experiments [~W]. Shoe removal should therefore be treated as one component of a coherent comfort-and-ownership design, not a standalone intervention.
 
 ### Context
 #### Requirements

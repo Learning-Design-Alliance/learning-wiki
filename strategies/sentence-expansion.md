@@ -36,7 +36,7 @@ Sentence expansion isolates sentence-level syntax as the unit of practice, reduc
 
 #### Implementation Variability
 - **Question-prompt expansion**: learners answer who/what/when/where/why/how prompts to grow the sentence
-- **Sentence combining**: learners merge two or more short sentences into one, practicing embedding and coordination (Saddler & Graham, 2005)
+- **Sentence combining**: learners merge two or more short sentences into one, practicing embedding and coordination ([Saddler & Graham, 2005](https://doi.org/10.1037/0022-0663.97.1.43))
 - **Because/But/So frames**: learners complete sentence stems with each conjunction, forcing distinct logical relationships with the same content
 - **Appositive and subordinator insertion**: more advanced variants targeting specific grammatical moves
 - **Oral-first expansion**: learners expand sentences aloud before writing, useful for emerging writers

@@ -35,7 +35,7 @@ Gratitude journaling is one of the most consistently validated positive-psycholo
 - Younger children need concrete scaffolding (sentence stems, drawing options) or the writing task itself dominates the experience
 
 #### Implementation Variability
-- **Three good things** (Seligman et al., 2005): write three things that went well and why
+- **Three good things** ([Seligman et al., 2005](https://doi.org/10.1037/0003-066x.60.5.410)): write three things that went well and why
 - **Gratitude letter/visit**: a one-off deep elaboration addressed to a person, read aloud to them
 - **Counting kindnesses / gratitude toward teachers**: relational variants that strengthen classroom climate
 - **Multimedia variants**: photo-based or audio journals for learners with writing difficulties

@@ -64,7 +64,7 @@ CSI works because strategies reduce the working-memory and search burden of comp
 - [Self-regulated learning](../theories/self-regulated-learning.md) — CSI is the cognitive half; SRL adds motivational and monitoring components
 
 ## Examples
-- **[Reciprocal Teaching](reciprocal_teaching.md)** (Palincsar & Brown, 1984) — small reading groups rotate the roles of predictor, questioner, clarifier, and summarizer; the teacher models each role first, then fades. Produced 30+ percentile-point comprehension gains with seventh graders.
+- **[Reciprocal Teaching](reciprocal_teaching.md)** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)) — small reading groups rotate the roles of predictor, questioner, clarifier, and summarizer; the teacher models each role first, then fades. Produced 30+ percentile-point comprehension gains with seventh graders.
 - **SRSD for writing** (Graham & Harris) — students learn genre-specific planning strategies (e.g., POW + TREE for opinion essays) alongside goal-setting and self-instruction; widely validated for students with writing difficulties.
 - **Cognitively Guided Instruction** ([CGI for math](../principles/responsive-teaching.md)) — teachers elicit and formalize children's informal problem-solving strategies, then build instruction around them.
 

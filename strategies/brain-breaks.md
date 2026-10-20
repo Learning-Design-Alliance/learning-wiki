@@ -84,7 +84,7 @@ Sustained attention degrades over continuous instructional periods, and physical
 
 ## Examples
 - **[GoNoodle](https://www.gonoodle.com)** — short movement and mindfulness videos designed for classroom brain breaks in elementary settings.
-- **TAKE 10!** — a classroom program embedding 10-minute activity bursts tied to academic content across the school day (Mahar, 2011).
+- **TAKE 10!** — a classroom program embedding 10-minute activity bursts tied to academic content across the school day ([Mahar, 2011](https://doi.org/10.1016/j.ypmed.2011.01.026)).
 - **Pomodoro-style adult training** — workshop facilitators scheduling 5-minute stand-and-stretch breaks every 25 minutes during multi-hour professional development.
 - **GoNoodle** (https://www.gonoodle.com) — short movement and mindfulness videos designed for classroom brain breaks in elementary settings.
 - **The Junk Bag** — learners pull out a random object and invent two alternative uses, exercising divergent thinking during a pause from content.

@@ -35,7 +35,7 @@ Concrete examples reduce the working-memory and knowledge demands of abstraction
 #### Constraints
 - Overly rich, seductive details in an example can divert attention from the target concept and depress learning [Cognitive overload degrades learning.](../claims/cognitive-overload-degrades-learning.md) [-M] — concreteness helps only when surface features support, not compete with, the abstraction
 - A single example encourages overgeneralization of its incidental features; learners may treat the example's specifics as part of the rule
-- Concrete materials can impede expert-like abstract reasoning in some domains; purely concrete instantiations sometimes produce *worse* transfer than abstract representations [~M] (Kaminski et al., 2008)
+- Concrete materials can impede expert-like abstract reasoning in some domains; purely concrete instantiations sometimes produce *worse* transfer than abstract representations [~M] ([Kaminski et al., 2008](https://doi.org/10.1126/science.1154659))
 - Examples without explicit mapping leave learners to guess the intended correspondence, often anchoring on surface similarity [~M]
 - Concrete detail can act as seductive, extraneous material when it is vivid but structurally irrelevant [Coherence principle: irrelevant material hurts learning.](../claims/coherence-principle-irrelevant-material-hurts-learning.md) [-S]
 - Examples alone, without abstraction prompts or practice, produce knowledge that fails to transfer to new problem types

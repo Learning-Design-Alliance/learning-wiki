@@ -35,10 +35,10 @@ Generating questions before reading converts reading from passive reception into
 - Questions that cannot plausibly be answered by the text create frustration and off-target reading
 
 #### Implementation Variability
-- **KWL charts** (Ogle, 1986): learners list what they Know, what they Want to know, and later what they Learned — the "W" column is the question-generation step
+- **KWL charts** ([Ogle, 1986](https://doi.org/10.1598/rt.39.6.11)): learners list what they Know, what they Want to know, and later what they Learned — the "W" column is the question-generation step
 - **Guided peer questioning**: students use trained question stems to quiz a partner before or during reading [King (1992)](https://doi.org/10.3102/00028312029002303) [+M]
 - **Instructor-posed prequestions**: the instructor supplies the questions instead of learners generating them; cheaper but forfeits the strategy-training benefit
-- **Reciprocal teaching**: question generation is one of four comprehension strategies students rotate through in small groups (Palincsar & Brown, 1984)
+- **Reciprocal teaching**: question generation is one of four comprehension strategies students rotate through in small groups ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1))
 - **Pretesting variant**: learners attempt to answer questions before reading rather than generate them; both versions produce a pretesting benefit [Richland et al. (2009)](https://doi.org/10.1037/a0016496) [+S]
 
 ### Target Learners
@@ -66,9 +66,9 @@ Generating questions before reading converts reading from passive reception into
 - [Embed the KWL strategy across inquiry phases to guide question generation and question-quality monitoring](kwl-integrated-inquiry-question-generation.md)
 
 ## Examples
-- **KWL (Ogle, 1986)** — A widely used elementary expository-reading routine: the "Want to know" column is the generated question set, revisited in the "Learned" column after reading.
+- **KWL ([Ogle, 1986](https://doi.org/10.1598/rt.39.6.11))** — A widely used elementary expository-reading routine: the "Want to know" column is the generated question set, revisited in the "Learned" column after reading.
 - **[Reading Apprenticeship](https://readingapprenticeship.org/)** — A disciplinary-literacy framework in which instructors think aloud their own questioning of texts and students build personal question logs before and during reading.
-- **Prequestions in video lectures** — Embedding questions before video segments improved learning of the questioned content but reduced attention to non-questioned content (Carpenter & Toftness, 2017), so designers should prequestion across all key topics rather than a sample.
+- **Prequestions in video lectures** — Embedding questions before video segments improved learning of the questioned content but reduced attention to non-questioned content ([Carpenter & Toftness, 2017](https://doi.org/10.1016/j.jarmac.2016.07.014)), so designers should prequestion across all key topics rather than a sample.
 
 ## Key Sources
 - Rosenshine, B., Meister, C., & Chapman, S. (1996). Teaching students to generate questions: A review of the intervention studies. *Review of Educational Research, 66*(2), 181–221. [doi:10.3102/00346543066002181](https://doi.org/10.3102/00346543066002181)

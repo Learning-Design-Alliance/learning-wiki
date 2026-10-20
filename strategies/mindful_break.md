@@ -19,7 +19,7 @@ A mindful break is a brief, student-initiated pause in instruction: a learner ri
 
 ## Design Implications
 
-Mindful breaks target the attentional and emotional conditions for learning rather than content itself: brief mindfulness practice reduces mind-wandering and improves working memory and reading comprehension [Mrazek et al. 2013] [+M], and school-based mindfulness programs show small-to-moderate benefits for attention and emotional regulation [Zenner et al. 2014] [+M]. Because the break is student-initiated, it also builds self-monitoring — learners must notice their own or the group's attentional state before acting [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
+Mindful breaks target the attentional and emotional conditions for learning rather than content itself: brief mindfulness practice reduces mind-wandering and improves working memory and reading comprehension ([Mrazek et al. 2013](https://doi.org/10.1177/0956797612459659)) [+M], and school-based mindfulness programs show small-to-moderate benefits for attention and emotional regulation ([Zenner et al. 2014](https://doi.org/10.3389/fpsyg.2014.00603)) [+M]. Because the break is student-initiated, it also builds self-monitoring — learners must notice their own or the group's attentional state before acting [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ### Context
 #### Requirements
@@ -29,7 +29,7 @@ Mindful breaks target the attentional and emotional conditions for learning rath
 - Instructor modeling of the practice early on, so students know what mindful breathing looks and feels like
 
 #### Constraints
-- Benefits require consistent implementation over weeks; single or sporadic breaks show little measurable effect [Zenner et al. 2014] [~M]
+- Benefits require consistent implementation over weeks; single or sporadic breaks show little measurable effect ([Zenner et al. 2014](https://doi.org/10.3389/fpsyg.2014.00603)) [~M]
 - Some learners find silent breathing difficult, aversive, or culturally unfamiliar; skepticism and discomfort reduce engagement and can make the practice counterproductive for them [-W]
 - For learners with trauma histories, closing eyes or silent stillness can trigger distress; alternatives (eyes open, movement-based reset) should be offered [-W]
 - Student-controlled timing can be used to escape difficult tasks rather than restore attention; the frequency cap and instructor judgment mitigate this [-W]
@@ -43,7 +43,7 @@ Mindful breaks target the attentional and emotional conditions for learning rath
 
 ### Target Learners
 - All learner levels, including K–12, higher education, and adult professional development
-- Particularly useful for adolescents and young adults, whose attention regulation is still developing and who show measurable gains from brief mindfulness training [Mrazek et al. 2013] [+M]
+- Particularly useful for adolescents and young adults, whose attention regulation is still developing and who show measurable gains from brief mindfulness training ([Mrazek et al. 2013](https://doi.org/10.1177/0956797612459659)) [+M]
 - Learners experiencing high stress or test anxiety, where regulation supports persistence [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~W]
 
 ### Target Learning Goals

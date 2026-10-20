@@ -19,7 +19,7 @@ Specific Goal Questioning means designing questions around a single, explicit an
 
 ## Design Implications
 
-Directed questions function as an attention-focusing mechanism: they tell learners what to look for before they read, which reduces unproductive search and helps novices notice features they would otherwise overlook [King, 1994]. The specificity matters — questions aimed at deep, goal-relevant features produce better comprehension than surface-level or unfocused questions [Rosenshine et al., 1996]. The "why?" follow-up is the critical move: it forces learners to construct an explanation linking the technique to its rhetorical or structural effect, rather than merely locating it.
+Directed questions function as an attention-focusing mechanism: they tell learners what to look for before they read, which reduces unproductive search and helps novices notice features they would otherwise overlook ([King, 1994](https://doi.org/10.3102/00028312031002338)). The specificity matters — questions aimed at deep, goal-relevant features produce better comprehension than surface-level or unfocused questions ([Rosenshine et al., 1996](https://doi.org/10.3102/00346543066002181)). The "why?" follow-up is the critical move: it forces learners to construct an explanation linking the technique to its rhetorical or structural effect, rather than merely locating it.
 
 ### Context
 #### Requirements
@@ -32,24 +32,24 @@ Directed questions function as an attention-focusing mechanism: they tell learne
 - Overly directive questioning narrows attention; learners may miss other important features of the text and fail to develop independent analytical habits [~M]
 - If the goal is not genuinely specific ("what do you notice?"), the attention-focusing benefit disappears
 - Requires careful planning — poorly targeted questions waste time and can anchor learners to surface features rather than function
-- Less effective for learners with strong prior knowledge, who gain more from self-generated questions [Rosenshine et al., 1996] [~M]
+- Less effective for learners with strong prior knowledge, who gain more from self-generated questions ([Rosenshine et al., 1996](https://doi.org/10.3102/00346543066002181)) [~M]
 
 #### Implementation Variability
-- **Teacher-generated → student-generated progression**: begin with teacher-posed goal questions, then have students write their own questions targeting a chosen technique — self-questioning training produces durable comprehension gains [Rosenshine et al., 1996] [+S]
+- **Teacher-generated → student-generated progression**: begin with teacher-posed goal questions, then have students write their own questions targeting a chosen technique — self-questioning training produces durable comprehension gains ([Rosenshine et al., 1996](https://doi.org/10.3102/00346543066002181)) [+S]
 - **Written vs. oral response**: individual written responses before discussion ensure every learner commits to an answer ([Individual Response](../elements/individual-response.md))
 - **Jigsaw variation**: different groups pursue different goals (grabber, structure, transitions) and teach findings to peers
 - **Recurring goal frames**: reusable question stems ("Where does the writer…? Why does that work here?") reduce planning load across texts
 
 ### Target Learners
-- Novice writers and readers who do not yet spontaneously notice craft features; directed questions compensate for missing schemas [King, 1994] [+M]
+- Novice writers and readers who do not yet spontaneously notice craft features; directed questions compensate for missing schemas ([King, 1994](https://doi.org/10.3102/00028312031002338)) [+M]
 - Developing writers studying mentor texts for a specific technique they will imitate
-- Less beneficial for advanced learners, who benefit more from generating their own questions [Rosenshine et al., 1996] [~M]
+- Less beneficial for advanced learners, who benefit more from generating their own questions ([Rosenshine et al., 1996](https://doi.org/10.3102/00346543066002181)) [~M]
 
 ### Target Learning Goals
 - Craft analysis: identifying and explaining specific writing techniques
 - Structural understanding: recognizing how essays and narratives are organized
 - Transfer to writing: connecting analyzed techniques to the learner's own drafting
-- Self-questioning skill, when students progress to writing their own goal questions [Rosenshine et al., 1996] [+S]
+- Self-questioning skill, when students progress to writing their own goal questions ([Rosenshine et al., 1996](https://doi.org/10.3102/00346543066002181)) [+S]
 
 ### Instructions
 1. Choose one specific goal per text or lesson (e.g., "identify the grabber") and state it before reading ([Advance Organizers](../elements/advance-organizers.md))

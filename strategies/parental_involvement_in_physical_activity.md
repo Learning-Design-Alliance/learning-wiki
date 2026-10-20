@@ -60,7 +60,7 @@ Family- and parent-focused components reliably strengthen school-based physical 
 - [Offering Multiple Options for Family Engagement](offering_multiple_options_for_family_engagement.md)
 
 ## Examples
-- **[SPARK](https://sparkpe.org)** (Sports, Play, and Active Recreation for Kids) — an evidence-based elementary PE program that explicitly includes family take-home activities and parent promotion as part of its design (Sallis et al., 1997).
+- **[SPARK](https://sparkpe.org)** (Sports, Play, and Active Recreation for Kids) — an evidence-based elementary PE program that explicitly includes family take-home activities and parent promotion as part of its design ([Sallis et al., 1997](https://doi.org/10.2105/ajph.87.8.1328)).
 - **[Action Schools! BC](https://actionschoolsbc.ca)** (Canada) — a whole-school model where family and community engagement is one of the action planning components.
 - **[The Daily Mile](https://thedailymile.org)** — schools often extend participation to parents via family run days and at-home versions of the daily 15-minute run/walk.
 

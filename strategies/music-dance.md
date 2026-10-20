@@ -19,7 +19,7 @@ Music & Dance embeds content into song, rhythm, and choreographed movement so th
 
 ## Design Implications
 
-Music and movement are not decorative add-ons; their benefit comes from well-established encoding mechanisms. Melody provides a temporal structure that organizes text and supports recall of sung over spoken material [Wallace, 1994] [+M], and gesture and physical enactment improve comprehension and memory for verbal content, particularly for children and novices [Dargue et al., 2019] [+M]. Physical experience can also ground abstract concepts — learners who physically manipulated angular velocity outperformed those who only observed the same motion [Kontra et al., 2012] [+S]. Combining verbal and nonverbal channels follows the same logic as [Dual Coding Theory](../theories/dual-coding-theory.md): two coordinated codes produce more retrieval paths than one [Combining verbal and visual representations affects recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
+Music and movement are not decorative add-ons; their benefit comes from well-established encoding mechanisms. Melody provides a temporal structure that organizes text and supports recall of sung over spoken material ([Wallace, 1994](https://doi.org/10.1037/0278-7393.20.6.1471)) [+M], and gesture and physical enactment improve comprehension and memory for verbal content, particularly for children and novices ([Dargue et al., 2019](https://doi.org/10.1037/bul0000202)) [+M]. Physical experience can also ground abstract concepts — learners who physically manipulated angular velocity outperformed those who only observed the same motion ([Kontra et al., 2012](https://doi.org/10.1177/0956797615569355)) [+S]. Combining verbal and nonverbal channels follows the same logic as [Dual Coding Theory](../theories/dual-coding-theory.md): two coordinated codes produce more retrieval paths than one [Combining verbal and visual representations affects recall and retention.](../claims/media-combinations-affect-recall-and-retention.md) [+M].
 
 ### Context
 #### Requirements
@@ -39,7 +39,7 @@ Music and movement are not decorative add-ons; their benefit comes from well-est
 - Digital tools (e.g., Toca Dance Free, GarageBand) for composing and choreographing when physical space is limited
 
 ### Target Learners
-- Young learners and novices, for whom gesture and enactment reliably support verbal comprehension and memory [Dargue et al., 2019] [+M]
+- Young learners and novices, for whom gesture and enactment reliably support verbal comprehension and memory ([Dargue et al., 2019](https://doi.org/10.1037/bul0000202)) [+M]
 - Learners struggling with text-heavy encoding, who benefit from an additional melodic and motor retrieval route
 - Less reliably beneficial for adults with strong prior knowledge, where song/movement can feel infantilizing and add load without adding encoding value [~W]
 

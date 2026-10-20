@@ -77,7 +77,7 @@ Arts integration works when the artistic task forces deep processing of the cont
 - [Canva for Education](https://www.canva.com/education/) — graphic design for visualizing disciplinary content
 
 ## Examples
-- **Arts-integrated elementary science (Rinne et al., 2011)**: Lessons on topics such as the water cycle taught through visual art, drama, and movement produced better long-term retention than conventional lessons in the same classrooms.
+- **Arts-integrated elementary science ([Rinne et al., 2011](https://doi.org/10.1111/j.1751-228x.2011.01114.x))**: Lessons on topics such as the water cycle taught through visual art, drama, and movement produced better long-term retention than conventional lessons in the same classrooms.
 - **[Kennedy Center Changing Education Through the Arts (CETA)](https://www.kennedy-center.org/education/networks-conferences-and-research/networks/ceta/)** — a professional development program in which classroom teachers co-plan arts-integrated units with teaching artists.
 - **History through process drama**: Students research a historical event, then write and perform a play in which each scene must accurately represent documented causes and consequences; peer review checks scenes against primary sources.
 

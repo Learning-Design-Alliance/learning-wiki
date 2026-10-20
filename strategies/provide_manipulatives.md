@@ -20,7 +20,7 @@ Learners are given tangible objects — counters, base-ten blocks, fraction tile
 
 ## Design Implications
 
-Manipulatives work by grounding abstract symbols in perceptual, enactive experience, consistent with the progression from enactive to iconic to symbolic representation [Bruner, 1964]. Meta-analytic evidence shows moderate positive effects on achievement when manipulatives are used across a full instructional program, but effects shrink or reverse when the objects are used briefly or without connection to the target symbol system [~M]. The critical design decision is linkage: learners must be explicitly supported in mapping actions on objects to the symbolic notation they are meant to learn, otherwise the concrete representation becomes a parallel, disconnected activity [Uttal et al., 1997] [~M].
+Manipulatives work by grounding abstract symbols in perceptual, enactive experience, consistent with the progression from enactive to iconic to symbolic representation ([Bruner, 1964](https://doi.org/10.1037/h0044160)). Meta-analytic evidence shows moderate positive effects on achievement when manipulatives are used across a full instructional program, but effects shrink or reverse when the objects are used briefly or without connection to the target symbol system [~M]. The critical design decision is linkage: learners must be explicitly supported in mapping actions on objects to the symbolic notation they are meant to learn, otherwise the concrete representation becomes a parallel, disconnected activity ([Uttal et al., 1997](https://doi.org/10.1016/s0193-3973(97)90013-7)) [~M].
 
 ### Context
 #### Requirements

@@ -19,7 +19,7 @@ sources:
 > **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 2 claims rest on one study
 
 ## Description
-GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002, Derewianka 2003, Hyland 2004) with three self-regulated learning models (Schmitz & Wiese 2006; Schunk & Zimmerman 2007; Zimmerman 2013). The article states "there were four main stages with seven steps": Presenting (Understanding the Context), Collaborative Practicing (Modelling, Deconstructing, Collaborative Learning and Writing), Independent Practicing and Production (Inter-dependent Writing), and Post-Writing Task. Four SRL activities — goal-setting, planning, implementing and monitoring, and evaluation — occur across Pre-task, Performing, and Post-task phases and are embedded in the genre stages.
+GBSRI integrates three genre-based teaching-learning cycles (Macken-Horarik 2002, Derewianka 2003, Hyland 2004) with three self-regulated learning models (Schmitz & Wiese 2006; [Schunk & Zimmerman 2007](https://doi.org/10.1080/10573560600837578); Zimmerman 2013). The article states "there were four main stages with seven steps": Presenting (Understanding the Context), Collaborative Practicing (Modelling, Deconstructing, Collaborative Learning and Writing), Independent Practicing and Production (Inter-dependent Writing), and Post-Writing Task. Four SRL activities — goal-setting, planning, implementing and monitoring, and evaluation — occur across Pre-task, Performing, and Post-task phases and are embedded in the genre stages.
 
 ## Design Implications
 

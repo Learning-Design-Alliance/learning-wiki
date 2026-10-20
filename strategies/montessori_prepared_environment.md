@@ -62,7 +62,7 @@ The strategy externalizes instructional control into the physical setting, reduc
 
 ## Examples
 - **AMI/AMS Montessori classrooms** ([https://amiusa.org](https://amiusa.org), [https://amshq.org](https://amshq.org)) — authentic implementations with sequenced didactic materials (e.g., golden beads, sandpaper letters) and three-hour work cycles.
-- **Head Start Montessori programs** — public-sector adaptations studied in randomized evaluations (Lillard et al., 2017).
+- **Head Start Montessori programs** — public-sector adaptations studied in randomized evaluations ([Lillard et al., 2017](https://doi.org/10.3389/fpsyg.2017.01783)).
 - **Khan Academy Kids / Montessori-inspired apps** — digital curations of sequenced, self-checking activities echoing the prepared shelf.
 
 ## Key Sources

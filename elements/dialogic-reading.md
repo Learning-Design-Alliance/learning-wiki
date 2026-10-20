@@ -78,7 +78,7 @@ Dialogic reading reliably improves expressive vocabulary and oral language in yo
 
 **[Read Together, Talk Together](https://www.readingrockets.org)** (Pearson/Reading Rockets) — a published dialogic reading program built on Whitehurst's prompt hierarchy, with parent training materials and leveled picture books.
 
-**Head Start dialogic reading interventions** — multiple randomized trials (e.g., Whitehurst et al., 1988; Lonigan & Whitehurst, 1998) trained parents and classroom aides to use PEER sequences (Prompt–Evaluate–Expand–Repeat) over 4–6 weeks, producing significant expressive language gains.
+**Head Start dialogic reading interventions** — multiple randomized trials (e.g., Whitehurst et al., 1988; [Lonigan & Whitehurst, 1998](https://doi.org/10.1016/s0885-2006(99)80038-6)) trained parents and classroom aides to use PEER sequences (Prompt–Evaluate–Expand–Repeat) over 4–6 weeks, producing significant expressive language gains.
 
 **[Dialogic Reading in Pre-K classrooms](https://www.naeyc.org)** — NAEYC guidance for teachers using small-group repeated read-alouds with wh- and distancing prompts, transitioning children to retelling by the third or fourth reading.
 - [Gradually shift the adult role from reading to listening and higher-level prompting as the child becomes familiar with a book](../strategies/gradual-shift-to-higher-level-prompts.md)

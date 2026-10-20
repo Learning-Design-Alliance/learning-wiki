@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 2 claims (1 for, 1 mixed) · 5 studies (3 quant-synthesis, 1 causal, 1 theoretical), `q2`–`q4` · 3 of 5 report an effect size
 
 ## Description
-Generative processing is the cognitive work learners do to make sense of material: selecting relevant information, organizing it into a coherent structure, and integrating it with prior knowledge (Mayer, 2014). Strategies that promote generative processing deliberately prompt this construction — through summarizing, self-explaining, mapping, teaching, or drawing — rather than leaving comprehension to chance. The underlying claim is that learning is a knowledge-construction activity, not a knowledge-transmission one (Wittrock, 1974).
+Generative processing is the cognitive work learners do to make sense of material: selecting relevant information, organizing it into a coherent structure, and integrating it with prior knowledge ([Mayer, 2014](https://doi.org/10.1017/cbo9781139547369.005)). Strategies that promote generative processing deliberately prompt this construction — through summarizing, self-explaining, mapping, teaching, or drawing — rather than leaving comprehension to chance. The underlying claim is that learning is a knowledge-construction activity, not a knowledge-transmission one ([Wittrock, 1974](https://doi.org/10.1080/00461527409529129)).
 
 ## Design Implications
 

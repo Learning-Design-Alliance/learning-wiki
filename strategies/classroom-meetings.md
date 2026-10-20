@@ -64,7 +64,7 @@ Classroom meetings operationalize the classroom as a community of practice, buil
 - [Cooperative Learning](cooperative-learning.md) — meetings build the norms that make group work function
 
 ## Examples
-- **[Responsive Classroom](https://www.responsiveclassroom.org)** Morning Meeting — daily greeting, sharing, group activity, and news-and-announcements; supported by a three-year longitudinal study linking implementation fidelity to reading and math gains (Rimm-Kaufman et al., 2007).
+- **[Responsive Classroom](https://www.responsiveclassroom.org)** Morning Meeting — daily greeting, sharing, group activity, and news-and-announcements; supported by a three-year longitudinal study linking implementation fidelity to reading and math gains ([Rimm-Kaufman et al., 2007](https://doi.org/10.1016/j.jsp.2006.10.003)).
 - **Glasser-style problem-solving meetings** — a class convenes to address recurring disruption, brainstorming solutions and voting on a class agreement.
 - **Restorative practice circles** in secondary schools — weekly talking-piece circles used to build community and repair harm, as implemented in Denver Public Schools' restorative justice program.
 

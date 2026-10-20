@@ -18,7 +18,7 @@ theory: eric-ej1165192, eric-ej1288838, eric-ej1508788. The primary works in Key
 
 ## Description
 
-The L2 Motivational Self System (L2MSS) was proposed by Dörnyei (2005) to reconceptualise second-language learning motivation within a "self" framework. The articles present it as "a natural progression from Gardner's theory": dissatisfaction with integrativeness grew when a large Hungarian survey found integrativeness to be the strongest motivational component in a country with practically no English-speaking community for learners to join. Drawing on possible selves (Markus & Nurius, 1986) and Higgins's (1987) self-discrepancy theory, the L2MSS treats motivation as the wish to reduce the gap between one's current self and a self-guide.
+The L2 Motivational Self System (L2MSS) was proposed by Dörnyei (2005) to reconceptualise second-language learning motivation within a "self" framework. The articles present it as "a natural progression from Gardner's theory": dissatisfaction with integrativeness grew when a large Hungarian survey found integrativeness to be the strongest motivational component in a country with practically no English-speaking community for learners to join. Drawing on possible selves ([Markus & Nurius, 1986](https://doi.org/10.1037/0003-066x.41.9.954)) and Higgins's (1987) self-discrepancy theory, the L2MSS treats motivation as the wish to reduce the gap between one's current self and a self-guide.
 
 It has three components. The **ideal L2 self** is "the L2-specific facet of one's ideal self": if the person one would like to become speaks the L2, the desire to close the gap motivates learning, and traditional integrative and internalised instrumental motives belong here. It has a promotion focus. The **ought-to L2 self** is the set of attributes one believes one ought to possess "to meet expectations and to avoid possible negative outcomes", a less internalised, prevention-focused instrumental motive. The **L2 learning experience** covers situated, "executive" motives in the immediate environment (teacher, curriculum, peer group, experience of success). The articles note it is conceptualised at a different level from the two self-guides, as a bottom-up addition, and Dörnyei (2019) called it "the Cinderella" of the system. Tangkiengsirisin et al. (2026) set the L2MSS, "which emphasizes the future self of language learners", against process-oriented self-determination theory.
 
@@ -32,7 +32,7 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 
 ### Target Learners
 - The fetched evidence comes from Iranian EFL learners in language institutes and universities, first-year Japanese university students, and Thai undergraduates. None of these samples is specifically adult learners outside formal education.
-- For learners at the start of a programme, future self-images may be too distant to drive effort (Takahashi & Im, 2020).
+- For learners at the start of a programme, future self-images may be too distant to drive effort ([Takahashi & Im, 2020](https://doi.org/10.14746/ssllt.2020.10.4.2)).
 
 ### Target Learning Objectives
 - Intended learning effort, which is the usual criterion measure.
@@ -53,8 +53,8 @@ The articles disagree about how well the system works. Roshandel et al. (2018) s
 
 ## Related Theories
 
-- [Dörnyei's L2 Motivational Self System as a three-component framework for L2 learning motivation](l2-motivational-self-system-framework.md) — source-framed variant (Roshandel et al., 2018)
-- [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md) — source-framed variant (Takahashi & Im, 2020)
+- [Dörnyei's L2 Motivational Self System as a three-component framework for L2 learning motivation](l2-motivational-self-system-framework.md) — source-framed variant ([Roshandel et al., 2018](https://doi.org/10.12973/iji.2018.11123a))
+- [Internalization-based mapping between SDT motivation types and L2MSS self constructs](sdt-l2mss-internalization-mapping.md) — source-framed variant ([Takahashi & Im, 2020](https://doi.org/10.14746/ssllt.2020.10.4.2))
 - [Gardner's Integrative-Instrumental model and its context-dependence](gardner-integrative-instrumental-model-context-limits.md) — the model the L2MSS was proposed to move beyond
 - [Self-determination theory framework of intrinsic and extrinsic motivational orientations for L2 learning](sdt-intrinsic-extrinsic-orientations-l2-motivation.md) — neighbouring L2 motivation framework
 - [Self-Determination Theory](self-determination-theory.md)

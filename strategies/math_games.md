@@ -19,7 +19,7 @@ Math games are structured activities designed to stimulate enthusiasm for math l
 
 ## Design Implications
 
-Well-designed math games embed [practice](../elements/practice.md) in a goal structure that motivates repeated engagement, and repetition is the mechanism through which fluency develops [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The strongest evidence comes from linear number board games: preschoolers from low-income backgrounds who played a linear number board game for four short sessions showed durable gains in numerical magnitude comparison, number line estimation, and counting relative to controls [Ramani & Siegler, 2008] [+S]. Games work best when the mathematical decision-making, not luck or recall speed, determines the outcome, and when play is followed by discussion that makes strategies explicit [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
+Well-designed math games embed [practice](../elements/practice.md) in a goal structure that motivates repeated engagement, and repetition is the mechanism through which fluency develops [Spaced repetition improves retention.](../claims/spaced-practice-improves-retention.md) [+S]. The strongest evidence comes from linear number board games: preschoolers from low-income backgrounds who played a linear number board game for four short sessions showed durable gains in numerical magnitude comparison, number line estimation, and counting relative to controls ([Ramani & Siegler, 2008](https://doi.org/10.1111/j.1467-8624.2007.01131.x)) [+S]. Games work best when the mathematical decision-making, not luck or recall speed, determines the outcome, and when play is followed by discussion that makes strategies explicit [Self-explanation improves conceptual understanding.](../claims/self-explanation-improves-conceptual-understanding.md) [+M].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Well-designed math games embed [practice](../elements/practice.md) in a goal str
 - Whole-class vs. pair formats: pairs generate more mathematical talk; solo digital play trades discussion for volume of practice
 
 ### Target Learners
-- Elementary students, especially early-numeracy learners; board game interventions show the largest effects for children from low-income backgrounds who enter with less informal number knowledge [Ramani & Siegler, 2008] [+S]
+- Elementary students, especially early-numeracy learners; board game interventions show the largest effects for children from low-income backgrounds who enter with less informal number knowledge ([Ramani & Siegler, 2008](https://doi.org/10.1111/j.1467-8624.2007.01131.x)) [+S]
 - Students who need many low-stakes repetitions to build fluency without the anxiety of timed testing
 - Less effective as-is for advanced learners unless rules are modified to increase strategic depth
 

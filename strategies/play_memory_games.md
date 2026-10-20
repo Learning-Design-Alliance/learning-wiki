@@ -15,7 +15,7 @@ generated:
 > **Evidence** · 3 claims (3 for) · 12 studies (5 quant-synthesis, 4 causal, 2 review, 1 associational), `q2`–`q4` · 3 of 12 report an effect size
 
 ## Description
-Memory games are structured activities — matching pairs, sequence recall ("Simon"-style), concentration card games, n-back tasks — that require learners to encode, hold, and retrieve information over short intervals. They are typically used as warm-ups, free-time options, or station activities to build attention and working memory engagement. The critical design question is what the game trains: games exercise the specific skill of remembering game-like material, and claims that they broadly "strengthen the brain" are not supported [Simons et al., 2016].
+Memory games are structured activities — matching pairs, sequence recall ("Simon"-style), concentration card games, n-back tasks — that require learners to encode, hold, and retrieve information over short intervals. They are typically used as warm-ups, free-time options, or station activities to build attention and working memory engagement. The critical design question is what the game trains: games exercise the specific skill of remembering game-like material, and claims that they broadly "strengthen the brain" are not supported ([Simons et al., 2016](https://doi.org/10.1177/1529100616661983)).
 
 ## Design Implications
 

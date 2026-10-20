@@ -60,9 +60,9 @@ Read-alouds work by removing the decoding burden so working memory is freed for 
 - **Vocabulary-focused read-alouds**: target words pre-selected, defined in context, and revisited across the session and later sessions
 - **Digital read-alouds**: platforms such as [MeeGenius](https://www.meegenius.com) highlight words as they are read, supporting print tracking, phonological awareness, and sight-word recognition
 - **Repeated reading of the same text**: rereading deepens vocabulary and story-structure knowledge, though novelty supports engagement — alternating works well
-- **Interactive read-alouds** (Fisher et al., 2004): planned think-alouds and open questions across grade levels
+- **Interactive read-alouds** ([Fisher et al., 2004](https://doi.org/10.1598/rt.58.1.1)): planned think-alouds and open questions across grade levels
 - **Text Talk** (Beck & McKeown, 2001): questioning designed to build meaning from decontextualized language rather than pictures
-- **Dialogic reading** (Whitehurst et al., 1988): child-directed prompting (completion, recall, open-ended, wh-, distancing prompts) in small-group or one-to-one settings
+- **Dialogic reading** ([Whitehurst et al., 1988](https://doi.org/10.1037/0012-1649.24.4.552)): child-directed prompting (completion, recall, open-ended, wh-, distancing prompts) in small-group or one-to-one settings
 - **Audiobook-supported reading**: [Audiobooks](audiobooks.md) extend the same access function for independent use and second-language learners
 - **Teacher read-aloud** (modeled fluency, vocabulary building) — instructor reads above students' independent level with think-aloud commentary ([Think-Aloud](../elements/think-aloud.md))
 - **Student production reading** — learner reads key terms or answers aloud to exploit the production effect for retention

@@ -66,7 +66,7 @@ Multiplicative double counting makes the coordination of composite units explici
 
 ## Examples
 - **"Please Go Bring for Me" (PGBM):** Learners fetch requested towers of cubes, count them with all three units tracked, then draw what they built, and finally write equations — a concrete-to-abstract progression built on multiplicative double counting.
-- **Array structuring tasks:** Students count rows while counting squares within each row in grid tasks, building the row-by-column structure that supports area and multiplication [Battista et al., 1998].
+- **Array structuring tasks:** Students count rows while counting squares within each row in grid tasks, building the row-by-column structure that supports area and multiplication ([Battista et al., 1998](https://doi.org/10.5951/jresematheduc.29.5.0503)).
 - **CGI problem types:** Teachers using [Cognitively Guided Instruction](../principles/responsive-teaching.md) pose multiplicative story problems and elicit children's counting-based solution strategies, including double counting, as diagnostic evidence of multiplicative reasoning.
 
 ## Key Sources

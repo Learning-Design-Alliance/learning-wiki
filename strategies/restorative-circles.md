@@ -45,8 +45,8 @@ Restorative Circles operationalize social-emotional and community-building goals
 - Whole-school adoption without staff buy-in and sustained professional development shows weak or null effects on discipline outcomes [~S] — the RAND evaluation of the Pittsburgh restorative practices rollout found suspension reductions but no academic gains and increased teacher-reported classroom disruption in early implementation years
 - Not appropriate for all harms: severe violence or cases where victims refuse contact require alternative processes
 - Time-intensive relative to traditional discipline; under-resourced schools may implement a degraded version that yields neither repair nor efficiency
-- Poorly facilitated circles can re-traum victims by forcing confrontation with the person who harmed them [~M] — victims report lower satisfaction when participation is pressured (Strang et al., 2006)
-- Implemented as a substitute for adequate behavioral support rather than alongside it, restorative practices can leave teachers feeling unsupported and can worsen climate [~M] (Acosta et al., 2019)
+- Poorly facilitated circles can re-traum victims by forcing confrontation with the person who harmed them [~M] — victims report lower satisfaction when participation is pressured ([Strang et al., 2006](https://doi.org/10.1111/j.1540-4560.2006.00451.x))
+- Implemented as a substitute for adequate behavioral support rather than alongside it, restorative practices can leave teachers feeling unsupported and can worsen climate [~M] ([Acosta et al., 2019](https://doi.org/10.1007/s10964-019-01013-2))
 - Requires significant adult time and training; under-resourced rollouts degrade into unstructured conversations with no repair outcome
 - Power imbalances (e.g., a popular student vs. an isolated one, or staff vs. student) can silence less powerful participants unless the facilitator actively manages turn-taking
 - Poorly facilitated responsive circles can re-traumate victims by forcing confrontation before readiness [-M]
@@ -109,8 +109,8 @@ Restorative Circles operationalize social-emotional and community-building goals
 
 ## Examples
 - **Denver Public Schools (Colorado)** — district-wide restorative justice implementation replacing exclusionary discipline for many infractions; documented reductions in suspensions and discipline disparities.
-- **Oakland Unified School District (California)** — a well-studied whole-school restorative justice program; African American suspension rates fell substantially after implementation (Karp & Breslin, 2001; later district evaluations).
-- **International Institute for Restorative Practices (IIRP) SaferSanerSchools program** — whole-school professional development model using tiered circles; evaluated in a randomized study of 14 Pittsburgh middle schools (Augustine et al., 2018).
+- **Oakland Unified School District (California)** — a well-studied whole-school restorative justice program; African American suspension rates fell substantially after implementation ([Karp & Breslin, 2001](https://doi.org/10.1177/0044118x01033002006); later district evaluations).
+- **International Institute for Restorative Practices (IIRP) SaferSanerSchools program** — whole-school professional development model using tiered circles; evaluated in a randomized study of 14 Pittsburgh middle schools ([Augustine et al., 2018](https://doi.org/10.7249/rr2840)).
 - **Restorative Circles (Dominic Barter, Brazil)** — community-developed model originating in Rio de Janeiro favelas, now adapted internationally for schools and justice systems.
 - **Pittsburgh Public Schools** — a 5-year randomized evaluation of district-wide restorative practices (RAND, 2018–2019) found reduced suspensions and improved teacher-student relationships, with mixed effects on climate: [https://www.rand.org/pubs/research_reports/RR2840.html](https://www.rand.org/pubs/research_reports/RR2840.html)
 - **Oakland Unified School District** — a pioneer of whole-school restorative justice; its published implementation manual is widely adopted: [https://www.ousd.org/restorativejustice](https://www.ousd.org/restorativejustice)

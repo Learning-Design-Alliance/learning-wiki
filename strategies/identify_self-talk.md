@@ -20,7 +20,7 @@ Students keep a running log of their inner voice — the ongoing stream of priva
 
 ## Design Implications
 
-Identifying self-talk is the awareness-building first step in self-instructional and cognitive-behavioral approaches: learners cannot monitor or revise self-statements they have never noticed [Meichenbaum, 1977] [+M]. Recording externalizes covert cognition, which supports the monitoring component of [Self-Regulated Learning](../theories/self-regulated-learning.md) [+M]. The act of noticing and writing also slows the thought stream enough for reflection, similar to other journaling and [Annotating](../principles/annotating.md) practices.
+Identifying self-talk is the awareness-building first step in self-instructional and cognitive-behavioral approaches: learners cannot monitor or revise self-statements they have never noticed ([Meichenbaum, 1977](https://doi.org/10.1007/978-1-4757-9739-8)) [+M]. Recording externalizes covert cognition, which supports the monitoring component of [Self-Regulated Learning](../theories/self-regulated-learning.md) [+M]. The act of noticing and writing also slows the thought stream enough for reflection, similar to other journaling and [Annotating](../principles/annotating.md) practices.
 
 ### Context
 #### Requirements

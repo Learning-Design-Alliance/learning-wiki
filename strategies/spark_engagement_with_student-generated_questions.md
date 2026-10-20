@@ -50,7 +50,7 @@ Student question generation increases engagement and investment because learners
 - **Discussion seeding**: student questions replace teacher questions as the agenda for [class discussion](../elements/class-discussion.md) or [argumentation](../elements/argumentation.md) activities
 - **Whole-class question drives**: students generate and vote on questions that anchor a unit (project-based learning, progressive inquiry)
 - **Structured protocols**: the Question Formulation Technique (Rothstein & Santana, 2011) — produce, refine, prioritize, plan use
-- **Reciprocal peer questioning**: students generate questions for each other before discussion, with question stems provided (King, 1994)
+- **Reciprocal peer questioning**: students generate questions for each other before discussion, with question stems provided ([King, 1994](https://doi.org/10.3102/00028312031002338))
 - **Knowledge-building communities**: students continuously post and improve questions in a shared database (e.g., Knowledge Forum) over extended inquiry
 - **Entry-point questioning**: students generate questions at the start of a text or case, then revise them as understanding develops
 
@@ -91,7 +91,7 @@ Student question generation increases engagement and investment because learners
 - **Driving questions in project-based learning** — e.g., in [Expeditionary Learning](https://elschools.org) (EL Education) schools, students help shape the guiding questions that anchor multi-week expeditions, then investigate them through fieldwork and expert interviews.
 - **Science classrooms** — students generate testable questions about a local environmental issue (e.g., water quality in a nearby stream) and design investigations to answer them, connecting inquiry to [authentic audiences](../principles/authentic-audiences-purposes.md).
 - **Question Formulation Technique** ([Right Question Institute](https://rightquestion.org)) — a structured protocol used across K–12 and higher education in which students produce, improve, and prioritize questions about a "QFocus" prompt before a unit or text.
-- **Knowledge Building / Knowledge Forum** ([IKIT](http://ikit.org)) — Scardamalia and Bereiter's knowledge-building communities, where students' questions are recorded, improved, and built upon in a shared database over months; research in these environments shows progressive deepening of explanatory questions (Hakkarainen, 2003).
+- **Knowledge Building / Knowledge Forum** ([IKIT](http://ikit.org)) — Scardamalia and Bereiter's knowledge-building communities, where students' questions are recorded, improved, and built upon in a shared database over months; research in these environments shows progressive deepening of explanatory questions ([Hakkarainen, 2003](https://doi.org/10.3115/1599773.1599794)).
 - **Reciprocal questioning in college biology** — King's (1994) guided peer-questioning procedure, in which students use question stems to quiz each other before discussion, improved higher-order discussion and achievement relative to lecture.
 - **Project-based science curricula** such as [EL Education](https://eleducation.org) — units are organized around student-developed "guiding questions" that culminate in authentic products for real audiences.
 

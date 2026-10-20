@@ -58,12 +58,12 @@ This page owns one decision inside [Multimedia Learning](multimedia-learning.md)
 
 Claims in this wiki test the relationship directly, in meta-analyses, and report its boundaries:
 
-- **Size and the two forms.** Across 50 randomised between-group effects (2,375 students), integrating separated information gave d = 0.85 (Ginns 2006); a later meta-analysis of 58 comparisons (n = 2,426) found g = 0.63 for spatial integration (Schroeder & Cenkci 2018). Spatial (d = 0.72) and temporal (d = 0.78) effects did not differ significantly, which is not a test that they are equal.
-- **Complexity of the material.** The effect was d = 0.78 for high element-interactivity material and d = 0.28, with an interval crossing zero, for low (Ginns 2006). Across design principles generally, effects were g = 0.70 in complex and 0.20 in simple media (Noetel et al. 2022).
+- **Size and the two forms.** Across 50 randomised between-group effects (2,375 students), integrating separated information gave d = 0.85 ([Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001)); a later meta-analysis of 58 comparisons (n = 2,426) found g = 0.63 for spatial integration ([Schroeder & Cenkci 2018](https://doi.org/10.1007/s10648-018-9435-9)). Spatial (d = 0.72) and temporal (d = 0.78) effects did not differ significantly, which is not a test that they are equal.
+- **Complexity of the material.** The effect was d = 0.78 for high element-interactivity material and d = 0.28, with an interval crossing zero, for low ([Ginns 2006](https://doi.org/10.1016/j.learninstruc.2006.10.001)). Across design principles generally, effects were g = 0.70 in complex and 0.20 in simple media ([Noetel et al. 2022](https://doi.org/10.3102/00346543211052329)).
 - **Pacing.** Across design principles, effects were larger in system-paced media such as lectures (g = 0.41) than in learner-paced media such as websites (g = 0.27).
 - **Expertise.** Integrated text that novice electrical trainees needed became redundant for experienced trainees, who did better with the diagram alone (Kalyuga et al. 1998, as reported by two reviews). Noetel et al. found prior knowledge did *not* significantly moderate design-principle effects as a whole (p = 0.14). The two disagree in grain: one experiment programme on one principle, one moderator test across all principles. Plan for the reversal and check for it.
 - **Medium and testing.** Static (print) and dynamic (animation) presentations did not differ reliably in effect. Effects were larger under one-to-one testing (d = .89) than group testing (d = .65), and the group-tested effect is still large enough to matter in a classroom.
-- **Mechanism.** The usual explanation is extraneous load from search and matching. A systematic review of 41 comparisons found that cognitive-load measures mostly did *not* differ between integrated and separated designs (Schroeder & Cenkci 2020): the learning benefit stands, the load explanation is not established.
+- **Mechanism.** The usual explanation is extraneous load from search and matching. A systematic review of 41 comparisons found that cognitive-load measures mostly did *not* differ between integrated and separated designs ([Schroeder & Cenkci 2020](https://doi.org/10.1037/edu0000372)): the learning benefit stands, the load explanation is not established.
 
 How this sits inside its neighbours: [Multimedia Learning](multimedia-learning.md) decides whether a picture is added and holds the umbrella model; this page decides placement and timing. Speaking the words instead of printing them (the modality principle) is the other way to remove the search a separated layout causes, and it has its own pacing limit. Cutting words that repeat what the picture already shows (redundancy and coherence) is the opposite move to integration, and which one fits depends on whether the words are needed at all. [Cognitive Load Management](cognitive-load-management.md) and [Cognitive Load Theory](cognitive-load-theory.md) hold the wider model that integration is one lever of.
 
@@ -112,7 +112,7 @@ Three facts change the decision most. Ask for them when the brief omits them: **
 
 ## Observation, state and explanation
 
-These rows are proposals, untested with learners as diagnostics. Where a learner looked, how long they took and how hard they say it was are observations; "split attention" and "extraneous load" are explanations, and the second is not established by the measures in this wiki (Schroeder & Cenkci 2020).
+These rows are proposals, untested with learners as diagnostics. Where a learner looked, how long they took and how hard they say it was are observations; "split attention" and "extraneous load" are explanations, and the second is not established by the measures in this wiki ([Schroeder & Cenkci 2020](https://doi.org/10.1037/edu0000372)).
 
 | Response | Plausible explanations | Observation that could change the interpretation |
 |---|---|---|

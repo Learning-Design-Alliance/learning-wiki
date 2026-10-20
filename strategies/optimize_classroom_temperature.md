@@ -19,7 +19,7 @@ Optimizing classroom temperature means keeping instructional spaces within a mod
 
 ## Design Implications
 
-Temperature is an environmental load on cognition rather than a pedagogical variable, but it gates everything else: a student fighting drowsiness or discomfort has fewer working-memory resources for [Cognitive Load Management](../principles/cognitive-load-management.md). Large-scale field evidence shows achievement declines roughly linearly with heat exposure — about 1% of a year's learning per additional 1°F of average school-year temperature — and that air conditioning offsets approximately 78% of that effect [Goodman et al., 2018] [-S for hot conditions]. Laboratory and field studies of office and classroom occupants similarly find that performance on attention and speeded tasks deteriorates above ~25–26°C [Wargocki & Wyon, 2013] [-S].
+Temperature is an environmental load on cognition rather than a pedagogical variable, but it gates everything else: a student fighting drowsiness or discomfort has fewer working-memory resources for [Cognitive Load Management](../principles/cognitive-load-management.md). Large-scale field evidence shows achievement declines roughly linearly with heat exposure — about 1% of a year's learning per additional 1°F of average school-year temperature — and that air conditioning offsets approximately 78% of that effect ([Goodman et al., 2018](https://doi.org/10.1257/pol.20180612)) [-S for hot conditions]. Laboratory and field studies of office and classroom occupants similarly find that performance on attention and speeded tasks deteriorates above ~25–26°C ([Wargocki & Wyon, 2013](https://doi.org/10.1016/j.buildenv.2012.10.007)) [-S].
 
 ### Context
 #### Requirements
@@ -41,7 +41,7 @@ Temperature is an environmental load on cognition rather than a pedagogical vari
 - Low-resource: monitor temperature with inexpensive sensors, rotate classes out of the hottest rooms, allow hydration and dress adjustments
 
 ### Target Learners
-- All K–12 and adult learners, but effects are largest where ambient heat is frequent and classrooms lack air conditioning [Goodman et al., 2018] [-S]
+- All K–12 and adult learners, but effects are largest where ambient heat is frequent and classrooms lack air conditioning ([Goodman et al., 2018](https://doi.org/10.1257/pol.20180612)) [-S]
 - Younger students, who have less developed self-regulation and are less able to articulate or act on discomfort [~M]
 - Students with attention difficulties, whose performance is disproportionately sensitive to environmental discomfort [~W]
 

@@ -17,7 +17,7 @@ generated:
 ## Description
 Classroom seating arrangement is the deliberate configuration of desks, tables, chairs, or virtual layout (gallery view, breakout rooms) to shape communication patterns, attention, and on-task behavior. Common configurations include rows, horseshoes/U-shapes, cluster pods, and flexible seating. The core principle is alignment: rows support teacher-focused instruction and independent work, while clusters and horseshoes support discussion and collaboration. Because arrangement changes who can see, hear, and interact with whom, it functions as a low-cost, high-leverage environmental lever on engagement.
 
-Instructional communication theory holds that seating arrangement shapes how the instructor communicates with students and how students interact with each other, with consequences for engagement, motivation, and focus (McCorskey & McVetta, 1978); more recent research finds students generally prefer flexible over fixed seating — mobile chairs and trapezoidal tables on casters over rectangular tables with immobile chairs (Harvey & Kenyon, 2013). Student-centered spatial design, oriented around learners actively constructing knowledge, can support learning outcomes (Rands & Gansemer-Topf, 2017), though most classrooms in practice are still built around more conventional seating models.
+Instructional communication theory holds that seating arrangement shapes how the instructor communicates with students and how students interact with each other, with consequences for engagement, motivation, and focus ([McCorskey & McVetta, 1978](https://doi.org/10.1080/03634527809378281)); more recent research finds students generally prefer flexible over fixed seating — mobile chairs and trapezoidal tables on casters over rectangular tables with immobile chairs (Harvey & Kenyon, 2013). Student-centered spatial design, oriented around learners actively constructing knowledge, can support learning outcomes (Rands & Gansemer-Topf, 2017), though most classrooms in practice are still built around more conventional seating models.
 
 Common configurations, each with different tradeoffs:
 - **Traditional (rows)** — students face the teacher, backs to one another; minimizes student-student communication and supports a "sage on the stage" model. Teacher-student interaction concentrates on students in the front row or middle of the room; back-row students tend to be less engaged.
@@ -32,7 +32,7 @@ Seating arrangement also functions as a behavioral antecedent, independent of it
 
 ## Design Implications
 
-Seating arrangement acts as an environmental scaffold for the intended interaction structure: it makes some behaviors easy and others awkward, so the layout should be chosen *after* the pedagogical goal, not before [~M]. Research shows students in row arrangements show more on-task behavior during independent work, while cluster arrangements increase peer interaction — including off-task interaction — so the "best" arrangement is task-dependent [Wannarka & Ruhl, 2008] [~S]. Physical position also matters: students seated in the front and center of a room ask more questions and participate more, an effect that persists even when students choose their own seats [Marx, Fuhrer, & Hartig, 1999] [~M].
+Seating arrangement acts as an environmental scaffold for the intended interaction structure: it makes some behaviors easy and others awkward, so the layout should be chosen *after* the pedagogical goal, not before [~M]. Research shows students in row arrangements show more on-task behavior during independent work, while cluster arrangements increase peer interaction — including off-task interaction — so the "best" arrangement is task-dependent ([Wannarka & Ruhl, 2008](https://doi.org/10.1111/j.1467-9604.2008.00375.x)) [~S]. Physical position also matters: students seated in the front and center of a room ask more questions and participate more, an effect that persists even when students choose their own seats [Marx, Fuhrer, & Hartig, 1999] [~M].
 
 ### Context
 #### Requirements
@@ -42,7 +42,7 @@ Seating arrangement acts as an environmental scaffold for the intended interacti
 - For virtual settings: familiarity with breakout rooms, gallery view, and shared-screen norms
 
 #### Constraints
-- Cluster arrangements increase off-task peer talk during independent or teacher-led activities [-S] — grouping students who are not yet able to self-regulate amplifies distraction rather than collaboration [Wannarka & Ruhl, 2008]
+- Cluster arrangements increase off-task peer talk during independent or teacher-led activities [-S] — grouping students who are not yet able to self-regulate amplifies distraction rather than collaboration ([Wannarka & Ruhl, 2008](https://doi.org/10.1111/j.1467-9604.2008.00375.x))
 - Fixed, immovable furniture (lecture halls, labs) prevents reconfiguration and can force a mismatch between layout and activity [-M]
 - Back-row and peripheral seats are associated with lower participation and question-asking regardless of arrangement type [~M] — arrangement alone cannot compensate; deliberate seat assignment or rotation is needed
 - Frequent, unexplained rearrangement can disrupt routines and raise [cognitive load](../principles/cognitive-load-management.md) by making the environment unpredictable [-W]

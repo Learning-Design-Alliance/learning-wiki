@@ -19,7 +19,7 @@ Choice-based quiet time gives students a menu of independent, low-stimulation ac
 
 ## Design Implications
 
-Autonomy is a core psychological need whose support reliably increases intrinsic motivation and engagement [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S], and even small, bounded choices produce measurable motivational benefits in classroom settings (Patall et al., 2008) [+M]. Quiet time pairs that autonomy with a low-distraction environment, giving students repeated practice at self-monitoring — noticing their own attention, energy, and needs and selecting accordingly [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
+Autonomy is a core psychological need whose support reliably increases intrinsic motivation and engagement [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [+S], and even small, bounded choices produce measurable motivational benefits in classroom settings ([Patall et al., 2008](https://doi.org/10.1037/0033-2909.134.2.270)) [+M]. Quiet time pairs that autonomy with a low-distraction environment, giving students repeated practice at self-monitoring — noticing their own attention, energy, and needs and selecting accordingly [Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+M].
 
 ### Context
 #### Requirements

@@ -66,7 +66,7 @@ Relational trust between teachers, students, and families is a strong correlate 
 - [Enable regular, meaningful family engagement through diverse home-language communication, proactive meetings, student-led conferences, and shared decision-making forums](family-engagement-structures-secondary.md)
 
 ## Examples
-- **Positive texting campaigns** — In randomized studies, teachers sending brief individualized texts to families about student progress improved homework completion and engagement (Kraft & Dougherty, 2013).
+- **Positive texting campaigns** — In randomized studies, teachers sending brief individualized texts to families about student progress improved homework completion and engagement ([Kraft & Dougherty, 2013](https://doi.org/10.1080/19345747.2012.743636)).
 - **[ClassDojo](https://www.classdojo.com)** — Two-way messaging, class stories, and translated communication connecting teachers and families.
 - **[TalkingPoints](https://talkingpts.org)** — Translation-enabled family messaging designed for multilingual school communities.
 - **Flamboyan Foundation family engagement** — Teacher home visits and relationship-building conferences implemented across Washington, DC schools.

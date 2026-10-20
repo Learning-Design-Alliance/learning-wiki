@@ -76,7 +76,7 @@ Summarizing is a generative task: producing a condensed restatement requires sel
 - [Direct Instruction](../patterns/direct-instruction.md) — frames function as the guided-practice scaffold between modeling and independent work
 
 ## Examples
-- **Reciprocal Teaching of reading (Palincsar & Brown, 1984)** — seventh graders with poor comprehension learned to summarize paragraphs within a dialogue routine; comprehension gains of roughly two standard deviations on assessments were sustained at follow-up.
+- **Reciprocal Teaching of reading ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1))** — seventh graders with poor comprehension learned to summarize paragraphs within a dialogue routine; comprehension gains of roughly two standard deviations on assessments were sustained at follow-up.
 - **Sentence frames in sheltered/SIOP instruction** — content-area teachers provide frames such as "The data show that _____, which suggests _____" so multilingual learners rehearse disciplinary language while summarizing lab results.
 - **Reading Apprenticeship (WestEd)** — disciplinary teachers use structured summary routines and metacognitive conversation starters during content-area reading ([https://readingapprenticeship.org](https://readingapprenticeship.org)).
 

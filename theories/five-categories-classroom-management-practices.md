@@ -27,7 +27,7 @@ The article organizes evidence-based classroom management practices, drawing on 
 #### Requirements
 - Practices must be actions performed by the classroom teacher in the context of the classroom, implemented universally with the entire class
 #### Constraints
-- The taxonomy is attributed to a prior review (Simonsen et al., 2008) rather than derived in this article
+- The taxonomy is attributed to a prior review ([Simonsen et al., 2008](https://doi.org/10.1353/etc.0.0007)) rather than derived in this article
 
 ### Target Learners
 - School-aged children in kindergarten through grade 12, ages 5-18

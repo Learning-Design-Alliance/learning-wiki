@@ -87,9 +87,9 @@ Self-talk interventions show reliable small-to-moderate benefits for motor perfo
 - [Normalizing Error](normalizing-error.md) — the classroom climate that makes reframing credible
 
 ## Examples
-- **Sport psychology cue-word training**: Athletes rehearse instructional cues ("smooth," "eyes up") before skill execution — the setting with the strongest meta-analytic support (Hatzigeorgiadis et al., 2011).
+- **Sport psychology cue-word training**: Athletes rehearse instructional cues ("smooth," "eyes up") before skill execution — the setting with the strongest meta-analytic support ([Hatzigeorgiadis et al., 2011](https://doi.org/10.1177/1745691611413136)).
 - **Test-anxiety reframing journals**: Students write their worry, then reframe it ("this arousal means my body is ready") before an exam, drawing on arousal-reappraisal research.
-- **Distanced self-talk prompts**: A course LMS nudge asks students to write advice to themselves using their own name before a high-stakes assignment (Kross et al., 2014).
+- **Distanced self-talk prompts**: A course LMS nudge asks students to write advice to themselves using their own name before a high-stakes assignment ([Kross et al., 2014](https://doi.org/10.1037/a0035173)).
 - **Ramirez & Beilock expressive writing intervention** — students write about test worries for 10 minutes before an exam; anxious students show significant score improvements, especially in high-stakes math testing.
 - **Yo Yo Ma's "play it through" reframing** — performance educators teach musicians to replace "don't mess up" with process cues ("listen to the phrase"), a standard technique in performance-psychology coaching.
 - **SEL curricula such as Second Step** (https://www.secondstep.org) include self-talk identification and replacement lessons in which students practice turning "I can't" statements into strategy statements during collaborative work.

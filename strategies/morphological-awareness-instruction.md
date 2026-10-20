@@ -19,7 +19,7 @@ Morphological awareness instruction teaches learners to recognize and manipulate
 
 ## Design Implications
 
-Morphological instruction leverages the systematic structure of English — the majority of multisyllabic words contain morphemes whose spellings remain stable across related words (e.g., *sign* → *signal* → *signature*), so teaching morphology gives learners a generative tool rather than a list of items to memorize. Meta-analytic evidence shows morphological interventions improve literacy outcomes, with the strongest effects on decoding, spelling, and vocabulary, and meaningful transfer to comprehension [Goodwin & Ahn, 2013] [+S]. Because morphological analysis is itself a problem-solving activity, it works best when learners actively generate and test hypotheses about word structure rather than memorizing affix lists — consistent with [Active Learning](../principles/active-learning.md) principles.
+Morphological instruction leverages the systematic structure of English — the majority of multisyllabic words contain morphemes whose spellings remain stable across related words (e.g., *sign* → *signal* → *signature*), so teaching morphology gives learners a generative tool rather than a list of items to memorize. Meta-analytic evidence shows morphological interventions improve literacy outcomes, with the strongest effects on decoding, spelling, and vocabulary, and meaningful transfer to comprehension ([Goodwin & Ahn, 2013](https://doi.org/10.1080/10888438.2012.689791)) [+S]. Because morphological analysis is itself a problem-solving activity, it works best when learners actively generate and test hypotheses about word structure rather than memorizing affix lists — consistent with [Active Learning](../principles/active-learning.md) principles.
 
 ### Context
 #### Requirements
@@ -30,7 +30,7 @@ Morphological instruction leverages the systematic structure of English — the 
 
 #### Constraints
 - Rote memorization of affix definitions without word-family analysis produces weak, non-transferable knowledge [-M]
-- Effects are smaller for comprehension than for word-level outcomes, and comprehension gains require extended instruction with application in connected text [Goodwin & Ahn, 2013] [~M]
+- Effects are smaller for comprehension than for word-level outcomes, and comprehension gains require extended instruction with application in connected text ([Goodwin & Ahn, 2013](https://doi.org/10.1080/10888438.2012.689791)) [~M]
 - For very young learners still consolidating letter-sound mapping, heavy morphological emphasis can compete with foundational phonics time [~W]
 - Learners with limited oral vocabulary have fewer base words to anchor analysis to, reducing the strategy's leverage [-M]
 

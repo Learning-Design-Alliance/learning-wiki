@@ -132,7 +132,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 On 2026-10-19 (wave 2) the other twenty-three links the orphan-claim linker had added in a `## Claims` section were read and moved into the model: the evidence-base and outcome claims, staff against peer tutoring, the de Grave et al. (2001) recall trial, pre-test prediction, self-generated learning issues, the productive-failure qualifications (solution rates, the non-STEM replication failure, the piloted problem, the small-group variance study, the second-hand "deeper learning" account), lectures alongside PBL, the discussion-analysis studies, the unanswered conceptual question, group size, online drift, the AI rows and the preparation strategy.
 
-The twelve claims listed here before that wave were read against the model on 2026-10-19 (wave 1) and now sit in it: prior knowledge before discussion (Van Blankenstein et al. 2013), whole and part tasks, the ninth-grade productive-failure experiment, the collaboration-skills and group-products rows (Murray-Harvey et al. 2013), the scripted-unit row and the AI and self-paced rows.
+The twelve claims listed here before that wave were read against the model on 2026-10-19 (wave 1) and now sit in it: prior knowledge before discussion (Van Blankenstein et al. 2013), whole and part tasks, the ninth-grade productive-failure experiment, the collaboration-skills and group-products rows ([Murray-Harvey et al. 2013](https://eric.ed.gov/?id=EJ1108330)), the scripted-unit row and the AI and self-paced rows.
 
 ## Illustrative design instance and observation record
 

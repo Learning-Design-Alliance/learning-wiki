@@ -89,8 +89,8 @@ Collaborative writing works because composing together forces learners to articu
 
 ## Examples
 - A high school English class co-writes a research paper in Google Docs: each student owns a section, peers comment against a rubric, the teacher reviews version history for individual contribution, and the final paper is posted to a class blog.
-- Second-language courses use shared documents for collaborative paragraph construction, with pairs negotiating sentence-level choices — a setup shown to produce more attention to language form than solo writing (Storch, 2005).
-- University writing programs use scaffolded web-based reciprocal peer review (SWoRD, now Peerceptiv, https://peerceptiv.com) to manage large-scale peer feedback with accountability built in (Cho & Schunn, 2007).
+- Second-language courses use shared documents for collaborative paragraph construction, with pairs negotiating sentence-level choices — a setup shown to produce more attention to language form than solo writing ([Storch, 2005](https://doi.org/10.1016/j.jslw.2005.05.002)).
+- University writing programs use scaffolded web-based reciprocal peer review (SWoRD, now Peerceptiv, https://peerceptiv.com) to manage large-scale peer feedback with accountability built in ([Cho & Schunn, 2007](https://doi.org/10.1016/j.compedu.2005.02.004)).
 
 ## Key Sources
 - Storch, N. (2005). Collaborative writing: Product, process, and students' reflections. *Journal of Second Language Writing, 14*(3), 153–173. [doi:10.1016/j.jslw.2005.05.002](https://doi.org/10.1016/j.jslw.2005.05.002)

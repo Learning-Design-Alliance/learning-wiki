@@ -19,7 +19,7 @@ Virtual reality (VR) simulations place learners inside an interactive, computer-
 
 ## Design Implications
 
-VR's core pedagogical value is safe, repeatable practice of procedural and spatial tasks with immediate feedback, which meta-analytic evidence supports over conventional instruction, particularly in health professions and technical training [Kyaw et al., 2019] [+M]. However, immersion is not instruction: VR's novelty and sensory richness impose extraneous load, and learning gains depend on embedding sound instructional design (clear objectives, guidance, debriefing) inside the simulation [Makransky & Mayer, 2022] [~M]. The medium amplifies whatever design it contains — a well-structured simulation teaches; a poorly structured one merely entertains.
+VR's core pedagogical value is safe, repeatable practice of procedural and spatial tasks with immediate feedback, which meta-analytic evidence supports over conventional instruction, particularly in health professions and technical training ([Kyaw et al., 2019](https://doi.org/10.2196/12959)) [+M]. However, immersion is not instruction: VR's novelty and sensory richness impose extraneous load, and learning gains depend on embedding sound instructional design (clear objectives, guidance, debriefing) inside the simulation [Makransky & Mayer, 2022] [~M]. The medium amplifies whatever design it contains — a well-structured simulation teaches; a poorly structured one merely entertains.
 
 ### Context
 #### Requirements
@@ -36,13 +36,13 @@ VR's core pedagogical value is safe, repeatable practice of procedural and spati
 - Unstructured "exploration" in open virtual environments often produces wandering rather than learning [~M]
 
 #### Implementation Variability
-- **Fully immersive (headset)** vs. **desktop simulation** — desktop versions often achieve comparable learning outcomes at far lower cost [Kyaw et al., 2019] [~M]
+- **Fully immersive (headset)** vs. **desktop simulation** — desktop versions often achieve comparable learning outcomes at far lower cost ([Kyaw et al., 2019](https://doi.org/10.2196/12959)) [~M]
 - **Procedural rehearsal** (surgical steps, lab safety) vs. **decision rehearsal** (triage, crisis management) vs. **spatial exploration** (anatomy, field sites)
 - **Single-user** vs. **multi-user collaborative scenarios** with role assignment
 - **360° video** as a low-cost middle ground for observational (non-manipulative) learning
 
 ### Target Learners
-- Novices in high-stakes procedural domains (medicine, aviation, laboratory science, trades) who need safe rehearsal before real performance [Kyaw et al., 2019] [+M]
+- Novices in high-stakes procedural domains (medicine, aviation, laboratory science, trades) who need safe rehearsal before real performance ([Kyaw et al., 2019](https://doi.org/10.2196/12959)) [+M]
 - Learners who benefit from spatial/embodied understanding of structures and processes that are hard to convey in 2D [~M]
 - Less valuable for learners whose goals are purely verbal, conceptual, or argumentative — the added immersion adds cost without adding learning [Makransky & Mayer, 2022] [~M]
 

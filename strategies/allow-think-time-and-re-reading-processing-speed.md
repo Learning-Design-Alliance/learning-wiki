@@ -66,7 +66,7 @@ Extending wait-time beyond the typical sub-second classroom pause changes both t
 - [Support youth with confirmed slow processing speed through acceptance, advocacy, accommodations, extended time, time-management teaching, and assistive technology](accommodations-extended-time-assistive-tech-slow-ps.md)
 
 ## Examples
-- **Wait-time in science discourse**: Rowe's classic studies found that extending teacher wait-time from ~1 to 3+ seconds increased student response length, student-initiated questions, and participation by slower responders (Rowe, 1974).
+- **Wait-time in science discourse**: Rowe's classic studies found that extending teacher wait-time from ~1 to 3+ seconds increased student response length, student-initiated questions, and participation by slower responders ([Rowe, 1974](https://doi.org/10.1002/tea.3660110202)).
 - **[CAST UDL Guidelines](https://udlguidelines.cast.org)** — "Multiple Means of Action & Expression" explicitly calls for varied response times and self-paced options as a design standard, not an accommodation add-on.
 - **Extended-time testing**: Standard accommodation for students with processing-speed diagnoses (e.g., 1.5× time on timed assessments), widely implemented in K–12 IEPs/504 plans and university disability services.
 - **Recorded micro-lectures**: Instructors posting short captioned videos (e.g., via Panopto or YouTube) let students pause, rewind, and re-read captions — a scalable form of re-reading support.

@@ -62,7 +62,7 @@ Visual organizers work by making relational structure explicit, reducing the wor
 - [Concept Mapping](../elements/concept-mapping.md) — the learner-constructed, node-and-link form of this strategy
 
 ## Examples
-- **Ausubel's advance organizer** — a short expository passage comparing a new topic to familiar concepts before a lesson, the original formulation of the strategy (Ausubel, 1960).
+- **Ausubel's advance organizer** — a short expository passage comparing a new topic to familiar concepts before a lesson, the original formulation of the strategy ([Ausubel, 1960](https://doi.org/10.1037/h0046669)).
 - **Inspiration / Kidspiration (https://www.inspiration.com)** — diagramming software widely used in K–12 for student-built concept maps and webs.
 - **Biological Science Curriculum Study (BSCS 5E)** — units that open with a graphic organizer students return to and complete across the engage–explain–elaborate phases.
 - **History timelines and comparison matrices** — common in AP courses, where students build matrices contrasting causes and outcomes across events.

@@ -55,7 +55,7 @@ Solving the task first converts the instructor's tacit expertise into usable ped
 2. Solve it, narrating or noting your own decision points, hesitations, and dead ends (a private [Think-Aloud](../elements/think-aloud.md)).
 3. Solve it at least one additional way, ideally the way a novice might attempt it.
 4. List anticipated learner strategies, common errors, and the questions that would move a stuck learner forward without giving away the path.
-5. Plan which strategies to sequence during discussion and how to connect them to the target concept [Stein et al., 2008] [+M].
+5. Plan which strategies to sequence during discussion and how to connect them to the target concept ([Stein et al., 2008](https://doi.org/10.1080/10986060802229675)) [+M].
 6. After instruction, compare anticipations with actual learner work and revise.
 
 ## Related Strategies
@@ -68,7 +68,7 @@ Solving the task first converts the instructor's tacit expertise into usable ped
 ## Examples
 - **Five Practices for Orchestrating Productive Mathematics Discussions** (Smith & Stein, 2011) — "anticipating" is the first practice: teachers solve the task, generate likely student strategies, and plan monitoring questions before the lesson.
 - **[Cognitively Guided Instruction](cognitively-guided-instruction.md) (CGI)** — teachers solve word problems and map the strategy continuum children typically use, so instruction starts from anticipated student thinking rather than the textbook procedure.
-- **Productive Failure lessons (Kapur)** — the instructor designs the task having already mapped canonical and non-canonical solution paths, so that learner-generated (often failed) attempts can be consolidated into the expert solution [Kapur, 2012] [+S].
+- **Productive Failure lessons (Kapur)** — the instructor designs the task having already mapped canonical and non-canonical solution paths, so that learner-generated (often failed) attempts can be consolidated into the expert solution ([Kapur, 2012](https://doi.org/10.1007/s11251-012-9209-6)) [+S].
 
 ## Key Sources
 - Stein, M. K., Engle, R. A., Smith, M. S., & Hughes, E. K. (2008). Orchestrating productive mathematical discussions: Five practices for helping teachers move beyond show and tell. *Mathematical Thinking and Learning, 10*(4), 313–340. [doi:10.1080/10986060802229675](https://doi.org/10.1080/10986060802229675)

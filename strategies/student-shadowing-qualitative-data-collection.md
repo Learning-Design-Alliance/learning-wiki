@@ -39,7 +39,7 @@ Shadowing operationalizes the principle that students hold expert knowledge abou
 #### Implementation Variability
 - **Full-day shadowing** (the classic form): maximum ecological validity, high time cost
 - **Partial shadowing**: a single class block or transition period, repeated across students — cheaper, less holistic
-- **Paired or reciprocal shadowing**: students shadow each other and report; shifts authority toward students [Fielding, 2001]
+- **Paired or reciprocal shadowing**: students shadow each other and report; shifts authority toward students ([Fielding, 2001](https://doi.org/10.1023/a:1017949213447))
 - **Shadow-a-learner programs in higher education and professional training**: faculty shadow students through a course or program to diagnose friction points in [learning experience design](../principles/cognitive-load-management.md)
 - **Structured empathy walks**: shadowing focused specifically on transitions, movement, and unstructured time
 
@@ -69,7 +69,7 @@ Shadowing operationalizes the principle that students hold expert knowledge abou
 
 ## Examples
 - **Shadow a Student Challenge** (School Retool / Stanford d.school) — a structured program in which school leaders shadow a student for a day and use empathy-based debrief protocols to drive school redesign ([https://www.schoolretool.org](https://www.schoolretool.org))
-- **UK "student voice" research programs** — Fielding's work with schools treating students as radical agents of change, including reciprocal observation and co-inquiry structures [Fielding, 2001]
+- **UK "student voice" research programs** — Fielding's work with schools treating students as radical agents of change, including reciprocal observation and co-inquiry structures ([Fielding, 2001](https://doi.org/10.1023/a:1017949213447))
 - **Higher education "shadow a student" initiatives** — faculty and advisors shadow students through registration, advising, and a full course day to identify bureaucratic and navigational friction points
 
 ## Key Sources

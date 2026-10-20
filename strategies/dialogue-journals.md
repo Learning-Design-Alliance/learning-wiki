@@ -67,7 +67,7 @@ Dialogue journals convert writing from a performance to be judged into authentic
 
 ## Examples
 - **National Writing Project classrooms** — teachers use dialogue journals across grade levels as core writing-fluency practice; see [https://www.nwp.org](https://www.nwp.org)
-- **ESL adult education (Peyton, 2000)** — dialogue journals used with adult English learners, with teachers responding in slightly extended language to scaffold development
+- **ESL adult education ([Peyton, 2000](https://www.eric.ed.gov/?id=ED441298))** — dialogue journals used with adult English learners, with teachers responding in slightly extended language to scaffold development
 - **Interactive science notebooks** — students pose questions about lab phenomena in a journal section; the teacher responds before the next investigation, steering inquiry
 
 ## Key Sources

@@ -20,7 +20,7 @@ sources:
 > **Evidence** · no claims cited
 
 ## Description
-The brief advises selecting specific programs or strategies based on a needs assessment or analysis of schoolwide data to determine how, why, and to what ends to implement mindfulness, examining points in the day when behavioral reactivity increases and developmentally appropriate strategies. It names validated programs: the ".b" curriculum (Sanger & Dorjee, 2016), Learning to BREATHE for adolescents (Metz et al., 2013; 6–18 sessions), and MindUP for ages 3–14, "shown to increase prosocial actions, decrease aggressive behaviors, and improve academic achievement" (Schonert-Reichl et al., 2015).
+The brief advises selecting specific programs or strategies based on a needs assessment or analysis of schoolwide data to determine how, why, and to what ends to implement mindfulness, examining points in the day when behavioral reactivity increases and developmentally appropriate strategies. It names validated programs: the ".b" curriculum (Sanger & Dorjee, 2016), Learning to BREATHE for adolescents (Metz et al., 2013; 6–18 sessions), and MindUP for ages 3–14, "shown to increase prosocial actions, decrease aggressive behaviors, and improve academic achievement" ([Schonert-Reichl et al., 2015](https://doi.org/10.1037/a0038454)).
 
 ## Design Implications
 

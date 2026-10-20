@@ -19,7 +19,7 @@ A wall calendar is a persistent, externally visible representation of upcoming e
 
 ## Design Implications
 
-Externalizing time structure reduces working-memory and prospective-memory demands, freeing attention for the tasks themselves [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Combining color coding with spatial layout exploits dual coding — verbal and visual channels — which improves recall over verbal reminders alone (Paivio, 1991) [+M]. The calendar's real learning value comes from the learner *using* it — checking, adding, and anticipating events — which builds self-monitoring routines rather than passive awareness; self-monitoring is a core phase of self-regulated learning (Zimmerman, 2002) [+M].
+Externalizing time structure reduces working-memory and prospective-memory demands, freeing attention for the tasks themselves [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+M]. Combining color coding with spatial layout exploits dual coding — verbal and visual channels — which improves recall over verbal reminders alone ([Paivio, 1991](https://doi.org/10.1037/h0084295)) [+M]. The calendar's real learning value comes from the learner *using* it — checking, adding, and anticipating events — which builds self-monitoring routines rather than passive awareness; self-monitoring is a core phase of self-regulated learning ([Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2)) [+M].
 
 ### Context
 #### Requirements
@@ -42,13 +42,13 @@ Externalizing time structure reduces working-memory and prospective-memory deman
 - Digital shared calendars as a parallel or substitute, though the always-visible wall version better supports incidental checking
 
 ### Target Learners
-- School-age children developing independent time management; external planning tools support the forethought and self-monitoring phases of self-regulated learning (Zimmerman, 2002) [+M]
-- Learners who benefit from predictable, visible routines, including those with executive-function difficulties or autism — visual schedules are a core TEACCH component (Mesibov et al., 2004) [+M]
+- School-age children developing independent time management; external planning tools support the forethought and self-monitoring phases of self-regulated learning ([Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2)) [+M]
+- Learners who benefit from predictable, visible routines, including those with executive-function difficulties or autism — visual schedules are a core TEACCH component ([Mesibov et al., 2004](https://doi.org/10.1007/978-0-306-48647-0)) [+M]
 - Whole families or classrooms coordinating shared responsibilities
 
 ### Target Learning Goals
 - Prospective memory: anticipating upcoming events and deadlines
-- Self-regulation: planning and monitoring one's own commitments (Zimmerman, 2002) [+M]
+- Self-regulation: planning and monitoring one's own commitments ([Zimmerman, 2002](https://doi.org/10.1207/s15430421tip4102_2)) [+M]
 - Social awareness: understanding how one's schedule interlocks with others', fostering shared responsibility
 
 ### Instructions
@@ -70,7 +70,7 @@ Externalizing time structure reduces working-memory and prospective-memory deman
 
 ## Examples
 - A family uses a kitchen wall calendar with one marker color per child; each Sunday evening the family reviews the week, and children add their own events — building anticipation skills and reducing morning reminders.
-- A TEACCH-style classroom visual schedule gives students individual picture calendars they check and mark off across the day, supporting transitions for learners with autism (Mesibov et al., 2004).
+- A TEACCH-style classroom visual schedule gives students individual picture calendars they check and mark off across the day, supporting transitions for learners with autism ([Mesibov et al., 2004](https://doi.org/10.1007/978-0-306-48647-0)).
 - A teacher maintains a classroom assignment calendar that students update with project deadlines, then transfers the routine to student-maintained planners as the term progresses.
 
 ## Key Sources

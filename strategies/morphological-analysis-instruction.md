@@ -83,7 +83,7 @@ Morphological analysis converts vocabulary learning from rote memorization of th
 - Less effective as a starting point for beginners still consolidating phonemic decoding [~S]
 - Struggling spellers and students with dyslexia, who benefit from meaning-based spelling strategies that supplement phonological decoding [~S]
 - English learners, for whom morphological awareness transfers from many first languages [~M]
-- Struggling readers and students with dyslexia, who benefit from a structural, meaning-based supplement to phonics [Goodwin & Ahn, 2013] [+M]
+- Struggling readers and students with dyslexia, who benefit from a structural, meaning-based supplement to phonics ([Goodwin & Ahn, 2013](https://doi.org/10.1080/10888438.2012.689791)) [+M]
 - Upper-elementary and middle-grade learners encountering Latinate academic vocabulary, where morphological analysis has the highest payoff [Bowers, Kirby, & Deacon, 2010] [+M]
 - Less effective as a stand-alone intervention for students who cannot yet decode single-syllable words [~M]
 

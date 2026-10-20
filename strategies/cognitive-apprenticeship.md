@@ -68,7 +68,7 @@ Cognitive apprenticeship works because it externalizes the tacit decision-making
 - [Video modeling examples with expert narration revealing covert cognitive processing](video-modeling-examples-expert-narration.md)
 
 ## Examples
-- **Reciprocal Teaching of reading** (Palincsar & Brown, 1984): teachers model predicting, questioning, clarifying, and summarizing, then students rotate the leader role while support fades — produced large comprehension gains in classroom trials.
+- **Reciprocal Teaching of reading** ([Palincsar & Brown, 1984](https://doi.org/10.1207/s1532690xci0102_1)): teachers model predicting, questioning, clarifying, and summarizing, then students rotate the leader role while support fades — produced large comprehension gains in classroom trials.
 - **Live coding in CS education**: instructors write real programs in class, verbalizing design tradeoffs and debugging, before students attempt paired programming exercises.
 - **Clinical rotations** in medical education: attendings model diagnostic reasoning on real cases, then observe and coach students' workups, progressively handing over responsibility.
 - **[Writing conferences](writing-conferences.md)** in process-writing classrooms: teachers model revision decisions on their own drafts, then coach students through revising theirs.

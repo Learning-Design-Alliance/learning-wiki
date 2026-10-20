@@ -56,7 +56,7 @@ Noise competes directly for the same limited resources that [Cognitive Load Mana
 2. **Treat the physics first.** Add absorptive materials and seal or buffer noise pathways before adopting behavioral fixes; reverberation undermines everything downstream.
 3. **Set explicit sound norms.** Establish voice levels and movement expectations for each activity type; reinforce them with [Check-Ins](../principles/check-ins.md) rather than punitive monitoring.
 4. **Match activity to acoustics.** Schedule discussion-heavy work in acoustically tolerant zones and protect quiet zones for reading and writing; use [Chunking](../principles/chunking.md) to shorten the stretches of work that require full quiet.
-5. **Protect instructional audio.** For any recorded or amplified instruction, ensure clean signal, no competing audio, and captions — consistent with the coherence principle in multimedia design [Clark & Mayer, 2016] [+S].
+5. **Protect instructional audio.** For any recorded or amplified instruction, ensure clean signal, no competing audio, and captions — consistent with the coherence principle in multimedia design ([Clark & Mayer, 2016](https://doi.org/10.1002/9781119239086)) [+S].
 6. **Monitor and adjust.** Re-check conditions seasonally (HVAC changes) and after room reconfigurations; flexible furniture often degrades acoustics silently.
 
 ## Related Strategies

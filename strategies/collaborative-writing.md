@@ -57,7 +57,7 @@ Collaborative writing improves text quality because co-authors must articulate a
 - Intermediate writers who have enough command of conventions to give and use substantive feedback [Collaborative writing improves text quality.](../claims/collaborative-writing-improves-text-quality.md) [+M]
 - L2 and developmental writers, who benefit from hearing how peers phrase and justify choices — provided participation is structured
 - Less beneficial for complete novices, who may lack the criteria to evaluate a peer's draft and can absorb poor models
-- Adolescent and post-secondary writers, for whom structured collaboration shows the largest quality gains [Graham & Perin, 2007] [+S]
+- Adolescent and post-secondary writers, for whom structured collaboration shows the largest quality gains ([Graham & Perin, 2007](https://doi.org/10.1037/0022-0663.99.3.445)) [+S]
 - Second-language writers, who benefit from negotiating meaning and form with peers [~M]
 - Less effective as a substitute for individual writing instruction for novices who have not yet automated basic mechanics; best used alongside, not instead of, independent practice [~M]
 
