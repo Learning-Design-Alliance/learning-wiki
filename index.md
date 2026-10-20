@@ -52,7 +52,7 @@ Explanatory frameworks that ground principles and claims.
 ### [Learner Variables](learner-variables/index.md) (75)
 Canonical learner characteristics claims report findings about — one page per variable, so the same concept does not fragment across differently-worded tags.
 
-### [Claims](claims/index.md) (22546)
+### [Claims](claims/index.md) (22548)
 Empirical claims with evidence ratings, sources, and competing views.
 
 ---
@@ -66,4 +66,4 @@ Empirical claims with evidence ratings, sources, and competing views.
 
 **As an agent**: read `CLAUDE.md` first. Use `index.md` as your entry point, follow the markdown links in each page to traverse the graph, and use `grep` for targeted search.
 
-**As a human**: browse the folder indexes above, or open the [docs site](https://learning-design-alliance.github.io/learning-wiki/). Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. Pages marked `status: draft` are stubs or unreviewed; `review` pages have content that needs an expert's check.
+**As a human**: browse the folder indexes above, or search from the box at the top of every page (on GitHub, read the wiki at [wiki.learningdesignalliance.org](https://wiki.learningdesignalliance.org/)). Evidence tags (**[+S]**, **[+M]**, **[~M]**, **[-W]**) indicate claim support strength. Pages marked `status: draft` are stubs or unreviewed; `review` pages have content that needs an expert's check.

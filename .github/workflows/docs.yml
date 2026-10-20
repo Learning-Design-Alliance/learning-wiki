@@ -75,3 +75,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
           keep_files: false
+          # The custom domain lives in gh-pages/CNAME. keep_files: false replaces the branch,
+          # so without this every deploy deleted it and the domain fell back to a 404.
+          cname: wiki.learningdesignalliance.org
