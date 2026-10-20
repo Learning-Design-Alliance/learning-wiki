@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study - Learning Design Wiki</title>
+<title>In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI - Learning Design Wiki</title>
 <link rel="icon" href="../../branding/lda-monogram-dawn.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../../assets/stylesheets/main.ec1eaa64.min.css">
 <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
@@ -24,10 +24,10 @@
 <form class="lt-header-search" action="../../search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>
 <main class="lt-main"><article class="md-typeset" data-pagefind-body data-pagefind-filter="kind:Claim">
-<h1 id="removing-the-behavioral-safety-constraint-c3-causes-degenerate-policy-collapse-to-near-single-action-policies-making-c3-the-most-influential-safeguard-in-the-ablation-study">Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study<a class="headerlink" href="#removing-the-behavioral-safety-constraint-c3-causes-degenerate-policy-collapse-to-near-single-action-policies-making-c3-the-most-influential-safeguard-in-the-ablation-study" title="Permanent link">&para;</a></h1>
+<h1 id="in-a-simulated-tutoring-agent-removing-the-behavioral-safety-constraint-c3-appears-to-cause-collapse-to-near-single-action-policies-which-the-authors-read-as-c3-being-the-most-influential-safeguard-though-its-ablation-does-not-differ-significantly-from-removing-c1-in-rhsi">In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI<a class="headerlink" href="#in-a-simulated-tutoring-agent-removing-the-behavioral-safety-constraint-c3-appears-to-cause-collapse-to-near-single-action-policies-which-the-authors-read-as-c3-being-the-most-influential-safeguard-though-its-ablation-does-not-differ-significantly-from-removing-c1-in-rhsi" title="Permanent link">&para;</a></h1>
 <blockquote>
 <p><strong>Claim</strong> · <a href="../">All claims</a><br />
-<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code></p>
+<strong>Evidence</strong> · 1 study (2 entries) · causal <code>r2</code> · <code>q2</code> · <code>i3</code> large</p>
 </blockquote>
 <h2 id="subclaims">Subclaims<a class="headerlink" href="#subclaims" title="Permanent link">&para;</a></h2>
 <details class="info">
@@ -36,12 +36,12 @@
 the rigour judged within that kind: <a href="../evidence-codes/">what each code means</a>.</p>
 <p><strong>This claim:</strong> no standardized effect is recorded in <code>observations/</code> for it yet, so no benchmark reading is possible.</p>
 </details>
-<p><code>q2 i?</code> Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. <a href="#oluseyi-olukolaa-2026">→ Oluseyi Olukolaa 2026</a>
-<code>q2 i?</code> Removing C1 raises RHSI by +0.138, apparently mediated through C3-related degradation of action diversity rather than direct prerequisite violations. <a href="#oluseyi-olukolaa-2026-2">→ Oluseyi Olukolaa 2026 (2)</a></p>
+<p><code>q2 i3</code> Without the C3 action filter, single actions account for 85–93% of interactions in some seeds, C3 violation rises to 68.3%, and pedagogical appropriateness drops from 1.000 to 0.899. <a href="#oluseyi-olukolaa-2026">→ Oluseyi Olukolaa 2026</a>
+<code>q2 i?</code> Removing C1 raises RHSI by +0.138; the authors interpret this as appearing to be mediated through C3-related degradation of action diversity rather than direct prerequisite violations, an explanation they do not test directly. <a href="#oluseyi-olukolaa-2026-2">→ Oluseyi Olukolaa 2026 (2)</a></p>
 <h2 id="evidence">Evidence<a class="headerlink" href="#evidence" title="Permanent link">&para;</a></h2>
 <h3 id="oluseyi-olukolaa-2026">Oluseyi Olukolaa 2026<a class="headerlink" href="#oluseyi-olukolaa-2026" title="Permanent link">&para;</a></h3>
 <p>Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237 <a href="https://doi.org/10.48550/arxiv.2604.04237">doi:10.48550/arxiv.2604.04237</a></p>
-<p><code>q2 · i?</code> · <code>causal · r2</code></p>
+<p><code>q2 · i3 · large effect, d=−1.42</code> · <code>causal · r2</code></p>
 <p>Ablation simulation (No-C3 condition, 30 sessions under identical protocol). The No-C3 ablation's C3 violation rate of 68.3% approaches EO's 70.8%; inappropriate actions rise from 0 to 15–18 per session. ST vs. No-C3 RHSI difference is Bonferroni-significant (d=−1.42).</p>
 <blockquote>
 <p>"Removing C3 appears to cause degenerate policy collapse.Without the action filter, the agent does not merely "hack slightly"—it collapses to near-single-actionpolicies."</p>
@@ -49,7 +49,7 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 <h3 id="oluseyi-olukolaa-2026-2">Oluseyi Olukolaa 2026 (2)<a class="headerlink" href="#oluseyi-olukolaa-2026-2" title="Permanent link">&para;</a></h3>
 <p>Oluseyi Olukolaa, Nick Rahimia. (2026). Pedagogical Safety in Educational Reinforcement Learning: Formalizing and Detecting Reward Hacking in AI Tutoring Systems. arXiv. https://arxiv.org/abs/2604.04237</p>
 <p><code>q2 · i?</code> · <code>causal · r2</code></p>
-<p>No-C1 ablation (30 sessions): mastery gains comparable to full framework and pedagogical appropriateness of 1.000, but RHSI degradation of +0.138. The two ablations do not differ significantly from each other (t(47)=−1.08, p=.285).</p>
+<p>No-C1 ablation (30 sessions): mastery gains comparable to full framework and pedagogical appropriateness of 1.000, but RHSI degradation of +0.138. The two ablations do not differ significantly from each other (t(47)=−1.08, p=.285); the authors rest C3's primacy on the nature of its failure mode, policy collapse, rather than on an RHSI gap.</p>
 <blockquote>
 <p>"The C3 violation rate rises to 60.4% not because the agent exploits prerequisite violations, but apparently because without the knowledge graph structuring exploration, the agent’s action diversity degrades."</p>
 </blockquote>
@@ -81,11 +81,11 @@ the rigour judged within that kind: <a href="../evidence-codes/">what each code 
 </tr>
 <tr>
 <td><code>title</code></td>
-<td><code>Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study</code></td>
+<td><code>In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI</code></td>
 </tr>
 <tr>
 <td><code>description</code></td>
-<td><code>Removing the behavioral-safety constraint (C3) causes degenerate policy collapse to near-single-action policies, making C3 the most influential safeguard in the ablation study</code></td>
+<td><code>In a simulated tutoring agent, removing the behavioral-safety constraint (C3) appears to cause collapse to near-single-action policies, which the authors read as C3 being the most influential safeguard, though its ablation does not differ significantly from removing C1 in RHSI</code></td>
 </tr>
 <tr>
 <td><code>status</code></td>

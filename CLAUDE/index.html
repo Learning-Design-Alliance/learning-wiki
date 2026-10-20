@@ -2126,9 +2126,12 @@ work is done, not that the check is broken.</p>
   setting's design (a course, a lesson sequence, one site's implementation); a branded programme many
   sites adopt is a product. A <strong>research method</strong> is a method for studying learning or evaluating
   education that is specific to education or especially useful there (cluster-randomised trials of
-  schools, evidence standards, design-based research, knowledge tracing, growth and value-added models).
+  schools, evidence standards, knowledge tracing, growth and value-added models).
   <strong>General social-science methods are not pages</strong> (maintainer: "regular old social science research
-  methods are not that useful in a database like this"). <code>methods/</code> stays the <em>design</em> methods.</p>
+  methods are not that useful in a database like this"). <code>methods/</code> stays the <em>design</em> methods.
+  <strong>Design-based research is a design process</strong> (<code>processes/design-based-research</code>), not a research method
+  (maintainer, 2026-10-20). <code>research-methods/</code> is secondary and may eventually go away, so where a page
+  could sit in either, it belongs with the design side.</p>
 </li>
 </ul>
 <p><strong>When you finish something wiki-wide, add a dated entry at the top of
@@ -2883,6 +2886,14 @@ name still resolves. Empty fields on a thousand pages train a reader to skip the
 whether <code>foo</code> is a current slug or a retired one, so two pages answering to it is ambiguous
 however that came about — which is the case lint catches that filename-uniqueness never
 could, filenames being unique by construction.</p>
+<p><strong>A page moved to another kind keeps its old id through <code>moved_from:</code></strong> (2026-10-20). Aliases live
+inside one kind, so a page folded or re-filed into another kind (a programme filed as a strategy,
+now a product) left <code>strategy: good-behavior-game</code> resolving to nothing. The page it went to lists
+the old kind-qualified ids, <code>moved_from: [strategy/good-behavior-game]</code>; <code>build_wiki_index.py</code>
+publishes them as a separate <code>moved</code> map in <code>wiki-index.json</code> (<code>{old kind: {old slug: "new kind/new
+slug"}}</code>, additive, so <code>resolve</code> keeps its shape), and the MCP <code>resolve</code> tool follows it.
+<code>merge_pages.py</code> writes it on every cross-kind fold. 1,570 retired ids were backfilled from git
+history and the merged-from comments; a page deliberately removed is never given a redirect.</p>
 <p>Both YAML spellings are read (<code>aliases: [a, b]</code> and the block form), because both are
 written here — <code>page_identity.py</code> edits raw frontmatter text inline, while
 <code>ingest_extractions.py</code> builds pages through <code>okf_lib.dump_frontmatter</code>, which emits a
