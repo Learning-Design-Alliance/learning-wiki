@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no effects
-description: Programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no effects
+title: Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects
+description: Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects
 id: flp-center-based-component-negatively-associated
 status: review
 generated:
@@ -19,13 +19,13 @@ sources:
     rigour: 3
 ---
 
-# Programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no effects
+# Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · quant-synthesis `r3` · `q3` · `i0` negligible
 
 ## Subclaims
-`q3 i0` Home-only programs outperformed combined home/center programs on overall, comprehension-related, and code-related outcomes (d = 0.55 vs. 0.11 overall). [→ Suzanne Fikrat-Wevers 2021](#suzanne-fikrat-wevers-2021)
+`q3 i0` Family literacy programs without a parallel teacher-led center- or school-based component outperformed programs combined with one on overall, comprehension-related, and code-related outcomes (d = 0.55 vs. 0.11 overall; 0.59 vs. 0.10 comprehension; 0.54 vs. 0.08 code). [→ Suzanne Fikrat-Wevers 2021](#suzanne-fikrat-wevers-2021)
 
 ## Evidence
 
@@ -35,7 +35,7 @@ Suzanne Fikrat-Wevers, Roel van Steensel, Lidia Arends. (2021). Effects of Famil
 
 `q3 · i0` · `quant-synthesis · r3`
 
-Moderator analysis on immediate posttests (k overall = 48) found combined center-based programs yielded d = 0.11 overall versus d = 0.55 for home-only programs, with significant Q statistics (Q(1) = 9.55** overall).
+Moderator analysis on immediate posttests (k overall = 48) coded whether a family literacy program was combined with a parallel center- or school-based program conducted by teachers. The 6 combined programs yielded d = 0.11 overall (0.10 comprehension, 0.08 code) versus d = 0.55 (0.59, 0.54) for the 42 programs without such a component, with significant moderator tests (Q(1) = 9.55** overall). The combined programs' effects were small and not significantly different from zero. The moderator coded only whether a parallel teacher-led program existed; the authors' discussion describes the other group as programs involving only parent-child activities at home, but parent training sessions were coded separately and could be held at home, at a center or school, or both.
 
 > "Programs without a center-based component yielded medium effects on all three outcome measures, while interventions that offered a center-based component did not demonstrate effects."
 

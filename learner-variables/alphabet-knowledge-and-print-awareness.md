@@ -85,7 +85,7 @@ Both factors come from the LVN's PK-3 literacy area. They lead into [phonologica
 - [Letter sound only instruction may interfere with letter name learning relative to incidental exposure](../claims/ls-only-possible-letter-name-interference.md) [~M] — instruction changes it
 - [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](../claims/flp-medium-immediate-marginal-followup-effect.md) [~M] — instruction changes it
 - [Programs offering only literacy-related activities yield larger effects than programs also targeting other cognitive or socioemotional skills](../claims/flp-literacy-only-programs-larger-effects.md) [+M] — instruction changes it
-- [Programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no effects](../claims/flp-center-based-component-negatively-associated.md) [~M] — instruction changes it
+- [Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects](../claims/flp-center-based-component-negatively-associated.md) [~M] — instruction changes it
 
 ## Measures
 - **Concepts About Print (CAP)** (Clay, 2000): informal assessment of print awareness for kindergarten and first-grade children.

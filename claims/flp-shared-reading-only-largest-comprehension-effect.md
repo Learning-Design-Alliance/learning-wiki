@@ -43,7 +43,7 @@ Moderator analysis on comprehension-related skills (k = 38) found shared-reading
 
 
 ## Related Claims
-- [Programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no effects](flp-center-based-component-negatively-associated.md) — related
+- [Family literacy programs without a center-based component yield medium effects on all outcome measures, while programs with a center-based component show no statistically significant effects](flp-center-based-component-negatively-associated.md) — related
 - [Programs offering only literacy-related activities yield larger effects than programs also targeting other cognitive or socioemotional skills](flp-literacy-only-programs-larger-effects.md) — a broader claim this one bears on
 - [Family literacy programs produce a medium average effect (d = 0.50) on low-SES children's emergent literacy at immediate posttest but only a marginal effect (d = 0.16) at follow-up](flp-medium-immediate-marginal-followup-effect.md) — related
 - [Training in a single setting (home only or center/school only) yields larger comprehension-related effects than training in both contexts or no training](flp-single-setting-training-larger-comprehension-effects.md) — related

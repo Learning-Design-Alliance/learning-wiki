@@ -9,8 +9,8 @@ generated:
   at: 2026-10-20
 sources:
   - id: rowe-1975
-    resource: "https://doi.org/10.2307/1170055"
-    title: "Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.2307/1170055"
+    resource: "https://doi.org/10.3102/00346543045002231"
+    title: "Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.3102/00346543045002231"
     author: "Rowe, W., Murphy, H. B., & De Csipkes, R. A"
 ---
 
@@ -58,4 +58,4 @@ The review recommends replacing the pursuit of an ideal counselor personality wi
 -
 
 ## Key Sources
-- Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.2307/1170055
+- Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.3102/00346543045002231

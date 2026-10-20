@@ -19,8 +19,8 @@ sources:
     kind: review
     rigour: 3
   - id: rowe-1975-2
-    resource: "https://doi.org/10.2307/1170055"
-    title: "Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.2307/1170055"
+    resource: "https://doi.org/10.3102/00346543045002231"
+    title: "Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.3102/00346543045002231"
     author: "Rowe, W., Murphy, H. B., & De Csipkes, R. A."
     q: 2
     i: "?"
@@ -53,7 +53,7 @@ The review cites this study in its discussion of the skills approach, attributin
 
 ### Rowe 1975 (2)
 
-Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.2307/1170055
+Rowe, W., Murphy, H. B., & De Csipkes, R. A. (1975). The Relationship of Counselor Characteristics and Counseling Effectiveness. Review of Educational Research, 45(2), 231-246. https://doi.org/10.3102/00346543045002231
 
 `q2 · i?` · `review · r3`
 
