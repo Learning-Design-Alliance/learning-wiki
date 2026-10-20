@@ -25,6 +25,7 @@ Usage:
 """
 
 import argparse
+import json
 import re
 import sys
 from collections import defaultdict
@@ -284,13 +285,34 @@ def load_all_citations(page_types=PAGE_TYPES) -> dict:
     return by_key
 
 
+DISTINCT_WORKS = WIKI_ROOT / "eval" / "citations" / "distinct-works.ndjson"
+
+
+def distinct_works() -> dict:
+    """{author-year key: (set of DOIs, set of pages)} checked against Crossref and found to be
+    different works, not one paper cited two ways: Ehri (2001) wrote a phonics and a phonemic-
+    awareness meta-analysis with near-identical titles, which title clustering cannot tell apart.
+    `pages` lists citations without a DOI that name yet another work (a report, a chapter)."""
+    out = {}
+    if DISTINCT_WORKS.exists():
+        for line in DISTINCT_WORKS.read_text(encoding="utf-8").splitlines():
+            if line.strip():
+                d = json.loads(line)
+                dois, pages = out.get(d["key"], (set(), set()))
+                out[d["key"]] = (dois | {_normalize_doi(x) for x in d.get("dois", [])},
+                                 pages | set(d.get("pages", [])))
+    return out
+
+
 def find_conflicts(by_key: dict, touched_files: set = None) -> list[dict]:
     """Return (author-year, title-cluster) groups where >1 distinct non-null
     DOI is cited, or where some entries carry a DOI and others (for what
     title-clustering judged the same paper) don't. If touched_files is
     given, only report conflicts involving at least one of those files —
-    used for a targeted post-enrichment-batch check."""
+    used for a targeted post-enrichment-batch check. A group a person or agent
+    has already checked to be distinct works (distinct_works()) is not reported."""
     conflicts = []
+    settled = distinct_works()
     for key, entries in by_key.items():
         if len(entries) < 2:
             continue
@@ -299,9 +321,12 @@ def find_conflicts(by_key: dict, touched_files: set = None) -> list[dict]:
                 continue
             if touched_files and not any(e["source"] in touched_files for e in cluster):
                 continue
+            ok_dois, ok_pages = settled.get(key, (set(), set()))
+            cluster = [e for e in cluster if not (e["doi"] is None and e["source"] in ok_pages)]
             dois = {e["doi"] for e in cluster if e["doi"]}
+            several = len(dois) > 1 and not dois <= ok_dois
             has_missing = any(e["doi"] is None for e in cluster)
-            if len(dois) > 1 or (dois and has_missing):
+            if several or (dois and has_missing):
                 conflicts.append({"key": key, "entries": cluster, "dois": dois})
     return conflicts
 
@@ -570,7 +595,7 @@ def find_title_divergence(by_doi: dict, touched_files: set = None) -> list[dict]
         variants = defaultdict(list)
         for e in entries:
             year = e["key"].rsplit("-", 1)[-1]
-            norm = _norm_title(_extract_title_text(e["line"], year))
+            norm = _norm_title(_extract_title_text(e.get("full_line", e["line"]), year))
             if norm:
                 variants[norm].append(e)
         if len(variants) < 2:

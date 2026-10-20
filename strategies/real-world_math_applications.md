@@ -85,7 +85,7 @@ Authentic contexts can support transfer by helping learners map abstract structu
 - [Anchored Instruction](../elements/anchored-instruction.md) — the scenario-based pattern this strategy most often enacts
 - [Case-Based Learning](../patterns/case-based-learning.md) — extended authentic cases as the vehicle for application
 - [Cognitively Guided Instruction (CGI for Math)](../principles/responsive-teaching.md) — builds on children's informal, context-embedded problem-solving strategies
-- [Productive Failure](../claims/productive-failure-improves-conceptual-learning.md) — letting learners attempt authentic problems before formal instruction
+- [Productive Failure](productive-failure.md) — letting learners attempt authentic problems before formal instruction
 - [Use sequences of problem-situations to progressively contextualize and develop mathematical comprehension of calculus concepts](problem-situation-sequences-progressive-comprehension.md)
 - [Four recommendations for deepening mathematics integration in science investigations](four-recommendations-math-in-science.md)
 

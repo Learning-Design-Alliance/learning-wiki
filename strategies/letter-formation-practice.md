@@ -58,7 +58,7 @@ Handwriting practice builds a motor memory for each letter that supports rapid, 
 5. **Distribute and review** — brief daily sessions, mixing newly taught letters with previously mastered ones, and embedding letters into real words once formed accurately.
 
 ## Related Strategies
-- [Phonics Instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — formation practice pairs with phonics; writing a letter while saying its sound links grapheme and phoneme
+- [Phonics Instruction](phonics-instruction.md) — formation practice pairs with phonics; writing a letter while saying its sound links grapheme and phoneme
 - [Chunking](../principles/chunking.md) — letters grouped by stroke family (c-based, line-based) reduce the number of distinct motor programs to learn
 
 ## Examples

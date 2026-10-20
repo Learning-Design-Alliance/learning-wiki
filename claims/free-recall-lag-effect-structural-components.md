@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: glenberg-1979
     resource: "https://doi.org/10.3758/bf03197590"
-    title: "Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
+    title: "Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590"
     author: Glenberg, A. M.
     q: 2
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Glenberg 1979
 
-Glenberg, A. M. (1979). Component-level theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
+Glenberg, A. M. (1979). Component-levels theory of the effects of spacing of repetitions on recall and recognition. Memory & Cognition, 7(2), 95-112. https://doi.org/10.3758/bf03197590
 
 `q2 · i?` · `causal · r?`
 

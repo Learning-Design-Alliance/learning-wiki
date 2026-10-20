@@ -26,7 +26,7 @@ sources:
 # Improve Classroom Air Quality
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 7 studies (3 quant-synthesis, 2 causal, 1 review, 1 associational), `q1`–`q4` · 2 of 7 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 review, 1 associational), `q1`–`q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Improving classroom air quality means ensuring adequate ventilation, controlling indoor pollutants (CO₂, particulates, volatile organic compounds), and maintaining thermal comfort so that students' physical environment supports rather than undermines cognition and attendance. It is carried out through upgraded ventilation systems, air filtration, low-emission building materials, and continuous monitoring of CO₂ and particulate levels.
@@ -93,7 +93,7 @@ Elevated CO₂ and poor ventilation measurably reduce attention, decision-making
 - Not tied to specific content objectives; serves all goals by protecting attention, working memory capacity, and attendance — the enabling conditions for any instruction
 - Health-related learning goals: modeling source control and ventilation routines doubles as authentic science content (measurement, data interpretation)
 - Not a learning goal in itself — this strategy serves *conditions for learning*: attendance, sustained attention, and working-memory capacity during instruction
-- Indirectly supports every goal that depends on consistent presence and focused cognition, including [spaced practice](../claims/spaced-practice-improves-retention.md) schedules that break down when attendance is erratic
+- Indirectly supports every goal that depends on consistent presence and focused cognition, including [spaced practice](../principles/spaced-learning.md) schedules that break down when attendance is erratic
 
 ### Instructions
 1. Measure baseline conditions — place CO₂ monitors in classrooms and log readings across a typical school day; readings persistently above ~1,000 ppm indicate inadequate ventilation.

@@ -12,7 +12,7 @@ generated:
 # Reframe Anxiety as Excitement
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 causal), `q3` · 0 of 2 report an effect size
+> **Evidence** · no claims cited
 
 ## Description
 This strategy asks learners to reinterpret the physiological arousal of anxiety — elevated heart rate, heightened alertness, cortisol surge — as excitement rather than threat. Because anxiety and excitement share nearly identical bodily signatures, the reappraisal requires no down-regulation of arousal; it only changes the *label* attached to it. Excitement orients learners toward an opportunity mindset ("I get to show what I can do"), whereas anxiety orients them toward a threat mindset ("something bad will happen"). The canonical implementation is a minimal prompt — "Try to get excited" — delivered verbally or on screen immediately before a demanding task.
@@ -59,7 +59,7 @@ Arousal reappraisal works because it targets appraisal, not arousal itself: perf
 
 - Expressive writing about test worries — a complementary pre-exam intervention that reduces anxious thought intrusion rather than relabeling arousal
 - Stress mindset training — the broader, multi-session version of the same appraisal logic
-- [Belonging interventions](../claims/belonging-interventions-improve-outcomes.md) — similarly brief, social-psychological interventions that change how learners interpret adversity
+- [Belonging interventions](belonging-interventions.md) — similarly brief, social-psychological interventions that change how learners interpret adversity
 - [Attentional training interventions may improve public speaking performance for speech-anxious individuals](attentional-training-public-speaking.md)
 
 ## Examples

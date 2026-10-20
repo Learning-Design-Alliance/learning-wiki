@@ -17,7 +17,7 @@ sources:
 # Process for race-reimaging a construct: merge a critical social-cultural-historical theory with the educational psychology theory across all study stages
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 theoretical), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 The article recommends that for race-reimaging to occur, the critical social-cultural-historical/racial theory and the educational psychology theory must be merged, viewing "every component of the original educational theory from a racial lens". The first step is engaging in race-focused readings to enhance critical consciousness. Race must be considered at all stages: critical literature, congruent research design, race-centered research questions, participant selection, data collection, analysis, interpretation, and dissemination.
@@ -41,7 +41,7 @@ The article recommends that for race-reimaging to occur, the critical social-cul
 - Designing race-centered studies
 
 ### Affordances
-- [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](../claims/race-reimaging-creates-race-focused-constructs.md)
+- [Race-reimaging ultimately transforms a race-less construct into a race-focused construct](../claims/race-reimaging-creates-race-focused-constructs.md) [+W]
 
 ## Claims
 

@@ -11,7 +11,7 @@ evidence_strength: weak
 sources:
   - id: xenidou-dervou-2014
     resource: "https://doi.org/10.1080/17470218.2014.977303"
-    title: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303"
+    title: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2015). Working memory and number line representations in single-digit addition: Approximate versus exact, nonsymbolic versus symbolic. *Quarterly Journal of Experimental Psychology, 68*(6), 1148–1167. [doi:10.1080/17470218.2014.977303](https://doi.org/10.1080/17470218.2014.977303)"
     author: "Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M."
     q: 3
     i: "?"
@@ -31,7 +31,7 @@ sources:
 
 ### Xenidou-Dervou 2014
 
-Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2014). Working Memory and Number Line Representations in Single-digit Addition: Approximate versus Exact, Nonsymbolic versus Symbolic. VU University Amsterdam. https://doi.org/10.1080/17470218.2014.977303
+Xenidou-Dervou, I., van der Schoot, M., & van Lieshout, E. C. D. M. (2015). Working memory and number line representations in single-digit addition: Approximate versus exact, nonsymbolic versus symbolic. *Quarterly Journal of Experimental Psychology, 68*(6), 1148–1167. [doi:10.1080/17470218.2014.977303](https://doi.org/10.1080/17470218.2014.977303)
 
 `q3 · i?` · `associational · r2`
 

@@ -17,10 +17,15 @@ pages rest on, so this spends the judge there and only there:
    the claim and the subclaims that point at it. Its text is the article the
    pipeline fetched (`eval/corpus/cache/<id>.txt`) when the manifest says this
    claim came from an article whose title the entry's citation carries; otherwise
-   the abstract OpenAlex holds for the entry's DOI (cached beside it as
-   `doi-*.txt`). The most-cited claims are almost all of the second kind: of the
-   137 claims three or more design pages cite (2026-09-27), 3 came from a batch.
-   An entry with neither is reported as not checkable, never as passing.
+   an open-access copy of the entry's DOI (OpenAlex's locations, then Unpaywall's,
+   PMC first), fetched by `scripts/eval/fetch_article.py` and cached as `ft-*.txt`,
+   when its OpenAlex title matches the citation and the text matches that title and
+   first author; otherwise the abstract OpenAlex holds for the DOI (cached beside it
+   as `doi-*.txt`). A DOI with no readable open copy is recorded in
+   `ft-lookups.ndjson` and not looked up again; a network error is not recorded.
+   Of the 137 claims three or more design pages cite (2026-09-27), 3 came from a
+   batch, so most of the check rests on the last two. An entry with no text at all
+   is reported as not checkable, never as passing.
 3. **Judge** the entry against that text: does every subclaim, number, design,
    population and direction it states appear there? The judge sees the page as a
    reader does, after every later edit, merge and repair. On an abstract it may
@@ -63,6 +68,15 @@ OUT = WIKI_ROOT / "eval" / "runs" / "load-bearing" / "judged.ndjson"
 REVIEWED = WIKI_ROOT / "eval" / "load-bearing" / "reviewed.ndjson"
 DISMISS_REASONS = ("judge-wrong", "registry-wrong")
 MAX_ARTICLE = 60_000
+# Open-access full texts: one record per DOI looked up, a hit (its OpenAlex title and
+# first author, text in ft-*.txt) or a miss (a reason), so a miss is not retried.
+FT_LOOKUPS = CACHE / "ft-lookups.ndjson"
+MIN_FULL_TEXT = 15_000   # shorter is a landing page or an abstract, not an article
+UNPAYWALL_EMAIL = "david@learningdesignalliance.org"
+# A repository copy filed under an article's DOI can be the author's thesis of the same title
+# (Marcus 1996, "Understanding instructions": UNSWorks holds her 1998 PhD thesis).
+THESIS_RE = re.compile(r"thesis submitted|dissertation submitted|in (?:partial )?fulfil+ment of|"
+                       r"degree of (?:doctor|master)|doctor of philosophy", re.I)
 
 SYSTEM = """\
 You are checking one evidence entry on a learning-science wiki page against the study it \
@@ -251,6 +265,109 @@ def openalex_abstract(doi: str):
     return text if text and abstract_usable(text) else None
 
 
+def _ft_path(doi: str) -> Path:
+    return CACHE / f"ft-{re.sub(r'[^A-Za-z0-9._-]', '_', doi.lower())}.txt"
+
+
+_ft_lookups = None
+
+
+def ft_lookups() -> dict:
+    """doi (lower case) -> its open-access lookup record."""
+    global _ft_lookups
+    if _ft_lookups is None:
+        _ft_lookups = {}
+        if FT_LOOKUPS.exists():
+            for line in FT_LOOKUPS.read_text(encoding="utf-8").splitlines():
+                try:
+                    r = json.loads(line)
+                except ValueError:
+                    continue
+                _ft_lookups[r["doi"]] = r
+    return _ft_lookups
+
+
+def _record_lookup(rec: dict) -> None:
+    ft_lookups()[rec["doi"]] = rec
+    CACHE.mkdir(parents=True, exist_ok=True)
+    with FT_LOOKUPS.open("a", encoding="utf-8") as fh:
+        fh.write(json.dumps(rec, ensure_ascii=False) + "\n")
+
+
+def _transient(e: Exception) -> bool:
+    """A failure that says nothing about whether an open copy exists."""
+    import requests
+    code = getattr(getattr(e, "response", None), "status_code", None)
+    return (isinstance(e, (requests.ConnectionError, requests.Timeout))
+            or (isinstance(e, requests.HTTPError) and (code is None or code == 429 or code >= 500)))
+
+
+def _open_copies(doi: str) -> tuple:
+    """(title, first author, work type, [candidate URLs, PMC first]) from OpenAlex and Unpaywall."""
+    import urllib.parse
+    from scripts.eval import fetch_article as fa
+    q = urllib.parse.quote(doi)
+    work = fa._get(f"https://api.openalex.org/works/doi:{q}?select=title,type,ids,locations,authorships"
+                   "&mailto=contact@learningdesignalliance.org").json()
+    urls = fa._open_copy_urls(work)
+    pmcid = (work.get("ids") or {}).get("pmcid")
+    if pmcid:
+        urls.insert(0, "https://pmc.ncbi.nlm.nih.gov/articles/" + pmcid.rstrip("/").split("/")[-1])
+    try:
+        upw = fa._get(f"https://api.unpaywall.org/v2/{q}?email={UNPAYWALL_EMAIL}").json()
+        urls += [loc.get("url_for_pdf") or loc.get("url_for_landing_page")
+                 for loc in upw.get("oa_locations") or []]
+    except Exception as e:  # noqa: BLE001 - Unpaywall only adds candidates
+        if _transient(e):
+            raise
+    urls = list(dict.fromkeys(u for u in urls
+                              if u and urllib.parse.urlparse(u).netloc.lower() not in fa._NOT_A_COPY))
+    urls.sort(key=lambda u: "ncbi.nlm.nih.gov" not in u)   # stable: PMC first, order kept
+    first = ((work.get("authorships") or [{}])[0].get("author") or {}).get("display_name") or ""
+    return work.get("title") or "", first, work.get("type") or "", urls
+
+
+def open_full_text(doi: str, block: str, offline: bool = False):
+    """The text of an open-access copy of the cited work, or None. Used only when its
+    OpenAlex title carries the entry's citation, as cached_article requires, and the
+    fetched text carries that title and first author (fetch_article's own checks)."""
+    doi = doi.lower()
+    rec = ft_lookups().get(doi)
+    if rec is None and not offline:
+        from scripts.eval import fetch_article as fa
+        rec, transient = {"doi": doi}, False
+        try:
+            title, author, kind, urls = _open_copies(doi)
+        except Exception as e:  # noqa: BLE001
+            if _transient(e):
+                return None
+            title, author, kind, urls = "", "", "", []
+        rec.update(title=title, author=author)
+        for url in urls:
+            try:
+                text = fa._fetch_copy(url)
+            except Exception as e:  # noqa: BLE001 - a refusal or broken file: try the next copy
+                transient = transient or _transient(e)
+                continue
+            if (len(text) >= MIN_FULL_TEXT and fa.matches_title(text, title) and fa.matches_author(text, author)
+                    and (kind == "dissertation" or not THESIS_RE.search(text[:5000]))):
+                _ft_path(doi).write_text(text, encoding="utf-8")
+                rec["url"] = url
+                break
+        else:
+            if transient:
+                return None
+            rec["miss"] = "no open copy" if not urls else "no readable copy of this work"
+        _record_lookup(rec)
+    if not rec or "url" not in rec or not _ft_path(doi).exists():
+        return None
+    title = [w for w in _WORD.findall(rec["title"].lower()) if len(w) > 2][:8]
+    have = _words(block[:600])
+    if not title or sum(w in have for w in title) / len(title) < 0.8:
+        return None
+    return rec["url"], _ft_path(doi).read_text(encoding="utf-8", errors="replace")
+
+
 def digest(*parts: str) -> str:
     return hashlib.sha256("\n\x00".join(parts).encode("utf-8")).hexdigest()[:16]
 
@@ -335,10 +452,12 @@ def entry_jobs(rows: list, pages: dict, offline: bool = False) -> tuple:
         title, entries = units(pages[r["claim"]])
         for anchor, block, subs in entries:
             hit = cached_article(block, r["articles"])
+            m = DOI_RE.search(block)
+            if not hit and m:
+                hit = open_full_text(m.group(0).rstrip(".,;"), block, offline)
             if hit:
                 source, text, basis = hit[0], hit[1], "full text"
             else:
-                m = DOI_RE.search(block)
                 if m and offline and not _abstract_cached(m.group(0).rstrip(".,;")):
                     skipped["not fetched"] += 1
                     skipped.setdefault("_unfetched", []).append((r["claim"], anchor))
