@@ -11,8 +11,12 @@ evidence_strength: moderate
 sources:
   - id: yoon-2020
     resource: "https://doi.org/10.1007/s11412-020-09326-2"
-    title: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2"
-    author: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J"
+    title: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351–371. https://doi.org/10.1007/s11412-020-09326-2"
+    author: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J."
+    q: 2
+    i: "?"
+    kind: design
+    rigour: 2
 ---
 
 # Discussion prompts targeting the exchange of information produced higher levels of collaborative transactive discourse than prompts asking teachers to reflect on their content understanding or classroom practice.
@@ -27,7 +31,7 @@ sources:
 
 ### Yoon 2020
 
-Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2
+Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351–371. https://doi.org/10.1007/s11412-020-09326-2
 
 `q2 · i?` · `design · r2`
 

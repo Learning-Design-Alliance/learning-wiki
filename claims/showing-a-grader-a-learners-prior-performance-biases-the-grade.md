@@ -1,6 +1,6 @@
 ---
 type: claim
-title: Showing a Grader a Learner's Prior Performance Biases the Grade
+title: Showing an LLM Grader a Learner's Prior Performance Biases the Grade
 status: review
 generated:
   by: claude/unspecified
@@ -18,7 +18,7 @@ sources:
     rigour: "?"
 ---
 
-# Showing a Grader a Learner's Prior Performance Biases the Grade
+# Showing an LLM Grader a Learner's Prior Performance Biases the Grade
 
 > **Claim** · [All claims](index.md)
 > **Evidence** · 1 study · causal `r?` · `q2`
@@ -63,5 +63,5 @@ Within-item ablations in which the same public, teacher-graded answers were grad
 ## Related Claims
 
 - [Graded exemplars shift an LLM grader by the level they are marked at.](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — the contrast: context about the work, which shifts the grade by the level it is marked at
-- [Course context helps sparse items and dilutes rich ones.](course-context-helps-sparse-items-and-dilutes-rich-ones.md) — the other context result, and its boundary
-- [LLM short-answer graders can reach human rater agreement.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — the agreement these interventions on one model did not detectably move
+- [Course context raised an LLM grader's agreement on terse answers and lowered it on long ones.](course-context-helps-sparse-items-and-dilutes-rich-ones.md) — the other context result, and its boundary
+- [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — the agreement these interventions on one model did not detectably move

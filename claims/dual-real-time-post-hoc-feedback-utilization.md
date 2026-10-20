@@ -35,7 +35,7 @@ Tochukwu Dominic Eze, Lucas Zurbuchen, Khalil Anderson, Marcelo Worsley. (2026).
 
 `q2 · i?` · `qualitative · r?`
 
-Inductive thematic analysis of two open-ended survey questions on feedback utilization, from the same 290-student survey study. The authors report that The findings highlight a dual feedback utilization distinguishing real-time from post hoc functions; no effect size is printed.
+Inductive thematic analysis of two open-ended survey questions on feedback utilization, from the same 290-student survey study. The authors report that “The findings highlight a dual feedback utilization” distinguishing real-time from post hoc functions; no effect size is printed.
 
 > "The findings highlight a dual feedback utilization: real-time feedback facilitates immediate adjustments during collaboration, while post hoc feedback promotes reflective learning and long-term skill development."
 

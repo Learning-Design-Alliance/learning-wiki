@@ -23,7 +23,7 @@ sources:
 # Retrieval Practice
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 88 claims (46 for, 39 mixed, 2 against, 1 unmarked) · 39 studies (15 causal, 8 quant-synthesis, 8 review, 3 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 80 claims rest on one study
+> **Evidence** · 88 claims (46 for, 39 mixed, 2 against, 1 unmarked) · 39 studies (15 causal, 8 quant-synthesis, 8 review, 3 associational, 3 theoretical, 2 qualitative), `q1`–`q4` · 12 of 39 report an effect size · 81 claims rest on one study
 
 ## Conditional relationship
 

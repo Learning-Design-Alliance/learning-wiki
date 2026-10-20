@@ -252,6 +252,42 @@ def check_merge_markers(pages: dict[str, Path]) -> list[dict]:
     return issues
 
 
+_CONTROL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f]")
+_RISKY_FM_RE = re.compile(r"^ *-? *[A-Za-z_]+: +(?![\"'])(?:[^\n]*(?::\s| #)|[\[\]{}&*!|>%@`])", re.M)
+
+
+def check_page_text(pages: dict[str, Path]) -> list[dict]:
+    """Frontmatter that YAML cannot parse, and control characters anywhere on a page.
+
+    Both pass every other check while hiding the page from the tools: on 2026-10-20 six claims
+    read as having no evidence because a hand-edited title carried an unquoted ': ' or a
+    citation carried a \\x15 left over from PDF extraction, so their `sources` never loaded."""
+    import yaml
+    loader = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+    issues = []
+    for slug, path in each_page(pages):
+        text = path.read_text(encoding="utf-8")
+        rel = str(path.relative_to(WIKI_ROOT))
+        m = _CONTROL_RE.search(text)
+        if m:
+            line = text.count("\n", 0, m.start()) + 1
+            issues.append({"file": rel, "type": "control_character",
+                           "detail": f"line {line}: control character {m.group(0)!r}"})
+        if text.startswith("---\n"):
+            end = text.find("\n---", 4)
+            # Full YAML parsing of every page costs a minute without libyaml, so parse only the
+            # frontmatter carrying an unquoted value of the kinds that break it: one containing
+            # ': ' or ' #', or opening with a YAML indicator character.
+            if not _RISKY_FM_RE.search(text[4:end]):
+                continue
+            try:
+                yaml.load(text[4:end], Loader=loader)
+            except Exception as e:
+                issues.append({"file": rel, "type": "frontmatter_unparseable",
+                               "detail": str(e).splitlines()[0][:160]})
+    return issues
+
+
 def check_draft_no_description(pages: dict[str, Path]) -> list[dict]:
     issues = []
     for slug, path in each_page(pages):
@@ -857,6 +893,7 @@ CHECKS = {
     "embargo":       check_embargo,
     "dead_anchors":  check_dead_anchors,
     "merge_markers": check_merge_markers,
+    "page_text":     check_page_text,
     "drafts":        check_draft_no_description,
     "claims":        check_claims_missing_evidence,
     "principles":    check_principles_missing_claims,

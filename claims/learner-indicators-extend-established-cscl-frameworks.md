@@ -44,7 +44,7 @@ Tochukwu Dominic Eze, Lucas Zurbuchen, Khalil Anderson, Marcelo Worsley. (2026).
 
 `q2 · i?` · `qualitative · r2`
 
-Comparative thematic-analysis findings from the 290-student survey study; the authors mapped student-valued indicators against Worsley et al. (2021), Meier et al. (2007), OECD (2017), and CSAT. The quote confirms that indicators related to task contribution, progress, and results corresponded to CPS subskills.
+Comparative thematic-analysis findings from the 290-student survey study; the authors mapped student-valued indicators against Worsley et al. (2021), Meier et al. (2007), OECD (2017), and CSAT. The quote confirms that “indicators related to task contribution, progress, and results corresponded to CPS subskills”.
 
 > "Similarly, indicators related to task contribution, progress, and results corresponded to CPS subskills such as identifying roles, enacting plans, and monitoring outcomes."
 
@@ -54,7 +54,7 @@ Tochukwu Dominic Eze, Lucas Zurbuchen, Khalil Anderson, Marcelo Worsley. (2026).
 
 `q2 · i?` · `qualitative · r?`
 
-Same qualitative study; the authors compared newly surfaced student-valued dimensions with the collaborative knowledge construction (CKC) framework of Weinberger and Fischer (2006). The quote confirms which single new dimension showed precise alignment with CKC epistemic processes.
+Same qualitative study; the authors compared newly surfaced student-valued dimensions with the collaborative knowledge construction (CKC) framework of Weinberger and Fischer (2006). The quote confirms which single new dimension showed “precise alignment with CKC epistemic processes”.
 
 > "Only one of these dimensions, knowledge of the topic and project, showed precise alignment with CKC epistemic processes, including constructing the problem space, building conceptual connections, and integrating prior knowledge into task work."
 

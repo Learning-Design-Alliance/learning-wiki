@@ -68,9 +68,14 @@ Stereotype threat operates through working-memory load and physiological stress,
 - [Deliver salient, personalized ability signals to encourage educational investments](salient-personalized-ability-signals-strategy.md)
 
 ## Related Elements
-- <!-- TODO -->
+- [Feedback](../elements/feedback.md) — the element the wise-feedback format (high standards plus assurance of capacity) modifies
+- [Belonging](../elements/belonging.md) — the motivational precondition that identity-safe environments and belonging interventions cultivate
+- [Check In](../elements/check-in.md) — the brief structured contact through which belonging is monitored (Instructions, step 5)
+- [Accommodations](../elements/accommodations.md) — the follow-up where structural barriers, rather than framing, are the problem
+- [Growth Mindset intervention with exposure and application components](../elements/growth-mindset-intervention-exposure-application.md) — a packaged version of the malleable-ability framing this strategy relies on
+
 ## Tools
-- <!-- TODO -->
+- No tool page in the wiki covers this strategy. The instruments its Instructions call for are an audit of assessment framing (diagnostic-of-ability wording, demographic items placed before high-stakes questions), a short structured values-affirmation writing prompt, and a belonging survey; the wiki holds no validated version of any of them.
 
 ## Examples
 - **University of Colorado Boulder's inclusive assessment redesign** — removing gender/ethnicity items from physics concept inventories and reframing them as feedback tools reduced salience of identity at testing ([CU Boulder Inclusive Teaching](https://www.colorado.edu/sei/)).

@@ -24,13 +24,13 @@ sources:
 > **Evidence** · 1 study · causal `r?` · `q2`
 > **Evidence quality** · This claim rests on one research release that has not been peer-reviewed. Its research and writing were carried out by an AI system (Claude Code) under one human author, and its scope audit and reproduction were made by AI agents with no part in the work; no research team independent of the author has reviewed or replicated it. Treat it as a lead to check, not an established finding.
 
-On short free-text answers, taking the median or mean of several LLM grades for the same answer does not improve agreement with a human grader in kappa, error or correlation, does not remove the grader's systematic bias, and only marginally reduces how often the same work receives a different mark. Measured on one model and one corpus of short answers; whether pooling helps on long, noisier work was not tested in this release, so the claim is scoped to short answers.
+In this release's evidence records and interpretation (the finding is not in its article), taking the median or mean of several LLM grades for the same short free-text answer did not detectably improve agreement with a human grader in kappa, error or correlation, did not remove the grader's systematic bias, and only marginally reduced how often the same work received a different mark (25% to 20% of re-grades, within the standard error). Measured on one model (Gemini 3.5 Flash Lite; the cross-model pool added one call of a stronger Gemini tier) and one corpus of short answers, mostly in single runs; whether pooling helps on long, noisier work was not tested in this release, so the claim is scoped to short answers.
 
 ## Subclaims
 
-- Pooling across *different* models can be worse than using the best model alone: the weaker members' votes drag the estimate down.
+- Pooling across *different* models can be worse than using the best model alone: in a single run, three cheap passes plus one stronger-tier pass agreed at 0.847 against the stronger tier's 0.869 alone, which the release reads as the weaker members' votes dragging the estimate down.
 - Bias is untouched by pooling, which is the diagnostic. Averaging removes variance; a grader that is systematically generous is generous in every draw.
-- Pooling is a variance reduction, so it should be judged separately on agreement and on self-consistency. It fails on both here, but for different reasons, and the second failure is the more interesting one.
+- Pooling is a variance reduction, so it should be judged separately on agreement and on self-consistency. It showed no detectable benefit on either here.
 - The agreement null holds in correlation as well as kappa on short answers. Averaging compresses scores and kappa penalises compression, so kappa can hide a ranking gain; on the short-answer corpus it hides almost nothing (nine passes: Pearson r +0.0035, inside a pre-set ±0.01 equivalence margin), because repeated grades of one answer rarely differ and never straddle the human mark.
 
 ## Evidence
@@ -41,7 +41,7 @@ David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM 
 
 `q2 · i?` · `causal · r?`
 
-Pooled estimators (median and mean of three passes, and a cross-model pool) against a single call on the same 150 stratified answers from a public, teacher-graded corpus of undergraduate computer-science answers, on Gemini 3.5 Flash Lite in single runs, with re-grade flip rates on 100 answers and a later re-run of nine passes read in Pearson r with intervals resampling students. These results are in the release's evidence records and interpretation, not in its article. Observation record: `lazuli-grader-jorgpt-2026`.
+Pooled estimators (median and mean of three passes, and a cross-model pool) against a single call on the same 150 stratified answers from a public, teacher-graded corpus of undergraduate computer-science answers, on Gemini 3.5 Flash Lite (the cross-model pool adding one pass of a stronger Gemini tier) in single runs, with re-grade flip rates on 100 answers and a later re-run of nine passes read in Pearson r with intervals resampling students. These results are in the release's evidence records and interpretation, not in its article. Observation record: `lazuli-grader-jorgpt-2026`.
 
 ## Discussion
 
@@ -57,6 +57,6 @@ Pooled estimators (median and mean of three passes, and a cross-model pool) agai
 
 ## Related Claims
 
-- [LLM short-answer graders can reach human rater agreement.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — why there is little residual agreement left to win
-- [Surface formatting changes shift LLM grades without penalising them.](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — the instability pooling was expected to fix
+- [LLM short-answer graders agree with one human rater more, and the other less, than the two raters agree with each other.](llm-short-answer-graders-can-reach-human-rater-agreement.md) — why there is little residual agreement left to win
+- [Surface formatting changes shift LLM grades, with no consistent penalty detected.](surface-formatting-changes-shift-llm-grades-without-penalising-them.md) — the instability pooling was expected to fix
 - [Graded exemplars shift an LLM grader by the level they are marked at.](graded-exemplars-shift-an-llm-grader-by-the-level-they-are-marked-at.md) — what to spend the budget on instead

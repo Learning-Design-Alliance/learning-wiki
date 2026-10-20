@@ -37,7 +37,7 @@ Raaijmakers, S. F., Baars, M., Schaap, L., Paas, F., van Merriënboer, J., & van
 
 Transfer was measured with eight scenarios in which students selected a next task for a fictitious peer in math, with databases of 75 or 32 tasks and 5- or 8-step problems. Both trained conditions beat control (heuristic r = .48; algorithmic r = .35).
 
-> "Post-hoc Mann–Whitney U Tests showed that in line with Hypothesis 2a, both the heuristic training, U = 355.5, p  .001, r = .48, and algorithmic training, U = 537.5, p = .001, r = .35, showed signiﬁcantly better task-selection accuracy on the transfer test than the control group"
+> "Post-hoc Mann–Whitney U Tests showed that in line with Hypothesis 2a, both the heuristic training, U = 355.5, p ≤ .001, r = .48, and algorithmic training, U = 537.5, p = .001, r = .35, showed signiﬁcantly better task-selection accuracy on the transfer test than the control group"
 
 ## Discussion
 

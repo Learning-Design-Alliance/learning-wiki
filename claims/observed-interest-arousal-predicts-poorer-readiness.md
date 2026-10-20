@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third
-description: Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third
+title: "Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third"
+description: "Observed interest/arousal during challenging tasks predicts poorer teacher-rated social competence and more hyperactivity: the top third was rated least socially competent, and the top and middle thirds more hyperactive than the bottom third"
 id: observed-interest-arousal-predicts-poorer-readiness
 status: review
 generated:

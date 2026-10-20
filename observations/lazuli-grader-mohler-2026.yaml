@@ -43,7 +43,7 @@ appears_in:
       The load-bearing edge in this whole investigation. The grader agrees with
       one rater at 0.798 and the other at 0.549, against a human-human 0.519
       that is itself an over-estimate.
-  - claim: expert-human-graders-agree-with-each-other-far-less-than-assumed
+  - claim: human-graders-agree-less-than-single-grade-ground-truth-implies
     bearing: supports
     anchor: porcaro-2026
     note: >-
@@ -200,7 +200,7 @@ observations:
       role: capability-evidence
       role_basis: inferred
       anchors:
-        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
     time:
       label: As graded originally, both raters independently
     result:
@@ -269,7 +269,7 @@ observations:
       role: capability-evidence
       role_basis: inferred
       anchors:
-        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
     time:
       label: As graded originally
     result:
@@ -331,7 +331,7 @@ observations:
       role: capability-evidence
       role_basis: inferred
       anchors:
-        - claims/expert-human-graders-agree-with-each-other-far-less-than-assumed
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
     time:
       label: As graded originally, both raters independently
     result:
