@@ -46,8 +46,7 @@ Narrative synthesis of experimental and quasi-experimental studies contrasting d
 
 - [Students in online learning conditions performed better on average than those receiving face-to-face instruction (mean effect size +0.24, p < .01, across 51 contrasts).](online-outperforms-face-to-face-meta-analysis.md)
 - [Of 13 online learning practice variables examined, only use of a blended approach and expanded time on task significantly influenced effectiveness; the other 11 did not.](eleven-of-thirteen-practice-variables-nonsignificant.md) — reports the opposite
-- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](blended-larger-advantage-than-pure-online.md) — related
-- [Blended Learning Improves Outcomes](blended-learning-improves-outcomes.md) — related
+- [Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).](blended-learning-improves-outcomes.md) — related
 - [Repeated practice and blended learning showed no advantage in RCR course effectiveness, failing to replicate prior review findings](rcr-repetition-blended-null-results.md) — related
 - [A systematic search found almost no rigorous studies contrasting online and face-to-face instruction for K–12 students: none with computable effect sizes through 2006, and only five meeting meta-analysis criteria through July 2008.](few-rigorous-k12-online-studies.md) — related
 - [Online learning effectiveness was broadly positive across content areas and learner types, but the mean effect was not significant for the seven K–12 contrasts and the learner-type moderator test was nonsignificant.](learner-type-moderator-nonsignificant-k12-null.md) — related

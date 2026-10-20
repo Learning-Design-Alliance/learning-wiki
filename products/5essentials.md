@@ -47,7 +47,7 @@ sources:
 # 5Essentials
 
 > **Product or Programme** · [All products and programmes](index.md)
-> **Evidence** · 21 claims (21 for) · 10 studies (7 associational, 1 review, 1 qualitative, 1 design), `q2` · 0 of 10 report an effect size · 21 claims rest on one study
+> **Evidence** · 21 claims (21 for) · 11 studies (8 associational, 1 review, 1 qualitative, 1 design), `q2` · 0 of 11 report an effect size · 20 claims rest on one study
 
 ## Description
 A school-improvement measurement framework developed by the University of Chicago Consortium on School Research that organizes school survey profiles around five domains and their related measures.

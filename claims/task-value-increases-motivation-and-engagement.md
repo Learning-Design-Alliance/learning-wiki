@@ -195,7 +195,6 @@ Intrinsic interest is less reliably shapeable in the short term than utility val
 - [Students' perceptions of motivationally supportive instruction were associated with higher positive motivational beliefs](m-plans-student-perceptions-linked-to-motivation.md) — related
 - [Perceived discrepancy between actual teaching performance and goals motivates teachers to change their teaching](performance-goal-discrepancy-motivates-teacher-change.md) — related
 - [Learners invest more mental effort in media they perceive as difficult, so multimedia should raise perceived demand characteristics](perceived-demand-drives-invested-mental-effort.md) — related
-- [Participation in a collaborative, project-based engineering design course produced gains only in declarative knowledge, not other knowledge types or interest](project-based-course-declarative-gain-only.md) — related
 - [Students perceiving high task value exert greater effort and achieve more than students perceiving low value](high-task-value-effort-achievement.md) — a narrower finding that bears on this claim
 - [Applications to the summer school increased up to double the available positions, which the authors attribute to its active and cooperative learning](pigelleto-applications-doubled-positions.md) — a narrower finding that bears on this claim
 - [Access to evidence-based strategies and understanding how students learn are top motivators for both groups' interest in DLP research](evidence-based-strategies-top-motivator.md) — related

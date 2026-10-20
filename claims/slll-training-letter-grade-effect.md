@@ -44,10 +44,9 @@ The article attributes this to its prior randomized study (Bernacki et al., 2020
 
 ## Related Claims
 
-- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](multimedia-redesign-sustains-skill-mastery-predictions.md)
+- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](srl-skill-training-predicts-biology-exam.md)
 - [Behavioral and environmental regulation knowledge demonstrated during digital SRL training predicted biology midterm and final exam grades, while knowledge of SRL processes did not](behavioral-environmental-regulation-knowledge-predicts-biology-exams.md)
 - [Declarative and conceptual levels of learning-skill mastery predicted biology exam performance, but application-level knowledge did not](declarative-conceptual-skill-mastery-predicts-exams-application-does-not.md)
 - [Training activity scores in cognitive, metacognitive, and behavioral/environmental regulation each significantly related to subsequent exam performance after controlling for prior knowledge](training-scores-partial-correlations-exams.md)
-- [Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance](srl-skill-training-predicts-biology-exam.md)
 - [In a Terracotta study across classes, retrieval practice review outperformed restudy review on subsequent exams](terracotta-retrieval-practice-outperforms-restudy.md) — related
 - [Micro-analytic self-report questions predict exam performance better than the MSLQ, which did not correlate with exam scores](microanalytic-questions-outpredict-mslq.md) — related

@@ -17,7 +17,7 @@ sources:
 # Use the special issue's design-process questions to shape new SRL scaffolds
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (6 for) · 1 study (1 review), `q2` · 0 of 1 report an effect size · 6 claims rest on one study
+> **Evidence** · 6 claims (6 for) · 2 studies (1 review, 1 associational), `q2` · 0 of 2 report an effect size · 5 claims rest on one study
 
 ## Description
 Rather than concrete guidelines, the introduction offers the contributions as inspiration for the scaffold design process. It poses design considerations for future designers: whether scaffolds are theory-based or data-driven, whether triggering is event- or time-based, whether scaffolds have a single or unique purposes, whether they affect the sequential nature of SRL, and to what extent they should attenuate effects of prior metacognitive abilities. "The papers in this issue can be used to inform the design process of new scaffolds."

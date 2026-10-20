@@ -1,6 +1,6 @@
 {
 "counts":{
-"claim":22731,
+"claim":22725,
 "design":976,
 "element":1066,
 "learner-variable":75,
@@ -16202,6 +16202,7 @@
 "type":"claim"
 },
 {
+"aliases":["clt-generated-novel-instructional-procedures"],
 "description":"The cognitive architecture has been used to design a variety of novel instructional procedures",
 "evidence_strength":"weak",
 "id":"architecture-generated-novel-instructional-procedures",
@@ -22586,15 +22587,6 @@
 "type":"claim"
 },
 {
-"description":"Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).",
-"evidence_strength":"moderate",
-"id":"blended-larger-advantage-than-pure-online",
-"path":"claims/blended-larger-advantage-than-pure-online.md",
-"status":"review",
-"title":"Blended online-plus-face-to-face instruction showed a larger advantage over face-to-face instruction (+0.35, p < .001) than purely online instruction did (+0.14, p < .05).",
-"type":"claim"
-},
-{
 "description":"Some blended learning interventions improve student outcomes, but whether a positive effect exists varies across interventions and domains of achievement",
 "evidence_strength":"weak",
 "id":"blended-learning-effects-vary-by-intervention-and-domain",
@@ -22604,6 +22596,7 @@
 "type":"claim"
 },
 {
+"aliases":["blended-larger-advantage-than-pure-online"],
 "description":"",
 "evidence_strength":"weak",
 "id":"blended-learning-improves-outcomes",
@@ -32721,15 +32714,6 @@
 "path":"claims/clt-four-ethical-tensions.md",
 "status":"review",
 "title":"In CLT, teachers perceive an authenticity crisis, risk-free fluency, a confidence mirage, and pragmatic blindness",
-"type":"claim"
-},
-{
-"description":"Cognitive load theory has generated a variety of novel instructional procedures for presenting information",
-"evidence_strength":"weak",
-"id":"clt-generated-novel-instructional-procedures",
-"path":"claims/clt-generated-novel-instructional-procedures.md",
-"status":"review",
-"title":"Cognitive load theory has generated a variety of novel instructional procedures for presenting information",
 "type":"claim"
 },
 {
@@ -50969,6 +50953,7 @@
 "type":"claim"
 },
 {
+"aliases":["project-based-course-declarative-gain-only"],
 "description":"Participation in a collaborative, project-based engineering design course improved declarative knowledge but not procedural or principled knowledge or personal interest",
 "evidence_strength":"mixed",
 "id":"dinsmore-project-based-declarative-only",
@@ -63489,21 +63474,13 @@
 "type":"claim"
 },
 {
+"aliases":["essential-supports-strong-schools-improve-learning"],
 "description":"Schools strong in the five essential supports are more likely to improve academically",
 "evidence_strength":"weak",
 "id":"essential-supports-strength-linked-academic-improvement",
 "path":"claims/essential-supports-strength-linked-academic-improvement.md",
 "status":"review",
 "title":"Schools strong in the five essential supports are more likely to improve academically",
-"type":"claim"
-},
-{
-"description":"Schools strong in the essential supports are more likely to improve student learning over time",
-"evidence_strength":"weak",
-"id":"essential-supports-strong-schools-improve-learning",
-"path":"claims/essential-supports-strong-schools-improve-learning.md",
-"status":"review",
-"title":"Schools strong in the essential supports are more likely to improve student learning over time",
 "type":"claim"
 },
 {
@@ -120378,15 +120355,6 @@
 "type":"claim"
 },
 {
-"description":"Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency",
-"evidence_strength":"moderate",
-"id":"multimedia-redesign-sustains-skill-mastery-predictions",
-"path":"claims/multimedia-redesign-sustains-skill-mastery-predictions.md",
-"status":"review",
-"title":"Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency",
-"type":"claim"
-},
-{
 "description":"A multimethod approach provides a richer portrayal of young children's performance than any single measure.",
 "evidence_strength":"weak",
 "id":"multimethod-approach-richer-portrayal-child-performance",
@@ -147471,15 +147439,6 @@
 "path":"claims/project-based-context-highest-scaffolding-effect.md",
 "status":"review",
 "title":"Scaffolding's effect was highest in project-based learning contexts; design-based learning was the only context not significantly greater than zero",
-"type":"claim"
-},
-{
-"description":"Participation in a collaborative, project-based engineering design course produced gains only in declarative knowledge, not other knowledge types or interest",
-"evidence_strength":"moderate",
-"id":"project-based-course-declarative-gain-only",
-"path":"claims/project-based-course-declarative-gain-only.md",
-"status":"review",
-"title":"Participation in a collaborative, project-based engineering design course produced gains only in declarative knowledge, not other knowledge types or interest",
 "type":"claim"
 },
 {
@@ -175139,6 +175098,7 @@
 "type":"claim"
 },
 {
+"aliases":["multimedia-redesign-sustains-skill-mastery-predictions"],
 "description":"Behavioral and environmental regulation knowledge during digital SRL training predicted biology exam performance",
 "evidence_strength":"weak",
 "id":"srl-skill-training-predicts-biology-exam",
@@ -175148,21 +175108,13 @@
 "type":"claim"
 },
 {
+"aliases":["srl-ssrl-codes-predict-eda-across-simulation-segments"],
 "description":"Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training",
 "evidence_strength":"moderate",
 "id":"srl-ssrl-behaviors-predict-eda-simulation-stages",
 "path":"claims/srl-ssrl-behaviors-predict-eda-simulation-stages.md",
 "status":"review",
 "title":"Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training",
-"type":"claim"
-},
-{
-"description":"Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations",
-"evidence_strength":"moderate",
-"id":"srl-ssrl-codes-predict-eda-across-simulation-segments",
-"path":"claims/srl-ssrl-codes-predict-eda-across-simulation-segments.md",
-"status":"review",
-"title":"Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations",
 "type":"claim"
 },
 {
@@ -309503,7 +309455,7 @@
 "blended-challenges-catalyse-agency-growth":"blended-challenges-catalyse-agency-growth",
 "blended-group-greater-digital-competence-gain":"blended-group-greater-digital-competence-gain",
 "blended-high-touch-lowest-skilled-adults":"blended-high-touch-lowest-skilled-adults",
-"blended-larger-advantage-than-pure-online":"blended-larger-advantage-than-pure-online",
+"blended-larger-advantage-than-pure-online":"blended-learning-improves-outcomes",
 "blended-learning-effects-vary-by-intervention-and-domain":"blended-learning-effects-vary-by-intervention-and-domain",
 "blended-learning-improves-outcomes":"blended-learning-improves-outcomes",
 "blended-peer-assisted-learning-experiment-effective-at-zjnu":"blended-peer-assisted-learning-experiment-effective-at-zjnu",
@@ -310643,7 +310595,7 @@
 "clt-curriculum-overlooks-explicit-pronunciation-bangladesh":"clt-curriculum-overlooks-explicit-pronunciation-bangladesh",
 "clt-design-effective-learning-retention-transfer":"clt-design-effective-learning-retention-transfer",
 "clt-four-ethical-tensions":"clt-four-ethical-tensions",
-"clt-generated-novel-instructional-procedures":"clt-generated-novel-instructional-procedures",
+"clt-generated-novel-instructional-procedures":"architecture-generated-novel-instructional-procedures",
 "clt-instructional-design-raises-retention-transfer-thermodynamics":"clt-instructional-design-raises-retention-transfer-thermodynamics",
 "clt-lacks-metacognitive-control-assumptions":"clt-lacks-metacognitive-control-assumptions",
 "clt-motivation-gap":"clt-motivation-gap",
@@ -314108,7 +314060,7 @@
 "essays-remain-descriptive-despite-ai-feedback":"essays-remain-descriptive-despite-ai-feedback",
 "essential-supports-mutual-trust-reinforce-each-other":"essential-supports-mutual-trust-reinforce-each-other",
 "essential-supports-strength-linked-academic-improvement":"essential-supports-strength-linked-academic-improvement",
-"essential-supports-strong-schools-improve-learning":"essential-supports-strong-schools-improve-learning",
+"essential-supports-strong-schools-improve-learning":"essential-supports-strength-linked-academic-improvement",
 "essentialist-reasoning-increases-with-age-predicts-outgroup-stereotyping":"essentialist-reasoning-increases-with-age-predicts-outgroup-stereotyping",
 "estimated-human-baseline-50-percent-cdpk":"estimated-human-baseline-50-percent-cdpk",
 "estimated-success-decreases-older-learners-facebook":"estimated-success-decreases-older-learners-facebook",
@@ -320552,7 +320504,7 @@
 "multimedia-principle-words-and-pictures-outcomes":"multimedia-principle-words-and-pictures-outcomes",
 "multimedia-principles-benefit-novices":"expertise-reversal-effect",
 "multimedia-principles-not-attributable-to-multicomponent-model":"multimedia-principles-not-attributable-to-multicomponent-model",
-"multimedia-redesign-sustains-skill-mastery-predictions":"multimedia-redesign-sustains-skill-mastery-predictions",
+"multimedia-redesign-sustains-skill-mastery-predictions":"srl-skill-training-predicts-biology-exam",
 "multimedia-words-plus-images-beat-words-alone":"multimedia-principle-improves-learning",
 "multimethod-approach-richer-portrayal-child-performance":"multimethod-approach-richer-portrayal-child-performance",
 "multimodal-culturally-grounded-assessment-supports-engagement-and-agency":"multimodal-culturally-grounded-assessment-supports-engagement-and-agency",
@@ -323604,7 +323556,7 @@
 "progressive-challenge-ef-training":"progressive-challenge-ef-training",
 "progressive-inclusion-limited-out-of-district-placements":"progressive-inclusion-limited-out-of-district-placements",
 "project-based-context-highest-scaffolding-effect":"project-based-context-highest-scaffolding-effect",
-"project-based-course-declarative-gain-only":"project-based-course-declarative-gain-only",
+"project-based-course-declarative-gain-only":"dinsmore-project-based-declarative-only",
 "project-based-learning-improves-achievement":"project-based-learning-improves-achievement",
 "project-criss-null-effects-grade5-randomized-trial":"project-criss-null-effects-grade5-randomized-trial",
 "project-criss-potentially-positive-comprehension-rating":"project-criss-potentially-positive-comprehension-rating",
@@ -326755,7 +326707,7 @@
 "srl-scaffolds-positive-effect-academic-performance":"srl-scaffolds-positive-effect-academic-performance",
 "srl-skill-training-predicts-biology-exam":"srl-skill-training-predicts-biology-exam",
 "srl-ssrl-behaviors-predict-eda-simulation-stages":"srl-ssrl-behaviors-predict-eda-simulation-stages",
-"srl-ssrl-codes-predict-eda-across-simulation-segments":"srl-ssrl-codes-predict-eda-across-simulation-segments",
+"srl-ssrl-codes-predict-eda-across-simulation-segments":"srl-ssrl-behaviors-predict-eda-simulation-stages",
 "srl-strategies-associated-lower-digital-distraction":"srl-strategies-associated-lower-digital-distraction",
 "srl-strategies-large-effect-academic-achievement":"srl-strategies-large-effect-academic-achievement",
 "srl-strategy-specific-effects-range":"srl-strategy-specific-effects-range",

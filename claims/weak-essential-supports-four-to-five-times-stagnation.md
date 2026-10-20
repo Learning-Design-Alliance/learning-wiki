@@ -44,10 +44,9 @@ Observational analysis of Chicago elementary schools comparing stagnation in ITB
 
 ## Related Claims
 - Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools — related
-- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — related
+- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strength-linked-academic-improvement.md) — related
 - [Elementary schools strong on at least three of five essential organizational elements were 10 times more likely to improve and 30 times less likely to stagnate](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — related
 - Chicago schools strong in most of the five essential supports were about 10 times more likely to show substantial gains in reading and mathematics — related
-- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
 - Factor analysis of the Chicago school surveys produced thirteen composite indicators, which with four stand-alone measures yielded seventeen overall indicators — related
 - Schools strong in five essential supports were at least ten times more likely to show substantial reading and math gains — related
 - [About 18 percent of elementary school faculties are highly engaged, with another 33 percent moderately active](faculty-collective-action-18-percent-highly-engaged.md) — related

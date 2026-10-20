@@ -25,7 +25,7 @@ sources:
 # Framework of five essential supports and contextual resources for school improvement
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 49 claims (33 for, 16 mixed) · 38 studies (22 associational, 6 qualitative, 5 review, 3 design, 2 causal), `q1`–`q3` · 2 of 38 report an effect size · 48 claims rest on one study
+> **Evidence** · 49 claims (33 for, 16 mixed) · 39 studies (23 associational, 6 qualitative, 5 review, 3 design, 2 causal), `q1`–`q3` · 2 of 39 report an effect size · 47 claims rest on one study
 
 ## Description
 The CCSR framework holds that five in-school supports are all essential for improving student learning: leadership acting as a catalyst, parent-community ties, professional capacity, student-centered learning climate, and ambitious instruction. Leadership is inclusive, instruction-focused, and strategic, and it stimulates the other four supports; instruction is "the single most direct factor that affects student learning," but providing it depends on strength in the other supports. The supports are anchored in contextual resources: relational trust, structural factors such as school size and student stability, and local community social capital. The framework was developed with Chicago educators in the mid-1990s and used to guide CPS school-improvement planning and self-assessment.
@@ -67,7 +67,7 @@ The CCSR framework holds that five in-school supports are all essential for impr
 - [Elementary schools with clusters of three or more NBCTs demonstrate greater strength on 7 of 12 essential supports measures](../claims/nbct-clusters-elementary-stronger-essential-supports.md) [+W]
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
 - [Principals actively engaged in prioritizing math at their sites were more likely to organize teacher learning time and involve coaches](../claims/engaged-principals-prioritize-teacher-math-learning.md) [+W]
-- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]
+- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strength-linked-academic-improvement.md) [+W]
 - [Between schools, principal leadership has small positive indirect relationships with test-score gains and GPA through the learning climate and classroom instruction](../claims/leadership-achievement-between-schools-via-climate.md) [+W]
 - [At the organizational level, strategic leadership and climate, but not their general counterparts, are associated with implementer attitudes toward EBPs](../claims/organizational-strategic-factors-associated-with-attitudes.md) [+W]
 - [School climate functions as a setting-level indicator: students entering schools where they feel safe and supported attend more and earn higher grades, and Chicago's five essential supports survey responses are highly predictive of teacher and school performance](../claims/school-climate-setting-level-indicator-five-supports.md) [+W]
@@ -171,7 +171,7 @@ The UChicago Consortium's framework identifies five organizational domains that 
 - [Strong Supports Cluster Ten Times More Likely To Improve](../claims/schools-strong-three-plus-supports-ten-times-more-likely-improve.md) [+M]
 - [The five essential supports matter in combination: strength on clusters of supports, not isolated domains, predicts improvement](../claims/supports-matter-in-combined-clusters.md) [+M]
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](../claims/essential-supports-mutual-trust-reinforce-each-other.md) [+W]
-- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strong-schools-improve-learning.md) [+W]
+- [Schools strong in the essential supports are more likely to improve student learning over time](../claims/essential-supports-strength-linked-academic-improvement.md) [+W]
 - [Elementary GPA improved more in schools with strong 5Essentials Survey scores, a new outcome beyond the original validation](../claims/elementary-gpa-strong-5essentials-measures.md) [+W]
 - [District-provided instructional resources supported strong practices only when instruction-ready and tied to professional learning; other resources showed a null or negative relationship](../claims/instruction-ready-resources-tied-to-professional-learning.md) [~W]
 - [Freshman OnTrack rates improved by as much as 3.25 percentage points more in high schools with strong 5Essentials Survey measures](../claims/freshman-ontrack-strong-5essentials-measures.md) [+W]

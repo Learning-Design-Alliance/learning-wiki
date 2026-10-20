@@ -17,7 +17,7 @@ sources:
 # Segment simulations into beginning, escalation, and peak phases before analyzing regulation and physiological activation
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (5 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 5 claims rest on one study
+> **Evidence** · 4 claims (4 for) · 3 studies (2 associational, 1 review), `q2` · 0 of 3 report an effect size · 3 claims rest on one study
 
 ## Description
 The article argues that examining EDA and its relationship to regulation is challenging without segmenting the task into smaller subsections, because simulation scenarios evolve and shift over time and require trainees to adopt different regulation patterns. The team segmented each video by consulting simulation scripts and patient deterioration events, then negotiated phase boundaries jointly. Segmentation produced analyzable sub-units: the average simulation took approximately 9 minutes and 23 seconds, with the beginning lasting 1 minute 55 seconds, escalation 4 minutes 6 seconds, and peak 3 minutes 40 seconds.
@@ -38,11 +38,10 @@ The article argues that examining EDA and its relationship to regulation is chal
 
 ## Claims
 
-- [Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations](../claims/srl-ssrl-codes-predict-eda-across-simulation-segments.md) [+W]
+- [Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations](../claims/srl-ssrl-behaviors-predict-eda-simulation-stages.md) [+W]
 - [SSRL 'Facilitation' codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](../claims/facilitation-codes-differ-across-segments.md) [+W]
 - [SRL 'Execution' strategy codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](../claims/execution-codes-differ-across-segments.md) [+W]
 - [SRL 'Evaluation' strategy codes differ between the 'Beginning' and 'Peak' segments of medical simulations](../claims/evaluation-codes-differ-beginning-peak.md) [+W]
-- [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](../claims/srl-ssrl-behaviors-predict-eda-simulation-stages.md) [+W]
 
 ## Related Strategies
 

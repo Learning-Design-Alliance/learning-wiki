@@ -17,7 +17,7 @@ sources:
 # Course Portal: a Moodle-based LMS supporting blended instruction at a Turkish vocational school
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 1 claim (1 for) · 1 study (1 quant-synthesis), `q3` · 1 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 2 studies (2 quant-synthesis), `q3` · 2 of 2 report an effect size
 
 ## Description
 Course Portal is a learning management system developed "by the use of MOODLE version 3.6" to support face-to-face instruction at a Turkish Army NCO vocational school using blended teaching. Teachers shared lectures, presentations, sample projects, learning activities and videos on it, accessible via an intranet; students could log in to take exams and upload homework. Despite instructors' efforts to keep content rich and updated, students were not eager to use the portal as desired, which motivated the acceptance study.

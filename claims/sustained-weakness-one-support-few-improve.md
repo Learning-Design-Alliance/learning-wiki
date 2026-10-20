@@ -47,7 +47,6 @@ The brief reports, citing Bryk et al. (2010), that a sustained weakness in one d
 - [Elementary schools strong in three or more of the five essential supports were ten times more likely to substantially improve student math and reading scores (attributed to Bryk et al., 2010)](schools-strong-three-plus-supports-ten-times-more-likely-improve.md) — related
 - Schools serving highly disadvantaged students with strong organizational supports improve learning and retain teachers as well as more advantaged schools — related
 - [The five essential supports reinforce each other and depend on a school environment infused with mutual trust](essential-supports-mutual-trust-reinforce-each-other.md) — a broader claim this one bears on
-- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strong-schools-improve-learning.md) — related
-- [Schools strong in the five essential supports are more likely to improve academically](essential-supports-strength-linked-academic-improvement.md) — related
+- [Schools strong in the essential supports are more likely to improve student learning over time](essential-supports-strength-linked-academic-improvement.md) — related
 - [Schools with high relational trust showed marked gains in student learning while schools with weak trust relations saw virtually no improvement in reading or mathematics scores](relational-trust-predicts-learning-gains-chicago-elementary.md) — a narrower finding that bears on this claim
 - [Student learning improves most where multiple related essential supports are implemented and evaluated](multiple-related-essential-supports-improve-learning-most.md) — related

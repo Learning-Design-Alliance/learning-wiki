@@ -46,4 +46,3 @@ Descriptive case example from the third simulation (V3) reported in the Results 
 - [Segmentation boundary choices differentially affect statistics computed on epistemic-game process data](segmentation-boundaries-differentially-affect-statistics.md) — related
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
 - [In the beginning-segment Lasso model, participant role accounted for 15% of the final prediction model](participant-role-15-percent-beginning-model.md) — related
-- [Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations](srl-ssrl-codes-predict-eda-across-simulation-segments.md) — related

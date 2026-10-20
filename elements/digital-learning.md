@@ -13,7 +13,7 @@ generated:
 # Digital Learning
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 8 studies (3 causal, 2 qualitative, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 8 report an effect size · 8 claims rest on one study
+> **Evidence** · 8 claims (3 for, 4 mixed, 1 against) · 9 studies (3 causal, 2 qualitative, 1 review, 1 associational, 1 design, 1 theoretical), `q1`–`q3` · 1 of 9 report an effect size · 7 claims rest on one study
 
 ## Description
 Digital learning is the element in which instruction, resources, or interaction are mediated through digital tools, platforms, or networks. It is useful when learners need flexible access, interactive media, or non-linear exploration.
@@ -40,7 +40,7 @@ Digital learning is the element in which instruction, resources, or interaction 
 - [Advanced technology's hyperinteractivity can intensify social inequality in education](../claims/hyperinteractivity-can-intensify-inequality.md) [-W]
 - [Teachers valued interactive discussion-based training but identified unfamiliarity with online resources as a challenge when transitioning to distance learning.](../claims/hero-elementary-training-discussion-facilitation-online-resources-challenge.md) [~W]
 - [Computer-mediated (videoconferencing) collaboration leads learners to use a wider range of knowledge resources than face-to-face collaboration](../claims/videoconferencing-wider-range-of-resources.md) [~W]
-- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](../claims/multimedia-redesign-sustains-skill-mastery-predictions.md) [~W]
+- [Skill-mastery predictions of biology exam performance were sustained in a redesigned video-based multimedia training prioritizing learning efficiency](../claims/srl-skill-training-predicts-biology-exam.md) [~W]
 - [Digital network mapping tools support students in critically selecting and reviewing online data on socio-scientific controversies](../claims/gephi-mapping-supports-critical-data-review.md) [+W]
 - [Graduate students can effectively develop interactive educational online software modules as a curriculum component of an advanced science course](../claims/graduate-students-develop-interactive-modules-as-course-project.md) [+W]
 - [The Hero Elementary playlist intervention showed no statistically significant effect on K-2 students' science knowledge (effect size 0.10, p ~ 0.38)](../claims/hero-elementary-playlists-no-significant-science-knowledge-effect.md) [~W]

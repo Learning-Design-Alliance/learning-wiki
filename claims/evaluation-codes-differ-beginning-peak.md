@@ -46,4 +46,3 @@ Same repeated measures ANOVA over the ten coded simulations; the omnibus test fo
 - [SRL 'Execution' strategy codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](execution-codes-differ-across-segments.md) — related
 - [SSRL 'Facilitation' codes differ between the 'Beginning' and both the 'Escalation' and 'Peak' segments of medical simulations](facilitation-codes-differ-across-segments.md) — related
 - [Patterns of SRL and SSRL behaviors among medical trainees predict electrodermal activity at distinct stages of high-fidelity simulation training](srl-ssrl-behaviors-predict-eda-simulation-stages.md) — related
-- [Varying SRL and SSRL codes predict medical trainees' EDA differently across the beginning, escalation, and peak segments of medical simulations](srl-ssrl-codes-predict-eda-across-simulation-segments.md) — related
