@@ -2,7 +2,7 @@
 
 Explanatory frameworks that ground principles and claims.
 
-**1361 entries** · 0 stable · 1361 in review · 0 drafts
+**1359 entries** · 0 stable · 1359 in review · 0 drafts
 
 ---
 
@@ -399,7 +399,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Enfoque inclusivo de las transiciones en el aprendizaje](enfoque-inclusivo-transiciones-aprendizaje.md) - El informe adopta un enfoque inclusivo de las transiciones en el aprendizaje, cuestionando la concepción tradicional lineal (hogar→guardería→escuela→trabajo) por androcéntrica, siguiendo estudios feministas críticos.
 * [Engagement Framework: five distinct yet interrelated, non-hierarchical dimensions of student engagement](engagement-framework-five-dimensions.md) - The Engagement Framework addresses how students engage, offering \"five distinctive, non-hierarchical dimensions of engagement that are fundamental to students’ success at university\": personal, academic, intellectual,...
 * [Engeström's activity system model as a lens for analyzing synchronous computer-mediated discussion](activity-system-model-scmd-analysis.md) - The study applies Engeström's (1987) activity system model, which situates Vygotsky's tool-mediated action within Leont'ev's collective activity by adding rule, community, and division of labor.
-* [Entrepreneurship as a newly emerging academic field in U.S. higher education](entrepreneurship-emerging-academic-field.md) - The article frames entrepreneurship as a long-standing feature of American society and an economic contributor that has only recently entered formal higher education, stating that \"only recently has entrepreneurship b...
 * [Environmental enrichment hypothesis as an account of how cognitive ability and curiosity translate into knowledge attainment](environmental-enrichment-hypothesis-epistemic-behavior.md) - The environmental enrichment hypothesis holds that engagement in epistemic behaviors enriches the environment, \"thus providing more opportunity for the acquisition of knowledge\".
 * [Environmental neuroscience active-ingredients framework](environmental-neuroscience-active-ingredients-framework.md) - The article frames environmental neuroscience as a field aiming to identify the \"active ingredients\" of the physical environment — specific features such as air quality, ambient noise levels, and light exposure that a...
 * [Episodic Context Account of Retrieval-Based Learning](episodic-context-account-of-retrieval-based-learning.md) - Proposed by Karpicke et al.
@@ -1334,7 +1333,6 @@ Jump to: [A](#letter-a) · [B](#letter-b) · [C](#letter-c) · [D](#letter-d) ·
 * [Three-tiered hierarchical coding scheme for levels of causal mechanistic reasoning](three-tier-cmr-coding-scheme.md) - The article presents a three-tiered hierarchical coding scheme distinguishing noncausal mechanistic, causal, and causal mechanistic levels of explanation, used to analyze student responses to phenomenon-based tasks, i...
 * [Three-tiered prevention model of behavioral supports](three-tiered-behavior-prevention-model.md) - The guide organizes behavioral support around a three-tiered prevention model in which universal prevention is the first component.
 * [Three-type framework of informal, formal and non-formal education with non-formal education as bridge](three-types-education-nonformal-bridge-framework.md) - The article defines informal education as the ongoing transmission of knowledge, skills, values and attitudes woven into day-to-day community life, and formal education as its systematized, specialized, professionally...
-* [Three-type taxonomy of Philadelphia public high schools: alternative disciplinary, alternative accelerated, and neighborhood-zoned](philadelphia-three-type-high-school-taxonomy.md) - The report organizes its descriptive analysis around a three-part classification of Philadelphia public high schools.
 * [Threefold ritual pattern of separation, transition, and reincorporation in African coming-of-age ceremonies](threefold-ritual-pattern-separation-transition-reincorporation.md) - The paper describes African initiation ceremonies as following a three-part ritual structure: rites of separation, a middle liminal phase of transition, and reincorporation.
 * [TIMSS cognitive domains (Knowing, Applying, Reasoning) as an analytical lens for function art evaluation](timss-cognitive-domains-function-art.md) - The study repurposes the TIMSS cognitive framework—originally designed for standardized test construction—as an interpretive lens for analyzing student cognition in open-ended, creative function art tasks.
 * [Tools, Themes, and Competencies framework for organizing a CT/CS pathway](tools-themes-competencies-framework.md) - The presentation distinguishes three layers of a CT pathway.

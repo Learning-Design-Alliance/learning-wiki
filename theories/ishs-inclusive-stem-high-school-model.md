@@ -1,5 +1,7 @@
 ---
 type: theory
+id: ishs-inclusive-stem-high-school-model
+moved_from: [design/ishs-common-design-features]
 title: "Inclusive STEM high school (ISHS) model: interest-based admission with intensive STEM preparation for all students"
 description: "The article defines an ISHS as a school that enrolls students \"on the basis of interest rather than aptitude or prior achievement\", provides more intensive STEM preparation than conventional high schools, and aims to..."
 status: review
@@ -27,11 +29,14 @@ The article defines an ISHS as a school that enrolls students "on the basis of i
 #### Requirements
 - Enrolls students on the basis of interest rather than aptitude or prior achievement
 - Provides more intensive STEM preparation than conventional high schools
+- All students take the rigorous STEM-focused college preparatory curriculum, not a tracked subset
 #### Constraints
 - Excludes schools where only some students participate in intensive STEM programs and schools preparing for technical fields not requiring a bachelor's degree
+- Curriculum and instructional practices may vary across different ISHSs
 
 ### Target Learners
 - High school students, including groups under-represented in STEM fields
+- High school students from groups under-represented in STEM fields
 
 ### Target Learning Objectives
 - Preparation to succeed in a STEM major in college
@@ -53,3 +58,40 @@ The article defines an ISHS as a school that enrolls students "on the basis of i
 
 ## Key Sources
 - Means, Wang, Wei, Iwatani, & Peters. (2018). Broadening Participation in STEM College Majors: Effects of Attending a STEM-Focused High School. AERA Open. https://doi.org/10.1177/2332858418806305
+
+<!-- merged 2026-10-20 from designs/ishs-common-design-features ("Common design features of inclusive STEM high schools"), an isolated part of this page (maintainer 2026-10-20: fold approved): its body as it stood. Its bullets this page lacked were added above.
+
+# Common design features of inclusive STEM high schools
+
+> **Design** · [All designs](index.md)
+> **Evidence** · no claims cited
+
+## Description
+The article enumerates the features ISHSs tend to share even though curriculum and instructional practices vary: "a rigorous STEm-focused college preparatory curriculum for all students; use of project- or problem-based pedagogy; an extensive network of supports for students who need assistance mastering the curriculum; incorporation of career, technology, and life skills; supportive school climate; and partnerships with external organizations to support out-of-school STEm experiences." Some states, including Texas, have codified these features in school designation guidelines.
+
+## Design Implications
+
+### Context
+#### Requirements
+- All students take the rigorous STEM-focused college preparatory curriculum, not a tracked subset
+#### Constraints
+- Curriculum and instructional practices may vary across different ISHSs
+
+### Target Learners
+- High school students from groups under-represented in STEM fields
+
+### Learning Goals
+- STEM college readiness and STEM career interest
+
+### Claims
+- 
+
+## Related Designs
+- 
+
+## Examples
+-
+
+## Key Sources
+- Means, Wang, Wei, Iwatani, & Peters. (2018). Broadening Participation in STEM College Majors: Effects of Attending a STEM-Focused High School. AERA Open. https://doi.org/10.1177/2332858418806305
+-->

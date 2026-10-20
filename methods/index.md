@@ -2,7 +2,7 @@
 
 The practices a design process is made of — analysis, elicitation, mapping and evaluation work done on the design, not in the classroom.
 
-**38 entries** · 0 stable · 38 in review · 0 drafts
+**37 entries** · 0 stable · 37 in review · 0 drafts
 
 ---
 
@@ -10,7 +10,6 @@ The practices a design process is made of — analysis, elicitation, mapping and
 
 * [Access-Use-Effectiveness Framework](access-use-effectiveness-framework.md) - A three-stage framework for evaluating school or district technology integration — having devices (access) does not imply using them for instruction (use), and using them does not imply doing so in pedagogically sound, student-centered ways (effectiveness).
 * [Activity-System Personas and Scenarios](activity-system-personas.md) - Building learner personas and design scenarios around the activity system a learner acts within — object, mediating tools, rules, community and division of labour — so that the design responds to what constrains the learner rather than to who they are demographically.
-* [Apply a recency adjustment to Bayesian knowledge-estimation updates instead of a static learning rate](recency-adjustment-over-static-learning-rate.md) - The paper's concluding recommendation is that student-model designers consider replacing a static learning rate with a recency adjustment to Bayesian updates, because this \"can lead to better properties of knowledge e...
 * [Assess early development with sequential ordinal scales that disentangle development from age](ordinal-scales-disentangle-development-from-age.md) - Hunt recommends sequential ordinal scales, inspired by Piaget's observations, as an alternative to norm-referenced mental-age and IQ metrics.
 * [Backward Design](backward-design.md) - A curriculum planning strategy that begins by defining desired learning outcomes and acceptable evidence of achievement, then designs instruction last.
 * [Cognitive Task Analysis](cognitive-task-analysis.md) - A family of interview and observation methods for eliciting the cues, judgements and decision rules an expert uses but cannot readily articulate — the tacit content that a procedural task analysis records as a single step.
