@@ -29,7 +29,7 @@ sources:
 # Demonstrating Caring
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 5 studies (3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 review, 1 quant-synthesis, 1 theoretical), `q1`–`q4` · 1 of 5 report an effect size
 
 ## Description
 Demonstrating caring is the strategy of making personal investment in learners visible through concrete, repeated actions: learning and using names, greeting students individually, noticing and asking about their lives, responding to struggle with patience rather than judgment, and following up on things students have shared. Noddings (1984) frames this as *engrossment* — attending fully to the learner — combined with *confirmation*, affirming what the learner is trying to become. Caring must be perceived by the student to have any effect; a teacher's internal goodwill that is never expressed does not build relationship.
@@ -60,7 +60,7 @@ Perceived teacher caring and warmth are among the strongest relational predictor
 ### Target Learners
 - Younger learners, for whom teacher relationship quality shows the strongest meta-analytic association with engagement [Affective teacher-student relationships relate to engagement and achievement.](https://doi.org/10.1037/a0022040) [+M]
 - At-risk, disengaged, or marginalized students, for whom a caring adult relationship is often the pivot point for persistence [+M]
-- Anxious or low-[self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) learners, who interpret instructor warmth as evidence that struggle is safe and help-seeking is welcome [+W]
+- Anxious or low-[self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W] learners, who interpret instructor warmth as evidence that struggle is safe and help-seeking is welcome
 
 ### Target Learning Goals
 - Affective and dispositional: belonging, motivation, willingness to persist through difficulty

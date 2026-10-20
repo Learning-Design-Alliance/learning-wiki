@@ -1,7 +1,7 @@
 ---
 type: claim
-title: Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only
-description: Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only
+title: "Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only"
+description: "Adult learners' motivational profiles differ significantly in self-efficacy, learning strategies and behavioral engagement: the good-quality motivation group scores higher on all three, the high-quantity group on strategies and engagement only"
 id: profiles-predict-self-efficacy-strategies-engagement
 status: review
 generated:

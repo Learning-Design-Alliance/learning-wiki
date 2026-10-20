@@ -43,7 +43,7 @@ sources:
 # Formative Assessment
 
 > **Principle** · [All principles](index.md)
-> **Evidence** · 33 claims (18 for, 14 mixed, 1 unmarked) · 43 studies (12 quant-synthesis, 11 causal, 9 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 43 report an effect size · 21 claims rest on one study
+> **Evidence** · 33 claims (19 for, 14 mixed) · 43 studies (12 quant-synthesis, 11 causal, 9 review, 4 theoretical, 3 associational, 2 qualitative, 2 design), `q1`–`q4` · 15 of 43 report an effect size · 21 claims rest on one study
 
 ## Description
 
@@ -77,7 +77,7 @@ For repeated force-only explanations, ask how acceleration changes when mass var
 
 ## Evidence-bounded expectation
 
-Kingston and Nash's corrected synthesis reports a science mean of 0.19 with 95% CI 0.06–0.31 across 17 effects; the erratum supersedes the original 0.09 science estimate: [assessment-for-learning observation and comparison frame](../claims/assessment-for-learning-improves-achievement.md). It also removes an inappropriate comparison between two formative approaches. The synthesis supports a bounded program-level expectation and a need for better research; it cannot forecast this learner's response, distinguish these diagnostic branches or establish next-week transfer.
+Kingston and Nash's corrected synthesis reports a science mean of 0.19 with 95% CI 0.06–0.31 across 17 effects; the erratum supersedes the original 0.09 science estimate: [assessment-for-learning observation and comparison frame](../claims/assessment-for-learning-improves-achievement.md) [+M]. It also removes an inappropriate comparison between two formative approaches. The synthesis supports a bounded program-level expectation and a need for better research; it cannot forecast this learner's response, distinguish these diagnostic branches or establish next-week transfer.
 
 Before comparing another synthesis or applying an effect-size label, record assignment and baseline comparability, learner/context characteristics, exact treatment and control, outcome alignment and independence, score-range/standardization constraints, horizon and uncertainty. Preserve **unknown** fields. A correction removes one known error; it does not establish that all included estimates are comparable. Report raw magnitude alongside a justified context-sensitive interpretation; do not rank interventions or infer individual probabilities from these pooled values. The formative loop's causal pathway remains a hypothesis to test against subsequent responses.
 

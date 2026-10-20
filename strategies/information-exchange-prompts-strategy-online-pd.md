@@ -10,14 +10,14 @@ generated:
 sources:
   - id: yoon-2020
     resource: "https://doi.org/10.1007/s11412-020-09326-2"
-    title: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2"
+    title: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351–371. https://doi.org/10.1007/s11412-020-09326-2"
     author: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J"
 ---
 
 # Use information-exchange prompts in online PD discussion forums to elicit transactive discourse
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 for) · no studies recorded yet
+> **Evidence** · 1 claim (1 for) · 1 study (1 design), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 When facilitating discussions in online asynchronous PD, structure prompts to specifically target the exchange of information between teachers rather than asking them to reflect individually. The article's transactivity analyses support this recipe: discussions showed higher levels of collaborative discourse resulting from prompts that specifically targeted the exchange of information over those that asked teachers to reflect about their content understanding or their classroom practice. Designers of asynchronous PD can therefore allocate prompt design toward interaction and information exchange to build collaborative community.
@@ -49,4 +49,4 @@ When facilitating discussions in online asynchronous PD, structure prompts to sp
 -
 
 ## Key Sources
-- Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2
+- Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351–371. https://doi.org/10.1007/s11412-020-09326-2

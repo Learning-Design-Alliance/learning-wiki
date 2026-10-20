@@ -167,7 +167,7 @@ Adult knowledge, adult practice, the young person's regulation with the adult pr
 
 ## Key Sources
 - Murray, D. W. & Rosanbalm, K. (2017). Promoting Self-Regulation in Adolescents and Young Adults: A Practice Brief. OPRE Report #2015-82. https://www.acf.hhs.gov/opre/resource/self-regulation-and-toxic-stress-implications-for-programs-and-practice
-- Kaminski, J. W., Valle, L. A., Filene, J. H., & Boyle, C. L. (2008). A meta-analytic review of components associated with parent training program effectiveness. *Journal of Abnormal Child Psychology, 36*(4), 567–589. [doi:10.1007/s10802-007-9201-9](https://doi.org/10.1007/s10802-007-9201-9) — the synthesis behind the rehearsal step, via [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md).
+- Kaminski, J. W., Valle, L. A., Filene, J. H., & Boyle, C. L. (2008). A meta-analytic review of components associated with parent training program effectiveness. *Journal of Abnormal Child Psychology, 36*(4), 567–589. [doi:10.1007/s10802-007-9201-9](https://doi.org/10.1007/s10802-007-9201-9) — the synthesis behind the rehearsal step, via [Parent Coaching Outperforms Information Only](../claims/parent-coaching-outperforms-information-only.md) [+M].
 - Tingey, L., Piatt, R., Hennigar, A., O'Callahan, C., Weaver, S., & Zaveri, H. (2023). The Sexual Risk Avoidance Education National Evaluation: Using co-regulation in youth programs. OPRE Report 2023-281. Office of Planning, Research and Evaluation. https://www.acf.hhs.gov/opre — facilitators' and youths' accounts of co-regulation strategies.
 
 <!-- deprecated 2026-10-07: superseded by the conditional model above. The previous body, kept verbatim.

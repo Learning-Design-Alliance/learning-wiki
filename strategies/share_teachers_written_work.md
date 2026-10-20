@@ -12,7 +12,7 @@ generated:
 # Share Teacher's Written Work
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 8 studies (4 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 3 of 8 report an effect size
+> **Evidence** · 3 claims (3 for) · 8 studies (4 quant-synthesis, 2 review, 1 causal, 1 associational), `q2`–`q4` · 3 of 8 report an effect size
 
 ## Description
 Instructors share their own written work — current drafts, polished pieces, or writing from earlier in their education — with learners and invite feedback and criticism. The strategy models expert work-in-progress, normalizes revision, and positions feedback as a reciprocal practice rather than a one-way judgment. It is a form of [Demonstration](../elements/demonstration.md) applied to the writing process itself, with the instructor deliberately occupying the learner's role.
@@ -55,7 +55,7 @@ Sharing teacher work makes the usually invisible processes of expert writing —
 2. Frame the exchange explicitly: state that you want criticism and that specific, task-focused comments are most useful [Feedback is most effective when directed at the task and process rather than the person.](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M]
 3. Model receiving feedback non-defensively as it arrives — a form of [Demonstration](../elements/demonstration.md) of disposition
 4. Have learners give structured critique ([Provide Feedback](../elements/provide-feedback.md)), optionally via [Whole-Class Sharing](../elements/whole-class-sharing.md) or written channels
-5. Revise visibly in response, narrating which suggestions you take and why — prompting learners to [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) about the reasoning behind each revision [+M]
+5. Revise visibly in response, narrating which suggestions you take and why — prompting learners to [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] about the reasoning behind each revision
 
 ## Related Strategies
 - [Modeling Writing and Revising](modeling-writing-and-revising.md) — the broader practice of making expert writing processes visible

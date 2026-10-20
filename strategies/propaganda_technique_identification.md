@@ -12,7 +12,7 @@ generated:
 # Propaganda Technique Identification
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 10 studies (4 causal, 3 quant-synthesis, 1 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Learners are first taught a named taxonomy of propaganda techniques (e.g., bandwagon, testimonial, glittering generalities, name-calling, loaded language) through direct instruction with annotated examples. They then apply the taxonomy by identifying techniques in authentic online advertisements and reflect on how the interactive medium of online reading — hyperlinks, personalization, native advertising, social sharing — can amplify or blunt a technique's persuasive power. The strategy converts passive exposure to persuasion into active analysis by giving learners a vocabulary for what they are seeing.
@@ -41,7 +41,7 @@ The strategy works by pairing explicit category instruction with application to 
 
 ### Target Learners
 - High school and adult learners, who have sufficient exposure to advertising to recognize the genre
-- Novices benefit most from the explicit taxonomy; learners with strong media literacy background may find basic technique labels redundant and need subtler cases (consistent with the [expertise-reversal effect](../claims/expertise-reversal-effect.md)) [~M]
+- Novices benefit most from the explicit taxonomy; learners with strong media literacy background may find basic technique labels redundant and need subtler cases (consistent with the [expertise-reversal effect](../claims/expertise-reversal-effect.md) [~M])
 
 ### Target Learning Goals
 - Conceptual knowledge: learning the categories of persuasive technique and their defining features

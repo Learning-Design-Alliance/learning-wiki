@@ -52,7 +52,7 @@ Labeling emotional states with words measurably reduces their intensity and impr
 - Academic language: precise expressive vocabulary for reflective writing and discourse
 
 ### Instructions
-1. Curate 10–20 core emotion words at the learners' level, organized into chunked categories or an intensity gradient [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md)
+1. Curate 10–20 core emotion words at the learners' level, organized into chunked categories or an intensity gradient [Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md) [+W]
 2. Introduce words explicitly with [Act It Out](../elements/act-it-out.md) or brief scenarios — facial expression, body cues, and a situation that would produce the feeling — so words attach to embodied and contextual referents
 3. Post the words as a persistent reference (word wall, mood meter) accessible during all activities
 4. Build a daily production routine: a brief [Check-In](../elements/check-in.md) in which every learner selects and justifies a word ("I'm anxious because the presentation is today")

@@ -51,7 +51,7 @@ What determines size of benefit is what the tutor actually does while teaching. 
 #### Constraints
 - Without prompts that require reasoning, tutors default to summarizing, and summarizing produces little learning for the tutor [-M]
 - Learners with weak grasp of the material can consolidate and then propagate misconceptions; peer explanation is least accurate exactly where it is most needed [Peer feedback accuracy depends on expertise.](../claims/peer-feedback-accuracy-depends-on-expertise.md) [-M]
-- The time cost is high relative to studying, and for pure factual retention plain [retrieval practice](../claims/retrieval-practice-improves-transfer.md) achieves comparable gains far more cheaply [~M]
+- The time cost is high relative to studying, and for pure factual retention plain [retrieval practice](../claims/retrieval-practice-improves-transfer.md) [~W] achieves comparable gains far more cheaply
 - Public explanation carries social risk; anxious learners may spend their preparation managing exposure rather than organizing content [-W]
 - The arrangement raises an equity problem when the same learners are always cast as tutors: the tutoring role carries the learning benefit, so distributing it unevenly distributes the benefit unevenly [-M]
 

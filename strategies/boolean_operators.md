@@ -12,7 +12,7 @@ generated:
 # Boolean Operators
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 2 quant-synthesis), `q3`–`q4` · 1 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 Boolean operators are the logical connectors (AND, OR, NOT, NEAR), grouping symbols (parentheses), and truncation symbols (*) that control how a search engine or database combines query terms. Teaching them means giving learners explicit instruction in what each operator does, followed by guided practice in which learners compare an unrefined search with an operator-refined search of the same question and reflect on how the result set changed. The strategy converts searching from keyword guessing into a deliberate, testable query formulation skill.
@@ -42,7 +42,7 @@ Search is a problem-solving task with a hidden logic layer; without instruction,
 
 ### Target Learners
 - Secondary, postsecondary, and adult learners conducting independent research
-- Most effective for learners who already search regularly but inefficiently — the before/after contrast creates [cognitive disequilibrium](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) that motivates adopting the new syntax [+W]
+- Most effective for learners who already search regularly but inefficiently — the before/after contrast creates [cognitive disequilibrium](../claims/cognitive-disequilibrium-motivates-conceptual-change.md) [~W] that motivates adopting the new syntax
 - Less valuable for learners with no search experience at all, who need basic query formulation first [~M]
 
 ### Target Learning Goals

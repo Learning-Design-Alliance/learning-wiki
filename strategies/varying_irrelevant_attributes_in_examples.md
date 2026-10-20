@@ -12,7 +12,7 @@ generated:
 # Varying Irrelevant Attributes in Examples
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 mixed, 1 unmarked) · 4 studies (2 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 4 studies (2 causal, 1 review, 1 theoretical), `q1`–`q3` · 0 of 4 report an effect size · 1 claim rests on one study
 
 ## Description
 When teaching a concept, the examples presented should differ widely on attributes that are *irrelevant* to the concept while consistently displaying the attributes that define it. If all examples of "bird" are small, perching, brown animals, learners may encode size, habitat, or color as part of the concept; varying these across examples forces attention to the defining features. The strategy applies to any concept instruction: presenting a range of surface forms (media, context, difficulty, format, surface story) that share deep structure.
@@ -55,7 +55,7 @@ Varied examples support schema formation by helping learners abstract the genera
 2. Select or author an initial, prototypical example with minimal irrelevant variation — a [Worked Example](../elements/worked-examples.md) is a good vehicle for procedural concepts.
 3. Add 4–6 further examples that keep defining attributes constant while maximizing spread across irrelevant attributes; pair each with a matched [Non-Example](../elements/non-examples.md).
 4. Use [Comparing Cases](../elements/comparing-cases.md) to prompt learners to articulate what varies and what does not, rather than leaving the abstraction implicit.
-5. Fade support by asking learners to classify new varied instances, then generate their own examples, following an [Example-Problem Sequence](../claims/worked-example-problem-sequences.md).
+5. Fade support by asking learners to classify new varied instances, then generate their own examples, following an [Example-Problem Sequence](../claims/worked-example-problem-sequences.md) [+W].
 
 ## Related Strategies
 - [Use Worked Examples](worked-examples-first.md) — varied worked examples are the standard vehicle for this strategy in problem-solving domains

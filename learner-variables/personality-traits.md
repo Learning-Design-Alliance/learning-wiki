@@ -13,16 +13,16 @@ generated:
 # Personality Traits
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (14 show a difference, 9 mixed, 5 no difference, 2 unmarked) · 14 studies (6 review, 5 associational, 2 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 14 report an effect size · 30 claims rest on one study
+> **Evidence** · 30 claims (14 show a difference, 11 mixed, 5 no difference) · 14 studies (6 review, 5 associational, 2 causal, 1 quant-synthesis), `q2`–`q3` · 6 of 14 report an effect size · 30 claims rest on one study
 
 ## Description
 Personality traits are relatively stable individual differences, most often measured on the Big Five dimensions. For learning, conscientiousness (being organised, persistent and self-controlled) is the trait most consistently associated with achievement, and openness (curiosity, breadth of interests) the second; agreeableness, extraversion and neuroticism show little association. Traits correlate with other variables here, such as [self-regulation](self-regulation.md) and [need for cognition](need-for-cognition.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [~W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Conscientiousness **r = .22**, openness **.13**, agreeableness **.01**, extraversion **−.02**, neuroticism **−.09**. [Claim](../claims/big-five-traits-correlate-weakly-with-math-achievement.md)
+- Conscientiousness **r = .22**, openness **.13**, agreeableness **.01**, extraversion **−.02**, neuroticism **−.09**. [Claim](../claims/big-five-traits-correlate-weakly-with-math-achievement.md) [~W]
 
 ## Implications
 

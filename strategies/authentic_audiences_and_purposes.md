@@ -12,7 +12,7 @@ generated:
 # Authentic Audiences and Purposes
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 1 mixed, 1 unmarked) · 9 studies (3 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
+> **Evidence** · 3 claims (2 for, 1 mixed) · 9 studies (3 quant-synthesis, 3 review, 1 causal, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 9 report an effect size
 
 ## Description
 Authentic audiences and purposes means designing tasks so learners produce real work for real readers, users, or decision-makers beyond the instructor, with a purpose that matters outside the classroom. Instead of writing an essay that only a teacher will grade, students publish an article, advise a community organization, pitch to industry judges, or build something someone will actually use. The audience and purpose give the work stakes, which changes how learners plan, draft, revise, and persist.
@@ -57,7 +57,7 @@ Authentic audiences shift learners from performance-for-evaluation toward commun
 2. **Derive criteria from the audience.** Translate what the audience values into rubric criteria so that [Assessment for Learning](../principles/assessment-for-learning.md) aligns with the authentic standard rather than school conventions.
 3. **Structure the task with scaffolds.** Break the deliverable into drafts and checkpoints; use [Coaching](../elements/coaching.md) and [Scaffolding](../principles/cognitive-load-management.md) to manage the extraneous load of tools and logistics.
 4. **Build in feedback from the audience.** Schedule client meetings, judge panels, or editorial responses at least once mid-project, not only at the end; pair with [Peer Review](../elements/peer-review.md) between audience touchpoints.
-5. **Require revision in response to the audience.** Make learners document how audience feedback changed the work — this converts the experience into [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md)-rich reflection [+M].
+5. **Require revision in response to the audience.** Make learners document how audience feedback changed the work — this converts the experience into [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W]-rich reflection.
 6. **Debrief and generalize.** After delivery, run a [Class Discussion](../elements/class-discussion.md) or reflection that connects the experience back to disciplinary concepts, so situational learning becomes transferable knowledge.
 
 ## Related Strategies

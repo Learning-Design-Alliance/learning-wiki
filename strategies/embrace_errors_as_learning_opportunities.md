@@ -13,10 +13,10 @@ generated:
 # Embrace Errors as Learning Opportunities
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (5 for, 1 unmarked) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 design), `q2`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
+> **Evidence** · 6 claims (6 for) · 12 studies (4 quant-synthesis, 3 causal, 3 review, 1 associational, 1 design), `q2`–`q4` · 3 of 12 report an effect size · 1 claim rests on one study
 
 ## Description
-This strategy reframes errors as diagnostic information and learning material rather than as evidence of failure. Instead of moving quickly past a wrong answer, the teacher surfaces the reasoning behind it — identifying what is correct in the student's approach, then guiding the student (or the class) to locate the misconception. Structured uses include [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) — worked examples containing deliberate errors for students to find and fix — and classroom norms that reward risk-taking and reasoning over immediate correctness. The strategy is closely tied to growth-mindset messaging: ability is treated as developable, and struggle is normalized as part of learning.
+This strategy reframes errors as diagnostic information and learning material rather than as evidence of failure. Instead of moving quickly past a wrong answer, the teacher surfaces the reasoning behind it — identifying what is correct in the student's approach, then guiding the student (or the class) to locate the misconception. Structured uses include [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+M] — worked examples containing deliberate errors for students to find and fix — and classroom norms that reward risk-taking and reasoning over immediate correctness. The strategy is closely tied to growth-mindset messaging: ability is treated as developable, and struggle is normalized as part of learning.
 
 ## Design Implications
 

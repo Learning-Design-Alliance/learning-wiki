@@ -13,7 +13,7 @@ generated:
 # Self Efficacy
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 65 claims (39 for, 23 mixed, 2 against, 1 unmarked) · 53 studies (24 associational, 11 causal, 11 review, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 61 claims rest on one study
+> **Evidence** · 65 claims (40 for, 23 mixed, 2 against) · 53 studies (24 associational, 11 causal, 11 review, 3 quant-synthesis, 3 design, 1 qualitative), `q1`–`q4` · 14 of 53 report an effect size · 61 claims rest on one study
 
 ## Description
 Self efficacy is a learner's belief in their capability to succeed at a specific task or domain, not a general sense of self-worth. It functions as a proximal driver of learning: learners with higher efficacy set more ambitious goals, persist longer through difficulty, and recover faster from failure [Bandura, 1997]. Because it is domain-specific and malleable, it is a design target rather than a fixed learner trait.
@@ -46,7 +46,7 @@ Instructional design shapes self efficacy primarily through the four sources Ban
 - Affective goals: reducing anxiety and avoidance in high-stakes domains (math, writing, public speaking)
 
 ### Affordances
-- [Scaffolding](../principles/scaffolding.md) — graduated support guarantees early success experiences, the strongest source of efficacy; [fading](../claims/fading-support-promotes-transfer-of-responsibility.md) then lets learners attribute the success to themselves rather than the support
+- [Scaffolding](../principles/scaffolding.md) — graduated support guarantees early success experiences, the strongest source of efficacy; [fading](../claims/fading-support-promotes-transfer-of-responsibility.md) [+W] then lets learners attribute the success to themselves rather than the support
 - [Assessment for Learning](../principles/assessment-for-learning.md) — low-stakes formative assessment with actionable feedback converts assessment from an efficacy threat into an efficacy builder
 - [Self-Determination Theory](../theories/self-determination-theory.md) — competence is one of three basic needs; efficacy-building task design simultaneously supports autonomy and relatedness
 - [Social Learning Theory](../theories/social-learning-theory.md) — vicarious experience through peer modeling is a core efficacy source and the theoretical bridge between observation and belief change

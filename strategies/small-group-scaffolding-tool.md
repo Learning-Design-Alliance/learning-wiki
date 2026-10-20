@@ -17,7 +17,7 @@ sources:
 # Small-Group Scaffolding Tool
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 2 studies (1 causal, 1 associational), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (1 for, 1 mixed) · 2 studies (1 causal, 1 associational), `q3` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 Standard scaffolding theory (contingency, fading, transfer of responsibility) is normally operationalized at the level of an individual student's zone of proximal development, even inside a group setting. The Small-Group Scaffolding Tool (SGS-Tool) instead trains teachers to diagnose and respond to the *group's* maximum level of understanding as a collective unit. It is a six-step decision procedure: the teacher first determines whether the group as a whole is stuck (not just one member), and only then diagnoses the group's collective understanding, checks that diagnosis with the group, provides content support pitched to that collective level, checks whether the group can now proceed unaided, and — if so — deliberately steps back into process support (encouraging students to explain to and question each other) rather than continuing to supply content. See [Scaffolding](../elements/scaffolding.md) for the underlying element this strategy specializes.
@@ -31,17 +31,17 @@ Standard scaffolding theory (contingency, fading, transfer of responsibility) is
 #### Constraints
 - Teachers in the source study found Step 4 (content support) the hardest step to limit — the impulse to over-explain persisted even after training, and over-explaining caused Steps 5–6 to be skipped
 - The tool changed teachers' *behavior* (more diagnosis, more process support, more student participation) but did not significantly change the *contingency* of the content support they gave (p = .134) — training changed which steps teachers used, not necessarily how well-calibrated their content explanations were
-- Step 5 (checking whether the group can continue unaided) is precisely the "timely fading" check that [Students' application of teacher support predicts accurate answers in small-group work](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) found necessary for students to actually apply support afterward — skipping straight from Step 4 to withdrawal risks the same untimely-fading failure mode documented in that separate study
+- Step 5 (checking whether the group can continue unaided) is precisely the "timely fading" check that [Students' application of teacher support predicts accurate answers in small-group work](../claims/student-uptake-of-support-predicts-small-group-answer-accuracy.md) [~W] found necessary for students to actually apply support afterward — skipping straight from Step 4 to withdrawal risks the same untimely-fading failure mode documented in that separate study
 #### Implementation Variability
 - The six steps can be introduced as a flowchart teachers consult in the moment; the source study paired this with ongoing coaching rather than a one-time training session
 
 ### Target Learners
 - Small groups of students engaged in collaborative discussion (studied here in 7th-grade mathematics) where a teacher circulates between groups
-- Link to sub-claim: [Group-level scaffolding training increases teacher process support and student participation](../claims/group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md)
+- Link to sub-claim: [Group-level scaffolding training increases teacher process support and student participation](../claims/group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) [+W]
 
 ### Target Learning Goals
 - Increasing the proportion of group members actively participating in teacher–group interactions, rather than one student acting as the group's sole interlocutor with the teacher
-- Link to sub-claim: [Group-level scaffolding training increases teacher process support and student participation](../claims/group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md)
+- Link to sub-claim: [Group-level scaffolding training increases teacher process support and student participation](../claims/group-level-scaffolding-training-increases-teacher-process-support-and-student-participation.md) [+W]
 
 ### Instructions
 1. **Determine** whether the group's maximum level of understanding has actually been reached — is the question coming from the whole group being stuck, or just one student? If not the whole group, skip to Step 6 (process support) to keep the group's own discussion going.

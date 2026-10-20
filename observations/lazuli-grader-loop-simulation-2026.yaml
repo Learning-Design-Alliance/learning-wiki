@@ -1,0 +1,196 @@
+# ============================================================================
+# EVERY LEARNER IN THIS RECORD IS SIMULATED. No person is represented. The
+# GRADERS are not invented: every grader parameter was fitted per model from
+# the swapped-label runs recorded in lazuli-grader-jorgpt-2026
+# (`attainment-label-moves-identical-work`), and the cohort's ability
+# distribution is JorGPT's. Read that record before this one.
+#
+# READ `provenance.source_type`: `platform-experiment`. The grader's makers'
+# own simulation of that grader feeding a learner model like Lazuli's, not a published finding.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-grader-loop-simulation-2026
+  citation: 'David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844'
+  design:
+    family: simulation
+    design_detail: >-
+      Paired counterfactual simulation. A synthetic cohort answers 40 graded
+      items over a term across four skills; a Beta-Bernoulli learner model
+      (lazy decay toward its prior, as shipped) holds the belief; a grader
+      model fitted to each of four real graders turns each answer into a
+      grade. Every simulated learner is run with the label edge (the grader is
+      told the current belief) and without it, on common random numbers, plus
+      a third arm with the edge's per-grade effects but no feedback through the
+      belief, so the loop's own multiplier is separated from per-grade shifts.
+      Uncertainty is the spread over 200 learner-cluster bootstrap refits of
+      the grader parameters.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-10-06
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: showing-a-grader-a-learners-prior-performance-biases-the-grade
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      Answers "does it wash out over many updates": in simulation, under its
+      assumptions, no. The modelled loop carries the label effect forward and
+      amplifies it by 1.07-1.17 over a term, stably, on all four simulated
+      graders (four of the six measured); its sharpest cost is to a learner wrongly
+      recorded as weak (1-3 more items to recover).
+
+evidence_base:
+  unit: participants
+  size:
+    value: 20000
+    unit: participants
+  additional_sizes:
+    - value: 2000
+      unit: participants
+      note: Simulated learners per parameter draw, over 200 draws per configuration.
+    - value: 4
+      unit: other
+      note: >-
+        Graders modelled: gemini-3.5-flash-lite, gpt-4.1-mini, gpt-5-mini,
+        qwen3-235b-a22b-2507, each fitted from its own 900 swapped-label
+        gradings.
+  population:
+    description: >-
+      SIMULATED learners with JorGPT's ability distribution on the mark scale
+      (mean 5.05, SD 1.27; item SD 2.39). No person is represented.
+    age_or_stage: Not applicable
+    prior_knowledge: >-
+      One ability per learner, four skills, an item every 2.5 days. Every
+      delay and spacing is a parameter of the generator.
+  context:
+    setting: Simulation.
+    delivery_mode: >-
+      Primary configuration: the shipped update rule (each AI-graded item adds
+      mass 1, split by the grade), a continuous label (the stored belief x 10).
+      Sensitivity: mass 3, a recommended alternative rule (E5), three bands, a
+      binary label, a calibrated grader, no learner-level grader error.
+    duration: Runs executed 2026-10-05.
+  arms:
+    - id: loop-no-edge
+      description: The grader is told nothing about the learner.
+      size:
+        value: 20000
+        unit: participants
+    - id: loop-edge
+      description: >-
+        The grader is told the learner model's current belief for the skill
+        being graded, and its grade then updates that belief.
+      size:
+        value: 20000
+        unit: participants
+
+comparisons:
+  - id: edge-vs-no-edge
+    kind: other
+    index_arm: loop-edge
+    reference_arm: loop-no-edge
+    description: >-
+      The same simulated learners, on common random numbers, with and without
+      the label edge. Every estimand is a difference or ratio of the two.
+
+observations:
+  - id: label-loop-amplifies-and-stays-stable
+    sample:
+      value: 20000
+      unit: participants
+    comparison_ref: edge-vs-no-edge
+    analysis_ref: label-compounding
+    outcome:
+      construct: >-
+        Whether feeding the learner model's belief to the grader compounds the
+        label effect over a course, and whether the loop is stable
+      source_language: >-
+        loop multiplier A on the between-learner spread of beliefs; largest
+        eigenvalue of the update; belief RMSE; items to recover from a false
+        low start
+      measure: >-
+        A = slope of end-of-term belief on true ability with the edge, divided
+        by the same slope with the edge's per-grade effects but no feedback
+        (primary); eigenvalue analytically; RMSE and per-tail mean error of
+        belief against truth at item 40; median items until a learner started
+        at a false low belief stays within 0.05 of a correctly started one
+      scale: ratio
+      direction: contextual
+      role: other
+      role_basis: inferred
+      anchors:
+        - claims/showing-a-grader-a-learners-prior-performance-biases-the-grade
+    time:
+      label: Over a simulated 40-item term
+    result:
+      measure_type: other
+      estimate: 1.066
+      ci_lower: 1.049
+      ci_upper: 1.083
+      interval_type: other
+      model: >-
+        Fitted label effect (marks per label point): 0.093, 0.100, 0.140,
+        0.199. Loop multiplier A [2.5-97.5 percentile over parameter draws]:
+        Gemini 1.066 [1.049, 1.083], GPT-4.1-mini 1.075 [1.061, 1.091],
+        GPT-5-mini 1.111 [1.093, 1.128], Qwen 1.167 [1.149, 1.183]; all
+        AMPLIFIES. Eigenvalue 0.707 without the edge, 0.730 / 0.732 / 0.742 /
+        0.757 with it; runaway needs about 1.29 marks per label point, 5.9 to
+        12.6 times the measured effect; all STABLE. Belief RMSE change at item
+        40: -0.002 (Gemini), +0.010, +0.010, +0.012. Strong learners' (ability
+        6+) mean belief error, without to with the edge: -0.046 to -0.040,
+        -0.160 to -0.175, -0.127 to -0.150, -0.170 to -0.187. Items to recover
+        from a false low start: 23 to 25, 19 to 20, 21 to 23, 19 to 22
+        (SLOWER on three of four). A binary label roughly doubles the RMSE cost.
+        The estimate above is Gemini's multiplier.
+      interpretation: >-
+        IN SIMULATION THE LOOP COMPOUNDS, MODESTLY AND STABLY. A higher belief
+        yields a higher grade, which raises the belief, on every simulated
+        model, whichever way the single-item drift points relative to the
+        teacher. Under the model's assumptions the effect does not wash out in
+        the Bayesian update and it does not run away. The total effect of the
+        edge on belief spread, including the label's per-grade effects, is
+        1.005-1.054 (Qwen neutral, GPT-4.1-mini unresolved). Its cost to
+        accuracy is about a tenth of a mark of belief RMSE on the three graders
+        harsh on strong work and nothing measurable on Gemini, and it falls on
+        strong learners' under-belief; weak learners' beliefs move toward the
+        truth. A wrong low record is the sharpest cost.
+    moderators:
+      reported:
+        - variable: label granularity
+          relationship: >-
+            A binary label removes most of the feedback but pushes almost every
+            learner down, so it doubles the accuracy cost; coarser is not safer.
+          source_quote: >-
+            Binary label: divergence +0.017 / +0.020 / +0.025 on the three
+            harsh graders (HARMS).
+        - variable: evidence mass per item
+          relationship: >-
+            Mass 3 raises the multiplier (1.08-1.21); the recommended E5 rule
+            lowers it (1.05-1.13). No verdict changes.
+          source_quote: >-
+            E0 M=3: 1.081 / 1.091 / 1.136 / 1.205; E5: 1.054 / 1.062 / 1.091 /
+            1.133.
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Simulated throughout. Pre-registered; the floor failed twice
+      and the verdict was redefined as the loop's own multiplier before any
+      real parameter was fitted. The grader stand-in is
+      linear in the label and was measured only in the two attainment tails;
+      the learner model converts the grade to evidence and models no other
+      output of the grader, which the label may also move.
+    source_quote: >-
+      From studies/measurement/grader-label-compounding: AMPLIFIES and STABLE
+      on all four models; A 1.07-1.17.
+    source_location: studies/measurement/grader-label-compounding/out/results.json

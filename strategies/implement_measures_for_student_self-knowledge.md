@@ -53,7 +53,7 @@ Self-knowledge measures work because they feed the monitoring loop of self-regul
 1. Administer a learning-interest and strengths inventory at the start of a unit; discuss results with students rather than filing them.
 2. Establish recurring [Check-Ins](../principles/check-ins.md) — exit tickets or one-minute reflections — that ask students to name what they learned and what remains unclear.
 3. Have students score their own and peers' work against an explicit rubric ([Assess Performance](../elements/assess-performance.md)), then compare self-scores with teacher scores to build calibration.
-4. Provide [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) focused on process and next steps, and require students to state one adjustment they will make ([Articulation](../elements/articulation.md)).
+4. Provide [feedback](../claims/feedback-most-effective-at-task-and-process-levels.md) [+M] focused on process and next steps, and require students to state one adjustment they will make ([Articulation](../elements/articulation.md)).
 5. Revisit inventory and progress data in periodic conferences so students track change over time ([Coaching](../elements/coaching.md)).
 
 ## Related Strategies

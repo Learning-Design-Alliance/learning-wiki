@@ -13,7 +13,7 @@ generated:
 # Mindfulness Practice
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 5 studies (3 review, 1 causal, 1 theoretical), `q2`–`q3` · 0 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 3 studies (1 quant-synthesis, 1 review, 1 theoretical), `q3` · 1 of 3 report an effect size · 1 claim rests on one study
 
 ## Description
 Mindfulness practice involves short, structured exercises — focused breathing, body scans, mindful observation of thoughts — in which learners deliberately attend to present-moment experience and return attention when it wanders. In instructional settings it is typically delivered as brief (3–10 minute) practices at the start of class or before demanding tasks, rather than as a standalone curriculum.
@@ -63,9 +63,9 @@ Mindfulness training targets the attentional control system: regular practice st
 - Attention regulation and on-task behavior (proximal goal)
 - Self-regulation and emotion management under evaluative stress
 - Not a substitute for content instruction — no reliable direct gains in domain knowledge [~M]
-- Self-regulation: noticing and redirecting attention and emotion ([Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md)) [+M]
+- Self-regulation: noticing and redirecting attention and emotion ([Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md) [+W])
 - Attention management: building the executive control that underlies sustained [Practice](../elements/practice.md)
-- Stress reduction: lowering arousal that would otherwise consume working memory resources ([Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md)) [~W]
+- Stress reduction: lowering arousal that would otherwise consume working memory resources ([school mindfulness interventions show a smaller significant effect on stress, g = 0.39](../claims/mindfulness-domain-effects-cognitive-stress-resilience.md) [+M])
 
 ### Instructions
 1. **Establish the routine.** Fix a consistent trigger (start of class, before tests). Predictability lowers the working-memory cost of the practice itself.
@@ -144,7 +144,7 @@ Mindfulness training functions as attention regulation practice: controlled stud
 ### Target Learning Goals
 - Self-regulation: noticing and redirecting attention and emotion ([Self-monitoring improves self-regulation.](../claims/self-monitoring-improves-self-regulation.md)) [+M]
 - Attention management: building the executive control that underlies sustained [Practice](../elements/practice.md)
-- Stress reduction: lowering arousal that would otherwise consume working memory resources ([Chunking reduces working memory load.](../claims/chunking-reduces-working-memory-load.md)) [~W]
+- Stress reduction: lowering arousal that would otherwise consume working memory resources ([school mindfulness interventions show a smaller significant effect on stress, g = 0.39](../claims/mindfulness-domain-effects-cognitive-stress-resilience.md) [+M])
 
 ### Instructions
 1. Establish a consistent cue and duration (e.g., three minutes after transitions), framed as attention training, not discipline.

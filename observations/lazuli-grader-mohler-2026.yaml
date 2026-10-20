@@ -1,0 +1,532 @@
+# ============================================================================
+# THIS IS THE RECORD THAT MAKES THE OTHER ONE READABLE. Its companion,
+# lazuli-grader-jorgpt-2026, reports agreement in the mid-0.8s against a single
+# teacher. Whether that is good is unanswerable from a corpus with one rater.
+# Mohler has two, independently grading every answer, so it can say what two
+# human raters achieve on the same task — and the answer reframes the whole
+# investigation.
+#
+# READ `provenance.source_type` BEFORE POOLING ANYTHING: `platform-experiment`,
+# the grader's makers' own experiment on that grader. Not a finding from the depositors.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-grader-mohler-2026
+  citation: 'David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844'
+  design:
+    family: other
+    design_detail: >-
+      Two analyses over one archival corpus. First, agreement between two
+      independent human raters who each graded every answer — a
+      between-raters agreement measurement with no manipulation at all, which
+      is the ceiling. Second, a repeated-measures ablation of curricular
+      context, in which every configuration scores every stratified-sampled
+      case, so contrasts are within-item. Answer ids of the form
+      E<module>.Q<question>.A<answer> recover genuine curricular structure: a
+      module is an assignment and its questions are goals a course author
+      grouped, which is what the companion corpus lacks.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-15
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: llm-short-answer-graders-can-reach-human-rater-agreement
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      The load-bearing edge in this whole investigation. The grader agrees with
+      one rater at 0.798 and the other at 0.549, against a human-human 0.519
+      that is itself an over-estimate.
+  - claim: human-graders-agree-less-than-single-grade-ground-truth-implies
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      Two graduate assistants on the same course agree at QWK 0.519 —
+      and lower still on the rows a consistency filter removed.
+  - claim: course-context-helps-sparse-items-and-dilutes-rich-ones
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      THE HELP HALF, on terse one-sentence answers. Reverses the companion
+      record's dilution result, which is why the claim is stated as a boundary
+      condition rather than a direction.
+
+evidence_base:
+  unit: items
+  size:
+    value: 1727
+    unit: items
+  additional_sizes:
+    - value: 2273
+      unit: items
+      note: >-
+        The full corpus. 546 rows were excluded as internally inconsistent —
+        see `observability_notes` on the ceiling observation, and the release's
+        `mohler-consistent` dataset.
+    - value: 150
+      unit: items
+      note: >-
+        The stratified sample size every grading run uses. The ceiling run
+        (`--mode ceiling`) draws it from all 1,727 consistent rows
+        (stratifiedSample, seed 7) and the taxonomy run from the 1,609 answers
+        with four sibling questions (same seed), so the two are different
+        150s. The ceiling itself is computed on all 1,727 consistent rows,
+        not on the sample.
+    - value: 80
+      unit: comparisons
+      note: Distinct questions in the corpus.
+  population:
+    description: >-
+      Students on a university data-structures course, answering short
+      questions in writing, each answer graded independently by two graduate
+      assistants on 0-5. A PROXY population: not Lazuli learners, not Lazuli's
+      questions, not its rubrics. Answers are typically one or two sentences —
+      a materially different regime from the companion corpus's long answers,
+      and the difference that reconciles their opposite context results.
+    age_or_stage: University students, stage not recorded in the deposit
+    prior_knowledge: >-
+      Enrolled in the course the questions come from. The grade distribution is
+      SKEWED TOWARD CORRECT (mean grade 4.18 of 5 across all 2,273 rows, 4.16
+      on the 1,727 analysed), which compresses the range
+      any agreement statistic has to work in and is a limitation on every
+      figure here.
+  context:
+    setting: >-
+      Archival. Answers were written and graded around 2011, long before any of
+      this work existed.
+    delivery_mode: >-
+      Offline re-scoring for the grading arms; no model is involved in the
+      rater-versus-rater analysis, which is arithmetic over the deposit.
+    duration: Runs executed 2026-09-14 against a single hosted model family.
+  arms:
+    - id: rater-one
+      description: >-
+        The first graduate assistant's independent score. An arm in the sense
+        that it is a named configuration of the grading process — a human one.
+      size:
+        value: 1727
+        unit: items
+    - id: rater-two
+      description: The second graduate assistant's independent score.
+      size:
+        value: 1727
+        unit: items
+    - id: our-grader
+      description: >-
+        The shipped grading prompt, Model.LITE, flat single-skill list, scored
+        on the 0-5 scale the corpus uses.
+      size:
+        value: 150
+        unit: items
+    - id: control-flat
+      description: >-
+        The shipped configuration with one skill and no sibling context. The
+        control for the taxonomy contrast.
+      size:
+        value: 150
+        unit: items
+    - id: real-siblings
+      description: >-
+        Other questions from the SAME module — genuine curricular siblings,
+        grouped by the course author rather than by this release.
+      size:
+        value: 150
+        unit: items
+    - id: unrelated-siblings
+      description: >-
+        The same amount of sibling context drawn from OTHER modules. Identical
+        length and shape; only relatedness differs. The arm that separates
+        "hierarchy" from "more text", which the companion corpus could not do.
+      size:
+        value: 150
+        unit: items
+
+comparisons:
+  - id: rater-vs-rater
+    kind: other
+    index_arm: rater-two
+    reference_arm: rater-one
+    description: >-
+      Agreement between two independent human raters on the same answers. Not a
+      treatment contrast — neither rater is an intervention — which is why the
+      kind is `other`. It is the reference level against which every machine
+      agreement figure in this release is read.
+  - id: grader-vs-human
+    kind: other
+    index_arm: our-grader
+    reference_arm: rater-one
+    description: >-
+      The grader against each human rater separately, and against their mean.
+      Reported all three ways on purpose: agreeing with a mean is mechanically
+      easier than agreeing with either rater.
+  - id: taxonomy-relatedness
+    kind: between-groups
+    index_arm: real-siblings
+    reference_arm: unrelated-siblings
+    description: >-
+      Related sibling questions against unrelated ones, holding the AMOUNT of
+      context constant. The contrast that asks whether a goal graph earns its
+      keep as a graph, which the companion corpus could not pose.
+  - id: taxonomy-context
+    kind: between-groups
+    index_arm: real-siblings
+    reference_arm: control-flat
+    description: >-
+      Curricular sibling context against none, with an unrelated-sibling arm
+      holding length and shape constant.
+
+observations:
+  - id: human-human-ceiling
+    sample:
+      value: 1727
+      unit: items
+    comparison_ref: rater-vs-rater
+    analysis_ref: mohler-ceiling
+    outcome:
+      construct: Agreement between two human graders on the same written answers
+      source_language: quadratic-weighted kappa, rater 1 against rater 2
+      measure: >-
+        Quadratic-weighted kappa over the 0-5 scale's own levels — the same
+        statistic every machine figure in this release uses, computed the same
+        way, which is the only reason the comparison is legitimate.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
+    time:
+      label: As graded originally, both raters independently
+    result:
+      measure_type: other
+      estimate: 0.519
+      model: >-
+        QWK 0.519, MAE 0.72, on all 1,727 internally consistent rows. On the
+        150-case stratified subset of the ceiling run the same pair reaches
+        0.608 (MAE 1.15); the draw rebuilds with no model call in the frozen
+        snapshot and the current harness (release analysis
+        `mohler-ceiling-draw`). The taxonomy run's different 150 gives 0.478.
+      interpretation: >-
+        THE NUMBER THAT REFRAMES THE INVESTIGATION. Two graduate
+        assistants, grading the same answers to the same questions on the same
+        course, agree at 0.519. Every machine agreement figure in this release
+        sits above that. It follows that the residual disagreement
+        between a machine grader and a single human reference is substantially
+        noise in the REFERENCE rather than error in the grader — which is why
+        pooling, model tier, exemplars and attempt history all failed to move
+        agreement: they were being asked to fix something that is not the
+        grader's.
+    moderators:
+      reported:
+        - variable: which subset is scored
+          relationship: >-
+            The same pair agrees at 0.608 on the stratified 150 and 0.519 on
+            all 1,727, because stratifying over-represents the ends where
+            graders discriminate. Stratification inflates this pair by 0.089,
+            against about 0.03 for the machine figures on JorGPT.
+          source_quote: >-
+            From the release: rater 1 against rater 2 reaches 0.519 on all
+            1,727 rows and 0.608 on the sampled 150.
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Implementation is only partly visible: the deposit does not record what
+      rubric, training or moderation the two raters worked under, so this is
+      agreement between two people doing a job, not agreement under a
+      characterised protocol. That is the honest reading and it cuts both ways
+      — better-moderated raters would presumably agree more.
+    source_quote: >-
+      From the release: two human raters agree with each other at QWK
+      0.519.
+    source_location: release 1.0.0, evidence human-human-ceiling
+
+  - id: ceiling-is-over-estimated
+    sample:
+      value: 546
+      unit: items
+    comparison_ref: rater-vs-rater
+    analysis_ref: mohler-removed-rows
+    outcome:
+      construct: >-
+        Whether the consistency filter that produced the analysed rows removed
+        the cases the raters disagreed on most
+      source_language: rater agreement on the excluded rows against the kept ones
+      measure: >-
+        QWK and exact-agreement rate on the 546 excluded rows, on a best-guess
+        rescaling of their inconsistent per-rater scores
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
+    time:
+      label: As graded originally
+    result:
+      measure_type: other
+      estimate: 0.418
+      model: >-
+        Excluded rows: QWK 0.418, exact agreement 52.4%. Kept rows: 0.519 and
+        56.6%.
+      interpretation: >-
+        THE HEADLINE CEILING IS AN OVER-ESTIMATE AND MUST NOT BE QUOTED AS THE
+        CEILING. The filter removed exactly the cases the raters disagreed on
+        most, so true human-human agreement across the full corpus sits
+        somewhere below 0.519. This STRENGTHENS the release's conclusion — the
+        grader clears an even lower bar — and disqualifies the number, which is
+        why it is recorded as its own observation rather than as a footnote to
+        the one above.
+    moderators:
+      reported: []
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: partial
+    observability_notes: >-
+      The excluded rows are excluded precisely because their scoring cannot be
+      reconciled, so any figure computed on them rests on a best-guess
+      rescaling. 0.418 halves both raters' 0-10 scores and rounds half to
+      even; 52.4% is exact agreement on the raw scores. Both now reproduce from
+      committed code (studies/measurement/grader-eval/analyses/
+      mohler_removed_rows.py, 2026-10-06). Other rescalings give 0.377-0.411,
+      every one below the kept rows' 0.519. The DIRECTION is what this
+      observation establishes; the magnitude depends on the rescaling and
+      should not be quoted without it. The kept-row
+      figures (0.519, MAE 0.72, exact agreement 56.6%) reproduce exactly.
+    source_quote: >-
+      From the release: excluded rows agree at 0.418 against 0.519 for kept
+      ones, so 0.519 is an over-estimate.
+    source_location: release 1.0.0, evidence ceiling-is-over-estimated
+
+  - id: ceiling-depends-on-the-statistic
+    sample:
+      value: 1727
+      unit: items
+    comparison_ref: rater-vs-rater
+    analysis_ref: ceiling-robustness
+    outcome:
+      construct: >-
+        Whether the level of the human-human ceiling survives a change of
+        chance-corrected agreement statistic
+      source_language: Gwet's AC2 beside quadratic-weighted kappa, rater 1 against rater 2
+      measure: >-
+        AC2 with the same quadratic weights over the same 0-5 levels, beside
+        QWK, bootstrap over answers (4,000 resamples). A level is
+        STATISTIC-DEPENDENT if the 95% interval of AC2 - QWK lies wholly beyond
+        +/-0.10 (pre-registered).
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
+    time:
+      label: As graded originally, both raters independently
+    result:
+      measure_type: other
+      estimate: 0.858
+      ci_lower: 0.839
+      ci_upper: 0.875
+      interval_type: confidence
+      model: >-
+        AC2 0.858 [0.839, 0.875] against QWK 0.519 [0.474, 0.560] on the 1,727
+        consistent rows; AC2 - QWK +0.338 [+0.303, +0.376] (question-clustered
+        [+0.275, +0.405]): STATISTIC-DEPENDENT. On a 300-answer draw stratified
+        on grade the two agree (QWK 0.531, AC2 0.562). Grader-versus-rater
+        orderings on that draw (three models): none flips; the reference swing
+        is +0.23 to +0.27 in QWK and +0.25 to +0.28 in AC2. A constant grader
+        that gives every answer 5 scores AC2 0.926 against rater 1 (post hoc).
+      interpretation: >-
+        THE CEILING'S LEVEL IS A KAPPA STATEMENT; WHAT IT IS USED FOR IS NOT.
+        The marks bunch at the top (rater means 4.40 and 3.93 of 5), so kappa's
+        chance agreement is high and its value low; where the grade distribution
+        is flattened the two statistics agree. "Two trained raters agree at
+        about 0.5" therefore needs its statistic beside it. The comparisons built on the ceiling keep their sign under AC2 and none reverses: the reference swing exceeds every intervention on all three models, and the grader above the human-human level against rater 2 holds (and becomes resolved on two models). The grader below it against rater 1 is no longer resolved on GPT-4.1-mini and Qwen. AC2 is not the better instrument for scoring graders here: it
+        credits a constant grader above the humans.
+    moderators:
+      reported:
+        - variable: the sample's grade distribution
+          relationship: >-
+            AC2 and QWK differ by 0.34 on the skewed full corpus and by 0.03 on
+            a draw stratified to flatten the grades, with the same raters and
+            scale.
+          source_quote: >-
+            QWK 0.519 / AC2 0.858 on 1,727 rows; QWK 0.531 / AC2 0.562 on the
+            stratified 300.
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: partial
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Pre-registered with a detection floor and an AC2 self-test
+      that reproduces Gwet's irrCAC worked examples exactly. The grader
+      comparisons use the grader-label-stability marks, which were graded under
+      an attainment label (balanced across strata), not an unlabelled pass. The
+      constant-grader readings were added after the run and are reported only.
+    source_quote: >-
+      From studies/measurement/grader-ceiling-robustness: CEILING-STATISTIC-DEPENDENT
+      (level: Mohler, Menagerie 5- and 14-level; spread); no ordering flips.
+    source_location: studies/measurement/grader-ceiling-robustness/out/results.json
+
+  - id: grader-vs-each-rater
+    sample:
+      value: 150
+      unit: items
+    comparison_ref: grader-vs-human
+    analysis_ref: mohler-agreement
+    outcome:
+      construct: >-
+        Agreement between the AI grader and each human rater, and against their
+        mean
+      source_language: quadratic-weighted kappa, grader against each reference
+      measure: >-
+        QWK on the 0-5 scale, reported three ways because the three answer
+        different questions and only two of them are fair.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/llm-short-answer-graders-can-reach-human-rater-agreement
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: other
+      estimate: 0.798
+      model: >-
+        Grader vs rater 2: QWK 0.798, MAE 0.74. Grader vs rater 1: 0.549, MAE
+        1.36. Grader vs the mean of both: 0.711, MAE 0.94. Rater 1 vs rater 2 on the same 150: 0.608. n=150 stratified
+        (`--mode ceiling`: stratifiedSample of all 1,727, seed 7; the draw and
+        its 0.608 rebuild without a model call, `mohler-ceiling-draw`; the
+        grader's marks were not kept per case).
+      interpretation: >-
+        THE GRADER IS NOT THE WEAK LINK. It agrees with rater 2 at 0.798, well
+        above the 0.608 the two humans reach with each other on the same cases.
+        Against rater 1 it reaches 0.549: below that 0.608, and above the 0.519
+        the humans reach on all 1,727 rows. Two caveats that matter and
+        are not rhetorical. Agreeing with the MEAN of two raters is
+        mechanically easier than agreeing with either, since averaging cancels
+        half the noise, so 0.711 against 0.519 is not a head-to-head and the
+        per-rater rows are the honest comparison. And the spread between 0.549
+        and 0.798 is itself the finding underneath the finding: the grader is
+        much closer to one of these two humans than to the other, which is what
+        "agreement with a single human reference" means in practice and why a
+        single-rater corpus cannot tell you how good a grader is.
+    moderators:
+      reported:
+        - variable: which human is the reference
+          relationship: >-
+            A 0.25 swing in measured agreement depending on which of two
+            equally qualified raters is treated as ground truth.
+          source_quote: >-
+            From the release: 0.549 against rater 1 and 0.798 against rater 2,
+            on the same 150 cases.
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Different corpus, scale and domain from the companion record whose
+      figures this is used to interpret, and skewed toward correct answers
+      (gold mean 4.18/5). The inference "the 0.84-0.87 band on JorGPT is above
+      human consistency" is a transfer across corpora, not a measurement:
+      JorGPT has one rater and its own ceiling is unmeasurable.
+    source_quote: >-
+      From the release: 0.798 against rater 2, 0.549 against rater 1, where the
+      two raters reach 0.608 with each other.
+    source_location: release 1.0.0, evidence grader-vs-each-rater
+
+  - id: sibling-context
+    sample:
+      value: 150
+      unit: items
+    comparison_ref: taxonomy-context
+    analysis_ref: mohler-taxonomy
+    outcome:
+      construct: >-
+        Effect of curricular sibling context on agreement, and whether the
+        benefit comes from relatedness or from context of any kind
+      source_language: QWK and bias by sibling-context arm
+      measure: >-
+        QWK against the mean human grade, with bias beside it. The third arm
+        holds length and shape constant and varies only relatedness, which is
+        the manipulation the companion corpus could not perform.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/course-context-helps-sparse-items-and-dilutes-rich-ones
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: other
+      estimate: 0.738
+      model: >-
+        Control (flat, 1 skill) 0.703, MAE 0.93, bias -0.57. Real siblings from
+        the same module: 0.738, MAE 0.83, bias -0.41. Unrelated siblings from
+        other modules: 0.725, MAE 0.88, bias -0.39. n=150.
+      interpretation: >-
+        THIS REVERSES THE COMPANION RECORD. There sibling context cost
+        0.028-0.034; here it gains 0.022-0.035, in single runs at n = 150, at
+        the edge of the harness's +/-0.02 resolution, and the two point
+        opposite ways, so neither corpus's answer generalises alone.
+        RELATEDNESS WAS NOT DETECTED TO MATTER: real siblings beat unrelated
+        ones by only 0.013, below resolution, a non-detection rather than a
+        demonstrated null. On that reading a representative sample of what the
+        course asks may do as well as a goal graph. A candidate reconciliation
+        of the two corpora is how much signal the item itself carries:
+        these answers are one or two sentences on a 0-5 scale and the grader
+        runs harsh (bias -0.57), so surrounding questions tell it what this
+        course is and what level it pitches at, pulling it toward the human in
+        BOTH arms. Long answers on a 0-10 scale already have that signal, and
+        further skills are only distraction.
+    moderators:
+      reported:
+        - variable: relatedness of the sibling context
+          relationship: >-
+            Real siblings outperform unrelated ones by 0.013 — below the
+            harness's resolution, so this is a NON-DETECTION at this n rather
+            than a demonstrated null.
+          source_quote: >-
+            From the release: real siblings 0.738 against unrelated siblings
+            0.725, a gap below the harness's +/-0.02 resolution.
+      candidate:
+        - variable: signal density of the item
+          relationship: >-
+            Sparse items benefit from course context; rich items are diluted by
+            it. The proposed rule reconciling the two corpora.
+          note: >-
+            CANDIDATE, never promoted: an interpretation fitted to two data
+            points. Testable per activity type, which is how it should be
+            settled rather than globally.
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      One run at n=150. The real-versus-unrelated gap is below resolution and
+      must not be quoted as a finding. Mohler's terse answers are a different
+      regime from classic free-text work, which is closer to the companion
+      corpus.
+    source_quote: >-
+      From the release: control 0.703, real siblings 0.738, unrelated siblings
+      0.725 — and the gap between the last two is below resolution.
+    source_location: release 1.0.0, evidence sibling-context

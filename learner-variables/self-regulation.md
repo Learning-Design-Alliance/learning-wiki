@@ -13,16 +13,16 @@ generated:
 # Self-Regulation
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 163 claims (111 show a difference, 31 mixed, 19 no difference, 2 unmarked) · 118 studies (33 associational, 30 causal, 25 review, 12 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 23 of 118 report an effect size · 154 claims rest on one study
+> **Evidence** · 163 claims (113 show a difference, 31 mixed, 19 no difference) · 118 studies (33 associational, 30 causal, 25 review, 12 quant-synthesis, 9 theoretical, 6 qualitative, 3 design), `q1`–`q4` · 23 of 118 report an effect size · 154 claims rest on one study
 
 ## Description
 Whether a learner can plan, monitor and adjust without the structure being supplied for them. It decides whether a multi-week deliverable survives without scaffolding and pacing support. The finding that matters most for design is that self-monitoring is unreliable by default: learners judge fluency rather than learning, and confident misjudgement is the normal case rather than the exception [-M]. So the design job is supplying the external signal, not exhorting reflection.
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Self-regulation **r = .42** (children, stronger in younger samples) and metacognition **.37** (adolescents). [Claim](../claims/self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md)
+- Self-regulation **r = .42** (children, stronger in younger samples) and metacognition **.37** (adolescents). [Claim](../claims/self-regulation-and-metacognition-correlate-strongly-with-math-achievement.md) [+W]
 
 ## Implications
 

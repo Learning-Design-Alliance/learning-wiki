@@ -10,14 +10,14 @@ generated:
 sources:
   - id: yoon-2020
     resource: "https://doi.org/10.1007/s11412-020-09326-2"
-    title: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2"
+    title: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351–371. https://doi.org/10.1007/s11412-020-09326-2"
     author: "Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J"
 ---
 
 # Social capital elements as design levers for online teacher professional development
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 2 claims (2 for) · 1 study (1 causal), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (1 causal, 1 design), `q2` · 0 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 The article frames teacher collaboration in online asynchronous PD through social capital mechanisms. It identifies social capital elements that shape teachers' collaborative experience: tie quality, depth of interaction, and access to expertise. The design combines these mechanisms with essential teacher learning and PD characteristics so that isolated teachers can participate and build knowledge together. The article describes positive beliefs related to the social capital elements of tie quality, depth of interaction, and access to expertise, indicating these elements were perceptible supports in the course.
@@ -49,4 +49,4 @@ The article frames teacher collaboration in online asynchronous PD through socia
 -
 
 ## Key Sources
-- Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351371. https://doi.org/10.1007/s11412-020-09326-2
+- Yoon, S.A., Miller, K., Richman, T., Wendel, D., Schoenfeld, I., Anderson, E., & Shim, J. (2020). Encouraging collaboration and building Community in Online Asynchronous Professional Development: designing for social capital. Intern. J. Comput.-Support. Collab. Learn 15, 351–371. https://doi.org/10.1007/s11412-020-09326-2

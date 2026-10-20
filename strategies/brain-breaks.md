@@ -13,14 +13,14 @@ generated:
 # Brain Breaks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 unmarked) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (1 for, 2 mixed) · 10 studies (3 causal, 3 quant-synthesis, 3 review, 1 theoretical), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Brain breaks are brief (typically 1–10 minute) planned interruptions to sustained instructional activity, usually involving physical movement, social interaction, or a change in task modality. They are carried out by pausing the primary learning task and engaging learners in a short, low-stakes activity — stretching, a movement game, a quick social prompt — before returning to the original task with renewed attention.
 
 ## Design Implications
 
-Sustained attention degrades over continuous instructional periods, and physical activity acutely improves subsequent attention and executive function in children and adolescents [Hillman et al. found single bouts of exercise improve reading and math performance.](https://doi.org/10.1016/j.neuroscience.2009.01.012) [+M]. Brain breaks also function as [Cognitive Load Management](../principles/cognitive-load-management.md): they allow working memory resources depleted by sustained effort to recover, similar in spirit to how [chunking](../claims/chunking-reduces-working-memory-load.md) reduces load within a task. The break must be genuinely restorative — a break that introduces its own heavy cognitive demands (complex rules, competitive pressure) defeats the purpose.
+Sustained attention degrades over continuous instructional periods, and physical activity acutely improves subsequent attention and executive function in children and adolescents [Hillman et al. found single bouts of exercise improve reading and math performance.](https://doi.org/10.1016/j.neuroscience.2009.01.012) [+M]. Brain breaks also function as [Cognitive Load Management](../principles/cognitive-load-management.md): they allow working memory resources depleted by sustained effort to recover, similar in spirit to how [chunking](../claims/chunking-reduces-working-memory-load.md) [~W] reduces load within a task. The break must be genuinely restorative — a break that introduces its own heavy cognitive demands (complex rules, competitive pressure) defeats the purpose.
 
 ### Context
 #### Requirements
@@ -78,7 +78,7 @@ Sustained attention degrades over continuous instructional periods, and physical
 
 - [Active Recess](../strategies/active-recess.md) — a longer, unstructured physical activity period serving the same attention-restoration function at the schedule level
 - [Check-ins](../principles/check-ins.md) — social-emotional pauses that can double as brain breaks
-- [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) — breaks between study episodes also support spacing effects on retention [+S]
+- [Spaced practice scheduling](../claims/spaced-practice-improves-retention.md) [~M] — breaks between study episodes also support spacing effects on retention
 - [Active learning](../principles/active-learning.md) — a more substantive way to interrupt passive instruction; brain breaks are a lighter-weight option
 - [Include opportunities for mini-breaks during lessons, such as drawing, music, games, stretching, or going outside](mini-breaks-during-lessons.md)
 

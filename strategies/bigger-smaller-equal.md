@@ -12,7 +12,7 @@ generated:
 # Bigger/Smaller/Equal
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 7 studies (4 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 7 report an effect size
+> **Evidence** · 2 claims (2 for) · 7 studies (4 quant-synthesis, 1 causal, 1 associational, 1 theoretical), `q2`–`q4` · 3 of 7 report an effect size
 
 ## Description
 The teacher calls out a number. If it is greater than 10, students expand their bodies to take up as much space as possible (feet planted, no running); if less than 10, they shrink to occupy minimal space; if exactly 10, they hold neutral and form an equals sign with their arms. Once students master the rules, the teacher advances to sums and differences ("12 − 5"), requiring students to compute before responding with their bodies.
@@ -36,7 +36,7 @@ The strategy converts an abstract symbolic comparison (magnitude relative to a b
 #### Implementation Variability
 - Change the benchmark number (e.g., 20, 100) as fluency grows
 - Advance from single numbers to sums and differences, then to two-step expressions
-- Have students lead the calling, which adds production practice and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) opportunities when the leader must justify a peer's response
+- Have students lead the calling, which adds production practice and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] opportunities when the leader must justify a peer's response
 - Seated variant: arm spans wide, folded, or crossed as an equals sign for restricted spaces
 
 ### Target Learners

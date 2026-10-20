@@ -12,7 +12,7 @@ generated:
 # Employ Common Language and Strategies Across Disciplines
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 causal, 3 quant-synthesis, 2 review, 1 associational), `q2`–`q4` · 2 of 10 report an effect size
 
 ## Description
 Employing common language and strategies across disciplines means that teachers in different subject areas deliberately adopt shared terminology, shared instructional routines, and shared expectations for transferable skills such as writing, argumentation, and reading. Instead of each discipline using its own idiosyncratic vocabulary for the same moves (e.g., "claim–evidence–reasoning" in science but "thesis–support–conclusion" in English), the school or program standardizes the language and the strategy sequence, so students rehearse the same skill under multiple content conditions.
@@ -56,7 +56,7 @@ Consistency across contexts reduces the extraneous cognitive load of re-decoding
 3. Introduce the strategy in one anchor class through [Direct Instruction](../patterns/direct-instruction.md) with [Modeling](../elements/coaching.md) and worked examples.
 4. Have every participating teacher require [Practice](../elements/practice.md) with the same strategy on discipline-specific content, keeping the language identical.
 5. Use the shared rubric to [Provide Feedback](../elements/assess-performance.md), so feedback terms match instruction terms.
-6. Use [Peer Discussion](../elements/class-discussion.md) and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) to help students articulate how the strategy applies across subjects.
+6. Use [Peer Discussion](../elements/class-discussion.md) and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] to help students articulate how the strategy applies across subjects.
 7. Review annually: retire strategies that are not transferring and refine discipline-specific adaptations.
 
 ## Related Strategies

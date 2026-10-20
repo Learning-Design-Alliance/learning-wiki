@@ -12,7 +12,7 @@ generated:
 # SEL Discussions on Ethical Dilemmas
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
+> **Evidence** · 1 claim (1 for) · 4 studies (2 quant-synthesis, 1 causal, 1 associational), `q2`–`q4` · 1 of 4 report an effect size
 
 ## Description
 This strategy involves using age-appropriate, real-life ethical dilemmas as discussion starters to help students practice responsible decision-making. Students identify the problem, analyze the situation from multiple perspectives, propose and defend solutions, and evaluate outcomes against ethical principles — all within a facilitated, low-stakes discussion format. It is typically integrated into social studies, language arts, or advisory periods.
@@ -37,7 +37,7 @@ Structured dilemma discussions work because they require learners to articulate 
 #### Implementation Variability
 - **Structured formats:** [Debate](../patterns/debate.md) or [Assigned Positions](../elements/assigned-positions.md) force perspective-taking by requiring students to argue a side they did not choose
 - **Written pre-work:** brief individual reasoning before discussion raises the quality of contributions and gives quieter students an entry point
-- **Written follow-up:** reflective writing or [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) after discussion consolidates the reasoning practiced orally
+- **Written follow-up:** reflective writing or [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] after discussion consolidates the reasoning practiced orally
 - **Embedded dilemmas:** dilemmas drawn from current literature, history, or science content (e.g., stem-cell policy in biology) integrate SEL with academic goals rather than competing for time
 
 ### Target Learners

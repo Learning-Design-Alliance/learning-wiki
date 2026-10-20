@@ -12,7 +12,7 @@ generated:
 # Individualized "Highlighter Tool"
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 mixed, 1 against, 1 unmarked) · 8 studies (4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size
+> **Evidence** · 3 claims (1 for, 1 mixed, 1 against) · 8 studies (4 review, 2 causal, 1 quant-synthesis, 1 theoretical), `q2`–`q4` · 1 of 8 report an effect size
 
 ## Description
 Students use an individualized "highlighter tool" (e.g., a Google Doc add-on such as Highlight Tool) to create custom highlighters in different colors. They label each color with a category (e.g., "Argument #1" in red, "Counterclaim" in blue) and use them to mark relevant text. The highlights can then be exported by color into a table, where students summarize each highlighted category in their own words.
@@ -61,7 +61,7 @@ The strategy converts passive marking into a generative activity: the labeled co
 ## Related Strategies
 - [Annotating](../principles/annotating.md) — the broader family of text-marking practices; the labeled color scheme is a structured subset
 - [Concept Mapping](../principles/annotating.md) — a follow-on step that turns exported categories into relational structure
-- [Dual Coding](../claims/dual-coding-improves-learning.md) — color categories add a visual-verbal code that can support recall
+- [Dual Coding](../claims/dual-coding-improves-learning.md) [+W] — color categories add a visual-verbal code that can support recall
 
 ## Examples
 - **Google Docs + Highlight Tool add-on** (https://workspace.google.com/marketplace/app/highlight_tool/2078802590): students build custom labeled highlighters, then export highlights by color to a Doc table for summarizing.

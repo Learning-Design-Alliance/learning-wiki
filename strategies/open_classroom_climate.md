@@ -12,7 +12,7 @@ generated:
 # Open Classroom Climate
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 mixed) · 2 studies (2 review), `q2` · 0 of 2 report an effect size
 
 ## Description
 An open classroom climate is a discussion environment in which students perceive that they can voice opinions on controversial political and social issues without ridicule, that disagreement is treated as legitimate, and that multiple perspectives are genuinely welcomed. It is established through teacher modeling of impartial facilitation, explicit discussion norms, and repeated structured opportunities for [Class Discussion](../elements/class-discussion.md) on contested topics.
@@ -31,7 +31,7 @@ Open classroom climate is one of the most consistently documented school-level p
 #### Constraints
 - Perceived teacher bias — even subtle — suppresses minority-opinion expression and reduces the effect to near zero [-M]
 - In classrooms with low trust or unresolved intergroup conflict, open discussion can entrench polarization rather than build understanding [-W]
-- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) or marginalized identities may experience "open" discussion as exposure unless structures like written pre-discussion positions or [Assigned Positions](../elements/assigned-positions.md) distribute the risk [~M]
+- Students with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [~W] or marginalized identities may experience "open" discussion as exposure unless structures like written pre-discussion positions or [Assigned Positions](../elements/assigned-positions.md) distribute the risk
 - Effectiveness drops when discussion is frequent but unstructured; norms without facilitation produce dominance by a few voices [-W]
 
 #### Implementation Variability

@@ -35,7 +35,7 @@ Tochukwu Dominic Eze, Lucas Zurbuchen, Khalil Anderson, Marcelo Worsley. (2026).
 
 `q2 · i?` · `qualitative · r?`
 
-Qualitative survey study of 290 university students after 12 weeks of CA tool-mediated group activities; deductive-inductive thematic analysis of open-ended responses. The authors report that Our analysis revealed 11 distinct indicators at individual and group levels. No effect size is printed, so impact is not coded.
+Qualitative survey study of 290 university students after 12 weeks of CA tool-mediated group activities; deductive-inductive thematic analysis of open-ended responses. The authors report that “Our analysis revealed 11 distinct indicators” at individual and group levels. No effect size is printed, so impact is not coded.
 
 > "Our analysis revealed 11 distinct indicators: communication, discussion and idea contribution, task contribution and completion, progress, result and achievement, group dynamics, knowledge of the topic and project, learning and growth, participation, effort and time investment, and peer review."
 

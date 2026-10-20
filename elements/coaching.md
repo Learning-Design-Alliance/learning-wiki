@@ -13,7 +13,7 @@ generated:
 # Coaching
 
 > **Element** · [All elements](index.md)
-> **Evidence** · 21 claims (13 for, 6 mixed, 1 against, 1 unmarked) · 27 studies (9 review, 6 causal, 5 qualitative, 3 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 1 of 27 report an effect size · 13 claims rest on one study
+> **Evidence** · 21 claims (13 for, 6 mixed, 2 against) · 27 studies (9 review, 6 causal, 5 qualitative, 3 quant-synthesis, 2 theoretical, 1 associational, 1 design), `q2`–`q4` · 1 of 27 report an effect size · 13 claims rest on one study
 
 ## Description
 Coaching is the provision of individualized support and guidance while learners actively perform a task. The coach observes performance, diagnoses gaps between current and target performance, and intervenes with hints, questions, modeling, or [Feedback](feedback.md) calibrated to what the learner needs at that moment. Unlike one-time instruction, coaching is sustained and adaptive — support rises and falls with learner performance.
@@ -33,7 +33,7 @@ Coaching accelerates skill development by keeping learners in a productive strug
 - Resource-intensive: low learner-to-instructor ratios are difficult to scale, which is why large-enrollment courses substitute [Demonstration](demonstration.md) and structured practice
 - Overly frequent or intrusive hints can create dependence and undermine self-regulation; support must be contingent and faded, not constant [Scaffolding contingent on learner performance improves learning outcomes.](../claims/contingent-scaffolding-improves-learning.md) [~M]
 - Less effective when the coach lacks domain expertise — inaccurate diagnosis and feedback can entrench errors
-- For well-structured procedural content with strong [worked examples](../claims/worked-examples-improve-math-performance.md), coaching adds cost without proportional benefit for novices [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
+- For well-structured procedural content with strong [worked examples](../claims/worked-examples-improve-math-performance.md) [-W], coaching adds cost without proportional benefit for novices [Worked-example guidance becomes less effective as learner expertise increases.](../claims/worked-examples-less-effective-with-expertise.md) [~M]
 
 ### Target Learners
 - Novices in hands-on, technical, or complex domains where errors are costly and expert judgment is not visible in the final product

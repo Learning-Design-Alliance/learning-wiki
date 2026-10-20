@@ -13,7 +13,7 @@ generated:
 # Completion Problems First
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (4 for, 1 mixed, 2 against, 1 unmarked) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
+> **Evidence** · 8 claims (5 for, 1 mixed, 2 against) · 12 studies (6 causal, 2 quant-synthesis, 2 review, 2 theoretical), `q1`–`q4` · 1 of 12 report an effect size · 2 claims rest on one study
 
 ## Description
 Completion problems first is a sequencing strategy in which learners' earliest practice tasks are partially completed — some steps or solution states are given, and learners fill in the remainder. It operationalizes the *completion strategy* (van Merriënboer) as a bridge between studying full [worked examples](../principles/worked-examples.md) and solving problems unaided, implementing a smooth [fading](../elements/fading.md) of guidance rather than an abrupt transition.
@@ -29,7 +29,7 @@ Completion problems reduce the unguided search that makes early problem solving 
 - Deliberate selection of which steps to blank — typically the steps carrying the learning goal, not arbitrary gaps
 - Feedback or a correct model answer so learners can check their completions
 - A set of high-quality worked solutions to draw the completed portion from
-- A task sequence in which the completed portion shrinks (and learner-supplied portion grows) as competence develops ([Fading](../claims/fading-support-promotes-transfer-of-responsibility.md))
+- A task sequence in which the completed portion shrinks (and learner-supplied portion grows) as competence develops ([Fading](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M])
 - Clear marking of which steps are given and which the learner must supply, so learners do not waste effort parsing the interface rather than the content
 - Feedback or a correct final solution available for self-checking after completion
 

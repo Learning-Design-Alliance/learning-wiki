@@ -13,16 +13,16 @@ generated:
 # Spatial Ability
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 30 claims (22 show a difference, 2 mixed, 4 no difference, 2 unmarked) · 19 studies (10 associational, 4 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 19 report an effect size · 29 claims rest on one study
+> **Evidence** · 30 claims (24 show a difference, 2 mixed, 4 no difference) · 19 studies (10 associational, 4 causal, 2 quant-synthesis, 2 review, 1 qualitative), `q1`–`q4` · 4 of 19 report an effect size · 29 claims rest on one study
 
 ## Description
 Spatial ability covers mental rotation, visualising objects from other viewpoints, holding visual-spatial information in memory and reasoning about the relations among shapes. It is measured with timed tasks (mental rotation, paper folding, embedded figures). It correlates moderately with mathematics and science achievement and is strongly associated with entry into and success in STEM fields, and training studies show it can be improved. It overlaps with [general cognitive ability](general-cognitive-ability.md) and with visual-spatial [working memory](working-memory.md).
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Spatial ability **r = .25** (k = 263), subtypes **.21–.35**; no significant change with age. [Claim](../claims/spatial-ability-correlates-moderately-with-math-achievement.md)
+- Spatial ability **r = .25** (k = 263), subtypes **.21–.35**; no significant change with age. [Claim](../claims/spatial-ability-correlates-moderately-with-math-achievement.md) [+W]
 
 ## Implications
 

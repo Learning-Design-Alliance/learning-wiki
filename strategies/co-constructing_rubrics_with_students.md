@@ -12,7 +12,7 @@ generated:
 # Co Constructing Rubrics With Students
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 2 unmarked) · 9 studies (4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (4 for) · 9 studies (4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Co-constructing rubrics involves students in drafting, negotiating, or refining the criteria and performance-level descriptions by which their work will be judged, rather than receiving a finished rubric from the instructor. The process typically begins with students analyzing exemplars (strong and weak), naming the qualities that distinguish them, and translating those qualities into explicit criteria and descriptors. The instructor's role shifts from author to facilitator, ensuring the resulting criteria are accurate, assessable, and aligned with learning goals.
@@ -44,11 +44,11 @@ Co-construction works because it makes evaluative criteria explicit and personal
 - Most valuable for novices who cannot yet articulate what quality looks like — the process builds the evaluative vocabulary they lack [~M]
 - Effective in higher education and secondary settings where students can engage in criterion-level discussion [+M]
 - Less beneficial for very young learners unless heavily scaffolded with concrete exemplars and simplified language [~W]
-- Particularly useful for students with low [academic self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md), for whom transparent, self-authored standards reduce the sense that assessment is arbitrary [+W]
+- Particularly useful for students with low [academic self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [+W], for whom transparent, self-authored standards reduce the sense that assessment is arbitrary
 
 ### Target Learning Goals
 - Evaluative judgment: the capacity to judge the quality of one's own and others' work
-- Metacognitive monitoring: using criteria to plan, self-assess, and revise ([Self-Monitoring](../claims/self-monitoring-improves-self-regulation.md)) [+M]
+- Metacognitive monitoring: using criteria to plan, self-assess, and revise ([Self-Monitoring](../claims/self-monitoring-improves-self-regulation.md) [+W])
 - Deep understanding of task demands and quality standards in a domain
 - Not well suited to objectives with fixed, non-negotiable standards (e.g., safety protocols, citation formats), where criteria should be given, not negotiated [~M]
 

@@ -12,7 +12,7 @@ generated:
 # Search Strategy Scaffolds
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (5 causal, 1 quant-synthesis), `q2`–`q4` · 1 of 6 report an effect size
 
 ## Description
 Search strategy scaffolds are explicit supports — query templates, source-evaluation checklists, staged search plans, or modeled searches — that structure how learners locate information. Rather than assuming students already know how to find and judge information, the strategy makes the search process itself an instructional target: learners are taught to decompose an information need, generate and refine queries, scan results strategically, and evaluate sources before using them.
@@ -55,8 +55,8 @@ Unscaffolded search is dominated by keyword matching and surface cues; learners 
 1. Present an authentic information need or inquiry question, ideally embedded in a problem context ([Anchored Instruction](../elements/anchored-instruction.md)).
 2. Model an expert search with a think-aloud: formulating the need, generating keywords, scanning results, rejecting weak sources aloud ([Think-Aloud Modeling](../strategies/think-aloud-modeling.md)).
 3. Provide a query scaffold — question decomposition or sentence frames — and have learners draft their own search plan.
-4. Teach evaluation criteria explicitly, emphasizing lateral reading and corroboration across independent sources ([Civic Online Reasoning](../claims/civic-online-reasoning-instruction-improves-evaluation.md)).
-5. Have learners execute searches, log decisions, and compare selected sources with peers ([Comparing Cases](../claims/comparing-contrasting-cases-improves-learning.md)).
+4. Teach evaluation criteria explicitly, emphasizing lateral reading and corroboration across independent sources ([Civic Online Reasoning](../claims/civic-online-reasoning-instruction-improves-evaluation.md) [+M]).
+5. Have learners execute searches, log decisions, and compare selected sources with peers ([Comparing Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+W]).
 6. Fade the scaffolds: move from full search plans to prompts to independent searching as learners show competent self-regulation.
 
 ## Related Strategies

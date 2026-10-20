@@ -12,7 +12,7 @@ generated:
 # Good Behavior Game
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
+> **Evidence** · 1 claim (1 for) · 3 studies (1 causal, 1 quant-synthesis, 1 review), `q2`–`q3` · 2 of 3 report an effect size
 
 ## Description
 The Good Behavior Game (GBG) is a group-contingency classroom management strategy: the class is divided into teams, rules for disruptive behavior are posted, and teams earn (or avoid losing) privileges by staying under a preset criterion of behavior marks during a defined activity period. Because consequences depend on the whole team's conduct, peer attention shifts toward on-task behavior rather than disruption. It is carried out by the teacher during ordinary instruction, typically in short sessions that are gradually lengthened.
@@ -62,7 +62,7 @@ GBG applies group contingency and reinforcement principles to reduce disruption 
 
 ## Related Strategies
 
-- [Cooperative learning with group rewards and individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) — GBG shares the group-contingency structure; pairing it with academic team goals extends it from management to learning
+- [Cooperative learning with group rewards and individual accountability](../claims/cooperative-learning-group-rewards-and-individual-accountability.md) [+W] — GBG shares the group-contingency structure; pairing it with academic team goals extends it from management to learning
 - Empathic discipline briefings — a complementary teacher-practice approach to reducing suspensions and conflict
 - [Implement CW-FIT as 30- to 60-minute sessions three to four times per week, fading monitoring and rewards as behavior improves](cw-fit-session-frequency-fading-strategy.md)
 

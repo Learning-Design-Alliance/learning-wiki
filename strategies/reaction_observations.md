@@ -52,7 +52,7 @@ Structured observation tasks give young learners concrete experiences on which l
 1. Present the materials and pose a focused question ("What happens to the dot of ink when water touches it?") using [Advance Organizers](../elements/advance-organizers.md) to frame what to look for.
 2. Have learners predict the outcome and record or state it before observing.
 3. Conduct the observation; learners record what they see through drawing and [Annotating](../principles/annotating.md).
-4. Repeat with a contrasting liquid or condition so properties can be compared, applying [Multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md).
+4. Repeat with a contrasting liquid or condition so properties can be compared, applying [Multiple contrasting cases](../claims/comparing-contrasting-cases-improves-learning.md) [+M].
 5. Facilitate a [Class Discussion](../elements/class-discussion.md) in which learners explain the reaction in their own words, connecting observation to a simple causal account.
 6. Consolidate through [Application](../elements/application.md) — e.g., predicting what will happen with a new liquid pair — and [Practice](../elements/practice.md) with a fresh example.
 

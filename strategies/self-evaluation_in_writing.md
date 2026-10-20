@@ -76,7 +76,7 @@ Self-evaluation is the self-assessment step within self-regulated writing cycles
 
 **[Read, Write, Think](https://www.readwritethink.org)** — NCTE/IRA lesson plans include self-evaluation checklists and peer-editing guides students apply to their own drafts before revision.
 
-**Portfolio self-assessment in Writers' Workshop** — Students select pieces, evaluate them against published criteria, and write reflective cover letters justifying their judgments, combining evaluation with [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md).
+**Portfolio self-assessment in Writers' Workshop** — Students select pieces, evaluate them against published criteria, and write reflective cover letters justifying their judgments, combining evaluation with [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W].
 
 ## Key Sources
 - Graham, S., & Perin, D. (2007). Writing next: Effective strategies to improve writing of adolescents in middle and high schools. *Journal of Educational Psychology, 99*(3), 445–476.

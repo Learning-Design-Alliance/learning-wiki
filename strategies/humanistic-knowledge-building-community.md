@@ -17,7 +17,7 @@ sources:
 # Humanistic Knowledge Building Community
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (2 unmarked) · 2 studies (2 qualitative), `q1` · 1 of 2 report an effect size · 2 claims rest on one study
+> **Evidence** · 2 claims (2 for) · 2 studies (2 qualitative), `q1` · 1 of 2 report an effect size · 2 claims rest on one study
 
 ## Description
 A four-phase collaborative knowledge-building design (Hod & Ben-Zvi, 2018) applied here to a topic — national identity — where students hold personal stakes in the content, not just academic interest. Students use an online knowledge-building platform (Knowledge Forum) to collect, merge, and iterate on ideas, moving through phases of steadily increasing collective cognitive responsibility: from low (structured, teacher-directed assignments) to high (student-determined content and direction). The design deliberately curates materials that present the topic as contested and multiple — pluralistic, sometimes contradictory legal, philosophical, and journalistic sources — rather than converging on one authoritative account, and pairs this with humanistic classroom practices (trust, active listening, psychological safety) intended to let students bring personal experience into academic analysis.
@@ -37,11 +37,11 @@ A four-phase collaborative knowledge-building design (Hod & Ben-Zvi, 2018) appli
 
 ### Target Learners
 - Students in a domain where the standard curriculum's authoritative account conflicts with, or excludes, some students' lived identity or experience
-- Link to sub-claim: [Restorying supports Black girls' identification of and resistance to dominant narratives](../claims/restorying-supports-computing-identity-reconstruction.md) — a related mechanism (contested-narrative materials enabling identity work) demonstrated in a different domain
+- Link to sub-claim: [Restorying supports Black girls' identification of and resistance to dominant narratives](../claims/restorying-supports-computing-identity-reconstruction.md) [+W] — a related mechanism (contested-narrative materials enabling identity work) demonstrated in a different domain
 
 ### Target Learning Goals
 - Building capacity to hold and reason across multiple, conflicting definitions of a contested category, rather than defaulting to a single inherited (essentialist) account
-- Link to sub-claim: [Participant examples support identity reconstruction through academic content](../claims/participant-examples-support-identity-reconstruction-through-academic-content.md)
+- Link to sub-claim: [Participant examples support identity reconstruction through academic content](../claims/participant-examples-support-identity-reconstruction-through-academic-content.md) [+W]
 
 ### Instructions
 1. **Orientation** (~8 sessions) — Introduce knowledge-building norms and the online platform; have students analyze a curated set of texts (e.g., news articles) that surface tension or contradiction in the topic at low collective cognitive responsibility (structured, detailed assignments).

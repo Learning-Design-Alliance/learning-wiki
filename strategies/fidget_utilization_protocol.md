@@ -59,7 +59,7 @@ The protocol treats fidget use as a trained behavior rather than an open accommo
 6. **Review.** Use brief [Check-Ins](../elements/check-in.md) weekly: does the fidget help, distract, or no longer matter? Adjust or fade accordingly.
 
 ## Related Strategies
-- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) — a higher-intensity alternative channel for the same regulatory need
+- [Classroom physical activity increases children's on-task behaviour, with no consistent gain on attention or other cognitive tests](../claims/classroom-physical-activity-improves-attention.md) [+W] — a higher-intensity alternative channel for the same regulatory need
 - [Check-In](../elements/check-in.md) — the monitoring routine that keeps fidget use honest and adjustable
 
 ## Related Elements

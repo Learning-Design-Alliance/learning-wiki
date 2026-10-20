@@ -25,7 +25,7 @@ sources:
 # Inflectional Endings Instruction
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 16 studies (7 causal, 7 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 6 of 16 report an effect size · 1 claim rests on one study
+> **Evidence** · 5 claims (5 for) · 16 studies (7 causal, 7 quant-synthesis, 1 review, 1 associational), `q2`–`q4` · 6 of 16 report an effect size · 1 claim rests on one study
 
 ## Description
 Inflectional endings instruction explicitly teaches the rules for adding suffixes such as -ed, -s, -es, -ing, -er, and -est to base words. These suffixes change number, person, or tense without changing a word's part of speech. Instruction typically includes making learners aware of the sounds suffixes make (e.g., the three pronunciations of past-tense -ed), sorting words by ending sound, and explicitly teaching orthographic rules — the doubling rule (*commit → committed*), the drop-e rule (*hope → hoping*), and the change-y-to-i rule (*carry → carried*). Meta-analytic evidence shows morphological instruction, of which inflectional endings are the entry point, improves literacy outcomes including word reading, spelling, and comprehension [Goodwin & Ahn's meta-analysis of morphological interventions.](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+S].
@@ -38,7 +38,7 @@ Explicit, systematic teaching of ending rules outperforms incidental exposure be
 #### Requirements
 - A sequenced word list progressing from regular patterns to rule-governed exceptions
 - Direct, teacher-led explanation of each rule with worked examples ([Direct Instruction](../patterns/direct-instruction.md))
-- Consistent [practice](../claims/part-task-practice-reduces-load-for-novices.md) with word decomposition and combination, distributed over time [Spaced practice improves retention of spelling patterns.](../claims/spaced-practice-improves-retention.md) [+M]
+- Consistent [practice](../claims/part-task-practice-reduces-load-for-novices.md) [+W] with word decomposition and combination, distributed over time [Spaced practice improves retention of spelling patterns.](../claims/spaced-practice-improves-retention.md) [+M]
 
 #### Constraints
 - Less effective when taught as isolated rote spelling lists disconnected from reading and writing use [~M] — transfer to authentic writing drops when rules are practiced only on worksheets
@@ -69,7 +69,7 @@ Explicit, systematic teaching of ending rules outperforms incidental exposure be
 
 ## Related Strategies
 
-- [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) — inflectional endings extend phonics into the morphological layer; both depend on systematic, explicit sequencing
+- [Phonics instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [+M] — inflectional endings extend phonics into the morphological layer; both depend on systematic, explicit sequencing
 - [Word sorting](../claims/comparing-contrasting-cases-improves-learning.md) — the primary practice format for contrasting ending patterns
 - [Use a morphograph-based rule-teaching routine: introduce the rule, apply it in whole-group instruction, then assign independent worksheet practice](morphograph-rule-apply-practice-routine.md)
 

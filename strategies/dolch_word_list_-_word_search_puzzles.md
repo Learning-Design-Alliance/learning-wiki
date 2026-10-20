@@ -55,7 +55,7 @@ The rationale is that automatic recognition of high-frequency words frees workin
 2. Have learners read each target word aloud before searching ([Activation](../elements/activation.md)).
 3. Learners locate the words in the grid ([Practice](../elements/practice.md)).
 4. Learners write each found word from memory, then read it in a short sentence ([Application](../elements/application.md)).
-5. Reintroduce the same words in new puzzles across days rather than in one session ([Spaced Repetition](../claims/spaced-practice-improves-retention.md)).
+5. Reintroduce the same words in new puzzles across days rather than in one session ([Spaced Repetition](../claims/spaced-practice-improves-retention.md) [+S]).
 
 ## Related Strategies
 - [Flashcard Drill](flashcard-drill.md) — a more direct retrieval-based route to the same automaticity goal

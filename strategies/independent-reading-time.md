@@ -13,7 +13,7 @@ generated:
 # Independent Reading Time
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 8 claims (6 for, 1 mixed, 1 unmarked) · 20 studies (9 review, 4 causal, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 4 of 20 report an effect size
+> **Evidence** · 8 claims (6 for, 1 mixed, 1 against) · 20 studies (9 review, 4 causal, 4 theoretical, 3 quant-synthesis), `q1`–`q4` · 4 of 20 report an effect size
 
 ## Description
 Independent Reading Time is a scheduled block — often daily — in which learners choose texts at an appropriate difficulty level and read them on their own while the teacher confers with individuals or monitors engagement. It is carried out through structures such as Sustained Silent Reading (SSR), DEAR ("Drop Everything and Read"), or reading workshop, typically paired with brief teacher–student conferences, reading logs, or sharing routines.
@@ -51,7 +51,7 @@ Independent reading builds fluency and vocabulary through volume of authentic re
 - Pure SSR with no teacher involvement, feedback, or accountability shows weak or null effects on reading achievement in controlled evaluations [-M] — the National Reading Panel found the experimental evidence for sustained silent reading alone insufficient
 - Learners reading texts far above their decoding level disengage or fake-read; time-on-task collapses without text-matching support [-M]
 - Excessive accountability (logs, quizzes, grades on every session) undermines the autonomy that drives voluntary reading [Autonomy supports intrinsic motivation.](../claims/autonomy-supports-intrinsic-motivation.md) [-M]
-- Substituting independent reading for explicit [phonics or decoding instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) for struggling readers is harmful; it supplements, not replaces, foundational instruction [-S]
+- Substituting independent reading for explicit [phonics or decoding instruction](../claims/phonics-instruction-outperforms-whole-word-for-generalization.md) [-M] for struggling readers is harmful; it supplements, not replaces, foundational instruction
 - Unstructured SSR with no interaction, goal-setting, or accountability shows negligible effects on comprehension in experimental comparisons [-M] — the National Reading Panel (2000) found insufficient evidence for SSR alone as an instructional approach
 - Students reading texts far above their decoding level disengage or fake-read; without matching support, the time is lost [-M]
 - Cannot substitute for explicit instruction in phonics, comprehension strategies, or [Disciplinary Literacy](../principles/disciplinary-literacy.md) — volume of reading amplifies instruction, it does not replace it [-S]

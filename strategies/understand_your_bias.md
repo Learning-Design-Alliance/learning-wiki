@@ -12,7 +12,7 @@ generated:
 # Understand Your Bias
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 0 of 2 report an effect size
+> **Evidence** · 1 claim (1 for) · 2 studies (1 causal, 1 quant-synthesis), `q3` · 0 of 2 report an effect size
 
 ## Description
 Understand Your Bias is a structured self-reflection strategy in which learners examine their own automatic associations, stereotypes, and prejudices — often through instruments such as the Implicit Association Test, guided journaling, or structured discussion prompts — and then analyze how those biases influence their judgments of other people. The goal is metacognitive awareness of one's own perceptual filters, not immediate behavior change.
@@ -38,7 +38,7 @@ Bias awareness activities work by making automatic cognitive processes explicit 
 - **Instrument-based:** learners take the Implicit Association Test (Harvard's [Project Implicit](https://implicit.harvard.edu)) and reflect on discrepant results
 - **Case-based:** learners make judgments about ambiguous [Case Studies](../elements/case-studies.md), then compare outcomes across the group to reveal divergent interpretations
 - **Journaling:** private written reflection on first impressions, followed by analysis of where those impressions came from
-- **Contrast-based:** examining [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) of biased reasoning to sharpen discrimination between biased and fair judgment
+- **Contrast-based:** examining [Erroneous Examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W] of biased reasoning to sharpen discrimination between biased and fair judgment
 
 ### Target Learners
 - Adolescents through adults; requires sufficient metacognitive maturity to examine one's own thinking

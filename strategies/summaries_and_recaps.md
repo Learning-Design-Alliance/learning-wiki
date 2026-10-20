@@ -12,7 +12,7 @@ generated:
 # Summaries and Recaps
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
+> **Evidence** · 2 claims (2 for) · 5 studies (3 quant-synthesis, 2 causal), `q3`–`q4` · 3 of 5 report an effect size
 
 ## Description
 Summaries and recaps periodically restate key content in condensed form — at the end of a segment, lesson, or unit — using different words, images, or examples than the original explanation. The strategy breaks content into smaller pieces, explains each part, then closes with a brief recap that learners may encounter passively (instructor-provided) or actively (learner-generated summaries, which generally produce stronger learning).
@@ -37,7 +37,7 @@ Summaries exploit the structure of working memory and long-term consolidation: r
 #### Implementation Variability
 - **Segment recaps**: brief recap after each chunk of a lesson (lecture pause procedure)
 - **Lesson-closure recaps**: end-of-session synthesis, ideally elicited from students ([Class Discussion](../elements/class-discussion.md), exit tickets)
-- **Unit-level recaps**: advance organizers or concept maps that restructure accumulated content ([Advance Organizers](../elements/advance-organizers.md), [Concept Mapping](../claims/concept-mapping-improves-learning.md))
+- **Unit-level recaps**: advance organizers or concept maps that restructure accumulated content ([Advance Organizers](../elements/advance-organizers.md), [Concept Mapping](../claims/concept-mapping-improves-learning.md) [+M])
 - **Learner-generated**: one-minute papers, "summarize this for a younger student," muddiest-point prompts
 
 ### Target Learners

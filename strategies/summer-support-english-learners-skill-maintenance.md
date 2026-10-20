@@ -17,7 +17,7 @@ sources:
 # Provide summer support to help English Learners maintain and develop academic skills
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (1 for, 2 unmarked) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
+> **Evidence** · 3 claims (3 for) · 1 study (1 associational), `q2` · 0 of 1 report an effect size · 3 claims rest on one study
 
 ## Description
 The article's forward-looking recommendation drawn from its seasonal findings: because ELs lost more than never-ELs during summers in both math and reading, the authors conclude that "summer support is required to help ELs maintain and develop academic skills." This targets summer periods specifically, when the achievement gap relative to never-ELs widens.
@@ -42,8 +42,8 @@ The article's forward-looking recommendation drawn from its seasonal findings: b
 
 ## Related Strategies
 
-- [El Math Academic Year Growth Greater Summer Loss](../claims/el-math-academic-year-growth-greater-summer-loss.md)
-- [El Reading Graded Growth Pattern Summer Loss](../claims/el-reading-graded-growth-pattern-summer-loss.md)
+- [El Math Academic Year Growth Greater Summer Loss](../claims/el-math-academic-year-growth-greater-summer-loss.md) [+W]
+- [El Reading Graded Growth Pattern Summer Loss](../claims/el-reading-graded-growth-pattern-summer-loss.md) [+W]
 - [Provide summer learning opportunities as a lever for improving educational outcomes for students with disabilities](summer-learning-opportunities-students-disabilities.md)
 - [Offer summer and out-of-school-time programs for current-ELs and dually-identified students](summer-programs-for-els.md)
 - [Provide English learner-specific summer learning and staff accelerated learning programs with EL specialists](el-specific-summer-learning-and-el-specialist-staffing.md)

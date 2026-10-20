@@ -19,7 +19,7 @@ sources:
 # Embodied Physics Inquiry Through Dance Improvisation
 
 > **Design** · [All designs](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q2` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 Learners physically enact physics phenomena — gravity, Newton's laws, atomic bonding — through dance improvisation and choreography, using their bodies as the primary sense-making tool rather than treating movement as an illustration of ideas already understood. The pattern was developed for high-school girls with prior training in community-based dance (ballet, krumping, stepping), and its central move is to validate whatever culturally specific movement vocabulary emerges the moment it appears, which opens the activity to broader cultural participation rather than confining it to a single, teacher-specified movement style. See [Funds of Knowledge](../theories/funds-of-knowledge.md) for the theoretical basis: the pattern treats trained bodies and movement repertoires as a fund of knowledge on par with household or community practical knowledge.
@@ -39,7 +39,7 @@ Learners physically enact physics phenomena — gravity, Newton's laws, atomic b
 Unit (an 8-week program in the source study; the session structure itself is reusable at the single-session grain)
 
 ### Target Goals
-- [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md)
+- [Embodied dance improvisation supports physics engagement and sense-making](../claims/embodied-dance-improvisation-supports-physics-engagement-and-sensemaking.md) [+W]
 
 ### Target Learners
 - Learners — particularly from groups historically underrepresented and disciplined out of physics — who bring trained movement vocabularies from dance, athletics, or other embodied cultural practices

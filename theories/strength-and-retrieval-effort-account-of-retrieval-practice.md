@@ -17,7 +17,7 @@ sources:
 # Strength and Retrieval Effort Account (New Theory of Disuse and Bifurcation)
 
 > **Theory** · [All theories](index.md)
-> **Evidence** · 10 claims (4 for, 5 mixed, 1 unmarked) · 10 studies (6 quant-synthesis, 3 causal, 1 review), `q1`–`q4` · 4 of 10 report an effect size · 8 claims rest on one study
+> **Evidence** · 10 claims (5 for, 5 mixed) · 10 studies (6 quant-synthesis, 3 causal, 1 review), `q1`–`q4` · 4 of 10 report an effect size · 9 claims rest on one study
 
 ## Description
 This account holds that effortful retrieval strengthens knowledge and that "The degree to which knowledge is strengthened is assumed to be proportional to the amount of effort involved in retrieval". Bjork and Bjork's new theory of disuse distinguishes storage and retrieval strength; the bifurcation account of Kornell et al. (2011) adds that only retrieved items are strengthened, explaining delay-dependent effects.
@@ -54,7 +54,7 @@ This account holds that effortful retrieval strengthens knowledge and that "The 
 - *How does the benefit depend on the delay before the final test?* [Retention interval moderates the testing effect: effects are larger after a day or more than at shorter intervals, where individual studies vary from reliable to null or reversed](../claims/retention-interval-moderates-testing-effect.md) [+M]
 
 ## Related Theories
-- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md)
+- [Retrieval practice and spaced retrieval improve achievement and retention by medium amounts, while interleaving helps category learning only for some materials and blocking beats it for words](../claims/desirable-difficulties-enhance-learning.md) [+M]
 
 ## Examples
 -

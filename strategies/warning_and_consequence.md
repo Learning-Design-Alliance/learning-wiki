@@ -63,9 +63,13 @@ The strategy works because predictability, not severity, drives behavior change:
 - [Low-Profile Classroom Control](low-profile-classroom-control.md) — the warn-then-follow-through reaction sequence this technique instantiates
 - [Natural and Logical Consequences](../principles/effective-classroom-management-plan.md) — worth checking this specific consequence against, since a fixed break-time deduction can read as punishment rather than a consequence proportionate to and connected with the misbehavior
 ## Related Elements
-- <!-- TODO -->
+- [Antecedent-Behavior-Consequence (ABC) Model](../elements/antecedent-behavior-consequence-model.md) — the analysis of what maintains a behavior, which tells a teacher whether a consequence is the right lever or whether the "misbehavior" is a skill or instructional need
+- [Reinforcement](../elements/reinforcement.md) — the counterpart to the consequence; Instructions step 4 keeps the ratio of reinforcement to correction high
+- [Demonstration](../elements/demonstration.md) — teaching and modelling the expected behavior before any warning is given (Instructions, step 1)
+- [Check In](../elements/check-in.md) — the brief follow-up conversation for repeated patterns (Instructions, step 5)
+
 ## Tools
-- <!-- TODO -->
+- No tool page in the wiki covers this strategy. The one artifact the page itself requires is a posted, pre-announced consequence hierarchy (for example reminder → warning → brief removal from activity), such as the published hierarchies school-wide PBIS implementations use (see Examples).
 
 ## Examples
 - **School-wide PBIS** — most Positive Behavioral Interventions and Supports implementations define a published consequence hierarchy (reminder → warning → reflection → office referral) that teachers apply uniformly; see [https://www.pbis.org](https://www.pbis.org).

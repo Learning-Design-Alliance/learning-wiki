@@ -12,7 +12,7 @@ generated:
 # Visual Representations in Mathematics
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (2 for, 1 mixed, 1 unmarked) · 13 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 13 studies (5 causal, 3 quant-synthesis, 3 review, 1 associational, 1 theoretical), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 This strategy teaches learners to construct and interpret visual representations — schematic diagrams, number lines, strip/bar models, graphs, and graphic organizers — that accurately depict the quantities and relationships in a mathematics problem or concept. The visual serves as an intermediate bridge between the concrete situation and abstract symbols, externalizing problem structure so it can be inspected, discussed, and revised. Critically, the benefit comes from *schematic* representations that map mathematical relationships, not from decorative pictures.
@@ -26,7 +26,7 @@ Visual representations reduce working memory demands by holding intermediate qua
 - Explicit instruction in specific representation types (e.g., strip diagrams for part–whole relations, number lines for magnitude) with teacher modeling of how to build them
 - Practice constructing representations, not just interpreting pre-drawn ones
 - Attention to accuracy: a diagram that misrepresents the relationships produces wrong solutions with high confidence
-- Prompts for [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) connecting the visual to the symbolic expression [+M]
+- Prompts for [self-explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+M] connecting the visual to the symbolic expression
 
 #### Constraints
 - Learners with weak spatial skills or poor diagram-construction skills may produce disorganized or inaccurate visuals that harm performance [-M]

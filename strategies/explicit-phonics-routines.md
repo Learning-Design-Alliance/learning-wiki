@@ -59,7 +59,7 @@ Systematic, explicit phonics produces stronger word-reading and generalization o
 5. **Assess and regroup.** Use brief checks to confirm mastery before adding new correspondences; reteach or regroup students who have not mastered current patterns
 
 ## Related Strategies
-- [Cumulative review and spaced retrieval](../claims/spaced-practice-improves-retention.md) — the review segment of the routine depends on distributed retrieval for retention
+- [Cumulative review and spaced retrieval](../claims/spaced-practice-improves-retention.md) [+S] — the review segment of the routine depends on distributed retrieval for retention
 - Decodable text application — the bridge between isolated word work and authentic reading
 
 ## Examples

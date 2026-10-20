@@ -12,7 +12,7 @@ generated:
 # Encouraging Self Advocacy
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 9 studies (4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 9 report an effect size
+> **Evidence** · 4 claims (3 for, 1 mixed) · 9 studies (4 review, 3 quant-synthesis, 2 theoretical), `q1`–`q4` · 3 of 9 report an effect size
 
 ## Description
 Self advocacy is the ability to understand one's own learning needs, strengths, and rights, and to communicate them effectively — requesting accommodations, asking clarifying questions, negotiating deadlines, or seeking help strategically. Encouraging it as a design strategy means deliberately teaching and creating opportunities for learners to identify what they need and voice it, rather than having all supports arranged invisibly for them. It is typically taught through explicit scripts, role-play, and graduated real-world practice.
@@ -30,7 +30,7 @@ Self advocacy instruction works because it converts help-seeking from an admissi
 
 #### Constraints
 - Fails in unresponsive environments: advocacy without institutional follow-through teaches learned helplessness [-M]
-- Requires prior self-knowledge; learners who cannot yet name their needs need [Self-Monitoring](../claims/self-monitoring-improves-self-regulation.md) support first [~M]
+- Requires prior self-knowledge; learners who cannot yet name their needs need [Self-Monitoring](../claims/self-monitoring-improves-self-regulation.md) [~W] support first
 - Can be counterproductive if framed as replacing adult support entirely — premature withdrawal of scaffolds before learners can advocate effectively reduces performance [-M]
 - Power asymmetries (young learners, stigmatized disabilities) raise the social cost of speaking up; scripts alone do not remove this [-W]
 

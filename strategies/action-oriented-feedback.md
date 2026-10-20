@@ -13,7 +13,7 @@ generated:
 # Action Oriented Feedback
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 7 claims (4 for, 2 mixed, 1 unmarked) · 14 studies (5 review, 4 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 2 of 14 report an effect size
+> **Evidence** · 7 claims (5 for, 2 mixed) · 14 studies (5 review, 4 causal, 3 quant-synthesis, 2 theoretical), `q2`–`q4` · 2 of 14 report an effect size
 
 ## Description
 Action oriented feedback is feedback phrased as a concrete next step the learner can take — "add a topic sentence to this paragraph," "re-check the sign when you moved the term across the equals sign" — rather than as evaluation ("good work," "unclear") or person-level judgment ("you're careless"). It answers Hattie and Timperley's (2007) question "Where to next?" by converting diagnosis into a specific, executable move. It is carried out by identifying the gap between current and target performance, then specifying the smallest action that closes it.
@@ -76,7 +76,7 @@ Feedback is among the most powerful influences on learning, but its effects are 
 ## Related Strategies
 
 - [Formative feedback cycles](formative-assessment-cycles.md) — action oriented feedback is the delivery mechanism inside a formative loop
-- [Erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) — diagnosing a flawed example primes learners to give and receive action oriented comments
+- [Erroneous examples](../claims/erroneous-examples-build-conceptual-knowledge.md) [+W] — diagnosing a flawed example primes learners to give and receive action oriented comments
 - **Conferencing (writing workshop)** — the primary delivery vehicle for individualized action-oriented feedback
 - **Peer editing with protocols** — scales action-oriented feedback beyond the teacher
 - **Portfolio assessment** — makes the effect of implemented actions visible across drafts over time

@@ -12,14 +12,14 @@ generated:
 # Low Floor, High Ceiling Tasks
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 3 claims (2 for, 1 unmarked) · 10 studies (4 quant-synthesis, 3 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
+> **Evidence** · 3 claims (3 for) · 10 studies (4 quant-synthesis, 3 causal, 1 review, 1 qualitative, 1 theoretical), `q2`–`q4` · 3 of 10 report an effect size
 
 ## Description
 A low floor, high ceiling task is an open-ended problem that can be accessed with minimal prior knowledge — anyone can make a start — while containing extensions that challenge advanced learners. Rather than differentiating by assigning different problems to different students, the single task itself accommodates a wide range of entry points and depths of engagement. The approach originated in mathematics education reform (Sullivan, Clarke, & Wallbridge, 2011) and is central to problem-based curricula such as [Youcubed](https://www.youcubed.org) and [NRICH](https://nrich.maths.org).
 
 ## Design Implications
 
-Low floor, high ceiling tasks enact productive struggle: learners at different readiness levels work on the *same* problem, which preserves a shared classroom discourse and avoids the fixed-ability messaging of tiered assignments [Boaler's research on open, multidimensional mathematics classrooms shows improved outcomes and equity.](https://www.youcubed.org) [+M]. The low floor reduces the risk of [cognitive overload](../claims/cognitive-overload-degrades-learning.md) at entry [~M], while the high ceiling sustains challenge for experts, mitigating the expertise-reversal problem that arises when advanced learners receive the same support as novices [~M]. Because the task is open-ended, success depends on the teacher facilitating rather than demonstrating — the role shifts toward [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)-style coaching during work time.
+Low floor, high ceiling tasks enact productive struggle: learners at different readiness levels work on the *same* problem, which preserves a shared classroom discourse and avoids the fixed-ability messaging of tiered assignments [Boaler's research on open, multidimensional mathematics classrooms shows improved outcomes and equity.](https://www.youcubed.org) [+M]. The low floor reduces the risk of [cognitive overload](../claims/cognitive-overload-degrades-learning.md) [+W] at entry, while the high ceiling sustains challenge for experts, mitigating the expertise-reversal problem that arises when advanced learners receive the same support as novices [~M]. Because the task is open-ended, success depends on the teacher facilitating rather than demonstrating — the role shifts toward [Cognitive Apprenticeship](../patterns/cognitive-apprenticeship.md)-style coaching during work time.
 
 ### Context
 #### Requirements

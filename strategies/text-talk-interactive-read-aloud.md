@@ -12,7 +12,7 @@ generated:
 # Text Talk Interactive Read Aloud
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 2 claims (1 for, 1 unmarked) · 6 studies (3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 6 report an effect size
+> **Evidence** · 2 claims (2 for) · 6 studies (3 quant-synthesis, 2 causal, 1 theoretical), `q2`–`q4` · 3 of 6 report an effect size
 
 ## Description
 Text Talk is an interactive read-aloud approach developed by Beck and McKeown in which the teacher reads a rich, above-grade-level text aloud to young children and pauses at strategic points to ask open-ended, meaning-focused questions. Unlike typical read-alouds that lean on pictures, Text Talk deliberately delays showing illustrations until after children have constructed meaning from the language itself, and it follows up with explicit vocabulary instruction on words drawn from the story.
@@ -54,7 +54,7 @@ Text Talk converts a passive listening activity into an active, dialogic one: ch
 1. **Select a rich text** with a demanding conceptual load and several tier-two vocabulary words; preview it and draft 3–5 open questions keyed to story ideas.
 2. **Read without showing pictures**, pausing at planned points to ask an open question; follow children's answers with follow-up prompts ("Why do you think that?") rather than evaluations.
 3. **Show the illustrations after** children have constructed meaning from the language, then briefly check understanding of story events.
-4. **Conduct a short post-reading discussion** that asks children to put story ideas together (e.g., comparing a character's actions across the story — a form of [Comparing Cases](../claims/comparing-contrasting-cases-improves-learning.md) applied to narrative).
+4. **Conduct a short post-reading discussion** that asks children to put story ideas together (e.g., comparing a character's actions across the story — a form of [Comparing Cases](../claims/comparing-contrasting-cases-improves-learning.md) [+W] applied to narrative).
 5. **Teach 2–3 vocabulary words** with child-friendly definitions, examples in varied contexts, and interactive questions ("Have you ever felt *reluctant*? When?").
 6. **Revisit words across the week** in new contexts to build the multiple encounters vocabulary acquisition requires.
 

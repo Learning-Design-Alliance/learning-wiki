@@ -13,7 +13,7 @@ generated:
 # Graphic Organizers for Note-Taking
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 4 claims (3 for, 1 unmarked) · 12 studies (5 review, 4 causal, 3 quant-synthesis), `q2`–`q4` · 2 of 12 report an effect size
+> **Evidence** · 4 claims (4 for) · 12 studies (5 review, 4 causal, 3 quant-synthesis), `q2`–`q4` · 2 of 12 report an effect size
 
 ## Description
 Learners use graphic organizers — matrices, concept maps, Venn diagrams, flowcharts, timelines — to structure notes taken from readings, research, films, or podcasts. The instructor may pre-select an organizer matched to the content structure (e.g., a comparison matrix for contrasting theories) to promote learning efficiency, or learners may construct their own.
@@ -80,7 +80,7 @@ Graphic organizers externalize relationships among ideas, reducing the working-m
 - [Advance Organizers](../elements/advance-organizers.md) — organizers presented *before* instruction to prime structure; note-taking organizers operate during and after
 - [Annotating](../principles/annotating.md) — the text-marking counterpart for working directly with source documents
 - [Chunking](../principles/chunking.md) — organizers group information into processable units
-- [Elaborative Interrogation](../claims/elaborative-interrogation-improves-learning.md) — asking "why" and "how" questions while filling organizer cells deepens processing
+- [Elaborative Interrogation](../claims/elaborative-interrogation-improves-learning.md) [+M] — asking "why" and "how" questions while filling organizer cells deepens processing
 - [Retrieval Practice With Graphic Organizers](graphic_organizers_for_retrieval_practice.md)
 - **Cornell note-taking** — a structured linear alternative; graphic organizers trade speed of capture for explicit relational structure
 - **Concept mapping** — the learner-generated, open-ended variant of this strategy, best when relationships are non-obvious

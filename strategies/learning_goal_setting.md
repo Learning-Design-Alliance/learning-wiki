@@ -12,7 +12,7 @@ generated:
 # Learning Goal Setting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 10 studies (6 review, 3 theoretical, 1 causal), `q1`–`q3` · 0 of 10 report an effect size
+> **Evidence** · 5 claims (4 for, 1 mixed) · 10 studies (6 review, 3 theoretical, 1 causal), `q1`–`q3` · 0 of 10 report an effect size
 
 ## Description
 Learning goal setting is the practice of defining clear, specific objectives *before* engaging in a learning experience — such as shadowing, observation, a project, or a unit of study. Learners articulate what they want to find out, write down their current assumptions, and identify what evidence would challenge or confirm those assumptions. This converts a diffuse experience into a directed inquiry: attention is pre-committed to targets, and post-experience reflection has explicit criteria to evaluate against.
@@ -32,7 +32,7 @@ Goal setting works because specific, difficult goals regulate effort, persistenc
 - Vague or overly broad goals ("learn about teaching") provide no regulatory benefit; specificity is the active ingredient [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [-M] when violated
 - Outcome-oriented goals can *harm* novice performance and persistence after failure; learning-oriented goals are required for inexperienced learners [Process goals outperform outcome goals for novices.](../claims/process-goals-outperform-outcome-goals-for-novices.md) [-M]
 - Pre-set goals can bias observation — learners may notice only what confirms their goals; explicitly documenting assumptions and counter-evidence questions mitigates this
-- Requires honest self-assessment; learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) may set defensively easy goals that produce little growth [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~M]
+- Requires honest self-assessment; learners with low [self-efficacy](../claims/self-efficacy-predicts-academic-persistence.md) [~W] may set defensively easy goals that produce little growth [Self-efficacy predicts academic persistence.](../claims/self-efficacy-predicts-academic-persistence.md) [~W]
 
 #### Implementation Variability
 - **Individual written goals** — learners draft personal questions and assumptions before shadowing or field observation

@@ -12,7 +12,7 @@ generated:
 # Double-Entry Journals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 6 claims (4 for, 1 mixed, 1 unmarked) · 16 studies (7 quant-synthesis, 5 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 16 report an effect size
+> **Evidence** · 6 claims (5 for, 1 mixed) · 16 studies (7 quant-synthesis, 5 causal, 3 review, 1 theoretical), `q2`–`q4` · 7 of 16 report an effect size
 
 ## Description
 A double-entry journal is a two-column response format in which learners copy or summarize a phrase, sentence, or idea from an assigned text in the left column and write their reaction — a question, connection, prediction, evaluation, or emotional response — in the right column. The format forces learners to move between the text's words and their own thinking, converting passive reading into an active, dialogic exchange with the text.
@@ -26,7 +26,7 @@ Double-entry journals are a writing-to-learn technique: the act of composing a r
 - A text worth responding to — rich enough to support multiple defensible interpretations ([Assigned Readings](../elements/assigned-readings.md))
 - A clear two-column format (paper folded in half, or a two-column digital template) and explicit prompts for the response column (e.g., "I wonder…", "This reminds me of…", "I disagree because…")
 - Time for individual writing followed by structured sharing ([Class Discussion](../elements/class-discussion.md))
-- Teacher modeling of one or two completed entries before independent use, with [Fading](../claims/fading-support-promotes-transfer-of-responsibility.md) of prompts as learners gain fluency [+M]
+- Teacher modeling of one or two completed entries before independent use, with [Fading](../claims/fading-support-promotes-transfer-of-responsibility.md) [+M] of prompts as learners gain fluency
 
 #### Constraints
 - Learners with weak writing fluency may spend their cognitive budget on transcription rather than comprehension; response stems, sentence frames, or oral alternatives mitigate this [~M]

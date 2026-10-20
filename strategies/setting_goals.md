@@ -12,7 +12,7 @@ generated:
 # Setting Goals
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 5 claims (4 for, 1 unmarked) · 13 studies (4 theoretical, 3 quant-synthesis, 3 review, 2 causal, 1 associational), `q1`–`q4` · 2 of 13 report an effect size
+> **Evidence** · 5 claims (5 for) · 13 studies (4 theoretical, 3 quant-synthesis, 3 review, 2 causal, 1 associational), `q1`–`q4` · 2 of 13 report an effect size
 
 ## Description
 Lessons have clear learning intentions with goals that clarify what success looks like. Lesson goals always explain what students need to understand and what they must be able to do. Clear goals help the teacher plan learning activities and help students understand what is required, providing a reference point against which progress can be monitored and [Assessment](../elements/assessment.md) interpreted.
@@ -44,7 +44,7 @@ Goal-setting theory shows that specific, challenging goals reliably produce high
 
 ### Target Learning Goals
 - Clarifying learning intentions and success criteria for students
-- Supporting metacognition: goals are the standard against which self-assessment and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) operate
+- Supporting metacognition: goals are the standard against which self-assessment and [Self-Explanation](../claims/self-explanation-improves-conceptual-understanding.md) [+W] operate
 - Motivation and persistence: specific goals sustain effort on difficult tasks [Specific, difficult goals lead to higher performance.](../claims/specific-difficult-goals-lead-to-higher-performance.md) [+M]
 
 ### Instructions

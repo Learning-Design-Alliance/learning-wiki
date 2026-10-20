@@ -13,16 +13,16 @@ generated:
 # Working Memory
 
 > **Learner Variable** · [All learner variables](index.md)
-> **Evidence** · 72 claims (45 show a difference, 16 mixed, 9 no difference, 2 unmarked) · 61 studies (17 causal, 17 associational, 14 review, 8 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 11 of 61 report an effect size · 67 claims rest on one study
+> **Evidence** · 72 claims (47 show a difference, 16 mixed, 9 no difference) · 61 studies (17 causal, 17 associational, 14 review, 8 quant-synthesis, 3 qualitative, 2 theoretical), `q1`–`q4` · 11 of 61 report an effect size · 67 claims rest on one study
 
 ## Description
 How much a learner can hold and manipulate at once. It is the best-evidenced dimension here and the most directly actionable: it converts into element counts per screen, whether two sources must be read together, and whether a problem is given whole or as a worked example. Capacity is near-fixed, but *effective* capacity is not — prior knowledge supplies the schemas that let several items be held as one, which is why the same screen overloads a novice and not an expert [~S].
 
 ## How strongly it relates to achievement
 
-**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md)): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
+**Mathematics.** These are correlations across meta-analyses (Breit et al. 2025, a systematic review of 30 meta-analyses; [overview](../claims/math-achievement-relates-more-to-knowledge-and-abilities-than-personality.md) [+W]): how strongly learners who differ on this characteristic differ in mathematics achievement, not how much changing it would change achievement. Many of these characteristics are correlated with one another, and the review is about mathematics only.
 
-- Composite working memory **r = .38**, working memory **.35** (k = 829); numerical **.34**, visual-spatial **.31**, verbal **.30**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md)
+- Composite working memory **r = .38**, working memory **.35** (k = 829); numerical **.34**, visual-spatial **.31**, verbal **.30**. [Claim](../claims/executive-functions-and-working-memory-correlate-with-math-achievement.md) [+W]
 
 ## Implications
 

@@ -37,7 +37,7 @@ grain_size: course, unit
 # Cognitive Apprenticeship
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 23 claims (9 for, 10 mixed, 3 against, 1 unmarked) · 24 studies (9 causal, 4 quant-synthesis, 4 qualitative, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 24 report an effect size · 19 claims rest on one study
+> **Evidence** · 23 claims (10 for, 10 mixed, 3 against) · 24 studies (9 causal, 4 quant-synthesis, 4 qualitative, 3 review, 2 associational, 1 design, 1 theoretical), `q1`–`q4` · 2 of 24 report an effect size · 19 claims rest on one study
 
 ## Description and scope
 
@@ -114,7 +114,7 @@ Claims this page cited before it was rewritten as a conditional model. They are 
 
 - [Worked examples reduce unnecessary search for novices.](../claims/worked-examples-reduce-novice-search.md) [+M] — not settled: the text available could not confirm the entries (abstract)
 - [Example-based sequences outperform problem-only practice for novices, and fading support is argued to aid transfer](../claims/worked-examples-with-practice-improve-transfer.md) [+S] — not settled: the text available could not confirm the entries (abstract)
-- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md)
+- [Mentored inquiry with staged mechanistic sensemaking supports the transition from intuitive to formal equation reasoning](../claims/mentored-inquiry-supports-transition-from-intuitive-to-formal-equation-reasoning.md) [+W]
 - [A network of three mutually overlapping intuitive ideas (less distance implies less time, bunched up means faster, faster implies less time) stabilizes students' initial thinking](../claims/network-of-intuitive-ideas-stabilizes-thinking.md) [~W]
 
 ## Illustrative design instance and observation record

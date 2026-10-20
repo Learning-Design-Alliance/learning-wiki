@@ -1,0 +1,333 @@
+# ============================================================================
+# THE RECORD THAT BREAKS THE PROGRAMME'S OWN GENERALISATION. Mohler and Menagerie put
+# human graders at 0.519 and 0.424 (0.465 at 5 levels), and this programme had started
+# saying "human graders agree less than assumed" as though that were a fact
+# about graders. Four instructors here agree at 0.981.
+#
+# It is a RE-ANALYSIS of somebody else's deposit, not a re-run of the Lazuli grader:
+# no model call, arithmetic over published evaluations using the same
+# `agreement()` as every machine figure in this release. Read
+# `provenance.source_type` before pooling anything.
+# ============================================================================
+
+schema_version: 2
+
+study:
+  key: lazuli-grader-harmogen-2026
+  citation: 'David S. Porcaro. (2026). Reliability, calibration and attack surface of an LLM short-answer grader, measured against three human-graded corpora. Research release ai-grader-reliability-2026 1.0.0, Learning Design Alliance. https://doi.org/10.5281/zenodo.23480844'
+  design:
+    family: other
+    design_detail: >-
+      Secondary analysis of a complete within-subjects deposit. Every one of 770
+      responses was evaluated by four instructors and three LLMs under five
+      rubric variants, three LLM iterations apiece, so rater, rubric and model
+      are fully crossed. Nothing is manipulated: the quantities reported
+      are agreement among the published evaluations, built into pairs exactly
+      as the companion Menagerie record builds them — one machine-human pair per
+      instructor who rated the item, one human-human pair per pair of
+      instructors, on the same items with the same statistic.
+
+provenance:
+  source_type: platform-experiment
+  extracted_by: claude/unspecified
+  extracted_at: 2026-09-15
+  extraction_method: computed-from-own-runs
+  verification: unverified
+
+appears_in:
+  - claim: human-graders-agree-less-than-single-grade-ground-truth-implies
+    bearing: qualifies
+    anchor: porcaro-2026
+    note: >-
+      THE BOUNDARY ON THAT CLAIM, and the reason it needed one. Four instructors
+      here agree at QWK 0.981 — where Mohler's two reach 0.519 and Menagerie's
+      28 reach 0.424 (0.465 at 5 levels). The claim holds for open-ended marking and does not
+      generalise to graders as such.
+  - claim: llm-short-answer-graders-can-reach-human-rater-agreement
+    bearing: supports
+    anchor: porcaro-2026
+    note: >-
+      Supports it on the terms the claim is written in, and narrows what
+      "reaching the ceiling" is worth: on the near-closed items here the machine
+      reaches 99% of a 0.981 ceiling, which is a much weaker statement than the
+      same percentage against a ceiling of 0.42.
+
+evidence_base:
+  unit: items
+  size:
+    value: 3850
+    unit: items
+  additional_sizes:
+    - value: 770
+      unit: items
+      note: Distinct student responses; each appears under five rubric variants.
+    - value: 50050
+      unit: items
+      note: >-
+        Individual published evaluations — 15,400 human and 34,650 LLM — which
+        are what the pairs are built from.
+    - value: 4
+      unit: comparisons
+      note: Instructors per cell, on every cell. This is what makes a ceiling computable.
+  population:
+    description: >-
+      Students on a university Data Structures and Algorithms course, answering
+      12 text questions and 3 code questions across three formative
+      assessments. A PROXY population, as with every corpus in this release:
+      not Lazuli learners, not Lazuli's questions, not its rubrics. The evaluators
+      are four programming instructors from the same course.
+    age_or_stage: University students, stage not recorded in the deposit
+    prior_knowledge: >-
+      Enrolled in the course the questions come from. THE ITEM MIX IS THE
+      FINDING HERE: half the responses are a bare multiple-choice option letter
+      (median length 2 characters) filed under `type: text`, and 70% of all
+      marks sit at either zero or full. A corpus half-composed of items with one
+      right answer cannot measure rubric agreement, and every pooled figure over
+      it is half a measurement of something else.
+      .
+      ALSO, AND IT BOUNDS EVERYTHING HERE: the responses are in PORTUGUESE. That
+      does not affect this record, which is arithmetic over the depositors' own
+      evaluations, but it is why the corpus is not a candidate for running the
+      Lazuli English grading prompt against — that would measure multilingual
+      capability confounded with rubric-following.
+  context:
+    setting: >-
+      Archival and secondary. The evaluations were collected in 2025 for a study
+      of how rubric provenance changes an assessment; the release ran no model on it.
+    delivery_mode: Offline analysis of the deposit. No model call anywhere in this record.
+    duration: Analysis run 2026-09-15.
+  arms:
+    - id: instructor-pool
+      description: >-
+        The four programming instructors, treated as one pool. Not an
+        intervention — there is one condition here, humans grading — but the
+        schema needs an arm for an observation to hang from.
+      size:
+        value: 15400
+        unit: items
+    - id: llm-pool
+      description: >-
+        The deposit's three LLM evaluators (GPT-4.1, GPT-4o, DeepSeek V3), three
+        iterations each. Their grader, not Lazuli's, which is why this record says
+        nothing about the Lazuli prompt.
+      size:
+        value: 34650
+        unit: items
+
+comparisons:
+  - id: llm-vs-instructor
+    kind: other
+    index_arm: llm-pool
+    reference_arm: instructor-pool
+    description: >-
+      Machine-human pairs built exactly like the human-human pairs — same items,
+      same statistic, one pair per instructor who rated the item. The deposit's
+      own published figure instead averages four instructors into one score and
+      nine LLM evaluations into another; both constructions are reported, and
+      the difference between them turns out to be small.
+  - id: instructor-vs-instructor
+    kind: other
+    index_arm: instructor-pool
+    reference_arm: instructor-pool
+    description: >-
+      Agreement between instructors who scored the same item. Both slots name
+      the same arm because there is no contrast of conditions: the quantity is
+      the spread within one pool, which is what a ceiling is.
+
+observations:
+  - id: the-ceiling-is-a-property-of-the-task
+    sample:
+      value: 23100
+      unit: pairs
+    comparison_ref: instructor-vs-instructor
+    analysis_ref: harmogen-reanalysis
+    outcome:
+      construct: >-
+        What human graders achieve against each other, and whether that
+        is a property of graders or of what they are grading
+      source_language: QWK between instructor pairs on the same items
+      measure: >-
+        Scores normalised to 0-100 per question by the deposit's own formula and
+        binned onto an ordinal scale, then the same QWK used for every other
+        figure in this release. Reported at 21 levels and again at 11, because
+        the binning is a choice that moves the number.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: other
+      role_basis: inferred
+      anchors:
+        - claims/human-graders-agree-less-than-single-grade-ground-truth-implies
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: other
+      estimate: 0.981
+      model: >-
+        Four instructors, 23,100 pairs, QWK 0.981 pooled (0.980 at 11 levels).
+        HALF THE CORPUS IS MULTIPLE CHOICE STORED AS FREE TEXT — 385 of 770
+        responses are a bare option letter with a median length of 2 characters,
+        and nine of the twelve `text` questions are 62-98% such responses. On
+        those 1,925 cells the ceiling is EXACTLY 1.000, every rater identical.
+        On the 1,925 genuinely open cells it is 0.942; open text 0.949, open
+        code 0.931. Against the same statistic on other corpora: Mohler 0.519
+        (two raters), Menagerie 0.424 (28 raters, four per item, 14-level craft
+        rubric; 0.465 collapsed to 5 levels).
+      interpretation: >-
+        THE HUMAN CEILING IS NOT A CONSTANT AND IS NOT A FACT ABOUT GRADERS. It
+        ranges from 0.42 to 0.98 across three corpora measured with one
+        statistic — a spread wider than most effects this release reports.
+        .
+        WHAT EXPLAINS IT IS HOW MUCH DISAGREEMENT THE ITEMS ADMIT, and the
+        deposit lets that be shown rather than asserted. Half of it is multiple
+        choice: a bare option letter, median length two characters, filed under
+        `type: text`. Four people marking "B)" against a key is not marking, and
+        the agreement there is not approximately perfect but exactly perfect —
+        1.000, 100% of cells unanimous. Drop those and unanimity falls to 40%
+        and the ceiling to 0.942; on the code questions, 27% and 0.931. The
+        ordering is the finding: one right answer 1.00, the open answers 0.94
+        (short factual text 0.95, code 0.93), a craft rubric over a whole program
+        0.42.
+        .
+        THIS QUALIFIES A CLAIM THIS PROGRAMME HAS BEEN MAKING. "Expert human graders agree
+        with each other far less than assumed" was drawn from two corpora of
+        open-ended marking and was being read as a statement about graders. It
+        holds for open-ended marking. It does not generalise.
+    moderators:
+      reported:
+        - variable: how closed the item is
+          relationship: >-
+            Unanimity and ceiling move together across question types: text 80%
+            unanimous and 0.988, code 27% and 0.931. A ceiling and a unanimity
+            rate are close to the same fact said twice.
+          source_quote: >-
+            text 80% of cells all four instructors identical, ceiling 0.988;
+            code 27%, ceiling 0.931.
+      candidate:
+        - variable: number of raters
+          note: >-
+            Four instructors here against Mohler's two. More raters should
+            depress a pooled pairwise figure if anything, so this cannot explain
+            a ceiling that is higher.
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Secondary analysis: the evaluations are the depositors', the pair
+      construction and the statistic are this release's. Conclusions identical at both
+      binning granularities tested. The normalisation to 0-100 is the deposit's
+      own and is applied per question, so questions with different maxima are
+      commensurable; no new rescaling was invented.
+    source_quote: >-
+      Four instructors at QWK 0.981 on a corpus half made of multiple choice:
+      the ceiling belongs to the task, not to human graders.
+    source_location: release 1.0.0, evidence the-ceiling-is-a-property-of-the-task
+
+  - id: a-published-headline-reproduces-and-still-needs-its-ceiling
+    sample:
+      value: 138600
+      unit: pairs
+    comparison_ref: llm-vs-instructor
+    analysis_ref: harmogen-reanalysis
+    outcome:
+      construct: >-
+        Whether a published machine-agreement headline changes under a
+        rater-versus-rater construction, and what it means beside a ceiling
+      source_language: >-
+        Spearman rho and QWK, under the deposit's aggregate construction and
+        under pairwise construction
+      measure: >-
+        The same evaluations read three ways: each LLM evaluation against each
+        instructor; each instructor against each other instructor; and the
+        deposit's own, four instructors averaged into one score against nine LLM
+        evaluations averaged into another.
+      scale: "-1 to 1"
+      direction: higher-is-better
+      role: capability-evidence
+      role_basis: inferred
+      anchors:
+        - claims/llm-short-answer-graders-can-reach-human-rater-agreement
+    time:
+      label: At grading, no delay
+    result:
+      measure_type: other
+      estimate: 0.968
+      model: >-
+        LLM vs instructor, pairwise: QWK 0.968, rho 0.978, bias -0.41 levels.
+        Instructor vs instructor on the same items: QWK 0.981, rho 0.985. On the
+        multiple-choice half, every construction returns exactly 1.000. On the
+        genuinely open half: LLM 0.905 against a ceiling of 0.942, which is 96%
+        of it.
+        Averaged vs averaged, the deposit's construction: QWK 0.980, rho 0.988,
+        against the data paper's published rho of 0.991. Pooled bias on the
+        unbinned 0-100 scores is -2.02 points, against the paper's reported
+        -2.02% (on the 5-point grid it is -0.405 levels, which converts to -2.03
+        points). By question
+        type, LLM then instructor ceiling: text 0.986 / 0.988; code 0.837 /
+        0.931 with a machine bias of -2.18 levels.
+      interpretation: >-
+        THE RE-ANALYSIS REPRODUCES THE PAPER, which is what makes the rest of it
+        readable rather than a dispute about arithmetic: bias matches to two
+        decimal places and the aggregate rho to 0.003.
+        .
+        AND A SUSPICION RECORDED BEFORE RUNNING IT WAS WRONG. The expectation was
+        that averaging four raters and three iterations was doing most of the
+        work in a rho of 0.991. It is worth about 0.01 — pairwise 0.978 against
+        the aggregate's 0.988. The headline survives its own construction.
+        .
+        WHAT THE MISSING CEILING HIDES IS THE TASK, NOT THE MACHINE, and the
+        mechanism is sharper than "the items are easy": 1,925 of the 3,850 cells
+        are multiple choice, where every rater human and machine returns the
+        identical mark and every agreement statistic is exactly 1.000. The
+        published headline is half-composed of them.
+        .
+        DROPPING THEM LEAVES A REAL RESULT AND A NARROWER ONE. On the open half
+        the machine reaches 0.905 against a 0.942 ceiling — 96% of it — and on
+        the code questions 0.837 against 0.931, marking about two levels low.
+        That is a good grader on short factual answers in its own language, not
+        a general one.
+        .
+        THE RULE THIS SUPPORTS, now on three corpora rather than an argument: a
+        machine agreement figure quoted without the human ceiling for its own
+        task is uninterpretable. 0.99 can mean "barely below four unanimous
+        humans on closed items" and 0.20 can mean "half of a low ceiling on an
+        open craft judgement", and the number alone does not say which.
+    moderators:
+      reported:
+        - variable: how the pairs are constructed
+          relationship: >-
+            Averaging both sides before correlating adds about 0.01 here. Small,
+            but it is the difference between a figure that describes rater
+            agreement and one that describes agreement between two averages.
+          source_quote: pairwise rho 0.978, averaged-vs-averaged rho 0.988.
+        - variable: whether the item has one right answer
+          relationship: >-
+            Every statistic returns exactly 1.000 on the multiple-choice half
+            and 0.905 against a 0.942 ceiling on the open half. Pooling them
+            reports 0.968 and describes neither.
+          source_quote: >-
+            bare option letter: QWK 1.000 on 69,300 pairs; genuinely open: 0.905
+            against a ceiling of 0.942.
+        - variable: question type, within the open half
+          relationship: >-
+            The machine-human gap is 0.005 on open text and 0.094 on code, so
+            what is left after the multiple choice is removed is still two
+            regimes.
+          source_quote: open text 0.944 vs ceiling 0.949; code 0.837 vs 0.931.
+      candidate: []
+    observability:
+      population_detail: observed
+      implementation_detail: observed
+      outcome_timing: observed
+      effect_size: observed
+    observability_notes: >-
+      Their grader, not Lazuli's: three commercial models under the deposit's own
+      prompting, so nothing here evaluates the Lazuli prompt. The LLM evaluations
+      outnumber the human ones nine to four per cell, so the pairwise machine
+      figure pools more pairs than the ceiling does; both are reported with their
+      n. Conclusions identical at both binning granularities tested.
+    source_quote: >-
+      From the release: pairwise LLM-instructor QWK 0.968 against an instructor
+      ceiling of 0.981, and 0.837 against 0.931 on the code questions alone.
+    source_location: release 1.0.0, evidence a-published-headline-reproduces-and-still-needs-its-ceiling

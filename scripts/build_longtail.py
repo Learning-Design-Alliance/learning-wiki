@@ -41,7 +41,7 @@ TEMPLATE = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{title} - Learning Design Wiki</title>
-<link rel="icon" href="{rel}branding/lda-favicon.png">
+<link rel="icon" href="{rel}branding/lda-monogram-dawn.svg" type="image/svg+xml">
 {css}
 <style>
 .lt-header{{background:var(--md-primary-fg-color);color:var(--md-primary-bg-color);padding:.6rem 1rem;font-size:.8rem}}
@@ -54,7 +54,7 @@ TEMPLATE = """<!doctype html>
 <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
 <script>try{{var s=new URL("{rel}"||".",location).pathname,p=JSON.parse(localStorage.getItem(s+".__palette"));if(p&&p.color){{for(var k of ["scheme","primary","accent"])if(p.color[k])document.body.setAttribute("data-md-color-"+k,p.color[k])}}}}catch(e){{}}</script>
 <header class="lt-header">
-<a href="{rel}"><strong>Learning Design Wiki</strong></a>
+<a class="lt-logo" href="{rel}"><img src="{rel}branding/lda-monogram-lapis.svg" alt="Learning Design Wiki"></a>
 <a href="{rel}{folder}/">{label}</a>
 <form class="lt-header-search" action="{rel}search/" role="search"><input name="q" type="search" placeholder="Search" aria-label="Search the wiki"></form>
 </header>

@@ -17,7 +17,7 @@ sources:
 # Restorying Computing Futures Through Electronic Quilting
 
 > **Strategy** · [All strategies](index.md)
-> **Evidence** · 1 claim (1 unmarked) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
+> **Evidence** · 1 claim (1 for) · 1 study (1 qualitative), `q1` · 0 of 1 report an effect size · 1 claim rests on one study
 
 ## Description
 A concrete operationalization of [Womanist Restorying](../theories/womanist-restorying.md) for computing education. Youth first name their own group's dominant stereotype of "who is a computer scientist" (in the source study: "old white men" who "code" and "know all technology"), then design an interactive quilt patch — built from construction paper, copper tape, microcontrollers, and LEDs — that tells a counter-story centering an underrepresented perspective (e.g., a Black woman founding computer science). The paper-circuit medium is chosen deliberately: it echoes Black women's historical quilt-making as a form of resistance and knowledge preservation, and its "looks simple, but complexity is hidden" character challenges norms about what technical work looks and feels like. Group quilting sessions are explicitly framed as a form of collaborative kinship-building, not solitary maker work.
@@ -37,12 +37,12 @@ A concrete operationalization of [Womanist Restorying](../theories/womanist-rest
 
 ### Target Learners
 - Youth from groups excluded by computing's dominant "who belongs" narrative, particularly Black girls
-- Link to sub-claim: [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md)
+- Link to sub-claim: [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md) [+W]
 
 ### Target Learning Goals
 - Building critical awareness of whose perspectives a field's dominant narrative centers and silences
 - Constructing and computationally encoding a self-authored counter-narrative of belonging
-- Link to sub-claim: [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md)
+- Link to sub-claim: [Restorying supports Black girls' identification of and resistance to dominant narratives in computing](../claims/restorying-supports-computing-identity-reconstruction.md) [+W]
 
 ### Instructions
 1. **Deconstruction (Day 1)** — Prompt small groups with word-cloud questions: "Who do you imagine has been included in CS historically?" and "What kinds of people are talked about as computer scientists?" Introduce basic programming and paper-circuit construction alongside this discussion.

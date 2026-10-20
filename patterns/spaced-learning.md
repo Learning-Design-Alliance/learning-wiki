@@ -14,7 +14,7 @@ grain_size: course
 # Spaced Learning
 
 > **Pattern** · [All patterns](index.md)
-> **Evidence** · 43 claims (21 for, 20 mixed, 1 against, 1 unmarked) · 29 studies (14 causal, 7 quant-synthesis, 5 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 38 claims rest on one study
+> **Evidence** · 43 claims (21 for, 21 mixed, 1 against) · 29 studies (14 causal, 7 quant-synthesis, 5 review, 2 design, 1 theoretical), `q1`–`q4` · 9 of 29 report an effect size · 38 claims rest on one study
 
 ## Description
 
@@ -50,7 +50,7 @@ If six of ten words are recalled today, that is a sample response, not a calibra
 
 ## Evidence-bounded expectation
 
-A word-pair experiment separated total retrieval spacing from its relative arrangement: after first correct recall, repeated retrievals with intervening trials improved one-week recall relative to massed retrieval. At matched total nominal spacing, expanding, equal and contracting arrangements did not differ detectably: [absolute versus relative spacing observation](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md). The full source was checked. This does not establish equivalence or an advantage for expanding gaps, a universal calendar gap, or conversational use. Retain total practice, corrective feedback, initial learning criterion, actual gaps and final-test horizon when comparing schedules. Relearning to a criterion in later sessions breaks that rule: a longer gap means more forgetting and so more relearning trials, which confounds spacing with the amount of practice, so a local comparison should give a fixed number of review trials instead ([Relearning-to-criterion designs confound spacing with practice amount](../claims/relearning-confound-distributed-practice-designs.md) [~W]; a methodological argument in a synthesis, not a tested result).
+A word-pair experiment separated total retrieval spacing from its relative arrangement: after first correct recall, repeated retrievals with intervening trials improved one-week recall relative to massed retrieval. At matched total nominal spacing, expanding, equal and contracting arrangements did not differ detectably: [absolute versus relative spacing observation](../claims/total-retrieval-spacing-beats-massed-but-relative-schedule-not-distinguished.md) [~W]. The full source was checked. This does not establish equivalence or an advantage for expanding gaps, a universal calendar gap, or conversational use. Retain total practice, corrective feedback, initial learning criterion, actual gaps and final-test horizon when comparing schedules. Relearning to a criterion in later sessions breaks that rule: a longer gap means more forgetting and so more relearning trials, which confounds spacing with the amount of practice, so a local comparison should give a fixed number of review trials instead ([Relearning-to-criterion designs confound spacing with practice amount](../claims/relearning-confound-distributed-practice-designs.md) [~W]; a methodological argument in a synthesis, not a tested result).
 
 An equal schedule may be selected for practical reasons while this exact comparison remains unresolved; do not predict a gain from changing only equal to expanding gaps on this evidence. Calendar timing and the dose needed for a particular learner remain local questions. Lower practice fluency can coexist with better delayed performance, but difficulty alone does not identify the cause or predict the outcome.
 
