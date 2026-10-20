@@ -45,6 +45,7 @@ The article's laboratory design integrates three strands in one experiment: an a
 ## Related Patterns
 
 - [Combining visual demonstrations, guided inquiry, computational-model manipulation, and group discussion to teach cutting-edge science concepts](demo-inquiry-model-discussion-sequence.md)
+- [Adjustable open-cavity HeNe laser apparatus](../elements/adjustable-open-cavity-hene-laser-apparatus.md) — the apparatus the experiment uses
 
 ## Examples
 

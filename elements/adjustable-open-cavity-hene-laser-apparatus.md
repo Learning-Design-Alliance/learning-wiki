@@ -46,7 +46,7 @@ An undergraduate laboratory apparatus combining an adjustable open-cavity HeNe l
 - 
 
 ## Examples
--
+- [Combined measurement, laser modes and statistics lab](../designs/combined-measurement-laser-statistics-lab-pattern.md) — the undergraduate experiment built on this apparatus
 
 ## Key Sources
 - Daniel J. D'Orazio, Mark Pearson, Justin T. Schultz, Daniel Sidor, Michael Best, Kenneth Goodfellow, Robert E. Scholten, and James D. White. (2010). Measuring the speed of light using beating longitudinal modes in an open-cavity HeNe laser. https://arxiv.org/abs/1006.5462

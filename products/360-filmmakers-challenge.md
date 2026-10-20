@@ -30,7 +30,9 @@ A programme run through Oculus VR for Good in which young people produce 360-deg
 ### Claims
 
 ## Related Products and Programmes
--
+- [Community prompts and an authentic audience for 360 films](../strategies/community-prompts-authentic-audience-360-film.md) — the programme's prompt and audience design
+- [Prepare and test technology before launch](../strategies/prepare-test-technology-before-launch-scaffold.md) — the programme's lesson on headset and camera bottlenecks
+- [Authentic Audiences and Purposes](../principles/authentic-audiences-purposes.md) — the principle the challenge applies by having students create for a real audience
 
 ## Key Sources
 - 360 Filmmakers Challenge: Key Findings from the Fall 2016 Program. (2017). Digital Promise Global. https://digitalpromise.dspacedirect.org/items/bf98d40e-980c-4f54-9985-46bf5675d2fa
